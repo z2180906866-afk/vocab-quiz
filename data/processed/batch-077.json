@@ -1,0 +1,1634 @@
+{
+  "batchId": 77,
+  "words": [
+    {
+      "id": "subway",
+      "word": "subway",
+      "phonetic": "/'sʌbwei/",
+      "meaning": "n.地铁；地下行人隧道",
+      "similar": [
+        "sway",
+        "sunday"
+      ],
+      "question": {
+        "wordId": "subway",
+        "stem": "选择 \"subway\" 的正确中文意思：",
+        "correct": "n.地铁；地下行人隧道",
+        "options": [
+          "n.星期日",
+          "vi.摇动；倾斜 vt.使摇动 n.摇动；影响力",
+          "n.地铁；地下行人隧道",
+          "v.(mobilise)动员,赋予可动性"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "sub-（在下面）+ way（路）→ 地下的路 → 地铁；地下隧道。核心物理动作：在道路之下穿行的通道或交通工具。",
+        "similarWarning": "sway（摇摆，影响）：s换成sw，强调左右晃动；subway强调地下通道。sunday（星期日）：sun（太阳）+ day（日），与subway无直接关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "succeed",
+      "word": "succeed",
+      "phonetic": "/sək'si:d/",
+      "meaning": "vi.成功；继承，接替 vt.接替；继…之后",
+      "similar": [],
+      "question": {
+        "wordId": "succeed",
+        "stem": "选择 \"succeed\" 的正确中文意思：",
+        "correct": "vi.成功；继承，接替 vt.接替；继…之后",
+        "options": [
+          "vi.成功；继承，接替 vt.接替；继…之后",
+          "a.(of)意识到的,自觉的;神志清醒的",
+          "n.宽度,幅",
+          "v.对待;治疗;论述;款待,请客 n.款待,请客"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "suc-（=sub-，下、靠近）+ ceed（=ced，走、行）。本义是“跟着走、紧随其后”。由此引申出两条路径：① 在事业上“紧随前人的脚步并达到目标”→成功；② 在位置上“跟在某人后面接手”→继承、接替。核心物理动作是“跟在后面走”。",
+        "similarWarning": "succeed vs. proceed（pro-向前+ceed走→前进、继续进行）：succeed强调“跟随并达到”或“继承”；proceed强调“继续向前进行”。succeed vs. exceed（ex-超出+ceed走→超过）：exceed指数量或程度超出限度。",
+        "extendedMeaning": "在考研阅读中，succeed常考“继承、接替”义，如succeed to the throne（继承王位）。作及物动词时，还可表示“继…之后”，如succeed a period of peace（继一段和平时期之后）。",
+        "examUsage": "真题考点：succeed in doing sth.是成功做某事的标准搭配，常与fail形成对比。干扰项常将succeed与proceed、exceed混淆。例句：He succeeded in convincing the committee.（他成功说服了委员会。）"
+      }
+    },
+    {
+      "id": "successful",
+      "word": "successful",
+      "phonetic": "/sək'sesful/",
+      "meaning": "a.圆满的；顺利的；成功的",
+      "similar": [
+        "successor",
+        "succession",
+        "successive"
+      ],
+      "question": {
+        "wordId": "successful",
+        "stem": "选择 \"successful\" 的正确中文意思：",
+        "correct": "a.圆满的；顺利的；成功的",
+        "options": [
+          "a.圆满的；顺利的；成功的",
+          "n.连续,系列;继任,继承",
+          "a.接连的,连续的",
+          "n.接替的人或事物，继任者"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "success-（来自拉丁语 succedere，意为“跟随、进行”，sub-“从下往上”+ cedere“走、去”）+ -ful（形容词后缀，充满...的）。核心动作是“一步步跟随并达到目标”，即“成功完成目标的”。",
+        "similarWarning": "successor（n. 继任者，接班人），succession（n. 连续；继承），successive（a. 连续的，依次的）。successful 强调“结果成功”，而 successor 强调“接替的人/物”，succession 指“连续过程”，successive 指“一个接一个的”。",
+        "extendedMeaning": "（无显著考研僻义，该词基本义已覆盖真题用法。）",
+        "examUsage": "（常见于真题中作表语或定语，如 be successful in doing sth.，无特殊考点干扰项。）"
+      }
+    },
+    {
+      "id": "succession",
+      "word": "succession",
+      "phonetic": "/sək'seʃən/",
+      "meaning": "n.连续,系列;继任,继承",
+      "similar": [
+        "successor",
+        "successive",
+        "concession",
+        "procession",
+        "successful",
+        "suggestion",
+        "obsession",
+        "impression"
+      ],
+      "question": {
+        "wordId": "succession",
+        "stem": "选择 \"succession\" 的正确中文意思：",
+        "correct": "n.连续,系列;继任,继承",
+        "options": [
+          "a.接连的,连续的",
+          "n.让步，妥协；特许(权)；",
+          "n.接替的人或事物，继任者",
+          "n.连续,系列;继任,继承"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 succedere（suc-“下”+ cedere“走”），本义“跟在后面走”，引申为时间或顺序上的“连续”以及职位、权力的“继任”。",
+        "similarWarning": "succession vs. concession：前者指“连续/继承”；后者（con-“一起”+cession“走”）指“让步/特许权”。succession vs. procession：前者强调时间上的接续；后者（pro-“向前”）指“队伍/行列”，强调空间上的行进。",
+        "extendedMeaning": "在生态学或生物学中常考“演替”（如 ecological succession 生态演替），指一个群落被另一个群落取代的过程。",
+        "examUsage": "in succession（连续地）：真题中常与事件数量搭配（如 three times in succession）。succession to the throne（王位继承）：用于法律或政治类阅读。"
+      }
+    },
+    {
+      "id": "successive",
+      "word": "successive",
+      "phonetic": "/sək'sesiv/",
+      "meaning": "a.接连的,连续的",
+      "similar": [
+        "succession",
+        "excessive",
+        "successor",
+        "successful",
+        "aggressive",
+        "impressive",
+        "subjective"
+      ],
+      "question": {
+        "wordId": "successive",
+        "stem": "选择 \"successive\" 的正确中文意思：",
+        "correct": "a.接连的,连续的",
+        "options": [
+          "a.过多的;过分的;额外",
+          "n.连续,系列;继任,继承",
+          "a.接连的,连续的",
+          "n.接替的人或事物，继任者"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 succedere（接替，跟随），由 sub-（在…之下）+ cedere（走，前进）构成，字面义为“跟在后面走”。后缀 -ive 表形容词，故意为“接连的，连续的”，强调时间或顺序上一个接一个发生，无间隔。",
+        "similarWarning": "successive vs. excessive：前者核心是 suc-（跟随）+ cess（走），强调“连续不断”；后者 ex-（超出）+ cess（走），意为“过度的，极度的”。successive vs. successful：successful 中 success 指“成功”，-ful 表“充满”，意为“成功的”；successive 强调顺序。",
+        "extendedMeaning": "在考研阅读中，successive 可引申为“递进的，逐渐增强的”，如 successive generations（连续几代）暗含发展或积累的趋势。",
+        "examUsage": "常见搭配：successive governments（历届政府）、successive years（连年）。真题中常作为时间顺序的标志词，与 consecutive 同义替换，但注意与 aggressive（侵略的）区分。"
+      }
+    },
+    {
+      "id": "successor",
+      "word": "successor",
+      "phonetic": "/sək'sesə/",
+      "meaning": "n.接替的人或事物，继任者",
+      "similar": [
+        "succession",
+        "successful",
+        "successive",
+        "accessory"
+      ],
+      "question": {
+        "wordId": "successor",
+        "stem": "选择 \"successor\" 的正确中文意思：",
+        "correct": "n.接替的人或事物，继任者",
+        "options": [
+          "n.接替的人或事物，继任者",
+          "a.接连的,连续的",
+          "a.圆满的；顺利的；成功的",
+          "n.连续,系列;继任,继承"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 succedere（suc-“在…之下”+ cedere“走，去”），本义为“跟在后面走”。词根 cess 表“走，移动”，后缀 -or 表“人/物”。核心物理动作：一个人跟在另一个人后面走，从而接替其位置。",
+        "similarWarning": "successor vs. accessory：successor 核心是 suc-（下）+ cess（走）= 跟在后面走的人；accessory 核心是 ac-（朝向）+ cess（走）= 走向主件的东西，即附件。拼写差异：successor 为双 c 双 s，accessory 为双 c 单 s。",
+        "extendedMeaning": "在考研真题中常引申为“后续事物”或“继承者”，不限于人，如“the successor to the throne”（王位继承人）或“a successor company”（接替的公司）。",
+        "examUsage": "常见搭配：be successor to sth.（是某物的接替者）。真题考点：常与 predecessor（前任）对比考查，如“The successor must learn from the predecessor's mistakes.”"
+      }
+    },
+    {
+      "id": "suck",
+      "word": "suck",
+      "phonetic": "/sʌk/",
+      "meaning": "v.&n.吸，舐；吸收(取)",
+      "similar": [
+        "duck",
+        "luck",
+        "sack",
+        "sock",
+        "tuck",
+        "lucky",
+        "sauce",
+        "shock"
+      ],
+      "question": {
+        "wordId": "suck",
+        "stem": "选择 \"suck\" 的正确中文意思：",
+        "correct": "v.&n.吸，舐；吸收(取)",
+        "options": [
+          "n.鸭,鸭肉 v.迅速俯身;快速低头;躲避",
+          "n.运气;好运,侥幸",
+          "v.&n.吸，舐；吸收(取)",
+          "n.袋,包,麻袋 v.解雇"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿吮吸液体时发出的声音，核心物理动作为通过口腔负压将流体吸入。",
+        "similarWarning": "duck（鸭子/躲避），luck（运气），sack（麻袋/解雇），sick（生病的），sock（袜子），such（这样的），tuck（塞进），lucky（幸运的）。差异主要在首字母辅音，词义完全无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sudden",
+      "word": "sudden",
+      "phonetic": "/'sʌdən/",
+      "meaning": "a.出乎意料的，突然的",
+      "similar": [
+        "burden"
+      ],
+      "question": {
+        "wordId": "sudden",
+        "stem": "选择 \"sudden\" 的正确中文意思：",
+        "correct": "a.出乎意料的，突然的",
+        "options": [
+          "a.突起的,凸出的;突出的,杰出的",
+          "n.担子，重担，负担 vt.给予负担或麻烦",
+          "n./vt.掠夺,蹂躏,强奸",
+          "a.出乎意料的，突然的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语sub（在下面）+ ire（走）的过去分词subitus（突然的），原指“从下方走上来”，引申为“未预料到的、瞬间发生的”。核心动作：从隐蔽处突然出现。",
+        "similarWarning": "burden（负担）：对比b与s，burden强调“重负”，sudden强调“时间上的意外”，无拼写混淆风险，故省略。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sue",
+      "word": "sue",
+      "phonetic": "/sju:/",
+      "meaning": "v.控告,对…提出诉讼,起诉",
+      "similar": [
+        "cue",
+        "due",
+        "sum",
+        "sauce",
+        "suite",
+        "super",
+        "surge"
+      ],
+      "question": {
+        "wordId": "sue",
+        "stem": "选择 \"sue\" 的正确中文意思：",
+        "correct": "v.控告,对…提出诉讼,起诉",
+        "options": [
+          "v.控告,对…提出诉讼,起诉",
+          "暗示, 提示, 球杆",
+          "a.(to)应支付的;(车,船等)预定应到达的",
+          "n.总数,和;金额;算术题;要旨 v.合计,总计"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 sequi（跟随），本义是“跟随、追索”。法律语境中引申为“通过法律程序追索权利”，即“控告、起诉”。核心动作是“追着要个说法”。",
+        "similarWarning": "sure（确信的，有把握的）→ sue 多一个 r，词义无关；cue（暗示，提示）→ sue 首字母不同；due（到期的，应得的）→ 拼写相近但无法律动作关联。",
+        "extendedMeaning": "",
+        "examUsage": "常考搭配：sue sb. for sth.（因某事起诉某人），如：sue the company for breach of contract（起诉公司违约）。注意在阅读理解中可能作为法律类文章的核心动词出现。"
+      }
+    },
+    {
+      "id": "suffer",
+      "word": "suffer",
+      "phonetic": "/'sʌfə/",
+      "meaning": "v.(from)受痛苦,患病;受损失;遭受;忍受",
+      "similar": [
+        "offer",
+        "super",
+        "buffet",
+        "differ",
+        "sulfur",
+        "supper"
+      ],
+      "question": {
+        "wordId": "suffer",
+        "stem": "选择 \"suffer\" 的正确中文意思：",
+        "correct": "v.(from)受痛苦,患病;受损失;遭受;忍受",
+        "options": [
+          "v.(from)受痛苦,患病;受损失;遭受;忍受",
+          "v.提供,提议,出现 n.出价,提议,意图",
+          "a.极好的,超级的",
+          "n.自助餐"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 sufferre，由 sub-（从下往上/在下面） + ferre（承受、携带）组成，核心动作是“在下面承受压力/重量”。引申为承受痛苦、遭受损失或忍受不利处境。",
+        "similarWarning": "offer（提供）：o-（向）+ fer-（带来）→ 向某人带来东西。suffer vs offer：s-（向下） vs o-（向），一个向下承受，一个向前给予。",
+        "extendedMeaning": "（考研常考）suffer from 后接疾病或不利因素，但 suffer 单独使用可表示“遭受损失/失败”，如 suffer defeat（遭受失败）、suffer damage（遭受损害），不一定是身体痛苦。",
+        "examUsage": "（真题考点）常见搭配 suffer from（遭受…之苦），但考研阅读中常考 suffer 作及物动词，后直接接名词表示“遭受”，如 suffer a setback（遭受挫折）、suffer a loss（遭受损失），注意与被动语态的区别。"
+      }
+    },
+    {
+      "id": "suffice",
+      "word": "suffice",
+      "phonetic": "/sə'fais/",
+      "meaning": "v.充足，足够；vt.(食物等)使(某人)满足",
+      "similar": [],
+      "question": {
+        "wordId": "suffice",
+        "stem": "选择 \"suffice\" 的正确中文意思：",
+        "correct": "v.充足，足够；vt.(食物等)使(某人)满足",
+        "options": [
+          "v.充足，足够；vt.(食物等)使(某人)满足",
+          "n.批评家,评论家",
+          "n.力量；实力；长处，优点；人力；兵力",
+          "n.潜水艇 a.水底的,海底的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：sub-（在下面）+ facere（做）。本义为“在下面做足”，引申为“足够、满足”。核心动作：做到位、达到所需标准。",
+        "similarWarning": "office（办公室，职务）：词根 op-（工作）+ facere（做），强调“做事的地方”。surface（表面）：sur-（上面）+ face（脸/面），指“物体的外部”。suffice 强调“数量或程度足够”，与 office 和 surface 在拼写和词义上均无直接关联。",
+        "extendedMeaning": "（在考研真题中，suffice 常以固定句式出现，表示“足够做某事”，如 suffice it to say that...（只需说……就够了），用于引出结论或简化说明，属于高频考点。）",
+        "examUsage": "suffice it to say that...（只需说……就够了）：常用于议论文或说明文，表示“不必赘述，仅此一句即可说明问题”。例：Suffice it to say that the new policy has improved efficiency.（只需说新政策提高了效率就够了。）"
+      }
+    },
+    {
+      "id": "sufficient",
+      "word": "sufficient",
+      "phonetic": "/sə'fiʃənt/",
+      "meaning": "a.(for)足够的,充分的(比enough拘谨、正式)",
+      "similar": [
+        "efficient",
+        "suspicion",
+        "efficiency"
+      ],
+      "question": {
+        "wordId": "sufficient",
+        "stem": "选择 \"sufficient\" 的正确中文意思：",
+        "correct": "a.(for)足够的,充分的(比enough拘谨、正式)",
+        "options": [
+          "a.(for)足够的,充分的(比enough拘谨、正式)",
+          "n.效率;功效",
+          "a.有效的,效率高的;有能力的,能胜任的",
+          "n.怀疑，猜疑；一点儿，少量"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根sub-（在下面）+fic-（做）+i+ent（形容词后缀，表示“能…的”）。核心物理动作：在下面做足、在下面填满。本义是“在下面做够了”，引申为“足够的、充分的”。与enough相比，sufficient更强调数量上满足需求，语气更正式。",
+        "similarWarning": "efficient（a.高效的，a+词根fic-做+ient，强调做事效率高）vs sufficient（suf+fic+ient，强调数量充足）。suspicion（n.怀疑，sus-在下面+spic-看+ion，从下面偷看产生怀疑）vs sufficient（拼写差异：spic vs fic）。efficiency（n.效率，efficient的名词形式）vs sufficiency（n.充足，sufficient的名词形式）。",
+        "extendedMeaning": "在考研阅读中，sufficient常与adequate（足够的）、ample（充足的）作为同义替换出现，但sufficient侧重“刚好满足需求”，而ample侧重“超出所需”。",
+        "examUsage": "固定搭配：sufficient for（对…足够）。真题考点：常与enough同义替换，但语气更正式；注意与efficient（高效的）在形近词干扰题中的辨析。"
+      }
+    },
+    {
+      "id": "suggest",
+      "word": "suggest",
+      "phonetic": "/sə'dʒest/",
+      "meaning": "v.建议,提出；使联想,使想起…；暗示",
+      "similar": [],
+      "question": {
+        "wordId": "suggest",
+        "stem": "选择 \"suggest\" 的正确中文意思：",
+        "correct": "v.建议,提出；使联想,使想起…；暗示",
+        "options": [
+          "n.小心;关怀,照料 v.(about)关心,介意,计较",
+          "v.(on)集中,专心;浓缩 n.浓缩物",
+          "n.手推车;(英)无轨电车,(美)有轨电车",
+          "v.建议,提出；使联想,使想起…；暗示"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "sug-（=sub-, 在下面）+ -gest-（=gerere, 携带，带来）。核心动作：从下面带上来 → 把想法从潜意识带到意识层面 → 建议、暗示。",
+        "similarWarning": "",
+        "extendedMeaning": "（考研高频）暗示，间接表明：The data suggest that the trend is reversing.（数据暗示趋势正在逆转。）",
+        "examUsage": "常见搭配：suggest doing sth.（建议做某事）；It is suggested that...（有人建议……）。注意：suggest 后接 that 从句时，从句常用虚拟语气（should + 动词原形），但表示“暗示”时不用虚拟。"
+      }
+    },
+    {
+      "id": "suggestion",
+      "word": "suggestion",
+      "phonetic": "/səg'dʒestʃən/",
+      "meaning": "n.建议，意见；细微的迹象；暗示，联想",
+      "similar": [
+        "succession",
+        "selection"
+      ],
+      "question": {
+        "wordId": "suggestion",
+        "stem": "选择 \"suggestion\" 的正确中文意思：",
+        "correct": "n.建议，意见；细微的迹象；暗示，联想",
+        "options": [
+          "n.选择,挑选;选集,精选物",
+          "n.连续,系列;继任,继承",
+          "a.残忍的,残酷的",
+          "n.建议，意见；细微的迹象；暗示，联想"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "suggest（建议）+ -ion（名词后缀）→ 建议的行为或结果；词根gest-（携带，带来）暗示“将想法带到他人面前”，引申为“暗示、迹象”。",
+        "similarWarning": "suggestion vs. question（问题，疑问）：suggestion含“gest-”（带来），强调“提出观点”；question含“quest-”（寻求），强调“询问”。suggestion vs. succession（连续，继承）：suggestion为“建议”，succession为“接替”，词根“cess-”（走）不同。suggestion vs. selection（选择，挑选）：suggestion含“gest-”，selection含“lect-”（挑选），动作方向不同。",
+        "extendedMeaning": "细微的迹象：a suggestion of a smile（一丝笑意）；暗示，联想：the suggestion of guilt（有罪的暗示）。",
+        "examUsage": "真题中常考“suggestion”作“建议”时后接that从句用虚拟语气（should do），如：He made a suggestion that the meeting (should) be postponed."
+      }
+    },
+    {
+      "id": "suicide",
+      "word": "suicide",
+      "phonetic": "/'sjuisaid/",
+      "meaning": "n.自杀；给自己带来恶劣后果的行为",
+      "similar": [
+        "coincide"
+      ],
+      "question": {
+        "wordId": "suicide",
+        "stem": "选择 \"suicide\" 的正确中文意思：",
+        "correct": "n.自杀；给自己带来恶劣后果的行为",
+        "options": [
+          "n.磁体,磁铁",
+          "n.秘密计划;情节 v.标绘,绘制;密谋,策划",
+          "vi.同时发生；巧合；一致；相符；",
+          "n.自杀；给自己带来恶劣后果的行为"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根：sui（自己）+ cide（杀）。核心物理动作：杀死自己。引申为任何自我毁灭的行为。",
+        "similarWarning": "coincide（巧合，一致）：co（共同）+ in（进入）+ cide（落下）→共同落下→巧合。对比：suicide强调‘自杀’（自己杀），coincide强调‘巧合’（共同落下）。",
+        "extendedMeaning": "（考研僻义）给自己带来恶劣后果的行为：如‘economic suicide’（经济自杀，指自毁经济政策）。",
+        "examUsage": "（真题考点）常考短语‘commit suicide’（自杀），但需注意被动语态‘be driven to suicide’（被逼自杀）。真题例句：He was driven to suicide by the relentless pressure.（他被无情压力逼至自杀。）"
+      }
+    },
+    {
+      "id": "suit",
+      "word": "suit",
+      "phonetic": "/sju:t/",
+      "meaning": "v.合适,适合;相配,适应 n.一套西服;诉讼",
+      "similar": [
+        "suite",
+        "quit",
+        "slit",
+        "spit",
+        "submit",
+        "summit",
+        "audit",
+        "guilt"
+      ],
+      "question": {
+        "wordId": "suit",
+        "stem": "选择 \"suit\" 的正确中文意思：",
+        "correct": "v.合适,适合;相配,适应 n.一套西服;诉讼",
+        "options": [
+          "v.切开,截开,纵割 n.细长裂缝,狭长切口",
+          "v.离开,退出;停止,放弃,辞职",
+          "n.套间；一套家具；套，组，系列",
+          "v.合适,适合;相配,适应 n.一套西服;诉讼"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 sequi (跟随)。核心动作是“跟随、顺从”。n.一套西服指“相互跟随匹配的一组衣物”；n.诉讼指“跟随法律程序”；v.合适/适合指“跟随需求或环境”。",
+        "similarWarning": "suite /swiːt/：比 suit 多一个字母 e，指“一套房间、套房”或“一套家具”。suit 是服装或法律诉讼，注意音形区别。",
+        "extendedMeaning": "v. 对…方便；满足…的需要：如 suit one's needs (满足某人需求)。n. 请求；恳求：如 make suit (提出请求)，多见于法律或正式语境。",
+        "examUsage": "固定搭配：suit ... to ... (使…适合…)，如 suit the punishment to the crime (使惩罚与罪行相称)。真题中常考 suit 作为“诉讼”的用法，区别于 case。"
+      }
+    },
+    {
+      "id": "suitable",
+      "word": "suitable",
+      "phonetic": "/'sju:təbl/",
+      "meaning": "a.(for)合适的,适宜的",
+      "similar": [
+        "stable",
+        "liable",
+        "staple",
+        "subtle",
+        "amiable",
+        "disable",
+        "durable",
+        "notable"
+      ],
+      "question": {
+        "wordId": "suitable",
+        "stem": "选择 \"suitable\" 的正确中文意思：",
+        "correct": "a.(for)合适的,适宜的",
+        "options": [
+          "a.有...倾向的；可能遭受...的；有责任的",
+          "a.稳定的,安定的 n.马厩,马棚",
+          "a.(for)合适的,适宜的",
+          "n.主要产品；名产；纤维；主要成分，主食"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自动词suit（适合）+ -able（能...的），字面意思为“能适合的”，核心动作是“匹配、相称”，指某物与特定目的、条件或要求相符合。",
+        "similarWarning": "stable（稳定的，马厩） vs suitable：stable含-st-（站立），强调稳固；suitable含suit，强调适合。liable（有责任的，易于） vs suitable：liable含-li-（绑定），强调法律义务；suitable强调适配性。staple（ staples主要产品，订书钉） vs suitable：staple含-sta-（站立），指基本物品；suitable指合适性。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "suite",
+      "word": "suite",
+      "phonetic": "/swi:t/",
+      "meaning": "n.套间；一套家具；套，组，系列",
+      "similar": [
+        "site",
+        "suit",
+        "spite",
+        "subtle",
+        "sue",
+        "bite",
+        "cite",
+        "kite"
+      ],
+      "question": {
+        "wordId": "suite",
+        "stem": "选择 \"suite\" 的正确中文意思：",
+        "correct": "n.套间；一套家具；套，组，系列",
+        "options": [
+          "n.恶意;怨恨",
+          "n.套间；一套家具；套，组，系列",
+          "n.位置,场所,地点",
+          "v.合适,适合;相配,适应 n.一套西服;诉讼"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自法语suite，本义为“跟随、序列”。核心物理动作是“一个接一个地跟随”，引申为“成套的事物”：房间（套间）、家具（一套）、音乐（组曲）、软件（套装）。",
+        "similarWarning": "suit /suːt/（n.套装，v.适合） vs suite /swiːt/（n.套间，系列）。差异在元音和末尾e：suit为单音节，suite为双音节（虽拼写短，但发音含/iːt/，且e不发音）。site /saɪt/（n.地点）发音不同。",
+        "extendedMeaning": "在计算机领域常指“软件套件”（a suite of tools），如office suite。在商业中可指“一系列（产品/服务）”（a suite of services）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sulfur",
+      "word": "sulfur",
+      "phonetic": "/'sʌlfə/",
+      "meaning": "n.(sulphur)硫",
+      "similar": [
+        "suffer"
+      ],
+      "question": {
+        "wordId": "sulfur",
+        "stem": "选择 \"sulfur\" 的正确中文意思：",
+        "correct": "n.(sulphur)硫",
+        "options": [
+          "n.地毯",
+          "n.(sulphur)硫",
+          "n.伤亡人员；受害人；损失的东西；急诊室",
+          "v.(from)受痛苦,患病;受损失;遭受;忍受"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根sulf-（硫磺），源自拉丁语sulfur（硫）。核心物理动作：一种淡黄色非金属元素，燃烧时产生刺激性气味。",
+        "similarWarning": "suffer（遭受）：sulfur（硫） vs suffer（遭受），区别在于-u-与-e-，-ur与-er。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sum",
+      "word": "sum",
+      "phonetic": "/sʌm/",
+      "meaning": "n.总数,和;金额;算术题;要旨 v.合计,总计",
+      "similar": [
+        "slum",
+        "gum",
+        "hum",
+        "sue"
+      ],
+      "question": {
+        "wordId": "sum",
+        "stem": "选择 \"sum\" 的正确中文意思：",
+        "correct": "n.总数,和;金额;算术题;要旨 v.合计,总计",
+        "options": [
+          "n.贫民窟,贫民区,陋巷",
+          "n.总数,和;金额;算术题;要旨 v.合计,总计",
+          "n.树胶;口香糖",
+          "v.哼曲子；发嗡嗡声；忙碌n.嗡嗡声，嘈杂声"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 summa（最高点，总数），本义为‘总和’或‘顶点’。核心物理动作是‘把各部分加在一起达到最高点’，引申为总数、金额（钱的总额）、算术题（求总和的过程）及要旨（内容的总和）。",
+        "similarWarning": "slum（贫民窟）：s+ lum（光）→光线不足的地方；gum（口香糖；树胶）：g+ um；hum（嗡嗡声；忙碌）：h+ um；sue（起诉）：s+ ue；sun（太阳）：s+ un。与sum相比，仅元音或首字母不同，注意区分拼写。",
+        "extendedMeaning": "考研中常考‘要旨’义，如 the sum and substance（要点，核心内容），以及动词‘总结’义，如 to sum up（总结）。",
+        "examUsage": "核心短语：sum up（总结，概括）；in sum（总之，简而言之）。真题例句：'To sum up, the system is flawed.'（总之，这个系统有缺陷。）"
+      }
+    },
+    {
+      "id": "summarize",
+      "word": "summarize",
+      "phonetic": "/'sʌməraiz/",
+      "meaning": "v.(summarise)概括,总结",
+      "similar": [
+        "submarine",
+        "summary",
+        "sympathize"
+      ],
+      "question": {
+        "wordId": "summarize",
+        "stem": "选择 \"summarize\" 的正确中文意思：",
+        "correct": "v.(summarise)概括,总结",
+        "options": [
+          "n.潜水艇 a.水底的,海底的",
+          "v.(summarise)概括,总结",
+          "n.摘要,概要 a.概括的,简略的",
+          "v.(sympathise)(with)同情;共鸣,同感;赞成"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 summa（总和、顶点），-ize 为动词后缀，表示“使成为总和或摘要”，核心动作是将分散信息压缩成要点。",
+        "similarWarning": "summary（n.摘要，adj.概括的）与 summarize 同根，但 summary 是名词/形容词；submarine（n.潜水艇）前缀 sub-（下）不同；sympathize（v.同情）词根 path（情感）不同。",
+        "extendedMeaning": "在考研阅读中可引申为“归纳、概述”，强调对长文本或复杂信息的精炼提取，如 summarize the main points。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "summary",
+      "word": "summary",
+      "phonetic": "/'sʌməri/",
+      "meaning": "n.摘要,概要 a.概括的,简略的",
+      "similar": [
+        "summarize",
+        "symmetry"
+      ],
+      "question": {
+        "wordId": "summary",
+        "stem": "选择 \"summary\" 的正确中文意思：",
+        "correct": "n.摘要,概要 a.概括的,简略的",
+        "options": [
+          "n.对称(性);匀称,整齐",
+          "v.(summarise)概括,总结",
+          "n.摘要,概要 a.概括的,简略的",
+          "n.同盟，同盟国；结盟，联姻"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语summa（总和、顶部），由sum（总和）+ -ary（形容词/名词后缀，表示与...相关）构成。核心动作是“把分散信息加总成整体”，即从细节中提取精华，形成简洁的概览。",
+        "similarWarning": "summer（n.夏天） vs summary：前者含双写m+er，侧重季节；后者为单m+ary，侧重概括。summarize（v.总结）是summary的动词形式，词根相同但后缀不同。symmetry（n.对称）前缀sym-（共同）与summary的sum-（总和）易混，需注意拼写差异。",
+        "extendedMeaning": "在考研阅读中，summary可作形容词，意为“即决的、草率的”，如summary execution（即决处决），强调未经详查的快速处理，区别于“摘要”本义。",
+        "examUsage": "常考搭配：in summary（总之），用于文章结尾总结观点，是写作和阅读中识别段落主旨的标志性短语。"
+      }
+    },
+    {
+      "id": "summit",
+      "word": "summit",
+      "phonetic": "/'sʌmit/",
+      "meaning": "n.顶，最高点；颠峰，高峰；最高级会议",
+      "similar": [
+        "submit",
+        "suit",
+        "commit",
+        "summon"
+      ],
+      "question": {
+        "wordId": "summit",
+        "stem": "选择 \"summit\" 的正确中文意思：",
+        "correct": "n.顶，最高点；颠峰，高峰；最高级会议",
+        "options": [
+          "v.(to)使服从,屈服;(to)呈送,提交",
+          "n.顶，最高点；颠峰，高峰；最高级会议",
+          "v.把…交托给,提交;犯(错误),干(坏事)",
+          "v.合适,适合;相配,适应 n.一套西服;诉讼"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'summus'（最高的），是 'superus'（在上面的）的最高级形式。核心物理动作是“到达顶部”，引申为抽象的最高点或会议的最高级别。",
+        "similarWarning": "submit (提交，屈服) vs summit (顶峰)：submit 含 'sub-'（向下）+ 'mit'（发送），强调向下发送；summit 含 'summ-'（最高），强调高度。commit (犯罪，承诺) vs summit：commit 含 'com-'（共同）+ 'mit'（发送），强调共同行动。summer (夏天) vs summit：summer 含 'summ-'（夏天），拼写接近但意义无关。",
+        "extendedMeaning": "最高级会议（如 G20 summit）：指国家元首或政府首脑的正式会晤，为考研外刊高频词。",
+        "examUsage": "真题考点：'summit meeting'（首脑会议）常与 'conference'（会议）混淆，但 summit 特指最高级别。例句：The leaders gathered for a summit to discuss climate change.（领导人齐聚首脑会议讨论气候变化。）"
+      }
+    },
+    {
+      "id": "summon",
+      "word": "summon",
+      "phonetic": "/'sʌmən/",
+      "meaning": "v.召唤;传讯,传唤;鼓起(勇气),振作(精神)",
+      "similar": [
+        "summit"
+      ],
+      "question": {
+        "wordId": "summon",
+        "stem": "选择 \"summon\" 的正确中文意思：",
+        "correct": "v.召唤;传讯,传唤;鼓起(勇气),振作(精神)",
+        "options": [
+          "v.召唤;传讯,传唤;鼓起(勇气),振作(精神)",
+          "n.珍珠",
+          "n.顶，最高点；颠峰，高峰；最高级会议",
+          "a.符合的,相应的,对应的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 summonere（sub-“私下地”+monere“提醒、警告”），原义为“秘密提醒或警告”，后演变为“正式召唤或传唤”。核心动作是“通过权威或紧急方式使某人到场或采取行动”，如传唤到法庭或召唤力量。",
+        "similarWarning": "summon vs. common（共同的）：summon以“sum-”开头，强调召唤动作；common以“com-”共同义，无召唤义。vs. summer（夏天）：summer含“-mer”表季节，与召唤无关。vs. summit（顶峰）：summit含“-mit”表最高点，而summon含“-mon”表提醒。",
+        "extendedMeaning": "在考研阅读中，summon常引申为“鼓起（勇气/力量）”，如 summon up the courage（鼓起勇气），强调从内部调动资源，而非外部召唤。",
+        "examUsage": "真题考点：summon up 作为短语，意为“振作、鼓起”，常见于情感或意志类上下文。例：He summoned up his strength for the final effort.（他振作力量做最后努力。）干扰项常与 call up（召集）或 gather（聚集）混淆。"
+      }
+    },
+    {
+      "id": "sunday",
+      "word": "Sunday",
+      "phonetic": "/'sʌndei/",
+      "meaning": "n.星期日",
+      "similar": [
+        "monday",
+        "subway",
+        "boundary",
+        "saturday"
+      ],
+      "question": {
+        "wordId": "sunday",
+        "stem": "选择 \"Sunday\" 的正确中文意思：",
+        "correct": "n.星期日",
+        "options": [
+          "n.分界线,边界",
+          "n.地铁；地下行人隧道",
+          "n.星期日",
+          "n.星期一"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自古英语 Sunnandæg，意为“太阳之日”。词根 sunne（太阳）+ dæg（日），是古日耳曼民族以天体命名星期的典型，对应拉丁语 dies Solis。核心动作：太阳神崇拜的日子。",
+        "similarWarning": "Monday（月亮之日，词根 mona）、Saturday（土星之日，词根 Saturn）、subway（地下通道，sub-下+way路，与Sunday无关）",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sunrise",
+      "word": "sunrise",
+      "phonetic": "/'sʌnraiz/",
+      "meaning": "n.日出，拂晓；朝霞",
+      "similar": [
+        "surprise",
+        "supervise",
+        "sunshine"
+      ],
+      "question": {
+        "wordId": "sunrise",
+        "stem": "选择 \"sunrise\" 的正确中文意思：",
+        "correct": "n.日出，拂晓；朝霞",
+        "options": [
+          "n.日出，拂晓；朝霞",
+          "v.使诧异,使惊异;奇袭 n.诧异,惊异;奇袭",
+          "v.管理,监督",
+          "n.日光,日照；晴天；"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自sun（太阳）+ rise（升起），字面意为“太阳升起”，直指日出时刻或朝霞景象。",
+        "similarWarning": "surprise（v.使惊讶）含前缀sur-（超）；supervise（v.监督）含词根vis（看）；sunshine（n.阳光）含shine（照耀）。sunrise核心在rise（升起），易混点在于拼写中‘rise’与‘prise’、‘vise’、‘shine’的差异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sunset",
+      "word": "sunset",
+      "phonetic": "/'sʌnset/",
+      "meaning": "n.日落，傍晚；晚霞",
+      "similar": [
+        "upset",
+        "outset"
+      ],
+      "question": {
+        "wordId": "sunset",
+        "stem": "选择 \"sunset\" 的正确中文意思：",
+        "correct": "n.日落，傍晚；晚霞",
+        "options": [
+          "n.日记,日记簿",
+          "n.开始,开端",
+          "v.使…心烦意乱;打翻,推翻a.难过的;不安的",
+          "n.日落，傍晚；晚霞"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "sun（太阳）+ set（落下，放置）→ 太阳落下，即日落。核心物理动作：太阳从地平线下降。",
+        "similarWarning": "sense（感觉，n./v.）：与sunset相比，sense多字母'e'，词根sens-表感觉；upset（打翻，使心烦，v./adj.）：up-向上 + set，字面“向上放置”但实际表翻倒，与sunset仅前缀不同；outset（开始，n.）：out-向外 + set，字面“开始放置”，与sunset前缀不同。",
+        "extendedMeaning": "在考研阅读或外刊中，sunset可引申为“衰落期、末期”，如“the sunset of an industry”（行业的衰落）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sunshine",
+      "word": "sunshine",
+      "phonetic": "/'sʌnʃain/",
+      "meaning": "n.日光,日照；晴天；",
+      "similar": [
+        "sunrise"
+      ],
+      "question": {
+        "wordId": "sunshine",
+        "stem": "选择 \"sunshine\" 的正确中文意思：",
+        "correct": "n.日光,日照；晴天；",
+        "options": [
+          "n.日出，拂晓；朝霞",
+          "n.球,球体;范围,领域",
+          "n.日光,日照；晴天；",
+          "a.部分的,不完全的;偏袒的,不公平的,偏爱的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "sun（太阳）+ shine（照耀）→ 太阳照耀的状态 → 日光、日照；引申为晴天。",
+        "similarWarning": "sunrise（日出）：sun（太阳）+ rise（升起）→ 太阳升起的过程。对比：sunshine 强调光照状态（照耀），sunrise 强调时间点（升起）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "super",
+      "word": "super",
+      "phonetic": "/'sju:pə/",
+      "meaning": "a.极好的,超级的",
+      "similar": [
+        "superb",
+        "supper",
+        "saucer",
+        "suffer",
+        "per",
+        "sue",
+        "spur",
+        "outer"
+      ],
+      "question": {
+        "wordId": "super",
+        "stem": "选择 \"super\" 的正确中文意思：",
+        "correct": "a.极好的,超级的",
+        "options": [
+          "n.茶托,碟子",
+          "a.极好的,超级的",
+          "a.极好的,杰出的；华丽的；",
+          "n.晚餐"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 super（超过、在上），核心物理动作为“在……之上”。由此引申为“超越一般水平”，即“极好的、超级的”。",
+        "similarWarning": "super vs. superb：super 是形容词“极好的”，superb 是“卓越的、极佳的”，程度更强。super vs. supper：supper 是“晚餐”，拼写多一个 p。super vs. saucer：saucer 是“茶托、碟子”，拼写差异为 -cer。super vs. suffer：suffer 是“遭受”，拼写差异为 -ffer。super vs. summer：summer 是“夏天”，拼写差异为 -mmer。super vs. per：per 是介词“每、通过”，拼写差异为前缀。super vs. sue：sue 是“起诉”，拼写差异为 -e。super vs. spur：spur 是“刺激、马刺”，拼写差异为 -r。",
+        "extendedMeaning": "在考研中，super 作为前缀（如 superpower、supermarket）常见，但作为形容词单独使用较少，通常出现在口语或非正式语境中。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "superb",
+      "word": "superb",
+      "phonetic": "/sju'pə:b/",
+      "meaning": "a.极好的,杰出的；华丽的；",
+      "similar": [
+        "super",
+        "suburb",
+        "supper",
+        "superior"
+      ],
+      "question": {
+        "wordId": "superb",
+        "stem": "选择 \"superb\" 的正确中文意思：",
+        "correct": "a.极好的,杰出的；华丽的；",
+        "options": [
+          "n.市郊,郊区",
+          "a.极好的,超级的",
+          "a.极好的,杰出的；华丽的；",
+          "n.晚餐"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 superbus（骄傲的、卓越的），由 super-（在…之上）与 bus（词尾，表状态）构成，核心动作是“凌驾于上”，引申为“超出一般水平的、极好的”。",
+        "similarWarning": "super（超级的）、suburb（郊区，sub-下+urb城市）、supper（晚餐）、superior（上级的，同源但更强调等级）。superb 强调品质的极致，superior 侧重地位或质量的比较级。",
+        "extendedMeaning": "在考研阅读中，superb 常用来形容学术成果、艺术作品或服务质量的“一流、卓越”，如 a superb performance（卓越表现），并非仅指华丽外表。",
+        "examUsage": "真题常以同义替换形式出现，如替换 excellent、outstanding；或与 mediocre（平庸的）构成反义对比。例：The superb craftsmanship of the antique was widely praised.（真题例句改编）"
+      }
+    },
+    {
+      "id": "superficial",
+      "word": "superficial",
+      "phonetic": "/ˌsu:pə'fɪʃl/",
+      "meaning": "a.表面的;肤浅的,浅薄的",
+      "similar": [
+        "numerical",
+        "beneficial"
+      ],
+      "question": {
+        "wordId": "superficial",
+        "stem": "选择 \"superficial\" 的正确中文意思：",
+        "correct": "a.表面的;肤浅的,浅薄的",
+        "options": [
+          "v.淹没,覆没,压倒,制服,使不知所措",
+          "a.表面的;肤浅的,浅薄的",
+          "a.数字的，用数字表示的，数值的",
+          "a.(to)有利的,有益的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "super-（上面）+fici（脸/面）+al（形容词后缀）→ 在脸的上面 → 表面的，引申为肤浅的。",
+        "similarWarning": "superficial vs. numerical（数字的）：superficial含super-（上面）+fici（面），强调表面；numerical含numer-（数字）+ical，强调数字。beneficial（有益的）含bene-（好）+fici（做）+al，注意词根不同。",
+        "extendedMeaning": "在考研中，superficial常引申为“浅薄的、缺乏深度的”，如superficial knowledge（肤浅的知识），或指“粗略的、不深入的”，如superficial analysis（粗略分析）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "superfluous",
+      "word": "superfluous",
+      "phonetic": "/sju'pə:fluəs/",
+      "meaning": "a.多余的，过剩的，",
+      "similar": [],
+      "question": {
+        "wordId": "superfluous",
+        "stem": "选择 \"superfluous\" 的正确中文意思：",
+        "correct": "a.多余的，过剩的，",
+        "options": [
+          "a.漏掉的,失去的,失踪的",
+          "n.步;台阶,梯级;步骤,措施 v.踏,走,举步",
+          "n.(jail)监狱；(不加冠词)监禁 vt.使…坐牢",
+          "a.多余的，过剩的，"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由拉丁语super（超过）+ fluere（流动）构成，本义为“过度流出”，引申为“超出所需、多余的”。核心动作：液体漫过容器边缘，强调“过量、多余”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“不必要的、冗余的”，如superfluous details（不必要的细节）、superfluous words（赘词）。",
+        "examUsage": "常与redundant（多余的）同义替换，但更侧重“因过多而显得无用”。真题中常作为态度题选项，如criticize superfluous information（批评冗余信息）。"
+      }
+    },
+    {
+      "id": "superior",
+      "word": "superior",
+      "phonetic": "/sju:'piriə/",
+      "meaning": "a.优良的,卓越的;上级的 n.上级;长者;高手",
+      "similar": [
+        "supervise",
+        "senior",
+        "superb",
+        "emperor",
+        "exterior",
+        "inferior",
+        "interior",
+        "supersonic"
+      ],
+      "question": {
+        "wordId": "superior",
+        "stem": "选择 \"superior\" 的正确中文意思：",
+        "correct": "a.优良的,卓越的;上级的 n.上级;长者;高手",
+        "options": [
+          "a.极好的,杰出的；华丽的；",
+          "a.年长的;地位较高的 n.(大学)四年级学生",
+          "v.管理,监督",
+          "a.优良的,卓越的;上级的 n.上级;长者;高手"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语superus（在上面的），由super（在上面）+ -ior（比较级后缀）构成，核心概念是“位置或等级更高”。",
+        "similarWarning": "supervise（监督，由super+vis看组成）；superb（极好的，直接来自拉丁语）；inferior（低等的，反义词，由infer下面+ior构成）。",
+        "extendedMeaning": "在考研语境中常考“优越的，不屈服于”的抽象含义，如be superior to（优于，不屈服于），尤其在对比句中强调地位或质量上的优势。",
+        "examUsage": "真题高频搭配：be superior to（优于，胜过），注意此结构本身已含比较意义，不用than；反义词inferior to。例句：This cloth is superior to that.（这种布比那种好。）"
+      }
+    },
+    {
+      "id": "superiority",
+      "word": "superiority",
+      "phonetic": "/sju:ˌpiəri'ɔriti/",
+      "meaning": "n.优越(性)，优势，优等；高傲，傲慢",
+      "similar": [
+        "curiosity",
+        "speciality",
+        "supersonic"
+      ],
+      "question": {
+        "wordId": "superiority",
+        "stem": "选择 \"superiority\" 的正确中文意思：",
+        "correct": "n.优越(性)，优势，优等；高傲，傲慢",
+        "options": [
+          "n.(specialty)特性，性质；专业/长；特产",
+          "n.好奇心;古董,古玩",
+          "a.超音速的,超声波的 n.超声波，超声频",
+          "n.优越(性)，优势，优等；高傲，傲慢"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语superus（在上面的），词根super-（在...之上） + -ior（比较级后缀） + -ity（抽象名词后缀）。核心物理动作：位置或层级上的“高于”。引申为抽象比较中的“优越、优势”，以及态度上的“高傲”。",
+        "similarWarning": "curiosity（好奇）: cur-（关心） vs super-（之上），词根不同；speciality（专业）: special-（特殊） vs super-（之上），侧重领域；supersonic（超音速）: super-相同，但-ic（形容词后缀） vs -ity（名词后缀），词性不同。",
+        "extendedMeaning": "在考研真题中常指“相对优势”或“比较中的优越地位”，如competitive superiority（竞争优势）。注意其抽象用法，不局限于具体事物。",
+        "examUsage": "短语：superiority in/over（在...方面优于）。真题考点：常与inferiority（劣势）对比出现，用于论证比较关系，如“the superiority of A over B”。"
+      }
+    },
+    {
+      "id": "supermarket",
+      "word": "supermarket",
+      "phonetic": "/'sju:pəˌmɑ:kit/",
+      "meaning": "n.超级市场",
+      "similar": [],
+      "question": {
+        "wordId": "supermarket",
+        "stem": "选择 \"supermarket\" 的正确中文意思：",
+        "correct": "n.超级市场",
+        "options": [
+          "vt.使惊讶，使吃惊",
+          "a.复数的 n.复数",
+          "n.超级市场",
+          "n.中间,当中"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "super（超级，超过）+ market（市场）→ 规模远超传统市场的零售场所。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "supersonic",
+      "word": "supersonic",
+      "phonetic": "/ˌsju:pə'sɔnik/",
+      "meaning": "a.超音速的,超声波的 n.超声波，超声频",
+      "similar": [
+        "superiority",
+        "personal",
+        "superior"
+      ],
+      "question": {
+        "wordId": "supersonic",
+        "stem": "选择 \"supersonic\" 的正确中文意思：",
+        "correct": "a.超音速的,超声波的 n.超声波，超声频",
+        "options": [
+          "a.优良的,卓越的;上级的 n.上级;长者;高手",
+          "a.个人的,私人的;亲自的;身体的,人身的",
+          "n.优越(性)，优势，优等；高傲，傲慢",
+          "a.超音速的,超声波的 n.超声波，超声频"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "super-（超）+ son（声音）+ -ic（形容词后缀）→ 超过声音速度的 → 超音速的。核心动作是“超越声音”。",
+        "similarWarning": "superiority (n. 优越性) 强调“高于”；personal (a. 个人的) 强调“个人”；superior (a. 上级的) 强调“等级高”。与 supersonic 相比，拼写差异在“son”与“perior/person”的区别，词义侧重完全不同。",
+        "extendedMeaning": "考研中常考“超音速的”本义，无特殊僻义。",
+        "examUsage": "真题中常与 aircraft, flight 搭配，如 supersonic aircraft（超音速飞机），或作为科技类阅读中的背景词汇出现。无特殊考点干扰项。"
+      }
+    },
+    {
+      "id": "superstition",
+      "word": "superstition",
+      "phonetic": "/ˌsju:pə'stiʃən/",
+      "meaning": "n.迷信，迷信的观念习俗",
+      "similar": [
+        "repetition"
+      ],
+      "question": {
+        "wordId": "superstition",
+        "stem": "选择 \"superstition\" 的正确中文意思：",
+        "correct": "n.迷信，迷信的观念习俗",
+        "options": [
+          "n.传奇,爱情故事",
+          "vt.享受…的乐趣；欣赏；喜爱",
+          "n.迷信，迷信的观念习俗",
+          "n.重复,反复"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "super- (超越) + st (站立) + -ition (名词后缀)。字面义为‘超越常理站立的事物’，即违背理性认知而盲目相信的‘迷信’。",
+        "similarWarning": "repetition (n.重复)：re- (再) + pet (寻求) + -ition，强调‘再次做’；superstition强调‘超越理性的相信’。",
+        "extendedMeaning": "考研中常引申为‘无根据的恐惧、盲从观念’，如‘the superstition that black cats bring bad luck’（黑猫带来厄运的迷信）。",
+        "examUsage": "真题考点：常与‘rationality’（理性）对比，或与‘superstitious’（adj.迷信的）搭配。例句：‘Superstition often hinders scientific progress.’（迷信常阻碍科学进步。）"
+      }
+    },
+    {
+      "id": "supervise",
+      "word": "supervise",
+      "phonetic": "/'su:pəvaɪz/",
+      "meaning": "v.管理,监督",
+      "similar": [
+        "sunrise",
+        "survive",
+        "superior",
+        "surprise",
+        "expertise"
+      ],
+      "question": {
+        "wordId": "supervise",
+        "stem": "选择 \"supervise\" 的正确中文意思：",
+        "correct": "v.管理,监督",
+        "options": [
+          "v.管理,监督",
+          "n.日出，拂晓；朝霞",
+          "v.幸免于,幸存;比…长命",
+          "a.优良的,卓越的;上级的 n.上级;长者;高手"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "super-（在...之上）+ -vis-（看）+ -e（动词后缀）→ 从上往下看 → 监督、管理",
+        "similarWarning": "supervise vs. surprise: super-（之上）+ -vis-（看） vs. sur-（超）+ -pris-（抓）→ 监督 vs. 惊讶。supervise vs. survive: -vis-（看） vs. -viv-（活）→ 监督 vs. 幸存。",
+        "extendedMeaning": "在考研阅读中，supervise 常引申为‘指导、主管’（如 supervise a project），而非仅指‘监视’。",
+        "examUsage": "常考搭配：supervise the work/operations（监督工作/运营）；真题例句：The manager was assigned to supervise the entire production process.（经理被指派监督整个生产过程。）"
+      }
+    },
+    {
+      "id": "supper",
+      "word": "supper",
+      "phonetic": "/'sʌpə(r)/",
+      "meaning": "n.晚餐",
+      "similar": [
+        "super",
+        "upper",
+        "slipper",
+        "support",
+        "copper",
+        "pepper",
+        "puppet",
+        "suffer"
+      ],
+      "question": {
+        "wordId": "supper",
+        "stem": "选择 \"supper\" 的正确中文意思：",
+        "correct": "n.晚餐",
+        "options": [
+          "n.晚餐",
+          "n.便鞋,拖鞋",
+          "a.上面的;上部的,较高的",
+          "a.极好的,超级的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自法语‘souper’，原指‘喝汤’（soup），因晚餐常以汤开始，后引申为‘晚餐’。核心动作：进食（尤指晚间）。",
+        "similarWarning": "形近词辨析：super（超级的，u→u）、upper（上方的，p→p）、slipper（拖鞋，l→l）、support（支持，p→p）、copper（铜，c→c）、pepper（胡椒，p→p）、puppet（木偶，p→p）、suffer（遭受，f→f）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "supplement",
+      "word": "supplement",
+      "phonetic": "/'sʌplɪm(ə)nt/",
+      "meaning": "n.补遗;增刊;附录 v.增刊,补充",
+      "similar": [
+        "implement",
+        "complement",
+        "settlement",
+        "pavement",
+        "shipment",
+        "judgement",
+        "statement",
+        "compliment"
+      ],
+      "question": {
+        "wordId": "supplement",
+        "stem": "选择 \"supplement\" 的正确中文意思：",
+        "correct": "n.补遗;增刊;附录 v.增刊,补充",
+        "options": [
+          "n.补遗;增刊;附录 v.增刊,补充",
+          "n.(pl.)工具,器具 v.贯彻,实现",
+          "n.补足物，船上的定员；补语 vt.补充，补足",
+          "n.解决,决定,调停;居留区,住宅区"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语supplere“填满，补充”，由sub-“从下往上”+plere“填满”构成。核心动作是“从底部往上填满”，即对不足的部分进行追加填充，引申为增补、补充物。",
+        "similarWarning": "implement（n.工具，v.实施）：im-“向内”+ple-“填满”→向内填满使之完善→实施；complement（n.补充物，v.补充）：com-“共同”+ple-“填满”→共同填满→互补；supplement强调“追加补充”，complement强调“完美互补”。",
+        "extendedMeaning": "考研中常考“增刊”义，如报纸或杂志的副刊、特刊；或“补遗”义，指书籍后的补充章节。",
+        "examUsage": "真题考点：supplement to...（...的增刊/补充）；搭配：dietary supplement（膳食补充剂）；例句：The supplement to the dictionary includes new words.（该词典的增刊收录了新词。）"
+      }
+    },
+    {
+      "id": "support",
+      "word": "support",
+      "phonetic": "/sə'pɔ:t/",
+      "meaning": "n./vt.支撑;支持;赡养;维持 n.支持者;支柱",
+      "similar": [
+        "supper",
+        "suppose"
+      ],
+      "question": {
+        "wordId": "support",
+        "stem": "选择 \"support\" 的正确中文意思：",
+        "correct": "n./vt.支撑;支持;赡养;维持 n.支持者;支柱",
+        "options": [
+          "n./vt.支撑;支持;赡养;维持 n.支持者;支柱",
+          "n.晚餐",
+          "v.料想,猜想;假定;conj.假使...结果会怎样",
+          "v.尽(力),施加(压力等),努力"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 \"supportare\"（sub-“从下” + portare“搬运”），核心动作是“从下方托举搬运”，引申为“支撑、支持、赡养”。",
+        "similarWarning": "sport（运动；词源同disport“玩耍”）；supper（晚餐；来自sup“啜饮”）；suppose（假设；sub-“下” + ponere“放置”）。",
+        "extendedMeaning": "【熟词僻义】在考研阅读中常考“供养、赡养”（如support a family）及“维持、保持”（如support life）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "suppose",
+      "word": "suppose",
+      "phonetic": "/sə'pəuz/",
+      "meaning": "v.料想,猜想;假定;conj.假使...结果会怎样",
+      "similar": [
+        "oppose",
+        "purpose",
+        "support",
+        "suppress",
+        "surprise"
+      ],
+      "question": {
+        "wordId": "suppose",
+        "stem": "选择 \"suppose\" 的正确中文意思：",
+        "correct": "v.料想,猜想;假定;conj.假使...结果会怎样",
+        "options": [
+          "v.料想,猜想;假定;conj.假使...结果会怎样",
+          "v.反对,使对立,使对抗,使相对",
+          "n.目的,意图;用途,效果",
+          "n./vt.支撑;支持;赡养;维持 n.支持者;支柱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 supponere（sub-“从下” + ponere“放置”），本义为“放在下面”，引申为“作为基础提出”，进一步演变出“假定、猜想”之意。核心动作：从下往上放置假设。",
+        "similarWarning": "suppose vs. oppose（op-“相反” + pose“放置”，意为“反对”）；suppose vs. purpose（pur-“为了” + pose，意为“目的”）；suppose vs. support（port“搬运”，意为“支持”）；suppose vs. suppress（press“压”，意为“镇压”）；suppose vs. surprise（sur-“超出”，意为“惊讶”）。",
+        "extendedMeaning": "在考研阅读中，suppose 常以 be supposed to do sth. 结构出现，表示“理应、应该”，而非字面“被假定”。例如：You are supposed to finish the report by Friday.（你理应周五前完成报告。）",
+        "examUsage": "真题考点：be supposed to do 表“应该做某事”，常与 should 互换，但更强调客观预期。干扰项常混淆 suppose（假定）与 support（支持）或 suppress（压制）。"
+      }
+    },
+    {
+      "id": "suppress",
+      "word": "suppress",
+      "phonetic": "/sə'pres/",
+      "meaning": "v.镇压,压制;抑制,忍住;查禁",
+      "similar": [
+        "oppress",
+        "stress",
+        "supper",
+        "depress",
+        "express",
+        "impress",
+        "suppose",
+        "supreme"
+      ],
+      "question": {
+        "wordId": "suppress",
+        "stem": "选择 \"suppress\" 的正确中文意思：",
+        "correct": "v.镇压,压制;抑制,忍住;查禁",
+        "options": [
+          "n.晚餐",
+          "v.压迫,压制",
+          "v.镇压,压制;抑制,忍住;查禁",
+          "n.压力；重要性；应力；重音vt.强调，重读"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "sup-（向下）+ press（压）→ 向下压 → 镇压、压制；引申为抑制（情感）、查禁（言论）。",
+        "similarWarning": "suppress vs oppress: sup-向下压（镇压反抗），op-对着压（压迫人民）。",
+        "extendedMeaning": "抑制（情感、反应）：He suppressed a smile.（他忍住笑。）",
+        "examUsage": "suppress inflation（抑制通货膨胀）；suppress evidence（隐瞒证据）。"
+      }
+    },
+    {
+      "id": "supreme",
+      "word": "supreme",
+      "phonetic": "/sju'pri:m/",
+      "meaning": "a.极度的,最重要的;至高的,最高的",
+      "similar": [
+        "suppress",
+        "surprise"
+      ],
+      "question": {
+        "wordId": "supreme",
+        "stem": "选择 \"supreme\" 的正确中文意思：",
+        "correct": "a.极度的,最重要的;至高的,最高的",
+        "options": [
+          "a.极度的,最重要的;至高的,最高的",
+          "v.镇压,压制;抑制,忍住;查禁",
+          "v.使诧异,使惊异;奇袭 n.诧异,惊异;奇袭",
+          "a.锋利的;敏锐的;敏捷的;(on)热心的,渴望的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 supremus（最高），是 superus（在上面的）的最高级形式。核心动作/画面：站在所有事物之上，达到顶端。",
+        "similarWarning": "suppress（镇压，压制）：前缀 sup-（向下）+ press（压），核心动作是向下按压。surprise（惊讶）：前缀 sur-（超过）+ prise（抓），核心动作是突然抓住（超出预期）。对比：supreme 强调位置/程度的最高；suppress 强调压制行为；surprise 强调情绪反应。",
+        "extendedMeaning": "极度的，极端的（非字面最高，强调程度之甚）：如 supreme confidence（极度自信）。",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "surge",
+      "word": "surge",
+      "phonetic": "/sɜ:dʒ/",
+      "meaning": "vi.汹涌；彭湃；蜂拥而至 n.巨浪;汹涌;彭湃",
+      "similar": [
+        "urge",
+        "surgeon",
+        "surgery",
+        "source",
+        "survey",
+        "sue",
+        "cure",
+        "lure"
+      ],
+      "question": {
+        "wordId": "surge",
+        "stem": "选择 \"surge\" 的正确中文意思：",
+        "correct": "vi.汹涌；彭湃；蜂拥而至 n.巨浪;汹涌;彭湃",
+        "options": [
+          "vi.汹涌；彭湃；蜂拥而至 n.巨浪;汹涌;彭湃",
+          "n.外科医生",
+          "vt.催促;怂恿;强调 n.强烈欲望,迫切要求",
+          "n.外科,外科学;手术室,诊疗室"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“surgere”（升起，上升），由“sub-”（向上）+“regere”（引导，直行）演变而来，核心物理动作为“从下方猛然向上涌动”，引申为水势的汹涌、人群的蜂拥或情绪的澎湃。",
+        "similarWarning": "sure（确定的，确信的）: surge vs sure，区别在“g”与“e”结尾，后者无涌动之意；urge（催促，强烈欲望）: surge vs urge，前者多指物理或数量上的涌起，后者强调内在冲动；source（来源，源头）: surge vs source，前者是动态过程，后者是静态起点。",
+        "extendedMeaning": "考研常考“急剧增长或飙升”，如“a surge in demand”（需求激增）、“price surge”（价格暴涨），尤适用于经济、市场或疫情数据类文章。",
+        "examUsage": "真题中常作为“soar”、“rocket”的同义替换，搭配“surge to + 数字”表示激增至某水平；干扰项常与“surgery”（外科手术）混淆，注意语境。"
+      }
+    },
+    {
+      "id": "surgeon",
+      "word": "surgeon",
+      "phonetic": "/'sə:dʒən/",
+      "meaning": "n.外科医生",
+      "similar": [
+        "surge",
+        "surgery"
+      ],
+      "question": {
+        "wordId": "surgeon",
+        "stem": "选择 \"surgeon\" 的正确中文意思：",
+        "correct": "n.外科医生",
+        "options": [
+          "n.外科医生",
+          "vi.汹涌；彭湃；蜂拥而至 n.巨浪;汹涌;彭湃",
+          "n.外科,外科学;手术室,诊疗室",
+          "n.素食主义者"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'chirurgia'（手术），经由古法语 'sirurgien' 演变。词根 'cheir-'（手）+'ergon'（工作），本义为“用手工作的人”。与 'surgery'（外科手术）同源，强调通过手工操作（而非药物）治疗。",
+        "similarWarning": "surge（n./v. 汹涌；激增） vs surgeon（n. 外科医生）。差异：surge 无 '-on' 结尾，且词源不同（来自拉丁语 'surgere' 上升）；surgeon 含 '-on' 表示“人”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "surgery",
+      "word": "surgery",
+      "phonetic": "/'sə:dʒəri/",
+      "meaning": "n.外科,外科学;手术室,诊疗室",
+      "similar": [
+        "surge",
+        "survey",
+        "nursery",
+        "surgeon"
+      ],
+      "question": {
+        "wordId": "surgery",
+        "stem": "选择 \"surgery\" 的正确中文意思：",
+        "correct": "n.外科,外科学;手术室,诊疗室",
+        "options": [
+          "n.外科,外科学;手术室,诊疗室",
+          "vi.汹涌；彭湃；蜂拥而至 n.巨浪;汹涌;彭湃",
+          "n.托儿所",
+          "v./n.俯瞰,眺望;全面审视,调查;测量图,勘定"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'cheirourgia'，由 'cheir'（手）和 'ergon'（工作）复合，本义为“手工操作”。拉丁化后进入英语，核心动作是“用手进行精细操作”，后专指外科手术。",
+        "similarWarning": "surge (v./n. 汹涌，激增) vs surgery (n. 外科)：surge 无 -gery 后缀，侧重波动；survey (v./n. 调查，测量) vs surgery：survey 含 -vey（看），与手术无关；nursery (n. 托儿所，苗圃) vs surgery：nursery 含 nurse（护理），但场所不同。",
+        "extendedMeaning": "在考研外刊中，surgery 可引申为“（问题或系统的）彻底修正、大手术”，如 'corporate surgery'（公司大改组）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "surname",
+      "word": "surname",
+      "phonetic": "/'sə:neim/",
+      "meaning": "n.姓",
+      "similar": [
+        "furnace"
+      ],
+      "question": {
+        "wordId": "surname",
+        "stem": "选择 \"surname\" 的正确中文意思：",
+        "correct": "n.姓",
+        "options": [
+          "n.罪行,犯罪",
+          "n.炉子,熔炉",
+          "n.油，石油 v.给…加润滑油；涂油，上油",
+          "n.姓"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "sur-（前缀，意为“在…之上，附加”）+name（名字）。字面义为“附加在名字之上的名称”，即姓氏。",
+        "similarWarning": "furnace（n.熔炉，火炉）：furn-（词根“炉”）+ace，注意与surname区别在于首字母f和词根含义不同；surface（n.表面）：sur-（上）+face（脸/面），注意与surname共享前缀sur-，但后半部分不同。",
+        "extendedMeaning": "在考研阅读中，surname可能用于指代家族或世系，如“the surname Smith”暗示家族传承。",
+        "examUsage": "常与first name/given name对比考查，如真题中“surname vs. given name”的区别。无特殊固定搭配。"
+      }
+    },
+    {
+      "id": "surpass",
+      "word": "surpass",
+      "phonetic": "/sə'pɑ:s/",
+      "meaning": "vt.超过,胜过",
+      "similar": [
+        "surplus",
+        "overpass",
+        "suppress",
+        "surprise"
+      ],
+      "question": {
+        "wordId": "surpass",
+        "stem": "选择 \"surpass\" 的正确中文意思：",
+        "correct": "vt.超过,胜过",
+        "options": [
+          "vt.超过,胜过",
+          "n.过剩,剩余；余款,余额 a.过剩的,剩余的",
+          "v.镇压,压制;抑制,忍住;查禁",
+          "n.过街天桥 vt.胜过,通过,忽视"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "sur-（超过、在上）+ pass（通过、经过）。核心动作是“从上方经过/越过”，引申为“在数量、质量或程度上超过、胜过”。",
+        "similarWarning": "surplus（n. 过剩，剩余）：sur-（超过）+ plus（加），强调“多出来”的量；surpass（v. 超过）强调“动作/程度上的超越”。suppress（v. 压制，抑制）：sup-（下）+ press（压），动作方向向下；surpass动作方向向上。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "surplus",
+      "word": "surplus",
+      "phonetic": "/'sə:plʌs/",
+      "meaning": "n.过剩,剩余；余款,余额 a.过剩的,剩余的",
+      "similar": [
+        "surpass",
+        "surprise"
+      ],
+      "question": {
+        "wordId": "surplus",
+        "stem": "选择 \"surplus\" 的正确中文意思：",
+        "correct": "n.过剩,剩余；余款,余额 a.过剩的,剩余的",
+        "options": [
+          "n.怪物,妖怪,畸形的动植物",
+          "vt.超过,胜过",
+          "n.过剩,剩余；余款,余额 a.过剩的,剩余的",
+          "v.使诧异,使惊异;奇袭 n.诧异,惊异;奇袭"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "sur-（超过）+ plus（加，多余）→ 超过所需的多余部分，即过剩、剩余。",
+        "similarWarning": "surpass（超过，胜过）：sur-（超过）+ pass（通过），强调在程度或质量上超越。surprise（使惊讶）：sur-（上面）+ prise（抓），原指“突然抓住”，引申为“使惊讶”。surplus侧重“多余的数量”，surpass侧重“超越的动作”，surprise侧重“情绪反应”。",
+        "extendedMeaning": "考研中常考“贸易顺差”（trade surplus），与deficit（逆差）对应。",
+        "examUsage": "常见于经济类阅读，如“a surplus of labor”（劳动力过剩）或“budget surplus”（预算盈余）。"
+      }
+    },
+    {
+      "id": "surprise",
+      "word": "surprise",
+      "phonetic": "/sə'praiz/",
+      "meaning": "v.使诧异,使惊异;奇袭 n.诧异,惊异;奇袭",
+      "similar": [
+        "sunrise",
+        "supervise",
+        "purpose",
+        "suppose",
+        "supreme",
+        "surpass",
+        "surplus",
+        "survive"
+      ],
+      "question": {
+        "wordId": "surprise",
+        "stem": "选择 \"surprise\" 的正确中文意思：",
+        "correct": "v.使诧异,使惊异;奇袭 n.诧异,惊异;奇袭",
+        "options": [
+          "v.使诧异,使惊异;奇袭 n.诧异,惊异;奇袭",
+          "n.日出，拂晓；朝霞",
+          "n.目的,意图;用途,效果",
+          "v.管理,监督"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古法语surprendre，由sur-（在...之上，超过） + prendre（抓住）构成，字面义为'超出预期地抓住'。核心物理动作为'突然抓住或袭击'，引申为心理上的'使惊讶'。",
+        "similarWarning": "surprise vs. sunrise（日出）：surprise含pri（抓住），sunrise含rise（升起）。surprise vs. supervise（监督）：supervise含vis（看），surprise含pri（抓）。",
+        "extendedMeaning": "考研中常考'奇袭'义，如military surprise（军事奇袭），或作动词'突然袭击'。",
+        "examUsage": "固定搭配：take...by surprise（使...吃惊；奇袭）。例句：The attack took the enemy by surprise.（这次奇袭令敌人措手不及。）"
+      }
+    },
+    {
+      "id": "surrender",
+      "word": "surrender",
+      "phonetic": "/sə'rendə/",
+      "meaning": "vi.投降，屈服 vt.放弃，交出 n.投降，认输",
+      "similar": [
+        "slender"
+      ],
+      "question": {
+        "wordId": "surrender",
+        "stem": "选择 \"surrender\" 的正确中文意思：",
+        "correct": "vi.投降，屈服 vt.放弃，交出 n.投降，认输",
+        "options": [
+          "vi.投降，屈服 vt.放弃，交出 n.投降，认输",
+          "v.埋(葬),安葬;埋藏,遮盖",
+          "a.修长的,细长的,苗条的;微小的,微薄的",
+          "n.(fibre)纤维;构造;纤维制品"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "sur- (向上/超过) + render (给予) → 字面义“向上交出”，引申为“投降、放弃”",
+        "similarWarning": "slender (苗条的) vs surrender (投降)：slender 无前缀，surrender 有 sur- 且含 render",
+        "extendedMeaning": "在考研阅读中常引申为“屈服于某种情绪或压力”，如 surrender to despair (陷入绝望)",
+        "examUsage": "surrender to (向...投降/屈服)；常见考点：surrender 后接 to，注意与 give up 同义替换"
+      }
+    },
+    {
+      "id": "surround",
+      "word": "surround",
+      "phonetic": "/sə'raund/",
+      "meaning": "vt.包围，环绕 n.环绕物",
+      "similar": [
+        "around",
+        "ground"
+      ],
+      "question": {
+        "wordId": "surround",
+        "stem": "选择 \"surround\" 的正确中文意思：",
+        "correct": "vt.包围，环绕 n.环绕物",
+        "options": [
+          "vt.包围，环绕 n.环绕物",
+          "n.地，地面，土地；场地，场所；理由，根据",
+          "ad.在...周围，到处 prep.在..四周(或附近)",
+          "ad.附带地,顺便提及"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "sur-（超过，外）+ round（圆形，围绕）→ 从外部围成圆形 → 包围，环绕。核心物理动作：从四周聚拢形成一个封闭区域。",
+        "similarWarning": "形近词辨析：\n- surround (s+ur+round)：强调“从四周包围”，动作性强。\n- around (a+round)：表示“在周围，环绕”，侧重位置或方向。\n- ground (g+round)：意为“地面，基础”，与包围无关。\n核心差异：surround 是动词，含主动包围义；around 是介词/副词，表静态环绕；ground 是名词，与包围义无关。",
+        "extendedMeaning": "考研僻义：vt. 使（问题、想法等）围绕/集中于（某人/某物）。\n例：The debate surrounded the issue of climate change. 辩论围绕气候变化问题展开。",
+        "examUsage": "真题考点：\n- be surrounded by/with 被……包围（被动语态高频搭配）。\n- surround oneself with 与……为伍，让自己身边围绕……（常考于完形填空或阅读中的动作描写）。\n例：He surrounded himself with talented people. 他身边聚集了有才华的人。"
+      }
+    },
+    {
+      "id": "surroundings",
+      "word": "surroundings",
+      "phonetic": "/sə'raundiŋz/",
+      "meaning": "n.周围的事物,环境",
+      "similar": [],
+      "question": {
+        "wordId": "surroundings",
+        "stem": "选择 \"surroundings\" 的正确中文意思：",
+        "correct": "n.周围的事物,环境",
+        "options": [
+          "n.悲伤，悲痛；悲伤的事，悲痛的缘由",
+          "v.剥,剥去 n.窄条,条纹",
+          "n.基督教徒 a.基督教徒的",
+          "n.周围的事物,环境"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "surroundings = sur- (超过/外部) + round (圆/环绕) + -ings (名词后缀，表物)。核心动作：外部环绕之物。即从四周包裹着主体的事物集合，故意为“环境、周围的事物”。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "survey",
+      "word": "survey",
+      "phonetic": "/sə:'vei/",
+      "meaning": "v./n.俯瞰,眺望;全面审视,调查;测量图,勘定",
+      "similar": [
+        "surgery",
+        "curve",
+        "serve",
+        "surge",
+        "turkey"
+      ],
+      "question": {
+        "wordId": "survey",
+        "stem": "选择 \"survey\" 的正确中文意思：",
+        "correct": "v./n.俯瞰,眺望;全面审视,调查;测量图,勘定",
+        "options": [
+          "v.服务,尽责;招待,侍候;符合,适用",
+          "v./n.俯瞰,眺望;全面审视,调查;测量图,勘定",
+          "n.外科,外科学;手术室,诊疗室",
+          "n.曲线,弯曲(物) v.弄弯,成曲形"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "前缀sur-（上，超） + 词根vey（看），本义是“从上方看”，即“俯瞰、全面审视”，引申为“调查、测量”。",
+        "similarWarning": "surgery（外科手术） vs survey：surgery含后缀-ery，表场所/技术；survey含词根vey。sure（确定） vs survey：sure源自拉丁securus，无“看”义。curve（曲线） vs survey：curve核心为“弯”，无“看”义。serve（服务） vs survey：serve源自servus，无“看”义。surge（汹涌） vs survey：surge源自拉丁surgere（升起），含“上升”动作。turkey（火鸡） vs survey：turkey为国名误用，无关联。",
+        "extendedMeaning": "考研真题中常考“全面审视、调查”义，如conduct a survey（进行调查），强调系统性的数据收集与分析。",
+        "examUsage": "真题考点：survey常与conduct, carry out, comprehensive, extensive等搭配。例句：A recent survey shows that 70% of respondents support the policy.（近年真题阅读）"
+      }
+    }
+  ]
+}

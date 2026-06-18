@@ -1,0 +1,1430 @@
+{
+  "batchId": 100,
+  "words": [
+    {
+      "id": "worse",
+      "word": "worse",
+      "phonetic": "/wə:s/",
+      "meaning": "a./ad.更坏,更差(的/地)",
+      "similar": [
+        "horse",
+        "worst",
+        "coarse",
+        "course",
+        "worker",
+        "ore",
+        "bore",
+        "core"
+      ],
+      "question": {
+        "wordId": "worse",
+        "stem": "选择 \"worse\" 的正确中文意思：",
+        "correct": "a./ad.更坏,更差(的/地)",
+        "options": [
+          "a./ad.更坏,更差(的/地)",
+          "a.粗糙的,粗劣的;粗鲁的,粗俗的",
+          "n.马；跳马，鞍马 v.骑马",
+          "a./ad.最坏(的),最差(的)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：worse的核心含义与\"a./ad.更坏,更差(的/地)\"相关",
+        "similarWarning": "注意区分：worse 与 horse, worst, coarse, course, worker, ore, bore, core 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "worship",
+      "word": "worship",
+      "phonetic": "/'wə:ʃip/",
+      "meaning": "n.礼拜,礼拜仪式;崇拜 v.崇拜,敬仰;做礼拜",
+      "similar": [
+        "workshop",
+        "ownership",
+        "hardship"
+      ],
+      "question": {
+        "wordId": "worship",
+        "stem": "选择 \"worship\" 的正确中文意思：",
+        "correct": "n.礼拜,礼拜仪式;崇拜 v.崇拜,敬仰;做礼拜",
+        "options": [
+          "n.礼拜,礼拜仪式;崇拜 v.崇拜,敬仰;做礼拜",
+          "n.车间，工场，修理厂；研讨会，讲习班",
+          "n.所有(权),所有制",
+          "n.艰难,困苦"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：worship的核心含义与\"n.礼拜,礼拜仪式;崇拜 v.崇拜,敬仰;做礼拜\"相关",
+        "similarWarning": "注意区分：worship 与 workshop, ownership, hardship 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "worst",
+      "word": "worst",
+      "phonetic": "/wə:st/",
+      "meaning": "a./ad.最坏(的),最差(的)",
+      "similar": [
+        "worse",
+        "forest",
+        "cost",
+        "host",
+        "most",
+        "port",
+        "post",
+        "sort"
+      ],
+      "question": {
+        "wordId": "worst",
+        "stem": "选择 \"worst\" 的正确中文意思：",
+        "correct": "a./ad.最坏(的),最差(的)",
+        "options": [
+          "n.森林",
+          "a./ad.最坏(的),最差(的)",
+          "a./ad.更坏,更差(的/地)",
+          "n.成本,费用,代价 v.价值为,花费"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：worst的核心含义与\"a./ad.最坏(的),最差(的)\"相关",
+        "similarWarning": "注意区分：worst 与 worse, forest, cost, host, most, port, post, sort 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "worth",
+      "word": "worth",
+      "phonetic": "/wə:θ/",
+      "meaning": "n.价值 a.值…的,价值…的,值得…的",
+      "similar": [
+        "worthy",
+        "forth",
+        "north",
+        "warmth",
+        "both",
+        "oath",
+        "port",
+        "sort"
+      ],
+      "question": {
+        "wordId": "worth",
+        "stem": "选择 \"worth\" 的正确中文意思：",
+        "correct": "n.价值 a.值…的,价值…的,值得…的",
+        "options": [
+          "ad.向前；向外，往外",
+          "n.价值 a.值…的,价值…的,值得…的",
+          "a.(of)值得…的,配得上…的;有价值的",
+          "n.北,北方a.北方的,北部 ad.向北方,在北方"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：worth的核心含义与\"n.价值 a.值…的,价值…的,值得…的\"相关",
+        "similarWarning": "注意区分：worth 与 worthy, forth, north, warmth, both, oath, port, sort 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "worthwhile",
+      "word": "worthwhile",
+      "phonetic": "/'wə:θ'hwail/",
+      "meaning": "a.值得(做)的",
+      "similar": [
+        "worldwide"
+      ],
+      "question": {
+        "wordId": "worthwhile",
+        "stem": "选择 \"worthwhile\" 的正确中文意思：",
+        "correct": "a.值得(做)的",
+        "options": [
+          "a.值得(做)的",
+          "a.全世界的,世界范围的 ad.遍及全世界",
+          "n.正餐后的水果或甜食",
+          "n.喘息,气喘 v.喘息;气吁吁地说"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：worthwhile的核心含义与\"a.值得(做)的\"相关",
+        "similarWarning": "注意区分：worthwhile 与 worldwide 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "worthy",
+      "word": "worthy",
+      "phonetic": "/'wə:ði/",
+      "meaning": "a.(of)值得…的,配得上…的;有价值的",
+      "similar": [
+        "worth",
+        "forth",
+        "forty",
+        "north",
+        "worry"
+      ],
+      "question": {
+        "wordId": "worthy",
+        "stem": "选择 \"worthy\" 的正确中文意思：",
+        "correct": "a.(of)值得…的,配得上…的;有价值的",
+        "options": [
+          "n.价值 a.值…的,价值…的,值得…的",
+          "ad.向前；向外，往外",
+          "num./a.四十 pron.四十(个，只...)",
+          "a.(of)值得…的,配得上…的;有价值的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：worthy的核心含义与\"a.(of)值得…的,配得上…的;有价值的\"相关",
+        "similarWarning": "注意区分：worthy 与 worth, forth, forty, north, worry 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "would",
+      "word": "would",
+      "phonetic": "/wud/",
+      "meaning": "aux./v.将；可能；将会；总是，总会；宁愿",
+      "similar": [
+        "could",
+        "mould",
+        "world",
+        "wound",
+        "should",
+        "old",
+        "bold",
+        "cold"
+      ],
+      "question": {
+        "wordId": "would",
+        "stem": "选择 \"would\" 的正确中文意思：",
+        "correct": "aux./v.将；可能；将会；总是，总会；宁愿",
+        "options": [
+          "aux./v.将；可能；将会；总是，总会；宁愿",
+          "v.aux.(口语)(表示许可或请求）可以...，行",
+          "n.(mold)模子，铸型 v.浇铸，造型，塑造",
+          "n.世界，地球；…界，领域；世间；全世界"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：would的核心含义与\"aux./v.将；可能；将会；总是，总会；宁愿\"相关",
+        "similarWarning": "注意区分：would 与 could, mould, world, wound, should, old, bold, cold 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wound",
+      "word": "wound",
+      "phonetic": "/waund/",
+      "meaning": "n.创伤,伤口 v.伤,伤害",
+      "similar": [
+        "bound",
+        "found",
+        "hound",
+        "pound",
+        "round",
+        "sound",
+        "would",
+        "abound"
+      ],
+      "question": {
+        "wordId": "wound",
+        "stem": "选择 \"wound\" 的正确中文意思：",
+        "correct": "n.创伤,伤口 v.伤,伤害",
+        "options": [
+          "n.猎狗；卑鄙的人 vt.用猎狗追，追逐",
+          "vt.建立;创立;创办;使有根据;铸造;熔制",
+          "v./n.跳(跃) a.被束缚的，一定的；n.界限",
+          "n.创伤,伤口 v.伤,伤害"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：wound的核心含义与\"n.创伤,伤口 v.伤,伤害\"相关",
+        "similarWarning": "注意区分：wound 与 bound, found, hound, pound, round, sound, would, abound 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wrap",
+      "word": "wrap",
+      "phonetic": "/ræp/",
+      "meaning": "v.裹,缠,卷,包 n.披肩,围巾",
+      "similar": [
+        "rap",
+        "trap",
+        "grape",
+        "graph",
+        "grasp",
+        "scrap",
+        "strap",
+        "tramp"
+      ],
+      "question": {
+        "wordId": "wrap",
+        "stem": "选择 \"wrap\" 的正确中文意思：",
+        "correct": "v.裹,缠,卷,包 n.披肩,围巾",
+        "options": [
+          "n.葡萄",
+          "v.裹,缠,卷,包 n.披肩,围巾",
+          "n.叩击,轻拍,斥责 v.敲,拍,打,斥责,使着迷",
+          "n.陷阱，圈套 vt.诱捕；使中圈套 vi.设圈套"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：wrap的核心含义与\"v.裹,缠,卷,包 n.披肩,围巾\"相关",
+        "similarWarning": "注意区分：wrap 与 rap, trap, grape, graph, grasp, scrap, strap, tramp 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wreath",
+      "word": "wreath",
+      "phonetic": "/ri:θ/",
+      "meaning": "n.花环,花圈",
+      "similar": [
+        "breath",
+        "breadth",
+        "breathe",
+        "death",
+        "great",
+        "reach",
+        "treat",
+        "wheat"
+      ],
+      "question": {
+        "wordId": "wreath",
+        "stem": "选择 \"wreath\" 的正确中文意思：",
+        "correct": "n.花环,花圈",
+        "options": [
+          "n.花环,花圈",
+          "v.呼吸,吸入",
+          "n.呼吸,气息",
+          "n.宽度,幅"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wreath的核心含义与\"n.花环,花圈\"相关",
+        "similarWarning": "注意区分：wreath 与 breath, breadth, breathe, death, great, reach, treat, wheat 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wreck",
+      "word": "wreck",
+      "phonetic": "/rek/",
+      "meaning": "n.失事船(或飞机)v.(船等)失事,遇难;破坏",
+      "similar": [
+        "wrench",
+        "deck",
+        "neck",
+        "rack",
+        "rock",
+        "weak",
+        "week",
+        "break"
+      ],
+      "question": {
+        "wordId": "wreck",
+        "stem": "选择 \"wreck\" 的正确中文意思：",
+        "correct": "n.失事船(或飞机)v.(船等)失事,遇难;破坏",
+        "options": [
+          "n.失事船(或飞机)v.(船等)失事,遇难;破坏",
+          "n.甲板",
+          "n.颈脖",
+          "v.猛拧；挣脱；使扭伤 n.扳手；痛苦，难受"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wreck的核心含义与\"n.失事船(或飞机)v.(船等)失事,遇难;破坏\"相关",
+        "similarWarning": "注意区分：wreck 与 wrench, deck, neck, rack, rock, weak, week, break 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wrench",
+      "word": "wrench",
+      "phonetic": "/rentʃ/",
+      "meaning": "v.猛拧；挣脱；使扭伤 n.扳手；痛苦，难受",
+      "similar": [
+        "trench",
+        "bench",
+        "reach",
+        "wreck",
+        "branch",
+        "breach",
+        "preach",
+        "quench"
+      ],
+      "question": {
+        "wordId": "wrench",
+        "stem": "选择 \"wrench\" 的正确中文意思：",
+        "correct": "v.猛拧；挣脱；使扭伤 n.扳手；痛苦，难受",
+        "options": [
+          "n.长凳,条凳;(工作)台,座",
+          "n.&v.(挖)沟，(挖)战壕",
+          "v.猛拧；挣脱；使扭伤 n.扳手；痛苦，难受",
+          "v.抵达;(out)伸手,够到 n.能达到的范围"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：wrench的核心含义与\"v.猛拧；挣脱；使扭伤 n.扳手；痛苦，难受\"相关",
+        "similarWarning": "注意区分：wrench 与 trench, bench, reach, wreck, branch, breach, preach, quench 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wretched",
+      "word": "wretched",
+      "phonetic": "/'retʃid/",
+      "meaning": "a.可怜的;悲惨的;肮脏的;恶劣的",
+      "similar": [
+        "wrench",
+        "whether"
+      ],
+      "question": {
+        "wordId": "wretched",
+        "stem": "选择 \"wretched\" 的正确中文意思：",
+        "correct": "a.可怜的;悲惨的;肮脏的;恶劣的",
+        "options": [
+          "a.可怜的;悲惨的;肮脏的;恶劣的",
+          "v.猛拧；挣脱；使扭伤 n.扳手；痛苦，难受",
+          "conj.是否，会不会，不管，无论",
+          "a.眼的,视力的;光学的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wretched的核心含义与\"a.可怜的;悲惨的;肮脏的;恶劣的\"相关",
+        "similarWarning": "注意区分：wretched 与 wrench, whether 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wrinkle",
+      "word": "wrinkle",
+      "phonetic": "/'riŋkl/",
+      "meaning": "n.皱纹 v.起皱,皱眉",
+      "similar": [
+        "sprinkle",
+        "twinkle",
+        "triangle"
+      ],
+      "question": {
+        "wordId": "wrinkle",
+        "stem": "选择 \"wrinkle\" 的正确中文意思：",
+        "correct": "n.皱纹 v.起皱,皱眉",
+        "options": [
+          "vi.(星等)闪烁，(眼情)发亮 n.闪烁，闪光",
+          "n.洒,喷,淋",
+          "n.三角(形)",
+          "n.皱纹 v.起皱,皱眉"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：wrinkle的核心含义与\"n.皱纹 v.起皱,皱眉\"相关",
+        "similarWarning": "注意区分：wrinkle 与 sprinkle, twinkle, triangle 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wrist",
+      "word": "wrist",
+      "phonetic": "/rist/",
+      "meaning": "n.腕,腕关节",
+      "similar": [
+        "waist",
+        "artist",
+        "christ",
+        "priest",
+        "wit",
+        "fist",
+        "list",
+        "mist"
+      ],
+      "question": {
+        "wordId": "wrist",
+        "stem": "选择 \"wrist\" 的正确中文意思：",
+        "correct": "n.腕,腕关节",
+        "options": [
+          "n.腕,腕关节",
+          "n.腰,腰部",
+          "n.艺术家，美术家；(某方面的)能手",
+          "n.基督，救世主，耶稣"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wrist的核心含义与\"n.腕,腕关节\"相关",
+        "similarWarning": "注意区分：wrist 与 waist, artist, christ, priest, wit, fist, list, mist 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "write",
+      "word": "write",
+      "phonetic": "/rait/",
+      "meaning": "v.写，书写，写字；写作；写信(给)，函告",
+      "similar": [
+        "white",
+        "waiter",
+        "wit",
+        "bite",
+        "cite",
+        "kite",
+        "rate",
+        "rice"
+      ],
+      "question": {
+        "wordId": "write",
+        "stem": "选择 \"write\" 的正确中文意思：",
+        "correct": "v.写，书写，写字；写作；写信(给)，函告",
+        "options": [
+          "n.智力,才智,智慧",
+          "n.侍者,服务员",
+          "a.白色的；苍白的；白种的 n.白色；白种人",
+          "v.写，书写，写字；写作；写信(给)，函告"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：write的核心含义与\"v.写，书写，写字；写作；写信(给)，函告\"相关",
+        "similarWarning": "注意区分：write 与 white, waiter, wit, bite, cite, kite, rate, rice 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "writing",
+      "word": "writing",
+      "phonetic": "/'raitiŋ/",
+      "meaning": "n.写,写作;著作,作品",
+      "similar": [
+        "exciting",
+        "greeting",
+        "painting",
+        "striking",
+        "training"
+      ],
+      "question": {
+        "wordId": "writing",
+        "stem": "选择 \"writing\" 的正确中文意思：",
+        "correct": "n.写,写作;著作,作品",
+        "options": [
+          "n.问候,致敬",
+          "n.上油漆,着色;绘画;油画;画法",
+          "a.令人兴奋的,使人激动的",
+          "n.写,写作;著作,作品"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：writing的核心含义与\"n.写,写作;著作,作品\"相关",
+        "similarWarning": "注意区分：writing 与 exciting, greeting, painting, striking, training 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wrong",
+      "word": "wrong",
+      "phonetic": "/rɔŋ/",
+      "meaning": "a.错的 ad.错误地，不正确地 n.错误 v.委屈",
+      "similar": [
+        "strong",
+        "frog",
+        "iron",
+        "long",
+        "ring",
+        "song",
+        "wing",
+        "along"
+      ],
+      "question": {
+        "wordId": "wrong",
+        "stem": "选择 \"wrong\" 的正确中文意思：",
+        "correct": "a.错的 ad.错误地，不正确地 n.错误 v.委屈",
+        "options": [
+          "n.铁,铁制品,烙铁,熨斗 v.熨(衣),熨平",
+          "n.蛙",
+          "a.强壮的,强大的;强烈的,浓的",
+          "a.错的 ad.错误地，不正确地 n.错误 v.委屈"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：wrong的核心含义与\"a.错的 ad.错误地，不正确地 n.错误 v.委屈\"相关",
+        "similarWarning": "注意区分：wrong 与 strong, frog, iron, long, ring, song, wing, along 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "x-ray",
+      "word": "X-ray",
+      "phonetic": "/'eks/",
+      "meaning": "n.X射线,X光",
+      "similar": [
+        "ray",
+        "pray",
+        "tray",
+        "array",
+        "spray"
+      ],
+      "question": {
+        "wordId": "x-ray",
+        "stem": "选择 \"X-ray\" 的正确中文意思：",
+        "correct": "n.X射线,X光",
+        "options": [
+          "n.光线,射线",
+          "n.X射线,X光",
+          "v.请求,恳求;祈祷,祈求",
+          "n.盘,碟,托盘"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：X-ray的核心含义与\"n.X射线,X光\"相关",
+        "similarWarning": "注意区分：X-ray 与 ray, pray, tray, array, spray 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "yard",
+      "word": "yard",
+      "phonetic": "/jɑ:d/",
+      "meaning": "n.院子,场地;码",
+      "similar": [
+        "card",
+        "hard",
+        "ward",
+        "award",
+        "beard",
+        "board",
+        "guard"
+      ],
+      "question": {
+        "wordId": "yard",
+        "stem": "选择 \"yard\" 的正确中文意思：",
+        "correct": "n.院子,场地;码",
+        "options": [
+          "n.院子,场地;码",
+          "n.卡片,名片;纸牌;纸片",
+          "n.病房;行政区;监护;被监护人 vt.挡住",
+          "a.坚硬的；结实的；困难的；难忍的；严厉的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：yard的核心含义与\"n.院子,场地;码\"相关",
+        "similarWarning": "注意区分：yard 与 card, hard, ward, award, beard, board, guard 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "yawn",
+      "word": "yawn",
+      "phonetic": "/jɔ:n/",
+      "meaning": "v.打呵欠 n.呵欠",
+      "similar": [
+        "dawn",
+        "lawn"
+      ],
+      "question": {
+        "wordId": "yawn",
+        "stem": "选择 \"yawn\" 的正确中文意思：",
+        "correct": "v.打呵欠 n.呵欠",
+        "options": [
+          "v.打呵欠 n.呵欠",
+          "n.黎明,拂晓 v.破晓;开始现出",
+          "n.草地,草坪",
+          "v.拿取；吃；记录；取得；花费；捕获；认为"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：yawn的核心含义与\"v.打呵欠 n.呵欠\"相关",
+        "similarWarning": "注意区分：yawn 与 dawn, lawn 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "year",
+      "word": "year",
+      "phonetic": "/jɪə(r)/",
+      "meaning": "n.年，年度，学年 a./ad.每年，一年一次",
+      "similar": [
+        "ear",
+        "bear",
+        "dear",
+        "fear",
+        "gear",
+        "hear",
+        "near",
+        "pear"
+      ],
+      "question": {
+        "wordId": "year",
+        "stem": "选择 \"year\" 的正确中文意思：",
+        "correct": "n.年，年度，学年 a./ad.每年，一年一次",
+        "options": [
+          "n.熊 v.忍受,容忍;负担;结果实,生子女",
+          "n.年，年度，学年 a./ad.每年，一年一次",
+          "a.昂贵的；亲爱的；珍贵的 int.呵！哎呀！",
+          "n.耳，耳朵；听力，听觉；穗"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：year的核心含义与\"n.年，年度，学年 a./ad.每年，一年一次\"相关",
+        "similarWarning": "注意区分：year 与 ear, bear, dear, fear, gear, hear, near, pear 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "yearly",
+      "word": "yearly",
+      "phonetic": "/'jə:li/",
+      "meaning": "a.每年的，一年一度的 ad.每年，一年一次地",
+      "similar": [
+        "early",
+        "nearly",
+        "year",
+        "pearl",
+        "weary",
+        "deadly",
+        "nearby",
+        "really"
+      ],
+      "question": {
+        "wordId": "yearly",
+        "stem": "选择 \"yearly\" 的正确中文意思：",
+        "correct": "a.每年的，一年一度的 ad.每年，一年一次地",
+        "options": [
+          "a.每年的，一年一度的 ad.每年，一年一次地",
+          "a.早的,早期的,及早的 ad.早,在初期",
+          "ad.差不多,几乎",
+          "n.年，年度，学年 a./ad.每年，一年一次"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：yearly的核心含义与\"a.每年的，一年一度的 ad.每年，一年一次地\"相关",
+        "similarWarning": "注意区分：yearly 与 early, nearly, year, pearl, weary, deadly, nearby, really 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "yell",
+      "word": "yell",
+      "phonetic": "/jel/",
+      "meaning": "vi.大叫;呼喊 vt.叫着说 n.叫声;喊声",
+      "similar": [
+        "bell",
+        "cell",
+        "fell",
+        "hell",
+        "sell",
+        "tell",
+        "well",
+        "yellow"
+      ],
+      "question": {
+        "wordId": "yell",
+        "stem": "选择 \"yell\" 的正确中文意思：",
+        "correct": "vi.大叫;呼喊 vt.叫着说 n.叫声;喊声",
+        "options": [
+          "n.钟,铃",
+          "vi.大叫;呼喊 vt.叫着说 n.叫声;喊声",
+          "v.击倒;打倒(疾病等);砍伐a.凶猛的;可怕的",
+          "n.细胞;小房间;蜂房;电池"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：yell的核心含义与\"vi.大叫;呼喊 vt.叫着说 n.叫声;喊声\"相关",
+        "similarWarning": "注意区分：yell 与 bell, cell, fell, hell, sell, tell, well, yellow 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "yellow",
+      "word": "yellow",
+      "phonetic": "/'jeləu/",
+      "meaning": "a.黄的，黄色的 n.黄色",
+      "similar": [
+        "fellow",
+        "yell",
+        "allow",
+        "below",
+        "elbow",
+        "hello",
+        "follow",
+        "hollow"
+      ],
+      "question": {
+        "wordId": "yellow",
+        "stem": "选择 \"yellow\" 的正确中文意思：",
+        "correct": "a.黄的，黄色的 n.黄色",
+        "options": [
+          "vt.允许，准许；承认；给予；(for)考虑到",
+          "n.人,家伙;伙伴,同事 a.同样的,同事的",
+          "a.黄的，黄色的 n.黄色",
+          "vi.大叫;呼喊 vt.叫着说 n.叫声;喊声"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：yellow的核心含义与\"a.黄的，黄色的 n.黄色\"相关",
+        "similarWarning": "注意区分：yellow 与 fellow, yell, allow, below, elbow, hello, follow, hollow 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "yes",
+      "word": "yes",
+      "phonetic": "/jes/",
+      "meaning": "ad.是[用于肯定句前]，是的",
+      "similar": [
+        "yet"
+      ],
+      "question": {
+        "wordId": "yes",
+        "stem": "选择 \"yes\" 的正确中文意思：",
+        "correct": "ad.是[用于肯定句前]，是的",
+        "options": [
+          "ad.是[用于肯定句前]，是的",
+          "ad.还，尚，仍然；已经 conj.然而 ad.甚至",
+          "v.宣告,声明",
+          "a.心智健全的,神志清醒的,明智的,稳健的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：yes的核心含义与\"ad.是[用于肯定句前]，是的\"相关",
+        "similarWarning": "注意区分：yes 与 yet 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "yesterday",
+      "word": "yesterday",
+      "phonetic": "/'jestədi/",
+      "meaning": "n.&ad.昨天；前不久",
+      "similar": [],
+      "question": {
+        "wordId": "yesterday",
+        "stem": "选择 \"yesterday\" 的正确中文意思：",
+        "correct": "n.&ad.昨天；前不久",
+        "options": [
+          "v.(with)合作,协作,相配合",
+          "a.表面的;肤浅的,浅薄的",
+          "a.海的,海生的;船舶的,航海的",
+          "n.&ad.昨天；前不久"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：yesterday的核心含义与\"n.&ad.昨天；前不久\"相关",
+        "similarWarning": "注意区分：yesterday 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "yet",
+      "word": "yet",
+      "phonetic": "/jet/",
+      "meaning": "ad.还，尚，仍然；已经 conj.然而 ad.甚至",
+      "similar": [
+        "bet",
+        "get",
+        "jet",
+        "let",
+        "net",
+        "pet",
+        "set",
+        "wet"
+      ],
+      "question": {
+        "wordId": "yet",
+        "stem": "选择 \"yet\" 的正确中文意思：",
+        "correct": "ad.还，尚，仍然；已经 conj.然而 ad.甚至",
+        "options": [
+          "ad.还，尚，仍然；已经 conj.然而 ad.甚至",
+          "v.获得，得到；使，使得；变得，成为；到达",
+          "n.喷气发动机,喷气式飞机;喷口 v.喷出,喷射",
+          "v.赌,打赌 n.打赌,赌注"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：yet的核心含义与\"ad.还，尚，仍然；已经 conj.然而 ad.甚至\"相关",
+        "similarWarning": "注意区分：yet 与 bet, get, jet, let, net, pet, set, wet 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "yield",
+      "word": "yield",
+      "phonetic": "/ji:ld/",
+      "meaning": "v.出产,生长;(to)屈服,服从 n.产量,收获",
+      "similar": [
+        "field",
+        "shield",
+        "mild",
+        "weld",
+        "wild",
+        "yell"
+      ],
+      "question": {
+        "wordId": "yield",
+        "stem": "选择 \"yield\" 的正确中文意思：",
+        "correct": "v.出产,生长;(to)屈服,服从 n.产量,收获",
+        "options": [
+          "n.防护物,护罩;盾,盾状物 v.保护,防护",
+          "a.温和的,轻微的,味淡的,不含有害物质的的",
+          "n.田野；运动场；(电或磁)场；领域，范围",
+          "v.出产,生长;(to)屈服,服从 n.产量,收获"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：yield的核心含义与\"v.出产,生长;(to)屈服,服从 n.产量,收获\"相关",
+        "similarWarning": "注意区分：yield 与 field, shield, mild, weld, wild, yell 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "you",
+      "word": "you",
+      "phonetic": "/ju:/",
+      "meaning": "pron.你；你们；一个人，任何人",
+      "similar": [
+        "your",
+        "young",
+        "yours",
+        "youth"
+      ],
+      "question": {
+        "wordId": "you",
+        "stem": "选择 \"you\" 的正确中文意思：",
+        "correct": "pron.你；你们；一个人，任何人",
+        "options": [
+          "pron.你；你们；一个人，任何人",
+          "pron.[you的所有格]你的，你们的",
+          "a.年轻的，幼小的；没经验的 n.青年人",
+          "pron.[you的物主代词]你(们)的(所有物)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：you的核心含义与\"pron.你；你们；一个人，任何人\"相关",
+        "similarWarning": "注意区分：you 与 your, young, yours, youth 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "young",
+      "word": "young",
+      "phonetic": "/jʌŋ/",
+      "meaning": "a.年轻的，幼小的；没经验的 n.青年人",
+      "similar": [
+        "lounge",
+        "you",
+        "long",
+        "lung",
+        "noun",
+        "song",
+        "your",
+        "bound"
+      ],
+      "question": {
+        "wordId": "young",
+        "stem": "选择 \"young\" 的正确中文意思：",
+        "correct": "a.年轻的，幼小的；没经验的 n.青年人",
+        "options": [
+          "a.长的，长时间的，长期的 ad.长久，长期地",
+          "pron.你；你们；一个人，任何人",
+          "n.休息室,起居室,客厅",
+          "a.年轻的，幼小的；没经验的 n.青年人"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：young的核心含义与\"a.年轻的，幼小的；没经验的 n.青年人\"相关",
+        "similarWarning": "注意区分：young 与 lounge, you, long, lung, noun, song, your, bound 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "youngster",
+      "word": "youngster",
+      "phonetic": "/'jʌŋstə/",
+      "meaning": "n.小伙子，年轻人；少年，儿童",
+      "similar": [
+        "counter",
+        "monster"
+      ],
+      "question": {
+        "wordId": "youngster",
+        "stem": "选择 \"youngster\" 的正确中文意思：",
+        "correct": "n.小伙子，年轻人；少年，儿童",
+        "options": [
+          "n.虫,蠕虫",
+          "n.怪物,妖怪,畸形的动植物",
+          "n.柜台;计数器 a./ad.相反(的) v.反对,反击",
+          "n.小伙子，年轻人；少年，儿童"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：youngster的核心含义与\"n.小伙子，年轻人；少年，儿童\"相关",
+        "similarWarning": "注意区分：youngster 与 counter, monster 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "your",
+      "word": "your",
+      "phonetic": "/jɔ:/",
+      "meaning": "pron.[you的所有格]你的，你们的",
+      "similar": [
+        "yours",
+        "our",
+        "you",
+        "four",
+        "hour",
+        "pour",
+        "sour",
+        "tour"
+      ],
+      "question": {
+        "wordId": "your",
+        "stem": "选择 \"your\" 的正确中文意思：",
+        "correct": "pron.[you的所有格]你的，你们的",
+        "options": [
+          "pron.[you的所有格]你的，你们的",
+          "pron.你；你们；一个人，任何人",
+          "pron.[you的物主代词]你(们)的(所有物)",
+          "pron.[we的所有格]我们的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：your的核心含义与\"pron.[you的所有格]你的，你们的\"相关",
+        "similarWarning": "注意区分：your 与 yours, our, you, four, hour, pour, sour, tour 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "yours",
+      "word": "yours",
+      "phonetic": "/jɔ:z/",
+      "meaning": "pron.[you的物主代词]你(们)的(所有物)",
+      "similar": [
+        "ours",
+        "your",
+        "course",
+        "our",
+        "you",
+        "four",
+        "hour",
+        "pour"
+      ],
+      "question": {
+        "wordId": "yours",
+        "stem": "选择 \"yours\" 的正确中文意思：",
+        "correct": "pron.[you的物主代词]你(们)的(所有物)",
+        "options": [
+          "pron.[you的所有格]你的，你们的",
+          "pron.[we的物主代词]我们的(所有物)",
+          "n.课程,教程;过程,进程;路程,路线;一道菜",
+          "pron.[you的物主代词]你(们)的(所有物)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：yours的核心含义与\"pron.[you的物主代词]你(们)的(所有物)\"相关",
+        "similarWarning": "注意区分：yours 与 ours, your, course, our, you, four, hour, pour 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "yourself",
+      "word": "yourself",
+      "phonetic": "/jɔ:'self/",
+      "meaning": "pron.[反身代词]你自己；你亲自",
+      "similar": [
+        "course",
+        "counsel",
+        "herself",
+        "oneself"
+      ],
+      "question": {
+        "wordId": "yourself",
+        "stem": "选择 \"yourself\" 的正确中文意思：",
+        "correct": "pron.[反身代词]你自己；你亲自",
+        "options": [
+          "pron.[反身代词]她自己；她亲自，她本人",
+          "v./n.劝告,忠告 n.法律顾问,辩护人",
+          "pron.[反身代词]你自己；你亲自",
+          "n.课程,教程;过程,进程;路程,路线;一道菜"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：yourself的核心含义与\"pron.[反身代词]你自己；你亲自\"相关",
+        "similarWarning": "注意区分：yourself 与 course, counsel, herself, oneself 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "youth",
+      "word": "youth",
+      "phonetic": "/ju:θ/",
+      "meaning": "n.青年;年轻人",
+      "similar": [
+        "mouth",
+        "south",
+        "out",
+        "you",
+        "both",
+        "oath",
+        "your",
+        "booth"
+      ],
+      "question": {
+        "wordId": "youth",
+        "stem": "选择 \"youth\" 的正确中文意思：",
+        "correct": "n.青年;年轻人",
+        "options": [
+          "n.南,南方,南部 a.南方的,南部的",
+          "n.口,嘴",
+          "n.青年;年轻人",
+          "ad.出去；离家；突出来 a.外面的，往外去的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：youth的核心含义与\"n.青年;年轻人\"相关",
+        "similarWarning": "注意区分：youth 与 mouth, south, out, you, both, oath, your, booth 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "zeal",
+      "word": "zeal",
+      "phonetic": "/zi:l/",
+      "meaning": "n.热心，热忱，热情",
+      "similar": [
+        "deal",
+        "heal",
+        "meal",
+        "real",
+        "seal",
+        "ideal",
+        "legal",
+        "medal"
+      ],
+      "question": {
+        "wordId": "zeal",
+        "stem": "选择 \"zeal\" 的正确中文意思：",
+        "correct": "n.热心，热忱，热情",
+        "options": [
+          "n.热心，热忱，热情",
+          "n.膳食,一餐",
+          "v.处理;做买卖,经营;分配;对待 n.交易",
+          "v.治愈,愈合"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：zeal的核心含义与\"n.热心，热忱，热情\"相关",
+        "similarWarning": "注意区分：zeal 与 deal, heal, meal, real, seal, ideal, legal, medal 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "zebra",
+      "word": "zebra",
+      "phonetic": "/'zebrə/",
+      "meaning": "n.斑马",
+      "similar": [
+        "era",
+        "zero"
+      ],
+      "question": {
+        "wordId": "zebra",
+        "stem": "选择 \"zebra\" 的正确中文意思：",
+        "correct": "n.斑马",
+        "options": [
+          "n.零,零度 num.零",
+          "n.挂念，焦虑，焦急，忧虑；渴望，热望",
+          "n.时代,年代,阶段,纪元",
+          "n.斑马"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：zebra的核心含义与\"n.斑马\"相关",
+        "similarWarning": "注意区分：zebra 与 era, zero 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "zero",
+      "word": "zero",
+      "phonetic": "/'ziərəu/",
+      "meaning": "n.零,零度 num.零",
+      "similar": [
+        "hero",
+        "negro",
+        "zebra"
+      ],
+      "question": {
+        "wordId": "zero",
+        "stem": "选择 \"zero\" 的正确中文意思：",
+        "correct": "n.零,零度 num.零",
+        "options": [
+          "n.英雄，勇士；男主角，男主人公",
+          "n.黑人 a.黑人的",
+          "n.斑马",
+          "n.零,零度 num.零"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：zero的核心含义与\"n.零,零度 num.零\"相关",
+        "similarWarning": "注意区分：zero 与 hero, negro, zebra 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "zigzag",
+      "word": "zigzag",
+      "phonetic": "/'zigzæg/",
+      "meaning": "n./a.之字形(的) v.使曲折,曲折盘旋",
+      "similar": [],
+      "question": {
+        "wordId": "zigzag",
+        "stem": "选择 \"zigzag\" 的正确中文意思：",
+        "correct": "n./a.之字形(的) v.使曲折,曲折盘旋",
+        "options": [
+          "n./a.之字形(的) v.使曲折,曲折盘旋",
+          "v.忍受,持久,持续",
+          "vi.略过，跳过 n.跳跃 vt.故意忽略；略过",
+          "v.使结冰,使凝固"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：zigzag的核心含义与\"n./a.之字形(的) v.使曲折,曲折盘旋\"相关",
+        "similarWarning": "注意区分：zigzag 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "zinc",
+      "word": "zinc",
+      "phonetic": "/ziŋk/",
+      "meaning": "n.锌",
+      "similar": [
+        "pinch",
+        "since"
+      ],
+      "question": {
+        "wordId": "zinc",
+        "stem": "选择 \"zinc\" 的正确中文意思：",
+        "correct": "n.锌",
+        "options": [
+          "n.锌",
+          "v.捏,掐,拧;收缩;紧急关头;匮乏;压力",
+          "prep.自从 conj.自从；因为，既然 ad.后来",
+          "n.[一般用于否定句或疑问句中]效用,利益"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：zinc的核心含义与\"n.锌\"相关",
+        "similarWarning": "注意区分：zinc 与 pinch, since 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "zip",
+      "word": "zip",
+      "phonetic": "/zɪp/",
+      "meaning": "v.(用拉链或像拉链那样)合上或打开",
+      "similar": [
+        "dip",
+        "hip",
+        "lip",
+        "rip",
+        "sip",
+        "tip"
+      ],
+      "question": {
+        "wordId": "zip",
+        "stem": "选择 \"zip\" 的正确中文意思：",
+        "correct": "v.(用拉链或像拉链那样)合上或打开",
+        "options": [
+          "v.(用拉链或像拉链那样)合上或打开",
+          "v./n.浸,蘸",
+          "n.臀部，髋；屋脊",
+          "n.嘴唇"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：zip的核心含义与\"v.(用拉链或像拉链那样)合上或打开\"相关",
+        "similarWarning": "注意区分：zip 与 dip, hip, lip, rip, sip, tip 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "zone",
+      "word": "zone",
+      "phonetic": "/zəun/",
+      "meaning": "n.地区,区域 v.分区,划分地带",
+      "similar": [
+        "ozone",
+        "one",
+        "bone",
+        "none",
+        "tone",
+        "alone",
+        "clone",
+        "honey"
+      ],
+      "question": {
+        "wordId": "zone",
+        "stem": "选择 \"zone\" 的正确中文意思：",
+        "correct": "n.地区,区域 v.分区,划分地带",
+        "options": [
+          "num.一 pron.一个(只)(表示代替可数的东西)",
+          "n.骨(骼)",
+          "n.臭氧；(海岸等的)新鲜空气",
+          "n.地区,区域 v.分区,划分地带"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：zone的核心含义与\"n.地区,区域 v.分区,划分地带\"相关",
+        "similarWarning": "注意区分：zone 与 ozone, one, bone, none, tone, alone, clone, honey 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "zoo",
+      "word": "zoo",
+      "phonetic": "/zu:/",
+      "meaning": "n.动物园",
+      "similar": [
+        "zoom",
+        "too"
+      ],
+      "question": {
+        "wordId": "zoo",
+        "stem": "选择 \"zoo\" 的正确中文意思：",
+        "correct": "n.动物园",
+        "options": [
+          "n.托儿所",
+          "vi.(飞机)陡升 n.陡升；嗡嗡声",
+          "n.动物园",
+          "ad.也，还；太，过于；很，非常"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：zoo的核心含义与\"n.动物园\"相关",
+        "similarWarning": "注意区分：zoo 与 zoom, too 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "zoom",
+      "word": "zoom",
+      "phonetic": "/zu:m/",
+      "meaning": "vi.(飞机)陡升 n.陡升；嗡嗡声",
+      "similar": [
+        "zoo",
+        "boom",
+        "doom",
+        "loom",
+        "room",
+        "bloom",
+        "bosom",
+        "broom"
+      ],
+      "question": {
+        "wordId": "zoom",
+        "stem": "选择 \"zoom\" 的正确中文意思：",
+        "correct": "vi.(飞机)陡升 n.陡升；嗡嗡声",
+        "options": [
+          "vi.(飞机)陡升 n.陡升；嗡嗡声",
+          "n.厄运,劫数 v.注定,命定",
+          "n.动物园",
+          "v.迅速发展,兴旺;发出隆隆声"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：zoom的核心含义与\"vi.(飞机)陡升 n.陡升；嗡嗡声\"相关",
+        "similarWarning": "注意区分：zoom 与 zoo, boom, doom, loom, room, bloom, bosom, broom 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    }
+  ]
+}

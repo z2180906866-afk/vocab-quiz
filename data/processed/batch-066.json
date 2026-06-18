@@ -1,0 +1,1769 @@
+{
+  "batchId": 66,
+  "words": [
+    {
+      "id": "remedy",
+      "word": "remedy",
+      "phonetic": "/'remidi/",
+      "meaning": "n.药品;治疗措施 v.治疗,医治;纠正,补救",
+      "similar": [
+        "reed",
+        "comedy",
+        "greedy",
+        "recede"
+      ],
+      "question": {
+        "wordId": "remedy",
+        "stem": "选择 \"remedy\" 的正确中文意思：",
+        "correct": "n.药品;治疗措施 v.治疗,医治;纠正,补救",
+        "options": [
+          "a.贪吃的,贪婪的,渴望的",
+          "n.芦苇,苇丛;芦笛,牧笛",
+          "n.药品;治疗措施 v.治疗,医治;纠正,补救",
+          "n.喜剧;喜剧性事件"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "re-（回）+ med（治愈）+ -y（名词后缀）→ 使恢复健康的东西，即药品或治疗措施。核心动作：通过某种手段使事物回到正常状态。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“补救办法；纠正措施”，如remedy for a problem（问题的补救方案），强调对缺陷或错误的修正。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "remember",
+      "word": "remember",
+      "phonetic": "/ri'membə/",
+      "meaning": "v.记住;(to)转达问候,代…致意,代…问好",
+      "similar": [
+        "december",
+        "september",
+        "november",
+        "resemble",
+        "semester"
+      ],
+      "question": {
+        "wordId": "remember",
+        "stem": "选择 \"remember\" 的正确中文意思：",
+        "correct": "v.记住;(to)转达问候,代…致意,代…问好",
+        "options": [
+          "v.记住;(to)转达问候,代…致意,代…问好",
+          "n.十一月",
+          "n.九月",
+          "n.十二月"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（再次）+ member（记忆，源自拉丁语memor，意为“记住的”）。核心动作：再次唤起记忆，即“记住”或“回想起”。",
+        "similarWarning": "resemble（相似）：re-（强调）+ semble（相似，源自拉丁语similis），拼写差异在“mem”与“sem”，意思为“相似”。member（成员）：mem（记忆）+ ber（名词后缀），指“被记住的人”，即成员。",
+        "extendedMeaning": "转达问候：在书信或口语中，remember me to sb. 意为“代我向某人问好”，如Remember me to your parents. 此为考研中高频僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "remind",
+      "word": "remind",
+      "phonetic": "/ri'maind/",
+      "meaning": "v.(of)提醒,使想起",
+      "similar": [
+        "remains",
+        "rein",
+        "demand",
+        "refine",
+        "refund",
+        "remain"
+      ],
+      "question": {
+        "wordId": "remind",
+        "stem": "选择 \"remind\" 的正确中文意思：",
+        "correct": "v.(of)提醒,使想起",
+        "options": [
+          "v.(of)提醒,使想起",
+          "n./v.要求,请求,需要(量) v.查问",
+          "n.(pl.)剩余,残余,遗迹",
+          "n.缰绳,统治,支配 v.驾驭,控制,统治"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（再次）+ mind（注意、记忆）→ 使某人再次注意到某事 → 提醒，使想起。",
+        "similarWarning": "remains（n. 剩余物，遗迹）vs remind：remains是remain的复数形式，指剩下的东西；remind是动词，强调唤起记忆。mind（n. 头脑，心思；v. 介意）vs remind：mind是核心词根，但remind加了re-前缀，动作指向“再次引起注意”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "remnant",
+      "word": "remnant",
+      "phonetic": "/'remnənt/",
+      "meaning": "n.剩余(物),零料,遗迹[风] a.剩余的,残留的",
+      "similar": [
+        "pregnant",
+        "tenant",
+        "redundant",
+        "dominant",
+        "relevant"
+      ],
+      "question": {
+        "wordId": "remnant",
+        "stem": "选择 \"remnant\" 的正确中文意思：",
+        "correct": "n.剩余(物),零料,遗迹[风] a.剩余的,残留的",
+        "options": [
+          "n.承租人;房客;佃户 vt.租借，承租",
+          "a.怀孕的,孕育的,充满的,意味深长的",
+          "a.多余的,过剩的;(食物)丰富的;被解雇的",
+          "n.剩余(物),零料,遗迹[风] a.剩余的,残留的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 remanere（留下），由 re-（向后/反复）+ manere（停留）构成。核心动作是“停留在后面”，即东西被拿走或消耗后，剩下的部分。词根 man-（停留）演变出 remnant（剩余物），与 remain（保持）同源。",
+        "similarWarning": "pregnant（怀孕的，充满的） vs remnant：p- vs r-，pregnant 的 gn- 表示“产生”，侧重孕育；remnant 的 mn- 表示“停留”，侧重残留。tenant（租户） vs remnant：tenant 的 ten- 表示“持有”，指租赁者；remnant 的 mn- 表示“留下”，指剩余物。redundant（多余的） vs remnant：redundant 的 und- 表示“波浪”，指溢出多余；remnant 的 mn- 表示“停留”，指残留。",
+        "extendedMeaning": "考研外刊中常引申为“遗迹、残余影响”，如 the remnants of feudalism（封建残余），或指“边角料、零头”，如 remnant fabric（零头布料）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "remote",
+      "word": "remote",
+      "phonetic": "/ri'məut/",
+      "meaning": "a.远的,遥远的,疏远的,偏僻的,细微的",
+      "similar": [
+        "remove",
+        "promote",
+        "denote",
+        "devote",
+        "recite",
+        "refute",
+        "relate",
+        "renovate"
+      ],
+      "question": {
+        "wordId": "remote",
+        "stem": "选择 \"remote\" 的正确中文意思：",
+        "correct": "a.远的,遥远的,疏远的,偏僻的,细微的",
+        "options": [
+          "v.促进,发扬;提升,提拔;增进,助长",
+          "a.远的,遥远的,疏远的,偏僻的,细微的",
+          "v.移动,脱掉,调动,免职",
+          "vt.表示,意味着"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "re-（回，又）+ mot-（移动）+ -e。本义为“移回远处”，核心物理动作是“向远处移动”，引申为空间上的“遥远的”、关系上的“疏远的”以及程度上的“细微的”。",
+        "similarWarning": "remote vs remove（re- + move，移开）：remote 是形容词“遥远的”，remove 是动词“移除”。promote（pro-向前 + mot-移动，促进），demote（de-向下 + mot-移动，降级）。",
+        "extendedMeaning": "【考研僻义】1. 遥控的：remote control（遥控器）2. 细微的：remote possibility（微小的可能性）3. 冷漠的：a remote manner（冷漠的态度）",
+        "examUsage": "【真题考点】固定搭配：remote from（远离…的）。例句：The connection between the two events is remote.（这两个事件之间的联系很微弱。）常作为干扰项与 distant, far 辨析，remote 强调因偏僻或隔绝而遥远。"
+      }
+    },
+    {
+      "id": "removal",
+      "word": "removal",
+      "phonetic": "/ri'mu:vəl/",
+      "meaning": "n.移动,迁居;除去",
+      "similar": [
+        "remove",
+        "memorial",
+        "renovate"
+      ],
+      "question": {
+        "wordId": "removal",
+        "stem": "选择 \"removal\" 的正确中文意思：",
+        "correct": "n.移动,迁居;除去",
+        "options": [
+          "n.移动,迁居;除去",
+          "v.更新,修复",
+          "v.移动,脱掉,调动,免职",
+          "a.记忆的,纪念的 n.纪念物,纪念碑,纪念馆"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 re-（回/再）+ mov-（移动）+ -al（名词后缀），核心动作：移回或移开。本义为“移动”或“除去”，强调将某物从原位置移走或清除。",
+        "similarWarning": "remove（v. 移动，去除）: removal是名词形式，remove是动词。memorial（n. 纪念碑，纪念物）: 词根memor-（记忆），与mov-无关。renovate（v. 翻新，修复）: 词根nov-（新的），与mov-无关。",
+        "extendedMeaning": "在考研真题中，removal常指“去除、消除（障碍、污渍等）”，如removal of barriers（消除障碍）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "remove",
+      "word": "remove",
+      "phonetic": "/ri'mu:v/",
+      "meaning": "v.移动,脱掉,调动,免职",
+      "similar": [
+        "remote",
+        "recover",
+        "removal",
+        "resolve",
+        "revolve",
+        "move",
+        "revive",
+        "recovery"
+      ],
+      "question": {
+        "wordId": "remove",
+        "stem": "选择 \"remove\" 的正确中文意思：",
+        "correct": "v.移动,脱掉,调动,免职",
+        "options": [
+          "v.移动,脱掉,调动,免职",
+          "n.移动,迁居;除去",
+          "a.远的,遥远的,疏远的,偏僻的,细微的",
+          "v.收回;(from)恢复,痊愈;重新获得"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（再次、相反）+ move（移动）→ 将某物从原位置移开或移走。核心动作是“使离开原位”，引申出“脱掉（衣物）”、“调动（职位）”、“免职（解除职务）”等含义。",
+        "similarWarning": "remote（遥远的）: re-（远）+ mote（移动）→ 移得很远；remove（移除）: 强调“移开”的动作本身。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "renaissance",
+      "word": "renaissance",
+      "phonetic": "/ri'neisns/",
+      "meaning": "n.[the R-]文艺复兴(时期)；新生，复兴",
+      "similar": [
+        "resistance"
+      ],
+      "question": {
+        "wordId": "renaissance",
+        "stem": "选择 \"renaissance\" 的正确中文意思：",
+        "correct": "n.[the R-]文艺复兴(时期)；新生，复兴",
+        "options": [
+          "n.[the R-]文艺复兴(时期)；新生，复兴",
+          "n.(to)抵抗,反抗;抵抗力,阻力;电阻",
+          "n.频率,周率",
+          "n.议事日程，记事册"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（再次）+ naiss-（词根nasc-/nat-，意为‘出生’）+ -ance（名词后缀）。核心物理动作是‘再次出生’，即重生、复兴。文艺复兴即欧洲古典文化的‘重生’。",
+        "similarWarning": "resistance（抵抗，反对）：re-（反）+ sist-（站立）+ -ance，强调‘对立站定’。与renaissance拼写差异在‘-sist-’ vs ‘-naiss-’，词义完全相反。",
+        "extendedMeaning": "在考研外刊中常引申为‘（某一领域或文化的）复兴、复苏’，如‘economic renaissance’（经济复兴）、‘cultural renaissance’（文化复兴），强调衰落后重获活力。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "render",
+      "word": "render",
+      "phonetic": "/'rendə/",
+      "meaning": "v.使得,致使;提出,提供,呈报",
+      "similar": [
+        "gender",
+        "reader",
+        "tender",
+        "slender",
+        "elder",
+        "enter",
+        "refer",
+        "renew"
+      ],
+      "question": {
+        "wordId": "render",
+        "stem": "选择 \"render\" 的正确中文意思：",
+        "correct": "v.使得,致使;提出,提供,呈报",
+        "options": [
+          "n.读者；读本，读物；(英国的)大学讲师",
+          "n.(生理上的)性；(名词、代词等的)性",
+          "v.使得,致使;提出,提供,呈报",
+          "a.嫩的;敏感的;温柔的 v.提出,提供;投标"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'reddere'（归还，交出），由 're-'（回） + 'dare'（给）构成，核心动作是 '给回'，引申为 '提供、呈报'；进一步引申为 '使变得'（即把某物给回某种状态）。",
+        "similarWarning": "gender（性别，n.）vs render：g-开头 vs r-开头；reader（读者，n.）vs render：-er结尾 vs -er结尾，但含义不同；tender（温柔的；投标，adj./v.）vs render：t-开头 vs r-开头。",
+        "extendedMeaning": "在计算机图形学或艺术语境中，'render' 可指 '渲染、绘制'（如 render a scene）；在考研真题中，常考 'render + 宾语 + 形容词' 结构表示 '使...处于某种状态'。",
+        "examUsage": "固定搭配：render a service（提供服务）、render assistance（提供帮助）；真题例句：'The new law rendered the previous regulations obsolete.'（新法律使旧法规作废。）"
+      }
+    },
+    {
+      "id": "renew",
+      "word": "renew",
+      "phonetic": "/rɪ'nju:/",
+      "meaning": "v.(使)更新,恢复,重新开始,继续",
+      "similar": [
+        "render",
+        "review",
+        "gene",
+        "reed",
+        "reel",
+        "rent",
+        "rebel",
+        "refer"
+      ],
+      "question": {
+        "wordId": "renew",
+        "stem": "选择 \"renew\" 的正确中文意思：",
+        "correct": "v.(使)更新,恢复,重新开始,继续",
+        "options": [
+          "v.回顾,复习 n.回顾,复习;评论",
+          "v.使得,致使;提出,提供,呈报",
+          "v.(使)更新,恢复,重新开始,继续",
+          "n.基因"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "re（再次）+ new（新的）→ 使再次变新，即更新、恢复、重新开始。核心动作：重复赋予新状态。",
+        "similarWarning": "renew vs. render（给予，致使）：renew强调“更新”，render强调“提供/使得”。renew vs. review（复习，评论）：renew侧重“重新开始”，review侧重“回顾检查”。",
+        "extendedMeaning": "（考研僻义）v. 续签（合同、租约等），如 renew a visa（续签签证）；在《经济学人》等外刊中常引申为“重振、复兴”，如 renew the economy（振兴经济）。",
+        "examUsage": "真题考点：renew常与lease（租约）、contract（合同）、subscription（订阅）搭配，表示“续签”。干扰项常与review混淆，注意renew表“重新开始”而非“审查”。"
+      }
+    },
+    {
+      "id": "renovate",
+      "word": "renovate",
+      "phonetic": "/'renəuveit/",
+      "meaning": "v.更新,修复",
+      "similar": [
+        "denote",
+        "relate",
+        "remote",
+        "remove",
+        "rotate",
+        "senate",
+        "elevate",
+        "removal"
+      ],
+      "question": {
+        "wordId": "renovate",
+        "stem": "选择 \"renovate\" 的正确中文意思：",
+        "correct": "v.更新,修复",
+        "options": [
+          "vt.表示,意味着",
+          "v.更新,修复",
+          "a.远的,遥远的,疏远的,偏僻的,细微的",
+          "v.叙述,讲述;使互相关联"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根 re-（再次）+ nov（新）+ -ate（动词后缀）→ 使再次变新 → 翻新、修复。核心动作是“重新变新”，强调对旧物进行改造使其恢复如新。",
+        "similarWarning": "renovate vs. denote（de-向下+note标记→指示） vs. remote（re-回+mote移动→遥远的） vs. remove（re-回+move移动→移开）",
+        "extendedMeaning": "在考研阅读中，renovate 可引申为“革新、改造”（抽象层面），如 renovate the system（革新制度）。",
+        "examUsage": "真题常考搭配：renovate the old building（翻新旧楼），注意与 repair（修补小破损）区分，renovate 侧重整体翻新。"
+      }
+    },
+    {
+      "id": "rent",
+      "word": "rent",
+      "phonetic": "/rent/",
+      "meaning": "v.租,租赁 n.租金",
+      "similar": [
+        "cent",
+        "tent",
+        "orient",
+        "resent",
+        "urgent",
+        "agent",
+        "erect",
+        "grant"
+      ],
+      "question": {
+        "wordId": "rent",
+        "stem": "选择 \"rent\" 的正确中文意思：",
+        "correct": "v.租,租赁 n.租金",
+        "options": [
+          "n.东方,亚洲 v.使朝东,为…定位,使适应",
+          "n.分(币);百 per cent百分之",
+          "v.租,租赁 n.租金",
+          "n.帐篷"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'rendere'（归还），核心动作是‘给予后取回’——租客付钱（给予）以换取房屋使用权（取回），房东出租房屋（给予使用权）以换取租金（取回）。词根 'rent-' 即‘归还’的变体，强调双向交换。",
+        "similarWarning": "resent (v.怨恨)：前缀 re-‘反复’+ sent ‘感觉’→反复感觉→怨恨；rent 是‘租’，拼写仅差 's'。\nrecent (adj.最近的)：前缀 re-‘再’+ cent ‘新’→新的；rent 无 'c'。\norient (v.定位)：ori-‘升起’+ ent→指向东方；rent 无 'oi' 前缀。",
+        "extendedMeaning": "考研僻义：'rent control'（租金管制）常出现在经济类阅读中，指政府限制房东涨租的政策。此外，'for rent' 在广告中常用，但非僻义。若出现 'rent-seeking'（寻租），指通过非生产性手段获取利益，是经济学高频词。",
+        "examUsage": "真题考点：常考搭配 'rent out'（出租）与 'rent from'（向…租）。例：'They rent out their apartment during the summer.'（真题阅读中涉及房产市场时出现）。注意 'rent' 作动词时过去式/分词为 'rented'，与名词同形，但无时态混淆考点。"
+      }
+    },
+    {
+      "id": "repair",
+      "word": "repair",
+      "phonetic": "/ri'pεə/",
+      "meaning": "n.修理,修补 v.补救,纠正;修理",
+      "similar": [
+        "despair",
+        "pair",
+        "rear",
+        "repay",
+        "impair",
+        "remain",
+        "retail",
+        "retain"
+      ],
+      "question": {
+        "wordId": "repair",
+        "stem": "选择 \"repair\" 的正确中文意思：",
+        "correct": "n.修理,修补 v.补救,纠正;修理",
+        "options": [
+          "n.后面,背后,后方 v.饲养,抚养,栽培,举起",
+          "n.修理,修补 v.补救,纠正;修理",
+          "n.一对,一双;一副;夫妇 v.配对,成对",
+          "n.绝望;失望;令人失望的人(事物)v.绝望"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "re-（再次，回）+ pair（来自拉丁语parare，意为准备/整理），核心动作是“使某物恢复到准备就绪的状态”，即修理、修补。引申为补救、纠正错误或损伤。",
+        "similarWarning": "despair（绝望）：de-（向下）+spair（希望），失去希望；与repair相比，前缀不同（de- vs re-），词根spair与pair不同。pair（一对）：词根不同，无“再次”含义。repay（偿还）：pay（支付），与repair词根不同。impair（损害）：im-（向内）+pair（损坏），与repair相反。",
+        "extendedMeaning": "在考研阅读中，repair可引申为“修复（关系、信任等抽象事物）”，例如repair the damaged reputation（修复受损声誉）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "repay",
+      "word": "repay",
+      "phonetic": "/ri:'pei/",
+      "meaning": "v.偿还,报答",
+      "similar": [
+        "relay",
+        "reply",
+        "repair",
+        "repeat",
+        "ray",
+        "reap",
+        "rear",
+        "rely"
+      ],
+      "question": {
+        "wordId": "repay",
+        "stem": "选择 \"repay\" 的正确中文意思：",
+        "correct": "v.偿还,报答",
+        "options": [
+          "v.偿还,报答",
+          "v.中继,转播,接力 n.接替人员,替班",
+          "v./n.(to)回答,答复,以…作答",
+          "n.修理,修补 v.补救,纠正;修理"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（回/再次）+ pay（支付）→ 把支付的钱还回去 → 偿还；引申为回报（如报答恩情）。",
+        "similarWarning": "relay（re-再+lay放置→转播/接力）、repay（re-回+pay支付→偿还）、reply（re-回+ply折叠→回答）。",
+        "extendedMeaning": "考研中常考“报答”义，如 repay one's kindness（报答某人的好意），非字面“偿还”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "repeat",
+      "word": "repeat",
+      "phonetic": "/ri'pi:t/",
+      "meaning": "v.重复,重说,重做 n.重复",
+      "similar": [
+        "retreat",
+        "repay",
+        "repel",
+        "defeat",
+        "reject",
+        "resent",
+        "reveal",
+        "relevant"
+      ],
+      "question": {
+        "wordId": "repeat",
+        "stem": "选择 \"repeat\" 的正确中文意思：",
+        "correct": "v.重复,重说,重做 n.重复",
+        "options": [
+          "v.重复,重说,重做 n.重复",
+          "v.撤退,退却",
+          "v.击退,抵制,使厌恶,使不愉快",
+          "v.偿还,报答"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（再次）+ pet（寻求，源自拉丁语petere“去寻求，攻击”）→ 再次寻求或做某事 → 重复。核心动作：再次进行相同动作。",
+        "similarWarning": "respect（re-向后+spect看→回头看→尊重），recent（re-再次+cent新→新近的），repay（re-回+pay支付→偿还）",
+        "extendedMeaning": "在考研阅读中，repeat有时作名词表示“重播节目”或“重复发生的事件”，如：a repeat of the crisis（危机的重演）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "repeatedly",
+      "word": "repeatedly",
+      "phonetic": "/ri'pi:tidli/",
+      "meaning": "ad.重复地,再三地",
+      "similar": [],
+      "question": {
+        "wordId": "repeatedly",
+        "stem": "选择 \"repeatedly\" 的正确中文意思：",
+        "correct": "ad.重复地,再三地",
+        "options": [
+          "int.欢迎 a.受欢迎的 vt./n.欢迎；迎接",
+          "v./n.跳跃,跳动,跳过;暴涨,猛增",
+          "v.(使)融化,(使)熔化",
+          "ad.重复地,再三地"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "re-（再、又）+ peat（源自拉丁语petere，意为“寻求、冲向”）+ -ed（形容词后缀）+ -ly（副词后缀）。核心动作：一次又一次地寻求或冲向同一目标，引申为“重复地、再三地”。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "repel",
+      "word": "repel",
+      "phonetic": "/ri'pel/",
+      "meaning": "v.击退,抵制,使厌恶,使不愉快",
+      "similar": [
+        "reel",
+        "rebel",
+        "propel",
+        "repeat",
+        "reveal",
+        "heel",
+        "peel",
+        "rape"
+      ],
+      "question": {
+        "wordId": "repel",
+        "stem": "选择 \"repel\" 的正确中文意思：",
+        "correct": "v.击退,抵制,使厌恶,使不愉快",
+        "options": [
+          "v.反抗,反叛,起义 n.叛逆者,起义者",
+          "n.卷筒,线轴 v.卷,绕",
+          "vt.推进，推动；激励，驱使",
+          "v.击退,抵制,使厌恶,使不愉快"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "re-（回） + pel（推，驱动）→ 推回去 → 击退、抵制。核心物理动作为‘反向推离’，引申为心理上的排斥或厌恶。",
+        "similarWarning": "reel（卷轴；踉跄） vs repel：reel含‘eel’（鳗鱼），联想卷轴或摇晃；rebel（反叛者） vs repel：rebel含‘bel’（bell钟声），联想反叛者敲钟；propel（推进） vs repel：pro-向前 + pel，方向相反。",
+        "extendedMeaning": "使厌恶/反感：The smell repelled him.（气味使他反感。）",
+        "examUsage": "真题常考搭配：repel an attack（击退进攻）；repel temptation（抵制诱惑）。"
+      }
+    },
+    {
+      "id": "repertoire",
+      "word": "repertoire",
+      "phonetic": "/'repətwɑ:/",
+      "meaning": "n.节目,全部剧目,保留剧目,全部技能",
+      "similar": [
+        "reservoir",
+        "reporter",
+        "departure",
+        "expertise",
+        "respective"
+      ],
+      "question": {
+        "wordId": "repertoire",
+        "stem": "选择 \"repertoire\" 的正确中文意思：",
+        "correct": "n.节目,全部剧目,保留剧目,全部技能",
+        "options": [
+          "n.离开,起程",
+          "n.报告人,通讯员;记者,报导者",
+          "n.水库,蓄水池",
+          "n.节目,全部剧目,保留剧目,全部技能"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自法语 répertoire，来自拉丁语 repertorium（清单、目录），由 re-（回、重复） + parere（产生、准备）构成，字面意为“可重复准备的清单”。核心动作：反复准备而成的可调用列表。引申为表演者或团体能随时演出的“全部剧目”，进而泛化为个人掌握的“全部技能”储备库。",
+        "similarWarning": "reservoir（水库、储备）：词根 serv-（保持），强调存储容器；repertoire 词根 par-（准备），强调可调用的列表。reporter（记者）：词根 port-（搬运），强调传递消息的人。departure（离开）：词根 de-（离开）+ part-（分开）。expertise（专业知识）：词根 per-（尝试），强调通过经验获得的技能。",
+        "extendedMeaning": "考研中常考引申义“全部技能、全部本领”，如 a wide repertoire of skills（广泛的技能储备），用于形容个人或团队的能力范围。",
+        "examUsage": "真题常考搭配：have a large/wide repertoire of...（拥有丰富的……储备），如 a large repertoire of songs（大量曲目）或 a repertoire of techniques（一系列技术）。注意与 range（范围）的区别：repertoire 强调可主动调用的储备，range 侧重客观跨度。"
+      }
+    },
+    {
+      "id": "repetition",
+      "word": "repetition",
+      "phonetic": "/ˌrepi'tiʃən/",
+      "meaning": "n.重复,反复",
+      "similar": [
+        "petition",
+        "reputation",
+        "competition",
+        "preposition",
+        "reception",
+        "retention",
+        "expedition",
+        "revelation"
+      ],
+      "question": {
+        "wordId": "repetition",
+        "stem": "选择 \"repetition\" 的正确中文意思：",
+        "correct": "n.重复,反复",
+        "options": [
+          "n.重复,反复",
+          "n.请愿书,申请书 v.(向…)请愿,正式请求",
+          "n.竞争，比赛；角逐，较量；[总称]竞争者",
+          "n.名誉,名声,声望"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 repetere（re-“再次”+ petere“寻求、攻击”），核心物理动作为“再次发起攻击/寻求”。petere 本义是“冲向、攻击”，引申为“努力寻求”；re- 表示“再次”。repetition 即“再次发起同样的动作”，即“重复、反复”。",
+        "similarWarning": "petition（请愿）：pet-（寻求）+ -ition（名词后缀），指“寻求支持的文件”。repetition（重复）：re-（再次）+ pet-（寻求），强调“再次寻求/动作”。区别在于前缀 re- 的“再次”义。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "replace",
+      "word": "replace",
+      "phonetic": "/ri'pleis/",
+      "meaning": "vt.取代,替换,代替,把...放回原处",
+      "similar": [
+        "fireplace",
+        "relate",
+        "displace",
+        "necklace",
+        "regulate",
+        "reliance",
+        "reproach"
+      ],
+      "question": {
+        "wordId": "replace",
+        "stem": "选择 \"replace\" 的正确中文意思：",
+        "correct": "vt.取代,替换,代替,把...放回原处",
+        "options": [
+          "vt.取代,替换,代替,把...放回原处",
+          "n.壁炉",
+          "v.移置,转移;取代,置换",
+          "v.叙述,讲述;使互相关联"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（回，再次）+ place（放置）。核心动作：放回原处 → 引申为替代（把旧的拿走，放上新的）。",
+        "similarWarning": "displace（强迫取代/移位）：dis-（离开），强调强行移走。replace（替换/放回）：re-（回），强调放回或替代。",
+        "extendedMeaning": "（真题/外刊）replace 可表“接替（职位/功能）”，如 replace A with B（用B替换A），或 replace the old system（取代旧系统）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "replacement",
+      "word": "replacement",
+      "phonetic": "/ri'pleismənt/",
+      "meaning": "n.取代,替换,替换物,代替物",
+      "similar": [
+        "implement",
+        "represent",
+        "department",
+        "engagement",
+        "requirement"
+      ],
+      "question": {
+        "wordId": "replacement",
+        "stem": "选择 \"replacement\" 的正确中文意思：",
+        "correct": "n.取代,替换,替换物,代替物",
+        "options": [
+          "n.(pl.)工具,器具 v.贯彻,实现",
+          "n.取代,替换,替换物,代替物",
+          "v.描述,表示;代表,代理;阐明,说明",
+          "n.部,局,处,科,部门;系,学部"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根: re- (回/再) + place (放置) + -ment (名词后缀)。核心动作: 把某物放回到原位置或放回一个替代物,引申为‘替换、取代’的行为或物体。",
+        "similarWarning": "implement (n.工具, v.实施): im- (向内) + ple- (填充), 原指‘装满的工具’, 与replacement拼写相似但词义差异大。represent (v.代表): re- (再) + present (呈现), 强调‘再次呈现’即代表, 易与replace混淆。",
+        "extendedMeaning": "在考研阅读中常指‘人员替换’或‘替代品’, 如‘the replacement of old equipment’ (旧设备的更换)或‘a replacement for a retired employee’ (退休员工的接替者)。",
+        "examUsage": "真题常考搭配: ‘in replacement of’ (代替) 或 ‘a direct replacement for sth.’ (某物的直接替代品)。例: The new system is a direct replacement for the old one. (新系统是旧系统的直接替代。)"
+      }
+    },
+    {
+      "id": "reply",
+      "word": "reply",
+      "phonetic": "/ri'plai/",
+      "meaning": "v./n.(to)回答,答复,以…作答",
+      "similar": [
+        "rely",
+        "repay",
+        "reel",
+        "apply",
+        "belly",
+        "imply",
+        "rally",
+        "realm"
+      ],
+      "question": {
+        "wordId": "reply",
+        "stem": "选择 \"reply\" 的正确中文意思：",
+        "correct": "v./n.(to)回答,答复,以…作答",
+        "options": [
+          "n.卷筒,线轴 v.卷,绕",
+          "v./n.(to)回答,答复,以…作答",
+          "v.(on)依赖,依靠;信赖,信任",
+          "v.偿还,报答"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "re-（回）+ ply（折叠，编织）→ 折回、回应。核心动作：将问题或话语像折纸一样折回给对方，即“回答、答复”。",
+        "similarWarning": "rely: 依赖。reply vs rely 差异在字母 p 和 y：ply（折叠） vs ly（躺/倚靠）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "reporter",
+      "word": "reporter",
+      "phonetic": "/ri'pɔ:tə/",
+      "meaning": "n.报告人,通讯员;记者,报导者",
+      "similar": [
+        "porter",
+        "recorder",
+        "poster",
+        "remote",
+        "resort",
+        "retort",
+        "recover",
+        "register"
+      ],
+      "question": {
+        "wordId": "reporter",
+        "stem": "选择 \"reporter\" 的正确中文意思：",
+        "correct": "n.报告人,通讯员;记者,报导者",
+        "options": [
+          "n.报告人,通讯员;记者,报导者",
+          "n.守门人,门房,行李搬运工,服务员",
+          "n海报,张贴的大幅广告",
+          "n.记录员;录音机"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（回，又）+ port（携带，搬运）+ -er（人）。核心动作：将信息从现场“携带”回来的人。即记者，报告人。",
+        "similarWarning": "porter（n.搬运工，门卫）：reporter去掉re-，强调“搬运”体力活。recorder（n.记录器，录音机）：reporter用“port”表携带，recorder用“cord”表心/记录，核心动作不同。poster（n.海报）：reporter中“port”表携带，poster中“post”表张贴。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "represent",
+      "word": "represent",
+      "phonetic": "/ˌrepri'zent/",
+      "meaning": "v.描述,表示;代表,代理;阐明,说明",
+      "similar": [
+        "refreshment",
+        "prevent",
+        "replacement",
+        "requirement",
+        "department",
+        "repression",
+        "retrospect"
+      ],
+      "question": {
+        "wordId": "represent",
+        "stem": "选择 \"represent\" 的正确中文意思：",
+        "correct": "v.描述,表示;代表,代理;阐明,说明",
+        "options": [
+          "v.描述,表示;代表,代理;阐明,说明",
+          "n.(pl.)点心,饮料;精力恢复,爽快",
+          "n.取代,替换,替换物,代替物",
+          "v.(from)预防,防止,阻止,制止,妨碍"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（再次、强调）+ present（呈现、展示）。核心动作：将某物或某人再次呈现出来。引申为：用语言或符号“描述、表示”某事物；作为代理人“代表”某人或组织；通过阐述“阐明、说明”观点。词源画面：把缺席的东西重新摆在面前。",
+        "similarWarning": "represent vs. present：前者强调“代表/描述”，后者意为“呈现/礼物”。repression（压制）与represent拼写相似，但repress意为“抑制”，注意区分press（压）与present（呈现）。",
+        "extendedMeaning": "在考研英语中，represent常引申为“相当于、意味着”，用于说明抽象概念或比例关系，如“represent a significant shift”（意味着重大转变）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "representative",
+      "word": "representative",
+      "phonetic": "/ˌrepri'zentətiv/",
+      "meaning": "n.代表,代理人 a.(of)典型的,有代表性的",
+      "similar": [],
+      "question": {
+        "wordId": "representative",
+        "stem": "选择 \"representative\" 的正确中文意思：",
+        "correct": "n.代表,代理人 a.(of)典型的,有代表性的",
+        "options": [
+          "a.正式的;形式的",
+          "n.代表,代理人 a.(of)典型的,有代表性的",
+          "a.地方的,当地的;局部的",
+          "a.领导的,指导的;第一位的;最主要的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根re-（回，再次）+ present（呈现，展示） + -ative（形容词/名词后缀）。核心动作：将某物或某人的特征再次呈现出来。故引申为“代表”（替人呈现意见）、“典型”（呈现该类事物的共性特征）。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中，常考“典型人物/事物”之义，如“a representative sample”（代表性样本），而非仅指政治或商业代表。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "repression",
+      "word": "repression",
+      "phonetic": "/ri'preʃən/",
+      "meaning": "n.压抑，压制，镇压",
+      "similar": [
+        "impression",
+        "recreation",
+        "extension",
+        "obsession",
+        "precision",
+        "rebellion",
+        "reception",
+        "represent"
+      ],
+      "question": {
+        "wordId": "repression",
+        "stem": "选择 \"repression\" 的正确中文意思：",
+        "correct": "n.压抑，压制，镇压",
+        "options": [
+          "n.娱乐,消遣",
+          "n.印象,感想;盖印,压痕",
+          "n.延长;扩大;范围;大小;尺寸;电话分机",
+          "n.压抑，压制，镇压"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "re-（回/反复）+ press（压）+ -ion（名词后缀）→ 反复往回压 → 压制、镇压（物理/心理层面）。核心动作：将某物或某种情绪强行压回原处或压下。",
+        "similarWarning": "expression（ex-向外+press+ion→表达）；impression（im-向内+press+ion→印象）；repression（re-回+press+ion→压抑）——区别在于前缀方向：向外、向内、往回。",
+        "extendedMeaning": "（心理学）压抑：指个体将痛苦记忆、冲动或欲望从意识中排除到潜意识的过程，如“repression of traumatic memories”。",
+        "examUsage": "真题考点：repression常与political（政治镇压）、sexual（性压抑）搭配，或作为情绪管理语境下的核心词。例句：The government's repression of dissent sparked widespread protests.（政府对异议的镇压引发了广泛抗议。）"
+      }
+    },
+    {
+      "id": "reproach",
+      "word": "reproach",
+      "phonetic": "/ri'prəutʃ/",
+      "meaning": "v./n.责备,指责",
+      "similar": [
+        "approach",
+        "reproduce",
+        "preach",
+        "replace"
+      ],
+      "question": {
+        "wordId": "reproach",
+        "stem": "选择 \"reproach\" 的正确中文意思：",
+        "correct": "v./n.责备,指责",
+        "options": [
+          "v.靠近，接近n.接近；途径，入门;方式,方法",
+          "v.生殖;翻版;繁殖;复制,仿造",
+          "v./n.责备,指责",
+          "v.宣讲(教义),布道;竭力鼓吹,宣传;说教"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "re-（回，反）+ proach（接近，源自拉丁语prope“近”）→ 把某人的错误“拉回”到其面前，即当面指责、责备。核心物理动作为“将过失反推至对方”。",
+        "similarWarning": "approach（接近，方法）：ap-（向）+ proach（近）→ 向……靠近；reproach（责备）：re-（回）+ proach（近）→ 把过错拉回来指责。preach（布道，宣扬）：来自拉丁语praedicare（公开宣称），与proach同源但语义分支不同。",
+        "extendedMeaning": "在考研阅读中可作名词，指“耻辱、丢脸的事”，如“a reproach to society”（社会的耻辱）。",
+        "examUsage": "常考搭配：above/beyond reproach（无可指责，完美无瑕），真题中常作为正面评价的题眼，如“His conduct was beyond reproach.”（他的行为无可指摘。）"
+      }
+    },
+    {
+      "id": "reproduce",
+      "word": "reproduce",
+      "phonetic": "/ˌri:prə'dju:s/",
+      "meaning": "v.生殖;翻版;繁殖;复制,仿造",
+      "similar": [
+        "produce",
+        "reproach",
+        "introduce"
+      ],
+      "question": {
+        "wordId": "reproduce",
+        "stem": "选择 \"reproduce\" 的正确中文意思：",
+        "correct": "v.生殖;翻版;繁殖;复制,仿造",
+        "options": [
+          "vt.介绍；引进，传入；提出(议案等)",
+          "v./n.责备,指责",
+          "v.生产,制造,显示,演出,导致 n.产品",
+          "v.生殖;翻版;繁殖;复制,仿造"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "re-（再次）+ produce（生产）。核心动作：再次生产/制造。引申为生物体的繁殖（再次产生后代）或信息的复制（再次产生相同内容）。",
+        "similarWarning": "produce（生产，v./n.）与reproduce仅少前缀re-；reproach（责备）与reproduce拼写差异为-ach vs -duce，词根不同（proach接近 vs duc引导），意义无关。",
+        "extendedMeaning": "在考研阅读中常考其引申义“再现、重现”，如“reproduce the original sound”（重现原声），强调精确模仿或复现，非仅指生物繁殖。",
+        "examUsage": "真题中常与“copy, duplicate, replicate”构成近义干扰项，需注意reproduce侧重过程或结果的复现，而copy强调直接复制。"
+      }
+    },
+    {
+      "id": "reptile",
+      "word": "reptile",
+      "phonetic": "/'reptail/",
+      "meaning": "n.爬行动物",
+      "similar": [
+        "retire",
+        "fertile",
+        "textile",
+        "creative",
+        "prestige",
+        "relative"
+      ],
+      "question": {
+        "wordId": "reptile",
+        "stem": "选择 \"reptile\" 的正确中文意思：",
+        "correct": "n.爬行动物",
+        "options": [
+          "v.退休,引退;退却,撤退;就寝",
+          "n.爬行动物",
+          "n.纺织品 a.纺织的",
+          "a.肥沃的,富饶的;能繁殖的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'repere'（爬行），后缀 '-ile' 表示‘与...相关的’。核心物理动作是‘腹部贴地移动’，直指爬行动物的典型运动方式。",
+        "similarWarning": "retire（退休，离开）vs reptile：retire = re-（回）+ tire（拉），核心是‘撤回’；reptile = repere（爬），核心是‘爬行’。prestige（声望）vs reptile：prestige = prae-（前）+ stig（刺），原指‘幻术’，与‘爬行’无关。",
+        "extendedMeaning": "在考研阅读中可引申为‘卑鄙的人，阴险者’，源自爬行动物冷血、潜伏的特性，如‘a reptile of a man’（阴险小人）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "republic",
+      "word": "republic",
+      "phonetic": "/ri'pʌblik/",
+      "meaning": "n.共和国,共和政体",
+      "similar": [
+        "republican"
+      ],
+      "question": {
+        "wordId": "republic",
+        "stem": "选择 \"republic\" 的正确中文意思：",
+        "correct": "n.共和国,共和政体",
+        "options": [
+          "a.共和的",
+          "n.相反;背面 a.相反的 v.颠倒,倒转",
+          "n.共和国,共和政体",
+          "v.征服,战胜,占领;克服,破除(坏习惯等)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 res publica，意为“公共事务”。res 指“事物”，publica 是 publicus（公共的）的阴性形式，合指“人民的共同事务”。词根 pub- 表示“人民”，-lic 为形容词后缀。核心动作：将国家权力视为公共事务，而非君主私有，即共和国。",
+        "similarWarning": "republican（共和国的；共和党人）比 republic 多后缀 -an，表示“属于……的”；public（公共的）仅为核心词根 pub-，无前缀 re-（表示“再次”或强调），republic 强调“人民共同的事务”，public 则指“公众的”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "republican",
+      "word": "republican",
+      "phonetic": "/ri'pʌblikən/",
+      "meaning": "a.共和的",
+      "similar": [
+        "republic"
+      ],
+      "question": {
+        "wordId": "republican",
+        "stem": "选择 \"republican\" 的正确中文意思：",
+        "correct": "a.共和的",
+        "options": [
+          "a.共和的",
+          "n.共和国,共和政体",
+          "n./v.投机,冒险;赌博",
+          "v.(at,over)主持"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语res publica（公共事务），由re（事物）+ public（公众的）构成，本义为“公众的事务”。-an为形容词后缀，表示“属于...的”，故republican字面意为“属于公众事务的”，引申为“共和的”。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "reputation",
+      "word": "reputation",
+      "phonetic": "/ˌrepju'teiʃən/",
+      "meaning": "n.名誉,名声,声望",
+      "similar": [
+        "regulation",
+        "repetition",
+        "preparation",
+        "equation",
+        "education",
+        "reduction",
+        "meditation",
+        "population"
+      ],
+      "question": {
+        "wordId": "reputation",
+        "stem": "选择 \"reputation\" 的正确中文意思：",
+        "correct": "n.名誉,名声,声望",
+        "options": [
+          "n.准备,预备;制剂,制备品",
+          "n.名誉,名声,声望",
+          "n.规则,规章;调节,校准;调整",
+          "n.重复,反复"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "re-（反复/回） + put-（思考/计算） + -ation（名词后缀） → 被人反复计算（评价）的结果 → 名声、名誉。核心动作：社会对某人/物经过反复衡量后形成的集体评价。",
+        "similarWarning": "reputation vs. regulation（规则）：reputation 含 put（思考），指评价；regulation 含 reg（统治/规则），指规章。repetition（重复）含 pet（寻求/冲向），指再次做。preparation（准备）含 par（准备），指事先安排。",
+        "extendedMeaning": "考研中常考“声誉”的抽象价值，如“reputation risk”（声誉风险）或“build a reputation”（树立声誉，非普通“建立名声”）。",
+        "examUsage": "真题考点：固定搭配“live up to one's reputation”（名副其实）或“ruin one's reputation”（毁掉某人的名声），常作为阅读理解中评价人物或公司的核心题眼。"
+      }
+    },
+    {
+      "id": "request",
+      "word": "request",
+      "phonetic": "/ri'kwest/",
+      "meaning": "v./n.请求,要求",
+      "similar": [
+        "frequent",
+        "quest",
+        "conquest"
+      ],
+      "question": {
+        "wordId": "request",
+        "stem": "选择 \"request\" 的正确中文意思：",
+        "correct": "v./n.请求,要求",
+        "options": [
+          "v./n.请求,要求",
+          "a.时常发生的,频繁的",
+          "n.探寻，探求；寻求，追求",
+          "n.征服，征服地，掠取物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语requaerere，由re-（再次、强调）+quaerere（询问、寻求）组成，核心物理动作为“反复询问以获取所需”，引申为正式、礼貌的请求或要求。",
+        "similarWarning": "frequent（频繁的）: re-替换为fre-，强调频率；quest（寻求）: 去掉前缀re-，保留核心词根“寻求”；conquest（征服）: con-（一起）+quest，强调“共同征服”的结果。",
+        "extendedMeaning": "在考研英语中，request可作名词表示“请求信/申请”（如formal request），或作动词表示“正式要求（某物/某人做某事）”，常见于商务、学术语境。",
+        "examUsage": "常见搭配：request sb. to do sth.（请求某人做某事）；at sb.'s request（应某人的请求）。真题中常作为阅读理解中“请求与回应”逻辑关系的题眼，例如：The manager granted the employee's request for a raise. 注意区分request与require（要求，更强制）。"
+      }
+    },
+    {
+      "id": "require",
+      "word": "require",
+      "phonetic": "/ri'kwaiə/",
+      "meaning": "v.需要;(of)要求,命令",
+      "similar": [
+        "retire",
+        "acquire",
+        "enquire"
+      ],
+      "question": {
+        "wordId": "require",
+        "stem": "选择 \"require\" 的正确中文意思：",
+        "correct": "v.需要;(of)要求,命令",
+        "options": [
+          "v.(inquire)询问,打听;调查;查问",
+          "v.获得；学到(知识等)；养成(习惯)",
+          "v.退休,引退;退却,撤退;就寝",
+          "v.需要;(of)要求,命令"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "前缀 re- (强调/反复) + 词根 quire (问/寻求)。核心动作是'反复询问或寻求'，引申为'因需求而要求'，即客观需要或主观命令。",
+        "similarWarning": "retire (re-回 + tire拉/引→引退，v.退休/撤退)；acquire (ac-向 + quire寻求→努力获得，v.获得/学到)；enquire (en-进入 + quire问→深入问，v.询问/调查)。注意 require 强调'需要/要求'，而 acquire 强调'获取'，enquire 强调'询问'。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "requirement",
+      "word": "requirement",
+      "phonetic": "/ri'kwaiəmənt/",
+      "meaning": "n.(for)需要,需要的东西,要求",
+      "similar": [
+        "equipment",
+        "represent",
+        "equivalent",
+        "excitement",
+        "replacement"
+      ],
+      "question": {
+        "wordId": "requirement",
+        "stem": "选择 \"requirement\" 的正确中文意思：",
+        "correct": "n.(for)需要,需要的东西,要求",
+        "options": [
+          "n.(for)需要,需要的东西,要求",
+          "n.设备,器材,装置;才能",
+          "v.描述,表示;代表,代理;阐明,说明",
+          "a.(to)相等的,等价的 n.相等物,等价物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“requirere”（re-再/加强 + quaerere询问/寻求），本义为“反复询问、彻底寻求”，引申为“需要、要求”。-ment为名词后缀，表示行为的结果或状态，故requirement指“需要的东西或要求”。",
+        "similarWarning": "equipment（设备）：equip（装备）+ ment，强调“配备”；requirement（要求）：re（再）+ quire（寻求）+ ment，强调“需求”。represent（代表）：re（再次）+ present（呈现），与require拼写相近但词义无关。",
+        "extendedMeaning": "在考研阅读中，可表示“必要条件、必备资格”，如“meet the requirement”（满足必要条件），常与条件状语从句结合考查。",
+        "examUsage": "考点搭配：“meet/satisfy the requirement”（满足要求）、“in accordance with the requirement”（按照要求）。真题例句：“Applicants must meet the minimum requirement of a bachelor’s degree.”（申请人必须满足学士学位的最低要求。）常作为细节题定位词。"
+      }
+    },
+    {
+      "id": "rescue",
+      "word": "rescue",
+      "phonetic": "/'reskju:/",
+      "meaning": "v./n.营救,援救",
+      "similar": [
+        "recur",
+        "resume",
+        "pressure",
+        "reassure",
+        "resolute",
+        "resource"
+      ],
+      "question": {
+        "wordId": "rescue",
+        "stem": "选择 \"rescue\" 的正确中文意思：",
+        "correct": "v./n.营救,援救",
+        "options": [
+          "v./n.营救,援救",
+          "v.(尤指不好的事)一再发生；重现",
+          "n.个人简历 v.再继续,重新开始;再用;恢复",
+          "n.压,压力,压迫,强制,紧迫,困苦,困难"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古法语rescurre，re-（反复/强调）+ excutere（摇动出），原始动作是“反复摇动以释放”。核心画面：从困境中用力拉出，强调外部干预的拯救行为。",
+        "similarWarning": "recur（再次发生，re- + cur跑）vs rescue：recur强调事件重复，rescue强调解救行动。resume（重新开始，re- + sume拿）vs rescue：resume侧重中断后继续，rescue侧重脱离危险。",
+        "extendedMeaning": "考研僻义：在商业或经济语境中可指“挽救（濒临失败的项目/公司）”，如rescue the deal（挽救交易）。",
+        "examUsage": "真题考点：常与from搭配，如rescue sb/sth from...（从……中营救）。在阅读中作为核心动作出现时，常与disaster、danger等词构成因果逻辑链。"
+      }
+    },
+    {
+      "id": "research",
+      "word": "research",
+      "phonetic": "/rɪ'sɜ:tʃ/",
+      "meaning": "v./n.(into,on)研究,调查",
+      "similar": [
+        "search",
+        "reserve",
+        "despatch",
+        "resource"
+      ],
+      "question": {
+        "wordId": "research",
+        "stem": "选择 \"research\" 的正确中文意思：",
+        "correct": "v./n.(into,on)研究,调查",
+        "options": [
+          "v./n.(into,on)研究,调查",
+          "v./n.(for)搜索,寻找,探查",
+          "n./v.(dispatch)派遣;发送 n.急件;新闻报道",
+          "n.储备(物),储备金;缄默 v.保留,储备;预定"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（反复、再次） + search（彻底搜寻、探查）。核心物理动作为‘反复仔细搜寻’，引申为系统化、深度的探究与调查。",
+        "similarWarning": "search（搜寻，强调动作本身） vs research（研究，强调系统性探查）；reserve（保留，预约） vs research；resource（资源） vs research（注意拼写差异：-source vs -search）",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "常考搭配：do research on/into（对…进行研究）；research findings（研究发现）；research methods（研究方法）。真题中常作为主题词出现，需理解其与study、investigation的细微区别。"
+      }
+    },
+    {
+      "id": "resemblance",
+      "word": "resemblance",
+      "phonetic": "/ri'zembləns/",
+      "meaning": "n.相似,相似性[点,物]",
+      "similar": [
+        "resistance"
+      ],
+      "question": {
+        "wordId": "resemblance",
+        "stem": "选择 \"resemblance\" 的正确中文意思：",
+        "correct": "n.相似,相似性[点,物]",
+        "options": [
+          "n.(to)抵抗,反抗;抵抗力,阻力;电阻",
+          "n.相似,相似性[点,物]",
+          "n.领土;版图;领域,范围",
+          "n.屋顶,顶"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "re- (强调) + semble (类似) + -ance (名词后缀)。核心动作：强调事物在视觉或本质上‘相类似’的状态。",
+        "similarWarning": "resistance (n. 抵抗)：resemblance 强调‘相似’，核心词根是 semble；resistance 强调‘抵抗’，核心词根是 sist (站立)。拼写差异在于‘b’ vs ‘t’。",
+        "extendedMeaning": "",
+        "examUsage": "真题常考搭配：bear a striking resemblance to (与……惊人相似)。注意其常作为‘相似性’概念在阅读理解中用于比较或类比推理。"
+      }
+    },
+    {
+      "id": "resemble",
+      "word": "resemble",
+      "phonetic": "/ri'zembl/",
+      "meaning": "v.像,类似",
+      "similar": [
+        "assemble",
+        "feeble",
+        "resume",
+        "reserve",
+        "tremble",
+        "assembly",
+        "reliable",
+        "remember"
+      ],
+      "question": {
+        "wordId": "resemble",
+        "stem": "选择 \"resemble\" 的正确中文意思：",
+        "correct": "v.像,类似",
+        "options": [
+          "v.像,类似",
+          "vt.集合，召集；装配；收集 vi.集合，聚集",
+          "n.个人简历 v.再继续,重新开始;再用;恢复",
+          "a.虚弱的,无力的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（强调）+ semble（相似）。核心动作：强调“相似”，即看起来像或具有类似特征。",
+        "similarWarning": "assemble（v.集合，组装）：前缀as-（向）+ semble（一起），强调“聚集到一起”。resemble侧重“像”，assemble侧重“集合”。拼写差异：resemble vs assemble，前者有re-，后者有as-。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "resent",
+      "word": "resent",
+      "phonetic": "/ri'zent/",
+      "meaning": "v.对…表示忿恨,怨恨",
+      "similar": [
+        "resident",
+        "descent",
+        "prevent",
+        "rent",
+        "absent",
+        "cement",
+        "decent",
+        "desert"
+      ],
+      "question": {
+        "wordId": "resent",
+        "stem": "选择 \"resent\" 的正确中文意思：",
+        "correct": "v.对…表示忿恨,怨恨",
+        "options": [
+          "n.下降,降下;斜坡;血统,家世",
+          "n.居民,常住者 a.居住的",
+          "v.对…表示忿恨,怨恨",
+          "v.(from)预防,防止,阻止,制止,妨碍"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "re-(again/back) + sent-(feel)。核心物理动作：反复感受（负面情绪），即对过去的事重新感受，产生怨恨。",
+        "similarWarning": "present (pre-前 + sent-感觉：提前在场 → 礼物/呈现) vs resent (re-回 + sent-感觉：回头感受 → 怨恨)；区别在于前缀 re- 与 pre-。",
+        "extendedMeaning": "在考研阅读中，resent 常引申为‘对（不公待遇、侵犯权利等）心怀不满’，强调一种积压的愤怒，而非瞬间爆发。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "reservation",
+      "word": "reservation",
+      "phonetic": "/ˌrezə'veiʃən/",
+      "meaning": "n.保留,保留意见;预定,预订",
+      "similar": [
+        "observation",
+        "conservation",
+        "federation",
+        "generation",
+        "recreation",
+        "revelation",
+        "prescription",
+        "reception"
+      ],
+      "question": {
+        "wordId": "reservation",
+        "stem": "选择 \"reservation\" 的正确中文意思：",
+        "correct": "n.保留,保留意见;预定,预订",
+        "options": [
+          "n.保留,保留意见;预定,预订",
+          "n.观察,观测,监视;(pl.)观察资料;观察力",
+          "n.保存,保护,保守;守恒,不灭",
+          "n.同盟;联邦;联合;联盟;联合会"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 reservare（re-“向后”+ servare“保留”），字面意为“保留在后面”。核心动作：将某物（如意见、座位）提前留下，不立即使用或公开。词根 serv- 表“保持、守护”，与保存（conserve）、观察（observe）同源。",
+        "similarWarning": "reservation vs. observation：前缀 re-（向后）vs. ob-（朝向）；reservation 强调“保留”，observation 强调“观察”。\nreservation vs. conservation：前缀 re-（向后）vs. con-（共同）；reservation 为个人保留，conservation 为保护资源。",
+        "extendedMeaning": "考研中常考“保留意见”或“疑虑”的抽象义，如“have reservations about sth.”（对某事持保留态度），而非仅指预订。",
+        "examUsage": "真题考点：搭配“without reservation”（毫无保留地）用于强调完全同意或支持；在阅读理解中，reservation 常作为态度题干扰项，如“expressed reservations”暗示质疑或反对。"
+      }
+    },
+    {
+      "id": "reserve",
+      "word": "reserve",
+      "phonetic": "/ri'zə:v/",
+      "meaning": "n.储备(物),储备金;缄默 v.保留,储备;预定",
+      "similar": [
+        "preserve",
+        "deserve",
+        "serve",
+        "observe",
+        "receive",
+        "resolve",
+        "reverse",
+        "reservoir"
+      ],
+      "question": {
+        "wordId": "reserve",
+        "stem": "选择 \"reserve\" 的正确中文意思：",
+        "correct": "n.储备(物),储备金;缄默 v.保留,储备;预定",
+        "options": [
+          "v.服务,尽责;招待,侍候;符合,适用",
+          "n.储备(物),储备金;缄默 v.保留,储备;预定",
+          "v.应受,值得",
+          "v.保护,维持;保存,保藏"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "re-（回）+ serve（保持/服务）→ 保留以备后用。核心动作：将某物“留回”到未来使用，引申为储备、预定或保持缄默（保留话语）。",
+        "similarWarning": "与 preserve（pre-预先 + serve → 预先保存以防腐坏）区别：reserve强调“预留备用”，preserve强调“保存原状/防腐”。例：reserve a seat（预订座位）vs. preserve food（保存食物）。",
+        "extendedMeaning": "n. 缄默/矜持：指言语或情感上的保留。例：He broke his reserve and spoke freely.（他打破沉默，畅所欲言。）",
+        "examUsage": "真题考点：reserve for（为…保留/储备）。例：The company has set aside a reserve for future expansion.（公司为未来扩张预留了储备金。）注意与 reservation（预订/保留意见）的搭配区别。"
+      }
+    },
+    {
+      "id": "reservoir",
+      "word": "reservoir",
+      "phonetic": "/'rezəvwɑ:/",
+      "meaning": "n.水库,蓄水池",
+      "similar": [
+        "repertoire",
+        "reserve",
+        "reservation"
+      ],
+      "question": {
+        "wordId": "reservoir",
+        "stem": "选择 \"reservoir\" 的正确中文意思：",
+        "correct": "n.水库,蓄水池",
+        "options": [
+          "n.保留,保留意见;预定,预订",
+          "n.水库,蓄水池",
+          "n.节目,全部剧目,保留剧目,全部技能",
+          "n.储备(物),储备金;缄默 v.保留,储备;预定"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源于法语réservoir，词根serv-（保持、储存）+ -oir（场所后缀），核心物理动作为“储存液体的场所”。",
+        "similarWarning": "repertoire（全部节目/技能，词根pert-带来，强调备演内容）；reserve（储备/保留，动词/名词，词根serv-保持，强调动作）；reservation（预定/保留意见，-ation名词后缀，强调过程或结果）。",
+        "extendedMeaning": "考研引申：知识/资源的“储备库”，如“a reservoir of knowledge”（知识宝库）；或“a reservoir of talent”（人才储备）。",
+        "examUsage": "真题考点：常与介词of搭配，表示“大量储备”，如“a vast reservoir of oil”（巨大的石油储备）；在阅读中可能作为比喻用法出现，如“emotional reservoir”（情感蓄积）。"
+      }
+    },
+    {
+      "id": "residence",
+      "word": "residence",
+      "phonetic": "/'rezidəns/",
+      "meaning": "n.住处,住宅",
+      "similar": [
+        "evidence",
+        "resident",
+        "resistance",
+        "essence",
+        "presence",
+        "reliance",
+        "incidence",
+        "reference"
+      ],
+      "question": {
+        "wordId": "residence",
+        "stem": "选择 \"residence\" 的正确中文意思：",
+        "correct": "n.住处,住宅",
+        "options": [
+          "n.居民,常住者 a.居住的",
+          "n.住处,住宅",
+          "n.明显;显著;根据;证据;迹象",
+          "n.(to)抵抗,反抗;抵抗力,阻力;电阻"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 residere（res-“向后”+sedere“坐”），本义为“坐回某处”，引申为“定居、居住”。-ence 为名词后缀，表示“状态或场所”。核心动作：坐回（某处）→ 定居的场所 → 住处、住宅。",
+        "similarWarning": "形近词辨析：\n- residence（住处）：resi- + dence，强调“居住场所”。\n- resistance（抵抗）：re-“反”+sist-“站立”+ance，强调“反抗、抵制”。\n- evidence（证据）：e-“出”+vid-“看”+ence，强调“看得见的事实”。\n- presence（出席）：pre-“前”+sence“存在”，强调“在场”。\n记忆关键：注意词根-dence（坐/居住）与-sist（站立）、-vid（看）、-sence（存在）的区别。",
+        "extendedMeaning": "考研僻义：\n1. 居住期限（常与“right of residence”搭配，指居住权）\n2. 官邸（如“official residence”指官邸，而非普通住宅）",
+        "examUsage": "真题考点：\n- 固定搭配：take up residence（定居，开始居住）\n- 辨析：residence 侧重“住所”或“居住状态”，而 resident（居民）指人。\n- 例句：After years abroad, he finally took up residence in his hometown.（真题阅读中常出现类似定居表达。）"
+      }
+    },
+    {
+      "id": "resident",
+      "word": "resident",
+      "phonetic": "/'rezidənt/",
+      "meaning": "n.居民,常住者 a.居住的",
+      "similar": [
+        "residence",
+        "resent",
+        "evident",
+        "precedent",
+        "recipient",
+        "resistant",
+        "beside",
+        "resign"
+      ],
+      "question": {
+        "wordId": "resident",
+        "stem": "选择 \"resident\" 的正确中文意思：",
+        "correct": "n.居民,常住者 a.居住的",
+        "options": [
+          "a.明显的,明白的",
+          "v.对…表示忿恨,怨恨",
+          "n.住处,住宅",
+          "n.居民,常住者 a.居住的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'residēre'（re-‘back’ + sedēre‘sit’），意为“坐回、定居”。resident 由词根 sid（坐）派生，核心动作是“长期坐在某地”，即“居住者或常驻的”。",
+        "similarWarning": "president（pre-前 + sid 坐 → 坐在前面的人，即总统）vs resident（re-回 + sid 坐 → 坐回某地，即居民）。区别在于前缀 pre- 表“前”，re- 表“回”。",
+        "extendedMeaning": "在考研外刊中，resident 可作形容词表示“（鸟等）不迁徙的”或“（计算机程序）常驻内存的”，如 resident bird（留鸟）或 resident program（常驻程序）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "resign",
+      "word": "resign",
+      "phonetic": "/ri'zain/",
+      "meaning": "v.辞去,辞职,使听从(于),使顺从",
+      "similar": [
+        "reign",
+        "design",
+        "rein",
+        "sign",
+        "assign",
+        "benign",
+        "resist",
+        "prestige"
+      ],
+      "question": {
+        "wordId": "resign",
+        "stem": "选择 \"resign\" 的正确中文意思：",
+        "correct": "v.辞去,辞职,使听从(于),使顺从",
+        "options": [
+          "v.设计;构思;绘制;图案;企图 n.设计,图样",
+          "n./v.统治,支配,盛行 n.统治时期 v.占优势",
+          "n.缰绳,统治,支配 v.驾驭,控制,统治",
+          "v.辞去,辞职,使听从(于),使顺从"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "re-（回，向后）+ sign（标记，签署）→ 签署文件后收回自己的标记 → 辞去职位；引申为‘使顺从’，即放弃抵抗、听从于他人或命运的安排。",
+        "similarWarning": "resign vs. design: re-（回）vs. de-（向下）；resign 辞职/顺从，design 设计/意图。resign vs. reign: sign（标记）vs. reign（统治）；resign 辞职，reign 统治/盛行。resign vs. assign: re-（回）vs. as-（向）；resign 辞职，assign 分配/指派。",
+        "extendedMeaning": "resign oneself to (doing) sth. 表示‘不得不接受/顺从（不愉快的事实或状况）’，在考研阅读中常作为‘无奈接受’的深层态度表达，如 resign oneself to failure。",
+        "examUsage": "真题常考搭配：resign from（从…辞职），resign as（辞去…职务）；注意与 resign oneself to 的区分，后者是固定短语表示‘顺从’，易在完形或翻译中作为考点。"
+      }
+    },
+    {
+      "id": "resist",
+      "word": "resist",
+      "phonetic": "/ri'zist/",
+      "meaning": "v.抵抗,反抗;抗,忍得住,抵制",
+      "similar": [
+        "persist",
+        "exist",
+        "assist",
+        "insist",
+        "relish",
+        "resent",
+        "resign",
+        "resort"
+      ],
+      "question": {
+        "wordId": "resist",
+        "stem": "选择 \"resist\" 的正确中文意思：",
+        "correct": "v.抵抗,反抗;抗,忍得住,抵制",
+        "options": [
+          "v.抵抗,反抗;抗,忍得住,抵制",
+          "vt.协助，帮助，促进 vi.帮忙，参加",
+          "v.(in)坚持,持续",
+          "v.存在;生存;生活"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 re-（反/回） + sist（站立），核心动作是“反向站立”，即面对压力或外力时保持不动或对抗。本义为物理上的抵抗、阻挡，引申为心理上的抵制、忍住（如resist temptation）。",
+        "similarWarning": "形近词辨析：\n- resist vs persist: re-（反） vs per-（贯穿），resist是“反向站立”即抵抗，persist是“始终站立”即坚持。\n- resist vs assist: sist相同，re-（反） vs as-（向），assist是“站在一旁”即帮助。\n- resist vs insist: sist相同，re-（反） vs in-（进入），insist是“站在里面”即坚持主张。\n- resist vs exist: sist相同，re-（反） vs ex-（出），exist是“站出来”即存在。\n- resist vs consist: sist相同，re-（反） vs con-（共同），consist是“站在一起”即组成。",
+        "extendedMeaning": "考研僻义：在科技或医学语境中，resist可表“耐受、抗性”，如resist drugs（耐药）、resist corrosion（耐腐蚀）。真题中常考“抵制诱惑/变化”的抽象义，如resist the urge（克制冲动）。",
+        "examUsage": "真题考点：固定搭配can't resist doing sth.（忍不住做某事）为高频考点，常与介词to连用（resist to sth.为错误用法）。例句：She couldn't resist laughing at his joke.（她忍不住笑出来。）注意resist后接名词或动名词，不接不定式。"
+      }
+    },
+    {
+      "id": "resistance",
+      "word": "resistance",
+      "phonetic": "/ri'zistəns/",
+      "meaning": "n.(to)抵抗,反抗;抵抗力,阻力;电阻",
+      "similar": [
+        "resistant",
+        "assistance",
+        "renaissance",
+        "distance",
+        "reliance",
+        "existence",
+        "residence",
+        "resemblance"
+      ],
+      "question": {
+        "wordId": "resistance",
+        "stem": "选择 \"resistance\" 的正确中文意思：",
+        "correct": "n.(to)抵抗,反抗;抵抗力,阻力;电阻",
+        "options": [
+          "n.[the R-]文艺复兴(时期)；新生，复兴",
+          "n.协作; 援助; 帮助",
+          "a.(to)抵抗的,有抵抗力的",
+          "n.(to)抵抗,反抗;抵抗力,阻力;电阻"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语resistere（re-向后/对抗 + sistere站立），核心物理动作为“站在对面顶住”。-ance为名词后缀，表行为或性质。词义演变：物理上“顶住不动”→抽象为“抵抗、反抗”的意志或行动→引申为物体固有的“抵抗力、阻力”→在电学中专指“电阻”。",
+        "similarWarning": "resistance（抵抗） vs. assistance（援助）：re-对抗 vs. as-朝向，核心动作对立。resistance vs. distance（距离）：di-分开，指空间上的“隔开”，无对抗义。resistance vs. existence（存在）：ex-向外，指“站出来”，无对抗义。",
+        "extendedMeaning": "【考研高频僻义】“阻力”常喻指社会变革中的阻碍力量（如meet with resistance遭遇阻力）；在心理学/医学语境中表“免疫力、抗药性”（如drug resistance耐药性）。",
+        "examUsage": "真题考点：常与介词to搭配，如resistance to change（对变革的抵制）。阅读中作为题眼时，常与overcome/break down连用，表克服阻力。干扰项常混用assistance或existence，需根据语境判断是“对抗”还是“帮助”。"
+      }
+    },
+    {
+      "id": "resistant",
+      "word": "resistant",
+      "phonetic": "/ri'zistənt/",
+      "meaning": "a.(to)抵抗的,有抵抗力的",
+      "similar": [
+        "resistance",
+        "assistant",
+        "resultant",
+        "distant",
+        "resident",
+        "reluctant",
+        "assistance",
+        "consistent"
+      ],
+      "question": {
+        "wordId": "resistant",
+        "stem": "选择 \"resistant\" 的正确中文意思：",
+        "correct": "a.(to)抵抗的,有抵抗力的",
+        "options": [
+          "a.(to)抵抗的,有抵抗力的",
+          "n.(to)抵抗,反抗;抵抗力,阻力;电阻",
+          "a.帮助的，辅助的 n.助手，助教；辅助物",
+          "a.作为结果而发生的;合成的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根re-（回/反）+sist（站立）+ant（形容词后缀）→“站在对立面”→抵抗的、有抵抗力的。核心动作：反向站立，形成对抗。",
+        "similarWarning": "resistant vs. resistant（无显性形近干扰，但注意与resident（居民）区别：resistant强调对抗，resident强调居住，拼写差异在-sist- vs. -sid-）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "resolute",
+      "word": "resolute",
+      "phonetic": "/'rezəlju:t/",
+      "meaning": "a.坚决的,果断的",
+      "similar": [
+        "resolve",
+        "absolute",
+        "desolate",
+        "resolution",
+        "refute",
+        "relate",
+        "remote",
+        "rescue"
+      ],
+      "question": {
+        "wordId": "resolute",
+        "stem": "选择 \"resolute\" 的正确中文意思：",
+        "correct": "a.坚决的,果断的",
+        "options": [
+          "a.绝对的，完全的；确实的，肯定的",
+          "a.坚决的,果断的",
+          "a.荒凉的;孤独的 v.使荒芜",
+          "v.决心;(使)分解,溶解;决议 n.解决;决心"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "re-（表强调）+ solut-（solve的变体，意为“解开、解决”）+ -e（形容词后缀）。核心动作：彻底解决一个问题后不再动摇的状态 → 坚决的、果断的。与resolve（v.解决/决心）同源，resolute强调已形成的坚定态度。",
+        "similarWarning": "resolve v.解决/决心（动词，强调动作过程）；absolute a.绝对的（ab-离开+solute，强调完全、无限制）；desolate a.荒凉的（de-加强+sol-孤独+ate，强调孤独荒芜）。差异点：resolute中的-solut-侧重“解开”，而absolute的-solut-侧重“松开/释放”的完成态。",
+        "extendedMeaning": "在考研阅读中可引申为“（态度/立场）毫不妥协的”，如a resolute opponent of reform（改革的坚决反对者）。不常见但真题出现过“（行动）果断的”含义，如take resolute action。",
+        "examUsage": "真题中resolute常与determined, firm同义替换，但干扰项可能用hesitant（犹豫的）反义。固定搭配：be resolute in doing sth.（坚决做某事），如He was resolute in his opposition to the plan. 注意与resolution（决心/决议）区分，后者为名词。"
+      }
+    },
+    {
+      "id": "resolution",
+      "word": "resolution",
+      "phonetic": "/ˌrezə'lu:ʃən/",
+      "meaning": "n.坚决,决心;决定,决议",
+      "similar": [
+        "revolution",
+        "solution",
+        "evolution",
+        "resolute",
+        "regulation",
+        "revelation",
+        "destruction",
+        "preposition"
+      ],
+      "question": {
+        "wordId": "resolution",
+        "stem": "选择 \"resolution\" 的正确中文意思：",
+        "correct": "n.坚决,决心;决定,决议",
+        "options": [
+          "n.解答,解决办法;溶解,溶液",
+          "n.进化,演变,发展,进展",
+          "n.坚决,决心;决定,决议",
+          "n.革命;旋转,转数"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根re-（再次/强调）+ solut-（来自solvere，意为“松开、解开”，与solve同源） + -ion（名词后缀）。核心动作是“解开问题或矛盾”，引申为“下定决心解决问题”，即“决心、决议”。与solve（解决）共享词根，强调通过决断来“解开”困境。",
+        "similarWarning": "revolution（革命，re-+volut-旋转） vs resolution（决议，re-+solut-解开）：volut-（旋转）强调颠覆性变化，solut-（解开）强调问题解决。solution（解决方案，solute-同源）与resolution区别在于：solution指具体方法，resolution强调决心或正式决定。",
+        "extendedMeaning": "在考研英语中常考“分辨率”（如屏幕或图像清晰度），源于“解开”的精细程度；此外，在科技语境中可指“分解力”或“解析度”。",
+        "examUsage": "真题考点：固定搭配“make a resolution to do sth.”（下定决心做某事），以及“resolution of a problem”（问题的解决）。注意与“solution”的区别：resolution侧重过程或决心，solution侧重结果或答案。"
+      }
+    },
+    {
+      "id": "resolve",
+      "word": "resolve",
+      "phonetic": "/ri'zɔlv/",
+      "meaning": "v.决心;(使)分解,溶解;决议 n.解决;决心",
+      "similar": [
+        "revolve",
+        "resolute",
+        "solve",
+        "evolve",
+        "remove",
+        "reserve",
+        "desolate",
+        "dissolve"
+      ],
+      "question": {
+        "wordId": "resolve",
+        "stem": "选择 \"resolve\" 的正确中文意思：",
+        "correct": "v.决心;(使)分解,溶解;决议 n.解决;决心",
+        "options": [
+          "v.解决,解答",
+          "v.决心;(使)分解,溶解;决议 n.解决;决心",
+          "v.(使)旋转;考虑;【天】公转,循环",
+          "a.坚决的,果断的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "re-（反复/强调）+ solve（解开、松开）。核心物理动作是“反复松开/解开”，引申为将问题或矛盾彻底拆解开来，从而找到解决方案，或指内心纠结的解开，即“下定决心”。",
+        "similarWarning": "revolve（re-回 + volve转 → 旋转）vs resolve（re-强调 + solve解 → 解决）：前者强调圆周运动，后者强调化解问题。resolute（resolve的形容词形式）意为“坚决的”，常与resolve的动词义混淆。dissolve（dis-分离 + solve解 → 溶解）强调物质在液体中的彻底分散。",
+        "extendedMeaning": "在考研阅读中，resolve常作为“决心、决意”的名词或动词出现，如strengthen one's resolve（坚定决心）；也指“（通过投票）决议”，如pass a resolve（通过一项决议）。",
+        "examUsage": "真题考点：resolve into（分解为），如The problem can be resolved into several parts. 干扰项常设revolve（旋转）或dissolve（溶解），需注意上下文逻辑是“解决”还是“分解”。"
+      }
+    },
+    {
+      "id": "resort",
+      "word": "resort",
+      "phonetic": "/ri'zɔ:t/",
+      "meaning": "v.凭借,求助n.度假胜地,常去之处,手段",
+      "similar": [
+        "retort",
+        "restore",
+        "desert",
+        "escort",
+        "reform",
+        "resent",
+        "resist",
+        "revolt"
+      ],
+      "question": {
+        "wordId": "resort",
+        "stem": "选择 \"resort\" 的正确中文意思：",
+        "correct": "v.凭借,求助n.度假胜地,常去之处,手段",
+        "options": [
+          "v.凭借,求助n.度假胜地,常去之处,手段",
+          "n.沙漠,不毛之地 v.抛弃,遗弃;擅离,开小差",
+          "v.恢复,使回复;归还,交还;修复,重建",
+          "n./v.报复,反击,反驳"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（回/反复）+ sort（种类、分类）。核心动作：反复回到某类事物或地方。本义为‘再次前往’或‘反复使用某手段’，引申为‘凭借、求助’（反复使用某种方法）和‘度假胜地’（反复去的地方）。",
+        "similarWarning": "report（re-回+port带→带回消息→报告）；retort（re-回+tort扭→扭回→反驳）；restore（re-再+store储存→恢复）；resort（re-回+sort种类→凭借/度假地）。",
+        "extendedMeaning": "（真题中）作名词时常考‘手段、对策’（the last resort最后的手段），而非单纯‘度假地’。",
+        "examUsage": "固定搭配：as a last resort（作为最后的手段）；in the last resort（归根结底）。真题例句：Nuclear power is the last resort for energy shortage.（核能是能源短缺的最后手段。）"
+      }
+    },
+    {
+      "id": "resource",
+      "word": "resource",
+      "phonetic": "/ri'sɔ:s/",
+      "meaning": "n.(pl.)资源,财力;办法,智谋;应变之才",
+      "similar": [
+        "source",
+        "reduce",
+        "rescue",
+        "resort",
+        "resume",
+        "gesture",
+        "rejoice",
+        "reserve"
+      ],
+      "question": {
+        "wordId": "resource",
+        "stem": "选择 \"resource\" 的正确中文意思：",
+        "correct": "n.(pl.)资源,财力;办法,智谋;应变之才",
+        "options": [
+          "n.(pl.)资源,财力;办法,智谋;应变之才",
+          "n.源,源泉;来源,出处",
+          "v./n.营救,援救",
+          "v.减少,缩小;简化,还原"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（再次）+ source（来源）→ 可反复获取的来源 → 资源、财力；引申为应对问题的来源 → 办法、智谋。",
+        "similarWarning": "resort（n./v. 度假地；求助）vs resource：resort 强调“求助/常去之地”，resource 强调“可用的资源/来源”。reserve（v./n. 保留；储备）vs resource：reserve 侧重“留作后用”，resource 侧重“现有可用的来源”。",
+        "extendedMeaning": "在考研中常考“智谋、应变之才”这一抽象义，如：a man of resource（足智多谋的人）。",
+        "examUsage": "常与 natural resources（自然资源）、human resources（人力资源）搭配；真题例句：\"The key to economic growth lies in the efficient allocation of resources.\"（经济增长的关键在于资源的有效配置。）"
+      }
+    },
+    {
+      "id": "respective",
+      "word": "respective",
+      "phonetic": "/ri'spektiv/",
+      "meaning": "a.各自的,各个的",
+      "similar": [
+        "irrespective",
+        "perspective",
+        "prospective",
+        "detective",
+        "effective",
+        "destructive",
+        "relative",
+        "adjective"
+      ],
+      "question": {
+        "wordId": "respective",
+        "stem": "选择 \"respective\" 的正确中文意思：",
+        "correct": "a.各自的,各个的",
+        "options": [
+          "a.各自的,各个的",
+          "a.不顾的,不考虑的,无关的",
+          "n.透视画法,透视图;远景,前途;观点,看法",
+          "a.预期的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 respectus（回顾，关心），由 re-（回，反复）+ specere（看）构成，核心物理动作是“反复看回去”。引申为“各自关注自己的部分”，即“各自的、各个的”。",
+        "similarWarning": "irrespective（不考虑的） vs respective（各自的）：ir-表否定，irrespective意为“不顾的”；perspective（透视、观点） vs respective：per-穿透，perspective是“透视法”；prospective（预期的） vs respective：pro-向前，prospective是“未来的”。",
+        "extendedMeaning": "在考研中常以“respective”修饰复数名词，强调个体间的独立性，如“respective fields”（各自领域），无特殊僻义。",
+        "examUsage": ""
+      }
+    }
+  ]
+}

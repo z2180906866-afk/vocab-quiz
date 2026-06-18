@@ -1,0 +1,1693 @@
+{
+  "batchId": 35,
+  "words": [
+    {
+      "id": "furnish",
+      "word": "furnish",
+      "phonetic": "/'fə:niʃ/",
+      "meaning": "v.供应,提供;装备,布置",
+      "similar": [
+        "finish",
+        "punish",
+        "flourish"
+      ],
+      "question": {
+        "wordId": "furnish",
+        "stem": "选择 \"furnish\" 的正确中文意思：",
+        "correct": "v.供应,提供;装备,布置",
+        "options": [
+          "n./v.繁荣,茂盛,兴旺",
+          "v.惩罚,处罚",
+          "n.完成;结束;磨光 v.完成;结束;用完;毁掉",
+          "v.供应,提供;装备,布置"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根源自古法语 'furnir'（完成、提供），核心物理动作为“装满、备齐”。furnish 强调为某空间或需求配齐所需物品，如家具（装备）或物资（供应），引申为“提供”抽象事物（如信息、证据）。",
+        "similarWarning": "finish（结束，-ish 表完成）vs punish（惩罚，pun- 表处罚）vs flourish（繁荣，flour- 表花/盛开）。差异在首字母/词根：furn- 表“装满”，与“结束/惩罚/繁荣”无关。",
+        "extendedMeaning": "考研僻义：在真题中常考“提供（信息/理由）”的抽象用法，如 furnish evidence（提供证据），而非仅指布置家具。",
+        "examUsage": "考点：furnish sb with sth 为固定搭配，真题中常替换 provide/supply，如 'furnish the jury with all the facts'（向陪审团提供全部事实）。"
+      }
+    },
+    {
+      "id": "furniture",
+      "word": "furniture",
+      "phonetic": "/'fə:nitʃə/",
+      "meaning": "n.家具",
+      "similar": [
+        "nurture",
+        "fracture"
+      ],
+      "question": {
+        "wordId": "furniture",
+        "stem": "选择 \"furniture\" 的正确中文意思：",
+        "correct": "n.家具",
+        "options": [
+          "n./v.养育,教育,教养 n.营养品v.给与营养物",
+          "n.神经;勇敢,胆量",
+          "n.家具",
+          "n.裂缝(痕);骨折 v.(使)断裂,(使)折断"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'mobilia'（移动物品）的变体，经由法语 'fourniture'（供给品）演变。核心动作是“提供/装备”，即用于装备房间的可移动物品集合。furn-（提供）+ -iture（名词后缀）→ 提供的用品 → 家具。",
+        "similarWarning": "nurture（培育）：nur-（滋养） vs furn-（提供）；fracture（断裂）：fract-（打破） vs furn-（提供）。家具是整体概念，nurture强调养育过程，fracture强调物理断裂。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "further",
+      "word": "further",
+      "phonetic": "/'fə:ðə/",
+      "meaning": "ad./a.更远,更往前;进一步 v.促进,增进",
+      "similar": [
+        "farther",
+        "feather",
+        "fourteen",
+        "northern"
+      ],
+      "question": {
+        "wordId": "further",
+        "stem": "选择 \"further\" 的正确中文意思：",
+        "correct": "ad./a.更远,更往前;进一步 v.促进,增进",
+        "options": [
+          "num.十四，十四个",
+          "n.羽毛",
+          "ad.更远地,再往前地 a.更远的",
+          "ad./a.更远,更往前;进一步 v.促进,增进"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为fore-（前面）+比较级后缀-ther，本义为‘更向前’。核心物理动作是‘往前移动’，引申为‘进一步’（程度）和‘促进’（动词）。",
+        "similarWarning": "further（更远/进一步） vs farther（更远，侧重物理距离） vs father（父亲） vs feather（羽毛） vs fourteen（十四） vs northern（北方的）。差异：further含抽象引申义，farther仅表空间距离。",
+        "extendedMeaning": "动词‘促进，增进’（如further one's career）及副词‘此外’（如further, we need to consider...）。",
+        "examUsage": "真题中常考further作动词‘促进’（如further economic growth）及与farther的辨析。固定搭配：further one's education（深造）。"
+      }
+    },
+    {
+      "id": "furthermore",
+      "word": "furthermore",
+      "phonetic": "/'fə:ðəmɔ:/",
+      "meaning": "ad.而且,此外",
+      "similar": [],
+      "question": {
+        "wordId": "furthermore",
+        "stem": "选择 \"furthermore\" 的正确中文意思：",
+        "correct": "ad.而且,此外",
+        "options": [
+          "n.板球;蟋蟀",
+          "a.进步的,先进的;前进的",
+          "ad.而且,此外",
+          "n.三明治,夹肉面包 v.夹入,挤进"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "further（更远的/进一步）+ more（更多），组合词，字面意为“进一步地更多”，引申为逻辑递进关系，表示在已有基础上增加新的论点或事实。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fuse",
+      "word": "fuse",
+      "phonetic": "/fju:z/",
+      "meaning": "n.保险丝,导火线,引信 v.熔化,熔合",
+      "similar": [
+        "use",
+        "fume",
+        "fuss",
+        "refuse",
+        "abuse",
+        "amuse",
+        "curse",
+        "false"
+      ],
+      "question": {
+        "wordId": "fuse",
+        "stem": "选择 \"fuse\" 的正确中文意思：",
+        "correct": "n.保险丝,导火线,引信 v.熔化,熔合",
+        "options": [
+          "n.保险丝,导火线,引信 v.熔化,熔合",
+          "n.使/应用；用法/途；益/用处 vt.用；消耗",
+          "n.(浓烈或难闻的）烟，气，汽",
+          "n./v.忙乱,大惊小怪"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语fundere（倒、熔铸），核心物理动作为‘流动/熔化’。fuse本指通过熔化金属连接物体（v.熔合），引申为电器中因过载而熔断的保险丝（n.保险丝），或使爆炸物起爆的引信（n.导火线），均基于‘熔断/点燃’这一触发动作。",
+        "similarWarning": "fuse vs. refuse（拒绝，re-回+fuse流→回流→拒绝）vs. confuse（混淆，con-共同+fuse流→流在一起→混乱）vs. diffuse（扩散，dif-分开+fuse流→流散）。核心差异在于前缀不同导致词义方向变化。",
+        "extendedMeaning": "v.因过热而熔断（指保险丝）；n.（爆炸物的）导火线。在考研阅读中常引申为‘结合、融合’（如fuse ideas融合观点），或指‘（因冲突）使…联合’。",
+        "examUsage": "真题考点：fuse常与blow构成短语blow a fuse（勃然大怒/烧断保险丝），在完形中作为固定搭配考查；阅读中注意fuse作动词表‘融合’时的及物用法（fuse A with B）。"
+      }
+    },
+    {
+      "id": "fuss",
+      "word": "fuss",
+      "phonetic": "/fʌs/",
+      "meaning": "n./v.忙乱,大惊小怪",
+      "similar": [
+        "fuse",
+        "flush",
+        "guess"
+      ],
+      "question": {
+        "wordId": "fuss",
+        "stem": "选择 \"fuss\" 的正确中文意思：",
+        "correct": "n./v.忙乱,大惊小怪",
+        "options": [
+          "n.保险丝,导火线,引信 v.熔化,熔合",
+          "n./v.忙乱,大惊小怪",
+          "v./n.猜测，推测；以为；猜想[同]surmise",
+          "n.脸红v.发红;奔流a.洋溢的;富裕的;齐平的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模拟人忙碌或焦虑时发出的急促声音（如“嘘嘘”声）或动作的嘈杂感。核心物理动作：空气中弥漫着无意义的、过度的动作或声音，暗示一种无序的忙乱或小题大做。",
+        "similarWarning": "fuse（保险丝；熔合） vs fuss：fuse含“融化、结合”义，fuss则重“忙乱”。flush（脸红；冲刷） vs fuss：flush强调“冲洗”或“脸红”，fuss强调“慌乱”。guess（猜测） vs fuss：guess含“推测”义，fuss无此义。",
+        "extendedMeaning": "考研僻义：在真题中常引申为“过分关注或争论微不足道之事”，如“make a fuss about nothing”（无事生非）。",
+        "examUsage": "考点直击：搭配“make a fuss over sb./sth.”（对…小题大做），真题中常作为态度题干扰项，如“She made a fuss about the service.”暗示抱怨或不满，而非单纯忙乱。"
+      }
+    },
+    {
+      "id": "futile",
+      "word": "futile",
+      "phonetic": "/'fju:tail/",
+      "meaning": "a.无效的，无用的，无希望的",
+      "similar": [
+        "fertile",
+        "file",
+        "tile",
+        "multiple"
+      ],
+      "question": {
+        "wordId": "futile",
+        "stem": "选择 \"futile\" 的正确中文意思：",
+        "correct": "a.无效的，无用的，无希望的",
+        "options": [
+          "n.瓦片,瓷砖 vt.铺瓦于，贴砖于",
+          "a.无效的，无用的，无希望的",
+          "a.肥沃的,富饶的;能繁殖的",
+          "n.锉刀;文件,档案 v.锉"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语futilis（容易漏的、不可靠的），来自fundere（倒、流出）的过去分词词根fus-。核心物理动作：倒水时容器有漏洞，水全部漏光，无法存留。引申为“努力白费、没有结果”。",
+        "similarWarning": "fertile（肥沃的，多产的）：拼写差异为fut- vs. fer-，核心区别在于“漏掉”vs.“孕育”；file（文件，归档）：忽略-ile尾，fut-指无用，file指归档；tile（瓷砖）：首字母不同，tile是具体物品；future（未来）：fut-后接-ure表“将要来的”，futile是“漏掉的”，语义相反。",
+        "extendedMeaning": "在考研英语中常引申为“徒劳的、注定失败的”，强调行为本身无效性，如a futile attempt（徒劳的尝试），futile resistance（无用的抵抗）。",
+        "examUsage": "真题考点：常与attempt, effort, struggle等词搭配，作为贬义评价。干扰项可能设置成fertile（肥沃的）或multiple（多样的）。例：\"Their efforts to save the company proved futile.\"（他们拯救公司的努力证明是徒劳的。）"
+      }
+    },
+    {
+      "id": "gain",
+      "word": "gain",
+      "phonetic": "/gein/",
+      "meaning": "v.获得；增加；表等走快 n.增进,增加；收益",
+      "similar": [
+        "grain",
+        "grin",
+        "vain",
+        "basin",
+        "brain",
+        "cabin",
+        "chain",
+        "drain"
+      ],
+      "question": {
+        "wordId": "gain",
+        "stem": "选择 \"gain\" 的正确中文意思：",
+        "correct": "v.获得；增加；表等走快 n.增进,增加；收益",
+        "options": [
+          "n.谷物,谷类;颗粒,细粒",
+          "a.徒劳的,徒然的;自负的,爱虚荣的",
+          "n./vi.露齿而笑，咧嘴一笑",
+          "v.获得；增加；表等走快 n.增进,增加；收益"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能与古法语‘gaignier’（耕作、获得）有关。核心动作是‘获取、增加’，强调通过努力或过程达到量的增长或利益的获得。",
+        "similarWarning": "gain vs. again: again多一个字母a，意为‘再次’；gain vs. grain: grain多字母r，意为‘谷物’；gain vs. grin: grin中r替换a，意为‘咧嘴笑’。",
+        "extendedMeaning": "考研僻义：钟表‘走快’（如The clock gains five minutes a day.）；‘增加’在抽象语境中可指‘增加（优势、经验等）’（如gain an advantage）。",
+        "examUsage": "真题考点：固定搭配‘gain ground’（取得进展，占优势）常作为阅读理解题眼；‘gain access to’（获得进入/使用机会）在完形填空中高频出现。"
+      }
+    },
+    {
+      "id": "galaxy",
+      "word": "galaxy",
+      "phonetic": "/'gæləksi/",
+      "meaning": "n.星系;(the Galaxy)银河(系);一群显赫的人",
+      "similar": [
+        "salary"
+      ],
+      "question": {
+        "wordId": "galaxy",
+        "stem": "选择 \"galaxy\" 的正确中文意思：",
+        "correct": "n.星系;(the Galaxy)银河(系);一群显赫的人",
+        "options": [
+          "n.马铃薯,土豆",
+          "n.使用，用法；习惯，习俗；惯用法",
+          "n.星系;(the Galaxy)银河(系);一群显赫的人",
+          "n.薪金,薪水"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'galaxias'（乳白色的），由 'gala'（牛奶）派生。银河系在夜空中呈现乳白色光带，故得名。核心动作/画面：牛奶般的带状星群。",
+        "similarWarning": "形近词：salary（n.薪水）。差异：galaxy 以 'g' 开头，核心义为星系；salary 以 's' 开头，源自拉丁语 'salarium'（盐的津贴），指工资。拼写对比：gala- vs sala-。",
+        "extendedMeaning": "考研僻义：一群显赫的人或物。例如：a galaxy of talent（一群才华横溢的人）——真题中常引申为杰出群体的集合。",
+        "examUsage": "考点：the Galaxy 专指银河系（首字母大写）。真题中常作为天文类阅读的核心词，需注意与 galaxy（一般星系）的区分。无特殊干扰项，本项按需省略。"
+      }
+    },
+    {
+      "id": "gallery",
+      "word": "gallery",
+      "phonetic": "/'gæləri/",
+      "meaning": "n.长廊,画廊,美术馆",
+      "similar": [
+        "valley"
+      ],
+      "question": {
+        "wordId": "gallery",
+        "stem": "选择 \"gallery\" 的正确中文意思：",
+        "correct": "n.长廊,画廊,美术馆",
+        "options": [
+          "n.仆人",
+          "n.绘图,图样",
+          "n.(山)谷;流域",
+          "n.长廊,画廊,美术馆"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根源自拉丁语 'galeria'，本义为 'covered walkway'（有顶的走道），后引申为陈列艺术品的空间。核心物理动作是 '延伸的通道'，强调线性空间，如长廊、画廊、美术馆。",
+        "similarWarning": "与 'valley'（山谷）对比：gallery（画廊）以 'g' 开头，象征 'gallop'（奔跑）的延伸空间；valley（山谷）以 'v' 开头，象征 'valley' 的凹陷地形。拼写差异在首字母 'g' vs 'v'，前者是凸出的建筑，后者是低洼自然地貌。",
+        "extendedMeaning": "在考研真题中，gallery 可引申为 '（博物馆、剧院等的）楼座'，如 'the public gallery'（公众旁听席），或 '（摄影作品的）陈列室'，非仅指美术作品。",
+        "examUsage": "常见搭配 'art gallery'（美术馆），但考点常考 'gallery' 作 '长廊' 义，如 'a long gallery leading to the garden'，或用于比喻义 'a gallery of faces'（一系列面孔）。"
+      }
+    },
+    {
+      "id": "gallon",
+      "word": "gallon",
+      "phonetic": "/'gælən/",
+      "meaning": "n.加仑",
+      "similar": [
+        "gallop",
+        "balloon",
+        "allow",
+        "alloy",
+        "ballot"
+      ],
+      "question": {
+        "wordId": "gallon",
+        "stem": "选择 \"gallon\" 的正确中文意思：",
+        "correct": "n.加仑",
+        "options": [
+          "n.加仑",
+          "n.气球,飞船；a.气球状的 v.乘坐气球；膨胀",
+          "vt.允许，准许；承认；给予；(for)考虑到",
+          "v./n.奔驰,飞奔"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古法语galon，原指某种液体容器，后标准化为容量单位。词根无复杂演变，直接记忆为“加仑”即可。",
+        "similarWarning": "gallop（v.疾驰） vs gallon：gallop含“lop”表跳跃动作；balloon（n.气球） vs gallon：balloon有“ball”圆球意象；allow（v.允许） vs gallon：allow含“low”低音；alloy（n.合金） vs gallon：alloy含“loy”忠诚；ballot（n.选票） vs gallon：ballot源自小球投票。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gallop",
+      "word": "gallop",
+      "phonetic": "/'gæləp/",
+      "meaning": "v./n.奔驰,飞奔",
+      "similar": [
+        "gallon",
+        "allow",
+        "alloy",
+        "ballot"
+      ],
+      "question": {
+        "wordId": "gallop",
+        "stem": "选择 \"gallop\" 的正确中文意思：",
+        "correct": "v./n.奔驰,飞奔",
+        "options": [
+          "n.合金vt.将…铸成合金",
+          "v./n.奔驰,飞奔",
+          "n.加仑",
+          "vt.允许，准许；承认；给予；(for)考虑到"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源可能拟声，模拟马蹄急促落地的‘咯咯’声。核心物理动作：马匹四蹄离地、快速腾跃前冲，强调高速连续运动。",
+        "similarWarning": "gallon（加仑，容量单位）vs gallop：-on结尾表单位，-op结尾表动作；allow（允许，字母a-开头）vs gallop：双l+ow vs 双l+op；alloy（合金，字母y结尾）vs gallop：-oy vs -op；ballot（选票，字母b-开头）vs gallop：ball-表球/投票，gall-表疾驰。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gamble",
+      "word": "gamble",
+      "phonetic": "/'gæmbl/",
+      "meaning": "n./v.投机,冒险;赌博",
+      "similar": [
+        "able",
+        "ample",
+        "cable",
+        "fable",
+        "humble",
+        "marble",
+        "sample",
+        "tumble"
+      ],
+      "question": {
+        "wordId": "gamble",
+        "stem": "选择 \"gamble\" 的正确中文意思：",
+        "correct": "n./v.投机,冒险;赌博",
+        "options": [
+          "a.有(能力、知识等)做某事，有本事的",
+          "n./v.投机,冒险;赌博",
+          "n.电报;电缆;缆,索,钢丝绳 v.拍电报",
+          "a.充分的，富裕的；宽敞的，宽大的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自中古英语gamen（游戏）+ -le（反复后缀），核心动作是‘反复游戏’。从‘玩游戏’引申为‘以游戏方式赌输赢’，再泛化为‘冒险投机’——本质是对不确定结果的博弈行为。",
+        "similarWarning": "gamble vs. game: gamble多一个字母‘bl’，game是‘游戏’本身；gamble侧重‘冒险下注’，game侧重‘规则性娱乐’。gamble vs. ample: 首字母g- vs. a-，gamble是‘赌博’，ample是‘充足的’。",
+        "extendedMeaning": "考研僻义：在商业/政治语境中常指‘孤注一掷的决策’，如‘a desperate gamble’（绝望的冒险），强调高风险高回报的策略选择，非字面赌钱。",
+        "examUsage": "真题考点：常见搭配‘gamble on’（对……冒险/赌博），如‘gamble on the stock market’；阅读中作为题眼时，常与‘risk’‘speculate’构成同义替换或干扰项。"
+      }
+    },
+    {
+      "id": "gang",
+      "word": "gang",
+      "phonetic": "/gæŋ/",
+      "meaning": "n.一帮,一群,一伙",
+      "similar": [
+        "bang",
+        "hang",
+        "gauge",
+        "giant",
+        "grand",
+        "grant",
+        "range"
+      ],
+      "question": {
+        "wordId": "gang",
+        "stem": "选择 \"gang\" 的正确中文意思：",
+        "correct": "n.一帮,一群,一伙",
+        "options": [
+          "v.悬挂,垂吊;吊死,绞死",
+          "n.标准尺寸;规格;量规,量表 v.测量",
+          "n.一帮,一群,一伙",
+          "n.砰砰的声音;猛击 v.砰地关上,猛撞,猛击"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源于古英语‘gang’（道路、行程），引申为一群人一起走（结伙而行）的动作，核心画面：一群人结伴行动。",
+        "similarWarning": "bang（砰的一声，猛击）vs gang：b开头强调撞击声；hang（悬挂，吊死）vs gang：h开头，悬挂动作；gauge（测量，规格）vs gang：多字母差异，含义完全不同；giant（巨大的，巨人）vs gang：i字母替换，大小概念；grand（宏伟的，大的）vs gang：r字母替换，规模概念；grant（授予，允许）vs gang：r字母替换，给予动作；range（范围，排列）vs gang：r字母替换，范围概念。",
+        "extendedMeaning": "考研中‘gang’常指‘犯罪团伙、帮派’（如gang violence帮派暴力），或‘一伙人’（贬义或中性），如‘a gang of workers’一队工人。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gaol",
+      "word": "gaol",
+      "phonetic": "/dʒeil/",
+      "meaning": "n.(jail)监狱；(不加冠词)监禁 vt.使…坐牢",
+      "similar": [],
+      "question": {
+        "wordId": "gaol",
+        "stem": "选择 \"gaol\" 的正确中文意思：",
+        "correct": "n.(jail)监狱；(不加冠词)监禁 vt.使…坐牢",
+        "options": [
+          "n.(jail)监狱；(不加冠词)监禁 vt.使…坐牢",
+          "n.坟墓 a.严肃的,庄重的",
+          "v.铺砌,铺(路)",
+          "n.祖宗，祖先；原型，先驱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "gaol是jail的英式拼写变体，源自拉丁语cavea（笼子、洞穴），核心动作是“关入笼子/监禁”，强调物理禁锢状态。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gap",
+      "word": "gap",
+      "phonetic": "/gæp/",
+      "meaning": "n.缺口;差距;空白;缺乏",
+      "similar": [
+        "gasp",
+        "cap",
+        "gas",
+        "gay",
+        "lap",
+        "map",
+        "nap",
+        "rap"
+      ],
+      "question": {
+        "wordId": "gap",
+        "stem": "选择 \"gap\" 的正确中文意思：",
+        "correct": "n.缺口;差距;空白;缺乏",
+        "options": [
+          "n.缺口;差距;空白;缺乏",
+          "n.喘息,气喘 v.喘息;气吁吁地说",
+          "n.便帽,军帽;盖,罩,套 v.覆盖于…顶端",
+          "n.气体；煤气；汽油；毒气vt.毒(死)；加油"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟物体裂开或断开时发出的“嘎”声，核心物理动作为“裂开形成开口”，引申为空间上的缺口、时间上的间隔或数量上的差距。",
+        "similarWarning": "gasp（喘息，g+asp像吸气声）vs gap（缺口，a发短音）; cap（帽子，c-覆盖）vs gap（g-开口）; gas（气体，s-扩散）vs gap（p-停顿）; gay（快乐，y-后缀）vs gap（p-停顿）。",
+        "extendedMeaning": "n. ①（知识、理解等的）空白/缺陷：bridge the gap in knowledge（填补知识空白）; ②（时间上的）间隔：generation gap（代沟）; ③（与预期的）差距：the gap between rich and poor（贫富差距）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "garage",
+      "word": "garage",
+      "phonetic": "/'gærɑ:ʒ/",
+      "meaning": "n.车库,飞机库;修车厂",
+      "similar": [
+        "garbage",
+        "rage",
+        "gauge",
+        "grace",
+        "grade",
+        "grape",
+        "grave",
+        "graze"
+      ],
+      "question": {
+        "wordId": "garage",
+        "stem": "选择 \"garage\" 的正确中文意思：",
+        "correct": "n.车库,飞机库;修车厂",
+        "options": [
+          "n.车库,飞机库;修车厂",
+          "n.垃圾",
+          "n.愤怒",
+          "n.标准尺寸;规格;量规,量表 v.测量"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自法语garer（停放），原指存放马车或车辆的场所。词根与guard同源，隐含保护、存放的动作。",
+        "similarWarning": "garbage（垃圾）与garage仅差字母b，但无词义关联；rage（愤怒）与garage词形相近，但无直接联系。",
+        "extendedMeaning": "考研中常引申为维修场所或小型仓库，如car garage（汽车修理厂）。",
+        "examUsage": "真题中常作为地点名词出现，如park the car in the garage，无特殊考点。"
+      }
+    },
+    {
+      "id": "garbage",
+      "word": "garbage",
+      "phonetic": "/'gɑ:bidʒ/",
+      "meaning": "n.垃圾",
+      "similar": [
+        "garage",
+        "cabbage",
+        "carriage",
+        "marriage"
+      ],
+      "question": {
+        "wordId": "garbage",
+        "stem": "选择 \"garbage\" 的正确中文意思：",
+        "correct": "n.垃圾",
+        "options": [
+          "n.洋白菜,卷心菜",
+          "n.车库,飞机库;修车厂",
+          "n.(四轮)马车;(火车)客车厢",
+          "n.垃圾"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源自盎格鲁-诺曼法语'garbage'（谷物、麦麸），后演变为废物、垃圾。核心动作：丢弃的、无用的东西。",
+        "similarWarning": "形近词对比：\n- garbage vs garage：garbage有'b'（垃圾），garage是'age'（车库/修车厂）。\n- garbage vs cabbage：garbage有'garb'（垃圾），cabbage是'cabb'（卷心菜）。\n- garbage vs carriage：garbage有'garb'（垃圾），carriage是'carri'（马车/运输）。\n- garbage vs marriage：garbage有'garb'（垃圾），marriage是'marri'（婚姻）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "garlic",
+      "word": "garlic",
+      "phonetic": "/'gɑ:lik/",
+      "meaning": "n.蒜，大蒜粉",
+      "similar": [],
+      "question": {
+        "wordId": "garlic",
+        "stem": "选择 \"garlic\" 的正确中文意思：",
+        "correct": "n.蒜，大蒜粉",
+        "options": [
+          "n.蒜，大蒜粉",
+          "ad.任何地方都不,没有地方",
+          "n.先例",
+          "v.(使)具有资格,证明合格;限制,限定;修饰"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能来自古英语‘garleac’，‘gar’（矛）+‘leac’（韭葱），因蒜瓣形状似矛头。核心物理动作：蒜瓣簇生如矛，气味辛辣。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "garment",
+      "word": "garment",
+      "phonetic": "/'gɑ:mənt/",
+      "meaning": "n.(一件)衣服",
+      "similar": [
+        "payment",
+        "torment",
+        "apartment",
+        "argument",
+        "basement",
+        "fragment",
+        "pavement"
+      ],
+      "question": {
+        "wordId": "garment",
+        "stem": "选择 \"garment\" 的正确中文意思：",
+        "correct": "n.(一件)衣服",
+        "options": [
+          "n.[英]房间，套间；[美]公寓",
+          "n.折磨；令人痛苦的东西(人)vt.折磨；纠缠",
+          "n.支付,付款额",
+          "n.(一件)衣服"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为gar-（保护、装饰），源自原始日耳曼语*garwjan（准备、制作），引申为“制作好的覆盖物”。-ment为名词后缀，表示具体物品。核心物理动作：制作并覆盖身体以保护或装饰。",
+        "similarWarning": "garment vs garden：garment含ment（名词后缀），garden含den（围场）。garment vs payment：garment首字母gar-，payment首字母pay-（支付）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gas",
+      "word": "gas",
+      "phonetic": "/gæs/",
+      "meaning": "n.气体；煤气；汽油；毒气vt.毒(死)；加油",
+      "similar": [
+        "gasp",
+        "gap",
+        "gay",
+        "grasp",
+        "grass"
+      ],
+      "question": {
+        "wordId": "gas",
+        "stem": "选择 \"gas\" 的正确中文意思：",
+        "correct": "n.气体；煤气；汽油；毒气vt.毒(死)；加油",
+        "options": [
+          "a.快乐的,愉快的,色彩鲜艳的 n.同性恋",
+          "n.缺口;差距;空白;缺乏",
+          "n.喘息,气喘 v.喘息;气吁吁地说",
+          "n.气体；煤气；汽油；毒气vt.毒(死)；加油"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'chaos'（混沌），原指不可见的、无形的物质。词义演变：混沌→气体→煤气→汽油（液体燃料，但保留了'gas'的称呼）。核心物理动作：无形、扩散、可压缩的物质状态。",
+        "similarWarning": "gasp（喘气，g+asp，-asp与气息相关）、gap（缝隙，g+ap，开口）、gay（快乐的，g+ay，与性取向无关的古义）。gas与gasp差一个'p'，但gas是名词（气体），gasp是动词/名词（喘气）。",
+        "extendedMeaning": "1. 汽油（美式口语，'gas station'加油站）；2. 空谈、吹牛（'hot air'的俚语变体，如'Don't give me that gas!'）；3. 有趣的事（'a gas'，如'It was a real gas.'）。",
+        "examUsage": "考研真题中常考'gas'的熟词僻义：1. 'gas up'（加油，动词短语）；2. 'step on the gas'（踩油门，加速）。注意区分'gas'与'petrol'（英式）在阅读中的地域差异。"
+      }
+    },
+    {
+      "id": "gasoline",
+      "word": "gasoline",
+      "phonetic": "/'gæsəli:n/",
+      "meaning": "n.(gasolene)汽油",
+      "similar": [
+        "masculine",
+        "airline"
+      ],
+      "question": {
+        "wordId": "gasoline",
+        "stem": "选择 \"gasoline\" 的正确中文意思：",
+        "correct": "n.(gasolene)汽油",
+        "options": [
+          "n.(gasolene)汽油",
+          "n.大炮,火炮",
+          "a.男性的，似男性的；［语法］阳性的",
+          "n.(飞机)航线 a.(飞机)航线的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "gas（汽油）+ol（油类后缀）+ine（化学物质后缀），直指汽油这种石油提炼物。核心动作：挥发性燃料。",
+        "similarWarning": "masculine（男性的）拼写为m-a-s-c-u-l-i-n-e，与gasoline（g-a-s-o-l-i-n-e）差异在首字母m/g及第二字母a/o；airline（航线）拼写为a-i-r-l-i-n-e，与gasoline差异在首字母a/g及第二字母i/a。注意词尾-l-i-n-e与-l-i-n-e相同但中间部分不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gasp",
+      "word": "gasp",
+      "phonetic": "/gɑ:sp/",
+      "meaning": "n.喘息,气喘 v.喘息;气吁吁地说",
+      "similar": [
+        "grasp",
+        "gap",
+        "gas",
+        "clasp",
+        "grass"
+      ],
+      "question": {
+        "wordId": "gasp",
+        "stem": "选择 \"gasp\" 的正确中文意思：",
+        "correct": "n.喘息,气喘 v.喘息;气吁吁地说",
+        "options": [
+          "n.喘息,气喘 v.喘息;气吁吁地说",
+          "v./n.抓住,抓紧;掌握,领会",
+          "n.缺口;差距;空白;缺乏",
+          "n.气体；煤气；汽油；毒气vt.毒(死)；加油"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟因惊讶、疼痛或呼吸困难而急促吸气的声音，核心物理动作为“急促吸气”。词源上与古英语‘gæspan’（打哈欠）相关，强调嘴部张开、快速吸入空气的动作。",
+        "similarWarning": "grasp（抓住，理解） vs gasp（喘息）：grasp含字母r，强调手部动作；gasp无r，强调呼吸。gap（缺口） vs gasp：gap无s，指空间空缺；gasp有s，指呼吸动作。gas（气体） vs gasp：gas无p，指物质；gasp有p，指动作。clasp（扣住） vs gasp：clasp含cl，指物理固定；gasp指呼吸。glass（玻璃） vs gasp：glass含l，指材质；gasp无l。grass（草） vs gasp：grass含r，指植物；gasp无r。",
+        "extendedMeaning": "考研中常引申为‘因震惊或渴望而倒吸一口气’，强调情感冲击下的下意识反应，并非单纯生理性喘息。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gate",
+      "word": "gate",
+      "phonetic": "/geit/",
+      "meaning": "n.大门；入口；观众人数，门票收入",
+      "similar": [
+        "date",
+        "fate",
+        "gaze",
+        "hate",
+        "mate",
+        "rate",
+        "gather",
+        "bathe"
+      ],
+      "question": {
+        "wordId": "gate",
+        "stem": "选择 \"gate\" 的正确中文意思：",
+        "correct": "n.大门；入口；观众人数，门票收入",
+        "options": [
+          "n.命运",
+          "n.日期,年代 v.注明…的日期 n./v.约会",
+          "v./n.凝视,注视",
+          "n.大门；入口；观众人数，门票收入"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，但核心物理动作是“通道的开口”，即一个可开关的屏障，控制进出。引申为抽象意义上的“入口”或“途径”。",
+        "similarWarning": "无",
+        "extendedMeaning": "观众人数，门票收入（如：a gate of 50,000）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gather",
+      "word": "gather",
+      "phonetic": "/'gæðə/",
+      "meaning": "v.聚集,聚拢;推测,推断",
+      "similar": [
+        "farther",
+        "feather",
+        "leather",
+        "gate",
+        "bathe",
+        "bother",
+        "latter"
+      ],
+      "question": {
+        "wordId": "gather",
+        "stem": "选择 \"gather\" 的正确中文意思：",
+        "correct": "v.聚集,聚拢;推测,推断",
+        "options": [
+          "v.聚集,聚拢;推测,推断",
+          "ad.更远地,再往前地 a.更远的",
+          "n.皮革,皮革制品",
+          "n.羽毛"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源自古英语gaderian，意为‘联合、聚集’，与together同源，核心动作是‘把分散的东西聚到一起’。引申为‘推断’时，比喻将零散信息收集起来形成结论。",
+        "similarWarning": "father（父亲）、rather（相当）、farther（更远）、feather（羽毛）、leather（皮革）、weather（天气）、gate（大门）、bathe（沐浴）。",
+        "extendedMeaning": "推断，推测（如gather from the evidence从证据中推断）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gauge",
+      "word": "gauge",
+      "phonetic": "/geidʒ/",
+      "meaning": "n.标准尺寸;规格;量规,量表 v.测量",
+      "similar": [
+        "garage",
+        "age",
+        "cage",
+        "gang",
+        "gate",
+        "gaze",
+        "glue",
+        "rage"
+      ],
+      "question": {
+        "wordId": "gauge",
+        "stem": "选择 \"gauge\" 的正确中文意思：",
+        "correct": "n.标准尺寸;规格;量规,量表 v.测量",
+        "options": [
+          "n.鸟笼",
+          "n.车库,飞机库;修车厂",
+          "n.年龄；时代；老年；长时间 v.(使)变老",
+          "n.标准尺寸;规格;量规,量表 v.测量"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，但核心动作是‘测量’或‘校准’。词根与‘标准尺寸’关联，物理动作：用标准工具（量规）去比对或测定某物的尺寸、容量或程度。",
+        "similarWarning": "形近词辨析：gauge vs. garage（车库，拼写差异‘au’ vs ‘ar’）；gauge vs. cage（笼子，首字母‘g’ vs ‘c’）；gauge vs. gate（大门，结尾‘ge’ vs ‘te’）。核心区分：gauge含‘测量’义，其他无。",
+        "extendedMeaning": "考研僻义：1. 评估、判断（抽象测量），如‘gauge public opinion’（评估舆论）；2. 厚度、直径（金属线等），如‘12-gauge wire’（12号标准线）。",
+        "examUsage": "真题考点：常考搭配‘gauge the impact/effect’（衡量影响），或‘a gauge of...’（...的指标/标准）。注意与‘measure’同义替换，但gauge更强调通过参照物精确判断。"
+      }
+    },
+    {
+      "id": "gay",
+      "word": "gay",
+      "phonetic": "/gei/",
+      "meaning": "a.快乐的,愉快的,色彩鲜艳的 n.同性恋",
+      "similar": [
+        "bay",
+        "gap",
+        "gas",
+        "guy",
+        "hay",
+        "ray"
+      ],
+      "question": {
+        "wordId": "gay",
+        "stem": "选择 \"gay\" 的正确中文意思：",
+        "correct": "a.快乐的,愉快的,色彩鲜艳的 n.同性恋",
+        "options": [
+          "n.气体；煤气；汽油；毒气vt.毒(死)；加油",
+          "n.海湾,(港)湾",
+          "a.快乐的,愉快的,色彩鲜艳的 n.同性恋",
+          "n.缺口;差距;空白;缺乏"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "无明确词根词缀，原始含义与“快乐、鲜明”相关，后演变为“同性恋”的专指。",
+        "similarWarning": "guy（家伙）：gay中的a变为u，词义完全不同；gap（缺口）：gay中的y变为p，指空隙。",
+        "extendedMeaning": "色彩鲜艳的（指服饰、装饰等，如gay colors）；轻率的、放荡的（古义，现少用）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gaze",
+      "word": "gaze",
+      "phonetic": "/geiz/",
+      "meaning": "v./n.凝视,注视",
+      "similar": [
+        "graze",
+        "gate",
+        "amaze",
+        "blaze",
+        "gauge",
+        "glare",
+        "grace",
+        "grade"
+      ],
+      "question": {
+        "wordId": "gaze",
+        "stem": "选择 \"gaze\" 的正确中文意思：",
+        "correct": "v./n.凝视,注视",
+        "options": [
+          "v./n.凝视,注视",
+          "vi.吃青草 vt.放牧;擦伤;掠过 .n.擦伤(处)",
+          "n.大门；入口；观众人数，门票收入",
+          "vt.使惊奇，使惊愕；使困惑 vi.表现出惊奇"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能与古英语‘gæs’（看）有关。核心动作是‘持续、专注地看’，强调目光的固定和时间的延续，区别于普通‘look’（看）的短暂或随意。",
+        "similarWarning": "gaze（凝视） vs. graze（放牧/擦伤）：仅差字母‘r’，但‘graze’指动物吃草或皮肤轻微擦伤，动作完全不同。 vs. gauge（测量/规格）：拼写相似，但‘gauge’是测量工具或标准，与‘看’无关。 vs. glare（怒视/刺眼）：‘glare’带有强烈情绪或光线，而‘gaze’中性。",
+        "extendedMeaning": "在考研阅读中可能引申为‘长久关注’或‘探究性注视’，如‘gaze at the data’（审视数据），强调分析性观察。",
+        "examUsage": "常作为描述人物动作或态度的词汇，与‘stare’（瞪视）区别：‘gaze’偏欣赏或好奇，‘stare’偏无礼或震惊。真题中可能以‘gaze’的动词形式出现，搭配‘at/upon/into’，如‘gaze into the distance’（凝视远方）。"
+      }
+    },
+    {
+      "id": "gear",
+      "word": "gear",
+      "phonetic": "/giə/",
+      "meaning": "n.齿轮,传动装置 v.(to)调整,使适合",
+      "similar": [
+        "ear",
+        "bear",
+        "fear",
+        "pear",
+        "rear",
+        "tear",
+        "beard",
+        "glare"
+      ],
+      "question": {
+        "wordId": "gear",
+        "stem": "选择 \"gear\" 的正确中文意思：",
+        "correct": "n.齿轮,传动装置 v.(to)调整,使适合",
+        "options": [
+          "n.齿轮,传动装置 v.(to)调整,使适合",
+          "n.耳，耳朵；听力，听觉；穗",
+          "n.熊 v.忍受,容忍;负担;结果实,生子女",
+          "n.害怕，恐惧；危险vt.畏惧，害怕，担心"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自原始日耳曼语*garwjan（准备）。核心物理动作是齿轮啮合传动，引申为“调整、使适合”，即让事物像齿轮一样精确匹配运作。",
+        "similarWarning": "gear vs. ear: g-开头表“齿轮”；ear“耳朵”无g。gear vs. bear: b-开头表“熊”或“忍受”；gear无b。gear vs. rear: r-开头表“后面”或“养育”；gear无r。",
+        "extendedMeaning": "考研僻义：gear作动词常考“调整以适应”，如gear to（使适应）；作名词可表“装备、设备”，如medical gear（医疗设备）。",
+        "examUsage": "真题考点：gear...to...（使……适应……）是高频搭配。例句：Education should be geared to the needs of society.（教育应适应社会需求。）"
+      }
+    },
+    {
+      "id": "gender",
+      "word": "gender",
+      "phonetic": "/'dʒendə/",
+      "meaning": "n.(生理上的)性；(名词、代词等的)性",
+      "similar": [
+        "render",
+        "tender",
+        "slender",
+        "gene",
+        "elder",
+        "enter",
+        "hinder",
+        "ponder"
+      ],
+      "question": {
+        "wordId": "gender",
+        "stem": "选择 \"gender\" 的正确中文意思：",
+        "correct": "n.(生理上的)性；(名词、代词等的)性",
+        "options": [
+          "n.(生理上的)性；(名词、代词等的)性",
+          "a.修长的,细长的,苗条的;微小的,微薄的",
+          "v.使得,致使;提出,提供,呈报",
+          "a.嫩的;敏感的;温柔的 v.提出,提供;投标"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 genus（种类、种族），由词根 gen-（生育、产生）衍生而来，核心物理动作为“产生出类别”。gender 原指“种类”，后特指生物学的性别分类，即由生殖功能决定的男/女属性。",
+        "similarWarning": "render（给予，使成为）：r+ender，强调“回报/致使”动作；tender（温柔的，投标）：t+ender，侧重“柔软/提供”；slender（苗条的）：s+lender，描述“细长”外形；gene（基因）：与 gender 同根，指遗传单位，但拼写更短。",
+        "extendedMeaning": "在考研中，gender 常引申为“社会性别角色”或“性别差异”，如 gender gap（性别差距）、gender equality（性别平等），而非仅指生理性别。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gene",
+      "word": "gene",
+      "phonetic": "/dʒi:n/",
+      "meaning": "n.基因",
+      "similar": [
+        "gender",
+        "gentle",
+        "agent",
+        "dense",
+        "fence",
+        "hence",
+        "renew",
+        "tense"
+      ],
+      "question": {
+        "wordId": "gene",
+        "stem": "选择 \"gene\" 的正确中文意思：",
+        "correct": "n.基因",
+        "options": [
+          "n.基因",
+          "n.(生理上的)性；(名词、代词等的)性",
+          "a.和蔼的,文雅的,有礼貌的",
+          "n.代理人；代理商；产生作用的人或事物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"来自希腊语\"genos\"（出生、起源），核心动作是\"产生/生成\"。基因是生物遗传信息的载体，决定个体的\"产生\"与特征传递。\",\n  \"similarWarning\": \"gender (n.性别) vs gene：gender含\"der\"后缀表\"种类\"，侧重社会/生理分类；gene专注遗传单位。gentle (a.温和的) vs gene：gentle含\"tle\"后缀表\"轻柔\"，与基因无直接关联。\",\n  \"extendedMeaning\": \"在考研中无特殊僻义，通常指生物学中的遗传因子。\",\n  \"examUsage\": \"\"\n}",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "general",
+      "word": "general",
+      "phonetic": "/'dʒenrəl/",
+      "meaning": "a.一般的,普通的;总的,大体的 n.将军",
+      "similar": [
+        "generate",
+        "central",
+        "federal",
+        "funeral",
+        "mineral",
+        "generator",
+        "generous"
+      ],
+      "question": {
+        "wordId": "general",
+        "stem": "选择 \"general\" 的正确中文意思：",
+        "correct": "a.一般的,普通的;总的,大体的 n.将军",
+        "options": [
+          "vt.产生,发生;生殖",
+          "a.一般的,普通的;总的,大体的 n.将军",
+          "a.中心的,中央的,中枢的;主要的",
+          "a.联邦的;联邦制的;联合的;同盟的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 genus（种类、种族），词根 gen-（产生、起源）。general 本义是“与整个种类相关的”，即“普遍的、总体的”，引申为“一般的、普通的”。将军（general）是“总指挥官”的简称，指统领全军的人。",
+        "similarWarning": "generate v. 产生（-ate动词后缀）；central a. 中心的（centr-中心）；federal a. 联邦的（feder-联盟）；funeral n. 葬礼（funer-死亡）；mineral n. 矿物（min-挖）；several a. 几个（sever-分开）；generator n. 发电机（-or物）；generous a. 慷慨的（gener-产生+ous，即“大量产生的”）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "generalize",
+      "word": "generalize",
+      "phonetic": "/'dʒenərəlaiz/",
+      "meaning": "v.(generalise)归纳,概括;推广,普及",
+      "similar": [
+        "generate",
+        "generation",
+        "generator"
+      ],
+      "question": {
+        "wordId": "generalize",
+        "stem": "选择 \"generalize\" 的正确中文意思：",
+        "correct": "v.(generalise)归纳,概括;推广,普及",
+        "options": [
+          "n.发电机,发生器",
+          "n.产生,发生;一代(人)",
+          "vt.产生,发生;生殖",
+          "v.(generalise)归纳,概括;推广,普及"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根gener-（产生、种族）+ -alize（使动后缀）。核心动作：使某一事物从个别案例中“产生”出普遍规律，即从具体到一般的归纳过程，或使局部现象“普及”为全局通用。",
+        "similarWarning": "generate（产生，v.）与generalize拼写差异在“-al-”与“-ate”结尾，前者强调从无到有的创造，后者强调从特殊到普遍的推广。",
+        "extendedMeaning": "在考研阅读中常引申为“将局部结论推广到整体”，如“generalize from a sample”（从样本中归纳普遍结论），强调逻辑推理的跨越性。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "generate",
+      "word": "generate",
+      "phonetic": "/'dʒenəreɪt/",
+      "meaning": "vt.产生,发生;生殖",
+      "similar": [
+        "degenerate",
+        "generator",
+        "penetrate",
+        "general",
+        "generalize",
+        "generation",
+        "celebrate",
+        "desperate"
+      ],
+      "question": {
+        "wordId": "generate",
+        "stem": "选择 \"generate\" 的正确中文意思：",
+        "correct": "vt.产生,发生;生殖",
+        "options": [
+          "vt.产生,发生;生殖",
+          "v.衰退,堕落,蜕化 a.堕落的 n.堕落者",
+          "v.穿过,渗入,看穿",
+          "n.发电机,发生器"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 generare（产生，生育），词根 gen-（出生，产生） + -er-（动词后缀） + -ate（使动）。核心物理动作是“使某物从无到有地产生或出现”，如发电、产生热量、引发结果。",
+        "similarWarning": "degenerate（退化，堕落）：de-（向下）+ generate → 向下产生 → 退化；generator（发电机，发生器）：-or（物）→ 产生能量的装置；penetrate（穿透）：pen-（几乎）+ -etr-（进入）→ 词根不同，注意拼写差异。",
+        "extendedMeaning": "在考研外刊中常引申为“引发（某种情绪/反应）”或“生成（数据/报告）”，如 generate public interest（引发公众兴趣）、generate a report（生成报告）。",
+        "examUsage": "真题考点：generate 常与 electricity, heat, income, profit 等搭配；在完形中作为“产生”义项，干扰项常为 produce（更强调制造）、create（更强调创造），注意辨析。"
+      }
+    },
+    {
+      "id": "generation",
+      "word": "generation",
+      "phonetic": "/ˌdʒenə'reiʃən/",
+      "meaning": "n.产生,发生;一代(人)",
+      "similar": [
+        "generator",
+        "federation",
+        "reservation",
+        "generate",
+        "sensation",
+        "generalize",
+        "revelation",
+        "vegetation"
+      ],
+      "question": {
+        "wordId": "generation",
+        "stem": "选择 \"generation\" 的正确中文意思：",
+        "correct": "n.产生,发生;一代(人)",
+        "options": [
+          "n.保留,保留意见;预定,预订",
+          "n.同盟;联邦;联合;联盟;联合会",
+          "n.发电机,发生器",
+          "n.产生,发生;一代(人)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根gener-（产生、生育）+ -ation（名词后缀，表动作或结果）。核心物理动作为“产生、生育”，引申为“一代人”或“产生过程”。",
+        "similarWarning": "generate（v.产生，生成）与generation同根，但词性不同；generator（n.发电机，发生器）为具体器物；federation（n.联邦）与generation拼写部分相似但词根不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "generator",
+      "word": "generator",
+      "phonetic": "/'dʒenəreitə/",
+      "meaning": "n.发电机,发生器",
+      "similar": [
+        "generation",
+        "generate",
+        "general",
+        "senator",
+        "elevator",
+        "operator",
+        "degenerate",
+        "federation"
+      ],
+      "question": {
+        "wordId": "generator",
+        "stem": "选择 \"generator\" 的正确中文意思：",
+        "correct": "n.发电机,发生器",
+        "options": [
+          "n.产生,发生;一代(人)",
+          "vt.产生,发生;生殖",
+          "n.发电机,发生器",
+          "a.一般的,普通的;总的,大体的 n.将军"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根 gen-（产生）+ -er-（连接成分）+ -ator（表示人或物的后缀，如-ator）。核心物理动作：产生某物的装置。Generator字面即“产生器”，原指产生电力或气体的设备。",
+        "similarWarning": "generator vs. generation：generation是名词“一代；产生”，缺少-orator部分；generator强调“产生电/气的机器”，generation侧重“代际或产生过程”。\ngenerator vs. generate：generate是动词“产生”，去掉-or。\ngenerator vs. general：general是形容词“一般的；将军”，词根不同（gen- + -eral）。\ngenerator vs. senator：senator是“参议员”，词根sen-（老）。\ngenerator vs. elevator：elevator是“电梯”，词根lev-（升）。\ngenerator vs. operator：operator是“操作员”，词根oper-（工作）。\ngenerator vs. degenerate：degenerate是动词/形容词“退化”，前缀de-（向下）+ gen-。",
+        "extendedMeaning": "在考研中，generator可引申为“产生某种事物的人或事物”，如“a generator of new ideas”（新思想的产生者），但此用法较少见，主要仍指机器。",
+        "examUsage": "在考研真题中，generator常作为科技类阅读的专有名词出现，如“electric generator”（发电机），需注意其与motor（电动机）的区别：generator将机械能转电能，motor反之。无特殊搭配或干扰项时，此标签可省略。"
+      }
+    },
+    {
+      "id": "generous",
+      "word": "generous",
+      "phonetic": "/'dʒenərəs/",
+      "meaning": "a.宽宏大量的,慷慨的",
+      "similar": [
+        "genius",
+        "general",
+        "nervous",
+        "enormous",
+        "generate",
+        "numerous"
+      ],
+      "question": {
+        "wordId": "generous",
+        "stem": "选择 \"generous\" 的正确中文意思：",
+        "correct": "a.宽宏大量的,慷慨的",
+        "options": [
+          "a.神经的;神经过敏的,紧张不安的",
+          "a.一般的,普通的;总的,大体的 n.将军",
+          "a.宽宏大量的,慷慨的",
+          "n.天才"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根 gen-（出生、种族） + -ous（形容词后缀，充满…的）。字面义为“出身高贵的”，即贵族血统的人通常被认为气度不凡，进而引申为“慷慨的、宽宏大量的”。核心动作：出身好 → 气度大。",
+        "similarWarning": "dangerous（危险的）仅首字母d不同；genius（天才）结尾为-ius，词根相同但指天赋；general（一般的）后缀-al；nervous（紧张的）首字母n；enormous（巨大的）前缀e-（出）+ norm（标准），意为超出标准；generate（产生）动词；numerous（众多的）词根numer（数）。",
+        "extendedMeaning": "在考研阅读中，generous可引申为“丰富的、大量的”，如a generous portion（大份量）或generous rainfall（充沛的降雨），强调数量或程度超出一般。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "genetic",
+      "word": "genetic",
+      "phonetic": "/dʒi'netik/",
+      "meaning": "a.遗传(学)的 n.[-s]遗传学",
+      "similar": [
+        "magnetic"
+      ],
+      "question": {
+        "wordId": "genetic",
+        "stem": "选择 \"genetic\" 的正确中文意思：",
+        "correct": "a.遗传(学)的 n.[-s]遗传学",
+        "options": [
+          "a.遗传(学)的 n.[-s]遗传学",
+          "a.磁的,有磁性的;有吸引力的",
+          "n.(举止,态度等的)庄严,端庄;尊贵,高贵",
+          "n.高尔夫球"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 'gen' 意为 '出生、产生'，与 'gene'（基因）同源。'genetic' 由 'gene' + '-tic'（形容词后缀）构成，字面意为 '与基因相关的'，引申为 '遗传的'。",
+        "similarWarning": "与 'magnetic'（磁性的）形似，但词根不同：'genetic' 源于 'gen'（产生），'magnetic' 源于 'magnet'（磁铁）。注意区分 'gene' 与 'magnet' 的拼写差异。",
+        "extendedMeaning": "考研中常引申为 '根本的、内在的'，如 'genetic predisposition'（遗传倾向）或 'genetic code'（遗传密码），但非字面义时指 '本质的、天生的'。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "genius",
+      "word": "genius",
+      "phonetic": "/'dʒi:niəs/",
+      "meaning": "n.天才",
+      "similar": [
+        "census",
+        "generous"
+      ],
+      "question": {
+        "wordId": "genius",
+        "stem": "选择 \"genius\" 的正确中文意思：",
+        "correct": "n.天才",
+        "options": [
+          "n.天才",
+          "n.类似，相似，类比，类推",
+          "n.人口普查(调查)",
+          "a.宽宏大量的,慷慨的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根gen-（生育、产生）+-ius（名词后缀）。本义为“与生俱来的守护神”，后引申为“天生的才能”或“拥有这种才能的人”，强调天赋而非后天习得。",
+        "similarWarning": "census（n.人口普查）：cen-（评估）+-sus（与censure同源），指官方统计；genius（天才）：gen-（生育）。generous（adj.慷慨的）：gener-（产生）+-ous（充满），本义为“出身高贵的”，后引申为“大方”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gentle",
+      "word": "gentle",
+      "phonetic": "/'dʒentl/",
+      "meaning": "a.和蔼的,文雅的,有礼貌的",
+      "similar": [
+        "gently",
+        "gene",
+        "centre",
+        "kettle",
+        "settle"
+      ],
+      "question": {
+        "wordId": "gentle",
+        "stem": "选择 \"gentle\" 的正确中文意思：",
+        "correct": "a.和蔼的,文雅的,有礼貌的",
+        "options": [
+          "n.中心，中央，中间 vt.集中 vi.以..为中心",
+          "a.和蔼的,文雅的,有礼貌的",
+          "ad.文雅地,有礼貌地;轻轻地",
+          "n.基因"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 gentilis，意为‘属于同一家族的’，引申为‘出身高贵的’，后演变为‘举止文雅的、温和的’。词根 gen-（出生、家族）暗示了‘贵族血统’带来的教养与礼貌。",
+        "similarWarning": "gently adv. 温柔地（-ly副词后缀）；gene n. 基因（遗传单位）；centre n. 中心（c-开头）；kettle n. 水壶（k-开头）；settle v. 解决（s-开头）",
+        "extendedMeaning": "（在考研英语中常以‘gentle’的引申义出现）‘柔和的、平缓的’（如 gentle slope 缓坡；gentle breeze 微风）",
+        "examUsage": "（该词在考研中常作为基础词汇出现，较少设置复杂考点，故省略此标签）"
+      }
+    },
+    {
+      "id": "gentleman",
+      "word": "gentleman",
+      "phonetic": "/'dʒentlmən/",
+      "meaning": "n.绅士,先生",
+      "similar": [
+        "settlement"
+      ],
+      "question": {
+        "wordId": "gentleman",
+        "stem": "选择 \"gentleman\" 的正确中文意思：",
+        "correct": "n.绅士,先生",
+        "options": [
+          "a.(analytical)分析的；分解的",
+          "n.解决,决定,调停;居留区,住宅区",
+          "a.激烈的,严厉的;(药性等)猛烈的",
+          "n.绅士,先生"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "gentle（温和的、高贵的）+ man（人）→ 出身高贵、行为文雅的人。源自拉丁语 gentilis（属于同一家族的），后引申为有教养的男性。",
+        "similarWarning": "settlement（n. 解决；定居点）：与 gentleman 在结尾“-tleman”相似，但 settlement 源自 settle（定居）+ -ment，强调“定居”或“协议达成”，而 gentleman 强调“绅士身份”。拼写差异：gen- vs. set-，词义核心不同。",
+        "extendedMeaning": "在考研阅读中常引申为“有教养的人”或“上流社会成员”，如“a gentleman's agreement”（君子协定，指不具法律约束力的口头约定）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gently",
+      "word": "gently",
+      "phonetic": "/'dʒentli/",
+      "meaning": "ad.文雅地,有礼貌地;轻轻地",
+      "similar": [
+        "gentle",
+        "entry"
+      ],
+      "question": {
+        "wordId": "gently",
+        "stem": "选择 \"gently\" 的正确中文意思：",
+        "correct": "ad.文雅地,有礼貌地;轻轻地",
+        "options": [
+          "ad.文雅地,有礼貌地;轻轻地",
+          "a.和蔼的,文雅的,有礼貌的",
+          "vt.杀死，消灭；破坏，毁灭；消磨(时间)",
+          "n.进入,入口;通道;记载,条目"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语‘gentilis’（属于同一家族的），演变为古法语‘gentil’（高贵的、文雅的），加副词后缀‘-ly’形成‘gently’，核心动作是‘以温和、有教养的方式行事’，强调动作的轻柔与礼貌。",
+        "similarWarning": "gentle（adj.温和的） vs gently（adv.温和地）：词性不同，gently是gentle的副词形式；entry（n.进入） vs gently：差异在于前缀‘en-’（进入）与‘gent-’（温和），词义无关。",
+        "extendedMeaning": "在考研外刊中，gently可引申为‘逐渐地、平缓地’，如‘gently sloping hills’（平缓倾斜的山丘），强调变化过程的不突兀。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "genuine",
+      "word": "genuine",
+      "phonetic": "/'dʒenjuin/",
+      "meaning": "a.真正的,名副其实的",
+      "similar": [
+        "engine"
+      ],
+      "question": {
+        "wordId": "genuine",
+        "stem": "选择 \"genuine\" 的正确中文意思：",
+        "correct": "a.真正的,名副其实的",
+        "options": [
+          "n.发动机,引擎;火车头",
+          "v.插入,嵌入;登载 n.插入物",
+          "n.(jail)监狱；(不加冠词)监禁 vt.使…坐牢",
+          "a.真正的,名副其实的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 genuinus（天生的，自然的），与词根 gen-（生育、产生）同源。核心逻辑：与生俱来的 → 非人为伪造的 → 真正的、名副其实的。",
+        "similarWarning": "engine /'endʒin/ n.发动机，引擎。对比：genuine 以 -ine 结尾，强调“本性”；engine 以 -ine 结尾但源于 ingeniare，指“发明、机械”。字母差异：g- vs e-，以及中间部分 -enu- vs -ngi-。",
+        "extendedMeaning": "在考研阅读中可引申为“真诚的、诚挚的”（指情感或态度非虚假），如 genuine concern（真诚的关切）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "geography",
+      "word": "geography",
+      "phonetic": "/dʒi'ɔgrəfi/",
+      "meaning": "n.地理(学)",
+      "similar": [
+        "biography"
+      ],
+      "question": {
+        "wordId": "geography",
+        "stem": "选择 \"geography\" 的正确中文意思：",
+        "correct": "n.地理(学)",
+        "options": [
+          "n.地理(学)",
+          "v.捆,绑,包括,束缚",
+          "n.传记；传记文学",
+          "a.急迫的，紧要的，紧急的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "geo-（地，地球）+ -graph-（写，描绘）+ -y（名词后缀）→ 描绘地球的学问 → 地理学。核心动作：对地表特征的描述与记录。",
+        "similarWarning": "biography（n.传记）：bio-（生命）+ graph-（写）+ -y → 记录生命历程。与 geography 仅首字母不同，geo-（地）vs bio-（生命）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "geology",
+      "word": "geology",
+      "phonetic": "/dʒi'ɔlədʒi/",
+      "meaning": "n.地质(学)",
+      "similar": [
+        "ideology",
+        "apology",
+        "biology",
+        "ecology"
+      ],
+      "question": {
+        "wordId": "geology",
+        "stem": "选择 \"geology\" 的正确中文意思：",
+        "correct": "n.地质(学)",
+        "options": [
+          "n.地质(学)",
+          "n.道歉，认错，辩解，辩护",
+          "n.生物学",
+          "n.意识形态，(政治或社会的)思想意识"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "geo-（地球）+ -logy（学科）→ 研究地球的学科，即地质学。核心动作：地球+学问。",
+        "similarWarning": "ideology（意识形态：ideo-观念+logy），apology（道歉：apo-离开+logy→辩护→道歉），biology（生物学：bio-生命+logy），ecology（生态学：eco-家+logy）。差异在于前缀：geo-（地球）vs. ideo-（观念）vs. apo-（离开）vs. bio-（生命）vs. eco-（环境）。",
+        "extendedMeaning": "在考研外刊中常引申为‘地质特征’或‘地质构成’，如the geology of the region（该地区的地质结构）。",
+        "examUsage": "考研真题中常作为学科分类词出现，需注意与geography（地理学）区分：geology侧重岩石、地壳结构，geography侧重地形、区域分布。"
+      }
+    },
+    {
+      "id": "geometry",
+      "word": "geometry",
+      "phonetic": "/dʒi'ɔmitri/",
+      "meaning": "n.几何(学)",
+      "similar": [
+        "poetry",
+        "cemetery",
+        "symmetry"
+      ],
+      "question": {
+        "wordId": "geometry",
+        "stem": "选择 \"geometry\" 的正确中文意思：",
+        "correct": "n.几何(学)",
+        "options": [
+          "n.几何(学)",
+          "n.诗歌,诗集",
+          "n.对称(性);匀称,整齐",
+          "n.坟墓，墓地，坟场"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语‘geometria’，由‘geo-’（大地）和‘-metria’（测量）构成，核心动作是‘测量大地’。几何学最初源于古埃及人测量土地边界的需求，后演变为研究形状、空间与度量的数学分支。词根‘geo-’常见于geography（地理学），‘-metr-’见于metric（公制的）。",
+        "similarWarning": "形近词辨析：\n1. poetry /ˈpoʊətri/：n.诗歌，源自希腊语‘poiesis’（创作）。与geometry区别在‘po-’（创造）vs ‘geo-’（大地）。\n2. cemetery /ˈseməteri/：n.墓地，源自希腊语‘koimeterion’（睡觉的地方）。与geometry区别在‘ceme-’（睡觉）vs ‘geo-’（大地）。\n3. symmetry /ˈsɪmətri/：n.对称，源自希腊语‘syn-’（共同）+‘metron’（测量）。与geometry共享‘-metry’但前缀不同：‘syn-’（共同）vs ‘geo-’（大地）。",
+        "extendedMeaning": "在考研英语中，‘geometry’常引申为‘结构、布局的几何特性’，用于描述复杂系统的空间或逻辑关系。例如，在科技类文章中可指‘数据集的几何结构’或‘分子几何构型’。",
+        "examUsage": "真题考点：\n核心搭配：analytical geometry（解析几何）、plane geometry（平面几何）、solid geometry（立体几何）。\n高频例句：The geometry of the building's facade reflects a modern aesthetic.（建筑立面的几何结构体现了现代美学。）"
+      }
+    },
+    {
+      "id": "germ",
+      "word": "germ",
+      "phonetic": "/dʒə:m/",
+      "meaning": "n.微生物,细菌",
+      "similar": [],
+      "question": {
+        "wordId": "germ",
+        "stem": "选择 \"germ\" 的正确中文意思：",
+        "correct": "n.微生物,细菌",
+        "options": [
+          "n.微生物,细菌",
+          "n.(dialogue)对话,对白",
+          "n.吉他 vi.弹吉他",
+          "n.(陆军)上校"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'germen'（芽、胚芽），核心物理动作为“生长、萌发”。词根 'germ-' 表示“芽、种子”。微生物（如细菌）被视为微小的“生命芽体”，能快速繁殖生长，故引申为“微生物、细菌”。",
+        "similarWarning": "term（n.术语，学期；v.把…称为）：germ vs term，区别在于首字母 'g' vs 't'。germ 与“生长”相关，term 与“边界、期限”相关（源自拉丁语 'terminus' 界限）。",
+        "extendedMeaning": "在考研中，germ 可引申为“萌芽；起源”（如 the germ of an idea 思想的萌芽），表示事物的最初形态或源头。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gesture",
+      "word": "gesture",
+      "phonetic": "/'dʒestʃə/",
+      "meaning": "n.姿势,姿态,手势 v.做手势",
+      "similar": [
+        "feature",
+        "lecture",
+        "pasture",
+        "posture",
+        "restore",
+        "texture",
+        "venture",
+        "creature"
+      ],
+      "question": {
+        "wordId": "gesture",
+        "stem": "选择 \"gesture\" 的正确中文意思：",
+        "correct": "n.姿势,姿态,手势 v.做手势",
+        "options": [
+          "n.牧草地,牧场",
+          "n.特征;容貌;特色;特写 v.以...为特色",
+          "n.姿势,姿态,手势 v.做手势",
+          "n./v.演讲,讲课"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'gestus'（动作、姿态），是 'gerere'（搬运、执行）的过去分词。核心物理动作是“身体的搬运/执行动作”，即通过手势、姿态来传达意图或情感。词根 'gest-' 表示“携带、产生”，引申为“做出的动作”。",
+        "similarWarning": "形近词对比：\n- gesture (姿势) vs. posture (姿势) vs. pasture (牧场)\n  'gesture' 侧重表达性的手势/姿态，'posture' 侧重身体姿势或立场，'pasture' 是草地。\n- feature (特征) vs. creature (生物) vs. lecture (讲座)\n  'feature' 有“特征”义，'creature' 是“生物”，'lecture' 是“演讲”，与 'gesture' 拼写差异在首字母。",
+        "extendedMeaning": "考研僻义：\n1. 象征性的姿态/表示（非字面手势，如政治或外交姿态）：a gesture of goodwill（善意的表示）。\n2. 做出表示（动词，非字面做手势）：He gestured his approval.（他示意赞同。）",
+        "examUsage": "真题考点：\n- 固定搭配：make a gesture（做手势/表示），as a gesture of（作为…的表示）。\n- 例句：The government's offer was seen as a gesture of reconciliation.（政府的提议被视为和解的姿态。）常作为阅读理解中态度题的线索词。"
+      }
+    },
+    {
+      "id": "ghost",
+      "word": "ghost",
+      "phonetic": "/gəust/",
+      "meaning": "n.鬼魂,幽灵",
+      "similar": [
+        "host",
+        "goat",
+        "hose",
+        "post",
+        "shot",
+        "boost",
+        "chest",
+        "frost"
+      ],
+      "question": {
+        "wordId": "ghost",
+        "stem": "选择 \"ghost\" 的正确中文意思：",
+        "correct": "n.鬼魂,幽灵",
+        "options": [
+          "n.主人;旅店老板;节目主持人;一大群,许多",
+          "n.鬼魂,幽灵",
+          "n.山羊",
+          "n.水龙带,软管 v.用软管(淋浇,冲洗)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自原始日耳曼语*gaistaz，本义为“愤怒、恐惧”，后引申为“超自然存在”。核心物理动作：不可见的、飘忽的、令人恐惧的存在。",
+        "similarWarning": "host（主人/宿主）vs ghost（鬼魂）：h/g首字母差异，host强调接纳，ghost强调虚无。cost（花费）vs ghost：c/g首字母，cost与金钱相关。",
+        "extendedMeaning": "（1）鬼影，幻象；（2）（计算机）幽灵账户/僵尸账号；（3）（文学）代笔人（ghostwriter）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "giant",
+      "word": "giant",
+      "phonetic": "/'dʒaiənt/",
+      "meaning": "n.巨人 a.巨大的",
+      "similar": [
+        "grant",
+        "ant",
+        "gang",
+        "gift",
+        "goat",
+        "hint",
+        "pant",
+        "pint"
+      ],
+      "question": {
+        "wordId": "giant",
+        "stem": "选择 \"giant\" 的正确中文意思：",
+        "correct": "n.巨人 a.巨大的",
+        "options": [
+          "n.一帮,一群,一伙",
+          "v.同意,准予;授予 n.授予物;津贴;转让证书",
+          "n.巨人 a.巨大的",
+          "n.蚁；蚂蚁"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'gigas'（巨人），词根 'gigant-' 意为巨大的。与 'giant' 同源的词如 'gigantic'（巨大的）。核心动作是“巨大”这一物理属性，直接指代体型或规模上的庞大。",
+        "similarWarning": "grant（v.授予；n.拨款）：首字母不同，'gr' 与 'gi' 区别，grant 强调给予。ant（n.蚂蚁）：仅尾字母不同，ant 指昆虫，与 giant 的“巨人”含义完全相反。",
+        "extendedMeaning": "在考研中常引申为“巨头”（如行业巨头），如 'tech giant'（科技巨头），或“庞大的事物”（如 'giant leap' 重大飞跃）。",
+        "examUsage": "常见搭配 'giant step'（巨大进步）或 'giant corporation'（大型企业），在真题中可能作为名词或形容词修饰抽象概念，如 'a giant in the field'（该领域的巨人）。"
+      }
+    },
+    {
+      "id": "gift",
+      "word": "gift",
+      "phonetic": "/gift/",
+      "meaning": "n.礼品,赠品;天赋,才能",
+      "similar": [
+        "lift",
+        "drift",
+        "fifty",
+        "giant",
+        "guilt",
+        "shift",
+        "swift"
+      ],
+      "question": {
+        "wordId": "gift",
+        "stem": "选择 \"gift\" 的正确中文意思：",
+        "correct": "n.礼品,赠品;天赋,才能",
+        "options": [
+          "num.五十，五十个",
+          "v./n.漂,漂流(物)",
+          "n.礼品,赠品;天赋,才能",
+          "v.升起,举起,消散 n.电梯,上升,免费搭车"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自古英语gift，本义为‘给予之物’，核心动作是‘给’。引申为‘天赋’即上天赋予的能力。",
+        "similarWarning": "lift（举起），drift（漂流），shift（转移），swift（迅速的），guilt（内疚），fifty（五十），giant（巨大的）。",
+        "extendedMeaning": "熟词僻义：在真题中可作动词，意为‘轻易赢得’或‘白送’。如‘gift a goal’（送分）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gigantic",
+      "word": "gigantic",
+      "phonetic": "/ˌdʒai'gæntik/",
+      "meaning": "a.巨大的,庞大的",
+      "similar": [
+        "organic",
+        "romantic"
+      ],
+      "question": {
+        "wordId": "gigantic",
+        "stem": "选择 \"gigantic\" 的正确中文意思：",
+        "correct": "a.巨大的,庞大的",
+        "options": [
+          "n.腐蚀,磨损;削弱,减少",
+          "a.浪漫的,传奇式的;不切实际的,好幻想的",
+          "a.器官的;有机的;有机体的",
+          "a.巨大的,庞大的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自希腊语\"gigantikos\"，来自\"gigas\"（巨人）。词根\"gigant-\"表巨人，后缀\"-ic\"表形容词。核心动作/画面：像巨人一样巨大，强调体积、规模上的异常庞大，远超普通尺度。\",\n  \"similarWarning\": \"organic（有机的）：词根\"organ-\"，与\"gigant-\"完全不同。romantic（浪漫的）：词根\"roman-\"。三者仅拼写结尾\"-ic\"相同，但核心词根差异显著。\",\n  \"extendedMeaning\": \"在考研中可引申为程度上的极大（如影响、难度），不限于物理尺寸。例：\"a gigantic tas",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "giggle",
+      "word": "giggle",
+      "phonetic": "/'gigl/",
+      "meaning": "vi.／n.痴笑；咯咯地笑 vt.咯咯地笑着说",
+      "similar": [
+        "mingle"
+      ],
+      "question": {
+        "wordId": "giggle",
+        "stem": "选择 \"giggle\" 的正确中文意思：",
+        "correct": "vi.／n.痴笑；咯咯地笑 vt.咯咯地笑着说",
+        "options": [
+          "v.(使)混合",
+          "n.目的,意图;用途,效果",
+          "n.基础,根本,建立,创立;地基,基金,基金会",
+          "vi.／n.痴笑；咯咯地笑 vt.咯咯地笑着说"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿咯咯笑的声音，与‘giggle’的发音直接关联，动作本质为短促、重复的轻笑。",
+        "similarWarning": "mingle（混合，融入） vs single（单一的，单个的）：giggle含‘gg’双写表重复动作；mingle含‘m’表混合；single含‘s’表单一，拼写差异明显。",
+        "extendedMeaning": "在考研阅读中可引申为‘（因紧张或尴尬而）傻笑’，如：She gave a nervous giggle.（她紧张地傻笑。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "glamor",
+      "word": "glamor",
+      "phonetic": "/'glæmə/",
+      "meaning": "n.(glamour)魅力;魔法 vt.迷惑",
+      "similar": [
+        "labor",
+        "flavor"
+      ],
+      "question": {
+        "wordId": "glamor",
+        "stem": "选择 \"glamor\" 的正确中文意思：",
+        "correct": "n.(glamour)魅力;魔法 vt.迷惑",
+        "options": [
+          "n.楔,楔形 vt.楔牢,楔入,挤进",
+          "n.(flavour)情味;风味;滋味 v.给…调味",
+          "n.(labour)工作，劳动；劳力 v.劳动，苦干",
+          "n.(glamour)魅力;魔法 vt.迷惑"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自苏格兰语“gramarye”（魔法、巫术），与grammar（语法）同源，原指“魔法、咒语”。词根演变：gram-（书写/魔法）+ -or（名词后缀）→ 魔法般的吸引力。核心画面：像魔法一样令人着迷、无法抗拒的魅力。",
+        "similarWarning": "labor（劳动，与glamor无直接关联，但拼写相似）；flavor（风味，与glamor相比，仅差首字母g/f，词义完全不同，glamor强调魅力，flavor指味道）",
+        "extendedMeaning": "考研熟词僻义：指“迷人的氛围或气质”，如“the glamor of Hollywood”（好莱坞的魅力），常引申为“虚假的诱惑力”，如真题中“the glamor of quick riches”（暴富的虚假诱惑）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "glance",
+      "word": "glance",
+      "phonetic": "/glɑ:ns/",
+      "meaning": "v.(at,over)扫视 n.匆匆看,一瞥,一眼",
+      "similar": [
+        "balance",
+        "lace",
+        "lane",
+        "glare",
+        "grace",
+        "plane",
+        "alliance",
+        "guidance"
+      ],
+      "question": {
+        "wordId": "glance",
+        "stem": "选择 \"glance\" 的正确中文意思：",
+        "correct": "v.(at,over)扫视 n.匆匆看,一瞥,一眼",
+        "options": [
+          "n.小路,小巷,行车道",
+          "n.花边;带子,鞋带 v.系带,扎带",
+          "v.称,(使)平衡 n.天平;平衡,均衡;差额,余款",
+          "v.(at,over)扫视 n.匆匆看,一瞥,一眼"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自中古英语glencen，与‘gleam’同源，核心物理动作是‘光在表面快速滑过’→人眼快速扫过物体表面，强调短暂、非专注的视觉接触。",
+        "similarWarning": "glance vs glare：glance是快速扫视（目光轻滑），glare是怒视/强光（目光固定+敌意），核心差异在‘移动vs固定’及情感色彩。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    }
+  ]
+}

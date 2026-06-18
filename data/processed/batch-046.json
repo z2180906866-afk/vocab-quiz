@@ -1,0 +1,1725 @@
+{
+  "batchId": 46,
+  "words": [
+    {
+      "id": "league",
+      "word": "league",
+      "phonetic": "/li:g/",
+      "meaning": "n.同盟,联盟;联合会,社团",
+      "similar": [
+        "eagle",
+        "lease",
+        "vague",
+        "plague"
+      ],
+      "question": {
+        "wordId": "league",
+        "stem": "选择 \"league\" 的正确中文意思：",
+        "correct": "n.同盟,联盟;联合会,社团",
+        "options": [
+          "a.不明确的,含糊的,暧昧的",
+          "n.鹰",
+          "vt.出租,租用 n.租借,租期,租赁物",
+          "n.同盟,联盟;联合会,社团"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'ligare'（绑，系），通过古法语 'ligue' 进入英语。核心物理动作为“捆绑”，引申为个体或团体为共同目标而“绑定在一起”形成的同盟、联盟。词根 'lig-' 与 'bind' 同源，强调约束与联合。",
+        "similarWarning": "eagle（鹰）、lease（租约）、leave（离开）、vague（模糊的）、plague（瘟疫）、pleasure（快乐）。与 'league' 拼写差异主要在首字母或内部字母替换，需注意 'league' 含 'gu' 组合，且词义聚焦于组织联盟。",
+        "extendedMeaning": "在考研真题中常引申为“体育联合会”或“社团”，如 'the Ivy League'（常春藤联盟），或表示“与…联合”的动词用法（如 'league together'）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "leak",
+      "word": "leak",
+      "phonetic": "/li:k/",
+      "meaning": "v.漏,泄漏 n.漏洞,漏隙;泄漏,漏出",
+      "similar": [
+        "bleak",
+        "lean",
+        "leap",
+        "peak",
+        "clerk",
+        "cloak",
+        "lease",
+        "legal"
+      ],
+      "question": {
+        "wordId": "leak",
+        "stem": "选择 \"leak\" 的正确中文意思：",
+        "correct": "v.漏,泄漏 n.漏洞,漏隙;泄漏,漏出",
+        "options": [
+          "v.漏,泄漏 n.漏洞,漏隙;泄漏,漏出",
+          "a.荒凉的;冷酷的;没有希望的",
+          "v.倾斜,屈身;倚,靠,依赖 a.瘦的,无脂肪的",
+          "v.跳,跳跃 n.跳跃,飞跃"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自中古英语leken，与古英语hleccan（使湿）相关，核心物理动作是“液体或气体从容器或裂缝中意外流出”。词根无复杂演变，直接对应“漏”这一画面：水从漏洞滴出或气体从缝隙逸散。",
+        "similarWarning": "bleak（荒凉的，暗淡的）: b-起头，与leak区别在b，意为“凄凉的”，如bleak landscape；leak强调“漏”，如water leak。break（打破）: br-开头，与leak差异在r，意为“断裂”，如break the glass；leak无断裂动作。peak（山峰，顶峰）: p-开头，与leak区别在p，意为“最高点”，如mountain peak；leak与高度无关。",
+        "extendedMeaning": "v.泄露（秘密、信息等），非物理性泄漏：如leak confidential information（泄露机密信息）。n.（信息的）泄露事件：如a security leak（安全漏洞）。",
+        "examUsage": "真题考点：leak常与out搭配，leak out表示“泄露出去”，如The news leaked out（消息泄露）。干扰项可能涉及break out（爆发）、come out（出来）等，需注意leak out强调信息外泄的被动过程。"
+      }
+    },
+    {
+      "id": "lean",
+      "word": "lean",
+      "phonetic": "/li:n/",
+      "meaning": "v.倾斜,屈身;倚,靠,依赖 a.瘦的,无脂肪的",
+      "similar": [
+        "bean",
+        "dean",
+        "leak",
+        "leap",
+        "loan",
+        "bleak",
+        "jeans",
+        "lease"
+      ],
+      "question": {
+        "wordId": "lean",
+        "stem": "选择 \"lean\" 的正确中文意思：",
+        "correct": "v.倾斜,屈身;倚,靠,依赖 a.瘦的,无脂肪的",
+        "options": [
+          "v.倾斜,屈身;倚,靠,依赖 a.瘦的,无脂肪的",
+          "n.豆;菜豆,蚕豆",
+          "n.(大学)院长;主持牧师; (基督教)教长",
+          "v.漏,泄漏 n.漏洞,漏隙;泄漏,漏出"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语hleonian‘倾斜，靠’, 核心物理动作为‘从垂直状态向一侧偏移’。词义从物理倾斜引申至心理上的‘依赖’(lean on)，以及‘瘦的’(lean meat)指脂肪少、不肥厚，像物体倾斜后失去支撑而变‘精简’的状态。",
+        "similarWarning": "lean vs. learn: lean无r，意为‘倾斜/瘦’；learn有r，意为‘学习’。lean vs. bean: l-与b-首字母差异，bean是‘豆子’。",
+        "extendedMeaning": "【熟词僻义】adj.精简的，高效的(lean management精益管理)；v.倾向于(lean towards a view)。",
+        "examUsage": "【真题考点】lean on依赖(同rely on)；lean production精益生产(常用于经济类阅读)；lean against靠在…上。"
+      }
+    },
+    {
+      "id": "leap",
+      "word": "leap",
+      "phonetic": "/li:p/",
+      "meaning": "v.跳,跳跃 n.跳跃,飞跃",
+      "similar": [
+        "lap",
+        "heap",
+        "leak",
+        "lean",
+        "reap",
+        "bleak",
+        "lease",
+        "legal"
+      ],
+      "question": {
+        "wordId": "leap",
+        "stem": "选择 \"leap\" 的正确中文意思：",
+        "correct": "v.跳,跳跃 n.跳跃,飞跃",
+        "options": [
+          "v.跳,跳跃 n.跳跃,飞跃",
+          "n.大腿,(跑道的)一圈,一段路程,工作阶段",
+          "n.(一)堆,大量,许多 v.(up)堆,堆起",
+          "v.漏,泄漏 n.漏洞,漏隙;泄漏,漏出"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，核心物理动作为快速离地腾空跃起，强调瞬间爆发力和跨越距离。引申为数量或质量的急剧变化。",
+        "similarWarning": "lap（膝部/舔食）、heap（堆）、lead（领导）、leaf（叶子）、leak（泄漏）、lean（倾斜/瘦的）、reap（收割）、bleak（荒凉的）。差异：leap核心在‘跳’，与‘跳’无关的词如heap/leaf等易混淆，需注意首字母或尾字母变化。",
+        "extendedMeaning": "【考研僻义】v./n. 骤升，激增（常指价格、数量、价值的突然大幅增长）。例：a leap in profits（利润骤增）。",
+        "examUsage": "【真题考点】固定搭配：by leaps and bounds（突飞猛进地，极迅速地）。常用于描述增长或进步。例：The company has grown by leaps and bounds.（该公司发展迅猛。）"
+      }
+    },
+    {
+      "id": "learned",
+      "word": "learned",
+      "phonetic": "/'lə:nid/",
+      "meaning": "a.博学的,有学问的",
+      "similar": [
+        "learning"
+      ],
+      "question": {
+        "wordId": "learned",
+        "stem": "选择 \"learned\" 的正确中文意思：",
+        "correct": "a.博学的,有学问的",
+        "options": [
+          "a.博学的,有学问的",
+          "n.知识,学问;学习",
+          "n.听众，观众，读者；见面，会见",
+          "n.持久;期间;持续时间"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根learn（学习） + 后缀-ed（形容词后缀，表示“具有…特征的”）。核心动作是“已经学习过的”，引申为“因学习而获得知识的状态”，即博学的、有学问的。",
+        "similarWarning": "learn（v.学习）与learning（n.学习过程；a.有学问的）为同源词，无易混形近词，故省略。",
+        "extendedMeaning": "在考研语境中，learned常指“学术性的、知识渊博的”，如learned journal（学术期刊），非普通“有文化”之义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "learning",
+      "word": "learning",
+      "phonetic": "/'lə:niŋ/",
+      "meaning": "n.知识,学问;学习",
+      "similar": [
+        "bearing",
+        "hearing",
+        "leading",
+        "meaning",
+        "regarding",
+        "darling",
+        "heading",
+        "learned"
+      ],
+      "question": {
+        "wordId": "learning",
+        "stem": "选择 \"learning\" 的正确中文意思：",
+        "correct": "n.知识,学问;学习",
+        "options": [
+          "n.知识,学问;学习",
+          "n.轴承；忍受；关系，影响；举止；方向",
+          "n.听,倾听;听力;审讯",
+          "a.领导的,指导的;第一位的;最主要的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自 learn（学习）+ -ing（名词后缀），核心动作是“获取知识或技能的过程”，引申为“所获得的知识、学问”。",
+        "similarWarning": "bearing（举止/轴承）、hearing（听力/听证会）、leading（领导/主要的）、meaning（意义）、regarding（关于）、darling（亲爱的）、evening（晚上）、heading（标题/方向）——注意 -ing 结尾的名词化，但词根本身不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lease",
+      "word": "lease",
+      "phonetic": "/li:s/",
+      "meaning": "vt.出租,租用 n.租借,租期,租赁物",
+      "similar": [
+        "please",
+        "ease",
+        "cease",
+        "tease",
+        "release",
+        "grease",
+        "league",
+        "base"
+      ],
+      "question": {
+        "wordId": "lease",
+        "stem": "选择 \"lease\" 的正确中文意思：",
+        "correct": "vt.出租,租用 n.租借,租期,租赁物",
+        "options": [
+          "v.请;使愉快,使满意;喜欢,愿意",
+          "vt.出租,租用 n.租借,租期,租赁物",
+          "v.减轻;使舒适,使安心 n.容易;舒适,悠闲",
+          "v./n.停止,中止"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古法语‘laissier’（让，离开），最终源于拉丁语‘laxare’（松开）。核心动作是‘松开、让出’（物主暂时让出使用权，换取租金）。",
+        "similarWarning": "lease vs. leave: leave侧重‘离开/留下’；lease侧重‘出租/租用’，核心是‘使用权让渡’。lease vs. ease: ease是‘舒适/减轻’；lease是‘租约’（字母‘l’+‘ease’无直接关联）。",
+        "extendedMeaning": "熟词僻义：在商业语境中可指‘租约条款’（terms of lease）或‘租期’（lease term），如‘a 10-year lease’（十年租期）。另在金融中‘lease financing’指‘租赁融资’（非普通出租）。",
+        "examUsage": "真题考点：常与‘rent’辨析——lease强调‘长期租约’（通常有合同），rent更泛。高频搭配：‘lease agreement’（租约协议）、‘lease out’（出租）、‘on lease’（以租赁方式）。例句：The company decided to lease the equipment rather than buy it.（公司决定租赁设备而非购买。）"
+      }
+    },
+    {
+      "id": "leather",
+      "word": "leather",
+      "phonetic": "/'leðə/",
+      "meaning": "n.皮革,皮革制品",
+      "similar": [
+        "feather",
+        "gather",
+        "latter"
+      ],
+      "question": {
+        "wordId": "leather",
+        "stem": "选择 \"leather\" 的正确中文意思：",
+        "correct": "n.皮革,皮革制品",
+        "options": [
+          "n.羽毛",
+          "a.后者的；后一半的，接近终了的 n.后者",
+          "n.皮革,皮革制品",
+          "v.聚集,聚拢;推测,推断"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*lethran，本义为“处理过的动物皮”，与“撕扯、剥皮”动作相关。核心物理动作为：将动物皮毛剥离、鞣制加工成耐用材料。",
+        "similarWarning": "feather（羽毛，fe-与羽毛轻飘感相关）vs leather（皮革，le-与剥离、处理相关）；weather（天气，we-气象）vs leather（皮革）；later（后来，la-时间）vs leather；either（两者之一，ei-选择）vs leather；father（父亲，fa-亲属）vs leather；gather（聚集，ga-集合）vs leather；latter（后者，la-顺序）vs leather；letter（信件，le-书写）vs leather。核心差异：leather中的“ea”及“th”组合指向皮革材质，而其他词多与时间、天气、亲属或动作相关。",
+        "extendedMeaning": "在考研阅读中，leather可引申为“皮制物品”或“皮革工业”，如“leather goods”（皮具）、“leather industry”（皮革产业）。",
+        "examUsage": "常见搭配：leather jacket（皮夹克）、leather shoes（皮鞋）。真题中可能作为物品材质或行业背景出现，需注意与“skin”（皮肤）、“hide”（兽皮）的区分：leather强调加工后的成品，hide指未经加工的动物皮。"
+      }
+    },
+    {
+      "id": "lecture",
+      "word": "lecture",
+      "phonetic": "/'lektʃə/",
+      "meaning": "n./v.演讲,讲课",
+      "similar": [
+        "secure",
+        "feature",
+        "gesture",
+        "leisure",
+        "texture",
+        "venture",
+        "creature",
+        "fracture"
+      ],
+      "question": {
+        "wordId": "lecture",
+        "stem": "选择 \"lecture\" 的正确中文意思：",
+        "correct": "n./v.演讲,讲课",
+        "options": [
+          "a.(from,against)安全的,放心的v.得到;防护",
+          "n./v.演讲,讲课",
+          "n.姿势,姿态,手势 v.做手势",
+          "n.特征;容貌;特色;特写 v.以...为特色"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“legere”（收集、选择、阅读），词根lect-意为“选择、收集”。演讲（lecture）原指“阅读”或“朗读”，后引申为通过口头方式“传递精选内容”的正式讲话。核心动作：选择并朗读内容。",
+        "similarWarning": "feature（n.特征，v.以…为特色）：feat-（做） + -ure → 做出的事物 → 特征。区别：lecture侧重“演讲”，feature侧重“特征”。",
+        "extendedMeaning": "表示“冗长的训斥或说教”（如家长或老师对某人的批评性讲话）。例：My mother gave me a lecture about my messy room.（母亲就我房间杂乱训斥了我。）",
+        "examUsage": "考研常考搭配“lecture on/about sth”（关于…的演讲），以及“give/deliver a lecture”（发表演讲）。真题中可能作为干扰项与“speech”（正式发言）、“address”（正式演说）辨析。"
+      }
+    },
+    {
+      "id": "legacy",
+      "word": "legacy",
+      "phonetic": "/'legəsi/",
+      "meaning": "n.遗产，遗赠；先人(或过去)留下的东西",
+      "similar": [
+        "legal",
+        "literacy"
+      ],
+      "question": {
+        "wordId": "legacy",
+        "stem": "选择 \"legacy\" 的正确中文意思：",
+        "correct": "n.遗产，遗赠；先人(或过去)留下的东西",
+        "options": [
+          "v.抵达;(out)伸手,够到 n.能达到的范围",
+          "a.法律的,法定的;合法的,正当的",
+          "n.遗产，遗赠；先人(或过去)留下的东西",
+          "n.有文化,有教养,有读写能力"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 legatus（使者，被派遣者），与 legal（法律的）同源。核心动作是“传递”：法律上指通过遗嘱将财产“传递”给后人，引申为任何从过去“传递”下来的非物质遗产，如文化、技术或思想。",
+        "similarWarning": "legal: 拼写差异为 -al vs -acy，词根 leg-（法律）相同，但 legal 指“法律的”，legacy 强调“传递的结果”。literacy: 拼写差异为 -acy vs -eracy，词根不同，literacy 源自 littera（字母），指“读写能力”。",
+        "extendedMeaning": "考研中常考“非物质遗产”义，如：the legacy of colonialism（殖民主义遗留的问题）；a legacy of distrust（不信任的遗毒）。",
+        "examUsage": "真题常与 leave behind, pass down 等搭配，如：The company left a legacy of innovation.（公司留下了创新的遗产。）注意干扰项常混淆为 legal rights（合法权利）。"
+      }
+    },
+    {
+      "id": "legal",
+      "word": "legal",
+      "phonetic": "/'li:gl/",
+      "meaning": "a.法律的,法定的;合法的,正当的",
+      "similar": [
+        "illegal",
+        "legacy",
+        "deal",
+        "heal",
+        "leak",
+        "lean",
+        "leap",
+        "seal"
+      ],
+      "question": {
+        "wordId": "legal",
+        "stem": "选择 \"legal\" 的正确中文意思：",
+        "correct": "a.法律的,法定的;合法的,正当的",
+        "options": [
+          "n.遗产，遗赠；先人(或过去)留下的东西",
+          "v.处理;做买卖,经营;分配;对待 n.交易",
+          "a.不合法的,非法的",
+          "a.法律的,法定的;合法的,正当的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 leg-（法律）+ -al（形容词后缀，...的）。核心动作/画面：与法律相关的，即“法律的、合法的”。",
+        "similarWarning": "illegal（il-否定 + legal，非法的）；legacy（leg-法律 + -acy，遗产，源于法律术语）；leg（腿，无关）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "legend",
+      "word": "legend",
+      "phonetic": "/'ledʒənd/",
+      "meaning": "n.传说,传奇",
+      "similar": [
+        "defend",
+        "depend"
+      ],
+      "question": {
+        "wordId": "legend",
+        "stem": "选择 \"legend\" 的正确中文意思：",
+        "correct": "n.传说,传奇",
+        "options": [
+          "v.防守,保卫;为…辩护,为…答辩",
+          "n.传说,传奇",
+          "n.衣服(虽为复数，亦不可数)",
+          "v.(on)取决于,依靠,信赖,相信"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语legenda（应读之物），词根leg-（读，收集）。原指中世纪圣徒事迹汇编，供修道院诵读，后引申为流传的传说或传奇人物。",
+        "similarWarning": "lend（借出，词根lend-无关联）；defend（防御，de- + fend-击打）；depend（依赖，de- + pend-悬挂）。注意legend中leg-为‘读’，与lend仅差一字母。",
+        "extendedMeaning": "考研僻义：传奇人物（如a living legend在世传奇）；图例（地图或图表中的说明符号，如map legend）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "legislation",
+      "word": "legislation",
+      "phonetic": "/ˌledʒis'leiʃən/",
+      "meaning": "n.法律(规)；立法，法律的制定(或通过)",
+      "similar": [
+        "regulation",
+        "sensation",
+        "limitation",
+        "meditation",
+        "revelation",
+        "vegetation",
+        "translation"
+      ],
+      "question": {
+        "wordId": "legislation",
+        "stem": "选择 \"legislation\" 的正确中文意思：",
+        "correct": "n.法律(规)；立法，法律的制定(或通过)",
+        "options": [
+          "n.法律(规)；立法，法律的制定(或通过)",
+          "n.限制,局限性",
+          "n.规则,规章;调节,校准;调整",
+          "n.感觉,知觉;激动,轰动,轰动一时的事情"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 legis（法律）+ latio（带来，提出），字面义为“带来法律”。核心物理动作是“将法律文本带到公众面前”，引申为制定法律的过程或结果。",
+        "similarWarning": "regulation (n. 规则，管理)：reg- 表示“统治”，侧重具体细则；legislation 强调立法过程或成文法。sensation (n. 感觉，轰动)：sens- 表示“感觉”，与法律无关。limitation (n. 限制)：limit- 表示“界限”，侧重约束力。",
+        "extendedMeaning": "",
+        "examUsage": "真题常考搭配：introduce/pass legislation（提出/通过立法），如“The government introduced legislation to curb emissions.” 注意与 law（普通法律）区分：legislation 强调立法行为或体系，law 更泛指具体条文。"
+      }
+    },
+    {
+      "id": "legitimate",
+      "word": "legitimate",
+      "phonetic": "/li'dʒitimət/",
+      "meaning": "a.合法的；合理的，合乎逻辑的 vt.使合法",
+      "similar": [
+        "estimate",
+        "negotiate",
+        "hesitate",
+        "initiate",
+        "intimate",
+        "meditate",
+        "ultimate",
+        "eliminate"
+      ],
+      "question": {
+        "wordId": "legitimate",
+        "stem": "选择 \"legitimate\" 的正确中文意思：",
+        "correct": "a.合法的；合理的，合乎逻辑的 vt.使合法",
+        "options": [
+          "v./n.估计,估价;评估",
+          "v.犹豫,踌躇;含糊,支吾",
+          "a.合法的；合理的，合乎逻辑的 vt.使合法",
+          "v.商订；谈判，洽谈，交涉"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根leg-（法律）+ -it-（连接）+ -im-（最高级）+ -ate（动词/形容词后缀）→最符合法律的→合法的。核心物理动作：使某事物在法律框架内成立。",
+        "similarWarning": "estimate（估计，词根estim-价值）、negotiate（谈判，词根neg-否定+oti-空闲）、hesitate（犹豫，词根haes-粘着）、initiate（开始，词根init-起始）、intimate（亲密的，词根intim-最内部的）、meditate（冥想，词根medit-思考）、ultimate（最终的，词根ultim-最远的）、eliminate（消除，词根elimin-门槛）。差异在于词根核心动作不同。",
+        "extendedMeaning": "考研僻义：a.合理的，合乎逻辑的（尤指推理或结论，如legitimate conclusion）；vt.使合法（常接抽象名词，如legitimate a claim）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "leisure",
+      "word": "leisure",
+      "phonetic": "/'lɛʒə/",
+      "meaning": "n.空闲,闲暇;悠闲,安逸",
+      "similar": [
+        "ensure",
+        "lecture",
+        "moisture",
+        "pressure",
+        "reassure",
+        "treasure"
+      ],
+      "question": {
+        "wordId": "leisure",
+        "stem": "选择 \"leisure\" 的正确中文意思：",
+        "correct": "n.空闲,闲暇;悠闲,安逸",
+        "options": [
+          "n.空闲,闲暇;悠闲,安逸",
+          "v.确保,保证;使安全",
+          "n./v.演讲,讲课",
+          "n.潮湿,湿气,湿度"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 licere（被允许），与 license（许可）同源。核心动作是“被允许做的事”，即不受义务约束的时间状态，强调自由支配的非工作时段。",
+        "similarWarning": "pleasure（快乐） vs leisure（闲暇）：pleasure 侧重情感愉悦，leisure 侧重时间自由。measure（测量） vs leisure：measure 含“量度”动作，leisure 无此义。",
+        "extendedMeaning": "考研中常引申为“从容、不紧不慢的状态”，如 at leisure（从容地；失业地），并非仅指空闲时间。",
+        "examUsage": "高频搭配：at leisure（从容地；失业），leisure time（闲暇时间），leisure activities（休闲活动）。真题中常与 work 对举，考查“闲暇与工作”的对比逻辑。"
+      }
+    },
+    {
+      "id": "lemon",
+      "word": "lemon",
+      "phonetic": "/'lemən/",
+      "meaning": "n.柠檬",
+      "similar": [
+        "lean",
+        "lion",
+        "memo",
+        "melon"
+      ],
+      "question": {
+        "wordId": "lemon",
+        "stem": "选择 \"lemon\" 的正确中文意思：",
+        "correct": "n.柠檬",
+        "options": [
+          "n.(memorandum)备忘录",
+          "n.柠檬",
+          "v.倾斜,屈身;倚,靠,依赖 a.瘦的,无脂肪的",
+          "n.狮子"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古法语limon，最早指一种酸柑橘类水果。词根无特殊演变，核心物理动作为“酸涩的果实”，引申为“有缺陷的东西”。",
+        "similarWarning": "形近词辨析：lemon vs. melon（柠檬 vs. 瓜类，首字母不同）；lemon vs. lesson（柠檬 vs. 课程，中间字母差异）；lemon vs. learn（柠檬 vs. 学习，拼写相似但词义无关联）。",
+        "extendedMeaning": "在考研或外刊中，lemon常指“有缺陷的商品”（尤指汽车），源自经济学“柠檬市场”（the market for lemons）理论，表示信息不对称导致的劣质品。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "length",
+      "word": "length",
+      "phonetic": "/leŋθ/",
+      "meaning": "n.长,长度;一段,一节,程度,范围",
+      "similar": [
+        "strength"
+      ],
+      "question": {
+        "wordId": "length",
+        "stem": "选择 \"length\" 的正确中文意思：",
+        "correct": "n.长,长度;一段,一节,程度,范围",
+        "options": [
+          "n.力量；实力；长处，优点；人力；兵力",
+          "n.长,长度;一段,一节,程度,范围",
+          "a.(of)自豪的;引以自豪的;妄自尊大的",
+          "n.消防队员"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语'lengthu'，由词根'leng'（长，与'long'同源）加名词后缀'-th'（表示状态或度量）构成。核心物理动作/画面：某物在空间或时间上延展的线性度量。",
+        "similarWarning": "与'strength'（力量）仅首字母不同：'l'（length）对应's'（strength）。辨析：length强调尺寸或距离，strength强调体力或强度。",
+        "extendedMeaning": "在考研阅读中常引申为'（时间的）长度'或'（文章的）篇幅'，如'the length of the article'（文章篇幅）；也可指'程度'或'范围'，如'at length'意为'详细地'或'最终'。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lens",
+      "word": "lens",
+      "phonetic": "/lenz/",
+      "meaning": "n.透镜,镜头",
+      "similar": [
+        "blend",
+        "bless",
+        "dense",
+        "jeans",
+        "lease",
+        "means",
+        "tense"
+      ],
+      "question": {
+        "wordId": "lens",
+        "stem": "选择 \"lens\" 的正确中文意思：",
+        "correct": "n.透镜,镜头",
+        "options": [
+          "a.浓厚的,密集的,稠密的",
+          "n.透镜,镜头",
+          "n.混合(物) v.混和,混杂",
+          "v.祝福,保佑"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'lens'（扁豆），因双凸透镜的形状与扁豆相似，故用其指代透镜或镜头。",
+        "similarWarning": "lend（借出） vs lens（透镜）：lend以d结尾，表示动作；lens以s结尾，指物体。less（更少） vs lens：less以ss结尾，表示程度；lens以ns结尾，指光学器件。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lest",
+      "word": "lest",
+      "phonetic": "/lest/",
+      "meaning": "conj.惟恐,免得",
+      "similar": [
+        "best",
+        "nest",
+        "pest",
+        "vest",
+        "west",
+        "alert",
+        "beast",
+        "blast"
+      ],
+      "question": {
+        "wordId": "lest",
+        "stem": "选择 \"lest\" 的正确中文意思：",
+        "correct": "conj.惟恐,免得",
+        "options": [
+          "conj.惟恐,免得",
+          "a.最好的(good和well最高级) ad.最好地；",
+          "n.窝,巢 v.筑巢",
+          "n.害虫"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "lest 源自中古英语，可能由短语“the less that”缩合而来，核心逻辑是“以免发生某事”，表达一种为了避免某种负面后果而采取预防措施的因果关系。",
+        "similarWarning": "lest vs least: lest 意为“免得”，least 意为“最少的”。两者拼写仅差一个字母 'a'，但词义和用法完全不同。lest 是连词，引导从句；least 是形容词/副词，表示程度。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lever",
+      "word": "lever",
+      "phonetic": "/'li:və/",
+      "meaning": "n.杆,杠杆,手段,途径,工具",
+      "similar": [
+        "clever",
+        "fever",
+        "liver",
+        "lover",
+        "eleven",
+        "severe",
+        "eve",
+        "beer"
+      ],
+      "question": {
+        "wordId": "lever",
+        "stem": "选择 \"lever\" 的正确中文意思：",
+        "correct": "n.杆,杠杆,手段,途径,工具",
+        "options": [
+          "n.肝,肝脏",
+          "a.聪明的,伶俐的,机敏的,精巧的",
+          "n.发热,狂热",
+          "n.杆,杠杆,手段,途径,工具"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“levare”（升起、举起），词根lev-（升、举）+-er（表工具/物）。核心物理动作：利用杆的支点将重物“举起”，引申为达到目的的工具或手段。",
+        "similarWarning": "lever vs level：lever（杠杆）含“er”表工具；level（水平）含“el”表平坦。lever vs liver：lever（杠杆）中间为“ev”；liver（肝脏）中间为“iv”。",
+        "extendedMeaning": "（考研僻义）手段、途径：指用于施加影响或达成目标的非物理性工具。例：use sth as a lever to do sth（利用某事作为做某事的杠杆/手段）。",
+        "examUsage": "（真题考点）常考搭配“exert leverage on/over”（对…施加影响/杠杆作用），或“economic lever”（经济杠杆）。注意其动词用法“lever sth into/out of”（撬动/推动）。"
+      }
+    },
+    {
+      "id": "levy",
+      "word": "levy",
+      "phonetic": "/'levi/",
+      "meaning": "n.征收,征税,征兵 v.征收,征集,征用",
+      "similar": [
+        "lever"
+      ],
+      "question": {
+        "wordId": "levy",
+        "stem": "选择 \"levy\" 的正确中文意思：",
+        "correct": "n.征收,征税,征兵 v.征收,征集,征用",
+        "options": [
+          "n.杆,杠杆,手段,途径,工具",
+          "n.征收,征税,征兵 v.征收,征集,征用",
+          "n.提及,涉及;参考,参考书目;证明书（人）",
+          "v.使沉溺；使上瘾 n.沉溺于不良嗜好的人"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源于拉丁语levare（举起、提高），核心物理动作为“举起”。征税即“提高”税额，征兵即“征集”人员，本质是向上“举起”以聚拢资源。",
+        "similarWarning": "形近词辨析：heavy（沉重的，a.） vs. levy（征收，v./n.），区别在字母‘h’与‘l’；leave（离开，v.） vs. levy，区别在字母‘a’与‘y’及词尾变化；level（水平，n./v.） vs. levy，区别在字母‘l’与‘y’及词尾‘el’；lever（杠杆，n.） vs. levy，区别在字母‘r’与‘y’及词尾‘er’。核心记忆点：levy强调“拿起”动作，而其他词无此核心意象。",
+        "extendedMeaning": "考研僻义：在真题中常引申为“征收（税款、罚款）”或“征集（资源、人力）”，如levy a fine（处以罚款），而非仅指征税。",
+        "examUsage": "真题考点：常与impose、collect等近义词形成干扰项。经典搭配：levy a tax on sth.（对……征税）；levy troops（征兵）。真题例句：The government decided to levy a new tax on luxury goods.（政府决定对奢侈品征收新税。）"
+      }
+    },
+    {
+      "id": "liability",
+      "word": "liability",
+      "phonetic": "/ˌlaɪə'bɪləti/",
+      "meaning": "n.责任,义务;(pl.)债务",
+      "similar": [
+        "ability",
+        "stability",
+        "facility",
+        "probability"
+      ],
+      "question": {
+        "wordId": "liability",
+        "stem": "选择 \"liability\" 的正确中文意思：",
+        "correct": "n.责任,义务;(pl.)债务",
+        "options": [
+          "n.灵巧,熟练;(pl.)设备,设施,便利条件",
+          "n.稳定,安定",
+          "n.能力；本领；才能；专门技能，天资",
+          "n.责任,义务;(pl.)债务"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语ligare（绑，束缚）。词根lig-（绑）→liable（有责任的，受约束的）→liability（责任状态）。核心动作：被法律或义务“绑定”的状态。",
+        "similarWarning": "ability（能力，-ity后缀）vs liability（责任，词根lig-）；stability（稳定，词根sta-站）vs liability；facility（设施，词根fac-做）vs liability。差异在于词根：lig-（绑）vs ab-（离开）vs sta-（站）vs fac-（做）。",
+        "extendedMeaning": "考研僻义：常考“债务”复数形式liabilities（负债），与assets（资产）对应，出现在财务报表或商业语境中。",
+        "examUsage": "常见真题考点：固定搭配“liability for”（对...的责任），如“liability for damage”（损害责任）。干扰项常与ability混淆，注意上下文是“责任”还是“能力”。"
+      }
+    },
+    {
+      "id": "liable",
+      "word": "liable",
+      "phonetic": "/'laiəbl/",
+      "meaning": "a.有...倾向的；可能遭受...的；有责任的",
+      "similar": [
+        "reliable",
+        "amiable",
+        "disable",
+        "able",
+        "bible",
+        "cable",
+        "fable",
+        "enable"
+      ],
+      "question": {
+        "wordId": "liable",
+        "stem": "选择 \"liable\" 的正确中文意思：",
+        "correct": "a.有...倾向的；可能遭受...的；有责任的",
+        "options": [
+          "a.可靠的,可信赖的,确实的",
+          "a.有...倾向的；可能遭受...的；有责任的",
+          "a.和蔼可亲的，友善的，亲切的",
+          "vt.使残废;使失去能力;丧失能力"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根lig-（绑）→ liable（能绑住的）→ 被法律或义务绑住，引申为“有责任的”；被某种结果绑住，引申为“有…倾向的；易遭受…的”。核心动作：被束缚。",
+        "similarWarning": "liable vs. reliable: li-（绑）vs. re-（再）+li-（绑）→ reliable（可再绑的→可靠的）。差异：liable侧重“易受影响/责任”，reliable侧重“可依赖”。",
+        "extendedMeaning": "liable to（易遭受…）在考研阅读中常表“易受批评/疾病等负面结果”，如 be liable to criticism（易受批评），非普通“有责任”。",
+        "examUsage": "考点：be liable for（对…负责）vs. be liable to（易…）。真题干扰项常混淆 liable 与 likely（likely 表概率，无责任义）。"
+      }
+    },
+    {
+      "id": "liberal",
+      "word": "liberal",
+      "phonetic": "/'libərəl/",
+      "meaning": "a.慷慨的,大方的;富足的;自由的,思想开放的",
+      "similar": [
+        "liberate",
+        "lateral",
+        "liberty",
+        "mineral",
+        "literally",
+        "literacy",
+        "literary"
+      ],
+      "question": {
+        "wordId": "liberal",
+        "stem": "选择 \"liberal\" 的正确中文意思：",
+        "correct": "a.慷慨的,大方的;富足的;自由的,思想开放的",
+        "options": [
+          "a.慷慨的,大方的;富足的;自由的,思想开放的",
+          "vt.解放,释放",
+          "n.侧面的,旁边的",
+          "n.自由，自由权；特权"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根liber-（自由）+ -al（形容词后缀）。本义为“自由的”，引申为“思想开放的”，再引申为“慷慨的”（给予自由或资源）。核心动作：给予自由。",
+        "similarWarning": "liberate（v.解放）与liberal共享词根，但liberate强调“使自由”的动作；lateral（a.侧面的）拼写相似但词根不同，无“自由”含义。",
+        "extendedMeaning": "在考研中，liberal常考“自由的，开放的”这一政治哲学含义，如liberal democracy（自由民主）；此外，在经济学语境中可指“自由主义的”，与“conservative”（保守的）相对。",
+        "examUsage": "真题中常出现搭配：liberal arts（文科），如“liberal arts education”（博雅教育），区别于“vocational education”（职业教育）。"
+      }
+    },
+    {
+      "id": "liberate",
+      "word": "liberate",
+      "phonetic": "/'libəreit/",
+      "meaning": "vt.解放,释放",
+      "similar": [
+        "deliberate",
+        "liberal",
+        "liberty",
+        "vibrate",
+        "illiterate",
+        "literature",
+        "elaborate",
+        "pirate"
+      ],
+      "question": {
+        "wordId": "liberate",
+        "stem": "选择 \"liberate\" 的正确中文意思：",
+        "correct": "vt.解放,释放",
+        "options": [
+          "a.深思熟虑的,故意的 vt.研讨,商讨",
+          "vt.解放,释放",
+          "a.慷慨的,大方的;富足的;自由的,思想开放的",
+          "n.自由，自由权；特权"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根liber-（自由）+ -ate（动词后缀）。核心动作：使获得自由，即从束缚中解放出来。",
+        "similarWarning": "deliberate（故意的；深思熟虑的）：前缀de-（加强）+ liber-（权衡）+ -ate，强调“仔细权衡”。liberate（解放）则直接源于“自由”。对比：deliberate含“权衡”动作，liberate含“自由”状态。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "liberty",
+      "word": "liberty",
+      "phonetic": "/'libəti/",
+      "meaning": "n.自由，自由权；特权",
+      "similar": [
+        "liberate",
+        "liberal",
+        "literacy",
+        "literary"
+      ],
+      "question": {
+        "wordId": "liberty",
+        "stem": "选择 \"liberty\" 的正确中文意思：",
+        "correct": "n.自由，自由权；特权",
+        "options": [
+          "n.自由，自由权；特权",
+          "vt.解放,释放",
+          "a.慷慨的,大方的;富足的;自由的,思想开放的",
+          "n.有文化,有教养,有读写能力"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根liber-（自由）+ -ty（名词后缀）。源自拉丁语libertas，核心动作是“从束缚中释放”，强调不受限制的状态。",
+        "similarWarning": "liberate（v.解放）与liberty同根，强调动作过程；liberal（adj.自由的，开明的）侧重思想态度；literacy（n.读写能力）词根liter-（文字），与liberty无关；literary（adj.文学的）亦源自liter-。",
+        "extendedMeaning": "考研中常引申为“特权，特许权”，如civil liberties（公民自由权），非字面“自由”概念。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "librarian",
+      "word": "librarian",
+      "phonetic": "/lai'brεəriən/",
+      "meaning": "n.图书管理员",
+      "similar": [],
+      "question": {
+        "wordId": "librarian",
+        "stem": "选择 \"librarian\" 的正确中文意思：",
+        "correct": "n.图书管理员",
+        "options": [
+          "v./n.敬礼,鸣礼炮;迎接,欢迎",
+          "n.歌剧",
+          "n.（文章等）前后关系；(事件等的)背景",
+          "n.图书管理员"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 librarius（书的），由 liber（书，原指树皮，因古罗马人用树皮写字）加 -arius（与...有关的）构成名词，后加 -an（人）表示职业。核心动作：与书相关的人。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "license",
+      "word": "license",
+      "phonetic": "/'laisəns/",
+      "meaning": "n.(licence)许可证,执照 v.准许,认可",
+      "similar": [
+        "likewise"
+      ],
+      "question": {
+        "wordId": "license",
+        "stem": "选择 \"license\" 的正确中文意思：",
+        "correct": "n.(licence)许可证,执照 v.准许,认可",
+        "options": [
+          "num./n.百万,百万个",
+          "ad.同样地,照样地;又,也,而且",
+          "n.(licence)许可证,执照 v.准许,认可",
+          "num.十一 pron./a.十一(个，只...)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语'licentia'（自由），由'licere'（被允许）派生，核心物理动作是'被放开、被允许'。词根lic-表示'允许'，后缀-ence/-ense表状态。许可即被授予自由去做某事，执照是允许的书面证明。",
+        "similarWarning": "likewise（同样地）与license拼写相似但词义无关。likewise由like（像）+wise（方式）构成，意为'同样地'；license核心在'允许'。注意字母's'的位置差异：license中'c'后接'e'，likewise中'k'后接'e'。",
+        "extendedMeaning": "考研中常考'license'作为动词表示'放纵、不受约束'，如'poetic license'（诗的破格/创作自由），非字面'许可'义。",
+        "examUsage": "真题考点：'under license'（经许可）、'license plate'（车牌）。干扰项常将'license'与'liberty'混淆，注意license强调官方许可，liberty强调个人自由。"
+      }
+    },
+    {
+      "id": "lick",
+      "word": "lick",
+      "phonetic": "/lik/",
+      "meaning": "vt.舔；(火焰或浪)掠过；打败 n.舔；少量",
+      "similar": [
+        "click",
+        "kick",
+        "lack",
+        "link",
+        "lock",
+        "luck",
+        "pick",
+        "tick"
+      ],
+      "question": {
+        "wordId": "lick",
+        "stem": "选择 \"lick\" 的正确中文意思：",
+        "correct": "vt.舔；(火焰或浪)掠过；打败 n.舔；少量",
+        "options": [
+          "vt.舔；(火焰或浪)掠过；打败 n.舔；少量",
+          "n.滴答声；vi.发出滴答声",
+          "n./v.踢",
+          "n./v.缺乏,不足"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "古英语liccian，拟声词根，模拟舌头快速触碰物体的声音动作。核心物理动作为“舌头水平移动并接触表面”，引申为火焰/浪花“轻触掠过”，口语中“打败”源于对手被“舔舐”般的压制（非正式用法）。",
+        "similarWarning": "lack（缺少，字母c→k）: 缺乏 vs 舔舐动作；sick（生病，字母l→s）: 疾病状态 vs 舌头动作。注意lick含“接触”义，lack强调“缺失”状态。",
+        "extendedMeaning": "a lick of paint（少量油漆）: 表示极少量涂抹；lick into shape（使成形/整顿）: 源自熊舔幼崽使其成形的传说，喻指逐渐改进。",
+        "examUsage": "真题考点：短语lick one's wounds（舔伤口/重整旗鼓）常作为态度题选项，如2010年Text2中“lick their wounds”喻指失败后恢复。"
+      }
+    },
+    {
+      "id": "lid",
+      "word": "lid",
+      "phonetic": "/lid/",
+      "meaning": "n.盖",
+      "similar": [
+        "aid",
+        "bid",
+        "kid",
+        "lad",
+        "lip",
+        "rid",
+        "blind",
+        "fluid"
+      ],
+      "question": {
+        "wordId": "lid",
+        "stem": "选择 \"lid\" 的正确中文意思：",
+        "correct": "n.盖",
+        "options": [
+          "n.小孩,儿童 v.戏弄,取笑",
+          "v.祝愿;命令,吩咐;报价,投标 n.出众,投标",
+          "n.援助，救护；助手，辅助物 vi.援助，救援",
+          "n.盖"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自中古英语lidde，原指眼皮或覆盖物，核心动作是“覆盖”。词根与德语Lid（眼皮）同源，强调物理上的封闭或遮挡功能。",
+        "similarWarning": "形近词对比：lid（盖） vs. lad（小伙子） vs. lip（嘴唇） vs. rid（摆脱）。差异在元音或末尾辅音：lid/lad元音i/a不同；lid/lip末尾d/p不同；lid/rid首字母l/r不同。",
+        "extendedMeaning": "在考研阅读中常引申为“眼睑”（eyelid），如“the lid of the eye”，或比喻“限制/抑制”，如“keep a lid on”（控制/保密）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lifetime",
+      "word": "lifetime",
+      "phonetic": "/'laiftaim/",
+      "meaning": "n.一生,终生",
+      "similar": [
+        "likewise",
+        "sometime"
+      ],
+      "question": {
+        "wordId": "lifetime",
+        "stem": "选择 \"lifetime\" 的正确中文意思：",
+        "correct": "n.一生,终生",
+        "options": [
+          "n.(pl.formulae)公式;规则;分子式;药方",
+          "ad.同样地,照样地;又,也,而且",
+          "ad.将来(或过去)某个时候a.以前的",
+          "n.一生,终生"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由life（生命）和time（时间）复合而成，直译为“生命的时间”，即从出生到死亡的整个时间段，核心动作为“生命持续的时间跨度”。",
+        "similarWarning": "likewise（同样地，adv.）与lifetime拼写相似但词性不同；sometime（某个时候，adv./adj.）与lifetime字母构成不同，注意区分。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lift",
+      "word": "lift",
+      "phonetic": "/lift/",
+      "meaning": "v.升起,举起,消散 n.电梯,上升,免费搭车",
+      "similar": [
+        "gift",
+        "cliff",
+        "drift",
+        "fifty",
+        "limit",
+        "lofty",
+        "shift",
+        "swift"
+      ],
+      "question": {
+        "wordId": "lift",
+        "stem": "选择 \"lift\" 的正确中文意思：",
+        "correct": "v.升起,举起,消散 n.电梯,上升,免费搭车",
+        "options": [
+          "n.礼品,赠品;天赋,才能",
+          "n.悬崖;峭壁",
+          "v.升起,举起,消散 n.电梯,上升,免费搭车",
+          "v./n.漂,漂流(物)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "lift 源自中古英语，与古诺尔斯语 lypta（举起）同源，核心物理动作为“向上抬升”。词根演变直接，无复杂词缀，强调垂直方向的移动或提升。",
+        "similarWarning": "gift（礼物）、left（左边）、life（生活）、list（列表）、cliff（悬崖）、drift（漂流）、fifty（五十）、light（光、轻的）。差异主要在首字母或尾字母，注意拼写混淆。",
+        "extendedMeaning": "考研僻义：1. 消散（如云雾、情绪）：The fog lifted.（雾散了。）2. 剽窃：to lift ideas from others.（抄袭他人想法。）",
+        "examUsage": "真题考点：1. give sb. a lift（让某人搭便车；使某人振奋）常作为阅读理解中态度题或细节题的关键短语。2. lift the ban/restrictions（解除禁令/限制），用于政治经济类文章。"
+      }
+    },
+    {
+      "id": "lightning",
+      "word": "lightning",
+      "phonetic": "/'laitniŋ/",
+      "meaning": "n.闪电 a.闪电般的,快速的",
+      "similar": [
+        "sightseeing"
+      ],
+      "question": {
+        "wordId": "lightning",
+        "stem": "选择 \"lightning\" 的正确中文意思：",
+        "correct": "n.闪电 a.闪电般的,快速的",
+        "options": [
+          "n.不足,缺少",
+          "n.牙医",
+          "n.观光,游览",
+          "n.闪电 a.闪电般的,快速的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自light（光）+ -ning（名词后缀，表动作结果），核心物理动作为“光闪现象”，即闪电是天空中瞬间发出的强光。引申为“极快的”，如闪电般迅速。",
+        "similarWarning": "lightning与sightseeing（观光）拼写相似，但lightning核心是light（光），sightseeing是sight（景色）+ seeing（看）。注意lightning无“e”，sightseeing有“e”且为复合词。",
+        "extendedMeaning": "考研中常考其形容词义“闪电般的，快速的”，如lightning speed（极快的速度），而非仅限于名词“闪电”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "like",
+      "word": "like",
+      "phonetic": "/laik/",
+      "meaning": "v.喜欢 prep.象；比如 a.相象的 n.象…一样",
+      "similar": [
+        "alike",
+        "hike",
+        "lake",
+        "live",
+        "unlike",
+        "alive",
+        "elite",
+        "glide"
+      ],
+      "question": {
+        "wordId": "like",
+        "stem": "选择 \"like\" 的正确中文意思：",
+        "correct": "v.喜欢 prep.象；比如 a.相象的 n.象…一样",
+        "options": [
+          "n.湖泊，湖水",
+          "n.徒步旅行；增加vi.徒步旅行vt.提高",
+          "a.同样的，相像的ad.一样地；同程度地",
+          "v.喜欢 prep.象；比如 a.相象的 n.象…一样"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "like 源自古英语 līcian，意为“使愉悦”，核心物理动作是“趋向、符合”。词根 lik- 表示“相似、趋向”，引申为“喜欢”即情感趋向某物；介词“像”即形态或性质趋向相同。",
+        "similarWarning": "alike (a./adv. 相似的/地): 前缀 a- 表加强，强调状态相似。lie (v. 躺/说谎): 与 like 差字母 k，动作无趋向性。hike (v./n. 徒步): 首字母 h 替换 l，与“趋向”无关。",
+        "extendedMeaning": "like 在考研中常考“比如”引导举例（如 such as 的同义替换），或作连词“好像”引导方式状语从句（如 It looks like...）。",
+        "examUsage": "固定搭配：feel like doing sth. 想要做某事（真题中常考 like 后接动名词）。例句：I feel like going for a walk.（考研阅读中表示主观意愿的常见表达）"
+      }
+    },
+    {
+      "id": "likelihood",
+      "word": "likelihood",
+      "phonetic": "/'laiklihud/",
+      "meaning": "n.可能性",
+      "similar": [],
+      "question": {
+        "wordId": "likelihood",
+        "stem": "选择 \"likelihood\" 的正确中文意思：",
+        "correct": "n.可能性",
+        "options": [
+          "a.总的,毛(重)的;粗鲁的,粗俗的 n.总额",
+          "n.白天,日间",
+          "a./ad.更坏,更差(的/地)",
+          "n.可能性"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "likelihood = like (像) + -li- (连接字母) + -hood (状态，性质)。核心逻辑：like 表示‘像，相似’，-hood 表示‘状态’。因此 likelihood 字面意思是‘像真的状态’，即‘可能性’。词源上，like 源于古英语 gelic (形状相同的)，-hood 是抽象名词后缀，组合后强调某事物可能发生的性质。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中，likelihood 常出现在‘high likelihood’‘low likelihood’等短语中，表示‘高/低可能性’，用于描述概率或趋势，如‘the likelihood of success’（成功的可能性）。无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "likewise",
+      "word": "likewise",
+      "phonetic": "/'laikwaiz/",
+      "meaning": "ad.同样地,照样地;又,也,而且",
+      "similar": [
+        "license",
+        "lifetime"
+      ],
+      "question": {
+        "wordId": "likewise",
+        "stem": "选择 \"likewise\" 的正确中文意思：",
+        "correct": "ad.同样地,照样地;又,也,而且",
+        "options": [
+          "n.一生,终生",
+          "ad.同样地,照样地;又,也,而且",
+          "n.(licence)许可证,执照 v.准许,认可",
+          "n.框架;体格;骨架;组织;机构 v.设计;制定"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "like（像）+ wise（方式、方向）→ 以相同的方式 → 同样地。wise本义为“方式、样子”，与like结合，直指动作或状态的相似性。",
+        "similarWarning": "license（许可）与likewise拼写差异在‘cense’ vs ‘kewise’，词义无关；lifetime（一生）与likewise仅首字母‘lif’相似，注意区分语义。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "limb",
+      "word": "limb",
+      "phonetic": "/lim/",
+      "meaning": "n.肢,翼,大树枝",
+      "similar": [
+        "climb",
+        "lamb",
+        "limp",
+        "limit"
+      ],
+      "question": {
+        "wordId": "limb",
+        "stem": "选择 \"limb\" 的正确中文意思：",
+        "correct": "n.肢,翼,大树枝",
+        "options": [
+          "a.柔软的,易曲的 v./n.蹒跚,跛行",
+          "n.羔羊,小羊;羔羊肉",
+          "v./n.攀登,爬",
+          "n.肢,翼,大树枝"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "limb 源自古英语 lim，意为“肢、分支”，核心物理动作是“从主干分出的部分”。用于指人或动物的四肢（如手臂、腿）或树的粗枝，强调从主体延伸出的附属结构。",
+        "similarWarning": "climb（v.爬，攀爬）：c-可联想为“爬”的动作前缀。lamb（n.羔羊）：a-替换i，指小羊。limp（v.跛行）：p-替换b，指跛行时四肢不协调。limit（n.界限）：-it后缀，与长度/边界相关。",
+        "extendedMeaning": "在考研阅读中，limb 可引申为“（组织的）分支机构、派系”或“（计划、理论的）延伸部分”，如 political limb（政治分支）。",
+        "examUsage": "常考搭配：out on a limb（处于孤立无援的境地；冒险），如 He went out on a limb to defend the policy.（他冒险为政策辩护。）真题中可能作为干扰项，与 branch 辨析。"
+      }
+    },
+    {
+      "id": "limit",
+      "word": "limit",
+      "phonetic": "/'limit/",
+      "meaning": "n.界限,限度,范围 v.(to)限制,限定",
+      "similar": [
+        "limited",
+        "emit",
+        "lift",
+        "limb",
+        "limp",
+        "omit",
+        "admit",
+        "timid"
+      ],
+      "question": {
+        "wordId": "limit",
+        "stem": "选择 \"limit\" 的正确中文意思：",
+        "correct": "n.界限,限度,范围 v.(to)限制,限定",
+        "options": [
+          "n.界限,限度,范围 v.(to)限制,限定",
+          "v.升起,举起,消散 n.电梯,上升,免费搭车",
+          "a.有限的,被限制的",
+          "vt.发出;放射;吐露;散发;发表;发行"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根lim-（边界、门槛）+ -it（名词或动词后缀）。核心动作是“设定边界”，即划定一个不可逾越的范围或数量，引申为限制、限定。",
+        "similarWarning": "limited（adj.有限的）- limit + ed；emit（v.发出）- e（向外）+ mit（送）；lift（v.举起）- 与limit拼写不同；limb（n.肢体）- 与limit拼写不同；limp（v.跛行）- 与limit拼写不同；list（n.列表）- 与limit拼写不同；omit（v.省略）- o（离开）+ mit（送）；admit（v.承认）- ad（向）+ mit（送）。注意limit与admit、omit等词根不同，limit的lim-与mit无关。",
+        "extendedMeaning": "在考研中，limit的僻义较少，主要作为核心词义使用。注意其名词形式可指“极限”或“限制条件”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "limitation",
+      "word": "limitation",
+      "phonetic": "/ˌlɪmɪ'teɪʃn/",
+      "meaning": "n.限制,局限性",
+      "similar": [
+        "imitation",
+        "dictation",
+        "invitation",
+        "meditation",
+        "temptation",
+        "combination",
+        "imagination",
+        "implication"
+      ],
+      "question": {
+        "wordId": "limitation",
+        "stem": "选择 \"limitation\" 的正确中文意思：",
+        "correct": "n.限制,局限性",
+        "options": [
+          "n.邀请,招待;请柬",
+          "n.听写,口述;命令",
+          "n.模仿,仿效;仿制;仿造品",
+          "n.限制,局限性"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 limes（边界、界限），通过动词 limit（限制）派生为名词 limitation，核心动作是“划定边界”，因此本义为“限制行为”或“被限制的状态”，即“局限性”。",
+        "similarWarning": "与 imitation（模仿）、dictation（听写）、invitation（邀请）、meditation（冥想）、temptation（诱惑）、combination（组合）、imagination（想象）、implication（含义）拼写相似，区别在于前缀/词根：limit-（界限）vs imit-（模仿）、dict-（说）、invit-（邀请）、meditat-（沉思）、tempt-（诱惑）、combin-（组合）、imagin-（想象）、implic-（折叠）。",
+        "extendedMeaning": "考研中常引申为“缺陷、弱点”（指能力或资源的不足），如“technical limitation”（技术缺陷），而非仅指“限制行为”。",
+        "examUsage": "常考搭配“limitation of liability”（责任限制）及“without limitation”（无限制地），在真题中常作为法律或商业条款中的核心题眼。"
+      }
+    },
+    {
+      "id": "limited",
+      "word": "limited",
+      "phonetic": "/'limitid/",
+      "meaning": "a.有限的,被限制的",
+      "similar": [
+        "limit"
+      ],
+      "question": {
+        "wordId": "limited",
+        "stem": "选择 \"limited\" 的正确中文意思：",
+        "correct": "a.有限的,被限制的",
+        "options": [
+          "a.有限的,被限制的",
+          "n.界限,限度,范围 v.(to)限制,限定",
+          "n.奖学金;学问,学识",
+          "v.爬,爬行;(植物)蔓延"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根limit意为“界限”，-ed形容词后缀，表“被加上界限的”，即有限的。核心物理动作是划定边界，使范围受限。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中，常引申为“（能力、资源等）不足的，不充分的”，如limited resources（有限的资源），强调数量或程度上的欠缺。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "limp",
+      "word": "limp",
+      "phonetic": "/limp/",
+      "meaning": "a.柔软的,易曲的 v./n.蹒跚,跛行",
+      "similar": [
+        "lip",
+        "lamp",
+        "limb",
+        "lump",
+        "climb",
+        "limit"
+      ],
+      "question": {
+        "wordId": "limp",
+        "stem": "选择 \"limp\" 的正确中文意思：",
+        "correct": "a.柔软的,易曲的 v./n.蹒跚,跛行",
+        "options": [
+          "a.柔软的,易曲的 v./n.蹒跚,跛行",
+          "n.嘴唇",
+          "n.灯",
+          "n.肢,翼,大树枝"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，核心物理动作：肢体无力、缺乏刚性。形容词义指物体柔软易曲（如limp cloth），动词义指因腿脚受伤或无力而一瘸一拐地行走（身体倾斜、步态不稳）。",
+        "similarWarning": "limb n. 肢（手臂/腿）；lump n. 肿块；climb v. 攀登（加c-前缀）。对比：limp强调柔软/跛行；limb强调身体部位；lump强调团块；climb强调向上动作。",
+        "extendedMeaning": "1.（经济/市场）疲软、不振：The economy is limp. 2.（态度/反应）无力的、缺乏活力的：a limp response.",
+        "examUsage": "考研真题中常考动词短语：limp along（艰难地维持、勉强运行）。例：The business limped along for months.（公司勉强维持了几个月。）"
+      }
+    },
+    {
+      "id": "linear",
+      "word": "linear",
+      "phonetic": "/'liniə/",
+      "meaning": "a.线的，直线的，线状的；长度的；线性的",
+      "similar": [
+        "liner",
+        "vinegar",
+        "linen",
+        "liver",
+        "lunar",
+        "linger",
+        "literary"
+      ],
+      "question": {
+        "wordId": "linear",
+        "stem": "选择 \"linear\" 的正确中文意思：",
+        "correct": "a.线的，直线的，线状的；长度的；线性的",
+        "options": [
+          "a.线的，直线的，线状的；长度的；线性的",
+          "n.班机,定期轮船,邮船",
+          "n.醋",
+          "n.亚麻布,亚麻布制品"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 linea（线），由 line（线）+ -ar（形容词后缀，表示“与...有关的”）构成。核心动作/画面：一条连续的线，强调直线、线性的概念，与非线性（nonlinear）相对。",
+        "similarWarning": "liner（n.班轮，衬垫）与 linear 仅差一个字母 r，liner 指大型客轮或内衬；vinegar（n.醋）拼写相似但词义无关；line（n.线）是去掉 -ar 的名词形式；near（adj.近的）拼写接近但词源不同；linen（n.亚麻布）与 linear 共享 lin- 但含义不同；liver（n.肝脏）仅差一个字母；lunar（adj.月球的）与 linear 拼写接近但词根不同；linger（v.逗留）拼写相似但无词源关联。",
+        "extendedMeaning": "在考研英语中常引申为“线性的”（如 linear equation 线性方程）或“按时间顺序的、逐步的”（如 linear thinking 线性思维），与“非线性”相对，强调简单、直接、无分支的进程。",
+        "examUsage": "常见搭配：linear relationship（线性关系），linear growth（线性增长）。真题例句：The process is not linear but involves constant feedback.（该过程不是线性的，而是涉及持续反馈。）"
+      }
+    },
+    {
+      "id": "linen",
+      "word": "linen",
+      "phonetic": "/'lɪnɪn/",
+      "meaning": "n.亚麻布,亚麻布制品",
+      "similar": [
+        "liner",
+        "linear",
+        "linger",
+        "listen",
+        "inn",
+        "dine",
+        "lane",
+        "like"
+      ],
+      "question": {
+        "wordId": "linen",
+        "stem": "选择 \"linen\" 的正确中文意思：",
+        "correct": "n.亚麻布,亚麻布制品",
+        "options": [
+          "v.逗留,徘徊,拖延,留恋,浪费光阴,苟延残喘",
+          "n.亚麻布,亚麻布制品",
+          "a.线的，直线的，线状的；长度的；线性的",
+          "n.班机,定期轮船,邮船"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语linum（亚麻），原指亚麻植物纤维制成的布料。词根lin-（亚麻）+ -en（形容词/名词后缀，表示“由…制成的”），核心动作/画面：由亚麻纤维纺线织成的布料。",
+        "similarWarning": "形近词辨析：line（线，n.） vs linen（亚麻布，n.）——差字母n，line是抽象/具体线，linen是具体布料；liner（班轮，n.） vs linen——差字母r，liner指大型客轮；linear（线性的，adj.） vs linen——差字母ar，linear强调直线性质；linger（逗留，v.） vs linen——差字母g，linger指动作持续；listen（听，v.） vs linen——差字母st，listen是听觉动作；inn（小旅馆，n.） vs linen——差字母e，inn是地点；lie（躺/说谎，v.） vs linen——差字母n，lie是动词；dine（进餐，v.） vs linen——差字母d，dine是进食动作。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "liner",
+      "word": "liner",
+      "phonetic": "/'lainə/",
+      "meaning": "n.班机,定期轮船,邮船",
+      "similar": [
+        "linear",
+        "linger",
+        "linen",
+        "liver",
+        "dinner",
+        "finger",
+        "hinder",
+        "litter"
+      ],
+      "question": {
+        "wordId": "liner",
+        "stem": "选择 \"liner\" 的正确中文意思：",
+        "correct": "n.班机,定期轮船,邮船",
+        "options": [
+          "n.班机,定期轮船,邮船",
+          "a.线的，直线的，线状的；长度的；线性的",
+          "v.逗留,徘徊,拖延,留恋,浪费光阴,苟延残喘",
+          "n.亚麻布,亚麻布制品"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根line（线）加名词后缀-er。核心动作是“沿固定线路运行”，由此衍生出“班机、定期轮船”等按固定路线运营的交通工具。",
+        "similarWarning": "linear（线性的）：与liner相差字母a，强调“线”的形容词形式；linger（逗留）：与liner相差字母g，意为“徘徊、缓慢消失”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "linger",
+      "word": "linger",
+      "phonetic": "/'liŋgə/",
+      "meaning": "v.逗留,徘徊,拖延,留恋,浪费光阴,苟延残喘",
+      "similar": [
+        "liner",
+        "finger",
+        "anger",
+        "hinge",
+        "infer",
+        "inner",
+        "linen",
+        "liver"
+      ],
+      "question": {
+        "wordId": "linger",
+        "stem": "选择 \"linger\" 的正确中文意思：",
+        "correct": "v.逗留,徘徊,拖延,留恋,浪费光阴,苟延残喘",
+        "options": [
+          "v.逗留,徘徊,拖延,留恋,浪费光阴,苟延残喘",
+          "n.班机,定期轮船,邮船",
+          "n.愤怒，气愤 vt.使发怒，激怒 vi.发怒",
+          "n.手指;指状物;指针"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语longus（长），通过古法语lengier（延长）演变。核心物理动作是“拉长时间/延伸停留”，强调在某个状态或地点上比预期更久，如逗留、拖延、留恋。",
+        "similarWarning": "linger vs. liner：linger多一个g，表示“逗留”；liner是“班轮/衬垫”，源自line（线）。linger vs. finger：f开头指“手指”，l开头指“拖延”。",
+        "extendedMeaning": "考研僻义：苟延残喘（如linger on life support）、缓慢消失（如the tradition lingers）、磨蹭（linger over a task）。",
+        "examUsage": "真题考点：linger on (持续存在/苟延残喘)；linger over (磨蹭/仔细思考)；no need to linger (不必拖延)。例句：The memory of the accident lingered for years. (事故记忆多年挥之不去)"
+      }
+    },
+    {
+      "id": "linguistic",
+      "word": "linguistic",
+      "phonetic": "/liŋ'gwistik/",
+      "meaning": "a.语言的，语言学的",
+      "similar": [],
+      "question": {
+        "wordId": "linguistic",
+        "stem": "选择 \"linguistic\" 的正确中文意思：",
+        "correct": "a.语言的，语言学的",
+        "options": [
+          "a.语言的，语言学的",
+          "a.弹性的 n.松紧带,橡皮圈",
+          "n.湖泊，湖水",
+          "vt.回答，答复，答案 v.回答，答复，响应"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'lingua'（舌头，语言），后缀 -istic 表“与...相关的”。核心动作：舌头（说话器官）→ 与语言相关的。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中，常引申为“语言能力的、语言习得的”，如 linguistic competence（语言能力）。",
+        "examUsage": "常与 'linguistic diversity'（语言多样性）、'linguistic analysis'（语言分析）搭配出现，是阅读理解中讨论语言现象时的核心形容词。"
+      }
+    },
+    {
+      "id": "link",
+      "word": "link",
+      "phonetic": "/liŋk/",
+      "meaning": "v.连接,联系 n.环节,链环",
+      "similar": [
+        "ink",
+        "lick",
+        "pink",
+        "sink",
+        "wink",
+        "blank",
+        "blind",
+        "click"
+      ],
+      "question": {
+        "wordId": "link",
+        "stem": "选择 \"link\" 的正确中文意思：",
+        "correct": "v.连接,联系 n.环节,链环",
+        "options": [
+          "n.粉红色 a.粉红色的",
+          "vt.舔；(火焰或浪)掠过；打败 n.舔；少量",
+          "v.连接,联系 n.环节,链环",
+          "n.墨水，油墨"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根源自原始日耳曼语 *klenk-，意为‘弯曲、扭转’，核心物理动作是‘用弯曲的环节将链条连接起来’。引申为抽象关系中的‘联系、连接’或事物发展中的‘环节’。",
+        "similarWarning": "link vs. line: link 侧重‘连接、环扣’，词根含‘弯曲’意象；line 指‘线、行’，词根直意为‘亚麻线’。link vs. blink: blink 是‘眨眼’，含‘闪烁’动作，与 link 的‘连接’无关联。",
+        "extendedMeaning": "在考研阅读中常作名词，意为‘（事物间的）关联、纽带’，如‘a link between smoking and lung cancer’（吸烟与肺癌的关联）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lion",
+      "word": "lion",
+      "phonetic": "/'laiən/",
+      "meaning": "n.狮子",
+      "similar": [
+        "alien",
+        "lemon",
+        "linen",
+        "onion",
+        "union"
+      ],
+      "question": {
+        "wordId": "lion",
+        "stem": "选择 \"lion\" 的正确中文意思：",
+        "correct": "n.狮子",
+        "options": [
+          "n.亚麻布,亚麻布制品",
+          "n.狮子",
+          "n.柠檬",
+          "n.外侨，外国人；外星人 a.外国的；相异的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语leo，源自古希腊语leon，词根与“猛兽”相关，核心物理动作为“捕食、吼叫”，象征力量与威严。",
+        "similarWarning": "alien（外星人/外国的）与lion拼写差异为a-前缀；lemon（柠檬）将i换为e，m代替n；linen（亚麻布）将o换为e，n重复；onion（洋葱）首字母o，中间i换为o；union（联合）首字母u，中间i换为u。",
+        "extendedMeaning": "在考研外刊中，lion可引申为“有影响力的人物或机构（如文学巨匠、行业巨头）”，例如literary lion（文坛泰斗）或corporate lion（企业巨头）。",
+        "examUsage": "常见于短语the lion's share（最大份额），在真题中作为核心搭配考查，如：The company took the lion's share of the market profits."
+      }
+    },
+    {
+      "id": "lip",
+      "word": "lip",
+      "phonetic": "/lip/",
+      "meaning": "n.嘴唇",
+      "similar": [
+        "clip",
+        "limp",
+        "slip",
+        "dip",
+        "hip",
+        "lap",
+        "lid",
+        "rip"
+      ],
+      "question": {
+        "wordId": "lip",
+        "stem": "选择 \"lip\" 的正确中文意思：",
+        "correct": "n.嘴唇",
+        "options": [
+          "a.柔软的,易曲的 v./n.蹒跚,跛行",
+          "v.剪,修剪;钳,夹住 n.夹,钳;回形针",
+          "n.嘴唇",
+          "v.滑,滑倒;滑掉;溜走n.疏忽,小错,口误,笔误"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源自原始印欧语根*leub-（爱、关心），与嘴唇作为亲吻、表达情感的器官相关。核心物理动作：两片可闭合的软组织边缘。",
+        "similarWarning": "clip（剪辑/夹子，c-夹住+lip嘴唇状边缘）、slip（滑倒/纸条，s-滑+lip边缘）、limp（跛行/柔软的，l-弯曲+imp-弱）。核心区别：lip强调边缘；clip强调夹的动作；slip强调滑；limp强调无力。",
+        "extendedMeaning": "考研中常考引申义“（容器的）边缘、口”，如the lip of the cup；或“无礼的话”，如Don't give me any lip（别跟我顶嘴）。",
+        "examUsage": "真题中常考短语：bite one's lip（忍住不说，咬嘴唇）；pay lip service（口头敷衍，空口应酬）。干扰项常涉及形近词辨析。"
+      }
+    },
+    {
+      "id": "liquid",
+      "word": "liquid",
+      "phonetic": "/'likwid/",
+      "meaning": "n.液体 a.液体的,液态的",
+      "similar": [
+        "liquor"
+      ],
+      "question": {
+        "wordId": "liquid",
+        "stem": "选择 \"liquid\" 的正确中文意思：",
+        "correct": "n.液体 a.液体的,液态的",
+        "options": [
+          "n.阳台；(电影院等的)楼厅，楼座",
+          "n.酒；溶液，液剂",
+          "n.液体 a.液体的,液态的",
+          "n.英亩；田地；地产"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'liquere'（意为“变清澈、流动”），词根 'liqu-' 表示“流动、液态”。核心物理动作是“流动的、可流动的”，强调物质无固定形状、可自由流动的状态。",
+        "similarWarning": "与 liquor（烈酒、酒精饮料）形近易混：liquid 结尾 -id 表“性质”，强调液态本身；liquor 结尾 -or 表“物”，特指含酒精的液体。",
+        "extendedMeaning": "考研僻义：表示“易变现的、流动的”，如 liquid assets（流动资产），指能快速转换为现金的资产。",
+        "examUsage": "考点直击：真题常考短语 liquid assets（流动资产）与 fixed assets（固定资产）对比。例句：Companies need to maintain a certain proportion of liquid assets to ensure solvency.（公司需保持一定比例的流动资产以确保偿付能力。）"
+      }
+    },
+    {
+      "id": "liquor",
+      "word": "liquor",
+      "phonetic": "/'likə/",
+      "meaning": "n.酒；溶液，液剂",
+      "similar": [
+        "liquid"
+      ],
+      "question": {
+        "wordId": "liquor",
+        "stem": "选择 \"liquor\" 的正确中文意思：",
+        "correct": "n.酒；溶液，液剂",
+        "options": [
+          "v.(使)振奋,(使)高兴 v./n.喝彩,欢呼",
+          "n.液体 a.液体的,液态的",
+          "n.酒；溶液，液剂",
+          "n.大理石,云石"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 liquor (液体、流动)，词根 liqu- (流动、液体)。核心物理动作是“流动的液体”，引申为特指“酒”这种特殊液体，以及化学中的“溶液、液剂”。",
+        "similarWarning": "liquid (液体) vs liquor (酒)：liquid 是泛指任何流动的液体，侧重物理状态；liquor 特指烈性酒或化学制剂，侧重特定种类。二者拼写差异在末尾 -id (形容词/名词后缀) vs -or (名词后缀)。",
+        "extendedMeaning": "在考研外刊中，liquor 可引申为“烈性酒”的统称，区别于 beer (啤酒) 和 wine (葡萄酒)。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "listen",
+      "word": "listen",
+      "phonetic": "/'lisən/",
+      "meaning": "vi.倾听(与介词to并用，方可置宾语)",
+      "similar": [
+        "linen",
+        "fasten",
+        "litter",
+        "piston"
+      ],
+      "question": {
+        "wordId": "listen",
+        "stem": "选择 \"listen\" 的正确中文意思：",
+        "correct": "vi.倾听(与介词to并用，方可置宾语)",
+        "options": [
+          "n.垃圾,(杂乱的)废物 v.使杂乱,乱丢",
+          "v.扎牢,使固定",
+          "n.亚麻布,亚麻布制品",
+          "vi.倾听(与介词to并用，方可置宾语)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能与古英语hlysnan（听）有关。核心动作是主动将注意力集中于声音，强调过程而非结果。",
+        "similarWarning": "list（列表，倾斜）、linen（亚麻布）、fasten（系紧）、litter（垃圾，一窝幼崽）、piston（活塞）、sister（姐妹）——listen与list仅差-en，但list作名词表列表，作动词表倾斜；listen强调听觉行为。",
+        "extendedMeaning": "考研中常引申为‘听从、听取（建议/意见）’，如listen to reason（听从道理），强调接受性而非单纯听觉。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "literacy",
+      "word": "literacy",
+      "phonetic": "/'litərəsi/",
+      "meaning": "n.有文化,有教养,有读写能力",
+      "similar": [
+        "literary",
+        "literally",
+        "legacy",
+        "lateral",
+        "liberal",
+        "liberty",
+        "interact",
+        "liberate"
+      ],
+      "question": {
+        "wordId": "literacy",
+        "stem": "选择 \"literacy\" 的正确中文意思：",
+        "correct": "n.有文化,有教养,有读写能力",
+        "options": [
+          "n.遗产，遗赠；先人(或过去)留下的东西",
+          "n.有文化,有教养,有读写能力",
+          "a.文学上的,文学的;精通文学的,从事写作的",
+          "ad.照字面意义,逐字地;确实"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"litera\"（字母），-cy为名词后缀，表状态。核心动作：从认识字母（litera）到具备读写能力的状态，即\"识字、有文化\"。\",\n  \"similarWarning\": \"literary（文学的）：liter（字母）+ary（形容词后缀），强调与文学相关。literally（字面上地）：literal（字面的）+ly，强调逐字对应。legacy（遗产）：leg（法律）+acy，强调法律传承。lateral（侧面的）：later（侧面）+al，强调横向。\",\n  \"extendedMeaning\": \"在考研中常引申为\"素养、精通领域的能力\"",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "literally",
+      "word": "literally",
+      "phonetic": "/'lɪtərəli/",
+      "meaning": "ad.照字面意义,逐字地;确实",
+      "similar": [
+        "literacy",
+        "literary",
+        "lateral",
+        "liberal",
+        "literature"
+      ],
+      "question": {
+        "wordId": "literally",
+        "stem": "选择 \"literally\" 的正确中文意思：",
+        "correct": "ad.照字面意义,逐字地;确实",
+        "options": [
+          "n.有文化,有教养,有读写能力",
+          "a.文学上的,文学的;精通文学的,从事写作的",
+          "ad.照字面意义,逐字地;确实",
+          "n.侧面的,旁边的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'littera'（字母），后缀 -ally 表副词。核心动作：按字母逐个处理，即'逐字地'，引申为'字面意义地'。",
+        "similarWarning": "literacy（读写能力，名词）、literary（文学的，形容词）、lateral（侧面的，形容词）、liberal（自由的，形容词）、literature（文学，名词）。区别：literally 核心在'字母/字面'，其他词根相同但后缀不同导致词义分化。",
+        "extendedMeaning": "在口语与写作中表'确实，简直'（用于加强语气，非字面义），如：I was literally starving.（我简直饿死了。）",
+        "examUsage": "真题中常考其副词用法，强调'字面意义'与'比喻意义'的对比，如：The word 'literally' is often misused to mean 'figuratively'.（单词'literally'常被误用为'比喻地'。）"
+      }
+    },
+    {
+      "id": "literary",
+      "word": "literary",
+      "phonetic": "/'litərəri/",
+      "meaning": "a.文学上的,文学的;精通文学的,从事写作的",
+      "similar": [
+        "literacy",
+        "literally",
+        "literature",
+        "linear",
+        "lateral",
+        "liberal",
+        "liberty",
+        "liberate"
+      ],
+      "question": {
+        "wordId": "literary",
+        "stem": "选择 \"literary\" 的正确中文意思：",
+        "correct": "a.文学上的,文学的;精通文学的,从事写作的",
+        "options": [
+          "ad.照字面意义,逐字地;确实",
+          "n.文学,文学作品,文献,图书资料,印刷品",
+          "n.有文化,有教养,有读写能力",
+          "a.文学上的,文学的;精通文学的,从事写作的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 littera（字母），通过词根 liter-（字母/文字）衍生。literary 核心指“与文字/字母相关的”，即“文学的”。词根 liter- 与 “letter” 同源，强调书面文字的艺术性。",
+        "similarWarning": "literacy（n.读写能力）vs literary（a.文学的）：-acy 表“状态/能力”，-ary 表“与…相关的”。literary 强调文学性质，literacy 侧重基础识字能力。literally（adv.字面上地）vs literary：-ally 为副词后缀，literary 为形容词。",
+        "extendedMeaning": "在考研阅读中可引申为“文雅的、书卷气的”，描述人时指“精通文学的、有文学修养的”，如 literary critic（文学评论家）中的 literary 强调专业身份。",
+        "examUsage": "常见考点为 literary 与 literal 的辨析：literary 指“文学的”，literal 指“字面的、逐字的”。真题中常以 literary tradition（文学传统）、literary style（文学风格）等短语出现，需注意其与 literature（文学）的派生关系。"
+      }
+    }
+  ]
+}

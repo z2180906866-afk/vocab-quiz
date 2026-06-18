@@ -1,0 +1,1678 @@
+{
+  "batchId": 50,
+  "words": [
+    {
+      "id": "military",
+      "word": "military",
+      "phonetic": "/'militəri/",
+      "meaning": "a.军事的,军用的,军队的",
+      "similar": [
+        "militant",
+        "solitary",
+        "ministry",
+        "monetary",
+        "missionary"
+      ],
+      "question": {
+        "wordId": "military",
+        "stem": "选择 \"military\" 的正确中文意思：",
+        "correct": "a.军事的,军用的,军队的",
+        "options": [
+          "a.军事的,军用的,军队的",
+          "a.(好)孤独的；偏僻的；单一的，唯一的",
+          "n.(政府的)部;牧师",
+          "a.好战的，富于战斗性的 n.斗士"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根milit-（士兵/战斗） + -ary（形容词后缀，表“…的”）。核心动作：与士兵、战斗相关的，引申为“军事的、军用的”。",
+        "similarWarning": "militant（好战的） vs military（军事的）：militant强调主动攻击态度，military侧重组织属性。solitary（孤独的） vs military：solitary含sol-（独自），无军队关联。ministry（部门） vs military：ministry含ministr-（服务），指行政机构。monetary（货币的） vs military：monetary含monet-（钱），指金融。missionary（传教士的） vs military：missionary含miss-（派遣），指宗教任务。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mill",
+      "word": "mill",
+      "phonetic": "/mil/",
+      "meaning": "n.磨粉机,磨坊;作坊,工厂",
+      "similar": [
+        "bill",
+        "fill",
+        "kill",
+        "mild",
+        "mile",
+        "pill",
+        "till",
+        "chill"
+      ],
+      "question": {
+        "wordId": "mill",
+        "stem": "选择 \"mill\" 的正确中文意思：",
+        "correct": "n.磨粉机,磨坊;作坊,工厂",
+        "options": [
+          "vt.杀死，消灭；破坏，毁灭；消磨(时间)",
+          "n.磨粉机,磨坊;作坊,工厂",
+          "n.账单;招贴,广告;(人员,职称等的)表;钞票",
+          "v.(with)填满,充满"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古英语mylen，最终源自拉丁语molina，词根mol-意为‘研磨’。核心物理动作：将谷物置于两块石头之间反复碾压，使其变成粉末。引申为‘磨坊’（进行研磨的场所），再泛化为‘工厂’（进行大规模生产的场所）。",
+        "similarWarning": "mild: 温和的，与mill相比多了一个字母d；mile: 英里，与mill相比字母e和i位置互换；milk: 牛奶，与mill相比末尾字母k替换l。",
+        "extendedMeaning": "考研中常见‘工厂’义，尤指某种特定类型的制造厂，如steel mill（钢厂）、paper mill（造纸厂）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "millimeter",
+      "word": "millimeter",
+      "phonetic": "/'miliˌmi:tə/",
+      "meaning": "n.(millimetre)毫米",
+      "similar": [
+        "diameter",
+        "minister"
+      ],
+      "question": {
+        "wordId": "millimeter",
+        "stem": "选择 \"millimeter\" 的正确中文意思：",
+        "correct": "n.(millimetre)毫米",
+        "options": [
+          "n.直径",
+          "n.(millimetre)毫米",
+          "n.部长,大臣",
+          "n.(pl.geese)鹅,雌鹅,鹅肉"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "milli-（千分之一）+ meter（米）→ 千分之一米，即毫米。词根直译，无复杂演变。",
+        "similarWarning": "diameter（直径）：di-（穿过）+ meter（测量）→ 穿过圆心的测量线，即直径；minister（部长）：mini-（小）+ -ster（人）→ 古代指服务君主的小臣，后演变为部长。注意millimeter与diameter共享meter，但前缀不同；minister词根为mini-，易误拼。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "million",
+      "word": "million",
+      "phonetic": "/'mɪljən/",
+      "meaning": "num./n.百万,百万个",
+      "similar": [
+        "billion",
+        "mission",
+        "illusion"
+      ],
+      "question": {
+        "wordId": "million",
+        "stem": "选择 \"million\" 的正确中文意思：",
+        "correct": "num./n.百万,百万个",
+        "options": [
+          "n.幻想，错误的观念；错觉，幻觉，假象",
+          "n.使命,任务;使团,代表团",
+          "num./n.(美)十亿,(英)万亿",
+          "num./n.百万,百万个"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自意大利语 'milione'（大千），由拉丁语 'mille'（千）加后缀 '-one'（大）构成，字面意为“大千”，即一千个一千，即百万。核心物理动作是“千的放大”。",
+        "similarWarning": "billion（十亿，bi-二 + million，即百万的二次方）；mission（任务，miss-发送 + -ion，派遣）；illusion（幻觉，il-向内 + lus-玩 + -ion，玩弄感官）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "millionaire",
+      "word": "millionaire",
+      "phonetic": "/ˌmiljə'nεə/",
+      "meaning": "n.百万富翁",
+      "similar": [
+        "missionary"
+      ],
+      "question": {
+        "wordId": "millionaire",
+        "stem": "选择 \"millionaire\" 的正确中文意思：",
+        "correct": "n.百万富翁",
+        "options": [
+          "n.生物学",
+          "n.难题,谜,迷惑 v.(使)迷惑,(使)为难",
+          "a.教会的，传教(士)的 n.传教士",
+          "n.百万富翁"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自法语 'millionnaire'，由 'million'（百万）加后缀 '-aire'（表示人）构成。核心逻辑：拥有百万（财富单位）的人，即百万富翁。",
+        "similarWarning": "missionary：传教士。差异：millionaire 含 'million'（百万），指财富；missionary 含 'mission'（使命），指宗教使命。拼写上 'm' 开头，但后接 'ission' vs 'illion'。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mineral",
+      "word": "mineral",
+      "phonetic": "/'minərəl/",
+      "meaning": "n.矿物,矿石 a.矿物的,矿质的",
+      "similar": [
+        "funeral",
+        "general",
+        "liberal",
+        "miserable",
+        "integral",
+        "internal",
+        "interval",
+        "material"
+      ],
+      "question": {
+        "wordId": "mineral",
+        "stem": "选择 \"mineral\" 的正确中文意思：",
+        "correct": "n.矿物,矿石 a.矿物的,矿质的",
+        "options": [
+          "n.丧葬,葬礼",
+          "a.慷慨的,大方的;富足的;自由的,思想开放的",
+          "a.一般的,普通的;总的,大体的 n.将军",
+          "n.矿物,矿石 a.矿物的,矿质的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“mina”（矿），后缀“-al”表“与…相关的”。核心物理动作是“从地下挖掘出的天然物质”，强调“采矿”这一行为的结果。",
+        "similarWarning": "funeral（葬礼）、general（一般的）、liberal（自由的）、miserable（痛苦的）、integral（完整的）、internal（内部的）、interval（间隔）、material（材料）。其中与mineral最易混淆的是material（材料），注意mineral特指地质成因的无机物，而material泛指一切原材料。",
+        "extendedMeaning": "在考研阅读中，mineral可引申为“矿物质”（如人体所需微量元素）或“矿产资源”（如矿藏储量），常与resource、deposit等词搭配。",
+        "examUsage": "真题考点：mineral water（矿泉水）作为固定搭配出现，但更关键的是“mineral resources”（矿产资源）在环保类或经济类文章中的高频使用，以及“mineral deposits”（矿床）在科学类文章中的出现。注意与“ore”（矿石，特指可提炼金属的矿物）的区分。"
+      }
+    },
+    {
+      "id": "mingle",
+      "word": "mingle",
+      "phonetic": "/'miŋgl/",
+      "meaning": "v.(使)混合",
+      "similar": [
+        "mile",
+        "angle",
+        "hinge",
+        "giggle",
+        "jungle",
+        "tangle",
+        "triangle"
+      ],
+      "question": {
+        "wordId": "mingle",
+        "stem": "选择 \"mingle\" 的正确中文意思：",
+        "correct": "v.(使)混合",
+        "options": [
+          "n.合页,铰链 vi.依…而定",
+          "n.角，角度 v.钓鱼；(采用各种方法）取得",
+          "n.英里，哩，海里",
+          "v.(使)混合"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根源自中古英语‘menglen’，与古英语‘mengan’（混合）同源，核心物理动作为‘搅拌使成分交织’。‘ming-’表混合，‘-le’表反复动作，强调不同元素在互动中融合而非简单堆叠。",
+        "similarWarning": "single（单一的）vs mingle：首字母s/m差异，前者强调个体独立，后者强调混合互动；middle（中间）vs mingle：字母d/g替换，前者表位置，后者表动作。",
+        "extendedMeaning": "在考研阅读中常引申为‘（在社交场合）周旋、交际’，如‘mingle with the crowd’（与人群打成一片），强调主动融入、互动交流，非单纯物理混合。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "miniature",
+      "word": "miniature",
+      "phonetic": "/'miniətʃə/",
+      "meaning": "n.缩小的模型,缩图 a.微型的,缩小的",
+      "similar": [
+        "mixture",
+        "minister",
+        "ministry",
+        "moisture",
+        "signature",
+        "manufacture",
+        "literature"
+      ],
+      "question": {
+        "wordId": "miniature",
+        "stem": "选择 \"miniature\" 的正确中文意思：",
+        "correct": "n.缩小的模型,缩图 a.微型的,缩小的",
+        "options": [
+          "n.(政府的)部;牧师",
+          "n.缩小的模型,缩图 a.微型的,缩小的",
+          "n.部长,大臣",
+          "n.混合;混合物,混合剂"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'miniare'（用朱砂着色），后指在书籍手稿中用小字或小画装饰，进而引申为‘缩小的’或‘微型的’。词根 'min-' 意为‘小’，后缀 '-ature' 表状态或结果，整体意为‘使变小的东西’或‘微型化’。",
+        "similarWarning": "形近词辨析：\n- miniature（微型的）：核心义为‘小’，与 'min-'（小）同源。\n- minister（大臣）：来自 'minist-‘（服务），与’小‘无关。\n- ministry（部门）：minister 的名词形式。\n- mixture（混合物）：来自 'mix-'（混合）。\n- moisture（湿气）：来自 'moist-'（潮湿）。\n- signature（签名）：来自 'sign-'（标记）。\n- manufacture（制造）：来自 'manu-'（手）。\n- literature（文学）：来自 'liter-'（文字）。\n注意：miniature 拼写含 ‘-iature’，区别于 'minister' 的 ‘-ister’ 及 ‘mixture’ 的 ‘-ture’。",
+        "extendedMeaning": "考研僻义：在艺术或设计语境中，可指‘微型画’或‘微缩艺术’，如 a miniature portrait（微型肖像画）。此外，在科技或模型领域，常作定语表示‘小型的但功能完整的’，如 a miniature camera（微型相机）。",
+        "examUsage": "真题考点：常以形容词形式出现，与 'scale' 搭配，如 'miniature scale'（微缩比例）。在阅读中可能作为干扰项，与 'tiny'（极小的）或 'mini'（前缀）混淆，需注意其名词用法‘缩微模型’在说明文中的指代。"
+      }
+    },
+    {
+      "id": "minimize",
+      "word": "minimize",
+      "phonetic": "/'minimaiz/",
+      "meaning": "v.(minimize)使减少到最少,使降到最低",
+      "similar": [
+        "minimum",
+        "civilize",
+        "mobilize"
+      ],
+      "question": {
+        "wordId": "minimize",
+        "stem": "选择 \"minimize\" 的正确中文意思：",
+        "correct": "v.(minimize)使减少到最少,使降到最低",
+        "options": [
+          "n.最小值,最低限度 a.最小的,最低的",
+          "v.(=civilise)使文明,开化",
+          "v.(minimize)使减少到最少,使降到最低",
+          "v.(mobilise)动员,赋予可动性"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根mini-（小）+-ize（动词后缀，使...化）。核心物理动作为“使某物变小到极限”，引申为将程度、数量或影响降至最低。",
+        "similarWarning": "minimum（n./adj.最小值/最低的）：mini-+mum（拉丁最高级后缀），指“最小的量或程度”；minimize（v.使最小化）强调动作；civilize（v.使文明）：civ-（公民）+-ize；mobilize（v.动员）：mob-（移动）+-ize。",
+        "extendedMeaning": "在考研阅读中常引申为“贬低、轻视”（如minimize the importance of...），指刻意降低某事物的价值或作用。",
+        "examUsage": "高频搭配：minimize the risk/impact（将风险/影响降至最低）。真题中常作为态度题干扰项，如“minimize the significance of...”表示“不重视”，与“overestimate”相反。"
+      }
+    },
+    {
+      "id": "minimum",
+      "word": "minimum",
+      "phonetic": "/'miniməm/",
+      "meaning": "n.最小值,最低限度 a.最小的,最低的",
+      "similar": [
+        "maximum",
+        "minimize"
+      ],
+      "question": {
+        "wordId": "minimum",
+        "stem": "选择 \"minimum\" 的正确中文意思：",
+        "correct": "n.最小值,最低限度 a.最小的,最低的",
+        "options": [
+          "n.最小值,最低限度 a.最小的,最低的",
+          "n.最大值,极限 a.最大的,最高的",
+          "n.景色,风光;观点,见解;展望,前景",
+          "v.(minimize)使减少到最少,使降到最低"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根mini-（小）+ -mum（拉丁语最高级后缀，表示“最...”），核心动作为“最小化”。字面义为“最小的”，引申为“最小值、最低限度”。",
+        "similarWarning": "maximum（最大）与minimum（最小）为反义词，对比词根max-（大）与mini-（小）；minimize（最小化）为动词形式，后缀-ize表示“使...”，与minimum同根。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "minister",
+      "word": "minister",
+      "phonetic": "/'ministə/",
+      "meaning": "n.部长,大臣",
+      "similar": [
+        "administer",
+        "monster",
+        "ministry",
+        "miniature",
+        "finite",
+        "monitor",
+        "disaster",
+        "register"
+      ],
+      "question": {
+        "wordId": "minister",
+        "stem": "选择 \"minister\" 的正确中文意思：",
+        "correct": "n.部长,大臣",
+        "options": [
+          "n.部长,大臣",
+          "v.施行，实施；掌管，料理...的事务；给予",
+          "n.怪物,妖怪,畸形的动植物",
+          "n.(政府的)部;牧师"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根mini-（小）+-ster（人，名词后缀）。原指“仆人、侍从”，后演变为“为君主服务的大臣、部长”，核心动作是“服务于更高权力者”。",
+        "similarWarning": "administer（管理，administer=ad-（向）+minister，强调执行管理职能）；ministry（部，政府部门，-try为抽象名词后缀）；miniature（微型的，源于同一词根mini-）。",
+        "extendedMeaning": "在考研阅读中，minister可引申为“公使、外交使节”，如minister plenipotentiary（全权公使）；在宗教语境中可指“牧师”。",
+        "examUsage": "考研真题中常考搭配prime minister（首相/总理），如：The prime minister's decision sparked widespread debate.（首相的决定引发了广泛争论。）注意与administration（政府/行政机构）的区分。"
+      }
+    },
+    {
+      "id": "ministry",
+      "word": "ministry",
+      "phonetic": "/'ministri/",
+      "meaning": "n.(政府的)部;牧师",
+      "similar": [
+        "minister",
+        "miniature",
+        "misery",
+        "industry",
+        "military",
+        "administer"
+      ],
+      "question": {
+        "wordId": "ministry",
+        "stem": "选择 \"ministry\" 的正确中文意思：",
+        "correct": "n.(政府的)部;牧师",
+        "options": [
+          "n.痛苦,悲惨,不幸",
+          "n.(政府的)部;牧师",
+          "n.部长,大臣",
+          "n.缩小的模型,缩图 a.微型的,缩小的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 ministerium，意为“服务、职务”。词根 mini-（小）与名词后缀 -try 结合，原指“仆人的职责”，后引申为“为政府服务的部门”或“神职人员的职务”。",
+        "similarWarning": "minister (n. 部长；牧师) 与 ministry 同源，但 minister 指人，ministry 指机构或职务；miniature (n. 微型画) 共享 mini- 但侧重“小”；misery (n. 痛苦) 拼写相似但词根不同，无关联。",
+        "extendedMeaning": "在考研语境中，ministry 常指“政府的部”（如 Ministry of Education），罕见使用“牧师”义项；无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "minor",
+      "word": "minor",
+      "phonetic": "/'maɪnə(r)/",
+      "meaning": "a.较小的,较小的 n.兼修学科 v.(in)兼修",
+      "similar": [
+        "mirror",
+        "nor",
+        "honor",
+        "liner",
+        "mayor",
+        "minus",
+        "motor"
+      ],
+      "question": {
+        "wordId": "minor",
+        "stem": "选择 \"minor\" 的正确中文意思：",
+        "correct": "a.较小的,较小的 n.兼修学科 v.(in)兼修",
+        "options": [
+          "n.(honour)尊敬,敬意;荣誉,光荣 v.尊敬",
+          "a.较小的,较小的 n.兼修学科 v.(in)兼修",
+          "n.镜子;反映,反射 v.反映,反射",
+          "conj.／ad.也不，也没有"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语min-（小）的比较级，与major（大）相对。核心物理动作是“变小或处于较小状态”，引申为数量、程度、重要性上的较小者。",
+        "similarWarning": "minor vs. major: minor（小）vs. major（大），字母差异在n/j，词义相反。minor vs. mirror: mirror（镜子）含重复的r，minor无r，拼写易混但词源无关。",
+        "extendedMeaning": "考研中常考其名词义“兼修学科”及动词义“兼修”，如minor in（辅修），区别于major in（主修）。",
+        "examUsage": "真题考点：minor in（辅修）常与major in（主修）对比考查；minor作为形容词常修饰degree（程度）、role（角色）等，如minor role（次要角色）。"
+      }
+    },
+    {
+      "id": "minority",
+      "word": "minority",
+      "phonetic": "/maɪ'nɒrəti/",
+      "meaning": "n.少数,少数派,少数民族",
+      "similar": [
+        "majority",
+        "priority"
+      ],
+      "question": {
+        "wordId": "minority",
+        "stem": "选择 \"minority\" 的正确中文意思：",
+        "correct": "n.少数,少数派,少数民族",
+        "options": [
+          "n.少数,少数派,少数民族",
+          "n.多数,大多数,成年,法定年龄",
+          "n.先,前;优先,重点,优先权",
+          "n./v.刺伤,刺痛,刺孔"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "minor（较小的）+ -ity（名词后缀）→ 较小的群体或数量，即少数、少数派、少数民族。核心动作：相对于多数而言的较小部分。",
+        "similarWarning": "majority（多数）：minor vs. major（较大/较小）对比；priority（优先权）：prior（先前的）+ -ity，强调时间或顺序上的优先，与数量无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "minus",
+      "word": "minus",
+      "phonetic": "/'mainəs/",
+      "meaning": "a.负的,减的 prep.减去 n.负号,减号",
+      "similar": [
+        "menu",
+        "miss",
+        "bonus",
+        "minor",
+        "virus"
+      ],
+      "question": {
+        "wordId": "minus",
+        "stem": "选择 \"minus\" 的正确中文意思：",
+        "correct": "a.负的,减的 prep.减去 n.负号,减号",
+        "options": [
+          "a.负的,减的 prep.减去 n.负号,减号",
+          "n.奖金,红利",
+          "n.菜单",
+          "n.小姐 v. 思念,未击中,错过,漏掉,逃脱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根mini-（小）的变体，原指“变小”。minus核心动作是“减少”，与plus（加）相对，引申为“负的、减号”。",
+        "similarWarning": "minute（n.分钟；a.微小的） vs minus（a.负的）：minute源自min-（小）+ute（后缀），强调“极小的”；minus强调“减法、负数”。miss（v.错过） vs minus：miss源自动词“未击中”，minus为介词“减去”。",
+        "extendedMeaning": "考研中常作介词表示“减去”，或作名词“负号、不足”。如：the pluses and minuses（利弊）。",
+        "examUsage": "常见于数学或图表描述题，如：The temperature dropped to minus 10 degrees.（温度降至零下10度。）搭配：minus sign（负号）。"
+      }
+    },
+    {
+      "id": "miracle",
+      "word": "miracle",
+      "phonetic": "/'mirəkl/",
+      "meaning": "n.奇迹,令人惊奇的人(或事)",
+      "similar": [
+        "circle",
+        "miserable"
+      ],
+      "question": {
+        "wordId": "miracle",
+        "stem": "选择 \"miracle\" 的正确中文意思：",
+        "correct": "n.奇迹,令人惊奇的人(或事)",
+        "options": [
+          "n.奇迹,令人惊奇的人(或事)",
+          "n.圆,圆周;集团;周期,循环 v.环绕,旋转",
+          "a.痛苦的,悲惨的",
+          "vi.(to)订阅，订购；同意vt.捐助，赞助"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 mir（惊奇，看）+ acle（名词后缀，表事物）→ 令人惊奇的事物，即奇迹。源自拉丁语 miraculum（奇迹），与 mirror（镜子）同源，原义为“看到后惊叹的东西”。",
+        "similarWarning": "circle（n.圆圈；v.环绕）vs miracle：circle 核心是“环/圆”；miracle 核心是“奇迹”。拼写差异：c vs m, cl vs cle。miserable（adj.痛苦的）vs miracle：miserable 含 miser（可怜）+ able，表“可怜的”；miracle 含 mir（惊奇），表“令人惊叹的”。",
+        "extendedMeaning": "在考研中可引申为“非凡成就”或“不可思议的好运”，如：economic miracle（经济奇迹）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mirror",
+      "word": "mirror",
+      "phonetic": "/'mirə/",
+      "meaning": "n.镜子;反映,反射 v.反映,反射",
+      "similar": [
+        "error",
+        "minor",
+        "horror",
+        "terror"
+      ],
+      "question": {
+        "wordId": "mirror",
+        "stem": "选择 \"mirror\" 的正确中文意思：",
+        "correct": "n.镜子;反映,反射 v.反映,反射",
+        "options": [
+          "n.错误,过失",
+          "n.恐怖,战栗",
+          "n.镜子;反映,反射 v.反映,反射",
+          "a.较小的,较小的 n.兼修学科 v.(in)兼修"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语mirari（惊奇、注视），词根mir-（看、惊奇）→ 镜子让人注视自己并感到惊奇。核心动作：通过反射使人看到影像。",
+        "similarWarning": "error（错误）：e-（向外）+ ror（跑）→ 偏离正确。mirror强调反射，error强调失误。minor（较小的）：min-（小）+ or（比较级）→ 更小。horror（恐怖）：horr-（战栗）+ or → 令人战栗。terror（恐怖）：terr-（使颤抖）+ or → 极度恐惧。",
+        "extendedMeaning": "考研中常引申为“真实反映、写照”，如：a mirror of society（社会的真实写照）；动词意为“反映、体现”，如：His works mirror the era.（他的作品反映了那个时代。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mischief",
+      "word": "mischief",
+      "phonetic": "/'mistʃif/",
+      "meaning": "n.损害,伤害,危害;恶作剧,胡闹;灾祸",
+      "similar": [],
+      "question": {
+        "wordId": "mischief",
+        "stem": "选择 \"mischief\" 的正确中文意思：",
+        "correct": "n.损害,伤害,危害;恶作剧,胡闹;灾祸",
+        "options": [
+          "n.损害,伤害,危害;恶作剧,胡闹;灾祸",
+          "n./v.雇用,租借",
+          "v.熄灭;消灭;结束;压制;使黯然失色;偿清",
+          "n.困惑，糊涂；混淆；混乱，骚乱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "mis-（错误地）+ chief（首领，头）→ 原指“错误的引导或结果”，引申为“损害、伤害、恶作剧”。核心动作：错误地引导导致的不良后果。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研外刊中常引申为“（无恶意的）调皮行为”或“潜在麻烦”，如“The child's mischief caused a minor accident.”",
+        "examUsage": "常考搭配：make mischief（制造麻烦/挑拨离间），如真题例句：He tried to make mischief between them.（他试图挑拨他们之间的关系。）"
+      }
+    },
+    {
+      "id": "miserable",
+      "word": "miserable",
+      "phonetic": "/'mizərəbl/",
+      "meaning": "a.痛苦的,悲惨的",
+      "similar": [
+        "disable",
+        "mineral",
+        "miracle",
+        "desirable",
+        "preferable",
+        "vulnerable"
+      ],
+      "question": {
+        "wordId": "miserable",
+        "stem": "选择 \"miserable\" 的正确中文意思：",
+        "correct": "a.痛苦的,悲惨的",
+        "options": [
+          "n.奇迹,令人惊奇的人(或事)",
+          "n.矿物,矿石 a.矿物的,矿质的",
+          "vt.使残废;使失去能力;丧失能力",
+          "a.痛苦的,悲惨的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根miser-（可怜、悲惨）+ -able（形容词后缀，能…的）。miser-源自拉丁语miser（可怜的），核心动作画面是“处于可怜状态的人”，引申为“痛苦的、悲惨的”。",
+        "similarWarning": "miserable vs. disable（dis-否定 + able能力，使丧失能力）vs. mineral（矿物）vs. miracle（miracle奇迹）vs. desirable（desire渴望 + -able，值得渴望的）vs. preferable（prefer偏爱 + -able，更可取的）vs. vulnerable（vulner-受伤 + -able，易受伤的）。注意miser-与miracle的mirac-无关联。",
+        "extendedMeaning": "在考研阅读中可引申为“糟糕的、极差的”（指质量、状况等），如“miserable conditions”（恶劣条件）；也可表示“少得可怜的、极不足的”，如“a miserable salary”（微薄的薪水）。",
+        "examUsage": "常考搭配为“make sb. miserable”（使某人痛苦/难受）或“a miserable failure”（彻底失败）。真题中常作为情感态度题选项，如“miserable”对应消极负面态度。"
+      }
+    },
+    {
+      "id": "misery",
+      "word": "misery",
+      "phonetic": "/'mizəri/",
+      "meaning": "n.痛苦,悲惨,不幸",
+      "similar": [
+        "mystery",
+        "ministry"
+      ],
+      "question": {
+        "wordId": "misery",
+        "stem": "选择 \"misery\" 的正确中文意思：",
+        "correct": "n.痛苦,悲惨,不幸",
+        "options": [
+          "n.痛苦,悲惨,不幸",
+          "n.(政府的)部;牧师",
+          "n.神秘,神秘的事物;神秘小说,侦探小说",
+          "a.较小的,较小的 n.兼修学科 v.(in)兼修"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根miser-（可怜、悲惨）+ 名词后缀-y。miser-源自拉丁语miser（可怜的、悲惨的），本义是“可怜的状态”，引申为“痛苦、不幸”。核心动作画面：一个人陷入极度贫困或无助的境地，充满哀伤与折磨。",
+        "similarWarning": "mystery（神秘）与misery仅差字母‘t’，强调未知性；ministry（部门、牧师）与misery差‘n’和‘t’，指机构或神职。对比：misery聚焦情感痛苦，mystery聚焦悬疑，ministry聚焦行政或宗教。",
+        "extendedMeaning": "在考研阅读中，misery常引申为“长期的经济困顿或社会苦难”，如‘economic misery’（经济萧条）或‘human misery’（人间疾苦），强调持续性的煎熬而非短暂疼痛。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "misfortune",
+      "word": "misfortune",
+      "phonetic": "/mis'fɔ:tʃən/",
+      "meaning": "n.不幸,灾祸,灾难",
+      "similar": [],
+      "question": {
+        "wordId": "misfortune",
+        "stem": "选择 \"misfortune\" 的正确中文意思：",
+        "correct": "n.不幸,灾祸,灾难",
+        "options": [
+          "n.自由,自主,免除,特权",
+          "n.盆,脸盆;内海,盆地",
+          "n.心理,心理学,心理状态",
+          "n.不幸,灾祸,灾难"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "mis-（否定/错误）+ fortune（运气/财富）。字面义为“坏的运气”，引申为“不幸、灾难”。词根fortune源自拉丁语fortuna（命运女神），本义是“命运所赋予的”，故misfortune即“命运给予的坏结果”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中，misfortune常不单指个人厄运，而用于描述系统性灾难或社会性不幸事件，如“economic misfortune”（经济灾难）或“natural misfortune”（自然灾害），强调非人为可控的负面结果。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mislead",
+      "word": "mislead",
+      "phonetic": "/ˌmis'li:d/",
+      "meaning": "v.把…带错路,使误入岐途",
+      "similar": [],
+      "question": {
+        "wordId": "mislead",
+        "stem": "选择 \"mislead\" 的正确中文意思：",
+        "correct": "v.把…带错路,使误入岐途",
+        "options": [
+          "a.实际的；现实的，真实的，目前的",
+          "vt.假装；假定，设想；承担；呈现，采取",
+          "a.内部的,内的;国内的,内政的",
+          "v.把…带错路,使误入岐途"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "mis-（错误）+ lead（带领）→ 错误地带领 → 把…带错路，使误入歧途。核心动作是“带错方向”，强调因误导而导致错误认知或行为。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中，常引申为“误导（思想/判断）”，如mislead the public（误导公众），强调信息或言论的欺骗性，而非物理上的带路。",
+        "examUsage": "常见于被动结构be misled into doing sth.（被误导做某事），如：Consumers are often misled into buying products that are unnecessary.（消费者常被误导购买不必要的产品。）"
+      }
+    },
+    {
+      "id": "miss",
+      "word": "miss",
+      "phonetic": "/mɪs/",
+      "meaning": "n.小姐 v. 思念,未击中,错过,漏掉,逃脱",
+      "similar": [
+        "kiss",
+        "mass",
+        "mess",
+        "mist",
+        "moss",
+        "midst",
+        "minus",
+        "moist"
+      ],
+      "question": {
+        "wordId": "miss",
+        "stem": "选择 \"miss\" 的正确中文意思：",
+        "correct": "n.小姐 v. 思念,未击中,错过,漏掉,逃脱",
+        "options": [
+          "n.小姐 v. 思念,未击中,错过,漏掉,逃脱",
+          "n./v.吻,接吻",
+          "n.大量,众多;团,块;(pl.)群众,民众;质量",
+          "n.混乱,混杂,脏乱 v.弄脏,弄乱,搞糟"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根mit（送，发）的变体。核心动作是‘未送达’：本义是投掷/发送时偏离目标（未击中），引申为情感上未送达（思念）、时间上未赶上（错过）、感知上未察觉（漏掉）。",
+        "similarWarning": "miss vs mist: miss含‘未送’，mist（薄雾）含‘水汽’；miss vs mess: miss缺‘e’，mess（混乱）多‘e’。",
+        "extendedMeaning": "考研僻义：逃脱（miss the punishment）、遗漏（miss a detail）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "missile",
+      "word": "missile",
+      "phonetic": "/'misail/",
+      "meaning": "n.导弹,发射物",
+      "similar": [
+        "massive",
+        "missing",
+        "mission",
+        "dissolve"
+      ],
+      "question": {
+        "wordId": "missile",
+        "stem": "选择 \"missile\" 的正确中文意思：",
+        "correct": "n.导弹,发射物",
+        "options": [
+          "n.使命,任务;使团,代表团",
+          "a.漏掉的,失去的,失踪的",
+          "a.大而重的,厚实的,粗大的;大规模的,大量的",
+          "n.导弹,发射物"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根miss-（发送）+ -ile（名词后缀，表物体），核心动作是“被发送出去的东西”，即发射物或导弹。",
+        "similarWarning": "massive（大量的，巨大的，词根mass-质量），missing（丢失的，miss-错过），mission（任务，使命，miss-发送，-ion名词后缀），dissolve（溶解，dis-分开+solv-解开），possible（可能的，pos-能够，-ible可…的）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "missing",
+      "word": "missing",
+      "phonetic": "/'misiŋ/",
+      "meaning": "a.漏掉的,失去的,失踪的",
+      "similar": [
+        "missile",
+        "mission"
+      ],
+      "question": {
+        "wordId": "missing",
+        "stem": "选择 \"missing\" 的正确中文意思：",
+        "correct": "a.漏掉的,失去的,失踪的",
+        "options": [
+          "a.漏掉的,失去的,失踪的",
+          "a./n.年少的/者,三年级的/学生,下级(的)",
+          "n.使命,任务;使团,代表团",
+          "n.导弹,发射物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根miss-（发送、投掷）+-ing（形容词后缀）。核心动作：被发送出去/投掷出去而未被接收，引申为“丢失的、失踪的、漏掉的”。",
+        "similarWarning": "missile（n.导弹）：词根miss-（投掷）+-ile（物），指被投掷的物体；mission（n.任务）：词根miss-（发送）+-ion（名词后缀），指被派遣的任务；missing强调“丢失”的状态。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mission",
+      "word": "mission",
+      "phonetic": "/'miʃən/",
+      "meaning": "n.使命,任务;使团,代表团",
+      "similar": [
+        "admission",
+        "vision",
+        "million",
+        "missile",
+        "missing",
+        "passion",
+        "session",
+        "division"
+      ],
+      "question": {
+        "wordId": "mission",
+        "stem": "选择 \"mission\" 的正确中文意思：",
+        "correct": "n.使命,任务;使团,代表团",
+        "options": [
+          "n.使命,任务;使团,代表团",
+          "n.允许进；承认；入场费，入会费，入场券",
+          "num./n.百万,百万个",
+          "n.视力,视觉;远见;洞察力;幻想,幻影;想象力"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语mittere（发送）+ -sion（名词后缀），核心动作是“被发送出去”。原指被派遣去执行特定任务的人或团体，后引申为“使命、任务”，强调被赋予的特定职责或目标。",
+        "similarWarning": "mission vs. missile：mission（使命）含-ion，missile（导弹）含-ile，导弹是被发射的武器，使命是被派遣的任务。",
+        "extendedMeaning": "在考研中常考“使命、天职”的抽象含义，如sense of mission（使命感），而非简单指具体任务。",
+        "examUsage": "真题考点：mission常与accomplish、fulfill搭配，如“accomplish a mission”（完成使命），或作为阅读中表示“代表团”的考点，如trade mission（贸易代表团）。"
+      }
+    },
+    {
+      "id": "missionary",
+      "word": "missionary",
+      "phonetic": "/'miʃənəri/",
+      "meaning": "a.教会的，传教(士)的 n.传教士",
+      "similar": [
+        "dictionary",
+        "millionaire",
+        "military",
+        "stationary"
+      ],
+      "question": {
+        "wordId": "missionary",
+        "stem": "选择 \"missionary\" 的正确中文意思：",
+        "correct": "a.教会的，传教(士)的 n.传教士",
+        "options": [
+          "n.词典,字典",
+          "a.军事的,军用的,军队的",
+          "a.教会的，传教(士)的 n.传教士",
+          "n.百万富翁"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语missio（派遣），由miss（送、派）+-ion（名词后缀）+-ary（形容词/名词后缀）构成。核心动作是“被派遣的人”，特指被宗教组织派遣去传播教义的人，即传教士。",
+        "similarWarning": "dictionary（词典，词根dict说）、millionaire（百万富翁，million百万）、military（军事的，milit士兵）、stationary（静止的，station位置）。注意区别：missionary强调“派遣传教”；military强调“军事”；stationary强调“静止”。",
+        "extendedMeaning": "在考研中可引申为“热心的宣传者、倡导者”，如a missionary of social reform（社会改革的倡导者），不限于宗教语境。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mist",
+      "word": "mist",
+      "phonetic": "/mist/",
+      "meaning": "n.薄雾,霭",
+      "similar": [
+        "midst",
+        "moist",
+        "fist",
+        "miss",
+        "exist",
+        "hoist",
+        "twist",
+        "visit"
+      ],
+      "question": {
+        "wordId": "mist",
+        "stem": "选择 \"mist\" 的正确中文意思：",
+        "correct": "n.薄雾,霭",
+        "options": [
+          "n.薄雾,霭",
+          "n.中间,当中",
+          "a.潮湿的,湿润的,多雨的",
+          "n.拳头 vt.用拳头打；紧握"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语‘mist’（黑暗、雾），与古高地德语‘mist’（粪肥）同源，核心物理动作为‘模糊视线、遮蔽清晰’。词根本质是‘视觉障碍物’，引申为‘朦胧状态或模糊不清的事物’。",
+        "similarWarning": "midst（中间，有d表示‘在其中’） vs mist（雾，无d）；moist（潮湿的，oi表示湿润感） vs mist（雾，i表示细小悬浮物）；miss（错过，ss表示‘未击中’） vs mist（雾，t表示‘停滞’）。",
+        "extendedMeaning": "考研僻义：指‘模糊不清的状态’或‘使某事变得不清晰’，如‘a mist of tears’（泪眼模糊），或‘mist over’（变模糊，常用于记忆或视野抽象场景）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mistress",
+      "word": "mistress",
+      "phonetic": "/'mistris/",
+      "meaning": "n.女主人;主妇;情妇,情人",
+      "similar": [
+        "distress",
+        "stress",
+        "actress",
+        "hostess",
+        "impress",
+        "witness",
+        "restless",
+        "waitress"
+      ],
+      "question": {
+        "wordId": "mistress",
+        "stem": "选择 \"mistress\" 的正确中文意思：",
+        "correct": "n.女主人;主妇;情妇,情人",
+        "options": [
+          "n.苦恼;危难;不幸 v.使苦恼",
+          "n.女演员",
+          "n.女主人;主妇;情妇,情人",
+          "n.压力；重要性；应力；重音vt.强调，重读"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根词缀逻辑：源自古英语 'mistress'，由 'master'（主人）的阴性后缀 '-ess' 构成，核心物理动作为“女性掌控者”。本义为“女主人”或“主妇”，后引申出“情妇”含义，指非婚姻关系的女性情人，带有社会地位和权力色彩。",
+        "similarWarning": "形近词对比：\n- distress（n./v. 痛苦，使苦恼）：前缀 'dis-' 表示“分离”，强调精神上的压力。\n- stress（n./v. 压力，强调）：直接源自拉丁语，指物理或心理压力。\n- actress（n. 女演员）：后缀 '-ess' 表女性，核心为“表演者”。\n- hostess（n. 女主人，女服务员）：与 mistress 同源，但更侧重接待角色。\n- waitress（n. 女服务员）：职业化后缀。\n辨析：mistress 强调权力或情感依附关系，与 distress/stress 无直接语义重叠。",
+        "extendedMeaning": "考研僻义：在文学或历史语境中可指“女统治者”或“女主管”，如 'mistress of ceremonies'（女司仪）。此外，在短语 'be one's own mistress' 中意为“独立自主的女性”，类似 'master' 的独立用法。",
+        "examUsage": "真题考点：常见于阅读中作为情感或社会关系题眼，搭配如 'mistress and servant'（主仆关系）或 'mistress of the house'（女主人）。注意与 'lover'（情人）区分：mistress 隐含非正式性及社会地位，lover 更中性。干扰项常涉及 'hostess'（女主人，但无情感含义）。"
+      }
+    },
+    {
+      "id": "misunderstand",
+      "word": "misunderstand",
+      "phonetic": "/ˌmisʌndə'stænd/",
+      "meaning": "v.误解,误会",
+      "similar": [],
+      "question": {
+        "wordId": "misunderstand",
+        "stem": "选择 \"misunderstand\" 的正确中文意思：",
+        "correct": "v.误解,误会",
+        "options": [
+          "n.逃跑,逃脱 v.逃跑;避开,避免",
+          "v.出产,生长;(to)屈服,服从 n.产量,收获",
+          "v.误解,误会",
+          "n.毒物,毒药 v.放毒,毒害,污染"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "mis-（错误地）+ understand（理解）→ 错误地理解，即误解、误会。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mix",
+      "word": "mix",
+      "phonetic": "/miks/",
+      "meaning": "v.使混合;混淆",
+      "similar": [
+        "fix",
+        "six"
+      ],
+      "question": {
+        "wordId": "mix",
+        "stem": "选择 \"mix\" 的正确中文意思：",
+        "correct": "v.使混合;混淆",
+        "options": [
+          "v.使混合;混淆",
+          "v.(使)固定;修理;安装;决定;注视 n.困境",
+          "num.六 pron./a.六(个，只...)",
+          "n.结构,构造;建筑物 v.构造,建造"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源于拉丁语 miscere（混合），核心物理动作是将不同物质搅动、掺和在一起，使其均匀分布。",
+        "similarWarning": "fix（固定，v.）与 mix 仅首字母 f/m 不同；six（六，num.）与 mix 仅首字母 s/m 不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mixture",
+      "word": "mixture",
+      "phonetic": "/'mikstʃə/",
+      "meaning": "n.混合;混合物,混合剂",
+      "similar": [
+        "fixture",
+        "moisture",
+        "mature",
+        "texture",
+        "miniature"
+      ],
+      "question": {
+        "wordId": "mixture",
+        "stem": "选择 \"mixture\" 的正确中文意思：",
+        "correct": "n.混合;混合物,混合剂",
+        "options": [
+          "a.成熟的,熟的;成年人的 v.(使)成熟",
+          "n.潮湿,湿气,湿度",
+          "n.固定设备;预定日期;比赛时间;定期存款",
+          "n.混合;混合物,混合剂"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根mix-（混合）+ -ture（名词后缀），表示混合的动作或结果。核心物理动作为将不同物质搅合在一起，引申为混合状态或混合物。",
+        "similarWarning": "fixture（固定装置）: fix（固定） + -ture，强调固定状态；mixture（混合物）: mix（混合） + -ture，强调混合过程。moisture（湿气）: moist（潮湿的） + -ure，与mixture拼写相似但含义无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "moan",
+      "word": "moan",
+      "phonetic": "/məun/",
+      "meaning": "n.呻吟声,悲叹声 v.呻吟,抱怨,悲叹",
+      "similar": [
+        "loan",
+        "moon",
+        "groan",
+        "means",
+        "moral",
+        "mount",
+        "mourn"
+      ],
+      "question": {
+        "wordId": "moan",
+        "stem": "选择 \"moan\" 的正确中文意思：",
+        "correct": "n.呻吟声,悲叹声 v.呻吟,抱怨,悲叹",
+        "options": [
+          "v./n.呻吟",
+          "n.呻吟声,悲叹声 v.呻吟,抱怨,悲叹",
+          "n.贷款;出借,借出 v.借出",
+          "n.(加the)月球，月亮；卫星"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿人因痛苦或不满发出的低沉、延长的‘嗯——’声，核心动作是‘低沉呻吟’或‘持续抱怨’。",
+        "similarWarning": "moan vs groan: 拼写差异为‘m’ vs ‘gr’，moan侧重持续低沉的呻吟（如生病），groan侧重因压力发出的短促粗重声（如负重）；moan vs mean: 拼写差异为‘o’ vs ‘e’，词义无关；moan vs moon: 拼写差异为‘a’ vs ‘o’，词义无关。",
+        "extendedMeaning": "考研僻义：n./v.（尤指无济于事的）抱怨、牢骚。例：Stop moaning about your workload.（别再抱怨你的工作量了。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mob",
+      "word": "mob",
+      "phonetic": "/mɔb/",
+      "meaning": "n.乌合之众(尤指暴力者) vi.围攻，聚众闹事",
+      "similar": [
+        "rob",
+        "sob"
+      ],
+      "question": {
+        "wordId": "mob",
+        "stem": "选择 \"mob\" 的正确中文意思：",
+        "correct": "n.乌合之众(尤指暴力者) vi.围攻，聚众闹事",
+        "options": [
+          "n.乌合之众(尤指暴力者) vi.围攻，聚众闹事",
+          "v.(of)抢劫,盗取;非法剥夺",
+          "v./n.哭泣,呜咽",
+          "int.英(美)喂,你好(用来打招呼或引起注意)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“mobile vulgus”（可动的民众），词根“mov-”（移动）→ mob本指“流动的、易变的群体”，核心物理动作是“人群因情绪煽动而整体移动、聚集围攻”，强调无组织、易暴动的特性。",
+        "similarWarning": "job（工作）：mob vs job，首字母m/j差异，mob强调“群体暴力”，job指“职业任务”。\nrob（抢劫）：mob vs rob，首字母m/r差异，mob是“群体围攻”，rob是“个人抢夺财物”。\nsob（啜泣）：mob vs sob，尾字母b/b相同，中间o/o相同，但mob首字母m表“聚众”，sob首字母s表“抽泣声”。",
+        "extendedMeaning": "考研僻义：作动词时，指“（人群）蜂拥围住（某人）”，常含“过度关注、围攻采访”的贬义，如“The star was mobbed by fans.”（粉丝蜂拥围住明星）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mobile",
+      "word": "mobile",
+      "phonetic": "/'məubaɪl/",
+      "meaning": "a.可动的,活动的,运动的",
+      "similar": [
+        "mobilize",
+        "mile",
+        "movie",
+        "noble",
+        "module",
+        "motive"
+      ],
+      "question": {
+        "wordId": "mobile",
+        "stem": "选择 \"mobile\" 的正确中文意思：",
+        "correct": "a.可动的,活动的,运动的",
+        "options": [
+          "a.可动的,活动的,运动的",
+          "n.电影,电影院",
+          "n.英里，哩，海里",
+          "v.(mobilise)动员,赋予可动性"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'mobilis'，意为‘可移动的’，由词根 'mov-'（移动）演变而来，核心物理动作是‘能够移动或改变位置’。",
+        "similarWarning": "mobilize（动员，使移动） vs mobile（可移动的）：mobilize 强调使某物或人进入行动状态，而 mobile 描述物体本身具备移动能力。mile（英里） vs mobile：mile 是长度单位，无移动动词根，拼写差异在 'le' 与 'bile'。movie（电影） vs mobile：movie 源自 'move'，指动态影像，但拼写多 'v' 少 'b'。noble（高贵的） vs mobile：noble 源自 'nobilis'，与移动无关，拼写差异在 'no' 与 'mo'。module（模块） vs mobile：module 源自 'modulus'（小尺度），无移动含义，拼写差异在 'dule' 与 'bile'。motive（动机） vs mobile：motive 源自 'mov-' 但指推动力，拼写差异在 'tive' 与 'bile'。",
+        "extendedMeaning": "在考研真题中，mobile 可引申为‘流动的’（如 mobile workforce 流动劳动力）或‘机动的’（如 mobile phone 手机，但此为基础义，需注意在语境中表‘易变的’如 mobile features 易变特征）。",
+        "examUsage": "常见于搭配 'mobile phone'（手机）作为基础考点，但在阅读中可能作为干扰项与 'movable' 混淆。真题例句：'The mobile workforce has reshaped urban economies.'（流动劳动力重塑了城市经济。）注意辨析 'mobile' 与 'immobile'（不动的）的对比用法。"
+      }
+    },
+    {
+      "id": "mobilize",
+      "word": "mobilize",
+      "phonetic": "/'məubilaiz/",
+      "meaning": "v.(mobilise)动员,赋予可动性",
+      "similar": [
+        "mobile",
+        "oblige",
+        "utilize",
+        "civilize",
+        "minimize"
+      ],
+      "question": {
+        "wordId": "mobilize",
+        "stem": "选择 \"mobilize\" 的正确中文意思：",
+        "correct": "v.(mobilise)动员,赋予可动性",
+        "options": [
+          "v.(mobilise)动员,赋予可动性",
+          "a.可动的,活动的,运动的",
+          "v.强迫,迫使;责成;(使)感激,施恩于",
+          "vt.利用"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根mob（移动）+ ilize（动词后缀，使动化）。核心物理动作：使静止的人/物变得可移动，即动员、调动。",
+        "similarWarning": "形近词辨析：\n- mobile (adj. 可移动的) vs. mobilize (v. 动员)：前者是形容词，描述状态；后者是动词，强调使动过程。\n- oblige (v. 迫使) vs. mobilize：oblige 源于拉丁语 obligare（捆绑），强调义务性强迫；mobilize 强调调动资源。\n- utilize (v. 利用) vs. mobilize：utilize 强调使用工具/资源；mobilize 强调组织人力/物力。",
+        "extendedMeaning": "在考研外刊中，mobilize 常引申为‘调动（支持、资源）’，如 mobilize public opinion（调动舆论）、mobilize capital（调动资本）。",
+        "examUsage": "真题考点：mobilize 常与 resources, support, troops 搭配。例句：The government mobilized all available resources to combat the epidemic.（政府调动一切可用资源抗击疫情。）注意其及物用法，后接被调动对象。"
+      }
+    },
+    {
+      "id": "mock",
+      "word": "mock",
+      "phonetic": "/mɔk/",
+      "meaning": "v.嘲笑 a.假的,模拟的 n.(常pl.)模拟考试",
+      "similar": [
+        "cock",
+        "dock",
+        "lock",
+        "sock",
+        "block",
+        "clock",
+        "flock",
+        "knock"
+      ],
+      "question": {
+        "wordId": "mock",
+        "stem": "选择 \"mock\" 的正确中文意思：",
+        "correct": "v.嘲笑 a.假的,模拟的 n.(常pl.)模拟考试",
+        "options": [
+          "v.嘲笑 a.假的,模拟的 n.(常pl.)模拟考试",
+          "n.公鸡,雄鸡;龙头,开关",
+          "n.锁 v.锁,锁上",
+          "n.船坞,码头"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模仿嘲笑时的声音“mɔk”，核心动作是“发出模仿声以取笑”，引申为“假的、模拟的”，如mock exam（模拟考试）即模仿真实考试。",
+        "similarWarning": "cock（公鸡/歪戴）vs mock：字母c→m，公鸡打鸣 vs 嘲笑；dock（码头/扣除）vs mock：字母d→m，码头 vs 嘲笑；lock（锁）vs mock：字母l→m，锁 vs 嘲笑；rock（岩石/摇动）vs mock：字母r→m，岩石 vs 嘲笑；sock（袜子）vs mock：字母s→m，袜子 vs 嘲笑；block（街区/阻碍）vs mock：字母b→m，街区 vs 嘲笑；clock（时钟）vs mock：字母c→m，时钟 vs 嘲笑；flock（羊群/聚集）vs mock：字母f→m，羊群 vs 嘲笑。",
+        "extendedMeaning": "考研常考“模拟的”义，如mock trial（模拟审判）、mock interview（模拟面试）；作名词“模拟考试”常见于真题语境。",
+        "examUsage": "真题考点：mock作动词常与at连用，mock at sb/sth（嘲笑某人/某物）；作形容词mock+名词结构，如mock surprise（假装的惊讶），注意区分mock与fake（强调伪造）、artificial（人工的）。"
+      }
+    },
+    {
+      "id": "mode",
+      "word": "mode",
+      "phonetic": "/məud/",
+      "meaning": "n.方式,式样",
+      "similar": [
+        "code",
+        "move",
+        "modest",
+        "module",
+        "lodge",
+        "motel",
+        "mouse",
+        "movie"
+      ],
+      "question": {
+        "wordId": "mode",
+        "stem": "选择 \"mode\" 的正确中文意思：",
+        "correct": "n.方式,式样",
+        "options": [
+          "v.移动,迁移;活动;感动 n.移动,活动,行动",
+          "a.谦虚的,有节制的",
+          "n.代码,代号,密码;法典,法规,规划",
+          "n.方式,式样"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语modus（方式、尺度）。词根mod-表示“测量、方式”，核心动作是“以某种标准或尺度行事”。mode即“采用的方式或样式”。",
+        "similarWarning": "model（模型）：mode + l（表示“小”或“具体化”），强调“作为样式的小型代表”。code（代码）：c-替换m-，强调“系统化的规则或符号体系”。",
+        "extendedMeaning": "（在统计或数学中）众数，即一组数据中出现频率最高的数值。在音乐或艺术中，指特定的调式或风格。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "moderate",
+      "word": "moderate",
+      "phonetic": "/'mɔdərət/",
+      "meaning": "a.有节制的,中等的,适度的,温和的,稳健的",
+      "similar": [
+        "operate",
+        "tolerate",
+        "cooperate",
+        "debate",
+        "modest",
+        "migrate",
+        "generate",
+        "liberate"
+      ],
+      "question": {
+        "wordId": "moderate",
+        "stem": "选择 \"moderate\" 的正确中文意思：",
+        "correct": "a.有节制的,中等的,适度的,温和的,稳健的",
+        "options": [
+          "v.(with)合作,协作,相配合",
+          "vt.容忍,默许；对(药物、毒品等)有耐力",
+          "v.操作,运转,开动,起作用,动手术",
+          "a.有节制的,中等的,适度的,温和的,稳健的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根mod-（尺度、模式） + -er-（连接） + -ate（形容词后缀）。核心动作是“保持在一个尺度内”，即不极端、不过分，引申为“有节制的、温和的”。",
+        "similarWarning": "modest（谦虚的、适度的）：强调不夸大、不炫耀，侧重态度；moderate强调程度适中、不走极端。modern（现代的）：词根mod-（方式、时尚），指当前时代的。",
+        "extendedMeaning": "v. 主持、调节（如moderate a meeting）；n. 持温和观点者（如political moderates）。",
+        "examUsage": "moderate growth（稳健增长）；moderate in temper（性情温和）；真题中常与extreme（极端的）对举，作为态度类选项的关键词。"
+      }
+    },
+    {
+      "id": "modernization",
+      "word": "modernization",
+      "phonetic": "/ˌmɔdənai'zeiʃən/",
+      "meaning": "n.(modernisation)现代化",
+      "similar": [
+        "organization",
+        "destination",
+        "communication",
+        "normalization"
+      ],
+      "question": {
+        "wordId": "modernization",
+        "stem": "选择 \"modernization\" 的正确中文意思：",
+        "correct": "n.(modernisation)现代化",
+        "options": [
+          "n.通讯,传达;(pl.)通讯系统;交通(工具)",
+          "n.目的地,终点",
+          "n.(modernisation)现代化",
+          "n.(organization)组织,团体,机构"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根modern（现代的）+ -ization（名词后缀，表过程/结果），源自拉丁语modo（刚才，最近）。核心动作：使某事物变得符合现代标准或技术的过程。",
+        "similarWarning": "organization（组织，源于organ器官/工具），destination（目的地，源于de-向下+stin站立），communication（沟通，源于com共同+muni服务）。区别在于modernization聚焦‘现代化’的更新过程，而其他词根义不同。",
+        "extendedMeaning": "在考研真题中可引申为‘技术更新’或‘社会变革’的抽象过程，如‘the modernization of agriculture’（农业现代化），强调结构性升级而非简单改良。",
+        "examUsage": "常见搭配‘modernization drive’（现代化进程），真题中作为主题词出现，如‘the path of socialist modernization’（社会主义现代化道路），注意与‘modernity’（现代性）区分。"
+      }
+    },
+    {
+      "id": "modest",
+      "word": "modest",
+      "phonetic": "/'mɔdist/",
+      "meaning": "a.谦虚的,有节制的",
+      "similar": [
+        "mode",
+        "midst",
+        "moist",
+        "forest",
+        "honest",
+        "moderate"
+      ],
+      "question": {
+        "wordId": "modest",
+        "stem": "选择 \"modest\" 的正确中文意思：",
+        "correct": "a.谦虚的,有节制的",
+        "options": [
+          "n.中间,当中",
+          "a.谦虚的,有节制的",
+          "n.方式,式样",
+          "a.潮湿的,湿润的,多雨的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语modestus，意为‘保持尺度、有分寸’，词根mod-（尺度、方式）。核心动作是‘控制在适当范围内’，引申为谦虚（言行有度）、适度的（数量或程度不过分）。",
+        "similarWarning": "model（模型；榜样）：modest是‘有分寸’，model是‘模仿、典范’。moist（潮湿的）：与modest仅差一个字母e/s，词义无关。",
+        "extendedMeaning": "（在考研中）可指‘适中的、不大的’，如：a modest increase（小幅增长）；‘朴素的、简朴的’，如：a modest house（简陋的房子）。",
+        "examUsage": "真题中常考‘适度的、有限的’含义，如：a modest income（中等收入），与moderate同义替换。注意与modest（谦虚）的褒贬区分：如‘He is modest about his achievements’（他对自己成就很谦虚）是褒义。"
+      }
+    },
+    {
+      "id": "modify",
+      "word": "modify",
+      "phonetic": "/'mɔdifai/",
+      "meaning": "v.更改,修改,修饰",
+      "similar": [
+        "notify"
+      ],
+      "question": {
+        "wordId": "modify",
+        "stem": "选择 \"modify\" 的正确中文意思：",
+        "correct": "v.更改,修改,修饰",
+        "options": [
+          "v.通知,告知,报告",
+          "n.义务,责任",
+          "v.更改,修改,修饰",
+          "n.其时，其间 ad.当时，与此同时"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "mod-（尺度/模式）+ -ify（使动后缀）→ 使在尺度或模式上发生改变，核心物理动作是“调整尺寸或形态”，不颠覆本质，只做局部修正。",
+        "similarWarning": "modify vs notify：mod-（尺度） vs not-（标记/知道）；-ify相同。modify强调“改尺度”，notify强调“使知道”即通知。",
+        "extendedMeaning": "考研中常考“修饰”（语法术语，如modify a noun）及“调整”（如modify behavior），非字面“修改”。",
+        "examUsage": "真题考点：modify常与adjust, revise形成干扰项，核心搭配：modify one's approach（调整方法），modify the terms（修改条款）。"
+      }
+    },
+    {
+      "id": "module",
+      "word": "module",
+      "phonetic": "/'mɔdju:l/",
+      "meaning": "n.组件，模块，模件；(航天器的)舱",
+      "similar": [
+        "mode",
+        "mould",
+        "mouse",
+        "mobile",
+        "molecule"
+      ],
+      "question": {
+        "wordId": "module",
+        "stem": "选择 \"module\" 的正确中文意思：",
+        "correct": "n.组件，模块，模件；(航天器的)舱",
+        "options": [
+          "n.(pl.mice)鼠,耗子",
+          "n.方式,式样",
+          "n.组件，模块，模件；(航天器的)舱",
+          "n.(mold)模子，铸型 v.浇铸，造型，塑造"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 modulus（小尺度、标准量度），是 modus（尺度、方式）的指小形式。词根 mod- 表示“尺度、方式”，-ule 是表示“小”的后缀。核心物理动作是“按标准尺度分割出的最小功能单元”，即组件或模块。",
+        "similarWarning": "model（模型，模式）：源自同一词根，但 -el 是表示“工具、手段”的后缀，侧重“作为范例的完整复制品”。module 强调“可组合的功能单元”，model 强调“代表整体的范本”。",
+        "extendedMeaning": "在计算机科学和工程学中，module 常指“可独立编译或运行的程序单元”，如 software module（软件模块）。在考研阅读中，可能引申为“构成系统的独立部分”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "moist",
+      "word": "moist",
+      "phonetic": "/mɔist/",
+      "meaning": "a.潮湿的,湿润的,多雨的",
+      "similar": [
+        "mist",
+        "hoist",
+        "modest",
+        "fist",
+        "host",
+        "miss",
+        "moss",
+        "post"
+      ],
+      "question": {
+        "wordId": "moist",
+        "stem": "选择 \"moist\" 的正确中文意思：",
+        "correct": "a.潮湿的,湿润的,多雨的",
+        "options": [
+          "a.潮湿的,湿润的,多雨的",
+          "a.谦虚的,有节制的",
+          "n.薄雾,霭",
+          "v.举起,升起,吊起"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源自拉丁语‘mucidus’（霉的、黏湿的），核心物理动作为‘带有水汽或轻微液体的表面状态’，强调‘不干不燥但有适度水分’的质感，区别于‘wet’（湿透）或‘damp’（阴冷潮湿）。",
+        "similarWarning": "mist（n.薄雾，v.使模糊），与moist仅尾字母‘t’vs‘t’差异但词性不同；most（a./adv.最多），元音差异o/i；hoist（v.升起），首字母h与m区分；modest（a.谦虚的），中间字母d/s差异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "moisture",
+      "word": "moisture",
+      "phonetic": "/'mɔistʃə/",
+      "meaning": "n.潮湿,湿气,湿度",
+      "similar": [
+        "mixture",
+        "posture",
+        "miniature",
+        "mature",
+        "costume",
+        "disturb",
+        "fixture",
+        "gesture"
+      ],
+      "question": {
+        "wordId": "moisture",
+        "stem": "选择 \"moisture\" 的正确中文意思：",
+        "correct": "n.潮湿,湿气,湿度",
+        "options": [
+          "n.混合;混合物,混合剂",
+          "n.缩小的模型,缩图 a.微型的,缩小的",
+          "n.姿势,姿态,心态,态度 v.作出某种姿势",
+          "n.潮湿,湿气,湿度"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根moist（潮湿的）+ 名词后缀-ure（表状态/结果）=> 潮湿的状态或产物，即湿气、湿度。动作画面：水汽附着或凝结的状态。",
+        "similarWarning": "形近对比：moisture（湿度） vs mixture（混合物，mix-混合） vs posture（姿势，pos-放置） vs miniature（微型画/小型的，mini-小） vs mature（成熟的，mat-成熟） vs costume（服装，cost-习惯/覆盖） vs disturb（打扰，dis-分开+turb-搅动） vs fixture（固定装置，fix-固定）。核心差异：moist-表潮湿，其他词根含义不同。",
+        "extendedMeaning": "考研僻义：在科技或环境类文章中，可引申为'水分含量'或'潮气导致的腐蚀/影响'。例如：moisture content（含水量）常用于描述材料或空气特性。",
+        "examUsage": "真题考点：常与condense（凝结）、evaporate（蒸发）等动词搭配，形成科学类阅读题眼。如：Moisture in the air condenses into dew.（空气中的湿气凝结成露水。）注意与dampness（湿气，更口语化）的区分，moisture更偏科学术语。"
+      }
+    },
+    {
+      "id": "molecule",
+      "word": "molecule",
+      "phonetic": "/'mɔlikjul/",
+      "meaning": "n.分子",
+      "similar": [
+        "module"
+      ],
+      "question": {
+        "wordId": "molecule",
+        "stem": "选择 \"molecule\" 的正确中文意思：",
+        "correct": "n.分子",
+        "options": [
+          "n.混乱,紊乱",
+          "n.用具,机构,全套装配 v.配备,(得到)装备",
+          "n.组件，模块，模件；(航天器的)舱",
+          "n.分子"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自法语 'molécule'，源自拉丁语 'moles'（意为“质量、大块”）+ 后缀 '-cule'（表示“小”）。词源逻辑：大块的微小化 → 构成物质的最小单位。核心物理动作：将大块分割至最小不可分粒子。",
+        "similarWarning": "形近词对比：molecule vs module。molecule 含字母 'c' 和 'le'，强调“分子”的粒子性；module 含 'd' 和 'ule'，强调“模块”的单元性。拼写差异：mole-c-ule vs mod-ule。",
+        "extendedMeaning": "考研僻义：极少用作字面义外的引申。但在《经济学人》中偶见比喻义指“微小但关键的部分或单位”，如 'a molecule of truth'（一丝真相）。",
+        "examUsage": "真题考点：常作为科技类阅读基础词汇，需注意其复数形式 'molecules' 在句中作主语或宾语，无特殊干扰项。"
+      }
+    },
+    {
+      "id": "momentum",
+      "word": "momentum",
+      "phonetic": "/məu'mentəm/",
+      "meaning": "n.动力,要素",
+      "similar": [],
+      "question": {
+        "wordId": "momentum",
+        "stem": "选择 \"momentum\" 的正确中文意思：",
+        "correct": "n.动力,要素",
+        "options": [
+          "n.动力,要素",
+          "n.例子,事例,例证",
+          "v./n.捕获,俘虏;夺得,攻占",
+          "n.(pl.)问候,致意 n./v.称赞,恭维"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“momentum”（运动、动力），由“movēre”（移动）的过去分词词根“mot-”加上名词后缀“-mentum”构成。核心物理动作为“推动物体持续运动的量”，即物理学中的动量，引申为事物发展的持续推动力或关键要素。",
+        "similarWarning": "与“moment”（瞬间，时刻）仅差“-um”后缀。Momentum强调持续的动力或势头（如“gain momentum”），而moment指时间点或短暂瞬间（如“at the moment”）。",
+        "extendedMeaning": "在考研语境中常指“（事业、运动等的）发展势头或关键动力”，如“the momentum of economic reform”（经济改革的势头）。",
+        "examUsage": "真题考点：常与“gain/lose/maintain”搭配，如“gain momentum”（获得动力）、“lose momentum”（失去势头）。在阅读中作为题眼，考查对事物发展趋势的理解。"
+      }
+    },
+    {
+      "id": "monarch",
+      "word": "monarch",
+      "phonetic": "/'mɔnək/",
+      "meaning": "n.帝王，君主，最高统治者",
+      "similar": [
+        "march",
+        "march"
+      ],
+      "question": {
+        "wordId": "monarch",
+        "stem": "选择 \"monarch\" 的正确中文意思：",
+        "correct": "n.帝王，君主，最高统治者",
+        "options": [
+          "n.三月(略作 Mar.)",
+          "n.帝王，君主，最高统治者",
+          "n.三月(略作 Mar.)",
+          "n.粉笔,白垩"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "mon-（单一）+ -arch（统治者）→ 单一的统治者 → 帝王、君主。词根-arch来自希腊语arkhein（统治），与“君主制”（monarchy）同源。",
+        "similarWarning": "march（v./n. 行军，三月）：与monarch相比，march缺少“mon-”前缀，且词义完全不同。march强调行进或月份，而monarch强调统治地位。",
+        "extendedMeaning": "在考研语境中，monarch可引申为“巨头、霸主”，如“a monarch of the financial world”（金融界的霸主），用于比喻某个领域的绝对控制者。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "monday",
+      "word": "Monday",
+      "phonetic": "/'mʌndei/",
+      "meaning": "n.星期一",
+      "similar": [
+        "monkey",
+        "sunday",
+        "boundary",
+        "monetary"
+      ],
+      "question": {
+        "wordId": "monday",
+        "stem": "选择 \"Monday\" 的正确中文意思：",
+        "correct": "n.星期一",
+        "options": [
+          "n.星期一",
+          "n.星期日",
+          "n.分界线,边界",
+          "n.猴子"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "Monday 源自古英语 Monandæg，意为“月亮之日”（Moon's day），对应拉丁语 dies Lunae。词根 moon（月亮）+ day（日），直接指向天体崇拜的命名传统。",
+        "similarWarning": "money（n.钱） vs Monday：仅差字母 'd'，但词源无关；today（n.今天） vs Monday：前缀 to- 表“到”，词义不同；monkey（n.猴子） vs Monday：词根无关，仅拼写前三个字母相似；Sunday（n.星期日） vs Monday：同为天体命名，Sun vs Moon；boundary（n.边界） vs Monday：无直接关联，拼写部分相似；monetary（adj.货币的） vs Monday：同源 money，无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "monetary",
+      "word": "monetary",
+      "phonetic": "/'mʌnitəri/",
+      "meaning": "a.金融的,货币的",
+      "similar": [
+        "monday",
+        "poetry",
+        "rotary",
+        "monitor",
+        "monster",
+        "monthly",
+        "contrary",
+        "military"
+      ],
+      "question": {
+        "wordId": "monetary",
+        "stem": "选择 \"monetary\" 的正确中文意思：",
+        "correct": "a.金融的,货币的",
+        "options": [
+          "a.金融的,货币的",
+          "n.星期一",
+          "n.诗歌,诗集",
+          "a.旋转的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'moneta'（钱币，源自 Juno Moneta 朱诺·莫内塔，罗马造币厂所在地）。-ary 是形容词后缀。核心物理动作：与货币相关 → 金融的、货币的。",
+        "similarWarning": "monetary vs. monitor（监视器/监控，-itor 表示人/物）；monetary vs. monster（怪物，词源不同）。",
+        "extendedMeaning": "熟词僻义：在考研中常引申为'财政的、金融体系的'，如monetary policy（货币政策），而非仅指'货币的'。",
+        "examUsage": "真题考点：常与fiscal（财政的）对比——monetary侧重货币供应和利率，fiscal侧重政府收支。例：The central bank tightened monetary policy to curb inflation.（央行收紧货币政策以抑制通胀。）"
+      }
+    },
+    {
+      "id": "monitor",
+      "word": "monitor",
+      "phonetic": "/'mɒnɪtə(r)/",
+      "meaning": "n.班长;监听器,监视器 v.监控,监测",
+      "similar": [
+        "motor",
+        "monster",
+        "minister",
+        "monetary"
+      ],
+      "question": {
+        "wordId": "monitor",
+        "stem": "选择 \"monitor\" 的正确中文意思：",
+        "correct": "n.班长;监听器,监视器 v.监控,监测",
+        "options": [
+          "n.怪物,妖怪,畸形的动植物",
+          "n.发动机,电动机",
+          "n.班长;监听器,监视器 v.监控,监测",
+          "n.部长,大臣"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语monere（警告、提醒），词根mon-（提醒、警告）+-itor（表示人或物的后缀）。核心动作是“提醒者”，引申为“监视器”或“监控”，强调持续观察以发出警告或记录状态。",
+        "similarWarning": "motor（发动机，词根mot-移动）与monitor仅差字母't'；monster（怪物，词根monstr-展示）与monitor差'ster'；minister（部长，词根mini-小）与monitor差'ister'；monetary（货币的，词根monet-钱）与monitor差'et'。注意monitor核心是“警告”而非“移动、展示、小或钱”。",
+        "extendedMeaning": "在考研阅读中常作动词，表示“持续监测（数据、过程、行为）”，如monitor the situation（监测局势），非仅指班长或设备。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "monkey",
+      "word": "monkey",
+      "phonetic": "/'mʌŋki/",
+      "meaning": "n.猴子",
+      "similar": [
+        "donkey",
+        "honey",
+        "convey",
+        "monday"
+      ],
+      "question": {
+        "wordId": "monkey",
+        "stem": "选择 \"monkey\" 的正确中文意思：",
+        "correct": "n.猴子",
+        "options": [
+          "v.运送,搬运,转运;传达,传播",
+          "n.蜜,蜂蜜",
+          "n.驴子；蠢人；顽固的人",
+          "n.猴子"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自中古英语moneke，与古英语mona（月亮）无关，可能来自低地德语或荷兰语，原指一种小猴。核心动作：跳跃、攀爬的灵长类动物。",
+        "similarWarning": "money（金钱） vs monkey：monkey含字母k，money无；donkey（驴） vs monkey：首字母d/m差异；honey（蜂蜜） vs monkey：首字母h/m差异；convey（传达） vs monkey：词根veh-（运）与key无关联；monday（星期一） vs monkey：拼写差异在m与n后接不同。",
+        "extendedMeaning": "在考研真题中，monkey常作动词，意为‘模仿、胡闹’（如monkey around），或名词指‘捣蛋鬼’。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "monopoly",
+      "word": "monopoly",
+      "phonetic": "/mə'nɔpəli/",
+      "meaning": "n.垄断,专卖,专利权,专利事业",
+      "similar": [
+        "monthly"
+      ],
+      "question": {
+        "wordId": "monopoly",
+        "stem": "选择 \"monopoly\" 的正确中文意思：",
+        "correct": "n.垄断,专卖,专利权,专利事业",
+        "options": [
+          "n.履行,执行;表演,演出;性能,特性;成绩",
+          "n.垄断,专卖,专利权,专利事业",
+          "a.每月的 ad.每月一次,按月 n.月刊",
+          "vt.照亮，照明；用灯光装饰；说明，阐释"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"mono-（单一）+ poly（卖）→ 一个人卖→垄断\",\n  \"similarWarning\": \"monthly（每月的）与monopoly拼写差异：monthly含\"th\"，monopoly含\"pol\"。\",\n  \"extendedMeaning\": \"在考研阅读中可引申为'独占、专营'，如'natural monopoly'（自然垄断）。\",\n  \"examUsage\": \"真题常考搭配：monopoly on/in sth.（对...的垄断），如'hold a monopoly on the market'。\"\n}",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "monotonous",
+      "word": "monotonous",
+      "phonetic": "/mə'nɔtənəs/",
+      "meaning": "a.单调的,无变化的",
+      "similar": [
+        "notorious",
+        "poisonous",
+        "continuous"
+      ],
+      "question": {
+        "wordId": "monotonous",
+        "stem": "选择 \"monotonous\" 的正确中文意思：",
+        "correct": "a.单调的,无变化的",
+        "options": [
+          "a.臭名昭著的,声名狼藉的",
+          "a.单调的,无变化的",
+          "a.连续的,持续的",
+          "a.有毒的,恶意的,恶毒的,道德败坏的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "mono-（单一）+ ton（音调）+ -ous（形容词后缀）→ 单一音调的 → 引申为单调的、无变化的。核心物理动作：只有一个声音在重复，缺乏变化。",
+        "similarWarning": "notorious（臭名昭著的：not-标记 + -orious → 被标记的） vs. monotonous（mono-单一 + ton-音调）；poisonous（有毒的：poison毒 + -ous） vs. monotonous；continuous（连续的：con-一起 + tin-保持 + -uous） vs. monotonous（侧重单一重复，而非时间连续）。",
+        "extendedMeaning": "在考研阅读中常引申为‘枯燥乏味的’（tedious），用于描述工作、生活或环境缺乏变化。",
+        "examUsage": "真题考点：monotonous work/ life（单调的工作/生活）；短语‘monotonous routine’（千篇一律的日常）。"
+      }
+    },
+    {
+      "id": "monster",
+      "word": "monster",
+      "phonetic": "/'mɔnstə/",
+      "meaning": "n.怪物,妖怪,畸形的动植物",
+      "similar": [
+        "minister",
+        "foster",
+        "poster",
+        "monitor",
+        "youngster",
+        "consider",
+        "moisture",
+        "monetary"
+      ],
+      "question": {
+        "wordId": "monster",
+        "stem": "选择 \"monster\" 的正确中文意思：",
+        "correct": "n.怪物,妖怪,畸形的动植物",
+        "options": [
+          "n海报,张贴的大幅广告",
+          "n.怪物,妖怪,畸形的动植物",
+          "n.部长,大臣",
+          "vt.养育;收养;怀抱;鼓励 a.收养的 n.养育者"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语monstrum（预兆、奇观），由monere（警告）派生，本义为“警示性的现象”。词根mon-（警告）+ -ster（名词后缀，表事物）。核心动作：通过异常形态发出警告。",
+        "similarWarning": "minister（部长，仆人）：min-（小）+ -ster，原指“小人物”，与monster拼写仅差首字母。monitor（班长，监视器）：mon-（警告）+ -itor（人/物），侧重“警告者”，与monster共享词根但后缀不同。",
+        "extendedMeaning": "考研中常引申为“巨大的、可怕的事物”或“极恶之人”，如：a monster of a storm（一场巨大的风暴）。",
+        "examUsage": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,1728 @@
+{
+  "batchId": 80,
+  "words": [
+    {
+      "id": "thermal",
+      "word": "thermal",
+      "phonetic": "/'θɜ:ml/",
+      "meaning": "a.热的,热力的；(小规模的)上升气流",
+      "similar": [
+        "terminal"
+      ],
+      "question": {
+        "wordId": "thermal",
+        "stem": "选择 \"thermal\" 的正确中文意思：",
+        "correct": "a.热的,热力的；(小规模的)上升气流",
+        "options": [
+          "n.药草，(调味用的)香草，草本植物",
+          "n.一对,一双;一副;夫妇 v.配对,成对",
+          "a.热的,热力的；(小规模的)上升气流",
+          "a.晚期的;终点的;期末的 n.终点(站);终端"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根therm-（热）+ -al（形容词后缀）。therm-源自希腊语therme（热），核心动作/画面为“产生或传递热量的状态”。",
+        "similarWarning": "terminal（终点的，末端的）：区别在于字母组合“er” vs “er”后接不同辅音，thermal强调热，terminal强调终端/结束。",
+        "extendedMeaning": "（小规模的）上升气流：尤指滑翔运动中利用的热空气柱，如thermal soaring（热气流翱翔）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "thermometer",
+      "word": "thermometer",
+      "phonetic": "/θə'mɔmitə/",
+      "meaning": "n.温度计",
+      "similar": [
+        "thereafter"
+      ],
+      "question": {
+        "wordId": "thermometer",
+        "stem": "选择 \"thermometer\" 的正确中文意思：",
+        "correct": "n.温度计",
+        "options": [
+          "n.温度计",
+          "ad.此后,以后",
+          "a.明白的;朴素的;坦率;平凡 n.平原,旷野",
+          "a.法律的,法定的;合法的,正当的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"thermo-（热）+ meter（测量器）→ 测量热的仪器 → 温度计。词根thermo源自希腊语therme（热），meter来自metron（测量）。\",\n  \"similarWarning\": \"thermometer vs. thereafter（此后）：差异在于\"mometer\"与\"reafter\"，前者含测量器后缀，后者为时间副词。\",\n  \"extendedMeaning\": \"无特殊考研僻义。\",\n  \"examUsage\": \"无特殊真题考点。\"\n}",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "thesis",
+      "word": "thesis",
+      "phonetic": "/'θi:sis/",
+      "meaning": "n.(pl.theses) 论文;论题;论点",
+      "similar": [
+        "chess",
+        "theirs"
+      ],
+      "question": {
+        "wordId": "thesis",
+        "stem": "选择 \"thesis\" 的正确中文意思：",
+        "correct": "n.(pl.theses) 论文;论题;论点",
+        "options": [
+          "pron.[they的物主代词]他(她、它)们的",
+          "n.(pl.theses) 论文;论题;论点",
+          "n.棋，国际象棋",
+          "a.显赫的;杰出的;有名的;优良的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语thesis（放置、安排），由词根the-（放置）加名词后缀-sis（行为、结果）构成。核心物理动作为“将观点放置于一处”，引申为系统陈述的论点或学术论文。",
+        "similarWarning": "thesis vs. these：thesis结尾-sis，指论文；these结尾-se，是this的复数。thesis vs. this：thesis多一个字母s，且发音/θiːsɪs/比/ðɪs/长。",
+        "extendedMeaning": "在考研阅读中，thesis常引申为“核心观点、主旨”，尤其指文章或段落中作者要论证的中心思想，而非字面论文。",
+        "examUsage": "高频搭配：thesis statement（主旨句，议论文或段落开头的核心论点）。真题中常作为题眼考查文章主旨，如题干问“What is the author's thesis?”。"
+      }
+    },
+    {
+      "id": "thief",
+      "word": "thief",
+      "phonetic": "/θi:f/",
+      "meaning": "n.(thieves)贼；小偷",
+      "similar": [
+        "chief",
+        "tie",
+        "chef",
+        "brief",
+        "grief",
+        "theft",
+        "thigh",
+        "third"
+      ],
+      "question": {
+        "wordId": "thief",
+        "stem": "选择 \"thief\" 的正确中文意思：",
+        "correct": "n.(thieves)贼；小偷",
+        "options": [
+          "n.领带;联系,关系,纽带;束缚 v.扎,系,捆",
+          "a.主要的,首要的 n.首领,领袖",
+          "n.(餐馆等的)厨师长，厨师",
+          "n.(thieves)贼；小偷"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语 'þeof'，与古高地德语 'diob' 同源，核心动作是“秘密地、偷偷地拿取”，强调隐秘性而非暴力。",
+        "similarWarning": "thief vs chief: 'th' vs 'ch'，thief 指小偷，chief 指首领/主要的。thief vs chef: 'th' vs 'ch'，thief 是小偷，chef 是厨师。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "thigh",
+      "word": "thigh",
+      "phonetic": "/θai/",
+      "meaning": "n.大腿；股骨",
+      "similar": [
+        "though",
+        "sigh",
+        "thief",
+        "third",
+        "tight",
+        "tough",
+        "weigh"
+      ],
+      "question": {
+        "wordId": "thigh",
+        "stem": "选择 \"thigh\" 的正确中文意思：",
+        "correct": "n.大腿；股骨",
+        "options": [
+          "n.大腿；股骨",
+          "n.(thieves)贼；小偷",
+          "ad.可是，然而，不过 conj.尽管，虽然",
+          "n.叹息,叹息声 v.叹息,叹气"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "thigh 源自古英语 theoh，与古高地德语 dioh 同源，核心物理动作为“大腿的粗壮部分”，指从髋部到膝盖的腿部区域。词根无复杂演变，直接对应身体部位。",
+        "similarWarning": "形近词对比：1) high /haɪ/（高的），thigh 多一个 t 开头；2) though /ðəʊ/（虽然），thigh 以 th- 开头且元音不同；3) sigh /saɪ/（叹气），thigh 以 th- 开头；4) thin /θɪn/（薄的），thigh 结尾为 -igh；5) this /ðɪs/（这个），thigh 元音为 /aɪ/；6) thick /θɪk/（厚的），thigh 结尾为 -igh；7) thief /θiːf/（小偷），thigh 元音为 /aɪ/；8) thing /θɪŋ/（东西），thigh 结尾为 -igh。核心差异在于首字母 t 和元音 /aɪ/。",
+        "extendedMeaning": "考研中 thigh 无特殊僻义，仅指大腿部位。",
+        "examUsage": "thigh 在考研中常以基础词汇出现，无特殊考点或干扰项，因此省略本项。"
+      }
+    },
+    {
+      "id": "third",
+      "word": "third",
+      "phonetic": "/θə:d/",
+      "meaning": "num.第三(个)，三分之一(的)",
+      "similar": [
+        "theirs",
+        "thirst",
+        "thirty",
+        "herd",
+        "hire",
+        "tire",
+        "thief",
+        "thigh"
+      ],
+      "question": {
+        "wordId": "third",
+        "stem": "选择 \"third\" 的正确中文意思：",
+        "correct": "num.第三(个)，三分之一(的)",
+        "options": [
+          "num.三十，三十个(人或物)",
+          "n.渴,口渴;(for)渴望,热望",
+          "pron.[they的物主代词]他(她、它)们的",
+          "num.第三(个)，三分之一(的)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "third 源自古英语 thridda，与 three（三）同源，核心动作是“第三”，即基数词 three 的序数词形式，表示顺序中的第三位或三等分。",
+        "similarWarning": "thirst（口渴，n.）与 third 相差字母‘s’位置；thirty（三十，num.）比 third 多字母‘t’且元音不同；theirs（他们的，pron.）以‘s’结尾且词性不同。",
+        "extendedMeaning": "third 在考研中可作名词表示“三分之一（的份额）”，如“two-thirds”（三分之二）常见于图表作文；也可作形容词表示“第三方的”，如“third-party”（第三方）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "thirst",
+      "word": "thirst",
+      "phonetic": "/θə:st/",
+      "meaning": "n.渴,口渴;(for)渴望,热望",
+      "similar": [
+        "thirsty",
+        "third",
+        "twist",
+        "theirs",
+        "thirty",
+        "thrust"
+      ],
+      "question": {
+        "wordId": "thirst",
+        "stem": "选择 \"thirst\" 的正确中文意思：",
+        "correct": "n.渴,口渴;(for)渴望,热望",
+        "options": [
+          "v.捻;拧;扭曲;蜿蜒曲折而行 n.拧;歪曲;曲折",
+          "num.第三(个)，三分之一(的)",
+          "a.口渴的;(for)渴望的,热望的",
+          "n.渴,口渴;(for)渴望,热望"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源来自古英语thyrstan，原始印欧语根*ters-意为“干燥”。核心物理动作是“因干燥而产生渴望”，引申为对任何缺乏事物的强烈需求。",
+        "similarWarning": "thirst vs. first：thirst以th开头，表“口渴”；first以f开头，表“第一”。thirst vs. third：thirst结尾-st，表“渴”；third结尾-rd，表“第三”。",
+        "extendedMeaning": "考研中常考抽象引申义“渴望，热望”，例如a thirst for knowledge（对知识的渴望），用于描述强烈动机或追求。",
+        "examUsage": "真题中常与介词for搭配：thirst for sth. 表示“渴望某物”。例句：He has a thirst for adventure.（他渴望冒险。）注意与hunger for（渴望）近义辨析。"
+      }
+    },
+    {
+      "id": "thirsty",
+      "word": "thirsty",
+      "phonetic": "/'θə:sti/",
+      "meaning": "a.口渴的;(for)渴望的,热望的",
+      "similar": [
+        "thirst",
+        "thirty",
+        "thursday"
+      ],
+      "question": {
+        "wordId": "thirsty",
+        "stem": "选择 \"thirsty\" 的正确中文意思：",
+        "correct": "a.口渴的;(for)渴望的,热望的",
+        "options": [
+          "a.口渴的;(for)渴望的,热望的",
+          "n.星期四",
+          "num.三十，三十个(人或物)",
+          "n.渴,口渴;(for)渴望,热望"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语 thurstig，词根 thurst-（口渴） + -y（形容词后缀，表示“有…特征的”）。核心物理动作为“喉咙干燥、需要水分”，引申为“对某事物的强烈需求或渴望”，如 thirsty for knowledge（渴望知识）。",
+        "similarWarning": "thirst（n.口渴/渴望） vs thirty（num.三十） vs Thursday（n.星期四）。thirsty 以 -y 结尾表形容词；thirty 拼写为 thir- + -ty；Thursday 源自 Thor's day，与口渴无关。",
+        "extendedMeaning": "在考研中常引申为“渴望的，热望的”，后接 for，如 be thirsty for power（渴望权力），非字面口渴义。",
+        "examUsage": "常见于固定搭配 be thirsty for（渴望…），在阅读中作为情感态度词出现，表示强烈欲望。无特殊干扰项考点。"
+      }
+    },
+    {
+      "id": "thirteen",
+      "word": "thirteen",
+      "phonetic": "/'θə:'ti:n/",
+      "meaning": "num./a.十三 pron.十三(个，只...)",
+      "similar": [
+        "thirty",
+        "fifteen",
+        "fourteen"
+      ],
+      "question": {
+        "wordId": "thirteen",
+        "stem": "选择 \"thirteen\" 的正确中文意思：",
+        "correct": "num./a.十三 pron.十三(个，只...)",
+        "options": [
+          "num./a.十三 pron.十三(个，只...)",
+          "num.三十，三十个(人或物)",
+          "num.十五 pron./a.十五(个，只...)",
+          "num.十四，十四个"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "thir-（三）+ -teen（十的后缀），构成“三加十”，即十三。",
+        "similarWarning": "thirty（三十）：thirteen 以 -teen 结尾，表示13；thirty 以 -ty 结尾，表示30。fifteen（十五）：拼写差异在首字母 f- 与 th-，注意区分。fourteen（十四）：首字母 f- 与 th- 不同，且数字不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "thirty",
+      "word": "thirty",
+      "phonetic": "/'θə:ti/",
+      "meaning": "num.三十，三十个(人或物)",
+      "similar": [
+        "thirsty",
+        "dirty",
+        "third",
+        "thirst",
+        "thirteen"
+      ],
+      "question": {
+        "wordId": "thirty",
+        "stem": "选择 \"thirty\" 的正确中文意思：",
+        "correct": "num.三十，三十个(人或物)",
+        "options": [
+          "num.三十，三十个(人或物)",
+          "a.口渴的;(for)渴望的,热望的",
+          "a.弄脏的;下流的 v.弄脏,玷污",
+          "num.第三(个)，三分之一(的)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语þritig，由þrī（三）与-tig（十的后缀）构成，核心动作为“三个十”，即三十。",
+        "similarWarning": "thirsty（口渴的） vs thirty（三十）：thirsty有字母s，指渴；dirty（脏的） vs thirty：dirty以d开头，指污秽；shirt（衬衫） vs thirty：shirt有sh，指衣物；third（第三） vs thirty：third指序数；thirst（口渴） vs thirty：thirst是名词，缺y；thirteen（十三） vs thirty：thirteen为-teen后缀，指13。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "thorn",
+      "word": "thorn",
+      "phonetic": "/θɔ:n/",
+      "meaning": "n.刺,荆棘",
+      "similar": [
+        "horn",
+        "theory",
+        "ton",
+        "born",
+        "corn",
+        "than",
+        "turn",
+        "scorn"
+      ],
+      "question": {
+        "wordId": "thorn",
+        "stem": "选择 \"thorn\" 的正确中文意思：",
+        "correct": "n.刺,荆棘",
+        "options": [
+          "n.吨;(pl.)大量,许多",
+          "n.刺,荆棘",
+          "n.(牛羊等的)角;号,喇叭;角状物;角制品",
+          "n.理论,原理;学说,见解,看法"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语þorn，与德语Dorn同源，本义为‘尖锐的刺’。核心物理动作是‘刺入/扎痛’，引申为任何尖锐的障碍物或痛苦的事物。",
+        "similarWarning": "horn（角；喇叭）：字母t替换h，thorn强调‘刺’的尖锐感，horn强调‘角’的弯曲或发声功能。",
+        "extendedMeaning": "n.令人痛苦的人/事（a thorn in one's side，指持续带来麻烦或烦恼的人或事物）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "thorough",
+      "word": "thorough",
+      "phonetic": "/'θʌrə/",
+      "meaning": "a.彻底的,完全的;精心的",
+      "similar": [
+        "though"
+      ],
+      "question": {
+        "wordId": "thorough",
+        "stem": "选择 \"thorough\" 的正确中文意思：",
+        "correct": "a.彻底的,完全的;精心的",
+        "options": [
+          "conj.&prep.直到…为止，在…以前；直到…",
+          "ad.可是，然而，不过 conj.尽管，虽然",
+          "a.彻底的,完全的;精心的",
+          "v./n.(at)抓(住);夺(得)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源上来自古英语thurh，意为“通过，贯穿”，与through同源。核心动作是“从头到尾穿过去”，引申为“彻底的、完全的”，强调无遗漏、无死角地覆盖整个过程或所有细节。",
+        "similarWarning": "形近词辨析：through（通过，穿过，介词/副词），though（虽然，尽管，连词），thought（思考，想法，名词/动词think的过去式），thorough（彻底的，形容词）。差异在于字母组合：-ough发音不同，thorough中r位于中间，而through无r，though无r且o发音不同，thought有t结尾。",
+        "extendedMeaning": "在考研外刊中，thorough常引申为“精心的、一丝不苟的”，如a thorough analysis（精心分析），thorough preparation（周密准备），强调细致入微的程度，而非仅粗略的“完全”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "though",
+      "word": "though",
+      "phonetic": "/ðəu/",
+      "meaning": "ad.可是，然而，不过 conj.尽管，虽然",
+      "similar": [
+        "tough",
+        "thorough",
+        "cough",
+        "rough",
+        "thigh",
+        "touch",
+        "plough"
+      ],
+      "question": {
+        "wordId": "though",
+        "stem": "选择 \"though\" 的正确中文意思：",
+        "correct": "ad.可是，然而，不过 conj.尽管，虽然",
+        "options": [
+          "ad.可是，然而，不过 conj.尽管，虽然",
+          "a.坚韧的,棘手的;强健的,吃苦耐劳的;粗暴的",
+          "v./n.咳嗽",
+          "a.彻底的,完全的;精心的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "though 源自古英语 þēah，核心义为“尽管、虽然”，表示让步关系。词根无复杂派生，直接记忆其转折和让步的连词/副词用法。",
+        "similarWarning": "形近词辨析：thought（思想，think的过去式）、through（通过，介词）、tough（坚韧的，困难的）、although（虽然，连词，较正式）、thorough（彻底的，形容词）、cough（咳嗽）、rough（粗糙的，艰难的）、thigh（大腿，名词）。差异集中在元音和尾字母：though 含“ough”发 /əʊ/；thought 加“t”；through 变“r”位置；tough 改“t”为“u”发/ʌf/；although 加“al-”；thorough 加“r”及“o”发/ˈθʌrə/。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "thoughtful",
+      "word": "thoughtful",
+      "phonetic": "/'θɔ:tful/",
+      "meaning": "a.认真思考的,沉思的;体贴的,关心的",
+      "similar": [],
+      "question": {
+        "wordId": "thoughtful",
+        "stem": "选择 \"thoughtful\" 的正确中文意思：",
+        "correct": "a.认真思考的,沉思的;体贴的,关心的",
+        "options": [
+          "n.法律(规)；立法，法律的制定(或通过)",
+          "a.徒劳的,徒然的;自负的,爱虚荣的",
+          "n.大理石,云石",
+          "a.认真思考的,沉思的;体贴的,关心的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "thought（思考）+ -ful（充满...的）→ 充满思考的 → 既指人认真思考、沉思，也引申为体贴、关心，因为体贴源于对他人感受的深思熟虑。",
+        "similarWarning": "throughout（prep./adv. 遍及，贯穿）：与thoughtful相比，throughout无‘thought’中的‘t’音，且词尾为‘out’而非‘ful’，词义完全不同。",
+        "extendedMeaning": "在考研阅读中，thoughtful可引申为‘深思熟虑的、有见地的’，形容文章、观点或决策具有深度，如a thoughtful analysis（有深度的分析）。",
+        "examUsage": "常与considerate（体贴的）形成同义替换，或与careless（粗心的）形成反义对比。核心搭配：thoughtful of sb. to do sth.（某人做某事很体贴/周到），如‘It was thoughtful of you to bring flowers.’（你带花来真是体贴。）"
+      }
+    },
+    {
+      "id": "thousand",
+      "word": "thousand",
+      "phonetic": "/'θauzənd/",
+      "meaning": "num./n./a.一千；[pl.]许许多多，成千上万",
+      "similar": [
+        "housing"
+      ],
+      "question": {
+        "wordId": "thousand",
+        "stem": "选择 \"thousand\" 的正确中文意思：",
+        "correct": "num./n./a.一千；[pl.]许许多多，成千上万",
+        "options": [
+          "a.情绪异常激动的,歇斯底里的",
+          "a.(analytical)分析的；分解的",
+          "n.住房，住房供给；(外、阀)壳，防护罩",
+          "num./n./a.一千；[pl.]许许多多，成千上万"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "古英语þūsend，源自原始日耳曼语*þūs-hundi，意为“强壮的百人”，由þūs-（强壮）与-hund（百）组合，核心意象是“一个强大的百人单位”，后演变为“一千”。",
+        "similarWarning": "",
+        "extendedMeaning": "考研常考其复数形式thousands表示“成千上万，大量”，如thousands of years（数千年）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "thread",
+      "word": "thread",
+      "phonetic": "/θred/",
+      "meaning": "n.线,细丝;线索,思路;螺纹 v.穿线,穿过",
+      "similar": [
+        "threat",
+        "ahead",
+        "bread",
+        "dread",
+        "three",
+        "treat",
+        "trend",
+        "shrewd"
+      ],
+      "question": {
+        "wordId": "thread",
+        "stem": "选择 \"thread\" 的正确中文意思：",
+        "correct": "n.线,细丝;线索,思路;螺纹 v.穿线,穿过",
+        "options": [
+          "ad.在前面(头)；向(朝)前；提前",
+          "n.面包",
+          "n.恐吓,威胁;坏兆头,危险迹象",
+          "n.线,细丝;线索,思路;螺纹 v.穿线,穿过"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "thread源自古英语þræd，与‘thrawan（转动，拧）’同源，核心动作是‘将纤维拧在一起成线’→ 引申为‘连续贯穿的线索’→ 再引申为‘螺纹’（螺旋状连续凸起）。",
+        "similarWarning": "threat（威胁）：thread vs threat，后者无‘r’且词义完全无关；dread（恐惧）：dread vs thread，首字母d/t差异；tired（疲倦的）：tired vs thread，中间多‘i’且词义不同。",
+        "extendedMeaning": "熟词僻义：在真题中常考‘思路、贯穿的主线’（如lose the thread of an argument），以及‘螺纹’（如thread of a screw）。",
+        "examUsage": "考点搭配：thread one's way through（小心穿过），如‘thread one's way through the crowd’；真题例句：‘He managed to thread his way through the narrow streets.’（他设法穿过了狭窄的街道。）"
+      }
+    },
+    {
+      "id": "threat",
+      "word": "threat",
+      "phonetic": "/θret/",
+      "meaning": "n.恐吓,威胁;坏兆头,危险迹象",
+      "similar": [
+        "treat",
+        "thread",
+        "throat",
+        "threaten",
+        "cheat",
+        "theft",
+        "three",
+        "wheat"
+      ],
+      "question": {
+        "wordId": "threat",
+        "stem": "选择 \"threat\" 的正确中文意思：",
+        "correct": "n.恐吓,威胁;坏兆头,危险迹象",
+        "options": [
+          "n.恐吓,威胁;坏兆头,危险迹象",
+          "n.咽喉,嗓子",
+          "v.对待;治疗;论述;款待,请客 n.款待,请客",
+          "n.线,细丝;线索,思路;螺纹 v.穿线,穿过"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语‘þreat’（压迫、拥挤），本义为‘人群挤压造成的压迫感’，后引申为‘恐吓、威胁’及‘危险迹象’。核心动作：压迫/逼迫。",
+        "similarWarning": "treat（对待/治疗） vs threat（威胁）：差字母‘h’，treat无压迫感；thread（线） vs threat：差‘r’位置，thread为细长物；throat（喉咙） vs threat：多‘o’，throat为身体部位。",
+        "extendedMeaning": "在考研真题中常引申为‘潜在危险或坏兆头’，如‘a threat to stability’（对稳定的威胁），强调未发生的风险迹象。",
+        "examUsage": "常见搭配‘pose a threat to’（对…构成威胁），真题例句：‘Pollution poses a serious threat to marine life.’"
+      }
+    },
+    {
+      "id": "threaten",
+      "word": "threaten",
+      "phonetic": "/'θretən/",
+      "meaning": "v.恐吓,威胁;有…危险,快要来临",
+      "similar": [
+        "threat",
+        "theater",
+        "thereafter",
+        "create",
+        "heaven",
+        "thread",
+        "throat",
+        "treaty"
+      ],
+      "question": {
+        "wordId": "threaten",
+        "stem": "选择 \"threaten\" 的正确中文意思：",
+        "correct": "v.恐吓,威胁;有…危险,快要来临",
+        "options": [
+          "ad.此后,以后",
+          "n.(theatre)戏院;戏剧;阶梯教室",
+          "n.恐吓,威胁;坏兆头,危险迹象",
+          "v.恐吓,威胁;有…危险,快要来临"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "threat（威胁）+ -en（动词后缀，表“使...”）。核心动作：使威胁存在或施加威胁。物理画面：一个即将发生的危险或暴力行为逼近某人。",
+        "similarWarning": "threat（n.威胁） vs. thread（n.线，线索） vs. throat（n.喉咙）。差异：threaten中的ea发/e/，thread中的ea发/e/但词义不同；throat中的oa发/əʊ/，且词义完全不同。",
+        "extendedMeaning": "（考研僻义）有…危险，快要来临（尤指不好的事）。如：A storm is threatening.（暴风雨即将来临。）",
+        "examUsage": "（真题考点）threaten to do sth. 威胁要做某事；be threatened with sth. 面临…的威胁。例：The species is threatened with extinction.（该物种面临灭绝的威胁。）"
+      }
+    },
+    {
+      "id": "three",
+      "word": "three",
+      "phonetic": "/θri:/",
+      "meaning": "num.三 pron./a.三(个，只...)",
+      "similar": [
+        "thread",
+        "threat",
+        "thrive",
+        "throne",
+        "tire",
+        "agree",
+        "theme",
+        "thief"
+      ],
+      "question": {
+        "wordId": "three",
+        "stem": "选择 \"three\" 的正确中文意思：",
+        "correct": "num.三 pron./a.三(个，只...)",
+        "options": [
+          "num.三 pron./a.三(个，只...)",
+          "n.线,细丝;线索,思路;螺纹 v.穿线,穿过",
+          "v.兴旺,繁荣",
+          "n.恐吓,威胁;坏兆头,危险迹象"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*þrijiz，与拉丁语tres、希腊语treis同源，核心动作/画面为“三”这个数字的计数概念，词根为tri-（三），如triangle（三角形）、trilogy（三部曲）。",
+        "similarWarning": "tree（树，n.）：three去掉h加e；thread（线，n.）：three换d为ad；threat（威胁，n.）：three换d为t；thrive（繁荣，v.）：three换e为ive；throne（王座，n.）：three换e为one；the（定冠词）：three去掉r+e；free（自由的，adj.）：three换h为f。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "threshold",
+      "word": "threshold",
+      "phonetic": "/'θreʃhəuld/",
+      "meaning": "n.门槛;入门,开端",
+      "similar": [],
+      "question": {
+        "wordId": "threshold",
+        "stem": "选择 \"threshold\" 的正确中文意思：",
+        "correct": "n.门槛;入门,开端",
+        "options": [
+          "n.门槛;入门,开端",
+          "vt.(to，with)比较；(to)把…比作vi.相比",
+          "n.参议院,上院",
+          "n.苦恼;危难;不幸 v.使苦恼"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "threshold 由古英语 threscold（thres- 踩踏 + hold 持握）演变而来，核心物理动作是“踩踏在门下的横木上”。本义为门槛（门下的横木），引申为进入某领域的起点或界限，即“入门、开端”。",
+        "similarWarning": "",
+        "extendedMeaning": "考研中常考“阈值、临界点”义，如 pain threshold（痛阈）、threshold effect（门槛效应），指引发某种反应或结果的最小值或界限。",
+        "examUsage": "真题考点：on the threshold of（在…的开端/临界点），如 on the threshold of a new era（新时代的开端）。常见干扰项为对 threshold 与 doorstep（家门）的混淆，但 threshold 强调抽象起始点。"
+      }
+    },
+    {
+      "id": "thrift",
+      "word": "thrift",
+      "phonetic": "/θrift/",
+      "meaning": "a.节约，节俭",
+      "similar": [
+        "drift",
+        "shift",
+        "theft",
+        "christ",
+        "tariff",
+        "threat",
+        "thrill",
+        "thrive"
+      ],
+      "question": {
+        "wordId": "thrift",
+        "stem": "选择 \"thrift\" 的正确中文意思：",
+        "correct": "a.节约，节俭",
+        "options": [
+          "a.节约，节俭",
+          "v./n.漂,漂流(物)",
+          "v.替换,转移n.转换,转变;(轮)班,(换)班",
+          "n.偷窃(行为)，偷窃罪"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "thrift 源自古英语 thrift，与 thrive（繁荣）同源，核心物理动作为“通过节约积累资源以实现繁荣”。词根 thriv- 表示“生长、繁荣”，-t 为名词后缀，整体词义从“繁荣所需的手段”引申为“节约、节俭”。",
+        "similarWarning": "drift（漂流） vs thrift（节约）：drift 强调“飘动”，thrift 强调“节俭”；shift（转移） vs thrift：shift 有“改变”义，thrift 无此义；theft（偷窃） vs thrift：theft 指“偷盗”，thrift 指“节约”；thrive（繁荣） vs thrift：thrive 为动词“兴旺”，thrift 为名词“节约”，二者同源但词性不同。",
+        "extendedMeaning": "在考研中，thrift 可引申为“储蓄机构”或“互助储蓄银行”（如 thrift institution），常见于经济类文章，指专门吸收小额存款的金融机构。",
+        "examUsage": "真题考点：thrift 常与 waste（浪费）对比出现，如 thrift vs waste 或 thrift and savings（节约与储蓄）。例句：'The thrift industry has been hit hard by the recession.'（储蓄行业受经济衰退重创。）注意与 thrift 相关的短语 thrift shop（二手店）也可能在阅读中出现。"
+      }
+    },
+    {
+      "id": "thrill",
+      "word": "thrill",
+      "phonetic": "/θril/",
+      "meaning": "n.一阵激动(恐惧) v.激动；(使)毛骨悚然",
+      "similar": [
+        "till",
+        "chill",
+        "drill",
+        "trial",
+        "thrift",
+        "thrive"
+      ],
+      "question": {
+        "wordId": "thrill",
+        "stem": "选择 \"thrill\" 的正确中文意思：",
+        "correct": "n.一阵激动(恐惧) v.激动；(使)毛骨悚然",
+        "options": [
+          "n.一阵激动(恐惧) v.激动；(使)毛骨悚然",
+          "n.寒冷,寒气,寒战 v.使寒冷",
+          "prep.直到，直到…为止，与until意思相同",
+          "v.练习;操练;钻孔 n.操练;练习;钻孔(机)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能与古英语thyrlian（刺穿）有关，核心动作是“刺穿、穿透”。刺穿身体或心灵的感觉，引申为强烈的情感冲击，如一阵激动或恐惧，使全身发麻。",
+        "similarWarning": "chill /tʃɪl/ n.寒冷 v.使冷却（ch-像冷气）；thrill /θrɪl/ n.激动（th-像刺入感）。对比：thrill含th-，强调穿透性刺激；chill含ch-，强调温度下降。",
+        "extendedMeaning": "考研中常考其动词用法“使毛骨悚然”，如The horror movie thrilled the audience. 亦作名词“刺激感”，如the thrill of victory。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "thrive",
+      "word": "thrive",
+      "phonetic": "/θraiv/",
+      "meaning": "v.兴旺,繁荣",
+      "similar": [
+        "three",
+        "tribe",
+        "arrive",
+        "derive",
+        "strive",
+        "thrift",
+        "thrill",
+        "throne"
+      ],
+      "question": {
+        "wordId": "thrive",
+        "stem": "选择 \"thrive\" 的正确中文意思：",
+        "correct": "v.兴旺,繁荣",
+        "options": [
+          "v.兴旺,繁荣",
+          "vi.到达；(时间、事件)到来，发生；达到",
+          "num.三 pron./a.三(个，只...)",
+          "n.种族，部落；(植物，动物)族，类"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根不明，可能源自古诺尔斯语 'þrífa'（抓住、获得）。核心物理动作为“抓住生机”，引申为植物或事物蓬勃生长、兴旺发达。",
+        "similarWarning": "strive [v.努力] vs thrive [v.繁荣]：strive强调“奋力争取”（s-表强调+trive=摩擦挣扎），thrive强调“顺利成长”（th-表抓取+rive=生命）。thrift [n.节俭] vs thrive：thrift源于“积蓄”动作，thrive源于“繁茂”状态。",
+        "extendedMeaning": "在考研阅读中，thrive常引申为“（企业/经济）蓬勃发展”或“（生物）旺盛生长”，如：'Small businesses thrive in a competitive market.'（小企业在竞争市场中蓬勃发展。）",
+        "examUsage": "高频搭配：thrive on sth.（因……而兴旺），如：'Some plants thrive on neglect.'（有些植物在无人照料下反而长得旺。）真题中常与flourish、prosper同义替换，干扰项多设decline、wither。"
+      }
+    },
+    {
+      "id": "throat",
+      "word": "throat",
+      "phonetic": "/θrəut/",
+      "meaning": "n.咽喉,嗓子",
+      "similar": [
+        "threat",
+        "treat",
+        "thread",
+        "thrift",
+        "throne",
+        "thrust",
+        "threaten"
+      ],
+      "question": {
+        "wordId": "throat",
+        "stem": "选择 \"throat\" 的正确中文意思：",
+        "correct": "n.咽喉,嗓子",
+        "options": [
+          "n.咽喉,嗓子",
+          "n.线,细丝;线索,思路;螺纹 v.穿线,穿过",
+          "n.恐吓,威胁;坏兆头,危险迹象",
+          "v.对待;治疗;论述;款待,请客 n.款待,请客"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源与古英语 throte 相关，源自原始日耳曼语 *thrutō，核心动作意象为“喉咙通道”，指食物和空气通过的管道，引申为“嗓子”。",
+        "similarWarning": "threat（威胁）、throw（投掷）、throne（王座）、thrust（猛推）——注意 throat 含“-oat”，强调通道；threat 含“-eat”，与“吃”无关，表恐吓。",
+        "extendedMeaning": "在考研阅读中可引申为“狭窄通道”或“喉部状结构”，如 the throat of a bottle（瓶颈），但较少见。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "throne",
+      "word": "throne",
+      "phonetic": "/θrəun/",
+      "meaning": "n.御座，宝座；王位，王权",
+      "similar": [
+        "tone",
+        "prone",
+        "three",
+        "thrive",
+        "throat"
+      ],
+      "question": {
+        "wordId": "throne",
+        "stem": "选择 \"throne\" 的正确中文意思：",
+        "correct": "n.御座，宝座；王位，王权",
+        "options": [
+          "num.三 pron./a.三(个，只...)",
+          "a.倾向于,俯伏的,倾斜的,陡的",
+          "n.音调,音色;风气,气氛;腔调,语气;色调",
+          "n.御座，宝座；王位，王权"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "throne 源自古英语 thron，源自拉丁语 thronus，最终来自希腊语 thronos（高座、座位），核心物理动作是“高高在上的座位”，引申为“王位、王权”。",
+        "similarWarning": "throne 与 throw（投掷）形近，但 throne 侧重“王座、王位”，而 throw 是“扔”的动作；throne 与 thrive（繁荣）形近，但 throne 是名词，thrive 是动词。",
+        "extendedMeaning": "在考研中，throne 常引申为“王权、统治地位”，如“ascend the throne”（登基）、“seize the throne”（篡位）。",
+        "examUsage": "真题中常考搭配“the throne of power”或“the throne of state”，作为权力象征的题眼。"
+      }
+    },
+    {
+      "id": "thrust",
+      "word": "thrust",
+      "phonetic": "/θrʌst/",
+      "meaning": "vt.插入；猛推 n.插，推力 vi.刺，戳，冲",
+      "similar": [
+        "trust",
+        "rust",
+        "thus",
+        "crust",
+        "christ",
+        "thirst",
+        "threat",
+        "thrift"
+      ],
+      "question": {
+        "wordId": "thrust",
+        "stem": "选择 \"thrust\" 的正确中文意思：",
+        "correct": "vt.插入；猛推 n.插，推力 vi.刺，戳，冲",
+        "options": [
+          "ad.如此；像这样；于是；因此",
+          "n.铁锈 v.(使)生锈",
+          "vt.插入；猛推 n.插，推力 vi.刺，戳，冲",
+          "vt.信任;盼望;委托 n.(in)信任,依赖;委托"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自中古英语 thrusten，与古诺尔斯语 þrysta（推、挤）同源。核心物理动作为“用力将某物沿直线方向强行推入或穿过”，强调瞬间的爆发力与穿透感。词根词缀层面无复杂派生，直接对应“猛推→刺→插入”的动作链条。",
+        "similarWarning": "形近词对比：\n- trust（信任）：thrust vs trust，区别在于首字母组合“thr-”表动作，“tr-”表信任。\n- thrust vs thirst（口渴）：前者含“r”后接“ust”，后者含“i”后接“irst”，拼写差异在元音。\n- thrust vs crust（外壳）：前者以“thr”开头，后者以“cr”开头，且词义无关联。",
+        "extendedMeaning": "考研僻义：\n1. （n.）要点、核心：the thrust of an argument（论证的核心/主旨）。\n2. （n.）推动力、驱动力：the thrust of economic development（经济发展的推动力）。\n3. （vi.）强行推进、突破：thrust into the market（打入市场）。",
+        "examUsage": "真题考点：\n1. 固定搭配：thrust upon（强加于），如“The responsibility was thrust upon him.”（责任被强加于他。）\n2. 真题例句：The company thrust its new product into the competitive market.（公司将其新产品强行打入竞争激烈的市场。）\n3. 干扰项常与“trust”混淆，需注意上下文动作语义。"
+      }
+    },
+    {
+      "id": "thumb",
+      "word": "thumb",
+      "phonetic": "/θʌm/",
+      "meaning": "n.拇指 v.示意要求搭车；迅速翻阅",
+      "similar": [
+        "hum",
+        "tub",
+        "dumb",
+        "numb",
+        "thus",
+        "tomb",
+        "theme"
+      ],
+      "question": {
+        "wordId": "thumb",
+        "stem": "选择 \"thumb\" 的正确中文意思：",
+        "correct": "n.拇指 v.示意要求搭车；迅速翻阅",
+        "options": [
+          "n.拇指 v.示意要求搭车；迅速翻阅",
+          "v.哼曲子；发嗡嗡声；忙碌n.嗡嗡声，嘈杂声",
+          "a.哑的,无言的",
+          "n.木盆,澡盆"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "thumb源自古英语thūma，与拉丁语tumēre（肿胀）同源，核心动作是“鼓起的部分”。拇指是手指中最短最粗的，像鼓起的一截，故得名。动词义“示意搭车”源于竖起拇指的经典手势；“迅速翻阅”则来自用拇指翻书页的物理动作。",
+        "similarWarning": "dumb（哑的，无声的）与thumb相差字母d/th；numb（麻木的）与thumb相差n/th；tomb（坟墓）与thumb相差字母o/b，且发音不同。辨析：thumb强调拇指或翻阅动作，dumb指无法说话，numb指失去知觉，tomb指墓葬。",
+        "extendedMeaning": "在考研阅读中，thumb作动词常引申为“快速浏览、草草翻阅”，如thumb through a magazine（快速翻阅杂志），强调不仔细阅读。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "thunder",
+      "word": "thunder",
+      "phonetic": "/'θʌndə/",
+      "meaning": "n.雷(声);轰隆声 v.打雷;大声说,吼叫",
+      "similar": [
+        "hinder",
+        "hunger",
+        "tender",
+        "blunder"
+      ],
+      "question": {
+        "wordId": "thunder",
+        "stem": "选择 \"thunder\" 的正确中文意思：",
+        "correct": "n.雷(声);轰隆声 v.打雷;大声说,吼叫",
+        "options": [
+          "v.(from)阻止,妨碍 a.后面的",
+          "a.嫩的;敏感的;温柔的 v.提出,提供;投标",
+          "n./v.饥饿;渴望",
+          "n.雷(声);轰隆声 v.打雷;大声说,吼叫"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿雷声的轰鸣。词根与原始印欧语*(s)ten-（意为“咆哮、雷鸣”）相关，同源词包括拉丁语tonare（打雷）和英语stun（使震惊）。核心物理动作为空气剧烈膨胀产生的爆破声，引申为任何类似巨响或愤怒的吼叫。",
+        "similarWarning": "blunder（v.犯大错；n.愚蠢错误）：bl-开头强调“盲目、笨拙”，thunder强调“声音巨大”。对比：blunder是行为失误，thunder是自然现象或怒吼。",
+        "extendedMeaning": "考研僻义：1. 比喻义“怒斥、猛烈抨击”，如thunder against（强烈谴责）；2. 动词“轰然移动”，如The train thundered past.（火车隆隆驶过）。",
+        "examUsage": "真题考点：固定搭配thunder and lightning（雷电交加）常作为环境描写；thunder in the air（局势紧张）在阅读中表隐喻。例句：The politician thundered against corruption.（政客猛烈抨击腐败。）"
+      }
+    },
+    {
+      "id": "thursday",
+      "word": "Thursday",
+      "phonetic": "/'θɜ:zdeɪ/",
+      "meaning": "n.星期四",
+      "similar": [
+        "tuesday",
+        "thirsty"
+      ],
+      "question": {
+        "wordId": "thursday",
+        "stem": "选择 \"Thursday\" 的正确中文意思：",
+        "correct": "n.星期四",
+        "options": [
+          "vt.放大，增强；详述，详加解说",
+          "n.星期四",
+          "a.口渴的;(for)渴望的,热望的",
+          "n.星期二"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源于古英语，来自古北欧神话中的雷神Thor（索尔），意为“Thor's day”（索尔之日），对应拉丁语中的Jovis dies（木星日）。",
+        "similarWarning": "Tuesday（星期二）vs Thursday（星期四）：首字母T相同，但Tuesday源于北欧战神Tyr，Thursday源于雷神Thor，词源不同。Thirsty（口渴的）vs Thursday：拼写差异在“r”和“s”，注意Thursday中有“s”无“r”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "thus",
+      "word": "thus",
+      "phonetic": "/ðʌs/",
+      "meaning": "ad.如此；像这样；于是；因此",
+      "similar": [
+        "thrust",
+        "thumb",
+        "trust"
+      ],
+      "question": {
+        "wordId": "thus",
+        "stem": "选择 \"thus\" 的正确中文意思：",
+        "correct": "ad.如此；像这样；于是；因此",
+        "options": [
+          "ad.如此；像这样；于是；因此",
+          "vt.插入；猛推 n.插，推力 vi.刺，戳，冲",
+          "n.拇指 v.示意要求搭车；迅速翻阅",
+          "vt.信任;盼望;委托 n.(in)信任,依赖;委托"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语þus，与that同源，核心指“以这种方式”，后延伸出因果逻辑“因此”。",
+        "similarWarning": "this（这个，指代近处单数）vs thus（如此，副词表示方式/结果）；thrust（刺，推）vs thus（无关联动作义）。",
+        "extendedMeaning": "在正式写作中表“因此”时，常替代so，体现逻辑严谨性。",
+        "examUsage": "常见于完形填空逻辑题，如：thus + 分词结构（thus reducing...），表示结果状语。"
+      }
+    },
+    {
+      "id": "tick",
+      "word": "tick",
+      "phonetic": "/tik/",
+      "meaning": "n.滴答声;勾号 v.滴答响;打勾号于",
+      "similar": [
+        "trick",
+        "kick",
+        "lick",
+        "pick",
+        "tuck",
+        "sticky",
+        "ticket",
+        "brick"
+      ],
+      "question": {
+        "wordId": "tick",
+        "stem": "选择 \"tick\" 的正确中文意思：",
+        "correct": "n.滴答声;勾号 v.滴答响;打勾号于",
+        "options": [
+          "n.滴答声;勾号 v.滴答响;打勾号于",
+          "vt.舔；(火焰或浪)掠过；打败 n.舔；少量",
+          "n.诡计,骗局;恶作剧;窍门 vt.欺骗,哄骗",
+          "n./v.踢"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿时钟或小型机械的轻微重复声响“滴答”。名词衍生出“勾号”（打勾时的短促动作/声音），动词则引申为“标记”或“运作”。",
+        "similarWarning": "stick（棍子；粘住） vs tick（滴答）: s-（形状） vs t-（声音）；thick（厚的） vs tick: h-（厚度） vs 无h-；trick（诡计） vs tick: r-（绕弯） vs 无r-；kick（踢） vs tick: k-（动作） vs t-（声音）；lick（舔） vs tick: l-（舌头） vs t-；pick（挑选） vs tick: p-（手） vs t-；sick（生病的） vs tick: s-（状态） vs t-；tuck（塞入） vs tick: u-（空间） vs i-（时间）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ticket",
+      "word": "ticket",
+      "phonetic": "/'tikit/",
+      "meaning": "n.票,入场券;票签;(交通违章)罚款传票",
+      "similar": [
+        "cricket",
+        "tick",
+        "bucket",
+        "jacket",
+        "nickel",
+        "packet",
+        "racket",
+        "rocket"
+      ],
+      "question": {
+        "wordId": "ticket",
+        "stem": "选择 \"ticket\" 的正确中文意思：",
+        "correct": "n.票,入场券;票签;(交通违章)罚款传票",
+        "options": [
+          "n.票,入场券;票签;(交通违章)罚款传票",
+          "n.滴答声;勾号 v.滴答响;打勾号于",
+          "n.板球;蟋蟀",
+          "n.水桶,吊桶"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古法语‘estiquet’（贴上的标签），后指代‘票证’。词根‘tick-’（标签、标记）+‘-et’（小后缀），核心物理动作是‘标记、贴签’，引申为‘凭证、票据’及‘违章罚单’。",
+        "similarWarning": "ticket vs. cricket（板球；蟋蟀）：ticket含‘tick-’，cricket含‘crick-’；ticket表票证，cricket表运动或昆虫。",
+        "extendedMeaning": "（考研僻义）‘政治/政党的候选人名单’（如‘a party ticket’），或‘纲领、立场’（如‘run on a platform ticket’）。",
+        "examUsage": "（真题考点）‘traffic ticket’（交通罚单）为高频考点；‘ticket to success’（成功的门票/关键）在阅读中常作比喻用法。"
+      }
+    },
+    {
+      "id": "tide",
+      "word": "tide",
+      "phonetic": "/taid/",
+      "meaning": "n.潮,潮汐;潮流,趋势",
+      "similar": [
+        "tie",
+        "tidy",
+        "tile",
+        "tire",
+        "stride",
+        "abide",
+        "aside",
+        "bride"
+      ],
+      "question": {
+        "wordId": "tide",
+        "stem": "选择 \"tide\" 的正确中文意思：",
+        "correct": "n.潮,潮汐;潮流,趋势",
+        "options": [
+          "n.瓦片,瓷砖 vt.铺瓦于，贴砖于",
+          "a.整洁的,整齐的 v.整理,收拾",
+          "n.领带;联系,关系,纽带;束缚 v.扎,系,捆",
+          "n.潮,潮汐;潮流,趋势"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语' tid '(时间、季节)，与德语' Zeit '(时间)同源。核心物理动作是'时间的周期性涨落'，引申为任何有规律、可预测的变化趋势，如'潮汐'→'潮流'。",
+        "similarWarning": "tie (系带) vs tide (潮汐)：tie 无字母 d，且词义为'捆绑'；hide (隐藏) vs tide：h 替换 t，词义不同；ride (骑乘) vs tide：r 替换 t，词义为'骑行'。",
+        "extendedMeaning": "在考研英语中，常考'潮流、趋势'的抽象义，如'the tide of public opinion'（舆论潮流），或'turn the tide'（扭转局势），强调不可逆转的宏观变化。",
+        "examUsage": "真题考点：'the tide of history'（历史潮流）作为核心题眼；'stem the tide'（遏制潮流）为固定搭配，常出现在阅读理解和翻译中。"
+      }
+    },
+    {
+      "id": "tidy",
+      "word": "tidy",
+      "phonetic": "/'taidi/",
+      "meaning": "a.整洁的,整齐的 v.整理,收拾",
+      "similar": [
+        "tide",
+        "tiny"
+      ],
+      "question": {
+        "wordId": "tidy",
+        "stem": "选择 \"tidy\" 的正确中文意思：",
+        "correct": "a.整洁的,整齐的 v.整理,收拾",
+        "options": [
+          "a.整洁的,整齐的 v.整理,收拾",
+          "n.潮,潮汐;潮流,趋势",
+          "pron.谁也不,无人 n.小人物",
+          "a.极小的,微小的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能与中古英语tiden（整理）有关。核心动作是使事物有序、干净，强调去除杂乱后的整洁状态。",
+        "similarWarning": "tide（潮汐）：tidy vs tide，末尾字母y/ide不同，tidy强调整洁，tide指海水涨落。tiny（微小的）：tidy vs tiny，字母d/n不同，tidy指整洁，tiny指尺寸小。study（学习）：tidy vs study，首字母t/s不同，tidy是形容词/动词，study是名词/动词。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tie",
+      "word": "tie",
+      "phonetic": "/tai/",
+      "meaning": "n.领带;联系,关系,纽带;束缚 v.扎,系,捆",
+      "similar": [
+        "tide",
+        "tile",
+        "tire",
+        "die",
+        "pie",
+        "tin",
+        "tip",
+        "toe"
+      ],
+      "question": {
+        "wordId": "tie",
+        "stem": "选择 \"tie\" 的正确中文意思：",
+        "correct": "n.领带;联系,关系,纽带;束缚 v.扎,系,捆",
+        "options": [
+          "v.(使)疲倦,(使)厌倦 n.(=tyre)轮胎,车胎",
+          "n.潮,潮汐;潮流,趋势",
+          "n.领带;联系,关系,纽带;束缚 v.扎,系,捆",
+          "n.瓦片,瓷砖 vt.铺瓦于，贴砖于"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "tie 源自古英语 tigan，核心物理动作是“用绳子等物将物体连接或固定在一起”，引申为抽象的联系、关系或束缚。",
+        "similarWarning": "tide (潮汐，tie + d)；tile (瓷砖，tie + l)；time (时间，tie + m)；tire (轮胎/疲劳，tie + r)；die (死亡，d-替换t)；lie (躺/撒谎，l-替换t)；pie (馅饼，p-替换t)；the (定冠词，th-替换t)。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（基础简单词，无特殊考点）"
+      }
+    },
+    {
+      "id": "tiger",
+      "word": "tiger",
+      "phonetic": "/'taigə/",
+      "meaning": "n．虎；老虎",
+      "similar": [
+        "trigger",
+        "finger",
+        "linger",
+        "timber",
+        "tie",
+        "tide",
+        "tile",
+        "tire"
+      ],
+      "question": {
+        "wordId": "tiger",
+        "stem": "选择 \"tiger\" 的正确中文意思：",
+        "correct": "n．虎；老虎",
+        "options": [
+          "n.扳机 vt.触发，引起",
+          "v.逗留,徘徊,拖延,留恋,浪费光阴,苟延残喘",
+          "n．虎；老虎",
+          "n.手指;指状物;指针"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自希腊语 tigris，拟声词，模仿老虎的吼叫声，后通过拉丁语传入英语，直接指代这种大型猫科动物。",
+        "similarWarning": "trigger（n.扳机，vt.触发）：tiger 比 trigger 少一个字母 r，且 tiger 指动物，trigger 指引发动作的装置或行为。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tight",
+      "word": "tight",
+      "phonetic": "/tait/",
+      "meaning": "a.紧的;紧身的,装紧的;密封的 ad.紧紧地",
+      "similar": [
+        "eight",
+        "eighty",
+        "flight",
+        "fright",
+        "height",
+        "plight",
+        "slight",
+        "sigh"
+      ],
+      "question": {
+        "wordId": "tight",
+        "stem": "选择 \"tight\" 的正确中文意思：",
+        "correct": "a.紧的;紧身的,装紧的;密封的 ad.紧紧地",
+        "options": [
+          "num.八 pron.八(个，只...)",
+          "a.紧的;紧身的,装紧的;密封的 ad.紧紧地",
+          "n.飞翔,飞行;航班;航程;逃跑;楼梯的一段",
+          "num./a.八十 pron.八十(个，只...)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古英语‘þiht’（紧的、结实的），与‘thigh’（大腿）同源，核心物理动作是‘拉紧、收缩’，形成紧密、无缝隙的状态，引申为时间紧、关系紧等。",
+        "similarWarning": "eight（八）、fight（战斗）、light（光/轻的）、might（力量/可能）、night（夜晚）、right（正确/右边）、sight（视力/景象）、tonight（今晚）。差异在于首字母或中间字母不同，tight强调‘紧’，right强调‘正确/右’，light强调‘轻/光’。",
+        "extendedMeaning": "【时间紧】a tight schedule（紧凑的日程）；【关系紧】a tight group（关系紧密的小团体）；【情况紧】in a tight spot（处于困境）。",
+        "examUsage": "常用于完形填空或翻译，如‘hold tight’（紧紧抓住）或‘tight budget’（预算紧张）。注意与‘right’的拼写干扰，真题中曾出现‘tight-lipped’（闭口不言的）作为熟词僻义考点。"
+      }
+    },
+    {
+      "id": "tile",
+      "word": "tile",
+      "phonetic": "/tail/",
+      "meaning": "n.瓦片,瓷砖 vt.铺瓦于，贴砖于",
+      "similar": [
+        "tie",
+        "file",
+        "mile",
+        "pile",
+        "tale",
+        "tide",
+        "till",
+        "tilt"
+      ],
+      "question": {
+        "wordId": "tile",
+        "stem": "选择 \"tile\" 的正确中文意思：",
+        "correct": "n.瓦片,瓷砖 vt.铺瓦于，贴砖于",
+        "options": [
+          "n.英里，哩，海里",
+          "n.锉刀;文件,档案 v.锉",
+          "n.领带;联系,关系,纽带;束缚 v.扎,系,捆",
+          "n.瓦片,瓷砖 vt.铺瓦于，贴砖于"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根不明，可能源自拉丁语‘tegula’（覆盖物）。核心物理动作：用扁平硬质材料（如陶土、陶瓷）覆盖或装饰平面（如屋顶、墙面）。",
+        "similarWarning": "title（标题；tile+‘t’+‘le’）vs tile：title多一个‘t’，意为标题；tile为瓦片。tie（系；tile变‘l’为‘e’）vs tile：tie意为系、绑；tile为瓦片。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "till",
+      "word": "till",
+      "phonetic": "/til/",
+      "meaning": "prep.直到，直到…为止，与until意思相同",
+      "similar": [
+        "bill",
+        "fill",
+        "kill",
+        "mill",
+        "pill",
+        "tile",
+        "tilt",
+        "toll"
+      ],
+      "question": {
+        "wordId": "till",
+        "stem": "选择 \"till\" 的正确中文意思：",
+        "correct": "prep.直到，直到…为止，与until意思相同",
+        "options": [
+          "vt.杀死，消灭；破坏，毁灭；消磨(时间)",
+          "v.(with)填满,充满",
+          "n.账单;招贴,广告;(人员,职称等的)表;钞票",
+          "prep.直到，直到…为止，与until意思相同"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "till 源自古英语 'til'，意为‘达到、直到’，与古诺尔斯语 'til'（到）同源。核心动作是空间或时间上的‘延伸至某点’，强调持续状态直至界限。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tilt",
+      "word": "tilt",
+      "phonetic": "/tilt/",
+      "meaning": "v.(使)倾侧；(使)倾斜 n.倾侧；倾斜",
+      "similar": [
+        "tile",
+        "till",
+        "toilet",
+        "guilt",
+        "pilot",
+        "quilt",
+        "tight",
+        "twist"
+      ],
+      "question": {
+        "wordId": "tilt",
+        "stem": "选择 \"tilt\" 的正确中文意思：",
+        "correct": "v.(使)倾侧；(使)倾斜 n.倾侧；倾斜",
+        "options": [
+          "v.(使)倾侧；(使)倾斜 n.倾侧；倾斜",
+          "n.瓦片,瓷砖 vt.铺瓦于，贴砖于",
+          "prep.直到，直到…为止，与until意思相同",
+          "n.厕所,盥洗室"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不明，但核心物理动作是“使一端抬起或下降，偏离水平或垂直位置”，强调动态的倾斜过程，而非静态的斜度。",
+        "similarWarning": "tile (瓷砖，铺瓦) vs tilt (倾斜)：tile含“片状覆盖物”，tilt含“偏离垂直”。till (直到，耕作) vs tilt：till无倾斜义，tilt有。guilt (内疚) vs tilt：guilt首字母g，tilt首字母t。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "timber",
+      "word": "timber",
+      "phonetic": "/'timbə/",
+      "meaning": "n.木材,木料",
+      "similar": [
+        "fiber",
+        "tiger",
+        "lumber",
+        "temper"
+      ],
+      "question": {
+        "wordId": "timber",
+        "stem": "选择 \"timber\" 的正确中文意思：",
+        "correct": "n.木材,木料",
+        "options": [
+          "n．虎；老虎",
+          "n.(fibre)纤维;构造;纤维制品",
+          "n.木材,木料",
+          "n.木材,木料"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根tim-（建筑、木材）+ -ber（名词后缀），原始印欧语根*dom-（房子）的变体，核心物理动作为“用于建造房屋的材料”，即木材、木料。",
+        "similarWarning": "timber vs. lumber：timber指未加工的原木或建筑用材，强调材质；lumber指已锯成板材的木材，且为美式英语常用，侧重加工状态。",
+        "extendedMeaning": "在考研阅读中可引申为“（人的）素质、才干”，如“a man of the right timber”指“具备合适素质的人”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "timely",
+      "word": "timely",
+      "phonetic": "/'taimli/",
+      "meaning": "a.及时的,适时的",
+      "similar": [
+        "imply",
+        "lively",
+        "namely"
+      ],
+      "question": {
+        "wordId": "timely",
+        "stem": "选择 \"timely\" 的正确中文意思：",
+        "correct": "a.及时的,适时的",
+        "options": [
+          "a.及时的,适时的",
+          "v.意指,含…意思,暗示",
+          "ad.即,也就是",
+          "a.活泼的,活跃的;栩栩如生的,真实的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "time（时间）+ -ly（形容词后缀）→ 符合时间点的→ 及时的，适时的。核心动作：与特定时间点匹配。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "timid",
+      "word": "timid",
+      "phonetic": "/'timid/",
+      "meaning": "a.胆怯的,怯懦的",
+      "similar": [
+        "amid",
+        "humid",
+        "limit",
+        "rigid",
+        "vivid"
+      ],
+      "question": {
+        "wordId": "timid",
+        "stem": "选择 \"timid\" 的正确中文意思：",
+        "correct": "a.胆怯的,怯懦的",
+        "options": [
+          "n.界限,限度,范围 v.(to)限制,限定",
+          "a.湿的,湿气重的",
+          "prep.在…中间，在…之中，被…围绕",
+          "a.胆怯的,怯懦的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'timidus'，来自 'timere'（害怕）。核心动作是“因恐惧而退缩”，直接描绘胆小、缺乏勇气的状态。",
+        "similarWarning": "与 'humid'（潮湿的）仅首字母不同；与 'limit'（限制）拼写差异在 'timi' vs 'limi'；与 'rigid'（僵硬的）结尾不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tin",
+      "word": "tin",
+      "phonetic": "/tin/",
+      "meaning": "n.罐头；锡 a.锡制的 vt.镀锡于",
+      "similar": [
+        "tiny",
+        "twin",
+        "bin",
+        "kin",
+        "pin",
+        "sin",
+        "tan",
+        "ten"
+      ],
+      "question": {
+        "wordId": "tin",
+        "stem": "选择 \"tin\" 的正确中文意思：",
+        "correct": "n.罐头；锡 a.锡制的 vt.镀锡于",
+        "options": [
+          "n.罐头；锡 a.锡制的 vt.镀锡于",
+          "a.双的,成对的,孪生的 n.孪生子,双生子",
+          "n.(贮藏食物等用的)箱子",
+          "a.极小的,微小的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根无复杂演变，tin 源自古英语，原指金属锡，后转指用锡制成的容器（罐头），核心物理动作是“包裹/密封”金属容器。",
+        "similarWarning": "thin（adj.薄的/瘦的）与 tin 差一个 h，词义无关；tiny（adj.微小的）与 tin 差一个 y，拼写相似但意为“极小的”；twin（n.双胞胎）与 tin 差一个 w，意为“成对的”。注意区分字母差异。",
+        "extendedMeaning": "熟词僻义：在考研阅读中，tin 常作名词“罐头”使用，如“tin can”（金属罐），引申为“罐装食品”。",
+        "examUsage": "基础词，真题中罕见特殊考点，通常以“a tin of”结构出现，如“a tin of beans”（一罐豆子），无高频干扰项。"
+      }
+    },
+    {
+      "id": "tiny",
+      "word": "tiny",
+      "phonetic": "/'taini/",
+      "meaning": "a.极小的,微小的",
+      "similar": [
+        "tin",
+        "tidy",
+        "sting"
+      ],
+      "question": {
+        "wordId": "tiny",
+        "stem": "选择 \"tiny\" 的正确中文意思：",
+        "correct": "a.极小的,微小的",
+        "options": [
+          "n.罐头；锡 a.锡制的 vt.镀锡于",
+          "a.极小的,微小的",
+          "v./n.刺,刺痛,剧痛;刺,叮",
+          "a.整洁的,整齐的 v.整理,收拾"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自拟声词或与'小'相关的古英语词根，核心物理动作是描述物体体积或尺寸极小，强调视觉上的微小感。",
+        "similarWarning": "tidy（整洁的） vs tiny（微小的）：tidy含字母'd'，核心是‘整理后有序’；tiny核心是‘体积小’。sting（刺痛） vs tiny：sting以's'开头，核心是‘刺的动作’；tiny是形容词。thing（东西） vs tiny：thing以'th'开头，核心是‘物体’；tiny是属性。think（思考） vs tiny：think含'k'，核心是‘思维活动’；tiny是尺寸。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tip",
+      "word": "tip",
+      "phonetic": "/tip/",
+      "meaning": "n.尖端;末端;小费 n./v.轻击;倾斜;给小费",
+      "similar": [
+        "trip",
+        "dip",
+        "hip",
+        "lip",
+        "rip",
+        "sip",
+        "tap",
+        "tie"
+      ],
+      "question": {
+        "wordId": "tip",
+        "stem": "选择 \"tip\" 的正确中文意思：",
+        "correct": "n.尖端;末端;小费 n./v.轻击;倾斜;给小费",
+        "options": [
+          "n.尖端;末端;小费 n./v.轻击;倾斜;给小费",
+          "n.臀部，髋；屋脊",
+          "n.旅行,远足 v.绊倒；失足；犯错",
+          "v./n.浸,蘸"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根无明确词根，拟声词源。核心物理动作：轻触（tip作为轻击）或倾斜（tip作为倾斜），引申为端部（物体最轻触的点）和小费（给予服务者的额外轻触性酬劳）。",
+        "similarWarning": "tip vs tap: tip轻击/倾斜，tap轻拍/水龙头。tip vs trip: trip旅行/绊倒，tip无旅行义。tip vs dip: dip蘸/下沉，tip倾斜但不浸入。",
+        "extendedMeaning": "tip作名词：秘诀、内幕消息（如tip-off线报，真题中常指考试或商业的提示）。tip作动词：使倾斜、翻倒（如tip over倾覆，考研阅读中描述物体或局势失衡）。",
+        "examUsage": "tip作动词：tip the balance/scales起决定性作用（考研阅读中常考，如‘这一因素tip the balance in favor of...’）。固定搭配：on the tip of one's tongue话到嘴边（熟词僻义考点）。"
+      }
+    },
+    {
+      "id": "tire",
+      "word": "tire",
+      "phonetic": "/'taiə/",
+      "meaning": "v.(使)疲倦,(使)厌倦 n.(=tyre)轮胎,车胎",
+      "similar": [
+        "tie",
+        "hire",
+        "tide",
+        "tile",
+        "wire",
+        "entire",
+        "retire",
+        "satire"
+      ],
+      "question": {
+        "wordId": "tire",
+        "stem": "选择 \"tire\" 的正确中文意思：",
+        "correct": "v.(使)疲倦,(使)厌倦 n.(=tyre)轮胎,车胎",
+        "options": [
+          "n.潮,潮汐;潮流,趋势",
+          "v.(使)疲倦,(使)厌倦 n.(=tyre)轮胎,车胎",
+          "n.领带;联系,关系,纽带;束缚 v.扎,系,捆",
+          "n./v.雇用,租借"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "tire 词源不明，核心动作是“使失去力量或兴趣”，源自原始日耳曼语，本义为“拉长、伸展”，引申为“耗尽精力”或“对某事失去耐心”。",
+        "similarWarning": "tired（疲倦的）vs. tire（轮胎/疲倦）：tire 作动词时与 tired 同源，但 tire 本身是动词原形；tie（系）与 tire 差一个字母 r，词义无关；fire（火）与 tire 差 f/t，拼写易混但无关联。",
+        "extendedMeaning": "tire 在考研中常考“厌倦”义，如 tire of（对…厌倦），而非单纯“疲倦”。",
+        "examUsage": "常见搭配：tire of (doing) sth. 表示“厌倦做某事”，如：He never tires of talking about his travels.（他从不厌倦谈论他的旅行。）"
+      }
+    },
+    {
+      "id": "tiresome",
+      "word": "tiresome",
+      "phonetic": "/'taiəsəm/",
+      "meaning": "a.使人厌倦的,讨厌的",
+      "similar": [
+        "resume",
+        "presume"
+      ],
+      "question": {
+        "wordId": "tiresome",
+        "stem": "选择 \"tiresome\" 的正确中文意思：",
+        "correct": "a.使人厌倦的,讨厌的",
+        "options": [
+          "n.个人简历 v.再继续,重新开始;再用;恢复",
+          "a.使人厌倦的,讨厌的",
+          "v.(使)固定;修理;安装;决定;注视 n.困境",
+          "v.假定,假设,认为,揣测,滥用,擅自行动"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "tire（使疲倦）+ -some（形容词后缀，表示“具有…性质的”）。核心动作：让人感到疲倦、厌烦，从体力疲劳引申为精神上的厌倦。",
+        "similarWarning": "resume（重新开始，简历） vs presume（假定，推测）。tiresome以tire开头，强调“累”；resume以re-开头，表示“再次”；presume以pre-开头，表示“事先”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tissue",
+      "word": "tissue",
+      "phonetic": "/'tɪʃu:/",
+      "meaning": "n.织物,薄绢,纸巾;(动,植物的)组织",
+      "similar": [],
+      "question": {
+        "wordId": "tissue",
+        "stem": "选择 \"tissue\" 的正确中文意思：",
+        "correct": "n.织物,薄绢,纸巾;(动,植物的)组织",
+        "options": [
+          "n.共产主义",
+          "n.织物,薄绢,纸巾;(动,植物的)组织",
+          "n.药片;碑,匾",
+          "n.性格,品质,特性;人物,角色;字符,(汉)字"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'texere'（编织），词根'tex'通过音变为'tiss'，核心动作是“编织”。织物是编织而成，动植物的组织也是由细胞编织而成，故引申为“组织”。",
+        "similarWarning": "issue（问题，发行）：tissue与issue拼写相似，差异在首字母't'与'i'，但词源不同。issue源自拉丁语'exire'（出去），核心是“流出”，而tissue核心是“编织”。",
+        "extendedMeaning": "在考研中，tissue常考“（动植物的）组织”这一专业义项，如muscle tissue（肌肉组织），而非日常的“纸巾”义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "toast",
+      "word": "toast",
+      "phonetic": "/təust/",
+      "meaning": "n.烤面包,吐司;祝酒(词)v.烘,烤;(向…)祝酒",
+      "similar": [
+        "boast",
+        "coast",
+        "roast",
+        "cast",
+        "east",
+        "goat",
+        "host",
+        "post"
+      ],
+      "question": {
+        "wordId": "toast",
+        "stem": "选择 \"toast\" 的正确中文意思：",
+        "correct": "n.烤面包,吐司;祝酒(词)v.烘,烤;(向…)祝酒",
+        "options": [
+          "v.烤,炙,烘",
+          "n.烤面包,吐司;祝酒(词)v.烘,烤;(向…)祝酒",
+          "v.(of,about)自夸,夸耀 n.自夸,大话",
+          "n.海岸,海滨"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源来自拉丁语“tostus”（烤过的），是“torrere”（烤）的过去分词。核心物理动作是“用火烘烤使表面焦黄”，引申为“烤面包片”。祝酒义源于古罗马习俗，将烤面包片浸入酒中调味，后演变为举杯祝福的动作。",
+        "similarWarning": "boast（吹嘘）：b-开头，与吹牛相关；coast（海岸）：c-开头，与陆地边缘相关；roast（烤，烤肉）：r-开头，强调长时间烘烤大块食物；toast强调烤至酥脆的面包片或简短祝酒。",
+        "extendedMeaning": "在考研中，“toast”常作为“祝酒词”或“接受祝酒的人”出现，如“propose a toast”（提议祝酒）、“drink a toast to”（为…干杯）。此外，在口语中可作动词表示“彻底击败”或“使完蛋”，如“If I'm late, I'm toast.”（我要是迟到就完了）。",
+        "examUsage": "真题中常考搭配“toast to...”或“drink a toast to...”，表示“为…祝酒”。例如：“They raised their glasses to toast to the success of the project.”（他们举杯庆祝项目成功。）注意与“roast”（严厉批评）在语境中的区别。"
+      }
+    },
+    {
+      "id": "tobacco",
+      "word": "tobacco",
+      "phonetic": "/tə'bækəu/",
+      "meaning": "n.烟草,烟叶",
+      "similar": [],
+      "question": {
+        "wordId": "tobacco",
+        "stem": "选择 \"tobacco\" 的正确中文意思：",
+        "correct": "n.烟草,烟叶",
+        "options": [
+          "n.烟草,烟叶",
+          "n.折扣；贴现(率) vt.打折扣;不重视",
+          "n.补偿(或赔偿)的款物；补偿，赔偿",
+          "v.展现,显示,揭示,揭露,告诉,泄露"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自西班牙语tabaco，最初指一种烟叶卷成的吸用物品。词源可能与阿拉伯语tabbaq（一种药草）有关，后经西班牙语进入英语。核心动作是‘烟草制品’，作为名词表示烟草、烟叶。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "toe",
+      "word": "toe",
+      "phonetic": "/təu/",
+      "meaning": "n.脚趾,足尖",
+      "similar": [
+        "tone",
+        "tie",
+        "ton",
+        "tow",
+        "toy",
+        "stove",
+        "token",
+        "towel"
+      ],
+      "question": {
+        "wordId": "toe",
+        "stem": "选择 \"toe\" 的正确中文意思：",
+        "correct": "n.脚趾,足尖",
+        "options": [
+          "n.吨;(pl.)大量,许多",
+          "n.领带;联系,关系,纽带;束缚 v.扎,系,捆",
+          "n.音调,音色;风气,气氛;腔调,语气;色调",
+          "n.脚趾,足尖"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语“ta”，指脚趾，核心物理动作为“脚前端的分叉部位”，与“toe”同源词“digit”强调“手指/脚趾”的分节特性。词根无复杂演变，直接对应具体身体部位。",
+        "similarWarning": "tone（音调/色调，多字母n） vs toe（脚趾，无n）：注意拼写差异；to（介词） vs toe（名词）：多字母e；tie（系带/打结） vs toe：字母i/e及含义完全不同；ton（吨） vs toe：多字母n；too（也/太） vs toe：多字母o；top（顶部） vs toe：字母p替换e；tow（拖车/拖曳） vs toe：字母w替换e。核心为区分元音及尾字母差异。",
+        "extendedMeaning": "考研中“toe”常引申为“（鞋袜的）脚尖部分”或“（物体的）趾状突出物”，如“toe of a shoe”（鞋头）；亦用于习语“toe the line”（服从/遵守规则），此义源自赛跑时脚尖踩线起跑的动作，为真题高频熟词僻义。",
+        "examUsage": "真题考点聚焦于“toe the line”短语搭配，作为固定表达考查，意为“服从命令/遵守规定”，例如：\"As a new employee, you must learn to toe the line.\"（作���新员工，你必须学会服从。）注意与“tow the line”（拖线）拼写混淆，后者为错误拼写。"
+      }
+    },
+    {
+      "id": "toilet",
+      "word": "toilet",
+      "phonetic": "/'tɔilit/",
+      "meaning": "n.厕所,盥洗室",
+      "similar": [
+        "tile",
+        "tilt",
+        "tablet"
+      ],
+      "question": {
+        "wordId": "toilet",
+        "stem": "选择 \"toilet\" 的正确中文意思：",
+        "correct": "n.厕所,盥洗室",
+        "options": [
+          "n.厕所,盥洗室",
+          "n.瓦片,瓷砖 vt.铺瓦于，贴砖于",
+          "v.(使)倾侧；(使)倾斜 n.倾侧；倾斜",
+          "n.药片;碑,匾"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自法语'toilette'，原指'小布片'，后演变为'梳妆台'、'梳洗过程'，最终引申为'厕所'。词根'toil'（布）→ 梳妆用的布 → 梳妆室 → 厕所。核心动作：与个人清洁、梳妆相关。",
+        "similarWarning": "tile（n.瓷砖）vs toilet：tile少字母't'，词义无关；tilt（v.倾斜）vs toilet：tilt替换'let'，拼写差异；tablet（n.药片/平板）vs toilet：tablet含'table'，词源不同。",
+        "extendedMeaning": "考研中无特殊僻义，仅指'厕所'或'盥洗室'。",
+        "examUsage": "基础简单词，考研中通常不设考点，直接省略。"
+      }
+    },
+    {
+      "id": "token",
+      "word": "token",
+      "phonetic": "/'təukən/",
+      "meaning": "n.表示;标志;记号;代用硬币 a.象征性的",
+      "similar": [
+        "ten",
+        "toe",
+        "ton",
+        "coke",
+        "oven",
+        "poke",
+        "tone",
+        "dozen"
+      ],
+      "question": {
+        "wordId": "token",
+        "stem": "选择 \"token\" 的正确中文意思：",
+        "correct": "n.表示;标志;记号;代用硬币 a.象征性的",
+        "options": [
+          "n.表示;标志;记号;代用硬币 a.象征性的",
+          "num.十 pron./a.十(个，只...)",
+          "n.脚趾,足尖",
+          "n.吨;(pl.)大量,许多"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源来自古英语tacen，与‘教’(teach)同源，本义是‘显示、指示的东西’。核心动作是‘显示’→引申为具体的标志、象征物。",
+        "similarWarning": "ten(十): 字母k与n互换无意义；toe(脚趾): token有k，toe无k；ton(吨): token有ke，ton无；coke(可乐): token有t，coke无；joke(玩笑): token有t，joke无；open(打开): token有t，open无；oven(烤箱): token有k，oven无；poke(戳): token有t，poke无。",
+        "extendedMeaning": "在计算机科学中表示‘令牌’(如security token)，在语言学中表示‘标记’(如token of speech)。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tolerance",
+      "word": "tolerance",
+      "phonetic": "/'tɒlərəns/",
+      "meaning": "n.宽容；容忍,忍受；耐药力；公差",
+      "similar": [
+        "tolerant",
+        "tolerate",
+        "appearance",
+        "conference"
+      ],
+      "question": {
+        "wordId": "tolerance",
+        "stem": "选择 \"tolerance\" 的正确中文意思：",
+        "correct": "n.宽容；容忍,忍受；耐药力；公差",
+        "options": [
+          "n.宽容；容忍,忍受；耐药力；公差",
+          "a.容忍的,宽容的；有耐药力的",
+          "vt.容忍,默许；对(药物、毒品等)有耐力",
+          "n.出现，露面；外表；作短暂露面"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语tolerare（承受、忍耐）。词根toler-表'承受'，-ance为名词后缀，表示'承受的能力或状态'。核心物理动作是'承受重量或压力而不垮'，引申为对异己的容忍、身体的耐药力、机械的公差。",
+        "similarWarning": "tolerant（adj.容忍的） vs tolerate（v.容忍） vs tolerance（n.容忍）——词根相同，词性不同；appearance（n.出现，外表）中appear-表'出现'，-ance为名词后缀，与tolerance无拼写关联；conference（n.会议）中con-表'一起'，fer-表'带来'，-ence为名词后缀，与tolerance仅后缀相似。",
+        "extendedMeaning": "在医学语境中指'耐药力'（drug tolerance），如：The patient developed tolerance to the medication.；在工程语境中指'公差'（mechanical tolerance），如：The parts were manufactured within strict tolerances.；在生物学语境中指'耐受性'，如：stress tolerance（抗逆性）。",
+        "examUsage": "常考搭配：tolerance for/to sth（对……的容忍/耐受），如真题例句：We need to show tolerance for different opinions.（对不同意见需宽容。）干扰项常混淆为tolerant��adj.）或tolerate（v.），注意词性区别。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1700 @@
+{
+  "batchId": 76,
+  "words": [
+    {
+      "id": "stoop",
+      "word": "stoop",
+      "phonetic": "/stu:p/",
+      "meaning": "v.弯腰,俯身 n.弯腰,曲背",
+      "similar": [
+        "stool",
+        "loop",
+        "soap",
+        "soup",
+        "step",
+        "shoot",
+        "spoon",
+        "stamp"
+      ],
+      "question": {
+        "wordId": "stoop",
+        "stem": "选择 \"stoop\" 的正确中文意思：",
+        "correct": "v.弯腰,俯身 n.弯腰,曲背",
+        "options": [
+          "n.肥皂",
+          "n.圈,环",
+          "n.凳子；(pl.)大便",
+          "v.弯腰,俯身 n.弯腰,曲背"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自词根stoop-（弯曲），与step（迈步）同源，核心物理动作为‘身体向前弯曲’，引申为‘俯身、弯腰’。",
+        "similarWarning": "stop（停止）：stoop vs stop，差异在于oo（弯曲）与o（直线），词义与‘屈身’相关；stool（凳子）：stool vs stoop，差异在于l（坐具）与p（动作），词义与‘坐’相关。",
+        "extendedMeaning": "考研僻义：1. 屈尊，降格（如stoop to do sth. 降低身份去做某事）；2. 门廊，台阶（如stoop in front of the house）。",
+        "examUsage": "真题考点：stoop to doing sth. 意为‘屈尊做某事’或‘堕落到做某事’，常见于完形填空或翻译题，如‘He would never stoop to cheating.’"
+      }
+    },
+    {
+      "id": "storage",
+      "word": "storage",
+      "phonetic": "/'stɔridʒ/",
+      "meaning": "n.贮藏(量),保管;库房",
+      "similar": [
+        "shortage",
+        "saturate",
+        "stranger"
+      ],
+      "question": {
+        "wordId": "storage",
+        "stem": "选择 \"storage\" 的正确中文意思：",
+        "correct": "n.贮藏(量),保管;库房",
+        "options": [
+          "n.贮藏(量),保管;库房",
+          "n.不足,缺少",
+          "vt.使湿透，浸透；使充满，使饱和",
+          "n.陌生人,生客;外地人,外国人"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自 store（储存）+ -age（名词后缀，表行为、结果或量），核心动作是“将物品存放入某处”，引申为“储存的行为、容量或场所”。",
+        "similarWarning": "形近词辨析：\n- storage vs. shortage：前者是“储存”，后者是“短缺”（short + -age），意义相反。\n- storage vs. stage：stage 是“舞台、阶段”，与“存储”无直接关联。\n- storage vs. store：store 既可作名词（商店）也可作动词（储存），storage 仅作名词。",
+        "extendedMeaning": "考研僻义：在计算机/数据领域指“存储空间”或“存储器”，如 data storage（数据存储）；在外刊中可引申为“仓储费用”，如 storage costs。",
+        "examUsage": "考点：常与 capacity（容量）、facility（设施）、cost（成本）搭配，如 storage capacity（存储容量）。真题中可能作为干扰项与 shortage 混淆，需注意上下文。"
+      }
+    },
+    {
+      "id": "storey",
+      "word": "storey",
+      "phonetic": "/'stɔ:ri/",
+      "meaning": "n.(story)楼,层",
+      "similar": [
+        "sore",
+        "score",
+        "shore",
+        "stare",
+        "storm",
+        "stove",
+        "stereo",
+        "sturdy"
+      ],
+      "question": {
+        "wordId": "storey",
+        "stem": "选择 \"storey\" 的正确中文意思：",
+        "correct": "n.(story)楼,层",
+        "options": [
+          "n.海滨,湖滨",
+          "n.(story)楼,层",
+          "n.得分,分数;二十 v.得(分),记(…的)分数",
+          "a.疼痛的;痛心的 n.痛处,疮口"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "storey 源自拉丁语 *historia*（故事、叙述），后通过古法语 *estoree*（建筑的一层）进入英语。核心演变：古代建筑楼层常以壁画或雕刻讲述故事，故“故事（story）”引申为“楼层（storey）”，两者实为同源异形词。物理动作：将建筑垂直分割为多个叙事“篇章”。",
+        "similarWarning": "store 商店（动词储存）；story 故事（与 storey 同音，但 storey 专指楼层）；sore 疼痛的；score 分数；shore 海岸；sorry 抱歉的；stare 凝视；stone 石头。注意 storey 与 story 拼写仅差字母 'e'，前者为建筑术语，后者为文学概念。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "storm",
+      "word": "storm",
+      "phonetic": "/stɔ:m/",
+      "meaning": "n.暴风雨,暴风雪;激动,爆发 v.猛攻,直捣",
+      "similar": [
+        "storey",
+        "atom",
+        "dorm",
+        "form",
+        "norm",
+        "sore",
+        "stem",
+        "stir"
+      ],
+      "question": {
+        "wordId": "storm",
+        "stem": "选择 \"storm\" 的正确中文意思：",
+        "correct": "n.暴风雨,暴风雪;激动,爆发 v.猛攻,直捣",
+        "options": [
+          "n.(dormitory)［美］［口］宿舍",
+          "n.暴风雨,暴风雪;激动,爆发 v.猛攻,直捣",
+          "n.(story)楼,层",
+          "n.原子；微粒，微量"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*sturmaz，核心物理动作是‘猛烈搅动、冲击’。拟声词根模拟风暴中狂风呼啸、物体被猛烈撕扯的声音。由自然界的‘暴风雨/雪’引申为情感或事件的‘激动/爆发’，动词义‘猛攻/直捣’则强调像风暴一样快速、猛烈地袭击目标。",
+        "similarWarning": "store（商店/储存）、story（故事/楼层）、storey（楼层）→storm无字母重叠；atom（原子）→a vs s；dorm（宿舍）→d vs s；form（形式）→f vs s；norm（标准）→n vs s；sore（疼痛的）→sor vs sto。核心差异：storm以‘st-’开头，强调‘猛烈搅动’；其他词无此动作特征。",
+        "extendedMeaning": "考研僻义：1.n. 一阵猛烈的情感爆发（如a storm of protest）；2.v. 怒气冲冲地疾走或闯入（如storm out of the room）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "stove",
+      "word": "stove",
+      "phonetic": "/stəuv/",
+      "meaning": "n.炉子,火炉",
+      "similar": [
+        "shove",
+        "starve",
+        "storey",
+        "strive",
+        "stroke",
+        "toe",
+        "dove",
+        "move"
+      ],
+      "question": {
+        "wordId": "stove",
+        "stem": "选择 \"stove\" 的正确中文意思：",
+        "correct": "n.炉子,火炉",
+        "options": [
+          "n.(story)楼,层",
+          "n.炉子,火炉",
+          "vt.乱推；乱塞vi.用力推，挤n.猛推",
+          "v.(使)饿死,饿得慌,挨饿"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自中古英语 stofa，与古荷兰语 stove（加热的房间）同源，核心物理动作为“封闭空间内加热”，即炉子提供热量的封闭装置。",
+        "similarWarning": "shove（v.推挤，字母h替换t）；stone（n.石头，字母n替换v）；store（v.储存，字母r替换v）；starve（v.饿死，字母arv替换ov）；storey（n.楼层，字母y替换e）；strive（v.努力，字母r替换o）；stroke（n.中风/笔画，字母rk替换v）；toe（n.脚趾，去掉s）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "straight",
+      "word": "straight",
+      "phonetic": "/streɪt/",
+      "meaning": "a.直的;整齐的,端正的 ad.直接;正直,直率",
+      "similar": [
+        "fright",
+        "slight",
+        "strain",
+        "strict",
+        "freight",
+        "upright",
+        "stranger"
+      ],
+      "question": {
+        "wordId": "straight",
+        "stem": "选择 \"straight\" 的正确中文意思：",
+        "correct": "a.直的;整齐的,端正的 ad.直接;正直,直率",
+        "options": [
+          "a.直的;整齐的,端正的 ad.直接;正直,直率",
+          "a.轻微的,微小的;纤细的,瘦弱的",
+          "n.恐怖",
+          "v.拉紧;紧张;扭伤;竭尽全力 n.拉紧;负担"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语streht，streccean（伸展）的过去分词，核心物理动作是‘拉直、绷紧’，引申为‘无弯曲、笔直’，进而延伸至‘整齐、直接、正直’。",
+        "similarWarning": "strain v. 拉紧（-ain表动作持续）；strict a. 严格的（-ict表‘束缚’，强调规则直而不弯）；freight n. 货物（-freight与‘直’无关，源自古荷兰语‘船运’）。",
+        "extendedMeaning": "【真题僻义】非‘直’：a. 连续不断的（如straight wins连胜）；ad. 坦率地（如straight talk直言）；n. 直线部分（如the straight of a track跑道直道）。",
+        "examUsage": "【真题考点】① straight away/off 立刻（高频短语，如‘I told him straight off.’）；② keep sb. straight 使某人清楚/不犯错（《经济学人》中常见）；③ the straight and narrow 正道（指道德正直，考研阅读中偶见）。"
+      }
+    },
+    {
+      "id": "straightforward",
+      "word": "straightforward",
+      "phonetic": "/ˌstreit'fɔ:wəd/",
+      "meaning": "a.正直的;简单的,易懂的 ad.坦率地",
+      "similar": [],
+      "question": {
+        "wordId": "straightforward",
+        "stem": "选择 \"straightforward\" 的正确中文意思：",
+        "correct": "a.正直的;简单的,易懂的 ad.坦率地",
+        "options": [
+          "n.宇宙飞船",
+          "vi.(abode，abided)(by)遵守；坚持",
+          "a.正直的;简单的,易懂的 ad.坦率地",
+          "n.细节,详情 v.详述"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "straight（直的）+ forward（向前）= 直直向前。核心物理动作为“笔直前行，不拐弯”，引申为“不绕弯子、直接了当”，既指人品正直坦率，也指事物简单易懂。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常表“简单的、不复杂的”，如 a straightforward task（一项简单的任务），强调无难点、易理解。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "strain",
+      "word": "strain",
+      "phonetic": "/streɪn/",
+      "meaning": "v.拉紧;紧张;扭伤;竭尽全力 n.拉紧;负担",
+      "similar": [
+        "stain",
+        "restrain",
+        "brain",
+        "drain",
+        "grain",
+        "stair",
+        "strap",
+        "straw"
+      ],
+      "question": {
+        "wordId": "strain",
+        "stem": "选择 \"strain\" 的正确中文意思：",
+        "correct": "v.拉紧;紧张;扭伤;竭尽全力 n.拉紧;负担",
+        "options": [
+          "v.拉紧;紧张;扭伤;竭尽全力 n.拉紧;负担",
+          "n.污点,瑕疵 v.沾污;染色",
+          "v.(from)抑制,制止",
+          "n.(大)脑,骨髓;(pl.)脑力,智能"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根strain-源自拉丁语stringere（拉紧），核心物理动作为“用力拉或绷紧”。strain即“拉紧”的动作，引申为精神或身体的紧张状态（如压力、负担），以及过度拉伸导致的损伤（扭伤）。",
+        "similarWarning": "strain vs stain（污点）：strain强调“拉紧/紧张”，stain为“污渍/染色”，拼写差一个r。train（火车/训练）则无紧绷义。",
+        "extendedMeaning": "v.过滤；n.（乐曲）旋律；种族/品系。如：strain the soup（滤汤）；a new strain of virus（新病毒株）；the strains of a waltz（华尔兹旋律）。",
+        "examUsage": "常考搭配：strain to do sth（竭尽全力做某事）；under strain（处于压力下）；eye strain（眼疲劳）。真题例句：The strain of modern life is a major cause of stress.（现代生活的压力是压力主因。）"
+      }
+    },
+    {
+      "id": "stranger",
+      "word": "stranger",
+      "phonetic": "/'streidʒə/",
+      "meaning": "n.陌生人,生客;外地人,外国人",
+      "similar": [
+        "stagger",
+        "danger",
+        "orange",
+        "string",
+        "tanker",
+        "arrange",
+        "steamer",
+        "storage"
+      ],
+      "question": {
+        "wordId": "stranger",
+        "stem": "选择 \"stranger\" 的正确中文意思：",
+        "correct": "n.陌生人,生客;外地人,外国人",
+        "options": [
+          "n.危险;威胁;危险事物",
+          "vi.摇晃着移动;蹒跚 n.摇晃不稳的动作;蹒跚",
+          "n.陌生人,生客;外地人,外国人",
+          "n.柑,桔,橙"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自中古英语 'straunge'（外来的）+ '-er'（表示人）。核心物理动作为 '来自外部/不熟悉的人'，引申为陌生人、外地人。",
+        "similarWarning": "strange（奇怪的，陌生的）与 stranger（陌生人）差 '-r'，但 stranger 是名词，strange 是形容词；stagger（蹒跚）与 stranger 在拼写上无直接关联，但易因首字母 'st' 混淆。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "strap",
+      "word": "strap",
+      "phonetic": "/stræp/",
+      "meaning": "n.皮带v.用带扣住，束牢；用绷带包扎",
+      "similar": [
+        "trap",
+        "scrap",
+        "straw",
+        "strip",
+        "scrape",
+        "strain",
+        "stream",
+        "stripe"
+      ],
+      "question": {
+        "wordId": "strap",
+        "stem": "选择 \"strap\" 的正确中文意思：",
+        "correct": "n.皮带v.用带扣住，束牢；用绷带包扎",
+        "options": [
+          "n.皮带v.用带扣住，束牢；用绷带包扎",
+          "n.陷阱，圈套 vt.诱捕；使中圈套 vi.设圈套",
+          "n.稻草,麦杆;吸管",
+          "n.碎片;废料 v.废弃,报废"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根来自古法语 estrappe（皮带），核心物理动作是“用带子束缚、固定”。strap 作名词指一条扁平的带子，作动词则是“用带子捆扎”或“包扎绷带”，强调通过物理约束来固定物体或伤口。",
+        "similarWarning": "trap（陷阱，n./v.）vs strap：trap 无 s 开头，核心是“捕捉”；strap 是“带子”。strip（剥去，v.；条，n.）vs strap：strip 强调“剥掉”或“长条”；strap 是“捆扎”。scrape（刮擦，v.）vs strap：scrape 有“刮”的动作，而 strap 是“绑”。",
+        "extendedMeaning": "考研中，strap 作动词常引申为“限制、约束”，如“strap in”（系好安全带）表示强制固定；在经济学人中可表“经济束缚”，如“strapped for cash”（手头紧）。",
+        "examUsage": "真题中常考短语“strap on”（绑上），如“strap on a helmet”（戴上头盔）。此外，“strapped”作形容词表“资金短缺的”，如“cash-strapped”（资金紧张的），是阅读中高频经济类词汇。"
+      }
+    },
+    {
+      "id": "strategy",
+      "word": "strategy",
+      "phonetic": "/'strætidʒi/",
+      "meaning": "n.战略，策略；对策，政策",
+      "similar": [
+        "tragedy",
+        "strawberry"
+      ],
+      "question": {
+        "wordId": "strategy",
+        "stem": "选择 \"strategy\" 的正确中文意思：",
+        "correct": "n.战略，策略；对策，政策",
+        "options": [
+          "n.草莓",
+          "n.悲剧;惨事,灾难",
+          "n.战略，策略；对策，政策",
+          "n.(精神或肉体的)极大痛苦，创伤"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源于希腊语strategia（将军的职务/指挥艺术），由strat-（军队）与-agia（领导）构成。核心动作是“军队的指挥调度”，引申为整体性、长期性的规划与谋略。",
+        "similarWarning": "strange（奇怪的，陌生的）vs strategy：strange强调“陌生/怪异”状态，strategy强调“谋划”行为。tragedy（悲剧）vs strategy：tragedy以trag-（山羊/牺牲）为核心，指悲惨事件；strategy以strat-（军队）为核心，指军事或商业计划。strawberry（草莓）vs strategy：仅首字母相同，词根无关。",
+        "extendedMeaning": "在商业或政治语境中，常指“宏观规划/系统性打法”，如marketing strategy（营销策略）。考研阅读中可引申为“应对复杂局面的整体方案”，区别于tactic（具体战术）。",
+        "examUsage": "真题常考搭配：strategic planning（战略规划），strategic alliance（战略联盟）。干扰项常将strategy与tactic（战术）混淆，注意strategy侧重长期全局，tactic侧重短期局部。例句：The company adopted a new strategy to counter the competition.（该公司采取新策略应对竞争。）"
+      }
+    },
+    {
+      "id": "straw",
+      "word": "straw",
+      "phonetic": "/strɔ:/",
+      "meaning": "n.稻草,麦杆;吸管",
+      "similar": [
+        "strap",
+        "strain",
+        "stream",
+        "raw",
+        "saw",
+        "stab",
+        "stay",
+        "tram"
+      ],
+      "question": {
+        "wordId": "straw",
+        "stem": "选择 \"straw\" 的正确中文意思：",
+        "correct": "n.稻草,麦杆;吸管",
+        "options": [
+          "n.小河,溪流;流,一股,一串 v.流出,涌",
+          "v.拉紧;紧张;扭伤;竭尽全力 n.拉紧;负担",
+          "n.皮带v.用带扣住，束牢；用绷带包扎",
+          "n.稻草,麦杆;吸管"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语streaw，本义为“散落的东西”，源于PIE词根*ster-（展开、散开）。核心物理动作是“散落的干草杆”，后引申为吸管（因早期吸管由麦秆制成）。",
+        "similarWarning": "strap（n. 带子） vs straw：strap含“带”意，源自捆绑；straw含“草”意，源自散落。strain（v. 拉紧） vs straw：strain强调张力，straw无此意。stream（n. 溪流） vs straw：stream有“流动”意，straw无。raw（adj. 生的） vs straw：raw无“干草”意。saw（n. 锯子） vs straw：saw为工具，straw为材料。draw（v. 拉） vs straw：draw含“拖拽”，straw无。stab（v. 刺） vs straw：stab含攻击，straw无。star（n. 星星） vs straw：star为天体，straw为植物。",
+        "extendedMeaning": "考研中常指“吸管”（如a drinking straw），但更核心僻义为“稻草人”中的“稻草”象征无价值之物（not worth a straw），或“最后一根稻草”（the last straw），表示最终导致崩溃的微小事件。",
+        "examUsage": "固定搭配：the last straw（最后一根稻草，源自谚语“压垮骆驼的最后一根稻草”），真题中常作为比喻义考点，如“The new regulation was the last straw for the small businesses.”（新规对小企业来说是最后一根稻草。）"
+      }
+    },
+    {
+      "id": "strawberry",
+      "word": "strawberry",
+      "phonetic": "/'strɔ:bəri/",
+      "meaning": "n.草莓",
+      "similar": [
+        "stranger",
+        "strategy"
+      ],
+      "question": {
+        "wordId": "strawberry",
+        "stem": "选择 \"strawberry\" 的正确中文意思：",
+        "correct": "n.草莓",
+        "options": [
+          "n.形容词 a.形容词的，用作形容词的",
+          "n.草莓",
+          "n.战略，策略；对策，政策",
+          "n.陌生人,生客;外地人,外国人"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "由 straw（稻草）+ berry（浆果）构成。草莓植株匍匐茎如稻草，果实为浆果，故得名。",
+        "similarWarning": "stranger（陌生人；strange+er），strategy（策略；strateg+y），与 strawberry 拼写差异明显，无易混风险。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "stream",
+      "word": "stream",
+      "phonetic": "/stri:m/",
+      "meaning": "n.小河,溪流;流,一股,一串 v.流出,涌",
+      "similar": [
+        "steam",
+        "scream",
+        "seam",
+        "stem",
+        "tram",
+        "cream",
+        "steak",
+        "strap"
+      ],
+      "question": {
+        "wordId": "stream",
+        "stem": "选择 \"stream\" 的正确中文意思：",
+        "correct": "n.小河,溪流;流,一股,一串 v.流出,涌",
+        "options": [
+          "n.缝,接缝",
+          "n.水汽,蒸汽,水蒸气 v.蒸发;蒸;用蒸汽开动",
+          "n.小河,溪流;流,一股,一串 v.流出,涌",
+          "v./n.尖声叫,喊叫着说出,(风)呼啸"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "stream 源自古英语 streám，词根 streu- 表示“流动”，与希腊语 rhein（流动）同源。核心物理动作是“液体或物体持续、顺畅地移动”，引申为“一连串连续的事物”。",
+        "similarWarning": "steam (蒸汽) vs stream (溪流/流动)：steam 强调水蒸气，stream 强调水流或连续流动；scream (尖叫) vs stream：scream 是刺耳声音，stream 是流动；seam (接缝) vs stream：seam 是线状结合处，stream 是线性流动；stem (茎/阻止) vs stream：stem 是植物主干或阻挡动作，stream 是自然流动。",
+        "extendedMeaning": "n. 数据流、信息流（如 data stream）；v. 在线播放（如 stream a video），在考研外刊中常指“源源不断地产生或接收（信息/资源）”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "streamline",
+      "word": "streamline",
+      "phonetic": "/'stri:mlaɪn/",
+      "meaning": "a.流线型的 vt.使成流线型；使合理化",
+      "similar": [
+        "deadline",
+        "headline"
+      ],
+      "question": {
+        "wordId": "streamline",
+        "stem": "选择 \"streamline\" 的正确中文意思：",
+        "correct": "a.流线型的 vt.使成流线型；使合理化",
+        "options": [
+          "a.流线型的 vt.使成流线型；使合理化",
+          "n.最后期限",
+          "n.大字标题,新闻标题",
+          "a.(statical)静态的,静力的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "stream（流）+ line（线）→ 流线型。原指流体力学中物体形状使流体平滑通过，引申为让流程像流线型一样高效顺畅，即简化、提高效率。",
+        "similarWarning": "deadline（截止日期：dead死+line线→死线）vs headline（大字标题：head头+line线→头行）vs streamline（流线型/精简：stream流+line线→流线）。差异在首词根：dead/dead、head/头、stream/流。",
+        "extendedMeaning": "使合理化、精简（流程、系统等），强调消除冗余、提高效率。如：streamline the production process（精简生产流程）。",
+        "examUsage": "真题中常考动词义“精简、使高效”，搭配：streamline operations（精简运营）、streamline management（优化管理）。"
+      }
+    },
+    {
+      "id": "strength",
+      "word": "strength",
+      "phonetic": "/streŋθ/",
+      "meaning": "n.力量；实力；长处，优点；人力；兵力",
+      "similar": [
+        "strengthen",
+        "length",
+        "string",
+        "trench",
+        "stretch",
+        "stranger"
+      ],
+      "question": {
+        "wordId": "strength",
+        "stem": "选择 \"strength\" 的正确中文意思：",
+        "correct": "n.力量；实力；长处，优点；人力；兵力",
+        "options": [
+          "n.力量；实力；长处，优点；人力；兵力",
+          "v.加强,巩固",
+          "n.长,长度;一段,一节,程度,范围",
+          "n.弦,线,细绳;(一串),(一行) v.缚,捆"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语strengþu，源自strong（强壮的）的抽象名词形式。核心动作：具有或体现强壮的属性或状态，引申为力量、实力、长处等。",
+        "similarWarning": "strengthen（v.加强，增强）为动词形式，加-en后缀；length（n.长度）为类似构词模式，但词根不同（long）；street（n.街道）拼写相近但词源无关。",
+        "extendedMeaning": "在考研阅读中常引申为‘优势、长处’（如personal strength个人长处），或‘实力、效力’（如economic strength经济实力），非仅指物理力量。",
+        "examUsage": "常考搭配：strength and weakness（优缺点），build up strength（增强实力），on the strength of（凭借，基于）。"
+      }
+    },
+    {
+      "id": "strengthen",
+      "word": "strengthen",
+      "phonetic": "/'streŋθən/",
+      "meaning": "v.加强,巩固",
+      "similar": [
+        "strength",
+        "stranger"
+      ],
+      "question": {
+        "wordId": "strengthen",
+        "stem": "选择 \"strengthen\" 的正确中文意思：",
+        "correct": "v.加强,巩固",
+        "options": [
+          "v.加强,巩固",
+          "n.力量；实力；长处，优点；人力；兵力",
+          "a.最初的,开头的;词首的 n.词首大写字母",
+          "n.陌生人,生客;外地人,外国人"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语strength（力量）+ -en（使动后缀），字面意为“使有力量”，核心动作是施加外力以增强稳固性。",
+        "similarWarning": "strength（n.力量）与strengthen（v.加强）差一个后缀-en；stranger（n.陌生人）与strengthen在拼写上差异为a与e、ng与ngth，词义无关。",
+        "extendedMeaning": "",
+        "examUsage": "常用于考研阅读中表示抽象层面的巩固，如strengthen the economy（巩固经济）、strengthen ties（加强联系），或在长难句中作为谓语动词出现，需注意与reinforce（强化）、consolidate（巩固）的同义替换。"
+      }
+    },
+    {
+      "id": "strenuous",
+      "word": "strenuous",
+      "phonetic": "/'strenjuəs/",
+      "meaning": "a.费力的，艰辛的；奋发的，努力的",
+      "similar": [
+        "tremendous"
+      ],
+      "question": {
+        "wordId": "strenuous",
+        "stem": "选择 \"strenuous\" 的正确中文意思：",
+        "correct": "a.费力的，艰辛的；奋发的，努力的",
+        "options": [
+          "a.费力的，艰辛的；奋发的，努力的",
+          "n.骨骼;骨架,框架;梗概,提要",
+          "a.巨大的,极大的",
+          "vt.逃避，回避；避开，躲避"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 strenuus（活跃的、敏捷的），核心动作画面是“紧张用力”。-ous 形容词后缀，整体表示“需要大量精力的”，引申为“费力的”和“奋发的”。",
+        "similarWarning": "tremendous（巨大的）vs strenuous（费力的）：tremendous 词根 trem-（颤抖），强调“令人发抖的规模”；strenuous 词根 stren-（紧张），强调“需要拼尽全力的状态”。",
+        "extendedMeaning": "",
+        "examUsage": "真题常考搭配：strenuous exercise（剧烈运动）；strenuous efforts（艰苦努力）。干扰项常与 persistent（持久的）、vigorous（充满活力的）混淆，注意 strenuous 侧重“费力程度”而非“持续时间”或“活力强度”。"
+      }
+    },
+    {
+      "id": "stress",
+      "word": "stress",
+      "phonetic": "/stres/",
+      "meaning": "n.压力；重要性；应力；重音vt.强调，重读",
+      "similar": [
+        "distress",
+        "mistress",
+        "actress",
+        "press",
+        "caress",
+        "stream",
+        "restless",
+        "suppress"
+      ],
+      "question": {
+        "wordId": "stress",
+        "stem": "选择 \"stress\" 的正确中文意思：",
+        "correct": "n.压力；重要性；应力；重音vt.强调，重读",
+        "options": [
+          "n.女主人;主妇;情妇,情人",
+          "n.女演员",
+          "n.苦恼;危难;不幸 v.使苦恼",
+          "n.压力；重要性；应力；重音vt.强调，重读"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根源自拉丁语strictus，意为“拉紧的”。核心物理动作为“拉紧、绷紧”。词义演变：物理上的拉紧 → 精神上的压力 → 强调（施加重要性）→ 重音（语言上的强调）。",
+        "similarWarning": "distress（n.痛苦，困境）：dis-分离+stress，强调分离带来的压力；stress仅指压力本身。press（v.按压）：p-前缀+ress，强调物理按压动作；stress强调拉紧状态。",
+        "extendedMeaning": "【考研僻义】n.应力（物理学术语，材料受力）；v.强调（真题高频，代替emphasize）",
+        "examUsage": "【真题考点】lay/place stress on... 强调……（写作高频）；under stress 在压力之下（阅读常见）；stress the importance of... 强调……的重要性（翻译/写作）"
+      }
+    },
+    {
+      "id": "stretch",
+      "word": "stretch",
+      "phonetic": "/stretʃ/",
+      "meaning": "v.伸展，延伸 n.拉长；伸展；一段时间/路程",
+      "similar": [
+        "sketch",
+        "stitch",
+        "trench",
+        "scratch",
+        "strength"
+      ],
+      "question": {
+        "wordId": "stretch",
+        "stem": "选择 \"stretch\" 的正确中文意思：",
+        "correct": "v.伸展，延伸 n.拉长；伸展；一段时间/路程",
+        "options": [
+          "n.&v.(挖)沟，(挖)战壕",
+          "n.一针；(因跑步引起的)肋部剧痛 v.缝(合)",
+          "n.素描;略图,草图;梗概 v.绘略图,速写,写生",
+          "v.伸展，延伸 n.拉长；伸展；一段时间/路程"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根来自古英语streccan，原始印欧语根*streg-（拉直、伸展）。核心物理动作是“向外拉长”，引申为空间上的延伸（stretch the rope）和时间上的持续（stretch of time）。",
+        "similarWarning": "sketch（素描/草图）vs. stretch：sk-开头强调“勾画”，str-开头强调“拉伸”。stitch（缝合）vs. stretch：tch结尾但i-元音不同，stitch是针线动作，stretch是拉长动作。trench（沟渠）vs. stretch：tr-开头但en-元音不同，trench指挖的深沟，stretch指拉长的区域。",
+        "extendedMeaning": "①（非字面）发挥余地/弹性空间：例“The rules have some stretch.”（规则有一定灵活度）。②（真题僻义）一段连续时间/路程：例“a stretch of bad weather”（一段坏天气），“a long stretch of road”（一段长路）。",
+        "examUsage": "常见考点：at a stretch（一口气/连续地），例“He worked for 10 hours at a stretch.”（连续工作10小时），常作时间状语题眼。stretch oneself（竭尽全力/伸展身体），例“Students must stretch themselves to meet the challenge.”（学生需全力以赴应对挑战），在完形中易与“relax”��成反义干扰。"
+      }
+    },
+    {
+      "id": "strict",
+      "word": "strict",
+      "phonetic": "/strikt/",
+      "meaning": "a.(with)严格的,严厉的;严谨的,精确的",
+      "similar": [
+        "district",
+        "restrict",
+        "strip",
+        "trick",
+        "script",
+        "stride",
+        "strife",
+        "string"
+      ],
+      "question": {
+        "wordId": "strict",
+        "stem": "选择 \"strict\" 的正确中文意思：",
+        "correct": "a.(with)严格的,严厉的;严谨的,精确的",
+        "options": [
+          "n.地区,行政区;美国各州的众议院选区",
+          "v.剥,剥去 n.窄条,条纹",
+          "v.限制,约束",
+          "a.(with)严格的,严厉的;严谨的,精确的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根stric-（拉紧、压缩）+ -t（形容词后缀）。核心物理动作是“拉紧、绷紧”，引申为“严格的、严厉的”（规则被拉紧不放松）和“严谨的、精确的”（逻辑被压缩无漏洞）。",
+        "similarWarning": "district（区域：di-分开+strict拉紧→被拉开的区域）；restrict（限制：re-回+strict拉紧→拉回限制）；strip（剥去：与strict差p/c，剥离动作）；trick（诡计：与strict差t/c，欺骗手段）；script（脚本：与strict差p/c，书写文字）；street（街道：与strict差e/t，道路）；stride（大步走：与strict差d/c，跨步）。",
+        "extendedMeaning": "考研僻义：严格的（指人/规则）、严谨的（指逻辑/论证）。无特殊深层僻义。",
+        "examUsage": "真题考点：be strict with sb.（对某人严格）；be strict in sth.（对某事严格）。常见于完形填空或翻译中，作为形容词修饰规则或态度，无特殊干扰项。"
+      }
+    },
+    {
+      "id": "stride",
+      "word": "stride",
+      "phonetic": "/straid/",
+      "meaning": "vi.大踏步走；跨越 n.一大步(pl.)长足进步",
+      "similar": [
+        "strife",
+        "stripe",
+        "strive",
+        "tide",
+        "bride",
+        "pride",
+        "slide",
+        "strip"
+      ],
+      "question": {
+        "wordId": "stride",
+        "stem": "选择 \"stride\" 的正确中文意思：",
+        "correct": "vi.大踏步走；跨越 n.一大步(pl.)长足进步",
+        "options": [
+          "vi.大踏步走；跨越 n.一大步(pl.)长足进步",
+          "n.争吵；冲突，斗争；竞争",
+          "n.长条，条纹；军服上表示军阶的臂章条纹",
+          "v.奋斗,努力"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根stride-来自古英语，核心物理动作为“跨大步、迈开腿”。与“ride（骑/乘）”同源，均含“向前移动”的意象。词义演变：具体动作（大步走）→抽象跨越（跨越障碍）→时间/进程（长足进步）。",
+        "similarWarning": "strife（冲突，n.）vs strike（打击，v.）vs stripe（条纹，n.）vs strive（努力，v.）vs ride（骑，v.）vs side（侧面，n.）vs tide（潮汐，n.）vs bride（新娘，n.）。核心差异：stride含“跨步”的“d”音，而strife含“f”表争斗，strike含“k”表击打，stripe含“p”表条纹，strive含“v”表努力。",
+        "extendedMeaning": "考研僻义：n. 进展，进步（常指重大或稳定的发展），如“make great strides in technology”（在科技上取得长足进步）。",
+        "examUsage": "考点：搭配“take sth in one's stride”（从容应对）为真题高频短语，如“She took the exam in her stride.”（她从容应对考试）。"
+      }
+    },
+    {
+      "id": "strife",
+      "word": "strife",
+      "phonetic": "/straif/",
+      "meaning": "n.争吵；冲突，斗争；竞争",
+      "similar": [
+        "stride",
+        "stripe",
+        "strive",
+        "stiff",
+        "strip",
+        "tribe",
+        "strict",
+        "string"
+      ],
+      "question": {
+        "wordId": "strife",
+        "stem": "选择 \"strife\" 的正确中文意思：",
+        "correct": "n.争吵；冲突，斗争；竞争",
+        "options": [
+          "n.争吵；冲突，斗争；竞争",
+          "vi.大踏步走；跨越 n.一大步(pl.)长足进步",
+          "v.奋斗,努力",
+          "n.长条，条纹；军服上表示军阶的臂章条纹"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自日耳曼语源，与古法语'esterf'（争吵）同源，核心物理动作为‘对立撕扯’或‘用力摩擦’。词根'strif'与'strive'（奋斗）同源，强调双方在目标或利益上的互相拉扯与对抗，引申为争吵、冲突或竞争。",
+        "similarWarning": "stride（大步走；跨越） vs strife（争吵）：前者强调‘步幅’（-id- 表示动作），后者强调‘摩擦’（-if- 表示冲突）。strike（打击；罢工） vs strife：前者是具体动作‘打’（-ik-），后者是抽象状态‘争’。strip（剥去；条带） vs strife：前者表‘剥离’（-ip-），后者表‘对立’。",
+        "extendedMeaning": "在考研阅读中，strife 常引申为‘激烈竞争’或‘社会动荡’，不限于个人争吵，例如‘political strife’（政治动荡）或‘economic strife’（经济竞争）。",
+        "examUsage": "常见搭配‘internal strife’（内部纷争）或‘strife over resources’（资源争夺），真题中常作为干扰项，与‘conflict’（直接冲突）或‘competition’（中性竞争）进行辨析，强调‘具有破坏性的对立’。"
+      }
+    },
+    {
+      "id": "striking",
+      "word": "striking",
+      "phonetic": "/'straikiŋ/",
+      "meaning": "a.显著的；惹人注目的，容貌出众的",
+      "similar": [
+        "string",
+        "stocking",
+        "strain",
+        "writing",
+        "training"
+      ],
+      "question": {
+        "wordId": "striking",
+        "stem": "选择 \"striking\" 的正确中文意思：",
+        "correct": "a.显著的；惹人注目的，容貌出众的",
+        "options": [
+          "v.拉紧;紧张;扭伤;竭尽全力 n.拉紧;负担",
+          "n.长(统)袜",
+          "n.弦,线,细绳;(一串),(一行) v.缚,捆",
+          "a.显著的；惹人注目的，容貌出众的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自动词strike（打击）的现在分词形式。核心动作是“击打”，引申为“一击即中、令人印象深刻”，即“显著的、惹人注目的”。",
+        "similarWarning": "strike（打击，罢工） vs. striking（显著的）：striking是strike的形容词形式，拼写多-ing。string（线，弦） vs. striking：string无k，striking有k。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "string",
+      "word": "string",
+      "phonetic": "/strɪŋ/",
+      "meaning": "n.弦,线,细绳;(一串),(一行) v.缚,捆",
+      "similar": [
+        "sting",
+        "striking",
+        "setting",
+        "stain",
+        "strip",
+        "swing",
+        "during",
+        "saving"
+      ],
+      "question": {
+        "wordId": "string",
+        "stem": "选择 \"string\" 的正确中文意思：",
+        "correct": "n.弦,线,细绳;(一串),(一行) v.缚,捆",
+        "options": [
+          "n.安置;落山;(固定东西的)柜架底座;环境",
+          "a.显著的；惹人注目的，容貌出众的",
+          "v./n.刺,刺痛,剧痛;刺,叮",
+          "n.弦,线,细绳;(一串),(一行) v.缚,捆"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语 streng（绳子），源自原始日耳曼语 *strangiz（紧的、硬的），与 strong（强壮的）同源。核心物理动作是“拉紧的纤维束”，引申为“用线串起来”的动作。",
+        "similarWarning": "sting（刺，叮）：string 有r，sting 无r，强调刺入动作；spring（春天，弹簧）：string 强调线性，spring 强调弹跳；strong（强壮的）：string 是名词，strong 是形容词，词性不同。",
+        "extendedMeaning": "（1）[计算机] 字符串：a string of characters（一串字符）；在考研阅读中常指数字或文本序列。（2）[音乐] 琴弦：guitar strings（吉他弦）。（3）[金融] 一串（数据或事件）：a string of losses（一连串亏损）。",
+        "examUsage": "高频搭配：a string of（一系列），如 a string of failures（一连串失败）；真题中常作为细节题同义替换，如“a sequence of”对应“a string of”。"
+      }
+    },
+    {
+      "id": "strip",
+      "word": "strip",
+      "phonetic": "/strip/",
+      "meaning": "v.剥,剥去 n.窄条,条纹",
+      "similar": [
+        "stripe",
+        "trip",
+        "strap",
+        "script",
+        "strain",
+        "strict",
+        "stride",
+        "strife"
+      ],
+      "question": {
+        "wordId": "strip",
+        "stem": "选择 \"strip\" 的正确中文意思：",
+        "correct": "v.剥,剥去 n.窄条,条纹",
+        "options": [
+          "v.剥,剥去 n.窄条,条纹",
+          "n.长条，条纹；军服上表示军阶的臂章条纹",
+          "n.旅行,远足 v.绊倒；失足；犯错",
+          "n.皮带v.用带扣住，束牢；用绷带包扎"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根strip-源自原始印欧语*streip-，核心动作是“刮擦、撕扯”。v.剥去：物理上用力撕掉外层（如strip bark剥树皮）；n.窄条：被撕下或切割后形成的细长片状物。",
+        "similarWarning": "stripe（n.条纹，与strip同源但强调“条状图案”）；strap（n.带子，v.捆绑，字母p后多a，侧重“固定用的长条”）；trip（n.旅行，v.绊倒，首字母t，与“剥”无关联）。",
+        "extendedMeaning": "v.剥夺（权利、职务等）：strip sb. of sth.（真题高频，如strip him of his title）；n.带状区域（如airstrip简易机场）。",
+        "examUsage": "考点：strip off（剥去/脱掉）；be stripped of（被剥夺……）。真题例句：The company was stripped of its license.（该公司被吊销执照。）"
+      }
+    },
+    {
+      "id": "stripe",
+      "word": "stripe",
+      "phonetic": "/straip/",
+      "meaning": "n.长条，条纹；军服上表示军阶的臂章条纹",
+      "similar": [
+        "strip",
+        "stride",
+        "strife",
+        "strive",
+        "ripe",
+        "trip",
+        "strap",
+        "tribe"
+      ],
+      "question": {
+        "wordId": "stripe",
+        "stem": "选择 \"stripe\" 的正确中文意思：",
+        "correct": "n.长条，条纹；军服上表示军阶的臂章条纹",
+        "options": [
+          "v.剥,剥去 n.窄条,条纹",
+          "n.长条，条纹；军服上表示军阶的臂章条纹",
+          "vi.大踏步走；跨越 n.一大步(pl.)长足进步",
+          "n.争吵；冲突，斗争；竞争"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "stripe源自中古荷兰语 strijpen，意为“条纹”。其核心物理动作为“用线条划出长条”，引申为物体表面的条形纹路，以及军服上代表等级的臂章条纹，体现“线性标记”的本源。",
+        "similarWarning": "strip（剥去；长条）: stripe 强调“条纹”的静态图案；strip 强调“条状物”或“剥离”的动作。stride（大步走）: 与 stripe 无关，但拼写相似，注意区分。strife（冲突）: 拼写接近，但词义完全不同。strike（打击）: 注意首字母相同，但词源不同。strive（努力）: 拼写相似，词义无关。",
+        "extendedMeaning": "在考研阅读中，stripe 可引申为“种类、类型”，如“people of all stripes”（各类人士），源自不同条纹代表不同群体或类别。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "strive",
+      "word": "strive",
+      "phonetic": "/straiv/",
+      "meaning": "v.奋斗,努力",
+      "similar": [
+        "stride",
+        "strife",
+        "stripe",
+        "survive",
+        "serve",
+        "stove",
+        "strip",
+        "tribe"
+      ],
+      "question": {
+        "wordId": "strive",
+        "stem": "选择 \"strive\" 的正确中文意思：",
+        "correct": "v.奋斗,努力",
+        "options": [
+          "v.奋斗,努力",
+          "vi.大踏步走；跨越 n.一大步(pl.)长足进步",
+          "n.争吵；冲突，斗争；竞争",
+          "n.长条，条纹；军服上表示军阶的臂章条纹"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为stri-（摩擦、争斗），源自拉丁语strīdere（摩擦、发出刺耳声）。核心物理动作是“用力擦过”或“激烈摩擦”，引申为与困难或对手进行对抗性努力，即“奋斗”或“努力”。",
+        "similarWarning": "stride（大步走，步幅）：与strive相比，stride多一个字母d，强调步伐大而稳，无斗争含义。strike（打击，罢工）：字母k替换v，强调突然的击打或停止工作，非持续努力。strife（冲突，争吵）：字母f替换v，名词形式，强调人与人之间的争斗状态。",
+        "extendedMeaning": "在考研外刊中，strive常引申为“力求达到某种理想状态或目标”，不限于体力或斗争，如strive for excellence（力求卓越）。",
+        "examUsage": "常用搭配strive to do sth.（努力做某事）在真题中作为正面行为描述出现，如‘strive to maintain balance’（努力保持平衡），干扰项常混淆struggle的负面色彩。"
+      }
+    },
+    {
+      "id": "stroke",
+      "word": "stroke",
+      "phonetic": "/strəuk/",
+      "meaning": "n.击;报时的钟声;一击/划/笔;中风 v.抚摸",
+      "similar": [
+        "smoke",
+        "stake",
+        "stove",
+        "stride",
+        "strife",
+        "stripe",
+        "strive",
+        "stroll"
+      ],
+      "question": {
+        "wordId": "stroke",
+        "stem": "选择 \"stroke\" 的正确中文意思：",
+        "correct": "n.击;报时的钟声;一击/划/笔;中风 v.抚摸",
+        "options": [
+          "n.炉子,火炉",
+          "n.击;报时的钟声;一击/划/笔;中风 v.抚摸",
+          "n.烟,烟尘;吸烟,抽烟 v.抽(烟);冒烟,冒气",
+          "n.桩,标桩;赌注,利害关系"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语strican‘轻擦、移动’，与strike同源但词义分化。核心物理动作是‘线性接触运动’：轻擦（抚摸）→ 线状痕迹（一笔/一划）→ 突发性线性冲击（一击）→ 线性时间标记（钟声）→ 血管线性阻塞（中风）。",
+        "similarWarning": "strike（打击，强调用力击打）vs stroke（抚摸/中风，强调轻柔或病理）；stake（木桩/赌注）vs stroke（无此义）；stove（炉子）vs stroke（无关联）。",
+        "extendedMeaning": "考研僻义：①‘中风’（医学语境，真题阅读中常见疾病类话题）；②‘一笔/笔触’（艺术/写作语境，如‘a stroke of genius’天才之举）。",
+        "examUsage": "核心搭配：'stroke of luck'（意外好运，完形填空选项）；'at a stroke'（一下子，阅读中表突然性）；'stroke sb down'（击倒某人，但考研更常考‘抚摸’义作动词）。真题干扰项常与strike混淆，注意‘中风’义在医疗类阅读中为定位词。"
+      }
+    },
+    {
+      "id": "stroll",
+      "word": "stroll",
+      "phonetic": "/strəul/",
+      "meaning": "n.&v.漫步；散步；游荡",
+      "similar": [
+        "roll",
+        "toll",
+        "stall",
+        "stool",
+        "enroll",
+        "stroke"
+      ],
+      "question": {
+        "wordId": "stroll",
+        "stem": "选择 \"stroll\" 的正确中文意思：",
+        "correct": "n.&v.漫步；散步；游荡",
+        "options": [
+          "n.货摊;畜栏,厩 v.(使)停转,(使)停止",
+          "v.滚动;使摇摆;卷,卷起 n.卷,卷形物;名单",
+          "n.&v.漫步；散步；游荡",
+          "n.(道路、桥等的)通行费；牺牲；死伤人数"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自德语‘strolchen’（流浪）。核心动作是‘缓慢、无目的地行走’，强调悠闲、放松的步态。",
+        "similarWarning": "roll: 滚动（stroll加s-前缀，强调随意移动）；toll: 通行费（替换r为t）；stall: 摊位/拖延（替换r为a）；still: 静止（替换o为i）；stool: 凳子（替换r为o）；enroll: 登记（加en-前缀，意义完全不同）；stroke: 抚摸/中风（替换l为k）；strong: 强壮的（替换l为ng）。",
+        "extendedMeaning": "考研中无显著僻义，但可引申为‘闲逛、溜达’，强调非正式性。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "structure",
+      "word": "structure",
+      "phonetic": "/'strʌktʃə/",
+      "meaning": "n.结构,构造;建筑物 v.构造,建造",
+      "similar": [
+        "fracture",
+        "destructive"
+      ],
+      "question": {
+        "wordId": "structure",
+        "stem": "选择 \"structure\" 的正确中文意思：",
+        "correct": "n.结构,构造;建筑物 v.构造,建造",
+        "options": [
+          "a.破坏性",
+          "n.裂缝(痕);骨折 v.(使)断裂,(使)折断",
+          "v./n.浸,蘸",
+          "n.结构,构造;建筑物 v.构造,建造"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“structura”（建造、排列），词根“struct-”（建造、堆叠）对应物理动作“将材料堆叠成有序整体”。-ure为名词后缀表结果或方式。核心画面：通过有序排列构建稳固形态。",
+        "similarWarning": "fracture（断裂）：fract-（打破）vs struct-（建造），强调破坏性断裂；destructive（破坏性的）：de-（向下/否定）+struct-（建造）+ive，强调推翻结构的行为。",
+        "extendedMeaning": "考研中常引申为“体系、框架”（如社会结构、知识体系），而非仅指物理构造。",
+        "examUsage": "真题高频搭配：economic structure（经济结构）、social structure（社会结构）。例句：The government plans to reform the financial structure to prevent future crises.（政府计划改革金融结构以防止未来危机。）"
+      }
+    },
+    {
+      "id": "struggle",
+      "word": "struggle",
+      "phonetic": "/'strʌgl/",
+      "meaning": "n./v.斗争,奋斗,努力",
+      "similar": [
+        "smuggle",
+        "stumble"
+      ],
+      "question": {
+        "wordId": "struggle",
+        "stem": "选择 \"struggle\" 的正确中文意思：",
+        "correct": "n./v.斗争,奋斗,努力",
+        "options": [
+          "n./v.斗争,奋斗,努力",
+          "v.走私;偷运",
+          "n.跌倒，绊倒 vi.绊(摔)倒；结结巴巴说",
+          "a.能和睦相处的,合得来的;兼容的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根来自古北欧语 'strugr'（邪恶、痛苦），核心物理动作为“挣扎、扭动以摆脱束缚”。演变过程：痛苦处境 → 奋力摆脱 → 斗争、奋斗。",
+        "similarWarning": "smuggle（走私）：字母 'm' 替换 't'，词义侧重非法运输；struggle 侧重挣扎努力。strange（奇怪的）：字母 'a' 与 'u' 互换，词根不同，义为陌生。stumble（绊倒）：字母 'm' 替换 'g'，词义侧重意外失足。",
+        "extendedMeaning": "考研僻义：在真题中常引申为“艰难地行进、挣扎着做某事”，如 struggle to do sth. 表示“努力克服困难做某事”，非仅指物理斗争。",
+        "examUsage": "考点直击：固定搭配 'struggle with'（与...斗争/努力克服）常作为干扰项，对比 'strive for'（争取）。真题例句：They struggled to maintain their cultural identity. （他们努力维护自己的文化认同。）"
+      }
+    },
+    {
+      "id": "stubborn",
+      "word": "stubborn",
+      "phonetic": "/'stʌbən/",
+      "meaning": "a.顽固的,倔强的;难对付的,难以克服的",
+      "similar": [],
+      "question": {
+        "wordId": "stubborn",
+        "stem": "选择 \"stubborn\" 的正确中文意思：",
+        "correct": "a.顽固的,倔强的;难对付的,难以克服的",
+        "options": [
+          "a.顽固的,倔强的;难对付的,难以克服的",
+          "a.不断的,连续的,频繁的",
+          "n.玩偶,玩具娃娃",
+          "n.更衣箱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能来自中古英语 stuborn，与 stub（树桩）有关，核心动作联想为“像树桩一样难以移动或改变”，引申为“顽固的、倔强的”；进一步引申为“难对付的、难以克服的”，强调物体或问题的坚固性和抵抗性。",
+        "similarWarning": "",
+        "extendedMeaning": "考研中常考其“难以克服的”含义，用于描述困难、疾病或障碍，如 stubborn stains（顽固污渍）、stubborn inflation（顽固通胀）。",
+        "examUsage": "真题考点：stubborn 常与 resistance、problem、obstacle 等搭配，作为核心形容词强调持久性和难以消除的特性，如真题例句：'The stubborn persistence of inequality has become a central issue.'（不平等的顽固持续已成为核心问题。）"
+      }
+    },
+    {
+      "id": "studio",
+      "word": "studio",
+      "phonetic": "/'stju:diəu/",
+      "meaning": "n.画室;播音室;(电影)制片厂",
+      "similar": [
+        "audio",
+        "stupid"
+      ],
+      "question": {
+        "wordId": "studio",
+        "stem": "选择 \"studio\" 的正确中文意思：",
+        "correct": "n.画室;播音室;(电影)制片厂",
+        "options": [
+          "a.愚蠢的,迟钝的",
+          "n.打字员",
+          "n./a.音频(响)(的)；声音(的)，听觉(的)",
+          "n.画室;播音室;(电影)制片厂"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语studium（勤奋、研究），与study同源。本义为‘学习或工作的房间’，后引申为艺术家的工作室（画室），再扩展为广播、电影等制作场所（播音室、制片厂）。核心动作是‘专注工作的空间’。",
+        "similarWarning": "audio（音频的）: 拼写差异为‘aud-’（听）vs ‘stud-’（学习）；study（学习）: 拼写差异为‘-y’（名词/动词）vs ‘-io’（名词后缀）；stupid（愚蠢的）: 拼写差异为‘-pid’（愚蠢）vs ‘-dio’（工作室）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "stuff",
+      "word": "stuff",
+      "phonetic": "/stʌf/",
+      "meaning": "n.原料,材料,东西 v.填满,塞满",
+      "similar": [
+        "staff",
+        "stiff",
+        "puff",
+        "stun",
+        "sniff"
+      ],
+      "question": {
+        "wordId": "stuff",
+        "stem": "选择 \"stuff\" 的正确中文意思：",
+        "correct": "n.原料,材料,东西 v.填满,塞满",
+        "options": [
+          "a.硬的,僵直的;拘谨的;呆板的;艰难的",
+          "n.全体职工;杠,棒;参谋部 v.配备工作人员",
+          "n.原料,材料,东西 v.填满,塞满",
+          "n.一阵,一股(气味等);喘息;吹嘘v.喘息,鼓吹"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源自拉丁语stuppa（粗麻絮），核心动作是“填充、塞入”，引申为“材料、东西”。",
+        "similarWarning": "staff（全体职员，棍棒）、stiff（僵硬的）、puff（喷出，膨胀）、stun（使震惊）、sniff（嗅）、study（学习）。",
+        "extendedMeaning": "考研中常考“东西、玩意儿”的抽象化用法，如“the stuff of dreams”（梦想的材料）或表示“填充”的动词义。",
+        "examUsage": "真题考点：stuff作动词“填满”时常用被动结构“be stuffed with”（被塞满），如“The bag was stuffed with clothes.”"
+      }
+    },
+    {
+      "id": "stumble",
+      "word": "stumble",
+      "phonetic": "/'stʌmbl/",
+      "meaning": "n.跌倒，绊倒 vi.绊(摔)倒；结结巴巴说",
+      "similar": [
+        "tumble",
+        "humble",
+        "stable",
+        "assemble",
+        "scramble",
+        "struggle"
+      ],
+      "question": {
+        "wordId": "stumble",
+        "stem": "选择 \"stumble\" 的正确中文意思：",
+        "correct": "n.跌倒，绊倒 vi.绊(摔)倒；结结巴巴说",
+        "options": [
+          "n.跌倒，绊倒 vi.绊(摔)倒；结结巴巴说",
+          "v.(使)摔倒;打滚,翻腾 n.摔跤,跌倒",
+          "a.谦卑的,恭顺的;地位低下的 v.降低,贬低",
+          "a.稳定的,安定的 n.马厩,马棚"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为stumb-（词源同stammer，拟声，模仿绊倒时发出的声音），-le为表反复或小动作的后缀。核心物理动作是“脚被某物阻挡导致身体失去平衡”，引申为“说话不流畅（结巴）”和“偶然发现（stumble across/upon）”。",
+        "similarWarning": "tumble（t-开头的翻滚，强调摔倒后滚动）；stumble（s-开头的绊倒，强调被障碍物阻挡）；humble（h-开头的谦卑，无摔倒义）；stable（s-开头的稳定，反义）；assemble（a-前缀的集合，无摔倒义）；scramble（sc-开头的攀爬/争夺，动作方向相反）",
+        "extendedMeaning": "stumble across/upon（偶然发现/遇到，高频外刊搭配，如stumble upon a solution）；stumble into（无意中卷入/跌入，如stumble into a trap）；stumble through（艰难地完成/结巴地讲完，如stumble through a speech）",
+        "examUsage": "真题中常考stumble across/upon作为“偶然发现”的题眼，干扰项常设为struggle（挣扎）、tumble（跌倒）。例句：Researchers stumbled upon a surprising finding while analyzing the data.（真题阅读，考查偶然发现的语境。）"
+      }
+    },
+    {
+      "id": "stun",
+      "word": "stun",
+      "phonetic": "/stʌn/",
+      "meaning": "vt.使…失去知觉；使目瞪口呆，使吃惊",
+      "similar": [
+        "stain",
+        "stern",
+        "sting",
+        "stuff"
+      ],
+      "question": {
+        "wordId": "stun",
+        "stem": "选择 \"stun\" 的正确中文意思：",
+        "correct": "vt.使…失去知觉；使目瞪口呆，使吃惊",
+        "options": [
+          "a.严厉的;坚决的,坚定的 n.船尾,舟尾",
+          "vt.使…失去知觉；使目瞪口呆，使吃惊",
+          "v./n.刺,刺痛,剧痛;刺,叮",
+          "n.污点,瑕疵 v.沾污;染色"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古法语estoner“用雷击打”，源自动词stoner“投石”，核心动作是“用石头击打头部导致昏迷”，引申为“使人震惊到呆住”",
+        "similarWarning": "sting（刺，叮）：n→g，动作是刺入；stun是重击导致昏迷；stain（污点）：n→a，拼写差异大但易混淆",
+        "extendedMeaning": "在考研中常引申为“使震惊到说不出话/呆住”，强调瞬间的强烈冲击效果",
+        "examUsage": "stun sb. into sth.（使某人震惊到做某事）：The news stunned him into silence.（这消息惊得他哑口无言）"
+      }
+    },
+    {
+      "id": "stupid",
+      "word": "stupid",
+      "phonetic": "/'stju:pid/",
+      "meaning": "a.愚蠢的,迟钝的",
+      "similar": [
+        "studio"
+      ],
+      "question": {
+        "wordId": "stupid",
+        "stem": "选择 \"stupid\" 的正确中文意思：",
+        "correct": "a.愚蠢的,迟钝的",
+        "options": [
+          "a.愚蠢的,迟钝的",
+          "n.台风",
+          "n.画室;播音室;(电影)制片厂",
+          "n.程度;度数;学位;等级"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'stupere'（感到麻木、惊呆），词根 'stup-' 表“麻木、呆滞”。核心物理动作：被打蒙后大脑停止运转的状态，引申为智力迟钝、愚蠢。",
+        "similarWarning": "studio（工作室）：字母差异 'stupid' 含 'p' 表“麻木”，'studio' 含 'io' 表“学习场所”，词义无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sturdy",
+      "word": "sturdy",
+      "phonetic": "/'stə:di/",
+      "meaning": "a.坚定的，不屈不挠的；强健的，结实的",
+      "similar": [
+        "saturday",
+        "steady",
+        "storey"
+      ],
+      "question": {
+        "wordId": "sturdy",
+        "stem": "选择 \"sturdy\" 的正确中文意思：",
+        "correct": "a.坚定的，不屈不挠的；强健的，结实的",
+        "options": [
+          "n.(story)楼,层",
+          "a.稳定的,不变的;坚定的v.(使)稳固/稳定",
+          "n.星期六",
+          "a.坚定的，不屈不挠的；强健的，结实的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自中古英语'sturdi'（鲁莽的、坚强的），与古法语'estourdi'（震惊的、猛烈的）相关。核心物理动作/画面：像一棵根深蒂固的大树，经得起风吹雨打，强调'坚固、稳定、不易动摇'。由此引申为'强健的、结实的'（物理坚固）和'坚定的、不屈不挠的'（意志坚固）。",
+        "similarWarning": "形近词辨析：\n- study (学习/书房)：sturdy 含字母'r'，强调'结实'；study 无'r'，侧重'用功'。\n- steady (稳定的)：sturdy 强调'坚固'（抗外力），steady 强调'平稳'（不摇晃）。\n- storey (楼层)：拼写差异为字母'y' vs 'ey'，词义无关。\n- story (故事)：拼写仅多一个'r'，但词源完全不同。",
+        "extendedMeaning": "在考研阅读中，sturdy 可用于形容'经济/体系/结构的稳固'，如：a sturdy economy（稳固的经济体系），超越单纯指人或动物身体强健。",
+        "examUsage": "真题考点：常与strong, robust, firm 等词作同义替换，或在完形中作为干扰项出现。核心搭配：sturdy construction（坚固结构）、sturdy defense（顽强防守）。注意区分sturdy（强调结实耐用）与sturdy（无其他常见短语）。"
+      }
+    },
+    {
+      "id": "style",
+      "word": "style",
+      "phonetic": "/stail/",
+      "meaning": "n.风格,文体;式样,时式,类型",
+      "similar": [
+        "stale",
+        "settle",
+        "stable",
+        "staple",
+        "sale",
+        "sole",
+        "tale",
+        "tile"
+      ],
+      "question": {
+        "wordId": "style",
+        "stem": "选择 \"style\" 的正确中文意思：",
+        "correct": "n.风格,文体;式样,时式,类型",
+        "options": [
+          "a.稳定的,安定的 n.马厩,马棚",
+          "v.安定,安顿;停息;定居;解决,调停",
+          "n.变质的,不新鲜的;陈旧的,陈腐的",
+          "n.风格,文体;式样,时式,类型"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语stilus（尖笔、书写工具），原指古罗马人书写用的尖笔，后引申为用这种笔写出的“书写方式、文体”，进一步扩展为“风格、式样”。核心动作是“用尖笔刻画”，强调独特的表达或呈现方式。",
+        "similarWarning": "stale（陈旧的，变质的） vs style：stale中a发/eɪ/，词义侧重不新鲜；style中y发/aɪ/，词义侧重方式。stable（稳定的） vs style：stable有字母b，词义稳固；style无b，词义灵活。staple（订书钉；主要的） vs style：staple含p和a，词义为固定物或主要产品。",
+        "extendedMeaning": "在考研真题中常出现“风格、类型”的抽象义，如“a style of leadership”（领导风格）；“style”还可作动词，意为“设计、称呼”，如“style oneself as an expert”（自称专家）。",
+        "examUsage": "常见搭配：in style（流行地；有气派地），out of style（过时），life style（生活方式）。真题例句：“The style of writing in this novel is unique.”（这部小说的写作风格独特。）注意与“type”“kind”的替换使用。"
+      }
+    },
+    {
+      "id": "subject",
+      "word": "subject",
+      "phonetic": "/'sʌbdʒikt/",
+      "meaning": "n.主题;学科 a.隶属的;易遭..的 v.使隶属",
+      "similar": [
+        "suspect",
+        "subtract"
+      ],
+      "question": {
+        "wordId": "subject",
+        "stem": "选择 \"subject\" 的正确中文意思：",
+        "correct": "n.主题;学科 a.隶属的;易遭..的 v.使隶属",
+        "options": [
+          "n.鹰",
+          "v. (from)减(去)",
+          "v.猜想；怀疑；察觉 a.可疑的 n.嫌疑犯",
+          "n.主题;学科 a.隶属的;易遭..的 v.使隶属"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "sub-（向下）+ ject（投掷）→ 向下投掷 → 使服从、隶属；引申为被投掷于其下的“主题”或“学科”。核心动作：把某物扔到另一物之下，形成支配或从属关系。",
+        "similarWarning": "object（ob-反/对面 + ject 投掷 → 投向对面 → 反对；物体）: 与 subject 区别在前缀 ob-（朝向/对面）vs sub-（向下），object 强调“对立”或“客体”；suspect（sus-下 + (s)pect 看 → 从下看 → 怀疑）: 词根不同，-ject vs -spect，拼写差异在“j”与“sp”；subtract（sub-下 + tract 拉 → 向下拉 → 减去）: 词根 tract 与 ject 不同，含义为“减除”而非“服从”。",
+        "extendedMeaning": "考研僻义：v. 使遭受，使经受（常与 to 连用，表示被动承受不利情况）。例：be subjected to criticism（遭受批评）。",
+        "examUsage": "真题考点：固定搭配 be subject to（易受…影响的；取决于…的）是阅读高频干扰项题眼；subject...to...（使…服从/遭受）在翻译和完形中出现。例：Prices are subject to change.（价格可能变动。）"
+      }
+    },
+    {
+      "id": "subjective",
+      "word": "subjective",
+      "phonetic": "/səb'dʒektiv/",
+      "meaning": "a.主观(上)的，个人的",
+      "similar": [
+        "objective",
+        "adjective",
+        "detective",
+        "effective",
+        "objection",
+        "subscribe",
+        "collective",
+        "respective"
+      ],
+      "question": {
+        "wordId": "subjective",
+        "stem": "选择 \"subjective\" 的正确中文意思：",
+        "correct": "a.主观(上)的，个人的",
+        "options": [
+          "n.形容词 a.形容词的，用作形容词的",
+          "n.目标,目的 a.客观的,真实的",
+          "n.侦探",
+          "a.主观(上)的，个人的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "sub-（向下）+ ject（投掷）+ -ive（形容词后缀）。核心动作：向下投掷/置于下方。引申为：基于个人立场或内在判断的，而非客观事实的，即“主观的”。",
+        "similarWarning": "objective（客观的）：前缀ob-（朝向）与sub-（向下）对立，强调朝向外部事实。adjective（形容词）：ad-（朝向）+ ject（投掷）+ -ive，原意“投放在名词旁的”，与主观无关。",
+        "extendedMeaning": "在考研阅读中常引申为“带有个人偏见的、非理性的”，如“subjective judgment”（主观判断）强调缺乏客观依据。",
+        "examUsage": "常与objective构成反义对比考点，如真题中“subjective vs. objective criteria”（主观标准 vs. 客观标准）作为态度题的关键区分。"
+      }
+    },
+    {
+      "id": "submarine",
+      "word": "submarine",
+      "phonetic": "/'sʌbməri:n/",
+      "meaning": "n.潜水艇 a.水底的,海底的",
+      "similar": [
+        "summarize",
+        "submerge",
+        "subscribe"
+      ],
+      "question": {
+        "wordId": "submarine",
+        "stem": "选择 \"submarine\" 的正确中文意思：",
+        "correct": "n.潜水艇 a.水底的,海底的",
+        "options": [
+          "n.潜水艇 a.水底的,海底的",
+          "v.(summarise)概括,总结",
+          "v.沉没,淹没;潜入",
+          "vi.(to)订阅，订购；同意vt.捐助，赞助"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "sub-（在...下）+ marine（海洋的）。字面意为“在海面之下的”，核心物理动作是“潜入水下”，引申为潜艇或海底的。",
+        "similarWarning": "submerge（浸没，淹没）强调完全没入水中；subscribe（订阅，签署）强调签署动作；summarize（概括）强调总结。submarine侧重“水下航行器或属性”。",
+        "extendedMeaning": "",
+        "examUsage": "真题中常考其形容词义“海底的”，如submarine cable（海底电缆），或作为科技类阅读背景词。"
+      }
+    },
+    {
+      "id": "submerge",
+      "word": "submerge",
+      "phonetic": "/səb'mə:dʒ/",
+      "meaning": "v.沉没,淹没;潜入",
+      "similar": [
+        "submarine",
+        "emerge"
+      ],
+      "question": {
+        "wordId": "submerge",
+        "stem": "选择 \"submerge\" 的正确中文意思：",
+        "correct": "v.沉没,淹没;潜入",
+        "options": [
+          "vt.显现,浮现;暴露;形成;",
+          "n.铜;铜币,铜制器",
+          "v.沉没,淹没;潜入",
+          "n.潜水艇 a.水底的,海底的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "sub-（下）+ merg-（浸、沉）+ -e（动词后缀）→ 向下沉入液体中，核心动作是“下浸”。词根merg-源自拉丁语mergere（浸入、沉没），同源词如emerge（e-出+merge→浮出）。",
+        "similarWarning": "submerge vs. emerge：sub-下 vs. e-出，动作方向相反（沉下 vs.浮出）。submerge vs. submarine：submarine（潜艇）是名词，词根marin-（海），强调“水下”物体；submerge是动词，强调“下沉”动作。submerge vs. summer：仅结尾字母相似，无词源关系，summer来自古英语sumor（夏季）。",
+        "extendedMeaning": "考研僻义：引申为“完全覆盖、掩盖（抽象事物）”，如be submerged in work（埋头工作）或submerge one's identity（掩盖身份），真题常考此比喻义。",
+        "examUsage": "真题考点：固定搭配submerge oneself in（沉浸于/埋头于），如He submerged himself in research. 干扰项常与emerge混淆，需注意方向性辨析。"
+      }
+    },
+    {
+      "id": "submit",
+      "word": "submit",
+      "phonetic": "/səb'mɪt/",
+      "meaning": "v.(to)使服从,屈服;(to)呈送,提交",
+      "similar": [
+        "summit",
+        "suit"
+      ],
+      "question": {
+        "wordId": "submit",
+        "stem": "选择 \"submit\" 的正确中文意思：",
+        "correct": "v.(to)使服从,屈服;(to)呈送,提交",
+        "options": [
+          "n.硅",
+          "v.合适,适合;相配,适应 n.一套西服;诉讼",
+          "n.顶，最高点；颠峰，高峰；最高级会议",
+          "v.(to)使服从,屈服;(to)呈送,提交"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "sub-（向下）+ mittere（放置、送出）→ 向下放置或送出 → 核心动作：把某物放在（权威的）下方或送交给对方。本义为“屈服、服从”（把自己置于他人之下）和“提交、呈送”（把文件等送到上级面前）。",
+        "similarWarning": "summit（n. 顶峰、峰会）：submit 有字母 'b'（向下），summit 有字母 'a'（高）→ 一个向下送，一个向上顶。suit（v./n. 适合、诉讼）：submit 有 'bmit'，suit 无 'b' 且拼写简单。",
+        "extendedMeaning": "在考研阅读中常引申为“（在逻辑或证据面前）不得不接受或承认”，如“submit to the facts”（承认事实），非字面“屈服”。",
+        "examUsage": "真题考点：submit to（服从于/提交给）；submit oneself to（使某人自己服从于）。高频搭配：submit a proposal/report（提交提案/报告），submit to authority（服从权威）。"
+      }
+    },
+    {
+      "id": "subordinate",
+      "word": "subordinate",
+      "phonetic": "/sə'bɔ:dinət/",
+      "meaning": "a.(to)次要的,从属的;下级的",
+      "similar": [
+        "coordinate",
+        "coordinate",
+        "lubricate"
+      ],
+      "question": {
+        "wordId": "subordinate",
+        "stem": "选择 \"subordinate\" 的正确中文意思：",
+        "correct": "a.(to)次要的,从属的;下级的",
+        "options": [
+          "a.(to)次要的,从属的;下级的",
+          "a.同等的 n.同等者,坐标 vt.协作，协调",
+          "a.同等的 n.同等者,坐标 vt.协作，协调",
+          "v.润滑,加润滑油,行贿,收买"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "sub-（下）+ ordin（顺序、等级）+ -ate（形容词/动词后缀）→ 置于下位顺序→ 从属的、次要的",
+        "similarWarning": "coordinate（共同+顺序→协调的）: co-（共同）+ ordin + -ate；subordinate: sub-（下）+ ordin + -ate。差异在前缀，词义对立：协调 vs 从属。lubricate（润滑）: 拼写相似但词根不同（lubric-滑），无词义关联。",
+        "extendedMeaning": "（动词）使服从、使从属于（常用于被动结构be subordinated to）",
+        "examUsage": "be subordinated to（从属于/受制于）; subordinate clause（从句，语法术语）; 真题考点：常作形容词表“次要的”，与superior（上级的/高级的）对应，干扰项可含coordinate（同等的）。"
+      }
+    },
+    {
+      "id": "subscribe",
+      "word": "subscribe",
+      "phonetic": "/səb'skraib/",
+      "meaning": "vi.(to)订阅，订购；同意vt.捐助，赞助",
+      "similar": [
+        "describe",
+        "prescribe",
+        "submarine",
+        "subjective"
+      ],
+      "question": {
+        "wordId": "subscribe",
+        "stem": "选择 \"subscribe\" 的正确中文意思：",
+        "correct": "vi.(to)订阅，订购；同意vt.捐助，赞助",
+        "options": [
+          "n.潜水艇 a.水底的,海底的",
+          "v.描述,形容",
+          "vi.(to)订阅，订购；同意vt.捐助，赞助",
+          "v.指示,规定;处(方),开(药)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "sub-（向下）+ scribe（写）→ 在文件下方签名表示同意或承诺 → 引申为“订阅、捐助”等动作。核心物理动作：在文字下方书写确认。",
+        "similarWarning": "describe（de-向下 + scribe写 → 描写）、prescribe（pre-预先 + scribe写 → 开处方/规定）、submarine（sub-下 + marine海洋 → 潜水艇）、subjective（sub-下 + ject投 + ive → 主观的）。区别：subscribe 强调“在下方写”以表示同意；describe 为“向下写”即详细描述；prescribe 为“预先写”即规定。",
+        "extendedMeaning": "考研常考“同意、赞成”的引申义，如 subscribe to a view（同意某观点），非字面订阅。",
+        "examUsage": "真题考点：subscribe to 表示“同意、支持”，常与 opinion, view, theory 搭配，为阅读题态度题高频题眼。例：I cannot subscribe to that opinion.（我不同意那个观点。）"
+      }
+    },
+    {
+      "id": "subsequent",
+      "word": "subsequent",
+      "phonetic": "/'sʌbsikwənt/",
+      "meaning": "a.随后的,后来的",
+      "similar": [
+        "frequent"
+      ],
+      "question": {
+        "wordId": "subsequent",
+        "stem": "选择 \"subsequent\" 的正确中文意思：",
+        "correct": "a.随后的,后来的",
+        "options": [
+          "a.随后的,后来的",
+          "n.(meter)米，公尺；仪表，计量器",
+          "a.时常发生的,频繁的",
+          "vt.享受…的乐趣；欣赏；喜爱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根sub-（在…之下/后面）+ sequ（跟随）+ -ent（形容词后缀）。核心动作：跟在后面。即“随后发生的，后来的”。",
+        "similarWarning": "frequent（频繁的）：frequ-（充满）+ -ent，强调时间上密集出现；subsequent强调顺序上紧随其后。",
+        "extendedMeaning": "在考研阅读中常引申为“随之而来的”，用于描述因果关系中的结果或后续影响。",
+        "examUsage": "subsequent to（在…之后），常作为时间状语或逻辑连接词出现，如“subsequent to the event”（在该事件之后）。"
+      }
+    },
+    {
+      "id": "subsidy",
+      "word": "subsidy",
+      "phonetic": "/'sʌbsidi/",
+      "meaning": "n.补助金；津贴费",
+      "similar": [],
+      "question": {
+        "wordId": "subsidy",
+        "stem": "选择 \"subsidy\" 的正确中文意思：",
+        "correct": "n.补助金；津贴费",
+        "options": [
+          "n.补助金；津贴费",
+          "v.发射;掠过,疾驰而过 n.嫩枝,苗,射击",
+          "prep.在…下面 ad.在下面,在底下",
+          "a.工业的,产业的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "sub-（下）+ sid（坐）+ -y（名词后缀）→ 坐在下面支持的东西 → 补助金。核心物理动作：在下方提供支撑，引申为政府或机构向下级或特定群体提供的资金支持。",
+        "similarWarning": "",
+        "extendedMeaning": "考研中常引申为“补贴”或“资助”，不仅指金钱，也可指政策倾斜或隐性支持，如“cross-subsidy”（交叉补贴）。",
+        "examUsage": "常见搭配：government subsidy（政府补贴）、subsidy system（补贴制度）。真题例句：The subsidy was intended to boost the renewable energy industry.（该补贴旨在促进可再生能源产业。）"
+      }
+    },
+    {
+      "id": "substance",
+      "word": "substance",
+      "phonetic": "/'sʌbstəns/",
+      "meaning": "n.物质；实质，本质；主旨；财产，资产",
+      "similar": [
+        "assistance",
+        "distance",
+        "instance",
+        "nuisance",
+        "substantial",
+        "resistance",
+        "substitute"
+      ],
+      "question": {
+        "wordId": "substance",
+        "stem": "选择 \"substance\" 的正确中文意思：",
+        "correct": "n.物质；实质，本质；主旨；财产，资产",
+        "options": [
+          "n.协作; 援助; 帮助",
+          "n.物质；实质，本质；主旨；财产，资产",
+          "n.例子,事例,例证",
+          "n.距离,间隔,远方,路程"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "sub-“在…下” + stance“站立” → 站在表面下的东西 → 物质（构成物体的材料）→ 引申为“实质、本质”（事物的核心内容）→ 再引申为“主旨”（核心要点）→ 财产（作为财富基础的物质实体）。核心物理动作为“站在下面支撑”。",
+        "similarWarning": "substance vs. substitute：substitute为“替代”，词根stit“站立”+ -ute，指“站在下面代替”，拼写差异在“-ance”与“-ute”。substance vs. substantial：substantial为形容词“大量的、实质的”，拼写差异在末尾“-tial”。",
+        "extendedMeaning": "考研僻义：①“主旨”（the substance of the argument论点的核心）；②“财产”（a man of substance有资产的人）。",
+        "examUsage": "真题考点：in substance“本质上、大体上”，常作为阅读理解中抽象概括题的题眼，如“The two proposals are in substance the same.”"
+      }
+    },
+    {
+      "id": "substantial",
+      "word": "substantial",
+      "phonetic": "/səb'stænʃəl/",
+      "meaning": "a.实质的;相当的;显著的;坚固的;富裕的",
+      "similar": [
+        "substance"
+      ],
+      "question": {
+        "wordId": "substantial",
+        "stem": "选择 \"substantial\" 的正确中文意思：",
+        "correct": "a.实质的;相当的;显著的;坚固的;富裕的",
+        "options": [
+          "a.英雄的，英勇的，崇高的",
+          "n.物质；实质，本质；主旨；财产，资产",
+          "a.实质的;相当的;显著的;坚固的;富裕的",
+          "a.使人厌倦的,讨厌的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "sub-=under,stance=stand,al=形容词后缀。字面义'站在下面的'→基础的→实质的;引申为'基础扎实的'→坚固的;再引申为'基础量大的'→相当的、显著的;又引申为'基础财产多的'→富裕的。",
+        "similarWarning": "substantial vs. substantive: substantial强调数量、程度或重要性（相当的/实质的），如substantial evidence; substantive强调独立存在或本质属性（实质性的/独立的），如substantive law（实体法）。",
+        "extendedMeaning": "在考研阅读中常考'显著的、重要的'(significant)，如substantial change; 以及'大量的'(large in amount),如substantial investment。",
+        "examUsage": "真题高频搭配:substantial evidence(充分的证据),substantial progress(重大进展)。干扰项常与significant, considerable, ample同义替换。"
+      }
+    },
+    {
+      "id": "substitute",
+      "word": "substitute",
+      "phonetic": "/'sʌbstitju:t/",
+      "meaning": "n.代替者；替身；代用品 v.(for)代替,替换",
+      "similar": [
+        "institute",
+        "constitute",
+        "multitude",
+        "substance"
+      ],
+      "question": {
+        "wordId": "substitute",
+        "stem": "选择 \"substitute\" 的正确中文意思：",
+        "correct": "n.代替者；替身；代用品 v.(for)代替,替换",
+        "options": [
+          "n.众多,大量",
+          "n.代替者；替身；代用品 v.(for)代替,替换",
+          "n.学会,研究所;学院 v.设立,设置,制定",
+          "vt.组成，构成，形成；设立，建立，任命"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "sub-（在...下）+stitute（站立，放置）→站在下面等待替换→n.代替者；替身；代用品 v.代替，替换",
+        "similarWarning": "institute（in-进入+stitute站立→建立）v.创立；n.学会；constitute（con-共同+stitute站立→共同组成）v.构成；multitude（multi-多+tude状态）n.众多；substance（sub-在...下+stance站立→立于其下的本质）n.物质；本质；区别在于词根相同但前缀不同，substitute侧重“替代”，其他词无此义",
+        "extendedMeaning": "考研僻义：n.替补（体育语境，如substitute player）；v.用...代替（搭配for，如substitute A for B用A代替B）",
+        "examUsage": "真题考点：substitute for（代替，取代）为高频固定搭配；干扰项常与replace混淆，但replace直接接宾语（replace A with B），而substitute需用for（substitute A for B或A is substituted for B）"
+      }
+    },
+    {
+      "id": "subtle",
+      "word": "subtle",
+      "phonetic": "/'sʌtl/",
+      "meaning": "a.精巧的,巧妙的;细微的,微妙的",
+      "similar": [
+        "shuttle",
+        "suite",
+        "bubble",
+        "settle",
+        "suitable"
+      ],
+      "question": {
+        "wordId": "subtle",
+        "stem": "选择 \"subtle\" 的正确中文意思：",
+        "correct": "a.精巧的,巧妙的;细微的,微妙的",
+        "options": [
+          "a.精巧的,巧妙的;细微的,微妙的",
+          "n.往返汽车/列车/飞机；穿梭 v.往返穿梭",
+          "n.套间；一套家具；套，组，系列",
+          "n.泡,水泡,气泡 v.冒泡,起泡,沸腾"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语subtilis，由sub-（在…之下）+ tela（网）构成，字面义为“在网下精细编织的”。核心物理动作是“精细编织”，引申为“精巧的、微妙的、难以察觉的”。",
+        "similarWarning": "subtle（微妙的） vs shuttle（航天飞机/穿梭） vs settle（解决/定居）：subtle含“b”但无声，shuttle含“h”，settle无“b”且发音不同。",
+        "extendedMeaning": "在考研阅读中常指“细微的差别”或“不易察觉的因果关系”，如subtle distinction（细微差异）或subtle change（微妙变化），强调非表面可见的深层逻辑。",
+        "examUsage": "真题考点：subtle常与difference/change/nuance搭配，作为干扰项出现，需注意其“不易察觉”的语境，如“a subtle shift in policy”（政策上的微妙转变）。"
+      }
+    },
+    {
+      "id": "subtract",
+      "word": "subtract",
+      "phonetic": "/səb'trækt/",
+      "meaning": "v. (from)减(去)",
+      "similar": [
+        "strict",
+        "attract",
+        "extract",
+        "subject",
+        "abstract",
+        "contract",
+        "distract"
+      ],
+      "question": {
+        "wordId": "subtract",
+        "stem": "选择 \"subtract\" 的正确中文意思：",
+        "correct": "v. (from)减(去)",
+        "options": [
+          "a.(with)严格的,严厉的;严谨的,精确的",
+          "v./n.拔出,抽出;摘录 n.抽取物;精华;选集",
+          "v. (from)减(去)",
+          "vt.引起的注意(或兴趣等),吸引；引起；激起"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "sub-=向下，tract=拉拽。核心物理动作：向下拉拽。引申为从整体中拉走一部分，即数学上的“减去”。",
+        "similarWarning": "subtract vs. distract (dis-=分开，tract=拉，拉走注意力→分散)；subtract vs. extract (ex-=向外，tract=拉，拉出→提取)。差异在于前缀：sub-向下，dis-分开，ex-向外。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "suburb",
+      "word": "suburb",
+      "phonetic": "/'sʌbə:b/",
+      "meaning": "n.市郊,郊区",
+      "similar": [
+        "superb"
+      ],
+      "question": {
+        "wordId": "suburb",
+        "stem": "选择 \"suburb\" 的正确中文意思：",
+        "correct": "n.市郊,郊区",
+        "options": [
+          "n.市郊,郊区",
+          "a.极好的,杰出的；华丽的；",
+          "n.(pl.mice)鼠,耗子",
+          "暗示, 提示, 球杆"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "sub-（下、次要）+ urb（城市）→ 城市边缘地带，即市郊、郊区。",
+        "similarWarning": "suburb vs superb: suburb含urb（城市），指郊区；superb含super（超级），意为极好的。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    }
+  ]
+}

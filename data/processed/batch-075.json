@@ -1,0 +1,1750 @@
+{
+  "batchId": 75,
+  "words": [
+    {
+      "id": "squeeze",
+      "word": "squeeze",
+      "phonetic": "/skwi:z/",
+      "meaning": "v.压榨,挤 n.榨取,勒索",
+      "similar": [
+        "sneeze",
+        "sequence"
+      ],
+      "question": {
+        "wordId": "squeeze",
+        "stem": "选择 \"squeeze\" 的正确中文意思：",
+        "correct": "v.压榨,挤 n.榨取,勒索",
+        "options": [
+          "vi.打喷嚏，发喷嚏声n.喷嚏",
+          "v.压榨,挤 n.榨取,勒索",
+          "n.臀部，髋；屋脊",
+          "n.先后,次序;连续,数列"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语 *cwesan*（挤压），拟声词根模拟挤压时发出的“吱吱”声。核心物理动作为“施加压力使物体缩小或流出液体”，引申为经济上的“压榨、剥削”或空间上的“挤入”。",
+        "similarWarning": "squeeze vs. sneeze：squeeze（压榨，含“挤”的动作，字母q代表“挤压”）；sneeze（打喷嚏，含“鼻”音，字母n与鼻相关）。squeeze vs. sequence：sequence（序列，含“跟随”义，词根sec-）；squeeze强调“压缩”动作。",
+        "extendedMeaning": "考研僻义：①（经济上）紧缩、压榨（如 credit squeeze 信贷紧缩）；②（时间/空间）挤入、勉强通过（如 squeeze in a meeting 挤出时间开会）。",
+        "examUsage": "真题考点：①固定搭配：squeeze out（挤出、排挤），如“squeeze out competitors”（排挤竞争者）；②经典干扰项：squeeze与sneeze在完形填空中因拼写相似常混淆，但词义完全无关。"
+      }
+    },
+    {
+      "id": "squirrel",
+      "word": "squirrel",
+      "phonetic": "/'skwə:rəl/",
+      "meaning": "n.松鼠",
+      "similar": [
+        "quarrel"
+      ],
+      "question": {
+        "wordId": "squirrel",
+        "stem": "选择 \"squirrel\" 的正确中文意思：",
+        "correct": "n.松鼠",
+        "options": [
+          "n.国籍,民族",
+          "v.争吵,争论 n.争吵,争吵的原因",
+          "prep.在(或向)...的那边，远于；超出；",
+          "n.松鼠"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源：来自古法语'esquirel'，源自拉丁语'sciurus'，由希腊语'skia'（阴影）+ 'oura'（尾巴）组成，字面意为“用尾巴遮阴的动物”。核心动作：松鼠常用大尾巴遮住身体或头部，形成阴影。",
+        "similarWarning": "quarrel（n./v.争吵） vs squirrel：q开头，无's'和'ir'；square（n.正方形） vs squirrel：无'ir'和'rel'。注意拼写差异：squirrel有'sq'和双'r'。",
+        "extendedMeaning": "考研中无显著僻义，基本指松鼠。但在阅读中可引申为“囤积者”，如‘squirrel away’（贮藏，藏匿），常出现于经济类文章描述储蓄行为。",
+        "examUsage": "考点：短语‘squirrel away’（贮藏）为真题高频搭配，如‘squirrel away money for retirement’。注意区分与‘quarrel’（争吵）的拼写干扰。"
+      }
+    },
+    {
+      "id": "stab",
+      "word": "stab",
+      "phonetic": "/stæb/",
+      "meaning": "v./n.刺,戳",
+      "similar": [
+        "stay",
+        "stable",
+        "stack",
+        "staff",
+        "stain",
+        "stair",
+        "stake",
+        "stale"
+      ],
+      "question": {
+        "wordId": "stab",
+        "stem": "选择 \"stab\" 的正确中文意思：",
+        "correct": "v./n.刺,戳",
+        "options": [
+          "n.堆,一堆 v.堆积,堆起",
+          "v./n.刺,戳",
+          "vi.逗留；保持vt.停止，延缓n.逗留，停留",
+          "a.稳定的,安定的 n.马厩,马棚"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语，拟声词根，模拟尖锐物体刺入物体的声音或动作。核心物理动作为：用尖锐物（如刀、匕首）瞬间、用力地穿透或插入某物。词根无复杂演变，直接对应动作本身。",
+        "similarWarning": "stab vs star（星星）：stab结尾b，star结尾r，区别在于b与r。stab vs stable（稳定的）：stab无后缀，stable含-able后缀，表性质。stab vs stack（堆叠）：stack含ck，表堆叠动作，与刺穿无关。",
+        "extendedMeaning": "考研僻义：\"a stab in the back\"（背后捅刀，暗箭伤人）；\"take a stab at\"（尝试做某事，尤指第一次或冒险尝试）。",
+        "examUsage": "真题考点：\"stab\"作动词常考被动语态及搭配\"stab sb. in the back\"（暗算某人）。例句：He was stabbed in the back by his so-called friend.（他被所谓的朋友暗算了。）"
+      }
+    },
+    {
+      "id": "stability",
+      "word": "stability",
+      "phonetic": "/stə'biliti/",
+      "meaning": "n.稳定,安定",
+      "similar": [
+        "ability",
+        "liability",
+        "facility",
+        "possibility",
+        "probability",
+        "speciality"
+      ],
+      "question": {
+        "wordId": "stability",
+        "stem": "选择 \"stability\" 的正确中文意思：",
+        "correct": "n.稳定,安定",
+        "options": [
+          "n.灵巧,熟练;(pl.)设备,设施,便利条件",
+          "n.责任,义务;(pl.)债务",
+          "n.能力；本领；才能；专门技能，天资",
+          "n.稳定,安定"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 sta-（站立）+ 后缀 -ability（能力、性质）。核心动作：能够站立不倒。stability 指物体或系统保持平衡、不轻易改变状态的性质，即稳定性、安定性。",
+        "similarWarning": "ability（能力）：词根 hab-（持有），指具备做某事的能力。liability（责任/负债）：词根 lig-（绑），指法律上被绑定的义务。facility（设施/便利）：词根 fac-（做），指容易做成的条件。stability 强调“站立不倒”的状态，与上述词在拼写上仅前缀不同，但词根核心差异明显。",
+        "extendedMeaning": "在考研外刊中，stability 常引申为“稳定性”（如经济、政治、系统稳定性），例如：economic stability（经济稳定）、political stability（政治稳定）。",
+        "examUsage": "真题中常与 maintain（维持）、threaten（威胁）等动词搭配，如：maintain stability（维持稳定）。也作核心题眼，如：The stability of the ecosystem is crucial.（生态系统的稳定性至关重要。）"
+      }
+    },
+    {
+      "id": "stable",
+      "word": "stable",
+      "phonetic": "/'steibl/",
+      "meaning": "a.稳定的,安定的 n.马厩,马棚",
+      "similar": [
+        "stale",
+        "staple",
+        "suitable",
+        "notable",
+        "startle",
+        "stumble",
+        "able",
+        "sale"
+      ],
+      "question": {
+        "wordId": "stable",
+        "stem": "选择 \"stable\" 的正确中文意思：",
+        "correct": "a.稳定的,安定的 n.马厩,马棚",
+        "options": [
+          "a.稳定的,安定的 n.马厩,马棚",
+          "n.变质的,不新鲜的;陈旧的,陈腐的",
+          "n.主要产品；名产；纤维；主要成分，主食",
+          "a.(for)合适的,适宜的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根st-（站立）+ -able（能…的）→ 能站立的、不易倒的 → 稳定的。马厩（n.）源自古法语 estable，本义为“站立的地方”，即马匹站立休息的场所。",
+        "similarWarning": "stable vs. stale（陈腐的）：stable含b（站立），stale含l（时间久变味）；stable vs. table（桌子）：首字母s（站）与t（台面）不同；stable vs. staple（主要产品/订书钉）：stable结尾ble，staple结尾ple，且staple核心义为“固定”。",
+        "extendedMeaning": "stable作形容词在考研中常引申为“稳定的心理/情绪状态”，如emotionally stable（情绪稳定）；作名词“马厩”在真题中偶见，但非高频。",
+        "examUsage": "stable常与steady（稳固的）构成同义替换，如stable economy/steady growth；注意stable作名词时形近词stall（货摊/马厩）易混，但stall更侧重“分隔间”。"
+      }
+    },
+    {
+      "id": "stack",
+      "word": "stack",
+      "phonetic": "/stæk/",
+      "meaning": "n.堆,一堆 v.堆积,堆起",
+      "similar": [
+        "sack",
+        "slack",
+        "snack",
+        "stalk",
+        "stock",
+        "setback",
+        "attack",
+        "sticky"
+      ],
+      "question": {
+        "wordId": "stack",
+        "stem": "选择 \"stack\" 的正确中文意思：",
+        "correct": "n.堆,一堆 v.堆积,堆起",
+        "options": [
+          "n.袋,包,麻袋 v.解雇",
+          "n.快餐,小吃,点心",
+          "n.堆,一堆 v.堆积,堆起",
+          "a.懈怠的,松驰的;萧条的 n.淡季;(pl.)便裤"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "stack 源自斯堪的纳维亚语，原指“干草堆”。词根义为“堆叠、堆积”，核心物理动作是将物体一层层整齐地叠放起来，形成稳定的堆状结构。",
+        "similarWarning": "sack（麻袋/解雇）、slack（松弛的/懈怠）、snack（小吃）、stalk（茎秆/潜行）、stick（棍子/粘住）、stock（库存/股票）、setback（挫折）、attack（攻击）。对比：stack 强调“堆叠”，sack 是“袋子”，slack 是“松弛”，snack 是“零食”，stalk 是“茎”，stick 是“棍”，stock 是“库存”，setback 是“挫折”，attack 是“攻击”。",
+        "extendedMeaning": "stack 在考研中常引申为“大量、许多”（a stack of work），或指计算机中的“栈”（stack data structure），以及“飞机盘旋等待降落”（stack up）。",
+        "examUsage": "常见考点：stack up against（与...相比/竞争），如“How does our product stack up against the competition?”真题例句：“The books were stacked on the floor.”（书堆在地上。）注意区分 stack 与 stock 在“库存”义上的不同：stack 侧重堆叠，stock 侧重存货。"
+      }
+    },
+    {
+      "id": "stadium",
+      "word": "stadium",
+      "phonetic": "/'steidiəm/",
+      "meaning": "n.体育场",
+      "similar": [],
+      "question": {
+        "wordId": "stadium",
+        "stem": "选择 \"stadium\" 的正确中文意思：",
+        "correct": "n.体育场",
+        "options": [
+          "n.内科医生",
+          "n. 高地,高原",
+          "a.普通的，平庸的n.寻常事物，平庸的东西",
+          "n.体育场"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根st-（站立）+ -ium（场所后缀），字面意为“站立的地方”，原指古希腊用于赛跑或竞技的露天场地，观众站立观看，后引申为现代体育场。核心动作：站立→场所。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "staff",
+      "word": "staff",
+      "phonetic": "/stɑ:f/",
+      "meaning": "n.全体职工;杠,棒;参谋部 v.配备工作人员",
+      "similar": [
+        "stiff",
+        "stuff",
+        "stab",
+        "stay",
+        "scarf",
+        "shaft",
+        "sniff",
+        "stack"
+      ],
+      "question": {
+        "wordId": "staff",
+        "stem": "选择 \"staff\" 的正确中文意思：",
+        "correct": "n.全体职工;杠,棒;参谋部 v.配备工作人员",
+        "options": [
+          "n.全体职工;杠,棒;参谋部 v.配备工作人员",
+          "a.硬的,僵直的;拘谨的;呆板的;艰难的",
+          "n.原料,材料,东西 v.填满,塞满",
+          "v./n.刺,戳"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根本义为“棍棒、支柱”。古英语staff意为“棍、杖”，引申为“支撑物”。机构中“人员”是支撑组织运转的支柱，故引申为“全体职工”；军事上“参谋部”是支撑指挥的核心部门；动词“配备工作人员”即为其功能化用法。",
+        "similarWarning": "stiff（僵硬的，与staff差一个字母i）; stuff（东西、填充，与staff差u字母）; scarf（围巾，与staff首字母s结尾f相同，但中间字母不同）; safe（安全的，与staff差字母f位置）; stab（刺，与staff差字母b）; star（星星，与staff差字母f）; stay（停留，与staff差字母f）; shaft（轴、杆，与staff字母顺序不同，但意义相近）。",
+        "extendedMeaning": "在考研阅读中，staff作名词常考“全体职员”的集合义，如\"teaching staff\"（全体教师）; 作动词考“为…配备人员”，如\"staff a department\"（为部门配备人员）。",
+        "examUsage": "核心短语：\"on the staff\"（在职人员）; \"staff meeting\"（员工会议）。真题考点：区分staff与stuff（东西、填充）、stiff（僵硬的）的拼写与含义; staff作动词时后接with，如\"staffed with experts\"（配备专家）。"
+      }
+    },
+    {
+      "id": "stagger",
+      "word": "stagger",
+      "phonetic": "/'stægə/",
+      "meaning": "vi.摇晃着移动;蹒跚 n.摇晃不稳的动作;蹒跚",
+      "similar": [
+        "stranger"
+      ],
+      "question": {
+        "wordId": "stagger",
+        "stem": "选择 \"stagger\" 的正确中文意思：",
+        "correct": "vi.摇晃着移动;蹒跚 n.摇晃不稳的动作;蹒跚",
+        "options": [
+          "v.查出,探出,查找…地点,使…坐落于,位于",
+          "n.洗发膏,香波;洗发,洗头 v.洗发,洗头",
+          "n.陌生人,生客;外地人,外国人",
+          "vi.摇晃着移动;蹒跚 n.摇晃不稳的动作;蹒跚"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古斯堪的纳维亚语stakra，意为‘来回摇晃’。词根与‘stake（桩）’同源，核心动作是像被风吹动的木桩一样左右摇摆不稳，引申为物理上的蹒跚或时间上的错开安排。",
+        "similarWarning": "stranger（陌生人）：stagger vs stranger，差异在‘gg’与‘ng’，前者强调摇晃动作，后者指不认识的人。stage（舞台；阶段）：stagger vs stage，差异在‘gg’与‘g’，前者动态不稳，后者静态位置或时期。",
+        "extendedMeaning": "【考研僻义】使错开（时间或位置）：stagger working hours（错峰上班），stagger holidays（分批休假）。常用于外刊讨论弹性工作制或交通调度。",
+        "examUsage": "【真题考点】stagger to one's feet（摇晃着站起来）为高频动作短语；阅读中常考stagger作为‘使震惊’的熟词僻义，如‘The news staggered him.’（这消息让他大吃一惊），注意与surprise的区别在于强调因打击而摇晃的震惊感。"
+      }
+    },
+    {
+      "id": "stain",
+      "word": "stain",
+      "phonetic": "/steɪn/",
+      "meaning": "n.污点,瑕疵 v.沾污;染色",
+      "similar": [
+        "strain",
+        "stair",
+        "sustain",
+        "attain",
+        "detain",
+        "obtain",
+        "retain",
+        "static"
+      ],
+      "question": {
+        "wordId": "stain",
+        "stem": "选择 \"stain\" 的正确中文意思：",
+        "correct": "n.污点,瑕疵 v.沾污;染色",
+        "options": [
+          "vt.支撑,撑住;维持,持续,经受,忍耐",
+          "n.(pl.)楼梯",
+          "v.拉紧;紧张;扭伤;竭尽全力 n.拉紧;负担",
+          "n.污点,瑕疵 v.沾污;染色"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根源于古法语'teindre'（染色），后受古英语'stæning'（石头）影响，核心动作是'使颜色附着于表面'，引申为'留下污点'。",
+        "similarWarning": "strain（拉紧/压力）：strain vs stain 差一个'r'，strain指物理拉伸或精神压力，stain指染色或污点。stair（楼梯）：stair vs stain 差一个'r'，stair是阶梯，stain是污渍。",
+        "extendedMeaning": "考研僻义：'stain'可引申为'道德/声誉上的污点'，如'a stain on one's reputation'（名誉上的污点），非字面物理染色。",
+        "examUsage": "真题考点：常考搭配'stain with'（被…污染），如'clothes stained with oil'（油污的衣服）。注意与'strain'的辨析干扰项。"
+      }
+    },
+    {
+      "id": "stair",
+      "word": "stair",
+      "phonetic": "/stεə/",
+      "meaning": "n.(pl.)楼梯",
+      "similar": [
+        "stir",
+        "stain",
+        "static",
+        "strain",
+        "sir",
+        "tar",
+        "fair",
+        "pair"
+      ],
+      "question": {
+        "wordId": "stair",
+        "stem": "选择 \"stair\" 的正确中文意思：",
+        "correct": "n.(pl.)楼梯",
+        "options": [
+          "a.(statical)静态的,静力的",
+          "n.污点,瑕疵 v.沾污;染色",
+          "v.搅拌,搅动;动,摇动;激动;轰动;煽动,鼓动",
+          "n.(pl.)楼梯"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "stair 源自古英语 stæger，与动词 stigan（攀登）同源，核心动作是“向上攀爬的台阶”，词根 sta- 表示“站立、升起”，引申为连接不同高度的阶梯。",
+        "similarWarning": "star（星星） vs stair（楼梯）：star 缺字母 i；stir（搅拌） vs stair：stir 缺 a 且元音不同；stain（污点） vs stair：stain 末尾 -in 替换 -ir；static（静态的） vs stair：static 多后缀 -tic；strain（拉紧） vs stair：strain 多字母 n；air（空气） vs stair：air 少 s 和 t；sir（先生） vs stair：sir 少 t 和 a；tar（焦油） vs stair：tar 少 s 和 i。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "staircase",
+      "word": "staircase",
+      "phonetic": "/'stεəkeis/",
+      "meaning": "n.(stairway)楼梯",
+      "similar": [],
+      "question": {
+        "wordId": "staircase",
+        "stem": "选择 \"staircase\" 的正确中文意思：",
+        "correct": "n.(stairway)楼梯",
+        "options": [
+          "n.(stairway)楼梯",
+          "v.跟随,接着;领会;沿着…前进,遵循;结果是",
+          "n.骚扰，扰乱；烦恼，烦乱",
+          "n.大腿,(跑道的)一圈,一段路程,工作阶段"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由 stair（楼梯） + case（容器、框架）组成。字面意为“楼梯的框架结构”，强调作为建筑构件的整体楼梯系统，区别于单个台阶（step）。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "stake",
+      "word": "stake",
+      "phonetic": "/steik/",
+      "meaning": "n.桩,标桩;赌注,利害关系",
+      "similar": [
+        "sake",
+        "shake",
+        "snake",
+        "stale",
+        "stare",
+        "estate",
+        "stable",
+        "staple"
+      ],
+      "question": {
+        "wordId": "stake",
+        "stem": "选择 \"stake\" 的正确中文意思：",
+        "correct": "n.桩,标桩;赌注,利害关系",
+        "options": [
+          "n.蛇",
+          "n./v.摇动,摇;颤抖,震动",
+          "n.缘故,理由",
+          "n.桩,标桩;赌注,利害关系"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语‘staca’（尖木桩），核心物理动作为‘将尖木插入地面’。由此衍生：1）作为‘桩、标桩’标记边界或支撑；2）引申为‘赌注’，因赌博时赌金常放在桩上；3）再引申为‘利害关系’，即个人投入的风险或利益。",
+        "similarWarning": "stake vs. take（拿）: 首字母s表‘固定’，stake强调‘插入固定’；take强调‘拿取’。stake vs. shake（摇动）: stake无‘h’且表静态固定，shake有‘h’表动态摇晃。stake vs. stale（陈腐的）: 末尾‘e’ vs ‘le’，stake为名词，stale为形容词。",
+        "extendedMeaning": "【考研僻义】‘at stake’（处于危险中，利害攸关）为高频固定短语，非字面‘在桩上’。例如：The future of the company is at stake.（公司的未来处于危险中。）",
+        "examUsage": "【真题考点】‘stake’常作为‘利害关系’出现在阅读推理题或完形填空中，搭配‘have a stake in’（与…有利害关系）。例如：All parties have a stake in the success of the project.（所有各方都与项目的成功有利害关系。）"
+      }
+    },
+    {
+      "id": "stale",
+      "word": "stale",
+      "phonetic": "/steil/",
+      "meaning": "n.变质的,不新鲜的;陈旧的,陈腐的",
+      "similar": [
+        "stable",
+        "staple",
+        "sale",
+        "tale",
+        "scale",
+        "stake",
+        "stalk",
+        "stall"
+      ],
+      "question": {
+        "wordId": "stale",
+        "stem": "选择 \"stale\" 的正确中文意思：",
+        "correct": "n.变质的,不新鲜的;陈旧的,陈腐的",
+        "options": [
+          "n.出售,上市;贱卖,廉价出售;销售额",
+          "n.主要产品；名产；纤维；主要成分，主食",
+          "a.稳定的,安定的 n.马厩,马棚",
+          "n.变质的,不新鲜的;陈旧的,陈腐的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根词源：来自古法语 'estale'，意为'放置的、停滞的'，与 'stand' 同源。核心物理动作：东西放置太久不再流动。本义指酒或食物因长时间放置而失去新鲜度、变味，引申为思想、观念因停滞不前而变得陈腐、缺乏新意。",
+        "similarWarning": "形近词：stable（稳定的；马厩） vs stale（陈腐的）。字母差异：stable 有 'b'（稳定如基地），stale 无 'b'（陈腐因停滞）。staple（ staples 订书钉；主要产品） vs stale：staple 有 'p'（按压固定），stale 无 'p'（放置太久）。",
+        "extendedMeaning": "熟词僻义：在考研真题中常引申为'过时的、缺乏活力的'，用于描述经济、市场或观念。如 'stale economic data'（过时的经济数据），'stale atmosphere'（沉闷的气氛）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "stalk",
+      "word": "stalk",
+      "phonetic": "/stɔ:k/",
+      "meaning": "n.茎，梗vt.悄悄地跟踪vi.高视阔步地走",
+      "similar": [
+        "talk",
+        "stack",
+        "stale",
+        "stall",
+        "stable",
+        "staple",
+        "sack",
+        "sale"
+      ],
+      "question": {
+        "wordId": "stalk",
+        "stem": "选择 \"stalk\" 的正确中文意思：",
+        "correct": "n.茎，梗vt.悄悄地跟踪vi.高视阔步地走",
+        "options": [
+          "n.茎，梗vt.悄悄地跟踪vi.高视阔步地走",
+          "n.谈话；聊天；讲话；演讲 v.说话；交谈",
+          "n.堆,一堆 v.堆积,堆起",
+          "n.变质的,不新鲜的;陈旧的,陈腐的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根与古英语stealcian（潜行）相关，核心物理动作为“悄悄接近”或“高视阔步”。名词义源于植物茎干（支撑结构），与“高视阔步”的挺拔姿态相通。",
+        "similarWarning": "stalk vs. stack（堆叠）：stalk含l，强调“茎”；stack含ck，意为“堆”。stale（陈旧的）与stalk差一字母l，但词义无关。",
+        "extendedMeaning": "考研僻义：vt. 蔓延（如疾病、恐惧等抽象事物悄悄扩散）。例：Famine stalked the land.（饥荒蔓延大地。）",
+        "examUsage": "真题考点：stalk常与track（追踪）混淆，但stalk更强调隐秘性。搭配：stalk one's prey（跟踪猎物），在阅读中表“暗中监视”或“蔓延”的比喻用法。"
+      }
+    },
+    {
+      "id": "stall",
+      "word": "stall",
+      "phonetic": "/stɔ:l/",
+      "meaning": "n.货摊;畜栏,厩 v.(使)停转,(使)停止",
+      "similar": [
+        "stale",
+        "stalk",
+        "install",
+        "stable",
+        "staple",
+        "stroll",
+        "sail",
+        "sale"
+      ],
+      "question": {
+        "wordId": "stall",
+        "stem": "选择 \"stall\" 的正确中文意思：",
+        "correct": "n.货摊;畜栏,厩 v.(使)停转,(使)停止",
+        "options": [
+          "vt.(instal)安装,设置,安置；使就职,任命",
+          "n.茎，梗vt.悄悄地跟踪vi.高视阔步地走",
+          "n.变质的,不新鲜的;陈旧的,陈腐的",
+          "n.货摊;畜栏,厩 v.(使)停转,(使)停止"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根stall源自原始日耳曼语*stallaz，意为“站立的地方、位置”。核心物理动作是“使某物静止/固定于某处”。n.货摊（固定位置的小摊位）、畜栏（固定动物的围栏）；v.(使)停转/停止（使引擎或进程固定不动）。",
+        "similarWarning": "stale（陈腐的）：stall与stale差字母a/l；stall强调静止卡住，stale强调因时间久而不新鲜。stalk（茎；跟踪）：stall与stalk差字母l/k；stall是静止，stalk是茎或悄悄跟随。still（仍然；静止的）：stall与still差字母a/i；stall是卡住不动，still是保持静止状态。",
+        "extendedMeaning": "v.拖延、推迟（使进程/决定停滞）：The negotiations have stalled due to disagreements. 常用于考研阅读中描述谈判、经济复苏等进程受阻。",
+        "examUsage": "stall sb./sth. (out) 拖延某人/某事：The government tried to stall the reform. 在真题完形或阅读中可能作为干扰项出现，需区分stall（故意拖延）与delay（一般延迟）。"
+      }
+    },
+    {
+      "id": "stamp",
+      "word": "stamp",
+      "phonetic": "/stæmp/",
+      "meaning": "n.邮票;印;跺脚;标志v.跺脚,顿足;盖章",
+      "similar": [
+        "swamp",
+        "tap",
+        "camp",
+        "damp",
+        "lamp",
+        "seam",
+        "sham",
+        "slam"
+      ],
+      "question": {
+        "wordId": "stamp",
+        "stem": "选择 \"stamp\" 的正确中文意思：",
+        "correct": "n.邮票;印;跺脚;标志v.跺脚,顿足;盖章",
+        "options": [
+          "n.塞子;水龙头; n./v.轻打,轻敲; vt.开发",
+          "n.沼泽；湿地 vt.浸没；使…应接不暇",
+          "n.邮票;印;跺脚;标志v.跺脚,顿足;盖章",
+          "n.野营,营地;帐篷,阵营 v.设营,宿营"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源拟声词，模仿跺脚时发出的重击声。核心物理动作为‘用力向下压或踩’，引申为‘盖章（向下压印）’和‘邮票（压印图案的小纸片）’。",
+        "similarWarning": "stamp vs swamp: stamp含字母t（踩踏动作），swamp含字母w（沼泽，水浸）。stamp vs damp: stamp含t（踩），damp含d（湿气）。stamp vs camp: stamp含st（站立），camp含c（营地）。",
+        "extendedMeaning": "【熟词僻义】v. 显示出，表明（特征/情绪）——‘stamp sth as...’（使某物带有……特征）常出现在外刊评论中。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "standpoint",
+      "word": "standpoint",
+      "phonetic": "/'stændpɔint/",
+      "meaning": "n.立场,观点",
+      "similar": [],
+      "question": {
+        "wordId": "standpoint",
+        "stem": "选择 \"standpoint\" 的正确中文意思：",
+        "correct": "n.立场,观点",
+        "options": [
+          "a.灾难性的",
+          "a.独立的，有主权的 n.君主，国王，统治者",
+          "n.阀;(英)电子管,真空管;(心脏的）瓣膜",
+          "n.立场,观点"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由stand（站立）和point（点）复合而成。字面意思是“站立的位置/立足点”，引申为观察或思考问题的“立场、观点”。核心动作是“站在某个点上”，强调看问题的角度或出发点。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研语境中，常指抽象的“理论立场”或“判断基准”，如political standpoint（政治立场）、from a historical standpoint（从历史角度看）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "staple",
+      "word": "staple",
+      "phonetic": "/'steipl/",
+      "meaning": "n.主要产品；名产；纤维；主要成分，主食",
+      "similar": [
+        "stale",
+        "stable",
+        "startle",
+        "sale",
+        "tale",
+        "tape",
+        "scale",
+        "shape"
+      ],
+      "question": {
+        "wordId": "staple",
+        "stem": "选择 \"staple\" 的正确中文意思：",
+        "correct": "n.主要产品；名产；纤维；主要成分，主食",
+        "options": [
+          "n.变质的,不新鲜的;陈旧的,陈腐的",
+          "n.主要产品；名产；纤维；主要成分，主食",
+          "v.惊吓,使吃惊",
+          "a.稳定的,安定的 n.马厩,马棚"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源来自古英语stapol（柱子、支柱），后引申为“支撑物”，进而指“主要或核心的东西”。核心物理动作为“支撑、固定”，引申为“基础性、支柱性的产品/成分”。",
+        "similarWarning": "staple vs stable: staple（主要产品）含p（product产品），stable（稳定的）含b（build建造）。staple vs stale: staple（主要）含p（primary主要），stale（陈腐的）含l（long久放）。",
+        "extendedMeaning": "考研僻义：作动词时意为“用订书钉装订”，如staple papers（装订文件）；作形容词时意为“主要的、基本的”，如staple crop（主要农作物）。",
+        "examUsage": "真题考点：常考搭配“staple diet”（主食/主要食物来源），如Rice is a staple diet in Asia. 在阅读中可能作为“核心产品/支柱产业”出现，需注意与product、commodity的辨析。"
+      }
+    },
+    {
+      "id": "stare",
+      "word": "stare",
+      "phonetic": "/stεə/",
+      "meaning": "v.(at)盯,凝视",
+      "similar": [
+        "starve",
+        "scare",
+        "share",
+        "spare",
+        "stake",
+        "stale",
+        "startle",
+        "estate"
+      ],
+      "question": {
+        "wordId": "stare",
+        "stem": "选择 \"stare\" 的正确中文意思：",
+        "correct": "v.(at)盯,凝视",
+        "options": [
+          "v.(at)盯,凝视",
+          "v.(使)饿死,饿得慌,挨饿",
+          "v.(with)分配,共用;分担n.一份,份额;股份",
+          "n.惊恐,恐慌v.惊吓,受惊"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语 ‘starian’，核心物理动作为‘固定视线、目光呆滞地看’，与‘stiff（僵硬的）’同源，强调眼球固定、不转动的凝视状态。",
+        "similarWarning": "starve（饥饿）: 仅多字母‘v’，‘e’变‘ve’；star（星星）: 少末尾‘e’；scare（惊吓）: 首字母‘s’换‘c’；share（分享）: 首字母‘s’换‘sh’；spare（多余的）: ‘t’换‘p’；stage（阶段）: 加‘g’；stake（桩）: ‘r’换‘k’；stale（陈腐的）: ‘r’换‘l’。",
+        "extendedMeaning": "在考研阅读中，stare 可引申为‘（象征性地）紧盯、关注’，如 ‘stare down’ 表示‘以目光压倒、迫使屈服’。",
+        "examUsage": "真题常考固定搭配 ‘stare at’ 与 ‘gaze at’ 的区分：stare 强调因惊讶或专注而瞪大眼凝视；gaze 侧重深情或好奇地注视。例句：He stared at the evidence in disbelief.（他难以置信地瞪着证据。）"
+      }
+    },
+    {
+      "id": "startle",
+      "word": "startle",
+      "phonetic": "/'stɑ:tl/",
+      "meaning": "v.惊吓,使吃惊",
+      "similar": [
+        "stale",
+        "stare",
+        "stable",
+        "staple",
+        "starve",
+        "statue",
+        "sparkle"
+      ],
+      "question": {
+        "wordId": "startle",
+        "stem": "选择 \"startle\" 的正确中文意思：",
+        "correct": "v.惊吓,使吃惊",
+        "options": [
+          "a.稳定的,安定的 n.马厩,马棚",
+          "v.(at)盯,凝视",
+          "n.变质的,不新鲜的;陈旧的,陈腐的",
+          "v.惊吓,使吃惊"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语 'steorfan'（死去）的使动用法，核心动作是‘使突然僵住/惊跳’，相当于‘吓得跳起来’或‘使瞬间呆滞’。与‘start’（惊起）同源，加后缀‘-le’表反复/使动，强调突发性惊吓导致的肌肉反射。",
+        "similarWarning": "stale（陈腐的，a. vs. v.）→ startle含‘t’+‘le’，强调动态惊吓；stare（凝视，v.）→ startle含‘t’+‘l’，动作更剧烈；start（开始/惊起，v.）→ startle加‘le’表反复使动，语气更强；state（状态/陈述，n./v.）→ 拼写差‘r’+‘le’，词义无关联；stable（稳定的，a.）→ 拼写差‘r’+‘le’，词源不同；staple（主要/订书钉，n./a.）→ 拼写差‘r’+‘le’，含义无关；starve（饥饿，v.）→ 拼写差‘t’+‘l’，动作本质不同；statue（雕像，n.）→ 拼写差‘r’+‘le’，指物非动作。",
+        "extendedMeaning": "在考研阅读中常引申为‘使震惊（非物理惊吓）’，如‘startle the scientific community’（震惊科学界），强调认知上的意外冲击，而非字面吓一跳。",
+        "examUsage": "真题中常与‘surprise’（一般吃惊）对比，startle语气更强且含突发性。固定搭配‘startle sb. into doing sth.’（惊吓某人做某事）在完形中作为题眼出现，如‘The loud noise startled him into dropping the vase.’"
+      }
+    },
+    {
+      "id": "starve",
+      "word": "starve",
+      "phonetic": "/stɑ:v/",
+      "meaning": "v.(使)饿死,饿得慌,挨饿",
+      "similar": [
+        "stare",
+        "startle",
+        "save",
+        "carve",
+        "scare",
+        "serve",
+        "share",
+        "shave"
+      ],
+      "question": {
+        "wordId": "starve",
+        "stem": "选择 \"starve\" 的正确中文意思：",
+        "correct": "v.(使)饿死,饿得慌,挨饿",
+        "options": [
+          "v.(at)盯,凝视",
+          "v.惊吓,使吃惊",
+          "v.(使)饿死,饿得慌,挨饿",
+          "v.救,拯救;储蓄,贮存;节省"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语 'steorfan'，意为'死亡'，后特指'因饥饿而死'。核心动作是'因缺乏食物而逐渐衰竭'，引申为'极度渴望'。",
+        "similarWarning": "starve vs. stare（凝视）：前者含 'v' 表饿死，后者含 'e' 表看。starve vs. startle（惊吓）：前者含 'v' 表饥饿，后者含 'tle' 表惊跳。",
+        "extendedMeaning": "考研僻义：1. 极度渴望（for），如 'starve for attention'（渴望关注）。2. 缺乏（of），如 'starve of resources'（资源匮乏）。",
+        "examUsage": "真题考点：常考搭配 'starve...of'（使缺乏）和 'starve for'（渴望）。如 'The region was starved of water.'（该地区缺水。）干扰项常将 'starve' 误作 'stare'（凝视）。"
+      }
+    },
+    {
+      "id": "statement",
+      "word": "statement",
+      "phonetic": "/'steitmənt/",
+      "meaning": "n.声明,陈述",
+      "similar": [
+        "settlement",
+        "basement",
+        "pavement",
+        "sentiment",
+        "statesman",
+        "installment",
+        "engagement",
+        "excitement"
+      ],
+      "question": {
+        "wordId": "statement",
+        "stem": "选择 \"statement\" 的正确中文意思：",
+        "correct": "n.声明,陈述",
+        "options": [
+          "n.建筑物的底部,地下室,地窖",
+          "n.声明,陈述",
+          "n.解决,决定,调停;居留区,住宅区",
+          "n.人行道"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "state（陈述）+ -ment（名词后缀）→ 陈述的行为或内容，即声明、陈述。",
+        "similarWarning": "statesman（政治家）与statement（声明）拼写差异在于statesman末尾是-man（人），而statement末尾是-ment（名词后缀）；settlement（解决）与statement前部不同，settle-意为“安置”，state-意为“陈述”。",
+        "extendedMeaning": "在考研真题中，statement可指“财务报表”或“官方说法”，如financial statement（财务报表），而非仅日常声明。",
+        "examUsage": "常见搭配：make a statement（发表声明）；bank statement（银行对账单）。真题中常考其作为金融或法律语境下的正式文书含义。"
+      }
+    },
+    {
+      "id": "statesman",
+      "word": "statesman",
+      "phonetic": "/'steitsmən/",
+      "meaning": "n.政治家,国务活动家",
+      "similar": [
+        "salesman",
+        "spokesman",
+        "statement"
+      ],
+      "question": {
+        "wordId": "statesman",
+        "stem": "选择 \"statesman\" 的正确中文意思：",
+        "correct": "n.政治家,国务活动家",
+        "options": [
+          "n.声明,陈述",
+          "n.发言人",
+          "n.售货员,推销员",
+          "n.政治家,国务活动家"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "state（国家，状态）+ man（人）→ 管理国家事务的人。源自拉丁语status（状态、政体），强调为国家服务而非个人利益，区别于politician（政客）的贬义色彩。",
+        "similarWarning": "statesman vs salesman（销售员）：sales-（销售）vs state-（国家），前者重商业，后者重政治。\nstatesman vs spokesman（发言人）：spokes-（说）vs state-（国家），前者负责表态，后者负责治理。\nstatesman vs statement（声明）：-ment（名词后缀）vs -man（人），前者为抽象文件，后者为具体人物。",
+        "extendedMeaning": "在考研阅读中，statesman常与visionary（有远见的）、diplomatic（外交的）搭配，强调其战略眼光与公共责任感，区别于普通官员。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "static",
+      "word": "static",
+      "phonetic": "/'stætik/",
+      "meaning": "a.(statical)静态的,静力的",
+      "similar": [
+        "stain",
+        "stair",
+        "statue",
+        "status",
+        "tactic"
+      ],
+      "question": {
+        "wordId": "static",
+        "stem": "选择 \"static\" 的正确中文意思：",
+        "correct": "a.(statical)静态的,静力的",
+        "options": [
+          "n.污点,瑕疵 v.沾污;染色",
+          "n.塑像,雕像",
+          "n.(pl.)楼梯",
+          "a.(statical)静态的,静力的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语statikos（使站立），词根sta-（站立）+-tic（形容词后缀）。核心物理动作为“使站立不动”，引申为“静态的、静止的”，与动态（dynamic）相对。",
+        "similarWarning": "1. static与state（状态）拼写相似，但static强调静止状态，state指一般状态或国家。2. static与statue（雕像）同源，但statue指具体雕塑，static为抽象形容词。3. static与status（地位）差一字母，status侧重社会位置，static无此义。",
+        "extendedMeaning": "在科技语境中指“静态的、不变化的”，如static analysis（静态分析）；在物理中指“静力的”，如static electricity（静电）；在通信中指“天电干扰、静电噪声”，如radio static（无线电静电干扰）。",
+        "examUsage": "考研真题中常考搭配static state（静止状态），与dynamic（动态的）对比；注意static作名词时意为“静电干扰”，如“The radio is full of static.”（收音机充满静电噪音）。"
+      }
+    },
+    {
+      "id": "stationary",
+      "word": "stationary",
+      "phonetic": "/'steiʃənəri/",
+      "meaning": "a.静止的,固定的",
+      "similar": [
+        "stationery",
+        "dictionary",
+        "national",
+        "rational",
+        "imaginary",
+        "missionary"
+      ],
+      "question": {
+        "wordId": "stationary",
+        "stem": "选择 \"stationary\" 的正确中文意思：",
+        "correct": "a.静止的,固定的",
+        "options": [
+          "n.文具",
+          "a.民族的,国家的,国立的",
+          "n.词典,字典",
+          "a.静止的,固定的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源于拉丁语 stationarius，由 statio-（站立，位置）派生，原义为“处于固定位置的”。核心物理动作为“站立不动”，引申为“静止的、固定的”。",
+        "similarWarning": "与 stationery（n.文具）仅一字之差：-ary（形容词后缀）表“静止的”，-ery（名词后缀）表“物品集合”。记忆法：stationary 中的 a 像站立的人，stationery 中的 e 像信封。",
+        "extendedMeaning": "在考研阅读中常引申为“停滞不前的、不变化的”，如 stationary economy（停滞经济）、stationary population（稳定人口）。",
+        "examUsage": "真题高频考点：与 motion（运动）形成反义对比，常见于物理、经济类文章，如 remain stationary（保持静止）、stationary vs. mobile（固定 vs.移动）。"
+      }
+    },
+    {
+      "id": "stationery",
+      "word": "stationery",
+      "phonetic": "/'steiʃənəri/",
+      "meaning": "n.文具",
+      "similar": [
+        "stationary",
+        "dictionary"
+      ],
+      "question": {
+        "wordId": "stationery",
+        "stem": "选择 \"stationery\" 的正确中文意思：",
+        "correct": "n.文具",
+        "options": [
+          "n.文具",
+          "a.宗教仪式的,典礼的 n.(宗教)仪式,典礼",
+          "n.词典,字典",
+          "a.静止的,固定的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'stationarius'（摊贩的），由 'statio'（站立的地方，即摊位）派生，指在固定摊位售卖的商品；与 'stationary'（静止的）同源但分化，'stationery' 特指文具",
+        "similarWarning": "stationary（adj.静止的）vs stationery（n.文具）：前者含 'a' 如 'stay'（停留），强调静止不动；后者含 'e' 如 'envelope'（信封），指文具。dictionary 无拼写混淆",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "statistical",
+      "word": "statistical",
+      "phonetic": "/stə'tistikəl/",
+      "meaning": "a.统计的,统计学的",
+      "similar": [],
+      "question": {
+        "wordId": "statistical",
+        "stem": "选择 \"statistical\" 的正确中文意思：",
+        "correct": "a.统计的,统计学的",
+        "options": [
+          "v.出版,刊印;公布,发布",
+          "n.长沙发，沙发",
+          "a.统计的,统计学的",
+          "n.危险,冒险,危害 v.冒险,拼命"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根stat-（站立，固定）+ -istic（形容词后缀）+ -ical（复合形容词后缀）→ 与“将数据固定/站立成列”相关的动作：统计的本质是将分散的数据点整理成固定的表格或图表，即“统计的”。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "statue",
+      "word": "statue",
+      "phonetic": "/'stætju:/",
+      "meaning": "n.塑像,雕像",
+      "similar": [
+        "statute",
+        "status",
+        "startle",
+        "skate",
+        "stake",
+        "stale",
+        "stare",
+        "estate"
+      ],
+      "question": {
+        "wordId": "statue",
+        "stem": "选择 \"statue\" 的正确中文意思：",
+        "correct": "n.塑像,雕像",
+        "options": [
+          "n.塑像,雕像",
+          "n.成文法，法令，法规；章程，规则，条例",
+          "n.地位,身份;情形,状况",
+          "v.惊吓,使吃惊"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'statua'，词根 'stat-' 意为 '站立、竖立'（如 stand, station）。核心动作是 '使某物竖立起来'，引申为被竖立起来的雕像或塑像。",
+        "similarWarning": "statue vs. statute vs. status: statue（雕像，-ue结尾）、statute（法令，-ute结尾，指正式法律）、status（地位，-us结尾，指社会层级或状态）。注意拼写差异：statue有字母'e'，statute有字母't'，status有字母's'。",
+        "extendedMeaning": "无特殊考研僻义。",
+        "examUsage": "无特殊考点，属于基础名词，常出现在阅读理解中描述雕塑或艺术相关语境，需注意与形近词区分。"
+      }
+    },
+    {
+      "id": "status",
+      "word": "status",
+      "phonetic": "/'steɪtəs/",
+      "meaning": "n.地位,身份;情形,状况",
+      "similar": [
+        "statue",
+        "statute",
+        "static"
+      ],
+      "question": {
+        "wordId": "status",
+        "stem": "选择 \"status\" 的正确中文意思：",
+        "correct": "n.地位,身份;情形,状况",
+        "options": [
+          "n.成文法，法令，法规；章程，规则，条例",
+          "n.地位,身份;情形,状况",
+          "a.(statical)静态的,静力的",
+          "n.塑像,雕像"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'status'（站立、状态），与 'state'（状态）同源。词根 'sta-'（站立）→ 站立的位置或方式 → 引申为‘地位’（社会中的位置）和‘状况’（事物所处的状态）。核心动作：站立于某位置。",
+        "similarWarning": "statue（雕像）：字面‘站立之物’，指雕塑；statute（法令）：制定后‘站立’的法律条文；state（状态/国家）：同一词根，但侧重政治实体或广义状态；static（静态的）：强调‘静止不动’，与status的动态‘状况’区别。",
+        "extendedMeaning": "在考研中常考‘地位’（social status）和‘状态’（current status），但需注意其引申义‘法律地位’（legal status）或‘身份’（marital status）。无罕见僻义。",
+        "examUsage": "真题中常与'quo'搭配：status quo（现状），如'maintain the status quo'（维持现状），为固定考点。此外，'status symbol'（身份象征）也高频出现。"
+      }
+    },
+    {
+      "id": "statute",
+      "word": "statute",
+      "phonetic": "/'stætju:t/",
+      "meaning": "n.成文法，法令，法规；章程，规则，条例",
+      "similar": [
+        "statue",
+        "salute",
+        "status",
+        "institute",
+        "saturate"
+      ],
+      "question": {
+        "wordId": "statute",
+        "stem": "选择 \"statute\" 的正确中文意思：",
+        "correct": "n.成文法，法令，法规；章程，规则，条例",
+        "options": [
+          "n.成文法，法令，法规；章程，规则，条例",
+          "n.地位,身份;情形,状况",
+          "n.塑像,雕像",
+          "v./n.敬礼,鸣礼炮;迎接,欢迎"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 statutum（法令），是 statuere（建立、制定）的过去分词，与 state（状态、国家）同源。核心动作是“被确立下来的东西”，强调由立法机构正式制定并颁布的书面法律，高于普通法规。",
+        "similarWarning": "statute（法令） vs statue（雕像） vs status（地位） vs state（国家/状态）。差异在于：-tute（法令） vs -tue（雕像） vs -tus（地位） vs -te（国家）。statute 侧重法律条文，statue 是立体雕塑，status 指社会层级，state 指政治实体或情形。",
+        "extendedMeaning": "在考研阅读中，statute 常引申为“组织或团体的章程、规则”，如 the statutes of a university（大学章程），强调具有约束力的书面规定。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "stay",
+      "word": "stay",
+      "phonetic": "/stei/",
+      "meaning": "vi.逗留；保持vt.停止，延缓n.逗留，停留",
+      "similar": [
+        "stab",
+        "sway",
+        "steady",
+        "essay",
+        "shady",
+        "spray",
+        "stack",
+        "staff"
+      ],
+      "question": {
+        "wordId": "stay",
+        "stem": "选择 \"stay\" 的正确中文意思：",
+        "correct": "vi.逗留；保持vt.停止，延缓n.逗留，停留",
+        "options": [
+          "a.稳定的,不变的;坚定的v.(使)稳固/稳定",
+          "v./n.刺,戳",
+          "vi.逗留；保持vt.停止，延缓n.逗留，停留",
+          "vi.摇动；倾斜 vt.使摇动 n.摇动；影响力"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"来自古法语\"ester\"（站立、停留），与拉丁语\"stare\"（站立）同源。核心物理动作是\"停止移动、保持位置\"，引申为时间上的\"逗留\"和状态上的\"保持\"（如stay calm）。\",\n  \"similarWarning\": \"stay vs. steady: stay强调动作/状态的暂停或持续；steady（adj.稳定的）源自\"stead\"（位置），强调稳固不动。\",\n  \"extendedMeaning\": \"考研中常考\"stay\"作为系动词的用法（保持某种状态），如stay informed（保持消息灵通）；或法律/正式语境中的\"停止、延缓\"（sta",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "steady",
+      "word": "steady",
+      "phonetic": "/'stedi/",
+      "meaning": "a.稳定的,不变的;坚定的v.(使)稳固/稳定",
+      "similar": [
+        "stay",
+        "shady",
+        "steak",
+        "steam",
+        "sturdy"
+      ],
+      "question": {
+        "wordId": "steady",
+        "stem": "选择 \"steady\" 的正确中文意思：",
+        "correct": "a.稳定的,不变的;坚定的v.(使)稳固/稳定",
+        "options": [
+          "n.牛排；大块肉(或鱼)片",
+          "vi.逗留；保持vt.停止，延缓n.逗留，停留",
+          "a.稳定的,不变的;坚定的v.(使)稳固/稳定",
+          "a.成荫的,多荫的;可疑的,靠不住的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源为stead（位置，来自古英语stede） + -y（形容词后缀），核心物理动作是‘固定在某个位置上不动’，引申为稳定的、不变的。",
+        "similarWarning": "steady vs. sturdy：sturdy强调坚固结实（如家具），steady强调平稳不晃动（如手、价格）。",
+        "extendedMeaning": "考研僻义：作动词‘使稳固’（如steady the economy稳定经济）；作形容词‘坚定的’（如steady resolve坚定决心）。",
+        "examUsage": "真题考点：steady作为阅读中的态度词，常与stable, constant同义复现，干扰项可能替换为static（静态但非稳定）。"
+      }
+    },
+    {
+      "id": "steak",
+      "word": "steak",
+      "phonetic": "/steik/",
+      "meaning": "n.牛排；大块肉(或鱼)片",
+      "similar": [
+        "sneak",
+        "steam",
+        "steady",
+        "stream",
+        "leak",
+        "peak",
+        "seal",
+        "seam"
+      ],
+      "question": {
+        "wordId": "steak",
+        "stem": "选择 \"steak\" 的正确中文意思：",
+        "correct": "n.牛排；大块肉(或鱼)片",
+        "options": [
+          "a.稳定的,不变的;坚定的v.(使)稳固/稳定",
+          "vi.偷偷地走，溜vt.偷偷地做(或拿、吃)",
+          "n.牛排；大块肉(或鱼)片",
+          "n.水汽,蒸汽,水蒸气 v.蒸发;蒸;用蒸汽开动"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自古诺尔斯语steik（烤叉上的肉），与古英语stician（刺、插）同源，核心动作是“用尖物穿刺固定肉块进行烤制”，后引申为“大块肉片”。",
+        "similarWarning": "steak vs. sneak（偷偷摸摸）：steak含tea（茶），sneak含snake（蛇）的变体。steak vs. speak（说话）：steak中t对应speak的p。steak vs. steam（蒸汽）：steak中k对应steam的m。",
+        "extendedMeaning": "在考研语境中，steak常出现在饮食文化类文章，指“厚切鱼排”或“大块肉片”，如salmon steak（三文鱼排）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "steam",
+      "word": "steam",
+      "phonetic": "/sti:m/",
+      "meaning": "n.水汽,蒸汽,水蒸气 v.蒸发;蒸;用蒸汽开动",
+      "similar": [
+        "stream",
+        "seam",
+        "stem",
+        "steak",
+        "steamer",
+        "esteem",
+        "scream",
+        "steady"
+      ],
+      "question": {
+        "wordId": "steam",
+        "stem": "选择 \"steam\" 的正确中文意思：",
+        "correct": "n.水汽,蒸汽,水蒸气 v.蒸发;蒸;用蒸汽开动",
+        "options": [
+          "n.茎，干 vt.堵(挡)住 vi.起源于，由…造成",
+          "n.小河,溪流;流,一股,一串 v.流出,涌",
+          "n.缝,接缝",
+          "n.水汽,蒸汽,水蒸气 v.蒸发;蒸;用蒸汽开动"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为ste-（站立、稳固），与蒸汽的物理特性相关：水受热后变成上升的气体。核心动作是水受热蒸发形成蒸汽，进而推动机械运动。",
+        "similarWarning": "stream（溪流） vs steam（蒸汽）：前者是水流（-ream），后者是水汽（-eam）。stem（茎干） vs steam：前者是植物主干，后者是蒸汽。steak（牛排） vs steam：前者是肉类，后者是蒸汽。",
+        "extendedMeaning": "考研僻义：比喻精力或动力，如'run out of steam'（筋疲力尽）；'steam ahead'（快速前进）。",
+        "examUsage": "真题考点：'steam engine'（蒸汽机）常出现在科技类阅读中；'steam'作为动词表示'蒸煮'，如'steamed fish'（清蒸鱼）。"
+      }
+    },
+    {
+      "id": "steamer",
+      "word": "steamer",
+      "phonetic": "/'sti:mə/",
+      "meaning": "n.汽船,轮船",
+      "similar": [
+        "steam",
+        "steer",
+        "speaker",
+        "sweater",
+        "stranger"
+      ],
+      "question": {
+        "wordId": "steamer",
+        "stem": "选择 \"steamer\" 的正确中文意思：",
+        "correct": "n.汽船,轮船",
+        "options": [
+          "n.汽船,轮船",
+          "n.说话者，发言者；说某种语言者；扬声器",
+          "vt.驾驶，为…操舵；引导vi.驾驶",
+          "n.水汽,蒸汽,水蒸气 v.蒸发;蒸;用蒸汽开动"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "steam（蒸汽）+ -er（名词后缀，表示工具/物）→ 利用蒸汽驱动的船，即汽船、轮船。核心动作：蒸汽推动。",
+        "similarWarning": "steam（蒸汽）与 steamer（汽船）差一个 -er；steer（驾驶、引导）与 steamer 差字母组合 -mer；speaker（扬声器）与 steamer 差字母组合 -ker；sweater（毛衣）与 steamer 差字母组合 -ter；stranger（陌生人）与 steamer 差字母组合 -nger。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "steel",
+      "word": "steel",
+      "phonetic": "/sti:l/",
+      "meaning": "n.钢",
+      "similar": [
+        "steep",
+        "steer",
+        "esteem",
+        "stereo",
+        "heel",
+        "peel",
+        "reel",
+        "seal"
+      ],
+      "question": {
+        "wordId": "steel",
+        "stem": "选择 \"steel\" 的正确中文意思：",
+        "correct": "n.钢",
+        "options": [
+          "n.尊敬，尊重 vt.尊重，敬重；把…看作",
+          "vt.驾驶，为…操舵；引导vi.驾驶",
+          "a.陡峭，险峻的；急剧升降的vt.浸泡,沉浸",
+          "n.钢"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语stēle，与德语Stahl同源，本义为‘坚硬、牢固的金属’。词根*stā-（站立、稳固）演变而来，核心动作是‘使坚固’。",
+        "similarWarning": "steal（偷）：steel与steal拼写差‘l’与‘a’；steal词源与‘偷’相关，steel表‘钢’。steep（陡峭的）：steel与steep拼写差‘l’与‘p’；steep表‘陡峭’或‘浸泡’（动词）。",
+        "extendedMeaning": "考研僻义：n. 钢铁般的意志/决心（喻指坚韧不拔）。例：a man of steel（意志坚强的人）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "steep",
+      "word": "steep",
+      "phonetic": "/sti:p/",
+      "meaning": "a.陡峭，险峻的；急剧升降的vt.浸泡,沉浸",
+      "similar": [
+        "step",
+        "sheep",
+        "steel",
+        "steer",
+        "sweep",
+        "asleep",
+        "esteem",
+        "stereo"
+      ],
+      "question": {
+        "wordId": "steep",
+        "stem": "选择 \"steep\" 的正确中文意思：",
+        "correct": "a.陡峭，险峻的；急剧升降的vt.浸泡,沉浸",
+        "options": [
+          "n.钢",
+          "n.步;台阶,梯级;步骤,措施 v.踏,走,举步",
+          "n.(绵)羊；易受人摆布的人",
+          "a.陡峭，险峻的；急剧升降的vt.浸泡,沉浸"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语steap，本义为‘高耸的、突出的’。核心物理动作：物体从低处向高处急剧上升或从高处向低处急剧下降，引申为‘陡峭的’；浸泡义源自同一词根，指将物体完全浸入液体中，使其‘沉浸’或‘饱和’，与‘高耸’义在‘极端程度’上相通。",
+        "similarWarning": "steep vs step：steep多一个e，表示‘陡峭’；step是‘脚步’。steep vs sleep：steep开头s-t，sleep开头s-l，注意t/l区别。steep vs steel：steel结尾l，steep结尾p。steep vs steer：steer有r，表示‘驾驶’。",
+        "extendedMeaning": "【考研僻义】①（价格、要求等）过高的，不合理的：steep price（天价）；②（增加或减少）急剧的：steep decline（急剧下降）；③浸泡：steep tea（泡茶），steep oneself in（沉浸于）。",
+        "examUsage": "【真题考点】①steep作‘陡峭的’常与slope（斜坡）、climb（攀登）搭配；②作‘急剧的’常修饰increase/decrease/rise/fall；③steep in作‘沉浸于’在阅读理解中用于描述学术或文化投入。"
+      }
+    },
+    {
+      "id": "steer",
+      "word": "steer",
+      "phonetic": "/stiə/",
+      "meaning": "vt.驾驶，为…操舵；引导vi.驾驶",
+      "similar": [
+        "sheer",
+        "steel",
+        "steep",
+        "steamer",
+        "esteem",
+        "stereo",
+        "beer",
+        "deer"
+      ],
+      "question": {
+        "wordId": "steer",
+        "stem": "选择 \"steer\" 的正确中文意思：",
+        "correct": "vt.驾驶，为…操舵；引导vi.驾驶",
+        "options": [
+          "vt.驾驶，为…操舵；引导vi.驾驶",
+          "a.陡峭，险峻的；急剧升降的vt.浸泡,沉浸",
+          "a.纯粹的,十足的,全然的;陡峭的,险峻的",
+          "n.钢"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自日耳曼语，本义为“操纵舵柄”。词根与“star”（星）同源，原始航海时靠星辰导航，后引申为“驾驶、引导”的动作。核心物理动作是“用手控制方向”，无复杂词缀演变。",
+        "similarWarning": "steer vs. sheer: sheer为“完全的；陡峭的”，字母差异在‘a’（steer有‘t’）与‘h’。steer vs. steel: steel为“钢铁”，多一个‘l’。steer vs. steep: steep为“陡峭的”，结尾‘p’替换‘r’。",
+        "extendedMeaning": "熟词僻义：在考研外刊中常引申为“引导（政策/讨论）朝某方向发展”，如steer the economy（引导经济）。",
+        "examUsage": "真题考点：固定搭配steer clear of（避开、绕开），常用于阅读理解中表示规避风险或话题。例：steer clear of controversial issues."
+      }
+    },
+    {
+      "id": "stem",
+      "word": "stem",
+      "phonetic": "/stem/",
+      "meaning": "n.茎，干 vt.堵(挡)住 vi.起源于，由…造成",
+      "similar": [
+        "steam",
+        "seem",
+        "step",
+        "esteem",
+        "stream",
+        "stamp",
+        "steak",
+        "steel"
+      ],
+      "question": {
+        "wordId": "stem",
+        "stem": "选择 \"stem\" 的正确中文意思：",
+        "correct": "n.茎，干 vt.堵(挡)住 vi.起源于，由…造成",
+        "options": [
+          "n.步;台阶,梯级;步骤,措施 v.踏,走,举步",
+          "v.好像,似乎",
+          "n.水汽,蒸汽,水蒸气 v.蒸发;蒸;用蒸汽开动",
+          "n.茎，干 vt.堵(挡)住 vi.起源于，由…造成"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根来自古英语stemn，原义为“树干”，引申为“支撑、主干”。核心物理动作是“从地面向上生长的主干”，由此衍生出“堵住”义（如堵住水流，类似树干挡住去路）和“起源于”义（如事物从主干分叉发展）。",
+        "similarWarning": "stem vs steam: stem无a，指茎干；steam有a，指蒸汽。stem vs step: stem以m结尾，step以p结尾，step是脚步。stem vs seem: stem开头st，seem开头se，seem意为似乎。",
+        "extendedMeaning": "考研僻义：动词“堵住，阻止”（stem the tide of 阻止…的潮流）；名词“词干”（语法术语，如动词词干）。",
+        "examUsage": "考点搭配：stem from（起源于，由…造成），真题常考作vi.后接from；stem the decline（阻止衰退），阅读中表“遏制”趋势。"
+      }
+    },
+    {
+      "id": "step",
+      "word": "step",
+      "phonetic": "/step/",
+      "meaning": "n.步;台阶,梯级;步骤,措施 v.踏,走,举步",
+      "similar": [
+        "steep",
+        "stem",
+        "sheep",
+        "stamp",
+        "steak",
+        "steam",
+        "steel",
+        "steer"
+      ],
+      "question": {
+        "wordId": "step",
+        "stem": "选择 \"step\" 的正确中文意思：",
+        "correct": "n.步;台阶,梯级;步骤,措施 v.踏,走,举步",
+        "options": [
+          "n.步;台阶,梯级;步骤,措施 v.踏,走,举步",
+          "n.(绵)羊；易受人摆布的人",
+          "n.茎，干 vt.堵(挡)住 vi.起源于，由…造成",
+          "a.陡峭，险峻的；急剧升降的vt.浸泡,沉浸"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为steep-（意为“步，走”），核心物理动作是“脚抬起然后放下”。从原始印欧语词根*stebh-（意为“柱子，支撑”）演变而来，强调用脚作为支撑点移动身体。n.步（单次脚移动距离）→台阶（供脚踩踏的支撑物）→步骤（抽象化的移动过程）；v.踏（脚接触地面）→走（连续移动）→举步（抬起脚准备移动）。",
+        "similarWarning": "steep（陡峭的）vs step（步）：steep多一个字母e，词义完全不同；stem（茎；阻止）vs step：stem结尾为m，step结尾为p，词源无关；stop（停止）vs step：stop替换e为o，核心动作是“停止移动”，step是“移动”；sheep（羊）vs step：sheep开头sh-，step开头st-，发音差异大；sleep（睡觉）vs step：sleep含l，step无l，词义无关；stamp（邮票；跺脚）vs step：stamp替换e为a且加m，动作更用力；steak（牛排）vs step：steak替换p为a，词义与食物相关；steal（偷）vs step：steal替换p为l，词义为非法获取。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "stereo",
+      "word": "stereo",
+      "phonetic": "/'steriˌəu/",
+      "meaning": "n.立体声音响；立体声装置 n./a.立体声(的)",
+      "similar": [
+        "stare",
+        "steel",
+        "steep",
+        "steer",
+        "stern",
+        "storey"
+      ],
+      "question": {
+        "wordId": "stereo",
+        "stem": "选择 \"stereo\" 的正确中文意思：",
+        "correct": "n.立体声音响；立体声装置 n./a.立体声(的)",
+        "options": [
+          "n.立体声音响；立体声装置 n./a.立体声(的)",
+          "v.(at)盯,凝视",
+          "n.钢",
+          "a.陡峭，险峻的；急剧升降的vt.浸泡,沉浸"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'stereos'（坚固的、立体的）。词根 'stereo-' 表示“三维的、立体的”，与单声道（mono）相对，强调声音的空间感和深度。",
+        "similarWarning": "stare（凝视） vs stereo：stare 缺少 'eo'，核心动作是“看”；steel（钢铁） vs stereo：steel 用 'l' 替换 'o'，指材料；steep（陡峭的） vs stereo：steep 用 'p' 替换 'o'，指坡度；steer（驾驶） vs stereo：steer 用 'r' 替换 'o'，指操控；stern（严厉的） vs stereo：stern 用 'n' 替换 'o'，指态度；store（商店） vs stereo：store 用 'r' 替换 'o'，指场所；storey（楼层） vs stereo：storey 用 'y' 替换 'o'，指建筑层。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "stereotype",
+      "word": "stereotype",
+      "phonetic": "/'steriəutaip/",
+      "meaning": "n.陈规，模式化 vt.使定型，使模式化",
+      "similar": [],
+      "question": {
+        "wordId": "stereotype",
+        "stem": "选择 \"stereotype\" 的正确中文意思：",
+        "correct": "n.陈规，模式化 vt.使定型，使模式化",
+        "options": [
+          "n.陈规，模式化 vt.使定型，使模式化",
+          "n.敬畏，惊惧vt.使敬畏，使惊惧",
+          "n.部,局,处,科,部门;系,学部",
+          "num./n./a.一千；[pl.]许许多多，成千上万"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "stereo-（坚固的、立体的）+ type（类型、模型）→ 坚固不变的类型 → 陈规、模式化。源自古希腊语stereos（坚固的）与typos（印记），原指印刷用的铅版，后引申为固定不变的刻板印象。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中，常指对某群体或事物的刻板印象（如gender stereotype），或作为动词表示‘对…形成固定看法’。",
+        "examUsage": "常见搭配：break the stereotype（打破陈规）、stereotype threat（刻板印象威胁）。真题例句：Gender stereotypes often lead to unfair treatment in the workplace.（性别刻板印象常导致职场不公。）"
+      }
+    },
+    {
+      "id": "stern",
+      "word": "stern",
+      "phonetic": "/stə:n/",
+      "meaning": "a.严厉的;坚决的,坚定的 n.船尾,舟尾",
+      "similar": [
+        "eastern",
+        "western",
+        "stereo",
+        "ten",
+        "stem",
+        "step",
+        "stir",
+        "stun"
+      ],
+      "question": {
+        "wordId": "stern",
+        "stem": "选择 \"stern\" 的正确中文意思：",
+        "correct": "a.严厉的;坚决的,坚定的 n.船尾,舟尾",
+        "options": [
+          "a.严厉的;坚决的,坚定的 n.船尾,舟尾",
+          "a.东方的,东部的",
+          "a.西方的,西部的",
+          "n.立体声音响；立体声装置 n./a.立体声(的)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*sternaz，核心物理动作为“僵硬、固定”。引申为严厉的、不妥协的态度；作名词指船尾，因船尾结构固定、硬朗，与船头形成对比。",
+        "similarWarning": "stern vs. stem: stern含字母r，意为严厉/船尾；stem不含r，指茎/干或阻止。stern vs. stir: stir含i，意为搅拌/激动。",
+        "extendedMeaning": "在考研中，stern常考“坚决的、不妥协的”抽象义，如stern opposition（坚决反对），而非仅指严厉表情。",
+        "examUsage": "真题考点：stern常与determined, resolute同义替换，如‘a stern resolve’；搭配‘stern measures’（严厉措施）在阅读中作为态度题线索。"
+      }
+    },
+    {
+      "id": "steward",
+      "word": "steward",
+      "phonetic": "/'stju:əd/",
+      "meaning": "n.乘务员，服务员；看管人；膳食管理员",
+      "similar": [
+        "reward",
+        "toward",
+        "afterward"
+      ],
+      "question": {
+        "wordId": "steward",
+        "stem": "选择 \"steward\" 的正确中文意思：",
+        "correct": "n.乘务员，服务员；看管人；膳食管理员",
+        "options": [
+          "prep.(towards)朝，向；将近；对于；为了",
+          "n.(for)报酬,赏金 v.(for)酬劳;酬谢",
+          "n.乘务员，服务员；看管人；膳食管理员",
+          "ad.(afterwards)以后，后来"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自古英语 stiweard，由 sti（大厅，牛棚） + weard（看守者，ward）组成，本义是“猪圈看守人”或“大厅管家”。核心动作：看守、管理特定场所或物资。引申为飞机/火车上的“乘务员”（管理乘客服务）、“看管人”（管理财产）、“膳食管理员”（管理食物）。",
+        "similarWarning": "reward（n./v. 报酬，奖赏）：re-（回）+ ward，强调“回报”。steward 中的 steward 是独立词根，无“回”义。toward（prep. 向，朝）：to-（向）+ ward，方向性介词。afterward（adv. 后来）：after-（后）+ ward，时间顺序。standard（n./adj. 标准）：stand（站立）+ ard，强调“标杆”。",
+        "extendedMeaning": "在考研语境中，steward 常出现“看管人/大管家”的抽象含义，如“steward of the company”（公司管理者）或“steward of the environment”（环境守护者），强调受托管理责任。",
+        "examUsage": "常见于阅读理解中作为身份词出现，需注意与 waiter（服务员，侧重餐饮）和 attendant（随从，服务员，范围更广）的微妙区别。真题例句：\"The steward of the estate was responsible for all financial decisions.\"（该庄园的管家负责所有财务决策。）"
+      }
+    },
+    {
+      "id": "sticky",
+      "word": "sticky",
+      "phonetic": "/'stiki/",
+      "meaning": "a.粘的，粘性的；棘手的；(道路)泥泞的",
+      "similar": [
+        "tick",
+        "spicy",
+        "stack",
+        "stock"
+      ],
+      "question": {
+        "wordId": "sticky",
+        "stem": "选择 \"sticky\" 的正确中文意思：",
+        "correct": "a.粘的，粘性的；棘手的；(道路)泥泞的",
+        "options": [
+          "n.堆,一堆 v.堆积,堆起",
+          "a.粘的，粘性的；棘手的；(道路)泥泞的",
+          "n.滴答声;勾号 v.滴答响;打勾号于",
+          "a.加很多香料的；(口味)浓郁的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自stick（粘住）+ -y（形容词后缀），核心动作是“像被胶水粘住一样难以分离”，引申为物理上的粘性、抽象上的棘手（问题粘住无法解决）或泥泞（泥土粘脚）。",
+        "similarWarning": "stick（v.粘住/n.棍子）vs sticky（a.粘的）：stick是动作/物体，sticky是性质；sick（a.生病的）仅差首字母t；tick（n.滴答声/v.标记）差首字母s；spicy（a.辛辣的）差字母t和y；stack（n.一堆/v.堆积）差字母y和a；stock（n.股票/库存）差字母y和a。",
+        "extendedMeaning": "在考研阅读中常引申为“棘手的、难处理的”，如a sticky situation（棘手局面），或经济语境中的“粘性价格”（无法快速调整的价格）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "stiff",
+      "word": "stiff",
+      "phonetic": "/stɪf/",
+      "meaning": "a.硬的,僵直的;拘谨的;呆板的;艰难的",
+      "similar": [
+        "sniff",
+        "staff",
+        "stuff",
+        "strife",
+        "stir",
+        "cliff",
+        "shift",
+        "sting"
+      ],
+      "question": {
+        "wordId": "stiff",
+        "stem": "选择 \"stiff\" 的正确中文意思：",
+        "correct": "a.硬的,僵直的;拘谨的;呆板的;艰难的",
+        "options": [
+          "n.原料,材料,东西 v.填满,塞满",
+          "vi.嗅…味道；抽鼻涕；对嗤之以鼻，蔑视",
+          "a.硬的,僵直的;拘谨的;呆板的;艰难的",
+          "n.全体职工;杠,棒;参谋部 v.配备工作人员"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根无明确词根，推测来自古英语stīf（僵硬、不屈）。核心物理动作是“物体不易弯曲或变形”，引申为“僵直、拘谨、呆板、艰难”。",
+        "similarWarning": "sniff（嗅，吸鼻子） vs stiff：sniff开头sn-表鼻音动作，stiff开头st-表僵硬；staff（员工，棍棒） vs stiff：staff中a发/æ/，stiff中i发/ɪ/；stuff（东西，填充） vs stiff：stuff中u发/ʌ/，stiff中i发/ɪ/；strife（冲突） vs stiff：strife有r和e，stiff无；stir（搅拌） vs stiff：stir有r，stiff无；cliff（悬崖） vs stiff：cliff开头cl-，stiff开头st-；shift（转移） vs stiff：shift有h和t，stiff无；stick（棍子，粘贴） vs stiff：stick有ck，stiff有ff。",
+        "extendedMeaning": "考研僻义：a. 艰难的，费力的（如a stiff climb）；ad. 极度地（如scared stiff）。",
+        "examUsage": "真题考点：a stiff competition（激烈的竞争）；keep a stiff upper lip（保持坚毅/不动声色）。"
+      }
+    },
+    {
+      "id": "stimulate",
+      "word": "stimulate",
+      "phonetic": "/'stimjuleit/",
+      "meaning": "v.刺激,使兴奋;激励,鼓舞",
+      "similar": [
+        "simulate",
+        "articulate",
+        "assimilate",
+        "estimate",
+        "formulate",
+        "speculate",
+        "accumulate",
+        "intimidate"
+      ],
+      "question": {
+        "wordId": "stimulate",
+        "stem": "选择 \"stimulate\" 的正确中文意思：",
+        "correct": "v.刺激,使兴奋;激励,鼓舞",
+        "options": [
+          "v.刺激,使兴奋;激励,鼓舞",
+          "v.模仿,模拟;假装,冒充",
+          "a.善于表达的；有关节相连的 v.清楚地讲话",
+          "vt.吸收，消化；使同化 vi.被吸收；被同化"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根stimul-（刺，刺激）+ -ate（动词后缀）。源自拉丁语stimulus（刺棒），本义为“用刺棒驱赶（牲畜）”，引申为“刺激、激励”。核心动作：用尖物刺入或推动某物，使其产生反应。",
+        "similarWarning": "simulate（模仿，假装）：simul-（相同）+ -ate，强调“模仿相似”；而stimulate是“刺激”。拼写差异：stimulate有字母t，核心是“刺”；simulate无t，核心是“相同”。",
+        "extendedMeaning": "在考研阅读中常出现“刺激（经济增长、消费等）”的经济学术语，如stimulate domestic demand（刺激内需），或“激发（兴趣、思考）”等抽象义。",
+        "examUsage": "真题考点：搭配stimulate sb. to do sth.（激励某人做某事），或被动be stimulated by（被…激发）。注意与encourage（鼓励）区别：stimulate更强调外部刺激引发内在反应，encourage侧重给予信心或支持。"
+      }
+    },
+    {
+      "id": "sting",
+      "word": "sting",
+      "phonetic": "/stiŋ/",
+      "meaning": "v./n.刺,刺痛,剧痛;刺,叮",
+      "similar": [
+        "string",
+        "swing",
+        "setting",
+        "outing",
+        "saving",
+        "sin",
+        "tin",
+        "sink"
+      ],
+      "question": {
+        "wordId": "sting",
+        "stem": "选择 \"sting\" 的正确中文意思：",
+        "correct": "v./n.刺,刺痛,剧痛;刺,叮",
+        "options": [
+          "n.弦,线,细绳;(一串),(一行) v.缚,捆",
+          "n.安置;落山;(固定东西的)柜架底座;环境",
+          "v./n.刺,刺痛,剧痛;刺,叮",
+          "v.摇摆,摇荡,回转,旋转 n.秋千;摇摆,摆动"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根sting-，源自原始印欧语*(s)teig-，意为‘刺、尖’。核心物理动作是‘用尖物扎入’，引申为‘刺痛、叮咬’的感觉。",
+        "similarWarning": "string（绳子）: sting 中的 i 与 string 中的 r 区别，sting 强调‘刺’，string 强调‘线’；sing（唱歌）: sting 多一个 t，表示‘刺’的动作；swing（摇摆）: 首字母 s 后接 w，sting 无 w，动作方向不同；spring（春天/弹簧）: 多一个 r，与‘刺’无关。",
+        "extendedMeaning": "在考研阅读中，sting 可引申为‘（心理上的）刺痛、痛苦’或‘（欺诈造成的）损失’。例如：The sting of failure（失败的刺痛）。",
+        "examUsage": "sting 在真题中常作为动词，搭配 sting sb. into doing sth.（刺激某人做某事）。例句：The criticism stung him into action（批评刺激他采取行动）。"
+      }
+    },
+    {
+      "id": "stir",
+      "word": "stir",
+      "phonetic": "/stə:/",
+      "meaning": "v.搅拌,搅动;动,摇动;激动;轰动;煽动,鼓动",
+      "similar": [
+        "stair",
+        "sir",
+        "satire",
+        "skirt",
+        "stain",
+        "stare",
+        "steer",
+        "stern"
+      ],
+      "question": {
+        "wordId": "stir",
+        "stem": "选择 \"stir\" 的正确中文意思：",
+        "correct": "v.搅拌,搅动;动,摇动;激动;轰动;煽动,鼓动",
+        "options": [
+          "v.搅拌,搅动;动,摇动;激动;轰动;煽动,鼓动",
+          "n.(pl.)楼梯",
+          "n.先生，长官；[S -用于姓名前]…爵士",
+          "n.讽刺,讽刺文学,讽刺作品"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 stir 源自古英语 styrian，核心物理动作为“搅动、使运动”。引申为“激动、煽动”，即通过搅动情绪或局面引发变化。",
+        "similarWarning": "stair（楼梯，与 stir 差一个字母 a，词义无关）；stare（凝视，差字母 e，词义为看）；stir 与 sir（先生）仅差 t，注意拼写。",
+        "extendedMeaning": "在考研中，stir 常考“引起、激起（情感或反应）”，如 stir controversy（引起争议），stir up trouble（挑起麻烦）。",
+        "examUsage": "真题考点：stir up（激起，煽动），如“stir up public opinion”（煽动舆论）。注意与 arouse, provoke 的同义替换。"
+      }
+    },
+    {
+      "id": "stitch",
+      "word": "stitch",
+      "phonetic": "/stitʃ/",
+      "meaning": "n.一针；(因跑步引起的)肋部剧痛 v.缝(合)",
+      "similar": [
+        "switch",
+        "stretch",
+        "ditch",
+        "pitch",
+        "witch",
+        "sketch",
+        "snatch"
+      ],
+      "question": {
+        "wordId": "stitch",
+        "stem": "选择 \"stitch\" 的正确中文意思：",
+        "correct": "n.一针；(因跑步引起的)肋部剧痛 v.缝(合)",
+        "options": [
+          "n.沟,沟渠,水沟",
+          "v.伸展，延伸 n.拉长；伸展；一段时间/路程",
+          "n.开关；转换；鞭子 v.转变,转换；抽打",
+          "n.一针；(因跑步引起的)肋部剧痛 v.缝(合)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源本义是“刺穿、戳”，源自原始印欧语*steig-（刺、尖）。核心物理动作是用尖锐工具（针）反复刺穿布料，形成连续的线迹。名词“一针”直接源于此动作；动词“缝合”是动作的延续。肋部剧痛（如跑步时）是比喻义，形容像被针扎一样的刺痛感。",
+        "similarWarning": "switch（开关）: 词根sw-（摆动）对比st-（刺）；stretch（伸展）: 含-r-（拉长）对比无-r-；ditch（沟渠）: 词根dig-（挖）对比st-（刺）；pitch（投掷）: 词根pic-（沥青/投）对比st-（刺）；stick（棍子）: 词根st-相同但含义不同（棍子vs刺）；witch（女巫）: 词根wic-（巫术）对比st-（刺）；sketch（素描）: 词根sk-（画）对比st-（刺）；snatch（抢夺）: 词根sn-（抓）对比st-（刺）。核心差异：stitch强调“刺穿”的重复动作，其他词无此核心动作。",
+        "extendedMeaning": "考研僻义：a stitch in time (saves nine) 意为“及时处理，事半功倍”，常出现于完形填空或阅读中，指及时行动避免更大麻烦。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "stock",
+      "word": "stock",
+      "phonetic": "/stɒk/",
+      "meaning": "n.备料,库存,现货;股票,公债 v.储存",
+      "similar": [
+        "sock",
+        "shock",
+        "stack",
+        "sticky",
+        "cock",
+        "dock",
+        "lock",
+        "mock"
+      ],
+      "question": {
+        "wordId": "stock",
+        "stem": "选择 \"stock\" 的正确中文意思：",
+        "correct": "n.备料,库存,现货;股票,公债 v.储存",
+        "options": [
+          "n.备料,库存,现货;股票,公债 v.储存",
+          "n.(pl.)短袜",
+          "n.震动;电击,触电;休克v.(使)震动/震惊",
+          "n.堆,一堆 v.堆积,堆起"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "stock 源自古英语 stoc（树干、木桩），核心动作是“直立、堆积”。树干作为储备材料，引申为“库存、备料”；树干上的刻痕代表股份，引申为“股票、公债”；动词“储存”即把东西像堆木料一样积存起来。",
+        "similarWarning": "sock（短袜） vs stock：sock 无 t，侧重袜子；shock（震惊） vs stock：sh- 开头表震动；stack（堆叠） vs stock：stack 强调整齐叠放；stick（棍棒） vs stock：stick 细长，stock 粗大；sticky（粘的） vs stock：sticky 加 y 表性质；cock（公鸡） vs stock：cock 无 s；dock（码头） vs stock：dock 加 d 表停靠。",
+        "extendedMeaning": "在考研中，stock 常考“（知识、经验等的）储备”或“血统、家系”，如 a stock of knowledge（知识储备），come from farming stock（出身农民家庭）。",
+        "examUsage": "真题考点：短语 \"take stock of\"（评估、审视），如 take stock of the situation（评估形势）；\"in stock\"（有现货）与 \"out of stock\"（缺货）是完形填空常见搭配。"
+      }
+    },
+    {
+      "id": "stocking",
+      "word": "stocking",
+      "phonetic": "/'stɔkiŋ/",
+      "meaning": "n.长(统)袜",
+      "similar": [
+        "striking",
+        "string"
+      ],
+      "question": {
+        "wordId": "stocking",
+        "stem": "选择 \"stocking\" 的正确中文意思：",
+        "correct": "n.长(统)袜",
+        "options": [
+          "n.长(统)袜",
+          "a.显著的；惹人注目的，容貌出众的",
+          "n.稳定,安定",
+          "n.弦,线,细绳;(一串),(一行) v.缚,捆"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "stock 原意为‘树干、库存’，引申为‘袜子’源于古英语‘stocking’指‘腿部的覆盖物’，与‘stock’（树干）的柱状形态相关，核心物理动作为‘包裹腿部’的衣物。",
+        "similarWarning": "striking（显著的，打击的）vs stocking：striking 含‘strike’（打击），有‘-ing’后缀；stocking 含‘stock’（库存），无‘-ing’意义差异。string（绳子，弦）vs stocking：string 拼写含‘r’，无‘ck’；词义上string为细长物，stocking为包裹物。",
+        "extendedMeaning": "在考研中无高频僻义，仅指长袜，注意与‘sock’（短袜）区分。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "stomach",
+      "word": "stomach",
+      "phonetic": "/'stʌmək/",
+      "meaning": "n.胃，胃口；肚子，腹部vt.承受，忍受",
+      "similar": [],
+      "question": {
+        "wordId": "stomach",
+        "stem": "选择 \"stomach\" 的正确中文意思：",
+        "correct": "n.胃，胃口；肚子，腹部vt.承受，忍受",
+        "options": [
+          "n.灾难,大祸;彻底的失败",
+          "n.病毒;(精神,道德方面的)有害影响",
+          "n.组件，模块，模件；(航天器的)舱",
+          "n.胃，胃口；肚子，腹部vt.承受，忍受"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语stomakhos（口、喉咙），后转指消化道入口，再引申为“胃”。核心动作是“容纳、接收食物”，引申为抽象“承受、忍受”时，强调像胃一样容纳令人不适之物。",
+        "similarWarning": "",
+        "extendedMeaning": "vt.承受，忍受（尤指令人不快的事物），如：cannot stomach the unfair treatment（无法忍受不公待遇）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "stool",
+      "word": "stool",
+      "phonetic": "/stu:l/",
+      "meaning": "n.凳子；(pl.)大便",
+      "similar": [
+        "stoop",
+        "stroll",
+        "fool",
+        "pool",
+        "soil",
+        "soul",
+        "toll",
+        "wool"
+      ],
+      "question": {
+        "wordId": "stool",
+        "stem": "选择 \"stool\" 的正确中文意思：",
+        "correct": "n.凳子；(pl.)大便",
+        "options": [
+          "n.&v.漫步；散步；游荡",
+          "n.傻子，笨蛋vt.欺骗，愚弄vi.干蠢事",
+          "v.弯腰,俯身 n.弯腰,曲背",
+          "n.凳子；(pl.)大便"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语 'stol'，与德语 'Stuhl' 同源，本义为‘座位’。词根与‘stand’（站立）相关，指可移动的小型坐具。医学引申指‘大便’，源于古时坐便器的形状。",
+        "similarWarning": "stool vs. tool: 仅首字母 's' 不同。stool 意为‘凳子’；tool 意为‘工具’。\nstool vs. stoop: 相差字母 'l' 与 'p'。stool 为‘凳子’；stoop 意为‘弯腰’。\nstool vs. stroll: 多字母 'r' 与 'l'。stroll 意为‘散步’。",
+        "extendedMeaning": "（pl.）大便，粪便。在医学语境中常用，如 'stool sample'（粪便样本），考研阅读中偶见于健康或生物类话题。",
+        "examUsage": ""
+      }
+    }
+  ]
+}

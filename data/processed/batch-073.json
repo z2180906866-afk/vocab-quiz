@@ -1,0 +1,1709 @@
+{
+  "batchId": 73,
+  "words": [
+    {
+      "id": "snack",
+      "word": "snack",
+      "phonetic": "/snæk/",
+      "meaning": "n.快餐,小吃,点心",
+      "similar": [
+        "sack",
+        "slack",
+        "stack",
+        "snatch",
+        "lack",
+        "neck",
+        "pack",
+        "rack"
+      ],
+      "question": {
+        "wordId": "snack",
+        "stem": "选择 \"snack\" 的正确中文意思：",
+        "correct": "n.快餐,小吃,点心",
+        "options": [
+          "n.袋,包,麻袋 v.解雇",
+          "n.堆,一堆 v.堆积,堆起",
+          "n.快餐,小吃,点心",
+          "a.懈怠的,松驰的;萧条的 n.淡季;(pl.)便裤"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "snack 源自古荷兰语 snacken，意为“咬、迅速咬食”，模拟咬食声。核心动作是“快速、小口地吃”，引申为“快餐、小吃”。",
+        "similarWarning": "sack（袋，解雇），slack（松弛的，懈怠），stack（堆叠），snatch（抢夺），back（背，支持），lack（缺乏），neck（脖子），pack（打包）。对比：snack 含“sn-”表“咬”动作，且短元音 a 表短促；sack 无鼻音，表容器；slack 含“sl-”表“松”；stack 有“st-”表“直立堆叠”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "snake",
+      "word": "snake",
+      "phonetic": "/sneik/",
+      "meaning": "n.蛇",
+      "similar": [
+        "sake",
+        "shake",
+        "stake",
+        "senate",
+        "bake",
+        "fake",
+        "lake",
+        "rake"
+      ],
+      "question": {
+        "wordId": "snake",
+        "stem": "选择 \"snake\" 的正确中文意思：",
+        "correct": "n.蛇",
+        "options": [
+          "n.蛇",
+          "n.桩,标桩;赌注,利害关系",
+          "n./v.摇动,摇;颤抖,震动",
+          "n.缘故,理由"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "snake 源自原始日耳曼语 *snakon，本义为“爬行、蜿蜒移动”。核心物理动作是“像蛇一样在地面扭动前行”，强调其无肢体的蠕动方式。词根 sn- 模拟蛇行时发出的嘶嘶声，-ake 为名词后缀。",
+        "similarWarning": "sake (为了…起见)、shake (摇动)、stake (桩；股份)、senate (参议院)、bake (烘烤)、cake (蛋糕)、fake (假的)、lake (湖)。区分关键：snake 首字母 s 后接 n，表示“蛇”；而 sake 无 n，shake 有 h，stake 有 t，senate 有 e 等。",
+        "extendedMeaning": "v. 蜿蜒前行（如 The river snakes through the valley. 河流蜿蜒穿过山谷）；n. 阴险的人（如 He is a snake in the grass. 他是个背信弃义的人）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "snap",
+      "word": "snap",
+      "phonetic": "/snæp/",
+      "meaning": "v.啪地移动；(使）突然断开，断开（成两截)",
+      "similar": [
+        "nap",
+        "slap",
+        "soap",
+        "scrap",
+        "shape",
+        "sharp",
+        "snack",
+        "snake"
+      ],
+      "question": {
+        "wordId": "snap",
+        "stem": "选择 \"snap\" 的正确中文意思：",
+        "correct": "v.啪地移动；(使）突然断开，断开（成两截)",
+        "options": [
+          "v.啪地移动；(使）突然断开，断开（成两截)",
+          "n.肥皂",
+          "n.小睡,打盹",
+          "n./v.拍,掌击"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模仿清脆断裂声。sn-（鼻音）+ -ap（短促动作），核心物理动作：突然而清脆的断裂或闭合，如树枝折断或相机快门声。",
+        "similarWarning": "nap（小睡） vs snap（折断）：n- vs sn-，snap增加s-强化动作；slap（拍打） vs snap：sl-（滑动摩擦） vs sn-（脆断）；snack（小吃） vs snap：-ack（块状） vs -ap（瞬时动作）。",
+        "extendedMeaning": "考研僻义：1. 抢购（snap up）：迅速购买；2. 突然失去理智（snap）：精神崩溃；3. 快照（snap）：快速拍照。",
+        "examUsage": "真题考点：snap at（厉声斥责），snap out of it（摆脱坏情绪），cold snap（寒潮）。例句：The cold snap caused a sharp rise in heating costs.（寒潮导致取暖费飙升。）"
+      }
+    },
+    {
+      "id": "snatch",
+      "word": "snatch",
+      "phonetic": "/snætʃ/",
+      "meaning": "n./v.攫取,抢夺",
+      "similar": [
+        "scratch",
+        "batch",
+        "hatch",
+        "match",
+        "patch",
+        "snack",
+        "watch",
+        "search"
+      ],
+      "question": {
+        "wordId": "snatch",
+        "stem": "选择 \"snatch\" 的正确中文意思：",
+        "correct": "n./v.攫取,抢夺",
+        "options": [
+          "n.一批,一组,一群",
+          "v.孵,孵出;策划,图谋 n.舱口,小门",
+          "v.抓,搔,扒 n.抓,搔,抓痕;起跑线",
+          "n./v.攫取,抢夺"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模拟快速抓取时发出的声音（sn-与鼻音相关，-atch表动作）。核心物理动作：突然伸手快速抓取某物，强调动作的迅猛和短暂。词义演变：物理抓取 → 抢夺、攫取（强调非和平获取）。",
+        "similarWarning": "scratch（抓挠，sc-表刮擦动作）、snatch（抢夺，sn-表鼻息急促的突然动作）、batch（一批，b-表批量）、catch（抓住，c-表捕捉）、hatch（孵化，h-表破壳）、match（匹配，m-表配对）、patch（补丁，p-表修补）、snack（零食，sn-表轻快进食）。",
+        "extendedMeaning": "1. 小偷小摸（v.）：如snatch a wallet（扒窃钱包）。2. 片段/片刻（n.）：如snatches of conversation（谈话片段）、snatch of sleep（片刻小憩），强调不完整、零碎。",
+        "examUsage": "真题考点：snatch up（一把抓起/夺走），如He snatched up his coat and left.（他一把抓起外套离开。）干扰项常与catch（强调接住/赶上）混淆，snatch强调突然性和暴力性。"
+      }
+    },
+    {
+      "id": "sneak",
+      "word": "sneak",
+      "phonetic": "/sni:k/",
+      "meaning": "vi.偷偷地走，溜vt.偷偷地做(或拿、吃)",
+      "similar": [
+        "steak",
+        "leak",
+        "neat",
+        "neck",
+        "peak",
+        "seal",
+        "seam",
+        "seek"
+      ],
+      "question": {
+        "wordId": "sneak",
+        "stem": "选择 \"sneak\" 的正确中文意思：",
+        "correct": "vi.偷偷地走，溜vt.偷偷地做(或拿、吃)",
+        "options": [
+          "vi.偷偷地走，溜vt.偷偷地做(或拿、吃)",
+          "n.牛排；大块肉(或鱼)片",
+          "v.漏,泄漏 n.漏洞,漏隙;泄漏,漏出",
+          "a.整洁的,干净的,优美的,精致的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，但核心动作是‘隐秘、悄悄地移动或行动’，源自中古英语sniken，与古英语snīcan（爬行、潜行）相关。物理画面：像蛇或小偷一样无声无息地靠近或离开，强调‘不被察觉’的移动或行为。",
+        "similarWarning": "与speak（说话）仅差p字母（sneak vs speak），但sneak强调‘无声’，speak强调‘发声’；与steak（牛排）拼写接近，但steak是食物，sneak是动作。",
+        "extendedMeaning": "考研僻义：作名词指‘鬼鬼祟祟的人’或‘告密者’（如He's a sneak. 他是个告密者）；作形容词指‘突然的、秘密的’（如a sneak attack 偷袭）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sneeze",
+      "word": "sneeze",
+      "phonetic": "/sni:z/",
+      "meaning": "vi.打喷嚏，发喷嚏声n.喷嚏",
+      "similar": [
+        "squeeze",
+        "seize",
+        "breeze",
+        "freeze",
+        "sleeve"
+      ],
+      "question": {
+        "wordId": "sneeze",
+        "stem": "选择 \"sneeze\" 的正确中文意思：",
+        "correct": "vi.打喷嚏，发喷嚏声n.喷嚏",
+        "options": [
+          "vi.打喷嚏，发喷嚏声n.喷嚏",
+          "v.压榨,挤 n.榨取,勒索",
+          "n.微风；轻而易举的事 vi.来去匆匆，急速走",
+          "v.抓住,逮住;夺取,占领;没收,查封"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟打喷嚏时气流喷出的声音（类似“阿嚏”）。核心动作是鼻腔受刺激后突然、猛烈地喷气发声。",
+        "similarWarning": "squeeze（挤压）、seize（抓住）、breeze（微风）、freeze（冻结）、sleeve（袖子）。sneeze与squeeze仅首字母不同，前者是打喷嚏，后者是挤压；与breeze结尾相同，但含义无关。",
+        "extendedMeaning": "（无特殊僻义，考研中主要考察其基本动作义及相关短语。）",
+        "examUsage": "常见搭配：sneeze at（轻视，对...嗤之以鼻），多用于否定句，如“nothing to sneeze at”（不可小觑）。真题中常作为干扰项，与squeeze、freeze等形近词混淆，需注意语境区分。"
+      }
+    },
+    {
+      "id": "sniff",
+      "word": "sniff",
+      "phonetic": "/snif/",
+      "meaning": "vi.嗅…味道；抽鼻涕；对嗤之以鼻，蔑视",
+      "similar": [
+        "stiff",
+        "cliff",
+        "knife",
+        "shift",
+        "staff",
+        "stuff",
+        "swift",
+        "unify"
+      ],
+      "question": {
+        "wordId": "sniff",
+        "stem": "选择 \"sniff\" 的正确中文意思：",
+        "correct": "vi.嗅…味道；抽鼻涕；对嗤之以鼻，蔑视",
+        "options": [
+          "vi.嗅…味道；抽鼻涕；对嗤之以鼻，蔑视",
+          "n.悬崖;峭壁",
+          "n.刀,餐刀 v.用刀切,用匕首刺",
+          "a.硬的,僵直的;拘谨的;呆板的;艰难的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿通过鼻子快速吸气的声音，核心物理动作是“短促吸气以获取气味或清理鼻腔”。引申为“嗅”和“蔑视”（因轻蔑时常用鼻子发出短促吸气声）。",
+        "similarWarning": "stiff/stɪf/（僵硬的） vs sniff/snɪf/（嗅）：字母i后双f vs nf，词义无关联。cliff/klɪf/（悬崖） vs sniff：首字母c vs sn，词义无关。shift/ʃɪft/（转移） vs sniff：首字母sh vs sn，且无f重复。sniff核心是鼻部动作，形近词中swift（迅速的）最易混，因swift含“sw”且指速度，与嗅觉无关。",
+        "extendedMeaning": "考研僻义：对…嗤之以鼻，蔑视（sniff at），如He sniffed at the offer.（他对提议嗤之以鼻）。",
+        "examUsage": "真题考点：sniff out（嗅出，发现）为高频短语，如The dog sniffed out the drugs.（狗嗅出毒品）。注意sniff与sniffle（抽鼻子）的辨析，sniffle侧重因感冒或哭泣持续抽鼻，而sniff为短暂动作。"
+      }
+    },
+    {
+      "id": "snowstorm",
+      "word": "snowstorm",
+      "phonetic": "/'snəustɔ:m/",
+      "meaning": "n.暴风雪",
+      "similar": [],
+      "question": {
+        "wordId": "snowstorm",
+        "stem": "选择 \"snowstorm\" 的正确中文意思：",
+        "correct": "n.暴风雪",
+        "options": [
+          "v.合并,纳入,结合 a.合并的",
+          "n.幼年,童年",
+          "vt.感谢int.[-s]谢谢n.[pl.]感谢(意)",
+          "n.暴风雪"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "snow（雪）+ storm（风暴）→ 雪的风暴 → 暴风雪。合成词，直指物理现象。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "soak",
+      "word": "soak",
+      "phonetic": "/səuk/",
+      "meaning": "v.浸泡,浸湿,浸透",
+      "similar": [
+        "oak",
+        "soap",
+        "soar",
+        "sock",
+        "cloak",
+        "shake",
+        "shark",
+        "shock"
+      ],
+      "question": {
+        "wordId": "soak",
+        "stem": "选择 \"soak\" 的正确中文意思：",
+        "correct": "v.浸泡,浸湿,浸透",
+        "options": [
+          "n.肥皂",
+          "vi.(指鸟等)高飞，翱翔；飞涨；高耸",
+          "v.浸泡,浸湿,浸透",
+          "n.橡树,橡木 a.橡木的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能与古英语socian（浸泡）相关。核心物理动作是“将物体置于液体中使其吸收水分”，引申为“浸透、渗透”。",
+        "similarWarning": "soak vs. soap（肥皂）：soak含k，soap含p。soak浸泡，soap肥皂。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "soap",
+      "word": "soap",
+      "phonetic": "/səup/",
+      "meaning": "n.肥皂",
+      "similar": [
+        "slap",
+        "snap",
+        "soak",
+        "soar",
+        "soup",
+        "scrap",
+        "shape",
+        "sharp"
+      ],
+      "question": {
+        "wordId": "soap",
+        "stem": "选择 \"soap\" 的正确中文意思：",
+        "correct": "n.肥皂",
+        "options": [
+          "v.浸泡,浸湿,浸透",
+          "v.啪地移动；(使）突然断开，断开（成两截)",
+          "n./v.拍,掌击",
+          "n.肥皂"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语sāpe，与拉丁语sēbum（油脂）同源，核心动作是“用油脂和水混合去污”。",
+        "similarWarning": "soap vs. soup: soap结尾是-p（去污），soup结尾是-p（喝汤）。soap vs. soak: soap是名词，soak是动词（浸泡）。soap vs. slap: soap首字母s，slap首字母sl（拍打）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "soar",
+      "word": "soar",
+      "phonetic": "/sɔ:/",
+      "meaning": "vi.(指鸟等)高飞，翱翔；飞涨；高耸",
+      "similar": [
+        "solar",
+        "oar",
+        "roar",
+        "scar",
+        "soak",
+        "soap",
+        "sour",
+        "polar"
+      ],
+      "question": {
+        "wordId": "soar",
+        "stem": "选择 \"soar\" 的正确中文意思：",
+        "correct": "vi.(指鸟等)高飞，翱翔；飞涨；高耸",
+        "options": [
+          "n./v.吼叫,怒号;轰鸣,咆哮",
+          "vi.(指鸟等)高飞，翱翔；飞涨；高耸",
+          "a.太阳的,日光的",
+          "n.桨,橹 v.划,划动,划行"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，但核心物理动作为向上/升腾。拟声词，模仿风或翅膀扇动声。核心画面：鸟从地面向上冲入高空，引申为价格、数量、情绪等急速上升或建筑物高耸入云。",
+        "similarWarning": "solar（太阳的，a/so-）、oar（桨，n/o-）、roar（咆哮，v/r-）、scar（伤疤，n/sc-）、soak（浸泡，v/k-）、soap（肥皂，n/p-）、sour（酸的，a/u-）、star（星星，n/t-）。注意词首辅音差异，soar强调向上飞升，其他词无此核心动作。",
+        "extendedMeaning": "考研真题中常考‘急剧增长’义（如prices/soaring inflation），非字面‘高飞’。",
+        "examUsage": "固定搭配：soar to（飞涨至…）。真题例句：Housing prices have soared to record highs.（房价飙升至历史新高。）作为题眼，常与increase/rise/rocket等词进行同义替换辨析。"
+      }
+    },
+    {
+      "id": "sob",
+      "word": "sob",
+      "phonetic": "/sɔb/",
+      "meaning": "v./n.哭泣,呜咽",
+      "similar": [
+        "mob",
+        "rob",
+        "sow",
+        "sober"
+      ],
+      "question": {
+        "wordId": "sob",
+        "stem": "选择 \"sob\" 的正确中文意思：",
+        "correct": "v./n.哭泣,呜咽",
+        "options": [
+          "v.(of)抢劫,盗取;非法剥夺",
+          "v.播种",
+          "n.乌合之众(尤指暴力者) vi.围攻，聚众闹事",
+          "v./n.哭泣,呜咽"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿抽泣时吸气发出的短促声音，与“sip”（小口喝）同源，皆模拟吸入动作。核心动作：短促、断续地吸气哭泣。",
+        "similarWarning": "so（所以，如此）vs sob：so无b，表程度或因果；sob有b，表哭泣动作。sober（清醒的，节制的）vs sob：sober含-er，表状态，与sob无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sober",
+      "word": "sober",
+      "phonetic": "/'səubə(r)/",
+      "meaning": "a.清醒的;认真的,冷静的,适度的",
+      "similar": [
+        "shower",
+        "soccer",
+        "sob",
+        "obey",
+        "robe",
+        "soar",
+        "sole",
+        "sore"
+      ],
+      "question": {
+        "wordId": "sober",
+        "stem": "选择 \"sober\" 的正确中文意思：",
+        "correct": "a.清醒的;认真的,冷静的,适度的",
+        "options": [
+          "a.清醒的;认真的,冷静的,适度的",
+          "v./n.哭泣,呜咽",
+          "n.足球",
+          "n.阵雨;沐浴;(一)阵/大批v.下阵雨,倾注"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不确定，但核心动作意象为‘从醉态或情绪波动中恢复至平静、理智状态’。词根可能与拉丁语sobrius（未醉的、节制的）相关，强调‘无酒精影响’→‘头脑清醒’→‘态度冷静、适度’。",
+        "similarWarning": "shower（淋浴/阵雨）、soccer（英式足球）、sob（啜泣）、obey（服从）、over（在...之上）、robe（长袍）、soar（翱翔）、sole（唯一的/鞋底）——注意sober与soar拼写差异：-er vs -ar；与sob差一个字母，但词义无关。",
+        "extendedMeaning": "（考研僻义）‘冷静的、审慎的’——如sober assessment（冷静评估），sober reflection（审慎反思），强调不带偏见或情绪的判断。",
+        "examUsage": "（真题考点）sober up（清醒过来/清醒点），常用在完形或阅读语境中表示‘从醉酒或兴奋中恢复理智’。例句：He needs to sober up and face reality.（他需要清醒过来面对现实。）"
+      }
+    },
+    {
+      "id": "so-called",
+      "word": "so-called",
+      "phonetic": "/'səu'kɔ:ld/",
+      "meaning": "a.(贬)所谓的，号称的",
+      "similar": [],
+      "question": {
+        "wordId": "so-called",
+        "stem": "选择 \"so-called\" 的正确中文意思：",
+        "correct": "a.(贬)所谓的，号称的",
+        "options": [
+          "a.(贬)所谓的，号称的",
+          "n.病毒;(精神,道德方面的)有害影响",
+          "a.友好的,友谊的",
+          "vi.大叫;呼喊 vt.叫着说 n.叫声;喊声"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "so-（如此，这样） + called（被称为的），字面即“如此被称呼的”，隐含“名义上如此但实际并非如此”的贬义色彩。本源是口语中强调某种称谓的虚假性，后固定为复合形容词。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "soccer",
+      "word": "soccer",
+      "phonetic": "/'sɔkə/",
+      "meaning": "n.足球",
+      "similar": [
+        "occur",
+        "sober",
+        "locker",
+        "saucer"
+      ],
+      "question": {
+        "wordId": "soccer",
+        "stem": "选择 \"soccer\" 的正确中文意思：",
+        "correct": "n.足球",
+        "options": [
+          "n.足球",
+          "n.更衣箱",
+          "v.发生,出现;存在;想起,想到",
+          "a.清醒的;认真的,冷静的,适度的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "soccer 源自 association football 的缩写，assoc 被截取并加 -er 后缀形成，核心动作是“踢球运动”。",
+        "similarWarning": "occur（发生），sober（清醒的），locker（储物柜），saucer（茶托）——拼写差异主要在前缀或元音，soccer 特指足球运动，区别于其他词汇。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sociable",
+      "word": "sociable",
+      "phonetic": "/'səuʃəbl/",
+      "meaning": "a.好交际的，友好的，合群的",
+      "similar": [
+        "social",
+        "liable",
+        "stable",
+        "amiable",
+        "notable",
+        "soluble",
+        "portable",
+        "reliable"
+      ],
+      "question": {
+        "wordId": "sociable",
+        "stem": "选择 \"sociable\" 的正确中文意思：",
+        "correct": "a.好交际的，友好的，合群的",
+        "options": [
+          "a.稳定的,安定的 n.马厩,马棚",
+          "a.有...倾向的；可能遭受...的；有责任的",
+          "a.社会的;交际的",
+          "a.好交际的，友好的，合群的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 socius（同伴，伙伴）。词根 soci-（同伴）+-able（能够...的）→ 能够与同伴相处的 → 好交际的。核心物理动作是“能与他人结伴”，强调融入群体的能力。",
+        "similarWarning": "social（社会的，社交的）：侧重社会整体或社交活动，如 social media（社交媒体）。sociable（好交际的）：侧重个人性格特质，如 a sociable person（一个合群的人）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "social",
+      "word": "social",
+      "phonetic": "/'səuʃəl/",
+      "meaning": "a.社会的;交际的",
+      "similar": [
+        "sociable",
+        "soil",
+        "local",
+        "vocal",
+        "racial",
+        "serial"
+      ],
+      "question": {
+        "wordId": "social",
+        "stem": "选择 \"social\" 的正确中文意思：",
+        "correct": "a.社会的;交际的",
+        "options": [
+          "a.社会的;交际的",
+          "a.好交际的，友好的，合群的",
+          "n.泥土,土地,土壤 v.弄脏,(使)变脏",
+          "a.地方的,当地的;局部的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 soci-（同伴、社会）+ 形容词后缀 -al（…的）。核心动作：与同伴相处 → 社会的，交际的。",
+        "similarWarning": "sociable（好社交的，后缀 -able 表能力） vs social（社会的，形容词后缀 -al）。special（特别的，词根 spec- 看，不同词根）。soil（土壤，词根 sol- 地面）。local（当地的，词根 loc- 地方）。vocal（声音的，词根 voc- 声音）。racial（种族的，词根 rac- 种族）。serial（连续的，词根 ser- 连接）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "socialism",
+      "word": "socialism",
+      "phonetic": "/'səuʃəlizəm/",
+      "meaning": "n.社会主义",
+      "similar": [
+        "specialist",
+        "capitalism",
+        "speciality",
+        "specialize"
+      ],
+      "question": {
+        "wordId": "socialism",
+        "stem": "选择 \"socialism\" 的正确中文意思：",
+        "correct": "n.社会主义",
+        "options": [
+          "n.(specialty)特性，性质；专业/长；特产",
+          "n.专家",
+          "n.资本主义",
+          "n.社会主义"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "social-（同伴、社会）+ -ism（主义、学说）。词根social-源自拉丁语socius（同伴），核心动作是“结伴、联合”，引申为“社会”；-ism表思想体系，故socialism即“以社会为本位的主义”，强调集体所有制与财富共享。",
+        "similarWarning": "specialist（专家）：socialism vs specialist，差异在词根social-（社会）与special-（特殊），-ist表人，-ism表主义。capitalism（资本主义）：capital-（资本）+ -ism，与socialism对立。speciality（专业）：special- + -ity（性质），指专长；specialize（专门化）：-ize（使成为）。",
+        "extendedMeaning": "在考研外刊中，socialism可能指“社会主义制度”或“社会主义思想”，但无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sociology",
+      "word": "sociology",
+      "phonetic": "/ˌsəusi'ɔlədʒi/",
+      "meaning": "n.社会学",
+      "similar": [
+        "psychology",
+        "biology",
+        "ecology"
+      ],
+      "question": {
+        "wordId": "sociology",
+        "stem": "选择 \"sociology\" 的正确中文意思：",
+        "correct": "n.社会学",
+        "options": [
+          "n.心理,心理学,心理状态",
+          "n.社会学",
+          "n.生态学",
+          "n.生物学"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "socio-（社会，源自拉丁语socius，意为同伴）+ -logy（学科，源自希腊语logos，意为研究、学问）。核心逻辑：研究人类社会结构、关系及发展的学科。",
+        "similarWarning": "psychology (心理学，psycho-心灵)、biology (生物学，bio-生命)、ecology (生态学，eco-环境)、technology (技术，techno-技艺)。差异在于前缀不同，分别对应不同研究对象。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sock",
+      "word": "sock",
+      "phonetic": "/sɔk/",
+      "meaning": "n.(pl.)短袜",
+      "similar": [
+        "shock",
+        "stock",
+        "cock",
+        "dock",
+        "lock",
+        "mock",
+        "sack",
+        "soak"
+      ],
+      "question": {
+        "wordId": "sock",
+        "stem": "选择 \"sock\" 的正确中文意思：",
+        "correct": "n.(pl.)短袜",
+        "options": [
+          "n.备料,库存,现货;股票,公债 v.储存",
+          "n.震动;电击,触电;休克v.(使)震动/震惊",
+          "n.(pl.)短袜",
+          "n.公鸡,雄鸡;龙头,开关"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语soccus，原指一种轻便拖鞋。词根soc-与‘脚’相关，加-k表示‘覆盖物’。核心动作：用软物包裹脚部。",
+        "similarWarning": "shock: s+ho(惊讶)->震惊；stock: s+to(站立)->库存；sock: s+ock(脚部)->短袜。差异在首字母后辅音组合不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "soda",
+      "word": "soda",
+      "phonetic": "/'səudə/",
+      "meaning": "n.苏打,汽水",
+      "similar": [
+        "sofa",
+        "solar"
+      ],
+      "question": {
+        "wordId": "soda",
+        "stem": "选择 \"soda\" 的正确中文意思：",
+        "correct": "n.苏打,汽水",
+        "options": [
+          "n.生态学",
+          "a.太阳的,日光的",
+          "n.长沙发，沙发",
+          "n.苏打,汽水"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自阿拉伯语 suwwad（一种含钠的植物灰烬），后经拉丁语 soda 进入英语，原指从植物灰烬中提取的碱性物质（碳酸钠），用于制造玻璃等。因该物质与水反应产生气泡，后引申为含碳酸气的饮料（汽水）。核心动作：植物灰→碱性物质→气泡饮料。",
+        "similarWarning": "sofa（沙发）：字母 d 变 f，指家具；solar（太阳的）：字母 d 变 l，指太阳；today（今天）：字母 s 变 t，指时间。soda 强调化学物质或饮料，与上述词义无直接关联。",
+        "extendedMeaning": "在考研中常考‘碳酸钠’（工业原料），如‘soda ash’（纯碱），而非日常汽水义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sofa",
+      "word": "sofa",
+      "phonetic": "/'səufə/",
+      "meaning": "n.长沙发，沙发",
+      "similar": [
+        "soda",
+        "solar"
+      ],
+      "question": {
+        "wordId": "sofa",
+        "stem": "选择 \"sofa\" 的正确中文意思：",
+        "correct": "n.长沙发，沙发",
+        "options": [
+          "n.长沙发，沙发",
+          "n.苏打,汽水",
+          "a.太阳的,日光的",
+          "n.姿势,姿态,心态,态度 v.作出某种姿势"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自阿拉伯语 'suffah'（有盖的长凳），后经土耳其语 'sofa' 传入英语。核心物理动作是“可供倚靠或躺卧的家具”，与椅子（chair）不同，强调其长形和柔软性。",
+        "similarWarning": "soda（n.苏打水，碳酸水） vs sofa（n.沙发）：拼写差异在于 'd' 与 'f'，词源无关。soft（adj.柔软的） vs sofa：拼写共享 'sof'，但 'f' 后接 't' vs 'a'；soft 强调触感，sofa 是家具。solar（adj.太阳的） vs sofa：拼写差异在于 'l' 与 'f'，词义无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "software",
+      "word": "software",
+      "phonetic": "/'sɔftwεə/",
+      "meaning": "n.软件",
+      "similar": [
+        "outward"
+      ],
+      "question": {
+        "wordId": "software",
+        "stem": "选择 \"software\" 的正确中文意思：",
+        "correct": "n.软件",
+        "options": [
+          "n.灾难,大祸;彻底的失败",
+          "a.北方的,北部的",
+          "a.外面的,公开的,向外的ad.向外,在外n.外表",
+          "n.软件"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "soft（软的）+ ware（制品、器皿）→ 软制品，与硬件（hardware）相对，指计算机中无形的程序和数据。",
+        "similarWarning": "outward（向外的）：out（向外）+ ward（方向）→ 向外方向。software强调“软”与“硬”的材质区分，outward强调空间方向。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "soil",
+      "word": "soil",
+      "phonetic": "/sɔil/",
+      "meaning": "n.泥土,土地,土壤 v.弄脏,(使)变脏",
+      "similar": [
+        "spoil",
+        "oil",
+        "boil",
+        "coil",
+        "sail",
+        "soul",
+        "social",
+        "skill"
+      ],
+      "question": {
+        "wordId": "soil",
+        "stem": "选择 \"soil\" 的正确中文意思：",
+        "correct": "n.泥土,土地,土壤 v.弄脏,(使)变脏",
+        "options": [
+          "v.(使)沸腾,煮(沸)",
+          "v.损坏,搞错;宠坏,溺爱",
+          "n.泥土,土地,土壤 v.弄脏,(使)变脏",
+          "n.油，石油 v.给…加润滑油；涂油，上油"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能来自拉丁语solum（底部、地面）。核心画面：大地表层的泥土。动词义由‘泥土’引申为‘弄脏’（接触泥土变脏）。",
+        "similarWarning": "spoil（v.破坏，溺爱）：s+poil vs soil，字母p和i差异。soul（n.灵魂）：s+oul vs soil，字母o和i差异。sail（n.帆 v.航行）：s+ail vs soil，字母a和o差异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "solar",
+      "word": "solar",
+      "phonetic": "/'səulə/",
+      "meaning": "a.太阳的,日光的",
+      "similar": [
+        "soar",
+        "polar",
+        "scholar",
+        "collar",
+        "dollar",
+        "salary",
+        "oar",
+        "roar"
+      ],
+      "question": {
+        "wordId": "solar",
+        "stem": "选择 \"solar\" 的正确中文意思：",
+        "correct": "a.太阳的,日光的",
+        "options": [
+          "n.学者",
+          "a.两极的,极地的,南辕北辙的 n.极线,极面",
+          "vi.(指鸟等)高飞，翱翔；飞涨；高耸",
+          "a.太阳的,日光的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根sol-（太阳）+ -ar（形容词后缀，…的）。核心动作：与太阳相关的。",
+        "similarWarning": "solar vs. soar（高飞）：solar含字母l（太阳），soar无l（向上飞）。solar vs. polar（极地的）：solar首字母s（太阳），polar首字母p（极地）。solar vs. scholar（学者）：scholar多ch（学习），solar无。",
+        "extendedMeaning": "太阳能（的）：solar energy（太阳能）在科技类阅读中高频出现。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "soldier",
+      "word": "soldier",
+      "phonetic": "/'səuldʒə/",
+      "meaning": "n.士兵,军人",
+      "similar": [
+        "holder"
+      ],
+      "question": {
+        "wordId": "soldier",
+        "stem": "选择 \"soldier\" 的正确中文意思：",
+        "correct": "n.士兵,军人",
+        "options": [
+          "a.各自的,各个的",
+          "n.持有者,占有者;(台,架等)支持物",
+          "n.胜利,成功 v.得胜,战胜",
+          "n.士兵,军人"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'solidus'（牢固的），原指'雇佣兵'，因其领取'苏勒德斯金币'（solidus）而得名。词根 'sol-' 表示'坚固、完整'，引申为'组成军队的稳固个体'。核心动作是'作为稳固的作战单位'。",
+        "similarWarning": "holder（持有者）与 soldier 差 'dier' vs 'lder'；shoulder（肩膀）差 'shou' vs 'sol'。soldier 强调'军事身份'，holder 指'占有者'，shoulder 为身体部位。",
+        "extendedMeaning": "考研中可引申为'为事业奋斗的人'，如 'a soldier of science'（科学战士），非字面军事含义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sole",
+      "word": "sole",
+      "phonetic": "/səul/",
+      "meaning": "a.单独的,唯一的 n.脚垫,鞋底",
+      "similar": [
+        "solve",
+        "pole",
+        "sale",
+        "solo",
+        "sore",
+        "solemn",
+        "noble",
+        "scale"
+      ],
+      "question": {
+        "wordId": "sole",
+        "stem": "选择 \"sole\" 的正确中文意思：",
+        "correct": "a.单独的,唯一的 n.脚垫,鞋底",
+        "options": [
+          "n.柱,杆;地极,磁极,电极",
+          "a.单独的,唯一的 n.脚垫,鞋底",
+          "v.解决,解答",
+          "n.出售,上市;贱卖,廉价出售;销售额"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语“solus”（单独，独自）。本义为“单独的”，引申为“唯一的”。作名词时，源自拉丁语“solea”（凉鞋，鞋底），与“solum”（底部，地面）同源，指脚底或鞋的底部。核心动作：单一、底部支撑。",
+        "similarWarning": "solo（独奏，单独的；sole+o，强调个体行为），而sole侧重“唯一性”或“底部”。solve（解决；来自solvere松开，与sole无关）",
+        "extendedMeaning": "考研僻义：在商业或法律语境中可作“独家”解，如sole agent（独家代理商），sole proprietor（独资经营者）。",
+        "examUsage": "真题考点：常考“solely”副词形式，意为“仅仅，完全地”，如be solely responsible（完全负责）。干扰项常与only、unique混淆，但sole强调“唯一无二的”，不用于比较级。"
+      }
+    },
+    {
+      "id": "solemn",
+      "word": "solemn",
+      "phonetic": "/'sɔləm/",
+      "meaning": "a.庄严的,隆重的;严肃的",
+      "similar": [
+        "sole",
+        "column",
+        "salesman"
+      ],
+      "question": {
+        "wordId": "solemn",
+        "stem": "选择 \"solemn\" 的正确中文意思：",
+        "correct": "a.庄严的,隆重的;严肃的",
+        "options": [
+          "n.售货员,推销员",
+          "n.圆柱,柱状物;列;(报刊中的)专栏",
+          "a.单独的,唯一的 n.脚垫,鞋底",
+          "a.庄严的,隆重的;严肃的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语sollus（整个的）+ annus（年），原指每年固定举行的宗教仪式，引申为“庄严的、隆重的”，强调一种完整、正式、不可轻慢的状态。",
+        "similarWarning": "sole（唯一的，单独的） vs solemn（庄严的）：sole无“mn”后缀，侧重单一性；column（圆柱，专栏） vs solemn：column以“mn”结尾但词义无关，solemn强调仪式感。",
+        "extendedMeaning": "在考研阅读中常引申为“严肃的、郑重的”，用于描述态度、承诺或场合，如solemn promise（郑重承诺）。",
+        "examUsage": "真题中常与grave、serious构成同义替换，或作为干扰项与sole（唯一的）混淆，需注意上下文区分。"
+      }
+    },
+    {
+      "id": "solid",
+      "word": "solid",
+      "phonetic": "/'sɔlid/",
+      "meaning": "a.固体的;结实的,稳固的,可靠的 n.固体",
+      "similar": [
+        "lid",
+        "bold",
+        "fold",
+        "slim",
+        "slip",
+        "slit",
+        "soil",
+        "sole"
+      ],
+      "question": {
+        "wordId": "solid",
+        "stem": "选择 \"solid\" 的正确中文意思：",
+        "correct": "a.固体的;结实的,稳固的,可靠的 n.固体",
+        "options": [
+          "n.盖",
+          "a.大胆的,勇敢的;冒失的;黑体的,粗体的",
+          "a.固体的;结实的,稳固的,可靠的 n.固体",
+          "v.折叠;合拢;抱住 n.褶,褶痕;羊栏;信徒"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语solidus（坚固的，完整的），与动词solvere（使松散）同源，核心物理动作是“凝结成整块”，强调内部结构紧密、不可分割，引申为物理上的“固体”、结构上的“结实”和抽象上的“可靠”。",
+        "similarWarning": "solid vs. solace: 前者结尾是-id（坚固），后者结尾是-ace（安慰）；solid vs. solicit: 前者是“固体”，后者是“恳求”（词根solicit-意为“使完整”的引申）。",
+        "extendedMeaning": "在考研外刊中常引申为“一致的、团结的”（如solid support一致支持）或“连续的、不间断的”（如solid line实线，solid hour整整一小时）。",
+        "examUsage": "真题中常考搭配：solid evidence（确凿证据）、solid foundation（坚实基础），作为干扰项出现时需注意与stable/sturdy的细微区别，solid强调内部无空隙的坚固。"
+      }
+    },
+    {
+      "id": "solidarity",
+      "word": "solidarity",
+      "phonetic": "/ˌsɔli'dæriti/",
+      "meaning": "n.团结；休戚相关",
+      "similar": [
+        "solitary"
+      ],
+      "question": {
+        "wordId": "solidarity",
+        "stem": "选择 \"solidarity\" 的正确中文意思：",
+        "correct": "n.团结；休戚相关",
+        "options": [
+          "a.旋转的",
+          "ad.几乎,实际上,简直",
+          "a.(好)孤独的；偏僻的；单一的，唯一的",
+          "n.团结；休戚相关"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语solidus（坚固的），词根sol-（整体、坚实）→-arity（名词后缀，表状态）。核心动作：使个体结合成坚固整体，即“团结”或“休戚相关”。",
+        "similarWarning": "形近词solitary（adj.孤独的；n.独居者）：拼写差异在于-arity vs -itary，前者表“整体坚实”，后者表“单独状态”。词义对立：团结vs孤独。",
+        "extendedMeaning": "",
+        "examUsage": "在考研真题中常作为抽象名词考察，多与social、national等词搭配，强调群体内部的支持与一致行动，如“social solidarity”（社会团结）是常见考点。"
+      }
+    },
+    {
+      "id": "solitary",
+      "word": "solitary",
+      "phonetic": "/'sɔlitəri/",
+      "meaning": "a.(好)孤独的；偏僻的；单一的，唯一的",
+      "similar": [
+        "military",
+        "solidarity",
+        "voluntary",
+        "rotary",
+        "salary",
+        "holiday",
+        "monetary"
+      ],
+      "question": {
+        "wordId": "solitary",
+        "stem": "选择 \"solitary\" 的正确中文意思：",
+        "correct": "a.(好)孤独的；偏僻的；单一的，唯一的",
+        "options": [
+          "a.自愿的,志愿的",
+          "a.(好)孤独的；偏僻的；单一的，唯一的",
+          "a.军事的,军用的,军队的",
+          "n.团结；休戚相关"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根sol-（单独，独自）+ -itary（形容词后缀）→ 独自的状态 → 孤独的、单一的。核心物理动作：一个人处于孤立无援或单独存在的状态。",
+        "similarWarning": "military（军事的；milit-战斗+ary），solidarity（团结；solid-坚固+arity），voluntary（自愿的；volunt-意愿+ary），rotary（旋转的；rot-旋转+ary），salary（薪水；sal-盐，古罗马盐作为报酬），holiday（假日；holy+day），monetary（货币的；monet-钱+ary）。差异：solitary强调孤独，其他词根意义不同。",
+        "extendedMeaning": "考研僻义：表示“偏僻的，荒凉的”，如a solitary village（偏僻的村庄）；也可引申为“唯一的，仅有的”，如a solitary example（唯一的例子）。",
+        "examUsage": "考点：常见于阅读理解中描述人物状态或地点特征，如live a solitary life（过独居生活）；无特殊干扰项，基础高频词。"
+      }
+    },
+    {
+      "id": "solo",
+      "word": "solo",
+      "phonetic": "/'səuləu/",
+      "meaning": "n.独奏 a.&ad.单独的(地)；独唱的(地)",
+      "similar": [
+        "sole",
+        "scold",
+        "solar",
+        "solid",
+        "solve"
+      ],
+      "question": {
+        "wordId": "solo",
+        "stem": "选择 \"solo\" 的正确中文意思：",
+        "correct": "n.独奏 a.&ad.单独的(地)；独唱的(地)",
+        "options": [
+          "a.单独的,唯一的 n.脚垫,鞋底",
+          "n.独奏 a.&ad.单独的(地)；独唱的(地)",
+          "v.责骂,训斥",
+          "a.太阳的,日光的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自意大利语solo（单独的），最终来自拉丁语solus（单独的，独自的）。核心动作/画面是“一个人完成”，强调独立、无伴的状态。",
+        "similarWarning": "solo vs sole: sole（唯一的，鞋底）比solo少一个字母'o'，侧重“唯一性”；solo强调“独自进行”。solo vs solar: solar（太阳的）字母r替换l，词源无关。",
+        "extendedMeaning": "考研中常引申为“个人表演/个人行动”，如solo project（个人项目），solo effort（单干），强调独立完成而非团队协作。",
+        "examUsage": "（基础词，无特殊真题考点）"
+      }
+    },
+    {
+      "id": "soluble",
+      "word": "soluble",
+      "phonetic": "/'sɔljubl/",
+      "meaning": "a.可溶的",
+      "similar": [
+        "sociable",
+        "valuable"
+      ],
+      "question": {
+        "wordId": "soluble",
+        "stem": "选择 \"soluble\" 的正确中文意思：",
+        "correct": "a.可溶的",
+        "options": [
+          "n.长,长度;一段,一节,程度,范围",
+          "a.贵重的,有价值的 n.(pl.)贵重物品,财宝",
+          "a.可溶的",
+          "a.好交际的，友好的，合群的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根solv-（解开，溶解）+ -able（能…的）。核心动作：物质被溶剂“解开”成分子状态，即“可溶的”。",
+        "similarWarning": "sociable（社交的，soci-同伴）、valuable（有价值的，valu-价值）。soluble强调溶解能力，sociable强调社交能力，valuable强调价值属性。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "solution",
+      "word": "solution",
+      "phonetic": "/sə'lju:ʃən/",
+      "meaning": "n.解答,解决办法;溶解,溶液",
+      "similar": [
+        "resolution",
+        "evolution",
+        "pollution",
+        "revolution",
+        "coalition",
+        "salvation",
+        "selection",
+        "motion"
+      ],
+      "question": {
+        "wordId": "solution",
+        "stem": "选择 \"solution\" 的正确中文意思：",
+        "correct": "n.解答,解决办法;溶解,溶液",
+        "options": [
+          "n.污染",
+          "n.进化,演变,发展,进展",
+          "n.解答,解决办法;溶解,溶液",
+          "n.坚决,决心;决定,决议"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根 solut- (解决/松开) + -ion (名词后缀)。核心动作是“松开、解开”，引申为解开难题的“解答”或物质溶解后的“溶液”。",
+        "similarWarning": "resolution (re-再+solut-解决→决议/决心) vs solution (解答/溶液)；evolution (e-向外+volut-卷→进化) vs solution；pollution (pollut-污染) vs solution；revolution (re-回+volut-转→革命) vs solution。",
+        "extendedMeaning": "在考研真题中常考“解决方案”的抽象含义，如“a solution to the problem”；此外，“溶液”在科技类阅读中高频出现。",
+        "examUsage": "固定搭配：solution to...（...的解决办法）。真题例句：The best solution is to...（最佳解决方案是...）"
+      }
+    },
+    {
+      "id": "solve",
+      "word": "solve",
+      "phonetic": "/sɔlv/",
+      "meaning": "v.解决,解答",
+      "similar": [
+        "sole",
+        "resolve",
+        "evolve",
+        "dove",
+        "move",
+        "pole",
+        "sale",
+        "save"
+      ],
+      "question": {
+        "wordId": "solve",
+        "stem": "选择 \"solve\" 的正确中文意思：",
+        "correct": "v.解决,解答",
+        "options": [
+          "v.解决,解答",
+          "a.单独的,唯一的 n.脚垫,鞋底",
+          "v.决心;(使)分解,溶解;决议 n.解决;决心",
+          "v.(使)发展;(使)进化;(使)进展"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根solv-表示“解开、松开”。solve本义是“解开（绳结、难题）”，引申为“解决、解答”。",
+        "similarWarning": "sole（唯一的，鞋底）：solve vs sole，差异在v与e，词义无关。resolve（解决，决心）：re-（再）+solve，强调彻底解决。evolve（进化，发展）：e-（出）+volve（转），与solve无关。",
+        "extendedMeaning": "在考研中，solve常引申为“处理（问题）”、“破解（谜题）”，如solve a mystery（破解谜团）。",
+        "examUsage": "常见搭配：solve a problem（解决问题），solve the equation（解方程）。真题例句：We must find a way to solve the environmental crisis.（我们必须找到解决环境危机的方法。）作为核心题眼，常与settle, resolve等词构成干扰项。"
+      }
+    },
+    {
+      "id": "somebody",
+      "word": "somebody",
+      "phonetic": "/'sʌmˌbɔdi/",
+      "meaning": "pron.某人，有人 n.重要人物",
+      "similar": [
+        "comedy",
+        "embody",
+        "melody",
+        "nobody",
+        "somehow",
+        "someone"
+      ],
+      "question": {
+        "wordId": "somebody",
+        "stem": "选择 \"somebody\" 的正确中文意思：",
+        "correct": "pron.某人，有人 n.重要人物",
+        "options": [
+          "vt.具体表达,使具体化;包含,收录",
+          "n.喜剧;喜剧性事件",
+          "n.旋律，曲调；悦耳的音乐",
+          "pron.某人，有人 n.重要人物"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "some（某个）+ body（身体/人）→ 指代某个不确定的人。词源直白，无复杂演变。",
+        "similarWarning": "nobody（无人/小人物）vs somebody（某人/大人物）：前缀no-（无）与some-（某）对立；embody（体现）：en-（使）+ body（身体）→ 使具体化，拼写差异在en-。",
+        "extendedMeaning": "重要人物（如：He is a somebody in the industry.）",
+        "examUsage": "常见于阅读理解中表示‘大人物’的语境，如：He thinks he's a somebody.（他自以为是个大人物。）"
+      }
+    },
+    {
+      "id": "somehow",
+      "word": "somehow",
+      "phonetic": "/'sʌmhau/",
+      "meaning": "ad.以某种方式，用某种方法；不知怎么地",
+      "similar": [
+        "somebody",
+        "somewhat"
+      ],
+      "question": {
+        "wordId": "somehow",
+        "stem": "选择 \"somehow\" 的正确中文意思：",
+        "correct": "ad.以某种方式，用某种方法；不知怎么地",
+        "options": [
+          "a.(for)足够的,充分的(比enough拘谨、正式)",
+          "pron.&ad.一点儿，几分",
+          "ad.以某种方式，用某种方法；不知怎么地",
+          "pron.某人，有人 n.重要人物"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "some（某个）+ how（方式、方法）→ 以某种方式或方法。核心动作：强调方式的不确定性或未知性。",
+        "similarWarning": "somebody（某人）强调人；somewhat（有点）强调程度；somehow强调方式或原因。",
+        "extendedMeaning": "不知怎么地（表示原因不明或意外），如：Somehow I knew he would come.（不知怎么地，我知道他会来。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "someone",
+      "word": "someone",
+      "phonetic": "/'sʌmˌwʌn/",
+      "meaning": "pron.某人(=somebody)",
+      "similar": [
+        "somebody",
+        "sometime"
+      ],
+      "question": {
+        "wordId": "someone",
+        "stem": "选择 \"someone\" 的正确中文意思：",
+        "correct": "pron.某人(=somebody)",
+        "options": [
+          "pron.某人(=somebody)",
+          "n.女侍者,女服务员",
+          "pron.某人，有人 n.重要人物",
+          "ad.将来(或过去)某个时候a.以前的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "some（某个）+ one（一个人）→ 某个不确定的人。直接复合词，无复杂词根演变。",
+        "similarWarning": "somebody：与someone同义，但somebody更口语化，且可作名词指“重要人物”。sometime：拼写不同，意为“某个时候”，指时间而非人。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "something",
+      "word": "something",
+      "phonetic": "/'sʌmθiŋ/",
+      "meaning": "pron.某事，某物；被视为有意义的事物",
+      "similar": [
+        "nothing",
+        "setting",
+        "sometime"
+      ],
+      "question": {
+        "wordId": "something",
+        "stem": "选择 \"something\" 的正确中文意思：",
+        "correct": "pron.某事，某物；被视为有意义的事物",
+        "options": [
+          "n.安置;落山;(固定东西的)柜架底座;环境",
+          "pron.某事，某物；被视为有意义的事物",
+          "n.没有东西；什么也没有；无关紧要的人或事",
+          "ad.将来(或过去)某个时候a.以前的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "复合词：some（某个）+ thing（事物），直指一个不确定或未明确指代的对象。核心动作是泛指而非特指。",
+        "similarWarning": "nothing（无物，pron.）：无前缀，词义相反。setting（环境，n.）：拼写差异为“setting”含“-ing”，词义为设置或环境。sometime（某个时间，adv.）：拼写差异为“sometime”含“time”，词义为时间点。注意：something 侧重事物，sometime 侧重时间。",
+        "extendedMeaning": "考研中常引申为“重要的人或事物”或“有意义的经历”，如：“He is really something.”（他真了不起。）或“There is something in what you said.”（你说的有些道理。）",
+        "examUsage": "常见考点搭配：something of（在某种程度上），如“He is something of a scholar.”（他算是个学者。）真题例句：\"Something of a success, the project was widely praised.\"（该项目相当成功，广受赞誉。）注意：something 在否定句或疑问句中常替换为 anything，但 something 在肯定句中表确定存在。"
+      }
+    },
+    {
+      "id": "sometime",
+      "word": "sometime",
+      "phonetic": "/'sʌmtaim/",
+      "meaning": "ad.将来(或过去)某个时候a.以前的",
+      "similar": [
+        "something",
+        "someone",
+        "lifetime",
+        "overtime"
+      ],
+      "question": {
+        "wordId": "sometime",
+        "stem": "选择 \"sometime\" 的正确中文意思：",
+        "correct": "ad.将来(或过去)某个时候a.以前的",
+        "options": [
+          "pron.某事，某物；被视为有意义的事物",
+          "ad.将来(或过去)某个时候a.以前的",
+          "pron.某人(=somebody)",
+          "n.一生,终生"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "some-（某个）+ time（时间）→ 某个不确定的时间点，副词表“在某个时候”；形容词用法源自副词，意为“以前的”，强调过去某个时间点担任某职务。",
+        "similarWarning": "sometime vs sometimes: sometime指某个不确定时间点（I will visit sometime），sometimes指频率“有时”（I sometimes visit）。something指事物，someone指某人，lifetime指一生，overtime指加班/超时。",
+        "extendedMeaning": "形容词“以前的”在考研真题中常修饰职位或身份，如“a sometime professor”（一位前教授），区别于“former”的正式性。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "somewhat",
+      "word": "somewhat",
+      "phonetic": "/'sʌmhwɔt/",
+      "meaning": "pron.&ad.一点儿，几分",
+      "similar": [
+        "somewhere",
+        "somehow"
+      ],
+      "question": {
+        "wordId": "somewhat",
+        "stem": "选择 \"somewhat\" 的正确中文意思：",
+        "correct": "pron.&ad.一点儿，几分",
+        "options": [
+          "v.隐藏,隐瞒,隐蔽",
+          "ad.以某种方式，用某种方法；不知怎么地",
+          "ad.某地，在某处；在附近，前后，大约",
+          "pron.&ad.一点儿，几分"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "some（某个）+ what（什么）→ 字面为“某个什么”，弱化为程度副词，表示“有几分，稍微”。",
+        "similarWarning": "somewhere（某处）侧重地点；somehow（以某种方式）侧重方法或原因；somewhat（稍微）侧重程度。",
+        "extendedMeaning": "考研中常作副词，修饰形容词或副词，表示“在某种程度上”，如“somewhat different”（略有不同）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "somewhere",
+      "word": "somewhere",
+      "phonetic": "/'sʌmhwεə/",
+      "meaning": "ad.某地，在某处；在附近，前后，大约",
+      "similar": [
+        "nowhere",
+        "somewhat",
+        "elsewhere"
+      ],
+      "question": {
+        "wordId": "somewhere",
+        "stem": "选择 \"somewhere\" 的正确中文意思：",
+        "correct": "ad.某地，在某处；在附近，前后，大约",
+        "options": [
+          "ad.某地，在某处；在附近，前后，大约",
+          "ad.任何地方都不,没有地方",
+          "pron.&ad.一点儿，几分",
+          "ad.在别处,向别处"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "some（某个）+ where（地方）→ 某个地方。核心物理动作：指示一个不确定或不具体的位置，引申为时间或数量上的模糊范围（大约）。",
+        "similarWarning": "nowhere（无处，no+where），somewhat（有点，some+what），elsewhere（别处，else+where）。注意与somewhere拼写差异：nowhere否定，somewhat指程度，elsewhere指其他地点。",
+        "extendedMeaning": "在考研中常表时间或数量的约数：somewhere around/ between（大约在…之间）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sophisticated",
+      "word": "sophisticated",
+      "phonetic": "/sə'fistikeitid/",
+      "meaning": "a.尖端的,复杂的,先进的;老练的,老于世故的",
+      "similar": [],
+      "question": {
+        "wordId": "sophisticated",
+        "stem": "选择 \"sophisticated\" 的正确中文意思：",
+        "correct": "a.尖端的,复杂的,先进的;老练的,老于世故的",
+        "options": [
+          "n.&v.(挖)沟，(挖)战壕",
+          "a.可怜的, 悲惨的",
+          "a./n.紫外线(的)",
+          "a.尖端的,复杂的,先进的;老练的,老于世故的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 soph- 意为“智慧”，-ist 表“人”，-ic 表“...的”，-ated 为形容词后缀。本义为“充满智慧的”，引申为“复杂的、精密的”（需要智慧才能理解），再引申为“老于世故的”（指人因智慧而圆滑）。核心动作：从智慧到复杂再到世故的语义演化。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常指“精密的、尖端的”（如 sophisticated technology），或“老练的、圆滑的”（如 sophisticated politician）。",
+        "examUsage": "高频搭配：sophisticated equipment（尖端设备）；sophisticated argument（复杂的论证）。真题示例：The sophisticated design of the new engine impressed the engineers.（新引擎的精密设计给工程师们留下了深刻印象。）"
+      }
+    },
+    {
+      "id": "sophomore",
+      "word": "sophomore",
+      "phonetic": "/'sɔfəmɔ:/",
+      "meaning": "(中学、大学)二年级学生",
+      "similar": [],
+      "question": {
+        "wordId": "sophomore",
+        "stem": "选择 \"sophomore\" 的正确中文意思：",
+        "correct": "(中学、大学)二年级学生",
+        "options": [
+          "(中学、大学)二年级学生",
+          "a.漂亮的,英俊的;慷慨的,数量可观的",
+          "n.恶意;怨恨",
+          "n.声明,陈述"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "soph-（智慧）+ more（傻瓜，源自希腊语moros“愚蠢”）。字面意为“聪明的傻瓜”，指处于似懂非懂阶段的二年级学生，既积累了一定知识（智慧），又远未成熟（愚蠢）。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sore",
+      "word": "sore",
+      "phonetic": "/sɔ:/",
+      "meaning": "a.疼痛的;痛心的 n.痛处,疮口",
+      "similar": [
+        "score",
+        "shore",
+        "ore",
+        "bore",
+        "core",
+        "fore",
+        "sole",
+        "ashore"
+      ],
+      "question": {
+        "wordId": "sore",
+        "stem": "选择 \"sore\" 的正确中文意思：",
+        "correct": "a.疼痛的;痛心的 n.痛处,疮口",
+        "options": [
+          "a.疼痛的;痛心的 n.痛处,疮口",
+          "n.矿石,矿砂",
+          "n.得分,分数;二十 v.得(分),记(…的)分数",
+          "n.海滨,湖滨"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "古英语sar，源自原始日耳曼语*saira-，本义为‘疼痛的、痛苦的’。核心物理动作是‘身体或情感上的创伤反应’，引申为‘痛处’或‘疮口’。",
+        "similarWarning": "score (s+core): ‘sore’无‘c’，指‘疼痛’；‘score’有‘c’，指‘分数、得分’。shore (s+hore): ‘sore’无‘h’，指‘疼痛’；‘shore’有‘h’，指‘海岸’。store (s+tore): ‘sore’无‘t’，指‘疼痛’；‘store’有‘t’，指‘商店、储存’。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sorrow",
+      "word": "sorrow",
+      "phonetic": "/'sɔrəu/",
+      "meaning": "n.悲衰,悲痛",
+      "similar": [
+        "borrow",
+        "arrow",
+        "horror",
+        "narrow"
+      ],
+      "question": {
+        "wordId": "sorrow",
+        "stem": "选择 \"sorrow\" 的正确中文意思：",
+        "correct": "n.悲衰,悲痛",
+        "options": [
+          "n.箭，矢，箭状物；箭头符号",
+          "vt.借，借入；(思想、文字等)采用，抄袭",
+          "n.恐怖,战栗",
+          "n.悲衰,悲痛"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语sorg，意为焦虑、悲伤。词源上可能与拉丁语solicitus（焦虑的）同源。核心动作是内心因失去或苦难而产生的沉重压迫感，与物理上的‘紧’或‘收缩’相关。",
+        "similarWarning": "borrow（借入）: b-开头，与借东西相关；arrow（箭）: a-开头，指武器；sorry（抱歉）: 拼写相似，但意为道歉或遗憾，常作形容词；horror（恐怖）: h-开头，强调惊吓；narrow（狭窄的）: n-开头，指宽度有限；tomorrow（明天）: t-开头，指时间。",
+        "extendedMeaning": "考研中常引申为‘令人悲伤的事或原因’，如‘the sorrows of war’（战争的悲痛），或作动词‘感到悲伤’（较少见）。",
+        "examUsage": "常与短语‘in sorrow’（悲伤地）搭配，或与‘joy’形成对比考点。真题中可能作为情感类阅读的题眼，如‘share one's sorrow’（分担悲伤）。"
+      }
+    },
+    {
+      "id": "soul",
+      "word": "soul",
+      "phonetic": "/səul/",
+      "meaning": "n.灵魂,心灵;精神,精力;人",
+      "similar": [
+        "foul",
+        "soil",
+        "soup",
+        "sour",
+        "mould",
+        "scout",
+        "shout",
+        "skull"
+      ],
+      "question": {
+        "wordId": "soul",
+        "stem": "选择 \"soul\" 的正确中文意思：",
+        "correct": "n.灵魂,心灵;精神,精力;人",
+        "options": [
+          "n.汤",
+          "n.泥土,土地,土壤 v.弄脏,(使)变脏",
+          "a.污秽的;邪恶的 v.弄脏;妨害;犯规 n.犯规",
+          "n.灵魂,心灵;精神,精力;人"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源自古英语sāwol，本义为‘灵魂、精神’，与德语Seele同源，核心意象为‘生命之气’或‘精神实体’，引申为人的内在本质或情感核心。",
+        "similarWarning": "foul（肮脏的），soil（土壤），soup（汤），sour（酸的），should（应该），could（可以），mould（霉菌），scout（侦察兵）。差异：soul以‘oul’结尾，强调精神性；foul以‘f’开头，意为污秽；soil以‘oi’开头，指泥土。",
+        "extendedMeaning": "考研僻义：指‘人’（如‘a poor soul’可怜的人）或‘精髓’（如‘the soul of a book’书的精髓），常出现在文学或抽象语境中。",
+        "examUsage": "常见于短语‘heart and soul’（全心全意），在真题中可能作为题眼考查情感或核心价值。"
+      }
+    },
+    {
+      "id": "soup",
+      "word": "soup",
+      "phonetic": "/su:p/",
+      "meaning": "n.汤",
+      "similar": [
+        "soap",
+        "soul",
+        "sour",
+        "scout",
+        "shout",
+        "stoop"
+      ],
+      "question": {
+        "wordId": "soup",
+        "stem": "选择 \"soup\" 的正确中文意思：",
+        "correct": "n.汤",
+        "options": [
+          "n.灵魂,心灵;精神,精力;人",
+          "a.酸的;发酸的;酸痛的;脾气坏的;刻薄的",
+          "n.肥皂",
+          "n.汤"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自日耳曼语系，与‘sup’（啜饮）同源，本义为‘用勺子舀着吃的食物’，核心动作是‘吸食液体食物’。",
+        "similarWarning": "soap（肥皂）：字母p换为a，词义从‘汤’变为‘肥皂’；soul（灵魂）：字母p换为l，且元音不同；sour（酸的）：字母p换为r，词性变为形容词。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sour",
+      "word": "sour",
+      "phonetic": "/'sauə(r)/",
+      "meaning": "a.酸的;发酸的;酸痛的;脾气坏的;刻薄的",
+      "similar": [
+        "four",
+        "pour",
+        "soar",
+        "soul",
+        "soup",
+        "spur",
+        "tour",
+        "source"
+      ],
+      "question": {
+        "wordId": "sour",
+        "stem": "选择 \"sour\" 的正确中文意思：",
+        "correct": "a.酸的;发酸的;酸痛的;脾气坏的;刻薄的",
+        "options": [
+          "vi.(指鸟等)高飞，翱翔；飞涨；高耸",
+          "v.灌注, 倾泻, 涌入, 流, 倾盆大雨",
+          "num.四 pron./a.四(个，只...)",
+          "a.酸的;发酸的;酸痛的;脾气坏的;刻薄的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语sūr，与古高德语sūr同源，核心物理动作为“发酵变酸”。酸味刺激味蕾收缩，引申为“脾气酸臭、刻薄”，如情绪发酵后的负面状态。",
+        "similarWarning": "sour vs. soar: sour是酸味，soar是翱翔（字母u vs. a，动作向上）；sour vs. soul: soul是灵魂（加l，抽象本质）；sour vs. soup: soup是汤（加p，食物）。",
+        "extendedMeaning": "在考研阅读中，sour常引申为“（关系、经济、局势）恶化、变糟”，如a sour economy（经济低迷），而非仅指味觉。",
+        "examUsage": "真题中常考短语：go/turn sour（变坏、失败），如“The plan turned sour.”；搭配sour grapes（酸葡萄心理）也偶见。"
+      }
+    },
+    {
+      "id": "source",
+      "word": "source",
+      "phonetic": "/sɔ:s/",
+      "meaning": "n.源,源泉;来源,出处",
+      "similar": [
+        "resource",
+        "sore",
+        "sour",
+        "ounce",
+        "sauce",
+        "surge",
+        "bounce",
+        "scarce"
+      ],
+      "question": {
+        "wordId": "source",
+        "stem": "选择 \"source\" 的正确中文意思：",
+        "correct": "n.源,源泉;来源,出处",
+        "options": [
+          "a.酸的;发酸的;酸痛的;脾气坏的;刻薄的",
+          "n.(pl.)资源,财力;办法,智谋;应变之才",
+          "n.源,源泉;来源,出处",
+          "a.疼痛的;痛心的 n.痛处,疮口"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根surg-（升起、来源）的变体，源自拉丁语surgere（上升、起源），本义为“水从地下涌出的起点”，引申为“源头、出处”。",
+        "similarWarning": "source vs. resource: resource = re-（再次）+ source（源头），强调“可再生的资源”或“备用来源”。source vs. sauce: sauce（酱汁）多一个字母a，源自盐（salt），与“源头”无关。source vs. sore: sore（疼痛的）少一个字母u，音近但义远。",
+        "extendedMeaning": "在考研中常指“原始资料、文献出处”（如primary source一手资料），或“原因、根源”（如the source of the problem）。",
+        "examUsage": "固定搭配：at source（在源头/发源地）；source code（源代码，科技类阅读高频词）。真题例句：The source of the error was traced to a faulty algorithm.（错误根源追溯到有缺陷的算法。）"
+      }
+    },
+    {
+      "id": "southeast",
+      "word": "southeast",
+      "phonetic": "/ˌsauθ'i:st/",
+      "meaning": "n./a.东南(的),东南部(的)",
+      "similar": [
+        "northeast",
+        "southwest",
+        "southern"
+      ],
+      "question": {
+        "wordId": "southeast",
+        "stem": "选择 \"southeast\" 的正确中文意思：",
+        "correct": "n./a.东南(的),东南部(的)",
+        "options": [
+          "a.南方的,南部的",
+          "n./a.东南(的),东南部(的)",
+          "n.东北 a.东北方的 ad.向东北,在东北",
+          "n./a.西南(的),西南部(的)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "south（南）+ east（东）→ 南与东的中间方向，即东南。复合词，词义直观，无复杂演变。",
+        "similarWarning": "northeast（东北）：north（北）+ east（东）；southwest（西南）：south（南）+ west（西）；southern（南方的）：后缀-ern表示方向性。注意southeast与southwest方向相反，拼写差异在第二音节。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "southern",
+      "word": "southern",
+      "phonetic": "/'sʌðən/",
+      "meaning": "a.南方的,南部的",
+      "similar": [
+        "northern",
+        "southeast",
+        "southwest",
+        "bother",
+        "shutter"
+      ],
+      "question": {
+        "wordId": "southern",
+        "stem": "选择 \"southern\" 的正确中文意思：",
+        "correct": "a.南方的,南部的",
+        "options": [
+          "a.北方的,北部的",
+          "n./a.西南(的),西南部(的)",
+          "a.南方的,南部的",
+          "n./a.东南(的),东南部(的)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自古英语‘sūþerne’，由sūþ（南方）加后缀-erne（表示方向）构成，核心动作指向地理方位上的南方。",
+        "similarWarning": "形近词对比：northern（北方的）与southern仅首字母不同，分别指代南北方向；bother（打扰）与southern拼写相似但无词源关联，bother侧重动作干扰。",
+        "extendedMeaning": "在考研阅读中可引申为‘南部的地区特征或文化属性’，如‘Southern states’（美国南部各州）常涉及历史或经济语境。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "southwest",
+      "word": "southwest",
+      "phonetic": "/ˌsauθ'west/",
+      "meaning": "n./a.西南(的),西南部(的)",
+      "similar": [
+        "northwest",
+        "southeast",
+        "southern"
+      ],
+      "question": {
+        "wordId": "southwest",
+        "stem": "选择 \"southwest\" 的正确中文意思：",
+        "correct": "n./a.西南(的),西南部(的)",
+        "options": [
+          "n./a.东南(的),东南部(的)",
+          "n.西北方,西北部a.西北的ad.向西北,在西北",
+          "n./a.西南(的),西南部(的)",
+          "a.南方的,南部的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "south（南）+ west（西）→ 西南方向。复合词，直接组合词根表示方位。",
+        "similarWarning": "northwest（西北，north+west）；southeast（东南，south+east）；southern（南方的，south+ern形容词后缀）。与southwest拼写差异在第二个词根：west vs east / north / ern。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sovereign",
+      "word": "sovereign",
+      "phonetic": "/'sɔvərin/",
+      "meaning": "a.独立的，有主权的 n.君主，国王，统治者",
+      "similar": [
+        "conversion"
+      ],
+      "question": {
+        "wordId": "sovereign",
+        "stem": "选择 \"sovereign\" 的正确中文意思：",
+        "correct": "a.独立的，有主权的 n.君主，国王，统治者",
+        "options": [
+          "n.熊猫",
+          "n.战争(状态);斗争;冲突",
+          "n.转变，转换；信仰的改变；",
+          "a.独立的，有主权的 n.君主，国王，统治者"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根sover-源于拉丁语super（在上），结合-reign（统治），核心物理动作是“凌驾于众人之上统治”。主权者即拥有最高权力、不受外力支配的个体或实体。",
+        "similarWarning": "foreign（外国的）：sovereign强调内部最高统治权，foreign侧重外部或异域。conversion（转换）：sovereign与conversion拼写差异大，但易混淆在词尾-reign与-version，注意sovereign含“统治”义，conversion含“转变”义。",
+        "extendedMeaning": "（考研僻义）独立性、自主性：如sovereign state（主权国家），引申为“完全自主的、不受干预的”。",
+        "examUsage": "真题考点：sovereign常作形容词，与authority（权威）、power（权力）搭配，如sovereign authority（最高权威）。干扰项常与autonomous（自治的）、independent（独立的）混淆，注意sovereign更强调法律上的最高性与不可分割性。例句：The sovereign state refused to accept any external interference.（这个主权国家拒绝接受任何外部干涉。）"
+      }
+    },
+    {
+      "id": "sow",
+      "word": "sow",
+      "phonetic": "/səu/",
+      "meaning": "v.播种",
+      "similar": [
+        "slow",
+        "bow",
+        "cow",
+        "how",
+        "row",
+        "saw",
+        "sew",
+        "sob"
+      ],
+      "question": {
+        "wordId": "sow",
+        "stem": "选择 \"sow\" 的正确中文意思：",
+        "correct": "v.播种",
+        "options": [
+          "v.播种",
+          "a.慢的,不活跃的 v.(down)(使)放慢,减速",
+          "v./n.鞠躬,点头 n.弓(形);蝴蝶结",
+          "n.母牛,奶牛"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根sow-来自古英语sawan，意为“播种”，核心物理动作是将种子撒入土中。",
+        "similarWarning": "show（展示，s+how）；slow（慢的，s+low）；snow（雪，s+now）；bow（鞠躬，b+ow）；cow（母牛，c+ow）；how（如何，h+ow）；low（低的，l+ow）；so（所以，s+o）。拼写差异主要在首字母，注意sow特指播种，避免与show混淆。",
+        "extendedMeaning": "考研中sow可引申为“散布，传播（思想、情绪等）”，如sow discord（散布不和），sow doubt（引起怀疑）。",
+        "examUsage": "真题常考搭配sow the seeds of（播下……的种子），如sow the seeds of success（奠定成功的基础）。注意与reap（收获）对比，构成因果逻辑链。"
+      }
+    }
+  ]
+}

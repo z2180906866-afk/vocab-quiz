@@ -1,0 +1,1750 @@
+{
+  "batchId": 60,
+  "words": [
+    {
+      "id": "postcard",
+      "word": "postcard",
+      "phonetic": "/'pəustka:d/",
+      "meaning": "n.明信片",
+      "similar": [
+        "poster",
+        "discard",
+        "outward",
+        "postage",
+        "postman",
+        "posture"
+      ],
+      "question": {
+        "wordId": "postcard",
+        "stem": "选择 \"postcard\" 的正确中文意思：",
+        "correct": "n.明信片",
+        "options": [
+          "a.外面的,公开的,向外的ad.向外,在外n.外表",
+          "vt.丢弃，抛弃，遗弃",
+          "n海报,张贴的大幅广告",
+          "n.明信片"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "post-（邮政）+ card（卡片）→ 通过邮政系统寄送的卡片，即明信片。",
+        "similarWarning": "poster（海报）与postcard拼写差异在末尾“-er”vs“-card”，词义不同；discard（丢弃）前缀dis-（去掉）+ card，与postcard无直接关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "poster",
+      "word": "poster",
+      "phonetic": "/'pəustə/",
+      "meaning": "n海报,张贴的大幅广告",
+      "similar": [
+        "foster",
+        "porter",
+        "monster",
+        "plaster",
+        "posture",
+        "prosper",
+        "pose",
+        "post"
+      ],
+      "question": {
+        "wordId": "poster",
+        "stem": "选择 \"poster\" 的正确中文意思：",
+        "correct": "n海报,张贴的大幅广告",
+        "options": [
+          "n海报,张贴的大幅广告",
+          "vt.养育;收养;怀抱;鼓励 a.收养的 n.养育者",
+          "n.守门人,门房,行李搬运工,服务员",
+          "n.怪物,妖怪,畸形的动植物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "post-（放置、张贴）+ -er（表示人或物）→ 张贴出来的东西 → 海报、大幅广告。核心动作是“张贴”，强调通过物理方式展示信息。",
+        "similarWarning": "foster（v. 培养；收养） vs poster：foster以f开头，强调养育；poster以p开头，强调张贴。porter（n. 搬运工） vs poster：porter以er结尾表人，poster以er结尾表物。monster（n. 怪物） vs poster：monster以m开头，拼写差异大，但易混淆。plaster（n. 灰泥；膏药） vs poster：plaster含字母l，指涂抹材料；poster指纸张。posture（n. 姿势） vs poster：posture含字母u，强调姿态；poster强调张贴物。prosper（v. 繁荣） vs poster：prosper以pro开头，强调成功；poster以post开头。pose（v./n. 姿势；假装） vs poster：pose是poster的词根，但无-er后缀。post（n./v. 邮政；岗位） vs poster：post是基础词，poster是其派生词。",
+        "extendedMeaning": "在考研阅读中，poster可引申为“宣传者、倡导者”或“张贴海报的人”，但较少见。常见僻义为“（互联网论坛上的）发帖人”，如：an online poster（网络发帖���）。",
+        "examUsage": "考研真题中常考查poster作为“海报”的本义，如：The poster campaign aims to raise awareness.（海报宣传活动旨在提高意识。）无特殊复杂考点，但需注意与poster相关的搭配：put up a poster（张贴海报），poster boy/girl（典型代表）。"
+      }
+    },
+    {
+      "id": "postman",
+      "word": "postman",
+      "phonetic": "/'pəustmən/",
+      "meaning": "n.邮递员",
+      "similar": [
+        "sportsman",
+        "postcard",
+        "postpone"
+      ],
+      "question": {
+        "wordId": "postman",
+        "stem": "选择 \"postman\" 的正确中文意思：",
+        "correct": "n.邮递员",
+        "options": [
+          "n.邮递员",
+          "n.爱好运动的人；运动员",
+          "v.推迟,延期",
+          "n.明信片"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "post-（邮政）+ man（人）→ 从事邮政工作的人 → 邮递员。",
+        "similarWarning": "sportsman（运动员）与 postman 仅前缀不同，sport-（运动） vs post-（邮政）；position（位置）与 postman 拼写差异大，但易混淆，注意 -ition 后缀 vs -man。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "postpone",
+      "word": "postpone",
+      "phonetic": "/pəust'pəun/",
+      "meaning": "v.推迟,延期",
+      "similar": [
+        "piston",
+        "portion",
+        "postage",
+        "postman",
+        "posture"
+      ],
+      "question": {
+        "wordId": "postpone",
+        "stem": "选择 \"postpone\" 的正确中文意思：",
+        "correct": "v.推迟,延期",
+        "options": [
+          "v.推迟,延期",
+          "n.邮费,邮资",
+          "n.活塞",
+          "n.一部分,一份"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "post-（后）+ -pone（放置）= 放到后面 → 推迟、延期。核心动作：将某事在时间线上向后移动。",
+        "similarWarning": "piston（活塞）、portion（部分）、postage（邮资）、postman（邮递员）、posture（姿势）、position（位置）——注意postpone中“pone”表放置，区别于其他以post-开头的词（如postage表邮资）或形近词（如piston表机械部件）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "posture",
+      "word": "posture",
+      "phonetic": "/'pɔstʃə/",
+      "meaning": "n.姿势,姿态,心态,态度 v.作出某种姿势",
+      "similar": [
+        "pasture",
+        "moisture",
+        "poster",
+        "costume",
+        "gesture",
+        "postage",
+        "torture",
+        "exposure"
+      ],
+      "question": {
+        "wordId": "posture",
+        "stem": "选择 \"posture\" 的正确中文意思：",
+        "correct": "n.姿势,姿态,心态,态度 v.作出某种姿势",
+        "options": [
+          "n.姿势,姿态,心态,态度 v.作出某种姿势",
+          "n海报,张贴的大幅广告",
+          "n.牧草地,牧场",
+          "n.潮湿,湿气,湿度"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'ponere'（放置）的过去分词 'positus'，加上名词后缀 '-ure'，表示‘放置的方式’。核心物理动作是‘摆放身体’，引申为‘身体姿态’，再抽象为‘心态、态度’。",
+        "similarWarning": "pasture（牧场，词根 'past-' 意为‘放牧’）；poster（海报，词根 'post-' 意为‘张贴’）；costume（服装，词根 'cost-' 意为‘习惯’）。",
+        "extendedMeaning": "考研僻义：指‘心态、态度’（如a positive posture toward life），或‘故作姿态’（如strike a posture）。",
+        "examUsage": "真题考点：常考搭配 'adopt a posture of...'（采取...姿态），或 'posture as'（假装成...）。例如：The government adopted a defensive posture on the issue.（政府在该问题上采取防御姿态。）"
+      }
+    },
+    {
+      "id": "pot",
+      "word": "pot",
+      "phonetic": "/pɔt/",
+      "meaning": "n.罐,壶",
+      "similar": [
+        "plot",
+        "poet",
+        "port",
+        "post",
+        "spot",
+        "dot",
+        "lot",
+        "pat"
+      ],
+      "question": {
+        "wordId": "pot",
+        "stem": "选择 \"pot\" 的正确中文意思：",
+        "correct": "n.罐,壶",
+        "options": [
+          "n.秘密计划;情节 v.标绘,绘制;密谋,策划",
+          "n.诗人",
+          "n.罐,壶",
+          "n.港口"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自原始印欧语词根 *pō-（喝、饮）。核心物理动作是用容器盛装液体以饮用。pot最初指用于烹饪或盛装液体的大口容器，后泛指各种罐、壶、锅。",
+        "similarWarning": "plot（情节；阴谋；计划）与pot相比多了一个字母l；poet（诗人）与pot相比元音不同且多一个e；port（港口；端口）与pot相比多一个r；post（邮政；岗位；张贴）与pot相比多一个s；spot（地点；斑点；认出）与pot相比多一个s；dot（点；小圆点）与pot相比首字母不同；hot（热的）与pot相比首字母不同；lot（许多；命运；一块地）与pot相比首字母不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "potato",
+      "word": "potato",
+      "phonetic": "/pə'teitəu/",
+      "meaning": "n.马铃薯,土豆",
+      "similar": [
+        "rotate",
+        "tomato"
+      ],
+      "question": {
+        "wordId": "potato",
+        "stem": "选择 \"potato\" 的正确中文意思：",
+        "correct": "n.马铃薯,土豆",
+        "options": [
+          "v.察觉,感知;理解,领悟",
+          "n.西红柿",
+          "v.(使)旋转",
+          "n.马铃薯,土豆"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自西班牙语patata，原指甘薯，后指马铃薯。词源无复杂构词，直接记忆。",
+        "similarWarning": "rotate v.旋转（r-旋转动作）；tomato n.番茄（t-音近）。potato与tomato拼写差异：p/t开头，t/t结尾，中间o-a-o与o-a-o相似但元音不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "potential",
+      "word": "potential",
+      "phonetic": "/pəu'tenʃəl/",
+      "meaning": "a.潜在的,可能的 n.潜能,潜力",
+      "similar": [
+        "essential",
+        "credential"
+      ],
+      "question": {
+        "wordId": "potential",
+        "stem": "选择 \"potential\" 的正确中文意思：",
+        "correct": "a.潜在的,可能的 n.潜能,潜力",
+        "options": [
+          "a.潜在的,可能的 n.潜能,潜力",
+          "a.本质的,基本的;净化的 n.本质;要素",
+          "n.凭证，(pl.)国书，证明书",
+          "n.英里，哩，海里"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'potentia'（力量、能力），由'posse'（能够，由potis（有能力的）+esse（存在）合成）演变而来。核心物理动作为“具备存在的能力或力量”，即处于未完全展现但内蕴可能性的状态。",
+        "similarWarning": "essential (a.本质的，必要的；词根ess-存在) vs potential (a.潜在的；词根pot-能力)：前者强调“本质存在性”，后者强调“潜在可能性”。credential (n.凭证；词根cred-信任) vs potential：前者指证明信任的文件，后者指未发挥的能力。",
+        "extendedMeaning": "在考研英语中常引申为“电势、电位”（物理学语境），如'potential difference'（电位差）；或指“可能性”（统计学/经济语境），如'growth potential'（增长潜力）。",
+        "examUsage": "真题高频搭配：'realize one's potential'（发挥潜力）、'potential risks'（潜在风险）。常作干扰项，与'latent'（潜伏的）辨析：potential强调可发展的能力，latent强调隐藏未显的状态。"
+      }
+    },
+    {
+      "id": "poultry",
+      "word": "poultry",
+      "phonetic": "/'pəultri/",
+      "meaning": "n.家禽",
+      "similar": [
+        "poetry"
+      ],
+      "question": {
+        "wordId": "poultry",
+        "stem": "选择 \"poultry\" 的正确中文意思：",
+        "correct": "n.家禽",
+        "options": [
+          "a./n.受爱戴的,敬爱的;爱人,被心爱的人",
+          "n.骚扰，扰乱；烦恼，烦乱",
+          "n.诗歌,诗集",
+          "n.家禽"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语pullus（幼小动物）→古法语poulet（小鸡）→poultry（家禽），核心动作为“饲养的幼禽”，与pullet（小母鸡）同源。",
+        "similarWarning": "poetry（诗歌，-etry后缀） vs poultry（家禽，-try后缀）。country（国家/乡村，-try后缀） vs poultry（poul-前缀不同）。",
+        "extendedMeaning": "考研中常指“禽肉”（如poultry products），非活禽。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pound",
+      "word": "pound",
+      "phonetic": "/paund/",
+      "meaning": "n.磅;英镑 v.(连续)猛击,(猛烈)敲打,捣碎",
+      "similar": [
+        "pond",
+        "bound",
+        "found",
+        "hound",
+        "wound",
+        "abound",
+        "around",
+        "ground"
+      ],
+      "question": {
+        "wordId": "pound",
+        "stem": "选择 \"pound\" 的正确中文意思：",
+        "correct": "n.磅;英镑 v.(连续)猛击,(猛烈)敲打,捣碎",
+        "options": [
+          "vt.建立;创立;创办;使有根据;铸造;熔制",
+          "v./n.跳(跃) a.被束缚的，一定的；n.界限",
+          "n.池塘",
+          "n.磅;英镑 v.(连续)猛击,(猛烈)敲打,捣碎"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'pondus'（重量），后派生为名词'磅'（重量单位）和'英镑'（货币单位）。动词义来自古英语'pūnian'（捣碎、敲打），核心物理动作为'用重物反复击打'，与名词'重量'的本源相通——用一定重量的物体反复砸击。",
+        "similarWarning": "pound vs. pond（池塘，仅差字母'r'→'n'）：pound有'r'表'重击'，pond无'r'是'水塘'。pound vs. bound（边界/跳跃，开头字母'b'替换'p'）：bound有'边界'义，pound无。pound vs. found（建立，开头字母'f'替换'p'）：found是'发现/创立'，pound无。",
+        "extendedMeaning": "考研僻义：v. 持续不断地（发出巨大声响）跳动/震动，如'My heart pounded with excitement.'（因激动心脏怦怦直跳）；n. 动物收容所（如'dog pound'），源自'圈禁'的引申。",
+        "examUsage": "真题考点：'pound out'（敲打出/费力写出），如'The committee pounded out a compromise.'（委员会费力达成妥协）；'pound away at'（持续猛攻/努力做），常用于完形填空或阅读中的动作描写。"
+      }
+    },
+    {
+      "id": "pour",
+      "word": "pour",
+      "phonetic": "/pɔ:/",
+      "meaning": "v.灌注, 倾泻, 涌入, 流, 倾盆大雨",
+      "similar": [
+        "four",
+        "sour",
+        "tour",
+        "vapour",
+        "court",
+        "flour",
+        "mourn",
+        "polar"
+      ],
+      "question": {
+        "wordId": "pour",
+        "stem": "选择 \"pour\" 的正确中文意思：",
+        "correct": "v.灌注, 倾泻, 涌入, 流, 倾盆大雨",
+        "options": [
+          "a.酸的;发酸的;酸痛的;脾气坏的;刻薄的",
+          "n.旅游，旅行；巡回演出/比赛 v.旅游",
+          "num.四 pron./a.四(个，只...)",
+          "v.灌注, 倾泻, 涌入, 流, 倾盆大雨"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为拉丁语'purus'（纯净），但引申义源自拟声词根，模拟液体倾倒时的声音。核心物理动作：液体连续不断从容器中流出，强调大量、快速、不可控的流动。",
+        "similarWarning": "pour vs. poor (贫穷的): pour有字母'u'，poor有双'o'，注意拼写差异。",
+        "extendedMeaning": "（在考研中常引申）① 涌出，大量涌入（如人群、资金、信息等）：The crowd poured into the stadium. ② 倾泻（非物理意义上的大量释放）：He poured out his feelings. ③ 倾盆大雨：It poured all night.",
+        "examUsage": "（常见考点）① pour into/out of 涌入/涌出（常考搭配）② pour cold water on 泼冷水（固定短语）③ 真题例句：The government poured money into the project.（政府向该项目投入大量资金）"
+      }
+    },
+    {
+      "id": "poverty",
+      "word": "poverty",
+      "phonetic": "/'pɔvəti/",
+      "meaning": "n.贫穷,贫困",
+      "similar": [
+        "novelty"
+      ],
+      "question": {
+        "wordId": "poverty",
+        "stem": "选择 \"poverty\" 的正确中文意思：",
+        "correct": "n.贫穷,贫困",
+        "options": [
+          "n.贫穷,贫困",
+          "n.新奇,新颖,新奇的事物",
+          "n.臭氧；(海岸等的)新鲜空气",
+          "n.大小,数量;巨大,广大"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 paupertas，由 pauper (贫穷的) + -ty (名词后缀) 构成，核心动作是“缺乏财富资源的状态”，强调物质或经济上的匮乏。",
+        "similarWarning": "property (财产)：poverty 以 -ty 结尾，property 以 -ty 结尾但前有 proper (自己的)；novelty (新奇)：poverty 以 -ty 结尾，novelty 有 novel (新的) 词根。辨析：poverty 指贫穷，property 指财产，novelty 指新奇事物。",
+        "extendedMeaning": "在考研外刊中可引申为“缺乏、贫乏”，如 poverty of imagination (想象力贫乏)、poverty of resources (资源匮乏)，强调抽象层面的不足。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "powder",
+      "word": "powder",
+      "phonetic": "/'paudə/",
+      "meaning": "n.粉末,药粉;火药,炸药",
+      "similar": [
+        "ponder",
+        "lower",
+        "owner",
+        "tower",
+        "border",
+        "holder",
+        "porter",
+        "poster"
+      ],
+      "question": {
+        "wordId": "powder",
+        "stem": "选择 \"powder\" 的正确中文意思：",
+        "correct": "n.粉末,药粉;火药,炸药",
+        "options": [
+          "n.物主,所有者",
+          "n.粉末,药粉;火药,炸药",
+          "a.较低的,下级的,下游的 v.降下,放低",
+          "v.沉思,考虑"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根源于拉丁语pulvis（灰尘），经古法语poudre演变为powder。核心动作是“将固体粉碎成微小颗粒”，引申为粉末状物质，如药粉、火药。",
+        "similarWarning": "power（权力，力量）vs powder（粉末）：power无字母d；ponder（沉思）vs powder：ponder以der结尾，powder以der结尾但多w；lower（降低）vs powder：lower无p；order（命令）vs powder：order无p；owner（所有者）vs powder：owner无p；tower（塔）vs powder：tower无p；border（边界）vs powder：border无p；holder（持有者）vs powder：holder无p。",
+        "extendedMeaning": "在考研阅读中，powder可引申为“火药”的象征，如“gunpowder”（火药），或“粉末状物质”的抽象用法，如“baby powder”（爽身粉），但无高难度僻义。",
+        "examUsage": "常见搭配：keep one's powder dry（保持警惕，时刻准备），源自火药需保持干燥才能点燃的典故，在真题中可能作为文化背景题眼出现。"
+      }
+    },
+    {
+      "id": "powerful",
+      "word": "powerful",
+      "phonetic": "/'pauəful/",
+      "meaning": "a.强大的,有力的,有权的",
+      "similar": [
+        "wonderful",
+        "hopeful"
+      ],
+      "question": {
+        "wordId": "powerful",
+        "stem": "选择 \"powerful\" 的正确中文意思：",
+        "correct": "a.强大的,有力的,有权的",
+        "options": [
+          "a.确切的,正确的,精确的",
+          "a.给人希望的，抱有希望的",
+          "a.惊人的,奇妙的;极好的",
+          "a.强大的,有力的,有权的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自power（力量）+ -ful（充满…的），字面意为“充满力量的”，强调拥有或能施加巨大力量、权力或影响力的状态。",
+        "similarWarning": "形近词对比：wonderful（wonder奇迹+ful，意为“精彩的、奇妙的”），hopeful（hope希望+ful，意为“有希望的”）。与powerful仅首音节不同，需注意拼写差异。",
+        "extendedMeaning": "在考研语境中，常引申为“有说服力的、效力强的”，如a powerful argument（有力的论据）或a powerful drug（强效药物）。",
+        "examUsage": "真题中常与influence, effect, weapon等搭配，如powerful influence（强大影响），或作为形容词修饰抽象名词，如powerful evidence（有力证据）。"
+      }
+    },
+    {
+      "id": "practical",
+      "word": "practical",
+      "phonetic": "/'præktikəl/",
+      "meaning": "a.实际的,实用的",
+      "similar": [
+        "practically",
+        "partial",
+        "radical",
+        "critical",
+        "practise",
+        "political",
+        "electrical",
+        "periodical"
+      ],
+      "question": {
+        "wordId": "practical",
+        "stem": "选择 \"practical\" 的正确中文意思：",
+        "correct": "a.实际的,实用的",
+        "options": [
+          "a.实际的,实用的",
+          "ad.几乎,实际上,简直",
+          "a.部分的,不完全的;偏袒的,不公平的,偏爱的",
+          "a.基本的,重要的;激进的,极端的;根本的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自希腊语 praktikos (实践的)，由 prattein (做、行动) + -ical (形容词后缀) 构成。核心动作是“做”，强调与行动、实际应用相关，而非理论或空想。",
+        "similarWarning": "practical (实际的) vs. practice (练习/实践，名词/动词) vs. practically (几乎/实际上，副词)。差异：-ical 为形容词后缀，-ice 为名词/动词后缀，-ly 为副词后缀。",
+        "extendedMeaning": "在考研中，practical 可引申为“可行的、有效用的”，如 practical solution (切实可行的解决方案)。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "practically",
+      "word": "practically",
+      "phonetic": "/'præktikəli/",
+      "meaning": "ad.几乎,实际上,简直",
+      "similar": [
+        "practical"
+      ],
+      "question": {
+        "wordId": "practically",
+        "stem": "选择 \"practically\" 的正确中文意思：",
+        "correct": "ad.几乎,实际上,简直",
+        "options": [
+          "n.圆周,周围",
+          "a.古怪的,异常的;特殊的,特有的",
+          "a.实际的,实用的",
+          "ad.几乎,实际上,简直"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语‘praktikos’（实践的、行动的），后缀‘-ally’构成副词。词根‘pract-’强调‘做、行动’，核心逻辑是从‘实际去做’引申为‘在效果上等同于’，即‘几乎、实际上’。",
+        "similarWarning": "practically vs. practically（无显性形近词，仅与practical拼写相似，但practical为形容词，practically为副词，注意词性差异）。",
+        "extendedMeaning": "在考研真题中，practically常表‘几乎’（同almost），如‘practically impossible’（几乎不可能），而非仅指‘实际上’。",
+        "examUsage": "常见搭配‘practically speaking’（实际上说），真题例句：‘The project was practically finished when the funding was cut.’（项目在资金被砍时几乎已完成。）注意与‘virtually’（几乎）同义替换考查。"
+      }
+    },
+    {
+      "id": "practise",
+      "word": "practise",
+      "phonetic": "/'præktis/",
+      "meaning": "v.练习,实习,实践,实行,使...练习,训练",
+      "similar": [
+        "praise",
+        "precise",
+        "practical",
+        "active",
+        "pastime",
+        "premise",
+        "promise",
+        "fraction"
+      ],
+      "question": {
+        "wordId": "practise",
+        "stem": "选择 \"practise\" 的正确中文意思：",
+        "correct": "v.练习,实习,实践,实行,使...练习,训练",
+        "options": [
+          "a.实际的,实用的",
+          "v.赞扬,歌颂;表扬 n.称赞,赞美;赞美的话",
+          "a.精确的,准确的",
+          "v.练习,实习,实践,实行,使...练习,训练"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'practicus'（实践的），进一步来自希腊语 'praktikos'（关于行动的），词根 'prag-' 或 'prakt-' 意为 '做、行动'。核心动作：反复做以熟练，强调将理论转化为行动的过程。",
+        "similarWarning": "practice（n.练习/实践；v.美式拼写同practise）——practise为英式动词拼写；precise（adj.精确的）——practise侧重行动，precise强调准确度；premise（n.前提）——practise重实践，premise重逻辑基础。",
+        "extendedMeaning": "在考研阅读中，常引申为'遵循、奉行（原则/习惯）'，如practise a policy（奉行政策），非仅指具体动作练习。",
+        "examUsage": "核心搭配：practise doing sth.（练习做某事）；真题考点：practise后接动名词，不接不定式，如'practise speaking English'。"
+      }
+    },
+    {
+      "id": "practitioner",
+      "word": "practitioner",
+      "phonetic": "/præk'tɪʃənə(r)/",
+      "meaning": "n.实践者，从事者；(医生或律师等)开业者",
+      "similar": [],
+      "question": {
+        "wordId": "practitioner",
+        "stem": "选择 \"practitioner\" 的正确中文意思：",
+        "correct": "n.实践者，从事者；(医生或律师等)开业者",
+        "options": [
+          "n.实践者，从事者；(医生或律师等)开业者",
+          "n.意见,看法,主张",
+          "vt.钦佩,赞赏,羡慕；称赞,夸奖",
+          "v./n.请求,要求"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自 practice（实践）+ -ion-（连接字母）+ -er（人），字面意为“从事实践的人”。核心动作是“将理论应用于实际行动”，引申为在某一领域（尤指医疗、法律等专业）有实际执业资格的人。",
+        "similarWarning": "",
+        "extendedMeaning": "考研中常考其“专业人士”的深层含义，尤其指经过系统训练、具备执业资格的人，区别于普通“实践者”。",
+        "examUsage": "常见搭配：general practitioner（全科医生）、legal practitioner（法律从业者）。真题中常作为“专家”或“执业者”的同义替换出现。"
+      }
+    },
+    {
+      "id": "praise",
+      "word": "praise",
+      "phonetic": "/preiz/",
+      "meaning": "v.赞扬,歌颂;表扬 n.称赞,赞美;赞美的话",
+      "similar": [
+        "raise",
+        "practise",
+        "precise",
+        "premise",
+        "promise",
+        "arise",
+        "erase",
+        "pause"
+      ],
+      "question": {
+        "wordId": "praise",
+        "stem": "选择 \"praise\" 的正确中文意思：",
+        "correct": "v.赞扬,歌颂;表扬 n.称赞,赞美;赞美的话",
+        "options": [
+          "a.精确的,准确的",
+          "v.练习,实习,实践,实行,使...练习,训练",
+          "v.举起,提升;增加;饲养;引起;竖起;提出",
+          "v.赞扬,歌颂;表扬 n.称赞,赞美;赞美的话"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为拉丁语pretiare（估价，珍视），源自pretium（价格，价值）。praise本义是“估价”，引申为“高度评价、赞美”，核心动作是对某物赋予高价值。",
+        "similarWarning": "praise vs raise：praise含p（前缀per-“完全”的简化），侧重“完全估价”即赞美；raise无p，直接来自古诺尔斯语reisa，意为“举起”。praise vs precise：precise含cis-（切），意为“预先切好”即精确；praise无此义。praise vs premise：premise含mis-（发送），意为“放在前面”即前提；praise无。praise vs promise：promise含mis-（发送），意为“提前发出”即承诺；praise无。",
+        "extendedMeaning": "考研僻义：在真题中偶尔出现“赞美（作为抽象名词，与批评相对）”的语境，如“in praise of”（赞颂……），但无罕见僻义。",
+        "examUsage": "考点：常与criticism（批评）构成对比，如“receive both praise and criticism”（受到赞扬和批评）。真题中常见搭配：sing one's own praises（自吹自擂），但非高频。注意辨析praise与applaud（鼓掌称赞）、compliment（恭维）的细微差别。"
+      }
+    },
+    {
+      "id": "pray",
+      "word": "pray",
+      "phonetic": "/prei/",
+      "meaning": "v.请求,恳求;祈祷,祈求",
+      "similar": [
+        "spray",
+        "ray",
+        "prey",
+        "tray",
+        "prayer",
+        "array",
+        "crazy",
+        "x-ray"
+      ],
+      "question": {
+        "wordId": "pray",
+        "stem": "选择 \"pray\" 的正确中文意思：",
+        "correct": "v.请求,恳求;祈祷,祈求",
+        "options": [
+          "v.请求,恳求;祈祷,祈求",
+          "n.喷雾,飞沫,浪花,水花 v.喷,喷射",
+          "n.被掠食者,牺牲者,掠食 v.捕食,掠夺,折磨",
+          "n.光线,射线"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为拉丁语precari（恳求、祈祷），与prex（祈求）同源。核心动作是向神明或权威发出请求，强调谦卑和恳切的态度。",
+        "similarWarning": "pray vs prey: prey（n.猎物 v.捕食）中多了字母'e'，词义从‘请求’变为‘捕食’，易混淆。pray vs spray: spray（n.喷雾 v.喷洒）开头多了's'，词义完全不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "prayer",
+      "word": "prayer",
+      "phonetic": "/preə/",
+      "meaning": "n.祈祷,祷告,祷文",
+      "similar": [
+        "pray",
+        "layer",
+        "drawer",
+        "prefer",
+        "proper"
+      ],
+      "question": {
+        "wordId": "prayer",
+        "stem": "选择 \"prayer\" 的正确中文意思：",
+        "correct": "n.祈祷,祷告,祷文",
+        "options": [
+          "n.祈祷,祷告,祷文",
+          "v.请求,恳求;祈祷,祈求",
+          "n.层，层次；铺设者",
+          "n.抽屉"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "prayer = pray（祈祷，来自拉丁语precari“恳求”）+ -er（名词后缀，表示“做…动作的人或物”）。核心动作：向神灵恳求的行为或文本。",
+        "similarWarning": "prayer vs. layer（层）：prayer含pray（祈祷），layer含lay（放置）；prayer vs. paper（纸）：prayer含pray，paper无相关；prayer vs. drawer（抽屉）：prayer含pray，drawer含draw（拉）；prayer vs. prefer（更喜欢）：prefer是动词，拼写差异为pre-与pray-；prayer vs. proper（适当的）：proper含pro-与per-，prayer含pray。",
+        "extendedMeaning": "在考研语境中，prayer可引申为“恳求、祈求”的抽象行为，如“a prayer for peace”（祈求和平），非仅指宗教仪式。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "preach",
+      "word": "preach",
+      "phonetic": "/pri:tʃ/",
+      "meaning": "v.宣讲(教义),布道;竭力鼓吹,宣传;说教",
+      "similar": [
+        "peach",
+        "reach",
+        "breach",
+        "preface",
+        "beach",
+        "react",
+        "breath",
+        "trench"
+      ],
+      "question": {
+        "wordId": "preach",
+        "stem": "选择 \"preach\" 的正确中文意思：",
+        "correct": "v.宣讲(教义),布道;竭力鼓吹,宣传;说教",
+        "options": [
+          "v.宣讲(教义),布道;竭力鼓吹,宣传;说教",
+          "n.桃,桃树",
+          "v.抵达;(out)伸手,够到 n.能达到的范围",
+          "n.违反，不履行；破裂 vt.冲破，攻破"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "preach 源于拉丁语 praedicare，由 prae-（在前） + dicare（说，宣称）构成，核心动作是“在众人面前公开宣称或宣扬”。原指宗教场合的布道，后引申为竭力鼓吹某种观点或说教。词根 dic 表示“说”，与 dictate（口述）、diction（措辞）同源。",
+        "similarWarning": "preach vs breach: preach 中的 p- 与 breach 中的 b- 不同；breach 意为“违反，破坏”，如 breach of contract（违约）。preach vs peach: preach 含 r，peach 不含；peach 指“桃子”或“告密”。",
+        "extendedMeaning": "在考研语境中，preach 常表“竭力宣传或鼓吹某种理念、政策”，如 preach reform（鼓吹改革），带有强烈主观倡导色彩，并非仅限宗教。",
+        "examUsage": "真题中常考短语 preach to the converted（向皈依者布道，意为白费口舌），用于批判性写作或阅读中表达无效劝说的论点。"
+      }
+    },
+    {
+      "id": "precaution",
+      "word": "precaution",
+      "phonetic": "/pri'kɔ:ʃən/",
+      "meaning": "n.预防,谨慎,警惕",
+      "similar": [
+        "preparation",
+        "precision",
+        "reception",
+        "prescription",
+        "preposition",
+        "fraction",
+        "friction",
+        "location"
+      ],
+      "question": {
+        "wordId": "precaution",
+        "stem": "选择 \"precaution\" 的正确中文意思：",
+        "correct": "n.预防,谨慎,警惕",
+        "options": [
+          "n.准备,预备;制剂,制备品",
+          "n.预防,谨慎,警惕",
+          "n.接待,招待会;接收,接受,接收效果",
+          "n.精确,精确度"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "pre-（前）+ caution（小心）→ 提前小心 → 预防、警惕。核心动作：在危险发生前采取小心行动。",
+        "similarWarning": "precision（n.精确）：pre-+cis（切）+ion，强调“切分精确”；precaution强调“提前小心”。",
+        "extendedMeaning": "在考研外刊中常引申为“预防措施”或“防范意识”，如take precaution against（采取措施防范）。",
+        "examUsage": "真题考点：搭配take precautions against（采取预防措施），常作为完形填空或阅读中的题眼，干扰项常设preparation（准备）、prevention（防止）。"
+      }
+    },
+    {
+      "id": "precede",
+      "word": "precede",
+      "phonetic": "/pri:'si:d/",
+      "meaning": "v.领先(于),在(…之前);优先,先于",
+      "similar": [
+        "recede",
+        "precedent",
+        "preclude",
+        "precise",
+        "preside",
+        "preceding",
+        "procedure",
+        "presence"
+      ],
+      "question": {
+        "wordId": "precede",
+        "stem": "选择 \"precede\" 的正确中文意思：",
+        "correct": "v.领先(于),在(…之前);优先,先于",
+        "options": [
+          "n.先例",
+          "v.排除,阻止,妨碍",
+          "v.退回,后退;收回,撤回;跌落,缩减,贬值",
+          "v.领先(于),在(…之前);优先,先于"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "pre- (前) + cede (走) → 走在前面 → 领先，在…之前。核心物理动作：一个人或事物在时间或位置上处于另一者之前。",
+        "similarWarning": "precede (前缀pre-‘前’，词根cede‘走’): 走在前面，先于。\nrecede (前缀re-‘回’，词根cede‘走’): 后退，退去。\npreclude (前缀pre-‘前’，词根clude‘关闭’): 提前关闭，阻止。\nprecise (前缀pre-‘前’，词根cise‘切’): 预先切好，精确的。\npreside (前缀pre-‘前’，词根side‘坐’): 坐在前面，主持。",
+        "extendedMeaning": "在考研阅读中，precede常引申为‘优先于’或‘在重要性上高于’。例如：Economic factors often precede political considerations.（经济因素往往优先于政治考量。）",
+        "examUsage": "常见搭配：precede sth. (by/with sth.) → 在…之前先做…。真题例句：The invention of the printing press preceded the Renaissance by several decades.（印刷术的发明比文艺复兴早几十年。）注意与precede搭配的介词by常用于被动语态：be preceded by (被…先行)。"
+      }
+    },
+    {
+      "id": "precedent",
+      "word": "precedent",
+      "phonetic": "/pri'si:dənt/",
+      "meaning": "n.先例",
+      "similar": [
+        "precede",
+        "preceding",
+        "prevent",
+        "prudent",
+        "resident",
+        "prevalent",
+        "preference",
+        "proceeding"
+      ],
+      "question": {
+        "wordId": "precedent",
+        "stem": "选择 \"precedent\" 的正确中文意思：",
+        "correct": "n.先例",
+        "options": [
+          "v.领先(于),在(…之前);优先,先于",
+          "n.先例",
+          "v.(from)预防,防止,阻止,制止,妨碍",
+          "a.在前的,在先的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "pre-（前）+ ced（走）+ -ent（名词后缀）→ 走在前面的事物 → 先例。核心动作：先行发生的事件，作为后续的参考标准。",
+        "similarWarning": "precedent vs. president：precedent 中 ced 意为“走”，指“走在前面的事”；president 中 sid 意为“坐”，指“坐在前面的人”（总统）。拼写差异：-ced- vs. -sid-。",
+        "extendedMeaning": "在考研阅读中可引申为“惯例”“常规做法”，如“break with precedent”（打破惯例）。",
+        "examUsage": "常用于“set a precedent”（开创先例）或“without precedent”（史无前例）的搭配中，真题常考查其与“preceding”（在先的）的区分。"
+      }
+    },
+    {
+      "id": "preceding",
+      "word": "preceding",
+      "phonetic": "/pri'si:diŋ/",
+      "meaning": "a.在前的,在先的",
+      "similar": [
+        "proceeding",
+        "precedent",
+        "precede",
+        "reading",
+        "greeting"
+      ],
+      "question": {
+        "wordId": "preceding",
+        "stem": "选择 \"preceding\" 的正确中文意思：",
+        "correct": "a.在前的,在先的",
+        "options": [
+          "n.行动,进行,(pl.)会议录,学报",
+          "n.先例",
+          "v.领先(于),在(…之前);优先,先于",
+          "a.在前的,在先的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "pre-（前）+ cede（走，去）+ -ing（形容词后缀）→ 在前面走的 → 在前的、在先的。核心动作：在时间或顺序上走在前面。",
+        "similarWarning": "proceeding（n. 诉讼；会议记录）：preceding vs. proceeding，差异在字母 'e' 与 'o'，pre-表前，pro-表向前；precedent（n. 先例）：preceding是形容词，precedent是名词，注意后缀 -ent 表物。",
+        "extendedMeaning": "在考研阅读中常引申为‘上述的、前述的’，用于指代前文提到的内容，如 the preceding paragraph（上一段），the preceding chapter（前一章）。",
+        "examUsage": "常见搭配：the preceding year（前一年），in the preceding decades（在之前的几十年）。真题中常作为时间顺序的定位词，与 following 形成对比，用于考查上下文逻辑关系。"
+      }
+    },
+    {
+      "id": "precious",
+      "word": "precious",
+      "phonetic": "/'preʃəs/",
+      "meaning": "a.珍贵的,贵重的",
+      "similar": [
+        "previous",
+        "gracious",
+        "precise",
+        "premium",
+        "tedious",
+        "vicious",
+        "spacious",
+        "infectious"
+      ],
+      "question": {
+        "wordId": "precious",
+        "stem": "选择 \"precious\" 的正确中文意思：",
+        "correct": "a.珍贵的,贵重的",
+        "options": [
+          "a.精确的,准确的",
+          "a.亲切的,客气的;宽厚的,仁慈的",
+          "a.先前的,以前的",
+          "a.珍贵的,贵重的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根preci-（价值）+ -ous（形容词后缀，充满…的）。核心动作：充满价值的，即珍贵的、贵重的。",
+        "similarWarning": "previous（之前的）：pre（前）+vi（路）+ous，指时间上在先的；precious强调内在价值高。precise（精确的）：pre（前）+cise（切），指预先切好，引申为精确；precious无此含义。",
+        "extendedMeaning": "在考研真题中，precious可引申为‘宝贵的’（用于时间、机会等抽象概念），如‘precious time’（宝贵的时间），或‘precious resource’（宝贵资源）。",
+        "examUsage": "真题考点：常与‘valuable’（有价值的）作同义替换，但precious更强调情感上的珍视。固定搭配‘precious little/few’（极少）需注意，如‘We have precious little time left.’（我们只剩下极少的时间。）"
+      }
+    },
+    {
+      "id": "precise",
+      "word": "precise",
+      "phonetic": "/pri'sais/",
+      "meaning": "a.精确的,准确的",
+      "similar": [
+        "premise",
+        "practise",
+        "praise",
+        "recipe",
+        "recite",
+        "revise",
+        "precede",
+        "preside"
+      ],
+      "question": {
+        "wordId": "precise",
+        "stem": "选择 \"precise\" 的正确中文意思：",
+        "correct": "a.精确的,准确的",
+        "options": [
+          "a.精确的,准确的",
+          "n.前提,房屋连地基v.提论,预述,假定",
+          "v.练习,实习,实践,实行,使...练习,训练",
+          "v.赞扬,歌颂;表扬 n.称赞,赞美;赞美的话"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "pre-（前）+ cise（切，来自拉丁语caedere“切割”）。核心动作：在前面切掉多余部分，使边界清晰。引申为“精确的、准确的”，强调细节上的严格无误。",
+        "similarWarning": "premise（前提，pre- + mise“放置”，放置在前的东西）；practise（练习，pract-“做”）；praise（赞扬，同源preci-“价值”）；recipe（食谱，re-“回”+ cipe“拿”，拿回的方法）；recite（背诵，re-“再”+ cite“唤起”）；revise（修订，re-“再”+ vise“看”）；precede（领先，pre-“前”+ cede“走”）；preside（主持，pre-“前”+ side“坐”，坐在前面）。",
+        "extendedMeaning": "在考研阅读中可引申为“严谨的、一丝不苟的”，形容方法或态度，如precise measurement（精确测量）之外，还有precise wording（严谨措辞）。",
+        "examUsage": "常作为题眼考查与accurate的细微区别：precise强调“定义清晰、无歧义”，如a precise description；accurate强调“与事实一致”，如accurate data。真题例句：\"The precise nature of the relationship between the two variables remains unclear.\""
+      }
+    },
+    {
+      "id": "precision",
+      "word": "precision",
+      "phonetic": "/pri'siʒən/",
+      "meaning": "n.精确,精确度",
+      "similar": [
+        "decision",
+        "provision",
+        "precaution",
+        "procession",
+        "pension",
+        "precise",
+        "petition",
+        "religion"
+      ],
+      "question": {
+        "wordId": "precision",
+        "stem": "选择 \"precision\" 的正确中文意思：",
+        "correct": "n.精确,精确度",
+        "options": [
+          "n.决定,决心;决议;决策",
+          "n.精确,精确度",
+          "n.预防,谨慎,警惕",
+          "n.供应,(一批)供应品;预备;条款;(pl.)给养"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根cis-意为‘切割、分开’，pre-表示‘在前面’。precision本义是‘在前面切掉多余部分’，引申为‘精确、精密度’，强调去除杂质后的准确无误。",
+        "similarWarning": "decision (de-向下+cis-切 → 切下去做决定) vs precision (pre-前+cis-切 → 预先切准 → 精确)。provision (pro-向前+vis-看 → 提前看到 → 供应) vs precision。precaution (pre-前+caut-小心 → 预先小心 → 预防) vs precision。procession (pro-向前+cess-走 → 向前走 → 行列) vs precision。",
+        "extendedMeaning": "在科技语境中，precision可指‘精确度、分辨率’，如high precision measurement（高精度测量）。在学术写作中，常与accuracy对比：precision强调重复测量的稳定性，accuracy强调与真值的接近度。",
+        "examUsage": "考研阅读中常考短语with precision（精确地），如describe with precision（精确描述）。干扰项易混淆precision与accuracy，需注意precision侧重‘精密度’而非‘准确性’。"
+      }
+    },
+    {
+      "id": "preclude",
+      "word": "preclude",
+      "phonetic": "/pri'klu:d/",
+      "meaning": "v.排除,阻止,妨碍",
+      "similar": [
+        "precede",
+        "recede",
+        "exclude",
+        "include",
+        "precise",
+        "preside",
+        "presume",
+        "conclude"
+      ],
+      "question": {
+        "wordId": "preclude",
+        "stem": "选择 \"preclude\" 的正确中文意思：",
+        "correct": "v.排除,阻止,妨碍",
+        "options": [
+          "v.领先(于),在(…之前);优先,先于",
+          "v.退回,后退;收回,撤回;跌落,缩减,贬值",
+          "v.排除,阻止,妨碍",
+          "v.拒绝,把…排除在外,排斥"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "pre-（前）+clude（关闭）→ 提前关闭 → 排除、阻止（使某事无法发生或进入）",
+        "similarWarning": "preclude vs. precede（pre-前+cede走→走在前面→先于）；recede（re-回+cede走→后退）；exclude（ex-出+clude关→排除在外）；include（in-入+clude关→包含在内）；precise（pre-前+cise切→预先切好→精确）；preside（pre-前+sid坐→坐在前面→主持）；presume（pre-前+sum取→预先取用→假定）；conclude（con-共同+clude关→全部关闭→结束）",
+        "extendedMeaning": "在考研阅读中常引申为“使不可能”（make impossible），强调客观条件或规则上的阻碍，而非主观意愿。",
+        "examUsage": "真题考点：preclude...from doing sth. 阻止某人做某事。例：His poor health precluded him from serving in the army.（真题例句）"
+      }
+    },
+    {
+      "id": "predecessor",
+      "word": "predecessor",
+      "phonetic": "/'pri:disesə/",
+      "meaning": "n.前辈，前任",
+      "similar": [
+        "professor"
+      ],
+      "question": {
+        "wordId": "predecessor",
+        "stem": "选择 \"predecessor\" 的正确中文意思：",
+        "correct": "n.前辈，前任",
+        "options": [
+          "n.前辈，前任",
+          "n.教授",
+          "a.深刻的,意义深远的;渊博的,造诣深的",
+          "a.狂暴的,无秩序的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "pre-（前）+ de-（离开）+ cess（走）+ -or（人）→ 走在前面离开的人 → 前任、前辈。核心动作：走在前面的人。",
+        "similarWarning": "professor（教授）：pro-（向前）+ fess（说）+ -or（人）→ 向前说话的人，侧重“讲授”；predecessor侧重“时间上在先”。字母差异：prede- vs. pro-，cess vs. fess。",
+        "extendedMeaning": "（真题中常考）被取代的原有事物，如“前任版本”、“前身”。例：The new system is better than its predecessor.（新系统优于其前身。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "predict",
+      "word": "predict",
+      "phonetic": "/pri'dikt/",
+      "meaning": "v.预言,预测,预告",
+      "similar": [
+        "credit",
+        "prejudice"
+      ],
+      "question": {
+        "wordId": "predict",
+        "stem": "选择 \"predict\" 的正确中文意思：",
+        "correct": "v.预言,预测,预告",
+        "options": [
+          "v.预言,预测,预告",
+          "n.(英国)小酒店；小旅馆",
+          "v./n.信用,信任 n.信用贷款,赊欠;名誉,名望",
+          "n.偏见,成见;损害,侵害 v.使抱偏见,损害"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "pre-（前）+ dict（说）→ 在事情发生前说出 → 预言、预测。核心动作是“提前陈述”。",
+        "similarWarning": "credit（信用，相信）c-与p-开头不同；product（产品）pro-（向前）+ duct（引导）vs pre-（前）+ dict（说）；prejudice（偏见）pre-+ judice（判断）→ 提前判断，与predict拼写相似但词义不同。",
+        "extendedMeaning": "在考研中，predict常引申为“预示、表明”某种趋势或结果，如“The data predict a recession.”（数据预示经济衰退。）",
+        "examUsage": "常见搭配：predict + that从句；be predicted to do（被预测会…）。真题中常作为观点题或推断题的关键动词，如“It is predicted that...”引导的预测性结论。"
+      }
+    },
+    {
+      "id": "predominant",
+      "word": "predominant",
+      "phonetic": "/ˌpri'dɔminənt/",
+      "meaning": "a.(over)占优势的;主要的,突出的",
+      "similar": [
+        "prominent",
+        "preliminary"
+      ],
+      "question": {
+        "wordId": "predominant",
+        "stem": "选择 \"predominant\" 的正确中文意思：",
+        "correct": "a.(over)占优势的;主要的,突出的",
+        "options": [
+          "a.预备的,初步的",
+          "a.突起的,凸出的;突出的,杰出的",
+          "n.拇指 v.示意要求搭车；迅速翻阅",
+          "a.(over)占优势的;主要的,突出的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "pre-（前）+ dominant（统治的）→ 在统治地位之前的 → 占优势的、主要的。词根domin-来自拉丁语dominus（主人），核心动作是“掌控”或“压倒”。",
+        "similarWarning": "prominent（pro-向前 + -min-突出 → 突出的、著名的）强调视觉或地位上的“显眼”；preliminary（pre-前 + limin-门槛 → 初步的、预备的）强调时间上的“先行”。predominant侧重在力量或影响力上的“压倒性优势”，三者拼写差异在词根：-domin-（统治）vs -min-（突出）vs -limin-（门槛）。",
+        "extendedMeaning": "在考研阅读中，predominant常引申为“主导性的、最显著的”，用于描述特征、因素或趋势，如“the predominant factor”（主导因素）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "preface",
+      "word": "preface",
+      "phonetic": "/'prefis/",
+      "meaning": "n.序言,引言,前言 v.作序,写前言",
+      "similar": [
+        "preach",
+        "prepare",
+        "presence"
+      ],
+      "question": {
+        "wordId": "preface",
+        "stem": "选择 \"preface\" 的正确中文意思：",
+        "correct": "n.序言,引言,前言 v.作序,写前言",
+        "options": [
+          "v.宣讲(教义),布道;竭力鼓吹,宣传;说教",
+          "n.出席,到场,存在,在",
+          "n.序言,引言,前言 v.作序,写前言",
+          "v.准备,预备"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "pre-（前）+ face（面，脸）→ 写在书前面的文字 → 序言。核心动作：在正文之前放置的‘面子’文字。",
+        "similarWarning": "preface vs. preach（布道）：preface是‘前+脸’→序言；preach是‘前+说’→宣扬。差异在‘face’与‘each’。",
+        "extendedMeaning": "",
+        "examUsage": "常用于写作中引出下文：in the preface to the book（在该书的序言中）；真题中偶考‘作序’的动词用法，如‘preface the report with a brief introduction’（以简短介绍作为报告前言）。"
+      }
+    },
+    {
+      "id": "prefer",
+      "word": "prefer",
+      "phonetic": "/pri'fə:/",
+      "meaning": "v.(to)更喜欢,宁愿",
+      "similar": [
+        "refer",
+        "premier",
+        "peer",
+        "prayer",
+        "proper",
+        "preserve"
+      ],
+      "question": {
+        "wordId": "prefer",
+        "stem": "选择 \"prefer\" 的正确中文意思：",
+        "correct": "v.(to)更喜欢,宁愿",
+        "options": [
+          "v.(to)更喜欢,宁愿",
+          "n.首相,总理",
+          "n.同辈,同等地位的人;贵族 v.凝视,隐约出现",
+          "v.参考,查询;提到,引用,涉及;提交,上呈"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "pre-（前，先）+ fer（携带，带来）→ 将某物带到更前面 → 优先选择或更喜欢。核心动作：因偏好而把某物置于其他选项之前。",
+        "similarWarning": "refer（re-回 + fer 带 → 带回原处 → 参考/提及）：字母差异为前缀pre（前）vs re（回）。prefer强调主观偏好，refer强调客观引用。",
+        "extendedMeaning": "（考研真题中）prefer常表示在法庭或正式场合的“提出（控告/请求）”，如prefer charges（提起诉讼），来自“把某事带到前面提交”的本义延伸。",
+        "examUsage": "prefer...rather than（宁愿...而不愿）在真题中作为固定搭配出现，区别于普通prefer A to B。"
+      }
+    },
+    {
+      "id": "preferable",
+      "word": "preferable",
+      "phonetic": "/'prefərəbl/",
+      "meaning": "a.(to)更可取的,更好的",
+      "similar": [
+        "preference",
+        "profitable",
+        "preserve",
+        "reliable",
+        "resemble",
+        "agreeable",
+        "desirable",
+        "miserable"
+      ],
+      "question": {
+        "wordId": "preferable",
+        "stem": "选择 \"preferable\" 的正确中文意思：",
+        "correct": "a.(to)更可取的,更好的",
+        "options": [
+          "v.保护,维持;保存,保藏",
+          "a.有利可图的,有益的",
+          "n.(for,to)偏爱,喜爱;优惠;优先选择",
+          "a.(to)更可取的,更好的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "prefer（更喜欢）+ able（能...的）→ 能让人更喜欢的 → 更可取的。prefer源自拉丁语prae（前）+ ferre（拿，带），字面意为“拿到前面”，即优先选择。",
+        "similarWarning": "preferable vs. profitable：preferable源自prefer（更喜欢），强调主观偏好；profitable源自profit（利润），强调经济收益。preferable vs. probable：preferable含“更可取”之意，probable意为“很可能的”，拼写仅差一个字母。",
+        "extendedMeaning": "在考研语境中，preferable常与to搭配，表示“比...更好”，用于比较级结构，如“A is preferable to B”，而非简单表达“更好的”。",
+        "examUsage": "固定搭配：preferable to（优于，比...更可取）。真题例句：Walking is preferable to driving in crowded cities.（在拥挤的城市，步行比开车更可取。）注意：preferable本身已含比较级意义，无需加more。"
+      }
+    },
+    {
+      "id": "preference",
+      "word": "preference",
+      "phonetic": "/'prefərəns/",
+      "meaning": "n.(for,to)偏爱,喜爱;优惠;优先选择",
+      "similar": [
+        "reference",
+        "presence",
+        "inference",
+        "conference",
+        "difference",
+        "preferable",
+        "interference",
+        "preserve"
+      ],
+      "question": {
+        "wordId": "preference",
+        "stem": "选择 \"preference\" 的正确中文意思：",
+        "correct": "n.(for,to)偏爱,喜爱;优惠;优先选择",
+        "options": [
+          "n.(for,to)偏爱,喜爱;优惠;优先选择",
+          "n.提及,涉及;参考,参考书目;证明书（人）",
+          "n.出席,到场,存在,在",
+          "n.推论,推理,推断;结论"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根pre-（前）+ fer（携带、运送）+-ence（名词后缀）。核心物理动作是“把某物拿到前面来”，即优先挑选、放在更靠前的位置，引申为情感上的“偏爱”或行为上的“优先选择”。",
+        "similarWarning": "preference vs. reference: pre-（前） vs. re-（回），前者强调前置挑选，后者强调回看参考。preference vs. presence: -ence vs. -ence，但pre-（前） vs. pre-（前） + sent（存在），presence意为“存在、出席”。preference vs. inference: fer（携带） vs. fer（携带），但pre-（前） vs. in-（进入），inference意为“推理（带入结论）”。",
+        "extendedMeaning": "在考研阅读中，preference常引申为“优先权、优待”（如贸易中的优惠待遇），而不仅仅是个人爱好。例如：trade preference（贸易优惠）。",
+        "examUsage": "常见考点搭配：preference for（对…的偏爱）；in preference to（优先于…）。真题例句：He has a strong preference for classical music.（他对古典音乐有强烈偏爱。）注意区分preference与preferable（更可取的），后者为形容词。"
+      }
+    },
+    {
+      "id": "pregnant",
+      "word": "pregnant",
+      "phonetic": "/'pregnənt/",
+      "meaning": "a.怀孕的,孕育的,充满的,意味深长的",
+      "similar": [
+        "remnant",
+        "tenant",
+        "elegant",
+        "peasant",
+        "prevent",
+        "fragrant",
+        "pleasant"
+      ],
+      "question": {
+        "wordId": "pregnant",
+        "stem": "选择 \"pregnant\" 的正确中文意思：",
+        "correct": "a.怀孕的,孕育的,充满的,意味深长的",
+        "options": [
+          "a.怀孕的,孕育的,充满的,意味深长的",
+          "n.剩余(物),零料,遗迹[风] a.剩余的,残留的",
+          "n.承租人;房客;佃户 vt.租借，承租",
+          "a.优雅的;端庄的;雅致的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "pre-（前） + gnant（词根gn-“生育”，源自拉丁语gnatus“出生”）。核心动作：在生育之前的状态。本义为“怀孕的”，引申为“充满的”（如充满新生命）和“意味深长的”（如充满深层含义）。",
+        "similarWarning": "present（当前的；礼物）: pre-（前）+ sent（存在），强调“在眼前”；pregnant强调“孕育”。prevent（阻止）: pre-（前）+ vent（来），即“提前来阻挡”。fragrant（芳香的）: fragr-（气味） + -ant，与生育无关。",
+        "extendedMeaning": "考研中常考“充满的”和“意味深长的”。例如：pregnant with meaning（意味深长的）；a pregnant pause（意味深长的停顿）；pregnant with possibilities（充满可能性）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "prejudice",
+      "word": "prejudice",
+      "phonetic": "/'predʒudis/",
+      "meaning": "n.偏见,成见;损害,侵害 v.使抱偏见,损害",
+      "similar": [
+        "predict",
+        "rejoice"
+      ],
+      "question": {
+        "wordId": "prejudice",
+        "stem": "选择 \"prejudice\" 的正确中文意思：",
+        "correct": "n.偏见,成见;损害,侵害 v.使抱偏见,损害",
+        "options": [
+          "n./v.忙乱,大惊小怪",
+          "v.(使)欣喜,(使)高兴",
+          "v.预言,预测,预告",
+          "n.偏见,成见;损害,侵害 v.使抱偏见,损害"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "pre-（前）+ judice（判断，来自拉丁语judicium）→ 预先做出的判断 → 在全面了解事实之前就下结论，即偏见、成见。引申为损害（因偏见导致的负面结果）。",
+        "similarWarning": "predict（pre-前+dict说→预言）与prejudice拼写差异在词根：dict（说）vs judice（判断）；rejoice（re-再+joice快乐→欢喜）与prejudice差异在词根：joice（快乐）vs judice（判断）。",
+        "extendedMeaning": "考研僻义：损害，侵害。如：\"to the prejudice of one's rights\"（损害某人的权利）。",
+        "examUsage": "真题考点：常见搭配\"prejudice against\"（对……的偏见），\"without prejudice to\"（不损害……，常用于法律语境）。干扰项常与\"bias\"（偏向）、\"discrimination\"（歧视）混淆，但prejudice强调先入为主的负面判断。"
+      }
+    },
+    {
+      "id": "preliminary",
+      "word": "preliminary",
+      "phonetic": "/pri'liminəri/",
+      "meaning": "a.预备的,初步的",
+      "similar": [
+        "eliminate",
+        "predominant"
+      ],
+      "question": {
+        "wordId": "preliminary",
+        "stem": "选择 \"preliminary\" 的正确中文意思：",
+        "correct": "a.预备的,初步的",
+        "options": [
+          "a.(over)占优势的;主要的,突出的",
+          "vt.除去;淘汰;排(删,消)除;削减(人员)",
+          "a.预备的,初步的",
+          "ad.分离，离开，隔开 a.分离的，分隔的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "pre-（前）+ limin-（门槛，边界）+ -ary（形容词后缀）→ 在门槛之前的 → 预备的，初步的。核心动作：站在正式进入前的一个准备阶段。",
+        "similarWarning": "eliminate（e-出 + limin-门槛 + -ate → 扔出门槛 → 消除）；predominant（pre-前 + dominant统治的 → 在前统治的 → 占主导地位的）。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "premier",
+      "word": "premier",
+      "phonetic": "/'premjə/",
+      "meaning": "n.首相,总理",
+      "similar": [
+        "prefer",
+        "premise",
+        "premium"
+      ],
+      "question": {
+        "wordId": "premier",
+        "stem": "选择 \"premier\" 的正确中文意思：",
+        "correct": "n.首相,总理",
+        "options": [
+          "n.额外费用,奖金,奖赏,保险费",
+          "n.首相,总理",
+          "v.(to)更喜欢,宁愿",
+          "n.前提,房屋连地基v.提论,预述,假定"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 primarius（第一的），由 prim-（第一）+-ier（比较级后缀）构成。核心动作是“排在首位”，因此指地位最高的人，即首相或总理。",
+        "similarWarning": "prefer（更喜欢: pre-前+fer-携带，字面“带到前面”）；premise（前提: pre-前+miss-发送，字面“放在前面的话”）；premium（保费/溢价: pre-前+em-买，字面“提前支付”）。注意 premier 以 -ier 结尾强调“第一人”，其他词根不同。",
+        "extendedMeaning": "adj. 首要的，最著名的（e.g., a premier university 一流大学）",
+        "examUsage": "考研中常考其形容词义“首要的”，如“a premier league”（顶级联赛）或“premier position”（首位）。真题中可能作为干扰项与 primary 辨析，后者更强调“初始的、基本的”。"
+      }
+    },
+    {
+      "id": "premise",
+      "word": "premise",
+      "phonetic": "/pri'maiz/",
+      "meaning": "n.前提,房屋连地基v.提论,预述,假定",
+      "similar": [
+        "precise",
+        "promise",
+        "praise",
+        "revise",
+        "premier",
+        "premium",
+        "preside",
+        "practise"
+      ],
+      "question": {
+        "wordId": "premise",
+        "stem": "选择 \"premise\" 的正确中文意思：",
+        "correct": "n.前提,房屋连地基v.提论,预述,假定",
+        "options": [
+          "v.允许,答应;有…可能n.承诺;希望,出息",
+          "a.精确的,准确的",
+          "n.前提,房屋连地基v.提论,预述,假定",
+          "v.赞扬,歌颂;表扬 n.称赞,赞美;赞美的话"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "pre-（前）+ mise（=mittere，送，放置）→ 放在前面的东西 → 前提；引申为房屋连地基（房子建在提前准备好的地基上）。",
+        "similarWarning": "premise vs precise（precise 中 cis=cut，切分精确）；premise vs promise（promise 中 pro=向前，mis=送，承诺是提前送出的话）；premise vs premium（premium 中 em=take，先取走的→奖励、溢价）。",
+        "extendedMeaning": "n.房屋连地基（考研常考‘商业场所/经营场所’义，如 business premise）。",
+        "examUsage": "on the premise that...（在...前提下）；真题例句：The argument rests on a false premise.（论证基于错误前提。）"
+      }
+    },
+    {
+      "id": "premium",
+      "word": "premium",
+      "phonetic": "/'pri:miəm/",
+      "meaning": "n.额外费用,奖金,奖赏,保险费",
+      "similar": [
+        "premier",
+        "premise",
+        "precious",
+        "previous"
+      ],
+      "question": {
+        "wordId": "premium",
+        "stem": "选择 \"premium\" 的正确中文意思：",
+        "correct": "n.额外费用,奖金,奖赏,保险费",
+        "options": [
+          "a.珍贵的,贵重的",
+          "n.首相,总理",
+          "n.额外费用,奖金,奖赏,保险费",
+          "n.前提,房屋连地基v.提论,预述,假定"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "premium 源自拉丁语 praemium（prae“在前”+emere“拿，取”），本义为“战利品、奖赏”，即“额外拿取的东西”。核心动作是“在前额外获取”，引申为“额外费用、奖金、保险费”等需要额外支付的代价或奖励。",
+        "similarWarning": "premier（首要的，总理）- premium（额外费用）区别：premier 含“首要、第一”义，premium 强调“额外、附加”。premise（前提）- premium 区别：premise 为“前提、房屋”，premium 为“费用”。precious（珍贵的）- premium 区别：precious 指价值高，premium 指额外支付。previous（先前的）- premium 区别：previous 指时间顺序，premium 指附加性质。",
+        "extendedMeaning": "考研僻义：1. 高端的、优质的（adj.）：如 premium product（高端产品），强调品质优越。2. 溢价（n.）：指超出正常价格的额外费用，如 at a premium（溢价地/稀罕地）。3. 保险金（n.）：特指定期支付的保险费。",
+        "examUsage": "at a premium：1. 溢价地（价格高于正常值）；2. 稀缺地、受重视地（物以稀为贵）。如：During the pandemic, masks were at a premium.（疫情期间口罩供不应求。）真题常考“put a premium on”意为“重视、鼓励”，如：The company puts a premium on innovation.（公司重视创新。）"
+      }
+    },
+    {
+      "id": "preparation",
+      "word": "preparation",
+      "phonetic": "/ˌprepə'reiʃən/",
+      "meaning": "n.准备,预备;制剂,制备品",
+      "similar": [
+        "precaution",
+        "proportion",
+        "reputation",
+        "preposition",
+        "prescription",
+        "federation",
+        "generation",
+        "population"
+      ],
+      "question": {
+        "wordId": "preparation",
+        "stem": "选择 \"preparation\" 的正确中文意思：",
+        "correct": "n.准备,预备;制剂,制备品",
+        "options": [
+          "n.名誉,名声,声望",
+          "n.准备,预备;制剂,制备品",
+          "n.比例;部分;均衡,相称",
+          "n.预防,谨慎,警惕"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "pre-（前）+ par（准备，来自拉丁语parare“准备”）+ -ation（名词后缀）。核心动作：提前做好安排或备好所需之物。",
+        "similarWarning": "precaution（pre-前+caution小心→预防措施），preparation强调“准备行为”；preposition（pre-前+position位置→介词），拼写差异在于position vs par-ation。",
+        "extendedMeaning": "考研中常引申为“准备工作”或“预备阶段”，如in preparation for（为...做准备）；也可指“制剂”（如药物制备品），但此义低频。",
+        "examUsage": "真题考点：make preparations for（为...做准备）是高频搭配，注意preparation常以复数形式preparations出现，表示“具体准备工作”。"
+      }
+    },
+    {
+      "id": "prepare",
+      "word": "prepare",
+      "phonetic": "/pri'pεə/",
+      "meaning": "v.准备,预备",
+      "similar": [
+        "preface",
+        "preserve",
+        "pressure"
+      ],
+      "question": {
+        "wordId": "prepare",
+        "stem": "选择 \"prepare\" 的正确中文意思：",
+        "correct": "v.准备,预备",
+        "options": [
+          "v.准备,预备",
+          "n.序言,引言,前言 v.作序,写前言",
+          "v.保护,维持;保存,保藏",
+          "n.压,压力,压迫,强制,紧迫,困苦,困难"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "pre-（前）+ par（准备，源自拉丁语parare，意为“使准备好”）+ -e（动词后缀），字面义为“提前使就绪”，即预先安排或准备好某事。核心动作：在时间上先于行动完成必要步骤。",
+        "similarWarning": "preface（pre-前+face面，指前言）与prepare区别在“face”表“面”，强调书面开头；preserve（pre-前+serve保持）强调“保存”，prepare侧重“准备”动作；pressure（press压+ure名词）表“压力”，拼写结尾不同。",
+        "extendedMeaning": "在考研真题中，“prepare”可引申为“使（某人）有心理准备”或“为…创造条件”，如“prepare the ground for”（为…铺路），非仅指具体物质准备。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "preposition",
+      "word": "preposition",
+      "phonetic": "/ˌprepə'ziʃən/",
+      "meaning": "n.介词",
+      "similar": [
+        "proposition",
+        "proportion",
+        "repetition",
+        "composition",
+        "disposition",
+        "preparation",
+        "prescription",
+        "precision"
+      ],
+      "question": {
+        "wordId": "preposition",
+        "stem": "选择 \"preposition\" 的正确中文意思：",
+        "correct": "n.介词",
+        "options": [
+          "n.比例;部分;均衡,相称",
+          "n.主张,建议;陈述,命题",
+          "n.重复,反复",
+          "n.介词"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "pre-（前）+ position（位置）。介词在语法中位于名词或代词之前，表示位置、方向、时间等关系，核心动作是‘放在前面’的位置关系。",
+        "similarWarning": "proposition（提议，命题，pro-向前+position）强调提出；proportion（比例，pro-按照+portion部分）强调部分关系；repetition（重复，re-再+petition请求）强调再次发生；composition（组成，com-共同+position）强调组合；disposition（性情，倾向，dis-分开+position）强调安排；preparation（准备，pre-前+paration准备）强调预备；prescription（处方，规定，pre-前+scription写）强调预先写定；precision（精确，pre-前+cision切）强调切割精确。",
+        "extendedMeaning": "考研中常以语法术语出现，无特殊僻义。",
+        "examUsage": "在语法填空或完形中，注意区分介词与连词（如in/on/at表时间地点，for/to表目的方向）；真题中偶有介词短语作状语或定语的理解干扰。"
+      }
+    },
+    {
+      "id": "prescribe",
+      "word": "prescribe",
+      "phonetic": "/pris'kraib/",
+      "meaning": "v.指示,规定;处(方),开(药)",
+      "similar": [
+        "describe",
+        "precise",
+        "preside",
+        "preserve",
+        "prestige",
+        "subscribe",
+        "preferable"
+      ],
+      "question": {
+        "wordId": "prescribe",
+        "stem": "选择 \"prescribe\" 的正确中文意思：",
+        "correct": "v.指示,规定;处(方),开(药)",
+        "options": [
+          "v.指示,规定;处(方),开(药)",
+          "v.描述,形容",
+          "a.精确的,准确的",
+          "v.(at,over)主持"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "前缀pre-（前）+ 词根scribe（写）→ 提前写好→ 指示、规定；医生在开药前先写好处方→ 开药方。",
+        "similarWarning": "describe（描述）：de-（向下）+ scribe（写）→ 写下来。prescribe强调“预先规定”，describe强调“客观描述”。",
+        "extendedMeaning": "（法律/语境中）规定、指示：The law prescribes strict penalties. 法律规定了严厉的惩罚。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "prescription",
+      "word": "prescription",
+      "phonetic": "/pris'kripʃən/",
+      "meaning": "n.药方,处方",
+      "similar": [
+        "description",
+        "precaution",
+        "recreation",
+        "preparation",
+        "preposition",
+        "reservation"
+      ],
+      "question": {
+        "wordId": "prescription",
+        "stem": "选择 \"prescription\" 的正确中文意思：",
+        "correct": "n.药方,处方",
+        "options": [
+          "n.娱乐,消遣",
+          "n.预防,谨慎,警惕",
+          "n.描写,形容;种类",
+          "n.药方,处方"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "pre-（在前）+ script（写）+ -ion（名词后缀）→ 写在前面（的诊断说明）→ 医生开药前写的指示 → 药方、处方。核心动作：预先写下的指令。",
+        "similarWarning": "description（de-向下+script+ion → 写下来描述）vs prescription（pre-预先+script+ion → 预先写的处方）：前者侧重“描绘、叙述”，后者侧重“指令、药方”。",
+        "extendedMeaning": "（医学/法律）规定、指示：如“moral prescription”（道德规范）或“prescription drug”（处方药），在考研阅读中常引申为“权威性的规定或指令”。",
+        "examUsage": "“on prescription”（凭处方）或“prescription drug”（处方药）常作为医学类阅读的题眼。例：\"Many drugs are available only on prescription.\"（许多药物只有凭处方才能获得。）"
+      }
+    },
+    {
+      "id": "presence",
+      "word": "presence",
+      "phonetic": "/'prezəns/",
+      "meaning": "n.出席,到场,存在,在",
+      "similar": [
+        "preserve",
+        "preference",
+        "presently",
+        "residence",
+        "prince",
+        "resent",
+        "absence",
+        "defence"
+      ],
+      "question": {
+        "wordId": "presence",
+        "stem": "选择 \"presence\" 的正确中文意思：",
+        "correct": "n.出席,到场,存在,在",
+        "options": [
+          "n.出席,到场,存在,在",
+          "ad.一会儿,不久;现在,目前",
+          "v.保护,维持;保存,保藏",
+          "n.(for,to)偏爱,喜爱;优惠;优先选择"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语praesentia，由prae-（前、在面前）+esse（存在、是）构成，核心物理动作为“在面前存在”。强调某物或某人在特定时间、地点实际“在场”的状态。",
+        "similarWarning": "形近词辨析：\n- present：pre-（前）+sent（存在），作形容词为“在场的、当前的”，作名词为“礼物”，作动词为“呈现、赠送”。与presence相比，present更侧重“事物本身”或“动作”，而presence强调“到场状态”。\n- preserve：pre-（前）+serve（保持），意为“保存、保护”，与presence无直接语义关联。\n- preference：pre-（前）+fer（携带）+ence（名词后缀），意为“偏好、优先选择”。\n- absence：ab-（离开）+sense（存在），意为“缺席、不在”，与presence反义。",
+        "extendedMeaning": "在考研外刊中，presence常引申为“影响力、存在感、势力范围”，如“military presence”（军事存在）、“digital presence”（数字影响力）、“presence of mind”（镇定自若）。",
+        "examUsage": "真题考点：\n- in the presence of：在……面前、有……在场时（常用于科学类文章，如“in the presence of oxygen”在氧气存在下）。\n- 干扰项：常与absence、present混淆，需注意语境区分。"
+      }
+    },
+    {
+      "id": "presently",
+      "word": "presently",
+      "phonetic": "/'prezəntli/",
+      "meaning": "ad.一会儿,不久;现在,目前",
+      "similar": [
+        "prevent",
+        "presence",
+        "presumably"
+      ],
+      "question": {
+        "wordId": "presently",
+        "stem": "选择 \"presently\" 的正确中文意思：",
+        "correct": "ad.一会儿,不久;现在,目前",
+        "options": [
+          "ad.一会儿,不久;现在,目前",
+          "ad.推测起来,大概",
+          "v.(from)预防,防止,阻止,制止,妨碍",
+          "n.出席,到场,存在,在"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 present（现在） + -ly（副词后缀）。核心逻辑：由“现在”衍生出两层时间含义：一是“立刻、马上”（从当前瞬间到未来很近）；二是“目前、现在”（强调当前状态）。",
+        "similarWarning": "presently vs. present（v.呈现；n.礼物；a.当前的）：presently是副词，强调时间；present是形容词或名词。prevent（v.阻止）与presently拼写差异在字母“e”与“v”位置。presence（n.存在）与presently词根相同但词性不同。presumably（ad.大概）词根不同，易混在拼写前缀。",
+        "extendedMeaning": "在考研阅读中常考“不久、一会儿”的将来义，如“Presently, the results will be announced.”（不久就会公布结果）。偶尔用于表示“现在、目前”，但较少。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "preserve",
+      "word": "preserve",
+      "phonetic": "/prɪ'zɜ:v/",
+      "meaning": "v.保护,维持;保存,保藏",
+      "similar": [
+        "reserve",
+        "deserve",
+        "presence",
+        "prescribe",
+        "prefer",
+        "observe",
+        "precede",
+        "prepare"
+      ],
+      "question": {
+        "wordId": "preserve",
+        "stem": "选择 \"preserve\" 的正确中文意思：",
+        "correct": "v.保护,维持;保存,保藏",
+        "options": [
+          "n.出席,到场,存在,在",
+          "v.应受,值得",
+          "n.储备(物),储备金;缄默 v.保留,储备;预定",
+          "v.保护,维持;保存,保藏"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "pre-（前）+ serve（保持、服务）→ 在事物变质或受损前就使其保持原状 → 保护、保存。核心动作是“提前维持”，强调预防性保护。",
+        "similarWarning": "reserve（re-再/回 + serve → 留到后面 → 预订、保留）；preserve（pre-前 + serve → 提前保持 → 保存、保护）。区别在pre-（前）与re-（后/回）。",
+        "extendedMeaning": "（考研僻义）n. 专门领域、独占活动（如：Football is no longer a male preserve. 足球不再是男性的专属领域。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "preside",
+      "word": "preside",
+      "phonetic": "/pri'zaid/",
+      "meaning": "v.(at,over)主持",
+      "similar": [
+        "prestige",
+        "pride",
+        "beside",
+        "precede",
+        "precise",
+        "premise",
+        "presume",
+        "provide"
+      ],
+      "question": {
+        "wordId": "preside",
+        "stem": "选择 \"preside\" 的正确中文意思：",
+        "correct": "v.(at,over)主持",
+        "options": [
+          "n.自豪;自满；引以自豪的东西 v.使自豪",
+          "n.声望,威望,威信",
+          "prep.在...旁边，在...附近；和...相比",
+          "v.(at,over)主持"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "前缀pre-（前）+ 词根sid（坐）= 坐在前面。核心动作：坐在会议/仪式的前排或首席位置，引申为‘主持、掌管’（如主持会议或仪式）。",
+        "similarWarning": "preside vs. precede: pre-相同，但side（坐） vs. cede（走）→主持 vs. 先于；preside vs. presume: side（坐） vs. sume（拿）→主持 vs. 假定。",
+        "extendedMeaning": "在考研外刊中可引申为‘掌管、负责’（如preside over a crisis 应对危机），强调主导地位。",
+        "examUsage": "真题常考搭配：preside over（主持/掌管），如‘preside over a meeting’（主持会议）或‘preside over a period of change’（掌管变革时期）。"
+      }
+    },
+    {
+      "id": "press",
+      "word": "press",
+      "phonetic": "/pres/",
+      "meaning": "v.压;压榨;紧迫,催促 n.报刊,通讯社;压榨机",
+      "similar": [
+        "depress",
+        "express",
+        "impress",
+        "oppress",
+        "process",
+        "caress",
+        "priest",
+        "stress"
+      ],
+      "question": {
+        "wordId": "press",
+        "stem": "选择 \"press\" 的正确中文意思：",
+        "correct": "v.压;压榨;紧迫,催促 n.报刊,通讯社;压榨机",
+        "options": [
+          "v.(on)印,盖印;留下印象,引人注目",
+          "v.压;压榨;紧迫,催促 n.报刊,通讯社;压榨机",
+          "v.压抑,降低;使沮丧,压下",
+          "v.表达,表示 a.特快的,快速的 n.快车,快运"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "press 源自拉丁语 premere（压）。核心物理动作是“施加压力”，引申为“压榨”、“紧迫”（时间压力）及“报刊”（印刷机压印）",
+        "similarWarning": "dress（穿衣） vs press（压）：首字母d/p不同；depress（压下） vs express（表达） vs impress（印入/留下印象）：前缀de-（向下）/ex-（向外）/im-（向内）区分；oppress（压迫） vs process（过程）：前缀op-（对着）/pro-（向前）；caress（抚摸） vs press：加ca-表温柔；priest（牧师） vs press：拼写差i+e",
+        "extendedMeaning": "n. 印刷机（物理压印设备）；v. 催促（施加时间压力）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pressure",
+      "word": "pressure",
+      "phonetic": "/'preʃə/",
+      "meaning": "n.压,压力,压迫,强制,紧迫,困苦,困难",
+      "similar": [
+        "presume",
+        "reassure",
+        "treasure",
+        "assure",
+        "ensure",
+        "rescue",
+        "resume",
+        "gesture"
+      ],
+      "question": {
+        "wordId": "pressure",
+        "stem": "选择 \"pressure\" 的正确中文意思：",
+        "correct": "n.压,压力,压迫,强制,紧迫,困苦,困难",
+        "options": [
+          "v.假定,假设,认为,揣测,滥用,擅自行动",
+          "n.压,压力,压迫,强制,紧迫,困苦,困难",
+          "n.财宝,财富;珍品 v.珍爱,珍惜",
+          "v.使安心，使放心；使消除疑虑"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "press-（压）+ -ure（名词后缀），核心物理动作为“施加向下的力”，引申为精神或环境上的压迫感。",
+        "similarWarning": "presume（假定，pre-前+sum-拿），pleasure（愉快，pleas-取悦），reassure（使安心，re-再+assure），treasure（珍宝），assure（保证，as-向+sure），ensure（确保，en-使+sure），rescue（营救），resume（重新开始，re-再+sum-拿）。差异：pressure含press-“压”，其余词根各异。",
+        "extendedMeaning": "考研僻义：紧迫感（如时间pressure）；强制力（如peer pressure）。",
+        "examUsage": "真题考点：under pressure（在压力下）；exert pressure on（对…施加压力）；pressure sb. into doing（迫使某人做）。"
+      }
+    },
+    {
+      "id": "prestige",
+      "word": "prestige",
+      "phonetic": "/pre'sti:ʒ/",
+      "meaning": "n.声望,威望,威信",
+      "similar": [
+        "preside",
+        "prescribe",
+        "resign",
+        "retire",
+        "pastime",
+        "postage",
+        "precise",
+        "premise"
+      ],
+      "question": {
+        "wordId": "prestige",
+        "stem": "选择 \"prestige\" 的正确中文意思：",
+        "correct": "n.声望,威望,威信",
+        "options": [
+          "v.指示,规定;处(方),开(药)",
+          "n.声望,威望,威信",
+          "v.辞去,辞职,使听从(于),使顺从",
+          "v.(at,over)主持"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语praestigiae（幻术、戏法），原指通过巧妙手段制造的假象或魅力。词根pre-（前）+stig-（看，触及），核心动作是“在别人眼前展示引人注目的东西”，引申为因卓越成就或地位而获得的广泛尊重与敬仰。",
+        "similarWarning": "preside（主持）：pre-（前）+side（坐），指坐在前面主持；prestige强调声望。prescribe（开处方）：pre-（前）+scribe（写），指提前写下的规则；prestige无此含义。",
+        "extendedMeaning": "在考研阅读中，prestige常表示“（机构、职业的）社会地位或声誉”，如academic prestige（学术声望），而非简单的个人名声。",
+        "examUsage": "真题考点：常与carry, gain, undermine等动词搭配，如carry great prestige（享有很高威望）；或用于描述职业选择，如jobs with more prestige（更有声望的工作）。"
+      }
+    }
+  ]
+}

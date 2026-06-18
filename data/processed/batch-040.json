@@ -1,0 +1,1704 @@
+{
+  "batchId": 40,
+  "words": [
+    {
+      "id": "hundred",
+      "word": "hundred",
+      "phonetic": "/'hʌndrəd/",
+      "meaning": "num.百，一百；[pl.]许多 a.一百的；许多",
+      "similar": [],
+      "question": {
+        "wordId": "hundred",
+        "stem": "选择 \"hundred\" 的正确中文意思：",
+        "correct": "num.百，一百；[pl.]许多 a.一百的；许多",
+        "options": [
+          "v.连接,联系 n.环节,链环",
+          "v.宣告,声明",
+          "v.修订,校订;修正,修改",
+          "num.百，一百；[pl.]许多 a.一百的；许多"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"来自古英语\"hund\"（百）与\"red\"（计数）的组合，核心物理动作为\"十个十\"的计数单位，表示一百这一数量概念。\",\n  \"similarWarning\": \"\",\n  \"extendedMeaning\": \"在考研英语中，\"hundreds of\"常表示\"许多、大量\"，用于描述不确定的大数量，如\"hundreds of years\"（数百年）。\",\n  \"examUsage\": \"\"\n}",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hunger",
+      "word": "hunger",
+      "phonetic": "/'hʌŋgə/",
+      "meaning": "n./v.饥饿;渴望",
+      "similar": [
+        "thunder",
+        "anger",
+        "hinge",
+        "danger",
+        "finger",
+        "hinder",
+        "linger"
+      ],
+      "question": {
+        "wordId": "hunger",
+        "stem": "选择 \"hunger\" 的正确中文意思：",
+        "correct": "n./v.饥饿;渴望",
+        "options": [
+          "n.雷(声);轰隆声 v.打雷;大声说,吼叫",
+          "n./v.饥饿;渴望",
+          "n.合页,铰链 vi.依…而定",
+          "n.愤怒，气愤 vt.使发怒，激怒 vi.发怒"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根与古英语'hungor'同源，核心物理动作是胃部收缩、空乏感，引申为对食物或事物的强烈需求。",
+        "similarWarning": "形近词对比：hunger vs. hinge（铰链，关键点，拼写差异在于'g'与'ng'位置）；hunger vs. anger（愤怒，拼写差异首字母'h'与'a'，词义无关联）。",
+        "extendedMeaning": "考研僻义：作动词时，常引申为'渴望，迫切希望'，如hunger for success（渴望成功），非字面饥饿。",
+        "examUsage": "真题考点：常见搭配'hunger for/after'表示渴望，可用于写作替换'desire'；阅读中可能出现'hunger strike'（绝食抗议）作为文化背景词。"
+      }
+    },
+    {
+      "id": "hunt",
+      "word": "hunt",
+      "phonetic": "/hʌnt/",
+      "meaning": "v./n.打猎,猎取;(for)搜索;寻找",
+      "similar": [
+        "hut",
+        "aunt",
+        "hint",
+        "hurt",
+        "blunt",
+        "count",
+        "hound",
+        "mount"
+      ],
+      "question": {
+        "wordId": "hunt",
+        "stem": "选择 \"hunt\" 的正确中文意思：",
+        "correct": "v./n.打猎,猎取;(for)搜索;寻找",
+        "options": [
+          "n.姨母，姑母，伯母，婶母，舅母，阿姨",
+          "n.暗示,提示,线索 v.暗示,示意",
+          "n.小屋,棚屋",
+          "v./n.打猎,猎取;(for)搜索;寻找"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为古英语‘huntian’，核心物理动作为‘追逐、追捕’。从原始狩猎动作（追踪猎物）引申为一切有目标的‘搜索、寻找’行为。",
+        "similarWarning": "hunt vs. hint: 'u' vs. 'i'，前者侧重‘追逐’（追猎物），后者侧重‘暗示’（给线索）。hunt vs. hurt: ‘n’ vs. ‘r’，前者是‘追’，后者是‘伤’。",
+        "extendedMeaning": "在考研真题中常考‘search for’义，如‘hunt for a job’（找工作），强调主动、持续地寻找。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hurl",
+      "word": "hurl",
+      "phonetic": "/hə:l/",
+      "meaning": "vt.猛投，力掷；大声叫骂",
+      "similar": [
+        "curl",
+        "hurt",
+        "aural",
+        "hurry",
+        "rural",
+        "whirl"
+      ],
+      "question": {
+        "wordId": "hurl",
+        "stem": "选择 \"hurl\" 的正确中文意思：",
+        "correct": "vt.猛投，力掷；大声叫骂",
+        "options": [
+          "n.伤痛,伤害 v.刺痛,伤害;伤…的感情",
+          "a.听觉的，听力的",
+          "vt.猛投，力掷；大声叫骂",
+          "v.(使)卷曲,蜷缩 n.卷发;卷曲状;卷曲物"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模仿物体在空中快速飞过的声音（如“呼”），引申为用力投掷的动作，进而比喻言语的猛烈（如“大声叫骂”）。",
+        "similarWarning": "与hurt（伤害）差一个字母l，hurl是投掷动作，hurt是造成疼痛；与curl（卷曲）差首字母h，curl强调弯曲形态，hurl强调直线发力；与whirl（旋转）差首字母w，whirl是圆周运动，hurl是直线抛射。",
+        "extendedMeaning": "在考研阅读中常引申为“激烈地发出（批评、质问等）”，如hurl accusations（猛烈指责）、hurl insults（大声辱骂），强调言语的攻击性。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hurricane",
+      "word": "hurricane",
+      "phonetic": "/'hʌrikən/",
+      "meaning": "n.飓风",
+      "similar": [
+        "lubricate"
+      ],
+      "question": {
+        "wordId": "hurricane",
+        "stem": "选择 \"hurricane\" 的正确中文意思：",
+        "correct": "n.飓风",
+        "options": [
+          "n.飓风",
+          "v.润滑,加润滑油,行贿,收买",
+          "n.狭缝；空位vt.放入狭缝中；把…纳入",
+          "a.以前的,在前的 pron.前者"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自西班牙语“huracán”，借自泰诺语（加勒比土著语言）“juracán”，意为“风暴之神”。词根与“旋风、剧烈旋转”相关，核心物理动作是“猛烈旋转的气流”，强调破坏性极强的热带气旋。",
+        "similarWarning": "lubricate（v.润滑）vs hurricane（n.飓风）：差异在词根“lubr-”（润滑）与“hurr-”（旋风）；前者指减少摩擦，后者指旋转风暴。无字母级直接混淆风险。",
+        "extendedMeaning": "考研中无显著僻义，偶引申为“猛烈爆发的事物”，如“a hurricane of applause”（雷鸣般的掌声），但非高频考点。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hurry",
+      "word": "hurry",
+      "phonetic": "/'hʌri/",
+      "meaning": "vi.匆忙 vt.催促;急运(派) n.急(匆)忙",
+      "similar": [
+        "cherry",
+        "bury",
+        "hurl",
+        "hurt",
+        "jury",
+        "ferry",
+        "lorry",
+        "marry"
+      ],
+      "question": {
+        "wordId": "hurry",
+        "stem": "选择 \"hurry\" 的正确中文意思：",
+        "correct": "vi.匆忙 vt.催促;急运(派) n.急(匆)忙",
+        "options": [
+          "vi.匆忙 vt.催促;急运(派) n.急(匆)忙",
+          "n.樱桃(树)",
+          "v.埋(葬),安葬;埋藏,遮盖",
+          "vt.猛投，力掷；大声叫骂"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，源自古英语hyrian，模仿急促行动时的风声或脚步声，核心物理动作为“快速移动”，引申为“催促”。",
+        "similarWarning": "cherry（樱桃） vs hurry（匆忙）：c-与h-开头不同；bury（埋葬） vs hurry：b-与h-开头，-y结尾相同但词义迥异；hurl（猛投） vs hurry：l与r字母差异，hurl强调投掷动作。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hurt",
+      "word": "hurt",
+      "phonetic": "/hə:t/",
+      "meaning": "n.伤痛,伤害 v.刺痛,伤害;伤…的感情",
+      "similar": [
+        "hut",
+        "hunt",
+        "hurl",
+        "burst",
+        "chart",
+        "court",
+        "hurry",
+        "quart"
+      ],
+      "question": {
+        "wordId": "hurt",
+        "stem": "选择 \"hurt\" 的正确中文意思：",
+        "correct": "n.伤痛,伤害 v.刺痛,伤害;伤…的感情",
+        "options": [
+          "n.伤痛,伤害 v.刺痛,伤害;伤…的感情",
+          "n.小屋,棚屋",
+          "vt.猛投，力掷；大声叫骂",
+          "v./n.打猎,猎取;(for)搜索;寻找"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自原始日耳曼语，核心物理动作为‘撞击、刺伤’，引申为物理伤害或情感创伤。",
+        "similarWarning": "hut（小屋，无伤义）；hunt（狩猎，主动追捕）；hurl（猛投，用力掷）；burst（爆裂，突然破裂）；chart（图表，记录）；court（法庭，追求）；heart（心脏，核心）；hurry（匆忙，急促）。区别：hurt聚焦‘伤’的结果，hunt/hurl/burst强调动作过程，chart/court/heart/hurry无伤义。",
+        "extendedMeaning": "熟词僻义：在经济学人等外刊中，hurt可表‘对…造成不利影响’（如hurt sales损害销售），或作名词‘损害’（如suffer hurt遭受损害）。",
+        "examUsage": "真题考点：常见于阅读理解干扰项，如‘be hurt’表情感受伤，易与‘be injured’（物理伤）混淆；搭配‘hurt one’s feelings’（伤感情）为高频考点。"
+      }
+    },
+    {
+      "id": "hut",
+      "word": "hut",
+      "phonetic": "/hʌt/",
+      "meaning": "n.小屋,棚屋",
+      "similar": [
+        "hunt",
+        "hurt",
+        "gut",
+        "hat",
+        "hit",
+        "hug",
+        "hum",
+        "nut"
+      ],
+      "question": {
+        "wordId": "hut",
+        "stem": "选择 \"hut\" 的正确中文意思：",
+        "correct": "n.小屋,棚屋",
+        "options": [
+          "n.伤痛,伤害 v.刺痛,伤害;伤…的感情",
+          "n.小屋,棚屋",
+          "n.[pl.]胆量；内脏a.本能的vt.取出内脏",
+          "v./n.打猎,猎取;(for)搜索;寻找"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自日耳曼语，指简陋的临时住所。核心物理动作是“遮蔽”，强调小、简陋的临时性建筑。",
+        "similarWarning": "hut vs. hunt（追捕，n.与v.，多字母n）；hut vs. hurt（伤害，v.，多字母r）；hut vs. shut（关闭，v.，多字母s）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hydrogen",
+      "word": "hydrogen",
+      "phonetic": "/'haidrədʒən/",
+      "meaning": "n.氢",
+      "similar": [
+        "nitrogen"
+      ],
+      "question": {
+        "wordId": "hydrogen",
+        "stem": "选择 \"hydrogen\" 的正确中文意思：",
+        "correct": "n.氢",
+        "options": [
+          "n.氢",
+          "n.[化]氮",
+          "n.参数,参量",
+          "n.标题"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 hydor（水）+ gen（产生），字面意为“产生水”。氢燃烧生成水，故得名。词根 hydro- 表水，-gen 表产生，与 oxygen（氧，产生酸）类比。",
+        "similarWarning": "hydrogen vs nitrogen: 前者 hydro-（水）→ 氢；后者 nitro-（硝石）→ 氮。拼写差异在 hydr-/nitr-，词义源于不同元素特性。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hypocrisy",
+      "word": "hypocrisy",
+      "phonetic": "/hi'pɔkrisi/",
+      "meaning": "n.伪善，虚伪",
+      "similar": [],
+      "question": {
+        "wordId": "hypocrisy",
+        "stem": "选择 \"hypocrisy\" 的正确中文意思：",
+        "correct": "n.伪善，虚伪",
+        "options": [
+          "n.伪善，虚伪",
+          "a.卫生的;有益的;健康的,有益健康的",
+          "v.(of,about)通知,告诉,报告;告发,告密",
+          "n.台风"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 hypokrisis（扮演角色，假装），由 hypo-（在……之下）与 krinein（判断，区分）组成，字面意为“在判断之下”或“掩饰真实判断”，核心动作是“表面一套，背后一套”，即伪装成有道德的样子。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研真题中常引申为“言行不一、表里不一”的深层虚伪，不仅指道德虚伪，也可指制度、政策等表面的公正与实际的不公。",
+        "examUsage": "真题中常与“expose, reveal, condemn”等动词搭配，如“expose the hypocrisy of a policy”（揭露政策的虚伪性），或作为批判性写作的核心论点词。"
+      }
+    },
+    {
+      "id": "hypothesis",
+      "word": "hypothesis",
+      "phonetic": "/hai'pɔθisis/",
+      "meaning": "n.假说,假设,前提",
+      "similar": [
+        "synthesis"
+      ],
+      "question": {
+        "wordId": "hypothesis",
+        "stem": "选择 \"hypothesis\" 的正确中文意思：",
+        "correct": "n.假说,假设,前提",
+        "options": [
+          "n.假说,假设,前提",
+          "n.(pl.syntheses)综合,合成",
+          "n.(英)大臣；法官；(德、奥)总理；大学校长",
+          "v.燃烧，烧着；烧毁；灼伤 n.烧伤，灼伤"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "hypo-（在……之下）+ thesis（命题、论点）。字面为“置于底下的命题”，即作为推理基础的假设。词根thesis来自希腊语tithenai（放置），与theme同源。",
+        "similarWarning": "hypothesis（假说）vs synthesis（合成）：hypo-（下）+ thesis（命题）→基础假设；syn-（一起）+ thesis（放置）→综合、合成。差异在词缀hypo-/syn-。",
+        "extendedMeaning": "在学术写作中常指“（有待验证的）猜想”，如working hypothesis（工作假设）。考研阅读中可能作为逻辑论证的起点出现。",
+        "examUsage": "常搭配动词formulate/propose/test/confirm/reject。真题例句：The hypothesis that stress causes gray hair remains unproven.（2015年英语二阅读）"
+      }
+    },
+    {
+      "id": "hysterical",
+      "word": "hysterical",
+      "phonetic": "/his'terikəl/",
+      "meaning": "a.情绪异常激动的,歇斯底里的",
+      "similar": [
+        "historical",
+        "historic",
+        "material",
+        "historian",
+        "numerical",
+        "mysterious"
+      ],
+      "question": {
+        "wordId": "hysterical",
+        "stem": "选择 \"hysterical\" 的正确中文意思：",
+        "correct": "a.情绪异常激动的,歇斯底里的",
+        "options": [
+          "a.有历史意义的;历史的",
+          "a.历史的;有关历史的",
+          "n.材料,原料,资料a.物质的,肉体的,实质性的",
+          "a.情绪异常激动的,歇斯底里的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语hysteria（子宫），古医学认为女性情绪失控源于子宫游走，后引申为极端情绪失控状态。词根hyster-（子宫）+ -ical（形容词后缀），核心动作为“子宫引发的情绪失控”。",
+        "similarWarning": "historical（历史的，与history相关） vs hysterical（情绪失控的，与hysteria相关）。差异在字母t与y：historical有t（时间轴），hysterical有y（源自希腊语hystera）。",
+        "extendedMeaning": "在考研真题中常引申为“极端的、过度的”，如hysterical laughter（狂笑）并非指疾病，而是强调程度失控。",
+        "examUsage": "真题考点：常与emotional, excited形成干扰，但hysterical强调失控性激动。例句：The crowd became hysterical with fear.（人群因恐惧而失控。）注意与historical（历史性的）在阅读中的语境区分。"
+      }
+    },
+    {
+      "id": "ice-cream",
+      "word": "ice-cream",
+      "phonetic": "/'aiskri:m/",
+      "meaning": "n.冰淇淋",
+      "similar": [],
+      "question": {
+        "wordId": "ice-cream",
+        "stem": "选择 \"ice-cream\" 的正确中文意思：",
+        "correct": "n.冰淇淋",
+        "options": [
+          "a.无效的，无用的，无希望的",
+          "n.殖民地；侨民；聚居区；(动植物的)群体",
+          "a.不愿的,勉强的",
+          "n.冰淇淋"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "ice（冰）+ cream（奶油）。核心物理动作：将奶油等原料冷冻成固态的甜品，本质是冰与奶油的结合物。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ideal",
+      "word": "ideal",
+      "phonetic": "/ai'diəl/",
+      "meaning": "a.理想的;空想的;理想主义的;唯心的 n.理想",
+      "similar": [
+        "deal",
+        "deaf",
+        "dean",
+        "dial",
+        "heal",
+        "seal",
+        "zeal"
+      ],
+      "question": {
+        "wordId": "ideal",
+        "stem": "选择 \"ideal\" 的正确中文意思：",
+        "correct": "a.理想的;空想的;理想主义的;唯心的 n.理想",
+        "options": [
+          "a.聋的;不愿听的",
+          "n.(大学)院长;主持牧师; (基督教)教长",
+          "v.处理;做买卖,经营;分配;对待 n.交易",
+          "a.理想的;空想的;理想主义的;唯心的 n.理想"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自希腊语\"idea\"（形式、概念），词根\"eidos\"（看见、形式）。本义是\"头脑中看到的形式\"，即\"观念、想法\"。引申为\"完美的、理想中的\"，即存在于观念中的最佳状态。后缀\"-al\"表形容词，整体强调\"基于观念的、符合设想的\"。\",\n  \"similarWarning\": \"deal（交易）：i换e，核心在\"分配\"；idea（想法）：去掉l，表示\"观念\"；dead（死的）：ea发/e/，词义截然不同；deaf（聋的）：f替换l，听觉缺失。\",\n  \"extendedMeaning\": \"考研中常考\"唯心的\"（哲学语境），如idealist（唯心主义者），",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "identical",
+      "word": "identical",
+      "phonetic": "/ai'dentikəl/",
+      "meaning": "a.(to.with)同一的,同样的",
+      "similar": [
+        "identify",
+        "identity",
+        "vertical",
+        "skeptical",
+        "credential",
+        "electrical"
+      ],
+      "question": {
+        "wordId": "identical",
+        "stem": "选择 \"identical\" 的正确中文意思：",
+        "correct": "a.(to.with)同一的,同样的",
+        "options": [
+          "v.识别,鉴别;(with)把…和…看成一样",
+          "a.(to.with)同一的,同样的",
+          "a.垂直的,竖的 n.垂线",
+          "n.身份;本体;特征;同一(性);一致;国籍;等式"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“idem”（相同）。词根“ident-”表示“相同”，后缀“-ical”为形容词后缀，意为“具有…性质的”。核心动作：指向“完全一致，没有差异”。",
+        "similarWarning": "identify (v.识别，确认) vs identical (a.同一的)：identify强调“认出”的过程，identical强调“相同”的状态。identity (n.身份，同一性) vs identical (a.相同的)：identity是名词，指身份或特性；identical是形容词，修饰事物相同。vertical (a.垂直的) vs identical：仅拼写部分相似，vertical源自拉丁语“vertex”（顶点），与“相同”无关。",
+        "extendedMeaning": "在考研阅读中，identical可引申为“完全相同的，丝毫不差的”，常用于强调两个事物在细节上完全一致，如“identical twins”（同卵双胞胎）；也用于逻辑论证中表示“等同的”，如“identical conditions”（相同条件）。",
+        "examUsage": "常见搭配：be identical to/with（与…完全相同）。真题考点：常作为干扰项出现，用于对比“similar”（相似）与“identical”（完全一致）的细微差别；在细节题中，选项若出现“identical”需警惕原文是否真正强调“完全一致”，而非近似。"
+      }
+    },
+    {
+      "id": "identification",
+      "word": "identification",
+      "phonetic": "/aiˌdentifi'keiʃən/",
+      "meaning": "n.识别,鉴别;证件;认同",
+      "similar": [
+        "specification",
+        "qualification",
+        "classification"
+      ],
+      "question": {
+        "wordId": "identification",
+        "stem": "选择 \"identification\" 的正确中文意思：",
+        "correct": "n.识别,鉴别;证件;认同",
+        "options": [
+          "n.分类,分级",
+          "n.详述;(常pl.)规格,说明书,规范",
+          "n.资格,合格;限定,条件;合格证",
+          "n.识别,鉴别;证件;认同"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自动词identify（识别）+ -ation（名词后缀），核心动作是“使相同→确认身份”。词根idem意为“相同”，通过“确认相同性”引申为识别、鉴别，进而衍生出“证件”（证明身份之物）和“认同”（心理上视为相同）之义。",
+        "similarWarning": "specification（规格，说明）：spec-“看”→具体指明；qualification（资格，限定）：qual-“性质”→具备条件；classification（分类，分级）：class-“等级”→分门别类。三者均含-ification后缀，但词根差异决定核心义：idem强调“相同”，spec强调“看”，qual强调“性质”，class强调“等级”。",
+        "extendedMeaning": "考研中常考“认同”义，尤指情感或心理上的归属感或共鸣，如“cultural identification”（文化认同）、“group identification”（群体认同），非单纯指证件或识别过程。",
+        "examUsage": "常见搭配：identification with（对…的认同），真题中作为干扰项出现，易与identity（身份）混淆。注意：identification强调动作或状态，identity强调本质或特征。"
+      }
+    },
+    {
+      "id": "identify",
+      "word": "identify",
+      "phonetic": "/aɪ'dentɪfaɪ/",
+      "meaning": "v.识别,鉴别;(with)把…和…看成一样",
+      "similar": [
+        "identity",
+        "identical",
+        "entity",
+        "certify",
+        "density",
+        "dentist",
+        "destiny",
+        "rectify"
+      ],
+      "question": {
+        "wordId": "identify",
+        "stem": "选择 \"identify\" 的正确中文意思：",
+        "correct": "v.识别,鉴别;(with)把…和…看成一样",
+        "options": [
+          "n.实体;存在(物);组织,机构;本质",
+          "v.识别,鉴别;(with)把…和…看成一样",
+          "n.身份;本体;特征;同一(性);一致;国籍;等式",
+          "a.(to.with)同一的,同样的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根-ident(同一)+-ify(使动)。核心动作：使某物与另一物在认知上等同，即“识别、鉴别”。引申为“把…和…看成一样”。",
+        "similarWarning": "identity(n.身份,同一性) vs identify(v.识别); identical(adj.完全相同的) vs identify(动词); entity(n.实体) vs identify(注意前缀en-与id-不同); certify(v.证明) vs identify(注意cert-与ident-不同); density(n.密度) vs identify(注意dens-与ident-不同); dentist(n.牙医) vs identify(注意dent-与ident-不同); destiny(n.命运) vs identify(注意dest-与ident-不同); rectify(v.纠正) vs identify(注意rect-与ident-不同)。",
+        "extendedMeaning": "（在心理学/社会学语境中）认同，视为同一：如identify with a group（认同某一群体）。",
+        "examUsage": "真题考点：identify常与as搭配：identify...as...（把…识别为…）。例如：The study identified the gene as a key factor.（该研究将这种基因识别为关键因素。）"
+      }
+    },
+    {
+      "id": "identity",
+      "word": "identity",
+      "phonetic": "/ai'dentəti/",
+      "meaning": "n.身份;本体;特征;同一(性);一致;国籍;等式",
+      "similar": [
+        "identify",
+        "entity",
+        "density",
+        "identical",
+        "intensity",
+        "dentist",
+        "destiny",
+        "quantity"
+      ],
+      "question": {
+        "wordId": "identity",
+        "stem": "选择 \"identity\" 的正确中文意思：",
+        "correct": "n.身份;本体;特征;同一(性);一致;国籍;等式",
+        "options": [
+          "n.身份;本体;特征;同一(性);一致;国籍;等式",
+          "v.识别,鉴别;(with)把…和…看成一样",
+          "n.密集,密度,浓度",
+          "n.实体;存在(物);组织,机构;本质"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 ident-（反复接触）+ -ity（抽象名词后缀）→ 源自动词identify（识别）的名词化，核心动作是“通过反复接触确认一致性”。本义为“同一性”，后引申为“身份”（使个体区别于他人的一致性特征）、“本体”（事物本质的一致性）。",
+        "similarWarning": "identify（v.识别，鉴定）：identity是名词，结尾-ity为抽象名词后缀；identify是动词，结尾-ify为动词后缀。entity（n.实体，存在）：前缀ent-（存在）不同，identity强调“同一性”，entity强调“独立存在物”。",
+        "extendedMeaning": "“同一性”（数学等式：identity equation）；“本体”（哲学概念：the identity of the object）；“特征”（cultural identity文化特征，非仅指身份）。",
+        "examUsage": "核心搭配：identity theft（身份盗窃，真题阅读高频）；identity crisis（身份认同危机，常用于社会文化类文章）；考点：常与identify（识别）混淆，注意词性及搭配。"
+      }
+    },
+    {
+      "id": "ideology",
+      "word": "ideology",
+      "phonetic": "/ˌaidi'ɔlədʒi/",
+      "meaning": "n.意识形态，(政治或社会的)思想意识",
+      "similar": [
+        "geology",
+        "apology",
+        "biology",
+        "ecology"
+      ],
+      "question": {
+        "wordId": "ideology",
+        "stem": "选择 \"ideology\" 的正确中文意思：",
+        "correct": "n.意识形态，(政治或社会的)思想意识",
+        "options": [
+          "n.道歉，认错，辩解，辩护",
+          "n.地质(学)",
+          "n.意识形态，(政治或社会的)思想意识",
+          "n.生物学"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'idea'（想法、观念）+ '-logy'（学科、研究）。字面意为“关于观念的研究”，后引申为系统化的思想体系，即意识形态。核心动作：将抽象观念系统化为一套理论或信仰。",
+        "similarWarning": "geology（地质学：geo-土地 + -logy）；apology（道歉：apo-离开 + -logy，原义“辩护”）；biology（生物学：bio-生命 + -logy）；ecology（生态学：eco-家/环境 + -logy）。差异在于前缀：ideo-（观念） vs. geo-（土地）、apo-（离开）、bio-（生命）、eco-（环境）。",
+        "extendedMeaning": "在考研真题中常指“（特定群体或政党的）思想体系、信仰体系”，如 'political ideology'（政治意识形态），强调其对社会行为的塑造作用，而非仅指抽象观念。",
+        "examUsage": "真题中常与 'political', 'economic', 'social' 连用，作为核心题眼考查对文本立场的理解。例如：'The ideology of free trade has shaped global economic policies.'（自由贸易的意识形态塑造了全球经济政策。）注意区分 'ideology' 与 'philosophy'（哲学体系）的细微差别。"
+      }
+    },
+    {
+      "id": "idiom",
+      "word": "idiom",
+      "phonetic": "/'idiəm/",
+      "meaning": "n.习语;成语方言;(艺术等的)风格,特色",
+      "similar": [
+        "idiot",
+        "dim",
+        "doom"
+      ],
+      "question": {
+        "wordId": "idiom",
+        "stem": "选择 \"idiom\" 的正确中文意思：",
+        "correct": "n.习语;成语方言;(艺术等的)风格,特色",
+        "options": [
+          "n.厄运,劫数 v.注定,命定",
+          "a.暗淡的,模糊的",
+          "n.白痴；极蠢的人；笨蛋",
+          "n.习语;成语方言;(艺术等的)风格,特色"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'idioma'（独特表达），词根 'idio-' 意为 '独特的、私人的'（与 idios（自己的）同源）。核心物理动作：将个人/群体的独特表达固化。习语即语言中固定、独特的表达方式，引申为艺术风格等。",
+        "similarWarning": "idiot（n. 白痴）：idiom 含 'idio'（独特），idiot 含 'idiot'（无知者），差异在 'm' vs 't'。dim（adj. 昏暗的）：idiom 以 'i-' 开头，dim 以 'd-' 开头，拼写差异显著。doom（n. 厄运）：idiom 含 'om'，doom 含 'oom'，字母 'd' 和 'i' 不同。",
+        "extendedMeaning": "（艺术等的）风格、特色：如 'the idiom of modern jazz'（现代爵士乐的独特风格），在考研阅读中常指特定领域表达方式或艺术流派特征。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "idiot",
+      "word": "idiot",
+      "phonetic": "/'idiət/",
+      "meaning": "n.白痴；极蠢的人；笨蛋",
+      "similar": [
+        "idiom",
+        "dot",
+        "diet",
+        "dirt",
+        "edit",
+        "riot"
+      ],
+      "question": {
+        "wordId": "idiot",
+        "stem": "选择 \"idiot\" 的正确中文意思：",
+        "correct": "n.白痴；极蠢的人；笨蛋",
+        "options": [
+          "n.白痴；极蠢的人；笨蛋",
+          "n.习语;成语方言;(艺术等的)风格,特色",
+          "n.点,圆点 v.在…上打点",
+          "n.饮食,食物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语idiotes，原指“私人、非公职人员”，后演变为“缺乏公共素养的人”，最终引申为“智力低下者”。词根idio-意为“个人的、独特的”，暗示脱离公共常识的愚昧状态。",
+        "similarWarning": "idiom n.习语（idio-个人+om，个人特有的表达方式） vs idiot（-ot表人，个人主义者→白痴）；diet n.饮食（di-分开+et，分开吃） vs idiot（idio-个人）；dirt n.污垢（无关联）；edit v.编辑（e-出+dit给，给出文字） vs idiot；riot n.暴乱（无关联）。",
+        "extendedMeaning": "考研中常引申为“在特定领域缺乏基本常识或判断力的人”，如：an idiot in economics（经济盲）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "idle",
+      "word": "idle",
+      "phonetic": "/'aidl/",
+      "meaning": "a.空闲的,闲置的;懒散的 v.空费,虚度",
+      "similar": [
+        "isle",
+        "riddle",
+        "aisle",
+        "bible",
+        "inlet",
+        "ridge",
+        "rifle"
+      ],
+      "question": {
+        "wordId": "idle",
+        "stem": "选择 \"idle\" 的正确中文意思：",
+        "correct": "a.空闲的,闲置的;懒散的 v.空费,虚度",
+        "options": [
+          "n.(教堂、教室、戏院等里的)过道，通道",
+          "n.谜,谜语",
+          "n.小岛(用于诗歌中)",
+          "a.空闲的,闲置的;懒散的 v.空费,虚度"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语idel，本义为“空的、无意义的”。核心动作/画面：物体处于“没有工作、没有用途”的静止状态。引申为“空闲的”（时间未被占用）、“闲置的”（资源未被使用）、“懒散的”（人无所事事）、“虚度”（时间被浪费）的动作。",
+        "similarWarning": "isle（小岛，字母s代替d）；iddle无意义；riddle（谜语，开头r）；aisle（过道，字母a开头）；bible（圣经，b开头）；inlet（入口，in-代替i-）；ridge（山脊，r开头）；rifle（步枪，f代替d）。对比：idle强调“空/闲”，其他词均无此义。",
+        "extendedMeaning": "（考研熟词僻义）①机器/工厂“停工、未运转”（idle capacity 闲置产能）；②“徒然的、无用的”（idle threat 虚张声势的威胁）；③“无根据的、无聊的”（idle gossip 无聊的闲话）。",
+        "examUsage": "（真题考点）①固定搭配：idle away（虚度光阴），如idle away the hours；②stand idly by（袖手旁观）；③真题例句：The factory lay idle for months.（工厂闲置数月。）注意：作动词时及物/不及物均可，如idle the engine（使发动机空转）。"
+      }
+    },
+    {
+      "id": "ignite",
+      "word": "ignite",
+      "phonetic": "/ig'nait/",
+      "meaning": "v.点火,引燃",
+      "similar": [
+        "dignity",
+        "unite",
+        "finite",
+        "ignore",
+        "invite",
+        "infinite"
+      ],
+      "question": {
+        "wordId": "ignite",
+        "stem": "选择 \"ignite\" 的正确中文意思：",
+        "correct": "v.点火,引燃",
+        "options": [
+          "a.有限的；[数]有穷的,限定的",
+          "vi.联合,团结;统一,合并vt.使联合",
+          "n.(举止,态度等的)庄严,端庄;尊贵,高贵",
+          "v.点火,引燃"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 ign-（火）+ -ite（动词后缀）→ 点火、引燃。核心物理动作：使物体接触火源并燃烧。",
+        "similarWarning": "ignite vs. ignore（忽略）：ignite含 ign-（火），ignore含 ig-（不）+ gnore（知道）→ 不知道→忽略。注意字母区别：-ite vs. -ore。",
+        "extendedMeaning": "引申为“激发、激起（情绪、冲突等）”，如 ignite a debate（激起辩论）、ignite passions（点燃激情）。",
+        "examUsage": "真题中常考搭配：ignite a fire（点火）、ignite interest（激发兴趣）。例句：The speech ignited a wave of protests.（演讲引发了一波抗议。）"
+      }
+    },
+    {
+      "id": "ignorance",
+      "word": "ignorance",
+      "phonetic": "/'ignərəns/",
+      "meaning": "n.无知,愚昧;不知道",
+      "similar": [
+        "ignorant",
+        "importance",
+        "entrance",
+        "instance",
+        "insurance",
+        "accordance"
+      ],
+      "question": {
+        "wordId": "ignorance",
+        "stem": "选择 \"ignorance\" 的正确中文意思：",
+        "correct": "n.无知,愚昧;不知道",
+        "options": [
+          "a.无知的,愚昧的;不知道的",
+          "n.无知,愚昧;不知道",
+          "n.入口,门口;进入;入学,入会",
+          "n.重要,重要性"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 ignorare（不知道），由 in-（不） + gnoscere（知道）构成。核心动作：对某事缺乏认知或信息的状态，即无知。",
+        "similarWarning": "ignorance vs. ignorance: 拼写差异为 -ance 与 -ant，前者为名词后缀，后者为形容词后缀。importance（重要性）与 ignorance 拼写相似，但词根不同：im-（进入） + port（搬运），核心为“重要”；而 ignorance 强调“不知道”。",
+        "extendedMeaning": "在考研真题中，ignorance 常引申为“对特定领域知识的缺乏”，而非单纯指“愚蠢”。例如：\"scientific ignorance\"（科学无知）指缺乏科学知识。",
+        "examUsage": "真题考点：固定搭配 \"ignorance of\" 表示“对…无知”，如 \"ignorance of the law\"（对法律的无知）。常见干扰项：与 \"importance\" 混淆，需注意上下文逻辑。"
+      }
+    },
+    {
+      "id": "ignorant",
+      "word": "ignorant",
+      "phonetic": "/'ignərənt/",
+      "meaning": "a.无知的,愚昧的;不知道的",
+      "similar": [
+        "ignorance",
+        "important",
+        "ignore",
+        "infant",
+        "instant",
+        "innocent"
+      ],
+      "question": {
+        "wordId": "ignorant",
+        "stem": "选择 \"ignorant\" 的正确中文意思：",
+        "correct": "a.无知的,愚昧的;不知道的",
+        "options": [
+          "a.无知的,愚昧的;不知道的",
+          "n.无知,愚昧;不知道",
+          "a.重要的,重大的;有地位的,有权力的",
+          "v.不理,不顾,忽视"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'ignorare'（不知道），由否定前缀 'in-'（不）+ 'gnoscere'（知道，词根 'gno-' 表“知”）构成。核心动作：没有认知、不了解。",
+        "similarWarning": "ignorant vs innocent：ignorant 侧重“因缺乏知识而无知”；innocent 侧重“清白、天真”，词根 'noc-' 表“伤害”。拼写差异：'gnor' vs 'nnoc'。",
+        "extendedMeaning": "考研中常考“不知道的、不了解的”这一含义，如 be ignorant of（对…不知情），非字面“愚昧”。",
+        "examUsage": "固定搭配：be ignorant of/about（对…无知/不了解）。真题例句：Many people are ignorant of the fact that...（许多人不知道…的事实）。"
+      }
+    },
+    {
+      "id": "ignore",
+      "word": "ignore",
+      "phonetic": "/ig'nɔ:/",
+      "meaning": "v.不理,不顾,忽视",
+      "similar": [
+        "ignite",
+        "diagnose",
+        "ignorant"
+      ],
+      "question": {
+        "wordId": "ignore",
+        "stem": "选择 \"ignore\" 的正确中文意思：",
+        "correct": "v.不理,不顾,忽视",
+        "options": [
+          "a.无知的,愚昧的;不知道的",
+          "vt.诊断(疾病)；判断(问题)",
+          "v.点火,引燃",
+          "v.不理,不顾,忽视"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根：i-（=in-，否定）+ gnor（知道）。核心动作：不知道→假装不知道→不理睬，忽视。",
+        "similarWarning": "ignite（点燃）：ignore vs ignite，差异在 -gnor（知道）vs -gnit（火），词义从“忽视”到“点燃”；diagnose（诊断）：dia-（通过）+ gnor（知道）→彻底知道→诊断；ignorant（无知的）：ignore的形容词，强调缺乏知识的状态。",
+        "extendedMeaning": "",
+        "examUsage": "真题常考搭配：ignore the fact（忽视事实），常用于阅读中作者观点与大众认知的对比；干扰项设计：常与overlook（疏忽）、neglect（疏于照顾）区分，ignore侧重主观故意不理。"
+      }
+    },
+    {
+      "id": "illegal",
+      "word": "illegal",
+      "phonetic": "/ɪ'li:gl/",
+      "meaning": "a.不合法的,非法的",
+      "similar": [
+        "legal",
+        "integral"
+      ],
+      "question": {
+        "wordId": "illegal",
+        "stem": "选择 \"illegal\" 的正确中文意思：",
+        "correct": "a.不合法的,非法的",
+        "options": [
+          "a.法律的,法定的;合法的,正当的",
+          "a.构成整体所必需的;完整的",
+          "v.促进,发扬;提升,提拔;增进,助长",
+          "a.不合法的,非法的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根：il-（否定前缀）+ leg（法律）+ -al（形容词后缀）。核心动作：否定法律状态，即不符合法律规定的，非法的。",
+        "similarWarning": "legal（合法的）：illegal去掉否定前缀il-；integral（完整的）：拼写差异为‘integ’ vs ‘illeg’，词根不同，integral源于‘integer’（整体），与法律无关。",
+        "extendedMeaning": "在考研中常引申为‘不正当的、违规的’，如illegal activities（非法活动），但较少出现僻义。",
+        "examUsage": "真题中常作为干扰项出现，与‘legal’、‘lawful’等对比考察。如：The court ruled the contract illegal.（法院判定合同非法。）注意与‘illicit’（违法的，尤指道德或社会规范禁止的）辨析，但illegal更强调法律层面。"
+      }
+    },
+    {
+      "id": "illiterate",
+      "word": "illiterate",
+      "phonetic": "/i'litərət/",
+      "meaning": "a.文盲的,未受教育的",
+      "similar": [
+        "liberate",
+        "deliberate",
+        "illustrate",
+        "initiate",
+        "irritate",
+        "literacy",
+        "literary",
+        "tolerate"
+      ],
+      "question": {
+        "wordId": "illiterate",
+        "stem": "选择 \"illiterate\" 的正确中文意思：",
+        "correct": "a.文盲的,未受教育的",
+        "options": [
+          "a.深思熟虑的,故意的 vt.研讨,商讨",
+          "vt.解放,释放",
+          "v.举例说明,阐明;图解,加插图",
+          "a.文盲的,未受教育的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根: il-(否定,同in-) + litera(字母,文字) + -ate(形容词后缀)。核心物理动作: 与字母/文字分离→不识字→文盲的。",
+        "similarWarning": "literate (a.有读写能力的,有文化的): illiterate 多了否定前缀 il-, 意义相反。literary (a.文学的,书面的): 词根相同,但侧重文学性,与读写能力无关。",
+        "extendedMeaning": "熟词僻义: 在考研中可引申为“对某领域缺乏基本知识或理解”的,如 politically illiterate (政治盲)。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "illness",
+      "word": "illness",
+      "phonetic": "/'ilnis/",
+      "meaning": "n.病,疾病",
+      "similar": [
+        "kindness"
+      ],
+      "question": {
+        "wordId": "illness",
+        "stem": "选择 \"illness\" 的正确中文意思：",
+        "correct": "n.病,疾病",
+        "options": [
+          "n.病,疾病",
+          "n.仁慈,亲切;好意;友好行为",
+          "a.用旧了的，旧的；习惯于…；过去惯/经常",
+          "n.实践者，从事者；(医生或律师等)开业者"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ill-（邪恶的、坏的）+ -ness（名词后缀，表状态或性质）→ 不好的状态 → 疾病。",
+        "similarWarning": "illness vs. kindness：illness 以 ill（坏）开头，指疾病；kindness 以 kind（善良）开头，指善良。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "illuminate",
+      "word": "illuminate",
+      "phonetic": "/i'lju:mineit/",
+      "meaning": "vt.照亮，照明；用灯光装饰；说明，阐释",
+      "similar": [
+        "eliminate",
+        "illustrate",
+        "dominate",
+        "nominate",
+        "alleviate",
+        "terminate",
+        "illiterate",
+        "intimidate"
+      ],
+      "question": {
+        "wordId": "illuminate",
+        "stem": "选择 \"illuminate\" 的正确中文意思：",
+        "correct": "vt.照亮，照明；用灯光装饰；说明，阐释",
+        "options": [
+          "v.举例说明,阐明;图解,加插图",
+          "v.支配,统治,控制;占优势",
+          "vt.照亮，照明；用灯光装饰；说明，阐释",
+          "vt.除去;淘汰;排(删,消)除;削减(人员)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根：il-(向内/加强) + lumin(光) + -ate(动词后缀)，核心动作是“使内部充满光”，引申为“照亮、照明”，进一步抽象为“使思想/内容清晰可见”，即“说明、阐释”。",
+        "similarWarning": "eliminate (e-向外 + limin门槛 + -ate → 赶出门槛 → 消除)；illustrate (il-加强 + lustr光 + -ate → 使光亮 → 说明、图解)；illiterate (il-否定 + liter字母 + -ate → 不识字 → 文盲的)。注意与illuminate仅差字母组合：lumin(光) vs limin(门槛) vs lustr(光) vs liter(字母)。",
+        "extendedMeaning": "考研中常考查其抽象义“阐明、解释”，如illuminate a difficult passage（阐明一段难懂的文本），而非单纯指物理照明。",
+        "examUsage": "常见搭配：illuminate the problem/issue（阐明问题），例：The professor's lecture illuminated the complex theory.（教授的讲座阐明了这个复杂理论。）"
+      }
+    },
+    {
+      "id": "illusion",
+      "word": "illusion",
+      "phonetic": "/i'lju:ʒən/",
+      "meaning": "n.幻想，错误的观念；错觉，幻觉，假象",
+      "similar": [
+        "collision",
+        "pollution",
+        "billion",
+        "million",
+        "invasion",
+        "solution",
+        "conclusion"
+      ],
+      "question": {
+        "wordId": "illusion",
+        "stem": "选择 \"illusion\" 的正确中文意思：",
+        "correct": "n.幻想，错误的观念；错觉，幻觉，假象",
+        "options": [
+          "n.污染",
+          "num./n.(美)十亿,(英)万亿",
+          "n.碰撞；(利益，意见等的)冲突，抵触",
+          "n.幻想，错误的观念；错觉，幻觉，假象"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根il-（进入）+lus-（光，源自拉丁语ludere，意为“玩耍”或“模仿”）+ion（名词后缀）。核心物理动作：光进入眼睛产生虚假的视觉印象，即“错觉”。引申为不真实的观念或幻想。",
+        "similarWarning": "collision（碰撞，col-共同+lis-打击）vs illusion（幻觉，il-进入+lus-光）：前者强调物体相撞，后者强调视觉或认知上的虚假。invasion（入侵，in-进入+vad-走）vs illusion：前者是实际进入，后者是虚幻感知。",
+        "extendedMeaning": "考研僻义：指“错误的观念或信念”，如“cherish the illusion that...”（抱有…的错误观念），强调主观上对现实的误解，而非仅视觉错觉。",
+        "examUsage": "真题考点：常与“reality”对比出现，如“shatter an illusion”（打破幻想）。搭配“be under the illusion that...”（误以为…）为高频题眼，用于区分主观认知与客观事实。"
+      }
+    },
+    {
+      "id": "illustrate",
+      "word": "illustrate",
+      "phonetic": "/'iləstreit/",
+      "meaning": "v.举例说明,阐明;图解,加插图",
+      "similar": [
+        "illustration",
+        "frustrate",
+        "illiterate",
+        "illuminate",
+        "fluctuate",
+        "magistrate"
+      ],
+      "question": {
+        "wordId": "illustrate",
+        "stem": "选择 \"illustrate\" 的正确中文意思：",
+        "correct": "v.举例说明,阐明;图解,加插图",
+        "options": [
+          "n.说明；例证，插图；举例说明",
+          "a.文盲的,未受教育的",
+          "v.举例说明,阐明;图解,加插图",
+          "vt.挫败,阻挠,使灰心"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根lustr-（光、照亮）+ -ate（动词后缀）。核心动作是“照亮”，引申为用图片或例子“照亮”抽象概念，使其清晰可见。",
+        "similarWarning": "illuminate（照亮，阐明）：前缀il-（向内）+ lumin-（光），侧重“用光照明”或“启发”；illustrate（举例说明）：侧重“用实例或图解使易懂”。拼写差异：-lustr- vs -lumin-。",
+        "extendedMeaning": "考研僻义：v. 说明，证明（非字面插图，而是用事实、数据等论证观点）。例：The data illustrates the trend clearly. 数据清楚地说明了这一趋势。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "illustration",
+      "word": "illustration",
+      "phonetic": "/ˌilə'streiʃən/",
+      "meaning": "n.说明；例证，插图；举例说明",
+      "similar": [
+        "illustrate"
+      ],
+      "question": {
+        "wordId": "illustration",
+        "stem": "选择 \"illustration\" 的正确中文意思：",
+        "correct": "n.说明；例证，插图；举例说明",
+        "options": [
+          "vt.假装；假定，设想；承担；呈现，采取",
+          "v.举例说明,阐明;图解,加插图",
+          "n.说明；例证，插图；举例说明",
+          "a.新鲜的,无经验的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语illustratio，由in-（进入，使） + lustrare（照亮，照亮） + -tion（名词后缀）构成。核心动作：使明亮，照亮晦涩之处，引申为用图像或例子让抽象概念变得清晰可见，即“说明、图解”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常指“例证”的抽象含义，如“an illustration of the principle”（该原则的例证），强调用具体事例阐释抽象理论，而非单纯指图片。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "image",
+      "word": "image",
+      "phonetic": "/'imidʒ/",
+      "meaning": "n.形象，声誉；印象；像；形象的描述，比喻",
+      "similar": [
+        "imagine",
+        "damage",
+        "age",
+        "cage",
+        "male",
+        "mate",
+        "rage",
+        "wage"
+      ],
+      "question": {
+        "wordId": "image",
+        "stem": "选择 \"image\" 的正确中文意思：",
+        "correct": "n.形象，声誉；印象；像；形象的描述，比喻",
+        "options": [
+          "v./n.损害,毁坏 n.(pl.)损害赔偿费",
+          "v.想象,设想,料想",
+          "n.年龄；时代；老年；长时间 v.(使)变老",
+          "n.形象，声誉；印象；像；形象的描述，比喻"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'imago'（图像、模仿），词根 'im-'（类似）与 'ag-'（做、驱动）相关，核心物理动作为“模仿或复制外在形态”。词义演变：原指视觉上的复制品（像）→ 引申为心理中的复制（印象）→ 再抽象为公众认知的复制品（形象、声誉）→ 修辞上的复制（比喻）。",
+        "similarWarning": "imagine（想象）：imagine = image + -ine（动词后缀），强调在脑海中“形成图像”；image 侧重已有的图像或印象。damage（损害）：damage = dam-（损害）+ -age，与 image 无词源关联，仅拼写相似。",
+        "extendedMeaning": "在考研真题中常考“形象、声誉”（如 public image 公众形象），以及“比喻、象征”（如 a vivid image of poverty 贫困的生动写照）。",
+        "examUsage": "核心搭配：brand image（品牌形象）、negative image（负面形象）。真题例句：The company's image was damaged by the scandal.（公司的声誉因丑闻受损。）"
+      }
+    },
+    {
+      "id": "imaginary",
+      "word": "imaginary",
+      "phonetic": "/i'mædʒinəri/",
+      "meaning": "a.想象的,虚构的",
+      "similar": [
+        "imagine",
+        "imagination",
+        "imaginative",
+        "stationary"
+      ],
+      "question": {
+        "wordId": "imaginary",
+        "stem": "选择 \"imaginary\" 的正确中文意思：",
+        "correct": "a.想象的,虚构的",
+        "options": [
+          "a.富有想象力的,爱想象的",
+          "n.想象(力)；空想，幻觉；想象出来的事物",
+          "v.想象,设想,料想",
+          "a.想象的,虚构的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'imaginarius'（属于图像的），词根 'imago'（图像，意象） + 后缀 '-ary'（形容词后缀，表示“与…有关的”）。核心物理动作是“将头脑中的图像（image）转化为现实不存在的产物”，强调与现实对比的虚构性，而非想象过程本身。",
+        "similarWarning": "形近词辨析：\n- imaginary (想象的，虚构的)：强调不存在于现实中，纯属幻想。\n- imaginative (富有想象力的)：强调创造力，指人具有丰富想象力。\n- imagination (想象力)：名词，指想象的能力或过程。\n- stationary (静止的)：拼写差异在于 'a' vs 'i'，词义完全无关。",
+        "extendedMeaning": "在考研阅读中，常引申为“假想的、假设的”，用于科学或理论语境，如 imaginary number（虚数）或 imaginary line（假想线），强调逻辑假设而非文学幻想。",
+        "examUsage": "真题考点：常与 'real'（真实的）或 'actual'（实际的）形成对比，作为干扰项出现在细节题或态度题中。例如：区分 'imaginary threats'（虚构的威胁）与 'real dangers'（真实的危险）。无特殊固定搭配。"
+      }
+    },
+    {
+      "id": "imagination",
+      "word": "imagination",
+      "phonetic": "/iˌmædʒi'neiʃən/",
+      "meaning": "n.想象(力)；空想，幻觉；想象出来的事物",
+      "similar": [
+        "imaginative",
+        "imitation",
+        "implication",
+        "imaginary",
+        "variation",
+        "indication",
+        "invitation",
+        "limitation"
+      ],
+      "question": {
+        "wordId": "imagination",
+        "stem": "选择 \"imagination\" 的正确中文意思：",
+        "correct": "n.想象(力)；空想，幻觉；想象出来的事物",
+        "options": [
+          "n.想象(力)；空想，幻觉；想象出来的事物",
+          "n.含意，暗示，暗指；牵连",
+          "a.富有想象力的,爱想象的",
+          "n.模仿,仿效;仿制;仿造品"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根imagin-（想象，来自拉丁语imaginari，意为“描绘、模仿”）+ 名词后缀-ation。核心动作是“在心中形成图像”，即从记忆或创造中构建未曾实际感知的画面。",
+        "similarWarning": "imaginative（adj.富有想象力的）vs imaginary（adj.虚构的）vs imitation（n.模仿）。imagination强调能力或过程；imaginative侧重创造性；imaginary指非真实的；imitation指仿制品。",
+        "extendedMeaning": "在考研英语中常指“创造力、构思能力”，而非简单的幻想。如“the power of imagination”（想象力）常与创新、艺术相关。",
+        "examUsage": "真题考点：搭配“beyond imagination”（超乎想象）、“lack imagination”（缺乏想象力）作为态度或评价题眼。例如：The Internet has changed our lives beyond imagination.（网络已超乎想象地改变了我们的生活。）"
+      }
+    },
+    {
+      "id": "imaginative",
+      "word": "imaginative",
+      "phonetic": "/ɪ'mædʒɪnətɪv/",
+      "meaning": "a.富有想象力的,爱想象的",
+      "similar": [
+        "imagination",
+        "imaginary",
+        "imperative",
+        "indicative",
+        "initiative",
+        "qualitative"
+      ],
+      "question": {
+        "wordId": "imaginative",
+        "stem": "选择 \"imaginative\" 的正确中文意思：",
+        "correct": "a.富有想象力的,爱想象的",
+        "options": [
+          "n.命令;需要;规则;祈使语气a.强制的;紧急的",
+          "a.想象的,虚构的",
+          "n.想象(力)；空想，幻觉；想象出来的事物",
+          "a.富有想象力的,爱想象的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'imag(in)ari'（想象，模仿）→ 核心动作是'在心中形成图像'。词根'image'（图像）+后缀'-ative'（具有...性质的）→ 指具备创造或形成新颖心理图像的能力，强调主动的、创造性的想象力，区别于'imaginary'（虚构的、假想的）。",
+        "similarWarning": "imaginative（富有想象力的，主动创造） vs imaginary（假想的，虚构存在，被动） vs imagination（想象力，名词）。关键差异：-ative（主动能力） vs -ary（属性状态） vs -ation（抽象行为）。",
+        "extendedMeaning": "在考研阅读中常引申为'创新的、突破常规的'，如'imaginative solutions'（创新解决方案），强调超越传统思维框架，而非单纯幻想。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "imagine",
+      "word": "imagine",
+      "phonetic": "/ɪ'mædʒɪn/",
+      "meaning": "v.想象,设想,料想",
+      "similar": [
+        "image",
+        "marine",
+        "imaginary",
+        "magazine"
+      ],
+      "question": {
+        "wordId": "imagine",
+        "stem": "选择 \"imagine\" 的正确中文意思：",
+        "correct": "v.想象,设想,料想",
+        "options": [
+          "a.想象的,虚构的",
+          "a.海的,海生的;船舶的,航海的",
+          "n.形象，声誉；印象；像；形象的描述，比喻",
+          "v.想象,设想,料想"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 imag- (图像，源于拉丁语 imago，意为“图像、肖像”) + -ine (动词后缀，表“使成为”)。核心动作：在脑海中形成图像，即“想象”。",
+        "similarWarning": "image (n. 图像，影像) vs imagine (v. 想象)：image 是名词，指具体的图像或形象；imagine 是动词，指在脑海中形成图像。marine (adj. 海洋的) vs imagine：仅拼写部分相似，无词义关联。imaginary (adj. 虚构的) vs imagine：imaginary 是 imagine 的形容词形式，意为“想象中的、虚构的”。magazine (n. 杂志) vs imagine：magazine 词源与“仓库”相关，与 imagine 无词源联系，仅拼写相似。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "imitate",
+      "word": "imitate",
+      "phonetic": "/'imiteit/",
+      "meaning": "v.模仿,仿效;仿造,伪造",
+      "similar": [
+        "initiate",
+        "irritate",
+        "agitate",
+        "eliminate",
+        "imitation",
+        "dominate",
+        "emigrate",
+        "hesitate"
+      ],
+      "question": {
+        "wordId": "imitate",
+        "stem": "选择 \"imitate\" 的正确中文意思：",
+        "correct": "v.模仿,仿效;仿造,伪造",
+        "options": [
+          "vt.激怒,恼火,使急躁",
+          "vt.开始，创始，发动；启蒙，使入门；引入",
+          "v.模仿,仿效;仿造,伪造",
+          "v.摇动(液体)；使焦虑不安；困扰；鼓动"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语imitari（模仿，复制），词根im-（图像、复制）与拉丁语aemulus（竞争）同源。核心物理动作：通过观察原物（图像）进行复制或再现，强调对原型的参照性行为。",
+        "similarWarning": "initiate（开始/发起，-it-为“走”），imitate（模仿，-it-为“复制”）；irritate（激怒，双r表重复摩擦），agitate（煽动，ag-表“驱动”）。对比：imitate与initiate仅差首字母i与n，前者侧重“仿照原样”，后者侧重“启动新进程”。",
+        "extendedMeaning": "考研僻义：在科技或学术语境中可指“模拟（系统/过程）”，如imitate natural conditions（模拟自然条件）；在文学批评中可指“效仿（风格/手法）”，非简单抄袭。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "imitation",
+      "word": "imitation",
+      "phonetic": "/ˌimi'teiʃən/",
+      "meaning": "n.模仿,仿效;仿制;仿造品",
+      "similar": [
+        "limitation",
+        "invitation",
+        "imagination",
+        "implication",
+        "indication",
+        "meditation",
+        "temptation",
+        "imitate"
+      ],
+      "question": {
+        "wordId": "imitation",
+        "stem": "选择 \"imitation\" 的正确中文意思：",
+        "correct": "n.模仿,仿效;仿制;仿造品",
+        "options": [
+          "n.想象(力)；空想，幻觉；想象出来的事物",
+          "n.邀请,招待;请柬",
+          "n.限制,局限性",
+          "n.模仿,仿效;仿制;仿造品"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 imitatio(n-)，源自 imitari（模仿），与 image（图像）同源，核心动作是“复制、仿照”。",
+        "similarWarning": "limitation（限制）：li-（边界）vs im-（模仿），词根不同，强调对范围的约束；invitation（邀请）：in-（进入）vs im-，词根 vite（邀请）不同，指社交行为；imitation 强调复制行为或仿制品。",
+        "extendedMeaning": "在考研阅读中可指“仿生设计”或“模仿行为”（如动物模仿），或用于艺术批评中指“赝品、仿作”。",
+        "examUsage": "高频搭配：in imitation of（模仿……），如“in imitation of nature”（模仿自然）；真题考点：区分 imitation 与 copy（copy 侧重直接复制，imitation 可指风格或技巧的模仿）。"
+      }
+    },
+    {
+      "id": "immediate",
+      "word": "immediate",
+      "phonetic": "/i'mi:diət/",
+      "meaning": "a.立即的,即时的;直接的,最接近的",
+      "similar": [
+        "meditate"
+      ],
+      "question": {
+        "wordId": "immediate",
+        "stem": "选择 \"immediate\" 的正确中文意思：",
+        "correct": "a.立即的,即时的;直接的,最接近的",
+        "options": [
+          "a.乐观主义的",
+          "v.想,考虑,(尤指宗教上的)沉思,冥想",
+          "a.本地的,本国的;天生的 n.本地人,本国人",
+          "a.立即的,即时的;直接的,最接近的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根词缀：im-（不，无）+ medi（中间）+ -ate（形容词后缀）。核心动作：没有中间间隙的。本义为“没有间隔的”，引申为时间上“立即的、即时的”和空间/关系上“直接的、最接近的”。",
+        "similarWarning": "形近词：meditate /ˈmedɪteɪt/（v. 冥想，沉思）。差异：immediate 前缀 im- + medi + ate；meditate 词根 med（思考）+ it + ate。immediate 强调“无间隔”，meditate 强调“思考”。",
+        "extendedMeaning": "熟词僻义：在考研阅读中常引申为“最直接的、最相关的”，如 immediate cause（直接原因），immediate family（直系亲属），强调逻辑或血缘上的直接关联，而非时间上的快慢。",
+        "examUsage": "真题考点：常见搭配 immediate future（最近的将来），用于时间状语；immediate effect（即时效应），在科技/经济类阅读中高频出现，作为因果关系的题眼。"
+      }
+    },
+    {
+      "id": "immense",
+      "word": "immense",
+      "phonetic": "/i'mens/",
+      "meaning": "a.广大的,巨大的;[口]极好的",
+      "similar": [
+        "immerse",
+        "immune",
+        "intense",
+        "commence"
+      ],
+      "question": {
+        "wordId": "immense",
+        "stem": "选择 \"immense\" 的正确中文意思：",
+        "correct": "a.广大的,巨大的;[口]极好的",
+        "options": [
+          "v.使沉浸在;使浸没",
+          "a.免疫的,有免疫力的;有受影响的;豁免的",
+          "a.强烈的,剧烈的;热烈的,热情的",
+          "a.广大的,巨大的;[口]极好的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "im-（不）+ mense（测量；源自拉丁语mensus，意为“测量”）。字面义为“无法测量的”，引申为“广大的、巨大的”，强调超出常规尺度。口语中引申为“极好的”，表示程度极高。",
+        "similarWarning": "immerse（淹没，专心于；im-进入+merse沉入）vs immense（巨大；im-不+mense测量）：区别在于词根-merse（沉）与-mense（测量）。immune（免疫的；im-不+mune义务）vs immense：-mune（义务）与-mense不同。intense（强烈的；in-向内+tense拉紧）vs immense：-tense（拉紧）与-mense无关。commence（开始；com-共同+mence开始）vs immense：-mence（开始）与-mense不同。",
+        "extendedMeaning": "在考研阅读中，immense常表抽象事物的巨大规模，如immense pressure（巨大压力）、immense significance（重大意义），或用于强调程度，如immense popularity（极高人气）。口语中“极好的”义项不常见于真题。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "immerse",
+      "word": "immerse",
+      "phonetic": "/i'mə:s/",
+      "meaning": "v.使沉浸在;使浸没",
+      "similar": [
+        "immense",
+        "inverse",
+        "commerce",
+        "disperse"
+      ],
+      "question": {
+        "wordId": "immerse",
+        "stem": "选择 \"immerse\" 的正确中文意思：",
+        "correct": "v.使沉浸在;使浸没",
+        "options": [
+          "a.相反的,倒转的,反转的 n.相反之物 v.倒转",
+          "v.使沉浸在;使浸没",
+          "a.广大的,巨大的;[口]极好的",
+          "n.商业，贸易；交际，交往"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "im-（进入）+ merse（来自拉丁语mergere，意为'浸入、下沉'）→ 进入液体中下沉 → 使浸没；引申为全身心投入某种活动或情感中，如'沉浸'。",
+        "similarWarning": "immense（巨大的）：im-（不）+ mense（测量）→ 不可测量的 → 巨大；inverse（相反的）：in-（反）+ verse（转）→ 反转；commerce（商业）：com-（共同）+ merce（交易）→ 共同交易；disperse（分散）：dis-（分开）+ sperse（散开）→ 分散。",
+        "extendedMeaning": "使沉浸于（抽象事物，如思考、工作、文化），例：immerse oneself in the local culture（融入当地文化）。",
+        "examUsage": "真题中常考搭配'be immersed in'（沉浸于），作为阅读中描述专注状态的题眼，如'He was deeply immersed in the research.'"
+      }
+    },
+    {
+      "id": "immigrant",
+      "word": "immigrant",
+      "phonetic": "/'imigrənt/",
+      "meaning": "a.(从国外)移来的,移民的 n.移民,侨民",
+      "similar": [
+        "indignant"
+      ],
+      "question": {
+        "wordId": "immigrant",
+        "stem": "选择 \"immigrant\" 的正确中文意思：",
+        "correct": "a.(从国外)移来的,移民的 n.移民,侨民",
+        "options": [
+          "a.愤慨的,愤慨不平的",
+          "a.(从国外)移来的,移民的 n.移民,侨民",
+          "n.印象,感想;盖印,压痕",
+          "n.(pl.)工具,器具 v.贯彻,实现"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "im-（向内）+migr（迁移）+ -ant（名词/形容词后缀）→ 向内迁移的人或物，即从国外移入的移民。核心动作：从外部迁移到内部。",
+        "similarWarning": "indignant（愤慨的）：immi- vs indi-，grant vs gnant。immigrant强调迁移，indignant强调愤怒。",
+        "extendedMeaning": "考研中常考其动词形式immigrate（迁入）及名词immigration（移民入境），与emigrate（迁出）形成对比。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "immune",
+      "word": "immune",
+      "phonetic": "/i'mju:n/",
+      "meaning": "a.免疫的,有免疫力的;有受影响的;豁免的",
+      "similar": [
+        "immense"
+      ],
+      "question": {
+        "wordId": "immune",
+        "stem": "选择 \"immune\" 的正确中文意思：",
+        "correct": "a.免疫的,有免疫力的;有受影响的;豁免的",
+        "options": [
+          "n.爱好者;(pl.)情侣",
+          "n.白天,日间",
+          "a.广大的,巨大的;[口]极好的",
+          "a.免疫的,有免疫力的;有受影响的;豁免的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为拉丁语'munis'（职责、服务），前缀'im-'（否定）+ 'munis'（职责）→ 免除职责的 → 引申为免疫的、不受影响的。核心动作：从公共义务中解脱，后用于医学指身体免除疾病侵袭。",
+        "similarWarning": "immense（a.巨大的）：拼写差异为'u' vs 'e'，词源不同。immune强调豁免；immense指尺寸或程度极大。",
+        "extendedMeaning": "在考研阅读中常引申为'不受（批评、法律等）影响的'，如'immune to criticism'（不受批评影响）或'immune from prosecution'（豁免起诉）。",
+        "examUsage": "高频考点：'immune system'（免疫系统）为科学类文章核心词；搭配'be immune to'（对…免疫/不受…影响）常作为阅读定位或选项改写依据。"
+      }
+    },
+    {
+      "id": "impact",
+      "word": "impact",
+      "phonetic": "/'ɪmpækt /",
+      "meaning": "n.冲击,碰撞;影响 v.影响;挤入,压紧",
+      "similar": [
+        "impart",
+        "compact",
+        "pact",
+        "impair",
+        "import",
+        "intact",
+        "implicit"
+      ],
+      "question": {
+        "wordId": "impact",
+        "stem": "选择 \"impact\" 的正确中文意思：",
+        "correct": "n.冲击,碰撞;影响 v.影响;挤入,压紧",
+        "options": [
+          "n.冲击,碰撞;影响 v.影响;挤入,压紧",
+          "vt.传授，给予；告知，通知",
+          "a.紧密的,结实的;简明的 v.使紧凑,压缩",
+          "n.合同,条约,公约,协定"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "im-（向内）+ pact（压紧，源自 pangere“固定”）。核心物理动作是“向内压紧”，引申为“冲击、碰撞”及“影响”。",
+        "similarWarning": "impart（im-给予 + part部分 → 传授，告知）vs impact（压入→冲击）；compact（com-共同 + pact压紧 → 紧凑的，契约）vs impact（向内压）；pact（压紧之物 → 协定）vs impact（冲击）；impair（im-使 + pair更糟 → 损害）vs impact（压入影响）；import（im-向内 + port搬运 → 进口，重要性）vs impact（压入撞击）；intact（in-未 + tact接触 → 完整的）vs impact（压入破坏）；implicit（im-向内 + plic折叠 → 含蓄的）vs impact（压入）。",
+        "extendedMeaning": "考研常考“影响”（非物理冲击），如 have a profound impact on（对…有深远影响）。",
+        "examUsage": "常用于搭配：impact on/upon（对…的影响），真题例句：The impact of technology on education is profound.（科技对教育的影响是深远的。）注意区别 affect（动词影响）与 impact（名词/动词影响）。"
+      }
+    },
+    {
+      "id": "impair",
+      "word": "impair",
+      "phonetic": "/im'pεə/",
+      "meaning": "v.损害,损伤;削弱,减少",
+      "similar": [
+        "pair",
+        "impact",
+        "impart",
+        "repair"
+      ],
+      "question": {
+        "wordId": "impair",
+        "stem": "选择 \"impair\" 的正确中文意思：",
+        "correct": "v.损害,损伤;削弱,减少",
+        "options": [
+          "v.损害,损伤;削弱,减少",
+          "n.一对,一双;一副;夫妇 v.配对,成对",
+          "n.冲击,碰撞;影响 v.影响;挤入,压紧",
+          "vt.传授，给予；告知，通知"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "im-（进入/使）+ pair（更糟糕，来自拉丁语pejor“更坏”）。核心动作：使事物进入更坏的状态，即损害、削弱。",
+        "similarWarning": "pair（一对）：impair 含 pair，但意为“损害”，与“一对”无关。impact（冲击）：im- + pact（压紧），强调物理撞击。impart（给予）：im- + part（部分），强调传递信息或属性。",
+        "extendedMeaning": "在考研阅读中常引申为“削弱（功能、能力、效果）”，如 impair memory（损害记忆）、impair performance（削弱表现）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "impart",
+      "word": "impart",
+      "phonetic": "/im'pɑ:t/",
+      "meaning": "vt.传授，给予；告知，通知",
+      "similar": [
+        "impact",
+        "import",
+        "apart",
+        "smart",
+        "depart",
+        "impair"
+      ],
+      "question": {
+        "wordId": "impart",
+        "stem": "选择 \"impart\" 的正确中文意思：",
+        "correct": "vt.传授，给予；告知，通知",
+        "options": [
+          "ad.分离，离开，隔开 a.分离的，分隔的",
+          "v./n.进口,输入,(pl.)进口商品;要旨,含意",
+          "n.冲击,碰撞;影响 v.影响;挤入,压紧",
+          "vt.传授，给予；告知，通知"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "im-（向内）+ part（部分、分开）→ 把自己的知识或信息的一部分分给他人 → 传授、告知。核心动作是“分出一部分给对方”，强调传递或分享。",
+        "similarWarning": "impact（n./v.冲击，影响）vs impart：impact中“-pact”表示“压紧”，强调冲击力；impart中“-part”表示“分开”，强调传递。import（v.进口）vs impart：import中“-port”表示“搬运”，强调带入；impart强调分给。depart（v.离开）vs impart：de-（离开）+ part（分开）→ 离开；impart是向内分给。",
+        "extendedMeaning": "在考研阅读中常引申为“赋予（某种品质或特性）”，如impart a sense of urgency（赋予紧迫感）。",
+        "examUsage": "impart knowledge to students（传授知识给学生的经典搭配）；真题中常作为“告知”义干扰项，如impart information（告知信息）与inform（通知）同义替换。"
+      }
+    },
+    {
+      "id": "impatient",
+      "word": "impatient",
+      "phonetic": "/im'peiʃənt/",
+      "meaning": "a.不耐烦的,急躁的",
+      "similar": [
+        "implement",
+        "compartment",
+        "department"
+      ],
+      "question": {
+        "wordId": "impatient",
+        "stem": "选择 \"impatient\" 的正确中文意思：",
+        "correct": "a.不耐烦的,急躁的",
+        "options": [
+          "a.不耐烦的,急躁的",
+          "n.卧车包房,(客车车厢内的)隔间;分隔的空间",
+          "n.部,局,处,科,部门;系,学部",
+          "n.(pl.)工具,器具 v.贯彻,实现"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "im-（否定前缀，表'不、无'）+ patient（耐心的）。核心动作：缺乏耐心的状态，强调对等待或限制的抗拒。",
+        "similarWarning": "形近词辨析：patient（耐心的；患者），impatient（不耐烦的）；implement（实施；工具），impatient（不耐烦的）；compartment（隔间；区划），impatient（不耐烦的）；department（部门；系），impatient（不耐烦的）。差异在于前缀和后缀的替换，impatient直接否定patient的耐心特质。",
+        "extendedMeaning": "考研僻义：表示'急切的、迫不及待的'（常与for/to do连用，强调渴望而非单纯烦躁）。例如：impatient for change（渴望改变）。",
+        "examUsage": "真题考点：常考固定搭配be impatient with（对...不耐烦）和be impatient for（急切渴望）。在阅读理解中，impatient常作为态度题选项，需区分其负面（急躁）与中性（急切）语境。"
+      }
+    },
+    {
+      "id": "imperative",
+      "word": "imperative",
+      "phonetic": "/ɪm'perətɪv/",
+      "meaning": "n.命令;需要;规则;祈使语气a.强制的;紧急的",
+      "similar": [
+        "comparative",
+        "cooperative",
+        "alternative",
+        "competitive",
+        "imaginative",
+        "creative",
+        "imperial",
+        "negative"
+      ],
+      "question": {
+        "wordId": "imperative",
+        "stem": "选择 \"imperative\" 的正确中文意思：",
+        "correct": "n.命令;需要;规则;祈使语气a.强制的;紧急的",
+        "options": [
+          "n.二选一；供选择的东西；取舍 a.二选一的",
+          "a.合作的,协作的 n.合作社",
+          "a.比较的,相当的",
+          "n.命令;需要;规则;祈使语气a.强制的;紧急的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语 imperare（命令），由 im-（向内）+ parare（准备）构成。核心动作是\"下令让某人准备好\"，引申为\"必须执行的命令\"。词根 imper-（命令）与 emperor（皇帝）同源，强调权威性和强制性。\",\n  \"similarWarning\": \"形近词辨析：imperative（强制的） vs imperial（帝国的）：-ative 表\"有...性质的\"，-ial 表\"属于...的\"；comparative（比较的） vs cooperative（合作的）：com-（共同） vs co-（一起）+ oper（工作）；alternat",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "imperial",
+      "word": "imperial",
+      "phonetic": "/im'piəriəl/",
+      "meaning": "a.帝国的，帝王的；(度量衡)英制的",
+      "similar": [
+        "empirical",
+        "aerial",
+        "serial",
+        "internal",
+        "interval",
+        "material",
+        "commercial",
+        "imperative"
+      ],
+      "question": {
+        "wordId": "imperial",
+        "stem": "选择 \"imperial\" 的正确中文意思：",
+        "correct": "a.帝国的，帝王的；(度量衡)英制的",
+        "options": [
+          "a.帝国的，帝王的；(度量衡)英制的",
+          "a.(在或来自)空中的，航空的 n.天线",
+          "a.凭经验(或观察)的,经验主义的",
+          "n.连载小说，连续剧；连载刊物 a.连续的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语imperium（帝国、统治权），由im-（向内）+parare（准备、命令）演变而来，核心动作为“下达命令以统治”，后引申为与帝国或帝王相关的属性。",
+        "similarWarning": "empirical（经验的，来自经验）vs imperial（帝国的）：empirical以e开头，源于希腊语empeiria（经验）；imperial以i开头，源于拉丁语imperium。拼写差异在首字母e/i，词义截然不同。",
+        "extendedMeaning": "在考研外刊中常出现“帝国风格的；威严的”非字面义，如imperial ambition（称霸野心），不限于度量衡。",
+        "examUsage": "考研真题中常考固定搭配imperial system（英制单位），与metric system（公制）对比，或作形容词修饰power/rule，如imperial power（帝国权力）。"
+      }
+    },
+    {
+      "id": "impetus",
+      "word": "impetus",
+      "phonetic": "/'ɪmpɪtəs/",
+      "meaning": "n.推动(力),促进",
+      "similar": [],
+      "question": {
+        "wordId": "impetus",
+        "stem": "选择 \"impetus\" 的正确中文意思：",
+        "correct": "n.推动(力),促进",
+        "options": [
+          "n.火焰;火光;闪光,光辉 v.燃烧,冒火焰",
+          "n.小叶,嫩叶;传单,活页",
+          "v.描绘;描写,描述",
+          "n.推动(力),促进"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "im-（向内）+ pet-（追求，寻求，源自拉丁语petere‘去寻求’）+-us（名词后缀）→ 内在的追求动力 → 推动力，促进。核心动作：向内施加的推动力量。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为‘刺激因素’或‘催化剂’，强调引发后续变化的关键力量，如‘economic impetus’（经济刺激）。",
+        "examUsage": "常见于搭配‘give an impetus to’（促进…；推动…），如‘The new policy gave an impetus to the development of renewable energy.’（新政策促进了可再生能源的发展。）"
+      }
+    },
+    {
+      "id": "implement",
+      "word": "implement",
+      "phonetic": "/'implimənt/",
+      "meaning": "n.(pl.)工具,器具 v.贯彻,实现",
+      "similar": [
+        "complement",
+        "improvement",
+        "compliment",
+        "employment",
+        "supplement",
+        "element",
+        "movement",
+        "impatient"
+      ],
+      "question": {
+        "wordId": "implement",
+        "stem": "选择 \"implement\" 的正确中文意思：",
+        "correct": "n.(pl.)工具,器具 v.贯彻,实现",
+        "options": [
+          "n.(pl.)问候,致意 n./v.称赞,恭维",
+          "n.改进,进步,增进;改进措施",
+          "n.补足物，船上的定员；补语 vt.补充，补足",
+          "n.(pl.)工具,器具 v.贯彻,实现"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语implere（装满，完成），由in-（进入）+plere（装满，同full）构成。核心物理动作是“往里面填满”，引申为“用工具填满任务”即“实施、执行”，而“工具”正是用来填充任务的器具。",
+        "similarWarning": "complement（补充，补足，e强调“填满使之完美”）、compliment（赞美，i与“微笑”谐音联想）、implement（实现，工具）。区别：implement首字母i，核心是“实施”；complement首字母c，核心是“互补”；compliment首字母c且中间有i，核心是“恭维”。",
+        "extendedMeaning": "在考研真题中，implement常作及物动词，意为“实施、执行（计划、政策、方案等）”，如implement a strategy（实施战略），强调将抽象概念转化为具体行动。",
+        "examUsage": "真题考点：implement常与policy（政策）、plan（计划）、agreement（协议）等名词搭配，构成核心题眼。例如：\"The government needs to implement effective measures to reduce pollution.\"（政府需要实施有效措施以减少污染。）干扰项常为complement（补充）或supplement（���补），需注意词义差异。"
+      }
+    },
+    {
+      "id": "implication",
+      "word": "implication",
+      "phonetic": "/ˌɪmplɪ'keɪʃn/",
+      "meaning": "n.含意，暗示，暗指；牵连",
+      "similar": [
+        "complication",
+        "application",
+        "imitation",
+        "indication",
+        "imagination",
+        "publication",
+        "civilization",
+        "inflation"
+      ],
+      "question": {
+        "wordId": "implication",
+        "stem": "选择 \"implication\" 的正确中文意思：",
+        "correct": "n.含意，暗示，暗指；牵连",
+        "options": [
+          "n.复杂,纠纷;并发症",
+          "n.含意，暗示，暗指；牵连",
+          "n.模仿,仿效;仿制;仿造品",
+          "n.申请，申请书；应用，实施，实用性"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "implication = im-（向内）+ plic（折叠）+ -ation（名词后缀）。核心物理动作是“向内折叠”，即把含义折进话语里，引申为“暗示、暗指”；折叠后东西缠绕在一起，引申为“牵连”。",
+        "similarWarning": "complication（复杂化）：com-（共同）+ plic + -ation，共同折叠→错综复杂。implication 强调“隐含”，complication 强调“复杂状态”。",
+        "extendedMeaning": "在考研阅读中常指“可能产生的后果或影响”，如 political implications（政治影响），并非简单“暗示”。",
+        "examUsage": "真题考点：by implication（含蓄地，暗示地）。例：He criticized her by implication.（他含蓄地批评了她。）常作为推断题题眼。"
+      }
+    },
+    {
+      "id": "implicit",
+      "word": "implicit",
+      "phonetic": "/im'plisit/",
+      "meaning": "a.含蓄的;(in)固有的;无疑问的;绝对的",
+      "similar": [
+        "simplicity",
+        "explicit",
+        "impact",
+        "complicate"
+      ],
+      "question": {
+        "wordId": "implicit",
+        "stem": "选择 \"implicit\" 的正确中文意思：",
+        "correct": "a.含蓄的;(in)固有的;无疑问的;绝对的",
+        "options": [
+          "a.含蓄的;(in)固有的;无疑问的;绝对的",
+          "n.简单,简易;朴素;直率,单纯",
+          "a.详述的,明确的;坦率的;显然的",
+          "n.冲击,碰撞;影响 v.影响;挤入,压紧"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语implicitus，由in-（进入）与plicare（折叠）组合，原义为“折叠在内的”。核心物理动作：将事物折叠并包裹其中，形成未直接外显的状态。引申为“含蓄的”，即意思被包裹在话语中未明说；进一步引申为“固有的”，即属性内在于事物中；再引申为“无疑问的、绝对的”，表示信任或同意完全包裹无空隙。",
+        "similarWarning": "explicit（a.明确的）：im-（向内） vs ex-（向外），一个折叠在内（含蓄），一个展开在外（明确）。\nsimplicity（n.简单）：源自sim-（单一）与plic-（折叠），强调单层折叠（简单）；implicit强调多层折叠（隐含）。\ncomplicate（v.使复杂）：com-（一起）+plic-（折叠），将多个事物折叠在一起（复杂）；implicit强调单一事物向内折叠。\nimpact（n.影响）：im-（向内）+pact（压紧），强调物理撞击（冲击）；implicit不涉及物理撞击。",
+        "extendedMeaning": "【考研僻义】“固有的、内含的”：如implicit in（内在于），表示属性或特性自然存在于某事物中，不需要外部赋予。例：The value of education is implicit in the development of society.（教育价值内在于社会发展中。）",
+        "examUsage": ""
+      }
+    }
+  ]
+}

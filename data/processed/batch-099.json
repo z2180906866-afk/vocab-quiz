@@ -1,0 +1,1735 @@
+{
+  "batchId": 99,
+  "words": [
+    {
+      "id": "whistle",
+      "word": "whistle",
+      "phonetic": "/'hwisl/",
+      "meaning": "n.口哨,汽笛;口哨声,汽笛声 v.吹口哨;鸣笛",
+      "similar": [
+        "while",
+        "white"
+      ],
+      "question": {
+        "wordId": "whistle",
+        "stem": "选择 \"whistle\" 的正确中文意思：",
+        "correct": "n.口哨,汽笛;口哨声,汽笛声 v.吹口哨;鸣笛",
+        "options": [
+          "n.(生产、进出口等的)配额，(移民的)限额",
+          "a.白色的；苍白的；白种的 n.白色；白种人",
+          "conj.当…的时候；而；虽然；尽管 n.一会儿",
+          "n.口哨,汽笛;口哨声,汽笛声 v.吹口哨;鸣笛"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：whistle的核心含义与\"n.口哨,汽笛;口哨声,汽笛声 v.吹口哨;鸣笛\"相关",
+        "similarWarning": "注意区分：whistle 与 while, white 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "white",
+      "word": "white",
+      "phonetic": "/hwait/",
+      "meaning": "a.白色的；苍白的；白种的 n.白色；白种人",
+      "similar": [
+        "while",
+        "write",
+        "whistle",
+        "waiter",
+        "hit",
+        "wit",
+        "bite",
+        "cite"
+      ],
+      "question": {
+        "wordId": "white",
+        "stem": "选择 \"white\" 的正确中文意思：",
+        "correct": "a.白色的；苍白的；白种的 n.白色；白种人",
+        "options": [
+          "n.口哨,汽笛;口哨声,汽笛声 v.吹口哨;鸣笛",
+          "v.写，书写，写字；写作；写信(给)，函告",
+          "conj.当…的时候；而；虽然；尽管 n.一会儿",
+          "a.白色的；苍白的；白种的 n.白色；白种人"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：white的核心含义与\"a.白色的；苍白的；白种的 n.白色；白种人\"相关",
+        "similarWarning": "注意区分：white 与 while, write, whistle, waiter, hit, wit, bite, cite 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "who",
+      "word": "who",
+      "phonetic": "/hu:/",
+      "meaning": "pron.谁，什么人；…的人；他，她，他们",
+      "similar": [
+        "whom",
+        "why",
+        "whole",
+        "whose"
+      ],
+      "question": {
+        "wordId": "who",
+        "stem": "选择 \"who\" 的正确中文意思：",
+        "correct": "pron.谁，什么人；…的人；他，她，他们",
+        "options": [
+          "pron.谁；哪个人(who的宾格)",
+          "n.全部 a.全体的；全部的；完整的；无缺的",
+          "pron.谁，什么人；…的人；他，她，他们",
+          "ad./conj.为什么；…的理由 int.咳，哎呀"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：who的核心含义与\"pron.谁，什么人；…的人；他，她，他们\"相关",
+        "similarWarning": "注意区分：who 与 whom, why, whole, whose 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "whoever",
+      "word": "whoever",
+      "phonetic": "/hu:'evə/",
+      "meaning": "pron.[引导名词从句]谁；无论谁；究竟是谁",
+      "similar": [
+        "whatever",
+        "whenever",
+        "wherever",
+        "hover",
+        "however",
+        "whichever"
+      ],
+      "question": {
+        "wordId": "whoever",
+        "stem": "选择 \"whoever\" 的正确中文意思：",
+        "correct": "pron.[引导名词从句]谁；无论谁；究竟是谁",
+        "options": [
+          "pron.[引导名词从句]谁；无论谁；究竟是谁",
+          "conj.无论在哪里 ad.无论在哪里,究竟在哪里",
+          "conj.无论何时,随时;每当",
+          "pron.无论什么 a.无论什么样的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：whoever的核心含义与\"pron.[引导名词从句]谁；无论谁；究竟是谁\"相关",
+        "similarWarning": "注意区分：whoever 与 whatever, whenever, wherever, hover, however, whichever 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "whole",
+      "word": "whole",
+      "phonetic": "/həul/",
+      "meaning": "n.全部 a.全体的；全部的；完整的；无缺的",
+      "similar": [
+        "hole",
+        "whale",
+        "while",
+        "whose",
+        "wholly",
+        "who",
+        "hold",
+        "holy"
+      ],
+      "question": {
+        "wordId": "whole",
+        "stem": "选择 \"whole\" 的正确中文意思：",
+        "correct": "n.全部 a.全体的；全部的；完整的；无缺的",
+        "options": [
+          "conj.当…的时候；而；虽然；尽管 n.一会儿",
+          "n.鲸；庞然大物",
+          "n.洞,孔",
+          "n.全部 a.全体的；全部的；完整的；无缺的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：whole的核心含义与\"n.全部 a.全体的；全部的；完整的；无缺的\"相关",
+        "similarWarning": "注意区分：whole 与 hole, whale, while, whose, wholly, who, hold, holy 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wholesome",
+      "word": "wholesome",
+      "phonetic": "/'həulsəm/",
+      "meaning": "a.卫生的;有益的;健康的,有益健康的",
+      "similar": [
+        "troublesome"
+      ],
+      "question": {
+        "wordId": "wholesome",
+        "stem": "选择 \"wholesome\" 的正确中文意思：",
+        "correct": "a.卫生的;有益的;健康的,有益健康的",
+        "options": [
+          "a.令人烦恼的,讨厌的",
+          "int.再会,别了 n.告别",
+          "a.卫生的;有益的;健康的,有益健康的",
+          "n.盖"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：wholesome的核心含义与\"a.卫生的;有益的;健康的,有益健康的\"相关",
+        "similarWarning": "注意区分：wholesome 与 troublesome 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wholly",
+      "word": "wholly",
+      "phonetic": "/'həuli/",
+      "meaning": "ad.完全地,全部,一概",
+      "similar": [
+        "holy",
+        "jolly",
+        "whole"
+      ],
+      "question": {
+        "wordId": "wholly",
+        "stem": "选择 \"wholly\" 的正确中文意思：",
+        "correct": "ad.完全地,全部,一概",
+        "options": [
+          "n.全部 a.全体的；全部的；完整的；无缺的",
+          "a.欢乐的,高兴的",
+          "a.神圣的,圣洁的",
+          "ad.完全地,全部,一概"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：wholly的核心含义与\"ad.完全地,全部,一概\"相关",
+        "similarWarning": "注意区分：wholly 与 holy, jolly, whole 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "whom",
+      "word": "whom",
+      "phonetic": "/hu:m/",
+      "meaning": "pron.谁；哪个人(who的宾格)",
+      "similar": [
+        "who",
+        "whole",
+        "whose"
+      ],
+      "question": {
+        "wordId": "whom",
+        "stem": "选择 \"whom\" 的正确中文意思：",
+        "correct": "pron.谁；哪个人(who的宾格)",
+        "options": [
+          "pron.谁；哪个人(who的宾格)",
+          "pron.谁，什么人；…的人；他，她，他们",
+          "n.全部 a.全体的；全部的；完整的；无缺的",
+          "pron.谁的；哪(个)人的，那些(人)的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：whom的核心含义与\"pron.谁；哪个人(who的宾格)\"相关",
+        "similarWarning": "注意区分：whom 与 who, whole, whose 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "whose",
+      "word": "whose",
+      "phonetic": "/hu:z/",
+      "meaning": "pron.谁的；哪(个)人的，那些(人)的",
+      "similar": [
+        "hose",
+        "those",
+        "whole",
+        "choose",
+        "who",
+        "dose",
+        "hole",
+        "home"
+      ],
+      "question": {
+        "wordId": "whose",
+        "stem": "选择 \"whose\" 的正确中文意思：",
+        "correct": "pron.谁的；哪(个)人的，那些(人)的",
+        "options": [
+          "pron.谁的；哪(个)人的，那些(人)的",
+          "n.水龙带,软管 v.用软管(淋浇,冲洗)",
+          "pron./a.[that的复数]那些；那些人(东西)",
+          "n.全部 a.全体的；全部的；完整的；无缺的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：whose的核心含义与\"pron.谁的；哪(个)人的，那些(人)的\"相关",
+        "similarWarning": "注意区分：whose 与 hose, those, whole, choose, who, dose, hole, home 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "why",
+      "word": "why",
+      "phonetic": "/hwai/",
+      "meaning": "ad./conj.为什么；…的理由 int.咳，哎呀",
+      "similar": [
+        "shy",
+        "way",
+        "who"
+      ],
+      "question": {
+        "wordId": "why",
+        "stem": "选择 \"why\" 的正确中文意思：",
+        "correct": "ad./conj.为什么；…的理由 int.咳，哎呀",
+        "options": [
+          "n.道路，路程；方法/式，手段；习惯；状态",
+          "pron.谁，什么人；…的人；他，她，他们",
+          "a.怕羞的，腼腆的；胆怯的vi.惊退，畏缩",
+          "ad./conj.为什么；…的理由 int.咳，哎呀"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：why的核心含义与\"ad./conj.为什么；…的理由 int.咳，哎呀\"相关",
+        "similarWarning": "注意区分：why 与 shy, way, who 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wicked",
+      "word": "wicked",
+      "phonetic": "/'wikid/",
+      "meaning": "a.坏的;邪恶的;不道德的;恶劣的;淘气的",
+      "similar": [
+        "nickel",
+        "ticket"
+      ],
+      "question": {
+        "wordId": "wicked",
+        "stem": "选择 \"wicked\" 的正确中文意思：",
+        "correct": "a.坏的;邪恶的;不道德的;恶劣的;淘气的",
+        "options": [
+          "v.使诧异,使惊异;奇袭 n.诧异,惊异;奇袭",
+          "n.票,入场券;票签;(交通违章)罚款传票",
+          "n.镍;镍币;五美分",
+          "a.坏的;邪恶的;不道德的;恶劣的;淘气的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：wicked的核心含义与\"a.坏的;邪恶的;不道德的;恶劣的;淘气的\"相关",
+        "similarWarning": "注意区分：wicked 与 nickel, ticket 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wide",
+      "word": "wide",
+      "phonetic": "/waid/",
+      "meaning": "a.宽阔的;睁大的;远离的 ad.广阔地;偏差地",
+      "similar": [
+        "hide",
+        "ride",
+        "side",
+        "tide",
+        "wife",
+        "wine",
+        "wipe",
+        "wire"
+      ],
+      "question": {
+        "wordId": "wide",
+        "stem": "选择 \"wide\" 的正确中文意思：",
+        "correct": "a.宽阔的;睁大的;远离的 ad.广阔地;偏差地",
+        "options": [
+          "a.宽阔的;睁大的;远离的 ad.广阔地;偏差地",
+          "v.隐藏,躲藏;隐瞒 n.皮革,兽皮",
+          "n.旁边，侧面；坡，岸；一边/侧/方 vi.支持",
+          "v./n.骑,乘"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wide的核心含义与\"a.宽阔的;睁大的;远离的 ad.广阔地;偏差地\"相关",
+        "similarWarning": "注意区分：wide 与 hide, ride, side, tide, wife, wine, wipe, wire 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "widespread",
+      "word": "widespread",
+      "phonetic": "/'waid'spred/",
+      "meaning": "a.分布广泛的,普遍的",
+      "similar": [],
+      "question": {
+        "wordId": "widespread",
+        "stem": "选择 \"widespread\" 的正确中文意思：",
+        "correct": "a.分布广泛的,普遍的",
+        "options": [
+          "n.注意，注意力；立正；特别照顾；照料",
+          "n.／vt.拍卖",
+          "n.稻,米",
+          "a.分布广泛的,普遍的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：widespread的核心含义与\"a.分布广泛的,普遍的\"相关",
+        "similarWarning": "注意区分：widespread 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "widow",
+      "word": "widow",
+      "phonetic": "/'widəu/",
+      "meaning": "n.寡妇",
+      "similar": [
+        "window",
+        "wisdom",
+        "wide",
+        "endow",
+        "width"
+      ],
+      "question": {
+        "wordId": "widow",
+        "stem": "选择 \"widow\" 的正确中文意思：",
+        "correct": "n.寡妇",
+        "options": [
+          "n.智慧,明智;名言,格言",
+          "a.宽阔的;睁大的;远离的 ad.广阔地;偏差地",
+          "n.窗,窗口",
+          "n.寡妇"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：widow的核心含义与\"n.寡妇\"相关",
+        "similarWarning": "注意区分：widow 与 window, wisdom, wide, endow, width 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "width",
+      "word": "width",
+      "phonetic": "/widθ/",
+      "meaning": "n.宽度;宽阔,广阔",
+      "similar": [
+        "with",
+        "wit",
+        "wide",
+        "wish",
+        "birth",
+        "widow",
+        "witch",
+        "worth"
+      ],
+      "question": {
+        "wordId": "width",
+        "stem": "选择 \"width\" 的正确中文意思：",
+        "correct": "n.宽度;宽阔,广阔",
+        "options": [
+          "a.宽阔的;睁大的;远离的 ad.广阔地;偏差地",
+          "n.宽度;宽阔,广阔",
+          "prep.跟…一起；用；具有；关于；因；随着",
+          "n.智力,才智,智慧"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：width的核心含义与\"n.宽度;宽阔,广阔\"相关",
+        "similarWarning": "注意区分：width 与 with, wit, wide, wish, birth, widow, witch, worth 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wife",
+      "word": "wife",
+      "phonetic": "/waif/",
+      "meaning": "n.妻子，夫人，太太",
+      "similar": [
+        "life",
+        "wide",
+        "wine",
+        "wipe",
+        "wire",
+        "wise",
+        "knife",
+        "rifle"
+      ],
+      "question": {
+        "wordId": "wife",
+        "stem": "选择 \"wife\" 的正确中文意思：",
+        "correct": "n.妻子，夫人，太太",
+        "options": [
+          "n.生命，生存；一生，寿命；生活；生物",
+          "n.妻子，夫人，太太",
+          "a.宽阔的;睁大的;远离的 ad.广阔地;偏差地",
+          "n.葡萄酒,果酒"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：wife的核心含义与\"n.妻子，夫人，太太\"相关",
+        "similarWarning": "注意区分：wife 与 life, wide, wine, wipe, wire, wise, knife, rifle 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wild",
+      "word": "wild",
+      "phonetic": "/waild/",
+      "meaning": "a.野性的,野生的;野蛮的;狂热的;荒芜的",
+      "similar": [
+        "mild",
+        "weld",
+        "will",
+        "wind",
+        "build",
+        "child",
+        "field",
+        "weird"
+      ],
+      "question": {
+        "wordId": "wild",
+        "stem": "选择 \"wild\" 的正确中文意思：",
+        "correct": "a.野性的,野生的;野蛮的;狂热的;荒芜的",
+        "options": [
+          "aux./v. 将；会；愿意 n.意志；决心；愿望",
+          "v.焊接 n.焊接,焊缝",
+          "a.野性的,野生的;野蛮的;狂热的;荒芜的",
+          "a.温和的,轻微的,味淡的,不含有害物质的的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：wild的核心含义与\"a.野性的,野生的;野蛮的;狂热的;荒芜的\"相关",
+        "similarWarning": "注意区分：wild 与 mild, weld, will, wind, build, child, field, weird 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "will",
+      "word": "will",
+      "phonetic": "/wɪl/",
+      "meaning": "aux./v. 将；会；愿意 n.意志；决心；愿望",
+      "similar": [
+        "ill",
+        "bill",
+        "fill",
+        "hill",
+        "kill",
+        "mill",
+        "pill",
+        "till"
+      ],
+      "question": {
+        "wordId": "will",
+        "stem": "选择 \"will\" 的正确中文意思：",
+        "correct": "aux./v. 将；会；愿意 n.意志；决心；愿望",
+        "options": [
+          "v.(with)填满,充满",
+          "n.账单;招贴,广告;(人员,职称等的)表;钞票",
+          "a.有病的；坏的；恶意的 ad.坏地；不利地",
+          "aux./v. 将；会；愿意 n.意志；决心；愿望"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：will的核心含义与\"aux./v. 将；会；愿意 n.意志；决心；愿望\"相关",
+        "similarWarning": "注意区分：will 与 ill, bill, fill, hill, kill, mill, pill, till 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "willing",
+      "word": "willing",
+      "phonetic": "/'wiliŋ/",
+      "meaning": "a.愿意的，乐意的，心甘情愿的",
+      "similar": [
+        "dwelling",
+        "shilling",
+        "building",
+        "spelling"
+      ],
+      "question": {
+        "wordId": "willing",
+        "stem": "选择 \"willing\" 的正确中文意思：",
+        "correct": "a.愿意的，乐意的，心甘情愿的",
+        "options": [
+          "a.愿意的，乐意的，心甘情愿的",
+          "n.住宅,寓所",
+          "n.先令",
+          "n.建筑(物)，房屋，大楼 [同]structure"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：willing的核心含义与\"a.愿意的，乐意的，心甘情愿的\"相关",
+        "similarWarning": "注意区分：willing 与 dwelling, shilling, building, spelling 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "win",
+      "word": "win",
+      "phonetic": "/wɪn/",
+      "meaning": "vi.获胜，赢 vt.赢得；在…中获胜 n.胜利",
+      "similar": [
+        "twin",
+        "wind",
+        "wine",
+        "wing",
+        "wink",
+        "in",
+        "bin",
+        "kin"
+      ],
+      "question": {
+        "wordId": "win",
+        "stem": "选择 \"win\" 的正确中文意思：",
+        "correct": "vi.获胜，赢 vt.赢得；在…中获胜 n.胜利",
+        "options": [
+          "n.风;气息 v.转动;缠绕;上发条,;蜿蜒而行",
+          "vi.获胜，赢 vt.赢得；在…中获胜 n.胜利",
+          "a.双的,成对的,孪生的 n.孪生子,双生子",
+          "n.葡萄酒,果酒"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：win的核心含义与\"vi.获胜，赢 vt.赢得；在…中获胜 n.胜利\"相关",
+        "similarWarning": "注意区分：win 与 twin, wind, wine, wing, wink, in, bin, kin 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wind",
+      "word": "wind",
+      "phonetic": "/wɪnd/",
+      "meaning": "n.风;气息 v.转动;缠绕;上发条,;蜿蜒而行",
+      "similar": [
+        "win",
+        "bind",
+        "find",
+        "kind",
+        "mind",
+        "wild",
+        "wine",
+        "wing"
+      ],
+      "question": {
+        "wordId": "wind",
+        "stem": "选择 \"wind\" 的正确中文意思：",
+        "correct": "n.风;气息 v.转动;缠绕;上发条,;蜿蜒而行",
+        "options": [
+          "n.风;气息 v.转动;缠绕;上发条,;蜿蜒而行",
+          "v.(found,found)找到；发现；发觉；感到",
+          "vi.获胜，赢 vt.赢得；在…中获胜 n.胜利",
+          "v.捆,绑,包括,束缚"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wind的核心含义与\"n.风;气息 v.转动;缠绕;上发条,;蜿蜒而行\"相关",
+        "similarWarning": "注意区分：wind 与 win, bind, find, kind, mind, wild, wine, wing 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "window",
+      "word": "window",
+      "phonetic": "/'windəu/",
+      "meaning": "n.窗,窗口",
+      "similar": [
+        "widow",
+        "wind",
+        "endow",
+        "wisdom"
+      ],
+      "question": {
+        "wordId": "window",
+        "stem": "选择 \"window\" 的正确中文意思：",
+        "correct": "n.窗,窗口",
+        "options": [
+          "n.寡妇",
+          "n.风;气息 v.转动;缠绕;上发条,;蜿蜒而行",
+          "n.窗,窗口",
+          "vt.资助，捐赠；(with)给予，赋予"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：window的核心含义与\"n.窗,窗口\"相关",
+        "similarWarning": "注意区分：window 与 widow, wind, endow, wisdom 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wine",
+      "word": "wine",
+      "phonetic": "/wain/",
+      "meaning": "n.葡萄酒,果酒",
+      "similar": [
+        "win",
+        "dine",
+        "fine",
+        "line",
+        "mine",
+        "nine",
+        "pine",
+        "wide"
+      ],
+      "question": {
+        "wordId": "wine",
+        "stem": "选择 \"wine\" 的正确中文意思：",
+        "correct": "n.葡萄酒,果酒",
+        "options": [
+          "n.葡萄酒,果酒",
+          "v.吃饭,进餐",
+          "a.晴朗的,美好的,细致的 v./n.罚金,罚款",
+          "vi.获胜，赢 vt.赢得；在…中获胜 n.胜利"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wine的核心含义与\"n.葡萄酒,果酒\"相关",
+        "similarWarning": "注意区分：wine 与 win, dine, fine, line, mine, nine, pine, wide 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wing",
+      "word": "wing",
+      "phonetic": "/wɪŋ/",
+      "meaning": "n.翅,翅膀;翼,机翼;派别 vt.装以翼",
+      "similar": [
+        "owing",
+        "swing",
+        "win",
+        "king",
+        "ring",
+        "sing",
+        "wind",
+        "wine"
+      ],
+      "question": {
+        "wordId": "wing",
+        "stem": "选择 \"wing\" 的正确中文意思：",
+        "correct": "n.翅,翅膀;翼,机翼;派别 vt.装以翼",
+        "options": [
+          "n.翅,翅膀;翼,机翼;派别 vt.装以翼",
+          "a.欠的,未付的",
+          "vi.获胜，赢 vt.赢得；在…中获胜 n.胜利",
+          "v.摇摆,摇荡,回转,旋转 n.秋千;摇摆,摆动"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wing的核心含义与\"n.翅,翅膀;翼,机翼;派别 vt.装以翼\"相关",
+        "similarWarning": "注意区分：wing 与 owing, swing, win, king, ring, sing, wind, wine 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wink",
+      "word": "wink",
+      "phonetic": "/wiŋk/",
+      "meaning": "v.(使)眨眼；眨眼示意 n.眨眼；小睡，打盹",
+      "similar": [
+        "ink",
+        "win",
+        "link",
+        "pink",
+        "sink",
+        "wind",
+        "wine",
+        "wing"
+      ],
+      "question": {
+        "wordId": "wink",
+        "stem": "选择 \"wink\" 的正确中文意思：",
+        "correct": "v.(使)眨眼；眨眼示意 n.眨眼；小睡，打盹",
+        "options": [
+          "v.(使)眨眼；眨眼示意 n.眨眼；小睡，打盹",
+          "n.墨水，油墨",
+          "vi.获胜，赢 vt.赢得；在…中获胜 n.胜利",
+          "v.连接,联系 n.环节,链环"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wink的核心含义与\"v.(使)眨眼；眨眼示意 n.眨眼；小睡，打盹\"相关",
+        "similarWarning": "注意区分：wink 与 ink, win, link, pink, sink, wind, wine, wing 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "winter",
+      "word": "winter",
+      "phonetic": "/'wintə/",
+      "meaning": "n.冬季，冬天",
+      "similar": [
+        "painter",
+        "wine",
+        "enter",
+        "infer",
+        "inner",
+        "liner",
+        "water",
+        "bitter"
+      ],
+      "question": {
+        "wordId": "winter",
+        "stem": "选择 \"winter\" 的正确中文意思：",
+        "correct": "n.冬季，冬天",
+        "options": [
+          "n.漆工,画家",
+          "n.葡萄酒,果酒",
+          "n.冬季，冬天",
+          "vt.进入；参加，加入；写入 vi.进去，进来"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：winter的核心含义与\"n.冬季，冬天\"相关",
+        "similarWarning": "注意区分：winter 与 painter, wine, enter, infer, inner, liner, water, bitter 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wipe",
+      "word": "wipe",
+      "phonetic": "/waip/",
+      "meaning": "v./n.擦,揩,抹",
+      "similar": [
+        "pipe",
+        "ripe",
+        "wide",
+        "wife",
+        "wine",
+        "wire",
+        "wise",
+        "twice"
+      ],
+      "question": {
+        "wordId": "wipe",
+        "stem": "选择 \"wipe\" 的正确中文意思：",
+        "correct": "v./n.擦,揩,抹",
+        "options": [
+          "a.熟的,成熟的;(for)时机成熟的",
+          "v./n.擦,揩,抹",
+          "n.管子,导管;烟斗;笛",
+          "a.宽阔的;睁大的;远离的 ad.广阔地;偏差地"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：wipe的核心含义与\"v./n.擦,揩,抹\"相关",
+        "similarWarning": "注意区分：wipe 与 pipe, ripe, wide, wife, wine, wire, wise, twice 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wire",
+      "word": "wire",
+      "phonetic": "/'waiə/",
+      "meaning": "n.金属线,电线;电报,电信 v.发电报(给)",
+      "similar": [
+        "fire",
+        "hire",
+        "tire",
+        "wide",
+        "wife",
+        "wine",
+        "wipe",
+        "wise"
+      ],
+      "question": {
+        "wordId": "wire",
+        "stem": "选择 \"wire\" 的正确中文意思：",
+        "correct": "n.金属线,电线;电报,电信 v.发电报(给)",
+        "options": [
+          "v.(使)疲倦,(使)厌倦 n.(=tyre)轮胎,车胎",
+          "n./v.雇用,租借",
+          "n.火；火灾，失火；炉火 vi.开火 vt.放(枪)",
+          "n.金属线,电线;电报,电信 v.发电报(给)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：wire的核心含义与\"n.金属线,电线;电报,电信 v.发电报(给)\"相关",
+        "similarWarning": "注意区分：wire 与 fire, hire, tire, wide, wife, wine, wipe, wise 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wisdom",
+      "word": "wisdom",
+      "phonetic": "/'wizdəm/",
+      "meaning": "n.智慧,明智;名言,格言",
+      "similar": [
+        "widow",
+        "window"
+      ],
+      "question": {
+        "wordId": "wisdom",
+        "stem": "选择 \"wisdom\" 的正确中文意思：",
+        "correct": "n.智慧,明智;名言,格言",
+        "options": [
+          "vt.使适应，使适合；改编；改写 vi.适应",
+          "n.窗,窗口",
+          "n.寡妇",
+          "n.智慧,明智;名言,格言"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：wisdom的核心含义与\"n.智慧,明智;名言,格言\"相关",
+        "similarWarning": "注意区分：wisdom 与 widow, window 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wise",
+      "word": "wise",
+      "phonetic": "/waiz/",
+      "meaning": "a.有智慧的,聪明的",
+      "similar": [
+        "rise",
+        "wide",
+        "wife",
+        "wine",
+        "wipe",
+        "wire",
+        "wish",
+        "aisle"
+      ],
+      "question": {
+        "wordId": "wise",
+        "stem": "选择 \"wise\" 的正确中文意思：",
+        "correct": "a.有智慧的,聪明的",
+        "options": [
+          "n.妻子，夫人，太太",
+          "a.宽阔的;睁大的;远离的 ad.广阔地;偏差地",
+          "v.升起;起立;上涨;起义 n.上涨,增高;起源",
+          "a.有智慧的,聪明的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：wise的核心含义与\"a.有智慧的,聪明的\"相关",
+        "similarWarning": "注意区分：wise 与 rise, wide, wife, wine, wipe, wire, wish, aisle 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wish",
+      "word": "wish",
+      "phonetic": "/wiʃ/",
+      "meaning": "v.希望；但愿；祝 n.愿望，希望；[pl.]祝愿",
+      "similar": [
+        "dish",
+        "fish",
+        "wash",
+        "wise",
+        "with",
+        "twist",
+        "waist",
+        "weigh"
+      ],
+      "question": {
+        "wordId": "wish",
+        "stem": "选择 \"wish\" 的正确中文意思：",
+        "correct": "v.希望；但愿；祝 n.愿望，希望；[pl.]祝愿",
+        "options": [
+          "n.碟子,盘子,菜肴",
+          "n.洗；洗的衣物 vt.冲刷，洗；冲出 vi.洗澡",
+          "n.(pl.fish(es))鱼；鱼肉 v.捕鱼；钓鱼",
+          "v.希望；但愿；祝 n.愿望，希望；[pl.]祝愿"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：wish的核心含义与\"v.希望；但愿；祝 n.愿望，希望；[pl.]祝愿\"相关",
+        "similarWarning": "注意区分：wish 与 dish, fish, wash, wise, with, twist, waist, weigh 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wit",
+      "word": "wit",
+      "phonetic": "/wɪt/",
+      "meaning": "n.智力,才智,智慧",
+      "similar": [
+        "wait",
+        "with",
+        "it",
+        "fit",
+        "hit",
+        "kit",
+        "pit",
+        "sit"
+      ],
+      "question": {
+        "wordId": "wit",
+        "stem": "选择 \"wit\" 的正确中文意思：",
+        "correct": "n.智力,才智,智慧",
+        "options": [
+          "n.智力,才智,智慧",
+          "v.(for)等待；(on)侍候 n.等候，等待时间",
+          "prep.跟…一起；用；具有；关于；因；随着",
+          "pron.它；[作无人称动词的主语]"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wit的核心含义与\"n.智力,才智,智慧\"相关",
+        "similarWarning": "注意区分：wit 与 wait, with, it, fit, hit, kit, pit, sit 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "witch",
+      "word": "witch",
+      "phonetic": "/witʃ/",
+      "meaning": "n.女巫, 巫婆，巫师",
+      "similar": [
+        "switch",
+        "with",
+        "ditch",
+        "pitch",
+        "watch",
+        "stitch",
+        "wit",
+        "inch"
+      ],
+      "question": {
+        "wordId": "witch",
+        "stem": "选择 \"witch\" 的正确中文意思：",
+        "correct": "n.女巫, 巫婆，巫师",
+        "options": [
+          "n.沟,沟渠,水沟",
+          "prep.跟…一起；用；具有；关于；因；随着",
+          "n.开关；转换；鞭子 v.转变,转换；抽打",
+          "n.女巫, 巫婆，巫师"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：witch的核心含义与\"n.女巫, 巫婆，巫师\"相关",
+        "similarWarning": "注意区分：witch 与 switch, with, ditch, pitch, watch, stitch, wit, inch 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "with",
+      "word": "with",
+      "phonetic": "/wið/",
+      "meaning": "prep.跟…一起；用；具有；关于；因；随着",
+      "similar": [
+        "width",
+        "witch",
+        "wit",
+        "wish",
+        "switch",
+        "within",
+        "birth",
+        "ditch"
+      ],
+      "question": {
+        "wordId": "with",
+        "stem": "选择 \"with\" 的正确中文意思：",
+        "correct": "prep.跟…一起；用；具有；关于；因；随着",
+        "options": [
+          "prep.跟…一起；用；具有；关于；因；随着",
+          "n.宽度;宽阔,广阔",
+          "n.女巫, 巫婆，巫师",
+          "n.智力,才智,智慧"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：with的核心含义与\"prep.跟…一起；用；具有；关于；因；随着\"相关",
+        "similarWarning": "注意区分：with 与 width, witch, wit, wish, switch, within, birth, ditch 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "withdraw",
+      "word": "withdraw",
+      "phonetic": "/wɪð'drɔ:/",
+      "meaning": "v.收回,撤消;缩回,退出;提取(钱)",
+      "similar": [],
+      "question": {
+        "wordId": "withdraw",
+        "stem": "选择 \"withdraw\" 的正确中文意思：",
+        "correct": "v.收回,撤消;缩回,退出;提取(钱)",
+        "options": [
+          "a.肌肉的;肌肉发达的;强健的",
+          "vi.(鸟)盘旋，翱翔，(人)逗留在附近徘徊",
+          "n.半导体",
+          "v.收回,撤消;缩回,退出;提取(钱)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：withdraw的核心含义与\"v.收回,撤消;缩回,退出;提取(钱)\"相关",
+        "similarWarning": "注意区分：withdraw 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "withhold",
+      "word": "withhold",
+      "phonetic": "/'wið'həuld/",
+      "meaning": "vt.使停止;拒给;保留;抑制 vi.忍住",
+      "similar": [
+        "without"
+      ],
+      "question": {
+        "wordId": "withhold",
+        "stem": "选择 \"withhold\" 的正确中文意思：",
+        "correct": "vt.使停止;拒给;保留;抑制 vi.忍住",
+        "options": [
+          "a.壮丽的,辉煌的;光荣的",
+          "prep.无，没有 n.外面，外部",
+          "vt.使停止;拒给;保留;抑制 vi.忍住",
+          "n.贮藏(量),保管;库房"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：withhold的核心含义与\"vt.使停止;拒给;保留;抑制 vi.忍住\"相关",
+        "similarWarning": "注意区分：withhold 与 without 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "within",
+      "word": "within",
+      "phonetic": "/wi'ðin/",
+      "meaning": "prep.在…里面,在…以内 ad.在内",
+      "similar": [
+        "thin",
+        "with"
+      ],
+      "question": {
+        "wordId": "within",
+        "stem": "选择 \"within\" 的正确中文意思：",
+        "correct": "prep.在…里面,在…以内 ad.在内",
+        "options": [
+          "n.主人;旅店老板;节目主持人;一大群,许多",
+          "prep.跟…一起；用；具有；关于；因；随着",
+          "a.薄的,细的;稀薄的,淡的;瘦的 v.变薄;变稀",
+          "prep.在…里面,在…以内 ad.在内"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：within的核心含义与\"prep.在…里面,在…以内 ad.在内\"相关",
+        "similarWarning": "注意区分：within 与 thin, with 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "without",
+      "word": "without",
+      "phonetic": "/wi'ðaut/",
+      "meaning": "prep.无，没有 n.外面，外部",
+      "similar": [
+        "withhold"
+      ],
+      "question": {
+        "wordId": "without",
+        "stem": "选择 \"without\" 的正确中文意思：",
+        "correct": "prep.无，没有 n.外面，外部",
+        "options": [
+          "prep.无，没有 n.外面，外部",
+          "n.政策,方针",
+          "n.记忆,记忆力;回忆;存储(器)",
+          "vt.使停止;拒给;保留;抑制 vi.忍住"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：without的核心含义与\"prep.无，没有 n.外面，外部\"相关",
+        "similarWarning": "注意区分：without 与 withhold 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "withstand",
+      "word": "withstand",
+      "phonetic": "/wið'stænd/",
+      "meaning": "vt.抵抗,经受住",
+      "similar": [],
+      "question": {
+        "wordId": "withstand",
+        "stem": "选择 \"withstand\" 的正确中文意思：",
+        "correct": "vt.抵抗,经受住",
+        "options": [
+          "n.规则,规章;调节,校准;调整",
+          "vt.抵抗,经受住",
+          "n.拼法,拼写法",
+          "n.星期六"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：withstand的核心含义与\"vt.抵抗,经受住\"相关",
+        "similarWarning": "注意区分：withstand 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "witness",
+      "word": "witness",
+      "phonetic": "/'witnis/",
+      "meaning": "n.目击者,证人;证据,证明 v.目击,目睹;作证",
+      "similar": [
+        "waitress",
+        "distress",
+        "kindness",
+        "mistress"
+      ],
+      "question": {
+        "wordId": "witness",
+        "stem": "选择 \"witness\" 的正确中文意思：",
+        "correct": "n.目击者,证人;证据,证明 v.目击,目睹;作证",
+        "options": [
+          "n.仁慈,亲切;好意;友好行为",
+          "n.苦恼;危难;不幸 v.使苦恼",
+          "n.女侍者,女服务员",
+          "n.目击者,证人;证据,证明 v.目击,目睹;作证"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：witness的核心含义与\"n.目击者,证人;证据,证明 v.目击,目睹;作证\"相关",
+        "similarWarning": "注意区分：witness 与 waitress, distress, kindness, mistress 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wolf",
+      "word": "wolf",
+      "phonetic": "/wulf/",
+      "meaning": "n.狼",
+      "similar": [
+        "golf",
+        "whole",
+        "world",
+        "would"
+      ],
+      "question": {
+        "wordId": "wolf",
+        "stem": "选择 \"wolf\" 的正确中文意思：",
+        "correct": "n.狼",
+        "options": [
+          "n.狼",
+          "n.高尔夫球",
+          "n.世界，地球；…界，领域；世间；全世界",
+          "n.全部 a.全体的；全部的；完整的；无缺的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wolf的核心含义与\"n.狼\"相关",
+        "similarWarning": "注意区分：wolf 与 golf, whole, world, would 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "woman",
+      "word": "woman",
+      "phonetic": "/'wumən/",
+      "meaning": "n.(pl.）women妇女，成年女子",
+      "similar": [
+        "domain",
+        "man",
+        "loan",
+        "moan",
+        "human"
+      ],
+      "question": {
+        "wordId": "woman",
+        "stem": "选择 \"woman\" 的正确中文意思：",
+        "correct": "n.(pl.）women妇女，成年女子",
+        "options": [
+          "n.贷款;出借,借出 v.借出",
+          "n.(pl.men)人；人类(单数，不加冠词)；男人",
+          "n.(活动,思想等)领域,范围;领地",
+          "n.(pl.）women妇女，成年女子"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：woman的核心含义与\"n.(pl.）women妇女，成年女子\"相关",
+        "similarWarning": "注意区分：woman 与 domain, man, loan, moan, human 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wonder",
+      "word": "wonder",
+      "phonetic": "/'wʌndə/",
+      "meaning": "n.惊奇,惊异;奇迹,奇事 v.(at)诧异;想知道",
+      "similar": [
+        "ponder",
+        "wander",
+        "order",
+        "under",
+        "border",
+        "confer",
+        "gender",
+        "hinder"
+      ],
+      "question": {
+        "wordId": "wonder",
+        "stem": "选择 \"wonder\" 的正确中文意思：",
+        "correct": "n.惊奇,惊异;奇迹,奇事 v.(at)诧异;想知道",
+        "options": [
+          "n.惊奇,惊异;奇迹,奇事 v.(at)诧异;想知道",
+          "v.沉思,考虑",
+          "n.命令;次序;整齐;定货单;等级 v.定制,订购",
+          "v.漫步,徘徊;迷路,迷失方向;离题"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wonder的核心含义与\"n.惊奇,惊异;奇迹,奇事 v.(at)诧异;想知道\"相关",
+        "similarWarning": "注意区分：wonder 与 ponder, wander, order, under, border, confer, gender, hinder 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wonderful",
+      "word": "wonderful",
+      "phonetic": "/'wʌndəfl/",
+      "meaning": "a.惊人的,奇妙的;极好的",
+      "similar": [
+        "powerful"
+      ],
+      "question": {
+        "wordId": "wonderful",
+        "stem": "选择 \"wonderful\" 的正确中文意思：",
+        "correct": "a.惊人的,奇妙的;极好的",
+        "options": [
+          "a.惊人的,奇妙的;极好的",
+          "a.强大的,有力的,有权的",
+          "n.柏油，焦油 vt.涂或浇柏油/焦油于",
+          "n.木盆,澡盆"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wonderful的核心含义与\"a.惊人的,奇妙的;极好的\"相关",
+        "similarWarning": "注意区分：wonderful 与 powerful 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wood",
+      "word": "wood",
+      "phonetic": "/wud/",
+      "meaning": "n.木材，木头，木料；(pl.)森林，林地",
+      "similar": [
+        "food",
+        "good",
+        "mood",
+        "wool",
+        "word",
+        "wooden",
+        "blood",
+        "flood"
+      ],
+      "question": {
+        "wordId": "wood",
+        "stem": "选择 \"wood\" 的正确中文意思：",
+        "correct": "n.木材，木头，木料；(pl.)森林，林地",
+        "options": [
+          "n.木材，木头，木料；(pl.)森林，林地",
+          "n.食物，粮食，养料",
+          "a.好的;善良的;擅长的;乖的 n.好处;利益",
+          "n.心情,情绪;语气"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wood的核心含义与\"n.木材，木头，木料；(pl.)森林，林地\"相关",
+        "similarWarning": "注意区分：wood 与 food, good, mood, wool, word, wooden, blood, flood 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wooden",
+      "word": "wooden",
+      "phonetic": "/'wudən/",
+      "meaning": "a.木制的;呆笨的",
+      "similar": [
+        "wood",
+        "golden",
+        "loosen",
+        "wonder"
+      ],
+      "question": {
+        "wordId": "wooden",
+        "stem": "选择 \"wooden\" 的正确中文意思：",
+        "correct": "a.木制的;呆笨的",
+        "options": [
+          "a.木制的;呆笨的",
+          "v.解开,放松",
+          "n.木材，木头，木料；(pl.)森林，林地",
+          "a.金黄色的;贵重的,极好的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wooden的核心含义与\"a.木制的;呆笨的\"相关",
+        "similarWarning": "注意区分：wooden 与 wood, golden, loosen, wonder 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wool",
+      "word": "wool",
+      "phonetic": "/wul/",
+      "meaning": "n.羊毛,毛线,毛织品",
+      "similar": [
+        "cool",
+        "fool",
+        "pool",
+        "tool",
+        "wood",
+        "stool",
+        "whole",
+        "world"
+      ],
+      "question": {
+        "wordId": "wool",
+        "stem": "选择 \"wool\" 的正确中文意思：",
+        "correct": "n.羊毛,毛线,毛织品",
+        "options": [
+          "n.水池,游泳池;合资经营v.合伙经营,联营",
+          "n.羊毛,毛线,毛织品",
+          "a.凉的；冷静的 n.凉快 ad.冷静地 v.使变凉",
+          "n.傻子，笨蛋vt.欺骗，愚弄vi.干蠢事"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：wool的核心含义与\"n.羊毛,毛线,毛织品\"相关",
+        "similarWarning": "注意区分：wool 与 cool, fool, pool, tool, wood, stool, whole, world 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "word",
+      "word": "word",
+      "phonetic": "/wə:d/",
+      "meaning": "n.词，词语；言语，话；谈话；消息，信息",
+      "similar": [
+        "sword",
+        "world",
+        "cord",
+        "lord",
+        "ward",
+        "wood",
+        "work",
+        "worm"
+      ],
+      "question": {
+        "wordId": "word",
+        "stem": "选择 \"word\" 的正确中文意思：",
+        "correct": "n.词，词语；言语，话；谈话；消息，信息",
+        "options": [
+          "n.剑，刀；武力",
+          "n.词，词语；言语，话；谈话；消息，信息",
+          "n.世界，地球；…界，领域；世间；全世界",
+          "n.绳,索"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：word的核心含义与\"n.词，词语；言语，话；谈话；消息，信息\"相关",
+        "similarWarning": "注意区分：word 与 sword, world, cord, lord, ward, wood, work, worm 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "work",
+      "word": "work",
+      "phonetic": "/wɜ:k/",
+      "meaning": "n.工作(量)；作品；[pl.]工厂 v.工作；运转",
+      "similar": [
+        "fork",
+        "pork",
+        "word",
+        "worm",
+        "worker",
+        "sword",
+        "world",
+        "worry"
+      ],
+      "question": {
+        "wordId": "work",
+        "stem": "选择 \"work\" 的正确中文意思：",
+        "correct": "n.工作(量)；作品；[pl.]工厂 v.工作；运转",
+        "options": [
+          "n.工作(量)；作品；[pl.]工厂 v.工作；运转",
+          "n.叉,耙;叉形物;餐叉",
+          "n.猪肉",
+          "n.词，词语；言语，话；谈话；消息，信息"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：work的核心含义与\"n.工作(量)；作品；[pl.]工厂 v.工作；运转\"相关",
+        "similarWarning": "注意区分：work 与 fork, pork, word, worm, worker, sword, world, worry 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "worker",
+      "word": "worker",
+      "phonetic": "/'wə:kə/",
+      "meaning": "n.工人，工作者，工作人员",
+      "similar": [
+        "work",
+        "order",
+        "worse",
+        "border",
+        "corner",
+        "former",
+        "locker",
+        "porter"
+      ],
+      "question": {
+        "wordId": "worker",
+        "stem": "选择 \"worker\" 的正确中文意思：",
+        "correct": "n.工人，工作者，工作人员",
+        "options": [
+          "n.工人，工作者，工作人员",
+          "n.工作(量)；作品；[pl.]工厂 v.工作；运转",
+          "a./ad.更坏,更差(的/地)",
+          "n.命令;次序;整齐;定货单;等级 v.定制,订购"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：worker的核心含义与\"n.工人，工作者，工作人员\"相关",
+        "similarWarning": "注意区分：worker 与 work, order, worse, border, corner, former, locker, porter 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "workshop",
+      "word": "workshop",
+      "phonetic": "/'wə:kʃɔp/",
+      "meaning": "n.车间，工场，修理厂；研讨会，讲习班",
+      "similar": [
+        "worship"
+      ],
+      "question": {
+        "wordId": "workshop",
+        "stem": "选择 \"workshop\" 的正确中文意思：",
+        "correct": "n.车间，工场，修理厂；研讨会，讲习班",
+        "options": [
+          "n.仆人",
+          "n.礼拜,礼拜仪式;崇拜 v.崇拜,敬仰;做礼拜",
+          "n.英里，哩，海里",
+          "n.车间，工场，修理厂；研讨会，讲习班"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：workshop的核心含义与\"n.车间，工场，修理厂；研讨会，讲习班\"相关",
+        "similarWarning": "注意区分：workshop 与 worship 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "world",
+      "word": "world",
+      "phonetic": "/wɜ:ld/",
+      "meaning": "n.世界，地球；…界，领域；世间；全世界",
+      "similar": [
+        "word",
+        "would",
+        "old",
+        "bold",
+        "cold",
+        "cord",
+        "fold",
+        "gold"
+      ],
+      "question": {
+        "wordId": "world",
+        "stem": "选择 \"world\" 的正确中文意思：",
+        "correct": "n.世界，地球；…界，领域；世间；全世界",
+        "options": [
+          "n.世界，地球；…界，领域；世间；全世界",
+          "n.词，词语；言语，话；谈话；消息，信息",
+          "aux./v.将；可能；将会；总是，总会；宁愿",
+          "a.年老的；…岁的；长时间的，老的；过去的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：world的核心含义与\"n.世界，地球；…界，领域；世间；全世界\"相关",
+        "similarWarning": "注意区分：world 与 word, would, old, bold, cold, cord, fold, gold 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "worldwide",
+      "word": "worldwide",
+      "phonetic": "/'wə:ldˌwaid/",
+      "meaning": "a.全世界的,世界范围的 ad.遍及全世界",
+      "similar": [
+        "worthwhile"
+      ],
+      "question": {
+        "wordId": "worldwide",
+        "stem": "选择 \"worldwide\" 的正确中文意思：",
+        "correct": "a.全世界的,世界范围的 ad.遍及全世界",
+        "options": [
+          "v.熄灭,扑灭,压制,抑制,止渴",
+          "a.全世界的,世界范围的 ad.遍及全世界",
+          "a.值得(做)的",
+          "prep./ad.穿过；自始至终；由，以 a.直达的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：worldwide的核心含义与\"a.全世界的,世界范围的 ad.遍及全世界\"相关",
+        "similarWarning": "注意区分：worldwide 与 worthwhile 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "worm",
+      "word": "worm",
+      "phonetic": "/wə:m/",
+      "meaning": "n.虫,蠕虫",
+      "similar": [
+        "dorm",
+        "form",
+        "norm",
+        "warm",
+        "word",
+        "work",
+        "forum",
+        "storm"
+      ],
+      "question": {
+        "wordId": "worm",
+        "stem": "选择 \"worm\" 的正确中文意思：",
+        "correct": "n.虫,蠕虫",
+        "options": [
+          "n.准则,规范,准则,平均数",
+          "n.虫,蠕虫",
+          "n.(dormitory)［美］［口］宿舍",
+          "n.形状,形式;表格 v.组成,构成;形成"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：worm的核心含义与\"n.虫,蠕虫\"相关",
+        "similarWarning": "注意区分：worm 与 dorm, form, norm, warm, word, work, forum, storm 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "worry",
+      "word": "worry",
+      "phonetic": "/'wʌri/",
+      "meaning": "v.烦恼;(about)对…感到烦恼 n.烦恼,焦虑",
+      "similar": [
+        "lorry",
+        "sorry",
+        "worthy",
+        "word",
+        "work",
+        "worm",
+        "carry",
+        "ferry"
+      ],
+      "question": {
+        "wordId": "worry",
+        "stem": "选择 \"worry\" 的正确中文意思：",
+        "correct": "v.烦恼;(about)对…感到烦恼 n.烦恼,焦虑",
+        "options": [
+          "v.烦恼;(about)对…感到烦恼 n.烦恼,焦虑",
+          "n.卡车,运货汽车",
+          "a.对不起，抱歉的；难过，悔恨的；使人伤心",
+          "a.(of)值得…的,配得上…的;有价值的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：worry的核心含义与\"v.烦恼;(about)对…感到烦恼 n.烦恼,焦虑\"相关",
+        "similarWarning": "注意区分：worry 与 lorry, sorry, worthy, word, work, worm, carry, ferry 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    }
+  ]
+}

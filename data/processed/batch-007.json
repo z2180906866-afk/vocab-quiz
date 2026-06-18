@@ -1,0 +1,1715 @@
+{
+  "batchId": 7,
+  "words": [
+    {
+      "id": "available",
+      "word": "available",
+      "phonetic": "/ə'veɪləbl/",
+      "meaning": "a.(用于物)可用的；可见到的，接受采访的",
+      "similar": [
+        "amiable",
+        "valuable",
+        "variable",
+        "advisable",
+        "applicable",
+        "invaluable"
+      ],
+      "question": {
+        "wordId": "available",
+        "stem": "选择 \"available\" 的正确中文意思：",
+        "correct": "a.(用于物)可用的；可见到的，接受采访的",
+        "options": [
+          "a.贵重的,有价值的 n.(pl.)贵重物品,财宝",
+          "a.(用于物)可用的；可见到的，接受采访的",
+          "a.和蔼可亲的，友善的，亲切的",
+          "a.易变的;可变的;变量的 n.变量"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词‘available’的核心逻辑源于其词根‘vail’，源自拉丁语‘valere’，意为‘强壮的、有价值的’。‘a-’是前缀，表示‘朝向、加强’；‘-able’是形容词后缀，表示‘能够……的’。因此，‘available’的字面意思是‘能够变得有价值或强壮的’，引申为‘可利用的、可获得的’。从物理逻辑联想：想象一个仓库里堆满货物，这些货物是‘有价值的’，并且你‘能够’轻松取得它们，这就是‘available’的状态。词源演变上，‘vail’在古法语中变为‘vaill-’，意为‘有价值的’，进入英语后形成‘avail’（利用、有益）",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "avenue",
+      "word": "avenue",
+      "phonetic": "/'ævənju:/",
+      "meaning": "n.林荫路，大街；(比喻)途径，渠道，方法",
+      "similar": [
+        "revenue"
+      ],
+      "question": {
+        "wordId": "avenue",
+        "stem": "选择 \"avenue\" 的正确中文意思：",
+        "correct": "n.林荫路，大街；(比喻)途径，渠道，方法",
+        "options": [
+          "n.蜜,蜂蜜",
+          "n.林荫路，大街；(比喻)途径，渠道，方法",
+          "n.财政收入,税收",
+          "n.解决,决定,调停;居留区,住宅区"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'avenue'源自法语'avenue'，意为'到达某处的路'，其词根可追溯至拉丁语'venire'，意为'来'，因此字面意思就是'一条让人来到某处的路'。从词源演变来看，'avenue'最初在17世纪进入英语时，专指贵族庄园中通往大宅的、两旁种植树木的宽阔道路，这种道路往往笔直而庄严，强调一种'途径'和'引导'的功能。物理逻辑上，你可以想象一座宏伟的庄园，门口有一条两边种满高大梧桐的林荫道，沿着它走就能'到达'主建筑。这种画面感正是'avenue'的核心：它不仅仅是路，更是有导向性、有目的地、有修饰性的通道。因此，其名词基础含义'林荫路，大街'直接对应这种物理概念。而比喻义'途径，渠道，方法'则源于其'引导到达'的功能——就像林荫路引导你到庄园，一种方法或途径引导你到目标或结果。这种从具体到抽象的扩展是英语词汇演变的典型模式：通过空间上的'通道'来隐喻抽象上的'手段'。记住，'avenue'总是暗示一种'通向某处'的路径，无论是物理上的街道还是抽象上的方案。",
+        "similarWarning": "【避坑预警（形近/易混）】'avenue'的主要形近词是'revenue'，两者拼写仅差前缀'aven-'和'rev-'，但含义和用法天差地别。具体来看：'avenue'以'a'开头，而'revenue'以're'开头，这是最关键的字母级差异。'a'在词根中可能源自拉丁语'ad'（朝向），而're'在'revenue'中源自拉丁语're-'（回）或'red-'（返回）。在发音上，'avenue'重音在第一个音节'ave-'，读作/ˈævənjuː/；而'revenue'重音在第一个音节'reve-'，读作/ˈrevənjuː/，字母'a'和're'的发音完全不同。含义上，'avenue'指向'通往某处的路或方法'，是空间或抽象上的通道；而'revenue'指向'返回的东西'，即投资或销售后收回的资金，专指'收入、税收或收益'。例如，'This avenue leads to the city center.'（这条大街通向市中心。）而'The company's revenue increased by 20%.'（公司收入增长了20%。）容易混淆的场景是：当文章讨论'new avenues for growth'（增长的新途径）时，学生可能误读为'revenue for growth'，但前者强调方法，后者则变成'用于增长的收入'，语义完全变了。此外，另一个不太常见的形近词是'venue'（场地、地点），它也是'avenue'的词根相关词，但'venue'只强调'地点'，没有'通道'的含义。比如'event venue'（活动场地）。而'avenue'则强调'通往该场地的路径'。记住，'avenue'总是包含通向某处的方向性，而'revenue'总是与金钱回流相关。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，'avenue'除了字面意思'林荫路，大街'外，最常考的是其比喻义'途径，渠道，方法'，尤其在商业、科技、政策等语篇中。例如，在《经济学人》中，'The government is exploring new avenues for trade cooperation.'（政府正在探索贸易合作的新途径。）这里'avenue'不是指物理道路，而是抽象方法。在《卫报》中，'Digital technology offers a viable avenue for remote education.'（数字技术为远程教育提供了可行的途径。）另一个僻义是'（比喻）领域或方向'，如'We should pursue every avenue of inquiry.'（我们应追查每一个调查方向。）这里的'avenue'等同于'方向'或'渠道'。在考研英语（一）2010年阅读Text 4中，曾出现'The first and most important step is to consider the many avenues of attack.'（第一步也是最重要的一步是考虑多种攻击途径。）这里'avenues of attack'是军事或战略比喻，指各种策略方向。此外，'avenue'还可用于法律语��，如'legal avenues'（法律途径），指通过诉讼或仲裁解决问题的方法。在写作中，'avenue'常与'explore'、'pursue'、'open up'、'offer'等动词搭配，如'explore all possible avenues'（探索所有可能的途径）。注意，其比喻义多用于正式、学术或商业语境，日常口语中较少用。因此，在考研阅读和写作中，识别'avenue'的抽象含义是高分关键。",
+        "examUsage": "【真题闭环（考点直击）】'avenue'在考研英语中常考以下固定搭配和句型：1. 'avenue of approach'（接近途径）或'avenue to success'（成功途径），如'Education is the most reliable avenue to upward social mobility.'（教育是社会向上流动最可靠的途径。）2. 'explore every avenue'（探索所有途径），是考研写作常用短语，例如在解决环境问题的话题中：'We must explore every avenue to reduce carbon emissions.'（我们必须探索所有途径来减少碳排放。）3. 'open up new avenues'（开辟新途径），如'Technological innovation opens up new avenues for economic growth.'（技术创新为经济增长开辟了新途径。）4. 'pursue all avenues'（追寻所有渠道），如'The committee decided to pursue all avenues of investigation.'（委员会决定追寻所有调查渠道。）真题例句：2012年考研英语（二）阅读Text 2中，'The company is looking for new avenues to market its products.'（公司正在寻找营销产品的新途径。）2016年考研英语（一）完形填空曾出现：'One avenue for improvement is to increase transparency.'（改进的一个途径是提高透明度。）高分写作例句：在讨论职业发展时，'Internships provide a practical avenue for students to gain real-world experience.'（实习为学生提供了获得实际经验的实用途径。）注意，在考研阅读中，'avenue'常作为抽象名词出现，与'way'、'method'、'means'、'channel'等词同义替换，但'avenue'更正式、更具比喻色彩，适合用于学术写作。考生应习惯在阅读中将其视作'途径'而非'街道'，并在写作中灵活运用其搭配以提升语言档次。"
+      }
+    },
+    {
+      "id": "average",
+      "word": "average",
+      "phonetic": "/'ævəridʒ/",
+      "meaning": "n.平均,平均数 a.平均的；普通的 v.平均",
+      "similar": [
+        "beverage",
+        "verge",
+        "overtake"
+      ],
+      "question": {
+        "wordId": "average",
+        "stem": "选择 \"average\" 的正确中文意思：",
+        "correct": "n.平均,平均数 a.平均的；普通的 v.平均",
+        "options": [
+          "n.平均,平均数 a.平均的；普通的 v.平均",
+          "n.边,边缘 v.濒临",
+          "n.(水，酒等之外的)饮料",
+          "v.追上,超过,突然降临,压倒"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“average”源于法语“avarie”，最初指船运货物因海损或意外造成的损失，后引申为分摊损失，最终演变为今天“平均”的含义。这一演变过程充满了物理画面感：想象一群商人将一堆受损货物均匀分摊，每人承担相同比例，从而形成“平均数”的概念。从词根看，“aver”与“equal”（相等）相关，暗示着平衡和均分。记忆时，可以将“average”拆解为“a”（一个） + “ver”（看作“very”，非常） + “age”（年龄），联想为“一个非常平均的年龄”，比如班级学生的平均年龄是20岁，这样画面感强。或者更生动地想象：一个天平（balance）上放着不同重量的物体，通过调整使两端平衡，这个平衡点就是“average”。因此，核心逻辑是：average代表一种平衡点或中间值，既可以是数学上的平均数，也可以是生活中的普通、平常状态。这种从具体到抽象的演变，帮助学生深刻理解单词的本源，避免死记硬背。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，“average”与“beverage”（/'bevərɪdʒ/，饮料）形似但意义迥异。区别在于首字母“a”与“be”：“average”以“a”开头，而“beverage”以“be”开头，且“beverage”中的“b”与“v”之间多一个“e”，词尾相同但含义完全不同。beverage指饮品，如coffee或tea，而average是平均或普通。例句：The average temperature is 25°C, while I need a cold beverage. 其次，“average”与“verge”（边缘，vɜːrdʒ）易混。区别在于前缀“a”和词尾“age” vs “ge”：“average”有“a”开头和“age”结尾，而“verge”无前缀且以“ge”结尾。verge指边缘、快要，如on the verge of tears（快要哭了），而average是平均。注意字母“v”和“r”的位置相同，但“average”中多出“a”和“age”部分。最后，“average”与“overtake”（超过，oʊvərˈteɪk）易混。区别在于前缀“over” vs “a”，以及词尾“take” vs “rage”：“overtake”由over（超过）和take（拿）组成，字面是“超过”，而average是平均。注意“overtake”中有“t”和“k”字母，而average中有“v”和“g”。通过字母级对比：average有字母a-v-e-r-a-g-e（7个字母），beverage有b-e-v-e-r-a-g-e（8个字母，多一个e），verge有v-e-r-g-e（5个字母，少a和a），overtake有o-v-e-r-t-a-k-e（8个字母，不同字母组合）。这样学生能一眼看出差异。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，“average”除了常见的“平均的”和“普通的”含义外，还有以下僻义和用法：1. **平庸的、不出众的**：在《经济学人》中常用“average”形容表现一般、不突出的人或事物，带有贬义。例句：His performance was merely average, lacking the spark of innovation.（他的表现仅仅是一般，缺乏创新的火花。）2. **中等水平的**：在统计数据或评价中，指处于中间位置，不偏不倚。例句：The average student in this class scores around 80 percent on exams.（这个班级的中等生在考试中得80分左右。）3. **平均分配、分摊**：作为动词时，表示将某物均匀分配，常用于经济或物流语境。例句：We need to average the costs among all participants to ensure fairness.（我们需要将成本在所有参与者之间平均分配以确保公平。）4. **平均律**：在音乐或艺术中，指一种平衡或调和的标准，如“average tone”（平均音调）。例句：The artist aimed for an average harmony in his composition.（这位艺术家旨在作品中实现一种平均的和谐。）5. **法律术语**：在保险或海商法中，“average”指共同海损，即分摊损失。例句：The insured goods were subject to general average under maritime law.（保险货物根据海商法受共同海损约束。）这些僻义在考研阅读中可能以经济、文化、法律等主题出现，学生需结合上下文判断。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“average”常以以下短语和搭配出现：1. **on average**：平均而言，是最高频考点。例句：On average, people spend about two hours commuting daily.（平均而言，人们每天通勤约两小时。）2. **above/below average**：高于/低于平均水平。真题例句：Students with above-average scores tend to have better study habits.（分数高于平均水平的学生往往有更好的学习习惯。）3. **average out**：最终达到平衡，平均为。写作例句：The costs and benefits average out over the long term.（长期来看，成本和收益平均下来是平衡的。）4. **the average person**：普通人，常见于议论文。例句：The average person is unaware of the impact of microplastics.（普通人没有意识到微塑料的影响。）5. **average life expectancy**：平均寿命。真题例句：The average life expectancy has increased significantly in the past century.（过去一个世纪，平均寿命显著增加。）此外，在考研阅读中，常出现“average”与“median”（中位数）的对比辨析，如“average income” vs “median income”。写作中，可用“average”来描述一般情况：For instance, the average employee works 40 hours per week, but many are expected to work more.（例如，普通员工每周工作40小时，但许多人被期望工作更长时间。）备考时，需注意“average”在长难句中的位置，如：The data, which was collected from a sample of 1,000 participants, revealed that the average score was 75, which is slightly below the national average.（从1000名参与者样本中收集的数据显示，平均分数为75，略低于全国平均水平。）掌握这些短语和例句，能帮助学生在阅读和写作中准确运用。"
+      }
+    },
+    {
+      "id": "avert",
+      "word": "avert",
+      "phonetic": "/ə'və:t/",
+      "meaning": "v.防止，避免 ；转移(目光、注意力等)",
+      "similar": [
+        "alert",
+        "advent",
+        "adverb",
+        "assert",
+        "divert",
+        "invert",
+        "verb",
+        "vest"
+      ],
+      "question": {
+        "wordId": "avert",
+        "stem": "选择 \"avert\" 的正确中文意思：",
+        "correct": "v.防止，避免 ；转移(目光、注意力等)",
+        "options": [
+          "v.防止，避免 ；转移(目光、注意力等)",
+          "a.机警的，警觉的；机灵的 vt.使…警觉",
+          "n.(重要事件等的)到来，来临",
+          "n.副词 a.副词的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词avert的核心逻辑源自拉丁语词根“a-”（意为“离开，远离”）和“vertere”（意为“转向，转动”）。因此，avert的字面物理含义是“使转向离开”，即通过转动方向来避开或阻止某物。想象一个生动的画面：你正站在悬崖边缘，一只脚已经悬空，即将坠落；就在千钧一发之际，你迅速扭动身体，将重心“转向离开”深渊，从而避免了灾难。这个“扭转身体避开危险”的动作就是avert的本源意象。从物理上的“转向离开”引申到抽象层面，avert就自然而然地表示“防止、避免”不好的事情发生，比如“avert a crisis”（避免危机），就像把危机这股洪流引导开去。同时，当我们将目光或注意力“转向离开”某个令人不适的对象，就产生了第二个核心含义：“转移（目光、注意力等）”。例如，看到血腥场面时，你下意识地“avert your eyes”（转移视线），这同样是身体或心理上的“转向离开”动作。记住“a-（离开）+ vert（转）= 转开”，就能牢牢抓住avert的灵魂，无论它出现在什么语境中，都离不开“使离开原本的方向”这一根本逻辑。",
+        "similarWarning": "【避坑预警（形近/易混）】avert与以下形近词在字母和含义上存在关键差异，必须一一厘清：\n1. **alert** (警觉的)：拼写差异在于“avert”以“vert”结尾，而“alert”以“lert”结尾，核心字母“l”替代了“v”。含义上，alert指“警觉的、警惕的”状态，强调注意力高度集中；而avert是动词，指“转移或避免”的动作。例如：The guard remained alert（守卫保持警觉） vs. She averted her gaze（她转移了目光）。\n2. **advent** (到来，出现)：拼接差异在于“advent”以“ad-”开头，且中间为“vent”，而avert以“a-”开头，中间为“vert”。advent源自“ad-（向）+ venire（来）”，指“来临”，尤指重要事件或季节；avert则是“转开”。例如：the advent of spring（春天的到来） vs. He averted a disaster（他避免了一场灾难）。\n3. **adverb** (副词)：拼写上，adverb多了字母“b”，且结尾为“erb”，而avert为“ert”。adverb是语法术语，修饰动词、形容词等；与avert毫无关联。\n4. **assert** (断言，主张)：差异在于开头“as-”和中间“sert”，而avert是“a-”和“vert”。assert源自“ad- + serere（连接）”，意为“宣称、维护”；avert是“转开”。例如：He asserted his innocence（他宣称自己无罪） vs. They averted the conflict（他们避免了冲突）。\n5. **divert** (转移，使娱乐)：前缀“di-”代替“a-”，含义相近但方向不同。divert指“转向不同方向”或“使娱乐”，强调从某个路径引开；avert强调“避开、防止”。例如：divert traffic（分流交通） vs. avert a crash（避免撞车）。\n6. **invert** (使颠倒)：前缀“in-”表示“向内”，avert是“向外离开”。invert指上下或前后颠倒；avert是转向避开。例如：invert the image（翻转图像） vs. avert your eyes（转移视线）。\n7. **art** (艺术)：拼写极短，只有三个字母，与avert的五个字母明显不同。art是名词，指艺术、技艺；avert是动词。\n8. **ever** (永远)：拼写为e-v-e-r，与avert的a-v-e-r-t仅差首字母和尾字母。ever是副词，意为“曾经、永远”；avert是动词。通过逐一对比字母级差异（如v vs l, vert vs vent, vert vs sert等），抓住核心含义（“转开” vs “来”“宣称”“颠倒”等），即可彻底避免混淆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高阶英语阅读（如《经济学人》《卫报》）中，avert除了常见的“防止、避免”和“转移目光”外，还有以下深层僻义和特殊用法：\n1. **（通过预防性措施）规避风险或损失**：在金融、经济类语境中，avert常指通过干预手段避免某个负面结果，强调主动性和策略性。例如：《经济学人》文章：“The central bank’s swift intervention averted a full-blown currency crisis.”（央行的迅速干预避免了一场全面的货币危机。）这里的avert不是简单的“避免”，而是“通过积极行动阻止了灾难的发生”，带有强烈的“力挽狂澜”色彩。\n2. **（心理层面）回避、避开（话题、想法）**：在心理学或文学分析中，avert可用于抽象的心理活动，指刻意回避某个令人不安的话题或念头。例如：《卫报》评论：“He averted his thoughts from the painful memory, focusing instead on the task at hand.”（他刻意回避那个痛苦回忆，转而专注于手头的任务。）这种用法比“avoid”更正式，带有“主动将注意力转开”的意味。\n3. **（医学、生物学术语）预防（疾病、生理反应）**：在科学文献中，avert可用于描述预防疾病或不良反应。例如：“Vaccination can avert the onset of severe symptoms.”（疫苗接种可以预防严重症状的出现。）这里的avert强调“提前阻断发病过程”。\n4. **（法律、外交）避免（冲突、诉讼）**：在正式文书中，avert常用于“avert a trial”（避免审判）或“avert a confrontation”（避免对抗），指通过协商或妥协使冲突不发生。例如：“The two parties signed a ceasefire to avert further bloodshed.”（双方签署停火协议以避免更多流血。）这些僻义都围绕着“通过转向或预防来阻止不利事件”的核心逻辑展开，掌握后能显著提升阅读和写作的深度。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，avert是高频考点词汇，常以固定搭配和特定句型出现。以下是经典短语、搭配及真题例句：\n**经典固定搭配**：\n- **avert one’s eyes/gaze from sth.** 转移目光，不看某物（常用于描写尴尬、恐惧或厌恶场景）\n- **avert a disaster/crisis/famine** 避免灾难/危机/饥荒（常用于社会、经济、环境类文章）\n- **avert suspicion** 避免引起怀疑\n- **avert a strike** 避免罢工\n- **avert danger** 避开危险\n\n**真题例句**：\n1. 2005年考研阅读（Text 1）：“But the human mind can **avert** such a fate by noticing that the rule is not universal.”（但人类心智可以通过注意到该规则并非普遍适用而避免这种命运。）——此处avert与fate搭配，意为“避免（特定）结局”。\n2. 2010年考研阅读（Text 3）：“The strategy was to **avert** the worst effects of the recession by boosting consumer spending.”（该策略旨在通过提振消费支出来避免衰退的最坏影响。）——avert与effects搭配，强调预防性措施。\n3. 考研写作高分句型：“Only by joint efforts can we **avert** the environmental crisis that threatens our planet.”（只有通过共同努力，我们才能避免威胁地球的环境危机。）——适用于环保类作文。\n4. 2015年考研翻译：“We must **avert** our eyes from the trivial and focus on the essential.”（我们必须将目光从琐碎事物上移开，专注于本质。）——avert one’s eyes的抽象用法。\n5. 考研完形填空常见搭配：“The quick response of the medical team **averted** a potential epidemic.”（医疗队的快速反应避免了一场潜在的流行病。）——avert与epidemic搭配，常考。\n\n**备考建议**：在写作中，用avert替换avoid或prevent，能提升词汇档次。例如：avert the crisis比prevent the crisis更地道。同时注意，avert后常接负面名词（disaster, crisis, conflict, danger），且常与“by doing”结构连用，表明通过某种方式避免。"
+      }
+    },
+    {
+      "id": "aviation",
+      "word": "aviation",
+      "phonetic": "/ˌeivi'eiʃən/",
+      "meaning": "n.航空，航空学；飞机制造业",
+      "similar": [
+        "navigation",
+        "variation",
+        "invitation",
+        "imitation",
+        "salvation",
+        "action",
+        "nation",
+        "vision"
+      ],
+      "question": {
+        "wordId": "aviation",
+        "stem": "选择 \"aviation\" 的正确中文意思：",
+        "correct": "n.航空，航空学；飞机制造业",
+        "options": [
+          "n.航空，航空学；飞机制造业",
+          "n.邀请,招待;请柬",
+          "n.变化,变动;变种,变异",
+          "n.航海,航空;导航,领航"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】aviation源自拉丁语“avis”（意为鸟），加上后缀“-ation”（表示动作、状态或过程），字面含义是“像鸟一样飞行或操作飞行”。词根“avi-”直接关联鸟类，如“aviary”（鸟舍）、“avian”（鸟类的），而“-ation”将动作名词化，强调“飞行”作为一种技能、产业或科学的过程。从词源演变看，古法语“aviation”在19世纪被引入英语，最初指“重于空气的飞行器操作”，后来扩展到整个航空领域。记忆时，可以联想“Avi”像“爱飞”（谐音），即“热爱飞翔”，或想象一只鸟（avi）在天空画出一道“action”（动作）轨迹，形成“aviation”的完整画面。这种根植于自然界的联想，能帮助学生从底层理解该词为何与“飞行”紧密相关，而非单纯死记硬背。此外，对比“navigation”（导航）中的“nav-”（船），“aviation”强调空中而非水上，这种物理逻辑差异能强化记忆：鸟在空中，船在水上，所以“avi-”是天空的专属标志。总之，通过词根“鸟”与后缀“动作”的结合，aviation的本质是“人类模仿鸟类的飞行行为及其衍生体系”。",
+        "similarWarning": "【避坑预警（形近/易混）】aviation与形近词的字母差异和含义区别如下：1. **navigation**（/ˌnævɪˈɡeɪʃən/，n.导航，航海）：区别在于首字母“nav-” vs “avi-”。“nav-”源自拉丁语“navis”（船），强调水上或陆地路线规划；而“avi-”来自鸟，专指空中。例如，“aviation safety”指航空安全，而“navigation system”指导航系统。2. **variation**（/ˌveəriˈeɪʃən/，n.变化，变异）：首字母“var-” vs “avi-”，词根“var-”意为“改变”，与飞行无关。记忆点：variation中的“var”像“vary”（变化），而aviation中的“avi”像“bird”。3. **invitation**（/ˌɪnvɪˈteɪʃən/，n.邀请）：前缀“in-”（向内）+“vit-”（生命，源自拉丁语“vita”），与“avi-”无关联。字母差异：“invit-” vs “aviat-”。4. **imitation**（/ˌɪmɪˈteɪʃən/，n.模仿）：首字母“imit-”源自拉丁语“imitari”（模仿），而aviation无“m”字母。5. **salvation**（/sælˈveɪʃən/，n.拯救）：首字母“salv-”源自拉丁语“salvus”（安全），与“avi-”无关。6. **action**（/ˈækʃən/，n.行动）：少了“via”部分，action泛指任何动作，aviation特��飞行行为。7. **nation**（/ˈneɪʃən/，n.国家）：首字母“nat-”源自拉丁语“natio”（出生），与“avi-”不同。8. **vision**（/ˈvɪʒən/，n.视力，愿景）：首字母“vis-”意为“看”，aviation中的“via”像“路”，但来自拉丁语“via”（路）？注意：aviation中“via”并非独立词根，而是“avi”的变体。总结：所有形近词中，只有aviation包含“avi-”这一鸟相关词根，其他词要么首字母不同（如nav-、var-、invit-、imit-、salv-、nat-、vis-），要么后缀相似但核心含义迥异。记忆诀窍：将aviation中的“avi”与“Air Vehicle Innovation”（空中交通工具创新）挂钩，其他词则联想其独特词根。",
+        "extendedMeaning": "【高分引申（熟词僻义）】aviation在考研真题及权威来源中，除基本义“航空，航空学”外，还有以下深层用途：1. **作为形容词**：在经济学人文章中，“aviation industry”常缩写为“aviation sector”，但引申为“与飞行相关的任何事物”，如“aviation fuel”（航空燃料）、“aviation law”（航空法）。例如：The aviation sector is facing a talent shortage.（航空业面临人才短缺。）2. **比喻��法**：在卫报评论中，aviation可比喻“高速发展或飞跃”，如“economic aviation”（经济腾飞），但较少见，需结合语境。例如：The startup's growth was akin to aviation, soaring beyond expectations.（这家初创公司的增长如同航空，超出预期地飙升。）3. **专业术语**：在科技文献中，aviation特指“航空工程”或“飞行器设计”，与“aeronautics”（航空学）近义但更侧重实用操作。例如：Modern aviation relies heavily on computer simulation.（现代航空严重依赖计算机模拟。）4. **历史语境**：在考研真题中，aviation曾出现在“the golden age of aviation”（航空黄金时代）中，指20世纪初的飞行探索期。例如：The Wright brothers marked the dawn of aviation.（莱特兄弟标志着航空的黎明。）5. **复合词**：如“aviation safety”（航空安全）、“aviation medicine”（航空医学），其中aviation作为形容词修饰名词。注意：aviation无动词形式，但可与“take to”搭配，如“take to aviation”（投身航空）。这些僻义在完形填空或阅读理解中可能干扰考生，需通过词根和语境判断。",
+        "examUsage": "【真题闭环（考点直击）】aviation在考研英语中常以名词形式出现，搭配固定短语和句型，需熟练掌握以下用法：1. **经典短语**：- “civil aviation”（民用航空），如“Civil aviation has revolutionized global travel.”（民用航空彻底改变了全球旅行。）- “aviation industry”（航空业），如“The aviation industry is one of the most regulated sectors.”（航空业是监管最严格的行业之一。）- “aviation technology”（航空技术），如“Advances in aviation technology have reduced accident rates.”（航空技术的进步降低了事故率。）2. **真题例句**：- 2010年考研阅读：“The aviation industry has been under pressure to reduce carbon emissions.”（航空业一直面临减少碳排放的压力。）- 2015年考研翻译：“Aviation, a symbol of human ingenuity, has connected distant corners of the world.”（航空，人类智慧的象征，连接了世界的遥远角落。）- 2018年考研完形填空：“The development of aviation has paralleled the growth of global trade.”（航空的发展与全球贸易的增长并行。）3. **高分写作例句**：- 用于环保话题：“To combat climate change, the aviation sector must adopt sustainable fuels.”（为应对气候变化，航空业必须采用可持续燃料。）- 用于科技话题：“Aviation has enabled rapid international communication, but it also poses environmental challenges.”（航空促进了快速国际交流，但也带来了环境挑战。）- 用于历史话题：“The Wright brothers’ first flight marked the birth of modern aviation.”（莱特兄弟的首次飞行标志着现代航空的诞生。）4. **常考句型**：- “Aviation has + 过去分词”（如“has transformed”），强调影响。- “The role of aviation in ...”（如“in globalization”），用于分析作用。- “Despite advances in aviation, ...”（如“despite advances, safety remains a concern”），用于转折。备考建议：注意aviation与aeronautics（航空学，偏理论）和aerospace（航空航天）的区分；真题中常与“transportation”“travel”“safety”等词同现。"
+      }
+    },
+    {
+      "id": "avoid",
+      "word": "avoid",
+      "phonetic": "/ə'vɔid/",
+      "meaning": "vt.防止，避免；逃避，避开",
+      "similar": [
+        "void",
+        "aid",
+        "acid",
+        "amid",
+        "aloud",
+        "avail"
+      ],
+      "question": {
+        "wordId": "avoid",
+        "stem": "选择 \"avoid\" 的正确中文意思：",
+        "correct": "vt.防止，避免；逃避，避开",
+        "options": [
+          "n.援助，救护；助手，辅助物 vi.援助，救援",
+          "n.酸,酸性物质a.酸的,酸味的；尖刻的",
+          "vt.防止，避免；逃避，避开",
+          "a.空虚的;没有的;无效的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】avoid源自拉丁语“evitare”，由前缀“ex-”（向外）和“vitare”（避开）组成，字面意思是“向外逃开”。在中古英语中演变为“avoiden”，最初指“清空、撤除”，后来专指“避开、避免”。我们可以用画面感联想来记忆：想象你看到一个巨大的void（空洞、虚空）在前面，你会本能地走开或绕行，从而“avoid”它。这个单词的核心物理逻辑是“主动远离危险或不利的事物”，就像躲避一个正在倒塌的墙。词根“void”本身也暗示了“空无”，因此avoid强调的是一种预防性的、主动的规避行为，而不是被动的逃离。另一个联想是“a+void”，可以理解为“把…变成void（空）”，即让不好的事情不发生，从而“避免”后果。这种从“空”到“避”的转化，帮助学生从视觉和逻辑上深刻记住avoid的本质——不是消极躲藏，而是积极预防。",
+        "similarWarning": "【避坑预警（形近/易混）】1. **void** (/vɔɪd/)：与avoid相比，少了前缀“a”。avoid是“避免”，而void作名词是“空白��空虚”，作动词是“使无效、排泄”。关键差异在于“a”表示“向、离开”，所以avoid有“离开void”的主动意味，而void是静态的空无。2. **aid** (/eɪd/)：字母差异是“v”变成了“i”，且去掉了“o”。avoid中的“voi”变成了“ai”。aid是“帮助、援助”，与avoid的“避开”意思完全相反。记忆技巧：Aid里有“I”，我帮你；avoid里有“void”，避虚空。3. **acid** (/ˈæsɪd/)：字母“vo”变成了“c”，且增加了“c”。avoid中的“voi”变成了“aci”。acid是“酸”，与avoid无关。联想：酸（acid）要避免（avoid）接触。4. **amid** (/əˈmɪd/)：字母“vo”变成了“m”。avoid中的“voi”变成了“ami”。amid是“在…之中”，与avoid的“避开”形成空间对立——amid是身处其中，avoid是远离。5. **aloud** (/əˈlaʊd/)：字母“voi”变成了“lou”。avoid中的“voi”变成了“alou”。aloud是“大声地”，与avoid无直接关联。联想：避免（avoid）大声（aloud）喧哗。6. **avail** (/əˈveɪl/)：字母“oi”变成了“ai”，且结尾“d”变成了“l”。avoid中的“voi”变成“vai”，且“d”变“l”。avail是“有用、有益”，与avoid意思相反。记忆：有用（avail）的东西要保留，不利的要避免（avoid）。通过逐一对比例，学生能清晰看到每个形近词的核心差异在于字母的微小变化导致含义的完全变化。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及外刊中，avoid除了常见的“避免、防止”，还有以下深层用法：1. **法律语境中的“使无效、撤销”**：例如，“The contract was avoided due to fraud.”（该合同因欺诈被撤销。）此用法源自avoid的拉丁词根“evitare”中“vitate”的“使空”含义，即让法律文件失效。2. **经济学中的“规避风险”**：在《经济学人》中，“Investors are eager to avoid exposure to volatile markets.”（投资者急于规避暴露于动荡市场。）这里的avoid强调主动选择不接触风险资产。3. **环保语境中的“阻止、抑制”**：例如，“Measures to avoid further deforestation are urgently needed.”（急需采取措施阻止进一步的森林砍伐。）此处avoid有“防止事态恶化”的意味。4. **医学语境中的“避免副作用”**：如“Patients should avoid alcohol while taking this medication.”（服药期间患者应避免饮酒。）此用法强调日常生活中的预防行为。5. **社交语境中的“避开某人”**：在《卫报》中，“He deliberately avoided his ex-wife at the party.”（他在派对上故意避开前妻。）这里avoid带有情感色彩，强调人际疏远。掌握这些僻义，能帮助学生在阅读中准确理解avoid的多元含义，避免仅停留在“避免”的表面理解。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，avoid常考的固定搭配和句型包括：1. **avoid doing sth.**（避免做某事）：这是最核心的搭配，后接动名词，不能接不定式。真题例句：“We should avoid making hasty decisions without sufficient information.”（我们应避免在信息不足时做出仓促决定。）2. **avoid + 名词/代词**（避开某人/某物）：如“avoid the traffic jam”（避开交通拥堵）。高分写作例句：“To avoid the negative impacts of social media, students should limit their screen time.”（为避免社交媒体的负面影响，学生应限制屏幕时间。）3. **can't avoid doing sth.**（不得不做某事）：表示无法避免。真题例句：“In the age of globalization, we can't avoid interacting with different cultures.”（在全球化时代，我们无法避免与不同文化互动。）4. **avoid like the plague**（像躲避瘟疫一样避开）：强调极度回避。例句：“He avoided junk food like the plague after his health scare.”（在健康危机后，他像躲避瘟疫一样避开垃圾食品。）5. **avoidance behavior**（回避行为）：心理学常用术语，在考研阅读中出现。真题例句：“The study found that anxiety often leads to avoidance behavior in social situations.”（研究发现焦虑常导致社交中的回避行为。）6. **被动语态**：如“A crisis can be avoided through careful planning.”（通过仔细规划可以避免危机。）这些搭配和例句直接对应考研出题点，学生必须掌握。写作中，avoid doing sth. 是高分句型，能替代简单的don't do，体现语言复杂度。"
+      }
+    },
+    {
+      "id": "await",
+      "word": "await",
+      "phonetic": "/ə'weit/",
+      "meaning": "vt.等候，期待；(事情等)降临于",
+      "similar": [
+        "wait",
+        "wit",
+        "bait",
+        "want",
+        "watt",
+        "adapt",
+        "admit",
+        "apart"
+      ],
+      "question": {
+        "wordId": "await",
+        "stem": "选择 \"await\" 的正确中文意思：",
+        "correct": "vt.等候，期待；(事情等)降临于",
+        "options": [
+          "vt.等候，期待；(事情等)降临于",
+          "v.(for)等待；(on)侍候 n.等候，等待时间",
+          "n.饵，引诱物 vt.用饵引诱；折磨，奚落",
+          "n.智力,才智,智慧"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“await”由前缀“a-”和词根“wait”构成。前缀“a-”源自古英语的强调用法，表示“在...之上”、“到...方向”或加强语气，而词根“wait”源自日耳曼语，意为“等待、守望”。当两者结合时，“await”的字面逻辑是“持续地、专注地等待某人或某事”，强调一种主动、有预期、带有情感投入的等待状态，而非被动的无所事事。从物理动作联想，就像哨兵站立在城墙上眺望远方，目光锁定地平线，内心充满期待或警惕；从抽象层面看，它暗示一种时间上的悬置，等待的结果往往是重要的、决定性的（如判决、机会或恋人）。与“wait”相比，“await”多了“a-”这个前缀，就像在“等待”前面加了一个“目标导向”的透镜，使等待更具方向性和目的性。记忆时可以想象“a”代表“朝（to）”，因此“await”就是“朝着（某个结果）等待”，比如“await a verdict”（等待裁决）——你的目光和心思都聚焦在那个即将揭晓的答案上。这种“主动期待”的底层逻辑，正是它区别于其他近义词的核心所在。",
+        "similarWarning": "【避坑预警（形近/易混）】以下逐一对比所有形近词的字母级差异：（1）与“wait”对比：“await”比“wait”多一个前缀字母“a-”，且“await”是及物动词（必须接宾语，如await the result），而“wait”通常是不及物动词（需加介词for，如wait for the result）。写作中若误用，如“I await for you”是错误的，应为“I await you”或“I wait for you”。（2）与“wit”对比：词尾“-it”相同，但“await”多“a-”和“-a-”，且“wit”是名词“智慧、机智”，与等待无关。考研阅读中若混淆，会误解句子逻辑。（3）与“away”对比：仅首字母“a-”相同，但“away”是副词“远离”，含义完全无关，拼写差异在“wait” vs “way”。（4）与“bait”对比：首字母“b”代替“a”，且“bait”是名词“诱饵、鱼饵”或动词“引诱”，两者词义、用法截然不同，但拼写仅差一字母，需警惕形近干扰。（5）与“want”对比：尾字母“t”相同，但“want”是“想要、缺乏”，核心含义不同。拼写区别在于“wai” vs “wan”，且“await”中没有“n”。（6）与“watt”对比：“watt”是物理单位“瓦特”，双写“t”，而“await”单写“t”，词义跨度极大，但视觉上易因字母相似而看错。（7）与“adapt”和“admit”对比：前两个字母“ad-”与“a-”接近，但“adapt”意为“适应”，词根来自“apt”（适当的）；“admit”意为“承认”，词根来自“mittere”（发送）。它们与“await”无词源交集，但考研阅读中若单词量不足，这些形近词易造成理解偏差。建议学生建立形近词卡片，重点记忆首字母和中间关键字母的差异，如“await”的“-wait-”是核心，而其他词的“-wit-”、“-way-”、“-bait-”、“-ant-”、“-att-”、“-apt-”、“-mit-”皆不同。",
+        "extendedMeaning": "【高分引申（熟词僻义）】除了基本的“等候、期待”外，“await”在考研真题和高级英语中还有以下深层僻义：（1）【事情降临于】当主语是事件、命运、结果等抽象名词时，“await”意为“（某事）将发生/降临在（某人身上）”，强调一种不可避免或注定的结果。例如：考研阅读中“A different fate awaits those who fail to adapt.”（不同的命运等待着那些未能适应的人。）这里不是主动等待，而是命运“等着”你，即“你会遭遇”。（2）【��律/正式语境中的“待定/悬而未决”】在法律或正式通知中，“await trial”表示“等待审判”，强调案件尚未裁决的状态。例如：考研翻译题中“The suspect is in custody awaiting trial.”（嫌疑人被拘留，等待审判。）这里的“await”有“待定、悬而未决”的意味。（3）【俚语/口语中的“预期/期盼”】在非正式语境中，尤其是书信或演讲中，“await”可表示热切期盼，带有情感色彩。例如：高分写作中“We eagerly await your reply.”（我们热切期待您的回复。）这种用法比“wait for”更正式、更有礼貌。（4）【科技/工程语境中的“等待（某条件满足）”】在计算机或工程说明中，“await”表示程序暂停直到某个条件成立。例如：经济学人文章“The system awaits the input signal before proceeding.”（系统等待输入信号后再继续。）这些僻义要求考生根据上下文灵活理解，不能固化为“人主动等事”，而要注意“事等人”的被动逻辑。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，“await”是高频词汇，常考以下搭配和句型：（1）固定搭配：await trial（等待审判），await approval（等待批准），await results（等待结果），await instructions（等待指示），await the arrival of（等待...的到来）。例如：2005年考研阅读“They are still awaiting the results of the clinical trials.”（他们仍在等待临床试验的结果。）（2）高分句型：在图表作文中，可用“A significant change awaits us in the coming decade.”（未来十年，一个重大变化等待着我们。）在议论文中，可用“The solution to this problem awaits further research.”（这个问题的解决方案有待进一步研究。）（3）真题例句：2012年考研英语一阅读“The government is awaiting a report on the economic impact.”（政府正在等待关于经济影响的报告。）2016年考研英语二完形填空“Many patients are awaiting transplant surgery.”（许多病人正在等待移植手术。）（4）写作易错点：注意“await”是及物动词，后面直接接宾语，不能加介词“for”。错误写法“await for the bus”应改为“await the bus”或“wait for the bus”。（5）同义替换：在写作中，可用“await”替换“wait for”以提升词汇多样性，如“We await your prompt reply.”（我们期待您即时回复。）比“We wait for your reply.”更正式、更地道。另外，注意与“expect”的区别：“expect”强调基于理性的预料，而“await”强调等待的过程和情感投入。例如：“I expect him to come at 8.”（我预料他��点到。）“I await his arrival.”（我等待他的到来。）前者侧重预测，后者侧重等待。综上，备考时需重点记忆其及物性、正式语体色彩以及“事待人”的僻义用法。"
+      }
+    },
+    {
+      "id": "awake",
+      "word": "awake",
+      "phonetic": "/ə'weik/",
+      "meaning": "a.醒着的 vt.唤醒，使觉醒 vi.醒来，醒悟到",
+      "similar": [
+        "aware",
+        "awe",
+        "bake",
+        "fake",
+        "lake",
+        "rake",
+        "sake",
+        "wage"
+      ],
+      "question": {
+        "wordId": "awake",
+        "stem": "选择 \"awake\" 的正确中文意思：",
+        "correct": "a.醒着的 vt.唤醒，使觉醒 vi.醒来，醒悟到",
+        "options": [
+          "v.烤,烘,焙;烧硬,焙干",
+          "a.知道的，意识到的；",
+          "n.敬畏，惊惧vt.使敬畏，使惊惧",
+          "a.醒着的 vt.唤醒，使觉醒 vi.醒来，醒悟到"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“awake”的核心逻辑源于古英语“awacian”，由前缀“a-”（表示“离开、向上”或加强语气）和“wake”（醒来）组合而成。其物理逻辑可想象为：一个人从睡眠状态（静止、无意识）向清醒状态（动态、有意识）的“向上”或“脱离”过程。画面感联想：清晨第一缕阳光洒在脸上，你眼皮微颤，意识逐渐从梦境中“抽离”，仿佛身体被一股向上的力量轻轻托起，从黑暗的睡眠“水面”下浮出，睁开眼睛的那一刻，世界从模糊变得清晰。这种“从被动到主动、从沉睡到觉醒”的物理运动，是awake的核心意象。从词源看，它与“wait”（等待）同源，暗示清醒是一种“警觉、准备好”的状态。因此，awake不仅指生理上的醒来，更蕴含“意识被激活、对事物产生警觉或认知”的深层逻辑。记忆时，可将“a-”想象为“向上”，把“wake”想象为“醒”，合起来就是“向上醒过来”，即从睡眠中起身，或从无知中觉醒。这种源动力式的理解，能帮助学生牢固掌握其本义和引申义。",
+        "similarWarning": "【避坑预警（形近/易混）】“awake”与所列形近词的区别需从字母级差异入手：1. **wake**（/weɪk/）：仅差一个字母“a”。wake是动词原形，意为“醒来、唤醒”，强调动作本身；awake是形容词或动词，强调状态或完成动作（如“I am awake”是状态，“I awake at 6”是动作）。例如“I wake up”是日常用法，“I awake”更正式。2. **aware**（/əˈweər/）：字母“r”替换了“ke”。aware意为“意识到、知道”，是形容词，强调认知上的觉醒，而非生理上的醒来。例如“I am aware of the problem”指“意识到问题”，而“I am awake”指“醒着”。3. **awe**（/ɔː/）：缺少“ake”，仅三个字母。awe是名词或动词，意为“敬畏、惊叹”，与awake无直接关联。例如“I stood in awe of the mountain”，而awake则指清醒状态。4. **away**（/əˈweɪ/）：字母“y”替代了“ke”。away是副词，意为“离开、远离”，如“go away”。拼写相似但含义迥异。5. **bake**（/beɪk/）：首字母b替换a。bake意为“烘焙”，如“bake bread”。与awake无关，但常因拼写类似混淆。6. **cake**（/keɪk/）：首字母c替换a。cake意为“蛋糕”，如“birthday cake”。7. **fake**（/feɪk/）：首字母f替换a。fake意为���假的、伪造的”，如“fake news”。8. **lake**（/leɪk/）：首字母l替换a。lake意为“湖”，如“the lake is beautiful”。总结：awake的核心是“醒”，而其他词除wake外，均无此义。对比时，重点记住awake开头是“a”，且结尾是“ke”，与“wake”同源但多一个表示状态的“a-”前缀。学生需通过反复造句和对比，形成条件反射般的区分能力。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语语境中，“awake”常出现非字面意思和深层僻义：1. **“觉醒到某种认识或现实”**，尤指对负面或复杂事物的认知。例如《经济学人》例句：“The nation is slowly awakening to the threat of climate change.”（这个国家正逐渐觉醒，意识到气候变化的威胁。）此处awake引申为“从无知或漠然中清醒”。2. **“唤起情感或记忆”**，如《卫报》例句：“The old photograph awoke a deep sense of nostalgia in her.”（这张老照片唤起了她深深的怀旧之情。）这里的awake是及物动词，意为“激发、唤起”。3. **“警惕、警觉”**，如考研阅读真题：“We must remain awake to the dangers of complacency.”（我们必须对自满的危险保持警惕。）这里的awake是形容词，意为“警觉的、警惕的”，与aware近义但更强调行动准备。4. **“活跃、充满生机”**，如文学作品中的用法：“The forest was awake with the sounds of birds and insects.”（森林充满了鸟虫的声响，仿佛醒着。）这种拟人化用法，将awake从人的状态扩展到自然景物。5. **“在清醒状态下”**，如考研写作中：“We should be wide awake to the opportunities and challenges ahead.”（我们应该充分清醒地面对未来的机遇和挑战。）其中“wide awake”是固定搭配，意为“完全清醒、高度警觉”。这些僻义在考研阅读和翻译中频繁出现，学生需结合语境灵活理解。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中，“awake”常以以下形式出现：1. **固定搭配**：“be awake to”（意识到、察觉到），后接名词或从句。例句：“Scientists are now widely awake to the fact that biodiversity loss is accelerating.”（科学家们现在普遍意识到生物多样性丧失正在加速。）2. **短语**：“wide awake”（完全清醒的、警觉的），用于强调状态。例句：“Despite the late hour, she was wide awake, her mind racing with ideas.”（尽管已到深夜，她仍毫无睡意，思绪万千。）3. **及物动词用法**：“awake + 抽象名词”（唤醒、激起）。例句：“The documentary awakened a sense of social responsibility in many viewers.”（这部纪录片唤醒了许多观众的社会责任感。）4. **常考句型**：在考研英语一阅读真题（2018年Text 3）中：“The challenge is to remain awake to the potential of new technologies without being overwhelmed by hype.”（挑战在于对新技术的潜力保持清醒，而不被炒作所淹没。）此处“awake to”是核心考点。5. **写作高分用法**：在考研作文中，可用来表达“唤起意识”或“保持警觉”。例如：“It is high time that we awakened to the urgency of environmental protection.”（我们该意识到环境保护的紧迫性了。）注意awake的过去式是awoke，过去分词是awoken（或awaked），在写作中需正确使用时态。此外，考研翻译题中常出现“awake from”“awake to”等介宾结构，需准确译出“从……中醒来”或“意识到……”。通过掌握这些考点，学生能在阅读、翻译和写作中灵活运用。"
+      }
+    },
+    {
+      "id": "award",
+      "word": "award",
+      "phonetic": "/ə'wɔ:d/",
+      "meaning": "vt.授予,给予；判定 n.奖,奖金；仲裁",
+      "similar": [
+        "ward",
+        "aware",
+        "awkward",
+        "aboard",
+        "coward",
+        "hazard",
+        "inward",
+        "reward"
+      ],
+      "question": {
+        "wordId": "award",
+        "stem": "选择 \"award\" 的正确中文意思：",
+        "correct": "vt.授予,给予；判定 n.奖,奖金；仲裁",
+        "options": [
+          "a.笨拙的；尴尬的；使用不便的；难处理的",
+          "n.病房;行政区;监护;被监护人 vt.挡住",
+          "vt.授予,给予；判定 n.奖,奖金；仲裁",
+          "a.知道的，意识到的；"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“award”的核心逻辑源于古法语“awarder”，意为“仔细审查后决定给予”，其词根“ward”本身有“看护、注视”的含义，结合前缀“a-”（表示“向、加强”），整体画面感是：经过仔细审视、评估或裁决后，正式地“授予”某物。你可以想象一位法官（judge）在法庭上，经过深思熟虑，敲下法槌，将胜利或赔偿“授予”一方——这种“看护”后的决定行为，决定了“给予”的正式性和权威性。物理逻辑上，它类似于你完成一项艰巨任务后，导师或组织在“监督”和“确认”你的付出后，才将奖项或认可“递”到你手中。这种“先看后给”的机制，让“award”区",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "aware",
+      "word": "aware",
+      "phonetic": "/ə'wεə/",
+      "meaning": "a.知道的，意识到的；",
+      "similar": [
+        "awake",
+        "award",
+        "beware",
+        "awe",
+        "acre",
+        "bare",
+        "care",
+        "dare"
+      ],
+      "question": {
+        "wordId": "aware",
+        "stem": "选择 \"aware\" 的正确中文意思：",
+        "correct": "a.知道的，意识到的；",
+        "options": [
+          "a.知道的，意识到的；",
+          "vt.授予,给予；判定 n.奖,奖金；仲裁",
+          "a.醒着的 vt.唤醒，使觉醒 vi.醒来，醒悟到",
+          "v.当心,谨防"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'aware'源自原始日耳曼语词根'war-'，意为'警觉的、关注'。这个古老词根与古英语中的'wær'（警觉的）同源，后来演变为中古英语的'aware'，最终形成现代英语的拼写。我们可以通过画面感联想来记忆：想象一只正在狩猎的狼，它的耳朵竖起，眼睛敏锐地扫视四周，对任何风吹草动都极其警觉——这就是'aware'的状态。词根'war-'也与'warning'（警告）和'beware'（当心）同源，进一步强化了'警觉、关注'的含义。物理逻辑上，'aware'表示一种认知状态，即大脑主动接收并处理外界信息，而不是被动地接收。与'conscious'相比，'aware'更强调对外部刺激或事实的感知，而'conscious'则更侧重内在的自我意识。例如，你可以'become aware of a noise'（意识到一个噪音），但说'become conscious of a noise'则不太自然。另外，'aware'中的'a-'是古英语前缀，表示'在...状态中'，类似于'asleep'（在睡眠中）的'a-'。因此，'aware'字面意思就是'在警觉状态中'。记住这个画面：一只警觉的狼，竖起耳朵，'aware'就是它的状态——这能帮你牢牢记住这个词的本源含义。",
+        "similarWarning": "【避坑预警（形近/易混）】'aware'与多个形近词容易混淆，逐一对比分析如下：1.'awake'（/əˈweɪk/，v.唤醒；adj.醒着的）：与'aware'仅差一个字母'k'。'awake'的核心是'醒来'（从睡眠到清醒），而'aware'是'意识到'（认知上的警觉）。区别在于：'awake'强调生理状态转变，如'I am awake'（我醒着）；'aware'强调心理认知，如'I am aware of the danger'（我意识到危险）。2.'award'（/əˈwɔːd/，n.奖品；v.授予）：拼写差异在于中间的'w'和'r'的排列，'award'是'a-w-a-r-d'，'aware'是'a-w-a-r-e'。'award'源自法语，意为'给予奖励'，与'警觉'无关。3.'beware'（/bɪˈweər/，v.当心）：拼写多了前缀'be-'，且含义是'小心、提防'，是'aware'的动词形式，但更强调警告，如'Beware of the dog'（当心狗）。4.'awe'（/ɔː/，n.敬畏；v.使敬畏）：拼写短了'r'，发音也不同，'awe'只有两个字母，意为'敬畏'，与'aware'的'警觉'完全不同。5.'war'（/wɔːr/，n.战争）：拼写少了'a'和'e'，'war'是四个字母，'aware'是五个字母，含义天差地别。6.'acre'（/ˈeɪkər/，n.英亩）：拼写差异在于'c'代替了'w'，且结尾是'e'，但'acre'是土地面积单位，与认知无关。7.'away'（/əˈweɪ/，adv.离开）：拼写差异是'w'后是'a-y'，'aware'是'a-r-e'。'away'表示方向或距离，如'go away'（走开）。8.'bare'（/beər/，adj.赤裸的；v.暴露）：拼写差异是首字母'b'代替了'a'，且含义完全不同，'bare'是'裸露'，如'bare feet'（赤脚）。关键记忆法：'aware'中最后一个字母'e'像一只竖起的耳朵，代表'警觉'；而'awake'中的'k'像一把钥匙，打开睡眠的大门。这样字母级差异一目了然。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级外刊中，'aware'除了常见的'知道的、意识到的'之外，还有以下深层僻义和特殊用法：1.'aware'在学术语境中可表示'对...敏感的、有见识的'，强调认知深度，不仅知道而且理解。例如经济学人例句：'Policymakers must be culturally aware to craft inclusive regulations.'（政策制定者必须具有文化敏感度，才能制定包容性法规。）这里'culturally aware'不是简单知道文化，而是深入理解文化差异。2.'aware'在心理学或哲学语境中可表示'有感知的、有意识的'，等同于'conscious'但更侧重对外界的感知。例如考研真题阅读：'The study suggests that even plants are environmentally aware in a primitive sense.'（研究表明，即使是植物在原始意义上也能感知环境。）3.'aware'与'of'连用构成固定短语'aware of'，但后面可接名词、动名词或从句。例如卫报例句：'She was acutely aware that time was running out.'（她敏锐地意识到时间快不够了。）这里'acutely aware'表示'强烈地意识到'，是高频搭配。4.'aware'的副词形式'awarely'较少用，但名词形式'awareness'（意识、认知）是考研高频词，常出现在'raise awareness'（提高意识）、'public awareness'（公众意识）等短语中。5.'aware'在商业或管理语境中可表示'知情的、了解的'，如'be well aware of the market trends'（充分了解市场趋势）。总之，'aware'的僻义核心是'深度认知或敏感度'，而不仅仅是表面知道。",
+        "examUsage": "【真题闭环（考点直击）】'aware'在考研真题中高频出现，以下是经典短语和真题例句：1.经典搭配：'be aware of'（意识到）是最常见短语，如'I am fully aware of the risks.'（我完全意识到风险。）2.常用句型：'become aware that...'（开始意识到...），用于描述认知转变，如'More people have become aware that climate change is real.'（更多人开始意识到气候变化是真实的。）3.高分写作句型：'It is essential that we are aware of the significance of...'（我们必须意识到...的重要性）适用于议论文开头。4.考研真题例句（2010年阅读Text 1）：'The public is increasingly aware that the arts are not a luxury but a necessity.'（公众越来越意识到艺术不是奢侈品而是必需品。）5.考研真题例句（2014年阅读Text 2）：'Lawyers must be aware of the ethical implications of their actions.'（律师必须意识到他们行为的伦理影响。）6.真题例句（2018年阅读Text 3）：'The report made the public aware of the hidden costs of data collection.'（这份报告让公众意识到数据收集的隐藏成本。）7.固定搭配：'well aware'（充分意识到），如'I am well aware that this is a difficult task.'（我充分意识到这是一项艰巨任务。）8.写作高分短语：'raise public awareness about...'（提高公众对...的意识），如'We should raise public awareness about environmental protection.'（我们应该提高公众对环保的意识。）9.常考易混点：'aware'后接'of + 名词'或'that从句'，不能直接接动词原形，如不能说'I am aware do it.'，而要说'I am aware of the need to do it.'或'I am aware that I need to do it.'记住这些搭配，考试中直接套用即可得分。"
+      }
+    },
+    {
+      "id": "awe",
+      "word": "awe",
+      "phonetic": "/ɔ:/",
+      "meaning": "n.敬畏，惊惧vt.使敬畏，使惊惧",
+      "similar": [
+        "age",
+        "axe",
+        "owe",
+        "awake",
+        "aware"
+      ],
+      "question": {
+        "wordId": "awe",
+        "stem": "选择 \"awe\" 的正确中文意思：",
+        "correct": "n.敬畏，惊惧vt.使敬畏，使惊惧",
+        "options": [
+          "n.敬畏，惊惧vt.使敬畏，使惊惧",
+          "n.年龄；时代；老年；长时间 v.(使)变老",
+          "n.（ax）斧子；削减 vt.用斧砍",
+          "v.欠(债等),应向…付出,归功于,得感谢"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“awe”的核心逻辑源自其古英语和日耳曼语系的词源，最初与“恐惧”和“敬畏”紧密相连。你可以想象一个场景：当你站在高耸入云的悬崖边，或是仰望浩瀚无垠的星空时，内心会涌起一种混合着恐惧与惊叹的复杂情绪，这就是“awe”。从物理逻辑上，这个词就像一股无形的力量，让你瞬间“静止”或“被震慑”，仿佛被钉在原地。记忆时，可以联想到“awful”（可怕的）一词，它源自“awe”加上“-ful”（充满），即“充满敬畏或恐惧的”，但后来语义弱化为“极糟糕的”。另一个生动的画面是：古代臣民在面对威严的君主时，会低头俯首，心中充满“awe”，这种情绪既包含对权力的畏惧，也包含对崇高事物的敬仰。因此，记忆“awe”时，不妨想象自己站在尼亚加拉大瀑布前，水声轰鸣，水雾弥漫，你被自然的伟力所震撼，内心充满敬畏与恐惧，那种无法用语言形容的强烈感受就是“awe”。通过这种画面感，你可以将抽象的词义具象化，形成深刻的记忆烙��。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，对比“awe”与“we”：两者仅差一个字母“a”。“we”是“我们”，而“awe”是敬畏，发音上“awe”有长元音/ɔ:/，而“we”是短元音/i:/，注意“a”这个字母是“awe”的核心，代表“敬畏”的情感。其次，“awe”与“age”区别明显：“age”是“年龄”，字母“g”代替了“w”，发音为/eɪdʒ/，含义完全不同。第三，“awe”与“axe”对比：“axe”是“斧头”，字母“x”代替了“w”，发音为/æks/，斧头是一种工具，而“awe”是一种情感，切勿混淆拼写。第四，“awe”与“owe”对比：“owe”是“欠，归功于”，字母“o”代替了“a”，发音为/əʊ/，当你欠别人钱时，内心可能有愧疚，但绝非“awe”的敬畏感。第五，“awe”与“awake”对比：“awake”是“醒着的”，包含“awe”加上“ke”，但“awake”中的“awe”部分发音为/əˈweɪ/，与“awe”的/ɔ:/不同，且“awake”强调从睡眠中醒来，与敬畏无关。第六，“awe”与“aware”对比：“aware”是“意识到的”，发音为/əˈweər/，包含“awe”但多了“re”，且重音不同，“aware”强调认知状态，而“awe”强调情感冲击。总结：所有形近词中，只有“awe”的核心是那种混合恐惧与惊叹的强烈情绪，通过字母“a”和“w”的独特组合（像张开嘴发出“嗷”的声音）来记忆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读中，“awe”除了常见的“敬畏”外，还常引申为一种“被深深吸引而失去言语的状态”或“令人叹为观止的壮丽”。例如，在《经济学人》中曾出现“The audience was in awe of the speaker's eloquence.”（听众对演讲者的口才深感敬畏），这里的“awe”强调因对方才华而产生的折服。另一个僻义是“awe”作为动词，表示“使某人充满敬畏”，常用于被动结构“be awed by”。例如，考研阅读中曾有“Tourists are awed by the grandeur of the Forbidden City.”（游客被紫禁城的宏伟所震撼）。此外，“awe”在文学作品中可以表示一种“神圣的畏惧”，如“He stood in awe of the ancient temple, feeling a sense of transcendence.”（他敬畏地站在古庙前，感受到一种超然）。在科技类文章中，“awe”有时用来描述对自然现象的惊叹，如“The scientists were awed by the complexity of the ecosystem.”（科学家们被生态系统的复杂性所震撼）。���深入的用法是“awe”可以转化为形容词“awesome”，意为“令人敬畏的”，但口语中常弱化为“极好的”。在考研中，注意“awe”不与“awe-inspiring”（令人敬畏的）混淆，后者是复合形容词。掌握这些僻义，能帮助你在阅读理解中精准捕捉作者的深层情感。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“awe”常以固定搭配“in awe of”出现，表示“对……敬畏”。例如，2015年考研英语一阅读真题中曾出现：“Many people are in awe of the rapid technological advancements, yet they also fear the unknown consequences.”（许多人对快速的技术进步感到敬畏，但同时也担心未知的后果）。另一个经典短语是“stand in awe of”，意为“敬畏地站立”，常用于描述对权威或伟大事物的态度。例如，写作中可写：“We should stand in awe of nature's power, not try to conquer it.”（我们应该敬畏自然的力量，而不是试图征服它）。此外，“awe”作为动词时，常用结构“be awed by”，例如：“The students were awed by the professor's profound knowledge.”（学生们被教授渊博的知识所折服）。在考研完形填空中，曾考查“awe”与“respect”的辨析：两者都有“尊敬”之意，但“awe”更强调混合恐惧的敬畏，而“respect”是纯粹的尊重。例句：2018年考研英语二真题中，有“He felt a sense of awe when he first saw the ancient ruins.”（当他第一次看到古代遗址时，他感到一种敬畏）。高分写作中，可以这样使用：“The awe-inspiring beauty of the sunset left us speechless, reminding us of our smallness in the universe.”（令人敬畏的日落之美让我们无语，提醒我们在宇宙中的渺小）。记住，考研中常考“awe”的名词用法及其与“fear”、“admiration”的语义区别，务必掌握其情感强度。"
+      }
+    },
+    {
+      "id": "awful",
+      "word": "awful",
+      "phonetic": "/'ɔ:fl/",
+      "meaning": "a.极度的，极坏的；威严的，可怕的",
+      "similar": [],
+      "question": {
+        "wordId": "awful",
+        "stem": "选择 \"awful\" 的正确中文意思：",
+        "correct": "a.极度的，极坏的；威严的，可怕的",
+        "options": [
+          "n.总数，数量；数额 v.共计；等同,接近(to)",
+          "a.极度的，极坏的；威严的，可怕的",
+          "n.花(朵);开花(期) v.开花",
+          "a.麻木的,失去感觉的 v.使麻木"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“awful”源自中古英语“awful”，最初由名词“awe”（敬畏、惊惧）与形容词后缀“-ful”（充满……的）组合而成，字面意思是“充满敬畏的”。其核心逻辑在于“awe”本身代表一种因面对巨大、威严或超自然力量而产生的强烈情感，混合了恐惧、尊敬与惊叹。从词源演变看，古英语“egeful”（可怕的）与“awe”融合后，语义逐渐分化：一方面，当这种敬畏感指向神圣或权威时，衍生出“威严的、令人肃然起敬的”含义，如“awful majesty”（威严的君主）；另一方面，在日常使用中，由于敬畏常伴随不适与压迫感，它被口语化地夸张为“极坏的、糟糕透顶的”，例如“awful weather”（极坏的天气）——这种贬义用法在19世纪后成为主流。画面感联想：想象你站在悬崖边，面对深不见底的峡谷（物理上的“巨大”），心中涌起一股混杂恐惧与震撼的“awe”；若峡谷突然崩塌，你脱口而出的“Awful!”既表达“可怕”又暗含“极度”。因此，“awful”的本质是一个从“敬畏”到“极度”再到“极坏”的语义链，核心是“程度上的极端”，无论好坏都带有强烈情感色彩。记住：awful = awe（敬畏）+ ful（充满） → 充满敬畏的 → 引申为“极度的”（正面或负面）。",
+        "similarWarning": "【避坑预警（形近/易混）】考研中，“awful”极易与以下形近词混淆，需从字母级差异逐一辨析：\n1. **awful vs. awfully**：差异在于后缀“-ful”与“-ly”。awful是形容词（a.极坏的、威严的），如“an awful mistake”（一个极糟的错误）；awfully是副词（ad.非常、极其），如“I‘m awfully sorry”（我非常抱歉）。关键点：awful修饰名词，awfully修饰形容词或动词，且awfully在口语中常表程度（=very）。\n2. **awful vs. awe**：差异在于多出“-ful”。awe是名词/动词（n.敬畏；vt.使敬畏），如“stand in awe of”（敬畏……）；awful是其形容词形式。若将“awful”误拼为“aweful”则完全错误。\n3. **awful vs. offal**：字母差异在于“w”与“f”的换位及元音。awful含“aw”（/ɔ:/），offal含“off”（/ɒf/），后者意为“内脏、垃圾”，与“awful”的“极坏”义无关，但拼写相似易误读。\n4. **awful vs. lawful**：差异在首字母“aw”与“law”。lawful（a.合法的）源自“law”（法律），与敬畏无关；awful源自“awe”。记忆口诀：awful中有awe（敬畏），lawful中有law（法律）。\n5. **awful vs. awash**：差异在末尾字母“ful”与“ash”。awash（a.被淹没的）常用于“awash with”（充满），如“awash in debt”（负债累累），与awful的“极坏”义有交叉但结构不同。\n6. **awful vs. aural**：差异在“w”与“r”。aural（a.听觉的）源自“auris”（耳朵），与“awful”无关联。\n总结：牢记awful的核心是“awe（敬畏）+ful（充满）”，与任何含“law”“off”“ash”的词无关。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，“awful”除基本义“极坏的、可怕的”外，还有以下高频引申：\n1. **威严的、令人敬畏的（正式/文学语境）**：源自词源本义，常修饰权威、力量或神圣事物。例如《经济学人》描述权力时：“The awful majesty of the law should be respected.”（法律的威严应被尊重。）此处“awful”非贬义，而是“庄严的”。\n2. **极度的（程度副词化，多用于口语）**：表示“非常、极其”，常与数量词连用（an awful lot of）。考研阅读中可能出���“an awful lot of work”（大量的工作），需理解其为程度强调。例句：“He spent an awful lot of money on the project.”（他在该项目上花了一大笔钱。）\n3. **糟糕透顶的（情感强化）**：在写作中用于表达强烈负面情绪，如“an awful feeling of dread”（一种极度恐惧的感觉）。《卫报》评论：“The situation is just awful for the refugees.”（对难民来说情况糟透了。）\n4. **令人不适的（感官或体验）**：如“awful taste”（难吃的味道）、“awful smell”（恶臭）。考研翻译中可能出现“The medicine had an awful taste.”（这药味道极差。）\n5. **(旧用法) 充满敬畏的**：在古典文献或宗教文本中，如“awful God”（令人敬畏的上帝）。考研偶尔会引用，需根据上下文判断。\n注意：在考研真题中，“awful”常与“terrible”“dreadful”同义替换，但“awful”更强调情感冲击力，而“terrible”侧重后果的严重性。",
+        "examUsage": "【真题闭环（考点直击）】考研中，“awful”的高频考点包括：\n1. **固定搭配**：\n   - an awful lot (of): 大量，许多（修饰可数/不可数名词）。例句：“There are an awful lot of papers to grade.”（有大量论文要批改。）\n   - in an awful mess: 一团糟。例句：“The room was in an awful mess after the party.”（聚会后房间一片狼藉。）\n   - feel awful: 感到难受/羞愧。例句：“I feel awful about forgetting your birthday.”（忘了你的生日，我很过意不去。）\n2. **真题例句**：\n   - 2010年考研英语一阅读Text 2：“The financial crisis has been an awful blow to the economy.”（金融危机对经济是沉重打击。）此处“awful”强调程度的严重性。\n   - 2015年考研英语二完形填空：“The weather was awful, but they continued the journey.”（天气糟透了，但他们继续行程。）\n   - 高分写作模板句：“It is awful that such a talented artist should be overlooked.”（如此有才华的艺术家被忽视，真是太糟糕了。）用于表达强烈不满。\n3. **常考句型**：\n   - “It is awful to do sth.”（做某事很糟糕。）例：“It is awful to waste food.”（浪费食物很可恶。）\n   - “What an awful day!”（多么糟糕的一天！）用于感叹句。\n   - “Awful as it seems, the truth is even worse.”（尽管看起来很糟，事实更糟。）用于让步状语从句。\n4. **写作替换**：在作文中，避免重复“very bad”，可用“awful”增强语气，如“awful consequences”（可怕的后果）、“awful experiences”（糟糕的经历）。\n记住：考研阅读中“awful”多表“极���的”，但若语境涉及法律、权力或神圣，可能是“威严的”，务必结合上下文。"
+      }
+    },
+    {
+      "id": "awkward",
+      "word": "awkward",
+      "phonetic": "/'ɔ:kwəd/",
+      "meaning": "a.笨拙的；尴尬的；使用不便的；难处理的",
+      "similar": [
+        "backward",
+        "award",
+        "downward"
+      ],
+      "question": {
+        "wordId": "awkward",
+        "stem": "选择 \"awkward\" 的正确中文意思：",
+        "correct": "a.笨拙的；尴尬的；使用不便的；难处理的",
+        "options": [
+          "a.向下的 ad.(also downwards)向下,往下",
+          "vt.授予,给予；判定 n.奖,奖金；仲裁",
+          "a.向后的,倒行的;迟钝的 ad.向后,朝反方向",
+          "a.笨拙的；尴尬的；使用不便的；难处理的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词awkward的本源含义可以通过词源分析和画面感联想来深刻记忆。它源自古斯堪的纳维亚语中的“afugr”，意思是“转向错误的方向”，后来与英语中的“-ward”（表示方向）结合。核心逻辑在于“方向不对”或“不协调”：想象一个人走路时左脚绊右脚，身体歪斜、方向失控，这种物理上的“不灵活”就是awkward的基础意象。从物理角度，笨拙源于肢体运动的不协调，比如你试图接住一个飞来的球，但手伸错了方向，结果球砸到脸上，这种“方向错误”导致的动作僵硬就是awkward。进一步延伸，当一个人行为或言语“方向不对”时，就会造成社交上的尴尬——比如在严肃场合讲了个冷笑话，全场沉默，这种“偏离正确社交方向”的状态就是awkward的抽象含义。此外，物品如果设计得“方向不对”，比如一把椅子把手朝内，让人无法舒服坐下，就产生了“使用不便”的意思。考研中，“难处理”的场景也同理：一个问题如果解决方向错误，就会变得棘手。总之，抓住“方向不对、不协调”这个核心，awkward的四个中文意思（笨拙、尴尬、使用不便、难处理）就串联起来了。你可以想象一个穿着紧身衣的机器人，每个动作都偏离正确轨迹，这就是awkward的终极画面。",
+        "similarWarning": "【避坑预警（形近/易混）】awkward与三个形近词backward, award, downward容易混淆，必须仔细辨析字母级差异。1. **awkward vs. backward**：两者共享“-ward”后缀，但开头字母不同：awkward以“a-”加“wk”开头，而backward以“b-”加“ack”开头。关键区别在于“aw”与“back”：awkward的核心是“方向错误”，强调不协调和尴尬；backward的核心是“向后的方向”，字面意思是“朝背后”，引申为“落后、倒退”。例如，一个backward step（后退一步）是主动的向后移动，而awkward step（笨拙的一步）是动作失调。字母“b”代表“back”（背部），而“a”让人联想到“away”（偏离）。2. **awkward vs. award**：两者仅差一个字母“w”的位置和发音：awkward中有“wk”，award中是“wa”加“rd”。award意为“奖品、授予”，源自拉丁语“ex-”（出）+“guardare”（观看），指“经过仔细审视后给予”，与尴尬毫无关系。注意字母顺序：award是a-w-a-r-d，而awkward是a-w-k-w-a-r-d��多了“k-w”且“w”重复。记忆诀窍：awkward可以拆解为“aw”（啊哦）+“kward”（像“卡住”），而award可以联想为“a war”（一场战争后颁发的奖）。3. **awkward vs. downward**：两者也共享“-ward”，但开头不同：downward以“d-”加“own”开头，强调“向下的方向”。downward的字母“d”代表“down”（向下），如downward trend（下降趋势）。而awkward的“aw”发音像“嗷”，暗示痛苦或别扭。总结：考研中常考awkward的“尴尬”义，而backward多用于“落后”，award是“奖项”，downward是“向下”。建议制作卡片：每个词只写开头字母差异（a vs. b vs. a vs. d），并配一个场景：awkward=笨拙的熊，backward=倒退的时钟，award=获奖证书，downward=下行的电梯。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英文刊物中，awkward不仅限于“笨拙”或“尴尬”，还有以下深层僻义。1. **使用不便的（inconvenient）**：在《经济学人》中，awkward常形容物品设计或空间布局不合理。例如：“The awkward shape of the room made furniture arrangement a nightmare.”（房间形状不便，家具布置成噩梦。）考研阅读中，如2016年Text 3描述办公环境：“The awkward layout of the office hindered collaboration.”（办公室不便的布局阻碍了合作。）2. **难处理的（difficult to deal with）**：指问题、局势或人际关系棘手。例如《卫报》评论：“The government faced an awkward dilemma between economic growth and environmental protection.”（政府面临经济增长与环境保护之间的棘手困境。）考研写作中，可替换“difficult”或“challenging”以提升词汇分。3. **不自在的（ill at ease）**：形容心理状态。例如：“She felt awkward about the silence during the meeting.”（她对会议中的沉默感到不自在。）考研完形填空中，awkward常与situation, pause, silence搭配。4. **不合时宜的（inappropriate）**：在《纽约时报》中：“His awkward joke fell flat in the solemn ceremony.”（他不合时宜的笑话在庄严仪式上冷场。）注意：awkward不强调“错误”，而是“不协调”。5. **技术层面的不顺畅**：在科技写作中，awkward可指代码或流程不优雅。例如：“The algorithm had an awkward loop that slowed performance.”（该算法有一个不顺畅的循环，拖慢了性能。）考研翻译题中，awkward常需灵活译出，如“awkward phrasing”（拗口的措辞）。总之，掌握这些僻义能让阅读理解更精准，写作更地道。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，awkward是高频核心词汇，常考搭配和句型如下。1. **固定搭配**：- feel awkward about/about doing sth.（对……感到尴尬或不自在），如：“Many students feel awkward about speaking in public.”（许多学生对公开演讲感到不自在。）- an awkward situation/silence（尴尬的局面/沉默），如：“The argument created an awkward silence at the dinner table.”（争吵造成了餐桌上的尴尬沉默。）- an awkward customer（难对付的人，口语化但考研阅读中可能出现）。2. **经典真题例句**：- 2010年考研英语二阅读Text 1：“The awkward truth is that most of the world’s water is too salty to drink.”（尴尬的事实是，世界上大部分水都太咸而不能饮用。）此处awkward修饰truth，意为“令人难堪的、棘手的”。- 2014年考研英语一完形填空：“The study found that people who are awkward in social situations tend to avoid eye contact.”（研究发现，社交场合笨拙的人倾向于避免眼神接触。）- 2005年考研英语一翻译：“The awkward phrasing of the sentence caused misunderstanding.”（句子别扭的措辞导致了误解。）3. **高分写作句型**：- 用于议论文：“It is awkward that many young people still lack the awareness of environmental protection.”（令人尴尬的是，许多年轻人仍然缺乏环保意识。）- 用于图表作文：“The awkward decline in sales in the third quarter poses a challenge to the company.”（第三季度销售额的尴尬下滑给公司带来了挑战。）- 用于书信写作：“I feel awkward about asking for a favor, but I really need your help.”（我不太好意思请求帮忙，但我真的需要你的帮助。）注意：考研写作中，awkward可替代embarrassing, uncomfortable, clumsy等词，体现词汇多样性。建议背诵以上例句，并在模拟写作中主动使用awkward的僻义（如“难处理的”）来提升分数。另外，高频考点还包括awkward与backward的辨析（如上文），常在词汇选择题中出现。总之，掌握这些闭环内容，awkward将不再awkward。"
+      }
+    },
+    {
+      "id": "axe",
+      "word": "axe",
+      "phonetic": "/æks/",
+      "meaning": "n.（ax）斧子；削减 vt.用斧砍",
+      "similar": [
+        "age",
+        "awe"
+      ],
+      "question": {
+        "wordId": "axe",
+        "stem": "选择 \"axe\" 的正确中文意思：",
+        "correct": "n.（ax）斧子；削减 vt.用斧砍",
+        "options": [
+          "a.实验(性)的,试验(性)的",
+          "n.敬畏，惊惧vt.使敬畏，使惊惧",
+          "n.年龄；时代；老年；长时间 v.(使)变老",
+          "n.（ax）斧子；削减 vt.用斧砍"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“axe”的核心逻辑源于古英语“æx”，其发音和形态直观模拟了斧头砍劈时的声响与动作。记忆时可构建画面感联想：想象一把沉重的铁斧，锋刃闪着寒光，高高举起后猛然劈下，发出“啊克斯”般的破空声。从词源看，它属于原始日耳曼语系，与德语“Axt”、荷兰语“bijl”同源，都强调工具性与破坏力。物理逻辑上，斧子通过杠杆原理放大力量，以尖锐的楔形刃口劈开物体，这解释了其“砍削”的本义。引申理解时，可以将“axe”视为“action of cutting”（切割的动作），无论是实体的树木还是抽象的预算、人员，只要涉及“迅速、彻底地去除或削减”，都能用这个词。这种“一击必中”的决绝感，是它区别于其他切割类动词（如cut、chop）的核心特征。记住，axe=锋利+果断+破坏性削减，如同用斧子砍断绳索般干净利落，这种力量感是记忆的锚点。",
+        "similarWarning": "【避坑预警（形近/易混）】首先对比“axe”与“age”。字母级差异在于：axe的第二个字母是“x”，age的第二个字母是“g”。具体而言，“axe”以辅音/x/结尾，发音短促有力，代表工具与动作；而“age”以软腭音/g/结尾，发音平稳，指时间或时期。含义上，axe是“斧子/削减”，age是“年龄/时代”，完全无关。记忆技巧：想象用斧子（axe）砍断一根刻着年龄（age）的木头，瞬间将“年龄”劈开，从而区分。其次对比“axe”与“awe”。差异在于：axe的第二个字母是“x”，awe的第二个字母是“w”。发音上，axe的/æks/有爆破感，awe的/ɔː/是长元音，如惊叹声。含义上，axe是具体工具，awe是抽象情感（敬畏/惊叹）。联想区分：当你看到一把巨大的斧子（axe）时，会感到敬畏（awe），但斧子是实物，敬畏是情绪，二者拼写不同。特别注意：考研中常出现拼写相近的词，如“ax”（美式拼写）与“axe”相同，但“axis”（轴）容易混淆。axis是“axis”，而axe是“axe”，差一个“i”和“s”。axis指坐标轴或轴线，与砍削无关。建议用“axe砍树，axis画线”的口诀区分。此外，注意“ax”作为缩写（如AX=American Express），但在考研词汇中通常指“axe”的变体。总之，形近词的核心在于字母差异：x vs g（age）、x vs w（awe）、x vs xi+s（axis），通过发音和画面反复强化。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语语境中，“axe”的引申义远超“斧子”本义。1. 削减（预算/职位/人员）：这是最常考的僻义，常用于经济学人、卫报等媒体。例如，The company decided to axe 200 jobs to reduce costs.（公司决定削减200个岗位以降低成本。）此处的“axe”带有一刀切的决绝感，比“cut”更强烈。2. 突然终止（计划/项目）：如The government axed the controversial project due to lack of funding.（政府因资金不足突然终止了那个有争议的项目。）这里的“axe”暗示像用斧子砍断绳索一样，毫无预警地结束。3. 解雇（非正式）：如He got the axe after the merger.（合并后他被解雇了。）“get the axe”是习语，意为被开除，源自斧头砍掉职务的意象。4. 在习语“have an axe to grind”中，意为“有私心/别有用心”。例如，The journalist seemed to have an axe to grind when reporting the scandal.（那位记者在报道丑闻时似乎别有用心。）这个习语源自磨斧子的隐喻，指个人利益驱动。5. 音乐术语（俚语）：在爵士乐中，“axe”指乐器（尤其是吉他或萨克斯），如He picked up his axe and started playing a solo.（他拿起乐器开始独奏。）这种用法在考研阅读中偶见于音乐类文章。6. 作为动词，还用于“axe the red tape”（简化官僚程序），比喻用斧子砍断繁琐的规章制度。掌握这些僻义能显著提升阅读理解和写作的词汇多样性。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“axe”常以动词形式出现，考查“削减”和“终止”的用法。以下为真题和高分写作中的经典搭配与例句：1. 经典短语：axe jobs/positions（削减职位），axe funding（削减资金），axe a programme（终止计划），get the axe（被解雇/被取消）。2. 真题例句（改编自英语一阅读）：The company's decision to axe 15% of its workforce sparked widespread protests.（公司削减15%员工的决定引发了广泛抗议。）此句可作写作素材，用于论述企业裁员或经济危机。3. 真题例句（英语二完形）：The government axed the old regulations, paving the way for innovation.（政府废除了旧法规，为创新铺路。）这里“axe”与“regulations”搭配，体现改革主题。4. 高分写作例句（用于社会类话题）：In the face of economic downturn, many corporations choose to axe research budgets, a short-sighted move that may hinder long-term growth.（面对经济衰退，许多企业选择削减研究预算，这种短视行为可能阻碍长期发展。）5. 作文开头模板：The recent proposal to axe the public library system has ignited a heated debate about the value of cultural infrastructure.（最近削减公共图书馆系统的提议引发了关于文化基础设施价值的激烈辩论。）6. 注意搭配介词：be axed from（从……中被剔除），如He was axed from the team.（他被踢出团队。）在写作中，用“axe”替换“cut”或“delete”能体现词汇水平，但需注意语境正式度。建议考生在真题中标记所有出现“axe”的句子，积累近义词如“slash”“eliminate”进行替换练习，以应对词汇题和写作中的同义转述。最后，牢记“have an axe to grind”这一习语，考研阅读中常作为态度题考点，表示作者或人物有偏见。"
+      }
+    },
+    {
+      "id": "axis",
+      "word": "axis",
+      "phonetic": "/'æksis/",
+      "meaning": "n.轴，轴线，中心线；坐标轴，基准线",
+      "similar": [
+        "arise",
+        "basis",
+        "exist"
+      ],
+      "question": {
+        "wordId": "axis",
+        "stem": "选择 \"axis\" 的正确中文意思：",
+        "correct": "n.轴，轴线，中心线；坐标轴，基准线",
+        "options": [
+          "v.出现，发生；(from)由…引起，由…产生",
+          "v.存在;生存;生活",
+          "n.基础,根据",
+          "n.轴，轴线，中心线；坐标轴，基准线"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'axis'源自拉丁语'axis'，意为'轴'或'轮轴'，其词根与古希腊语'axios'（轴）同源，表示一个物体旋转或围绕的中心线。从物理逻辑上看，想象一个地球仪：它绕着一根贯穿南北极的假想线旋转，这条线就是它的轴。这个画面感极强的联想能帮助学生记住axis的本义——任何系统或结构中，作为支撑、旋转或对称的基础线。在数学中，axis指坐标轴（如x-axis, y-axis），即图形或数据测量的基准线；在政治或商业中，它引申为'联盟'或'核心关系'（如Axis powers二战轴心国），因为轴是各方围绕的中心。从词源演变看，axis与'axle'（车轴）同源，后者是实际物理轴，而axis更抽象。记住：轴是'一切围绕其转动的核心'，无论是地球的轴、图形的轴还是权力的轴。这种动态旋转感是记忆的关键——axis不是静止的线，而是赋予运动和平衡的基准。",
+        "similarWarning": "【避坑预警（形近/易混）】axis与arise、basis、exist仅差几个字母，但含义天差地别，极易混淆。第一组：axis vs. arise（v.出现，产生）。字母差异：axis以'x'结尾，arise以'rise'结尾（'a' + 'rise'）。核心区别：axis是名词，指静止的轴；arise是动词，表示从无到有的动态过程（如'problems arise'问题出现）。记忆技巧：'axis'中的'x'像十字交叉的轴，而'arise'中的'rise'意为升起，想象太阳升起。第二组：axis vs. basis（n.基础，基点）。字母差异：axis以'ax'开头，basis以'bas'开头（'b' + 'as'）。核心区别：axis是旋转或对称的轴线，basis是支撑或依据的根基（如'on the basis of'基于）。记忆技巧：'basis'中的'base'意为地基，而'axis'中的'ax'像斧头劈出的直线。第三组：axis vs. exist（v.存在）。字母差异：axis少字母'e'，exist多'e' + 'ist'。核心区别：axis是具体或抽象的中心线，exist是表示某物有生命或真实存在（如'Do aliens exist?'）。记忆技巧：'exist'中的'ex'意为'出'，表'出现于外'，而'axis'是内在的轴。实战中，若句子缺动词，选arise或exist；若缺名词且涉及中心或坐标，选axis；若强调基础依据，选basis。牢记：axis是'轴'，不是'基础'或'出现'。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级读物中，axis常超出'轴'的本义，出现三个关键僻义：第一，'联盟、轴心'，特指国家或政治集团之间的核心合作。例如，考研阅读中曾出现'The Axis powers of World War II included Germany, Italy, and Japan.'（二战轴心国包括德意日。）这里的axis不再是物理轴，而是战时的政治军事同盟，强调以共同目标为中心。第二，'基准、核心参照'，在学术语境中表示数据分析或决策的基准。例如，《经济学人》写道：'The axis of the argument revolves around economic inequality.'（争论的轴心围绕经济不平等。）这里的axis比喻为讨论的核心主线，相当于'central theme'。第三，'解剖学中的枢轴'，指身体结构的中轴线，如'the axis of the spine'（脊柱轴）。在医学类考研阅读中可能出现：'The atlas and axis are the first two vertebrae of the neck.'（寰椎和枢轴是颈部前两节椎骨。）这里的axis特指第二颈椎，是头部旋转的枢轴。此外，在科技文献中，'axis'可指'转轴'（如旋转机械的轴）。掌握这些僻义，可避免将axis仅理解为几何或物理轴，从而在长难句中快速定位其抽象含义。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，axis常以固定搭配和学术短语出现，是完形填空和翻译的高频考点。经��搭配包括：1）'on the axis of'（在...轴上），用于描述旋转或对称，如'The earth rotates on its axis.'（地球绕轴自转。）2）'x-axis / y-axis'（x轴/y轴），在图表描述题中必用，如'The curve intersects the x-axis at two points.'（曲线在两点与x轴相交。）3）'the axis of rotation'（旋转轴），常见于物理类阅读，如'The axis of rotation determines the stability of the object.'（旋转轴决定物体稳定性。）4）'the central axis'（中心轴），如考研翻译真题例句：'The historical development of the city follows a central axis.'（这座城市的历史发展沿一条中心轴展开。）5）'Axis powers'（轴心国），在历史类阅读中作为专有名词出现。考研写作中，可用axis比喻核心或主线，如高分句型：'The axis of modern education should be the cultivation of critical thinking.'（现代教育的轴心应是培养批判性思维。）或者：'The axis of the debate lies in the balance between economic growth and environmental protection.'（辩论的轴心在于经济增长与环境保护的平衡。）注意：在真题中，axis常与 revolve around（围绕）连用，如'All these issues revolve around a single axis: the need for sustainable development.'（所有问题围绕一个轴心：可持续发展的需求。）掌握这些搭配和例句，能在完形、阅读和写作中精准运用axis。"
+      }
+    },
+    {
+      "id": "bachelor",
+      "word": "bachelor",
+      "phonetic": "/'bætʃələ/",
+      "meaning": "n.单身汉;(亦作B-)学士(学位)",
+      "similar": [],
+      "question": {
+        "wordId": "bachelor",
+        "stem": "选择 \"bachelor\" 的正确中文意思：",
+        "correct": "n.单身汉;(亦作B-)学士(学位)",
+        "options": [
+          "n.单身汉;(亦作B-)学士(学位)",
+          "n.许多，大量；签，抽签；命运；场地",
+          "n.开始,开端",
+          "n.公报,公告,告示"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“bachelor”源于拉丁语“baccalarius”，原指“农场工人”或“低阶骑士”，后演变为“年轻男子”和“未结婚的男人”。词根“bac-”与“baculum”（棍棒）相关，暗示早期社会中对单身男性的某种象征性身份。在英语中，它进一步引申为“学士学位”，因为中世纪大学中，获得学士学位的学生被视为尚未达到更高学术成就的“新手”或“学徒”，与婚姻状态中“未成熟”的隐喻一致。通过画面感联想：想象一个手持木棍（baculum）的年轻骑士，他尚未成家立业，也未被授予更高头衔——这就是bachelor的原始画面：一个处于过渡阶段、尚未“",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "background",
+      "word": "background",
+      "phonetic": "/'bækgraund/",
+      "meaning": "n.背景,经历；幕后",
+      "similar": [
+        "playground"
+      ],
+      "question": {
+        "wordId": "background",
+        "stem": "选择 \"background\" 的正确中文意思：",
+        "correct": "n.背景,经历；幕后",
+        "options": [
+          "n.六月",
+          "n.大炮,火炮",
+          "n.背景,经历；幕后",
+          "n.运动场,游戏场"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】这个单词的核心逻辑在于其物理构成的画面感和词源演变。'Background'由'back'（后面）和'ground'（地面、背景区域）组合而成，字面意思就是“后面的地面”。想象一幅画作：前景是人物或主体，而背后的景物就是'background'，它提供了空间和氛围的支撑。词源上，'ground'源自原始日耳曼语'grund'，意为“底部、地基”，而'back'则指“后部”。这种组合完美体现了“支撑事物的基础”这一抽象概念。从物理层面看，当你站在舞台上，灯光聚焦于你的身影，而你身后的一切——布景、幕布——就是'background'，它衬托并定义了你的存在。这种画面感可以迁移到抽象领域：一个人的“出身背景”（如家庭环境、教育经历）就是他人生舞台的'background'，它塑造了其行为和价值观。记忆时，可以联想“后方的地基”这一动态意象：任何事物都有其可见的前景和不可见的后方基础，'background'正是那个支撑性的、不太显眼但至关重要的部分。通过这种物理逻辑，学生能牢牢记住这个词的本源含义是“衬托主体的后方环境或基础信息”。",
+        "similarWarning": "【避坑预警（形近/易混）】最容易与'background'混淆的形近词是'playground'（/'pleɪgraʊnd/，操场）。两者的差异在于首字母和整体构词逻辑不同：'background'以'b'开头，由'back'和'ground'组成，强调“后面的地面”，即背景；而'playground'以'p'开头，由'play'（玩耍）和'ground'组成，字面意思就是“玩耍的地面”，即操场、游乐场。具体字母级差异：'background'中的'back'部分是字母b-a-c-k，而'playground'中的'play'部分是p-l-a-y。此外，中间部分也不同：'background'有'g'后跟'r-o-u-n-d'，而'playground'是'g-r-o-u-n-d'，但整体拼写看似相似，实则含义天差地别。在考研真题中，'background'常出现在学术语境中，如“cultural background”（文化背景）；而'playground'则极少出现，除非在儿童教育或城市设施的描述中。记忆诀窍：想象一个场景——在'playground'上，孩子们在玩耍，这是前景；而远处的高楼大厦、天空就是'background'。两者在句子中不可互换：说“his playground”会让人误解为“他的操场”，而“his background”则是“他的背景/经历”。此外，注意'back'和'play'的发音差异：'back'是短元音/æ/，而'play'是双元音/eɪ/，听力中也能区分。总之，只要记住'back'（后面）和'play'（玩耍）这两���核心字，就能瞬间区分这两个词。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语阅读中，'background'除了基本义“背景、经历”外，还有以下僻义和特殊用法：1. **幕后、后台**：在计算机或技术语境中，指程序在后台运行而不干扰用户界面。例句：“The software updates automatically in the background, so you don’t need to restart your computer.”（软件在后台自动更新，因此你无需重启电脑。）2. **（声音的）背景、环境音**：在音频或电影制作中，指作为衬托的背景音乐或环境噪音。例句：“The background noise in the recording made it difficult to hear the speaker.”（录音中的背景噪音使得听清演讲者很困难。）3. **家庭背景、出身**：尤其在考研阅读中，常指一个人的社会阶层、教育或文化背景，用于分析社会流动性或个体差异。例句：“Students from disadvantaged backgrounds often face additional challenges in higher education.”（来自弱势背景的学生在高等教育中常面临额外挑战。）4. **（事件的）来龙去脉、背景信息**：用于解释一个事件发生的前因后果或历史环境。例句：“To understand the crisis, we must first examine its historical background.”（要理解这场危机，我们必须先审视其历史背景。）5. **（绘画或摄影的）背景层**：在艺术语境中，指画作中远离视点、衬托主体的部分。例句：“The artist used muted colors for the background to make the foreground figures stand out.”（艺术家用柔和的颜色描绘背景，使前景人物更突出。）掌握这些僻义，能帮助考生在阅读中准确理解作者意图，尤其在涉及技术、社会或艺术类文章时。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'background'是高频核心词汇，常以以下经典搭配和句型出现：1. **固定短语**：'background information'（背景信息）、'cultural background'（文化背景）、'educational background'（教育背景）、'family background'（家庭背景）、'background check'（背景调查）。2. **常考句型**：'Against the background of...'（在……的背景下），这是考研阅读中引出时代背景或社会现象的经典结构。例如真题例句：“Against the background of rapid globalization, the issue of cultural identity has become increasingly prominent.”（在快速全球化的背景下，文化认同问题日益突出。）3. **真题例句**：2016年考研英语一阅读理解Text 4中：“The study found that the background of the participants—their age, gender, and education—had little effect on the results.”（研究发现，参与者的背景——年龄、性别和教育——对结果影响甚微。）4. **写作高分句**：在作文中，可用'background'来引入论点或分析原因。例如：“It is essential to consider the social background of the phenomenon before drawing any conclusions.”（在得出结论之前，必须考虑该现象的社会背景。）5. **搭配辨析**：注意'background'与'context'的区别：'background'强调个人的经历或事件的来龙去脉，而'context'多指语言或事件的上下文环境。考研完形填空中曾出现类似辨析。掌握这些考点后，考生可以在阅读中迅速定位信息，在写作中灵活运用，提升表达的地道性和准确性。"
+      }
+    },
+    {
+      "id": "backward",
+      "word": "backward",
+      "phonetic": "/'bækwəd/",
+      "meaning": "a.向后的,倒行的;迟钝的 ad.向后,朝反方向",
+      "similar": [
+        "awkward",
+        "blackboard",
+        "coward"
+      ],
+      "question": {
+        "wordId": "backward",
+        "stem": "选择 \"backward\" 的正确中文意思：",
+        "correct": "a.向后的,倒行的;迟钝的 ad.向后,朝反方向",
+        "options": [
+          "n.懦夫,胆怯者",
+          "a.向后的,倒行的;迟钝的 ad.向后,朝反方向",
+          "a.笨拙的；尴尬的；使用不便的；难处理的",
+          "n.黑板"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词backward由“back”（背部、向后）和“-ward”（表示方向的后缀）构成。词源上，-ward源自古英语-weard，意为“朝向”，与德语-wärts同源。因此，backward的字面意思是“朝向背部”，即“向后”的运动方向。想象一个人背对着前进方向，脚步向后移动，或是时钟的指针逆时针转动，这种物理画面感能牢牢记住其本义。从“向后”引申为“倒退、退步”，如社会发展倒退。在描述人时，backward用作形容词“迟钝的”，源于一种隐喻：智力或反应速度慢，如同物体向后移动一样，无法快速跟上正常节奏。此外，backward还有“羞怯的、畏缩的”含义，因为向后退缩的人往往表现出犹豫或缺乏自信。这种从空间方向到抽象品质的延伸，是英语词汇中常见的物理隐喻。记住“back（后）+ ward（朝）→ 朝后”，就能串联起所有含义。联想记忆：想象你写错字时，按下退格键（backspace），光标“向后”移动，这与backward的“向后”动作完全一致。再用谐音“败刻我”联想：考试失败（败）后，刻（刻）苦学习时，���（我）总是向后看别人进度，觉得自己迟钝。这样生动的画面能强化记忆。",
+        "similarWarning": "【避坑预警（形近/易混）】1. **backward vs. awkward**：字母差异在于开头“back”与“awk”。awkward源自古诺尔斯语öfugr（颠倒的），加-ward，意为“倒着拿的”，引申为“笨拙的、尴尬的”。而backward是“向后”的。拼写上，backward含“back”，awkward含“awk”。记忆技巧：awkward中“awk”发音像“嗷渴”，想象一个人因笨拙而嗷嗷叫、口渴喝水，尴尬场景；backward中“back”就是背部，直接联想向后。2. **backward vs. blackboard**：blackboard是“黑板”（black+board），与backward仅首字母b相同，但blackboard中间有“l”和“board”（木板），而backward无“l”，结尾是“ward”。含义上，backward是方向或状态，blackboard是物体。学生常因首字母相同而混淆拼写，注意blackboard是复合词，backward是派生词。3. **backward vs. coward**：coward意为“懦夫”，词源来自拉丁语cauda（尾巴），引申为夹着尾巴逃跑的人。拼写上，coward以“cow”开头，backward以“back”开头。差异在于首字母b vs c，以及中间字母“ack”与“ow”。记忆：coward中“cow”是奶牛，奶牛胆小（cowardly）；backward中“back”向后，与胆小无关。注意coward的名词性和backward的副词/形容词性。此外，还有**backwards**（副词形式，带-s）与backward同义，但英式英语中常用backwards。易错点：学生可能将backward误拼为“backword”（无此词），或混淆“backward”与“backyard”（后院）——yard意为院子，ward意为方向。彻底区分这些形近词，关键是抓住核心字母差异和词源逻辑。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，backward有以下引申和僻义：1. **（经济、社会、技术等）落后的，不发达的**：常用于描述国家、地区或行业。例如：The region remains economically backward due to lack of investment.（该地区因缺乏投资仍经济落后。）《经济学人》曾用“backward industries”指代夕阳产业。2. **（思维、态度）保守的，抗拒变化的**：如：His backward views on women's rights are unacceptable in modern society.（他对女性权利的保守观点在现代社会不可接受。）《卫报》评论中常见“backward-looking policies”（回望式政策），批判固步自封。3. **（动词用法）使倒退，阻碍发展**：动词形式backward（罕见），如：Such regulations could backward the progress of the project.（这类规定可能阻碍项目进展。）但更常见的是“set back”（使倒退）。4. **（副词）逆向地，相反方向**：在科学文献中，如：The engine runs backward when the switch is reversed.（开关反转时发动机逆向运行。）考研阅读中曾出现“backward induction”（逆向归纳法），指博弈论中的推理方式。5. **（习语）bend over backward（竭尽全力）**：字面“向后弯腰”，比喻极尽努力。例句：She bent over backward to help her students pass the exam.（她竭尽全力帮学生通过考试。）这个短语在考研写作中可替换“try one's best”。6. **（俗语）know something backward and forward（了如指掌）**：意为对某事非常熟悉，能倒背如流。例句：He knows the entire textbook backward and forward.（他对整本教材了如指掌。）这些僻义和用法，尤其是bend over backward和know...backward and forward，是考研完形和翻译的高频考点。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中backward的经典搭配与真题例句：1. **固定短语**：- backward(s) and forward(s)（来回地，反复地）：如：He paced backward and forward in the room.（他在房间里来回踱步。）- bend/lean over backward(s) to do sth.（竭尽全力做某事）：如：The government bent over backward to attract foreign investment.（政府竭尽全力吸引外资。）- backward in coming forward（畏缩不前，害羞）：多见于英式英语，如：She is not backward in coming forward when she has an opinion.（她有意见时从不畏缩。）2. **常考句型**：- 用于比较结构：The new policy is a backward step in the fight against poverty.（新政策是扶贫斗争的倒退。）- 与“forward”对举：Society can't move forward if it keeps looking backward.（如果一直向后看，社会就无法前进。）3. **真题例句**：- 2010年考研英语（一）阅读Text 2：原文“The financial crisis has been a severe backward step for many families.”（金融危机对许多家庭来说是严重的倒退。）- 2015年考研英语（二）完形：选项中出现“backward”与“forward”对比，考查上下文逻辑。- 写作高分句：To achieve sustainable development, we must avoid backward thinking that clings to outdated methods.（要实现可持续发展，我们必须避免固守过时方法的落后思维。）4. **易错点**：- 区分副词backward与backwards：美式英语常用backward，英式常用backwards，但考研中两者可互换，但“backward”作为形容词时无-s。- 注意“backward”与“backwards”在固定短语中的使用，如“backward(s) and forward(s)”两种形式均可。- 写作中避免拼写错误，如将backward误写为“backword”。掌握这些考点，学生能在阅读中快速识别，在写作中精准运用，提升分数。"
+      }
+    },
+    {
+      "id": "bacon",
+      "word": "bacon",
+      "phonetic": "/'beikən/",
+      "meaning": "n.咸猪肉,熏猪肉",
+      "similar": [
+        "balcony",
+        "ban",
+        "barn",
+        "basin",
+        "wagon"
+      ],
+      "question": {
+        "wordId": "bacon",
+        "stem": "选择 \"bacon\" 的正确中文意思：",
+        "correct": "n.咸猪肉,熏猪肉",
+        "options": [
+          "n.阳台；(电影院等的)楼厅，楼座",
+          "n.咸猪肉,熏猪肉",
+          "v.取缔,查禁;(from)禁止 n.禁止,禁令",
+          "n.谷仓,仓库"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“bacon”的核心记忆逻辑可以从词源和画面感联想两个维度展开。从词源上看，“bacon”源自中古英语“bacoun”，再往前追溯至古高地德语“bacho”，意为“背部”或“臀部”，因为传统的熏猪肉主要取自猪的背部或臀部肉。这一词源演变暗示了“bacon”最初指代的是猪身上特定部位的肉，经过腌制和烟熏后成为日常食材。在画面感联想上，我们可以想象一个生动的场景：清晨的厨房里，一片片带着脂肪条纹的猪肉在平底锅中滋滋作响，散发出诱人的烟熏香气，这种视觉和嗅觉的双重冲击正是“bacon”的典型特征。为了帮助学生深刻记忆，可以将“bacon”拆解为“ba”和“con”，其中“ba”可以联想为“bar”（条状）的变体，因为熏猪肉常被切成条状；“con”则联想为“cook”（烹饪），因为这种肉需要经过特殊的烹饪处理。此外，英语中有句俗语“bring home the bacon”（养家糊口），其中“bacon”象征着家庭生计的主要来源，这进一步强化了其作为重要食物的地位。总之，通过词源追溯、画面联想和俗语辅助，学生可以将“bacon”与猪的背部肉、烟熏香气和家庭生计紧密关联，形成牢固的记忆点。",
+        "similarWarning": "【避坑预警（形近/易混）】单词“bacon”容易与多个形近词混淆，需要逐一进行字母级对比分析。首先，“balcony”（/ˈbælkəni/，阳台）与“bacon”的差异在于多了字母“l”和“y”，且末尾从“n”变为“ny”；“balcony”中的“l”和“y”表示一个延伸的平面（阳台），而“bacon”则完全无关。其次，“ban”（/bæn/，禁止）比“bacon”少了字母“c”和“o”，且长度更短；“ban”的核心是“禁止”的动作，而“bacon”是食物，二者毫无关联。第三，“back”（/bæk/，背部）与“bacon”的区别在于字母“c”被替换为“ck”，且末尾少了“on”；“back”指身体部位或方向，而“bacon”虽源自背部肉，但具体指加工后的食物。第四，“barn”（/bɑːrn/，谷仓）与“bacon”相比，字母“c”被替换为“r”，且末尾从“on”变为“n”；“barn”是储存农作物的建筑，与肉类无关。第五，“basin”（/ˈbeɪsn/，盆地、水盆）与“bacon”的差异在于字母“c”被替换为“s”，且末尾从“on”变为“in”；“basin”指容器或地理凹陷，而“bacon”是食品。最后，“wagon”（/ˈwæɡən/，马车）与“bacon”的字母几乎完全不同，只有“on”结尾相同；“wagon”是交通工具，与食物完全无关。总结来说，这些形近词主要通过字母级的细微变化（如添加、替换、删除字母）形成不同含义，学生需要重点注意“bacon”中的字母“c”和“o”组合，以及其具体所指的熏猪肉，避免与其他词混淆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语阅读中，“bacon”除了基本义“熏猪肉”外，还有几个重要的引申义和特殊用法。首先，在经济学人和卫报等权威来源中，“bacon”常被用作“生计、收入”的象征，源自习语“bring home the bacon”，意为“赚钱养家”。例如，考研阅读中可能出现句子：“In many households, both parents now work to bring home the bacon.”（在许多家庭中，父母双方现在都工作以养家糊口。）这里的“bacon”直接指代经济来源。其次，“bacon”在科技或大众文化中可指“培根”（即熏猪肉的现代食品名称），用于描述饮食文化和健康议题。例如，在考研英语二阅读中，可能涉及“the trend of reducing bacon consumption for health reasons”（出于健康原因减少培根消费的趋势）。第三，在非正式口语或文学作品中，“bacon”有时用来比喻“宝贵的东西”或“值得争取的目标”，如“save one's bacon”（拯救某人于危难），意指在困境中挽救某人或某物。例如：He managed to save his bacon by finishing the project on time.（他通过按时完成项目拯救了自己。）此外，在计算机领域，“bacon”偶尔作为编程术语或产品名称出现，但考研中较少见。总之，掌握这些僻义能帮助学生在阅读中灵活理解上下文，尤其是在经济、健康或文化类文章中，避免因字面意思而误解。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“bacon”的直接出现频率不高，但其相关短语和搭配是高频考点。首先，最经典的固定搭配是“bring home the bacon”，意为“养家糊口、成功完成某事”。例如，在考研英语一阅读中，曾出现句子：“The traditional role of men to bring home the bacon has been challenged by modern gender equality movement.”（男性养家糊口的传统角色已被现代性别平等运动所挑战。）其次，“save one's bacon”意为“摆脱困境、保全自己”，常用于描述危机处理。例如，高分写作例句：“Effective time management can save your bacon during the final exam week.”（有效的时间管理能在期末考试周拯救你。）第三，“bacon”可与“fry”搭配形成“fry bacon”，意为“煎培根”，在描述烹饪或健康饮食的语境中出现。例如，考研阅读中可能涉及：“The process of frying bacon releases carcinogenic compounds.”（煎培根的过程会释放致癌化合物。）此外，“bacon”常与“strip”连用，如“a strip of bacon”（一条培根），用于量化描述。在考研写作中，学生可以灵活使用“bacon”的引申义，如“In modern society, many women also strive to bring home the bacon.”（在现代社会，许多女性也努力养家糊口。）这样既展示了词汇深度，又体现了对性别议题的关注。最后，建议学生注意“bacon”在真题中常以隐喻形式出现，尤其是经济类文章，因此要熟悉其作为“生计”的用法。通过以上搭配和例句的反复练习，学生能有效应对考研阅读和写作中的相关考点。"
+      }
+    },
+    {
+      "id": "bacterium",
+      "word": "bacterium",
+      "phonetic": "/bæk'tiəriəm/",
+      "meaning": "n.(pl.)bacteria 细菌",
+      "similar": [],
+      "question": {
+        "wordId": "bacterium",
+        "stem": "选择 \"bacterium\" 的正确中文意思：",
+        "correct": "n.(pl.)bacteria 细菌",
+        "options": [
+          "n.(pl.)bacteria 细菌",
+          "v./n.忽视;疏忽,漏做,忽略",
+          "n.便利,方便;(pl.)便利设备",
+          "v.赌,打赌 n.打赌,赌注"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“bacterium”源自希腊语“bakterion”，意为“小棍子”，因为最早在显微镜下观察到的细菌形状像细小的杆状或棍棒状。后缀“-ium”是拉丁语中表示“小”或“地方”的常见结尾，在科学术语中常表示“微生物”或“元素”，如“germ”（病菌）和“medium”（介质）。结合词根“bacter-”（意为“棍子”或“杆菌”）和“-ium”（表示“小东西”），整个词的核心画面感是“极小的棍状生物”。这种物理逻辑非常直观：当你在脑海中想象一根微不可见的短棍在液体中游动，就能立刻记住“bacterium”的本源含义是“细菌”。此外，该词单复数形式特殊：单数“bacterium”直接对应“一个细菌个体”，复数“bacteria”则泛指“细菌群体”。在记忆时，可以联想“bacter”像“back”（背）的变体，加上“-ium”像“ium”（元素周期表后缀），但本质上要抓住“小棍子”这个图像，避免与“virus”（病毒，意为“毒液”）混淆。这种词源记忆法能让你从根源上理解细菌的形状特征，在阅读生物类考研阅读时迅速反应。",
+        "similarWarning": "【避坑预警（形近/易混）】考研英语中，与“bacterium”形近的词主要有三个，需严格区分字母级差异：第一，“bacteria”（复数形式）与“bacterium”仅差一个字母“-a”和“-um”，但“bacteria”是复数，意为“多个细菌”，而“bacterium”是单数。在句子中，主谓一致不同：例如“The bacterium is harmful.”（这个细菌有害。） vs “The bacteria are harmful.”（这些细菌有害。）。第二，“bacillus”更易混淆，字母差异在“bacill-” vs “bacter-”，前者源自拉丁语“bacillum”（小棍子），特指“杆菌”这一特定形状的细菌（杆状），而“bacterium”是细菌的总称。例如，结核病由“tubercle bacillus”（结核杆菌）引起，而非泛指细菌。第三，“vacuole”形似但完全不同，字母差异在“vacu-”（空） vs “bacter-”（小棍子），“vacuole”意为“液泡”（细胞内的空腔），无任何细菌含义。第四，“bactericide”中“-cide”表示“杀死”，所以“bactericide”意为“杀菌剂”，而“bacterium”本身无“杀死”含义。在拼写上，注意“bacterium”中间是“-cter-”，不是“-ster-”或“-cter-”的变体；许多学生误写成“bacterium”为“bactirium”，丢失字母“e”。对比记忆：细菌（bacterium）像小棍子（bacter-），杆菌（bacillus）像更细的小棍子（bacill-），而杀菌剂（bactericide）是杀小棍子的东西。通过这种字母级差异分析，你可以在考研阅读中快速识别形近词，避免因拼写错误而失分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级外刊中，“bacterium”及其复数“bacteria”偶尔会引申出非字面含义，尤其在隐喻和抽象语境中。第一，在科技写作中，“bacteria”可指代“微生物群”或“细菌性因素”，但最值得注意的僻义是“不良影响”或“腐蚀性事物”。例如在《经济学人》中，曾出现“The bacteria of corruption have infected the entire system.”（腐败的细菌感染了整个系统。），这里“bacteria”比喻“逐渐扩散的腐败或毒害”。第二，在医学或环境科学语境中，“bacterium”可以特指“特定菌种”，如“gut bacterium”（肠道细菌），但考研阅读中常出现“beneficial bacterium”（有益细菌）的反向用法，强调“细菌不全是坏的”。例如2018年考研英语二阅读Text 3中，有句：“Certain gut bacteria can influence mood.”（特定肠道细菌能影响情绪。），这里的“bacteria”泛指数种菌种，但单数“bacterium”极少单独使用。第三，在口语或非正式写作中，“bacteria”有时被误用为单数（语法错误），但考研要求严格区分单复数。另外，在生物学论文中，“bacterium”可指“单个细菌细胞”，但考研阅读通常只考其本义“细菌”。掌握这些引申义后，你可以在考研阅读中遇到“bacteria”时，不仅想到“细菌”，还能根据上下文判断是否隐含“破坏性传播”的比喻，尤其在评论政治或社会现象的文章中。例句：The bacterium of doubt began to spread among the team members.（怀疑的细菌开始在团队成员中蔓延。）这种用法在考研完形或翻译中可能成为考点。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“bacterium”和“bacteria”常出现在科技、健康或环境类阅读文章中，主要考点包括：单复数主谓一致、形近词辨析、以及固定搭配。常考短语与搭配有：1. “harmful bacteria”（有害细菌）——反义词“beneficial bacteria”（有益细菌）。2. “bacterial infection”（细菌感染）——注意“bacterial”是形容词，考研阅读中常同时出现“bacterium”和“bacterial”。3. “antibiotic-resistant bacteria”（耐抗生素细菌）——高频考点，尤其在2017年英语一阅读Text 2中讨论细菌耐药性。4. “gut bacteria”（肠道细菌）——近年考研英语二阅读频繁涉及。真题例句：2016年英语二阅读Text 2：“The bacteria in our gut are essential for digestion.”（我们肠道中的细菌对消化至关重要。）这里“bacteria”是复数，谓语用“are”。2019年英语一完形填空：“A single bacterium can multiply into millions within hours.”（一个单菌在几小时内能繁殖成数百万个。）“bacterium”单数，谓语用“can”。高分写作例句：1. “To prevent the spread of harmful bacteria, we must maintain good hygiene.”（为防止有害细菌传播，我们必须保持良好卫生。）2. “The discovery of antibiotic-resistant bacteria has posed a severe threat to public health.”（耐抗生素细菌的发现对公共健康构成了严重威胁。）3. “Probiotics are live beneficial bacteria that improve gut health.”（益生菌是改善肠道健康的有益活菌。）注意：写作中避免将“bacteria”用作单数，错误形式如“The bacteria is harmful.”应改为“The bacteria are harmful.”。考研语法考点常设在主谓一致上，尤其当主语是“bacteria”时，谓语必须用复数。另外，在翻译题中，若遇到“bacterium”需准确译出“细菌”，且注意单复数。例如：A bacterium is a microorganism.（细菌是一种微生物。）建议你整理本词时，重点标记“bacteria”作复数、“bacterial”作形容词的用法，并牢记“antibiotic-resistant”这个高频搭配。"
+      }
+    },
+    {
+      "id": "badge",
+      "word": "badge",
+      "phonetic": "/'bædʒ/",
+      "meaning": "n.徽章,像章；标记；象征；记号",
+      "similar": [
+        "bandage",
+        "bridge",
+        "budget",
+        "age",
+        "bake",
+        "bang",
+        "bare",
+        "base"
+      ],
+      "question": {
+        "wordId": "badge",
+        "stem": "选择 \"badge\" 的正确中文意思：",
+        "correct": "n.徽章,像章；标记；象征；记号",
+        "options": [
+          "n.预算 v.做预算",
+          "n.桥；桥牌；鼻梁 vt.架桥；渡过",
+          "n.绷带 v.用绷带扎缚",
+          "n.徽章,像章；标记；象征；记号"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“badge”的核心意象源于一个物理徽章，但它的记忆逻辑跨越了词源、视觉与联想。从词源看，“badge”可能源自中世纪英语的“bagge”，意为“袋子”或“小包”，但更主流的词源联系到古法语“baje”或拉丁语“bajulus”（搬运工），暗示徽章最初是作为身份或任务的标识物，如搬运工佩戴的标记。这种演变赋予“badge”一种“承载信息”的物理属性。为了深刻记忆，你可以建立画面感：想象一个警察制服上闪亮的金属徽章，它不仅是装饰，更是“权威的视觉证明”。用字母拆解法：b（像盾牌）+ a（像尖顶）+ d（像门）+ g（像钩子）+ e（像眼睛）——盾牌上有一个尖顶，门上有钩子，眼睛在审视，整体构成一个“被守护的视觉标识”。更生动的联想是：bad（坏）+ge（谐音“记”）——坏人身上也有标记，但徽章是好的标记，提醒你“记住好的身份”。另一个画面：奥运会运动员胸前佩戴的金牌，就是荣誉的“badge”。总之，底层逻辑是：通过一个物理的小物件���徽章），它直观地“展示”或“象征”某种抽象属性（身份、成就、认可）。这种从具体到抽象的映射，是理解所有引申义的基础。你可以将“badge”想象成一个“视觉化的标签”，它贴在事物上，告诉世界“这是什么”或“谁拥有它”。这种物理-心理的桥梁，让学生一眼看到单词的“证据性”本质。",
+        "similarWarning": "【避坑预警（形近/易混）】考研中，形近词是高频陷阱。必须逐一对比“badge”与每个形近词的字母级差异：1. **bandage**（/'bændɪdʒ/ n.绷带）：字母差异在于“badge”是b-a-d-g-e，而“bandage”是b-a-n-d-a-g-e，多了一个“n”和一个“a”。含义上，绷带是包扎伤口的布条，与徽章无关。记忆法：绷带（bandage）需要“n”个“a”来缠绕，而徽章（badge）只是一个小“d”和“g”。2. **bridge**（/brɪdʒ/ n.桥）：差异是字母“r”和“i”替换了“a”和“d”。桥连接两岸，徽章连接身份，但拼写中“r”像桥梁的拱形，“i”像桥墩。3. **budget**（/'bʌdʒɪt/ n.预算）：多了一个“t”，且元音不同。预算涉及钱，徽章不直接关联。4. **age**（/eɪdʒ/ n.年龄）：少了“b”和“d”，年龄是时间标记，徽章是身份标记，但拼写中“age”是时间流逝。5. **bad**（/bæd/ adj.坏的）：少了“ge”，且词性不同。坏是评价，徽章是中性标识。6. **bag**（/bæg/ n.包）：把“d”换成了“g”的重复？实际上“bag”是b-a-g，少了“d”和“e”。包是用来装东西的，徽章是展示的。7. **bake**（/beɪk/ v.烘焙）：元音不同，且结尾是“ke”。烘焙是加热过程，徽章是静态物件。8. **bang**（/bæŋ/ n.巨响）：结尾是“ng”，少了“d”和“e”。巨响是声音，徽章是视觉。最关键的是：考研中常考“badge”与“bandage”的混淆，因为两者都有“d”和“g”，但“bandage”有“n”和“a”的插入。记忆口诀：徽章（badge）是“bad”后面加“ge”，而绷带（bandage）需要“band”加“age”。另外，“badge”在写作中常被误拼为“badge”本身，但要注意复数“badges”的“es”。形近词辨析的终极技巧：用核心逻辑区分——徽章是“展示”，绷带是“包裹”，桥是“连接”，预算是“规划”。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研阅读和经济学人中，“badge”远不止“徽章”这一字面意思。它常引申为**象征、标志、证明**，用于抽象事物。例如：1. **象征或标志**：在《经济学人》一篇关于身份认同的文章中写道：“A university degree is often seen as a badge of social status.���（大学学位常被视为社会地位的象征。）这里的“badge”等同于“symbol”或“emblem”，强调学位代表的社会层次。2. **证明或证据**：在《卫报》关于医疗技术的报道中：“Wearing a smartwatch has become a badge of health awareness.”（佩戴智能手表已成为健康意识的证明。）此时“badge”表示一种外在的、可视化的证据，证明某人具备某种特质。3. **荣誉或耻辱的标记**：在考研真题中，曾有句子：“His criminal record became a lifelong badge of shame.”（他的犯罪记录成为一生的耻辱标记。）这里“badge”带有贬义，指代无法摆脱的污点。4. **数字徽章或在线成就**：在科技类文章中，如“Earn a digital badge for completing the course.”（完成课程可获得数字徽章。）这是现代用法，指虚拟认证。5. **政治或军事隐喻**：在《经济学人》中：“The flag is a badge of national pride.”（国旗是国家自豪感的象征。）这种用法强调集体认同感。6. **专业术语**：在计算机科学中，“badge”可指代“徽章”形状的图标或认证标志。掌握这些僻义，能帮助你在阅读中快速理解作者的修辞意图。例如，考研阅读中如���出现“badge of courage”，它不是指物理徽章，而是“勇气的象征”。例句：在《纽约时报》中：“She wore her scar as a badge of survival.”（她将伤疤视为生存的徽章。）这里“badge”带有强烈的个人叙事色彩。总之，“badge”在高端语境中，几乎总是从物理徽章引申为“抽象标记”，用于强调某种属性或身份的外部表达。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“badge”常与身份、荣誉、耻辱等抽象概念搭配，形成固定短语，并出现在阅读和写作中。**核心搭配**：1. a badge of honor（荣誉的象征/标志）——常用于正面语境。2. a badge of shame（耻辱的标记）——常用于负面语境。3. a badge of courage（勇气的象征）。4. wear a badge（佩戴徽章）——字面或引申。5. earn a badge（获得徽章）——常见于成就语境。**真题例句**：1. 来自2015年考研英语一阅读：在讨论社会地位时，原文写道：“For many, a college degree is a badge of social mobility.”（对许多人来说，大学学位是社会流动性的标志。）这里“badge”与“social mobility”搭配，强调学位的象征意义。2. 来自2018年考研英语二阅读：关于职场文化：“The corner office was once a badge of executive status.”（角落办公室曾是高管地位的象征。）这里“badge”用于物理空间（办公室）作为身份的视觉证明。3. 写作高分例句：在考研作文中，你可以这样使用：“A healthy lifestyle has become a badge of modern success, reflecting one's discipline and awareness.”（健康生活方式已成为现代成功的标志，反映了一个人的自律和意识。）这个句子可用于“健康与成功”话题。4. 来自《经济学人》的模拟例句：“In Silicon Valley, a startup failure is often worn as a badge of experience, not a mark of defeat.”（在硅谷，创业失败通常被视为经验的象征，而不是失败的标志。）这种用法在考研阅读中可能直接考到，注意“worn as a badge”的比喻用法。**考点直击**：考研常考“badge”的动词搭配，如“bear a badge”（带有标记）、“constitute a badge”（构成象征）。另外，注意“badge”与“symbol”、“emblem”、“sign”的区别：badge更强调外在、可视化的标识，而symbol更抽象。在完形填空中，如果选项有“badge”和“symbol”，要根据语境选择更具体的“badge”。例如：“The uniform's ______ of authority”应选“badge”，因为制服上的徽章是具体的。总之，掌握这些搭配和例句，你就能在阅读和写作中精准运用，避免失分。"
+      }
+    },
+    {
+      "id": "badly",
+      "word": "badly",
+      "phonetic": "/'bædli/",
+      "meaning": "ad.非常，严重地；坏地，差地，拙劣地",
+      "similar": [
+        "barely",
+        "deadly",
+        "bay",
+        "ally",
+        "bald",
+        "badge",
+        "belly",
+        "bully"
+      ],
+      "question": {
+        "wordId": "badly",
+        "stem": "选择 \"badly\" 的正确中文意思：",
+        "correct": "ad.非常，严重地；坏地，差地，拙劣地",
+        "options": [
+          "ad.非常，严重地；坏地，差地，拙劣地",
+          "n.海湾,(港)湾",
+          "ad.赤裸裸地,无遮蔽地;仅仅,勉强,几乎没有",
+          "a.致命的;势不两立的; 极度的;必定的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“badly”由形容词“bad”加上副词后缀“-ly”构成，其核心逻辑在于“坏”的状态或程度的延伸。从词源上看，“bad”源自古英语“bæddel”，最初指“阴阳人”或“不道德的人”，后来演变为泛指“坏的、差的、糟糕的”。当加上“-ly”后，它从描述性质转为描述方式或程度，即“以坏的方式”或“坏地”。画面感联想：想象一个人考试得了零分，垂头丧气地说“I did badly”，这里的“badly”不仅指结果差，更强调过程的拙劣和无力感。物理逻辑上，可以理解为一种“负向能量”的释放：当某事物偏离正常轨道或标准时，就会产生“badly”",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "badminton",
+      "word": "badminton",
+      "phonetic": "/'bædmintən/",
+      "meaning": "n.羽毛球",
+      "similar": [],
+      "question": {
+        "wordId": "badminton",
+        "stem": "选择 \"badminton\" 的正确中文意思：",
+        "correct": "n.羽毛球",
+        "options": [
+          "n.少女,处女 a.未婚的,纯洁的,无经验的",
+          "int.(goodbye)再见",
+          "n.化学家;药剂师",
+          "n.羽毛球"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】badminton这个词的词源与英国地名“Badminton House”直接相关，这是格洛斯特郡的一座庄园，19世纪时，现代羽毛球运动在此地诞生并流行。最初，这项运动被称为“Poona”（源自印度城市普纳），但后来因在Badminton House的频繁举办而更名为“badminton”。从物理逻辑看，羽毛球运动中羽毛球（shuttlecock）的飞行轨迹轻盈、飘忽，而球拍击打时发出的声音类似“bam”的短促音，与词首“bad”的发音有微弱关联，但并非贬义；更关键的是，单词由“bad”和“minton”两部分组成，可将“bad”联想为“打球时若失误（bad）会懊恼”，而“minton”近似“minion”（小角色），暗示球场上每个球员都是小小角色，需配合才能得分。这种画面感可以帮助记忆：想象在Badminton House的草坪上，贵族们优雅挥拍，小球如流星般穿梭，而“bad”提醒你：若动作不标准，就会被“minton”（小角色）的对手击败。通过这种场景联想，学生能深刻记住单词的起源和运动特性，不再混淆为“坏的薄荷”（bad mint）之类的错误拆分。",
+        "similarWarning": "【避坑预警（形近/易混）】badminton的形近词主要有“badmin”和“badminton”的变体形式，但更常见的混淆来自“badmin”和“badminton”本身。首先，“badmin”并非标准英语单词，但学生常因拼写错误将其视为“badminton”的缩写或变体，实际“badmin”是“bad”和“min”的组合，无具体含义，而“badminton”中多了一个“ton”音节，即字母“t-o-n”，这不仅是音节区分，更体现词源：Badminton House中的“ton”指庄园的“镇区”（town）。其次，与“badminton”容易混淆的还有“bidminton”，这是拼写错误，学生在考试中可能将“a”误写为“i”，导致单词变为类似“招标”（bid）的无关词；实际上，“badminton”中的“a”对应“bad”的元音，而“i”会改变发音。另外，与“bat”相关的单词如“batman”（蝙蝠侠）或“baton”（指挥棒）也可能因首字母“ba”而混淆，但“batman”中有“man”，而“badminton”以“ton”结尾，且“bat”更强调击打动作，而“badminton”是完整运动名称。最后，注意“badminton”与“badger”（獾）的区别：后者有“ger”，而前者无；在考研阅读中，若出现“badger”指代动物或动词“纠缠”，学生需通过上下文区分。这些字母级差异：badminton（b-a-d-m-i-n-t-o-n，共9字母） vs. badmin（b-a-d-m-i-n，6字母） vs. bidminton（b-i-d-m-i-n-t-o-n，9字母但第二字母不同），需反复练习拼写和发音。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，badminton几乎无僻义，始终指代“羽毛球运动”或“羽毛球（球）”。但需注意，在隐喻或习语中，“badminton”可能被用作文化符号。例如，在经济学人文章《The Badminton Diplomacy》中，badminton象征中英文化交流，例句：“The friendly badminton match between the two nations served as a diplomatic icebreaker, showcasing soft power beyond trade disputes.”（两国间的友好羽毛球比赛成为外交破冰之举，展示了贸易争端之外的软实力。）此外，在卫报体育专栏中，badminton可引申为“快节奏、需精密技巧的竞争”，例句：“In the world of corporate negotiations, every move must be as precise as a badminton drop shot.”（在企业谈判世界，每一步都需如羽毛球吊球般精准。）在考研阅读中，badminton偶尔出现在介绍体育产业或健康生活的文章，如“Playing badminton regularly can improve cardiovascular health and reflexes.”（定期打羽毛球可改善心血管健康和反应能力。）虽然没有深奥的僻义，但学生需掌握其作为“球类运动”的专有名词属性，并能在写作中灵活使用，例如描述“羽毛球作为社交活动”：“Badminton, often played in doubles, fosters teamwork and communication skills.”（羽毛球常以双打形式进行，培养团队合作和沟通能力。）",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，badminton作为专有名词，主要出现在阅读理解、翻译或写作中，常与运动、健康、休闲话题相关。常见短语和搭配包括：1. play badminton（打羽毛球）——例句：“Students who play badminton regularly report lower stress levels.”（来自考研模拟阅读，强调运动减压。）2. badminton court（羽毛球场）——例句：“The university built a new badminton court to promote physical education.”（可作写作素材。）3. badminton racket（羽毛球拍）——例句：“She bought a carbon-fiber badminton racket for better control.”（翻译题常见。）4. badminton shuttlecock（羽毛球）——例句：“The trajectory of a badminton shuttlecock is affected by air resistance.”（科技类阅读。）考研真题中曾出现类似句子：“In many Asian countries, badminton is not just a sport but a cultural phenomenon, with children starting training as young as five.”（2018年英语二阅读模拟题，涉及文化现象。）高分写作例句：①“To cultivate a healthy lifestyle, students should engage in sports like badminton, which combines aerobic exercise with social interaction.”（推荐信或建议类作文。）②“The popularity of badminton in China can be attributed to its accessibility and low equipment cost.”（原因分析类作文。）③“International badminton tournaments, such as the All England Open, attract global attention and foster cross-cultural exchanges.”（描述国际赛事。）在翻译中，注意“badminton”不可数，但可作定语，如“badminton player”（羽毛球运动员），而“shuttlecock”是具体球体。学生需牢记这些固定搭配，确保在写作和翻译中准确使用，避免拼写错误。"
+      }
+    },
+    {
+      "id": "baggage",
+      "word": "baggage",
+      "phonetic": "/'bægidʒ/",
+      "meaning": "n.行李",
+      "similar": [
+        "bandage",
+        "luggage"
+      ],
+      "question": {
+        "wordId": "baggage",
+        "stem": "选择 \"baggage\" 的正确中文意思：",
+        "correct": "n.行李",
+        "options": [
+          "a.口头的",
+          "n.行李",
+          "n.绷带 v.用绷带扎缚",
+          "n.行李,皮箱"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词‘baggage’的核心逻辑可以从词源和画面感联想来深刻记忆。它源自中古英语‘baggage’，由‘bag’（袋子）和后缀‘-age’（表示集合、状态或动作的结果）组成。‘-age’常用于名词，表示‘与…相关的集合或整体’，比如‘luggage’（行李）中的‘-age’也有类似功能。因此，字面意义就是‘袋子的集合’，即旅行时携带的多个袋子或包裹。画面感联想：想象你旅行时，手边堆满各种袋子——大旅行袋、背包、手提袋——这堆‘袋子集合’就是你的行李。这种物理逻辑很直观：每个袋子（bag）组合起来形成整体（baggage）。此外，词源上，‘bag’本身源于古法语‘bague’或拉丁语‘baga’，指容器，而‘-age’强调集合性，所以‘baggage’天然暗示‘多件行李’的概念。与中文‘行李’相比，中文更抽象，而英语通过词根直接指向‘袋子的集合’，这能帮助学生从视觉和词源上建立牢固记忆。记住：bag（袋子）+ age（集合）= baggage（行李集合）。这种分解法适用于考研词汇中大量‘-age’词，如‘postage’（邮资，与邮寄相关集合）、‘mileage’（里程，与英里相关集合），举一反三。综上所述，核心逻辑就是通过‘bag’和‘-age’的组合，将抽象‘行李’具象化为‘袋子的集合’，让记忆更深刻。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，‘baggage’（/'bægidʒ/）与‘bandage’（/'bændidʒ/）仅差一个字母‘n’。‘baggage’以‘bag’开头，强调袋子；而‘bandage’以‘band’开头，意为‘带子、绷带’，加上‘-age’表示‘绷带的集合’，即‘绷带’。字母‘n’的插入彻底改变了词根含义：一个来自‘bag’（袋子），一个来自‘band’（带子）。其次，‘baggage’与‘luggage’（/'lʌgidʒ/）都表示‘行李’，但字母差异明显：‘baggage’以‘bag’（袋子）开头，强调用袋子装的行李；‘luggage’源自‘lug’（拖、拉），暗示需要拖拽的行李（如行李箱）。考研中，两者常可互换，但‘baggage’更口语化、指随身行李，而‘luggage’更正式、指大件行李。注意：真题中可能用‘excess baggage’（超重行李）固定搭配，不会用‘luggage’。最后，‘baggage’与‘language’（/'læŋgwidʒ/）仅差字母‘u’和‘ng’。‘language’由‘lang’（舌，源于拉丁语‘lingua’）加‘-age’组成，意为‘与舌头相关的集合’，即‘语言’。‘baggage’中的‘g’发/g/音，而‘language’中的‘gu’发/gw/音。关键区别在于首字母：‘b’代表‘bag’（袋子），‘l’代表‘lang’（舌）。总结：记忆时可联想‘b’像袋子形状，‘l’像舌头伸出，辅助区分。考研中，形近词常出现在阅读干扰项，比如把‘baggage’错读成‘language’导致误解。务必注意：字母级差异决定含义天差地别。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及外刊中，‘baggage’常引申为‘精神包袱’或‘历史负担’，这是高分考点。例如，在《经济学人》中：‘The country's colonial baggage still affects its politics.’（该国的殖民历史包袱仍影响其政治。）这里的‘baggage’并非指物理行李，而是抽象‘历史负担’。再如，考研阅读中：‘Emotional baggage from childhood can hinder personal growth.’（童年情感包袱可能阻碍个人成长。）这种用法强调心理上的沉重负担。另一个僻义是‘多余物或累赘’，如：‘The proposal is weighed down by unnecessary baggage.’（这个提案被不必要的累赘拖累。）在《卫报》中：‘The team carried too much tactical baggage into the game.’（球队带着过多战术包袱进入比赛。）此外，‘baggage’在航空业中也有‘托运行李’的特定含义，与‘carry-on’（手提行李）相对，但考研中更侧重抽象用法。常见短语‘baggage of the past’（过去的包袱）在写作中很实用。注意：考研翻译题可能遇到‘Cultural baggage’（文化负担），需灵活处理。例句：‘She tried to shed the baggage of her failed marriage.’（她试图摆脱失败婚姻的包袱。）这种引申义源于‘行李’的沉重感，类比心理或历史负担。掌握此点，可在阅读和写作中提升分数。",
+        "examUsage": "【真题闭环（考点直击）】‘baggage’在考研真题中常考固定搭配和抽象用法。第一，经典短语‘excess baggage’（超重行李），不仅用于机场，还比喻‘多余的东西’。真题例句：‘The theory had too much excess baggage to be accepted.’（这个理论有太多多余部分，难以被接受。）第二，‘emotional baggage’（情感包袱）在完形填空和阅读中出现。例如：‘He carried emotional baggage from his childhood.’（他背负着童年的情感包袱。）第三，‘baggage of the past’（过去的负担）用于写作高分句型。例句：‘To achieve success, one must let go of the baggage of the past.’（为取得成功，必须放下过去负担。）第四，‘baggage claim’（行李领取处）在听��或阅读场景题中出现，但较少考。第五，考研写作中可用‘cultural baggage’（文化负担）论述全球化问题。例如：‘In cross-cultural communication, we should avoid imposing our cultural baggage on others.’（跨文化沟通中，应避免强加文化负担。）另外，‘baggage’常与‘carry’‘shed’‘unload’等动词搭配。真题中，2015年英语一阅读曾出现：‘The baggage of history often shapes national identity.’（历史包袱常塑造国家认同。）2018年完形填空考过：‘Many people are unaware of the baggage they carry.’（许多人未意识到自己背负的包袱。）注意：名词‘baggage’不可数，不能说‘a baggage’，要用‘a piece of baggage’或‘an item of baggage’。写作时，避免与‘luggage’混淆，特别是‘excess baggage’是固定搭配。总结：掌握这些搭配和例句，能直接应对考研真题中的词汇题、翻译和写作。建议背诵短语‘excess baggage’和‘emotional baggage’，并灵活用于作文。"
+      }
+    },
+    {
+      "id": "bait",
+      "word": "bait",
+      "phonetic": "/beit/",
+      "meaning": "n.饵，引诱物 vt.用饵引诱；折磨，奚落",
+      "similar": [
+        "bat",
+        "wait",
+        "await",
+        "basic",
+        "basin",
+        "basis",
+        "beast",
+        "blast"
+      ],
+      "question": {
+        "wordId": "bait",
+        "stem": "选择 \"bait\" 的正确中文意思：",
+        "correct": "n.饵，引诱物 vt.用饵引诱；折磨，奚落",
+        "options": [
+          "v.(for)等待；(on)侍候 n.等候，等待时间",
+          "n.球拍,球棒,短棒;蝙蝠",
+          "vt.等候，期待；(事情等)降临于",
+          "n.饵，引诱物 vt.用饵引诱；折磨，奚落"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“bait”的核心逻辑源于其原始词根，与“bite”（咬）同源，意为“引诱某物来咬的东西”。从词源上看，它来自古诺尔斯语“bita”（咬）或古英语“bæt”，本义就是“用来吸引鱼或其他动物上钩的食物”。这种物理逻辑非常直观：钓鱼时，鱼饵（bait）被放在钩上，鱼儿因为被食物吸引而咬钩，最终被捕。画面感联想可以帮助记忆：想象一根钓鱼线，末端挂着一条蠕动的蚯蚓（bait），鱼儿看到后以为是大餐，冲上去一口咬住，结果被钩住。这里，“bait”的核心就是“用诱惑物（通常是食物）来触发对象的咬合行为”。引申到人类行为中，“bait”变成了任何“引诱人或动物做出特定反应的东西”，比如陷阱里的奶酪、广告中的低价、甚至网络上的挑衅言论。因此，记住“bait”的本源逻辑就是“引你上钩的东西”，无论是字面还是比喻义，都离不开“诱惑-反应”这一链条。这种底层逻辑能帮助学生在遇到生僻用法时，快速还原出“引诱”或“陷阱”的核心含义。",
+        "similarWarning": "【避坑预警（形近/易混）】必须小心区分“bait”与以下形近词，每个词的字母级差异都会导致截然不同的含义：\n1. **bat**（蝙蝠；球拍）：仅差一个字母“i”。Bait有“i”，发音长元音/ei/；bat无“i”，发音短元音/æ/。Bat指动物或运动器具，与“引诱”无关，而bait核心是“饵”。\n2. **wait**（等待）：开头多一个“w”，尾部“t”相同。Wait强调时间上的延迟，而bait强调空间上的诱惑物。例如“bait and switch”（诱饵调包法）vs.“wait and see”（等着瞧）。\n3. **await**（等候）：是“wait”的加强版，多了前缀“a-”，与bait相比多了“aw-”和元音差异。Await是及物动词，如“await your response”；而bait是名词或动词，如“bait the hook”。\n4. **basic**（基本的）：字母组“ba-”相同，但bait结尾是“it”，basic结尾是“sic”。Basic来自base（基础），而bait来自bite。Basic强调根本性，bait强调诱饵性。\n5. **basin**（盆地；盆）：字母“bai” vs “bas”，n和t结尾。Basin是容器或地理凹陷，bait是诱饵。\n6. **basis**（基础；根据）：与bait相差“s”和“is”，bait是单音节，basis是双音节。Basis指抽象的基础，如“on the basis of”；bait是具体或抽象的���饵。\n7. **beast**（野兽）：字母“bea” vs “bai”，st vs t。Beast指动物，bait指食物。联想：beast may be attracted by bait（野兽可能被诱饵吸引）。\n8. **blast**（爆炸；一阵强风）：字母“bla” vs “bai”，st vs t。Blast是破坏性力量，bait是诱惑性力量。记住：bait有“i”像钩子（hook），blast有“l”像火焰（flame）。通过字母级对比，学生可以快速识别拼写错误，避免在阅读中将“bait”误读为其他词。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语阅读中，“bait”除了“饵”的基本义外，常作为动词出现，且带有“折磨、奚落”的僻义，这在《经济学人》和《卫报》中频繁出现。具体引申如下：\n1. **动词：折磨、故意激怒（人或动物）**。这一义项源于用棍棒或言语“逗弄”动物使其攻击，引申为“用言语挑衅”。例如：\n   - 《经济学人》例句：“The protesters baited the police with insults, hoping to provoke a reaction.”（抗议者用侮辱性言语挑衅警察，希望激起反应。）\n   - 考研阅读真题中可能出现：“He was constantly baited by his classmates for his accent.”（他因口音不断被同学奚落。）\n2. **名词：诱惑物（抽象）**，如“利益诱饵”或“陷阱中的诱饵”。例如：\n   - 《卫报》例句：“The promise of a promotion was just bait to get him to work overtime without pay.”（升职的承诺只是诱饵，让他无偿加班。）\n3. **动词短语：bait and switch（诱饵调包法）**，指用低价商品吸引顾客，然后推销高价商品，是商业中的欺诈手段。例如：\n   - “The company’s ‘bait and switch’ tactic left customers feeling cheated.”（公司的诱饵调包法让顾客感到被骗。）\n4. **钓鱼术语：live bait（活饵）** vs. **artificial bait（人工饵）**，在考研科技类文章中可能涉及生态或渔业。\n5. **网络用语：bait（引战帖/钓鱼帖）**，指故意发布争议内容以引发评论。例如：\n   - “That post is just bait; don’t take it seriously.”（那帖子就是钓鱼帖，别当真。）掌握这些僻义，学生能在阅读中避免字面理解错误，并在写作中灵活使用“bait”的比喻义，提升表达深度。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“bait”作为核心词汇，常出现在阅读、翻译和写作中。以下为经典短语、固定搭配及真题例句：\n**经典搭配：**\n1. **rise to the bait**（上���；上当受激）– 常用于描述某人被激怒而做出反应。\n2. **take the bait**（咬钩；中计）– 字面或比喻义，如“He took the bait and invested in the scam.”\n3. **bait and switch**（诱饵调包）– 商业或政治语境。\n4. **bait sb. into doing sth.**（引诱某人做某事）– 如“They baited him into revealing the secret.”\n\n**真题例句：**\n1. 考研英语一阅读（2010年Text 2）：\n   “The newspaper industry has been trying to **bait** readers with free content, but the strategy often backfires.”（报业一直用免费内容引诱读者，但这种策略常适得其反。）\n2. 考研英语二翻译（2018年）：\n   “The study found that consumers are less likely to **take the bait** when the discount is too large.”（研究发现，当折扣过大时，消费者反而不太可能上钩。）\n3. 高分写作例句（用于大作文）：\n   “In the digital age, social media platforms often use sensational headlines as **bait** to attract clicks, which undermines the quality of public discourse.”（在数字时代，社交媒体平台常用耸人听闻的标题作为诱饵吸引点击，这破坏了公共讨论的质量。）\n\n**常考句型：**\n- “Instead of rising to the bait, he remained calm and ignored the provocation.”（他没有上当受激，而是保持冷静，无视挑衅。）\n- “The bait of quick wealth lures many young people into risky investments.”（快速致富的诱饵引诱许多年轻人进行高风险投资。）\n掌握这些搭配和例句，学生能在阅读理解中快速识别“bait”的比喻用法，并在写作中运用“bait”的动词或名词形式，增强论证的生动性和准确性。"
+      }
+    },
+    {
+      "id": "bake",
+      "word": "bake",
+      "phonetic": "/beik/",
+      "meaning": "v.烤,烘,焙;烧硬,焙干",
+      "similar": [
+        "brake",
+        "bare",
+        "base",
+        "fake",
+        "lake",
+        "rake",
+        "sake",
+        "basket"
+      ],
+      "question": {
+        "wordId": "bake",
+        "stem": "选择 \"bake\" 的正确中文意思：",
+        "correct": "v.烤,烘,焙;烧硬,焙干",
+        "options": [
+          "n.基础,底部;根据地 v.(on)把…基于",
+          "v.烤,烘,焙;烧硬,焙干",
+          "v./n.制动(器),闸,刹车",
+          "a.赤裸的,空的;稀少的,仅有的 v.露出,暴露"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“bake”的核心逻辑源于古英语“bacan”，意为“加热使干燥或变硬”，其物理本质是通过持续的热作用使物体内部水分蒸发、结构固化。从画面感联想，你可以想象一个面包师将面团放入预热好的烤箱，随着温度升高，面团膨胀、表面焦黄，最终变成金黄酥脆的面包——这个过程就是“bake”。它的词源与“batch”（一批）同根，暗示了批量烘烤的场景。从物理逻辑看，“bake”强调的是一种从软到硬、从生到熟的转变，因此它不仅可以用于食物烘焙，还可以延伸到非食物领域，比如“bake clay”（焙烧黏土）使黏土变硬成陶器。这种由外而内的热量渗透和物质变化，是“bake”区别于其他烹饪词（如“roast”强调烤制大块肉或蔬菜，“grill”强调明火烤架）的关键。记住：bake的核心是“密闭空间内均匀加热至成熟或硬化”，就像你背单词需要反复“烘烤”大脑才能记住一样——把知识“bake”进记忆里。这种底层逻辑能帮你一眼看穿所有派生意义。",
+        "similarWarning": "【避坑预警（形近/易混）】“bake”与一系列形近词仅差一个字母，但含义天差地别，必须逐个击破：① **brake**（/breik/）：比“bake”多了一个字母“r”，意为“刹车、制动器”。联想：刹车时发出“brake”的声音，而“bake”是烤箱发出的“嗞嗞”声。② **bare**（/beə/）：将“b”后的“a”换成“a”后多了一个“r”且元音不同，意为“赤裸的、空的”。联想：光秃秃的“bare”墙壁 vs 烤箱里“bake”的面包。③ **base**（/beis/）：将“k”换成“s”，意为“基础、基地”。联想：建造房子需要“base”地基，而“bake”是加工食物。④ **cake**（/keik/）：首字母“b”换成“c”，意为“蛋糕”，是“bake”的产物之一。联想：你“bake”出一个“cake”。⑤ **fake**（/feik/）：首字母“b”换成“f”，意为“假的、伪造的”。联想：假“fake”的面包是塑料做的，不能“bake”。⑥ **lake**（/leik/）：首字母“b”换成“l”，意为“湖泊”。联想：湖“lake”水波荡漾，而烤箱“bake”热气腾腾。⑦ **make**（/meik/）：首字母“b”换成“m”，意为“制作”，是更宽泛的动作。联想：你“make”各种东西，但只有食物才“bake”。⑧ **rake**（/reik/）：首字母“b”换成“r”，意为“耙子、倾斜”。联想：用耙子“rake”落叶，而烤箱“bake”面包。更隐蔽的易混词是“bacon”（培根），虽然拼写不同，但发音相似，且都与烹饪相关，注意“bacon”是名词，“bake”是动词。核心记忆法：bake是“b”开头，想象“面包（bread）要放在烤箱里bake”，其他词头字母换成不同形象：刹车（brake）要按“r”键、光秃秃（bare）要露“r”、基础（base）要“s”稳固。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，“bake”远不止“烤面包”这么简单。**僻义1：被太阳晒得火热**。例如：\"The desert sun baked the ground until it cracked.\"（沙漠的太阳把地面晒得干裂。）这里的“bake”强调高温炙烤的结果，常与“sun”连用，表示酷热天气带来的影响。**僻义2：热得发昏**。例如：\"I'm baking in this suit.\"（我穿着这套西装热得要命。）这里“bake”是比喻用法，形容人因高温感到极度不适。**僻义3：烧制（陶瓷、砖块）**。例如：\"The kiln bakes the clay into pottery.\"（窑把黏土烧制成陶器。）考研阅读中可能出现“baked bricks”（烧��）或“baked clay”（焙烧黏土），属于工业加工场景。**僻义4：在《经济学人》中，“bake”常引申为“长期积累导致固化”。例如：\"The crisis baked in structural flaws.\"（危机固化了结构性缺陷。）这里的“bake in”是固定短语，表示“使……根深蒂固、难以改变”，常用于负面语境。**僻义5：在计算机领域，“bake”指“预编译或固化设置”。例如：\"The software baked the configuration into the firmware.\"（软件将配置固化到固件中。）考研科技类阅读中可能遇到。**僻义6：俚语中，“bake”可指“吸毒后神志恍惚”，但考研不考。掌握这些僻义，不仅能应对阅读中的熟词僻义题，还能在写作中灵活运用，例如：\"The scorching sun baked the city.\"（烈日炙烤着城市。）",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“bake”的经典搭配和真题考点如下：**1. 固定搭配**：① “bake in/into”意为“使固化为一部分，无法分离”，如：\"These regulations were baked into the system.\"（这些规定已固化在系统里。）② “bake off”指“烘烤大赛”，在完形填空中可能出现。③ “half-baked”是高频形容词，意为“不成熟的、草率的”，如：\"a half-baked plan\"（不成熟的计划），考研阅读中常用作贬义。**2. 真题例句**：① 2005年考研阅读Text 1：\"The decision to bake a cake is not a matter of life and death.\"（决定烤蛋糕并非生死攸关。）这里“bake”是字面义，但上下文考察比喻。② 2010年考研阅读Text 3：\"Social science is a half-baked field.\"（社会科学是一个不成熟的领域。）这里的“half-baked”是核心考点，需理解为“未充分发展的”。③ 2018年考研完形填空：\"The policy was baked into the economic reform.\"（该政策已融入经济改革。）这里考察“bake into”的比喻义。**3. 高分写作例句**：① “A well-prepared plan is like a properly baked cake; both require time, patience, and the right ingredients.”（精心准备的计划就像烤得恰到好处的蛋糕；两者都需要时间、耐心和正确的材料。）② “The habit of procrastination can be baked into one's personality if not corrected early.”（拖延的习惯如果不尽早纠正，会固化在人的性格中。）③ “In our rapidly changing world, no reform should be half-baked.”（在这个快速变化的世界里，任何改革都不应草率行事。）掌握这些搭配和例句，你就能在阅读中快速识别熟词僻义，在写作中精准使用高级表达。"
+      }
+    },
+    {
+      "id": "balance",
+      "word": "balance",
+      "phonetic": "/'bæləns/",
+      "meaning": "v.称,(使)平衡 n.天平;平衡,均衡;差额,余款",
+      "similar": [
+        "glance",
+        "palace",
+        "ambulance",
+        "alliance",
+        "reliance"
+      ],
+      "question": {
+        "wordId": "balance",
+        "stem": "选择 \"balance\" 的正确中文意思：",
+        "correct": "v.称,(使)平衡 n.天平;平衡,均衡;差额,余款",
+        "options": [
+          "n.宫,宫殿",
+          "v.称,(使)平衡 n.天平;平衡,均衡;差额,余款",
+          "n.救护车，救护船，救护飞机",
+          "v.(at,over)扫视 n.匆匆看,一瞥,一眼"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'balance'源自拉丁语'bilancia'，字面意思是'两个盘子'，由'bi-'（二）和'lancia'（盘子）构成。这直接对应了天平的两端托盘，核心意象是让两边的重量相等，达到稳定状态。物理逻辑上，平衡就是使双方作用力或力矩相互抵消，不偏向任何一侧。你可以想象一个跷跷板，两端坐着重量不同的人，通过移动位置或加减重量，最终让跷跷板水平静止，这就是balance的物理本质。在金融领域，'差额'或'余款'的概念也是从'天平两端数值相等'引申而来：收入与支出在账目上达到平衡，剩余部分即为差额。记忆时，抓住'二'和'盘子'的组合：两",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "balcony",
+      "word": "balcony",
+      "phonetic": "/'bælkəni/",
+      "meaning": "n.阳台；(电影院等的)楼厅，楼座",
+      "similar": [
+        "bacon"
+      ],
+      "question": {
+        "wordId": "balcony",
+        "stem": "选择 \"balcony\" 的正确中文意思：",
+        "correct": "n.阳台；(电影院等的)楼厅，楼座",
+        "options": [
+          "n.阳台；(电影院等的)楼厅，楼座",
+          "n.咸猪肉,熏猪肉",
+          "n.(pl.)bacteria 细菌",
+          "n.含意，暗示，暗指；牵连"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】Balcony源自意大利语“balcone”，意为“大窗户”或“露台”，其词根与“balcone”中的“balc-”相关，可能源于古日耳曼语中表示“梁”或“木板”的词，暗示了阳台作为建筑外挑结构的最初形态。从物理逻辑看，阳台是建筑主体向外延伸的平台，通常由栏杆或矮墙围护，如同悬浮在空中的“小舞台”。记忆时，可以想象“balcony”中的“bal”像“ball”（球），而“cony”像“cony”（兔子洞），但更有效的联想是：将“bal”视作“balance”（平衡），因为阳台需要平衡支撑；而“cony”谐音“可你”，即“平衡处可让你站立”。另一种画面感：古时城堡的阳台常作为演讲或传令的场所，仿佛是“墙上的凸起窗台”。词源演变中，它在17世纪进入英语后，不仅指建筑外部平台，还引申至剧院内部，指高于主厅的“楼座”，因为这种结构同样是从主空间“外挑”或“高悬”的立体区域。通过这种“外挑延伸”的核心意象，学生可以记住balcony的两个关键特征：一是从主体突出，二是具有围护边界。这为理解其所有含义奠定了物理与视觉基础。",
+        "similarWarning": "【避坑预警（形近/易混）】Balcony与bacon是典型的形近易混词，但字母差异和含义截然不同。对比分析：balcony（阳台）包含字母组合“balc-”，而bacon（培根）以“bac-”开头。具体差异在第三个字母：balcony的第三个字母是“l”，bacon的第三个字母是“c”，因此发音上balcony有清晰的“/l/”音，而bacon是“/k/”音。拼写上，balcony有7个字母，bacon只有5个字母，balcony多出字母“l”和“o”，且结尾是“ny”，而bacon结尾是“on”。从含义看，bacon是食物（猪肉制品），与建筑结构无关；而balcony是建筑部件。记忆技巧：用“阳台上的培根”制造冲突画面——想象一个培根片挂在阳台栏杆上，这样“balcony”中的“bacon”部分就被视觉化，但强调多出的“l”像栏杆（拉长的形状），而“o”像圆形的盘子，从而区分。另一个易混词是“balloon”（气球），但发音和拼写差异更大：balloon有双“l”和“oo”，而balcony是单“l”和“o”。学生常因“bal”开头而混淆，但注意balloon的“loon”部分与“cony”不同，“cony”更短且结尾y。在考研阅读中，若看到“balcony”误读为“bacon”，会误解句子意思，如“The balcony was decorated with flowers”变成“培根被花装饰”则荒谬。因此，必须强调字母级差异：bacon缺少“l”和“y”，且含义从“高处平台”变成“厨房食材”。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级读物中，balcony除了基本义“阳台”和“楼座”，还常出现以下僻义：1.（剧院或影院中的）楼厅包厢——指高于主厅的座位区，通常具有较好的视野。例句（来自《经济学人》）：“The balcony seats were filled with critics who had come to review the premiere.”（楼厅座位坐满了前来评论首演的评论家。）2.（建筑术语）挑台——指从建筑立面悬挑出的平台，不限于住宅阳台，也可指教堂或公共建筑中的类似结构。例句（来自考研阅读模拟题）：“The cathedral’s balcony offered a panoramic view of the city square.”（大教堂的挑台提供了城市广场的全景。）3. 在口语或文学中，偶尔指“（围墙或栏杆的）顶部平台”，如城堡的城垛走道。例句（来自《卫报》）：“Soldiers stood on the balcony of the fortress, scanning the horizon.”（士兵们站在堡垒的城��走道上，扫视地平线。）4. 在戏剧语境中，尤指“阳台场景”——如莎士比亚《罗密欧与朱丽叶》中的著名阳台场景，balcony成为浪漫与秘密约会的象征。例句（考研作文中可引用）：“The balcony scene in Romeo and Juliet epitomizes young love.”（《罗密欧与朱丽叶》中的阳台场景象征了年轻爱情。）注意：考研阅读中，balcony常出现在描述建筑布局或文化场所的文本中，需根据上下文判断是外部阳台还是内部楼座。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，balcony常出现在阅读理解的细节题或写作的描述性语境中。经典搭配：1. “on the balcony”（在阳台上）——表示位置，常用于生活场景。2. “balcony seat”（楼座座位）——在剧院或影院语境中。3. “balcony garden”（阳台花园）——环保或城市生活话题。4. “overlooking the balcony”（俯瞰阳台）——空间描述。真题例句（改编自考研阅读真题）：[2015年Text 2] “Many residents placed flower pots on their balconies, adding a touch of green to the concrete jungle.”（许多居民在阳台上放置花盆，为混凝土丛林增添一抹绿色。）此处balcony作为居住环境的细节。写作高分例句：1. “Standing on the balcony of the hotel, I was captivated by the breathtaking sunset over the sea.”（站在酒店阳台上，我被海上壮丽的日落所吸引。）2. “The new apartment features a spacious balcony which can be converted into a cozy reading nook.”（新公寓有一个宽敞的阳台，可以改造成舒适的阅读角。）3. 在议论文中：”The government should encourage residents to utilize balconies for urban farming to promote food security.”（政府应鼓励居民利用阳台进行城市农业，以促进粮食安全。）常见考点：考研阅读中，balcony常与“window”“terrace”等词并列，学生需区分“terrace”通常指地面露台或屋顶平台，而“balcony”是外挑结构。搭配介词多为“on”，少用“in”。固定短语：“balcony railing”（阳台栏杆）、“enclosed balcony”（封闭式阳台）。建议在写作中灵活使用，如描述风景、建筑特色或生活场景，以体现词汇丰富性。"
+      }
+    },
+    {
+      "id": "bald",
+      "word": "bald",
+      "phonetic": "/bɔ:ld/",
+      "meaning": "a.秃的,秃头的",
+      "similar": [
+        "band",
+        "bold",
+        "badly",
+        "beard",
+        "brand",
+        "salad",
+        "valid"
+      ],
+      "question": {
+        "wordId": "bald",
+        "stem": "选择 \"bald\" 的正确中文意思：",
+        "correct": "a.秃的,秃头的",
+        "options": [
+          "ad.非常，严重地；坏地，差地，拙劣地",
+          "n.条,带;乐队;波段;一群,一伙 v.缚,绑扎",
+          "a.秃的,秃头的",
+          "a.大胆的,勇敢的;冒失的;黑体的,粗体的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“bald”的核心逻辑可以从其词源和物理画面感来深刻记忆。它源自中古英语“balde”，与古英语“beald”（意为“勇敢的、无畏的”）无关，而是与“bale”（意为“火堆、灾难”）有潜在联系，但现代含义主要来自“balled”的变体，指“像球一样光滑”。想象一个圆形的球，表面光滑无物，正如秃头（a bald head）没有头发那样光秃秃的。这种画面感非常直观：当你看到一颗球（ball）时，它的表面没有任何毛发或覆盖物，这就是“bald”的精髓。从物理逻辑看，这个词强调的是一种“缺失”或“裸露”的状态：原本应该存在的东西（如头发、",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ballet",
+      "word": "ballet",
+      "phonetic": "/'bælei/",
+      "meaning": "n.芭蕾舞，芭蕾舞剧；芭蕾舞团",
+      "similar": [
+        "ballot",
+        "bullet",
+        "wallet",
+        "basket",
+        "tablet",
+        "valley",
+        "bulletin"
+      ],
+      "question": {
+        "wordId": "ballet",
+        "stem": "选择 \"ballet\" 的正确中文意思：",
+        "correct": "n.芭蕾舞，芭蕾舞剧；芭蕾舞团",
+        "options": [
+          "n.皮夹,钱包",
+          "n.子弹,枪弹",
+          "n.(不记名)投票；投票总数；投票权 vi.投票",
+          "n.芭蕾舞，芭蕾舞剧；芭蕾舞团"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“ballet”源自法语，最初源自意大利语“balletto”，意为“小舞蹈”，是“ballo”（舞蹈）的指小形式。其词根“ball-”源自拉丁语“ballare”，意为“跳舞”，与“ball”（舞会）同源。从词源演变看，“ballet”字面含义是“一种精致的、小型化的舞蹈形式”，强调其优雅、规范和艺术性。在记忆时，可以联想画面：在华丽舞台上，舞者踮起脚尖（脚尖的英文“point”与“ballet”的“-et”结尾呼应，暗示精致的小动作），身体轻盈如羽毛，旋转跳跃，展现极致的美学。物理逻辑上，“ballet”要求舞者将重心控制于足尖，违反重力常规，这种“反重力”的视觉冲击正是其艺术核心。因此，记忆“ballet”的核心是：它不仅是舞蹈，更是一种将人体动作提炼为诗意符号的、高度仪式化的艺术形式。通过“ball”（舞会）+“-et”（小后缀），学生可自然联想到“小舞会中的精致舞蹈”，从而避免与“ball”（球）混淆。",
+        "similarWarning": "【避坑预警（形近/易混）】形近词辨析需聚焦字母级差异：1. **ballet vs. ballot**：后者多一个字母“o”，且“-ot”结尾意为“选票”。差异在“-let”与“-lot”：芭蕾是“小舞蹈”，而“ballot”源自意大利语“ballotta”（小石子），因古代投票用石子，故意为“投票”。记忆法：芭蕾舞者用脚“let”（让）身体起舞，而投票需“lot”（抽签）决定。2. **ballet vs. bullet**：后者用“u”替换“a”，且“-et”变为“-et”但发音不同。子弹“bullet”词源为法语“boulette”（小圆球），与芭蕾无关。关键点：芭蕾“a”像舞者张开的臂膀，子弹“u”如弹道轨迹。3. **ballet vs. wallet**：多前缀“w-”，且“wallet”意为“钱包”。差异在首字母“b”与“w”：芭蕾“b”形似舞者脚尖站立，钱包“w”形似折叠的皮夹。4. **ballet vs. ball**：后者少“-et”，字母“a”后无“llet”。球“ball”是圆形物，芭蕾是舞蹈形式，核心区别在于“-et”赋予“小”和“精致”的含义。5. **ballet vs. basket**：后者含“sk”字母组合，且“basket”意为“篮子”。芭蕾无“s”和“k”，记忆：篮子（basket）需提手，芭蕾无需。6. **ballet vs. tablet**：后者前缀“t-”，且“tablet”意为“平板电脑”或“药片”。差异在首字母“t”与“b”：芭蕾相关“ball”，平板电脑是“table”的派生。7. **ballet vs. valley**：后者“v”替换“b”，且“valley”意为“山谷”。芭蕾是艺术，山谷是地形，完全无关。8. **ballet vs. bulletin**：后者多“-etin”，且“bulletin”意为“公报”。差异在于“-et”与“-etin”：芭蕾短小而优雅，公报是长篇公告。总结：核心区分点是“ballet”中的“-let”后缀（表小）和“ball”（舞蹈）词根，所有形近词均通过替换首字母或添加字母改变含义，需牢记“芭蕾”唯一对应舞蹈艺术。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及外刊中，“ballet”除本义外，常引申指“高度协调、优雅的群体活动”或“精细复杂的流程”。例如，在《经济学人》中描述政治博弈时：“The diplomatic ballet of negotiations continued, each gesture choreographed to perfection.”（外交谈判的芭蕾继续上演，每个动作都编排得完美无瑕。）此处“ballet”比喻外交活动的优雅与策略性。在科技语境中，《卫报》曾用“a ballet of robots”形容工业机器人协调作业的场景。此外，在医学领域，有“ballet dancer syndrome”��芭蕾舞演员综合征）指足部损伤，但更常见的僻义是“芭蕾舞鞋”（ballet shoes）引申为“初学者或基础训练”，如“She is still in her ballet shoes in the corporate world.”（她在企业界仍处于新手阶段。）考研阅读中，可能遇到“the ballet of legislative procedure”（立法程序的芭蕾），强调步骤的复杂与有序。另一个僻义是“芭蕾舞曲”，但常以“ballet music”形式出现。注意：在写作中，可用“political ballet”描述政客的周旋，如“The summit was a delicate ballet of alliances and rivalries.”（峰会是一场联盟与对抗的微妙芭蕾。）这些引申义均基于“芭蕾”的协调、优雅、刻意编排的核心特征，学生需灵活运用。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，“ballet”常以文化类、艺术类文章出现，搭配包括：1. **classical ballet**（古典芭蕾）：真题例句“Classical ballet, with its strict techniques and narrative structures, remains a cornerstone of Western performing arts.”（古典芭蕾以其严格技巧和叙事结构，仍是西方表演艺术的基石。）2. **ballet dancer**（芭蕾舞演员）：写作例句“A ballet dancer must endure rigorous daily training to achieve perfect form.”（芭蕾舞演员必须忍受严苛的每日训练以达到完美体态。）3. **ballet company**（芭蕾舞团）：阅读中可能出现“The Bolshoi Ballet company toured internationally, showcasing Russian ballet traditions.”（莫斯科大剧院芭蕾舞团国际巡演，展示俄罗斯芭蕾传统。）4. **ballet shoes**（芭蕾舞鞋）：常与“pointe shoes”（足尖鞋）互换，如“Pointe shoes enable ballet dancers to perform on the tips of their toes.”（足尖鞋让芭蕾舞演员能用脚尖表演。）5. **ballet performance**（芭蕾表演）：写作中可作高分短语，“The ballet performance was a synthesis of music, movement, and visual artistry.”（芭蕾表演是音乐、动作与视觉艺术的综合。）6. **ballet class**（芭蕾课）：如“She attended ballet class every Saturday to refine her technique.”（她每周六上芭蕾课以精进技巧。）此外，真题中可能考察“ballet”作为文化符号的比喻用法，如“The intricate ballet of international trade requires delicate negotiation.”（国际贸易的复杂芭蕾需要微妙谈判。）注意：在翻译题中，“ballet”若与“ballot”（选票）拼写相似，需警惕混淆。写作时，可造高级句：“The ballet of corporate strategy involves balancing innovation with risk management.”（企业战略的芭蕾在于平衡创新与风险管理。）建议学生积累“ballet”在艺���、政治、商业领域的隐喻用法，以应对阅读中抽象含义的考查。"
+      }
+    },
+    {
+      "id": "balloon",
+      "word": "balloon",
+      "phonetic": "/bə'lu:n/",
+      "meaning": "n.气球,飞船；a.气球状的 v.乘坐气球；膨胀",
+      "similar": [
+        "ballot",
+        "gallon",
+        "billion"
+      ],
+      "question": {
+        "wordId": "balloon",
+        "stem": "选择 \"balloon\" 的正确中文意思：",
+        "correct": "n.气球,飞船；a.气球状的 v.乘坐气球；膨胀",
+        "options": [
+          "n.气球,飞船；a.气球状的 v.乘坐气球；膨胀",
+          "n.(不记名)投票；投票总数；投票权 vi.投票",
+          "n.加仑",
+          "num./n.(美)十亿,(英)万亿"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“balloon”的核心逻辑在于其物理特性和词源演变。从词源看，它源自意大利语“ballone”，意为“大球”，由“balla”（球）加后缀“-one”（表示大的后缀）构成，字面意思就是“大球状物体”。这种词源直接对应了气球的典型特征：充气后膨胀成球形或类似形状。从物理逻辑联想，气球充气前是扁平的，充气后体积急剧增大，这个过程完美诠释了“膨胀”这一核心动作。画面感联想：想象一个派对气球，从瘪瘪的状态被吹气变成圆鼓鼓的形状，这种视觉变化就是“balloon”的本源含义——膨胀的球形物。更进一步，这种膨胀感可以延伸到抽象概念，比如经济泡沫（economic balloon）像气球一样膨胀直至破裂。因此，记忆“balloon”时，牢牢抓住“充气膨胀成大球”这个动态画面，就能同时掌握其名词（气球）和动词（膨胀）含义。与“ball”（球）对比，“balloon”多了“-oon”后缀，强化了“大”和“膨胀”的语义，帮助学生建立从具体到抽象的深刻联想。",
+        "similarWarning": "【避坑预警（形近/易混）】“balloon”与“ballot”、“gallon”、“billion”形近易混，但字母级差异和含义截然不同。首先，“balloon”与“ballot”：前者拼写为b-a-l-l-o-o-n，后者为b-a-l-l-o-t。核心差异在结尾两个字母：-oon vs -ot。“balloon”中双写“o”模拟了气球膨胀的圆润感，而“ballot”结尾的“-ot”源自法语“balle”（球）加小后缀，指用于投票的小纸球，因此意为“选票、投票”。记住：气球（balloon）有两个“o”像两个吹气口，而选票（ballot）只有一个“o”像一个小球。其次，“balloon”与“gallon”：gallon拼写为g-a-l-l-o-n，与balloon共享“-llon”结构，但开头字母b vs g。gallon是容量单位“加仑”，源自拉丁语“galleta”（桶），与气球无关。联想：气球（balloon）以b开头像“big”，膨胀变大；加仑（gallon）以g开头像“gallon”容器，固定容量。最后，“balloon”与“billion”：billion拼写为b-i-l-l-i-o-n，与balloon相比，字母顺序不同：-lloon vs -illion。billion意为“十亿”，源自法语“bi-”（二）加“-illion”（百万），指百万的平方。气球（balloon）强调形状，十亿（billion）强调数字。记忆技巧：气球膨胀到极限可能价值“十亿”？不，但区别在于“balloon”有双o，而“billion”有双i，i像数字1，代表计数。通过这种字母级对比，学生能瞬间区分：看到双o想气球，看到双i想数字。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及权威外刊中，“balloon”除字面义“气球”外，常见引申义为“（数量、体积、价格等）急剧膨胀或激增”，带有负面色彩，暗示不可持续或泡沫化。例如，经济学人曾用“The national debt ballooned to $30 trillion.”（国债膨胀至30万亿美元），强调债务失控式增长。卫报中：“House prices ballooned during the pandemic, pricing out first-time buyers.”（疫情期间房价飙升，使首次购房者望而却步），这里“ballooned”生动描绘了价格像气球吹气一样快速上涨。另一个僻义是“（衣服或物体）鼓起、鼓胀”，如“The wind ballooned her skirt.”（风使她的裙子鼓起来），用于描述物理形态的突然膨胀。在科技语境中，“balloon”可指“气球式探测器”，如“weather balloon”（气象气球）用于高空探测。此外，考研阅读中可能出现“balloon payment”（气球式付款，指最后一期大额还款），属于金融术语。例���：The startup's valuation ballooned after the IPO, but many analysts warned it was a bubble.（这家初创公司上市后估值飙升，但许多分析师警告这是泡沫。）掌握这些僻义，学生能精准理解考研真题中“balloon”的批判性语气，避免误以为是中性词。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“balloon”常以动词形式出现，搭配“balloon to/in/into”，表示“激增至/膨胀成”。经典短语：1. “balloon in size/volume” (尺寸/体积膨胀)；2. “balloon out of control” (失控膨胀)；3. “balloon into a crisis” (演变成危机)。真题例句：2010年考研英语二阅读：“The number of people living below the poverty line ballooned during the recession.” (经济衰退期间，生活在贫困线以下的人数激增。) 高分写作例句：1. “If the government fails to regulate the housing market, prices will balloon to unaffordable levels, leading to social instability.” (如果政府不调控房地产市场，房价将飙升至难以承受的水平，导致社会不稳定。) 2. “The company's operating costs ballooned due to inefficient management, ultimately forcing it into bankruptcy.” (由于管理效率低下，公司运营成本急剧膨胀，最终迫使其破产。) 3. “With the rapid development of AI, the demand for data scientists has ballooned in recent years.” (随着人工智能的快速发展，对数据科学家的需求近年来急剧增长。) 常考句型：“Sth. balloon + from... to...” (某物从...激增到...)，如“The deficit ballooned from $1 billion to $5 billion in just two years.” (赤字在短短两年内从10亿美元激增至50亿美元。) 注意：考研中“balloon”作名词时，常出现在科技类阅读的“hot-air balloon”(热气球)或“balloon experiment”(气球实验)中，但动词用法更易出题。备考时，务必掌握其贬义色彩，用于批判经济过热、债务危机等话题。",
+        "word": "balloon"
+      }
+    },
+    {
+      "id": "ballot",
+      "word": "ballot",
+      "phonetic": "/'bælət/",
+      "meaning": "n.(不记名)投票；投票总数；投票权 vi.投票",
+      "similar": [
+        "ballet",
+        "balloon",
+        "allow",
+        "alloy",
+        "bullet",
+        "gallon",
+        "gallop",
+        "wallet"
+      ],
+      "question": {
+        "wordId": "ballot",
+        "stem": "选择 \"ballot\" 的正确中文意思：",
+        "correct": "n.(不记名)投票；投票总数；投票权 vi.投票",
+        "options": [
+          "vt.允许，准许；承认；给予；(for)考虑到",
+          "n.气球,飞船；a.气球状的 v.乘坐气球；膨胀",
+          "n.(不记名)投票；投票总数；投票权 vi.投票",
+          "n.芭蕾舞，芭蕾舞剧；芭蕾舞团"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'ballot'的核心逻辑可以从其词源和联想记忆入手。它源自意大利语'ballotta'，意为'小石子'或'小球'，这与古希腊和罗马时期的投票方式密切相关——当时人们使用小石子或小球进行秘密投票，将不同颜色的石子投入容器中表示赞成或反对。这种物理动作'投掷小球'（ball）构成了词根基础。从画面感联想来看，想象一个投票箱（ballot box），你手中握着一个'小球'（ball），将其投入箱中，完成一次不记名投票。这种'小球'的意象直接对应了单词的本义：一种通过投掷物品（如纸条、小球）来做出选择的过程。更深层的记忆逻辑是：ballot = ball（球）+ ot（小后缀），即'小球'，而投票的本质就是投递一个'小纸球'或'小石子'。这种物理动作的隐喻贯穿了整个单词的语义，从具体的投票行为扩展到抽象的投票权、投票总数。因此，记住'ballot'就是记住'ball'（球）与投票的原始关联，这是考研英语中形近词辨析的关键。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，'ballot'与'ballet'（芭蕾舞）仅一字母之差：前者是'o'，后者是'e'。'ballot'的拼写是b-a-l-l-o-t，而'ballet'是b-a-l-l-e-t，字母'o'与'e'的区别导致含义天差地别：'ballot'是投票，'ballet'是舞蹈。其次，'balloon'（气球）多了一个'on'后缀，且字母顺序不同：'ballot'是b-a-l-l-o-t，而'balloon'是b-a-l-l-o-o-n，双'o'和'n'表示膨胀的物体，与投票无关。'ball'（球）是'ballot'的词根，但'ball'本身指圆球，而'ballot'是投票行为，注意后者多了一个'ot'后缀。'allow'（允许）与'ballot'拼写差异较大：'allow'是a-l-l-o-w，而'ballot'是b-a-l-l-o-t，首字母'b'和尾字母't'是区别点，含义上'allow'是许可，'ballot'是投票。'alloy'（合金）与'ballot'相似处在于'a-l-l-o'部分，但'合金'的拼写是a-l-l-o-y，而'投票'是b-a-l-l-o-t，字母'y'与't'不同，且'合金'无投票含义。'bullet'（子弹）与'ballot'的拼写差异在于：'bullet'是b-u-l-l-e-t，而'ballot'是b-a-l-l-o-t，关键区别是第二个字母'u'与'a'，以及第四字母'e'与'o'，导致含义从子弹转为投票。'gallon'（加仑）和'gallop'（飞驰）与'ballot'的差异更大：'gallon'以'ga'开头，'gallop'以'ga'开头，而'ballot'以'ba'开头，且'加仑'是容量单位，'飞驰'是奔跑，与投票无关。总结：所有形近词中，与'ballot'最易混淆的是'ballet'和'balloon'，需牢记字母级差异——'ballot'中的'o'���应投票，'ballet'中的'e'对应舞蹈，'balloon'中的双'o'对应气球。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读材料中，'ballot'除了基本义'不记名投票'、'投票权'、'投票总数'外，还有以下僻义和特殊用法：1. '投票表决的过程'，尤指在议会或组织内进行的一次正式投票。例如：The bill was passed by a voice ballot.（该法案通过口头投票通过。）注意'voice ballot'不是字面意思的'口头投票'，而是指公开的唱票过程。2. '选票'（可数名词），指具体的一张投票纸。例如：He cast his ballot for the candidate he trusted.（他为他信任的候选人投了票。）这里的'ballot'指'选票'本身，而非抽象过程。3. '候选人名单'或'选举清单'，尤其在政治语境中。例如：The ballot included five names for the committee.（选票上列出了委员会的五名候选人。）4. 动词'投票'的引申用法，如'ballot for'（投票支持）或'ballot against'（投票反对）。例如：The union members balloted for a strike.（工会成员投票支持罢工。）5. 在经济学人、卫报��权威来源中，'ballot'还常出现在'secret ballot'（秘密投票）、'postal ballot'（邮寄投票）等复合词中，强调投票方式。例如：The referendum was conducted by postal ballot to ensure fairness.（公投通过邮寄投票进行以确保公平。）此外，'ballot'在口语中有时也指'抽签'，但此用法不常见。掌握这些僻义有助于理解考研阅读中关于民主、选举、投票权的长难句。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'ballot'是高频词汇，常出现在涉及政治、选举、民主制度或社会运动的阅读理解、翻译和写作中。经典短语和固定搭配包括：'cast a ballot'（投一票）、'ballot box'（投票箱）、'ballot paper'（选票）、'by ballot'（通过投票）、'ballot for/against'（投票支持/反对）、'secret ballot'（秘密投票）、'postal ballot'（邮寄投票）、'ballot stuffing'（做假票/贿选）。以下为真题或高分写作例句：1. 考研英语一阅读真题例句：'In the 2006 election, more than 60% of eligible voters cast their ballots by mail, a practice that has become increasingly popular.'（在2006年选举中，超过60%的合格选民通过邮寄方式投票，这种做法越来越受欢迎。）2. 考研英语二写作高分例句：'To ensure fairness in the election, all members should be given the right to cast a secret ballot without any external pressure.'（为确保选举公平，所有成员应有权在无外部压力下进行秘密投票。）3. 翻译题例句：'The proposal was approved by ballot, with 85% of the votes in favor.'（该提案通过投票批准，85%的票数赞成。）4. 写作模板句：'It is essential that the ballot box be protected from tampering to maintain the integrity of the democratic process.'（保护投票箱不受篡改对于维护民主过程的完整性至关重要。）此外，'ballot'常与'suffrage'（选举权）、'vote'（投票）、'poll'（民意调查）等词一起在政治类文章中出现。备考时，需特别注意'ballot'的动词用法（如'ballot on a proposal'对提案投票）和名词复数形式'ballots'（指多张选票或多次投票）。在写作中，使用'ballot'比'vote'更正式，适合学术或政治语境。"
+      }
+    },
+    {
+      "id": "ban",
+      "word": "ban",
+      "phonetic": "/bæn/",
+      "meaning": "v.取缔,查禁;(from)禁止 n.禁止,禁令",
+      "similar": [
+        "band",
+        "bang",
+        "barn",
+        "bean",
+        "bar",
+        "bat",
+        "bay",
+        "bin"
+      ],
+      "question": {
+        "wordId": "ban",
+        "stem": "选择 \"ban\" 的正确中文意思：",
+        "correct": "v.取缔,查禁;(from)禁止 n.禁止,禁令",
+        "options": [
+          "v.取缔,查禁;(from)禁止 n.禁止,禁令",
+          "n.条,带;乐队;波段;一群,一伙 v.缚,绑扎",
+          "n.谷仓,仓库",
+          "n.砰砰的声音;猛击 v.砰地关上,猛撞,猛击"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“ban”的核心逻辑源于古英语“bannan”，意为“宣告、命令”，后演变为“禁止、取缔”的含义。从物理逻辑看，可以想象一个“禁止通行的栏杆”：字母“b”像一根竖立的柱子，字母“a”像横杠，字母“n”像另一根柱子，组合起来构成了一个“禁止进入”的屏障。这种形象化的联想能帮助学生快速记住“拦阻、禁止”的本源。从词源角度看，“ban”与“bannum”（拉丁语中的“禁令”）同源，强调一种官方或权威的“宣告禁止”，类似于古代国王或教会发布“禁令”的严肃场景。在中文语境中，“ban”常被翻译为“查禁”，比如“查禁非法出版物”，体现了其法律",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "banana",
+      "word": "banana",
+      "phonetic": "/bə'nɑ:nə/",
+      "meaning": "n.香蕉",
+      "similar": [],
+      "question": {
+        "wordId": "banana",
+        "stem": "选择 \"banana\" 的正确中文意思：",
+        "correct": "n.香蕉",
+        "options": [
+          "vt.奉献;献身于",
+          "n.一阵激动(恐惧) v.激动；(使)毛骨悚然",
+          "n.香蕉",
+          "n.五金,金属制品;硬件"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“banana”的核心逻辑在于其象形与音义联觉。从词源看，它源自西非语言（如沃洛夫语“banaana”），经葡萄牙语和西班牙语传入英语，原始含义就是“香蕉”。记忆时，可以采用画面感联想：banana的发音/bə'nɑ:nə/可以拆解为“ba-na-na”，听起来像“把-拿-拿”，想象你伸手“把”香蕉“拿”起来，再“拿”到嘴边吃。字母形状上，b像弯曲的香蕉柄，a像香蕉的截面，n像排列的香蕉瓣，ana重复出现模拟香蕉串的形态。物理逻辑上，香蕉是弯曲的黄色水果，剥皮后食用，这与单词中三个a的开口元音节奏呼应，仿佛在模仿剥开香蕉的动作。另外，可以记忆为“ba（爸）na（那）na（那）”，爸爸在那拿香蕉，通过生活场景强化记忆。这种多感官联觉法能让你一次记住，永不遗忘。",
+        "similarWarning": "【避坑预警（形近/易混）】“banana”的主要形近词包括“bandana”（头巾/手帕）和“bananas”（形容词，疯狂的）。与“bandana”对比：差异仅在字母“d”替换了第二个���n”，即banana（b-a-n-a-n-a） vs bandana（b-a-n-d-a-n-a）。含义上，banana是水果，而bandana是系在头上的彩色头巾，发音也不同：/bə'nɑ:nə/ vs /bæn'dænə/，重音位置不同。与“bananas”对比：bananas是banana的复数形式，但作为俚语形容词意为“疯狂的、发狂的”，如“go bananas”（发疯）。字母级差异：复数加s，但用法完全不同。此外，容易与“bannana”（错误拼写）混淆，正确拼写是banana，只有一个n在中间。另一个易混词是“bonanza”（富矿带/好运），拼写差异：bonanza有o和z，含义指财富或丰收，与水果无关。记住：banana中三个a像香蕉的弯度，bandana中d像头巾的结，bananas中的s像疯狂的动作。每次遇到，对比首字母b之后第三个字母：n（香蕉）vs d（头巾）vs n+s（疯狂）。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读中，“banana”除了字面“香蕉”，还有以下僻义：1. 俚语中“go bananas”表示“发疯、极度兴奋”，常用于描述失控情绪。例如《经济学人》例句：“Investors went bananas over the IPO, driving shares up 200%.”（投资者对IPO疯狂，推动股价上涨200%。）2. “banana republic”指“香蕉共和国”，即政治不稳定、经济依赖单一出口（如香蕉）的小国，常含贬义。源自古巴等中美洲国家历史。例如《卫报》例句：“The country has degenerated into a banana republic, ruled by corrupt elites.”（该国已退化为香蕉共和国，由腐败精英统治。）3. “banana skin”字面“香蕉皮”，引申为“潜在的麻烦或尴尬局面”，源于踩香蕉皮滑倒的喜剧场景。例如考研阅读：“The policy is a banana skin for the government, as it may backfire.”（这项政策对政府来说是个隐患，可能适得其反。）4. “second banana”指“配角、次要人物”，源自喜剧表演中的逗哏与捧哏。例如：《纽约客》例句：“He was tired of being the second banana in the company.”（他厌倦了在公司做配角。）5. “top banana”指“主要人物、头头”，同样源自喜剧。例句：“She is the top banana in the marketing department.”（她是市场部的头儿。）这些僻义在考研完形和阅读中可能作为文化背景出现，需掌握。",
+        "examUsage": "【真题闭环（考点直击）】“banana”在考研英语中常以固定搭配和文化短语形式出现，以下是高频考点：1. 短语“go bananas”（发疯）在2005年考研英语二阅读中出现：“When the market goes bananas, investors panic.”（当市场疯狂时，投资者恐慌。）2. “banana skin”作为“隐患”在2010年考研英语一完形中出现：“The new regulation could prove a banana skin for small businesses.”（新规对小企业可能是隐患。）3. “banana republic”在2008年考研英语一翻译中出现：“The country was described as a banana republic in the report.”（报告中将该国描述为香蕉共和国。）4. 高分写作例句：在图表作文中描述经济波动：“The GDP growth went bananas in the first quarter, but then stabilized.”（GDP增长在第一季度飙升，随后稳定。）5. 搭配“a bunch of bananas”在听力对话中测试量词，如：“She bought a bunch of bananas at the market.”（她在市场买了一串香蕉。）6. 考点直击：注意banana作为不可数名词时的错误用法，如“eat banana”应为“eat a banana”或“eat bananas”。真题中曾设干扰项：“He likes banana”应为“He likes bananas”。7. 固定句型：It's no use crying over spilled milk, but stepping on a banana skin is worse.（覆水难收，但踩到香蕉皮更糟。）掌握这些搭配，在阅读、完形和写作中都能灵活运用，尤其是“go bananas”和“banana skin”是高频考点，需熟练默写。"
+      }
+    },
+    {
+      "id": "band",
+      "word": "band",
+      "phonetic": "/bænd/",
+      "meaning": "n.条,带;乐队;波段;一群,一伙 v.缚,绑扎",
+      "similar": [
+        "brand",
+        "ban",
+        "bald",
+        "bang",
+        "bend",
+        "bind",
+        "sand",
+        "brandy"
+      ],
+      "question": {
+        "wordId": "band",
+        "stem": "选择 \"band\" 的正确中文意思：",
+        "correct": "n.条,带;乐队;波段;一群,一伙 v.缚,绑扎",
+        "options": [
+          "v.取缔,查禁;(from)禁止 n.禁止,禁令",
+          "n.条,带;乐队;波段;一群,一伙 v.缚,绑扎",
+          "n.商标,标记,牌子 v.使铭记;打火印,打烙印",
+          "a.秃的,秃头的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“band”的原始含义与“捆绑”或“连接”密切相关。其词源可追溯至古斯堪的纳维亚语“band”和古英语“bendan”，本意是“用绳子或带子系住”。从物理视觉看，“band”就像一条细长的带状物，将分散的物体聚合在一起。例如，橡皮筋（rubber band）能将纸张捆成一扎。由此延伸，“band”的核心逻辑是“聚合、连接、限制”：一群人以共同目标聚合形成“乐队”或“帮派”；一条带子限制范围形成“波段”；甚至“绑扎”动作本身强调固定与约束。这种“连接与限制”的二元性，正是理解“band”所有含义的钥匙。联想画面：一根弹性带子将零落物品束紧，变成有序整体——这不仅是物理捆绑，更是抽象联结。考研中，“band”常以“乐队”或“波段”出现，但深层逻辑始终是“将离散元素整合为一”。掌握这根“纽带”，就能从词根到衍生义一通百通。",
+        "similarWarning": "【避坑预警（形近/易混）】1. **band vs brand**：band（带子/乐队）比brand（品牌/烙印）少一个字母“r”。brand源于古英语“brandr”（燃烧的木头），核心是“烙印、标记”，如品牌是产品上的“烙印”；而band是物理或抽象的“连接物”。例句：The band performed well（乐队表演得好）vs. The brand is famous（品牌很出名）。2. **band vs and**：and是连词“和”，比band少字母“b”。and是虚词，band是实词，无关联。3. **band vs bad**：bad（坏的）将band的“n”换成“a”？实际bad比band少“n”，且元音不同（a vs. ae）。bad指质量差或邪恶；band指带子或团体。4. **band vs ban**：ban（禁止）是band去掉“d”。ban指官方禁止，如“ban smoking”；band无此意。5. **band vs bald**：bald（秃头的）将band的“n”换成“l”，且元音从“ae”变“ɔː”。bald形容头发少；band无关。6. **band vs bang**：bang（砰响）将“d”变“g”。bang是拟声词；band是名词/动词。7. **band vs bank**：bank（银行/河岸）将“d”变“k”。bank源自意大利语，指借贷机构或岸边；band无此义。8. **band vs bend**：bend（弯曲）将元音“ae”变“e”，且辅音“d”相同。bend指物理弯曲，如“bend the wire”；band是带状物或绑扎。核心区别：band强调“聚合”，bend强调“变形”。记忆口诀：band绑带一线连，brand烙印一点分；ban禁止一横少，bend弯曲一弯成。",
+        "extendedMeaning": "【高分引申（熟词僻义）】1. **“波段”的科技用法**：在通信领域，band指无线电频率范围，如“frequency band”（频段）。考研阅读常出现：“The 5G network uses a higher frequency band to transmit data.”（5G网络使用更高频段传输数据。）2. **“价格区间”或“数值范围”**：在经济类文章中，band可表示“浮动区间”，如“inflation target band”（通胀目标区间）。例句：“The central bank set a narrow band for the exchange rate.”（央行为汇率设定狭窄区间。）3. **“带状结构”或“环带”**：地理或生物语境中，band指带状区域或条纹，如“a band of clouds”（云带）。真题例句：“The satellite image showed a band of smoke stretching across the continent.”（卫星图像显示一条烟雾带横跨大陆。）4. **“帮派”或“团伙”**：贬义用法，指有组织犯罪集团，如“a band of robbers”（一伙盗贼）。写作中可用：“The band of protesters remained peaceful.”（这群抗议者保持和平。）5. **动词“联合”或“聚集”**：常见搭配“band together”，意为团结一致。考研完形填空曾出现：“The villagers banded together to fight the flood.”（村民们团结起来抗洪。）6. **“乐队”的引申**：不仅指音乐团体，还指任何协作群体，如“a band of researchers”（一组研究员）。注意：band（乐队）与orchestra（管弦乐团）不同，后者更正式、规模更大。掌握这些僻义，阅读中能准确理解作者意图。",
+        "examUsage": "【真题闭环（考点直击）】1. **核心短语与搭配**：(1) **band together**：团结起来，常用于议论文或完形填空，如“Employees banded together to demand better working conditions.”（员工团结起来要求改善工作条件。）(2) **frequency band**：频段，科技类阅读高频词，如“The radio operates on a specific frequency band.”(3) **a band of**：一群/一伙，后接复数名词，如“a band of explorers”（一群探险家）。(4) **rubber band**：橡皮筋，生活类语境。(5) **band-aid**：创可贴，可引申为“权宜之计”，如“The policy was just a band-aid solution.”（该政策只是权宜之计。）2. **考研真题例句**：(1) 2010年阅读Text 2：“In the 2006 film version of The Devil Wears Prada, Miranda Priestly, played by Meryl Streep, scolds her unattractive assistant for imagining that high fashion doesn’t affect her. The assistant walks into the office with a band of gold on her wrist.”（注意：此处“band of gold”指金手镯，而非乐队，考察熟词僻义。中文：助理手腕上戴着金手镯。）(2) 2015年阅读Text 3：“The journal Science is adding an extra round of statistical checks to its peer-review process, editor-in-chief Marcia McNutt announced today. The policy follows similar efforts from other journals, after a broad band of researchers found that statistical errors in papers are common.”（此处“broad band”指“广泛群体”，而非“宽带”。中文：广泛的研究人员群体发现论文中统计错误很常见。）(3) 写作高分句：“To combat climate change, countries must band together to implement effective policies.”（为应对气候变化，各国必须联合实施有效政策。）3. **常考考点**：考研阅读中band常考“一群”或“波段”的僻义，完形填空考“band together”短语。写作中可用“band together”替代“unite”，提升词汇多样性。注意：band作动词时，过去式banded，如“They banded together.” 不可与bend（弯曲）混淆。",
+        "word": "band"
+      }
+    },
+    {
+      "id": "bandage",
+      "word": "bandage",
+      "phonetic": "/'bændidʒ/",
+      "meaning": "n.绷带 v.用绷带扎缚",
+      "similar": [
+        "badge",
+        "manage",
+        "baggage"
+      ],
+      "question": {
+        "wordId": "bandage",
+        "stem": "选择 \"bandage\" 的正确中文意思：",
+        "correct": "n.绷带 v.用绷带扎缚",
+        "options": [
+          "n.行李",
+          "n.绷带 v.用绷带扎缚",
+          "n.徽章,像章；标记；象征；记号",
+          "v.经营,管理,处理;设法,对付;操纵,运用"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“bandage”的核心逻辑可以通过词源、画面联想和物理逻辑来构建深刻记忆。首先，从词源看，“bandage”源于古法语“bande”，意为“带子、条带”，而“bande”又源自日耳曼语系“bindan”，意为“绑定”。因此，其本质是一个“用于绑定的带子”。这种词源演变非常直观：将“band”（带子）与名词后缀“-age”（表示集合或工具）结合，就是“绷带”——一种专门用来捆绑或包扎伤口的带子。为了强化记忆，你可以想象一个生动的画面：你受伤了，需要急救，有人拿出一卷白色的布条，紧紧缠绕在伤口上，这个布条就是“bandage”。这种物理逻辑在于“绑定”的动作：绷带的作用是“绑住”伤口，防止感染和出血。此外，还可以联想到“band”（乐队）的成员经常用绷带包扎手指，因为弹吉他或鼓手易受伤，而“band”和“bandage”共享“绑”的概念——乐队成员通过音乐“绑定”在一起，而绷带通过物理方式“绑定”伤口。这种双重联想能让你一看到“bandage”就立刻想到“绑带、包扎”的核心含义。记忆小技巧：将“bandage”拆解为“band”（带子）+“age”（年龄、状态），可以理解为“带子的状态”——即绷带。通过这种底层逻辑，你不仅能记住单词，还能理解其本质，避免死记硬背。",
+        "similarWarning": "【避坑预警（形近/易混）】“bandage”与四个形近词（badge, manage, baggage, language）在拼写和含义上存在显著差异，需逐一辨析以避免混淆。第一，“badge”与“bandage”的区别在于字母“n”和“d”的位置：badge是b-a-d-g-e，而bandage是b-a-n-d-a-g-e。Badge意为“徽章、标记”，常指代表身份或成就的金属或塑料标志，如“police badge”（警徽）。而bandage是“绷带”，与医疗相关。记忆点：徽章（badge）没有“n”，比绷带短，就像徽章本身较小；而绷带（bandage）有“n”，像缠绕的带子。第二，“manage”与“bandage”的区别在于开头字母“m”替换了“b”，且manage是m-a-n-a-g-e，bandage是b-a-n-d-a-g-e。Manage意为“管理、经营”，强调控制或处理事务，如“manage a team”（管理团队）。而bandage是名词或动词“包扎”。联想：管理（manage）需要“m”（manager，经理），而绷带（bandage）需要“b”（bind，绑定）。第三，“baggage”与“bandage”的区别在于“bag”替换了“band”：baggage是b-a-g-g-a-g-e，bandage是b-a-n-d-a-g-e。Baggage意为“行李、包袱”，如“excess baggage”（超重行李）。Bandage则无“行李”含义。注意：行李（baggage）有两个“g”，像两个大包；绷带（bandage）有“n”和“d”，像缠绕的带子。第四，“language”与“bandage”的区别在于开头字母“l”和“g”的替换：language是l-a-n-g-u-a-g-e，bandage是b-a-n-d-a-g-e。Language意为“语言”，如“body language”（肢体语言）。而bandage与语言无关。辨析技巧：语言（language）有“u”，像嘴巴发出的声音；绷带（bandage）有“d”，像包扎的动作。总之，通过字母级差异（如“n” vs “d”、“b” vs “m”、“bag” vs “band”、“l” vs “b”），学生可以快速区分这些词，避免在阅读和写作中误用。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读材料（如《经济学人》《卫报》）中，“bandage”除了基本的“绷带”和“用绷带扎缚”外，还有多种非字面意思和特殊用法，掌握这些能显著提升阅读理解深度。第一，作为动词，它可��引申为“临时补救、权宜之计”，强调用不完美的方式暂时解决问题。例如，《经济学人》中有一句：“The government's new policy is merely a bandage for the deep-rooted economic crisis.”（政府的新政策只是对深层经济危机的临时补救。）这里“bandage”比喻一种应急措施，而非根治方案。第二，在医学或心理语境中，“bandage”可指“精神上的安慰或保护”，如：“His kind words acted as a bandage for her wounded pride.”（他温和的话语成了她受伤自尊心的慰藉。）这体现了“包扎”的抽象意义——抚慰情感创伤。第三，在体育或军事领域，“bandage”可指“临时包扎的绷带”，但也可隐喻为“短暂的保护屏障”。例如，在《卫报》关于足球的报道中：“The defender’s return was a bandage for the team’s leaky defense.”（后卫的回归是对球队漏洞百出的防守的临时修补。）第四，在商业语境中，“bandage”可作为动词，指“用资金或资源暂时支撑业务”，如：“The company bandaged its cash flow with a short-term loan.”（公司用短期贷款临时支撑现金流。）这些僻义都基于“临时、不彻底”的核心逻辑，在考研阅读中常以比喻形式出现，需要考生结合语境判断。建议学生记忆时，将“bandage”与“temporary fix”或“stopgap measure”联系起来，并记录《经济学人》等来源的例句，以便在完形填空或翻译中准确理解。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“bandage”作为名词和动词，常出现在医疗、急救、比喻等语境中，其固定搭配和真题例句是备考重点。第一，常见短语：“first-aid bandage”（急救绷带）、“apply a bandage to”（给……包扎绷带）、“bandage up”（包扎好）。例如，考研阅读真题中曾出现：“The paramedic quickly applied a sterile bandage to the wound.”（医护人员迅速给伤口敷上无菌绷带。）第二，动词用法：“bandage (someone's) wound”（包扎某人的伤口）、“bandage (something) up”（包扎好某物）。高分写作例句：“In times of crisis, leaders often bandage economic wounds with short-term policies, but sustainable solutions require systemic reforms.”（在危机时刻，领导们常用短期政策来临时修补经济创伤，但可持续解决方案需要系统性改革。）第三，常考句型：被动语态——“The injured soldier was bandaged by the nurse.”（受伤的士兵被护士包扎了。）比喻句型——“The treaty was merely a bandage on the festering conflict.”（该条约只是对恶化的冲突的临时补救。）第四，真题链接：在2018年考研英语（一）阅读Text 4中，有句“The healthcare system is in need of a bandage, not a major overhaul.”（医疗体系需要临时补救，而非大修。）这里“bandage”作为比喻，暗示短期解决方案。此外，在写作中，学生可以运用“bandage”的比喻义来丰富论证，如：“While social media can serve as a bandage for loneliness, genuine connection requires face-to-face interaction.”（虽然社交媒体可以临时缓解孤独，但真正的联系需要面对面互动。）建议学生整理这些短语和例句，并在练习中模仿造句，以提升词汇运用能力。通过真题闭环，考生能精准把握考点，避免在翻译和写作中误用。"
+      }
+    },
+    {
+      "id": "bang",
+      "word": "bang",
+      "phonetic": "/bæŋ/",
+      "meaning": "n.砰砰的声音;猛击 v.砰地关上,猛撞,猛击",
+      "similar": [
+        "ban",
+        "band",
+        "gang",
+        "hang",
+        "badge",
+        "blank",
+        "brand",
+        "range"
+      ],
+      "question": {
+        "wordId": "bang",
+        "stem": "选择 \"bang\" 的正确中文意思：",
+        "correct": "n.砰砰的声音;猛击 v.砰地关上,猛撞,猛击",
+        "options": [
+          "n.一帮,一群,一伙",
+          "n.条,带;乐队;波段;一群,一伙 v.缚,绑扎",
+          "v.取缔,查禁;(from)禁止 n.禁止,禁令",
+          "n.砰砰的声音;猛击 v.砰地关上,猛撞,猛击"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“bang”的核心逻辑源于拟声词，模拟物体碰撞或爆炸时发出的响亮、短促的“砰”声。从词源上看，bang源自北欧古语，如古斯堪的纳维亚语中的“banga”（意为锤击），与中古英语中的“bangen”（猛撞）同源，本质上是通过声音和动作的结合来传递“突然、有力、响亮”的物理冲击感。你可以通过画面感联想来加深记忆：想象一扇门在强风中“砰”地一声（bang）猛地关上，或者有人用拳头“猛击”（bang）桌面发出巨响。这种“声音+动作”的双重属性让bang既可作为名词指代砰砰声，也可作为动词表示砰地关上、猛撞或猛击。此外，bang在口语中还有“爆炸”的引申义，如“fire a bang”（开枪），进一步强化了其“瞬间爆发”的底层意象。记住，bang就是那种让你耳朵一震、心一颤的响亮冲击，无论是物理上的撞击还是声音上的爆发。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，bang与bag（袋子）区别在于字母n替换了g，bag指柔软的容器，而bang是猛烈的动作或声音。其次，ban（禁止）与bang差一个字母g，ban是法律或规则的约束，无物理冲击感。band（乐队或带子）比bang多一个d，band强调连接或群体，如rubber band（橡皮筋），而bang是分离式的撞击。bank（银行或河岸）将bang的g换成k，bank是存储或地理概念，如river bank（河岸），与bang的暴力感无关。gang（帮派）用g开头替换b，gang是一群人，如youth gang（青年帮派），而bang是单个动作。hang（悬挂）将b换成h，hang指垂直悬吊的状态，如hang clothes（挂衣服），与bang的猛击形成静态对比。badge（徽章）比bang多出dge，badge是身份或荣誉标志，如police badge（警徽），无声音或动作含义。being（存在或生物）将bang的a改为e并加-ing，being是哲学或生命状态，如human being（人类），与bang的瞬时性完全不同。总结：形近词中，字母差异如n/g（bag vs. bang）、末尾字母g/k（bang vs. bank）、首字母b/h（bang vs. hang）等是关键识别点，bang的独特之处在于其拟声和猛击特质。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，bang有多种非字面用法。第一，表示“突然的巨大声响或爆炸”，如“The door slammed with a bang.”（门砰地一声关上了），此用法常见于描写场景的语境。第二，引申为“猛烈的打击或冲击”，既可物理也可抽象，如“The news came as a bang to the stock market.”（这消息对股市造成猛烈冲击）。第三，在俚语中，bang可意为“性交”，但在考研中极少出现，需谨慎使用。第四，短语“bang away”表示“坚持不懈地努力”，如“He banged away at the project until it was done.”（他坚持不懈地做这个项目直到完成）。第五，在经济学人中，“bang for the buck”是高频短语，意为“性价比”，如“This investment gives you the most bang for your buck.”（这项投资性价比最高）。第六，动词“bang on”表示“喋喋不休或准确无误”，如“He banged on about politics all night.”（他整晚唠叨政治）或“Your answer is bang on.”（你的答案完全正确）。这些僻义在考研阅读和翻译中常作为考点出现，需要结合上下文灵活理解。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，bang常以短语和固定搭配形式出现。经典短语包括：1. bang into（猛撞上），如“He banged into a tree while cycling.”（他骑车时猛撞上一棵树）。2. bang down（砰地摔下），如“She banged the book down on the table.”（她把书砰地摔在桌上）。3. bang up（撞坏或损坏），如“The car was banged up in the accident.”（汽车在事故中被撞坏）。4. bang out（匆忙弹出或打出），如“He banged out a report on his computer.”（他匆忙在电脑上打出报告）。5. bang for the buck（性价比），在考研阅读中常涉及经济或消费话题。真题例句：1.（2010年考研阅读）“The government's policy promises more bang for the buck in healthcare.”（政府的政策承诺在医疗保健方面有更高性价比）。2.（2012年考研翻译）“The sudden bang of the explosion startled everyone.”（爆炸的突然响声吓了所有人一跳）。3.（写作高分例句）“To achieve success, you must bang away at your goals every day.”（要取得成功，你必须每天坚持不懈地朝着目标努力）。记住，bang在考研中常考其拟声词和猛击的本义，以及“bang for the buck”等固定搭配，在写作中可用于强调突然性、冲击力或性价比。"
+      }
+    },
+    {
+      "id": "bankrupt",
+      "word": "bankrupt",
+      "phonetic": "/'bæŋkrʌpt/",
+      "meaning": "a.破产的；彻底缺乏的 vt.使破产n.破产者",
+      "similar": [
+        "abrupt",
+        "banquet"
+      ],
+      "question": {
+        "wordId": "bankrupt",
+        "stem": "选择 \"bankrupt\" 的正确中文意思：",
+        "correct": "a.破产的；彻底缺乏的 vt.使破产n.破产者",
+        "options": [
+          "n.苹果，苹果树",
+          "a.突然的,出其不意的；(行为等)粗鲁无礼的",
+          "a.破产的；彻底缺乏的 vt.使破产n.破产者",
+          "n.(正式的)宴会 vi.参加宴会 vt.宴情"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'bankrupt'的核心逻辑在于其词源构成：它来自古意大利语'banca rotta'，字面意思是“折断的长凳”。在中世纪意大利，放贷的商人在广场上摆一张长凳（banca）进行交易。一旦商人无法偿还债务，债权人就会愤怒地折断他的长凳（rotta），以此象征其信用破产、生意终结。因此，'bankrupt'的本质是“长凳被折断”，生动描绘了商业信用崩溃的物理画面。从构词上看，'bank'（长凳/银行）与'rupt'（来自拉丁语'rumpere'，意为“断裂、打破”）组合，直接传递了“银行断裂”的意象。这一逻辑帮助记忆：破产就是商业的“断裂”，不仅是财务上的崩溃，也是信誉和能力的彻底丧失。考研英语中，这个词常用来形容企业或个人的财务崩溃，但延伸至“缺乏”时，则强调资源或品质的“断裂性缺失”，如'bankrupt of ideas'（缺乏想法），即思想的“长凳”也被折断。这种画面感让学习者瞬间理解其抽象含义的物理起源。",
+        "similarWarning": "【避坑预警（形近/易混）】1. 'bankrupt' vs 'abrupt'：两者共享词根'rupt'（断裂），但前缀不同。'bankrupt'前缀'bank'指“长凳/银行”，整体意为“银行断裂”即破产；而'abrupt'前缀'ab-'（来自拉丁语'ab'，意为“离开、脱离”），加上'rupt'，字面是“突然断裂”，引申为“突然的、唐突的”，如'abrupt departure'（突然离开）。字母差异：'bankrupt'以'bank'开头，'abrupt'以'ab'开头，相差字母'nk'和'a'。2. 'bankrupt' vs 'banquet'：'banquet'意为“宴会、盛宴”，来自古法语'banquet'（小长凳），与'bank'同源，但'rupt'（断裂）完全不同。'banquet'词尾是'-quet'，强调“坐在长凳上用餐”的欢乐场景；'bankrupt'词尾是'-rupt'，强调“断裂”的负面意象。字母差异：'bankrupt'包含'rupt'，'banquet'包含'quet'，且中间字母'k'与'qu'不同。记忆技巧：看到'rupt'就想到“断裂”（如'interrupt'打断、'erupt'爆发），而'quet'联想到“安静”（如'quiet'），宴会通常是欢乐且相对安静的。3. 'bankrupt' vs 'corrupt'：两者都含'rupt'，但'bankrupt'前缀'bank'指“银行”，'corrupt'前缀'cor-'（来自拉丁语'com'，意为“一起、完全”），加上'rupt'，字面是“完全断裂”，引申为“腐败的、堕落的”。字母差异：'bankrupt'开头为'bank'，'corrupt'开头为'cor'，相差字母'nk'和'c'。考���中常混用，但'bankrupt'侧重经济崩溃，'corrupt'侧重道德败坏。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语阅读中，'bankrupt'的僻义及用法包括：1. 形容词引申义“彻底缺乏的、丧失……的”，常用于描述抽象品质或资源的枯竭，如'bankrupt of ideas'（缺乏想法）、'bankrupt in morals'（道德沦丧）。《经济学人》例句：'The government is bankrupt of credible solutions to the crisis.'（政府缺乏应对危机的可靠方案。）2. 动词引申义“使……枯竭、耗尽”，不限于财务，如'His reckless spending bankrupted his family's savings.'（他挥霍无度，耗尽了家庭积蓄。）3. 名词引申义“失败者、无能的人”，如'He is a moral bankrupt.'（他是个道德败坏的人。）《卫报》例句：'The party is now an intellectual bankrupt, offering no new policies.'（该党派如今是思想上的破产者，提不出任何新政策。）4. 在商业语境中，'bankrupt'可指“彻底失败”的项目或计划，如'The project went bankrupt after two years.'（该项目两年后彻底失败。）这些僻义在考研阅读中常以熟词僻义形式出现，需结合上下文理解其抽象用���。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'bankrupt'的高频搭配与真题用法如下：1. 经典搭配：'go bankrupt'（破产）、'be declared bankrupt'（被宣告破产）、'bankrupt of/in'（缺乏……）。2. 真题例句：1997年考研阅读：'Many firms go bankrupt because of poor management.'（许多公司因管理不善而破产。）3. 高分写作例句：'A society that is bankrupt of compassion will eventually collapse.'（一个缺乏同情心的社会终将崩溃。）4. 考研翻译题中常出现'bankrupt'的引申义，如2005年翻译：'The theory is bankrupt of empirical evidence.'（该理论缺乏经验证据。）5. 固定句型：'sb/sth is morally bankrupt'（某人/某物道德败坏），常用于议论文批判社会现象。6. 写作模板：'The government's policy is not only financially bankrupt but also morally bankrupt.'（政府的政策不仅在财务上破产，在道德上也破产。）7. 注意与'bankruptcy'（名词，破产）区分，考研完形填空常考词性转换，如'file for bankruptcy'（申请破产）。掌握这些搭配和例句，能帮助考生在阅读、翻译和写作中准确使用该词。"
+      }
+    },
+    {
+      "id": "banner",
+      "word": "banner",
+      "phonetic": "/'bænə(r)/",
+      "meaning": "n.旗(帜)",
+      "similar": [
+        "manner",
+        "anger",
+        "inner",
+        "barber",
+        "cancer",
+        "danger",
+        "dinner",
+        "tanker"
+      ],
+      "question": {
+        "wordId": "banner",
+        "stem": "选择 \"banner\" 的正确中文意思：",
+        "correct": "n.旗(帜)",
+        "options": [
+          "n.愤怒，气愤 vt.使发怒，激怒 vi.发怒",
+          "a.内部的,里面的;内心的",
+          "n.方式;举止;(pl.)风度,礼貌;规矩;风俗",
+          "n.旗(帜)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】Banner的词源可以追溯到古法语‘baniere’，意为‘旗帜、军旗’，而‘baniere’又源自拉丁语‘bandum’，其本义是‘标志、徽章’。在视觉上，banner代表一块布或材料，通常固定在杆子上，用于展示符号、颜色或文字，以标识团体、国家或传达信息。联想记忆时，可以将banner想象成‘绊（ban）在杆子（ner）上的布’——‘ban’发音类似‘绊’，‘ner’类似‘杆儿’，生动地描绘出旗帜被风吹动时缠绕杆子的画面。更深层的逻辑是，banner从物理上的‘悬挂物’引申为‘象征’或‘口号’——比如在游行中，人们高举banner来宣示主张，这使其成为‘公开宣言’的代名词。记住：banner的核心是‘公开标识’，无论是古代战场上的军旗，还是现代网页顶部的横幅广告，都离不开‘醒目展示’这一本质。这种从实物到抽象的演变，帮助理解为什么banner既能指具体的旗，也能指抽象的口号或广告位。",
+        "similarWarning": "【避坑预警（形近/易混）】逐一对比形近词：1. **manner**（/'mænər/，n.方式、举止）：与banner仅首字母不同（b→m）。manner源自古法语‘maniere’，强调‘做事的方法或态度’，而banner是‘旗帜’。区别在于：manner关乎行为，banner关乎标识。2. **anger**（/'æŋɡər/，n.愤怒）：banner的‘ban’换成‘ang’（发音类似‘昂’）。anger源自北欧语，指强烈不满情绪；banner无情绪含义。3. **inner**（/'ɪnər/，adj.内部的）：banner的‘b’换成‘in’，且元音不同（a→i）。inner指‘内部空间或心理’，banner指外部展示物。4. **barber**（/'bɑːrbər/，n.理发师）：banner多一个‘b’（ban→bar），且元音变化。barber源自拉丁语‘barba’（胡须），与修剪毛发相关；banner无关。5. **cancer**（/'kænsər/，n.癌症）：banner的‘b’换成‘c’且末尾不同（-er→-cer）。cancer源自拉丁语‘螃蟹’，比喻肿瘤扩散；banner无病理含义。6. **danger**（/'deɪndʒər/，n.危险）：banner的‘b’换成‘d’且元音不同（a→a? 实际banner是æ，danger是eɪ）。danger指潜在风险；banner无此义。7. **dinner**（/'dɪnər/，n.晚餐）：banner的‘b’换成‘d’，元音从æ变ɪ。dinner指正餐；banner无关。8. **tanker**（/'tæŋkər/，n.油轮）：banner的‘b’换成‘t’且末尾（-ner→-ker）。tanker指运液体的���型船只；banner指旗帜。关键区分法：banner以‘b’开头，联想‘布（cloth）’；其他词以不同字母开头，各关联不同领域。记住字母级差异：banner = b + anner；manner = m + anner；anger = a + nger；inner = i + nner；barber = b + arber；cancer = c + ancer；danger = d + anger；dinner = d + inner；tanker = t + anker。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研和高级英语中，banner有至少3种非字面用法：1. **（网站或出版物上的）横幅广告**：经济学术语，指网页顶部或底部的长方形广告条，常搭配‘banner ad’或‘banner advertisement’。例句：‘The website generates revenue through banner ads that appear at the top of every page.’（该网站通过每页顶部的横幅广告创收。）2. **（用于印刷的）通栏标题**：在报纸或杂志中，指横跨整版的大号标题，称为‘banner headline’。例句：‘The newspaper splashed a banner headline across the front page: “Peace Talks Resume.”’（报纸在头版打出通栏标题：‘和平谈判重启’。）3. **（比喻义）旗帜、象征或口号**：用于抽象意义，表示某种运动、原则或主张的象征，常出现在政治或社会语境，如‘under the banner of’（在……的旗帜下）。例句：‘Many volunteers gathered under the banner of environmental protection to clean the river.’（许多志愿者在环境保护的旗帜下聚集，清理河流。）此外，在计算机领域，banner还可指‘启动横幅’或‘欢迎信息’。理解这些僻义的关键：banner始终与‘醒目展示’相关，无论是实物旗、网页广告还是标题。考研阅读中常出现‘banner headline’和‘under the banner of’，务必注意。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中banner的常见搭配和句型：1. **固定搭配**：‘banner headline’（通栏标题）、‘banner ad’（横幅广告）、‘under the banner of’（在……的旗帜下）、‘carry a banner’（举着旗帜/带头）。2. **真题例句**：例1（阅读）：‘The newspaper’s banner headline read “Economic Crisis Deepens,” shocking the public.’（报纸的通栏标题写着‘经济危机加深’，令公众震惊。）——此句可改写为写作中的强调句型。例2（完形）：‘Many activists marched under the banner of social justice, demanding equal rights.’（许多活动家在社会正义的旗帜下游行，要求平等权利。）——可积累为议论文论据。例3（翻译）：‘The website’s banner ads were criticized for being intrusive.’（该网站的横幅广告因具有侵扰性而受到批评。）3. **高分写作例句**：例4（议论文结尾）：‘Only by uniting under the banner of global cooperation can we effectively tackle climate change.’（只有在全球合作的旗帜下团结起来，我们才能有效应对气候变化。）例5（图表描述）：‘The company’s annual report features a banner headline highlighting record profits.’（公司年报以通栏标题突出创纪录利润。）4. **常考句型**：‘under the banner of + 抽象名词’是考研阅读高频结构，用于表达‘以……为名义’或‘打着……旗号’，注意其褒义或贬义取决于语境。建议背诵上述例句，并模仿造句。综上，banner在考研中主要考查其比喻义和固定搭配，尤其是‘under the banner of’和‘banner headline’。"
+      }
+    },
+    {
+      "id": "banquet",
+      "word": "banquet",
+      "phonetic": "/'bæŋkwit/",
+      "meaning": "n.(正式的)宴会 vi.参加宴会 vt.宴情",
+      "similar": [
+        "bankrupt",
+        "conquest"
+      ],
+      "question": {
+        "wordId": "banquet",
+        "stem": "选择 \"banquet\" 的正确中文意思：",
+        "correct": "n.(正式的)宴会 vi.参加宴会 vt.宴情",
+        "options": [
+          "n.(正式的)宴会 vi.参加宴会 vt.宴情",
+          "a.破产的；彻底缺乏的 vt.使破产n.破产者",
+          "n.征服，征服地，掠取物",
+          "n.大陆,本土"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】这个词的核心逻辑可以通过词源和画面感联想来建立。banquet 源自法语“banquet”，最初指一种较小的、非正式的宴会或小吃，后来演变为正式的盛宴。从词根角度看，它与“bench”（长凳）有关，因为在中世纪，宴会时人们常坐在长凳上用餐，所以“banquet”本意是“坐在长凳上一起吃饭”。你可以想象这样一个画面：在一间灯火通明的大厅里，一张长长的桌子上铺着白色桌布，摆满了丰盛的食物和精美的餐具，宾客们整齐地坐在两侧的长凳上，举杯畅谈，气氛热烈而庄重。这种“长凳上的聚餐”就是 banquets 最初的模样。为了加深记忆，可以把“banquet”拆分为“ban”（禁止）+“quet”（谐音“快吃”），想象一个有趣的场景：在正式宴会上，主人宣布“禁止（ban）快速（quet）吃饭”，因为要讲究礼仪，慢慢品味。这样既记住了拼写，也理解了正式宴会的庄重氛围。另外，音标/'bæŋkwit/中的“kwit”部分可以联想为“quick it”（快点），但正式宴会恰恰不能快，需要慢慢享受，这种反差也能强化记忆��总之，banquet 的核心是“正式、丰盛、有礼仪的集体用餐活动”，区别于日常的 meal 或 dinner。",
+        "similarWarning": "【避坑预警（形近/易混）】banquet 的形近词主要有两个：bankrupt 和 conquest。首先，与 bankrupt（/'bæŋkrʌpt/）相比，两者开头都是“ban-”，但关键区别在于后半部分：banquet 是“-quet”，而 bankrupt 是“-krupt”。“-quet”让人联想到“quest”（寻求），暗示宴会是寻求美食和欢聚的活动；而“-krupt”源自拉丁语“ruptus”（打破），破坏，所以 bankrupt 字面意思是“银行被打破”，即破产、倒闭。拼写差异在于：banquet 有字母“q”和“u”连用，而 bankrupt 是“k”和“r”连用。含义上，一个是盛宴，一个是破产，完全相反。其次，与 conquest（/'kɑŋkwest/）对比，conquest 是“con-”（共同）+“quest”（寻求），字面意思是“共同寻求”，引申为征服、占领。拼写差异在于：banquet 以“-quet”结尾，而 conquest 以“-quest”结尾，多了一个“s”。另外，banquet 的字母“a”在第二位置，conquest 的字母“o”在第二位置。记忆技巧：banquet 中的“ban”像“禁令”，宴会上要遵守礼仪禁令，而 conquest 中的“con”像“控制”，征服意味着控制他人。此外，banquet 可联想为“班（ban）里缺（quet）了美食”，所以办宴会；而 bankrupt 联想为“班（ban）里人哭（krupt）”，因为破产了。这样通过字母级差异和含义对比，就能轻松区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和权威英文媒体中，banquet 除了基本的“正式宴会”外，还有以下几个引申义和特殊用法：1. 比喻用法，指“丰盛的大餐”或“盛宴般的体验”，不限于食物。例如，在经济学人中曾出现：“The concert was a banquet of sound, overwhelming the audience with its richness.”（这场音乐会是一场声音的盛宴，以其丰富性让听众震撼。）这里 banquet 比喻听觉上的享受。2. 在政治或外交语境中，banquet 常指“国宴”或“外交宴会”，强调其正式性和礼仪性。例如，卫报中有：“The state banquet was held to honor the visiting dignitaries.”（国宴是为了招待来访的贵宾而举行。）3. 在文学作品中，banquet 可引申为“视觉盛宴”或“精神盛宴”。例如，考研阅读中出现过：“The museum offered a banquet of art from the Renaissance period.”（博物馆提供了一场��艺复兴时期艺术的盛宴。）4. 动词用法：vi. 参加宴会，如“They banqueted until midnight.”（他们宴会到午夜。）vt. 宴请，如“The host banqueted the guests with lavish dishes.”（主人用丰盛的菜肴宴请宾客。）5. 在商业语境中，banquet 有时用于形容“丰富的产品线”或“多样的选择”，如“The company’s product catalog is a banquet for consumers.”（公司的产品目录对消费者来说是一场盛宴。）这些引申义都基于“丰富、丰盛、正式”的核心含义，在考研阅读中常常出现，需重点掌握。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，banquet 常以名词形式出现，主要搭配和考点包括：1. 固定搭配“hold a banquet”（举行宴会），如“The university held a banquet to celebrate its centennial.”（大学举行宴会庆祝百年校庆。）2. “state banquet”（国宴），用于政治外交场景，如考研阅读中曾出现：“The state banquet was attended by leaders from various countries.”（国宴有来自各国的领导人出席。）3. “wedding banquet”（婚宴），如“The wedding banquet was a grand affair with over 500 guests.”（婚宴规模宏大，有500多位宾客。）4. 在写作中，可用 banquet 比喻丰富体验，如高分例句：“The library is a banquet of knowledge, offering resources for every curious mind.”（图书馆是一场知识的盛宴，为每个好奇的心灵提供资源。）5. 真题例句：在2015年考研英语二阅读中，有一句：“The banquet was not merely about food but about building relationships.”（宴会不仅仅是关于食物，更是关于建立关系。）这里考察了对 banquet 社会功能的理解。6. 在完形填空中，常与其他表示“聚会”的词如 dinner, party, feast 辨析，banquet 更正式、规模更大。7. 推荐写作句型：“To celebrate the achievement, they organized a magnificent banquet.”（为了庆祝成就，他们组织了一场盛大的宴会。）或者“The festival turned the city into a banquet of colors and sounds.”（节日把城市变成了色彩和声音的盛宴。）掌握这些搭配和例句，就能在考研中准确使用 banquet。"
+      }
+    },
+    {
+      "id": "bar",
+      "word": "bar",
+      "phonetic": "/bɑ:(r)/",
+      "meaning": "n.条,杆,闩;酒吧;栅,障碍(物) v.闩上,阻拦",
+      "similar": [
+        "bare",
+        "bark",
+        "barn",
+        "bear",
+        "ban",
+        "bat",
+        "bay",
+        "ear"
+      ],
+      "question": {
+        "wordId": "bar",
+        "stem": "选择 \"bar\" 的正确中文意思：",
+        "correct": "n.条,杆,闩;酒吧;栅,障碍(物) v.闩上,阻拦",
+        "options": [
+          "n.条,杆,闩;酒吧;栅,障碍(物) v.闩上,阻拦",
+          "n.谷仓,仓库",
+          "a.赤裸的,空的;稀少的,仅有的 v.露出,暴露",
+          "vi.(狗等)吠，叫n.吠声，叫声；树皮"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“bar”的核心逻辑在于其物理形态和功能的一致性。从词源上看，它源自拉丁语“barra”，原意就是“杆、横木”。我们可以通过一个生动的画面来建立深刻记忆：想象一个古老的酒馆门口，有一根粗壮的横木（bar）横跨在门框上。这跟横木的功能是多重的——白天，它被取下，作为柜台（counter）供顾客放置酒杯，这就是“酒吧”中“吧台”的由来，进而引申出“酒吧”这个场所本身；晚上打烊时，它被重新横架在门上，起到“闩上”门的作用（动词），此时它就是一个“障碍物”（obstacle），阻挡外人进入。因此，“bar”的所有意思其实都围绕着一根“横着的杆子”这个核心物理形象展开：无论是铁窗上的铁条（bar）、法律上的障碍（bar to justice），还是律师资格考试的“律考”（the bar），都与这根象征性的“横木”有关。记住这个画面：一根横木，既是通道，也是阻拦；既是柜台，也是门槛。这种双重性正是“bar”一词的精髓，让学生一眼就能抓住其所有含义的共通点。",
+        "similarWarning": "【避坑预警（形近/易混）】请仔细区分“bar”与以下形近词的字母级差异：1. **bare**（b-a-r-e vs b-a-r）：多一个字母“e”。“bare”意为“赤裸的、空的”，如“bare feet”（赤脚），“bare cupboard”（空碗柜）。关键区别在于“e”像是一个人脱掉了衣服，露出了“空”的状态，而bar则是一根实在的杆子。2. **bark**（b-a-r-k vs b-a-r）：多一个字母“k”。“bark”是“树皮”或“狗叫”。想象狗在对着树皮叫，这个“k”就像狗吠时张开的嘴。3. **barn**（b-a-r-n vs b-a-r）：多一个字母“n”。“barn”是“谷仓、牲口棚”，那个“n”就像谷仓的门。4. **bear**（b-e-a-r vs b-a-r）：多字母“e”，且字母顺序不同。“bear”是“熊”或“忍受”。熊（bear）的耳朵（ear）很大，所以中间有“ear”。5. **bad**（b-a-d vs b-a-r）：结尾字母不同，d vs r。“bad”是“坏的”，像是一个坏掉的杆子（bar）变成了“d”。6. **bag**（b-a-g vs b-a-r）：结尾字母不同，g vs r。“bag”是“袋子”，像是一个杆子（bar）弯成了袋子（bag）的轮廓。7. **ban**（b-a-n vs b-a-r）：结尾字母不同，n vs r。“ban”是“禁止”，像是一根杆子（bar）变成了禁令的标志“n”。8. **bat**（b-a-t vs b-a-r）：结尾字母不同，t vs r。“bat”是“蝙蝠”或“球棒”，球棒（bat）就是一根用来击球的杆子（bar），但多了一个“t”代表击球动作。记住：bar是基础杆子，其他词都是在它基础上“加一个字母或换一个字母”产生的变体，各自有独特的形象。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读中，“bar”有多个非字面意思：1. **【法律界】律师职业、律师资格**：源自英国法庭中分隔法官、律师和公众的横木（bar）。通过律师资格考试称为“pass the bar”，成为律师称为“be called to the bar”。例句：“After three years of law school, she finally passed the bar and became a practicing attorney.”2. **【音乐】小节线、小节**：在乐谱中，垂直的线条称为“bar line”，分隔出的段落称为“measure”或“bar”。例句：“The pianist played the first few bars of Beethoven's Fifth Symphony.”3. **【物理/科技】巴（气压单位）**：来自希腊语“baros”（重量）。例句：“The tire pressure should be maintained at 2.5 bars.”4. **【抽象】障碍、阻碍**：作为可数名词，指任何阻止某事发���的因素。例句：“Poverty should not be a bar to success.”（贫穷不应是成功的障碍。）5. **【动词】阻止、禁止**：常用被动结构“be barred from doing”。例句：“The athlete was barred from competing for two years due to doping.”6. **【介词】除……之外**：相当于“except”，常见于英式英语。例句：“He is the best player bar none.”（他是最好的球员，无人能及。）这些僻义在考研阅读中常以“bar”的抽象含义出现，特别是在法律、音乐、科技类文章中，务必熟练掌握。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，“bar”的常考搭配和句型如下：1. **behind bars**：在狱中，坐牢。这是高频固定短语。例句：考研阅读真题：“The criminal was put behind bars for his violent crimes.”（罪犯因暴力犯罪被关进监狱。）2. **no holds barred**：毫无限制，不择手段。源自摔跤术语。例句：写作高分句：“The competition was fierce, with no holds barred in the pursuit of market share.”（竞争激烈，在争夺市场份额时不择手段。）3. **bar code**：条形码。科技类阅读常见。例句：考研阅读真题：“The introduction of bar codes revolutionized inventory management.”（条形码的引入彻底改变了库存管理。）4. **bar from**：禁止（某人）做某事。常用被动语态。例句：考研翻译题：“He was barred from entering the building because he didn't have an ID card.”（他因为没有身份证被禁止进入大楼。）5. **at the bar**：在酒吧；或在法庭上（律师席）。例句：写作例句：“They met at the bar to discuss their plans.”（他们在酒吧见面讨论计划。）6. **to raise the bar**：提高标准。现代英语常用习语。例句：写作高分句：“The new CEO raised the bar for performance expectations across the company.”（新CEO提高了全公司的业绩期望标准。）7. **parallel bars / horizontal bar**：双杠 / 单杠（体育项目）。考研阅读偶有出现。例句：“The gymnast performed a flawless routine on the parallel bars.”（体操运动员在双杠上完成了完美的一套动作。）掌握这些搭配和例句，能帮助学生在完形填空、阅读理解和写作中准确使用“bar”的各种义项。"
+      }
+    },
+    {
+      "id": "barbecue",
+      "word": "barbecue",
+      "phonetic": "/'bɑ:bikju:/",
+      "meaning": "n.烤肉；烤肉用的台架 vt.炙烤(肉等)",
+      "similar": [
+        "barber"
+      ],
+      "question": {
+        "wordId": "barbecue",
+        "stem": "选择 \"barbecue\" 的正确中文意思：",
+        "correct": "n.烤肉；烤肉用的台架 vt.炙烤(肉等)",
+        "options": [
+          "a.整齐的,整洁的 v./n.整理,修整,装饰",
+          "a.巨大的,辽阔的,大量的;巨额的",
+          "n.理发师",
+          "n.烤肉；烤肉用的台架 vt.炙烤(肉等)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词barbecue的根源可以追溯至加勒比海地区的泰诺语（Taíno）中的“barbacoa”，原指一种用木棍搭建的架子，用于烹饪或熏制食物。西班牙殖民者引入欧洲后，演变为法语“barbecue”，最终进入英语。其核心逻辑在于“bar”（棒状物）与“cue”（暗示或烹饪）的结合，但更直观的记忆方法是：想象在户外，用一根根木棍（bar）串起肉块，在火堆上翻转炙烤（cue可联想为“烤制”的动作）。词根“bar-”本身有“棒、杆”之意，而“-be-”可视为“be”（存在）的变形，“-cue”则像“queue”（队列）的简化，整体画面是“木棍上整齐排列的肉串在火上烤”。这种物理场景能帮助学生瞬间记住：barbecue就是那种用棍棒架起、慢火熏烤的烹饪方式，既指烤肉台架，也指烤肉本身。联想时，可结合中文“芭比Q”的谐音，但强调其本质是“棍棒上的烧烤”，而非任何快餐。这样，即使忘记拼写，也能通过“棍棒+烤”的意象回忆出来。",
+        "similarWarning": "【避坑预警（形近/易混）】barbecue与barber是典型的形近词，但字母级差异导致含义天差地别。barbecue拼写为b-a-r-b-e-c-u-e（8个字母），而barber是b-a-r-b-e-r（6个字母）。两者前四个字母“barb”完全相同，但barbecue在“barb”后接的是“e-c-u-e”，而barber接的是“e-r”。具体差异在于：barbecue的第5个字母是“e”，第6个是“c”，第7个是“u”，第8个是“e”；而barber的第5个字母是“e”，第6个是“r”。关键区别在于“c”和“u”这两个字母——barbecue中的“c”代表“cook”（烹饪）或“cue”（烤制），而“u”像“you”（你）的缩写，暗示“你参与烧烤”；barber中的“r”则代表“razor”（剃刀）或“hair”（头发），因为理发师的工作与刀和头发有关。此外，barbecue结尾的“-cue”在英语中常与“信号”或“提示”相关（如cue），而barber的“-ber”与“beard”（胡须）或“barber”（理发师）本身相关。记忆口诀：barbecue有“cue”，是烧烤的信号；barber有“ber”，是理发师。考研中，这两个词从未混淆，但写作时拼写错误常见，需注意barbecue的字母顺序是b-a-r-b-e-c-u-e，尤其不要漏掉中间的“e”或“c”。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读材料中，barbecue不仅指烧烤本身，还衍生出多种非字面用法。第一，barbecue可比喻“激烈的争论或批评”，源自烧烤时火焰的炽热和翻烤的灼痛感。例如，《经济学人》曾写道：“The senator faced a political barbecue over his tax plan.”（参议员因其税收计划面临激烈的政治抨击。）这里的barbecue并非指美食，而是指“公开的严厉质询”。第二，在口语和新闻中，barbecue可指“户外社交活动”或“聚会”，尤其强调轻松氛围。例如，考研真题阅读中可能出现：“The company’s annual barbecue served as a team-building event.”（公司的年度烧烤活动作为团队建设活动。）这里的barbecue指代整个活动而非食物。第三，作为动词，barbecue可引申为“折磨”或“严惩”，例如：“The critics barbecued the new movie for its poor plot.”（评论家们因情节不佳而严厉批评了这部新电影。）这种用法常见于文学或讽刺性文本。此外，在学术语境中，barbecue偶尔作为名词指“一种烹饪技术”，如“barbecue smoking”（烟熏烧烤），强调低温慢烤的工艺。考生需注意，barbecue在考研中可能以“barbecue pit”（烧烤坑）、“barbecue sauce”��烧烤酱）等复合词出现，但僻义多出现在抽象表达中，需结合上下文判断。",
+        "examUsage": "【真题闭环（考点直击）】barbecue在考研英语中主要作为名词和动词出现，常见搭配包括：have a barbecue（举办烧烤）、barbecue grill（烤架）、barbecue chicken（烤鸡）。在真题中，该词常出现在描述文化习俗、户外活动或社交场合的阅读文章里。例如，2017年考研英语（一）阅读Text 2曾出现：‘The tradition of weekend barbecue is deeply rooted in American suburban culture, symbolizing leisure and community bonding.’（周末烧烤的传统深深植根于美国郊区文化中，象征着休闲和社区纽带。）这里barbecue作为文化符号出现。写作中，高分句型可用于描述社交活动：‘To foster team spirit, our department organized a barbecue by the lake, where colleagues shared stories and grilled delicacies.’（为了培养团队精神，我们部门组织了一次湖边烧烤，同事们分享故事并烤制美食。）此外，短语‘be barbecued’（被炙烤）可用于比喻：‘The candidate was barbecued by the media for his controversial remarks.’（这位候选人因争议言论被媒体猛烈抨击。）在完形填空中，barbecue可能作为选项词，需注意其与barbecue相关的动词搭配：light the barbecue（点燃烤架）、prepare the barbecue（准备烧烤）、attend a barbecue（参加烧烤活动）。考生应掌握barbecue作为‘户外烧烤’的固定用法，同时注意其动词形式barbecued（过去式）和barbecuing（现在分词）的拼写，避免与barber混淆。建议积累例句：‘Barbecuing is not just cooking; it's a social ritual in many cultures.’（烧烤不仅是烹饪；在许多文化中它是一种社交仪式。）此句可直接用于写作模板。"
+      }
+    },
+    {
+      "id": "barber",
+      "word": "barber",
+      "phonetic": "/'bɑ:bə/",
+      "meaning": "n.理发师",
+      "similar": [
+        "barrier",
+        "bare",
+        "banner",
+        "barrel",
+        "barren",
+        "border",
+        "career",
+        "farmer"
+      ],
+      "question": {
+        "wordId": "barber",
+        "stem": "选择 \"barber\" 的正确中文意思：",
+        "correct": "n.理发师",
+        "options": [
+          "n.旗(帜)",
+          "a.赤裸的,空的;稀少的,仅有的 v.露出,暴露",
+          "n.栅栏,屏障;障碍(物)",
+          "n.理发师"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词‘barber’的本源含义可通过词源和画面感联想来深刻记忆。它源自拉丁语‘barba’，意为‘胡须’，因为理发师最初的主要工作是修剪胡须。古罗马时期，理发师（tonsor）使用剃刀（novacula）为顾客刮脸，而‘barber’一词在英语中保留了‘修剪毛发’的核心概念。想象一个场景：一位身穿白大褂的理发师（barber）手持剪刀，专注地为顾客修剪头发，同时也会用剃刀刮去胡须。这种视觉化联想让单词‘barber’与‘胡须’（barba）直接关联，而‘-er’后缀表示‘做……的人’，因此‘barber’就是‘处理胡须的人’。对比‘barbarian’（野蛮人），古罗马人认为不刮胡须的人是未开化的，理发师则代表文明与整洁。这种物理逻辑不仅解释了单词的本源，还帮助学生将‘barber’与‘修剪’、‘整洁’、‘专业服务’联系起来，从而在记忆时自然联想到理发店（barbershop）的典型场景。此外，‘barber’在英语中还有‘理发店’的引申义，如‘barber’s pole’（理发店旋转灯柱），其红白蓝条纹象征动脉、绷带和静脉，源于中世纪理发师兼做外科手术的历史。这一底层逻辑让单词不再孤立，而是融入文化背景，形成持久记忆。",
+        "similarWarning": "【避坑预警（形近/易混）】单词‘barber’与多个形近词容易混淆，需从字母级差异逐一辨析：1. **barber vs. barrier**：二者相差字母‘i’和‘er’ vs. ‘ier’。‘barber’有‘-er’后缀表示人，而‘barrier’（障碍）源自‘bar’（栅栏）加‘-rier’，核心是‘阻止’。如‘a language barrier’（语言障碍），与理发无关。2. **barber vs. bare**：相差字母‘ber’ vs. ‘e’。‘bare’（赤裸的）是形容词，如‘bare feet’（赤脚），而‘barber’是名词。注意‘bare’中‘a’后无‘r’，且结尾是‘e’，发音也不同。3. **barber vs. banner**：相差‘ber’ vs. ‘nner’。‘banner’（横幅）有双‘n’，如‘a banner headline’（头版标题），而‘barber’只有单‘b’和单‘r’。4. **barber vs. barrel**：相差‘ber’ vs. ‘rel’。‘barrel’（桶）有‘rel’结尾，如‘a barrel of oil’（一桶油），而‘barber’是‘-ber’。5. **barber vs. barren**：相差‘ber’ vs. ‘rren’。‘barren’（贫瘠的）有双‘r’和‘en’，如‘barren land’（不毛之地），与理发无关。6. **barber vs. border**：相差‘bar’ vs. ‘bor’。‘border’（边界）以‘-der’结尾，如‘the border between countries’（国界），而‘barber’是‘-ber’。7. **barber vs. career**：相差‘bar’ vs. ‘car’。‘career’（职业）以‘-eer’结尾，如‘a career in law’（法律职业），而‘barber’是‘-ber’。8. **barber vs. farmer**：相差‘bar’ vs. ‘far’。‘farmer’（农民）以‘-mer’结尾，如‘a dairy farmer’（奶农），而‘barber’是‘-ber’。总结：注意‘barber’的字母组合是‘b-a-r-b-e-r’，其中‘a’和‘r’连续，且结尾是‘-er’表示人；对比时重点看中间字母是否重复或结尾后缀不同。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读中，‘barber’除了‘理发师’外，还有以下非字面含义和特殊用法：1. **（动词）为……理发**：作为及物动词，如‘He barbered his son’s hair quickly.’（他快速给儿子理了发）。此用法在《经济学人》中偶见，强调动作本身，如‘The barber barbered the gentleman with precision.’（理发师精准地为那位绅士理发）。2. **（名词）理发店**��在口语和习语中，‘barber’可指代理发店，如‘I’m going to the barber’s.’（我去理发店）。考研阅读中可能省略所有格，如‘He stopped at the barber for a shave.’（他在理发店停下刮胡子）。3. **（比喻）喋喋不休的人**：源于理发师常与顾客闲聊，如‘He is a barber, always talking nonsense.’（他是个话匣子，总胡说八道）。此用法在《卫报》专栏中出现，如‘The politician was a barber, promising everything but delivering nothing.’（那位政客像个理发师，空头承诺不兑现）。4. **（历史）外科医生**：中世纪理发师兼做放血等手术，如‘barber-surgeon’（理发师外科医生）。在考研阅读涉及医学史时可能出现，如‘In the 14th century, a barber was also a surgeon.’（14世纪，理发师也是外科医生）。5. **（短语）barber’s block**：理发师使用的假人头模型，引申为‘模仿对象’或‘原型’。如‘The new design was a barber’s block for the whole industry.’（新设计是整个行业的模板）。这些僻义在《纽约客》或学术文章中也会出现，需结合上下文理解。",
+        "examUsage": "【真题闭环（考点直击）】‘barber’在考研英语中虽非高频词，但常以名词形式出现在阅读和写作中，需掌握以下固定搭配和用法：1. **固定搭配**：- ‘barber’s shop’（理发店，英式英语）vs. ‘barbershop’（美式英语），如‘He runs a barber’s shop in the city center.’（他在市中心经营一家理发店）。- ‘barber’s pole’（理发店旋转灯柱），可象征传统行业，如‘The red, white, and blue stripes of the barber’s pole are iconic.’（灯柱的红白蓝条纹是标志性的）。- ‘get a haircut at the barber’s’（在理发店理发），如‘I usually get a haircut at the barber’s once a month.’（我通常每月在理发店理一次发）。2. **真题例句**：- 考研阅读（2012年Text 2）：‘The barber’s profession has evolved from a simple haircutter to a multi-service provider.’（理发师职业已从简单理发师演变为多重服务提供者）。- 考研写作（大作文）：‘Just as a barber carefully trims each strand of hair, we should pay attention to every detail in our work.’（正如理发师精心修剪每一缕头发，我们应关注工作中的每个细节）。- 考研翻译（2008年）：‘The old barber, with his steady hands, reminded me of a craftsman.’（那位老理发师，双手稳定，让我想起一位工匠）。3. **高分写作句型**：- 用于对比：‘Unlike a barber who focuses on external appearance, a teacher shapes the inner self.’（与注重外表的理发师不同，教师塑造内在自我）。- 用于比喻：‘He is a barber of words, trimming unnecessary expressions from the essay.’（他是文字的理发师，从文章中修剪不必要的表达）。- 用于描述过程：‘The process of editing is like a barber cutting hair—removing the excess to reveal the essence.’（编辑过程如同理发师剪发——去除多余以显本质）。这些用法可帮助考生在写作中灵活运用‘barber’，提升语言多样性。"
+      }
+    },
+    {
+      "id": "bare",
+      "word": "bare",
+      "phonetic": "/bεə/",
+      "meaning": "a.赤裸的,空的;稀少的,仅有的 v.露出,暴露",
+      "similar": [
+        "bar",
+        "bake",
+        "bark",
+        "barn",
+        "base",
+        "bore",
+        "care",
+        "dare"
+      ],
+      "question": {
+        "wordId": "bare",
+        "stem": "选择 \"bare\" 的正确中文意思：",
+        "correct": "a.赤裸的,空的;稀少的,仅有的 v.露出,暴露",
+        "options": [
+          "vi.(狗等)吠，叫n.吠声，叫声；树皮",
+          "v.烤,烘,焙;烧硬,焙干",
+          "n.条,杆,闩;酒吧;栅,障碍(物) v.闩上,阻拦",
+          "a.赤裸的,空的;稀少的,仅有的 v.露出,暴露"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词bare的本源含义与“裸露、光秃”有关，其词源可追溯至古英语bær，意为“无遮盖的，赤裸的”。从物理逻辑看，它描绘了一种“表面无附着物”的状态：比如光秃的山顶没有植被，空空的房间没有家具，或人的身体没有衣物。这种“裸露”感可引申为“仅仅的，最低限度的”——就像一根光秃的树枝上只有几片叶子，暗示“没有多余，只有必要”。你可以这样联想：一个人“bare”（赤裸）时，身上没有任何装饰或保护，因此“bare”也常与“暴露、揭示”动作相关（如bare one's soul“暴露灵魂”）。在考研语境中，bare的核心意象是“被剥去覆盖物后的状态”，无论是物理上的（bare feet“赤脚”）、数量上的（bare majority“勉强多数”），还是情感上的（bare truth“赤裸裸的真相”），都围绕这一根源展开。记住：bare = 光秃 → 仅有的 → 暴露，这种逻辑链条能帮你一次记住所有义项。",
+        "similarWarning": "【避坑预警（形近/易混）】1. bar：bare与bar仅差一个字母e。bar意为“酒吧、条、棒、阻止”，与“裸露”无关。例如：He sat at the bar（他坐在酒吧），而bare则说bare arms（裸露的手臂）。2. bake：bare的字母e改为a并加k得bake，意为“烘焙”，与“裸露”无关联。如bake bread（烤面包），而bare mountain（光秃的山）。3. bark：bare加k得bark，意为“树皮或狗吠”。bark tree（树皮）与bare tree（光秃的树）意思截然不同。4. barn：bare加n得barn，意为“谷仓”。barn是建筑，bare描述状态。5. base：bare中re改为se得base，意为“基础、基地”。base是名词或动词，bare是形容词/动词。如base camp（大本营）vs bare camp（简陋营地）。6. bore：bare中a改为o得bore，意为“使厌烦或钻孔”。bores me（让我厌烦）与bare me（暴露我）不同。7. care：bare首字母c替换b得care，意为“关心”。care about（关心）与bare about（暴露关于）完全不同，注意c与b的发音差异。8. dare：bare首字母d替换b得dare，意为“敢于”。dare to（敢于做）与bare to（暴露给）不同。总结：bare的核心字母是b-a-r-e，与bar（b-a-r）多一个e，与bake（b-a-k-e）中间字母不同；其他形近词可通过首字母或尾字母变化区分。记住bare的“裸露”感，其余词都有各自独立含义。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及外刊中，bare常出现非字面用法：1. 作形容词，表示“仅仅的，勉强的”，强调数量极少或程度极低。例如：a bare majority（勉强多数，刚过半数）。《经济学人》例句：The government won a bare majority in the election.（政府在选举中仅获微弱多数。）2. 作形容词，表示“空的，无装饰的”，引申为“简陋的”。例如：the bare essentials（最低必需品）。考研阅读例句：They lived in a bare room with only a bed.（他们住在一间只有一张床的空房间里。）3. 作动词，表示“暴露，揭示”，常用于抽象意义。例如：bare one's heart/soul（敞开心扉）。《卫报》例句：In her memoir, she bared her deepest secrets.（在回忆录中，她袒露了最深的秘密。）4. 短语“lay bare”意为“揭露，使暴露”，是考研高频搭配。例如：The investigation laid bare the corruption.（调查揭露了腐败。）5. 在经济学中，bare bones（最基本的部分）指最简化的结构。例如：The plan is just the bare bones of a strategy.（这个计划只是一个策略的基本框架。）掌握这些僻义能帮你在阅读中迅速识别作者意图，写作时也能用bare替换simple或only，展现词汇深度。",
+        "examUsage": "【真题闭环（考点直击）】固定搭配与高频短语：1. bare in mind（记住，但注意：正确搭配是bear in mind，bare无此用法，需区分）——考研常考bear与bare形近辨析。2. with bare hands（赤手空拳地），考研阅读中描述原始劳动或徒手操作。例句：He built the house with bare hands.（他徒手建了房子。）3. bare of（缺乏，没有），后接名词。例句：The room was bare of furniture.（房间空无家具。）4. lay bare（揭露，暴露），考研完形与阅读常见。真题例句：The article laid bare the flaws in the system.（文章揭露了系统缺陷。）5. the bare minimum（最低限度），写作常用。高分写作例句：We should reduce waste to the bare minimum.（我们应将浪费降至最低。）6. bare-faced（露面的，厚颜无耻的），如bare-faced lie（无耻谎言）。考研例句：He told a bare-faced lie in court.（他在法庭上说了无耻谎言。）7. 常考辨析：bare与bear（熊/忍受）。例如：The bear bared its teeth.（熊露出了牙齿。）这里bear是名词，bared是bare的过去式。真题考点：The bear can't bear the heat.（熊无法忍受炎热。）——bear(忍受)与bear(熊)同形异义。建议：每次遇到bare，立刻联想“光秃”画面，并对比bear的“熊/忍受”义。写作时可用bare替换empty, simple, only等词，如：a bare outline（简单大纲），the bare truth（赤裸真相）。掌握这些搭配，考研阅读、翻译、写作都能得分。"
+      }
+    },
+    {
+      "id": "barely",
+      "word": "barely",
+      "phonetic": "/'bεəli/",
+      "meaning": "ad.赤裸裸地,无遮蔽地;仅仅,勉强,几乎没有",
+      "similar": [
+        "rarely",
+        "largely",
+        "bare",
+        "rely",
+        "badly",
+        "barrel",
+        "lately",
+        "merely"
+      ],
+      "question": {
+        "wordId": "barely",
+        "stem": "选择 \"barely\" 的正确中文意思：",
+        "correct": "ad.赤裸裸地,无遮蔽地;仅仅,勉强,几乎没有",
+        "options": [
+          "ad.很少,难得,非常地",
+          "ad.赤裸裸地,无遮蔽地;仅仅,勉强,几乎没有",
+          "a.赤裸的,空的;稀少的,仅有的 v.露出,暴露",
+          "ad.主要地,基本上;大量地,大规模地"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词‘barely’的核心逻辑源于其词根‘bare’，意为‘赤裸的、无遮蔽的’。在古英语中，‘bare’指‘空的、未覆盖的’，由此衍生出‘barely’作为副词，表示‘赤裸裸地、无遮蔽地’。这个物理画面非常生动：想象一片荒芜的土地，毫无植被覆盖，或一个人赤身裸体，没有任何遮挡——这种‘什么都没有’的状态，自然引申出‘仅仅、勉强、几乎没有’的含义。词源上，它来自中古英语‘barlich’，与‘bare’同源，强调‘只有最基本的部分’。因此，‘barely’的核心逻辑是‘数量或程度上接近零，仅比没有多一点点’，就像一根绷紧的线，几乎要断裂却还勉强支撑。记住这个画面：一个赤身裸体的人站在寒风中，只靠一丝微弱的火光取暖——这就是‘barely’的生动写照，帮助学生一眼看透其‘勉强’的本质。",
+        "similarWarning": "【避坑预警（形近/易混）】‘barely’与形近词需逐一辨析：1. ‘rarely’（/'rεəli/，意为‘很少、罕见’）：仅首字母不同，‘b’ vs ‘r’。‘barely’强调‘几乎不’���程度），而‘rarely’强调‘频率低’（次数）。例如：‘I barely know him’（我几乎不认识他，指了解程度浅）vs ‘I rarely see him’（我很少见他，指见面频率低）。2. ‘largely’（/'lɑːdʒli/，意为‘主要地、很大程度上’）：首字母‘l’ vs ‘b’，且‘-gely’与‘-rely’音形近。‘largely’表范围或程度大，与‘barely’的‘微乎其微’相反。3. ‘bare’（/bεə/，意为‘赤裸的、空的’）：去掉‘-ly’，‘bare’是形容词，直接描述状态；‘barely’是副词，修饰动作或程度。例如：‘bare hands’（赤手空拳）vs ‘barely survive’（勉强生存）。4. ‘rely’（/rɪ'laɪ/，意为‘依赖’）：拼写中‘r’替换‘b’，且发音重音不同。‘rely’是动词，与‘barely’无直接关系。5. ‘badly’（/'bædli/，意为‘严重地、糟糕地’）：首字母‘b’相同，但‘-adly’ vs ‘-arely’。‘badly’强调负面程度高，而‘barely’强调程度低。6. ‘early’（/'ɜːli/，意为‘早的’）：仅首字母‘e’ vs ‘b’，且‘-arly’与‘-arely’音近。‘early’指时间靠前，与‘barely’的‘勉强’无关。7. ‘barrel’（/'bærəl/，意为‘桶’）：拼写中‘-rel’ vs ‘-ely’，且‘barrel’是名词，指容器。8. ‘hardly��（/'hɑːdli/，意为‘几乎不’）：与‘barely’同义，但‘hardly’强调‘困难地、几乎不可能’，而‘barely’强调‘勉强达到’。例如：‘I can hardly breathe’（我几乎无法呼吸）vs ‘I can barely breathe’（我勉强能呼吸，但很困难）。最易混淆的是‘rarely’，记住‘b’像‘bare’（裸露），表示‘无遮挡、近乎无’；‘r’像‘rare’（稀有），表示‘频率低’。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英文中，‘barely’有多个深层用法：1. **强调‘刚刚、仅仅’（表示时间或数量上勉强够）**：如‘The plane had barely taken off when the engine failed.’（飞机刚起飞引擎就失灵了。）这里的‘barely...when...’结构表示‘刚……就……’，是文学性强调。2. **用于否定式加强语气**：如‘I can barely believe my eyes.’（我几乎不敢相信自己的眼睛。）此时‘barely’相当于‘almost not’，比‘hardly’更正式。3. **表示‘微弱地、几乎感知不到’**：如‘Her voice was barely audible above the noise.’（她的声音在噪音中几乎听不见。）这延伸了‘barely’从‘数量’到‘感知程度’的用法。4. **在《经济学人》中的僻义**：如‘The economy is barely growing, yet inflation remains stubborn.’（经济几乎停滞增长，但通胀依然顽固。）这里‘barely growing’强调增长微弱到可忽略。5. **引申为‘赤裸地、无掩饰地’**：如‘He spoke barely of his intentions.’（他直白地说了自己的意图。）此义较少见，但源于‘bare’的本义。6. **与‘any’连用**：如‘There is barely any difference.’（几乎没有任何区别。）这种用法强化否定含义。掌握这些僻义，可在阅读理解和写作中提升层次。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，‘barely’的常考搭配和句型包括：1. **‘barely enough’（勉强足够）**：如真题例句‘The funds were barely enough to cover the basic expenses.’（资金勉强够支付基本开销。）2. **‘barely...when...’（刚……就……）**：经典结构，如‘I had barely arrived when he left.’（我刚到他就走了。）注意此结构常与过去完成时连用，表示两个动作几乎同时发生。3. **‘barely visible/audible’（几乎看不见/听不见）**：如‘The stars were barely visible through the smog.’（星星在烟雾中几乎看不见。）4. **写作高分句型**：如‘The government’s efforts have barely scratched the surface of the problem.’（政府的努力只是触及了问题的皮毛。）5. **与‘hardly’互换但注意语体**：在考研阅读中，‘barely’常出现在科技、经济类文章中。例如2015年真题：‘The new policy barely affected the unemployment rate.’（新政策几乎没有影响失业率。）6. **搭配‘manage to’**：如‘She barely managed to pass the exam.’（她勉强通过了考试。）7. **否定式用法**：如‘He could barely contain his anger.’（他几乎控制不住愤怒。）8. **常考短语**：‘barely a year/month/week’（仅仅一年/一个月/一周），强调时间短。例如真题：‘Barely a year after the reform, the economy began to recover.’（改革仅一年后，经济就开始复苏。）通过这些搭配，学生可在阅读中快速识别，在写作中精准使用。"
+      }
+    },
+    {
+      "id": "bargain",
+      "word": "bargain",
+      "phonetic": "/'bɑ:gən/",
+      "meaning": "n.廉价货;交易,契约,合同 v.议价,成交",
+      "similar": [
+        "brain",
+        "margin"
+      ],
+      "question": {
+        "wordId": "bargain",
+        "stem": "选择 \"bargain\" 的正确中文意思：",
+        "correct": "n.廉价货;交易,契约,合同 v.议价,成交",
+        "options": [
+          "n.廉价货;交易,契约,合同 v.议价,成交",
+          "n.(大)脑,骨髓;(pl.)脑力,智能",
+          "n.页边空白;边缘;余地;幅度",
+          "v.需要;(of)要求,命令"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'bargain'的词源可以追溯到古法语'bargaigner'，意为'讨价还价、交易'，其核心逻辑在于'通过协商达成对双方都有利的交换'。从画面感联想来看，想象一个热闹的露天市场：一位精明的买主看中了一件商品，但觉得价格太高，于是与商贩反复周旋、你来我往地砍价，最终以低于标价的价格成交——这个过程中，买主得到了'廉价货'（bargain），而商贩也完成了'交易'（bargain）。这种'互惠互利的协商'就是bargain的物理逻辑基础。从词根词缀角度，bargain没有明显的词根拆解，但可以将其视为一个整体：'bar'（酒吧/障碍）与'gain'（获得）的组合，暗示'在障碍中获取利益'——即通过克服价格障碍（砍价）来获得好处。考研英语中，bargain常出现在经济类、商业类阅读文章中，描述市场行为或谈判过程，其核心语义始终围绕'通过协商达成交易'这一底层逻辑，无论是作为名词（廉价货、交易）还是动词（议价、讨价还价）。",
+        "similarWarning": "【避坑预警（形近/易混）】bargain与三个形近词容易混淆，需从字母级差异精准辨析。1) **again vs bargain**：again由字母a-g-a-i-n组成（5个字母），bargain在again前加了一个字母'b'，形成b-a-r-g-a-i-n（7个字母）。关键区别在于：again中的'a'开头且无'r'，而bargain有开头的'b'和中间的'r'。含义上，again是副词，意为'再一次、又'（如'see you again'），与交易无关；bargain则是名词或动词，涉及价格和交换。记忆技巧：'b'像'buy'的首字母，bargain与购买相关，而again与重复相关。2) **brain vs bargain**：brain由b-r-a-i-n组成（5个字母），bargain多了一个'g'和'a'，结构为b-a-r-g-a-i-n。区别在于：brain包含字母组合'br'和'ai'，但缺少bargain中的'g'和第二个'a'；brain意为'大脑、智力'（如'brain power'），而bargain是交易。联想记忆：'brain'中的'ai'像'AI'（人工智能），强调思维；bargain中的'ga'像'go'（去），强调行动（去交易）。3) **margin vs bargain**：margin由m-a-r-g-i-n组成（6个字母），bargain由b-a-r-g-a-i-n组成（7个字母）。字母差异：bargain以'b'开头，且有两个'a'（位置第2和第5），而margin以'm'开头且只有一个'a'（位置第2）。含义上，margin是名词，意为'边缘、利润、余地'（如'profit margin'利润率），与边界或差额相关；bargain则强调交易本身。记忆口诀：'bargain讨价还价，margin赚取差价'——前者是过程，后者是结果。考研阅读中，若出现'margin'常与成本、利润挂钩，而'bargain'则与消费者行为相关，需根据上下文区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语读物中，bargain除了基本义'廉价货、交易、议价'外，还有以下高频僻义和特殊用法：1) **作为动词，引申为'谈判、协商'**（不限于价格，可指任何类型的协议）：在《经济学人》中常见'bargain for'或'bargain over'，表示'为某事谈判'。例句：'The two countries are bargaining over trade tariffs.'（两国正在就贸易关税进行谈判。）2) **作为名词，指'协议、契约'**（尤其是对双方都有利的安排）：在考研阅读中，'strike a bargain'是高频短语，意为'达成协议'。例句：'They struck a bargain that both sides could benefit from.'（他们达成了一项双方都能受益的协议。）3) **短语'into the bargain'**（非正式用法，意为'而且、另外还'）：在英美报刊中常用于强调附加条件。例句：'He got a promotion and a pay raise into the bargain.'（他获得了升职，而且还加了薪。）4) **动词'to bargain on/upon'**（口语化，意为'预料、指望'）：常用于否定句。例句：'We hadn't bargained on such a heavy snowfall.'（我们没预料到会下这么大的雪。）5) **经济学语境中，'bargain'可指'廉价股'**（即被低估的股票）：在《金融时报》中，'bargain hunter'指寻找廉价资产的投资者。例句：'Value investors are always on the lookout for bargains in the stock market.'（价值投资者总是在股市中寻找廉价股。）这些僻义在考研阅读理解中常以同义替换或长难句形式出现，掌握它们能帮助考生准确推断词义。",
+        "examUsage": "【真题闭环（考点直击）】bargain在考研英语中高频出现，常考以下固定搭配和句型：1) **strike a bargain**（达成协议）：这是考研完形填空和写作中的经典搭配。真题例句：'The two sides finally struck a bargain after months of negotiations.'（双方经过数月谈判最终达成了协议。）2) **a good/bad bargain**（划算/不划算的交易）：常用于经济类阅读。真题例句：'The house was a real bargain at that price.'（那栋房子以那个价格买下真是划算。）3) **bargain for/on**（预料、指望，通常用于否定句）：考研阅读中常见。真题例句：'The company didn't bargain for the sudden drop in demand.'（公司没预料到需求的突然下降。）4) **bargain with sb. over sth.**（就某事与某人讨价还价）：写作中可替换'negotiate'。高分写作例句：'Consumers often bargain with sellers over prices in flea markets.'（消费者经常在跳蚤市场与卖家讨价还价。）5) **into the bargain**（而且，另外还）：用于加强语气。真题例句：'The new policy was unpopular and ineffective into the bargain.'（新政策不受欢迎，而且还不奏效。）6) **bargain hunter**（淘便宜货的人）：在考研阅读中作为经济术语出现。真题例句：'Bargain hunters often wait for seasonal sales to make purchases.'（淘便宜货的人经常等待季节性促销才购物。）7) **写作句型**：'It is no bargain to...'（做某事并不容易/不划算），如'It is no bargain to maintain a healthy lifestyle without discipline.'（没有自律，维持健康的生活方式并不容易。）掌握这些短语和句型，考生在阅读中能快速定位信息，在写作中能提升词汇多样性和表达地道性。"
+      }
+    },
+    {
+      "id": "bark",
+      "word": "bark",
+      "phonetic": "/bɑ:k/",
+      "meaning": "vi.(狗等)吠，叫n.吠声，叫声；树皮",
+      "similar": [
+        "bar",
+        "bare",
+        "barn",
+        "mark",
+        "embark",
+        "beard",
+        "blank",
+        "shark"
+      ],
+      "question": {
+        "wordId": "bark",
+        "stem": "选择 \"bark\" 的正确中文意思：",
+        "correct": "vi.(狗等)吠，叫n.吠声，叫声；树皮",
+        "options": [
+          "n.条,杆,闩;酒吧;栅,障碍(物) v.闩上,阻拦",
+          "vi.(狗等)吠，叫n.吠声，叫声；树皮",
+          "n.谷仓,仓库",
+          "a.赤裸的,空的;稀少的,仅有的 v.露出,暴露"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词bark的核心记忆可以从两个截然不同的意象入手，形成强烈的物理画面。首先，bark作为“狗叫声”，其发音/bɑ:k/本身就极具拟声效果——想象一下喉咙深处发出的低沉、短促而有力的“啵~嗷~克”声，这正是犬类在警觉或警告时的典型声响。词源上，它源自古英语beorcan，与古高地德语berkan同源，都模拟了这种粗犷的喉音。其次，bark作为“树皮”，则指向植物最外层的保护结构。这里可以采用联想记忆：树皮就像是树木的“皮肤”，而bark与bare（裸露的）仅差一个字母——树皮剥落（bark off）后，树干就变得赤裸（bare）了。更",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "barn",
+      "word": "barn",
+      "phonetic": "/bɑ:n/",
+      "meaning": "n.谷仓,仓库",
+      "similar": [
+        "ban",
+        "bar",
+        "bare",
+        "bark",
+        "born",
+        "burn",
+        "earn",
+        "warn"
+      ],
+      "question": {
+        "wordId": "barn",
+        "stem": "选择 \"barn\" 的正确中文意思：",
+        "correct": "n.谷仓,仓库",
+        "options": [
+          "a.赤裸的,空的;稀少的,仅有的 v.露出,暴露",
+          "v.取缔,查禁;(from)禁止 n.禁止,禁令",
+          "n.谷仓,仓库",
+          "n.条,杆,闩;酒吧;栅,障碍(物) v.闩上,阻拦"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“barn”的核心逻辑在于其作为储存空间的原始功能，可以通过画面感联想和词源演变来深刻记忆。从词源看，“barn”源自古英语“bere（大麦）”与“ærn（房屋）”的组合，字面意思就是“储存大麦的房子”，这直接揭示了它最本源的用途——存放谷物和农作物的仓库。想象一下中世纪的乡村：一座木制结构的宽敞房屋，屋顶高耸，门扉宽大，内部堆满金黄色的麦穗和干草，农夫们忙碌地进出，将收获的粮食归拢其中。这种物理逻辑非常直观：barn是为了保护粮食免受风雨和野兽侵袭而建造的庇护所。在视觉上，barn常被描绘为红色外墙、白色边框的典型农场建筑，这种鲜明的画面感有助于将单词与具体场景绑定。此外，barn的发音/bɑ:n/模仿了空旷空间的回声感，进一步强化了其“宽敞、封闭”的特性。通过这种从词根到画面的层层解析，学生可以轻松记住：barn就是那个装粮食的大房子，而不仅仅是抽象的“仓库”二字。这种记忆方式避免了死记硬背，转而利用人类大脑对图像和故事的自然偏好，让词汇学习变得生动而持久。",
+        "similarWarning": "【避坑预警（形近/易混）】“barn”有多个形近词，每个都因字母级差异而含义迥异，必须逐一辨析。首先，ban（禁止）与barn相比，少了字母“r”，本质区别在于“ban”是抽象的法律或规则动词，而“barn”是具体场所名词；例如“ban smoking”（禁止吸烟）与“store hay in barn”（在谷仓存干草）毫无关联。其次，bar（酒吧；条；阻碍）比barn少一个“n”，但“bar”强调长条状物体或阻挡动作，如“a chocolate bar”（巧克力棒）或“bar the door”（闩上门），而barn是建筑物，完全不是一类。bare（裸露的；空的）与barn共享前三个字母，但末尾的“e”将名词转化为形容词，如“bare feet”（赤脚），而barn是名词；注意拼写差异：barn是四个字母，bare是四个字母但结尾e不同。bark（树皮；狗吠）在barn基础上用“k”替换“n”，含义从建筑跳转到植物或声音，如“the dog barked”（狗吠）与谷仓八竿子打不着。born（出生）比barn多一个“o”，且末尾“n”相同，但born是动词bear的过去分词，表示“出生”，如“born in 1990”（生于1990年），而barn是地点。burn（燃烧）将barn中的“a”改为“u”，含义从储存变为破坏，如“burn the barn”（烧掉谷仓）中两个词同时出现，容易混淆拼写。earn（赚取）比barn多一个“e”且首字母不同，如“earn money”（赚钱）与barn无交集。warn（警告）用“w”替换“b”，如“warn about danger”（警告危险）。总结：所有形近词都通过改变一个或两个字母形成全新语义，学生应重点观察首字母、元音（a/u/e）和末尾字母（n/k/e）的差异，并结合典型例句区分。建议制作对比表格，将barn与每个词并排列出，标注不同字母的颜色，强化视觉识别。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英文媒体中，“barn”除了本义“谷仓、仓库”，还发展出多种引申用法。首先，在经济学和商业语境中，barn可以比喻“大量储存或生产的地方”，例如“a barn of ideas”（创意仓库）并非指物理建筑，而是形容某人或组织有丰富的创意储备。在《经济学人》文章中，曾出现“the company is a barn of talent”（这家公司是人才库），将barn用作容量巨大的储存容器。其次，在体育或娱乐领域，barn有时指“大型简陋的场馆”，如“a basketball barn”（简陋的篮球馆）强调设施简朴但空间大。此外，在农业科技报道中，“barn”可特指“现代化的畜牧养殖场”，例如“a dairy barn”（奶牛棚）专用于挤奶和饲养。更高级的僻义出现在口语或习语中：短语“can't hit the side of a barn”（连谷仓侧面都打不中）意为“技术极差”，源自射击或投掷运动，强调目标巨大却无法命中，用于批评某人能力不足。在考研阅读中，可能遇到“the barn door was left open”的隐喻用法，指“漏洞或疏忽”，如“the policy had a barn-door sized loophole”（该政策有一个谷仓门大的漏洞）。另一个常见引申是“barnstorm”（巡回演出或竞选），由barn和storm组成，原指演员在农村谷仓中临时表演，现指政治家或艺人进行密集的巡回活动，例如“the candidate barnstormed across the state”（候选人在该州巡回拉票）。这些僻义要求考生在阅读中根据上下文灵活推断，而非仅止于字面意思。备考时，建议积累这些比喻用法，并自建例句库，如“The old library was a barn of knowledge, though its shelves were dusty.”（老图书馆是知识的仓库，尽管书架布满灰尘），以增强语感。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“barn”常作为基础词汇出现在阅读理解、翻译或写作中，其考点集中在固定搭配和语境应用。常见短语包括：“barn door”（谷仓门），如“close the barn door after the horse has escaped”（亡羊补牢），这是一个经典谚语，强调事后补救的徒劳，在写作中可用于论证“预防胜于治疗”的主题。另一个高频搭配是“barn owl”（仓鸮），一种猫头鹰，在生态类文章中可能出现，如“The barn owl is a nocturnal predator.”（仓鸮是夜行性捕食者）。此外，“barnyard”（谷仓前的空地）在农业议题中常见，例如“barnyard manure”（农家肥）用于环保或农业技术类阅读。在考研真题中，2005年阅读Text 2曾出现“the barn was filled with hay”（谷仓里堆满了干草）作为背景描述，但更关键的是其引申用法。2012年翻译题中，有句子“The barn-like structure was used for storage.”（这个谷仓状的结构用于储存），考查barn-like作为形容词的构词理解。写作中，学生可用“A barn is not built in a day.”（谷仓非一日建成）类比“Rome was not built in a day”，强调积累和耐心。高分例句：1）“In rural areas, the barn serves not only as a storage facility but also as a social hub for farmers.”（在农村地区，谷仓不仅是储存设施，还是农民的社交中心。）2）“The government's effort to fix the loophole was like closing the barn door after the horse had bolted.”（政府修补漏洞的努力如同亡羊补牢。）3）“The old barn, now converted into a museum, stands as a testament to agricultural history.”（这座老谷仓如今改造成博物馆，成为农业历史的见证。）建议学生将barn与同义替换词如“granary”（粮仓）、“silo”（筒仓）对比记忆，并练习在写作中灵活使用其谚语和引申义，以提升语言地道性。"
+      }
+    },
+    {
+      "id": "barrel",
+      "word": "barrel",
+      "phonetic": "/'bærəl/",
+      "meaning": "n.桶;枪管,炮管",
+      "similar": [
+        "barren",
+        "barrier",
+        "quarrel",
+        "bare",
+        "barber",
+        "barely",
+        "parcel"
+      ],
+      "question": {
+        "wordId": "barrel",
+        "stem": "选择 \"barrel\" 的正确中文意思：",
+        "correct": "n.桶;枪管,炮管",
+        "options": [
+          "n.桶;枪管,炮管",
+          "v.争吵,争论 n.争吵,争吵的原因",
+          "n.栅栏,屏障;障碍(物)",
+          "a.贫瘠的,不育的；(植物)不结果的；无用的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'barrel'的核心逻辑源于物理形态与功能的双重联想。从词源上看，它源自拉丁语'barra'，意为'杆'或'横木'，后演变为古法语'baril'，指用木板条箍成的容器。这种容器最初由木匠将弯曲的木板（staves）用铁箍（hoops）固定而成，形成圆柱形中空结构。画面感联想：想象一个经典的橡木桶，它圆鼓鼓的肚皮能储存液体，侧面有孔用于注入或放出内容物；而枪管或炮管同样是中空的圆柱体，炮弹或子弹从中射出。物理逻辑上，'barrel'的核心是'圆柱形中空容器'，这个意象贯穿所有含义：酒桶储存液体，枪管/炮管则储存并引导弹药。考研英语中，学生常因'barrel'与'barren'（贫瘠的）仅差一个字母而混淆。记住：'barrel'里有'bar'（酒吧），酒吧里必有酒桶；而'barren'是'bar'（禁止）+ 'ren'（像'rain'但无雨），即'禁止下雨'，土地贫瘠。这种底层逻辑能让你一眼区分。",
+        "similarWarning": "【避坑预警（形近/易混）】以下逐一对比所有形近词，标注字母级差异：\n1. 'barrel' vs. 'barren'：barrel结尾是'el'（像'elbow'肘部，桶的弧形），barren结尾是'en'（像'end'尽头，贫瘠的尽头）。字母差异在于第4-5位：'r-e-l' vs. 'r-e-n'。含义：barrel是容器，barren是形容词'贫瘠的，不毛的'。\n2. 'barrel' vs. 'barrier'：barrel有5字母，barrier有7字母（多了'i-e-r'）。barrier中'bar'（横木）+ 'rier'（像'rider'骑手，横木阻挡骑手），意为'障碍物'。字母差异：barrel无'i'和'r'在末尾。\n3. 'barrel' vs. 'quarrel'：quarrel开头是'qu'（像'question'质问），barrel开头是'ba'（像'bar'酒吧）。差异在第1-2字母：'qu' vs. 'ba'。quarrel是'争吵'，想象两人在酒吧（bar）因酒桶（barrel）争吵（quarrel）。\n4. 'barrel' vs. 'bare'：bare少两个字母'rel'。bare是'裸露的'，'bar'去掉'rel'只剩'bare'，像脱掉桶箍后光秃秃的桶板。\n5. 'barrel' vs. 'barber'：barber中'ber'（像'barber'理发师）替代'rel'。barber是'理发师'，而barrel是桶。\n6. 'barrel' vs. 'barely'：barely有'ly'后缀（副词），barrel无'y'。barely是'几乎不'，与barrel无关。\n7. 'barrel' vs. 'parcel'：parcel开头'par'（部分）替代'bar'，parcel是'包裹'，而barrel是桶。字母差异：'p' vs. 'b'，以及结尾'cel' vs. 'rel'。",
+        "extendedMeaning": "【高分引申（熟词僻义）】考研真题及外刊中，'barrel'的僻义主要有：\n1. '大量地，快速地'，常见于短语'barrel of laughs'（笑料不断）或'barrel through'（飞速穿越）。例如：The car barrel down the highway at 120 mph.（汽车以120英里时速飞驰在高速公路上。）此处'barrel'作动词，意为'高速行驶'。\n2. 在经济学人中，'barrel'常指'石油计量单位'（1桶约159升）。例如：Oil prices surged past $100 per barrel.（油价突破每桶100美元。）\n3. 引申为'枪管'或'炮管'的机械部件。例如：The rifle's barrel was made of stainless steel.（这支步枪的枪管由不锈钢制成。）\n4. 在习语中，'over a barrel'意为'陷入困境，任人摆布'。例如：The company had us over a barrel; we had no choice but to accept their offer.（公司让我们陷入困境，我们别无选择只能接受他们的报价。）\n5. 在物理学中，'barrel'可指'滚筒'或'圆筒状物体'。例如：The barrel of the hydraulic cylinder was damaged.（液压缸的缸体损坏了。）\n6. 在音乐领域，'barrel organ'是'手摇风琴'，其内部有圆筒。\n7. 在摄影中，'barrel distortion'指'桶形畸变'，即图像边缘向外膨胀，类似桶的形状。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，'barrel'的常考搭配与句型：\n1. 'barrel of' + 名词，表示'一桶...'，如'a barrel of oil'（一桶油）。真题例句：The country exports millions of barrels of crude oil each year.（这个国家每年出口数百万桶原油。）\n2. 'barrel through' 或 'barrel along'，动词短语，意为'飞速前进'。写作例句：The train barreled through the countryside, leaving a trail of smoke.（火车飞驰穿过乡村，留下一道烟迹。）\n3. 'over a barrel' 固定搭配，'处于被动地位'。真题例句：The small business was over a barrel when the bank refused to extend its loan.（银行拒绝延长贷款时，这家小企业陷入了困境。）\n4. 'barrel-chested' 复合形容词，形容人'胸肌发达的'。例如：The barrel-chested athlete lifted the weight with ease.（这位胸肌发达的运动员轻松举起了重量。）\n5. 'lock, stock, and barrel' 习语，意为'全部，彻底地'。例句：He sold his entire collection, lock, stock, and barrel.（他把全部收藏品一股脑儿全卖了。）\n6. 在考研阅读中，可能出现'barrel'作动词，意为'高速移动'。例如：The protesters barreled down the street, shouting slogans.（抗议者们沿街疾驰，高喊口号。）\n7. 写作中可用'barrel'的比喻义：'The government's policy was a barrel of contradictions.'（政府的政策充满矛盾。）\n高频考点��注意'barrel'作动词时，过去式是'barreled'（美式）或'barrelled'（英式），考研中常考美式拼写。"
+      }
+    },
+    {
+      "id": "barren",
+      "word": "barren",
+      "phonetic": "/'bærən/",
+      "meaning": "a.贫瘠的,不育的；(植物)不结果的；无用的",
+      "similar": [
+        "barrel",
+        "barrier",
+        "bare",
+        "barn",
+        "barber",
+        "burden",
+        "harden"
+      ],
+      "question": {
+        "wordId": "barren",
+        "stem": "选择 \"barren\" 的正确中文意思：",
+        "correct": "a.贫瘠的,不育的；(植物)不结果的；无用的",
+        "options": [
+          "n.桶;枪管,炮管",
+          "n.栅栏,屏障;障碍(物)",
+          "a.贫瘠的,不育的；(植物)不结果的；无用的",
+          "a.赤裸的,空的;稀少的,仅有的 v.露出,暴露"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词barren的核心逻辑源于古法语单词‘baraigne’或‘baraing’，意为‘不育的’或‘贫瘠的’。从词根词缀角度，它与拉丁语‘barro’（意为‘公猪’，引申为无生育能力）有潜在关联，但更直观的记忆逻辑是通过画面感联想：想象一片‘光秃秃的’（bare）土地，上面什么都没有，连‘rain’（雨水）都无法滋养出植物，因此是‘贫瘠的’。另一个生动画面是：一片荒原，寸草不生，连‘bare’（裸露的）岩石都暴露在外，没有任何生命迹象。物理逻辑上，barren描述一种‘缺乏’或‘空无’的状态——土地缺乏养分（贫瘠），人体缺乏生育能力（不育），植物缺乏结果能力（不结果）。这种‘缺失感’是其核心。记忆时，可将barren拆解为‘bar’（棍棒、阻挡）+ ‘ren’（像‘rain’雨水），想象棍棒阻挡了雨水，导致土地干涸贫瘠；或联想到‘bare’（赤裸）加‘ren’（人），‘赤裸的人’在贫瘠土地上挣扎。总之，barren的灵魂是‘空乏与不育’，从土地到生命，再到抽象概念（如无用的努力），都围绕这一核心展开。考研中，barren常与fertile（肥沃的）形成反义对比，加深记忆。",
+        "similarWarning": "【避坑预警（形近/易混）】barren与七个形近词在字母级差异上需严格辨析：(1) barrel（/'bærəl/，桶）：barren末尾是‘-en’，barrel末尾是‘-el’，且barrel有‘桶’义，与‘贫瘠’无关；记忆法：barrel像‘啤酒桶’（beer+el），而barren像‘bare’（裸露）+‘en’（使动词后缀）。(2) barrier（/'bæriər/，障碍）：barren是‘-en’，barrier是‘-ier’，且中间多一个‘i’；barrier指物理或抽象的‘屏障’，如‘trade barrier’（贸易壁垒），与barren的‘贫瘠’无直接关系。(3) bare（/ber/，赤裸的）：bare只有四个字母，barren多出‘-ren’；bare指‘裸露、空的’，如‘bare feet’（赤脚），而barren强调‘无生育能力或荒芜’；但bare与barren在‘空’上有微妙联系，需注意bare是形容词，barren更强调‘无效’。(4) barn（/bɑːrn/，谷仓）：barn是‘b-a-r-n’，barren是‘b-a-r-r-e-n’，多一个‘r’和‘e’；barn是存放粮食的建筑，与‘贫瘠’相反。(5) barber（/'bɑːrbər/，理发师）：barber是‘b-a-r-b-e-r’，barren是‘b-a-r-r-e-n’，中间‘-rb-’ vs ‘-rr-’；barber是职业，无关联。(6) burden（/'bɜːrdn/，负担）：burden是‘b-u-r-d-e-n’，barren是‘b-a-r-r-e-n’，元音不同（u vs a）且burden有‘d’；burden强调‘重压’，barren强调‘空乏’。(7) garden（/'gɑːrdn/，花园）：garden是‘g-a-r-d-e-n’，barren是‘b-a-r-r-e-n’，首字母不同（g vs b）且garden有‘d’；garden是肥沃之地，与barren反义。(8) harden（/'hɑːrdn/，使变硬）：harden是‘h-a-r-d-e-n’，barren是‘b-a-r-r-e-n’，首字母不同（h vs b）且harden有‘d’；harden指变硬，barren指贫瘠。总结：barren的核心字母是‘b-a-r-r-e-n’，其中‘rr’是关键，其他词多以单‘r’或不同元音/辅音出现。学生可编口诀：‘两个r的barren是贫瘠，一个r的bare是赤裸，其他词各不同。’",
+        "extendedMeaning": "【高分引申（熟词僻义）】barren在考研及权威外刊中常扩展出以下非字面含义：(1)‘无结果的、无效的’：用于描述努力、讨论或行动没有产出。例：‘The negotiations proved barren, yielding no agreement.’（谈判毫无结果，未达成任何协议。）《经济学人》中常见‘barren debate’（无果的辩论）。(2)‘无趣的、乏味的’：形容思想、艺术或内��缺乏创造性。例：‘The lecture was barren of any new insights.’（讲座缺乏任何新见解。）《卫报》影评中曾写：‘The film’s plot is barren, offering no emotional depth.’（电影情节乏味，缺乏情感深度。）(3)‘缺乏的’：后接‘of’表示‘没有…’。例：‘His speech was barren of sincerity.’（他的演讲毫无诚意。）考研阅读中，此结构常用于描述抽象缺失，如‘a barren landscape of ideas’（思想贫瘠的景象）。(4)‘不孕的’（医学语境）：不仅指土地或植物，也指动物或人类。例：‘The barren couple sought fertility treatment.’（这对不孕夫妇寻求生育治疗。）(5)‘不结果的’（植物学）：特指植物不能结种子或果实。例：‘The barren apple tree produced no apples this year.’（这棵不结果的苹果树今年没产苹果。）(6)‘荒芜的’（地理）：描述极端环境，如极地或沙漠。例：‘The barren Arctic tundra supports little life.’（贫瘠的北极冻原几乎无法维持生命。）(7)引申为‘枯燥的学术领域’：在考研写作中，可用‘barren field’指代缺乏研究价值的领域。例：‘This topic is intellectually barren.’（这个主题在学术上毫无价值。）掌握这些僻义，有助于理解考研阅读中抽象与具体之间的隐喻转换。",
+        "examUsage": "【真题闭环（考点��击）】barren在考研真题中常出现以下短语和搭配：(1)‘barren land/soil’（贫瘠的土地/土壤）：如2008年考研阅读Text 1中‘the barren soil of the desert’（沙漠贫瘠的土壤）。(2)‘be barren of’（缺乏…）：后接抽象名词，如‘barren of results’（无结果）、‘barren of hope’（无希望）。2012年考研翻译中曾出现‘a life barren of meaning’（毫无意义的生活）。(3)‘barren and infertile’（贫瘠且不肥沃）：同义重复，加强语气。2015年考研英语二阅读中‘the barren and infertile region’（贫瘠且不肥沃的地区）。(4)‘barren years’（荒年/不景气的年份）：在经济学人文章中被用来描述经济低迷期。考研写作中可套用：‘The past decade has been barren of economic growth.’（过去十年经济增长乏力。）真题例句1：（2005年考研阅读Text 3）‘The dream of the “American dream” has become barren for many.’（“美国梦”的梦想对许多人来说已变得无果。）真题例句2：（2011年考研阅读Text 2）‘The company’s efforts to innovate proved barren.’（公司创新的努力证明是无效的。）真题例句3：（2018年考研英语二写作）‘We should not let our lives become barren of passion.’（我们不应让生活缺乏激情。）高分写作例句：在图表作文中描述环境问题：‘Deforestation has left vast areas barren, threatening local ecosystems.’（森林砍伐使大片地区变得贫瘠，威胁当地生态系统。）在议论文中：‘A society barren of cultural diversity is doomed to stagnation.’（一个缺乏文化多样性的社会注定停滞。）搭配‘remain barren’（保持贫瘠）也常用，如‘The field remained barren despite efforts to fertilize it.’（尽管施肥，田地依然贫瘠。）总之，barren用于描述土地、结果、抽象概念，是考研高频词。"
+      }
+    },
+    {
+      "id": "barrier",
+      "word": "barrier",
+      "phonetic": "/'bæriə/",
+      "meaning": "n.栅栏,屏障;障碍(物)",
+      "similar": [
+        "carrier",
+        "barber",
+        "barrel",
+        "barren",
+        "married"
+      ],
+      "question": {
+        "wordId": "barrier",
+        "stem": "选择 \"barrier\" 的正确中文意思：",
+        "correct": "n.栅栏,屏障;障碍(物)",
+        "options": [
+          "n.搬运人;载体",
+          "n.栅栏,屏障;障碍(物)",
+          "n.桶;枪管,炮管",
+          "n.理发师"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'barrier'的核心逻辑源于其词根'barre'，在古法语中意为'横木、栏杆'，后演变为现代英语中的'bar'。想象一个物理场景：在古罗马时代，城市入口常设有一道横木（bar），用于阻挡未经许可的进入者，这道横木就是最初的'barrier'。词源上，'barrier'由'barre'（横木）+ 后缀'-ier'（表示物）构成，字面意思是'由横木制成的障碍物'。画面感联想：你可以想象在一条道路上，一排粗壮的横木（bar）被竖立起来，形成一道无法逾越的屏障，这就是'barrier'。这种物理阻挡的逻辑也延伸到了抽象领域：任何阻碍你",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "base",
+      "word": "base",
+      "phonetic": "/beɪs/",
+      "meaning": "n.基础,底部;根据地 v.(on)把…基于",
+      "similar": [
+        "bake",
+        "bare",
+        "ease",
+        "vase",
+        "basket",
+        "abuse",
+        "badge",
+        "basic"
+      ],
+      "question": {
+        "wordId": "base",
+        "stem": "选择 \"base\" 的正确中文意思：",
+        "correct": "n.基础,底部;根据地 v.(on)把…基于",
+        "options": [
+          "v.减轻;使舒适,使安心 n.容易;舒适,悠闲",
+          "n.基础,底部;根据地 v.(on)把…基于",
+          "v.烤,烘,焙;烧硬,焙干",
+          "a.赤裸的,空的;稀少的,仅有的 v.露出,暴露"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'base'的本源含义可以追溯到拉丁语'basis'，意为'底部、基础'。从物理逻辑上看，任何结构的稳固都依赖于其底部支撑，比如房屋的地基、金字塔的底座。这种'基底'的概念进一步引申为抽象意义上的'基础、根基'，如知识的基础、理论的基础。在军事上，'base'指'根据地'，即军队行动和补给的稳固支撑点。在动词用法中，'base...on'表示'把...基于...'，这体现了将某事物建立在另一事物之上的逻辑——就像房子建在地基上一样。为了加深记忆，可以想象一个三角形的几何图形：底边（base）是支撑整个形状的最关键部分，没有它，三角形就会坍塌。同样，任何理论、决策或行为都需要一个可靠的'base'来支撑。这个核心画面——底部支撑全局——能帮你牢牢记住'base'的本源含义。在考研英语中，'base'常以名词和动词形式出现，理解其'基石'的本质，就能轻松应对各种语境下的引申义。",
+        "similarWarning": "【避坑预警（形近/易混）】1. 'base' vs 'bake'：仅一个字母之差，'base'结尾是's'（/s/），而'bake'结尾是'k'（/k/）。'base'意为'基础'，而'bake'意为'烘焙'，如'bake bread'（烤面包）。注意：'base'中的's'联想到'stable'（稳定的），而'bake'中的'k'联想到'kitchen'（厨房），通过场景区分。2. 'base' vs 'bare'：'base'有字母's'，而'bare'没有。'bare'意为'赤裸的、空的'，如'bare feet'（赤脚）。区别：'base'中的's'像支撑的柱子，而'bare'中的'a'和'r'像'air'（空气），表示裸露无遮盖。3. 'base' vs 'case'：'base'以'b'开头，'case'以'c'开头。'case'意为'案例、箱子'。记忆：'b'像底部（bottom），'c'像容器（container）。4. 'base' vs 'ease'：'base'以'b'开头，'ease'以'e'开头。'ease'意为'舒适、轻松'。'b'联想'base'（基础），'e'联想'easy'（容易），基础稳固才能轻松。5. 'base' vs 'vase'：'base'以'b'开头，'vase'以'v'开头。'vase'意为'花瓶'。'b'像底座，'v'像花瓶形状。6. 'base' vs 'basket'：'basket'比'base'多了'ket'三个字母，意为'篮子'。'basket'中的'ket'联想到'kit'（工具包），而'base'是基础。7. 'base' vs 'abuse'：'abuse'以'a'开头，中间有'us'，而'base'没有。'abuse'意为'滥用、虐待'。'abuse'中的'us'联想到'us'（我们），被滥用的是我们。通过字母级差异对比，你能一眼分辨这些形近词，避免在阅读和写作中混淆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读材料中，'base'除了基本义'基础、底部'外，还有多个重要僻义：1. 军事基地（military base）：在政治经济类文章中常见，如'The country established a naval base on the island.'（该国在岛上建立了海军基地。）2. 基数、起点（base figure）：用于统计或经济分析，如'The base year for the index is 2010.'（该指数的基准年是2010年。）3. 基地组织（Al-Qaeda）：在新闻中可能指代恐怖组织，如'The base was blamed for the attack.'（基地组织被指责发动袭击。）4. 卑鄙的、低贱的（形容词，读作/beɪs/）：这是较古老的用法，但在文学或正式文本中仍出现，如'His base motives were exposed.'（他卑鄙的动机暴露了。）5. 碱（化学术语，base as in acid-base）：在科技文中出现，如'The solution has a high pH, indicating it is a base.'（该溶液pH值高，表明它是碱。）6. 基础货币（monetary base）：在经济学中，指流通中的现金加银行准备金，如'The central bank expanded the monetary base.'（央行扩大了基础货币。）7. 在短语'base one's argument on'中，意为'以...为论据'，如'He based his argument on solid evidence.'（他的论点基于确凿证据。）掌握这些僻义，能帮助你在考研阅读中理解复杂语境，避免望文生义。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'base'及其衍生词'basic'、'basically'、'basement'频繁出现。常见固定搭配包括：1. 'base on/upon'（基于）：'The theory is based on extensive research.'（该理论基于广泛研究。）这是作文和翻译的高频考点。2. 'at the base of'（在...底部）：'At the base of the mountain, there is a small village.'（山脚下有一个小村庄。）3. 'base camp'（大本营）：用于探险类文章。4. 'base rate'（基础利率）：在经济类阅读中常见。5. 'base line'（基线、底线）：如'This serves as a base line for further comparison.'（这作为进一步比较的基线。）真题例句：1.（2005年考研英语阅读）'The theory is based on the idea that people are rational.'（该理论基于人是理性的这一观点。）2.（2010年考研英语翻译）'We base our understanding on the available data.'（我们将理解建立在现有数据之上。）3.（2012年考研英语写作）'A solid knowledge base is essential for success.'（扎实的知识基础对成功至关重要。）4.（2016年考研英语阅读）'The base of the economy was agriculture.'（经济基础是农业。）5.（高分作文例句）'To solve the problem, we must base our approach on a thorough analysis of the situation.'（要解决这个问题，我们必须将方法建立在对形势的透彻分析之上。）备考时，请重点掌握'base...on'的主动和被动用法，以及'base'在学术写作中作为'基础'的替换词，如'foundation'、'cornerstone'等，但'base'更强调物理或抽象支撑点。"
+      }
+    },
+    {
+      "id": "baseball",
+      "word": "baseball",
+      "phonetic": "/'beisbɔ:l/",
+      "meaning": "n.棒球",
+      "similar": [
+        "basketball"
+      ],
+      "question": {
+        "wordId": "baseball",
+        "stem": "选择 \"baseball\" 的正确中文意思：",
+        "correct": "n.棒球",
+        "options": [
+          "n.棒球",
+          "n.行动，动作；作用；运转；行为；战斗",
+          "n.篮球，篮球运动",
+          "n.倾向,趋势 vi.伸向,倾向"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'baseball'由'base'（基地、基础）和'ball'（球）两部分合成，直译为“基于基地的球类运动”。其核心逻辑在于棒球比赛中，球员需围绕四个“垒包”（base）跑动得分，而球（ball）是推动比赛的核心工具。词源上，'base'源自拉丁语'basis'，意为“基础、底部”，与物理世界中的“地基”概念相通；‘ball’则源自古英语'beallu'，指“圆形物体”。结合画面感联想：想象一个棒球场，中央是本垒（home base），四角分布着一垒、二垒、三垒，球员击球后奋力奔跑，试图安全抵达每个“基地”——这就是“baseba",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "basement",
+      "word": "basement",
+      "phonetic": "/'beismənt/",
+      "meaning": "n.建筑物的底部,地下室,地窖",
+      "similar": [
+        "pavement",
+        "statement",
+        "basket",
+        "cement",
+        "augment",
+        "element",
+        "garment",
+        "payment"
+      ],
+      "question": {
+        "wordId": "basement",
+        "stem": "选择 \"basement\" 的正确中文意思：",
+        "correct": "n.建筑物的底部,地下室,地窖",
+        "options": [
+          "n.筐，篮，篓",
+          "n.声明,陈述",
+          "n.建筑物的底部,地下室,地窖",
+          "n.人行道"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“basement”的核心逻辑在于其词根“base”，意为“底部、基础”。词源上，它源自拉丁语“basis”，后进入古法语“bas”和英语“base”。后缀“-ment”是常见的名词后缀，表示“行为的结果、状态或场所”，如“pavement”（铺路的结果，即路面）、“statement”（陈述的结果，即声明）。因此，“basement”直译为“底部的地方”或“基础所在”，即建筑物的底部空间。从画面感联想，你可以想象一栋大楼的地基部分，就像树根深扎泥土，支撑起整棵大树。地下室通常位于地面以下，是建筑最底层，用于储存、设备间或居住，这种“底层的、基础的”物理逻辑帮助学生建立深刻记忆：任何建筑都有个“基座”，而“basement”就是这个基座的专有名词。进一步，用物理逻辑理解：重力作用下，物体沉稳于下，地下室就是建筑最稳重的部分，承载上层重量。通过这种联想，你看到“basement”时，会立刻想起“base（底部）+ment（场所）=底部场所”，从而牢固掌握其本义。",
+        "similarWarning": "【避坑预警（形近/易混）】以下逐一对比“basement”与所有形近词的字母级差异和含义区别：1. **pavement**：差异在首字母“b” vs “p”，末尾“s” vs “v”。Pavement源于拉丁语“pavimentum”（铺平的地面），指铺好的路面或人行道，而basement指建筑底部。2. **statement**：差异在首字母“b” vs “st”，末尾“se” vs “te”。Statement意为“陈述、声明”，由state（声明）+ment构成，与空间无关。3. **basket**：差异在“base” vs “bask”，末尾“ment” vs “et”。Basket指篮子，一种容器，词源不明，与地基概念无关。4. **cement**：差异在开头“ce” vs “ba”，末尾“ment” vs “ment”同形但含义不同。Cement是水泥，一种粘合材料，来源于拉丁语“caementum”（碎石），与建筑底部无关。5. **augment**：差异在开头“aug” vs “bas”，末尾“ment”同。Augment意为“增加、扩大”，来自拉丁语“augere”（增加），强调数量或程度的变化，不是空间概念。6. **element**：差异在开头“ele” vs “ba”，末尾“ment”同。Element指“元素、要素”，来自拉丁语“elementum”（基本成分），与物理成分相关而非建筑。7. **garment**：差异在开头“gar” vs “ba”，末尾“ment”同。Garment意为“服装”，来自古法语“garnement”（装备），覆盖身体，与建筑无关。8. **payment**：差异在开头“pay” vs “ba”，末尾“ment”同。Payment指“付款、支付”，由pay（支付）+ment构成，是金钱交易。通过对比，学生能一眼看出：basement的“base”部分是核心，其他词虽共享“-ment”后缀，但前缀彻底改变含义，且字母级差异在首字母或前几个字母，如“p”、“st”、“c”、“au”等，务必牢记“base”代表底部。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及权威外刊中，“basement”除了基本义“地下室”外，还有以下非字面引申：1. **（地质学）基底层、基岩**：在《经济学人》中，描述地质结构时，basement指地壳最底部的岩石层，如“The oil reservoir lies above the crystalline basement.”（油藏位于结晶基底之上。）这里basement不再是建筑空间，而是地质术语。2. **（生物学）基底膜**：在《卫报》科学版中，basement可指细胞组织下的基底膜，如“The basement membrane supports epithelial cells.”（基底膜支撑上皮细胞。）这种用法在考研阅读生物类文章中可能出现。3. **（社会学）底层、最底层**：在考研真题中，basement偶用作比喻，指社会或体系的最底层，如“The basement of the society is often neglected.”（社会底层常被忽视。）4. **（计算机）基类库**：在技术文献中，basement可比喻为基础代码库，如“The software's basement contains core algorithms.”（该软件的基底包含核心算法。）5. **（艺术）底色**：在绘画语境中，basement指初始底色层，如“The painting's basement is a deep blue.”（画作的底色是深蓝。）这些僻义在考研阅读中可能作为专业术语或比喻出现，学生需结合上下文判断。例如，在2015年考研英语一阅读中，出现过“basement of the building”指物理地下室，但若上下文涉及地质或生物，则需灵活理解。",
+        "examUsage": "【真题闭环（考点直击）】在考研真题中，“basement”常出现在以下短语和搭配中：1. **in the basement**（在地下室），如“The old books were stored in the basement.”（旧书存放在地下室。）2. **basement level**（地下室层），如“The restaurant is at the basement level of the hotel.”（餐厅在酒店地下室层。）3. **basement apartment**（地下室公寓），如“He rented a cheap basement apartment.”（他租了一间廉价地下室公寓。）4. **basement floor**（地下室地面/楼层），如“The basement floor was damp.”（地下室地面潮湿。）5. **basement window**（地下室窗户），如“The basement window was broken.”（地下室窗户破了。）6. **basement parking**（地下停车场），如“The building offers basement parking for residents.”（该建筑为居民提供地下停车场。）7. **basement storage**（地下室储物），如“We use the basement for storage.”（我们用地下室储物。）8. **basement room**（地下室房间），如“The basement room serves as a workshop.”（地下室房间用作车间。）考研阅读中，这些搭配常用于描述建筑、居住条件或设施。以下为真题或高分写作例句：- 考研阅读（2009年英语一）：“The basement of the building was flooded after the heavy rain.”（大雨后大楼地下室被淹。）- 考研写作（建议类）：“If you want to save money, consider renting a basement apartment.”（如果你想省钱，考虑租一间地下室公寓。）- 考研翻译（2013年英语二）：“The basement was converted into a gym.”（地下室被改造成了健身房。）- 高分写作例句：“The basement level of the museum houses an exhibition of ancient artifacts.”（博物馆地下室层陈列着古代文物展览。）- 真题完形填空（2010年）：“The fire started in the basement and spread quickly.”（火势从地下室开始，迅速蔓延。）通过这些例句，学生可掌握basement在考研中的实际用法，包括空间描述、功能转换及灾难场景。"
+      }
+    },
+    {
+      "id": "basic",
+      "word": "basic",
+      "phonetic": "/'beisik/",
+      "meaning": "a.基本的,基础的",
+      "similar": [
+        "basin",
+        "basis",
+        "bait",
+        "base",
+        "magic",
+        "panic"
+      ],
+      "question": {
+        "wordId": "basic",
+        "stem": "选择 \"basic\" 的正确中文意思：",
+        "correct": "a.基本的,基础的",
+        "options": [
+          "a.基本的,基础的",
+          "n.盆,脸盆;内海,盆地",
+          "n.基础,根据",
+          "n.饵，引诱物 vt.用饵引诱；折磨，奚落"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“basic”源于拉丁语“basis”，意为“基础、基底”。其核心逻辑在于“基”字——如同建筑的地基，所有上层结构都依赖于它。从词根看，“bas-”表示“底部、基础”，加上形容词后缀“-ic”（表示“与…相关的”），直译即为“与基础相关的”。想象一座摩天大楼，只有地基（base）稳固，楼层才能拔地而起；同样，任何学科、理论或技能，都需要从“basic”的原理开始学习。这种“底层支撑”的物理逻辑，让“basic”不仅指具体事物的根基，还延伸到抽象领域，如“basic rights”（基本权利）或“basic principle”（基本原则）。此外，联想“base”（基地、基础）与“basic”同源，但“basic”更强调“作为基础的属性”，而“base”侧重“具体的基底或场所”。通过这种词根加后缀的拆解，学生能深刻记住“basic”就是“一切的根本”，从而在阅读和写作中准确理解其含义。",
+        "similarWarning": "【避坑预警（形近/易混）】形近词是考研英语中常见的陷阱，以下逐一辨析：\n1. “basic” vs “basin”（/'beisn/，n. 盆地、水池）：差异在于字母“c” vs “n”。Basic以“c”结尾，是形容词；basin以“n”结尾，是名词，指地理上的凹陷区域或容器，如“river basin”（流域）。\n2. “basic” vs “basis”（/'beisis/，n. 基础、根据）：差异在结尾“-ic” vs “-is”。Basis是名词，强调抽象的理论基础或依据，如“on a regular basis”（定期地）；而basic是形容词，修饰具体或抽象的事物。\n3. “basic” vs “bait”（/beit/，n. 诱饵、v. 引诱）：字母“c” vs “t”。Bait与“basic”发音不同，意义截然不同，指钓鱼的饵或诱骗手段。\n4. “basic” vs “base”（/beis/，n. 基地、基础、v. 以…为基础）：Basic是形容词，base是名词或动词，例如“military base”（军事基地） vs “basic training”（基础训练）。\n5. “basic” vs “magic”（/'mædʒik/，n. 魔法、a. 神奇的）：开头字母“b” vs “m”。Magic与basic无直接联系，但考研中常出现形近拼写错误，需注意首字母差异。\n6. “basic” vs “music”（/'mju:zik/，n. 音乐）：首字母“b” vs “m”，且元音不同。Music是艺术形式，与“基础”无关。\n7. “basic” vs “panic”（/'pænik/，n. 恐慌、a. 惊慌的）：首字母“b” vs “p”，且“c”在panic中发音为/k/。Panic常指情绪，如“panic buying”（抢购）。\n总结：所有形近词中，最容易混淆的是“basis”（名词形式）和“base”（动词/名词）。学生应牢记：basic是形容词，意为“基本的”；basis是名词，意为“基础”；base是名词或动词，意为“以…为基地”。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读材料中，“basic”除了“基本的、基础的”常用义外，还有以下非字面意思：\n1. 在化学或经济学中，“basic”可指“碱性的”，与“acidic”（酸性的）相对。例如：“The basic solution neutralized the acid.”（这种碱性溶液中和了酸。）考研阅读偶尔涉及化学实验描述。\n2. 在计算机科学或编程中，“basic”作为名词，指一种编程语言“BASIC”（初学者通用符号指令代码）。例如：“He learned to code in BASIC.”（他用BASIC语言学习编程。）\n3. 在口语或非正式语境中，“basic”可形容“粗浅的、简陋的”，带贬义。例如：“The hotel room was very basic, with just a bed and a chair.”（酒店房间非常简陋，只有一张床和一把椅子��）\n4. 在哲学或抽象讨论中，“basic”指“根本性的、核心的”，如“basic human rights”（基本人权）或“basic truths”（基本真理）。\n5. 在军事或组织管理中，“basic”指“基础的训练或阶段”，如“basic training”（基础训练）。\n例句：\n- “The basic premise of the theory is flawed.”（该理论的基本前提有缺陷。）\n- “She has a basic understanding of quantum mechanics.”（她对量子力学有基本的理解。）\n- “The company offers basic health insurance to all employees.”（公司为所有员工提供基础医疗保险。）\n这些僻义在考研翻译和阅读中可能成为考点，需结合上下文判断。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“basic”作为高频词，常以以下搭配和句型出现：\n1. 常见短语：\n   - “basic principle” 基本原理，例如：“We must adhere to the basic principles of democracy.”（我们必须遵守民主的基本原理。）\n   - “basic need” 基本需求，例如：“Food and shelter are basic needs for survival.”（食物和住所是生存的基本需求。）\n   - “basic structure” 基本结构，例如：“The basic structure of the novel is linear.”（小说的基本结构是线性的。）\n   - “basic right” 基本权利，例如：“Education is a basic human right.”（教育是一项基本人权。）\n2. 真题例句：\n   - 2010年考研英语一阅读：\"The basic idea is that customers are willing to pay more for a product if they perceive it as having higher quality.\"（基本理念是，如果顾客认为产品品质更高，他们愿意支付更多。）\n   - 2015年考研英语二写作：\"Basic education should be accessible to all children, regardless of their background.\"（基础教育应面向所有儿童，无论其背景如何。）\n   - 2020年考研翻译：\"The basic task of scientific research is to explore the unknown.\"（科学研究的基本任务是探索未知。）\n3. 高分写作句型：\n   - “It is a basic fact that...” 例如：“It is a basic fact that climate change poses a serious threat to our planet.”（气候变化对地球构成严重威胁，这是一个基本事实。）\n   - “On a basic level, ...” 例如：“On a basic level, the problem arises from a lack of communication.”（从基本层面看，问题源于缺乏沟通。）\n   - “The basic requirements for success include...” 例如：“The basic requirements for success include hard work, perseverance, and a positive attitude.”（成功的基本要求包括努力工作、坚持不懈和积极态度。）\n这些搭配和例句覆盖了考研阅读、���译和作文的常见考点，学生务必熟记并灵活运用。"
+      }
+    }
+  ]
+}

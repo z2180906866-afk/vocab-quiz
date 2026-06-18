@@ -1,0 +1,1624 @@
+{
+  "batchId": 28,
+  "words": [
+    {
+      "id": "enable",
+      "word": "enable",
+      "phonetic": "/i'neibl/",
+      "meaning": "v.使能够,使成为可能;授予权利或方法",
+      "similar": [
+        "able",
+        "cable",
+        "eagle",
+        "fable",
+        "noble",
+        "edible",
+        "liable",
+        "stable"
+      ],
+      "question": {
+        "wordId": "enable",
+        "stem": "选择 \"enable\" 的正确中文意思：",
+        "correct": "v.使能够,使成为可能;授予权利或方法",
+        "options": [
+          "n.电报;电缆;缆,索,钢丝绳 v.拍电报",
+          "n.鹰",
+          "a.有(能力、知识等)做某事，有本事的",
+          "v.使能够,使成为可能;授予权利或方法"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "en-（使动前缀，使成为）+ able（能够的）→ 使能够，使成为可能。核心动作：赋予能力或可能性。",
+        "similarWarning": "enable vs. unable: en-（使）+ able（能够）→ 使能够；un-（不）+ able（能够）→ 不能的。",
+        "extendedMeaning": "授予权利或方法（考研中常引申为法律/技术语境下的'授权'或'启用'功能）",
+        "examUsage": "常考搭配：enable sb. to do sth.（使某人能够做某事），注意与allow的辨析：enable强调提供手段或能力，allow侧重允许。真题例句：The new policy enables the company to expand its market.（新政策使公司能够拓展市场。）"
+      }
+    },
+    {
+      "id": "enclose",
+      "word": "enclose",
+      "phonetic": "/in'kləuz/",
+      "meaning": "v.围住,圈起,封入",
+      "similar": [
+        "enclosure",
+        "disclose",
+        "envelope"
+      ],
+      "question": {
+        "wordId": "enclose",
+        "stem": "选择 \"enclose\" 的正确中文意思：",
+        "correct": "v.围住,圈起,封入",
+        "options": [
+          "v.围住,圈起,封入",
+          "n.围住,圈起,封入,附件",
+          "v.揭示,泄露",
+          "n.信封,信皮;封套"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "en-（使）+ close（关闭）→ 使关闭起来 → 围住、圈起、封入。核心动作是“将某物封闭在内部”，如用墙围住土地或把文件装入信封。",
+        "similarWarning": "enclosure（n.围场，附件）：enclose的名词形式，强调围起来的地或随信附件。close（v.关闭）：少了en-前缀，只表示关的动作，不强调包围。disclose（v.揭露）：dis-（相反）+ close（关闭）→ 打开封闭物，即揭露秘密，与enclose反义。envelope（n.信封）：发音相似但拼写不同，envelope是名词，enclose是动词。",
+        "extendedMeaning": "在考研阅读中，enclose常引申为“包含、附带”，如文档或信件中“随函附上”某物，强调将内容包含在内部。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "enclosure",
+      "word": "enclosure",
+      "phonetic": "/in'kləuʒə/",
+      "meaning": "n.围住,圈起,封入,附件",
+      "similar": [
+        "enclose",
+        "exposure"
+      ],
+      "question": {
+        "wordId": "enclosure",
+        "stem": "选择 \"enclosure\" 的正确中文意思：",
+        "correct": "n.围住,圈起,封入,附件",
+        "options": [
+          "a.含蓄的;(in)固有的;无疑问的;绝对的",
+          "n.围住,圈起,封入,附件",
+          "v.围住,圈起,封入",
+          "n.暴露,揭露;方向;陈列;遗弃;照射量"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "en-（向内）+ close（关闭）+ -ure（名词后缀）→ 向内关闭的动作或状态 → 围住、圈起。核心物理动作：将某物从外部隔离开来，形成一个封闭空间。",
+        "similarWarning": "enclose（v.围住，附上）：enclosure的名词形式，动作与结果的区别。exposure（n.暴露，接触）：ex-（向外）+ pos-（放置）+ -ure，与enclosure方向相反（向外放置 vs 向内关闭）。",
+        "extendedMeaning": "在考研阅读中常引申为‘圈地’（历史语境：英国圈地运动），或‘附件’（如邮件中的附加文件）。",
+        "examUsage": "真题考点：the enclosure of land（圈地运动），常用于历史或经济类文章，作为背景术语出现。"
+      }
+    },
+    {
+      "id": "encounter",
+      "word": "encounter",
+      "phonetic": "/in'kauntə/",
+      "meaning": "n./v.遇到,遭遇",
+      "similar": [
+        "counter"
+      ],
+      "question": {
+        "wordId": "encounter",
+        "stem": "选择 \"encounter\" 的正确中文意思：",
+        "correct": "n./v.遇到,遭遇",
+        "options": [
+          "n./v.遇到,遭遇",
+          "n.柜台;计数器 a./ad.相反(的) v.反对,反击",
+          "a.古怪的，离奇的；怪诞的，神秘而可怕的",
+          "v.松开,解开"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "en-=使进入，counter-=对抗、反对。核心动作：进入对抗状态→遭遇、碰见。词源本义是“面对面冲突”，引申为偶然遇见（无论好坏）。",
+        "similarWarning": "counter（n./v. 柜台；反驳）: en- + counter 强调“进入对抗”，而 counter 本身侧重“反对或计数”。字母差异：encounter 多前缀 en-，词义偏向“遭遇”；counter 无前缀，作动词时意为“反驳”。",
+        "extendedMeaning": "考研僻义：n. 短暂而偶然的相遇（尤指与陌生人或新奇事物），例如：a chance encounter（偶遇）；v. 遭遇（困难、问题等），如 encounter resistance（遇到阻力）。",
+        "examUsage": "真题考点：常用搭配 encounter problems/difficulties（遇到问题/困难），以及 encounter sb./sth.（偶然遇到某人/某事）。干扰项常考其与 meet（特意安排）的区别，如真题中“encounter a new culture”强调非预期的文化冲击。"
+      }
+    },
+    {
+      "id": "encourage",
+      "word": "encourage",
+      "phonetic": "/in'kʌridʒ/",
+      "meaning": "v.鼓励,怂恿",
+      "similar": [
+        "courage",
+        "discourage"
+      ],
+      "question": {
+        "wordId": "encourage",
+        "stem": "选择 \"encourage\" 的正确中文意思：",
+        "correct": "v.鼓励,怂恿",
+        "options": [
+          "n.勇气,胆量",
+          "v.鼓励,怂恿",
+          "a.(for)足够的,充分的(比enough拘谨、正式)",
+          "v.使泄气,使失去信心"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "en-（使处于...状态）+ courage（勇气）→ 使有勇气 → 鼓励、怂恿。核心动作：通过外部支持使某人内心产生勇气或动力。",
+        "similarWarning": "courage（n.勇气） vs discourage（v.使泄气，dis-否定+ courage） vs encourage（v.鼓励，en-使+ courage）。拼写差异在于前缀en-（使）与dis-（否定），词义对立。",
+        "extendedMeaning": "在考研真题中，encourage可引申为“促进、助长”，常指某种行为或政策间接导致某种结果，如“encourage economic growth”（促进经济增长），强调因果推动而非单纯精神激励。",
+        "examUsage": "真题考点：encourage sb. to do sth.（鼓励某人做某事）为高频搭配；注意与discourage sb. from doing sth.（劝阻某人做某事）在语意上的对立干扰。例句：The policy encourages people to save energy.（这项政策鼓励人们节约能源。）"
+      }
+    },
+    {
+      "id": "encyclopedia",
+      "word": "encyclopedia",
+      "phonetic": "/ɪnˌsaɪklə'pi:diə/",
+      "meaning": "n.(encyclopaedia)百科全书",
+      "similar": [],
+      "question": {
+        "wordId": "encyclopedia",
+        "stem": "选择 \"encyclopedia\" 的正确中文意思：",
+        "correct": "n.(encyclopaedia)百科全书",
+        "options": [
+          "n.(encyclopaedia)百科全书",
+          "a.被动的,消极的",
+          "a.易受影响的;易受感动的;易受感染的",
+          "a.竞争的；好竞争的；(价格等的)有竞争力的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "en-（在内）+ cycle（圆环）+ -pedia（教育），字面意为‘循环教育’或‘全面教育’。源自古希腊语 ἐγκύκλιος παιδεία (enkýklios paideía)，指‘普通教育’或‘通识教育’，后演变为涵盖所有知识的书籍，即百科全书。核心动作：将知识圈成一个完整的圆环（全面覆盖）。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常作‘某领域的知识大全’或‘综合性资料汇编’的比喻，如‘a walking encyclopedia’（活字典，指知识渊博的人）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "endeavor",
+      "word": "endeavor",
+      "phonetic": "/in'devə/",
+      "meaning": "v./n.(endeavour)努力,尽力,力图",
+      "similar": [],
+      "question": {
+        "wordId": "endeavor",
+        "stem": "选择 \"endeavor\" 的正确中文意思：",
+        "correct": "v./n.(endeavour)努力,尽力,力图",
+        "options": [
+          "v.请求,恳求;祈祷,祈求",
+          "vt.实现，完成；达到，得到vi.达到预期目的",
+          "n.共和国,联邦,共同体",
+          "v./n.(endeavour)努力,尽力,力图"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自中古英语'endeveren'，由'en-'（使进入某种状态）和'dever'（职责、义务）组成，核心动作是'投入职责中'，即竭尽全力去完成义务。词根演变强调主动、持续的努力，而非一时冲动。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研真题中常作动词，表示'试图、力图'，后接不定式，强调有目的性的尝试，如'endeavor to improve the situation'。",
+        "examUsage": "高频搭配：'endeavor to do sth.'（努力做某事）。真题例句：'They must endeavor to keep the balance between work and life.'（他们必须努力保持工作与生活的平衡。）注意与'effort'（侧重付出的体力/脑力）和'try'（口语化尝试）的区分。"
+      }
+    },
+    {
+      "id": "ending",
+      "word": "ending",
+      "phonetic": "/'endiŋ/",
+      "meaning": "n.结尾,结局",
+      "similar": [
+        "finding",
+        "heading",
+        "leading",
+        "reading",
+        "wedding",
+        "engine"
+      ],
+      "question": {
+        "wordId": "ending",
+        "stem": "选择 \"ending\" 的正确中文意思：",
+        "correct": "n.结尾,结局",
+        "options": [
+          "n.标题",
+          "n.结尾,结局",
+          "n.发现,发现物;(常pl.)调查/研究结果",
+          "a.领导的,指导的;第一位的;最主要的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "end（末端）+ -ing（名词后缀）→ 表示动作或状态的结果，即“结尾、结局”。核心物理动作是“到达末端”，引申为事件或过程的终止点。",
+        "similarWarning": "ending vs. engine（引擎）: ending 以 -ing 结尾，侧重“结束”；engine 以 -ine 结尾，指机械装置。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "endow",
+      "word": "endow",
+      "phonetic": "/in'dau/",
+      "meaning": "vt.资助，捐赠；(with)给予，赋予",
+      "similar": [
+        "meadow",
+        "undo",
+        "elbow",
+        "enjoy",
+        "widow"
+      ],
+      "question": {
+        "wordId": "endow",
+        "stem": "选择 \"endow\" 的正确中文意思：",
+        "correct": "vt.资助，捐赠；(with)给予，赋予",
+        "options": [
+          "v.松开,解开",
+          "n.肘，(衣服的)肘部vt.用肘推，用肘挤",
+          "n.草地,牧场",
+          "vt.资助，捐赠；(with)给予，赋予"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "en-（进入，使）+ dow（给予，来自拉丁语dotare，意为“给予”）。核心动作：使进入给予状态 → 给予资金（资助、捐赠）或给予特质（赋予）。",
+        "similarWarning": "endow vs. end（结束）：endow含“给予”，end表“终止”，字母差异在“ow”与“无ow”。endow vs. meadow（草地）：meadow含“草”，endow含“给予”，拼写差异在“m”与“en”。endow vs. undo（撤销）：undo含“否定”，endow含“赋予”，差异在“un”与“en”。",
+        "extendedMeaning": "be endowed with （被赋予……特质）：在考研阅读中常指人或事物天生具备某种能力或属性，如“be endowed with intelligence”（被赋予智慧），非字面“捐赠”义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "endurance",
+      "word": "endurance",
+      "phonetic": "/in'djuərəns/",
+      "meaning": "n.忍耐(力),持久(力),耐久(性)",
+      "similar": [
+        "entrance",
+        "insurance",
+        "enhance",
+        "assurance"
+      ],
+      "question": {
+        "wordId": "endurance",
+        "stem": "选择 \"endurance\" 的正确中文意思：",
+        "correct": "n.忍耐(力),持久(力),耐久(性)",
+        "options": [
+          "n.忍耐(力),持久(力),耐久(性)",
+          "n.入口,门口;进入;入学,入会",
+          "n.保险,保险费,保险业",
+          "v.提高,增强"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语indurare，en-（使）+ dur（坚硬、持久）+ -ance（名词后缀），字面意为“使变得坚硬”，引申为在压力下保持坚挺的能力，即忍耐力或持久性。核心动作是“硬扛、不屈服”。",
+        "similarWarning": "entrance（入口/使入迷，en-进入+trance状态）、insurance（保险，in-内+sure安全+ance）、enhance（增强，en-使+high高）、assurance（保证，as-向+sure确定+ance）。endurance侧重“持久承受”，与“保证、增强”等无直接关联。",
+        "extendedMeaning": "在考研阅读中常指“耐用性、续航能力”，如产品、材料或系统的长期性能，而非仅指人的忍耐。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "endure",
+      "word": "endure",
+      "phonetic": "/in'djuə/",
+      "meaning": "v.忍受,持久,持续",
+      "similar": [
+        "ensure",
+        "enquire",
+        "venture",
+        "entire",
+        "induce",
+        "injure",
+        "insure"
+      ],
+      "question": {
+        "wordId": "endure",
+        "stem": "选择 \"endure\" 的正确中文意思：",
+        "correct": "v.忍受,持久,持续",
+        "options": [
+          "v.忍受,持久,持续",
+          "v.确保,保证;使安全",
+          "v.(inquire)询问,打听;调查;查问",
+          "v.冒险,拼;大胆表示 n.冒险事业,拼,闯"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "en- (使进入) + dure (持续，坚硬) → 使进入持续状态 → 忍受、持久。核心动作：在压力或时间下保持坚硬不破，持续存在。",
+        "similarWarning": "ensure (en-使 + sure确定) 确保；enquire (en-内 + quire问) 询问；venture (vent-来 + -ure) 冒险；entire (en- + tire拉) 完整的；induce (in-入 + duce引导) 诱导；injure (in-不 + jure法律) 伤害；insure (in- + sure确定) 保险。区别：endure强调忍受持续，ensure强调确保结果。",
+        "extendedMeaning": "考研僻义：在科技或经济类文章中，常表示‘持续存在’或‘耐受’，如‘endure economic hardship’（承受经济困难）或‘endure criticism’（经受批评），非简单生理忍受。",
+        "examUsage": "真题考点：固定搭配‘cannot endure to do/doing’（无法忍受做某事），常作为阅读中情感态度题的干扰项（表示坚持或容忍）。例：‘She could not endure to see animals cruelly treated.’"
+      }
+    },
+    {
+      "id": "energetic",
+      "word": "energetic",
+      "phonetic": "/ˌenə'dʒetik/",
+      "meaning": "a.精力旺盛的;积极的;有力的",
+      "similar": [],
+      "question": {
+        "wordId": "energetic",
+        "stem": "选择 \"energetic\" 的正确中文意思：",
+        "correct": "a.精力旺盛的;积极的;有力的",
+        "options": [
+          "n.视力",
+          "v./n.闪耀,闪烁",
+          "n.渴,口渴;(for)渴望,热望",
+          "a.精力旺盛的;积极的;有力的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语‘energeia’（活动、运作），由‘en-’（在...之内） + ‘ergon’（工作）构成。核心动作：内部有工作能力→精力充沛的。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为‘充满活力的、积极的’，用于描述组织、经济或政策的活跃状态，如energetic market（活跃的市场）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "energy",
+      "word": "energy",
+      "phonetic": "/'enədʒi/",
+      "meaning": "n.活力,精力;能,能量",
+      "similar": [
+        "entry",
+        "clergy",
+        "emerge"
+      ],
+      "question": {
+        "wordId": "energy",
+        "stem": "选择 \"energy\" 的正确中文意思：",
+        "correct": "n.活力,精力;能,能量",
+        "options": [
+          "n.活力,精力;能,能量",
+          "n.进入,入口;通道;记载,条目",
+          "n.[总称]牧师，神职人员",
+          "vt.显现,浮现;暴露;形成;"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 energeia，由 en-（在…之内）+ ergon（工作）构成，核心物理动作是“内在做功的能力”，强调驱动事物运转的潜在力量。",
+        "similarWarning": "enemy（敌人）：en-（不）+ am-（爱），即“不爱的人”；energy 强调内在能力。entry（进入）：en-（进入）+ try（尝试），侧重动作；energy 侧重内在能量。",
+        "extendedMeaning": "在考研阅读中常引申为“（社会、经济等的）活力、动力”，如 economic energy（经济活力）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "enforce",
+      "word": "enforce",
+      "phonetic": "/in'fɔ:s/",
+      "meaning": "v.实施,执行;强制;支持,坚持(要求,主张等)",
+      "similar": [
+        "reinforce"
+      ],
+      "question": {
+        "wordId": "enforce",
+        "stem": "选择 \"enforce\" 的正确中文意思：",
+        "correct": "v.实施,执行;强制;支持,坚持(要求,主张等)",
+        "options": [
+          "n.用具,机构,全套装配 v.配备,(得到)装备",
+          "v.增援,加强",
+          "v.实施,执行;强制;支持,坚持(要求,主张等)",
+          "ad.向外面 n.外部 a.外部的 prep.在…外"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "en-（使进入状态） + force（力量，强制）→ 将力量施加于某事上 → 实施、强制执行。核心动作：用外力迫使某事发生或遵守。",
+        "similarWarning": "reinforce（re-再次 + inforce？非也，实为re- + inforce？错，是re- + enforce？不，reinforce = re- + inforce？正确拼写为reinforce，源自re- + inforce？实际是re- + enforce？不，词源为re- + inforce？常见易混：enforce vs reinforce。enforce强调首次施加力量使遵守；reinforce强调再次加强、增援，如reinforce troops（增援部队）或reinforce a wall（加固墙）。字母差异：enforce无前缀“re-”，reinforce多“re-”。",
+        "extendedMeaning": "考研僻义：支持、坚持（主张、要求等），如enforce one's argument（坚持自己的论点），enforce a claim（坚持要求）。此义源自“用力量维持”，非简单法律执行。",
+        "examUsage": "真题考点：enforce常与law, rule, regulation搭配，但考研阅读中可能考其被动结构be enforced（被强制执行）及与implement（实施）的同义替换。例句：The new regulation will be enforced from next month.（新规下月起执行。）干扰项常设force与enforce混淆。"
+      }
+    },
+    {
+      "id": "engage",
+      "word": "engage",
+      "phonetic": "/ɪn'geɪdʒ/",
+      "meaning": "v.(in)从事,着手;约定;使订婚;保证;雇用",
+      "similar": [
+        "enlarge",
+        "engine",
+        "envisage"
+      ],
+      "question": {
+        "wordId": "engage",
+        "stem": "选择 \"engage\" 的正确中文意思：",
+        "correct": "v.(in)从事,着手;约定;使订婚;保证;雇用",
+        "options": [
+          "v.想象，设想，展望，正视",
+          "n.发动机,引擎;火车头",
+          "vt.扩大,放大,增大",
+          "v.(in)从事,着手;约定;使订婚;保证;雇用"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自法语engager，en-（进入）+gage（誓言、抵押）。核心动作：用誓言或抵押将某人或某物“套住/绑定”到某项任务或关系中。由此引申为：使订婚（绑定婚姻关系）、雇用（绑定劳务关系）、从事（绑定于某项活动）、保证（用承诺绑定自己）。",
+        "similarWarning": "engage vs. enlarge: engage含词根gage（誓言），enlarge含large（大），意为扩大。engage vs. engine: engine源自ingenium（天赋），意为发动机，与“绑定”无直接关联。engage vs. envisage: envisage含vis（看），意为展望、设想。engage vs. language: language含lang（舌/语言），与“绑定”无关。",
+        "extendedMeaning": "在考研外刊中，engage常作“吸引（注意力/兴趣）”解，如engage readers（吸引读者）；或作“与…交战/交锋”解，如engage the enemy（与敌人交战）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "engagement",
+      "word": "engagement",
+      "phonetic": "/ɪn'geɪdʒmənt/",
+      "meaning": "n.约会,约定;婚约,订婚",
+      "similar": [
+        "management",
+        "replacement",
+        "basement",
+        "fragment",
+        "pavement",
+        "agreement",
+        "judgement",
+        "statement"
+      ],
+      "question": {
+        "wordId": "engagement",
+        "stem": "选择 \"engagement\" 的正确中文意思：",
+        "correct": "n.约会,约定;婚约,订婚",
+        "options": [
+          "n.建筑物的底部,地下室,地窖",
+          "n.约会,约定;婚约,订婚",
+          "n.经营,管理;处理,操纵;管理部门",
+          "n.取代,替换,替换物,代替物"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "en-（进入）+ gage（承诺，抵押）+ -ment（名词后缀）→ 进入承诺状态 → 引申为“约定、婚约”，核心动作是“将双方绑定在一起”。",
+        "similarWarning": "engagement vs. management（管理）、replacement（替代）、basement（地下室）：核心差异在词根gage（承诺）与manage（管理）、place（放置）、base（底部），拼写上前缀en-与后缀-ment相同，但中间部分不同。",
+        "extendedMeaning": "考研中高频出现“参与、投入”义，如engagement with the public（与公众的互动/参与），或“交战”义，如military engagement（军事交战）。",
+        "examUsage": "真题考点：engagement in（参与…），如engagement in community service（参与社区服务）；常用搭配engagement with（与…的互动/接触），如engagement with new ideas（接触新思想）。"
+      }
+    },
+    {
+      "id": "engine",
+      "word": "engine",
+      "phonetic": "/'endʒin/",
+      "meaning": "n.发动机,引擎;火车头",
+      "similar": [
+        "engineer",
+        "genuine",
+        "nine",
+        "ending",
+        "engage",
+        "entire"
+      ],
+      "question": {
+        "wordId": "engine",
+        "stem": "选择 \"engine\" 的正确中文意思：",
+        "correct": "n.发动机,引擎;火车头",
+        "options": [
+          "num.九 pron./ad.九(个，只...)",
+          "n.工程师",
+          "a.真正的,名副其实的",
+          "n.发动机,引擎;火车头"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语ingenium（天赋、才智），由in-（在内）+gen-（产生）构成，核心动作是‘内在产生’的动力装置。词根gen-表‘产生、创造’，engine即‘产生动力的机械’，引申为‘引擎’。",
+        "similarWarning": "engineer（n.工程师）是engine加后缀-er（人），指操作或设计引擎的人；genuine（a.真正的）由gen-（出生）+uine构成，强调‘天生如此’；engage（v.从事）由en-（使）+gage（承诺）构成，与引擎无关。",
+        "extendedMeaning": "在考研阅读中，engine可引申为‘核心驱动力’或‘关键因素’，如‘the engine of economic growth’（经济增长的引擎）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "engineer",
+      "word": "engineer",
+      "phonetic": "/ˌendʒi'niə/",
+      "meaning": "n.工程师",
+      "similar": [
+        "engine"
+      ],
+      "question": {
+        "wordId": "engineer",
+        "stem": "选择 \"engineer\" 的正确中文意思：",
+        "correct": "n.工程师",
+        "options": [
+          "vi.打喷嚏，发喷嚏声n.喷嚏",
+          "n.栏杆,围栏;(pl.)铁路;铁轨;横杆,栏杆",
+          "n.工程师",
+          "n.发动机,引擎;火车头"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 ingenium（天赋、机灵），由 in-（在...内）+ gen-（产生、出生）组成，本义为“内在的天赋能力”。后缀 -eer 表示“从事...的人”，engineer 字面即“运用天赋/机巧的人”，后特指“装备制造者、工程师”。engine（发动机）同源，均指向“巧妙的设计或机械”。",
+        "similarWarning": "engine（引擎，发动机）-eer 与 -ine 差异：engineer 指“工程师”，强调职业身份；engine 指“引擎”，强调机械本身。",
+        "extendedMeaning": "① 策划，精心安排（尤指通过策略或手段实现目标）：He engineered a major corporate takeover.（他策划了一次重大企业收购。）② 基因工程改造：genetically engineered crops（转基因作物）。",
+        "examUsage": "真题中常考 engineer 的动词义“策划、操纵”，如：The crisis was engineered by the media.（这场危机是由媒体策划的。）注意其与 manipulate（操纵）的替换使用，及与 design（设计）的区分。"
+      }
+    },
+    {
+      "id": "engineering",
+      "word": "engineering",
+      "phonetic": "/ˌendʒi'niəriŋ/",
+      "meaning": "n.工程学",
+      "similar": [],
+      "question": {
+        "wordId": "engineering",
+        "stem": "选择 \"engineering\" 的正确中文意思：",
+        "correct": "n.工程学",
+        "options": [
+          "n.醋",
+          "a.明确的,具体的;特定的,特有的",
+          "n.工程学",
+          "v.(by)乘,使相乘;倍增,增加,繁殖"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "engine（引擎）+ -er（人）+ -ing（动名词）。engine源于拉丁语ingenium（天赋、才智），核心物理动作为“运用智慧设计并操控机械系统”。engineering即“运用才智操控引擎/机械的学问”，引申为工程学。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中常引申为“系统工程、策划能力”，如social engineering（社会工程学，指通过政策或技术手段影响社会行为），并非仅指土木或机械工程。",
+        "examUsage": "真题中常考搭配：genetic engineering（基因工程）、reverse engineering（逆向工程）。注意与engineer（工程师/设计）的动词用法区分，如engineer a solution（策划解决方案），此处engineering为动名词形式，强调过程。"
+      }
+    },
+    {
+      "id": "enhance",
+      "word": "enhance",
+      "phonetic": "/in'hɑ:ns/",
+      "meaning": "v.提高,增强",
+      "similar": [
+        "entrance",
+        "endurance",
+        "denounce",
+        "exchange",
+        "instance",
+        "reliance",
+        "sentence"
+      ],
+      "question": {
+        "wordId": "enhance",
+        "stem": "选择 \"enhance\" 的正确中文意思：",
+        "correct": "v.提高,增强",
+        "options": [
+          "vt.公开指责,公然抨击;谴责",
+          "n.忍耐(力),持久(力),耐久(性)",
+          "n.入口,门口;进入;入学,入会",
+          "v.提高,增强"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "en-（使进入）+hance（高，源自拉丁语altus“高”的变体）→使进入高的状态→提高，增强。核心动作：使某物在程度、质量或价值上向更高水平移动。",
+        "similarWarning": "entrance（入口/使入迷，en-+trance“通道”）、chance（机会，源自cadere“落下”的偶然性）、endurance（忍耐力，en-+dure“持续”）—与enhance相比，hance词根仅此一例，注意拼写差异。",
+        "extendedMeaning": "在考研阅读中常引申为“提升（抽象属性）”，如enhance reputation（提升声誉）、enhance efficiency（提高效率），强调正向强化，非简单增加。",
+        "examUsage": "常考搭配：enhance one's ability/understanding（提升能力/理解），真题例句：“The new technology enhances the accuracy of diagnosis.”（新技术提高了诊断的准确性。）注意与improve（全面改善）的细微区别：enhance侧重在原有基础上强化特定方面。"
+      }
+    },
+    {
+      "id": "enjoy",
+      "word": "enjoy",
+      "phonetic": "/in'dʒɔi/",
+      "meaning": "vt.享受…的乐趣；欣赏；喜爱",
+      "similar": [
+        "envy",
+        "annoy",
+        "endow",
+        "entry"
+      ],
+      "question": {
+        "wordId": "enjoy",
+        "stem": "选择 \"enjoy\" 的正确中文意思：",
+        "correct": "vt.享受…的乐趣；欣赏；喜爱",
+        "options": [
+          "vt.资助，捐赠；(with)给予，赋予",
+          "v./n.羡慕,忌妒",
+          "vt.享受…的乐趣；欣赏；喜爱",
+          "vt.使恼怒，使生气；打扰 vi.招人讨厌"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "en-（使处于…状态）+ joy（快乐）→ 使处于快乐状态 → 享受、喜爱。",
+        "similarWarning": "enjoy vs. envy: enjoy含 joy（快乐），envy含 vy（看，源于拉丁语videre），意为“嫉妒”时看别人有而自己没有。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "enlarge",
+      "word": "enlarge",
+      "phonetic": "/in'lɑ:dʒ/",
+      "meaning": "vt.扩大,放大,增大",
+      "similar": [
+        "engage"
+      ],
+      "question": {
+        "wordId": "enlarge",
+        "stem": "选择 \"enlarge\" 的正确中文意思：",
+        "correct": "vt.扩大,放大,增大",
+        "options": [
+          "n.题目，主题；主旋律，基调",
+          "n.芭蕾舞，芭蕾舞剧；芭蕾舞团",
+          "v.(in)从事,着手;约定;使订婚;保证;雇用",
+          "vt.扩大,放大,增大"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "en-（使）+ large（大）→ 使变大，即扩大、放大。核心物理动作为“尺寸或范围的增加”。",
+        "similarWarning": "engage（v.吸引，占用）：enlarge vs engage，差异在词根“large”（大）与“gage”（承诺/挑战），词义无关联。",
+        "extendedMeaning": "（在考研中无高频僻义，故留空）",
+        "examUsage": "（该词在考研中多为基础义，无特殊考点，故留空）"
+      }
+    },
+    {
+      "id": "enlighten",
+      "word": "enlighten",
+      "phonetic": "/in'laitən/",
+      "meaning": "v.启发,启蒙,教导",
+      "similar": [
+        "eighteen",
+        "frighten",
+        "heighten"
+      ],
+      "question": {
+        "wordId": "enlighten",
+        "stem": "选择 \"enlighten\" 的正确中文意思：",
+        "correct": "v.启发,启蒙,教导",
+        "options": [
+          "v.启发,启蒙,教导",
+          "num.十八，十八个",
+          "v.提高,升高",
+          "v.使惊恐"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "en-（使动前缀，使处于某种状态）+ light（光）+ -en（动词后缀）。核心动作：使光照进入→使思想被照亮→启蒙、启发。词源本义是“驱散黑暗（无知），带来光明（知识）”。",
+        "similarWarning": "heighten /'haɪtən/  v.提高，增高（height高度+en）强调物理或抽象高度增加；enlighten强调思想层面的“光照”与“觉醒”。frighten /'fraɪtən/ v.使惊吓（fright惊吓+en）；拼写差异：enlighten含light（光），frighten含fright（惊吓）。",
+        "extendedMeaning": "在考研阅读中常引申为“启迪、教化”，强调通过知识或理性消除偏见或愚昧，如“enlighten the public”（启迪公众）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "enormous",
+      "word": "enormous",
+      "phonetic": "/i'nɔ:məs/",
+      "meaning": "a.巨大的,庞大的",
+      "similar": [
+        "anonymous",
+        "nervous",
+        "generous",
+        "glorious"
+      ],
+      "question": {
+        "wordId": "enormous",
+        "stem": "选择 \"enormous\" 的正确中文意思：",
+        "correct": "a.巨大的,庞大的",
+        "options": [
+          "a.宽宏大量的,慷慨的",
+          "a.巨大的,庞大的",
+          "a.匿名的，无名的，姓氏不明的",
+          "a.神经的;神经过敏的,紧张不安的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根 e-（出）+ norm（标准、规则）+ ous（形容词后缀），字面意为“超出标准的”，即“巨大的、庞大的”。核心物理动作：从标准范围中突出。",
+        "similarWarning": "anonymous（a.匿名的：a-无 + nym名字 + ous），对比：enormous强调“超出标准”，区别在于中间词根 norm vs nym。nervous（a.紧张的：nerve神经 + ous），对比：enormous以“norm”为核心，nervous以“nerve”为核心。generous（a.慷慨的：gener出生/种族 + ous），对比：enormous首字母e-，generous首字母g-。glorious（a.光荣的：glory光荣 + ous），对比：enormous无“-ri-”结构。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "enquire",
+      "word": "enquire",
+      "phonetic": "/in'kwaiə/",
+      "meaning": "v.(inquire)询问,打听;调查;查问",
+      "similar": [
+        "endure",
+        "ensure",
+        "entire",
+        "acquire",
+        "inquiry",
+        "require"
+      ],
+      "question": {
+        "wordId": "enquire",
+        "stem": "选择 \"enquire\" 的正确中文意思：",
+        "correct": "v.(inquire)询问,打听;调查;查问",
+        "options": [
+          "v.(inquire)询问,打听;调查;查问",
+          "v.忍受,持久,持续",
+          "v.确保,保证;使安全",
+          "a.完全的,全部的,完整的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "en-（进入）+ quir（寻求、问）+ -e → 深入寻求信息 → 询问、调查。核心动作是‘主动探求未知信息’。",
+        "similarWarning": "enquire vs. acquire: en-（进入） vs. ac-（朝向），acquire 是‘朝向目标获取’（获得）。enquire vs. require: require 是 re-（反复）+ quir（问）→ 反复问→ 需要。enquire vs. inquire: 拼写差异仅 en- vs. in-，英式多用 enquire（非正式调查），美式多用 inquire（正式询问），考研通用。",
+        "extendedMeaning": "在考研真题中，enquire 常表示‘调查’（investigate），而非简单‘问路’；如 enquire into the cause（调查原因）。",
+        "examUsage": "考点搭配：enquire about（询问关于...）、enquire into（调查）。真题例句：The police are enquiring into the accident.（警方正在调查事故。）注意与 require（需要）形近干扰。"
+      }
+    },
+    {
+      "id": "enrich",
+      "word": "enrich",
+      "phonetic": "/in'ritʃ/",
+      "meaning": "v.使富足;使肥沃;装饰;加料于;浓缩",
+      "similar": [],
+      "question": {
+        "wordId": "enrich",
+        "stem": "选择 \"enrich\" 的正确中文意思：",
+        "correct": "v.使富足;使肥沃;装饰;加料于;浓缩",
+        "options": [
+          "n.潮,潮汐;潮流,趋势",
+          "n.风筝",
+          "n.通过,经过;通路,走廊;(一)段落,(一)节",
+          "v.使富足;使肥沃;装饰;加料于;浓缩"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "en-（使动前缀，表示“使进入某种状态”）+ rich（富裕的）。核心物理动作：使原本不富裕的东西变得富裕。引申为“使肥沃”（使土地富裕）、“装饰”（使外表丰富）、“加料于”（使食物营养丰富）、“浓缩”（使物质浓度增加）。",
+        "similarWarning": "enrich vs. enrich（无显性形近词，仅与rich同源，但rich为形容词，enrich为动词，拼写差异仅en前缀，词义直接对应）。",
+        "extendedMeaning": "考研僻义：使丰富（抽象层面，非仅指财富）。例：Reading can enrich one's mind.（阅读能丰富心智。）",
+        "examUsage": "真题考点：常用搭配“enrich with”（用……丰富/充实）。例：The museum was enriched with new exhibits.（博物馆因新展品而充实。）注意enrich在完形填空中可能作为“使肥沃”的及物动词出现，干扰项为improve（仅指改善，无使富足之意）。"
+      }
+    },
+    {
+      "id": "enroll",
+      "word": "enroll",
+      "phonetic": "/in'rəul/",
+      "meaning": "v.(enrol)招收;登记;入学;参军;成为会员",
+      "similar": [
+        "roll",
+        "stroll"
+      ],
+      "question": {
+        "wordId": "enroll",
+        "stem": "选择 \"enroll\" 的正确中文意思：",
+        "correct": "v.(enrol)招收;登记;入学;参军;成为会员",
+        "options": [
+          "vt.使…失去知觉；使目瞪口呆，使吃惊",
+          "v.(enrol)招收;登记;入学;参军;成为会员",
+          "n.&v.漫步；散步；游荡",
+          "v.滚动;使摇摆;卷,卷起 n.卷,卷形物;名单"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "enroll = en-(进入) + roll(卷，名单)。本义是把名字卷进名单里，引申为“登记、注册、招收”。核心动作：将某人/某信息“卷”入官方记录。",
+        "similarWarning": "roll (v.滚动，卷) 与 enroll 差 en-，roll 是基础动作；stroll (v.散步，闲逛) 与 enroll 差 st-，stroll 强调缓慢移动，无“登记”义。",
+        "extendedMeaning": "在考研中，enroll 常引申为“使入伍、使成为成员”，如 enroll in the army (参军)。",
+        "examUsage": "常见考点搭配：enroll in (报名参加，登记加入)，如 enroll in a course (选课)；be enrolled at (被录取于)，如 be enrolled at a university (被大学录取)。"
+      }
+    },
+    {
+      "id": "ensure",
+      "word": "ensure",
+      "phonetic": "/in'ʃuə/",
+      "meaning": "v.确保,保证;使安全",
+      "similar": [
+        "endure",
+        "insure",
+        "enquire",
+        "leisure",
+        "venture",
+        "assure",
+        "entire",
+        "injure"
+      ],
+      "question": {
+        "wordId": "ensure",
+        "stem": "选择 \"ensure\" 的正确中文意思：",
+        "correct": "v.确保,保证;使安全",
+        "options": [
+          "v.(inquire)询问,打听;调查;查问",
+          "vt.保险,给…保险;保证",
+          "v.忍受,持久,持续",
+          "v.确保,保证;使安全"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 \"securus\"（安全的），由 \"en-\"（使处于） + \"sure\"（确定的，安全的）构成。核心动作是使某事物变得确定或安全，即确保、保证。",
+        "similarWarning": "形近词辨析：\n- insure (in- + sure)：侧重经济上的投保、保险。\n- assure (as- + sure)：侧重向人保证以消除疑虑，搭配人作宾语。\n- ensure：侧重确保某结果发生，常跟that从句。",
+        "extendedMeaning": "在考研阅读中，ensure 可引申为“保证（某种状态或结果）”，强调对过程的把控，而非单纯的安全。",
+        "examUsage": "真题考点：\n常见搭配 \"ensure that...\" 确保……；\n例句：\"The government should take measures to ensure the stability of prices.\"（政府应采取措施确保物价稳定。）"
+      }
+    },
+    {
+      "id": "entail",
+      "word": "entail",
+      "phonetic": "/in'teil/",
+      "meaning": "vt.使承担;需要;把(疾病等)遗传给;限定",
+      "similar": [
+        "nail",
+        "tail",
+        "until",
+        "dental",
+        "detail",
+        "e-mail",
+        "mental",
+        "retail"
+      ],
+      "question": {
+        "wordId": "entail",
+        "stem": "选择 \"entail\" 的正确中文意思：",
+        "correct": "vt.使承担;需要;把(疾病等)遗传给;限定",
+        "options": [
+          "n.指甲,爪;钉 v.将…钉牢,钉住",
+          "vt.使承担;需要;把(疾病等)遗传给;限定",
+          "conj.&prep.直到…为止，在…以前；直到…",
+          "n.尾巴；尾部；跟踪者 vt.尾随，跟踪"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "en-（使）+ tail（尾巴）→ 字面“使带上尾巴”→ 引申为使承担（责任）、需要（条件）；源自法律术语“限定继承”（entail），指将财产限定传给特定继承人，如同带上尾巴的财产。",
+        "similarWarning": "entail vs. detail: entail（en-使+tail尾巴）侧重“需要、承担”；detail（de-分离+tail切）侧重“细节、详述”。entail vs. retail: retail（re-再+tail切）指“零售”。",
+        "extendedMeaning": "考研僻义：vt. 使（疾病等）遗传给（常指不可逆的遗传）；n. 限定继承权（法律术语，指财产只能传给特定继承人）。",
+        "examUsage": "真题考点：entail doing sth.（需要做某事），如：The project entails a lot of hard work.（该项目需要大量艰苦工作。）常用于阅读中表示因果关系或必要条件。"
+      }
+    },
+    {
+      "id": "enter",
+      "word": "enter",
+      "phonetic": "/'entə/",
+      "meaning": "vt.进入；参加，加入；写入 vi.进去，进来",
+      "similar": [
+        "better",
+        "easter",
+        "entire",
+        "gender",
+        "render",
+        "tender",
+        "alter",
+        "anger"
+      ],
+      "question": {
+        "wordId": "enter",
+        "stem": "选择 \"enter\" 的正确中文意思：",
+        "correct": "vt.进入；参加，加入；写入 vi.进去，进来",
+        "options": [
+          "a.完全的,全部的,完整的",
+          "a.较好的 ad.更好(地) v.改良 n.较佳者",
+          "vt.进入；参加，加入；写入 vi.进去，进来",
+          "n.复活节"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语 intrare（进入），由 in-（向内）与 -trare（走）组合，核心物理动作是“走入内部”。",
+        "similarWarning": "entire（整个的）：enter 进入 vs entire 完整，注意 entire 含“-ire”表整体状态，无“进入”动作。",
+        "extendedMeaning": "在考研中常引申为“开始从事；进入（某种状态）”，如 enter a new phase（进入新阶段）或 enter the market（进入市场）。",
+        "examUsage": "真题考点：enter into（开始；参与）是高频搭配，如 enter into an agreement（达成协议）。"
+      }
+    },
+    {
+      "id": "enterprise",
+      "word": "enterprise",
+      "phonetic": "/'entəpraiz/",
+      "meaning": "n.事业,企(事)业单位;事业心,进取心",
+      "similar": [
+        "exercise",
+        "surprise",
+        "entertain",
+        "expertise",
+        "interpret"
+      ],
+      "question": {
+        "wordId": "enterprise",
+        "stem": "选择 \"enterprise\" 的正确中文意思：",
+        "correct": "n.事业,企(事)业单位;事业心,进取心",
+        "options": [
+          "n.事业,企(事)业单位;事业心,进取心",
+          "n.练习,习题;训练,锻练 v.训练,锻练;行使",
+          "v.使诧异,使惊异;奇袭 n.诧异,惊异;奇袭",
+          "v.招待,款待;使娱乐;使欢乐;容纳,接受"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "enter-（在…之间/互相）+ -prise（抓取/掌握）。核心物理动作是“在多个环节之间抓取/掌握”，引申为主动承担的事业或企业。",
+        "similarWarning": "exercise（练习）：ex-（向外）+ercise（围栏），动作是把动物赶出围栏训练。enterprise强调“抓取机会”，exercise强调“反复训练”。surprise（惊讶）：sur-（超过）+prise（抓），动作是“突然抓住”，与enterprise的“主动抓取”方向相反。",
+        "extendedMeaning": "事业心、进取心（考研常考抽象义）：指主动发起并承担风险的魄力，如“entrepreneurial enterprise”（创业精神）。",
+        "examUsage": "常与“private enterprise”（私营企业）、“state-owned enterprise”（国有企业）搭配，真题中常作为主题词（如2013年Text 2关于企业商标保护）或干扰项，注意区分“enterprise”的“事业”义与“company”的纯实体义。"
+      }
+    },
+    {
+      "id": "entertain",
+      "word": "entertain",
+      "phonetic": "/ˌentə'tein/",
+      "meaning": "v.招待,款待;使娱乐;使欢乐;容纳,接受",
+      "similar": [
+        "certain",
+        "ascertain",
+        "enterprise"
+      ],
+      "question": {
+        "wordId": "entertain",
+        "stem": "选择 \"entertain\" 的正确中文意思：",
+        "correct": "v.招待,款待;使娱乐;使欢乐;容纳,接受",
+        "options": [
+          "v.招待,款待;使娱乐;使欢乐;容纳,接受",
+          "a.某,某一,某些;(of)一定的,确信的,可靠的",
+          "vt.确定，查明，弄清",
+          "n.事业,企(事)业单位;事业心,进取心"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自法语 'entretenir'，由 'entre-'（在...之间） + 'tenir'（持有）构成，字面义为'保持在之间、维持'。核心物理动作是'在人际间维持某种氛围'，引申为'招待（维持宾客关系）'和'使娱乐（维持愉快情绪）'。",
+        "similarWarning": "certain（adj.确定的；某个） vs. entertain：certain 无 'enter-' 前缀，核心在 'cert'（确定）；ascertain（v.查明）由 'as-' + 'certain' 构成，强调'使确定'；enterprise（n.企业；事业）由 'enter-' + 'prise'（抓取）构成，字面'在之间抓取'，指'承担事业'。注意 'tain' 与 'prise' 的拼写差异。",
+        "extendedMeaning": "考研常考'容纳，接受'义，如 entertain a proposal（接受提议）或 entertain doubts（心存疑虑），非娱乐义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "entertainment",
+      "word": "entertainment",
+      "phonetic": "/ˌentə'teinmənt/",
+      "meaning": "n.招待,款待;表演文娱节目",
+      "similar": [
+        "environment",
+        "intermittent"
+      ],
+      "question": {
+        "wordId": "entertainment",
+        "stem": "选择 \"entertainment\" 的正确中文意思：",
+        "correct": "n.招待,款待;表演文娱节目",
+        "options": [
+          "n.不活动,惰性;惯性",
+          "a.间歇的,断断续续的",
+          "n.环境,外界",
+          "n.招待,款待;表演文娱节目"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "entertainment = enter-（在…之间）+ tain（保持）+ -ment（名词后缀）。核心动作是“在人群之间保持（注意力）”，即通过招待或表演来吸引和维持观众的兴致，从而引申为“娱乐”或“款待”。",
+        "similarWarning": "environment（环境）：en-（使）+ viron（环绕）+ -ment，强调“环绕的状态”；entertainment强调“娱乐”。intermittent（间歇的）：inter-（之间）+ mit（发送）+ -ent，强调“发送间隔”，与entertainment拼写差异在“-tain-” vs “-mit-”。",
+        "extendedMeaning": "在考研阅读中常引申为“消遣方式；娱乐活动”，如“the entertainment industry”（娱乐产业），或指“精神享受”而非仅物质款待。",
+        "examUsage": "真题考点：常与“amusement”“recreation”同义替换，但注意其动词形式“entertain”的固定搭配“entertain sb with sth”（用…招待某人）。例句：The film provides both entertainment and education.（该片兼具娱乐与教育意义。）"
+      }
+    },
+    {
+      "id": "enthusiasm",
+      "word": "enthusiasm",
+      "phonetic": "/in'θju:ziæzəm/",
+      "meaning": "n.热情,热心;狂热;积极性(for)",
+      "similar": [
+        "enthusiastic"
+      ],
+      "question": {
+        "wordId": "enthusiasm",
+        "stem": "选择 \"enthusiasm\" 的正确中文意思：",
+        "correct": "n.热情,热心;狂热;积极性(for)",
+        "options": [
+          "n.树胶;口香糖",
+          "n.热情,热心;狂热;积极性(for)",
+          "n.伤亡人员；受害人；损失的东西；急诊室",
+          "a.热情的,热心的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'entheos'（神附身），由 'en-'（在...内）+ 'theos'（神）组成，核心动作是“被神注入灵感”，引申为强烈的内在驱动力或热忱，后演变为对某事的高度积极情感。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常指“狂热、热衷”的抽象态度，如 'enthusiasm for reform'（对改革的热情），非仅指普通兴趣。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "enthusiastic",
+      "word": "enthusiastic",
+      "phonetic": "/inˌθju:zi'æstik/",
+      "meaning": "a.热情的,热心的",
+      "similar": [
+        "enthusiasm"
+      ],
+      "question": {
+        "wordId": "enthusiastic",
+        "stem": "选择 \"enthusiastic\" 的正确中文意思：",
+        "correct": "a.热情的,热心的",
+        "options": [
+          "a.热情的,热心的",
+          "n.喜剧;喜剧性事件",
+          "n.热情,热心;狂热;积极性(for)",
+          "n.听众，观众，读者；见面，会见"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语entheos（神附体的），en-（在…里面）+theos（神）+-astic（形容词后缀）。原指“被神灵感召的狂热状态”，后演变为“充满热情的”。核心动作：内在被神性点燃→极度热忱。",
+        "similarWarning": "enthusiasm（n.热情，狂热），与enthusiastic相比，词尾-iasm为名词后缀，-astic为形容词后缀。拼写差异：-iastic vs -iasm。",
+        "extendedMeaning": "考研中常引申为“极感兴趣的，热衷的”，强调主动投入的积极态度，而非普通喜欢。如：be enthusiastic about/over sth. 对某事充满热忱。",
+        "examUsage": "真题常见搭配：enthusiastic support（热情支持）；enthusiastic response（热烈反响）。干扰项常与eager（急切的）、passionate（激情的）混淆，但enthusiastic侧重持久的内在驱动力。"
+      }
+    },
+    {
+      "id": "entire",
+      "word": "entire",
+      "phonetic": "/in'taiə/",
+      "meaning": "a.完全的,全部的,完整的",
+      "similar": [
+        "enquire",
+        "entitle",
+        "venture",
+        "tire",
+        "enter",
+        "entry",
+        "centre",
+        "empire"
+      ],
+      "question": {
+        "wordId": "entire",
+        "stem": "选择 \"entire\" 的正确中文意思：",
+        "correct": "a.完全的,全部的,完整的",
+        "options": [
+          "a.完全的,全部的,完整的",
+          "v.给以权利(或资格);给…称号(题名);授权",
+          "v.(inquire)询问,打听;调查;查问",
+          "v.冒险,拼;大胆表示 n.冒险事业,拼,闯"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源：源自拉丁语 'integer'（完整的、未触碰的），由 in-（不） + tangere（触碰）构成，字面意为“未被触碰的”，引申为“完整的、全部的”。核心动作画面：一个物体未经任何触碰或分割，保持原始完整状态。",
+        "similarWarning": "形近词辨析：\n- entire (完整的) vs. enquire (询问)：en- + quire（问），侧重“打听”。\n- entire (完整的) vs. entitle (给…权利/标题)：en- + title（标题），侧重“授权”。\n- entire (完整的) vs. venture (冒险)：vent-（来） + -ure，侧重“风险行动”。\n- entire (完整的) vs. tire (疲倦，轮胎)：无关联，拼写差异在首字母 'en'。\n- entire (完整的) vs. enter (进入)：en- + ter（土地），侧重“进入”。\n- entire (完整的) vs. entry (入口)：enter的名词形式。\n- entire (完整的) vs. centre (中心)：源自希腊语 kentron，无关联。\n- entire (完整的) vs. empire (帝国)：em-（在…内） + -pire（统治），侧重“统治区域”。",
+        "extendedMeaning": "考研僻义：在真题中可表示“纯粹的、完全的（强调程度）”，如 entire devotion（全身心的投入），并非仅指物理完整。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "entitle",
+      "word": "entitle",
+      "phonetic": "/in'taitl/",
+      "meaning": "v.给以权利(或资格);给…称号(题名);授权",
+      "similar": [
+        "entire",
+        "entity",
+        "sensible"
+      ],
+      "question": {
+        "wordId": "entitle",
+        "stem": "选择 \"entitle\" 的正确中文意思：",
+        "correct": "v.给以权利(或资格);给…称号(题名);授权",
+        "options": [
+          "v.给以权利(或资格);给…称号(题名);授权",
+          "a.完全的,全部的,完整的",
+          "a.明智的,达理的;可觉察的,明显的",
+          "n.实体;存在(物);组织,机构;本质"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "en-（使）+ title（标题、头衔、权利）。核心动作：赋予某人头衔或权利，即“给以资格/授权”。",
+        "similarWarning": "title（标题、头衔） vs entitle（赋予权利/标题）；entire（全部的） vs entitle（注意字母r与l差异）；entity（实体） vs entitle（词尾-ity vs -itle）；sensible（明智的） vs entitle（拼写差异大，但易混于词形）。",
+        "extendedMeaning": "“给…题名”在考研中常引申为“使有权做某事”（如be entitled to do），非字面“标题”义。",
+        "examUsage": "真题高频搭配：be entitled to (do) sth.（有权做某事/享有某物），常作为题眼考查被动语态及介词to的搭配。"
+      }
+    },
+    {
+      "id": "entity",
+      "word": "entity",
+      "phonetic": "/'entəti/",
+      "meaning": "n.实体;存在(物);组织,机构;本质",
+      "similar": [
+        "identity",
+        "density",
+        "entitle",
+        "entry",
+        "unity",
+        "entire",
+        "identify",
+        "quantity"
+      ],
+      "question": {
+        "wordId": "entity",
+        "stem": "选择 \"entity\" 的正确中文意思：",
+        "correct": "n.实体;存在(物);组织,机构;本质",
+        "options": [
+          "n.实体;存在(物);组织,机构;本质",
+          "n.身份;本体;特征;同一(性);一致;国籍;等式",
+          "n.密集,密度,浓度",
+          "v.给以权利(或资格);给…称号(题名);授权"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'ens'（存在，是）的现在分词词干 'ent-' + 名词后缀 '-ity'。核心动作是 'being'（存在），指一个独立、完整的存在物或本质。",
+        "similarWarning": "identity（身份，同一性）：词根 idem（相同）；entity（实体）：词根 ent（存在）。entitle（给...权利/命名）：entitle = en-（使）+ title（标题）；entity = ent + ity。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "entrance",
+      "word": "entrance",
+      "phonetic": "/'entrəns/",
+      "meaning": "n.入口,门口;进入;入学,入会",
+      "similar": [
+        "endurance",
+        "enhance",
+        "ignorance",
+        "insurance",
+        "embrace",
+        "extract",
+        "instance",
+        "sentence"
+      ],
+      "question": {
+        "wordId": "entrance",
+        "stem": "选择 \"entrance\" 的正确中文意思：",
+        "correct": "n.入口,门口;进入;入学,入会",
+        "options": [
+          "v.提高,增强",
+          "n.无知,愚昧;不知道",
+          "n.忍耐(力),持久(力),耐久(性)",
+          "n.入口,门口;进入;入学,入会"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根en-(进入) + trance(源自拉丁语transire，意为‘穿过’)。核心物理动作是‘进入一个空间或状态’，引申为‘入口’和‘进入的行为’，再引申为‘入学、入会’等抽象进入。",
+        "similarWarning": "entrance vs. endurance: entrance强调‘进入’(entr-)，endurance强调‘忍耐’(endur-)。entrance vs. enhance: entrance是‘入口’，enhance是‘提高’(en- + hance)。entrance vs. ignorance: ignorance是‘无知’(ig- + nor-)。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "entrepreneur",
+      "word": "entrepreneur",
+      "phonetic": "/ˌɔntrəprə'nə:/",
+      "meaning": "n.[法]企业家, 主办人",
+      "similar": [],
+      "question": {
+        "wordId": "entrepreneur",
+        "stem": "选择 \"entrepreneur\" 的正确中文意思：",
+        "correct": "n.[法]企业家, 主办人",
+        "options": [
+          "vt.唤起(回忆、感情等)；引起",
+          "n.[法]企业家, 主办人",
+          "v.(from)阻止,妨碍 a.后面的",
+          "a.头晕目眩的,眩晕的;(可能)使人头晕的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自法语entreprendre（从事，承担），由entre-（在…之间）+prendre（拿取）构成，字面义为“在两者之间拿取”，引申为承担风险或项目的人，即企业家。",
+        "similarWarning": "",
+        "extendedMeaning": "考研中常考其动词形式（entrepreneurial）及名词化引申：创业者、主办者，强调创新与风险承担，而非普通商人。",
+        "examUsage": "真题中常与start-up, innovation, risk-taking等搭配，如：\"entrepreneurial spirit\"（企业家精神），\"serial entrepreneur\"（连续创业者）。"
+      }
+    },
+    {
+      "id": "entry",
+      "word": "entry",
+      "phonetic": "/'entri/",
+      "meaning": "n.进入,入口;通道;记载,条目",
+      "similar": [
+        "century",
+        "centre",
+        "energy",
+        "entire",
+        "entity",
+        "gently",
+        "try",
+        "envy"
+      ],
+      "question": {
+        "wordId": "entry",
+        "stem": "选择 \"entry\" 的正确中文意思：",
+        "correct": "n.进入,入口;通道;记载,条目",
+        "options": [
+          "n.活力,精力;能,能量",
+          "n.中心，中央，中间 vt.集中 vi.以..为中心",
+          "n.世纪,(一)百年",
+          "n.进入,入口;通道;记载,条目"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语intrare（进入），由前缀en-（进入）与词根tr-（穿过，源自拉丁语trans-）结合，核心动作为“穿过界限进入内部”。名词后缀-y表示行为或结果，故词义为“进入的动作、入口或记录事项”。",
+        "similarWarning": "entry vs. entity：entity（实体）源自拉丁语ens（存在），词根不同，拼写差异在于‘i’与‘r’；entry强调进入行为，entity强调独立存在物。",
+        "extendedMeaning": "考研中常考“记载，条目”义，如dictionary entry（词条）或journal entry（日记条目），非仅指物理入口。",
+        "examUsage": "考点搭配：make an entry in（记录于…）。真题例句：He made an entry in his diary.（他在日记中记了一笔。）常作为细节题定位词。"
+      }
+    },
+    {
+      "id": "envelope",
+      "word": "envelope",
+      "phonetic": "/'envələup/",
+      "meaning": "n.信封,信皮;封套",
+      "similar": [
+        "develop",
+        "enclose"
+      ],
+      "question": {
+        "wordId": "envelope",
+        "stem": "选择 \"envelope\" 的正确中文意思：",
+        "correct": "n.信封,信皮;封套",
+        "options": [
+          "n.信封,信皮;封套",
+          "v.发展,开发,研制;显现,显影;发育,生长",
+          "v.围住,圈起,封入",
+          "n.签名,署名,签字"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自法语enveloppe，来自动词envelopper（包裹）。en-（在内）+ velopper（包裹，来自拉丁语volvere“卷，转”）。核心动作：把东西卷进去包裹起来。信封本质就是一张纸卷起来包裹信件的封套。",
+        "similarWarning": "develop（发展）：de-（向下）+ velop（包裹），原意是把包裹打开，引申为发展。与envelope（包裹在内）方向相反。enclose（围住）：en-（在内）+ close（关闭），强调封闭的动作；envelope指具体的包裹物。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "environment",
+      "word": "environment",
+      "phonetic": "/in'vaiərənmənt/",
+      "meaning": "n.环境,外界",
+      "similar": [
+        "entertainment"
+      ],
+      "question": {
+        "wordId": "environment",
+        "stem": "选择 \"environment\" 的正确中文意思：",
+        "correct": "n.环境,外界",
+        "options": [
+          "n.环境,外界",
+          "vt.支持,赞成;举起;坚持",
+          "n.招待,款待;表演文娱节目",
+          "v.实行;实施;执行;完成;履行;处死"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "en-（进入）+ viron（=vir，转，源自拉丁语vertere，意为‘旋转’）+ -ment（名词后缀）。核心物理动作：事物围绕某中心‘旋转’或‘环绕’。故本义为‘环绕之物’，即环境。",
+        "similarWarning": "government（政府）：govern（统治）+ ment，与environment拼写差异为‘gov’ vs ‘env’。entertainment（娱乐）：enter（进入）+ tain（保持）+ ment，差异为‘enter’ vs ‘env’及‘tain’ vs ‘ron’。注意首字母和中间音节不同。",
+        "extendedMeaning": "考研中常引申为‘生态环境’（如natural environment）或‘社会环境’（如social environment），偶尔在计算机领域指‘运行环境’（如development environment）。",
+        "examUsage": "真题考点：常与protect、preserve、pollute等动词搭配，或出现在‘environmental protection’（环境保护）短语中。注意干扰项可能设为‘surroundings’（更具体）或‘circumstances’（更抽象）。"
+      }
+    },
+    {
+      "id": "envisage",
+      "word": "envisage",
+      "phonetic": "/in'vizidʒ/",
+      "meaning": "v.想象，设想，展望，正视",
+      "similar": [
+        "engage"
+      ],
+      "question": {
+        "wordId": "envisage",
+        "stem": "选择 \"envisage\" 的正确中文意思：",
+        "correct": "v.想象，设想，展望，正视",
+        "options": [
+          "n.(pl.)资源,财力;办法,智谋;应变之才",
+          "vi.突然不见;消失",
+          "v.(in)从事,着手;约定;使订婚;保证;雇用",
+          "v.想象，设想，展望，正视"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "en-（使）+ vis（看）+ -age（动词后缀）→ 使在眼前显现 → 想象，设想。核心动作是“在脑海中使某物可见”。",
+        "similarWarning": "envisage vs. engage: envisage 含 vis（看），侧重“想象、展望”；engage 含 gage（担保/挑战），侧重“吸引、参与”。",
+        "extendedMeaning": "考研中常引申为“正视（困难/现实）”，如 envisage the challenges（正视挑战）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "envy",
+      "word": "envy",
+      "phonetic": "/'envi/",
+      "meaning": "v./n.羡慕,忌妒",
+      "similar": [
+        "enjoy",
+        "entry",
+        "penny"
+      ],
+      "question": {
+        "wordId": "envy",
+        "stem": "选择 \"envy\" 的正确中文意思：",
+        "correct": "v./n.羡慕,忌妒",
+        "options": [
+          "n.便士,美分",
+          "v./n.羡慕,忌妒",
+          "vt.享受…的乐趣；欣赏；喜爱",
+          "n.进入,入口;通道;记载,条目"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'invidere' (in- '在...上' + videre '看')，字面义为 '恶眼看'，即带有敌意或贪婪地注视他人所有物。核心动作是 '斜眼窥视'，后引申为羡慕或忌妒的情感。",
+        "similarWarning": "enemy (敌人): envy 强调情感，enemy 强调对立者；enjoy (享受): envy 是负面情绪，enjoy 是正面体验；entry (进入): 拼写差异在 'v' vs 't'，词义无关联。",
+        "extendedMeaning": "在考研中常作名词，表 '羡慕的对象' 或 '忌妒的根源'，如 'the envy of all' (众人羡慕的对象)。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "epidemic",
+      "word": "epidemic",
+      "phonetic": "/ˌepi'demik/",
+      "meaning": "a.流行性的;传染的 n.流行病;传播",
+      "similar": [
+        "academic"
+      ],
+      "question": {
+        "wordId": "epidemic",
+        "stem": "选择 \"epidemic\" 的正确中文意思：",
+        "correct": "a.流行性的;传染的 n.流行病;传播",
+        "options": [
+          "a.(to)抵抗的,有抵抗力的",
+          "a.较低的,下级的,下游的 v.降下,放低",
+          "a.学院的，大学的；学术性的；理论的",
+          "a.流行性的;传染的 n.流行病;传播"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "epi-（在…之间/周围）+ dem（人民）+ -ic（形容词/名词后缀）→ 在人民之间流传的 → 流行性的；流行病。核心物理动作：疾病或信息在人群中迅速扩散。",
+        "similarWarning": "academic（a.学术的 n.学者）：字母a-c-a-d-e-m-i-c vs e-p-i-d-e-m-i-c，差异为开头a-与ep-，以及中间c与p。academic侧重学术领域，epidemic侧重疾病传播。",
+        "extendedMeaning": "【高分引申】n. 泛滥，迅速蔓延（常指负面现象，如犯罪、暴力、虚假信息等）→ an epidemic of cybercrime（网络犯罪泛滥）；a. 极为盛行的，泛滥的 → The problem has reached epidemic proportions.（问题已泛滥成灾。）",
+        "examUsage": "【真题考点】常与spread, outbreak, control等搭配；在阅读中作为核心题眼，考查a.与n.的转换理解。例句：The government took measures to contain the epidemic.（政府采取措施控制疫情。）注意：在干扰项中常与pandemic（全球性大流行病）混淆，但epidemic范围较小，指局部或区域性的爆发。"
+      }
+    },
+    {
+      "id": "episode",
+      "word": "episode",
+      "phonetic": "/'epɪsəud/",
+      "meaning": "n.一段情节;片断;(连续剧的)一集",
+      "similar": [],
+      "question": {
+        "wordId": "episode",
+        "stem": "选择 \"episode\" 的正确中文意思：",
+        "correct": "n.一段情节;片断;(连续剧的)一集",
+        "options": [
+          "n.持有,拥有;所有权;所有物;(pl.)财产,财富",
+          "a.永久的,持久的",
+          "a.成长的,成熟的,成人的 n.成年人",
+          "n.一段情节;片断;(连续剧的)一集"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源于希腊语 eisodos（进入），由 epi-（在...之上/额外）+ eisodos（进入）→ 字面为“额外进入的东西”。原指古希腊悲剧中合唱队与演员交替表演的插入部分，后引申为“事件的一段插曲、连续剧中的一集”。核心动作：一个整体中额外插入的片段。",
+        "similarWarning": "",
+        "extendedMeaning": "考研中常引申为“（人生或历史中的）一段时期、一个事件”，如：a brief episode in history（历史中的短暂插曲）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "epoch",
+      "word": "epoch",
+      "phonetic": "/'epɒk/",
+      "meaning": "n.新纪元;时代;时期;【地质】世,纪,期",
+      "similar": [
+        "porch"
+      ],
+      "question": {
+        "wordId": "epoch",
+        "stem": "选择 \"epoch\" 的正确中文意思：",
+        "correct": "n.新纪元;时代;时期;【地质】世,纪,期",
+        "options": [
+          "n.新纪元;时代;时期;【地质】世,纪,期",
+          "n.门廊,入口处",
+          "n.王国,领域",
+          "vi.摇晃着移动;蹒跚 n.摇晃不稳的动作;蹒跚"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语epokhe（暂停、固定点），由epi-（在…上）+ ekhein（持有）构成，原指天文学中计算行星位置的固定时间点，引申为历史或地质学中具有标志性事件的‘新纪元’或‘时期’。",
+        "similarWarning": "epoch vs each（每个）: 拼写差异为p vs a，含义无关。epoch vs porch（门廊）: 拼写差异为e vs p，含义无关。",
+        "extendedMeaning": "在考研中常指‘具有重要意义的时期’，不限于字面时间长度，如‘a new epoch of peace’（和平新纪元）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "equal",
+      "word": "equal",
+      "phonetic": "/'i:kwəl/",
+      "meaning": "a.相等的;胜任的n.相等的事务;对手v.等于",
+      "similar": [
+        "equip"
+      ],
+      "question": {
+        "wordId": "equal",
+        "stem": "选择 \"equal\" 的正确中文意思：",
+        "correct": "a.相等的;胜任的n.相等的事务;对手v.等于",
+        "options": [
+          "n.本能,直觉,天性",
+          "n.地位,身份;情形,状况",
+          "v.(with)装备,配备;训练",
+          "a.相等的;胜任的n.相等的事务;对手v.等于"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'aequalis'（相等的），由 'aequus'（平的、平等的）派生。核心物理动作为“使水平对齐”，引申为数量、程度或地位上的相等。",
+        "similarWarning": "equip（装备，由 'equi' + 'p' 构成，核心动作是“使船准备好”）；usual（通常的，源自 'usus' 使用，强调习惯性，与 'equal' 拼写差异在 'u' vs 'e' 及 's' vs 'l'）。",
+        "extendedMeaning": "在考研阅读中可作动词表示“等于、比得上”，如 'No one can equal her in dedication.' 也常见于短语 'on equal terms'（平等条件下）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "equality",
+      "word": "equality",
+      "phonetic": "/i:'kwɔləti/",
+      "meaning": "n.同等;平等;相等;等式;等同性",
+      "similar": [
+        "quality",
+        "qualify",
+        "reality",
+        "equation",
+        "locality",
+        "morality",
+        "quantity",
+        "speciality"
+      ],
+      "question": {
+        "wordId": "equality",
+        "stem": "选择 \"equality\" 的正确中文意思：",
+        "correct": "n.同等;平等;相等;等式;等同性",
+        "options": [
+          "n.同等;平等;相等;等式;等同性",
+          "n.质量,品质,特性",
+          "v.(使)具有资格,证明合格;限制,限定;修饰",
+          "n.现实,实际;真实"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根equ-意为'相等'，-ality为名词后缀，整体表示'相等的状态'，即平等、同等。",
+        "similarWarning": "quality（质量，品质） vs equality（平等）：前者首字母q-后接ual，后者e-后接ual，核心差异在词根，equ-强调相等，qual-强调性质。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "equation",
+      "word": "equation",
+      "phonetic": "/i'kweiʒən/",
+      "meaning": "n.(数学)等式,方程式;(with)相等;均衡",
+      "similar": [
+        "education",
+        "equator",
+        "regulation",
+        "reputation",
+        "reduction",
+        "sensation",
+        "nation",
+        "auction"
+      ],
+      "question": {
+        "wordId": "equation",
+        "stem": "选择 \"equation\" 的正确中文意思：",
+        "correct": "n.(数学)等式,方程式;(with)相等;均衡",
+        "options": [
+          "n.赤道",
+          "n.教育,培养,训练",
+          "n.规则,规章;调节,校准;调整",
+          "n.(数学)等式,方程式;(with)相等;均衡"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语aequatio，由aequ-（相等）+ -ation（名词后缀）构成，核心动作是使两边相等，引申为数学中的等式以及一般意义上的均衡状态。",
+        "similarWarning": "education（教育）：edu-（引导）+ -ation，拼写差异在duc与qua；equator（赤道）：equ-（相等）+ -ator（物），指将地球等分的线；regulation（规则）：reg-（统治）+ -ulation，与equ-无直接联系。",
+        "extendedMeaning": "在考研外刊中常指‘平衡’或‘协调关系’，如the equation of supply and demand（供需平衡），而非仅数学等式。",
+        "examUsage": "考点搭配：personal equation（个人因素/偏见），如influence the outcome by personal equation；真题例句：The equation of money with happiness is misleading.（将金钱等同于幸福是误导性的。）"
+      }
+    },
+    {
+      "id": "equator",
+      "word": "equator",
+      "phonetic": "/i'kweitə/",
+      "meaning": "n.赤道",
+      "similar": [
+        "equation",
+        "elevator"
+      ],
+      "question": {
+        "wordId": "equator",
+        "stem": "选择 \"equator\" 的正确中文意思：",
+        "correct": "n.赤道",
+        "options": [
+          "n.赤道",
+          "n.电梯,升降机",
+          "a.著名的",
+          "n.(数学)等式,方程式;(with)相等;均衡"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'aequator'（使相等者），由 'aequus'（相等的）派生，核心动作为“均分”。赤道将地球均分为南北半球，故得名。",
+        "similarWarning": "equation (n. 等式) vs equator (n. 赤道)：前者强调数学上的相等关系（-ation表动作/结果），后者强调地理上的均分（-or表施动者/物）。elevator (n. 电梯) 拼写相似但词根不同（lev-升），无直接关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "equip",
+      "word": "equip",
+      "phonetic": "/i'kwip/",
+      "meaning": "v.(with)装备,配备;训练",
+      "similar": [
+        "quit",
+        "quiz",
+        "equal"
+      ],
+      "question": {
+        "wordId": "equip",
+        "stem": "选择 \"equip\" 的正确中文意思：",
+        "correct": "v.(with)装备,配备;训练",
+        "options": [
+          "a.相等的;胜任的n.相等的事务;对手v.等于",
+          "n.小型考试,测验,问答比赛",
+          "v.离开,退出;停止,放弃,辞职",
+          "v.(with)装备,配备;训练"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自法语équiper（装备船只），古法语esquiper（装载上船），词根es-（出）+kip（船）。核心物理动作：将物资装载到船上→引申为为某人或某物配备必要的工具或技能。",
+        "similarWarning": "equip vs quit: q-u-i-t 是“离开、停止”，而equip是e-q-u-i-p，中间多一个e和p，词义完全不同；equip vs quiz: q-u-i-z 是“测验”，equip是e-q-u-i-p，注意末尾字母差异。",
+        "extendedMeaning": "考研中常考“训练、使具备能力”的引申义，如equip sb. for sth.（使某人为某事做好准备），并非仅指物理装备。",
+        "examUsage": "真题高频搭配：be equipped with（配备有），equip oneself for（为…做好准备）。例如：Students should be equipped with the necessary skills for future careers.（学生应为未来职业掌握必要技能。）"
+      }
+    },
+    {
+      "id": "equipment",
+      "word": "equipment",
+      "phonetic": "/i'kwipmənt/",
+      "meaning": "n.设备,器材,装置;才能",
+      "similar": [
+        "requirement",
+        "equivalent",
+        "shipment",
+        "excitement"
+      ],
+      "question": {
+        "wordId": "equipment",
+        "stem": "选择 \"equipment\" 的正确中文意思：",
+        "correct": "n.设备,器材,装置;才能",
+        "options": [
+          "n.装船,装运;装载的货物,装货量",
+          "a.(to)相等的,等价的 n.相等物,等价物",
+          "n.(for)需要,需要的东西,要求",
+          "n.设备,器材,装置;才能"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自法语équiper（装备船只），词根equip-（装备）+ -ment（名词后缀）。核心动作：为特定任务或功能配备所需工具或能力。",
+        "similarWarning": "形近词辨析：requirement（需求，要求，侧重必须条件）vs equipment（侧重工具硬件）；equivalent（等价的，相等的）vs equipment（拼写差异：-valent vs -ment）；shipment（装运，货运）vs equipment（拼写差异：ship- vs equip-）；excitement（兴奋，激动）vs equipment（拼写差异：excite- vs equip-）。",
+        "extendedMeaning": "考研僻义：指抽象层面的‘才能、素养’，如‘mental equipment’（心理素质/智力储备），在真题中常与个人能力、知识储备搭配。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "equivalent",
+      "word": "equivalent",
+      "phonetic": "/i'kwivələnt/",
+      "meaning": "a.(to)相等的,等价的 n.相等物,等价物",
+      "similar": [
+        "equipment",
+        "requirement",
+        "prevalent"
+      ],
+      "question": {
+        "wordId": "equivalent",
+        "stem": "选择 \"equivalent\" 的正确中文意思：",
+        "correct": "a.(to)相等的,等价的 n.相等物,等价物",
+        "options": [
+          "a.流行的,普遍的",
+          "a.(to)相等的,等价的 n.相等物,等价物",
+          "n.设备,器材,装置;才能",
+          "n.(for)需要,需要的东西,要求"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "equi-（相等）+ val（价值）+ -ent（形容词/名词后缀）→ 价值相等 → 相等的、等价的。核心动作：两物在价值、功能或意义上对等。",
+        "similarWarning": "equipment（设备，equip+ment）、requirement（要求，require+ment）、prevalent（流行的，pre-前+val+ent）。注意equi-与equip-拼写差异：equivalent中无p，equipment有p。",
+        "extendedMeaning": "考研僻义：在科技或法律语境中指“等效的”，如“equivalent circuit”（等效电路）或“equivalent effect”（等效效应），强调功能替代性而非完全等同。",
+        "examUsage": "真题考点：常与to搭配（be equivalent to），表示“等同于”。例如：\"One dollar is equivalent to about 6.5 yuan.\" 在阅读理解中常作为同义替换的题眼，如用equivalent替代same或equal。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1787 @@
+{
+  "batchId": 21,
+  "words": [
+    {
+      "id": "daily",
+      "word": "daily",
+      "phonetic": "/'deili/",
+      "meaning": "a.每日的 ad.每日,天天 n.日报",
+      "similar": [
+        "dairy",
+        "deadly",
+        "fairly",
+        "ally",
+        "fail",
+        "hail",
+        "nail",
+        "pail"
+      ],
+      "question": {
+        "wordId": "daily",
+        "stem": "选择 \"daily\" 的正确中文意思：",
+        "correct": "a.每日的 ad.每日,天天 n.日报",
+        "options": [
+          "n.牛奶场,奶店",
+          "ad.公正地,正当地;相当,还算",
+          "a.每日的 ad.每日,天天 n.日报",
+          "a.致命的;势不两立的; 极度的;必定的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源：day（天）+ -ly（形容词/副词后缀）。核心逻辑：与“一天”直接相关，表示“每日发生的”或“每天地”。",
+        "similarWarning": "daily vs dairy：daily 中有 'ai'（白天），dairy（奶制品）中有 'air'（空气），但拼写不同。daily vs deadly：deadly 含 dead（死亡），意为“致命的”，与 daily 无关。",
+        "extendedMeaning": "考研中常考名词用法：the daily（日报），如 China Daily（中国日报）。无特殊僻义。",
+        "examUsage": "常见搭配：daily routine（日常工作），daily life（日常生活），在真题中常作为时间状语或定语出现，无复杂考点。"
+      }
+    },
+    {
+      "id": "dairy",
+      "word": "dairy",
+      "phonetic": "/'dεəri/",
+      "meaning": "n.牛奶场,奶店",
+      "similar": [
+        "daily",
+        "fairy",
+        "fairly",
+        "dare",
+        "dirt",
+        "fair",
+        "pair",
+        "vary"
+      ],
+      "question": {
+        "wordId": "dairy",
+        "stem": "选择 \"dairy\" 的正确中文意思：",
+        "correct": "n.牛奶场,奶店",
+        "options": [
+          "a.每日的 ad.每日,天天 n.日报",
+          "ad.公正地,正当地;相当,还算",
+          "a.幻想中的;虚构的;优雅的 n.仙女;精灵",
+          "n.牛奶场,奶店"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'diaria'（每日的配给），原指女仆每日处理的牛奶制品，后专指牛奶场或奶制品店。核心动作：每日处理牛奶的场所。",
+        "similarWarning": "dairy vs daily: 'dairy' 含字母 'r'（牛奶场），'daily' 含 'l'（每日的）。dairy vs fairy: 'd' vs 'f'，前者是奶制品，后者是仙女。dairy vs dry: 'dairy' 有 'ai'（奶），'dry' 是干燥，注意字母顺序差异。",
+        "extendedMeaning": "",
+        "examUsage": "真题中常与 'daily' 混淆，如 'dairy products'（乳制品）与 'daily products'（日常产品）的区别。注意 'dairy' 后常接 farm（农场）、cattle（牛）等词。"
+      }
+    },
+    {
+      "id": "dam",
+      "word": "dam",
+      "phonetic": "/dæm/",
+      "meaning": "n.水坝,水闸",
+      "similar": [
+        "damn",
+        "damp",
+        "dim",
+        "ham",
+        "jam",
+        "drama"
+      ],
+      "question": {
+        "wordId": "dam",
+        "stem": "选择 \"dam\" 的正确中文意思：",
+        "correct": "n.水坝,水闸",
+        "options": [
+          "a.暗淡的,模糊的",
+          "int.该死 vt.遣责；使失败 a.十足的 ad.极",
+          "n.潮湿 a.潮湿的 vt.使潮湿;使衰减",
+          "n.水坝,水闸"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 dam- 源自原始印欧语 *dheh₁-（放置、堆积），核心物理动作为“用土石堆积拦截水流”，引申为“水坝、水闸”。",
+        "similarWarning": "damn（咒骂，谴责）：damn 多一个字母 n，词源为拉丁语 damnare（定罪），与 dam（水坝）无关联；damp（潮湿的）：dam 加 p，指湿度；dim（昏暗的）：dam 换 i 为 a，指光线弱；jam（果酱/堵塞）：dam 换 d 为 j，指拥挤或甜酱。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "damage",
+      "word": "damage",
+      "phonetic": "/'dæmɪdʒ/",
+      "meaning": "v./n.损害,毁坏 n.(pl.)损害赔偿费",
+      "similar": [
+        "amaze",
+        "image",
+        "garage",
+        "manage",
+        "savage"
+      ],
+      "question": {
+        "wordId": "damage",
+        "stem": "选择 \"damage\" 的正确中文意思：",
+        "correct": "v./n.损害,毁坏 n.(pl.)损害赔偿费",
+        "options": [
+          "n.车库,飞机库;修车厂",
+          "n.形象，声誉；印象；像；形象的描述，比喻",
+          "vt.使惊奇，使惊愕；使困惑 vi.表现出惊奇",
+          "v./n.损害,毁坏 n.(pl.)损害赔偿费"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语damnum（损失、伤害），-age为名词后缀。核心物理动作为“对某物造成价值或功能上的减损”，引申为法律上的“损害赔偿金”。",
+        "similarWarning": "damage（损害） vs. manage（管理） vs. savage（野蛮的）：damage含damn-（损失），manage含man-（手，操控），savage含sav-（森林，野性）。拼写上damage与manage仅首字母d/m不同，义域迥异。",
+        "extendedMeaning": "复数形式damages在考研中常考法律语境义：“损害赔偿金”，如award damages（判给赔偿金）。",
+        "examUsage": "常考搭配：cause damage to（对…造成损害），repair the damage（修复损害）。真题中常作为细节题题眼，区分physical damage（物理损害）与emotional damage（情感伤害）。"
+      }
+    },
+    {
+      "id": "damn",
+      "word": "damn",
+      "phonetic": "/dæm/",
+      "meaning": "int.该死 vt.遣责；使失败 a.十足的 ad.极",
+      "similar": [
+        "dam",
+        "damp",
+        "dawn",
+        "drain",
+        "drama"
+      ],
+      "question": {
+        "wordId": "damn",
+        "stem": "选择 \"damn\" 的正确中文意思：",
+        "correct": "int.该死 vt.遣责；使失败 a.十足的 ad.极",
+        "options": [
+          "n.潮湿 a.潮湿的 vt.使潮湿;使衰减",
+          "n.水坝,水闸",
+          "int.该死 vt.遣责；使失败 a.十足的 ad.极",
+          "n.黎明,拂晓 v.破晓;开始现出"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根damn-源自拉丁语damnare，意为‘判罪、谴责’，核心动作是‘施加负面判决’。从法律上的‘定罪’引申为口语中的‘该死’（表达愤怒或诅咒），以及动词‘谴责、指责’。其形容词/副词用法（十足的/极）源于强调负面程度，如‘damn fool’（十足的傻瓜）中的强化语气。",
+        "similarWarning": "dam（水坝；阻止） vs damn（该死；谴责）：damn多一个n，且词义截然不同；damp（潮湿的；抑制） vs damn：damp有p，词源无关；dawn（黎明；开始） vs damn：dawm无n，发音不同；drain（排水；耗尽） vs damn：drain有r和i，词义无关联；drama（戏剧） vs damn：drama有r和a，拼写差异明显。",
+        "extendedMeaning": "熟词僻义：在考研或外刊中，damn常作形容词或副词表示‘十足的、完全的’或‘极、非常’，如‘a damn good idea’（非常好的主意），强调程度而非字面诅咒。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "damp",
+      "word": "damp",
+      "phonetic": "/dæmp/",
+      "meaning": "n.潮湿 a.潮湿的 vt.使潮湿;使衰减",
+      "similar": [
+        "dam",
+        "camp",
+        "damn",
+        "dump",
+        "lamp",
+        "drama",
+        "stamp",
+        "swamp"
+      ],
+      "question": {
+        "wordId": "damp",
+        "stem": "选择 \"damp\" 的正确中文意思：",
+        "correct": "n.潮湿 a.潮湿的 vt.使潮湿;使衰减",
+        "options": [
+          "n.潮湿 a.潮湿的 vt.使潮湿;使衰减",
+          "n.水坝,水闸",
+          "n.野营,营地;帐篷,阵营 v.设营,宿营",
+          "int.该死 vt.遣责；使失败 a.十足的 ad.极"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*dampaz，核心物理动作为“使变湿/使变弱”。词根无复杂演变，直接指“潮湿”或“抑制、减弱”的过程，如 dampen（使潮湿/使沮丧）同源。",
+        "similarWarning": "damp（潮湿/衰减）vs damn（谴责，n替换为p）vs dump（倾倒，a替换为u）vs swamp（沼泽，加s和w）",
+        "extendedMeaning": "考研僻义：vt.使衰减、抑制（尤指声音、情绪、经济活力）。如 dampen demand（抑制需求），damp the vibration（减振）。",
+        "examUsage": "真题考点：damp down（压制、抑制），常用于经济或情绪语境。例：The government took measures to damp down inflation.（政府采取措施抑制通胀。）"
+      }
+    },
+    {
+      "id": "danger",
+      "word": "danger",
+      "phonetic": "/'deindʒə/",
+      "meaning": "n.危险;威胁;危险事物",
+      "similar": [
+        "anger",
+        "manager",
+        "angel",
+        "eager",
+        "range",
+        "banner",
+        "cancer",
+        "dinner"
+      ],
+      "question": {
+        "wordId": "danger",
+        "stem": "选择 \"danger\" 的正确中文意思：",
+        "correct": "n.危险;威胁;危险事物",
+        "options": [
+          "n.愤怒，气愤 vt.使发怒，激怒 vi.发怒",
+          "n.天使，安琪儿",
+          "n.危险;威胁;危险事物",
+          "n.经理,管理人"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源来自拉丁语“dominarium”（统治者的权力），后衍生出“危害”之意。核心动作：由“掌控权”引申为“可能带来伤害或损失的状态或事物”。",
+        "similarWarning": "danger vs. anger（愤怒）：d-开头与a-开头，前者指危险，后者指情绪。danger vs. angel（天使）：d-替换为a-，拼写相似但意义完全相反。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dare",
+      "word": "dare",
+      "phonetic": "/dεə/",
+      "meaning": "v.敢,胆敢",
+      "similar": [
+        "bare",
+        "care",
+        "date",
+        "fare",
+        "rare",
+        "adore",
+        "aware",
+        "carve"
+      ],
+      "question": {
+        "wordId": "dare",
+        "stem": "选择 \"dare\" 的正确中文意思：",
+        "correct": "v.敢,胆敢",
+        "options": [
+          "n.日期,年代 v.注明…的日期 n./v.约会",
+          "n.小心;关怀,照料 v.(about)关心,介意,计较",
+          "a.赤裸的,空的;稀少的,仅有的 v.露出,暴露",
+          "v.敢,胆敢"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*dars，意为'冒险、有勇气'，核心动作是'面对危险或挑战时敢于行动'，与'胆量'直接相关。",
+        "similarWarning": "bare（adj.空的；v.暴露）与dare仅首字母不同；care（n./v.关心）首字母c替换d；dark（adj.黑暗的）末尾k替换e；date（n.日期；v.约会）末尾t替换r；fare（n.费用；v.进展）首字母f替换d；rare（adj.稀有的）首字母r替换d；adore（v.崇拜）前缀ad-加ore，与dare拼写差异大但发音相近；aware（adj.意识到的）前缀a-加ware，与dare无关。",
+        "extendedMeaning": "考研中常考'激将'用法，如I dare you to do sth.意为'我谅你也不敢做某事'，或用于否定句表示'不敢'（daren't）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "darling",
+      "word": "darling",
+      "phonetic": "/'dɑ:liŋ/",
+      "meaning": "n.心爱的人,亲爱的",
+      "similar": [
+        "during",
+        "deadline",
+        "dwelling",
+        "learning"
+      ],
+      "question": {
+        "wordId": "darling",
+        "stem": "选择 \"darling\" 的正确中文意思：",
+        "correct": "n.心爱的人,亲爱的",
+        "options": [
+          "prep.在…期间",
+          "n.住宅,寓所",
+          "n.最后期限",
+          "n.心爱的人,亲爱的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语 deorling，由 deor（亲爱的，即 dear）+ -ling（后缀，表示“小”或“亲昵”）构成，本义为“亲爱的小东西”，后演变为“心爱的人、亲爱的”。核心动作：用亲昵后缀表达爱意。",
+        "similarWarning": "形近词对比：\n- during（在...期间）：拼写差异为 -ing vs -ling，词根 dur-（持续）。\n- deadline（截止日期）：dead（死）+ line（线），无 -ling。\n- dwelling（住所）：dwell（居住）+ -ing，无 -ling。\n- learning（学习）：learn（学习）+ -ing，无 -ling。\n辨析：darling 以 -ling 结尾，表亲昵；其余词均含 -ing 或不同词根。",
+        "extendedMeaning": "考研中无显著僻义，基本保留“亲爱的人”或“宠儿”之意。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dash",
+      "word": "dash",
+      "phonetic": "/dæʃ/",
+      "meaning": "v./n.冲,猛冲,突进 n.破折号",
+      "similar": [
+        "ash",
+        "cash",
+        "dish",
+        "lash",
+        "rash",
+        "wash",
+        "clash",
+        "crash"
+      ],
+      "question": {
+        "wordId": "dash",
+        "stem": "选择 \"dash\" 的正确中文意思：",
+        "correct": "v./n.冲,猛冲,突进 n.破折号",
+        "options": [
+          "v./n.冲,猛冲,突进 n.破折号",
+          "n.灰，灰末；(pl.)骨灰；(pl.)废墟",
+          "n.现金,现款 v.兑现,付(或收)现款",
+          "n.碟子,盘子,菜肴"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模仿物体快速移动或撞击的声音。核心物理动作是“猛冲、急撞”，引申为“猛冲、突进”。破折号含义来源于其在书写中表示突然中断或转折的“冲断”效果。",
+        "similarWarning": "dash vs. crash (猛撞/撞碎)：dash强调快速移动的冲劲，crash强调撞击后的破碎声。dash vs. clash (冲突/撞击)：clash强调金属或观点的碰撞，dash更侧重速度。",
+        "extendedMeaning": "破折号（punctuation mark indicating a break）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "data",
+      "word": "data",
+      "phonetic": "/'deitə/",
+      "meaning": "n.(datum的复数)资料，数据",
+      "similar": [
+        "date",
+        "drama",
+        "fatal"
+      ],
+      "question": {
+        "wordId": "data",
+        "stem": "选择 \"data\" 的正确中文意思：",
+        "correct": "n.(datum的复数)资料，数据",
+        "options": [
+          "n.(datum的复数)资料，数据",
+          "a.致命的,毁灭性的",
+          "n.日期,年代 v.注明…的日期 n./v.约会",
+          "n.剧本,戏剧;戏剧性事件或场面"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“datum”（给予之物）的复数形式。词根“dat-”（给）→“被给予的东西”→作为推理或计算的基础材料，即“数据、资料”。核心动作：给予→基础材料。",
+        "similarWarning": "date（日期，约会）：去掉a变t；death（死亡）：替换t为th；drama（戏剧）：替换t为r，加m；fatal（致命的）：替换d为f，加l。",
+        "extendedMeaning": "在计算机科学中引申为“数据（可被处理的信息集合）”，如“big data”（大数据），考研阅读常考其作为事实依据与观点（opinion）的区分。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "database",
+      "word": "database",
+      "phonetic": "/'deitəbeis/",
+      "meaning": "n.(databank)数据库",
+      "similar": [],
+      "question": {
+        "wordId": "database",
+        "stem": "选择 \"database\" 的正确中文意思：",
+        "correct": "n.(databank)数据库",
+        "options": [
+          "n.(databank)数据库",
+          "vt.承认；接受；告知(信件等的)收到；答谢",
+          "n.标本,样本",
+          "v.致敬,敬意,迎接;扑(鼻),入(耳),触(目)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由data（数据）和base（基础、基地）复合而成，字面意思为“数据的基础”，即数据库。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "date",
+      "word": "date",
+      "phonetic": "/deit/",
+      "meaning": "n.日期,年代 v.注明…的日期 n./v.约会",
+      "similar": [
+        "dare",
+        "data",
+        "fate",
+        "gate",
+        "hate",
+        "mate",
+        "rate",
+        "debate"
+      ],
+      "question": {
+        "wordId": "date",
+        "stem": "选择 \"date\" 的正确中文意思：",
+        "correct": "n.日期,年代 v.注明…的日期 n./v.约会",
+        "options": [
+          "n.日期,年代 v.注明…的日期 n./v.约会",
+          "n.命运",
+          "v.敢,胆敢",
+          "n.(datum的复数)资料，数据"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 data（给予的），原指信件上标注的“给予日期”，引申为“日期、年代”，再引申为“约会”（指定时间会面）。",
+        "similarWarning": "dare（敢）、data（数据）、fate（命运）、gate（大门）、hate（憎恨）、late（迟的）、mate（伙伴）、rate（比率）——均与date仅首字母或尾字母不同，需注意拼写差异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dawn",
+      "word": "dawn",
+      "phonetic": "/dɔ:n/",
+      "meaning": "n.黎明,拂晓 v.破晓;开始现出",
+      "similar": [
+        "damn",
+        "lawn",
+        "yawn",
+        "drain",
+        "drown"
+      ],
+      "question": {
+        "wordId": "dawn",
+        "stem": "选择 \"dawn\" 的正确中文意思：",
+        "correct": "n.黎明,拂晓 v.破晓;开始现出",
+        "options": [
+          "n.黎明,拂晓 v.破晓;开始现出",
+          "int.该死 vt.遣责；使失败 a.十足的 ad.极",
+          "v.打呵欠 n.呵欠",
+          "n.草地,草坪"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "古英语dagian (变成白天), 与day同源。核心物理动作是“天变亮的过程”或“光线开始出现”。",
+        "similarWarning": "damn (诅咒) vs dawn (黎明): damn比dawn多一个m, 词义负面。\ndown (向下) vs dawn (黎明): down比dawn少a, 方向相反。\nlawn (草坪) vs dawn (黎明): lawn首字母l, 指草地。\nyawn (打哈欠) vs dawn (黎明): yawn首字母y, 动作。\ndrain (排水) vs dawn (黎明): drain含rain, 指水流走。\ndrown (淹死) vs dawn (黎明): drown含own, 指溺水。",
+        "extendedMeaning": "v. 开始现出；渐渐被理解 (如: dawn on sb.) 例: It dawned on me that... (我逐渐意识到...)",
+        "examUsage": "核心搭配: dawn on/upon sb. (某人逐渐明白) 常作阅读题眼；真题例句: The truth dawned on him. (真相逐渐浮现在他脑海中。)"
+      }
+    },
+    {
+      "id": "daylight",
+      "word": "daylight",
+      "phonetic": "/'deilait/",
+      "meaning": "n.日光,白昼,黎明",
+      "similar": [
+        "delight",
+        "flight",
+        "plight",
+        "slight"
+      ],
+      "question": {
+        "wordId": "daylight",
+        "stem": "选择 \"daylight\" 的正确中文意思：",
+        "correct": "n.日光,白昼,黎明",
+        "options": [
+          "n.情况,状态,困境,盟誓(婚姻) v.保证,约定",
+          "n.日光,白昼,黎明",
+          "n.快乐,高兴 v.(使)高兴,(使)欣喜",
+          "n.飞翔,飞行;航班;航程;逃跑;楼梯的一段"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "day（日）+ light（光）→ 日间的光，即日光、白昼。源自古英语 dæg（日）与 leoht（光）的组合，强调自然光照的时间段，区别于 artificial light（人造光）。",
+        "similarWarning": "delight（快乐）：d与l互换，light→ligh，拼写差异在首字母及词义；flight（飞行）：f替换d，light→ligh，强调动作；plight（困境）：p替换d，light→ligh，词义截然不同。注意 daylight 中的 day 是时间概念，而其余词根为 light 的变体。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "daytime",
+      "word": "daytime",
+      "phonetic": "/'deitaim/",
+      "meaning": "n.白天,日间",
+      "similar": [
+        "pastime",
+        "meantime"
+      ],
+      "question": {
+        "wordId": "daytime",
+        "stem": "选择 \"daytime\" 的正确中文意思：",
+        "correct": "n.白天,日间",
+        "options": [
+          "n.白天,日间",
+          "n.消遣,娱乐",
+          "n.(meanwhile)其间,其时 ad.同时,当时",
+          "n.摩天大楼"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由 day（白天）+ time（时间）复合而成，直指‘白天的时间段’，与 nighttime（夜间）相对。词义透明，属基础时间分类词汇。",
+        "similarWarning": "pastime（n.消遣，娱乐：pas-前缀‘经过’+time，字面‘消磨时间’）、meantime（n./adv. 其间，同时：mean‘中间的’+time，强调‘间隔时段’）。注意 daytime 特指‘日间时段’，而 meantime 侧重‘等待期间’。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dazzle",
+      "word": "dazzle",
+      "phonetic": "/'dæzl/",
+      "meaning": "v.使惊奇,使倾斜;耀(眼) n.耀眼的光",
+      "similar": [
+        "puzzle"
+      ],
+      "question": {
+        "wordId": "dazzle",
+        "stem": "选择 \"dazzle\" 的正确中文意思：",
+        "correct": "v.使惊奇,使倾斜;耀(眼) n.耀眼的光",
+        "options": [
+          "n.(program)节目,计划,规划,程序 v.编程序",
+          "v.(from)保护,保卫",
+          "n.难题,谜,迷惑 v.(使)迷惑,(使)为难",
+          "v.使惊奇,使倾斜;耀(眼) n.耀眼的光"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自中古英语dasen（眩晕），与daze同源。核心物理动作：强烈的光线照射使眼睛短暂失明或眩晕。引申为因极致的才华、美貌或技巧而使人产生心理上的惊叹与着迷，即‘使倾倒’。",
+        "similarWarning": "puzzle（使困惑）：dazzle强调因强烈刺激而‘眩晕/倾倒’，puzzle强调因复杂难解而‘迷惑’。拼写差异：dazzle含字母‘zz’模拟闪光感；puzzle含‘zz’模拟困惑的停滞感。",
+        "extendedMeaning": "（考研高频）‘使倾倒，使赞叹不已’：用于形容某物或某人因卓越、非凡而令人极度欣赏或崇拜，如dazzling performance（令人惊叹的表演）。",
+        "examUsage": "常与with搭配：dazzle sb. with sth.（以…使某人倾倒）。真题例句：‘Her diamond necklace dazzled everyone at the party.’ 注意：dazzle作动词时，主语常为‘物’（光彩/才华），宾语为‘人’；被动形式be dazzled by表示‘被…迷住/震撼’。"
+      }
+    },
+    {
+      "id": "deadline",
+      "word": "deadline",
+      "phonetic": "/'dedlain/",
+      "meaning": "n.最后期限",
+      "similar": [
+        "headline",
+        "decline",
+        "deadly",
+        "define",
+        "darling",
+        "heading",
+        "leading",
+        "reading"
+      ],
+      "question": {
+        "wordId": "deadline",
+        "stem": "选择 \"deadline\" 的正确中文意思：",
+        "correct": "n.最后期限",
+        "options": [
+          "v.下降,衰落;拒绝 n.下降;斜面,倾斜,衰落",
+          "a.致命的;势不两立的; 极度的;必定的",
+          "n.大字标题,新闻标题",
+          "n.最后期限"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "dead（死）+ line（线）→ 越过即“死”的线，本指监狱周围不可逾越的警戒线，引申为必须遵守的最后期限。",
+        "similarWarning": "headline（标题）vs deadline：head-（头）+line→头版线=标题；dead-（死）+line→死线=截止日。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "deadly",
+      "word": "deadly",
+      "phonetic": "/'dedli/",
+      "meaning": "a.致命的;势不两立的; 极度的;必定的",
+      "similar": [
+        "readily",
+        "deal",
+        "badly",
+        "daily",
+        "yearly",
+        "deadline"
+      ],
+      "question": {
+        "wordId": "deadly",
+        "stem": "选择 \"deadly\" 的正确中文意思：",
+        "correct": "a.致命的;势不两立的; 极度的;必定的",
+        "options": [
+          "a.致命的;势不两立的; 极度的;必定的",
+          "ad.容易地;乐意地,欣然地",
+          "ad.非常，严重地；坏地，差地，拙劣地",
+          "v.处理;做买卖,经营;分配;对待 n.交易"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "dead（死）+ -ly（形容词后缀）→ 致死的、致命的。核心动作是“导致死亡”，引申为“势不两立的（如死敌）”、“极度的（如致命般的程度）”、“必定的（如死期已定）”。",
+        "similarWarning": "deadly vs. dead：deadly侧重“致命的”性质或程度；dead指“死亡的”状态。deadly vs. badly：badly是“严重地/坏地”，deadly是“致命地/极度地”。deadly vs. daily：daily是“每日的”，拼写差异在首字母d后。",
+        "extendedMeaning": "（考研常见）极度的、非常的：deadly serious（极度严肃），deadly dull（极其枯燥）。",
+        "examUsage": "（真题考点）a deadly enemy（死敌）；deadly weapon（致命武器）；be deadly at sth（在某方面极其擅长）。"
+      }
+    },
+    {
+      "id": "deaf",
+      "word": "deaf",
+      "phonetic": "/def/",
+      "meaning": "a.聋的;不愿听的",
+      "similar": [
+        "deal",
+        "dean",
+        "decay",
+        "delay",
+        "draft",
+        "dread",
+        "dwarf",
+        "ideal"
+      ],
+      "question": {
+        "wordId": "deaf",
+        "stem": "选择 \"deaf\" 的正确中文意思：",
+        "correct": "a.聋的;不愿听的",
+        "options": [
+          "a.聋的;不愿听的",
+          "v.处理;做买卖,经营;分配;对待 n.交易",
+          "n.(大学)院长;主持牧师; (基督教)教长",
+          "v./n.腐朽,腐烂;衰减,衰退"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语‘deaf’，与德语‘taub’同源，核心动作是‘听觉缺失或关闭’。引申为‘不愿听的’，表示心理上的抗拒或封闭，物理上指耳朵无法接收声音信号。",
+        "similarWarning": "dead（死的）：deaf vs dead，字母‘a’和‘e’互换，词义从‘聋’变为‘死’，区别在于听觉功能丧失 vs 生命体征丧失。deal（处理）：deaf vs deal，末尾‘f’换为‘l’，词义从‘聋’变为‘交易’，拼写差异在最后辅音。dear（亲爱的）：deaf vs dear，中间‘a’和‘e’不同，词义从‘聋’变为‘珍贵’，注意元音替换。",
+        "extendedMeaning": "在考研阅读中，deaf可引申为‘对（观点、请求等）充耳不闻的’，如‘deaf to criticism’（对批评充耳不闻），强调主观忽视而非生理缺陷。",
+        "examUsage": "常见搭配‘turn a deaf ear to’（对…置若罔闻），在真题中作为固定短语出现，表意‘拒绝听取’，常与‘appeal, advice, warning’等搭配。"
+      }
+    },
+    {
+      "id": "deal",
+      "word": "deal",
+      "phonetic": "/di:l/",
+      "meaning": "v.处理;做买卖,经营;分配;对待 n.交易",
+      "similar": [
+        "ideal",
+        "deaf",
+        "dean",
+        "dial",
+        "heal",
+        "seal",
+        "zeal",
+        "deadly"
+      ],
+      "question": {
+        "wordId": "deal",
+        "stem": "选择 \"deal\" 的正确中文意思：",
+        "correct": "v.处理;做买卖,经营;分配;对待 n.交易",
+        "options": [
+          "v.处理;做买卖,经营;分配;对待 n.交易",
+          "a.理想的;空想的;理想主义的;唯心的 n.理想",
+          "a.聋的;不愿听的",
+          "n.(大学)院长;主持牧师; (基督教)教长"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，但核心动作可理解为“分派、分配”。古英语‘dælan’意为分开、分配，引申为处理事务、做买卖（分配商品）、对待（分配态度），名词指交易（分配的结果）。",
+        "similarWarning": "deal vs. heal: d vs. h, 处理 vs. 治愈。dea vs. dea: 如dead（死的）与deal（处理），差d尾字母；dear（亲爱的）与deal，差r/l。",
+        "extendedMeaning": "1. 大量，程度（a great deal of）：修饰不可数名词，表示“大量”。2. 协议，待遇（deal作名词时，在真题中常指“协议、安排”，如‘New Deal’新政）。",
+        "examUsage": "1. deal with 处理；2. a good/great deal of 大量（后接不可数名词，如a great deal of time）；3. 真题例句：'The government needs to deal with the problem of unemployment.'"
+      }
+    },
+    {
+      "id": "dealer",
+      "word": "dealer",
+      "phonetic": "/'di:lə(r)/",
+      "meaning": "n.商人",
+      "similar": [
+        "deal",
+        "deer",
+        "eager",
+        "drawer",
+        "reader"
+      ],
+      "question": {
+        "wordId": "dealer",
+        "stem": "选择 \"dealer\" 的正确中文意思：",
+        "correct": "n.商人",
+        "options": [
+          "a.(for)渴望的,热切的",
+          "n.鹿",
+          "v.处理;做买卖,经营;分配;对待 n.交易",
+          "n.商人"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自动词deal（处理、交易）+ 表示人的后缀-er，字面意为‘处理交易的人’，即商人。",
+        "similarWarning": "dealer vs dealer: deal（交易/处理）+er；dear（亲爱的）；deer（鹿）；eager（渴望的）；drawer（抽屉）；reader（读者）。注意拼写差异，尤其是dealer与dear/deer仅一个字母之差。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dean",
+      "word": "dean",
+      "phonetic": "/di:n/",
+      "meaning": "n.(大学)院长;主持牧师; (基督教)教长",
+      "similar": [
+        "bean",
+        "deaf",
+        "deal",
+        "lean",
+        "demand",
+        "detain",
+        "decay",
+        "delay"
+      ],
+      "question": {
+        "wordId": "dean",
+        "stem": "选择 \"dean\" 的正确中文意思：",
+        "correct": "n.(大学)院长;主持牧师; (基督教)教长",
+        "options": [
+          "n.(大学)院长;主持牧师; (基督教)教长",
+          "a.聋的;不愿听的",
+          "v.处理;做买卖,经营;分配;对待 n.交易",
+          "n.豆;菜豆,蚕豆"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 decanus，原指“十人之首”，由 decem（十）派生，本义是领导十名僧侣的负责人，后演变为大学院长或教长。核心动作是“管理十人团队”，强调层级中的领头角色。",
+        "similarWarning": "与 lean（倾斜）字母差异：d vs l，词义无关。与 mean（意味；平均）字母差异：d vs m，词义无关。与 dead（死的）字母差异：ea vs ead，词义无关。",
+        "extendedMeaning": "在学术语境中可引申为“（某领域的）泰斗、资深人物”，如 the dean of American historians（美国史学界泰斗）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "debate",
+      "word": "debate",
+      "phonetic": "/di'beit/",
+      "meaning": "v./n.争论,辩论",
+      "similar": [
+        "deviate",
+        "date",
+        "debt",
+        "decade",
+        "delete",
+        "denote",
+        "devote",
+        "donate"
+      ],
+      "question": {
+        "wordId": "debate",
+        "stem": "选择 \"debate\" 的正确中文意思：",
+        "correct": "v./n.争论,辩论",
+        "options": [
+          "n.债,债务",
+          "v./n.争论,辩论",
+          "n.日期,年代 v.注明…的日期 n./v.约会",
+          "v.(from)背离,偏离"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "de-（向下，完全）+ bat（打，击）+ -e → 原义为“彻底击打”，引申为“用言语激烈交锋”，即争论、辩论。",
+        "similarWarning": "deviate（v.偏离）：de-（离开）+ vi（路）+ -ate → 离开正路。对比：debate强调“打斗式争论”，deviate强调“偏离轨道”。",
+        "extendedMeaning": "熟词僻义：在考研中可指“仔细考虑，斟酌”（如 debate whether to do sth.），非简单争吵。",
+        "examUsage": "真题考点：常用于搭配 debate over/about sth.，作名词时后接 on sth.。干扰项常与 argue（侧重说理）、discuss（侧重友好讨论）混淆。"
+      }
+    },
+    {
+      "id": "debt",
+      "word": "debt",
+      "phonetic": "/det/",
+      "meaning": "n.债,债务",
+      "similar": [
+        "debate",
+        "depth",
+        "doubt"
+      ],
+      "question": {
+        "wordId": "debt",
+        "stem": "选择 \"debt\" 的正确中文意思：",
+        "correct": "n.债,债务",
+        "options": [
+          "n./v.怀疑,疑虑",
+          "n.深，深度,深奥,深刻",
+          "v./n.争论,辩论",
+          "n.债,债务"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语debitum（所欠之物），由de-（从，离开）+-bitum（有，持有）构成，核心动作是“从某人处拿走的东西”，即借走需归还的财物。",
+        "similarWarning": "debate（辩论）：de-（向下）+bate（打），核心是“打倒对方观点”；death（死亡）：来自古英语，与debt无直接词源关联；depth（深度）：deep的名词形式，与debt拼写差异在“p”与“b”；doubt（怀疑）：来自拉丁语dubitare（摇摆），核心是“二心”。",
+        "extendedMeaning": "在考研中常引申为“人情债、恩惠”（如debt of gratitude），或抽象层面的“欠账”（如moral debt）。",
+        "examUsage": "常见搭配：in debt（负债），debt collector（讨债人）。真题考点：区分debt与loan（贷款，需偿还本金+利息），debt泛指债务，loan特指借贷行为。"
+      }
+    },
+    {
+      "id": "decade",
+      "word": "decade",
+      "phonetic": "/'dekeid/",
+      "meaning": "n.十年",
+      "similar": [
+        "decide",
+        "declare",
+        "decay",
+        "evade",
+        "debate",
+        "recede",
+        "decorate",
+        "decrease"
+      ],
+      "question": {
+        "wordId": "decade",
+        "stem": "选择 \"decade\" 的正确中文意思：",
+        "correct": "n.十年",
+        "options": [
+          "v./n.腐朽,腐烂;衰减,衰退",
+          "v.宣布,宣告,声明;断言,宣称",
+          "v.决定,下决心;解决,裁决",
+          "n.十年"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语decem（十），-ade为名词后缀，表示集合或时期，核心动作是“十的集合”，直接指代十年周期。",
+        "similarWarning": "decide（决定）含-cid-（切），与decade仅差字母i；decay（腐烂）含-cay-（落下），与decade差字母y；evade（逃避）含vad-（走），与decade首字母不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "decay",
+      "word": "decay",
+      "phonetic": "/di'kei/",
+      "meaning": "v./n.腐朽,腐烂;衰减,衰退",
+      "similar": [
+        "delay",
+        "decade",
+        "deaf",
+        "deal",
+        "dean",
+        "deck",
+        "defy",
+        "deny"
+      ],
+      "question": {
+        "wordId": "decay",
+        "stem": "选择 \"decay\" 的正确中文意思：",
+        "correct": "v./n.腐朽,腐烂;衰减,衰退",
+        "options": [
+          "n.十年",
+          "v./n.耽搁,延迟",
+          "a.聋的;不愿听的",
+          "v./n.腐朽,腐烂;衰减,衰退"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "前缀de-（向下，完全）+ 词根cay（落下，源自拉丁语cadere‘落下’）。核心动作‘完全落下’→引申为逐步‘衰落、腐朽’。",
+        "similarWarning": "delay（拖延）：de-+lay（放置），强调‘推迟’；decay强调‘衰败’。decade（十年）：deca-（十）+ -ade（名词后缀），拼写相近但词根不同。",
+        "extendedMeaning": "考研中常引申为‘（制度、文明、道德等的）衰落、衰退’，如moral decay（道德沦丧）。",
+        "examUsage": "真题考点：常与介词into搭配，如decay into（衰退成……），或作名词与fall into decay（陷入衰败）固定搭配。"
+      }
+    },
+    {
+      "id": "deceit",
+      "word": "deceit",
+      "phonetic": "/di'si:t/",
+      "meaning": "n.欺骗,欺骗行为",
+      "similar": [
+        "decent",
+        "deceive",
+        "descent",
+        "receipt",
+        "defeat",
+        "defect",
+        "desert",
+        "detect"
+      ],
+      "question": {
+        "wordId": "deceit",
+        "stem": "选择 \"deceit\" 的正确中文意思：",
+        "correct": "n.欺骗,欺骗行为",
+        "options": [
+          "n.下降,降下;斜坡;血统,家世",
+          "n.欺骗,欺骗行为",
+          "a.体面的;正派的,合乎礼仪的;合适的",
+          "v.欺骗,蒙蔽"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "de-（向下/完全）+ ceit（词根cept-/ceiv-的变体，意为“拿/取”）。核心动作：完全拿走或隐藏真相，引申为欺骗行为。",
+        "similarWarning": "deceit vs decent: deceit含“eit”，decent含“ent”；deceit指欺骗，decent指体面的。deceit vs deceive: deceit是名词，deceive是动词；词根相同，词性不同。deceit vs descent: descent含“scent”，意为下降；deceit不含s。",
+        "extendedMeaning": "考研中常引申为“诡计”或“欺诈手段”，强调有预谋的欺骗行为，而非单纯撒谎。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "deceive",
+      "word": "deceive",
+      "phonetic": "/di'si:v/",
+      "meaning": "v.欺骗,蒙蔽",
+      "similar": [
+        "receive",
+        "decisive",
+        "perceive",
+        "deceit",
+        "decide",
+        "derive",
+        "decline",
+        "deprive"
+      ],
+      "question": {
+        "wordId": "deceive",
+        "stem": "选择 \"deceive\" 的正确中文意思：",
+        "correct": "v.欺骗,蒙蔽",
+        "options": [
+          "v.欺骗,蒙蔽",
+          "v.察觉,感知;理解,领悟",
+          "v.收到,接到;遭受,受到;接待,接见",
+          "a.决定性的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（向下、离开）+ -ceive（来自拉丁语capere，意为“拿、取”）。核心动作：通过误导或隐瞒真相，将他人引向错误的方向或拿走其判断力。",
+        "similarWarning": "deceive vs receive: de-（向下/离开） vs re-（回/再），前者侧重“误导使偏离”，后者侧重“接收”。deceive vs perceive: per-（通过/完全），后者意为“察觉”。deceive vs deceit: 后者为名词形式。",
+        "extendedMeaning": "在考研阅读中，deceive可引申为“使误解、使产生错觉”，如“The data can deceive”（数据可能误导），强调非故意但造成错误认知。",
+        "examUsage": "常考搭配：deceive oneself (自欺欺人)，如“We must not deceive ourselves into thinking...”真题中常作为干扰项，与mislead、trick等词辨析，注意其强调“故意欺骗”与“无意误导”的区别。"
+      }
+    },
+    {
+      "id": "december",
+      "word": "December",
+      "phonetic": "/di'sembə/",
+      "meaning": "n.十二月",
+      "similar": [
+        "remember",
+        "september",
+        "deceive",
+        "cucumber",
+        "november"
+      ],
+      "question": {
+        "wordId": "december",
+        "stem": "选择 \"December\" 的正确中文意思：",
+        "correct": "n.十二月",
+        "options": [
+          "v.记住;(to)转达问候,代…致意,代…问好",
+          "n.十二月",
+          "n.九月",
+          "v.欺骗,蒙蔽"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'decem'（十），原为罗马历法中的第10个月。后因历法改革加入一月和二月，变为第12个月。词根'decem-'（十）与'decade'（十年）同源。",
+        "similarWarning": "remember（记住）: re-（再次）+ member（记忆），拼写差异在'em' vs 'ece'；September（九月）: septem（七），拼写差异在'Sept' vs 'Dec'；deceive（欺骗）: de-（离开）+ ceive（拿），拼写差异在'ceive' vs 'cember'。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "decent",
+      "word": "decent",
+      "phonetic": "/'di:sənt/",
+      "meaning": "a.体面的;正派的,合乎礼仪的;合适的",
+      "similar": [
+        "descent",
+        "deceit",
+        "descend",
+        "percent",
+        "cent",
+        "scent",
+        "accent",
+        "cement"
+      ],
+      "question": {
+        "wordId": "decent",
+        "stem": "选择 \"decent\" 的正确中文意思：",
+        "correct": "a.体面的;正派的,合乎礼仪的;合适的",
+        "options": [
+          "v.下来,下降;遗传(指财产,气质,权利)",
+          "n.欺骗,欺骗行为",
+          "n.下降,降下;斜坡;血统,家世",
+          "a.体面的;正派的,合乎礼仪的;合适的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'decens'（合适的、体面的），词根 'dec-' 意为 '合适、得体'（如 decor '装饰'），-ent 为形容词后缀。核心动作：符合标准或规范，引申为‘体面的、正派的’。",
+        "similarWarning": "descent (n.下降，血统) vs decent (a.体面的)：descent 含 'scent' 音，拼写多 's'，词根 'scend' 表‘爬’反义。deceit (n.欺骗) vs decent：deceit 含 'ceit'（同 'cept' 抓），指‘抓走’（误导），decent 强调‘合适’。",
+        "extendedMeaning": "在考研真题中，decent 可引申为‘相当好的、过得去的’（a decent salary 相当不错的薪水），或‘正派的、有道德的’（a decent person 正派人）。",
+        "examUsage": "固定搭配 'decent living'（体面的生活）在真题完形中作为干扰项，与 'adequate' 辨析：decent 强调符合标准，adequate 侧重足够。"
+      }
+    },
+    {
+      "id": "decide",
+      "word": "decide",
+      "phonetic": "/di'said/",
+      "meaning": "v.决定,下决心;解决,裁决",
+      "similar": [
+        "decade",
+        "deceive",
+        "decline",
+        "beside",
+        "define",
+        "derive",
+        "desire",
+        "device"
+      ],
+      "question": {
+        "wordId": "decide",
+        "stem": "选择 \"decide\" 的正确中文意思：",
+        "correct": "v.决定,下决心;解决,裁决",
+        "options": [
+          "v.决定,下决心;解决,裁决",
+          "n.十年",
+          "v.欺骗,蒙蔽",
+          "v.下降,衰落;拒绝 n.下降;斜面,倾斜,衰落"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 de-（加强/向下）+ cid-（切/杀）+ -e → 原义为“切断/下刀”，引申为“做出决断、一锤定音”。核心动作：切下去，不再犹豫。",
+        "similarWarning": "decade（十年，deca-十） vs decide（决定，cid-切）：拼写差异在 -ade 与 -ide；deceive（欺骗，ceive-拿） vs decide（cid-切）：字母 ceiv 与 cid 不同；decline（下降/拒绝，clin-倾斜） vs decide：字母 clin 与 cid 不同。",
+        "extendedMeaning": "在考研阅读中常引申为“裁决、判定”，如“The court decided the case.”（法庭裁决此案），强调权威性结论。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "decimal",
+      "word": "decimal",
+      "phonetic": "/'desiməl/",
+      "meaning": "a.十进的,小数的,十进制的 n.小数",
+      "similar": [
+        "denial"
+      ],
+      "question": {
+        "wordId": "decimal",
+        "stem": "选择 \"decimal\" 的正确中文意思：",
+        "correct": "a.十进的,小数的,十进制的 n.小数",
+        "options": [
+          "a.十进的,小数的,十进制的 n.小数",
+          "n.否认;拒绝;否认某事或某事实的声明",
+          "n.义务,责任;职务;税",
+          "a.极度的，极坏的；威严的，可怕的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语“decimus”（第十），源于“decem”（十）。词根“dec-”表示“十”，后缀“-mal”表示“...的”。核心动作：与“十”相关的计数系统，即十进制。小数是十进制分数的简称。",
+        "similarWarning": "与denial（否认）易混：decimal含“dec-”（十），denial含“deny-”（否认）。字母差异：dec- vs den-，-imal vs -ial。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "decision",
+      "word": "decision",
+      "phonetic": "/di'siʒən/",
+      "meaning": "n.决定,决心;决议;决策",
+      "similar": [
+        "precision",
+        "decisive",
+        "division",
+        "design",
+        "vision",
+        "edition",
+        "erosion",
+        "pension"
+      ],
+      "question": {
+        "wordId": "decision",
+        "stem": "选择 \"decision\" 的正确中文意思：",
+        "correct": "n.决定,决心;决议;决策",
+        "options": [
+          "n.精确,精确度",
+          "a.决定性的",
+          "n.决定,决心;决议;决策",
+          "n.分,分割;部门,科,处;除法;分界线"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "de-（加强/向下）+ cis-（切，来自拉丁语caedere“切割”）+ -ion（名词后缀）。核心动作：将多种可能性“切”掉，只保留一个选择。引申为“决定、决心”。",
+        "similarWarning": "precision（精确）: pre-（预先）+cis-（切），强调“切”得准确无误。division（分割）: dis-（分开）+vis-（看），原指“分开看”，现指“部门/分裂”。erosion（侵蚀）: e-（出）+ros-（咬），指“咬掉”的过程。",
+        "extendedMeaning": "考研中常考“决策”的抽象义，如make a decision（做决定），但更侧重“果断性”或“决议结果”，而非日常“决定”的简单动作。",
+        "examUsage": "常见搭配：come to/reach a decision（达成决定）；decision-making（决策过程）。真题考点：作为主语或宾语时，常与动词make/reach/arrive at连用，干扰项常为precision（精确性）或division（分歧）。"
+      }
+    },
+    {
+      "id": "decisive",
+      "word": "decisive",
+      "phonetic": "/di'saisiv/",
+      "meaning": "a.决定性的",
+      "similar": [
+        "deceive",
+        "decision",
+        "decide",
+        "derive",
+        "desire",
+        "devise",
+        "decline",
+        "deprive"
+      ],
+      "question": {
+        "wordId": "decisive",
+        "stem": "选择 \"decisive\" 的正确中文意思：",
+        "correct": "a.决定性的",
+        "options": [
+          "v.欺骗,蒙蔽",
+          "n.决定,决心;决议;决策",
+          "a.决定性的",
+          "v.决定,下决心;解决,裁决"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语decidere（de-向下+caedere砍），原指“砍断、了结”。词根cis-为cid-的变体（元音弱化），本义“砍”引申出“作出决断”的动作意象，即“一刀斩断犹豫”，强调结果的不可逆与决定性。",
+        "similarWarning": "deceive（欺骗，de-+ceive拿）：字母v与s差异，词根含义不同。derive（源自，de-+rive河流）：河流方向与砍断无关。devise（设计，de-+vis看）：视觉设计vs决断动作。",
+        "extendedMeaning": "考研常考“关键性的、有支配作用的”语境，如a decisive factor（决定性因素），非仅指“果断的”。",
+        "examUsage": "真题中常与crucial、critical替换，但decisive强调结果导向的“一锤定音”。例句：The decisive battle turned the tide of the war.（这场决定性战役扭转了战局。）"
+      }
+    },
+    {
+      "id": "deck",
+      "word": "deck",
+      "phonetic": "/dek/",
+      "meaning": "n.甲板",
+      "similar": [
+        "desk",
+        "dock",
+        "duck",
+        "neck",
+        "decay",
+        "wreck"
+      ],
+      "question": {
+        "wordId": "deck",
+        "stem": "选择 \"deck\" 的正确中文意思：",
+        "correct": "n.甲板",
+        "options": [
+          "n.甲板",
+          "n.书桌，办公桌，服务台",
+          "n.船坞,码头",
+          "n.鸭,鸭肉 v.迅速俯身;快速低头;躲避"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自中古荷兰语‘dec’（覆盖、遮盖），原指船上的覆盖层（甲板），核心动作是‘覆盖’或‘铺设层面’；引申为类似结构的平台或层。",
+        "similarWarning": "desk（书桌，/desk/，d-e-s-k）vs deck（甲板，/dek/，d-e-c-k），差异在‘s’与‘c’，词义无关；dock（码头，/dɒk/，d-o-c-k）拼写近但元音不同，指船只停靠处；duck（鸭子，/dʌk/，d-u-c-k）拼写近但元音不同，指水鸟。",
+        "extendedMeaning": "在考研外刊中可表示‘（飞机）舱面’或‘（建筑）露天平台’，如‘deck of a ship’或‘sun deck’；‘hit the deck’为俚语‘摔倒/起床’，非字面。",
+        "examUsage": "常见搭配‘on deck’（在甲板上/准备就绪），真题中偶现于航海或建筑语境，无特殊干扰项考点。"
+      }
+    },
+    {
+      "id": "declaration",
+      "word": "declaration",
+      "phonetic": "/ˌdeklə'reiʃən/",
+      "meaning": "n.宣言,宣布,声明",
+      "similar": [
+        "dictation",
+        "federation",
+        "generation",
+        "recreation",
+        "destination",
+        "explanation",
+        "preparation"
+      ],
+      "question": {
+        "wordId": "declaration",
+        "stem": "选择 \"declaration\" 的正确中文意思：",
+        "correct": "n.宣言,宣布,声明",
+        "options": [
+          "n.宣言,宣布,声明",
+          "n.听写,口述;命令",
+          "n.产生,发生;一代(人)",
+          "n.同盟;联邦;联合;联盟;联合会"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（加强）+ clar（来自拉丁语clarus，意为清晰、明亮）+ -ation（名词后缀）。核心动作：使变得清晰、明确。词源本义是“使事情变得清楚明白”，引申为正式地、公开地陈述或宣告，如宣言、声明。",
+        "similarWarning": "dictation（听写，口述）：d- + dict-（说）+ -ation，强调“口述记录”；declaration强调“公开宣告”。federation（联邦）：f- + feder-（联盟）+ -ation，指政治联合体。generation（一代，产生）：g- + gener-（产生）+ -ation，指世代或产生过程。recreation（娱乐，消遣）：re-（再）+ creat-（创造）+ -ion，字面“重新创造精神”，引申为娱乐。destination（目的地）：de-（下）+ stin-（站）+ -ation，指“停止的地方”。explanation（解释）：ex-（出）+ plan-（平）+ -ation，指“使平坦易懂”。preparation（准备）：pre-（前）+ par-（准备）+ -ation。",
+        "extendedMeaning": "考研中常考“正式声明、宣言”之意，如the Declaration of Independence（独立宣言），或“申报”（如海关申报、税务申报），如customs declaration（报关单）。",
+        "examUsage": "真题中常以固定搭配出现：make a declaration（发表声明）；declaration of war（宣战）；customs declaration（海关申报）。注意其动词declare在阅读中常作为“宣称、断言”的题眼，后接that从句，如“He declared that the policy was a failure.”"
+      }
+    },
+    {
+      "id": "declare",
+      "word": "declare",
+      "phonetic": "/di'klεə/",
+      "meaning": "v.宣布,宣告,声明;断言,宣称",
+      "similar": [
+        "decade",
+        "decline",
+        "decorate",
+        "decrease",
+        "desolate",
+        "necklace"
+      ],
+      "question": {
+        "wordId": "declare",
+        "stem": "选择 \"declare\" 的正确中文意思：",
+        "correct": "v.宣布,宣告,声明;断言,宣称",
+        "options": [
+          "v.宣布,宣告,声明;断言,宣称",
+          "n.十年",
+          "v.下降,衰落;拒绝 n.下降;斜面,倾斜,衰落",
+          "v.装饰,装璜,布置"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（加强）+ clar（清楚，源自拉丁语clarus“清晰”）+ -e → 使彻底清楚 → 宣布、声明。核心动作：把话说清楚、公开表明。",
+        "similarWarning": "decade（十年）: de-（加强）+ cad（落下）+ -e → 十年周期；decline（下降）: de-（向下）+ clin（倾斜）→ 倾斜向下；decorate（装饰）: decor（装饰）+ -ate → 使美观；decrease（减少）: de-（向下）+ creas（生长）→ 减少；desolate（荒凉的）: de-（加强）+ sol（孤独）+ -ate → 彻底孤独。差异：declare强调“说清楚”，其他词根不同。",
+        "extendedMeaning": "在考研中，declare常引申为“断言、宣称”（非正式宣告），如declare one's position（表明立场）；此外，在商业或法律语境中可指“申报（收入、货物）”，如declare income（申报收入）。",
+        "examUsage": "考点：declare常与announce、proclaim、assert辨析。真题例句：\"The government declared that the epidemic was under control.\" 干扰项常为announce（侧重首次公开）、proclaim（官方正式）、assert（主观断言）。"
+      }
+    },
+    {
+      "id": "decline",
+      "word": "decline",
+      "phonetic": "/di'klain/",
+      "meaning": "v.下降,衰落;拒绝 n.下降;斜面,倾斜,衰落",
+      "similar": [
+        "deadline",
+        "decide",
+        "define",
+        "deceive",
+        "declare",
+        "incline",
+        "underline",
+        "decisive"
+      ],
+      "question": {
+        "wordId": "decline",
+        "stem": "选择 \"decline\" 的正确中文意思：",
+        "correct": "v.下降,衰落;拒绝 n.下降;斜面,倾斜,衰落",
+        "options": [
+          "v.下降,衰落;拒绝 n.下降;斜面,倾斜,衰落",
+          "n.最后期限",
+          "v.给…下定义;阐述;阐释;限定,规定",
+          "v.决定,下决心;解决,裁决"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ clin-（倾斜，弯曲）+ -e（动词后缀）。核心物理动作：身体或物体向下倾斜。词义延伸：从空间上的向下倾斜（斜面），到数量上的向下减少（下降），到状态上的向下减弱（衰落），再到社交/心理上的向下低头（拒绝）。",
+        "similarWarning": "incline: in-（向内/向上）+ clin-（倾斜）→ 使倾斜、倾向于。对比：de-（向下）vs in-（向上/向内），方向相反。define: de-（向下/完全）+ fin-（界限）→ 下定义、限定。对比：clin-（倾斜）vs fin-（界限），词根不同。",
+        "extendedMeaning": "拒绝（尤指正式、礼貌的拒绝）：如 decline an invitation（谢绝邀请）。在经济学人及考研阅读中，常表经济/政治上的衰落：economic decline（经济衰退），decline of an empire（帝国衰落）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "decorate",
+      "word": "decorate",
+      "phonetic": "/'dekəreit/",
+      "meaning": "v.装饰,装璜,布置",
+      "similar": [
+        "doctorate",
+        "desolate",
+        "desperate",
+        "debate",
+        "decade",
+        "denote",
+        "devote",
+        "donate"
+      ],
+      "question": {
+        "wordId": "decorate",
+        "stem": "选择 \"decorate\" 的正确中文意思：",
+        "correct": "v.装饰,装璜,布置",
+        "options": [
+          "a.不顾一切的，铤而走险的；绝望的，危急的",
+          "a.荒凉的;孤独的 v.使荒芜",
+          "n.博士学位;博士头衔",
+          "v.装饰,装璜,布置"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "decor-（装饰，源自拉丁语decus“装饰、光彩”）+ -ate（动词后缀）→ 给某物增添光彩或美观，核心动作为“通过添加物品使表面更漂亮”。",
+        "similarWarning": "decorate vs. doctor: doctor（博士/医生）源自doc-（教），与decor-无关；decorate vs. desolate: desolate（荒凉的）含sol-（孤独），表状态相反。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "decrease",
+      "word": "decrease",
+      "phonetic": "/di'kri:s/",
+      "meaning": "n.减少,减小;减少量 v.减少,变少,降低",
+      "similar": [
+        "increase",
+        "create",
+        "decade",
+        "degree",
+        "grease",
+        "deceive",
+        "declare",
+        "depress"
+      ],
+      "question": {
+        "wordId": "decrease",
+        "stem": "选择 \"decrease\" 的正确中文意思：",
+        "correct": "n.减少,减小;减少量 v.减少,变少,降低",
+        "options": [
+          "n.十年",
+          "v.创造,创作;引起,造成,建立",
+          "v./n.增加,增长,增进",
+          "n.减少,减小;减少量 v.减少,变少,降低"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ crease（生长，源自拉丁语crescere）。核心物理动作：向下生长→数量或程度从高向低变化，即减少、降低。",
+        "similarWarning": "increase（in-向上+crease生长→增加）与decrease仅前缀相反；deceive（de-离开+ceive拿→欺骗）拼写相似但词根不同；decade（deca-十→十年）与decrease无词源关联。",
+        "extendedMeaning": "",
+        "examUsage": "常用搭配：decrease by（减少了…）/decrease to（减少到…）。真题中常考其名词形式与介词搭配，如‘a decrease in...’（在…方面的减少）。"
+      }
+    },
+    {
+      "id": "dedicate",
+      "word": "dedicate",
+      "phonetic": "/'dedikeit/",
+      "meaning": "vt.奉献;献身于",
+      "similar": [
+        "delicate",
+        "deviate",
+        "educate",
+        "indicate",
+        "meditate",
+        "designate",
+        "duplicate",
+        "debate"
+      ],
+      "question": {
+        "wordId": "dedicate",
+        "stem": "选择 \"dedicate\" 的正确中文意思：",
+        "correct": "vt.奉献;献身于",
+        "options": [
+          "v.教育,培养,训练",
+          "v.(from)背离,偏离",
+          "a.纤弱的;精致的;微妙的;灵敏的",
+          "vt.奉献;献身于"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-(加强)+dic(说)+-ate(动词后缀)→原指‘郑重宣告献出’，核心动作是‘宣告奉献’→引申为奉献、献身于。",
+        "similarWarning": "delicate(精致的，微妙的): 词根de-+lic(诱惑)+-ate，指‘令人愉悦的’；deviate(偏离): de-(离开)+vi(路)+-ate，指‘离开道路’；educate(教育): e-(出)+duc(引导)+-ate，指‘引导出来’；indicate(指示): in-(进入)+dic(说)+-ate，指‘说进去’→表明；meditate(冥想): med(思考)+-itate，指‘深入思考’；designate(指定): de-(加强)+sign(标记)+-ate，指‘明确标记’；duplicate(复制): du(二)+plic(折叠)+-ate，指‘折叠成两份’；debate(辩论): de-(向下)+bat(打)+-e，指‘打下去’→争论。",
+        "extendedMeaning": "在真题中常引申为‘致力于；把(时间、精力等)用于’，如dedicate resources to(把资源用于)。",
+        "examUsage": "常用搭配dedicate oneself to(献身于)，真题例句：He dedicated his life to scientific research.(他毕生致力于科学研究。) 注意与contribute to(贡献于)区分，dedicate强调精神投入，contribute侧重实际贡献。"
+      }
+    },
+    {
+      "id": "deduce",
+      "word": "deduce",
+      "phonetic": "/di'dju:s/",
+      "meaning": "vt.(from)演绎,推断,推论",
+      "similar": [
+        "deduct",
+        "reduce",
+        "device",
+        "induce",
+        "dedicate",
+        "denounce"
+      ],
+      "question": {
+        "wordId": "deduce",
+        "stem": "选择 \"deduce\" 的正确中文意思：",
+        "correct": "vt.(from)演绎,推断,推论",
+        "options": [
+          "vt.扣除;演绎(推理)",
+          "n.装置,设备,仪表;方法,设计",
+          "v.减少,缩小;简化,还原",
+          "vt.(from)演绎,推断,推论"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（向下/离开）+ duce（引导/拉）→ 向下引导 → 从一般原则引导出具体结论 → 演绎、推断。核心动作：从普遍到特殊的逻辑引导。",
+        "similarWarning": "deduce vs deduct: deduce强调逻辑推理（从前提推出结论），deduct强调减法（扣除、减去）。reduce: re-（回）+ duce → 往回拉 → 减少。induce: in-（向内）+ duce → 向内引导 → 引诱、归纳。",
+        "extendedMeaning": "在考研阅读中，deduce常表“从上下文或证据中推断出隐含信息”，非简单猜测。",
+        "examUsage": "真题常考搭配：deduce from（从...推断）。例句：From these facts we can deduce that the economy is recovering.（从这些事实我们可以推断经济正在复苏。）"
+      }
+    },
+    {
+      "id": "deduct",
+      "word": "deduct",
+      "phonetic": "/di'dʌkt/",
+      "meaning": "vt.扣除;演绎(推理)",
+      "similar": [
+        "deduce",
+        "defect",
+        "depict",
+        "detect",
+        "reduce",
+        "dedicate"
+      ],
+      "question": {
+        "wordId": "deduct",
+        "stem": "选择 \"deduct\" 的正确中文意思：",
+        "correct": "vt.扣除;演绎(推理)",
+        "options": [
+          "n.过失;缺点;不足",
+          "vt.扣除;演绎(推理)",
+          "v.描绘;描写,描述",
+          "vt.(from)演绎,推断,推论"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ duct（引导）→ 向下引导 → 扣除（从总数中向下减去）；演绎（从一般向下推导出个别）",
+        "similarWarning": "deduce（de-向下+duce引导→演绎推理）：deduct与deduce仅后缀不同（-duct vs -duce），前者侧重“扣除”或“演绎结论”，后者强调“推理过程”。defect（de-离开+fect做→缺陷）：拼写差异在-duct vs -fect，词义完全不同。",
+        "extendedMeaning": "在考研阅读中，deduct常引申为“演绎（推理）”，与induce（归纳）相对，如“deductive reasoning”（演绎推理）。",
+        "examUsage": "真题考点：常与from连用，如“deduct...from...”（从……中扣除）。例句：The cost will be deducted from your salary.（费用将从你的薪水中扣除。）"
+      }
+    },
+    {
+      "id": "deed",
+      "word": "deed",
+      "phonetic": "/di:d/",
+      "meaning": "n.行为,行动;功绩,事迹;证书；契据",
+      "similar": [
+        "deem",
+        "deer",
+        "feed",
+        "reed",
+        "seed",
+        "weed",
+        "defend",
+        "depend"
+      ],
+      "question": {
+        "wordId": "deed",
+        "stem": "选择 \"deed\" 的正确中文意思：",
+        "correct": "n.行为,行动;功绩,事迹;证书；契据",
+        "options": [
+          "n.行为,行动;功绩,事迹;证书；契据",
+          "v.认为,相信",
+          "n.鹿",
+          "v.(on,with)喂养,饲养;(with)向…供给"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自中古英语 dede，与德语 Tat 同源，词根 *dhe- 意为“做、放置”，核心动作是“完成的事”。行为（deed）即“已做之事”，引申为“功绩”（做成的伟大之事），法律上“契据”指“已签署生效的法律行为凭证”。",
+        "similarWarning": "dead（死的，d与t发音区别）vs deed（行为）；deem（认为，m与d结尾不同）vs deed；deep（深的，p与d结尾不同）vs deed。",
+        "extendedMeaning": "考研中常考“契据”义，如“title deed”（所有权契据）或“deed of trust”（信托契据），属于法律语境僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "deem",
+      "word": "deem",
+      "phonetic": "/di:m/",
+      "meaning": "v.认为,相信",
+      "similar": [
+        "deed",
+        "deer",
+        "seem"
+      ],
+      "question": {
+        "wordId": "deem",
+        "stem": "选择 \"deem\" 的正确中文意思：",
+        "correct": "v.认为,相信",
+        "options": [
+          "v.好像,似乎",
+          "n.鹿",
+          "n.行为,行动;功绩,事迹;证书；契据",
+          "v.认为,相信"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语'dom'（判断、裁定），与'doom'（命运、判决）同源。核心物理动作为'做出判断或裁决'，引申为'主观上认为、相信'。",
+        "similarWarning": "deem vs seem（看起来）：deem强调主观判断，seem强调客观表象；deed（行为）与deem仅差一个字母，注意拼写差异。",
+        "extendedMeaning": "在考研中，deem常用于正式语境，表示'视为、认为'，如'deem it necessary'（认为必要），区别于think的随意性。",
+        "examUsage": "常见搭配'deem...to be...'（认为……是……），真题中常作为观点态度题的题眼，如'deem it essential to...'（认为……至关重要）。"
+      }
+    },
+    {
+      "id": "deer",
+      "word": "deer",
+      "phonetic": "/diə/",
+      "meaning": "n.鹿",
+      "similar": [
+        "beer",
+        "deed",
+        "deem",
+        "peer",
+        "dealer",
+        "desert",
+        "cheer",
+        "fever"
+      ],
+      "question": {
+        "wordId": "deer",
+        "stem": "选择 \"deer\" 的正确中文意思：",
+        "correct": "n.鹿",
+        "options": [
+          "n.鹿",
+          "n.啤酒",
+          "n.行为,行动;功绩,事迹;证书；契据",
+          "v.认为,相信"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源来自古英语‘deor’，本义为‘野兽、动物’，后词义缩小专指‘鹿’。核心动作：无特定动作，为名词指代。",
+        "similarWarning": "deer（鹿） vs dear（亲爱的/昂贵的）：差一字母‘e’ vs ‘a’，词义完全不同。deer vs peer（同龄人/凝视）：首字母‘d’ vs ‘p’。deer vs deed（行为/契约）：多一字母‘d’结尾。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "defeat",
+      "word": "defeat",
+      "phonetic": "/di'fi:t/",
+      "meaning": "n.击败,战胜,失败 v.击败,战胜;使失败",
+      "similar": [
+        "defect",
+        "feat",
+        "deceit",
+        "decent",
+        "defend",
+        "desert",
+        "detect",
+        "repeat"
+      ],
+      "question": {
+        "wordId": "defeat",
+        "stem": "选择 \"defeat\" 的正确中文意思：",
+        "correct": "n.击败,战胜,失败 v.击败,战胜;使失败",
+        "options": [
+          "n.欺骗,欺骗行为",
+          "n.功绩，伟业，技艺",
+          "n.过失;缺点;不足",
+          "n.击败,战胜,失败 v.击败,战胜;使失败"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ feat（做，源自拉丁语facere“做”）。核心动作：把对手“做下去”，即击败、战胜。引申为失败（被击败的结果）。",
+        "similarWarning": "defect（de-脱离+fect做 → 缺陷、叛逃） vs defeat（de-向下+feat做 → 击败）：差异在e/a字母，前者强调“不完美/背叛”，后者强调“压制性胜利”。",
+        "extendedMeaning": "",
+        "examUsage": "真题中常考搭配：admit defeat（承认失败），suffer defeat（遭受失败），defeat the purpose（使目的落空）。注意defeat作动词时宾语常为对手/计划/目的，如defeat the enemy/defeat the proposal。"
+      }
+    },
+    {
+      "id": "defence",
+      "word": "defence",
+      "phonetic": "/di'fens/",
+      "meaning": "n.(defense)防御,保卫;防务工事;辩护",
+      "similar": [
+        "fence",
+        "defect",
+        "defend",
+        "define",
+        "reference",
+        "definite",
+        "denounce",
+        "presence"
+      ],
+      "question": {
+        "wordId": "defence",
+        "stem": "选择 \"defence\" 的正确中文意思：",
+        "correct": "n.(defense)防御,保卫;防务工事;辩护",
+        "options": [
+          "v.防守,保卫;为…辩护,为…答辩",
+          "n.过失;缺点;不足",
+          "n.篱笆;围栏;剑术 v.用篱笆瓦围住;击剑",
+          "n.(defense)防御,保卫;防务工事;辩护"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语defendere（击退、防御），de-（离开、向下）+fendere（打击、击打）。核心动作是“击退攻击”，即通过阻挡或反击来保护自身或他人。",
+        "similarWarning": "defence vs. fence：defence有de-前缀，强调“防御”动作；fence仅指“栅栏、篱笆”实物，或“击剑”。defence vs. defect：defect是de-+fect（做），意为“缺陷、背叛”；defence是de-+fend（打击），强调“防御”。",
+        "extendedMeaning": "在考研阅读中，常引申为“辩护、辩词”（如legal defence），或“防御机制”（psychological defence），非仅指军事防御。",
+        "examUsage": "in defence of（为……辩护）；self-defence（自卫）。真题例句：The government's defence of its policy was weak.（政府对其政策的辩护很无力。）"
+      }
+    },
+    {
+      "id": "defect",
+      "word": "defect",
+      "phonetic": "/'di:fekt/",
+      "meaning": "n.过失;缺点;不足",
+      "similar": [
+        "defeat",
+        "detect",
+        "defence",
+        "deficit",
+        "reflect",
+        "eject",
+        "elect",
+        "erect"
+      ],
+      "question": {
+        "wordId": "defect",
+        "stem": "选择 \"defect\" 的正确中文意思：",
+        "correct": "n.过失;缺点;不足",
+        "options": [
+          "n.过失;缺点;不足",
+          "n.击败,战胜,失败 v.击败,战胜;使失败",
+          "v.察觉,发觉,侦察,探测",
+          "n.(defense)防御,保卫;防务工事;辩护"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（向下/离开）+ fect（做）→ 做得不够好或偏离标准 → 缺点、缺陷。核心动作：制作时偏离了正确方向或未达标。",
+        "similarWarning": "defeat（击败）：de-（向下）+ feat（做）→ 使对方做不下去；defect（缺陷）：de-（离开）+ fect（做）→ 做得偏离。",
+        "extendedMeaning": "考研僻义：n. 叛逃、变节（指人离开原有阵营，如“a defector”）；v. 背叛、投敌。",
+        "examUsage": "真题考点：搭配“in defect”（有缺陷的）或“defect from...to...”（从...叛逃至...）。例：He defected from the company to a rival firm.（他从公司跳槽到对手公司。）"
+      }
+    },
+    {
+      "id": "defend",
+      "word": "defend",
+      "phonetic": "/di'fend/",
+      "meaning": "v.防守,保卫;为…辩护,为…答辩",
+      "similar": [
+        "depend",
+        "defence",
+        "descend",
+        "deed",
+        "decent",
+        "defeat",
+        "defect",
+        "define"
+      ],
+      "question": {
+        "wordId": "defend",
+        "stem": "选择 \"defend\" 的正确中文意思：",
+        "correct": "v.防守,保卫;为…辩护,为…答辩",
+        "options": [
+          "v.防守,保卫;为…辩护,为…答辩",
+          "v.(on)取决于,依靠,信赖,相信",
+          "n.(defense)防御,保卫;防务工事;辩护",
+          "v.下来,下降;遗传(指财产,气质,权利)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（加强/向下）+ fend（击打）→ 加强击打以抵御攻击 → 防守、保卫；引申为语言上的辩护（用言语击打对方论点）。",
+        "similarWarning": "depend（de-向下 + pend悬挂 → 依靠）vs defend（de-加强 + fend击打 → 保卫）：区别在于词根 pend（悬挂）与 fend（击打）。",
+        "extendedMeaning": "在考研阅读中常考‘为…辩护’（如 defend a policy/decision），非字面‘打仗’义。",
+        "examUsage": "defend against（防御…），defend sb/sth from（保护…免受），真题例句：‘The court defended the right to free speech.’（法院为言论自由权辩护。）"
+      }
+    },
+    {
+      "id": "deficiency",
+      "word": "deficiency",
+      "phonetic": "/di'fiʃənsi/",
+      "meaning": "n.缺乏,不足;缺点,缺陷",
+      "similar": [
+        "efficiency",
+        "proficiency",
+        "efficient"
+      ],
+      "question": {
+        "wordId": "deficiency",
+        "stem": "选择 \"deficiency\" 的正确中文意思：",
+        "correct": "n.缺乏,不足;缺点,缺陷",
+        "options": [
+          "n.效率;功效",
+          "a.有效的,效率高的;有能力的,能胜任的",
+          "n.缺乏,不足;缺点,缺陷",
+          "n.(in)熟练,精通"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "de-=向下，fic-=做，-iency名词后缀。核心动作：做得不够、低于标准。本义指制造或生产过程中产出不足，引申为缺乏、缺陷。",
+        "similarWarning": "efficiency（效率，ef-=向外，侧重产出比）、proficiency（熟练，pro-=向前，侧重技能精进）、deficiency（不足，de-=向下，侧重匮乏）。差异：首字母前缀不同，词义方向相反。",
+        "extendedMeaning": "考研中常指生理缺陷或营养缺乏（如维生素deficiency），或法律/经济中的亏空、不足额。",
+        "examUsage": "真题考点：immune deficiency（免疫缺陷）、deficiency of...（...的缺乏）。注意与deficit（财政赤字/差额）的区分：deficiency强调状态性不足，deficit强调数量性差额。"
+      }
+    },
+    {
+      "id": "deficit",
+      "word": "deficit",
+      "phonetic": "/'defisit/",
+      "meaning": "n.赤字,逆差;亏损,亏空;不足,缺乏",
+      "similar": [
+        "definite",
+        "defect",
+        "depict",
+        "dedicate",
+        "delicate"
+      ],
+      "question": {
+        "wordId": "deficit",
+        "stem": "选择 \"deficit\" 的正确中文意思：",
+        "correct": "n.赤字,逆差;亏损,亏空;不足,缺乏",
+        "options": [
+          "n.过失;缺点;不足",
+          "n.赤字,逆差;亏损,亏空;不足,缺乏",
+          "v.描绘;描写,描述",
+          "a.明确的;一定的;意志坚强的,立场坚定的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "de-（向下，离开）+fic-（做，制作）+-it（名词后缀，表状态或结果）→ 本义为“做得不够”或“从完成状态中缺失的部分”。核心物理动作是“制作过程中向下减少”，引申为财务上的“亏空”或资源上的“不足”。",
+        "similarWarning": "definite（明确的；de-+fin-界限+ite→界限分明的）vs deficit（不足；de-+fic-做+it→做得不够）。defect（缺陷；de-+fect-做→做得不好）vs deficit（不足；侧重数量上的缺少）。depict（描绘；de-+pict-画→画下来）vs deficit（拼写差异：pict vs fic）。dedicate（奉献；de-+dic-说+ate→宣告给予）vs deficit（词根不同：dic说 vs fic做）。delicate（精致的；de-+lic-诱惑+ate→令人愉悦的）vs deficit（词根不同：lic诱惑 vs fic做）。",
+        "extendedMeaning": "考研中常引申为“缺乏”或“不足”，不限于财务。如：a deficit of trust（信任缺失）；sleep deficit（睡眠不足）。",
+        "examUsage": "高频搭配：trade deficit（贸易逆差），budget deficit（预算赤字）。真题例句：The country's growing trade deficit is a cause for concern.（该国日益增长的贸易逆差令人担忧。）注意与debt（债务）区分：deficit是流量概念（某一时期的亏空），debt是存量概念（累积的负债）。"
+      }
+    },
+    {
+      "id": "define",
+      "word": "define",
+      "phonetic": "/di'fain/",
+      "meaning": "v.给…下定义;阐述;阐释;限定,规定",
+      "similar": [
+        "refine",
+        "definite",
+        "decline",
+        "defence",
+        "dine",
+        "decide",
+        "defend",
+        "derive"
+      ],
+      "question": {
+        "wordId": "define",
+        "stem": "选择 \"define\" 的正确中文意思：",
+        "correct": "v.给…下定义;阐述;阐释;限定,规定",
+        "options": [
+          "v.下降,衰落;拒绝 n.下降;斜面,倾斜,衰落",
+          "v.精炼,精制,提纯;使文雅,使高尚",
+          "v.给…下定义;阐述;阐释;限定,规定",
+          "a.明确的;一定的;意志坚强的,立场坚定的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "de-（加强/向下）+ fine（界限，终点）。核心动作：划出界限，使事物有明确边界，引申为‘下定义’或‘限定范围’。",
+        "similarWarning": "refine（re-再+fine→精炼）；definite（de-+finite有限→明确的）；decline（de-向下+cline倾斜→下降/拒绝）；defence（de-+fence击打→防御）；dine（吃饭）；fine（好/罚款）；decide（de-+cide切→决定）；defend（de-+fend击打→防御）。",
+        "extendedMeaning": "在考研阅读中常考‘界定、限定’义，如‘define the scope’（界定范围），而非仅‘下定义’。",
+        "examUsage": "常见搭配：define...as...（把…定义为…）；真题例句：‘It is difficult to define what constitutes a good education.’（难以界定何为良好教育。）"
+      }
+    },
+    {
+      "id": "definite",
+      "word": "definite",
+      "phonetic": "/'definit/",
+      "meaning": "a.明确的;一定的;意志坚强的,立场坚定的",
+      "similar": [
+        "define",
+        "finite",
+        "deficit",
+        "infinite",
+        "definition",
+        "designate",
+        "denote",
+        "refine"
+      ],
+      "question": {
+        "wordId": "definite",
+        "stem": "选择 \"definite\" 的正确中文意思：",
+        "correct": "a.明确的;一定的;意志坚强的,立场坚定的",
+        "options": [
+          "a.明确的;一定的;意志坚强的,立场坚定的",
+          "n.赤字,逆差;亏损,亏空;不足,缺乏",
+          "v.给…下定义;阐述;阐释;限定,规定",
+          "a.有限的；[数]有穷的,限定的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（加强、向下）+ fin（边界、界限）+ -ite（形容词后缀）→ 明确划定边界的 → 明确的、一定的。核心动作：划清界限，不容模糊。",
+        "similarWarning": "definite vs. define: definite（a.明确的）含形容词后缀-ite； define（v.定义）是动词原形。finite（a.有限的）与definite差前缀de-；infinite（a.无限的）加否定前缀in-。",
+        "extendedMeaning": "意志坚强的、立场坚定的（常形容人的态度或性格）",
+        "examUsage": "真题考点：固定搭配 definite answer（明确答案）、definite plan（确定计划）；干扰项常考与definitive（决定性的、权威的）区分。"
+      }
+    }
+  ]
+}

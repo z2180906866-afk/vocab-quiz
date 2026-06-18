@@ -1,0 +1,1726 @@
+{
+  "batchId": 78,
+  "words": [
+    {
+      "id": "survival",
+      "word": "survival",
+      "phonetic": "/sə'vaivəl/",
+      "meaning": "n.幸存,生存;幸存者,残存物",
+      "similar": [
+        "survive",
+        "serial",
+        "arrival"
+      ],
+      "question": {
+        "wordId": "survival",
+        "stem": "选择 \"survival\" 的正确中文意思：",
+        "correct": "n.幸存,生存;幸存者,残存物",
+        "options": [
+          "n.到达，到来；到达者，到达物",
+          "n.连载小说，连续剧；连载刊物 a.连续的",
+          "v.幸免于,幸存;比…长命",
+          "n.幸存,生存;幸存者,残存物"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自动词survive（sur-超过 + viv-活 + -al名词后缀），本义是“活得比别人久”，引申为在危险或困难中继续存在。核心动作：在致命威胁下持续存在。",
+        "similarWarning": "survive（v.幸存）与survival（n.幸存）为同源词，注意词性差异；serial（连续的，来自ser-连接）拼写相似但意义无关；arrival（到达，来自ar-到 + riv-河岸）拼写相近但词根不同。",
+        "extendedMeaning": "在考研中常考“残存物、遗留物”的抽象含义，如the survival of ancient customs（古代习俗的残存）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "survive",
+      "word": "survive",
+      "phonetic": "/sə'vaiv/",
+      "meaning": "v.幸免于,幸存;比…长命",
+      "similar": [
+        "survival",
+        "strive",
+        "supervise",
+        "surprise"
+      ],
+      "question": {
+        "wordId": "survive",
+        "stem": "选择 \"survive\" 的正确中文意思：",
+        "correct": "v.幸免于,幸存;比…长命",
+        "options": [
+          "v.奋斗,努力",
+          "n.幸存,生存;幸存者,残存物",
+          "v.管理,监督",
+          "v.幸免于,幸存;比…长命"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "sur-（超过，来自拉丁语super） + vive（来自拉丁语vivere，意为“活着”）→ 超越死亡而活着，即“幸存、比…长命”。",
+        "similarWarning": "survive vs. strive（s-替换为st-，意为“奋斗”）：幸存是活下来，奋斗是努力争取。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "susceptible",
+      "word": "susceptible",
+      "phonetic": "/sə'septəbl/",
+      "meaning": "a.易受影响的;易受感动的;易受感染的",
+      "similar": [],
+      "question": {
+        "wordId": "susceptible",
+        "stem": "选择 \"susceptible\" 的正确中文意思：",
+        "correct": "a.易受影响的;易受感动的;易受感染的",
+        "options": [
+          "a.易受影响的;易受感动的;易受感染的",
+          "v.断言，宣称；指控",
+          "v.指出,指示;表明,暗示",
+          "n.宝石,宝石饰物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "sus-（向下）+cept（拿，取）+ible（能…的）→ 能向下拿取的 → 易受影响的。核心动作：从上往下拿取，暗示被动接受外部作用。",
+        "similarWarning": "",
+        "extendedMeaning": "（真题/外刊）易受…损害的；对…敏感的（后常接to，强调负面结果）。例：be susceptible to disease（易患病）；be susceptible to criticism（易受批评影响）。",
+        "examUsage": "（考点）常见搭配：be susceptible to sth. 表示“易受…影响/感染”。真题中常与immune（免疫的）构成反义对比，或与vulnerable（脆弱的）同义替换。"
+      }
+    },
+    {
+      "id": "suspect",
+      "word": "suspect",
+      "phonetic": "/sə'spekt/",
+      "meaning": "v.猜想；怀疑；察觉 a.可疑的 n.嫌疑犯",
+      "similar": [
+        "aspect",
+        "inspect",
+        "subject",
+        "suspend",
+        "prospect"
+      ],
+      "question": {
+        "wordId": "suspect",
+        "stem": "选择 \"suspect\" 的正确中文意思：",
+        "correct": "v.猜想；怀疑；察觉 a.可疑的 n.嫌疑犯",
+        "options": [
+          "v.猜想；怀疑；察觉 a.可疑的 n.嫌疑犯",
+          "n.样子, 外表, 面貌, (问题等的)方面",
+          "vt.检查,调查,视察",
+          "n.主题;学科 a.隶属的;易遭..的 v.使隶属"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "sus-（在…下面）+spect（看）→ 在下面偷偷看 → 怀疑、猜想。核心动作：从隐蔽处暗中观察，产生不确定的推断。",
+        "similarWarning": "aspect（a-加强+spect看→外观、方面）；inspect（in-向内+spect看→检查）；respect（re-重复+spect看→反复看→尊重）；subject（sub-在…下+ject投→使服从；主题）；suspend（sus-在…下+pend悬挂→暂停）；prospect（pro-向前+spect看→前景）。",
+        "extendedMeaning": "熟词僻义：v. 察觉（通过细微迹象推断存在）。如：suspect a plot（察觉有阴谋）。",
+        "examUsage": "真题考点：suspect sb. of (doing) sth.（怀疑某人做某事）；be suspected of（被怀疑…）。干扰项常与doubt混淆：suspect是“怀疑…是真的”，doubt是“怀疑…不是真的”。"
+      }
+    },
+    {
+      "id": "suspend",
+      "word": "suspend",
+      "phonetic": "/sə'spend/",
+      "meaning": "v.悬(浮)，挂；暂停，取消；推迟",
+      "similar": [
+        "suspect"
+      ],
+      "question": {
+        "wordId": "suspend",
+        "stem": "选择 \"suspend\" 的正确中文意思：",
+        "correct": "v.悬(浮)，挂；暂停，取消；推迟",
+        "options": [
+          "n.寡妇",
+          "v.悬(浮)，挂；暂停，取消；推迟",
+          "v.猜想；怀疑；察觉 a.可疑的 n.嫌疑犯",
+          "n.舰队,船队"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "suspend 由拉丁语前缀 sub-（下） + pendere（悬挂）构成。字面意：悬挂于下方。核心物理动作是“吊在下面”，由此引申出“悬浮”（悬在空中）、“暂停”（将活动悬置起来）、“推迟”（将决定悬而不决）、“取消”（将资格悬空作废）。",
+        "similarWarning": "spend（v.花费，度过）：suspend 有前缀 sub-，spend 来自 expend（支出）的缩写，无“悬”意。suspect（v.怀疑）：词根 spect（看），suspend 词根 pend（悬挂），拼写差异在“pect”与“pend”。",
+        "extendedMeaning": "考研中常考“暂停、中止”义，尤指法律或规则上的“暂缓执行”或“吊销（执照等）”。例如：suspend a driver's license（吊销驾照），suspend a sentence（缓刑）。",
+        "examUsage": "真题考点：suspend 常与 for 连用表示“因…被暂停/停职”。例句：The employee was suspended for misconduct.（该员工因不当行为被停职。）注意辨析其与 postpone（主动推迟）的区别：suspend 强调暂时中止，可能恢复；postpone 强调延后到未来某时间。"
+      }
+    },
+    {
+      "id": "suspicion",
+      "word": "suspicion",
+      "phonetic": "/sə'spiʃən/",
+      "meaning": "n.怀疑，猜疑；一点儿，少量",
+      "similar": [
+        "suspicious",
+        "musician",
+        "sufficient"
+      ],
+      "question": {
+        "wordId": "suspicion",
+        "stem": "选择 \"suspicion\" 的正确中文意思：",
+        "correct": "n.怀疑，猜疑；一点儿，少量",
+        "options": [
+          "n.音乐家,乐师",
+          "a.(for)足够的,充分的(比enough拘谨、正式)",
+          "n.怀疑，猜疑；一点儿，少量",
+          "a.(of)可疑的,多疑的,疑心的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 suspicere（sus-“从下往上”+specere“看”），核心动作是“从下往上看”，引申为“偷偷看、斜眼看”，即因不信任而暗中观察，从而产生“怀疑、猜疑”。名词后缀 -ion 表行为或状态。",
+        "similarWarning": "suspicion 与 suspicious（形容词“怀疑的”）拼写差异：-cion vs -cious；与 musician（音乐家）仅部分字母相似，但无词义关联；与 sufficient（充足的）拼写开头相似，但词根完全不同。",
+        "extendedMeaning": "【一点儿，少量】a suspicion of 在真题中常表示“微量、一丝”，如 a suspicion of smile（一丝微笑），非字面怀疑义。",
+        "examUsage": "常考搭配：under suspicion（受到怀疑）、with suspicion（怀疑地）。真题中常作为同义替换词，与 doubt, mistrust 辨析，注意 suspicion 强调“未经证实的猜疑”，而 doubt 侧重“不确定”。"
+      }
+    },
+    {
+      "id": "suspicious",
+      "word": "suspicious",
+      "phonetic": "/sə'spiʃəs/",
+      "meaning": "a.(of)可疑的,多疑的,疑心的",
+      "similar": [
+        "suspicion",
+        "spacious",
+        "conspicuous",
+        "delicious"
+      ],
+      "question": {
+        "wordId": "suspicious",
+        "stem": "选择 \"suspicious\" 的正确中文意思：",
+        "correct": "a.(of)可疑的,多疑的,疑心的",
+        "options": [
+          "n.怀疑，猜疑；一点儿，少量",
+          "a.(of)可疑的,多疑的,疑心的",
+          "a.显眼的,明显的",
+          "adj.广阔的，宽敞的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 suspicere（sus-“从下往上”+ specere“看”），本义是“从下往上偷看”，引申为“怀疑地看”。核心动作是“暗中观察以验证真伪”，-ous形容词后缀，表示充满怀疑状态。",
+        "similarWarning": "suspicious vs. conspicuous: 前者是sus“向下”+spic“看”，强调“怀疑”；后者是con“全部”+spic“看”，强调“显眼、引人注目”。拼写差异在首字母sus-/con-。",
+        "extendedMeaning": "在考研阅读中常引申为“令人怀疑的、不可靠的”，如suspicious behavior（可疑行为）；或“多疑的”，如a suspicious nature（多疑的性格）。",
+        "examUsage": "真题常考搭配：be suspicious of（对…怀疑），如“He was suspicious of the new policy.”；注意与suspicion（名词）的派生关系，易在完形中考查词性转换。"
+      }
+    },
+    {
+      "id": "sustain",
+      "word": "sustain",
+      "phonetic": "/sə'stein/",
+      "meaning": "vt.支撑,撑住;维持,持续,经受,忍耐",
+      "similar": [
+        "stain",
+        "curtain",
+        "fountain",
+        "restrain"
+      ],
+      "question": {
+        "wordId": "sustain",
+        "stem": "选择 \"sustain\" 的正确中文意思：",
+        "correct": "vt.支撑,撑住;维持,持续,经受,忍耐",
+        "options": [
+          "n.窗帘,门帘;幕(布);结束； vt遮掩",
+          "n.泉水,喷泉,源泉",
+          "vt.支撑,撑住;维持,持续,经受,忍耐",
+          "n.污点,瑕疵 v.沾污;染色"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "sus-（=sub-，下）+ tain（=ten-，握持）→ 从下方握住 → 支撑、撑住。核心动作是‘在底部托住’，引申为维持（支撑某种状态）、经受（支撑住压力）",
+        "similarWarning": "stain（污点）：去掉sus-，对比tain→stain，s与t替换，词义无关；curtain（窗帘）：cur-与sus-无关，tain→tain，字母c与s差异；fountain（喷泉）：fount-与sust-无关，ain结尾相同但词根不同；mountain（山）：mount-与sust-无关；restrain（抑制）：re-（回）+strain（拉紧）→拉回，与sustain方向相反",
+        "extendedMeaning": "考研僻义：支撑（论点/证据），如sustain an argument（支撑论点）；维持（生命/状态），如sustain life（维持生命）；经得起（考验），如sustain damage（遭受损害）",
+        "examUsage": "真题考点：sustain常与maintain、retain、obtain形成干扰项。核心搭配：sustain growth（维持增长）、sustain losses（遭受损失）。例句：The economy failed to sustain its earlier growth.（经济未能维持早先的增长）"
+      }
+    },
+    {
+      "id": "swallow",
+      "word": "swallow",
+      "phonetic": "/'swɔləu/",
+      "meaning": "n.燕子;吞咽vt.吞,咽;轻信;忍受;vi.咽口水",
+      "similar": [
+        "shallow",
+        "allow"
+      ],
+      "question": {
+        "wordId": "swallow",
+        "stem": "选择 \"swallow\" 的正确中文意思：",
+        "correct": "n.燕子;吞咽vt.吞,咽;轻信;忍受;vi.咽口水",
+        "options": [
+          "n.燕子;吞咽vt.吞,咽;轻信;忍受;vi.咽口水",
+          "a.浅的,浅薄的 n.浅滩,浅处",
+          "vt.允许，准许；承认；给予；(for)考虑到",
+          "a.弹性的 n.松紧带,橡皮圈"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语swelgan“吞咽”，核心动作是食物或液体通过喉咙进入胃部的物理过程。引申义“轻信”源于吞咽时不加辨别地接受，“忍受”则源于强行咽下痛苦或委屈。燕子（swallow）因常在空中捕食时张开嘴“吞咽”昆虫而得名，与吞咽动作同源。",
+        "similarWarning": "shallow（浅的，肤浅的）：swallow vs shallow，区别在于sw-开头（吞咽动作）和sh-开头（浅层状态）。allow（允许）：swallow vs allow，swallow多一个s-前缀，词根均为“吞/放行”，但allow强调许可，swallow强调物理或抽象的“吞下”。",
+        "extendedMeaning": "考研僻义：①“轻信”（swallow a story）例：He will swallow any tale. ②“忍受”（swallow an insult）例：She had to swallow her pride. ③“吞没”（swallow up）例：The costs swallowed up all profits. ④燕子（n.）作为文化符号，常与春天、迁徙相关，但非考点。",
+        "examUsage": "真题考点：短语“swallow up”表示“吞并、耗尽”，常考经济类阅读（如公司被吞并、成本吞噬利润）。例：The company was swallowed up by a larger rival. 注意与“allow for”区分（考虑到）。"
+      }
+    },
+    {
+      "id": "swamp",
+      "word": "swamp",
+      "phonetic": "/swɔmp/",
+      "meaning": "n.沼泽；湿地 vt.浸没；使…应接不暇",
+      "similar": [
+        "stamp",
+        "camp",
+        "damp",
+        "lamp",
+        "seam",
+        "sham",
+        "slam",
+        "slap"
+      ],
+      "question": {
+        "wordId": "swamp",
+        "stem": "选择 \"swamp\" 的正确中文意思：",
+        "correct": "n.沼泽；湿地 vt.浸没；使…应接不暇",
+        "options": [
+          "n.潮湿 a.潮湿的 vt.使潮湿;使衰减",
+          "n.野营,营地;帐篷,阵营 v.设营,宿营",
+          "n.邮票;印;跺脚;标志v.跺脚,顿足;盖章",
+          "n.沼泽；湿地 vt.浸没；使…应接不暇"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语swamm（真菌/海绵），核心物理动作为“吸水膨胀的松软物体”。词义演变：海绵状物体→泥泞湿地（沼泽）→淹没/浸没（如沼泽吞没物体）→引申为“使应接不暇”（被大量事物淹没）。",
+        "similarWarning": "stamp（跺脚/邮票，st-站立+amp） vs swamp（sw-湿+amp）；damp（潮湿的，d-向下+amp） vs swamp（强调淹没状态）；sham（虚假的，sh-遮+am） vs swamp（注意首字母sw与sh差异）。",
+        "extendedMeaning": "vt. 使不堪重负/应接不暇（真题高频用法）：be swamped with/work（被工作淹没）对应“大量涌入导致无法应对”。",
+        "examUsage": "考点：被动结构 be swamped with（被…淹没/忙得不可开交），如真题例句：'The company was swamped with orders after the ad campaign.' 干扰项常与 flooded/inundated 同义替换。"
+      }
+    },
+    {
+      "id": "swan",
+      "word": "swan",
+      "phonetic": "/swɔn/",
+      "meaning": "n.天鹅 vi.闲荡，游荡",
+      "similar": [
+        "scan",
+        "span",
+        "sway",
+        "stain",
+        "swamp",
+        "swarm",
+        "swear",
+        "sweat"
+      ],
+      "question": {
+        "wordId": "swan",
+        "stem": "选择 \"swan\" 的正确中文意思：",
+        "correct": "n.天鹅 vi.闲荡，游荡",
+        "options": [
+          "vi.摇动；倾斜 vt.使摇动 n.摇动；影响力",
+          "v.细看,审视;浏览;扫描 n.扫描",
+          "n.天鹅 vi.闲荡，游荡",
+          "n.跨度,跨距"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自古英语swan，词根与‘声音’相关，拟声词，模仿天鹅的叫声。核心物理动作：发出‘swan’声的鸟类→天鹅。引申为‘闲荡’源于天鹅优雅、缓慢移动的姿态。",
+        "similarWarning": "scan（扫描，细看）：swan与scan仅差‘w’和‘c’，但词义无关。span（跨度）：swan与span仅差‘w’和‘p’，注意区分。",
+        "extendedMeaning": "vi.闲荡，游荡：指漫无目的地行走或漂泊，如‘swan around’（四处闲逛），常见于外刊描述悠闲行为。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "swarm",
+      "word": "swarm",
+      "phonetic": "/swɔ:m/",
+      "meaning": "n.蜂群;一大群 vi.涌往;挤满;云集;成群移动",
+      "similar": [
+        "farm",
+        "harm",
+        "scar",
+        "seam",
+        "sham",
+        "slam",
+        "soar",
+        "swan"
+      ],
+      "question": {
+        "wordId": "swarm",
+        "stem": "选择 \"swarm\" 的正确中文意思：",
+        "correct": "n.蜂群;一大群 vi.涌往;挤满;云集;成群移动",
+        "options": [
+          "n.农场,饲养场 v.种田,经营农牧业",
+          "n.疤,疤痕;创伤 v.使留下伤痕,创伤",
+          "n.蜂群;一大群 vi.涌往;挤满;云集;成群移动",
+          "n./v.伤害,损害,危害"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自古英语swearm，核心物理动作为：密集个体聚集成团块状移动。蜂群（n.）→ 引申为人群或物体的大量聚集（一大群）；动词化后强调“像蜂群一样密集地涌向某处”（涌往/挤满/云集），动作本质是群体性、拥挤、无序的流动。",
+        "similarWarning": "swarm vs. warm（温暖的）：首字母s- vs. w-，swarm强调聚集动作，warm是温度；swarm vs. seam（接缝）：-arm vs. -eam，swarm是动态群，seam是静态线。",
+        "extendedMeaning": "",
+        "examUsage": "高频搭配：swarm into（涌入），如真题例句“Tourists swarm into the city during festivals.”，常考其动词用法表示“挤满”的主动态。"
+      }
+    },
+    {
+      "id": "sway",
+      "word": "sway",
+      "phonetic": "/swei/",
+      "meaning": "vi.摇动；倾斜 vt.使摇动 n.摇动；影响力",
+      "similar": [
+        "stay",
+        "swan",
+        "subway",
+        "essay",
+        "shady",
+        "spray",
+        "swamp",
+        "swarm"
+      ],
+      "question": {
+        "wordId": "sway",
+        "stem": "选择 \"sway\" 的正确中文意思：",
+        "correct": "vi.摇动；倾斜 vt.使摇动 n.摇动；影响力",
+        "options": [
+          "vi.摇动；倾斜 vt.使摇动 n.摇动；影响力",
+          "vi.逗留；保持vt.停止，延缓n.逗留，停留",
+          "n.天鹅 vi.闲荡，游荡",
+          "n.地铁；地下行人隧道"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源与物理动作：来自古诺尔斯语‘sveigja’（弯曲、摇摆），核心动作是‘来回摆动或施加压力使其弯曲’。本义为物体在支点上的左右晃动，引申为‘倾斜’（物理偏移）和‘影响力’（心理上的左右摆动）。",
+        "similarWarning": "sway vs. stay（停留/保持）: sway强调动态摇晃，stay强调静态停止。sway vs. swan（天鹅）: sway结尾-y，swan结尾-an，swan为名词，无摆动义。sway vs. essay（文章）: essay前缀es-（向外），表‘尝试’写作，与摆动无关。",
+        "extendedMeaning": "考研僻义：n. 影响力、支配力（如‘hold sway over’对…有支配力）；vi. 影响、左右（如‘sway public opinion’左右舆论）。",
+        "examUsage": "真题考点：常考搭配‘hold sway over’（控制/支配），以及被动结构‘be swayed by’（被…影响）。例：The jury should not be swayed by emotional appeals.（陪审团不应被情感诉求左右。）"
+      }
+    },
+    {
+      "id": "swear",
+      "word": "swear",
+      "phonetic": "/swεə/",
+      "meaning": "v.(at)诅咒,骂人;宣誓,发誓",
+      "similar": [
+        "shear",
+        "spear",
+        "sweat",
+        "sweater",
+        "ear",
+        "bear",
+        "fear",
+        "gear"
+      ],
+      "question": {
+        "wordId": "swear",
+        "stem": "选择 \"swear\" 的正确中文意思：",
+        "correct": "v.(at)诅咒,骂人;宣誓,发誓",
+        "options": [
+          "n.矛,枪",
+          "v.剪,修剪",
+          "v.(at)诅咒,骂人;宣誓,发誓",
+          "n.汗 v.(使)出汗"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自古英语swerian，核心动作是“发声宣告”。词根sw-与“发声、说”相关（对比answer中的-sw-）。本义是“以神明为证郑重发声”，引申出“发誓”（正面宣告）和“诅咒”（负面宣告）两个对立义项。",
+        "similarWarning": "swear vs. sweat（汗）：swear含ear（耳朵/听），发誓需要听者；sweat含eat（吃），出汗像吃出水。swear vs. wear（穿）：swear以s开头（say），wear以w开头（wrap）。",
+        "extendedMeaning": "在考研阅读中，swear常出现“宣誓就职”的搭配（swear in），或用于表示“断言、保证”（swear that...），非简单骂人义。",
+        "examUsage": "swear by（极其信赖，常作为态度题题眼）：He swears by traditional Chinese medicine. 意为“他非常信赖中医”。swear off（发誓戒除）：swear off smoking. 注意区分于字面“对…发誓”。"
+      }
+    },
+    {
+      "id": "sweat",
+      "word": "sweat",
+      "phonetic": "/swet/",
+      "meaning": "n.汗 v.(使)出汗",
+      "similar": [
+        "swear",
+        "sweater",
+        "beat",
+        "feat",
+        "meat",
+        "neat",
+        "seal",
+        "seam"
+      ],
+      "question": {
+        "wordId": "sweat",
+        "stem": "选择 \"sweat\" 的正确中文意思：",
+        "correct": "n.汗 v.(使)出汗",
+        "options": [
+          "n.毛衣,绒衣,厚运动衫",
+          "n.敲打;(心脏等)跳动 v.打败;(心脏等)跳动",
+          "n.汗 v.(使)出汗",
+          "v.(at)诅咒,骂人;宣誓,发誓"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自古英语 swætan，核心动作是“身体排出水分”，与“热”相关。词根 swe- 表示“出汗”，同源词有 sweat (汗)。",
+        "similarWarning": "形近词对比：\n- sweat (出汗) vs. sweet (甜的)：sweat 含 a 像“汗滴”，sweet 含 ee 像“甜甜的”。\n- sweat vs. seat (座位)：sweat 有 w 像“湿”，seat 无 w 表示“坐”。\n- sweat vs. swear (发誓)：sweat 有 t 结尾，swear 有 r 结尾。",
+        "extendedMeaning": "考研僻义：\n- 表示“辛苦劳动，苦差事”（如：sweat equity 汗水股权，指通过劳动获得的股权）。\n- 非字面义：焦虑、紧张（如：break out in a cold sweat 冒冷汗，形容极度紧张）。",
+        "examUsage": "真题考点：\n- 固定搭配：no sweat (毫不费力，没问题)，常用于口语或非正式语境。\n- 例句：He completed the task with no sweat. (他毫不费力地完成了任务。)\n- 注意：sweat 作动词时，常与 out 连用 (sweat it out 忍受煎熬)，如：They had to sweat it out until the results came. (他们不得不焦急等待结果。)"
+      }
+    },
+    {
+      "id": "sweater",
+      "word": "sweater",
+      "phonetic": "/'swetə/",
+      "meaning": "n.毛衣,绒衣,厚运动衫",
+      "similar": [
+        "swear",
+        "sweat",
+        "shelter",
+        "speaker",
+        "steamer",
+        "theater",
+        "semester"
+      ],
+      "question": {
+        "wordId": "sweater",
+        "stem": "选择 \"sweater\" 的正确中文意思：",
+        "correct": "n.毛衣,绒衣,厚运动衫",
+        "options": [
+          "v.(at)诅咒,骂人;宣誓,发誓",
+          "n.毛衣,绒衣,厚运动衫",
+          "n.掩蔽处;掩蔽,保护 v.掩蔽,躲避,庇护",
+          "n.汗 v.(使)出汗"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自动词sweat（出汗），因毛衣最初用于运动后吸汗保暖，故由动作结果转指衣物。",
+        "similarWarning": "swear（发誓） vs sweater（毛衣）: swear无字母组合‘er’；sweat（出汗） vs sweater: sweat无‘er’表物后缀；water（水） vs sweater: 首字母w后不同；shelter（庇护所） vs sweater: 拼写差异明显；speaker（扬声器） vs sweater: 首字母s后不同；steamer（蒸汽机） vs sweater: 词根不同；theater（剧院） vs sweater: 拼写结构不同；weather（天气） vs sweater: 首字母w后不同",
+        "extendedMeaning": "在考研阅读中可引申为‘保暖层’或‘覆盖物’，如‘a sweater of clouds’（云层覆盖），但极罕见。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sweep",
+      "word": "sweep",
+      "phonetic": "/swi:p/",
+      "meaning": "v.扫,打扫;席卷,冲光;扫过,掠过",
+      "similar": [
+        "weep",
+        "sheep",
+        "steep",
+        "asleep",
+        "peep",
+        "seed",
+        "seek",
+        "seem"
+      ],
+      "question": {
+        "wordId": "sweep",
+        "stem": "选择 \"sweep\" 的正确中文意思：",
+        "correct": "v.扫,打扫;席卷,冲光;扫过,掠过",
+        "options": [
+          "n.(绵)羊；易受人摆布的人",
+          "v.扫,打扫;席卷,冲光;扫过,掠过",
+          "a.陡峭，险峻的；急剧升降的vt.浸泡,沉浸",
+          "v.哭泣,流泪;滴下 n.哭泣"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语swapan，核心动作是‘快速擦过或移动’，引申为‘打扫’（扫帚擦过地面）和‘席卷’（力量快速覆盖区域）。",
+        "similarWarning": "sweep vs. weep（哭泣：w像流泪）；sweep vs. steep（陡峭：st像站立，陡坡需站稳）。",
+        "extendedMeaning": "1. 席卷，迅速蔓延（如sweep across the country）；2. 横扫，轻易获胜（如sweep the election）；3. 蜿蜒，延伸（如the road sweeps around the hill）。",
+        "examUsage": "真题考点：sweep aside（不理会，搁置）与sweep up（打扫干净，引申为‘完成’）常作为题眼或干扰项。"
+      }
+    },
+    {
+      "id": "swell",
+      "word": "swell",
+      "phonetic": "/swel/",
+      "meaning": "n./v.肿胀;膨胀;增大;增加;",
+      "similar": [
+        "dwell",
+        "shell",
+        "smell",
+        "spell",
+        "cell",
+        "fell",
+        "hell",
+        "seal"
+      ],
+      "question": {
+        "wordId": "swell",
+        "stem": "选择 \"swell\" 的正确中文意思：",
+        "correct": "n./v.肿胀;膨胀;增大;增加;",
+        "options": [
+          "n.气味;嗅觉 v.嗅,闻到;散发(…的)气味",
+          "v.住,居留",
+          "n.壳,贝壳;炮弹",
+          "n./v.肿胀;膨胀;增大;增加;"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，但核心物理动作为“体积或程度的向外扩张”。词根swell- 源自原始日耳曼语，与“膨胀、鼓起”相关，强调内部压力导致的外部形态增大。",
+        "similarWarning": "swell vs. dwell: dwell 指“居住、停留”，强调“停留”状态；swell 强调“膨胀”动作。swell vs. spell: spell 指“拼写、咒语”，与体积无关。",
+        "extendedMeaning": "考研僻义：n. 浪潮（如a swell of support）；v. 情绪高涨（如pride swelled within him）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "swift",
+      "word": "swift",
+      "phonetic": "/swift/",
+      "meaning": "a./ad.快的(地);敏捷的(地)a.立刻的n.雨燕",
+      "similar": [
+        "shift",
+        "wit",
+        "gift",
+        "lift",
+        "slit",
+        "spit",
+        "suit",
+        "wife"
+      ],
+      "question": {
+        "wordId": "swift",
+        "stem": "选择 \"swift\" 的正确中文意思：",
+        "correct": "a./ad.快的(地);敏捷的(地)a.立刻的n.雨燕",
+        "options": [
+          "n.智力,才智,智慧",
+          "n.礼品,赠品;天赋,才能",
+          "v.替换,转移n.转换,转变;(轮)班,(换)班",
+          "a./ad.快的(地);敏捷的(地)a.立刻的n.雨燕"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "swift 源自古英语 swiftian（移动），核心动作是“快速移动”。词根 swift- 与古英语 swifan（旋转、扫掠）同源，强调动作的流畅与敏捷，如雨燕（swift）飞行时的高速转向。",
+        "similarWarning": "与 shift（移动/转变）相比，swift 强调速度，shift 强调位置变化；与 slit（裂缝）相比，swift 无“切割”义；与 soft（柔软）相比，发音相近但词义无关。",
+        "extendedMeaning": "在考研阅读中，swift 可引申为“迅速的、立即的”（如 swift response 立即回应），或作副词（swiftly 迅速地），常修饰动作或变化。",
+        "examUsage": "常见搭配：swift action（迅速行动）、swift change（快速变化）。真题中常作为时间紧迫或效率高的标志词，如“swift decision”（果断决定）。"
+      }
+    },
+    {
+      "id": "swing",
+      "word": "swing",
+      "phonetic": "/swiŋ/",
+      "meaning": "v.摇摆,摇荡,回转,旋转 n.秋千;摇摆,摆动",
+      "similar": [
+        "wing",
+        "owing",
+        "sting",
+        "saving",
+        "string",
+        "sin",
+        "sink",
+        "skin"
+      ],
+      "question": {
+        "wordId": "swing",
+        "stem": "选择 \"swing\" 的正确中文意思：",
+        "correct": "v.摇摆,摇荡,回转,旋转 n.秋千;摇摆,摆动",
+        "options": [
+          "a.欠的,未付的",
+          "v./n.刺,刺痛,剧痛;刺,叮",
+          "v.摇摆,摇荡,回转,旋转 n.秋千;摇摆,摆动",
+          "n.翅,翅膀;翼,机翼;派别 vt.装以翼"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自古英语swingan，核心物理动作为‘来回摆动’，拟声词根模拟物体在空中划弧的嗖嗖声。词义从‘摆动’引申为‘旋转’（如swing a bat）、‘转向’（swing the car）及抽象‘情绪/意见摇摆’。",
+        "similarWarning": "sing（唱）vs swing：sw-前缀表‘来回’；wing（翅膀）vs swing：sw-动作+ing；sting（刺）vs swing：st-表‘刺’+ing，swing无‘刺’义。",
+        "extendedMeaning": "考研僻义：1.‘（观点/态度）突然转变’：The swing of public opinion（舆论转向）；2.‘（音乐）节奏强劲的’：swing music（摇摆乐）；3.‘（工作/活动）全面开展’：get into the swing of things（进入状态）。",
+        "examUsage": "真题考点：1. in full swing（正在全力进行中）为考研完形/阅读高频短语；2. swing vote（关键摇摆票）在政治类阅读中常作为核心题眼；3. 干扰项常混淆swing与sway（侧重不稳定摇晃），需区分‘摆动幅度’vs‘摇摆不定’。"
+      }
+    },
+    {
+      "id": "switch",
+      "word": "switch",
+      "phonetic": "/switʃ/",
+      "meaning": "n.开关；转换；鞭子 v.转变,转换；抽打",
+      "similar": [
+        "witch",
+        "stitch",
+        "ditch",
+        "pitch",
+        "watch",
+        "sketch",
+        "snatch"
+      ],
+      "question": {
+        "wordId": "switch",
+        "stem": "选择 \"switch\" 的正确中文意思：",
+        "correct": "n.开关；转换；鞭子 v.转变,转换；抽打",
+        "options": [
+          "n.女巫, 巫婆，巫师",
+          "n.开关；转换；鞭子 v.转变,转换；抽打",
+          "n.沟,沟渠,水沟",
+          "n.一针；(因跑步引起的)肋部剧痛 v.缝(合)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根词缀逻辑：源自古荷兰语 'swich'，意为‘树枝、鞭子’，核心物理动作为‘快速摆动或抽打’。引申为‘开关’（通过摆动控制电路通断）和‘转变’（快速从一个状态切换到另一个状态）。",
+        "similarWarning": "witch（女巫）：sw开头 vs w开头，开关与女巫无关联。stitch（针脚）：st开头 vs sw，缝纫与转换无关。ditch（沟渠）：d开头 vs sw，挖沟与切换无关。pitch（投掷/音高）：p开头 vs sw，投掷与开关无关。watch（手表/观看）：w开头 vs sw，看与转换无关。sketch（素描）：sk开头 vs sw，绘画与开关无关。snatch（抢夺）：sn开头 vs sw，抢与转换无关。",
+        "extendedMeaning": "在考研中，switch 常考‘转换、改变’的抽象含义，如‘switch to a new policy’（转向新政策），或‘switch roles’（交换角色）。也用于电路术语‘switch on/off’（打开/关闭）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sword",
+      "word": "sword",
+      "phonetic": "/sɔ:d/",
+      "meaning": "n.剑，刀；武力",
+      "similar": [
+        "cord",
+        "lord",
+        "sore",
+        "ward",
+        "worm",
+        "award",
+        "scold",
+        "score"
+      ],
+      "question": {
+        "wordId": "sword",
+        "stem": "选择 \"sword\" 的正确中文意思：",
+        "correct": "n.剑，刀；武力",
+        "options": [
+          "a.疼痛的;痛心的 n.痛处,疮口",
+          "n.绳,索",
+          "n.(Lord)上帝,主;主人,长官,君主,贵族",
+          "n.剑，刀；武力"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源：古英语‘sweord’，源自原始日耳曼语‘swerdan’，核心动作是‘切割’或‘挥砍’，引申为‘剑’这一武器，再抽象化为‘武力、军事力量’的象征。",
+        "similarWarning": "word（词，单词；与sword差一个‘s’，词义无关）；cord（绳子，索；与sword差‘s’和‘w’，拼写近似但含义不同）；swore（swear的过去式，发誓；与sword差‘e’与‘d’，拼写相近但词性、意义迥异）。",
+        "extendedMeaning": "在考研阅读中常以‘the sword’喻指‘武力、战争’（如‘the sword of justice’正义之剑），或用于‘sword of Damocles’（达摩克利斯之剑）典故，表示潜在的威胁或危险。",
+        "examUsage": "常见短语‘put to the sword’（杀死，屠杀），在历史或战争类真题中作为核心动词短语出现；‘cross swords’（交锋，争论），可用于议论文或记叙文中的冲突描写。"
+      }
+    },
+    {
+      "id": "symbol",
+      "word": "symbol",
+      "phonetic": "/'simbəl/",
+      "meaning": "n.符号,标志;象征",
+      "similar": [],
+      "question": {
+        "wordId": "symbol",
+        "stem": "选择 \"symbol\" 的正确中文意思：",
+        "correct": "n.符号,标志;象征",
+        "options": [
+          "n.内服药,医药;医术;医学,内科学",
+          "v.流出;发散,散发,脱落,脱去 n.棚,小屋",
+          "n.符号,标志;象征",
+          "n.外科医生"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语symbolon，由syn-（共同）+ ballein（投掷）组成，本义为“投掷在一起以作对比”，引申为“标记、符号”。核心动作是“共同投掷”以产生关联，即用一个事物代表另一个事物。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“象征意义”或“代表性意象”，如a symbol of status（地位的象征），强调抽象代表关系。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "symmetry",
+      "word": "symmetry",
+      "phonetic": "/'simitri/",
+      "meaning": "n.对称(性);匀称,整齐",
+      "similar": [
+        "summary",
+        "geometry",
+        "sympathy"
+      ],
+      "question": {
+        "wordId": "symmetry",
+        "stem": "选择 \"symmetry\" 的正确中文意思：",
+        "correct": "n.对称(性);匀称,整齐",
+        "options": [
+          "n.摘要,概要 a.概括的,简略的",
+          "n.对称(性);匀称,整齐",
+          "n.几何(学)",
+          "n.同情，同情心；赞同，同感；慰问"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自希腊语 symmetria，由 syn-（共同、一起）和 metron（测量）组成。核心物理动作：将物体从中间对折后，两边的“测量值”完全“相同”。引申为数学、美学上的对称、匀称。",
+        "similarWarning": "symmetry vs. geometry：geometry（几何学）也含 metron，但侧重“地球（geo-）的测量”；symmetry 强调“共同的测量”。symmetry vs. sympathy：sympathy（同情）含 pathos（感受），symmetry 不含。",
+        "extendedMeaning": "在考研英语中，symmetry 常引申为“平衡、对等、一致性”，如“the symmetry of power”（权力的对等）或“social symmetry”（社会结构中的对称性，指阶层或角色的对等关系）。",
+        "examUsage": "常见考点：搭配“symmetry with/between”，如“The symmetry between the two arguments is striking.”（这两个论点之间的对称性引人注目。）真题中可能作为抽象概念词出现，需注意其与 balance、equilibrium 的替换关系。"
+      }
+    },
+    {
+      "id": "sympathetic",
+      "word": "sympathetic",
+      "phonetic": "/ˌsimpə'θetik/",
+      "meaning": "a.有同情心的；赞同的；n.交感神经",
+      "similar": [
+        "synthetic",
+        "sympathize"
+      ],
+      "question": {
+        "wordId": "sympathetic",
+        "stem": "选择 \"sympathetic\" 的正确中文意思：",
+        "correct": "a.有同情心的；赞同的；n.交感神经",
+        "options": [
+          "a.合成的,人造的;综合的",
+          "n.青肿，挫伤；伤痕vt.打青；挫伤",
+          "a.有同情心的；赞同的；n.交感神经",
+          "v.(sympathise)(with)同情;共鸣,同感;赞成"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"sym-（共同）+ path-（感受）+ -etic（形容词后缀）→ 共同感受的 → 有同情心的；引申为赞同的，因赞同即情感共鸣。名词用法指交感神经，源于其协调身体共同反应。\",\n  \"similarWarning\": \"synthetic（合成的）：syn-（共同）+ thet-（放置）+ -ic → 放到一起的 → 合成的。与sympathetic拼写差异在\"pat\" vs \"thet\"，词义无关。sympathize（同情）：动词形式，后缀-ize表动作，sympathetic为形容词。\",\n  \"extendedMeaning\": \"赞同的：在考研阅",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sympathize",
+      "word": "sympathize",
+      "phonetic": "/'simpəθaiz/",
+      "meaning": "v.(sympathise)(with)同情;共鸣,同感;赞成",
+      "similar": [
+        "sympathy",
+        "sympathetic",
+        "summarize"
+      ],
+      "question": {
+        "wordId": "sympathize",
+        "stem": "选择 \"sympathize\" 的正确中文意思：",
+        "correct": "v.(sympathise)(with)同情;共鸣,同感;赞成",
+        "options": [
+          "v.(sympathise)(with)同情;共鸣,同感;赞成",
+          "n.同情，同情心；赞同，同感；慰问",
+          "a.有同情心的；赞同的；n.交感神经",
+          "v.(summarise)概括,总结"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "sym-（共同）+ path（情感）+ -ize（动词后缀）→ 共同感受情感→同情；共鸣。",
+        "similarWarning": "sympathy（n.同情，同感）与sympathize（v.同情）同源，后者为动词形式；sympathetic（adj.同情的，共鸣的）为形容词；summarize（v.总结）拼写近似但词根不同（sum-总+ -ize），注意区分。",
+        "extendedMeaning": "考研僻义：1. 赞同，支持（后接with）例：I sympathize with your proposal.（我赞同你的提议。）2. 共鸣，产生同感（非仅同情）例：The audience sympathized with the hero's plight.（观众与主人公的困境产生共鸣。）",
+        "examUsage": "考点：sympathize with sb/sth 为固定搭配，后接宾语；注意与sympathy（n.）搭配sympathy for sb（对某人的同情），避免混淆。真题例句：Many people sympathized with the strikers.（许多人同情罢工者。）"
+      }
+    },
+    {
+      "id": "sympathy",
+      "word": "sympathy",
+      "phonetic": "/'simpəθi/",
+      "meaning": "n.同情，同情心；赞同，同感；慰问",
+      "similar": [
+        "sympathize",
+        "symptom",
+        "symmetry",
+        "symphony"
+      ],
+      "question": {
+        "wordId": "sympathy",
+        "stem": "选择 \"sympathy\" 的正确中文意思：",
+        "correct": "n.同情，同情心；赞同，同感；慰问",
+        "options": [
+          "v.(sympathise)(with)同情;共鸣,同感;赞成",
+          "n.同情，同情心；赞同，同感；慰问",
+          "n.(疾病的)症状；(不好事情的)征兆,表征",
+          "n.对称(性);匀称,整齐"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "sym-共同 + path-感受 + -y名词后缀 → 共同感受 → 同情、同感。核心动作：与他人共享同一情感状态。",
+        "similarWarning": "symptom (n.症状) → sym-共同 + ptom-掉落 → 共同掉落的特征；symmetry (n.对称) → sym-共同 + metr-测量 → 共同测量。注意字母差异：sympathy含path-感受，symptom含ptom-掉落，symmetry含metr-测量。",
+        "extendedMeaning": "赞同，同感（指对观点、计划等的支持或理解，非情感上的同情）。例：I have some sympathy with their view. 我赞同他们的观点。",
+        "examUsage": "in sympathy with 赞同，支持（真题常见固定搭配）。例：He is in sympathy with the reform. 他支持这项改革。"
+      }
+    },
+    {
+      "id": "symphony",
+      "word": "symphony",
+      "phonetic": "/'simfəni/",
+      "meaning": "n.交响乐,交响曲",
+      "similar": [
+        "symptom",
+        "sympathy"
+      ],
+      "question": {
+        "wordId": "symphony",
+        "stem": "选择 \"symphony\" 的正确中文意思：",
+        "correct": "n.交响乐,交响曲",
+        "options": [
+          "n.(疾病的)症状；(不好事情的)征兆,表征",
+          "n.同情，同情心；赞同，同感；慰问",
+          "n.誓言,誓约,诅咒",
+          "n.交响乐,交响曲"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "sym-（共同）+ phon-（声音）+ -y（名词后缀）→ 声音共同响起 → 交响乐。核心物理动作：多种乐器或声音同时和谐发声。",
+        "similarWarning": "symptom（症状）：sym-（共同）+ ptom（落下）→ 共同落下的现象 → 症状。对比：symphony 强调声音（phon），symptom 强调现象（ptom）。sympathy（同情）：sym-（共同）+ path-（情感）+ -y → 共同情感。对比：symphony 与声音相关，sympathy 与情感相关。",
+        "extendedMeaning": "（在考研中较少出现僻义，常见义即为交响乐）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "symposium",
+      "word": "symposium",
+      "phonetic": "/sim'pəuziəm/",
+      "meaning": "n.讨论会,专题报告会;专题论文集",
+      "similar": [
+        "gymnasium"
+      ],
+      "question": {
+        "wordId": "symposium",
+        "stem": "选择 \"symposium\" 的正确中文意思：",
+        "correct": "n.讨论会,专题报告会;专题论文集",
+        "options": [
+          "n.厨师 v.烹调，烧煮；纂改(账目)，捏造",
+          "v.救,拯救;储蓄,贮存;节省",
+          "n.讨论会,专题报告会;专题论文集",
+          "n.(gym)体育馆，健身房"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "sym-（共同）+ pos-（喝，饮酒）+ -ium（场所）。古希腊人举行讨论会时常饮酒，故“共同饮酒的场所”引申为“讨论会、专题报告会”。",
+        "similarWarning": "gymnasium（健身房，体育馆）：gym-（裸体）+ -nasium（场所），古希腊人裸体锻炼的场所。二者词根不同：sym-（共同）vs gym-（裸体），pos-（饮）vs nas-（？），注意区分。",
+        "extendedMeaning": "专题论文集（学术出版形式，如Springer Symposium系列）。",
+        "examUsage": "常考搭配：hold a symposium on（举办关于…的研讨会），如真题中“a symposium on climate change”。"
+      }
+    },
+    {
+      "id": "symptom",
+      "word": "symptom",
+      "phonetic": "/'simptəm/",
+      "meaning": "n.(疾病的)症状；(不好事情的)征兆,表征",
+      "similar": [
+        "sympathy",
+        "symphony"
+      ],
+      "question": {
+        "wordId": "symptom",
+        "stem": "选择 \"symptom\" 的正确中文意思：",
+        "correct": "n.(疾病的)症状；(不好事情的)征兆,表征",
+        "options": [
+          "a.室内的,户内的",
+          "n.同情，同情心；赞同，同感；慰问",
+          "n.交响乐,交响曲",
+          "n.(疾病的)症状；(不好事情的)征兆,表征"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语symptoma，由syn-（一起）与piptein（落下）组合，字面意为“一起落下的事件”。医学上指疾病发生时身体出现的共同现象，即症状；后引申为不良事件发生前的共同征兆。",
+        "similarWarning": "sympathy（同情）：symptom含pt（落下），sympathy含path（情感），注意词根差异。symphony（交响乐）：symptom含pt（落下），symphony含phon（声音），拼写区分在pt与ph。",
+        "extendedMeaning": "在考研真题中常指“社会问题的征兆”，如“symptoms of economic decline”（经济衰退的征兆），强调负面事件的早期信号。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "syndrome",
+      "word": "syndrome",
+      "phonetic": "/'sɪndrəum/",
+      "meaning": "n.综合病征；并存特性",
+      "similar": [
+        "handsome"
+      ],
+      "question": {
+        "wordId": "syndrome",
+        "stem": "选择 \"syndrome\" 的正确中文意思：",
+        "correct": "n.综合病征；并存特性",
+        "options": [
+          "n.综合病征；并存特性",
+          "a.漂亮的,英俊的;慷慨的,数量可观的",
+          "v.察觉,发觉,侦察,探测",
+          "n.山羊"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源于希腊语 syn-（一起）+ dromos（奔跑），字面意为“一起奔跑的东西”，引申为同时出现的症状或特征集合。核心动作：多个元素同时发生或聚集。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“（某种社会现象、情绪或问题的）典型组合或模式”，如“a syndrome of anxiety and depression”（焦虑与抑郁的并发特征），强调非医学领域的并存特性。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "synthesis",
+      "word": "synthesis",
+      "phonetic": "/'sinθisis/",
+      "meaning": "n.(pl.syntheses)综合,合成",
+      "similar": [
+        "synthetic",
+        "hypothesis"
+      ],
+      "question": {
+        "wordId": "synthesis",
+        "stem": "选择 \"synthesis\" 的正确中文意思：",
+        "correct": "n.(pl.syntheses)综合,合成",
+        "options": [
+          "a.合成的,人造的;综合的",
+          "n.(pl.syntheses)综合,合成",
+          "n.假说,假设,前提",
+          "n.题目，主题；主旋律，基调"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根：syn-（一起）+ thesis（放置）。核心物理动作：将分散的部分放到一起，形成整体。本义为“综合、合成”，强调从分散到整合的过程。",
+        "similarWarning": "synthetic（adj.合成的，人造的）与synthesis同源，但词性不同；hypothesis（n.假说）中hypo-（在……之下）+ thesis（放置），指“放在下面作为基础的观点”，与synthesis的“整合”方向相反。",
+        "extendedMeaning": "在学术语境中可指“综合论述”或“合成产物”，如考研阅读中常出现“the synthesis of different theories”（不同理论的综合）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "synthetic",
+      "word": "synthetic",
+      "phonetic": "/sin'θetik/",
+      "meaning": "a.合成的,人造的;综合的",
+      "similar": [
+        "synthesis",
+        "sympathetic",
+        "pathetic",
+        "aesthetic",
+        "arithmetic",
+        "systematic"
+      ],
+      "question": {
+        "wordId": "synthetic",
+        "stem": "选择 \"synthetic\" 的正确中文意思：",
+        "correct": "a.合成的,人造的;综合的",
+        "options": [
+          "a.合成的,人造的;综合的",
+          "a.有同情心的；赞同的；n.交感神经",
+          "a.可怜的, 悲惨的",
+          "n.(pl.syntheses)综合,合成"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由前缀syn-（共同，一起）+ 词根thet-（放置）+ 形容词后缀-ic构成。核心物理动作是“把多个东西放在一起”，引申为“合成的、人造的”。其名词形式synthesis（合成）与之同源，强调组合过程。",
+        "similarWarning": "synthetic（合成的） vs. sympathetic（同情的）：前缀syn-（共同）相同，但词根不同，thet-“放置” vs. path-“情感”。synthetic强调物理组合，sympathetic强调情感共鸣。",
+        "extendedMeaning": "在考研中常引申为“综合的、非天然的”，如“synthetic fiber”（合成纤维）、“synthetic data”（合成数据，指人工生成的数据）。",
+        "examUsage": "真题考点：常与natural（天然的）形成反义对比，在阅读理解中作为干扰项出现。例如：“synthetic materials are often cheaper than natural ones”中的synthetic需准确理解为“人造的”，而非“综合的”。"
+      }
+    },
+    {
+      "id": "systematic",
+      "word": "systematic",
+      "phonetic": "/ˌsɪstə'mætɪk/",
+      "meaning": "a.(systematical)系统的,有组织的",
+      "similar": [
+        "automatic",
+        "synthetic"
+      ],
+      "question": {
+        "wordId": "systematic",
+        "stem": "选择 \"systematic\" 的正确中文意思：",
+        "correct": "a.(systematical)系统的,有组织的",
+        "options": [
+          "a.合成的,人造的;综合的",
+          "n.人格,个性",
+          "a.自动(装置)的；无意识的；n.自动机械",
+          "a.(systematical)系统的,有组织的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自希腊语 systēma (系统)，由 syn- (一起) + histanai (放置) 构成，字面意为“组合在一起”。-atic 为形容词后缀。核心动作是将各部分有条理地“放置在一起”，形成整体流程。",
+        "similarWarning": "automatic (自动的): vs systematic，auto- (自己) 强调无需人工干预的自动机制；synthetic (合成的): vs systematic，syn- (一起) + thesis (放置)，强调人工组合而非自然系统化流程。",
+        "extendedMeaning": "在考研阅读中常引申为“有计划、有条理的”，如 systematic approach (系统方法)，强调步骤的严谨性。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tablet",
+      "word": "tablet",
+      "phonetic": "/'tæblət/",
+      "meaning": "n.药片;碑,匾",
+      "similar": [
+        "able",
+        "tale",
+        "cable",
+        "fable",
+        "ballet",
+        "stable",
+        "talent",
+        "target"
+      ],
+      "question": {
+        "wordId": "tablet",
+        "stem": "选择 \"tablet\" 的正确中文意思：",
+        "correct": "n.药片;碑,匾",
+        "options": [
+          "a.有(能力、知识等)做某事，有本事的",
+          "n.电报;电缆;缆,索,钢丝绳 v.拍电报",
+          "n.故事,传说",
+          "n.药片;碑,匾"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "tablet 源自拉丁语 tabula（木板、写字板），后缀 -et 表示“小”。核心物理动作：一块小平板或薄片。词义演变：从“小写字板”引申为“刻字的碑、匾”（古代在石或木板上刻文字），再比喻为“药片”（压缩成的小薄片）。",
+        "similarWarning": "table（桌子） vs tablet（药片/碑）：table 是完整桌子，tablet 是小型平板。stable（稳定的） vs tablet：stable 含 s 开头，表“稳固”；tablet 无 s，表“片状物”。talent（天赋） vs tablet：talent 结尾 -ent，表“才能”；tablet 结尾 -et，表“小物件”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tackle",
+      "word": "tackle",
+      "phonetic": "/'tækl/",
+      "meaning": "n.滑车;用具,器械 v.处理,解决;抱住,抓住",
+      "similar": [
+        "tale",
+        "ankle",
+        "tangle"
+      ],
+      "question": {
+        "wordId": "tackle",
+        "stem": "选择 \"tackle\" 的正确中文意思：",
+        "correct": "n.滑车;用具,器械 v.处理,解决;抱住,抓住",
+        "options": [
+          "n.纠缠；缠结；混乱 v.(使)缠绕；变乱",
+          "n.故事,传说",
+          "n.滑车;用具,器械 v.处理,解决;抱住,抓住",
+          "n.足踝，踝关节"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源可能来自古法语“taque”（固定物），核心物理动作是“用手抓住或固定某物”，引申为“处理、解决难题”或“用器械（滑车）拖拽重物”。",
+        "similarWarning": "tackle vs. tangle（纠缠）：tackle含字母“ck”表“抓住/处理”；tangle含“ng”表“缠绕混乱”。",
+        "extendedMeaning": "考研中常考“处理、应对”义，如tackle a problem（解决问题），非字面“器械”义。",
+        "examUsage": "真题考点：tackle常与issue, problem, challenge搭配，表示“着手解决”；如：The government must tackle the rising unemployment.（政府必须解决失业率上升问题。）"
+      }
+    },
+    {
+      "id": "tactic",
+      "word": "tactic",
+      "phonetic": "/'tæktik/",
+      "meaning": "n.(tactics)策略,战术",
+      "similar": [
+        "static"
+      ],
+      "question": {
+        "wordId": "tactic",
+        "stem": "选择 \"tactic\" 的正确中文意思：",
+        "correct": "n.(tactics)策略,战术",
+        "options": [
+          "n.(tactics)策略,战术",
+          "a.(statical)静态的,静力的",
+          "v.审计；查帐；核对；旁听",
+          "a.(of)喜爱的,爱好的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语“taktike”（战术），词根“takt-”意为“安排、整理”，与“taxis”（排列）同源。核心动作为“有序安排”，引申为在竞争或对抗中为达成目标而精心设计的行动方案。",
+        "similarWarning": "static（静态的）：词根“sta-”站立，强调静止状态。tactic强调动态安排。practice（实践）：词根“pract-”做，侧重重复行动以熟练，tactic侧重策略规划。",
+        "extendedMeaning": "在考研中常引申为“手段、办法”，不限于军事，如“marketing tactics”（营销手段）。",
+        "examUsage": "真题中常与“strategy”对比：strategy是宏观长期计划，tactic是微观具体行动。如“a tactic to win votes”（赢得选票的策略）。"
+      }
+    },
+    {
+      "id": "tag",
+      "word": "tag",
+      "phonetic": "/tæg/",
+      "meaning": "n.标签;鞋带;垂饰;vt.加标签于;附加vi.紧随",
+      "similar": [
+        "lag",
+        "rag",
+        "tan",
+        "tap",
+        "tar",
+        "tax",
+        "tug"
+      ],
+      "question": {
+        "wordId": "tag",
+        "stem": "选择 \"tag\" 的正确中文意思：",
+        "correct": "n.标签;鞋带;垂饰;vt.加标签于;附加vi.紧随",
+        "options": [
+          "n.标签;鞋带;垂饰;vt.加标签于;附加vi.紧随",
+          "v./n.落后,滞后 vt.用隔热材料覆盖(锅炉等)",
+          "n./a.(皮肤因日晒而成)棕褐色(的) vt.晒黑",
+          "n.抹布,破布,碎布"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源自斯堪的纳维亚语。核心物理动作：将一个小片状物（标签）附着在物体上，引申为任何形式的标示或附加。",
+        "similarWarning": "bag (包) vs tag (标签)：b-与t-首字母不同；lag (落后) vs tag (标签)：l-与t-首字母不同；rag (破布) vs tag (标签)：r-与t-首字母不同；tan (晒黑) vs tag (标签)：n-与g-尾字母不同；tap (轻拍) vs tag (标签)：p-与g-尾字母不同；tar (焦油) vs tag (标签)：r-与g-尾字母不同；tax (税) vs tag (标签)：x-与g-尾字母不同；tug (拖拽) vs tag (标签)：u-与a-元音不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tail",
+      "word": "tail",
+      "phonetic": "/teil/",
+      "meaning": "n.尾巴；尾部；跟踪者 vt.尾随，跟踪",
+      "similar": [
+        "trail",
+        "fail",
+        "hail",
+        "nail",
+        "pail",
+        "rail",
+        "sail",
+        "detail"
+      ],
+      "question": {
+        "wordId": "tail",
+        "stem": "选择 \"tail\" 的正确中文意思：",
+        "correct": "n.尾巴；尾部；跟踪者 vt.尾随，跟踪",
+        "options": [
+          "v.下雹;欢呼,欢迎 n.雹",
+          "v.失败,不及格;衰退,减弱",
+          "n.踪迹,痕迹;小路 v.追踪,跟踪;拖,拖曳;",
+          "n.尾巴；尾部；跟踪者 vt.尾随，跟踪"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根tail-来自古英语tægel，意为“尾巴”，核心物理动作为“拖在后面”。引申为“尾部”或“跟踪”，即跟在某人或某物后面。",
+        "similarWarning": "trail（追踪/小径）：多一个r，强调拖曳或留下的痕迹；tail侧重直接跟在后面。fail（失败）：首字母f，无关联；hail（冰雹/欢呼）：首字母h，无关联；mail（邮件）：首字母m，无关联；nail（钉子）：首字母n，无关联；pail（桶）：首字母p，无关联；rail（轨道/抱怨）：首字母r，无关联；sail（航行）：首字母s，无关联。",
+        "extendedMeaning": "考研僻义：n. 跟踪者（如警方线人）；vt. 尾随（常用于侦探或监视语境）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tailor",
+      "word": "tailor",
+      "phonetic": "/'teilə/",
+      "meaning": "n.裁缝 v.缝制,剪裁",
+      "similar": [
+        "sailor",
+        "traitor",
+        "tail"
+      ],
+      "question": {
+        "wordId": "tailor",
+        "stem": "选择 \"tailor\" 的正确中文意思：",
+        "correct": "n.裁缝 v.缝制,剪裁",
+        "options": [
+          "n.裁缝 v.缝制,剪裁",
+          "n.尾巴；尾部；跟踪者 vt.尾随，跟踪",
+          "n.水手,海员",
+          "n.叛徒,卖国贼"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 tail（切割） + -or（表人/物）→ 原指用剪刀切割布料的人 → 裁缝；动词引申为根据特定需求“剪裁、定制”。",
+        "similarWarning": "sailor（水手：sail-航行） vs tailor（裁缝：tail-切割）；traitor（叛徒：trad-传递） vs tailor；tail（尾巴）仅拼写相似，词源无关。",
+        "extendedMeaning": "动词“专门定制、量身打造”（非字面缝制），如 tailor-made solution（量身定制的解决方案），常见于考研阅读中描述政策、策略的个性化调整。",
+        "examUsage": "短语 tailor...to...（使…适应…），如：tailor products to local needs（使产品适应当地需求），是真题中典型的因果逻辑题眼。"
+      }
+    },
+    {
+      "id": "tale",
+      "word": "tale",
+      "phonetic": "/teil/",
+      "meaning": "n.故事,传说",
+      "similar": [
+        "stale",
+        "male",
+        "pale",
+        "sale",
+        "talk",
+        "tame",
+        "tape",
+        "tile"
+      ],
+      "question": {
+        "wordId": "tale",
+        "stem": "选择 \"tale\" 的正确中文意思：",
+        "correct": "n.故事,传说",
+        "options": [
+          "n.故事,传说",
+          "n.变质的,不新鲜的;陈旧的,陈腐的",
+          "n./a.男性(的),雄性(的)",
+          "a.苍白的,灰白的;浅的,暗淡的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自中古英语 tale，与 tell（讲述）同源，核心动作是“讲述出来的内容”，即口头流传的叙事。",
+        "similarWarning": "stale（陈腐的，不新鲜的），与 tale 差一个首字母 s，stale 强调“不新鲜”，与故事的新鲜度无关；table（桌子）尾部不同，tale 以 e 结尾，table 有 b 和 l。",
+        "extendedMeaning": "考研中无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "talent",
+      "word": "talent",
+      "phonetic": "/'tælənt/",
+      "meaning": "n.才能,天资;人才",
+      "similar": [
+        "tale",
+        "tent",
+        "agent",
+        "alert",
+        "latent",
+        "patent",
+        "silent",
+        "tablet"
+      ],
+      "question": {
+        "wordId": "talent",
+        "stem": "选择 \"talent\" 的正确中文意思：",
+        "correct": "n.才能,天资;人才",
+        "options": [
+          "n.才能,天资;人才",
+          "n.代理人；代理商；产生作用的人或事物",
+          "n.故事,传说",
+          "n.帐篷"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"talenta\"（重量单位，后引申为货币单位），因《圣经》中\"塔兰特寓言\"（马太福音25:14-30）中主人按仆人才能分给不同数量塔兰特的故事，词义从\"货币单位\"演变为\"天赋、才能\"，核心动作是\"被赋予的价值衡量\"。\",\n  \"similarWarning\": \"talent vs. patent: talent（才能）含字母\"l\"（联想\"labor\"努力孕育才能）；patent（专利）含\"p\"（联想\"protect\"保护发明）。talent vs. latent: latent（潜在的）含\"lat\"（隐藏），talent（显性的能力）含\"tal",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "talk",
+      "word": "talk",
+      "phonetic": "/tɔ:k/",
+      "meaning": "n.谈话；聊天；讲话；演讲 v.说话；交谈",
+      "similar": [
+        "stalk",
+        "tale",
+        "tank",
+        "task",
+        "walk",
+        "chalk",
+        "stack",
+        "stale"
+      ],
+      "question": {
+        "wordId": "talk",
+        "stem": "选择 \"talk\" 的正确中文意思：",
+        "correct": "n.谈话；聊天；讲话；演讲 v.说话；交谈",
+        "options": [
+          "n.故事,传说",
+          "n.罐,槽,箱；坦克 vt.储于槽中",
+          "n.茎，梗vt.悄悄地跟踪vi.高视阔步地走",
+          "n.谈话；聊天；讲话；演讲 v.说话；交谈"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语 talian '讲述'，与 tale '故事'同源。核心动作是‘口头表达信息’，强调交流行为本身，而非内容。",
+        "similarWarning": "stalk (n.茎 v.跟踪) 比 talk 多 's'；tale (n.故事) 拼写不同；tall (adj.高的) 末尾 'll'；tank (n.坦克/罐) 中间 'n'；task (n.任务) 中间 's'；walk (v.步行) 首字母 'w'；chalk (n.粉笔) 首字母 'ch'；stack (n.堆) 首字母 's' 且末尾 'ck'。",
+        "extendedMeaning": "（无特别考研僻义，基础词义为主）",
+        "examUsage": "（基础词，无高频干扰项或特殊考点，无需展示）"
+      }
+    },
+    {
+      "id": "tame",
+      "word": "tame",
+      "phonetic": "/teim/",
+      "meaning": "a.驯服的,温顺的;沉闷的,乏味的 vt.驯服",
+      "similar": [
+        "fame",
+        "lame",
+        "tale",
+        "tape",
+        "blame",
+        "camel",
+        "flame",
+        "frame"
+      ],
+      "question": {
+        "wordId": "tame",
+        "stem": "选择 \"tame\" 的正确中文意思：",
+        "correct": "a.驯服的,温顺的;沉闷的,乏味的 vt.驯服",
+        "options": [
+          "n.故事,传说",
+          "a.跛的,(辩解、论据等)无说服力的",
+          "n.名声;名望;传说 vt使出名;传扬…的名",
+          "a.驯服的,温顺的;沉闷的,乏味的 vt.驯服"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "tame 源自原始印欧语 *dem-（驯服、控制），核心动作是“使顺从、压制野性”。词根演变中，拉丁语 domare（驯服）与之同源。本义指将野兽变为家畜的物理过程，引申为“温顺、沉闷”（缺乏刺激）。",
+        "similarWarning": "fame（名声）、game（游戏）、lame（跛足的）、name（名字）、same（相同的）、take（拿取）、tale（故事）、tape（磁带）。差异在首字母或末尾字母，词义无关联。",
+        "extendedMeaning": "在考研阅读中，tame 常引申为“沉闷的、乏味的”（如 a tame party 乏味的聚会），或作动词“抑制、控制”（如 tame inflation 抑制通胀）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tan",
+      "word": "tan",
+      "phonetic": "/tæn/",
+      "meaning": "n./a.(皮肤因日晒而成)棕褐色(的) vt.晒黑",
+      "similar": [
+        "tank",
+        "than",
+        "ban",
+        "fan",
+        "pan",
+        "tag",
+        "tap",
+        "tar"
+      ],
+      "question": {
+        "wordId": "tan",
+        "stem": "选择 \"tan\" 的正确中文意思：",
+        "correct": "n./a.(皮肤因日晒而成)棕褐色(的) vt.晒黑",
+        "options": [
+          "n.罐,槽,箱；坦克 vt.储于槽中",
+          "conj.(用于形容词，副词的比较级之后)比",
+          "v.取缔,查禁;(from)禁止 n.禁止,禁令",
+          "n./a.(皮肤因日晒而成)棕褐色(的) vt.晒黑"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "tan源自古法语tanner，意为‘鞣制皮革’，核心动作是‘用树皮处理生皮使其变成棕色’。引申为‘皮肤晒成棕褐色’，本质是颜色转变过程。",
+        "similarWarning": "tank（坦克/水箱）: tan + k；than（比）: t → th；ban（禁止）: t → b；can（能/罐头）: t → c；fan（扇子/迷）: t → f；man（男人）: t → m；pan（平底锅）: t → p；tag（标签）: n → g。差异在首字母或尾字母，注意拼写。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tangle",
+      "word": "tangle",
+      "phonetic": "/'tæŋgl/",
+      "meaning": "n.纠缠；缠结；混乱 v.(使)缠绕；变乱",
+      "similar": [
+        "angle",
+        "triangle",
+        "tale",
+        "ankle",
+        "eagle",
+        "range",
+        "candle",
+        "handle"
+      ],
+      "question": {
+        "wordId": "tangle",
+        "stem": "选择 \"tangle\" 的正确中文意思：",
+        "correct": "n.纠缠；缠结；混乱 v.(使)缠绕；变乱",
+        "options": [
+          "n.纠缠；缠结；混乱 v.(使)缠绕；变乱",
+          "n.角，角度 v.钓鱼；(采用各种方法）取得",
+          "n.三角(形)",
+          "n.故事,传说"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根与古英语*thwang*（皮带）相关，核心物理动作是“缠绕、纠结”，引申为混乱状态。",
+        "similarWarning": "angle（角度）：tangle多一个t，强调“缠结”；triangle（三角形）：tri-（三）+angle，与tangle无关。",
+        "extendedMeaning": "考研中常引申为“复杂困境或混乱局面”，如a tangle of emotions（情感纠葛）。",
+        "examUsage": "常见搭配tangle with（与…争执/纠缠），如真题：He tangled with the authorities. 注意与tangle up（使完全缠住）区分。"
+      }
+    },
+    {
+      "id": "tank",
+      "word": "tank",
+      "phonetic": "/tæŋk/",
+      "meaning": "n.罐,槽,箱；坦克 vt.储于槽中",
+      "similar": [
+        "thank",
+        "tan",
+        "rank",
+        "talk",
+        "task",
+        "tanker",
+        "blank",
+        "frank"
+      ],
+      "question": {
+        "wordId": "tank",
+        "stem": "选择 \"tank\" 的正确中文意思：",
+        "correct": "n.罐,槽,箱；坦克 vt.储于槽中",
+        "options": [
+          "n.军衔,社会阶层;排 v.分等级,把…分类",
+          "n.罐,槽,箱；坦克 vt.储于槽中",
+          "vt.感谢int.[-s]谢谢n.[pl.]感谢(意)",
+          "n./a.(皮肤因日晒而成)棕褐色(的) vt.晒黑"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自印度语‘tankh’（蓄水池），核心物理动作是‘容器’（盛放液体）与‘装甲移动堡垒’（坦克，因形似水槽得名）。",
+        "similarWarning": "tank vs thank: 加h表感谢；tank vs tan: 去k表晒黑；tank vs bank: 首字母b表银行/河岸；tank vs rank: 首字母r表排名；tank vs talk: 加l表谈话；tank vs task: 加s表任务；tank vs tanker: 加er表油轮；tank vs blank: 加b表空白。",
+        "extendedMeaning": "考研僻义：1. 失败/崩溃（v.，如‘tank in the exam’考试考砸）；2. 故意输掉（v.，如‘tank a game’放水比赛）。",
+        "examUsage": "真题考点：常见于‘think tank’（智库）短语，或‘fuel tank’（油箱）等搭配。无特殊干扰项，本项可省略。"
+      }
+    },
+    {
+      "id": "tanker",
+      "word": "tanker",
+      "phonetic": "/'tæŋkə/",
+      "meaning": "n.油船",
+      "similar": [
+        "tank",
+        "anger",
+        "banner",
+        "cancer",
+        "danger",
+        "manner",
+        "tender",
+        "wander"
+      ],
+      "question": {
+        "wordId": "tanker",
+        "stem": "选择 \"tanker\" 的正确中文意思：",
+        "correct": "n.油船",
+        "options": [
+          "n.罐,槽,箱；坦克 vt.储于槽中",
+          "n.旗(帜)",
+          "n.油船",
+          "n.愤怒，气愤 vt.使发怒，激怒 vi.发怒"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "tank（储罐）+ -er（表物）→ 装液体储罐的船 → 油船。核心物理动作：容器（tank）承载液体运输。",
+        "similarWarning": "tanker vs. tank（坦克/储罐）：tanker是名词后缀-er表“物”，指油船；tank是基础名词，指容器或战车。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tap",
+      "word": "tap",
+      "phonetic": "/tæp/",
+      "meaning": "n.塞子;水龙头; n./v.轻打,轻敲; vt.开发",
+      "similar": [
+        "tape",
+        "trap",
+        "cap",
+        "gap",
+        "lap",
+        "map",
+        "nap",
+        "rap"
+      ],
+      "question": {
+        "wordId": "tap",
+        "stem": "选择 \"tap\" 的正确中文意思：",
+        "correct": "n.塞子;水龙头; n./v.轻打,轻敲; vt.开发",
+        "options": [
+          "n.陷阱，圈套 vt.诱捕；使中圈套 vi.设圈套",
+          "n.带(子);录音带,磁带 v.录音;系,捆",
+          "n.便帽,军帽;盖,罩,套 v.覆盖于…顶端",
+          "n.塞子;水龙头; n./v.轻打,轻敲; vt.开发"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模仿轻敲物体的声音。核心物理动作是‘轻而快地接触’或‘打开/关闭水流’。名词‘塞子/水龙头’源于古代用木塞堵住酒桶孔洞的动作；动词‘轻打’直接拟声；‘开发’源自‘打开水龙头’的隐喻，引申为‘释放资源’（如tap potential）。",
+        "similarWarning": "tape（磁带/胶带，拼写+pe vs +p）；trap（陷阱，拼写tr- vs t-，且词义为‘捕捉’）；cap（帽子/盖子，拼写c- vs t-，词义为‘覆盖’）；gap（缺口，拼写g- vs t-，词义为‘空隙’）；lap（膝盖/一圈，拼写l- vs t-，词义为‘重叠’）；nap（小睡/绒毛，拼写n- vs t-，词义为‘短暂休息’）。",
+        "extendedMeaning": "【熟词僻义】1. 窃听/搭线窃听（tap the phone）；2. 发掘/利用（tap into a market）；3. 轻敲（tap dance，踢踏舞）。",
+        "examUsage": "【真题考点】tap into：利用/开发（2010年英语二Text 3：tap into the potential of the Internet）；固定搭配：on tap（可随时供应的/现成的，如：on tap at the bar）。"
+      }
+    },
+    {
+      "id": "tape",
+      "word": "tape",
+      "phonetic": "/teip/",
+      "meaning": "n.带(子);录音带,磁带 v.录音;系,捆",
+      "similar": [
+        "tap",
+        "cape",
+        "rape",
+        "tale",
+        "tame",
+        "staple",
+        "grape",
+        "lapse"
+      ],
+      "question": {
+        "wordId": "tape",
+        "stem": "选择 \"tape\" 的正确中文意思：",
+        "correct": "n.带(子);录音带,磁带 v.录音;系,捆",
+        "options": [
+          "n./vt.掠夺,蹂躏,强奸",
+          "n.塞子;水龙头; n./v.轻打,轻敲; vt.开发",
+          "n.带(子);录音带,磁带 v.录音;系,捆",
+          "n.海角，岬；披肩，短披风"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'tape' 表示 '带子'，原指编织的带状物。核心动作：带状物用于捆绑或记录，引申为录音带和动词系、捆。",
+        "similarWarning": "tap (轻拍/水龙头), cape (披肩/海角), rape (掠夺/强奸), take (拿取), tale (故事), tame (驯服), type (类型/打字), staple (订书钉/主要产品)。注意拼写差异：tape有字母p和e，与tap、cape等区分。",
+        "extendedMeaning": "在考研中，tape常作为名词表示'磁带'，如audio tape（录音带），但僻义较少。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tar",
+      "word": "tar",
+      "phonetic": "/tɑ:/",
+      "meaning": "n.柏油，焦油 vt.涂或浇柏油/焦油于",
+      "similar": [
+        "tear",
+        "bar",
+        "ear",
+        "jar",
+        "oar",
+        "tag",
+        "tan",
+        "tap"
+      ],
+      "question": {
+        "wordId": "tar",
+        "stem": "选择 \"tar\" 的正确中文意思：",
+        "correct": "n.柏油，焦油 vt.涂或浇柏油/焦油于",
+        "options": [
+          "n.条,杆,闩;酒吧;栅,障碍(物) v.闩上,阻拦",
+          "n.耳，耳朵；听力，听觉；穗",
+          "n.柏油，焦油 vt.涂或浇柏油/焦油于",
+          "n.(pl.)眼泪 vt.撕裂；使…分裂 vi.破裂"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自古英语teoru，源于原始日耳曼语*terwō，与古高地德语zerō同源，核心物理动作是“树液渗出后变硬”，指松树等树木分泌物形成的黑色粘稠物质，后引申为人工提炼的焦油。",
+        "similarWarning": "star（星星）：t替换为st，tar是沥青，star是星体；tear（眼泪/撕裂）：e插入后变形，tar无眼泪义；bar（酒吧/条）：b替换t，tar是焦油，bar是横条。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "target",
+      "word": "target",
+      "phonetic": "/'tɑ:gɪt/",
+      "meaning": "n.目标,对象,靶子",
+      "similar": [
+        "carpet",
+        "tablet"
+      ],
+      "question": {
+        "wordId": "target",
+        "stem": "选择 \"target\" 的正确中文意思：",
+        "correct": "n.目标,对象,靶子",
+        "options": [
+          "n.真空,真空吸尘器",
+          "n.药片;碑,匾",
+          "n.目标,对象,靶子",
+          "n.地毯"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自古法语targe（小盾牌）。核心动作是“瞄准或指向一个物体或位置”，引申为“目标、对象、靶子”。",
+        "similarWarning": "large（大的） vs target（目标）：l和t开头不同；carpet（地毯） vs target：ca- vs tar-，且p/t位置不同；forget（忘记） vs target：for- vs tar-，且末尾get相同但开头不同；market（市场） vs target：mar- vs tar-，且ket/get差异；tablet（平板） vs target：tab- vs tar-，且let/get差异。",
+        "extendedMeaning": "1. 作为动词，意为“把……作为目标/对象”，如target customers（瞄准客户）。2. 在考研中常考“target market”（目标市场）或“target audience”（目标受众）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tariff",
+      "word": "tariff",
+      "phonetic": "/'tærif/",
+      "meaning": "n.关税,税率;(旅馆,饭店等)价目表,收费表",
+      "similar": [
+        "thrift"
+      ],
+      "question": {
+        "wordId": "tariff",
+        "stem": "选择 \"tariff\" 的正确中文意思：",
+        "correct": "n.关税,税率;(旅馆,饭店等)价目表,收费表",
+        "options": [
+          "n.关税,税率;(旅馆,饭店等)价目表,收费表",
+          "a.节约，节俭",
+          "a.不合法的,非法的",
+          "n.牛;牲口,家畜"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自阿拉伯语'ta'rif'（通知、定价），经法语'tarif'进入英语。核心动作是‘官方定价或征税清单’，引申为对进出口货物征收的税率（关税），或服务场所的价目表。",
+        "similarWarning": "thrift（节俭，节约） vs tariff（关税）。差异：thrift以th开头，核心是‘节省’；tariff以t开头，核心是‘税收/价目’。拼写差异在于字母'h'与'a'，意义无关。",
+        "extendedMeaning": "在考研外刊中，tariff常引申为‘贸易壁垒’或‘保护主义措施’，如'trade tariffs'（贸易关税）暗含经济政策对抗。",
+        "examUsage": "真题考点：常与'trade war'、'duty'、'levy'搭配。例句：'The government imposed a high tariff on imported steel.'（政府对进口钢铁征收高额关税。）注意区分tariff（关税）与duty（一般税）的细微差别。"
+      }
+    },
+    {
+      "id": "task",
+      "word": "task",
+      "phonetic": "/tɑ:sk/",
+      "meaning": "n.任务,作业,工作",
+      "similar": [
+        "mask",
+        "talk",
+        "tank",
+        "stack",
+        "stalk",
+        "taste",
+        "tease",
+        "thank"
+      ],
+      "question": {
+        "wordId": "task",
+        "stem": "选择 \"task\" 的正确中文意思：",
+        "correct": "n.任务,作业,工作",
+        "options": [
+          "n.罐,槽,箱；坦克 vt.储于槽中",
+          "n.任务,作业,工作",
+          "n.面具,面罩;假面具,伪装 v. 掩饰,化装",
+          "n.谈话；聊天；讲话；演讲 v.说话；交谈"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古法语‘tasque’，意为‘任务、工作’，与拉丁语‘taxare’（评估、指责）同源。核心动作是‘被指派或承担的一项具体工作或职责’，强调需要完成的事项。",
+        "similarWarning": "task vs talk: task含‘sk’，侧重任务；talk含‘lk’，侧重说话。task vs stack: stack多‘s’开头，意为堆叠；task无此意。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "taste",
+      "word": "taste",
+      "phonetic": "/teist/",
+      "meaning": "v.品尝;(of)有…味道;体验 n.滋味;味觉",
+      "similar": [
+        "haste",
+        "paste",
+        "waste",
+        "castle",
+        "easter",
+        "fasten",
+        "base",
+        "cast"
+      ],
+      "question": {
+        "wordId": "taste",
+        "stem": "选择 \"taste\" 的正确中文意思：",
+        "correct": "v.品尝;(of)有…味道;体验 n.滋味;味觉",
+        "options": [
+          "n.糊,浆糊 v.粘,贴",
+          "n.匆忙,急速;草率 v.赶快;匆忙",
+          "v.浪费 a.无用的;荒芜的 n.浪费;废物",
+          "v.品尝;(of)有…味道;体验 n.滋味;味觉"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语taxare（触摸，评价），后经古法语taster（触摸，尝试）进入英语。核心动作是“用舌头接触以感知味道”，引申为“体验、鉴赏”。",
+        "similarWarning": "haste（匆忙）vs taste：首字母h/t不同；paste（糊状物）vs taste：首字母p/t不同；waste（浪费）vs taste：首字母w/t不同；castle（城堡）vs taste：无直接关联；easter（复活节）vs taste：首字母e/t不同；fasten（系紧）vs taste：首字母f/t不同；master（主人）vs taste：首字母m/t不同；base（基础）vs taste：首字母b/t不同。",
+        "extendedMeaning": "n. 鉴赏力，品味（考研常考抽象义，如a taste for art）；v. 体验，领略（如taste freedom）。",
+        "examUsage": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,1764 @@
+{
+  "batchId": 64,
+  "words": [
+    {
+      "id": "rapid",
+      "word": "rapid",
+      "phonetic": "/'ræpid/",
+      "meaning": "a.快,急速的 n.(pl.)急流,湍滩",
+      "similar": [
+        "raid",
+        "aid",
+        "rap",
+        "rid",
+        "acid",
+        "amid",
+        "maid",
+        "rail"
+      ],
+      "question": {
+        "wordId": "rapid",
+        "stem": "选择 \"rapid\" 的正确中文意思：",
+        "correct": "a.快,急速的 n.(pl.)急流,湍滩",
+        "options": [
+          "n.援助，救护；助手，辅助物 vi.援助，救援",
+          "n/v..袭击,搜查",
+          "a.快,急速的 n.(pl.)急流,湍滩",
+          "n.叩击,轻拍,斥责 v.敲,拍,打,斥责,使着迷"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根 rap- 源自拉丁语 rapere（抓取、抢夺），核心物理动作为“快速抓取”。-id 为形容词后缀，表“具有…性质的”。故 rapid 本义为“具有抢夺般速度的”，即“快速的”。急流（n.）引申自水流湍急如抢夺般的迅猛。",
+        "similarWarning": "raid（/reɪd/，v./n.突袭）：与 rapid 差一个字母 d→p，raid 强调攻击性突袭；rapid 强调速度。aid（/eɪd/，v./n.帮助）：差一个字母 p→id，aid 无快速义。rid（/rɪd/，v.摆脱）：差字母 a→i，rid 动作是移除。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "rare",
+      "word": "rare",
+      "phonetic": "/reə(r)/",
+      "meaning": "a.稀有的,难得的,珍奇的;稀薄的,稀疏的",
+      "similar": [
+        "bare",
+        "care",
+        "dare",
+        "fare",
+        "rage",
+        "rake",
+        "rape",
+        "rate"
+      ],
+      "question": {
+        "wordId": "rare",
+        "stem": "选择 \"rare\" 的正确中文意思：",
+        "correct": "a.稀有的,难得的,珍奇的;稀薄的,稀疏的",
+        "options": [
+          "a.赤裸的,空的;稀少的,仅有的 v.露出,暴露",
+          "a.稀有的,难得的,珍奇的;稀薄的,稀疏的",
+          "v.敢,胆敢",
+          "n.小心;关怀,照料 v.(about)关心,介意,计较"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语rarus（稀疏的、松散的），物理动作指向“间距大、密度低”。核心演变：①物体分布间距大→稀有的、稀疏的；②时间间隔长→难得的；③程度罕见→珍奇的。",
+        "similarWarning": "bare（a.裸露的，空的）→对比字母b/r，bare强调表面无覆盖；rare强调数量少。care（n./v.关心）→对比字母c/r，care侧重情感投入，rare侧重视觉/概率。dare（v.敢）→对比字母d/r，dare含冒险动作，rare无主动语义。fare（n.费用；v.进展）→对比字母f/r，fare与交通/生活相关。race（n.种族；v.赛跑）→对比字母c/e，race含竞争/速度。rage（n.愤怒）→对比字母g/e，rage含强烈情绪。rake（n.耙子；v.搜索）→对比字母k/e，rake含工具/动作。rape（n./v.强奸）→对比字母p/e，rape含暴力侵犯。",
+        "extendedMeaning": "（考研僻义）在科技/医学语境中可指“（气体）稀薄的”，如rare air（稀薄空气）；在统计学中指“罕见的概率事件”，如rare event（小概率事件）。",
+        "examUsage": "（真题考点）常与unique（独特的）、scarce（缺乏的）、uncommon（不常见的）形成近义辨析。rare强调“同类中数量极少或频率极低”，如rare species（珍稀物种）；scarce侧重“供应不足导致短缺”，如scarce resources（稀缺资源）。干扰项常将rare误配为“罕见的”与“珍贵的”混用，需注意rare无主动价值判断，仅描述客观概率。"
+      }
+    },
+    {
+      "id": "rarely",
+      "word": "rarely",
+      "phonetic": "/'rεəli/",
+      "meaning": "ad.很少,难得,非常地",
+      "similar": [
+        "barely",
+        "largely",
+        "rare",
+        "rely",
+        "rally",
+        "lately",
+        "merely",
+        "namely"
+      ],
+      "question": {
+        "wordId": "rarely",
+        "stem": "选择 \"rarely\" 的正确中文意思：",
+        "correct": "ad.很少,难得,非常地",
+        "options": [
+          "ad.很少,难得,非常地",
+          "a.稀有的,难得的,珍奇的;稀薄的,稀疏的",
+          "ad.赤裸裸地,无遮蔽地;仅仅,勉强,几乎没有",
+          "ad.主要地,基本上;大量地,大规模地"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源自拉丁语 'rarus'（稀少的，稀疏的），后缀 -ly 构成副词。核心动作感知为“密度或频率上的稀疏状态”，即事物在空间或时间上分布间隔大，从而引申为“很少发生”或“难得出现”。在程度副词用法中，'rarely' 从“频率低”延伸至“程度极高”，如 'rarely beautiful'（非常美丽），强调超出寻常的稀缺性。",
+        "similarWarning": "1. barely（几乎不）：侧重程度接近零，如 'barely enough'（勉强够），与 rarely 的频率维度不同。2. largely（主要地）：侧重范围或比例，如 'largely due to'（主要由于），无频率含义。3. rarely vs. hardly：hardly 强调否定性，如 'hardly any'（几乎没有），而 rarely 强调频率低但非绝对否定。4. rally（集会/恢复）：拼写差异在 'll' 与 'r' 位置，词义完全无关。",
+        "extendedMeaning": "考研僻义：表示“非常地，极不寻常地”，用于修饰形容词或副词，强调程度远超一般，如 'rarely seen talent'（罕见的天赋）。在《经济学人》中常见于 'rarely has X been so Y' 倒装结构，表强调。",
+        "examUsage": "真题考点：1. 否定倒装：'Rarely does the media report such stories.'（媒体很少报道此类故事。）2. 与 'seldom' 同义替换，但 rarely 更正式。3. 干扰项常与 'hardly'（几乎不）混用，需注意 rarely 侧重频率，hardly 侧重程度否定。"
+      }
+    },
+    {
+      "id": "rash",
+      "word": "rash",
+      "phonetic": "/ræʃ/",
+      "meaning": "a.轻率的,鲁莽的 n.皮疹",
+      "similar": [
+        "crash",
+        "trash",
+        "ash",
+        "cash",
+        "dash",
+        "lash",
+        "rush",
+        "wash"
+      ],
+      "question": {
+        "wordId": "rash",
+        "stem": "选择 \"rash\" 的正确中文意思：",
+        "correct": "a.轻率的,鲁莽的 n.皮疹",
+        "options": [
+          "n.垃圾；拙劣的作品；渣滓，败类",
+          "v./n.碰撞,坠落,摔坏 n.失败,瓦解;爆裂声",
+          "n.灰，灰末；(pl.)骨灰；(pl.)废墟",
+          "a.轻率的,鲁莽的 n.皮疹"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能与古英语‘ræscan’（跳动）相关，核心动作是‘快速移动或爆发’。a. 轻率的：形容行动如皮疹般突然爆发，未经深思熟虑；n. 皮疹：皮肤上快速出现的红点，象征突发性。",
+        "similarWarning": "crash（碰撞）、trash（垃圾）、ash（灰烬）、cash（现金）、dash（猛冲）、lash（鞭打）、rush（冲）、wash（洗）——与rash拼写仅差首字母，但词义无直接关联，注意区分。",
+        "extendedMeaning": "n. 大量涌现（如a rash of protests：抗议浪潮）；a. 草率的（如rash decision：草率决定）。",
+        "examUsage": "考研常考a. 轻率的含义，搭配‘rash promise’（轻率的承诺）或‘rash action’（鲁莽行为）作为干扰项，与‘reckless’（鲁莽的）近义替换。"
+      }
+    },
+    {
+      "id": "rat",
+      "word": "rat",
+      "phonetic": "/ræt/",
+      "meaning": "n.鼠",
+      "similar": [
+        "rate",
+        "bat",
+        "hat",
+        "mat",
+        "pat",
+        "rag",
+        "rap",
+        "raw"
+      ],
+      "question": {
+        "wordId": "rat",
+        "stem": "选择 \"rat\" 的正确中文意思：",
+        "correct": "n.鼠",
+        "options": [
+          "n.鼠",
+          "n.帽子(一般指有边的帽子)",
+          "n.速率;等级;价格,费用 v.估价;评级,评价",
+          "n.球拍,球棒,短棒;蝙蝠"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿老鼠发出的吱吱声，直接指代啮齿动物。",
+        "similarWarning": "rate（n.比率，v.评价）：rat加e，词义完全不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "rate",
+      "word": "rate",
+      "phonetic": "/reit/",
+      "meaning": "n.速率;等级;价格,费用 v.估价;评级,评价",
+      "similar": [
+        "rat",
+        "date",
+        "fate",
+        "gate",
+        "hate",
+        "mate",
+        "rage",
+        "rake"
+      ],
+      "question": {
+        "wordId": "rate",
+        "stem": "选择 \"rate\" 的正确中文意思：",
+        "correct": "n.速率;等级;价格,费用 v.估价;评级,评价",
+        "options": [
+          "n.命运",
+          "n.日期,年代 v.注明…的日期 n./v.约会",
+          "n.鼠",
+          "n.速率;等级;价格,费用 v.估价;评级,评价"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'rata'（固定份额），'ratus'（已计算的）的阴性过去分词，核心动作是 '计算、确定比例'。→ n. 速率（计算时间/距离比）、等级（计算质量比）、价格（计算价值比）；v. 估价（计算价值）、评级（计算等级）。",
+        "similarWarning": "rat（老鼠）：rate去掉e；race（比赛/种族）：rate中的t换成c，且元音不同。对比时注意：rat无'计算'义，race强调竞争或人种。",
+        "extendedMeaning": "v. 认为；被评价为（后接形容词/名词，如 'rate sb./sth. as' 或 'be rated as'，在真题中常表示主观判断，非字面计算）。",
+        "examUsage": "at any rate（无论如何）：真题中常作为让步状语或插入语，表示 '不管怎样'，用于连接前后逻辑。"
+      }
+    },
+    {
+      "id": "ratio",
+      "word": "ratio",
+      "phonetic": "/'reiʃiəu/",
+      "meaning": "n.比,比率",
+      "similar": [
+        "radio",
+        "nation",
+        "rat",
+        "raid",
+        "rail",
+        "rate",
+        "latin",
+        "rapid"
+      ],
+      "question": {
+        "wordId": "ratio",
+        "stem": "选择 \"ratio\" 的正确中文意思：",
+        "correct": "n.比,比率",
+        "options": [
+          "n.比,比率",
+          "n.鼠",
+          "n.收音机；无线电报，无线电话v.无线电通讯",
+          "n.民族,国家"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'ratio'（计算、推理），与 'ratus'（计算的）同根，核心动作是“计算得出比例关系”。词根 'rat-' 表“计算、推理”，引申为数学上的比率或比例。",
+        "similarWarning": "形近词：radio（n. 无线电；收音机）、nation（n. 国家；民族）、rat（n. 老鼠）、raid（n./v. 突袭）、rail（n. 铁轨）、rain（n./v. 雨）、rate（n. 比率；速度；费用）、latin（n./adj. 拉丁文；拉丁的）。辨析：ratio与rate均表比率，但ratio强调两者的数量关系（如3:2），rate侧重速度、费率或等级（如汇率、心率）。",
+        "extendedMeaning": "在考研阅读中，ratio常引申为“比例关系”或“比值”，用于分析数据或趋势，如 'the ratio of A to B'（A与B的比率）。",
+        "examUsage": "真题考点：常与介词 'of...to...' 搭配，如 'the ratio of men to women'。在图表作文中高频使用，如 'the ratio of expenditure to income'（支出与收入之比）。"
+      }
+    },
+    {
+      "id": "rational",
+      "word": "rational",
+      "phonetic": "/'ræʃənəl/",
+      "meaning": "a.理性的,合理的",
+      "similar": [
+        "national",
+        "optional",
+        "nation",
+        "racial",
+        "radical",
+        "additional",
+        "occasional",
+        "stationary"
+      ],
+      "question": {
+        "wordId": "rational",
+        "stem": "选择 \"rational\" 的正确中文意思：",
+        "correct": "a.理性的,合理的",
+        "options": [
+          "a.民族的,国家的,国立的",
+          "n.民族,国家",
+          "a.理性的,合理的",
+          "a.可以任选的,随意的,非强制的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'ratio'（理由，计算），后缀 -al 表示形容词。核心动作是“基于理由/计算的”，即经过推理、符合逻辑的，而非情感或冲动的。",
+        "similarWarning": "radical：字母 'd' 替换 't'，词根不同，意为“根本的，激进的”。rational 强调逻辑性，radical 强调彻底性。",
+        "extendedMeaning": "在考研中可引申为“头脑清醒的，理智的”，如理性决策。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "raw",
+      "word": "raw",
+      "phonetic": "/rɔ:/",
+      "meaning": "a.未煮过的,生的;未加工过的,未经训练的",
+      "similar": [
+        "jaw",
+        "paw",
+        "rag",
+        "rap",
+        "rat",
+        "ray",
+        "row",
+        "saw"
+      ],
+      "question": {
+        "wordId": "raw",
+        "stem": "选择 \"raw\" 的正确中文意思：",
+        "correct": "a.未煮过的,生的;未加工过的,未经训练的",
+        "options": [
+          "n.抹布,破布,碎布",
+          "a.未煮过的,生的;未加工过的,未经训练的",
+          "n.颌,颚",
+          "n.爪"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "raw 源自古英语 hreaw，核心物理动作为“未经烹饪的肉”，引申为“未处理的、未经加工的”。词根与“粗糙、原始”相关，强调事物处于自然、未受人为干预的状态。",
+        "similarWarning": "与 draw (拉) 对比：raw 缺失 d-，表示原始；draw 有 d- 表示动作。与 jaw (颚) 对比：raw 以 r- 开头，指状态；jaw 以 j- 开头，指部位。与 law (法律) 对比：raw 指自然，law 指规则。与 paw (爪子) 对比：raw 无 p-，paw 有 p- 指动物部位。与 rag (破布) 对比：raw 末尾 w 表示未加工，rag 末尾 g 表示碎物。与 rap (敲击) 对比：raw 无 p-，rap 有 p- 表声音。与 rat (老鼠) 对比：raw 末尾 w，rat 末尾 t。与 ray (光线) 对比：raw 末尾 w，ray 末尾 y 表线条。",
+        "extendedMeaning": "在考研语境中，raw 常引申为“原始的、粗犷的”（如 raw data 原始数据）或“生疏的、无经验的”（如 raw recruit 新兵），强调未经修饰或训练的状态。",
+        "examUsage": "真题中常考 raw material（原材料）及 raw talent（天赋），注意与 crude（粗制的）区分：raw 强调未加工，crude 强调粗糙不精细。"
+      }
+    },
+    {
+      "id": "ray",
+      "word": "ray",
+      "phonetic": "/reɪ/",
+      "meaning": "n.光线,射线",
+      "similar": [
+        "pray",
+        "tray",
+        "bay",
+        "gay",
+        "hay",
+        "rag",
+        "rap",
+        "rat"
+      ],
+      "question": {
+        "wordId": "ray",
+        "stem": "选择 \"ray\" 的正确中文意思：",
+        "correct": "n.光线,射线",
+        "options": [
+          "n.光线,射线",
+          "n.海湾,(港)湾",
+          "n.盘,碟,托盘",
+          "v.请求,恳求;祈祷,祈求"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古法语raie，源自拉丁语radius（光线、辐射）。核心物理动作：从中心点向外直线发射或延伸。",
+        "similarWarning": "pray（祈祷）、tray（托盘）、bay（海湾）、day（白天）、gay（快乐的）、hay（干草）、lay（放置）、may（可能）。差异主要在首字母，拼写简单，注意词义区分即可。",
+        "extendedMeaning": "n. 微光，一线（希望等）：a ray of hope。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "razor",
+      "word": "razor",
+      "phonetic": "/'reizə/",
+      "meaning": "n.剃刀",
+      "similar": [
+        "favor",
+        "labor",
+        "mayor",
+        "radar",
+        "rumor"
+      ],
+      "question": {
+        "wordId": "razor",
+        "stem": "选择 \"razor\" 的正确中文意思：",
+        "correct": "n.剃刀",
+        "options": [
+          "n.剃刀",
+          "n.市长",
+          "n.(favour)好感;喜爱;关切v.赞成,支持,偏爱",
+          "n.(labour)工作，劳动；劳力 v.劳动，苦干"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 radere（刮，擦）的派生词，通过动词原形 rade- 变为 raz-（d→z 音变）加 -or（工具后缀），本义为“用于刮擦的工具”，即剃刀。核心物理动作是“刮除表面毛发”。",
+        "similarWarning": "favor（n./v. 偏爱，帮助）：razor 以 r 开头，有 z；favor 以 f 开头，有 v。labor（n./v. 劳动）：razor 有 z；labor 有 b。major（adj./n. 主要的，专业）：razor 有 z；major 有 j。mayor（n. 市长）：razor 有 z；mayor 有 y。radar（n. 雷达）：razor 有 z；radar 有 d。rumor（n. 谣言）：razor 有 z；rumor 有 m。",
+        "extendedMeaning": "在考研语境中，razor 常引申为“锐利、锋利”的比喻义，如 razor-sharp（极其锋利的，引申为思维敏锐或言辞犀利），极少单独使用字面义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "reach",
+      "word": "reach",
+      "phonetic": "/ri:tʃ/",
+      "meaning": "v.抵达;(out)伸手,够到 n.能达到的范围",
+      "similar": [
+        "breach",
+        "preach",
+        "beach",
+        "peach",
+        "react",
+        "breath",
+        "detach",
+        "search"
+      ],
+      "question": {
+        "wordId": "reach",
+        "stem": "选择 \"reach\" 的正确中文意思：",
+        "correct": "v.抵达;(out)伸手,够到 n.能达到的范围",
+        "options": [
+          "v.抵达;(out)伸手,够到 n.能达到的范围",
+          "n.海滩,湖滩,河滩",
+          "n.违反，不履行；破裂 vt.冲破，攻破",
+          "v.宣讲(教义),布道;竭力鼓吹,宣传;说教"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能与古英语 ræcan '延伸'有关。核心物理动作为'通过伸展或移动（手、身体）来触及某物'，引申为'到达某个地点或目标'。",
+        "similarWarning": "breach n./v. 违反，突破口 (b-破裂 + reach)；preach v. 布道，宣扬 (p-前 + reach，向前传达)；each pron. 每个 (e-加强语气 + ach-词根)；beach n. 海滩 (b-水边 + each)；peach n. 桃子 (p-果)；react v. 反应 (re-回 + act)；teach v. 教 (t-给 + each)；breath n. 呼吸 (breathe的名词形式)。",
+        "extendedMeaning": "v. 与...取得联系，联系上（尤指电话）: I tried to reach him but the line was busy. 我试图联系他，但电话占线。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "react",
+      "word": "react",
+      "phonetic": "/ri'ækt/",
+      "meaning": "v.反应,起作用;(against)反对,起反作用",
+      "similar": [
+        "reach",
+        "breach",
+        "breast",
+        "preach",
+        "reject",
+        "act",
+        "rat",
+        "beat"
+      ],
+      "question": {
+        "wordId": "react",
+        "stem": "选择 \"react\" 的正确中文意思：",
+        "correct": "v.反应,起作用;(against)反对,起反作用",
+        "options": [
+          "n.违反，不履行；破裂 vt.冲破，攻破",
+          "n.胸膛,乳房",
+          "v.抵达;(out)伸手,够到 n.能达到的范围",
+          "v.反应,起作用;(against)反对,起反作用"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "re-（回，反）+ act（行动，作用）→ 反过来作用 → 反应；反对。核心物理动作为：受到外力后产生反向或回应的动作。",
+        "similarWarning": "reach（到达）：react 强调回应动作，reach 强调“伸到/抵达”终点。breach（破坏）：react 无“打破”义，breach 含 breach of contract 等破坏义。preach（布道）：react 无“说教”义，preach 侧重宣扬观点。",
+        "extendedMeaning": "【考研僻义】起化学反应/物理反应（如：The acid reacts with the metal.）；对环境/刺激作出回应（如：react to market changes）。",
+        "examUsage": "真题常考搭配：react to（对…作出反应），react against（反对，反抗）。例句：How did the stock market react to the interest rate cut?（真题阅读中出现，考查反应方向）"
+      }
+    },
+    {
+      "id": "reader",
+      "word": "reader",
+      "phonetic": "/'ri:də/",
+      "meaning": "n.读者；读本，读物；(英国的)大学讲师",
+      "similar": [
+        "render",
+        "rear",
+        "eager",
+        "elder",
+        "radar",
+        "refer",
+        "dealer",
+        "gender"
+      ],
+      "question": {
+        "wordId": "reader",
+        "stem": "选择 \"reader\" 的正确中文意思：",
+        "correct": "n.读者；读本，读物；(英国的)大学讲师",
+        "options": [
+          "n.读者；读本，读物；(英国的)大学讲师",
+          "v.使得,致使;提出,提供,呈报",
+          "a.(for)渴望的,热切的",
+          "n.后面,背后,后方 v.饲养,抚养,栽培,举起"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "read（读）+ -er（表示人或物），字面即“阅读者”或“阅读材料”。",
+        "similarWarning": "render（v. 提供；翻译）：与reader差一个字母r→e，render强调“给予”或“呈现”。",
+        "extendedMeaning": "n. 读本，读物（如graded reader分级读物）；(英)大学讲师（相当于assistant professor）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "readily",
+      "word": "readily",
+      "phonetic": "/'redili/",
+      "meaning": "ad.容易地;乐意地,欣然地",
+      "similar": [
+        "deadly",
+        "reading",
+        "reality"
+      ],
+      "question": {
+        "wordId": "readily",
+        "stem": "选择 \"readily\" 的正确中文意思：",
+        "correct": "ad.容易地;乐意地,欣然地",
+        "options": [
+          "a.致命的;势不两立的; 极度的;必定的",
+          "n.现实,实际;真实",
+          "n.读书,读物,(仪表等的)读数,阅读",
+          "ad.容易地;乐意地,欣然地"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "readily 由 ready（准备好的、乐意的） + -ly（副词后缀）构成。核心逻辑：源自原始印欧语 *reidh-（骑乘、准备），引申为“已就绪的状态”。词义演变：从“已准备好”到“毫不费力地做某事”（容易地）或“心甘情愿地做某事”（乐意地）。",
+        "similarWarning": "与 ready（adj.准备好的）相比，readily 是副词；与 deadly（adj.致命的）仅差字母 'a' vs 'ea'，词义无关联；与 really（adv.真正地）拼写相似但源自 real；与 reading（n.阅读）词根不同。",
+        "extendedMeaning": "在考研阅读中，readily 常表“迅速地、毫不迟疑地”，如“readily available”（容易获得），侧重即时性而非单纯“容易”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "reading",
+      "word": "reading",
+      "phonetic": "/'ri:diŋ/",
+      "meaning": "n.读书,读物,(仪表等的)读数,阅读",
+      "similar": [
+        "heading",
+        "leading",
+        "regarding",
+        "ending",
+        "bearing",
+        "hearing",
+        "meaning",
+        "readily"
+      ],
+      "question": {
+        "wordId": "reading",
+        "stem": "选择 \"reading\" 的正确中文意思：",
+        "correct": "n.读书,读物,(仪表等的)读数,阅读",
+        "options": [
+          "a.领导的,指导的;第一位的;最主要的",
+          "prep.关于,有关",
+          "n.标题",
+          "n.读书,读物,(仪表等的)读数,阅读"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自 read（阅读）+ -ing（动名词后缀），核心动作是“阅读”，即通过视觉识别文字符号并理解其含义的过程。引申为“读物”或“读数”，均基于“读取信息”这一物理动作。",
+        "similarWarning": "heading（标题，来自 head）与 reading 差异在 h/r 和 ea/ead；leading（领导的，来自 lead）差异在 l/r 和 ea/ead；regarding（关于，来自 regard）差异在 g/read 和 ard/ing。",
+        "extendedMeaning": "在考研阅读中，reading 常指“对文本的理解方式或解读角度”，如“critical reading”（批判性阅读），或“reading between the lines”（领会言外之意）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "realise",
+      "word": "realise",
+      "phonetic": "/'riəlaiz/",
+      "meaning": "v.(realize)认识到,体会到;实现",
+      "similar": [
+        "raise",
+        "relish",
+        "revise",
+        "reality",
+        "realistic",
+        "creative",
+        "deadline",
+        "headline"
+      ],
+      "question": {
+        "wordId": "realise",
+        "stem": "选择 \"realise\" 的正确中文意思：",
+        "correct": "v.(realize)认识到,体会到;实现",
+        "options": [
+          "v.修订,校订;修正,修改",
+          "n.美味,味道,调味品,食欲,乐趣 v.喜欢,品味",
+          "v.举起,提升;增加;饲养;引起;竖起;提出",
+          "v.(realize)认识到,体会到;实现"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自real（真实的）+ -ise（动词后缀），字面意为“使变成真实的”，核心动作是“从抽象认知到具体实现”。",
+        "similarWarning": "raise（提升；举起）、relish（享受；调味品）、revise（修订）",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "realistic",
+      "word": "realistic",
+      "phonetic": "/ˌriə'listik/",
+      "meaning": "a.现实(主义)的",
+      "similar": [
+        "elastic",
+        "realise",
+        "reality"
+      ],
+      "question": {
+        "wordId": "realistic",
+        "stem": "选择 \"realistic\" 的正确中文意思：",
+        "correct": "a.现实(主义)的",
+        "options": [
+          "n.现实,实际;真实",
+          "a.现实(主义)的",
+          "a.弹性的 n.松紧带,橡皮圈",
+          "v.(realize)认识到,体会到;实现"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "real（真实）+istic（形容词后缀，表示“...主义的”）→ 基于现实的，强调务实或模仿现实的风格。",
+        "similarWarning": "elastic（有弹性的） vs realistic：区别在于词根 'elast'（弹力） vs 'real'（真实）；realise（意识到） vs realistic：'realise' 是动词，词尾 -ise 表动作，而 -istic 表性质。",
+        "extendedMeaning": "在文学、艺术评论中常指“写实主义的”（如 realistic novel 写实小说），而非仅指“现实的”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "reality",
+      "word": "reality",
+      "phonetic": "/ri'æləti/",
+      "meaning": "n.现实,实际;真实",
+      "similar": [
+        "quality",
+        "readily",
+        "realise",
+        "realistic",
+        "equality",
+        "locality",
+        "morality"
+      ],
+      "question": {
+        "wordId": "reality",
+        "stem": "选择 \"reality\" 的正确中文意思：",
+        "correct": "n.现实,实际;真实",
+        "options": [
+          "v.(realize)认识到,体会到;实现",
+          "n.现实,实际;真实",
+          "n.质量,品质,特性",
+          "ad.容易地;乐意地,欣然地"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'realitas'，由 'res'（事物） + '-alitas'（名词后缀）构成。核心动作是“事物本身的状态”，即与想象、虚构相对立的客观存在。词根 'real' 意为“真实的”，'-ity' 为抽象名词后缀，表示性质或状态。",
+        "similarWarning": "really（真正地） vs reality（现实）：really 是副词，强调程度或真实性；reality 是名词，指客观存在。realise（意识到） vs reality：realise 是动词，表示认知过程；reality 是名词，表示认知对象。",
+        "extendedMeaning": "在考研阅读中，reality 常引申为“实际情况、客观事实”，与“理论、假设、错觉”形成对比。例如：\"The gap between theory and reality\"（理论与现实的差距）。",
+        "examUsage": "固定搭配：\"in reality\"（实际上；事实上），常用于对比转折，如：\"He seemed confident, but in reality he was nervous.\" 真题中常作为区分主观与客观的题眼。"
+      }
+    },
+    {
+      "id": "realm",
+      "word": "realm",
+      "phonetic": "/relm/",
+      "meaning": "n.王国,国土;领域",
+      "similar": [
+        "recall",
+        "beam",
+        "calm",
+        "deal",
+        "heal",
+        "palm",
+        "reap",
+        "rear"
+      ],
+      "question": {
+        "wordId": "realm",
+        "stem": "选择 \"realm\" 的正确中文意思：",
+        "correct": "n.王国,国土;领域",
+        "options": [
+          "n.(横)梁,桁条;(光线的)束,柱 v.微笑",
+          "a.(天气,海洋等)静的 n.平静 v.(使)平静",
+          "n.王国,国土;领域",
+          "v.回忆,回想;撤消,收回"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语regimen（统治），经古法语reialme（王国）演变。核心物理动作是“统治的疆域”，引申为“领域”。",
+        "similarWarning": "易混词辨析：real（真实的，r-e-a-l） vs realm（王国，r-e-a-l-m）。区别在于realm末尾多一个m，表示“统治区域”。recall（召回，re-call） vs realm（realm），拼写不同，词根call无关联。",
+        "extendedMeaning": "考研僻义：领域、范围（抽象概念）。例如：the realm of science（科学领域）。",
+        "examUsage": "真题考点：常见搭配in the realm of...（在...领域），用于科技、经济类文章。例如：In the realm of economics, this theory is widely accepted. 注意与kingdom（具体王国）区分。"
+      }
+    },
+    {
+      "id": "reap",
+      "word": "reap",
+      "phonetic": "/ri:p/",
+      "meaning": "v.收割,收获",
+      "similar": [
+        "rap",
+        "heap",
+        "leap",
+        "rear",
+        "bread",
+        "cream",
+        "creep",
+        "dread"
+      ],
+      "question": {
+        "wordId": "reap",
+        "stem": "选择 \"reap\" 的正确中文意思：",
+        "correct": "v.收割,收获",
+        "options": [
+          "v.跳,跳跃 n.跳跃,飞跃",
+          "n.(一)堆,大量,许多 v.(up)堆,堆起",
+          "n.叩击,轻拍,斥责 v.敲,拍,打,斥责,使着迷",
+          "v.收割,收获"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根来自古英语repan，核心物理动作为“用镰刀割取作物”，引申为“获取（成果、利益）”。",
+        "similarWarning": "reap vs rap: rap是“敲击、说唱”，reap多一个e，核心是“收割”。reap vs heap: heap是“堆”，多了h，reap强调“收获动作”而非“堆积”。",
+        "extendedMeaning": "引申为“获得（回报、后果）”，常用于抽象语境，如reap benefits（获得好处）、reap what you sow（种瓜得瓜）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "rear",
+      "word": "rear",
+      "phonetic": "/riə/",
+      "meaning": "n.后面,背后,后方 v.饲养,抚养,栽培,举起",
+      "similar": [
+        "ear",
+        "bear",
+        "fear",
+        "gear",
+        "pear",
+        "reap",
+        "roar",
+        "tear"
+      ],
+      "question": {
+        "wordId": "rear",
+        "stem": "选择 \"rear\" 的正确中文意思：",
+        "correct": "n.后面,背后,后方 v.饲养,抚养,栽培,举起",
+        "options": [
+          "n.后面,背后,后方 v.饲养,抚养,栽培,举起",
+          "n.耳，耳朵；听力，听觉；穗",
+          "n.害怕，恐惧；危险vt.畏惧，害怕，担心",
+          "n.熊 v.忍受,容忍;负担;结果实,生子女"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自中古英语reren，与古英语ræran（抬起）同源，核心物理动作为‘使升起’。引申为‘抚养’（将孩子‘抬起’）、‘饲养’（将动物‘养大’）及‘栽培’（植物‘长高’）。名词义‘后面’来自古英语rǣran的‘背后’含义，与方位相关。",
+        "similarWarning": "rear vs. near：rear指‘后方’，near指‘附近’；rear vs. fear：fear为‘恐惧’，与rear仅差首字母f；rear vs. bear：bear为‘熊’或‘忍受’，与rear差首字母b。",
+        "extendedMeaning": "熟词僻义：在考研真题中，rear作动词时‘举起’（如rear one's head‘抬头’）常引申为‘出现’或‘显露’，如‘A problem reared its head’（问题出现）。",
+        "examUsage": "真题考点：常考短语‘at/in the rear of’（在…后面），与‘in the front of’对应；动词‘rear children’等同于‘bring up children’，但更正式。例句：The building is at the rear of the campus."
+      }
+    },
+    {
+      "id": "reasonable",
+      "word": "reasonable",
+      "phonetic": "/'ri:zənəbl/",
+      "meaning": "a.合理的,有道理的;通情达理的;适度的",
+      "similar": [
+        "fashionable",
+        "responsible",
+        "feasible",
+        "personal",
+        "reliable",
+        "resemble",
+        "desirable",
+        "favorable"
+      ],
+      "question": {
+        "wordId": "reasonable",
+        "stem": "选择 \"reasonable\" 的正确中文意思：",
+        "correct": "a.合理的,有道理的;通情达理的;适度的",
+        "options": [
+          "a.可行的;切实可行的;行得通的;可用的",
+          "a.(for,to)应负责的;可靠的;责任重大的",
+          "a.流行的,时髦的",
+          "a.合理的,有道理的;通情达理的;适度的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "reason（推理，原因） + -able（能...的） → 能讲出道理的 → 合理的，有道理的。本义为基于逻辑或事实的，引申为通情达理、适度的。",
+        "similarWarning": "fashionable（时尚的）：fashion（时尚） + -able；reasonable强调理性，fashionable强调潮流。responsible（负责的）：response（回应） + -ible；侧重责任，合理未必负责。feasible（可行的）：feas（做） + -ible；强调可行性，合理未必可行。reliable（可靠的）：rely（依赖） + -able；强调可信赖。",
+        "extendedMeaning": "（考研高频）合理的，但常考其引申义：a.（价格）公道的，不贵的。例：a reasonable price（合理的价格）；b.（数量）适度的，相当的。例：a reasonable amount of time（相当多的时间）。",
+        "examUsage": "（按需省略：该词在考研中无特殊经典干扰项或核心题眼，常见于阅读理解中作为评价性词汇，需结合上下文判断其情感倾向，如表示'合理的'或'适度的'，无特殊固定搭配需强制记忆。）"
+      }
+    },
+    {
+      "id": "reassure",
+      "word": "reassure",
+      "phonetic": "/ˌri:ə'ʃuə/",
+      "meaning": "v.使安心，使放心；使消除疑虑",
+      "similar": [
+        "assure",
+        "pressure",
+        "treasure",
+        "assume",
+        "ensure",
+        "rescue",
+        "resume",
+        "feature"
+      ],
+      "question": {
+        "wordId": "reassure",
+        "stem": "选择 \"reassure\" 的正确中文意思：",
+        "correct": "v.使安心，使放心；使消除疑虑",
+        "options": [
+          "v.使安心，使放心；使消除疑虑",
+          "n.财宝,财富;珍品 v.珍爱,珍惜",
+          "vt.使确信，使放心(of)；向…保证",
+          "n.压,压力,压迫,强制,紧迫,困苦,困难"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re- (再次) + assure (保证) → 再次向某人保证，使其消除疑虑。核心动作：通过重复保证消除不安。",
+        "similarWarning": "assure (保证，使确信) vs reassure (使安心，强调消除焦虑) vs ensure (确保，保证某事发生) vs insure (给...保险)。区别：assure侧重向人保证；reassure强调在担忧后再次安抚；ensure侧重对结果担保。",
+        "extendedMeaning": "在考研阅读中，reassure可引申为‘（数据/事实）证实、佐证’，如：The new data reassure the earlier findings. (新数据证实了早先的发现。) 或者用于经济语境：The government's statement reassured the markets. (政府的声明安抚了市场。)",
+        "examUsage": "常见搭配：reassure sb about/of sth. 真题考点：在完形中常与assure/ensure构成干扰项，需辨析‘对人’(reassure/assure) vs ‘对事’(ensure)。"
+      }
+    },
+    {
+      "id": "rebel",
+      "word": "rebel",
+      "phonetic": "/'rebəl/",
+      "meaning": "v.反抗,反叛,起义 n.叛逆者,起义者",
+      "similar": [
+        "reel",
+        "repel",
+        "reveal",
+        "heel",
+        "peel",
+        "reed",
+        "robe",
+        "jewel"
+      ],
+      "question": {
+        "wordId": "rebel",
+        "stem": "选择 \"rebel\" 的正确中文意思：",
+        "correct": "v.反抗,反叛,起义 n.叛逆者,起义者",
+        "options": [
+          "v.反抗,反叛,起义 n.叛逆者,起义者",
+          "n.卷筒,线轴 v.卷,绕",
+          "v.击退,抵制,使厌恶,使不愉快",
+          "v.展现,显示,揭示,揭露,告诉,泄露"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（回，再次）+ bel（战争，战斗）→ 字面义为“再次开战”，引申为“反抗、反叛”。核心动作：从服从状态转向对立状态，主动发起对抗。",
+        "similarWarning": "reel（卷，绕；蹒跚） vs rebel：reel 无 b，侧重旋转或摇晃；rebel 有 b，强调对抗。repel（击退，排斥） vs rebel：repel 前缀 re-（回）+ pel（推），意为推回；rebel 是战斗，方向不同。",
+        "extendedMeaning": "考研中常考“叛逆者、反叛者”的名词义，尤指对权威或既定规则的不服从者，如“a rebel against tradition”（反传统者）。",
+        "examUsage": "常见搭配：rebel against（反抗...）；真题例句：“The young man rebelled against his parents’ expectations.”（该青年反抗父母的期望。）注意：rebel 作动词时重音在后（/rɪˈbel/），作名词时重音在前（/ˈrebəl/），拼写相同，是听力或完形中的潜在考点。"
+      }
+    },
+    {
+      "id": "rebellion",
+      "word": "rebellion",
+      "phonetic": "/ri'beljən/",
+      "meaning": "n.叛乱,反抗,起义",
+      "similar": [
+        "revelation",
+        "billion",
+        "reception",
+        "retention",
+        "recreation",
+        "reflection",
+        "regulation",
+        "repetition"
+      ],
+      "question": {
+        "wordId": "rebellion",
+        "stem": "选择 \"rebellion\" 的正确中文意思：",
+        "correct": "n.叛乱,反抗,起义",
+        "options": [
+          "n.揭示,揭露,显示,启示,新发现,被揭露的事",
+          "n.接待,招待会;接收,接受,接收效果",
+          "n.叛乱,反抗,起义",
+          "num./n.(美)十亿,(英)万亿"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 rebellio，由 re-（回，反对）+ bellum（战争）构成，字面意为‘再次开战’。本义指对合法统治者的武装反抗，后引申为任何形式的强烈反对或抗拒行为。",
+        "similarWarning": "rebellion vs. revelation：rebellion 含 bell（战争），指武装反抗；revelation 含 revel（揭露），指揭示真相。rebellion vs. reception：reception 含 cept（拿），指接收或接待；rebellion 含 bell，强调对抗。",
+        "extendedMeaning": "在考研中常引申为‘对权威、传统或规范的强烈抵触’，不限于暴力，如‘a rebellion against social norms’（对社会规范的反叛）。",
+        "examUsage": "常见搭配：rise in rebellion（起义反抗），crush a rebellion（镇压叛乱）。真题例句：‘The rebellion was fueled by economic inequality.’（经济不平等助长了这场反抗。）"
+      }
+    },
+    {
+      "id": "recall",
+      "word": "recall",
+      "phonetic": "/ri'kɔ:l/",
+      "meaning": "v.回忆,回想;撤消,收回",
+      "similar": [
+        "realm",
+        "retail"
+      ],
+      "question": {
+        "wordId": "recall",
+        "stem": "选择 \"recall\" 的正确中文意思：",
+        "correct": "v.回忆,回想;撤消,收回",
+        "options": [
+          "ad.[nevertheless]虽然如此, 但是",
+          "n.王国,国土;领域",
+          "v.回忆,回想;撤消,收回",
+          "n.零售"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "re-（回，再）+ call（叫，喊）→ 叫回、唤回 → ① 回忆（把记忆唤回脑海）② 撤消/收回（把已发布的东西叫回）",
+        "similarWarning": "recall vs. real（真实的）: recall 含 call（叫），强调“唤回”；real 无 call，指“事实存在的”。",
+        "extendedMeaning": "（真题语境）召回（产品、大使等）：The company recalled all defective products.（公司召回所有有缺陷的产品。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "recede",
+      "word": "recede",
+      "phonetic": "/rɪ'si:d/",
+      "meaning": "v.退回,后退;收回,撤回;跌落,缩减,贬值",
+      "similar": [
+        "precede",
+        "receive",
+        "reed",
+        "decade",
+        "decide",
+        "recipe",
+        "recite",
+        "remedy"
+      ],
+      "question": {
+        "wordId": "recede",
+        "stem": "选择 \"recede\" 的正确中文意思：",
+        "correct": "v.退回,后退;收回,撤回;跌落,缩减,贬值",
+        "options": [
+          "v.退回,后退;收回,撤回;跌落,缩减,贬值",
+          "v.收到,接到;遭受,受到;接待,接见",
+          "n.芦苇,苇丛;芦笛,牧笛",
+          "v.领先(于),在(…之前);优先,先于"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re- (back, away) + cede (to go, to yield)。核心物理动作是‘往回走’或‘向后移动’。词根cede表示‘走’，re-表示‘向后’，整体引申为‘后退、撤回’。用于具体空间（潮水退去）、抽象概念（影响力减弱）或经济领域（价格下跌）。",
+        "similarWarning": "precede (pre- before + cede = 走在前面，领先)；recede (re- back + cede = 向后退，撤回)。区别在于前缀：pre-表‘前’，re-表‘后’。",
+        "extendedMeaning": "1. 缩减、贬值（经济语境）：指价格、价值或水平的下降。如‘receding prices’（价格下跌）。2. 撤回（法律/协议语境）：如‘recede from a contract’（撤回合同）。",
+        "examUsage": "真题考点：常与from搭配，表示‘从…退出/撤回’。例句：The flood waters finally began to recede.（洪水终于开始退去。）干扰项常与precede混淆，注意前缀方向差异。"
+      }
+    },
+    {
+      "id": "receipt",
+      "word": "receipt",
+      "phonetic": "/ri'si:t/",
+      "meaning": "n.收据,收条;收到,接到",
+      "similar": [
+        "deceit",
+        "recipe",
+        "receive"
+      ],
+      "question": {
+        "wordId": "receipt",
+        "stem": "选择 \"receipt\" 的正确中文意思：",
+        "correct": "n.收据,收条;收到,接到",
+        "options": [
+          "n.欺骗,欺骗行为",
+          "n.烹饪法,食谱;诀窍,方法",
+          "n.收据,收条;收到,接到",
+          "v.收到,接到;遭受,受到;接待,接见"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "re-（回，再）+ ceipt（来自拉丁语capere，意为“拿，取”）。词根含义为“拿回，取回”，引申为“收到”的动作或凭证。核心动作：拿回（某物）并确认。",
+        "similarWarning": "deceit（欺骗，de- + ceit-，误导地拿） vs receipt（re- + ceipt，拿回，收据）。recent（最近的，re- + cent-，新近的）拼写相似但词根不同；recipe（食谱，re- + cipe，拿取的方法）词根同源但侧重方法。",
+        "extendedMeaning": "在考研外刊中，receipt可引申为“接收”或“收到”的抽象状态，如“in receipt of”（已收到某物），常用于正式信函或法律语境。",
+        "examUsage": "常见考点：on receipt of（一收到…就…），如“On receipt of payment, we will ship the goods.”；与receive的动词形式区分，receipt侧重名词“收据”或“收到”的动作。"
+      }
+    },
+    {
+      "id": "receive",
+      "word": "receive",
+      "phonetic": "/ri'si:v/",
+      "meaning": "v.收到,接到;遭受,受到;接待,接见",
+      "similar": [
+        "deceive",
+        "perceive",
+        "recede",
+        "recipe",
+        "recite",
+        "revive",
+        "receipt",
+        "reserve"
+      ],
+      "question": {
+        "wordId": "receive",
+        "stem": "选择 \"receive\" 的正确中文意思：",
+        "correct": "v.收到,接到;遭受,受到;接待,接见",
+        "options": [
+          "v.收到,接到;遭受,受到;接待,接见",
+          "v.退回,后退;收回,撤回;跌落,缩减,贬值",
+          "v.察觉,感知;理解,领悟",
+          "v.欺骗,蒙蔽"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（回，又）+ -ceive-（拿，取）→ 拿回来 → 收到；引申为遭受（被动的接受）、接待（接纳他人）。核心动作是“被动的拿取”。",
+        "similarWarning": "deceive（de-向下+ceive拿→用手段拿→欺骗），perceive（per-贯穿+ceive拿→完全拿住→感知），recede（re-回+cede走→后退），recipe（re-回+cipe拿→拿回的方法→食谱），recite（re-回+cite唤→唤回记忆→背诵），revive（re-回+vive活→复活），receipt（re-回+ceipt拿→拿回的东西→收据），reserve（re-回+serve保留→保留）。注意receive与deceive仅首字母不同，易混。",
+        "extendedMeaning": "遭受（被动承受不利之事）：The soldier received a serious wound. 士兵遭受重伤。",
+        "examUsage": "receive a warm welcome 受到热烈欢迎（真题中常考被动接见义，如receive sb. as a guest）。"
+      }
+    },
+    {
+      "id": "reception",
+      "word": "reception",
+      "phonetic": "/ri'sepʃən/",
+      "meaning": "n.接待,招待会;接收,接受,接收效果",
+      "similar": [
+        "recreation",
+        "exception",
+        "retention",
+        "precaution",
+        "reflection",
+        "repetition",
+        "revelation",
+        "section"
+      ],
+      "question": {
+        "wordId": "reception",
+        "stem": "选择 \"reception\" 的正确中文意思：",
+        "correct": "n.接待,招待会;接收,接受,接收效果",
+        "options": [
+          "n.例外,除外;反对;异议",
+          "n.娱乐,消遣",
+          "n.保留,保持,保持力,记忆力",
+          "n.接待,招待会;接收,接受,接收效果"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根: re- (回,再) + cept (拿,取) + -ion (名词后缀)。核心物理动作: 拿回、收取。本义为“接收”或“接待”，即从对方那里拿取某物或某人。引申为招待会（接待客人的场合）、接收效果（信号被拿取的质量）。",
+        "similarWarning": "reception vs. exception vs. retention: reception (接收) 含 cept (拿)；exception (例外) 含 ex- (出) + cept (拿) → 拿出去的特例；retention (保留) 含 re- (回) + tent (握持) + -ion → 握持回来。拼写差异在于中间部分: -cept- vs. -cept- vs. -tent-。",
+        "extendedMeaning": "在考研真题中，reception 常考“接收效果”（如信号、无线电的接收质量），而非仅指“接待”或“招待会”。例如: \"The reception of the radio signal is poor.\" 此义在科技类阅读中高频出现。",
+        "examUsage": "考点: reception 常与 have/hold 搭配表示“举办招待会”，如 hold a reception；在干扰项中，易与 receptionist (接待员) 混淆，注意词尾差异。真题例句: \"The reception was held in the hotel.\" 但更关键的考点是“接收效果”在完形填空中的语境辨析。"
+      }
+    },
+    {
+      "id": "recipe",
+      "word": "recipe",
+      "phonetic": "/'resəpi/",
+      "meaning": "n.烹饪法,食谱;诀窍,方法",
+      "similar": [
+        "recite",
+        "precise",
+        "receipt",
+        "receive",
+        "ripe",
+        "decide",
+        "recede",
+        "refine"
+      ],
+      "question": {
+        "wordId": "recipe",
+        "stem": "选择 \"recipe\" 的正确中文意思：",
+        "correct": "n.烹饪法,食谱;诀窍,方法",
+        "options": [
+          "a.精确的,准确的",
+          "v.背诵,朗诵",
+          "n.收据,收条;收到,接到",
+          "n.烹饪法,食谱;诀窍,方法"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语 recipere（接收），由 re-（回）+ cipere（取，来自 capere 的变体）组成。原义是“取回、接收”，后引申为“药方、处方”（医生开出的需取药的指示），再进一步转为“烹饪法、食谱”（烹调的指示）。核心物理动作是“取回”，即从某处获取指令或配方。",
+        "similarWarning": "recite（背诵）：re-（再）+ cite（召唤），意为“再次召唤出文字”。precise（精确的）：pre-（前）+ cise（切），意为“预先切好、明确”。receipt（收据）：同一词根 recipere 的名词形式，但强调“接收”的结果。注意 recipe 结尾是 -e，receipt 结尾是 -t，且发音不同。",
+        "extendedMeaning": "诀窍，方法（a recipe for success/disaster 成功/灾难的秘诀）。考研中常考其比喻义，指导致某种结果的一定会发生的因素或方法，如“a recipe for trouble”。",
+        "examUsage": "真题常考搭配“a recipe for...”（...的秘诀/导致...的原因），作为固定短语出现在阅读或完形中，表示因果逻辑关系。"
+      }
+    },
+    {
+      "id": "recipient",
+      "word": "recipient",
+      "phonetic": "/ri'sipiənt/",
+      "meaning": "a.接受的,感受性强的 n.接受者,感受者,容器",
+      "similar": [
+        "resident"
+      ],
+      "question": {
+        "wordId": "recipient",
+        "stem": "选择 \"recipient\" 的正确中文意思：",
+        "correct": "a.接受的,感受性强的 n.接受者,感受者,容器",
+        "options": [
+          "a.接受的,感受性强的 n.接受者,感受者,容器",
+          "n.居民,常住者 a.居住的",
+          "v.(from)背离,偏离",
+          "a.辅助的，支援的 n.辅助者，辅助设备"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根re-（回） + -cip-（拿，取，源自拉丁语capere） + -ient（形容词/名词后缀，表主动或主体）。核心物理动作：拿回→接受。本义为“拿回某物的人”，引申为“接受者、容器”及“善于接受的”。",
+        "similarWarning": "与resident（居民）区别：recipient含词根-cip-（拿），强调“接受”的动作；resident含词根-sid-（坐），强调“定居”。拼写差异：reci- vs. resi-，-ient vs. -ent。",
+        "extendedMeaning": "考研僻义：在真题中常指“受助者、受益人”，如welfare recipients（福利领取者），而非仅“接受礼物的人”。",
+        "examUsage": "真题考点：常与of搭配，如recipient of the award（奖项获得者）；阅读中作为题干信号词定位受益人身份。无特殊干扰项，故不展开。"
+      }
+    },
+    {
+      "id": "reciprocal",
+      "word": "reciprocal",
+      "phonetic": "/ri'siprəkəl/",
+      "meaning": "a.相互的,往复的,互利的",
+      "similar": [],
+      "question": {
+        "wordId": "reciprocal",
+        "stem": "选择 \"reciprocal\" 的正确中文意思：",
+        "correct": "a.相互的,往复的,互利的",
+        "options": [
+          "vt.限制；使不外出，禁闭n.[pl.]界限，范围",
+          "n.哲学,哲理,人生观,价值观,世界观",
+          "a.有错误的，有缺点的，不完善的",
+          "a.相互的,往复的,互利的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 reciprocus（返回的，交替的），由 re-（向后） + cip-（拿，取，pro-的变体） + roc-（向前） + -us（形容词后缀）构成，字面意为“向后拿又向前拿”，核心物理动作是“来回交替”，引申为“相互的、互利的”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“互惠的、对等的”，如 reciprocal relationship（互惠关系）、reciprocal agreement（对等协议），强调双向性而非单向。",
+        "examUsage": "真题考点：常与 mutual（相互的）辨析，reciprocal 侧重“交换、对等”，如 reciprocal trade（互惠贸易）；固定搭配 reciprocal pronoun（相互代词），如 each other。"
+      }
+    },
+    {
+      "id": "recite",
+      "word": "recite",
+      "phonetic": "/ri'sait/",
+      "meaning": "v.背诵,朗诵",
+      "similar": [
+        "recipe",
+        "precise",
+        "receive",
+        "cite",
+        "elite",
+        "decide",
+        "excite",
+        "recede"
+      ],
+      "question": {
+        "wordId": "recite",
+        "stem": "选择 \"recite\" 的正确中文意思：",
+        "correct": "v.背诵,朗诵",
+        "options": [
+          "v.收到,接到;遭受,受到;接待,接见",
+          "a.精确的,准确的",
+          "n.烹饪法,食谱;诀窍,方法",
+          "v.背诵,朗诵"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "re-（再次）+ cite（召唤，引用）→ 再次召唤出文字或信息 → 背诵，朗诵。核心动作：将已存储的内容通过口述重新提取出来。",
+        "similarWarning": "recipe（处方，食谱）：recite vs recipe，后者以-pe结尾，侧重配方。precise（精确的）：pre-（预先）+cise（切），与recite无关。receive（接收）：ceive（拿），与cite不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "reckless",
+      "word": "reckless",
+      "phonetic": "/'reklis/",
+      "meaning": "a.不注意的,大意的,卤莽的,不顾后果的",
+      "similar": [
+        "restless",
+        "ruthless",
+        "regardless"
+      ],
+      "question": {
+        "wordId": "reckless",
+        "stem": "选择 \"reckless\" 的正确中文意思：",
+        "correct": "a.不注意的,大意的,卤莽的,不顾后果的",
+        "options": [
+          "a./ad.不管…的,不顾…的,不注意的",
+          "a.得不到休息的;不平静的;坐立不安的",
+          "a.残酷的,无情的",
+          "a.不注意的,大意的,卤莽的,不顾后果的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "reck-（关心、注意） + -less（无、不）。字面意思为“不关心、不注意”，引申为“鲁莽的、不顾后果的”，强调缺乏对风险或后果的考虑。",
+        "similarWarning": "restless（a.焦躁不安的，不休息的） vs reckless（a.鲁莽的）：restless源于rest（休息） + -less，指无法静止；reckless源于reck（注意） + -less，指不注意后果。\nruthless（a.无情的，残忍的） vs reckless：ruthless源于ruth（怜悯） + -less，指缺乏同情心；reckless强调行为上的草率。\nregardless（a./ad.不管的，不顾的） vs reckless：regardless常与of连用，表示“不顾及……”，侧重主观上的不理会；reckless侧重客观行为上的冒险。",
+        "extendedMeaning": "在考研阅读中，reckless可引申为“不计成本的、疯狂的”，如reckless spending（挥霍无度）、reckless driving（危险驾驶），强调极端不负责任的行为。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "reckon",
+      "word": "reckon",
+      "phonetic": "/'rekən/",
+      "meaning": "v.计算,总计,估计,猜想,依赖",
+      "similar": [],
+      "question": {
+        "wordId": "reckon",
+        "stem": "选择 \"reckon\" 的正确中文意思：",
+        "correct": "v.计算,总计,估计,猜想,依赖",
+        "options": [
+          "v.推荐,介绍;劝告,建议",
+          "v.计算,总计,估计,猜想,依赖",
+          "n.肌肉,体力",
+          "a.可理解的，明白易懂的，清楚的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语‘gerecenian’（陈述、列举），与德语‘rechnen’（计算）同源，核心物理动作为‘计数、列举’。引申为‘估计、推断’（通过列举事实得出结论），再引申为‘依赖’（将某人/事列入可依靠的清单）。",
+        "similarWarning": "reason (n.理由 v.推理): reck-含‘计算’动作，与reason的‘理性’逻辑不同；region (n.区域): 拼写差异在‘k’与‘g’，词根无关。",
+        "extendedMeaning": "考研常考‘认为、看作’（非字面‘计算’），如‘be reckoned as’（被认为是）。",
+        "examUsage": "真题考点：reckon with（处理/应对，如‘a force to be reckoned with’不容忽视的力量）；reckon on（指望/依赖，如‘reckon on support’）。"
+      }
+    },
+    {
+      "id": "reclaim",
+      "word": "reclaim",
+      "phonetic": "/ri'kleim/",
+      "meaning": "v.要求归还,收回;开垦",
+      "similar": [
+        "proclaim",
+        "claim",
+        "acclaim",
+        "exclaim"
+      ],
+      "question": {
+        "wordId": "reclaim",
+        "stem": "选择 \"reclaim\" 的正确中文意思：",
+        "correct": "v.要求归还,收回;开垦",
+        "options": [
+          "v.要求归还,收回;开垦",
+          "v.宣告,声明",
+          "v.要求;声称;索赔 n.要求;断言;索赔;权利",
+          "v.向…欢呼，公认 n.欢呼，喝彩，称赞"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（回，再）+ claim（喊叫，要求）→ 喊叫着要求回来 → 要求归还，收回；引申为“开垦”（使荒废土地恢复可用状态）",
+        "similarWarning": "proclaim（pro-向前+claim→向前宣告）v.宣布,声明; acclaim（ac-加强+claim→大声喊）v.欢呼,称赞; exclaim（ex-向外+claim→向外喊）v.呼喊,惊叫; reclaim（re-回+claim→喊回）v.收回,开垦。差异在于前缀：re-表回，pro-表前，ac-表加强，ex-表外。",
+        "extendedMeaning": "在考研阅读中常考“开垦”义，如 reclaim land（开垦土地），以及引申义“回收再利用”，如 reclaim waste materials（回收废料）。",
+        "examUsage": "真题考点：reclaim常与from搭配，如 reclaim sth. from...（从...中收回/开垦出...）。例句：They reclaimed the swamp from the sea.（他们从海中开垦出沼泽地。）注意：reclaim作“开垦”时，宾语常为荒芜土地。"
+      }
+    },
+    {
+      "id": "recognition",
+      "word": "recognition",
+      "phonetic": "/ˌrekəg'niʃən/",
+      "meaning": "n.认出,辨认;承认",
+      "similar": [
+        "coalition",
+        "cognitive",
+        "condition",
+        "reception",
+        "recognize",
+        "retention",
+        "definition",
+        "recreation"
+      ],
+      "question": {
+        "wordId": "recognition",
+        "stem": "选择 \"recognition\" 的正确中文意思：",
+        "correct": "n.认出,辨认;承认",
+        "options": [
+          "n.条件，状况，环境 vt.决定；支配；训练",
+          "a.认知的，认识能力的",
+          "n.结合体，同盟；结合，联合",
+          "n.认出,辨认;承认"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "re-（再、又）+ cogn-（知道）+ -ition（名词后缀）→ 再次知道 → 认出、辨认；引申为承认（认可已知事实）。",
+        "similarWarning": "recognition vs. reception: recognition（认出）含cogn-（知道）；reception（接待、接收）含cept-（拿、取）。",
+        "extendedMeaning": "承认（某种事实、地位或成就），如：international recognition（国际认可）；de facto recognition（事实承认）。",
+        "examUsage": "beyond recognition（认不出来，面目全非），常用于阅读中描述变化巨大。"
+      }
+    },
+    {
+      "id": "recognize",
+      "word": "recognize",
+      "phonetic": "/'rekəgnaɪz/",
+      "meaning": "v.(recognise)认出,承认,公认,赏识,表扬",
+      "similar": [
+        "reconcile",
+        "recognition"
+      ],
+      "question": {
+        "wordId": "recognize",
+        "stem": "选择 \"recognize\" 的正确中文意思：",
+        "correct": "v.(recognise)认出,承认,公认,赏识,表扬",
+        "options": [
+          "a.可忽略不计的，微不足道的",
+          "n.认出,辨认;承认",
+          "v.使和好,调解,使调和;(to,with)使一致",
+          "v.(recognise)认出,承认,公认,赏识,表扬"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "re-（再次）+ cogn-（知道，认识）+ -ize（动词后缀）→ 再次知道 → 认出，承认。核心动作：从已有认知中重新识别出某物或某人。",
+        "similarWarning": "reconcile（re-再 + concile调和）：调和，和解，侧重关系修复；recognition（-ion名词后缀）：认出，承认，是recognize的名词形式。",
+        "extendedMeaning": "在考研中常考‘承认’、‘公认’的抽象义，如‘recognize the importance of...’（承认……的重要性）或‘internationally recognized’（国际公认的）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "recollect",
+      "word": "recollect",
+      "phonetic": "/ˌrekə'lekt/",
+      "meaning": "v.回忆,想起,记起,忆起,记得",
+      "similar": [
+        "collect",
+        "reflect",
+        "retrospect"
+      ],
+      "question": {
+        "wordId": "recollect",
+        "stem": "选择 \"recollect\" 的正确中文意思：",
+        "correct": "v.回忆,想起,记起,忆起,记得",
+        "options": [
+          "v./n.回顾，回想，追溯[反]foresee",
+          "v.反射,反映,表现,反省,沉思",
+          "v.回忆,想起,记起,忆起,记得",
+          "v.收集,搜集;领取,接走;收(税等);聚集,堆积"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "re-（再次）+ collect（收集）。核心物理动作为：将分散的记忆碎片重新收拢到脑中。词源上，collect源自拉丁语colligere（聚集），re-表示重复动作，因此recollect即“再次聚集（思维/记忆）”，强调主动、有意识地回想，与被动想起的remember略有区别。",
+        "similarWarning": "collect（收集，v.）：recollect强调“再次”收集记忆；reflect（反射；思考，v.）：词根flect（弯曲），侧重“折回”思考，与收集无关；retrospect（回顾，n.）：词根retro-（向后）+ spect（看），强调时间上的回看，recollect更侧重心理上的重新聚合。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "recommend",
+      "word": "recommend",
+      "phonetic": "/ˌrekə'mend/",
+      "meaning": "v.推荐,介绍;劝告,建议",
+      "similar": [
+        "commend",
+        "command",
+        "comment"
+      ],
+      "question": {
+        "wordId": "recommend",
+        "stem": "选择 \"recommend\" 的正确中文意思：",
+        "correct": "v.推荐,介绍;劝告,建议",
+        "options": [
+          "v.推荐,介绍;劝告,建议",
+          "v.称赞，表扬：委托保管；推荐",
+          "n./v.命令，指挥，控制 n.掌握，运用能力",
+          "n.注释,评论,意见 v.(on)注释,评论"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（回，再次）+ commend（委托，表扬）。原义为“把某人/物托付给他人”，引申为“推荐、介绍”；进一步引申为“劝告、建议”，即给出值得采纳的意见。核心动作：反复托付、肯定地传递。",
+        "similarWarning": "commend（v.称赞，委托）：re-强调“反复”或“推荐给他人”；commend侧重“当面表扬”或“托付”。\ncommand（v.命令，指挥）：与recommend仅差一个字母‘c’和‘d’，但词根不同，command源自mand（命令），意为“下命令”，无“建议”含义。\ncomment（n./v.评论，注释）：源自ment（思考），意为“发表看法”，与“推荐”无关。",
+        "extendedMeaning": "在考研阅读中，recommend可引申为“使……受欢迎、使……有吸引力”，如‘The location recommends the hotel’（地理位置使这家酒店受欢迎）。此外，在商业语境中可表“背书、担保”，如‘a highly recommended product’（备受好评的产品）。",
+        "examUsage": "高频搭配：recommend doing sth.（建议做某事，后接动名词，不接不定式），如‘He recommended using a different approach.’（他建议采用不同方法）。\n真题考点：recommend后接宾语从句时，谓语常用虚拟语气（should+动词原形，should可省略），如‘The report recommended that the company (should) cut costs.’。"
+      }
+    },
+    {
+      "id": "reconcile",
+      "word": "reconcile",
+      "phonetic": "/'rekənsail/",
+      "meaning": "v.使和好,调解,使调和;(to,with)使一致",
+      "similar": [
+        "concise",
+        "recycle",
+        "recognize",
+        "responsible",
+        "reasonable"
+      ],
+      "question": {
+        "wordId": "reconcile",
+        "stem": "选择 \"reconcile\" 的正确中文意思：",
+        "correct": "v.使和好,调解,使调和;(to,with)使一致",
+        "options": [
+          "v./n.再循环,重复利用",
+          "a.简明的,简洁的",
+          "v.使和好,调解,使调和;(to,with)使一致",
+          "v.(recognise)认出,承认,公认,赏识,表扬"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "re-（再次）+ concile（源自拉丁语conciliare，意为“召集、使和谐”，与council“会议”同源）。核心动作：把对立双方重新召集到同一张桌子上，即“使和好、调解”；引申至抽象事物，如观念、数据等，即“使一致、调和”。",
+        "similarWarning": "concise（con-一起 + cise切，意为“简洁的”）vs reconcile（核心是“和谐”）；recycle（re-再 + cycle环，意为“回收利用”）vs reconcile（核心是“调和”）；recognize（re-再 + cogn知道，意为“认出”）vs reconcile（核心是“召集”）。",
+        "extendedMeaning": "【高分引申】使接受、使顺从（常接to）：reconcile oneself to sth. 意为“使自己接受/顺从于（不愉快的现实）”，如“reconcile oneself to failure”接受失败。此义在考研阅读中常考，体现被动适应与无奈妥协。",
+        "examUsage": "【真题考点】reconcile A with B：使A与B一致/调和。真题例句：“It is difficult to reconcile his ambitious plans with his limited resources.”（很难将他雄心勃勃的计划与他有限的资源协调一致。）常作为观点冲突、数据矛盾类文章的核心题眼。"
+      }
+    },
+    {
+      "id": "recorder",
+      "word": "recorder",
+      "phonetic": "/ri'kɔ:də/",
+      "meaning": "n.记录员;录音机",
+      "similar": [
+        "recover",
+        "reporter",
+        "border",
+        "reader",
+        "recede",
+        "render",
+        "disorder",
+        "recovery"
+      ],
+      "question": {
+        "wordId": "recorder",
+        "stem": "选择 \"recorder\" 的正确中文意思：",
+        "correct": "n.记录员;录音机",
+        "options": [
+          "n.报告人,通讯员;记者,报导者",
+          "n.记录员;录音机",
+          "v.收回;(from)恢复,痊愈;重新获得",
+          "n.边界,国界;边(沿) v.交界,与…接壤;接近"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "re-（回，再）+ cord（心，拉丁语cor的变形） + -er（表人或物）。核心动作：将信息‘再记回心中’或‘记录’。本义为记录者或记录设备，引申为录音机。",
+        "similarWarning": "record（v.记录；n.唱片；record vs recorder：record无-er，作动词或名词；recover（v.恢复，re-+cover覆盖），注意cover与cord拼写差异；reporter（n.记者，re-+port携带+er），port与cord不同；border（n.边界，b-+order），与recorder无关。",
+        "extendedMeaning": "考研中无特殊僻义，常指录音设备或记录员。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "recover",
+      "word": "recover",
+      "phonetic": "/ri'kʌvə/",
+      "meaning": "v.收回;(from)恢复,痊愈;重新获得",
+      "similar": [
+        "recovery",
+        "recorder",
+        "cover",
+        "remove",
+        "uncover",
+        "discover",
+        "reporter"
+      ],
+      "question": {
+        "wordId": "recover",
+        "stem": "选择 \"recover\" 的正确中文意思：",
+        "correct": "v.收回;(from)恢复,痊愈;重新获得",
+        "options": [
+          "v.覆盖,包括,涉及，报道 n.盖子,套子;(书的)封面",
+          "n.记录员;录音机",
+          "n.痊愈,复元;重获,恢复",
+          "v.收回;(from)恢复,痊愈;重新获得"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "re-（回/重新）+ cover（覆盖/包含）→原指“重新覆盖”，引申为“重新获得/恢复”。核心动作：先失去/受损，再回到原状态。",
+        "similarWarning": "recover vs. uncover: re-（回） vs. un-（除去），故recover是“恢复”，uncover是“揭开”。",
+        "extendedMeaning": "考研中常考“（经济/市场）复苏”或“（数据/信息）恢复”，如recover from recession（从衰退中复苏）。",
+        "examUsage": "固定搭配：recover from（从……恢复）；真题中常与recession, losses, damage等搭配，作不及物动词表“恢复”。"
+      }
+    },
+    {
+      "id": "recovery",
+      "word": "recovery",
+      "phonetic": "/ri'kʌvəri/",
+      "meaning": "n.痊愈,复元;重获,恢复",
+      "similar": [
+        "recover",
+        "discovery",
+        "remove",
+        "uncover",
+        "delivery",
+        "recorder"
+      ],
+      "question": {
+        "wordId": "recovery",
+        "stem": "选择 \"recovery\" 的正确中文意思：",
+        "correct": "n.痊愈,复元;重获,恢复",
+        "options": [
+          "n.痊愈,复元;重获,恢复",
+          "v.收回;(from)恢复,痊愈;重新获得",
+          "n.发现;被发现的事物",
+          "v.移动,脱掉,调动,免职"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（回，重新）+ cover（覆盖，获取）+ -y（名词后缀），字面意为“重新覆盖或获取”，引申为“恢复、重获、痊愈”。核心动作是“回到原有状态或重新拥有”。",
+        "similarWarning": "recover（v.恢复）与recovery（n.恢复）是词性差异；discovery（n.发现）含dis-（相反）+cover（覆盖），意为“揭开覆盖物”；remove（v.移除）含re-（加强）+move（移动），意为“移走”；uncover（v.揭开）含un-（相反）+cover（覆盖）。注意recovery强调过程或结果，而discovery强调新发现。",
+        "extendedMeaning": "在考研阅读中，recovery常引申为“经济复苏、市场回暖”，如“economic recovery”（经济复苏）；也可指“数据恢复”或“病后康复期”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "recreation",
+      "word": "recreation",
+      "phonetic": "/ˌrekri'eiʃən/",
+      "meaning": "n.娱乐,消遣",
+      "similar": [
+        "reception",
+        "reservation",
+        "retention",
+        "reflection",
+        "regulation",
+        "repression",
+        "reputation",
+        "revelation"
+      ],
+      "question": {
+        "wordId": "recreation",
+        "stem": "选择 \"recreation\" 的正确中文意思：",
+        "correct": "n.娱乐,消遣",
+        "options": [
+          "n.娱乐,消遣",
+          "n.保留,保留意见;预定,预订",
+          "n.接待,招待会;接收,接受,接收效果",
+          "n.保留,保持,保持力,记忆力"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（再、重新）+ creat（创造）+ -ion（名词后缀）→ 字面意为“重新创造（精力、活力）”，即通过娱乐活动恢复身心，引申为“娱乐、消遣”。",
+        "similarWarning": "recreation（娱乐） vs. reception（接待） vs. reservation（预订） vs. retention（保留） vs. reflection（反映） vs. regulation（规则） vs. repression（压制） vs. reputation（声誉）。注意拼写差异：recreation 含 creat（创造），reception 含 cept（拿取），reservation 含 serv（保存），retention 含 ten（持有），reflection 含 flect（弯曲），regulation 含 regul（规则），repression 含 press（压），reputation 含 put（思考）。",
+        "extendedMeaning": "在考研真题中可引申为“消遣活动”或“休闲方式”，如“outdoor recreation”（户外休闲活动），侧重身心恢复。",
+        "examUsage": "常见搭配：recreation center（娱乐中心）、recreation area（休闲区）。真题中常作为语境词出现，干扰项多与 work/study 对比，如“recreation vs. work”（休闲与工作）。"
+      }
+    },
+    {
+      "id": "recruit",
+      "word": "recruit",
+      "phonetic": "/ri'kru:t/",
+      "meaning": "v.征募(新兵)，吸收；补充 n.新成员，新兵",
+      "similar": [],
+      "question": {
+        "wordId": "recruit",
+        "stem": "选择 \"recruit\" 的正确中文意思：",
+        "correct": "v.征募(新兵)，吸收；补充 n.新成员，新兵",
+        "options": [
+          "n.使/应用；用法/途；益/用处 vt.用；消耗",
+          "v.征募(新兵)，吸收；补充 n.新成员，新兵",
+          "n.过失,过错;缺点,毛病",
+          "n.法院,法庭;宫廷,朝廷;院子;球场"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "re-（再次）+cruit（来自拉丁语crescere，意为生长、增加）。核心动作：使生长/增加。本义为“再次生长、补充”，后引申为“征募新兵、吸收新成员”，即通过招募使组织的力量得到补充和增长。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研语境中，recruit常作动词表示“吸收（新成员）”，如recruit new members（吸收新成员）；亦可作名词指“新招募的人员”，如new recruits（新兵/新成员）。",
+        "examUsage": "常见搭配：recruit sb. to do sth.（招募某人做某事）；recruit from...（从……中招募）。真题例句：The company is trying to recruit more engineers.（该公司正试图招募更多工程师。）"
+      }
+    },
+    {
+      "id": "rectangle",
+      "word": "rectangle",
+      "phonetic": "/'rekˌtæŋgl/",
+      "meaning": "n.[数]矩形, 长方形",
+      "similar": [],
+      "question": {
+        "wordId": "rectangle",
+        "stem": "选择 \"rectangle\" 的正确中文意思：",
+        "correct": "n.[数]矩形, 长方形",
+        "options": [
+          "n.白兰地酒",
+          "a.传统的,正统的,习惯的,保守的,东正教的",
+          "int.英(美)喂,你好(用来打招呼或引起注意)",
+          "n.[数]矩形, 长方形"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "rect- (直) + angle (角) → 所有角都是直角的四边形 → 矩形、长方形。源自拉丁语rectangulum，rectus意为“直的”，angulus意为“角”。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "rectify",
+      "word": "rectify",
+      "phonetic": "/'rektifai/",
+      "meaning": "v.纠正,整顿, [化]精馏",
+      "similar": [
+        "certify",
+        "testify",
+        "identify"
+      ],
+      "question": {
+        "wordId": "rectify",
+        "stem": "选择 \"rectify\" 的正确中文意思：",
+        "correct": "v.纠正,整顿, [化]精馏",
+        "options": [
+          "v.纠正,整顿, [化]精馏",
+          "v.作证，证明；(to)表明，说明",
+          "vt.证明，证实；发证书(或执照)给",
+          "v.识别,鉴别;(with)把…和…看成一样"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：rect-（直，正）+ -ify（使动后缀）。核心动作：使变直/正。源于拉丁语rectus（直的），引申为“纠正错误、整顿秩序”，化学中“精馏”即通过蒸馏使液体纯度变直/纯。",
+        "similarWarning": "certify（证明，v.）：cert-（确定）+ -ify，强调官方确认；testify（作证，v.）：test-（见证）+ -ify，侧重法庭或事实见证；identify（识别，v.）：ident-（相同）+ -ify，指认出身份。与rectify区别在于词根不同，rect-强调“正”，其余各有所指。",
+        "extendedMeaning": "在考研真题中，rectify常引申为“矫正偏差、修复关系”，如rectify the situation（扭转局面），而非仅指物理纠正。",
+        "examUsage": "真题考点：常用搭配rectify the error/mistake（纠正错误），及被动结构be rectified。2014年考研阅读中考查过rectify the imbalance（纠正不平衡），作为核心动词影响段落理解。"
+      }
+    },
+    {
+      "id": "recur",
+      "word": "recur",
+      "phonetic": "/ri'kə:/",
+      "meaning": "v.(尤指不好的事)一再发生；重现",
+      "similar": [
+        "rescue",
+        "return",
+        "secure",
+        "rear",
+        "incur",
+        "occur",
+        "refer"
+      ],
+      "question": {
+        "wordId": "recur",
+        "stem": "选择 \"recur\" 的正确中文意思：",
+        "correct": "v.(尤指不好的事)一再发生；重现",
+        "options": [
+          "v.(尤指不好的事)一再发生；重现",
+          "v./n.返回,回来;归还,送还;回答",
+          "a.(from,against)安全的,放心的v.得到;防护",
+          "v./n.营救,援救"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "re-（再次、回） + cur（跑、流动）→ 再次跑回来 → 指不好的事重复发生或重现。核心动作：循环返回。",
+        "similarWarning": "recur vs. occur：recur强调重复发生；occur仅指发生。recur vs. incur：incur（in-进入 + cur跑）指招致（损失等）。",
+        "extendedMeaning": "在数学或计算机语境中，指递归（recurrence），如递归算法（recurrence algorithm）。",
+        "examUsage": "recurring theme（反复出现的主题），recurrent（形容词，周期性的）。"
+      }
+    },
+    {
+      "id": "recycle",
+      "word": "recycle",
+      "phonetic": "/ˌri:'saikl/",
+      "meaning": "v./n.再循环,重复利用",
+      "similar": [
+        "cycle",
+        "bicycle",
+        "reconcile"
+      ],
+      "question": {
+        "wordId": "recycle",
+        "stem": "选择 \"recycle\" 的正确中文意思：",
+        "correct": "v./n.再循环,重复利用",
+        "options": [
+          "v.使和好,调解,使调和;(to,with)使一致",
+          "n.(bike)自行车 vi.骑自行车",
+          "n.自行车;周期,循环 v.骑自行车;循环",
+          "v./n.再循环,重复利用"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "re-（再次）+ cycle（循环）→ 再次进入循环过程 → 再循环，重复利用。核心动作：使某物重新进入循环系统。",
+        "similarWarning": "cycle（循环；自行车） vs recycle：cycle无前缀re-；bicycle（自行车）是bi-（二）+ cycle；reconcile（调和）是re-（再次）+ concile（使和谐），注意拼写差异：recycle vs reconcile。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "red",
+      "word": "red",
+      "phonetic": "/red/",
+      "meaning": "a.红的，红色的 n.红色；红色颜料",
+      "similar": [
+        "reed",
+        "rid",
+        "rod",
+        "bread",
+        "breed",
+        "dread",
+        "trend"
+      ],
+      "question": {
+        "wordId": "red",
+        "stem": "选择 \"red\" 的正确中文意思：",
+        "correct": "a.红的，红色的 n.红色；红色颜料",
+        "options": [
+          "a.红的，红色的 n.红色；红色颜料",
+          "n.芦苇,苇丛;芦笛,牧笛",
+          "n.杆,棒",
+          "v.(of)使摆脱,使去掉"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自原始印欧语词根*reudh-，意为“红色的”。英语中直接继承，无复杂演变，核心物理动作为“显现红色”或“染红”。",
+        "similarWarning": "与read（读，过去式/过去分词同形但发音不同）、reed（芦苇）、bed（床）、rid（摆脱）、rod（杆）、bread（面包）、breed（繁殖）、dread（恐惧）形近，注意区分拼写和含义。",
+        "extendedMeaning": "考研中常引申为“赤色的；革命的；血色的”，如red army（红军）、red flag（红旗；危险信号）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "reduce",
+      "word": "reduce",
+      "phonetic": "/ri'dju:s/",
+      "meaning": "v.减少,缩小;简化,还原",
+      "similar": [
+        "deduce",
+        "produce",
+        "deduct",
+        "induce",
+        "refuge",
+        "refuse",
+        "refute",
+        "resume"
+      ],
+      "question": {
+        "wordId": "reduce",
+        "stem": "选择 \"reduce\" 的正确中文意思：",
+        "correct": "v.减少,缩小;简化,还原",
+        "options": [
+          "vt.扣除;演绎(推理)",
+          "v.生产,制造,显示,演出,导致 n.产品",
+          "vt.(from)演绎,推断,推论",
+          "v.减少,缩小;简化,还原"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "re-（回，向后）+ -duc-（引导，带领）+ -e（动词后缀）→ 向后引导→ 拉回，缩减。词根-duc-来自拉丁语ducere（引导），核心动作是“往回带”，引申为数量或程度的减少，以及化学中的还原反应（将物质“带回”原始状态）。",
+        "similarWarning": "deduce（de-向下+duce引导→推导出）vs reduce（re-回+duce→减少）：deduce强调逻辑推理，reduce强调数量降低。produce（pro-向前+duce→生产）vs reduce：produce是创造，reduce是缩减。deduct（de-向下+duct引导→扣除）vs reduce：deduct特指从总额中扣减，如税款扣除；reduce更通用。induce（in-向内+duce→诱导）vs reduce：induce是引导进入某种状态，reduce是拉回。refuse（re-回+fuse流→回流→拒绝）vs reduce：refuse拼写相似但词根不同（fuse=流），意为拒绝。refute（re-回+fute击打→反驳）vs reduce：refute是驳斥观点。resume（re-回+sume拿取→重新开始）vs reduce：resume是继续，非减少。",
+        "extendedMeaning": "（在考研阅读中）reduce to：使陷入（更糟的境地），如reduce to poverty（陷入贫困）；reduce…to…：将……归结为/简化为（简化逻辑），如reduce the problem to its essence。",
+        "examUsage": "（真题考点）reduce by/from/to 表示减少的具体幅度或结果；被动结构be reduced to doing（被迫做某事）为高频题眼，如2010年阅读：He was reduced to begging. 注意与decline（持续下降）、decrease（逐渐减少）在语境中的辨析，reduce常含人为主动缩减。"
+      }
+    },
+    {
+      "id": "reduction",
+      "word": "reduction",
+      "phonetic": "/rɪ'dʌkʃn/",
+      "meaning": "n.减小,减少,缩小",
+      "similar": [
+        "production",
+        "education",
+        "reflection",
+        "regulation",
+        "reputation",
+        "auction",
+        "edition",
+        "section"
+      ],
+      "question": {
+        "wordId": "reduction",
+        "stem": "选择 \"reduction\" 的正确中文意思：",
+        "correct": "n.减小,减少,缩小",
+        "options": [
+          "n.生产,产品,作品,(研究)成果,总产量",
+          "n.减小,减少,缩小",
+          "n.(reflexion)映像,倒影;反省,沉思",
+          "n.教育,培养,训练"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语reducere（向后引导），re-（向后）+ ducere（引导）。本义是“向后引回”，引申为“使回到更小或更简单的状态”，即减少、缩小。",
+        "similarWarning": "production（生产）：pro-（向前）+ duct-（引导），强调“向前产出”；reduction强调“向后减少”。注意区分前缀pro-与re-。",
+        "extendedMeaning": "在考研中可指“（数学）约简”或“（化学）还原反应”，如oxidation-reduction（氧化还原）。",
+        "examUsage": "注意与deduction（扣除/演绎）的辨析：reduction强调数量或程度的直接减少，而deduction侧重逻辑推理或从总量中减去一部分。真题中常考搭配：cost reduction（成本削减）、reduction in force（裁员）。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1722 @@
+{
+  "batchId": 26,
+  "words": [
+    {
+      "id": "driver",
+      "word": "driver",
+      "phonetic": "/draivə/",
+      "meaning": "n.驾驶员",
+      "similar": [
+        "deliver",
+        "dive",
+        "liver",
+        "derive",
+        "divert",
+        "drawer",
+        "quiver",
+        "shiver"
+      ],
+      "question": {
+        "wordId": "driver",
+        "stem": "选择 \"driver\" 的正确中文意思：",
+        "correct": "n.驾驶员",
+        "options": [
+          "n.肝,肝脏",
+          "n.驾驶员",
+          "v.交付,递送;发表,表达;释放;接生",
+          "v./n.潜水,跳水,俯冲"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自动词drive（驾驶）加施动者后缀-er。词根driv-源自原始日耳曼语*dribanan（推动、迫使），核心物理动作是“持续施加动力以移动物体”。driver即“执行推动动作的人或物”。",
+        "similarWarning": "drive（v.驾驶）直接去掉r；river（n.河流）首字母r与d不同；diver（n.潜水员）将r替换为er且含义完全不同；derive（v.源自）含词根riv-（河流）而非driv-；divert（v.转移）词根vert-（转）易混淆。",
+        "extendedMeaning": "在考研阅读中可引申为“驱动程序”（如device driver）或“驱动因素/动力源”（如a key driver of economic growth）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "drop",
+      "word": "drop",
+      "phonetic": "/drɔp/",
+      "meaning": "n.滴;落下;微量 v.落下;下降;失落",
+      "similar": [
+        "crop",
+        "drip",
+        "drown",
+        "grope",
+        "troop"
+      ],
+      "question": {
+        "wordId": "drop",
+        "stem": "选择 \"drop\" 的正确中文意思：",
+        "correct": "n.滴;落下;微量 v.落下;下降;失落",
+        "options": [
+          "n.作物,庄稼;(谷类等的)一熟收成;一批,大量",
+          "n.滴;落下;微量 v.落下;下降;失落",
+          "v.滴下,漏水 n.滴,水滴,点滴",
+          "v.溺死,淹没"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语dropa，拟声词，模仿水滴落下的声音。核心动作是‘小体积物块在重力作用下垂直下落’，引申为任何形式的‘下降、减少、放弃’。",
+        "similarWarning": "crop（庄稼，v.修剪） vs drop：c-开头与d-开头，crop强调‘收割/修剪’动作；drip（滴落） vs drop：drip是连续滴落，drop是单个滴或落下；drown（淹死） vs drop：drown含‘淹没致死’，drop无此义；grope（摸索） vs drop：grope强调‘用手摸索’，drop无此动作；group（组） vs drop：group是集合名词，drop是动词/名词；troop（部队） vs drop：troop指成群的人或军队。",
+        "extendedMeaning": "熟词僻义：①‘放弃，终止’（如drop the subject不再讨论）；②‘漏掉，省略’（如drop a letter from a word）；③‘解雇，开除’（如drop someone from the team）；④‘顺便拜访’（如drop in on sb.）。",
+        "examUsage": "高频考点：drop out（退学/退出），drop by/in（顺便拜访），drop off（下降/打瞌睡），drop behind（落后）。真题例句：He dropped out of school to start a business.（他辍学创业。）"
+      }
+    },
+    {
+      "id": "drought",
+      "word": "drought",
+      "phonetic": "/draut/",
+      "meaning": "n.旱灾,干旱",
+      "similar": [
+        "ought",
+        "rough"
+      ],
+      "question": {
+        "wordId": "drought",
+        "stem": "选择 \"drought\" 的正确中文意思：",
+        "correct": "n.旱灾,干旱",
+        "options": [
+          "n.旱灾,干旱",
+          "aux.应该(使用时,之后应接to,再接动词原形)",
+          "a.粗糙的;粗略的,大致的;粗野的,粗暴的",
+          "vi.死，死亡；(草木)枯萎，凋谢；渴望"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为古英语 'drūgath'，源自 'dryge' (干燥)，与 'dry' 同源。核心动作：干燥状态持续→干旱。",
+        "similarWarning": "形近词对比：\n- drought (n.旱灾)：含 'dr'，与干燥相关。\n- rough (adj.粗糙的)：含 'r'，无干燥义。\n- thought (n.思想)：含 'th'，与思考相关。\n- ought (aux.应该)：含 'ou'，表义务。\n区别在于核心字母 'dr' 与 'dry' 的联系。",
+        "extendedMeaning": "考研僻义：比喻长期缺乏或短缺。例如：a drought of ideas (思想枯竭)。真题中常引申指经济、资源等方面的长期匮乏。",
+        "examUsage": "真题考点：常与 'severe'、'prolonged' 等搭配，如 'severe drought' (严重干旱)。注意干扰项 'flood' (洪水) 的反义对比。"
+      }
+    },
+    {
+      "id": "drown",
+      "word": "drown",
+      "phonetic": "/draun/",
+      "meaning": "v.溺死,淹没",
+      "similar": [
+        "brown",
+        "crown",
+        "frown",
+        "row",
+        "brow",
+        "crow",
+        "dawn",
+        "drop"
+      ],
+      "question": {
+        "wordId": "drown",
+        "stem": "选择 \"drown\" 的正确中文意思：",
+        "correct": "v.溺死,淹没",
+        "options": [
+          "v.皱眉",
+          "n.王冠,冕;君权,君王 v.为…加冕",
+          "n./a.褐色(的),棕色(的)",
+          "v.溺死,淹没"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能来自古英语druncnian（吞没）或与drench（浸透）同源。核心动作是“被液体吞没而窒息”，引申为任何形式的“淹没、压制”。",
+        "similarWarning": "drown vs. down: drown多一个'r'，表示“溺死”；down为“向下”。drown vs. frown: drown以'dr'开头，frown以'fr'开头，后者意为“皱眉”。",
+        "extendedMeaning": "（声音、光线等）淹没、盖过：The cheers drowned out his voice.（欢呼声淹没了他的声音。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "drug",
+      "word": "drug",
+      "phonetic": "/drʌg/",
+      "meaning": "n.药物;麻醉品;毒品;滞销货 v.下麻药;吸毒",
+      "similar": [
+        "rug",
+        "drag",
+        "drum",
+        "drunk",
+        "shrug"
+      ],
+      "question": {
+        "wordId": "drug",
+        "stem": "选择 \"drug\" 的正确中文意思：",
+        "correct": "n.药物;麻醉品;毒品;滞销货 v.下麻药;吸毒",
+        "options": [
+          "n.药物;麻醉品;毒品;滞销货 v.下麻药;吸毒",
+          "n.(小)地毯;围毯",
+          "v.拖,拖曳",
+          "n.鼓;圆桶"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自中古英语drugge，指药物或药材。核心概念为‘具有生理或心理效应的物质’，引申为‘麻醉品、毒品’及动词‘下药、吸毒’。",
+        "similarWarning": "rug（地毯） vs drug（药物）：rug无d开头；drag（拖拽） vs drug：drag是拖，drug是药；drum（鼓） vs drug：drum结尾m，drug结尾g；drunk（喝醉的） vs drug：drunk是形容词，drug是名词/动词；shrug（耸肩） vs drug：shrug开头sh，drug开头dr。",
+        "extendedMeaning": "熟词僻义：在商业语境中可指‘滞销货’，如‘a drug on the market’（市场上的滞销品）。",
+        "examUsage": "考点：常作为干扰项，区分‘drug’（药物/毒品）与‘medicine’（药品，更正式）。真题搭配：‘drug abuse’（药物滥用）为高频短语。"
+      }
+    },
+    {
+      "id": "drum",
+      "word": "drum",
+      "phonetic": "/drʌm/",
+      "meaning": "n.鼓;圆桶",
+      "similar": [
+        "drug",
+        "drama",
+        "drunk",
+        "forum"
+      ],
+      "question": {
+        "wordId": "drum",
+        "stem": "选择 \"drum\" 的正确中文意思：",
+        "correct": "n.鼓;圆桶",
+        "options": [
+          "a.醉酒的；(喻)陶醉的 n.酗酒者，醉汉",
+          "n.药物;麻醉品;毒品;滞销货 v.下麻药;吸毒",
+          "n.鼓;圆桶",
+          "n.剧本,戏剧;戏剧性事件或场面"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟敲击鼓面发出的“咚咚”声。引申为形状类似鼓的圆桶。",
+        "similarWarning": "drug（药物）- 比drum多字母g；drama（戏剧）- 比drum多字母a；dream（梦）- 比drum多字母e；drunk（醉的）- 比drum多字母k；forum（论坛）- 首字母f替换d。",
+        "extendedMeaning": "n. 鼓状物（如油桶）；v. 击鼓；不停敲打；反复灌输（如 drum sth. into sb.）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "drunk",
+      "word": "drunk",
+      "phonetic": "/drʌŋk/",
+      "meaning": "a.醉酒的；(喻)陶醉的 n.酗酒者，醉汉",
+      "similar": [
+        "trunk",
+        "drug",
+        "drum",
+        "duck",
+        "dusk",
+        "junk",
+        "rank",
+        "frank"
+      ],
+      "question": {
+        "wordId": "drunk",
+        "stem": "选择 \"drunk\" 的正确中文意思：",
+        "correct": "a.醉酒的；(喻)陶醉的 n.酗酒者，醉汉",
+        "options": [
+          "a.醉酒的；(喻)陶醉的 n.酗酒者，醉汉",
+          "n.鼓;圆桶",
+          "n.大衣箱,皮箱;(汽车后部)行李箱;树干,躯干",
+          "n.药物;麻醉品;毒品;滞销货 v.下麻药;吸毒"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语drincan的过去分词，核心动作是‘喝’的完成状态，即‘已喝下’→‘醉酒’。物理画面：液体进入体内后导致意识模糊的状态。",
+        "similarWarning": "drink（喝，原型） vs drunk（醉酒，过去分词）；trunk（树干，行李箱） vs drunk（醉酒）；drug（药物，毒品） vs drunk（醉酒）——注意字母g/k及拼写差异。",
+        "extendedMeaning": "喻指‘陶醉的，沉迷的’（非字面醉酒），如drunk with power（权力陶醉）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dubious",
+      "word": "dubious",
+      "phonetic": "/'dju:bjəs/",
+      "meaning": "a.怀疑的，无把握的；有问题的，靠不住的",
+      "similar": [
+        "curious",
+        "furious",
+        "cautious"
+      ],
+      "question": {
+        "wordId": "dubious",
+        "stem": "选择 \"dubious\" 的正确中文意思：",
+        "correct": "a.怀疑的，无把握的；有问题的，靠不住的",
+        "options": [
+          "a.好奇的, 求知的, 古怪的, 爱挑剔的",
+          "a.怀疑的，无把握的；有问题的，靠不住的",
+          "a.(of)小心的,谨慎的",
+          "a.狂怒的,狂暴的,猛烈的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语dubius（摇摆不定的），词根du-（二，双），核心物理动作是“在两者之间摇摆”，引申为“方向不确定”，即怀疑、无把握；进而指事物本身“有问题、靠不住”。",
+        "similarWarning": "curious（好奇的）：cu-（关心） vs du-（二），关心细节 vs 二选一摇摆；furious（狂怒的）：fur-（愤怒） vs du-，情绪爆发 vs 犹豫；cautious（谨慎的）：cau-（小心） vs du-，谨慎行动 vs 怀疑未决。",
+        "extendedMeaning": "在考研阅读中常表“有争议的、不可靠的”，如dubious claim（可疑的主张），强调证据或结论的不可信，非单纯怀疑。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "duck",
+      "word": "duck",
+      "phonetic": "/dʌk/",
+      "meaning": "n.鸭,鸭肉 v.迅速俯身;快速低头;躲避",
+      "similar": [
+        "deck",
+        "dock",
+        "dusk",
+        "luck",
+        "suck",
+        "tuck",
+        "drunk",
+        "lucky"
+      ],
+      "question": {
+        "wordId": "duck",
+        "stem": "选择 \"duck\" 的正确中文意思：",
+        "correct": "n.鸭,鸭肉 v.迅速俯身;快速低头;躲避",
+        "options": [
+          "n.薄暮,黄昏",
+          "n.船坞,码头",
+          "n.甲板",
+          "n.鸭,鸭肉 v.迅速俯身;快速低头;躲避"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿鸭子叫声。动词义源于鸭子潜入水中的动作，引申为迅速低头躲避。",
+        "similarWarning": "deck（甲板/装饰），dock（码头/停靠），duck与二者差元音e/o；dusk（黄昏），luck（运气），suck（吸），tuck（塞入），drunk（醉的），lucky（幸运的）——注意duck无l/r后缀。",
+        "extendedMeaning": "考研僻义：v.逃避，回避（责任/问题），如duck the issue（回避问题）。",
+        "examUsage": "考点：duck out of（逃避/推脱），如duck out of responsibility（逃避责任），真题中常作干扰项与avoid/dodge辨析。"
+      }
+    },
+    {
+      "id": "due",
+      "word": "due",
+      "phonetic": "/dju:/",
+      "meaning": "a.(to)应支付的;(车,船等)预定应到达的",
+      "similar": [
+        "cue",
+        "die",
+        "dye",
+        "sue"
+      ],
+      "question": {
+        "wordId": "due",
+        "stem": "选择 \"due\" 的正确中文意思：",
+        "correct": "a.(to)应支付的;(车,船等)预定应到达的",
+        "options": [
+          "暗示, 提示, 球杆",
+          "n.染料 v.染,染色",
+          "a.(to)应支付的;(车,船等)预定应到达的",
+          "vi.死，死亡；(草木)枯萎，凋谢；渴望"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'debere'（欠），词根 'de-'（从） + 'habere'（持有），核心动作为‘从某人那里持有应还之物’。引申为‘应支付的’、‘应得的’、‘预定到达的’（如时间上‘应到’）。",
+        "similarWarning": "cue（暗示，来自字母Q）vs due（应付款，来自拉丁语‘欠’）；die（死亡，来自古英语）vs dye（染色，来自古英语‘deag’）；sue（起诉，来自拉丁语‘sequi’跟随）vs due。关键差异：due含‘欠/应’义，其他无。",
+        "extendedMeaning": "在考研中，due可作名词‘应得之物’（如‘give him his due’），或表‘适当的’（如‘due process’正当程序），或作介词‘due to’表‘由于’（高频考点，注意与‘owing to’等同义替换）。",
+        "examUsage": "真题考点：due to 作原因状语时，后接名词性成分，常与‘because of’、‘owing to’互换；注意‘due to’在句首时有时被视为非正式，但考研阅读中常见。例：The delay was due to heavy traffic.（干扰项常考‘due’作定语表‘应支付的’如‘due bill’）"
+      }
+    },
+    {
+      "id": "dull",
+      "word": "dull",
+      "phonetic": "/dʌl/",
+      "meaning": "a.单调的;迟钝的,愚笨的;不锋利的",
+      "similar": [
+        "bull",
+        "doll",
+        "pull",
+        "adult",
+        "bully",
+        "drill",
+        "dwell",
+        "skull"
+      ],
+      "question": {
+        "wordId": "dull",
+        "stem": "选择 \"dull\" 的正确中文意思：",
+        "correct": "a.单调的;迟钝的,愚笨的;不锋利的",
+        "options": [
+          "a.单调的;迟钝的,愚笨的;不锋利的",
+          "n.公牛",
+          "v.拉,拖 n.拉,拖;拉力,牵引力",
+          "n.玩偶,玩具娃娃"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不明，但核心物理动作可联想为“敲击后失去锐利或活力”。古英语*dol*意为“愚蠢的、迟钝的”，与古高地德语*tol*（愚蠢）同源，本指“感觉麻木、反应慢”，引申为“不锋利、无光泽、乏味”。",
+        "similarWarning": "bull（公牛/牛市），doll（玩偶），full（满的），pull（拉），adult（成年人），bully（霸凌），drill（钻头/训练），dwell（居住）。注意dull与doll仅一字母之差：u vs. o，含义迥异。",
+        "extendedMeaning": "在考研外刊中常引申为“（市场、需求）疲软的”、“（颜色、光线）暗淡的”、“（声音）沉闷的”，如dull market（萧条市场）、dull color（暗色）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dumb",
+      "word": "dumb",
+      "phonetic": "/dʌm/",
+      "meaning": "a.哑的,无言的",
+      "similar": [
+        "dump",
+        "numb",
+        "thumb"
+      ],
+      "question": {
+        "wordId": "dumb",
+        "stem": "选择 \"dumb\" 的正确中文意思：",
+        "correct": "a.哑的,无言的",
+        "options": [
+          "n.拇指 v.示意要求搭车；迅速翻阅",
+          "a.麻木的,失去感觉的 v.使麻木",
+          "v.倾倒,倾卸 n.垃圾场",
+          "a.哑的,无言的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*dumbaz，本义为“不能说话、沉默的”，后引申为“愚蠢的”（因沉默常被误解为笨拙）。核心物理动作是“嘴部闭合，无法发声”。",
+        "similarWarning": "dump（倾倒，丢弃）与dumb差字母p；numb（麻木的）与dumb首字母n替换d；thumb（拇指）拼写多h，注意区分。",
+        "extendedMeaning": "在考研外刊中常表“愚蠢的、迟钝的”，如“a dumb decision”（愚蠢的决定），非字面“哑的”。",
+        "examUsage": "真题中常考搭配“strike dumb”（使哑口无言）或“play dumb”（装傻），作为干扰项出现。"
+      }
+    },
+    {
+      "id": "dump",
+      "word": "dump",
+      "phonetic": "/dʌmp/",
+      "meaning": "v.倾倒,倾卸 n.垃圾场",
+      "similar": [
+        "bump",
+        "damp",
+        "dumb",
+        "jump",
+        "lump",
+        "pump"
+      ],
+      "question": {
+        "wordId": "dump",
+        "stem": "选择 \"dump\" 的正确中文意思：",
+        "correct": "v.倾倒,倾卸 n.垃圾场",
+        "options": [
+          "v.(against,into)碰;颠簸着前进 n.碰撞",
+          "v.倾倒,倾卸 n.垃圾场",
+          "a.哑的,无言的",
+          "n.潮湿 a.潮湿的 vt.使潮湿;使衰减"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿重物坠落的沉闷声响，核心物理动作是“猛地落下/卸下”，引申为大量倾倒（垃圾、数据等）。",
+        "similarWarning": "bump（碰撞，撞击声）vs dump（倾倒）：bump强调撞击动作，dump强调卸下/丢弃；damp（潮湿的）vs dump：a/i元音差异，词义无关；dumb（哑的，愚蠢的）vs dump：b/p辅音差异，词义无关；jump（跳）vs dump：j/d辅音差异；lump（块，肿块）vs dump：l/d辅音差异；pump（泵，抽水）vs dump：p/d辅音差异。",
+        "extendedMeaning": "v. 倾销（以低于成本的价格大量抛售商品）；n. 内存转储（计算机术语，将内存数据复制到存储设备）。",
+        "examUsage": "真题考点：dump sth on the market（向市场倾销商品）；data dump（数据转储）。"
+      }
+    },
+    {
+      "id": "duplicate",
+      "word": "duplicate",
+      "phonetic": "/'dju:plikət/",
+      "meaning": "n.复制品 v.复写,使加倍 a.复制的,二重的",
+      "similar": [
+        "delicate",
+        "complicate",
+        "dedicate",
+        "lubricate",
+        "complicated",
+        "applicable"
+      ],
+      "question": {
+        "wordId": "duplicate",
+        "stem": "选择 \"duplicate\" 的正确中文意思：",
+        "correct": "n.复制品 v.复写,使加倍 a.复制的,二重的",
+        "options": [
+          "vt.奉献;献身于",
+          "a.纤弱的;精致的;微妙的;灵敏的",
+          "n.复制品 v.复写,使加倍 a.复制的,二重的",
+          "v.使..复杂；使..难懂；使（疾病等）恶化；"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 duplicatus (duo '二' + plicare '折叠')，核心动作是 '折叠成两份'，即产生一模一样的副本。词根 du- (二) + plic- (折叠)，强调数量上的加倍和内容的完全一致。",
+        "similarWarning": "delicate (deli- '诱人' + -cate，意为'精致的，微妙的') vs duplicate (du- '二' + plic- '折叠'，意为'复制')。complicate (com- '一起' + plic- '折叠'，意为'使复杂') vs duplicate (前缀不同，核心动作从'折叠在一起'变为'折叠成双')。dedicate (de- '向下' + dic- '说'，意为'奉献') vs duplicate (词根完全不同，无关联)。",
+        "extendedMeaning": "在考研外刊中常作动词，表'重复'（非字面'复制'），如 duplicate the experiment（重复实验）或 duplicate the success（重现成功），强调行为或结果的再现。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "durable",
+      "word": "durable",
+      "phonetic": "/'djuərəbl/",
+      "meaning": "a.持久的,耐久的",
+      "similar": [
+        "disable",
+        "desirable",
+        "portable",
+        "scramble",
+        "suitable",
+        "variable"
+      ],
+      "question": {
+        "wordId": "durable",
+        "stem": "选择 \"durable\" 的正确中文意思：",
+        "correct": "a.持久的,耐久的",
+        "options": [
+          "a.值得做的;合意的,称心的;期望得到的",
+          "vt.使残废;使失去能力;丧失能力",
+          "a.持久的,耐久的",
+          "a.轻便的,手提(式)的,可移动的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'durare'（持续、耐久），词根 dur-（持续、坚硬） + 形容词后缀 -able（能够…的）。核心物理动作：物质或状态能够抵抗时间或外力侵蚀而保持原样。",
+        "similarWarning": "disable（使无能，dis-否定 + able），desirable（令人渴望的，desire + able），portable（便携的，port-搬运 + able），scramble（攀爬、争夺，无关联），suitable（合适的，suit + able），variable（可变的，vary + able）。对比：durable 强调持久性，与 disable、desirable 等拼写差异在于首字母和词根 dur- 与 dis-/desir- 的区分。",
+        "extendedMeaning": "在考研真题中常引申为 '长期的、牢固的'，用于抽象事物如 'durable peace'（持久和平）或 'durable relationship'（稳固关系），非仅指物理耐磨损。",
+        "examUsage": "常与 'goods' 搭配：'durable goods'（耐用品，经济学高频词），或作 'durable material'（耐用材料）。真题中常作为干扰项，对比 'temporary'（短暂的）或 'fragile'（易碎的）。"
+      }
+    },
+    {
+      "id": "duration",
+      "word": "duration",
+      "phonetic": "/dju'reɪʃn/",
+      "meaning": "n.持久;期间;持续时间",
+      "similar": [
+        "education",
+        "federation",
+        "dictation",
+        "direction",
+        "formation",
+        "nutrition",
+        "variation",
+        "dragon"
+      ],
+      "question": {
+        "wordId": "duration",
+        "stem": "选择 \"duration\" 的正确中文意思：",
+        "correct": "n.持久;期间;持续时间",
+        "options": [
+          "n.持久;期间;持续时间",
+          "n.教育,培养,训练",
+          "n.同盟;联邦;联合;联盟;联合会",
+          "n.听写,口述;命令"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“durare”（持续、变硬），词根dur-（持续、坚硬）+ -ation（名词后缀，表过程/状态）。核心物理动作是“时间上的持续延伸”，强调某事物从开始到结束所经历的时间长度。",
+        "similarWarning": "duration vs. dictation：dur-（持续） vs. dict-（说）；duration表时间持续，dictation表口述/听写。",
+        "extendedMeaning": "在考研阅读中，duration常引申为“有效期”或“存在周期”，如“duration of the contract”（合同有效期），非日常理解的单纯“期间”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "during",
+      "word": "during",
+      "phonetic": "/'djuəriŋ/",
+      "meaning": "prep.在…期间",
+      "similar": [
+        "darling",
+        "outing",
+        "string"
+      ],
+      "question": {
+        "wordId": "during",
+        "stem": "选择 \"during\" 的正确中文意思：",
+        "correct": "prep.在…期间",
+        "options": [
+          "n.弦,线,细绳;(一串),(一行) v.缚,捆",
+          "n.外出,旅行,散步",
+          "n.心爱的人,亲爱的",
+          "prep.在…期间"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'durāre'（持续），词根'dur'（持续、坚硬）。'during'由'dur'（持续）加'-ing'（形容词后缀，但此处作介词）构成，核心动作是“在某个时间段内持续存在”，直接表示“在…期间”。",
+        "similarWarning": "darling（亲爱的，词根'dear'）; ring（戒指/响铃，词根'ring'）; bring（带来，词根'bring'）; drink（喝，词根'drink'）; outing（远足，词根'out'）; spring（春天/跳跃，词根'spring'）; string（线/弦，词根'string'）。以上词拼写相似，但词根和意义完全不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dusk",
+      "word": "dusk",
+      "phonetic": "/dʌsk/",
+      "meaning": "n.薄暮,黄昏",
+      "similar": [
+        "desk",
+        "duck",
+        "dust",
+        "drunk"
+      ],
+      "question": {
+        "wordId": "dusk",
+        "stem": "选择 \"dusk\" 的正确中文意思：",
+        "correct": "n.薄暮,黄昏",
+        "options": [
+          "n.书桌，办公桌，服务台",
+          "n.鸭,鸭肉 v.迅速俯身;快速低头;躲避",
+          "n.灰尘,尘土 v.拂,掸",
+          "n.薄暮,黄昏"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自中古英语 dosk，与古英语 dox（黑暗）同源，核心物理动作是“光线变暗”，即日落到夜晚之间的过渡状态。",
+        "similarWarning": "desk（书桌）: 字母 u→e，指家具；duck（鸭子）: 字母 s→c，指水禽；dust（灰尘）: 字母 s→t，指尘土；drunk（喝醉的）: 字母 s→r，指醉酒状态。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dust",
+      "word": "dust",
+      "phonetic": "/dʌst/",
+      "meaning": "n.灰尘,尘土 v.拂,掸",
+      "similar": [
+        "dusk",
+        "rust",
+        "adjust",
+        "adult",
+        "burst",
+        "crust",
+        "doubt",
+        "guest"
+      ],
+      "question": {
+        "wordId": "dust",
+        "stem": "选择 \"dust\" 的正确中文意思：",
+        "correct": "n.灰尘,尘土 v.拂,掸",
+        "options": [
+          "n.铁锈 v.(使)生锈",
+          "n.薄暮,黄昏",
+          "vt.调节；整顿，调整 vi.适应(to)；使调节",
+          "n.灰尘,尘土 v.拂,掸"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根dust-源自原始印欧语*dheu-（升起、飞扬），本义为“升起的细小颗粒”，即灰尘。动词由名词转化，指“除去灰尘”的动作。",
+        "similarWarning": "dust vs. dusk（黄昏，s/k字母差异，灰尘vs.黄昏）; dust vs. rust（锈，d/r字母差异，灰尘vs.锈）; dust vs. crust（外壳，c-前缀，灰尘vs.硬皮）",
+        "extendedMeaning": "n. 粉末状物质（如花粉、煤灰）；v. 撒（粉末）于表面（如dust with sugar撒糖）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "duty",
+      "word": "duty",
+      "phonetic": "/'dju:ti/",
+      "meaning": "n.义务,责任;职务;税",
+      "similar": [
+        "deputy",
+        "dirty"
+      ],
+      "question": {
+        "wordId": "duty",
+        "stem": "选择 \"duty\" 的正确中文意思：",
+        "correct": "n.义务,责任;职务;税",
+        "options": [
+          "n.义务,责任;职务;税",
+          "n.代理人,代表 a.副的,代理的",
+          "a.弄脏的;下流的 v.弄脏,玷污",
+          "a.末端的,尽头的;极度的 n.极端;最大程度"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语debitus（所欠的），de-（向下）+ habere（持有）的过去分词，核心动作是‘欠下的东西’。引申为法律或道德上‘必须履行的责任’，以及‘应缴纳的税款’。",
+        "similarWarning": "deputy（n.代理人，副手）：duty强调‘责任’，deputy指‘代理职务的人’。dirty（adj.脏的）：拼写仅差一个字母，但词源无关。",
+        "extendedMeaning": "在考研阅读中，duty常引申为‘职责范围’或‘岗位职能’，如duty of care（注意义务，法律术语）。",
+        "examUsage": "高频考点：duty-free（免税的），常出现在经济类阅读中；on duty（值班），用于工作场景题。"
+      }
+    },
+    {
+      "id": "dwarf",
+      "word": "dwarf",
+      "phonetic": "/dwɔ:f/",
+      "meaning": "n.矮子，侏儒，矮小的动植物 vt.使…矮小",
+      "similar": [
+        "dare",
+        "deaf",
+        "ward",
+        "warn",
+        "award",
+        "aware",
+        "diary",
+        "scarf"
+      ],
+      "question": {
+        "wordId": "dwarf",
+        "stem": "选择 \"dwarf\" 的正确中文意思：",
+        "correct": "n.矮子，侏儒，矮小的动植物 vt.使…矮小",
+        "options": [
+          "a.聋的;不愿听的",
+          "v.敢,胆敢",
+          "n.矮子，侏儒，矮小的动植物 vt.使…矮小",
+          "n.病房;行政区;监护;被监护人 vt.挡住"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根来自古英语dweorg，原指'矮小生物'。核心物理动作是'缩小、压制'，引申为使对比之下显得矮小。",
+        "similarWarning": "dwarf vs. ward（监护/病房）：dwarf首字母d像'低'，ward首字母w像'卫'。dwarf vs. deaf（聋的）：dwarf含'r'表示矮，deaf无'r'表示听障。",
+        "extendedMeaning": "在考研中常考vt.用法，意为'使相形见绌、使显得矮小'（非字面身高），如：The new skyscraper dwarfs all nearby buildings.（新摩天大楼使附近建筑相形见绌。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dwell",
+      "word": "dwell",
+      "phonetic": "/dwel/",
+      "meaning": "v.住,居留",
+      "similar": [
+        "swell",
+        "cell",
+        "deal",
+        "doll",
+        "dull",
+        "fell",
+        "hell",
+        "wall"
+      ],
+      "question": {
+        "wordId": "dwell",
+        "stem": "选择 \"dwell\" 的正确中文意思：",
+        "correct": "v.住,居留",
+        "options": [
+          "v.住,居留",
+          "n.细胞;小房间;蜂房;电池",
+          "v.处理;做买卖,经营;分配;对待 n.交易",
+          "n./v.肿胀;膨胀;增大;增加;"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语 dwellan ‘误导、妨碍’，后演变为‘逗留、停留’（如‘被误导而滞留某处’），核心物理动作为‘停留在一个地方’。现代英语中引申为‘居住、居留’（长期停留）。",
+        "similarWarning": "dwell vs. swell：dwell 意为‘居住’，swell 意为‘膨胀’（如 swelling 肿胀）。dwell vs. dull：dwell 含‘e’音，意为‘居住’；dull 含‘u’音，意为‘迟钝、单调’。dwell vs. deal：dwell 意为‘居住’；deal 意为‘处理、交易’（如 deal with）。",
+        "extendedMeaning": "考研僻义：dwell on/upon 意为‘细想、详述’（不限于居住），如真题中‘dwell on the past’（沉湎于过去），指长时间思考或讨论某事。",
+        "examUsage": "真题考点：短语‘dwell on/upon’为高频考点，常与‘ponder/reflect on’同义替换。例：The article dwells on the importance of education.（文章详述了教育的重要性。）注意不要与‘live on’（靠…生活）混淆。"
+      }
+    },
+    {
+      "id": "dwelling",
+      "word": "dwelling",
+      "phonetic": "/'dweliŋ/",
+      "meaning": "n.住宅,寓所",
+      "similar": [
+        "willing",
+        "spelling",
+        "ceiling",
+        "darling",
+        "decline",
+        "wedding",
+        "shilling"
+      ],
+      "question": {
+        "wordId": "dwelling",
+        "stem": "选择 \"dwelling\" 的正确中文意思：",
+        "correct": "n.住宅,寓所",
+        "options": [
+          "n.住宅,寓所",
+          "a.愿意的，乐意的，心甘情愿的",
+          "n.拼法,拼写法",
+          "n.天花板；(规定价格、工资等的)最高限额"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自动词dwell（居住），由dwell（居住）+ -ing（名词后缀）构成，核心动作为“长期停留于某处”，引申为“住宅、寓所”。",
+        "similarWarning": "dwelling vs. spelling（拼写）：dwell-居住 vs. spell-拼写；dwelling vs. ceiling（天花板）：dwell-居住 vs. ceil-天花板（源自拉丁语caelum天空）；dwelling vs. darling（亲爱的）：dwell-居住 vs. dar-（来自古英语deore亲爱的）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dye",
+      "word": "dye",
+      "phonetic": "/dai/",
+      "meaning": "n.染料 v.染,染色",
+      "similar": [
+        "die",
+        "due"
+      ],
+      "question": {
+        "wordId": "dye",
+        "stem": "选择 \"dye\" 的正确中文意思：",
+        "correct": "n.染料 v.染,染色",
+        "options": [
+          "vt./vi.唤醒，唤起；激励；激起",
+          "a.(to)应支付的;(车,船等)预定应到达的",
+          "vi.死，死亡；(草木)枯萎，凋谢；渴望",
+          "n.染料 v.染,染色"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源于古英语deah/deag，核心动作是‘使物体浸入有色液体中改变颜色’，即染色。",
+        "similarWarning": "die (v.死亡) vs dye (v.染色): 拼写仅差一个字母，但语义完全无关。due (adj.到期的) vs dye: 拼写i/e位置不同。eye (n.眼睛) vs dye: 首字母e/d差异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dynamic",
+      "word": "dynamic",
+      "phonetic": "/dai'næmik/",
+      "meaning": "a.动力的,电动的;有生气的",
+      "similar": [],
+      "question": {
+        "wordId": "dynamic",
+        "stem": "选择 \"dynamic\" 的正确中文意思：",
+        "correct": "a.动力的,电动的;有生气的",
+        "options": [
+          "v.(industrialise)(使)工业化",
+          "a.动力的,电动的;有生气的",
+          "vt.具体表达,使具体化;包含,收录",
+          "a.月亮的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根dynam-（力量，权力）+ -ic（形容词后缀）→ 与力量相关的 → 引申为动力的、有生气的。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中常引申为“动态的，不断变化的”，如dynamic system（动态系统）、dynamic equilibrium（动态平衡），强调过程而非静止状态。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dynasty",
+      "word": "dynasty",
+      "phonetic": "/'dinəsti/",
+      "meaning": "n.王朝,朝代",
+      "similar": [
+        "nasty"
+      ],
+      "question": {
+        "wordId": "dynasty",
+        "stem": "选择 \"dynasty\" 的正确中文意思：",
+        "correct": "n.王朝,朝代",
+        "options": [
+          "n.(浓烈或难闻的）烟，气，汽",
+          "n.王朝,朝代",
+          "a.肮脏的,卑劣的,下流的;令人厌恶的",
+          "v.拒绝,抵制,丢弃,排斥,退掉 n.落选者"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'dynastes'（统治者），词根'dyn-'（力量、权力）+-ast（人）+-y（名词后缀）。核心动作：拥有绝对权力的人（统治者）延续的世系，即王朝。",
+        "similarWarning": "nasty（adj.肮脏的；令人不快的）：拼写差异在首字母'd'（力量）vs 'n'（否定），词义上dynasty强调统治秩序，nasty强调负面性质。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "eager",
+      "word": "eager",
+      "phonetic": "/'i:gə/",
+      "meaning": "a.(for)渴望的,热切的",
+      "similar": [
+        "danger",
+        "dealer",
+        "easter",
+        "reader",
+        "age",
+        "ear",
+        "cage",
+        "ease"
+      ],
+      "question": {
+        "wordId": "eager",
+        "stem": "选择 \"eager\" 的正确中文意思：",
+        "correct": "a.(for)渴望的,热切的",
+        "options": [
+          "n.复活节",
+          "a.(for)渴望的,热切的",
+          "n.危险;威胁;危险事物",
+          "n.商人"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古法语aigre‘尖锐的，辛辣的’，源自拉丁语acer‘锋利的，激烈的’。核心物理动作为‘尖锐刺入’，引申为内心被强烈欲望‘刺痛’、急不可耐的状态，即‘渴望的，热切的’。",
+        "similarWarning": "与eager最易混的是easter（复活节），仅差一个‘s’；另与age（年龄）差首字母‘e’，注意拼写差异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "eagle",
+      "word": "eagle",
+      "phonetic": "/'i:gl/",
+      "meaning": "n.鹰",
+      "similar": [
+        "enable",
+        "league",
+        "tangle",
+        "age",
+        "able",
+        "cage",
+        "ease",
+        "edge"
+      ],
+      "question": {
+        "wordId": "eagle",
+        "stem": "选择 \"eagle\" 的正确中文意思：",
+        "correct": "n.鹰",
+        "options": [
+          "n.纠缠；缠结；混乱 v.(使)缠绕；变乱",
+          "n.同盟,联盟;联合会,社团",
+          "v.使能够,使成为可能;授予权利或方法",
+          "n.鹰"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语aquila（鹰），与aqua（水）同源？实际aquila来自aquilus（暗色的），指鹰的深色羽毛。核心动作：鹰作为猛禽，象征锐利与高飞。",
+        "similarWarning": "与eager（渴望的）拼写相似，但eagle指鹰，eager表急切。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ear",
+      "word": "ear",
+      "phonetic": "/iə/",
+      "meaning": "n.耳，耳朵；听力，听觉；穗",
+      "similar": [
+        "bear",
+        "earn",
+        "fear",
+        "gear",
+        "pear",
+        "rear",
+        "tear",
+        "bar"
+      ],
+      "question": {
+        "wordId": "ear",
+        "stem": "选择 \"ear\" 的正确中文意思：",
+        "correct": "n.耳，耳朵；听力，听觉；穗",
+        "options": [
+          "n.熊 v.忍受,容忍;负担;结果实,生子女",
+          "n.耳，耳朵；听力，听觉；穗",
+          "n.害怕，恐惧；危险vt.畏惧，害怕，担心",
+          "v.赚得,挣得,获得"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语‘eare’，与拉丁语‘auris’同源，核心动作为‘听觉器官’，引申为‘听力’；‘穗’义源自植物形状类似耳朵。",
+        "similarWarning": "bear (b-熊/忍受) vs ear (无b-耳朵)；dear (d-亲爱的) vs ear (无d-耳朵)；earn (赚取，加n) vs ear (无n)；fear (f-恐惧) vs ear (无f)；gear (g-齿轮/装备) vs ear (无g)；hear (h-听见，含hear动作) vs ear (器官)；near (n-附近) vs ear (无n)；pear (p-梨) vs ear (无p)。",
+        "extendedMeaning": "考研僻义‘穗’（如corn ear玉米穗），常出现在农业或生物类阅读中。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "earn",
+      "word": "earn",
+      "phonetic": "/ə:n/",
+      "meaning": "v.赚得,挣得,获得",
+      "similar": [
+        "ear",
+        "barn",
+        "warn",
+        "beard",
+        "pearl",
+        "weary"
+      ],
+      "question": {
+        "wordId": "earn",
+        "stem": "选择 \"earn\" 的正确中文意思：",
+        "correct": "v.赚得,挣得,获得",
+        "options": [
+          "v.赚得,挣得,获得",
+          "n.耳，耳朵；听力，听觉；穗",
+          "vt.警告 vi.发出警告",
+          "n.谷仓,仓库"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语earnian，与古高地德语arnōn同源，核心动作是“通过劳动获得回报”，强调付出与收获的因果关系。",
+        "similarWarning": "learn（学习）：earn与learn差字母l，learn强调知识获取，earn强调劳动报酬。ear（耳朵）：earn多n，ear指听觉器官，无劳动含义。barn（谷仓）：barn与earn差b，barn是储存场所，earn是动作。warn（警告）：warn与earn差w，warn含风险预警，earn无此意。beard（胡子）：beard含b和d，earn无，beard是身体部位。early（早的）：early含ly，earn无，early指时间。earth（地球）：earth含th，earn无，earth指行星。heart（心脏）：heart含h和t，earn无，heart指器官或情感。",
+        "extendedMeaning": "考研中常引申为“赢得（声誉、地位等）”，如earn respect（赢得尊重），earn a reputation（赢得声誉），强调非金钱的抽象获得。",
+        "examUsage": "真题常考搭配earn a living（谋生），以及被动结构be earned through effort（通过努力获得）。干扰项常与gain（侧重优势获取）或win（侧重竞争胜利）混淆，需注意earn强调劳动或努力的因果回报。"
+      }
+    },
+    {
+      "id": "earnest",
+      "word": "earnest",
+      "phonetic": "/'ə:nist/",
+      "meaning": "a.热心的,诚挚的 n.热心;真挚;定金;认真",
+      "similar": [
+        "arrest",
+        "harness",
+        "harvest"
+      ],
+      "question": {
+        "wordId": "earnest",
+        "stem": "选择 \"earnest\" 的正确中文意思：",
+        "correct": "a.热心的,诚挚的 n.热心;真挚;定金;认真",
+        "options": [
+          "a.热心的,诚挚的 n.热心;真挚;定金;认真",
+          "n.收获,收成;成果,后果 v.收获,收割",
+          "v.治理,利用 n.马具,挽具",
+          "n.逮捕，扣留 vt.逮捕，扣留；阻止；吸引"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "earnest源自古英语eornoste，核心词根earn-与‘认真、热切’相关，原义为‘严肃、郑重’，引申为‘诚挚、热心的态度’。n.形式保留‘定金’义，源自法律用语‘诚意金’（earnest money），表示‘用金钱表达承诺的认真’。",
+        "similarWarning": "arrest（逮捕，阻止）：a-（向）+rest（休息）→强制停下；earnest（认真的）：ear-（热切）+nest（巢）→全心投入。harvest（收获）：harv-（收割）+est→与劳动成果相关；earnest强调态度，无收割义。",
+        "extendedMeaning": "n.定金；保证金（考研常考法律/商业语境，如earnest money表示‘定金’）。",
+        "examUsage": "in earnest（认真地；正式地）：真题中常作题眼，如‘The negotiations began in earnest after the ceasefire.’（停火后谈判正式开始。）"
+      }
+    },
+    {
+      "id": "earthquake",
+      "word": "earthquake",
+      "phonetic": "/'ə:θkweik/",
+      "meaning": "n.地震",
+      "similar": [],
+      "question": {
+        "wordId": "earthquake",
+        "stem": "选择 \"earthquake\" 的正确中文意思：",
+        "correct": "n.地震",
+        "options": [
+          "n.地震",
+          "a.外部的;客观的;外国的;表面的;[医]外用的",
+          "a.电子的",
+          "a.奢侈的;过分的;(言行等)放肆的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "earth（地球）+quake（震动、颤抖）→地球震动→地震。quake本义为“剧烈晃动”，源自原始日耳曼语*kwakaną（颤抖）。",
+        "similarWarning": "无明显形近词，注意与quack（冒牌医生、嘎嘎叫）拼写差异：earthquake含quake，quack含ack。",
+        "extendedMeaning": "考研中无特殊僻义，常以字面义出现。",
+        "examUsage": "常见于阅读中描述自然灾害，无特殊考点搭配。"
+      }
+    },
+    {
+      "id": "ease",
+      "word": "ease",
+      "phonetic": "/i:z/",
+      "meaning": "v.减轻;使舒适,使安心 n.容易;舒适,悠闲",
+      "similar": [
+        "cease",
+        "erase",
+        "lease",
+        "tease",
+        "base",
+        "east",
+        "vase",
+        "easter"
+      ],
+      "question": {
+        "wordId": "ease",
+        "stem": "选择 \"ease\" 的正确中文意思：",
+        "correct": "v.减轻;使舒适,使安心 n.容易;舒适,悠闲",
+        "options": [
+          "v./n.停止,中止",
+          "vt.出租,租用 n.租借,租期,租赁物",
+          "v.减轻;使舒适,使安心 n.容易;舒适,悠闲",
+          "v.擦掉;删去;消磁"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'adjacens'（邻近的），后通过古法语 'aise'（舒适、方便）进入英语。核心物理动作是“接近、方便”，引申为“没有障碍或困难的状态”，即“容易”；再引申为“使人感到舒适、没有压力”，即“减轻、使舒适”。词根演变：adjacens → aise → ease，强调空间或心理上的“近”带来的轻松感。",
+        "similarWarning": "cease（停止）：c-开头，强调动作的终止；ease（减轻）：e-开头，强调状态的缓和。erase（擦除）：含'ras'（刮擦）词根，物理消除；ease不含刮擦义。lease（租约）：l-开头，与法律/合同相关；ease无此关联。tease（取笑）：t-开头，含戏弄动作；ease无此义。",
+        "extendedMeaning": "在考研阅读中，ease常作动词表示“缓解（问题、紧张局势）”，如'ease tensions'（缓解紧张）；或作名词用于短语'at ease'（自在、不拘束），但更常考其动词的引申义“放宽（政策、限制）”，如'ease trade restrictions'（放宽贸易限制）。",
+        "examUsage": "真题考点：'ease'作动词与'soothe'、'alleviate'同义替换，常与'burden'、'pain'、'tension'搭配。经典干扰项：在完形填空中，易与'cease'（停止）混淆，但'ease'强调“减轻”而非“终止”。例句：'The new policy aims to ease the financial burden on students.'（新政策旨在减轻学生的经济负担。）"
+      }
+    },
+    {
+      "id": "east",
+      "word": "east",
+      "phonetic": "/i:st/",
+      "meaning": "n.东,东方,东部 a.东方的,东部的",
+      "similar": [
+        "beast",
+        "feast",
+        "cast",
+        "ease",
+        "vast",
+        "breast",
+        "easter",
+        "blast"
+      ],
+      "question": {
+        "wordId": "east",
+        "stem": "选择 \"east\" 的正确中文意思：",
+        "correct": "n.东,东方,东部 a.东方的,东部的",
+        "options": [
+          "n.兽,牲畜;凶残的人,举止粗鲁的人",
+          "n.东,东方,东部 a.东方的,东部的",
+          "v.投,扔,掷,抛；铸造；投票；n.演员表",
+          "n.节日;宴会"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *aust-（意为“黎明、东方”），与拉丁语 aurora（黎明）同源。核心物理动作：太阳升起的方向，即“东方”。",
+        "similarWarning": "beast（野兽）、feast（盛宴）、least（最少的）、east（东方）——四个词仅首字母不同，需注意拼写差异。",
+        "extendedMeaning": "在考研中常引申为“东方国家/地区（尤指亚洲）”，如 the East（东方世界），与 the West（西方）相对。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "easter",
+      "word": "Easter",
+      "phonetic": "/'i:stə/",
+      "meaning": "n.复活节",
+      "similar": [
+        "eastern",
+        "plaster",
+        "ease",
+        "east",
+        "alter",
+        "eager",
+        "enter",
+        "haste"
+      ],
+      "question": {
+        "wordId": "easter",
+        "stem": "选择 \"Easter\" 的正确中文意思：",
+        "correct": "n.复活节",
+        "options": [
+          "n.复活节",
+          "a.东方的,东部的",
+          "n.灰泥;熟石膏;膏药",
+          "v.减轻;使舒适,使安心 n.容易;舒适,悠闲"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *Austron，意为‘黎明、东方’，与‘east’同源。古英语中 Easter 指‘黎明女神之节’，基督教化后借指‘复活节’，象征耶稣复活如黎明破晓。词根核心动作：东方升起→新生/复活。",
+        "similarWarning": "eastern /ˈiːstən/ adj.东方的（Easter + -ern）vs Easter /ˈiːstə/ n.复活节（无-n）；master /ˈmɑːstə/ n.主人（m-开头）vs Easter（E-开头）；plaster /ˈplɑːstə/ n.灰泥（pl-开头）vs Easter（无pl-）。",
+        "extendedMeaning": "考研中无特殊僻义，通常仅指‘复活节’这一节日名称。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "eastern",
+      "word": "eastern",
+      "phonetic": "/'i:stən/",
+      "meaning": "a.东方的,东部的",
+      "similar": [
+        "easter",
+        "stern",
+        "fasten",
+        "lantern",
+        "western"
+      ],
+      "question": {
+        "wordId": "eastern",
+        "stem": "选择 \"eastern\" 的正确中文意思：",
+        "correct": "a.东方的,东部的",
+        "options": [
+          "a.东方的,东部的",
+          "v.扎牢,使固定",
+          "a.严厉的;坚决的,坚定的 n.船尾,舟尾",
+          "n.复活节"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自 east（东）+ -ern（形容词后缀，表方向），核心物理动作为“朝向东方的”，直接表示地理或方位上的东方属性。",
+        "similarWarning": "eastern vs. western：仅首字母 e/w 不同，分别指东方/西方；eastern vs. easter：easter 为名词“复活节”，eastern 为形容词，注意字母 r 位置差异。",
+        "extendedMeaning": "在考研阅读中常引申为“东方的（文化、国家）”，如 Eastern Europe（东欧），或指“来自东方的”，如 Eastern philosophy（东方哲学），而非单纯方位词。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ebb",
+      "word": "ebb",
+      "phonetic": "/eb/",
+      "meaning": "vi.衰退，减退 n.处于低潮，处于衰退状态",
+      "similar": [],
+      "question": {
+        "wordId": "ebb",
+        "stem": "选择 \"ebb\" 的正确中文意思：",
+        "correct": "vi.衰退，减退 n.处于低潮，处于衰退状态",
+        "options": [
+          "n.跨度,跨距",
+          "n.罪犯,刑事犯 a.犯罪的,刑事的",
+          "vi.衰退，减退 n.处于低潮，处于衰退状态",
+          "v.(受)腐蚀,侵蚀"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根源自古英语『ebba』，核心物理动作为『退潮』，即海水从岸边后退、回落。引申为任何事物的『衰退、减少』，如能量、情绪、势力等从高峰向低谷的流动过程。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常考『ebb and flow』（潮起潮落/盛衰起伏），喻指事物周期性的消长变化；亦可用作动词表示『逐渐衰退』，如『ebb away』（消退/减弱）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "eccentric",
+      "word": "eccentric",
+      "phonetic": "/ik'sentrik/",
+      "meaning": "a.古怪的，怪癖的，异乎寻常的n.古怪的人",
+      "similar": [
+        "electric",
+        "scientific"
+      ],
+      "question": {
+        "wordId": "eccentric",
+        "stem": "选择 \"eccentric\" 的正确中文意思：",
+        "correct": "a.古怪的，怪癖的，异乎寻常的n.古怪的人",
+        "options": [
+          "a.古怪的，怪癖的，异乎寻常的n.古怪的人",
+          "a.电的,导电的,电动的",
+          "a.科学上的",
+          "n.发生,出现;事件,事故,发生的事情"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语ek-（向外）+kentron（中心），字面意为“偏离中心”或“离心的”。物理动作：从圆心向外偏离，引申为思想、行为偏离常规或主流标准，即“古怪的、反常的”。",
+        "similarWarning": "electric（电的）：eccentric（ecc-）vs electric（elec-），词根不同，前者强调“偏离中心”，后者与“电”相关。scientific（科学的）：eccentric（-centric为中心）vs scientific（-sci为知道），差异在词根“中心”与“知识”。",
+        "extendedMeaning": "在考研阅读中，eccentric可指“反常的、特立独行的”，常形容艺术家、科学家或行为模式，强调与常规的偏离而非贬义。",
+        "examUsage": "真题考点：be eccentric to（偏离……），如“eccentric orbits”（偏离轨道）；常见搭配eccentric behavior（反常行为），在完形中作为干扰项与abnormal、odd等词辨析。"
+      }
+    },
+    {
+      "id": "echo",
+      "word": "echo",
+      "phonetic": "/'ekəu/",
+      "meaning": "v./n.回声,反响,共鸣",
+      "similar": [],
+      "question": {
+        "wordId": "echo",
+        "stem": "选择 \"echo\" 的正确中文意思：",
+        "correct": "v./n.回声,反响,共鸣",
+        "options": [
+          "n./v.(联合)抵制,拒绝参与",
+          "n.质量,品质,特性",
+          "v./n.回声,反响,共鸣",
+          "a.孤独的，寂寞的；荒凉的，人迹稀少的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根来自希腊神话Echo（回声女神），拟声词根，模仿声音反射的物理动作：声音发出后遇障碍物折返，产生重复效果。核心动作是“重复、仿效”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“附和、仿效”（尤指观点或行为的重复），如echo one's opinion（附和某人的观点），或“重现、反映”（如文化现象或历史事件的再现）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "eclipse",
+      "word": "eclipse",
+      "phonetic": "/i'klips/",
+      "meaning": "n.日食,月食",
+      "similar": [
+        "elapse"
+      ],
+      "question": {
+        "wordId": "eclipse",
+        "stem": "选择 \"eclipse\" 的正确中文意思：",
+        "correct": "n.日食,月食",
+        "options": [
+          "n.日食,月食",
+          "vi．(时间)溜走；(光阴)逝去",
+          "a.可取的，适当的，明智的",
+          "v.(to)归因于,归属于 n.属性,品质,特征"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语ekleipsis，由ek-（出，离开）+ leipein（离开，缺失）构成，字面意为“离开、缺失”。核心物理动作是“某物从原位离开或消失”，引申为“天体被遮蔽（日/月食）”或“某事物被超越、黯然失色”。",
+        "similarWarning": "elapse（v.消逝，时间过去）：eclipse vs elapse，差异在'ips'与'aps'；eclipse强调“遮蔽/超越”，elapse强调“时间流逝”。",
+        "extendedMeaning": "考研僻义：v.使黯然失色，超越，凌驾（常用于抽象竞争语境，如“His achievement eclipsed all previous records.”）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ecology",
+      "word": "ecology",
+      "phonetic": "/i:'kɔlədʒi/",
+      "meaning": "n.生态学",
+      "similar": [
+        "colony",
+        "apology",
+        "biology",
+        "economy",
+        "geology",
+        "sociology",
+        "ideology"
+      ],
+      "question": {
+        "wordId": "ecology",
+        "stem": "选择 \"ecology\" 的正确中文意思：",
+        "correct": "n.生态学",
+        "options": [
+          "n.道歉，认错，辩解，辩护",
+          "n.殖民地；侨民；聚居区；(动植物的)群体",
+          "n.生物学",
+          "n.生态学"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "eco-（希腊语oikos，意为“家、住所”）+ -logy（学科）。字面义为“研究生物与居住环境关系的学科”，即生态学。核心动作：探究生物与其“家”（环境）的相互作用。",
+        "similarWarning": "ecology vs. economy：ecology（生态学）含-logy（学科），侧重环境关系；economy（经济）含-nomy（管理），侧重资源管理。ecology vs. ideology：ecology（生态学）与ideology（意识形态）拼写相似，但-ology表学科，-ology表学说/观念。",
+        "extendedMeaning": "在考研中，ecology常引申为“（社会、政治等领域的）生态系统、环境系统”。如：the ecology of the media（媒体生态系统）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "economic",
+      "word": "economic",
+      "phonetic": "/ˌi:kə'nɔmik/",
+      "meaning": "a.经济(上)的,经济学的",
+      "similar": [
+        "economics",
+        "economical",
+        "economy",
+        "cosmic"
+      ],
+      "question": {
+        "wordId": "economic",
+        "stem": "选择 \"economic\" 的正确中文意思：",
+        "correct": "a.经济(上)的,经济学的",
+        "options": [
+          "n.经济学,经济情况",
+          "n.节约;经济",
+          "a.经济(上)的,经济学的",
+          "a.节约的,经济的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 oikonomia (家庭管理)，由 oikos (房屋、家) + nomos (管理、法则) 构成。本义是“管理家庭财务的”，引申为“经济(上)的、经济学的”。核心动作是“管理资源”。",
+        "similarWarning": "economic 与 economical 易混：economic 侧重“与经济相关的”，如 economic growth (经济增长)；economical 侧重“节约的、省钱的”，如 economical car (省油的车)。注意字母差异：-ic 结尾表“学科/相关”，-ical 结尾表“具有某种性质”。",
+        "extendedMeaning": "在考研真题中常出现“经济上的、有利可图的”非字面义，如 economic viability (经济可行性)，强调盈利性而非单纯经济领域。",
+        "examUsage": "常与 growth, development, policy, crisis 等搭配，如 economic recession (经济衰退) 是真题高频考点。注意干扰项：economic 与 economical 在完形填空中的辨析。"
+      }
+    },
+    {
+      "id": "economical",
+      "word": "economical",
+      "phonetic": "/ˌi:kə'nɔmikəl/",
+      "meaning": "a.节约的,经济的",
+      "similar": [
+        "economic",
+        "economics",
+        "chemical",
+        "colonial",
+        "technical"
+      ],
+      "question": {
+        "wordId": "economical",
+        "stem": "选择 \"economical\" 的正确中文意思：",
+        "correct": "a.节约的,经济的",
+        "options": [
+          "n.经济学,经济情况",
+          "a.经济(上)的,经济学的",
+          "a.节约的,经济的",
+          "a.化学的 n.(pl.)化学制品,化学药品"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语oikonomia（家政管理），由oikos（房屋）与nomos（管理）构成。economy（经济）+ical（形容词后缀，表“与…相关的”），本义为“与家政管理相关的”，引申为“节约的、经济的”。核心动作：合理管理资源，避免浪费。",
+        "similarWarning": "economic（经济的，与经济学相关的）：侧重宏观或微观经济体系；economical（节约的）：强调资源节省。注意拼写差异：economic无-al，economical有-al。",
+        "extendedMeaning": "",
+        "examUsage": "真题中常作为干扰项，与economic区分。例句：This method is more economical because it uses less energy.（这种方法更节约，因为它消耗更少能源。）"
+      }
+    },
+    {
+      "id": "economics",
+      "word": "economics",
+      "phonetic": "/ˌi:kə'nɔmiks/",
+      "meaning": "n.经济学,经济情况",
+      "similar": [
+        "economic",
+        "economical",
+        "economy"
+      ],
+      "question": {
+        "wordId": "economics",
+        "stem": "选择 \"economics\" 的正确中文意思：",
+        "correct": "n.经济学,经济情况",
+        "options": [
+          "n.经济学,经济情况",
+          "a.经济(上)的,经济学的",
+          "a.节约的,经济的",
+          "n.节约;经济"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 eco-（家、环境）+ nom-（管理、法则）+ -ics（学科）。核心动作：管理家庭或资源的法则，引申为研究资源配置的学科。",
+        "similarWarning": "economic（经济学的，经济的）与 economical（节约的）易混。economics 是学科名词，economic 是形容词表经济相关，economical 强调节省。",
+        "extendedMeaning": "在考研中常考“经济情况”而非学科本身，如 the economics of the situation（形势的经济因素）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "economy",
+      "word": "economy",
+      "phonetic": "/i'kɔnəmi/",
+      "meaning": "n.节约;经济",
+      "similar": [
+        "economic",
+        "ecology",
+        "economics",
+        "autonomy"
+      ],
+      "question": {
+        "wordId": "economy",
+        "stem": "选择 \"economy\" 的正确中文意思：",
+        "correct": "n.节约;经济",
+        "options": [
+          "n.生态学",
+          "a.经济(上)的,经济学的",
+          "n.经济学,经济情况",
+          "n.节约;经济"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根：eco-（家，环境）+ -nomy（管理，法则）。原指“家庭管理”，引申为“资源管理”，核心动作是“管理、节约资源”。",
+        "similarWarning": "economy（经济/节约） vs ecology（生态学，logy=学科） vs autonomy（自治，auto=自己，nomy=法则）",
+        "extendedMeaning": "在考研中常考“节约、节省”之义，如“economy of scale”（规模经济）中的非字面引申。",
+        "examUsage": "真题中常与“efficiency”并列考查，如“economy and efficiency”（节约与效率）。"
+      }
+    },
+    {
+      "id": "edge",
+      "word": "edge",
+      "phonetic": "/edʒ/",
+      "meaning": "n.边,棱;刀口,刃 v.侧身移动,挤进",
+      "similar": [
+        "hedge",
+        "wedge",
+        "pledge",
+        "badge",
+        "eager",
+        "eagle",
+        "judge",
+        "lodge"
+      ],
+      "question": {
+        "wordId": "edge",
+        "stem": "选择 \"edge\" 的正确中文意思：",
+        "correct": "n.边,棱;刀口,刃 v.侧身移动,挤进",
+        "options": [
+          "n.楔,楔形 vt.楔牢,楔入,挤进",
+          "n.篱笆,树篱,障碍物 v.用树篱围住",
+          "n.誓约;保证 v.发誓;保证",
+          "n.边,棱;刀口,刃 v.侧身移动,挤进"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "edge 源自原始印欧语 *ak-（尖、锋利），核心物理动作是“尖刺/锋利末端”。词根演变后指物体的最外边界或切削工具（刀、剑）的锋利部分，引申为“边缘”或“优势”。",
+        "similarWarning": "hedge（树篱；对冲） vs edge（边缘）：hedge 多一字母 h，侧重“屏障/规避风险”；wedge（楔子；挤入） vs edge：wedge 有 w，侧重“楔形物插入”；pledge（誓言） vs edge：pledge 以 p 开头，含义完全不同；badge（徽章） vs edge：badge 有 b，指“标志”；eager（渴望的） vs edge：eager 多 a，形容词；eagle（鹰） vs edge：eagle 多 a，指动物；judge（法官） vs edge：judge 多 j，指裁判；lodge（小屋；寄存） vs edge：lodge 有 l，指住所。",
+        "extendedMeaning": "（在竞争中）微弱优势、领先地位：如 competitive edge（竞争优势）。",
+        "examUsage": "真题中常考短语 on edge（紧张不安；烦躁）作为完形填空干扰项，或搭配 edge out（险胜；挤掉）在阅读中表示“以微弱优势击败”。"
+      }
+    },
+    {
+      "id": "edible",
+      "word": "edible",
+      "phonetic": "/'edibl/",
+      "meaning": "a.可食用的",
+      "similar": [
+        "bible",
+        "exile",
+        "enable",
+        "eligible",
+        "feasible",
+        "flexible",
+        "reliable",
+        "sensible"
+      ],
+      "question": {
+        "wordId": "edible",
+        "stem": "选择 \"edible\" 的正确中文意思：",
+        "correct": "a.可食用的",
+        "options": [
+          "n.流放；被流放者 vt.流放，放逐，把…充军",
+          "n.圣经",
+          "v.使能够,使成为可能;授予权利或方法",
+          "a.可食用的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根ed-（吃）+ -ible（能...的）→ 能吃的，可食用的。源自拉丁语edere（吃）。",
+        "similarWarning": "形近词对比：edible（可食用的）vs eligible（合格的，有资格的，词根leg-选择）vs feasible（可行的，词根fac-做）vs sensible（明智的，可察觉的，词根sens-感觉）。注意区分核心词根ed-（吃）、leg-（选择）、fac-（做）、sens-（感觉）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "edit",
+      "word": "edit",
+      "phonetic": "/'edit/",
+      "meaning": "v.编辑,校订",
+      "similar": [
+        "emit",
+        "exit",
+        "credit",
+        "editor",
+        "admit",
+        "audit",
+        "elite",
+        "exist"
+      ],
+      "question": {
+        "wordId": "edit",
+        "stem": "选择 \"edit\" 的正确中文意思：",
+        "correct": "v.编辑,校订",
+        "options": [
+          "v./n.信用,信任 n.信用贷款,赊欠;名誉,名望",
+          "n.出口,通道",
+          "vt.发出;放射;吐露;散发;发表;发行",
+          "v.编辑,校订"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 edere（给出，出版），由 e-（向外）+ dare（给）构成，核心动作是“把东西拿出来（发表）”，后引申为对文字内容进行整理、修改后出版，即“编辑、校订”。",
+        "similarWarning": "emit（发出，散发）：e（向外）+ mit（送），核心动作“向外送”，如 emit light（发光）。\nexit（出口，退出）：ex（向外）+ it（走），核心“走出去”，如 emergency exit（紧急出口）。\ncredit（信用，学分）：cred（相信）+ it，核心“相信”，如 credit card（信用卡）。\naudit（审计，旁听）：aud（听）+ it，核心“听”，如 audit report（审计报告）。\nelite（精英，精华）：源于拉丁语 eligere（选择），核心“被选出的”，如 elite athlete（精英运动员）。\nexist（存在）：ex（出）+ ist（站），核心“站出来”，如 exist in reality（存在于现实中）。",
+        "extendedMeaning": "在考研中常考“剪辑（影视、音频）”义，如 edit a film（剪辑电影）；亦引申为“主编（报刊、杂志）”，如 edit a newspaper（主编一家报纸）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "edition",
+      "word": "edition",
+      "phonetic": "/i'diʃən/",
+      "meaning": "n.版,版本,版次",
+      "similar": [
+        "addition",
+        "petition",
+        "editor",
+        "emotion",
+        "tuition",
+        "condition",
+        "education",
+        "reduction"
+      ],
+      "question": {
+        "wordId": "edition",
+        "stem": "选择 \"edition\" 的正确中文意思：",
+        "correct": "n.版,版本,版次",
+        "options": [
+          "n.版,版本,版次",
+          "n.编辑,编者",
+          "n.加，加法；附加部分，增加(物)",
+          "n.请愿书,申请书 v.(向…)请愿,正式请求"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"editio\"（出版、发表），由\"e-\"（向外）+\"dare\"（给予）+\"-tion\"（名词后缀）构成，核心动作是\"向外给出\"（即出版发行），后引申为出版物的\"版本\"。\",\n  \"similarWarning\": \"形近词辨析：addition（增加，加\"add\"）；petition（请愿，加\"pet\"请求）；editor（编辑，-or表人）；emotion（情感，e-+mot-移动）；tuition（学费，tuit-监护）；condition（条件，con-共同+dit-说）；education（教育，e-+duc-引导）；reduction（",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "editor",
+      "word": "editor",
+      "phonetic": "/'editə/",
+      "meaning": "n.编辑,编者",
+      "similar": [
+        "edition",
+        "edit"
+      ],
+      "question": {
+        "wordId": "editor",
+        "stem": "选择 \"editor\" 的正确中文意思：",
+        "correct": "n.编辑,编者",
+        "options": [
+          "n.版,版本,版次",
+          "n.编辑,编者",
+          "v.编辑,校订",
+          "a.(analytical)分析的；分解的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语e-（出）+ dare（给），原义为“给出（作品）”，后演变为“编辑”。核心动作：从原始材料中“提取并给出”最终出版物。",
+        "similarWarning": "edition（n.版本，版次）→ editor（n.编辑者，编者）。差异在词尾：-ion表“行为/结果”，-or表“人”。edit（v.编辑）为动词原形，editor为施动者。",
+        "extendedMeaning": "在考研阅读中可指“主编”（如editor-in-chief）或“社论撰写人”（如editorial writer），但editor本身无特殊僻义，此栏略。",
+        "examUsage": "考研真题中常与edit, edition构成形近干扰，重点辨析词性：editor是执行“编辑”动作的人，edition是编辑后的产物。无特殊固定搭配考点。"
+      }
+    },
+    {
+      "id": "editorial",
+      "word": "editorial",
+      "phonetic": "/ˌedi'tɔ:riəl/",
+      "meaning": "n.社论 a.社论的；编辑上的",
+      "similar": [
+        "auditorium",
+        "historical"
+      ],
+      "question": {
+        "wordId": "editorial",
+        "stem": "选择 \"editorial\" 的正确中文意思：",
+        "correct": "n.社论 a.社论的；编辑上的",
+        "options": [
+          "n.社论 a.社论的；编辑上的",
+          "n.观众席，听众席；会堂，礼堂",
+          "a.历史的;有关历史的",
+          "n.救护车，救护船，救护飞机"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由 editor（编辑）+ -ial（形容词后缀）构成，核心动作是“与编辑相关的”，引申为“社论的”，因社论是编辑部的观点表达。",
+        "similarWarning": "auditorium（礼堂，听众席）与 editorial 拼写差异在于 auditor-（听） vs. editor-（编辑）；historical（历史的）与 editorial 差异在于 histor-（历史） vs. editor-。",
+        "extendedMeaning": "在考研中，editorial 常作名词，指“（报刊的）社论”，强调权威评论而非普通文章。",
+        "examUsage": "常见搭配：editorial policy（编辑方针）、editorial page（社论版）。真题中常作为阅读题眼，如“The editorial criticized the government's policy.”"
+      }
+    },
+    {
+      "id": "educate",
+      "word": "educate",
+      "phonetic": "/'edju:keit/",
+      "meaning": "v.教育,培养,训练",
+      "similar": [
+        "dedicate",
+        "education",
+        "advocate",
+        "delicate",
+        "evacuate",
+        "indicate",
+        "meditate",
+        "regulate"
+      ],
+      "question": {
+        "wordId": "educate",
+        "stem": "选择 \"educate\" 的正确中文意思：",
+        "correct": "v.教育,培养,训练",
+        "options": [
+          "v.教育,培养,训练",
+          "vt.奉献;献身于",
+          "n.辩护者，拥护者，鼓吹者 vt.拥护，提倡",
+          "n.教育,培养,训练"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语educare，由e-（出）+ducere（引导）组成，核心动作是“引导出来”，即把内在的潜能或知识从人身上引导出来。",
+        "similarWarning": "dedicate：de-（向下）+dic（宣称），意为“致力于、奉献”，强调投入；educate强调引导。advocate：ad-（向）+voc（喊叫），意为“提倡、拥护”，强调公开支持。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "education",
+      "word": "education",
+      "phonetic": "/ˌedju:'keiʃən/",
+      "meaning": "n.教育,培养,训练",
+      "similar": [
+        "duration",
+        "equation",
+        "reduction",
+        "federation",
+        "indication",
+        "meditation",
+        "regulation",
+        "reputation"
+      ],
+      "question": {
+        "wordId": "education",
+        "stem": "选择 \"education\" 的正确中文意思：",
+        "correct": "n.教育,培养,训练",
+        "options": [
+          "n.(数学)等式,方程式;(with)相等;均衡",
+          "n.教育,培养,训练",
+          "n.减小,减少,缩小",
+          "n.持久;期间;持续时间"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根: e- (向外) + duc- (引导) + -ation (名词后缀)。核心物理动作: 将内在的潜能或知识从内部引导出来。教育不是灌输，而是引导、开发。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "effect",
+      "word": "effect",
+      "phonetic": "/i'fekt/",
+      "meaning": "n.结果;效果;影响;印象 vt.招致;实现;达到",
+      "similar": [
+        "affect",
+        "reflect",
+        "eject",
+        "elect",
+        "erect",
+        "defect",
+        "effort",
+        "expect"
+      ],
+      "question": {
+        "wordId": "effect",
+        "stem": "选择 \"effect\" 的正确中文意思：",
+        "correct": "n.结果;效果;影响;印象 vt.招致;实现;达到",
+        "options": [
+          "n.结果;效果;影响;印象 vt.招致;实现;达到",
+          "vt.影响；(疾病)侵袭；感动 n.情感，感情",
+          "v.反射,反映,表现,反省,沉思",
+          "v.喷射,排出;驱逐"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "effect = ef-（=ex-，向外）+ -fect-（做）→“做出来”的结果或影响。核心动作：将内在的因“做出来”成为外在的果。",
+        "similarWarning": "affect（v.影响，假装）vs. effect（v.实现，招致）：a-强调“对…施加作用”，ef-强调“产生结果”；affect通常作动词，effect作名词更常见，作动词意为“导致”。",
+        "extendedMeaning": "【熟词僻义】①（n.）印象，感受：如“personal effect”（个人物品）中的effect实为“财物”义；②（v.）招致，实现：如“effect a change”（实现变革），此义在考研阅读中常作动词考点。",
+        "examUsage": "【真题考点】①“in effect”表示“实际上/在实施中”，为阅读常考短语；②“take effect”表示“生效/起作用”，常用于法律或医学语境；③“cause and effect”为逻辑关系题眼，需区分“结果”与“影响”。"
+      }
+    },
+    {
+      "id": "effective",
+      "word": "effective",
+      "phonetic": "/i'fektiv/",
+      "meaning": "a.有效的,生效的;被实施的;给人深刻印象",
+      "similar": [
+        "respective",
+        "adjective",
+        "affection",
+        "detective",
+        "executive",
+        "objective",
+        "offensive",
+        "perspective"
+      ],
+      "question": {
+        "wordId": "effective",
+        "stem": "选择 \"effective\" 的正确中文意思：",
+        "correct": "a.有效的,生效的;被实施的;给人深刻印象",
+        "options": [
+          "n.形容词 a.形容词的，用作形容词的",
+          "a.各自的,各个的",
+          "n.爱，喜爱；爱慕之情；感情；疾病，不适",
+          "a.有效的,生效的;被实施的;给人深刻印象"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根词缀逻辑：由前缀ex-（出，向外）+词根fect（做，制造）+形容词后缀-ive（有...性质的）构成。核心动作是“做出来并产生结果”，即“能产生预期效果的”。",
+        "similarWarning": "形近词对比：effective vs. efficient。effective强调“达到预期效果/目标”，侧重结果；efficient强调“高效/省时省力”，侧重过程。",
+        "extendedMeaning": "考研僻义：给人深刻印象的（如effective speech）。",
+        "examUsage": "真题考点：固定搭配take effective measures（采取有效措施）；真题例句：The government should take effective measures to curb pollution.（政府应采取有效措施遏制污染。）"
+      }
+    }
+  ]
+}

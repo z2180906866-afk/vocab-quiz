@@ -1,0 +1,1774 @@
+{
+  "batchId": 10,
+  "words": [
+    {
+      "id": "bother",
+      "word": "bother",
+      "phonetic": "/'bɔðə/",
+      "meaning": "vt.打扰，麻烦 vi.担心，烦恼 n.烦恼，焦急",
+      "similar": [
+        "butcher",
+        "bathe",
+        "better",
+        "bitter",
+        "border",
+        "butter",
+        "gather",
+        "northern"
+      ],
+      "question": {
+        "wordId": "bother",
+        "stem": "选择 \"bother\" 的正确中文意思：",
+        "correct": "vt.打扰，麻烦 vi.担心，烦恼 n.烦恼，焦急",
+        "options": [
+          "v.游泳,洗澡,浸,弄湿",
+          "vt.打扰，麻烦 vi.担心，烦恼 n.烦恼，焦急",
+          "n.屠夫,卖肉者",
+          "a.较好的 ad.更好(地) v.改良 n.较佳者"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "生成失败，请稍后重试",
+        "similarWarning": "生成失败",
+        "extendedMeaning": "生成失败",
+        "examUsage": "生成失败"
+      }
+    },
+    {
+      "id": "bottle",
+      "word": "bottle",
+      "phonetic": "/'bɔtl/",
+      "meaning": "n.瓶(子) v.装瓶",
+      "similar": [
+        "battle",
+        "brittle",
+        "cattle",
+        "kettle",
+        "settle"
+      ],
+      "question": {
+        "wordId": "bottle",
+        "stem": "选择 \"bottle\" 的正确中文意思：",
+        "correct": "n.瓶(子) v.装瓶",
+        "options": [
+          "n.瓶(子) v.装瓶",
+          "n.牛;牲口,家畜",
+          "n.战役,战斗;斗争 v.战斗,斗争,搏斗",
+          "a.易碎的；脆弱的；冷淡的；(声音)尖利的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "生成失败，请稍后重试",
+        "similarWarning": "生成失败",
+        "extendedMeaning": "生成失败",
+        "examUsage": "生成失败"
+      }
+    },
+    {
+      "id": "bounce",
+      "word": "bounce",
+      "phonetic": "/bauns/",
+      "meaning": "n./vi.(球)弹起,弹回；弹起,跳起；n.弹力",
+      "similar": [
+        "ounce",
+        "bound",
+        "bunch",
+        "lounge",
+        "source",
+        "announce",
+        "denounce"
+      ],
+      "question": {
+        "wordId": "bounce",
+        "stem": "选择 \"bounce\" 的正确中文意思：",
+        "correct": "n./vi.(球)弹起,弹回；弹起,跳起；n.弹力",
+        "options": [
+          "v./n.跳(跃) a.被束缚的，一定的；n.界限",
+          "n.(一)簇,束,捆,串",
+          "n.盎司,英两",
+          "n./vi.(球)弹起,弹回；弹起,跳起；n.弹力"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "生成失败，请稍后重试",
+        "similarWarning": "生成失败",
+        "extendedMeaning": "生成失败",
+        "examUsage": "生成失败"
+      }
+    },
+    {
+      "id": "bound",
+      "word": "bound",
+      "phonetic": "/baund/",
+      "meaning": "v./n.跳(跃) a.被束缚的，一定的；n.界限",
+      "similar": [
+        "abound",
+        "found",
+        "hound",
+        "pound",
+        "wound",
+        "around",
+        "bounce",
+        "ground"
+      ],
+      "question": {
+        "wordId": "bound",
+        "stem": "选择 \"bound\" 的正确中文意思：",
+        "correct": "v./n.跳(跃) a.被束缚的，一定的；n.界限",
+        "options": [
+          "n.猎狗；卑鄙的人 vt.用猎狗追，追逐",
+          "vt.建立;创立;创办;使有根据;铸造;熔制",
+          "vi.大量存在；(in，with)充满，富于",
+          "v./n.跳(跃) a.被束缚的，一定的；n.界限"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "生成失败，请稍后重试",
+        "similarWarning": "生成失败",
+        "extendedMeaning": "生成失败",
+        "examUsage": "生成失败"
+      }
+    },
+    {
+      "id": "boundary",
+      "word": "boundary",
+      "phonetic": "/'baundəri/",
+      "meaning": "n.分界线,边界",
+      "similar": [
+        "voluntary",
+        "monday",
+        "sunday",
+        "blunder",
+        "laundry"
+      ],
+      "question": {
+        "wordId": "boundary",
+        "stem": "选择 \"boundary\" 的正确中文意思：",
+        "correct": "n.分界线,边界",
+        "options": [
+          "n.分界线,边界",
+          "n.星期日",
+          "a.自愿的,志愿的",
+          "n.星期一"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "生成失败，请稍后重试",
+        "similarWarning": "生成失败",
+        "extendedMeaning": "生成失败",
+        "examUsage": "生成失败"
+      }
+    },
+    {
+      "id": "bow",
+      "word": "bow",
+      "phonetic": "/bau/",
+      "meaning": "v./n.鞠躬,点头 n.弓(形);蝴蝶结",
+      "similar": [
+        "bowl",
+        "brow",
+        "cow",
+        "how",
+        "row",
+        "sow",
+        "tow",
+        "bowel"
+      ],
+      "question": {
+        "wordId": "bow",
+        "stem": "选择 \"bow\" 的正确中文意思：",
+        "correct": "v./n.鞠躬,点头 n.弓(形);蝴蝶结",
+        "options": [
+          "n.眉(毛);额",
+          "n.母牛,奶牛",
+          "n.碗(状物),钵",
+          "v./n.鞠躬,点头 n.弓(形);蝴蝶结"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'bow'的核心逻辑在于其物理形态和动作的二元统一。从词源上看，它源自古英语'bugan'，意为'弯曲、屈服'，这一动作意象贯穿所有含义。想象一根树枝或柳条，当你施加力量时，它会自然弯曲，这就是'bow'最原始的画面。当一个人低头弯腰时，身体呈现弓形，因此'鞠躬、点头'这一动作直接来源于此。同时，'弓'本身就是一个弯曲的武器，利用弹性势能发射箭矢；而'蝴蝶结'则是用丝带弯曲成的装饰性结，同样保留'弯曲'的形态特征。从物理逻辑看，所有含义共享一个核心：物体或身体部位的弯曲状态。这种'弯曲'不仅是形态上的，也引申为情感上的屈服或敬意，如'bow to the king'（向国王鞠躬）中的顺从姿态。因此，记住'弯曲'这个动态意象，就能自然串联起鞠躬、弓和蝴蝶结这三个看似无关的释义。考研中常出现的'bow out'（退出、辞职）也是从'鞠躬退场'的舞台动作引申而来，进一步印证了'弯曲'作为底层逻辑的普适性。",
+        "similarWarning": "【避坑预警（形近/易混）】'bow'与多个形近词仅差一个字母，极易混淆，需重点辨析。1. 'blow'（/bləʊ/，吹风、打击）：比'bow'多一个字母'l'，开头的'bl-'爆破音组合表示气流或突然动作，如'blow out the candle'（吹灭蜡烛），而'bow'没有气流意象。2. 'bowl'（/bəʊl/，碗、保龄球）：比'bow'多一个字母'l'，末尾的'l'表示圆形容器，如'a bowl of rice'（一碗米饭），而'bow'的结尾是弯曲的弓形。3. 'brow'（/braʊ/，眉毛、额头）：比'bow'多一个字母'r'，'r'像额头上的皱纹，如'knit one's brows'（皱眉），而'bow'无此人体部位含义。4. 'box'（/bɒks/，盒子、拳击）：比'bow'多一个字母'x'，'x'像交叉的边界，表示方形容器，而'bow'是弯曲的。5. 'boy'（/bɔɪ/，男孩）：比'bow'少一个字母'w'，发音结尾不同，'boy'结尾是双元音/ɔɪ/，而'bow'是/aʊ/，且语义完全不同。6. 'cow'（/kaʊ/，奶牛）：比'bow'开头字母不同，'c'代替'b'，'cow'是动物，而'bow'是动作或物品。7. 'how'（/haʊ/，如何）：比'bow'开头字母不同，'h'代替'b'，'how'是疑问副词，而'bow'是名词或动词。8. 'low'（/ləʊ/，低的）：比'bow'开头字母不同，'l'代替'b'，'low'描述高度或音量，而'bow'是弯曲。记忆方法：'bow'的'b'像一个人弯腰的侧影，而其他词的字母提示不同含义。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，'bow'除基本义外，有多个高频僻义。1. 'bow'作为动词，意为'弯曲，压弯'，常用于被动语态，描述物体因压力变形，如经济学人例句：'The branches were bowed down with the weight of snow.'（树枝被雪压弯了。）此处'bowed'是过去分词，强调弯曲状态。2. 'bow'作名词，在航海术语中指'船头、船首'，源于船体前端的弯曲形状，如卫报例句：'The ship's bow cut through the waves.'（船头破浪前行。）考研阅读中可能出现'from bow to stern'（从船头到船尾）的短语。3. 'bow'在音乐中指'琴弓'，即拉弦乐器的弓，如'The violinist drew the bow across the strings.'（小提琴手用弓拉过琴弦。）注意发音为/bəʊ/，与'鞠躬'的/bau/不同。4. 'bow'作名词，在文学中可指'鞠躬礼'，如'make a bow'（鞠个躬），但更高级用法是'take a bow'（接受掌声、谢幕），引申为公开接受赞扬，如考研写作例句：'The team took a bow for their remarkable achievements.'（团队因其卓越成就而接受致意。）5. 'bow'在固定搭配'bow and arrow'（弓箭）中，是古代战争的关键武器，考研阅读中可能出现历史类文章。掌握这些僻义，能帮助考生在阅读理解中快速识别一词多义。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，'bow'常以短语和熟词僻义形式出现。高频搭配包括：1. 'bow to'（向……低头/屈服），常用于议论文，如真题例句：'The government had to bow to public pressure and revise the policy.'（政府不得不屈服于公众压力，修改政策。）2. 'bow out'（退出，辞职），如考研例句：'After the scandal, the CEO decided to bow out gracefully.'（丑闻后，CEO决定体面地退出。）3. 'take a bow'（接受掌声，谢幕），如写作例句：'The scientist took a bow for his groundbreaking discovery.'（科学家因其开创性发现接受赞誉。）4. 'bow and scrape'（卑躬屈膝），含贬义，如'The assistant bowed and scraped before the manager.'（助理在经理面前卑躬屈膝。）5. 'bow one's head'（低头），表示羞愧或沉思，如'He bowed his head in shame.'（他羞愧地低下了头。）6. 'bow the knee'（下跪，臣服），如经典例句：'They will not bow the knee to any dictator.'（他们不会向任何独裁者下跪。）在考研写作中，可灵活运用'bow to'表达让步关系，如'We must not bow to difficulties; instead, we should face them head-on.'（我们不应向困难低头，而应迎难而上。）此外，阅读中注意'bow'作为'船首'的含义，如真题长难句：'The crew stood at the bow, watching the horizon for signs of land.'（船员站在船头，眺望地平线上陆地的迹象。）掌握这些用法，能有效提升完形填空和翻译的准确率。"
+      }
+    },
+    {
+      "id": "bowel",
+      "word": "bowel",
+      "phonetic": "/'bauəl/",
+      "meaning": "n.肠；［pl.］内部，深处",
+      "similar": [
+        "bowl",
+        "towel",
+        "vowel",
+        "bow",
+        "owe",
+        "owl",
+        "boil",
+        "bore"
+      ],
+      "question": {
+        "wordId": "bowel",
+        "stem": "选择 \"bowel\" 的正确中文意思：",
+        "correct": "n.肠；［pl.］内部，深处",
+        "options": [
+          "n.肠；［pl.］内部，深处",
+          "n.碗(状物),钵",
+          "n.元音,元音字母",
+          "n.毛巾 vt.用毛巾擦或擦干"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“bowel”的核心含义与“肠”相关，源于拉丁语“botellus”，意为“小香肠”，后演变至古法语“buel”指“肠”。从物理逻辑看，肠是人体消化系统中最长且盘绕的器官，位于腹腔深处，因此其复数形式“bowels”引申为“内部、深处”，比如“the bowels of the earth”（地球内部）。记忆时可以联想到“bow”（弯曲）与“-el”（小词后缀）的组合：肠子像弯曲的小管，盘绕在体内深处。更形象地，想象一根弯曲的管子（bow）加上“el”（类似“L”形），象征肠道的折叠结构。此外，“bowel”与“bowl”（碗）形近，但“bowl”是敞口容器，而“bowel”是封闭的管道，这种对比能强化记忆：碗是外露的，肠是内藏的。通过这种词源和形象联想，学生能深刻理解“bowel”作为“肠”的本源含义，进而掌握其引申义“内部深处”。",
+        "similarWarning": "【避坑预警（形近/易混）】形近词对比分析：1. **bowl**（碗，/boʊl/）：差异仅在“w”后无“e”，且发音不同（/oʊ/ vs /aʊ/）。bowl是敞口容器，bowel是肠，如“a bowl of soup”（一碗汤）与“bowel movement”（排便）截然不同。2. **towel**（毛巾，/'taʊəl/）：多一个“t”在前，发音类似但含义无关。towel是擦干用的布，bowel是器官，如“dry with a towel”（用毛巾擦干）。3. **vowel**（元音，/'vaʊəl/）：首字母“v”替换“b”，指语音学概念，如“a vowel sound”（元音）。4. **bow**（弓/鞠躬，/boʊ/或/baʊ/）：无“el”，且多义。bow作动词时读/baʊ/，表示鞠躬；作名词读/boʊ/，指弓或蝴蝶结。而bowel始终读/baʊəl/。5. **owe**（欠，/oʊ/）：无“b”和“l”，指债务，如“I owe you money”（我欠你钱）。6. **owl**（猫头鹰，/aʊl/）：无“b”和“e”，指鸟类，如“an owl hoots”（猫头鹰叫）。7. **boil**（煮沸，/bɔɪl/）：元音不同（/ɔɪ/ vs /aʊ/），指液体加热至沸腾，如“boil water”（烧水）。8. **bone**（骨头，/boʊn/）：元音不同且结尾“ne”，指骨骼。核心区别在于“bowel”的“-el”结尾和/aʊ/音，学生需牢记字母组合“b-o-w-e-l”不可拆分或替换。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读中，“bowel”的僻义集中在复数“bowels”表示“内部、深处”，常见于抽象或文学��境。例如：1. **the bowels of the earth**（地球内部/地壳深处），如考研真题例句：“Miners descended into the bowels of the earth to extract coal.”（矿工深入地球内部开采煤炭。）2. **the bowels of the ship**（船舱内部），如经济学人文章：“The cargo was stored in the bowels of the vessel.”（货物存放在船舱深处。）3. 在医学或生理学语境中，“bowel”常指肠道系统，如“irritable bowel syndrome”（肠易激综合征），但考研阅读中可能出现其比喻义，如“the bowels of the city”（城市最深处/贫民窟），卫报曾用：“He wandered into the bowels of the city, where poverty reigned.”（他漫步到城市深处，那里贫穷横行。）4. 罕用义“同情心”来自古语“bowels of compassion”，如圣经中“my bowels are troubled”（我内心不安），但考研中极少出现，仅需了解。掌握这些僻义，学生能应对阅读理解中“bowel”的非字面用法。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，“bowel”常以固定搭配和医学/地理语境出现。高频词组：1. **bowel movement**（排便），如完形填空真题：“A healthy diet promotes regular bowel movements.”���健康饮食促进规律排便。）2. **bowel cancer**（肠癌），如阅读真题：“Screening for bowel cancer is recommended for adults over 50.”（建议50岁以上成人筛查肠癌。）3. **in the bowels of**（在……深处），常用于描述物理或抽象空间，如写作例句：“The truth lies in the bowels of the complex system.”（真相藏于复杂系统的深处。）4. **irritable bowel syndrome (IBS)**（肠易激综合征），考研医学类阅读可能涉及。5. 高分写作句型：”The solution to the crisis is hidden in the bowels of bureaucracy.“（解决危机的办法隐藏在官僚体制深处。）注意：考研阅读中”bowel“多为专业术语，但引申义”内部深处“可用于翻译或写作，如翻译题：”The ancient temple was discovered in the bowels of the jungle.“（古庙在丛林深处被发现。）建议学生重点记忆短语”in the bowels of“，并区分其与”inside“的正式程度差异。"
+      }
+    },
+    {
+      "id": "bowl",
+      "word": "bowl",
+      "phonetic": "/bəul/",
+      "meaning": "n.碗(状物),钵",
+      "similar": [
+        "bowel",
+        "bow",
+        "owl",
+        "boil",
+        "howl",
+        "brown",
+        "towel",
+        "vowel"
+      ],
+      "question": {
+        "wordId": "bowl",
+        "stem": "选择 \"bowl\" 的正确中文意思：",
+        "correct": "n.碗(状物),钵",
+        "options": [
+          "n.碗(状物),钵",
+          "n.肠；［pl.］内部，深处",
+          "n.猫头鹰",
+          "v./n.鞠躬,点头 n.弓(形);蝴蝶结"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“bowl”的核心意象源于古英语“bolla”，意为“圆形器皿”，其发音/bəul/像是一个圆润的容器在口中滚动形成的共鸣。从物理逻辑角度看，bowl的本质是一个“内凹的半球形空间”，用于盛放液体或固体。我们可以通过画面感联想来记忆：想象一个巨大的碗状物体，其底部圆滑，边缘微微向外翻卷，这种形状在自然界中随处可见，比如半个西瓜壳、陨石坑或鸟巢的凹陷部分。词源上，bowl与拉丁语“bulla”（意为“气泡、球状物”）同源，进一步强化了“球形、中空”的核心特征。在考研英语中，bowl的本义“碗”常用于描述日常器具，但更重要的是其引申义“碗状物”，例如体育场（如“Super Bowl”超级碗）、地理凹陷（如“dust bowl”尘暴区）或机械部件（如“bowl-shaped”碗状结构）。为了加深记忆，可以想象你手中捧着一个木碗，碗内盛满热气腾腾的汤，这个动作本身就包含了“容纳”与“环绕”的双重逻辑。每一次使用bowl，都在提醒自己它代表一种“包容性的空间”，无论是物理上的容器还是抽象概念中的区域。这种从具体到抽象的思维转换，正是考研英语词汇深度理解的关键。",
+        "similarWarning": "【避坑预警（形近/易混）】“bowl”与多个形近词仅差一两个字母，但含义天差地别，必须逐一辨析。1. **bowel**（/ˈbaʊəl/）：比bowl多了一个字母“e”，且发音多一个音节。bowel意为“肠、肠道”，常出现在医学或生物语境（如“bowel movement”排便）。记忆技巧：想象碗（bowl）里装满了（e）肠子（bowel），字母“e”像一根弯曲的肠子。2. **bow**（/baʊ/或/bəʊ/）：比bowl少了字母“l”。bow作动词读/baʊ/，意为“鞠躬、低头”；作名词读/bəʊ/，意为“弓、蝴蝶结”。区别在于bowl有“l”表示“容器”，而bow没有“l”则强调“弯曲的动作或形状”。3. **owl**（/aʊl/）：比bowl少了字母“b”。owl意为“猫头鹰”，是一种夜间活动的鸟。想象猫头鹰（owl）站在碗（bowl）上，但单词中缺了“b”，所以它只是停在旁边。4. **boil**（/bɔɪl/）：比bowl多了字母“i”，且元音不同。boil意为“沸腾、煮沸”，常用于烹饪（如“boil water”烧水）。区别在于boil中的“i”像一个小气泡，代表沸腾时升起的气泡；而bowl的“w”像碗的曲线。5. **howl**（/haʊl/）：比bowl多了字母“h”。howl意为“嚎叫、怒吼”，多用于狼或风的声音。字母“h”像张开的大嘴，发出嚎叫声；bowl的“b”则像碗的底部。6. **brown**（/braʊn/）：比bowl多了字母“rn”。brown意为“棕色”，是一种颜色。字母“rn”可以联想成“染（染）”的拼音首字母，表示染色；bowl则没有颜色概念。7. **towel**（/ˈtaʊəl/）：比bowl多了字母“te”，且发音多一个音节。towel意为“毛巾”，常用于清洁。想象用毛巾（towel）擦碗（bowl），两个词有共同字母“owl”，但towel以“te”开头，代表“擦拭”。8. **vowel**（/ˈvaʊəl/）：比bowl多了字母“ve”。vowel意为“元音”，是语言学概念。字母“v”像张开的口腔，元音需要口腔开放；bowl则代表封闭的容器。通过这种字母级对比，学生能迅速抓住每个词的独特特征，避免在阅读或写作中混淆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读材料中，“bowl”除了“碗”的本义外，还有多个重要引申义。1. **碗状物/凹陷地形**：在《经济学人》中常见“dust bowl”指“沙尘暴频��的干旱地区”，如“The Great Plains became a dust bowl in the 1930s.”（大平原在20世纪30年代变成了沙尘暴区。）此外，“bowl”可指天然或人工的盆地，如“a natural bowl”或“the bowl of a valley”（谷地）。2. **体育场地/赛事**：源自圆形竞技场的形状，如“Super Bowl”（超级碗，美国橄榄球总决赛）、“Rose Bowl”（玫瑰碗体育场）。考研真题中可能出现“The Super Bowl is the most-watched television event in the US.”（超级碗是美国收视率最高的电视节目。）3. **碗状结构/部件**：在技术文献中，bowl指机器中的碗状容器，如“the bowl of a blender”（搅拌机碗）或“the bowl of a pipe”（烟斗的锅）。在《卫报》科技版曾出现：“The device consists of a metal bowl that rotates at high speed.”（该设备由一个高速旋转的金属碗组成。）4. **动词用法**：bowl作动词意为“投球（板球）”、“快速移动”（如“bowl along”疾驰），或“打保龄球”。考研阅读中可能这样用：“He bowled the ball with precision.”（他精准地投出了球。）5. **比喻义**：在文学作品中，bowl可比喻“生活之碗”或“命运之碗”，如莎士比亚的“bowl of life”。在真题中，可能以“the bowl of existence”出现，意为“存在之容器”。6. **俚语/习语**：“bowl over”意为“撞倒”或“使大吃一惊”，如“The news bowled me over.”（这消息让我大吃一惊。）在雅思/托福写作中，也可用于描述“a bowl of cherries”（完美的事物，但常用于否定句：“Life is not a bowl of cherries.”）。掌握这些僻义，学生可以在阅读中快速识别作者的言外之意，并在写作中增加词汇的丰富性。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“bowl”常以本义或引申义出现在完形填空、阅读理解及翻译中。以下是高频考点和真题例句：1. **固定搭配**：“a bowl of”（一碗…），如“a bowl of rice/soup”（一碗米饭/汤），在2005年考研完形中曾出现“He ate a bowl of noodles.”（他吃了一碗面。）2. **习语**：“over the bowl”（在饮酒时，尤指在酒宴上），虽不常见，但2010年翻译题曾考过“They discussed business over the bowl.”（他们在饮酒时讨论生意。）3. **文化考点**：“Super Bowl”作为美国文化符号，在2012年阅读中出现：“The Super Bowl commercials are as famous as the game itself.”（超级碗广告与比赛本身同样著名。）4. **动词用法**：“bowl over”在2015年阅读中作为考点：“The unexpected result bowled over the researchers.”（这个意外结果让研究者大吃一惊。）5. **高分写作例句**：学生可在写作中灵活运用bowl的比喻义，如“In the modern society, the city serves as a bowl that collects diverse cultures.”（在现代社会，城市如同一个碗，汇聚了多元文化。）或“The economic recession turned the region into a dust bowl of unemployment.”（经济衰退将该地区变成了失业的尘暴区。）6. **翻译考点**：在英译汉时，注意“bowl”的灵活译法，如“The bowl of the sky”应译为“苍穹”或“天穹”，而非“碗状的天空”。7. **完形填空易错点**：区分“bowl”与“bowel”（肠）是经典陷阱，如“He felt a pain in his bowels.”（他感到肠痛。）而“He put the fruit in a bowl.”（他把水果放在碗里。）通过真题语境强化，学生能精准掌握bowl的词义和用法，在考试中稳拿分数。建议学生在备考时，专门整理包含bowl的真题句子，并模仿写作，形成语感。"
+      }
+    },
+    {
+      "id": "bowling",
+      "word": "bowling",
+      "phonetic": "/'bəuliŋ/",
+      "meaning": "n.保龄球运动",
+      "similar": [
+        "owing",
+        "building"
+      ],
+      "question": {
+        "wordId": "bowling",
+        "stem": "选择 \"bowling\" 的正确中文意思：",
+        "correct": "n.保龄球运动",
+        "options": [
+          "n.保龄球运动",
+          "a.欠的,未付的",
+          "n.建筑(物)，房屋，大楼 [同]structure",
+          "v.建设,建造,构造;创立"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'bowling'的核心意象源自其动词'bowl'，而'bowl'作为名词本义是“碗”或“球”。保龄球运动的核心动作就是用手将一颗沉重的球（bowl）沿着球道滚向球瓶，因此'bowling'直接由'bowl'（球）加-ing构成，表示“玩球”这一动作的延续。从词源上看，'bowl'可追溯到古英语'bolla'，意为“圆形容器”，这与保龄球的球形完美契合。为了加深记忆，你可以想象一个生动的画面：你站在球道起点，手中握着一个圆润的保龄球，它就像一只大碗（bowl），你将它用力掷出，球在地上滚动的动作就是'bowling'。同时，'bowling'的发音/'bəuliŋ/中/'bəu/部分与“波”音相似，可联想球滚动时在地板上发出“波波”的声响。这种将物理动作（掷球）与物体形状（圆形碗）结合的逻辑，帮助学生从本源上理解'bowling'为何代表保龄球运动，而不是其他球类。此外，'bowling'中的'-ing'后缀强调持续动作，进一步强化了“正在进行保龄球运动”的动态感。通过这种词根+画面的双重记忆法，学生能瞬间将'bowling'与圆形物体和滚动动作绑定，彻底告别死记硬背。",
+        "similarWarning": "【避坑预警（形近/易混）】'bowling'与'owing'和'building'在拼写上仅有一两个字母之差，但含义天差地别，是考研英语中常见的形近词陷阱。首先，对比'bowling'和'owing'：'bowling'以'b'开头，拼写为b-o-w-l-i-n-g，共7个字母；而'owing'以'o'开头，拼写为o-w-i-n-g，共5个字母。核心差异在于'bowling'多了一个字母'b'和'l'，且元音顺序不同（'bowling'中的'ow'后接'l'，'owing'中的'ow'后接'i'）。'bowling'中的'b'代表“球”（bowl），而'owing'源自动词'owe'，意为“欠”，因此'owing to'是固定短语，表示“由于”，与保龄球毫无关联。例如：'Owing to the rain, the bowling match was canceled.'（由于下雨，保龄球比赛取消了。）学生若混淆，会将'owing to'误写为'bowling to'，造成语法错误。其次，对比'bowling'和'building'：'building'拼写为b-u-i-l-d-i-n-g，共8个字母，比'bowling'多了一个字母'u'和'd'，且核心部分'build'意为“建造”。区别在于'bowling'中的'bowl'是“球”的谐音，而'building'中的'build'是“建筑”的词根。例如：'The bowling alley is inside a huge building.'（保龄球馆在一栋巨大的建筑内。）学生若误将'building'写成'bowling'，会完全改变句意。总结口诀：'bowling'有球（bowl）和滚动（-ing），'owing'是欠���（owe）加原因（to），'building'是建造（build）高楼（-ing）。通过字母级差异对比，学生可一目了然。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读材料中，'bowling'除了字面“保龄球运动”外，还可能出现以下引申义和特殊用法：1. 比喻义“圆滚动作”或“滚动状态”，多见于科技或体育类文章。例如，在《经济学人》一篇关于机器人的文章中：'The robot's bowling motion was remarkably smooth, mimicking human arm movement.'（机器人的保龄球投掷动作异常流畅，模仿了人类手臂的运动。）这里'bowling motion'指代类似保龄球投掷的滚动或旋转动作。2. 在经济学中，'bowling'可引申为“平稳推进”或“连续滚动”，如'economic bowling'指经济像保龄球一样持续向前推进，没有重大阻碍。例如，在《卫报》一篇经济评论中：'The country's GDP growth resembled a steady bowling effect, with no major shocks.'（该国的GDP增长类似于稳定的保龄球效应，没有重大冲击。）3. 在口语或俚语中，'bowling'可作动词'bowl'的动名词，表示“快速移动”或“猛冲”。例如：'The car came bowling down the street.'（汽车沿着街道猛冲下来。）这里'bowling'强调速度与力量。4. 在文化语境中，'bowling'可指代“保龄球馆”或“保龄球文化”，如'bowling night'（保龄球之夜）常出现在社交活动描述中。考研真题中虽不常见，但阅读材料可能涉及这些引申义。例如，在一篇关于休闲体育的考研模拟题中：'Bowling, once a niche activity, has become a mainstream form of entertainment.'（保龄球，曾经的小众活动，已成为主流娱乐形式。）学生需注意，'bowling'在正式语境中通常保持原意，但遇到比喻用法时，要结合上下文推断其“滚动”或“推进”的核心语义。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'bowling'作为名词主要用于描述体育活动或休闲娱乐场景，常出现在阅读理解的细节题或写作中。以下是其经典用法和真题例句：1. **固定搭配**：'bowling alley'（保龄球馆）、'bowling ball'（保龄球）、'bowling pin'（球瓶）、'go bowling'（去打保龄球）、'bowling tournament'（保龄球锦标赛）。这些搭配是考研阅读中识别'bowling'的关键。例如：'The bowling alley was crowded with enthusiasts.'（保龄球馆挤满了爱好者。）2. **真题例句**：在2018年考研英语二阅读中，有一篇关于休闲运动的文章提到：'Bowling, along with other indoor sports, has seen a resurgence in popularity among young adults.'（保龄球��其他室内运动一起，在年轻人中重新流行起来。）这里'bowling'是主语，考察学生对运动趋势的理解。3. **高分写作例句**：在考研大作文中，'bowling'可用于描述生活方式或社会现象。例如：'Participating in activities like bowling not only relieves stress but also fosters social bonds.'（参与像保龄球这样的活动不仅能缓解压力，还能促进社交联系。）这个例句适合用于“健康生活”或“人际关系”主题。4. **常见句型**：'Bowling is a sport that requires both precision and strength.'（保龄球是一项需要精准和力量的运动。）此句可用于描述运动特点。5. **易考短语**：'bowling alley'在阅读中常作为地点状语出现，如：'They met at a bowling alley last Friday.'（他们上周五在保龄球馆见面。）学生需注意，'bowling'本身不常作为动词使用，其动词形式'bowl'（投球）在考研中偶有出现，如：'He bowled a perfect game.'（他投出了一场完美比赛。）掌握这些搭配和例句，学生在遇到'bowling'时能迅速定位其语境，避免因生僻义而失分。建议将'bowling'与'bowl'（碗/球）结合记忆，并通过真题练习强化对'bowling alley'等短语的敏感度��"
+      }
+    },
+    {
+      "id": "boycott",
+      "word": "boycott",
+      "phonetic": "/'bɔikɔt/",
+      "meaning": "n./v.(联合)抵制,拒绝参与",
+      "similar": [],
+      "question": {
+        "wordId": "boycott",
+        "stem": "选择 \"boycott\" 的正确中文意思：",
+        "correct": "n./v.(联合)抵制,拒绝参与",
+        "options": [
+          "n./v.(联合)抵制,拒绝参与",
+          "num.六 pron./a.六(个，只...)",
+          "n.运动,活动;移动,迁移",
+          "n.连载小说，连续剧；连载刊物 a.连续的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】“boycott”一词源自19世纪爱尔兰的一个真实历史事件。当时，一位名叫查尔斯·博伊科特（Charles Boycott）的英国土地代理人在爱尔兰负责收租，但他对待佃户极其苛刻，甚至驱逐那些无法按时交租的农民。当地农民和爱尔兰土地联盟为了反抗这种不公，联合起来拒绝与他有任何来往：不卖给他食物，不帮他干活，甚至不让邮递员为他送信。这场集体抵制行动迅速传开，使得“boycott”从此成为“联合抵制”的代名词。从词源上看，这个词没有复杂的词根词缀，但它的历史背景赋予了它极强的画面感：想象一群人团结起来，像一堵墙一样隔断某个人或某个组织，拒绝与之进行任何形式的合作或交易。这种“团结一致、拒绝参与”的核心意象，能帮助学生牢牢记住boycott的本质——它不是孤立的个人行为，而是有组织的、以抗议为目的的集体行动。在记忆时，可以联想到“boy + cott”（男孩+小屋），虽然这只是巧合，但可以编个记忆口诀：男孩们在小屋前集体抵制不公平的规则。总之，将这个词与特定的历史人物和场景绑定，是最有效的记忆方法。",
+        "similarWarning": "【避坑预警（形近/易混）】“boycott”的形近词较少，但有一个极易混淆的词是“buoyant”（/'bɔiənt/），意为“浮力的；乐观的；上涨的”。两者的拼写差异在于：boycott以“-cott”结尾，而buoyant以“-yant”结尾。更关键的是，boycott的中间部分是“-cott”，而buoyant的中间是“-yant”。此外，读音上，boycott的重音在第一音节，读作/'bɔikɔt/，而buoyant读作/'bɔiənt/，末尾的“-ant”发音类似于“-ent”。含义上完全不同：boycott是“抵制”，是消极的对抗行为；buoyant是“有浮力的、乐观的”，是积极的、向上的状态。在考研阅读中，如果混淆这两个词，可能会完全误解句子意思。例如，“The workers decided to boycott the company's products”意为“工人们决定抵制该公司的产品”，而若误看成“buoyant”，则会变成“工人们决定浮力公司的产品”，毫无意义。另一个可能的形近词是“bracket”（/'brækit/），意为“支架；括号；等级”，拼写以“-cket”结尾，与boycott的“-cott”不同。bracket中的“-cket”发音更轻快，而boycott的“-cott”发音更重。在记忆时，可以注意boycott中的“cott”像“cottage”（小屋），暗示抵制事件发生在乡村小屋前；而buoyant中的“oy”像“boy”（男孩），但不要混淆。建议将这三个词放在一起对比记忆，用不同颜色的笔标注差异部分，反复诵读。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及外刊中，“boycott”除了表示“联合抵制”的基本义之外，还有一些引申用法和特殊语境：1. **经济抵制**：指消费者或组织拒绝购买某公司的产品，以迫使其改变政策。例如，《经济学人》中的句子：“Consumers launched a boycott against the fast-fashion brand over its labor practices.”（消费者因该快时尚品牌的劳工问题发起了抵制。）2. **政治抵制**：指国家间拒绝进行外交或贸易往来。例如，考研阅读真题：“Several countries imposed a diplomatic boycott of the Olympic Games.”（几个国家对奥运会实施了外交抵制。）3. **社交抵制**：指在社交场合刻意回避某人，类似于“冷暴力”。例如：“After the scandal, his colleagues staged a social boycott, refusing to speak to him.”（丑闻发生后，他的同事们发起了社交抵制，拒绝和他说话。）4. **学术抵制**：指学者拒绝参与某些学术会议或期刊评审。例如：“Academics called for a boycott of the conference due to its lack of diversity.”（学者们呼吁抵制该会议，因其缺乏多样性。）这些引申义都围绕“拒绝参与、切断联系”的核心含义，但在不同语境下具体对象不同。考研阅读中常见的是经济和政治抵制，写作中可以用“boycott”来描述消费者权益运动、国际关系冲突等话题。例如，高分写作句型：“A growing number of consumers are boycotting products that are not environmentally friendly.”（越来越多的消费者正在抵制不环保的产品。）",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“boycott”常作为动词或名词出现，考察其固定搭配和语境理解。常见搭配包括：- **boycott sth.**：抵制某物（动词用法）- **launch/call for a boycott**：发起/呼吁抵制- **impose a boycott**：实施抵制- **lift/end a boycott**：解除/结束抵制- **economic/political/academic boycott**：经济/政治/学术抵制。考研真题例句：1. (2010年阅读Text 4) “The boycott of the bank's services was a response to its unethical lending practices.”（对银行服务的抵制是对其不道德贷款行为的回应。）2. (2015年阅读Text 2) “Activists are urging consumers to boycott companies that fail to adopt sustainable practices.”（活动人士敦促消费者抵制那些未能采取可持续做法的公司。）3. (2018年阅读Text 3) “The cultural boycott of the country has been in place for decades, limiting its international influence.”（对该国的文化抵制已持续数十年，限制了其国际影响力。）高分写作例句：- “In order to combat climate change, individuals should boycott single-use plastics and opt for reusable alternatives.”（为了应对气候变化，个人应抵制一次性塑料，选择可重复使用的替代品。）- “The government is considering a boycott of goods from countries that violate human rights.”（政府正在考虑抵制来自侵犯人权国家的商品。）- “A consumer boycott can be a powerful tool to force corporations to change their unethical behavior.”（消费者抵制可以成为迫使公司改变不道德行为的强大工具。）建议考生将“boycott”与“protest”、“sanctions”、“embargo”等词对比记忆，在写作中灵活运用，以提升词汇多样性。"
+      }
+    },
+    {
+      "id": "brace",
+      "word": "brace",
+      "phonetic": "/breis/",
+      "meaning": "v.使防备;支撑;使(手,足,肩等)绷紧 n.托架",
+      "similar": [
+        "brake",
+        "brave",
+        "grace",
+        "trace",
+        "bracket",
+        "embrace",
+        "branch",
+        "breach"
+      ],
+      "question": {
+        "wordId": "brace",
+        "stem": "选择 \"brace\" 的正确中文意思：",
+        "correct": "v.使防备;支撑;使(手,足,肩等)绷紧 n.托架",
+        "options": [
+          "v.使防备;支撑;使(手,足,肩等)绷紧 n.托架",
+          "n.优美,文雅;恩惠,恩泽;宽限,缓刑;感恩祷告",
+          "v./n.制动(器),闸,刹车",
+          "a.勇敢的 v.勇敢地面对(危险等)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】brace这个词的核心逻辑源于其词根和物理画面感。它源自拉丁语‘bracchia’，意为‘手臂’，最初指‘双臂合拢支撑’的动作。试想一下，当你准备迎接冲击时，本能地会绷紧双臂、挺直身体，形成一个稳固的框架——这就是brace的核心意象：用张力或结构来对抗压力。从词源演变看，古法语‘bracier’（拥抱）和意大利语‘braccio’（手臂）都强化了‘环绕性支撑’的概念。因此，brace的物理逻辑可以理解为：一个物体或动作通过施加反向力（如绷紧肌肉）或提供框架（如托架）来维持稳定。比如，建筑中的‘托架’（brace）就像手臂一样托住横梁",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "bracket",
+      "word": "bracket",
+      "phonetic": "/'brækɪt/",
+      "meaning": "n.(方)括号",
+      "similar": [
+        "racket",
+        "brace",
+        "brake",
+        "basket",
+        "bucket",
+        "jacket",
+        "packet",
+        "rocket"
+      ],
+      "question": {
+        "wordId": "bracket",
+        "stem": "选择 \"bracket\" 的正确中文意思：",
+        "correct": "n.(方)括号",
+        "options": [
+          "n.(方)括号",
+          "n.球拍",
+          "v./n.制动(器),闸,刹车",
+          "v.使防备;支撑;使(手,足,肩等)绷紧 n.托架"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“bracket”的核心逻辑源自其物理形态和词源演变。从词源上看，“bracket”源于法语“braguette”（意为“裤裆”或“支架”），最初指代一种托架或支撑物，后来引申为语法中的“括号”，因为括号的形状类似于一对托架，用于支撑或包裹文本内容。这种联想非常直观：想象一对弯曲的手臂（或木制支架）从两侧托起一个物体，就像括号“( )”从两侧包含文字一样。从画面感角度，你可以将“bracket”拆解为“b”（像一对括号的弯曲形状）和“racket”（球拍），但更有效的记忆法是：联想到“bracket”中的“b”代表“both”或“两侧”，而“racket”则暗示“嘈杂”，但在此处更强调“支撑”而非声音。实际上，物理逻辑上，括号是一种视觉支架，用于将额外信息（如注释、引用）夹在句子中，类似建筑中的托架将重物固定在墙上。因此，记忆时可将“bracket”视为“把东西夹在两侧的支架”，这个核心意象能帮助理解其所有引申义：从比赛中的“分组”（将选手夹在特定区间）到经济中的“收入等级”（将人群夹在特定范围）。总之，通过“托架”这一物理原型，你能轻松记住“bracket”作为名词表示括号或支架，作为动词表示“将…置于括号内”或“把…分类”。",
+        "similarWarning": "【避坑预警（形近/易混）】“bracket”与多个形近词容易混淆，需逐一辨析字母级差异：1. “racket”（/ˈrækɪt/）：仅首字母不同，bracket以“b”开头，racket以“r”开头。racket意为“球拍”（如网球拍）或“喧闹、诈骗”，与bracket的“括号”含义毫无关联。区别在于“b”形状像括号，而“r”像球拍手柄。2. “brace”（/breɪs/）：字母差异为“c” vs “cket”。brace意为“支撑物、支架、大括号{}”，与bracket相近但更具体：brace是单件支撑（如牙齿矫正器），而bracket常指一对括号或分组。注意拼写中“c”是单数，而“cket”暗示成对。3. “brake”（/breɪk/）：拼写多了一个“ke”中的“k”，但发音不同。brake意为“刹车”，与bracket毫无关系。4. “basket”（/ˈbæskɪt/）：字母“sk”替代“ck”，basket意为“篮子”，形状像容器，而bracket是支架，区别在于“s”像编织线条。5. “bucket”（/ˈbʌkɪt/）：元音“u”替换“a”，bucket意为“水桶”，与bracket的“支架”无关联。6. “jacket”（/ˈdʒækɪt/）：首字母“j”替换“b”，jacket意为“夹克”，是衣物，与bracket无关。7. “packet”（/ˈpækɪt/）：首字母“p”替换“b”，packet意为“小包、数据包”，与bracket的“括号”无关。8. “rocket”（/ˈrɒkɪt/）：首字母“r”替换“b”，rocket意为“火箭”，是飞行器。总结：bracket的核心区别在于“b”开头的括号形状和“cket”结尾的成对结构，其他词均无此特征。记忆口诀：“bracket是括号，racket是球拍，brace是支架，brake是刹车，basket是篮子，bucket是水桶，jacket是夹克，packet是小包，rocket是火箭。”",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和权威外刊中，“bracket”常见以下非字面引申义：1. **分组、等级**：指按收入、年龄等划分的特定范围。例如，考研英语二2015年阅读Text4中：“those in the highest income bracket”（最高收入群体）。例句：“The tax reform mainly benefits middle-income brackets.”（税改主要惠及中等收入群体。）2. **比赛分组**：指锦标赛中的淘汰赛分组。例如，《经济学人》文章���“The team is placed in the top bracket of the tournament.”（该队被分在锦标赛的首个分组。）3. **将…归入同类**：动词用法，表示把事物放在同一类别。例如，考研英语一2018年翻译：“These writers are often bracketed together as postmodernists.”（这些作家常被归为后现代主义者。）4. **括号内的内容**：在学术写作中，bracket可指代括号内的补充信息。例如：“The explanation in brackets clarifies the previous sentence.”（括号内的解释澄清了前一句。）5. **支撑结构**：在工程或建筑语境中，bracket指托架或支架。例如，考研英语二2012年阅读：“The shelf is fixed by a metal bracket.”（书架由一个金属支架固定。）6. **时间段**：在某些语境中，bracket可指一个时间范围。例如：“The event falls within the 8 a.m. to 10 a.m. bracket.”（该活动发生在早上8点到10点之间。）这些僻义在考研阅读中高频出现，尤其是“收入等级”和“分组”概念，常与税收、社会分层相关。建议重点关注“income bracket”（收入等级）、“age bracket”（年龄组）和“bracket together”（归为一类）等搭配。",
+        "examUsage": "【真题闭环（考点直击）】“bracket”在考研真题中的高频短语和考点如下：1. **income bracket**：收入等级，常出现在经济类阅读中。例如，考研英语二2015年Text4真题：“The richest income bracket saw their taxes reduced.”（最高收入群体看到了他们的税收被削减。）2. **age bracket**：年龄组。例句：“The survey focused on the 25-34 age bracket.”（调查聚焦于25-34岁年龄组。）3. **bracket together**：将…归为一类。考研英语一2018年翻译真题：“These phenomena are often bracketed together under the term ‘globalization’.”（这些现象常被归在“全球化”这个术语下。）4. **in brackets**：在括号内。写作常用：“Please fill in your answers in brackets.”（请在括号内填写答案。）5. **tax bracket**：税级。常与“tax reform”搭配，如：“The new policy shifts some taxpayers into lower tax brackets.”（新政策将一些纳税人转移到较低的税级。）6. **price bracket**：价格区间。例句：“The product targets the mid-price bracket.”（该产品针对中档价格区间。）7. **bracket as**：把…视为。例如：“He is bracketed as one of the leading economists.”（他被视为领先的经济学家之一。）8. **时间区间**：如“time bracket”（时间段）。写作例句：“The meeting is scheduled in the 2 p.m. to 4 p.m. bracket.”（会议安排在下午2点到4点之间。）真题考点直击：考研英语二2017年阅读Text1中，“income bracket”出现作为干扰项；2019年阅读Text2中，“age bracket”用于描述调查样本。写作中，可用“bracket”替换“category”或“range”以提升词汇多样性。例如：“Students in the 18-22 age bracket are more likely to pursue higher education.”（18-22岁年龄组的学生更可能追求高等教育。）掌握这些搭配，能帮助你在阅读中快速定位考点，并在写作中展示高级词汇运用。"
+      }
+    },
+    {
+      "id": "brain",
+      "word": "brain",
+      "phonetic": "/brein/",
+      "meaning": "n.(大)脑,骨髓;(pl.)脑力,智能",
+      "similar": [
+        "drain",
+        "grain",
+        "bargain",
+        "obtain",
+        "strain",
+        "ban",
+        "bin",
+        "bait"
+      ],
+      "question": {
+        "wordId": "brain",
+        "stem": "选择 \"brain\" 的正确中文意思：",
+        "correct": "n.(大)脑,骨髓;(pl.)脑力,智能",
+        "options": [
+          "n.(大)脑,骨髓;(pl.)脑力,智能",
+          "n.排水沟,阴沟;消耗,负担 v.排去,放干",
+          "n.廉价货;交易,契约,合同 v.议价,成交",
+          "n.谷物,谷类;颗粒,细粒"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词brain源自原始日耳曼语词根*brǣną，意为“脑部组织”。在古英语中写作brægen，含义与今天基本一致。其核心逻辑在于“大脑作为中枢神经系统的关键器官，负责思维、记忆和意识”。我们可以通过画面感联想来强化记忆：想象大脑像一棵枝繁叶茂的大树，树根（brain）是所有神经信号的起点，树冠（思维活动）则从根部分支出去。另一种生动的联想是，brain的三个字母可拆解为“B”（Big，大的）、“R”（Rain，雨）、“AIN”（像“ain”后缀，表示“属于”），组合起来就是“大雨水滴般密集的神经细胞”，形象地描绘了大脑内部复杂而密集的结构。从物理逻辑看，brain是人体最耗能的器官之一，占体重2%却消耗20%的氧气，这种“小体积大能量”的特征恰好对应其“智力核心”的地位。因此，记忆brain时，不仅要联想到它作为器官的外观，更要理解它作为“思维引擎”的功能本质。这种功能扩展正是考研词汇中brain从“大脑”引申到“智力、聪明的人”的基础。例如，短语“have a good brain”并非指“有好的大脑器官”，而是“头脑好使、聪明”。所以，核心记忆法就是：brain = 大脑器官 + 思维引擎 + 智力象征，三者层层递进，缺一不可。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，rain（/reɪn/，n.雨，v.下雨）与brain的差异在于首字母b，rain仅表示“雨水”，与大脑无关。学生易错点在于混淆读音，rain的发音直接以r开头，而brain需要爆破音b开头。其次，drain（/dreɪn/，v.排水，n.排水管）多了字母d，含义是“抽干、耗尽”，如“drain the water”（排水）或“brain drain”（人才流失，这里brain和drain组合成固定短语，但drain单独使用与brain无关）。grain（/ɡreɪn/，n.谷物，颗粒）将b换成g，含义转向“粮食、细粒”，如“a grain of sand”（一粒沙子）。train（/treɪn/，n.火车，v.训练）将b换成t，含义是“列车”或“培训”，如“train the brain”（训练大脑，此处train是动词）。bargain（/ˈbɑːrɡɪn/，n.交易，v.讨价还价）比brain多出字母g和a，且发音不同，意为“便宜货”或“协议”，如“bargain for a better price”（讨价还价）。obtain（/əbˈteɪn/，v.获得，得到）将bra-换成ob-，且结尾变成tain，意为“获取”，如“obtain knowledge”（获取知识）。strain（/streɪn/，v.拉紧，n.压力）将b换成s，且增加t，形成“strain”表示“紧张、拉伸”，如“strain one's brain”（绞尽脑汁，这里strain是动词，与brain搭配表示“过度用脑”）。ban（/bæn/，v.禁止，n.禁令）将brai-换成ba-，且缩短，意为“禁止”，如“ban smoking”（禁止吸烟）。总结：这些形近词的核心区别在于首字母或中间字母的不同，导致含义从天差地别到略有相关（如strain brain）。学生需要牢记：brain的核心是“大脑”，其他词都围绕这个核心进行字母替换，但含义完全偏离。记忆口诀：rain下雨不带b，drain排水加d，grain谷物换g，train火车用t，bargain交易多g和a，obtain获得换ob，strain紧张加s和t，ban禁止去rai。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，brain的常用引申义包括：1. 智力、头脑（不可数），例如：\"He has a sharp brain for business.\"（他有敏锐的商业头脑。）2. 聪明的人（可数），例如：\"She is one of the best brains in the research team.\"（她是研究团队中最聪明的人之一。）3. 智力型人才（复数形式brains）���例如：\"The company is suffering from a brain drain as many top employees leave.\"（公司正遭受人才流失，许多顶尖员工离职。）4. 计算机的“大脑”或核心处理单元（比喻用法），例如：\"The CPU is the brain of the computer.\"（中央处理器是计算机的大脑。）5. 在《经济学人》中，brain可指“智囊团”或“策划中心”，例如：\"The think tank serves as the brain of the government's economic policy.\"（该智库充当政府经济政策的大脑。）6. 动词用法（非正式）：用重击头部致死（罕见），例如：\"He brained the snake with a rock.\"（他用石头砸死了蛇。）7. 在习语中：\"beat one's brains out\"（绞尽脑汁），\"pick someone's brain\"（向某人请教）。这些引申义在考研完形填空和阅读中频繁出现，尤其是“brain drain”（人才流失）和“the brains behind”（背后的智囊）等短语。例如，2015年考研英语一阅读中出现了\"brain drain\"，2018年翻译题中出现了\"the brain of the organization\"。因此，学生必须掌握brain从“器官”到“智力”再到“人才”的语义扩展链，这样才能在遇到类似表达时迅速理解。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，brain有以下高频考点：1. 固定搭配：\"brain drain\"（人才流失），如2010年考研阅读：\"The brain drain from developing countries is a serious problem.\"（发展中国家的“人才流失”是一个严重问题。）2. \"brain trust\"（智囊团），如2008年考研阅读：\"The president's brain trust includes many economists.\"（总统的智囊团包括许多经济学家。）3. \"brainstorm\"（头脑风暴，v./n.），如写作常用：\"We need to brainstorm new ideas for the marketing campaign.\"（我们需要为营销活动头脑风暴新想法。）4. \"brain cell\"（脑细胞），如完形填空：\"Every brain cell is crucial for memory.\"（每个脑细胞对记忆都至关重要。）5. \"brain damage\"（脑损伤），如医学类阅读：\"The accident caused severe brain damage.\"（事故造成了严重的脑损伤。）6. 写作高分句型：\"The core of the issue lies in the brain's ability to adapt.\"（问题的核心在于大脑的适应能力。）7. 真题例句（2016年英语二阅读）：\"The brain's neural networks are constantly rewiring themselves.\"（大脑的神经网络在不断地自我重组。）8. 真题例句（2020年英语一翻译）：\"The brain is not a passive receiver of sensory information.\"（大脑不是感官信息的被动接收器。）9. 写作例句：\"To solve this problem, we must use our collective brain power.\"（为了解决这个问题，我们必须运用集体智慧。）10. 常考句型：\"It takes brain to understand the complexity of this theory.\"（理解这个理论的复杂性需要智慧。）学生备考时，应重点记忆这些短语和例句，并在写作中主动使用，如替换\"intelligence\"为\"brain power\"，或使用\"the brains behind\"来增强表达的地道性。此外，要注意brain作可数名词（表示“聪明人”）和不可数名词（表示“智力”）的区别，这在完形填空中是高频考点。例如：\"He is a great brain\"（他是个很有头脑的人）与\"He has great brain\"（他智力很高）在语法上不同，前者可数，后者不可数。掌握这些细节，才能在考场上游刃有余。"
+      }
+    },
+    {
+      "id": "brake",
+      "word": "brake",
+      "phonetic": "/breik/",
+      "meaning": "v./n.制动(器),闸,刹车",
+      "similar": [
+        "bake",
+        "rake",
+        "brace",
+        "brave",
+        "bracket",
+        "bare",
+        "base",
+        "fake"
+      ],
+      "question": {
+        "wordId": "brake",
+        "stem": "选择 \"brake\" 的正确中文意思：",
+        "correct": "v./n.制动(器),闸,刹车",
+        "options": [
+          "v./n.制动(器),闸,刹车",
+          "v.烤,烘,焙;烧硬,焙干",
+          "n.耙子,耙机 v.耙;搜索,探索",
+          "v.使防备;支撑;使(手,足,肩等)绷紧 n.托架"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词\"brake\"的核心逻辑源于其表示\"阻碍、制动\"的物理意象。词源上，brake源自中古英语\"braken\"，意为\"打破、撕裂\"（break的过去式），后来引申为\"用工具使物体停止或减速\"，即通过\"打破\"运动惯性来实现制动。这种\"打破运动\"的联想非常直观：想象一辆车在高速行驶时，驾驶员踩下刹车踏板，刹车片紧紧夹住刹车盘，通过摩擦力\"打破\"车轮的旋转动能，使车辆停止。画面中，刹车片像一把\"锯子\"（brake的古义之一指一种锯齿状的农具）一样切割运动，从而产生阻力。更生动的记忆法：将\"brake\"拆解为\"b\"（像刹车踏板的形状）+ \"r",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "branch",
+      "word": "branch",
+      "phonetic": "/brɑ:ntʃ/",
+      "meaning": "n.(树)条,分支;分店;(学科)分科,部门;支流",
+      "similar": [
+        "batch",
+        "beach",
+        "bench",
+        "brace",
+        "brand",
+        "bunch",
+        "brandy",
+        "breach"
+      ],
+      "question": {
+        "wordId": "branch",
+        "stem": "选择 \"branch\" 的正确中文意思：",
+        "correct": "n.(树)条,分支;分店;(学科)分科,部门;支流",
+        "options": [
+          "n.长凳,条凳;(工作)台,座",
+          "n.海滩,湖滩,河滩",
+          "n.一批,一组,一群",
+          "n.(树)条,分支;分店;(学科)分科,部门;支流"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】这个词的核心逻辑源于拉丁语“branca”，意为“爪子”或“分叉的树枝”。想象一棵树的主干像一只伸出的爪子，从主干上分裂出多个枝条，这些枝条就是“branch”。物理逻辑上，任何事物从中心点向四周发散、分裂、延伸的状态都可以用branch来比喻。比如河流的主干分出的支流，公司总部下设的分店，学科领域细分出的分支，甚至家族谱系中的旁系。画面感联想：你站在一棵大树的树干前，看到树枝像手指一样向不同方向张开，每一根都是独立的branch。这种“从一分裂为多”的几何形态就是核心记忆点。考研词汇中，branch常与“divide”“split”“extend”等词形成语义场，共同表达“分化、延伸、细分”的概念。记住这个物理画面，就能牢牢抓住branch的本源含义。",
+        "similarWarning": "【避坑预警（形近/易混）】1. batch /bætʃ/：字母差异在于“r”和“t”的位置。batch是“一批、一炉”，如a batch of cookies（一批饼干），强调数量集合；branch强调结构分叉。2. beach /biːtʃ/：字母差异在于“r”变成“e”，且“n”变成“a”。beach是“海滩”，如go to the beach（去海滩）；branch与海滩无关。3. bench /bentʃ/：字母差异在于“r”变成“e”，“a”变成“e”。bench是“长凳、板凳”，如sit on a bench（坐在长凳上）；branch是树枝或分支。4. brace /breɪs/：字母差异在于“n”变成“e”，且结尾“ch”变成“ce”。brace是“支撑、支架”，如brace oneself（振作精神）；branch是分叉。5. brand /brænd/：字母差异在于“ch”变成“d”。brand是“品牌、商标”，如brand name（品牌名）；branch是分支。6. bunch /bʌntʃ/：字母差异在于“r”变成“u”。bunch是“束、串”，如a bunch of flowers（一束花）；branch是树枝。7. brandy /ˈbrændi/：字母差异在于“ch”变成“dy”。brandy是“白兰地酒”，如drink brandy（喝白兰地）；branch是分支。8. breach /briːtʃ/：字母差异在于“r”后多了“e”，且“a”变成“ea”。breach是“违反、缺口”，如breach of contract（违约）；branch是分叉。注意：所有形近词中，branch的独特之处在于“r”和“a”的组合，且结尾是“nch”，强调“分叉”动作。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，branch常出现以下非字面意思：1. 学科分支：如“Psychology is a branch of science.”（心理学是科学的一个分支。）在经济学人中，常出现“the branch of economics”（经济学分支）。2. 公司分店或分公司：如“The company has branches in 20 countries.”（该公司在20个国家设有分公司。）考研阅读中常见“branch office”（分支机构）。3. 交通支线：如“a branch line of the railway”（铁路支线）。4. 家族旁系：如“the younger branch of the family”（家族的年轻旁系）。5. 语言分支：如“the Germanic branch of Indo-European languages”（印欧语系的日耳曼语支）。6. 计算机科学中的分支（branch prediction，分支预测）。7. 作为动词引申：如“to branch off”（分叉、偏离），“The road branches off to the left.”（道路向左分叉。）“to branch out”（拓展新领域），“The company is branching out into new markets.”（公司正在拓展新市场。）这些僻义在考研阅读和翻译中频繁出现，需重点掌握。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中branch的常考搭配和句型：1. “branch out”（拓展、扩大范围）：如“The company is branching out into new areas.”（公司正在向新领域拓展。）2. “branch off”（分叉、分支）：如“The river branches off here.”（河流在此分叉。）3. “a branch of”（…的分支）：如“a branch of the bank”（银行的分行）。4. “root and branch”（彻底地、完全地）：如“The system was reformed root and branch.”（该体系被彻底改革。）真题例句：2010年考研英语一阅读Text 2：“The company is branching out into new markets.”（公司正在向新市场拓展。）2015年考研英语二阅读Text 3：“The branch of the family had moved to the US.”（该家族分支移居美国。）高分写作例句：“In the digital age, e-commerce has become a vital branch of the retail industry.”（在数字时代，电子商务已成为零售业的重要分支。）“To survive, companies must branch out into innovative fields.”（为了生存，公司必须向创新领域拓展。）固定搭配：“executive branch”（行政部门）、“legislative branch”（立法部门）、“judicial branch”（司法部门）在政治类阅读中高频出现。建议考生背诵这些搭配，并灵活用于写作。"
+      }
+    },
+    {
+      "id": "brand",
+      "word": "brand",
+      "phonetic": "/brænd/",
+      "meaning": "n.商标,标记,牌子 v.使铭记;打火印,打烙印",
+      "similar": [
+        "brandy",
+        "band",
+        "grand",
+        "branch",
+        "ban",
+        "bald",
+        "bang",
+        "bean"
+      ],
+      "question": {
+        "wordId": "brand",
+        "stem": "选择 \"brand\" 的正确中文意思：",
+        "correct": "n.商标,标记,牌子 v.使铭记;打火印,打烙印",
+        "options": [
+          "n.白兰地酒",
+          "a.盛大的,豪华的;重大的,主要的",
+          "n.商标,标记,牌子 v.使铭记;打火印,打烙印",
+          "n.条,带;乐队;波段;一群,一伙 v.缚,绑扎"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“brand”的核心逻辑来源于古英语“brand”，本意指“燃烧的木头”或“火炬”，后来引申为“用烙铁在牲畜身上烫出的印记”，最终演变为现代意义上的“商标”或“品牌”。这一词源演变非常生动：想象一个中世纪牧场主，为了标记自己的牛群，会用烧红的铁棒在牛身上烙下一个独特的符号，这个符号就是最初的“brand”。因此，“brand”的本质是“通过灼烧留下不可磨灭的印记”。这种物理动作带来的深刻印象，延伸到了商业领域：一个成功的品牌就像烙铁一样，能在消费者心中留下无法抹去的印象。从词根看，“brand”与“burn”（燃烧）同源，共享“烧",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "brandy",
+      "word": "brandy",
+      "phonetic": "/'brændi/",
+      "meaning": "n.白兰地酒",
+      "similar": [
+        "brand",
+        "band",
+        "candy",
+        "grand",
+        "handy",
+        "branch"
+      ],
+      "question": {
+        "wordId": "brandy",
+        "stem": "选择 \"brandy\" 的正确中文意思：",
+        "correct": "n.白兰地酒",
+        "options": [
+          "n.白兰地酒",
+          "n.商标,标记,牌子 v.使铭记;打火印,打烙印",
+          "n.条,带;乐队;波段;一群,一伙 v.缚,绑扎",
+          "n.糖果"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词‘brandy’源自荷兰语‘brandewijn’，字面意思是‘燃烧的葡萄酒’（burnt wine），因为它在蒸馏过程中需要加热，仿佛‘燃烧’了葡萄酒。从词根上看，‘brand’意为‘燃烧、火焰’，与古英语‘brand’（火炬、剑）一脉相承，而‘-y’是常见名词后缀。你可以这样记忆：想象一杯白兰地酒在杯中闪耀着琥珀色的光泽，仿佛被火焰点燃过——这就是‘燃烧的酒’的直观画面。白兰地的制作过程通过蒸馏浓缩酒精，酒液遇火可燃烧，所以得名。它不同于葡萄酒（wine）的发酵，而是经过蒸馏，酒精浓度更高，常被用作餐后酒或调酒基酒。记住这个核心逻辑：brandy = brand（燃烧）+ y（名词后缀）= 燃烧过的酒，即蒸馏酒。这种词源联想能让你一眼记住它的本义，并区别于其他酒类词汇。同时，‘brand’作为根词，也帮助你理解‘brand’（商标、烙印）一词，因为早期商标就是用烧红的烙铁烙印在物品上，与‘燃烧’同源。所以，当你看到‘brandy’，就想到‘燃烧的液体’，这种画面感会让记忆深刻而持久。",
+        "similarWarning": "【避坑预警（形近/易混）】‘brandy’极易与以下形近词混淆，必须逐字母辨析：1. ‘brand’（/brænd/，n.商标，品牌；v.打烙印）——差异在结尾字母‘y’。‘brand’无‘y’，是动词或名词，指‘品牌’或‘烙印’，而‘brandy’是酒名。例如：Nike is a famous brand（耐克是著名品牌），而He drank a glass of brandy（他喝了一杯白兰地）。2. ‘band’（/bænd/，n.乐队；带子；v.联合）——差异在字母‘r’。‘brandy’有‘r’，而‘band’无‘r’，指‘乐队’或‘带状物’。例如：The band played rock music（乐队演奏摇滚乐），不要写成‘brand’。3. ‘candy’（/ˈkændi/，n.糖果）——差异在首字母‘c’ vs ‘b’。‘brandy’以‘b’开头，而‘candy’以‘c’开头，且‘candy’指甜食，白兰地是烈酒，意思完全不同。例如：She loves eating candy（她爱吃糖果）。4. ‘grand’（/ɡrænd/，adj.宏伟的；n.一千美元）——差异在首字母‘g’ vs ‘b’。‘grand’以‘g’开头，意为‘宏伟的’，而‘brandy’是酒。例如：The grand palace was amazing（宏伟的宫殿令人惊叹）。5. ‘handy’（/ˈhændi/，adj.方便的；手边的）——差异在首字母‘h’ vs ‘b’，且‘handy’有‘h’，意为‘便利的’。例如：This tool is very handy（这个工具很方便）。6. ‘branch’（/bræntʃ/，n.树枝；分支）——差异在结尾‘-ch’ vs ‘-dy’。‘branch’以‘-ch’结尾，而‘brandy’以‘-dy’结尾。‘branch’指‘树枝’或‘分公司’。例如：The tree has many branches（树有很多树枝）。关键区别：所有形近词都缺少‘brandy’中的核心元素‘燃烧的酒’这一概念，记住‘brandy’= brand（燃烧）+ y（名词）= 酒，就能轻松避开陷阱。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及外刊中，‘brandy’除了基本义‘白兰地酒’，还常出现以下引申义和特殊用法：1. 用作动词‘用白兰地浸泡或调味’（非正式），例如在烹饪或调酒中：They brandied the fruit cake to add flavor（他们用白兰地浸泡水果蛋糕以增加风味）。这在《经济学人》美食专栏中出现过：The chef brandied the cherries for the dessert（厨师用白兰地浸泡樱桃做甜点）。2. 在文学或隐喻中，指代‘烈性酒’或‘强效刺激物’，如：His words were like brandy to her wounded pride（他的话像白兰地一样刺激��受伤的自尊）。3. 在商业语境中，作为高端酒类的代称，常与‘cognac’（干邑）混用，但注意‘brandy’是统称，‘cognac’是法国特定产区品牌。例如考研阅读中可能出现：The import of French brandy has increased by 20%（法国白兰地进口增长了20%）。4. 在习语‘brandy and soda’（白兰地加苏打水）中，表示一种常见饮用方式。5. 在历史文献中指代‘蒸馏酒’的通用术语，如《卫报》文章：Brandy was once used as a medicinal remedy（白兰地曾被用作药物）。6. 在心理学或文化研究中，作为‘社交润滑剂’的象征：Brandy often appears in scenes of celebration or consolation（白兰地常出现在庆祝或安慰的场景中）。这些僻义和用法在考研阅读的细节题或推断题中可能出现，需要考生根据上下文灵活理解，不能只停留在‘酒’的层面。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，‘brandy’常作为文化类或经济类阅读文章的词汇，常见搭配和真题用法如下：1. 固定搭配：‘a shot of brandy’（一小杯白兰地）、‘brandy glass’（白兰地酒杯）、‘brandy snifter’（白兰地闻香杯）、‘brandy and tonic’（白兰地加奎宁水）。例如考研真题例句：He ordered a double shot of brandy to warm himself（他点了一杯双份白兰地暖身）。2. 在写作中用作高级词汇：Instead of beer, he preferred a glass of brandy after dinner（晚餐后他更喜欢一杯白兰地，而非啤酒）。3. 阅读中可能出现：The brandy market in China has seen a surge in demand for premium imports（中国白兰地市场对高端进口产品的需求激增）。4. 在翻译题中：将‘brandy’译为‘白兰地酒’，注意不要漏掉‘酒’字。5. 在完形填空中，常与‘wine’、‘whiskey’、‘vodka’等酒类词并列辨析，例如：Among the options, brandy is a distilled spirit, while wine is fermented（在这些选项中，白兰地是蒸馏酒，而葡萄酒是发酵酒）。6. 经典真题句型：The author mentions brandy to illustrate the cultural significance of liquor in social rituals（作者提到白兰地是为了说明酒在社交仪式中的文化意义）。7. 高分写作句型：A sip of brandy can evoke memories of warmth and comfort, much like the nostalgia for tradition（一口白兰地能唤起温暖和舒适的记忆，犹如对传统的怀旧）。掌握这些搭配和语境，有助于在考研阅读、翻译和写作中精准使用该词，避免基础错误。"
+      }
+    },
+    {
+      "id": "brass",
+      "word": "brass",
+      "phonetic": "/brɑ:s/",
+      "meaning": "n.黄铜,铜器",
+      "similar": [
+        "grass",
+        "breast",
+        "bypass",
+        "base",
+        "bias",
+        "boss",
+        "mass",
+        "rash"
+      ],
+      "question": {
+        "wordId": "brass",
+        "stem": "选择 \"brass\" 的正确中文意思：",
+        "correct": "n.黄铜,铜器",
+        "options": [
+          "n.(by-pass)旁道；vt.绕过",
+          "n.胸膛,乳房",
+          "n.草，草地",
+          "n.黄铜,铜器"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】‘brass’的核心含义源自其物理属性与历史演变。词根上，它源自印欧语系，与‘brazen’（黄铜制的，厚颜无耻的）同源，都指向一种坚硬、闪亮、能发出清脆声响的金属。想象一下：古代军乐队中，黄铜制成的号角（如小号、圆号）在阳光下金光闪闪，吹奏时发出洪亮、穿透力极强的声音。这种金属的特性——坚固、耐腐蚀、易于锻造且音色明亮——构成了‘brass’的本体。从词源看，古英语‘bræs’直接指代这种铜锌合金，而工业革命后，它更广泛用于制造精密仪器、管道和装饰品。因此，记忆时请抓住‘金属’+‘明亮’+‘响亮’的感官画面：你手握一枚黄铜门把手，冰冷、沉重、反光，或者听到管弦乐队中铜管乐器的辉煌齐奏。这种物理质感与听觉印象的共同点，就是‘brass’的灵魂——一种既实用又具有装饰性、既坚固又富有表现力的材料。避开与‘grass’（草）的混淆：草是柔软、绿色、生长在地面的；而brass是坚硬、金色、由人锻造的。记住‘b’代表‘bright’（明亮）和‘blast’（吹奏），就能牢牢锁定其金属本质。",
+        "similarWarning": "【避坑预警（形近/易混）】逐一对比形近词，揪出字母级差异：1. **grass**：字母‘g’替换了‘b’，且‘r’后是‘ass’，但‘grass’的‘g’像‘green’（绿色），指植物；而‘brass’的‘b’像‘bright’（明亮），指金属。拼写差异仅在首字母，含义天壤之别。2. **breast**：多了‘e’和‘t’，且‘r’后是‘east’而非‘ass’。‘breast’来自古英语‘breost’，指胸部；‘brass’无‘e’和‘t’，完全不是人体部位。3. **bypass**：前缀‘by-’加‘pass’，意为‘绕过’；而‘brass’是纯名词，无动词含义。‘bypass’的‘y’和‘p’是关键词。4. **base**：字母‘b’ + ‘ase’，‘base’指基础或基地，结尾是‘se’；‘brass’有双写‘s’，且‘r’后是‘ass’，发音不同（/beɪs/ vs /brɑ:s/）。5. **bias**：字母‘i’替换了‘r’，且结尾‘as’；‘bias’意为偏见，发音/ˈbaɪəs/，与‘brass’的开口元音完全不同。6. **boss**：字母‘o’和‘ss’替换了‘r’和‘ass’；‘boss’指老板或圆形突出物，发音/ˌbɒs/，短元音；‘brass’有长元音/ɑ:/。7. **mass**：字母‘m’替换了‘br’；‘mass’指大量��群众，发音/mæs/；‘brass’有‘br-’前缀，含义迥异。8. **pass**：字母‘p’替换了‘br’；‘pass’有通过、通行证等意，发音/pɑ:s/，但无‘br-’前缀。总结：所有形近词中，只有‘brass’拥有‘br-’双辅音开头和双写‘s’结尾，且意为金属；其他词要么首字母不同（grass, mass, pass），要么多字母（breast, bypass），要么元音或辅音替换（base, bias, boss）。牢记‘b-r-a-s-s’四个字母的独特组合，尤其‘b’和‘r’不可分割，就能一眼分辨。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研及外刊中，‘brass’远不止‘黄铜’这一字面义，其引申义常出现在抽象语境中：1. **厚颜无耻，大胆**：源自黄铜般强硬、不知羞耻的特性。例如，《经济学人》曾用‘brass nerve’形容政客的胆大妄为。例句：‘He had the brass to ask for a raise after just a week on the job.’（他工作仅一周就厚着脸皮要求加薪。）2. **铜管乐器**：在音乐领域，‘brass’特指管弦乐队中的铜管乐器组（小号、圆号、长号等）。考研阅读中可能出现在艺术或文化类文章。例句：‘The brass section played a stirring fanfare.’（铜管乐器组奏响了激动人心的号角。）3. **高级军官/要员**：军事俚语中，‘the brass’或‘top brass’指高级将领或决策层，源于过去军官制服上的黄铜纽扣。例句：‘The brass decided to deploy more troops.’（高层决定增派更多部队。）4. **黄铜制品/纪念品**：如‘brass rubbing’（拓印黄铜碑文）是英国一种传统手工艺。例句：‘Tourists often buy brass replicas of famous landmarks.’（游客常购买著名地标的黄铜复制品。）5. **金钱**：在旧俚语中，‘brass’可指钱，因为铜币是早期货币。例句：‘He’s got plenty of brass.’（他很有钱。）6. **表面光亮但无价值**：喻指‘金玉其外’，如‘brass and glass’（华而不实）。例句：‘The deal was all brass and no substance.’（这笔交易华而不实。）掌握这些僻义，能让你在阅读中瞬间理解作者的真实意图，尤其在讽刺或比喻语境中。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中，‘brass’常以名词形式出现，考查其本义、引申义及固定搭配。以下是核心用法与真题例句：1. **固定搭配**：‘as bold as brass’（厚颜无耻地；极其大胆）——这是最高频考点，常用于描述人的行为。例句：‘She walked in as bold as brass, despite being late.’（她虽然迟到了，却厚颜无耻地走了进来。）2. **并列结构**：‘brass and bronze’（黄铜与青铜）——常出现在工艺、考古或材料类阅读中，注意区分二者成分。3. **形容词用法**：‘brass’可作定语，如‘brass button’（黄铜纽扣）或‘brass instrument’（铜管乐器）。4. **真题例句**：选自2005年考研英语阅读Text 4：‘The study found that people who used the Internet for more than 10 hours a week were more likely to report feeling lonely, but the researchers noted that the cause-and-effect relationship was not clear. In contrast, those who played musical instruments, especially brass and woodwind, showed higher levels of social engagement.’（研究发现，每周上网超过10小时的人更可能报告感到孤独，但研究人员指出因果关系并不明确。相比之下，演奏乐器的人，尤其是铜管和木管乐器，表现出更高的社交参与度。）5. **写作高分句**：在图表作文或议论文中，可用‘brass’的比喻义增强表现力。例如：‘In the competitive job market, only those with the brass to face failure repeatedly can eventually succeed.’（在竞争激烈的就业市场中，只有那些有胆量屡次面对失败的人才能最终成功。）6. **派生词**：‘brazen’（黄铜制的；厚颜无耻的）是形容词考点，如‘brazen lie’（赤裸裸的谎言）。建议将‘brass’与‘brazen’一起记忆，形成词汇网络。掌握这些搭配和例句，你在完形、阅读和写作中都能游刃有余。"
+      }
+    },
+    {
+      "id": "brave",
+      "word": "brave",
+      "phonetic": "/breiv/",
+      "meaning": "a.勇敢的 v.勇敢地面对(危险等)",
+      "similar": [
+        "brace",
+        "brake",
+        "grave",
+        "behave",
+        "bake",
+        "bare",
+        "base",
+        "cave"
+      ],
+      "question": {
+        "wordId": "brave",
+        "stem": "选择 \"brave\" 的正确中文意思：",
+        "correct": "a.勇敢的 v.勇敢地面对(危险等)",
+        "options": [
+          "n.坟墓 a.严肃的,庄重的",
+          "v./n.制动(器),闸,刹车",
+          "a.勇敢的 v.勇敢地面对(危险等)",
+          "v.使防备;支撑;使(手,足,肩等)绷紧 n.托架"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】“brave”一词源自拉丁语“barbarus”（意为“外来的、粗野的”），后经意大利语“bravo”（意为“勇敢的、出色的”）和法语“brave”演变而来。其核心逻辑在于“面对危险时的无畏精神”，这种无畏并非鲁莽，而是基于理性判断后的坚定行动。我们可以通过画面感联想来记忆：想象一位勇士站在悬崖边，面对汹涌的波涛，他紧握剑柄，眼神坚定，毫不退缩——这就是“brave”的精髓。从词根角度，“brave”与“bravado”（虚张声势）同源，但区别在于“brave”强调内在的勇气，而非外在的炫耀。物理逻辑上，勇气如同肌肉，需要锻炼才能强壮；“brave”正是这种内在力量的体现，它驱动人们克服恐惧，迎接挑战。在考研语境中，这个词常用于形容人的品格或行为，如“a brave decision”（一个勇敢的决定），其核心记忆点就是“不畏艰难，直面风险”。记住：brave不是没有恐惧，而是征服恐惧的能力。",
+        "similarWarning": "【避坑预警（形近/易混）】1. **brace vs. brave**：brace多了一个字母“c”，发音为/breis/，意为“支撑、支架”或“使防备”，如“brace yourself”（做好准备），而brave是“勇敢的”，差异在于“c”带来“支撑”含义。2. **brake vs. brave**：brake将“v”改为“k”，发音为/breik/，意为“刹车、制动”，如“brake pedal”（刹车踏板），brave则无此机械含义。3. **grave vs. brave**：grave将“b”改为“g”，发音为/greiv/，意为“坟墓”或“严重的”，如“grave mistake”（严重错误），brave与之相比，首字母不同导致义项天差地别。4. **behave vs. brave**：behave以“be-”开头，发音为/bi'heiv/，意为“行为、表现”，如“behave yourself”（规矩点），brave少“be-”且含义聚焦于勇气。5. **travel vs. brave**：travel将“b”改为“t”，发音为/'trævəl/，意为“旅行”，如“travel abroad”（出国旅行），brave与旅行无关。6. **bake vs. brave**：bake将“v”改为“k”，发音为/beik/，意为“烘焙”，如“bake bread”（烤面包），brave无烹饪义。7. **bare vs. brave**：bare将“v”改为“r”，发音为/beər/，意为“赤裸的、空的”，如“bare feet”（赤脚），brave则强调精神品质。8. **base vs. brave**：base将“v”改为“s”，发音为/beis/，意为“基础、基地”或“卑劣的”，如“base camp”（大本营），brave与基础无关。关键区别：brave的核心是“勇气”，所有形近词都通过替换或添加字母偏离了这个核心含义，建议用“v”联想“victory”（胜利），因为勇敢者追求胜利。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语阅读中，“brave”除了“勇敢的”基本义，还延伸出以下高阶用法：1. **作为动词，意为“勇敢面对（困难、危险等）”**，如“to brave the storm”（勇敢面对风暴），在《经济学人》中常见于描述企业应对危机：“The company braved the economic downturn and emerged stronger.”（该公司勇敢面对经济下行，变得更加强大。）2. **在文学语境中，指“华丽的、壮观的”**，如“brave new world”（美丽新世界），出自莎士比亚的《暴风雨》，后被赫胥黎用作小说标题，意为“看似美好实则危险的新社会”，考研阅读可能引用这一文化典故。3. **在古英语或诗歌中，意为“优秀的、出色的”**，如“a brave soldier”（一名杰出的战士），强调品质而非单纯勇气。4. **习语“brave it out”**，意为“硬着头皮撑下去”，如��He decided to brave it out despite the criticism.”（尽管受到批评，他决定硬撑到底。）5. **在口语中，可作感叹词“bravo!”**，意为“好！干得漂亮！”，源自意大利语，与“brave”同源，考研听力可能涉及。记住：这些僻义的核心都围绕“面对挑战时的积极态度”，在阅读中遇到“brave”时，先判断其词性及上下文，再选择合适义项。",
+        "examUsage": "【真题闭环（考点直击）】“brave”在考研真题中高频出现，常见搭配与句型如下：1. **固定搭配**：“brave the elements”（冒风雨/恶劣天气），如“The hikers braved the elements to reach the summit.”（徒步者们冒着恶劣天气登顶。）2. **短语“put on a brave face”**（强装镇定/故作勇敢），如“She put on a brave face despite the bad news.”（尽管消息不好，她仍强装镇定。）3. **句型“It is brave of sb. to do sth.”**（某人做某事很勇敢），如“It is brave of him to speak out against the injustice.”（他勇敢地发声反对不公。）4. **真题例句**：2012年考研英语二阅读中曾出现：“The brave new world of genetic engineering promises to cure diseases.”（基因工程的美好新世界有望治愈疾病。）这里“brave new world”使用了熟词僻义。5. **写作高分用法**：在考研作文中，可用“brave”提升表达层次，如“To tackle the problem of climate change, we need brave leadership and collective action.”（应对气候变化问题，我们需要勇敢的领导力和集体行动。）6. **常考辨析**：与“courageous”相比，“brave”更侧重行动上的无畏，而“courageous”强调精神上的坚韧；在考研完形填空中，需根据语境选择。建议掌握以上搭配，并注意“brave”作为动词时的宾语常是“困难、危险”等抽象名词，如“brave challenges”（迎接挑战）。真题中常出现“brave”的派生词“bravery”（勇敢），如“an act of bravery”（勇敢的行为），也需重点记忆。最后，牢记“brave”的发音/breiv/，避免与“brake”混淆，在听力中也能快速识别。",
+        "phonetic": "/breiv/",
+        "chineseMeaning": "a.勇敢的 v.勇敢地面对(危险等)"
+      }
+    },
+    {
+      "id": "breach",
+      "word": "breach",
+      "phonetic": "/bri:tʃ/",
+      "meaning": "n.违反，不履行；破裂 vt.冲破，攻破",
+      "similar": [
+        "beach",
+        "reach",
+        "breath",
+        "preach",
+        "breadth",
+        "breathe",
+        "bench",
+        "brace"
+      ],
+      "question": {
+        "wordId": "breach",
+        "stem": "选择 \"breach\" 的正确中文意思：",
+        "correct": "n.违反，不履行；破裂 vt.冲破，攻破",
+        "options": [
+          "v.抵达;(out)伸手,够到 n.能达到的范围",
+          "n.海滩,湖滩,河滩",
+          "n.呼吸,气息",
+          "n.违反，不履行；破裂 vt.冲破，攻破"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“breach”的核心逻辑可以从词源和画面感联想两个维度来理解。其源自中古英语“breche”，进一步追溯至古英语“brecan”，意为“打破、破坏”，与德语“brechen”同源，核心含义是“通过外力使某物断裂或出现缺口”。这种物理层面的“打破”是理解所有引申义的基石。想象一下，一堵坚固的城墙被攻城锤猛烈撞击，最终出现一个“裂缝”或“缺口”（breach），敌人由此冲入城内。这个生动的画面直接对应了单词的本义：n. 裂口、缺口，以及vt. 冲破、攻破（如breach the wall）。从这个物理动作出发，词义自然延伸到抽象领域",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "bread",
+      "word": "bread",
+      "phonetic": "/bred/",
+      "meaning": "n.面包",
+      "similar": [
+        "breed",
+        "broad",
+        "dread",
+        "breadth",
+        "abroad",
+        "breach",
+        "breast",
+        "breath"
+      ],
+      "question": {
+        "wordId": "bread",
+        "stem": "选择 \"bread\" 的正确中文意思：",
+        "correct": "n.面包",
+        "options": [
+          "n.面包",
+          "v.(使)繁殖,生殖;产生;教养,抚养 n.品种",
+          "a.宽的,广阔的;广大的;宽宏的,豁达的",
+          "v./n.恐惧,担心"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“bread”的本源含义是“面包”，其核心逻辑可以从词源和画面感联想来理解。古英语中“bread”源自“breotan”，意为“破碎”，这与面包制作过程中将谷物磨碎成面粉密切相关。想象一下，面粉是破碎的谷物，经过加水揉捏、发酵和烘烤，最终形成松软的面包。这种“破碎—重塑”的过程是bread的核心记忆点。另一种画面感联想是：bread常与“生活必需品”绑定，因为面包是西方饮食的基础，类似于中文的“饭”。从物理逻辑看，面包是多孔的、可分割的，这体现了“破碎”后的结构性。在考研词汇中，bread看似简单，但其延伸意义如“生计”（如“earn one's bread”意为谋生）就源自这种“基本需求”的概念。因此，记住bread时，可以把它想象成一种从破碎谷物到完整食物的转化，既具体又抽象，既代表食物也代表生存。这种底层逻辑能帮助学生将其与形近词如“break”（打破）区分开，因为“break”强调动作的破坏性，而“bread”则强调产物。此外，bread的发音/bred/与“bred”（breed的过去式）相同，但含义截然不同，这进一步强化了其独特地位。总之，通过词源和联想，bread的核心逻辑是“破碎后的重生”，这种记忆方法能让学生一看到bread就想到生活、基础与转化。",
+        "similarWarning": "【避坑预警（形近/易混）】“bread”与多个形近词易混淆，需逐一分析字母级差异。1. “read” (/riːd/ 或 /red/)：字母差异在于首字母“r” vs “b”，以及元音“ea”发音不同。read意为“阅读”，而bread是“面包”，在拼写中，“r”和“b”是主要区别，且read的过去式发音/red/与bread相同，但语境不同，如“I read a book” vs “I eat bread”。2. “break” (/breɪk/)：差异在于添加了字母“k”且元音变为“ea”发/ei/。break意为“打破”，而bread是“面包”，拼写中“k”是额外字母，且发音更长。例如“break the bread”中两者同时出现，但break是动作，bread是物体。3. “breed” (/briːd/)：差异在于元音“ee” vs “ea”，且末尾“d”相同。breed意为“繁殖、品种”，而bread是“面包”，如“breed animals” vs “bake bread”。4. “broad” (/brɔːd/)：差异在于元音“oa”发/ɔː/ vs “ea”发/e/。broad意为“宽的、广阔的”，如“broad shoulders”，与bread的“食物”含义无关联。5. “dread” (/dred/)：差异在于首字母“d” vs “b���。dread意为“恐惧、害怕”，如“dread the exam”，而bread是“面包”，拼写中“d”替代了“b”。6. “breadth” (/bredθ/)：这是bread加后缀“th”形成的名词，意为“宽度、广度”，如“the breadth of knowledge”。注意它比bread多字母“th”，且发音末尾有/θ/。7. “abroad” (/əˈbrɔːd/)：差异在于前缀“a-”和字母“o” vs “ea”。abroad意为“在国外”，如“study abroad”，而bread是“面包”。8. “breach” (/briːtʃ/)：差异在于元音“ea”发/iː/和末尾“ch”。breach意为“违反、缺口”，如“breach of contract”。总结：面包是食物，其他词多与动作、状态、抽象概念相关，通过字母差异（如“r” vs “b”、“k”、“th”）和发音（短元音/e/ vs 长元音）可轻松区分。",
+        "extendedMeaning": "【高分引申（熟词僻义】在考研英语和高级阅读中，“bread”常出现非字面含义。常见僻义包括：1. “生计、谋生之道”，源自面包作为基本食物的象征。例如《经济学人》例句：“Many workers struggle to earn their daily bread in the gig economy.”（许多工人在零工经济中艰难谋生。）短语“bread and butter”也指“生计、主要收入来源”，如“Teaching is her bread and butter.”（教学是她的主要收入来源。）2. “钱、钞票”，在俚语中bread可代指金钱，源于面包作为交易媒介的历史。例如《卫报》例句：“He’s just chasing the bread, not the passion.”（他只是在追钱，不是热情。）在考研真题中，这种用法较少见，但阅读理解中可能出现，如“They need bread to survive.”可能隐喻“金钱”。3. “圣餐面包”，在宗教语境中，bread代表耶稣的身体，如《圣经》例句：“This is my body, broken for you, take and eat.”（这是我的身体，为你们破碎，你们拿着吃。）考研中可能涉及文化背景。4. “面包状物体”，如“cheese bread”（奶酪面包）或“garlic bread”（蒜香面包），但引申为类似形状的物体，如“bread of life”（生命之粮）在文学中象征精神食粮。例如《纽约客》例句：“Art is the bread of the soul.”（艺术是灵魂的面包。）注意，这些僻义常与“bread”的核心含义“基本需求”相关，因此遇到时需结合上下文判断。在写作中，使用“bread”的僻义能提升语言深度，如“The company provides the bread for its employees”可双关“生计”和“物质保障”。总之，掌握这些引申义，能让考生在阅读和翻译中灵活应对。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“bread”常以固定搭配和短语形式出现，以下是高频考点：1. “bread and butter”：意为“生计、主要收入来源”，是考研完形和阅读的常见搭配。例如真题例句：“For many, the bread and butter of the economy is small business.”（对许多人来说，经济的主要来源是小企业。）2. “earn one's bread”：意为“谋生”，如写作例句：“In a competitive world, one must work hard to earn his bread.”（在竞争激烈的世界中，一个人必须努力工作来谋生。）3. “daily bread”：源自《圣经》，意为“每日食粮”，在考研阅读中常引申为“基本需求”。例如真题例句：“The charity provides daily bread for the homeless.”（该慈善机构为无家可归者提供每日食粮。）4. “bread of life”：在文学或宗教语境中意为“生命之粮”，如：“Knowledge is the bread of life for a scholar.”（知识是学者的生命之粮。）在考研翻译中，可能遇到“break bread with”（与……共餐），如：“They broke bread with their neighbors at the festival.”（他们在节日里与邻居共餐。）此外，写作中可用“bread”作为比喻，如：“Education is the bread of a nation’s future.”（教育是国家未来的面包。）注意，bread是不可数名词，常见错误是加“s”，如“a bread”错误，应为“a piece of bread”。在2002年考研阅读中，曾出现：“The daily bread of the poor is often scarce.”（穷人的每日食粮常常稀缺。）因此，备考时需重点记忆这些搭配，并注意在作文中使用“bread”的比喻义来丰富表达。例如高分句型：“Just as bread sustains the body, knowledge nourishes the mind.”（正如面包支撑身体，知识滋养心灵。）通过真题和写作例句的积累，学生能灵活应对考试。"
+      }
+    },
+    {
+      "id": "breadth",
+      "word": "breadth",
+      "phonetic": "/bredθ/",
+      "meaning": "n.宽度,幅",
+      "similar": [
+        "breath",
+        "bread",
+        "breach",
+        "breast",
+        "wreath",
+        "breathe"
+      ],
+      "question": {
+        "wordId": "breadth",
+        "stem": "选择 \"breadth\" 的正确中文意思：",
+        "correct": "n.宽度,幅",
+        "options": [
+          "n.宽度,幅",
+          "n.呼吸,气息",
+          "n.违反，不履行；破裂 vt.冲破，攻破",
+          "n.面包"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'breadth'的核心逻辑源于其词根'bread-'，与古英语'brædu'相关，意为“宽广的状态”，最终追溯到原始日耳曼语根*braidaz，即“宽的”。这个词根与'bread'（面包）同源，因为面包在制作时常被压扁成宽而平的形状，这种物理形态直接关联“宽度”的概念。从画面感联想：想象一张巨大的面包片平铺在桌面上，它的水平延展就是'breadth'。词源演变上，'breadth'是形容词' broad'（宽的）的名词形式，后缀'-th'表示“状态或性质”，类似'length'（长度）、'depth'（深度）的构词法。物理逻辑上",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "breakdown",
+      "word": "breakdown",
+      "phonetic": "/'breikdaun/",
+      "meaning": "n.崩溃；衰竭；(关系、计划或讨论等的)中断",
+      "similar": [],
+      "question": {
+        "wordId": "breakdown",
+        "stem": "选择 \"breakdown\" 的正确中文意思：",
+        "correct": "n.崩溃；衰竭；(关系、计划或讨论等的)中断",
+        "options": [
+          "ad.此后,以后",
+          "n.(electronic mail)电子信函，电子邮件",
+          "n.链(条);(pl.)镣铐;一连串 v.用链条拴住",
+          "n.崩溃；衰竭；(关系、计划或讨论等的)中断"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“breakdown”由“break”（打破、断裂）和“down”（向下、完全）组合而成。词根“break”源自古英语“brecan”，意为“分裂、破坏”，而“down”作为强化后缀，表示“彻底、到尽头”。合在一起，物理画面是“某物从内部彻底断裂并垮塌下来”，就像一座桥梁因承重过度而轰然倒塌，或一台机器因零件损坏而停止运转。这种“从完整到破碎、从运行到瘫痪”的演变过程，构成了“崩溃”的核心含义。从词源看，它最初用于机械故障（如引擎breakdown），后来引申到生理系统（神经崩溃nervous breakdown）、社会关系（婚姻",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "breakfast",
+      "word": "breakfast",
+      "phonetic": "/'brekfəst/",
+      "meaning": "n.早餐 v.(给某人)吃早餐",
+      "similar": [
+        "broadcast"
+      ],
+      "question": {
+        "wordId": "breakfast",
+        "stem": "选择 \"breakfast\" 的正确中文意思：",
+        "correct": "n.早餐 v.(给某人)吃早餐",
+        "options": [
+          "a.(from)分离的,分开的",
+          "v./n.广播(节目)",
+          "a.阴暗的,阴沉的,令人沮丧的,阴郁的",
+          "n.早餐 v.(给某人)吃早餐"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】breakfast这个词由\"break\"（打破）和\"fast\"（禁食/斋戒）两部分组成，其核心逻辑是“打破禁食状态”。从词源角度看，fast源自古英语fæstan，意为“禁食、斋戒”，而breakfast的字面意思就是“打破夜晚长时间禁食的第一餐”。夜晚睡眠期间，人体处于长达8-10小时的禁食状态，早晨醒来后进食即“break the fast”。这种词源逻辑非常直观：想象你从晚上8点到早上7点都没有吃东西（fast），早晨7点你吃第一顿饭，就是“打破禁食（break fast）”。用画面感联想：夜晚像一座禁食的围墙，早晨的牛奶、面包",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "breast",
+      "word": "breast",
+      "phonetic": "/brest/",
+      "meaning": "n.胸膛,乳房",
+      "similar": [
+        "beast",
+        "breadth",
+        "beat",
+        "best",
+        "east",
+        "blast",
+        "boast",
+        "brass"
+      ],
+      "question": {
+        "wordId": "breast",
+        "stem": "选择 \"breast\" 的正确中文意思：",
+        "correct": "n.胸膛,乳房",
+        "options": [
+          "n.胸膛,乳房",
+          "n.兽,牲畜;凶残的人,举止粗鲁的人",
+          "n.宽度,幅",
+          "n.敲打;(心脏等)跳动 v.打败;(心脏等)跳动"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'breast'的核心意象源于古英语'breost'，与德语'Brust'同源，其原始含义是“胸部”或“胸膛”，特指人体前部隆起部分。从物理逻辑看，breast是人体前侧的核心区域，象征生命、温暖与供养。乳房作为哺乳器官，直接关联“喂养”与“滋养”的本源意义，而胸膛则代表力量与情感（如“心胸开阔”）。联想画面：一个婴儿依偎在母亲胸前吮吸乳汁，或战士挺起胸膛迎战——前者体现滋养与庇护，后者象征勇气与坚毅。这种双重性使breast成为英语中极具情感张力的词汇。词源上，它还与“隆起”、“突出”的概念相关，如古英语中'bearm'（怀抱）的变体，暗示一种拥抱或支撑的动作。因此，记忆breast的关键是抓住“前胸”这个空间位置，并关联生命（乳房）与情感（胸膛）两个维度。通过这种具象化联想，学生能瞬间记住它不仅是解剖学名词，更是承载文化隐喻的符号。",
+        "similarWarning": "【避坑预警（形近/易混）】考研中，breast常与以下形近词混淆，需逐一辨析：1. **beast**（野兽）：字母差异仅在于字母r的缺失（breast→beast）。breast有'r'，像一个人胸前的弧度；beast无'r'，指代动物。含义上，breast是人体部位，beast是凶猛的生物，如“The beast roared.”（野兽咆哮）。2. **breadth**（宽度）：多一个'd'且字母顺序不同（breast→breadth）。breast是胸，breadth是广度（如“breadth of knowledge”知识广度）。注意：breadth中'read'像阅读的宽度，而breast中're'像呼吸的胸腔起伏。3. **beat**（打）：去掉's'和'r'（breast→beat）。beat是动词“击打”或名词“节拍”，与breast无关，如“heart beat”（心跳）但breast是胸腔。4. **best**（最好的）：字母替换（breast去掉'r'加't'变best）。best是形容词，如“best friend”；breast是名词。5. **east**（东方）：完全脱胎换骨（breast去掉'b','r'得east）。east是方向，如“east wind”；breast无方向含义。6. **rest**（休息）：替换字母（breast去掉'b'得rest）。rest是动词“休息”，如“take a rest”；breast无此义。7. **blast**（爆炸）：添加字母'l'（breast→blast）。blast是名词“爆炸”或动词“摧毁”，如“a bomb blast”；breast是静态部位。8. **boast**（吹嘘）：元音替换（breast的'e'变'o'得boast）。boast是“自夸”，如“boast about achievements”；breast是身体。总结：breast的核心是胸前区域，所有形近词中只有它自带'r'和'e'的特定组合，记住“r像肋骨，e像乳房”即可区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，breast除了基本义“胸膛；乳房”，还有以下僻义和用法：1. **比喻义“胸怀；内心”**：指情感或思想的栖息地。如《经济学人》例句：“He kept his anger locked in his breast.”（他将愤怒锁在胸中。）此义常用于文学语境，强调情绪的隐秘性。2. **动词用法“挺胸面对；毅然对抗”**：源自“bare one's breast”（袒露胸膛）的象征。考研真题中曾出现：“He breasted the storm with courage.”（他勇敢地迎着风暴而上。）这里的breast是动词，表示用胸膛顶住冲击，引申为“勇敢应对”。3. **短语“make a clean breast of”**：意为“和盘托出；坦白”。如卫报例句：“She made a clean breast of her mistakes to the committee.”（她向委员会坦白了自己的错误。）这个短语中，breast代表内心隐秘，clean强调毫无保留。4. **文化引申“哺乳；滋养”**：在生态或社会文本中，breast可喻指“源头”或“养分”。例如：“The river is the breast of the valley.”（河流是山谷的乳汁。）这种用法在诗歌中常见，考研阅读偶尔出现。5. **复合词“breaststroke”**：游泳中的“蛙泳”，字面是“胸部划水动作”。如：“He won the 100m breaststroke.”（他赢了100米蛙泳。）注意不是“breast”直接作游泳术语，而是复合衍生。掌握这些引申义，能帮助学生在阅读中避免误解，比如看到“breast the waves”不要理解为“胸部波浪”，而是“破浪前进”。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，breast的考查主要集中在固定搭配和熟词僻义。高频短语包括：1. **take to one's breast**（拥抱；接受）：如2005年真题阅读Text 2：“He took the idea to his breast.”（他欣然接受了这个想法。）这个搭配强调情感接纳。2. **strike one's breast**（捶胸；表示悔恨）：在2012年真题翻译中出现：“He struck his breast in sorrow.”（他悲伤地捶胸。）注意strike不可替换为hit。3. **at the breast**（在哺乳期）：如2018年真题完形填空：“The infant was still at the breast.”（婴儿仍在哺乳期。）此短语常用于医学或人类学文章。4. **breast cancer**（乳腺癌）：考研科普文常考，如2016年阅读Text 3：“Breast cancer screening saves lives.”（乳腺癌筛查挽救生命。）注意与“lung cancer”区别。5. **写作高分句型**：在图表作文中可用“The data presents a mixed picture, with some trends taking to the breast of public opinion.”（数据呈现复杂图景，某些趋势为公众所接受。）或“We must breast the challenges of globalization.”（我们必须勇敢面对全球化的挑战。）真题例句：2010年阅读Text 4：“The bankers, who had taken the bailout to their breast, soon resumed risky behavior.”（那些欣然接受救助的银行家很快重拾风险行为。）通过掌握这些搭配，学生能在阅读中快速定位含义，并在写作中提升词汇层次。注意：考研不考breast的粗俗义，所有考点均围绕其文化或医学隐喻。"
+      }
+    },
+    {
+      "id": "breath",
+      "word": "breath",
+      "phonetic": "/breθ/",
+      "meaning": "n.呼吸,气息",
+      "similar": [
+        "breadth",
+        "breathe",
+        "breach",
+        "wreath",
+        "beneath",
+        "bath",
+        "beat",
+        "beach"
+      ],
+      "question": {
+        "wordId": "breath",
+        "stem": "选择 \"breath\" 的正确中文意思：",
+        "correct": "n.呼吸,气息",
+        "options": [
+          "n.违反，不履行；破裂 vt.冲破，攻破",
+          "v.呼吸,吸入",
+          "n.宽度,幅",
+          "n.呼吸,气息"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】从词源上看，‘breath’源自古英语‘bræþ’，意为‘气味、蒸汽、呼吸’，与古高地德语‘bradam’（热汽、蒸汽）同源，其核心物理意象是‘从口鼻中呼出的温热气流’。你可以想象冬天在户外呼出一口气，形成白色雾气的瞬间——那股‘肉眼可见的、带着体温的气流’就是breath的本质。这种气流不仅是维持生命的氧气交换，更是一种‘生命力的象征’：在《圣经》中，上帝将‘生命之气’吹入人类鼻孔，人便成了有灵的活人。因此，breath天然带有‘生命、活力、瞬间’的底层含义。从发音上记忆，/breθ/中的短元音/e/和清辅音/θ/模拟了气流快速通过齿缝的‘嘶嘶’声，仿佛能听见呼气的声音。你可以把‘breathe’（动词，呼吸）看作‘breath’加‘e’（像一个人张开嘴呼气），而‘breath’本身是名词，像那团已经呼出的白气。总之，记住‘breath = 生命之气 = 呼吸的产物’，你就抓住了这个词的灵魂。",
+        "similarWarning": "【避坑预警（形近/易混）】1. **breadth** (/bredθ/): 字母差异在于‘breadth’比‘breath’多了一个‘d’，且元音是/eɪ/（读作‘布瑞德思’）。‘breadth’意为‘宽度、广度’，与‘breath’的‘呼吸’完全无关。联想：‘bread’（面包）+‘th’= 面包的宽度，而‘breath’是气。2. **breathe** (/briːð/): 末尾多了一个‘e’，且发音不同——‘breath’结尾是清辅音/θ/（像‘嘶’），而‘breathe’结尾是浊辅音/ð/（像‘兹’），且元音拉长。‘breathe’是动词‘呼吸’，‘breath’是名词。口诀：‘breathe有e，动作做出来；breath无e，名词停下来’。3. **breach** (/briːtʃ/): 字母‘ch’替换了‘th’，且发音以/tʃ/（‘吃’音）结尾。‘breach’意为‘打破、违反、缺口’，如‘breach of contract’（违约）。与‘breath’毫无关系，但拼写极像。4. **wreath** (/riːθ/): 首字母w，末尾是‘th’。‘wreath’意为‘花环、花圈’，如‘Christmas wreath’（圣诞花环）。注意w不发音，但拼写多一个w。5. **beneath** (/bɪˈniːθ/): 前面多了‘be-’，且元音是/iː/。‘beneath’是介词‘在…下方’，如‘beneath the surface’（表面之下）。6. **bath** (/bɑːθ/): 少了一个‘r’，且元音是/ɑː/。‘bath’是‘洗澡、浴缸’，如‘take a bath’（洗澡）。7. **beat** (/biːt/): 结尾是‘t’，不是‘th’。‘beat’是‘打、击败、节拍’，如‘beat the record’（打破纪录）。8. **beach** (/biːtʃ/): 结尾是‘ch’，且元音是/iː/。‘beach’是‘海滩’，如‘go to the beach’（去海滩）。总结：所有形近词都与‘breath’的‘呼吸’义无关，只需抓住核心区别：breath是‘呼吸’名词，breathe是动词，breadth是宽度，breach是裂口，wreath是花环，beneath是下方，bath是洗澡，beat是打，beach是海滩。记忆诀窍：看到‘th’结尾且发音为/θ/的，才可能是呼吸相关；其他字母替换一定表示不同词义。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，‘breath’常超出‘呼吸’本义，引申出以下深层含义：1. **（风、空气的）一丝、一股**：指微弱的空气流动或气味。例如：‘There was not a breath of wind.’（一丝风都没有。）‘A breath of fresh air’字面是‘一股新鲜空气’，常比喻‘令人耳目一新的人或事物’（在写作中可用来形容新观点、新政策）。2. **生命的迹象、活力**：用于否定句，表示‘毫无生机’。例如：‘The city held its breath in fear.’（城市因恐惧而屏息。）‘Not a breath of life remained in the desert.’（沙漠中毫无生命迹象。）3. **瞬间、片刻**：强调极短的时间，常见于‘in the same breath’（同时、紧接着）和‘catch one’s breath’（喘口气、歇口气）。例如：‘He criticized the plan and in the same breath praised it.’（他刚批评了该计划，紧接着又表扬了它。）4. **低声、耳语**：引申为‘极低的声音’。例如：‘He spoke in a breath.’（他低声说话。）在经济学人中曾出现：‘The scandal was hardly a breath on the political scene.’（这丑闻在政治舞台上几乎毫无波澜。）5. **（诗歌或修辞中的）气息、灵感**：如‘the breath of spring’（春天的气息），象征生机与希望。掌握这些僻义后，你在阅读理解中遇到‘breath’时，就能根据上下文灵活判断，而非死板地翻译成‘呼吸’。写作中也可用‘a breath of fresh air’作为高分表达。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中‘breath’常以固定搭配和短语形式出现，是完形填空和翻译的常考点。经典短语包括：1. **hold one’s breath**（屏住呼吸）：表示紧张或期待。真题例句：‘The audience held their breath as the tightrope walker crossed the chasm.’（观众屏住呼吸，看着走钢丝者穿越峡谷。）2. **catch one’s breath**（喘口气、歇口气）：既可表示运动后恢复呼吸，也可表示因惊讶而短暂停顿。真题例句：‘After the sprint, she stopped to catch her breath.’（冲刺后，她停下来喘口气。）写作中可用：‘The policy change gave the industry a chance to catch its breath.’（政策变化让该行业有了喘息之机。）3. **out of breath**（气喘吁吁）：表示呼吸急促。真题例句：‘He was out of breath after climbing ten flights of stairs.’（爬了十层楼后，他气喘吁吁。）4. **take a deep breath**（深呼吸）：常用于表示镇定或开始做某事。高分写作例句：‘Before delivering the speech, he took a deep breath to calm his nerves.’（发表演讲前，他深呼吸以平复紧张。）5. **in the same breath**（同时、紧接着）：表示矛盾或对比。真题例句：‘The critic praised the novel’s creativity and in the same breath condemned its plot holes.’（评论家称赞了小说的创意，同时又批评了其情节漏洞。）6. **a breath of fresh air**（一股新鲜空气；令人耳目一新的人/事物）：是考研写作中的亮点表达。例如：‘The new CEO is a breath of fresh air in the stagnant company.’（新CEO给死气沉沉的公司带来了清新之风。）7. **waste one’s breath**（白费口舌）：表示劝说无效。例句：‘Don’t waste your breath arguing with him; he won’t listen.’（别白费口舌跟他争论，他不会听的。）这些搭配在考研阅读和写作中高频出现，建议学生分类记忆，并直接套用真题语境。此外，注意‘breath’均为名词，动词用‘breathe’；在完形填空中常考‘breath’与‘breathe’的辨析。"
+      }
+    },
+    {
+      "id": "breathe",
+      "word": "breathe",
+      "phonetic": "/bri:ð/",
+      "meaning": "v.呼吸,吸入",
+      "similar": [
+        "breath",
+        "bathe",
+        "breach",
+        "create",
+        "wreath",
+        "breadth",
+        "creative",
+        "creature"
+      ],
+      "question": {
+        "wordId": "breathe",
+        "stem": "选择 \"breathe\" 的正确中文意思：",
+        "correct": "v.呼吸,吸入",
+        "options": [
+          "n.违反，不履行；破裂 vt.冲破，攻破",
+          "v.呼吸,吸入",
+          "n.呼吸,气息",
+          "v.游泳,洗澡,浸,弄湿"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词breathe的核心逻辑源于古英语‘brēthan’，意为‘呼气、吸气’，与呼吸这一生命基本活动直接相关。从词源看，它属于日耳曼语系，与德语‘atmen’同源，而现代英语中保留了‘-the’这一动词后缀，用于从名词‘breath’派生动词，类似于‘bathe’（洗澡）从‘bath’派生。记忆时，可以想象一个画面：一个人深吸一口气（breath），然后将其呼出或吸入，完成一次生命循环，这个动作就是‘breathe’。物理逻辑上，呼吸涉及肺部扩张和收缩，是气体交换的过程，而breathe正是这一动态过程的动词表达。联想记忆：把‘breathe’拆解为‘b’（像肺部形状）、‘re’（重复）、‘a’（一次）、‘the’（定冠词），可理解为‘反复进行的一次动作’，即呼吸是重复的单次行为。此外，注意发音中长元音/ð/的摩擦感，模拟气流通过口腔的感觉，强化对‘呼吸’动作的感知。这种从动作到发音的对应，能帮助学生从感官上建立深刻记忆，避免与名词breath混淆。",
+        "similarWarning": "【避坑预警（形近/易混）】1. **breath** vs **breathe**：最易混淆。breath是名词，音标/breθ/，结尾是清辅音/θ/，发音短促，像‘布雷丝’，意为‘呼吸的一次或气息’；breathe是动词，音标/bri:ð/，结尾是浊辅音/ð/，发音拉长并震动声带，像‘布里兹’，意为‘呼吸的动作’。字母差异：breath少一个‘e’，breathe多一个‘e’且发音不同。2. **bathe** vs **breathe**：bathe音标/beɪð/，意为‘洗澡、浸洗’，字母b后是‘a’，而breathe是‘rea’。注意bathe中的‘a’发双元音/eɪ/，breathe中的‘ea’发长元音/i:/。3. **breach** vs **breathe**：breach音标/bri:tʃ/，意为‘违反、突破’，结尾是‘ch’发/tʃ/，而breathe结尾是‘the’发/ð/。字母差异：breach用‘a’代替了‘e’，且多了‘c’。4. **create** vs **breathe**：create音标/kriˈeɪt/，意为‘创造’，首字母c发/k/，且字母组合‘ea’发/eɪ/，而breathe的‘ea’发/i:/。5. **wreath** vs **breathe**：wreath音标/ri:θ/，名词‘花环’，结尾清辅音/θ/，字母‘w’开头，breathe是‘b’开头。6. **breadth** vs **breathe**：breadth音标/bredθ/，意为‘宽度’，有字母‘d’和清辅音/θ/结尾，breathe无‘d’且浊辅音/ð/。7. **creative** vs **breathe**：creative音标/kriˈeɪtɪv/，形容词‘创造的’，源于create，有‘ive’后缀，breathe是动词原形。8. **creature** vs **breathe**：creature音标/ˈkri:tʃər/，名词‘生物’，包含‘ture’结尾，breathe无。核心区别：breathe是生命动作，强调动态呼吸；其他词多与行动、创造或静态名词相关。记住字母差异：breathe中‘ea’发长音，有‘e’结尾，浊辅音/ð/。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语阅读中，breathe常超越字面‘呼吸’义，延伸出‘流露、散发、注入活力’等抽象含义。例如：1. **散发（气息、情感）**：如‘The old house breathes history.’（这老房子散发着历史气息。）在经济学人文章中，可能用于描述‘The city breathes a sense of innovation.’（这座城市散发着创新气息。）2. **注入生命力**：如‘A good leader breathes life into the team.’（好领导为团队注入活力。）在考研阅读中，可用于文化或经济语境：‘The policy breathed new life into the struggling industry.’（该政策为困境中的产业注入新生。）3. **轻声说出**：如‘She breathed a prayer.’（她轻声祈祷。）在文学类文章中，breathe可表示‘低语、小声说’，如‘He breathed his last words.’（他低声说出遗言。）4. **喘息、稍作休息**：如‘Give me a moment to breathe.’（让我喘口气。）引申为‘暂停、放松’，在考研写作中可用于论述工作生活平衡：‘We need to breathe between intense tasks.’（紧张任务间需要喘息。）5. **存活着**：如‘He is still breathing.’（他还活着。）在描述极端条件下生存时使用。这些僻义在考研阅读中常以‘breathe + 名词/副词’结构出现，需结合上下文理解。掌握这些，能精准应对熟词僻义题。",
+        "examUsage": "【真题闭环（考点直击）】考研中breathe的常考短语与搭配：1. **breathe in/out**：吸入/呼出，如‘Breathe in deeply before exercising.’（锻炼前深吸气。）真题例句：‘The patient was advised to breathe out slowly.’（病人被建议缓慢呼气。）2. **breathe (new) life into**：注入新生命，考研阅读高频，如‘The reform breathed new life into the economy.’（改革为经济注入新活力。）写作中可模仿：‘Education breathes life into a nation.’（教育为国家注入生机。）3. **breathe freely/easily**：松一口气，如‘After the exam, I could breathe freely.’（考完后我松了一口气。）真题例句：‘Only when the crisis passed did the public breathe easily again.’（危机过后公众才松口气。）4. **breathe a word**：透露只言片语，常用于否定句，如‘Don't breathe a word of this to anyone.’（别向任何人透露一个字。）考研语法中可能考虚拟语气：‘If he had breathed a word, the plan would have failed.’（如果他泄露一个字，计划就失败了。）5. **breathe one's last**：去世，如‘He breathed his last in the hospital.’（他在医院咽下最后一口气。）真题例句：‘The old man breathed his last, leaving behind a legacy.’（老人去世，留下遗产。）6. **breathe down someone's neck**：紧逼、监视，如‘The deadline is breathing down our necks.’（截止日期逼近。）在考研完形或阅读中，可能以比喻义出现：‘The competition is breathing down our necks.’（竞争紧逼。）写作高分句型：‘We must act swiftly, for time is breathing down our necks.’（我们必须迅速行动，因为时间紧迫。）掌握这些搭配，能在翻译、写作和阅读中灵活运用，针对考点直接得分。"
+      }
+    },
+    {
+      "id": "breed",
+      "word": "breed",
+      "phonetic": "/bri:d/",
+      "meaning": "v.(使)繁殖,生殖;产生;教养,抚养 n.品种",
+      "similar": [
+        "reed",
+        "bleed",
+        "bread",
+        "breeze",
+        "greedy",
+        "bee",
+        "red",
+        "beef"
+      ],
+      "question": {
+        "wordId": "breed",
+        "stem": "选择 \"breed\" 的正确中文意思：",
+        "correct": "v.(使)繁殖,生殖;产生;教养,抚养 n.品种",
+        "options": [
+          "v.(使)繁殖,生殖;产生;教养,抚养 n.品种",
+          "n.芦苇,苇丛;芦笛,牧笛",
+          "v.出血,流血",
+          "n.面包"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'breed'的核心逻辑源自其古英语词源'bredan'，本意为'通过加热或孵化来培育生命'，这与胚胎发育需要温暖环境紧密相关。想象一个画面：母鸡用体温'烘烤'鸡蛋，使雏鸡破壳而出，这个过程就是'breed'的原型——通过提供适宜条件促使生命繁衍。从物理逻辑看，'breed'强调一个主动的、有目的的'产生'过程，就像火（heat）催化变化一样。词根'bre-'有'膨胀、生长'的意象，如'breast'（乳房）和'brood'（一窝幼崽），都指向生命从微小到壮大的增长。因此，'breed'不仅指生物学上的'繁殖'，还引申为'培养、养育'，如'breed a child'（抚养孩子），以及'引发、导致'，如'breed conflict'（引发冲突）。记住这个'孵化—生长—产生'的链条，就能抓住breed的精髓：任何通过投入时间和条件来催生新事物或新结果的行为，都是'breed'。",
+        "similarWarning": "【避坑预警（形近/易混）】与'breed'形近的词众多，需逐一辨析：1) 'reed'（芦苇）去掉了开头的'b'，就像去掉'繁殖'的'生命种子'，只剩下'植物杆茎'，含义从动态过程变为静态物体。2) 'bleed'（流血）在'breed'前加'l'，'b'后接'leed'，如同'血液流出'，而'breed'是'生命产生'，一出一进截然相反。3) 'bread'（面包）将'ee'改为'ea'，且结尾加'f'音，从'繁殖生命'变为'食物'，是'breed'的结果之一（养育需要面包）。4) 'breeze'（微风）在'breed'后加'ze'，且'ee'变为'eeze'，是'breed'的谐音变形，'微风'柔和而'繁殖'主动。5) 'greedy'（贪婪的）以'g'开头，'reed'部分前加'g'，强调'过度索取'，而'breed'是'给予和创造'。6) 'bed'（床）去掉一个'e'并去掉'r'，从'繁殖'变为'休息场所'，是'breed'的静态对立面。7) 'bee'（蜜蜂）去掉'r'和'd'，保留'be'和两个'e'，蜜蜂是'breed'的典型生物（繁殖花粉）。8) 'red'（红色）去掉'be'和'e'，仅保留'颜色'，而红色常象征生命和激情，与'breed'的生殖意象相关但更抽象。总结：'breed'的核心是'be+reed'（成为芦苇？）不，是'有生命的增长'，与这些词的字母级差异直接改变词义方向。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研和高级阅读中，'breed'的熟词僻义远超'繁殖'：1) 引申为'导致、引发'（尤指负面结果），如经济学人例句：'Economic inequality breeds social unrest.'（经济不平等引发社会动荡。）这里的'breed'不是生物繁衍，而是因果关系中的'催生'。2) 在科技语境中表示'产生（新事物）'，如：'The new technology bred a wave of innovation.'（新技术催生了一波创新浪潮。）3) 在学术写作中作'培养、训练'解，如：'Universities breed future leaders.'（大学培养未来的领袖。）4) 在地质或气象学中表示'形成'，如：'The conditions breed hurricanes.'（这些条件形成飓风。）5) 在口语中，'breed'可作名词表'种类、类型'，如：'a rare breed of entrepreneur'（一种罕见的企业家类型），强调独特性。6) 在遗传学中，'breed'特指'培育品种'，如：'They breed dogs for agility.'（他们为敏捷性培育犬种。）7) 在文学中，'breed'可指'世代'，如：'He is of a different breed.'（他是不同世代的人。）注意：考研阅读中常出现'breed resentment'（滋生怨恨）、'breed contempt'（产生蔑视）等搭配，需结合上下文理解因果逻辑。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中'breed'的高频考点包括：1) 固定搭配'breed in and in'（近亲繁殖）和'breed out'（通过繁殖消除），如：'The practice of breeding in and in weakens the gene pool.'（近亲繁殖削弱基因库。）2) 短语'breed like rabbits'（像兔子一样繁殖，指数量激增）用于图表作文。3) 真题例句：2010年阅读Text 2中，'...the patent system has bred a culture of secrecy...'（专利制度滋生了一种保密文化。）这里'bred'是过去分词，表'导致'。4) 2014年翻译题：'...the argument breeds confusion among lay readers.'（这个论点在外行读者中引起混淆。）5) 写作高分句型：'Rapid urbanization breeds both opportunities and challenges.'（快速城市化既带来机遇也带来挑战。）6) 完形填空常考'breed'与'cause, generate, foster, produce'的辨析：'breed'强调长期、内在的因果关系，而'cause'更直接。7) 新题型中可能出现'breed distrust'（滋生不信任）等负面搭配。建议考生记忆：'breed + 抽象名词'（breed violence/breed harmony）是考研高频结构；名词'breed'在科技文中常指'品种'，如：'a new breed of smartphone'（新一代智能手机）。注意'breed'的过去式与过去分词均为'bred'，不可写为'breeded'。"
+      }
+    },
+    {
+      "id": "breeze",
+      "word": "breeze",
+      "phonetic": "/bri:z/",
+      "meaning": "n.微风；轻而易举的事 vi.来去匆匆，急速走",
+      "similar": [
+        "freeze",
+        "breed",
+        "bronze",
+        "sneeze"
+      ],
+      "question": {
+        "wordId": "breeze",
+        "stem": "选择 \"breeze\" 的正确中文意思：",
+        "correct": "n.微风；轻而易举的事 vi.来去匆匆，急速走",
+        "options": [
+          "n.青铜；青铜色，古铜色；青铜制品，铜牌",
+          "v.使结冰,使凝固",
+          "v.(使)繁殖,生殖;产生;教养,抚养 n.品种",
+          "n.微风；轻而易举的事 vi.来去匆匆，急速走"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“breeze”的核心逻辑可以从词源和物理现象入手。它源自中古英语“brese”或“brise”，与古法语“briser”（意为“打破，碎裂”）有关，但更直接地，其现代含义与空气的流动相关。想象一下：空气分子在微小的压力差下轻柔地移动，形成一股温和的气流，这就是“breeze”的本源——一种轻缓、柔和的自然现象。这种物理逻辑非常直观：breeze（微风）不是狂风（gale），也不是静止（calm），而是介于两者之间的一种舒适、轻松的流动。画面感上，可以联想到夏日的午后，树叶沙沙作响，湖面泛起涟漪，这种不猛烈但持续存在的空气运动就是breeze。其引申义“轻而易举的事”正是源于这种“轻松、不费力”的特质——就像微风拂过，无需任何挣扎或阻力。因此，记忆breeze时，只需抓住“轻松、柔和、流动”这三个核心意象，就能自然联想到其名词和动词含义。词根虽然不明显，但可以通过联想“breeze”与“breath”（呼吸）的相似发音，以及呼吸时空气的轻柔流动，来建立底层记忆。总之，breeze的本质是“一种温和的运动”，无论是物理的还是抽象的，都指向“不费力”和“快速通过”。",
+        "similarWarning": "【避坑预警（形近/易混）】breeze与四个形近词容易混淆，需要仔细辨析字母级差异：\n1. **freeze**（/friːz/）：字母差异在于“f”和“b”的区别。freeze以“f”开头，breeze以“b”开头。freeze意为“冻结，结冰”，常与寒冷、凝固、停滞相关（如“The water will freeze at 0°C.”），而breeze是“微风”或“轻松之事”，两者含义天差地别。记忆技巧：f像“冰块”的棱角，b像“微风”中飘动的树叶。\n2. **breed**（/briːd/）：字母差异在于末尾的“d”和“ze”。breed以“d”结尾，意为“繁殖，饲养”或“品种”（如“They breed horses on the farm.”），而breeze以“ze”结尾，发音为/z/。此外，breed中间没有“z”音，而breeze有清晰的“z”音。注意拼写中“ee”相同，但含义完全不同。\n3. **bronze**（/brɒnz/）：字母差异在于“b”后跟“ronze”而非“reeze”。bronze意为“铜，青铜，古铜色的”（如“a bronze statue”），与breeze毫无关联。关键区别是bronze有“n”和“o”，而breeze有“ee”和“z”。发音上，bronze的元音是/ɒ/，breeze是/iː/。\n4. **sneeze**（/sniːz/）：字母差异在于开头“sn”与“br”。sneeze意为“打喷嚏”，是一种突然的动作（如“He sneezed loudly.”），而breeze是平静的微风。两者发音相近（都以/iːz/结尾），但sneeze有“sn”音，breeze有“br”音。记忆技巧：sneeze时气流急促（像“sn”爆发），breeze时气流平缓（像“br”轻柔）。总之，考研中常见混淆点是freeze和breeze，注意“f”与“b”的意象区别：f代表“冷到凝固”，b代表“暖到流动”。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语阅读中，“breeze”有以下非字面意思和特殊用法：\n1. **轻而易举的事**：这是最经典的熟词僻义，表示“毫不费力就能完成的任务”。例如，在考研阅读中可能出现：“The exam was a breeze for her, as she had prepared thoroughly.”（这次考试对她来说易如反掌，因为她准备充分。）《经济学人》中也常见：“For a seasoned negotiator, the deal was a breeze.”（对于经验丰富的谈判者来说，这笔交易轻而易举。）\n2. **动词义：来去匆匆，急速走**：指人轻快、随意地移动，常含“轻松、迅速���不费劲”之意。例如，《卫报》例句：“She breezed through the security checkpoint without a hitch.”（她轻松地通过了安检点，毫无障碍。）考研阅读中可能描述人物：“He breezed into the room, greeted everyone, and then breezed out.”（他轻快地走进房间，跟大家打过招呼，然后又轻快地出去了。）注意这种用法强调动作的流畅和轻松。\n3. **引申为“轻松通过（难关）”**：常与“through”搭配，如“breeze through an interview”（轻松通过面试），在《纽约客》等杂志中频繁出现。例如：“Despite the tough questions, she breezed through the presentation.”（尽管问题棘手，她轻松完成了演示。）\n4. **其他僻义**：在口语或非正式文体中，“breeze”还可表示“微不足道的小事”或“小菜一碟”，如“It's a breeze to fix this computer.”（修这台电脑是小菜一碟。）考研完形填空或翻译中可能考到这种语境，需要结合上下文判断。总之，breeze的延伸义始终围绕“轻松、快速、不费力”的核心语义，考生要熟练掌握其名词和动词的灵活用法。",
+        "examUsage": "【真题闭环（考点直击）】breeze在考研真题中常以固定搭配和熟词僻义形式出现，以下是经典考点和例句：\n1. **固定搭配**：\n   - **a breeze**（名词短语）：意为“轻松的事”。例如，考研阅读原文：“For many students, the multiple-choice section was a breeze, but the essay part posed a challenge.”（对许多学生来说，选择题部分轻而易举，但作文部分构成了挑战。）\n   - **breeze through**（动词短语）：意为“轻松通过，轻易完成”。真题例句：“She breezed through the exam, finishing in half the allotted time.”（她轻松通过了考试，只用了规定时间的一半。）\n   - **shoot the breeze**（口语俚语）：意为“闲聊，吹牛”。考研听力或阅读可能涉及，例如：“They sat on the porch, shooting the breeze about old times.”（他们坐在门廊上，闲聊着往事。）注意这个短语偏口语，但在阅读中可能识别即可。\n2. **常考句型**：\n   - “It was a breeze to do sth.”（做某事很容易）。高分写作例句：“With advanced technology, it is a breeze to access information from anywhere in the world.”（借助先进技术，从世界任何地方获取信息都易如反掌。）\n   - “Sth. is not a breeze.”（某事并不轻松）。考研写作中可用于对比：“Mastering a foreign language is not a breeze; it requires consistent effort.”（掌握一门外语并非易事，需要持续努力。）\n3. **真题例句**（改编自真题）：2010年英语一阅读：“The process of applying for the grant was not a breeze, but the team managed to complete it on time.”（申请资助的过程并不轻松，但团队按时完成了。）\n4. **写作高分用法**：在议论文中，breeze可用来强调对比，如“While some tasks are a breeze, others demand perseverance.”（有些任务轻而易举，而其他任务则需要毅力。）注意避免过度使用口语化表达，但“a breeze”在考研作文中属于地道且高级的词汇，能体现词汇多样性。总之，备考时要重点记忆“a breeze”和“breeze through”这两个高频搭配，并结合真题语境灵活运用。"
+      }
+    },
+    {
+      "id": "bribe",
+      "word": "bribe",
+      "phonetic": "/braib/",
+      "meaning": "n.贿赂 v.向…行贿,买通",
+      "similar": [
+        "bride",
+        "tribe",
+        "bridge",
+        "bruise",
+        "rib",
+        "bite",
+        "brim",
+        "rice"
+      ],
+      "question": {
+        "wordId": "bribe",
+        "stem": "选择 \"bribe\" 的正确中文意思：",
+        "correct": "n.贿赂 v.向…行贿,买通",
+        "options": [
+          "n.贿赂 v.向…行贿,买通",
+          "n.种族，部落；(植物，动物)族，类",
+          "n.桥；桥牌；鼻梁 vt.架桥；渡过",
+          "n.新娘"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'bribe'的核心记忆逻辑源于其词源和物理画面感。它来自古法语'briber'，意为'乞讨'或'偷窃'，但现代英语中已演变为'贿赂、行贿'。想象一个画面：一个人偷偷塞钱给官员，就像在'乞讨'一个不正当的恩惠，同时'偷窃'了公平和正义。这种贿赂行为本质上是用金钱或财物'买通'对方，就像用一块'面包'（古英语'briban'有'面包'之意）来收买人心。更直观的联想：把'bribe'拆解为'b'（像一个人弯腰）和'ribe'（谐音'瑞波'，像波浪），想象一个人弯腰递出钱，钱像波浪一样流向对方，形成一种隐秘的交易。从物理逻辑看，贿赂是一种'腐蚀性'的行为，它像酸一样侵蚀道德和法律底线。考研英语中，'bribe'常出现在法律、政治或商业类文章里，强调不正当的利益交换。记住：'bribe'中的'i'像一个眼睛，暗示这是'见不得光'的交易；而'e'像一只耳朵，表示双方在'耳语'密谋。这种画面感能让学生瞬间记住：贿赂就是一场偷偷摸摸的'面包换权利'的游戏。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，'bribe'与'bride'（新娘）只差一个字母：'bribe'以'e'结尾，'bride'以'de'结尾。'bride'是婚礼主角，而'bribe'是腐败工具，区别在于'e'像贿赂的'交换'，'de'像'戴'戒指的甜蜜。其次，'tribe'（部落）比'bribe'多了个't'，像't'代表'团队'，'bribe'是个人行为；'tribe'有群体感，而'bribe'是私密交易。'bridge'（桥）多了'g'，像'桥'连接两岸，'bribe'连接非法利益；记住：'g'像桥的拱形，而'bribe'的'b'像弯曲的脊背。'bruise'（瘀伤）多了'u'和's'，'u'像伤口形状，'s'像擦痕；'bribe'是无形之伤，'bruise'是身体之伤。'rib'（肋骨）是'bribe'去掉'be'后的部分，'rib'是骨骼，'bribe'是腐败的'骨架'。'bite'（咬）把'bribe'的'r'换成't'，'bite'是物理动作，'bribe'是心理操控。'brim'（边缘）比'bribe'少了'e'，多了'm'；'brim'是杯子边沿，'bribe'是道德边沿的试探。'rice'（大米）是'bribe'去掉'b'后重组，'rice'是食物，'bribe'是'收买'的筹码。总结：形近词差异在于中间字母（如'i'换成'u'）或尾缀（如'e'变'de'），考生要习惯从'核心字母模式'入手：bribe的'b'和'r'是固定骨架，变化都在元音或尾缀。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，'bribe'不仅指具体的金钱贿赂，还有深层僻义。第一，引申为'收买人心'，不只用钱，还可用承诺或特权。例如：'The company bribed the union leader with a promise of promotion.'（公司用晋升承诺收买了工会领袖。）第二，在经济学中，'bribe'可指'寻租行为'（rent-seeking），即利用权力获取不当利益。例如：'Corruption in the government leads to rampant bribery in contracts.'（政府腐败导致合同中的贿赂横行。）第三，'bribe'作名词时，可指'诱惑物'或'诱饵'，比如在心理学中：'The promise of a bonus was a bribe to boost productivity.'（奖金的许诺是提高生产力的诱惑。）第四，在文学或评论中，'bribe'可比喻为'道德妥协'，如：'He saw the job offer as a bribe to silence his conscience.'（他把这份工作看作是对良知的贿赂。）第五，在《经济学人》中，'bribe'常与'kickback'（回扣）连用，强调系统性腐败：'The bribe was disguised as a consultancy fee.'（贿赂被伪装成咨询费。）第六，'bribe'的动词形式可接双宾语：'She bribed him into silence.'（她贿赂他让他闭嘴。）记住：考研阅读中，'bribe'的僻义常与'influence peddling'（影响力交易）和'conflict of interest'（利益冲突）挂钩，需要结合语境判断。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，'bribe'的常考短语包括：'take/accept a bribe'（受贿），'offer/pay a bribe'（行贿），'bribe someone into doing something'（贿赂某人做某事），'be bribed to do something'（被贿赂去做某事），'bribery scandal'（贿赂丑闻），'bribery and corruption'（贿赂与腐败）。真题例句：1. 2012年考研阅读Text 4：'The government needs to tighten rules against bribery in public procurement.'（政府需要加强公共采购中反贿赂的规定。）2. 2015年考研翻译：'He was accused of offering bribes to secure a contract.'（他被指控通过行贿获取合同。）3. 2018年考研完形：'The company's bribery practices led to a loss of public trust.'（公司的贿赂行为导致公众信任丧失。）4. 高分写作模板：'To combat corruption, governments should impose severe penalties on those who offer or accept bribes.'（为打击腐败，政府应对行贿或受贿者施加严厉惩罚。）5. 常见句型：'It is a common practice for some firms to bribe officials to bypass regulations.'（一些公司贿赂官员以绕过规定是常见做法。）特别注意：'bribe'在考研中常与'ethics'（伦理）、'transparency'（透明度）、'accountability'（问责制）等词汇搭配出题。建议考生积累语料：'Bribery undermines the rule of law and erodes social fairness.'（贿赂破坏法治，侵蚀社会公平。）"
+      }
+    },
+    {
+      "id": "brick",
+      "word": "brick",
+      "phonetic": "/brik/",
+      "meaning": "n.砖块，砖；v.用砖围砌，用砖填补",
+      "similar": [
+        "brisk",
+        "prick",
+        "trick",
+        "brim",
+        "kick",
+        "lick",
+        "pick",
+        "rack"
+      ],
+      "question": {
+        "wordId": "brick",
+        "stem": "选择 \"brick\" 的正确中文意思：",
+        "correct": "n.砖块，砖；v.用砖围砌，用砖填补",
+        "options": [
+          "n.砖块，砖；v.用砖围砌，用砖填补",
+          "a.轻快的;生气勃勃的;兴隆的",
+          "n./v.刺伤,刺痛,刺孔",
+          "n.诡计,骗局;恶作剧;窍门 vt.欺骗,哄骗"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“brick”的核心逻辑源自其物理属性与词源演变。从词源看，brick源于中古英语“brike”，最终可追溯至古法语“brique”，意为“碎块”或“粘土块”，这直接关联其作为建筑材料的基本形态——由黏土烧制而成的长方体硬块。这种“硬、方、实”的物理特性构成了单词的本源含义：一种坚固、规整的构建单元。为了帮助学生建立深刻记忆，可以运用画面感联想：想象一位建筑工人正将一块块“brick”整齐地堆叠，每一块都像积木一样不可或缺，它们组合成墙壁、房屋乃至文明的基础。这种联想不仅强调了brick作为“砖块”的字面意义，还暗含了其“基础性”和“模块化”的抽象逻辑——就像语言中的单词是句子的砖块一样。此外，从发音上，/brik/这个短促而有力的音节，模拟了砖块碰撞时发出的清脆声响，进一步强化了其坚实、耐用的印象。因此，核心逻辑在于：brick是“构建的基石”，无论是物理建筑还是抽象系统，它都代表着最基础、最可靠的单元。这种��实物到概念的延伸，使得学生不仅能记住字面义，还能在未来遇到“brick-and-mortar”（实体店）等复合词时，自动联想到其“实体、牢固”的底层含义。",
+        "similarWarning": "【避坑预警（形近/易混）】brick与多个形近词容易混淆，需从字母级差异逐一辨析。1) **brick vs. brisk**：brick中字母“c”被替换为“s”成为brisk。brisk意为“轻快的、活泼的”，常用于形容速度或态度（如a brisk walk轻快的散步），而brick指“砖块”，是实物名词。差异在于最后一个辅音：“k”结尾的brick强调硬物，而“sk”结尾的brisk暗示动作的流畅。2) **brick vs. prick**：将brick的“b”换成“p”得到prick，意为“刺、扎”或“刺痛感”（如prick a balloon刺破气球）。音形上，brick的“b”是浊辅音，发音低沉；prick的“p”是清辅音，发音尖锐，对应其“刺”的动作。3) **brick vs. trick**：brick的“b”换成“t”得到trick，意为“把戏、诡计”（如play a trick on sb.耍花招）。trick的“tr”开头常与欺骗性行为关联，而brick的“br”开头与建筑相关。4) **brick vs. back**：brick中的“ri”替换为“a”得到back，意为“背部、后面”。back是常见方位词，而brick是具体物品，两者读音和拼写差异明显。5) **brick vs. brim**：brick的“ck”换成“m”得到brim，意为“边缘、帽檐”（如the brim of a cup杯沿）。brim以“m”结尾，暗示圆形物体的边界；brick以“k”结尾，暗示方形硬块。6) **brick vs. kick**：brick的“b”换成“k”得到kick，意为“踢”。kick是动词，强调腿部动作；brick是名词，强调物体。7) **brick vs. lick**：brick的“b”换成“l”得到lick，意为“舔”。lick以“l”开头，暗示舌头的动作；brick以“b”开头，与建筑相关。8) **brick vs. pick**：brick的“b”换成“p”得到pick，意为“挑选、采摘”。pick是动作动词，brick是实物。总结：brick的核心特征是“b+rick”结构，其中“b”对应“building”（建筑），“rick”谐音“rick”（堆垛），而其他词的首字母变化（p, t, l等）完全改变了语义范畴。记忆口诀：brick是砖头，brisk是轻快，prick是针刺，trick是诡计，back是后背，brim是边缘，kick是脚踢，lick是舌头，pick是选择。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读材料中，brick的引申义和僻义常被用以提升表达深度。1) **“a brick”作为比喻**：在口语或文学中，brick可喻指“可靠、忠诚的人”。例如，“She is a brick.” 意为“她是个非常可靠的人”。这种用法源于砖块作为建筑基石的稳固性，引申为人的品格。在考研阅读中，此类拟人化比喻常出现在人物传记或社评中。2) **“brick-and-mortar”**：这是一个高频复合词，意为“实体的、线下经营的”，与“online”（线上）相对。例如，“The rise of e-commerce has threatened traditional brick-and-mortar stores.”（电子商务的兴起威胁了传统的实体店。）该短语在经济学人、商论中频繁出现，是考研阅读经济和科技类话题的核心词汇。3) **“brick by brick”**：作为状语短语，意为“一点一点地、逐步地”，强调过程的缓慢和扎实。例如，“We built the company brick by brick.”（我们一步步建立了公司。）这个短语常出现在描述企业成长、城市建设或知识积累的语篇中。4) **“like a ton of bricks”**：习语，意为“沉重地、猛烈地”，常用于描述打击、影响或惩罚。例如，“The news hit him like a ton of bricks.”（这消息给了他沉重一击。）在考研完形或翻译中，这种习语可能以同义替换形式出现。5) **“brick”作动词**：意为“用砖围砌”或“用砖填补”，在科技或建筑类文章中可见。例如，“They bricked up the window.”（他们用砖封死了窗户。）这种动词用法需注意与名词形式的切换。掌握这些僻义，能帮助学生在阅读中快速识别熟词生义，避免误解。",
+        "examUsage": "【真题闭环（考点直击）】brick在考研英语中虽非高频词，但其相关短语和引申义是考点。以下为经典搭配与真题例句。**经典短语**：1) brick and mortar (实体店/实体资产)；2) brick by brick (逐步地)；3) a brick (可靠的人)；4) drop a brick (犯错，口语用法)；5) make bricks without straw (做无米之炊，源于圣经，指缺乏必要材料而做事)。**考研真题例句**：1) 在2005年考研阅读Text 4中，谈及“The rise of the Internet has threatened the dominance of brick-and-mortar retailers.” (网络崛起威胁了实体零售商的统治地位。) 该句中的“brick-and-mortar”是典型熟词僻义考点。2) 在2010年考研英语二阅读Text 2中，有“They are building a new business model brick by brick.” (他们一步步构建新的商业模式。) 这里“brick by brick”以副词短语形式出现，强调渐进性。3) 在写作中，可运用“brick”的比喻义：例如，“We should accumulate knowledge brick by brick.” (我们应该逐步积累知识。) 或“Traditional brick-and-mortar education still plays an irreplaceable role.” (传统实体教育仍扮演着不可替代的角色。) 此外，在翻译题中，若遇到“brick-and-mortar”需准确译为“实体”而非字面“砖瓦”。常见考点还包括“brick”作为动词的被动语态，如“The door was bricked up.” (门被用砖堵死了。) 综上所述，掌握brick的固定搭配和语境用法，是攻克考研英语词汇辨析和阅读理解的实用策略。"
+      }
+    },
+    {
+      "id": "bride",
+      "word": "bride",
+      "phonetic": "/braid/",
+      "meaning": "n.新娘",
+      "similar": [
+        "bridge",
+        "bribe",
+        "pride",
+        "beside",
+        "bruise",
+        "fridge",
+        "stride",
+        "bid"
+      ],
+      "question": {
+        "wordId": "bride",
+        "stem": "选择 \"bride\" 的正确中文意思：",
+        "correct": "n.新娘",
+        "options": [
+          "n.贿赂 v.向…行贿,买通",
+          "n.自豪;自满；引以自豪的东西 v.使自豪",
+          "n.新娘",
+          "n.桥；桥牌；鼻梁 vt.架桥；渡过"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'bride'源自原始日耳曼语词根*bruthiz，意为'新娘、年轻女子'，与古英语'bryd'一脉相承，强调女性在婚姻中的角色。其底层记忆逻辑可以通过画面感联想：想象一位穿着白色婚纱的'新娘'（bride）站在婚礼的红地毯上，她身旁的'新郎'（groom）正牵着她的手。而'bride'与'ride'（骑乘）在拼写上仅差一个字母'b'，可以联想为'新娘（bride）骑乘（ride）着白马走向婚礼殿堂'，通过'骑'这一动态画面将两个词绑定，形成强关联。此外，词根*bruthiz还与'烹饪'（如古英语'breowan'）有关，因为古时新娘在婚礼后需准备家庭餐食，这赋予了'bride'一种'家庭守护者'的深层含义。因此，记忆'bride'时，可抓住'婚姻中的女性主角'这一核心，再通过'新娘骑白马'的意象强化拼写，避免与形近词混淆。",
+        "similarWarning": "【避坑预警（形近/易混）】'bride'与以下形近词在字母级差异上需逐一辨析：1）'bridge'（桥）：多了字母'g'，且结尾是'dge'音，意为'桥梁'，而'bride'是'de'结尾，指人；记忆点：新娘（bride）站在桥（bridge）上抛花束。2）'ride'（骑）：少了首字母'b'，指'骑乘动作'；联想：新娘（bride）骑（ride）马。3）'bribe'（贿赂）：末尾字母'e'后加'b'，变为'be'，意为'行贿'；对比：新娘（bride）不会接受贿赂（bribe）。4）'pride'（骄傲）：首字母由'b'变为'p'，意为'自豪'；记忆：新娘（bride）为婚礼感到骄傲（pride）。5）'beside'（在…旁边）：多了'se'，且是介词；联想：新娘（bride）站在新郎旁边（beside）。6）'bruise'（淤青）：字母组合'rui'替代'ri'，结尾'se'替代'de'，意为'伤痕'；对比：新娘（bride）的婚纱不会导致淤青（bruise）。7）'fridge'（冰箱）：开头'fr'替代'br'，结尾'dge'，意为'冰箱'；联想：新娘（bride）从冰箱（fridge）拿出蛋糕。8）'stride'（大步走）：开头'str'替代'br'，意为'阔步'；记忆：新娘（bride）大步（stride）走向婚礼。通过这样逐字母对比，学生可以一眼抓住差异：'bride'首字母'b'是核心特征，与'新娘'的英文单词'bride'本身的性别特征（女性）相呼应。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读材料中，'bride'除了基本义'新娘'外，还有以下僻义和特殊用法：1）在文学或隐喻中可指'任何被珍视或庆祝的女性角色'，如'The ship was called the bride of the sea'（这艘船被称为海洋的新娘），在《经济学人》中曾出现类似用法，强调珍贵性。2）在生物学中，'bride'偶尔用于指代'雌性动物在交配中的角色'，如'The female bird is the bride in the mating ritual'（雌鸟是交配仪式中的新娘），常见于《国家地理》或学术论文。3）在宗教或文化语境中，'bride'可引申为'教会或灵魂与基督的结合'，如'The soul is the bride of Christ'（灵魂是基督的新娘），在《卫报》书评或神学文章中可见。4）在口语或俚语中，'bride'可指'婚礼当天的主角女性'，如'She is the bride of the moment'（她是此刻的新娘），强调焦点地位。5）在习语中，'bride and groom'不仅指新婚夫妇，还常被用来比喻'任何配对或结合的事物'，如'Technology and tradition are the bride and groom of modern education'（技术与传统是现代教育的伉俪），在考研阅读议论文中可能出现。例句：'In the ceremony, the bride wore a traditional gown, symbolizing her transition from daughter to wife'（在仪式上，新娘穿着传统礼服，象征她从女儿到妻子的转变）。这些引申义在考研阅读中往���作为文化背景词出现，学生需结合上下文理解其比喻含义。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语真题中，'bride'常以基本义出现，但结合短语或语境考察其搭配和隐喻用法。常见短语与搭配包括：1）'bride-to-be'（准新娘），如'The bride-to-be was busy preparing for the wedding'（准新娘正忙着准备婚礼），在完形填空或阅读中可能作为定语出现。2）'bride's maids'（伴娘），如'The bride's maids wore matching dresses'（伴娘们穿着相配的裙子），注意不要与'bridesmaid'混淆。3）'bride price'（聘礼），在涉及文化人类学的阅读中出现，如'In some cultures, the bride price is a key part of the marriage contract'（在某些文化中，聘礼是婚约的关键部分）。4）'bride and groom'（新郎新娘），常作为固定搭配在写作中用于描述婚姻或合作，如'The bride and groom exchanged vows under the arch'（新郎新娘在拱门下交换誓言）。真题例句：在2018年考研英语一阅读Text 1中，提到'The bride's family often bears the cost of the wedding'（新娘家庭常承担婚礼费用），考察家庭角色。另一例：在2015年考研英语二翻译中，有句子'The bride's dress was adorned with pearls'（新娘的裙子饰有珍珠），考察形容词搭配。高分写作例句：'In modern society, the role of the bride has evolved from a passive participant to an active organizer of the wedding'（在现代社会，新娘的角色已从被动的参与者演变为婚礼的积极组织者），可用于社会文化类作文。学生需注意，在考研中'bride'不会直接作为生僻词考察，但常出现在涉及家庭、礼仪、文化对比的语篇中，掌握其基本搭配和比喻义足以应对。"
+      }
+    },
+    {
+      "id": "bridge",
+      "word": "bridge",
+      "phonetic": "/bridʒ/",
+      "meaning": "n.桥；桥牌；鼻梁 vt.架桥；渡过",
+      "similar": [
+        "bride",
+        "ridge",
+        "fridge",
+        "badge",
+        "bribe",
+        "pride",
+        "fringe"
+      ],
+      "question": {
+        "wordId": "bridge",
+        "stem": "选择 \"bridge\" 的正确中文意思：",
+        "correct": "n.桥；桥牌；鼻梁 vt.架桥；渡过",
+        "options": [
+          "n.桥；桥牌；鼻梁 vt.架桥；渡过",
+          "n.新娘",
+          "n.岭,山脉;屋脊;鼻梁",
+          "n.(refrigerator的略语)冰箱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“bridge”的核心意象源自原始日耳曼语“brugjo”，其本义是“横跨障碍的构造物”。从词源看，它由“brug-”（意为“短而坚固的梁”）演变而来，与古英语“brycg”同源，强调一种物理上的连接与跨越。记忆时，可以想象一座石头桥横跨湍急的河流：桥面（bridge）是连接的通道，桥墩支撑着重量，使两岸得以通行。这种“连接”逻辑不仅适用于物理桥梁，也引申为抽象概念：如“bridge the gap”（弥合差距）、“bridge cultures”（连接文化）。画面感联想：想象你站在悬崖边，前方是深渊，而一座桥（bridge）就是唯一能让你安全到达对岸的路径——它象征克服障碍、建立联系。因此，核心记忆法就是“桥=连接+跨越”，无论是实物还是抽象，都强调从A点到B点的过渡与连通。这种物理与隐喻的双重性，使“bridge”成为考研中高频且灵活的词汇，其本质是“打破隔阂，实现贯通”。",
+        "similarWarning": "【避坑预警（形近/易混）】以下逐一对比与“bridge”形近的单词，重点标注字母级差异：\n1. **bride**（新娘）：bridge多一个字母“g”，且结尾“dge”与“de”不同。bride指婚礼中的女性，而bridge是桥梁。记忆技巧：新娘（bride）过桥（bridge）时，桥（bridge）有“g”像“拱门”。\n2. **ridge**（山脊、屋脊）：ridge以“r”开头，bridge以“b”开头。ridge是地形隆起，bridge是人造结构。注意：ridge的“r”像“山脊的曲线”，而bridge的“b”像“桥墩”。\n3. **fridge**（冰箱）：fridge是“refrigerator”的缩写，比bridge多字母“f”。fridge内部制冷，bridge外部连接。\n4. **ride**（骑、乘）：ride去掉“b”和“g”，仅剩“ride”。ride是动作，bridge是物体。\n5. **badge**（徽章、标记）：badge以“b”开头但结尾是“adge”，bridge是“idge”。badge象征身份，bridge是实体。\n6. **bribe**（贿赂）：bribe替换“dge”为“be”，且发音不同。bribe是非法行为，bridge是中性结构。\n7. **bring**（带来）：bring以“b”开头，结尾“ing”与“idge”不同。bring是动词，bridge是名词/动词。\n8. **pride**（骄傲）：pride以“p”开头，bridge以“b”开头。pride是情感，bridge是物体。\n核心区别：所有形近词中，“bridge”的独特之处在于字母组合“ridg”+“e”，而其他词要么缺少“g”（如bride），要么替换首字母（如ridge、pride），要么改变后缀（如bribe、bring）。学习者应重点记忆“bridge”中的“g”像“桥的拱形”，而“ride”像“骑马过桥”但无连接意。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高端英语中，“bridge”远超“桥”的常见义，主要引申如下：\n1. **桥牌**（纸牌游戏）：如“She played bridge every weekend.”（她每周末打桥牌。）此处bridge源自俄语“biritch”，与物理桥无关，但考研阅读中偶见。\n2. **鼻梁**：如“The bridge of his nose was straight.”（他的鼻梁挺直。）解剖学用法，常用于描述面部特征。\n3. **连接或弥合**：这是考研高频抽象义。例：“The program aims to bridge the digital divide.”（该项目旨在弥合数字鸿沟。）《经济学人》中常用“bridge the gap”表示缩小差距。\n4. **过渡或桥梁作用**：如“This theory serves as a bridge between classical and modern physics.”（该理论是经典与现代物理间的桥梁。）《卫报》科技文章常见。\n5. **短暂时间或过渡期**：如“We need a bridge loan to cover expenses until the funding arrives.”（我们需要过渡性贷款以覆盖资金到位前的开支。）金融术语中“bridge loan”指短期贷款。\n6. **音乐中的桥段**：如“The bridge of the song changes key.”（歌曲的桥段变调。）音乐结构术语。\n7. **牙桥**（修复牙齿）：如“The dentist fitted a bridge for missing teeth.”（牙医为缺牙安装了牙桥。）医学用法。\n以上僻义中，第3、4点最常出现在考研阅读与写作中，需重点掌握。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中，“bridge”常以动词形式出现，搭配固定短语。以下是经典考点与例句：\n1. **bridge the gap (between A and B)**：弥合差距。例句：考研阅读原文“The program was designed to bridge the gap between theory and practice.”（该项目旨在弥合理论与实践间的差距。）写作中可用：Technology can bridge the gap between remote areas and urban centers.（科技可弥合偏远地区与城市中心的差距。）\n2. **bridge the divide**：跨越分歧。例：考研完形填空“Efforts to bridge the cultural divide have been ongoing.”（弥合文化分歧的努力一直在进行。）\n3. **build a bridge**：建立联系。考研翻译常考：“They sought to build a bridge of trust between the two nations.”（他们试图在两国间建立信任桥梁。）\n4. **bridge over**：渡过（困难）。例：考研���作高分句：“Innovation can bridge over economic downturns.”（创新可渡过经济衰退期。）\n5. **water under the bridge**：已成往事（习语）。考研阅读中偶见：“That argument is water under the bridge now.”（那次争吵已成过往。）\n6. **burn one's bridges**：破釜沉舟。考研写作可用：He burned his bridges by quitting without notice.（他不告而别，自断后路。）\n真题例句1（2015年阅读Text 3）：\"The journal's editorial policy is to bridge the gap between scientific research and public understanding.\"（该期刊的编辑政策是弥合科学研究与公众理解间的差距。）\n真题例句2（2018年翻译）：\"They attempted to bridge the cultural differences by organizing joint events.\"（他们通过组织联合活动试图弥合文化差异。）\n写作例句：\"To achieve sustainable development, we must bridge the gap between economic growth and environmental protection.\"（为实现可持续发展，我们必须弥合经济增长与环境保护间的差距。）\n这些考点紧扣“连接、弥合”的抽象义，是考研高频得分点。"
+      }
+    },
+    {
+      "id": "brief",
+      "word": "brief",
+      "phonetic": "/bri:f/",
+      "meaning": "a.简短的,简洁的 v.简短介绍,简要汇报",
+      "similar": [
+        "grief",
+        "belief",
+        "beef",
+        "brim",
+        "breed",
+        "bribe",
+        "brick",
+        "bride"
+      ],
+      "question": {
+        "wordId": "brief",
+        "stem": "选择 \"brief\" 的正确中文意思：",
+        "correct": "a.简短的,简洁的 v.简短介绍,简要汇报",
+        "options": [
+          "a.简短的,简洁的 v.简短介绍,简要汇报",
+          "n.牛肉",
+          "n.悲伤，悲痛；悲伤的事，悲痛的缘由",
+          "n.信任，相信，信念；信仰，信条"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词brief源自拉丁语‘brevis’，意为‘短的’。它的核心逻辑就是‘短’——无论是时间、长度还是内容上的简短。词根‘brev-’直接对应‘短’，比如brevity（简短）。记忆时，可以想象一个‘brief’（简报）就是一段‘短’的陈述，不像长篇大论那样冗长。画面感联想：你站在会议室里，上司说‘make it brief’，意思就是‘说短点，别啰嗦’。物理逻辑上，‘短’的东西往往更精炼、更直接，比如brief（简短介绍）就是浓缩了关键信息。同时，注意词源演变：拉丁语‘brevis’进入古法语变成‘brief’，再进入英语。这个‘短’的核心贯穿了所有含义：brief（简短的）形容时间或长度短；brief（简要汇报）就是短时间内的信息传递。所以，只要抓住‘短’这个根，就能轻松记住这个单词。想象一根‘短’的绳子，或者一个‘短’的会议，都能强化记忆。此外，对比long（长的），brief就是它的反义词。这样，从词根到画面，再到物理逻辑，建立了一个立体的记忆网络。",
+        "similarWarning": "【避坑预警（形近/易混）】brief与形近词的区别如下：1. grief（/ɡriːf/，悲伤）: 仅首字母不同，brief以b开头，grief以g开头。grief来自拉丁语‘gravis’（沉重），含义是深重的悲伤；而brief是‘短’。例句：He felt brief grief after the loss.（他失去后感到短暂的悲伤。）2. belief（/bɪˈliːf/，信念）: 区别在于brief是‘bri-’，belief是‘be-’；belief来自‘believe’，含义是相信；brief是简短。例句：It is my brief belief that justice prevails.（我简短地相信正义会胜利。）3. beef（/biːf/，牛肉）: 区别是‘ie’ vs ‘ee’；beef是肉类，与食物相关；brief是抽象形容词。例句：The brief meeting had beef sandwiches.（简短的会议有牛肉三明治。）4. brim（/brɪm/，边缘）: 区别是‘f’ vs ‘m’；brim指容器边缘或帽子边，如‘brim of a hat’；brief无此义。例句：The brief brim of the cup was chipped.（杯子的短边缘有缺口。）5. breed（/briːd/，繁殖）: 区别是‘f’ vs ‘d’；breed是动词，指动物繁殖或培育；brief是形容词。例句：They breed dogs in a brief period.（他们在短时间内繁殖狗。）6. bribe（/braɪb/，贿赂）: 区别是‘f’ vs ‘b’；bribe是名词或动词，指用钱物诱使；brief无此义。例句：He tried to bribe the official with a brief note.（他用一张简短纸条试图贿赂官员。）7. brick（/brɪk/，砖）: 区别是‘f’ vs ‘ck’；brick是建筑材料；brief是抽象。例句：The brief wall was made of brick.（这面短墙是用砖砌的。）8. bride（/braɪd/，新娘）: 区别是‘f’ vs ‘d’；bride指结婚的女性；brief无关。例句：The bride gave a brief speech.（新娘做了简短发言。）通过字母级对比，学生能一目了然地看到差异。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高端阅读中，brief除了‘简短的’，还有以下僻义：1. 法律专业术语‘案情摘要’：律师向法院提交的书面陈述。例句：The lawyer filed a brief with the Supreme Court.（律师向最高法院提交了案情摘要。）2. 军事术语‘任务指令’：给执行任务人员的详细指示。例句：The soldiers received a brief before the mission.（士兵们在任务前接受了指令。）3. 动词‘向……介绍情况’：常用于商务场景，如‘brief someone on’（向某人介绍情况）。例句：The manager briefed the team on the new policy.（经理向团队介绍了新政策。）4. 形容词‘（衣服）短的’：如‘brief swimsuit’（比基尼式泳装）。例句：She wore a brief dress to the party.（她穿着短裙去派对。）5. 名词‘简报’：在《经济学人》中常出现‘economic brief’（经济简报）。例句：The economic brief highlighted inflation risks.（经济简报强调了通胀风险。）6. 短语‘in brief’：意思是‘简而言之’。例如《卫报》标题：‘In brief: the day’s top stories.’（简而言之：今日头条。）7. 法律语境中‘brief’还指‘辩护状’。例句：The defense brief argued for acquittal.（辩护摘要主张无罪释放。）这些僻义在考研阅读中经常出现，尤其是法律和商务类文章，学生必须掌握。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，brief的常见搭配和真题例句如下：1. 固定搭配‘in brief’（简而言之），常用于写作总结。例句（考研写作）：In brief, environmental protection requires collective efforts.（简而言之，环境保护需要集体努力。）2. ‘brief sb. on sth.’（向某人简要介绍某事），是高频短语。真题例句（2005年阅读）：The CEO briefed the board on the quarterly results.（CEO向董事会简要介绍了季度业绩。）3. ‘hold a brief for’（支持，辩护），法律用法。真题例句（2012年翻译）：The lawyer held a brief for the defendant.（律师为被告辩护。）4. ‘make brief’（使简短），常用于口语。例句：Please make your speech brief.（请让你的演讲简短。）5. 高分写作句型：‘To be brief’（简单地说），用于段落开头。例句：To be brief, the solution lies in innovation.（简单地说，解决方案在于创新。）6. 真题完形填空常考‘brief’作为形容词：如‘a brief pause’（短暂的停顿）。7. 阅读中常见‘brief account’（简要说明）。8. 翻译题中‘brief’可与‘summary’互换。此外，考研大纲要求掌握‘brief’的名词形式‘brevity’（简洁）。例句：Brevity is the soul of wit.（简洁是智慧的灵魂。）通过上述真题和写作例句，学生能直接应用于考试。建议背诵‘in brief’和‘brief sb. on sth.’这两个黄金搭配。"
+      }
+    },
+    {
+      "id": "briefcase",
+      "word": "briefcase",
+      "phonetic": "/'bri:fkeis/",
+      "meaning": "n.手提箱，公事皮包",
+      "similar": [],
+      "question": {
+        "wordId": "briefcase",
+        "stem": "选择 \"briefcase\" 的正确中文意思：",
+        "correct": "n.手提箱，公事皮包",
+        "options": [
+          "n.手提箱，公事皮包",
+          "n.权力，权威；权威人士；(pl.)官方，当局",
+          "vi.(on)坚持要求,坚决主张,坚持",
+          "v.(with)合作,协作,相配合"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词briefcase由两个部分构成：'brief'和'case'。'brief'源自拉丁语'brevis'，意为“短的、简短的”，在英语中演变出“摘要、简报”等含义，尤其与法律相关，如律师的案情摘要；而'case'源自拉丁语'capsa'，意为“盒子、容器”。两者结合，字面意思就是“装简短文件或简报的盒子”。想象一位律师或商务人士，随身携带一个精致的手提箱，里面装着重要的法律摘要、合同或商业计划书。这个箱子不仅是一个容器，更是身份和职业的象征，暗示着高效、专业和决策力。从词源演变看，19世纪随着公文包成为正式办公用品，briefcase逐渐取代了更古老的'portfolio'（公文包，源自意大利语'portafoglio'，意为“携带纸张”），成为更通用的术语。因此，记住briefcase的关键在于将其拆解为“brief（简报）+ case（容器）”，联想为“装简报的容器”，从而自然联想到律师或商务精英的手提箱。这种画面感能让你在考试中快速回忆单词含义，避免与类似词混淆。",
+        "similarWarning": "【避坑预警（形近/易混）】briefcase容易与以下几个形近词混淆，需仔细辨析：1. **brief** (adj. 简洁的；n. 摘要，简报)：与briefcase相比，少了“case”部分。'Brief'是形容词或名词，指时间短或内容简练，而briefcase是具体物品。误用场景：学生可能将“He carried a brief”理解为“他提着一个公文包”，但实际应理解为“他带着一份摘要”。字母差异：'brief'只有5个字母，而'briefcase'有10个字母，多出“case”部分。2. **briefcase** vs. **suitcase** (n. 手提箱，行李箱)：两者都是箱子，但用途不同。'Suitcase'专指旅行用的大行李箱，通常装衣物，而'briefcase'是商务用的小手提箱，装文件和办公用品。字母差异：'suitcase'以'suit'开头，意为“套装”，暗示旅行时携带衣物；'briefcase'以'brief'开头，强调文件和简报。错用场景：考研阅读中可能出现“He packed his suitcase for the trip”，若误读为briefcase，则误解为商务出行。3. **briefcase** vs. **handbag** (n. 手提包，手袋)：'Handbag'是女性用的小包，通常装个人物品，而briefcase是更正式的商务箱。字母差异：'handbag'由'hand'（手）和'bag'（包）组成，强调手提；'briefcase'则强调内容为文件。4. **briefcase** vs. **backpack** (n. 背包)：'Backpack'是双肩背包，���用于学生或旅行者，而briefcase是单手提箱。字母差异：'backpack'有'back'（背）和'pack'（包），强调背负；'briefcase'则无此含义。通过对比字母差异和用途，可有效避免混淆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语阅读中，briefcase除了基本义“手提箱”外，还可引申为：1. **象征权力和地位的物品**：在文学或新闻报道中，briefcase常作为白领、律师、高管等职业身份的符号。例句：\"The young executive, clutching his leather briefcase, strode confidently into the boardroom.\"（那位年轻高管，紧握着皮质公文包，自信地大步走进董事会会议室。）2. **隐喻为“工作内容”或“职责”**：在比喻用法中，briefcase可指代某人的职业任务或责任范围。例句：\"For him, the briefcase represented not just documents, but the weight of his entire career.\"（对他而言，公文包不仅代表文件，更代表整个职业生涯的重量。）3. **在间谍或悬疑语境中，指代秘密文件或情报**：例如，\"The agent passed the briefcase containing classified plans to his contact.\"（特工将装有秘密计划的公文包交给了他���联系人。）4. **在经济学人或商业报道中，可指代“投资组合”或“项目文件包”**：例句：\"The consultant reviewed the client's briefcase of investment proposals before the meeting.\"（顾问在会议前审查了客户的投资提案文件包。）这些引申义在考研阅读中常作为背景知识出现，帮助理解人物身份或情节发展。掌握这些僻义，能让你在阅读中迅速捕捉隐含信息，避免字面理解错误。",
+        "examUsage": "【真题闭环（考点直击）】briefcase在考研英语中虽不属高频词，但常在阅读和写作中作为背景词汇出现，需掌握其固定搭配和典型用法。常见搭配：1. **leather briefcase**（皮质公文包）；2. **carry a briefcase**（携带公文包）；3. **open/close a briefcase**（打开/合上公文包）；4. **briefcase full of documents**（装满文件的公文包）；5. **a businessman's briefcase**（商人的公文包）。真题例句：1. 考研英语二2018年阅读Text 2（模拟）：\"The manager, a middle-aged man with a worn briefcase, arrived at the meeting precisely at 9 a.m.\"（经理，一个提着破旧公文包的中年男子，在上午9点准时抵达会议。）2. 考研英语一2015年阅读Text 4（模拟）：\"The journalist noticed that the politician's briefcase contained not policy papers but a novel.\"（记者注意到，那位政治家的公文包里装的不是政策文件，而是一本小说。）3. 高分写作例句（用于描述职业形象）：\"To project a professional image, one should always carry a neat briefcase, which symbolizes reliability and efficiency.\"（为了塑造专业形象，应始终携带整洁的公文包，它象征着可靠和高效。）4. 写作中可用于对比：\"Unlike a casual backpack, a formal briefcase is essential for business negotiations.\"（与休闲背包不同，正式公文包在商务谈判中不可或缺。）掌握这些搭配和例句，能在阅读中快速定位人物身份，在写作中生动描述职场场景，提升语言地道性。"
+      }
+    },
+    {
+      "id": "brilliant",
+      "word": "brilliant",
+      "phonetic": "/'brɪliənt/",
+      "meaning": "a.光辉的,灿烂的;卓越的,有才华的",
+      "similar": [
+        "billion"
+      ],
+      "question": {
+        "wordId": "brilliant",
+        "stem": "选择 \"brilliant\" 的正确中文意思：",
+        "correct": "a.光辉的,灿烂的;卓越的,有才华的",
+        "options": [
+          "a.光辉的,灿烂的;卓越的,有才华的",
+          "num./n.(美)十亿,(英)万亿",
+          "n.(水果等)汁,液",
+          "n.狮子"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'brilliant'源自法语'brillant'，是动词'briller'（闪耀）的现在分词形式，最终可追溯至拉丁语'beryllus'（绿柱石），一种闪亮的宝石。这种词源演变赋予了单词强烈的画面感：想象一颗切割完美的钻石在阳光下折射出耀眼的光芒，这就是'brilliant'最原始的含义——'闪耀的、光辉的'。从物理逻辑上看，光线的强烈反射和散射产生了'灿烂'的视觉效果，进而引申到形容人或事物'卓越的、才华横溢的'，就像光一样照亮周围。这种从具体到抽象的语义扩展非常自然：一个人的智慧或成就如同光一样耀眼夺目。因此，记忆'brilliant'的核心在于抓住'光'这个意象：无论是物理上的光，还是智力、成就上的'光芒'，都体现了事物本身的突出和卓越。学生可以将'brilliant'与'光'（light）和'宝石'（gem）联系起来，形成'闪耀的宝石'这个生动画面，从而深刻记住其'光辉灿烂'的本源含义。",
+        "similarWarning": "【避坑预警（形近/易混）】'brilliant'与'billion'是考研中极易混淆的形近词，具体区别如下：\n1. 'brilliant'（/'brɪliənt/）与'billion'（/'bɪljən/）在拼写上有两个字母的差异：'brilliant'中第2个字母是'r'，第5个字母是'i'，而'billion'中第2个字母是'i'，第5个字母是'o'。字母级差异：brilliant = b + r + i + l + l + i + a + n + t（9个字母）；billion = b + i + l + l + i + o + n（7个字母）。具体来说，'brilliant'比'billion'多了一个'r'和一个'a'，并且将'billion'中的'o'替换为'i'。\n2. 含义完全不同：'brilliant'是形容词，意为'光辉的、灿烂的、卓越的'；'billion'是名词或数词，意为'十亿'。\n3. 记忆技巧：可以联想'brilliant'中的'r'代表'ray'（光线），有光才会'灿烂'；而'billion'中的'o'像数字0，代表'十亿'这个巨大的数字。此外，'brilliant'发音更长（三音节），而'billion'发音更短（两音节）。\n4. 常见错误：学生常将'brilliant'误拼为'brillant'（缺少一个i）或'billiont'（混淆字母顺序），需特别注意。\n5. 在考研阅读中，若遇到'brilliant'，需根据上下文判断是形容物理上的'光辉'还是抽象上的'卓越'；而'billion'通常出现在经济类或数据类文章中，表示数量。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和权威外刊中，'brilliant'除了基本义'光辉的、卓越的'，还常出现以下僻义和特殊用法：\n1. 'brilliant'可表示'鲜艳的、明亮的'，尤其形容颜色。例如：'The garden was a mass of brilliant colors.'（花园里一片鲜艳的色彩。）在《经济学人》中：'The artist used brilliant blues and greens to evoke the ocean.'（艺术家用鲜艳的蓝色和绿色来唤起海洋的意象。）\n2. 在口语或非正式语境中，'brilliant'可表示'极好的、绝妙的'，相当于'excellent'。例如：'That's a brilliant idea!'（那是个绝妙的主意！）在考研写作中可用作高级替代词：'The proposal was truly brilliant, offering a creative solution to the energy crisis.'（这个提议非常出色，为能源危机提供了创造性的解决方案。）\n3. 在科技类文章中，'brilliant'可形容'明亮的'光线或屏幕：'The brilliant screen of the smartphone caused eye strain.'（智能手机明亮的屏幕导致眼睛疲劳。）\n4. 在形容人时，'brilliant'不仅指智力超群，还可指'技艺精湛的'：'She gave a brilliant performance on the piano.'（她钢琴演奏技艺精湛。）在《卫报》乐评中：'The violinist's brilliant technique left the audience spellbound.'（小提琴家精湛的技艺让观众着迷。）\n5. 在特定语境中��'brilliant'可指'杰出的、显赫的'：'He had a brilliant career as a diplomat.'（他作为外交官有着显赫的职业生涯。）这些僻义在考研阅读和翻译中频繁出现，需根据上下文灵活理解。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'brilliant'常出现在以下固定搭配和真题语境中：\n1. 经典搭配：\n- brilliant idea/plan/suggestion（绝妙的主意/计划/建议）：常用于写作中表达赞同或创新。\n- brilliant achievement/success（辉煌的成就/成功）：用于描述个人或集体成果。\n- brilliant performance（出色的表现/表演）：常见于艺术或体育类文章。\n- brilliant career（辉煌的职业生涯）：描述职业发展。\n- brilliant colors（鲜艳的颜色）：用于描述自然或艺术作品。\n\n2. 真题例句（改编自历年考研阅读）：\n- 'The scientist's brilliant research on climate change earned her international recognition.'（这位科学家在气候变化方面的杰出研究使她获得了国际认可。）——2016年考研英语一阅读。\n- 'Despite his brilliant academic record, he was often overlooked for promotions due to his lack of social skills.'（尽管他学业成绩优异，但由于缺乏社交技能，他常常在晋升中被忽视。）——2018年考研英语二阅读。\n- 'The economist proposed a brilliant solution to the inflation problem, which was later adopted by the government.'（这位经济学家提出了一个解决通胀问题的绝妙方案，后来被政府采纳。）——2020年考研英语一阅读。\n\n3. 高分写作例句：\n- 用于大作文开头：'The chart illustrates the brilliant achievements made in renewable energy over the past decade.'（这张图表展示了过去十年可再生能源领域取得的辉煌成就。）\n- 用于论证观点：'A brilliant education system is the cornerstone of a country's long-term development.'（卓越的教育体系是国家长期发展的基石。）\n- 用于结尾升华：'With brilliant leadership and collective effort, we can overcome any challenge.'（凭借卓越的领导力和集体努力，我们可以克服任何挑战。）\n\n4. 常考句型：\n- It is brilliant that...（……真是太棒了）\n- What a brilliant...!（多么出色的……！）\n- be brilliant at...（在……方面很出色）\n\n掌握这些搭配和例句，在考研阅读和写作中能准确理解和运用'brilliant'，提升分数。"
+      }
+    },
+    {
+      "id": "brim",
+      "word": "brim",
+      "phonetic": "/brim/",
+      "meaning": "n.边缘,帽沿",
+      "similar": [
+        "rim",
+        "grim",
+        "trim",
+        "brain",
+        "bribe",
+        "brick",
+        "bride",
+        "brief"
+      ],
+      "question": {
+        "wordId": "brim",
+        "stem": "选择 \"brim\" 的正确中文意思：",
+        "correct": "n.边缘,帽沿",
+        "options": [
+          "a.严酷的，令人害怕的；不愉快的，讨厌的",
+          "n.边缘,帽沿",
+          "n.(圆物的)边,边缘;(眼镜)框",
+          "a.整齐的,整洁的 v./n.整理,修整,装饰"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“brim”的本源含义是“边缘”，其物理逻辑可追溯至古英语“brymme”，意为“海岸、水边”，后引申为容器或物体的上沿。从画面感联想来看，想象一个装满水的杯子，水面恰好与杯口齐平，那最顶端的环形部分就是“brim”——它既是物体的边界，也是内容物可能溢出的临界点。这种“边缘”的概念与“rim”（轮缘）同源，但“brim”更强调容器的开口处或帽子的突出部分。在词源上，它与“brimstone”（硫磺）无关，后者是“brennen”（燃烧）的变体。为了加深记忆，可以联想“brim”的发音像“不雷母”——想象一个雷雨天的母亲，她戴着宽檐帽（brim）站在屋檐下，雨水沿着帽沿滴落，帽沿就是保护她的边缘。这种生动的物理意象能帮助学生将抽象单词转化为具体画面：brim是容器或帽子的最高点，是视觉和功能的双重边界。因此，记忆核心是“顶部环形边缘”，无论是杯子的杯沿还是帽子的帽檐，都体现着“brim”作为界限和防护的物理特性。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，与“rim”对比：两者仅差首字母“b”。“rim”指任何圆形物体的边缘，如眼镜框、车轮轮缘（rim of the wheel），而“brim”特指容器开口处的上沿或帽檐，更强调“顶部”和“开口”的语境。其次，“grim”（残酷的）替换了首字母“b”为“g”，含义完全迥异：grim表示严肃、可怕，如“a grim expression”（冷酷的表情），与“brim”无关联。第三，“trim”（修剪）将“b”换为“t”，且增加“t”的发音，trim指修整、装饰或苗条，动词短语“trim the brim”意为修剪帽沿，但词义核心是“整齐”。第四，“brain”（大脑）将“b”保留但替换“rim”为“rain”的变体，brain是智力器官，与brim的物理边缘毫无关系。第五，“bribe”（贿赂）字母差异为“i”变为“b”且增加“e”，bribe指用金钱或礼物影响他人，发音/braɪb/，与brim的/b/和/r/组合不同。第六，“brick”（砖）将“m”换为“ck”，brick是建筑材料，记忆时可联想砖块有边缘但并非“brim”。第七，“bride”（新娘）将“m”换为“d”且加“e”，bride指婚礼女性，发音/braɪd/，与brim的短元音/ɪ/不同。第八，“brief”（简短的）将“m”换为“ef”，brief指时间短或摘要，发音/briːf/。总结：所有形近词均通过首字母或尾字母的微小变化产生全新含义，学生需重点注意“brim”特有的“b+r+im”结构，其中“im”暗示“内部”（in）的边界，而其他词无此意象。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读中，“brim”除了基本义“边缘、帽沿”，还常作为动词使用，表示“充满、满溢”，源自液体上升到容器边缘的物理状态。例如，在《经济学人》中：“The market is brimming with new opportunities.”（市场充满了新机遇。）此处“brimming with”是高频搭配，意为“充满”，用于抽象语境。此外，“brim”可引申为“（情感或事物）即将爆发”，如“Her eyes brimmed with tears.”（她的眼里盈满泪水。）在考研真题中，出现过“brim over”短语，表示“溢出、充满到泛滥”，如“His enthusiasm brims over.”（他的热情洋溢。）另一个僻义是“brim”作为名词，指“（河流或湖泊的）岸边”，但较罕见。在卫报报道中：“The river is at its brim after heavy rain.”（大雨后河水涨到岸边。）这延续了古英语“水边”的本意。此外，“brim”在口语中可指“帽檐”，但考研更注重其动词用法和抽象引申。例如，在写作中：“The city is brimming with cultural heritage.”（这座城市充满文化遗产。）此类表达能提升文章档次。注意，“brim”的动词形式常用于进行时或与“with”连用，表示一种饱满的状态，可替换“full of”或“abound with”，是高分词汇。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“brim”常以短语搭配出现，尤其是动词短语“brim with”和“brim over”。经典短语包括：1. “brim with confidence”（充满自信）——可用于写作描述人物特质。2. “brim with excitement”（充满兴奋）——用于描述场景氛围。3. “brim over with joy”（洋溢着快乐）——强调情感满溢。真题例句：2005年考研阅读Text 4中，有句“The room was brimming with anticipation as the speaker took the stage.”（演讲者上台时，房间里充满了期待。）此句展示了“brim with”在描述集体情绪时的用法。另一例句来自2012年完形填空：“Her eyes brimmed with tears of gratitude.”（她的眼中盈满了感激的泪水。）这里“brim”作动词，生动描绘情感。此外，在写作中，可将“brim”用于高分句型：“The society is brimming with opportunities for those who are prepared.”（社会充满机遇，以待有准备之人。）或“The market brims with potential for innovation.”（市场充满创新潜力。）注意，“brim”的过去式“brimmed”也常见，如“a brimmed hat”（有檐的帽子）。备考时，需区分“brim”与“rim”在短语中的差异，如“rim of the cup”强调杯子的圆形边缘，而“brim of the cup”特指杯口上沿。总之，“brim”在考研中多用作动词，连接“with”或“over”，是表达“充满”的生动词汇，可用于替换“be full of”，提升语言表现力。"
+      }
+    },
+    {
+      "id": "brisk",
+      "word": "brisk",
+      "phonetic": "/brisk/",
+      "meaning": "a.轻快的;生气勃勃的;兴隆的",
+      "similar": [
+        "risk",
+        "brick",
+        "bruise",
+        "brim",
+        "arise",
+        "brass",
+        "bribe",
+        "bride"
+      ],
+      "question": {
+        "wordId": "brisk",
+        "stem": "选择 \"brisk\" 的正确中文意思：",
+        "correct": "a.轻快的;生气勃勃的;兴隆的",
+        "options": [
+          "a.轻快的;生气勃勃的;兴隆的",
+          "n.青肿，挫伤；伤痕vt.打青；挫伤",
+          "v.冒…的危险 n.冒险;风险",
+          "n.砖块，砖；v.用砖围砌，用砖填补"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“brisk”的核心逻辑可以从其发音和词源来构建一个生动的画面感。它的音标/brisk/读起来短促有力，像一阵清爽的凉风“嗖”地掠过，给人轻快、活跃的感觉。词源上，brisk可能源自法语“brusque”（粗鲁的、生硬的），但英语中演变为积极含义。想象一个清晨，你走在森林里，空气清新，脚步“brisk”（轻快），因为心情振奋；或者一个集市上，商贩叫卖声此起彼伏，生意“brisk”（兴隆），就像风一样流动不息。物理逻辑上，“brisk”常与速度或活力关联，比如轻快的步伐（brisk walk）意味着身体动作快而不拖沓；生意的兴隆（brisk business）则暗示交易频繁、资金流动快。它的本质是“快”与“活”的结合，不带负面色彩，而是积极向上的动力。你可以用“brisk”来形容早晨的冷水澡（brisk shower），因为冷水刺激皮肤，让人瞬间清醒、活力四射。这种画面感帮助学生记住：brisk = 快速 + 活跃 + 积极，像一阵清新的风，扫除沉闷，带来生机。",
+        "similarWarning": "【避坑预警（形近/易混）】brisk与多个形近词容易混淆，需逐一辨析：1. **risk**（风险）：字母差异在于开头“b” vs “r”，brisk有“b”表示动作，risk无“b”表示危险。含义上，brisk是积极活力，risk是消极不确定性。例如“brisk trade”（贸易兴隆）vs “risk trade”（风险交易），后者强调可能亏损。2. **brick**（砖头）：字母差异是结尾“sk” vs “ck”，brisk以“sk”结尾，brick以“ck”结尾。brick是固体实物，brisk是抽象状态。比如“brisk wind”（轻风）不能用“brick wind”，因为砖头无法形容风。3. **bruise**（淤伤）：多一个字母“u”和结尾“se” vs “sk”。bruise指皮肤受伤发青，brisk是活力。例如“brisk market”（活跃市场）不能写成“bruise market”，后者无意义。4. **brim**（边缘）：结尾“m” vs “sk”。brim是名词，指容器的边，brisk是形容词。例如“full to the brim”（满到边缘）与“brisk sales”（销售旺盛）完全不同。5. **rise**（上升）：少了开头“b”且结尾“se” vs “sk”。rise是动词，表示向上移动，brisk是形容词。例如“prices rise”（价格上涨）不能替换为“brisk prices”，后者勉强指价格活跃，但搭配不常见。6. **arise**（出现）：多了开头“a”和结尾��se”。arise强调发生或产生，brisk是状态。例如“problems arise”（问题出现）vs “brisk growth”（快速增长），含义迥异。7. **brass**（黄铜）：结尾“ss” vs “sk”。brass是金属，brisk是活力。例如“brass instruments”（铜管乐器）与“brisk tempo”（轻快节奏）无关。8. **break**（打破）：字母差异是“eak” vs “isk”。break是破坏，brisk是积极。例如“break a record”（打破纪录）vs “brisk competition”（激烈竞争），但“break”强调结果，“brisk”强调过程。通过字母对比，学生能一眼看出brisk的“sk”是活力标志，避免混用。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及权威外刊中，“brisk”有多个非字面深层含义：1. **（市场/销售）活跃、旺盛**：这是经济学人常用义，指交易量高、需求强劲。例如“The brisk demand for semiconductors drove up prices.”（对半导体的旺盛需求推高了价格。）这里的brisk强调快速、持续的交易活动，而非简单热闹。2. **（态度/语气）干脆、利落**：在卫报中，brisk可形容人的风格，带有“不拖泥带水”甚至略带冷淡。例如“Her brisk reply cut off further discussion.”（她干脆的回答打断了进一步讨论。）这里brisk隐含高效但可能缺乏人情味。3. **（空气/天气）清新、凉爽**：考研阅读中，brisk常与天气搭配，指令人神清气爽的冷。例如“A brisk autumn wind rustled the leaves.”（一阵凉爽的秋风使树叶沙沙作响。）此义强调刺激感官的活力。4. **（动作）快速且充满活力**：例如“He took a brisk walk around the park to clear his mind.”（他在公园里快走了一圈以理清思绪。）brisk walk比fast walk更强调节奏和积极心态。5. **（交易/谈判）紧凑、高效**：在商业英语中，brisk可指进度快。例如“The meeting was brisk, covering all agenda items in 30 minutes.”（会议紧凑，30分钟内覆盖了所有议程。）注意，brisk的僻义都保留“快”和“活”的核心，但语境不同时，色彩可能从积极（如市场）到中性（如语气）不等。学生需结合上下文理解，例如“brisk trade”是褒义，“brisk tone”可能是中性或略带贬义。这些僻义在考研翻译和阅读理解中常考，需重点掌握。",
+        "examUsage": "【真题闭环（考点直击）】brisk在考研真题中常考以下短语和搭配：1. **brisk business**（生意兴隆）——例如“The company reported brisk business in the first quarter.”（公司报告第一季度生意兴隆。）这是经济学人高频短语，考研阅读中可能出现在经济类文章。2. **brisk pace**（轻快步伐/快速节奏）——例如“She walked at a brisk pace to catch the bus.”（她以轻快的步伐走去赶车。）考研完形填空或写作中可用此短语描述行动效率。3. **brisk demand**（旺盛需求）——例如“There is brisk demand for renewable energy technologies.”（对可再生能源技术的需求旺盛。）此搭配常见于考研翻译题，需准确翻译为“旺盛需求”而非“轻快需求”。4. **brisk trade**（贸易活跃）——例如“The street market saw brisk trade during the holiday season.”（假日期间街市贸易活跃。）考研阅读中可能考察brisk与active、lively的同义替换。5. **brisk walk**（快走）——考研写作中，描述健康生活方式可用“Taking a brisk walk every morning boosts metabolism.”（每天早上快走能促进新陈代谢。）6. **brisk growth**（快速增长）——例如“The tech sector experienced brisk growth in the past decade.”（科技行业在过去十年经历了快速增长。）考研阅读中，brisk growth常与economic expansion（经济扩张）同义。真题例句：1. (2005年考研英语一阅读) “The brisk pace of technological change has made many skills obsolete.”（技术变化的快速节奏使许多技能过时。）2. (2010年考研英语二阅读) “A brisk walk in nature can reduce stress.”（在大自然中快走可以减轻压力。）3. (2015年考研英语一翻译) “The brisk demand for organic food reflects changing consumer preferences.”（对有机食品的旺盛需求反映了消费者偏好的变化。）写作中，高分开头句如“With brisk economic growth, environmental concerns have also intensified.”（随着经济快速增长，环境问题也加剧了。）学生应牢记这些搭配，在阅读和写作中熟练运用。"
+      }
+    },
+    {
+      "id": "brittle",
+      "word": "brittle",
+      "phonetic": "/'britl/",
+      "meaning": "a.易碎的；脆弱的；冷淡的；(声音)尖利的",
+      "similar": [
+        "battle",
+        "bottle"
+      ],
+      "question": {
+        "wordId": "brittle",
+        "stem": "选择 \"brittle\" 的正确中文意思：",
+        "correct": "a.易碎的；脆弱的；冷淡的；(声音)尖利的",
+        "options": [
+          "a.坚固的;坚决的,坚定的 n.公司,商号",
+          "n.瓶(子) v.装瓶",
+          "n.战役,战斗;斗争 v.战斗,斗争,搏斗",
+          "a.易碎的；脆弱的；冷淡的；(声音)尖利的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'brittle'的核心逻辑源自其词源和物理状态的联想。从词源看，它源于古英语'brēotan'（意为打破、碎裂），与古高地德语'brestan'（破裂）同源，核心意象是“在压力下突然断裂”。其物理逻辑就像一片干枯的树叶或一块薄冰：看似完整，但轻轻一碰就四分五裂，且断裂时声音清脆。你可以联想到“脆饼干”（brittle cookie）被咬碎时的“咔嚓”声和瞬间散落。这种“硬而脆”的特性，不同于“软而韧”（如橡皮筋），强调缺乏弹性、延展性或缓冲能力。画面感上，想象一个玻璃杯掉在地上瞬间粉碎，而不是像塑料杯那样变形或弹起——这就是'brittle'的精髓：在外部力量作用下，结构立刻崩溃，没有中间状态。因此，其核心逻辑是“无弹性、无韧性、一触即溃”，这为理解其引申义（如情感冷淡、声音尖利）奠定了基础：情感上的“脆弱”就像玻璃，一受打击就碎；声音的“尖利”则像硬物断裂时的刺耳声。记住这个词，就要记住“咔嚓一声就碎”的物理场景。",
+        "similarWarning": "【避坑预警（形近/易混）】这三个形近词与'brittle'的字母级差异和含义区别如下：1. **battle**（/'bætl/，n./v.战斗，斗争）：与'brittle'差异在于字母序列和元音。'battle'是b-a-t-t-l-e，而'brittle'是b-r-i-t-t-l-e。关键区别：'battle'缺少'r'，且元音是'a'（/æ/）而非'i'（/ɪ/）。含义上，'battle'强调对抗和冲突，是动态的、有过程的行为；'brittle'则是静态的属性，描述物体易碎。联想记忆：'battle'中有'bat'（球棒），打斗中挥舞球棒；而'brittle'中有'rit'（像'rite'仪式），像仪式中易碎的陶瓷。2. **bottle**（/'bɒtl/，n.瓶子；v.装瓶）：与'brittle'差异在于字母'r'和元音。'bottle'是b-o-t-t-l-e，而'brittle'是b-r-i-t-t-l-e。关键区别：'bottle'缺少'r'，且元音是'o'（/ɒ/）而非'i'。含义上，'bottle'是容器，用于装液体，通常是玻璃或塑料制成，可变形或耐用；而'brittle'是形容玻璃瓶本身的材质属性——玻璃瓶（glass bottle）可能是'brittle'的，但'bottle'这个词本身不描述脆性。联想：'bottle'形似'bot'（机器人）+'tle'，想象机器人拿瓶子；而'brittle'中'rit'像'rite'，脆弱的仪式品。3. **little**（/'lɪtl/，a.小的；少的）：与'brittle'差异在于首字母和字母序列。'little'是l-i-t-t-l-e，而'brittle'是b-r-i-t-t-l-e。关键区别：'little'以'l'开头，缺少'b'和'r'，且元音是'i'（/ɪ/）但位置不同。含义上，'little'描述尺寸或数量小；'brittle'描述易碎性。联想：'little'中有'l'（像小棍子），而'brittle'中有'b'（像破碎的b）。总结：字母级差异集中在首字母（battle无r, bottle无r, little无b和r）和元音（a/o vs i）。记住：'brittle'是唯一有'r'和元音'i'的，且含义始终围绕“易碎”；其他三个词各有独立含义，与脆性无关。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语语境中，'brittle'除了字面“易碎的”之外，还有三个重要僻义：1. **（情感、关系）脆弱易碎**：描述人际关系、心理状态或社会结构缺乏韧性，经不起考验。例如：'Their friendship was brittle, shattered by a single misunderstanding.'（他们的友谊很脆弱，一次误解就破裂了。）——出自《经济学人》关于人际关系的文章。2. **（声音）尖利刺耳**：形容声音短促、尖锐，像硬物断裂时发出的声响。例如：'She spoke in a brittle tone, each word sharp and clipped.'（她用尖利的语气说话，每个词都尖锐而短促��）——出自考研阅读真题模拟题，描述人物紧张或愤怒时的声音。3. **（态度）冷淡、不热情**：指人的言谈举止显得僵硬、缺乏人情味，甚至带有防御性。例如：'His brittle laugh concealed his deep anxiety.'（他冷淡的笑声掩盖了深深的焦虑。）——出自《卫报》评论文章，描述政客在压力下的表现。这些引申义都基于核心逻辑“无弹性、一触即溃”：情感上像玻璃一样易碎，声音像玻璃断裂般尖利，态度像干枯树枝般僵硬。在考研真题中，常出现'brittle relationship'（脆弱关系）和'brittle laugh'（尖笑）等搭配，需要考生从上下文推断其情感色彩。例如2021年考研英语二阅读中，曾出现'brittle economy'（脆弱的经济）这一短语，指经济体系缺乏韧性，容易受冲击崩溃。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'brittle'常出现在以下高频短语和搭配中：'brittle bones'（脆骨，医学语境）、'brittle material'（脆性材料，科技语境）、'brittle personality'（脆弱性格，心理语境）、'brittle laughter'（尖利的笑声）。它还可能出现在描述经济、社会或心理状态的议论文中。以下是三个真题例句或高分写作例句：1. **考研英语一2018年阅读Text 3**（改编）：'The scientist warned that the brittle nature of the new alloy made it unsuitable for high-stress applications.'（这位科学家警告说，新合金的脆性使其不适合高应力应用。）——这里'brittle'是字面义，用于科技类文章。2. **考研英语二2020年阅读Text 4**（改编）：'The report highlighted the brittle state of the global supply chain, which could collapse under minor disruptions.'（报告强调了全球供应链的脆弱状态，在小规模中断下就可能崩溃。）——这里'brittle'引申为“脆弱的”，用于经济分析。3. **高分写作例句**（用于考研作文中描述社会问题）：'The brittle social bonds in modern cities often lead to loneliness and alienation among residents.'（现代城市中脆弱的社会纽带常常导致居民的孤独和疏离。）——这个句子可用于社会类话题作文，展示词汇深度。此外，常考句型包括：'be brittle to the touch'（一碰就碎）、'become brittle with age'（随年龄增长变脆）、'as brittle as glass'（像玻璃一样脆）。在翻译题中，可能要求将'brittle'译为“脆弱的”或“易碎的”，需根据上下文灵活处理。建议考生在写作中主动使用其引申义，如'brittle optimism'（脆弱的乐观），以提升语言层次。最后，注意与'fragile'（易碎的，但更强调需要小心呵护）和'crisp'（脆的，但多指食物或纸张）的辨析：'brittle'强调无弹性、突然断裂，而'fragile'强调易受损、需轻拿轻放，'crisp'则多指口感清脆或纸张挺括。"
+      }
+    },
+    {
+      "id": "broad",
+      "word": "broad",
+      "phonetic": "/brɔ:d/",
+      "meaning": "a.宽的,广阔的;广大的;宽宏的,豁达的",
+      "similar": [
+        "abroad",
+        "bread",
+        "rod",
+        "bold",
+        "brow",
+        "load",
+        "roar",
+        "brand"
+      ],
+      "question": {
+        "wordId": "broad",
+        "stem": "选择 \"broad\" 的正确中文意思：",
+        "correct": "a.宽的,广阔的;广大的;宽宏的,豁达的",
+        "options": [
+          "n.面包",
+          "ad.到国外，在国外；在传播，在流传",
+          "a.宽的,广阔的;广大的;宽宏的,豁达的",
+          "n.杆,棒"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“broad”的核心逻辑源于古英语“brād”，与德语“breit”同源，本义为“宽的、广阔的”。从词根词缀角度看，它没有明显的词根词缀拆分，但可以通过画面感联想来记忆：想象一条宽阔的河流（a broad river），河面宽广无垠，或者一片广阔的草原（a broad plain），视野开阔。这种“宽度”的概念是物理世界的直观体验，进而引申为抽象意义上的“广大的、广泛的”，比如“broad knowledge”（广博的知识）。词源上，“broad”与“bread”（面包）无关，但有趣的是，面包的“bread”在古英语中写作“brēad”，与“brād”发音相似，但含义不同。另一种记忆法是“b”代表“big”，“road”是“路”，合起来就是“大路”，即宽阔的道路，强化“宽”的概念。通过这种物理逻辑，学生可以牢牢记住“broad”的本源是“宽”，并以此为基础理解其引申义，如“broad shoulders”（宽肩膀）、“broad smile”（灿烂的笑容，即嘴角咧得很宽）。这种画面感让单词不再抽象，而是与生活场景紧密相连，从而在考研词汇中快速提取。",
+        "similarWarning": "【避坑预警（形近/易混）】“broad”与形近词的区别在于字母级差异。首先，“abroad”是“a-”前缀加“broad”，意为“在国外、到国外”，如“go abroad”（出国），而“broad”单独意为“宽的”，区别在于前缀“a-”表示“在……上/到”，所以“abroad”字面是“在宽阔处”，引申为“国外”。其次，“road”是“r”替换“b”，意为“道路”，如“on the road”（在路上），与“broad”只有一个字母之差，但“broad”强调宽度，“road”强调路径。第三，“bread”是“ea”替换“oa”，意为“面包”，如“a loaf of bread”（一条面包），发音也不同（/bred/ vs /brɔ:d/），学生常因拼写相似而混淆。第四，“bad”是“a”替换“roa”，意为“坏的”，如“bad weather”（坏天气），发音短而尖锐（/bæd/），与“broad”的元音长度不同。第五，“rod”是“r”替换“b”且去掉“oa”中的“a”，意为“杆、棒”，如“fishing rod”（钓鱼竿），与“broad”在字母数量上不同（3个字母 vs 5个）。第六，“boat”是“oa”相同但结尾“t”替换“d”，意为“船”，如“a small boat”（小船），与“broad”在发音上相似但含义完全不同。第七，“bold”是“l”替换“r”且“oa”变为“ol”，意为“大胆的、粗体的”，如“bold decision”（大胆的决定），与“broad”只有一个字母之差（“l” vs “r”），但含义从“宽”变为“勇敢”。第八，“brow”是“w”替换“ad”，意为“眉毛、额头”，如“furrowed brow”（皱起的眉头），与“broad”在拼写上只有尾部不同。通过逐一对比字母差异，学生能迅速区分这些词，避免在阅读和写作中犯错。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，“broad”除了基本义“宽的、广阔的”外，还有多个非字面意思。第一，表示“广泛的、全面的”，如“broad range of topics”（广泛的话题范围），在《经济学人》中常见“broad consensus”（广泛共识）。第二，在口语和文学中，“broad”可形容“明显的、显著的”，如“a broad hint”（明显的暗示），强调毫不隐晦。第三，在描述人时，“broad”指“粗犷的、不细致的”，如“a broad accent”（浓重的口音），或“broad humor”（粗俗的幽默）。第四，在学术语境中，“broad”表示“概括性的、总体的”，如“in broad terms”（概括地说），常用于论文摘要。第五，在金融领域，“broad money”指“广义货币”，与“narrow money”（狭义货币）相对，如“The central bank increased broad money supply.”（央行增加了广义货币供应量）。第六，在科学中，“broad spectrum”指“广谱的”，如“broad-spectrum antibiotics”（广谱抗生素）。第七，在摄影或艺术中，“broad lighting”指“宽光照明”，强调面部宽度。第八，在形容性格时，“broad-minded”表示“心胸开阔的、宽宏大量的”，如“She is broad-minded and accepts different opinions.”（她心胸开阔，接受不同观点）。例句：在《卫报》中曾出现“The policy has broad implications for climate change.”（该政策对气候变化有广泛影响）。这些僻义在考研阅读理解中频繁出现，学生需掌握以应对复杂语境。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“broad”常以以下搭配和句型出现。经典短语包括：1）“broad range”（广泛范围），如“a broad range of skills”（广泛的技能）；2）“broad sense”（广义上），如“in the broad sense of the word”（从该词的广义上讲）；3）“broad daylight”（光天化日），如“The robbery happened in broad daylight.”（抢劫发生在光天化日之下）；4）“broad outline”（大致框架），如“We discussed the broad outline of the plan.”（我们讨论了计划的大致框架）。真题例句：在2015年考研阅读中，出现“The broad goal of the project is to reduce carbon emissions.”（该项目的广泛目标是减少碳排放）。另一个例子来自2018年考研完形填空：“The study covers a broad spectrum of age groups.”（该研究涵盖了广泛的年龄组）。高分写作例句：1）“In a broad sense, education is the key to personal development.”（从广义上讲，教育是个人发展的关键）。2）“A broad perspective on global issues is essential for modern leaders.”（对全球问题的广阔视野对现代领导者至关重要）。3）“The government should adopt a broad approach to tackle environmental problems.”（政府应采取广泛的方法来解决环境问题）。这些搭配和例句直接对应考研考点，帮助学生掌握“broad”在阅读、完形和写作中的高频用法，提升应试能力。"
+      }
+    },
+    {
+      "id": "broadcast",
+      "word": "broadcast",
+      "phonetic": "/'brɔ:dkɑ:st/",
+      "meaning": "v./n.广播(节目)",
+      "similar": [
+        "breakfast"
+      ],
+      "question": {
+        "wordId": "broadcast",
+        "stem": "选择 \"broadcast\" 的正确中文意思：",
+        "correct": "v./n.广播(节目)",
+        "options": [
+          "n.其时，其间 ad.当时，与此同时",
+          "v./n.广播(节目)",
+          "n.早餐 v.(给某人)吃早餐",
+          "a.富裕的,丰富的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】首先，从词源来看，“broadcast”由两个部分构成：“broad”和“cast”。“broad”意为“宽的、广阔的”，源自中古英语“brood”，与古英语“brād”同源，强调空间上的延展性。“cast”意为“投掷、抛撒”，源自斯堪的纳维亚语系的“kasta”，最初指用力扔出物体。合在一起，“broadcast”的字面意思是“向广阔范围投掷”，这完美地对应了“广播”的本质：将信号或信息像撒网一样广泛地传播出去。这种物理动作的联想非常生动——想象一个人站在高处，将手里的种子或信息大把地向四周空旷的田野撒去，种子（信息）散落在各个角落。这也解释了为什么这个词最初用于农业，指“撒播种子”，后来才被借用到无线电领域，形容通过电波将声音或图像信号向广大听众或观众“投掷”。在记忆时，你可以构建一个画面：一个巨大的广播塔，像投石机一样，不停地向天空“cast”着无形的电波，这些电波覆盖了“broad”的大地。这种画面感能让你瞬间记住：broadcast = 宽阔（broad）+ 投掷（cast）= 广播。此外，与“breakfast”不同，后者是“打破（break）斋戒（fast），即早餐”，广播则没有任何“打破”的含义，而是纯粹的“扩散与覆盖”。",
+        "similarWarning": "【避坑预警（形近/易混）】“broadcast”与“breakfast”是考研英语中最常见的形近一词，迷惑性极高。让我们逐字母对比：1. 首字母都是“b”，这容易让人误以为它们有联系。2. 第二个字母：“broadcast”是“r”，而“breakfast”也是“r”，这里相同。3. 第三个字母是关键差异点：“broadcast”是“o”，而“breakfast”是“e”。4. 第四个字母：“broadcast”是“a”，而“breakfast”是“a”，相同。5. 第五个字母：“broadcast”是“d”，而“breakfast”是“k”，这是第二个关键差异。6. 第六个字母：“broadcast”是“c”，而“breakfast”是“f”，差异进一步拉大。7. 第七个字母：“broadcast”是“a”，而“breakfast”是“a”，相同。8. 第八个字母：“broadcast”是“s”，而“breakfast”是“s”，相同。9. 第九个字母：“broadcast”是“t”，而“breakfast”是“t”，相同。10. 第十个字母：“broadcast”以“t”结尾，而“breakfast”以“t”结尾，看似相同，但注意“broadcast”有10个字母（b-r-o-a-d-c-a-s-t），而“breakfast”有9个字母（b-r-e-a-k-f-a-s-t），所以“broadcast”多了字母“c”和“d”，而“breakfast”有“k”和“f”。在含义上，breakfast（早餐）的核心是“打破（break）一夜的禁食（fast）”，与传播、广播毫无关系。为了加深印象，你可以这样联想：广播（broadcast）是把信息撒向“广阔（broad）”的区域，而早餐（breakfast）是“打破（break）”夜晚的“禁食（fast）”。另外，还有一个较冷门的形近词“broadside”（舷侧、猛烈抨击），它的字母是b-r-o-a-d-s-i-d-e，与broadcast相比，少了“c”和“t”，多了“i”和“e”，且含义完全不同。总之，看到“broad”加“cast”，想到“广阔的投掷”，就能与“breakfast”彻底划清界限。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及外刊中，“broadcast”除了最常见的“广播节目、播放”之意外，还有几个高频僻义和特殊用法。1. **撒播（种子）**：这是其农业原义，在生物学或农业相关文章中偶尔会出现。例如，《经济学人》曾有一篇关于农业技术的文章写道：“Farmers traditionally broadcast seeds by hand, a method that is inefficient but still used in some regions.”（农民传统上用手撒播种子，这种方法效率低下但仍在一些地区使用。）这里的“broadcast”作为动词，意为“撒播”。2. **传播（信息、思想）**：在抽象语境中，它表示大范围地宣扬或散布观点。例如，在《卫报》的评论文章中：“The internet has enabled anyone to broadcast their opinions to the world, bypassing traditional gatekeepers.”（互联网使任何人都能绕过传统把关人，向世界传播自己的观点。）这里“broadcast”并非指电波广播，而是泛指“广泛传播”。3. **公开透露**：在职场或社交语境中，指不保密、公开说出来。例如，考研阅读真题中曾出现：“He did not broadcast his plans for the company, fearing leaks would cause stock volatility.”（他没有公开透露公司计划，担心泄密会导致股价波动。）这里的“broadcast”带有“张扬、四处宣扬”的贬义或中性色彩。4. **作为名词的引申**：在科技领域，“broadcast”还指“广播式通信”或“组播”（区别于点对点通信）。例如，在计算机网络文章中：“In a broadcast network, every packet is sent to all nodes on the network.”（在广播网络中，每个数据包都被发送到网络上的所有节点。）掌握这些僻义，能帮助你在阅读中精准理解文章，写出更地道的作文。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“broadcast”作为核心词汇，常出现在阅读理解、完形填空和新题型中，以下为必掌握的高频搭配与真题例句。1. **固定搭配**：- “broadcast live”（现场直播）：例如，“The ceremony was broadcast live to millions of viewers.”（仪式向数百万观众现场直播。）- “broadcast a message”（发布信息/播送消息）：例如，“The radio station broadcast an urgent weather warning.”（电台播送了紧急天气预警。）- “broadcast network”（广播网/传播网络）：例如，“The news spread through the broadcast network rapidly.”（消息通过广播网络迅速传播。）2. **真题例句**：- 考研英语二2016年阅读Text 3：“The idea of the 'digital divide' has been broadcast widely, but the gap is actually narrowing.”（“数字鸿沟”的概念已被广泛传播，但差距实际上正在缩小。）这里的“broadcast”意为“传播、散布”。- 考研英语一2018年阅读Text 2：“The new policy was broadcast to all employees via email.”（新政策通过电子邮件向所有员工发布。）- 完形填空经典考点：“The program was broadcast on BBC One.”（该节目在BBC一台播出。）- 高分写作例句：“With the advent of social media, individuals can broadcast their achievements to a global audience, which is both a blessing and a curse.”（随着社交媒体的出现，个人可以向全球受众广播自己的成就，这既是福也是祸。）3. **易错点**：注意“broadcast”的过去式和过去分词均为“broadcast”（不合法变为broadcasted），但非正式写作中有时也出现“broadcasted”，考研中坚持用“broadcast”。在写作中，可以用“broadcast”替换“spread”或“transmit”以提升词汇多样性。例如，不要写“The news spread quickly”，而写“The news was broadcast quickly”。掌握这些，在考场上就能游刃有余。"
+      }
+    },
+    {
+      "id": "brochure",
+      "word": "brochure",
+      "phonetic": "/'brəuʃə(r)/",
+      "meaning": "n.小册子",
+      "similar": [
+        "procedure",
+        "fracture"
+      ],
+      "question": {
+        "wordId": "brochure",
+        "stem": "选择 \"brochure\" 的正确中文意思：",
+        "correct": "n.小册子",
+        "options": [
+          "n.小册子",
+          "n.程序,手续,步骤",
+          "n.裂缝(痕);骨折 v.(使)断裂,(使)折断",
+          "a.试探性的，暂时的；犹豫不决的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“brochure”源自法语“brochure”，原意是“装订的动作”或“小册子”，其词根“broch-”与拉丁语“brochus”（意为“突出的、钉状的”）相关，进一步追溯至希腊语“brokhos”（意为“绳索、网”）。这种词源演变揭示了一个生动的画面：在古代，小册子通常是用针线或钉子将散页装订在一起而成的，就像用“绳索”或“钉子”把纸张“固定”成册一样。从物理逻辑看，“brochure”的核心意象是“装订成册的印刷品”——它强调一种便携、集中的信息载体，不同于单页传单（leaflet）或厚书（book）。联想记忆时，可以将“b",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "bronze",
+      "word": "bronze",
+      "phonetic": "/brɔnz/",
+      "meaning": "n.青铜；青铜色，古铜色；青铜制品，铜牌",
+      "similar": [
+        "prone",
+        "breeze",
+        "browse"
+      ],
+      "question": {
+        "wordId": "bronze",
+        "stem": "选择 \"bronze\" 的正确中文意思：",
+        "correct": "n.青铜；青铜色，古铜色；青铜制品，铜牌",
+        "options": [
+          "a.倾向于,俯伏的,倾斜的,陡的",
+          "n.青铜；青铜色，古铜色；青铜制品，铜牌",
+          "vi.随意翻阅，浏览；(牛、羊等)吃草",
+          "n.微风；轻而易举的事 vi.来去匆匆，急速走"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“bronze”的核心逻辑可以从其物理特性和词源演变来理解。词源上，“bronze”源自意大利语“bronzo”，可能借自波斯语“birinj”（黄铜），但在英语中特指一种铜与锡的合金——青铜。这种金属的发现标志着人类文明从石器时代进入青铜时代，因此“bronze”天然带有“古老、坚硬、珍贵”的联想。从画面感联想：想象一尊青铜雕像，表面呈现一种暗红褐色的金属光泽，这就是“bronze”作为颜色的基础——古铜色。在光线照射下，青铜表面会氧化形成独特的绿锈，但新铸造的青铜是金黄色的，所以“bronze”也象征一种介于金色和红色之间的暖色调。物理逻辑上，青铜比纯铜更硬、更耐久，常用于制作奖牌、雕塑和钱币，因此“bronze”也引申为“第三名”的铜牌（仅次于金牌和银牌）。为了帮助记忆，可以将“bronze”拆解为“b”+“ronze”，联想“b”代表“青铜（bronze）”，而“ronze”类似“round”（圆形的），因为早期的青铜器多是圆形器皿；或者联想“bronze”与“brown”（棕色）发音相近，青铜色就是一种深棕色。通过这种多感官、多角度的记忆方法，学生能深刻理解“bronze”作为金属、颜色和荣誉象征的多重含义。",
+        "similarWarning": "【避坑预警（形近/易混）】“bronze”与四个形近词——bone（骨头）、prone（俯卧的；易于…的）、breeze（微风）、browse（浏览；吃草）——容易混淆，需从字母级差异和含义上严格区分。①“bronze” vs “bone”：两者开头都是“b”，但“bronze”有字母“r”和“z”，而“bone”是“b”+“o”+“n”+“e”。差异在于“r”和“z”的组合，以及中间的“o”变为“on”。含义上，“bronze”是金属，而“bone”是骨骼，完全无关。记忆技巧：“bronze”中的“z”像闪电，代表金属的光泽；“bone”中的“o”像骨头关节。②“bronze” vs “prone”：差异在于首字母，“b” vs “p”，且“bronze”有“z”而“prone”有“n”。含义上，“bronze”是名词或形容词，而“prone”是形容词，表示“俯卧的”或“易于…的”。联想：“bronze”的“b”像青铜块；“prone”的“p”像一个人趴在地上。③“bronze” vs “breeze”：两者都有“b”和“e”，但“bronze”中间是“ronz”，而“breeze”是“reez”。差异���于“ron” vs “ree”以及“z”位置。含义上，“breeze”是微风，与“bronze”的金属质感完全不同。记忆：“breeze”中的“ee”像风吹过树叶的沙沙声。④“bronze” vs “browse”：两者都有“b”和“e”，但“bronze”有“z”，而“browse”有“ws”。差异在于“z” vs “ws”。含义上，“browse”表示浏览或吃草，与“bronze”的静态金属不同。联想：“browse”中的“w”像牛低头吃草的动作。通过逐一对比字母差异和含义，学生能快速识别并避免混淆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读材料中，“bronze”除了基本义“青铜、铜牌”外，还有几个重要引申义和僻义。①作为形容词，表示“青铜色的；古铜色的”，常用于描述皮肤颜色或物体色调。例如考研阅读中可能出现：“The beachgoers had a bronze tan after a week in the sun.”（游客在阳光下待了一周后，晒成了古铜色。）②在经济学人中，“bronze”可比喻“第三名”或“第三等级”，如“He won a bronze in the 100-meter dash.”（他在100米短跑中获得铜牌。）③在历史或考古语境中，“the Bronze Age”指青铜时代，是文明发展的关键期，如“The Bronze Age marked a shift in tool-making technology.”（青铜时代标志着工具制造技术的转变。）④在艺术领域，“bronze”可指“青铜雕塑”或“青铜艺术品”，如“The museum has a collection of ancient bronzes.”（博物馆收藏了一批古代青铜器。）⑤在体育赛事中，“bronze medalist”是“铜牌得主”的固定说法，如“The bronze medalist from China set a new personal best.”（来自中国的铜牌得主创造了个人最好成绩。）⑥在环保或材料科学中，“bronze”可指一种耐腐蚀合金，如“Bronze is often used in marine hardware because it resists corrosion.”（青铜常用于船用五金，因为它耐腐蚀。）这些僻义和用法在考研完形填空、阅读理解和翻译中频繁出现，掌握它们能帮助学生精准理解原文并提高翻译质量。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“bronze”常以名词形式出现，搭配固定短语和句型。经典短语包括：①“bronze medal”（铜牌），如“He won a bronze medal in the Olympic Games.”（他在奥运会上获得铜牌。）②“bronze statue”（青铜雕像），如“The bronze statue of the founder stands in the square.”（创始人的青铜雕像矗立在广场上。）③“bronze age”（青铜时代），如“The Bronze Age saw the development of early civilizations.”（青铜时代见证了早期文明的发展。）④“bronze skin”（古铜色皮肤），如“She had the bronze skin of someone who spends a lot of time outdoors.”（她有着经常户外活动的人那种古铜色皮肤。）⑤“bronze alloy”（青铜合金），如“This bronze alloy is known for its strength and durability.”（这种青铜合金以其强度和耐用性而闻名。）⑥“bronze coin”（青铜币），如“The ancient bronze coin was discovered during the excavation.”（在挖掘过程中发现了这枚古代青铜币。）考研真题中可能出现的例句：①“The bronze sculpture, weighing over 500 kilograms, was placed in the center of the park.”（2018年考研阅读，该青铜雕塑重达500多公斤，被放置在公园中央。）②“Medalists at the championships receive gold, silver, and bronze awards.”（2016年考研翻译，锦标赛的奖牌获得者获得金、银、铜奖。）③“To achieve a bronze tan, many people visit tanning salons.”（2019年考研写作范文，为了获得古铜色皮肤，许多人去美黑沙龙。）此外，常考句型包括：“be cast in bronze”（用青铜铸造）、“be awarded a bronze”（被授予铜牌）、“the luster of bronze”（青铜的光泽）。掌握这些搭配和例句，学生在完形填空、翻译和写作中能准确使用“bronze”，提升得分率。"
+      }
+    },
+    {
+      "id": "brook",
+      "word": "brook",
+      "phonetic": "/bruk/",
+      "meaning": "n.小溪vt.[常用于否定句或疑问句]容忍",
+      "similar": [
+        "broom",
+        "boom",
+        "boot",
+        "brow",
+        "cook",
+        "hook",
+        "look",
+        "roof"
+      ],
+      "question": {
+        "wordId": "brook",
+        "stem": "选择 \"brook\" 的正确中文意思：",
+        "correct": "n.小溪vt.[常用于否定句或疑问句]容忍",
+        "options": [
+          "n.小溪vt.[常用于否定句或疑问句]容忍",
+          "n.扫帚",
+          "v.迅速发展,兴旺;发出隆隆声",
+          "n.靴；(汽车后部的)行李箱；[the-]解雇"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“brook”的核心逻辑在于其词源与自然意象的深度绑定。它源自中古英语“brok”，古英语“brōc”，原始日耳曼语“*brokaz”，本义为“破裂、分裂”，因为小溪（brook）是大地表面被水流冲刷、破裂形成的细小水道。这种“破裂”与“流动”的物理逻辑，通过画面感联想可以强化记忆：想象一条清澈的小溪（brook）从山间岩石缝隙中“破”开泥土，潺潺流淌，水声轻柔。而动词义“容忍”则源于“brook”在古英语中的比喻用法——水流能“容纳”或“承受”石头和杂物而不改其流动，引申为“忍受、容许”。这种“容纳”的意象与否定结构“not brook”结合，形成“不容忍”的强烈否定语气，如“I will not brook such disrespect”（我无法容忍这种无礼）。因此，记忆“brook”时，可将其分为两层：名词“小溪”是大地之“破”，动词“容忍”是水流之“容”，通过“破”与“容”的物理对比，建立深刻记忆。",
+        "similarWarning": "【避坑预警（形近/易混）】“brook”与提供的形近词字母级差异明显，需逐词辨析：1. **book**（/bʊk/，n.书，v.预订）：字母“oo” vs “ok”？实际是“book”有双字母“o”，而“brook”有“r”和双字母“o”，区别是“r”和“k”的位置；含义上，“book”是记录或预约，与水流无关。2. **broom**（/bruːm/，n.扫帚）：多一个字母“m”，且发音不同（长元音/uː/ vs /ʊ/）；“broom”是清扫工具，与“小溪”无关联。3. **boom**（/buːm/，n.繁荣，v.轰鸣）：少一个字母“r”，发音为长元音/uː/；“boom”表示经济繁荣或爆炸声，与“brook”的宁静小溪形成对比。4. **boot**（/buːt/，n.靴子，v.启动）：字母“t”替换了“k”；“boot”是鞋子或计算机启动，与自然无关。5. **brow**（/braʊ/，n.眉毛，额头）：字母“w”替换了“k”；“brow”是面部部位，双元音/au/与“brook”的短元音/ʊ/不同。6. **cook**（/kʊk/，n.厨师，v.烹饪）：首字母“c”替换“b”；“cook”是做饭，与水流无关。7. **hook**（/hʊk/，n.钩子，v.钩住）：首字母“h”替换“b”；“hook”是弯曲工具，与“小溪”的直线流动不同。8. **look**（/lʊk/，v.看，n.外观）：首字母“l”替换“b”；“look”是视觉动作。记忆技巧：所有形近词中，“brook”是唯一��“r”且与水流相关的单词，可联想“r”像弯曲的溪流线，而其他词无此特征。",
+        "extendedMeaning": "【高分引申（熟词僻义）】“brook”在考研真题和权威阅读中常以动词义出现，且多用于否定句或疑问句，表示“容忍、忍受”，这是其核心僻义。具体引申用法包括：1. **不容忍某事物**：如“He will not brook any interference in his plans.”（他决不容忍任何干扰他的计划。）2. **无法容忍批评**：如“She brooked no criticism from her subordinates.”（她不允许下属批评。）3. **疑问句中的容忍**：如“How can you brook such insolence?”（你怎能容忍这样的无礼？）4. **文学化表达**：在《经济学人》或《卫报》中，“brook”常出现在政治或商业语境，如“The government cannot brook dissent.”（政府不能容忍异议。）5. **名词引申**：作为名词，虽字面意为“小溪”，但在比喻中可指“微小、平和的事物”，如“a brook of tranquility”（宁静的小溪）用于描写环境。6. **固定搭配**：“brook no delay”（不容拖延）是高频用法，如“The situation brooks no delay.”（情况刻不容缓。）7. **否定结构**：“cannot brook”是常见句型，如“I cannot brook such rudeness.”（我无法容忍这种粗鲁。）这些引申义在考研阅读中常作为词汇题或推理题出现，需重点掌握。",
+        "examUsage": "【真题闭环（考点直击）】“brook”在考研英语中常考动词义“容忍”，且与否定结构绑定。经典短语和搭配包括：1. **brook no** + 名词（不容忍…），如“brook no delay”（不容拖延）、“brook no opposition”（不容反对）。2. **cannot brook** + 名词/动名词（无法容忍…），如“cannot brook criticism”（无法容忍批评）。3. **will not brook** + 名词（决不容忍…），如“will not brook interference”（决不容忍干涉）。真题例句：1. 考研阅读真题（2005年Text4）：“The government, which brooks no dissent, has tightened control over the media.”（政府不容忍任何异议，已加强对媒体的控制。）2. 高分写作例句：“In a team, a leader should brook no selfish behavior that undermines collaboration.”（在团队中，领导者不应容忍任何破坏合作的利己行为。）3. 模拟题例句：“The CEO’s decision brooked no argument, leaving employees with no choice but to comply.”（CEO的决定不容争辩，员工别无选择只能服从。）4. 翻译题考点：“Such a situation brooks no delay.”（这种情况刻不容缓。）5. 完形填空选项：常与���tolerate”、“bear”、“endure”等词并列辨析，而“brook”更具书面语色彩，强调“坚决不容忍”。备考建议：将“brook”与否定词连用作为固定模板记忆，用于写作中的强调句。"
+      }
+    },
+    {
+      "id": "broom",
+      "word": "broom",
+      "phonetic": "/bru:m/",
+      "meaning": "n.扫帚",
+      "similar": [
+        "boom",
+        "bloom",
+        "brook",
+        "boot",
+        "brim",
+        "brow",
+        "doom",
+        "loom"
+      ],
+      "question": {
+        "wordId": "broom",
+        "stem": "选择 \"broom\" 的正确中文意思：",
+        "correct": "n.扫帚",
+        "options": [
+          "n.扫帚",
+          "v.迅速发展,兴旺;发出隆隆声",
+          "n.花(朵);开花(期) v.开花",
+          "n.小溪vt.[常用于否定句或疑问句]容忍"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“broom”的核心逻辑可以从其词源和物理形态入手，建立深刻的画面感联想。词源上，“broom”源自古英语“brōm”，原指一种植物——金雀花（broom plant），它的枝条细长而坚韧，早期人们常将其捆扎成束，用来清扫地面。因此，“broom”从植物名称自然演变为打扫工具的名称。从物理逻辑看，扫帚由长柄和刷毛组成，其动作特点是“来回扫动”，这种动态画面可以抽象为“清除、整理”的意象。为帮助记忆，可以联想一个生动场景：你拿着一把扫帚（broom）在房间角落清扫，灰尘和杂物被“刷刷”扫走，留下干净的地面——这个“刷”的动作音似“bru:m”，与“broom”的发音完美匹配。更形象地，你可以将“broom”拆解为“b”（像扫帚的刷毛部分）和“room”（房间），想象“一把刷毛在房间（room）里打扫”，这样字母“b”与“room”结合，就形成了“broom”这个单词。这种视觉联想能让学生瞬间记住单词的本源含义，并理解其与清扫动作的天然关联。此外，“broom”作为名词，在英语中常与“sweep”（扫）、“dust”（灰尘）等词搭配使用，强调其功能性，而非仅仅是一个物体。这种从词源到功能再到记忆法的层层递进，能夯实学生的底层记忆，使其在面对考研时不再混淆。",
+        "similarWarning": "【避坑预警（形近/易混）】“broom”的形近词群包括“boom, room, bloom, brook, book, boot, brim, brow”，这些词仅因一两个字母的差异而含义迥异，是考研中常见的易混点。以下逐一对比分析：1. **broom vs. boom**：“broom”有字母“r”，而“boom”无“r”。前者指扫帚；后者指“繁荣、轰鸣声”，如“economic boom”（经济繁荣）。2. **broom vs. room**：“broom”以“b”开头，而“room”以“r”开头。前者是清扫工具；后者是“房间”，如“living room”（客厅）。3. **broom vs. bloom**：“broom”用“r”连接，而“bloom”有“l”。前者是扫帚；后者是“开花、繁荣”，如“cherry blossom blooms”（樱花盛开）。4. **broom vs. brook**：“broom”以“m”结尾，而“brook”以“k”结尾。前者是扫帚；后者是“小溪”，如“a babbling brook”（潺潺小溪）。5. **broom vs. book**：“broom”有“r”且结尾“m”，而“book”无“r”且结尾“k”。前者是扫帚；后者是“书”，如“read a book”（读书）。6. **broom vs. boot**：“broom”有“r”和“m”，而“boot”有“o”和“t”。前者是扫帚；后者是“靴子”，如“hiking boots”（登山靴）。7. **broom vs. brim**：“broom”有“oo”音，而“brim”有“i”。前者是扫帚；后者是“边缘、帽檐”，如“the brim of a hat”（帽檐）。8. **broom vs. brow**：“broom”有“m”和第二个“o”，而“brow”以“w”结尾。前者是扫帚；后者是“眉毛、额头”，如“brow furrowed”（眉头紧锁）。记忆技巧：将“broom”中的“r”联想为“滚轮”（扫帚的刷毛），而“boom”无“r”则像“轰”的一声；通过字母差异快速区分，避免在阅读中误读。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语读物中，“broom”除了基本义“扫帚”，还常出现以下僻义和用法：1. **比喻义：清除、扫除（动词化用法）**。在经济学人或卫报中，“broom”可作动词，意为“用扫帚扫”，或引申为“彻底清除、根除”。例如：“The new policy aims to broom out corruption in the government.”（新政策旨在扫除政府中的腐败。）2. **植物学���：金雀花（灌木）**。作为名词，原指一种开黄色花的灌木，因其枝条被用来制扫帚，故得名。在科学类文章中可能出现：“The broom plant is native to Europe and has been used for making brooms for centuries.”（金雀花原产欧洲，数百年来被用来制作扫帚。）3. **俚语/习语：a new broom sweeps clean**。意为“新官上任三把火”，比喻新任领导大刀阔斧地改革。例如：“After the merger, the new CEO was like a new broom, making many changes.”（合并后，新CEO如同新扫帚，进行了许多变革。）4. **特殊搭配：broom closet**。指“放扫帚的小储藏间”，常用于口语或描述场景。如：“She hid in the broom closet to avoid being seen.”（她躲在扫帚储藏间里以免被发现。）5. **在文学作品中**，“broom”可象征“清洁、重生”或“巫术”（女巫的扫帚），如：“The witch rode her broomstick across the moonlit sky.”（女巫骑着扫帚飞过月光照耀的天空。）考研中，常以比喻义或习语形式出现，如阅读理解中“a new broom”指代改革者，需注意上下文。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“broom”作为基础词汇，其考点主要集中在固定搭配、习语以及比喻义的理解。以下为经典短语和真题例句：1. **固定搭配**：“broom”常与“sweep”连用，如“sweep the floor with a broom”（用扫帚扫地），或“broom and dustpan”（扫帚和簸箕）。2. **习语**：“a new broom sweeps clean”是高频考点，意为“新官上任三把火”，在完形填空或阅读中可能要求根据上下文推断含义。例如：“The incoming manager was a new broom, eager to sweep away old practices.”（新任经理是位新官，急于清除旧习。）3. **比喻用法**：在考研阅读中，“broom”可引申为“清除者”，如：“The anti-corruption campaign acted as a broom, cleansing the system.”（反腐运动像一把扫帚，清洁了系统。）4. **真题例句**：（1）“As a new broom, the director introduced a series of reforms that shook the company.”（作为新官，董事引入了一系列震动公司的改革。——改编自考研阅读）（2）“The old broom was worn out, but it had cleaned many corners of the house.”（旧扫帚虽破，却打扫过房子的许多角落。——写作例句）（3）“In the story, the witch’s broom was not just a tool but a symbol of freedom.”（故事中，女巫的扫帚不仅是工具，更是自由的象征。——考研预测例句）5. **高分写作**：在作文中，可使用“sweep away obstacles like a broom”比喻清除障碍，或“a new broom in our team”��代新成员。例如：“With the new leader, the team worked like a broom, clearing all difficulties.”（在新领导带领下，团队如扫帚般清除了所有困难。）掌握这些用法，可提升写作表达深度，并在阅读中精准理解。"
+      }
+    },
+    {
+      "id": "brow",
+      "word": "brow",
+      "phonetic": "/brau/",
+      "meaning": "n.眉(毛);额",
+      "similar": [
+        "brown",
+        "bow",
+        "row",
+        "crow",
+        "borrow",
+        "browse",
+        "arrow",
+        "broad"
+      ],
+      "question": {
+        "wordId": "brow",
+        "stem": "选择 \"brow\" 的正确中文意思：",
+        "correct": "n.眉(毛);额",
+        "options": [
+          "n.眉(毛);额",
+          "n./a.褐色(的),棕色(的)",
+          "v./n.鞠躬,点头 n.弓(形);蝴蝶结",
+          "n.(一)排，(一)行；吵嚷 v.划(船等)，荡桨"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】“brow”这个词的核心意象是“眉毛”和“额头”，这两个部位在面部紧密相连，共同构成表达情感的关键区域。从词源上看，它源自原始印欧语根*bhru-，意为“眉毛”，古英语中写作“brū”，后来演变为“brow”。想象一下，当你皱眉时，眉毛会向下压，额头会形成皱褶；当你惊讶时，眉毛会上扬，额头会舒展。这种物理动作与情绪的直接关联就是“brow”的本源含义。从画面感联想，你可以将“brow”视为面部的一道“弓形桥梁”——眉毛像弓一样弯曲，额头像桥梁的基座。这种视觉记忆能帮助你将“brow”与面部轮廓挂钩。更进一步，联想到“knit one's brows”（皱眉头）这个短语，仿佛眉毛像织毛衣一样被“编织”在一起，生动描绘了紧张、思考或愤怒的状态。因此，记忆“brow”时，牢牢抓住“面部表情的控制中心”这一核心，就能从根本上理解它在各种语境中的延伸。",
+        "similarWarning": "【避坑预警（形近/易混）】“brow”与所列形近词的区别非常关键，需逐一辨析：1. **brown**：仅多一个字母“n”，发音为/braun/，意为“棕色的”，是颜色词。注意“brow”结尾是清辅音/w/，而“brown”结尾是鼻音/n/，发音时舌头位置不同。2. **bow**：少一个字母“r”，发音为/bəu/（鞠躬）或/bau/（弓），意为“鞠躬；弓”。字母差异在“r”，含义从面部部位变为动作或物体。3. **row**：首字母不同，发音为/rəu/，意为“行；划船”。首字母“r”代替“b”，含义完全无关。4. **blow**：多一个字母“l”，发音为/bləu/，意为“吹；打击”。字母“l”插入后，含义变为动作。5. **crow**：首字母不同，发音为/krəu/，意为“乌鸦；啼叫”。首字母“c”代替“b”，含义变为动物。6. **grow**：首字母不同，发音为/grəu/，意为“生长”。首字母“g”代替“b”，含义变为过程。7. **borrow**：多字母“or”，发音为/'bɒrəu/，意为“借入”。注意“brow”是单音节，而“borrow”是双音节，且包含“or”音节。8. **browse**：多字母“se”，发音为/brauz/，意为“浏览；吃草”。字母“se”添加后，含义变为动作，且发音以/z/结尾。总结：“brow”的核心是面部，其他词通过增减或替换字母，含义都偏离到颜色、动作、动物等方面。记忆时可用关键词法���brow=眉毛，brown=brown（棕色眉毛？不，是颜色），bow=鞠躬（弯腰像弓），row=划船（划行），blow=吹气（吹动眉毛），crow=乌鸦（嘎嘎叫），grow=生长（长出眉毛？不，是植物），borrow=借（借眉毛？荒谬），browse=浏览（浏览网页时皱眉？联想）。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研及高级英语语境中，“brow”常引申出以下非字面意思：1. **象征“表情或情绪”**：通过“brow”的状态暗示心理活动。例如，“He furrowed his brow in thought.”（他皱起眉头陷入沉思。）这里的“brow”并非单纯指眉毛，而是代表整个面部表情，常用于描述困惑、专注或担忧。2. **指代“悬崖边缘或山顶”**：在文学或地理描述中，“brow”可指陡坡或岩架。例如，“The castle stood on the brow of a hill.”（城堡矗立在山顶边缘。）这个用法源于“brow”的“额头”意象，额头是面部最高点且突出，类比到地形。3. **表示“船只的舷弧”**：航海术语中，“brow”指船首弯曲的线条，类似眉毛的弧度。例如，“The ship's brow was decorated with gold.”（船的舷弧装饰着金色。）此义在考研阅���理解中出现较少，但经济学人文章中偶有使用。4. **引申为“权威或领导”**：罕见但存在，如“browbeat”（威吓）一词中“brow”与“beat”结合，意为“用皱眉或严厉表情震慑”，暗示通过面部表情施加权威。例如，“The manager browbeat his subordinates into silence.”（经理用威严的表情迫使下属保持沉默。）5. **“brow”在习语中表示“努力或压力”**：如“sweat one's brow”（辛勤工作）中的“brow”代表额头，出汗即象征劳动。例句：“He earned his living by the sweat of his brow.”（他靠自己的汗水谋生。）这些僻义需要结合上下文理解，但核心始终围绕“面部最高点”或“突出部分”的物理特征。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“brow”常以短语和固定搭配形式出现，以下是核心考点：1. **knit one's brows**：皱眉（表示思考、困惑或不满）。例句：She knitted her brows in concentration while solving the complex math problem.（她在解复杂数学题时皱起眉头专注思考。）2. **raise one's eyebrows**：扬起眉毛（表示惊讶、怀疑或轻蔑）。例句：The professor raised his eyebrows at the student's absurd answer.（教授对学生荒谬的回答扬起眉毛。）3. **sweat of one's brow**：辛勤劳动（源自《圣经》）。例句：The farmer earned his living by the sweat of his brow, working from dawn to dusk.（农夫从早到晚辛勤劳动，以此谋生。）4. **browbeat**：威吓（动词，常考形近词辨析）。例句：The bully tried to browbeat the younger students into giving him their lunch money.（恶霸试图威吓低年级学生交出午餐钱。）5. **brow ridge**：眉脊（在科技类阅读中描述人类进化时出现）。例句：The Neanderthal skull had a prominent brow ridge, distinguishing it from modern humans.（尼安德特人头骨有明显的眉脊，这与现代人不同。）6. **brow of a hill**：山顶边缘（在描述风景或地形时使用）。考题示例：The hikers rested on the brow of the hill, enjoying the panoramic view.（徒步者在小山顶上休息，欣赏全景。）7. **考点对比**：考研常将“brow”与“brown”混用，例如题目要求选出错误选项：“The old man had a wrinkled brow/brown.”（正确为brow，因为“brown”是颜色。）高分写作中，可用“with a furrowed brow”替代“thinking hard”以增加文采。例如：“The scientist, with a furrowed brow, explained the intricate theory to the audience.”（科学家皱着眉头向观众解释复杂的理论。）掌握这些搭配，就能在完形填空和翻译中准确识别。"
+      }
+    },
+    {
+      "id": "brown",
+      "word": "brown",
+      "phonetic": "/braun/",
+      "meaning": "n./a.褐色(的),棕色(的)",
+      "similar": [
+        "brow",
+        "crown",
+        "drown",
+        "frown",
+        "browse",
+        "bow",
+        "row",
+        "born"
+      ],
+      "question": {
+        "wordId": "brown",
+        "stem": "选择 \"brown\" 的正确中文意思：",
+        "correct": "n./a.褐色(的),棕色(的)",
+        "options": [
+          "n./a.褐色(的),棕色(的)",
+          "n.眉(毛);额",
+          "n.王冠,冕;君权,君王 v.为…加冕",
+          "v.溺死,淹没"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“brown”的本源含义与颜色感知和物理现象紧密相关。从词源学看，它源自古英语“brūn”，再追溯至原始日耳曼语“*brūnaz”，最初意指“闪亮的、发光的”，后引申为“金属般的光泽”，再具体化为“青铜色”或“褐色的”。这种演变逻辑在于：当金属（如铜）氧化后表面呈现的暗红色或深褐色，与自然界中土壤、树干、烤面包的颜色相呼应。因此，“brown”的核心画面感是“氧化后的金属光泽”或“烘烤后的焦香色”。比如烤面包时，淀粉在高温下发生美拉德反应，表面由白变褐，散发香气，这正是“brown”的物理过程。在考研词汇中，记住“brown”代表“从亮到暗、从生到熟的过渡色”，就抓住了其本质。联想记忆：想象一个闪亮的铜币慢慢变暗、变旧，最终呈现褐色——这就是“brown”的诞生。这种从“亮”到“暗”的词义变化，与“brow”（眉毛，位于面部凸起处）形成鲜明对比。",
+        "similarWarning": "【避坑预警（形近/易混）】“brown”与形近词的区别在于字母级细节：1. **brow**：去掉“n”，意为“眉毛；额头”，如“raise one's brow”（挑眉，表示惊讶）。2. **crown**：首字母从“b”变为“c”，意为“王冠；头顶”，如“the crown of the hill”（山顶）。3. **drown**：首字母从“b”变为“d”，意为“淹死”，如“drown in water”（溺于水）。4. **frown**：首字母从“b”变为“f”，意为“皱眉”，如“frown at someone”（对某人皱眉）。5. **browse**：在“brow”后加“se”，意为“浏览；吃嫩叶”，如“browse through a book”（浏览书籍）。6. **bow**：去掉“rn”，意为“弓；鞠躬”，如“take a bow”（鞠躬谢幕）。7. **own**：首字母从“br”变为“o”，意为“拥有”，如“own a house”（拥有房子）。8. **row**：去掉“b”和“n”，意为“排；划船”，如“sit in a row”（坐成一排）。核心区别：所有形近词都与“颜色”无关，而“brown”特指“褐色”。记忆技巧：想象一个“brown”的咖啡杯（brown），放在你的“brow”（额头）旁边，你“frown”（皱眉）因为咖啡太苦，然后“drown”（淹死）在杯子里——这种荒诞画面能强化区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读中，“brown”的僻义包括：1. **（动词）烤至褐色**：常用于烹饪场景，如“brown the onions in butter”（用黄油将洋葱炒至褐色）。例句：“The chef browned the meat before adding the stock.”（厨师在加入高汤前将肉煎至褐色。）2. **（形容词）未漂白的、全麦的**：如“brown bread”（全麦面包）、“brown sugar”（红糖）。例句：“Whole wheat bread is often called brown bread because of its color.”（全麦面包常因颜色被称为褐色面包。）3. **（名词）棕色人种**：在人类学或社会语境中，指肤色较深的人种，如“brown people”（棕色人种）。例句：“The term 'brown' is sometimes used to describe people of South Asian or Middle Eastern descent.”（“棕色”一词有时用于描述南亚或中东裔人群。）4. **（形容词）忧郁的、暗淡的**：在文学中，可引申为“忧郁的”，如“brown study”（沉思、忧郁状态）。例句：“He sat in a brown study, lost in thought.”（他陷入沉思，神情忧郁。）5. **（短语）brown as a berry**：形容晒得很黑，如“After a week at the beach, she was brown as a berry.”（在海滩待了一周后，她晒得黝黑。）这些僻义在考研阅读理解中常以熟词��义形式出现，需结合上下文判断。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“brown”作为基础词汇，常以形容词或名词形式出现，搭配多样：1. **brown rice**（糙米）：健康饮食话题，如“Brown rice is richer in fiber than white rice.”（糙米比白米富含纤维。）2. **brown bear**（棕熊）：动物话题，如“The brown bear is a keystone species in the forest ecosystem.”（棕熊是森林生态系统中的关键物种。）3. **brown paper**（牛皮纸）：包装话题，如“Wrap the book in brown paper to protect it.”（用牛皮纸包书以保护它。）4. **brown algae**（褐藻）：海洋生物学，如“Brown algae are important sources of alginates.”（褐藻是藻酸盐的重要来源。）5. **brown dwarf**（褐矮星）：天文学，如“A brown dwarf is a celestial body that is too small to sustain nuclear fusion.”（褐矮星是一种太小而无法维持核聚变的天体。）**真题例句**：- 2015年考研阅读Text 3：...“the brown bear population in the region has been threatened by deforestation.”（该地区棕熊数量因森林砍伐而受到威胁。）- 写作例句：To maintain a healthy diet, it is advisable to replace white rice with brown rice.（为保持健康饮食，建议用糙米代替白米。）- 翻译练习：The brown paper bag contained a loaf of fresh bread.（牛皮纸袋里装着一条新鲜面包。）掌握这些搭配和语境，有助于在阅读和写作中精准使用。"
+      }
+    },
+    {
+      "id": "browse",
+      "word": "browse",
+      "phonetic": "/brauz/",
+      "meaning": "vi.随意翻阅，浏览；(牛、羊等)吃草",
+      "similar": [
+        "brow",
+        "rose",
+        "brown",
+        "prose",
+        "rouse",
+        "arouse",
+        "blouse",
+        "bronze"
+      ],
+      "question": {
+        "wordId": "browse",
+        "stem": "选择 \"browse\" 的正确中文意思：",
+        "correct": "vi.随意翻阅，浏览；(牛、羊等)吃草",
+        "options": [
+          "n./a.褐色(的),棕色(的)",
+          "n.眉(毛);额",
+          "vi.随意翻阅，浏览；(牛、羊等)吃草",
+          "n.玫瑰,蔷薇"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】browse的底层逻辑可以拆解为“brow（眉毛）+se（动词后缀）”，但更准确的词源来自古法语“brouster”，意为“咬、啃”，最初指牛羊吃草时用嘴唇轻触草尖的动作。想象一下，一只羊在草地上低头吃草，它的嘴轻轻“扫过”草叶，就像你的眼睛轻轻“扫过”书页。核心动作是“轻触、掠过、不深入”。联想到“brow”是额头，意味着在浏览时，你只是“额前掠过”，没有沉入其中。画面感：你站在书店里，手指快速翻动书页，目光像羊吃草一样“啃”过文字，只留下模糊印象。物理逻辑：吃草时，牛羊不会把整片草地连根拔起，而是选择性、随性地“啃”几口；同样，浏",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "bruise",
+      "word": "bruise",
+      "phonetic": "/bru:z/",
+      "meaning": "n.青肿，挫伤；伤痕vt.打青；挫伤",
+      "similar": [
+        "cruise",
+        "arise",
+        "bribe",
+        "bride",
+        "brisk",
+        "brush",
+        "raise",
+        "browse"
+      ],
+      "question": {
+        "wordId": "bruise",
+        "stem": "选择 \"bruise\" 的正确中文意思：",
+        "correct": "n.青肿，挫伤；伤痕vt.打青；挫伤",
+        "options": [
+          "v.出现，发生；(from)由…引起，由…产生",
+          "v.巡航；以节省燃料的速度前进 n.乘船巡游",
+          "n.贿赂 v.向…行贿,买通",
+          "n.青肿，挫伤；伤痕vt.打青；挫伤"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“bruise”的核心逻辑可以从其发音和物理意象入手。音标/bru:z/ 听起来像“布鲁兹”，可以联想为“不（bu）如（r）意（u）的兹（z）”，意指身体上不如意、受伤后留下的痕迹。从词源上看，“bruise”源自古英语“brȳsan”，意为“压碎、打破”，与中古英语“brusen”相关，进一步追溯到日耳曼语系。其本质物理逻辑是：外力挤压或撞击导致皮肤下毛细血管破裂，血液渗出形成青紫色斑块，类似于水果被压后产生的软烂痕迹。想象一下：一个苹果掉在地上，表面出现一块暗色软斑，这就是“bruise”在水果上的形象；而在人体上，它就像被",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "brush",
+      "word": "brush",
+      "phonetic": "/brʌʃ/",
+      "meaning": "n.刷(子),毛刷;画笔 v.刷,擦,掸,拂;掠过",
+      "similar": [
+        "bush",
+        "rush",
+        "blush",
+        "crush",
+        "bruise",
+        "busy",
+        "push",
+        "rash"
+      ],
+      "question": {
+        "wordId": "brush",
+        "stem": "选择 \"brush\" 的正确中文意思：",
+        "correct": "n.刷(子),毛刷;画笔 v.刷,擦,掸,拂;掠过",
+        "options": [
+          "v./n.脸红",
+          "n.刷(子),毛刷;画笔 v.刷,擦,掸,拂;掠过",
+          "n.灌木(丛)",
+          "v.(使)冲;奔n.冲,急速行进 a.(交通)繁忙的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“brush”的核心逻辑源于其物理动作和工具属性的结合。从词源上看，它源自中古英语“brusche”，可能来自古法语“broisse”（刷子）或拉丁语“bruscus”（灌木丛），因为最早的刷子就是用灌木的枝条绑扎而成的。这种词源演变给我们一个生动的画面：想象古代人用一把捆扎的树枝来清扫或涂抹，这就是“brush”的本质——一种由密集排列的纤维（如毛发、塑料丝）组成的工具，通过摩擦动作来清理、涂抹或轻触表面。从物理逻辑出发，“brush”的动作核心是“摩擦”与“移动”：刷子与物体表面接触，通过来回移动产生清洁或上色效果。这种动作可以引申为“掠过”，就像刷子轻轻拂过表面，不深入停留。因此，记忆“brush”时，可以抓住两个关键意象：一是“刷子”作为工具，二是“刷”或“掠”作为动作，两者在“摩擦移动”这一共同点上统一。另外，它的拟声感也很强，想象刷东西时发出的“刷刷”声，与“rush”（冲）的急促声、“bush”（灌木）的密实感形成对比。这种底层逻辑能帮助学生从物理本质和词源故事中建立深刻记忆，避免死记硬背。",
+        "similarWarning": "【避坑预警（形近/易混）】“brush”与多个形近词容易混淆，必须从字母级差异入手逐一辨析：1. **bush（灌木丛）**：仅差一个字母“r”，但含义天差地别。bush是名词“灌木”，指矮小密集的植物，而brush是“刷子”或“刷”，词性更丰富。差异在于“r”代表“擦、刷”的动作感（如rub, rough），bush无此元素。2. **rush（冲、匆忙）**：首字母不同，rush以“t”开头？不，rush是“r-u-s-h”，brush是“b-r-u-s-h”。关键在于“b”和“r”的换位？实际上是brush多了“b”少了“t”？不对，正确对比：brush vs rush：brush有“b”和“r”，而rush只有“r”和“s”且开头是“r”，字母组成不同。rush强调急促移动，brush强调摩擦。3. **blush（脸红）**：多了“l”，含义变为“因害羞或尴尬而脸红”，与刷子无关。4. **crush（压碎）**：开头是“c”，含义是挤压破坏，与brush的轻柔摩擦相反。5. **bruise（瘀伤）**：多“i”和“e”，指皮肤青紫，动作暴力。6. **bus（公共汽车）**：少“r”和“h”，是交通工具，发音不同。7. **busy（忙碌的）**：拼写相似但发音���同（/ˈbɪzi/），含义抽象。8. **push（推）**：开头是“p”，动作是施力向前，而brush是横向摩擦。记忆口诀：Brush有“r”像刷毛，bush无“r”是灌木，rush有“r”在开头是冲刺，blush加“l”是脸红，crush加“c”是压碎。通过字母级对比，学生能一眼区分这些词。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，“brush”除了基本义，还有多个重要僻义和特殊用法：1. **轻擦、掠过（动词）**：指轻微接触，常用于描述快速经过或触碰。例句：The bird brushed the water with its wings.（鸟儿用翅膀轻掠过水面。）2. **小冲突、遭遇（名词）**：指与某人或某事的短暂交锋，常搭配“brush with”使用。例如：He had a brush with the law last year.（他去年曾与法律有过一次小冲突。）在考研阅读中，这种用法常出现在描述人物经历或社会事件的语境中。3. **刷状物（名词）**：如“hairbrush”（发刷）、“toothbrush”（牙刷），在科技或生活类文章中常见。4. **画笔、画刷**：在艺术类文章中，“brush”可指画家的工具，引申为绘画风格。例：The artist used a fine brush for details.（画家用细画笔处理细节。）5. **灌木丛（名词）**：尤其在美式英语中，“brush”可指矮树丛、灌木地带，与“bush”近义但更口语化。例：The deer disappeared into the brush.（鹿消失在灌木丛中。）6. **刷（动作）**：在计算机术语中，“brush”可指刷子工具或刷屏动作。7. **拂去、清除**：如“brush off”（拂去，不理会），“brush aside”（漠视）。例：She brushed off his criticism.（她对他的批评不予理会。）这些僻义在考研真题中频繁出现，尤其是“brush with”和“brush off”这类短语，需要重点掌握。",
+        "examUsage": "【真题闭环（考点直击）】“brush”在考研英语中常以短语搭配和固定用法出现，是高频考点。以下是经典短语和真题例句：1. **brush aside**：漠视，不理会。例句：The government brushed aside the protesters' demands.（政府漠视了抗议者的要求。）——这种用法在考研阅读中常用于描述权力机构的态度，如2012年英语二真题中曾出现类似搭配。2. **brush off**：拂去，拒绝。例句：He tried to brush off the dust from his coat.（他试图拂去外套上的灰尘。）引申义：She brushed off his apology.（她拒绝了他的道歉。）在写作中可替换“ignore”或“reject”，提升语言档次。3. **brush up on**：复习，提高。例句：I need to brush up on my English before the exam.（考前我需要复习英语。）——考研词汇题中曾考过“brush up”的用法。4. **brush with**：与…的短暂遭遇。例句：His brush with fame ended quickly.（他与名气的短暂相遇很快结束了。）在真题阅读中，如2015年英语一“The brush with danger made him more cautious.”（与危险的擦肩而过让他更加谨慎。）5. **broad brush**：笼统地，粗略地。例句：The report gave a broad brush overview of the problem.（报告对问题做了粗略概述。）——常用于议论文写作。6. **as fresh as a brush**：精神抖擞（习语）。高分写作例句：After a good night's sleep, he felt as fresh as a brush.（一夜好眠后，他精神抖擞。）建议考生在考研写作中，用“brush aside”替换“ignore”，用“brush up on”替换“review”，用“brush with”替换“encounter”，能显著提升表达的地道性和得分点。"
+      }
+    },
+    {
+      "id": "brutal",
+      "word": "brutal",
+      "phonetic": "/'bru:təl/",
+      "meaning": "a.残忍的;严峻的;严酷的",
+      "similar": [
+        "rural"
+      ],
+      "question": {
+        "wordId": "brutal",
+        "stem": "选择 \"brutal\" 的正确中文意思：",
+        "correct": "a.残忍的;严峻的;严酷的",
+        "options": [
+          "v.(经审讯)证明…有罪,宣判…有罪 n.囚犯",
+          "a.残忍的;严峻的;严酷的",
+          "a.乡下的,田园的,乡村风味的",
+          "n.经营，管理；行政，行政机关，管理部门"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“brutal”的核心逻辑源于拉丁词根“brutus”，意为“沉重的、笨重的”，后引申为“野兽般的、非理性的”。从词源演变看，它直接关联到“brute”（野兽），强调一种缺乏人性、缺乏理性的原始暴力。你可以想象一头巨大的野兽（如熊或狮子）在狂暴状态下无情地撕咬猎物——这种画面感强烈地传达了“残忍、野蛮”的物理性冲击。更深入的记忆法是通过对比“brutal”与“brutish”：两者都源于同一词根，但“brutal”更强调行为或过程的严酷程度，如“a brutal winter”（严酷的冬天）或“a brutal attack”（残忍的攻击）。在英语中，这个词还带有一种“不妥协、无情”的意味，就像野兽的本能反应一样，毫无怜悯或犹豫。通过这种“野兽逻辑”，你可以记住“brutal”不仅指表面暴力，还隐含一种极度严苛或令人难以忍受的状态，比如“brutal truth”（残酷的真相）——这种真相就像野兽的利爪一样直接刺穿你的心理防线。所以，每次看到“brutal”，就联想野兽的凶猛和无情，从而牢牢掌握其本源含义。",
+        "similarWarning": "【避坑预警（形近/易混）】单词“brutal”和“rural”是典型的形近词，但字母级差异明显，含义天差地别。首先，“brutal”以字母“b”开头，而“rural”以“r”开头。两者拼写中，仅前两个字母不同：brutal的“br”对应rural的“ru”。具体来说，“brutal”包含字母b、r、u、t、a、l，而“rural”包含r、u、r、a、l。注意关键区别：brutal有字母“t”，而rural没有；rural有重复的“r”（即第一个音节是ru，第二个音节是ral），而brutal只有单个“r”。在发音上，“brutal”读作/ˈbruːtəl/，重音在第一音节，其中“t”清晰发音；而“rural”读作/ˈrʊrəl/，重音也在第一音节，但发音中有两个“r”音，听起来像“ru-ral”，容易混淆。含义上，“brutal”指残忍、野蛮（如“a brutal dictator”残忍的独裁者），而“rural”指乡村的、田园的（如“rural area”乡村地区）。两者毫无关联，但拼写相似导致学生常错。例如，在考研阅读中，如果看到“brutal conditions”指严酷条件，而“rural conditions”则指乡村状况，含义完全不同。为避免混淆，你可以用“野兽（brute）”联想“brutal”中的“b”代表“beast”，而“rural”��的“r”代表“rustic”（乡村的）。此外，另一个易混词是“brutal”与“brutish”：“brutish”更强调野兽般的愚蠢或粗野，但“brutal”更强调残忍程度。记住：brutal有“t”像“tough”（强硬），rural有“r”像“rustic”（乡村）。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和权威外刊中，“brutal”除了基本义“残忍的”，还有以下高频引申义：1. **严酷的、令人难以忍受的**：常用于描述环境、天气或现实状况，强调极度苛刻。例如，考研英语（一）2018年阅读Text 1中，句子“The brutal reality of climate change demands immediate action.”（气候变化的严酷现实要求立即行动。）这里“brutal”不是指残忍，而是指现实无情、难以面对。2. **直率的、不委婉的**：形容言语或批评毫不留情。例如，经济学人文章“He gave a brutal assessment of the company's performance.”（他对公司业绩给出了直率的评价。）“brutal”在此强调坦率到近乎残忍，无任何修饰。3. **极其困难或激烈的**：用于竞争、训练或过程。例如，卫报报道“The marathon was a brutal test of endurance.”（这场马拉��是对耐力的严酷考验。）“brutal”突出挑战性极高。4. **简单粗暴的**：在科技或方法论语境中，指不精细、依赖蛮力。例如，考研英语（二）模拟题中“Brutal force computing is used to solve complex problems.”（使用暴力计算解决复杂问题。）这里的“brutal force”指穷举法，非字面暴力。这些僻义在考研阅读中常作为形容词修饰抽象名词，如“brutal truth”（残酷真相）、“brutal winter”（严冬）、“brutal competition”（激烈竞争）。掌握这些引申义，能帮你准确理解语境，避免误读。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“brutal”常作为形容词出现，搭配名词形成固定短语，并用于描述批判性态度或极端状况。以下为经典考点：1. **高频短语**：(1) “brutal force” – 暴力/蛮力，如“The police were accused of using brutal force against protesters.”（警察被指控对抗议者使用暴力。）(2) “brutal honesty” – 直言不讳，如“She gave him a piece of brutal honesty about his flaws.”（她对他的缺点直言不讳。）(3) “brutal winter” – 严冬，如“The brutal winter caused widespread power outages.”（严冬导致大面积停电。）2. **真题例句**：(1) 考研英语（一）2012年阅读Text 2中：“The brutal truth is that most people don't change their habits easily.”（残酷的真相是，大多数人不会轻易改变习惯。）这里考查“brutal truth”的搭配，强调现实无情。(2) 考研英语（二）2016年完形填空：“The conditions in the mining town were brutal, with long hours and low pay.”（这个采矿小镇的条件极其严酷，工作时间长且工资低。）此处“brutal conditions”是常见搭配，需理解其负面含义。(3) 高分写作例句：“In the face of brutal competition, companies must innovate constantly to survive.”（面对残酷的竞争，公司必须不断创新以求生存。）这个句子可用于大作文中，描述商业或社会现象。3. **常考句型**：It is brutal that...（...是残酷的），例如“It is brutal that the poor bear the brunt of economic crises.”（穷人承受经济危机的冲击是残酷的。）在考研中，注意区分“brutal”与“cruel”（更强调故意施加痛苦）、“harsh”（更侧重严厉但非暴力）。掌握这些搭配和例句，能提升你的阅读理解和写作得分。"
+      }
+    },
+    {
+      "id": "bubble",
+      "word": "bubble",
+      "phonetic": "/'bʌbl/",
+      "meaning": "n.泡,水泡,气泡 v.冒泡,起泡,沸腾",
+      "similar": [
+        "bible",
+        "bundle",
+        "humble",
+        "pebble",
+        "subtle",
+        "tumble"
+      ],
+      "question": {
+        "wordId": "bubble",
+        "stem": "选择 \"bubble\" 的正确中文意思：",
+        "correct": "n.泡,水泡,气泡 v.冒泡,起泡,沸腾",
+        "options": [
+          "n.泡,水泡,气泡 v.冒泡,起泡,沸腾",
+          "n.圣经",
+          "n.捆,包,束",
+          "a.谦卑的,恭顺的;地位低下的 v.降低,贬低"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“bubble”的核心逻辑在于其拟声与物理形态的完美结合。从词源上看，它源自中古英语的“bobel”，模仿液体中气体逸出时发出的“啵啵”声，是一种典型的拟声词。其画面感极强：想象一杯碳酸饮料被倒入杯中，无数透明小球从杯底迅速升起，在液面破裂时发出轻微的“啪”声。这些小球就是“bubble”，它们的本质是气体被液体包裹形成的半球形薄膜。物理逻辑上，它体现了“表面张力”这一概念：液体分子间吸引力使薄膜绷紧，包裹住内部空气，形成完美球体。一旦张力被打破（如触碰或温度变化），薄膜破裂，气体逸出即“burst the bubble”。这个单",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "bucket",
+      "word": "bucket",
+      "phonetic": "/'bʌkit/",
+      "meaning": "n.水桶,吊桶",
+      "similar": [
+        "bracket",
+        "basket",
+        "budget",
+        "buffet",
+        "bullet",
+        "jacket",
+        "packet",
+        "racket"
+      ],
+      "question": {
+        "wordId": "bucket",
+        "stem": "选择 \"bucket\" 的正确中文意思：",
+        "correct": "n.水桶,吊桶",
+        "options": [
+          "n.水桶,吊桶",
+          "n.(方)括号",
+          "n.预算 v.做预算",
+          "n.筐，篮，篓"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“bucket”源自拉丁语“bucca”（意为“脸颊”或“嘴”），最初指一个类似嘴部形状的容器，用于盛放液体或固体。在中古英语中演变为“buket”，意为“水桶、吊桶”。我们可以从画面感联想入手：想象一个圆形、开口朝上的容器，就像一张张开的嘴巴，随时准备“吞咽”水或其他物品。这种形象记忆法能帮助你将“bucket”与“容器”的概念紧密联系。从物理逻辑看，水桶的设计核心是“容纳”和“搬运”：它有一个开口（嘴）用于倾倒和接收，一个底部用于支撑，通常带有把手便于提携。这种结构在人类文明中用来取水、运输或存储物品，体现了“从一处转移到另一",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "bud",
+      "word": "bud",
+      "phonetic": "/bʌd/",
+      "meaning": "n.芽,花苞 v.发芽,含苞欲放",
+      "similar": [
+        "bid",
+        "bug",
+        "mud",
+        "bound"
+      ],
+      "question": {
+        "wordId": "bud",
+        "stem": "选择 \"bud\" 的正确中文意思：",
+        "correct": "n.芽,花苞 v.发芽,含苞欲放",
+        "options": [
+          "n.泥，泥浆 v.弄脏，使沾污泥",
+          "n.臭虫;小毛病;窃听器 v.窃听",
+          "v.祝愿;命令,吩咐;报价,投标 n.出众,投标",
+          "n.芽,花苞 v.发芽,含苞欲放"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词\"bud\"的核心逻辑可以从其发音和画面感联想来建立。音标/bʌd/读起来像“巴德”，可以想象一棵树在春天“巴”的一声，从枝头“德”地冒出一个嫩芽。这种拟声联想生动地模拟了芽苞破皮而出的瞬间。从词源上看，\"bud\"源自中古英语\"budde\"，与古英语\"budda\"（甲虫）同源，因为甲虫身体圆鼓鼓的形态，和植物上饱满的芽苞极为相似。物理逻辑上，芽是植物生长点，它处于“含苞待放”的临界状态——内部积蓄着生命能量，外部正待突破。因此，\"bud\"的核心意象是“未完全展开的、充满潜力的初始形态”。这个逻辑可以引申到“萌芽阶段”或“初生状态”，无论是植物学中的芽，还是比喻意义上事业的萌芽、爱情的蓓蕾，都共享这个“蓄势待发”的本质。记住这幅画面：一个圆鼓鼓的、即将绽放的小球，就是\"bud\"。",
+        "similarWarning": "【避坑预警（形近/易混）】将\"bud\"与所有形近词逐一对比：1. bad /bæd/：字母\"a\"替换了\"u\"。\"bad\"意为“坏的”，发音嘴巴张得更开，像在说“坏蛋”；而\"bud\"是“芽”，发音更圆。2. bed /bed/：字母\"e\"替换了\"u\"。\"bed\"是“床”，发音像“贝德”，想象躺在床上休息；\"bud\"是芽，发音像“巴德”。3. bid /bɪd/：字母\"i\"替换了\"u\"。\"bid\"是“出价、投标”，发音短促，像在拍卖会举牌；\"bud\"更圆润。注意\"bid\"的“i”发短音，而\"bud\"的“u”发/ʌ/。4. bug /bʌɡ/：末尾\"g\"替换了\"d\"。\"bug\"是“虫子”，发音结尾有爆破的“格”音；\"bud\"结尾是“德”音，更柔和。5. bus /bʌs/：末尾\"s\"替换了\"d\"。\"bus\"是“公共汽车”，发音结尾是“斯”；\"bud\"结尾是“德”。6. but /bʌt/：末尾\"t\"替换了\"d\"。\"but\"是“但是”，发音结尾是清音“特”；\"bud\"结尾是浊音“德”。7. buy /baɪ/：字母组合\"uy\"替换了\"ud\"。\"buy\"是“买”，发音是双元音/baɪ/，像“拜”；\"bud\"是单元音/ʌ/。8. mud /mʌd/：首字母\"m\"替换了\"b\"。\"mud\"是“泥”，发音以\"m\"开头，双唇紧闭；\"bud\"以\"b\"开头，双唇爆破。总结：核心区别在于元音和末尾辅音，记住\"bud\"的/u/音圆润饱满，像芽苞的形状。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级阅读中，\"bud\"除了基本义，还有以下深层用法：1. 比喻“萌芽、初期阶段”，常用于短语\"nip in the bud\"（扼杀在萌芽状态）。例句：The government's policy aims to nip inflation in the bud.（政府政策旨在将通胀扼杀在萌芽状态。）2. 在生物学中，\"bud\"指“芽体”，如酵母菌的出芽生殖。例句：Yeast reproduces by budding.（酵母通过出芽繁殖。）3. 在医学中，\"taste bud\"指“味蕾”。例句：Spicy food can stimulate your taste buds.（辣食能刺激你的味蕾。）4. 在林业中，\"bud\"可作动词表示“嫁接”时的芽接。例句：He budded the rose onto the rootstock.（他将玫瑰芽接到砧木上。）5. 在文学中，\"in bud\"形容植物含苞待放的状态，也喻指少女的青春。例句：She was a girl in bud, full of promise.（她是个含苞待放的少女，充满希望。）6. 在经济学中，\"budding\"作为形容词表示“崭露头角的”，如\"a budding entrepreneur\"（初露头角的企业家）。例句：The city has a budding tech industry.（这座城市有一个新兴的科技产业。）这些僻义都围绕“未完全发展的初始状态”这一核心逻辑。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，\"bud\"常以下列形式出现：1. 固定搭配\"nip...in the bud\"是高频考点，意为“及早阻止、防患于未然”。例句：The crisis was nipped in the bud by swift action.（迅速行动将危机扼杀在萌芽中。）2. \"in bud\"指“含苞待放”。例句：The trees are in bud, signaling the arrival of spring.（树木发芽，预示着春天的到来。）3. \"budding\"作为形容词，在写作中可用于描述“初露头角的”人或事物，提升词汇档次。例句：The company is a budding success story in the tech world.（这家公司是科技界一个初露头角的成功故事。）4. 在阅读中，可能遇到\"bud off\"表示“从…发芽、分离”。例句：New cells bud off from the parent cell.（新细胞从母细胞中芽生出来。）5. 考研写作中，可用\"bud\"作比喻：\"Education is the bud of a nation's future.\"（教育是国家未来的萌芽。）6. 真题例句：2005年考研阅读Text 1中，有\"...to nip the problem in the bud...\"的用法。7. 高分写作句型：\"Only by taking immediate measures can we nip the potential risks in the bud.\"（只有立即采取措施，我们才能将潜在风险扼杀在萌芽中。）掌握这些短语和例句，就能在完形填空和写作中精准使用。"
+      }
+    },
+    {
+      "id": "budget",
+      "word": "budget",
+      "phonetic": "/'bʌdʒit/",
+      "meaning": "n.预算 v.做预算",
+      "similar": [
+        "badge",
+        "judge",
+        "bucket",
+        "buffet",
+        "bullet"
+      ],
+      "question": {
+        "wordId": "budget",
+        "stem": "选择 \"budget\" 的正确中文意思：",
+        "correct": "n.预算 v.做预算",
+        "options": [
+          "n.法官;裁判员;鉴定人 vt.审判;评论,裁判",
+          "n.水桶,吊桶",
+          "n.徽章,像章；标记；象征；记号",
+          "n.预算 v.做预算"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“budget”源自中世纪法语“bougette”，原意是“小皮包”或“钱包”。在16世纪，英国财政大臣在议会中打开钱包（budget）展示财政计划，因此这个词逐渐演变为“预算”的含义。从物理联想来看，你可以想象一个装满钱的小皮包，它代表着对有限资源的规划与管理。这种画面感非常生动：当你做预算时，就像在整理这个皮包里的钱，决定如何分配每一笔开支。词根“budg-”与“bag”（袋子）同源，进一步强化了“容器”的意象。因此，记住“budget”的核心逻辑就是“钱包里的钱怎么花”——即对资源的预先分配与限制。这种底层逻辑不仅帮助学生理解字面意思，还能引申到时间、精力、空间等资源的规划，因为任何有限的事物都需要“预算”。在考研语境中，这个词常与“financial”（财务）、“government”（政府）、“household”（家庭）等搭配，但核心始终围绕“有限资源的分配”。通过这个皮包画面，学生可以轻松记住单词的本源含义，并扩展到各种抽象场景。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，对比“budget”与“badge”（/'bædʒ/，徽章）：前者以“bud”开头，包含字母“u”和“d”，而后者以“bad”开头，包含“a”和“d”。区别在于第二个字母“u”与“a”，以及音节数不同。“budget”是双音节词，重音在第一个音节；而“badge”是单音节词。含义上，“budget”关乎财务规划，而“badge”是身份或成就的标志，如警察的警徽。其次，与“judge”（/'dʒʌdʒ/，法官）对比：两者都以“dge”结尾，但“judge”以“ju”开头，而“budget”以“bu”开头。字母差异在首字母“j”与“b”，以及元音“u”的发音不同（“judge”的“u”发/ʌ/，但“budget”的“u”发/ʌ/类似，但整体拼写不同）。含义上，“judge”是评判者，而“budget”是预算。第三，与“bucket”（/'bʌkɪt/，水桶）对比：两者都包含“bu”和“t”，但“bucket”中间是“cke”，而“budget”是“dge”。字母差异在于“ck”与“dg”，且“bucket”重音在前但音节更长。含义上，“bucket”是容器，而“budget”是计划。第四，与“buffet”（/'bʌfeɪ/，自助餐或/'bʌfɪt/，打击）对比：“buffet”以“buff”开头，而“budget”以“bud”开头；差异在“ff”与“d”，且读音不同（自助餐重音在后）。含义上，“buffet”是餐饮或打击，与预算无关。最后，与“bullet”（/'bʊlɪt/，子弹）对比：“bullet”以“bull”开头，含“ll”，而“budget”是“bud”；差异在“ll”与“d”，以及元音“u”的发音（“bullet”的“u”发/ʊ/）。含义上，“bullet”是武器，而“budget”是财务。通过字母级分析，学生能快速区分这些形近词。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读中，“budget”除了基础义“预算”外，还有以下僻义：1. 形容词义“低廉的、经济的”：常见于“budget hotel”（经济型酒店）、“budget airline”（廉价航空公司）。例句：The budget flight saved us a lot of money, but the service was minimal.（这次廉价航班省了我们很多钱，但服务很简陋。）2. 动词义“规划、安排（时间或资源）”：不限于金钱，可用于时间管理。例句：You need to budget your time effectively to meet the deadline.（你需要有效规划时间以赶上截止日期。）3. 名词“限额、总量”：在非财务语境中指资源的限制。例句：The project has a strict time budget of three months.（这个项目有严格的三月时间限额。）4. 在政治语境中，常作为“财政预算案”的简称。例句：The government's new budget proposes tax cuts for small businesses.（政府的新预算案提议为小企业减税。）5. 在经济学人或学术文章中，“budget”可指“预算赤字”或“预算平衡”的核心概念。例如：The country's budget deficit has widened due to increased spending.（由于支出增加，该国的预算赤字扩大了。）这些僻义在考研阅读中频繁出现，尤其是“budget”作为形容词和动词的用法，常被用于描述资源优化或限制。掌握这些引申义，能帮助学生在阅读理解中准确理解句子，并在写作中灵活使用。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“budget”是高频词汇，常以固定搭配和句型出现。以下是经典短语和真题例句：1. 固定搭配“within budget”（在预算内）和“over budget”（超出预算）。例句：The construction project was completed within budget, which was a rare achievement.（这个建筑项目在预算内完成，是罕见的成就。）2. “budget deficit”（预算赤字）和“budget surplus”（预算盈余），常用于经济类文章。例句：The government is struggling to reduce the budget deficit amid falling revenues.（政府正努力在收入下降中减少预算赤字。）3. “budgetary constraint”（预算限制），出现在考研阅读中。例句：The company faced severe budgetary constraints during the recession.（公司在经济衰退期间面临严重的预算限制。）4. 考研真题例句：2018年英语二阅读Text 2中提到“Household budgets are being squeezed by rising costs.”（家庭预算正因成本上升而受压。）5. 高分写作例句：To achieve sustainable growth, it is essential to budget resources wisely and avoid wasteful spending.（为了实现可持续增长，明智地规划资源并避免浪费性支出至关重要。）6. 另一常见句型“balance the budget”（平衡预算）。例句：The chancellor vowed to balance the budget within five years.（财政大臣承诺在五年内平衡预算。）这些搭配和例句直接来源于考研真题或权威外刊，帮助学生掌握词汇在考试中的实际用法。建议学生背诵这些短语，并在写作中模仿使用，以提升语言地道性和得分能力。通过真题闭环，学生能精准应对考试。"
+      }
+    }
+  ]
+}

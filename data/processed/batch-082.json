@@ -1,0 +1,1707 @@
+{
+  "batchId": 82,
+  "words": [
+    {
+      "id": "tray",
+      "word": "tray",
+      "phonetic": "/trei/",
+      "meaning": "n.盘,碟,托盘",
+      "similar": [
+        "ray",
+        "try",
+        "pray",
+        "tram",
+        "trap",
+        "betray",
+        "treaty",
+        "array"
+      ],
+      "question": {
+        "wordId": "tray",
+        "stem": "选择 \"tray\" 的正确中文意思：",
+        "correct": "n.盘,碟,托盘",
+        "options": [
+          "v.请求,恳求;祈祷,祈求",
+          "n.盘,碟,托盘",
+          "n.光线,射线",
+          "v.尝试，试图；试验，试用；审讯 n.尝试"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古英语trēg，意为‘木盘’，与‘tree’同源，指用木板制成的扁平容器。核心物理动作：承载物体的扁平平台。",
+        "similarWarning": "tray vs. try (尝试): tray含‘a’表示盘子；try含‘y’表示尝试。tray vs. trap (陷阱): tray以‘y’结尾；trap以‘p’结尾，指捕捉装置。tray vs. betray (背叛): betray含前缀be-及‘tray’，但tray在此无关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "treason",
+      "word": "treason",
+      "phonetic": "/'tri:zən/",
+      "meaning": "n.谋反,通敌,叛国",
+      "similar": [
+        "threaten",
+        "treasure"
+      ],
+      "question": {
+        "wordId": "treason",
+        "stem": "选择 \"treason\" 的正确中文意思：",
+        "correct": "n.谋反,通敌,叛国",
+        "options": [
+          "v.恐吓,威胁;有…危险,快要来临",
+          "n.(favour)好感;喜爱;关切v.赞成,支持,偏爱",
+          "n.谋反,通敌,叛国",
+          "n.财宝,财富;珍品 v.珍爱,珍惜"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'traditio'（移交），经由古法语 'traison'。核心动作是 '传递'（trade-）→ 将国家秘密或忠诚 '移交' 给敌人，即背叛。词根与 'tradition' 同源，但词义从 '传递' 贬义化为 '非法传递'。",
+        "similarWarning": "reason（理由，理性） vs treason：首字母 'r' vs 'tr'，'reason' 强调逻辑；'threaten'（威胁） vs treason：'threaten' 含 'threat' 威胁，而 'treason' 特指政治背叛。",
+        "extendedMeaning": "在考研阅读中，可引申为 '对组织/原则的背弃'，如 'intellectual treason'（智力上的背叛，指放弃独立思考）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "treasure",
+      "word": "treasure",
+      "phonetic": "/'treʒə(r)/",
+      "meaning": "n.财宝,财富;珍品 v.珍爱,珍惜",
+      "similar": [
+        "creature",
+        "pressure",
+        "reassure",
+        "ensure",
+        "grease",
+        "resume",
+        "feature",
+        "leisure"
+      ],
+      "question": {
+        "wordId": "treasure",
+        "stem": "选择 \"treasure\" 的正确中文意思：",
+        "correct": "n.财宝,财富;珍品 v.珍爱,珍惜",
+        "options": [
+          "n.人,动物;生物",
+          "n.财宝,财富;珍品 v.珍爱,珍惜",
+          "n.压,压力,压迫,强制,紧迫,困苦,困难",
+          "v.使安心，使放心；使消除疑虑"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语thesauros（仓库/储存），本义为“储存的贵重物品”。treas-（储存）+-ure（名词后缀，表示结果/状态）→被储存起来的有价值之物。核心动作：将有价值之物集中存放。",
+        "similarWarning": "measure（测量）vs treasure（财宝）：区别在于m-（测量工具）与tr-（储存）。creature（生物）vs treasure：crea-（创造）与treas-（储存）。pleasure（快乐）vs treasure：pleas-（取悦）与treas-。reassure（使安心）vs treasure：re-（再）+assure（保证）与treas-。",
+        "extendedMeaning": "考研僻义：n. 被珍视的人/物（如“She is a treasure to the company.”），v. 珍藏（如“treasure memories”）。",
+        "examUsage": "真题考点：treasure作为动词时，常与value/cherish构成近义词替换，但treasure更强调“珍藏”的动作感。搭配：treasure sth. up（珍藏某物），treasure hunt（寻宝活动）。"
+      }
+    },
+    {
+      "id": "treat",
+      "word": "treat",
+      "phonetic": "/tri:t/",
+      "meaning": "v.对待;治疗;论述;款待,请客 n.款待,请客",
+      "similar": [
+        "threat",
+        "treaty",
+        "retreat",
+        "breast",
+        "breath",
+        "create",
+        "stream",
+        "thread"
+      ],
+      "question": {
+        "wordId": "treat",
+        "stem": "选择 \"treat\" 的正确中文意思：",
+        "correct": "v.对待;治疗;论述;款待,请客 n.款待,请客",
+        "options": [
+          "n.恐吓,威胁;坏兆头,危险迹象",
+          "v.对待;治疗;论述;款待,请客 n.款待,请客",
+          "n.条约，协议，协商",
+          "v.撤退,退却"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根treat-源自拉丁语tractare，意为“拉、处理、对待”。核心物理动作是“用手拉拽或操控物体”，引申为“处理、对待、治疗、论述”等抽象行为。",
+        "similarWarning": "threat（n.威胁） vs. treat：threat含字母h，词源为“压迫”，强调危险；treat为“处理”。\ntreaty（n.条约） vs. treat：treaty比treat多字母y，指“处理后的协议”即条约。\nretreat（v./n.撤退） vs. treat：re-前缀表示“回”，retreat即“拉回”，与treat方向相反。",
+        "extendedMeaning": "在考研阅读中，treat常考“论述、探讨”义（如treat a subject），而非仅“对待”；此外，名词“款待”在完形中可能考“a treat”表示“一件乐事”。",
+        "examUsage": "固定搭配：treat...as...（把…当作…），真题中常与regard...as...、consider...as...构成同义替换。\n例句：The author treats the issue as a matter of social justice.（作者将这个问题论述为社会正义问题。）"
+      }
+    },
+    {
+      "id": "treaty",
+      "word": "treaty",
+      "phonetic": "/'tri:ti/",
+      "meaning": "n.条约，协议，协商",
+      "similar": [
+        "treat",
+        "tray",
+        "breath",
+        "create",
+        "threat",
+        "twenty",
+        "wreath",
+        "threaten"
+      ],
+      "question": {
+        "wordId": "treaty",
+        "stem": "选择 \"treaty\" 的正确中文意思：",
+        "correct": "n.条约，协议，协商",
+        "options": [
+          "n.条约，协议，协商",
+          "v.对待;治疗;论述;款待,请客 n.款待,请客",
+          "n.盘,碟,托盘",
+          "n.呼吸,气息"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "treaty 源自拉丁语 tractare（处理、谈判），与 treat（对待、处理）同源。核心动作是“协商处理”，引申为双方或多方通过谈判达成的正式书面协议，即条约。词根 tract 有“拉、处理”之意，-y 为名词后缀，表示行为或结果。",
+        "similarWarning": "treaty vs. treat：treaty 以 -y 结尾，强调正式协议；treat 为动词/名词，指对待或款待。treaty vs. tray：tray 少字母 e，指托盘。treaty vs. threat：threat 替换 y 为 h，指威胁，词义相反。",
+        "extendedMeaning": "在考研真题中，treaty 常指国际法层面的正式条约（如 peace treaty 和平条约），而非普通协议。",
+        "examUsage": "常见搭配：sign a treaty（签署条约）、ratify a treaty（批准条约）。真题例句：The treaty was signed in 1992, marking a turning point in bilateral relations.（该条约于1992年签署，标志着双边关系的转折点。）"
+      }
+    },
+    {
+      "id": "tremble",
+      "word": "tremble",
+      "phonetic": "/'trembl/",
+      "meaning": "n.战栗,颤抖 v.发抖,颤抖；摇动；焦虑",
+      "similar": [
+        "temple",
+        "tumble",
+        "assemble",
+        "resemble",
+        "scramble"
+      ],
+      "question": {
+        "wordId": "tremble",
+        "stem": "选择 \"tremble\" 的正确中文意思：",
+        "correct": "n.战栗,颤抖 v.发抖,颤抖；摇动；焦虑",
+        "options": [
+          "vt.集合，召集；装配；收集 vi.集合，聚集",
+          "n.战栗,颤抖 v.发抖,颤抖；摇动；焦虑",
+          "v.(使)摔倒;打滚,翻腾 n.摔跤,跌倒",
+          "n.庙宇,神殿,寺;太阳穴"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根trem-（颤抖）+ -ble（动词后缀，表示反复动作）。核心物理动作：因寒冷、恐惧或震动而产生的快速、微小的往复振动。画面：树叶在风中tremble，人因恐惧而tremble。",
+        "similarWarning": "tremble vs. tumble: tremble强调小幅度快速抖动（trem-颤抖），tumble强调翻滚倒下（tum-翻跟头）。tremble vs. trouble: trouble是麻烦（词根turb-混乱）。tremble vs. assemble: assemble是集合（as-向+sem-相同）。",
+        "extendedMeaning": "考研僻义：v. 焦虑，担忧（内心颤抖）。例：He trembled at the thought of the exam. （一想到考试他就焦虑不安。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tremendous",
+      "word": "tremendous",
+      "phonetic": "/trə'mendəs/",
+      "meaning": "a.巨大的,极大的",
+      "similar": [
+        "strenuous",
+        "greenhouse"
+      ],
+      "question": {
+        "wordId": "tremendous",
+        "stem": "选择 \"tremendous\" 的正确中文意思：",
+        "correct": "a.巨大的,极大的",
+        "options": [
+          "n.温室",
+          "a.费力的，艰辛的；奋发的，努力的",
+          "v.反射,反映,表现,反省,沉思",
+          "a.巨大的,极大的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语“tremere”（颤抖），后缀-ous表“充满”。核心动作：令人颤抖的→巨大的，因为体积或程度大到让人发抖。",
+        "similarWarning": "strenuous（a.费力的）与tremendous拼写差异：stren-（紧张） vs. trem-（颤抖）。greenhouse（n.温室）拼写差异：green-（绿色） vs. trem-（颤抖），词义无关。",
+        "extendedMeaning": "在考研中常引申为“极好的、了不起的”，如“a tremendous opportunity”（绝佳机会），强调正面评价而非单纯尺寸。",
+        "examUsage": "搭配“tremendous pressure”（巨大压力）在真题阅读中高频出现，作为干扰项常与“enormous”“immense”同义替换。"
+      }
+    },
+    {
+      "id": "trench",
+      "word": "trench",
+      "phonetic": "/trentʃ/",
+      "meaning": "n.&v.(挖)沟，(挖)战壕",
+      "similar": [
+        "wrench",
+        "stretch",
+        "bench",
+        "reach",
+        "trend",
+        "branch",
+        "breach",
+        "preach"
+      ],
+      "question": {
+        "wordId": "trench",
+        "stem": "选择 \"trench\" 的正确中文意思：",
+        "correct": "n.&v.(挖)沟，(挖)战壕",
+        "options": [
+          "n.&v.(挖)沟，(挖)战壕",
+          "v.猛拧；挣脱；使扭伤 n.扳手；痛苦，难受",
+          "v.伸展，延伸 n.拉长；伸展；一段时间/路程",
+          "n.长凳,条凳;(工作)台,座"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源自拉丁语 'truncare'（切割），核心动作是 '切割地面' → 挖沟/战壕。trench 本义为 '切开的长条凹陷'，后特指军事防御用的战壕。",
+        "similarWarning": "wrench（猛扭/扳手）强调扭曲动作；trench 强调切割凹陷；bench（长凳）是平坦座位；branch（树枝/分支）是分叉结构；trend（趋势）是方向流动。注意 'trench' 与 'wrench' 仅首字母 't'/'w' 差异，trench 挖地，wrench 扭物。",
+        "extendedMeaning": "考研僻义：n. 深沟/海沟（如 oceanic trench 海沟）；v. 侵入/侵占（如 trench upon 侵犯某权利/空间，真题中偶见抽象用法）。",
+        "examUsage": "真题考点：'trench warfare' 战壕战（历史类阅读背景词）；搭配 'dig a trench' 挖沟。注意与 'trend'（趋势）拼写混淆，真题干扰项常设此类形近词。"
+      }
+    },
+    {
+      "id": "trend",
+      "word": "trend",
+      "phonetic": "/trend/",
+      "meaning": "n.倾向,趋势 vi.伸向,倾向",
+      "similar": [
+        "tend",
+        "attend",
+        "thread",
+        "trench",
+        "red",
+        "ten",
+        "bend",
+        "mend"
+      ],
+      "question": {
+        "wordId": "trend",
+        "stem": "选择 \"trend\" 的正确中文意思：",
+        "correct": "n.倾向,趋势 vi.伸向,倾向",
+        "options": [
+          "n.倾向,趋势 vi.伸向,倾向",
+          "v.趋向,往往是;照料,看护",
+          "vt.出席，参加；照顾，护理 vi.注意；侍奉",
+          "n.线,细丝;线索,思路;螺纹 v.穿线,穿过"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自中古英语' trenden'（转动、转向），与古英语'trendan'（滚动、旋转）同源，核心物理动作为'旋转、转向'。引申为事物发展的方向或倾向，即从'转向'到'趋势'的语义演变。",
+        "similarWarning": "tend（倾向，-d结尾表动作）、trend（趋势，-d结尾表状态，含r表旋转方向）。注意：trend vs thread（线，含h表细长物）。",
+        "extendedMeaning": "考研僻义：'时尚、潮流'（非仅指统计趋势），如'trend setter'（引领潮流者）或'economic trend'（经济动向）中的动态方向感。",
+        "examUsage": "真题考点：常与'set'连用，如'set a trend'（开创潮流）；或与'follow'搭配，如'follow the trend'（跟风）。干扰项常与'tend'混淆，需注意trend强调方向性趋势，tend强调内在倾向。"
+      }
+    },
+    {
+      "id": "trial",
+      "word": "trial",
+      "phonetic": "/'traiəl/",
+      "meaning": "n.讯问，审讯；试验；试用；尝试",
+      "similar": [
+        "trivial",
+        "aerial",
+        "serial",
+        "thrill",
+        "trifle",
+        "triple",
+        "dial",
+        "oral"
+      ],
+      "question": {
+        "wordId": "trial",
+        "stem": "选择 \"trial\" 的正确中文意思：",
+        "correct": "n.讯问，审讯；试验；试用；尝试",
+        "options": [
+          "n.讯问，审讯；试验；试用；尝试",
+          "a.琐碎的;无足轻重的",
+          "a.(在或来自)空中的，航空的 n.天线",
+          "n.连载小说，连续剧；连载刊物 a.连续的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 tri-（三）+-al（名词后缀）。原指“三方（原告、被告、法官）参与的司法程序”，引申为“审讯”；后泛化指“试验、尝试”等需要三方或多方参与的过程。",
+        "similarWarning": "trivial（琐碎的）：tri-（三）+via（路）+al，原指“三岔路口的”即“随处可见的”，强调细微；trial强调审判或测试过程。aerial（空中的）：aer-（空气）+ial，与trial拼写相似但词源无关。serial（连续的）：ser-（连接）+ial，强调序列；trial无此义。",
+        "extendedMeaning": "在考研阅读中，trial常引申为“考验、磨难”或“尝试性的事物”，如：a trial of strength（力量的考验）；trial and error（反复试验；试错法）。",
+        "examUsage": "真题高频搭配：clinical trial（临床试验）；trial period（试用期）；stand trial（受审）。例：The drug is undergoing clinical trials.（该药正在进行临床试验。）"
+      }
+    },
+    {
+      "id": "triangle",
+      "word": "triangle",
+      "phonetic": "/'traiæŋgl/",
+      "meaning": "n.三角(形)",
+      "similar": [
+        "tangle",
+        "fringe",
+        "mingle",
+        "orange",
+        "trifle",
+        "triple",
+        "arrange",
+        "twinkle"
+      ],
+      "question": {
+        "wordId": "triangle",
+        "stem": "选择 \"triangle\" 的正确中文意思：",
+        "correct": "n.三角(形)",
+        "options": [
+          "v.(使)混合",
+          "n.边缘；(窗帘)缘饰；额前垂发 vt.饰…的边",
+          "n.纠缠；缠结；混乱 v.(使)缠绕；变乱",
+          "n.三角(形)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "tri-(三) + angle(角) → 三个角构成的几何形状。核心物理动作为三条边围成的封闭图形。",
+        "similarWarning": "形近词对比：triangle vs. triple（triple: tri-三 + ple折叠 → 三倍的；而triangle是angle角）。另与tangle（纠缠）仅差字母r和i位置不同，注意区分。",
+        "extendedMeaning": "考研中常引申为‘三角关系’（如情感、政治或经济中的三方博弈），或‘三角形物体’（如三角铁、三角尺）。",
+        "examUsage": "考点：在阅读中可能作为几何或比喻概念出现，如‘the Bermuda Triangle’（百慕大三角）或‘love triangle’（三角恋）。无特殊固定搭配，但注意与triple（三倍的）在词义上区分。"
+      }
+    },
+    {
+      "id": "tribe",
+      "word": "tribe",
+      "phonetic": "/traib/",
+      "meaning": "n.种族，部落；(植物，动物)族，类",
+      "similar": [
+        "bribe",
+        "tribute",
+        "stride",
+        "strife",
+        "stripe",
+        "strive",
+        "thrive",
+        "trifle"
+      ],
+      "question": {
+        "wordId": "tribe",
+        "stem": "选择 \"tribe\" 的正确中文意思：",
+        "correct": "n.种族，部落；(植物，动物)族，类",
+        "options": [
+          "n.贡品;颂词,称赞,(表示敬意的)礼物",
+          "vi.大踏步走；跨越 n.一大步(pl.)长足进步",
+          "n.贿赂 v.向…行贿,买通",
+          "n.种族，部落；(植物，动物)族，类"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'tribus'，原指古罗马三大部落之一，词根 'tri-' 意为 '三'，最初罗马城邦由三个部落组成。核心物理动作是 '划分成三部分'，后泛指任何具有共同祖先或特征的群体，如种族、部落，进而引申为生物学中的 '族、类'。",
+        "similarWarning": "tribe vs bribe（贿赂）：t-开头 vs b-开头，tribe指群体，bribe指非法财物。tribe vs tribute（贡品）：tribe以e结尾，tribute以ute结尾，tribe是群体，tribute是进贡。tribe vs stride（大步）：tribe无r，stride有r，tribe是名词，stride是动词/名词。tribe vs strife（冲突）：tribe有b，strife有f，tribe是群体，strife是争斗。tribe vs strike（罢工）：tribe有b，strike有k，tribe是群体，strike是行动。tribe vs stripe（条纹）：tribe无p，stripe有p，tribe是群体，stripe是图案。tribe vs strive（努力）：tribe是名词，strive是动词。tribe vs thrive（繁荣）：tribe有b，thrive有v，tribe是群体，thrive是状态。",
+        "extendedMeaning": "在考研中，tribe的僻义较少，但可引申为'（具有共同特征的一群人）'，如'the tribe of artists'（艺术家群体），强调非血缘的类聚。",
+        "examUsage": "在真题中，tribe常作为文化类话题词汇出现，如'aboriginal tribes'（土著部落），或用于社会学讨论。注意与'tribal'（部落的）搭配，如'tribal culture'（部落文化），无特殊干扰项考点。"
+      }
+    },
+    {
+      "id": "tribute",
+      "word": "tribute",
+      "phonetic": "/'trɪbju:t/",
+      "meaning": "n.贡品;颂词,称赞,(表示敬意的)礼物",
+      "similar": [
+        "attribute",
+        "tribe"
+      ],
+      "question": {
+        "wordId": "tribute",
+        "stem": "选择 \"tribute\" 的正确中文意思：",
+        "correct": "n.贡品;颂词,称赞,(表示敬意的)礼物",
+        "options": [
+          "n.贡品;颂词,称赞,(表示敬意的)礼物",
+          "v.(to)归因于,归属于 n.属性,品质,特征",
+          "v.夸大,夸张",
+          "n.种族，部落；(植物，动物)族，类"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语tribuere（分配、给予），本指古罗马部落分配给征服者的贡品。词根trib-（部落）暗示原为部落间义务性支付，后演变为表示敬意或承认价值的给予行为。核心动作：部落向统治者/上级交付物资。",
+        "similarWarning": "attribute（v.归因于；n.属性）：前缀at-（向）+tribute（给予）→把结果给予原因→归因。对比：attribute强调“归因”，tribute强调“贡品/颂词”。tribe（n.部落）：词根trib-（部落）直接派生，与tribute共享词根但无“给予”含义。",
+        "extendedMeaning": "考研中常考“（表示敬意的）礼物”或“颂词”等抽象义，如a tribute to his courage（对他勇气的赞颂）；熟词僻义：在商业语境中可指“体现/证明”，如The new bridge is a tribute to modern engineering.（这座新桥是现代工程技术的体现。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "trick",
+      "word": "trick",
+      "phonetic": "/trik/",
+      "meaning": "n.诡计,骗局;恶作剧;窍门 vt.欺骗,哄骗",
+      "similar": [
+        "tick",
+        "brick",
+        "prick",
+        "track",
+        "truck",
+        "strict",
+        "kick",
+        "lick"
+      ],
+      "question": {
+        "wordId": "trick",
+        "stem": "选择 \"trick\" 的正确中文意思：",
+        "correct": "n.诡计,骗局;恶作剧;窍门 vt.欺骗,哄骗",
+        "options": [
+          "n./v.刺伤,刺痛,刺孔",
+          "n.诡计,骗局;恶作剧;窍门 vt.欺骗,哄骗",
+          "n.滴答声;勾号 v.滴答响;打勾号于",
+          "n.砖块，砖；v.用砖围砌，用砖填补"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能与古法语‘tricher’（欺骗）相关。核心物理动作：用巧妙手段操纵或误导他人，引申为‘诡计、骗局、恶作剧’，也可指做事的‘窍门’（巧妙方法）。",
+        "similarWarning": "trick vs track: trick含‘欺骗、技巧’，track含‘轨迹、追踪’；trick vs truck: truck意为‘卡车’；trick vs thick: thick意为‘厚的’；trick vs kick: kick意为‘踢’。注意字母差异：trick含‘r+ic’，其余词根不同。",
+        "extendedMeaning": "熟词僻义：在考研真题中，trick可指‘技巧、诀窍’（如‘trick of the trade’行业诀窍），或‘把戏、小戏法’（如‘magic trick’）。",
+        "examUsage": "常见搭配：‘play a trick on’（捉弄）；‘trick sb into doing’（诱骗某人做）。真题例句：‘They tricked him into revealing the password.’（他们诱骗他透露了密码。）注意区分‘trick’作为动词与‘deceive’的细微差别。"
+      }
+    },
+    {
+      "id": "trifle",
+      "word": "trifle",
+      "phonetic": "/'traifl/",
+      "meaning": "n.少量；小事,琐事 v.玩弄；嬉耍；忽视",
+      "similar": [
+        "rifle",
+        "triple",
+        "tile",
+        "trial",
+        "tribe",
+        "strife",
+        "triangle"
+      ],
+      "question": {
+        "wordId": "trifle",
+        "stem": "选择 \"trifle\" 的正确中文意思：",
+        "correct": "n.少量；小事,琐事 v.玩弄；嬉耍；忽视",
+        "options": [
+          "n.步枪",
+          "n.少量；小事,琐事 v.玩弄；嬉耍；忽视",
+          "n.三倍数 a.三倍的;三部分构成的v.使成三倍",
+          "n.瓦片,瓷砖 vt.铺瓦于，贴砖于"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"词根来自古法语\"trufle\"（欺骗），核心动作是\"轻率对待\"。n.指无价值的琐碎小事或少量；v.源于将某事视为\"儿戏\"→玩弄、忽视。\",\n  \"similarWarning\": \"rifle（步枪/抢夺），triple（三倍的），tile（瓦片），title（标题），trial（审判/尝试），tribe（部落），strife（冲突），terrible（可怕的）。差异：trifle含\"fl\"表示轻浮；triple含\"pl\"表三倍；strife含\"str\"表争斗。\",\n  \"extendedMeaning\": \"考研僻义：v.嬉耍（非正式），常见搭配\"trif",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "trigger",
+      "word": "trigger",
+      "phonetic": "/'trigə/",
+      "meaning": "n.扳机 vt.触发，引起",
+      "similar": [
+        "tiger",
+        "stranger"
+      ],
+      "question": {
+        "wordId": "trigger",
+        "stem": "选择 \"trigger\" 的正确中文意思：",
+        "correct": "n.扳机 vt.触发，引起",
+        "options": [
+          "num.六 pron./a.六(个，只...)",
+          "n．虎；老虎",
+          "n.陌生人,生客;外地人,外国人",
+          "n.扳机 vt.触发，引起"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根源于荷兰语“trekker”（扳机），本义为“拉的东西”。核心物理动作是“拉动扳机”，引申为“引发、启动”一个过程或事件，如扣动扳机引发子弹发射。",
+        "similarWarning": "tiger（老虎）：拼写差异为“ig” vs “er”，词义无关，注意区分；stranger（陌生人）：拼写差异为“str”前缀和“ang” vs “ri”，词义无关。",
+        "extendedMeaning": "在考研中常引申为“引发（连锁反应或过程）”，如trigger a debate（引发辩论）、trigger a crisis（引发危机）。",
+        "examUsage": "真题考点：常用于被动结构“be triggered by”（由…引发），如“The economic crisis was triggered by the housing bubble.”（经济危机由房地产泡沫引发。）"
+      }
+    },
+    {
+      "id": "trim",
+      "word": "trim",
+      "phonetic": "/trim/",
+      "meaning": "a.整齐的,整洁的 v./n.整理,修整,装饰",
+      "similar": [
+        "rim",
+        "brim",
+        "grim",
+        "tram",
+        "trip",
+        "crime",
+        "prime",
+        "strip"
+      ],
+      "question": {
+        "wordId": "trim",
+        "stem": "选择 \"trim\" 的正确中文意思：",
+        "correct": "a.整齐的,整洁的 v./n.整理,修整,装饰",
+        "options": [
+          "n.(圆物的)边,边缘;(眼镜)框",
+          "a.严酷的，令人害怕的；不愉快的，讨厌的",
+          "a.整齐的,整洁的 v./n.整理,修整,装饰",
+          "n.边缘,帽沿"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根与古英语‘trymman’（使坚固、安排）相关，核心动作是‘修整边缘使其整齐’。物理动作是剪切多余部分（如修剪树枝、毛发）或调整位置（如调整帆船帆布），引申为‘使有序、整洁、精简’。",
+        "similarWarning": "rim（边缘）vs trim（修剪边缘）：trim = t（to） + rim（边缘），强调‘修到边缘’；brim（边缘，尤指容器口）与rim同源；grim（严厉的）拼写近但义异；tram（有轨电车）与trip（旅行）无关联；crime（犯罪）与prime（主要的）均含‘rime’但词源不同；strip（剥去）与trim区别在于‘strip’强调去除覆盖物。",
+        "extendedMeaning": "考研僻义：a. 精简的、紧缩的（如‘trim budget’紧缩预算）；v. 削减（费用、人员），如‘trim costs’；n. 准备状态（如‘in trim’准备就绪）。",
+        "examUsage": "真题考点：常与‘budget’‘cost’‘expenditure’搭配，表‘削减’；与‘sail’搭配‘trim the sails’（调整帆以适应风向）为比喻义‘调整策略’。干扰项涉及‘trim’与‘prune’（修剪）的辨析，但‘prune’更侧重删除无用部分。"
+      }
+    },
+    {
+      "id": "trip",
+      "word": "trip",
+      "phonetic": "/trɪp/",
+      "meaning": "n.旅行,远足 v.绊倒；失足；犯错",
+      "similar": [
+        "strip",
+        "rip",
+        "tip",
+        "drip",
+        "grip",
+        "trap",
+        "trim",
+        "stripe"
+      ],
+      "question": {
+        "wordId": "trip",
+        "stem": "选择 \"trip\" 的正确中文意思：",
+        "correct": "n.旅行,远足 v.绊倒；失足；犯错",
+        "options": [
+          "n.旅行,远足 v.绊倒；失足；犯错",
+          "v.剥,剥去 n.窄条,条纹",
+          "v.撕,剥,劈,锯,裂开,撕裂 n.裂口,裂缝",
+          "n.尖端;末端;小费 n./v.轻击;倾斜;给小费"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "trip 源自古英语 tryppian，本义是“用脚轻踩、踏”，核心动作是“脚部突然受阻”。作名词引申为“旅程”（即脚步移动的过程），作动词保留物理动作“绊倒”（脚被东西阻挡），再引申为“失足、犯错”（抽象意义上的绊倒）。",
+        "similarWarning": "strip (v.剥去，脱衣) vs trip (v.绊倒)：strip 强调“剥除表面”，trip 强调“脚下受阻”。rip (v.撕裂) vs trip：rip 是“撕开”动作，trip 是“绊”动作。tip (n.尖端，小费) vs trip：tip 是“末端点”，trip 是“行程”。drip (v.滴落) vs trip：drip 是“液体滴下”，trip 是“脚步受阻”。grip (v.紧握) vs trip：grip 是“手部抓握”，trip 是“脚部受阻”。trap (n.陷阱) vs trip：trap 是“捕捉装置”，trip 可作“绊倒”动作，但 trap 更强调设伏。trim (v.修剪) vs trip：trim 是“修整边缘”，trip 是“绊倒”。stripe (n.条纹) vs trip：stripe 是“长条图案”，trip 是“行程”。",
+        "extendedMeaning": "考研中常见“trip up”表示“使出错、使失败”（如：The tricky question tripped up many candidates. 那个棘手的问题让许多考生出错。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "triple",
+      "word": "triple",
+      "phonetic": "/'tripl/",
+      "meaning": "n.三倍数 a.三倍的;三部分构成的v.使成三倍",
+      "similar": [
+        "trifle",
+        "cripple",
+        "ripe",
+        "tile",
+        "trip",
+        "rifle",
+        "trial",
+        "tribe"
+      ],
+      "question": {
+        "wordId": "triple",
+        "stem": "选择 \"triple\" 的正确中文意思：",
+        "correct": "n.三倍数 a.三倍的;三部分构成的v.使成三倍",
+        "options": [
+          "n.三倍数 a.三倍的;三部分构成的v.使成三倍",
+          "n.少量；小事,琐事 v.玩弄；嬉耍；忽视",
+          "n.跛子,残疾人 v.使跛,使残疾",
+          "a.熟的,成熟的;(for)时机成熟的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "tri-（三）+ -ple（倍，源自拉丁语 -plus 折叠、倍数），核心物理动作为“折叠三次”，即数量或程度变为三倍。",
+        "similarWarning": "trifle（琐事，tri-+fle 无意义，与 triple 差 fl 与 pl 结构）；cripple（使残疾，cri-+pple，与 triple 差 cr 与 tr）；trip（旅行，tri-+p，与 triple 差 le 结尾）；rifle（步枪，ri-+fle，与 triple 差 r 与 tr 及 le 位置）。",
+        "extendedMeaning": "考研中常引申为“三方的、三重的”，如 triple threat（三重威胁）、triple bottom line（三重底线，指经济、社会、环境）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "triumph",
+      "word": "triumph",
+      "phonetic": "/'traiəmf/",
+      "meaning": "n.胜利,成功 v.得胜,战胜",
+      "similar": [],
+      "question": {
+        "wordId": "triumph",
+        "stem": "选择 \"triumph\" 的正确中文意思：",
+        "correct": "n.胜利,成功 v.得胜,战胜",
+        "options": [
+          "n.痕迹;记号;分数 v.标记,打分,使有特色",
+          "a.突出的,显著的,杰出的",
+          "n.胜利,成功 v.得胜,战胜",
+          "v.哼曲子；发嗡嗡声；忙碌n.嗡嗡声，嘈杂声"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 triumphus（凯旋仪式），原指古罗马将军获胜后的盛大游行。核心动作：击败敌人后公开庆祝。词根 tri-（三）可能与三次欢呼仪式相关，强调公开、辉煌的胜利。",
+        "similarWarning": "",
+        "extendedMeaning": "考研中常考其动词用法，表示‘战胜、克服困难’，如 triumph over adversity（战胜逆境），而非仅指具体胜利事件。",
+        "examUsage": "真题考点：triumph over（战胜、击败），如 The team triumphed over the defending champions. 常见干扰项为 victory，但 triumph 更强调辉煌、决定性的成功，常与 over 搭配。"
+      }
+    },
+    {
+      "id": "trivial",
+      "word": "trivial",
+      "phonetic": "/'triviəl/",
+      "meaning": "a.琐碎的;无足轻重的",
+      "similar": [
+        "rival",
+        "trial",
+        "criminal",
+        "critical",
+        "original",
+        "tropical"
+      ],
+      "question": {
+        "wordId": "trivial",
+        "stem": "选择 \"trivial\" 的正确中文意思：",
+        "correct": "a.琐碎的;无足轻重的",
+        "options": [
+          "a.琐碎的;无足轻重的",
+          "n.竞争者,对手 v.竞争,对抗 a.竞争的",
+          "n.讯问，审讯；试验；试用；尝试",
+          "n.罪犯,刑事犯 a.犯罪的,刑事的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'trivium'（三岔路），由 'tri-'（三）和 'via'（路）组成。古罗马时三岔路口为市井之地，人们在此闲聊琐事，故引申为'琐碎的、无足轻重的'。核心物理动作：三条路交汇处，众人聚谈无关紧要之事。",
+        "similarWarning": "rival（竞争者） vs trivial：前者源自河流两岸争夺水源，核心是'竞争'；后者源自三岔路闲聊，核心是'琐碎'。差异在'r' vs 'tr'及词源。",
+        "extendedMeaning": "在真题中常表'不重要的、微不足道的'，如 'a trivial matter'（小事）。无特殊僻义。",
+        "examUsage": "真题常考作为干扰项，与 'significant'、'important' 对立。例如：'Don't waste time on trivial details.' 无特殊固定搭配。"
+      }
+    },
+    {
+      "id": "trolley",
+      "word": "trolley",
+      "phonetic": "/'trɔli/",
+      "meaning": "n.手推车;(英)无轨电车,(美)有轨电车",
+      "similar": [],
+      "question": {
+        "wordId": "trolley",
+        "stem": "选择 \"trolley\" 的正确中文意思：",
+        "correct": "n.手推车;(英)无轨电车,(美)有轨电车",
+        "options": [
+          "n.手推车;(英)无轨电车,(美)有轨电车",
+          "n.清晰,明晰",
+          "n.扇子,风扇;(影,球等)迷 v.扇,扇动,激起",
+          "n.(有柄的)大茶杯"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源来自中古英语“trolen”（滚动），核心物理动作为“轮子滚动承载物体”。词根无复杂演变，直接关联手推车（依靠轮子滚动运输）与电车（依靠轮子在轨道上滚动行驶），本质是“滚动运输工具”。",
+        "similarWarning": "",
+        "extendedMeaning": "考研外刊中可引申为“购物车”（超市手推车）或“运送装置”（如行李手推车），不常见僻义，但需注意英美差异：英式trolley指无轨电车或手推车，美式trolley多指有轨电车。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "troop",
+      "word": "troop",
+      "phonetic": "/tru:p/",
+      "meaning": "n.(pl.)部队,军队;(一)群/队 v.群集,集合",
+      "similar": [
+        "crop",
+        "drop",
+        "loop",
+        "roof",
+        "root",
+        "trap",
+        "trip",
+        "brook"
+      ],
+      "question": {
+        "wordId": "troop",
+        "stem": "选择 \"troop\" 的正确中文意思：",
+        "correct": "n.(pl.)部队,军队;(一)群/队 v.群集,集合",
+        "options": [
+          "n.圈,环",
+          "n.滴;落下;微量 v.落下;下降;失落",
+          "n.作物,庄稼;(谷类等的)一熟收成;一批,大量",
+          "n.(pl.)部队,军队;(一)群/队 v.群集,集合"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根源于古法语'trope'（群、队），核心物理动作为‘聚集/编组’。本义指‘一群人或动物’，后军事化引申为‘部队’（一群士兵集合）。",
+        "similarWarning": "troop vs. loop（圈/环）：troop首字母t表‘聚集’，loop首字母l表‘弯曲’，拼写差异在首字母和中间元音。troop vs. crop（庄稼/剪短）：troop有‘r’和‘o’，crop有‘c’和‘r’，词义无直接关联，但易因拼写相近混淆。",
+        "extendedMeaning": "考研中'troop'常作动词，表‘成群结队地移动’，如'troop into the hall'（成群涌入大厅），非仅军事义。",
+        "examUsage": "真题考点：'troop'作名词时，常与'regiment'（团）、'battalion'（营）等军事单位区分；固定搭配'a troop of'（一群），如'a troop of tourists'，注意与'group'的语体差异（troop更强调秩序性）。"
+      }
+    },
+    {
+      "id": "tropic",
+      "word": "tropic",
+      "phonetic": "/'trɔpik/",
+      "meaning": "n.回归线；[the T-s]热带地区",
+      "similar": [
+        "topic",
+        "tropical",
+        "toxic",
+        "tragic"
+      ],
+      "question": {
+        "wordId": "tropic",
+        "stem": "选择 \"tropic\" 的正确中文意思：",
+        "correct": "n.回归线；[the T-s]热带地区",
+        "options": [
+          "a.有毒的；中毒的",
+          "n.话题,主题,题目",
+          "n.回归线；[the T-s]热带地区",
+          "a.热带的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'tropos'（转向），原指太阳直射点在地球上的移动轨迹在南北纬23.5°处转向，故称回归线（Tropic of Cancer/Capricorn）。词根'trop-'（转）延伸出'tropical'（热带的，因回归线间区域炎热）。核心物理动作：太阳运行至极限位置后'转向'。",
+        "similarWarning": "topic（话题）：trop-（转）vs top-（地点/主题）；tropical（热带的）：-ical形容词后缀；toxic（有毒的）：tox-（毒）；tragic（悲剧的）：trag-（羊，源自希腊悲剧）。字母差异：tropic vs topic 仅差'r'，但词源迥异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tropical",
+      "word": "tropical",
+      "phonetic": "/'trɔpikəl/",
+      "meaning": "a.热带的",
+      "similar": [
+        "tropic",
+        "typical",
+        "logical",
+        "optical",
+        "radical",
+        "trivial",
+        "critical",
+        "proposal"
+      ],
+      "question": {
+        "wordId": "tropical",
+        "stem": "选择 \"tropical\" 的正确中文意思：",
+        "correct": "a.热带的",
+        "options": [
+          "a.(of)典型的,有代表性的",
+          "n.回归线；[the T-s]热带地区",
+          "a.热带的",
+          "a.逻辑的,符合逻辑的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'tropicus'（属于回归线的），源自希腊语 'tropikos'（转动的），由 'tropos'（转向）派生。地球的回归线是太阳直射点转向的界线，故 'tropical' 指回归线之间的炎热地区，即热带的。",
+        "similarWarning": "形近词辨析：tropical（热带的） vs typical（典型的） vs trivial（琐碎的）。tropical 以 'trop' 开头，与转向相关；typical 以 'typ' 开头，与类型相关；trivial 以 'triv' 开头，与三岔路（琐事）相关。",
+        "extendedMeaning": "在考研中，'tropical' 可引申为‘酷热的’（如 tropical weather），或比喻‘热烈的、狂热的’（如 tropical passion），但后者较少见。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "troublesome",
+      "word": "troublesome",
+      "phonetic": "/'trʌblsəm/",
+      "meaning": "a.令人烦恼的,讨厌的",
+      "similar": [
+        "wholesome"
+      ],
+      "question": {
+        "wordId": "troublesome",
+        "stem": "选择 \"troublesome\" 的正确中文意思：",
+        "correct": "a.令人烦恼的,讨厌的",
+        "options": [
+          "a.令人烦恼的,讨厌的",
+          "a.卫生的;有益的;健康的,有益健康的",
+          "n.网,蜘蛛网",
+          "n./v.怀疑,疑虑"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "trouble（麻烦）+ some（充满…的）→充满麻烦的，即令人烦恼的、讨厌的。词源：trouble源自拉丁语turbulare（搅乱），some为形容词后缀表“具有…性质的”。",
+        "similarWarning": "wholesome（健康的） vs troublesome（令人烦恼的）：前者词根whole（完整）+ some（充满…的）→“完整的、有益的”；后者trouble（麻烦）+ some→“充满麻烦的”。差异在首字母trouble/whole。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "trousers",
+      "word": "trousers",
+      "phonetic": "/'trauzəz/",
+      "meaning": "n.裤子",
+      "similar": [
+        "arouse"
+      ],
+      "question": {
+        "wordId": "trousers",
+        "stem": "选择 \"trousers\" 的正确中文意思：",
+        "correct": "n.裤子",
+        "options": [
+          "n.乡下,农村",
+          "vt.唤醒，叫醒；唤起，激起",
+          "n.轮廓,略图;大纲,梗概 v.概述,略述",
+          "n.裤子"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自盖尔语 triubhas，原指一种紧身短裤。词根线索不明显，但核心物理动作是“覆盖双腿的衣物”，与“两条腿”的概念相关。",
+        "similarWarning": "形近词 arouse（v. 引起，唤醒）易混。区别：trousers 以 -sers 结尾，指裤子；arouse 以 -rouse 结尾，指动作。字母差异：首字母 t/a，中间 u/o，尾端 ers/ouse。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "truck",
+      "word": "truck",
+      "phonetic": "/trʌk/",
+      "meaning": "n.卡车,载重汽车",
+      "similar": [
+        "tuck",
+        "track",
+        "trick",
+        "trunk",
+        "duck",
+        "luck",
+        "rack",
+        "suck"
+      ],
+      "question": {
+        "wordId": "truck",
+        "stem": "选择 \"truck\" 的正确中文意思：",
+        "correct": "n.卡车,载重汽车",
+        "options": [
+          "n.跑道,小路;轨迹,轮迹 v.跟踪,追踪",
+          "n.诡计,骗局;恶作剧;窍门 vt.欺骗,哄骗",
+          "v.卷起;塞进",
+          "n.卡车,载重汽车"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自拉丁语trochus（铁环）或希腊语trokhos（轮子），核心动作与“运输、搬运”相关。truck本义指“有轮子的运输工具”，引申为“卡车”。",
+        "similarWarning": "truck vs track（轨道/track）、trick（诡计/trick）、trunk（树干/trunk）：truck与track差一字母‘c’与‘a’，前者指卡车，后者指路径；与trick差‘c’与‘k’，词义无关；与trunk差‘c’与‘n’，需注意拼写。",
+        "extendedMeaning": "熟词僻义：n. 交易、买卖（尤指以物易物），如have no truck with（不与…打交道/交易）",
+        "examUsage": "考点：have no truck with sb/sth（不与…来往/拒绝与…合作），常出现在阅读理解中表示态度或关系。"
+      }
+    },
+    {
+      "id": "trumpet",
+      "word": "trumpet",
+      "phonetic": "/'trʌmpit/",
+      "meaning": "n.喇叭,小号",
+      "similar": [],
+      "question": {
+        "wordId": "trumpet",
+        "stem": "选择 \"trumpet\" 的正确中文意思：",
+        "correct": "n.喇叭,小号",
+        "options": [
+          "adj.异乎寻常的，稀奇古怪的",
+          "n.喇叭,小号",
+          "n.遗产，遗赠；先人(或过去)留下的东西",
+          "vt.舔；(火焰或浪)掠过；打败 n.舔；少量"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古法语trompette，是trompe（号角）的指小形式，核心动作是“吹响管状物发出响亮声音”。",
+        "similarWarning": "",
+        "extendedMeaning": "考研中常引申为“大声宣扬、鼓吹”（如trumpet a policy），或指“喇叭形物”（如ear trumpet助听器）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "trunk",
+      "word": "trunk",
+      "phonetic": "/trʌŋk/",
+      "meaning": "n.大衣箱,皮箱;(汽车后部)行李箱;树干,躯干",
+      "similar": [
+        "drunk",
+        "truck",
+        "junk",
+        "rank",
+        "tank",
+        "tuck",
+        "tune",
+        "frank"
+      ],
+      "question": {
+        "wordId": "trunk",
+        "stem": "选择 \"trunk\" 的正确中文意思：",
+        "correct": "n.大衣箱,皮箱;(汽车后部)行李箱;树干,躯干",
+        "options": [
+          "a.醉酒的；(喻)陶醉的 n.酗酒者，醉汉",
+          "n.大衣箱,皮箱;(汽车后部)行李箱;树干,躯干",
+          "n.废物，旧货；舢板",
+          "n.卡车,载重汽车"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语truncus（砍断的、树干），与“砍断”动作相关。树干是树被砍断后剩下的主体部分；躯干类比人体主干；行李箱/皮箱最初用树干挖空制成，后演变为箱体概念。核心动作：砍断→主干/主体容器。",
+        "similarWarning": "drunk（喝醉的） vs trunk：dr-（drunken）与tr-差异，注意首字母d/t；truck（卡车） vs trunk：truck结尾ck，trunk结尾nk，拼写仅差一个字母；junk（垃圾） vs trunk：j-与tr-，首字母不同；rank（等级） vs trunk：r-与tr-，少t。",
+        "extendedMeaning": "（无特殊僻义，考研中trunk基本指行李箱、树干、躯干，无高频非字面意思。）",
+        "examUsage": "（无特殊考点，trunk在真题中常作为基础词汇出现，无经典干扰项或核心题眼。）"
+      }
+    },
+    {
+      "id": "trust",
+      "word": "trust",
+      "phonetic": "/'trʌst/",
+      "meaning": "vt.信任;盼望;委托 n.(in)信任,依赖;委托",
+      "similar": [
+        "thrust",
+        "rust",
+        "crust",
+        "dust",
+        "rush",
+        "thus",
+        "brush",
+        "crush"
+      ],
+      "question": {
+        "wordId": "trust",
+        "stem": "选择 \"trust\" 的正确中文意思：",
+        "correct": "vt.信任;盼望;委托 n.(in)信任,依赖;委托",
+        "options": [
+          "vt.插入；猛推 n.插，推力 vi.刺，戳，冲",
+          "n.铁锈 v.(使)生锈",
+          "vt.信任;盼望;委托 n.(in)信任,依赖;委托",
+          "n.外皮,壳;地壳"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自北欧古语 traust，本义为‘坚定、可靠’，核心动作是‘依赖或托付于可靠之物’。词根 trust- 直接对应‘信任’的动作与状态。",
+        "similarWarning": "thrust（推/刺）vs trust（信任）：thrust 有字母 h，强调‘猛推’；trust 侧重‘信赖’。rust（锈）vs trust：rust 少 t，指金属氧化；trust 含 t，表信任。crust（外壳）vs trust：crust 加 c，指硬壳；trust 无 c，表信赖。",
+        "extendedMeaning": "考研中 trust 的僻义为‘托付/委托’，如 trust sb. with sth. 表示‘把某事委托给某人’，常见于法律或商业文本。",
+        "examUsage": "真题考点：trust 常作名词与 in 连用，如 in trust（被托管），或短语 trust to（依靠）。例句：The funds are held in trust for the children.（资金为孩子们托管。）"
+      }
+    },
+    {
+      "id": "try",
+      "word": "try",
+      "phonetic": "/trai/",
+      "meaning": "v.尝试，试图；试验，试用；审讯 n.尝试",
+      "similar": [
+        "tray",
+        "fry",
+        "toy",
+        "entry"
+      ],
+      "question": {
+        "wordId": "try",
+        "stem": "选择 \"try\" 的正确中文意思：",
+        "correct": "v.尝试，试图；试验，试用；审讯 n.尝试",
+        "options": [
+          "v.尝试，试图；试验，试用；审讯 n.尝试",
+          "n.盘,碟,托盘",
+          "v.油煎,油炸",
+          "n.玩具 vi.(with)漫不经心地考虑；摆弄"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古法语trier‘挑选、拣选’，核心动作是‘通过测试或检验来筛选出合适的’。引申为‘尝试做某事’（试探结果）和‘审判’（检验真相）。",
+        "similarWarning": "tray（托盘，t+r+ay）与try仅差字母a；cry（哭，c+r+y）首字母不同；dry（干的，d+r+y）首字母不同；fry（油炸，f+r+y）首字母不同；toy（玩具，t+o+y）中间元音不同；entry（进入，en+try）是前缀en+try；story（故事，s+tory）是s+try的变体。",
+        "extendedMeaning": "在考研真题中常考‘审判’义（如try a case审理案件），以及‘试用、试验’义（如try out测试）。",
+        "examUsage": "真题考点：try on（试穿）虽常见但非核心；重点掌握try as he might（尽管他努力尝试）的让步倒装结构，以及固定搭配try one's hand at（尝试做某事）。"
+      }
+    },
+    {
+      "id": "tub",
+      "word": "tub",
+      "phonetic": "/tʌb/",
+      "meaning": "n.木盆,澡盆",
+      "similar": [
+        "tube",
+        "pub",
+        "rub",
+        "tug",
+        "thumb"
+      ],
+      "question": {
+        "wordId": "tub",
+        "stem": "选择 \"tub\" 的正确中文意思：",
+        "correct": "n.木盆,澡盆",
+        "options": [
+          "n.(英国)小酒店；小旅馆",
+          "v.擦,摩擦",
+          "n.木盆,澡盆",
+          "n.管,软管;电子管,显像管;地铁"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根无明确词源，源自中古英语tubbe，指一种圆形木制容器，核心物理动作是盛装液体或物品的容器。",
+        "similarWarning": "tube（管子/管道）：tub无e，强调容器；pub（酒吧）：tub首字母t替换p；rub（摩擦）：tub首字母r替换t；tug（拖拽）：tub尾字母g替换b；thumb（拇指）：tub加h和m，无关联。",
+        "extendedMeaning": "考研中无特殊僻义，仅作基础名词使用。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tube",
+      "word": "tube",
+      "phonetic": "/tju:b/",
+      "meaning": "n.管,软管;电子管,显像管;地铁",
+      "similar": [
+        "tub",
+        "cube",
+        "tune",
+        "tumble",
+        "tribe"
+      ],
+      "question": {
+        "wordId": "tube",
+        "stem": "选择 \"tube\" 的正确中文意思：",
+        "correct": "n.管,软管;电子管,显像管;地铁",
+        "options": [
+          "n.管,软管;电子管,显像管;地铁",
+          "n.调子,曲调;和谐,协调 vt.调音,调节,调整",
+          "n.木盆,澡盆",
+          "n.立方形,立方体;立方,三次幂"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源来自拉丁语'tubus'（管）。核心物理动作是“中空圆柱体”，原指管子或筒状物。后引申为电子管（因形状像管）、显像管（电子管的一种），口语中借指地铁（因隧道像管道）。",
+        "similarWarning": "tub（桶）与tube差字母'e'，tub是敞口容器，tube是两端开口的管；cube（立方体）与tube差字母'c'和形状差异；tune（曲调）拼写相近但无直接词源关联。",
+        "extendedMeaning": "在考研阅读中，'tube'常作为“地铁”的英式用法（如'the Tube'指伦敦地铁），或指“试管”（test tube）、“试管内”的比喻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tuck",
+      "word": "tuck",
+      "phonetic": "/tʌk/",
+      "meaning": "v.卷起;塞进",
+      "similar": [
+        "truck",
+        "duck",
+        "luck",
+        "suck",
+        "tick",
+        "lucky",
+        "stack",
+        "stock"
+      ],
+      "question": {
+        "wordId": "tuck",
+        "stem": "选择 \"tuck\" 的正确中文意思：",
+        "correct": "v.卷起;塞进",
+        "options": [
+          "v.卷起;塞进",
+          "n.卡车,载重汽车",
+          "n.运气;好运,侥幸",
+          "n.鸭,鸭肉 v.迅速俯身;快速低头;躲避"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源拟声，模拟将柔软物体（如布料）塞入窄缝时发出的短促动作声，核心物理动作为“将边缘或多余部分推入、卷折进某空间内”。",
+        "similarWarning": "truck（卡车）vs tuck：tru-ck vs tu-ck，truck含r音，指车辆；duck（鸭子）vs tuck：d-uck vs t-uck，首字母不同；luck（运气）vs tuck：l-uck vs t-uck；suck（吸）vs tuck：s-uck vs t-uck；tick（滴答声）vs tuck：i-ck vs u-ck，元音不同；lucky（幸运的）为luck+y；quick（快的）vs tuck：qu-ick vs t-uck，首字母不同；stack（堆叠）vs tuck：st-ack vs t-uck，首字母不同。",
+        "extendedMeaning": "（真题/外刊）1. 隐藏，使不显眼：tuck away（把…藏起来）；2. 大口吃：tuck into（狼吞虎咽地吃）；3. 收拢：tuck one's tail（夹起尾巴，指认输或退缩）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tuesday",
+      "word": "Tuesday",
+      "phonetic": "/'tju:zdei/",
+      "meaning": "n.星期二",
+      "similar": [
+        "thursday"
+      ],
+      "question": {
+        "wordId": "tuesday",
+        "stem": "选择 \"Tuesday\" 的正确中文意思：",
+        "correct": "n.星期二",
+        "options": [
+          "a.优先的,在前的;(to)在…之前",
+          "n.制服,军服 a.相同的,一律的",
+          "n.星期四",
+          "n.星期二"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语Tiwesdæg，意为“提尔之日”。Tiw（提尔）是北欧神话中的战神，对应拉丁语的Mars（战神），因此Tuesday即“战神日”。词根Tiw-与拉丁语deus（神）同源，但英语直接借用了日耳曼神名。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tug",
+      "word": "tug",
+      "phonetic": "/tʌg/",
+      "meaning": "v.用力拖(或拉)；苦干 n.拖；苦干；拖船",
+      "similar": [
+        "bug",
+        "hug",
+        "jug",
+        "mug",
+        "rug",
+        "tag",
+        "tub",
+        "tough"
+      ],
+      "question": {
+        "wordId": "tug",
+        "stem": "选择 \"tug\" 的正确中文意思：",
+        "correct": "v.用力拖(或拉)；苦干 n.拖；苦干；拖船",
+        "options": [
+          "n.(有柄，小口，可盛水等的)大壶，罐，盂",
+          "v.用力拖(或拉)；苦干 n.拖；苦干；拖船",
+          "n.臭虫;小毛病;窃听器 v.窃听",
+          "v./n.热烈拥抱,紧抱"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能拟声。核心物理动作是“猛地、费力地拉拽”，强调瞬间的、用力的牵引，区别于pull的持续或平稳。",
+        "similarWarning": "tug vs. tag：tag指标签或轻触，拼写差一个字母。tug强调用力拖拽，tag无此意。",
+        "extendedMeaning": "考研僻义：作名词指“苦干、挣扎”，如the tug of life（生活的艰辛）；作动词可引申为“努力争取”，如tug at one's heartstrings（牵动心弦）。",
+        "examUsage": "考点：tug of war（拔河，常作比喻表示激烈争夺），真题中可作干扰项，注意与pull的细微区别。"
+      }
+    },
+    {
+      "id": "tuition",
+      "word": "tuition",
+      "phonetic": "/tju:'iʃən/",
+      "meaning": "n.学费；(某一学科的)教学，讲授，指导",
+      "similar": [
+        "intuition",
+        "auction",
+        "edition",
+        "nutrition",
+        "tradition",
+        "addition",
+        "ambition",
+        "aviation"
+      ],
+      "question": {
+        "wordId": "tuition",
+        "stem": "选择 \"tuition\" 的正确中文意思：",
+        "correct": "n.学费；(某一学科的)教学，讲授，指导",
+        "options": [
+          "n.直觉，直观；凭直觉而知的事物",
+          "n.学费；(某一学科的)教学，讲授，指导",
+          "n.／vt.拍卖",
+          "n.版,版本,版次"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'tuitio'（保护、照顾），原指对学生的监护和指导。词根 'tui-' 与 'tutor'（导师）同源，强调“照看、教导”的动作。演变路径：监护→教学→为教学支付的费用（学费）。",
+        "similarWarning": "intuition（直觉）：前缀in-（向内）+ tuition，强调内在的认知；tuition（学费）侧重外在的教学费用。注意拼写差异：intuition多一个字母n。",
+        "extendedMeaning": "在考研英语中，tuition常引申为“（某一学科的）教学、讲授”，尤指专业指导，如'individual tuition'（一对一教学），而非仅指学费。",
+        "examUsage": "常考搭配：tuition fees（学费）；tuition waiver（学费减免）。真题例句：'The university offers free tuition to outstanding students.'（该校为优秀学生提供免费教学。）注意区分tuition与education（教育）在语境中的细微差别。"
+      }
+    },
+    {
+      "id": "tumble",
+      "word": "tumble",
+      "phonetic": "/'tʌmbl/",
+      "meaning": "v.(使)摔倒;打滚,翻腾 n.摔跤,跌倒",
+      "similar": [
+        "stumble",
+        "humble",
+        "tremble",
+        "tube",
+        "bubble",
+        "gamble",
+        "temple"
+      ],
+      "question": {
+        "wordId": "tumble",
+        "stem": "选择 \"tumble\" 的正确中文意思：",
+        "correct": "v.(使)摔倒;打滚,翻腾 n.摔跤,跌倒",
+        "options": [
+          "v.(使)摔倒;打滚,翻腾 n.摔跤,跌倒",
+          "n.跌倒，绊倒 vi.绊(摔)倒；结结巴巴说",
+          "a.谦卑的,恭顺的;地位低下的 v.降低,贬低",
+          "n.战栗,颤抖 v.发抖,颤抖；摇动；焦虑"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语tumbian（跳舞、翻滚），核心物理动作为“失去平衡而倒下或滚动”。tumble强调“翻滚、跌倒”的连续动作，与stumble（绊倒）的区别在于tumble更侧重翻滚或摔倒后的连续状态。",
+        "similarWarning": "stumble（绊倒）：st-暗示“脚受阻”，强调因障碍物而失去平衡；tumble（摔倒）：t-暗示“翻滚”，强调摔倒后的滚动。humble（谦卑的）：h-与“泥土”相关，词义完全不同。",
+        "extendedMeaning": "考研僻义：tumble可引申为“（价格、价值等）暴跌”或“（局势）突然崩溃”。例如：Stock prices tumbled.（股价暴跌。）",
+        "examUsage": "真题考点：tumble常与介词down/over连用，表示“跌倒”；与into连用表示“陷入（困境）”。例：The economy tumbled into recession.（经济陷入衰退。）注意与stumble的干扰辨析。"
+      }
+    },
+    {
+      "id": "tumour",
+      "word": "tumour",
+      "phonetic": "/'tju:mə/",
+      "meaning": "n.(tumor)(肿)瘤，肿块",
+      "similar": [
+        "tour",
+        "humor",
+        "rumor",
+        "tutor"
+      ],
+      "question": {
+        "wordId": "tumour",
+        "stem": "选择 \"tumour\" 的正确中文意思：",
+        "correct": "n.(tumor)(肿)瘤，肿块",
+        "options": [
+          "n.(tumor)(肿)瘤，肿块",
+          "n.旅游，旅行；巡回演出/比赛 v.旅游",
+          "n.(rumour)传闻,谣言",
+          "n.(humour)幽默,诙谐"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“tumor”，意为“肿块”，由“tumere”（肿胀）演变而来，核心动作是“肿胀”。",
+        "similarWarning": "tour（旅行）: 拼写差异为“tou” vs “tumo”，词义无关；humor（幽默）: 拼写差异为“humo” vs “tumo”，词义无关；rumor（谣言）: 拼写差异为“rumo” vs “tumo”，词义无关；tutor（导师）: 拼写差异为“tuto” vs “tumo”，词义无关。",
+        "extendedMeaning": "在考研阅读中，tumour可引申指“（社会）问题或现象的滋生、膨胀”，如“the tumour of corruption”（腐败的滋生）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tune",
+      "word": "tune",
+      "phonetic": "/tju:n/",
+      "meaning": "n.调子,曲调;和谐,协调 vt.调音,调节,调整",
+      "similar": [
+        "june",
+        "tone",
+        "tube",
+        "tunnel",
+        "ounce",
+        "tense",
+        "trunk"
+      ],
+      "question": {
+        "wordId": "tune",
+        "stem": "选择 \"tune\" 的正确中文意思：",
+        "correct": "n.调子,曲调;和谐,协调 vt.调音,调节,调整",
+        "options": [
+          "n.音调,音色;风气,气氛;腔调,语气;色调",
+          "n.六月",
+          "n.调子,曲调;和谐,协调 vt.调音,调节,调整",
+          "n.管,软管;电子管,显像管;地铁"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根源自希腊语‘tonos’（张力、音调），核心物理动作为‘拉紧弦线以产生特定音高’。引申为‘调整至和谐状态’，即通过微调使系统或关系达到平衡。",
+        "similarWarning": "tone（n. 语气，色调） vs tune：tone侧重声音的质地或色彩，tune强调旋律或调整至正确音高。tube（n. 管状物） vs tune：仅差字母‘r’，但含义无关。",
+        "extendedMeaning": "考研常考‘调整、校准’（如tune the engine）或‘和谐’（in tune with the times），非字面‘曲调’。",
+        "examUsage": "高频搭配‘tune in to’（收听/理解），真题例句：‘He tuned in to the cultural nuances.’ 注意区别‘tune up’（调整至最佳状态）与‘tone down’（缓和）。"
+      }
+    },
+    {
+      "id": "tunnel",
+      "word": "tunnel",
+      "phonetic": "/'tʌnəl/",
+      "meaning": "n.隧道,山洞",
+      "similar": [
+        "tune"
+      ],
+      "question": {
+        "wordId": "tunnel",
+        "stem": "选择 \"tunnel\" 的正确中文意思：",
+        "correct": "n.隧道,山洞",
+        "options": [
+          "a.新鲜的,无经验的",
+          "n.调子,曲调;和谐,协调 vt.调音,调节,调整",
+          "vi.投降，屈服 vt.放弃，交出 n.投降，认输",
+          "n.隧道,山洞"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古法语 'tonnel'（桶形网），后指桶状通道。核心物理动作是“挖掘、形成一条管状通道”，强调在地下或山体中开辟的封闭通路。",
+        "similarWarning": "tune（曲调）：tunnel 含双 'n' 和 'l'，指通道；tune 指旋律。拼写差异在 'nn' vs 'n' 及结尾 'el' vs 'e'。",
+        "extendedMeaning": "（考研僻义）指“（抽象意义上的）通道、途径”，如 'a tunnel of darkness'（黑暗的通道），或比喻“（思维、沟通等的）闭塞状态”，如 'tunnel vision'（视野狭窄、井蛙之见）。",
+        "examUsage": "（真题考点）固定搭配：'dig a tunnel'（挖掘隧道）；'tunnel vision' 在阅读中常考其比喻义“狭隘眼光、缺乏全局观”。"
+      }
+    },
+    {
+      "id": "turbine",
+      "word": "turbine",
+      "phonetic": "/'tə:bain/",
+      "meaning": "n.汽轮机,涡轮机",
+      "similar": [],
+      "question": {
+        "wordId": "turbine",
+        "stem": "选择 \"turbine\" 的正确中文意思：",
+        "correct": "n.汽轮机,涡轮机",
+        "options": [
+          "n.汽轮机,涡轮机",
+          "n.飞翔,飞行;航班;航程;逃跑;楼梯的一段",
+          "v.给…下定义;阐述;阐释;限定,规定",
+          "n.(pl.)剩余,残余,遗迹"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 turbo（漩涡、旋转），后缀 -ine 表“与…相关之物”。核心动作是“旋转产生动力”，指通过流体（蒸汽、水、气）冲击叶片旋转的机械装置。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "turbulent",
+      "word": "turbulent",
+      "phonetic": "/'tə:bjulənt/",
+      "meaning": "a.狂暴的,无秩序的",
+      "similar": [],
+      "question": {
+        "wordId": "turbulent",
+        "stem": "选择 \"turbulent\" 的正确中文意思：",
+        "correct": "a.狂暴的,无秩序的",
+        "options": [
+          "n.行列,长队 v.(up)排队,排队等待",
+          "a.狂暴的,无秩序的",
+          "a.英雄的，英勇的，崇高的",
+          "n.障碍(物),妨碍,阻碍,干扰"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根turb-意为‘搅动、混乱’，源自拉丁语turba（混乱、人群）。-ulent是形容词后缀，表示‘充满…的’。核心物理动作是‘搅动导致混乱’，引申为狂暴的、动荡的。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研外刊中常引申为‘情绪激动的、行为失控的’，如turbulent emotions（激烈情绪）；或指‘动荡的局势’，如turbulent times（动荡时代）。",
+        "examUsage": "真题考点：常与political/economic搭配，如turbulent economic conditions（动荡的经济状况）。干扰项常与violent（暴力）混淆，但turbulent更强调‘无序、混乱’。"
+      }
+    },
+    {
+      "id": "turkey",
+      "word": "turkey",
+      "phonetic": "/'tə:ki/",
+      "meaning": "n.火鸡(肉)",
+      "similar": [
+        "survey"
+      ],
+      "question": {
+        "wordId": "turkey",
+        "stem": "选择 \"turkey\" 的正确中文意思：",
+        "correct": "n.火鸡(肉)",
+        "options": [
+          "n.火鸡(肉)",
+          "v./n.俯瞰,眺望;全面审视,调查;测量图,勘定",
+          "n.门口",
+          "v.观看;注视;看守;警戒 n.注视;手表;守护"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自土耳其（Turkey）国名，因早期欧洲人误以为火鸡来自土耳其而得名。词根无复杂演变，直接借用地名指代鸟类。",
+        "similarWarning": "survey（调查、测量）：与turkey拼写差异在于首字母s开头，且词义完全无关。turkey指禽类，survey指研究或勘测，无混淆风险。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "turn",
+      "word": "turn",
+      "phonetic": "/tɜ:n/",
+      "meaning": "v./n.(使)转动;(使)旋转;(使)转变 n.机会",
+      "similar": [
+        "burn",
+        "return",
+        "mourn",
+        "stern",
+        "thorn"
+      ],
+      "question": {
+        "wordId": "turn",
+        "stem": "选择 \"turn\" 的正确中文意思：",
+        "correct": "v./n.(使)转动;(使)旋转;(使)转变 n.机会",
+        "options": [
+          "v./n.(使)转动;(使)旋转;(使)转变 n.机会",
+          "v.燃烧，烧着；烧毁；灼伤 n.烧伤，灼伤",
+          "v./n.返回,回来;归还,送还;回答",
+          "v.哀悼,忧伤"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "本义为‘旋转、转动’，源自原始日耳曼语 *turnijanan，核心动作为绕轴心旋转。引申为‘改变方向、转变状态’，如 turn left（左转）、turn into（变成）。名词指‘轮到的机会’，源于旋转顺序的隐喻。",
+        "similarWarning": "burn（燃烧，b-火舌） vs turn（旋转，t-扭转）；return（回返，re-回+turn）；mourn（哀悼，m-悲伤） vs turn（动作）；stern（严厉的，船尾） vs turn（旋转）；thorn（荆棘，th-刺） vs turn（转动）。",
+        "extendedMeaning": "考研僻义：1. 使变为（turn ... into ... 转换状态）；2. 转折点（turn of events 事态转变）；3. 依次轮流（in turn 反过来；by turns 轮流）。",
+        "examUsage": "高频考点：turn out（结果是，证明是）；turn down（拒绝，调低）；turn to（求助于，转向）；turn up（出现，调大）。真题例句：It turned out that the experiment was a failure.（结果实验失败了。）"
+      }
+    },
+    {
+      "id": "turnover",
+      "word": "turnover",
+      "phonetic": "/'tə:nˌəuvə/",
+      "meaning": "n.翻倒(物);人员调整;(资金等)周转;营业额",
+      "similar": [
+        "uncover"
+      ],
+      "question": {
+        "wordId": "turnover",
+        "stem": "选择 \"turnover\" 的正确中文意思：",
+        "correct": "n.翻倒(物);人员调整;(资金等)周转;营业额",
+        "options": [
+          "v.揭开,揭露",
+          "n.紫罗兰,紫色 a.紫色的",
+          "n.设备,器材,装置;才能",
+          "n.翻倒(物);人员调整;(资金等)周转;营业额"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由turn（翻转）+ over（超过/翻转）合成，核心物理动作是“翻转过来”。引申为：物体翻倒（翻转动作的结果）、人员更替（人员像翻页一样替换）、资金周转（资金像轮子一样循环翻转）、营业额（资金翻转的总量）。",
+        "similarWarning": "uncover（揭开覆盖物，un-相反+cover覆盖）与turnover拼写差异在首字母和词根；moreover（此外，more+over）与turnover拼写差异在首字母和词义方向。",
+        "extendedMeaning": "在考研外刊中常指“人员流动率”（如employee turnover），或“营业额/成交量”（如annual turnover），非字面翻倒。",
+        "examUsage": "真题高频搭配：staff turnover（员工流动率）；capital turnover（资金周转率）；turnover rate（周转率/流动率）。"
+      }
+    },
+    {
+      "id": "tutor",
+      "word": "tutor",
+      "phonetic": "/'tju:tə/",
+      "meaning": "n.导师;家教 v.辅导;当导师;当家庭教师",
+      "similar": [
+        "author",
+        "tumour",
+        "auto",
+        "actor",
+        "humor",
+        "motor",
+        "outer",
+        "rumor"
+      ],
+      "question": {
+        "wordId": "tutor",
+        "stem": "选择 \"tutor\" 的正确中文意思：",
+        "correct": "n.导师;家教 v.辅导;当导师;当家庭教师",
+        "options": [
+          "n.(tumor)(肿)瘤，肿块",
+          "n.作者，作家，著作人；创始人，发起人",
+          "n.(automobile)(口语)汽车",
+          "n.导师;家教 v.辅导;当导师;当家庭教师"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 tutor '保护者、监护人'，由 tueri '看护、保护' 衍生而来。核心物理动作是 '看护、监督'，引申为 '教导、辅导'。词根 tui- 表示 '看、保护'，-or 表示 '人'。",
+        "similarWarning": "tutor vs. author: tutor 有 t- 开头，author 有 au- 开头，且 author 意为 '作者'。tutor vs. tumor: tumor 是 '肿瘤'，多一个 m。tutor vs. outer: outer 是 '外部的'，首字母不同。",
+        "extendedMeaning": "在考研阅读中，tutor 常作动词 '辅导'，尤指一对一指导。熟词僻义：作名词 '导师'，强调学术或职业上的指导关系，非普通教师。",
+        "examUsage": "固定搭配：personal tutor (个人导师)、tutor system (导师制)。真题考点：区分 tutor 与 mentor (导师/顾问)，前者更侧重具体课程辅导，后者侧重生涯指导。"
+      }
+    },
+    {
+      "id": "twelve",
+      "word": "twelve",
+      "phonetic": "/twelv/",
+      "meaning": "num.十二 pron./a.十二(个，只...)",
+      "similar": [
+        "weave"
+      ],
+      "question": {
+        "wordId": "twelve",
+        "stem": "选择 \"twelve\" 的正确中文意思：",
+        "correct": "num.十二 pron./a.十二(个，只...)",
+        "options": [
+          "num.十二 pron./a.十二(个，只...)",
+          "v.编(织) n.编织法，编织式样",
+          "n.正餐,宴会",
+          "v.回忆,想起,记起,忆起,记得"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语 twelf，由 twa（二）与 -lif（剩余）组成，字面意为“超过十剩余二”，即十加二等于十二。核心动作是计数中“十之后多两个”。",
+        "similarWarning": "与 weave（编织）拼写差异：twelve 以 tw- 开头，weave 以 w- 开头；twelve 含字母 l，weave 无。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "twenty",
+      "word": "twenty",
+      "phonetic": "/'twenti/",
+      "meaning": "num.二十 pron./a.二十(个，只...)",
+      "similar": [
+        "tent",
+        "plenty",
+        "treaty"
+      ],
+      "question": {
+        "wordId": "twenty",
+        "stem": "选择 \"twenty\" 的正确中文意思：",
+        "correct": "num.二十 pron./a.二十(个，只...)",
+        "options": [
+          "num.二十 pron./a.二十(个，只...)",
+          "n.帐篷",
+          "n.丰富,大量",
+          "n.条约，协议，协商"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语twentig，由twegen（二）与-tig（十）组合，意为两个十，即二十。核心动作是计数中的十进制叠加。",
+        "similarWarning": "tent（帐篷，n.）与twenty仅差字母y和w；plenty（大量，n./a.）与twenty词尾相同但前缀不同；treaty（条约，n.）与twenty首字母相同但拼写差异明显。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "twice",
+      "word": "twice",
+      "phonetic": "/twais/",
+      "meaning": "ad.两次,两倍",
+      "similar": [
+        "tie",
+        "rice",
+        "tick",
+        "tide",
+        "tile",
+        "tire",
+        "twin",
+        "vice"
+      ],
+      "question": {
+        "wordId": "twice",
+        "stem": "选择 \"twice\" 的正确中文意思：",
+        "correct": "ad.两次,两倍",
+        "options": [
+          "n.滴答声;勾号 v.滴答响;打勾号于",
+          "n.稻,米",
+          "n.领带;联系,关系,纽带;束缚 v.扎,系,捆",
+          "ad.两次,两倍"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源于古英语'twiga'，意为'两次'，与'two'同源。核心物理动作为'重复一次'，即数量上的加倍或动作的再次发生。",
+        "similarWarning": "ice（冰）、tie（系）、nice（好的）、rice（米饭）、tick（滴答声）、tide（潮汐）、tile（瓷砖）、time（时间）。拼写差异主要集中在首字母't'后的字母组合，如'wice'与'ice'仅差'w'，但词义完全不同。",
+        "extendedMeaning": "在考研中可引申为'两倍地'，如'thinks twice'（再三考虑），或用于强调程度，如'twice as likely'（两倍可能）。",
+        "examUsage": "常考短语'once or twice'（一两次）和'think twice'（重新考虑），真题中可能作为干扰项与'once'、'three times'等对比，需注意其修饰比较级时的用法：'twice as ... as'。"
+      }
+    },
+    {
+      "id": "twin",
+      "word": "twin",
+      "phonetic": "/twin/",
+      "meaning": "a.双的,成对的,孪生的 n.孪生子,双生子",
+      "similar": [
+        "tin",
+        "owing",
+        "stain",
+        "swing",
+        "twice",
+        "twist"
+      ],
+      "question": {
+        "wordId": "twin",
+        "stem": "选择 \"twin\" 的正确中文意思：",
+        "correct": "a.双的,成对的,孪生的 n.孪生子,双生子",
+        "options": [
+          "n.污点,瑕疵 v.沾污;染色",
+          "a.欠的,未付的",
+          "n.罐头；锡 a.锡制的 vt.镀锡于",
+          "a.双的,成对的,孪生的 n.孪生子,双生子"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "twin 源自古英语 twinn（双重的），与 two 同源，核心动作/画面为“两个相同或配对的事物”。词根 twi-（二）构成，强调成对、孪生的属性。",
+        "similarWarning": "tin（锡，易混为“双”的拼写）、win（赢，缺 t）、thin（瘦，变 h 为 w）、swing（摇摆，多 s 和 g）。注意 twin 与 twist（扭曲）的 tw- 同源，但 twin 强调“成双”。",
+        "extendedMeaning": "考研僻义：指“一对中的另一个”或“成对出现的事物”，如 twin peaks（双峰）、twin goals（双重目标）。",
+        "examUsage": "真题考点：常见于科技类阅读，如 twin studies（双胞胎研究）作为研究设计的关键词；或用于比喻，如 twin challenges（双重挑战）。无特殊干扰项，通常直接考查词义。"
+      }
+    },
+    {
+      "id": "twinkle",
+      "word": "twinkle",
+      "phonetic": "/'twiŋkl/",
+      "meaning": "vi.(星等)闪烁，(眼情)发亮 n.闪烁，闪光",
+      "similar": [
+        "wrinkle",
+        "sprinkle",
+        "triangle"
+      ],
+      "question": {
+        "wordId": "twinkle",
+        "stem": "选择 \"twinkle\" 的正确中文意思：",
+        "correct": "vi.(星等)闪烁，(眼情)发亮 n.闪烁，闪光",
+        "options": [
+          "vi.(星等)闪烁，(眼情)发亮 n.闪烁，闪光",
+          "n.皱纹 v.起皱,皱眉",
+          "n.洒,喷,淋",
+          "n.三角(形)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模拟星星闪烁或眼睛快速眨动时的微弱光线变化，核心物理动作为“快速、间歇性地发光或眨眼”，与古英语twincan（眨眼）同源。",
+        "similarWarning": "wrinkle（皱纹，皱褶）：对比wri-（扭曲）与twi-（闪烁）；sprinkle（撒，洒）：对比spr-（散开）与twi-（闪烁）；triangle（三角形）：对比tri-（三）与twi-（二/闪烁），拼写中tr-与tw-易混。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "twist",
+      "word": "twist",
+      "phonetic": "/twist/",
+      "meaning": "v.捻;拧;扭曲;蜿蜒曲折而行 n.拧;歪曲;曲折",
+      "similar": [
+        "thirst",
+        "typist",
+        "wit",
+        "fist",
+        "mist",
+        "tilt",
+        "twin",
+        "west"
+      ],
+      "question": {
+        "wordId": "twist",
+        "stem": "选择 \"twist\" 的正确中文意思：",
+        "correct": "v.捻;拧;扭曲;蜿蜒曲折而行 n.拧;歪曲;曲折",
+        "options": [
+          "n.智力,才智,智慧",
+          "n.打字员",
+          "n.渴,口渴;(for)渴望,热望",
+          "v.捻;拧;扭曲;蜿蜒曲折而行 n.拧;歪曲;曲折"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自中古英语twisten，与古英语twist（绳索）同源，核心物理动作为“两股或多股线互相缠绕旋转”，引申为“拧、扭、歪曲”等动作，强调力的扭转或方向的改变。",
+        "similarWarning": "thirst（口渴） vs twist（拧）：thirst无w，核心为口渴；typist（打字员） vs twist：typist有y和p，意为打字员；wit（机智） vs twist：wit短，意为智慧。",
+        "extendedMeaning": "在考研中常引申为“（故事、情节的）意外转折”或“（政策、事实的）曲解”，如plot twist（剧情反转）；也可指“扭曲（事实）”，如twist the truth。",
+        "examUsage": "真题高频搭配：twist and turn（迂回曲折），如the road twists and turns；twist sb's arm（强迫某人），常用于阅读理解态度题。"
+      }
+    },
+    {
+      "id": "two",
+      "word": "two",
+      "phonetic": "/tu:/",
+      "meaning": "num.二，两个n.两个(人或物)",
+      "similar": [],
+      "question": {
+        "wordId": "two",
+        "stem": "选择 \"two\" 的正确中文意思：",
+        "correct": "num.二，两个n.两个(人或物)",
+        "options": [
+          "num.二，两个n.两个(人或物)",
+          "n.(水果等)汁,液",
+          "v.悬挂,垂吊;吊死,绞死",
+          "n.栅栏,屏障;障碍(物)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "古英语 twā，源自原始日耳曼语 *twai，与拉丁语 duo、希腊语 duo 同源，核心动作为“二”的数量概念。",
+        "similarWarning": "to（介词，向/到）：字母差异为 w 与 o，词义无关；too（副词，也/太）：字母差异为 w 与 o，且 two 为数字，too 为程度或附加。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    }
+  ]
+}

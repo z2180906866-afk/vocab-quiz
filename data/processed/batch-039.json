@@ -1,0 +1,1709 @@
+{
+  "batchId": 39,
+  "words": [
+    {
+      "id": "hinder",
+      "word": "hinder",
+      "phonetic": "/'hində/",
+      "meaning": "v.(from)阻止,妨碍 a.后面的",
+      "similar": [
+        "thunder",
+        "hinge",
+        "index",
+        "infer",
+        "inner",
+        "liner",
+        "dinner",
+        "finger"
+      ],
+      "question": {
+        "wordId": "hinder",
+        "stem": "选择 \"hinder\" 的正确中文意思：",
+        "correct": "v.(from)阻止,妨碍 a.后面的",
+        "options": [
+          "n.(pl.indexes,indices)索引 v.附以索引",
+          "n.合页,铰链 vi.依…而定",
+          "n.雷(声);轰隆声 v.打雷;大声说,吼叫",
+          "v.(from)阻止,妨碍 a.后面的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根hind-（后面）+ -er（动词后缀）。核心物理动作是“使落在后面”，即拖后腿、形成障碍。",
+        "similarWarning": "thunder（雷声） vs hinder：th-开头意为打雷，h-开头意为阻碍。hide（隐藏） vs hinder：hide无-n-且结尾-d，hinder有-n-且结尾-er。hinge（铰链） vs hinder：hinge含-g-，hinder含-d-。",
+        "extendedMeaning": "",
+        "examUsage": "hinder常与from搭配（hinder sb from doing sth），真题中作为干扰项出现，区别prevent（预防性阻止）和prohibit（权威禁止）。"
+      }
+    },
+    {
+      "id": "hinge",
+      "word": "hinge",
+      "phonetic": "/hɪndʒ/",
+      "meaning": "n.合页,铰链 vi.依…而定",
+      "similar": [
+        "finger",
+        "fringe",
+        "hinder",
+        "hunger",
+        "linger",
+        "mingle",
+        "dine",
+        "hang"
+      ],
+      "question": {
+        "wordId": "hinge",
+        "stem": "选择 \"hinge\" 的正确中文意思：",
+        "correct": "n.合页,铰链 vi.依…而定",
+        "options": [
+          "n.合页,铰链 vi.依…而定",
+          "n.边缘；(窗帘)缘饰；额前垂发 vt.饰…的边",
+          "n.手指;指状物;指针",
+          "v.(from)阻止,妨碍 a.后面的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源来自古英语henge，本义为“悬挂的东西”，核心动作是“悬挂/转动”。铰链是门悬挂并转动的支点，引申为“依…而定”，即某事物像门绕铰链转动一样取决于某个关键点。",
+        "similarWarning": "形近词辨析：hinge vs. hinder：hinge结尾-ge表连接转动，hinder结尾-der表“在后面”即阻碍；hinge vs. fringe：hinge以h开头，fringe以fr开头且意为“边缘”。",
+        "extendedMeaning": "考研僻义：作动词时表示“取决于”，如hinge on/upon，常用于抽象逻辑关系，非字面铰链义。",
+        "examUsage": "考点：考研真题中常考短语hinge on/upon，意为“取决于”，是阅读中因果逻辑题的核心题眼，如“Success hinges on hard work.”。"
+      }
+    },
+    {
+      "id": "hint",
+      "word": "hint",
+      "phonetic": "/hint/",
+      "meaning": "n.暗示,提示,线索 v.暗示,示意",
+      "similar": [
+        "hit",
+        "hunt",
+        "pint",
+        "china",
+        "faint",
+        "giant",
+        "hinge",
+        "hoist"
+      ],
+      "question": {
+        "wordId": "hint",
+        "stem": "选择 \"hint\" 的正确中文意思：",
+        "correct": "n.暗示,提示,线索 v.暗示,示意",
+        "options": [
+          "v.打,击;碰撞 n.击中;成功而风行一时的事物",
+          "v./n.打猎,猎取;(for)搜索;寻找",
+          "n.暗示,提示,线索 v.暗示,示意",
+          "n.品脱"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自中古英语henten，原意为‘抓住’，引申为‘抓住要点’或‘间接点明’。核心动作是‘轻触’或‘间接指向’，不直接说破，而是通过线索让人联想到答案。",
+        "similarWarning": "hint vs hit: hint有n，hit无n，hint是暗示，hit是打击；hint vs hunt: hint中i，hunt中u，hint是提示，hunt是狩猎；hint vs pint: hint以h开头，pint以p开头，hint暗示，pint品脱（单位）。",
+        "extendedMeaning": "在考研阅读中，hint常作名词表‘细微迹象’或‘线索’，如‘a hint of irony’（一丝讽刺），或作动词表‘略微透露’，如‘hint at a possible solution’。",
+        "examUsage": "真题考点：搭配‘drop a hint’（给暗示）和‘take a hint’（领会暗示），常见于完形填空的语境推断题。如‘She dropped a hint that she needed help, but he failed to take it.’"
+      }
+    },
+    {
+      "id": "hip",
+      "word": "hip",
+      "phonetic": "/hip/",
+      "meaning": "n.臀部，髋；屋脊",
+      "similar": [
+        "chip",
+        "whip",
+        "dip",
+        "hit",
+        "hop",
+        "lip",
+        "rip",
+        "sip"
+      ],
+      "question": {
+        "wordId": "hip",
+        "stem": "选择 \"hip\" 的正确中文意思：",
+        "correct": "n.臀部，髋；屋脊",
+        "options": [
+          "v./n.浸,蘸",
+          "n.切屑,碎片;(土豆等的)薄片;集成电路块",
+          "n.鞭子;车夫 v.鞭打,抽打;突然移动",
+          "n.臀部，髋；屋脊"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "hip 源自古英语 hype，指身体侧面的突出部位，核心动作是“突出、弯曲”，引申为屋脊的突出结构。",
+        "similarWarning": "chip（碎片）、ship（船）、whip（鞭子）：共同点在于 -ip 拼写，但 hip 强调身体部位，chip 强调小片，ship 指交通工具，whip 指工具。",
+        "extendedMeaning": "在考研语境中，hip 常以“屋脊”义出现，如 hip roof（四坡屋顶），属于建筑类术语，需注意与 ridge（屋脊）的细微差别。",
+        "examUsage": "真题中较少直接考查 hip，但可能出现在阅读理解描述建筑或人体结构的文章中，需结合上下文判断具体词义。"
+      }
+    },
+    {
+      "id": "hire",
+      "word": "hire",
+      "phonetic": "/haiə/",
+      "meaning": "n./v.雇用,租借",
+      "similar": [
+        "hike",
+        "tire",
+        "wire",
+        "hinge",
+        "litre",
+        "share",
+        "shine",
+        "shore"
+      ],
+      "question": {
+        "wordId": "hire",
+        "stem": "选择 \"hire\" 的正确中文意思：",
+        "correct": "n./v.雇用,租借",
+        "options": [
+          "n./v.雇用,租借",
+          "v.(使)疲倦,(使)厌倦 n.(=tyre)轮胎,车胎",
+          "n.金属线,电线;电报,电信 v.发电报(给)",
+          "n.徒步旅行；增加vi.徒步旅行vt.提高"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，但核心动作是“暂时获取某人或某物的服务/使用权以换取报酬”。画面：付钱让人干活或短暂使用物品。",
+        "similarWarning": "hire vs fire: 首字母h/f，一个招人，一个开人。hire vs hide: 末尾r/d，一个雇用，一个隐藏。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "historian",
+      "word": "historian",
+      "phonetic": "/his'tɔ:riən/",
+      "meaning": "n.历史学家",
+      "similar": [
+        "historical",
+        "historic",
+        "hysterical"
+      ],
+      "question": {
+        "wordId": "historian",
+        "stem": "选择 \"historian\" 的正确中文意思：",
+        "correct": "n.历史学家",
+        "options": [
+          "a.情绪异常激动的,歇斯底里的",
+          "n.历史学家",
+          "a.历史的;有关历史的",
+          "a.有历史意义的;历史的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语historia（探究、知识、历史），由history（历史）派生，后缀 -ian 表示“从事...的人”。核心动作是“探究过去的人”，即历史学家。",
+        "similarWarning": "historical（历史的，与历史相关的） vs historic（历史上著名的，有历史意义的）：historical侧重“属于历史的”，如historical event（历史事件）；historic强调“具有重大历史意义的”，如historic moment（历史性时刻）。history（历史）是名词，hysterical（歇斯底里的）拼写仅差一个字母，但词义无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "historic",
+      "word": "historic",
+      "phonetic": "/his'tɔrik/",
+      "meaning": "a.有历史意义的;历史的",
+      "similar": [
+        "historical",
+        "historian",
+        "distort",
+        "district",
+        "hysterical"
+      ],
+      "question": {
+        "wordId": "historic",
+        "stem": "选择 \"historic\" 的正确中文意思：",
+        "correct": "a.有历史意义的;历史的",
+        "options": [
+          "v.弄歪(嘴脸等);扭曲;歪曲(真理、事实等)",
+          "a.历史的;有关历史的",
+          "a.有历史意义的;历史的",
+          "n.历史学家"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语historia（历史，探究），由history（历史）衍生而来，-ic为形容词后缀，表示“与历史相关的”。核心动作是“记录过去事件”。与historical相比，historic更强调“具有重大历史意义或影响”，即“在历史中留下印记的”。",
+        "similarWarning": "historic vs historical: historic指“有历史意义的、历史上著名的”，如historic event（历史性事件）；historical指“历史的、有关历史的”，如historical research（历史研究）。distort（扭曲）与district（区域）拼写相似，但词根不同：dis-（分离）+tort（扭曲）→扭曲；dis-（分离）+strict（拉紧）→区域。hysterical（歇斯底里的）源于希腊语hystera（子宫），与历史无关。",
+        "extendedMeaning": "在考研阅读中，historic可引申为“开创性的、里程碑式的”，不限于过去事件，也可用于形容当前具有深远影响的事物，如historic agreement（历史性协议）。",
+        "examUsage": "真题考点常与historical构成干扰项。例：The historic building was preserved for its cultural significance.（该历史建筑因其文化意义被保留。）注意historic强调“重要性”，而historical仅指“与历史相关的”。"
+      }
+    },
+    {
+      "id": "historical",
+      "word": "historical",
+      "phonetic": "/his'tɔrikəl/",
+      "meaning": "a.历史的;有关历史的",
+      "similar": [
+        "historic",
+        "historian",
+        "hysterical",
+        "district",
+        "editorial"
+      ],
+      "question": {
+        "wordId": "historical",
+        "stem": "选择 \"historical\" 的正确中文意思：",
+        "correct": "a.历史的;有关历史的",
+        "options": [
+          "a.历史的;有关历史的",
+          "a.情绪异常激动的,歇斯底里的",
+          "n.历史学家",
+          "a.有历史意义的;历史的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语‘historia’（探究、知识、历史），后缀‘-ical’表‘与…有关的’。核心动作：通过探究过去事件形成知识体系，即‘历史的’或‘与历史相关的’。",
+        "similarWarning": "historic（历史性的，有重大历史意义的）vs historical（历史的，有关历史的）：historic指事件本身重要，如historic moment；historical指与历史相关，如historical research。hysterical（歇斯底里的）拼写差异：hyst- vs hist-，词义无关。",
+        "extendedMeaning": "在考研阅读中，historical常引申为‘基于史实的’或‘传统的’，如historical perspective（历史视角），区别于虚构或当代。",
+        "examUsage": "真题中常与‘context’搭配，如historical context（历史背景），作为理解文本的关键题眼。"
+      }
+    },
+    {
+      "id": "hit",
+      "word": "hit",
+      "phonetic": "/hit/",
+      "meaning": "v.打,击;碰撞 n.击中;成功而风行一时的事物",
+      "similar": [
+        "hint",
+        "fit",
+        "hat",
+        "hip",
+        "hut",
+        "kit",
+        "pit",
+        "wit"
+      ],
+      "question": {
+        "wordId": "hit",
+        "stem": "选择 \"hit\" 的正确中文意思：",
+        "correct": "v.打,击;碰撞 n.击中;成功而风行一时的事物",
+        "options": [
+          "n.暗示,提示,线索 v.暗示,示意",
+          "v.打,击;碰撞 n.击中;成功而风行一时的事物",
+          "a.(病的)发作，痉挛 v./a.n.合适,试穿,安装",
+          "n.帽子(一般指有边的帽子)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根为拟声词源，模拟打击或碰撞的声音。核心物理动作是“快速接触并施加力量”，由此衍生为“打击”或“碰撞”的物理行为。",
+        "similarWarning": "hint（暗示：h与it之间有n，强调线索）；hit（直接撞击，无n）；fit（适合：f与it，强调匹配）；hat（帽子：h与at，a为开口元音，强调覆盖头部）。",
+        "extendedMeaning": "在考研外刊中常引申为“达到（某种状态或数字）”或“突然意识到”，如“hit a record high”（创历史新高）或“it hit me”（我突然想到）。",
+        "examUsage": "常见考点为“hit on/upon”（偶然想到/发现）及“hit off”（相处融洽，如“hit it off”）。真题例句：The idea hit him when he was reading the report.（他在读报告时突然想到了这个主意。）"
+      }
+    },
+    {
+      "id": "hitherto",
+      "word": "hitherto",
+      "phonetic": "/ˌhiðə'tu:/",
+      "meaning": "ad.到目前为止,迄今",
+      "similar": [],
+      "question": {
+        "wordId": "hitherto",
+        "stem": "选择 \"hitherto\" 的正确中文意思：",
+        "correct": "ad.到目前为止,迄今",
+        "options": [
+          "ad.到目前为止,迄今",
+          "n.骆驼",
+          "a.正确的,恰当的,端正的 v.改正,纠正,矫正",
+          "a.愚蠢的,迟钝的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "hither=这边，to=到；字面‘到这边为止’，引申为‘到目前为止’（强调从过去持续到现在的时间节点）。",
+        "similarWarning": "either: 两者之一；hitherto含hither，拼写区别在于hither+to vs e+ither，前者强调时间截止，后者表选择。",
+        "extendedMeaning": "",
+        "examUsage": "常用于正式文体，如考研阅读中‘hitherto unknown’（迄今未知）作为时间状语，强调历史对比，无特殊考点干扰项。"
+      }
+    },
+    {
+      "id": "hobby",
+      "word": "hobby",
+      "phonetic": "/'hɔbi/",
+      "meaning": "n.业余爱好,嗜好,兴趣",
+      "similar": [
+        "lobby",
+        "shabby",
+        "holy",
+        "obey",
+        "honey"
+      ],
+      "question": {
+        "wordId": "hobby",
+        "stem": "选择 \"hobby\" 的正确中文意思：",
+        "correct": "n.业余爱好,嗜好,兴趣",
+        "options": [
+          "n.业余爱好,嗜好,兴趣",
+          "n.门廊,门厅,(会议)休息厅",
+          "a.简陋的,破旧的,卑鄙的,不公平的",
+          "a.神圣的,圣洁的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自中古英语hoby（小马），后引申为‘嗜好’；核心物理动作无，直接记忆。",
+        "similarWarning": "lobby（门厅，游说），shabby（破旧的），holy（神圣的），obey（服从），honey（蜂蜜）；注意hobby与lobby仅首字母h/l不同，词义无关。",
+        "extendedMeaning": "无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hoist",
+      "word": "hoist",
+      "phonetic": "/hɔist/",
+      "meaning": "v.举起,升起,吊起",
+      "similar": [
+        "host",
+        "moist",
+        "christ",
+        "honest",
+        "hit",
+        "fist",
+        "hint",
+        "hose"
+      ],
+      "question": {
+        "wordId": "hoist",
+        "stem": "选择 \"hoist\" 的正确中文意思：",
+        "correct": "v.举起,升起,吊起",
+        "options": [
+          "n.基督，救世主，耶稣",
+          "a.潮湿的,湿润的,多雨的",
+          "n.主人;旅店老板;节目主持人;一大群,许多",
+          "v.举起,升起,吊起"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自中古英语hoise，可能来自低地德语hüsen（举起），核心物理动作为通过绳索或机械装置向上提升重物，强调费力或机械性的垂直运动。",
+        "similarWarning": "host（主人/主机，h+ost） vs hoist（h+oist，多一个i表示提升动作）；moist（潮湿的，m+oist） vs hoist（h+oist，字母差异明显，词义无关联）。",
+        "extendedMeaning": "考研中常引申为‘抬高（价格、地位等）’，如hoist prices（抬高价格），或指‘升起（旗帜等）’的象征性用法。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "holder",
+      "word": "holder",
+      "phonetic": "/'həuldə/",
+      "meaning": "n.持有者,占有者;(台,架等)支持物",
+      "similar": [
+        "soldier",
+        "elder",
+        "hover",
+        "border",
+        "golden",
+        "hinder",
+        "ponder",
+        "powder"
+      ],
+      "question": {
+        "wordId": "holder",
+        "stem": "选择 \"holder\" 的正确中文意思：",
+        "correct": "n.持有者,占有者;(台,架等)支持物",
+        "options": [
+          "n.持有者,占有者;(台,架等)支持物",
+          "n.士兵,军人",
+          "vi.(鸟)盘旋，翱翔，(人)逗留在附近徘徊",
+          "a.年长的,资格老的 n.长辈"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根词缀逻辑：holder = hold（持握、保持）+ -er（表示人或物的后缀）。核心动作是“握持”，因此本义为“持有者（人）”或“支持物（物）”。",
+        "similarWarning": "形近词对比：\n- shoulder（肩膀）：shoul- vs hol-，字母差异明显，但拼写接近易混；shoulder强调身体部位，holder强调持有者。\n- soldier（士兵）：sol- vs hol-，且soldier含“-ier”后缀；soldier指军人，holder无军事含义。\n- hold（动词）：holder由hold派生，但holder是名词，hold是动词。\n- hole（洞）：hole无“-er”后缀，且词义完全不同（空穴 vs 持有者）。\n- elder（年长者）：el- vs hol-，e-开头，词义指年龄较大的长辈。\n- hover（盘旋）：ho-开头但末尾-ver，动词，意为盘旋、徘徊。\n- order（命令）：or-开头，-der结尾，词义为顺序或命令。\n- border（边界）：b-开头，-der结尾，词义为边缘、国界。\n总结：holder与hold最直接相关，与其他词差异主要在首字母或后缀。",
+        "extendedMeaning": "考研僻义：在考研真题中，holder可引申为“（某种身份或权利的）拥有者”，如“shareholder”（股东）、“policyholder”（保单持有人）、“record holder”（纪录保持者）。此外，在科技或法律语境中可指“持有物”的装置，如“cup holder”（杯架）、“pen holder”（笔座）。",
+        "examUsage": "真题考点：常见搭配“shareholder”（股东）为考研经济类阅读高频词；真题例句：“The shareholder is entitled to vote on major corporate decisions.”（股东有权对公司重大决策投票。）注意与“stakeholder”（利益相关者）的区分，后者范围更广。"
+      }
+    },
+    {
+      "id": "holiday",
+      "word": "holiday",
+      "phonetic": "/'hɔlədi/",
+      "meaning": "n.假日,节日,假期,休假",
+      "similar": [
+        "solitary"
+      ],
+      "question": {
+        "wordId": "holiday",
+        "stem": "选择 \"holiday\" 的正确中文意思：",
+        "correct": "n.假日,节日,假期,休假",
+        "options": [
+          "n.假日,节日,假期,休假",
+          "n.棉花;棉线,棉纱;棉制品",
+          "a.(好)孤独的；偏僻的；单一的，唯一的",
+          "a.热的,热力的；(小规模的)上升气流"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源：holy（神圣的）+ day（日子），原指宗教节日，后泛指休息日。核心动作：从神圣的休憩日泛化为法定假日。",
+        "similarWarning": "solitary（孤独的）：sol-（独自）+ itary，强调独处状态；holiday强调公共休假日。",
+        "extendedMeaning": "考研中常见“holiday”作“假期”的集合概念，如“on holiday”（度假），但无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hollow",
+      "word": "hollow",
+      "phonetic": "/'hɔləu/",
+      "meaning": "a.空的,中空的;空洞的,空虚的 v.挖空,凿空",
+      "similar": [
+        "follow",
+        "shallow",
+        "allow",
+        "hello",
+        "fellow",
+        "pillow",
+        "yellow"
+      ],
+      "question": {
+        "wordId": "hollow",
+        "stem": "选择 \"hollow\" 的正确中文意思：",
+        "correct": "a.空的,中空的;空洞的,空虚的 v.挖空,凿空",
+        "options": [
+          "a.浅的,浅薄的 n.浅滩,浅处",
+          "vt.允许，准许；承认；给予；(for)考虑到",
+          "v.跟随,接着;领会;沿着…前进,遵循;结果是",
+          "a.空的,中空的;空洞的,空虚的 v.挖空,凿空"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *halw-（隐藏，洞穴），核心物理动作为“内部被挖空或自然形成空洞”。词根与 cave（洞穴）同源，强调内部空腔而非表面凹陷。",
+        "similarWarning": "shallow（浅的，肤浅的）：hollow 强调内部空洞，shallow 强调深度浅。对比：hollow tree（中空的树）vs shallow river（浅河）。",
+        "extendedMeaning": "【熟词僻义】① 空洞的，虚假的（指承诺、胜利等缺乏实质）：hollow victory（徒有其表的胜利）。② （声音）空洞的，沉闷的：a hollow voice（低沉空洞的声音）。",
+        "examUsage": "【真题考点】hollow out（挖空，掏空）常考搭配。例句：The tree trunk was hollowed out to make a canoe.（树干被挖空制成独木舟。）"
+      }
+    },
+    {
+      "id": "holy",
+      "word": "holy",
+      "phonetic": "/'həuli/",
+      "meaning": "a.神圣的,圣洁的",
+      "similar": [
+        "wholly",
+        "hobby",
+        "honey",
+        "jolly"
+      ],
+      "question": {
+        "wordId": "holy",
+        "stem": "选择 \"holy\" 的正确中文意思：",
+        "correct": "a.神圣的,圣洁的",
+        "options": [
+          "a.神圣的,圣洁的",
+          "ad.完全地,全部,一概",
+          "n.蜜,蜂蜜",
+          "n.业余爱好,嗜好,兴趣"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*hailagaz（完整的、健康的），与whole（完整的）同源。核心物理动作是“完整未受损”，引申为“因完整而神圣”，强调与世俗的残缺相对立的纯净状态。",
+        "similarWarning": "hold（握住） vs holy（神圣的）：holy含-y形容词后缀；hole（洞） vs holy：hole缺y且词义天差地别；wholly（完全地） vs holy：wholly是whole+ly副词，拼写多一个w；hobby（爱好） vs holy：hobby中间双b，词源无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "homework",
+      "word": "homework",
+      "phonetic": "/'həumwə:k/",
+      "meaning": "n.(学生的)家庭作业、课外人员",
+      "similar": [
+        "housework",
+        "framework"
+      ],
+      "question": {
+        "wordId": "homework",
+        "stem": "选择 \"homework\" 的正确中文意思：",
+        "correct": "n.(学生的)家庭作业、课外人员",
+        "options": [
+          "n.构架;框架;结构;组织;机构",
+          "n.家务，家事(不可数)",
+          "n.冲压机,冲床;穿孔机 v.冲压,穿孔",
+          "n.(学生的)家庭作业、课外人员"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "home（家）+ work（工作），本义是“在家做的工作”，特指学生在家完成的作业。",
+        "similarWarning": "housework（家务活）：与homework仅差一个字母（house vs home），但housework指日常家务劳动，如打扫、洗衣；homework特指学校作业。framework（框架）：拼写相似，但词根为frame（框架）+ work，意为“结构、体系”，与作业无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "homogeneous",
+      "word": "homogeneous",
+      "phonetic": "/ˌhɒmə'dʒi:niəs/",
+      "meaning": "a.同种类的，同性质的，有相同特征的",
+      "similar": [],
+      "question": {
+        "wordId": "homogeneous",
+        "stem": "选择 \"homogeneous\" 的正确中文意思：",
+        "correct": "a.同种类的，同性质的，有相同特征的",
+        "options": [
+          "a.同种类的，同性质的，有相同特征的",
+          "v./n.爬行,蠕动;缓慢(的)行进",
+          "v.(给…)穿衣,供给…衣服",
+          "n.一阵(风);爆炸冲击波;管乐器声 v.爆炸"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：homo-（相同）+ gen-（产生）+ -ous（形容词后缀）→ 相同产生的 → 同种类的。核心物理动作：同一源头生成，强调内部成分的一致性或均匀性。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“同质的，均匀的”，用于描述社会结构、群体特征或材料的物理性质，如homogeneous society（同质社会）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "honest",
+      "word": "honest",
+      "phonetic": "/'ɔnist/",
+      "meaning": "a.诚实的,正直的,老实的",
+      "similar": [
+        "contest",
+        "host",
+        "nest",
+        "hoist",
+        "honey",
+        "forest",
+        "modest",
+        "conquest"
+      ],
+      "question": {
+        "wordId": "honest",
+        "stem": "选择 \"honest\" 的正确中文意思：",
+        "correct": "a.诚实的,正直的,老实的",
+        "options": [
+          "n.主人;旅店老板;节目主持人;一大群,许多",
+          "a.诚实的,正直的,老实的",
+          "n.窝,巢 v.筑巢",
+          "n.竞争,竞赛,比赛 v.竞争,比赛,争论"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语honestus，意为‘受尊敬的、有荣誉的’，词根honor（荣誉）+形容词后缀-estus。核心动作是‘拥有荣誉’，引申为行为符合道德标准，即诚实、正直。",
+        "similarWarning": "contrast（对比，con-共同+st站）与honest（honor荣誉）字母差异：c vs h，tr vs n；hoist（升起，hoist源自荷兰语）与honest：末尾t相同但前段hois- vs hone-；modest（谦虚的，mod-尺度）与honest：m vs h，-est vs -est。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "honey",
+      "word": "honey",
+      "phonetic": "/'hʌni/",
+      "meaning": "n.蜜,蜂蜜",
+      "similar": [
+        "convey",
+        "donkey",
+        "honest",
+        "lonely",
+        "monkey",
+        "one",
+        "holy",
+        "hose"
+      ],
+      "question": {
+        "wordId": "honey",
+        "stem": "选择 \"honey\" 的正确中文意思：",
+        "correct": "n.蜜,蜂蜜",
+        "options": [
+          "a.诚实的,正直的,老实的",
+          "n.蜜,蜂蜜",
+          "v.运送,搬运,转运;传达,传播",
+          "n.驴子；蠢人；顽固的人"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语 hunig，原始日耳曼语 *hunag-，与“金黄色、甜味”相关。核心物理动作：蜜蜂采集花蜜后酿造的黏稠甜味物质，引申为“甜蜜、心爱之物”的象征。",
+        "similarWarning": "honey vs. money（m-钱，h-蜜）；honey vs. donkey（d-驴，h-蜜）；honey vs. lonely（l-孤独，h-蜜）；honey vs. honest（h-诚，但o后接n vs. n后接e；词义无关联）",
+        "extendedMeaning": "考研中常作名词“亲爱的、宝贝”（非正式称呼，如“Honey, I'm home.”），或比喻“甜蜜的事物、极好的东西”（如“a honey of a deal”）。",
+        "examUsage": "无特殊考点，基础词。"
+      }
+    },
+    {
+      "id": "honor",
+      "word": "honor",
+      "phonetic": "/'ɔnə/",
+      "meaning": "n.(honour)尊敬,敬意;荣誉,光荣 v.尊敬",
+      "similar": [
+        "horror",
+        "nor",
+        "hook",
+        "odor",
+        "honey",
+        "hover",
+        "humor",
+        "minor"
+      ],
+      "question": {
+        "wordId": "honor",
+        "stem": "选择 \"honor\" 的正确中文意思：",
+        "correct": "n.(honour)尊敬,敬意;荣誉,光荣 v.尊敬",
+        "options": [
+          "n.(honour)尊敬,敬意;荣誉,光荣 v.尊敬",
+          "n.恐怖,战栗",
+          "n.钩,吊钩,钩状物 v.钩住",
+          "conj.／ad.也不，也没有"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'honor'（荣誉、尊重），词根为 *hon-（尊敬），核心动作是‘给予高度的评价或尊敬’。",
+        "similarWarning": "horror: 恐怖（h-替换为-r，词义偏离）；nor: 也不（字母减半，词义不同）；door: 门（首字母d-替换h-，词义无关）；hook: 钩（-ok替换-or，动作不同）；hour: 小时（-our替换-or，时间概念）；odor: 气味（首字母o-替换h-，感官不同）；poor: 贫穷（首字母p-替换h-，状态相反）；color: 颜色（c-替换h-，视觉属性）。",
+        "extendedMeaning": "v. 信守，执行（如 honor a contract 履行合同）；n. 道义，节操（如 a man of honor 有节操的人）。",
+        "examUsage": "考研常见搭配：in honor of（为纪念……），真题中常作为动宾结构核心，如 'honor one's promise'（信守承诺）。"
+      }
+    },
+    {
+      "id": "honorable",
+      "word": "honorable",
+      "phonetic": "/'ɒnərəbl/",
+      "meaning": "a.(honourable)可敬的;荣誉的,光荣的",
+      "similar": [
+        "notable",
+        "horrible",
+        "favorable",
+        "comfortable",
+        "comparable",
+        "vulnerable"
+      ],
+      "question": {
+        "wordId": "honorable",
+        "stem": "选择 \"honorable\" 的正确中文意思：",
+        "correct": "a.(honourable)可敬的;荣誉的,光荣的",
+        "options": [
+          "n.值得注意的,显著的,著名的",
+          "a.令人恐惧的，可怕的；极讨厌的，糟透的",
+          "a.(favourable)赞许的,有利的,讨人喜欢的",
+          "a.(honourable)可敬的;荣誉的,光荣的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "honor（荣誉，源自拉丁语honor，意为“尊敬、荣耀”）+ -able（形容词后缀，表示“能够的、具有…性质的”）。核心动作：值得被给予荣誉的 → 可敬的、光荣的。",
+        "similarWarning": "notable（n. 值得注意的） vs honorable（a. 可敬的）：notable强调“显著、引人注目”，honorable强调“品德高尚、值得尊敬”。horrible（a. 可怕的） vs honorable：horrible词根horr-（恐惧），与honor无关。favorable（a. 有利的） vs honorable：favorable源自favor（偏爱），侧重“支持、赞同”，honorable侧重“荣誉、尊严”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hook",
+      "word": "hook",
+      "phonetic": "/huk/",
+      "meaning": "n.钩,吊钩,钩状物 v.钩住",
+      "similar": [
+        "cook",
+        "look",
+        "brook",
+        "honor",
+        "shock",
+        "shoot"
+      ],
+      "question": {
+        "wordId": "hook",
+        "stem": "选择 \"hook\" 的正确中文意思：",
+        "correct": "n.钩,吊钩,钩状物 v.钩住",
+        "options": [
+          "vi./n.看，注视 v.好像，显得 n.外表，脸色",
+          "n.厨师 v.烹调，烧煮；纂改(账目)，捏造",
+          "n.小溪vt.[常用于否定句或疑问句]容忍",
+          "n.钩,吊钩,钩状物 v.钩住"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模拟钩子抓取或悬挂时的动作音效，核心物理动作为“弯曲的物体抓住或悬挂”。",
+        "similarWarning": "hook vs. book (书)：b-（书本） vs. h-（钩子），词源无关；hook vs. cook (烹饪)：c-（火） vs. h-（钩），动作不同；hook vs. look (看)：l-（视线） vs. h-（钩），视觉与抓取差异。",
+        "extendedMeaning": "hook作为动词在考研中常引申为“吸引、引诱”（如hook customers），或“连接、接入”（如hook up with）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hop",
+      "word": "hop",
+      "phonetic": "/hɔp/",
+      "meaning": "v.人单足跳;跳上(车等) n.蹦跳;短程飞行",
+      "similar": [
+        "chop",
+        "cop",
+        "hip",
+        "how",
+        "pop"
+      ],
+      "question": {
+        "wordId": "hop",
+        "stem": "选择 \"hop\" 的正确中文意思：",
+        "correct": "v.人单足跳;跳上(车等) n.蹦跳;短程飞行",
+        "options": [
+          "n.臀部，髋；屋脊",
+          "v.人单足跳;跳上(车等) n.蹦跳;短程飞行",
+          "v.砍,劈,斩 n.排骨,肉块",
+          "n.警察(slang 俚语)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿轻快跳跃的声音。核心物理动作：单足短距离弹跳，强调快速、轻盈、不连续。",
+        "similarWarning": "chop（砍，切） vs hop：chop以ch开头，强调切割动作；hop以h开头，强调跳跃。\nhope（希望） vs hop：hope多一个e，表示期望；hop无e，表示跳跃。\nshop（商店） vs hop：shop以sh开头，表示购物场所；hop以h开头，表示跳跃。\ncop（警察） vs hop：cop以c开头，表示警察；hop以h开头，表示跳跃。\nhip（臀部） vs hop：hip以i结尾，表示身体部位；hop以o结尾，表示动作。\nhot（热的） vs hop：hot以t结尾，表示温度；hop以p结尾，表示动作。\nhow（如何） vs hop：how以w结尾，表示方式；hop以p结尾，表示动作。\npop（流行音乐；砰声） vs hop：pop以p开头，表示声音或音乐类型；hop以h开头，表示跳跃。",
+        "extendedMeaning": "跳上（车、飞机等）：hop on a bus（跳上公交车）；hop a flight（搭乘航班）。短程飞行（尤指廉价航空）：a hop from London to Paris（从伦敦到巴黎的短途飞行）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hopeful",
+      "word": "hopeful",
+      "phonetic": "/'həupful/",
+      "meaning": "a.给人希望的，抱有希望的",
+      "similar": [
+        "powerful"
+      ],
+      "question": {
+        "wordId": "hopeful",
+        "stem": "选择 \"hopeful\" 的正确中文意思：",
+        "correct": "a.给人希望的，抱有希望的",
+        "options": [
+          "n.花瓶,瓶",
+          "a.可行的;切实可行的;行得通的;可用的",
+          "a.强大的,有力的,有权的",
+          "a.给人希望的，抱有希望的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "hope（希望）+ -ful（充满...的）→ 充满希望的。核心动作：内心怀有积极预期或展现积极前景。",
+        "similarWarning": "powerful（强大的）：词根power（力量）+ -ful，强调力量或影响力；hopeful强调情感上的期待。",
+        "extendedMeaning": "（考研中可指）有前途的，有潜力的：如a hopeful candidate（有希望的候选人），侧重未来成功可能性。",
+        "examUsage": "常见于阅读中作形容词，如remain hopeful（保持乐观），或名词化the hopeful（有希望的人）。"
+      }
+    },
+    {
+      "id": "horizon",
+      "word": "horizon",
+      "phonetic": "/hə'raizən/",
+      "meaning": "n.地平线;眼界,见识",
+      "similar": [],
+      "question": {
+        "wordId": "horizon",
+        "stem": "选择 \"horizon\" 的正确中文意思：",
+        "correct": "n.地平线;眼界,见识",
+        "options": [
+          "n.扣子,钩子;握手 v.扣住,钩住;紧握,紧抱",
+          "vt.使混乱，使崩溃，使分裂，使瓦解",
+          "n.讯问，审讯；试验；试用；尝试",
+          "n.地平线;眼界,见识"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语horizein（限定、划分），由horos（边界）派生。核心物理动作为“划定界限”，引申为视野的边界线（地平线），再抽象为认知的边界（眼界）。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“认知边界、思想范围”，如broaden one's horizon（拓宽视野）中的horizon非指物理地平线，而是知识或经验的局限。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "horizontal",
+      "word": "horizontal",
+      "phonetic": "/'hɔri'zɔntəl/",
+      "meaning": "a.地平线的;水平的",
+      "similar": [
+        "oriental",
+        "original"
+      ],
+      "question": {
+        "wordId": "horizontal",
+        "stem": "选择 \"horizontal\" 的正确中文意思：",
+        "correct": "a.地平线的;水平的",
+        "options": [
+          "a.最初的,原文的;新颖的 n.原物,原作,原文",
+          "a.东方的,东方诸国的 n.东方人",
+          "n.(fertiliser)肥料",
+          "a.地平线的;水平的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 horizon（地平线）+ -al（形容词后缀）。horizon 本义为‘界限、分界’，引申为天地交界之线。核心物理动作：视觉上地面与天空的界限，强调‘与地面平行’的状态，即水平的。",
+        "similarWarning": "形近词对比：\n- oriental（东方的）：源自 orient（东方），字母差异在于 orien- 与 horiz-，词根不同，含义无关。\n- original（原始的）：源自 origin（起源），字母差异在于 ori- 与 hori-，词根不同，含义无关。\n区分点：horizontal 强调‘地平’；oriental 强调‘东方’；original 强调‘最初’。",
+        "extendedMeaning": "考研僻义：在经济学或图表语境中，horizontal 可引申为‘横向的、并列的’，如 horizontal integration（横向整合），指同一行业企业合并，区别于 vertical（纵向的）。",
+        "examUsage": "真题考点：常与 vertical 对比出现，考查‘水平’与‘垂直’的区分。核心搭配：horizontal line（水平线），horizontal axis（横轴）。真题例句：The horizontal axis represents time.（横轴代表时间。）"
+      }
+    },
+    {
+      "id": "horn",
+      "word": "horn",
+      "phonetic": "/hɔ:n/",
+      "meaning": "n.(牛羊等的)角;号,喇叭;角状物;角制品",
+      "similar": [
+        "thorn",
+        "born",
+        "corn",
+        "hound",
+        "mourn",
+        "scorn",
+        "shore"
+      ],
+      "question": {
+        "wordId": "horn",
+        "stem": "选择 \"horn\" 的正确中文意思：",
+        "correct": "n.(牛羊等的)角;号,喇叭;角状物;角制品",
+        "options": [
+          "n.谷物,庄稼,玉米",
+          "a.出生的，产生的；天生的，十足的",
+          "n.(牛羊等的)角;号,喇叭;角状物;角制品",
+          "n.刺,荆棘"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自原始印欧语词根*ker-（角、头）。核心物理动作为动物头部突出的坚硬骨质物，后引申为用角制成的吹奏乐器（号角），以及任何角状物。",
+        "similarWarning": "thorn（刺，th-像刺的尖头）vs horn（角，h-像角的弧度）；corn（谷物，c-像谷粒）vs horn（角）；scorn（鄙视，s-像嘶声+horn）vs horn（角，scorn源自“嗤之以鼻”的动作）。",
+        "extendedMeaning": "1. 汽车喇叭（car horn）；2. 角状物（如horn of plenty丰饶角）；3. 号角（hunting horn）。",
+        "examUsage": "blow one's own horn（自吹自擂）为考研高频习语；horn in（闯入、干涉）常见于阅读理解中的非正式表达。"
+      }
+    },
+    {
+      "id": "horrible",
+      "word": "horrible",
+      "phonetic": "/'hɔrəbl/",
+      "meaning": "a.令人恐惧的，可怕的；极讨厌的，糟透的",
+      "similar": [
+        "honorable",
+        "hostile",
+        "portable",
+        "formidable"
+      ],
+      "question": {
+        "wordId": "horrible",
+        "stem": "选择 \"horrible\" 的正确中文意思：",
+        "correct": "a.令人恐惧的，可怕的；极讨厌的，糟透的",
+        "options": [
+          "a.轻便的,手提(式)的,可移动的",
+          "a.敌对的,敌方的,敌意的",
+          "a.(honourable)可敬的;荣誉的,光荣的",
+          "a.令人恐惧的，可怕的；极讨厌的，糟透的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语horrere（因恐惧而颤抖、毛发倒竖），-ible为形容词后缀（可…的）。核心物理动作：因恐惧而毛发竖起、战栗。引申为‘令人恐惧的’；口语中弱化为‘极讨厌的、糟透的’。",
+        "similarWarning": "形近词辨析：①terrible（terr-恐惧，程度更重，常指灾难性可怕）；②honorable（honor荣誉，-able可…的，意为‘可敬的’）；③hostile（host敌人，-ile属于…的，意为‘敌对的’）。核心区别：horrible强调主观厌恶或轻微恐惧，terrible侧重客观严重性。",
+        "extendedMeaning": "考研僻义：口语或非正式语境中表‘极差的、糟糕透顶的’，如‘horrible weather’（恶劣天气）‘horrible service’（极差的服务），不限于恐惧感。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "horror",
+      "word": "horror",
+      "phonetic": "/'hɔrə/",
+      "meaning": "n.恐怖,战栗",
+      "similar": [
+        "error",
+        "honor",
+        "borrow",
+        "harbor",
+        "mirror",
+        "sorrow",
+        "terror",
+        "corridor"
+      ],
+      "question": {
+        "wordId": "horror",
+        "stem": "选择 \"horror\" 的正确中文意思：",
+        "correct": "n.恐怖,战栗",
+        "options": [
+          "vt.借，借入；(思想、文字等)采用，抄袭",
+          "n.(honour)尊敬,敬意;荣誉,光荣 v.尊敬",
+          "n.错误,过失",
+          "n.恐怖,战栗"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 horrere（因恐惧而毛发竖立、发抖）。词根 horr- 表示“颤抖、恐惧”，对应物理动作“因极度恐惧而毛发倒竖、身体战栗”。-or 是名词后缀，表示“状态或行为”。故 horror 本义为“毛骨悚然、战栗的状态”，引申为“恐怖”。",
+        "similarWarning": "形近词对比：\n- error (错误)：er- (偏离) + ror (跑) → 偏离正确路径，强调“失误”。\n- terror (恐怖)：terr- (使惊吓) + or → 强调“极度惊吓”，程度比 horror 更重，常指政治或暴力恐怖。\n- horror 侧重“内心战栗、厌恶感”，如 horror movie（恐怖片）。",
+        "extendedMeaning": "在考研语境中，horror 可引申为“令人厌恶或震惊的事物”，如 the horrors of war（战争的惨状），非字面“恐惧”本身。",
+        "examUsage": "常见考点搭配：\n- in horror（惊恐地），如 He stared at the scene in horror. 真题中常作情感状语。\n- horror story（恐怖故事/极不愉快的经历），如 The trip was a horror story.（那次旅行糟透了。）"
+      }
+    },
+    {
+      "id": "horsepower",
+      "word": "horsepower",
+      "phonetic": "/'hɔ:sˌpauə/",
+      "meaning": "n.[机]马力",
+      "similar": [],
+      "question": {
+        "wordId": "horsepower",
+        "stem": "选择 \"horsepower\" 的正确中文意思：",
+        "correct": "n.[机]马力",
+        "options": [
+          "n.[机]马力",
+          "a.有节制的,中等的,适度的,温和的,稳健的",
+          "v.淹没,覆没,压倒,制服,使不知所措",
+          "n.篱笆,树篱,障碍物 v.用树篱围住"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "horse（马）+ power（力量）。源自詹姆斯·瓦特为推销蒸汽机而创造的营销单位，通过比较马匹的牵引力来定义功率，直译为“一匹马的力量”，后成为功率的通用计量单位。",
+        "similarWarning": "moreover（此外，而且）：由more（更多）+ over（在...上）组成，表示递进关系；horsepower（马力）是复合名词，两者拼写相似但词性、含义完全不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hose",
+      "word": "hose",
+      "phonetic": "/həuz/",
+      "meaning": "n.水龙带,软管 v.用软管(淋浇,冲洗)",
+      "similar": [
+        "dose",
+        "host",
+        "nose",
+        "pose",
+        "rose",
+        "chase",
+        "choke",
+        "ghost"
+      ],
+      "question": {
+        "wordId": "hose",
+        "stem": "选择 \"hose\" 的正确中文意思：",
+        "correct": "n.水龙带,软管 v.用软管(淋浇,冲洗)",
+        "options": [
+          "n.水龙带,软管 v.用软管(淋浇,冲洗)",
+          "n.主人;旅店老板;节目主持人;一大群,许多",
+          "n.剂量,一服,一剂 v.(给…)服药",
+          "n.鼻子;(飞机,船等的)前端,突出部分"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，但核心物理动作是“通过软管输送液体”。n.指可弯曲的管道（水龙带/软管）；v.指用软管冲洗或浇淋（hose down）。",
+        "similarWarning": "horse（马，n.） vs hose：hose无r；house（房子，n.） vs hose：house有u；those（那些，pron.） vs hose：those有t；whose（谁的，pron.） vs hose：whose有w；dose（剂量，n.） vs hose：dose有d；hole（洞，n.） vs hose：hole有l；home（家，n.） vs hose：home有m；hope（希望，n./v.） vs hose：hope有p。",
+        "extendedMeaning": "考研僻义：v. 用软管冲洗（常指冲洗车辆、地面等），如\"hose down the car\"；n. 可指消防水带。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hospitality",
+      "word": "hospitality",
+      "phonetic": "/ˌhɔspi'tæləti/",
+      "meaning": "n.好客,殷勤,款待",
+      "similar": [
+        "possibility"
+      ],
+      "question": {
+        "wordId": "hospitality",
+        "stem": "选择 \"hospitality\" 的正确中文意思：",
+        "correct": "n.好客,殷勤,款待",
+        "options": [
+          "n.好客,殷勤,款待",
+          "v.(generalise)归纳,概括;推广,普及",
+          "a.理性的,合理的",
+          "n.可能,可能性;可能的事,希望"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语hospes（客人，陌生人），hospit-（主人） + -ality（名词后缀）。核心动作：主人对待客人的态度与行为，即好客、殷勤。",
+        "similarWarning": "形近词：possibility（可能性）。差异：hospitality以hospit-开头，possibility以poss-开头。hospitality强调待客，possibility强调可能。",
+        "extendedMeaning": "在考研外刊中可引申为“（对游客、客户的）接待服务”或“（组织的）热情氛围”，如“the hospitality industry”（酒店服务业）、“corporate hospitality”（企业招待）。",
+        "examUsage": "真题考点：常与extend/show/offer搭配，如“extend hospitality to sb”（对某人表示好客），或作为阅读理解中描述文化差异或商业行为的题眼。"
+      }
+    },
+    {
+      "id": "host",
+      "word": "host",
+      "phonetic": "/həust/",
+      "meaning": "n.主人;旅店老板;节目主持人;一大群,许多",
+      "similar": [
+        "ghost",
+        "hoist",
+        "hose",
+        "post",
+        "honest",
+        "boast",
+        "boost",
+        "chest"
+      ],
+      "question": {
+        "wordId": "host",
+        "stem": "选择 \"host\" 的正确中文意思：",
+        "correct": "n.主人;旅店老板;节目主持人;一大群,许多",
+        "options": [
+          "n.水龙带,软管 v.用软管(淋浇,冲洗)",
+          "n.主人;旅店老板;节目主持人;一大群,许多",
+          "n.鬼魂,幽灵",
+          "v.举起,升起,吊起"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语hospes（客人/陌生人），本义为“接待客人的人”。词根演变：host-（主人/接待者）→ 引申为“旅店老板”（接待旅客）→ “节目主持人”（接待嘉宾、观众）→ 抽象为“一大群”（如主人接待众多客人，喻指数量庞大）。核心动作：接待、容纳。",
+        "similarWarning": "ghost（鬼魂）：g-开头，与host仅首字母差，ghost指幽灵；hoist（升起）：ho-开头，与host差字母i，hoist指吊起；host与hot（热的）差s，hot为形容词；cost（花费）：c-开头，与host差c，cost指成本；hose（软管）：hose与host差t，hose为水管；most（最多）：m-开头，与host差m，most表程度；post（邮政/职位）：p-开头，与host差p，post指邮件或岗位；honest（诚实的）：honest多字母n和e，与host无关。",
+        "extendedMeaning": "考研僻义：n. 寄主（生物学术语，如host cell宿主细胞）；v. 主办（如host the Olympics）；n. 大量（a host of problems）。",
+        "examUsage": "真题考点：a host of（大量，许多）常作阅读中列举或强调结构，如a host of factors（众多因素）。"
+      }
+    },
+    {
+      "id": "hostage",
+      "word": "hostage",
+      "phonetic": "/'hɔstidʒ/",
+      "meaning": "n.人质",
+      "similar": [
+        "postage",
+        "shortage",
+        "cottage",
+        "hostile",
+        "voltage",
+        "heritage",
+        "hesitate",
+        "mortgage"
+      ],
+      "question": {
+        "wordId": "hostage",
+        "stem": "选择 \"hostage\" 的正确中文意思：",
+        "correct": "n.人质",
+        "options": [
+          "n.人质",
+          "n.村舍,小屋,别墅",
+          "n.邮费,邮资",
+          "n.不足,缺少"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为host（客人/主人）+后缀-age（表状态/事物），原指“客人被扣留的状态”，引申为“人质”。核心动作：主人将客人扣留作为筹码。",
+        "similarWarning": "形近词对比：hostage vs. hostile (hostile为形容词，意为“敌意的”，后缀-ile表性质；hostage为名词，后缀-age表状态)。",
+        "extendedMeaning": "在考研中，hostage常引申为“被控制的人或物”，如“economic hostage”（经济人质，指受制于经济依赖的实体）。",
+        "examUsage": "真题考点：搭配“hold/take sb hostage”（扣押/劫持某人作为人质），常用于阅读中描述政治或经济胁迫场景。"
+      }
+    },
+    {
+      "id": "hostess",
+      "word": "hostess",
+      "phonetic": "/'həustis/",
+      "meaning": "n.女主人,女主持人",
+      "similar": [
+        "possess",
+        "distress",
+        "mistress",
+        "restless"
+      ],
+      "question": {
+        "wordId": "hostess",
+        "stem": "选择 \"hostess\" 的正确中文意思：",
+        "correct": "n.女主人,女主持人",
+        "options": [
+          "n.苦恼;危难;不幸 v.使苦恼",
+          "n.女主人;主妇;情妇,情人",
+          "v.占有,拥有",
+          "n.女主人,女主持人"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "host（主人）+ -ess（阴性后缀）→ 女主人。词根host-源自拉丁语hospes（客人、主人），核心动作是“接待”。",
+        "similarWarning": "hostess（女主人）vs. mistress（女主人/情妇）：hostess强调接待角色，mistress侧重控制或关系。restless（不安的）无关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hostile",
+      "word": "hostile",
+      "phonetic": "/'hɔstail/",
+      "meaning": "a.敌对的,敌方的,敌意的",
+      "similar": [
+        "hostage",
+        "horrible",
+        "positive"
+      ],
+      "question": {
+        "wordId": "hostile",
+        "stem": "选择 \"hostile\" 的正确中文意思：",
+        "correct": "a.敌对的,敌方的,敌意的",
+        "options": [
+          "a.敌对的,敌方的,敌意的",
+          "a.肯定的,积极的,绝对的,无疑的,正的",
+          "n.人质",
+          "a.令人恐惧的，可怕的；极讨厌的，糟透的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语hostis（敌人，陌生人），与host（主人）同源但分化：主人最初是款待陌生人的人，而陌生人可能成为敌人。-ile为形容词后缀，表示“倾向于…的”。核心动作画面：对方是敌人/陌生人，因此抱有敌意。",
+        "similarWarning": "hostage（人质）：host-（陌生人/敌人）+ -age（状态），指被扣留的敌人；hostile强调态度敌对，hostage强调被扣押的人。horrible（可怕的）：horr-（颤抖）+ -ible，与hostile拼写接近但词根不同；positive（积极的）与possible（可能的）仅词尾-itive/-ible差异，含义无关。",
+        "extendedMeaning": "在考研阅读中常引申为“不利的，恶劣的（环境/条件）”，如hostile environment（恶劣环境）或hostile takeover（恶意收购，经济类文章高频）。",
+        "examUsage": "真题考点：hostile常作为态度题选项，与friendly、indifferent等对立。固定搭配hostile to/toward（对…有敌意），如be hostile to change（抗拒变革）。"
+      }
+    },
+    {
+      "id": "hound",
+      "word": "hound",
+      "phonetic": "/haund/",
+      "meaning": "n.猎狗；卑鄙的人 vt.用猎狗追，追逐",
+      "similar": [
+        "bound",
+        "found",
+        "pound",
+        "wound",
+        "abound",
+        "around",
+        "ground",
+        "fond"
+      ],
+      "question": {
+        "wordId": "hound",
+        "stem": "选择 \"hound\" 的正确中文意思：",
+        "correct": "n.猎狗；卑鄙的人 vt.用猎狗追，追逐",
+        "options": [
+          "n.磅;英镑 v.(连续)猛击,(猛烈)敲打,捣碎",
+          "v./n.跳(跃) a.被束缚的，一定的；n.界限",
+          "n.猎狗；卑鄙的人 vt.用猎狗追，追逐",
+          "vt.建立;创立;创办;使有根据;铸造;熔制"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "hound 源自古英语 hund，本义为“狗”，特指用于狩猎的猎犬。词根与 canine（犬科）同源，核心动作是“追逐、追捕”。引申为动词“用猎狗追”或“纠缠不休地追赶”，强调持续、紧迫的追踪行为。",
+        "similarWarning": "bound（边界/跳跃）、found（建立/发现）、pound（磅/重击）、round（圆的/回合）、sound（声音/健康的）、wound（伤口/缠绕）、abound（大量存在）、around（周围）。这些词与 hound 仅首字母不同，但词义差异显著，需注意拼写区别。",
+        "extendedMeaning": "在考研中，hound 常引申为“纠缠、烦扰”，如 be hounded by reporters（被记者纠缠），强调持续不断的骚扰或追逼，并非字面意义上的物理追逐。",
+        "examUsage": "真题考点：hound sb. out of sth.（迫使某人离开某地），如：He was hounded out of office.（他被逼辞职）。常见搭配：hound sb. for sth.（为某事纠缠某人），注意其消极、逼迫的语义色彩。"
+      }
+    },
+    {
+      "id": "household",
+      "word": "household",
+      "phonetic": "/'haushəuld/",
+      "meaning": "n.家庭，家人 a.家庭(务)的，家常的",
+      "similar": [
+        "housework"
+      ],
+      "question": {
+        "wordId": "household",
+        "stem": "选择 \"household\" 的正确中文意思：",
+        "correct": "n.家庭，家人 a.家庭(务)的，家常的",
+        "options": [
+          "a.确切的,正确的,精确的",
+          "n.家务，家事(不可数)",
+          "a.顽皮的,淘气的",
+          "n.家庭，家人 a.家庭(务)的，家常的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由house（房子）+hold（持有、掌管）构成，字面意为“掌管房子的人或物”，核心动作指向“同一屋檐下共同生活与管理的单位”，引申为家庭及家庭事务。",
+        "similarWarning": "形近词housework（家务活）：household侧重家庭成员或家庭整体；housework仅指家务劳动，无“家庭”义。",
+        "extendedMeaning": "在考研中常引申为“常见的、普通的”（如household name家喻户晓的名字），或“家庭消费的”（如household income家庭收入）。",
+        "examUsage": "考点搭配：household chores（家务活）、household appliance（家用电器）。真题例句：Television is now a household necessity.（电视现在是家庭必需品。）"
+      }
+    },
+    {
+      "id": "housewife",
+      "word": "housewife",
+      "phonetic": "/'hauswaif/",
+      "meaning": "n.家庭主妇",
+      "similar": [
+        "housework"
+      ],
+      "question": {
+        "wordId": "housewife",
+        "stem": "选择 \"housewife\" 的正确中文意思：",
+        "correct": "n.家庭主妇",
+        "options": [
+          "n.家务，家事(不可数)",
+          "n.商业,生意;事务,业务,职责",
+          "n.家庭主妇",
+          "a.(okey，OK，O.K.)好，行，不错 n.同意"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "house（房子）+ wife（妻子）→ 在房子里操持家务的妻子 → 家庭主妇。核心动作：妻子与家庭的绑定关系。",
+        "similarWarning": "housework（家务劳动）：-work（工作）强调劳动本身；housewife（家庭主妇）：-wife（妻子）指人。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "housework",
+      "word": "housework",
+      "phonetic": "/'hauswə:k/",
+      "meaning": "n.家务，家事(不可数)",
+      "similar": [
+        "homework",
+        "household",
+        "housewife"
+      ],
+      "question": {
+        "wordId": "housework",
+        "stem": "选择 \"housework\" 的正确中文意思：",
+        "correct": "n.家务，家事(不可数)",
+        "options": [
+          "n.(学生的)家庭作业、课外人员",
+          "n.家庭主妇",
+          "n.家庭，家人 a.家庭(务)的，家常的",
+          "n.家务，家事(不可数)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "house（房子）+ work（工作）→ 房子里的工作 → 家务。",
+        "similarWarning": "homework（作业，指学校布置的任务）；household（家庭，指家庭整体或住户）；housewife（家庭主妇）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "housing",
+      "word": "housing",
+      "phonetic": "/'hausiŋ/",
+      "meaning": "n.住房，住房供给；(外、阀)壳，防护罩",
+      "similar": [
+        "cousin",
+        "outing",
+        "thousand"
+      ],
+      "question": {
+        "wordId": "housing",
+        "stem": "选择 \"housing\" 的正确中文意思：",
+        "correct": "n.住房，住房供给；(外、阀)壳，防护罩",
+        "options": [
+          "n.堂(或表)兄弟,堂(或表)姐妹",
+          "num./n./a.一千；[pl.]许许多多，成千上万",
+          "n.住房，住房供给；(外、阀)壳，防护罩",
+          "n.外出,旅行,散步"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自动词house（给…提供住房）的动名词形式，核心物理动作为“遮蔽、安置”。house本身源自原始日耳曼语，意为“居住场所”。-ing后缀将动作名词化，表示“提供住所的行为”或“作为遮蔽物的外壳”，如机器防护罩也由此引申，本质是“保护性覆盖物”。",
+        "similarWarning": "cousin（表亲）与housing无关，但拼写易混：cousin含‘cous-’（同族），housing聚焦‘house-’。outing（短途旅行）与housing无直接联系，但‘-ing’后缀可对比。thousand（千）与housing拼写差异大，不构成显著干扰。",
+        "extendedMeaning": "在考研真题中，housing常引申为“住房供给政策”或“住房问题（如短缺、危机）”，而非仅指具体房屋。例如：affordable housing（经济适用房政策）。此外，在科技或机械语境中，housing指“（阀、泵的）外壳、防护罩”，强调保护内部部件。",
+        "examUsage": "真题常考搭配：housing shortage（住房短缺）、housing market（住房市场）。作为核心题眼出现时，常与urbanization（城市化）、rent（租金）等词结合，考查社会类阅读中的因果逻辑。例如：The housing crisis has intensified due to the influx of migrant workers.（因外来务工人员涌入，住房危机加剧。）"
+      }
+    },
+    {
+      "id": "hover",
+      "word": "hover",
+      "phonetic": "/'hɔvə/",
+      "meaning": "vi.(鸟)盘旋，翱翔，(人)逗留在附近徘徊",
+      "similar": [
+        "cover",
+        "lover",
+        "whoever",
+        "govern",
+        "holder",
+        "shiver",
+        "shower",
+        "dove"
+      ],
+      "question": {
+        "wordId": "hover",
+        "stem": "选择 \"hover\" 的正确中文意思：",
+        "correct": "vi.(鸟)盘旋，翱翔，(人)逗留在附近徘徊",
+        "options": [
+          "vi.(鸟)盘旋，翱翔，(人)逗留在附近徘徊",
+          "v.覆盖,包括,涉及，报道 n.盖子,套子;(书的)封面",
+          "n.爱好者;(pl.)情侣",
+          "pron.[引导名词从句]谁；无论谁；究竟是谁"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自中古英语hoveren，与heave（举起）同源，核心物理动作为“悬停于空中”。词根本质是“在某个位置持续轻微上下浮动”，引申为“不确定地徘徊”。",
+        "similarWarning": "over（在…上方）：h-开头强调“悬停动作”，o-开头强调“垂直上方位移”；cover（覆盖）：c-开头表“遮蔽”，h-开头表“空中滞留”；shiver（颤抖）：sh-开头表“高频抖动”，h-开头表“低频悬浮”。",
+        "extendedMeaning": "考研僻义：指人处于犹豫不决、观望或等待的状态，如“hover between two choices”（在两种选择间犹豫不决）。",
+        "examUsage": "真题考点：常与over/around搭配，如“hover over a decision”（对决定犹豫不决），干扰项常与“shiver”混淆（shiver表颤抖，无悬停义）。"
+      }
+    },
+    {
+      "id": "how",
+      "word": "how",
+      "phonetic": "/hau/",
+      "meaning": "ad.1.(表示方法、手段、状态)怎样；如何",
+      "similar": [
+        "howl",
+        "bow",
+        "cow",
+        "hop",
+        "row",
+        "sow",
+        "tow"
+      ],
+      "question": {
+        "wordId": "how",
+        "stem": "选择 \"how\" 的正确中文意思：",
+        "correct": "ad.1.(表示方法、手段、状态)怎样；如何",
+        "options": [
+          "ad.1.(表示方法、手段、状态)怎样；如何",
+          "n.怒吼，嗥叫 vi.(风等)怒吼，咆哮",
+          "v./n.鞠躬,点头 n.弓(形);蝴蝶结",
+          "n.母牛,奶牛"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模仿疑问或感叹的发音，核心动作是‘询问方式或程度’。",
+        "similarWarning": "howl（嚎叫）：how + l（长音），强调声音延长；show（展示）：sh-开头，与how无关；bow（弓/鞠躬）：b-开头，词义完全不同；cow（奶牛）：c-开头，名词；hop（跳跃）：h-开头，动作；hot（热的）：t结尾，形容词；low（低的）：l-开头，反义；now（现在）：n-开头，时间副词。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "howl",
+      "word": "howl",
+      "phonetic": "/haul/",
+      "meaning": "n.怒吼，嗥叫 vi.(风等)怒吼，咆哮",
+      "similar": [
+        "how",
+        "owl",
+        "bowl",
+        "bowel",
+        "towel",
+        "vowel"
+      ],
+      "question": {
+        "wordId": "howl",
+        "stem": "选择 \"howl\" 的正确中文意思：",
+        "correct": "n.怒吼，嗥叫 vi.(风等)怒吼，咆哮",
+        "options": [
+          "n.碗(状物),钵",
+          "n.猫头鹰",
+          "n.怒吼，嗥叫 vi.(风等)怒吼，咆哮",
+          "ad.1.(表示方法、手段、状态)怎样；如何"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟狼或风的嚎叫声，词根为拟声基础，与how同源，表示‘高声喊叫’；核心动作是发出低沉、持续的吼声。",
+        "similarWarning": "howl vs how (如何)：howl多了字母‘l’，表示吼叫；vs owl (猫头鹰)：首字母h与o互换，howl强调声音，owl指动物。",
+        "extendedMeaning": "在考研外刊中，howl可引申为‘强烈抗议’或‘狂笑’，如“the crowd howled with laughter”。",
+        "examUsage": "常考搭配：howl with laughter (狂笑)，howl down (用吼声淹没)。真题例句：“The wind howled through the valley.”"
+      }
+    },
+    {
+      "id": "huddle",
+      "word": "huddle",
+      "phonetic": "/'hʌdl/",
+      "meaning": "n./v.拥挤;聚集v.(因寒冷、害怕而)缩成一团",
+      "similar": [
+        "bundle",
+        "handle",
+        "humble",
+        "paddle",
+        "riddle",
+        "saddle"
+      ],
+      "question": {
+        "wordId": "huddle",
+        "stem": "选择 \"huddle\" 的正确中文意思：",
+        "correct": "n./v.拥挤;聚集v.(因寒冷、害怕而)缩成一团",
+        "options": [
+          "n./v.拥挤;聚集v.(因寒冷、害怕而)缩成一团",
+          "n.捆,包,束",
+          "n.柄,把手,拉手 v.处理,对待,操纵;触,抚养",
+          "a.谦卑的,恭顺的;地位低下的 v.降低,贬低"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：hudd-（拟声词根，模仿挤作一团时的碰撞声）。核心物理动作：多个物体或人向中心紧缩、堆叠。词义演变：拟声→物理拥挤→因寒冷/害怕而蜷缩。",
+        "similarWarning": "bundle（捆扎，强调绑成一包）；handle（把手，处理）；humble（谦卑的，低下的）；middle（中间）；paddle（桨，涉水）；riddle（谜语，筛子）；saddle（马鞍，使负担）。对比：huddle vs bundle，前者强调拥挤和蜷缩，后者强调捆扎成束。",
+        "extendedMeaning": "考研僻义：密谈，私下商议（如‘huddle with’表示秘密开会或商量）。例：The team huddled to discuss strategy. 团队聚在一起密谈策略。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hug",
+      "word": "hug",
+      "phonetic": "/hʌg/",
+      "meaning": "v./n.热烈拥抱,紧抱",
+      "similar": [
+        "bug",
+        "hum",
+        "hut",
+        "jug",
+        "mug",
+        "rug",
+        "tug",
+        "shrug"
+      ],
+      "question": {
+        "wordId": "hug",
+        "stem": "选择 \"hug\" 的正确中文意思：",
+        "correct": "v./n.热烈拥抱,紧抱",
+        "options": [
+          "n.小屋,棚屋",
+          "v.哼曲子；发嗡嗡声；忙碌n.嗡嗡声，嘈杂声",
+          "n.臭虫;小毛病;窃听器 v.窃听",
+          "v./n.热烈拥抱,紧抱"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟拥抱时发出的咕哝声或身体紧贴的摩擦声。核心物理动作是双臂环绕并施加压力，强调紧密贴合与温暖感。",
+        "similarWarning": "huge（巨大的，与hug差一个字母e，意为巨大而非拥抱）；bug（虫子，差首字母b，拼写相似但意义无关）；hug与hut（小屋，差尾字母t，hut为名词，hug为动词）。",
+        "extendedMeaning": "",
+        "examUsage": "考研中常考短语：hug oneself on（因…而沾沾自喜），如：He hugged himself on his success. 另在完形或阅读中作动词表示‘紧靠’（如道路、海岸线等），如：The road hugs the coast. 此义为真题高频题眼。"
+      }
+    },
+    {
+      "id": "hum",
+      "word": "hum",
+      "phonetic": "/hʌm/",
+      "meaning": "v.哼曲子；发嗡嗡声；忙碌n.嗡嗡声，嘈杂声",
+      "similar": [
+        "gum",
+        "ham",
+        "hug",
+        "hut",
+        "sum",
+        "humid",
+        "humor",
+        "thumb"
+      ],
+      "question": {
+        "wordId": "hum",
+        "stem": "选择 \"hum\" 的正确中文意思：",
+        "correct": "v.哼曲子；发嗡嗡声；忙碌n.嗡嗡声，嘈杂声",
+        "options": [
+          "v.哼曲子；发嗡嗡声；忙碌n.嗡嗡声，嘈杂声",
+          "n.树胶;口香糖",
+          "n.火腿",
+          "v./n.热烈拥抱,紧抱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿蜜蜂或机械持续发出的低沉振动声，核心动作是“发出嗡嗡声”。引申为哼唱（类似低音振动）或忙碌（如蜂巢般嘈杂活动）。",
+        "similarWarning": "ham（火腿，n.；表演过火，v.）vs hum（嗡嗡声，v./n.）：a/u 元音差异，前者指猪腿肉或夸张表演，后者指持续低音。hug（拥抱，v./n.）vs hum：g/m 结尾不同，前者是双臂环抱，后者是声音振动。",
+        "extendedMeaning": "（考研僻义）v.活跃，繁忙：hum with activity 表示“充满繁忙的活动”，如“The office hummed with preparations.”（办公室因准备工作而一片繁忙）。",
+        "examUsage": "（真题考点）常用搭配“hum along to”表示“随着……哼唱”，如“She hummed along to the tune.”（她随着曲调哼唱）。在阅读理解中，hum 作“忙碌”义时需注意语境，常与 buzz（嗡嗡声；繁忙）同义替换。"
+      }
+    },
+    {
+      "id": "humanity",
+      "word": "humanity",
+      "phonetic": "/hju:'mænəti/",
+      "meaning": "n.人类,人性,人情;(pl.)人文科学",
+      "similar": [
+        "humidity",
+        "vanity",
+        "quality",
+        "quantity"
+      ],
+      "question": {
+        "wordId": "humanity",
+        "stem": "选择 \"humanity\" 的正确中文意思：",
+        "correct": "n.人类,人性,人情;(pl.)人文科学",
+        "options": [
+          "n.湿气,湿度",
+          "n.质量,品质,特性",
+          "n.虚荣心,浮华",
+          "n.人类,人性,人情;(pl.)人文科学"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根human（人）+ -ity（抽象名词后缀），核心动作/画面：指“人的集合或属性”。本源上，human来自拉丁语humanus（人），与humus（泥土）同源，暗示“人由泥土所造”，强调人类作为地球生物的共同属性。",
+        "similarWarning": "humidity（湿度，来自humid+ity，与水汽相关）；vanity（虚荣，来自vain+ity，与空虚相关）；quality（质量，来自qual+ity，与特性相关）；quantity（数量，来自quant+ity，与多少相关）。区别：humanity核心在“人”，其他词根不同。",
+        "extendedMeaning": "在考研外刊中，humanity常引申为“博爱、人道精神”（如treat with humanity），或“人文科学”（复数humanities，与sciences对立）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "humble",
+      "word": "humble",
+      "phonetic": "/'hʌmbl/",
+      "meaning": "a.谦卑的,恭顺的;地位低下的 v.降低,贬低",
+      "similar": [
+        "tumble",
+        "stumble",
+        "bubble",
+        "gamble",
+        "huddle"
+      ],
+      "question": {
+        "wordId": "humble",
+        "stem": "选择 \"humble\" 的正确中文意思：",
+        "correct": "a.谦卑的,恭顺的;地位低下的 v.降低,贬低",
+        "options": [
+          "a.谦卑的,恭顺的;地位低下的 v.降低,贬低",
+          "v.(使)摔倒;打滚,翻腾 n.摔跤,跌倒",
+          "n.跌倒，绊倒 vi.绊(摔)倒；结结巴巴说",
+          "n.泡,水泡,气泡 v.冒泡,起泡,沸腾"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 humilis（低矮的，卑下的），源于 humus（泥土）。核心动作是“贴近地面/泥土”，引申为地位低下或心理上的谦卑姿态。",
+        "similarWarning": "tumble（跌倒/翻滚，去掉h加t） vs humble（谦卑的，有h）；stumble（绊倒，加s表动作） vs humble（状态）；bubble（气泡，b替换h） vs humble（抽象）；gamble（赌博，g替换h） vs humble（品格）；huddle（挤作一团，dd替换mb） vs humble（姿态）。",
+        "extendedMeaning": "在考研真题中常作动词，表示“使…感到卑微/挫败锐气”，如 humble a powerful opponent（挫败强敌的傲气）。",
+        "examUsage": "搭配 humble oneself（低声下气，自谦）。真题例句：The experience humbled him, making him realize his limitations.（那次经历挫败了他，让他认识到自己的局限。）"
+      }
+    },
+    {
+      "id": "humid",
+      "word": "humid",
+      "phonetic": "/'hju:mid/",
+      "meaning": "a.湿的,湿气重的",
+      "similar": [
+        "hum",
+        "amid",
+        "humor",
+        "timid"
+      ],
+      "question": {
+        "wordId": "humid",
+        "stem": "选择 \"humid\" 的正确中文意思：",
+        "correct": "a.湿的,湿气重的",
+        "options": [
+          "n.(humour)幽默,诙谐",
+          "a.湿的,湿气重的",
+          "v.哼曲子；发嗡嗡声；忙碌n.嗡嗡声，嘈杂声",
+          "prep.在…中间，在…之中，被…围绕"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语“humere”（潮湿、湿润），与“humus”（泥土、土壤）同源，核心物理动作是“泥土中的水分状态”。humid指空气中或物体含有较多水分的状态，强调湿度感，区别于wet的浸透感。",
+        "similarWarning": "humor（幽默）：字母r替换d，词源不同，指情绪或滑稽。human（人类）：字母a替换i，指人。timid（胆小的）：首字母t替换h，词根tim-意为害怕。amid（在…中）：字母a替换h，介词结构不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "humidity",
+      "word": "humidity",
+      "phonetic": "/hju:'midəti/",
+      "meaning": "n.湿气,湿度",
+      "similar": [
+        "humanity",
+        "humiliate"
+      ],
+      "question": {
+        "wordId": "humidity",
+        "stem": "选择 \"humidity\" 的正确中文意思：",
+        "correct": "n.湿气,湿度",
+        "options": [
+          "v.使羞辱，使丢脸[同]disgrace",
+          "n.人类,人性,人情;(pl.)人文科学",
+          "n.标签;鞋带;垂饰;vt.加标签于;附加vi.紧随",
+          "n.湿气,湿度"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"humidus\"（潮湿的），词根\"hum-\"（湿土、地面）。核心物理动作：水分附着或弥漫于空气中。同源词\"humid\"（潮湿的）→\"humidity\"（湿度，名词后缀-ity表状态）。\",\n  \"similarWarning\": \"humanity（人类/人性，词根\"hum-”=人）；humiliate（羞辱，词根“hum-”=地，使低头到地）。对比：humidity侧重“湿气”，humanity侧重“人性”，humiliate侧重“羞辱”。\",\n  \"extendedMeaning\": \"在考研中常引申为“空气中的水分含量”，如“relativ",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "humiliate",
+      "word": "humiliate",
+      "phonetic": "/hju:'milieit/",
+      "meaning": "v.使羞辱，使丢脸[同]disgrace",
+      "similar": [
+        "humidity",
+        "affiliate",
+        "complicate",
+        "facilitate"
+      ],
+      "question": {
+        "wordId": "humiliate",
+        "stem": "选择 \"humiliate\" 的正确中文意思：",
+        "correct": "v.使羞辱，使丢脸[同]disgrace",
+        "options": [
+          "v.使..复杂；使..难懂；使（疾病等）恶化；",
+          "v.使隶属(或附属)于 n.附属机构，分公司",
+          "n.湿气,湿度",
+          "v.使羞辱，使丢脸[同]disgrace"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 hum- (泥土) + -ili- (连接) + -ate (动词后缀) => 字面义为“使归于泥土”，即把人贬低到尘土里，引申为“使羞辱、使丢脸”。核心动作：将对方压入低贱地位。",
+        "similarWarning": "humidity (n.湿度) vs humiliate (v.羞辱)：差异在 -id- (形容词后缀) vs -ili- (连接)+ -ate。 humidity 与“潮湿”相关，humiliate 与“泥土/低贱”相关。",
+        "extendedMeaning": "在考研真题中常引申为“使蒙羞、挫败自尊”，不限于具体行为，可指言语或情境导致的心理受辱。例如：The public criticism humiliated him deeply. (公开批评让他深感羞辱。)",
+        "examUsage": "常与介词 by 连用，如 humiliate sb. by doing sth. 为考点。真题例句：He felt humiliated by his failure to answer the question. (因未能回答问题而感到羞辱。) 注意与 embarrass (使尴尬) 的区分：humiliate 程度更强，含主动贬低之意。"
+      }
+    },
+    {
+      "id": "humor",
+      "word": "humor",
+      "phonetic": "/'hju:mə/",
+      "meaning": "n.(humour)幽默,诙谐",
+      "similar": [
+        "rumor",
+        "tumour",
+        "hum",
+        "honor",
+        "humid",
+        "tutor"
+      ],
+      "question": {
+        "wordId": "humor",
+        "stem": "选择 \"humor\" 的正确中文意思：",
+        "correct": "n.(humour)幽默,诙谐",
+        "options": [
+          "n.(rumour)传闻,谣言",
+          "n.(humour)幽默,诙谐",
+          "n.(tumor)(肿)瘤，肿块",
+          "v.哼曲子；发嗡嗡声；忙碌n.嗡嗡声，嘈杂声"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'umor'（液体、湿气），后经古法语进入英语。词根 'hum-' 与 'humid'（潮湿的）同源，本义为体液。中世纪生理学认为人体有四种体液（血液、黏液、黄胆汁、黑胆汁），其比例决定人的气质和情绪。后引申为‘性情、脾气’，再演变为‘幽默、诙谐’，指能引发轻松情绪的机智表达。核心动作：体液流动 → 情绪变化 → 引发笑意的机智。",
+        "similarWarning": "rumor（谣言，来自拉丁语‘rumor’喧闹） vs humor（幽默）：r-开头表‘喧闹’ vs h-开头表‘体液’；tumour（肿瘤，拉丁语‘tumor’肿胀） vs humor：tu-表‘肿胀’ vs hu-表‘湿气’；humid（潮湿的） vs humor：-id形容词后缀表状态 vs -or名词后缀表物质。",
+        "extendedMeaning": "考研真题中常考‘幽默感’（sense of humor）及‘黑色幽默’（black humor），但更高级用法如‘humor’作动词：to humor sb.（迁就、迎合某人，非字面‘幽默对待’）。例：He humored his grandmother's eccentricities.（他迁就祖母的古怪行为。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "humorous",
+      "word": "humorous",
+      "phonetic": "/'hju:mərəs/",
+      "meaning": "a.富于幽默感的，幽默的；滑稽的",
+      "similar": [
+        "numerous",
+        "rigorous",
+        "vigorous"
+      ],
+      "question": {
+        "wordId": "humorous",
+        "stem": "选择 \"humorous\" 的正确中文意思：",
+        "correct": "a.富于幽默感的，幽默的；滑稽的",
+        "options": [
+          "a.严格的,严厉的,严酷的,严密的,严谨的",
+          "a.朝气蓬勃的,精力旺盛的",
+          "a.众多的,许多的,大批的",
+          "a.富于幽默感的，幽默的；滑稽的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 humor（液体、体液），古代生理学认为人体有四种体液（血液、黏液、黄胆汁、黑胆汁），其比例决定人的性格和情绪。幽默感最初与“体液平衡导致愉快情绪”相关，后缀 -ous 表示“具有…性质的”，故 humorous 字面意为“体液平衡的、令人愉快的”，引申为“幽默的”。",
+        "similarWarning": "numerous（众多的，来自 number 数量），rigorous（严格的，来自 rigor 严厉），vigorous（精力充沛的，来自 vigor 活力）。对比：humorous 中 hum-（体液）vs. numer-（数字）、rig-（僵硬）、vig-（活力），拼写和词源均不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    }
+  ]
+}

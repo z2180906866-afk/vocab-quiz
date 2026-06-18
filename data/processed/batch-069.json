@@ -1,0 +1,1714 @@
+{
+  "batchId": 69,
+  "words": [
+    {
+      "id": "sanction",
+      "word": "sanction",
+      "phonetic": "/'sæŋˌkʃən/",
+      "meaning": "n./v.批准,同意,支持,认可 n.处罚,制裁",
+      "similar": [
+        "action",
+        "auction",
+        "section",
+        "function",
+        "junction",
+        "salvation",
+        "selection",
+        "sensation"
+      ],
+      "question": {
+        "wordId": "sanction",
+        "stem": "选择 \"sanction\" 的正确中文意思：",
+        "correct": "n./v.批准,同意,支持,认可 n.处罚,制裁",
+        "options": [
+          "n./v.批准,同意,支持,认可 n.处罚,制裁",
+          "n.行动，动作；作用；运转；行为；战斗",
+          "n.／vt.拍卖",
+          "n.章节,部分;地区,部门,科;截面,剖面"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语sanctio（使神圣），词根sanct-（神圣）+ -ion（名词后缀）。本义为“使神圣化的法令”，引申为“权威认可/批准”；因神圣法令带有惩罚性，反向引申为“制裁/处罚”。核心动作：赋予神圣权威→批准或惩罚。",
+        "similarWarning": "sanction vs. salvation：sanction（批准/制裁）含词根sanct-（神圣）；salvation（拯救/救赎）含词根salv-（救，如save）。字母差异：sanction有c（神圣法令），salvation有v（拯救动作）。",
+        "extendedMeaning": "熟词僻义：在考研真题中常考“制裁”义（如economic sanctions经济制裁），而“批准”义多用于法律/官方语境（如give sanction to the plan批准计划）。注意一词两反义：同一词既可表“允许”又可表“惩罚”，需根据上下文判断。",
+        "examUsage": "真题考点：常见搭配impose sanctions on（对…实施制裁），lift sanctions（解除制裁）。真题例句：The UN Security Council imposed economic sanctions on the country.（联合国安理会对该国实施经济制裁。）注意干扰项：false sanction（虚假批准）��mixed sanction（混合制裁）非正宗搭配。"
+      }
+    },
+    {
+      "id": "sand",
+      "word": "sand",
+      "phonetic": "/sænd/",
+      "meaning": "n.沙;(pl.)沙滩,沙地",
+      "similar": [
+        "band",
+        "sane",
+        "brand",
+        "candy",
+        "grand",
+        "handy",
+        "panda",
+        "saint"
+      ],
+      "question": {
+        "wordId": "sand",
+        "stem": "选择 \"sand\" 的正确中文意思：",
+        "correct": "n.沙;(pl.)沙滩,沙地",
+        "options": [
+          "n.商标,标记,牌子 v.使铭记;打火印,打烙印",
+          "a.心智健全的,神志清醒的,明智的,稳健的",
+          "n.条,带;乐队;波段;一群,一伙 v.缚,绑扎",
+          "n.沙;(pl.)沙滩,沙地"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "无词根词缀，直接来自古英语sand，本义为“细碎的岩石颗粒”。核心物理动作为“细小、松散、流动的颗粒”。",
+        "similarWarning": "sand vs. stand: sand无t，stand有t，义为“站立”。sand vs. sad: sand有n，sad无n，义为“悲伤的”。sand vs. send: sand中a变e则成send，义为“发送”。",
+        "extendedMeaning": "沙地、沙滩（复数形式sands）；引申为“时间（像沙漏中的沙一样流逝）”，如the sands of time（时光流逝）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sandwich",
+      "word": "sandwich",
+      "phonetic": "/'sænwidʒ/",
+      "meaning": "n.三明治,夹肉面包 v.夹入,挤进",
+      "similar": [],
+      "question": {
+        "wordId": "sandwich",
+        "stem": "选择 \"sandwich\" 的正确中文意思：",
+        "correct": "n.三明治,夹肉面包 v.夹入,挤进",
+        "options": [
+          "n.三明治,夹肉面包 v.夹入,挤进",
+          "n.商品,货物",
+          "n.折磨；令人痛苦的东西(人)vt.折磨；纠缠",
+          "n.电话亭,货摊"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自英国地名Sandwich（桑威奇），传说18世纪第四代桑威奇伯爵约翰·蒙塔古为在赌博时方便进食，将肉夹在两片面包中，由此得名。动词用法由名词引申为‘像夹肉一样被夹在中间’，强调物理上的挤压或时间上的插入。",
+        "similarWarning": "",
+        "extendedMeaning": "【考研僻义】v. 挤进，插入（指在时间或空间上强行插入狭小位置）",
+        "examUsage": "【真题考点】be sandwiched between...（被夹在...之间，常用于描述被动处境或空间拥挤）"
+      }
+    },
+    {
+      "id": "sane",
+      "word": "sane",
+      "phonetic": "/sein/",
+      "meaning": "a.心智健全的,神志清醒的,明智的,稳健的",
+      "similar": [
+        "lane",
+        "sake",
+        "sale",
+        "sand",
+        "save",
+        "canoe",
+        "crane",
+        "panel"
+      ],
+      "question": {
+        "wordId": "sane",
+        "stem": "选择 \"sane\" 的正确中文意思：",
+        "correct": "a.心智健全的,神志清醒的,明智的,稳健的",
+        "options": [
+          "n.出售,上市;贱卖,廉价出售;销售额",
+          "a.心智健全的,神志清醒的,明智的,稳健的",
+          "n.小路,小巷,行车道",
+          "n.缘故,理由"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'sanus'（健康的，健全的），核心物理动作是“健康、正常的状态”。词根 san- 表示“健康”，与医学、心理状态相关。词义从“身体健全”引申为“心智清醒、明智”，强调理性与正常功能。",
+        "similarWarning": "lane（小巷，车道） vs sane：lane 首字母 l 替换 s，词义完全不同；safe（安全的） vs sane：safe 结尾 f 替换 ne，侧重安全而非心智；same（相同的） vs sane：same 缺少字母 n，拼写相似但词义无关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sarcastic",
+      "word": "sarcastic",
+      "phonetic": "/sɑ:'kæztik/",
+      "meaning": "a.讽刺的",
+      "similar": [
+        "drastic",
+        "artistic",
+        "fantastic"
+      ],
+      "question": {
+        "wordId": "sarcastic",
+        "stem": "选择 \"sarcastic\" 的正确中文意思：",
+        "correct": "a.讽刺的",
+        "options": [
+          "a.艺术(家)的，美术(家)的；善于艺术创作的",
+          "a.(fantastical)奇异的,幻想的,异想天开的",
+          "a.激烈的,严厉的;(药性等)猛烈的",
+          "a.讽刺的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语sarkazein（撕咬肉），原指像狗一样撕咬肉体，后引申为用尖刻语言‘撕咬’他人，即讽刺的。词根sarc-（肉）+-astic（形容词后缀）。",
+        "similarWarning": "drastic（剧烈的）：dr-（驱动）暗示动作猛烈；artistic（艺术的）：art-（艺术）+-istic；fantastic（奇妙的）：fant-（幻想）+-astic。sarcastic强调语言刻薄，与艺术、幻想无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "satellite",
+      "word": "satellite",
+      "phonetic": "/'sætəlait/",
+      "meaning": "n.卫星,人造卫星;附属物",
+      "similar": [],
+      "question": {
+        "wordId": "satellite",
+        "stem": "选择 \"satellite\" 的正确中文意思：",
+        "correct": "n.卫星,人造卫星;附属物",
+        "options": [
+          "n.诗人",
+          "a.幸运的,侥幸的",
+          "n.套间；一套家具；套，组，系列",
+          "n.卫星,人造卫星;附属物"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 satelles（随从、侍卫）+ -ite（表人或物）。核心动作：随从、附属。本义为“随从、拥护者”，后引申为“围绕行星运行的天体（卫星）”，再引申为“人造卫星”及“附属物”。",
+        "similarWarning": "",
+        "extendedMeaning": "附属国、附庸；卫星城（如 satellite town）；跟随者、奉承者。",
+        "examUsage": "常考搭配：communications satellite（通信卫星）；satellite state（卫星国/附庸国）。真题中常考其“附属物”含义，如“the satellite of a powerful country”（强国的附庸）。"
+      }
+    },
+    {
+      "id": "satire",
+      "word": "satire",
+      "phonetic": "/'sætaiə/",
+      "meaning": "n.讽刺,讽刺文学,讽刺作品",
+      "similar": [
+        "stir",
+        "tire",
+        "stare",
+        "entire",
+        "mature",
+        "native",
+        "retire",
+        "saturate"
+      ],
+      "question": {
+        "wordId": "satire",
+        "stem": "选择 \"satire\" 的正确中文意思：",
+        "correct": "n.讽刺,讽刺文学,讽刺作品",
+        "options": [
+          "v.(使)疲倦,(使)厌倦 n.(=tyre)轮胎,车胎",
+          "v.搅拌,搅动;动,摇动;激动;轰动;煽动,鼓动",
+          "v.(at)盯,凝视",
+          "n.讽刺,讽刺文学,讽刺作品"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'satura'（意为‘满的、丰盛的’，后指‘混合盘、杂烩’），原指古罗马一种混合多种题材的诗歌，后演变为‘讽刺作品’。核心动作是‘混合、杂烩’，暗示讽刺文学常混合幽默、批评与夸张，以揭露社会弊端。",
+        "similarWarning": "stir（搅拌；轰动）：拼写差异在 'r' 与 'tire'；tire（疲劳；轮胎）：拼写差异在 't' 与 'tire'；stare（凝视）：拼写差异在 's' 与 'tare'；store（商店；储存）：拼写差异在 's' 与 'tore'；entire（整个的）：拼写差异在 'en' 与 'tire'；mature（成熟的）：拼写差异在 'm' 与 'ture'；native（本地的）：拼写差异在 'n' 与 'tive'；nature（自然）：拼写差异在 'n' 与 'ture'。",
+        "extendedMeaning": "在考研阅读中，satire 常引申为‘讽刺手法’或‘讽刺性批评’，如‘political satire’（政治讽刺）在《经济学人》等外刊中高频出现，指通过幽默或夸张揭露政治腐败。",
+        "examUsage": "真题考点：常见搭配‘satire on sth.’（对……的讽刺），如‘a satire on consumerism’（对消费主义的讽刺）。干扰项常涉及‘parody’（戏仿）或‘irony’（反讽），需辨析 satire 强调批判性，parody 侧重模仿，irony 侧重反差。"
+      }
+    },
+    {
+      "id": "satisfaction",
+      "word": "satisfaction",
+      "phonetic": "/ˌsætis'fækʃən/",
+      "meaning": "n.满足,满意;乐事,愉快",
+      "similar": [
+        "satisfactory"
+      ],
+      "question": {
+        "wordId": "satisfaction",
+        "stem": "选择 \"satisfaction\" 的正确中文意思：",
+        "correct": "n.满足,满意;乐事,愉快",
+        "options": [
+          "n.混乱,杂乱;骚乱;失调,疾病",
+          "a.令人满意的,圆满的,良好的,符合要求的",
+          "n.满足,满意;乐事,愉快",
+          "n.(有柄，小口，可盛水等的)大壶，罐，盂"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 satisfactio，由 satis（足够）+ facere（做）构成，字面意为“做得足够”。核心动作是“达到足够标准后产生的状态”，强调需求被充分满足后的心理或生理平静感。",
+        "similarWarning": "satisfactory（adj.令人满意的）与 satisfaction 同根，但前者侧重“符合标准”的客观评价，后者侧重“满足感”的主观体验。注意拼写差异：-factory 为形容词后缀，-faction 为名词后缀。",
+        "extendedMeaning": "在考研语境中，常引申为“赔偿、补偿”（法律/商业领域），如 monetary satisfaction（金钱赔偿）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "satisfactory",
+      "word": "satisfactory",
+      "phonetic": "/ˌsætis'fæktəri/",
+      "meaning": "a.令人满意的,圆满的,良好的,符合要求的",
+      "similar": [
+        "satisfaction"
+      ],
+      "question": {
+        "wordId": "satisfactory",
+        "stem": "选择 \"satisfactory\" 的正确中文意思：",
+        "correct": "a.令人满意的,圆满的,良好的,符合要求的",
+        "options": [
+          "a.令人满意的,圆满的,良好的,符合要求的",
+          "n.满足,满意;乐事,愉快",
+          "a.优良的,卓越的;上级的 n.上级;长者;高手",
+          "n.出租车，出租马车；驾驶室 vi.乘出租马车"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由satisfy（使满意，源自拉丁语satis“足够”+facere“做”）派生，-ory为形容词后缀，表“与...有关的”。核心动作：做得足够→达到标准→令人满意。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "satisfy",
+      "word": "satisfy",
+      "phonetic": "/'sætisfai/",
+      "meaning": "v.满意,使满意,使相信,说服",
+      "similar": [],
+      "question": {
+        "wordId": "satisfy",
+        "stem": "选择 \"satisfy\" 的正确中文意思：",
+        "correct": "v.满意,使满意,使相信,说服",
+        "options": [
+          "v.移置,转移;取代,置换",
+          "a.东方的,东部的",
+          "v.满意,使满意,使相信,说服",
+          "n.成套工具,用具包,工具箱"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语satis（足够）+facere（做），核心动作为“做足够之事”。词根satis表示“充足”，引申为“使需求或条件得到充分满足”，从而产生“满意”或“使相信”的含义。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中常考“使相信，使确信”的僻义，如satisfy sb. of sth.（使某人确信某事），或satisfy oneself（查证，弄清楚）。",
+        "examUsage": "常见搭配：satisfy the requirements（满足要求），satisfy one's curiosity（满足好奇心）。真题例句：The evidence is sufficient to satisfy the jury of his innocence.（证据足以使陪审团相信他无罪。）"
+      }
+    },
+    {
+      "id": "saturate",
+      "word": "saturate",
+      "phonetic": "/'sætʃəreit/",
+      "meaning": "vt.使湿透，浸透；使充满，使饱和",
+      "similar": [
+        "mature",
+        "salute",
+        "satire",
+        "sausage",
+        "statute",
+        "storage",
+        "accurate",
+        "saturday"
+      ],
+      "question": {
+        "wordId": "saturate",
+        "stem": "选择 \"saturate\" 的正确中文意思：",
+        "correct": "vt.使湿透，浸透；使充满，使饱和",
+        "options": [
+          "n.讽刺,讽刺文学,讽刺作品",
+          "v./n.敬礼,鸣礼炮;迎接,欢迎",
+          "a.成熟的,熟的;成年人的 v.(使)成熟",
+          "vt.使湿透，浸透；使充满，使饱和"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语saturare（使充满，使饱足），词根sat-（足够，充足）+-ur-（动词后缀）+-ate（使动）。核心物理动作：往海绵中不断注水直到无法再吸收——即“浸透”与“饱和”。",
+        "similarWarning": "saturate（浸透/饱和）vs. satire（讽刺文学）：saturate含核心词根sat-（足够），而satire源自拉丁语satura（杂烩），拼写差异在字母t后跟u vs. i。",
+        "extendedMeaning": "考研僻义：经济学中指“市场饱和”（market saturation），即产品供应量超过需求；化学中“饱和溶液”；比喻义“充斥”（be saturated with sth.），如The market is saturated with cheap goods. 市场充斥着廉价商品。",
+        "examUsage": "真题考点：常用被动结构be saturated with（充满，饱和），如The air was saturated with the scent of flowers. 空气中弥漫着花香。另考搭配saturate oneself in（沉浸于），如He saturated himself in the local culture. 他沉浸于当地文化中。"
+      }
+    },
+    {
+      "id": "saturday",
+      "word": "Saturday",
+      "phonetic": "/'sætədeɪ/",
+      "meaning": "n.星期六",
+      "similar": [
+        "sturdy",
+        "sunday",
+        "saturate"
+      ],
+      "question": {
+        "wordId": "saturday",
+        "stem": "选择 \"Saturday\" 的正确中文意思：",
+        "correct": "n.星期六",
+        "options": [
+          "n.星期六",
+          "a.坚定的，不屈不挠的；强健的，结实的",
+          "vt.使湿透，浸透；使充满，使饱和",
+          "n.星期日"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语 Sæternesdæg，意为‘土星之日’，源自拉丁语 Saturni dies。Saturn 是罗马神话中的农业之神。词根 Satur- 与‘饱足’相关（如 saturate），但 Saturday 直接借用了天文/神话命名体系。",
+        "similarWarning": "sturdy（adj. 坚固的）：拼写差异在 'ur' vs 'a'，词义无关；sunday（n. 周日）：前缀 'sun' 对应太阳，Saturday 对应土星，注意首字母不同；saturate（v. 浸透）：共享词根 satur-，但 Saturday 无此含义。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sauce",
+      "word": "sauce",
+      "phonetic": "/sɔ:s/",
+      "meaning": "n.酱汁,调味汁",
+      "similar": [
+        "saucer",
+        "salute",
+        "scarce",
+        "source",
+        "sue",
+        "lace",
+        "pace",
+        "sack"
+      ],
+      "question": {
+        "wordId": "sauce",
+        "stem": "选择 \"sauce\" 的正确中文意思：",
+        "correct": "n.酱汁,调味汁",
+        "options": [
+          "n.酱汁,调味汁",
+          "n.茶托,碟子",
+          "v./n.敬礼,鸣礼炮;迎接,欢迎",
+          "a.缺乏的,不足的;稀少的,罕见的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语salsa（加盐的），由sal（盐）派生。核心动作是‘用盐调味’，后泛指各种调味汁。",
+        "similarWarning": "source（来源）：sauce vs source，后者多一个‘r’，词源不同，source源于拉丁语surgere（升起）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "saucer",
+      "word": "saucer",
+      "phonetic": "/'sɔ:sə/",
+      "meaning": "n.茶托,碟子",
+      "similar": [
+        "sauce",
+        "super",
+        "cancer",
+        "soccer"
+      ],
+      "question": {
+        "wordId": "saucer",
+        "stem": "选择 \"saucer\" 的正确中文意思：",
+        "correct": "n.茶托,碟子",
+        "options": [
+          "n.癌",
+          "a.极好的,超级的",
+          "n.酱汁,调味汁",
+          "n.茶托,碟子"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'salsus'（加盐的），原指盛放调料的碟子，后特指茶托。核心动作是作为容器承载小物件。",
+        "similarWarning": "sauce（n.酱汁） vs saucer: sauce无-r结尾；super（adj.超级的） vs saucer: super无-cer结尾；cancer（n.癌症） vs saucer: cancer拼写为c-a-n-c-e-r；soccer（n.足球） vs saucer: soccer拼写为s-o-c-c-e-r。",
+        "extendedMeaning": "在科技语境中可指'碟形物'，如飞碟（flying saucer）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sausage",
+      "word": "sausage",
+      "phonetic": "/'sɔsidʒ/",
+      "meaning": "n.香肠,腊肠",
+      "similar": [
+        "usage",
+        "savage",
+        "passage",
+        "saturate"
+      ],
+      "question": {
+        "wordId": "sausage",
+        "stem": "选择 \"sausage\" 的正确中文意思：",
+        "correct": "n.香肠,腊肠",
+        "options": [
+          "n.香肠,腊肠",
+          "n.使用，用法；习惯，习俗；惯用法",
+          "a.野蛮的;凶恶,残暴的 n.野人,未开化的人",
+          "n.通过,经过;通路,走廊;(一)段落,(一)节"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"salsus\"(盐腌的)，核心动作是\"用盐腌制保存肉\"。sausage指将碎肉加盐、香料等灌入肠衣制成的食品，本质是\"盐腌肉制品\"的保存方式。\",\n  \"similarWarning\": \"sausage vs savage: sausage含\"us\"(我们)音，savage含\"vage\"(野蛮)；sausage vs passage: 前者\"sa\"开头，后者\"pa\"开头，词义无关联。\",\n  \"extendedMeaning\": \"\",\n  \"examUsage\": \"\"\n}",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "savage",
+      "word": "savage",
+      "phonetic": "/'sævɪdʒ/",
+      "meaning": "a.野蛮的;凶恶,残暴的 n.野人,未开化的人",
+      "similar": [
+        "sausage",
+        "save",
+        "damage",
+        "garage",
+        "manage"
+      ],
+      "question": {
+        "wordId": "savage",
+        "stem": "选择 \"savage\" 的正确中文意思：",
+        "correct": "a.野蛮的;凶恶,残暴的 n.野人,未开化的人",
+        "options": [
+          "a.野蛮的;凶恶,残暴的 n.野人,未开化的人",
+          "n.香肠,腊肠",
+          "v./n.损害,毁坏 n.(pl.)损害赔偿费",
+          "v.救,拯救;储蓄,贮存;节省"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'silvaticus'（森林的），由'silva'（森林）加形容词后缀'-aticus'构成。核心物理动作是'与森林相关'，引申为未开化的、野生的。词义演变：森林中的→未驯化的→野蛮的、凶残的。",
+        "similarWarning": "sausage（香肠）：拼写差异在于'saus-' vs 'sav-'，发音不同；save（拯救）：拼写差异'v'后无'age'，词义相反。stage（舞台）：拼写差异's'后为'tag'；damage（损害）：拼写差异'dam-' vs 'sav-'；garage（车库）：拼写差异'gar-' vs 'sav-'；manage（管理）：拼写差异'man-' vs 'sav-'。",
+        "extendedMeaning": "在考研真题中，savage可作动词，意为'激烈抨击'（如'He savaged the government's policy.'）；亦可作形容词，意为'猛烈的'（如'savage criticism'），非仅指野蛮。",
+        "examUsage": "常见搭配'savage attack'（猛烈的攻击）在阅读中作为情感态度题选项；'savage criticism'（严厉的批评）在完形或翻译中需辨析其强烈否定色彩，区别于'critical'（批评的，中性）。"
+      }
+    },
+    {
+      "id": "save",
+      "word": "save",
+      "phonetic": "/seɪv/",
+      "meaning": "v.救,拯救;储蓄,贮存;节省",
+      "similar": [
+        "shave",
+        "slave",
+        "cave",
+        "pave",
+        "sake",
+        "sale",
+        "sane",
+        "wave"
+      ],
+      "question": {
+        "wordId": "save",
+        "stem": "选择 \"save\" 的正确中文意思：",
+        "correct": "v.救,拯救;储蓄,贮存;节省",
+        "options": [
+          "n.奴隶,苦工 v.做苦工,拼命地干",
+          "v.剃,刮,刨,削 n.刮脸",
+          "v.救,拯救;储蓄,贮存;节省",
+          "n.洞,穴"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语salvare(使安全)，与safe同源。核心动作是“使脱离危险或损失”，引申为“保存、节省”。",
+        "similarWarning": "shave(刮胡子) vs save(拯救)：shave中h像剃刀；slave(奴隶) vs save(拯救)：slave需s(锁链)束缚；cave(洞穴) vs save(拯救)：cave中c像洞口；have(有) vs save(保存)：have无s(安全)前缀；pave(铺路) vs save(拯救)：pave中p像铺石；safe(安全的) vs save(拯救)：safe为形容词，save为动词；sake(缘故) vs save(拯救)：sake中k像钥匙，表目的；sale(销售) vs save(节省)：sale中l像价签，表交易。",
+        "extendedMeaning": "考研僻义：除“拯救”外，常考“节省(时间/金钱)”及“保存(文件/数据)”。如“save time”节省时间，“save data”保存数据。",
+        "examUsage": "真题考点：搭配“save for”除…之外(相当于except for)；“save up”储蓄。例句：He saved up for a year to buy a car. (他存了一年的钱买车。)"
+      }
+    },
+    {
+      "id": "saving",
+      "word": "saving",
+      "phonetic": "/'seiviŋ/",
+      "meaning": "n.挽救,救助,节约,储蓄;(pl.)储蓄金,存款",
+      "similar": [
+        "saint",
+        "sting",
+        "swing",
+        "living",
+        "string"
+      ],
+      "question": {
+        "wordId": "saving",
+        "stem": "选择 \"saving\" 的正确中文意思：",
+        "correct": "n.挽救,救助,节约,储蓄;(pl.)储蓄金,存款",
+        "options": [
+          "n.圣人,基督徒;(S-或St.用于人,地名前)圣",
+          "v./n.刺,刺痛,剧痛;刺,叮",
+          "v.摇摆,摇荡,回转,旋转 n.秋千;摇摆,摆动",
+          "n.挽救,救助,节约,储蓄;(pl.)储蓄金,存款"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 sav- (save的动名词形式) + -ing (名词后缀)。核心动作是'保存、保留'，由此衍生出'挽救'(从危险中保留生命)、'节约'(保留资源)、'储蓄'(保留金钱)等含义。复数形式savings特指'存款'，即被保留下来的金钱。",
+        "similarWarning": "saving vs. living: 核心差异在首字母s- (save保存) vs. l- (live生活)。living指'生计、生活'，如make a living谋生；saving指'节约、储蓄'，如a saving of time节约时间。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "saw",
+      "word": "saw",
+      "phonetic": "/sɔ:/",
+      "meaning": "n.锯子,锯床 v.锯,锯开",
+      "similar": [
+        "jaw",
+        "paw",
+        "raw",
+        "sew",
+        "sow",
+        "straw"
+      ],
+      "question": {
+        "wordId": "saw",
+        "stem": "选择 \"saw\" 的正确中文意思：",
+        "correct": "n.锯子,锯床 v.锯,锯开",
+        "options": [
+          "n.颌,颚",
+          "a.未煮过的,生的;未加工过的,未经训练的",
+          "n.爪",
+          "n.锯子,锯床 v.锯,锯开"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "古英语sagu，源自原始日耳曼语*sagō，本义为“切割工具”。核心物理动作：来回拉动锯齿状工具切割物体。",
+        "similarWarning": "sew（缝纫，v.），sow（播种，v.）：saw为锯子/锯开，sew为用针线缝合，sow为撒种。字母差异：sew中e对应缝纫动作；sow中o对应播撒；saw中a对应锯切。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "scale",
+      "word": "scale",
+      "phonetic": "/skeil/",
+      "meaning": "n.刻度;天平,磅秤;比例尺;规模;音阶;鱼鳞",
+      "similar": [
+        "sale",
+        "scare",
+        "stale",
+        "escape",
+        "scarce",
+        "scrape",
+        "stable",
+        "staple"
+      ],
+      "question": {
+        "wordId": "scale",
+        "stem": "选择 \"scale\" 的正确中文意思：",
+        "correct": "n.刻度;天平,磅秤;比例尺;规模;音阶;鱼鳞",
+        "options": [
+          "n.惊恐,恐慌v.惊吓,受惊",
+          "n.变质的,不新鲜的;陈旧的,陈腐的",
+          "n.出售,上市;贱卖,廉价出售;销售额",
+          "n.刻度;天平,磅秤;比例尺;规模;音阶;鱼鳞"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语scala（梯子），核心动作是“爬升/分级”。词根scand-（攀登）的变体。刻度、比例尺、音阶都是“分级”的体现；天平是“上下平衡”；鱼鳞是“片状叠层”的物理形态；规模是“分级后的量级”。",
+        "similarWarning": "scale vs. sale（售卖，a/e差异）vs. stale（陈腐的，加t）vs. scarce（稀缺的，c/r位置差异）vs. scrape（刮擦，加r）vs. stable（稳定的，b/l差异）vs. staple（主要产品，p/l差异）",
+        "extendedMeaning": "n. 规模（考研高频：economies of scale 规模经济）；v. 攀登（scale the mountain）；v. 按比例缩放（scale up/down）",
+        "examUsage": "on a large scale（大规模地）；scale back（缩减）；the scale of the problem（问题的严重程度）——真题中常考“规模”义及动词“攀登”的熟词僻义。"
+      }
+    },
+    {
+      "id": "scan",
+      "word": "scan",
+      "phonetic": "/skæn/",
+      "meaning": "v.细看,审视;浏览;扫描 n.扫描",
+      "similar": [
+        "scar",
+        "span",
+        "swan",
+        "ocean",
+        "scale",
+        "scare",
+        "scarf",
+        "scent"
+      ],
+      "question": {
+        "wordId": "scan",
+        "stem": "选择 \"scan\" 的正确中文意思：",
+        "correct": "v.细看,审视;浏览;扫描 n.扫描",
+        "options": [
+          "v.细看,审视;浏览;扫描 n.扫描",
+          "n.疤,疤痕;创伤 v.使留下伤痕,创伤",
+          "n.跨度,跨距",
+          "n.天鹅 vi.闲荡，游荡"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "scan 源自拉丁语 scandere “攀登，攀爬”，原指“逐级攀登”，后引申为“仔细查看”或“扫描”，核心动作是“逐行/逐点移动视线或设备以获取信息”。",
+        "similarWarning": "scar（伤疤）：scan vs scar，c 替换为 r，词义从“扫描”变为“疤痕”。span（跨度）：scan vs span，增加 p，词义从“扫描”变为“跨度”。",
+        "extendedMeaning": "v. 浏览（快速阅读以获取要点），如 scan the headlines（浏览标题）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "scandal",
+      "word": "scandal",
+      "phonetic": "/'skændəl/",
+      "meaning": "n.丑闻,诽谤,耻辱,流言蜚语,反感,公愤",
+      "similar": [
+        "canal"
+      ],
+      "question": {
+        "wordId": "scandal",
+        "stem": "选择 \"scandal\" 的正确中文意思：",
+        "correct": "n.丑闻,诽谤,耻辱,流言蜚语,反感,公愤",
+        "options": [
+          "n.冲击,碰撞;影响 v.影响;挤入,压紧",
+          "n.半岛",
+          "n.运河;(沟)渠",
+          "n.丑闻,诽谤,耻辱,流言蜚语,反感,公愤"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 scandalum '绊脚石，冒犯'，再回溯至希腊语 skandalon '陷阱，绊脚物'。核心物理动作为'绊倒'，引申为'使人跌倒的丑事'，即行为上的陷阱导致名誉受损或公众反感。",
+        "similarWarning": "canal (n.运河，管道) vs scandal：canal 词根 canal- '管子'，scandal 词根 skandal- '绊倒'；standard (n.标准，旗帜) vs scandal：standard 词根 stand- '站立'，scandal 词根 skandal- '绊倒'。注意 -al 结尾差异。",
+        "extendedMeaning": "在考研外刊中常引申为'公愤、反感'（如引起公众愤怒的事件），或指'诽谤性言论'（如媒体散布的流言）。",
+        "examUsage": "常见搭配：cause a scandal (引起丑闻/公愤)；be involved in a scandal (卷入丑闻)。真题例句：The political scandal led to widespread public outrage. (政治丑闻引发了广泛的公愤。)"
+      }
+    },
+    {
+      "id": "scar",
+      "word": "scar",
+      "phonetic": "/skɑ:/",
+      "meaning": "n.疤,疤痕;创伤 v.使留下伤痕,创伤",
+      "similar": [
+        "scare",
+        "scarf",
+        "scan",
+        "soar",
+        "scarce",
+        "scale",
+        "score",
+        "scorn"
+      ],
+      "question": {
+        "wordId": "scar",
+        "stem": "选择 \"scar\" 的正确中文意思：",
+        "correct": "n.疤,疤痕;创伤 v.使留下伤痕,创伤",
+        "options": [
+          "n.惊恐,恐慌v.惊吓,受惊",
+          "n.围巾,头巾,领巾,领带",
+          "n.疤,疤痕;创伤 v.使留下伤痕,创伤",
+          "v.细看,审视;浏览;扫描 n.扫描"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根无明确词根，源自北欧语源，本义为‘切割留下的痕迹’。核心物理动作：皮肤被利器划开（cut）后愈合形成的痕迹（mark）。词义从具体‘疤痕’引申为抽象‘精神创伤’，强调永久性损伤。",
+        "similarWarning": "scare（v.惊吓）vs scar：差字母e，scare是‘制造恐惧’，scar是‘留下伤痕’。scarf（n.围巾）vs scar：加字母f，scarf是织物，scar是伤疤。soar（v.翱翔）vs scar：元音o/a互换，soar是向上飞，scar是向下留痕。",
+        "extendedMeaning": "熟词僻义：v.给……留下精神创伤，如‘The incident scarred him for life.’（那次事件给他留下了终身创伤）。在考研阅读中常引申为‘对事物造成严重破坏或负面影响’，如‘The economy was scarred by the crisis.’",
+        "examUsage": "考点直击：常考搭配‘scar tissue’（疤痕组织）在医学类阅读中；短语‘leave a scar’（留下伤痕）用于抽象语境。真题例句：‘The experience left a deep scar on his memory.’（那次经历在他记忆中留下了深深的创伤。）注意与‘scarce’（稀缺的）在拼写和词义上的区分。"
+      }
+    },
+    {
+      "id": "scarce",
+      "word": "scarce",
+      "phonetic": "/skεəs/",
+      "meaning": "a.缺乏的,不足的;稀少的,罕见的",
+      "similar": [
+        "scare",
+        "scarcely",
+        "care",
+        "scar",
+        "carve",
+        "sauce",
+        "scale",
+        "scarf"
+      ],
+      "question": {
+        "wordId": "scarce",
+        "stem": "选择 \"scarce\" 的正确中文意思：",
+        "correct": "a.缺乏的,不足的;稀少的,罕见的",
+        "options": [
+          "n.小心;关怀,照料 v.(about)关心,介意,计较",
+          "ad.几乎不,简直没有,勉强",
+          "n.惊恐,恐慌v.惊吓,受惊",
+          "a.缺乏的,不足的;稀少的,罕见的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语excerpere（挑选出），经古法语escars（稀少的）演变。核心动作是“筛选后剩下的”，暗示经过挑选后数量变得有限，由此引申为“缺乏的、不足的”或“稀少的、罕见的”。",
+        "similarWarning": "scare（v.惊吓，n.恐慌） vs scarce（a.缺乏的）：scare中字母a后接r，强调“惊吓”动作；scarce中字母a后接rc，强调“稀少”状态。care（n./v.关心） vs scarce：care无s前缀，词义完全不相关。scarcely（adv.几乎不）是scarce的副词形式，注意拼写差异。",
+        "extendedMeaning": "",
+        "examUsage": "常考短语：be scarce of（缺乏...）。真题例句：Water is becoming increasingly scarce in many parts of the world.（水在世界许多地方正变得越来越稀缺。）注意不要与scarcely混淆，后者表示“几乎不”。"
+      }
+    },
+    {
+      "id": "scarcely",
+      "word": "scarcely",
+      "phonetic": "/'skεəsli/",
+      "meaning": "ad.几乎不,简直没有,勉强",
+      "similar": [
+        "scarce",
+        "barely",
+        "cancel",
+        "parcel",
+        "rarely",
+        "largely"
+      ],
+      "question": {
+        "wordId": "scarcely",
+        "stem": "选择 \"scarcely\" 的正确中文意思：",
+        "correct": "ad.几乎不,简直没有,勉强",
+        "options": [
+          "a.缺乏的,不足的;稀少的,罕见的",
+          "ad.几乎不,简直没有,勉强",
+          "v.取消,把…作废;删去,划掉",
+          "ad.赤裸裸地,无遮蔽地;仅仅,勉强,几乎没有"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自scare（惊吓，稀少）+-ly（副词后缀）。核心动作：数量或程度被压缩到极限，如同被惊吓后极度收缩，强调“几乎不存在”或“极其勉强达到”的状态。",
+        "similarWarning": "scarce（adj.缺乏的，稀有的）vs. scarcely（adv.几乎不）。barely（adv.仅仅，勉强，强调刚好达到）vs. scarcely（强调几乎未达到，语气更强）。cancel（v.取消）vs. parcel（n.包裹）拼写相似，但词义无关联。",
+        "extendedMeaning": "1. 用于否定结构，加强否定语气，意为“绝不，当然不”，如：I could scarcely believe my eyes.（我简直不敢相信自己的眼睛。）2. 表示“刚一……就……”，与when连用，如：He had scarcely arrived when he was asked to leave.（他刚到就被要求离开。）",
+        "examUsage": "真题常考与hardly、barely的替换与辨析，以及scarcely...when...结构（否定词前置倒装）。考点：Scarcely had he left when it began to rain.（他一离开就开始下雨。）注意主句倒装，从句用when引导，不与than搭配（than用于no sooner...than）。"
+      }
+    },
+    {
+      "id": "scare",
+      "word": "scare",
+      "phonetic": "/skεə/",
+      "meaning": "n.惊恐,恐慌v.惊吓,受惊",
+      "similar": [
+        "scarce",
+        "care",
+        "scar",
+        "scale",
+        "scarf",
+        "score",
+        "share",
+        "spare"
+      ],
+      "question": {
+        "wordId": "scare",
+        "stem": "选择 \"scare\" 的正确中文意思：",
+        "correct": "n.惊恐,恐慌v.惊吓,受惊",
+        "options": [
+          "n.惊恐,恐慌v.惊吓,受惊",
+          "a.缺乏的,不足的;稀少的,罕见的",
+          "n.小心;关怀,照料 v.(about)关心,介意,计较",
+          "n.疤,疤痕;创伤 v.使留下伤痕,创伤"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自斯堪的纳维亚语，与古诺尔斯语skirra（吓跑）有关。核心动作是‘突然惊吓’或‘引发恐惧’，强调瞬间的恐慌反应，与‘害怕’(fear)相比更侧重突然性和外在刺激。",
+        "similarWarning": "scarce（缺乏的）：scare多一个字母e，且含义完全不同；scar（伤疤）：scare多一个e，词尾发音不同；scale（规模/鳞片）：字母l替换r，拼写差异明显。",
+        "extendedMeaning": "考研中常考其动词用法‘吓跑、驱赶’，如scare off/away，不限于‘使害怕’，更强调结果性动作。",
+        "examUsage": "固定搭配scare sb into doing sth（吓得某人做某事）是真题常见考点，如：The high price scared many buyers into looking for alternatives.（高价吓得许多买家寻找替代品。）"
+      }
+    },
+    {
+      "id": "scarf",
+      "word": "scarf",
+      "phonetic": "/skɑ:f/",
+      "meaning": "n.围巾,头巾,领巾,领带",
+      "similar": [
+        "scar",
+        "scare",
+        "scarce",
+        "care",
+        "cart",
+        "scan",
+        "soar",
+        "dwarf"
+      ],
+      "question": {
+        "wordId": "scarf",
+        "stem": "选择 \"scarf\" 的正确中文意思：",
+        "correct": "n.围巾,头巾,领巾,领带",
+        "options": [
+          "n.惊恐,恐慌v.惊吓,受惊",
+          "n.围巾,头巾,领巾,领带",
+          "a.缺乏的,不足的;稀少的,罕见的",
+          "n.疤,疤痕;创伤 v.使留下伤痕,创伤"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自北欧古语skr-（切割），与scarf（狼吞虎咽）同源，核心动作是‘缠绕’或‘包裹’。围巾作为缠绕于颈部之物，由‘切割’引申为‘条状物’再转为‘包裹条’，直指其功能。",
+        "similarWarning": "scar（n.伤疤，v.留下伤痕）：scar vs scarf，多一个f；scare（v.惊吓）：scare vs scarf，e与f差异；scarce（adj.缺乏的）：scarce vs scarf，ce与f差异；car（n.汽车）：car是scarf去掉sf；card（n.卡片）：card vs scarf，d与f差异；care（n./v.关心）：care vs scarf，e与f差异；cart（n.手推车）：cart vs scarf，t与f差异；scan（v.扫描）：scan vs scarf，n与f差异。",
+        "extendedMeaning": "考研僻义：v. 狼吞虎咽（源自同源词根，指快速、贪婪地吃，如scarf down food）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "scatter",
+      "word": "scatter",
+      "phonetic": "/'skætə/",
+      "meaning": "v.散开,驱散;散布,散播",
+      "similar": [
+        "shatter",
+        "latter",
+        "flatter",
+        "shutter"
+      ],
+      "question": {
+        "wordId": "scatter",
+        "stem": "选择 \"scatter\" 的正确中文意思：",
+        "correct": "v.散开,驱散;散布,散播",
+        "options": [
+          "n.碎片；粉碎 v.粉碎；使疲惫；使震骇",
+          "a.后者的；后一半的，接近终了的 n.后者",
+          "v.散开,驱散;散布,散播",
+          "vt.奉承;使高兴;使满意;胜过"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不详，但核心物理动作是“向不同方向抛洒或分离”。scatter强调将原本聚集的人、物或信息向四周分散，可指具体物体（如种子、碎片）的散落，也指抽象信息（如谣言、消息）的传播。记忆时抓住“分散”这一动态画面。",
+        "similarWarning": "shatter（打碎，碎片飞散）：s-开头有“击打”感，强调粉碎成碎片；scatter则强调分散的动作而非破碎。latter（后者）：拼写近但意义无关。matter（物质；问题）：词形近但语义不同。flatter（奉承）：f-开头，与scatter无关联。shutter（百叶窗；快门）：sh-开头，与scatter易混在拼写。",
+        "extendedMeaning": "在考研阅读中，scatter可引申为“（信息、谣言等）散播”，如scatter rumors（散布谣言）；也可用于物理或抽象领域的“分布”，如scatter plot（散点图）中的scatter表示“离散分布”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "scenery",
+      "word": "scenery",
+      "phonetic": "/'si:nəri/",
+      "meaning": "n.风景,舞台布景",
+      "similar": [],
+      "question": {
+        "wordId": "scenery",
+        "stem": "选择 \"scenery\" 的正确中文意思：",
+        "correct": "n.风景,舞台布景",
+        "options": [
+          "n.风景,舞台布景",
+          "v.重整,恢复,振作 n.聚集,集会,拉力赛",
+          "n.补助金；津贴费",
+          "a.热的,热力的；(小规模的)上升气流"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语skene（舞台、帐篷），经拉丁语scaena进入英语。scene（场景）+ -ry（集合名词后缀）。核心物理动作：舞台上的布景集合，引申为自然风景的集合。",
+        "similarWarning": "scene（场景，现场）：单指一个具体画面或事件发生地。scenery（风景，布景）：强调整体景观或舞台布景的集合。字母差异：scenery多出-ry后缀，表集合概念。",
+        "extendedMeaning": "舞台布景：在戏剧或影视语境中，scenery指舞台上的背景装饰，非自然风景。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "scent",
+      "word": "scent",
+      "phonetic": "/sent/",
+      "meaning": "n.气味,香味,香水,线索,嗅觉 v.嗅,发觉",
+      "similar": [
+        "cent",
+        "descent",
+        "accent",
+        "ascend",
+        "decent",
+        "silent",
+        "rent",
+        "scan"
+      ],
+      "question": {
+        "wordId": "scent",
+        "stem": "选择 \"scent\" 的正确中文意思：",
+        "correct": "n.气味,香味,香水,线索,嗅觉 v.嗅,发觉",
+        "options": [
+          "n.下降,降下;斜坡;血统,家世",
+          "n.气味,香味,香水,线索,嗅觉 v.嗅,发觉",
+          "n.分(币);百 per cent百分之",
+          "n.口音,腔调；重音(符号)vt.重读"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语sentire（感觉、感知），原指通过感觉感知到的东西。词根-sent-（感觉）+ -t（名词后缀）→ 感觉到的气味。核心动作是“通过嗅觉感知”。",
+        "similarWarning": "cent（分） vs scent（气味）：c-替换sc-，音近义远。scene（场景） vs scent：-ene替换-ent，场景vs气味。descent（下降） vs scent：de-（向下）替换s-，下降vs气味。accent（口音） vs scent：ac-（朝向）替换s-，口音vs气味。ascend（上升） vs scent：a-（向上）替换s-，上升vs气味。decent（得体的） vs scent：de-替换sc-，得体vs气味。recent（最近的） vs scent：re-替换sc-，最近vs气味。silent（沉默的） vs scent：-ilent替换-ent，沉默vs气味。",
+        "extendedMeaning": "考研僻义：线索（如: a scent of a clue 线索的迹象）；嗅觉（如: have a keen scent for 对...有敏锐嗅觉）。",
+        "examUsage": "真题考点：catch/get the scent of（察觉到...的迹象）；on the scent（循着线索，即将找到）。例：The police were on the scent of the criminal.（警方正循线索追踪罪犯。）"
+      }
+    },
+    {
+      "id": "schedule",
+      "word": "schedule",
+      "phonetic": "/'ʃədju:əl/",
+      "meaning": "n.时间表,进度表 v.安排,预定",
+      "similar": [
+        "cheque",
+        "scheme"
+      ],
+      "question": {
+        "wordId": "schedule",
+        "stem": "选择 \"schedule\" 的正确中文意思：",
+        "correct": "n.时间表,进度表 v.安排,预定",
+        "options": [
+          "a.极好的,超级的",
+          "n.时间表,进度表 v.安排,预定",
+          "n.(check)支票,空白支票;总收入",
+          "n.计划,方案;阴谋;配置 v.计划,策划;阴谋"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 schedula \"小纸片\"，由 scheda \"纸叶\"（与希腊语 skhe- \"拥有\"相关）加小后缀 -ula 构成。核心动作是\"将事项写在纸片上\"，引申为按纸片上的顺序安排时间。",
+        "similarWarning": "cheque (支票) 与 schedule 拼写差异为 ch-/sch- 及 -eque/-edule；scheme (计划) 差异为 -me/-dule，scheme 侧重阴谋或系统方案，schedule 侧重时间安排。",
+        "extendedMeaning": "在真题中常作动词 \"安排，预定\"，如 schedule a meeting；名词可表 \"时刻表，日程表\"，如 flight schedule。无特殊僻义。",
+        "examUsage": "常见考点：on schedule (准时，按计划进行) 与 ahead of schedule (提前) 为高频搭配，如真题例句：The project was completed ahead of schedule. 注意与 timetable 辨析，schedule 更常用于工作、学习计划。"
+      }
+    },
+    {
+      "id": "scheme",
+      "word": "scheme",
+      "phonetic": "/ski:m/",
+      "meaning": "n.计划,方案;阴谋;配置 v.计划,策划;阴谋",
+      "similar": [
+        "shame",
+        "theme",
+        "sphere",
+        "schedule"
+      ],
+      "question": {
+        "wordId": "scheme",
+        "stem": "选择 \"scheme\" 的正确中文意思：",
+        "correct": "n.计划,方案;阴谋;配置 v.计划,策划;阴谋",
+        "options": [
+          "n.计划,方案;阴谋;配置 v.计划,策划;阴谋",
+          "n.球,球体;范围,领域",
+          "n.羞耻,耻辱;可耻的人(或事物) v.使羞愧",
+          "n.题目，主题；主旋律，基调"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'σχῆμα (skhēma)'，意为'形式、形状'，后经拉丁语'schema'进入英语。核心物理动作为'构形、形成框架'，引申为对事物进行系统性安排或设计，如计划、方案；负面引申为秘密构形即阴谋。",
+        "similarWarning": "scene(场景) vs scheme(方案)：scene侧重视觉场景；shame(羞耻) vs scheme：shame指情感；theme(主题) vs scheme：theme为文章核心；sphere(球体/领域) vs scheme：sphere指范围；schedule(时间表) vs scheme：schedule重时间安排。",
+        "extendedMeaning": "考研中常考'阴谋'义，如'hatch a scheme'策划阴谋；另可指'体系、配置'，如'color scheme'配色方案，非普通计划。",
+        "examUsage": "真题高频搭配：'scheme to do sth'计划做某事（常含负面）；'a scheme for sth'某事的方案。例句：The government's scheme to reduce pollution was criticized.（政府减少污染的计划被批评。）"
+      }
+    },
+    {
+      "id": "scholar",
+      "word": "scholar",
+      "phonetic": "/'skɔlə/",
+      "meaning": "n.学者",
+      "similar": [
+        "solar"
+      ],
+      "question": {
+        "wordId": "scholar",
+        "stem": "选择 \"scholar\" 的正确中文意思：",
+        "correct": "n.学者",
+        "options": [
+          "n.学者",
+          "a.太阳的,日光的",
+          "n.病毒;(精神,道德方面的)有害影响",
+          "v.识别,鉴别;(with)把…和…看成一样"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源于希腊语 schole（闲暇、学习），最初指有闲暇从事学习和研究的人。schol-（学习）+ -ar（表示人），即“学习者”，后特指“学者”。",
+        "similarWarning": "solar（adj.太阳的）：拼写区别在于scholar开头有“sch-”，而solar是“s-”；词义无关，solar指太阳，scholar指学者。",
+        "extendedMeaning": "在考研中常引申为“有学问的人、博学之士”，不限于学术机构，也用于泛指知识渊博者。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "scholarship",
+      "word": "scholarship",
+      "phonetic": "/'skɔləʃip/",
+      "meaning": "n.奖学金;学问,学识",
+      "similar": [],
+      "question": {
+        "wordId": "scholarship",
+        "stem": "选择 \"scholarship\" 的正确中文意思：",
+        "correct": "n.奖学金;学问,学识",
+        "options": [
+          "a./ad.更坏,更差(的/地)",
+          "n.奖学金;学问,学识",
+          "n.狼",
+          "a.电的,电学的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "由 scholar（学者）+ -ship（表示状态、身份或抽象概念的后缀）构成。核心逻辑：scholar 源自古希腊语 schole（闲暇、学习），引申为“学者”；-ship 表示“身份、状态或能力”。因此 scholarship 本义是“学者的身份或状态”，即“学问、学识”；后引申为“奖学金”（为资助学者身份的人提供的资金）。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中，scholarship 常以“学问、学术研究”义出现，如“a work of scholarship”（一项学术研究），而非仅指“奖学金”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "scientific",
+      "word": "scientific",
+      "phonetic": "/ˌsaiən'tifik/",
+      "meaning": "a.科学上的",
+      "similar": [
+        "scientist",
+        "specific",
+        "eccentric"
+      ],
+      "question": {
+        "wordId": "scientific",
+        "stem": "选择 \"scientific\" 的正确中文意思：",
+        "correct": "a.科学上的",
+        "options": [
+          "a.古怪的，怪癖的，异乎寻常的n.古怪的人",
+          "a.科学上的",
+          "n.科学家",
+          "a.明确的,具体的;特定的,特有的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 scientia（知识），由 scire（知道）的名词化形式 + -fic（表示“做、使成为”）构成。核心动作是“使知识成为系统”，即科学方法的应用。",
+        "similarWarning": "scientist（科学家）是名词，后缀 -ist 表人；specific（具体的）源自 species（种类），强调类别明确；eccentric（古怪的）源自 ex-（外）+ centr（中心），指偏离中心。字母差异：scientific 含 -ific，specific 含 -ific 但意义不同。",
+        "extendedMeaning": "在考研阅读中常引申为“严谨的、系统的”，如 scientific approach（系统方法），强调方法论而非单纯学科。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "scientist",
+      "word": "scientist",
+      "phonetic": "/'saiəntist/",
+      "meaning": "n.科学家",
+      "similar": [
+        "scientific",
+        "dentist"
+      ],
+      "question": {
+        "wordId": "scientist",
+        "stem": "选择 \"scientist\" 的正确中文意思：",
+        "correct": "n.科学家",
+        "options": [
+          "n.科学家",
+          "a.科学上的",
+          "ad./a.向旁边(的),侧身,横着(的),斜着(的)",
+          "n.牙医"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语scientia（知识），由scire（知道）派生，-ist表人，字面即“有知识的人”，后专指从事科学研究的人。",
+        "similarWarning": "scientific（adj.科学的）- scientist（n.科学家）词根相同但词性不同；dentist（n.牙医）- 仅后缀-ist相同，词根dent-（牙齿）与sci-（知道）无关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "scissors",
+      "word": "scissors",
+      "phonetic": "/'sizəz/",
+      "meaning": "n.剪子",
+      "similar": [],
+      "question": {
+        "wordId": "scissors",
+        "stem": "选择 \"scissors\" 的正确中文意思：",
+        "correct": "n.剪子",
+        "options": [
+          "n.瀑布",
+          "v./n.离婚,分离",
+          "n.剩余物,剩下的;余数,余项",
+          "n.剪子"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'cisorium'（切割工具），词根 'cise-'（切割）与 'scindere'（劈开）同源。剪刀通过两刃交叉实现切割动作，核心物理动作是 '剪切'。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "scold",
+      "word": "scold",
+      "phonetic": "/skəuld/",
+      "meaning": "v.责骂,训斥",
+      "similar": [
+        "bold",
+        "cord",
+        "fold",
+        "sole",
+        "solo",
+        "scale",
+        "scope",
+        "score"
+      ],
+      "question": {
+        "wordId": "scold",
+        "stem": "选择 \"scold\" 的正确中文意思：",
+        "correct": "v.责骂,训斥",
+        "options": [
+          "v.责骂,训斥",
+          "a.大胆的,勇敢的;冒失的;黑体的,粗体的",
+          "n.绳,索",
+          "v.折叠;合拢;抱住 n.褶,褶痕;羊栏;信徒"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古北欧语 'skald' (诗人/吟唱者)，原指通过诗歌形式进行讽刺、责骂。词根演变：诗人吟唱 → 讽刺责骂 → 现代含义'训斥'。核心动作：用语言进行公开的、情绪化的批评。",
+        "similarWarning": "cold (冷的) vs scold (责骂)：字母差异在 's'，scold 强调带有情绪温度的批评；old (老的) vs scold：scold 多一个 'sc'，与'说话'相关。",
+        "extendedMeaning": "在考研阅读中，scold 偶尔引申为'严厉批评制度/政策'，如 'scold the government' (严厉批评政府)，而非仅指个人间的责骂。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "scope",
+      "word": "scope",
+      "phonetic": "/skəup/",
+      "meaning": "n.(活动)范围;机会,余地",
+      "similar": [
+        "cope",
+        "score",
+        "slope",
+        "escape",
+        "scrape",
+        "cop",
+        "cape",
+        "code"
+      ],
+      "question": {
+        "wordId": "scope",
+        "stem": "选择 \"scope\" 的正确中文意思：",
+        "correct": "n.(活动)范围;机会,余地",
+        "options": [
+          "n.(活动)范围;机会,余地",
+          "v.(with)竞争,对抗;(with)对付,妥善处理",
+          "n.斜坡,斜面;倾斜,斜度 v.(使)倾斜",
+          "n.得分,分数;二十 v.得(分),记(…的)分数"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语skopos（目标、观察），原指“观察的目标或范围”。核心物理动作是“看”，引申为“视野所及的区域”或“活动的余地”。词根-scop-（看）在telescope（望远镜）中保留原义，scope则抽象化为“范围、机会”。",
+        "similarWarning": "scope vs. score: scope有字母p（看），score有字母r（刻痕），score是“分数”或“得分”。\nscope vs. slope: slope有字母l（倾斜），指“斜坡”。\nscope vs. cope: cope无字母s，意为“应对”，与scope的“范围”无关。",
+        "extendedMeaning": "在考研阅读中，scope常引申为“（处理、研究等的）领域或界限”，如beyond the scope of this paper（超出本文范围）。此外，作动词时偶见“仔细检查”义，但非高频。",
+        "examUsage": "高频搭配：within the scope of（在……范围内）；beyond the scope of（超出……范围）。真题中常作为主旨题或细节题的关键词，需注意其与range、extent的区别：scope强调活动的边界或余地，range强调变化的幅度。"
+      }
+    },
+    {
+      "id": "score",
+      "word": "score",
+      "phonetic": "/skɔ:/",
+      "meaning": "n.得分,分数;二十 v.得(分),记(…的)分数",
+      "similar": [
+        "core",
+        "sore",
+        "scare",
+        "scope",
+        "scorn",
+        "shore",
+        "ashore",
+        "escort"
+      ],
+      "question": {
+        "wordId": "score",
+        "stem": "选择 \"score\" 的正确中文意思：",
+        "correct": "n.得分,分数;二十 v.得(分),记(…的)分数",
+        "options": [
+          "a.疼痛的;痛心的 n.痛处,疮口",
+          "n.果核;中心,核心",
+          "n.惊恐,恐慌v.惊吓,受惊",
+          "n.得分,分数;二十 v.得(分),记(…的)分数"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "score源自古英语scoru，原指刻痕或划线，因古代用刻痕计数，后引申为比赛中的得分、分数。核心物理动作为‘刻划标记’，用于记录数量。",
+        "similarWarning": "core（核心，果核）与score差s；sore（疼痛的）与score差c；scare（惊吓）与score差a→e；scope（范围）与score差p→c；scorn（轻蔑）与score差n→e；shore（海岸）与score差h→c；store（商店）与score差t→c；ashore（上岸）与score差a+h→c。",
+        "extendedMeaning": "考研僻义：n. 乐谱（真题中常与‘音乐’场景结合，如‘read the score’读乐谱）；v. 批评、抨击（如‘score points off sb.’驳倒某人）；v. 成功、获得（如‘score a hit’大获成功）。",
+        "examUsage": "真题考点：动词短语‘score high’（得高分）常与‘on the test’搭配；名词‘score’作‘二十’时，用于‘three score years’（60年），属旧式表达，真题中偶现于阅读背景。"
+      }
+    },
+    {
+      "id": "scorn",
+      "word": "scorn",
+      "phonetic": "/skɔ:n/",
+      "meaning": "v./n.轻蔑,藐视",
+      "similar": [
+        "corn",
+        "score",
+        "escort",
+        "born",
+        "coin",
+        "cord",
+        "core",
+        "horn"
+      ],
+      "question": {
+        "wordId": "scorn",
+        "stem": "选择 \"scorn\" 的正确中文意思：",
+        "correct": "v./n.轻蔑,藐视",
+        "options": [
+          "vt.护送(卫)；陪同 n.警卫，护送者；仪仗兵",
+          "v./n.轻蔑,藐视",
+          "n.谷物,庄稼,玉米",
+          "n.得分,分数;二十 v.得(分),记(…的)分数"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根为古法语'escarn'（嘲笑），与'corn'（角）无关。核心动作是'用轻蔑的态度对待'，即物理上的'嗤之以鼻'或'不屑一顾'，强调情感上的贬低与排斥。",
+        "similarWarning": "形近词辨析：corn（玉米，谷物） vs. scorn（轻蔑）：首字母's'表'向上/外'，加'corn'引申为'（把对方）当作玉米粒般渺小'；score（分数，乐谱） vs. scorn：后四字母'ore'（矿石） vs. 'orn'（装饰），前者表'刻痕'，后者表'轻蔑表情'；escort（护送） vs. scorn：前缀'es-'（向外）表'伴随'，而'scorn'无前缀。",
+        "extendedMeaning": "考研僻义：作名词时，可表'轻蔑的对象'（a scorn to sth.），如'He was a scorn to his classmates.'（他是同学们轻蔑的对象）。",
+        "examUsage": "真题考点：固定搭配'pour scorn on'（对…嗤之以鼻），如真题例句：'Critics poured scorn on the proposal.'（批评家对该提议嗤之以鼻）。"
+      }
+    },
+    {
+      "id": "scout",
+      "word": "scout",
+      "phonetic": "/skaut/",
+      "meaning": "n.侦察员,侦察机(舰) v.搜索,侦察",
+      "similar": [
+        "shout",
+        "escort",
+        "sprout",
+        "shot",
+        "slot",
+        "soul",
+        "soup",
+        "sour"
+      ],
+      "question": {
+        "wordId": "scout",
+        "stem": "选择 \"scout\" 的正确中文意思：",
+        "correct": "n.侦察员,侦察机(舰) v.搜索,侦察",
+        "options": [
+          "vt.护送(卫)；陪同 n.警卫，护送者；仪仗兵",
+          "v.大声叫，喊，呼出 n.呼喊，叫",
+          "n.侦察员,侦察机(舰) v.搜索,侦察",
+          "vi.发芽，抽条 vt.使发芽 n.新芽，嫩苗"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自古法语escouter‘听’（现代法语écouter），核心动作是‘侧耳倾听’。侦察员scout的本质动作是‘隐蔽观察、搜集信息’，与单纯‘看’不同，强调‘监听、探听’的原始语义。",
+        "similarWarning": "shout（喊叫）：s-开头，与scout差一个c，scout侧重‘悄悄侦察’，shout是‘大声喊’。escort（护送）：前缀es-+cort，与scout拼写部分重叠，但escort是‘伴随保护’，scout是‘先行侦察’。sprout（发芽）：sp-开头+out，与scout差p，sprout是‘植物生长’，scout是‘人搜索’。",
+        "extendedMeaning": "在考研阅读中，scout常引申为‘物色、寻找（人才/地点）’的动词用法，如scout for talent（物色人才），或名词‘星探’（talent scout）。",
+        "examUsage": "真题中常见短语scout out（侦察出、找到），如scout out a suitable location。注意与look for的区别：scout更强调‘预先探查、摸底’，带有策略性。"
+      }
+    },
+    {
+      "id": "scramble",
+      "word": "scramble",
+      "phonetic": "/'skræmbl/",
+      "meaning": "vi.(快速地)爬，攀登；互相争夺，争先",
+      "similar": [
+        "cradle",
+        "gamble",
+        "sample",
+        "scrape",
+        "stable",
+        "durable",
+        "stumble",
+        "tremble"
+      ],
+      "question": {
+        "wordId": "scramble",
+        "stem": "选择 \"scramble\" 的正确中文意思：",
+        "correct": "vi.(快速地)爬，攀登；互相争夺，争先",
+        "options": [
+          "vi.(快速地)爬，攀登；互相争夺，争先",
+          "n.摇篮;发源地",
+          "n./v.投机,冒险;赌博",
+          "n.样品,实例,标本,抽样检查 v.取样,采样"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能来自‘scrabble’的变体，核心物理动作为‘手脚并用地快速攀爬或抓取’，引申为在混乱中‘争夺’或‘争先’（如scramble for resources）。",
+        "similarWarning": "scramble vs. stumble: 前者强调快速攀爬或混乱争夺（如scramble up a hill）；后者强调绊倒或蹒跚（如stumble over a rock）。字母差异：scram- vs. stum-。",
+        "extendedMeaning": "（考研僻义）搅乱、混杂：如scramble the message（搅乱信息/加密信号）；scrambled eggs（炒蛋，非本义但常见）。",
+        "examUsage": "真题考点：scramble for sth.（争夺某物）常作核心搭配，如‘firms scramble for market share’（企业争夺市场份额）。"
+      }
+    },
+    {
+      "id": "scrap",
+      "word": "scrap",
+      "phonetic": "/skræp/",
+      "meaning": "n.碎片;废料 v.废弃,报废",
+      "similar": [
+        "scrape",
+        "strap",
+        "scream",
+        "script",
+        "cap",
+        "rap",
+        "chap",
+        "clap"
+      ],
+      "question": {
+        "wordId": "scrap",
+        "stem": "选择 \"scrap\" 的正确中文意思：",
+        "correct": "n.碎片;废料 v.废弃,报废",
+        "options": [
+          "n.碎片;废料 v.废弃,报废",
+          "v.刮(掉),擦过,勉强通过 n.刮,擦痕,刮擦声",
+          "n.皮带v.用带扣住，束牢；用绷带包扎",
+          "v./n.尖声叫,喊叫着说出,(风)呼啸"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语scrappian“刮擦”，核心动作是“刮下的碎片”。词根scrap-与动词scrape“刮擦”同源，指从物体表面刮落的小块物质，后引申为“废弃的残余物”。",
+        "similarWarning": "scrap（碎片） vs scrape（刮擦）：scrap以p结尾表名词碎片，scrape以e结尾表动词刮的动作。strap（带子）：str-前缀不同，指捆绑用的带子。scream（尖叫）：-eam元音不同，指刺耳声音。script（手稿）：-ipt后缀，指书写文字。cap（帽子）：去掉s-前缀，指覆盖物。rap（敲击）：去掉sc-前缀，指轻拍。chap（皲裂）：ch-开头，指皮肤裂口。clap（拍手）：cl-开头，指拍击动作。",
+        "extendedMeaning": "考研中常考“废弃、取消”的动词义，如scrap a plan（废弃计划），而非仅指物理碎片。",
+        "examUsage": "真题考点：scrap作动词“废弃”与abandon/abolish同义替换，常与plan, policy, project搭配。例句：The government decided to scrap the old regulation.（政府决定废除旧规定。）"
+      }
+    },
+    {
+      "id": "scrape",
+      "word": "scrape",
+      "phonetic": "/skreip/",
+      "meaning": "v.刮(掉),擦过,勉强通过 n.刮,擦痕,刮擦声",
+      "similar": [
+        "scrap",
+        "cape",
+        "rape",
+        "crane",
+        "grape",
+        "scale",
+        "scare",
+        "scope"
+      ],
+      "question": {
+        "wordId": "scrape",
+        "stem": "选择 \"scrape\" 的正确中文意思：",
+        "correct": "v.刮(掉),擦过,勉强通过 n.刮,擦痕,刮擦声",
+        "options": [
+          "n.海角，岬；披肩，短披风",
+          "n./vt.掠夺,蹂躏,强奸",
+          "n.碎片;废料 v.废弃,报废",
+          "v.刮(掉),擦过,勉强通过 n.刮,擦痕,刮擦声"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古斯堪的纳维亚语skrapa，核心动作为“用尖锐工具反复摩擦表面”。scrap（碎片）为其同源词，强调剥离动作的结果；-e动词后缀表动作本身。本质是“通过摩擦去除表面物质”的物理过程。",
+        "similarWarning": "scrape vs scrap：scrape结尾-e表动作，scrap无-e表名词“碎片”或动词“废弃”。对比：scrape a knee（擦伤膝盖）vs scrap a plan（废弃计划）。",
+        "extendedMeaning": "考研僻义：v. 勉强维持/凑合（scrape a living 勉强糊口）；n. 困境（get into a scrape 陷入麻烦）。",
+        "examUsage": "真题考点：scrape through（勉强通过考试/难关），如‘He scraped through the exam with a low score.’；搭配scrape together（东拼西凑）用于经济类阅读。"
+      }
+    },
+    {
+      "id": "scratch",
+      "word": "scratch",
+      "phonetic": "/skrætʃ/",
+      "meaning": "v.抓,搔,扒 n.抓,搔,抓痕;起跑线",
+      "similar": [
+        "snatch",
+        "stretch"
+      ],
+      "question": {
+        "wordId": "scratch",
+        "stem": "选择 \"scratch\" 的正确中文意思：",
+        "correct": "v.抓,搔,扒 n.抓,搔,抓痕;起跑线",
+        "options": [
+          "v.抓,搔,扒 n.抓,搔,抓痕;起跑线",
+          "vt.胁迫，威胁(某人做某事)",
+          "v.伸展，延伸 n.拉长；伸展；一段时间/路程",
+          "n./v.攫取,抢夺"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根来自古英语scrattan，拟声词，模仿指甲或爪子划过粗糙表面时发出的‘呲啦’声。核心物理动作为‘用尖锐物（如指甲、爪子）在表面划动并留下痕迹’。引申为‘抓挠、搔痒’（解除痒感），以及‘擦伤、划痕’（物理结果）。名词‘起跑线’源于旧时赛马前用爪子在起跑线处划痕作为标记。",
+        "similarWarning": "catch（抓取）: 强调用手或工具突然抓住移动物体，动作是‘握住’，无划痕；scratch强调用尖物‘划、挠’，结果留下痕迹。snatch（抢夺）: 强调突然、粗暴地夺走，动作是‘抢’，无反复划动。stretch（伸展）: 强调拉伸长度或范围，拼写有‘str-’与‘-tch’相似，但动作是‘拉长’，无划动。",
+        "extendedMeaning": "【熟词僻义】n. 起跑线（from scratch: 从零开始/白手起家）；v. 取消、撤销（scratch a plan: 取消计划）；adj. 凑合的、临时拼凑的（scratch team: 临时组建的团队）。",
+        "examUsage": "【真题考点】核心短语：from scratch（从零开始，白手起家）——常用于议论文中描述创业、创新或重建过程。真题例句：'They had to build the business from scratch after the fire.'（大火后他们不得不白手起家重建生意。）注意与‘start from square one’（从头开始）同义替换。"
+      }
+    },
+    {
+      "id": "scream",
+      "word": "scream",
+      "phonetic": "/skri:m/",
+      "meaning": "v./n.尖声叫,喊叫着说出,(风)呼啸",
+      "similar": [
+        "cream",
+        "stream",
+        "seam",
+        "scrap",
+        "screw",
+        "steam",
+        "screen",
+        "spread"
+      ],
+      "question": {
+        "wordId": "scream",
+        "stem": "选择 \"scream\" 的正确中文意思：",
+        "correct": "v./n.尖声叫,喊叫着说出,(风)呼啸",
+        "options": [
+          "n.乳脂,(鲜)奶油;奶油色",
+          "n.缝,接缝",
+          "v./n.尖声叫,喊叫着说出,(风)呼啸",
+          "n.小河,溪流;流,一股,一串 v.流出,涌"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模拟尖锐、刺耳的高频声响。核心动作是“发出尖锐刺耳的叫声或声音”，强调声音的穿透力和紧张感。",
+        "similarWarning": "cream (奶油): s- scream; stream (溪流): str- scream; seam (接缝): se- scream; dream (梦): dr- scream; scrap (碎片): scr- scream; screw (螺丝): scr- screw; steam (蒸汽): st- scream; screen (屏幕): scr- screen。核心区别：scream 首字母 s- 后接 -cream 表示“尖叫”；其他词首字母或辅音组合不同，词义差异大。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "screen",
+      "word": "screen",
+      "phonetic": "/skri:n/",
+      "meaning": "n.屏幕,屏风;帘 v.掩蔽,包庇;筛选",
+      "similar": [
+        "creep",
+        "green",
+        "screw",
+        "siren",
+        "scream",
+        "discreet"
+      ],
+      "question": {
+        "wordId": "screen",
+        "stem": "选择 \"screen\" 的正确中文意思：",
+        "correct": "n.屏幕,屏风;帘 v.掩蔽,包庇;筛选",
+        "options": [
+          "n.屏幕,屏风;帘 v.掩蔽,包庇;筛选",
+          "v.爬,爬行;(植物)蔓延",
+          "a.绿色的;生的;未成熟的 n.绿色;蔬菜;植物",
+          "n.螺旋,螺丝(钉) v.拧,拧紧"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自中古英语 'scren'，与古法语 'escran' 相关，原指用于遮挡或分隔的物体（如屏风）。核心物理动作为“遮蔽”或“分隔”，后引申为“屏幕”（遮光/信息的界面）和“筛选”（像筛子一样分离）。",
+        "similarWarning": "scream（尖叫）：scream vs screen，差字母 'a' 和 'e'，词义完全无关；screw（螺丝）：screw vs screen，拼写相似但动作不同（旋转 vs 筛选）；siren（警报）：siren vs screen，音近但无词源关联。",
+        "extendedMeaning": "【熟词僻义】v. 审查，检查（如背景调查）：'The company screened all applicants.'（公司审查了所有申请人。）n. 遮蔽物，掩护：'a screen of trees'（一排树形成的屏障）。",
+        "examUsage": "【真题考点】'screen out'（筛选出/屏蔽）：'The software screens out spam emails.' 常考搭配：'screen for'（筛查）：'screen for cancer'（筛查癌症）。"
+      }
+    },
+    {
+      "id": "screw",
+      "word": "screw",
+      "phonetic": "/skru:/",
+      "meaning": "n.螺旋,螺丝(钉) v.拧,拧紧",
+      "similar": [
+        "crew",
+        "sacred",
+        "scream",
+        "screen",
+        "secret",
+        "shrewd",
+        "sew",
+        "acre"
+      ],
+      "question": {
+        "wordId": "screw",
+        "stem": "选择 \"screw\" 的正确中文意思：",
+        "correct": "n.螺旋,螺丝(钉) v.拧,拧紧",
+        "options": [
+          "a.神圣的;宗教的;庄严的",
+          "n.全体船员,全体乘务员",
+          "n.螺旋,螺丝(钉) v.拧,拧紧",
+          "v./n.尖声叫,喊叫着说出,(风)呼啸"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自古法语‘escroue’（螺母、螺丝孔），核心物理动作为‘螺旋旋转’和‘拧紧固定’。词根无复杂演变，直接对应螺旋状物体或旋转动作。",
+        "similarWarning": "形近词辨析：screw vs. crew（n.全体船员/工作人员，首字母s-表螺旋，c-表团体）；screw vs. scream（v.尖叫，尾音-m表声音，-w表机械）；screw vs. screen（n.屏幕，-en表平面，-ew表立体螺纹）。",
+        "extendedMeaning": "熟词僻义：v. 欺骗、敲诈（如‘screw sb. out of sth.’）；n. 监狱看守（俚语）；v. 搞砸、弄糟（如‘screw up’）。",
+        "examUsage": "真题考点：固定搭配‘screw up’（搞砸/拧紧）为高频题眼；‘screw/unscrew’（拧上/拧下）在科技类阅读中表机械操作。"
+      }
+    },
+    {
+      "id": "script",
+      "word": "script",
+      "phonetic": "/skript/",
+      "meaning": "n.剧本(原稿)；手稿，原稿；笔迹，手迹",
+      "similar": [
+        "scrap",
+        "strip",
+        "scrape",
+        "strict",
+        "stripe"
+      ],
+      "question": {
+        "wordId": "script",
+        "stem": "选择 \"script\" 的正确中文意思：",
+        "correct": "n.剧本(原稿)；手稿，原稿；笔迹，手迹",
+        "options": [
+          "n.碎片;废料 v.废弃,报废",
+          "n.剧本(原稿)；手稿，原稿；笔迹，手迹",
+          "v.刮(掉),擦过,勉强通过 n.刮,擦痕,刮擦声",
+          "v.剥,剥去 n.窄条,条纹"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“scribere”（写），核心动作为“写、刻写”。script指“写出来的东西”，即手稿、剧本或笔迹。",
+        "similarWarning": "scrap（碎片，废弃） vs script（手稿）：scrap无“写”动作，指残余物。strip（剥去，条带） vs script：strip强调剥离或长条，script强调书写。scrape（刮擦） vs script：scrape指物理摩擦，script无此义。strict（严格的） vs script：strict来自“拉紧”，script来自“写”。stripe（条纹） vs script：stripe指图案线条，script指文字。",
+        "extendedMeaning": "在考研中，script可引申为“脚本、计划”，如“a script for a speech”（演讲脚本）；此外，在计算机语境中意为“脚本语言”，如“JavaScript”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "scrutiny",
+      "word": "scrutiny",
+      "phonetic": "/'skru:tini/",
+      "meaning": "n.周密的调查；仔细看；监视；选票复查",
+      "similar": [],
+      "question": {
+        "wordId": "scrutiny",
+        "stem": "选择 \"scrutiny\" 的正确中文意思：",
+        "correct": "n.周密的调查；仔细看；监视；选票复查",
+        "options": [
+          "n.靴刺,马刺;刺激,刺激物 v.刺激,激励",
+          "n.咖啡馆,(小)餐馆",
+          "n.早餐 v.(给某人)吃早餐",
+          "n.周密的调查；仔细看；监视；选票复查"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语scrutari（翻寻、搜索），原指拾荒者翻捡垃圾以寻找有用之物，核心物理动作为“仔细翻找”，引申为周密的调查或仔细审视。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研真题中常引申为“严密监视”或“选票复查”，强调带有怀疑或批判性的细致观察，如under public scrutiny（受到公众严密关注）。",
+        "examUsage": "常考搭配：subject to scrutiny（受到仔细审查），真题例句：The government's actions came under close scrutiny.（政府的行为受到严密审查。）作为干扰项时，常与examination（普通检查）、inspection（官方检查）区别，强调批判性审视。"
+      }
+    },
+    {
+      "id": "sculpture",
+      "word": "sculpture",
+      "phonetic": "/'skʌlptʃə/",
+      "meaning": "n.雕刻(术)，雕塑(术)；雕刻作品",
+      "similar": [
+        "culture",
+        "capture"
+      ],
+      "question": {
+        "wordId": "sculpture",
+        "stem": "选择 \"sculpture\" 的正确中文意思：",
+        "correct": "n.雕刻(术)，雕塑(术)；雕刻作品",
+        "options": [
+          "a.想不到的, 意外的, 未预料到",
+          "n.雕刻(术)，雕塑(术)；雕刻作品",
+          "n.文化,文明;修养;耕种；栽培,培育;",
+          "v./n.捕获,俘虏;夺得,攻占"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语sculpere“雕刻”，同源希腊语skallein“挖”。词根sculp-表示“刻、挖”，-ture为名词后缀，表行为或结果。核心物理动作：用工具在硬质材料上刻挖出形状。",
+        "similarWarning": "culture（文化；培养）：c-开头，-ture结尾，但词根cult-表“耕作”；capture（捕获）：cap-表“抓”，-ture结尾，动作是“抓取”，非“雕刻”。区别：sculpture强调“刻挖”，culture侧重“培育”，capture指“捕捉”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "seal",
+      "word": "seal",
+      "phonetic": "/si:l/",
+      "meaning": "n.封铅,封条;印,图章;海豹 v.封,密封",
+      "similar": [
+        "deal",
+        "heal",
+        "seam",
+        "zeal",
+        "serial",
+        "ideal",
+        "legal",
+        "medal"
+      ],
+      "question": {
+        "wordId": "seal",
+        "stem": "选择 \"seal\" 的正确中文意思：",
+        "correct": "n.封铅,封条;印,图章;海豹 v.封,密封",
+        "options": [
+          "v.治愈,愈合",
+          "n.缝,接缝",
+          "v.处理;做买卖,经营;分配;对待 n.交易",
+          "n.封铅,封条;印,图章;海豹 v.封,密封"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不确定。核心动作：用封条/印章封闭物体或文件，防止开启或伪造；引申为密封、确认。海豹义源自其他词源，指其油滑外表。",
+        "similarWarning": "steal（偷）vs seal：steal有t，表偷窃；seal无t，表密封。sea（海）vs seal：sea无l，表海洋；seal有l，表海豹/封条。",
+        "extendedMeaning": "考研僻义：1. 象征物（如公司印章、官方标记）；2. 确认、保证（如seal the deal成交）。",
+        "examUsage": "考点：seal off（封锁）；seal in/out（封存/隔绝）。真题例句：The agreement was sealed with a handshake.（协议以握手确认。）"
+      }
+    },
+    {
+      "id": "seam",
+      "word": "seam",
+      "phonetic": "/si:m/",
+      "meaning": "n.缝,接缝",
+      "similar": [
+        "steam",
+        "beam",
+        "seal",
+        "seem",
+        "sham",
+        "slam",
+        "scream",
+        "stream"
+      ],
+      "question": {
+        "wordId": "seam",
+        "stem": "选择 \"seam\" 的正确中文意思：",
+        "correct": "n.缝,接缝",
+        "options": [
+          "n.封铅,封条;印,图章;海豹 v.封,密封",
+          "n.缝,接缝",
+          "n.水汽,蒸汽,水蒸气 v.蒸发;蒸;用蒸汽开动",
+          "n.(横)梁,桁条;(光线的)束,柱 v.微笑"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古英语“seam”，本义为“缝纫的线迹”。核心物理动作是“将两块材料通过针线连接在一起”，引申为“接缝、结合处”。",
+        "similarWarning": "seam vs. seem：seam（缝）含字母a，像针线；seem（似乎）含e，与“看”相关（词根spec）。\nseam vs. beam：beam（横梁）含b，像横木；seam强调纵向拼接。\nseam vs. steam：steam（蒸汽）多一个t，像水汽升腾。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "search",
+      "word": "search",
+      "phonetic": "/sə:tʃ/",
+      "meaning": "v./n.(for)搜索,寻找,探查",
+      "similar": [
+        "research",
+        "arch",
+        "beach",
+        "march",
+        "march",
+        "peach",
+        "reach",
+        "scarce"
+      ],
+      "question": {
+        "wordId": "search",
+        "stem": "选择 \"search\" 的正确中文意思：",
+        "correct": "v./n.(for)搜索,寻找,探查",
+        "options": [
+          "v./n.(for)搜索,寻找,探查",
+          "v./n.(into,on)研究,调查",
+          "n.海滩,湖滩,河滩",
+          "n.拱门，桥拱洞 v.拱起，(使)变成弓形"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语circare（四处走动），由circus（圆圈）+ -are（动词后缀）组成，核心动作是“绕圈走动”以寻找目标，引申为“搜索、探查”。",
+        "similarWarning": "research（re-再次+search，强调系统研究）；arch（弓形，拱门）；each（每个）；beach（海滩）；earth（地球）；march（三月，行军）；peach（桃子）。",
+        "extendedMeaning": "在考研外刊中常引申为“探究、追溯”（如search one’s memory），或作名词“搜查、检索”。",
+        "examUsage": ""
+      }
+    }
+  ]
+}

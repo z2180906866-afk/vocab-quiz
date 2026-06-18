@@ -1,0 +1,1735 @@
+{
+  "batchId": 97,
+  "words": [
+    {
+      "id": "virtual",
+      "word": "virtual",
+      "phonetic": "/'vɜ:tʃuəl/",
+      "meaning": "a.实际上的,事实上的",
+      "similar": [
+        "vital",
+        "ritual",
+        "virtue",
+        "visual",
+        "spiritual",
+        "vertical"
+      ],
+      "question": {
+        "wordId": "virtual",
+        "stem": "选择 \"virtual\" 的正确中文意思：",
+        "correct": "a.实际上的,事实上的",
+        "options": [
+          "a.生死攸关的,重大的;生命的,生机的",
+          "a.宗教仪式的,典礼的 n.(宗教)仪式,典礼",
+          "a.实际上的,事实上的",
+          "n.德行,美德;贞操;优点;功效,效力"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：virtual的核心含义与\"a.实际上的,事实上的\"相关",
+        "similarWarning": "注意区分：virtual 与 vital, ritual, virtue, visual, spiritual, vertical 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "virtue",
+      "word": "virtue",
+      "phonetic": "/'və:tju:/",
+      "meaning": "n.德行,美德;贞操;优点;功效,效力",
+      "similar": [
+        "virtual",
+        "virus"
+      ],
+      "question": {
+        "wordId": "virtue",
+        "stem": "选择 \"virtue\" 的正确中文意思：",
+        "correct": "n.德行,美德;贞操;优点;功效,效力",
+        "options": [
+          "n.德行,美德;贞操;优点;功效,效力",
+          "a.认真思考的,沉思的;体贴的,关心的",
+          "n.病毒;(精神,道德方面的)有害影响",
+          "a.实际上的,事实上的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：virtue的核心含义与\"n.德行,美德;贞操;优点;功效,效力\"相关",
+        "similarWarning": "注意区分：virtue 与 virtual, virus 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "virus",
+      "word": "virus",
+      "phonetic": "/'vaiərəs/",
+      "meaning": "n.病毒;(精神,道德方面的)有害影响",
+      "similar": [
+        "circus",
+        "versus",
+        "virtue",
+        "minus"
+      ],
+      "question": {
+        "wordId": "virus",
+        "stem": "选择 \"virus\" 的正确中文意思：",
+        "correct": "n.病毒;(精神,道德方面的)有害影响",
+        "options": [
+          "prep.(vs.)…对…(在诉讼,比赛等);与…相对",
+          "n.马戏团,杂技团;马戏场,杂技场",
+          "n.德行,美德;贞操;优点;功效,效力",
+          "n.病毒;(精神,道德方面的)有害影响"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：virus的核心含义与\"n.病毒;(精神,道德方面的)有害影响\"相关",
+        "similarWarning": "注意区分：virus 与 circus, versus, virtue, minus 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "visa",
+      "word": "visa",
+      "phonetic": "/'vi:zə/",
+      "meaning": "n.(护照等的)签证;维萨信用卡 vt.签证",
+      "similar": [
+        "via",
+        "visual",
+        "visit",
+        "vital"
+      ],
+      "question": {
+        "wordId": "visa",
+        "stem": "选择 \"visa\" 的正确中文意思：",
+        "correct": "n.(护照等的)签证;维萨信用卡 vt.签证",
+        "options": [
+          "n.(护照等的)签证;维萨信用卡 vt.签证",
+          "n.访问,参观 v.访问,参观;视察;降临;闲谈",
+          "prep.经；通过；凭借",
+          "a.看的,看得见的;视觉的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：visa的核心含义与\"n.(护照等的)签证;维萨信用卡 vt.签证\"相关",
+        "similarWarning": "注意区分：visa 与 via, visual, visit, vital 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "visible",
+      "word": "visible",
+      "phonetic": "/'vizəbl/",
+      "meaning": "a.看得见的, 明显的, 显著的",
+      "similar": [
+        "invisible",
+        "disable",
+        "advisable",
+        "eligible",
+        "feasible",
+        "possible",
+        "sensible",
+        "variable"
+      ],
+      "question": {
+        "wordId": "visible",
+        "stem": "选择 \"visible\" 的正确中文意思：",
+        "correct": "a.看得见的, 明显的, 显著的",
+        "options": [
+          "a.看得见的, 明显的, 显著的",
+          "a.可取的，适当的，明智的",
+          "a.看不见的,无形的",
+          "vt.使残废;使失去能力;丧失能力"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：visible的核心含义与\"a.看得见的, 明显的, 显著的\"相关",
+        "similarWarning": "注意区分：visible 与 invisible, disable, advisable, eligible, feasible, possible, sensible, variable 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vision",
+      "word": "vision",
+      "phonetic": "/'vɪʒn/",
+      "meaning": "n.视力,视觉;远见;洞察力;幻想,幻影;想象力",
+      "similar": [
+        "division",
+        "mission",
+        "version",
+        "visitor",
+        "visit",
+        "piston",
+        "aviation",
+        "decision"
+      ],
+      "question": {
+        "wordId": "vision",
+        "stem": "选择 \"vision\" 的正确中文意思：",
+        "correct": "n.视力,视觉;远见;洞察力;幻想,幻影;想象力",
+        "options": [
+          "n.视力,视觉;远见;洞察力;幻想,幻影;想象力",
+          "n.分,分割;部门,科,处;除法;分界线",
+          "n.版本;译本,译文;说法",
+          "n.使命,任务;使团,代表团"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：vision的核心含义与\"n.视力,视觉;远见;洞察力;幻想,幻影;想象力\"相关",
+        "similarWarning": "注意区分：vision 与 division, mission, version, visitor, visit, piston, aviation, decision 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "visit",
+      "word": "visit",
+      "phonetic": "/'vizit/",
+      "meaning": "n.访问,参观 v.访问,参观;视察;降临;闲谈",
+      "similar": [
+        "visitor",
+        "vision",
+        "sit",
+        "fist",
+        "list",
+        "mist",
+        "vast",
+        "vest"
+      ],
+      "question": {
+        "wordId": "visit",
+        "stem": "选择 \"visit\" 的正确中文意思：",
+        "correct": "n.访问,参观 v.访问,参观;视察;降临;闲谈",
+        "options": [
+          "vi.坐，坐下；位于；栖息；孵卵 vt.使就坐",
+          "n.访问者,客人,来宾,参观者",
+          "n.视力,视觉;远见;洞察力;幻想,幻影;想象力",
+          "n.访问,参观 v.访问,参观;视察;降临;闲谈"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：visit的核心含义与\"n.访问,参观 v.访问,参观;视察;降临;闲谈\"相关",
+        "similarWarning": "注意区分：visit 与 visitor, vision, sit, fist, list, mist, vast, vest 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "visitor",
+      "word": "visitor",
+      "phonetic": "/'vizitə/",
+      "meaning": "n.访问者,客人,来宾,参观者",
+      "similar": [
+        "visit",
+        "vision"
+      ],
+      "question": {
+        "wordId": "visitor",
+        "stem": "选择 \"visitor\" 的正确中文意思：",
+        "correct": "n.访问者,客人,来宾,参观者",
+        "options": [
+          "n.访问者,客人,来宾,参观者",
+          "n.视力,视觉;远见;洞察力;幻想,幻影;想象力",
+          "a.手的,手工做的,体力的 n.手册,指南",
+          "n.访问,参观 v.访问,参观;视察;降临;闲谈"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：visitor的核心含义与\"n.访问者,客人,来宾,参观者\"相关",
+        "similarWarning": "注意区分：visitor 与 visit, vision 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "visual",
+      "word": "visual",
+      "phonetic": "/'vizjuəl/",
+      "meaning": "a.看的,看得见的;视觉的",
+      "similar": [
+        "virtual",
+        "visa",
+        "usual",
+        "vital",
+        "casual",
+        "ritual"
+      ],
+      "question": {
+        "wordId": "visual",
+        "stem": "选择 \"visual\" 的正确中文意思：",
+        "correct": "a.看的,看得见的;视觉的",
+        "options": [
+          "a.通常的,平常的",
+          "n.(护照等的)签证;维萨信用卡 vt.签证",
+          "a.实际上的,事实上的",
+          "a.看的,看得见的;视觉的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：visual的核心含义与\"a.看的,看得见的;视觉的\"相关",
+        "similarWarning": "注意区分：visual 与 virtual, visa, usual, vital, casual, ritual 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vital",
+      "word": "vital",
+      "phonetic": "/'vaitəl/",
+      "meaning": "a.生死攸关的,重大的;生命的,生机的",
+      "similar": [
+        "virtual",
+        "ritual",
+        "visual",
+        "via",
+        "dial",
+        "visa",
+        "fatal",
+        "final"
+      ],
+      "question": {
+        "wordId": "vital",
+        "stem": "选择 \"vital\" 的正确中文意思：",
+        "correct": "a.生死攸关的,重大的;生命的,生机的",
+        "options": [
+          "a.看的,看得见的;视觉的",
+          "a.宗教仪式的,典礼的 n.(宗教)仪式,典礼",
+          "a.实际上的,事实上的",
+          "a.生死攸关的,重大的;生命的,生机的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：vital的核心含义与\"a.生死攸关的,重大的;生命的,生机的\"相关",
+        "similarWarning": "注意区分：vital 与 virtual, ritual, visual, via, dial, visa, fatal, final 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vitamin",
+      "word": "vitamin",
+      "phonetic": "/'vɪtəmɪn/",
+      "meaning": "n.维生素",
+      "similar": [],
+      "question": {
+        "wordId": "vitamin",
+        "stem": "选择 \"vitamin\" 的正确中文意思：",
+        "correct": "n.维生素",
+        "options": [
+          "v.(of)使摆脱,使去掉",
+          "n.小心;关怀,照料 v.(about)关心,介意,计较",
+          "n.维生素",
+          "n.寄生虫,食客"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：vitamin的核心含义与\"n.维生素\"相关",
+        "similarWarning": "注意区分：vitamin 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vivid",
+      "word": "vivid",
+      "phonetic": "/'vivid/",
+      "meaning": "a.鲜艳的;生动的,栩栩如生的",
+      "similar": [
+        "divide",
+        "void",
+        "civil",
+        "rigid",
+        "timid",
+        "valid",
+        "visit"
+      ],
+      "question": {
+        "wordId": "vivid",
+        "stem": "选择 \"vivid\" 的正确中文意思：",
+        "correct": "a.鲜艳的;生动的,栩栩如生的",
+        "options": [
+          "a.公民的,市民的;民间的;民用的;有礼貌的",
+          "a.鲜艳的;生动的,栩栩如生的",
+          "v.分,划分,分开;分配;(by)除",
+          "a.空虚的;没有的;无效的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：vivid的核心含义与\"a.鲜艳的;生动的,栩栩如生的\"相关",
+        "similarWarning": "注意区分：vivid 与 divide, void, civil, rigid, timid, valid, visit 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vocabulary",
+      "word": "vocabulary",
+      "phonetic": "/və'kæbjələri/",
+      "meaning": "n.词汇,词汇量;词汇表",
+      "similar": [],
+      "question": {
+        "wordId": "vocabulary",
+        "stem": "选择 \"vocabulary\" 的正确中文意思：",
+        "correct": "n.词汇,词汇量;词汇表",
+        "options": [
+          "n.野餐 v.(去)野餐",
+          "a.同种类的，同性质的，有相同特征的",
+          "n.运动,动;提议,动议 v.提议,动议",
+          "n.词汇,词汇量;词汇表"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：vocabulary的核心含义与\"n.词汇,词汇量;词汇表\"相关",
+        "similarWarning": "注意区分：vocabulary 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vocal",
+      "word": "vocal",
+      "phonetic": "/'vəukl/",
+      "meaning": "a.声音的;有声的;歌唱的 n.元音;声乐作品",
+      "similar": [
+        "local",
+        "social",
+        "coal",
+        "goal",
+        "oral",
+        "oval",
+        "loyal",
+        "moral"
+      ],
+      "question": {
+        "wordId": "vocal",
+        "stem": "选择 \"vocal\" 的正确中文意思：",
+        "correct": "a.声音的;有声的;歌唱的 n.元音;声乐作品",
+        "options": [
+          "a.社会的;交际的",
+          "n.煤,煤块",
+          "a.地方的,当地的;局部的",
+          "a.声音的;有声的;歌唱的 n.元音;声乐作品"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：vocal的核心含义与\"a.声音的;有声的;歌唱的 n.元音;声乐作品\"相关",
+        "similarWarning": "注意区分：vocal 与 local, social, coal, goal, oral, oval, loyal, moral 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vocation",
+      "word": "vocation",
+      "phonetic": "/vəu'keiʃən/",
+      "meaning": "n.职业;召唤;天命;天职;才能",
+      "similar": [
+        "location",
+        "vacation",
+        "dictation",
+        "education",
+        "evolution",
+        "formation",
+        "variation",
+        "action"
+      ],
+      "question": {
+        "wordId": "vocation",
+        "stem": "选择 \"vocation\" 的正确中文意思：",
+        "correct": "n.职业;召唤;天命;天职;才能",
+        "options": [
+          "n.听写,口述;命令",
+          "n.休假,假期",
+          "n.位置,场所,定位,测位",
+          "n.职业;召唤;天命;天职;才能"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：vocation的核心含义与\"n.职业;召唤;天命;天职;才能\"相关",
+        "similarWarning": "注意区分：vocation 与 location, vacation, dictation, education, evolution, formation, variation, action 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "voice",
+      "word": "voice",
+      "phonetic": "/vɔis/",
+      "meaning": "n.声音;嗓音;发音能力;意见,发言权;语态",
+      "similar": [
+        "vice",
+        "choice",
+        "notice",
+        "police",
+        "ice",
+        "nice",
+        "once",
+        "rice"
+      ],
+      "question": {
+        "wordId": "voice",
+        "stem": "选择 \"voice\" 的正确中文意思：",
+        "correct": "n.声音;嗓音;发音能力;意见,发言权;语态",
+        "options": [
+          "n.通知,通告,布告;注意,认识v.注意到,注意",
+          "n.选择(机会),抉择,选择项;入选者 a.精选的",
+          "n.邪恶;恶习;(pl.)台钳,老虎钳",
+          "n.声音;嗓音;发音能力;意见,发言权;语态"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：voice的核心含义与\"n.声音;嗓音;发音能力;意见,发言权;语态\"相关",
+        "similarWarning": "注意区分：voice 与 vice, choice, notice, police, ice, nice, once, rice 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "void",
+      "word": "void",
+      "phonetic": "/vɔid/",
+      "meaning": "a.空虚的;没有的;无效的",
+      "similar": [
+        "avoid",
+        "solid",
+        "valid",
+        "vivid",
+        "voice"
+      ],
+      "question": {
+        "wordId": "void",
+        "stem": "选择 \"void\" 的正确中文意思：",
+        "correct": "a.空虚的;没有的;无效的",
+        "options": [
+          "vt.防止，避免；逃避，避开",
+          "a.有效的;有根据的;正当的",
+          "a.空虚的;没有的;无效的",
+          "a.固体的;结实的,稳固的,可靠的 n.固体"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：void的核心含义与\"a.空虚的;没有的;无效的\"相关",
+        "similarWarning": "注意区分：void 与 avoid, solid, valid, vivid, voice 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "volcano",
+      "word": "volcano",
+      "phonetic": "/vɔl'keinəu/",
+      "meaning": "n.火山",
+      "similar": [],
+      "question": {
+        "wordId": "volcano",
+        "stem": "选择 \"volcano\" 的正确中文意思：",
+        "correct": "n.火山",
+        "options": [
+          "n.开始，开端；起源，早期阶段",
+          "n.火山",
+          "a.最初的,开头的;词首的 n.词首大写字母",
+          "a.高兴的，快活的；乐意的，情愿的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：volcano的核心含义与\"n.火山\"相关",
+        "similarWarning": "注意区分：volcano 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "volleyball",
+      "word": "volleyball",
+      "phonetic": "/'vɔlibɔ:l/",
+      "meaning": "n.排球",
+      "similar": [],
+      "question": {
+        "wordId": "volleyball",
+        "stem": "选择 \"volleyball\" 的正确中文意思：",
+        "correct": "n.排球",
+        "options": [
+          "n.排球",
+          "v.敲,敲打,碰撞 n.敲,击",
+          "vt.承认，供认；准许…进入，准许...加入",
+          "v.漏,泄漏 n.漏洞,漏隙;泄漏,漏出"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：volleyball的核心含义与\"n.排球\"相关",
+        "similarWarning": "注意区分：volleyball 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "volt",
+      "word": "volt",
+      "phonetic": "/vɔlt/",
+      "meaning": "n.伏特",
+      "similar": [
+        "bolt",
+        "revolt",
+        "violet"
+      ],
+      "question": {
+        "wordId": "volt",
+        "stem": "选择 \"volt\" 的正确中文意思：",
+        "correct": "n.伏特",
+        "options": [
+          "n.紫罗兰,紫色 a.紫色的",
+          "v./n.反抗,起义",
+          "n.螺栓,(门,窗的)插销 v.闩(门),关窗,拴住",
+          "n.伏特"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：volt的核心含义与\"n.伏特\"相关",
+        "similarWarning": "注意区分：volt 与 bolt, revolt, violet 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "voltage",
+      "word": "voltage",
+      "phonetic": "/'vəultidʒ/",
+      "meaning": "n.电压",
+      "similar": [
+        "voyage",
+        "cottage",
+        "hostage",
+        "postage",
+        "village",
+        "mortgage",
+        "shortage"
+      ],
+      "question": {
+        "wordId": "voltage",
+        "stem": "选择 \"voltage\" 的正确中文意思：",
+        "correct": "n.电压",
+        "options": [
+          "n.人质",
+          "n.村舍,小屋,别墅",
+          "n.航海;航行;旅行",
+          "n.电压"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：voltage的核心含义与\"n.电压\"相关",
+        "similarWarning": "注意区分：voltage 与 voyage, cottage, hostage, postage, village, mortgage, shortage 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "volume",
+      "word": "volume",
+      "phonetic": "/'vɔlju:m/",
+      "meaning": "n.容积,体积;卷,册;音量",
+      "similar": [
+        "value",
+        "column"
+      ],
+      "question": {
+        "wordId": "volume",
+        "stem": "选择 \"volume\" 的正确中文意思：",
+        "correct": "n.容积,体积;卷,册;音量",
+        "options": [
+          "n.圆柱,柱状物;列;(报刊中的)专栏",
+          "n.价格;价值;实用性 v.评价,估价;尊重",
+          "n.容积,体积;卷,册;音量",
+          "n.／a.版权(的)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：volume的核心含义与\"n.容积,体积;卷,册;音量\"相关",
+        "similarWarning": "注意区分：volume 与 value, column 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "voluntary",
+      "word": "voluntary",
+      "phonetic": "/'vɔləntəri/",
+      "meaning": "a.自愿的,志愿的",
+      "similar": [
+        "country",
+        "boundary",
+        "solitary",
+        "volunteer",
+        "documentary"
+      ],
+      "question": {
+        "wordId": "voluntary",
+        "stem": "选择 \"voluntary\" 的正确中文意思：",
+        "correct": "a.自愿的,志愿的",
+        "options": [
+          "a.(好)孤独的；偏僻的；单一的，唯一的",
+          "a.自愿的,志愿的",
+          "n.国家;农村,乡下",
+          "n.分界线,边界"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：voluntary的核心含义与\"a.自愿的,志愿的\"相关",
+        "similarWarning": "注意区分：voluntary 与 country, boundary, solitary, volunteer, documentary 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "volunteer",
+      "word": "volunteer",
+      "phonetic": "/ˌvɔlən'tiə/",
+      "meaning": "n./v.自愿(者,兵);自愿(提供)",
+      "similar": [
+        "counter",
+        "voluntary"
+      ],
+      "question": {
+        "wordId": "volunteer",
+        "stem": "选择 \"volunteer\" 的正确中文意思：",
+        "correct": "n./v.自愿(者,兵);自愿(提供)",
+        "options": [
+          "a.自愿的,志愿的",
+          "n.商店，店铺；工厂，车间 v.买东西",
+          "n./v.自愿(者,兵);自愿(提供)",
+          "n.柜台;计数器 a./ad.相反(的) v.反对,反击"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：volunteer的核心含义与\"n./v.自愿(者,兵);自愿(提供)\"相关",
+        "similarWarning": "注意区分：volunteer 与 counter, voluntary 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vote",
+      "word": "vote",
+      "phonetic": "/vəut/",
+      "meaning": "n.投票,表决;选票,选票数 v.投票,表决",
+      "similar": [
+        "note",
+        "devote",
+        "evoke",
+        "hotel",
+        "motel",
+        "quote",
+        "route",
+        "voice"
+      ],
+      "question": {
+        "wordId": "vote",
+        "stem": "选择 \"vote\" 的正确中文意思：",
+        "correct": "n.投票,表决;选票,选票数 v.投票,表决",
+        "options": [
+          "vt.唤起(回忆、感情等)；引起",
+          "v.(to)奉献,致力",
+          "n.笔记;按语,注释;钞票,纸币v.记下,摘下",
+          "n.投票,表决;选票,选票数 v.投票,表决"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：vote的核心含义与\"n.投票,表决;选票,选票数 v.投票,表决\"相关",
+        "similarWarning": "注意区分：vote 与 note, devote, evoke, hotel, motel, quote, route, voice 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vowel",
+      "word": "vowel",
+      "phonetic": "/'vauəl/",
+      "meaning": "n.元音,元音字母",
+      "similar": [
+        "bowel",
+        "towel",
+        "owe",
+        "owl",
+        "bowl",
+        "howl",
+        "vote",
+        "hotel"
+      ],
+      "question": {
+        "wordId": "vowel",
+        "stem": "选择 \"vowel\" 的正确中文意思：",
+        "correct": "n.元音,元音字母",
+        "options": [
+          "v.欠(债等),应向…付出,归功于,得感谢",
+          "n.毛巾 vt.用毛巾擦或擦干",
+          "n.肠；［pl.］内部，深处",
+          "n.元音,元音字母"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：vowel的核心含义与\"n.元音,元音字母\"相关",
+        "similarWarning": "注意区分：vowel 与 bowel, towel, owe, owl, bowl, howl, vote, hotel 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "voyage",
+      "word": "voyage",
+      "phonetic": "/'vɔiidʒ/",
+      "meaning": "n.航海;航行;旅行",
+      "similar": [
+        "voltage"
+      ],
+      "question": {
+        "wordId": "voyage",
+        "stem": "选择 \"voyage\" 的正确中文意思：",
+        "correct": "n.航海;航行;旅行",
+        "options": [
+          "n.航海;航行;旅行",
+          "n.电压",
+          "a.不断的,连续的,频繁的",
+          "v.拖,拖曳"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：voyage的核心含义与\"n.航海;航行;旅行\"相关",
+        "similarWarning": "注意区分：voyage 与 voltage 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vulgar",
+      "word": "vulgar",
+      "phonetic": "/'vʌlgə/",
+      "meaning": "a.粗俗的，庸俗的，本土的，通俗的，普通的",
+      "similar": [
+        "sugar"
+      ],
+      "question": {
+        "wordId": "vulgar",
+        "stem": "选择 \"vulgar\" 的正确中文意思：",
+        "correct": "a.粗俗的，庸俗的，本土的，通俗的，普通的",
+        "options": [
+          "n.糖，食糖 vt.加糖于",
+          "a.粗俗的，庸俗的，本土的，通俗的，普通的",
+          "a.真正的,名副其实的",
+          "n.胜利,成功 v.得胜,战胜"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：vulgar的核心含义与\"a.粗俗的，庸俗的，本土的，通俗的，普通的\"相关",
+        "similarWarning": "注意区分：vulgar 与 sugar 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vulnerable",
+      "word": "vulnerable",
+      "phonetic": "/'vʌlnərəbl/",
+      "meaning": "a.易受攻击的",
+      "similar": [
+        "valuable",
+        "honorable",
+        "miserable",
+        "vegetable",
+        "preferable"
+      ],
+      "question": {
+        "wordId": "vulnerable",
+        "stem": "选择 \"vulnerable\" 的正确中文意思：",
+        "correct": "a.易受攻击的",
+        "options": [
+          "a.易受攻击的",
+          "a.贵重的,有价值的 n.(pl.)贵重物品,财宝",
+          "a.(honourable)可敬的;荣誉的,光荣的",
+          "a.痛苦的,悲惨的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：vulnerable的核心含义与\"a.易受攻击的\"相关",
+        "similarWarning": "注意区分：vulnerable 与 valuable, honorable, miserable, vegetable, preferable 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wage",
+      "word": "wage",
+      "phonetic": "/weidʒ/",
+      "meaning": "n.(常pl.)工资,报酬 vt.进行,开展",
+      "similar": [
+        "age",
+        "cage",
+        "page",
+        "rage",
+        "wake",
+        "wave",
+        "awake",
+        "aware"
+      ],
+      "question": {
+        "wordId": "wage",
+        "stem": "选择 \"wage\" 的正确中文意思：",
+        "correct": "n.(常pl.)工资,报酬 vt.进行,开展",
+        "options": [
+          "n.鸟笼",
+          "n.页,记录,事件,专栏 vt.给...标页码",
+          "n.年龄；时代；老年；长时间 v.(使)变老",
+          "n.(常pl.)工资,报酬 vt.进行,开展"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：wage的核心含义与\"n.(常pl.)工资,报酬 vt.进行,开展\"相关",
+        "similarWarning": "注意区分：wage 与 age, cage, page, rage, wake, wave, awake, aware 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wagon",
+      "word": "wagon",
+      "phonetic": "/'wægən/",
+      "meaning": "n.运货马车,运货车;敞蓬车厢",
+      "similar": [
+        "dragon",
+        "jargon",
+        "weapon",
+        "ago",
+        "wage",
+        "warn",
+        "agony",
+        "bacon"
+      ],
+      "question": {
+        "wordId": "wagon",
+        "stem": "选择 \"wagon\" 的正确中文意思：",
+        "correct": "n.运货马车,运货车;敞蓬车厢",
+        "options": [
+          "n.运货马车,运货车;敞蓬车厢",
+          "n.龙",
+          "n.行话",
+          "n.武器,兵器"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wagon的核心含义与\"n.运货马车,运货车;敞蓬车厢\"相关",
+        "similarWarning": "注意区分：wagon 与 dragon, jargon, weapon, ago, wage, warn, agony, bacon 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "waist",
+      "word": "waist",
+      "phonetic": "/weist/",
+      "meaning": "n.腰,腰部",
+      "similar": [
+        "wait",
+        "wrist",
+        "wit",
+        "bait",
+        "cast",
+        "east",
+        "fast",
+        "fist"
+      ],
+      "question": {
+        "wordId": "waist",
+        "stem": "选择 \"waist\" 的正确中文意思：",
+        "correct": "n.腰,腰部",
+        "options": [
+          "n.腕,腕关节",
+          "n.智力,才智,智慧",
+          "v.(for)等待；(on)侍候 n.等候，等待时间",
+          "n.腰,腰部"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：waist的核心含义与\"n.腰,腰部\"相关",
+        "similarWarning": "注意区分：waist 与 wait, wrist, wit, bait, cast, east, fast, fist 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wait",
+      "word": "wait",
+      "phonetic": "/weit/",
+      "meaning": "v.(for)等待；(on)侍候 n.等候，等待时间",
+      "similar": [
+        "await",
+        "waist",
+        "wit",
+        "bait",
+        "want",
+        "watt",
+        "waiter",
+        "faint"
+      ],
+      "question": {
+        "wordId": "wait",
+        "stem": "选择 \"wait\" 的正确中文意思：",
+        "correct": "v.(for)等待；(on)侍候 n.等候，等待时间",
+        "options": [
+          "n.智力,才智,智慧",
+          "v.(for)等待；(on)侍候 n.等候，等待时间",
+          "n.腰,腰部",
+          "vt.等候，期待；(事情等)降临于"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：wait的核心含义与\"v.(for)等待；(on)侍候 n.等候，等待时间\"相关",
+        "similarWarning": "注意区分：wait 与 await, waist, wit, bait, want, watt, waiter, faint 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "waiter",
+      "word": "waiter",
+      "phonetic": "/weitə/",
+      "meaning": "n.侍者,服务员",
+      "similar": [
+        "water",
+        "painter",
+        "wait",
+        "after",
+        "alter",
+        "later",
+        "waste",
+        "white"
+      ],
+      "question": {
+        "wordId": "waiter",
+        "stem": "选择 \"waiter\" 的正确中文意思：",
+        "correct": "n.侍者,服务员",
+        "options": [
+          "n.侍者,服务员",
+          "n.水 vt.浇灌；给…饮水 vi.流泪，加水",
+          "n.漆工,画家",
+          "v.(for)等待；(on)侍候 n.等候，等待时间"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：waiter的核心含义与\"n.侍者,服务员\"相关",
+        "similarWarning": "注意区分：waiter 与 water, painter, wait, after, alter, later, waste, white 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "waitress",
+      "word": "waitress",
+      "phonetic": "/'weitris/",
+      "meaning": "n.女侍者,女服务员",
+      "similar": [
+        "actress",
+        "witness",
+        "caress",
+        "stress",
+        "waiter",
+        "address",
+        "distress",
+        "mistress"
+      ],
+      "question": {
+        "wordId": "waitress",
+        "stem": "选择 \"waitress\" 的正确中文意思：",
+        "correct": "n.女侍者,女服务员",
+        "options": [
+          "vt.／n.爱抚，抚摸",
+          "n.目击者,证人;证据,证明 v.目击,目睹;作证",
+          "n.女演员",
+          "n.女侍者,女服务员"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：waitress的核心含义与\"n.女侍者,女服务员\"相关",
+        "similarWarning": "注意区分：waitress 与 actress, witness, caress, stress, waiter, address, distress, mistress 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wake",
+      "word": "wake",
+      "phonetic": "/weɪk/",
+      "meaning": "v.醒来,唤醒;使觉醒,激发,引起",
+      "similar": [
+        "awake",
+        "waken",
+        "bake",
+        "cake",
+        "fake",
+        "lake",
+        "make",
+        "rake"
+      ],
+      "question": {
+        "wordId": "wake",
+        "stem": "选择 \"wake\" 的正确中文意思：",
+        "correct": "v.醒来,唤醒;使觉醒,激发,引起",
+        "options": [
+          "a.醒着的 vt.唤醒，使觉醒 vi.醒来，醒悟到",
+          "v.醒来,唤醒;使觉醒,激发,引起",
+          "v.烤,烘,焙;烧硬,焙干",
+          "v.醒,弄醒,唤醒"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：wake的核心含义与\"v.醒来,唤醒;使觉醒,激发,引起\"相关",
+        "similarWarning": "注意区分：wake 与 awake, waken, bake, cake, fake, lake, make, rake 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "waken",
+      "word": "waken",
+      "phonetic": "/'weikən/",
+      "meaning": "v.醒,弄醒,唤醒",
+      "similar": [
+        "wake",
+        "bake",
+        "cake",
+        "fake",
+        "lake",
+        "make",
+        "rake",
+        "sake"
+      ],
+      "question": {
+        "wordId": "waken",
+        "stem": "选择 \"waken\" 的正确中文意思：",
+        "correct": "v.醒,弄醒,唤醒",
+        "options": [
+          "n.饼，糕，蛋糕；扁平的块状物",
+          "v.烤,烘,焙;烧硬,焙干",
+          "v.醒来,唤醒;使觉醒,激发,引起",
+          "v.醒,弄醒,唤醒"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：waken的核心含义与\"v.醒,弄醒,唤醒\"相关",
+        "similarWarning": "注意区分：waken 与 wake, bake, cake, fake, lake, make, rake, sake 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "walk",
+      "word": "walk",
+      "phonetic": "/wɔ:k/",
+      "meaning": "v.走，步行，散步；走遍 n.走，步行，散步",
+      "similar": [
+        "talk",
+        "wall",
+        "chalk",
+        "stalk",
+        "whale"
+      ],
+      "question": {
+        "wordId": "walk",
+        "stem": "选择 \"walk\" 的正确中文意思：",
+        "correct": "v.走，步行，散步；走遍 n.走，步行，散步",
+        "options": [
+          "n.墙，壁，围墙vt.筑墙围住，用墙隔开",
+          "n.粉笔,白垩",
+          "n.谈话；聊天；讲话；演讲 v.说话；交谈",
+          "v.走，步行，散步；走遍 n.走，步行，散步"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：walk的核心含义与\"v.走，步行，散步；走遍 n.走，步行，散步\"相关",
+        "similarWarning": "注意区分：walk 与 talk, wall, chalk, stalk, whale 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wall",
+      "word": "wall",
+      "phonetic": "/wɔ:l/",
+      "meaning": "n.墙，壁，围墙vt.筑墙围住，用墙隔开",
+      "similar": [
+        "all",
+        "ball",
+        "call",
+        "fall",
+        "hall",
+        "tall",
+        "walk",
+        "well"
+      ],
+      "question": {
+        "wordId": "wall",
+        "stem": "选择 \"wall\" 的正确中文意思：",
+        "correct": "n.墙，壁，围墙vt.筑墙围住，用墙隔开",
+        "options": [
+          "n.墙，壁，围墙vt.筑墙围住，用墙隔开",
+          "a.全部的；非常的 ad.完全地，很 pron.全部",
+          "n.球(状物);(正式的)舞会vt.把…捏成球状",
+          "vt.叫，喊；打电话 vi.叫；访问 n.叫；号召"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wall的核心含义与\"n.墙，壁，围墙vt.筑墙围住，用墙隔开\"相关",
+        "similarWarning": "注意区分：wall 与 all, ball, call, fall, hall, tall, walk, well 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wallet",
+      "word": "wallet",
+      "phonetic": "/'wɔlit/",
+      "meaning": "n.皮夹,钱包",
+      "similar": [
+        "ballet",
+        "wall",
+        "ballot",
+        "bullet",
+        "tablet",
+        "valley"
+      ],
+      "question": {
+        "wordId": "wallet",
+        "stem": "选择 \"wallet\" 的正确中文意思：",
+        "correct": "n.皮夹,钱包",
+        "options": [
+          "n.皮夹,钱包",
+          "n.芭蕾舞，芭蕾舞剧；芭蕾舞团",
+          "n.(不记名)投票；投票总数；投票权 vi.投票",
+          "n.墙，壁，围墙vt.筑墙围住，用墙隔开"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wallet的核心含义与\"n.皮夹,钱包\"相关",
+        "similarWarning": "注意区分：wallet 与 ballet, wall, ballot, bullet, tablet, valley 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wander",
+      "word": "wander",
+      "phonetic": "/'wɔndə/",
+      "meaning": "v.漫步,徘徊;迷路,迷失方向;离题",
+      "similar": [
+        "wonder",
+        "anger",
+        "under",
+        "water",
+        "banner",
+        "cancer",
+        "danger",
+        "gender"
+      ],
+      "question": {
+        "wordId": "wander",
+        "stem": "选择 \"wander\" 的正确中文意思：",
+        "correct": "v.漫步,徘徊;迷路,迷失方向;离题",
+        "options": [
+          "prep.在…下面； 在…以下 ad.在下面；少于",
+          "n.愤怒，气愤 vt.使发怒，激怒 vi.发怒",
+          "n.惊奇,惊异;奇迹,奇事 v.(at)诧异;想知道",
+          "v.漫步,徘徊;迷路,迷失方向;离题"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：wander的核心含义与\"v.漫步,徘徊;迷路,迷失方向;离题\"相关",
+        "similarWarning": "注意区分：wander 与 wonder, anger, under, water, banner, cancer, danger, gender 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "want",
+      "word": "want",
+      "phonetic": "/wɔnt/",
+      "meaning": "vt.想要;希望;需要;缺,缺少 n.需要;短缺",
+      "similar": [
+        "ant",
+        "pant",
+        "wait",
+        "watt",
+        "await",
+        "faint",
+        "giant",
+        "grant"
+      ],
+      "question": {
+        "wordId": "want",
+        "stem": "选择 \"want\" 的正确中文意思：",
+        "correct": "vt.想要;希望;需要;缺,缺少 n.需要;短缺",
+        "options": [
+          "v.(for)等待；(on)侍候 n.等候，等待时间",
+          "n.蚁；蚂蚁",
+          "vt.想要;希望;需要;缺,缺少 n.需要;短缺",
+          "n.喘气 v.喘,气喘吁吁地说"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：want的核心含义与\"vt.想要;希望;需要;缺,缺少 n.需要;短缺\"相关",
+        "similarWarning": "注意区分：want 与 ant, pant, wait, watt, await, faint, giant, grant 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "war",
+      "word": "war",
+      "phonetic": "/wɔ:/",
+      "meaning": "n.战争(状态)；冲突 vi.作战",
+      "similar": [
+        "ward",
+        "warm",
+        "warn",
+        "wear",
+        "bar",
+        "car",
+        "ear",
+        "far"
+      ],
+      "question": {
+        "wordId": "war",
+        "stem": "选择 \"war\" 的正确中文意思：",
+        "correct": "n.战争(状态)；冲突 vi.作战",
+        "options": [
+          "vt.警告 vi.发出警告",
+          "a.温暖的，热心的，热情的 v.(使)变暖",
+          "n.病房;行政区;监护;被监护人 vt.挡住",
+          "n.战争(状态)；冲突 vi.作战"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：war的核心含义与\"n.战争(状态)；冲突 vi.作战\"相关",
+        "similarWarning": "注意区分：war 与 ward, warm, warn, wear, bar, car, ear, far 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "ward",
+      "word": "ward",
+      "phonetic": "/wɔ:d/",
+      "meaning": "n.病房;行政区;监护;被监护人 vt.挡住",
+      "similar": [
+        "award",
+        "war",
+        "card",
+        "hard",
+        "warm",
+        "warn",
+        "word",
+        "yard"
+      ],
+      "question": {
+        "wordId": "ward",
+        "stem": "选择 \"ward\" 的正确中文意思：",
+        "correct": "n.病房;行政区;监护;被监护人 vt.挡住",
+        "options": [
+          "n.病房;行政区;监护;被监护人 vt.挡住",
+          "vt.授予,给予；判定 n.奖,奖金；仲裁",
+          "n.卡片,名片;纸牌;纸片",
+          "n.战争(状态)；冲突 vi.作战"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：ward的核心含义与\"n.病房;行政区;监护;被监护人 vt.挡住\"相关",
+        "similarWarning": "注意区分：ward 与 award, war, card, hard, warm, warn, word, yard 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wardrobe",
+      "word": "wardrobe",
+      "phonetic": "/'wɔ:drəub/",
+      "meaning": "n.衣柜,衣厨;衣服;行头;剧装",
+      "similar": [],
+      "question": {
+        "wordId": "wardrobe",
+        "stem": "选择 \"wardrobe\" 的正确中文意思：",
+        "correct": "n.衣柜,衣厨;衣服;行头;剧装",
+        "options": [
+          "n.衣柜,衣厨;衣服;行头;剧装",
+          "n.一部分,一份",
+          "a.戏剧的,戏剧性的;剧烈的",
+          "v.使加固，使加强；(把...)联为一体，合并"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：wardrobe的核心含义与\"n.衣柜,衣厨;衣服;行头;剧装\"相关",
+        "similarWarning": "注意区分：wardrobe 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "warehouse",
+      "word": "warehouse",
+      "phonetic": "/'wεəhaus/",
+      "meaning": "n.仓库,货栈",
+      "similar": [
+        "greenhouse"
+      ],
+      "question": {
+        "wordId": "warehouse",
+        "stem": "选择 \"warehouse\" 的正确中文意思：",
+        "correct": "n.仓库,货栈",
+        "options": [
+          "n.生物学",
+          "n.傻子，笨蛋vt.欺骗，愚弄vi.干蠢事",
+          "n.温室",
+          "n.仓库,货栈"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：warehouse的核心含义与\"n.仓库,货栈\"相关",
+        "similarWarning": "注意区分：warehouse 与 greenhouse 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "warfare",
+      "word": "warfare",
+      "phonetic": "/'wɔ:fεə/",
+      "meaning": "n.战争(状态);斗争;冲突",
+      "similar": [
+        "welfare",
+        "hardware"
+      ],
+      "question": {
+        "wordId": "warfare",
+        "stem": "选择 \"warfare\" 的正确中文意思：",
+        "correct": "n.战争(状态);斗争;冲突",
+        "options": [
+          "n.战争(状态);斗争;冲突",
+          "n.五金,金属制品;硬件",
+          "n.福利；幸福；福利事业",
+          "n.云(状物);遮暗物,阴影;一大群"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：warfare的核心含义与\"n.战争(状态);斗争;冲突\"相关",
+        "similarWarning": "注意区分：warfare 与 welfare, hardware 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "warm",
+      "word": "warm",
+      "phonetic": "/wɔ:m/",
+      "meaning": "a.温暖的，热心的，热情的 v.(使)变暖",
+      "similar": [
+        "swarm",
+        "arm",
+        "war",
+        "farm",
+        "harm",
+        "ward",
+        "warn",
+        "worm"
+      ],
+      "question": {
+        "wordId": "warm",
+        "stem": "选择 \"warm\" 的正确中文意思：",
+        "correct": "a.温暖的，热心的，热情的 v.(使)变暖",
+        "options": [
+          "n.手臂，扶手，臂状物 v.武装；配备 n.武器",
+          "a.温暖的，热心的，热情的 v.(使)变暖",
+          "n.战争(状态)；冲突 vi.作战",
+          "n.蜂群;一大群 vi.涌往;挤满;云集;成群移动"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：warm的核心含义与\"a.温暖的，热心的，热情的 v.(使)变暖\"相关",
+        "similarWarning": "注意区分：warm 与 swarm, arm, war, farm, harm, ward, warn, worm 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "warmth",
+      "word": "warmth",
+      "phonetic": "/wɔ:mθ/",
+      "meaning": "n.暖和,温暖;热心,热情",
+      "similar": [
+        "warm",
+        "earth",
+        "worth"
+      ],
+      "question": {
+        "wordId": "warmth",
+        "stem": "选择 \"warmth\" 的正确中文意思：",
+        "correct": "n.暖和,温暖;热心,热情",
+        "options": [
+          "n.价值 a.值…的,价值…的,值得…的",
+          "n.地球；陆地；泥土，土壤；尘世，人间",
+          "n.暖和,温暖;热心,热情",
+          "a.温暖的，热心的，热情的 v.(使)变暖"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：warmth的核心含义与\"n.暖和,温暖;热心,热情\"相关",
+        "similarWarning": "注意区分：warmth 与 warm, earth, worth 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "warn",
+      "word": "warn",
+      "phonetic": "/wɔ:n/",
+      "meaning": "vt.警告 vi.发出警告",
+      "similar": [
+        "war",
+        "barn",
+        "earn",
+        "ward",
+        "warm",
+        "award",
+        "aware",
+        "dwarf"
+      ],
+      "question": {
+        "wordId": "warn",
+        "stem": "选择 \"warn\" 的正确中文意思：",
+        "correct": "vt.警告 vi.发出警告",
+        "options": [
+          "vt.警告 vi.发出警告",
+          "n.谷仓,仓库",
+          "n.战争(状态)；冲突 vi.作战",
+          "v.赚得,挣得,获得"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：warn的核心含义与\"vt.警告 vi.发出警告\"相关",
+        "similarWarning": "注意区分：warn 与 war, barn, earn, ward, warm, award, aware, dwarf 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "warrant",
+      "word": "warrant",
+      "phonetic": "/'wɔrənt/",
+      "meaning": "n.正当理由;许可证,委任状 v.保证,担保",
+      "similar": [
+        "arrogant",
+        "fragrant"
+      ],
+      "question": {
+        "wordId": "warrant",
+        "stem": "选择 \"warrant\" 的正确中文意思：",
+        "correct": "n.正当理由;许可证,委任状 v.保证,担保",
+        "options": [
+          "a.傲慢的，自大的",
+          "n.效率;功效",
+          "a.香的;芬芳的",
+          "n.正当理由;许可证,委任状 v.保证,担保"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：warrant的核心含义与\"n.正当理由;许可证,委任状 v.保证,担保\"相关",
+        "similarWarning": "注意区分：warrant 与 arrogant, fragrant 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "wash",
+      "word": "wash",
+      "phonetic": "/wɔʃ/",
+      "meaning": "n.洗；洗的衣物 vt.冲刷，洗；冲出 vi.洗澡",
+      "similar": [
+        "ash",
+        "cash",
+        "dash",
+        "lash",
+        "rash",
+        "wish",
+        "clash",
+        "crash"
+      ],
+      "question": {
+        "wordId": "wash",
+        "stem": "选择 \"wash\" 的正确中文意思：",
+        "correct": "n.洗；洗的衣物 vt.冲刷，洗；冲出 vi.洗澡",
+        "options": [
+          "v./n.冲,猛冲,突进 n.破折号",
+          "n.现金,现款 v.兑现,付(或收)现款",
+          "n.灰，灰末；(pl.)骨灰；(pl.)废墟",
+          "n.洗；洗的衣物 vt.冲刷，洗；冲出 vi.洗澡"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：wash的核心含义与\"n.洗；洗的衣物 vt.冲刷，洗；冲出 vi.洗澡\"相关",
+        "similarWarning": "注意区分：wash 与 ash, cash, dash, lash, rash, wish, clash, crash 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "waste",
+      "word": "waste",
+      "phonetic": "/weist/",
+      "meaning": "v.浪费 a.无用的;荒芜的 n.浪费;废物",
+      "similar": [
+        "haste",
+        "paste",
+        "taste",
+        "castle",
+        "easter",
+        "fasten",
+        "master",
+        "waiter"
+      ],
+      "question": {
+        "wordId": "waste",
+        "stem": "选择 \"waste\" 的正确中文意思：",
+        "correct": "v.浪费 a.无用的;荒芜的 n.浪费;废物",
+        "options": [
+          "v.浪费 a.无用的;荒芜的 n.浪费;废物",
+          "n.匆忙,急速;草率 v.赶快;匆忙",
+          "n.糊,浆糊 v.粘,贴",
+          "v.品尝;(of)有…味道;体验 n.滋味;味觉"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：waste的核心含义与\"v.浪费 a.无用的;荒芜的 n.浪费;废物\"相关",
+        "similarWarning": "注意区分：waste 与 haste, paste, taste, castle, easter, fasten, master, waiter 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "watch",
+      "word": "watch",
+      "phonetic": "/wɔtʃ/",
+      "meaning": "v.观看;注视;看守;警戒 n.注视;手表;守护",
+      "similar": [
+        "batch",
+        "catch",
+        "hatch",
+        "match",
+        "patch",
+        "witch",
+        "snatch",
+        "switch"
+      ],
+      "question": {
+        "wordId": "watch",
+        "stem": "选择 \"watch\" 的正确中文意思：",
+        "correct": "v.观看;注视;看守;警戒 n.注视;手表;守护",
+        "options": [
+          "v.观看;注视;看守;警戒 n.注视;手表;守护",
+          "n.一批,一组,一群",
+          "v.捕捉,捕获;赶上;感染;理解,听到",
+          "v.孵,孵出;策划,图谋 n.舱口,小门"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：watch的核心含义与\"v.观看;注视;看守;警戒 n.注视;手表;守护\"相关",
+        "similarWarning": "注意区分：watch 与 batch, catch, hatch, match, patch, witch, snatch, switch 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "water",
+      "word": "water",
+      "phonetic": "/'wɔ:tə(r)/",
+      "meaning": "n.水 vt.浇灌；给…饮水 vi.流泪，加水",
+      "similar": [
+        "waiter",
+        "later",
+        "sweater",
+        "weather",
+        "easter",
+        "father",
+        "gather",
+        "latter"
+      ],
+      "question": {
+        "wordId": "water",
+        "stem": "选择 \"water\" 的正确中文意思：",
+        "correct": "n.水 vt.浇灌；给…饮水 vi.流泪，加水",
+        "options": [
+          "ad.后来,过后",
+          "n.侍者,服务员",
+          "n.毛衣,绒衣,厚运动衫",
+          "n.水 vt.浇灌；给…饮水 vi.流泪，加水"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：water的核心含义与\"n.水 vt.浇灌；给…饮水 vi.流泪，加水\"相关",
+        "similarWarning": "注意区分：water 与 waiter, later, sweater, weather, easter, father, gather, latter 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    }
+  ]
+}

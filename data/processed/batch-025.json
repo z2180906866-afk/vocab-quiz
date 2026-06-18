@@ -1,0 +1,1743 @@
+{
+  "batchId": 25,
+  "words": [
+    {
+      "id": "distress",
+      "word": "distress",
+      "phonetic": "/di'stres/",
+      "meaning": "n.苦恼;危难;不幸 v.使苦恼",
+      "similar": [
+        "mistress",
+        "stress",
+        "actress",
+        "depress",
+        "discuss",
+        "dismiss",
+        "hostess",
+        "impress"
+      ],
+      "question": {
+        "wordId": "distress",
+        "stem": "选择 \"distress\" 的正确中文意思：",
+        "correct": "n.苦恼;危难;不幸 v.使苦恼",
+        "options": [
+          "n.女主人;主妇;情妇,情人",
+          "n.苦恼;危难;不幸 v.使苦恼",
+          "n.压力；重要性；应力；重音vt.强调，重读",
+          "n.女演员"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "前缀dis-（分离、否定）+ 词根stress（拉紧、压力）。本义为‘压力被分离/散开’，引申为精神上的‘苦恼、痛苦’或处境上的‘危难、不幸’。核心动作：压力扩散导致身心分散。",
+        "similarWarning": "distress vs. depress：dis-（分散）+ stress（压力）→压力分散导致苦恼；de-（向下）+ press（压）→向下压导致抑郁。distress强调外因引起的焦虑，depress侧重情绪低沉。distress vs. mistress：仅差首字母d/m；distress为‘痛苦’，mistress为‘女主人、情妇’。distress vs. discuss：-tress与-cuss发音相似；distress为名词/动词，discuss为动词‘讨论’。",
+        "extendedMeaning": "在考研真题中，distress常引申为‘（经济或身体上的）困境、危机’，如financial distress（财务危机）、respiratory distress（呼吸窘迫）。",
+        "examUsage": "高频搭配：in distress（处于危难中），cause distress（引起痛苦）。真题例句：The ship was in distress.（船只遇险。）常作为阅读中描述负面情绪或经济状况的关键词。"
+      }
+    },
+    {
+      "id": "distribute",
+      "word": "distribute",
+      "phonetic": "/di'stribju:t/",
+      "meaning": "v.分发;分配;分布;配(电);(over)散布",
+      "similar": [
+        "district",
+        "attribute",
+        "contribute",
+        "describe",
+        "distinct",
+        "distract",
+        "intrigue",
+        "dissipate"
+      ],
+      "question": {
+        "wordId": "distribute",
+        "stem": "选择 \"distribute\" 的正确中文意思：",
+        "correct": "v.分发;分配;分布;配(电);(over)散布",
+        "options": [
+          "v.分发;分配;分布;配(电);(over)散布",
+          "n.地区,行政区;美国各州的众议院选区",
+          "v.(to)贡献,捐助,捐献;投稿",
+          "v.(to)归因于,归属于 n.属性,品质,特征"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "dis-(分开) + tribute(给，分配) → 分开给 → 分发、分配。核心动作：将整体分割后给予不同个体。",
+        "similarWarning": "distribute vs. attribute (at-加强+tribute给→归因于/属性) vs. contribute (con-共同+tribute给→贡献/投稿) vs. district (di-分开+strict拉紧→行政区域)。差异在词根前缀：dis-分开，at-向，con-共同，di-分开+strict。",
+        "extendedMeaning": "在计算机/统计学语境中可表‘分布’(如distributed system分布式系统)；在经济学中可指‘分配’(收入/资源)。",
+        "examUsage": "真题中常考搭配：distribute...to/among (把…分发给/在…中分配)。注意与contribute to (有助于/导致)的干扰辨析。"
+      }
+    },
+    {
+      "id": "district",
+      "word": "district",
+      "phonetic": "/'distrikt/",
+      "meaning": "n.地区,行政区;美国各州的众议院选区",
+      "similar": [
+        "distract",
+        "strict",
+        "distinct",
+        "restrict",
+        "distribute",
+        "direct",
+        "disrupt",
+        "distant"
+      ],
+      "question": {
+        "wordId": "district",
+        "stem": "选择 \"district\" 的正确中文意思：",
+        "correct": "n.地区,行政区;美国各州的众议院选区",
+        "options": [
+          "a.(with)严格的,严厉的;严谨的,精确的",
+          "n.地区,行政区;美国各州的众议院选区",
+          "a.清楚的,明显的;(from)截然不同的",
+          "v.分散;使分心;打扰;使心情烦乱"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'distringere'（分开+拉紧），'dis-'（分开）+'stringere'（拉紧）。核心物理动作：将一片区域通过边界线'拉紧分开'，即划定范围。词根演变：stringere 变为 strict（拉紧的），district 即被拉紧界限的区域，引申为行政区或选区。",
+        "similarWarning": "distract（分心）：dis-（分开）+tract（拉），字面'拉开注意力'，侧重心理分散。district（地区）：dis-（分开）+strict（拉紧），字面'拉紧界限'，侧重地理划分。两者核心差异在词根 tract（拉）vs strict（拉紧）。",
+        "extendedMeaning": "在考研英语中，district 常引申为'管辖范围'或'职能区域'，如 'school district'（学区）、'electoral district'（选区），强调行政或政治上的划分，而非单纯地理区域。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "disturb",
+      "word": "disturb",
+      "phonetic": "/dis'tə:b/",
+      "meaning": "v.扰乱,妨碍,使不安",
+      "similar": [
+        "distort",
+        "moisture"
+      ],
+      "question": {
+        "wordId": "disturb",
+        "stem": "选择 \"disturb\" 的正确中文意思：",
+        "correct": "v.扰乱,妨碍,使不安",
+        "options": [
+          "v.弄歪(嘴脸等);扭曲;歪曲(真理、事实等)",
+          "v.扰乱,妨碍,使不安",
+          "a.凭经验(或观察)的,经验主义的",
+          "n.潮湿,湿气,湿度"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根dis-（分开、加强）+ turb（搅动、混乱）。核心动作：把平静的状态彻底搅乱。本义是物理上的搅动（如搅浑水），引申为打扰、妨碍或使心神不宁。",
+        "similarWarning": "distort（扭曲）：dis-（分开）+ tort（扭转），强调形状或事实被扭歪。disturb强调搅乱秩序或安宁，distort强调变形或曲解。moisture（潮湿）：moist（潮湿的）+ -ure（名词后缀），与disturb拼写相似但意义无关。",
+        "extendedMeaning": "在考研阅读中常引申为‘干扰（系统、过程）’或‘使（情绪、局面）不安定’，如disturb the ecological balance（破坏生态平衡）。",
+        "examUsage": "真题考点：常见搭配disturb sb./sth.（打扰某人/某事），但更常考被动语态be disturbed by（被…打扰）及名词disturbance（干扰、骚乱）。如：The noise disturbed the residents.（噪音扰民。）"
+      }
+    },
+    {
+      "id": "disturbance",
+      "word": "disturbance",
+      "phonetic": "/di'stə:bəns/",
+      "meaning": "n.动乱,骚乱,干扰",
+      "similar": [
+        "assurance",
+        "insurance"
+      ],
+      "question": {
+        "wordId": "disturbance",
+        "stem": "选择 \"disturbance\" 的正确中文意思：",
+        "correct": "n.动乱,骚乱,干扰",
+        "options": [
+          "n.动乱,骚乱,干扰",
+          "n.保证,担保；确信,断言；信心,信念",
+          "n.保险,保险费,保险业",
+          "a.全世界的,世界范围的 ad.遍及全世界"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源于拉丁语disturbare（dis-分开+turbare扰乱），核心动作是“彻底扰乱秩序”。-ance为名词后缀，表示“行为或状态”。本义为“扰乱行为或状态”，引申为物理上的干扰或社会层面的骚乱。",
+        "similarWarning": "assurance（n.保证，保险）与insurance（n.保险）均含-ance后缀，但核心词根不同：disturbance强调“扰乱”（turb-），后两者强调“确保”（sure）。拼写差异在于首字母di-与as-/in-，注意区分。",
+        "extendedMeaning": "在考研英语中，可指“心理上的干扰或不安”，如emotional disturbance（情绪困扰），或“环境中的波动”，如signal disturbance（信号干扰）。",
+        "examUsage": "真题中常考查搭配cause disturbance（引起骚乱）或without disturbance（不受干扰），注意与turbulence（动荡）的辨析。"
+      }
+    },
+    {
+      "id": "ditch",
+      "word": "ditch",
+      "phonetic": "/ditʃ/",
+      "meaning": "n.沟,沟渠,水沟",
+      "similar": [
+        "pitch",
+        "witch",
+        "detach",
+        "stitch",
+        "switch",
+        "disc",
+        "dish",
+        "inch"
+      ],
+      "question": {
+        "wordId": "ditch",
+        "stem": "选择 \"ditch\" 的正确中文意思：",
+        "correct": "n.沟,沟渠,水沟",
+        "options": [
+          "n.沟,沟渠,水沟",
+          "vt.分开, 分离, 分遣, 派遣(军队)",
+          "n.女巫, 巫婆，巫师",
+          "n.沥青;掷 v.用沥青覆盖;投掷,扔"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语dic，意为‘挖沟’或‘沟渠’。核心物理动作是挖掘地面形成狭长凹槽，用于排水或边界标记。",
+        "similarWarning": "pitch（投掷/沥青）、witch（女巫）、detach（分离）、stitch（缝合）、switch（开关）、disc（圆盘）、dish（盘子）、inch（英寸）。",
+        "extendedMeaning": "考研僻义：v. 抛弃、甩掉（如ditch a plan/idea）；n. 困境（如in a ditch）。",
+        "examUsage": "真题考点：ditch作动词时，常见搭配ditch sb/sth（抛弃某人/某物），在阅读中表‘放弃’或‘摆脱’。"
+      }
+    },
+    {
+      "id": "dive",
+      "word": "dive",
+      "phonetic": "/'di:vei/",
+      "meaning": "v./n.潜水,跳水,俯冲",
+      "similar": [
+        "die",
+        "dine",
+        "dove",
+        "five",
+        "live",
+        "derive",
+        "divert",
+        "divide"
+      ],
+      "question": {
+        "wordId": "dive",
+        "stem": "选择 \"dive\" 的正确中文意思：",
+        "correct": "v./n.潜水,跳水,俯冲",
+        "options": [
+          "n.鸽子",
+          "v./n.潜水,跳水,俯冲",
+          "vi.死，死亡；(草木)枯萎，凋谢；渴望",
+          "v.吃饭,进餐"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语 'dūfan'（下沉、潜入），原始印欧语根 *dheub-（深、空）。核心物理动作是头部朝下进入液体或空气，强调垂直向下的运动轨迹。",
+        "similarWarning": "drive（驾驶）多一个r，die（死亡）少一个v，dine（用餐）变v为n，dove（鸽子）元音不同。",
+        "extendedMeaning": "在考研外刊中常引申为'暴跌、骤降'（如股市、价格），或'投身、潜心'（如钻研某个领域）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "diverse",
+      "word": "diverse",
+      "phonetic": "/dai'və:s/",
+      "meaning": "a.多种多样的,(from)不同的",
+      "similar": [
+        "disperse",
+        "universe",
+        "verse",
+        "divert",
+        "adverse",
+        "disease",
+        "divorce",
+        "inverse"
+      ],
+      "question": {
+        "wordId": "diverse",
+        "stem": "选择 \"diverse\" 的正确中文意思：",
+        "correct": "a.多种多样的,(from)不同的",
+        "options": [
+          "a.多种多样的,(from)不同的",
+          "v.(使)分散;(使)散开;疏散",
+          "n.韵文,诗;诗节,诗句",
+          "n.宇宙,万物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语diversus（转向不同方向），di-（分开）+vers-（转）+e。核心物理动作是“向不同方向旋转”，引申为“多种多样的、不同的”。",
+        "similarWarning": "disperse（di-分开+spers-散开→分散）；adverse（ad-向+vers-转→转向对立→不利的）；inverse（in-向内+vers-转→反转→相反的）。对比：diverse强调多样性，disperse强调散开，adverse强调不利，inverse强调方向相反。",
+        "extendedMeaning": "在考研阅读中常指“多元化的”，如diverse backgrounds（多元背景），diverse perspectives（多元视角）。",
+        "examUsage": "真题考点：diverse常与various、different同义替换，但侧重“种类繁多、差异明显”。例句：The company has a diverse workforce.（公司拥有多元化的员工队伍。）"
+      }
+    },
+    {
+      "id": "diversion",
+      "word": "diversion",
+      "phonetic": "/dai'və:ʃən/",
+      "meaning": "n.转向,转移;牵制;解闷;娱乐",
+      "similar": [
+        "version",
+        "division",
+        "dimension",
+        "conversion",
+        "diverse",
+        "direction",
+        "university"
+      ],
+      "question": {
+        "wordId": "diversion",
+        "stem": "选择 \"diversion\" 的正确中文意思：",
+        "correct": "n.转向,转移;牵制;解闷;娱乐",
+        "options": [
+          "n.尺寸,尺度;维(数),度(数)",
+          "n.版本;译本,译文;说法",
+          "n.转向,转移;牵制;解闷;娱乐",
+          "n.分,分割;部门,科,处;除法;分界线"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根 di-（分开）+ vers（转）+ -ion（名词后缀）→ 分开转开 → 转向、转移。核心动作是“使某物从原路径转开”，引申为牵制注意力（牵制）、解闷（娱乐）。",
+        "similarWarning": "diversion 与 version（版本，从“转”出不同形式）、division（分割，di-+vis-看+ion，分而视之）、conversion（转换，con-共同+vers-转，完全转变）易混。核心区别：diversion 强调“转开”的动作或目的；version 强调“转译/转述”的结果；division 强调“分割”的状态；conversion 强调“转变”的过程。",
+        "extendedMeaning": "在考研真题中，diversion 常考“牵制、转移注意力”的军事或策略义（如 create a diversion 制造牵制），以及“消遣、娱乐”（如 a welcome diversion from work 工作中受欢迎的消遣）。",
+        "examUsage": "高频短语：create a diversion（制造牵制/转移注意力）；diversion of funds（资金挪用，金融类阅读考点）。真题例句：The diversion of the river caused a flood.（河流改道引发洪水。）"
+      }
+    },
+    {
+      "id": "divert",
+      "word": "divert",
+      "phonetic": "/dai'və:t/",
+      "meaning": "vt.使转向，使改道；转移(注意力)；使娱乐",
+      "similar": [
+        "diverse",
+        "diet",
+        "dirt",
+        "dive",
+        "avert",
+        "liver",
+        "desert",
+        "digest"
+      ],
+      "question": {
+        "wordId": "divert",
+        "stem": "选择 \"divert\" 的正确中文意思：",
+        "correct": "vt.使转向，使改道；转移(注意力)；使娱乐",
+        "options": [
+          "vt.使转向，使改道；转移(注意力)；使娱乐",
+          "a.多种多样的,(from)不同的",
+          "n.污物,污垢",
+          "n.饮食,食物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根di-（分开）+vert（转）= 向不同方向转，核心物理动作是使物体路线偏离原方向。引申至注意力转移或娱乐（使精神转向轻松事物）。",
+        "similarWarning": "diverse（adj.不同的，多样的）：词根di-（分开）+verse（转），强调种类多；divert（v.转移）强调动作。avert（v.避开，防止）：前缀a-（离开）+vert（转），意为转开视线或防止发生；divert侧重转向别处，avert侧重避免。",
+        "extendedMeaning": "娱乐，消遣：如divert oneself（自娱自乐），在考研阅读中常指使人放松、转移注意力，非简单娱乐。",
+        "examUsage": "divert attention from（转移对…的注意力）：真题中常作题眼，如“divert public attention from the real issues”。"
+      }
+    },
+    {
+      "id": "divide",
+      "word": "divide",
+      "phonetic": "/di'vaid/",
+      "meaning": "v.分,划分,分开;分配;(by)除",
+      "similar": [
+        "divine",
+        "dividend",
+        "dive",
+        "vivid",
+        "decide",
+        "device",
+        "devise"
+      ],
+      "question": {
+        "wordId": "divide",
+        "stem": "选择 \"divide\" 的正确中文意思：",
+        "correct": "v.分,划分,分开;分配;(by)除",
+        "options": [
+          "n.红利，股息；回报，效益；被除数",
+          "a.神的，神授的，天赐的；极好的，极美的",
+          "v.分,划分,分开;分配;(by)除",
+          "v./n.潜水,跳水,俯冲"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根divid-（分开）+ -e（动词后缀）。拉丁语dividere‘分开’，由dis-（分开）+ videre（分开）演变而来，核心动作是‘使整体分离成部分’。",
+        "similarWarning": "divine（adj.神圣的） vs divide（v.分开）：前者含-in-神性后缀，后者含-id-分开动作。dividend（n.股息）是divide的名词形式，加-end表示‘被分开的东西’。dive（v.跳水）拼写少一个d，动作是‘向下’而非‘分开’。vivid（adj.生动的）词根viv-（生命），与divide无关。decide（v.决定）词根cid-（切），‘切分’引申为‘决断’。device（n.设备）词根de-+vic-（分开+看），与divide同源但侧重‘设计’。devise（v.设计）是device的动词形式。",
+        "extendedMeaning": "【考研僻义】v.使产生分歧；使分裂（指观点、群体对立）。例：The issue divided the committee.（这个问题使委员会产生了分歧。）",
+        "examUsage": "【真题考点】divide...into...（把…分成…）为高频搭配，常考被动语态be divided into。另，divide作‘除’时，固定搭配divide A by B（A除以B）在图表作文数据描述中高频出现。"
+      }
+    },
+    {
+      "id": "dividend",
+      "word": "dividend",
+      "phonetic": "/'dɪvɪdend/",
+      "meaning": "n.红利，股息；回报，效益；被除数",
+      "similar": [
+        "divide",
+        "divine",
+        "evident",
+        "diligent"
+      ],
+      "question": {
+        "wordId": "dividend",
+        "stem": "选择 \"dividend\" 的正确中文意思：",
+        "correct": "n.红利，股息；回报，效益；被除数",
+        "options": [
+          "v.分,划分,分开;分配;(by)除",
+          "a.神的，神授的，天赐的；极好的，极美的",
+          "n.红利，股息；回报，效益；被除数",
+          "a.明显的,明白的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“dividendum”，意为“被分的东西”，由“dividere”（分开）的动名词形式演变而来。核心动作是“分割”：公司将利润分割成若干份分配给股东，即“红利”；数学中将被除数分割成若干份，即“被除数”。引申为“回报、效益”，指投入后分得的收益。",
+        "similarWarning": "divide（v.分开）→ dividend（n.红利）；divine（adj.神圣的）→ 差异在于“end”与“ine”；evident（adj.明显的）→ 差异在“divid”与“evid”；diligent（adj.勤奋的）→ 差异在“divid”与“dilig”。",
+        "extendedMeaning": "回报，效益（非金融语境下，指投资或努力带来的收益，如：The dividend of hard work is success.）",
+        "examUsage": "真题常考搭配：pay dividends（产生回报，带来好处），如：Investing in education pays dividends.（在真题中作为熟词僻义或固定搭配出现。）"
+      }
+    },
+    {
+      "id": "divine",
+      "word": "divine",
+      "phonetic": "/di'vain/",
+      "meaning": "a.神的，神授的，天赐的；极好的，极美的",
+      "similar": [
+        "divide",
+        "dine",
+        "dive",
+        "define",
+        "device",
+        "devise",
+        "living",
+        "dividend"
+      ],
+      "question": {
+        "wordId": "divine",
+        "stem": "选择 \"divine\" 的正确中文意思：",
+        "correct": "a.神的，神授的，天赐的；极好的，极美的",
+        "options": [
+          "a.神的，神授的，天赐的；极好的，极美的",
+          "v.分,划分,分开;分配;(by)除",
+          "v.吃饭,进餐",
+          "v./n.潜水,跳水,俯冲"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语divinus，词根div-（神/神圣），与deus（神）同源。核心动作：属于神或与神相关→引申为超凡的、极致的。",
+        "similarWarning": "divide（v.分开，分割） vs divine（a.神的）：关键区分在词尾 -ide（分开）与 -ine（属于...的）；dine（v.用餐） vs divine：仅差字母 v，dine无神圣义；dive（v.跳水） vs divine：字母 i 与 v 顺序不同，dive指物理动作。",
+        "extendedMeaning": "考研僻义：a.极好的，极美的（非字面意思，用于形容事物达到完美境界，如a divine performance）；v.猜测，推测（源自占卜，如divine the truth）。",
+        "examUsage": "真题考点：divine常与guess, infer等构成同义替换，考查其‘推测’义。例如：It is difficult to divine the author's intention from the text.（从文本中难以推测作者的意图。）"
+      }
+    },
+    {
+      "id": "division",
+      "word": "division",
+      "phonetic": "/dɪ'vɪʒn/",
+      "meaning": "n.分,分割;部门,科,处;除法;分界线",
+      "similar": [
+        "diversion",
+        "vision",
+        "decision",
+        "dimension",
+        "provision",
+        "mission",
+        "civilian",
+        "invasion"
+      ],
+      "question": {
+        "wordId": "division",
+        "stem": "选择 \"division\" 的正确中文意思：",
+        "correct": "n.分,分割;部门,科,处;除法;分界线",
+        "options": [
+          "n.分,分割;部门,科,处;除法;分界线",
+          "n.转向,转移;牵制;解闷;娱乐",
+          "n.视力,视觉;远见;洞察力;幻想,幻影;想象力",
+          "n.决定,决心;决议;决策"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根divid-（分割） + -ion（名词后缀），本义为“分割的行为或结果”。核心物理动作：把整体切开成部分。",
+        "similarWarning": "diversion（转移；消遣）：diversion = di-（分开）+ vers-（转）+ -ion，强调“转向不同方向”；division = di-（分开）+ vis-（切）+ -ion，强调“切割分开”。vision（视力；景象）：vision = vis-（看）+ -ion，强调“看的行为或能力”；division = vis-（切）+ -ion，注意vis-在division中是“切”而非“看”。",
+        "extendedMeaning": "分歧，不和（指意见、利益等的分裂状态）：The issue caused a deep division within the party.",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "divorce",
+      "word": "divorce",
+      "phonetic": "/di'vɔ:s/",
+      "meaning": "v./n.离婚,分离",
+      "similar": [
+        "diverse",
+        "disgrace",
+        "disorder"
+      ],
+      "question": {
+        "wordId": "divorce",
+        "stem": "选择 \"divorce\" 的正确中文意思：",
+        "correct": "v./n.离婚,分离",
+        "options": [
+          "n.混乱,杂乱;骚乱;失调,疾病",
+          "a.多种多样的,(from)不同的",
+          "v./n.离婚,分离",
+          "n.失宠,耻辱 v.使失宠;玷辱,使蒙羞"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根：di-（分离）+ vorce（源自拉丁语vertere，意为“转向”）。核心动作：转向分离，即原本结合的关系（如婚姻）被反转、拆开。引申为“离婚”或“分离”。",
+        "similarWarning": "diverse（不同的）：di-（分离）+ verse（转），强调“转向不同方向”，指多样性；divorce强调“关系拆解”。disgrace（耻辱）：dis-（否定）+ grace（优雅），指失去体面；divorce无“耻辱”义。disorder（混乱）：dis-（否定）+ order（秩序），指无秩序；divorce侧重法律/关系分离。",
+        "extendedMeaning": "考研僻义：指思想、观点、利益等的“分离、脱离”。如：a divorce between theory and practice（理论与实践脱节）。",
+        "examUsage": "真题考点：常用搭配“get a divorce”（离婚）或“divorce from”（与…分离）。真题例句：The divorce between the rich and the poor is widening.（贫富差距在扩大。）注意：作动词时及物（divorce sb.）或不及物（divorce from）。"
+      }
+    },
+    {
+      "id": "dizzy",
+      "word": "dizzy",
+      "phonetic": "/'dizi/",
+      "meaning": "a.头晕目眩的,眩晕的;(可能)使人头晕的",
+      "similar": [
+        "diary",
+        "dirty"
+      ],
+      "question": {
+        "wordId": "dizzy",
+        "stem": "选择 \"dizzy\" 的正确中文意思：",
+        "correct": "a.头晕目眩的,眩晕的;(可能)使人头晕的",
+        "options": [
+          "a.头晕目眩的,眩晕的;(可能)使人头晕的",
+          "n.日记,日记簿",
+          "a.弄脏的;下流的 v.弄脏,玷污",
+          "n/v..袭击,搜查"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语 dysig '愚蠢的'，与古高地德语 tusig '无力的'同源，核心物理动作为‘头脑旋转失去方向感’。词根 dy- 表‘旋转、混乱’，引申为头晕或令人困惑的状态。",
+        "similarWarning": "diary (日记): d-后接-iary(日期相关)；dirty (脏的): d-后接-irty(污物)；dizzy 强调旋转感，对比字母 z 的旋转意象。",
+        "extendedMeaning": "在考研中引申为‘令人困惑的、使人不知所措的’，如 a dizzy pace (令人眩晕的速度) 或 dizzying complexity (令人困惑的复杂性)。",
+        "examUsage": "常考搭配 dizzy with excitement (兴奋得头晕) 或 feel dizzy (感到头晕)，在阅读中可能作表语或定语，干扰项常混淆其本义与引申义。"
+      }
+    },
+    {
+      "id": "dock",
+      "word": "dock",
+      "phonetic": "/dɒk/",
+      "meaning": "n.船坞,码头",
+      "similar": [
+        "cock",
+        "deck",
+        "duck",
+        "lock",
+        "mock",
+        "sock",
+        "block",
+        "clock"
+      ],
+      "question": {
+        "wordId": "dock",
+        "stem": "选择 \"dock\" 的正确中文意思：",
+        "correct": "n.船坞,码头",
+        "options": [
+          "n.船坞,码头",
+          "n.公鸡,雄鸡;龙头,开关",
+          "n.甲板",
+          "n.鸭,鸭肉 v.迅速俯身;快速低头;躲避"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根来自中古荷兰语 'docke'，原指挖出的水道或船坞。核心动作是‘挖出空间以容纳船只’，引申为船只停靠的码头。",
+        "similarWarning": "cock（公鸡）、deck（甲板）、duck（鸭子）、lock（锁）、mock（嘲笑）、rock（岩石）、sock（袜子）、block（街区/阻塞）。注意拼写差异：dock以'd'开头，与cock、mock、sock等仅首字母不同，词义无关联。",
+        "extendedMeaning": "在考研中，'dock' 常考其动词义‘（使）靠码头’或‘（航天器）对接’，如 'dock with the space station'。此外，'in dock' 可表示‘在修理中’或‘在住院’。",
+        "examUsage": "真题中常考 'dock' 的动词用法，如 'The ship docked at the port.' 或 'The spacecraft docked successfully.' 注意与 'land'（着陆）区分，后者用于地面。"
+      }
+    },
+    {
+      "id": "doctorate",
+      "word": "doctorate",
+      "phonetic": "/'dɔktərit/",
+      "meaning": "n.博士学位;博士头衔",
+      "similar": [
+        "decorate",
+        "dictate"
+      ],
+      "question": {
+        "wordId": "doctorate",
+        "stem": "选择 \"doctorate\" 的正确中文意思：",
+        "correct": "n.博士学位;博士头衔",
+        "options": [
+          "v.装饰,装璜,布置",
+          "a.正确的,恰当的,端正的 v.改正,纠正,矫正",
+          "n.博士学位;博士头衔",
+          "v.口授;(使)听写;指令,指示,命令;"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“docere”（教），派生自“doctor”（博士/教师），后缀“-ate”表“状态/职位”。核心动作：被赋予“教”的资格，即最高学术头衔——博士学位。",
+        "similarWarning": "decorate（装饰）：词根“dec-”（合适），侧重美化；dictate（口述/命令）：词根“dict-”（说），侧重指令。拼写差异：doctorate含“doc-”（教），decorate含“dec-”（美），dictate含“dict-”（说）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "document",
+      "word": "document",
+      "phonetic": "/'dɒkjumənt /",
+      "meaning": "n.公文,文献",
+      "similar": [
+        "monument",
+        "cement",
+        "decent",
+        "comment",
+        "torment",
+        "argument",
+        "movement"
+      ],
+      "question": {
+        "wordId": "document",
+        "stem": "选择 \"document\" 的正确中文意思：",
+        "correct": "n.公文,文献",
+        "options": [
+          "n.公文,文献",
+          "n.纪念碑,纪念馆,遗迹,不朽的业绩",
+          "n.水泥;胶泥,胶接剂 v.胶合;巩固,加强",
+          "a.体面的;正派的,合乎礼仪的;合适的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根doc-（教，指示）+ -ment（名词后缀，表结果/工具）。核心动作：被用来“教导”或“提供指示”的东西。本义为“用于教导或证明的文件”，引申为“公文、文献”。",
+        "similarWarning": "与argument（争论；论点）区分：argument由argu-（争论）+ -ment构成，强调“争论过程或论点”；document强调“作为证据或记录的书面文件”。与moment（片刻；重要）区分：moment无词根doc-，是mov-（移动）的变体，指“一瞬间”。",
+        "extendedMeaning": "v.记录，记载（在考研阅读中常以动词形式出现，如‘document the process’记录过程）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "documentary",
+      "word": "documentary",
+      "phonetic": "/ˌdɔkju'mentəri/",
+      "meaning": "a.文献的 n.记录片",
+      "similar": [
+        "voluntary",
+        "elementary"
+      ],
+      "question": {
+        "wordId": "documentary",
+        "stem": "选择 \"documentary\" 的正确中文意思：",
+        "correct": "a.文献的 n.记录片",
+        "options": [
+          "n.符号,标志;象征",
+          "a.初步的;基本的;[化]元素的;自然力的",
+          "a.自愿的,志愿的",
+          "a.文献的 n.记录片"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 documentum（教训、证明），由 docere（教导）+ -ment（名词后缀）+ -ary（形容词/名词后缀）构成。核心动作：通过文献或影像进行“教导与证明”，从书面文献延伸至影像记录，即纪录片。",
+        "similarWarning": "voluntary（自愿的）: 词根 vol-（意愿），强调自由意志；elementary（基础的）: 词根 element（元素），强调初级或根本。对比：documentary 核心在“文献/记录”，voluntary 在“自愿”，elementary 在“基础”。",
+        "extendedMeaning": "在考研中，documentary 常作为名词“纪录片”出现，形容词“文献的”较少单独考，但需注意其引申义“纪实性的”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "doll",
+      "word": "doll",
+      "phonetic": "/dɔl/",
+      "meaning": "n.玩偶,玩具娃娃",
+      "similar": [
+        "dull",
+        "poll",
+        "roll",
+        "toll",
+        "dollar",
+        "drill",
+        "dwell",
+        "jolly"
+      ],
+      "question": {
+        "wordId": "doll",
+        "stem": "选择 \"doll\" 的正确中文意思：",
+        "correct": "n.玩偶,玩具娃娃",
+        "options": [
+          "n.玩偶,玩具娃娃",
+          "a.单调的;迟钝的,愚笨的;不锋利的",
+          "n.民意测验;(pl.)政治选举 v.获得…选票",
+          "v.滚动;使摇摆;卷,卷起 n.卷,卷形物;名单"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "doll 源自低地德语 'Docke'，原指 '小女孩的玩偶'，后扩展为 '玩具娃娃'。词根与 'dolt'（呆子）同源，暗示早期玩偶的呆板形态。核心物理动作：模仿人类形态的静态物体。",
+        "similarWarning": "dull（迟钝的）vs doll（玩偶）：字母 'u' vs 'o'，词义无关；poll（投票）vs doll：字母 'p' vs 'd'，形似但义异；dollar（美元）vs doll：后缀 '-ar' 表货币，注意拼写差异。",
+        "extendedMeaning": "考研僻义：n. 漂亮而无头脑的女人（贬义），如 'She's just a doll.' 但考研中罕见，仅作阅读语境理解。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dollar",
+      "word": "dollar",
+      "phonetic": "/'dɔlə/",
+      "meaning": "n.(美国,加拿大等国货币单位)美元,加元",
+      "similar": [
+        "collar",
+        "doll",
+        "polar",
+        "solar",
+        "cellar",
+        "pillar"
+      ],
+      "question": {
+        "wordId": "dollar",
+        "stem": "选择 \"dollar\" 的正确中文意思：",
+        "correct": "n.(美国,加拿大等国货币单位)美元,加元",
+        "options": [
+          "n.(美国,加拿大等国货币单位)美元,加元",
+          "n.衣领;环状物",
+          "a.两极的,极地的,南辕北辙的 n.极线,极面",
+          "n.玩偶,玩具娃娃"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "dollar源自德语Taler（约阿希姆斯塔尔银币，Joachimsthaler的缩写），原指16世纪捷克Joachimsthal地区铸造的银币。词根thal意为‘山谷’（valley），-er表示‘来自…的人或物’。核心物理动作：从特定山谷（thal）开采银矿铸造的货币（-er）。英语借入后拼写变形为dollar，泛指银币，后成为美国、加拿大等国的货币单位。",
+        "similarWarning": "形近词对比：collar（c-+ollar，衣领，狗项圈）；doll（d+oll，玩偶，洋娃娃）；polar（p-+olar，极地的）；solar（s-+olar，太阳的）；cellar（c-+ellar，地窖）；pillar（p-+illar，柱子，栋梁）。差异主要在首字母及后缀，词义无关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "domain",
+      "word": "domain",
+      "phonetic": "/dəu'mein/",
+      "meaning": "n.(活动,思想等)领域,范围;领地",
+      "similar": [
+        "drain",
+        "detain",
+        "remain",
+        "complain"
+      ],
+      "question": {
+        "wordId": "domain",
+        "stem": "选择 \"domain\" 的正确中文意思：",
+        "correct": "n.(活动,思想等)领域,范围;领地",
+        "options": [
+          "n.(活动,思想等)领域,范围;领地",
+          "v.耽搁;扣押,拘留",
+          "n.排水沟,阴沟;消耗,负担 v.排去,放干",
+          "v.剩下,余留;留待,尚须;仍然是,依旧是"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 dominium（所有权、领地），词根 dom-（家、主人）→ 引申为“拥有控制权的区域”，即领域、范围或领地。核心动作：划定并掌控的专属空间。",
+        "similarWarning": "domain vs. maintain：domain 强调领域/范围；maintain（main-手+tain-拿）意为“维持”。区别：domain 是名词，maintain 是动词。",
+        "extendedMeaning": "在计算机/数学中常指“定义域”（如 function domain）；在生物学中指“域”（分类学最高等级）。考研中常考抽象引申义“（活动、兴趣、知识的）领域”。",
+        "examUsage": "考点：in the domain of...（在……领域内）。真题例句：This is not within the domain of our research.（这不在我们的研究范围内。）注意与 field, realm 的辨析。"
+      }
+    },
+    {
+      "id": "dome",
+      "word": "dome",
+      "phonetic": "/dəum/",
+      "meaning": "n.圆屋顶",
+      "similar": [
+        "dose",
+        "dove",
+        "doze",
+        "adore",
+        "dozen"
+      ],
+      "question": {
+        "wordId": "dome",
+        "stem": "选择 \"dome\" 的正确中文意思：",
+        "correct": "n.圆屋顶",
+        "options": [
+          "n.圆屋顶",
+          "n.剂量,一服,一剂 v.(给…)服药",
+          "n.鸽子",
+          "v./n.瞌睡;假寐"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自希腊语doma（房屋、屋顶），词根dom-（房屋、家）的同源词如domestic（家庭的）。核心物理动作是“覆盖、遮蔽”，圆屋顶作为房屋的拱形顶部，本质是“覆盖结构的最高点”。",
+        "similarWarning": "dome vs. dose（剂量）: dome以me结尾，dose以se结尾；dome vs. dove（鸽子）: dome含字母m，dove含v；dome vs. doze（打瞌睡）: dome结尾me，doze结尾ze。",
+        "extendedMeaning": "在科技或地理语境中可指“穹顶状物”，如雷达穹顶（radar dome）、冰穹（ice dome）。考研阅读中偶见比喻用法，如“the dome of the sky”（苍穹）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "domestic",
+      "word": "domestic",
+      "phonetic": "/dəu'mestik/",
+      "meaning": "a.家里的;本国的;驯养的",
+      "similar": [
+        "drastic",
+        "romantic"
+      ],
+      "question": {
+        "wordId": "domestic",
+        "stem": "选择 \"domestic\" 的正确中文意思：",
+        "correct": "a.家里的;本国的;驯养的",
+        "options": [
+          "v.(使)疲倦,(使)厌倦 n.(=tyre)轮胎,车胎",
+          "a.激烈的,严厉的;(药性等)猛烈的",
+          "a.家里的;本国的;驯养的",
+          "a.浪漫的,传奇式的;不切实际的,好幻想的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "核心词根：dom-（家，房屋）。domestic = dom（家）+ -estic（形容词后缀，表示“属于…的”）。物理动作/画面：与“家”有关→家里的；引申为国家层面→本国的；用于动物→驯养的。",
+        "similarWarning": "形近词辨析：\n- domestic（家里的）vs. drastic（激烈的）：dome（圆顶）vs. dra（拽）+stic（激烈动作）。\n- domestic（本国的）vs. romantic（浪漫的）：dom（家）vs. rom（罗马，浪漫之源）。",
+        "extendedMeaning": "熟词僻义：在考研阅读中，domestic常引申为“国内的、内政的”，如domestic policy（国内政策）；或指“家庭内部的”，如domestic violence（家庭暴力）。此外，在经济学语境中，domestic market（国内市场）是高频搭配。",
+        "examUsage": "考点直击：\n- 真题高频搭配：gross domestic product (GDP)（国内生产总值）——考研阅读经济类话题必考术语。\n- 干扰项设置：常与national（国家的）混淆，但domestic强调“本国范围内的”，而national侧重“民族/国家整体的”。"
+      }
+    },
+    {
+      "id": "dominant",
+      "word": "dominant",
+      "phonetic": "/'dɔminənt/",
+      "meaning": "a.支配的,统治的,占优势的",
+      "similar": [
+        "dominate",
+        "prominent",
+        "eminent",
+        "nominal",
+        "remnant",
+        "nominate"
+      ],
+      "question": {
+        "wordId": "dominant",
+        "stem": "选择 \"dominant\" 的正确中文意思：",
+        "correct": "a.支配的,统治的,占优势的",
+        "options": [
+          "a.显赫的;杰出的;有名的;优良的",
+          "v.支配,统治,控制;占优势",
+          "a.支配的,统治的,占优势的",
+          "a.突起的,凸出的;突出的,杰出的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根domin-（统治，控制）+ -ant（形容词后缀，表示“具有…性质的”）。核心动作：统治、支配。",
+        "similarWarning": "dominate（v.支配，统治）；prominent（a.突出的，显著的，pro-向前+min-突出）；eminent（a.杰出的，显赫的，e-向外+min-突出）；nominal（a.名义上的，nom-名字）；remnant（n.残余，re-回+mn-停留）；nominate（v.提名，nom-名字）。",
+        "extendedMeaning": "（在生物学中）显性的，优势的，如dominant gene（显性基因）；在生态学中，优势物种，如dominant species。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dominate",
+      "word": "dominate",
+      "phonetic": "/'dɔmineit/",
+      "meaning": "v.支配,统治,控制;占优势",
+      "similar": [
+        "nominate",
+        "donate",
+        "dominant",
+        "designate",
+        "eliminate",
+        "terminate",
+        "deviate",
+        "imitate"
+      ],
+      "question": {
+        "wordId": "dominate",
+        "stem": "选择 \"dominate\" 的正确中文意思：",
+        "correct": "v.支配,统治,控制;占优势",
+        "options": [
+          "a.支配的,统治的,占优势的",
+          "v.支配,统治,控制;占优势",
+          "vt.损赠(金钱等);赠予",
+          "v.提名,任命"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 dominari，词根 domin-（主人、领主），后缀 -ate（动词后缀）。核心动作：作为主人去统治，即支配、控制、占主导地位。",
+        "similarWarning": "nominate（提名）：nom-（名字）+ate→给出名字→提名。donate（捐赠）：don-（给予）+ate→给予→捐赠。dominate（统治）：domin-（主人）+ate→作为主人→统治。注意字母差异：domin- vs nomin- vs don-。",
+        "extendedMeaning": "在考研阅读中常引申为‘在……中占主导地位’、‘显著影响’，如‘dominate the market’（主导市场），或‘dominate the discussion’（主导讨论）。",
+        "examUsage": "常见搭配‘dominate over’（支配/控制），真题中常考其被动形式‘be dominated by’（被……支配）。"
+      }
+    },
+    {
+      "id": "donate",
+      "word": "donate",
+      "phonetic": "/dəu'neɪt/",
+      "meaning": "vt.损赠(金钱等);赠予",
+      "similar": [
+        "dominate",
+        "date",
+        "debate",
+        "denote",
+        "locate",
+        "rotate",
+        "senate",
+        "advocate"
+      ],
+      "question": {
+        "wordId": "donate",
+        "stem": "选择 \"donate\" 的正确中文意思：",
+        "correct": "vt.损赠(金钱等);赠予",
+        "options": [
+          "v./n.争论,辩论",
+          "n.日期,年代 v.注明…的日期 n./v.约会",
+          "v.支配,统治,控制;占优势",
+          "vt.损赠(金钱等);赠予"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'donare'（给予），词根'don-'（给予）+动词后缀'-ate'。核心物理动作是'给予某物给他人'，强调无偿、自愿的转移，如捐赠金钱或物品。",
+        "similarWarning": "donate vs dominate: 'donate'中'don-'（给予），'dominate'中'domin-'（统治），后者多了字母'min'，词义从给予变为支配。",
+        "extendedMeaning": "在考研中可引申为'提供'或'贡献'，如'donate blood'（献血）或'donate one's time'（贡献时间）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "donkey",
+      "word": "donkey",
+      "phonetic": "/'dɔŋki/",
+      "meaning": "n.驴子；蠢人；顽固的人",
+      "similar": [
+        "monkey",
+        "honey",
+        "convey"
+      ],
+      "question": {
+        "wordId": "donkey",
+        "stem": "选择 \"donkey\" 的正确中文意思：",
+        "correct": "n.驴子；蠢人；顽固的人",
+        "options": [
+          "n.蜜,蜂蜜",
+          "v.运送,搬运,转运;传达,传播",
+          "n.驴子；蠢人；顽固的人",
+          "n.猴子"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能与' dun' （暗褐色）有关，指驴的毛色。核心物理动作/画面：驴子，以固执、愚蠢的刻板印象著称。",
+        "similarWarning": "monkey（猴子，拼写差异：m-开头 vs d-开头）；honey（蜂蜜，拼写差异：h-开头 vs d-开头，-oney vs -onkey）；money（钱，拼写差异：m-开头 vs d-开头，-oney vs -onkey）；convey（传达，拼写差异：c-开头 vs d-开头，-vey vs -key）",
+        "extendedMeaning": "顽固的人（考研中常考比喻义，指固执己见者，如'donkey work'指单调乏味的苦活）。",
+        "examUsage": "donkey work（单调乏味的苦差事，真题中常作为阅读理解生词释义题干扰项）。"
+      }
+    },
+    {
+      "id": "doom",
+      "word": "doom",
+      "phonetic": "/du:m/",
+      "meaning": "n.厄运,劫数 v.注定,命定",
+      "similar": [
+        "boom",
+        "dorm",
+        "loom",
+        "zoom",
+        "bloom",
+        "bosom",
+        "broom",
+        "idiom"
+      ],
+      "question": {
+        "wordId": "doom",
+        "stem": "选择 \"doom\" 的正确中文意思：",
+        "correct": "n.厄运,劫数 v.注定,命定",
+        "options": [
+          "n.厄运,劫数 v.注定,命定",
+          "v.迅速发展,兴旺;发出隆隆声",
+          "n.(dormitory)［美］［口］宿舍",
+          "n.织布机,织机 v.隐现,(危险、忧虑等)迫近"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能拟声词源自古英语'dōm'（判决，审判），核心动作是'宣布判决'。引申为无法逃避的'厄运'或'注定'，强调结局的不可避免性。",
+        "similarWarning": "boom (繁荣/轰鸣，b-爆炸声) vs doom (厄运，d-判决)；loom (隐约出现/织布机，l-高大物体) vs doom；room (房间，r-空间) vs doom；zoom (缩放/疾行，z-快速移动) vs doom；dorm (宿舍，dorm-睡眠) vs doom；bloom (开花，bl-绽放) vs doom；bosom (胸部/怀抱，b-拥抱) vs doom。核心区别首字母，doom的'd'暗示判决、命运。",
+        "extendedMeaning": "考研常考'注定'的被动结构‘be doomed to'，意为'注定要...'，强调消极、命中注定的结果，如‘be doomed to failure'。",
+        "examUsage": "真题考点：'be doomed to'后接名词或动词原形，常与'failure', 'extinction', 'disappear'等搭配，作为阅读中因果逻辑的题眼，表示无法避免的结局。"
+      }
+    },
+    {
+      "id": "doorway",
+      "word": "doorway",
+      "phonetic": "/'dɔ:wei/",
+      "meaning": "n.门口",
+      "similar": [],
+      "question": {
+        "wordId": "doorway",
+        "stem": "选择 \"doorway\" 的正确中文意思：",
+        "correct": "n.门口",
+        "options": [
+          "n.门口",
+          "v.提高,增强",
+          "a.清醒的;认真的,冷静的,适度的",
+          "v.擦掉;删去;消磁"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由 door（门）和 way（通道）复合而成，字面即“门的通道”，指建筑物入口处设有门的位置。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dorm",
+      "word": "dorm",
+      "phonetic": "/dɔ:m/",
+      "meaning": "n.(dormitory)［美］［口］宿舍",
+      "similar": [
+        "doom",
+        "form",
+        "norm",
+        "worm",
+        "adore",
+        "forum",
+        "storm"
+      ],
+      "question": {
+        "wordId": "dorm",
+        "stem": "选择 \"dorm\" 的正确中文意思：",
+        "correct": "n.(dormitory)［美］［口］宿舍",
+        "options": [
+          "n.准则,规范,准则,平均数",
+          "n.形状,形式;表格 v.组成,构成;形成",
+          "n.厄运,劫数 v.注定,命定",
+          "n.(dormitory)［美］［口］宿舍"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语dormire（睡觉），dorm-为词根“睡眠”。宿舍是睡觉的地方，核心动作就是“躺下睡”。",
+        "similarWarning": "doom（厄运，死亡） vs dorm（宿舍）：doom以-oom结尾，强调“终结”；dorm以-orm结尾，强调“睡”。form（形式） vs dorm：form以f开头，指“形状”；dorm以d开头，指“睡觉”。norm（标准） vs dorm：norm以n开头，指“规范”；dorm指“宿舍”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dose",
+      "word": "dose",
+      "phonetic": "/dəus/",
+      "meaning": "n.剂量,一服,一剂 v.(给…)服药",
+      "similar": [
+        "dome",
+        "dove",
+        "doze",
+        "hose",
+        "nose",
+        "pose",
+        "rose",
+        "adore"
+      ],
+      "question": {
+        "wordId": "dose",
+        "stem": "选择 \"dose\" 的正确中文意思：",
+        "correct": "n.剂量,一服,一剂 v.(给…)服药",
+        "options": [
+          "v./n.瞌睡;假寐",
+          "n.剂量,一服,一剂 v.(给…)服药",
+          "n.鸽子",
+          "n.圆屋顶"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 dosis（给予，一剂），由 didonai（给予）衍生。核心动作是“给予（药物）”，引申为一次给予的量，即“剂量、一剂”。",
+        "similarWarning": "dose vs. doze（打瞌睡）：dose 有 s，doze 有 z；dose 与鼻子无关，doze 与打盹有关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dot",
+      "word": "dot",
+      "phonetic": "/dɔt/",
+      "meaning": "n.点,圆点 v.在…上打点",
+      "similar": [
+        "lot",
+        "pot",
+        "rot",
+        "adopt",
+        "doubt",
+        "idiot"
+      ],
+      "question": {
+        "wordId": "dot",
+        "stem": "选择 \"dot\" 的正确中文意思：",
+        "correct": "n.点,圆点 v.在…上打点",
+        "options": [
+          "v.(使)腐烂,(使)腐败,腐朽",
+          "n.许多，大量；签，抽签；命运；场地",
+          "n.点,圆点 v.在…上打点",
+          "n.罐,壶"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自中古英语dot（小斑点），拟声/形词，模仿小颗粒落下的感觉。核心物理动作是‘小而圆的标记’或‘分散散布’。",
+        "similarWarning": "do（做） vs dot（点）：差一个t；dog（狗） vs dot：g改为t；hot（热） vs dot：h改为d；lot（许多） vs dot：l改为d；not（不） vs dot：n改为d；pot（罐） vs dot：p改为d；rot（腐烂） vs dot：r改为d；adopt（采用） vs dot：多出ap。",
+        "extendedMeaning": "考研僻义：vt. 点缀，散布（如stars dot the sky）或n. 小数点（如three dot five）。",
+        "examUsage": "真题考点：on the dot（准时，精确地）作为固定短语出现，常考其副词性用法；或词组be dotted with（布满，点缀着）用于描述场景。"
+      }
+    },
+    {
+      "id": "doubt",
+      "word": "doubt",
+      "phonetic": "/daut/",
+      "meaning": "n./v.怀疑,疑虑",
+      "similar": [
+        "dot",
+        "debt",
+        "dust",
+        "count",
+        "court",
+        "mount"
+      ],
+      "question": {
+        "wordId": "doubt",
+        "stem": "选择 \"doubt\" 的正确中文意思：",
+        "correct": "n./v.怀疑,疑虑",
+        "options": [
+          "n.债,债务",
+          "n.点,圆点 v.在…上打点",
+          "n./v.怀疑,疑虑",
+          "n.灰尘,尘土 v.拂,掸"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根为拉丁语*dubitare*（犹豫，摇摆不定），源自*duo*（二）+*habere*（持有），字面意为“在两种想法间摇摆”。核心物理动作是“在正反两方向间来回晃动”，引申为“不确定、怀疑”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中，*doubt*常作为动词表示“对……持怀疑态度”，而非简单的不信任，强调理性上的不确定性。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dove",
+      "word": "dove",
+      "phonetic": "/dʌv/",
+      "meaning": "n.鸽子",
+      "similar": [
+        "dive",
+        "dome",
+        "dose",
+        "doze",
+        "move",
+        "adore",
+        "cover",
+        "dozen"
+      ],
+      "question": {
+        "wordId": "dove",
+        "stem": "选择 \"dove\" 的正确中文意思：",
+        "correct": "n.鸽子",
+        "options": [
+          "n.剂量,一服,一剂 v.(给…)服药",
+          "n.圆屋顶",
+          "v./n.潜水,跳水,俯冲",
+          "n.鸽子"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "古英语‘dūfe’（潜水鸟）与‘dūfan’（潜水）同源。鸽子因俯冲飞行的动作而得名，核心物理动作为‘向下俯冲’。",
+        "similarWarning": "dive（v.潜水）与dove仅差字母e→v；dome（n.圆顶）差字母v→m；dose（n.剂量）差字母v→s；doze（v.打盹）差字母v→z；love（n.爱）差字母d→l；move（v.移动）差字母d→m；above（prep.在…上方）差字母d→b；adore（v.崇拜）差字母d→r。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "downstairs",
+      "word": "downstairs",
+      "phonetic": "/'daun'stεəz/",
+      "meaning": "ad.在楼下,往楼下",
+      "similar": [
+        "downward",
+        "upstairs"
+      ],
+      "question": {
+        "wordId": "downstairs",
+        "stem": "选择 \"downstairs\" 的正确中文意思：",
+        "correct": "ad.在楼下,往楼下",
+        "options": [
+          "a.(of)有罪的,内疚的",
+          "ad.向楼上;在楼上;上楼 ad.楼上的",
+          "a.向下的 ad.(also downwards)向下,往下",
+          "ad.在楼下,往楼下"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "down（向下）+ stairs（楼梯）→ 沿楼梯向下，即“在楼下，往楼下”。",
+        "similarWarning": "downward（向下地/的）强调方向；upstairs（在楼上/往楼上）为反义词。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "downtown",
+      "word": "downtown",
+      "phonetic": "/'daun'taun/",
+      "meaning": "ad.在城市的商业区 n./a.城市商业区(的)",
+      "similar": [],
+      "question": {
+        "wordId": "downtown",
+        "stem": "选择 \"downtown\" 的正确中文意思：",
+        "correct": "ad.在城市的商业区 n./a.城市商业区(的)",
+        "options": [
+          "ad.在城市的商业区 n./a.城市商业区(的)",
+          "n.题目，主题；主旋律，基调",
+          "n.账单;招贴,广告;(人员,职称等的)表;钞票",
+          "n.(stairway)楼梯"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "down（向下）+ town（城镇）→ 向下到城镇的中心区域，指城市中商业、娱乐集中的较低区域，即市中心或商业区。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "downward",
+      "word": "downward",
+      "phonetic": "/'daunwəd/",
+      "meaning": "a.向下的 ad.(also downwards)向下,往下",
+      "similar": [
+        "coward",
+        "inward",
+        "toward",
+        "awkward",
+        "outward",
+        "downstairs"
+      ],
+      "question": {
+        "wordId": "downward",
+        "stem": "选择 \"downward\" 的正确中文意思：",
+        "correct": "a.向下的 ad.(also downwards)向下,往下",
+        "options": [
+          "prep.(towards)朝，向；将近；对于；为了",
+          "ad.向内,在内 a.向内的,在内的,里面的",
+          "n.懦夫,胆怯者",
+          "a.向下的 ad.(also downwards)向下,往下"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "down（向下）+ ward（表示方向的后缀）→ 向下方向。词根ward源自原始日耳曼语，意为“转向”，核心动作是“朝向某方向移动”。",
+        "similarWarning": "downward vs. coward（懦夫）：coward中的cow-来自拉丁语cauda（尾巴），原指“夹着尾巴的人”，与方向无关。downward强调动作方向，coward强调性格特征。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "doze",
+      "word": "doze",
+      "phonetic": "/dəuz/",
+      "meaning": "v./n.瞌睡;假寐",
+      "similar": [
+        "dozen",
+        "dome",
+        "dose",
+        "dove",
+        "adore"
+      ],
+      "question": {
+        "wordId": "doze",
+        "stem": "选择 \"doze\" 的正确中文意思：",
+        "correct": "v./n.瞌睡;假寐",
+        "options": [
+          "n.剂量,一服,一剂 v.(给…)服药",
+          "n.圆屋顶",
+          "n.一打,十二个",
+          "v./n.瞌睡;假寐"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自斯堪的纳维亚语，模拟打瞌睡时发出的轻微鼻音或呼气声（类似“嘟-兹”），核心动作是“头下垂、意识模糊的短暂睡眠状态”。",
+        "similarWarning": "dozen（一打/十二个）、dome（圆屋顶）、dose（剂量）、dove（鸽子）、adore（爱慕）。与doze仅差字母z/s、m、v、r等，但doze特指“小睡”，无其他数量/建筑/药物/动物/情感含义。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dozen",
+      "word": "dozen",
+      "phonetic": "/'dʌzən/",
+      "meaning": "n.一打,十二个",
+      "similar": [
+        "doze",
+        "dome",
+        "dose",
+        "dove",
+        "oven",
+        "token"
+      ],
+      "question": {
+        "wordId": "dozen",
+        "stem": "选择 \"dozen\" 的正确中文意思：",
+        "correct": "n.一打,十二个",
+        "options": [
+          "n.圆屋顶",
+          "n.一打,十二个",
+          "n.剂量,一服,一剂 v.(给…)服药",
+          "v./n.瞌睡;假寐"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“duodecim”（十二），由“duo”（二）和“-decim”（十）组合而成，表示“二加十”，即“十二”。古法语变为“dozeine”，进入英语后指“一打”的单位。",
+        "similarWarning": "doze（v.打瞌睡）与dozen仅差一个字母n，词义无关；dome（n.圆顶）首字母d相同但结尾不同；dose（n.剂量）拼写相近，注意区分。",
+        "extendedMeaning": "在考研阅读中，“dozen”常引申为“许多、大量”，如“dozens of”表示“数十个”，而非精确的十二个。",
+        "examUsage": "常见考点为短语“dozens of”，用于描述不确定的大数量，如“dozens of books”（许多书）。在真题中常作为干扰项，注意其与“score”（二十）、“hundred”等数量单位的区分。"
+      }
+    },
+    {
+      "id": "draft",
+      "word": "draft",
+      "phonetic": "/drɑ:ft/",
+      "meaning": "n.草稿,草案,草图 v.起草,草拟",
+      "similar": [
+        "craft",
+        "drift",
+        "rat",
+        "deaf",
+        "drag",
+        "drain",
+        "drama",
+        "grant"
+      ],
+      "question": {
+        "wordId": "draft",
+        "stem": "选择 \"draft\" 的正确中文意思：",
+        "correct": "n.草稿,草案,草图 v.起草,草拟",
+        "options": [
+          "v./n.漂,漂流(物)",
+          "n.鼠",
+          "n.工艺,手艺,技巧;飞机,飞船",
+          "n.草稿,草案,草图 v.起草,草拟"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语 dragan '拉、拖'，与 draw 同源。核心物理动作是 '拉拽'，引申为 '拉出的线条'（草图）、'拉出的文字'（草稿），以及 '拉人入伍'（征兵）。",
+        "similarWarning": "craft (工艺)：c+raft，draft 强调 '拉/拖'，craft 强调 '技艺/船'。drift (漂流)：d+rift (裂缝)，draft 是人为拉拽，drift 是自然漂浮。",
+        "extendedMeaning": "n. 征兵，征召；汇票；气流 v. 征兵；选派。如 be drafted into the army (被征召入伍)；draft a bill (起草法案)。",
+        "examUsage": "真题常考 draft 作为 '汇票' 的金融含义，如 bank draft (银行汇票)，以及 '起草' 与 compose 的辨析。注意 draft 作动词时过去式/分词为 drafted，非不规则变化。"
+      }
+    },
+    {
+      "id": "drag",
+      "word": "drag",
+      "phonetic": "/dræg/",
+      "meaning": "v.拖,拖曳",
+      "similar": [
+        "rag",
+        "drug",
+        "dragon",
+        "draft",
+        "drain",
+        "drama",
+        "dread"
+      ],
+      "question": {
+        "wordId": "drag",
+        "stem": "选择 \"drag\" 的正确中文意思：",
+        "correct": "v.拖,拖曳",
+        "options": [
+          "v.拖,拖曳",
+          "n.抹布,破布,碎布",
+          "n.药物;麻醉品;毒品;滞销货 v.下麻药;吸毒",
+          "n.龙"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语 dragan 'to draw, pull'，核心物理动作是‘用力拉扯使物体移动’。形象联想：拖地时拖把与地面的摩擦阻力。",
+        "similarWarning": "rag（破布，与drag同韵但无‘拉扯’义）；draw（绘制/拉，侧重匀速拉动而非费力拖曳）；drug（毒品，拼写差一个字母）；dragon（龙，拼写多on）；draft（草稿/征兵，侧重‘拉’的结果）；drain（排水，侧重‘拉’出液体）；drama（戏剧，无关联）；dread（恐惧，与drag无词源关联）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dragon",
+      "word": "dragon",
+      "phonetic": "/'drægən/",
+      "meaning": "n.龙",
+      "similar": [
+        "drag",
+        "drain",
+        "wagon",
+        "duration"
+      ],
+      "question": {
+        "wordId": "dragon",
+        "stem": "选择 \"dragon\" 的正确中文意思：",
+        "correct": "n.龙",
+        "options": [
+          "n.排水沟,阴沟;消耗,负担 v.排去,放干",
+          "v.拖,拖曳",
+          "n.运货马车,运货车;敞蓬车厢",
+          "n.龙"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语drakon（蛇、巨蛇），词根drak-（看、注视），原指“目光锐利的巨蛇”，后演变为神话中的喷火巨龙。核心动作：注视→令人畏惧的巨兽。",
+        "similarWarning": "形近词辨析：drag（拖拽，动词）、drain（排水，动词/名词）、wagon（四轮马车，名词）、duration（持续时间，名词）。与dragon相比，dragon含字母‘o’，其余词拼写差异明显，但易因首字母‘dr-’混淆。",
+        "extendedMeaning": "考研僻义：指凶悍的人（尤指女性），如‘She is a real dragon.’（她真是个母夜叉。）在《经济学人》中偶见比喻义，形容严厉或暴躁的管理者。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "drain",
+      "word": "drain",
+      "phonetic": "/drein/",
+      "meaning": "n.排水沟,阴沟;消耗,负担 v.排去,放干",
+      "similar": [
+        "brain",
+        "grain",
+        "drawing",
+        "detain",
+        "domain",
+        "dragon",
+        "strain",
+        "damn"
+      ],
+      "question": {
+        "wordId": "drain",
+        "stem": "选择 \"drain\" 的正确中文意思：",
+        "correct": "n.排水沟,阴沟;消耗,负担 v.排去,放干",
+        "options": [
+          "n.排水沟,阴沟;消耗,负担 v.排去,放干",
+          "n.谷物,谷类;颗粒,细粒",
+          "n.(大)脑,骨髓;(pl.)脑力,智能",
+          "n.绘图,图样"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根drain-源自原始日耳曼语*draug-，意为“使变干、吸干”。核心动作：通过重力或外力使液体从某处流出、排空。引申为消耗精力、资源或财富，使某物逐渐枯竭。",
+        "similarWarning": "drain vs. rain: d-前缀+rain(雨)；drain是“排水”，rain是“雨”。drain vs. grain: d-替换g-；grain(谷物)与排水无关。drain vs. train: tr-替换dr-；train(火车、训练)与排水无关。drain vs. drawing: 加-ing，drawing(绘画)词根draw-不同。drain vs. detain: de-前缀+tain(保持)；detain(拘留)意为“保持住”，与drain(排空)相反。drain vs. domain: do-替换dr-；domain(领域)词根domin-意为“统治”。drain vs. dragon: 加-on；dragon(龙)词根意为“看”，与排水无关。",
+        "extendedMeaning": "n. 消耗、负担（尤指对资源或精力的持续消耗）：a drain on one's energy/finances。v. 使逐渐消失、耗尽：drain someone's enthusiasm。",
+        "examUsage": "常考搭配：drain away (逐渐消失/耗尽)；brain drain (人才流失)。真题例句：The project was a huge drain on the company's resources. (该项目对公司资源造成了巨大消耗。)"
+      }
+    },
+    {
+      "id": "drama",
+      "word": "drama",
+      "phonetic": "/'drɑ:mə/",
+      "meaning": "n.剧本,戏剧;戏剧性事件或场面",
+      "similar": [
+        "dam",
+        "damn",
+        "damp",
+        "data",
+        "drag",
+        "drum",
+        "tram",
+        "draft"
+      ],
+      "question": {
+        "wordId": "drama",
+        "stem": "选择 \"drama\" 的正确中文意思：",
+        "correct": "n.剧本,戏剧;戏剧性事件或场面",
+        "options": [
+          "int.该死 vt.遣责；使失败 a.十足的 ad.极",
+          "n.水坝,水闸",
+          "n.潮湿 a.潮湿的 vt.使潮湿;使衰减",
+          "n.剧本,戏剧;戏剧性事件或场面"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语dran（做，行动），drama本义为“所做的行动”，引申为“戏剧”，因戏剧以人物行动展现故事。",
+        "similarWarning": "drama vs. drum（鼓）: drama含字母a，drum无a；drama指戏剧，drum指打击乐器。",
+        "extendedMeaning": "戏剧性事件或场面，指现实生活中充满冲突、悬念或情感张力的情境。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dramatic",
+      "word": "dramatic",
+      "phonetic": "/drə'mætɪk/",
+      "meaning": "a.戏剧的,戏剧性的;剧烈的",
+      "similar": [
+        "drastic",
+        "romantic",
+        "diplomatic"
+      ],
+      "question": {
+        "wordId": "dramatic",
+        "stem": "选择 \"dramatic\" 的正确中文意思：",
+        "correct": "a.戏剧的,戏剧性的;剧烈的",
+        "options": [
+          "a.外交的,从事外交的;策略的,有手腕的",
+          "a.戏剧的,戏剧性的;剧烈的",
+          "a.激烈的,严厉的;(药性等)猛烈的",
+          "a.浪漫的,传奇式的;不切实际的,好幻想的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语\"drama\"（行动、戏剧），后缀-tic表示形容词。核心动作是\"表演/行动\"，从\"戏剧的\"引申出\"戏剧性的、突然的、剧烈的\"，强调事件具有舞台般的冲突或突变感。",
+        "similarWarning": "drastic（剧烈的，彻底的）：强调程度猛烈，如drastic measures（严厉措施）；dramatic强调戏剧性转折或视觉冲击，如dramatic change（巨变）。romantic（浪漫的）：侧重情感与理想化；diplomatic（外交的）：侧重策略与圆滑。",
+        "extendedMeaning": "考研中常考\"引人注目的、显著的\"，如dramatic increase（显著增长），非字面\"戏剧的\"，而是强调变化幅度大、出乎意料。",
+        "examUsage": "真题高频搭配：dramatic effect（戏剧效果/显著效果）；dramatic shift（剧烈转变）。注意与drastic辨析：dramatic多指变化显著且引人关注，drastic则强调措施极端。"
+      }
+    },
+    {
+      "id": "drastic",
+      "word": "drastic",
+      "phonetic": "/'dræstik/",
+      "meaning": "a.激烈的,严厉的;(药性等)猛烈的",
+      "similar": [
+        "dramatic",
+        "elastic",
+        "plastic",
+        "sarcastic",
+        "artistic",
+        "domestic"
+      ],
+      "question": {
+        "wordId": "drastic",
+        "stem": "选择 \"drastic\" 的正确中文意思：",
+        "correct": "a.激烈的,严厉的;(药性等)猛烈的",
+        "options": [
+          "a.激烈的,严厉的;(药性等)猛烈的",
+          "n.(常pl.)塑料,塑料制品 a.可塑的,塑性的",
+          "a.戏剧的,戏剧性的;剧烈的",
+          "a.弹性的 n.松紧带,橡皮圈"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自希腊语drastikos（有效的、积极的），源自dran（做、行动）。核心动作是“强力行动”，引申为效果强烈的、彻底的，如drastic measures（严厉措施）或drastic change（剧烈变化）。",
+        "similarWarning": "dramatic（戏剧性的，强调夸张或突然），而drastic强调程度剧烈和结果严重，如drastic reduction（大幅削减）vs dramatic increase（戏剧性增长）。",
+        "extendedMeaning": "考研中常引申为“极端的、大幅度的”，如drastic cut（大幅削减），非仅指药性猛烈。",
+        "examUsage": "真题中常与measure, change, reduction等搭配，如take drastic measures to solve the problem（采取严厉措施解决问题），作为核心题眼考查程度副词修饰。"
+      }
+    },
+    {
+      "id": "drawback",
+      "word": "drawback",
+      "phonetic": "/'drɔ:bæk/",
+      "meaning": "n.欠缺,缺点;退还的关税",
+      "similar": [],
+      "question": {
+        "wordId": "drawback",
+        "stem": "选择 \"drawback\" 的正确中文意思：",
+        "correct": "n.欠缺,缺点;退还的关税",
+        "options": [
+          "n.欠缺,缺点;退还的关税",
+          "n.资金,基金;存款,现款;(知识等的)累积",
+          "int.欢迎 a.受欢迎的 vt./n.欢迎；迎接",
+          "v.区别,辨别;(against)有差别地对待,歧视"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "draw (拉) + back (回) → 把某物向后拉 → 导致后退或阻碍的因素 → 缺点、欠缺；退税（将已付的税款拉回）。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常指系统、计划、产品等的内在缺陷或不利因素，而非简单错误。",
+        "examUsage": "常与advantage对举，如：The drawback of the method is its high cost.（该方法的缺点是成本高。）"
+      }
+    },
+    {
+      "id": "drawer",
+      "word": "drawer",
+      "phonetic": "/drɔ:(r)/",
+      "meaning": "n.抽屉",
+      "similar": [
+        "dealer",
+        "driver",
+        "prayer"
+      ],
+      "question": {
+        "wordId": "drawer",
+        "stem": "选择 \"drawer\" 的正确中文意思：",
+        "correct": "n.抽屉",
+        "options": [
+          "n.商人",
+          "n.驾驶员",
+          "n.抽屉",
+          "n.祈祷,祷告,祷文"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根draw（拉）+ -er（名词后缀，表物）。本义为“拉出来的东西”，即抽屉。",
+        "similarWarning": "draw（v.拉，绘画） vs drawer（n.抽屉）：区别在于-er后缀表物。dealer（n.经销商） vs drawer：前缀deal-（交易）不同。driver（n.司机） vs drawer：词根driv-（驱动）不同。prayer（n.祈祷者/祈祷） vs drawer：词根pray-（祈祷）不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "drawing",
+      "word": "drawing",
+      "phonetic": "/'drɔ:iŋ/",
+      "meaning": "n.绘图,图样",
+      "similar": [
+        "drain",
+        "training"
+      ],
+      "question": {
+        "wordId": "drawing",
+        "stem": "选择 \"drawing\" 的正确中文意思：",
+        "correct": "n.绘图,图样",
+        "options": [
+          "n./v.不喜欢,厌恶",
+          "n.排水沟,阴沟;消耗,负担 v.排去,放干",
+          "n.绘图,图样",
+          "n.训练,培养"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "draw（拉、画）+ -ing（动名词后缀）→ 拉动的动作或结果 → 用笔在纸上拉动线条的行为 → 绘图；引申为绘出的图样。",
+        "similarWarning": "drain（排水，v./n.）与drawing仅差字母a与w互换，drain强调液体流出；training（训练，n.）与drawing首字母t与d不同，training指技能培养过程。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dread",
+      "word": "dread",
+      "phonetic": "/dred/",
+      "meaning": "v./n.恐惧,担心",
+      "similar": [
+        "bread",
+        "spread",
+        "thread",
+        "red",
+        "area",
+        "deaf",
+        "deal",
+        "dean"
+      ],
+      "question": {
+        "wordId": "dread",
+        "stem": "选择 \"dread\" 的正确中文意思：",
+        "correct": "v./n.恐惧,担心",
+        "options": [
+          "n.面包",
+          "v./n.恐惧,担心",
+          "v./n.伸开,伸展;散布,传播",
+          "n.线,细丝;线索,思路;螺纹 v.穿线,穿过"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不明，可能源自原始日耳曼语*draud-（恐惧），核心物理动作为“因恐惧而颤抖或僵住”，引申为对未知或危险事物的强烈不安。",
+        "similarWarning": "dread vs dead：dread含r，强调“恐惧”情绪；dead无r，表“死亡/静止”。dread vs dream：dread以-d结尾，表负面情绪；dream以-m结尾，表“梦/理想”。",
+        "extendedMeaning": "考研僻义：v. 敬畏（因恐惧而尊敬），如“dread the consequences”（敬畏后果）；n. 令人恐惧的事物，如“the dread of failure”（对失败的恐惧）。",
+        "examUsage": "真题考点：dread常与介词of连用（dread of sth.），或接不定式（dread to do sth.），强调心理预期焦虑。如真题例句：“She dreaded the exam results.”（她害怕考试结果。）"
+      }
+    },
+    {
+      "id": "drift",
+      "word": "drift",
+      "phonetic": "/drift/",
+      "meaning": "v./n.漂,漂流(物)",
+      "similar": [
+        "draft",
+        "thrift",
+        "diet",
+        "dirt",
+        "drip",
+        "gift",
+        "lift",
+        "riot"
+      ],
+      "question": {
+        "wordId": "drift",
+        "stem": "选择 \"drift\" 的正确中文意思：",
+        "correct": "v./n.漂,漂流(物)",
+        "options": [
+          "v./n.漂,漂流(物)",
+          "a.节约，节俭",
+          "n.饮食,食物",
+          "n.草稿,草案,草图 v.起草,草拟"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自中古英语 driften，与 drive（驱动）同源，核心物理动作为“被外力推动而缓慢移动”。drift 强调无明确方向或目标的被动移动，如漂流、飘移。",
+        "similarWarning": "draft（草稿、征兵） vs drift：draft 有 a，侧重“拉、拖”的动作（如拉草稿、征兵）；drift 有 i，侧重“漂移”。thrift（节俭） vs drift：thrift 有 th，表示“节省”；drift 无 th。drip（滴落） vs drift：drip 有 p，表示“滴”；drift 有 ft，表示“漂”。",
+        "extendedMeaning": "考研僻义：n. 趋势、动向（如 drift of public opinion 舆论动向）；v. 逐渐陷入（某种状态）（如 drift into sleep 逐渐入睡）。",
+        "examUsage": "真题考点：drift 常与 into/toward 搭配，表示“逐渐进入/趋向”。例：The economy drifted into recession.（经济逐渐陷入衰退。）注意与 draft 在拼写和含义上的区分。"
+      }
+    },
+    {
+      "id": "drill",
+      "word": "drill",
+      "phonetic": "/drɪl/",
+      "meaning": "v.练习;操练;钻孔 n.操练;练习;钻孔(机)",
+      "similar": [
+        "thrill",
+        "bill",
+        "dial",
+        "doll",
+        "drip",
+        "dull",
+        "fill",
+        "kill"
+      ],
+      "question": {
+        "wordId": "drill",
+        "stem": "选择 \"drill\" 的正确中文意思：",
+        "correct": "v.练习;操练;钻孔 n.操练;练习;钻孔(机)",
+        "options": [
+          "n.账单;招贴,广告;(人员,职称等的)表;钞票",
+          "n.一阵激动(恐惧) v.激动；(使)毛骨悚然",
+          "v.练习;操练;钻孔 n.操练;练习;钻孔(机)",
+          "n.钟(表)面,刻度盘,拨号盘 v.拨号,打电话"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能来自荷兰语drillen（旋转、钻孔）。核心动作是“旋转进入”，引申为“反复训练”像钻头反复钻入。名词指钻孔工具或反复操练。",
+        "similarWarning": "thrill（兴奋）与drill差thr/dr；dull（迟钝的）与drill差u/i；drip（滴下）与drill差p/ll。",
+        "extendedMeaning": "考研中常考“反复操练”的抽象义，如drill in（反复灌输）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "drip",
+      "word": "drip",
+      "phonetic": "/drip/",
+      "meaning": "v.滴下,漏水 n.滴,水滴,点滴",
+      "similar": [
+        "dip",
+        "rip",
+        "drop",
+        "grip",
+        "trip",
+        "crisp",
+        "drain",
+        "drift"
+      ],
+      "question": {
+        "wordId": "drip",
+        "stem": "选择 \"drip\" 的正确中文意思：",
+        "correct": "v.滴下,漏水 n.滴,水滴,点滴",
+        "options": [
+          "v.滴下,漏水 n.滴,水滴,点滴",
+          "v./n.浸,蘸",
+          "v.撕,剥,劈,锯,裂开,撕裂 n.裂口,裂缝",
+          "n.滴;落下;微量 v.落下;下降;失落"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿液体一滴滴落下的声音。核心物理动作为液体受重力作用以点状形式连续下落，强调‘点状下落’的过程。",
+        "similarWarning": "drip vs drop: drip强调‘滴’的动作（持续滴落），drop强调‘掉落’的结果（一次下落）。drip vs dip: drip是滴下，dip是浸入（如蘸酱）。",
+        "extendedMeaning": "v. 充满,洋溢(某种气氛或特质): The movie drips with nostalgia. 这部电影充满了怀旧之情。n. 点滴(输液): put a patient on a drip 给病人打点滴。",
+        "examUsage": ""
+      }
+    }
+  ]
+}

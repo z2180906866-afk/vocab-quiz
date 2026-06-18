@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vue测试</title>
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+</head>
+<body>
+  <div id="app">
+    <h1>{{ message }}</h1>
+    <button @click="testClick">测试按钮</button>
+    <p v-if="clicked">按钮被点击了！</p>
+  </div>
+
+  <script>
+    const { createApp } = Vue;
+    
+    const app = createApp({
+      data() {
+        return {
+          message: 'Vue应用已加载',
+          clicked: false
+        };
+      },
+      methods: {
+        testClick() {
+          console.log('按钮被点击');
+          this.clicked = true;
+          alert('按钮被点击了！');
+        }
+      }
+    });
+    
+    app.mount('#app');
+    console.log('Vue测试应用已挂载');
+  </script>
+</body>
+</html>

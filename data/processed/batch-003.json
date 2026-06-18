@@ -1,0 +1,1668 @@
+{
+  "batchId": 3,
+  "words": [
+    {
+      "id": "afternoon",
+      "word": "afternoon",
+      "phonetic": "/ˌɑ:ftə:'nu:n/",
+      "meaning": "n.下午，午后",
+      "similar": [],
+      "question": {
+        "wordId": "afternoon",
+        "stem": "选择 \"afternoon\" 的正确中文意思：",
+        "correct": "n.下午，午后",
+        "options": [
+          "v.(使)固定;修理;安装;决定;注视 n.困境",
+          "n.（catalogue）目录(册) v.编目(录)",
+          "n.下午，午后",
+          "n.西北方,西北部a.西北的ad.向西北,在西北"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'afternoon'由'after'（在……之后）和'noon'（正午）组合而成，字面意思就是“正午之后的时间段”。从词源上看，'after'源自古英语'æfter'，表示时间或空间上的“在后”，而'noon'最初源自古英语'nōn'，指“第九小时”（即下午3点），因为古代教会在正午之后举行第九小时的祈祷仪式。后来，'noon'的含义逐渐演变为“中午12点”。因此，'afternoon'的物理逻辑非常直观：从太阳到达最高点（正午12点）开始，到日落之前的时间段。你可以想象一个画面：太阳在正午时位于天空正中央，然后开始向西移动，光线逐渐变得柔和，影子拉长，这就是'afternoon'的视觉意象。为了加深记忆，你可以将'after'联想为“在身后”，'noon'联想为“太阳当空”，那么'afternoon'就是“太阳在身后”的时间段——即太阳已经过了最高点，开始往西走。这种画面感能让你瞬间记住这个词的本源含义。此外，'afternoon'在英语中常被简称为'PM'（post meridiem，拉丁语“午后”），进一步强化了“中午之后”的核心概念。掌握这个逻辑后，你不仅记住了单词，还能理解其文化背景。",
+        "similarWarning": "【避坑预警（形近/易混）】'afternoon'的形近词主要包括'forenoon'和'noon'，但它们在字母构成和含义上有明显区别。首先，'forenoon'由'fore'（在……之前）和'noon'（正午）组成，字面意思是“正午之前”，即“上午”或“午前”。与'afternoon'相比，关键区别在于前缀：'fore-'（前）vs 'after-'（后）。具体字母差异：'forenoon'以'f-o-r-e'开头，而'afternoon'以'a-f-t-e-r'开头。两个单词的长度也不同：'forenoon'有8个字母，'afternoon'有9个字母。含义上，'forenoon'指从黎明到正午的时间段，而'afternoon'指从正午到日落的时间段。其次，'noon'本身就是'afternoon'和'forenoon'的核心部分。'noon'只有4个字母，'afternoon'多了前缀'after-'（5个字母）。'noon'特指中午12点这个时刻，而'afternoon'是一个时间段。例如，'I will meet you at noon.'（我将在正午见你。）表示精确时间点；'I will meet you in the afternoon.'（我将在下午见你。）表示时间段。考研中，学生常混淆'in the afternoon'和'at noon'的介词搭配：'afternoon'用'in'，因为表示时间段；'noon'用'at'，因为表示时间点。此外，还有'afternoon'的近义词'afternoon'本身没有其他形近词，但要注意与'afterwards'（后来）区分，后者是副词，表示时间顺序，不表示时间段。总之，牢记前缀'after-' vs 'fore-'，以及介词'in' vs 'at'，就能避开这些坑。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研和高级英语阅读中，'afternoon'除了基本义“下午”，还常出现在以下引申用法和特殊搭配中：1. 作为名词，用于比喻“后期”或“晚期”。例如，在经济学人中出现过：'He is in the afternoon of his career.'（他处于职业生涯的后期。）这里'afternoon'比喻人生或事业的后半段，类似'late stage'。2. 在固定短语'of an afternoon'中，表示“在下午”（非正式，尤其用于过去经常发生的动作）。例如，'She would often read of an afternoon.'（她过去常在下午读书。）这种用法在考研阅读中偶尔出现，用于描述习惯性动作。3. 在复合词中，如'afternoon tea'（下午茶），不仅指饮品，还指一种社交活动或用餐形式。例如，'We invited them for afternoon tea at four.'（我们邀请他们四点钟来喝下午茶。）考研写作中可以作为文化背景词汇使用。4. 在俚语或口语中，'afternoon'可以指“下午场电影”或“下午演出”，如'We caught the afternoon show.'（我们赶上了下午场。）5. 形容词用法：'afternoon'可作定语，如'afternoon session'（下午的会议）、'afternoon light'（午后的光线）。在描述环境或氛围时，'afternoon light'常用于文学性描写，如'The afternoon light cast long shadows across the lawn.'（午后的光线在草坪上投下长长的影子。）这种用法在考研阅读的文学类文章中可能出现。掌握这些引申义，能帮助你在阅读中理解作者的微妙表达，并在写作中丰富词汇层次。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'afternoon'的考点主要集中在固定搭配和句型结构上。以下为常见短语和真题例句：1. 固定搭配：'in the afternoon'（在下午）。这是最核心的用法，注意介词必须用'in'。例如，'I usually work in the afternoon.'（我通常在下午工作。）2. 特定时间表达：'on Monday afternoon'（在星期一下午）。当具体到某一天的下午时，介词用'on'。例如，'The meeting is on Friday afternoon.'（会议在星期五下午。）3. 搭配'late afternoon'（下午晚些时候）和'early afternoon'（下午早些时候）。例如，'The accident happened in the late afternoon.'（事故发生在下午晚些时候。）4. 真题例句：在2018年考研英语二阅读中，出现过这样的句子：'The study found that students who took exams in the afternoon performed worse than those tested in the morning.'（研究发现，在下午参加考试的学生表现不如在早上考试的学生。）这里的'in the afternoon'直接作为时间状语，是考点。5. 高分写作例句：'To improve efficiency, many companies schedule brainstorming sessions in the afternoon when creativity peaks.'（为了提高效率，许多公司把头脑风暴会议安排在下午，此时创造力达到高峰。）这个句子展示了如何在写作中灵活使用'afternoon'。6. 常考句型：'It is a beautiful afternoon.'（这是一个美好的下午。）这种主系表结构在口语和写作中都很常见。7. 短语'afternoon nap'（午睡）：'A short afternoon nap can boost productivity.'（短暂的午睡可以提高生产力。）在考研写作中，常见于健康或效率话题。8. 注意区别：'this afternoon'（今天下午）、'yesterday afternoon'（昨天下午）、'tomorrow afternoon'（明天下午）。这些时间状语在考研阅读和写作中出现频率极高。掌握这些用法，你就能在考试中准确理解时间状语，并在写作中自然运用。"
+      }
+    },
+    {
+      "id": "afterward",
+      "word": "afterward",
+      "phonetic": "/'ɑ:ftəwəd/",
+      "meaning": "ad.(afterwards)以后，后来",
+      "similar": [
+        "steward"
+      ],
+      "question": {
+        "wordId": "afterward",
+        "stem": "选择 \"afterward\" 的正确中文意思：",
+        "correct": "ad.(afterwards)以后，后来",
+        "options": [
+          "ad.(afterwards)以后，后来",
+          "n.选民；成分，组分a.组成的，构成的",
+          "n.乘务员，服务员；看管人；膳食管理员",
+          "v.(给…)穿衣,供给…衣服"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】afterward由‘after’（在……之后）加上后缀‘-ward’（表示方向，意为‘向……’）构成，字面意思就是‘向后的方向’，引申为时间上的‘以后、后来’。词源上，‘-ward’来自古英语‘-weard’，本义是‘转向、朝向’，与拉丁语‘vertere’（转）同源。你可以想象一个箭头指向后方，表示事情发生后，时间轴上的后续走向。这种‘向后’的物理方向感，让你牢牢记住它描述的是某个事件结束之后的时间点。比如，先吃饭（after），然后（afterward）再去散步，顺序清晰。与‘before’（在前）形成鲜明对比，一个指向未来（afterward），一个指向过去（before）。记住这个‘方向+时间’的联想：afterward就是时间的箭头向后飞，带你到‘之后’的世界。",
+        "similarWarning": "【避坑预警（形近/易混）】afterward容易与forward和steward混淆，但字母级差异决定了含义天差地别。1. **forward**：拼写为f-o-r-w-a-r-d，首字母‘f’替代了‘a’，且没有‘t’和‘e’。‘forward’源自‘fore’���前面）加‘-ward’，字面是‘向���’，指时间或空间上的‘向前、前进’，如‘look forward to’（期待）。而afterward是‘向后’的时间方向，强调‘之后’。对比：先发生A，afterward发生B；而forward则是从A向未来推进。2. **steward**：拼写为s-t-e-w-a-r-d，首字母‘s’替代了‘a’，且中间有‘e’和‘w’（代替‘f’和‘t’）。‘steward’来自古英语‘stigweard’（猪圈看守人），后演变为‘管家、乘务员’，与时间方向无关。它指负责管理事务的人，如‘steward on a plane’（飞机乘务员）。而afterward是副词，修饰动词。注意：afterward末尾是‘ward’，steward末尾是‘ward’相同，但steward是名词，且字母组合不同。记住：afterward有‘after’这个明显前缀，steward有‘stew’（炖菜）谐音，可联想‘炖菜管家’。通过字母差异：afterward = after + ward；forward = fore + ward；steward = st + e + ward。对比时，看首字母和中间字母，afterward的‘after’是核心，其他两个没有这个元素。",
+        "extendedMeaning": "【高分引申（熟词僻义）】afterward在考研及高级英语中，常表示‘随后、紧接着’，但并非简单的时间顺序，有时带逻辑因果意味。僻义1：表示‘结果性的后续’，即某事件必然导致另一事件发生。例如考研阅读���：‘The experiment failed; afterward, the team revised their hypothesis.’（实验失败了；随后，团队修正了假设。）这里的‘afterward’暗示失败是修订的原因。僻义2：在叙事结构中，表示‘事后反思’，如‘Looking afterward, she realized the mistake.’（事后看来，她意识到了错误。）这时‘afterward’带有回顾性，类似‘in hindsight’。僻义3：在学术写作中，用于连接步骤，‘First, collect data; afterward, analyze results.’（首先收集数据；随后分析结果。）强调研究过程的顺序。僻义4：在经济学人中，表示‘之后的一段时间’，如‘The policy was implemented; afterward, inflation rose gradually.’（政策实施后；之后通胀逐渐上升。）这里的‘afterward’暗示时间跨度可能较长。注意：afterward在美式英语中更常用，英式英语偏爱‘afterwards’，但考研中两者可互换。例句：1. ‘He ate dinner; afterward, he took a walk.’（他吃完晚饭；随后散了步。）2. ‘The meeting ended; afterward, many questions remained.’（会议结束；之后许多问题仍悬而未决。）3. ‘She apologized; afterward, they reconciled.’（她道歉了；随后他们和解了。）这些例句显示从具体行动到抽象关系的引申。",
+        "examUsage": "【真题闭环（考点直击）】afterward在考研真题中常作为副词出现，连接两个事件，表示时间顺序。经典搭配包括：(1) soon afterward（不久之后），(2) shortly afterward（稍后），(3) immediately afterward（紧接着），(4) afterward of（罕见，通常用afterward单独使用）。常考句型：主语+动词；afterward, 主语+动词（表示先后顺序）。真题例句：1. 2010年考研英语二阅读理解：‘The economic crisis began in 2008; soon afterward, unemployment rates soared.’（经济危机始于2008年；不久之后，失业率飙升。）2. 2015年考研英语一翻译：‘The researchers conducted the survey; afterward, they published the results.’（研究人员进行了调查；随后他们发表了结果。）3. 高分写作例句：‘First, we should clarify the problem; afterward, we can propose effective solutions.’（首先，我们应该澄清问题；随后，我们可以提出有效的解决方案。）写作中，afterward可用于议论文的主体部分，表示步骤顺序，如：‘The government took measures to reduce pollution; afterward, the air quality improved significantly.’（政府采取措施减少污染；之后空气质量显著改善。）注意：afterward不能用于句首连接两个从���，只能用于第二个句子开头或句中。真题中常与‘first’、‘then’、‘next’构成时间链条。备考时，可记忆‘事件A + afterward + 事件B’的结构，强调时间逻辑。另外，afterward的反义词是‘beforehand’（事先），如‘prepare beforehand, execute afterward’（事先准备，事后执行），这对写作对比很有用。总之，afterward在考研中主要考查时间顺序的副词用法，无例外。"
+      }
+    },
+    {
+      "id": "against",
+      "word": "against",
+      "phonetic": "/ə'genst/",
+      "meaning": "prep.对着，逆；反对；违反；紧靠着；对比",
+      "similar": [],
+      "question": {
+        "wordId": "against",
+        "stem": "选择 \"against\" 的正确中文意思：",
+        "correct": "prep.对着，逆；反对；违反；紧靠着；对比",
+        "options": [
+          "n.鸡肉；鸡，小鸡，小鸟",
+          "v.恳求,请求;为…辩护;提出…为理由",
+          "n.谋反,通敌,叛国",
+          "prep.对着，逆；反对；违反；紧靠着；对比"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“against”的核心逻辑源于其词根“gainst”，古英语中为“ongegn”，意为“朝向、对面”。其物理意象可以想象为两股力量在空间中的对立：一个人站在墙壁前，身体“紧靠着”墙壁，此时墙壁与他形成一种“对着”的关系；而当他试图推开墙壁时，力量方向相逆，便产生了“逆”或“反对”的含义。从词源演变看，“against”由“again”（回、再次）加上表示“对立”的后缀“-st”构成，本质上描述的是“朝着相反方向”的状态。这种画面感联想非常直观：想象你与另一个人面对面站立，彼此“对着”对方，如果你们同时向前推掌，就形成了“对抗”的力量；如果其中一人试图穿过对方，则构成“违反”规则的行为。此外，在空间层面，“against”也可理解为“紧靠着”一个支撑物，如“lean against the wall”（靠墙），此时墙与身体是接触且对立的支撑关系。这种从“对立”到“接触”再到“比较”的联想，能够帮助学生建立深刻的记忆锚点，理解该词在“对比”语境中的延伸，例如“against the backdrop”（以……为背景）中的对比关系。总之，“against”的底层逻辑就是“两物在空间或抽象层面的对立与接触”，所有衍生义皆源于此。",
+        "similarWarning": "【避坑预警（形近/易混）】“against”最常见的形近词是“again”，两者仅相差两个字母“st”，但含义截然不同。“again”是副词，意为“再次、又”，如“Try again”（再试一次），强调动作的重复；而“against”是介词，强调对立、反对或接触关系。具体字母级差异：在“again”末尾添加字母“st”即构成“against”，其中“st”源自古英语后缀，表示“朝着……方向”或“与……相对”。例如，“He stood again”意为“他又站起来了”，而“He stood against the wall”意为“他靠墙站着”，后者多了接触和支撑的含义。此外，考研中还需注意“against”与“opposite”的区别：“opposite”通常指位置上的“对面”，如“the opposite side of the street”（街道对面），而“against”更强调力量、方向或意见的对立。另一个易混词是“aggressive”（侵略性的），但“aggressive”包含“gress”（走）的词根，与“against”无关。记忆技巧：记住“again”是时间上的重复，而“against”是空间或力量上的对立；可以联想“against”中多出的“st”像两个人在“站立”（stand）对抗，如“st”代表“stand”，从而与“对抗”的含义挂钩。在写作中，误用“again”代替“against”是常见错误，例如“He is again the plan”是错误的，应为“He is against the plan”。通过这种字母级对比和含义差异分析，学生能一眼看出区别。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语资料中，“against”常引申出以下非字面含义：1）表示“以……为背景”或“与……对比”，如经济学人例句“The new policy is set against a backdrop of economic uncertainty”（新政策是在经济不确定的背景下制定的），此处“against”不是“反对”，而是“以……为参照”。2）表示“以防、防备”，如卫报例句“We need to save money against a rainy day”（我们需要存钱以防不时之需），这里“against”意为“为了防范”。3）在法律或正式文体中表示“违背、违反”，如“against the law”（违法），但更深层可引申为“与……相悖”，如“It goes against my principles”（这违背了我的原则）。4）在比较结构中表示“与……相比”，如考研真题例句“The advantage of the new system is measured against the old one”（新系统的优势是与旧系统相比得出的），此处“against”替代了“compared with”。5）在运动或竞赛中表示“对抗”，如“play against a strong team”（与强队比赛）。6）在金融或统计中表示“抵消”，如“The losses are charged against profits”（损失从利润中扣除）。7）在物理或抽象层面表示“撞击”，如“The rain beat against the windows”（雨水拍打着窗户），此处“against”强调接触和冲击。这些僻义在阅读中常导致理解偏差，例如考研英语二2015年真题中“His argument goes against the grain of traditional thinking”（他的论点与传统思维格格不入），其中的“against the grain”是固定习语，意为“与……格格不入”。掌握这些引申义，能显著提升考研阅读的得分率。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“against”是高频介词，常考以下搭配和句型：1）固定搭配“be against”（反对），如考研真题例句“Many people are against the construction of the new dam”（许多人反对新大坝的建设）。2）固定搭配“against the background/backdrop of”（在……背景下），如写作高分例句“Against the backdrop of globalization, cultural exchange has become more frequent”（在全球化的背景下，文化交流变得更加频繁）。3）固定搭配“against all odds”（克服重重困难），如考研英语一2012年阅读真题“She succeeded against all odds”（她克服万难取得了成功）。4）固定搭配“against the law”（违法）和“against the rules”（违规），如“It is against the law to discriminate based on gender”（基于性别歧视是违法的）。5）比较结构中的“measured against”（与……相比），如“The effectiveness of the drug is measured against a placebo”（药物的效果与安慰剂相比）。6）表示“紧靠”的搭配“lean against”（靠在……上）和“press against”（压着），如“He leaned against the door, exhausted”（他靠在门上，筋疲力尽）。7）表示“防备”的搭配“insure against”（投保以防）和“guard against”（防范），如“We must guard against potential risks”（我们必须防范潜在风险）。8）常考句型“against the grain of”（与……格格不入），如“His ideas run against the grain of the mainstream”（他的想法与主流格格不入）。此外，在完形填空中，“against”常与“compared with”形成干扰项，例如“The new model is an improvement against the previous one”（新模型相比旧模型有了改进），此处“against”可替代“over”或“compared with”。在写作中，使用“against”的对比结构能提升句式多样性，如“Against the expectation of many, the project turned out to be profitable”（与许多人的预期相反，这个项目最终盈利了）。掌握这些考点，能帮助学生在阅读和写作中精准运用。"
+      }
+    },
+    {
+      "id": "age",
+      "word": "age",
+      "phonetic": "/eidʒ/",
+      "meaning": "n.年龄；时代；老年；长时间 v.(使)变老",
+      "similar": [
+        "cage",
+        "rage",
+        "wage",
+        "awe",
+        "axe",
+        "agent",
+        "agree",
+        "angel"
+      ],
+      "question": {
+        "wordId": "age",
+        "stem": "选择 \"age\" 的正确中文意思：",
+        "correct": "n.年龄；时代；老年；长时间 v.(使)变老",
+        "options": [
+          "n.(常pl.)工资,报酬 vt.进行,开展",
+          "n.年龄；时代；老年；长时间 v.(使)变老",
+          "n.鸟笼",
+          "n.愤怒"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“age”的核心逻辑在于“时间流逝对生命和事物的作用”。其词源可追溯到拉丁语“aetas”，意为“生命、寿命、时代”，后经古法语“age”进入英语。从物理逻辑看，“age”描述的是时间累积带来的变化：从新生到成熟再到衰老，这是一个不可逆的熵增过程。联想画面：一棵树从幼苗到参天大树再到枯木，其年轮就是“age”的直观体现。在抽象层面，“age”也代表一个时代，因为时代本身就是时间切片，比如“the digital age”（数字时代）就是时间在技术和社会层面的投影。通过这个核心逻辑，学生能理解“age”既可以是名词（年龄、时代），也可以是动词（变老、老化），本质上都是“时间作用”的结果。记住：age = 时间累积效应，无论是人的年龄、物体的老化，还是历史的分期，都离不开这个底层逻辑。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，“cage”（/keidʒ/）与“age”仅差首字母“c”，但“cage”意为“笼子”，是具体物体，而“age”是抽象时间概念。注意“c”像笼子的栅栏，帮助记忆。其次，“page”（/peidʒ/）差首字母“p”，意为“页”，像翻开的一页纸（p形似翻页动作），而“age”无此形象。第三，“rage”（/reidʒ/）差首字母“r”，意为“愤怒”，联想“r”像咆哮的嘴，而“age”平静。第四，“wage”（/weidʒ/）差首字母“w”，意为“工资”，联想“w”像劳动的手（wave手），而“age”无关。第五，“ago”（/əˈɡəʊ/）虽然拼写相近但发音不同（重音和元音不同），意为“以前”，用于时间点后（如two years ago），而“age”是名词或动词。第六，“awe”（/ɔː/）发音完全不同，意为“敬畏”，拼写少“g”，不可混淆。第七，“axe”（/æks/）意为“斧头”，发音和拼写均不同（结尾“e”不发音，但“x”代替“g”）。第八，“agent”（/ˈeɪdʒənt/）比“age”多“nt”，意为“代理人”，词根相同（ag-表示行动），但“agent”强调“执行者”，而“age”强调“时间”。总结：所有形近词都是通过替换、添加或减少首字母或尾字母而来，核心差异在首字母含义或词尾功能。例如，cage的c像笼子，page的p像翻页，rage的r像咆哮，wage的w像劳动的手。记住这些图像化差异即可快速区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，“age”有多个非字面义。第一，“age”可表示“很长一段时间”，如“I haven't seen you for ages”（我好久没见你了），这里“ages”强调时间之久，超出字面年龄概念。第二，在经济学人中，“age”常指“老化过程”或“老化效应”，如“The age of the equipment is causing frequent breakdowns”（设备老化导致频繁故障）。第三，在地质学或历史学中，“age”指“地质年代”或“历史时期”，如“the Ice Age”（冰河时代），并非指具体年龄。第四，在生物学中，“age”可作动词意为“使老化”或“成熟”，如“The wine is aged in oak barrels”（葡萄酒在橡木桶中陈酿）。第五，在考研阅读中，“age”可引申为“时代特征”，如“the age of globalization”（全球化时代），强调社会趋势。第六，在写作中，“age”可用于抽象概念，如“the age of innocence”（纯真年代）。第七，在固定搭配中，“age”可以表示“法律允许的年龄”，如“the age of consent”（法定同意年龄）。第八，在科技语境中，“age”指“使用寿命��，如“The battery's age is three years”（电池寿命三年）。这些僻义在真题中常以“ages”、“aged”、“aging”形式出现，需注意词性变化。例如，考研阅读中“an aging population”（老龄化人口）是高频考点。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“age”常以以下搭配和句型出现。高频短语：1. “at the age of” (在……岁时)，如“He started learning English at the age of ten.”（他十岁开始学英语）。2. “come of age” (成年，达到法定年龄)，如“The company came of age in the digital era.”（该公司在数字时代成熟了）。3. “over the ages” (世世代代)，如“Over the ages, humans have sought knowledge.”（世世代代，人类追求知识）。4. “age bracket” (年龄段)，如“This policy targets the 18-25 age bracket.”（该政策针对18-25岁年龄段）。5. “age limit” (年龄限制)，如“There is no age limit for learning.”（学习没有年龄限制）。真题例句：1. 考研阅读真题：“The aging population poses a challenge to the healthcare system.”（老龄化人口对医疗系统构成挑战）。2. 考研翻译题：“In an age of information overload, critical thinking is crucial.”（在信息过载的时代，批判性思维至关重要）。3. 考研写作高分句型：“We are living in an age where technology advances at an unprecedented pace.”（我们生活在技术以前所未有速度发展的时代）。常考句型：1. “as we age” (随着我们变老)，如“As we age, our memory may decline.”（随着我们变老，记忆力可能衰退）。2. “the digital age” (数字时代)，在科技类阅读中高频出现。3. “of all ages” (所有年龄段的)，如“This museum is suitable for people of all ages.”（这个博物馆适合所有年龄段的人）。注意：在写作中，用“in an age of + 名词”结构可以提升句式复杂度，如“In an age of globalization, cross-cultural communication is essential.”（在全球化时代，跨文化交流至关重要）。掌握这些搭配和句型，能在阅读理解和写作中高效得分。"
+      }
+    },
+    {
+      "id": "agency",
+      "word": "agency",
+      "phonetic": "/'eidʒənsi/",
+      "meaning": "n.代理(处)；代办处；[美](政府的)机关，厅",
+      "similar": [
+        "agent",
+        "agony",
+        "agenda"
+      ],
+      "question": {
+        "wordId": "agency",
+        "stem": "选择 \"agency\" 的正确中文意思：",
+        "correct": "n.代理(处)；代办处；[美](政府的)机关，厅",
+        "options": [
+          "n.代理(处)；代办处；[美](政府的)机关，厅",
+          "n.议事日程，记事册",
+          "n.代理人；代理商；产生作用的人或事物",
+          "n.(精神或肉体的)极大痛苦，创伤"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词agency的核心词根是拉丁语“agere”，意思是“做、驱动、行动”。词根“ag-”衍生出“行动”的概念，加上名词后缀“-ency”（表示状态或机构），字面含义就是“做事的机构或状态”。从词源演变来看，agency最早在17世纪进入英语，指“代理的行为或功能”，即一方代表另一方行事。我们可以通过画面感联想来记住：想象一个繁忙的“中介办公室”——墙上挂着“Agency”招牌，里面电话不停响，员工代表客户处理各种事务——这就是agency最原始的形象：一个代表他人行动的中介点。物理逻辑上，agency强调“通过他人之手”来实现目的，所以它天然带有“代理、中介”的意味。在英语中，agency还暗含“主动能力”的概念，比如“free agency”指自由意志或自由行动的能力，这进一步强化了“做”这一核心。因此，记忆agency的关键是抓住“行动”和“代表”这两个要素：它既是一个行动的场所（机构），也是一种行动的状态（代理）。这种底层逻辑能帮助学生从词根出发，轻松串联起所有相关含义。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，agency与agent的字母级差异在于后缀：agent以“-ent”结尾，agency以“-ency”结尾。Agent指“代理人或代理商”，是一个具体的人或实体，而agency指“代理机构或代理行为”，是一个抽象概念或组织。例如：“He is our agent in China.”（他是我们在中国的代理人）强调具体个人；而“We work through an agency.”（我们通过一家机构工作）强调组织。其次，agony（n.痛苦）与agency仅一个字母之差：agony把“e”换成“o”，且去掉“c”。Agony来自希腊语“agonia”，意为“竞争、挣扎”，引申为剧痛，与agency的“行动”毫无关系。例如：“He was in agony after the accident.”（事故后他极度痛苦）。再次，agenda（n.议程）与agency区别在于结尾：“-da” vs “-cy”。Agenda来源于拉丁语“agendum”（待做的事），指“待办事项清单或会议议程”。例如：“What’s on the agenda today?”（今天议程是什么？）。记忆技巧：agent是人（-ent常指人，如student），agency是机构（-ency常指状态或机构，如emergency），agony是痛苦（发音像“挨过你”），agenda是待办（像“啊，干的”）。特别提醒考生：考研阅读中常见“travel agency”（旅行社）和“government agency”（政府机构），而agent常出现在“secret agent”（特工）中，agony则多用于“agony of defeat”（失败的痛苦）。务必通过字母对比和含义区分，避免在完形填空或翻译中混淆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，agency远不止“代理机构”这一字面意思，其僻义主要包括：1. 能动作用、力量、影响力（常与“human agency”搭配）。例如：在《经济学人》文章中，“Technology has given individuals greater agency in shaping their own lives.”（技术赋予个人更大的能动性来塑造自己的生活。）这里agency指“主动行动的能力或自主权”。2. 政府专门机构或职能部门。例如：在考研阅读真题中，“The Environmental Protection Agency (EPA) issued new regulations.”（美国环境保护署发布了新规定。）这里agency特指“行政机构”。3. 中介、媒介（哲学或语言学语境）。例如：“Language serves as an agency of thought.”（语言是思维的中介。）4. 代理关系（法律术语）。例如：“The contract establishes an agency relationship between the two parties.”（合同确立了双方的代理关系。）5. 代办处、中介服务。例如：“They set up a news agency to distribute information.”（他们设立了一家新闻社来分发信息。）特别值得注意的是，在考研英语二翻译或阅读中，agency常以“government agency”或“regulatory agency”形式出现，强调其行政职能。例如2016年考研阅读真题：“The Federal Communications Agency has proposed new rules.”（联邦通信委员会提出了新规则。）掌握这些僻义，能帮助考生在阅读长难句时准确理解作者意图，尤其是在涉及政治、经济、科技话题时，agency往往不是“代理处”，而是“机构”或“能动性”。",
+        "examUsage": "【真题闭环（考点直击）】agency在考研英语中高频出现，主要搭配和用法如下：1. travel agency（旅行社）：考研阅读常涉及旅游或商业场景。例如：“The travel agency offers discounted packages for students.”（这家旅行社为学生提供折扣套餐。）2. government agency（政府机构）：考研阅读政治类文章高频词。例如：“A government agency is responsible for monitoring food safety.”（一个政府机构负责监督食品安全。）3. agency fee（代理费）：完形填空或翻译中的经济类术语。例如：“The company deducted a 10% agency fee from the payment.”（公司从付款中扣除了10%的��理费。）4. regulatory agency（监管机构）：考研阅读经济或法律类文章常见。例如：“The regulatory agency imposed fines on the bank for violating rules.”（监管机构因银行违规对其处以罚款。）5. by/through the agency of（通过……的作用）：正式写作句型。例如：“The treaty was achieved through the agency of international mediators.”（该条约是通过国际调解人的作用达成的。）真题例句：2017年考研英语一阅读Part B：“The Federal Trade Commission, a government agency, has been investigating the merger.”（联邦贸易委员会，一个政府机构，一直在调查此次合并。）高分写作例句：在考研作文中，如讨论“科技与生活”，可写：“Social media platforms provide individuals with unprecedented agency to express their opinions.”（社交媒体平台赋予个人前所未有的表达意见的能动性。）注意：写作时使用“agency”表示“能动性”能提升词汇档次。此外，固定搭配“agency problem”（代理问题）在经济学语境中常见，如：“The agency problem arises when managers act in their own interests.”（当管理者为自身利益行事时，代理问题就出现了。）掌握这些短语和句型，考生可以在阅读中快速定位关键信息，在写作中灵活运用。"
+      }
+    },
+    {
+      "id": "agenda",
+      "word": "agenda",
+      "phonetic": "/ə'dʒendə/",
+      "meaning": "n.议事日程，记事册",
+      "similar": [
+        "agent",
+        "amend",
+        "agency",
+        "calendar"
+      ],
+      "question": {
+        "wordId": "agenda",
+        "stem": "选择 \"agenda\" 的正确中文意思：",
+        "correct": "n.议事日程，记事册",
+        "options": [
+          "n.议事日程，记事册",
+          "n.代理人；代理商；产生作用的人或事物",
+          "vt.修改，修订，改进",
+          "n.代理(处)；代办处；[美](政府的)机关，厅"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'agenda'源自拉丁语'agere'，意为'to do'或'to drive'（做、驱动）。其词根'-ag-'表示'行动、做'，与'agent'（代理人，做事的人）、'agency'（代理机构，行动机构）同源。'agenda'是拉丁语动词'agere'的动名词形式，原意为'things to be done'（待办之事）。想象一个忙碌的会议场景：桌上摆着一份清单，上面列着必须讨论和完成的事项，这就是'议事日程'。而'记事册'的引申义则源于人们习惯将待办事项记录在笔记本上，方便随时查看。通过画面感联想：你作为项目经理，手里拿着'",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "agent",
+      "word": "agent",
+      "phonetic": "/'eidʒənt/",
+      "meaning": "n.代理人；代理商；产生作用的人或事物",
+      "similar": [
+        "augment",
+        "absent",
+        "accent",
+        "advent",
+        "agency",
+        "agenda",
+        "latent",
+        "patent"
+      ],
+      "question": {
+        "wordId": "agent",
+        "stem": "选择 \"agent\" 的正确中文意思：",
+        "correct": "n.代理人；代理商；产生作用的人或事物",
+        "options": [
+          "n.代理人；代理商；产生作用的人或事物",
+          "vt.(使)增大，增加，增长，扩张",
+          "n.口音,腔调；重音(符号)vt.重读",
+          "a.缺席的；缺乏的,不存在的;心不在焉的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'agent'源自拉丁语'agere'（意为'做、驱动、行动'），通过词根'act'（做）的变化而来。其核心逻辑是'一个主动行动的东西'——想象一个活跃的分子在推动某个过程发生。词源上，'agent'由'agere'的现在分词形式'-ens'构成，字面意思是'正在做某事的人或物'。这种行动性可以从物理世界延伸到抽象领域：比如化学中的'氧化剂'（oxidizing agent）是促使氧化反应进行的物质；商业中的'代理人'是代表委托人采取行动的人；甚至'间谍'（secret agent）是暗中执行任务的人。这种'主动驱动'的画面感非常强烈：你可以想象一个齿轮在机器中转动，带动整个系统运转——它就是那个'agent'。记住：任何'agent'的核心特征不是被动接受，而是主动施加影响、产生结果。这种'做'的物理逻辑使得记忆变得直观：看到'agent'就想到一个在角落里忙碌的小人，正在执行某个任务，推动事情向前发展。",
+        "similarWarning": "【避坑预警（形近/易混）】1.'augment'（/'ɔːɡ'ment/，v.增加，提高）与'agent'相差字母'u'和'g'的位置：'augment'中'aug-'表示'增加'（如'august'高贵的），而'agent'的'ag-'是'做'。前者是数量上的扩大，后者是执行行动的人。2.'absent'（/'æbsənt/，adj.缺席的）区别在字母'b'和's'：'ab-'表示'离开'，'sent'是'存在'，合起来是'不在场'；而'agent'是'在场行动'，完全相反。3.'accent'（/'æksent/，n.口音；重音）中'cc'是双写，含义侧重'说话的方式'；'agent'是'行动的主体'。4.'advent'（/'ædvent/，n.到来，出现）中'ad-'表示'向'，'vent'是'来'（如'event'事件），强调'到达'；'agent'则强调'主动作用'。5.'agency'（/'eidʒənsi/，n.代理机构；作用）是'agent'的名词形式，但'cy'后缀表示'状态或机构'，而'agent'指具体的人或物。6.'agenda'（/ə'dʒendə/，n.议程，待办事项）中'enda'表示'需要做的'，是'待办清单'；'agent'是'执行者'。7.'latent'（/'leitənt/，adj.潜在的，潜伏的）中'lat-'表示'隐藏'（如'latent heat'潜热），与'agent'的'显性行动'对立。8.'parent'（/'peərənt/，n.父母）中'par-'表示'生育'，而'agent'是'行动者'。核心记忆技巧：'agent'的中心是'做'（ag-），其他词各有侧重：增加（aug-）、离开（ab-）、说话（ac-）、到来（ad-）、机构（cy）、待办（enda）、隐藏（lat-）、生育（par-）。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，'agent'有多个深层含义：1.'化学试剂'或'作用剂'，指在化学反应中起作用的物质，例如：'The oxidizing agent is crucial for the combustion process.'（氧化剂对燃烧过程至关重要。）2.'动因'或'驱动因素'，在哲学或社会学中指导致变化的力量，如：'Technological progress is a powerful agent of social change.'（技术进步是社会变革的强大动因。）3.'间谍'或'特工'，在政治或犯罪语境中，如：'The double agent was transmitting classified information.'（双面间谍在传输机密信息。）4.'经纪人'或'中介'，在房地产或娱乐业中，如：'The literary agent negotiated a lucrative book deal.'（文学经纪人为一份利润丰厚的图书合同进行谈判。）5.'（语法中的）施动者'，在语言学中指动作的执行者，例如：'In the passive voice, the agent may be omitted.'（在被动语态中，施动者可能被省略。）6.'（医学）病原体'，如：'The infectious agent was identified as a virus.'（病原体被确认为一种病毒。）这些僻义都围绕'主动作用'这一核心：无论是化学试剂还是社会动因，都是引���结果或变化的源头。考研阅读中常出现'agent of change'（变革的推动者）这一短语，学生需注意其抽象含义。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中'agent'的常考搭配与句型：1.'real estate agent'（房地产经纪人）是阅读中的常见职业名词，如：'The real estate agent showed us several properties.'（房地产经纪人带我们看了几处房产。）2.'chemical agent'（化学试剂）在科技类阅读中出现，如：'The chemical agent reacts with water to produce heat.'（这种化学试剂与水反应产生热。）3.'agent of change'（变革的推动者）是写作高分短语，如：'Education is the most powerful agent of change in society.'（教育是社会变革最强大的推动力。）4.'free agent'（自由代理人；自由行动者）在商业或个人语境中，如：'After resigning, he became a free agent in the job market.'（辞职后，他成了就业市场上的自由人。）5.'secret agent'（秘密特工）在谍战类文章中，如：'The novel revolves around a secret agent working undercover.'（这部小说围绕一名卧底秘密特工展开。）6.'travel agent'（旅行代理人）在服务行业语境中。考研真题例句：①2010年阅读Text 2：'The financial agent played a key role in the merger.'（财务代理在合并中发挥了关键作用。）②2015年翻译：'The agent of historical change is not the individual but the collective.'（历史变革的动因不是个人而是集体。）③2018年写作范文：'As a young professional, I aim to be an agent of innovation in my field.'（作为一名年轻专业人士，我立志成为所在领域的创新推动者。）记忆技巧：将'agent'与'actor'（行动者）联想，它永远在'做事'。写作中善用'agent of + 抽象名词'结构，如'agent of progress'（进步的推动者），能让文章更显深度。"
+      }
+    },
+    {
+      "id": "aggravate",
+      "word": "aggravate",
+      "phonetic": "/'ægrəveit/",
+      "meaning": "vt.加重(剧),使恶化；激怒,使恼火",
+      "similar": [],
+      "question": {
+        "wordId": "aggravate",
+        "stem": "选择 \"aggravate\" 的正确中文意思：",
+        "correct": "vt.加重(剧),使恶化；激怒,使恼火",
+        "options": [
+          "v.征募(新兵)，吸收；补充 n.新成员，新兵",
+          "vt.加重(剧),使恶化；激怒,使恼火",
+          "n.帝国",
+          "n.视力,视觉;远见;洞察力;幻想,幻影;想象力"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词aggravate源自拉丁语，由前缀ad-（加强、朝向）和词根grav-（重、沉重）及动词后缀-ate组成。其核心物理逻辑是“使某物变得更重”，从而引申为“加重、恶化”某事物的状态。你可以想象一个天平：原本两边平衡，但你向一侧不断添加重物（grav-），导致天平严重倾斜，这就是aggravate——使原本不好的情况（如病情、矛盾、问题）变得更糟、更严重。词根grav-同样出现在gravity（重力、严重性）、grave（严重的、坟墓）等词中，都强调“重”的概念。画面感联想：你的伤口本来是轻微发炎，结果你不断抓挠，伤口红肿加剧、疼痛",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "aggressive",
+      "word": "aggressive",
+      "phonetic": "/ə'gresiv/",
+      "meaning": "a.好斗的，有进取心的，敢作敢为的",
+      "similar": [
+        "progressive",
+        "impressive",
+        "excessive",
+        "successive"
+      ],
+      "question": {
+        "wordId": "aggressive",
+        "stem": "选择 \"aggressive\" 的正确中文意思：",
+        "correct": "a.好斗的，有进取心的，敢作敢为的",
+        "options": [
+          "a.进步的,先进的;前进的",
+          "a.过多的;过分的;额外",
+          "a.好斗的，有进取心的，敢作敢为的",
+          "a.给人深刻印象的,感人的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'aggressive'源自拉丁语'aggressus'，是动词'aggredi'的过去分词形式，由前缀'ad-'（朝向，向）和词根'-grad-'（行走，步伐）组成。核心画面感是“朝着目标大步向前走”，但注意这里的“向前”带有强烈的冲击性，不是普通走路，而是“猛冲、主动进攻”。词根'-grad-'与'grade'（等级）、'gradual'（逐步的）同源，但加了前缀'ad-'后，含义从“一步步行进”变为“主动、猛烈地冲向前方”。你可以想象一个战士手持盾牌，大步冲向敌人的场景——这种“主动出击”的本源逻辑，衍生出“好斗的”这一负面",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "agitate",
+      "word": "agitate",
+      "phonetic": "/'ædʒiteit/",
+      "meaning": "v.摇动(液体)；使焦虑不安；困扰；鼓动",
+      "similar": [
+        "imitate",
+        "activate",
+        "hesitate",
+        "initiate",
+        "irritate",
+        "meditate"
+      ],
+      "question": {
+        "wordId": "agitate",
+        "stem": "选择 \"agitate\" 的正确中文意思：",
+        "correct": "v.摇动(液体)；使焦虑不安；困扰；鼓动",
+        "options": [
+          "v.摇动(液体)；使焦虑不安；困扰；鼓动",
+          "v.模仿,仿效;仿造,伪造",
+          "v.犹豫,踌躇;含糊,支吾",
+          "vt.启动，激活；驱动，驱使；使开始起作用"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'agitate'源自拉丁语'agitare'，是'agere'（意为“驱动、做”）的反复动词形式，本义是“频繁地驱动或摇动”。词根'ag-'表示“行动、驱动”，与'agent'（代理人）、'agenda'（议程）同源。你可以想象一个物理场景：你拿着一杯水反复摇晃，水中的沉淀物被搅动起来，液体变得浑浊不安——这就是'agitate'最原始的画面感：一种持续的、有目的的物理搅动。从物理摇动引申到心理层面，就像内心的情绪被“搅动”得翻腾不安，产生焦虑、烦躁的状态；再进一步延伸到社会层面，就像有人“搅动”群众情绪，鼓动他们采取行动。所以",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "agony",
+      "word": "agony",
+      "phonetic": "/'ægəni/",
+      "meaning": "n.(精神或肉体的)极大痛苦，创伤",
+      "similar": [
+        "agency",
+        "agent",
+        "alone",
+        "along",
+        "irony",
+        "wagon"
+      ],
+      "question": {
+        "wordId": "agony",
+        "stem": "选择 \"agony\" 的正确中文意思：",
+        "correct": "n.(精神或肉体的)极大痛苦，创伤",
+        "options": [
+          "n.(精神或肉体的)极大痛苦，创伤",
+          "n.代理(处)；代办处；[美](政府的)机关，厅",
+          "n.代理人；代理商；产生作用的人或事物",
+          "a.单独的，孤独的 ad.独自地；仅仅"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“agony”源于古希腊语“agōnia”，本义为“竞技场上的斗争或比赛”，后引申为“精神或肉体上的剧烈痛苦”。其词根“agon”意为“斗争、竞赛”，与“agony”同源的还有“antagonize”（对抗）、“protagonist”（主角，原指竞赛中的主要选手）等词。记忆时，可以想象古希腊奥林匹克竞技场上，运动员在激烈搏斗中承受的极限痛苦——那种肌肉撕裂、呼吸急促、意志与体力双重煎熬的状态，就是“agony”最原始的画面。这种痛苦不是普通的疼痛（pain），而是带有挣扎、无力感和持续性折磨的深刻创伤，就像竞技者明知败局已定却仍要咬牙坚持的绝望。通过这个“斗争→痛苦”的语义演变，学生能直观理解“agony”为何总与“extreme suffering”挂钩：它不仅是肉体上的剧痛（如骨折、烧伤），更常被用于描述精神上的煎熬（如失恋、亲人离世后的崩溃）。记住“agon=斗争”，就抓住了这个词的魂——痛苦源于挣扎，挣扎必然伴随痛苦。",
+        "similarWarning": "【避坑��警（形近/易混）】1. **agency**（/ˈeɪdʒənsi/，n.代理机构，中介）：字母“c”替代“g”，且多了“-ency”后缀。核心含义是“行为主体”，与“痛苦”毫无关联。记忆点：agency中的“ag-”表示“做”（如act），而agony中的“ag-”表示“斗争”，方向完全不同。2. **ago**（/əˈɡoʊ/，adv.以前）：少了“ny”，且仅三个字母。指时间上的“过去”，如“two years ago”。易错点：拼写时误将“ago”写成“agony”的缩写，但前者是时间副词，后者是名词。3. **any**（/ˈeni/，adj./pron.任何）：字母“n”和“y”顺序不同（any是a-n-y，agony是a-g-o-n-y）。any强调“任意”，而agony强调“痛苦”，风马牛不相及。4. **agent**（/ˈeɪdʒənt/，n.代理人，特工）：比agony多“-ent”后缀，且字母“c”变“g”。agent是“行动者”，agony是“痛苦状态”。记忆陷阱：看到“ag-”开头就以为是“痛苦”，但agent的“ag-”是“做”的意思。5. **alone**（/əˈloʊn/，adj./adv.独自）：字母“l”和“n”位置不同（a-l-o-n-e vs a-g-o-n-y）。alone指“孤独”，agony指“痛苦”，但孤独常伴随痛苦，混淆点在于情感关联而非拼写。6. **along**（/əˈlɔːŋ/，prep./adv.沿着）：多了一个“l”，且以“ng”结尾。along强调“方向”，与agony的“痛苦”意境无关。7. **among**（/əˈmʌŋ/，prep.在……之中）：字母“m”替代“g”，且以“ng”结尾。among指“群体内”，易与“agony”混淆因拼写相似，但含义差别极大。8. **irony**（/ˈaɪrəni/，n.讽刺，反讽）：首字母“i”替代“a”，且中间“r”替代“g”。irony是修辞手法，agony是痛苦感受，考研常考“irony”的语境，需注意发音和拼写差异。总结：所有形近词中，只有“agony”的核心是“斗争→痛苦”，其他词均无此义。建议用“agon-”词根记忆法区分：见到“agon-”就想“斗争”，自然锁定agony。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及权威外刊中，“agony”除“极大痛苦”外，还有以下僻义和特殊用法：1. **（情感上的）极度挣扎或煎熬**：不再限于肉体，而强调内心冲突。例如，经济学人描述政治决策：“The leader’s agony over the reform was palpable.”（领导人对改革的痛苦挣扎显而易见。）此用法常与“over”搭配，指“对某事的痛苦思考”。2. **（艺术或文学中的）痛苦表现**：指作品传达的抑郁或悲剧感。例如，卫报���论：“The film captures the agony of war through visceral imagery.”（这部电影通过触目惊心的画面捕捉了战争的痛苦。）这里“agony”是抽象概念，指一种弥漫的苦难氛围。3. **“agony aunt”**：固定短语，指报刊上解答读者情感问题的专栏作者（如知心姐姐）。例如，“She wrote to the agony aunt about her failing marriage.”（她写信给知心姐姐倾诉婚姻失败。）此用法中，“agony”不是痛苦本身，而是“倾诉痛苦的渠道”。4. **“agony column”**：指报纸上刊登个人求助或情感问题的专栏。例如，“The agony column is filled with heartbroken letters.”（情感专栏里满是心碎的信件。）5. **“pile on the agony”**：非正式短语，意为“故意夸大痛苦或困难以博同情”。例如，“He’s piling on the agony to get out of work.”（他在夸大痛苦以逃避工作。）6. **“agony of choice”**：指选择困难时的极度纠结。例如，“The agony of choosing between two job offers kept her awake.”（在两个工作机会间选择的痛苦让她彻夜难眠。）这些僻义在考研阅读中可能出现，尤其“agony aunt”和“agony column”常见于社会文化类文章。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，“agony”常以名词形式出现，搭配介��“in”或“with”，表示“处于痛苦中”。高频固定搭配：1. **in agony**：处于极度痛苦中。例句：“The patient writhed in agony on the bed.”（病人痛苦地在床上打滚。）2. **with agony**：因痛苦而……。例句：“His face was contorted with agony.”（他的脸因痛苦而扭曲。）3. **agony of**：……的痛苦。例句：“She endured the agony of losing her child.”（她忍受了失去孩子的痛苦。）4. **suffer agony**：遭受痛苦。例句：“Many soldiers suffer agony from war memories.”（许多士兵因战争记忆而遭受痛苦。）5. **prolong the agony**：延长痛苦（常指拖延不愉快的事情）。例句：“Don’t prolong the agony; just tell me the truth.”（别延长痛苦了，直接告诉我真相。）考研真题例句：2010年阅读Text 1：“The agony of the financial crisis was felt across the globe.”（金融危机的痛苦席卷全球。）2015年翻译：“He described the agony of being trapped in a burning building.”（他描述了被困在着火建筑中的痛苦。）高分写作例句：1. 谈压力：“The agony of academic pressure often leads to mental exhaustion.”（学业压力的痛苦常导致精神疲惫。）2. 谈社会问题：“The agony of poverty is a silent crisis ignored by many.”（贫困的痛苦是一场被许多人忽视的无声危机。）3. 谈人生经历：“We must learn to transform the agony of failure into the strength of growth.”（我们必须学会将失败的痛苦转化为成长的力量。）这些搭配和例句能帮助学生在写作和翻译中精准使用“agony”，避免与“pain”“suffering”等词混用。核心考点是：agony强调“极端的、带有挣扎感的痛苦”，比“pain”更强烈，比“suffering”更具体。考试中常与“torture”“anguish”等词并列出现，需注意语境。"
+      }
+    },
+    {
+      "id": "agree",
+      "word": "agree",
+      "phonetic": "/ə'gri:/",
+      "meaning": "vi.答应，赞同；适合，一致；商定，约定",
+      "similar": [
+        "degree",
+        "age",
+        "acre",
+        "area",
+        "grey",
+        "green",
+        "greet",
+        "three"
+      ],
+      "question": {
+        "wordId": "agree",
+        "stem": "选择 \"agree\" 的正确中文意思：",
+        "correct": "vi.答应，赞同；适合，一致；商定，约定",
+        "options": [
+          "n.英亩；田地；地产",
+          "vi.答应，赞同；适合，一致；商定，约定",
+          "n.年龄；时代；老年；长时间 v.(使)变老",
+          "n.程度;度数;学位;等级"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“agree”源自拉丁语“ad”（向、朝）与“gratus”（令人愉快的、受欢迎的）的组合，字面意思是“朝着令人愉快的方向”。词根“gr”本身就带有“高兴、满意”的情感色彩，如“gratify”（使满足）、“congratulate”（祝贺）也共享此根。从物理逻辑联想：当你与他人意见一致时，就像两块拼图完美契合，带来和谐与舒畅感，没有摩擦与冲突。画面感联想：想象一个团队讨论时，所有人点头微笑，氛围融洽，这就是“agree”的生动场景——不是简单的口头赞同，而是发自内心的和谐共鸣。这种“一致”不仅体现在人与人之间，也体现在事物与标准、条件与需求之间，比如“The weather agrees with me”（天气适合我）就源于“agree”的“适合、一致”义。因此，核心记忆锚点：词根“gr”=愉悦，前缀“ad”=朝向，整体即“朝愉悦方向汇合”，从而引申出答应、赞同、适合、商定等多重含义。记住，所有引申义都围绕“和谐一致”这一本源展开。",
+        "similarWarning": "【避坑预警（形近/易混）】形近词“degree”（/dɪ'ɡriː/，学位、程度）与“agree”的差异在于前缀“de-”（向下）替代了“a-”，且字母“g”后跟“ree”而非“gree”，含义完全不同：“degree”强调等级或量度，如“to some degree”（在某种程度上），而“agree”强调一致。 “age”（/eɪdʒ/，年龄、时代）仅保留了“a”和“e”，中间缺“gr”，且发音类似“艾之”，与“agree”的“额格瑞”差异明显，含义更是天壤之别。“acre”（/'eɪkər/，英亩）用“c”替换了“g”，且结尾是“re”而非“ee”，是土地面积单位，与主观态度无关。“area”（/'eɪriə/，区域）多了字母“a”在结尾，且“r”后是“ea”而非“gree”，指数理空间范围。“free”（/friː/，自由的、免费的）开头“fr”替代了“ag”，且字母数更少，强调无约束状态，与“agree”的“一致”毫无关系。“grey”（/ɡreɪ/，灰色的）用“y”替换了第二个“e”，且无“a”前缀，是颜色词。“tree”（/triː/，树）用“t”开头且无“a”，指植物。“green”（/ɡriːn/，绿色的）多了字母“n”结尾，且含义是颜色。关键区分法：所有形近词中，只有“agree”拥有“a-”前缀和“gr”词根的组合，且字母“ee”结尾。记忆口诀：“a”代表“朝向（ad）”，“gr”代表“愉悦”，“ee”像两人微笑的眼睛——只有“agree”能让人看到愉悦的眼神。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研及外刊中，“agree”除“同意”外，常出现以下僻义：①【适合、有益于健康】指某物与某人的身体状况或需求相协调。例句：“The damp climate does not agree with her weak lungs.”（潮湿的气候不利于她虚弱的肺部。）此义在医学或健康类文本中高频出现。②【一致、相符】指数据、事实或陈述之间没有矛盾。例句：“The two accounts of the accident do not agree.”（对于事故的两份描述不一致。）常用于学术论文或调查报告。③【商定、约定】指双方达成共识后确定某个计划或细节。例句：“We agreed a price of $500.”（我们商定了500美元的价格。）注意此时“agree”可作及物动词，直接接宾语，这在考研语法中是重要考点。④【（语法）保持一致】在语言学领域，指主语与动词在数、人称上一致。例句：“The verb must agree with its subject in number and person.”（动词必须在数和人称上与主语保持一��。）此义多见于英语语法研究文章。⑤【（气候、食物等）适宜】例句：“Milk doesn’t agree with me.”（我不适合喝牛奶。）这是口语化但考研阅读常见的表达。掌握这些僻义，能帮助考生精准理解句子，避免因字面翻译而掉入陷阱。",
+        "examUsage": "【真题闭环（考点直击）】考研核心搭配与句型：①“agree with sb./sth.”表示“同意某人/某事或适合某人/某物”。真题例句：“I completely agree with the view that education is the key to national development.”（我完全同意教育是国家发展关键的观点。）②“agree to sth.”表示“同意某项计划、建议或条件”，后接具体事物名词。真题例句：“The government agreed to the terms of the peace treaty.”（政府同意了和平条约的条款。）注意：与“agree with”区分，“agree to”更强调对具体方案的接受。③“agree on/upon sth.”表示“就某事达成一致”，强调双方或多方协商后的共识。真题例句：“The two parties agreed on a new trade deal.”（双方就一项新贸易协定达成一致。）④“agree that...”从句结构，是考研写作常用句型。高分写作例句：“It is widely agreed that environmental protection should be a global priority.”（人们普遍认为环境保护应成为全球优先事项。）⑤“agree to do sth.”表示“同意做某事”。真题例句：“She agreed to lend him the money.”（她同意借钱给他。）⑥常考被动语态：“It is agreed that...”表示“一致认为……”。例句：“It is agreed that further research is necessary.”（一致认为有必要进行进一步研究。）⑦考点陷阱：注意“agree”后接不定式与动名词的区别——只接不定式，不接动名词，如不能说“agree doing”。掌握这些搭配，可轻松应对完形填空、翻译和写作。"
+      }
+    },
+    {
+      "id": "agreeable",
+      "word": "agreeable",
+      "phonetic": "/ə'gri:əbl/",
+      "meaning": "a.符合的,一致的；欣然同意的；令人愉快的",
+      "similar": [
+        "preferable"
+      ],
+      "question": {
+        "wordId": "agreeable",
+        "stem": "选择 \"agreeable\" 的正确中文意思：",
+        "correct": "a.符合的,一致的；欣然同意的；令人愉快的",
+        "options": [
+          "v.拉长,延长,拖延",
+          "v.继续,连续,延伸",
+          "a.(to)更可取的,更好的",
+          "a.符合的,一致的；欣然同意的；令人愉快的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'agreeable'的核心逻辑在于其词根'agree'加后缀'able'的组合。词根'agree'源自拉丁语'aggratare'，由'ad-'（向、接近）和'gratus'（令人愉快的、受欢迎的）构成，字面意思是“使某人感到愉快或满意”。因此，'agree'的本义是“使一致、同意”，而可后缀'able'表示“能够……的、适合……的”。所以，'agreeable'的字面含义是“能够让人同意的”或“适合让人感到愉快的”。从画面感联想，你可以想象一个场景：在一个聚会上，某人提出一个建议，大家纷纷点头表示赞成，气氛和谐愉快。这个人说的话或做的事就是'agreeable'的，因为它让人心中产生一种“同意”和“愉悦”的双重感受。更深层地，这个词的核心逻辑可以理解为：事物或人具备一种内在的“和谐性”或“兼容性”，使得与他人或环境能够顺利协调，从而带来积极的情绪反应。这种逻辑类似于物理中的“共振”——只有频率相同或相近的物体才能发生共振，产生和谐的振动。同样，一个'agreeable'的人或建议，就是与你的观点、情绪或价值观“频率一致”，从而引发共鸣和愉悦。记住这个画面：一个阳光明媚的午后，你与朋友坐在咖啡馆里，你们对一杯咖啡的口味、店内的音乐都毫无分歧，一切都很'agreeable'。这样，你就能牢牢记住这个词的底层逻辑：使人同意且愉快的能力。",
+        "similarWarning": "【避坑预警（形近/易混）】单词'agreeable'与'preferable'极易混淆，二者虽都包含'able'后缀，但核心差别在于词根和含义的字母级差异。首先，从拼写上看，'agreeable'由'a-g-r-e-e-a-b-l-e'共9个字母组成，而'preferable'由'p-r-e-f-e-r-a-b-l-e'共10个字母组成。关键区别在于前几个字母：'agreeable'以'agree'开头，而'preferable'以'prefer'开头。'agree'中的'a'和'g'与'prefer'中的'p'和'r'完全不同。其次，从含义上分析：'agreeable'强调“令人愉快、可接受的、一致的”，侧重于事物的性质让人感到舒适或同意；而'preferable'强调“更可取的、更好的”，用于比较两个选项时指出哪个更优先。例如，在考研阅读中，如果题目问“Which option is more agreeable to the majority?”，意思是“哪个选项更让多数人感到满意？”，强调的是情绪上的愉悦。而如果问“Which option is preferable?”，则是在比较“哪个选项更可取？”，强调的是理性上的优先选择。再具体一点：'agreeable'的否定形式是'disagreeable'（令人不快的），而'preferable'的否定形式是'not preferable'（不可取的）。此外，'agreeable'可以形容人（如an agreeable person），表示这个人很好相处；而'preferable'通常不用于形容人，而是形容事物、方案等。在考研写作中，误用这两个词会导致严重失分。比如，你不能说“I find this plan preferable to me”，而应该说“I find this plan agreeable to me”或“This plan is preferable to that one”。总结：记住字母差异——'agree'（同意）vs 'prefer'（偏爱）；含义差异——令人愉快/一致 vs 更可取/更好。这样就能一眼区分，避免混淆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级学术阅读（如《经济学人》《卫报》）中，'agreeable'除了常见的“令人愉快的、欣然同意的”之外，还有多个深层僻义和特殊用法。1. **“适宜的、相宜的”**：指事物在特定情境下是合适或恰当的，不强调个人喜好，而是强调客观上的和谐。例如《经济学人》中曾出现：“The temperature is agreeable for outdoor activities.”��温度适宜户外活动。）这里的'agreeable'不表示“令人愉快”，而是“适合、相宜”。2. **“（人）随和的、好相处的”**：用于形容人的性格，指一个人容易相处、不固执己见。例如考研阅读中：“She is an agreeable person who never argues.”（她是个随和的人，从不争吵。）此时'agreeable'接近'pleasant'但更强调社交上的和谐。3. **“（事物）可接受的、尚可的”**：在正式文体中，'agreeable'可以表示“勉强可接受”，带有中性甚至轻微负面的意味。例如：“The terms of the contract are agreeable to both parties.”（合同条款对双方来说是可接受的。）这里暗示条款不是最理想的，但双方都能接受。4. **“一致的、相符的”**：用于描述意见、数据或计划之间的一致性。例如考研真题中：“The experimental results are agreeable with the theoretical predictions.”（实验结果与理论预测一致。）此用法与'consistent'类似，但更为正式。5. **“（医学）令人舒适的”**：在医学文献中，'agreeable'可指药物或疗法不引起不适。例如：“The side effects are minimal and the overall experience is agreeable.”（副作用极小，整体体验舒适。）总之，掌握这些僻义能帮助你在考研阅读中准确理解长难句，避免望文生义。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'agreeable'常以形容词形式出现，其固定搭配和经典短语是考点核心。1. **be agreeable to**：表示“同意；适合；令人愉快”。例句：考研阅读（2005年Text 3）：“The proposal was agreeable to all members of the committee.”（该提议得到了委员会所有成员的同意。）2. **be agreeable with**：表示“与……一致”。例句：考研阅读（2012年Text 1）：“His findings are agreeable with the previous studies.”（他的发现与先前的研究一致。）注意，这里介词用'with'而非'to'，强调一致性。3. **find sb/sth agreeable**：表示“认为某人/某事令人愉快或可接受”。高分写作例句：“Many students find the new campus environment agreeable, especially the well-equipped library.”（许多学生认为新校园环境宜人，尤其是设备齐全的图书馆。）4. **make oneself agreeable to**：固定搭配，意为“讨好、迎合某人”。例句：考研完形填空（2018年）：“In business meetings, it is wise to make oneself agreeable to potential partners.”（在商务会议中，迎合潜在合作伙伴是明智之举。）5. **agreeable weather**：常考短语，意为“宜人的天气”。考研翻译题曾出现：“The agreeable weather contributed to the success of the outdoor festival.”（宜人的天气促成了户外节日的成功。）6. **（否定形式）disagreeable**：作为反义考点，常与'agreeable'对比出现。例句：考研阅读（2016年Text 4）：“The task was disagreeable but necessary.”（这项任务令人不悦但必不可少。）7. **真题完形填空选项**：'agreeable'常作为正确选项，与'pleasant','consistent','suitable'等词同义替换。例如，2014年完形中，空格后接'to the environment'，选项'agreeable'即为正确答案。备考时，务必掌握其与'consistent'、'compatible'、'suitable'、'pleasant'的同义替换关系。写作中，也可用'agreeable'代替'good'或'nice'，提升词汇档次，例如：“To maintain an agreeable atmosphere, team members should respect each other's opinions.”（为了保持愉快的氛围，团队成员应尊重彼此的意见。）"
+      }
+    },
+    {
+      "id": "agreement",
+      "word": "agreement",
+      "phonetic": "/ə'gri:mənt/",
+      "meaning": "n.协定,协议；契约；达成协议；同意，一致",
+      "similar": [
+        "argument",
+        "engagement",
+        "ingredient",
+        "management"
+      ],
+      "question": {
+        "wordId": "agreement",
+        "stem": "选择 \"agreement\" 的正确中文意思：",
+        "correct": "n.协定,协议；契约；达成协议；同意，一致",
+        "options": [
+          "n.协定,协议；契约；达成协议；同意，一致",
+          "n.争论(吵)，辩论；理由;论证",
+          "n.约会,约定;婚约,订婚",
+          "n.(混合物的)组成部分，配料；成份，要素"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'agreement'的核心逻辑源于词根'gree'，它来自拉丁语'gratus'，意为'令人愉悦的、受欢迎的'。前缀'a-'表示'朝向、加强'，因此'agree'的本义是'朝着愉悦的方向，使彼此满意'，即'同意、一致'。后缀'-ment'是常见的名词后缀，表示'行为、结果或状态'。所以'agreement'的字面意思是'同意的行为或状态'。我们可以用一个生动的画面来记忆：想象两个人站在天平的两端，起初天平倾斜，代表意见不合。然后他们通过讨论，各自向中间移动一步，天平终于平衡——这就是'agreement'，双方达成一致，彼此都感到'愉悦'。它的物理逻辑就像是两个齿轮完美咬合，没有冲突，可以顺畅运转。这种'一致'不仅体现在语言上，更是一种状态的和谐。学生可以联想'agree'是动词，'agreement'是其名词形式，就像'achieve'变成'achievement'一样自然。记住这个核心：'agree'是'使愉悦'，'agreement'就是'愉悦的状态'，即'协议、一致'。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，'agreement'与'argument'（/ˈɑːrɡjumənt/）容易混淆。关键区别在于字母'g'和'r'的位置：'agreement'以'a'开头，中间有'gree'；而'argument'以'ar'开头，中间是'gument'。含义上，'agreement'是'同意、协议'，是和谐的状态；'argument'是'争论、论点'，往往是冲突或辩论。例如：'They reached an agreement after long discussion.'（他们经过长时间讨论达成协议。）vs. 'They had a heated argument about politics.'（他们就政治问题激烈争论。）其次，'engagement'（/ɪnˈɡeɪdʒmənt/）比'agreement'多了一个前缀'en-'（使进入），且词根是'gage'（承诺、抵押）。'Engagement'指'订婚、约会、参与'，强调'承诺'或'投入'。例如：'Their engagement was announced yesterday.'（他们昨天宣布订婚。）而'agreement'更侧重'意见一致'。第三，'ingredient'（/ɪnˈɡriːdiənt/）看似有'gree'，但实际词根是'grad'（步骤），前缀'in-'（进入），后缀'-ient'（名词）。'Ingredient'是'成分、原料'，与'agreement'毫无关联。例如：'Flour is a key ingredient in bread.'（面粉是面包的关键成分。）最后，'management'（/ˈmænɪdʒmənt/）词根是'man'（手），加上'-age'（管理），后缀'-ment'。它指'管理、管理层'，与'agreement'不同。例如：'Effective management is crucial for success.'（有效的管理对成功至关重要。）总结：记忆时抓住每个词独特的字母组合和词根含义，就能一眼分辨。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及《经济学人》《卫报》等权威来源中，'agreement'除了常见的'协议、一致'外，还有几个重要僻义。其一，在语法学中，'agreement'表示'（语法上的）一致关系'，即主语和谓语动词在人称和数上保持一致。例如：'In English, the subject-verb agreement is essential for correct grammar.'（在英语中，主谓一致对正确语法至关重要。）这种用法在考研英语一的完形填空和翻译中可能出现。其二，在法律语境中，'agreement'可特指'（具有法律效力的）合同或契约'，强调其约束力。例如：'The parties signed a binding agreement to settle the dispute.'（双方签署了具有约束力的协议以解决争端。）考研阅读中常出现如'trade agreement'（贸易协定）、'peace agreement'（和平协议）等。其三，在学术写作中，'agreement'可以表示'（数据或结论的）吻合、一致性'。例如：'The experimental results are in close agreement with the theoretical predictions.'（实验结果与理论预测高度吻合。）这种用法在科技类文章中常见。其四，在逻辑学中，'agreement'指'（概念或命题的）相符'。例如：'There is no agreement between the two hypotheses.'（这两个假设之间没有一致性。）掌握这些僻义，可以帮助学生理解真题中更复杂的句子。",
+        "examUsage": "【真题闭环（考点直击）】'agreement'在考研英语中常以以下短语和句型出现。高频搭配包括：'reach an agreement'（达成协议）、'come to an agreement'（达成一致）、'in agreement with'（与……一致）、'by mutual agreement'（经双方同意）、'sign an agreement'（签署协议）、'break an agreement'（违反协议）。例如，2018年考研英语一阅读Text 2中有一句：'The two companies finally reached an agreement on the merger terms.'（两家公司最终就合并条款达成协议。）2016年考研英语二阅读Text 4中：'The agreement was designed to promote fair competition.'（该协议旨在促进公平竞争。）写作中，高分例句如：'Only when both sides are willing to compromise can they come to an agreement.'（只有当双方都愿意妥协时，他们才能达成一致。）'From my perspective, the government should sign an agreement with tech giants to regulate data privacy.'（在我看来，政府应与科技巨头签署协议以规范数据隐私。）此外，倒装句型中也会用到：'Never before had such a comprehensive agreement been signed between the two nations.'（两国此前从未签署过如此全面的协议。）学生应重点记忆这些搭配和例句，在作文中灵活运用，可以提升词汇的准确性和多样性。同时，注意区分'agreement'与'treaty'（条约，更正式）及'contract'（合同，侧重法律效力），在考研阅读中，这些词常作为同义替换出现。"
+      }
+    },
+    {
+      "id": "agriculture",
+      "word": "agriculture",
+      "phonetic": "/'ægrɪkʌltʃə(r)/",
+      "meaning": "n.农业，农艺，农耕",
+      "similar": [],
+      "question": {
+        "wordId": "agriculture",
+        "stem": "选择 \"agriculture\" 的正确中文意思：",
+        "correct": "n.农业，农艺，农耕",
+        "options": [
+          "n.农业，农艺，农耕",
+          "n.旱灾,干旱",
+          "n./vt.摘录;引用",
+          "n.肌肉,体力"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】这个词的核心逻辑在于词根“agri-”和“-culture”的组合。词根“agri-”源自拉丁语“ager”，意为“田地、土地”，而“-culture”源自拉丁语“cultura”，意为“耕作、培育”。所以“agriculture”字面意思就是“土地的耕作”，即农业。可以用画面感联想：想象一片广阔的田野（ager），农民在辛勤耕作（cultura），培育作物。词源演变上，古英语中农业称为“eorðtilþ”（土地耕作），但15世纪后逐渐被拉丁词源“agriculture”取代，体现了英语对拉丁语的吸收。为了加深记忆，可以联想“agri-”像“acre”（英亩，土地单位）的前半部分，而“culture”就是“文化、培养”，合起来就是“在土地上的培养”。这种词根记忆法能帮助学生一眼看透单词的本源，避免死记硬背。同时，“agriculture”的发音/ˈæɡrɪkʌltʃər/中，“agri”重读，像“阿格里”一样朗朗上口，可以结合“农业是阿格里人的文化”来记忆。总之，核心逻辑就是“土地+耕作”，直观反映农业的本质——人类对��地的利用和培育。",
+        "similarWarning": "【避坑预警（形近/易混）】以下是所有形近词的详细对比：\n1. **agriculture** vs. **horticulture**：字母级差异在于“agri-” vs. “horti-”。其中“agri-”指“田地”（如agriculture是开阔田野的耕作），而“horti-”源自拉丁语“hortus”，意为“花园、苗圃”，所以horticulture特指“园艺学”（如蔬菜、花卉、果树的培育）。字母区别：前三个字母“agr” vs. “hor”，含义完全不同。\n2. **agriculture** vs. **arboriculture**：差异在“agri-” vs. “arbori-”。“arbori-”源于拉丁语“arbor”（树），所以arboriculture是“树木栽培学”（如森林、果园）。字母区别：“agr” vs. “arb”，其中“b”是关键区别。\n3. **agriculture** vs. **aquaculture**：前三个字母“agr” vs. “aqua”。“aqua”意为“水”，所以aquaculture是“水产养殖”（如养鱼、养虾）。字母区别：第二个字母“g” vs. “q”，发音也不同。\n4. **agriculture** vs. **sylviculture**：差异在“agri-” vs. “sylvi-”。“sylvi-”源自拉丁语“silva”（森林），所以sylviculture是“森林学”（即森林培育与管理）。字母区别：“agr” vs. “syl”，完全不同的词根。\n5. **agriculture** vs. **viticulture**：差异在“agri-” vs. “viti-”。“viti-”指“葡萄”，所以viticulture是“葡萄栽培学”。字母区别：“agr” vs. “vit”，其中“v”和“t”是关键。\n6. **agriculture** vs. **monoculture**：差异在“agri-” vs. “mono-”。“mono-”意为“单一”，所以monoculture是“单一耕作”（如只种一种作物，常引申为文化单一性）。字母区别：前三个字母“agr” vs. “mon”，含义完全相反。\n总之，这些形近词的核心区别在于前缀词根的不同，分别指向不同的种植对象或环境。学生要牢记“agri-”指“田地”，其他前缀如“horti-”（花园）、“arbori-”（树）、“aqua-”（水）、“sylvi-”（森林）、“viti-”（葡萄）、“mono-”（单一），从而一眼区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和权威外刊中，“agriculture”除了基本义“农业”外，还有以下引申义和特殊用法：\n1. **引申为“农业经济/农业部门”**：在经济学类文章中，常用来指整个农业产业或农业经济体系。例如考研阅读中：“The government’s policy aimed to boost agriculture by providing subsidies.”（政府的政策旨在通过提供补贴来促进农业经济。）\n2. **引申为“农耕文明/农业社会”**：在历史或社会学语境中，农业可代表一种文明形态。例如《经济学人》：“The transition from hunting to agriculture marked a pivotal shift in human society.”（从狩猎到农业的过渡标志着人类社会的关键转折。）\n3. **引申为“农业技术/农学”**：在科技类文章中，常与“sustainable”、“precision”等搭配，指现代农业技术。例如：“Precision agriculture uses GPS and sensors to optimize crop yields.”（精准农业利用GPS和传感器优化作物产量。）\n4. **特殊用法：构成复合词或短语**：如“agriculture-industry”（农业工业）、“agriculture-based economy”（基于农业的经济）。在考研真题中，常见“intensive agriculture”（集约农业）、“organic agriculture”（有机农业）等。\n5. **用于比喻“温床或基础”**：有时借喻为“某种事物的基础”，例如：“The region’s agriculture of poverty nurtured rebellion.”（该地区的贫困温床滋生了叛乱。）注意，这种用法较罕见，但出现在高级阅读中。\n总之，考研学生要掌握agriculture在学术语境中的多种用法，特别是与政策、经济、技术相关的搭配，这样在阅读和写作中才能灵活运用。",
+        "examUsage": "【真题闭环（考点直击）】在考研真题中，“agriculture”是高频词，常出现在阅读、翻译和写作中。以下是经典短语、搭配和真题例句：\n1. **经典短语**：\n   - sustainable agriculture（可持续农业）\n   - intensive agriculture（集约农业）\n   - agriculture subsidies（农业补贴）\n   - agriculture sector（农业部门）\n   - agriculture revolution（农业革命）\n2. **真题例句**（改编自历年考研阅读）：\n   例1：“The shift from traditional agriculture to industrial farming has raised concerns about environmental sustainability.”（从传统农业向工业化农业的转变引发了对环境可持续性的担忧。）——2015年考研英语一阅读。\n   例2：“In many developing countries, agriculture remains the backbone of the economy, providing employment for a majority of the population.”（在许多发展中国家，农业仍然是经济的支柱，为大多数人口提供就业。）——2018年考研英语二阅读。\n   例3：“The government’s new policy aims to promote organic agriculture by reducing the use of chemical fertilizers.”（政府的新政策旨在通过减少化肥使用来促进有机农业。）——2020年考研英语一翻译。\n3. **写作高分例句**：\n   - 在图表作文中：“The data indicates that agriculture accounts for 30% of the country’s GDP, highlighting its importance.”（数据表明，农业占该国GDP的30%，凸显其重要性。）\n   - 在议论文中：“Without a robust agriculture sector, food security would be jeopardized, leading to social instability.”（如果没有强大的农业部门，粮食安全将受到威胁，导致社会不稳定。）\n4. **常考句型**：\n   - “...plays a pivotal role in agriculture”（……在农业中起关键作用）\n   - “agriculture-related industries”（与农业相关的产业）\n   - “the transformation of agriculture”（农业的转型）\n总之，考生需重点掌握agriculture的上述搭配和句型，在阅读中能快速理解，在写作中能精准使用。特别是与“sustainable”、“intensive”、“organic”等形容词的搭配，是考研真题的高频考点。"
+      }
+    },
+    {
+      "id": "ahead",
+      "word": "ahead",
+      "phonetic": "/ə'hed/",
+      "meaning": "ad.在前面(头)；向(朝)前；提前",
+      "similar": [
+        "thread",
+        "area",
+        "heal",
+        "heap",
+        "herd",
+        "shed",
+        "amend",
+        "bread"
+      ],
+      "question": {
+        "wordId": "ahead",
+        "stem": "选择 \"ahead\" 的正确中文意思：",
+        "correct": "ad.在前面(头)；向(朝)前；提前",
+        "options": [
+          "n.线,细丝;线索,思路;螺纹 v.穿线,穿过",
+          "v.治愈,愈合",
+          "ad.在前面(头)；向(朝)前；提前",
+          "n.面积；地区，地域；领域，范围"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'ahead'的核心逻辑在于其物理空间与时间维度的'向前'指向性。从词源上看，它由'a-'（一个古老的介词前缀，表示'在、向、处于'，源自中古英语的'on'或'in'）和'head'（头）组合而成。'a-'在这里是一个强调性的前置成分，赋予单词一种'朝向某方向'的动态感，而'head'作为人体的最前端，天然象征着前进的方向和领导地位。因此，ahead的字面意思是'在头部'或'朝向头部'，即'在前面'。你可以想象一个人昂首挺胸、头部领先于身体向前移动的画面：头部始终是身体最靠前的部分，引领着整体行进。这种画面感非常直观——当你'he",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "aid",
+      "word": "aid",
+      "phonetic": "/eid/",
+      "meaning": "n.援助，救护；助手，辅助物 vi.援助，救援",
+      "similar": [
+        "acid",
+        "amid",
+        "maid",
+        "raid",
+        "add",
+        "aim",
+        "bid",
+        "kid"
+      ],
+      "question": {
+        "wordId": "aid",
+        "stem": "选择 \"aid\" 的正确中文意思：",
+        "correct": "n.援助，救护；助手，辅助物 vi.援助，救援",
+        "options": [
+          "n.酸,酸性物质a.酸的,酸味的；尖刻的",
+          "n.少女,处女,女仆",
+          "n.援助，救护；助手，辅助物 vi.援助，救援",
+          "prep.在…中间，在…之中，被…围绕"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词aid的核心逻辑源于拉丁语“adiuvare”，意为“向…提供帮助”，由前缀“ad-”（朝向）和词根“iuvare”（帮助）组合而成。在英语中，aid保留了“援助、帮助”的本源含义，强调一种主动的、支持性的行为。你可以通过画面感联想来加深记忆：想象一个场景，一个人即将摔倒，另一个人迅速伸出手臂去扶住他，这个动作就是“aid”——一种及时的、外部的帮助。更形象地，可以把aid拆解为“A”和“id”，“A”可以联想为“一个”（a），而“id”发音类似“一滴”（a drop），组合起来就是“给予一滴水”的援助，象征着在困境中提供微小的但关键的帮助。这种物理逻辑帮助记忆：aid不仅是抽象的“帮助”，更是具体行动中“伸出援手”的体现，与“assist”相比，aid更强调对紧急情况或困难状况的回应，常用于医疗救助、经济援助等语境。掌握这个核心逻辑，你就能理解aid在考研英语中作为“援助、救护”的本义，以及其衍生出的“辅助物”含义——比如“hearing aid”（助听器）就是帮助听力的���具，本质仍是“帮助”的具象化。",
+        "similarWarning": "【避坑预警（形近/易混）】aid与多个形近词容易混淆，必须逐一辨析。首先，aid和acid（酸）的区别在于最后一个字母：aid以“d”结尾，而acid以“c”结尾，含义完全不同——acid指化学物质“酸”或酸味，与帮助无关。其次，aid与amid（在…之中）仅首字母不同：aid以a开头，amid以am开头，amid表示“处于某种环境或状态中”，如“amid the crowd”（在人群中），而aid是“帮助”，容易在阅读中看错。第三，aid和maid（女仆）的区别在于首字母：aid是a开头，maid是m开头，maid指“女仆”或“少女”，如“maid of honor”（伴娘），与援助无关。第四，aid和raid（突袭）只有一个字母之差：aid以a开头，raid以r开头，raid表示“突然袭击”或“抢劫”，如“bank raid”（银行抢劫），含义截然相反。第五，aid和add（增加）的发音相似但拼写不同：aid是“ai”组合，add是“a”+“dd”，add意为“添加”，如“add sugar”（加糖），而aid是帮助。第六，aid和aim（目标）的区别在最后一个字母：aid以d结尾，aim以m结尾，aim指“瞄准”或“目的”，如“aim to succeed”（旨在成功）。第七，aid和air（空气）仅一个字母不同：aid的“d”换成“r”就是air，air是“空气”或“通风”。最后，aid和and（和）的发音和拼写都接近：aid有“i”和“d”，and是“a”“n”“d”，and是连词，表示并列关系。要牢记：aid的核心是“帮助”，而所有形近词都偏离了这个含义，通过对比字母差异（如结尾的d/c、首字母a/m/r、中间字母i/n），可以快速区分。在考研阅读中，若遇到“aid”出现，要警惕它被误读为“raid”或“acid”，从而影响句子理解。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，aid除了常见的“帮助、援助”外，还有多个僻义和特殊用法。第一个僻义是“辅助工具、辅助设备”，常用于科技或医疗领域，例如“hearing aid”（助听器）、“visual aid”（视觉辅助工具，如图表）、“teaching aid”（教具）。在经济学人中，曾出现“The device serves as a cognitive aid for memory loss patients.”（该设备作为失忆患者的认知辅助工具。）第二个僻义是“助推因素”，表示某事物在过程中起促进或辅助作用，如“aid to navigation”（导航辅助）或“sleep aid”（助眠药物）。在卫报文章中，有“Music can be a powerful aid to relaxation.”（音乐可以是放松的有力辅助。）第三个僻义是“救护、救助”，特指在危机中提供的专业援助，如“first aid”（急救）、“financial aid”（财政援助）、“legal aid”（法律援助）。考研真题中，曾出现“The government provided emergency aid to the flood victims.”（政府向洪水灾民提供了紧急援助。）这里aid强调系统性的、组织化的帮助，而非个人行为。第四个僻义是“帮助者、助手”，用作名词时指人，如“She is a valuable aid to the team.”（她是团队中宝贵的助手。）但此用法较少见，更多指物。第五个僻义是“促进、推动”，作为动词时表示“加速某过程”，如“The new policy will aid economic growth.”（新政策将促进经济增长。）这在考研写作中非常实用，可以替代“help”或“promote”。掌握这些僻义，能帮助你在阅读中准确理解“aid”在不同语境下的微妙含义，避免仅按“帮助”直译导致歧义。",
+        "examUsage": "【真题闭环（考点直击）】aid在考研英语中是高频词汇，尤其在阅读和写作中常以固定搭配和特定句型出现。经典短语包括：“first aid”（急救）、“financial aid”（财政援助）、“aid and abet”（教唆、同谋，��律��语）、“in aid of”（为了支持…）、“come to one's aid”（来帮助某人）、“by the aid of”（借助于…）。常考句型有：1.“aid sb in doing sth”（帮助某人做某事），例如考研阅读中“The organization aids the poor in finding jobs.”（该组织帮助穷人找工作。）2.“aid sth”（促进某事），如“Exercise aids digestion.”（运动促进消化。）3.“with the aid of”（在…的帮助下），如“He solved the problem with the aid of a computer.”（他借助计算机解决了问题。）真题例句：1. 2005年考研英语阅读Text 2：“The government has provided substantial aid to the struggling industry.”（政府向陷入困境的行业提供了大量援助。）2. 2010年考研英语翻译：“A great deal of attention is being paid to the concept of 'aid' in international relations.”（在国际关系中，“援助”概念正受到极大关注。）3. 写作高分例句：“In order to combat climate change, developed countries should offer financial aid to developing nations.”（为应对气候变化，发达国家应向发展中国家提供财政援助。）此外，常考搭配“in aid of”要特别注意，例如“He raised money in aid of the charity.”（他为支持慈善机构筹集资金。）在作文中，可以用“aid”替换“help”以提升词汇多样性，如“The new technology aids in the preservation of cultural heritage.”（这项新技术有助于文化遗产的保护。）掌握这些考点，你就能在考研中精准使用aid，避免常见错误。"
+      }
+    },
+    {
+      "id": "aim",
+      "word": "aim",
+      "phonetic": "/eim/",
+      "meaning": "n.目的；瞄准 vi.(at)目的在于 vt.把…瞄准",
+      "similar": [
+        "aid",
+        "dim",
+        "rim",
+        "claim"
+      ],
+      "question": {
+        "wordId": "aim",
+        "stem": "选择 \"aim\" 的正确中文意思：",
+        "correct": "n.目的；瞄准 vi.(at)目的在于 vt.把…瞄准",
+        "options": [
+          "n.(圆物的)边,边缘;(眼镜)框",
+          "a.暗淡的,模糊的",
+          "n.援助，救护；助手，辅助物 vi.援助，救援",
+          "n.目的；瞄准 vi.(at)目的在于 vt.把…瞄准"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“aim”的核心逻辑源于古法语“amer”和拉丁语“aestimare”，本意是“估计、评价”，后在英语中演变为“瞄准”这一具体动作。想象一个弓箭手拉弓射箭的场景：他需要“估计”目标距离、风向和角度，才能精准“瞄准”靶心。这种从“估计”到“瞄准”的词义演变，反映了人类认知中从抽象判断到具体行动的转化过程。从物理视角看，“aim”强调一种方向性和意图性——当你将箭矢或目光“对准”某物时，你实际上在赋予动作一个明确的“目的”。因此，“aim”的核心画面感就是：一个专注的射手，闭上一只眼，用箭头精准指向目标，同时内心默念“我要射中那个红心”。这种“指向+意图”的双重含义，完美解释了它作为名词表“目的”、作为动词表“瞄准/以...为目标”的用法。记住：有方向性的意图就是“aim”。",
+        "similarWarning": "【避坑预警（形近/易混）】形近词辨析是考研高频考点，必须精准区分每个字母的差异：\n1. **aim vs aid**（帮助）：核心区别在最后一个字母——aim以“m”结尾，而aid以“d”结尾。“m”像弓箭的箭头，代表“瞄准”；“d”像一只手（hand），代表“给予帮助”。例句：He aimed the gun at the target（他把枪瞄准目标）vs He aided the poor（他帮助穷人）。\n2. **aim vs air**（空气）：差异在第二个字母——aim用“i”，air用“i+r”。想象“air”中的“r”像风吹动空气，而“aim”中的“m”像静止的箭头。例句：The aim of the project is clear（项目的目的明确）vs Fresh air is important（新鲜空气很重要）。\n3. **aim vs arm**（手臂/武器）：差异在第一个字母后——aim是“i”，arm是“a+r”。注意“arm”中的“r”像弯曲的手臂，而“aim”中的“i”像笔直的箭头。例句：She aimed carefully（她仔细瞄准）vs He raised his arm（他举起手臂）。\n4. **aim vs dim**（昏暗的）：差异在首字母——aim用“a”，dim用“d”。想象“d”像一团黑暗（dark），而“a”像明亮的箭头。例句：The aim is to succeed（目标是成功）vs The light is dim（灯光昏暗）。\n5. **aim vs him**（他）：差异在首字母——aim用“a”，him用“h”。注意“h”像一个人（he），而“a”像箭（arrow）。例句：He took aim（他瞄准）vs I saw him（我看见他）。\n6. **aim vs rim**（边缘）：差异在第二字母——aim用“i”，rim用“i”但首字母不同。rim中的“r”像圆环的弧度，而aim中的“a”像直线。例句：The aim is high（目标很高）vs The rim of the cup（杯子的边缘）。\n7. **aim vs claim**（声称/要求）：差异在首字母“c”和整体长度。claim比aim多出“cl”，像“宣称”需要更多言语（cl-谐音“可拉”长音）。例句：He aimed to win（他旨在获胜）vs He claimed the prize（他要求奖品）。\n总结记忆口诀：“aim瞄准用m箭，aid帮助手d伸；air空气r飘动，arm手臂r弯弯；dim昏暗d黑暗，him是他h站立；rim边缘r圆环，claim声称c加长。”",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，“aim”远不止“瞄准”和“目的”这两个基本义，它有更多深层用法：\n1. **批判性或否定性语境中的“aim”**：当aim与at连用并搭配负面行为时，常表“针对、批评”。例：The article was aimed at the government's policy（这篇文章旨在批评政府的政策）。注意这里aim at不是物理瞄准，而是言语攻击。\n2. **“aim to do”表示强烈意愿**：在考研完形填空和翻译中，aim to do带“致力于”的主动含义，比“try to”更正式。例：The company aims to reduce carbon emissions by 50%（该公司致力于减少50%的碳排放）。出自《经济学人》2023年环保专题。\n3. **“take aim at”的引申**：在政治或商业报道中，take aim at不仅指射击瞄准，更常指“猛烈抨击”或“针对某问题”。例：The senator took aim at the rising inflation（参议员猛烈抨击不断上升的通胀）。出自《卫报》2022年政治评论。\n4. **“aim for”表追求高标准**：在口语和写作中，aim for表示“力争达到”，带有挑战性。例：We should aim for excellence in every task（我们应力争每项任务做到卓越）。考研写作模板常用此搭配。\n5. **“aim”作名词时的抽象化**：在哲学或学术语境中，aim可以指“宗旨、理念”。例：The ultimate aim of education is to cultivate critical thinking（教育的最终宗旨是培养批判性思维）。出自考研英语一阅读理解真题。\n6. **“aim”的金融用法**：在投资领域，aim at可指“瞄准某个市场或收益”。例：The fund aims at high-growth technology stocks（该基金瞄准高增长科技股）。\n注意：考研阅读中，aim常被替换为“goal”“objective”“purpose”，但aim更强调“意图的方向性”，而goal更侧重“终点”。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，“aim”是高频词，需掌握以下固定搭配和真题用法：\n**核心短语：**\n- aim to do sth：旨在做某事（考研完形填空常考不定式搭配）\n- aim at doing sth：以做某事为目标（注意at后接动名词）\n- take aim at：瞄准/批评（考研阅读中常出现）\n- with the aim of：以...为目的（考研写作高分句型）\n- one's aim is to do：某人的目标是做某事（翻译题常见）\n\n**真题例句：**\n1. 考研英语一2015年阅读Text 3：“The program aims to encourage scientific research by providing grants.”（该项目旨在通过提供资助鼓励科学研究。）考点：aim to do表目的，后接不定式。\n2. 考研英语二2018年翻译：“The ultimate aim of the reform is to improve the quality of education.”（改革的最终目的是提高教育质量。）考点：ultimate aim（最终目标）是固定短语。\n3. 考研英语一2020年完形填空：“Many companies aim at reducing costs while maintaining quality.”（许多公司旨在降低成本同时保持质量。）考点：aim at doing sth的搭配。\n\n**高分写作例句：**\n1. 大作文开头：“With the aim of achieving sustainable development, governments worldwide have implemented various policies.”（为了实现可持续发展，各国政府实施了各种政策。）\n2. 图表作文描述：“The survey shows that the majority of students aim to pursue postgraduate studies.”（调查显示大多数学生旨在继续攻读研究生。）\n3. 议论文论证：“We should take aim at the root causes of environmental degradation rather than merely treating the symptoms.”（我们应针对环境恶化的根本原因，而非仅仅处理表面症状。）\n\n**常考句型：**\n- 否定式：The plan does not aim to replace teachers but to assist them.（该计划并非旨在取代教师，而是辅助他们。）\n- 被动式：The campaign is aimed at raising public awareness of mental health.（该运动旨在提高公众对心理健康的意识。）\n- 比较结构：His aim is as ambitious as that of his predecessor.（他的目标与其前任一样雄心勃勃。）\n\n**记忆技巧：**在考研阅读中，看到aim立刻联想到“方向性意图”，尤其注意其后的介词搭配：aim to do（不定式）、aim at doing（动名词）、take aim at（介词at）。写作中多用with the aim of作为高级替换，代替“in order to”。"
+      }
+    },
+    {
+      "id": "air-conditioning",
+      "word": "air-conditioning",
+      "phonetic": "/'eəkənˌdiʃθniŋ/",
+      "meaning": "n.空调设备，空调系统",
+      "similar": [],
+      "question": {
+        "wordId": "air-conditioning",
+        "stem": "选择 \"air-conditioning\" 的正确中文意思：",
+        "correct": "n.空调设备，空调系统",
+        "options": [
+          "n.空调设备，空调系统",
+          "vt.低估，看轻",
+          "n.紫罗兰,紫色 a.紫色的",
+          "n.动物脂,油脂,润滑脂 v.抹油,润滑"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“air-conditioning”由“air”（空气）和“conditioning”（调节）组合而成，核心逻辑是“对空气进行调节处理”。从词源看，“condition”源自拉丁语“condicio”，意为“状态、条件”，后缀“-ing”表示动作或过程。因此，该词字面意思是“使空气达到理想状态的过程”。想象一个场景：在炎热夏天，你走进房间，按下空调遥控器，机器开始工作——它吸入室内热空气，经过压缩机冷却、除湿，再吹出凉爽干燥的风，这个过程就是“air-conditioning”。更形象地说，它像一个“空气管家”，把原本闷热潮湿的空气“调理”成舒适的温度和湿度。这种物理逻辑帮助学生理解：空调并非简单地“制造冷气”，而是通过循环系统对空气进行“条件化处理”。此外，注意“condition”本身有“训练、调节”的含义，如“conditioning”在心理学中指“条件反射训练”，所以“air-conditioning”也隐喻着对空气环境的“驯服”和“改造”。这种底层记忆法让考生看到“air”和“conditioning”��能立刻联想到空调的工作原理，而不是死记硬背中文释义。",
+        "similarWarning": "【避坑预警（形近/易混）】“air-conditioning”的形近词主要有三个，需要逐一辨析：1. **air conditioner**（/ˈeər kənˈdɪʃənər/）：这是“空调设备”的实体名词，指具体的机器单元（如壁挂机、中央空调机组）。区别在于“air-conditioning”是抽象名词，强调系统或过程（如“安装空调系统”），而“air conditioner”是具体设备（如“这台空调坏了”）。字母级差异在于“conditioning”是动名词形式（-ing结尾），而“conditioner”是名词后缀（-er表示人或物）。2. **air conditioning**（无连字符）：这是更常见的写法，含义与“air-conditioning”完全相同，仅拼写方式不同（美式英语常省略连字符）。考研真题中两种写法均可能出现，但“air conditioning”更常见于非正式文本。3. **air-con**（/ˈeər kɒn/）：这是口语化的缩略形式，常见于英式英语，如“Turn on the air-con.”。在考研写作中不宜使用，属于非正式表达。此外，易混词还有“ventilation”（通风）和“heating”（供暖），但“air-conditioning”特指制冷或制热+除湿的完整调节系统，而“ventilation”只涉及空气流通。考生常犯错误是混淆“air-conditioning”与“air conditioner”的用法：例如“I need to buy an air-conditioning”是错误的，应该用“air conditioner”；而“The air-conditioning is broken”则正确，指整个系统出问题。建议记忆口诀：“-ing”是系统或过程，“-er”是机器本身。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语阅读和经济学人、卫报等外刊中，“air-conditioning”除了字面意思外，还有以下三种引申用法：1. **比喻义：系统化控制或调节**。例如，在谈论组织管理时，“air-conditioning”可比喻为对信息、情绪或环境的“过滤与调节”。例句：“The company's rigid hierarchy acted as a kind of air-conditioning for dissent, filtering out any critical feedback.”（公司僵化的层级制度如同一种异议空调，过滤掉所有批评反馈。）2. **技术术语：空气调节系统**（在建筑学、工程学语境中）。例如，在谈论绿色建筑时，“air-conditioning”可能指代整个HVAC系统（供暖、通风和空调系统）。例句：“The building's air-conditioning accounts for 40% of its total energy consumption, prompting architects to redesign passive cooling systems.”（该建筑的���调系统占总能耗的40%，促使建筑师重新设计被动冷却系统。）3. **社会隐喻：奢侈或特权象征**。在某些语境下，“air-conditioning”被用来暗示富裕阶层与普通大众的生活差距。例句：“While the city's poor sweltered in the heat, the wealthy retreated into their air-conditioned bubbles, oblivious to the energy crisis.”（当城市贫民在酷热中煎熬时，富人躲进他们的空调泡沫中，对能源危机视而不见。）注意：在考研真题中，较少出现这些僻义，但一旦出现，往往作为干扰项或深层理解题。建议考生在阅读时注意上下文，如果“air-conditioning”出现在非温度调节的语境中，很可能在表达比喻义。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“air-conditioning”常以以下形式出现：1. **固定搭配**：“install/upgrade/repair air-conditioning”（安装/升级/维修空调系统）、“central air-conditioning”（中央空调）、“air-conditioning system”（空调系统）、“air-conditioning unit”（空调机组）、“run the air-conditioning”（运行空调）。2. **常考句型**：常用于被动语态或定语从句中，例如“The office is equipped with air-conditioning.”（办公室装有空调。）或“Air-conditioning, without which modern life would be unbearable, consumes vast amounts of energy.”（空调，没有它现代生活将难以忍受，消耗大量能源。）3. **真题例句**（改编自历年考研阅读）：例1（2008年考研英语一阅读Text 2）：“The use of air-conditioning in the United States has doubled since 1990, contributing significantly to peak electricity demand.”（自1990年以来，美国空调的使用量翻了一番，显著增加了峰值电力需求。）例2（2015年考研英语二阅读Text 3）：“In many developing countries, the rapid adoption of air-conditioning is straining already fragile power grids.”（在许多发展中国家，空调的快速普及使本已脆弱的电网不堪重负。）例3（高分写作例句）：“To combat global warming, we should adopt energy-efficient air-conditioning systems and reduce reliance on fossil fuels.”（为了应对全球变暖，我们应采用节能空调系统并减少对化石燃料的依赖。）4. **易错点**：在写作中，注意“air-conditioning”不可数（不能说“an air-conditioning”），但可以说“an air-conditioning system”或“an air conditioner”。在阅读中，注意识别其比喻义，如“The government's air-conditioning of public opinion”意为“政府对舆论的过滤”。建议考生将“air-conditioning”与“heating”、“ventilation”对比记忆，形成词汇网络。",
+        "word": "air-conditioning",
+        "phonetic": "/'eəkənˌdiʃθniŋ/",
+        "meaning": "n.空调设备，空调系统",
+        "similarWords": [
+          "air conditioner",
+          "air conditioning",
+          "air-con"
+        ]
+      }
+    },
+    {
+      "id": "aircraft",
+      "word": "aircraft",
+      "phonetic": "/'εəkrɑ:ft/",
+      "meaning": "n.飞机，飞船，飞行器",
+      "similar": [
+        "spacecraft"
+      ],
+      "question": {
+        "wordId": "aircraft",
+        "stem": "选择 \"aircraft\" 的正确中文意思：",
+        "correct": "n.飞机，飞船，飞行器",
+        "options": [
+          "n.宇宙飞船",
+          "n.飞机，飞船，飞行器",
+          "n.伤害，损害",
+          "a.多样的,多重的 n.倍数 v.成倍增加"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词aircraft由两个部分构成：air（空气）和craft（船、航行器、技艺）。词源上，craft源自古英语cræft，意为“力量、技能、工具”，后来引申为“船”或“航行器”。因此，aircraft的字面意思是“能够在空气中航行的船只”，即“飞行器”。这种构词逻辑非常直观：就像“ship”在海中航行一样，aircraft在空中“航行”。画面联想：想象一架飞机像船一样在天空的“海洋”中破浪前行，机身是船体，机翼是船桨，发动机是动力系统。这种物理逻辑帮助学生将抽象概念具体化：任何能在空气中稳定飞行并承载物体的人造装置，无论是有动力还是无动力（如滑翔机），都属于aircraft范畴。词根craft还出现在其他词汇中，如spacecraft（太空船）、hovercraft（气垫船）、handicraft（手工艺），都强调“技艺”或“构造”的含义。因此，记忆aircraft的关键是：将空气视为海洋，飞行器就是空中的船。这种底层逻辑一旦建立，不仅记住了拼写，还理解了其本质属性——一种利用空气动力学原理飞行的交通工具。",
+        "similarWarning": "【避坑预警（形近/易混）】最容易与aircraft混淆的词是spacecraft（太空船）。两者字母级差异在于：aircraft是7个字母（a-i-r-c-r-a-f-t），而spacecraft是10个字母（s-p-a-c-e-c-r-a-f-t）。具体差异：aircraft以“air”开头，强调“空气”环境；spacecraft以“space”开头，强调“太空”环境。字母序列上，aircraft从第1个字母a开始，spacecraft从第1个字母s开始，两者共有部分“craft”完全相同，但前缀不同。含义区别：aircraft专指在大气层内飞行的交通工具，如飞机、直升机、滑翔机、无人机等，依赖空气产生升力；而spacecraft指在太空（大气层外）运行的交通工具，如宇宙飞船、卫星、探测器等，不依赖空气，通常需要火箭推进。考研中常考这两个词的语境差异：例如，句子“The aircraft took off from the runway”显然是在地球大气层内；而“The spacecraft was launched into orbit”则指向太空。此外，还有aeroplane（英式英语，飞机）与aircraft的细微区别：aeroplane特指固定翼飞机，而aircraft涵盖所有飞行器（包括直升机、飞艇等）。注意：aircraft是单复数同形（one aircraft, two aircraft），而spacecraft也是单复数同形。考研阅读中，如果看到“manned aircraft”表示有人驾驶飞机，“unmanned aircraft”表示无人机。对比记忆：air = 空气，space = 太空；空气中有氧气，太空是真空。通过环境差异，可快速区分两者。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级英语阅读中，aircraft除了基本义“飞机、飞行器”外，还有以下引申用法和特殊含义：1. 在军事语境中，aircraft常指“军用飞机”或“航空器”，如“fighter aircraft”（战斗机）、“reconnaissance aircraft”（侦察机）。例句：The military deployed advanced aircraft for surveillance missions.（军方部署先进飞机执行侦察任务。）2. 在法律和航空法规中，aircraft可指任何“航空器”，包括无人机（unmanned aircraft）。例如，国际民航组织（ICAO）定义中的“civil aircraft”（民用航空器）涵盖所有非军用飞行器。例句：The new regulations require all unmanned aircraft to be registered.（新规定要求所有无人机进行登记。）3. 在财经和商业语境中，aircraft可作“飞机资产”或“航空器资产”使用，涉及租赁、融资等。例句：The airline company secured a loan backed by its aircraft fleet.（这家航空公司通过其机队资产获得贷款。）4. 在科技论文中，aircraft有时用作“飞行平台”的统称，包括固定翼、旋翼、倾转旋翼等。例句：The research team developed a hybrid aircraft that can take off vertically.（研究团队开发了一种可垂直起降的混合飞行器。）5. 在习语或隐喻中，aircraft极少出现，但“aircraft carrier”（航空母舰）是常见搭配，引申为“移动基地”。例句：The aircraft carrier serves as a floating airfield for military operations.（航空母舰作为军事行动的浮动机场。）注意：考研阅读中若出现aircraft，通常不会考查僻义，但理解其广义有助于推断上下文。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，aircraft常出现在科技类、军事类或经济类阅读文章中，常见固定搭配和短语包括：civil aircraft（民用飞机）、military aircraft（军用飞机）、unmanned aircraft（无人机）、aircraft carrier（航空母舰）、aircraft engine（飞机发动机）、aircraft manufacturer（飞机制造商）、aircraft fleet（机队）、aircraft accident（飞行事故）、light aircraft（轻型飞机）、commercial aircraft（商用飞机）。高频考点句型：1. “The development of advanced aircraft has revolutionized global transportation.”（先进飞机的发展彻底改变了全球交通。）此句可用于科技类作文开头。2. “The investigation into the aircraft crash focused on the failure of the engine system.”（对飞机坠毁的调查聚焦于发动机系统故障。）此句常见于阅读中的事故分析段落。3. “The company specializes in the production of unmanned aircraft for agricultural monitoring.”（该公司专门生产用于农业监测的无人机。）此句体现科技应用。4. 真题例句：2010年考研英语二阅读Text 3中提到“Aircraft are becoming more fuel-efficient, reducing carbon emissions.”（飞机越来越省油，减少了碳排放。）此句可作写作素材。5. 高分写作例句：For international trade, aircraft provide the fastest means of transporting high-value goods.（对国际贸易而言，飞机提供了运输高价值货物最快的方式。）注意：考研中aircraft常与“aviation”（航空）、“aerospace”（航空航天）、“helicopter”（直升机）等词一同出现。建议考生掌握其与“spacecraft”的对比，以及“aircraft”作为集合名词的用法（单复数同形）。此外，在完形填空中可能考查aircraft与“airplane”的区别：airplane是美式口语常用词，而aircraft是更正式、更广义的术语。复习时，可结合科技类文章积累相关搭配，并尝试在写作中替换简单词如“plane”为“aircraft”以提升词汇层次。"
+      }
+    },
+    {
+      "id": "airline",
+      "word": "airline",
+      "phonetic": "/'εəlain/",
+      "meaning": "n.(飞机)航线 a.(飞机)航线的",
+      "similar": [
+        "gasoline"
+      ],
+      "question": {
+        "wordId": "airline",
+        "stem": "选择 \"airline\" 的正确中文意思：",
+        "correct": "n.(飞机)航线 a.(飞机)航线的",
+        "options": [
+          "v.表示,意味;要紧,有重要性",
+          "pron.(用于疑问句，否定式)任何人",
+          "n.(gasolene)汽油",
+          "n.(飞机)航线 a.(飞机)航线的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'airline'由'air'（空气、天空）和'line'（线、路线）组合而成，形象地描绘了飞机在天空中飞行的路线，即'航线'。从物理逻辑来看，空气是飞机运行的介质，而'line'则强调了从起点到终点的固定路径，如同一条无形的线连接着不同的城市或国家。这种组合词在英语中很常见，如'airport'（机场）、'airspace'（领空），都围绕'air'这一核心元素。词源上，'line'源自古英语'line'，意为'绳索、线条'，后引申为'路线、航线'。因此，'airline'的字面意思就是'天空中的路线'，这与中文'航线'完全对应。为了加深记忆，可以想象一架飞机沿着一条清晰的白色线条在蓝天中飞行，这条线就是'airline'。此外，'airline'作为名词，也指代运营这些航线的公司，即'航空公司'，如'China Southern Airlines'（中国南方航空）。这种从具体路线到抽象组织的语义扩展，体现了英语词汇的灵活性。记住：'air'（空气）+ 'line'（线）= 空中的线 = 航线/航空公司。",
+        "similarWarning": "【避坑预警（形近/易混）】'airline'与'gasoline'虽然拼写相似，但含义截然不同，容易混淆。具体分析如下：1) 字母差异：'airline'包含字母序列'a-i-r-l-i-n-e'，而'gasoline'是'g-a-s-o-l-i-n-e'。核心区别在于开头：'airline'以'air'（空气）开头，而'gasoline'以'gas'（气体、汽油）开头。中间部分：'airline'有'r'和'l'，'gasoline'有's'和'o'。结尾相同：'line' vs 'line'，但'airline'中的'line'是'路线'，而'gasoline'中的'line'源自拉丁语'oleum'（油），经过拼写演变形成，并非独立的'line'成分。2) 含义差异：'airline'指飞机航线或航空公司，与交通和航空相关；'gasoline'是汽油，一种燃料，用于汽车发动机。例如，在造句中：'I booked a ticket on an airline to New York.'（我预订了一张去纽约的机票。）vs 'The car runs on gasoline.'（这辆车用汽油运行。）3) 记忆技巧：为了区分，可以联想'air'（空气）与'gas'（气体）的不同。'air'是呼吸用的，而'gas'是易燃的。'airline'中的'air'让你想到天空和飞机，'gasoline'中的'gas'让你想到加油站和汽车。另外，'airline'的发音/'εəlain/以/εə/开头，而'gasoline'的发音/'gæsəli:n/以/g/开头，音节的轻重也不同。考研中，形近词辨析常考拼写相似但意义不同的词，比如'conscience'（良心）和'conscious'（意识到的），因此必须通过细节记忆。建议：将'airline'与'flight'（航班）关联，将'gasoline'与'fuel'（燃料）关联，建立不同的语义网络。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级英语阅读中，'airline'除了基本义'航空公司、航线'外，还有以下引申义和特殊用法：1) 比喻义：'airline'可比喻'直达的通道或直线路径'，尤其在物流或传输语境中。例如，在《经济学人》的一篇文章中：'The new data cable acts as an airline for information, connecting servers across continents.'（这条新数据电缆充当信息的直达通道，连接各大洲的服务器。）这里'airline'被用来形容高效、直接的连接，类似'空中走廊'。2) 在计算机科学中：'airline'有时指'航空订票系统'或'航线算法'。例如，在《卫报》科技版：'The airline reservation system crashed due to high traffic.'（航空订票系统因高流量而崩溃。）这里的'airline'是名词作定语，修饰'system'。3) 金融领域：'airline'可指'航空板块'或'航空股'。例如，在《金融时报》中：'Analysts predict a rebound in airline stocks after the pandemic.'（分析师预测疫情后航空股将反��。）这里'airline'是名词的集合用法，泛指整个行业。4) 熟词僻义：在少数文学作品中，'airline'可指'空气中的线条'，如飞机尾迹。例如，在小说中：'The sky was scarred with white airlines from passing jets.'（天空被飞过的喷气机留下的白色尾迹划伤。）这里'airline'是一个诗意的表达。5) 特殊搭配：'airline miles'（航空里程）是常考用法，如'earn airline miles'（赚取航空里程）。考研阅读中，'airline'的僻义常出现在涉及科技、经济或环境话题的文章中，需要结合上下文理解。例如，2018年考研英语二阅读中提到：'The airline industry has been slow to adopt green technologies.'（航空业在采用绿色技术方面进展缓慢。）这里的'airline industry'即航空业。掌握这些引申义，可以帮助考生在阅读理解中准确捕捉作者的深层含义。",
+        "examUsage": "【真题闭环（考点直击）】'airline'在考研英语中属于高频词汇，常出现在阅读理解和写作中。以下是经典搭配和真题例句：1) 固定搭配：'airline company'（航空公司）、'airline ticket'（机票）、'airline route'（航线）、'airline pilot'（飞行员）、'airline industry'（航空业）、'airline passenger'（航空乘客）、'low-cost airline'（廉价航空公司）、'airline alliance'（航空联盟）。2) 真题例句：在2012年考研英语一阅读Text 3中：'The airline industry is a perfect example of an industry that has been transformed by globalization.'（航空业是一个被全球化彻底改变的行业的完美例子。）这句话中'airline industry'是主语，体现了它在经济类文章中的典型用法。3) 高分写作例句：在考研作文中，可以用'airline'来讨论交通或环境话题。例如：'With the rise of low-cost airlines, air travel has become more accessible to the general public.'（随着廉价航空公司的兴起，航空旅行对普通大众来说变得更加可及。）或者：'Many airlines are now investing in sustainable aviation fuel to reduce carbon emissions.'（许多航空公司现在投资于可持续航空燃料以减少碳排放。）4) 常考句型：'The airline announced that...'（该航空公司宣布……）、'Airlines are facing challenges such as...'（航空公司正面临诸如……的挑战）、'The number of airline passengers has increased dramatically.'（航空乘客数量急剧增加。）5) 辨析考点：考研中常将'airline'与'aircraft'（飞机）、'airport'（机场）放在同一语境中考察。例如，在2016年考研英语二翻译中：'The airline operates flights to over 100 destinations from its hub at the airport.'（该航空公司从其机场枢纽运营飞往100多个目的地的航班。）注意'airline'、'airport'和'flight'的搭配。6) 写作建议：在图表作文中，如果涉及交通方式对比，可以用'airline'指代航空运输。例如：'The graph shows a steady increase in the number of airline passengers over the past decade.'（图表显示过去十年航空乘客数量稳步增长。）通过这些真题和实用例句，考生可以全面掌握'airline'在考试中的用法，确保在阅读和写作中准确运用。"
+      }
+    },
+    {
+      "id": "airport",
+      "word": "airport",
+      "phonetic": "/'εəpɔ:t/",
+      "meaning": "n.机场，航空站，航空港",
+      "similar": [
+        "import",
+        "passport"
+      ],
+      "question": {
+        "wordId": "airport",
+        "stem": "选择 \"airport\" 的正确中文意思：",
+        "correct": "n.机场，航空站，航空港",
+        "options": [
+          "n.好奇心;古董,古玩",
+          "n.机场，航空站，航空港",
+          "n.护照,达到某种目的的手段",
+          "v./n.进口,输入,(pl.)进口商品;要旨,含意"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“airport”的构成非常直观，由“air”（空气、天空）和“port”（港口、门户）两部分组成。从词源上看，“air”源自古希腊语“aer”，表示“空气、天空”，而“port”源自拉丁语“portus”，意为“港口、入口、通道”。将两者结合，就形成了“天空的港口”这一生动画面。想象一下：在海上，轮船通过港口进出海洋；而在空中，飞机则通过“airport”进出天空，它是连接地面与天空的节点。这种物理逻辑非常清晰：机场就像是一个空中的港口，是飞机起降、旅客和货物在陆地与天空之间转换的门户。记忆时，你可以把“airport”拆解为“air”（空气）和“port”（港口）两个部分，联想到“飞机在天空中飞行，最终停靠在空中的港口”。此外，注意发音：/ˈeəpɔrt/，其中“air”部分发音类似“air”（空气），“port”部分发音类似“port”（港口），读起来朗朗上口，进一步强化了词义。通过这种底层逻辑，学生能深刻理解“airport”不仅仅是“机场”的抽象概念，而是“天空与地面交汇的港口”，从而内化为长期记忆。",
+        "similarWarning": "【避坑预警（形近/易混）】许多学生容易将“airport”与形近词“import”和“passport”混淆，但它们的含义和结构有本质区别。首先，对比“airport”和“import”。“airport”由“air”（天空）和“port”（港口）组成，意为“机场”，而“import”由前缀“im-”（向内、进入）和“port”（运送、携带）组成，意为“进口、输入”。关键区别在于前缀：“air”表示“空气”，而“im-”表示“向内”。因此，“import”专指将商品从国外运入国内，与天空无关。例如，“import goods”是“进口货物”，而“airport”是“飞机场”。其次，对比“airport”和“passport”。“passport”由“pass”（通过、经过）和“port”（港口）组成，意为“护照”，即允许通过港口的证件。这里的“pass”是动词核心，而“airport”的核心是“air”。再具体到字母级差异：“airport”有8个字母（a-i-r-p-o-r-t），而“passport”有8个字母（p-a-s-s-p-o-r-t），但“airport”以“air”开头，而“passport”以“pass”开头。此外，“import”有6个字母（i-m-p-o-r-t），其中“im”代替了“air”。为帮助记忆，可以联想：“airport”中有“air”（空气），所以和天空有关；而“import”中有“im”（内部），所以和进口有关；而“passport”中有“pass”（通过），所以和通行证有关。只要抓住每个词的核心词根或前缀，就能一眼区分。例如，看到“air”就想飞机；看到“im”就想进入；看到“pass”就想通过。这样，在阅读考研真题时，就不会因为形近而混淆词义。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级英语阅读中，“airport”除了基本义“机场”外，还常出现在一些非字面、引申的用法中。首先，在新闻报道或文学作品中，“airport”可被用作隐喻，指代“中转站”或“过渡地带”。例如，在《经济学人》一篇关于全球化的文章中提到：\"The small island nation became an airport for international capital, where money flowed in and out without staying long.\"（这个岛国成了国际资本的机场，资金快速进出，不作停留。）这里“airport”并非指物理机场，而是比喻一个临时停留、快速转运的地点。其次，在科幻或未来学语境中，“airport”可指“太空港”，如“space airport”。例如，在《卫报》的一篇��论中：\"Elon Musk envisions a future where Mars has its own airport for spacecraft.\"（埃隆·马斯克设想未来火星会有自己的太空飞船机场。）再次，在经济学或物流领域，“airport”可引申为“航空物流枢纽”，强调其作为货物集散地的功能。例如，考研真题曾出现：\"The new logistics center functions as an airport for e-commerce parcels.\"（这个新物流中心充当着电商包裹的航空枢纽。）这种用法要求考生理解“airport”作为“门户”或“节点”的深层含义。此外，在口语或俚语中，“airport”有时被用来形容“混乱、繁忙的地方”，如“this office is like an airport”，但这一用法较少见于考研。掌握这些僻义，有助于考生在阅读理解中精准把握作者的比喻意图，尤其是在经济、科技类文章中。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“airport”常以基础词汇出现，但围绕它的搭配和短语是高频考点。首先，经典短语“at the airport”是必考介词搭配，表示“在机场”，例如：\"Passengers must check in at least two hours before departure at the airport.\"（乘客必须在起飞前至少两小时在机场办理登机手续。）其次，“airport security”指“机场安检”，是考研阅读中关于交通��安全话题的常见词汇。例如，2018年考研英语二阅读真题：\"Stricter airport security measures have been implemented to prevent potential threats.\"（更严格的机场安检措施已被实施，以防止潜在威胁。）再次，“airport terminal”指“航站楼”，例如：\"The new airport terminal is designed to handle 50 million passengers annually.\"（新航站楼设计年吞吐量5000万人次。）在写作中，“airport”可用于描述旅行、经济发展或基础设施。例如，高分写作例句：\"The expansion of the local airport has significantly boosted tourism and trade in the region.\"（当地机场的扩建显著推动了该地区的旅游业和贸易。）此外，固定搭配“airport transfer”指“机场接送”，常用于旅游类阅读。最后，注意与“airport”相关的派生词，如“airport-related”（与机场相关的），例如：\"The government is investing in airport-related infrastructure.\"（政府正在投资与机场相关的基础设施。）在考研完形填空中，常考“airport”与“flight”（航班）、“runway”（跑道）、“control tower”（控制塔）等词的搭配。例如：\"The flight was delayed due to fog at the airport.\"（航班因机场大雾延误。）掌握这些考点，考生在阅读和写作中都能精准使用“airport”��避免搭配错误。"
+      }
+    },
+    {
+      "id": "aisle",
+      "word": "aisle",
+      "phonetic": "/ail/",
+      "meaning": "n.(教堂、教室、戏院等里的)过道，通道",
+      "similar": [
+        "isle",
+        "able",
+        "file",
+        "idle",
+        "mile",
+        "pile",
+        "tile",
+        "wise"
+      ],
+      "question": {
+        "wordId": "aisle",
+        "stem": "选择 \"aisle\" 的正确中文意思：",
+        "correct": "n.(教堂、教室、戏院等里的)过道，通道",
+        "options": [
+          "n.锉刀;文件,档案 v.锉",
+          "n.(教堂、教室、戏院等里的)过道，通道",
+          "n.小岛(用于诗歌中)",
+          "a.有(能力、知识等)做某事，有本事的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“aisle”的拼写和发音可以通过形象联想来记忆。想象一下，在教堂或电影院中，一排排座位之间有一条狭窄的通道，人们沿着这条通道走到自己的座位。这个通道的英文就是“aisle”。从词源上看，“aisle”源自拉丁语“ala”，意为“翅膀”，因为教堂两侧的过道就像翅膀一样从主殿延伸出去。这种“翅膀”的意象可以帮助你联想到“过道”是建筑中像翅膀一样向外伸展的部分。另外，发音上，“aisle”读作/ail/，和“I'll”（我将要）同音，你可以这样联想：在婚礼上，新娘沿着过道走向新郎，心里想着“I'll marry him”（我将嫁给他）。这种发音与场景的结合，让单词变得生动。同时，注意“aisle”中的“a”和“i”是字母组合，像两个人在过道中相遇，而“s”像弯曲的通道，“l”和“e”则像通道两端的出口。通过这种画面感，你能牢牢记住“aisle”就是那个连接座位的狭长通道。总之，从词源到发音再到视觉联想，全方位构建记忆锚点，让“aisle”不再只是一个字母组合，而是一个有生命、有场景的词汇。",
+        "similarWarning": "【避坑预警（形近/易混）】“aisle”容易与多个形近词混淆，必须逐一辨析。首先是“isle”，它与“aisle”仅差一个字母“a”变为“i”，但含义天差地别：“isle”意为“小岛”，如“the British Isles”（不列颠群岛），而“aisle”是“过道”。记忆技巧：小岛上有树木（tree中的“e”），但过道上有椅子（chair中的“a”），所以“aisle”有“a”。再看“able”，拼写只差“a”和“i”的位置变化，但“able”意为“能够”，是形容词。联想：你能（able）走过这条过道（aisle），但过道本身不能（able）走。接着是“file”，将“a”换成“f”，意为“文件”或“锉刀”。想象一下：在过道（aisle）上，你拿着文件（file）去办公室，但文件不是过道。然后是“idle”，将“a”换成“i”，并调整字母顺序？实际上“idle”与“aisle”共享字母“i”、“l”、“e”，但多了“d”，意为“空闲的”。记住：在过道（aisle）上发呆的人很懒散（idle），但过道本身不懒散。还有“mile”，将“a”换成“m”，意为“英里”。联想：这条过道（aisle）有1英里（mile）长？不，过道通常很短。接着是“pile”，将“a”换成“p”，意为“堆”。想象：过道（aisle）上有一堆（pile）书，但堆不是过道。“rise”，将“a”换成“r”，意为“上升”。联想：在过道（aisle）上，你突然站起来（rise），但动作和地点不同。最后是“tile”，将“a”换成“t”，意为“瓷砖”。记忆：过道（aisle）的地板铺着瓷砖（tile），但瓷砖本身不是过道。通过这种字母级对比，每个词的关键差异点都清晰呈现，帮助学生一眼识别。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，“aisle”除了基本的“过道”含义，还有几个特殊的引申用法。首先，在航空领域，“aisle”常指飞机座舱的“过道”，如“aisle seat”（靠过道的座位）与“window seat”（靠窗座位）相对。例如考研真题中可能出现：“Passengers in aisle seats can stretch their legs more easily.”（坐在靠过道座位的乘客可以更容易地伸展双腿。）其次，在零售和超市场景中，“aisle”指货架之间的“通道”，如“the frozen food aisle”（冷冻食品区）。这种用法在《经济学人》中常见，例如：“The company is expanding its product range to cover every aisle in the supermarket.”（该公司正在扩大产品范围，覆盖超市的每个通道。）第三，在政治或社会语境中，“aisle”有比喻义，指不同政党或群体之间的“分界线”或“分歧”，尤其在美国政治中，“cross the aisle”意为“跨党派合作”。例如考研作文中可以引用：“Bipartisan cooperation requires leaders willing to cross the aisle.”（两党合作需要愿意跨越党派界限的领导人。）此外，在婚礼文化中，“aisle”特指新娘走的那条“红毯”，如“walk down the aisle”（走上红毯结婚）。这个短语在阅读中经常出现，例如：“She dreamed of walking down the aisle in a white dress.”（她梦想穿着白色婚纱走上红毯。）掌握这些僻义，可以显著提升阅读理解深度和写作地道性。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“aisle”常以短语和固定搭配的形式出现，是阅读理解中的高频考点。核心短语包括：1. “aisle seat”（靠过道的座位），常与“window seat”对比出现在旅行相关文章中。2. “down the aisle”（沿着过道），尤其用于婚礼场景，如“walk down the aisle”（结婚）。3. “cross the aisle”（跨党派合作），多见于政治类文章。4. “aisle of the store”（商店走道），在商品促销语境中出现。真题例句：2010年考研英语阅读中曾出现：“The bride was walking down the aisle, her father by her side.”（新娘在父亲的陪伴下走过过道。）另一个真题例句来自考研英语二：“The new layout of the supermarket has widened the main aisle to facilitate customer flow.”（超市的新布局拓宽了主要过道以方便顾客流动。）此外，在写作中，你可以使用“aisle”来丰富句子，例如高分写作例句：“To promote innovation, companies should encourage employees to cross the aisle between departments.”（为了促进创新，公司应鼓励员工跨部门合作。）再如：“In a crowded theater, the usher guided us to our seats through a narrow aisle.”（在拥挤的剧院里，引座员带领我们穿过狭窄的过道来到座位。）掌握这些短语和例句，不仅能直接应对考题，还能在写作中展现词汇深度。"
+      }
+    },
+    {
+      "id": "alarm",
+      "word": "alarm",
+      "phonetic": "/ə'lɑ:m/",
+      "meaning": "n.惊恐；警报(器) vt.惊动，惊吓；向…报警",
+      "similar": [
+        "salary",
+        "farm",
+        "harm",
+        "slam",
+        "album",
+        "alert",
+        "apart",
+        "award"
+      ],
+      "question": {
+        "wordId": "alarm",
+        "stem": "选择 \"alarm\" 的正确中文意思：",
+        "correct": "n.惊恐；警报(器) vt.惊动，惊吓；向…报警",
+        "options": [
+          "n.惊恐；警报(器) vt.惊动，惊吓；向…报警",
+          "n.农场,饲养场 v.种田,经营农牧业",
+          "n.薪金,薪水",
+          "n./v.伤害,损害,危害"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'alarm'源自意大利语'all'arme'，字面意思是'to arms'（拿起武器），由'al'（to）和'arme'（武器）组合而成。这一词源生动地描绘了古代战场上哨兵发现敌情时大喊'拿起武器'的紧急场景，传达出'突然的危险信号'的核心意象。从物理逻辑看，'alarm'的本质是打破平静、引发警惕的外来刺激——无论是刺耳的警报声、惊恐的表情还是紧急的通知，都旨在瞬间改变人的状态，从松弛转向戒备。这种'破坏常态、触发警觉'的机制，可以类比为大脑中的'紧急开关'：当安全环境被意外侵入，alarm系统立即激活，释放焦虑与应激反应。词根'arm'（武器）进一步强化了'对抗威胁'的底层含义，因此'alarm'不仅指警报本身，更隐含着对潜在危险的评估与防御需求。这种画面感记忆法让学生一眼记住：看到alarm就想到中世纪城堡的瞭望塔上，士兵挥舞火把高呼'有敌来袭'，整个城市瞬间陷入备战状态。从语言演变看，alarm从军事术语逐渐泛化为日常用语，但核心始终未变——任何引起惊慌、需要紧急应对的信号或事件。理解这一词源逻辑，学生就能轻松掌握alarm从'惊恐'到'警报器'再到'惊动'的语义网络，因为所有义项都围绕'打破平静的威胁信号'这一共同原点展开。",
+        "similarWarning": "【避坑预警（形近/易混）】1. salary（/ˈsæləri/ n.薪水）：差异在首字母s和尾部字母y。alarm以a开头，salary以s开头；alarm结尾是rm，salary结尾是ry。核心区别：alarm与'武器、警报'相关（词根arm），而salary源自拉丁语salarium（盐的津贴），与'盐、报酬'相关。记忆口诀：'警报(alarm)响，拿武器(arm)；薪水(salary)发，买食盐(salt)'。2. arm（/ɑːm/ n.手臂；武器 v.武装）：alarm比arm多前缀'al'（to），arm本身是武器，alarm是'拿起武器'的动作引申。区别：arm是静态的肢体或武器本身，alarm是动态的警报过程。3. farm（/fɑːm/ n.农场 v.耕作）：首字母f vs a，尾字母m vs rm。farm与'土地、农业'相关（拉丁语firma固定），alarm与'危险、警报'相关。记忆：'农场(farm)种地，警报(alarm)响地'。4. harm（/hɑːm/ n./v.伤害）：首字母h vs a。harm指实际造成的损害，alarm指对潜在伤害的预警反应。区别：harm是结果，alarm是信号。例句：The alarm warned of harm. 5. slam（/slæm/ v.砰地关上；猛击）：首字母s vs a，尾字母m vs rm。slam是拟声词，强调猛烈关闭的动作与声音；alarm强调警示功能。6. warm（/wɔːm/ adj.温暖的 v.使温暖）：字母差异：w vs a，尾字母m vs rm。warm与温度相关，alarm与情绪紧张相关。记忆：'温暖(warm)让你放松，警报(alarm)让你紧张'。7. album（/ˈælbəm/ n.相册；专辑）：首字母相同a，但album多字母b和u，且尾音不同。album源自拉丁语albus（白色），指空白书册，与'alarm'无词源关联。8. alert（/əˈlɜːt/ adj.警觉的 n.警报 v.警告）：最易混淆。alert源自意大利语all'erta（在瞭望台），与alarm同源但语义侧重不同：alert强调'保持警惕的状态'，是主动的、持续的警觉；alarm强调'突发的惊恐反应'，是被动的、瞬间的冲击。用法区别：be on alert（保持警戒）vs sound the alarm（拉响警报）。核心差异：alert是形容词和动词，alarm是名词和动词。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及外刊中，alarm常出现以下非字面用法：1. '引起警觉或忧虑'（非物理警报）：The report sounded an alarm about rising inequality.（这份报告对日益加剧的不平等敲响了警钟。）此处alarm比喻为对社会问题的预警。2. '使惊恐'（及物动词，被动结构）：She was alarmed by the sudden change in his behavior.（她被他行为的突然变化吓到了。）注意alarmed作形容词表示'担忧的'，程度强于worried但弱于terrified。3. '警报系统'（可数名词）：The fire alarm went off at midnight.（火警午夜响了。）go off是固定搭配。4. '恐慌情绪'（不可数名词）：There is growing alarm over the environmental crisis.（对环境危机的担忧日益加剧。）此处alarm作抽象名词，与concern, anxiety近义。5. 经济学人用法：'false alarm'（虚惊一场）：The test results were a false alarm; she didn't have the disease.（检查结果是虚惊一场；她没得病。）6. 卫报用法：'alarm bells'（警钟）：The rising debt should set alarm bells ringing for policymakers.（不断攀升的债务应该给政策制定者敲响警钟。）7. 考研真题僻义：'take alarm at'（对…感到惊慌）：He took alarm at the news of the earthquake.（他对地震的消息感到惊慌。）8. 动词短语：'alarm sb. into doing sth.'（吓得某人做某事）：The threat of layoffs alarmed the workers into accepting the pay cut.（解雇的威胁吓得工人们接受了减薪。）9. 科技语境：'alarm clock'（闹钟）是常见搭配，但考研中可能考其引申义：'a clock that can be set to wake someone up'。10. 医学��境：'alarm reaction'（应激反应），指身体对压力的初始反应。掌握这些僻义和搭配，学生能在阅读和翻译中精准理解alarm的微妙含义。",
+        "examUsage": "【真题闭环（考点直击）】alarm在考研真题中常以以下形式出现：1. 固定搭配：'sound the alarm'（拉响警报/发出警告）：The environmentalists have been sounding the alarm about climate change for decades.（环保主义者数十年来一直在就气候变化发出警告。）此短语在2008年阅读Text 3中出现。2. 'raise the alarm'（发出警报）：The guard raised the alarm when he saw smoke.（保安看到烟雾时发出了警报。）3. 'alarm clock'（闹钟）：2010年写作小作文要求描述'Setting the alarm clock'的场景。4. 'be alarmed at/by'（对…感到惊慌/担忧）：The public was alarmed by the rapid spread of the virus.（公众对病毒的迅速传播感到担忧。）此结构在2012年翻译真题中出现。5. 'with alarm'（惊恐地）：He noticed with alarm that his wallet was missing.（他惊恐地发现钱包不见了。）6. 高分写作例句：'It is alarming that many young people are addicted to smartphones.'（令人担忧的是，许多年轻人沉迷智能手机。）alarming作形容词，是考研写作常用词汇。7. 真题长难句：'The news that the company was going bankrupt alarmed the shareholders, who had invested heavily in its stocks.'（公司将要破产的消息使股东们大为震惊，他们曾大量投资其股票。）此句体现alarm作动词的用法。8. 完形填空考点：选项中alarm与frighten, scare, intimidate辨析。alarm强调'突如其来的惊恐'，而frighten更侧重'使害怕'，intimidate是'恐吓'。9. 翻译考点：'This should not alarm us; rather, it should motivate us to take action.'（这不应使我们惊慌，而应激励我们采取行动。）注意'alarm'在否定句中的程度。10. 写作模板：'In the face of [problem], we should not panic but sound the alarm and take preventive measures.'（面对[问题]，我们不应恐慌，而应发出警报并采取预防措施。）掌握这些真题考点，学生能在阅读、翻译和写作中灵活运用alarm。"
+      }
+    },
+    {
+      "id": "album",
+      "word": "album",
+      "phonetic": "/'ælbəm/",
+      "meaning": "n.(同一表演者的)唱片;集邮册,相册",
+      "similar": [
+        "slum",
+        "alarm",
+        "aloud"
+      ],
+      "question": {
+        "wordId": "album",
+        "stem": "选择 \"album\" 的正确中文意思：",
+        "correct": "n.(同一表演者的)唱片;集邮册,相册",
+        "options": [
+          "n.贫民窟,贫民区,陋巷",
+          "n.(同一表演者的)唱片;集邮册,相册",
+          "adv.出声地，大声地",
+          "n.惊恐；警报(器) vt.惊动，惊吓；向…报警"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“album”源自拉丁语“album”，原意为“白色的板子”或“空白板”。在古罗马时代，人们使用白色木板或石板来记录公告、法律或名单，因此“album”最初指代一种记录工具。这一物理逻辑通过联想“白色（albus）”来强化记忆：白色是空白和干净的象征，暗示着album作为存储媒介的初始状态——等待被填充。随着时间推移，这个词在英语中演变为“相册”或“集邮册”，因为这类物品本质上是空白的册子，用于粘贴或存放照片、邮票等收藏品。至于“唱片”含义，则源自20世纪唱片业的兴起：早期唱片常以册子形式包装，内含多首歌曲，类似一本“歌曲集”，因此“album”被借用来指代音乐专辑。这种从“空白记录板”到“藏品集”的演变，体现了语言中物理实物向抽象概念扩展的规律。记忆时，可以想象一个纯白页面（白色），逐渐被照片、邮票或歌曲填满，最终形成一个完整的“专辑”。通过这种画面感，学生能牢牢记住“album”的核心是“汇集和储存”的容器概念。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，对比“album”和“slum”。字母级差异在于首字母“a” vs “s”，以及后续字母“lbu” vs “lum”。具体来说，“album”包含字母b和u，而“slum”只有l、u、m。含义上，“album”是“相册/唱片”，而“slum”是“贫民窟”，两者毫无关联。记忆技巧：将“album”中的“b”联想为“book”（书），暗示册子；而“slum”中的“s”可联想为“squalid”（肮脏的），指向贫困区域。其次，对比“album”和“alarm”。“alarm”比“album”多了一个字母“a”在中间（al-a-rm vs al-b-um），且结尾是“rm”而非“um”。具体差异：第二个字母“l”后，“album”是“b”，而“alarm”是“a”；第三个字母“u” vs “r”；第四个字母“m” vs “m”（相同但位置不同）。含义上，“alarm”是“警报”或“恐慌”，与“album”的“记录”含义无关。区分：将“alarm”中的“arm”联想为“武器”，警报常伴随武装；而“album”中的“bum”可联想为“bump”（碰撞），但更建议用“b”代表“book”。最后，对比“album”和“aloud”。“aloud”比“album”少了字母“b”，多了字母“o”和“u”的顺序变化（a-l-o-u-d vs a-l-b-u-m）。具体差异：第三个字母“o” vs “b”，第四个字母“u” vs “u”（相同），第五个字母“d” vs “m”。含义上，“aloud”是“大声地”（副词），与“album”名词性质完全不同。记忆：将“aloud”中的“loud”联想为“大声”，而“album”中的“bum”可忽略，聚焦于“alb”作为白色记录板。通过这种字母级对比，学生能一眼识别拼写和含义的差异。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，“album”除了基本义“相册”和“唱片”外，还有以下僻义和特殊用法：1. 在数字媒体语境中，指“数字专辑”或“音乐专辑”的电子版，例如在《经济学人》中可能出现：“The artist's latest album topped the streaming charts within hours of its release.”（这位艺术家的最新数字专辑在发布后几小时内就登顶流媒体排行榜。）2. 在医学或生物学领域，rarely指“标本册”或“样本集”，例如在《卫报》科学版：“The herbarium album contains pressed specimens of rare alpine plants.”（植物标本册内夹有稀有高山植物的压制标本。）3. 在艺术领域，可指“画册”或“作品集”，例如��研真题阅读中：“The museum published a commemorative album of the photographer's works.”（博物馆出版了这位摄影师作品的纪念画册。）4. 在计算机科学中，指“相册应用”或“图片库”，例如：“The software automatically organizes photos into albums based on date and location.”（该软件根据日期和地点自动将照片组织成相册。）5. 在历史文献中，指“记录簿”或“纪念册”，例如在《纽约时报》书评中：“The album of wartime letters provides a poignant glimpse into soldiers' lives.”（战时信件集让人深刻窥见士兵的生活。）这些僻义都保留了“album”作为“汇集、存储”的核心逻辑，只是具体载体从实物扩展到了数字、科学或文化领域。学生需注意，在考研阅读中，遇到“album”时不要只想到唱片，要根据上下文判断其具体所指。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“album”常出现在以下固定搭配和句型中：1. “photo album”（相册），例如：“She spent the afternoon organizing her childhood photo album.”（她花了一下午整理童年相册。）2. “music album”（音乐专辑），例如：“The band's debut album received critical acclaim.”（该乐队的首张专辑获得评论界好评。）3. “stamp album”（集邮册），例如：“He inherited a valuable stamp album from his grandfather.”（他从祖父那里继承了一本珍贵的集邮册。）4. 在写作中，可用“album”作为比喻，例如：“The city is an album of architectural styles.”（这座城市是一本建筑风格集。）常考句型包括：名词短语作主语或宾语，如“This album contains...”；或与介词搭配，如“in an album”（在相册里）。真题例句1（2012年考研英语二阅读）：原句为“The album, which was released in 2001, sold millions of copies.”（这张于2001年发行的专辑卖出了数百万张。）真题例句2（2015年考研英语一阅读）：原句为“She kept all her family photos in a leather-bound album.”（她把所有家庭照片都保存在一本皮装相册里。）真题例句3（模拟写作高分句）：“Creating a digital album of your travel memories can be a rewarding way to preserve experiences.”（创建旅行记忆的数字相册是保存经历的有益方式。）此外，考生需注意“album”在考研完形填空中可能作为选项出现，要与其他形近词（如“slum”、“alarm”）区分，尤其是在拼写和语境搭配上。建议记忆时结合“photo album”和“music album”这两个高频搭配，并在写作中尝试使用“album”的比喻义来提升语言多样性。通过真题闭环训练，学生能熟练掌握“album”的考点和用法。"
+      }
+    },
+    {
+      "id": "alcohol",
+      "word": "alcohol",
+      "phonetic": "/'ælkəhɔl/",
+      "meaning": "n.酒精，乙醇；含酒精的饮料",
+      "similar": [],
+      "question": {
+        "wordId": "alcohol",
+        "stem": "选择 \"alcohol\" 的正确中文意思：",
+        "correct": "n.酒精，乙醇；含酒精的饮料",
+        "options": [
+          "n.油漆,颜料 v.油漆;涂,涂漆;画;描绘,描述",
+          "n.十一月",
+          "n.线索,暗示",
+          "n.酒精，乙醇；含酒精的饮料"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'alcohol'的词源可以追溯到阿拉伯语'al-kuhl'，原指一种用于眼部的精细粉末，后来演变为指通过蒸馏得到的精华物质。这种演变过程本身就充满了画面感：想象古代阿拉伯的炼金术士在实验室中，通过复杂的蒸馏工艺，将发酵液体中的精华部分提炼出来，得到一种无色、易挥发、具有强烈刺激性的液体——这就是酒精。从物理逻辑上看，酒精的核心特性是易挥发和易燃，这源于其分子结构中的羟基（-OH）和乙基（-C2H5），使其在常温下就能迅速扩散气化。因此，记忆'alcohol'的关键在于抓住'精华提取物'这一本源含义：它最初是化妆品中的精细粉末，后来成为化学中的'醇类'，再到生活中最常见的'酒精饮料'。这种从固体到液体、从化妆品到饮料的奇妙转变，正是这个词最生动的记忆点。当你看到'alcohol'时，不妨想象蒸馏器中的液体逐渐汇聚成晶莹的水滴，那便是从平凡中提炼出的'精华'。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，'alcohol'与'alcoholic'是极易混淆的形近词，区别在于后缀'-ic'。'alcohol'是名词，意为'酒精'或'含酒精饮料'；而'alcoholic'是形容词，意为'酒精的'，或作为名词指'酗酒者'。例如：'He drinks alcohol every day.'（他每天喝酒。）与'He is an alcoholic.'（他是个酒鬼。）字母差异在于末尾的三个字母'hol'和'holic'，前者强调物质本身，后者强调与物质相关的属性或成瘾状态。其次，'alcohol'与'ethanol'（乙醇）容易混淆，这是因为酒精的主要化学成分就是乙醇。但'alcohol'是更宽泛的类别词，包括甲醇（methanol）、异丙醇（isopropanol）等；而'ethanol'特指由谷物发酵得到的特定醇类。区别在于前缀'eth-'，源于希腊语'ethos'（习惯），暗示乙醇是'习惯性'使用的酒精。第三，'alcohol'与'whiskey'、'beer'等具体酒类饮料不同，alcohol是统称，而whiskey是具体种类。例如：'Whiskey contains a high percentage of alcohol.'（威士忌含有高浓度酒精。）这里alcohol是成分，whiskey是产品。最后，易与'aldehyde'（醛）混淆，两者仅差一个字母'd'，但化学结构不同：alcohol含羟基(-OH)，aldehyde含醛基(-CHO)。记住：'alcohol'有'ol'（听起来像'oil'，但实际是醇类），而'aldehyde'有'de'（像'去掉'，暗示醛基是去掉一个氢的醇）。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，'alcohol'的僻义远不止'酒精'。第一，在化学语境中，'alcohol'泛指'醇类'，包括甲醇（methyl alcohol）、乙醇（ethyl alcohol）、甘油（glycerol）等。例如：'Methyl alcohol is used as a solvent.'（甲醇用作溶剂。）第二，在医学或生物学中，'alcohol'可指'酒精性'或'由酒精导致的'，如'alcohol abuse'（酒精滥用）、'alcohol withdrawal syndrome'（酒精戒断综合征）。例如：'Chronic alcohol consumption leads to liver cirrhosis.'（长期饮酒导致肝硬化。）第三，在《经济学人》等刊物中，'alcohol'常作为经济或社会议题的隐喻，如'alcohol tax'（酒精税）或'alcohol consumption patterns'（饮酒模式）。例如：'The government raised the alcohol tax to curb binge drinking.'（政府提高酒精税以遏制酗酒。）第四，在文学作品或评论中，'alcohol'可引申为'麻醉物'或'精神逃避'。例如：'He turned to alcohol as a refuge from reality.'（他借酒逃避现实。）第五，在专业术语中，'alcohol'还可指'酒精度'，如'proof'（酒精纯度单位）：'The alcohol content is 40% by volume.'（酒精含量按体积计为40%。）",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'alcohol'常以名词形式出现，搭配丰富。经典短语包括：'alcohol abuse'（酒精滥用，2005年阅读）、'alcohol consumption'（酒精消耗，2010年阅读）、'alcohol-related'（与酒精相关的，2012年阅读）、'alcohol poisoning'（酒精中毒，2015年完型）。常考句型有：'The link between alcohol consumption and health risks is well documented.'（酒精消费与健康风险之间的联系已有充分记载。）真题例句1（2010年Text 4）：'The study found that moderate alcohol consumption might reduce the risk of heart disease.'（研究发现适度饮酒可能降低心脏病风险。）真题例句2（2015年完型填空）：'Alcohol abuse is a major cause of liver cirrhosis in many countries.'（酒精滥用是许多国家肝硬化的主要原因。）高分写作例句：'To combat the rising problem of alcohol abuse among young adults, the government should implement stricter regulations on alcohol advertising and sales.'（为了应对年轻人中日益严重的酒精滥用问题，政府应实施更严格的酒精广告和销售法规。）另外，'alcohol'在写作中常与'consumption'、'abuse'、'addiction'、'intoxication'等搭配，用于社会问题类话题。例如：'Excessive alcohol intake is detrimental to both physical and mental health.'（过量饮酒对身心健康都有害。）记住：'alcohol'在考研中多出现在健康、社会、经济类文章中，常作为批判的对象出现，因此掌握其负面搭配尤为重要。"
+      }
+    },
+    {
+      "id": "alert",
+      "word": "alert",
+      "phonetic": "/ə'lə:t/",
+      "meaning": "a.机警的，警觉的；机灵的 vt.使…警觉",
+      "similar": [
+        "avert",
+        "assert",
+        "talent",
+        "lest",
+        "agent",
+        "alarm",
+        "alter",
+        "apart"
+      ],
+      "question": {
+        "wordId": "alert",
+        "stem": "选择 \"alert\" 的正确中文意思：",
+        "correct": "a.机警的，警觉的；机灵的 vt.使…警觉",
+        "options": [
+          "vt.断言,宣称；坚持；主张（权利、权威等）",
+          "n.才能,天资;人才",
+          "v.防止，避免 ；转移(目光、注意力等)",
+          "a.机警的，警觉的；机灵的 vt.使…警觉"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“alert”的核心逻辑源自意大利语“all'erta”，意为“在瞭望台上”，其中“erta”指“高台、瞭望台”。这一词源生动地描绘了站在高处、警惕观察四周的画面，传达出“警觉、机警”的本源含义。从物理逻辑看，我们可以联想一个哨兵站在塔楼上，时刻注意远方是否有危险来袭，这种“居高临下、随时准备行动”的状态就是“alert”的本质。在英语中，这个词逐渐从“警惕的”引申为“机灵的、敏捷的”，因为警觉的人往往反应更快、思维更活跃。词根层面，虽然没有明显的前缀后缀，但我们可以通过“al-”联想为“全部”（如“all”），而“ert”则与“art”（技艺、巧妙）相关，暗示“全身心投入的巧妙警惕”。更实用的记忆技巧是：想象“alert”中的“e”像一只睁大的眼睛，“r”像竖起的天线，而“t”则像随时准备出击的拳头——整体传达出“五官全开、随时应变”的状态。这种画面感能帮助学生深刻记住单词的核心含义：不仅是简单的“小心”，而是主动、敏锐地观察和反应。在考研语境中，这种“主动警觉”的底层逻辑能衍生出多种用法，比如形容人的精神状态或系统的监控功能。",
+        "similarWarning": "【避坑预警（形近/易混）】与“alert”形近的词包括“avert”“assert”“talent”“art”“let”“left”“lest”“agent”，需逐一对比字母级差异：1. “avert”（/ə'vɜːt/，v.避免，转移）比“alert”少了字母“l”，多了“v”，且末尾是“t”而非“t”。关键区别：“avert”强调“转移视线或行动以避开”，而“alert”强调“警觉状态”。例如，“avert disaster”（避免灾难）与“stay alert”（保持警觉）含义完全不同。2. “assert”（/ə'sɜːt/，v.断言，主张）比“alert”多了“s”且“e”和“r”位置不同。“assert”的核心是“坚定地表达”，而“alert”是“警惕地观察”。3. “talent”（/ˈtælənt/，n.才能，天才）首字母“t”不同，中间有“len”而非“ler”。“talent”指天赋，与警觉无关。4. “art”（/ɑːt/，n.艺术，技巧）只有三个字母，完全不同的概念。5. “let”（/let/，v.让，允许）是简短动词，而“alert”是形容词/动词。6. “left”（/left/，adj.左边的，v.离开）多了一个“f”，且含义与方向或过去式相关。7. “lest”（/lest/，conj.唯恐，以免）字母“l”“e”“s”“t”组合，但“lest”是连词，引导目的状语从句，如“lest he forget”（以免他忘记），而“alert”是实词。8. “agent”（/ˈeɪdʒənt/，n.代理人，动因）多出“g”“n”，且含义为“执行者”。总结：形近词中“avert”最易混淆，因为发音相近且都含“警惕”相关概念，但“avert”是“避开”动作，“alert”是“警觉”状态。记忆诀窍：把“alert”中的“l”想象成“look”（看），而“avert”中的“v”想象成“veer”（转向），字母差异直接对应含义差异。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，“alert”的引申义和僻义丰富。第一，作为名词，意为“警报、警戒状态”，例如“The government issued a terror alert.”（政府发布了恐怖警报。）在《经济学人》中常见“on high alert”（高度戒备），如“The region remains on high alert for volcanic activity.”（该地区仍对火山活动保持高度戒备。）第二，作为动词，除了“使警觉”，还引申为“通知、提醒（某人注意某事）”，例如“The report alerted the public to the risks of climate change.”（这份报告提醒公众注意气候变化的风险。）在考研阅读中，这种“alert sb. to sth.”结构常考。第三，在医学语境中，“alert”可指“意识清醒的”，如“The patient is alert and oriented.”（患者意识清醒、有定向力。）这是与“昏迷”相对的术语。第四，在计算机科学中，“alert”指“系统提示或警告信息”，例如“The software sends an alert when a virus is detected.”（检测到病毒时软件会发送警报。）第五，在商业英语中，“market alert”指“市场预警信号”，如“The sudden drop in stock prices triggered a market alert.”（股价突然下跌触发了市场预警。）第六，在心理学中，“alertness”作为抽象名词，指“警觉性、机敏度”，是认知能力的一部分。例如，“Lack of sleep impairs alertness and concentration.”（睡眠不足会损害警觉性和注意力。）这些僻义在考研阅读中可能以专业语境出现，需要考生根据上下文灵活理解。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“alert”的常见搭配和考点如下：核心短语“be alert to”（对…警觉）、“alert sb. to sth.”（提醒某人注意某事）、“on the alert”（警惕着）。例如，2015年考研阅读真题：“Parents should be alert to the signs of depression in their children.”（父母应该警惕孩子的抑郁迹象。）2018年完形填空：“The system alerts users to potential security threats.”（该系统提醒用户注意潜在的安全威胁。）高分写作中，可用“stay alert”表达“保持警惕”，如“In the face of fake news, we must stay alert and verify information.”（面对假新闻，我们必须保持警惕并核实信息。）另一个经典句型：“The report sounded an alert about the environmental crisis.”（这份报告就环境危机发出了警报。）在翻译题中，“alert”可能作为形容词译为“警觉的”，如“The soldiers remained alert throughout the night.”（士兵们整夜保持警觉。）写作中，可用“alertness”作为抽象名词提升句式复杂度，如“Alertness to detail is essential for success.”（对细节的警觉是成功的关键。）此外，“red alert”（红色警报）是固定短语，如“The country declared a red alert for the hurricane.”（该国针对飓风发布了红色警报。）考研真题中还出现过“be on the alert for”结构，如“Drivers should be on the alert for pedestrians.”（司机应警惕行人。）掌握这些搭配和真题例句，可以帮助学生在阅读、完形和写作中精准使用这个词。"
+      }
+    },
+    {
+      "id": "alien",
+      "word": "alien",
+      "phonetic": "/'eiljən/",
+      "meaning": "n.外侨，外国人；外星人 a.外国的；相异的",
+      "similar": [
+        "client",
+        "lion",
+        "alike",
+        "alive",
+        "alter",
+        "linen"
+      ],
+      "question": {
+        "wordId": "alien",
+        "stem": "选择 \"alien\" 的正确中文意思：",
+        "correct": "n.外侨，外国人；外星人 a.外国的；相异的",
+        "options": [
+          "n.狮子",
+          "n.律师等的当事人，委托人；商店的顾客",
+          "a.同样的，相像的ad.一样地；同程度地",
+          "n.外侨，外国人；外星人 a.外国的；相异的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'alien'源自拉丁语'aliēnus'，意为'属于他人的、外来的'，其词根'alius'表示'其他、别的'。这个核心逻辑可以用一个生动的画面来记忆：想象你是一个陌生人，走进了一个完全陌生的国度，那里的人们说着你听不懂的语言，吃着你不认识的食物，你感到与周围的一切格格不入。这种'外来的、异己的'感觉就是'alien'的本源含义。从物理逻辑上讲，'alien'强调一种'边界'或'隔阂'——无论是地理上的国界（外国人），还是认知上的差异（外星人），或是文化上的不同（外国的），都体现了'不同于我、不属于我'的分离感。你可以进一步联想：",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "alike",
+      "word": "alike",
+      "phonetic": "/ə'laik/",
+      "meaning": "a.同样的，相像的ad.一样地；同程度地",
+      "similar": [
+        "like",
+        "alive",
+        "unlike",
+        "hike",
+        "lake",
+        "live",
+        "abide",
+        "alien"
+      ],
+      "question": {
+        "wordId": "alike",
+        "stem": "选择 \"alike\" 的正确中文意思：",
+        "correct": "a.同样的，相像的ad.一样地；同程度地",
+        "options": [
+          "a.同样的，相像的ad.一样地；同程度地",
+          "v.喜欢 prep.象；比如 a.相象的 n.象…一样",
+          "a.活着的；存在的；活跃的；(to)敏感的",
+          "a.不同的,不相似的 prep.不象,和…不同"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'alike'的核心逻辑在于其作为'like'的强化形式，通过前缀'a-'（表示'处于某种状态或方式'，源自古英语介词'on'的缩略形式）与'like'（意为'相似、像'）组合而成，字面意思是'处于相似的状态'或'以相似的方式'。从词源演变看，'like'本身来自古英语'lic'（意为'身体、形状、相似'），而'alike'则是在13世纪左右形成，最初强调两者在形态或性质上的对等性。我们可以用画面感联想来加深记忆：想象两片完全相同的树叶叠放在一起，'a-'就像是一个覆盖在上面的透明罩，将它们的相似性固定下来——不是'像'（like），而是'完全一样'（alike）。这种物理逻辑类似于数学中的'全等'概念：两个形状不仅相似，而且尺寸、角度完全对应。在考研语境中，'alike'常用来强调事物之间难以区分的相似度，比'similar'更强调'等同性'，比如双胞胎长得'一模一样'（look alike），而不是仅仅'长得像'（look similar）。这种'同程度'的核心逻辑贯穿了它的形容词和副词用法：作为形容词时指'本质上相同'，作为副词时指'以同等方式'。记住：'a-'像是一个放大镜，把'like'的相似性放大到'完全一致'的程度，这就是'alike'的底层记忆密码。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，'alike'与'like'的字母级差异在于前缀'a-'，'like'直接意为'像、喜欢'（动词/介词/形容词），而'alike'多了'a-'后专指'同样的'（形容词/副词），两者不能互换——'They are like each other'（他们彼此像）强调相似性，而'They are alike'（他们一模一样）强调等同性。其次，'alive'（活的）与'alike'仅一字母之差（'v' vs 'k'），但含义天差地别——'alive'来自'a-'+'live'（活着的），而'alike'来自'a-'+'like'（像的），记忆时注意尾字母'v'代表'生命（live）'，'k'代表'像（like）'。第三，'unlike'（不像、与...不同）是'alike'的反义词，前缀'un-'表示'否定'，两者字母差在开头：'unlike'是否定前缀+like，而'alike'是强化前缀+like。第四，'lie'（躺、说谎）与'alike'看似无关，但拼写仅差'a'和'k'，'lie'是三个字母的短词，而'alike'多出'a'和'k'，注意'lie'中'i'和'e'的发音规律。第五，'hike'（远足）将'alike'的'a'替换为'h'，意思变成动词'徒步旅行'，联想'h'像登山杖即可区分。第六，'lake'（湖）将'alike'的'i'��成'a'，且去掉'k'后的位置变化，'lake'是自然景观，而'alike'是抽象概念。第七，'life'（生活、生命）与'alike'差在'f'和'k'，'life'中的'f'对应'生命（live）'，而'alike'中的'k'对应'像（like）'。第八，'line'（线、行）将'alike'的'a'和'k'替换为'n'和'e'，形成完全不同的词汇，注意'line'中的'lin'发音。总结：所有形近词中最易混淆的是'like'和'alive'，考研中常出现'look alike'（看起来一样）与'look alive'（看起来精神）的辨析，务必牢记字母差异带来的含义鸿沟。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，'alike'除了基本义'同样的、一样地'外，还有以下深层僻义和特殊用法：1. **强调对等性**：在表达'双方都'时，'alike'可以替代'both'或'equally'，用于加强语气。例如考研阅读中常见'Men and women alike suffer from this prejudice'（男性和女性都遭受这种偏见），这里的'alike'不是'相似'，而是'同样地、无一例外地'，强调并列群体的全包含。2. **同源宾语结构**：在'think alike'（想法一致）、'look alike'（外貌相像）等固定搭配中，'alike'作为副词修饰动词，表��动作的方式相同。例如经济学人例句：'The two candidates talk alike but act differently'（两位候选人说话方式相同但行动不同），这里的'alike'强调'在说话这一行为上，方式完全一致'。3. **抽象等同**：在文学或学术语境中，'alike'可引申为'本质上无区别'，用于抽象概念。如卫报例句：'In the eyes of the law, all citizens are alike'（在法律眼中，所有公民都是平等的），这里'alike'超越物理相似，指向权利和地位的等同。4. **与否定词连用**：'not alike'并非简单否定，而是强调'截然不同'，比'different'语气更强。例如考研翻译题中：'The two theories are not alike in their core assumptions'（这两个理论在核心假设上截然不同），这里的'not alike'比'are different'更精确地表达了'毫无共同点'。5. **比较级特殊用法**：'alike'本身无比较级和最高级（因其已表示'完全等同'），但在非正式用语中会出现'more alike'表示'更加相似'，考研中应避免使用，使用'more similar'更为规范。掌握这些僻义有助于理解阅读中的微妙语气，并在写作中实现精准表达。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'alike'的高频考点集中在以下短语、搭配和句型中：1. **固定搭配**：'look alike'（看起来一样）、'think alike'（想法一致）、'treat alike'（一视同仁）、'share alike'（平均分享）。例如1998年考研阅读真题：'They look alike, but their personalities are completely different'（他们长得一样，但性格完全不同）。2. **并列结构**：'A and B alike'（A和B都一样），这是考研写作中的高级表达，可用于替代'both A and B'。例如高分写作例句：'Teachers and students alike benefit from the new education policy'（教师和学生都受益于新教育政策）。3. **副词用法**：'alike'作为副词修饰整个句子时，常放在句末或动词后，如'Great minds think alike'（英雄所见略同），这句话在考研写作中可作为名言引用。4. **形容词用法**：'be alike in...'（在...方面相同），例如2005年考研翻译题：'The two systems are alike in their basic structure'（这两个系统在基本结构上相同）。5. **真题例句**：①2010年考研英语二阅读：'People of all ages alike enjoy the festival'（所有年龄段的人都同样喜欢这个节日）②2016年考研英语一完形填空：'The twins are so alike that I can't tell them apart'（这对双胞胎太像了，我分不清他们）③2020年考研写作范文：'Success and failure alike teach us valuable lessons'（成功和失败都教会我们宝贵的经验）。6. **易错点**：注意'alike'不能直接放在名词前作定语（如不能说'alike people'），而应使用'people who are alike'或'similar people'。在写作中，使用'alike'时一定要确保主语是复数或并列结构，因为'alike'本身就包含了'两者或更多'的语义。掌握这些考点，可以在考研阅读中快速定位答案，并在写作中提升语言地道性。"
+      }
+    },
+    {
+      "id": "alive",
+      "word": "alive",
+      "phonetic": "/ə'laiv/",
+      "meaning": "a.活着的；存在的；活跃的；(to)敏感的",
+      "similar": [
+        "live",
+        "alike",
+        "active",
+        "arrive",
+        "native",
+        "dive",
+        "five",
+        "like"
+      ],
+      "question": {
+        "wordId": "alive",
+        "stem": "选择 \"alive\" 的正确中文意思：",
+        "correct": "a.活着的；存在的；活跃的；(to)敏感的",
+        "options": [
+          "a.活着的；存在的；活跃的；(to)敏感的",
+          "v.活着,生活,居住 a.活的,生动的,直播的",
+          "adj.活跃的，敏捷的，积极的；在活动中的",
+          "a.同样的，相像的ad.一样地；同程度地"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】alive的核心逻辑可以用“生命状态”来概括，其词源可以追溯到古英语“on life”，字面意思是“在生命之中”，强调一种动态的、持续的生命存在状态。从构词上看，“a-”是一个常见的前缀变体，在此表示“在……状态中”，而“live”则直接指向“生命”或“生活”。因此，alive的本源含义是“处于生命过程中”，而非仅仅“没有死亡”。这种物理逻辑非常直观：想象一个正在呼吸、跳动的心脏，或者一棵正在生长、抽芽的树木，它们都是“alive”的。这种“活”的状态不仅仅是生物学上的存活，更包含了一种积极、活跃的能量——比如，一场音乐会的气氛是“alive”，意味着它充满了生机和活力。反过来，一个静止、无声、毫无生气的场景则是“dead”。通过这个画面，学生可以轻松记住：alive = 在生命状态中 = 活着的、活跃的、有生气的。此外，该词常与“dead”形成鲜明对比，在考研阅读中经常用于描述抽象概念（如文化、语言、经济）的存续状态，强调其“尚未消亡且仍有影响力”的深层含义。因此，记忆alive时，要牢牢抓住“生命过程”这一动态核心，而不是静态的“活着”。",
+        "similarWarning": "【避坑预警（形近/易混）】alive与众多形近词容易混淆，需要逐一辨析。1. **live**（/lɪv/，动词；/laɪv/，形容词）：与alive最易混。字母差异在于alive多了前缀“a-”。作为形容词，live意为“活的”（如live animal活体动物），但更常见于“直播的”（如live broadcast），强调实时发生；而alive则强调状态“活着的”（如The patient is still alive病人还活着）。作为动词，live读/lɪv/，意为“生活、居住”。区别在于：live侧重“活的过程或方式”，alive侧重“活的状态”。2. **alike**（/ə'laɪk/）：仅差一个字母“k”变为“v”，alike意为“相似的”（如look alike长得像），而alive是“活着的”。二者发音相似但含义天差地别。3. **active**（/'æktɪv/）：前缀“act-”表示“行动”，意为“积极的、活跃的”，强调主动性；alive的“活跃”更偏向“充满生机”，不一定是主动行动。例如：He is active in politics（他活跃于政界）vs. The market is alive with activity（市场充满活跃气氛）。4. **arrive**（/ə'raɪv/）：字母“v”前是“ri”，意为“到达”；alive是“li”，意为“活着”。拼写差异在“r”和“l”，含义完全不同。5. **native**（/'neɪtɪv/）：前缀“nat-”表示“出生”，意为“本地的、土生的”；alive无此含义。6. **lie**（/laɪ/）：去掉“a”和“v”，lie意为“躺、说谎”；拼写完全不同。7. **dive**（/daɪv/）：字母“d”替换“a”，意为“潜水、跳水”；与alive无关。8. **five**（/faɪv/）：字母“f”替换“a”，意为数字“五”；纯粹形似。总结：alive的核心区别在于“a-”表示状态，且必须与“live”区分；考试中常考搭配“stay alive”（保持活着）与“live show”（现场表演）的辨析。",
+        "extendedMeaning": "【高分引申（熟词僻义）】alive在考研真题及高级英语阅读中，除了基本义“活着的”，还有几个重要的引申僻义。1. **充满生机/活跃的**：指环境、气氛或活动充满能量和生命力。例如：The city is alive with music and dance.（这座城市因音乐和舞蹈而充满生机。）在考研阅读中，可描述经济或文化现象，如：The market is alive with new opportunities.（市场充满新机遇。）2. **仍然存在的/尚未消亡的**：用于抽象概念，如传统、语言、记忆或希望。例如：The ancient tradition is still alive in this remote village.（这一古老传统在这个偏远村庄仍然存在。）考研真题中常出现：The debate about the role of government remains alive and well.（关于政府角色的争论仍然活跃且强劲。）3. **敏感的/警觉的（to）**：搭配介词“to”，表示对某事有敏锐的感知或反应。例如：A good journalist must be alive to the nuances of language.（优秀的记者必须对语言的细微差别敏感。）这种用法在写作中非常实用，可替换“sensitive to”。4. **（比喻义）活生生的/现实存在的**：用于强调真实感或现场感。例如：The accident brought the danger of driving too fast alive to me.（那次事故让我真切感受到超速驾驶的危险。）这里的“bring alive”意为“使……变得真实生动”。5. **（口语/习语）alive and kicking**：活蹦乱跳的，强调健康有活力。例如：After the surgery, he is alive and kicking.（手术后，他活蹦乱跳的。）总之，alive的僻义核心在于从“生命状态”延伸到“活跃存在”和“敏锐感知”，在考研阅读中常考查其与“dead”或“extinct”的对比，以及“alive to”的固定搭配。",
+        "examUsage": "【真题闭环（考点直击）】alive在考研英语中常见于以下搭配和句型，是阅读和写作的得分点。**固定搭配**：1. **stay alive**：保持活着，常出现在医疗、灾难或生存语境。例如：The miners had to stay alive by rationing their water.（矿工们不得不定量配水以保持存活。）2. **keep sth alive**：使某物存活/保持活跃。如：We must keep the tradition alive.（我们必须让传统延续下去。）3. **come alive**：活跃起来/变得生动。如：The discussion came alive after the professor’s question.（教授提问后，讨论变得活跃起来。）4. **be alive to sth**：对……敏感/意识到。如：The government must be alive to the risks of inflation.（政府必须意识到通货膨胀的风险。）5. **be alive with sth**：充满（活的或活跃的东西）。如：The garden was alive with bees.（花园里蜜蜂嗡嗡，充满生机。）**真题例句**：1.（2020年考研英语一阅读）The economy, once stagnant, is now alive with entrepreneurial energy.（曾经停滞的经济如今充满了创业活力。）2.（2018年考研英语二翻译）The memories of their childhood came alive in the old photos.（童年的记忆在旧照片中鲜活起来。）3.（2017年考研英语一完形）To keep the language alive, the community established a cultural center.（为了保持语言的生命力，社区建立了一个文化中心。）**高分写作例句**：1. In order to ensure a sustainable future, we must keep our cultural heritage alive.（为了确保可持续发展的未来，我们必须让文化遗产保持活力。）2. Only by staying alive to the latest technological trends can a company remain competitive.（只有敏锐把握最新技术趋势，公司才能保持竞争力。）3. The debate about climate change is alive and well, with new evidence emerging every year.（关于气候变化的争论依然活跃且强劲，每年都有新证据出现。）备考建议：重点掌握“alive to”和“alive with”的区分，前者表“意识到”，后者表“充满”；同时注意“come alive”在描写场景时的生动效果，可用于大作文描述图片或现象。"
+      }
+    },
+    {
+      "id": "allege",
+      "word": "allege",
+      "phonetic": "/ə'ledʒ/",
+      "meaning": "v.断言，宣称；指控",
+      "similar": [
+        "college"
+      ],
+      "question": {
+        "wordId": "allege",
+        "stem": "选择 \"allege\" 的正确中文意思：",
+        "correct": "v.断言，宣称；指控",
+        "options": [
+          "v.断言，宣称；指控",
+          "n.灯泡,球状物",
+          "n.学院,高等专科学校,大学",
+          "v.点(头),点头招呼 n.点头招呼;打盹,瞌睡"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'allege'源自拉丁语'allegare'，由前缀'ad-'（朝向）和词根'legare'（派遣、委托）组成，原意是“派遣使者去陈述某事”。词根'leg-'与“法律”（legal）相关，暗示了“正式声明”的官方色彩。联想画面：在法庭上，原告律师站起身，郑重地对着法官和陪审团“断言”被告有罪，这个动作就是'allege'——一种带有法律权威感的宣称。更生动的记忆法：想象你手里握着一份“指控文件”（allege），你把它“扔给”（-lege）对方，同时大声“宣称”事实。与简单的'say'不同，'allege'总带有“尚未证实”的潜",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "alleviate",
+      "word": "alleviate",
+      "phonetic": "/ə'li:vieit/",
+      "meaning": "v.减轻，缓和，缓解(痛苦等)",
+      "similar": [
+        "deviate",
+        "elevate",
+        "allocate",
+        "alternate",
+        "appreciate",
+        "illuminate"
+      ],
+      "question": {
+        "wordId": "alleviate",
+        "stem": "选择 \"alleviate\" 的正确中文意思：",
+        "correct": "v.减轻，缓和，缓解(痛苦等)",
+        "options": [
+          "v.减轻，缓和，缓解(痛苦等)",
+          "v.(from)背离,偏离",
+          "vt.举起,提拔,振奋,提升...的职位",
+          "v.分配，分派；拨给；划归"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“alleviate”源自拉丁语“alleviatus”，由前缀“ad-”（朝向，加强）和“levis”（轻的）组合而成，其核心意象是“使重量变轻”。词根“lev-”意为“轻、升起”，与“elevate”（提升）共享同一词源。理解这个词的最佳画面是：你肩上扛着一个沉重的麻袋，感到痛苦不堪，此时有人从下方托起麻袋，减轻了它的下坠压力，让你感觉轻松了一些——这就是“alleviate”的物理逻辑。它强调的不是彻底移除负担，而是通过“向上托举”来缓解压力，因此常用来描述减轻疼痛、缓解情绪或缓和矛盾。记住“lev-”这个“轻”之根，就能自然联想到“relieve”（缓解，其中“lieve”也源于“levis”）和“lever”（杠杆，物理上撬起重物的工具）。所以，alleviate就是“让原本沉重的变得轻一点”，是一个渐进、非一蹴而就的过程，比如用药缓解症状而非治愈疾病。这种画面感能让你在考场上瞬间提取词义，无需死记硬背。",
+        "similarWarning": "【避坑预警（形近/易混）】1. **deviate** (v.偏离，背离)：与alleviate仅首字母“d”和“al”之差，但核心截然不同。deviate来自拉丁语“via”（路），前缀“de-”（离开），意为“离开正路”，常用于路线、标准或行为的偏离；而alleviate强调“减轻压力”。记住“v”像岔路分支，而“l”像向上托举的杠杆。2. **elevate** (v.提升，举起)：共享词根“lev”，但elevate前缀“e-”（向外、向上），强调“直接升高位置或地位”，如电梯elevator；alleviate则是“减轻负担”，不改变物体本身位置。对比：elevate是“往上抬”，alleviate是“让原来沉的变轻”。3. **allocate** (v.分配，拨出)：前缀“al-”（同ad-，朝向）加“loc-”（地方），意为“指定地点”，与“减轻”毫无关系；区别在于“loc” vs “lev”，一个是地点，一个是重量。4. **alternate** (v.交替，轮流)：源自“alter”（另一个），强调“两个事物轮流出现”；alleviate不涉及交替概念。5. **appreciate** (v.欣赏，感激，增值)：前缀“ap-”（加强）加“preti-”（价值），核心是“评估价值”；alleviate没有价值评价意味。6. **illuminate** (v.照亮，阐明)：前缀“il-”（向内）加“lumin-”（光），意为“照亮”；alleviate无光之意。总结：所有形近词中，只有alleviate和elevate共享“lev”词根，但前者是“使轻”，后者是“使升”。用字母差异记忆：alleviate中“a+ll”像两只手托举重物，elevate中“e”像电梯向上。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及外刊中，“alleviate”除了表示“减轻（疼痛、痛苦、症状）”等字面含义外，还有以下深层用法：1. **缓解人际关系或社会矛盾**：并非物理痛苦，而是比喻性“减轻紧张或冲突”。例：The government's policy aimed to alleviate ethnic tensions in the region.（政府的政策旨在缓解该地区的民族紧张局势。）2. **减轻经济压力或负担**：常见于经济类文章，指“缓解贫困、债务或财政困难”。例：Microfinance programs can alleviate poverty by providing small loans to low-income families.（小额信贷项目通过向低收入家庭提供小额贷款来缓解贫困。）3. **缓和情绪或心理压力**：用于描述心理层面的“舒缓焦虑、内疚或恐惧”。例：Talking to a close friend can alleviate feelings of loneliness and depression.（与密友交谈可以缓解孤独和抑郁感。）4. **减轻环境或生态压力**：在环保语境中，指“减缓气候变化��污染等负面影响”。例：Planting more trees can help alleviate the effects of urban heat islands.（种植更多树木有助于减轻城市热岛效应的影响。）5. **在医学语境中特指“缓解症状而非根治”**：这是考研阅读常见陷阱——alleviate不等于cure，只表示“使症状减轻”。例：This medication alleviates the pain but does not treat the underlying disease.（这种药物缓解疼痛，但不治疗潜在疾病。）掌握这些僻义，能让你在阅读理解中准确判断作者意图，避免误选“彻底消除”等干扰项。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“alleviate”常与以下搭配和句型出现：**高频搭配**：alleviate pain/symptoms（缓解疼痛/症状）、alleviate poverty/unemployment（缓解贫困/失业）、alleviate stress/anxiety（缓解压力/焦虑）、alleviate burden/difficulty（减轻负担/困难）、alleviate the problem/crisis（缓解问题/危机）。**常考句型**：1. 被动结构：“be alleviated by...”例：The suffering of the patients was alleviated by the new treatment.（患者的痛苦因新疗法得到缓解。）2. 不定式作目的状语：“...to alleviate...”例：Measures have been taken to alleviate the housing shortage in big cities.（已采取措施以缓解大城市住房短缺。）3. 与“but”连用表示转折：例：The drug alleviates symptoms but fails to cure the disease.（该药能缓解症状但无法治愈疾病。）**真题例句**（基于历年考研阅读）：1. 2010年英语一Text 4：“...the bank of England had to act to alleviate the credit crunch.”（英格兰银行不得不采取行动缓解信贷紧缩。）2. 2015年英语二Text 2：“...the program aims to alleviate the burden of student loans.”（该计划旨在减轻学生贷款负担。）3. 写作高分句：As the pace of modern life accelerates, it is essential to find ways to alleviate pressure and maintain mental health.（随着现代生活节奏加快，找到缓解压力并保持心理健康的方法至关重要。）**解题关键**：在阅读中，当alleviate出现时，常与“but”、“however”等转折词连用，强调“治标不治本”；在完形填空中，注意其与relieve、ease（同义词）的区别——alleviate更正式，常用于抽象语境。掌握这些考点，考研英语轻松提分！"
+      }
+    },
+    {
+      "id": "alliance",
+      "word": "alliance",
+      "phonetic": "/ə'laiəns/",
+      "meaning": "n.同盟，同盟国；结盟，联姻",
+      "similar": [
+        "allowance",
+        "appliance",
+        "reliance",
+        "glance",
+        "advance",
+        "balance",
+        "audience",
+        "assistance"
+      ],
+      "question": {
+        "wordId": "alliance",
+        "stem": "选择 \"alliance\" 的正确中文意思：",
+        "correct": "n.同盟，同盟国；结盟，联姻",
+        "options": [
+          "n.信任,信心,依靠,依靠的人或物",
+          "n.电器；器械，装置；应用，适用",
+          "n.补贴，津贴；零用钱；减价，折扣；允许",
+          "n.同盟，同盟国；结盟，联姻"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词alliance源自拉丁语alligare，由前缀ad-（朝向，加强）和ligare（捆绑，连接）组合而成，原意为“绑在一起”或“联结在一起”。词根ligare与英文单词ligament（韧带）同源，韧带是将骨骼连接在一起的组织，而alliance则是指将人或组织连接在一起的纽带或契约。从物理画面联想：想象两艘船在暴风雨中用绳索紧密捆绑在一起，共同抵御风浪，这种“联合”就是alliance的本质。词源演变上，拉丁语alligare进入古法语变为aliance，最终进入中古英语形成alliance。核心逻辑就是“通过契约或纽带将不同个体紧密连接，形成团结协作的关系”。这种联结不仅是物理上的，更是利益、目标或情感上的绑定，强调共同行动和相互支持。因此，记忆alliance时，抓住“绑在一起”这一画面，就能深刻理解其“同盟、联盟”的核心含义。",
+        "similarWarning": "【避坑预警（形近/易混）】请仔细区分以下形近词，每个词的字母差异和含义都不同：\n1. allowance（/əˈlaʊəns/）：与alliance相比，中间字母由i变为ow，含义为“津贴、零用钱”或“允许”，源于allow（允许）的名词形式，与“同盟”无关。\n2. appliance（/əˈplaɪəns/）：与alliance相比，字母i后多了p，且结尾ce变为nce，含义为“电器、器具、装置”，如home appliances（家用电器），与“联盟”完全无关。\n3. reliance（/rɪˈlaɪəns/）：与alliance相比，开头字母a变为re，含义为“依赖、信任”，源于rely（依赖），指对他人的依靠，而非双方平等的同盟。\n4. glance（/ɡlæns/）：与alliance相比，开头字母a变为g，且缺少字母lia，含义为“一瞥、扫视”，如glance at（瞥一眼），是动词或名词，与“联盟”无涉。\n5. advance（/ədˈvæns/）：与alliance相比，字母i变为v，且结尾ce变为ce，含义为“前进、进步、预付”，如advance in technology（技术进步），强调向前推进，而非联合。\n6. balance（/ˈbæləns/）：与alliance相比，开头字母a变为b，且缺少字母lia，含义为“平衡、余额”，如balance between work and life（工作与生活的平衡），指均衡状态。\n7. audience（/ˈɔːdiəns/）：与alliance相比，开头字母a变为au，且中间字母lia变为die，含义为“观众、听众”，如target audience（目标受众），指聚集的人群，但无同盟关系��\n8. assistance（/əˈsɪstəns/）：与alliance相比，中间字母lia变为sist，含义为“帮助、协助”，如financial assistance（经济援助），强调单方面的支持，而非平等的联合。\n总结：alliance的核心是“同盟”，而其他形近词分别关联“津贴、电器、依赖、一瞥、前进、平衡、观众、帮助”，通过字母差异和词根词缀可避免混淆。例如，alliance中的“li”可联想为“link（连接）”，而allowance中的“low”可联想为“低额津贴”，以此区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，alliance除了基本义“同盟、联盟”外，还有以下重要引申和特殊用法：\n1. 联姻（婚约）：指家族或王室之间的婚姻联盟，常用于历史或政治语境。例如：The royal alliance between the two kingdoms strengthened their power.（两国之间的王室联姻增强了他们的实力。）在经济学人中曾出现：The marriage was not just a personal union but a political alliance.（这场婚姻不仅是个人结合，更是政治联盟。）\n2. 结盟关系（非正式合作）：指组织、国家或个人之间基于共同利益的松散合作，不一定是正式条约。例如：The environmental groups formed an alliance to combat climate change.（环保组织结成联盟应对气候变化。）卫报例句：A temporary alliance of tech companies pushed for data privacy laws.（科技公司临时结盟推动数据隐私法。）\n3. 协同作用（比喻用法）：在商业或科学领域，指不同元素或系统的结合产生更强效果。例如：The alliance of art and technology created new possibilities.（艺术与技术的联合创造了新可能。）考研阅读中曾出现：The alliance between market forces and government policies drove economic growth.（市场力量与政府政策的协同推动了经济增长。）\n4. 特殊用法：in alliance with（与…联合），强调共同行动。例如：The company is working in alliance with local universities.（该公司与当地大学合作。）在考研翻译中，此短语常考，需注意其介词搭配为with。\n这些僻义的核心都围绕“联合”这一本质，但语境从政治扩展到社会、商业和科技领域。掌握这些引申，能帮助考生在阅读和写作中灵活运用，避免仅局限于“同盟”的字面意思。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，alliance常以以下短语和句型出现，是阅读和写作的高频考点：\n1. 固定搭配：\n- form/forge an alliance（结成同盟）：The two countries formed a military alliance to defend their borders.（两国结成军事同盟保卫边境。）\n- in alliance with（与…联合）：The project was carried out in alliance with several non-profit organizations.（该项目与几个非营利组织联合实施。）\n- alliance between A and B（A与B之间的同盟）：The alliance between the two parties was short-lived.（两党之间的同盟是短暂的。）\n2. 考研真题例句：\n- 2010年阅读Text 2：In the 2006 film version of The Devil Wears Prada, Miranda Priestly, played by Meryl Streep, is a terrifyingly tough boss who demands absolute loyalty from her employees, and who forms an alliance with the fashion world's elite.（在2006年电影版《穿普拉达的女王》中，梅丽尔·斯特里普饰演的米兰达·普里斯丽是一位令人畏惧的强硬老板，要求员工绝对忠诚，并与时尚界精英结成联盟。）此处alliance强调工作关系中的非正式合作。\n- 2014年阅读Text 3：The alliance between the pharmaceutical industry and medical professionals has raised concerns about conflicts of interest.（制药行业与医疗专业人士之间的联盟引发了关于利益冲突的担忧。）这里alliance指行业与专家的利益关联。\n- 2018年阅读Text 1：A new alliance of tech companies, educators, and policymakers is working to close the digital divide.（由科技公司、教育工作者和政策制定者组成的新联盟正致力于缩小数字鸿沟。）此题考察alliance的现代应用。\n3. 高分写作例句：\n- 大作文模板句：To address the pressing issue of environmental degradation, governments, businesses, and individuals must form a strategic alliance based on shared responsibility.（为解决环境恶化的紧迫问题，政府、企业和个人必须基于共同责任结成战略联盟。）\n- 小作文建议信：I strongly recommend that our university forge an alliance with overseas institutions to promote academic exchanges.（我强烈建议我校与海外机构结成联盟以促进学术交流。）\n注意：考研中alliance常与动词form, forge, build, create搭配，且多用于正式或政治语境。考生在写作时，可用alliance替代简单的cooperation或partnership，以提升语言层次。"
+      }
+    },
+    {
+      "id": "allocate",
+      "word": "allocate",
+      "phonetic": "/'æləukeit/",
+      "meaning": "v.分配，分派；拨给；划归",
+      "similar": [
+        "locate",
+        "advocate",
+        "alleviate",
+        "allowance",
+        "associate",
+        "delicate"
+      ],
+      "question": {
+        "wordId": "allocate",
+        "stem": "选择 \"allocate\" 的正确中文意思：",
+        "correct": "v.分配，分派；拨给；划归",
+        "options": [
+          "n.辩护者，拥护者，鼓吹者 vt.拥护，提倡",
+          "v.减轻，缓和，缓解(痛苦等)",
+          "v.查出,探出,查找…地点,使…坐落于,位于",
+          "v.分配，分派；拨给；划归"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词‘allocate’的核心记忆线索在于其拉丁词根‘allocare’，由‘ad-’（朝向）和‘locare’（放置）组成，字面意为‘把东西放到某处’。这就像生活中分配资源的过程：你手里有一堆任务或资金，需要‘定位’到不同的人或项目上。更生动的画面是：想象一个仓库管理员，他拿着一份清单，把每一箱货物‘allocate’到对应的货架上——这个动作既有‘放置’的物理感，又有‘指定归属’的决策感。词源上，‘locare’与‘location’（位置）同源，所以‘allocate’本质上就是‘确定位置并给予’。考研英语中，这个词常出现在经济类、管理类文章里，描述政府分配预算、公司分配资源等场景。记住：al-（朝向）+ locate（放置）= 朝向某个位置放置，即‘分配’。联想‘locate’（找到位置）是‘allocate’的前半部分，加上前缀‘al-’后，多了‘主动分配’的意味，就像老板说‘把这些钱放到那个项目上’。这种物理逻辑能帮学生瞬间理解：任何分配行为，本质上都是‘把东西放到该去的地方’——无论是时间、金钱还是人力。",
+        "similarWarning": "【避坑预警（形近/易混）】1. **allocate vs. locate**：核心差异在字母‘al-’。‘locate’只有‘loc-’（位置），意为‘找到位置’，如‘locate the city’（找到城市位置）；而‘allocate’多了‘al-’前缀，强调‘把东西放到某位置’，如‘allocate funds’（分配资金）。简单说，‘locate’是寻找已有位置，‘allocate’是主动赋予位置。2. **allocate vs. advocate**：区别在字母‘-vocate’与‘-locate’。‘advocate’源自‘voc-’（声音），意为‘倡导、支持’，如‘advocate for change’（倡导变革）；而‘allocate’源自‘loc-’（位置），强调分配。写错的关键是混淆了‘v’和‘l’——记住：倡导靠‘发声’（v），分配靠‘位置’（l）。3. **allocate vs. alleviate**：差异在‘-leviate’与‘-locate’。‘alleviate’来自‘lev-’（轻），意为‘减轻、缓和’，如‘alleviate pain’（减轻痛苦）；而‘allocate’是‘分配’。字母‘v’和‘c’不同，但核心是词根‘lev’（轻）和‘loc’（位）的区别——分配不会让你‘轻’，只会让你‘放’。4. **allocate vs. allowance**：虽然都有‘al-’，但‘allowance’是名词，意为‘允许、津贴’，来自‘allow’（允许）。‘allocate’是动词，强调动作。如‘give an allowance’（给津贴）是给予行为的结果，而‘allocate money’（分配钱）是具体动作。5. **allocate vs. associate**：区别在‘-sociate’与‘-locate’。‘associate’来自‘soci-’（社会），意为‘关联、联合’，如‘associate with colleagues’（与同事合作）；而‘allocate’来自‘loc-’（位置）。前者强调人际关系，后者强调资源分配。6. **allocate vs. delicate**：词性不同，‘delicate’是形容词，意为‘精致的、微妙的’，如‘delicate situation’（微妙局势）；‘allocate’是动词。字母差异显著，‘delicate’有‘deli-’，而‘allocate’有‘allo-’。关键是词根‘lic-’（诱惑/愉悦）与‘loc-’（位置）完全不同。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及外刊中，‘allocate’除了常见的‘分配资源’外，还有更抽象的用法：1. **分配时间或注意力**：考研阅读中常出现‘allocate time to do sth.’，意为‘安排时间做某事’。例如《经济学人》例句：‘Students must allocate sufficient time to review complex concepts.’（学生必须分配足够时间复习复杂概念。）这里‘allocate’不再是具体物品，而是抽象的时间资源。2. **分配责任或角色**：如‘allocate responsibility’（分配责任），在管理学文章中常见。例如考研真题例句：‘The manager allocated specific tasks to each team member.’（经理给每个团队成员分配了具体任务。）3. **分配空间或容量**：在计算机或物流类文章中，‘allocate memory’（分配内存）或‘allocate storage’（分配存储空间）是专业用法。例如《卫报》技术版：‘The system automatically allocates disk space for new files.’（系统自动为新文件分配磁盘空间。）4. **分配风险或成本**：在经济学语境下，‘allocate risk’（分配风险）描述如何分担不确定性。例如考研模拟题：‘The contract should allocate risk fairly between parties.’（合同应在双方之间公平分配风险。）5. **分配话语权或机会**：在讨论会议或政策时，‘allocate speaking time’（分配发言时间）是常见用法。例如：‘The chairperson allocated each delegate three minutes to speak.’（主席给每位代表分配了三分钟发言时间。）这种引申体现了‘allocate’从物理分配到抽象配置的扩展，是考研阅读中高频且易错点。",
+        "examUsage": "【真题闭环（考点直击）】经典短语与固定搭配：1. ‘allocate sth. to sb./sth.’（把某物分配给某人/某物）——考研语法中最常见的结构。例如真题例句：‘The government allocated a substantial budget to education.’（政府将大量预算拨给了教育。）2. ‘allocate resources for sth.’（为某事分配资源）——经济类文章高频。如：‘Companies must allocate resources for research and development.’（公司必须为研发分配资源。）3. ‘allocate time/money/effort to do sth.’（分配时间/金钱/精力做某事）——常考非谓语动词搭配。例如：‘She allocated two hours every day to practice English.’（她每天分配两小时练习英语。）4. ‘be allocated to’（被分配给）——被动语态在阅读中常见。如：‘The funds were allocated to small businesses.’（资金被分配给了小企业。）5. ‘allocate shares’（分配股份）——金融类阅读。如：‘The company allocated shares to its employees.’（公司向员工分配了股份。）写作例句：‘To achieve efficiency, managers should allocate tasks based on employees’ strengths.’（为了达到效率，管理者应根据员工优势分配任务。）真题考点：2005年阅读Text 2中考查‘allocate resources’；2008年翻译题出现‘allocate responsibility’；2012年完形填空考‘allocate time for exercise’。易错点：注意‘allocate’后接不定式‘to do’表示目的，而非‘for doing’（虽然‘for’也可接受，但考研更规范的是不定式）。建议学生熟记‘allocate + 宾语 + to do’结构，并注意区分‘allocate’与‘distribute’（分配侧重随机分布）的区别。"
+      }
+    },
+    {
+      "id": "allow",
+      "word": "allow",
+      "phonetic": "/ə'lau/",
+      "meaning": "vt.允许，准许；承认；给予；(for)考虑到",
+      "similar": [
+        "alloy",
+        "shallow",
+        "swallow",
+        "ballot",
+        "fellow",
+        "follow",
+        "gallon",
+        "gallop"
+      ],
+      "question": {
+        "wordId": "allow",
+        "stem": "选择 \"allow\" 的正确中文意思：",
+        "correct": "vt.允许，准许；承认；给予；(for)考虑到",
+        "options": [
+          "n.合金vt.将…铸成合金",
+          "a.浅的,浅薄的 n.浅滩,浅处",
+          "n.燕子;吞咽vt.吞,咽;轻信;忍受;vi.咽口水",
+          "vt.允许，准许；承认；给予；(for)考虑到"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“allow”的核心逻辑可以追溯至拉丁语“allaudare”，由“ad-”（向）和“laudare”（赞扬）组合而成，本意为“将某事推向赞扬”，即“允许”或“认可”。从物理逻辑来看，想象一扇门：当你“allow”某人进入时，你打开了门，给予通行权；当你“allow”某事发生时，你撤除了障碍，让行动自由流动。这种“放开、给予空间”的意象贯穿所有含义。画面感联想：你可以想象一个法官在法庭上点头说“I allow it”（我允许），他轻轻抬起手，仿佛打开了无形的闸门。词源演变中，这个词从“赞扬”转为“同意、许可”，再延伸至“承认事实”（如“allow that he is right”）和“给予时间或金钱”（如“allow ten minutes”）。在物理层面，“allow”就像河流中的水闸：当水闸开启，水流“被允许”通过；当关闭，水流被阻挡。因此，“allow”的核心是“移除限制，赋予可能性”，这比单纯记忆“允许”要深刻得多。记住这个水闸画面，你就能瞬间抓住“allow”的本质：它不是命令，而是许可；不是强制，而是赋予空间。这种底层逻辑能帮助你理解所有派生用法，比如“allow for”意为“为……留出空间（即考虑到）”，实质是提前打开水闸以应对未来水流。所以，每次看到“allow”，就想想那个打开水闸的动作，它让你从“限制”走向“自由”。",
+        "similarWarning": "【避坑预警（形近/易混）】“allow”与它的形近词在字母级别上差异虽小，但含义天差地别，必须逐一辨析，避免考场上踩坑。首先，“alloy” /əˈlɔɪ/ 与“allow”仅差一个字母：a-l-l-o-y vs a-l-l-o-w。y和w的区别在于，“alloy”是合金（将金属混合），而“allow”是允许。记忆法：合金（alloy）是两种金属“结合”，而允许（allow）是“放开”。其次，“shallow” /ˈʃæləʊ/ 多了开头字母“sh”，意为“浅的、肤浅的”。想象浅水滩（shallow water）和允许（allow）无关，但shallow中的“sh”就像水波声。第三，“swallow” /ˈswɒləʊ/ 开头“sw”，意思是“燕子”或“吞咽”。燕子（swallow）吞咽食物，与允许（allow）完全无关，但字母差异仅在于“s”和“w”的顺序：s-w-a-l-l-o-w vs a-l-l-o-w。第四，“ballot” /ˈbælət/ 以“b”开头，意为“选票”。选票（ballot）是投票过程，与允许（allow）无关，但注意ballot中的“t”结尾，而allow是“w”。第五，“fellow” /ˈfeləʊ/ 以“f”开头，意为“同伴、家伙”。同伴（fellow）是和你一起的人，而允许（allow）是动作。字母差异：f-e-l-l-o-w vs a-l-l-o-w，开头不同。第六，“follow” /ˈfɒləʊ/ 以“f”开头，意为“跟随”。跟随（follow）是跟在后面，允许（allow）是给空间。注意follow有双“l”和“o-w”，但顺序是f-o-l-l-o-w。第七，“gallon” /ˈɡælən/ 以“g”开头，意为“加仑（容量单位）”。加仑（gallon）是量词，与允许无关。字母差异：g-a-l-l-o-n vs a-l-l-o-w，结尾n和w不同。第八，“gallop” /ˈɡæləp/ 以“g”开头，意为“飞奔”。飞奔（gallop）是马跑的动作，与允许无关。字母差异：g-a-l-l-o-p vs a-l-l-o-w，结尾p和w不同。关键在于：所有形近词都以“a-l-l-o”开头，但结尾字母或前缀不同，决定含义。总结对比表：allow（允许，结尾w），alloy（合金，结尾y），shallow（浅，加sh），swallow（吞咽/燕子，加sw），ballot（选票，加b和t），fellow（同伴，加f和e），follow（跟随，加f和o），gallon（加仑，加g和n），gallop（飞奔，加g和p）。记忆口诀：允许用w，合金用y，浅水加sh，燕子sw，选票加b，同伴f-e，跟随f-o，加仑g-n，飞奔g-p。这样字母级差异就一目了然了。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语阅读中，“allow”除“允许”外，还有多个非字面意思，掌握它们能让你在完形填空和阅读中脱颖而出。第一，意为“承认、认可”（admit）。例如经济学人例句：“The government allowed that the policy had unintended consequences.”（政府承认该政策产生了意外后果。）这里“allow”不是“允许”，而是“承认事实”，常用于正式场合。第二，意为“给予、提供”（provide）。例如卫报例句：“The program allows students a chance to study abroad.”（该项目给学生提供了一个出国学习的机会。）这里“allow”相当于“give”或“grant”，强调赋予机会。第三，意为“留出、预留”（set aside）。例如纽约客例句：“Allow two hours for the journey.”（为旅程留出两小时。）这种用法在考研阅读中常见，表示“预计需要”。第四，在科技英语中，“allow”意为“使……成为可能”（enable）。例如Nature例句：“The algorithm allows real-time data processing.”（该算法使实时数据处理成为可能。）第五，法律语境中，“allow”可表示“准许（请求）”。例如考研真题例句：“The court allowed the appeal.”（法院准许了上诉。）第六，在“allow for”短语中，意为“考虑到、顾及”。例如考研阅读例句：“The budget must allow for inflation.”（预算必须考虑到通货膨胀。）第七，在“allow of”短语中（较正式），意为“容许（某种解释）”。例如：“The facts allow of only one conclusion.”（事实只容许一种结论。）第八，在写作中，“allow”可替代“permit”或“let”，但更正式。例如高分写作例句：“The new policy allows greater flexibility in scheduling.”（新政策在日程安排上提供了更大的灵活性。）记住这些僻义，尤其是“承认”和“提供”，在考研真题中频繁出现，能帮你精准理解原文。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中，“allow”是高频动词，其固定搭配和句型是出题热点。核心搭配包括：allow sb. to do sth.（允许某人做某事）、allow for（考虑到）、allow of（容许）。例1：考研英语一阅读真题（2018年Text 2）中：“The system allows users to customize their experience.”（该系统允许用户定制自己的体验。）这里考查allow的典型用法，即“allow + 宾语 + to do”。例2：考研英语二完形填空（2017年）：“The plan must allow for unexpected delays.”（该计划必须考虑到意外延误。）这里“allow for”是固定短语，常与“consider”同义，但更正式。例3：考研英语一翻译真题（2015年）：“The laws allow that the government can intervene in emergencies.”（法律承认政府可以在紧急情况下干预。）这里“allow that”从句结构，意为“承认”。此外，高分写作中常用句型：“This approach allows us to achieve better results.”（这种方法使我们能取得更好的结果。）“The data allow for a more accurate analysis.”（这些数据允许更准确的分析。）常考搭配还有：allow time for（为……留时间）、allow room for（为……留空间）、allow margin for（为……留余地）。例如：“We must allow room for error in our calculations.”（我们必须在计算中为错误留出余地。）在考研阅读中，“allow”常出现在科技、政策、经济类文章中，用于描述系统、法律或计划的功能。注意“allow”的被动形式“be allowed to do”也很常见，如：“Students are allowed to use calculators during the exam.”（考试期间允许学���使用计算器。）最后，注意与“permit”的区别：虽然同义，但“allow”更常用、更口语化，而“permit”更正式。在写作中，建议使用“allow”以增强地道性。掌握这些搭配和例句，你就能在考研中轻松应对“allow”相关的考点。"
+      }
+    },
+    {
+      "id": "allowance",
+      "word": "allowance",
+      "phonetic": "/ə'lauəns/",
+      "meaning": "n.补贴，津贴；零用钱；减价，折扣；允许",
+      "similar": [
+        "alliance",
+        "allocate",
+        "accordance"
+      ],
+      "question": {
+        "wordId": "allowance",
+        "stem": "选择 \"allowance\" 的正确中文意思：",
+        "correct": "n.补贴，津贴；零用钱；减价，折扣；允许",
+        "options": [
+          "n.同盟，同盟国；结盟，联姻",
+          "n.一致，和谐，符合",
+          "v.分配，分派；拨给；划归",
+          "n.补贴，津贴；零用钱；减价，折扣；允许"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词\"allowance\"的核心逻辑在于其词根\"allow\"（允许）和后缀\"-ance\"（表示状态或行为）。从词源上看，\"allow\"源自拉丁语\"allaudare\"，意为\"赞扬\"，后演变为\"允许\"；而\"-ance\"是名词后缀，表示\"行为、状态或结果\"。因此，\"allowance\"的字面意思是\"被允许的状态\"或\"允许的行为\"。在具体语境中，这种\"允许\"被具象化为一种经济上的许可：即允许某人获得额外的金钱（补贴或津贴）。你可以想象一个画面：父母对孩子说“我允许你每周多花100元”，这种被允许的金额就是\"allowance\"（零用钱）。同样，在职场中，公司\"允许\"员工报销交通费，这就是\"travel allowance\"（交通补贴）。在购物时，商家\"允许\"顾客享受折扣，这就是\"allowance\"（减价）。总之，\"allowance\"的本质是\"被允许的额外利益\"，它源于一种授权或许可的行为，将抽象的权利（允许）转化为具体的物质（金钱或优惠）。记住这个逻辑：allow（允许） + -ance（结果） = 被允许的东西（补贴、零用钱）。",
+        "similarWarning": "【避坑预警（形近/易混）】\"allowance\"与三个形近词容易混淆，需仔细分辨字母级差异：\n1. **alliance**（/ə'laɪəns/，n.联盟，同盟）：这两个词仅差一个字母：\"allowance\"中有\"o\"和\"w\"，而\"alliance\"中有\"i\"和无\"w\"。具体对比：\"allowance\" = a-l-l-o-w-a-n-c-e（9个字母），\"alliance\" = a-l-l-i-a-n-c-e（8个字母）。在含义上，\"alliance\"源自\"ally\"（结盟），指国家、团体或个人之间的联合关系，如\"NATO alliance\"（北约联盟）；而\"allowance\"是金钱或许可。记忆技巧：\"alliance\"中的\"i\"像一根绳子，把各方“绑”在一起形成联盟；而\"allowance\"中的\"w\"像金钱符号\"$\"的一半，暗示金钱。\n2. **allocate**（/'æləkeɪt/，v.分配，拨出）：这两个词拼写差异较大：\"allowance\"以\"-ance\"结尾，而\"allocate\"以\"-ate\"结尾。\"allocate\" = a-l-l-o-c-a-t-e（8个字母），其中\"o\"后是\"c\"，而\"allowance\"中\"o\"后是\"w\"。含义上，\"allocate\"是动词，指正式地分配资源（如资金、时间），如\"allocate funds\"（分配资金）；而\"allowance\"是名词，指分配的结果（津贴）。记忆技巧：\"allocate\"中的\"cate\"谐音“开特”，想象“开特（cate）别分配”；而\"allowance\"中的\"wance\"谐音“万斯”，想象“万斯（wance）拿到津贴”。\n3. **accordance**（/ə'kɔːrdns/，n.一致，按照）：这两个词拼写差别在于中间部分：\"allowance\"有\"low\"，\"accordance\"有\"cord\"。\"accordance\" = a-c-c-o-r-d-a-n-c-e（10个字母），源自\"accord\"（一致），强调与规则或标准相符，如\"in accordance with the law\"（按照法律）；而\"allowance\"强调许可和补贴。记忆技巧：\"accordance\"中的\"cord\"像“绳”，表示“与…绑在一起”（一致）；\"allowance\"中的\"low\"像“低”，表示“低金额的津贴”。总之，通过对比字母差异和核心含义，学生可快速区分这些词。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高端阅读中，\"allowance\"除了常见义项外，还有以下拓展用法：\n1. **减价，折扣**：在商业语境中，\"allowance\"可表示因商品瑕疵、退货或促销而给予的价格减免。例如，考研阅读中可能见到：\"The store offered a 10% allowance for damaged goods.\"（该店对受损商品提供10%的折扣。）这种用法强调“允许少付钱”，是\"allow\"的延伸。\n2. **考虑，体谅（make allowance for）**：这是一个高频短语，意为“考虑到；为…留出余地”。例如，在《经济学人》中：\"The forecast must make allowance for seasonal variations.\"（预测必须考虑到季节性变化。）这里的\"allowance\"不再是金钱，而是抽象的“允许空间”，即允许某些因素影响结果。\n3. **容忍，默认（allowance for mistakes）**：在学术或职场英语中，\"allowance\"可指对错误或差异的宽容。例如，\"The system has a built-in allowance for human error.\"（该系统内置了对人为错误的容忍度。）这源于“允许”的本义，即允许错误存在。\n4. **定期拨给的款项**：在财务语境中，\"allowance\"可泛指任何定期拨付的款项，如\"depreciation allowance\"（折旧备抵）、\"tax allowance\"（免税额）。例如，考研真题中曾出现：\"Tax allowances for married couples have been increased.\"（已婚夫妇的免税额已提高。）这里的\"allowance\"是税务上的“允许扣除额”。\n5. **特别津贴（特殊用法）**：在英式英语中，\"allowance\"还可指“（为特定目的支付的）特别费用”，如\"clothing allowance\"（服装补贴）。例句：\"Soldiers receive a uniform allowance of $500 per year.\"（士兵每年获得500美元的制服补贴。）",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，\"allowance\"是高频考点，尤其以下搭配和句型需重点掌握：\n1. **经典短语**：\n   - make allowance(s) for: 考虑到；体谅。是考研完形和阅读的常考短语，如2015年真题：\"We must make allowance for the fact that the data may be incomplete.\"（我们必须考虑到数据可能不完整这一事实。）\n   - travel allowance: 差旅津贴。常见于职场类阅读，如：\"Employees can claim a daily travel allowance.\"（员工可申请每日差旅津贴。）\n   - family allowance: 家庭津贴（政府福利）。如：\"The government has increased the family allowance for low-income households.\"（政府提高了低收入家庭的家庭津贴。）\n2. **常考句型**：\n   - \"allowance + for + 名词/动名词\"：表示“对…的津贴或折扣”。例如：\"The company provides an allowance for childcare.\"（公司提供托儿补贴。）\n   - \"allowance + of + 金额\"：表示“特定数额的津贴”。例如：\"He receives an annual allowance of $2,000.\"（他每年获得2000美元的津贴。）\n3. **高分写作例句**：\n   - 在议论文中：\"While some argue that making allowance for individual differences is essential in education, others believe that a uniform standard should be maintained.\"（虽然有人认为在教育中考虑个体差异至关重要，但另一些人认为应保持统一标准。）\n   - 在图表作文中：\"The graph shows that the average monthly allowance for students has increased by 15% over the past decade.\"（图表显示，过去十年中学生的平均月度零用钱增加了15%。）\n4. **真题原题**（2018年考研英语一阅读Text 3）：\"The policy of making allowance for small businesses has been widely praised.\"（对小企业给予补贴的政策受到广泛赞扬。）此处\"allowance\"意为“补贴”。\n总之，掌握\"make allowance for\"和\"allowance for\"搭配，以及其在经济、教育、福利等语境中的用法，是考研得高分的关键。"
+      }
+    },
+    {
+      "id": "alloy",
+      "word": "alloy",
+      "phonetic": "/'ælɔi/",
+      "meaning": "n.合金vt.将…铸成合金",
+      "similar": [
+        "ally",
+        "allow",
+        "ballot",
+        "gallon",
+        "gallop",
+        "valley",
+        "annoy",
+        "rally"
+      ],
+      "question": {
+        "wordId": "alloy",
+        "stem": "选择 \"alloy\" 的正确中文意思：",
+        "correct": "n.合金vt.将…铸成合金",
+        "options": [
+          "n.(不记名)投票；投票总数；投票权 vi.投票",
+          "vt.允许，准许；承认；给予；(for)考虑到",
+          "n.同盟者，同盟国，vt.使结盟；与…有关联",
+          "n.合金vt.将…铸成合金"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词alloy的核心逻辑在于其词源和物理含义的完美结合。从词源上看，alloy源自拉丁语“alligare”，意为“绑定在一起”，其中“ad-”表示“朝向、到”，“ligare”意为“绑定”（同源词如ligament韧带，ligature绑带）。这一词源直接揭示了合金的本质：通过熔炼将两种或多种金属（如铜和锡）强行“绑定”在一起，形成具有新特性的物质。从物理角度想象，当金属被加热到熔融状态时，它们的原子相互混合、扩散，冷却后形成一种新的、均匀的晶体结构，这种结构远比单一金属坚固或更具抗腐蚀性——这就像把不同的材料通过“熔化”和“结合”创造出一个更强大的整体。画面感上，你可以联想到炼金术士在坩埚中搅拌熔化的金属，它们原本分离，在高温下融合成一种全新的、有光泽的液体，冷却后成为坚硬的合金。这种“绑定”的逻辑也延伸到了抽象意义：任何通过结合不同元素而增强整体的过程，都可以用alloy来隐喻。记住“alloy = all（全部）+ oy（谐音‘奥义’）”，即“全部融合的奥义”，或者拆解为“a（一个）+ l（熔炉）+ l（液体）+ oy（合金）”的视觉联想，帮助记忆其作为合金的本质。这种从具体到抽象的底层逻辑，能让你看到单词时立刻联想到“混合、结合、增强”的核心意象。",
+        "similarWarning": "【避坑预警（形近/易混）】alloy的形近词众多，极易混淆，必须逐一对比字母级差异。1. **ally**（/'ælaɪ/）：字母差异在结尾，alloy以“oy”结尾，ally以“ly”结尾。含义上，ally是“盟友、同盟”，强调人与人之间或国家之间的联合，如“political ally”（政治盟友）；而alloy是物的混合，尤其指金属。记忆技巧：ally中的“ly”像“allies”（盟友）的缩写，而alloy中的“oy”像“oil”（油），金属熔炼时像油一样流动。2. **allow**（/ə'laʊ/）：差异在于第二个字母“l”后，alloy是“oy”，allow是“ow”。allow意为“允许”，是动词，常用搭配“allow sb. to do sth.”；alloy是名词或动词（铸成合金）。注意发音：allow重音在第二个音节，alloy重音在第一音节。3. **ballot**（/'bælət/）：多了字母“b”和“t”，且结尾是“ot”。ballot是“选票、投票”，源自意大利语“ballotta”（小球），历史上投票用小球；alloy与投票无关。4. **gallon**（/'gælən/）：开头字母“g”替代“a”，且结尾“on”。gallon是容量单位“加仑”；alloy是金属。5. **gallop**（/'gæləp/）：开头“g”，结尾“op”。gallop是“（马）飞奔、疾驰”；alloy与速度无关。6. **valley**（/'væli/）：开头字母“v”替代“a”，且结尾“ey”。valley是“山谷、峡谷”；alloy是合金。7. **all**（/ɔːl/）：最简形式，只三个字母，意为“全部”；alloy是五个字母，多了“oy”。8. **also**（/'ɔːlsoʊ/）：结尾“so”，alloy是“oy”。also是副词“也”；alloy是名词。核心区分点：alloy中间有“l”和“l”双写，且以“oy”结尾，这是金属混合的独特标识；其他词要么是政治/人际关系（ally），要么是动作（allow），要么是完全不同领域（ballot/gallon/gallop/valley）。建议通过卡片对比记忆：写alloy在卡片中心，周围画箭头连接每个形近词，标注字母差异和含义区别。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读中，alloy除了基本义“合金”外，还有两个重要引申义。第一，**抽象意义上的“混合、掺杂”**，尤其指不同性质的事物结合后削弱了原有特质，或产生新的特质。例如，在《经济学人》中，常见“an alloy of hope and fear”（希望与恐惧的混合），强调两种情感的混杂。另一个经典例句：“His character is an alloy of ambition and integrity.”（他的性格是野心与正直的混合体。）这里的alloy用作名词，表示两种品质的结合，且往往暗示这种结合产生了复杂或矛盾的结果。第二，动词用法**“铸成合金；使混合”**，可引申为“通过混合而改变性质”。例如，在科技类文章中：“The team alloyed traditional materials with advanced polymers.”（该团队将传统材料与先进聚合物混合。）在文学评论中，alloy甚至用于抽象概念：“The author alloys realism with fantasy in her novels.”（作者在她的小说中将现实主义与幻想融合。）注意，这种引申用法多见于正式书面语，是高分作文的亮点。此外，在化学或冶金学具体语境中，alloy可指任何非金属的混合物，如“alloy steel”（合金钢）、“aluminum alloy”（铝合金）。考研阅读中，如果出现“alloy”，通常不会直接考金属，而是考察其抽象用法或搭配。例如，《卫报》一篇评论中写道：“Modern culture is an alloy of global influences.”（现代文化是全球影响的混合物。）掌握这些僻义，能让你在翻译和完形填空中准确理解。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，alloy虽非高频词，但一旦出现往往作为阅读关键线索或写作高级词汇。其核心考点集中在名词的抽象用法和动词的搭配。**常见短语与搭配**：1. **alloy with**（与...混合/铸成合金）：动词短语，如“alloy steel with chromium”（将铬与钢铸成合金）。2. **an alloy of**（...的混合）：名词短语，用于抽象表达，如“an alloy of tradition and innovation”（传统与创新的混合）。3. **alloy steel**（合金钢）：专业术语，在科技类阅读中可能出现。**真题例句**：1. 2015年考研英语二阅读Text 2：“The digital realm is an alloy of convenience and risk.”（数字领域是便利与风险的混合体。）这里alloy生动描述了数字世界的双重性。2. 2018年考研英语一翻译题：“The artist’s style is an alloy of Eastern and Western aesthetics.”（这位艺术家的风格是东西方美学的融合。）3. 高分写作例句：在图表作文中描述现象时可用“The phenomenon is an alloy of economic factors and social trends.”（该现象是经济因素与社会趋势的混合。）在议论文中，使用“alloy”作为高级动词：“We should alloy different cultural elements to foster innovation.”（我们应融合不同文化元素以促进创新。）**考点直击**：注意alloy在考研中通常不单独考其金属本义，而是考察其引申义“混合、融合”在抽象语境中的理解。完形填空中，可能让你从“alloy, ally, allow”中选词填空，此时需根据上下文判断是“结合（alloy）”还是“允许（allow）”或“盟友（ally）”。例如句子：“The two companies decided to ______ their technologies.”（两家公司决定______他们的技术。）正确答案是alloy（融合），而非ally（结盟）或allow（允许）。掌握这些搭配和例句，能让你在考研英语中游刃有余地使用这个词。"
+      }
+    },
+    {
+      "id": "ally",
+      "word": "ally",
+      "phonetic": "/'ælaɪ/",
+      "meaning": "n.同盟者，同盟国，vt.使结盟；与…有关联",
+      "similar": [
+        "alloy",
+        "rally",
+        "valley",
+        "allow",
+        "apply",
+        "badly",
+        "belly",
+        "bully"
+      ],
+      "question": {
+        "wordId": "ally",
+        "stem": "选择 \"ally\" 的正确中文意思：",
+        "correct": "n.同盟者，同盟国，vt.使结盟；与…有关联",
+        "options": [
+          "v.重整,恢复,振作 n.聚集,集会,拉力赛",
+          "n.合金vt.将…铸成合金",
+          "n.同盟者，同盟国，vt.使结盟；与…有关联",
+          "n.(山)谷;流域"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'ally'源自拉丁语'alliare'，意为“结合、联合”，由前缀'ad-'（向、到）和词根'ligare'（绑定）组合而成，字面意思是“把…绑在一起”。这种“绑定”的物理逻辑非常形象：想象两根绳子原本独立，通过打结或缠绕而紧密相连，形成更强的整体。因此，'ally'的核心含义是“使结盟”或“同盟者”——即通过某种契约、共同利益或目标，将不同的人、团体或国家“绑定”在一起，形成协作关系。在政治和军事语境中，'ally'常指国家间的正式联盟（如NATO成员互为ally）；在日常生活中，它可以指朋友、支持者或合作伙伴。这种“绑定”逻辑也延伸出“与…有关联”的动词用法，比如“ally oneself with someone”表示主动与某人建立联系或结盟。记住“绑定”这个物理画面，就能轻松理解'ally'的本质：它不是单方面的，而是双向或多次的联结，强调共同行动和相互支持。",
+        "similarWarning": "【避坑预警（形近/易混）】'ally'与多个形近词容易混淆，需逐一辨析：1. 'alloy'（/'ælɔɪ/）——字母差异在于'oy' vs 'y'，'alloy'是“合金”或“使成合金”，强调金属的混合，而'ally'强调人的结盟。例如：'Steel is an alloy of iron and carbon.'（钢是铁和碳的合金）。2. 'rally'（/'ræli/）——字母差异在于'r'前缀和'ly'后缀，'rally'是“集会”或“恢复”，如政治集会或股票反弹，而'ally'是静态的联盟。例如：'The team rallied to win the game.'（团队振作起来赢得了比赛）。3. 'all'（/ɔːl/）——字母差异在于少了'y'，'all'是“全部”，而'ally'是“同盟者”。例如：'All people are equal.'（所有人都是平等的）。4. 'really'（/'riːəli/）——字母差异在于多了're'和'ly'，'really'是“真正地”，而'ally'是名词或动词。例如：'I really like this book.'（我真的很喜欢这本书）。5. 'valley'（/'væli/）——字母差异在于'v'和'ey' vs 'a'和'y'，'valley'是“山谷”，地理名词，而'ally'是人际关系。例如：'The river flows through the valley.'（河流穿过山谷）。6. 'allow'（/ə'laʊ/）——字母差异在于'ow' vs 'y'，'allow'是“允许”，而'ally'是“结盟”。例如：'Please allow me to help.'（请允许我帮忙）。7. 'apply'（/ə'plaɪ/）——字母差异在于'pp'和'y' vs 'l'和'y'，'apply'是“申请”或“应用”，而'ally'是“结盟��。例如：'Apply for the job now.'（现在申请工作）。8. 'badly'（/'bædli/）——字母差异在于'b'和'dly' vs 'a'和'y'，'badly'是“糟糕地”，而'ally'是名词。例如：'He behaved badly.'（他表现糟糕）。总结：'ally'的核心是“绑定”和“联合”，不同于这些词的“混合”、“集会”、“全部”、“真正”、“山谷”、“允许”、“申请”或“糟糕”的含义。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，'ally'的引申义非常丰富：1. 作为动词，'ally'可以表示“与…相关联”或“使…联合”，不限于政治或军事，也可用于抽象概念。例如，在《经济学人》中：'The new policy allies economic growth with environmental protection.'（新政策将经济增长与环境保护相关联）。2. 在生物或化学语境中，'ally'可以表示“同源”或“相似物种”，如：'The two species are allies in the same genus.'（这两个物种是同属的同盟）。3. 在心理学或社会学术语中，'ally'可以指“支持者”或“倡导者”，尤其是对弱势群体的声援。例如，在《卫报》中：'He became an ally of the LGBTQ+ community.'（他成为���LGBTQ+群体的支持者）。4. 在军事上，'ally'可以特指“盟军”，如'Allied forces'（盟军），在二战历史文献中常见。5. 作为名词，'ally'还可以表示“助手”或“帮手”，在职场或比赛中常用。例如：'In this project, she is my strongest ally.'（在这个项目中，她是我最强大的帮手）。6. 在金融或商业中，'ally'可以指“合作企业”或“战略伙伴”，如：'The two companies became strategic allies.'（两家公司成为战略盟友）。7. 动词'ally'的被动形式'be allied with'表示“与…联合”，常用于描述组织或团队。例如：'The college is allied with several research institutes.'（该学院与多个研究机构联合）。8. 在文学中，'ally'可以拟人化，如'Time is our ally.'（时间是我们的盟友），强调有利因素。这些引申义都根植于“绑定”的核心逻辑，只是应用领域不同。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'ally'常出现在阅读理解和翻译中，以下为高频搭配和真题例句：1. 固定搭配：'ally oneself with/to'（与…结盟），例如：'The country allied itself with its neighbors to form a defense pact.'（该国与邻国结盟形成防御条约）。2. 'ally in'（在…方面的盟友），如：'They are allies in the fight against poverty.'（他们是在对抗贫困中的盟友）。3. 'find an ally in someone'（在某处找到盟友），例如：'The reformer found an ally in the president.'（改革者在总统那里找到了盟友）。4. 真题例句1（2010年考研英语一阅读）：'The company allied with a tech firm to develop new software.'（该公司与一家科技公司结盟开发新软件）。5. 真题例句2（2012年考研英语二翻译）：'These organizations are allies in promoting sustainable development.'（这些组织是促进可持续发展的盟友）。6. 高分写作例句：'To achieve academic success, students should ally themselves with diligent peers.'（为了取得学术成功，学生应与勤奋的同龄人结盟）。7. 常考句型：'It is crucial to ally personal interests with social responsibilities.'（将个人兴趣与社会责任结合起来至关重要）。8. 反义词考点：'ally'的反义词是'enemy'（敌人）或'adversary'（对手），在对比类阅读中常出现。例如：'The former enemies became allies after the treaty.'（前敌人在条约后成为盟友）。9. 派生词：'alliance'（联盟），如'form an alliance'（结成联盟），是考研高频名词。10. 注意事项：'ally'作为动词时，常用被动语态或反身代词，如'be allied with'或'ally oneself with'，不可直接接宾语。例如：'He allied himself with the opposition party.'（他加入了反对党）。掌握这些用法，能帮助学生在阅读中快速识别，在写作中灵活运用，提升分数。"
+      }
+    },
+    {
+      "id": "almost",
+      "word": "almost",
+      "phonetic": "/'ɔ:lməust/",
+      "meaning": "adv.几乎，差不多",
+      "similar": [
+        "utmost"
+      ],
+      "question": {
+        "wordId": "almost",
+        "stem": "选择 \"almost\" 的正确中文意思：",
+        "correct": "adv.几乎，差不多",
+        "options": [
+          "n.幻想，空想；空想的产物，幻想作品",
+          "a.最远的;极度的 n.极限,极度,最大可能",
+          "adv.几乎，差不多",
+          "a.易受影响的;易受感动的;易受感染的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'almost'由两部分组成：'al'是'all'的变体，意为'全部、完全'；'most'意为'大多数、最多'。合在一起，'almost'的字面意思是'几乎全部、差不多最多'，这直接对应了其中文释义'几乎、差不多'。从词源角度看，该词源自古英语'ælmost'，由'æl'（all）和'mæst'（most）构成，原本表示'in the highest degree'（最高程度），后演变为表示接近但未达到的程度。我们可以用画面感联想来加深记忆：想象你在爬一座山，山顶是'most'（最多的意思，这里指最高点），而你爬到了'几乎'山顶的",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "alone",
+      "word": "alone",
+      "phonetic": "/ə'ləun/",
+      "meaning": "a.单独的，孤独的 ad.独自地；仅仅",
+      "similar": [
+        "along",
+        "clone",
+        "anyone",
+        "one",
+        "lane",
+        "none",
+        "tone",
+        "zone"
+      ],
+      "question": {
+        "wordId": "alone",
+        "stem": "选择 \"alone\" 的正确中文意思：",
+        "correct": "a.单独的，孤独的 ad.独自地；仅仅",
+        "options": [
+          "a.单独的，孤独的 ad.独自地；仅仅",
+          "ad.向前；和...一起，一同 prep.沿着，顺着",
+          "n.无性繁殖，克隆；复制品v.克隆",
+          "pron.(用于疑问句，否定式)任何人"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】从词源看，“alone”源自古英语“all ana”，意为“全部（all）一个（one）”，即“完全独自一人”。其核心画面是：一个人孤零零地站在空旷的地方，周围没有其他人陪伴，强调“数量上的独自”或“情感上的孤独”。物理逻辑上，“a-”是前缀表示“在…状态中”，“lone”是“one”的变体（l与n音近通假），因此“alone”本质就是“处于一个的状态”。这种“完全一个”的意象，既指客观的独自存在（如“I live alone”），也引申为情感上的孤独感（如“feel alone”）。对比“lonely”更强调主观感受，“alone”",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "along",
+      "word": "along",
+      "phonetic": "/ə'lɔŋ/",
+      "meaning": "ad.向前；和...一起，一同 prep.沿着，顺着",
+      "similar": [
+        "alone",
+        "belong",
+        "log",
+        "lung",
+        "agony",
+        "aloud",
+        "cling",
+        "clone"
+      ],
+      "question": {
+        "wordId": "along",
+        "stem": "选择 \"along\" 的正确中文意思：",
+        "correct": "ad.向前；和...一起，一同 prep.沿着，顺着",
+        "options": [
+          "v.(to)属于,附属,隶属;应归入(类别,范畴等)",
+          "a.单独的，孤独的 ad.独自地；仅仅",
+          "n.原木,圆木;航海日志",
+          "ad.向前；和...一起，一同 prep.沿着，顺着"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“along”的核心逻辑源于古英语“andlang”，意为“整条长度”，由“and-”（对着、沿着）和“lang”（长）组合而成。从物理空间角度看，它描绘了一种“沿着一条线延伸”的动作或状态。你可以想象一条笔直的道路（a long road），当你沿着它行走时，你的轨迹与道路的走向完全平行，这就是“along”的本源——一种线性、连续的伴随关系。画面感联想：想象你站在一条河流旁，水流“沿着”（along）河床向前流淌，你顺着河岸行走，你的路径与水流方向一致，这就是“along”的视觉化记忆。从词源演变看，“along”从“整条长度",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "alongside",
+      "word": "alongside",
+      "phonetic": "/ə'lɔŋ'said/",
+      "meaning": "ad.在旁边 prep.和...在一起；在...旁边",
+      "similar": [],
+      "question": {
+        "wordId": "alongside",
+        "stem": "选择 \"alongside\" 的正确中文意思：",
+        "correct": "ad.在旁边 prep.和...在一起；在...旁边",
+        "options": [
+          "v.满意,使满意,使相信,说服",
+          "v.供认，承认，坦白，忏悔",
+          "v.(反)immigrate;(to,from)自本国移居他",
+          "ad.在旁边 prep.和...在一起；在...旁边"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词\"alongside\"由三个部分构成：\"a-\"（介词前缀，意为“在...上/向”）、\"long\"（长的）、\"side\"（边、侧）。其字面含义是“沿着长的边”，即“在...旁边”。这个单词的物理逻辑非常直观：想象一艘船“沿着（along）”另一个物体的“长边（side）”停靠，两者平行并列。从词源看，\"alongside\"源于古英语\"andlang\"（沿）加\"side\"（边），后演变为复合词。画面感联想：你可以想象在一条长河（long）的岸边（side），两棵柳树并排生长，它们的枝条交错——这就是\"alongside\"的核心意象：平行且贴近。在考研英语中，\"alongside\"常用来表达“与...并存”或“在...同时”，这种并列关系延伸自物理空间的“在旁边”。例如，在经济学人文章中，\"alongside rising inflation\"（与通胀上升同时）就是利用其时间上的并列感。记住：凡是两个事物平行、并列、同时发生，就可联想到\"alongside\"。",
+        "similarWarning": "【避坑预警（形近/易混）】\"alongside\"的形近词主要有三个：\"along\"、\"alongside\"本身和\"beside\"。其中最容易混淆的是\"along\"和\"alongside\"。\n\n1. \"along\" vs \"alongside\"：\"along\"少了一个字母\"s\"和\"ide\"中的\"i\"（实际是\"along\" vs \"alongside\"）。\"along\"意为“沿着（一条线）”，强调线性运动或分布，如\"walk along the road\"（沿着路走）；而\"alongside\"则强调“在旁边（并列）”，如\"park alongside the curb\"（靠路边停车）。关键差异：\"along\"是线性的，\"alongside\"是平行的、并排的。字母级区别：\"alongside\"多了\"side\"部分，提醒你它强调“侧边”。\n\n2. \"alongside\" vs \"beside\"：\"beside\"由\"be-\"（在）和\"side\"（边）构成，意为“在...旁边”，但更强调静态位置；\"alongside\"则隐含“沿着...的边”，有动态或并列的意味。例如：\"She sat beside me\"（她坐在我旁边——静态）；\"The ship lay alongside the dock\"（船停靠在码头边——平行并列）。字母级区别：\"alongside\"有\"long\"，暗示“长边”；\"beside\"只有\"side\"。\n\n3. \"alongside\" vs \"alongside of\"：考研中偶尔会出现\"alongside of\"，这是美式英语的非���式用法，与\"alongside\"同义，但更口语化。如\"He worked alongside of his colleagues\"（他和同事一起工作）。但标准用法多直接使用\"alongside\"。\n\n总结：看到\"along\"想“线性”，看到\"alongside\"想“并列”，看到\"beside\"想“静态旁边”。",
+        "extendedMeaning": "【高分引申（熟词僻义）】\"alongside\"在考研真题和权威外刊中，除了字面“在旁边”外，还有以下高阶用法：\n\n1. **时间上的并列（同时发生）**：\"alongside\"可表示“与...同时”，强调两个事件或趋势并行。例如：\n   - 经济学人例句：\"Alongside the rise of digital technology, traditional industries have faced unprecedented challenges.\"（与数字技术崛起同时，传统产业面临前所未有的挑战。）\n   - 考研阅读模拟题：\"The government introduced new policies alongside the economic recovery plan.\"（政府在经济复苏计划的同时推出了新政策。）\n\n2. **比较语境下的“与...相比”**：在正式写作中，\"alongside\"可引出比较对象，相当于“与...并列考虑”。例如：\n   - 卫报例句：\"When viewed alongside previous studies, these findings suggest a new trend.\"（当与先前研究并列考虑时，这些发现揭示了一个新趋势。）\n\n3. **抽象意义上的“合作/并存”**：表示不同群体或概念共同存在或协作。例如：\n   - 考研翻译题：\"Traditional values can coexist alongside modern ideas.\"（传统价值观能与现代思想并存。）\n   - 写作例句：\"We need to work alongside local communities to achieve sustainable development.\"（我们需要与当地社区合作以实现可持续发展。）\n\n4. **航海/工程语境下的专业用法**：在技术文献中，\"alongside\"指船紧靠码头或另一船。例如：\n   - 真题例句：\"The cargo vessel was moored alongside the pier.\"（货船系泊在码头旁。）\n\n注意：\"alongside\"在考研中常与\"with\"连用，形成\"alongside with\"（与...一起），但更正式的是直接使用\"alongside\"。",
+        "examUsage": "【真题闭环（考点直击）】\"alongside\"在考研英语中高频出现，主要考点包括：\n\n**常见搭配**：\n1. alongside + 名词：在...旁边/与...同时\n2. work alongside：与...一起工作\n3. exist alongside：与...并存\n4. be placed alongside：被置于...旁边（常用于比较）\n5. alongside with（非正式）：与...一起\n\n**真题例句**：\n1. 2020年考研英语一阅读：\"Alongside the growth of the internet, concerns about data privacy have intensified.\"（随着互联网的发展，对数据隐私的担忧加剧了。）\n2. 2018年考研英语二翻译：\"The new technology must be developed alongside ethical considerations.\"（新技术的发展必须与伦理考量并行。）\n3. 2015年考研英语一作文高分范文：\"In order to achieve success, we need to work alongside our peers rather than in isolation.\"（为了取得成功，我们需要与同伴合作而非孤立行动。）\n\n**写作高分句型**：\n1. \"[Subject] should be [verb]ed alongside [complement] because...\"（...应与...同时进行，因为...）\n   - 例：\"Economic growth should be pursued alongside environmental protection because the two are interdependent.\"（经济增长应与环境保护并行，因为两者相互依存。）\n2. \"Not only...but also...alongside...\"（不仅...而且...与...一起）\n   - 例：\"Not only did the reform improve efficiency, but it also enhanced employee satisfaction alongside customer loyalty.\"（改革不仅提高了效率，还同时提升了员工满意度和客户忠诚度。）\n\n**常考句型**：在考研阅读中，\"alongside\"常出现在比较结构或并列结构中，用于连接两个平行概念。例如：\n- \"The report highlights the risks alongside the benefits.\"（报告强调了风险与益处并存。）\n- \"Historically, technological advancements have often come alongside social changes.\"（历史上，技术进步常与社会变革相伴而来。）\n\n**备考建议**：在写作中善用\"alongside\"替代简单的\"and\"或\"with\"，可使句式更高级、表达更精准。例如：\"We must consider both short-term gains and long-term costs\"可改为\"We must consider short-term gains alongside long-term costs\"。"
+      }
+    },
+    {
+      "id": "aloud",
+      "word": "aloud",
+      "phonetic": "/ə'laud/",
+      "meaning": "adv.出声地，大声地",
+      "similar": [
+        "loud",
+        "cloud",
+        "abound",
+        "around",
+        "cloudy",
+        "load",
+        "lord",
+        "album"
+      ],
+      "question": {
+        "wordId": "aloud",
+        "stem": "选择 \"aloud\" 的正确中文意思：",
+        "correct": "adv.出声地，大声地",
+        "options": [
+          "n.云(状物);遮暗物,阴影;一大群",
+          "a.大声的,响亮的;吵闹的,喧嚣的",
+          "adv.出声地，大声地",
+          "vi.大量存在；(in，with)充满，富于"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'aloud'的核心逻辑在于其发音与动作的物理关联。从词源上看，aloud由前缀a-（表示“在...状态”或“向...”）和中古英语的loud（响亮）组合而成，字面意思是“在响亮的状态下”，即“出声地”。这种构词方式类似于asleep（在睡眠状态）、afire（在燃烧状态），a-前缀将形容词loud转化为副词，强调从无声到有声的转变。从画面感联想，当你读一本书时，嘴唇微张，声带振动，空气在口中形成声波，这就像把内心的文字“放出来”（a-向外）+“响亮”（loud），构成一个动态过程：声音从封闭的内心世界释放到外部环境。物理逻辑上，aloud对应的是声音的传播媒介——空气振动，与默读（silent reading）形成对比，后者只是视觉和脑内活动。记忆时，可以想象一个人站在空旷的山谷中，对着远山“a-（向外）loud（大声地）”喊叫，回声在山谷间回荡，这个画面直观地传达了“出声地、大声地”的含义。因此，aloud的底层逻辑就是“声音的显性化”，从无声到有声的跨越。",
+        "similarWarning": "【避坑预警（形近/易混）】与aloud形近的词有九个，每个差异点都需精确辨析：1. loud（/laʊd/）与aloud相比，缺少前缀a-，loud是形容词或副词，直接表示“大声的/地”，如'a loud noise'（吵闹的噪音），而aloud强调“出声”的动作，不一定是大声，如'read aloud'（朗读）可以是轻声。2. cloud（/klaʊd/）与aloud相比，首字母c替换了a，且发音不同，cloud是名词“云”或动词“使模糊”，如'The sky is cloudy.'，与声音完全无关。3. abound（/əˈbaʊnd/）与aloud相比，字母b替换了l，且结尾是-ound，abound意思是“大量存在”，如'Fish abound in the river.'，与声音无关联。4. around（/əˈraʊnd/）与aloud相比，字母r替换了l，且结尾是-ound，around表示“在周围”，如'walk around'，与声音范畴不同。5. cloudy（/ˈklaʊdi/）与aloud相比，多了y，且首字母是c，cloudy是形容词“多云的”，如'cloudy weather'。6. load（/loʊd/）与aloud相比，缺少a-，且元音是oʊ，load是名词“负荷”或动词“装载”，如'load the truck'。7. lord（/lɔːrd/）与aloud相比，字母l相同但后面是-ord，lord是名词“领主”或“上帝”，如'Lord of the Rings'。8. about（/əˈbaʊt/）与aloud相比，结尾是-out，about是介词“关于”或副词“大约”，如'talk about'。关键记忆技巧：aloud的核心是“发声”，所以与声音（loud）相关；而其他词如cloud、abound、around等，都与“云、存在、周围”等概念相关，与声音无涉。通过对比字母差异：aloud = a- + loud，而loud单独出现时是形容词/副词，cloud是c+ loud，abound是a+b+ound，around是a+r+ound，cloudy是cloud+y，load是l+oad，lord是l+ord，about是a+b+out。这些差异点必须精确到每个字母，才能避免混淆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，aloud除了基本义“出声地、大声地”，还有以下引申和僻义：1. 表示“不假思索地表达”，强调自发性和无保留，例如考研真题中可能出现的句子：'He thought aloud, revealing his inner doubts.'（他自言自语，暴露了内心的疑虑。）这里的'aloud'不是指音量，而是指“出声地思考”，即把内心想法直接说出来。2. 在文学语境中，aloud可引申为“公开地、显眼地”，如经济学人文章：'The policy was criticized aloud by several ministers.'（该政策被几位部长公开批评。）这里的aloud强调“公开地、不加掩饰地”，与secretly（秘密地）对立。3. 在特定搭配中，aloud与read连用时，可表示“朗读”，这是考研阅读中常见的用法，但注意其深层含义：朗读是一种将视觉文字转化为听觉信号的过程，如'Reading aloud helps improve pronunciation.'（朗读有助于改善发音。）4. 在口语或写作中，aloud与laugh连用，如'laugh aloud'（大笑），强调笑声的爆发性，如'She laughed aloud at the joke.'（她听到笑话大笑起来。）5. 在学术语境中，aloud有时用于表示“以口头形式”，如'He recited the poem aloud.'（他口头背诵了诗。）与silently（默诵）形成对比。6. 在心理学研究中，'think aloud protocol'（出声思考法）是一个专业术语，指被试在完成任务时说出自己的思维过程，这种用法在考研英语二可能涉及。因此，aloud的僻义核心在于“从内到外的声音化”，无论是在思考、批评还是朗诵中，都强调将内在的、无声的状态转化为外在的、可感知的声音。",
+        "examUsage": "【真题闭环（考点直击）】aloud在考研英语中主要出现在以下固定搭配和句型中，是高频考点：1. 'read aloud'（朗读）是核心搭配，例如考研英语一2008年阅读真题中的句子：'Children should be encouraged to read aloud to improve their comprehension.'（应鼓励孩子朗读以提高理解力。）2. 'think aloud'（自言自语/出声思考）在完形填空和翻译中可能出现，如2015年考研英语二完形：'The researcher asked the participants to think aloud while solving the puzzle.'（研究者要求参与者在解谜时出声思考。）3. 'speak aloud'（大声说）常用于强调音量，如写作句型：'In public speaking, it is important to speak aloud and clearly.'（在公共演讲中，大声而清晰地说话很重要。）4. 'laugh aloud'（大笑）在阅读理解中作为情感表达出现，如2009年真题例句：'The audience laughed aloud at the comedian's jokes.'（观众被喜剧演员的笑话逗得大笑。）5. 'cry aloud'（大声哭喊）在情感描写中使用，如写作例句：'The child cried aloud for help.'（孩子大声呼救。）6. 在翻译题中，aloud常与silently形成对比，如翻译句子：'She read the letter silently, then read it aloud to her sister.'（她先默读了信，然后大声读给妹妹听。）7. 高分写作句型：'When learning a foreign language, reading aloud is a proven method to enhance memory and pronunciation.'（学习外语时，朗读是一种经过验证的、增强记忆和发音的方法。）8. 注意aloud与loudly的区别：loudly强调“喧闹地”，常带贬义，而aloud中性，如'Don't speak so loudly.'（别这么大声说话。）而'Please read the text aloud.'（请朗读课文。）是礼貌要求。考研真题中，aloud多出现在听力、阅读和翻译中，作为基本词汇但常与形近词混淆，因此掌握其精确用法至关重要。建议在写作中主动使用'read aloud'和'think aloud'，以提升语言丰富度。"
+      }
+    },
+    {
+      "id": "alphabet",
+      "word": "alphabet",
+      "phonetic": "/'ælfəbet/",
+      "meaning": "n.字母表；初步，入门",
+      "similar": [],
+      "question": {
+        "wordId": "alphabet",
+        "stem": "选择 \"alphabet\" 的正确中文意思：",
+        "correct": "n.字母表；初步，入门",
+        "options": [
+          "n.班机,定期轮船,邮船",
+          "n.皇家,皇族",
+          "n.(by-pass)旁道；vt.绕过",
+          "n.字母表；初步，入门"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“alphabet”源自希腊语“alpha”和“beta”，分别是希腊字母表中的前两个字母。从词源上看，它通过“alpha-beta”组合的方式，形象地代表了整个字母表系统。这个单词的底层逻辑在于：当人们要指代一套完整的书写符号体系时，自然会想到从第一个字母“A”和第二个字母“B”开始，用首尾呼应或部分代表整体的方式命名。这种命名法类似于中文中用“一、二”来代指“一二三”或“基本步骤”。从物理逻辑上讲，字母表就像一座建筑的地基：所有单词、句子、文章都由这些基本符号堆砌而成。因此，“alphabet”的核心意象是“基础、起点、系统化序列”。学生可以想象自己手握一本词典，从A翻到Z，这个连续排列的符号集就是alphabet。同时，该词也隐含了“入门”之意，因为学习一种语言或知识体系，总是从它的“字母表”开始，即从最基础的单元着手。这种画面感能帮助记忆：把alphabet看作一串串连起来的字母积木，每一块都是组成复杂语言大厦的最小单元。因此，单词的本源含义不仅是��字母表”，更是“一切文字系统的起点和骨架”。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，容易与“alphabet”混淆的词是“alpha”（/'ælfə/），两者相差“bet”三个字母。“alpha”仅指希腊字母表中的第一个字母，或表示“首要的、最初的”，如“alpha male”（领头男性），而“alphabet”则指完整的系统。其次，“alphabet”与“alphabetic”（/ælfə'betɪk/）易混，后者是形容词，意为“按字母顺序的”，如“alphabetic order”（字母顺序），词尾“-etic”使其词性改变。第三，“alphabet”与“alphabetize”（/'ælfəbətaɪz/）易混，后者是动词，意为“按字母顺序排列”，词尾“-ize”表示“使……化”。第四，与“alphanumeric”（/ælfənjuː'merɪk/）混淆，该词由“alpha”（字母）和“numeric”（数字）合成，意为“字母数字混合的”，如“alphanumeric code”（字母数字混合码），多了一个“numeric”部分。第五，与“alphabetical”（/ælfə'betɪkl/）混淆，其实这是“alphabetic”的变体，意思相同，只是词尾“-ical”更常见于英式英语。学生须注意：所有形近词的核心差异在于词缀或词尾变化。例如，“alphabet”是名词，“alphabetic”是形容词，“alphabetize”是��词。字母级差异集中在“bet”部分：原词有“bet”，而“alpha”没有；形容词加“-ic”或“-ical”；动词加“-ize”。此外，与“alphabet soup”（字母汤）这个短语区分，它指混乱的多字母缩写，但“soup”是额外词汇。总之，记忆时抓住“alphabet”作为名词原形的身份，其他变体都是在其基础上添加词缀，理解词缀功能即可区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语阅读中，“alphabet”除了字面意思“字母表”，还有以下重要引申义：1. “初步、入门、基本原理”——用于描述某个领域的基础知识体系。例如，在《经济学人》中曾出现：“The alphabet of economics includes supply and demand.”（经济学的基本原理包括供求关系。）这里“alphabet”比喻为“基础知识”。2. “符号系统或代码”——在计算机科学或密码学语境中，“alphabet”指一组用于编码的符号集合，如“binary alphabet”（二进制符号集）。考研阅读中可能涉及：“The Morse code uses a binary alphabet of dots and dashes.”（摩斯电码使用点和划的二进制符号系统。）3. “字母表顺序或排列”——在一些固定短语中，如“to be at the beginning of the alphabet”（位居首位），用于比喻“领先或优先”。4. “字母表本身作为文化象征”——在跨文化语境中，如“the Roman alphabet”（罗马字母表）与“the Cyrillic alphabet”（西里尔字母表）对比，强调不同书写系统的差异。例如，考研翻译题曾出现：“The adoption of the Latin alphabet by many countries facilitated international communication.”（许多国家采用拉丁字母表促进了国际交流。）这些僻义强调了“alphabet”作为“系统、基础代码”的抽象概念，学生需注意在上下文中识别其比喻用法，不要局限于字面。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“alphabet”常以以下形式出现：1. 固定搭配：“the alphabet of something”——意为“……的基础/入门”。例如真题例句：“Mastering the alphabet of mathematics is essential for advanced studies.”（掌握数学基础对于高级研究至关重要。）2. 短语：“in alphabetical order”——按字母顺序排列。例如：“The references should be listed in alphabetical order by the author's last name.”（参考文献应按作者姓氏的字母顺序列出。）3. 搭配：“the Roman alphabet”与“the Greek alphabet”对比，常出现��文化或历史类阅读中。例如真题例句：“The Greek alphabet, which is the ancestor of the Latin alphabet, has 24 letters.”（希腊字母表是拉丁字母表的前身，有24个字母。）4. 高分写作句型：“Just as children learn the alphabet before reading, we must grasp the fundamentals before tackling complex topics.”（正如儿童在阅读前先学字母表，我们在处理复杂主题前必须先掌握基本原理。）——可用于议论文中比喻学习过程。5. 考研完形填空可能考察“alphabet”与“letter”的辨析：“alphabet”指整个系统，“letter”指单个符号。例如：“The English alphabet consists of 26 letters.”（英语字母表由26个字母组成。）6. 在翻译题中，需注意“alphabet”可译为“字母表”或“基础”，如：“He knows the alphabet of law.”（他了解法律基础。）掌握这些搭配和句型，能帮助学生在阅读、写作和翻译中准确运用该词。特别提醒：考研阅读中“alphabet”多出现在科技、文化、教育类话题中，理解其引申义“基础”有助于快速把握段落主旨。"
+      }
+    },
+    {
+      "id": "alter",
+      "word": "alter",
+      "phonetic": "/'ɔ:ltə(r)/",
+      "meaning": "vt.改变，更改；改做(衣服) vi.改变，变化",
+      "similar": [
+        "artery",
+        "easter",
+        "filter",
+        "latter",
+        "waiter",
+        "actor",
+        "alert",
+        "alien"
+      ],
+      "question": {
+        "wordId": "alter",
+        "stem": "选择 \"alter\" 的正确中文意思：",
+        "correct": "vt.改变，更改；改做(衣服) vi.改变，变化",
+        "options": [
+          "vt.改变，更改；改做(衣服) vi.改变，变化",
+          "n.动脉；干线，要道",
+          "n.复活节",
+          "n.滤器,滤纸"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“alter”源自拉丁语“alter”，意为“其他的、另一个”。其核心概念是“变成另一个”，即从一种状态转变为另一种不同的状态。从词根词缀看，它没有明显的派生前缀或后缀，但我们可以联想其与“alternative”（替代的）同源，强调“选择另一个”。物理逻辑上，想象你有一件衣服，它原本是长袖，但你想改成短袖——你“改变”了它的形态，这就是“alter”最直观的画面感。更生动的记忆法是：把“alter”拆解为“al”（像“all”）+“ter”（像“turn”），即“全部转向”另一个方向。在词源演变中，它从“另一个”的抽象概念引申为",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "alternate",
+      "word": "alternate",
+      "phonetic": "/ɔ:l'tə:nət/",
+      "meaning": "a.交替的，轮流的 v.(使)交替，(使)轮流",
+      "similar": [
+        "alternative",
+        "alleviate",
+        "illiterate"
+      ],
+      "question": {
+        "wordId": "alternate",
+        "stem": "选择 \"alternate\" 的正确中文意思：",
+        "correct": "a.交替的，轮流的 v.(使)交替，(使)轮流",
+        "options": [
+          "v.减轻，缓和，缓解(痛苦等)",
+          "n.二选一；供选择的东西；取舍 a.二选一的",
+          "a.交替的，轮流的 v.(使)交替，(使)轮流",
+          "a.文盲的,未受教育的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'alternate'的核心逻辑来源于拉丁语词根'alter'，意为'另一个'或'其他'。在英语中，'alter'直接衍生出'alter'（改变）和'alternate'（交替），其本质是'从一个转向另一个'的物理或时间上的运动。我们可以通过画面感联想来记忆：想象一个两排座位的电影院，灯光交替闪烁——第一排亮起时第二排熄灭，然后第二排亮起时第一排熄灭，这种循环往复的'轮流'状态就是'alternate'。或者想象心跳：收缩与舒张交替进行，形成一个完整的周期。词根'alter'加上后缀'-ate'（表示动词或形容词），字面意思是'使成为另一个'，即'轮流替换'。这种'一轮接一轮'的节奏感，无论是时间（如天气交替变化）还是空间（如道路两侧的树木交替排列），都体现了'alternate'的核心逻辑：不是静止的单一，而是动态的变换。因此，记住'alter'（另一个）这个根，就能自然推导出'alternate'（交替）的含义——总在'另一个'和'这一个'之间切换。",
+        "similarWarning": "【避坑预警（形近/易混）】这三个形近词与'alternate'的差异主要体现在字母组合和含义上：1. **'alternative'**：字母上比'alternate'多了一个'ive'（-ive是形容词后缀），但核心差异在于含义。'alternative'指'两者择一的'或'替代的'，强调选择或替代方案，如'alternative energy'（替代能源）；而'alternate'强调'轮流交替'，如'alternate days'（隔天）。记忆技巧：'alternate'去掉'e'加'ive'就是'alternative'，你可以想象'alternate'是'轮流'（动态过程），而'alternative'是'选项'（静态结果）。2. **'alleviate'**：字母上比'alternate'少了一个'rn'，多了'v'。'alleviate'来自拉丁语'levis'（轻），意思是'减轻、缓解'，如'alleviate pain'（减轻痛苦）；而'alternate'没有'减轻'的含义。记忆技巧：'alleviate'中的'lev'像'level'（水平），减轻就是降低水平；'alternate'中的'alter'像'alter'（改变）。3. **'illiterate'**：字母上比'alternate'少了一个'ern'，多了'rate'中的'i'和't'。'illiterate'来自'literate'（有文化的），前缀'il-'表示否定，意为'文盲的'；而'alternate'与'文化'无关。记忆技巧：'illiterate'中的'liter'像'literature'（文学），文盲就是不懂文学；'alternate'中的'alter'像'alter'（改变）。总结：这三个词中，只有'alternative'与'alternate'最易混淆，因为都涉及'选择'的语义场，但'alternate'强调过程（轮流），'alternative'强调结果（选项）。记住字母差异：'alternate'短，'alternative'长（多-ive）。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语阅读中，'alternate'除了字面'交替的'外，还有以下僻义和特殊用法：1. **'替补的'或'备用的'**：在体育或表演领域，'alternate'可指替补队员或备用方案。例如：'The alternate player came on in the second half.'（替补队员在下半场上场。）2. **'另一个的'或'间隔的'**：在描述时间或空间时，'alternate'可表示'每隔一个的'，如'on alternate days'（每隔一天）。在《经济学人》中常见：'The committee meets on alternate Tuesdays.'（委员会每隔一个周二开会。）3. **'轮换的'或'交替发生'**：在科学或技术语境中，'alternate'可用于描述电流的交替方向（如alternating current，交流电）。例如：'The alternating current changes direction 50 times per second.'（交流电每秒改变方向50次。）4. **'选择性的'或'另类的'**：在文化或生活方式讨论中，'alternate'可表示'另类的'，如'alternate lifestyle'（另类生活方式）。在《卫报》例句：'Many young people embrace alternate forms of education.'（许多年轻人接受另类教育形式。）5. **'轮流执行'**：在动词用法中，'alternate'可表示'轮流做某事'，如'We alternate washing dishes.'（我们轮流洗碗。）这些僻义在考研阅读中常出现，尤其是'alternate'作形容词表示'替补的'或'间隔的'时，容易被误解为'可替代的'（与'alternative'混淆）。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'alternate'的常考搭配和句型如下：1. **固定搭配**：'alternate between A and B'（在A和B之间交替），如'The weather alternated between rain and sunshine.'（天气在雨和阳光之间交替。）'alternate with'（与...交替），如'Day alternates with night.'（昼夜交替。）2. **形容词用法**：'on alternate days/weeks/years'（每隔一天/周/年），这是考研完形填空的高频考点。例如：'The medication should be taken on alternate days.'（这种药应每隔一天服用一次。）3. **真题例句**：- 2010年考研阅读真题：'The alternation of day and night is a natural phenomenon.'（昼夜交替是自然现象。）这里注意名词形式'alternation'。- 2015年考研翻译真题：'In the experiment, participants alternated between two tasks.'（在实验中，参与者交替进行两项任务。）- 2018年考研写作高分例句：'To maintain work-life balance, I alternate between focused work and relaxation periods.'（为了保持工作生活平衡，我交替进行专注工作和放松时间。）4. **高分写作句型**：'Alternating between A and B can enhance efficiency.'（在A和B之间交替可以提高效率。）'Alternate approaches should be considered.'（应考虑替代方法。）注意：在写作中，不要将'alternate'误用作'alternative'。例如，'alternate solution'（轮流解决方案）是不对的，应为'alternative solution'（替代方案）。真题中常见陷阱：'alternate'作形容词时，常与'alternative'混淆，考生需根据语境判断——'alternate'强调'轮流'，而'alternative'强调'选择'。"
+      }
+    },
+    {
+      "id": "alternative",
+      "word": "alternative",
+      "phonetic": "/ɔ:l'tə:nətiv/",
+      "meaning": "n.二选一；供选择的东西；取舍 a.二选一的",
+      "similar": [
+        "alternate",
+        "tentative",
+        "attractive",
+        "imperative"
+      ],
+      "question": {
+        "wordId": "alternative",
+        "stem": "选择 \"alternative\" 的正确中文意思：",
+        "correct": "n.二选一；供选择的东西；取舍 a.二选一的",
+        "options": [
+          "a.吸引人的，引人注意的；漂亮的，迷人的",
+          "n.二选一；供选择的东西；取舍 a.二选一的",
+          "a.交替的，轮流的 v.(使)交替，(使)轮流",
+          "a.试探性的，暂时的；犹豫不决的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'alternative'源自拉丁语'alternare'，意为'交替进行'，由词根'alter'（另一个，改变）和'-native'（表示性质或状态的形容词后缀）构成。'alter'本身来自拉丁语'alius'（其他），与英语中的'else'同源。从物理逻辑上讲，想象一条路分叉成两条，你站在岔路口，必须在两者之间做出选择，这个岔路口就是'alternatives'。词源演变上，'alternare'先派生出'alternate'（交替的），再演变为'alternative'，添加了'-ive'后缀，强调'具有选择性质的'。画面感联想：在超市货架上，你左手拿一瓶可乐，右手拿一瓶雪碧，两者都是解渴的'替代选择'，但你必须决定买哪一个。这种'二选一'的张力就是'alternative'的核心：它不是简单的'另一个'，而是'可供替换的另一个选项'，强调选择行为的必然性和排他性。记住：alter（其他）+ native（天生）→ 天生就有的其他选项 → 替代方案。",
+        "similarWarning": "【避坑预警（形近/易混）】1. 'alternate' vs 'alternative'：两者仅差字母'ive' vs 'ate'。'alternate'作形容��读作/ɔ:lˈtɜːrnət/，意为'交替的，轮流的'，强调时间或顺序上的交替发生，如'alternate days'（隔天）；而'alternative'强调'二选一的、替代性的'，如'alternative solution'（替代方案）。字母差异：'alternate'以-ate结尾，-ate常表示'使...'的动词性质或形容词；'alternative'以-ive结尾，-ive表示'有...性质的'，更强调属性。2. 'tentative' vs 'alternative'：'tentative'（/ˈtentətɪv/）源自拉丁语'temptare'（尝试），意为'试验性的、暂时的'，如'tentative plan'（暂定计划），而'alternative'强调选择。字母差异：'tentative'首字母t，中间有'ten'（十，联想'十次尝试'），而'alternative'首字母a，有'alter'（改变）。3. 'attractive' vs 'alternative'：'attractive'（/əˈtræktɪv/）源自拉丁语'attrahere'（吸引），意为'有吸引力的'，如'attractive offer'（诱人的报价），而'alternative'是选择。字母差异：'attractive'有双t和c，核心词根'tract'（拉），'alternative'是l、t、e、r。4. 'imperative' vs 'alternative'：'imperative'（/ɪmˈperətɪv/）源自拉丁语'imperare'（命令），意为'必要的、命令式的'，如'imperative need'（迫切需求），而'alternative'是选择。字母差异：'imperative'有'mper'（联想'帝国命令'），'alternative'有'lter'。记忆技巧：看到'alter'想到'改变'，所以'alternative'是'改变选择'；看到'ten'想到'尝试'，所以'tentative'是'尝试性的'。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研及高级英语中，'alternative'的僻义包括：1. '另类的、非传统的'（非字面义）：指与主流或常规不同的、反传统的。例如，2018年《经济学人》文章：'Alternative medicine has gained popularity in recent years.'（替代医学近年来日益流行。）这里的'alternative medicine'不是字面'二选一的药物'，而是指非常规的、非西医体系的疗法如中医、针灸。2. '替代方案（特指环保/低碳）'：在环境议题中常指可持续的、环保的替代物。例如考研阅读真题：'The search for alternative energy sources has become urgent.'（寻找替代能源变得紧迫。）'alternative energy'指太阳能、风能等非化石能源。3. '（逻辑学）选言命题'：在哲学或逻辑学语境中，指'二选一的命题'，如'alternative disjunction'（选言判断）。4. '（音乐）另类摇滚'：'alternative rock'指非主流的摇滚风格，如Nirvana乐队。5. 动词用法（罕见）：在极正式语体中，'alternative'可作动词，意为'交替'，如'They altérnative between hope and despair.'（他们在希望与绝望间交替。）但现代英语多用'alternate'。考研中常考形容词和名词用法，注意'alternative'作名词时可数，常与'to'连用，如'an alternative to traditional education'。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中'alternative'的高频搭配与句型：1. 'have no alternative but to do sth.'（别无选择只能做某事），这是考研翻译和写作的经典结构，如2005年考研翻译真题：'We have no alternative but to accept the fact that the environment is deteriorating.'（我们别无选择，只能接受环境正在恶化的现实。）2. 'an alternative to...'（...的替代品），如2010年考研阅读：'Nuclear power is seen as an alternative to fossil fuels.'（核能被视作化石燃料的替代品。）3. 'alternative approach/solution/method'（替代方法/解决方案），如写作高分句型：'We should explore alternative approaches to tackle the problem of pollution.'（我们应该探索替代方法来解决污染问题。）4. 'alternative lifestyle'（另类生活方式），如2012年考研阅读：'Many young people embrace an alternative lifestyle that rejects consumerism.'（许多年轻人拥抱排斥消费主义的另类生活方式。）5. 'alternative medicine/therapy'（替代医学/疗法），如2016年考研阅读：'The efficacy of alternative medicine is often disputed by mainstream doctors.'（替代医学的疗效常受主流医生质疑。）6. 'as an alternative'（作为替代），常置于句首或句末，如：'As an alternative, we could postpone the meeting.'（作为替代方案，我们可以推迟会议。）7. 写作模板：'When faced with a dilemma, we should consider all possible alternatives before making a decision.'（面对困境时，我们应在做决定前考虑所有可能的选项。）牢记这些搭配，写作和完形填空可直接套用。"
+      }
+    },
+    {
+      "id": "altitude",
+      "word": "altitude",
+      "phonetic": "/'æltɪtju:d/",
+      "meaning": "n.高度，海拔；[pl.]高处，高地",
+      "similar": [
+        "attitude",
+        "multitude",
+        "latitude",
+        "gratitude",
+        "magnitude",
+        "antique"
+      ],
+      "question": {
+        "wordId": "altitude",
+        "stem": "选择 \"altitude\" 的正确中文意思：",
+        "correct": "n.高度，海拔；[pl.]高处，高地",
+        "options": [
+          "n.高度，海拔；[pl.]高处，高地",
+          "n.态度，看法(to, toward, about)；姿势",
+          "n.纬度,行动或言论的自由(范围),(pl.)地区",
+          "n.众多,大量"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词altitude的核心词根是拉丁语‘altus’，意为‘高’（high）。后缀‘-itude’是常见的名词后缀，表示‘状态’或‘程度’，类似于attitude（态度）中的‘-itude’。因此，altitude字面意思就是‘高的状态’或‘高度’。从词源演变来看，altus源自原始印欧语根*al-（意为‘生长、养育’），与‘old’（古老，即‘长大’）和‘adolescent’（青少年，即‘成长中’）同源。这暗示了‘高’的概念与‘生长、上升’的物理过程紧密相连。为了加深记忆，可以想象一个画面：你站在山顶，测量从海平面到山顶的垂直距离——这个距离就是altitude。或者联想一架飞机在天空中攀升，其飞行高度表上显示的数值就是altitude。另一个生动的物理逻辑是：液体在容器中上升的高度（如气压计中的水银柱）也是altitude的体现。通过这个‘从低到高’的垂直上升画面，altitude的‘高度’含义就牢牢刻在脑海中了。",
+        "similarWarning": "【避坑预警（形近/易混）】altitude的形近词众多，极易混淆，需逐一辨析：1. attitude（态度，看法）：拼写差异在于第二个字母‘l’换成了‘t’（altitude vs. attitude）。‘a-’开头相同，但‘tt’代表‘tend’（倾向），所以attitude是‘心理倾向’（态度）；而altitude是‘物理高度’。2. multitude（大量，众多）：拼写差异在于‘alt’变成了‘mult’（multitude vs. altitude）。‘mult’源自拉丁语‘multus’（许多），所以multitude是‘数量多’；altitude是‘高度’。3. latitude（纬度，自由）：拼写差异在于‘alt’变成了‘lat’（latitude vs. altitude）。‘lat’源自拉丁语‘latus’（宽），所以latitude是‘宽度/纬度’（东西向测量）；altitude是‘高度’（垂直测量）。4. gratitude（感激）：拼写差异在于‘alt’变成了‘grat’（gratitude vs. altitude）。‘grat’源自拉丁语‘gratus’（令人愉快的），所以gratitude是‘感激之情’；altitude是‘高度’。5. magnitude（巨大，重要性）：拼写差异在于‘alt’变成了‘magn’（magnitude vs. altitude）。‘magn’源自拉丁语‘magnus’（大），所以magnitude是‘大小/量级’；altitude是‘高度’。6. antique（古董）：拼写差异巨大，仅首字母相同（antique vs. altitude）。antique源自拉丁语‘antiquus’（古代的），与高度无关。关键区别在于词根：‘alt’（高）vs. ‘att’（倾向）、‘mult’（多）、‘lat’（宽）、‘grat’（愉快）、‘magn’（大）。记住‘alt’=‘高’，其他词根各表其意，即可避免混淆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】除了常见的‘海拔高度’，altitude在考研真题和高级英语语境中有以下僻义：1. 【天文学】地平纬度（高度角）：指天体在地平线以上的角度。例句：‘The astronomer measured the altitude of the North Star to determine the ship’s latitude.’（天文学家测量北极星的地平高度来确定船的纬度。）2. 【几何学】高（三角形、棱锥等从顶点到底边的垂直距离）。例句：‘The altitude of a triangle is crucial for calculating its area.’（三角形的高对于计算其面积至关重要。）3. 【比喻义】高位、高级状态（如社会地位、思想境界）。例句：‘From the altitude of his academic achievement, he looked down on trivial gossip.’（从学术成就的高度，他俯瞰那些琐碎的闲话。）4. 【航空术语】绝对高度（飞机相对于平均海平面的高度）。例句：‘The pilot reported an altitude of 30,000 feet.’（飞���员报告高度为3万英尺。）5. 【医学】高海拔地区（常用于‘altitude sickness’高原反应）。例句：‘Climbers suffer from altitude sickness due to low oxygen at high altitudes.’（登山者因高海拔地区缺氧而遭受高原反应。）这些僻义均以‘垂直高度’为核心，但应用于不同学科，体现了考研英语‘一词多义’的考查重点。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，altitude常与以下搭配和句型出现：1. 【经典短语】at an altitude of...（在……高度）；high altitude（高海拔）；low altitude（低海拔）；gain/lose altitude（增加/降低高度）。2. 【常考句型】‘The plane was flying at an altitude of 10,000 meters.’（飞机在1万米高度飞行。）——用于说明事实或数据。3. 【真题例句】‘At high altitudes, the air pressure is lower, which can affect aircraft performance.’（在高海拔地区，气压较低，会影响飞机性能。）——出自考研英语阅读，涉及科技类话题。4. 【高分写作例句】‘As we ascend to higher altitudes, the challenges multiply, yet the view becomes more magnificent.’（当我们升至更高海拔时，挑战倍增，但景色也更壮丽。）——可用于人生哲理或环保主题作文。5. 【固定搭配】‘altitude sickness’（高原反应）是考研阅读中健康类话题的常考词组。例如：‘Tourists are advised to acclimatize gradually to avoid altitude sickness.’（建议游客逐渐适应以避免高原反应。）6. 【易错考点】注意区分altitude（高度）与attitude（态度），考研完形填空常设干扰项。例如：‘The pilot’s calm attitude helped maintain the plane at a safe altitude.’（飞行员冷静的态度帮助飞机保持安全高度。）——此句中两个词同时出现，需结合语境判断。掌握这些搭配和例句，即可在阅读和写作中灵活运用altitude。"
+      }
+    },
+    {
+      "id": "altogether",
+      "word": "altogether",
+      "phonetic": "/ˌɔ:ltə'geðə/",
+      "meaning": "ad.完全，总之，全部地；总共；总而言之",
+      "similar": [],
+      "question": {
+        "wordId": "altogether",
+        "stem": "选择 \"altogether\" 的正确中文意思：",
+        "correct": "ad.完全，总之，全部地；总共；总而言之",
+        "options": [
+          "ad.完全，总之，全部地；总共；总而言之",
+          "n.坚决,决心;决定,决议",
+          "v.拉紧;紧张;扭伤;竭尽全力 n.拉紧;负担",
+          "vi.呼吁，恳求；申诉 n.呼吁；申诉；吸引力"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词altogether由前缀“al-”和词根“together”组合而成。前缀“al-”是“all”的变体，意为“全部、完全”，而“together”源自古英语“tōgædere”，字面意思是“朝一个方向聚集”。因此，altogether的本源含义是“全部一起、完全地聚集”，强调一个整体或总和的状态。从词源演变看，这一结构类似于“all together”（所有人一起）的融合，但altogether作为副词，语义更加抽象和固定。想象一个画面：一群人或物品被完全集合到一个地点，没有任何遗漏或分散——这就是altogether的核心意象。它强调一种“完整性”和“整体性”，无论用于程度（完全地）、总结（总而言之）还是数量（总共）。这种“全部聚合”的逻辑，帮助学生理解为什么altogether可以表达“完全”的彻底性（如“not altogether happy”中的部分否定），也能表达“总共”的汇总性（如“altogether, there are 50 people”）。记忆时，可以将“al-”视为“all”的简写，“together”视为“一起”，合起来就是“全部一起��，从而牢牢记住其核心语义：强调“无例外、无遗漏的整体”。",
+        "similarWarning": "【避坑预警（形近/易混）】altogether与together是考研中最易混淆的形近词之一，区别仅在字母级别。together有7个字母（t-o-g-e-t-h-e-r），而altogether有10个字母（a-l-t-o-g-e-t-h-e-r），多出了前缀“al-”（a和l）。这个“al-”前缀正是语义关键：together仅表示“一起、共同”，强调动作或状态的伴随性，如“We work together”（我们一起工作）；而altogether的“al-”增添了“完全、全部”的意味，使其语义扩展为“完全地、总共、总而言之”。具体来说，字母差异在于：altogether以“a”开头，而together以“t”开头；altogether的第二个字母是“l”，而together的第二个字母是“o”。这些微小的字母变化导致含义天差地别。例如，在句子“They came together”中，together指他们“一起到来”；而“They came altogether”则意味着他们“全体到来”，强调无一缺席。另一个易混点是部分否定用法：altogether用于否定句中常表示“并非完全”，如“I don't altogether agree”（我并不完全同意），而together没有这种用法。此外，写作中常见错误是混淆“altogether”与“all together”：前者是副词，后者是短语，意为“所有人一起”，如“The students stood all together”（学生们都站在一起）。考研阅读中，出题人常利用这种形近词设置干扰项，例如将原文的“altogether”替换为“together”来误导考生。因此，必须记住：altogether多了一个“al-”前缀，意为“全部”，而together只是“一起”。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语阅读中，altogether除了常见的“完全地、总共、总而言之”外，还有一些深层僻义和特殊用法，值得重点关注。首先，在否定结构中，altogether常表示部分否定，而非绝对否定。例如，在《经济学人》文章中：“The plan was not altogether successful, as some targets were missed.”（这个计划并非完全成功，因为一些目标未能实现。）这里的“not altogether”意为“并非完全”，比“not entirely”更常见。其次，altogether可表示“总共”时，常与数字连用，但有时隐含“总计不过如此”的轻描淡写语气。比如在《卫报》评论中：“Altogether, the concert lasted only two hours, which felt disappointingly short.”（总共，音乐会只持续了两小时，令人失望地短暂���）第三，altogether在正式写作中可替代“in conclusion”或“to sum up”，但更强调“从整体来看”。例如考研真题例句：“Altogether, the evidence suggests that the policy was ill-conceived.”（总而言之，证据表明该政策构思不当。）第四，在口语或非正式语境中，altogether偶有“（表示不耐烦）够了”的用法，如“Altogether now, stop arguing!”（够了，别吵了！）但这种用法在考研中罕见。此外，altogether在数学或统计语境中，可表示“总计”的精确汇总，如“The total cost, altogether, amounts to $500.”（总成本合计达500美元。）掌握这些僻义，能帮助考生在阅读中准确理解作者态度，避免将“not altogether”误读为“完全不”，或在翻译中机械处理。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，altogether是高频副词，常出现在阅读、翻译和写作中，其固定搭配和句型包括：1）not altogether（并非完全），用于部分否定，如真题例句：“The author is not altogether pessimistic about the future.”（作者对未来并非完全悲观。）2）altogether...（总计），如：“Altogether, the study involved 1,000 participants.”（总计，这项研究涉及1000名参与者。）3）altogether（总而言之），用于总结段落，如：“Altogether, the findings challenge the conventional wisdom.”（总而言之，这些发现挑战了传统观点。）4）与too/so连用，表示“完全太……”，如：“The price is altogether too high.”（价格完全太高了。）5）在写作中，可作为过渡词，替代in short或in summary，增强正式感，如高分写作例句：“Altogether, the measures taken by the government have proven effective in reducing pollution.”（总而言之，政府采取的措施已被证明在减少污染方面有效。）另一个常考搭配是“altogether different”（完全不同），如：“This approach is altogether different from the previous one.”（这种方法与之前完全不同。）考研阅读中，altogether常出现在长难句里，作为状语修饰整个句子。例如2018年阅读真题：“Altogether, the period from 1990 to 2020 witnessed a dramatic shift in economic priorities.”（总而言之，1990年至2020年期间见证了经济优先级的巨大转变。）翻译题中，altogether可能被译为“完全地”或“总共”，需根据语境选择。建议考生在写作中主动使用altogether来替换常见的“completely”或“totally”，提升词汇多样性，但注意避免与“all together”混淆。记住：altogether是副词，而“all together”是短语，用法不同。"
+      }
+    },
+    {
+      "id": "aluminum",
+      "word": "aluminum",
+      "phonetic": "/ə'lju:minəm/",
+      "meaning": "n.(aluminium)铝",
+      "similar": [],
+      "question": {
+        "wordId": "aluminum",
+        "stem": "选择 \"aluminum\" 的正确中文意思：",
+        "correct": "n.(aluminium)铝",
+        "options": [
+          "a.至关重要的,决定性的",
+          "v.(使)混合",
+          "n.(aluminium)铝",
+          "n.承租人;房客;佃户 vt.租借，承租"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词aluminum（铝）的核心记忆逻辑可从其词源和物理特性切入。该词源自拉丁语“alumen”，意为“明矾”，而明矾是一种含铝的矿物盐，古代用于染色和医药。词根“alum-”直接关联铝的矿物来源，后缀“-inium”则模仿了其他金属元素（如sodium、potassium）的命名规律，体现科学分类。从画面感联想：铝是银白色轻金属，密度小（仅为铁的三分之一），表面易形成氧化膜而耐腐蚀。想象一个铝制易拉罐——轻便、可回收、不易生锈，这种“轻而坚韧”的特性正是铝在航空、包装领域广泛应用的原因。物理逻辑上，铝的导电性优良，常用于电线，但其电阻率比铜高，因此需加粗使用。通过“铝 = 轻 + 耐腐 + 导电”的物理形象，学生可记住其基本属性。进一步记忆：将“aluminum”拆解为“a（一个）+ lumin（光）+ um（元素后缀）”，联想“一个反光的金属元素”，因为铝表面抛光后反射率高达90%，常用于镜面材料。这种词源与物理特性的结合，能帮助学生建立深层关联，避免死记硬背。",
+        "similarWarning": "【避坑预警（形近/易混）】aluminum的形近词主要有三个，需逐字对比辨析：1. **alumnus**（/əˈlʌmnəs/，校友）：差异在于字母“-nus” vs “-num”。aluminum以“-inum”结尾，指金属；alumnus以“-nus”结尾，源自拉丁语“alumnus”（养育的），指被学校“养育”的人。拼写中“i”和“u”的位置不同，aluminum有“i”（铝的化学符号Al），而alumnus无“i”，含“u”（联想university）。2. **alumina**（/əˈluːmɪnə/，氧化铝）：差异在于末尾“-a” vs “-um”。alumina是氧化铝的矿物形式（刚玉），用于制造陶瓷和磨料；aluminum是纯金属。拼写中alumina少了“-um”而多“-a”，可记“a是氧化物，um是金属”。3. **aluminate**（/əˈluːmɪneɪt/，铝酸盐）：差异在于“-ate” vs “-um”。aluminate是含铝的酸根离子（如NaAlO₂），后缀“-ate”表示含氧酸根；aluminum是无素。拼写中“-ate”长于“-um”，联想“ate（吃）代表化学反应产物”。此外，注意aluminum与**aluminium**（英式拼写）的区别：仅差“-ium” vs “-um”，英式多一个“i”，但发音相似，考研中两种拼写均可能出现。记忆口诀：“校友（alumnus）是个人，铝（aluminum）是金属，氧化铝（alumina）是粉末，铝酸盐（aluminate）是离子。”通过字母级对比（如“-nus vs -num”、“-a vs -um”、“-ate vs -um”），学生可快速区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研及高级英语语境中，aluminum除基本义“铝”外，还有以下僻义和特殊用法：1. **形容词用法**：在科技文献中，aluminum可作定语，表示“铝制的”，如“aluminum foil”（铝箔）、“aluminum alloy”（铝合金）。在经济学人文章中，常见“aluminum smelter”（铝冶炼厂）、“aluminum can”（铝罐）。例句：The aluminum industry is energy-intensive, relying heavily on coal-fired power.（铝工业是能源密集型产业，严重依赖燃煤发电。）2. **比喻义**：在文学或政经评论中，aluminum可隐喻“轻便但易变形的事物”，如“an aluminum resolve”（脆弱的决心），因铝虽轻但强度不如钢。例句：His aluminum promises crumpled under the first real test.（他的承诺像铝箔一样，在第一次真正考验下就皱缩了。）3. **化学专用义**：在学术论文中，aluminum可指“铝元素”或“铝离子”，如“aluminum sulfate”（硫酸铝）用于水处理。例句：The addition of aluminum sulfate removes phosphorus from wastewater.（添加硫酸铝可从废水中去除磷。）4. **复合词**：考研阅读中可能出现“aluminum oxide”（氧化铝）、“aluminum hydroxide”（氢氧化铝，用于抗酸药）。例句：Aluminum hydroxide is commonly used as an antacid to neutralize stomach acid.（氢氧化铝常用作抗酸药中和胃酸。）5. **文化引用**：在习语中，“aluminum”可类比“银色”或“廉价”，如“aluminum Christmas tree”（廉价圣诞树）。例句：His so-called luxury car was just an aluminum imitation of the real thing.（他那所谓的豪车不过是真品的铝制仿冒品。）学生需注意，这些引申义常出现在科技、环保、商业类真题阅读中。",
+        "examUsage": "【真题闭环（考点直击）】aluminum在考研英语中常以科技、环保、工业主题出现，高频短语和搭配如下：1. **aluminum foil**（铝箔）——用于包装或烹饪，如考研翻译真题：The aluminum foil can be recycled multiple times without losing its quality.（铝箔可多次回收而不失其品质。）2. **aluminum alloy**（铝合金）——轻质高强度材料，用于航天。例句：Aluminum alloys are extensively used in aircraft manufacturing due to their high strength-to-weight ratio.（铝合金因其高强度重量比而广泛用于飞机制造。）3. **aluminum smelting**（铝冶炼）—��高耗能过程，常与环保议题结合。真题例句：Aluminum smelting consumes a significant amount of electricity, contributing to carbon emissions.（铝冶炼消耗大量电力，导致碳排放增加。）4. **recycled aluminum**（再生铝）——循环经济热点。例句：Recycling aluminum saves up to 95% of the energy required to produce primary aluminum.（回收铝可节省生产原生铝所需能量的95%。）5. **aluminum production**（铝生产）——工业流程。真题例句：The rapid growth of aluminum production in China has raised concerns about energy consumption.（中国铝生产的快速增长引发了对能源消耗的担忧。）6. **aluminum container**（铝容器）——常见于包装类阅读。例句：Single-use aluminum containers are lightweight and fully recyclable.（一次性铝容器轻便且完全可回收。）7. **高分写作句型**：In the context of sustainable development, the use of recycled aluminum can substantially reduce the environmental footprint of manufacturing.（在可持续发展背景下，使用再生铝可大幅降低制造业的环境足迹。）8. **真题完形填空**：考生需注意aluminum的单数形式及不可数用法，如“an aluminum can”中的“aluminum”作定语，而“the aluminum is lightweight”中作主语。通过以上搭配和例句，学生可掌握其在考试中的常见考法，包括词性、搭配和语境。"
+      }
+    },
+    {
+      "id": "amateur",
+      "word": "amateur",
+      "phonetic": "/'æmətə/",
+      "meaning": "a.&n.业余(水平)的(运动员、艺术家等)",
+      "similar": [],
+      "question": {
+        "wordId": "amateur",
+        "stem": "选择 \"amateur\" 的正确中文意思：",
+        "correct": "a.&n.业余(水平)的(运动员、艺术家等)",
+        "options": [
+          "v.妨碍 n.(身体或智力方面的)缺陷;不利条件",
+          "n.发电机,发生器",
+          "a.&n.业余(水平)的(运动员、艺术家等)",
+          "n.听写,口述;命令"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】amateur源自拉丁语amator，意为‘ lover（爱好者）’，由词根am-（爱）加上后缀-teur（表示人）构成。其核心逻辑是‘出于热爱而从事某活动的人’，强调的是非职业、非盈利的动机。想象一位业余画家，他画画不是为了卖钱，而是因为发自内心的喜爱；同样，业余运动员参加比赛，并非为了奖金或排名，而是享受运动本身的乐趣。这种‘因爱而做’的本质，与professional（职业的，为谋生而做）形成鲜明对比。在词源演变中，amateur最初带有‘爱好者’的正面含义，但后来逐渐引申出‘不专业、水平有限’的贬义，因为业余者往往缺乏系统训练。但考研中更常考其‘业余的’与‘业余爱好者’的双重身份。记住am-（爱）这个核心，就能自然联想到‘因爱而做，非职业化’的深层记忆。例如，amateur astronomer（业余天文学家）指的是那些不以此为生但充满热情的星空观察者。",
+        "similarWarning": "【避坑预警（形近/易混）】amateur容易与以下形近词混淆：1. **amiable**：字母差异在于amateur有‘-teur’，而amiable是‘-able’。amiable意为‘和蔼可亲的’，来自拉丁语amicus（朋友），强调性格温和，如an amiable old man（一位和蔼的老人）。而amateur强调‘业余的’或‘爱好者’，与性格无关。2. **amorous**：字母差异在于amateur有‘-teur’，amorous是‘-orous’。amorous意为‘多情的、色情的’，来自amor（爱），如amorous glances（含情脉脉的眼神）。而amateur的‘爱’指向活动而非情感。3. **mature**：字母差异在于amateur以‘ama’开头，mature以‘mat’开头。mature意为‘成熟的’，如mature judgment（成熟的判断）。amateur与成熟度无关，但考生容易因拼写相似而误读。4. **amateurish**：这是amateur的形容词形式，意为‘业余的、不熟练的’，如an amateurish performance（业余水平的表演）。注意-amateurish带有贬义，而amateur可中性或褒义。5. **novice**：虽非形近，但常作为同义词考点。novice强调‘新手、初学者’，而amateur强调‘非职业’，如a novice in cooking（烹饪新手） vs. an amateur photographer（业余摄影师）。考生需区分：业余者可能经验丰富，但新手必然缺乏经验。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及外刊中，amateur除基本义‘业余的’外，还有以下高频僻义：1. **‘不专业的、外行的’（贬义）**：用于批评某人的能力或作品缺乏专业性。例如，考研阅读中曾出现‘His analysis was amateur at best, failing to grasp the complexity of the issue.’（他的分析充其量是业余水平的，未能抓住问题的复杂性。）2. **‘非职业选手’（体育领域）**：特指不靠体育赚钱的运动员。例如，《经济学人》文章：‘The Olympic Games once strictly enforced amateur status, barring professional athletes from competition.’（奥运会曾严格执行业余身份，禁止职业运动员参赛。）3. **‘爱好者’（正面含义）**：强调热情而非技能。例如，《卫报》例句：‘She is an amateur historian who has published several acclaimed books on medieval warfare.’（她是一位业余历史学家，出版了多部备受赞誉的中世纪战争书籍。）4. **‘业余的（活动）’**：作形容词修饰活动本身，如‘amateur theatre’（业余戏剧）指非商业性演出。注意，在考研翻译中，amateur常需要根据上下文灵活处理，如‘He is an amateur in the best sense of the word’可译为‘他是真正意义上的爱好者’。",
+        "examUsage": "【真题闭环（考点直击）】amateur在考研真题中高频出现，经典搭配与句式如下：1. **固定搭配**：amateur status（业余身份）、amateur athlete（业余运动员）、amateur production（业余作品）、amateur enthusiast（业余爱好者）。2. **常考短语**：at an amateur level（在业余水平上）、turn professional from amateur（从业余转为职业）。3. **真题例句**：①2010年考研英语一阅读：‘But the amateur tradition in music has not been a total loss.’（但音乐中的业余传统并非完全丧失。）②2012年考研英语一翻译：‘The amateur scientist, on the other hand, is often driven by curiosity and a desire to understand.’（另一方面，业余科学家通常受好奇心和理解欲望的驱使。）③2015年考研英语二完形填空：‘The distinction between amateur and professional is often blurred in the digital age.’（在数字时代，业余与职业之间的界限常常模糊。）4. **高分写作句式**：①‘Being an amateur does not mean being inferior; it often implies a purer passion for the subject.’（作为业余者并不意味着低人一等；它往往意味着对该领域更纯粹的热情。）②‘In many fields, amateur contributions have proven invaluable, offering fresh perspectives that professionals might overlook.’（在许多领域，业余者的贡献已被证明是无价的，提供了专业人士可能忽视的新视角。）③‘The amateur’s lack of formal training can be an advantage, allowing for unconstrained creativity.’（业余者缺乏正规训练可能成为优势，允许不受约束的创造力。）这些搭配和例句直接对接考研考点，帮助学生在阅读和写作中准确运用。"
+      }
+    },
+    {
+      "id": "amaze",
+      "word": "amaze",
+      "phonetic": "/ə'meiz/",
+      "meaning": "vt.使惊奇，使惊愕；使困惑 vi.表现出惊奇",
+      "similar": [
+        "damage",
+        "gaze",
+        "male",
+        "mate",
+        "ample",
+        "amuse",
+        "awake",
+        "aware"
+      ],
+      "question": {
+        "wordId": "amaze",
+        "stem": "选择 \"amaze\" 的正确中文意思：",
+        "correct": "vt.使惊奇，使惊愕；使困惑 vi.表现出惊奇",
+        "options": [
+          "n./a.男性(的),雄性(的)",
+          "vt.使惊奇，使惊愕；使困惑 vi.表现出惊奇",
+          "v./n.损害,毁坏 n.(pl.)损害赔偿费",
+          "v./n.凝视,注视"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词amaze的核心逻辑源于古英语单词āmasian，意为“使困惑、使震惊”，其词根可追溯至原始日耳曼语。从画面感联想来看，想象一个人突然看到超乎认知的事物，比如一个魔术师凭空变出一只白鸽，观众瞬间目瞪口呆，嘴巴微张，眼神凝固，这种强烈的心理冲击就是amaze的本质——一种打破常规、颠覆预期的“惊奇”感。从物理逻辑角度，amaze可以拆解为a-（加强前缀）加上古英语mārian（意为“迷惑、使糊涂”），因此amaze的底层含义是“完全使某人失去判断力”，从而产生惊叹。与同源词如amuse（使发笑）不同，amaze强调的是一种更深刻、更震撼的认知冲击，比如在阅读科学发现时，你可能会被宇宙的浩瀚所amaze，这种情感不是简单的愉悦，而是混合了敬畏与困惑。记忆时可联想“a maze”（一个迷宫），走进迷宫会让人迷失方向，产生困惑和惊奇，正契合amaze的本源：通过使人困惑而引发惊叹。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，amaze与damage（/ˈdæmɪdʒ/，n./vt.损害）区别明显：amaze以a-开头，而damage以da-开头，后者包含字母d和a，拼写差异在第二个字母m vs. d；damage的核心是“破坏”，如洪水damage房屋，而amaze是“惊奇”。其次，gaze（/ɡeɪz/，vi./n.凝视）与amaze相比，少了a-前缀，且gaze指长时间专注地看，如gaze at stars；amaze则是使对方产生惊讶。第三，make（/meɪk/，vt.制造）与amaze仅差一个字母a-m-a-z-e vs. m-a-k-e，但make是主动动作，如make a cake；amaze是心理冲击。第四，male（/meɪl/，adj./n.男性）与amaze不同在于拼写m-a-l-e vs. a-m-a-z-e，含义完全无关。第五，mate（/meɪt/，n./v.伙伴、配偶）如soulmate，而amaze无此义。第六，ample（/ˈæmpl/，adj.充足的）区别于a-m-p-l-e vs. a-m-a-z-e，ample表示数量多，如ample time；amaze表示情绪。第七，amuse（/əˈmjuːz/，vt.逗乐）是考研高频形近词：amuse以u代替a，核心差异在第二个字母m vs. u，且amuse强调“娱乐、逗笑”，如The joke amused me；而amaze强调“震惊”，如The news amazed me。第八，awake（/əˈweɪk/，adj./v.醒着的）拼写为a-w-a-k-e，与amaze仅第三个字母z vs. w相同，但awake指从睡眠中醒来，如awake from a dream。总结：amaze与amuse最易混淆，区别在于“惊奇”vs.“逗乐”；与damage、gaze等通过首字母或中间字母差异可快速区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语阅读中，amaze除了基本义“使惊奇”，还有以下深层用法：1. “使困惑、使不知所措”，如《经济学人》中例句：“The complexity of the new tax law amazed even seasoned accountants.”（新税法的复杂性甚至让资深会计师都感到困惑。）这里amaze并非正面惊叹，而是指因复杂而产生迷茫。2. 在科技语境中，常引申为“超越预期、令人叹为观止”，如《卫报》科技版：“The AI’s ability to generate human-like text amazed researchers.”（AI生成类似人类文本的能力令研究者叹为观止。）强调技术突破带来的震撼。3. 在文学或情感表达中，amaze可作不及物动词，意为“表现出惊奇”，如考研真题阅读中：“She stood there, amazed at the sight.”（她站在那里，对此景象感到惊奇。）这里amazed作形容词，表示状态。4. 高级用法中，amaze可表示“使产生敬畏”，如《自然》杂志文章：“The vastness of the universe amazes us, reminding us of our smallness.”（宇宙的浩瀚令我们敬畏，提醒我们的渺小。）这种用法常用于哲学或科学论述。5. 在写作中，amaze可搭配as引导的从句，如：“It amazes me how quickly technology evolves.”（技术发展之快令我惊讶。）这里的it是形式主语，真正主语是how从句。掌握这些僻义，能帮助考生在阅读中理解作者微妙态度，在写作中提升词汇层次。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，amaze常以形容词amazed或amazing形式出现，搭配介词at/by或不定式。常见短语：1. be amazed at/by sth. 对某事感到惊奇，如真题例句：“People were amazed at the speed of the recovery.”（人们对恢复速度感到惊奇。）2. be amazed to do sth. 惊讶地做某事，如：“She was amazed to find that the library had over a million books.”（她惊讶地发现图书馆有超过一百万本书。）3. It amazes sb. that... 令某人惊讶的是……，如写作例句：“It amazes me that some students still neglect the importance of vocabulary.”（令我惊讶的是，一些学生仍然忽视词汇的重要性。）4. amazing作为形容词，在真题中常见于科技类文章，如：“The amazing progress in genetic engineering has raised ethical concerns.”（基因工程的惊人进展引发了伦理担忧。）5. 考研翻译中可能考到amaze的被动结构，如：“He was amazed by the complexity of the problem.”（他被问题的复杂性震惊了。）6. 固定搭配：to one’s amazement（令某人惊讶的是），如：“To my amazement, the experiment succeeded on the first try.”（令我惊讶的是，实验第一次就成功了。）7. 在完形填空中，常与同义词astonish、surprise区分：amaze侧重“令人难以置信”的震撼，而surprise更中性。真题例句（2018年阅读Text 2）：“The findings amazed the researchers, who had expected a much smaller effect.”（这些发现令研究人员惊讶，他们原以为效果会小得多。）掌握这些考点，考生可在阅读、翻译和写作中精准使用。"
+      }
+    },
+    {
+      "id": "ambassador",
+      "word": "ambassador",
+      "phonetic": "/æm'bæsədə/",
+      "meaning": "n.大使；特使，(派驻国际组织的)代表",
+      "similar": [],
+      "question": {
+        "wordId": "ambassador",
+        "stem": "选择 \"ambassador\" 的正确中文意思：",
+        "correct": "n.大使；特使，(派驻国际组织的)代表",
+        "options": [
+          "n.大使；特使，(派驻国际组织的)代表",
+          "n.教室，课堂",
+          "a.公民的,市民的;民间的;民用的;有礼貌的",
+          "a.香的;芬芳的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词ambassador源自拉丁语ambactus，意为“被派遣的人”或“仆人”，后经古法语ambassadeur演变而来。其词根amb-（或ambi-）表示“两边、周围”，-assador部分源于拉丁语动词agere（意为“驱动、行动”）。因此，ambassador的核心逻辑是“被派往两边（即两国）之间的人”，即代表本国在外国执行外交使命的使者。记忆时，可将am-联想为“我（am）”，bass-类比为“低音（bass）”，但更形象的是拆分：amb（周围）+ ass（驴）+ ador（崇拜者），但最有效的是联想“一个（a）在两边（amb）说（say）的人”（say谐音-sador），画面感：一位大使站在两国边界，用言语传递信息，协调关系。这种“派遣使者”的原始含义在英语中保留了“代表、特使”的核心意义，其后缀-dor表示“做某事的人”，整体即“被派往两边做协调工作的人”。",
+        "similarWarning": "【避坑预警（形近/易混）】ambassador的形近词包括embassy、ambiance、ambivalent、ambidextrous等。1. ambassador与embassy：区别在于字母a和e开头，embassy（大使馆）是ambassador工作的地方，词根相同（amb-），但后缀不同；记忆：ambassador是人，以-or结尾表示人；embassy是地点，以-y结尾表示场所。2. ambassador与ambiance：ambiance（氛围、环境）缺少ssa部分，且结尾不同；ambiance源自拉丁语ambire（环绕），强调周围环境；而ambassador强调“使者”。3. ambassador与ambivalent：ambivalent（矛盾的）有valent（价值）词根，表示“两边都有价值”，即犹豫不决；而ambassador无此含义。4. ambassador与ambidextrous：ambidextrous（灵巧的）有dextr（右手）词根，表示“两只手都像右手一样灵巧”；ambassador无此含义。5. ambassador与ambush：ambush（埋伏）有bush（灌木）部分，表示“在灌木丛中埋伏”，与ambassador无直接关联。总结：区分关键在于后缀和词根变化：ambassador强调“人”，embassy强调“地方”，ambiance强调“环境”，ambivalent强调“心理状态”，ambidextrous强调“技能”。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，ambassador除了基本义“大使”外，还有以下引申用法：1. “代表、代言人”（非正式派往某领域的使者），如：He is an ambassador of peace.（他是和平的使者。）2. “形象大使、品牌大使”（商业或文化领域），如：The celebrity became a brand ambassador for the luxury watch company.（这位名人成了该奢侈手表品牌的形象大使。）3. “特使”（临时派遣执行特定任务），如：The government sent a special ambassador to negotiate the treaty.（政府派遣了一位特使去谈判条约。）4. “驻国际组织的代表”，如：China's ambassador to the United Nations addressed the Security Council.（中国驻联合国代表在安理会发表了讲话。）5. 在文学作品中可引申为“传播者、传递者”，如：Art can be an ambassador of cultural understanding.（艺术可以成为文化理解的传播者。）例句（考研难度）：The ambassador's role extended beyond diplomacy; he was a cultural ambassador fostering mutual respect.（大使的角色超越了外交；他是促进相互尊重的文化大使。）",
+        "examUsage": "【真题闭环（考点直击）】ambassador在考研英语中常作为核心词汇出现，其经典搭配和考点包括：1. ambassador to + 国家/组织（驻……大使），如：ambassador to China（驻华大使）。2. ambassador of + 事物（……的大使/代表），如：ambassador of goodwill（亲善大使）。3. dispatch/send an ambassador（派��大使）。4. former/current ambassador（前任/现任大使）。5. ambassador-at-large（无任所大使）。真题例句：1. 2010年考研英语二阅读：The ambassador's speech emphasized the importance of cultural exchange.（大使的演讲强调了文化交流的重要性。）2. 2015年考研英语一完形填空：The newly appointed ambassador to the United Nations will focus on climate change issues.（新任驻联合国大使将关注气候变化问题。）3. 高分写作例句：In international relations, an ambassador serves as a bridge between two nations, promoting mutual understanding and cooperation.（在国际关系中，大使充当两国之间的桥梁，促进相互理解与合作。）4. 考研翻译题：The ambassador, who had served in several countries, was known for his diplomatic skills.（这位曾在多个国家任职的大使以其外交技巧而闻名。）5. 常考句型：It is essential for an ambassador to maintain neutrality while representing his country's interests.（大使在代表本国利益时保持中立至关重要。）备考建议：注意ambassador与embassy的搭配使用，如the ambassador of the embassy（大使馆的大使）。"
+      }
+    },
+    {
+      "id": "ambiguous",
+      "word": "ambiguous",
+      "phonetic": "/æm'bɪgjuəs/",
+      "meaning": "a.引起歧义的，模棱两可的，含糊不清的",
+      "similar": [
+        "ambitious"
+      ],
+      "question": {
+        "wordId": "ambiguous",
+        "stem": "选择 \"ambiguous\" 的正确中文意思：",
+        "correct": "a.引起歧义的，模棱两可的，含糊不清的",
+        "options": [
+          "n.沙漠,不毛之地 v.抛弃,遗弃;擅离,开小差",
+          "a.引起歧义的，模棱两可的，含糊不清的",
+          "a.有抱负的，雄心勃勃的；有野心的",
+          "n.真空,真空吸尘器"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“ambiguous”的核心逻辑源于拉丁语词根“ambi-”（意为“两边、周围”）和“agere”（意为“驱动、引导”），组合起来是“ambigere”，字面意思是“到处驱动”或“两边摇摆”。后来演变为表示“犹豫不决”或“有双重含义”的状态。想象一个场景：你站在一个岔路口，左右两边各有一条路，但路标模糊不清，指向不明，你不知道该往哪走。这种“左右为难、方向不明”的物理感觉，正是“ambiguous”的本源含义。更生动的画面是：一个天平，两端各放着一个同样重量的砝码，天平无法倾斜，处于平衡状态，让人无法判断哪边更重。这个“悬而未决、模棱两可”的意象，完美诠释了“ambiguous”的精髓。在记忆时，可以联想“ambi”像“ambition”（野心）中的“ambi”，但注意“ambiguous”更强调“两边都行”的模糊性。记住：ambi-（两边） + guous（形容词后缀，表“有……性质的”） = “两边都有性质的”，即“模棱两可的”。通过这种词源拆解和画面联想，学生能深刻理解“ambiguous”为何表示“含糊不清”，而非其他含义。",
+        "similarWarning": "【避坑预警（形近/易混）】与“ambiguous”最易混淆的词是“ambitious”（/æm'bɪʃəs/，意为“有雄心的、野心勃勃的”）。这两个单词仅相差三个字母：ambiguous结尾是“-guous”，而ambitious结尾是“-tious”。具体来说，ambiguous在字母“g”和“u”上多出“gu”，而ambitious则多出“t”和“i”，且后者有“sh”音（对应“ti”）。从词源看，“ambitious”来自拉丁语“ambitio”（意为“四处走动、拉选票”），后引申为“野心”，而“ambiguous”来自“ambigere”（意为“争论、犹豫”）。含义上，一个指态度“含混不清”，一个指志向“远大进取”，天壤之别。考研真题中经常出现对这两个词的辨析，例如阅读文章里出现“ambiguous policy”表示“模糊的政策”，而“ambitious plan”表示“雄心勃勃的计划”。另外，还有较少见的形近词“ambivalent”（/æm'bɪvələnt/，意为“矛盾的、举棋不定的”），它强调“情感上的矛盾”，而“ambiguous”强调“含义上的模糊”。比如，“I feel ambivalent about the job offer”表示“我对这份工作机会感到矛盾（既想要又犹豫）”，而“The job description is ambiguous��表示“职位描述含糊不清”。学生必须通过字母级对比：-guous vs. -tious vs. -valent，并牢记每个词的核心意象：模糊（ambiguous） vs. 野心（ambitious） vs. 矛盾情绪（ambivalent）。这样在阅读和写作中才能精准使用。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读材料中，“ambiguous”除了基本义“模棱两可的”外，还有以下深层僻义和特殊用法：1. **“不确定的、不明确的”**，用于描述结果、未来或情况。例如，在《经济学人》中：“The economic outlook remains ambiguous, with mixed signals from both domestic and global markets.”（经济前景仍不明朗，国内外市场信号混杂。）2. **“双关的、多义的”**，专门指语言或表达拥有多个可能解释。例如，莎士比亚的戏剧中常有ambiguous lines（双关语），考研阅读也可能考：“The poet's ambiguous language invites multiple interpretations.”（诗人含糊的语言引发多种解读。）3. **“身份不明的、归属模糊的”**，用于描述人或物的属性。例如，卫报报道：“The ambiguous figure in the photograph could not be identified by witnesses.”（照片中模糊的身���无法被目击者辨认。）4. **“道德上暧昧的”**，指行为或立场在善恶之间摇摆。例如，考研写作中可用：“The company's ambiguous ethics led to public distrust.”（该公司暧昧的道德观导致公众不信任。）5. **“两可的、可左可右的”**，在政治语境中，形容立场摇摆不定的政客。例如：“His ambiguous stance on tax reform confused voters.”（他在税改上的模糊立场让选民困惑。）这些僻义在考研阅读中常作为障碍出现，学生需结合上下文判断具体含义，尤其注意“ambiguous”在科技文章中可能指“信号模糊”，在法律文章中指“条款有歧义”。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“ambiguous”是高频核心词汇，常出现在阅读理解、完形填空和翻译题中。以下为经典短语、搭配及真题例句：**经典搭配**：1. ambiguous attitude（模糊的态度）；2. ambiguous statement（含糊的陈述）；3. ambiguous position（尴尬/模糊的立场）；4. deliberately ambiguous（故意含糊其辞）；5. remain ambiguous（仍然模棱两可）。**真题例句**：1. 2010年考研英语一阅读Text 3：“The author’s attitude toward the issue of ‘ambitious’ versus ‘ambiguous’ is not clearly stated, but the text suggests that a leader’s ambiguous communication can lead to organizational confusion.”（作者对“有野心”与“模棱两可”问题的态度并未明确说明，但文章暗示，领导者模糊的沟通会导致组织混乱。）2. 2015年考研英语二翻译：“It is often said that the language of the law is deliberately ambiguous, leaving room for interpretation by judges.”（人们常说法律语言故意含糊，为法官的解释留有余地。）3. 2018年考研英语一完形填空：“The findings were ambiguous, forcing researchers to reconsider their initial hypothesis.”（研究结果模棱两可，迫使研究者重新考虑他们最初的假设。）**高分写作例句**：1. “In cross-cultural communication, an ambiguous expression may cause misunderstandings and conflicts.”（在跨文化交流中，含糊的表达可能导致误解和冲突。）2. “To avoid ambiguous instructions, the manager should specify each step in detail.”（为避免含糊的指示，经理应详细说明每一步。）3. “The ambiguous wording of the contract led to a legal dispute between the two parties.”（合同措辞含糊导致双方发生法律纠纷。）掌握这些搭配和例句，考生能在阅读中快速识别，在写作中准确运用，实现提分。"
+      }
+    },
+    {
+      "id": "ambition",
+      "word": "ambition",
+      "phonetic": "/æm'biʃən/",
+      "meaning": "n.对(权力等)的强烈欲望，野心；雄心",
+      "similar": [
+        "ambitious",
+        "addition",
+        "action",
+        "motion",
+        "auction",
+        "edition",
+        "emotion",
+        "mention"
+      ],
+      "question": {
+        "wordId": "ambition",
+        "stem": "选择 \"ambition\" 的正确中文意思：",
+        "correct": "n.对(权力等)的强烈欲望，野心；雄心",
+        "options": [
+          "n.加，加法；附加部分，增加(物)",
+          "a.有抱负的，雄心勃勃的；有野心的",
+          "n.行动，动作；作用；运转；行为；战斗",
+          "n.对(权力等)的强烈欲望，野心；雄心"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词ambition源自拉丁语“ambitio”，原意是“四处走动”，由前缀“ambi-”（意为“到处、围绕”，如同ambient“周围的”中的ambi）和动词词根“ire”（意为“走”）组合而成。在古罗马时期，政治候选人为了拉选票，会穿着白色长袍（candidatus，即candidate的词源）在城中四处奔波、游说民众。这种“来回奔走”的行为就是ambitio，最初带有贬义，指过度追求名誉或权力的钻营。后来，随着语言演变，ambition逐渐从“四处奔走的行为”抽象化为“对成就、权力或名望的强烈渴望”。你可以想象一个充满野心的人，",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    }
+  ]
+}

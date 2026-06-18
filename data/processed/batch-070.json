@@ -1,0 +1,1735 @@
+{
+  "batchId": 70,
+  "words": [
+    {
+      "id": "seaside",
+      "word": "seaside",
+      "phonetic": "/'si:said/",
+      "meaning": "n.海滨,海边",
+      "similar": [
+        "aside",
+        "beside",
+        "feasible",
+        "sensible"
+      ],
+      "question": {
+        "wordId": "seaside",
+        "stem": "选择 \"seaside\" 的正确中文意思：",
+        "correct": "n.海滨,海边",
+        "options": [
+          "n.海滨,海边",
+          "a.可行的;切实可行的;行得通的;可用的",
+          "ad.在旁边，到一边 n.旁白；离题的话",
+          "prep.在...旁边，在...附近；和...相比"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "sea（海）+ side（边，侧）。字面即‘海的旁边’，直接指代海滨、海边区域。",
+        "similarWarning": "aside（ad.在旁边）：a-（向）+ side（侧），强调‘向一边’。beside（prep.在…旁边）：be-（在）+ side，强调位置关系。feasible（a.可行的）：f-（做）+ eas-（容易）+ ible（能…的），词源与‘做’相关。sensible（a.明智的）：sens-（感觉）+ ible，强调‘能感知的’。seaside仅在拼写中含side，无词义关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "secondary",
+      "word": "secondary",
+      "phonetic": "/'sekəndəri/",
+      "meaning": "a.次要的,二级的;中级的,第二的",
+      "similar": [
+        "secretary"
+      ],
+      "question": {
+        "wordId": "secondary",
+        "stem": "选择 \"secondary\" 的正确中文意思：",
+        "correct": "a.次要的,二级的;中级的,第二的",
+        "options": [
+          "n.秘书,书记;部长,大臣",
+          "a.次要的,二级的;中级的,第二的",
+          "n.假定，设想；采取；承担；推测；假装",
+          "n.女巫, 巫婆，巫师"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'secundarius'，意为 '跟随的、第二位的'，由 'secundus'（第二）加形容词后缀 '-ary' 构成。核心物理动作是 '跟随在第一个之后'，故引申为 '次要的、第二等级的'。",
+        "similarWarning": "secretary（秘书，书记）：与 secondary 拼写相似，但 secretary 源自 'secret'（秘密），指处理秘密事务的人；secondary 强调顺序上的 '第二'，二者词义无关联。",
+        "extendedMeaning": "在考研英语中，secondary 常表示 '继发的、非原发的'，如 secondary infection（继发感染），或 '从属的、辅助的'，如 secondary education（中等教育）中的 '第二' 含义，但更常见于学术语境中指 '非首要的'。",
+        "examUsage": "常见考点：'be secondary to' 意为 '次于、从属于'，如 'The issue of cost is secondary to the quality of the product.'（成本问题次于产品质量。）在真题中常作为干扰项，与 'primary'、'major' 等词形成对比。"
+      }
+    },
+    {
+      "id": "secret",
+      "word": "secret",
+      "phonetic": "/'si:krit/",
+      "meaning": "a.秘密的,机密的 n.秘密",
+      "similar": [
+        "screw",
+        "regret",
+        "sacred",
+        "secure",
+        "security"
+      ],
+      "question": {
+        "wordId": "secret",
+        "stem": "选择 \"secret\" 的正确中文意思：",
+        "correct": "a.秘密的,机密的 n.秘密",
+        "options": [
+          "a.秘密的,机密的 n.秘密",
+          "n.螺旋,螺丝(钉) v.拧,拧紧",
+          "v./n.遗憾,懊悔,抱歉",
+          "a.神圣的;宗教的;庄严的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'secretus'，由 'se-'（分开） + 'cernere'（筛，区分）构成，本义是‘分开、筛选出来’。核心物理动作是‘把某物从公共视野中分离出来’，引申为‘秘密的、不公开的’。",
+        "similarWarning": "screw（螺丝，拧紧） vs secret：screw 含 'scr'，侧重物理旋转；secret 含 'sec'，侧重分离隐藏。regret（后悔） vs secret：regret 含 're-'（回），表‘回念’；secret 无此前缀。sacred（神圣的） vs secret：sacred 含 'sacr'（神圣），与宗教相关；secret 无关神圣。secure（安全的） vs secret：secure 含 'se-' + 'cura'（关心），表‘无需担心’；secret 强调隐藏。security（安全）是 secure 的名词，与 secret 词根不同。",
+        "extendedMeaning": "在考研真题中，secret 可作名词表‘秘诀、诀窍’，如 'the secret to success'（成功的秘诀），非字面‘秘密’。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "secretary",
+      "word": "secretary",
+      "phonetic": "/'sekrətəri/",
+      "meaning": "n.秘书,书记;部长,大臣",
+      "similar": [
+        "secondary"
+      ],
+      "question": {
+        "wordId": "secretary",
+        "stem": "选择 \"secretary\" 的正确中文意思：",
+        "correct": "n.秘书,书记;部长,大臣",
+        "options": [
+          "vt.发出;放射;吐露;散发;发表;发行",
+          "n.秘书,书记;部长,大臣",
+          "vt.抱有，怀有(希望等)；爱护，抚育；珍爱",
+          "a.次要的,二级的;中级的,第二的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语secretarius（机密事务保管人），词根secret-（秘密）+ -ary（从事…的人）。本义为“处理机密文件的人”，引申为“秘书、书记”，再引申为政府部门的“部长、大臣”，强调其掌管机密信息与行政事务的核心职能。",
+        "similarWarning": "secondary（/ˈsekənderi/ adj. 次要的，中等的）与secretary拼写相似，区别在于：secretary含“-tary”，而secondary含“-dary”。记忆时注意“秘书(secretary)处理秘密(secret)事务”，而“次要的(secondary)是第二位(second)的”。",
+        "extendedMeaning": "在考研外刊中，常出现“secretary of state”（国务卿）、“secretary-general”（秘书长）等职位称谓，强调其行政首脑角色，而非仅指一般文秘。",
+        "examUsage": "真题常考固定搭配：secretary of the treasury（财政部长）、secretary of defense（国防部长）。注意区分与assistant（助手）的语义差异：secretary侧重文件与机密管理，assistant侧重辅助性工作。"
+      }
+    },
+    {
+      "id": "section",
+      "word": "section",
+      "phonetic": "/'sekʃn/",
+      "meaning": "n.章节,部分;地区,部门,科;截面,剖面",
+      "similar": [
+        "selection",
+        "sanction",
+        "action",
+        "sector",
+        "auction",
+        "fiction",
+        "mention",
+        "session"
+      ],
+      "question": {
+        "wordId": "section",
+        "stem": "选择 \"section\" 的正确中文意思：",
+        "correct": "n.章节,部分;地区,部门,科;截面,剖面",
+        "options": [
+          "n.行动，动作；作用；运转；行为；战斗",
+          "n./v.批准,同意,支持,认可 n.处罚,制裁",
+          "n.选择,挑选;选集,精选物",
+          "n.章节,部分;地区,部门,科;截面,剖面"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“secare”（切割）。词根“sect-”意为“切、割”，后缀“-ion”表行为/结果。核心物理动作是“切开/分割”，引申为被切割出的“部分、章节、区域、部门”及“截面”。",
+        "similarWarning": "形近词对比：\n- section (n.部分) vs. sector (n.部门/扇形区)：sector强调功能/几何分区，section更侧重切割后的独立部分。\n- section vs. selection (n.选择)：selection由“select”（挑选）衍生，侧重“选出”。\n- section vs. sanction (n./v.制裁/批准)：sanction词源为“神圣法令”，无切割义。",
+        "extendedMeaning": "考研僻义：\n1. 【医学】切片（如：tissue section 组织切片）\n2. 【法律】条款（如：Section 5 of the Act 法案第5条）\n3. 【数学】截面（如：cross-section 横截面）",
+        "examUsage": "真题考点：\n1. 固定搭配“cross-section”（横截面；典型群体），如：a cross-section of society（社会各阶层典型代表）\n2. 短语“golden section”（黄金分割），常用于科技/美学类阅读干扰项。\n3. 在阅读中常与“segment”（部分）互换，但section更强调切割后的独立单位，segment侧重连续体中的一段。"
+      }
+    },
+    {
+      "id": "sector",
+      "word": "sector",
+      "phonetic": "/'sektə/",
+      "meaning": "n.部门，部分；防御地段，防区；扇形",
+      "similar": [
+        "section",
+        "senator",
+        "actor",
+        "factor",
+        "senior",
+        "detector",
+        "director"
+      ],
+      "question": {
+        "wordId": "sector",
+        "stem": "选择 \"sector\" 的正确中文意思：",
+        "correct": "n.部门，部分；防御地段，防区；扇形",
+        "options": [
+          "n.部门，部分；防御地段，防区；扇形",
+          "n.章节,部分;地区,部门,科;截面,剖面",
+          "n.参议员",
+          "n.男演员；演员，行动者"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根sect-（切割） + -or（名词后缀，表物或施动者）。核心物理动作是“切割”，sector即“被切割出的部分”，引申为整体中的一部分（部门）、划分的防区、几何中的扇形。",
+        "similarWarning": "section（n. 部分，章节；sect- + -ion，强调切割的结果或过程） vs sector（-or强调被切割出的独立区域/部门，更侧重功能划分）。",
+        "extendedMeaning": "考研中常指“经济/行业部门”，如public/private sector（公共/私营部门），非字面“扇形”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "secure",
+      "word": "secure",
+      "phonetic": "/si'kjuə/",
+      "meaning": "a.(from,against)安全的,放心的v.得到;防护",
+      "similar": [
+        "lecture",
+        "cure",
+        "recur",
+        "scare",
+        "score",
+        "secret",
+        "severe",
+        "security"
+      ],
+      "question": {
+        "wordId": "secure",
+        "stem": "选择 \"secure\" 的正确中文意思：",
+        "correct": "a.(from,against)安全的,放心的v.得到;防护",
+        "options": [
+          "a.(from,against)安全的,放心的v.得到;防护",
+          "n./v.演讲,讲课",
+          "v.(of)治愈,医治;矫正 n.治愈,痊愈;良药",
+          "v.(尤指不好的事)一再发生；重现"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语securus，由se-（无/脱离）+cura（忧虑/关心）组成，字面义为“没有忧虑的”。核心动作：从担忧中解脱出来，引申为“安全的”（状态）和“获取/防护”（动作：使达到无忧状态）。",
+        "similarWarning": "secure vs. sure: sure（确定的）少se-前缀；secure vs. scare: scare（惊吓）仅a/e字母差异；secure vs. secret: secret（秘密）含cre-（分离）而非cur-。",
+        "extendedMeaning": "v. 获得（通过努力或竞争，尤指不易得到之物）：secure a contract（获得合同）；secure funding。adj. 稳固的、牢靠的：a secure foothold（稳固的立足点）。",
+        "examUsage": "真题高频搭配：secure from/against（免于……的威胁）；系表结构：be secure in sth（对……有把握）。例句：The system is secure against cyber attacks.（该系统能防御网络攻击。）"
+      }
+    },
+    {
+      "id": "security",
+      "word": "security",
+      "phonetic": "/sɪ'kjuərəti/",
+      "meaning": "n.安全(感),防御(物),保证(人),(pl.)证券",
+      "similar": [
+        "secret",
+        "secure",
+        "speciality"
+      ],
+      "question": {
+        "wordId": "security",
+        "stem": "选择 \"security\" 的正确中文意思：",
+        "correct": "n.安全(感),防御(物),保证(人),(pl.)证券",
+        "options": [
+          "n.(specialty)特性，性质；专业/长；特产",
+          "a.(from,against)安全的,放心的v.得到;防护",
+          "a.秘密的,机密的 n.秘密",
+          "n.安全(感),防御(物),保证(人),(pl.)证券"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语securitas，由se-（无/脱离）+ cura（忧虑/担心）+ -ity（名词后缀）构成，核心动作是‘脱离忧虑’，即从不安状态中解脱，引申为安全、保障。",
+        "similarWarning": "secret（秘密的）：shared记忆点‘cura’（关心）vs‘cret’（区分），security强调无忧，secret强调隐藏。secure（安全的/获得）：security是名词形式，secure是形容词/动词。",
+        "extendedMeaning": "证券（pl. securities）：考研常考‘证券市场’（securities market），非字面安全义。",
+        "examUsage": "固定搭配：security of tenure（任期保障/使用保障），真题中常作为法律或经济类阅读的核心概念，注意与guarantee（保证）的辨析，前者侧重状态，后者侧重措施。"
+      }
+    },
+    {
+      "id": "seed",
+      "word": "seed",
+      "phonetic": "/si:d/",
+      "meaning": "n.种子 v.播种;结实,结籽",
+      "similar": [
+        "speed",
+        "deed",
+        "feed",
+        "reed",
+        "seek",
+        "seem",
+        "shed",
+        "weed"
+      ],
+      "question": {
+        "wordId": "seed",
+        "stem": "选择 \"seed\" 的正确中文意思：",
+        "correct": "n.种子 v.播种;结实,结籽",
+        "options": [
+          "v.(on,with)喂养,饲养;(with)向…供给",
+          "n.行为,行动;功绩,事迹;证书；契据",
+          "n.速度,快 v.迅速,前进,急行;加速,使加速",
+          "n.种子 v.播种;结实,结籽"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "seed 源自古英语 sæd，本义为“播下的东西”，与 sow（播种）同源。其核心物理动作是“将种子撒入土地”，引申为“起源、开端”。",
+        "similarWarning": "speed（速度）vs seed：speed 含字母 p，表示快速移动；seed 含字母 e，表示种子。see（看见）vs seed：see 少字母 d，表示视觉；seed 多字母 d，表示植物繁殖。deed（行为）vs seed：deed 首字母 d，表示行动；seed 首字母 s，表示种子。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "seek",
+      "word": "seek",
+      "phonetic": "/si:k/",
+      "meaning": "v.(after,for)寻找,探索;试图,企图",
+      "similar": [
+        "seed",
+        "seem",
+        "cheek",
+        "seven",
+        "sheep",
+        "sheer",
+        "sheet",
+        "sneak"
+      ],
+      "question": {
+        "wordId": "seek",
+        "stem": "选择 \"seek\" 的正确中文意思：",
+        "correct": "v.(after,for)寻找,探索;试图,企图",
+        "options": [
+          "v.好像,似乎",
+          "n.种子 v.播种;结实,结籽",
+          "v.(after,for)寻找,探索;试图,企图",
+          "n.面颊,脸"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "seek 源自古英语 secan，核心物理动作为“寻找、追寻”，强调有目的性地搜索或探索某物。词根与拉丁语 sagire（敏锐感知）同源，暗示通过感官或思考来追踪目标。引申为“试图、企图”时，表示努力达成某目的。",
+        "similarWarning": "see（看见）强调视觉结果；seed（种子）加-d；seem（似乎）换-m；week（周）首字母w；cheek（脸颊）首ch；seven（七）尾-ven；sheep（羊）尾-ee；sheer（纯粹的）尾-er。seek 核心是“寻找”，与视觉或时间无关。",
+        "extendedMeaning": "在考研阅读中，seek 常引申为“试图（做某事）”，如 seek to do sth.（试图做某事），强调主动努力或企图，而非单纯寻找。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "seem",
+      "word": "seem",
+      "phonetic": "/si:m/",
+      "meaning": "v.好像,似乎",
+      "similar": [
+        "deem",
+        "seam",
+        "seed",
+        "seek",
+        "stem",
+        "esteem",
+        "seven",
+        "sheep"
+      ],
+      "question": {
+        "wordId": "seem",
+        "stem": "选择 \"seem\" 的正确中文意思：",
+        "correct": "v.好像,似乎",
+        "options": [
+          "n.缝,接缝",
+          "v.好像,似乎",
+          "n.种子 v.播种;结实,结籽",
+          "v.认为,相信"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语‘sēman’（使一致），核心动作是‘看起来一致’→‘似乎’。词义演变：从‘符合某标准’到‘表面呈现的状态’，强调主观判断而非客观事实。",
+        "similarWarning": "seem vs seam：seem（似乎）无字母‘a’；seam（接缝）有‘a’且表‘缝合处’。deem（认为）开头‘d’表判断，seem更侧重外观。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "seemingly",
+      "word": "seemingly",
+      "phonetic": "/'si:miŋli/",
+      "meaning": "ad.外观上，表面上",
+      "similar": [
+        "exceedingly"
+      ],
+      "question": {
+        "wordId": "seemingly",
+        "stem": "选择 \"seemingly\" 的正确中文意思：",
+        "correct": "ad.外观上，表面上",
+        "options": [
+          "ad.外观上，表面上",
+          "ad.极端地,非常",
+          "n.铁锤,槌,榔头 v.锤击,敲打",
+          "n.减少,减小;减少量 v.减少,变少,降低"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自 seem（看起来）+ -ing（形容词后缀）+ -ly（副词后缀）。核心动作是“看起来的样子”，强调基于表面观察而非内在实质的判断，暗示与实际可能存在差异。",
+        "similarWarning": "exceedingly（非常，极其）：前缀ex-（超出）+ ceed（走）+ -ing + -ly，强调程度上的“超出”。seemingly 以“seem”开头，侧重外观；exceedingly 以“ex-”开头，侧重程度。",
+        "extendedMeaning": "在考研阅读中常引申为“看似…实则…”，用于对比表面与真相，如 seemingly innocent（看似无害的，实则危险）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "segment",
+      "word": "segment",
+      "phonetic": "/'segmənt/",
+      "meaning": "n.段,片,节,部分",
+      "similar": [
+        "cement",
+        "augment",
+        "sentiment",
+        "argument",
+        "basement",
+        "fragment",
+        "shipment"
+      ],
+      "question": {
+        "wordId": "segment",
+        "stem": "选择 \"segment\" 的正确中文意思：",
+        "correct": "n.段,片,节,部分",
+        "options": [
+          "n.段,片,节,部分",
+          "n.水泥;胶泥,胶接剂 v.胶合;巩固,加强",
+          "vt.(使)增大，增加，增长，扩张",
+          "n.感情，柔情；看法；感觉"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源于拉丁语'secare'（切割），词根'seg-'与'sect-'同源，意为'切'。'ment'为名词后缀，表示结果或工具。核心物理动作是'切割后形成的独立部分'，引申为任何被分割出的段落或片段。",
+        "similarWarning": "fragment (碎片) vs segment (分段): fragment强调破碎后的小块，常含不完整之意；segment强调按逻辑或自然界限切分的部分，如市场细分。sentiment (情感) vs segment: 拼写差异在'ti'与'g'，词根sent-（感觉）完全不同。",
+        "extendedMeaning": "在商业语境中指市场细分（market segment）；在计算机中指数据段（code segment）；在生物学中指体节（body segment）。",
+        "examUsage": "真题中常与'fragment'、'section'作辨析，考查精确用词。高频搭配：segment of society（社会阶层）、customer segment（客户群体）。"
+      }
+    },
+    {
+      "id": "segregate",
+      "word": "segregate",
+      "phonetic": "/'segrigit/",
+      "meaning": "vt.使···分开，隔离（病患等）",
+      "similar": [
+        "delegate",
+        "degenerate"
+      ],
+      "question": {
+        "wordId": "segregate",
+        "stem": "选择 \"segregate\" 的正确中文意思：",
+        "correct": "vt.使···分开，隔离（病患等）",
+        "options": [
+          "n.陌生人,生客;外地人,外国人",
+          "vt.使···分开，隔离（病患等）",
+          "n.代表 vt.委派…为代表;授权;委托",
+          "v.衰退,堕落,蜕化 a.堕落的 n.堕落者"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根 se- (apart) + greg (flock, group) + -ate (动词后缀)。核心物理动作：把羊群(greg)分开(se-)，即“使群体分离”。",
+        "similarWarning": "delegate: de- (away) + legate (send)，派代表去；degenerate: de- (down) + generate (产生)，退化。segregate强调分离群体，delegate强调委派任务，degenerate强调品质下降。",
+        "extendedMeaning": "在考研中可引申为“种族隔离”或“将某类人/物分开管理”，如 racial segregation。",
+        "examUsage": "常考搭配：segregate ... from ... (把……与……隔开)。真题例句：The policy serves to segregate the poor from the rest of society. (该政策旨在将穷人与社会其他人隔离开来。)"
+      }
+    },
+    {
+      "id": "seize",
+      "word": "seize",
+      "phonetic": "/si:z/",
+      "meaning": "v.抓住,逮住;夺取,占领;没收,查封",
+      "similar": [
+        "sneeze",
+        "site",
+        "prize",
+        "serve",
+        "shine",
+        "slice",
+        "slide",
+        "spine"
+      ],
+      "question": {
+        "wordId": "seize",
+        "stem": "选择 \"seize\" 的正确中文意思：",
+        "correct": "v.抓住,逮住;夺取,占领;没收,查封",
+        "options": [
+          "v.抓住,逮住;夺取,占领;没收,查封",
+          "vi.打喷嚏，发喷嚏声n.喷嚏",
+          "n.位置,场所,地点",
+          "n.奖赏,奖金,奖品 v.珍视,珍惜"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源自拉丁语‘sacire’（夺取）。核心物理动作是‘用手或力量突然抓住并控制某物’，引申为‘逮住、夺取、没收’等带有强制性的获取动作。",
+        "similarWarning": "size（尺寸，大小）：字母‘z’后无‘e’，词义完全不同，指尺度。sneeze（打喷嚏）：多字母‘n’，动作不同。seize强调抓取，sneeze强调生理反应。",
+        "extendedMeaning": "在考研中常考‘抓住机会’（seize the opportunity/chance）的引申义，以及‘（情绪）突然控制’（be seized with panic/desire），表示被动地陷入某种强烈情感。",
+        "examUsage": "真题考点：搭配‘seize on/upon’（抓住并利用，如论点、想法）。例如：The media seized on the politician's remark.（媒体抓住政客的言论大做文章。）注意与‘seize up’（机器卡住）区分。"
+      }
+    },
+    {
+      "id": "seldom",
+      "word": "seldom",
+      "phonetic": "/'seldəm/",
+      "meaning": "ad.很少,不常",
+      "similar": [],
+      "question": {
+        "wordId": "seldom",
+        "stem": "选择 \"seldom\" 的正确中文意思：",
+        "correct": "ad.很少,不常",
+        "options": [
+          "a.显眼的,明显的",
+          "n.(to)反对,异议,不喜欢,反对的理由",
+          "ad.很少,不常",
+          "n.长沙发，沙发"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "seldom 源自古英语 seldan，核心词根与“稀少”相关。本义为“不经常发生”，直接表示频率极低，强调时间上的罕见性。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "select",
+      "word": "select",
+      "phonetic": "/si'lekt/",
+      "meaning": "v.选择,挑选 a.精选的,选择的",
+      "similar": [
+        "elect",
+        "neglect",
+        "reflect",
+        "eject",
+        "erect",
+        "defect",
+        "detect",
+        "reject"
+      ],
+      "question": {
+        "wordId": "select",
+        "stem": "选择 \"select\" 的正确中文意思：",
+        "correct": "v.选择,挑选 a.精选的,选择的",
+        "options": [
+          "v.反射,反映,表现,反省,沉思",
+          "v./n.忽视;疏忽,漏做,忽略",
+          "v.选举,推选;选择,作出选择",
+          "v.选择,挑选 a.精选的,选择的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根：leg/lect（选择）+ 前缀se-（分开）。核心动作：将某物从群体中“分开”出来，即挑选。",
+        "similarWarning": "elect: 前缀e-（出）+ lect（选）→选出→选举；select: 前缀se-（分开）+ lect（选）→分开选→挑选。对比：elect强调政治选举，select强调从多个中精心挑选。",
+        "extendedMeaning": "a.精选的，优等的（如select wines精选葡萄酒）。",
+        "examUsage": "select committee（特别委员会）；select few（少数精英）。"
+      }
+    },
+    {
+      "id": "selection",
+      "word": "selection",
+      "phonetic": "/si'lekʃən/",
+      "meaning": "n.选择,挑选;选集,精选物",
+      "similar": [
+        "reflection",
+        "section",
+        "electron",
+        "collection",
+        "perfection",
+        "sanction",
+        "skeleton",
+        "solution"
+      ],
+      "question": {
+        "wordId": "selection",
+        "stem": "选择 \"selection\" 的正确中文意思：",
+        "correct": "n.选择,挑选;选集,精选物",
+        "options": [
+          "n.(reflexion)映像,倒影;反省,沉思",
+          "n.章节,部分;地区,部门,科;截面,剖面",
+          "n.选择,挑选;选集,精选物",
+          "n.电子"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根lect-表示'选择'，前缀se-表示'分开'，后缀-ion表名词。核心动作是'从众多中分开并选出'，即挑选。",
+        "similarWarning": "collection: 前缀col-表示'一起'，核心词义为'收集'；selection强调从中挑选，collection强调汇集。reflection: 前缀re-表示'回'，核心词义为'反射、反映'；与selection无直接关联。",
+        "extendedMeaning": "在考研中，selection常引申为'精选品、选集'，如natural selection（自然选择）是生物学核心概念。",
+        "examUsage": "考研真题中常出现natural selection（自然选择），作为阅读中生物进化类文章的关键词；也可用于表示'选拔'，如selection process（选拔过程）。"
+      }
+    },
+    {
+      "id": "self",
+      "word": "self",
+      "phonetic": "/self/",
+      "meaning": "n.自我，自己(pl.selves)",
+      "similar": [
+        "shelf",
+        "itself",
+        "myself",
+        "shell",
+        "smell",
+        "spell",
+        "swell"
+      ],
+      "question": {
+        "wordId": "self",
+        "stem": "选择 \"self\" 的正确中文意思：",
+        "correct": "n.自我，自己(pl.selves)",
+        "options": [
+          "pron.[反身代词]我自己；我亲自",
+          "pron.(it的反身代词)它自己，它本身",
+          "n.架子,搁板",
+          "n.自我，自己(pl.selves)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "古英语self，源自原始日耳曼语*selbaz，核心物理动作为“自身、同一实体”，强调主体与客体的同一性，不涉及外部动作。",
+        "similarWarning": "shelf（架子，添加h）；sell（出售，e变l）；shell（壳，添加h）；smell（气味，添加m）；spell（拼写，添加p）；swell（膨胀，添加w）。",
+        "extendedMeaning": "考研中常引申为“私心、个人利益”或“本性、本质”，如one's better self（本性中善良的一面）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "selfish",
+      "word": "selfish",
+      "phonetic": "/'selfiʃ/",
+      "meaning": "adj.自私的，利己的",
+      "similar": [
+        "relish"
+      ],
+      "question": {
+        "wordId": "selfish",
+        "stem": "选择 \"selfish\" 的正确中文意思：",
+        "correct": "adj.自私的，利己的",
+        "options": [
+          "v.期满,(期限)终止;呼气;断气,死亡",
+          "n.美味,味道,调味品,食欲,乐趣 v.喜欢,品味",
+          "n.滤器,滤纸",
+          "adj.自私的，利己的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "self（自己）+ -ish（形容词后缀，表“...的”）。核心动作：指向自身的，即只考虑自己利益的。",
+        "similarWarning": "relish（v. 享受，喜好；n. 调味品，乐趣）。差异：selfish 以 self 开头，强调“自我”；relish 以 rel- 开头，源自拉丁语 relaxare，核心是“放松、品味”。",
+        "extendedMeaning": "考研中常引申为“利己主义的”，用于描述行为或动机，如 selfish motives（自私动机）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "semester",
+      "word": "semester",
+      "phonetic": "/si'mestə/",
+      "meaning": "n.学期",
+      "similar": [
+        "easter",
+        "shelter",
+        "sweater",
+        "cemetery",
+        "register",
+        "remember",
+        "headmaster"
+      ],
+      "question": {
+        "wordId": "semester",
+        "stem": "选择 \"semester\" 的正确中文意思：",
+        "correct": "n.学期",
+        "options": [
+          "n.复活节",
+          "n.学期",
+          "n.掩蔽处;掩蔽,保护 v.掩蔽,躲避,庇护",
+          "n.毛衣,绒衣,厚运动衫"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'semestris'（六个月的），由 'sex'（六）+ 'mensis'（月）构成。最初指为期六个月的课程周期，后泛指学期。核心动作是'六个月的时间段'，强调周期性。",
+        "similarWarning": "形近词辨析：\n- semester (学期): 核心在 'seme-' 与 'sex'（六）相关，指六个月周期。\n- cemetery (墓地): 拼写差异 'seme' vs 'ceme'，词源为希腊语 'koimeterion'（睡觉的地方）。\n- register (登记): 差异 'seme' vs 'regi'，词源 're-'（回）+ 'gerere'（带来）。\n- remember (记住): 差异 'seme' vs 'remem'，词源 're-'（再）+ 'memor'（记忆）。",
+        "extendedMeaning": "考研僻义：\n- 特指美国大学的一学期（通常为15-18周），区别于英国的 'term'（常指三学期制中的一学期）。\n- 在学术语境中可引申为'半学年'或'课程周期'，如 'fall semester'（秋季学期）。",
+        "examUsage": "真题考点：\n- 固定搭配：'semester system'（学期制），与 'quarter system'（学季制）对比。\n- 常见干扰：与 'term' 混用，但 'term' 在英国英语中更常见，且可指'任期'或'术语'。\n- 例��：'The new policy will take effect next semester.'（新政策将于下学期生效。）"
+      }
+    },
+    {
+      "id": "semiconductor",
+      "word": "semiconductor",
+      "phonetic": "/ˌsemikən'dɔktə/",
+      "meaning": "n.半导体",
+      "similar": [],
+      "question": {
+        "wordId": "semiconductor",
+        "stem": "选择 \"semiconductor\" 的正确中文意思：",
+        "correct": "n.半导体",
+        "options": [
+          "v.哭泣,流泪;滴下 n.哭泣",
+          "n.(pl.)杰作,名著 a.第一流的,不朽的",
+          "n.半导体",
+          "vt.想要,打算,企图"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "semi-（半）+ conduct（传导）+ -or（物）。词根conduct源于拉丁语conducere（引导），核心物理动作为“引导电流”。半导体即导电性介于导体与绝缘体之间的材料。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中常引申为“半导体产业/技术”，如semiconductor industry（半导体产业）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "seminar",
+      "word": "seminar",
+      "phonetic": "/'seminɑ:/",
+      "meaning": "n.(大学的)研究班,研讨会",
+      "similar": [
+        "terminal"
+      ],
+      "question": {
+        "wordId": "seminar",
+        "stem": "选择 \"seminar\" 的正确中文意思：",
+        "correct": "n.(大学的)研究班,研讨会",
+        "options": [
+          "n.(大学的)研究班,研讨会",
+          "v./n.提及,说起",
+          "a.下列的，下述的，其次的，接着的",
+          "a.晚期的;终点的;期末的 n.终点(站);终端"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语seminarium（苗床），词根semin-（种子）+ -arium（场所），字面意为“播种的苗床”。引申为学术讨论的“研究班”或“研讨会”，强调在教授指导下，学生像种子一样在思想碰撞中生长出知识。",
+        "similarWarning": "similar（相似的）与seminar：similar词根simil-（相同），而semin-（种子）；terminal（终端的，终点）与seminar：terminal词根termin-（界限），无关联。",
+        "extendedMeaning": "",
+        "examUsage": "在考研真题中，seminar常与workshop、lecture、symposium等词并列，作为学术活动场景的考点，但本身不设高频干扰项。"
+      }
+    },
+    {
+      "id": "senate",
+      "word": "senate",
+      "phonetic": "/'senit/",
+      "meaning": "n.参议院,上院",
+      "similar": [
+        "senator",
+        "skate",
+        "snake",
+        "debate",
+        "denote",
+        "donate",
+        "menace",
+        "relate"
+      ],
+      "question": {
+        "wordId": "senate",
+        "stem": "选择 \"senate\" 的正确中文意思：",
+        "correct": "n.参议院,上院",
+        "options": [
+          "n.参议院,上院",
+          "n.蛇",
+          "v.溜冰,滑冰 n.冰鞋",
+          "n.参议员"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'senex'（老人）。古罗马的 'Senatus' 是长老议会，由德高望重的长者组成，决策国家大事。'senate' 即由这些 '老人' 组成的最高议事机构，后引申为现代议会的上院。核心动作：老人议事。",
+        "similarWarning": "senate vs. senator: 'senate' 是机构（参议院），'senator' 是人物（参议员）。senate vs. sense: 'sense'（感觉）拼写中多一个 's'，词根不同。",
+        "extendedMeaning": "在考研外刊中，'senate' 可引申为任何决策机构或权威团体的比喻用法，如 'the senate of the university'（大学评议会）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "senator",
+      "word": "senator",
+      "phonetic": "/'senətə/",
+      "meaning": "n.参议员",
+      "similar": [
+        "sector",
+        "senate",
+        "senior",
+        "generator",
+        "sensation",
+        "spectator",
+        "elevator",
+        "operator"
+      ],
+      "question": {
+        "wordId": "senator",
+        "stem": "选择 \"senator\" 的正确中文意思：",
+        "correct": "n.参议员",
+        "options": [
+          "n.参议员",
+          "n.部门，部分；防御地段，防区；扇形",
+          "n.参议院,上院",
+          "a.年长的;地位较高的 n.(大学)四年级学生"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'senex'（老人，长老）。词根sen-（老的，年长的）+ -ator（表示人）。最初指古罗马元老院成员，由德高望重的年长者担任，故引申为现代政治中的'参议员'。",
+        "similarWarning": "senate（n.参议院）- senator（n.参议员）；senior（adj.年长的）- senator（n.参议员）；sensation（n.感觉）- senator（n.参议员）；spectator（n.观众）- senator（n.参议员）。差异在于词根与后缀不同。",
+        "extendedMeaning": "考研中无特殊僻义，常指美国等国家的参议院议员，与'congressman'（众议员）相对。",
+        "examUsage": "常与'congressman'、'representative'、'legislator'等词在政治类阅读中对比出现，注意区分'参议院'（Senate）与'众议院'（House of Representatives）的成员称谓。"
+      }
+    },
+    {
+      "id": "senior",
+      "word": "senior",
+      "phonetic": "/'si:njə/",
+      "meaning": "a.年长的;地位较高的 n.(大学)四年级学生",
+      "similar": [
+        "senator",
+        "junior",
+        "sector",
+        "superior"
+      ],
+      "question": {
+        "wordId": "senior",
+        "stem": "选择 \"senior\" 的正确中文意思：",
+        "correct": "a.年长的;地位较高的 n.(大学)四年级学生",
+        "options": [
+          "a.年长的;地位较高的 n.(大学)四年级学生",
+          "n.部门，部分；防御地段，防区；扇形",
+          "a./n.年少的/者,三年级的/学生,下级(的)",
+          "n.参议员"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根sen-意为“老的、年长的”，-ior是比较级后缀。核心动作/画面：比他人更老（年龄或资历），即年长的、地位较高的。",
+        "similarWarning": "senior vs. junior：sen-（老） vs. jun-（年轻），-ior均为比较级后缀，对比年龄或资历的高低。",
+        "extendedMeaning": "在真题中可指“（大学）四年级学生”，引申为“资深者、上级”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sensation",
+      "word": "sensation",
+      "phonetic": "/sen'seiʃən/",
+      "meaning": "n.感觉,知觉;激动,轰动,轰动一时的事情",
+      "similar": [
+        "generation",
+        "mention",
+        "pension",
+        "section",
+        "senator",
+        "session",
+        "tension",
+        "equation"
+      ],
+      "question": {
+        "wordId": "sensation",
+        "stem": "选择 \"sensation\" 的正确中文意思：",
+        "correct": "n.感觉,知觉;激动,轰动,轰动一时的事情",
+        "options": [
+          "n.感觉,知觉;激动,轰动,轰动一时的事情",
+          "n.产生,发生;一代(人)",
+          "v./n.提及,说起",
+          "n.养老金,年金"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根sens-（感觉）+ -ation（名词后缀）→ 感觉、知觉；引申为引起强烈感觉的事物→轰动。",
+        "similarWarning": "sensation vs. tension：sensation含sens-（感觉），tension含tens-（伸展）→紧张。",
+        "extendedMeaning": "轰动、轰动一时的事情（考研常考引申义，如‘引起轰动的发现’）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sensible",
+      "word": "sensible",
+      "phonetic": "/'sensəbl/",
+      "meaning": "a.明智的,达理的;可觉察的,明显的",
+      "similar": [
+        "feasible",
+        "sensitive",
+        "edible",
+        "enable",
+        "entitle",
+        "seaside",
+        "visible"
+      ],
+      "question": {
+        "wordId": "sensible",
+        "stem": "选择 \"sensible\" 的正确中文意思：",
+        "correct": "a.明智的,达理的;可觉察的,明显的",
+        "options": [
+          "a.明智的,达理的;可觉察的,明显的",
+          "a.可行的;切实可行的;行得通的;可用的",
+          "a.(to)敏感的,易受伤害的;灵敏的",
+          "a.可食用的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 sensus（感觉） + -ible（能…的）→ 能感觉到的 → 引申为“明智的”（能感知并做出合理判断）。核心动作：通过感官觉察并做出理性反应。",
+        "similarWarning": "sensitive（敏感的）：sensible 强调理性判断，sensitive 强调情感或感官的敏锐反应。feasible（可行的）：feasible 指计划可行，sensible 指人明智或决定合理。edible（可食用的）：拼写相似但词义无关。",
+        "extendedMeaning": "考研僻义：可觉察的，明显的（如 a sensible difference 明显的差异）。",
+        "examUsage": "真题考点：常与 reasonable, rational 同义替换，但更强调基于常识的明智。常见搭配：sensible approach/suggestion/choice。注意区分 sensible 与 sensitive 的干扰项设置。"
+      }
+    },
+    {
+      "id": "sensitive",
+      "word": "sensitive",
+      "phonetic": "/'sensətɪv/",
+      "meaning": "a.(to)敏感的,易受伤害的;灵敏的",
+      "similar": [
+        "positive",
+        "sensible",
+        "sensation",
+        "tentative"
+      ],
+      "question": {
+        "wordId": "sensitive",
+        "stem": "选择 \"sensitive\" 的正确中文意思：",
+        "correct": "a.(to)敏感的,易受伤害的;灵敏的",
+        "options": [
+          "n.感觉,知觉;激动,轰动,轰动一时的事情",
+          "a.明智的,达理的;可觉察的,明显的",
+          "a.肯定的,积极的,绝对的,无疑的,正的",
+          "a.(to)敏感的,易受伤害的;灵敏的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'sentire'（感觉、感知），结合后缀 '-ive'（有...性质的）。核心物理动作是“感知外界刺激并产生反应”，即对刺激敏感的状态。词根 'sens-'（感觉）直接体现其本义。",
+        "similarWarning": "positive (肯定的，积极的): 词根 'posit-'（放置），强调确定位置；sensible (明智的，可察觉的): 后缀 '-ible'（能...的），强调理性判断；sensation (感觉，轰动): 名词后缀 '-ation'，强调事件或感受本身；tentative (试探性的): 词根 'tent-'（尝试），强调不确定性。",
+        "extendedMeaning": "考研高频僻义：指对细微变化或潜在风险高度警觉，常译为“敏感的”、“敏锐的”。例如：market-sensitive information（市场敏感信息），price-sensitive (价格敏感的)。",
+        "examUsage": "真题考点：常与介词 'to' 搭配，构成 'be sensitive to'（对...敏感），是阅读理解中高频短语，常作为因果或条件关系的题眼。例如：The system is extremely sensitive to changes in temperature. (该系统对温度变化极为敏感。)"
+      }
+    },
+    {
+      "id": "sentence",
+      "word": "sentence",
+      "phonetic": "/'sentəns/",
+      "meaning": "n.句子;判决,宣判 v.宣判,判决",
+      "similar": [
+        "sequence",
+        "defence",
+        "enhance",
+        "essence",
+        "intense",
+        "denounce",
+        "entrance",
+        "tendency"
+      ],
+      "question": {
+        "wordId": "sentence",
+        "stem": "选择 \"sentence\" 的正确中文意思：",
+        "correct": "n.句子;判决,宣判 v.宣判,判决",
+        "options": [
+          "n.句子;判决,宣判 v.宣判,判决",
+          "n.先后,次序;连续,数列",
+          "v.提高,增强",
+          "n.(defense)防御,保卫;防务工事;辩护"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“sententia”（意见、判断），由“sentire”（感觉、认为）+“-entia”（名词后缀）构成。核心动作是“表达判断”：作为动词指法官作出判决（宣判），作为名词指法律上的判决结果，后引申为语法上表达完整意思的“句子”。",
+        "similarWarning": "sentence vs. sequence: sentence含“ten”（持有/感觉），sequence含“sequ”（跟随），意为“序列”。sentence vs. essence: essence含“ess”（存在/本质），意为“本质”；sentence强调“判断”。sentence vs. intense: intense含“tens”（伸展），意为“强烈的”；sentence无此义。",
+        "extendedMeaning": "在考研阅读中，“sentence”常以动词形式出现，意为“判处，判刑”（如be sentenced to life imprisonment），而非“句子”。",
+        "examUsage": "固定搭配：sentence sb. to death（判处某人死刑）；serve a sentence（服刑）。真题例句：“The man was sentenced to three years in prison for fraud.”（该男子因诈骗被判处三年监禁。）注意区分“sentence”作名词表“判决”与“pass a sentence”（宣判）。"
+      }
+    },
+    {
+      "id": "sentiment",
+      "word": "sentiment",
+      "phonetic": "/'sentimənt/",
+      "meaning": "n.感情，柔情；看法；感觉",
+      "similar": [
+        "settlement",
+        "segment",
+        "continent",
+        "statement",
+        "centimetre"
+      ],
+      "question": {
+        "wordId": "sentiment",
+        "stem": "选择 \"sentiment\" 的正确中文意思：",
+        "correct": "n.感情，柔情；看法；感觉",
+        "options": [
+          "n.大陆,洲",
+          "n.段,片,节,部分",
+          "n.解决,决定,调停;居留区,住宅区",
+          "n.感情，柔情；看法；感觉"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根‘sent-’（感觉，感知）+-i-+-ment（名词后缀，表行为结果或状态）。核心动作：通过感官产生内在情绪或观点。源自动词‘sentire’（感觉），引申为‘情感’或‘意见’。",
+        "similarWarning": "settlement（n.定居点；解决）：对比‘sentiment’（情感）与‘settlement’（定居），拼写差异在于‘-ti-’ vs ‘-ttle-’。segment（n.部分）：对比‘sentiment’（情感）与‘segment’（部分），拼写差异在于‘-ti-’ vs ‘-g-’。",
+        "extendedMeaning": "考研僻义：在真题中常表‘（非理性）情绪’或‘舆论倾向’，如‘public sentiment’（公众情绪）或‘market sentiment’（市场情绪），强调集体情感而非个人柔情。",
+        "examUsage": "考点：常见于阅读中作题眼，搭配‘express sentiment’（表达看法）或‘sentiment analysis’（情感分析）。干扰项常混淆‘sentiment’与‘feeling’（感觉），但‘sentiment’更侧重社会性或道德性情感。"
+      }
+    },
+    {
+      "id": "separate",
+      "word": "separate",
+      "phonetic": "/'sepəreit/",
+      "meaning": "a.(from)分离的,分开的",
+      "similar": [
+        "desperate",
+        "depart",
+        "parade",
+        "pirate",
+        "senate",
+        "operate",
+        "sparkle",
+        "decorate"
+      ],
+      "question": {
+        "wordId": "separate",
+        "stem": "选择 \"separate\" 的正确中文意思：",
+        "correct": "a.(from)分离的,分开的",
+        "options": [
+          "a.(from)分离的,分开的",
+          "a.不顾一切的，铤而走险的；绝望的，危急的",
+          "vi.离开,起程 a.过去的,逝世的",
+          "n./v.游行,夸耀n.检阅,阅兵式v.使列队行进"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 se-（分开）+ par（准备、安排）+ -ate（动词/形容词后缀）。核心动作：将原本安排在一起的东西分开。本义是“分开、分离”，引申为“独立的、不同的”。",
+        "similarWarning": "desperate（绝望的）：de-（去掉）+ sper（希望），与 separate 拼写差异在“des” vs “sep”，前者强调绝望，后者强调分开。",
+        "extendedMeaning": "在考研阅读中，separate 常引申为“区分、辨别”，如 separate truth from falsehood（区分真伪），或指“独立的、不相关的”，如 separate issue（不相关的问题）。",
+        "examUsage": "考点搭配：separate...from...（把……与……分开）在真题中常作为区分同义替换的关键短语。"
+      }
+    },
+    {
+      "id": "september",
+      "word": "September",
+      "phonetic": "/sep'tembə/",
+      "meaning": "n.九月",
+      "similar": [
+        "december",
+        "remember"
+      ],
+      "question": {
+        "wordId": "september",
+        "stem": "选择 \"September\" 的正确中文意思：",
+        "correct": "n.九月",
+        "options": [
+          "n.周围的事物,环境",
+          "v.记住;(to)转达问候,代…致意,代…问好",
+          "n.十二月",
+          "n.九月"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'septem'（七），原为罗马历法的第七个月（三月为岁首）。后因历法改革，January和February被移至年初，September变为第九个月，但名称未改。核心动作：第七→第九的语义漂移。",
+        "similarWarning": "December（十二月，拉丁语'decem'十→十二月）、remember（记忆，re-再次+memor记得）",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sequence",
+      "word": "sequence",
+      "phonetic": "/'si:kwəns/",
+      "meaning": "n.先后,次序;连续,数列",
+      "similar": [
+        "sentence",
+        "frequency",
+        "quench",
+        "defence",
+        "essence",
+        "squeeze"
+      ],
+      "question": {
+        "wordId": "sequence",
+        "stem": "选择 \"sequence\" 的正确中文意思：",
+        "correct": "n.先后,次序;连续,数列",
+        "options": [
+          "n.频率,周率",
+          "n.句子;判决,宣判 v.宣判,判决",
+          "v.熄灭,扑灭,压制,抑制,止渴",
+          "n.先后,次序;连续,数列"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'sequi'（跟随），词根 'sec-/sequ-' 意为“跟随”。后缀 '-ence' 表示“状态/结果”。核心物理动作是“一个接一个地跟随”，引申为“先后次序”或“连续序列”。",
+        "similarWarning": "sentence（句子，判决）：词根 'sent-'（感觉），与 'sequ-'（跟随）无关联。frequency（频率）：词根 'frequ-'（频繁），强调重复次数。quench（熄灭）：词根无关联。defence（防御）：词根 'fend-'（打击）。essence（本质）：词根 'ess-'（存在）。science（科学）：词根 'sci-'（知道）。silence（沉默）：词根 'sil-'（安静）。squeeze（挤压）：词根无关联。以上词仅拼写相似，词源与核心语义均不同。",
+        "extendedMeaning": "在考研真题中常考“序列、顺序”的抽象义，如 DNA sequence（DNA序列）、sequence of events（事件顺序）；亦可用于数学或逻辑语境，如“数列”或“逻辑顺序”。",
+        "examUsage": "考点搭配：in sequence（依次，按顺序）常作为逻辑连接题眼。真题例句：'The events are described in chronological sequence.'（这些事件按时间顺序描述。）注意与 series（系列，强调同类事物连续）的辨析。"
+      }
+    },
+    {
+      "id": "serial",
+      "word": "serial",
+      "phonetic": "/'siəriəl/",
+      "meaning": "n.连载小说，连续剧；连载刊物 a.连续的",
+      "similar": [
+        "aerial",
+        "seal",
+        "trial",
+        "cereal",
+        "denial",
+        "series",
+        "social",
+        "verbal"
+      ],
+      "question": {
+        "wordId": "serial",
+        "stem": "选择 \"serial\" 的正确中文意思：",
+        "correct": "n.连载小说，连续剧；连载刊物 a.连续的",
+        "options": [
+          "n.讯问，审讯；试验；试用；尝试",
+          "n.封铅,封条;印,图章;海豹 v.封,密封",
+          "a.(在或来自)空中的，航空的 n.天线",
+          "n.连载小说，连续剧；连载刊物 a.连续的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'series'（连接、连续），-ial为形容词后缀，表示“连续的、一系列”的。核心动作是“一个接一个按顺序排列”，强调时间或空间上的连贯性。",
+        "similarWarning": "cereal（谷物）与 serial 拼写仅差一个字母 'e' vs 'i'，词义无关。aerial（空中的）与 serial 在字母顺序上有相似，但词根不同（aer-空气）。",
+        "extendedMeaning": "在考研中，serial 常作名词指“连载小说/连续剧”，如 'a TV serial'（电视连续剧），或作形容词表示“连续的、序号的”，如 'serial number'（序号）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "series",
+      "word": "series",
+      "phonetic": "/'siəri:z/",
+      "meaning": "n.一系列,连续;丛书",
+      "similar": [
+        "species",
+        "serve",
+        "serial"
+      ],
+      "question": {
+        "wordId": "series",
+        "stem": "选择 \"series\" 的正确中文意思：",
+        "correct": "n.一系列,连续;丛书",
+        "options": [
+          "n.一系列,连续;丛书",
+          "n.(物)种,种类",
+          "v.服务,尽责;招待,侍候;符合,适用",
+          "n.连载小说，连续剧；连载刊物 a.连续的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语serere（连接、排列），核心动作是“一个接一个地连接排列”。词根ser-（连接）→ series（系列），强调顺序性，如a series of events（一系列事件）。",
+        "similarWarning": "形近词辨析：serious（严肃的，seri-+ous） vs series（系列，seri-+es复数后缀）；species（物种，spec-看+ies，指“看起来相似的一类”） vs series（强调顺序连接）；serve（服务，serv-服务） vs series（无关联）；serial（连续的，seri-+al形容词后缀） vs series（名词，指“系列本身”）。",
+        "extendedMeaning": "在考研中，series常引申为“丛书”（a series of books）或“连续剧”（TV series），但作为熟词僻义时，可指“一系列事件/动作的连续”，如a series of experiments（一系列实验），强调逻辑连贯性。",
+        "examUsage": "考点：常用短语a series of（一系列），后接可数名词复数，谓语动词用单数（如A series of lectures is scheduled）。真题例句：A series of measures have been taken to address the issue.（注意：实际使用中谓语动词也可用复数，但考研语法题常考单数一致性。）"
+      }
+    },
+    {
+      "id": "servant",
+      "word": "servant",
+      "phonetic": "/'sə:vənt/",
+      "meaning": "n.仆人",
+      "similar": [
+        "merchant",
+        "relevant"
+      ],
+      "question": {
+        "wordId": "servant",
+        "stem": "选择 \"servant\" 的正确中文意思：",
+        "correct": "n.仆人",
+        "options": [
+          "n.商人,零售商",
+          "v.支配,统治,控制;占优势",
+          "a.有关的,中肯的,相应的,实质性的",
+          "n.仆人"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根serv-（服务，源自拉丁语servire“服务”）+ -ant（名词后缀，表示“做…的人”）。字面意思为“提供服务的人”，即仆人。",
+        "similarWarning": "merchant（商人）：m-开头，与servant同有“-ant”后缀，但词根merc-（贸易）不同，指从事贸易的人。relevant（相关的）：re-（再/回）+lev-（举）+ -ant，与servant拼写差异在于“r”和“lev”，词义为“相关的”，与“仆人”无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "serve",
+      "word": "serve",
+      "phonetic": "/sə:v/",
+      "meaning": "v.服务,尽责;招待,侍候;符合,适用",
+      "similar": [
+        "nerve",
+        "deserve",
+        "observe",
+        "reserve",
+        "derive",
+        "series",
+        "sleeve",
+        "starve"
+      ],
+      "question": {
+        "wordId": "serve",
+        "stem": "选择 \"serve\" 的正确中文意思：",
+        "correct": "v.服务,尽责;招待,侍候;符合,适用",
+        "options": [
+          "v.应受,值得",
+          "n.神经;勇敢,胆量",
+          "v.服务,尽责;招待,侍候;符合,适用",
+          "v.观察,观测,注意到,监视,遵守,评述,说"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根serv-（服务、奴仆）原指奴隶或仆人，核心物理动作为“侍奉、伺候”。-e为动词后缀。词义从“做仆人工作”延伸为“提供服务、履行职责”，再抽象为“符合条件、适用”。",
+        "similarWarning": "nerve（n.神经；勇气） vs serve：区别在首字母n- vs s-；deserve（v.应得）由de-（加强）+serve构成，强调“理应得到服务”；observe（v.观察；遵守）由ob-（朝向）+serve，原指“侍奉于神前”转为“观察”；reserve（v.保留；预订）由re-（回）+serve，意为“留作后用”。",
+        "extendedMeaning": "在考研阅读中常考“符合、适用”的抽象义，如“This rule serves the purpose.”（这一规则符合目的），或“serve as”（充当、起……作用），如“The example serves as a warning.”",
+        "examUsage": "核心搭配：serve as（充当，起……作用）常出现在阅读长难句和完形填空中；serve to do sth.（有助于做某事），如“These measures serve to reduce pollution.”（这些措施有助于减少污染）。真题中常以“serve”为干扰项，与“contribute to”“function as”同义替换。"
+      }
+    },
+    {
+      "id": "session",
+      "word": "session",
+      "phonetic": "/'seʃən/",
+      "meaning": "n.(一届)会议,一段时间",
+      "similar": [
+        "obsession",
+        "mission",
+        "passion",
+        "pension",
+        "section",
+        "tension",
+        "version",
+        "sensation"
+      ],
+      "question": {
+        "wordId": "session",
+        "stem": "选择 \"session\" 的正确中文意思：",
+        "correct": "n.(一届)会议,一段时间",
+        "options": [
+          "n.(一届)会议,一段时间",
+          "n.迷住, 困扰",
+          "n.热情,激情,爱好;激怒;强烈感情",
+          "n.使命,任务;使团,代表团"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"词根\"sed\"（坐）→ sess（坐的变体）→ session（坐在一起讨论的时间）。核心物理动作：一群人坐下来开会或处理事务，引申为一段连续的时间。\",\n  \"similarWarning\": \"section（部分，区域）= sect（切割）+ ion；session（会议，一段时间）= sess（坐）+ ion。区别：section强调切割后的部分，session强调坐在一起的过程或时段。\",\n  \"extendedMeaning\": \"在真题中常指'（法院的）开庭期'或'（议会的）会期'，如'court session'（开庭期）。\",\n  \"exa",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "setback",
+      "word": "setback",
+      "phonetic": "/'setbæk/",
+      "meaning": "n.挫折；失效；复发；倒退",
+      "similar": [
+        "stack",
+        "feedback"
+      ],
+      "question": {
+        "wordId": "setback",
+        "stem": "选择 \"setback\" 的正确中文意思：",
+        "correct": "n.挫折；失效；复发；倒退",
+        "options": [
+          "n.挫折；失效；复发；倒退",
+          "n.堆,一堆 v.堆积,堆起",
+          "n.反馈;反应;回授",
+          "n.(flavour)情味;风味;滋味 v.给…调味"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "set（放置）+ back（向后）→ 向后放置，即阻碍事物前进的障碍或倒退。",
+        "similarWarning": "stack（堆叠；一摞），对比字母差异：setback 含 'back' 意为向后，stack 无此意；feedback（反馈）含 'feed' 意为喂入，与 set 无关。",
+        "extendedMeaning": "考研中常指“挫折”或“复发”，如经济或健康领域的倒退。",
+        "examUsage": "a setback in negotiations（谈判中的挫折）；suffer a setback（遭受挫折）。"
+      }
+    },
+    {
+      "id": "setting",
+      "word": "setting",
+      "phonetic": "/'setiŋ/",
+      "meaning": "n.安置;落山;(固定东西的)柜架底座;环境",
+      "similar": [
+        "sting",
+        "string",
+        "fitting",
+        "something",
+        "greeting",
+        "spelling"
+      ],
+      "question": {
+        "wordId": "setting",
+        "stem": "选择 \"setting\" 的正确中文意思：",
+        "correct": "n.安置;落山;(固定东西的)柜架底座;环境",
+        "options": [
+          "a.适当的,恰当的 n.(常pl.)配件,附件;装配",
+          "n.弦,线,细绳;(一串),(一行) v.缚,捆",
+          "v./n.刺,刺痛,剧痛;刺,叮",
+          "n.安置;落山;(固定东西的)柜架底座;环境"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根词缀：set（放置）+ -ing（名词后缀）→ 放置的动作或结果。核心物理动作：把某物摆放在一个位置，引申为安置、环境（事物被放置的场所）或太阳落山（太阳被放置到地平线下）。",
+        "similarWarning": "sting（刺，蛰），string（细绳，弦），fitting（合身的，配件），meeting（会议），something（某事），greeting（问候），spelling（拼写）——这些词与setting在拼写上仅差一两个字母，但词义无关联，注意区分。",
+        "extendedMeaning": "（无特殊僻义，故省略）",
+        "examUsage": "（无特殊考点，故省略）"
+      }
+    },
+    {
+      "id": "settle",
+      "word": "settle",
+      "phonetic": "/'setl/",
+      "meaning": "v.安定,安顿;停息;定居;解决,调停",
+      "similar": [
+        "kettle",
+        "shuttle",
+        "stale",
+        "style",
+        "battle",
+        "bottle",
+        "cattle",
+        "gentle"
+      ],
+      "question": {
+        "wordId": "settle",
+        "stem": "选择 \"settle\" 的正确中文意思：",
+        "correct": "v.安定,安顿;停息;定居;解决,调停",
+        "options": [
+          "n.水壶",
+          "n.往返汽车/列车/飞机；穿梭 v.往返穿梭",
+          "v.安定,安顿;停息;定居;解决,调停",
+          "n.变质的,不新鲜的;陈旧的,陈腐的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源于古英语setlan，词根set-（放置）+ -le（反复或小幅度动作后缀），核心物理动作为‘使某物反复放置或固定下来’，引申为‘安定、安顿、定居、解决’等。",
+        "similarWarning": "kettle（水壶）与settle仅差k/s；shuttle（穿梭）含sh-和双t；stale（陈腐）含a-le；style（风格）含y-le；battle（战斗）含b-；bottle（瓶子）含bo-；cattle（牛群）含ca-；gentle（温和的）含g-。注意拼写首字母和中间双写t差异。",
+        "extendedMeaning": "在考研阅读中常考‘解决、调停’（如settle a dispute），以及‘定居’（settle down）的引申义‘安定情绪’；熟词僻义还有‘沉淀’（sediment settle）。",
+        "examUsage": "常见搭配：settle for（勉强接受）、settle on（决定；选定）、settle up（结清账目）。真题例句：The dispute was settled amicably.（争端被友好解决。）注意其反义词unsettle（使不安）也是高频考点。"
+      }
+    },
+    {
+      "id": "settlement",
+      "word": "settlement",
+      "phonetic": "/'setlmənt/",
+      "meaning": "n.解决,决定,调停;居留区,住宅区",
+      "similar": [
+        "sentiment",
+        "statement",
+        "supplement",
+        "gentleman",
+        "implement",
+        "complement"
+      ],
+      "question": {
+        "wordId": "settlement",
+        "stem": "选择 \"settlement\" 的正确中文意思：",
+        "correct": "n.解决,决定,调停;居留区,住宅区",
+        "options": [
+          "n.解决,决定,调停;居留区,住宅区",
+          "n.感情，柔情；看法；感觉",
+          "n.声明,陈述",
+          "n.补遗;增刊;附录 v.增刊,补充"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根settl(e)（来自古英语setlan，意为“使坐下、放置”，源自sit“坐”）+ -ment（名词后缀，表行为、结果或场所）。核心动作：使某物“坐下”或“固定下来”。由此引申：1. 使争议“坐下”即“解决、调停”；2. 使人“坐下”定居即“居留区、住宅区”；3. 使账款“坐下”即“结算”。",
+        "similarWarning": "sentiment（情感，-sent-感觉） vs. settlement（解决，-settl-坐下）：前者情感波动，后者稳定解决。statement（陈述，state-陈述） vs. settlement：前者口头/书面声明，后者行动结果。supplement（补充，supply-供给） vs. settlement：前者添加，后者完成。gentleman（绅士，gentle-温和） vs. settlement：前者指人，后者指事/地。implement（实施，im-向内+ple-充满） vs. settlement：前者侧重执行工具/手段，后者侧重最终状态。complement（互补，com-共同+ple-充满） vs. settlement：前者强调完美配合，后者强调分歧终结。",
+        "extendedMeaning": "在考研外刊（如《经济学人》）中，settlement常引申为“金融结算”（如：cash settlement“现金结算”）或“法律和解协议”（如：out-of-court settlement“庭外和解”），强调法律或财务上的最终清算。",
+        "examUsage": "真题考点：1. 搭配“reach a settlement”（达成和解），常作题眼考查动词搭配。2. 干扰项：与“resolution”（解决，侧重过程）、“solution”（解决方案，侧重方法）辨析。例句：The two sides failed to reach a settlement in the labor dispute.（双方未能就劳资纠纷达成和解。）"
+      }
+    },
+    {
+      "id": "seven",
+      "word": "seven",
+      "phonetic": "/'sevən/",
+      "meaning": "num.七，七个(人或物)",
+      "similar": [
+        "eleven",
+        "heaven",
+        "severe",
+        "eve",
+        "keen",
+        "oven",
+        "save",
+        "seed"
+      ],
+      "question": {
+        "wordId": "seven",
+        "stem": "选择 \"seven\" 的正确中文意思：",
+        "correct": "num.七，七个(人或物)",
+        "options": [
+          "num.十一 pron./a.十一(个，只...)",
+          "a.严厉的;剧烈的,严重的,严峻的,艰难的",
+          "num.七，七个(人或物)",
+          "n.天,天空,天堂;(Heaven)上帝,神"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *sebun，与拉丁语 septem 同源，均来自原始印欧语 *septḿ̥。核心概念为数字7，无复杂词根演变。",
+        "similarWarning": "even (甚至/平坦的): e- + ven; seven: s + even。对比：seven 以 s 开头，even 无 s。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "severe",
+      "word": "severe",
+      "phonetic": "/si'viə/",
+      "meaning": "a.严厉的;剧烈的,严重的,严峻的,艰难的",
+      "similar": [
+        "reverse",
+        "fever",
+        "lever",
+        "seven",
+        "secure",
+        "sphere",
+        "beverage"
+      ],
+      "question": {
+        "wordId": "severe",
+        "stem": "选择 \"severe\" 的正确中文意思：",
+        "correct": "a.严厉的;剧烈的,严重的,严峻的,艰难的",
+        "options": [
+          "n.杆,杠杆,手段,途径,工具",
+          "a.严厉的;剧烈的,严重的,严峻的,艰难的",
+          "n.相反;背面 a.相反的 v.颠倒,倒转",
+          "n.发热,狂热"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语severus（严肃的、严格的），由se-（分开）与verus（真实）组合，本义为‘区分真实与虚假的严格态度’，引申出严厉、剧烈的含义。核心动作：严格区分→不容变通的严厉。",
+        "similarWarning": "severe vs reverse（re-回+verse转，意为‘颠倒’）：severe强调‘严格’，reverse强调‘反向’。vs several（sever分开+al，意为‘几个’）：severe是形容词，several是限定词。",
+        "extendedMeaning": "（在考研中）severe可指‘（疾病、气候、竞争等）严峻的、激烈的’，如severe competition（激烈竞争）；还可指‘（批评、惩罚）严厉的’，如severe sentence（重判）。无特别冷僻义。",
+        "examUsage": "真题高频搭配：severe shortage（严重短缺）、severe weather（恶劣天气）、severe criticism（严厉批评）。常作为干扰项与serious、strict辨析：severe侧重程度极端，serious侧重影响重大，strict侧重规则执行。"
+      }
+    },
+    {
+      "id": "sew",
+      "word": "sew",
+      "phonetic": "/səu/",
+      "meaning": "v.缝,缝纫",
+      "similar": [
+        "dew",
+        "saw",
+        "sex",
+        "sow",
+        "screw"
+      ],
+      "question": {
+        "wordId": "sew",
+        "stem": "选择 \"sew\" 的正确中文意思：",
+        "correct": "v.缝,缝纫",
+        "options": [
+          "n.性别,性",
+          "n.锯子,锯床 v.锯,锯开",
+          "n.露水",
+          "v.缝,缝纫"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根源自古英语 seowian，核心动作为‘用针线穿透布料并连接’，与拉丁语 suere（缝）同源，动作画面为‘线穿针引线反复穿刺’。",
+        "similarWarning": "sew vs. saw：sew 是‘缝’，saw 是‘看见（see的过去式）’或‘锯子’；sew vs. sea：sea 是‘海’，元音差异；sew vs. sex：sex 是‘性别’，拼写仅差一个字母。",
+        "extendedMeaning": "考研中无显著僻义，保持‘缝纫’本义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sex",
+      "word": "sex",
+      "phonetic": "/seks/",
+      "meaning": "n.性别,性",
+      "similar": [
+        "sew",
+        "six"
+      ],
+      "question": {
+        "wordId": "sex",
+        "stem": "选择 \"sex\" 的正确中文意思：",
+        "correct": "n.性别,性",
+        "options": [
+          "n.性别,性",
+          "v.缝,缝纫",
+          "n.愤怒，气愤 vt.使发怒，激怒 vi.发怒",
+          "num.六 pron./a.六(个，只...)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"sex 源自拉丁语 sexus，意为\"性别、性\"，原始意义与\"分割、划分\"相关，指生物体的性别分类。核心动作：区分两性。\",\n  \"similarWarning\": \"sea（海洋）、see（看见）、set（集合）、sew（缝纫）、six（六）——拼写差异仅一个字母，但词义完全不同，注意拼写。\",\n  \"extendedMeaning\": \"在考研中，sex 常引申为\"性行为、性活动\"（如 sex education, sex crime），或\"性别的社会属性\"（如 gender 与 sex 区分）。\",\n  \"examUsage\": \"\"\n}",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shabby",
+      "word": "shabby",
+      "phonetic": "/'ʃæbi/",
+      "meaning": "a.简陋的,破旧的,卑鄙的,不公平的",
+      "similar": [
+        "hobby",
+        "shady"
+      ],
+      "question": {
+        "wordId": "shabby",
+        "stem": "选择 \"shabby\" 的正确中文意思：",
+        "correct": "a.简陋的,破旧的,卑鄙的,不公平的",
+        "options": [
+          "n.业余爱好,嗜好,兴趣",
+          "a.简陋的,破旧的,卑鄙的,不公平的",
+          "n.柜台;计数器 a./ad.相反(的) v.反对,反击",
+          "a.成荫的,多荫的;可疑的,靠不住的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能来自古英语scabb（痂、疥癣），原指因皮肤结痂而变得粗糙、不光滑，引申指物体因磨损而破旧、外观不佳，再引申到人的行为层面，指品格低劣、不公正。核心动作：表面受损→破旧→品质低下。",
+        "similarWarning": "hobby ['hɒbi] n.爱好（h-无实义，obby与shabby仅差首字母s）; shady ['ʃeɪdi] a.成荫的/可疑的（sh-相同，中间音不同：ab- vs ad-，且y结尾相同，易混淆拼写）",
+        "extendedMeaning": "（无特殊僻义，留空）",
+        "examUsage": "（无特殊考点，留空）"
+      }
+    },
+    {
+      "id": "shade",
+      "word": "shade",
+      "phonetic": "/ʃeid/",
+      "meaning": "n.荫,阴影;遮光物,罩 v.遮蔽,遮光",
+      "similar": [
+        "shady",
+        "shake",
+        "shame",
+        "shape",
+        "share",
+        "shave",
+        "spade",
+        "shadow"
+      ],
+      "question": {
+        "wordId": "shade",
+        "stem": "选择 \"shade\" 的正确中文意思：",
+        "correct": "n.荫,阴影;遮光物,罩 v.遮蔽,遮光",
+        "options": [
+          "a.成荫的,多荫的;可疑的,靠不住的",
+          "n.荫,阴影;遮光物,罩 v.遮蔽,遮光",
+          "n.羞耻,耻辱;可耻的人(或事物) v.使羞愧",
+          "n./v.摇动,摇;颤抖,震动"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *skadwaz，与古英语 sceadu（阴影）同源。核心物理动作为“遮蔽光线”，名词指光线被遮挡后形成的较暗区域（荫/阴影），动词指施加遮挡的动作（遮蔽/遮光）。",
+        "similarWarning": "shade vs. shadow：shade 强调“遮挡形成的阴凉区域”（如树荫）；shadow 强调“物体投下的清晰轮廓影子”（如人影）。shade vs. shake：shade 含字母 d（遮蔽），shake 含 k（摇动），拼写差异在中间辅音。",
+        "extendedMeaning": "考研僻义：n. 细微差别/细微变化（如 shades of meaning 含义的细微差别）；v. 使……逐渐变化/渐变（如 shade into 逐渐变成）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shadow",
+      "word": "shadow",
+      "phonetic": "/'ʃædəu/",
+      "meaning": "n.阴影,影子,荫;暗处,阴暗",
+      "similar": [
+        "shallow",
+        "shade",
+        "shady",
+        "meadow"
+      ],
+      "question": {
+        "wordId": "shadow",
+        "stem": "选择 \"shadow\" 的正确中文意思：",
+        "correct": "n.阴影,影子,荫;暗处,阴暗",
+        "options": [
+          "n.阴影,影子,荫;暗处,阴暗",
+          "a.浅的,浅薄的 n.浅滩,浅处",
+          "n.荫,阴影;遮光物,罩 v.遮蔽,遮光",
+          "a.成荫的,多荫的;可疑的,靠不住的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "shadow 源自原始日耳曼语 skadwaz，核心物理动作为“投射暗区”。词根 sk- 表“覆盖、遮蔽”，引申为物体遮挡光线后形成的区域。其词义从具体“影子”延伸至抽象“阴影、暗处”。",
+        "similarWarning": "shallow（浅的，肤浅的）与 shadow 相比，核心差异在字母组合“-allow”表“浅”，而“-adow”表“暗”。shade 更侧重“阴凉处”，shadow 强调“影子轮廓”。",
+        "extendedMeaning": "在考研中，shadow 可表“影响、势力范围”（如 cast a shadow over 投下阴影/带来负面影响），或“形影不离的伴随者”（如 shadow cabinet 影子内阁）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shady",
+      "word": "shady",
+      "phonetic": "/'ʃeidi/",
+      "meaning": "a.成荫的,多荫的;可疑的,靠不住的",
+      "similar": [
+        "shade",
+        "shabby",
+        "shadow",
+        "steady",
+        "hay",
+        "sham",
+        "shed",
+        "stay"
+      ],
+      "question": {
+        "wordId": "shady",
+        "stem": "选择 \"shady\" 的正确中文意思：",
+        "correct": "a.成荫的,多荫的;可疑的,靠不住的",
+        "options": [
+          "a.成荫的,多荫的;可疑的,靠不住的",
+          "n.荫,阴影;遮光物,罩 v.遮蔽,遮光",
+          "a.简陋的,破旧的,卑鄙的,不公平的",
+          "n.阴影,影子,荫;暗处,阴暗"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根词缀逻辑：shady 源自 shade（荫，阴影）+ -y（形容词后缀，表示“具有...性质的”），核心物理动作为“被阴影覆盖”。本义为“成荫的、多荫的”，引申为“阴暗的”，进而比喻为“可疑的、靠不住的”，因阴影常与隐蔽、不可见关联。",
+        "similarWarning": "形近词对比：shady vs. shabby（破旧的，卑鄙的）：a 与 b 差异，shady 指阴暗、可疑，shabby 指破旧、低劣。shady vs. shadow（阴影）：y 与 ow 差异，shady 是形容词，shadow 是名词。shady vs. steady（稳定的）：sh 与 st 差异，shady 侧重不可靠，steady 强调稳固。",
+        "extendedMeaning": "考研僻义：在真题中常作“可疑的、靠不住的”解，如 a shady deal（可疑的交易），a shady character（可疑人物），强调道德或法律上的模糊性。",
+        "examUsage": "真题考点：常见搭配 a shady past（不光彩的过去），在阅读中作为贬义词出现，与 honest、reliable 形成反义干扰。例句：The company was involved in some shady business practices.（该公司参与了一些可疑的商业行为。）"
+      }
+    },
+    {
+      "id": "shaft",
+      "word": "shaft",
+      "phonetic": "/ʃɑ:ft/",
+      "meaning": "n.轴;杆状物",
+      "similar": [
+        "shift",
+        "hat",
+        "chat",
+        "halt",
+        "salt",
+        "sham",
+        "shot",
+        "chart"
+      ],
+      "question": {
+        "wordId": "shaft",
+        "stem": "选择 \"shaft\" 的正确中文意思：",
+        "correct": "n.轴;杆状物",
+        "options": [
+          "v.替换,转移n.转换,转变;(轮)班,(换)班",
+          "n.帽子(一般指有边的帽子)",
+          "n.轴;杆状物",
+          "v./n.闲谈,聊天"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *skaft-，核心物理动作为“削、刻”，后指代削成的长棍或杆状物。词根演变：原始动作“削” → 产物“杆、柄” → 引申为机械中传递动力的“轴”。",
+        "similarWarning": "shift（v.转移，改变） vs shaft（n.轴；杆状物）：shift 词根为 skap-（创造/形状），侧重位置或形状的改变；shaft 词根为 skaft-（削），侧重削成的杆状物。",
+        "extendedMeaning": "（在机械或工程语境中）指“传动轴”；在建筑领域指“通风井、电梯井”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shake",
+      "word": "shake",
+      "phonetic": "/ʃeɪk/",
+      "meaning": "n./v.摇动,摇;颤抖,震动",
+      "similar": [
+        "sake",
+        "shade",
+        "shame",
+        "shape",
+        "share",
+        "shave",
+        "snake",
+        "stake"
+      ],
+      "question": {
+        "wordId": "shake",
+        "stem": "选择 \"shake\" 的正确中文意思：",
+        "correct": "n./v.摇动,摇;颤抖,震动",
+        "options": [
+          "n.荫,阴影;遮光物,罩 v.遮蔽,遮光",
+          "n.羞耻,耻辱;可耻的人(或事物) v.使羞愧",
+          "n.缘故,理由",
+          "n./v.摇动,摇;颤抖,震动"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模拟物体快速来回摆动的声响（如“sh-sh-ake”）。核心物理动作为“快速往复运动”，引申为物理摇晃（shake hands）、身体颤抖（shake with cold）或情感震动（shake one's faith）。",
+        "similarWarning": "shake vs snake: shake首字母s+ha(ke)，蛇snake首字母s+na(ke)，区别在第三个字母h与n，h表呼吸震动，n表蛇形扭动。shake vs stake: stake多一个t，意为木桩/赌注，强调固定或风险。",
+        "extendedMeaning": "考研僻义：1. 动摇（信念/决心）——如shake one's confidence; 2. 摆脱（困境/追踪）——如shake off the pursuers; 3. 使震惊——如be shaken by the news。",
+        "examUsage": "真题考点：1. shake off 摆脱（高频短语，常用于科技/社会类文章）；2. shake up 重组/震动（如shake up the industry）；3. 阅读中作干扰项：辨析shake（物理震动）与quake（大地震动）、tremble（因恐惧颤抖）。"
+      }
+    },
+    {
+      "id": "shallow",
+      "word": "shallow",
+      "phonetic": "/'ʃæləu/",
+      "meaning": "a.浅的,浅薄的 n.浅滩,浅处",
+      "similar": [
+        "swallow",
+        "allow",
+        "hollow",
+        "shadow"
+      ],
+      "question": {
+        "wordId": "shallow",
+        "stem": "选择 \"shallow\" 的正确中文意思：",
+        "correct": "a.浅的,浅薄的 n.浅滩,浅处",
+        "options": [
+          "a.浅的,浅薄的 n.浅滩,浅处",
+          "a.空的,中空的;空洞的,空虚的 v.挖空,凿空",
+          "n.燕子;吞咽vt.吞,咽;轻信;忍受;vi.咽口水",
+          "vt.允许，准许；承认；给予；(for)考虑到"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能与古英语‘sceald’（浅的）相关。核心物理动作为‘水浅’，引申为‘肤浅、表面化’，如浅滩可见底，比喻缺乏深度。",
+        "similarWarning": "swallow（吞咽，燕子）: 词首‘swa-’ vs ‘sha-’，‘allow’（允许）: 缺少‘sh’；‘shall’（将）: 拼写差异‘-low’ vs ‘-all’；‘hollow’（空的）: ‘h-’ vs ‘sh-’，‘-ow’相同但元音不同；‘shadow’（影子）: ‘-dow’ vs ‘-low’",
+        "extendedMeaning": "考研中常考‘浅薄的，肤浅的’（如shallow argument），或作名词‘浅滩’（如in the shallow）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sham",
+      "word": "sham",
+      "phonetic": "/ʃæm/",
+      "meaning": "n./a.假冒(的)，虚伪(的)",
+      "similar": [
+        "shame",
+        "ham",
+        "seam",
+        "slam",
+        "charm",
+        "shade",
+        "shady",
+        "shaft"
+      ],
+      "question": {
+        "wordId": "sham",
+        "stem": "选择 \"sham\" 的正确中文意思：",
+        "correct": "n./a.假冒(的)，虚伪(的)",
+        "options": [
+          "n.缝,接缝",
+          "n./a.假冒(的)，虚伪(的)",
+          "n.火腿",
+          "n.羞耻,耻辱;可耻的人(或事物) v.使羞愧"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源可能来自古英语 scam（羞愧）的变体，核心物理动作是“掩饰真实面目”。sham 指用虚假的外表掩盖本质，如伪装、假象。",
+        "similarWarning": "shame（羞愧，n./v.）：sham 少 e，侧重虚假；shame 含 e，强调耻辱感。ham（火腿，n.）：sham 多 s，意为假冒；ham 意为食物。slam（猛关，v.）：sham 多 s 少 l，虚假；slam 动作猛烈。",
+        "extendedMeaning": "考研僻义：作名词可指“骗子、冒充者”；作动词表“假装、冒充”，如 sham illness（装病）。",
+        "examUsage": ""
+      }
+    }
+  ]
+}

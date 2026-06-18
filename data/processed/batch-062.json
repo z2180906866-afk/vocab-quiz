@@ -1,0 +1,1723 @@
+{
+  "batchId": 62,
+  "words": [
+    {
+      "id": "promising",
+      "word": "promising",
+      "phonetic": "/'prɔmisiŋ/",
+      "meaning": "a.有希望的,有前途的",
+      "similar": [
+        "promise",
+        "prominent",
+        "provision",
+        "proceeding"
+      ],
+      "question": {
+        "wordId": "promising",
+        "stem": "选择 \"promising\" 的正确中文意思：",
+        "correct": "a.有希望的,有前途的",
+        "options": [
+          "n.供应,(一批)供应品;预备;条款;(pl.)给养",
+          "a.突起的,凸出的;突出的,杰出的",
+          "v.允许,答应;有…可能n.承诺;希望,出息",
+          "a.有希望的,有前途的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为promise（承诺），源自拉丁语promittere（向前送出）。-ing是形容词后缀，表示“具有…性质的”。核心逻辑：像做出了承诺一样，预示着未来会有好结果，因此意为“有希望的、有前途的”。",
+        "similarWarning": "promising vs. prominent: 前者源于promise（承诺），指有潜力；后者源于pro-（向前）+min-（突出），意为“突出的、著名的”。\npromising vs. provision: 前者为形容词，后者为名词，意为“供应、条款”，词根不同（pro-+vision看）。\npromising vs. proceeding: 后者意为“进行、诉讼”，源于proceed（前进）。",
+        "extendedMeaning": "在考研真题中，promising常形容事物（如项目、研究）有发展前景，而非仅指人。例如：a promising start（良好的开端）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "promote",
+      "word": "promote",
+      "phonetic": "/prəu'məut/",
+      "meaning": "v.促进,发扬;提升,提拔;增进,助长",
+      "similar": [
+        "prompt",
+        "remote",
+        "promise",
+        "propose",
+        "provoke",
+        "prototype"
+      ],
+      "question": {
+        "wordId": "promote",
+        "stem": "选择 \"promote\" 的正确中文意思：",
+        "correct": "v.促进,发扬;提升,提拔;增进,助长",
+        "options": [
+          "v.促进,发扬;提升,提拔;增进,助长",
+          "a.敏捷的,迅速的,即刻的 v.激起,促进,推动",
+          "a.远的,遥远的,疏远的,偏僻的,细微的",
+          "v.允许,答应;有…可能n.承诺;希望,出息"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "pro-(向前) + mote(移动) → 向前移动 → 促进、提升。核心动作：推动某事物向前发展。",
+        "similarWarning": "promote vs. prompt (pro-向前 + empt拿 → 向前拿 → 促使、提示，强调立即行动)；promote vs. remote (re-向后 + mote移动 → 向后移动 → 遥远的)；promote vs. provoke (pro-向前 + voke叫唤 → 向前叫唤 → 激怒、挑衅)。",
+        "extendedMeaning": "v. 促销、推销（商品或活动），如promote a product（推销产品）。",
+        "examUsage": "真题考点：promote常与to搭配，如be promoted to manager（被提升为经理）；在完形填空中常作为“促进”选项，与enhance、facilitate同义替换。"
+      }
+    },
+    {
+      "id": "prompt",
+      "word": "prompt",
+      "phonetic": "/prɔmpt/",
+      "meaning": "a.敏捷的,迅速的,即刻的 v.激起,促进,推动",
+      "similar": [
+        "promote",
+        "profit",
+        "prospect"
+      ],
+      "question": {
+        "wordId": "prompt",
+        "stem": "选择 \"prompt\" 的正确中文意思：",
+        "correct": "a.敏捷的,迅速的,即刻的 v.激起,促进,推动",
+        "options": [
+          "n.景色;前景,前途,展望",
+          "a.敏捷的,迅速的,即刻的 v.激起,促进,推动",
+          "v.促进,发扬;提升,提拔;增进,助长",
+          "n.利润,收益 v.(by,from)得利,获益;有利于"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 promptus '准备好的，明显的'，由 pro- '向前' + emere '拿取' 的过去分词构成，核心动作是 '向前拿取'，即随时可以拿出来用，引申为 '敏捷的、迅速的'；动词义 '激起、促进' 源于 '促使某人向前行动'。",
+        "similarWarning": "promote（pro-向前 + mot-移动 → 促进，提升）；profit（pro-向前 + fit-做 → 利润，利益）；prospect（pro-向前 + spect-看 → 前景，展望）。与 prompt 区别在于核心词根不同：prompt 侧重 '拿起'（emere），promote 侧重 '移动'（mot-），profit 侧重 '做'（fit-），prospect 侧重 '看'（spect-）。",
+        "extendedMeaning": "考研中常考动词义 '促使、引起'（如 prompt sb. to do sth. 促使某人做某事），以及形容词义 '迅速的'（如 prompt response 迅速回应）。",
+        "examUsage": "真题考点：prompt 作动词时常见搭配 prompt sb. to do sth.，如 'The accident prompted her to reconsider her career.' 在阅读中常作为因果逻辑信号词出现。"
+      }
+    },
+    {
+      "id": "prone",
+      "word": "prone",
+      "phonetic": "/prəun/",
+      "meaning": "a.倾向于,俯伏的,倾斜的,陡的",
+      "similar": [
+        "probe",
+        "prose",
+        "prove",
+        "bronze",
+        "prince",
+        "propel",
+        "proper",
+        "throne"
+      ],
+      "question": {
+        "wordId": "prone",
+        "stem": "选择 \"prone\" 的正确中文意思：",
+        "correct": "a.倾向于,俯伏的,倾斜的,陡的",
+        "options": [
+          "v.证明,证实;检验;考验;鉴定;结果是,表明是",
+          "n.散文 a.散文的",
+          "n.探针,探测器 v.(以探针等)探查,穿刺,查究",
+          "a.倾向于,俯伏的,倾斜的,陡的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 pronus（向前倾斜），由 pro-（向前）与 -nus（形容词后缀）构成。核心物理动作为‘身体前倾、俯伏’，引申为‘倾向于做某事’或‘易遭受某事’。",
+        "similarWarning": "phone（电话；/fəʊn/）vs prone（俯伏的；/prəʊn/）：p-开头 vs ph-开头，-one vs -one 但首字母不同。probe（探针；/prəʊb/）vs prone：结尾 -be vs -ne，词义完全不同。prose（散文；/prəʊz/）vs prone：结尾 -se vs -ne，发音略有差异。",
+        "extendedMeaning": "在考研阅读中常表‘易于…的’（be prone to sth/doing），如‘be prone to errors’（易犯错），强调消极倾向；亦作‘俯卧的’（lie prone）。",
+        "examUsage": "be prone to 为高频固定搭配，常与负面名词连用，如‘be prone to depression’（易抑郁）。真题中可能作为题眼考查‘倾向性’含义，区别于‘be subject to’（受制于）。"
+      }
+    },
+    {
+      "id": "pronoun",
+      "word": "pronoun",
+      "phonetic": "/'prəunaun/",
+      "meaning": "n.代词",
+      "similar": [
+        "pronounce",
+        "profound"
+      ],
+      "question": {
+        "wordId": "pronoun",
+        "stem": "选择 \"pronoun\" 的正确中文意思：",
+        "correct": "n.代词",
+        "options": [
+          "v.发…的音;宣布,宣判",
+          "v.漫步,徘徊;迷路,迷失方向;离题",
+          "n.代词",
+          "a.深刻的,意义深远的;渊博的,造诣深的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "前缀pro-（向前、代替）+ noun（名词）→ 代替名词的词，即代词。核心动作：替代名词，避免重复。",
+        "similarWarning": "pronounce [prəˈnaʊns]（v.发音、宣布）：pronoun vs pronounce，后者多一个字母'ce'，且词根不同（nounce=宣布）；profound [prəˈfaʊnd]（adj.深远的）：区别在末尾'found'（基础）与'noun'（名词）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pronounce",
+      "word": "pronounce",
+      "phonetic": "/prəu'nauns/",
+      "meaning": "v.发…的音;宣布,宣判",
+      "similar": [
+        "pronoun",
+        "produce",
+        "announce",
+        "denounce",
+        "profound",
+        "province"
+      ],
+      "question": {
+        "wordId": "pronounce",
+        "stem": "选择 \"pronounce\" 的正确中文意思：",
+        "correct": "v.发…的音;宣布,宣判",
+        "options": [
+          "v.生产,制造,显示,演出,导致 n.产品",
+          "v.发…的音;宣布,宣判",
+          "n.代词",
+          "v.正式宣布；发表；通告；广播（电台节目）"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "pro-（向前）+ nounce（宣布，来自拉丁语nuntiare“报告”）→ 向前宣布→ 发音；宣判。核心动作：公开说出或宣告。",
+        "similarWarning": "pronounce vs. announce: an-（向）+ nounce = 向公众宣布（通知）；pro-（向前）+ nounce = 正式说出（发音/宣判）。denounce: de-（向下/否定）+ nounce = 谴责。",
+        "extendedMeaning": "在考研阅读中常引申为“断言、宣称”，如“The judge pronounced him guilty.”（法官宣判他有罪）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pronunciation",
+      "word": "pronunciation",
+      "phonetic": "/prəuˌnʌnsi'eiʃən/",
+      "meaning": "n.发音,发音方法",
+      "similar": [
+        "conjunction",
+        "proposition"
+      ],
+      "question": {
+        "wordId": "pronunciation",
+        "stem": "选择 \"pronunciation\" 的正确中文意思：",
+        "correct": "n.发音,发音方法",
+        "options": [
+          "n.发音,发音方法",
+          "n.律师等的当事人，委托人；商店的顾客",
+          "n.接合，连接，联合；连(接)词",
+          "n.主张,建议;陈述,命题"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "前缀pro-（向前、公开）+ 词根nunci-（宣布、告知）+ 名词后缀-ation。核心动作：公开宣告声音的方式，即发音。",
+        "similarWarning": "conjunction (con-共同 + junct-连接 + -ion)：连接词；proposition (pro-向前 + pos-放置 + -ition)：提议、命题。差异：pronunciation强调发音动作；conjunction强调连接功能；proposition强调提议内容。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "proof",
+      "word": "proof",
+      "phonetic": "/pru:f/",
+      "meaning": "n.证据,证明;校样,样张",
+      "similar": [
+        "roof",
+        "pool",
+        "root",
+        "brook",
+        "broom",
+        "prior",
+        "probe",
+        "prone"
+      ],
+      "question": {
+        "wordId": "proof",
+        "stem": "选择 \"proof\" 的正确中文意思：",
+        "correct": "n.证据,证明;校样,样张",
+        "options": [
+          "n.屋顶,顶",
+          "n.证据,证明;校样,样张",
+          "n.水池,游泳池;合资经营v.合伙经营,联营",
+          "n.根,根部;根本,根源 v.(使)生根,(使)扎根"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古法语proeve（证明），源自拉丁语probare（测试、证明）。词根prob-（测试、证明）与probe（探测）同源。核心动作是“通过测试来确认真实性”，引申为证明、证据。",
+        "similarWarning": "roof（屋顶）：仅首字母r/p不同，proof强调验证，roof是建筑顶部。pool（水池）：pool为p+l组合，proof为p+r+o+f，含义无关。poor（贫穷的）：拼写仅差一个o，但意思完全不同。",
+        "extendedMeaning": "校样，样张（印刷术语，指正式印刷前供检查的样品）。在考研阅读中常以‘proof of concept’（概念验证）等专业术语出现。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "propaganda",
+      "word": "propaganda",
+      "phonetic": "/ˌprɔpə'gændə/",
+      "meaning": "n.宣传(机构)；[天主教]传道总会",
+      "similar": [],
+      "question": {
+        "wordId": "propaganda",
+        "stem": "选择 \"propaganda\" 的正确中文意思：",
+        "correct": "n.宣传(机构)；[天主教]传道总会",
+        "options": [
+          "n.间谍 v.当间谍,刺探;察觉,发现",
+          "n.援助，救护；助手，辅助物 vi.援助，救援",
+          "n.宣传(机构)；[天主教]传道总会",
+          "n.丛林,生死地带"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根为拉丁语propagare（传播、繁殖），由pro-（向前）+pag-（固定、插入，派生自pangere“固定”）+and（动名词后缀）+a（阴性名词后缀）组成。核心动作是“向前固定/插入”，引申为“有组织地传播思想或信息”，即宣传。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研语境中，常指“系统性、带有倾向性的信息传播”，尤指政治或意识形态宣传，含贬义或中性色彩，区别于普通宣传（publicity）。",
+        "examUsage": "真题中常与mass media（大众媒体）、political（政治的）、ideological（意识形态的）等搭配出现，作为论点或批判对象。如：The government uses propaganda to manipulate public opinion.（政府利用宣传操纵舆论。）"
+      }
+    },
+    {
+      "id": "propel",
+      "word": "propel",
+      "phonetic": "/prəu'pel/",
+      "meaning": "vt.推进，推动；激励，驱使",
+      "similar": [
+        "proper",
+        "prophet",
+        "prosper",
+        "pope",
+        "rope",
+        "grope",
+        "probe",
+        "prone"
+      ],
+      "question": {
+        "wordId": "propel",
+        "stem": "选择 \"propel\" 的正确中文意思：",
+        "correct": "vt.推进，推动；激励，驱使",
+        "options": [
+          "vt.推进，推动；激励，驱使",
+          "n.预言家；先知；提倡者",
+          "v.成功,兴隆,昌盛,使成功,使昌隆,繁荣",
+          "a.适合的;合乎体统的;固有的;有礼貌的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "pro-（向前）+ pel（驱动，推）。核心动作：将某物从后方向前方施力，使其运动。引申为精神上的推动或驱使。",
+        "similarWarning": "propel vs. proper（适当的）：propel含“pel”（推），强调动作；proper含“propr”（自己的），强调合适。propel vs. prophet（先知）：prophet含“phet”（预言），与说有关。propel vs. prosper（繁荣）：prosper含“sper”（希望），与成功有关。",
+        "extendedMeaning": "在考研中，propel常引申为“驱使、推动（某人做某事）”，如be propelled by ambition（被野心驱使），强调内在动力或外部刺激导致的行为。",
+        "examUsage": "真题例句：The desire to be successful propels many people to work harder.（成功的欲望驱使许多人更努力地工作。）考点：propel常用于被动语态或与介词into连用，如propel sb. into action（推动某人采取行动）。"
+      }
+    },
+    {
+      "id": "proper",
+      "word": "proper",
+      "phonetic": "/'prɔpə/",
+      "meaning": "a.适合的;合乎体统的;固有的;有礼貌的",
+      "similar": [
+        "prosper",
+        "propel",
+        "prophet",
+        "pope",
+        "rope",
+        "grope",
+        "probe",
+        "prone"
+      ],
+      "question": {
+        "wordId": "proper",
+        "stem": "选择 \"proper\" 的正确中文意思：",
+        "correct": "a.适合的;合乎体统的;固有的;有礼貌的",
+        "options": [
+          "a.适合的;合乎体统的;固有的;有礼貌的",
+          "n.预言家；先知；提倡者",
+          "vt.推进，推动；激励，驱使",
+          "v.成功,兴隆,昌盛,使成功,使昌隆,繁荣"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语proprius（自己的、特有的），核心物理动作为“属于自己的”，引申为“适合的、恰当的”，即符合自身属性或社会规范的状态。",
+        "similarWarning": "proper vs prosper: proper含“自己的”义，prosper（pro-向前+sper希望）意为繁荣。proper vs property: property（proper+ty名词后缀）指财产、特性，强调“拥有”而非“适合”。",
+        "extendedMeaning": "在考研中常考“固有的、本身的”，如proper noun（专有名词），或proper to（为……所特有的）。",
+        "examUsage": "真题中常考短语proper to（特有的），如the difficulties proper to urban life（城市生活特有的困难），注意与suitable to（适合的）区分。"
+      }
+    },
+    {
+      "id": "prophet",
+      "word": "prophet",
+      "phonetic": "/'prɔfit/",
+      "meaning": "n.预言家；先知；提倡者",
+      "similar": [
+        "propel",
+        "proper",
+        "pamphlet",
+        "prospect"
+      ],
+      "question": {
+        "wordId": "prophet",
+        "stem": "选择 \"prophet\" 的正确中文意思：",
+        "correct": "n.预言家；先知；提倡者",
+        "options": [
+          "vt.推进，推动；激励，驱使",
+          "a.适合的;合乎体统的;固有的;有礼貌的",
+          "n.预言家；先知；提倡者",
+          "n.小册子"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "pro-（向前） + phet（=phe，说，与phone同源） → 向前说出未发生之事 → 预言家。核心动作：提前说出。",
+        "similarWarning": "prophet（预言家） vs proper（适当的） vs propel（推进）：prophet中phet表“说”，proper中prop表“自己的”，propel中pel表“推”。",
+        "extendedMeaning": "（考研僻义）提倡者，倡导者：指在思想或领域内先行发声的人，如a prophet of environmentalism（环保主义的倡导者）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "proportion",
+      "word": "proportion",
+      "phonetic": "/prə'pɔ:ʃn/",
+      "meaning": "n.比例;部分;均衡,相称",
+      "similar": [
+        "proposition",
+        "preparation",
+        "preposition",
+        "production",
+        "corporation",
+        "pollution",
+        "provision",
+        "population"
+      ],
+      "question": {
+        "wordId": "proportion",
+        "stem": "选择 \"proportion\" 的正确中文意思：",
+        "correct": "n.比例;部分;均衡,相称",
+        "options": [
+          "n.比例;部分;均衡,相称",
+          "n.主张,建议;陈述,命题",
+          "n.准备,预备;制剂,制备品",
+          "n.介词"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "pro-（向前）+ portion（部分）。核心动作：将整体向前划分成若干部分。本义是各部分之间的数量关系，引申为比例、均衡。",
+        "similarWarning": "proposition（提议；命题：pro-向前 + position放置），preparation（准备：pre-前 + par准备），preposition（介词：pre-前 + position位置），production（生产：pro-向前 + duct引导），corporation（公司：corp身体 + -ation），position（位置：pos放置 + -ition），property（财产：proper自己的 + -ty），operation（操作：oper工作 + -ation）。proportion强调部分与整体或部分之间的数量关系；proposition侧重提议或命题；preposition是语法术语。",
+        "extendedMeaning": "均衡，相称（指各部分之间和谐、协调的关系）。例：The painting lacks proportion.（这幅画比例失调。）",
+        "examUsage": "in proportion to（与……成比例）；out of proportion（不成比例；不相称）。真题常考：The increase in salary is not in proportion to the rise in prices.（工资增长与物价上涨不成比例。）"
+      }
+    },
+    {
+      "id": "proposal",
+      "word": "proposal",
+      "phonetic": "/prəu'pəuzəl/",
+      "meaning": "n.提议,建议;求婚",
+      "similar": [
+        "propose",
+        "propel",
+        "disposal",
+        "tropical"
+      ],
+      "question": {
+        "wordId": "proposal",
+        "stem": "选择 \"proposal\" 的正确中文意思：",
+        "correct": "n.提议,建议;求婚",
+        "options": [
+          "n.处理,处置;布置,安排",
+          "v.提议,建议;提名,推荐;求婚",
+          "n.提议,建议;求婚",
+          "vt.推进，推动；激励，驱使"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语proponere（pro-向前+ponere放置），原义“放在前面”。词根pos-是ponere的变体，-al为名词后缀。核心动作是“把想法摆到台面上”，引申为正式建议或求婚。",
+        "similarWarning": "propose（提议/求婚，动词）vs proposal（名词）；propel（pro-向前+pel-驱动，意为推进）vs proposal（-pos-放置）；disposal（dis-分开+pos-放置，意为处理）vs proposal；tropical（trop-热带+ical，意为热带的）vs proposal（-pos-）。",
+        "extendedMeaning": "在商务或学术语境中，常指正式提交的书面方案或计划书，如research proposal（研究计划书）。",
+        "examUsage": "考研阅读中常与put forward、suggestion等词同义替换，注意其正式性；写作中可替代普通suggestion以提升档次。"
+      }
+    },
+    {
+      "id": "propose",
+      "word": "propose",
+      "phonetic": "/prəu'pəuz/",
+      "meaning": "v.提议,建议;提名,推荐;求婚",
+      "similar": [
+        "proposal",
+        "prose",
+        "promise",
+        "promote",
+        "provoke",
+        "purpose"
+      ],
+      "question": {
+        "wordId": "propose",
+        "stem": "选择 \"propose\" 的正确中文意思：",
+        "correct": "v.提议,建议;提名,推荐;求婚",
+        "options": [
+          "v.允许,答应;有…可能n.承诺;希望,出息",
+          "n.提议,建议;求婚",
+          "v.提议,建议;提名,推荐;求婚",
+          "n.散文 a.散文的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "pro-（向前）+ pose（放置）→ 将想法或意图“向前放置”到对方面前 → 提议、建议；引申为“将某人向前放置”即提名；或将婚姻意愿放置对方面前即求婚。",
+        "similarWarning": "propose（提议） vs. purpose（目的）: pur-（为了）+ pose（放置）→ 为了某个目标而放置 → 目的；propose强调动作，purpose强调意图。",
+        "extendedMeaning": "在考研阅读中常考“提出（理论/方案）”的抽象含义，如propose a hypothesis（提出假设），而非仅指婚姻或正式提议。",
+        "examUsage": "高频搭配：propose to do sth.（提议做某事）；propose that sb. (should) do（虚拟语气，建议某人做某事）；真题例句：He proposed that the government should take immediate action.（他建议政府立即采取行动。）"
+      }
+    },
+    {
+      "id": "proposition",
+      "word": "proposition",
+      "phonetic": "/ˌprɔpə'ziʃən/",
+      "meaning": "n.主张,建议;陈述,命题",
+      "similar": [
+        "preposition",
+        "proportion",
+        "composition",
+        "disposition",
+        "provision",
+        "population",
+        "procession",
+        "production"
+      ],
+      "question": {
+        "wordId": "proposition",
+        "stem": "选择 \"proposition\" 的正确中文意思：",
+        "correct": "n.主张,建议;陈述,命题",
+        "options": [
+          "n.主张,建议;陈述,命题",
+          "n.作品,作文,乐曲;作曲;结构,组成,成分",
+          "n.介词",
+          "n.比例;部分;均衡,相称"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语proponere（提出，pro-向前+ponere放置），-ition名词后缀。核心动作是‘向前放置’，即把观点或方案摆到台面上供人考虑。",
+        "similarWarning": "preposition（介词，pre-前+position位置）、proportion（比例，pro-按照+portion部分）、composition（组成，com-共同+position）、disposition（性情，dis-分开+position）。proposition强调‘提出’的动作，而preposition侧重‘前置’的语法功能。",
+        "extendedMeaning": "在逻辑学与数学中指‘命题’（需证明或讨论的陈述），如考研阅读常出现‘a logical proposition’（逻辑命题）；在商业语境中可指‘提议、方案’，如‘a business proposition’（商业提案）。",
+        "examUsage": "真题常考搭配‘make a proposition’（提出建议）及‘a proposition that...’同位语从句。注意与‘proposal’区分：proposition更强调逻辑论证性，proposal侧重正式提议。如2020年阅读：‘The proposition that...was challenged.’（……的命题受到质疑。）"
+      }
+    },
+    {
+      "id": "prose",
+      "word": "prose",
+      "phonetic": "/prəuz/",
+      "meaning": "n.散文 a.散文的",
+      "similar": [
+        "pose",
+        "rose",
+        "probe",
+        "prone",
+        "prove",
+        "promise",
+        "propose",
+        "prosper"
+      ],
+      "question": {
+        "wordId": "prose",
+        "stem": "选择 \"prose\" 的正确中文意思：",
+        "correct": "n.散文 a.散文的",
+        "options": [
+          "n.姿势,姿态 v.造成,提出,摆姿势,佯装",
+          "n.散文 a.散文的",
+          "n.探针,探测器 v.(以探针等)探查,穿刺,查究",
+          "n.玫瑰,蔷薇"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语prosa oratio（直白的言语），pro-（向前）+ vertere（转）的变体，核心动作为“直接向前叙述”，与verse（诗行，有韵律转折）相对，强调无韵律束缚的平实文体。",
+        "similarWarning": "prose vs prose（拼写相同，无易混），但注意probe（调查），prove（证明），prone（倾向于），pose（姿势），rose（玫瑰）——区别在于prose是“散文”，核心在“直白叙述”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "prosecute",
+      "word": "prosecute",
+      "phonetic": "/'prɔsikju:t/",
+      "meaning": "vt.实行，从事 v.起诉，告发 vi.作检察官",
+      "similar": [
+        "persecute",
+        "protect",
+        "prospect",
+        "procedure",
+        "prospective",
+        "prosperity"
+      ],
+      "question": {
+        "wordId": "prosecute",
+        "stem": "选择 \"prosecute\" 的正确中文意思：",
+        "correct": "vt.实行，从事 v.起诉，告发 vi.作检察官",
+        "options": [
+          "vt.实行，从事 v.起诉，告发 vi.作检察官",
+          "v.迫害",
+          "n.景色;前景,前途,展望",
+          "v.(from)保护,保卫"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "pro-（向前）+ secut-（跟随）+ -e → 字面“向前跟随”。核心动作：执法机构“跟随”案件线索向前推进。引申为：1. 继续执行（如prosecute a war）；2. 对某人“跟进”法律程序，即起诉、告发。",
+        "similarWarning": "persecute（迫害）：per-（贯穿）→ 持续恶意“跟随”迫害；prosecute（起诉）：pro-（向前）→ 依法“向前跟进”。辨析：前者是邪恶行为，后者是法律行为。",
+        "extendedMeaning": "考研僻义：vt. 继续从事、执行（plan, investigation等），如“prosecute a policy”推行政策。",
+        "examUsage": "真题考点：prosecute sb. for sth. （因…起诉某人）。干扰项常与persecute（迫害）混淆，如“prosecute the dissidents”为“起诉异见者”，而非“迫害”。"
+      }
+    },
+    {
+      "id": "prospect",
+      "word": "prospect",
+      "phonetic": "/'prɔspekt/",
+      "meaning": "n.景色;前景,前途,展望",
+      "similar": [
+        "prosper",
+        "protect",
+        "prosperity",
+        "retrospect",
+        "prosecute",
+        "aspect",
+        "prompt",
+        "propel"
+      ],
+      "question": {
+        "wordId": "prospect",
+        "stem": "选择 \"prospect\" 的正确中文意思：",
+        "correct": "n.景色;前景,前途,展望",
+        "options": [
+          "v.(from)保护,保卫",
+          "v.成功,兴隆,昌盛,使成功,使昌隆,繁荣",
+          "n.景色;前景,前途,展望",
+          "n.繁荣,兴旺"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "pro-（向前） + spect（看）→ 向前看 → 展望未来（前景）；向前看到的景象（景色）。核心动作：目光向前投射。",
+        "similarWarning": "prospect vs project: prospect强调“看”（spect），指视野中的景象或未来展望；project强调“投掷”（ject），指计划、项目或投射。prospect vs prosper: prosper（繁荣）源自sper（希望），与“看”无关。",
+        "extendedMeaning": "考研僻义：n.潜在客户、候选人（商业语境：a sales prospect）。v.勘探、寻找（prospect for gold/oil）。",
+        "examUsage": "真题考点：in prospect（可预料到的，有希望的）。例：The company has several new products in prospect.（公司有几款新产品即将推出。）常与of连用：prospect of success/peace。"
+      }
+    },
+    {
+      "id": "prospective",
+      "word": "prospective",
+      "phonetic": "/prə'spektɪv/",
+      "meaning": "a.预期的",
+      "similar": [
+        "respective",
+        "perspective",
+        "irrespective",
+        "productive",
+        "objective",
+        "prosecute",
+        "collective",
+        "prosperity"
+      ],
+      "question": {
+        "wordId": "prospective",
+        "stem": "选择 \"prospective\" 的正确中文意思：",
+        "correct": "a.预期的",
+        "options": [
+          "a.不顾的,不考虑的,无关的",
+          "a.各自的,各个的",
+          "a.预期的",
+          "n.透视画法,透视图;远景,前途;观点,看法"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语prospicere（向前看），pro-（向前）+ specere（看）。核心动作是“向前看”，引申为“预期的、未来的”，强调对尚未发生之事的展望或可能性。",
+        "similarWarning": "形近词对比：\n- perspective（n.透视法，观点）：pro-（向前）+ spect（看）+ -ive，强调“看穿”或“看法”。\n- respective（a.各自的）：re-（回）+ spect（看）+ -ive，强调“回头看各自”。\n- irrespective（a.不顾的）：ir-（不）+ respective，强调“不看各自”，即不考虑。\n- prosecute（v.起诉）：pro-（向前）+ secut（跟随），动作是“向前追诉”。\n辨析核心：prospective 关注未来预期；perspective 关注视角观点；respective 关注个体对应；irrespective 强调无视条件。",
+        "extendedMeaning": "在考研外刊中常表“潜在的、可能成为的”，如prospective buyer（潜在买家）、prospective student（未来学生）。",
+        "examUsage": "真题考点：常与potential（潜在的）近义替换，但prospective更强调“预期中的”。例：The prospective changes in the policy will affect small businesses.（政策预期的变化将影响小企业。）注意与perspective（观点）在阅读中的区分，后者常作名词。"
+      }
+    },
+    {
+      "id": "prosper",
+      "word": "prosper",
+      "phonetic": "/'prɔspə/",
+      "meaning": "v.成功,兴隆,昌盛,使成功,使昌隆,繁荣",
+      "similar": [
+        "proper",
+        "prospect",
+        "prose",
+        "poster",
+        "propel",
+        "prisoner"
+      ],
+      "question": {
+        "wordId": "prosper",
+        "stem": "选择 \"prosper\" 的正确中文意思：",
+        "correct": "v.成功,兴隆,昌盛,使成功,使昌隆,繁荣",
+        "options": [
+          "v.成功,兴隆,昌盛,使成功,使昌隆,繁荣",
+          "n.散文 a.散文的",
+          "a.适合的;合乎体统的;固有的;有礼貌的",
+          "n.景色;前景,前途,展望"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "pro-（向前）+sper（希望，源自拉丁语sperare‘希望’）。核心动作：希望向前→前景向好→繁荣、成功。",
+        "similarWarning": "proper（合适的，-per-‘个人’）vs prosper（繁荣，-sper-‘希望’）：a/o差异；prospect（前景，spect‘看’）vs prosper（-sper‘希望’）：c/t vs p/er差异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "prosperity",
+      "word": "prosperity",
+      "phonetic": "/prɔs'periti/",
+      "meaning": "n.繁荣,兴旺",
+      "similar": [
+        "prospect",
+        "prosperous",
+        "prospective",
+        "priority",
+        "prosecute"
+      ],
+      "question": {
+        "wordId": "prosperity",
+        "stem": "选择 \"prosperity\" 的正确中文意思：",
+        "correct": "n.繁荣,兴旺",
+        "options": [
+          "a.预期的",
+          "n.繁荣,兴旺",
+          "n.景色;前景,前途,展望",
+          "a.繁荣的,兴旺的,茂盛的,顺利的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语prosperare（使成功），由pro-（向前） + sper-（希望） + -ity（名词后缀）构成，核心物理动作为“向前推进希望”，引申为繁荣、兴旺的状态，即希望不断实现、事业向前发展的结果。",
+        "similarWarning": "形近词辨析：①property（财产，性质），词根propr-（自己的），强调“所有物”；②prospect（前景，可能性），词根spect-（看），强调“向前看”的预期；③prosperous（繁荣的），形容词后缀-ous，强调状态；④prospective（未来的，预期的），后缀-ive表属性；⑤priority（优先权），词根prior-（先前），强调时间顺序；⑥prosecute（起诉，执行），词根secut-（跟随），强调“向前追踪”的法律行为。",
+        "extendedMeaning": "在考研英语中，prosperity常引申为“经济繁荣期”或“社会昌盛”，侧重长期稳定的增长状态，而非短期兴旺。例如：economic prosperity（经济繁荣）常与recession（衰退）对比出现。",
+        "examUsage": "真题考点：常与介词of连用表示“...的繁荣”，如the prosperity of a nation（国家的繁荣）；或与动词bring/promote搭配，如bring prosperity to the region（给该地区带来繁荣）。在阅读中常作为主题词，与decline、depression构成对比逻辑。"
+      }
+    },
+    {
+      "id": "prosperous",
+      "word": "prosperous",
+      "phonetic": "/'prɔspərəs/",
+      "meaning": "a.繁荣的,兴旺的,茂盛的,顺利的",
+      "similar": [
+        "prosperity",
+        "prospect"
+      ],
+      "question": {
+        "wordId": "prosperous",
+        "stem": "选择 \"prosperous\" 的正确中文意思：",
+        "correct": "a.繁荣的,兴旺的,茂盛的,顺利的",
+        "options": [
+          "a.繁荣的,兴旺的,茂盛的,顺利的",
+          "n.繁荣,兴旺",
+          "v.分散;使分心;打扰;使心情烦乱",
+          "n.景色;前景,前途,展望"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "pro-（向前）+sper（希望）+ous（形容词后缀）→充满希望的向前发展→繁荣的、兴旺的。核心动作：希望向前延伸，指向积极成长的状态。",
+        "similarWarning": "prosperity（n.繁荣，来自prosper+ity）；property（n.财产，来自proper+ty，注意拼写差异：prosperous含sper，property含per）；prospect（n.前景，来自pro-+spect看，拼写差异：prosperous含sper，prospect含spect）",
+        "extendedMeaning": "考研中常引申为“顺利的、有利的”，如prosperous economy（繁荣经济）中的“顺利发展”状态。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "protect",
+      "word": "protect",
+      "phonetic": "/prəu'tekt/",
+      "meaning": "v.(from)保护,保卫",
+      "similar": [
+        "protest",
+        "prospect",
+        "pretext",
+        "protein",
+        "projector",
+        "prosecute"
+      ],
+      "question": {
+        "wordId": "protect",
+        "stem": "选择 \"protect\" 的正确中文意思：",
+        "correct": "v.(from)保护,保卫",
+        "options": [
+          "v.(from)保护,保卫",
+          "v./n.主张,断言,抗议,反对",
+          "n.景色;前景,前途,展望",
+          "n.借口,托词"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "pro-(向前，在前面) + tect-(覆盖，遮盖)。核心物理动作：在前面覆盖一层屏障，以阻挡伤害或危险。词源上，拉丁语protegere本义为‘在前面覆盖’，引申为‘保护、保卫’。",
+        "similarWarning": "project (pro-向前 + ject-投掷，投射；项目)；protest (pro-公开 + test-证明，公开声明反对)；prosecute (pro-向前 + sequ-跟随，起诉)。对比：protect 强调‘覆盖’阻挡；project 强调‘投掷’向前；protest 强调‘公开声明’反对；prosecute 强调‘跟随’法律程序。",
+        "extendedMeaning": "在考研真题中，protect 常引申为‘防护、维护（权益、环境等）’，如 protect the environment（保护环境）或 protect one's interests（维护某人的利益）。",
+        "examUsage": "常见搭配：protect...from/against...（保护...免受...）。真题例句：They protect their homes from the rain.（他们保护房屋免受雨水侵袭。）注意与 prevent...from...（阻止...做...）的辨析：protect 强调提供防护，prevent 强调阻止发生。"
+      }
+    },
+    {
+      "id": "protein",
+      "word": "protein",
+      "phonetic": "/'prəuti:n/",
+      "meaning": "n.蛋白质",
+      "similar": [
+        "protect",
+        "protest"
+      ],
+      "question": {
+        "wordId": "protein",
+        "stem": "选择 \"protein\" 的正确中文意思：",
+        "correct": "n.蛋白质",
+        "options": [
+          "v.(from)保护,保卫",
+          "n.新奇,新颖,新奇的事物",
+          "n.蛋白质",
+          "v./n.主张,断言,抗议,反对"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'proteios'（首要的），由'protos'（第一） + -ein（化学物质后缀）构成。蛋白质是生命活动中最重要的有机化合物，词根强调其‘首要’地位。",
+        "similarWarning": "protect (v.保护) 对比：protein结尾-in，protect结尾-ect；protest (v./n.抗议) 对比：protein含-ein，protest含-est。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "protest",
+      "word": "protest",
+      "phonetic": "/prəu'test/",
+      "meaning": "v./n.主张,断言,抗议,反对",
+      "similar": [
+        "protect",
+        "priest",
+        "pretext",
+        "process",
+        "protein",
+        "progress",
+        "prospect"
+      ],
+      "question": {
+        "wordId": "protest",
+        "stem": "选择 \"protest\" 的正确中文意思：",
+        "correct": "v./n.主张,断言,抗议,反对",
+        "options": [
+          "n.教士,神父",
+          "v.(from)保护,保卫",
+          "n.借口,托词",
+          "v./n.主张,断言,抗议,反对"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "pro-（向前，公开）+ test（证明，见证）→ 在公开场合作证或声明。本义为“公开宣称、断言”，后引申为“公开反对、抗议”，强调一种公开、明确的态度表达。",
+        "similarWarning": "protect（保护，pro-向前 + tect覆盖）与protest区别在于词根tect（覆盖）vs test（证明）；pretext（借口，pre-预先 + text编织）与protest区别在于词根text（编织）vs test（证明）；process（过程，pro-向前 + cess走）与protest区别在于词根cess（走）vs test（证明）。",
+        "extendedMeaning": "在考研真题中，protest常作动词表“断言、坚持声称”，如“He protested his innocence.”（他坚称自己无罪），强调主观确信的声明，而非单纯反对。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "prototype",
+      "word": "prototype",
+      "phonetic": "/'prəutətaip/",
+      "meaning": "n.原型；典型，范例",
+      "similar": [
+        "promote"
+      ],
+      "question": {
+        "wordId": "prototype",
+        "stem": "选择 \"prototype\" 的正确中文意思：",
+        "correct": "n.原型；典型，范例",
+        "options": [
+          "v.促进,发扬;提升,提拔;增进,助长",
+          "n.原型；典型，范例",
+          "n.丰富，充裕，大量",
+          "n.长沙发；(病人躺的)长榻vt.表达"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "proto- (原始、第一) + type (类型、模型)。核心物理动作：第一个被制造出来的模型或样本，作为后续复制或发展的标准。",
+        "similarWarning": "prototype vs promote: 'prototype' 含 'type' (类型)，指原始模型；'promote' 含 'mote' (移动)，指推动、晋升。",
+        "extendedMeaning": "在科技和商业语境中，常指‘原型机’、‘样品’或‘实验模型’，用于测试和验证概念。",
+        "examUsage": "真题考点：常用于科技类阅读，如 'prototype of a new device'（新设备的原型）。注意其与 'archetype'（原型、典型）的区分：'archetype' 强调普遍、原初的模式或象征，而 'prototype' 强调实际制造出的第一个模型。"
+      }
+    },
+    {
+      "id": "proud",
+      "word": "proud",
+      "phonetic": "/praud/",
+      "meaning": "a.(of)自豪的;引以自豪的;妄自尊大的",
+      "similar": [
+        "around",
+        "ground",
+        "sprout",
+        "rod",
+        "loud",
+        "pond",
+        "pour",
+        "aloud"
+      ],
+      "question": {
+        "wordId": "proud",
+        "stem": "选择 \"proud\" 的正确中文意思：",
+        "correct": "a.(of)自豪的;引以自豪的;妄自尊大的",
+        "options": [
+          "n.地，地面，土地；场地，场所；理由，根据",
+          "a.(of)自豪的;引以自豪的;妄自尊大的",
+          "ad.在...周围，到处 prep.在..四周(或附近)",
+          "vi.发芽，抽条 vt.使发芽 n.新芽，嫩苗"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'prodesse'(有益)，经古法语'prud'演变，核心动作是'对自己或所属感到高度满意'。词根pro-(向前) + esse(存在)，即'向前存在、出众'，引申为'自豪的'，后衍生出'骄傲的、妄自尊大'的贬义。",
+        "similarWarning": "proud vs. proud vs. around: proud中'p'开头，强调自我满足；around中'a'开头，表环绕；易混在于拼写相似但语义无直接关联，重点记忆proud的'p'与pride(骄傲)同源。",
+        "extendedMeaning": "在考研中，proud常引申为'自尊心强的、有荣誉感的'，如'proud tradition'（光荣传统），或用于描述'令人自豪的成就'，如'a proud moment'（骄傲时刻），但需注意其贬义'傲慢的'在阅读中可能作为态度题干扰项。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "prove",
+      "word": "prove",
+      "phonetic": "/pru:v/",
+      "meaning": "v.证明,证实;检验;考验;鉴定;结果是,表明是",
+      "similar": [
+        "probe",
+        "prone",
+        "prose",
+        "approve",
+        "improve",
+        "provide",
+        "provoke",
+        "propel"
+      ],
+      "question": {
+        "wordId": "prove",
+        "stem": "选择 \"prove\" 的正确中文意思：",
+        "correct": "v.证明,证实;检验;考验;鉴定;结果是,表明是",
+        "options": [
+          "v.证明,证实;检验;考验;鉴定;结果是,表明是",
+          "n.探针,探测器 v.(以探针等)探查,穿刺,查究",
+          "a.倾向于,俯伏的,倾斜的,陡的",
+          "n.散文 a.散文的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语probare（测试、证明），由pro-（向前）与b-（好的、有利的）组合，核心动作是“向前测试好坏”→通过检验得出真实性。",
+        "similarWarning": "prove（证明） vs probe（探查，探针） vs prone（易于，俯卧的）：prove强调通过证据确认；probe侧重深入调查或物理探测；prone指倾向性或姿势。",
+        "extendedMeaning": "1. 检验、考验（尤指能力或品质）：The challenge will prove his leadership. 2. 结果是、表明是（系动词）：He proved a reliable ally. 3. 法律语境中“认证、鉴定”：prove a will（认证遗嘱）。",
+        "examUsage": "高频考点：prove + (to be) + adj./n. 结构；真题中常作为系动词考查，如“The experiment proved successful.”干扰项易与improve（改进）混淆，注意区分“证明”与“改善”。"
+      }
+    },
+    {
+      "id": "provide",
+      "word": "provide",
+      "phonetic": "/prəu'vaid/",
+      "meaning": "v.供应,供给,准备,预防,规定",
+      "similar": [
+        "provided",
+        "province",
+        "pride",
+        "prove",
+        "preside",
+        "profile",
+        "promise",
+        "provoke"
+      ],
+      "question": {
+        "wordId": "provide",
+        "stem": "选择 \"provide\" 的正确中文意思：",
+        "correct": "v.供应,供给,准备,预防,规定",
+        "options": [
+          "n.省;领域,范围,本分",
+          "v.供应,供给,准备,预防,规定",
+          "conj.倘若,只要,假如",
+          "n.自豪;自满；引以自豪的东西 v.使自豪"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "pro-（向前）+ vid-（看）+ -e（动词后缀）→ 向前看→提前看到并准备好→供应、准备。核心物理动作：目光前视，预见所需。",
+        "similarWarning": "provided（conj.假如；v.provide的过去式）vs provide：-d结尾表条件。province（n.省；领域）vs provide：-ince结尾，词根vinc-（征服）。",
+        "extendedMeaning": "（在考研中）provide for：为…作准备；规定（法律条款）。例：The contract provides for a 10% penalty. （合同规定10%罚金。）",
+        "examUsage": "真题常考搭配：provide sb with sth / provide sth for sb（注意介词with/for）。干扰项常混用offer、supply。例：The government provides food and shelter for the homeless. （政府为无家可归者提供食物和住所。）"
+      }
+    },
+    {
+      "id": "provided",
+      "word": "provided",
+      "phonetic": "/prə'vaidid/",
+      "meaning": "conj.倘若,只要,假如",
+      "similar": [
+        "provide",
+        "preside",
+        "proceed",
+        "profile",
+        "promise",
+        "provoke",
+        "province"
+      ],
+      "question": {
+        "wordId": "provided",
+        "stem": "选择 \"provided\" 的正确中文意思：",
+        "correct": "conj.倘若,只要,假如",
+        "options": [
+          "v.(at,over)主持",
+          "v.进行,继续下去;发生",
+          "v.供应,供给,准备,预防,规定",
+          "conj.倘若,只要,假如"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由provide（提供）的过去分词转化而来，核心逻辑是‘在某种条件被提供/满足的前提下’→‘倘若、只要’。词根pro-（向前）+vid-（看），原义为‘预先看到并准备’，引申为‘提供条件’。",
+        "similarWarning": "provide（v.提供）vs provided（conj.倘若）：拼写差-d，词性不同；preside（v.主持）vs provided：前缀pre-（前）vs pro-（前），s-替换v-；proceed（v.进行）vs provided：ceed-（走）vs vid-（看）；profile（n.轮廓）vs provided：fil-（线）vs vid-；promise（v.承诺）vs provided：mis-（送）vs vid-；provoke（v.激怒）vs provided：vok-（喊）vs vid-；province（n.省份）vs provided：vinc-（征服）vs vid-。",
+        "extendedMeaning": "",
+        "examUsage": "真题中常考其引导条件状语从句的用法，且多与that连用（provided that），意为‘只要……就……’，常作为逻辑题眼或干扰项，区别于if的‘如果’（不强调条件预设）。例如：You may borrow the book, provided (that) you return it on time."
+      }
+    },
+    {
+      "id": "province",
+      "word": "province",
+      "phonetic": "/'prɔvins/",
+      "meaning": "n.省;领域,范围,本分",
+      "similar": [
+        "prince",
+        "provide",
+        "pronounce",
+        "produce",
+        "profile",
+        "promise",
+        "provoke",
+        "romance"
+      ],
+      "question": {
+        "wordId": "province",
+        "stem": "选择 \"province\" 的正确中文意思：",
+        "correct": "n.省;领域,范围,本分",
+        "options": [
+          "n.省;领域,范围,本分",
+          "n.王子,亲王",
+          "v.供应,供给,准备,预防,规定",
+          "v.发…的音;宣布,宣判"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'provincia'（职责、管辖范围），由 'pro-'（向前）+ 'vincere'（征服）构成，原指罗马征服后划分的行政区，后引申为‘领域、本分’。核心动作：征服后划定管辖范围。",
+        "similarWarning": "province vs prince（王子，去掉 'vin' 换 'in'）；province vs provide（提供，去掉 'in' 换 'id'）；province vs pronounce（发音，去掉 'in' 换 'oun'）",
+        "extendedMeaning": "考研僻义：指‘专业领域、职权范围’，如 'within one's province'（在某人的知识或职权范围内），而非仅地理概念。",
+        "examUsage": "真题考点：常与 'outside one's province'（非某人本分/专业）搭配，用于阅读理解中判断作者态度或范围。"
+      }
+    },
+    {
+      "id": "provision",
+      "word": "provision",
+      "phonetic": "/prəu'viʒən/",
+      "meaning": "n.供应,(一批)供应品;预备;条款;(pl.)给养",
+      "similar": [
+        "precision",
+        "procession",
+        "profession",
+        "erosion",
+        "division",
+        "promising",
+        "preposition",
+        "proposition"
+      ],
+      "question": {
+        "wordId": "provision",
+        "stem": "选择 \"provision\" 的正确中文意思：",
+        "correct": "n.供应,(一批)供应品;预备;条款;(pl.)给养",
+        "options": [
+          "n.精确,精确度",
+          "n.队伍,行列",
+          "n.职业,专业,表白,宣布",
+          "n.供应,(一批)供应品;预备;条款;(pl.)给养"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "pro-（向前）+vis-（看）+ -ion（名词后缀）→ 向前看，预先看到 → 引申为“预备、供应”。核心动作：提前准备、预先安排。",
+        "similarWarning": "provision（供应/条款）vs. precision（精确）vs. procession（队伍）vs. profession（职业）。差异：provision 中含 vis（看），强调“预先看到”；precision 中含 cis（切），强调“切分精确”；procession 中含 cess（走），指“向前走的一列人”；profession 中含 fess（说），指“公开宣称的职业”。",
+        "extendedMeaning": "法律/合同中的“条款、规定”（如：under the provisions of the agreement 根据协议条款）；经济学中的“准备金”（如：loan loss provision 贷款损失准备金）。",
+        "examUsage": "高频搭配：make provision for（为……做好准备 / 为……预作安排）；provision of goods（货物供应）。真题例句：The government made provision for flood victims.（政府为洪灾灾民做好了供应准备。）"
+      }
+    },
+    {
+      "id": "provoke",
+      "word": "provoke",
+      "phonetic": "/prəu'vəuk/",
+      "meaning": "v.挑动;激发;招惹",
+      "similar": [
+        "prove",
+        "promote",
+        "propose",
+        "provide",
+        "provided",
+        "province"
+      ],
+      "question": {
+        "wordId": "provoke",
+        "stem": "选择 \"provoke\" 的正确中文意思：",
+        "correct": "v.挑动;激发;招惹",
+        "options": [
+          "v.促进,发扬;提升,提拔;增进,助长",
+          "v.提议,建议;提名,推荐;求婚",
+          "v.证明,证实;检验;考验;鉴定;结果是,表明是",
+          "v.挑动;激发;招惹"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "pro-（向前）+ vok（喊叫，呼唤）→ 向前喊叫 → 激怒、挑衅。核心动作：通过言语或行为刺激对方产生反应。",
+        "similarWarning": "prove（证明） vs provoke（激怒）：prove 强调验证事实，provoke 强调刺激情绪。\npromote（促进） vs provoke（激怒）：promote 是推动积极发展，provoke 是引发负面反应。\npropose（建议） vs provoke（激怒）：propose 是提出想法，provoke 是激起行动。",
+        "extendedMeaning": "（考研高频）引发（某种情感、反应或事件），如 provoke debate（引发争论）、provoke criticism（招致批评）。",
+        "examUsage": "真题考点：provoke 常用于被动结构 be provoked by（被……激怒/引发），或搭配不定式 provoke sb. to do sth.（刺激某人做某事）。例：The policy provoked strong opposition from the public.（该政策引发了公众强烈反对。）"
+      }
+    },
+    {
+      "id": "prudent",
+      "word": "prudent",
+      "phonetic": "/'pru:dənt/",
+      "meaning": "a.谨慎的,智慧的,稳健的,节俭的",
+      "similar": [
+        "prevent",
+        "precedent",
+        "argument"
+      ],
+      "question": {
+        "wordId": "prudent",
+        "stem": "选择 \"prudent\" 的正确中文意思：",
+        "correct": "a.谨慎的,智慧的,稳健的,节俭的",
+        "options": [
+          "v.(from)预防,防止,阻止,制止,妨碍",
+          "n.先例",
+          "n.争论(吵)，辩论；理由;论证",
+          "a.谨慎的,智慧的,稳健的,节俭的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语prudens，是providens（预见）的缩合形式，由pro-（向前）和videre（看）组成。核心动作是‘向前看’，即预见未来而采取谨慎行动，引申为谨慎的、明智的。",
+        "similarWarning": "prudent vs. present：prudent含‘预见’（-vid-），present为‘前存在’（pre-+esse）。prudent vs. prevent：prevent是‘提前阻止’，prudent强调‘预见后的谨慎’。prudent vs. student：student来自studere（学习），无‘看’义。prudent vs. precedent：precedent是‘先例’，强调时间顺序。prudent vs. president：president是‘坐在前面的人’，无谨慎义。prudent vs. argument：argument来自arguere（证明），无关。",
+        "extendedMeaning": "在考研真题中常引申为‘节俭的’（如a prudent housewife），强调对资源的合理规划，而非单纯省钱。",
+        "examUsage": "真题考点：搭配‘prudent policy’（稳健政策）或‘prudent investment’（审慎投资），常作为干扰项与‘conservative’（保守的）或‘cautious’（小心的）区分。"
+      }
+    },
+    {
+      "id": "psychiatry",
+      "word": "psychiatry",
+      "phonetic": "/psai'kaiətri/",
+      "meaning": "n.精神病学，精神病疗法",
+      "similar": [
+        "psychology"
+      ],
+      "question": {
+        "wordId": "psychiatry",
+        "stem": "选择 \"psychiatry\" 的正确中文意思：",
+        "correct": "n.精神病学，精神病疗法",
+        "options": [
+          "n.精神病学，精神病疗法",
+          "n.皮革,皮革制品",
+          "n.心理,心理学,心理状态",
+          "v.(from)受痛苦,患病;受损失;遭受;忍受"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "psych-（灵魂/精神）+ -iatry（医疗/治疗）= 治疗精神疾病的学科。词根psych-源自古希腊语psyche（灵魂、呼吸），指人的精神或心理；-iatry来自希腊语iatreia（医疗）。核心概念为‘精神（疾病）的医学治疗’。",
+        "similarWarning": "psychology（心理学）：psych-（精神）+ -logy（学科）= 研究精神/心理的学科。差异在于后缀：-iatry侧重‘治疗’，-logy侧重‘学说/研究’。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "psychology",
+      "word": "psychology",
+      "phonetic": "/psai'kɔlədʒi/",
+      "meaning": "n.心理,心理学,心理状态",
+      "similar": [
+        "sociology",
+        "psychiatry"
+      ],
+      "question": {
+        "wordId": "psychology",
+        "stem": "选择 \"psychology\" 的正确中文意思：",
+        "correct": "n.心理,心理学,心理状态",
+        "options": [
+          "n.心理,心理学,心理状态",
+          "n.社会学",
+          "n.精神病学，精神病疗法",
+          "n.手帕"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "psyche（灵魂、心灵）+ -logy（学科）。词根psyche原指“呼吸、生命”，后引申为“灵魂、心灵”；-logy表示“学说、研究”。故psychology本义为“研究心灵的科学”，即心理学。",
+        "similarWarning": "sociology（社会学）：socio-社会+ -logy；psychiatry（精神病学）：psych-心灵+ iatry（治疗）；technology（技术）：techno-技艺+ -logy。注意psychology侧重心理机制，psychiatry侧重疾病治疗。",
+        "extendedMeaning": "在考研阅读中，psychology可引申为“心理状态、心理特征”，如\"the psychology of the crowd\"（群体心理），而非仅指学科。",
+        "examUsage": "常考搭配：\"cognitive psychology\"（认知心理学）、\"social psychology\"（社会心理学）。真题例句：\"The psychology of the consumer has been a focus of marketing research.\"（消费者心理一直是营销研究的焦点。）"
+      }
+    },
+    {
+      "id": "pub",
+      "word": "pub",
+      "phonetic": "/pʌb/",
+      "meaning": "n.(英国)小酒店；小旅馆",
+      "similar": [
+        "rub",
+        "tub"
+      ],
+      "question": {
+        "wordId": "pub",
+        "stem": "选择 \"pub\" 的正确中文意思：",
+        "correct": "n.(英国)小酒店；小旅馆",
+        "options": [
+          "n.(英国)小酒店；小旅馆",
+          "n.木盆,澡盆",
+          "n.雇用;使用;工作,职业",
+          "v.擦,摩擦"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自public house（公共房屋）的缩写。pub指提供酒水、社交的场所，核心是“公共聚集地”，词源上强调“对公众开放”的属性。",
+        "similarWarning": "put（放置），rub（摩擦），tub（桶）。pub与这些词仅首字母或尾字母不同，但词义无关联。",
+        "extendedMeaning": "在考研中，pub极少出现僻义，通常仅指代酒吧或小酒馆。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "publication",
+      "word": "publication",
+      "phonetic": "/ˌpʌbli'keiʃən/",
+      "meaning": "n.出版物;出版,发行;公布,发表",
+      "similar": [
+        "obligation",
+        "application",
+        "implication",
+        "qualification",
+        "complication",
+        "publicity",
+        "indication",
+        "specification"
+      ],
+      "question": {
+        "wordId": "publication",
+        "stem": "选择 \"publication\" 的正确中文意思：",
+        "correct": "n.出版物;出版,发行;公布,发表",
+        "options": [
+          "n.义务,责任",
+          "n.出版物;出版,发行;公布,发表",
+          "n.申请，申请书；应用，实施，实用性",
+          "n.含意，暗示，暗指；牵连"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根为public（公众） + -ation（名词后缀，表示行为/结果）。核心动作：使某事成为公众所知。本义：将信息/作品向公众公开的行为或产物，引申为出版（书籍、期刊）或公布（声明、数据）。",
+        "similarWarning": "形近词对比：\n- public（adj.公众的） vs. publication（n.出版物）: -ation 后缀变名词；\n- publication vs. publicity（n.宣传）: -ity 表性质，强调“公开度”；\n- publication vs. application（n.申请）: appli- 表“应用”，-cation 同后缀但词根本质不同。",
+        "extendedMeaning": "考研僻义：在学术语境中常指“公开发表的研究成果/论文”，如“scientific publication”（科学论文）；在商业语境中可指“发行量”或“刊号”。",
+        "examUsage": "真题考点：常考搭配“date of publication”（出版日期）、“publication of results”（结果公布）；干扰项常设置“publicity”（宣传）或“application”（应用）进行混淆，需注意语境区分。"
+      }
+    },
+    {
+      "id": "publicity",
+      "word": "publicity",
+      "phonetic": "/pʌb'lisiti/",
+      "meaning": "n.公开,宣传,广告,推销",
+      "similar": [
+        "publication",
+        "simplicity"
+      ],
+      "question": {
+        "wordId": "publicity",
+        "stem": "选择 \"publicity\" 的正确中文意思：",
+        "correct": "n.公开,宣传,广告,推销",
+        "options": [
+          "n.简单,简易;朴素;直率,单纯",
+          "a.宗教仪式的,典礼的 n.(宗教)仪式,典礼",
+          "n.出版物;出版,发行;公布,发表",
+          "n.公开,宣传,广告,推销"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语publicus（公共的），后缀-ity表性质，-ic-为连接成分。核心动作是“使某事物进入公共视野”，即通过传播让大众知晓，强调从私人领域到公共领域的曝光过程。",
+        "similarWarning": "publication（n.出版，发表）：源自publish（出版），强调面向公众的正式发行行为。publicity（n.公开，宣传）：更侧重通过媒体或活动吸引公众注意，制造知名度。simplicity（n.简单，朴素）：源自simple（简单的），与“公共”无关。",
+        "extendedMeaning": "在考研外刊中常指“（媒体）关注度”或“舆论关注”，如gain publicity（获得媒体关注），而非仅指广告宣传。",
+        "examUsage": "真题考点：常与动词generate/attract/avoid搭配，如generate publicity（制造舆论），或与negative搭配表示负面曝光。2010年阅读真题曾出现the glare of publicity（公众的密切关注）作为题眼。"
+      }
+    },
+    {
+      "id": "publish",
+      "word": "publish",
+      "phonetic": "/'pʌbliʃ/",
+      "meaning": "v.出版,刊印;公布,发布",
+      "similar": [
+        "polish",
+        "punish",
+        "rubbish"
+      ],
+      "question": {
+        "wordId": "publish",
+        "stem": "选择 \"publish\" 的正确中文意思：",
+        "correct": "v.出版,刊印;公布,发布",
+        "options": [
+          "n.垃圾,废物;废话",
+          "v.惩罚,处罚",
+          "v.磨光,擦亮;使优美,润饰 n.擦光剂,上光蜡",
+          "v.出版,刊印;公布,发布"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根pub(lic)(公共的)+-ish(动词后缀)。核心动作：使某事变成公共的、公开的。原始意义即‘使公之于众’，引申为‘出版’、‘发布’。",
+        "similarWarning": "polish (v. 擦亮，润色)：publish vs polish，区别在于‘ub’与‘ol’。public (adj. 公共的)：publish是动词，public是形容词。punish (v. 惩罚)：publish vs punish，区别在于‘ub’与‘un’。rubbish (n. 垃圾)：publish vs rubbish，注意拼写差异。",
+        "extendedMeaning": "在考研阅读中，publish常引申为‘发表（观点、研究结果等）’，不限于出版书籍。例如：publish findings（发表研究结果）。",
+        "examUsage": "常见搭配：publish a report (发表报告)，publish an article (发表文章)。在考研阅读中，常作为动作主体（如期刊、机构）的谓语出现，表示‘刊登、刊载’信息。"
+      }
+    },
+    {
+      "id": "puff",
+      "word": "puff",
+      "phonetic": "/pʌf/",
+      "meaning": "n.一阵,一股(气味等);喘息;吹嘘v.喘息,鼓吹",
+      "similar": [
+        "stuff"
+      ],
+      "question": {
+        "wordId": "puff",
+        "stem": "选择 \"puff\" 的正确中文意思：",
+        "correct": "n.一阵,一股(气味等);喘息;吹嘘v.喘息,鼓吹",
+        "options": [
+          "n.一阵,一股(气味等);喘息;吹嘘v.喘息,鼓吹",
+          "n.原料,材料,东西 v.填满,塞满",
+          "n.(英国)小酒店；小旅馆",
+          "ad.(用于否定句中以加强语气)任何"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿短促喷气的声音，核心物理动作为“短促喷出气体”。本义为一阵风或烟雾，引申为喘息（急促呼吸）和吹嘘（像吹气一样夸大）。",
+        "similarWarning": "stuff /puff/：stuff指“填充物、东西”，puff指“喷气、吹嘘”。拼写差异：stuff以st开头，表“塞满”；puff以p开头，表“喷出”。",
+        "extendedMeaning": "（考研僻义）n. 泡芙（一种蓬松糕点）；v. 使膨胀（如puff up）。",
+        "examUsage": "（真题考点）puff out（使膨胀；吹灭）；puff up（膨胀；自负）。例句：The wind puffed out the sails.（风鼓满了帆。）"
+      }
+    },
+    {
+      "id": "pull",
+      "word": "pull",
+      "phonetic": "/pul/",
+      "meaning": "v.拉,拖 n.拉,拖;拉力,牵引力",
+      "similar": [
+        "bull",
+        "dull",
+        "pill",
+        "poll",
+        "bully",
+        "pulse",
+        "pupil",
+        "skull"
+      ],
+      "question": {
+        "wordId": "pull",
+        "stem": "选择 \"pull\" 的正确中文意思：",
+        "correct": "v.拉,拖 n.拉,拖;拉力,牵引力",
+        "options": [
+          "v.拉,拖 n.拉,拖;拉力,牵引力",
+          "n.公牛",
+          "a.单调的;迟钝的,愚笨的;不锋利的",
+          "n.药丸"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源拟声，模仿用力拉扯时发出的声音。核心物理动作为：施加力量使物体朝自己方向移动。",
+        "similarWarning": "bull（公牛/牛市）、dull（迟钝的/枯燥的）、full（满的）、pill（药丸）、poll（民意调查）、bully（欺凌）、pulse（脉搏）、pupil（学生/瞳孔）。注意拼写差异：pull vs. bull（b/p互换），pull vs. full（f/p互换），pull vs. poll（o/ull）。",
+        "extendedMeaning": "pull作名词可引申为‘吸引力、影响力’（如：pull of the market市场的吸引力）；作动词可表示‘获得、赢得’（如：pull votes拉选票）。",
+        "examUsage": "pull off（成功完成/实现）、pull through（渡过难关/恢复健康）、pull over（靠边停车）。真题例句：He managed to pull off the deal.（他成功完成了这笔交易。）"
+      }
+    },
+    {
+      "id": "pulse",
+      "word": "pulse",
+      "phonetic": "/pʌls/",
+      "meaning": "n.脉搏,脉冲",
+      "similar": [
+        "purse",
+        "impulse",
+        "pursue",
+        "use",
+        "fuse",
+        "pale",
+        "pile",
+        "pole"
+      ],
+      "question": {
+        "wordId": "pulse",
+        "stem": "选择 \"pulse\" 的正确中文意思：",
+        "correct": "n.脉搏,脉冲",
+        "options": [
+          "v.追赶,追踪;继续,从事",
+          "v.推动 n.推动;冲动,刺激",
+          "n.钱包",
+          "n.脉搏,脉冲"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语pulsus（打击、推动），是pellere（推、驱动）的过去分词。核心物理动作为‘推动产生的波动’：心脏收缩推动血液产生脉搏，电流推动产生脉冲。",
+        "similarWarning": "purse（钱包，n.）vs pulse：purse含‘r’表‘皮革束口’，pulse含‘l’表‘跳动’；impulse（冲动，n.）是im-（向内）+pulse，强调‘内部推动’；pursue（追求，v.）含‘r’表‘跟随路径’。",
+        "extendedMeaning": "考研僻义：节奏、律动（如the pulse of a city城市的活力/节拍）；电子学中的‘脉冲信号’（高频考点）。",
+        "examUsage": "真题考点：搭配‘take the pulse of’（评估/了解…的动向），例：Polls take the pulse of public opinion. 干扰项常将pulse与impulse混淆（impulse指突发冲动）。"
+      }
+    },
+    {
+      "id": "pump",
+      "word": "pump",
+      "phonetic": "/pʌmp/",
+      "meaning": "n.泵 v.用(泵)抽(水);打气,泵送",
+      "similar": [
+        "bump",
+        "dump",
+        "jump",
+        "lump"
+      ],
+      "question": {
+        "wordId": "pump",
+        "stem": "选择 \"pump\" 的正确中文意思：",
+        "correct": "n.泵 v.用(泵)抽(水);打气,泵送",
+        "options": [
+          "n.泵 v.用(泵)抽(水);打气,泵送",
+          "v.(against,into)碰;颠簸着前进 n.碰撞",
+          "v.倾倒,倾卸 n.垃圾场",
+          "v./n.跳跃,跳动,跳过;暴涨,猛增"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模仿泵抽吸或打气时发出的“噗噗”声，直接对应动作与工具。",
+        "similarWarning": "bump（碰撞/肿块，b-拟撞击声）、dump（倾倒/垃圾，d-向下动作）、jump（跳跃，j-向上弹跳）、lump（块/肿块，l-堆积状）。差异在首字母辅音所模拟的不同物理动作。",
+        "extendedMeaning": "v. 灌输，注入（如pump money into the economy）；n. 心脏（比喻为血泵）。",
+        "examUsage": "pump up 打气/激励（真题中常考引申义“刺激增长”）；pump out 大量产出/排出（如pump out pollutants）。"
+      }
+    },
+    {
+      "id": "punch",
+      "word": "punch",
+      "phonetic": "/pʌntʃ/",
+      "meaning": "n.冲压机,冲床;穿孔机 v.冲压,穿孔",
+      "similar": [
+        "bunch",
+        "pinch",
+        "launch",
+        "punish",
+        "quench",
+        "inch",
+        "push",
+        "bench"
+      ],
+      "question": {
+        "wordId": "punch",
+        "stem": "选择 \"punch\" 的正确中文意思：",
+        "correct": "n.冲压机,冲床;穿孔机 v.冲压,穿孔",
+        "options": [
+          "v.捏,掐,拧;收缩;紧急关头;匮乏;压力",
+          "v.发射;使(船)下水,发动,开展 n.发射,下水",
+          "n.(一)簇,束,捆,串",
+          "n.冲压机,冲床;穿孔机 v.冲压,穿孔"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "punch 源自拉丁语 pungere（刺，戳），核心物理动作为用尖物或拳头快速冲击。词根 punct-（点、刺）演变而来，同源词有 puncture（穿刺）、punctuate（加标点）。冲压机/穿孔机的动作本质就是“刺穿”或“冲击”物体表面。",
+        "similarWarning": "bunch（束，串）与 bunch 区别在于 b- 开头表示捆扎；pinch（捏，掐）中 p- 后接 -inch，强调用两指夹紧；launch（发射，发起）中 l- 开头，词义偏向起始动作；punish（惩罚）中 -ish 后缀，词义偏向施加痛苦，与 punch 的物理冲击不同。",
+        "extendedMeaning": "在考研英语中，punch 可引申为“力量、效力”（如 pack a punch 表示有巨大影响力），或“打孔/冲压”的抽象用法（如 punch line 指笑话中画龙点睛的妙语）。",
+        "examUsage": "常见考点搭配：punch through（冲破，穿透），punch in/out（打卡上下班）。真题例句：The new policy packs a punch in reducing carbon emissions.（这项新政策在减少碳排放方面效果显著。）"
+      }
+    },
+    {
+      "id": "punctual",
+      "word": "punctual",
+      "phonetic": "/'pʌŋktjuəl/",
+      "meaning": "a.严守时刻的,准时的,正点的",
+      "similar": [
+        "actual",
+        "mutual",
+        "unusual"
+      ],
+      "question": {
+        "wordId": "punctual",
+        "stem": "选择 \"punctual\" 的正确中文意思：",
+        "correct": "a.严守时刻的,准时的,正点的",
+        "options": [
+          "a.相互的，彼此的；共同的，共有的",
+          "a.严守时刻的,准时的,正点的",
+          "a.实际的；现实的，真实的，目前的",
+          "a.不平常的,与众不同的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语punctum（点），原指“精确到点的”，punct-（刺、点）+ -ual（形容词后缀），核心动作是“刺出一个点”，引申为“精确到时间点”",
+        "similarWarning": "actual（实际的）：a-（到）+ act-（行动）+ -ual，强调实际存在；mutual（相互的）：mut-（改变）+ -ual，强调相互关系；unusual（不寻常的）：un-（不）+ usual（通常的），强调异常。punctual强调时间精确，拼写区别在p-开头和punct-词根",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "punish",
+      "word": "punish",
+      "phonetic": "/'pʌniʃ/",
+      "meaning": "v.惩罚,处罚",
+      "similar": [
+        "furnish",
+        "publish",
+        "push",
+        "punch",
+        "finish",
+        "perish",
+        "polish",
+        "vanish"
+      ],
+      "question": {
+        "wordId": "punish",
+        "stem": "选择 \"punish\" 的正确中文意思：",
+        "correct": "v.惩罚,处罚",
+        "options": [
+          "v.供应,提供;装备,布置",
+          "v.惩罚,处罚",
+          "v.出版,刊印;公布,发布",
+          "v.推;催逼,逼迫 n.推,推力;促进,推进"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语punire，由poena（惩罚）派生。核心动作是施加痛苦或代价以纠正行为。",
+        "similarWarning": "形近词辨析：punish vs. publish（出版，公开）、punch（用拳猛击）、polish（擦亮，完善）。差异在于中间字母：punish含'ni'表惩罚，publish含'bl'表公开，punch含'nch'表冲击动作。",
+        "extendedMeaning": "在考研语境中，punish常引申为‘严厉对待、大量消耗’（非字面惩罚），如punish the budget（严重消耗预算）、punish the car（粗暴驾驶）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pupil",
+      "word": "pupil",
+      "phonetic": "/'pjupəl/",
+      "meaning": "n.学生,小学生;瞳孔",
+      "similar": [
+        "pail",
+        "pull"
+      ],
+      "question": {
+        "wordId": "pupil",
+        "stem": "选择 \"pupil\" 的正确中文意思：",
+        "correct": "n.学生,小学生;瞳孔",
+        "options": [
+          "n.学生,小学生;瞳孔",
+          "n.桶, 提桶; 一桶的量",
+          "v.拉,拖 n.拉,拖;拉力,牵引力",
+          "n.车辆,交通工具;媒介,载体"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 pupilla（小女孩/玩偶），指瞳孔中倒映的小人像（因他人眼中可见自己的缩小影像）；后引申为受监护的未成年人（学生）。核心动作：从“镜像中的小人”到“被教导的人”。",
+        "similarWarning": "pail（桶，n.） vs pull（拉，v.） vs pupil：-pail 含“ai”表容器；-pull 含“ll”表动作；pupil 含“pi”表人眼结构。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "puppet",
+      "word": "puppet",
+      "phonetic": "/'pʌpit/",
+      "meaning": "n.木偶,傀儡",
+      "similar": [
+        "upper",
+        "upset",
+        "pepper",
+        "supper"
+      ],
+      "question": {
+        "wordId": "puppet",
+        "stem": "选择 \"puppet\" 的正确中文意思：",
+        "correct": "n.木偶,傀儡",
+        "options": [
+          "n.木偶,傀儡",
+          "a.上面的;上部的,较高的",
+          "v.使…心烦意乱;打翻,推翻a.难过的;不安的",
+          "n.胡椒粉,胡椒;辣椒"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自中古英语popet（玩偶），最终源自拉丁语puppa（女孩、玩偶）。核心物理动作是“被人用手操纵的物体”，引申为“受人操控的人或团体”。",
+        "similarWarning": "upper /'ʌpə/ adj.较高的（无pupp-前缀）；upset /ʌp'set/ v.打翻（up+set，无pupp-）；pepper /'pepə/ n.胡椒（双p+er，末尾不同）；supper /'sʌpə/ n.晚餐（无pupp-，单p）。puppet核心是pupp-（玩偶）加-et小称后缀。",
+        "extendedMeaning": "在考研政治或外刊中常指“傀儡政权”或“傀儡领导人”，如a puppet regime（傀儡政权），强调受外部势力控制。",
+        "examUsage": "真题中常以比喻义出现，如The government is merely a puppet of the military.（政府不过是军队的傀儡。）注意与marionette（牵线木偶）区分，puppet更强调操控关系。"
+      }
+    },
+    {
+      "id": "purchase",
+      "word": "purchase",
+      "phonetic": "/'pə:tʃəs/",
+      "meaning": "v.买,购买 n.购买的物品",
+      "similar": [
+        "phrase",
+        "purpose"
+      ],
+      "question": {
+        "wordId": "purchase",
+        "stem": "选择 \"purchase\" 的正确中文意思：",
+        "correct": "v.买,购买 n.购买的物品",
+        "options": [
+          "n.分支,补偿 v.抵消,补偿",
+          "n.目的,意图;用途,效果",
+          "n.短语,词语,习语",
+          "v.买,购买 n.购买的物品"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源：古法语‘purchacier’（pour-‘为了’+chacier‘追逐’），本义‘努力获取’。核心动作：通过追逐或付出代价获得物品，引申为‘购买’。",
+        "similarWarning": "phrase（短语）：p+hrase vs pur+chase，区别在‘hr’与‘ch’；purpose（目的）：pur+pose vs pur+chase，区别在‘pose’与‘chase’，词义无关。",
+        "extendedMeaning": "考研僻义：n. 购买力（purchasing power）；v. 获得（非金钱交换，如‘purchase freedom’）。",
+        "examUsage": "真题考点：固定搭配‘make a purchase’（购物）；阅读题眼‘purchase decision’（购买决策），常考消费者行为分析。"
+      }
+    },
+    {
+      "id": "pure",
+      "word": "pure",
+      "phonetic": "/pjuə/",
+      "meaning": "a.纯的,纯洁的;纯理论的,抽象的;完全的",
+      "similar": [
+        "purse",
+        "cure",
+        "lure",
+        "purple",
+        "pursue",
+        "curse",
+        "curve",
+        "nurse"
+      ],
+      "question": {
+        "wordId": "pure",
+        "stem": "选择 \"pure\" 的正确中文意思：",
+        "correct": "a.纯的,纯洁的;纯理论的,抽象的;完全的",
+        "options": [
+          "a.纯的,纯洁的;纯理论的,抽象的;完全的",
+          "n.钱包",
+          "v.(of)治愈,医治;矫正 n.治愈,痊愈;良药",
+          "n.吸引力,魅力,诱惑物 vt.引诱，吸引"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'purus'，意为‘洁净的、无杂质的’。核心物理动作是‘过滤或清洗掉杂质’，引申为‘纯的、纯洁的、纯理论的（不含实际掺杂）、完全的（无例外）’。",
+        "similarWarning": "purse（钱包） vs pure（纯的）：purse 多一个 's'，指装钱的小包；cure（治愈） vs pure：cure 以 'c' 开头，意为治疗；lure（诱惑） vs pure：lure 以 'l' 开头，意为引诱；sure（确信的） vs pure：sure 以 's' 开头，意为肯定；purple（紫色） vs pure：purple 多 'pl'，指颜色；pursue（追求） vs pure：pursue 有 'sue'，意为追赶；curse（诅咒） vs pure：curse 以 'c' 开头，意为咒骂；curve（曲线） vs pure：curve 以 'c' 开头，意为弯曲。",
+        "extendedMeaning": "在考研中，pure 常引申为‘纯理论的、非应用的’（如 pure science 纯科学），以及‘完全的、十足的’（如 pure luck 纯粹的运气）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "purify",
+      "word": "purify",
+      "phonetic": "/'pjuərifai/",
+      "meaning": "v.使纯净,提纯",
+      "similar": [
+        "unify",
+        "verify"
+      ],
+      "question": {
+        "wordId": "purify",
+        "stem": "选择 \"purify\" 的正确中文意思：",
+        "correct": "v.使纯净,提纯",
+        "options": [
+          "v.使纯净,提纯",
+          "n.十年",
+          "vt.证实,查证;证明",
+          "v.使联合,统一;使相同,使一致"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 purus（纯净） + -fy（使...化）。核心物理动作：通过去除杂质使某物达到纯净状态，引申为精神或道德上的净化。",
+        "similarWarning": "unify（统一）：un-（单一）+ -fy，强调使成为一体；verify（证实）：ver-（真实）+ -fy，强调确认真实性。purify强调清除杂质，unify强调合并，verify强调证明。",
+        "extendedMeaning": "考研中常引申为‘净化心灵’或‘清除不良因素’，如‘purify the mind’（净化思想），或指技术上的提纯过程。",
+        "examUsage": "常见于科技类阅读，如‘purify water’（净化水），或环保主题‘purify the air’（净化空气）。无特殊干扰项，故省略。"
+      }
+    },
+    {
+      "id": "purple",
+      "word": "purple",
+      "phonetic": "/'pə:pl/",
+      "meaning": "a.紫的 n.紫色",
+      "similar": [
+        "perplex",
+        "purpose",
+        "pure",
+        "purse",
+        "pursue",
+        "puzzle"
+      ],
+      "question": {
+        "wordId": "purple",
+        "stem": "选择 \"purple\" 的正确中文意思：",
+        "correct": "a.紫的 n.紫色",
+        "options": [
+          "n.目的,意图;用途,效果",
+          "v.使困惑,使费解,使复杂化",
+          "a.紫的 n.紫色",
+          "a.纯的,纯洁的;纯理论的,抽象的;完全的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语purpura，原指一种从海洋贝类中提取的紫色染料，其词源可追溯至希腊语porphyra。核心物理动作是‘提取/染色’，表示一种特定颜色的名称。",
+        "similarWarning": "perplex（使困惑）：purple vs perplex，差异在ple（折叠/纠缠）与pur（紫）。purse（钱包）：purple vs purse，差异在ple（满）与se（包）。",
+        "extendedMeaning": "考研中无特殊僻义，常作为颜色词出现。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "purpose",
+      "word": "purpose",
+      "phonetic": "/'pə:pəs/",
+      "meaning": "n.目的,意图;用途,效果",
+      "similar": [
+        "prose",
+        "purse",
+        "purple",
+        "propose",
+        "suppose",
+        "purchase",
+        "surprise"
+      ],
+      "question": {
+        "wordId": "purpose",
+        "stem": "选择 \"purpose\" 的正确中文意思：",
+        "correct": "n.目的,意图;用途,效果",
+        "options": [
+          "n.目的,意图;用途,效果",
+          "a.紫的 n.紫色",
+          "n.钱包",
+          "n.散文 a.散文的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'propositum'（目标、计划），由 'pro'（向前）+ 'ponere'（放置）构成，核心动作是“向前放置”，即预先设定的目标或意图。",
+        "similarWarning": "形近词对比：\n- propose（v. 提议）：pro（向前）+ pose（放置），强调“提出”动作；purpose（n. 目的）侧重静态目标。\n- suppose（v. 假设）：sup（在下面）+ pose（放置），即“放在下面作为前提”；purpose 无此含义。\n- purse（n. 钱包）：拼写差异在于 'r' 与 'o'，purse 无“目的”义。",
+        "extendedMeaning": "考研僻义：\n- 作为动词时，意为“决心做某事”（常见于正式文体），如：He purposed to visit his hometown.（他决心回乡。）\n- 在真题中可引申为“用途、效果”，如：This tool serves no purpose.（这个工具毫无用途。）",
+        "examUsage": "真题考点：\n- 固定搭配：on purpose（故意地），与 by accident（偶然地）形成反义干扰。\n- 高频用法：for the purpose of（为了……目的），常出现在阅读题中定位原因或目标。\n- 例句：The study was conducted for the purpose of assessing the impact of exercise on mental health.（该研究旨在评估运动对心理健康的影响。）"
+      }
+    }
+  ]
+}

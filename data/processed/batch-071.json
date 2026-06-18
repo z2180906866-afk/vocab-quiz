@@ -1,0 +1,1746 @@
+{
+  "batchId": 71,
+  "words": [
+    {
+      "id": "shame",
+      "word": "shame",
+      "phonetic": "/ʃeim/",
+      "meaning": "n.羞耻,耻辱;可耻的人(或事物) v.使羞愧",
+      "similar": [
+        "sham",
+        "shade",
+        "shake",
+        "shape",
+        "share",
+        "shave",
+        "ashamed",
+        "scheme"
+      ],
+      "question": {
+        "wordId": "shame",
+        "stem": "选择 \"shame\" 的正确中文意思：",
+        "correct": "n.羞耻,耻辱;可耻的人(或事物) v.使羞愧",
+        "options": [
+          "n.羞耻,耻辱;可耻的人(或事物) v.使羞愧",
+          "n./a.假冒(的)，虚伪(的)",
+          "n.荫,阴影;遮光物,罩 v.遮蔽,遮光",
+          "n./v.摇动,摇;颤抖,震动"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *skamo，核心动作是“遮盖、隐藏”。原始含义为“因做错事而想把自己藏起来”，后演变为“羞耻、耻辱”。",
+        "similarWarning": "shame vs sham: shame 有 e，意为“羞耻”；sham 无 e，意为“假货、赝品”。shame vs same: shame 有 h，意为“羞耻”；same 无 h，意为“相同的”。",
+        "extendedMeaning": "可作动词，意为“使蒙羞，使丢脸”，常与 into/out of 搭配表示“用羞耻感迫使某人做/不做某事”。",
+        "examUsage": "考点：put sb to shame（使某人相形见绌/使丢脸）常用于阅读中表示对比。真题例句：The new findings put previous theories to shame.（新发现使先前的理论相形见绌。）"
+      }
+    },
+    {
+      "id": "shampoo",
+      "word": "shampoo",
+      "phonetic": "/ʃæm'pu:/",
+      "meaning": "n.洗发膏,香波;洗发,洗头 v.洗发,洗头",
+      "similar": [
+        "champion"
+      ],
+      "question": {
+        "wordId": "shampoo",
+        "stem": "选择 \"shampoo\" 的正确中文意思：",
+        "correct": "n.洗发膏,香波;洗发,洗头 v.洗发,洗头",
+        "options": [
+          "n.洗发膏,香波;洗发,洗头 v.洗发,洗头",
+          "n.冠军,得胜者;拥护者,斗士",
+          "v.建议,提出；使联想,使想起…；暗示",
+          "a.固体的;结实的,稳固的,可靠的 n.固体"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自印地语champo，意为“按揉、按摩”，指印度人用草药油按摩头发的传统。后传入英语，演变为“用香波洗头”的动作。词根核心动作是“按压揉搓”，与清洁头发时的物理动作直接对应。",
+        "similarWarning": "champion（冠军）：拼写相似，但shampoo以sh开头，champion以ch开头；shampoo结尾为oo，champion结尾为ion。词义上champion指获胜者，shampoo指洗发产品，无关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shape",
+      "word": "shape",
+      "phonetic": "/ʃeip/",
+      "meaning": "n.形状,外形;情况,状态;种类v.成型,塑造",
+      "similar": [
+        "shade",
+        "shake",
+        "shame",
+        "share",
+        "shave",
+        "escape",
+        "scrape",
+        "staple"
+      ],
+      "question": {
+        "wordId": "shape",
+        "stem": "选择 \"shape\" 的正确中文意思：",
+        "correct": "n.形状,外形;情况,状态;种类v.成型,塑造",
+        "options": [
+          "n.羞耻,耻辱;可耻的人(或事物) v.使羞愧",
+          "n.形状,外形;情况,状态;种类v.成型,塑造",
+          "n.荫,阴影;遮光物,罩 v.遮蔽,遮光",
+          "n./v.摇动,摇;颤抖,震动"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语scapian‘创造，形成’，与拉丁语capere‘拿，抓住’同源（p→b？），核心物理动作是‘用手或工具使材料呈现特定外形’。词根逻辑：shape=‘塑造’→名词‘形状’→引申为‘状态、情况’（如in good shape）。",
+        "similarWarning": "形近词辨析：shape vs. shake（摇晃，s+ha+ke）；shape vs. shave（刮剃，ha+ve）；shape vs. escape（逃脱，es+cape）；shape vs. scrape（刮擦，s+crape）。核心差异：shape含‘塑造’动作，其余词侧重不同物理过程。",
+        "extendedMeaning": "熟词僻义：1. 动词‘影响，决定’（shape public opinion塑造舆论）；2. 名词‘模型，模板’（shape of a dress）。外刊高频：shape the future决定未来。",
+        "examUsage": "真题考点：1. 短语in shape（状态良好）与out of shape（状态不佳）常考；2. 动词shape+宾语+into（把…塑造成），如shape clay into a pot。例句：The experience shaped his character.（这次经历塑造了他的性格。）"
+      }
+    },
+    {
+      "id": "share",
+      "word": "share",
+      "phonetic": "/ʃεə/",
+      "meaning": "v.(with)分配,共用;分担n.一份,份额;股份",
+      "similar": [
+        "scare",
+        "shade",
+        "shake",
+        "shame",
+        "shape",
+        "shark",
+        "sharp",
+        "shave"
+      ],
+      "question": {
+        "wordId": "share",
+        "stem": "选择 \"share\" 的正确中文意思：",
+        "correct": "v.(with)分配,共用;分担n.一份,份额;股份",
+        "options": [
+          "v.(with)分配,共用;分担n.一份,份额;股份",
+          "n.荫,阴影;遮光物,罩 v.遮蔽,遮光",
+          "n./v.摇动,摇;颤抖,震动",
+          "n.惊恐,恐慌v.惊吓,受惊"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语 scearu ‘切割、划分’，核心动作是‘切分’。本义为将整体切割成若干部分，引申为‘分配、共享’或‘一份、份额’，商业场景下特指‘股份’。",
+        "similarWarning": "scare（v.惊吓，n.恐慌）：share 有 h 表‘分享’，scare 无 h 表‘害怕’。shade（n.阴凉，v.遮蔽）：share 表‘分’，shade 表‘影’。shake（v.摇晃）：share 为‘分’，shake 为‘抖’。",
+        "extendedMeaning": "在考研阅读中，share 常引申为‘参与、分担（责任或成本）’或‘共有（观点、感受）’，如 share the burden（分担重担）或 share a view（持有相同看法）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shark",
+      "word": "shark",
+      "phonetic": "/ʃɑ:k/",
+      "meaning": "n.鲨鱼",
+      "similar": [
+        "share",
+        "sharp",
+        "spark",
+        "bark",
+        "harm",
+        "hawk",
+        "mark",
+        "sack"
+      ],
+      "question": {
+        "wordId": "shark",
+        "stem": "选择 \"shark\" 的正确中文意思：",
+        "correct": "n.鲨鱼",
+        "options": [
+          "n.鲨鱼",
+          "n.火花,火星 v.发火花,发电花",
+          "v.(with)分配,共用;分担n.一份,份额;股份",
+          "a.锋利的;轮廓分明的;急转的ad.(指时刻)正"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自德语Schurke（恶棍、无赖），核心动作是“凶猛捕食”，引申为贪婪、狡猾的人或行为。",
+        "similarWarning": "share（分享） vs shark（鲨鱼）：share有‘e’结尾，shark无‘e’且含‘rk’表凶猛；sharp（锋利的） vs shark：sharp有‘p’表锐利，shark有‘k’表捕食者；spark（火花） vs shark：spark以‘sp’开头表迸发，shark以‘sh’开头表鲨鱼。",
+        "extendedMeaning": "n. 放高利贷者；诈骗者；老手（尤指在某领域精明、不择手段的人）。如‘loan shark’（放高利贷者）、‘card shark’（打牌老手/骗子）。",
+        "examUsage": "考研阅读中常出现‘shark’的比喻义，如‘shark’指代商业或金融领域的掠夺者，需结合上下文理解贬义色彩。"
+      }
+    },
+    {
+      "id": "sharp",
+      "word": "sharp",
+      "phonetic": "/ʃɑ:p/",
+      "meaning": "a.锋利的;轮廓分明的;急转的ad.(指时刻)正",
+      "similar": [
+        "share",
+        "shark",
+        "chap",
+        "harm",
+        "scar",
+        "sham",
+        "slap",
+        "snap"
+      ],
+      "question": {
+        "wordId": "sharp",
+        "stem": "选择 \"sharp\" 的正确中文意思：",
+        "correct": "a.锋利的;轮廓分明的;急转的ad.(指时刻)正",
+        "options": [
+          "v.(with)分配,共用;分担n.一份,份额;股份",
+          "a.锋利的;轮廓分明的;急转的ad.(指时刻)正",
+          "n./v.(皮肤)变粗糙；发痛；n.小伙子",
+          "n.鲨鱼"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语 scearp，核心物理动作为‘切割/刺穿’，引申为边缘极薄（锋利）、视觉边界清晰（轮廓分明）、方向突变（急转）及时间精准（正点）。",
+        "similarWarning": "share（共享） vs sharp：share 含‘-are’表分配，sharp 含‘-arp’表切割。shark（鲨鱼） vs sharp：shark 多‘-k’表鱼名，sharp 无。chap（皲裂/小伙子） vs sharp：chap 首‘ch-’表裂口，sharp 首‘sh-’表锋利。hard（坚硬） vs sharp：hard 含‘-ard’表坚固，sharp 含‘-arp’表锐利。harm（伤害） vs sharp：harm 含‘-arm’表损害，sharp 含‘-arp’表工具属性。scar（伤疤） vs sharp：scar 含‘-car’表痕迹，sharp 含‘-arp’表造成痕迹的力。sham（假冒） vs sharp：sham 含‘-am’表虚假，sharp 含‘-arp’表真实锐度。ship（船） vs sharp：ship 含‘-ip’表交通工具，sharp 含‘-arp’表物理特性。",
+        "extendedMeaning": "考研僻义：‘敏锐的’（sharp mind）、‘强烈的’（sharp pain）、‘尖刻的’（sharp criticism）。",
+        "examUsage": "真题考点：时间表达‘at 8 o'clock sharp’（正点）；搭配‘sharp turn’（急转弯）；‘sharp increase’（急剧增长）常用于图表作文描述趋势。"
+      }
+    },
+    {
+      "id": "shatter",
+      "word": "shatter",
+      "phonetic": "/'ʃætə/",
+      "meaning": "n.碎片；粉碎 v.粉碎；使疲惫；使震骇",
+      "similar": [
+        "scatter",
+        "shutter",
+        "latter",
+        "chapter",
+        "charter",
+        "flatter",
+        "shelter",
+        "whatever"
+      ],
+      "question": {
+        "wordId": "shatter",
+        "stem": "选择 \"shatter\" 的正确中文意思：",
+        "correct": "n.碎片；粉碎 v.粉碎；使疲惫；使震骇",
+        "options": [
+          "a.后者的；后一半的，接近终了的 n.后者",
+          "n.碎片；粉碎 v.粉碎；使疲惫；使震骇",
+          "v.散开,驱散;散布,散播",
+          "n.百叶窗；(照相机)快门；关闭装置"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根拟声起源，模拟物体碎裂时发出的‘沙-特’声响。核心物理动作为‘猛然碎裂成小块’，强调瞬间、剧烈、不可逆的破碎状态。",
+        "similarWarning": "shatter vs scatter: shatter强调‘粉碎成碎片’（如玻璃杯掉地），scatter强调‘向四处散开’（如人群疏散）。shatter vs shutter: shutter是‘百叶窗/快门’，shutter与‘关闭’相关，shatter与‘破碎’相关。",
+        "extendedMeaning": "使疲惫（如‘shattered after the exam’考后精疲力竭）；使震骇（如‘shattered by the news’被消息震惊）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shave",
+      "word": "shave",
+      "phonetic": "/ʃeɪv/",
+      "meaning": "v.剃,刮,刨,削 n.刮脸",
+      "similar": [
+        "save",
+        "shade",
+        "shake",
+        "shame",
+        "shape",
+        "share",
+        "shove",
+        "slave"
+      ],
+      "question": {
+        "wordId": "shave",
+        "stem": "选择 \"shave\" 的正确中文意思：",
+        "correct": "v.剃,刮,刨,削 n.刮脸",
+        "options": [
+          "v.剃,刮,刨,削 n.刮脸",
+          "v.救,拯救;储蓄,贮存;节省",
+          "n.荫,阴影;遮光物,罩 v.遮蔽,遮光",
+          "n./v.摇动,摇;颤抖,震动"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "古英语sceafan“刮削”，核心动作是工具紧贴表面刮去薄层。词源同scrape（刮擦）、shaft（箭杆，因需刮削成型）。引申为剃须、刨木、削价等“去除表层”的动作。",
+        "similarWarning": "shave vs. shove：shave（a-e）刮削，shove（o-e）推挤，差异在元音a（刮）与o（推）。shave vs. shake：shave（v）刮，shake（k）摇动，尾字母ve/ke区别。",
+        "extendedMeaning": "（金融语境）小幅削减：The company shaved costs by 5%. 或（体育）险胜：He shaved seconds off the record. 注意非字面“削去少量”。",
+        "examUsage": "考点：shave off（剃掉/削减），真题例句：The new policy will shave off unnecessary expenses.（政策将削减不必要开支。）注意与have a shave（刮脸）区分，后者为名词惯用。"
+      }
+    },
+    {
+      "id": "shear",
+      "word": "shear",
+      "phonetic": "/ʃiə/",
+      "meaning": "v.剪,修剪",
+      "similar": [
+        "sheer",
+        "spear",
+        "swear",
+        "ear",
+        "bear",
+        "fear",
+        "gear",
+        "heal"
+      ],
+      "question": {
+        "wordId": "shear",
+        "stem": "选择 \"shear\" 的正确中文意思：",
+        "correct": "v.剪,修剪",
+        "options": [
+          "a.纯粹的,十足的,全然的;陡峭的,险峻的",
+          "n.矛,枪",
+          "v.(at)诅咒,骂人;宣誓,发誓",
+          "v.剪,修剪"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根来源于古英语‘sceran’（切割），核心物理动作为‘用锋利工具切断’，引申为‘剪羊毛’或‘修剪毛发’；与‘share’同源，后分化表切割动作。",
+        "similarWarning": "sheer: 仅差字母‘r’位置不同，意为‘完全的、陡峭的’；spear: 首字母‘p’替换‘h’，意为‘矛、刺’；swear: 首字母‘w’替换‘h’，意为‘发誓、咒骂’。",
+        "extendedMeaning": "在考研外刊中可表‘削减、剥夺’（如shear away unnecessary costs），或物理‘剪切力’（shear stress）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shed",
+      "word": "shed",
+      "phonetic": "/ʃed/",
+      "meaning": "v.流出;发散,散发,脱落,脱去 n.棚,小屋",
+      "similar": [
+        "seed",
+        "shield",
+        "shrewd",
+        "ahead",
+        "shade",
+        "shady",
+        "shear",
+        "sheep"
+      ],
+      "question": {
+        "wordId": "shed",
+        "stem": "选择 \"shed\" 的正确中文意思：",
+        "correct": "v.流出;发散,散发,脱落,脱去 n.棚,小屋",
+        "options": [
+          "a.机灵的,敏锐的;精明的",
+          "v.流出;发散,散发,脱落,脱去 n.棚,小屋",
+          "n.种子 v.播种;结实,结籽",
+          "n.防护物,护罩;盾,盾状物 v.保护,防护"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根不明，源自原始日耳曼语，核心物理动作为“分离、使脱离”。由“分离”引申出：1) 使液体脱离身体 → 流出（泪/血）；2) 使覆盖物脱离表面 → 脱落（皮/叶/毛）；3) 使光线/气味脱离物体 → 散发（光/香）；4) 使建筑脱离居住功能 → 棚屋（简陋的分离式结构）。",
+        "similarWarning": "shield /ʃiːld/ n.盾牌，v.保护（-i-为保护屏障）；shade /ʃeɪd/ n.阴凉处，v.遮蔽（-a-为阴影区域）；shear /ʃɪə/ v.剪羊毛，n.剪刀（-ear为剪的动作）。对比：shed强调“分离/脱落”，shield强调“遮挡”，shade强调“阴凉”，shear强调“剪切”。",
+        "extendedMeaning": "v. 摆脱，去除（尤指不想要的东西）：shed weight（减肥）、shed jobs（裁员）；n. 简易工作间/库房（非仅指小屋）：bike shed（自行车棚）、garden shed（花园工具房）。",
+        "examUsage": "经典搭配：shed light on sth.（阐明/解释某事）——考研阅读高频题眼，常作为抽象义考查，如“The new evidence sheds light on the mystery.”。"
+      }
+    },
+    {
+      "id": "sheep",
+      "word": "sheep",
+      "phonetic": "/ʃi:p/",
+      "meaning": "n.(绵)羊；易受人摆布的人",
+      "similar": [
+        "sheer",
+        "sheet",
+        "steep",
+        "sweep",
+        "asleep",
+        "heap",
+        "heel",
+        "peep"
+      ],
+      "question": {
+        "wordId": "sheep",
+        "stem": "选择 \"sheep\" 的正确中文意思：",
+        "correct": "n.(绵)羊；易受人摆布的人",
+        "options": [
+          "a.陡峭，险峻的；急剧升降的vt.浸泡,沉浸",
+          "n.被单;(一)张,(一)片,薄片;大片",
+          "a.纯粹的,十足的,全然的;陡峭的,险峻的",
+          "n.(绵)羊；易受人摆布的人"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语sceap，拟声词，模仿羊的叫声。核心动作：发出‘咩’声的动物，引申为温顺、易被操控的群体。",
+        "similarWarning": "sheer（完全的，陡峭的） vs sheep：sheer含字母‘r’，表‘纯粹的’；sheet（床单，纸张） vs sheep：sheet含字母‘t’，表‘薄片’；sleep（睡觉） vs sheep：sleep含字母‘l’，表‘睡眠状态’。",
+        "extendedMeaning": "易受人摆布的人（无主见、盲目跟从的群体）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sheer",
+      "word": "sheer",
+      "phonetic": "/ʃɪə(r)/",
+      "meaning": "a.纯粹的,十足的,全然的;陡峭的,险峻的",
+      "similar": [
+        "cheer",
+        "shear",
+        "sheep",
+        "sheet",
+        "steer",
+        "shelter",
+        "shiver",
+        "shower"
+      ],
+      "question": {
+        "wordId": "sheer",
+        "stem": "选择 \"sheer\" 的正确中文意思：",
+        "correct": "a.纯粹的,十足的,全然的;陡峭的,险峻的",
+        "options": [
+          "v.剪,修剪",
+          "v.(使)振奋,(使)高兴 v./n.喝彩,欢呼",
+          "n.(绵)羊；易受人摆布的人",
+          "a.纯粹的,十足的,全然的;陡峭的,险峻的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自中古英语 'schere'，与古英语 'scīr'（明亮的、纯净的）有关。核心物理动作是“切割/分离后露出的本质”，引申为“纯粹的、彻底的”；又因悬崖被切割后形成的垂直面，引申为“陡峭的”。",
+        "similarWarning": "sheer vs shear: sheer (a.纯粹的/陡峭的) vs shear (v.剪羊毛/修剪)；sheer vs cheer: sheer (a.纯粹的) vs cheer (v./n.欢呼/鼓舞)；sheer vs steer: sheer (a.纯粹的) vs steer (v.驾驶/引导)。",
+        "extendedMeaning": "（在考研真题中）用作副词，意为“垂直地、陡峭地”，如：The cliff rises sheer from the sea.（悬崖从海面陡直升起。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sheet",
+      "word": "sheet",
+      "phonetic": "/ʃi:t/",
+      "meaning": "n.被单;(一)张,(一)片,薄片;大片",
+      "similar": [
+        "sheep",
+        "sheer",
+        "heel",
+        "seed",
+        "seek",
+        "seem",
+        "shed",
+        "shot"
+      ],
+      "question": {
+        "wordId": "sheet",
+        "stem": "选择 \"sheet\" 的正确中文意思：",
+        "correct": "n.被单;(一)张,(一)片,薄片;大片",
+        "options": [
+          "n.脚后跟,踵,鞋跟",
+          "a.纯粹的,十足的,全然的;陡峭的,险峻的",
+          "n.(绵)羊；易受人摆布的人",
+          "n.被单;(一)张,(一)片,薄片;大片"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语scēte，本义为‘布片’，核心物理动作是‘展开的平面物’。词根与‘shoot（射击）’同源，强调‘延伸、展开’的状态，后引申为纸张、薄片、大片等平面物体。",
+        "similarWarning": "sheep（绵羊） vs sheet：eep vs eet，动物 vs 平面物；sheer（完全的；陡峭的） vs sheet：eer vs eet，形容词 vs 名词；sweet（甜的） vs sheet：wee vs hee，味觉 vs 物体；street（街道） vs sheet：tr vs h，道路 vs 平面。",
+        "extendedMeaning": "在考研中常引申为‘（冰、火、雨等的）一大片’，如a sheet of flame（一片火海）、rain in sheets（大雨倾盆），强调覆盖性或连续性。",
+        "examUsage": "例句：The rain came down in sheets.（真题阅读中描述天气或环境场景。）搭配：sheet of paper（一张纸），但考研更关注其比喻用法，如sheet of ice（一大片冰）。"
+      }
+    },
+    {
+      "id": "shelf",
+      "word": "shelf",
+      "phonetic": "/ʃelf/",
+      "meaning": "n.架子,搁板",
+      "similar": [
+        "self",
+        "shell",
+        "shield",
+        "chef",
+        "half",
+        "hell",
+        "shed",
+        "shear"
+      ],
+      "question": {
+        "wordId": "shelf",
+        "stem": "选择 \"shelf\" 的正确中文意思：",
+        "correct": "n.架子,搁板",
+        "options": [
+          "n.架子,搁板",
+          "n.防护物,护罩;盾,盾状物 v.保护,防护",
+          "n.自我，自己(pl.selves)",
+          "n.壳,贝壳;炮弹"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "本词源自古英语‘scylfe’，指‘分隔的木板’，核心物理动作为‘水平支撑物’，即放置物品的平面结构。",
+        "similarWarning": "shelf vs self: shelf有‘l’表示‘搁板’，self无‘l’指‘自己’。shelf vs shell: shelf以‘f’结尾，shell以‘ll’结尾指‘壳’。shelf vs shield: shelf简单指架子，shield多‘i’和‘d’表‘盾牌’。",
+        "extendedMeaning": "（在考研中无明显高频僻义）",
+        "examUsage": "（在考研中无明显特殊考点）"
+      }
+    },
+    {
+      "id": "shell",
+      "word": "shell",
+      "phonetic": "/ʃel/",
+      "meaning": "n.壳,贝壳;炮弹",
+      "similar": [
+        "hell",
+        "shelf",
+        "smell",
+        "spell",
+        "swell",
+        "shield",
+        "cell",
+        "fell"
+      ],
+      "question": {
+        "wordId": "shell",
+        "stem": "选择 \"shell\" 的正确中文意思：",
+        "correct": "n.壳,贝壳;炮弹",
+        "options": [
+          "n.壳,贝壳;炮弹",
+          "n.地狱,阴间;苦境,极大痛苦",
+          "n.架子,搁板",
+          "n.气味;嗅觉 v.嗅,闻到;散发(…的)气味"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "shell 源自古英语 sciell，本义为‘硬的外层覆盖物’。核心物理动作是‘包裹/覆盖’，引申为动物的壳（如贝壳）和人工制造的硬壳（如炮弹外壳）。",
+        "similarWarning": "shell vs shelf: shell 是‘壳’，shelf 是‘架子’，区别在字母 f 的有无；shell vs spell: spell 是‘拼写/咒语’，区别在字母 p 和 l 的顺序。",
+        "extendedMeaning": "考研僻义：n. 框架、外形（如 shell of a building 建筑外壳）；v. 剥壳（shell peanuts）；金融语境中 shell company 指‘空壳公司’。",
+        "examUsage": "真题考点：shell out 意为‘支付、掏钱’（如 shell out money for sth.），常出现在完形填空或阅读的经济类语境中。"
+      }
+    },
+    {
+      "id": "shelter",
+      "word": "shelter",
+      "phonetic": "/'ʃeltə/",
+      "meaning": "n.掩蔽处;掩蔽,保护 v.掩蔽,躲避,庇护",
+      "similar": [
+        "sheer",
+        "shatter",
+        "shutter",
+        "sweater",
+        "theater",
+        "semester",
+        "shepherd"
+      ],
+      "question": {
+        "wordId": "shelter",
+        "stem": "选择 \"shelter\" 的正确中文意思：",
+        "correct": "n.掩蔽处;掩蔽,保护 v.掩蔽,躲避,庇护",
+        "options": [
+          "n.掩蔽处;掩蔽,保护 v.掩蔽,躲避,庇护",
+          "a.纯粹的,十足的,全然的;陡峭的,险峻的",
+          "n.碎片；粉碎 v.粉碎；使疲惫；使震骇",
+          "n.百叶窗；(照相机)快门；关闭装置"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不明，可能源自古英语 sciell（壳）或中古英语 sheltron（盾牌阵）。核心动作是“提供覆盖/屏障”，从物理的遮蔽引申为保护、避难。",
+        "similarWarning": "shelter vs shear（剪断）: shelter含t，像屋顶（t）；shear含a，像剪刀开合。shelter vs shutter（百叶窗）: shelter含e，遮蔽；shutter含u，关闭。shelter vs shepherd（牧羊人）: shelter无p，庇护所；shepherd有p，放牧者。",
+        "extendedMeaning": "考研僻义：经济或法律上的“庇护所/避税手段”，如 tax shelter（避税策略）。",
+        "examUsage": "真题考点：shelter from（躲避…），常见于阅读中“take shelter from the storm”引申为规避风险。干扰项常与shelter（遮蔽）混淆，注意与shutter（关闭）区分。"
+      }
+    },
+    {
+      "id": "shepherd",
+      "word": "shepherd",
+      "phonetic": "/'ʃepəd/",
+      "meaning": "n.牧民,牧羊人",
+      "similar": [
+        "sphere",
+        "shelter",
+        "whether"
+      ],
+      "question": {
+        "wordId": "shepherd",
+        "stem": "选择 \"shepherd\" 的正确中文意思：",
+        "correct": "n.牧民,牧羊人",
+        "options": [
+          "n.牧民,牧羊人",
+          "n.球,球体;范围,领域",
+          "n.掩蔽处;掩蔽,保护 v.掩蔽,躲避,庇护",
+          "conj.是否，会不会，不管，无论"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "shepherd由sheep（羊）+herd（牧人）组合而成，字面即‘牧羊人’。herd作为词根有‘聚集、放牧’之意，核心物理动作是‘管理、引导羊群’。",
+        "similarWarning": "sphere（球体，领域）与shepherd相差字母‘p’变为‘ph’；shelter（庇护所）与shepherd相差字母‘p’后接‘t’；whether（是否）与shepherd拼写部分重叠但词义无关。注意区分：shepherd强调‘牧羊人’，sphere指‘范围’，shelter指‘遮蔽处’。",
+        "extendedMeaning": "考研中shepherd可引申为‘引导、带领（某人）’，如shepherd sb. through sth.（引导某人度过困境），或‘看管、照看（群体）’。",
+        "examUsage": "真题中常以动词形式出现，搭配‘shepherd...into/through’表示‘引导…进入/通过’，如‘shepherd the bill through Congress’（推动法案通过国会）。"
+      }
+    },
+    {
+      "id": "shield",
+      "word": "shield",
+      "phonetic": "/ʃi:ld/",
+      "meaning": "n.防护物,护罩;盾,盾状物 v.保护,防护",
+      "similar": [
+        "shed",
+        "shelf",
+        "shell",
+        "yield",
+        "shrewd"
+      ],
+      "question": {
+        "wordId": "shield",
+        "stem": "选择 \"shield\" 的正确中文意思：",
+        "correct": "n.防护物,护罩;盾,盾状物 v.保护,防护",
+        "options": [
+          "n.壳,贝壳;炮弹",
+          "n.架子,搁板",
+          "v.流出;发散,散发,脱落,脱去 n.棚,小屋",
+          "n.防护物,护罩;盾,盾状物 v.保护,防护"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "shield源自古英语‘scild’，本义为‘木板’或‘盾牌’。核心物理动作是‘用平面物体阻挡攻击’，引申为‘保护、防护’。词根无复杂演变，直接对应‘盾’的功能。",
+        "similarWarning": "shed（v.脱落；n.棚屋）与shield差字母‘i’和‘l’，shed无‘保护’义；shell（n.壳；v.剥壳）与shield差‘l’，shell侧重外壳而非主动防护；shrewd（adj.精明的）与shield字母不同，含义无关。",
+        "extendedMeaning": "在考研外刊中，shield常引申为‘保护性屏障’或‘隐蔽物’，如‘shield of privacy’（隐私屏障），或‘shield against criticism’（抵御批评）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shift",
+      "word": "shift",
+      "phonetic": "/ʃift/",
+      "meaning": "v.替换,转移n.转换,转变;(轮)班,(换)班",
+      "similar": [
+        "shaft",
+        "swift",
+        "thrift",
+        "hit",
+        "gift",
+        "hint",
+        "lift",
+        "shot"
+      ],
+      "question": {
+        "wordId": "shift",
+        "stem": "选择 \"shift\" 的正确中文意思：",
+        "correct": "v.替换,转移n.转换,转变;(轮)班,(换)班",
+        "options": [
+          "n.轴;杆状物",
+          "v.替换,转移n.转换,转变;(轮)班,(换)班",
+          "a.节约，节俭",
+          "a./ad.快的(地);敏捷的(地)a.立刻的n.雨燕"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源本义为‘划分、分开’，来自古英语sciftan‘安排、划分’，与德语schichten同源。核心物理动作是‘将某物从一个位置/状态移动到另一个位置’，强调位置或状态的改变。",
+        "similarWarning": "shaft（轴/杆，字母a替换i，含义不同）；shirt（衬衫，字母r替换f，拼写差异大）；swift（迅速的，字母w替换h，音近但义异）；thrift（节俭，多t和r，与‘转移’无关）。",
+        "extendedMeaning": "在考研阅读中常出现‘改变、转换’的抽象含义，如‘a shift in policy’（政策转变）或‘a shift in public opinion’（公众舆论转变），强调非物理的转移。",
+        "examUsage": "常见考点：1.‘shift’作名词表‘轮班’，如‘work the night shift’（上夜班），注意与‘change’的区别（shift强调位置/状态转移，change强调本质变化）。2.短语‘shift one's ground’（改变立场）在议论文中作为题眼出现。"
+      }
+    },
+    {
+      "id": "shilling",
+      "word": "shilling",
+      "phonetic": "/'ʃiliŋ/",
+      "meaning": "n.先令",
+      "similar": [
+        "willing",
+        "spelling",
+        "ceiling",
+        "building",
+        "dwelling"
+      ],
+      "question": {
+        "wordId": "shilling",
+        "stem": "选择 \"shilling\" 的正确中文意思：",
+        "correct": "n.先令",
+        "options": [
+          "n.天花板；(规定价格、工资等的)最高限额",
+          "n.先令",
+          "a.愿意的，乐意的，心甘情愿的",
+          "n.拼法,拼写法"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "古英语 scilling 演变，原指一种金币，后特指英国旧币制单位，1先令=12便士。词源与“分割”相关，因早期货币常被切割找零。",
+        "similarWarning": "willing (adj. 乐意的，自愿的) vs shilling：w-开头表意愿；sh-表货币。spelling (n. 拼写) vs shilling：sp-表拼写动作；sh-表币种。ceiling (n. 天花板) vs shilling：cei-表顶部；shi-表货币。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shine",
+      "word": "shine",
+      "phonetic": "/ʃaɪn/",
+      "meaning": "v.照耀,发光;擦亮 n.光泽,光",
+      "similar": [
+        "spine",
+        "shiver",
+        "shrink",
+        "sin",
+        "chin",
+        "dine",
+        "hike",
+        "hint"
+      ],
+      "question": {
+        "wordId": "shine",
+        "stem": "选择 \"shine\" 的正确中文意思：",
+        "correct": "v.照耀,发光;擦亮 n.光泽,光",
+        "options": [
+          "v.照耀,发光;擦亮 n.光泽,光",
+          "n.脊柱，脊椎；(动植物的)刺；书脊",
+          "v./n.战栗,发抖",
+          "v.起皱,收缩;退缩,畏缩"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源自古英语scinan，核心动作是“发光、发出光线”，引申为“照耀、擦亮”使表面有光泽。",
+        "similarWarning": "shine vs sin: shine有h，sin无h；shine指发光，sin指罪恶。shine vs shiver: shine结尾ne，shiver结尾ver；shine发光，shiver颤抖。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shipment",
+      "word": "shipment",
+      "phonetic": "/'ʃɪpmənt/",
+      "meaning": "n.装船,装运;装载的货物,装货量",
+      "similar": [
+        "equipment",
+        "silent",
+        "segment",
+        "assignment",
+        "supplement"
+      ],
+      "question": {
+        "wordId": "shipment",
+        "stem": "选择 \"shipment\" 的正确中文意思：",
+        "correct": "n.装船,装运;装载的货物,装货量",
+        "options": [
+          "n.段,片,节,部分",
+          "a.寂静,沉默的",
+          "n.设备,器材,装置;才能",
+          "n.装船,装运;装载的货物,装货量"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "ship（船）+ment（名词后缀，表行为/结果）。核心动作：将货物装上船→泛指运输行为或运输的货物。",
+        "similarWarning": "equipment（设备）：equip（装备）+ment，与shipment仅首字母不同；segment（部分）：seg（切割）+ment，拼写差异在'se' vs 'shi'；assignment（任务）：assign（分配）+ment，前缀不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shiver",
+      "word": "shiver",
+      "phonetic": "/'ʃivə/",
+      "meaning": "v./n.战栗,发抖",
+      "similar": [
+        "hover",
+        "liver",
+        "shave",
+        "sheer",
+        "shine",
+        "shove",
+        "driver",
+        "quiver"
+      ],
+      "question": {
+        "wordId": "shiver",
+        "stem": "选择 \"shiver\" 的正确中文意思：",
+        "correct": "v./n.战栗,发抖",
+        "options": [
+          "v./n.战栗,发抖",
+          "n.肝,肝脏",
+          "vi.(鸟)盘旋，翱翔，(人)逗留在附近徘徊",
+          "v.剃,刮,刨,削 n.刮脸"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模拟牙齿打颤或身体颤抖时发出的‘shi-ver’声音，直接对应‘战栗、发抖’的动作。",
+        "similarWarning": "shiver与shave（剃须）仅差一字母（i vs a），核心区别：shiver是寒冷/恐惧引起的抖动，shave是刮除毛发。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shock",
+      "word": "shock",
+      "phonetic": "/ʃɔk/",
+      "meaning": "n.震动;电击,触电;休克v.(使)震动/震惊",
+      "similar": [
+        "sock",
+        "stock",
+        "cock",
+        "dock",
+        "hook",
+        "lock",
+        "mock",
+        "sack"
+      ],
+      "question": {
+        "wordId": "shock",
+        "stem": "选择 \"shock\" 的正确中文意思：",
+        "correct": "n.震动;电击,触电;休克v.(使)震动/震惊",
+        "options": [
+          "n.(pl.)短袜",
+          "n.备料,库存,现货;股票,公债 v.储存",
+          "n.公鸡,雄鸡;龙头,开关",
+          "n.震动;电击,触电;休克v.(使)震动/震惊"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能拟声或源自法语‘choc’（撞击）。核心物理动作是‘突然、猛烈的撞击或打击’，引申为心理上的‘震惊’或生理上的‘休克’。",
+        "similarWarning": "sock（短袜/重击），stock（股票/储备），cock（公鸡/龙头），dock（码头/船坞），hook（钩子），lock（锁），mock（嘲笑），rock（岩石/摇晃）。差异仅在首字母，shock强调‘冲击/震动’的瞬间感。",
+        "extendedMeaning": "（熟词僻义）n. 休克（医学）；v. 使…震惊（情感上，如‘shock the system’）",
+        "examUsage": "（真题考点）‘shock therapy’（休克疗法，经济语境）；‘culture shock’（文化冲击，常考搭配）。"
+      }
+    },
+    {
+      "id": "shoot",
+      "word": "shoot",
+      "phonetic": "/ʃu:t/",
+      "meaning": "v.发射;掠过,疾驰而过 n.嫩枝,苗,射击",
+      "similar": [
+        "shot",
+        "shout",
+        "smooth",
+        "boot",
+        "hook",
+        "host",
+        "root",
+        "slot"
+      ],
+      "question": {
+        "wordId": "shoot",
+        "stem": "选择 \"shoot\" 的正确中文意思：",
+        "correct": "v.发射;掠过,疾驰而过 n.嫩枝,苗,射击",
+        "options": [
+          "v.发射;掠过,疾驰而过 n.嫩枝,苗,射击",
+          "a.光滑的;顺利的;柔和的 v.(over)掩饰",
+          "n.开枪,射击;投篮;弹丸,炮弹,子弹",
+          "v.大声叫，喊，呼出 n.呼喊，叫"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为古英语'sceotan'（投射、发射），核心物理动作是“快速投射或移动”。本义为弓箭的“发射”，引申出“疾驰而过”（如车、人快速移动）和“嫩枝”（植物快速向上生长）。",
+        "similarWarning": "shot（n.射击；v.shoot的过去式）与shoot差字母'o'和'oo'，shot为名词或过去式；short（adj.短的）差字母't'和'rt'，拼写接近但词义迥异；shout（v.喊叫）差字母'o'和'ou'，发音与拼写易混。",
+        "extendedMeaning": "考研僻义：v.拍摄（电影、照片），如'shoot a film'；n.拍摄活动，如'a photo shoot'。",
+        "examUsage": "真题考点：'shoot up'（猛增、飙升），常用于经济或数据描述，如'prices shoot up'；'shoot the breeze'（闲聊）为低频考点。"
+      }
+    },
+    {
+      "id": "shopkeeper",
+      "word": "shopkeeper",
+      "phonetic": "/'ʃɔpˌki:pə/",
+      "meaning": "n.店主",
+      "similar": [],
+      "question": {
+        "wordId": "shopkeeper",
+        "stem": "选择 \"shopkeeper\" 的正确中文意思：",
+        "correct": "n.店主",
+        "options": [
+          "v./n.战斗,搏斗,格斗",
+          "n.店主",
+          "n.持久;期间;持续时间",
+          "a.优美的,文雅的,大方的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "shop（商店）+keeper（看守人、经营者）→ 商店的经营者，即店主。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shore",
+      "word": "shore",
+      "phonetic": "/ʃɔ:/",
+      "meaning": "n.海滨,湖滨",
+      "similar": [
+        "ashore",
+        "sore",
+        "score",
+        "share",
+        "shove",
+        "shower",
+        "sphere",
+        "storey"
+      ],
+      "question": {
+        "wordId": "shore",
+        "stem": "选择 \"shore\" 的正确中文意思：",
+        "correct": "n.海滨,湖滨",
+        "options": [
+          "a.疼痛的;痛心的 n.痛处,疮口",
+          "n.海滨,湖滨",
+          "n.得分,分数;二十 v.得(分),记(…的)分数",
+          "ad.上岸；在岸上，向岸上"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根shore源自中古英语schore，与古英语scorian（突出）相关，核心物理动作为“陆地与水体的交界线”，强调海岸或湖岸的线性边界。",
+        "similarWarning": "ashore（adv.上岸） = a-（向）+ shore；shoe（n.鞋） vs shore：字母e替换o；sore（adj.疼痛的） vs shore：缺少h；score（n.分数） vs shore：首字母c替换h；share（v.分享） vs shore：字母a替换o；short（adj.短的） vs shore：字母t替换e；shove（v.推） vs shore：字母v替换r；store（n.商店） vs shore：首字母t替换h。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shortage",
+      "word": "shortage",
+      "phonetic": "/'ʃɔ:tidʒ/",
+      "meaning": "n.不足,缺少",
+      "similar": [
+        "hostage",
+        "storage",
+        "shorthand",
+        "cottage",
+        "postage",
+        "shortly",
+        "voltage",
+        "heritage"
+      ],
+      "question": {
+        "wordId": "shortage",
+        "stem": "选择 \"shortage\" 的正确中文意思：",
+        "correct": "n.不足,缺少",
+        "options": [
+          "n.不足,缺少",
+          "n.人质",
+          "n.贮藏(量),保管;库房",
+          "n.速记"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "short（短的）+ -age（名词后缀，表状态/结果）。字面义为“短的状态”，即某物在数量或长度上达不到所需标准，引申为“不足、缺少”。",
+        "similarWarning": "storage（n.储存，存储）：storage 有“or”表示地点或过程，强调存放；shortage 强调“短”而不足。shorthand（n.速记）：short + hand，指用短符号快速记录，与“不足”无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shortcoming",
+      "word": "shortcoming",
+      "phonetic": "/'ʃɔ:t'cʌmiŋ/",
+      "meaning": "n.短处,缺点",
+      "similar": [
+        "forthcoming"
+      ],
+      "question": {
+        "wordId": "shortcoming",
+        "stem": "选择 \"shortcoming\" 的正确中文意思：",
+        "correct": "n.短处,缺点",
+        "options": [
+          "n.往返汽车/列车/飞机；穿梭 v.往返穿梭",
+          "n.短处,缺点",
+          "a.即将到来的;准备好的;乐意帮助的;n.来临",
+          "vt.剥夺,夺去,使丧失"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "short（短的）+ coming（到来），字面意为‘到来得短’，引申为‘不足、欠缺’，即缺点、短处。动作本源：某物在预期或标准上‘来得不够长’，从而形成缺陷。",
+        "similarWarning": "forthcoming（即将到来的）：与 shortcoming 仅前缀不同（forth- vs short-），forthcoming 强调时间上的临近或意愿上的配合，而 shortcoming 强调品质上的不足。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shorthand",
+      "word": "shorthand",
+      "phonetic": "/'ʃɔ:thænd/",
+      "meaning": "n.速记",
+      "similar": [
+        "shortage",
+        "beforehand"
+      ],
+      "question": {
+        "wordId": "shorthand",
+        "stem": "选择 \"shorthand\" 的正确中文意思：",
+        "correct": "n.速记",
+        "options": [
+          "n.准确（性）；精确；准确度",
+          "ad.预先,事先",
+          "n.不足,缺少",
+          "n.速记"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "short（短的）+ hand（手）→ 用手快速书写短符号 → 速记。核心动作：用简短符号快速记录语言。",
+        "similarWarning": "shortage（短缺）：short + age（状态），指数量不足；shorthand 指速记法。差异在词尾 -hand 与 -age。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shortly",
+      "word": "shortly",
+      "phonetic": "/'ʃɔ:tli/",
+      "meaning": "ad.立刻，不久；不耐烦地，简慢地",
+      "similar": [
+        "shortage"
+      ],
+      "question": {
+        "wordId": "shortly",
+        "stem": "选择 \"shortly\" 的正确中文意思：",
+        "correct": "ad.立刻，不久；不耐烦地，简慢地",
+        "options": [
+          "ad.立刻，不久；不耐烦地，简慢地",
+          "n.不足,缺少",
+          "v.(to,for)道歉，认错",
+          "n.作品,作文,乐曲;作曲;结构,组成,成分"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自short（短的）+ -ly（副词后缀）。核心物理动作是“时间上很短”，引申为“不久、立刻”；又因言语简短常带不耐烦情绪，故有“简慢地”之义。",
+        "similarWarning": "shortly vs. short（短的，形容词/名词）：shortly是副词，修饰动作；short主要作形容词或名词。shortage（短缺，名词）：与shortly拼写差异在-age，词义完全不同。",
+        "extendedMeaning": "在考研阅读中常考“不耐烦地、简慢地”这一僻义，如“answer shortly”（简慢地回答），体现态度而非时间。",
+        "examUsage": "真题考点：与soon, immediately等近义替换，但需注意语境区分。固定搭配：shortly after（不久之后），真题例句：“Shortly after the accident, the police arrived.”（事故发生后不久，警察就到了。）"
+      }
+    },
+    {
+      "id": "shot",
+      "word": "shot",
+      "phonetic": "/ʃɒt/",
+      "meaning": "n.开枪,射击;投篮;弹丸,炮弹,子弹",
+      "similar": [
+        "shoot",
+        "shout",
+        "slot",
+        "spot",
+        "ghost",
+        "photo",
+        "scout",
+        "shaft"
+      ],
+      "question": {
+        "wordId": "shot",
+        "stem": "选择 \"shot\" 的正确中文意思：",
+        "correct": "n.开枪,射击;投篮;弹丸,炮弹,子弹",
+        "options": [
+          "v.大声叫，喊，呼出 n.呼喊，叫",
+          "n.狭缝；空位vt.放入狭缝中；把…纳入",
+          "v.发射;掠过,疾驰而过 n.嫩枝,苗,射击",
+          "n.开枪,射击;投篮;弹丸,炮弹,子弹"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "shot 是 shoot（射击）的过去式和过去分词，动词名词化后指“射击”这一行为或产物（子弹）。核心动作：快速发射或投射。",
+        "similarWarning": "shoot (v.射击/拍摄) vs shot (n.子弹/投篮) vs short (adj.短的) vs shout (v.喊叫)。易混点：shot 是 shoot 的过去式，而 short 是形容词，shout 是动词。",
+        "extendedMeaning": "【考研僻义】① 注射（a flu shot 流感疫苗注射）② 尝试/机会（take a shot at 尝试）③ 拍摄/镜头（close-up shot 特写镜头）④ 烈酒小杯（a shot of whiskey）",
+        "examUsage": "【真题考点】核心搭配：like a shot（飞快地/立刻），例如真题中 He left like a shot. 常作为干扰项与 shoot 的进行时态混淆。"
+      }
+    },
+    {
+      "id": "shout",
+      "word": "shout",
+      "phonetic": "/ʃaut/",
+      "meaning": "v.大声叫，喊，呼出 n.呼喊，叫",
+      "similar": [
+        "shot",
+        "scout",
+        "shoot",
+        "sprout",
+        "hut",
+        "host",
+        "slot",
+        "soul"
+      ],
+      "question": {
+        "wordId": "shout",
+        "stem": "选择 \"shout\" 的正确中文意思：",
+        "correct": "v.大声叫，喊，呼出 n.呼喊，叫",
+        "options": [
+          "v.发射;掠过,疾驰而过 n.嫩枝,苗,射击",
+          "v.大声叫，喊，呼出 n.呼喊，叫",
+          "n.开枪,射击;投篮;弹丸,炮弹,子弹",
+          "n.侦察员,侦察机(舰) v.搜索,侦察"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿人高声喊叫的声音，直接对应中文“喊”的发音动作。",
+        "similarWarning": "shout vs. shoot: shout是喊叫（-out向外），shoot是射击（-oot双O像子弹）。shout vs. shut: shut是关闭（-ut像合上），shout是喊叫。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shove",
+      "word": "shove",
+      "phonetic": "/ʃʌv/",
+      "meaning": "vt.乱推；乱塞vi.用力推，挤n.猛推",
+      "similar": [
+        "shave",
+        "shore",
+        "stove",
+        "ashore",
+        "shiver",
+        "shower",
+        "dove",
+        "hose"
+      ],
+      "question": {
+        "wordId": "shove",
+        "stem": "选择 \"shove\" 的正确中文意思：",
+        "correct": "vt.乱推；乱塞vi.用力推，挤n.猛推",
+        "options": [
+          "vt.乱推；乱塞vi.用力推，挤n.猛推",
+          "v.剃,刮,刨,削 n.刮脸",
+          "n.海滨,湖滨",
+          "n.炉子,火炉"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语scufan，词根与‘推’相关。核心物理动作是‘用手或身体强行移动物体’，强调用力、粗鲁或匆忙的推挤，区别于push的普遍性。",
+        "similarWarning": "shoe（鞋）：shove vs shoe，差在v/b；shave（刮）：shove vs shave，差在o/a；shiver（颤抖）：shove vs shiver，差在v/ver；shower（淋浴）：shove vs shower，差在v/wer。shove强调推，其他词义无关。",
+        "extendedMeaning": "【熟词僻义】‘乱塞’（thrust carelessly）：如shove sth. into a drawer（把某物胡乱塞进抽屉），在真题中常引申为‘强行处理’或‘匆忙放置’。",
+        "examUsage": "【真题考点】固定搭配：shove off（离开；动身），真题中常作‘推船离岸’的引申义。例句：He shoved his way through the crowd.（他挤过人群。）"
+      }
+    },
+    {
+      "id": "shower",
+      "word": "shower",
+      "phonetic": "/'ʃauə/",
+      "meaning": "n.阵雨;沐浴;(一)阵/大批v.下阵雨,倾注",
+      "similar": [
+        "hover",
+        "lower",
+        "sheer",
+        "shore",
+        "shove",
+        "sober",
+        "tower",
+        "shiver"
+      ],
+      "question": {
+        "wordId": "shower",
+        "stem": "选择 \"shower\" 的正确中文意思：",
+        "correct": "n.阵雨;沐浴;(一)阵/大批v.下阵雨,倾注",
+        "options": [
+          "n.阵雨;沐浴;(一)阵/大批v.下阵雨,倾注",
+          "vi.(鸟)盘旋，翱翔，(人)逗留在附近徘徊",
+          "a.较低的,下级的,下游的 v.降下,放低",
+          "a.纯粹的,十足的,全然的;陡峭的,险峻的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不确定，拟声词，模拟雨声“唰”的声音。核心动作/画面：水从上方洒落。阵雨（短时大量水滴下落）→ 淋浴（水从头洒下）→ 引申为大量东西像雨一样倾注（如子弹、礼物、荣誉）。",
+        "similarWarning": "shoe（鞋，n.）只差字母r；show（展示，v.）差字母er；hover（盘旋，v.）首字母h不同；lower（降低，v.）首字母l不同；power（力量，n.）首字母p不同；sheer（完全的，adj.）差字母ow→ee；shore（海岸，n.）中间字母o→r；shove（推，v.）结尾字母er→ve。",
+        "extendedMeaning": "【（一）阵/大批】a shower of letters（大量信件）；【倾注】shower sb. with gifts（送某人大量礼物）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "shrewd",
+      "word": "shrewd",
+      "phonetic": "/ʃru:d/",
+      "meaning": "a.机灵的,敏锐的;精明的",
+      "similar": [
+        "shed",
+        "screw",
+        "shield",
+        "spread",
+        "thread"
+      ],
+      "question": {
+        "wordId": "shrewd",
+        "stem": "选择 \"shrewd\" 的正确中文意思：",
+        "correct": "a.机灵的,敏锐的;精明的",
+        "options": [
+          "n.防护物,护罩;盾,盾状物 v.保护,防护",
+          "a.机灵的,敏锐的;精明的",
+          "v.流出;发散,散发,脱落,脱去 n.棚,小屋",
+          "n.螺旋,螺丝(钉) v.拧,拧紧"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语 'screawa'（鼩鼱），因鼩鼱被认为具有敏锐的感知能力，词义引申为‘机灵的、精明的’。核心动作画面：鼩鼱在黑暗中快速嗅探、精准判断环境，体现敏锐与狡猾。",
+        "similarWarning": "shed（v.脱落；n.棚屋）vs shrewd（a.精明的）：shed无‘敏锐’义；screw（n.螺丝；v.拧）vs shrewd：拼写差异-‘crew’ vs ‘rewd’，词义无关；shield（n.盾牌；v.保护）vs shrewd：前缀‘sh-’相同但词根不同；spread（v.传播；n.范围）vs shrewd：无‘精明’义；thread（n.线；v.穿线）vs shrewd：拼写相近但词源无关。",
+        "extendedMeaning": "熟词僻义：在商业或政治语境中，指‘精于算计的、狡猾的’，略带贬义。如《经济学人》中描述‘a shrewd negotiator’（一个老谋深算的谈判者）。",
+        "examUsage": "真题考点：常与‘business’、‘investment’等搭配，如‘shrewd businessman’（精明的商人），或作为干扰项与‘smart’、‘clever’区分（shrewd更强调实际利益判断）。例句：'He is a shrewd investor who always picks undervalued stocks.'（他是一位精明的投资者，总能选中被低估的股票。）"
+      }
+    },
+    {
+      "id": "shrink",
+      "word": "shrink",
+      "phonetic": "/ʃriŋk/",
+      "meaning": "v.起皱,收缩;退缩,畏缩",
+      "similar": [
+        "sink",
+        "shine",
+        "string",
+        "sprinkle"
+      ],
+      "question": {
+        "wordId": "shrink",
+        "stem": "选择 \"shrink\" 的正确中文意思：",
+        "correct": "v.起皱,收缩;退缩,畏缩",
+        "options": [
+          "n.弦,线,细绳;(一串),(一行) v.缚,捆",
+          "v.起皱,收缩;退缩,畏缩",
+          "v.(使)下沉,下落 n.水槽,水池",
+          "v.照耀,发光;擦亮 n.光泽,光"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源来自古英语scrincan，意为“收缩、枯萎”。核心物理动作是“物体因失去水分或受外力而体积减小”，引申为“退缩、畏缩”的心理动作。",
+        "similarWarning": "sink（下沉，字母k前少r）；drink（喝，字母d替换shr）；shine（发光，字母h替换k，词尾不同）；think（思考，字母t替换shr）；spring（跳跃/春天，字母p替换k，中间有g）；string（绳子，字母t替换k，中间有g）；sprinkle（撒，中间有p和n）。核心差异：shrink强调“缩小”，与“沉、光、思、跳、绳、撒”无直接关联。",
+        "extendedMeaning": "（无）",
+        "examUsage": "（无）"
+      }
+    },
+    {
+      "id": "shrug",
+      "word": "shrug",
+      "phonetic": "/ʃrʌg/",
+      "meaning": "vt./n.耸肩(表示冷淡、怀疑、无奈、不满等)",
+      "similar": [
+        "hug",
+        "rug",
+        "drug",
+        "shout"
+      ],
+      "question": {
+        "wordId": "shrug",
+        "stem": "选择 \"shrug\" 的正确中文意思：",
+        "correct": "vt./n.耸肩(表示冷淡、怀疑、无奈、不满等)",
+        "options": [
+          "n.药物;麻醉品;毒品;滞销货 v.下麻药;吸毒",
+          "n.(小)地毯;围毯",
+          "v./n.热烈拥抱,紧抱",
+          "vt./n.耸肩(表示冷淡、怀疑、无奈、不满等)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟耸肩时肩膀与衣物摩擦或轻微抖动的声音，核心物理动作为“肩膀向上抬起并迅速落下”，引申为通过肩膀的短暂动作表达情绪状态。",
+        "similarWarning": "shrug vs hug (拥抱，h-手部动作) vs rug (地毯，r-覆盖物) vs drug (药物，d-化学物质) vs shut (关闭，t-闭合动作) vs shout (喊叫，sh-声音发射)：差异在于首字母及核心动作，shrug强调肩部短暂抬起，与手、覆盖、药物、闭合、喊叫均无关。",
+        "extendedMeaning": "在考研或外刊中引申为“对……不予重视/摆脱”，如shrug off (对……不屑一顾/摆脱)，常出现在态度类语境中，表示刻意忽略负面信息。",
+        "examUsage": "真题高频搭配：shrug off (摆脱/不予理会)，如“He shrugged off the criticism.” 常作为态度题题眼，干扰项可能用ignore (忽视) 或dismiss (驳回) 近义替换。"
+      }
+    },
+    {
+      "id": "shutter",
+      "word": "shutter",
+      "phonetic": "/'ʃʌtə/",
+      "meaning": "n.百叶窗；(照相机)快门；关闭装置",
+      "similar": [
+        "shatter",
+        "utter",
+        "butter",
+        "mutter",
+        "scatter",
+        "shelter",
+        "shuttle",
+        "southern"
+      ],
+      "question": {
+        "wordId": "shutter",
+        "stem": "选择 \"shutter\" 的正确中文意思：",
+        "correct": "n.百叶窗；(照相机)快门；关闭装置",
+        "options": [
+          "n.黄油,奶油 v.涂黄油于…上",
+          "v.说,发出(声音) a.彻底的,完全的",
+          "n.碎片；粉碎 v.粉碎；使疲惫；使震骇",
+          "n.百叶窗；(照相机)快门；关闭装置"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根词缀: shut(关闭) + -er(表物)。核心动作/画面: 用于关闭的东西。shut本义为关闭，-er加于动词后构成名词表“执行该动作的工具/物件”。shutter即“关闭装置”，特指百叶窗(可关闭窗户)和相机快门(可关闭镜头进光通道)。",
+        "similarWarning": "形近词对比: 1) shatter (破碎): 字母shutter含shut(关), shatter含shat-(拟声碎裂); 2) shuttle (穿梭/航天飞机): 字母shutter含-er(物), shuttle含-ttle(表反复动作); 3) shelter (庇护所): 字母shutter含shut(关), shelter含shel-(盾/遮蔽)。",
+        "extendedMeaning": "考研僻义: 1) (股市)停业/关闭: 如shutter a store (关门歇业); 2) (情绪)关闭/封锁: shutter one's emotions (封闭情感)。",
+        "examUsage": "真题考点: 常与window, camera搭配。注意shutter作动词表示“关上(百叶窗/快门)”或“停业”的用法。例句: The store was shuttered last week. (该店上周关门了。) 注意与shatter(破碎)在阅读中可能混淆。"
+      }
+    },
+    {
+      "id": "shuttle",
+      "word": "shuttle",
+      "phonetic": "/'ʃʌtl/",
+      "meaning": "n.往返汽车/列车/飞机；穿梭 v.往返穿梭",
+      "similar": [
+        "settle",
+        "subtle",
+        "shutter"
+      ],
+      "question": {
+        "wordId": "shuttle",
+        "stem": "选择 \"shuttle\" 的正确中文意思：",
+        "correct": "n.往返汽车/列车/飞机；穿梭 v.往返穿梭",
+        "options": [
+          "n.百叶窗；(照相机)快门；关闭装置",
+          "a.精巧的,巧妙的;细微的,微妙的",
+          "v.安定,安顿;停息;定居;解决,调停",
+          "n.往返汽车/列车/飞机；穿梭 v.往返穿梭"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语scytel‘箭’，词根scut-‘射’。核心动作是‘像箭一样来回飞射’。本义为织布机上的‘梭子’，因梭子往返穿行于经线之间，引申为现代交通中‘往返穿梭的交通工具’（如shuttle bus/plane）及动词‘往返穿梭’。",
+        "similarWarning": "shuttle vs settle: shuttle强调‘来回穿梭’，settle意为‘定居、解决’；shuttle vs subtle: shuttle是交通工具，subtle是‘微妙的、精细的’；shutter是‘百叶窗、快门’，与shuttle仅差一个字母r。",
+        "extendedMeaning": "在考研外刊中，shuttle常引申为‘穿梭外交’（diplomatic shuttle），指外交官在冲突方之间频繁往返斡旋；也可指‘航天飞机’（space shuttle），是专有名词。",
+        "examUsage": "真题考点：shuttle常与between连用，如shuttle between A and B（在A和B之间往返）。干扰项常设置成settle between（解决分歧）或subtle difference（细微差别），需注意动词搭配及语境。"
+      }
+    },
+    {
+      "id": "sideways",
+      "word": "sideways",
+      "phonetic": "/'saidweiz/",
+      "meaning": "ad./a.向旁边(的),侧身,横着(的),斜着(的)",
+      "similar": [],
+      "question": {
+        "wordId": "sideways",
+        "stem": "选择 \"sideways\" 的正确中文意思：",
+        "correct": "ad./a.向旁边(的),侧身,横着(的),斜着(的)",
+        "options": [
+          "ad./a.向旁边(的),侧身,横着(的),斜着(的)",
+          "v.熄灭,扑灭,压制,抑制,止渴",
+          "v.跪,下跪",
+          "a.亲密的,密切的 n.熟友,熟人"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "side（边）+ ways（表示方向/方式的后缀）→ 朝向一边的方向或方式。核心物理动作：物体或人偏离直线方向，向侧方移动或倾斜。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研真题中常引申为“间接地”、“迂回地”，如“sideways glance”（侧目/斜视）暗示不直接或带有怀疑的态度。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "siege",
+      "word": "siege",
+      "phonetic": "/si:dʒ/",
+      "meaning": "n.包围，围攻，围困",
+      "similar": [
+        "sigh",
+        "sign",
+        "site",
+        "hinge",
+        "niece",
+        "ridge",
+        "since",
+        "surge"
+      ],
+      "question": {
+        "wordId": "siege",
+        "stem": "选择 \"siege\" 的正确中文意思：",
+        "correct": "n.包围，围攻，围困",
+        "options": [
+          "n.位置,场所,地点",
+          "n.包围，围攻，围困",
+          "n.叹息,叹息声 v.叹息,叹气",
+          "n.标记,招牌;征兆,迹象v.签名(于),署名(于)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"sedere\"（坐），通过古法语\"sege\"（座位）演变而来。核心动作是军队\"坐镇\"在敌方城池周围，形成包围圈，即\"围攻\"的本源。\",\n  \"similarWarning\": \"siege vs. single: siege以-iege结尾，single以-ingle结尾。siege指包围，single指单一的。siege vs. sign: siege含字母e和g，sign含字母g和n。siege指围困，sign指标志。siege vs. size: siege以-ege结尾，size以-ize结尾。siege指围城，size指尺寸。\",\n  ",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sigh",
+      "word": "sigh",
+      "phonetic": "/sai/",
+      "meaning": "n.叹息,叹息声 v.叹息,叹气",
+      "similar": [
+        "sign",
+        "slight",
+        "eight",
+        "siege",
+        "thigh",
+        "tight",
+        "weigh"
+      ],
+      "question": {
+        "wordId": "sigh",
+        "stem": "选择 \"sigh\" 的正确中文意思：",
+        "correct": "n.叹息,叹息声 v.叹息,叹气",
+        "options": [
+          "n.标记,招牌;征兆,迹象v.签名(于),署名(于)",
+          "num.八 pron.八(个，只...)",
+          "n.叹息,叹息声 v.叹息,叹气",
+          "a.轻微的,微小的;纤细的,瘦弱的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟人叹气时发出的气流声（类似“嘶——唉”），直接对应“叹息”的动作与声音。",
+        "similarWarning": "sight（视力，看见）与sigh差一个t，sight含“看”义；sign（符号，签名）与sigh差n，sign含“标记”义；slight（轻微的，纤细的）与sigh差l+t，slight含“少量”义。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sightseeing",
+      "word": "sightseeing",
+      "phonetic": "/'saitsi:iŋ/",
+      "meaning": "n.观光,游览",
+      "similar": [
+        "lightning"
+      ],
+      "question": {
+        "wordId": "sightseeing",
+        "stem": "选择 \"sightseeing\" 的正确中文意思：",
+        "correct": "n.观光,游览",
+        "options": [
+          "a.天真的",
+          "n.闪电 a.闪电般的,快速的",
+          "n.观光,游览",
+          "a.睡觉，睡着(用作表语)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "sight（视力/观看）+ seeing（看），复合词，字面意为“看风景”，核心动作是“以观看为目的的旅行”，即观光游览。",
+        "similarWarning": "sightseeing vs. lightning: sightseeing 含 sight（看）和 seeing（看），强调“观看景点”；lightning 含 light（光）和 ning（名词后缀），指“闪电”，拼写差异在首字母 s/l 及中间字母 gh/ght。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sign",
+      "word": "sign",
+      "phonetic": "/saɪn/",
+      "meaning": "n.标记,招牌;征兆,迹象v.签名(于),署名(于)",
+      "similar": [
+        "sin",
+        "sigh",
+        "assign",
+        "design",
+        "resign",
+        "signal",
+        "reign",
+        "siege"
+      ],
+      "question": {
+        "wordId": "sign",
+        "stem": "选择 \"sign\" 的正确中文意思：",
+        "correct": "n.标记,招牌;征兆,迹象v.签名(于),署名(于)",
+        "options": [
+          "n.标记,招牌;征兆,迹象v.签名(于),署名(于)",
+          "n.罪,罪恶 v.犯罪",
+          "n.叹息,叹息声 v.叹息,叹气",
+          "vt.派给，分配；选定，指定(时间、地点等)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 sign- 源自拉丁语 signum，意为‘标记、符号’。核心动作是‘做标记’：n. 标记、招牌（具体标记）→ 征兆、迹象（抽象标记）；v. 签名（在文件上做标记确认）。",
+        "similarWarning": "sin（罪过）：sign 有字母 g，sin 无；sigh（叹气）：sign 有 n，sigh 无 g 有 h；assign（分配）：a-（朝向）+ sign → 指定标记；design（设计）：de-（向下）+ sign → 画出标记；resign（辞职）：re-（回）+ sign → 重新签名退出；signal（信号）：sign + -al（名词后缀）；reign（统治）：与 sign 拼写差异大，注意 r 开头，无 s；siege（围攻）：与 sign 拼写差异大，无 s 且结尾不同。",
+        "extendedMeaning": "【考研僻义】v. 表示、示意（非口头或书面，而是用动作或标志）：He signed for them to begin. 他示意他们开始。",
+        "examUsage": "【真题考点】sign up (for) 报名参加（常用于招聘/课程语境）；sign in/out 签到/签退；sign over 正式移交（财产/权利）。"
+      }
+    },
+    {
+      "id": "signal",
+      "word": "signal",
+      "phonetic": "/'sɪgnəl/",
+      "meaning": "n.信号,暗号 v.发信号,用信号通知",
+      "similar": [
+        "sign",
+        "original"
+      ],
+      "question": {
+        "wordId": "signal",
+        "stem": "选择 \"signal\" 的正确中文意思：",
+        "correct": "n.信号,暗号 v.发信号,用信号通知",
+        "options": [
+          "n.礼拜,礼拜仪式;崇拜 v.崇拜,敬仰;做礼拜",
+          "a.最初的,原文的;新颖的 n.原物,原作,原文",
+          "n.标记,招牌;征兆,迹象v.签名(于),署名(于)",
+          "n.信号,暗号 v.发信号,用信号通知"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "核心词根sign-（标记、符号）加-al（形容词/名词后缀）。signal本义是“用作标记的东西”，即传递信息的符号或信号。物理动作：通过可见或可感的标记（如旗帜、灯光、声音）传达指令或信息。",
+        "similarWarning": "sign（n. 符号，标记；v. 签署）与signal拼写差异在“al”，sign侧重静态符号或签字动作，signal强调动态传递信息的信号。final（a. 最终的）无关联，仅形似。original（a. 原始的，最初的）与signal无词源关联。",
+        "extendedMeaning": "在考研阅读中，signal常引申为“迹象、征兆”（如a signal of economic recovery），或作为动词表示“表明、预示”（如The decision signals a shift in policy）。",
+        "examUsage": "真题中常考signal作动词的搭配：signal that...（表明……），如“The drop in sales signals that the market is shrinking.” 干扰项常将signal与sign混淆，注意signal强调主动传递信息，sign多为被动存在的标志。"
+      }
+    },
+    {
+      "id": "signature",
+      "word": "signature",
+      "phonetic": "/'signətʃə/",
+      "meaning": "n.签名,署名,签字",
+      "similar": [
+        "miniature",
+        "literature"
+      ],
+      "question": {
+        "wordId": "signature",
+        "stem": "选择 \"signature\" 的正确中文意思：",
+        "correct": "n.签名,署名,签字",
+        "options": [
+          "n.签名,署名,签字",
+          "n.缩小的模型,缩图 a.微型的,缩小的",
+          "n.文学,文学作品,文献,图书资料,印刷品",
+          "v.发射;使(船)下水,发动,开展 n.发射,下水"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根sign-（标记）+ -ature（名词后缀，表行为/结果）。核心动作：在文件上做标记以确认身份或授权。",
+        "similarWarning": "miniature（微型画，迷你模型）：mini-（小）+ -ature，强调尺寸小；signature（签名）：sign-（标记），强调身份标记。literature（文学）：liter-（文字）+ -ature，强调文字作品；signature强调确认行为。",
+        "extendedMeaning": "显著特征，鲜明标志（如：The chef's signature dish 厨师的招牌菜；a signature style 标志性风格）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "significance",
+      "word": "significance",
+      "phonetic": "/sig'nifikəns/",
+      "meaning": "n.意义,含义;重要性,重要的",
+      "similar": [],
+      "question": {
+        "wordId": "significance",
+        "stem": "选择 \"significance\" 的正确中文意思：",
+        "correct": "n.意义,含义;重要性,重要的",
+        "options": [
+          "n.意义,含义;重要性,重要的",
+          "ad.从此,今后;因此",
+          "a.荒凉的;孤独的 v.使荒芜",
+          "n.机械装置,机构;机制"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根sign-（标记）+ -ific-（做，使）+ -ance（名词后缀）。核心动作是“做出标记以指示含义”，引申为“某事被标记为重要，从而具有意义或重要性”。",
+        "similarWarning": "significant (adj. 重要的，有意义的) vs. significance (n.)：前者是形容词，后者是名词，拼写仅差后缀-ent/-ance，注意词性区分。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "signify",
+      "word": "signify",
+      "phonetic": "/'signifai/",
+      "meaning": "v.表示,意味;要紧,有重要性",
+      "similar": [
+        "dignity",
+        "magnify",
+        "simplify"
+      ],
+      "question": {
+        "wordId": "signify",
+        "stem": "选择 \"signify\" 的正确中文意思：",
+        "correct": "v.表示,意味;要紧,有重要性",
+        "options": [
+          "vt.放大,扩大,夸大,夸张",
+          "n.(举止,态度等的)庄严,端庄;尊贵,高贵",
+          "v.简化,使单纯",
+          "v.表示,意味;要紧,有重要性"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根sign-（标记）+ -ify（使动后缀）= 使成为标记→表示、意味。核心动作：通过标记传达含义。",
+        "similarWarning": "dignity（n.尊严；尊贵）与signify拼写差异在dign- vs sign-，前者源自dign-（价值），后者源自sign-（标记）；magnify（v.放大）差异在magn-（大）vs sign-；simplify（v.简化）差异在simpl-（简单）vs sign-。",
+        "extendedMeaning": "在考研阅读中常考僻义“要紧，有重要性”，如“It doesn't signify.”（这不要紧。）",
+        "examUsage": "真题高频搭配：signify + that从句（表示……），常作为细节题题眼，如“His silence signified his disapproval.”"
+      }
+    },
+    {
+      "id": "silent",
+      "word": "silent",
+      "phonetic": "/'sailənt/",
+      "meaning": "a.寂静,沉默的",
+      "similar": [
+        "violent",
+        "scent",
+        "siren",
+        "select",
+        "talent",
+        "diligent",
+        "resident",
+        "shipment"
+      ],
+      "question": {
+        "wordId": "silent",
+        "stem": "选择 \"silent\" 的正确中文意思：",
+        "correct": "a.寂静,沉默的",
+        "options": [
+          "n.气味,香味,香水,线索,嗅觉 v.嗅,发觉",
+          "n.警报声,警报器",
+          "a.猛烈的,激烈的;暴力引起的,强暴的",
+          "a.寂静,沉默的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语' silere '（安静），词根为' sil- '（安静），后缀' -ent '（形容词后缀，表状态）。核心物理动作是保持无声或静止状态，直接指向'寂静的'或'沉默的'这一本义。",
+        "similarWarning": "silent vs. violent: 'silent' 以 's' 开头，强调无声；'violent' 以 'v' 开头，强调激烈。silent vs. scent: 'silent' 中 'len' 表安静；'scent' 中 'cen' 表气味。silent vs. siren: 'silent' 无声；'siren' 指警报声，音近但义反。silent vs. select: 'silent' 有 'len'；'select' 有 'lec'（选择）。silent vs. talent: 'silent' 有 'sil'；'talent' 有 'tal'（才能）。silent vs. diligent: 'silent' 无 'di'；'diligent' 有 'di'（勤奋）。silent vs. resident: 'silent' 无 're'；'resident' 有 're'（居住）。",
+        "extendedMeaning": "（在商务或法律语境中）未表达的、未记录的：如'silent partner'（隐名合伙人，不参与日常经营但出资的合伙人）。",
+        "examUsage": "真题中常考'silent'作定语修饰'reading'或'film'，如'silent reading'（默读），表示无声但非静止。干扰项常与'quiet'（环境安静）或'still'（物理静止）混淆。"
+      }
+    },
+    {
+      "id": "silicon",
+      "word": "silicon",
+      "phonetic": "/'silikən/",
+      "meaning": "n.硅",
+      "similar": [],
+      "question": {
+        "wordId": "silicon",
+        "stem": "选择 \"silicon\" 的正确中文意思：",
+        "correct": "n.硅",
+        "options": [
+          "v.(characterise)表示…的特性;描述…特性",
+          "a.喜剧的，滑稽的n.连环画杂志；喜剧演员",
+          "n.硅",
+          "n.挫折；失效；复发；倒退"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语silex（燧石，坚硬的石头），因硅在自然界中常以二氧化硅（石英、砂子）形式存在，且质地坚硬。-on为化学元素后缀，如carbon（碳）。核心物理动作：石头/砂子中的元素。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研科技类阅读中常指代半导体、芯片产业，如silicon valley（硅谷），引申为高科技产业的代名词。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "silk",
+      "word": "silk",
+      "phonetic": "/silk/",
+      "meaning": "n.丝,绸",
+      "similar": [
+        "sink",
+        "silly",
+        "skill",
+        "spill",
+        "stalk"
+      ],
+      "question": {
+        "wordId": "silk",
+        "stem": "选择 \"silk\" 的正确中文意思：",
+        "correct": "n.丝,绸",
+        "options": [
+          "a.傻的,糊涂的,愚蠢的",
+          "n.技能,技巧,手艺;熟练",
+          "v.(使)下沉,下落 n.水槽,水池",
+          "n.丝,绸"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语‘seolc’，经由拉丁语‘sericum’（丝）和希腊语‘serikos’（丝的），最终可能源自汉语‘丝’的音译。核心动作指蚕吐出的纤细、光滑的纤维，引申为丝绸织物。",
+        "similarWarning": "milk（牛奶）：silk与milk仅首字母s/m不同，silk指蚕丝，milk指乳制品。sick（生病的）：silk与sick仅l/c差异，silk为名词，sick为形容词。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "silly",
+      "word": "silly",
+      "phonetic": "/'sɪli/",
+      "meaning": "a.傻的,糊涂的,愚蠢的",
+      "similar": [
+        "sly",
+        "ally",
+        "bill",
+        "fill",
+        "kill",
+        "mill",
+        "pill",
+        "silk"
+      ],
+      "question": {
+        "wordId": "silly",
+        "stem": "选择 \"silly\" 的正确中文意思：",
+        "correct": "a.傻的,糊涂的,愚蠢的",
+        "options": [
+          "a.傻的,糊涂的,愚蠢的",
+          "a.狡猾的,偷偷摸摸的",
+          "n.同盟者，同盟国，vt.使结盟；与…有关联",
+          "n.账单;招贴,广告;(人员,职称等的)表;钞票"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语‘sælig’（幸福的，有福的），词根为‘sæl’（幸福）。词义经历了从‘幸福’到‘天真无知’再到‘愚蠢’的贬义演变，核心动作是‘从幸福状态到缺乏判断力’的语义滑坡。",
+        "similarWarning": "silly vs. simply：silly含‘ll’双写，意为‘愚蠢的’；simply含‘mp’，意为‘简单地’。silly vs. sly：silly含双‘l’，sly仅单‘l’，sly意为‘狡猾的’。silly vs. ill：silly前缀‘s’，ill无前缀，意为‘生病的’。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "simplicity",
+      "word": "simplicity",
+      "phonetic": "/sim'plisiti/",
+      "meaning": "n.简单,简易;朴素;直率,单纯",
+      "similar": [
+        "implicit",
+        "simplify",
+        "explicit",
+        "publicity",
+        "complicate"
+      ],
+      "question": {
+        "wordId": "simplicity",
+        "stem": "选择 \"simplicity\" 的正确中文意思：",
+        "correct": "n.简单,简易;朴素;直率,单纯",
+        "options": [
+          "n.简单,简易;朴素;直率,单纯",
+          "a.含蓄的;(in)固有的;无疑问的;绝对的",
+          "v.简化,使单纯",
+          "a.详述的,明确的;坦率的;显然的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语simplicitas，由simplex（单一的，简单的）派生，-ity为抽象名词后缀，表示性质或状态。核心动作为“单一、不复杂”，引申为“简单、朴素、单纯”。",
+        "similarWarning": "implicit（含蓄的，内含的）vs simplicity（简单）：im-为“向内”，指隐含其中；simplicity强调单一无杂。simplify（简化）vs simplicity：-fy动词后缀，意为“使简单”；-ity为名词后缀。explicit（明确的）vs simplicity：ex-为“向外”，指清楚表达；simplicity侧重性质。publicity（公开，宣传）vs simplicity：public为“公共”，-ity名词后缀；simplicity无公共义。complicate（使复杂）vs simplicity：com-为“共同”，plicate为“折叠”，即“叠在一起”，与简单相反。",
+        "extendedMeaning": "在考研阅读中，simplicity常引申为“质朴、简洁性”，如设计或风格的“极简”。",
+        "examUsage": "常见搭配：simplicity itself（极其简单），用于强调事物毫不复杂。真题例句：The beauty of the plan lies in its simplicity.（该计划的美妙之处在于其简洁性。）"
+      }
+    },
+    {
+      "id": "simplify",
+      "word": "simplify",
+      "phonetic": "/'simplifai/",
+      "meaning": "v.简化,使单纯",
+      "similar": [
+        "amplify",
+        "simplicity",
+        "exemplify",
+        "signify"
+      ],
+      "question": {
+        "wordId": "simplify",
+        "stem": "选择 \"simplify\" 的正确中文意思：",
+        "correct": "v.简化,使单纯",
+        "options": [
+          "n.简单,简易;朴素;直率,单纯",
+          "v.简化,使单纯",
+          "v.举例证明;示范;作...的范例[榜样]",
+          "vt.放大，增强；详述，详加解说"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语simplus（简单）+ -fy（使动后缀，表‘使成为’）。核心动作是‘使变得简单’，即去除复杂部分，降低理解或操作难度。",
+        "similarWarning": "simplify vs. amplify：sim-（简单）+ -ify vs. ampl-（大/丰富）+ -ify，前者是简化，后者是放大/增强。simplify vs. exemplify：simpl-（简单）vs. exempl-（例子），前者简化，后者例示。",
+        "extendedMeaning": "在考研中常引申为‘精简、使更易懂’，如‘simplify the process’（精简流程）或‘simplify complex ideas’（简化复杂概念），强调效率与清晰度。",
+        "examUsage": "真题考点常与‘simplify the task’（简化任务）搭配，或与‘complicate’（使复杂）形成反义干扰。例如：The new software aims to simplify data analysis.（新软件旨在简化数据分析。）"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1696 @@
+{
+  "batchId": 23,
+  "words": [
+    {
+      "id": "dessert",
+      "word": "dessert",
+      "phonetic": "/di'zə:t/",
+      "meaning": "n.正餐后的水果或甜食",
+      "similar": [
+        "desert",
+        "assert",
+        "descent",
+        "desperate"
+      ],
+      "question": {
+        "wordId": "dessert",
+        "stem": "选择 \"dessert\" 的正确中文意思：",
+        "correct": "n.正餐后的水果或甜食",
+        "options": [
+          "n.沙漠,不毛之地 v.抛弃,遗弃;擅离,开小差",
+          "vt.断言,宣称；坚持；主张（权利、权威等）",
+          "n.下降,降下;斜坡;血统,家世",
+          "n.正餐后的水果或甜食"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自法语 'desservir'（清理餐桌），由 des-（去除）+ servir（服务）组成，原指餐后撤下餐具时提供的甜点，核心动作是‘餐后服务结束时的食物’",
+        "similarWarning": "desert (n.沙漠 v.抛弃)：拼写差一个's'，dessert多一个's'常被联想为‘甜点更甜需要多一个s’。assert (v.断言)：词根不同，assert来自ad-+serere（加入），无甜点义。descent (n.下降)：来自de-+scend（爬），拼写差异在末尾-t vs -t。desperate (a.绝望的)：来自de-+sperare（希望），拼写差异在末尾-ate vs -t",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "destination",
+      "word": "destination",
+      "phonetic": "/ˌdesti'neiʃən/",
+      "meaning": "n.目的地,终点",
+      "similar": [
+        "distinction",
+        "definition",
+        "destruction",
+        "dictation",
+        "retention",
+        "meditation",
+        "combination",
+        "declaration"
+      ],
+      "question": {
+        "wordId": "destination",
+        "stem": "选择 \"destination\" 的正确中文意思：",
+        "correct": "n.目的地,终点",
+        "options": [
+          "n.定义,解释;(轮廓影像等的)清晰度;阐明;",
+          "n.目的地,终点",
+          "n.区别,差别;级别;特性;声望;显赫",
+          "n.毁坏，毁灭(的原因)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根 de-（加强/向下）+ stin（站立，来自拉丁语stare，与stand同源）+ -ation（名词后缀）。核心物理动作是‘被固定或确定下来的地方’，即预先设定好的终点或目标。",
+        "similarWarning": "distinction（区分，区别）：dis-（分开）+ stinct（刺）+ -ion，强调‘分开标记’→区别。definition（定义）：de-（向下）+ fin（界限）+ -ition，强调‘划定界限’→定义。destruction（破坏）：de-（向下/反转）+ struct（建造）+ -ion，强调‘建造物倒塌’→毁灭。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "destiny",
+      "word": "destiny",
+      "phonetic": "/'destini/",
+      "meaning": "n.命运;天数,天命",
+      "similar": [
+        "destroy",
+        "testify",
+        "testimony",
+        "distinct",
+        "identify",
+        "identity"
+      ],
+      "question": {
+        "wordId": "destiny",
+        "stem": "选择 \"destiny\" 的正确中文意思：",
+        "correct": "n.命运;天数,天命",
+        "options": [
+          "n.命运;天数,天命",
+          "n.证据,证词;表明,说明",
+          "v.破坏,摧毁,消灭",
+          "v.作证，证明；(to)表明，说明"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语destinare（决定、固定），de-（向下）+stinare（放置），核心动作是“被固定下来的状态”，即命中注定的结局。",
+        "similarWarning": "destroy：de-（向下）+stroy（建造），意为“毁坏”；destiny强调“命中注定”，destroy强调“摧毁”。",
+        "extendedMeaning": "在考研阅读中，destiny常引申为“不可抗拒的终极走向”，如“manifest destiny”（昭昭天命，美国西进运动的历史观），非普通命运。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "destroy",
+      "word": "destroy",
+      "phonetic": "/di'strɔi/",
+      "meaning": "v.破坏,摧毁,消灭",
+      "similar": [
+        "destiny"
+      ],
+      "question": {
+        "wordId": "destroy",
+        "stem": "选择 \"destroy\" 的正确中文意思：",
+        "correct": "v.破坏,摧毁,消灭",
+        "options": [
+          "n.铁锈 v.(使)生锈",
+          "v.破坏,摧毁,消灭",
+          "n.命运;天数,天命",
+          "v.贿赂,收买 a.腐败的,贪污的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "de-（向下，完全）+ stroy（建造，来自拉丁语 struere）。核心动作：将建造的东西完全向下拆毁，即破坏、摧毁。",
+        "similarWarning": "destiny（命运，终点）：destroy 的 stroy 来自“建造”，destiny 的 stin 来自“站立/确立”，拼写差异在于 y vs in，词义上 destroy 是主动拆毁，destiny 是既定结局。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "destruction",
+      "word": "destruction",
+      "phonetic": "/di'strʌkʃən/",
+      "meaning": "n.毁坏，毁灭(的原因)",
+      "similar": [
+        "destructive",
+        "instruction",
+        "obstruction",
+        "construction",
+        "description",
+        "destination",
+        "distinction",
+        "direction"
+      ],
+      "question": {
+        "wordId": "destruction",
+        "stem": "选择 \"destruction\" 的正确中文意思：",
+        "correct": "n.毁坏，毁灭(的原因)",
+        "options": [
+          "n.妨碍,障碍物",
+          "n.毁坏，毁灭(的原因)",
+          "a.破坏性",
+          "n.教授;指导;(pl.)用法说明(书),操作指南"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "de- (向下/去除) + struct (建造) + -ion (名词后缀) → 把建造的东西向下拆掉 → 毁坏，毁灭。核心物理动作：拆解、瓦解结构。",
+        "similarWarning": "destruction vs. instruction (in-向内 + struct + -ion → 向内构建知识 → 指导，教学)；destruction vs. obstruction (ob-阻挡 + struct + -ion → 在建造路径上设障 → 阻碍)；destruction vs. construction (con-共同 + struct + -ion → 共同建造 → 建设)。差异在词缀：de-表“去除”，in-表“向内”，ob-表“阻挡”，con-表“共同”。",
+        "extendedMeaning": "考研中常引申为“毁灭(的原因)”，如：the destruction of the ecosystem (生态系统的毁灭) 或 the destruction of evidence (证据的销毁)。注意：destruction 强调彻底摧毁的结果或过程，而非破坏性行为本身。",
+        "examUsage": "高频考点：与cause/lead to/result in连用，表示“导致毁灭”。真题例句：The destruction of the rainforest is a major environmental concern. (雨林的毁灭是一个重大的环境问题。) 注意区分：destruction (毁灭) vs. damage (部分损坏) vs. ruin (彻底毁坏，常用��抽象事物)。"
+      }
+    },
+    {
+      "id": "destructive",
+      "word": "destructive",
+      "phonetic": "/di'strʌktiv/",
+      "meaning": "a.破坏性",
+      "similar": [
+        "destruction",
+        "detective",
+        "structure",
+        "attractive",
+        "respective",
+        "instruction",
+        "obstruction"
+      ],
+      "question": {
+        "wordId": "destructive",
+        "stem": "选择 \"destructive\" 的正确中文意思：",
+        "correct": "a.破坏性",
+        "options": [
+          "n.侦探",
+          "n.毁坏，毁灭(的原因)",
+          "a.破坏性",
+          "n.结构,构造;建筑物 v.构造,建造"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "de-（向下/分离）+ struct（建筑/构建）+ -ive（形容词后缀，表性质）→ 将构建的东西向下拆毁→ 破坏性的。核心动作：拆解结构。",
+        "similarWarning": "destruction（n. 破坏，毁灭）与 destructive（adj. 破坏性的）为同源词；detective（n. 侦探）源于 detect（察觉），拼写差异为 -tive vs -ctive；structure（n. 结构）为 struct 同根，词义相反；attractive（adj. 有吸引力的）源于 attract（吸引），前缀 at-（向）；respective（adj. 各自的）源于 respect（尊重/方面），前缀 re-（回）；instruction（n. 指导/指令）源于 instruct（指导），前缀 in-（进入）；obstruction（n. 阻塞）源于 obstruct（阻挡），前缀 ob-（反对）。",
+        "extendedMeaning": "（考研阅读中常引申为）具有颠覆性或摧毁性影响的，如 destructive criticism（毁灭性批评）、destructive competition（破坏性竞争）。",
+        "examUsage": "真题常考搭配：destructive effect（破坏性影响），作为主旨题或态度题的关键词，常与 constructive（建设性的）形成对立干扰选项。"
+      }
+    },
+    {
+      "id": "detach",
+      "word": "detach",
+      "phonetic": "/di'tætʃ/",
+      "meaning": "vt.分开, 分离, 分遣, 派遣(军队)",
+      "similar": [
+        "beach",
+        "ditch",
+        "fetch",
+        "peach",
+        "reach",
+        "attach",
+        "detail",
+        "detain"
+      ],
+      "question": {
+        "wordId": "detach",
+        "stem": "选择 \"detach\" 的正确中文意思：",
+        "correct": "vt.分开, 分离, 分遣, 派遣(军队)",
+        "options": [
+          "n.海滩,湖滩,河滩",
+          "v.取来;接来;引出;售得;吸引 n.取得;拿",
+          "vt.分开, 分离, 分遣, 派遣(军队)",
+          "n.沟,沟渠,水沟"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根 de- (away, 离开) + tach (钉、拴、接触)，核心物理动作：把原本钉在一起或拴着的东西解开、分离。de- 表“脱离”，tach 源自法语，与 attach（附着）相对。故 detach 本义即“使脱离接触”，引申为“分开、分离”，军事上指“分遣、派遣”即把一支队伍从主力中分离出去。",
+        "similarWarning": "detach vs. attach (反义，de- 去 vs. ad- 向，tach 相同)；detach vs. detest (de- + test=见证，词根不同，意为“憎恶”，拼写仅差 c/s)；detach vs. detour (de- + tour=绕圈，意为“绕行”，拼写差异在 ch/ur)。",
+        "extendedMeaning": "考研中常考引申义：情感上“抽离、不投入”，如 detach oneself from emotions（从情绪中抽离）；技术语境下“使独立、使不连接”，如 detach a file（分离文件）。",
+        "examUsage": "真题考点：detach...from...（使...与...分离/脱离），常作为固定搭配出现在阅读中，如 detach the mind from the body（使思想脱离肉体）；亦作名词 detachment（分遣队、超然），如 an air of detachment（超然的态度）。"
+      }
+    },
+    {
+      "id": "detail",
+      "word": "detail",
+      "phonetic": "/'di:teɪl/",
+      "meaning": "n.细节,详情 v.详述",
+      "similar": [
+        "detain",
+        "retail",
+        "deal",
+        "tail",
+        "devil",
+        "metal",
+        "dental",
+        "detach"
+      ],
+      "question": {
+        "wordId": "detail",
+        "stem": "选择 \"detail\" 的正确中文意思：",
+        "correct": "n.细节,详情 v.详述",
+        "options": [
+          "n.零售",
+          "v.处理;做买卖,经营;分配;对待 n.交易",
+          "v.耽搁;扣押,拘留",
+          "n.细节,详情 v.详述"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自法语détail，由de-（向下、分开）+ tail（切割）组成，字面意为“切碎、分成小块”。核心动作是“把整体拆分成细微部分”，引申为“细节、详情”及“详述”。",
+        "similarWarning": "detain（de-加强+tain握持→扣留）: 区别在于尾音-ail（切割）vs -ain（握持）；retail（re-再+tail切割→零售）: 前缀re- vs de-；tail（尾巴/跟踪）: 无前缀，词根相同但含义不同。",
+        "extendedMeaning": "在考研外刊中，detail作动词可表“派遣、指派（执行特定任务）”，如detail troops（派遣部队），源自军事术语。",
+        "examUsage": "常考短语in detail（详细地），与go into detail(s)（详述）为真题高频搭配；注意detail作动词时后接how/that从句，如“detail how the plan will work”。"
+      }
+    },
+    {
+      "id": "detain",
+      "word": "detain",
+      "phonetic": "/di'tein/",
+      "meaning": "v.耽搁;扣押,拘留",
+      "similar": [
+        "detail",
+        "retain",
+        "certain",
+        "dean",
+        "drain",
+        "stain",
+        "attain",
+        "detach"
+      ],
+      "question": {
+        "wordId": "detain",
+        "stem": "选择 \"detain\" 的正确中文意思：",
+        "correct": "v.耽搁;扣押,拘留",
+        "options": [
+          "v.耽搁;扣押,拘留",
+          "n.细节,详情 v.详述",
+          "v.保持,保留",
+          "a.某,某一,某些;(of)一定的,确信的,可靠的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（向下、分离）+ tain（握、持）→ 把某人/物从正常流动中“握持住”并往下拉 → 引申为“耽搁、扣押”。核心动作：强制阻止移动。",
+        "similarWarning": "detain vs detail（de-+tail切割）→ 细节是“切分”出的部分；retain（re-回+tain）→ 保留；stain（s-+tain）→ 污渍是“附着”的污点；attain（at-向+tain）→ 到达是“握住”目标；detach（de-分离+tach钉）→ 拆卸是“拔掉钉子”。",
+        "extendedMeaning": "考研外刊中常作“扣留（嫌疑人）、强制滞留”的正式法律/行政用语，如“detain a suspect”（拘留嫌疑人）。",
+        "examUsage": "真题考点：与delay（普通延误）区分，detain侧重官方强制或意外阻滞。例：The flight was detained by heavy fog.（因浓雾航班被耽搁。）"
+      }
+    },
+    {
+      "id": "detect",
+      "word": "detect",
+      "phonetic": "/di'tekt/",
+      "meaning": "v.察觉,发觉,侦察,探测",
+      "similar": [
+        "defect",
+        "detector",
+        "eject",
+        "elect",
+        "erect",
+        "deceit",
+        "decent",
+        "deduct"
+      ],
+      "question": {
+        "wordId": "detect",
+        "stem": "选择 \"detect\" 的正确中文意思：",
+        "correct": "v.察觉,发觉,侦察,探测",
+        "options": [
+          "v.察觉,发觉,侦察,探测",
+          "v.喷射,排出;驱逐",
+          "n.过失;缺点;不足",
+          "n.发现者,侦察器,探测器,检波器,检电器"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（离开/向下）+ -tect-（覆盖）。核心动作：揭开覆盖物，使隐藏的东西暴露出来。→ 察觉、发现、探测。",
+        "similarWarning": "defect（de-向下+fect做→缺陷）；deceit（de-离开+ceit拿→欺骗）；deduct（de-向下+duct引导→扣除）。detect强调“发现隐藏物”，defect指“缺点”，deceit是“欺骗行为”，deduct是“减去”。",
+        "extendedMeaning": "在考研阅读中，detect常引申为“识别、察觉（细微变化或趋势）”，如detect a shift in attitude（察觉到态度转变）。",
+        "examUsage": "常用搭配：detect a problem/signal/change（发现问题/信号/变化）。真题例句：The device is used to detect radiation.（该设备用于探测辐射。）注意与discover（发现已知存在但未知之物）区分。"
+      }
+    },
+    {
+      "id": "detective",
+      "word": "detective",
+      "phonetic": "/di'tektiv/",
+      "meaning": "n.侦探",
+      "similar": [
+        "destructive",
+        "respective",
+        "deceive",
+        "detector",
+        "adjective",
+        "determine",
+        "effective",
+        "executive"
+      ],
+      "question": {
+        "wordId": "detective",
+        "stem": "选择 \"detective\" 的正确中文意思：",
+        "correct": "n.侦探",
+        "options": [
+          "a.各自的,各个的",
+          "a.破坏性",
+          "n.侦探",
+          "v.欺骗,蒙蔽"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自detect（察觉）+ -ive（表示人或物），核心动作是“察觉隐藏的事物”，即通过线索发现真相的人。",
+        "similarWarning": "destructive（破坏性的，de-向下+struct建造+ive，强调摧毁）；respective（各自的，re-回+spect看+ive，强调分别看待）；deceive（欺骗，de-离开+ceive拿，误导他人）；detector（探测器，detect+or工具），注意detective是人，detector是物。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "detector",
+      "word": "detector",
+      "phonetic": "/dɪ'tektə(r)/",
+      "meaning": "n.发现者,侦察器,探测器,检波器,检电器",
+      "similar": [
+        "detect",
+        "director",
+        "detective",
+        "directory",
+        "defect",
+        "sector"
+      ],
+      "question": {
+        "wordId": "detector",
+        "stem": "选择 \"detector\" 的正确中文意思：",
+        "correct": "n.发现者,侦察器,探测器,检波器,检电器",
+        "options": [
+          "n.指导者,主任,导演",
+          "n.侦探",
+          "n.发现者,侦察器,探测器,检波器,检电器",
+          "v.察觉,发觉,侦察,探测"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "de-(向下/分离) + tect(覆盖) + -or(名词后缀，表物/人)。核心动作：揭开覆盖物。词源本义是“揭开隐藏的东西”，引申为“发现者、探测器”。",
+        "similarWarning": "detective(侦探/adj.侦探的) vs detector(探测器/发现者)：前者强调人/侦查性质，后者强调工具/装置。director(导演/主任) vs detector：前者含“指导”义，后者含“发现”义。defect(缺陷/v.叛逃) vs detector：前者含“向下做”的负面结果，后者强调“揭开”。",
+        "extendedMeaning": "在科技/医学领域指“检测器、指示器”，如 smoke detector(烟雾报警器)；在物理/电子领域指“检波器”，如 metal detector(金属探测器)。考研中常考其动词形式 detect 的引申义“察觉、发现”，但 detector 本身作为名词，常出现在科技类阅读中。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "deteriorate",
+      "word": "deteriorate",
+      "phonetic": "/di'tiəriəreit/",
+      "meaning": "v.(使)恶化,(使)变坏",
+      "similar": [
+        "degenerate"
+      ],
+      "question": {
+        "wordId": "deteriorate",
+        "stem": "选择 \"deteriorate\" 的正确中文意思：",
+        "correct": "v.(使)恶化,(使)变坏",
+        "options": [
+          "v.(使)恶化,(使)变坏",
+          "v.衰退,堕落,蜕化 a.堕落的 n.堕落者",
+          "n.前进，预付 vi.前进，进展 vt.促进，推进",
+          "a.不断的,连续的,频繁的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 deterior（更坏的），由 de-（向下）与 ter（比较级后缀）构成，核心物理动作为‘向下变差’。原指物质质量下降，后引申为状态、关系或局势的逐步恶化。",
+        "similarWarning": "degenerate (de-向下 + generate产生)：强调‘退化’到更低级状态，侧重本质或道德层面的堕落；deteriorate 侧重‘逐渐变坏’的过程，如病情、关系、环境。拼写差异：deteriorate 含有‘-ior-’比较级痕迹，degenerate 含‘-gener-’（产生）。",
+        "extendedMeaning": "在考研阅读中常引申为‘关系或局势的恶化’，如‘deteriorating relations’（恶化的关系），或‘the situation deteriorated’（局势恶化），非仅指物理变坏。",
+        "examUsage": "考点搭配：deteriorate into（恶化成…），如‘The dispute deteriorated into a war.’（争端恶化成战争）。真题中常与‘worsen’同义替换，但需注意其渐进性，非突然变坏。"
+      }
+    },
+    {
+      "id": "determine",
+      "word": "determine",
+      "phonetic": "/dɪ'tɜ:mɪn/",
+      "meaning": "v.决心,决定;确定,限定",
+      "similar": [
+        "detective",
+        "undermine"
+      ],
+      "question": {
+        "wordId": "determine",
+        "stem": "选择 \"determine\" 的正确中文意思：",
+        "correct": "v.决心,决定;确定,限定",
+        "options": [
+          "v.决心,决定;确定,限定",
+          "v.暗中破坏,逐渐削弱;侵蚀…的基础",
+          "v.出产,生长;(to)屈服,服从 n.产量,收获",
+          "n.侦探"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（完全，加强）+ termine（边界，界限）→ 完全划清界限 → 确定，决定。核心动作：划定明确范围或终点。",
+        "similarWarning": "detective（侦探）：de-（向下）+ tect（覆盖）+ ive（人）→ 揭开覆盖物的人。undermine（暗中破坏）：under（在...下）+ mine（挖矿）→ 在下面挖，暗损。对比：determine侧重划界决定；detective强调侦查；undermine强调暗中削弱。",
+        "extendedMeaning": "在考研中，determine常引申为“查明、测定”（如科学、法律语境），而非仅指个人决心。例：determine the cause of the accident（查明事故原因）。",
+        "examUsage": "常见于真题搭配：determine to do sth.（决心做某事）或 be determined by（由...决定）。作为题眼时，常与 decide, resolve 干扰，注意 determine 强调客观结果或边界划定，而非主观意愿。"
+      }
+    },
+    {
+      "id": "develop",
+      "word": "develop",
+      "phonetic": "/di'veləp/",
+      "meaning": "v.发展,开发,研制;显现,显影;发育,生长",
+      "similar": [
+        "envelope"
+      ],
+      "question": {
+        "wordId": "develop",
+        "stem": "选择 \"develop\" 的正确中文意思：",
+        "correct": "v.发展,开发,研制;显现,显影;发育,生长",
+        "options": [
+          "n.信封,信皮;封套",
+          "vt.相信，认为 vi.相信，信任，信奉",
+          "v.发展,开发,研制;显现,显影;发育,生长",
+          "num.九十，九十个"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "de-（向下/去除）+ velop（包裹，来自拉丁语volvere‘卷’）。核心物理动作：将包裹着的东西展开（de-包裹→打开）。引申为‘发展’（展开过程）、‘开发’（揭开潜能）、‘显影’（使影像显现）。",
+        "similarWarning": "envelope（n.信封，包裹）vs develop：envelope词根为en-（进入）+velop（包裹），名词强调‘包裹物’；develop动词强调‘打开包裹’。拼写差异：envelope有前缀en-，develop前缀de-。",
+        "extendedMeaning": "考研僻义：①‘显影’（照片冲洗）——真题中常考‘develop film’（冲洗胶卷）；②‘研制’——经济类外刊中‘develop a vaccine’（研制疫苗）。",
+        "examUsage": "真题考点：常与介词into搭配（develop into...发展成...），如‘The conflict developed into a war.’；也考固定搭配‘develop a habit’（养成习惯），注意与‘form a habit’同义替换。"
+      }
+    },
+    {
+      "id": "deviate",
+      "word": "deviate",
+      "phonetic": "/'di:vieit/",
+      "meaning": "v.(from)背离,偏离",
+      "similar": [
+        "dedicate",
+        "delicate",
+        "debate",
+        "device",
+        "devise",
+        "devote",
+        "alleviate",
+        "designate"
+      ],
+      "question": {
+        "wordId": "deviate",
+        "stem": "选择 \"deviate\" 的正确中文意思：",
+        "correct": "v.(from)背离,偏离",
+        "options": [
+          "a.纤弱的;精致的;微妙的;灵敏的",
+          "v./n.争论,辩论",
+          "vt.奉献;献身于",
+          "v.(from)背离,偏离"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（离开）+ via（路）→ 离开主路 → 偏离、背离。核心动作：从既定路径/标准中脱离。",
+        "similarWarning": "dedicate（专注/奉献，de-+dic=宣称）、delicate（精致的，de-+lic=引诱）、debate（辩论，de-+bat=打）、device（装置，de-+vic=看）、devise（设计，同源）、devote（奉献，de-+vot=发誓）、alleviate（减轻，al-+lev=轻）、designate（指定，de-+sign=标记）。区分重点：deviate 的核心是“路（via）”，强调离开路径。",
+        "extendedMeaning": "考研中常引申为“（思想、行为）违背常规”或“（数据、数值）发生偏差”。如 deviate from the norm（偏离常规）。",
+        "examUsage": "真题考点：常与介词 from 搭配，构成 deviate from...（背离...）。在阅读中作为干扰项，常与 change、alter 混淆，但 deviate 更强调“脱离正确/标准轨道”。例句：The results deviate significantly from our expectations.（结果与预期严重偏离。）"
+      }
+    },
+    {
+      "id": "device",
+      "word": "device",
+      "phonetic": "/dɪ'vaɪs/",
+      "meaning": "n.装置,设备,仪表;方法,设计",
+      "similar": [
+        "devise",
+        "deviate",
+        "vice",
+        "devil",
+        "advice",
+        "decide",
+        "deduce",
+        "define"
+      ],
+      "question": {
+        "wordId": "device",
+        "stem": "选择 \"device\" 的正确中文意思：",
+        "correct": "n.装置,设备,仪表;方法,设计",
+        "options": [
+          "vt.设计;发明;图谋;作出(计划);想出(办法)",
+          "v.(from)背离,偏离",
+          "n.邪恶;恶习;(pl.)台钳,老虎钳",
+          "n.装置,设备,仪表;方法,设计"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de- (加强) + vic/vis (看) + -e (名词后缀) → 强调被设计出来供人看或使用的东西 → 装置、设备；引申为设计的方法或策略。",
+        "similarWarning": "device vs devise：device是名词（装置），devise是动词（设计）；deviate（偏离）含vi-（路），而device含vis-（看）；advice（建议）是名词，advise是动词，注意拼写差异。",
+        "extendedMeaning": "在考研阅读中，device可指‘策略、手段’，如a rhetorical device（修辞手法），或‘诡计’，如a clever device（巧妙计谋）。",
+        "examUsage": "leave to one's own devices（听任某人自行其是）：真题中常出现，如'They were left to their own devices to solve the problem.'（他们被放任自行解决问题。）"
+      }
+    },
+    {
+      "id": "devil",
+      "word": "devil",
+      "phonetic": "/'devl/",
+      "meaning": "n.魔鬼",
+      "similar": [
+        "evil",
+        "denial",
+        "detail",
+        "device",
+        "devise",
+        "deal",
+        "veil",
+        "civil"
+      ],
+      "question": {
+        "wordId": "devil",
+        "stem": "选择 \"devil\" 的正确中文意思：",
+        "correct": "n.魔鬼",
+        "options": [
+          "n.否认;拒绝;否认某事或某事实的声明",
+          "n.细节,详情 v.详述",
+          "n.魔鬼",
+          "a.邪恶的,罪恶的 n.邪恶,罪恶"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'diabolus'，意为‘诽谤者’；词根 'dia-'（穿过） + 'ballein'（投掷），原指‘分裂者’或‘挑拨离间者’，后演变为‘魔鬼’。",
+        "similarWarning": "与 'evil'（邪恶的，n.邪恶）拼写接近，但 'devil' 以 'd' 开头，强调‘魔鬼’这一实体； 'evil' 以 'e' 开头，指抽象‘恶’。",
+        "extendedMeaning": "（口语/习语）‘家伙，人’（如 'poor devil' 可怜的家伙）；‘恶棍’；‘难以对付的事物’（如 'the devil of a job' 棘手的工作）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "devise",
+      "word": "devise",
+      "phonetic": "/dɪ'vaɪz/",
+      "meaning": "vt.设计;发明;图谋;作出(计划);想出(办法)",
+      "similar": [
+        "device",
+        "revise",
+        "despise",
+        "deviate",
+        "dense",
+        "devil",
+        "advise",
+        "decide"
+      ],
+      "question": {
+        "wordId": "devise",
+        "stem": "选择 \"devise\" 的正确中文意思：",
+        "correct": "vt.设计;发明;图谋;作出(计划);想出(办法)",
+        "options": [
+          "vt.设计;发明;图谋;作出(计划);想出(办法)",
+          "n.装置,设备,仪表;方法,设计",
+          "v.修订,校订;修正,修改",
+          "v.轻视,蔑视"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根de-（向下/加强）+ vis（看）+ -e（动词后缀）→ 向下仔细看→ 构思、设计。核心动作：通过深度观察与思考，创造出新方案或工具。",
+        "similarWarning": "device（n.设备；装置）与devise拼写仅差一个字母c/s，但词性不同：device是名词，devise是动词。revise（v.修订）词根re-（再）+vis（看），强调再次审视修改；devise强调从无到有的创造。despise（v.鄙视）词根de-（向下）+spis（看），字面“向下看”引申为鄙视。",
+        "extendedMeaning": "考研中devise常引申为“策划；图谋”，用于贬义语境，如devise a scheme（策划阴谋）。",
+        "examUsage": "真题考点：devise常与plan、strategy、method等搭配，表示“制定计划/策略”。例如：They devised a plan to reduce pollution.（他们制定了一个减少污染的计划。）注意与device（设备）在阅读中的词性干扰。"
+      }
+    },
+    {
+      "id": "devote",
+      "word": "devote",
+      "phonetic": "/di'vəut/",
+      "meaning": "v.(to)奉献,致力",
+      "similar": [
+        "denote",
+        "deviate",
+        "vote",
+        "evoke",
+        "debate",
+        "delete",
+        "device",
+        "devise"
+      ],
+      "question": {
+        "wordId": "devote",
+        "stem": "选择 \"devote\" 的正确中文意思：",
+        "correct": "v.(to)奉献,致力",
+        "options": [
+          "n.投票,表决;选票,选票数 v.投票,表决",
+          "v.(to)奉献,致力",
+          "vt.表示,意味着",
+          "v.(from)背离,偏离"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "de-（向下/完全）+ vote（发誓）→ 彻底发誓承诺 → 将时间/精力完全投入到某事上。核心动作：把某物（如生命、时间）完全交给一个目标。",
+        "similarWarning": "devote vs denote（de-向下 + note标记 → 表示/意味着）→ 区别：devote强调“奉献/投入”，denote强调“指示/表示”。",
+        "extendedMeaning": "在考研阅读中，devote常引申为“专注于/致力于（某个领域）”，如devote attention to（专注于），devote efforts to（致力于）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dew",
+      "word": "dew",
+      "phonetic": "/dju:/",
+      "meaning": "n.露水",
+      "similar": [
+        "sew"
+      ],
+      "question": {
+        "wordId": "dew",
+        "stem": "选择 \"dew\" 的正确中文意思：",
+        "correct": "n.露水",
+        "options": [
+          "n.政体,制度",
+          "v.缝,缝纫",
+          "n.露水",
+          "n.桶, 提桶; 一桶的量"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根与物理动作：dew 源自原始日耳曼语 *dawwaz，与“湿润、滴落”相关，核心动作是“水汽凝结成水滴”，描述清晨植物表面因温度下降而凝结的露水现象，画面直接为“夜间湿气汇聚为小水珠”。",
+        "similarWarning": "few /fjuː/（少数） vs new /njuː/（新的） vs sew /səʊ/（缝纫）：拼写差异在于首字母 f/n/s；dew 的 d- 与“滴落”关联，few 表数量少，new 表新旧，sew 表针线动作，无混淆风险，但注意发音上 dew 与 due（应得的）同音，考研中可能因同音干扰。",
+        "extendedMeaning": "考研僻义：无特殊僻义，但可引申为“清新、纯洁的象征”，如 dew of youth（青春的朝气），或用于比喻“微小但珍贵的事物”，如 a drop of dew（一滴露水），非高频考点。",
+        "examUsage": "真题考点：无特殊考点。该词在考研中属基础名词，常见于环境或文学描述类阅读，如 morning dew（晨露），无经典干扰项或核心题眼，故省略具体搭配。"
+      }
+    },
+    {
+      "id": "diagnose",
+      "word": "diagnose",
+      "phonetic": "/'daiəgnəuz/",
+      "meaning": "vt.诊断(疾病)；判断(问题)",
+      "similar": [
+        "ignore",
+        "dispose",
+        "disclose",
+        "disguise"
+      ],
+      "question": {
+        "wordId": "diagnose",
+        "stem": "选择 \"diagnose\" 的正确中文意思：",
+        "correct": "vt.诊断(疾病)；判断(问题)",
+        "options": [
+          "v.(of)处理,处置;(for)布置,安排",
+          "v.揭示,泄露",
+          "vt.诊断(疾病)；判断(问题)",
+          "v.不理,不顾,忽视"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "dia-（通过） + gno-（知道） + -se（动词后缀） → 通过（症状）知道（病因）→ 诊断。核心动作：通过线索（症状/现象）穿透表面，认知内在本质。",
+        "similarWarning": "ignore（ig-不 + gnore=知道 → 不知道 → 忽视）：前缀不同，i-否定 vs dia-穿透；dispose（dis-分开 + pose放置 → 分开放置 → 处理）：词根不同，pose=放置 vs gnose=知道。",
+        "extendedMeaning": "诊断（问题/原因）：The engineer diagnosed the system failure within minutes. 工程师几分钟内诊断出系统故障原因。",
+        "examUsage": "真题常考搭配：diagnose...as...（诊断为...）。干扰项常与disguise（伪装）混淆，注意词根差异：diagnose侧重“识别本质”，disguise侧重“改变外观”。"
+      }
+    },
+    {
+      "id": "diagram",
+      "word": "diagram",
+      "phonetic": "/'daiəgræm/",
+      "meaning": "n.图表;图解",
+      "similar": [
+        "disgrace"
+      ],
+      "question": {
+        "wordId": "diagram",
+        "stem": "选择 \"diagram\" 的正确中文意思：",
+        "correct": "n.图表;图解",
+        "options": [
+          "n.图表;图解",
+          "n.失宠,耻辱 v.使失宠;玷辱,使蒙羞",
+          "n.鼻子;(飞机,船等的)前端,突出部分",
+          "a.文献的 n.记录片"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'diagramma'，由 'dia-'（通过、贯穿）和 'gramma'（书写、画）组成。核心物理动作是“通过线条或符号画出来”，本质是一种用线条和符号表示信息结构的视觉工具，区别于纯文字描述。",
+        "similarWarning": "与 'disgrace'（n./v.耻辱；使丢脸）形近但无关。'diagram' 以 'dia-' 开头，核心是“画”；'disgrace' 以 'dis-'（否定）加 'grace'（优雅）构成，核心是“失去体面”。拼写差异在 'a' vs 's'，词义无交集。",
+        "extendedMeaning": "在考研外刊中，可引申为“示意图；流程图”，尤指用于解释复杂过程或系统结构的简化表示，如 'flow diagram'（流程图）或 'circuit diagram'（电路图）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dial",
+      "word": "dial",
+      "phonetic": "/'daiəlˌ dail/",
+      "meaning": "n.钟(表)面,刻度盘,拨号盘 v.拨号,打电话",
+      "similar": [
+        "deal",
+        "denial",
+        "dialog",
+        "diary",
+        "drill",
+        "ideal",
+        "rival",
+        "trial"
+      ],
+      "question": {
+        "wordId": "dial",
+        "stem": "选择 \"dial\" 的正确中文意思：",
+        "correct": "n.钟(表)面,刻度盘,拨号盘 v.拨号,打电话",
+        "options": [
+          "n.(dialogue)对话,对白",
+          "n.否认;拒绝;否认某事或某事实的声明",
+          "v.处理;做买卖,经营;分配;对待 n.交易",
+          "n.钟(表)面,刻度盘,拨号盘 v.拨号,打电话"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 'di-' 意为 'day'（日），与 'dial' 原指日晷的晷面（显示一天时间）相关。核心动作：通过旋转或按压来设定或选择（如拨号盘）",
+        "similarWarning": "deal（交易）：'ea' 与 'ia' 区别；denial（否认）：'ni' 与 'di' 位置不同；dialog（对话）：'log' 与 'al' 尾缀差异；drill（钻）：'ll' 与 'al' 拼写不同",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dialect",
+      "word": "dialect",
+      "phonetic": "/'daiəlekt/",
+      "meaning": "n.方言",
+      "similar": [
+        "direct"
+      ],
+      "question": {
+        "wordId": "dialect",
+        "stem": "选择 \"dialect\" 的正确中文意思：",
+        "correct": "n.方言",
+        "options": [
+          "a./ad.径直的(地) v.管理,指导;(at,to)指向",
+          "n.引诱，诱惑；诱惑物",
+          "n.方言",
+          "n.宗教,信仰"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'dialektos'（谈话、方言），由 'dia-'（通过、分开）和 'legein'（说）组成。核心物理动作：通过不同方式说话，引申为特定群体使用的语言变体。",
+        "similarWarning": "与 direct (直接的) 拼写差异：dialect 包含 'a' 和 'l'，而 direct 为 'i' 和 'r'。direct 强调方向或方式，dialect 强调语言变体。",
+        "extendedMeaning": "在考研中，dialect 可引申为特定社会阶层或行业使用的专业术语或行话，如 'legal dialect' 法律术语。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dialog",
+      "word": "dialog",
+      "phonetic": "/'daiəlɔg/",
+      "meaning": "n.(dialogue)对话,对白",
+      "similar": [
+        "dial"
+      ],
+      "question": {
+        "wordId": "dialog",
+        "stem": "选择 \"dialog\" 的正确中文意思：",
+        "correct": "n.(dialogue)对话,对白",
+        "options": [
+          "n.高,高度;(常pl.)高地,高处",
+          "n.钟(表)面,刻度盘,拨号盘 v.拨号,打电话",
+          "n.丧失，遗失；损失，损耗，亏损；失败",
+          "n.(dialogue)对话,对白"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "dia-（通过，分开）+ log（说话）→ 两人之间通过说话交流 → 对话、对白",
+        "similarWarning": "dial（拨号，刻度盘）：dialog 多一个 g，且 -log 为“说话”词根，dial 的 di- 来自“日”，原指“日晷”上的刻度",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "diameter",
+      "word": "diameter",
+      "phonetic": "/dai'æmitə/",
+      "meaning": "n.直径",
+      "similar": [
+        "parameter",
+        "disaster",
+        "millimeter"
+      ],
+      "question": {
+        "wordId": "diameter",
+        "stem": "选择 \"diameter\" 的正确中文意思：",
+        "correct": "n.直径",
+        "options": [
+          "n.(millimetre)毫米",
+          "n.灾难,大祸;彻底的失败",
+          "n.参数,参量",
+          "n.直径"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'dia'（穿过）+ 'metron'（测量），字面义为“穿过测量”，指通过圆心测量圆内两点间最长的直线距离，即直径。",
+        "similarWarning": "parameter (n.参数) vs diameter: 'para'（旁边）表示“在旁边测量”，引申为参数；disaster (n.灾难) vs diameter: 'dis'（坏）+ 'aster'（星），指“星位不正”，与测量无关；millimeter (n.毫米) vs diameter: 'milli'（千分之一），是长度单位，非几何概念。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "diamond",
+      "word": "diamond",
+      "phonetic": "/'daiəmənd/",
+      "meaning": "n.金钢石,钻石;菱形",
+      "similar": [],
+      "question": {
+        "wordId": "diamond",
+        "stem": "选择 \"diamond\" 的正确中文意思：",
+        "correct": "n.金钢石,钻石;菱形",
+        "options": [
+          "n.金钢石,钻石;菱形",
+          "n.钢",
+          "n.圣人,基督徒;(S-或St.用于人,地名前)圣",
+          "a.最初的,开头的;词首的 n.词首大写字母"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语adamas（不可征服的），由a-（不）+ damas（征服）构成，原指最坚硬的物质，后演变为钻石。菱形义源于钻石切割后的常见形状。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中可引申为‘极有价值或难以获取的事物’（如a diamond in the rough，指‘未经雕琢的璞玉’或‘有潜质但尚需打磨的人’）。",
+        "examUsage": "常见搭配‘diamond jubilee’（六十周年纪念）可能出现在文化背景题中；‘diamond shape’（菱形）在几何或图形类题目中作为描述词出现。"
+      }
+    },
+    {
+      "id": "diary",
+      "word": "diary",
+      "phonetic": "/'daiəri/",
+      "meaning": "n.日记,日记簿",
+      "similar": [
+        "dare",
+        "dial",
+        "dirt",
+        "vary",
+        "dairy",
+        "dirty",
+        "dizzy",
+        "dwarf"
+      ],
+      "question": {
+        "wordId": "diary",
+        "stem": "选择 \"diary\" 的正确中文意思：",
+        "correct": "n.日记,日记簿",
+        "options": [
+          "n.日记,日记簿",
+          "v.敢,胆敢",
+          "n.钟(表)面,刻度盘,拨号盘 v.拨号,打电话",
+          "n.污物,污垢"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'diarium' (每日的津贴或日志)，由 'dies' (日) + '-arium' (表示地点的后缀) 构成。核心动作是“按日记录”，强调每日发生的事件或思考。",
+        "similarWarning": "形近词辨析：\n- diary (日记) vs. dairy (乳制品/牛奶场)：关键区别在于 'i' 和 'a' 的位置。diary 是“i”在“a”前，dairy 是“a”在“i”前。\n- diary vs. daily (每日的)：diary 是名词，daily 是形容词/副词。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dictate",
+      "word": "dictate",
+      "phonetic": "/dik'teit/",
+      "meaning": "v.口授;(使)听写;指令,指示,命令;",
+      "similar": [
+        "dictation",
+        "doctorate",
+        "decorate",
+        "dedicate",
+        "delicate",
+        "distance",
+        "indicate",
+        "meditate"
+      ],
+      "question": {
+        "wordId": "dictate",
+        "stem": "选择 \"dictate\" 的正确中文意思：",
+        "correct": "v.口授;(使)听写;指令,指示,命令;",
+        "options": [
+          "n.听写,口述;命令",
+          "v.装饰,装璜,布置",
+          "v.口授;(使)听写;指令,指示,命令;",
+          "n.博士学位;博士头衔"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根dict-（说） + -ate（动词后缀）。核心动作是“说”，引申为口头命令或指示别人写下来。",
+        "similarWarning": "dictation（n.听写） vs dictate（v.口授，命令）：-tion名词后缀；doctorate（n.博士学位） vs dictate：doctor-（博士）词根不同；decorate（v.装饰） vs dictate：decor-（装饰）词根不同；dedicate（v.奉献） vs dictate：de-（向下）+dic-（说），强调“宣告奉献”；delicate（a.精致的） vs dictate：delic-（愉悦）词根不同；distance（n.距离） vs dictate：di-（分开）+st-（站立），词根不同；indicate（v.指示） vs dictate：in-（向内）+dic-（说），强调“表明”；meditate（v.冥想） vs dictate：med-（思考）词根不同。",
+        "extendedMeaning": "考研中常考“v.命令，支配”这一抽象含义，如：dictate the terms（规定条件），表示强制性的决定或控制。",
+        "examUsage": "真题考点：dictate 作“命令”时，常与介词to连用，如：dictate to sb（向某人发号施令）。例句：The boss tried to dictate to his employees.（老板试图命令员工。）可作为干���项与order, command辨析。"
+      }
+    },
+    {
+      "id": "dictation",
+      "word": "dictation",
+      "phonetic": "/dik'teiʃən/",
+      "meaning": "n.听写,口述;命令",
+      "similar": [
+        "indication",
+        "limitation",
+        "meditation",
+        "dictate",
+        "fiction",
+        "duration",
+        "location",
+        "vacation"
+      ],
+      "question": {
+        "wordId": "dictation",
+        "stem": "选择 \"dictation\" 的正确中文意思：",
+        "correct": "n.听写,口述;命令",
+        "options": [
+          "n.限制,局限性",
+          "n.熟虑;(尤指宗教的)默想,沉思;(pl.)冥想录",
+          "n.听写,口述;命令",
+          "n.指出,指示;表明,暗示"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根dict-（说、断言）+-ation（名词后缀，表行为/结果）。核心动作：dict-（说）+ate（动词后缀）+ion（名词后缀）→ dictation本义是“口述、命令的行为”，即上位者说话、下位者记录的过程。引申为“听写”（听别人说并写下）和“命令”（口述指令）。",
+        "similarWarning": "indication（in-向内+dict说+ion→指示、迹象）：与dictation相比，indication强调“暗示、表明”，而dictation强调“口述命令”。\nlimitation（limit边界+ation→限制）：拼写差异在limi- vs dict-，词义完全不同。\nmeditation（medit-思考+ation→冥想）：与dictation仅首字母不同，meditation侧重内心沉思，dictation侧重外部口述。\ndictate（dict说+ate动词后缀→口述、命令）：dictation是其名词形式，动词dictate更常用，注意拼写少-ion。",
+        "extendedMeaning": "在考研阅读中，dictation可引申为“指令、支配”，如under the dictation of（在……的支配下）。此外，在计算机/语言学语境中可指“语音识别输入”的听写功能，但考研较少出现。",
+        "examUsage": "真题考点：常与take dictation（做听写记录）搭配，或与at sb's dictation（听从某人的命令）连用。注意与dictate的动词用法区分：dictate to sb（对某人发号施令）。"
+      }
+    },
+    {
+      "id": "dictionary",
+      "word": "dictionary",
+      "phonetic": "/'dikʃənəri/",
+      "meaning": "n.词典,字典",
+      "similar": [
+        "missionary",
+        "stationary",
+        "stationery"
+      ],
+      "question": {
+        "wordId": "dictionary",
+        "stem": "选择 \"dictionary\" 的正确中文意思：",
+        "correct": "n.词典,字典",
+        "options": [
+          "n.文具",
+          "a.静止的,固定的",
+          "a.教会的，传教(士)的 n.传教士",
+          "n.词典,字典"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "dict-（说，宣称）+ -ion（名词后缀）+ -ary（集合/物）。核心动作：将说过的话（词）汇集起来成册。",
+        "similarWarning": "missionary（传教士）：mission（派遣）+ -ary（人），派遣去传教的人；stationary（静止的）：station（站）+ -ary（形容词），站定不动的；stationery（文具）：stationer（文具商）+ -y（物），文具店卖的物品。注意dictionary与stationery拼写区别：前者有dict-（说），后者有station-（站）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "die",
+      "word": "die",
+      "phonetic": "/daɪ/",
+      "meaning": "vi.死，死亡；(草木)枯萎，凋谢；渴望",
+      "similar": [
+        "diet",
+        "dine",
+        "dive",
+        "dig",
+        "dim",
+        "dip",
+        "due",
+        "dye"
+      ],
+      "question": {
+        "wordId": "die",
+        "stem": "选择 \"die\" 的正确中文意思：",
+        "correct": "vi.死，死亡；(草木)枯萎，凋谢；渴望",
+        "options": [
+          "v.吃饭,进餐",
+          "n.饮食,食物",
+          "v./n.潜水,跳水,俯冲",
+          "vi.死，死亡；(草木)枯萎，凋谢；渴望"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语‘diegan’，与古诺尔斯语‘deyja’同源，本义为‘失去生命、停止生存’。核心动作是生命体征的彻底终结，引申为草木枯萎、热情消退或渴望到极点（如‘dying to do’表达强烈愿望）。",
+        "similarWarning": "diet（n.日常饮食；v.节食） vs die：diet多‘t’表‘规定食物’；dine（v.进餐） vs die：dine以‘ne’结尾表‘正式用餐’；dye（v.染色；n.染料） vs die：dye以‘ye’结尾表‘着色’；dig（v.挖掘） vs die：dig以‘g’结尾表‘挖土’。",
+        "extendedMeaning": "1. 渴望（非字面死）：‘be dying for/to do’表极度渴求，如‘I'm dying for a cup of coffee.’ 2. 消失、停止（比喻义）：‘The sound died away.’（声音逐渐消失）或‘The engine died.’（引擎熄火）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "diet",
+      "word": "diet",
+      "phonetic": "/'daiət/",
+      "meaning": "n.饮食,食物",
+      "similar": [
+        "die",
+        "dirt",
+        "digest",
+        "direct",
+        "divert",
+        "dirty",
+        "drift",
+        "idiot"
+      ],
+      "question": {
+        "wordId": "diet",
+        "stem": "选择 \"diet\" 的正确中文意思：",
+        "correct": "n.饮食,食物",
+        "options": [
+          "n.饮食,食物",
+          "vi.死，死亡；(草木)枯萎，凋谢；渴望",
+          "n.污物,污垢",
+          "vt.消化；领会，融会贯通 n.文摘，摘要"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'diaeta'（生活方式、日常饮食），原指有规律的生活方式，后特指日常摄入的食物。核心动作是‘每日摄入’，强调规律性。",
+        "similarWarning": "形近词辨析：\n- die（v.死亡）：仅差字母 't'，diet强调‘饮食’，die强调‘死亡’。\n- dirt（n.污垢）：字母 'e' vs 'r'，diet与‘清洁饮食’无关，dirt指‘脏物’。\n- direct（adj.直接的）：前四个字母 'dire' vs 'die'，diet更短，direct有‘指导’义。",
+        "extendedMeaning": "在考研中常见引申义：‘（为减肥或健康而规定的）特种饮食，节食’。例如：go on a diet（节食）。此外，在医学或生物学语境中可指‘（特定人群的）日常食物种类’。",
+        "examUsage": "核心考点：常考搭配 'balanced diet'（均衡饮食）及 'diet' 作动词的用法。真题例句：A balanced diet is essential for maintaining good health.（均衡饮食对维持健康至关重要。）注意区分 'diet' 与 'food'：diet 强调日常习惯性摄入，food 泛指食物。"
+      }
+    },
+    {
+      "id": "differ",
+      "word": "differ",
+      "phonetic": "/'difə/",
+      "meaning": "v.(from)与…不同;(with)与…意见不同",
+      "similar": [
+        "infer",
+        "offer",
+        "dinner",
+        "suffer"
+      ],
+      "question": {
+        "wordId": "differ",
+        "stem": "选择 \"differ\" 的正确中文意思：",
+        "correct": "v.(from)与…不同;(with)与…意见不同",
+        "options": [
+          "v.(from)与…不同;(with)与…意见不同",
+          "v.提供,提议,出现 n.出价,提议,意图",
+          "n.正餐,宴会",
+          "v.推论,推断"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“dis-”（分开）+“ferre”（带来、运送），核心动作是“分开带走”。词根直指本质：将事物彼此分离、拉开距离。因此本义为“（在性质、特征上）分开、不同”，引申为“（在观点上）分离、意见分歧”。",
+        "similarWarning": "infer（推断，in-进入+fer-带）: 从事实“带入”结论。differ是“分开”导致不同。\noffer（提供，of-向+fer-带）: 把东西“带向”别人。differ强调分离。\ndinner（正餐）: 拼写仅差一个字母，但词源无关，dinner源自古法语“disner”（停止斋戒），无“分开”含义。\nsuffer（遭受，suf-下+fer-带）: 从下面“承受、背负”。differ是主动分开。",
+        "extendedMeaning": "在学术语境中，differ常表“在本质上不同，存在实质差异”，而非简单的不一致。如“The results differ significantly.”（结果存在显著差异）。",
+        "examUsage": "常考搭配：differ from（与…不同），differ with（与…意见不同）。真题中常作为干扰项，与“distinguish”（区分，强调主动辨别）或“vary”（变化，强调波动）混淆。如：\"Customs differ from country to country.\"（各国习俗不同。）"
+      }
+    },
+    {
+      "id": "difference",
+      "word": "difference",
+      "phonetic": "/'dɪfrəns/",
+      "meaning": "n.差别,差异,分歧",
+      "similar": [
+        "different",
+        "inference",
+        "reference",
+        "conference",
+        "preference",
+        "indifferent",
+        "influence"
+      ],
+      "question": {
+        "wordId": "difference",
+        "stem": "选择 \"difference\" 的正确中文意思：",
+        "correct": "n.差别,差异,分歧",
+        "options": [
+          "n.差别,差异,分歧",
+          "a.差异的,差异的,不同的",
+          "n.推论,推理,推断;结论",
+          "n.提及,涉及;参考,参考书目;证明书（人）"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语differentia，由dis-（分开） + ferre（携带） + -ence（名词后缀）构成。核心物理动作是“分开携带”，即把事物带到不同方向，从而产生差异。词根fer-（携带）贯穿始终，强调分离后的不同结果。",
+        "similarWarning": "difference与inference（推断）易混：前者核心是dis-（分开）导致差异，后者核心是in-（进入）从证据中带出结论。reference（参考）为re-（回）带回引用；preference（偏好）为pre-（前）提前选择；conference（会议）为con-（共同）共同带来讨论。",
+        "extendedMeaning": "在考研阅读中常引申为“分歧、争论点”，如settle their differences（解决分歧）或make a difference（有影响，起重要作用），而非仅指数量或性质上的不同。",
+        "examUsage": "高频考点：make a/the difference（有影响，起关键作用）作为固定搭配出现在完形和阅读中；difference between...and...（...与...之间的差异）常作为主旨题或细节题的定位词。"
+      }
+    },
+    {
+      "id": "different",
+      "word": "different",
+      "phonetic": "/'difərənt/",
+      "meaning": "a.差异的,差异的,不同的",
+      "similar": [
+        "indifferent",
+        "difference",
+        "inherent"
+      ],
+      "question": {
+        "wordId": "different",
+        "stem": "选择 \"different\" 的正确中文意思：",
+        "correct": "a.差异的,差异的,不同的",
+        "options": [
+          "n.差别,差异,分歧",
+          "a.冷漠的,不关心的,不积极的",
+          "a.差异的,差异的,不同的",
+          "a.固有的,内在的,天生的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根dis-（分开） + fer-（携带） + -ent（形容词后缀）。核心动作：将事物分开携带，从而产生区别。本义即“分开的”，引申为“不同的”。",
+        "similarWarning": "indifferent（in-否定 + different）：不关心的，冷漠的，与different无关；difference（名词形式）：不同之处；inherent（in-在内 + her-粘附）：固有的，与different拼写差异在her与fer。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "differentiate",
+      "word": "differentiate",
+      "phonetic": "/ˌdifə'renʃieit/",
+      "meaning": "v.区分,区别;(使)不同",
+      "similar": [],
+      "question": {
+        "wordId": "differentiate",
+        "stem": "选择 \"differentiate\" 的正确中文意思：",
+        "correct": "v.区分,区别;(使)不同",
+        "options": [
+          "vt.使承担;需要;把(疾病等)遗传给;限定",
+          "n./v.踢",
+          "n.网,网状物 v.用网捕,使落网 a.纯净的",
+          "v.区分,区别;(使)不同"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 \"differre\"（分开、不同）的过去分词 \"different-\" + 动词后缀 \"-iate\"。核心动作是“使成为不同”，即通过识别差异来区分或分化。词根 \"fer\" 意为“携带、承载”，前缀 \"dis-\" 表“分开”，合起来即“分开携带”，引申为“不同、差异”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中常引申为“分化、变异”，如细胞分化（cell differentiation）或产品差异化（product differentiation）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "difficult",
+      "word": "difficult",
+      "phonetic": "/'difikəlt/",
+      "meaning": "a.困难的,艰难的",
+      "similar": [
+        "difficulty"
+      ],
+      "question": {
+        "wordId": "difficult",
+        "stem": "选择 \"difficult\" 的正确中文意思：",
+        "correct": "a.困难的,艰难的",
+        "options": [
+          "a.怀疑的 [英]sceptical",
+          "a.困难的,艰难的",
+          "n.困难,困境,难题",
+          "n.袖子"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "dis-（否定）+ facile（容易的）→ 不容易的 → 困难的",
+        "similarWarning": "difficulty（n. 困难）为名词形式，拼写多-ty后缀，注意区分词性。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "difficulty",
+      "word": "difficulty",
+      "phonetic": "/'difikəlti/",
+      "meaning": "n.困难,困境,难题",
+      "similar": [
+        "difficult"
+      ],
+      "question": {
+        "wordId": "difficulty",
+        "stem": "选择 \"difficulty\" 的正确中文意思：",
+        "correct": "n.困难,困境,难题",
+        "options": [
+          "a.粗俗的，庸俗的，本土的，通俗的，普通的",
+          "n.困难,困境,难题",
+          "n.宫,宫殿",
+          "a.困难的,艰难的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'difficultas'，由 'dis-'（否定，表“不”）+ 'facilis'（容易的）构成，核心物理动作是“不容易做”。词根 'facil-' 与 'fact'（做）同源，故本义为“做起来不顺利”，引申为“困难、困境”。",
+        "similarWarning": "形近词 'difficult'（adj.困难的）是形容词形式，而 'difficulty' 是名词，注意词性差异。此外，'facility'（n.设施；便利）与 'difficulty' 词根相同但前缀相反，意为“容易”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "diffuse",
+      "word": "diffuse",
+      "phonetic": "/di'fju:s/",
+      "meaning": "v.扩散;传播 a.(文章等)冗长的,漫无边际的",
+      "similar": [
+        "disguise"
+      ],
+      "question": {
+        "wordId": "diffuse",
+        "stem": "选择 \"diffuse\" 的正确中文意思：",
+        "correct": "v.扩散;传播 a.(文章等)冗长的,漫无边际的",
+        "options": [
+          "v.扩散;传播 a.(文章等)冗长的,漫无边际的",
+          "vt.扩大,放大,增大",
+          "n./v.假装,伪装",
+          "v./n.颤抖,抖动"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "前缀dif-（=dis-，分开）+词根fus（=pour，流、倒）。核心物理动作：分开流/向四周流。v.扩散、传播（气体、光、信息等向周围散开）；a.由“散开”引申为文章内容散乱不集中，即冗长、漫无边际的。",
+        "similarWarning": "disguise [dɪsˈɡaɪz] v.伪装、假扮。差异：diffuse含fus（流），侧重散开/传播；disguise含guise（=way，方式/外表），侧重改变外表隐藏真实身份。",
+        "extendedMeaning": "a. (文章、演讲等) 冗长、漫无边际的。例：a diffuse speech 一场冗长散乱的演讲。源于内容像气体一样四处扩散，缺乏焦点。",
+        "examUsage": "真题考点：常考v.扩散/传播（信息、光、热）及a.冗长的。例：The light is diffused through the glass. 光透过玻璃扩散。注意与transmit（传输）、spread（传播）的辨析：diffuse强调向四周均匀散开，spread更泛泛，transmit侧重通过媒介传递。"
+      }
+    },
+    {
+      "id": "dig",
+      "word": "dig",
+      "phonetic": "/dig/",
+      "meaning": "v.挖,掘",
+      "similar": [
+        "die",
+        "dim",
+        "dip",
+        "pig"
+      ],
+      "question": {
+        "wordId": "dig",
+        "stem": "选择 \"dig\" 的正确中文意思：",
+        "correct": "v.挖,掘",
+        "options": [
+          "vi.死，死亡；(草木)枯萎，凋谢；渴望",
+          "v.挖,掘",
+          "v./n.浸,蘸",
+          "a.暗淡的,模糊的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根dig-源自原始印欧语*dheigʰ-，意为“挖掘、形成”。核心物理动作为“用手或工具在泥土中挖出洞或沟”，引申为“深入探查、发掘”。",
+        "similarWarning": "big（大的）：b与d字母差异，big强调尺寸；dig强调动作。die（死亡）：i与g差异，die表示生命终止；dig为挖掘动作。dim（暗淡的）：m与g差异，dim指光线不足；dig为物理挖掘。dip（蘸、浸）：p与g差异，dip指短暂浸入液体；dig为深入挖土。dog（狗）：o与g差异，dog是动物；dig是动词。pig（猪）：p与g差异，pig是动物；dig是动词。",
+        "extendedMeaning": "（在考研中无特殊僻义，基础释义为主）",
+        "examUsage": "（在考研中无特殊考点，常见于阅读理解中的基本动词用法）"
+      }
+    },
+    {
+      "id": "digest",
+      "word": "digest",
+      "phonetic": "/di'dʒest/",
+      "meaning": "vt.消化；领会，融会贯通 n.文摘，摘要",
+      "similar": [
+        "disgust",
+        "diet",
+        "direct",
+        "divert",
+        "diligent"
+      ],
+      "question": {
+        "wordId": "digest",
+        "stem": "选择 \"digest\" 的正确中文意思：",
+        "correct": "vt.消化；领会，融会贯通 n.文摘，摘要",
+        "options": [
+          "n.厌恶,恶心 v.使厌恶",
+          "a./ad.径直的(地) v.管理,指导;(at,to)指向",
+          "vt.消化；领会，融会贯通 n.文摘，摘要",
+          "n.饮食,食物"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "di-（分离，向下） + gest（携带，运送）→ 将食物或信息向下/分离携带到身体/大脑中 → 消化；引申为将信息分解吸收（领会），或提取精华（文摘）。",
+        "similarWarning": "disgust（反感）：dis-（不） + gust（味道）→ 不好味道 → 厌恶，与digest字母差异在g→s。diet（饮食）：仅首字母d相同，词根不同。direct（指导）：di-（方向） + rect（直）→ 引导，与digest无直接同源。",
+        "extendedMeaning": "考研僻义：n.文摘，摘要（如Reader's Digest《读者文摘》）；vt.领会，融会贯通（指对复杂信息的深度吸收，非简单理解）。",
+        "examUsage": "真题考点：digest作动词常考“领会”义，搭配digest information（消化信息）；作名词常以compound word形式出现，如digest of laws（法律汇编）。"
+      }
+    },
+    {
+      "id": "digital",
+      "word": "digital",
+      "phonetic": "/'didʒitəl/",
+      "meaning": "a.数字的;数位的;手指的 n.数字",
+      "similar": [
+        "original"
+      ],
+      "question": {
+        "wordId": "digital",
+        "stem": "选择 \"digital\" 的正确中文意思：",
+        "correct": "a.数字的;数位的;手指的 n.数字",
+        "options": [
+          "a.最初的,原文的;新颖的 n.原物,原作,原文",
+          "v.剃,刮,刨,削 n.刮脸",
+          "a.数字的;数位的;手指的 n.数字",
+          "n.舒适，安逸；安慰，慰问 v.安慰，使舒适"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'digitus'（手指、脚趾），因为人类最初用掰手指计数，所以'digital'词义从'手指的'引申为'数字的'。词根'digit-'（手指）→'digital'（手指的→数字的）",
+        "similarWarning": "与'original'（原始的）对比：'digital'以'digit'（手指/数字）为核心，'original'以'origin'（起源）为核心。",
+        "extendedMeaning": "在考研中常考'数字的、数码的'，如'digital age'（数字时代）、'digital technology'（数字技术），少见'手指的'本义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dignity",
+      "word": "dignity",
+      "phonetic": "/'dignəti/",
+      "meaning": "n.(举止,态度等的)庄严,端庄;尊贵,高贵",
+      "similar": [
+        "ignite",
+        "signify",
+        "vicinity"
+      ],
+      "question": {
+        "wordId": "dignity",
+        "stem": "选择 \"dignity\" 的正确中文意思：",
+        "correct": "n.(举止,态度等的)庄严,端庄;尊贵,高贵",
+        "options": [
+          "n.(举止,态度等的)庄严,端庄;尊贵,高贵",
+          "v.点火,引燃",
+          "v.表示,意味;要紧,有重要性",
+          "n.邻近,附近"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 dignus（值得的），后缀 -ity 表抽象名词。核心动作是“被判定为有价值”，引申为因内在价值而表现出的庄重、高贵姿态。",
+        "similarWarning": "ignite（点燃）：ig-（进入）+ nit-（发光）→ 点燃；dignity 核心是“价值”而非“光”。signify（表示）：sign-（标记）+ -ify（使）→ 用符号表示；dignity 强调“状态”而非“动作”。vicinity（附近）：vicin-（邻近）+ -ity → 邻近区域；dignity 无关空间距离。",
+        "extendedMeaning": "在考研阅读中常引申为“尊严、人格尊严”（如 human dignity），指人作为主体应受尊重的内在价值，而非仅外在仪态。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dilemma",
+      "word": "dilemma",
+      "phonetic": "/di'lemə/",
+      "meaning": "n.(进退两难的)窘境,困境",
+      "similar": [],
+      "question": {
+        "wordId": "dilemma",
+        "stem": "选择 \"dilemma\" 的正确中文意思：",
+        "correct": "n.(进退两难的)窘境,困境",
+        "options": [
+          "n.(进退两难的)窘境,困境",
+          "n.蚁；蚂蚁",
+          "n.子弹,枪弹",
+          "v./n.俯瞰,眺望;全面审视,调查;测量图,勘定"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'di-'（二） + 'lemma'（假设、前提），字面意为“双重前提”。逻辑学中指两个对立前提必选其一，引申为在两种不利选择中进退两难的窘境。核心动作是“在两个矛盾选项间被卡住”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“两难局面”，不限于道德困境，也可指经济、政策、职业选择等抽象冲突。如 'the dilemma between efficiency and equity'（效率与公平的两难）。",
+        "examUsage": "真题高频搭配：'face a dilemma'（面临困境）、'dilemma of...'（……的困境）。干扰项常将词义误导向“难题”，注意其核心是“两难选择”，而非单纯困难。"
+      }
+    },
+    {
+      "id": "diligent",
+      "word": "diligent",
+      "phonetic": "/'dilidʒənt/",
+      "meaning": "a.勤奋的,用功的",
+      "similar": [
+        "client",
+        "digest",
+        "silent",
+        "delight",
+        "dividend",
+        "militant"
+      ],
+      "question": {
+        "wordId": "diligent",
+        "stem": "选择 \"diligent\" 的正确中文意思：",
+        "correct": "a.勤奋的,用功的",
+        "options": [
+          "a.勤奋的,用功的",
+          "n.律师等的当事人，委托人；商店的顾客",
+          "vt.消化；领会，融会贯通 n.文摘，摘要",
+          "a.寂静,沉默的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根dilig-（选择/喜爱）+ -ent（形容词后缀）。核心动作：从众多事物中“选择”并“喜爱”去做，从而体现出持续的勤奋与专注。",
+        "similarWarning": "client（客户）：c开头，词根cli-（倾斜/依赖）；diligent（勤奋的）：d开头，词根dilig-（选择）。对比：客户依赖服务，勤奋者主动选择。",
+        "extendedMeaning": "【熟词僻义】在考研中无显著僻义，但可用于描述持续、专注的“努力”状态，如diligent effort（不懈努力），强调过程的持久性而非一时的刻苦。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dilute",
+      "word": "dilute",
+      "phonetic": "/dai'lju:t/",
+      "meaning": "vt.稀释，冲淡 a.稀释的，冲淡的",
+      "similar": [
+        "dispute",
+        "delete",
+        "salute"
+      ],
+      "question": {
+        "wordId": "dilute",
+        "stem": "选择 \"dilute\" 的正确中文意思：",
+        "correct": "vt.稀释，冲淡 a.稀释的，冲淡的",
+        "options": [
+          "vt.稀释，冲淡 a.稀释的，冲淡的",
+          "n.争论,争执 v.争论,辩论;反驳;怀疑;阻止",
+          "v./n.敬礼,鸣礼炮;迎接,欢迎",
+          "vt.删除"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 diluere (dis- '分离' + luere '洗')。核心动作：通过加水或其他液体来'洗开'、'分散'浓度，使溶液变淡。",
+        "similarWarning": "dilute vs dispute (dis- '分开' + putare '思考'，意为'争论') vs delete (de- '去掉' + letus '字母'，意为'删除') vs minute (min- '小'，意为'微小的'或'分钟') vs salute (salus '健康'，意为'敬礼、致意')。差异在词根：dilute 核心是'洗'，dispute 是'思考'，delete 是'去掉'，minute 是'小'，salute 是'健康'。",
+        "extendedMeaning": "考研僻义：vt. 削弱，降低（力量、效果、价值等）。如：dilute the power of the central government（削弱中央政府权力）。",
+        "examUsage": "常见于阅读理解中，表示'稀释'或'削弱'的抽象概念。固定搭配：dilute sth. with sth.（用...稀释...）。例句：The effect of the new policy was diluted by a series of compromises.（新政策的效果被一系列妥协削弱了。）"
+      }
+    },
+    {
+      "id": "dim",
+      "word": "dim",
+      "phonetic": "/dim/",
+      "meaning": "a.暗淡的,模糊的",
+      "similar": [
+        "aim",
+        "dam",
+        "die",
+        "dig",
+        "dip",
+        "rim",
+        "idiom"
+      ],
+      "question": {
+        "wordId": "dim",
+        "stem": "选择 \"dim\" 的正确中文意思：",
+        "correct": "a.暗淡的,模糊的",
+        "options": [
+          "vi.死，死亡；(草木)枯萎，凋谢；渴望",
+          "a.暗淡的,模糊的",
+          "n.目的；瞄准 vi.(at)目的在于 vt.把…瞄准",
+          "n.水坝,水闸"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古英语dimm，核心物理动作是“光线被遮蔽或遮挡”，导致视觉上“不明亮、不清晰”，引申为“模糊的、不明确的”。",
+        "similarWarning": "对比：dim（暗淡） vs dip（浸入） vs dig（挖） vs die（死） vs dam（水坝）；字母差异在最后一个字母或中间字母的替换，含义完全无关。",
+        "extendedMeaning": "考研僻义：作动词时意为“使变暗淡、使变模糊”，常用于抽象语境，如“dim one's memory”（使记忆模糊）或“dim prospects”（前景暗淡）。",
+        "examUsage": "考点：常与light, memory, hope等名词搭配，表示程度减弱；真题中可能作为干扰项出现，与vague（模糊的）、obscure（晦涩的）辨析，dim侧重光线或视觉上的模糊，而vague更强调概念或表达的不清晰。"
+      }
+    },
+    {
+      "id": "dimension",
+      "word": "dimension",
+      "phonetic": "/daɪ'menʃn/",
+      "meaning": "n.尺寸,尺度;维(数),度(数)",
+      "similar": [
+        "diversion",
+        "mention",
+        "pension",
+        "tension",
+        "division",
+        "direction",
+        "extension",
+        "impression"
+      ],
+      "question": {
+        "wordId": "dimension",
+        "stem": "选择 \"dimension\" 的正确中文意思：",
+        "correct": "n.尺寸,尺度;维(数),度(数)",
+        "options": [
+          "n.转向,转移;牵制;解闷;娱乐",
+          "n.尺寸,尺度;维(数),度(数)",
+          "n.养老金,年金",
+          "v./n.提及,说起"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'dimensio'，由前缀 'di-'（分开）和词根 'mens-'（测量）组成，合义为“分开测量”。核心动作是测量物体的长、宽、高等可量化范围，引申为空间或抽象问题的“维度、方面”。",
+        "similarWarning": "形近词辨析：dimension（维度/尺寸） vs. diversion（转向/消遣） vs. division（分割/部门）。差异点：'mension' 强调测量；'version' 强调转向（vert-转）；'vision' 强调看（vis-看）。",
+        "extendedMeaning": "考研僻义：1. (问题的)方面、层面。例：the social dimension of the crisis（危机的社会层面）。2. 规模、程度。例：the sheer dimension of the problem（问题的巨大规模）。",
+        "examUsage": "考点搭配：add a new dimension to（为…增添新维度）；take on a new dimension（呈现出新面貌）。真题例句：The Internet has added a new dimension to global communication.（2010年阅读）"
+      }
+    },
+    {
+      "id": "diminish",
+      "word": "diminish",
+      "phonetic": "/di'miniʃ/",
+      "meaning": "v.缩小,减少,递减",
+      "similar": [
+        "finish"
+      ],
+      "question": {
+        "wordId": "diminish",
+        "stem": "选择 \"diminish\" 的正确中文意思：",
+        "correct": "v.缩小,减少,递减",
+        "options": [
+          "v.治愈,愈合",
+          "n.贫穷,贫困",
+          "n.完成;结束;磨光 v.完成;结束;用完;毁掉",
+          "v.缩小,减少,递减"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"minuere\"（减少），前缀\"di-\"（分开、向下）+ \"min\"（小）+ \"-ish\"（动词后缀）。核心物理动作：使某物向下变小、分散缩减。\",\n  \"similarWarning\": \"形近词：finish（结束），区别在于\"diminish\"强调\"量/程度的减少\"，而\"finish\"强调\"过程的终结\"。\",\n  \"extendedMeaning\": \"在考研中常引申为\"贬低、轻视\"（如：diminish sb's achievements），或\"（价值/重要性）降低\"。\",\n  \"examUsage\": \"真题考点：常与\"diminish",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dine",
+      "word": "dine",
+      "phonetic": "/dain/",
+      "meaning": "v.吃饭,进餐",
+      "similar": [
+        "die",
+        "dive",
+        "nine",
+        "pine",
+        "define",
+        "dinner",
+        "divine",
+        "dense"
+      ],
+      "question": {
+        "wordId": "dine",
+        "stem": "选择 \"dine\" 的正确中文意思：",
+        "correct": "v.吃饭,进餐",
+        "options": [
+          "v.吃饭,进餐",
+          "num.九 pron./ad.九(个，只...)",
+          "v./n.潜水,跳水,俯冲",
+          "vi.死，死亡；(草木)枯萎，凋谢；渴望"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'disjejunare'（打破禁食），后演变为古法语 'disner'，词根 'dis-'（分开）+ 'jejun-'（禁食），核心动作为‘结束禁食状态’，即进食。",
+        "similarWarning": "形近词辨析：dine（吃饭） vs. die（死亡） vs. dive（潜水） vs. fine（好的/罚款）。关键区别在于字母 'n' 与 'i' 的替换：dine 含 'n'，强调进食动作；die 无 'n'，指生命终结。",
+        "extendedMeaning": "考研僻义：v. 宴请（正式场合）。例：The president dined the foreign guests.（总统宴请外宾。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dinner",
+      "word": "dinner",
+      "phonetic": "/'dinə/",
+      "meaning": "n.正餐,宴会",
+      "similar": [
+        "inner",
+        "dine",
+        "infer",
+        "liner",
+        "banner",
+        "danger",
+        "differ",
+        "finger"
+      ],
+      "question": {
+        "wordId": "dinner",
+        "stem": "选择 \"dinner\" 的正确中文意思：",
+        "correct": "n.正餐,宴会",
+        "options": [
+          "v.吃饭,进餐",
+          "a.内部的,里面的;内心的",
+          "n.正餐,宴会",
+          "v.推论,推断"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自法语'dîner'（正餐），原指一天中的主餐。词根'din-'与拉丁语'dis-'（分开）相关，暗示正餐是分开（break-fast）后的一餐。核心动作是“进食主餐”。",
+        "similarWarning": "与'dinner'形近词：'inner'（内部的，少一个'd'）；'dine'（用餐，动词，少一个'r'）；'infer'（推断，字母顺序不同）；'liner'（班轮，字母顺序不同）；'banner'（横幅，前缀不同）；'danger'（危险，字母顺序不同）；'differ'（不同，字母顺序不同）；'finger'（手指，字母顺序不同）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dip",
+      "word": "dip",
+      "phonetic": "/dip/",
+      "meaning": "v./n.浸,蘸",
+      "similar": [
+        "drip",
+        "die",
+        "dig",
+        "dim",
+        "hip",
+        "lip",
+        "rip",
+        "sip"
+      ],
+      "question": {
+        "wordId": "dip",
+        "stem": "选择 \"dip\" 的正确中文意思：",
+        "correct": "v./n.浸,蘸",
+        "options": [
+          "v.滴下,漏水 n.滴,水滴,点滴",
+          "v.挖,掘",
+          "v./n.浸,蘸",
+          "vi.死，死亡；(草木)枯萎，凋谢；渴望"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模拟物体短暂进入液体后迅速提起的“噗通”声。核心物理动作是“垂直进入—短暂停留—快速脱离”，强调浅层、瞬时的浸入状态，区别于soak（长时间浸泡）或submerge（完全淹没）。",
+        "similarWarning": "drip（滴落）：dip是主动浸入，drip是液体被动滴下，差异在于动作主体（人vs液体）；dig（挖掘）：dip向下轻触，dig向下深挖，力度与深度不同。",
+        "extendedMeaning": "①（价格、数量等）轻微下跌，下降：The stock market took a dip.（股市小幅下跌）；②蘸酱：a dip for chips（薯片蘸酱）；③（物理）倾斜，下降：a dip in the road（路面下坡）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "diploma",
+      "word": "diploma",
+      "phonetic": "/di'pləumə/",
+      "meaning": "n.毕业文凭,学位证书",
+      "similar": [],
+      "question": {
+        "wordId": "diploma",
+        "stem": "选择 \"diploma\" 的正确中文意思：",
+        "correct": "n.毕业文凭,学位证书",
+        "options": [
+          "n.毕业文凭,学位证书",
+          "v./n.追逐,追求",
+          "n.发现,发现物;(常pl.)调查/研究结果",
+          "num.十一 pron./a.十一(个，只...)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语diploma（折叠的文书），由diplo-（双倍、折叠）与-ma（名词后缀）组成，原指折叠成两半的官方文件，后引申为毕业文凭、学位证书。核心物理动作是“折叠”，即纸张对折后承载的资格证明。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    }
+  ]
+}

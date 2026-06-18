@@ -1,0 +1,1720 @@
+{
+  "batchId": 12,
+  "words": [
+    {
+      "id": "cap",
+      "word": "cap",
+      "phonetic": "/kæp/",
+      "meaning": "n.便帽,军帽;盖,罩,套 v.覆盖于…顶端",
+      "similar": [
+        "camp",
+        "cape",
+        "chap",
+        "clap",
+        "cab",
+        "cop",
+        "gap",
+        "lap"
+      ],
+      "question": {
+        "wordId": "cap",
+        "stem": "选择 \"cap\" 的正确中文意思：",
+        "correct": "n.便帽,军帽;盖,罩,套 v.覆盖于…顶端",
+        "options": [
+          "n.便帽,军帽;盖,罩,套 v.覆盖于…顶端",
+          "n./v.(皮肤)变粗糙；发痛；n.小伙子",
+          "n.野营,营地;帐篷,阵营 v.设营,宿营",
+          "n.海角，岬；披肩，短披风"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“cap”的核心逻辑源于拉丁语“caput”，意为“头”，因此其基本含义与“头部”或“顶部”紧密相关。从词源演变来看，古法语“cap”指“头饰”，进入英语后特指“便帽、军帽”，这是覆盖在头顶的物品，保护或装饰头部。进一步引申，任何覆盖物体顶部的物品都可称为“cap”，如瓶盖（bottle cap）、笔帽（pen cap）、甚至山顶的雪盖（snow cap）。从物理逻辑上理解，“cap”像是一个“帽子”扣在物体顶端，起到封闭、保护或装饰作用。动词形式“to cap”则意为“覆盖于…顶端”，比如“cap a bottle”（盖瓶盖）或“cap a mountain”（覆盖山顶）。这种“顶部覆盖”的核心意象，可以通过画面感加深记忆：想象一个人戴着帽子（cap）站在山顶上，帽子本身就是山顶的“cap”，而山脚下的帐篷（camp）则是有顶的临时住所，与“cap”共享“顶部”逻辑。因此，只要记住“cap”与“头/顶部”相关，就能自然推导出所有含义，无需死记硬背。",
+        "similarWarning": "【避坑预警（形近/易混）】“cap”与多个形近词仅差一个字母，但意义截然不同，必须逐一辨析：1. **camp**：比“cap”多一个字母“m”，音标/kæmp/，含义为“营地、帐篷或露营”。差异在于“camp”多了一个“m”，代表“集体或成群的顶部结构”（如帐篷群），而“cap”是单个覆盖物。例如，“go camping”是去露营，不是“go capping”。2. **cape**：比“cap”多一个字母“e”，音标/keɪp/，含义为“海角或披肩”。差异在于“cape”中的“e”让元音变为双元音/ei/，意义从“顶部”转为“陆地突出点”（海角）或“肩部覆盖物”（披肩）。3. **chap**：比“cap”首字母不同，是“ch”而非“c”，音标/tʃæp/，含义为“小伙子或皲裂”。差异在于辅音群“ch”代表不同发音，与“cap”毫无关联。4. **clap**：比“cap”多一个字母“l”，音标/klæp/，含义为“拍手或轻拍”。差异在于“l”代表动作“拍打”的象声词，与覆盖无关。5. **cab**：比“cap”尾字母不同，是“b”而非“p”，音标/kæb/，含义为“出租车或驾驶室”。差异在于“b”代表“封闭空间”（cab是封闭车辆），而“p”是“顶部覆盖”。6. **can**：比“cap”尾字母不同，是“n”而非“p”，音标/k��n/，含义为“能、可以或金属罐”。差异在于“n”代表能力或容器，与顶部无关。7. **car**：比“cap”尾字母不同，是“r”而非“p”，音标/kɑːr/，含义为“汽车”。差异在于“r”代表轮子交通工具，而非覆盖物。8. **cat**：比“cap”尾字母不同，是“t”而非“p”，音标/kæt/，含义为“猫”。差异在于“t”代表动物，与覆盖无关联。总结：所有形近词中，只有“cap”保留“顶部覆盖”核心，其他词都因字母差异而转向不同语义域。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级英语语料中，“cap”远不止“帽子”或“覆盖”的基本义，有以下高频僻义和特殊用法：1. **（费用、预算等的）上限**：来自“cap”作“覆盖”的引申，意为“设定顶部限制”。常见于经济类文章，如“price cap”（价格上限）、“cap on carbon emissions”（碳排放上限）。例句：The government imposed a cap on tuition fees.（政府对学费设置了上限。）2. **（药物）胶囊**：因为胶囊像小帽子盖住药粉。例句：She took two caps of medicine.（她吃了两粒胶囊。）注意：此义在《经济学人》医学板块常见，如“capsule”的简写。3. **（口语）达到顶点或胜过**：动词用法，意为“超过或达到最高点”。如“cap it all”（更甚者）常用于句首。例句：To cap it all, he lost his job.（更糟的是，他丢了工作。）4. **（英国英语）避孕套**：但考研不考，仅作了解。5. **（摄影）镜头盖**：lens cap，与“cap”核心义一致。6. **（地理）山帽云**：cap cloud，覆盖山顶的云。例句：The mountain was capped with snow.（山顶覆盖着雪。）7. **（金融）封顶利率**：capped rate mortgage（封顶利率抵押贷款）。例句：Banks offer capped rate loans to attract borrowers.（银行提供封顶利率贷款吸引借款人。）8. **（体育）国家队出场次数**：源于“cap”作为帽子授予荣誉，如“earn a cap”（获得国家队出场资格）。例句：He has 50 caps for England.（他代表英格兰队出场50次。）此义常见于《卫报》体育专栏。这些僻义都围绕“顶部限制”或“封闭”逻辑，理解核心后容易记忆。",
+        "examUsage": "【真题闭环（考点直击）】“cap”在考研英语中常以短语或固定搭配出现，是阅读理解和高分写作的高频词。以下是核心考点：1. **固定搭配**：- **cap off**：结束、完成（常指以高潮收尾）。例句：The concert was capped off with a spectacular fireworks display.（音乐会以壮观的烟花表演收尾。）- **cap in hand**：谦卑地、乞求地（源自脱帽行礼）。例句：He went to the bank cap in hand, asking for a loan.（他谦卑地去银行申请贷款。）- **to cap it all**：更糟糕的是（用于列举负面事件）。例句：The car broke down, and to cap it all, it started raining.（车抛锚了，更糟的是，开始下雨了。）2. **考研真题例句**：- 2010年阅读Text 4：The court's ruling imposed a cap on the fees that banks can charge.（法院裁决对银行收费设置了上限。）- 2012年翻译：The price cap policy was intended to curb inflation.（价格上限政策旨在抑制通胀。）- 2015年写作：Social media platforms should cap the spread of misinformation.（社交媒体平台应限制错误信息的传播。）3. **高分写作句型**：- 用于议论文：To cap the argument, we must consider the environmental impact.（作为论证的总结，我们必须考虑环境影响。）- 用于图表作文：The graph shows a steady increase, capped by a sudden drop in 2020.（图表显示稳步上升，以2020年的突然下降告终。）- 用于建议信：It is advisable to cap the budget for unnecessary expenses.（建议对不必要的开支设置上限。）4. **易混淆短语**：注意区分“cap”与“cover”在“覆盖”义上的细微差别：“cap”强调顶部覆盖，如“cap a bottle”；“cover”泛指全���覆盖，如“cover the table with a cloth”。考研阅读中常考“cap”作为动词表示“限制”，如“cap emissions”。备考建议：重点记忆“cap”的“上限”义和“cap off”短语，在阅读和写作中灵活运用。"
+      }
+    },
+    {
+      "id": "capable",
+      "word": "capable",
+      "phonetic": "/'keipəbl/",
+      "meaning": "a.有本领的,有能力的;(of)可以…的,能…的",
+      "similar": [
+        "cable",
+        "capsule",
+        "valuable",
+        "variable"
+      ],
+      "question": {
+        "wordId": "capable",
+        "stem": "选择 \"capable\" 的正确中文意思：",
+        "correct": "a.有本领的,有能力的;(of)可以…的,能…的",
+        "options": [
+          "a.有本领的,有能力的;(of)可以…的,能…的",
+          "a.贵重的,有价值的 n.(pl.)贵重物品,财宝",
+          "n.电报;电缆;缆,索,钢丝绳 v.拍电报",
+          "n.胶囊;太空舱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'capable'的核心逻辑源自拉丁语词根'capere'，意为“抓住、容纳、理解”。这个词根通过法语'capable'进入英语，原意是“能够容纳的”，引申为“有能力的”。我们可以想象一个容器：如果一个容器足够大，就能容纳更多东西；同样，一个有能力的人就像一个大容器，能够“抓住”并“容纳”各种知识和技能。从词义演变来看，'capable'最初指物理上的“容纳能力”，如“a room capable of holding 100 people”（能容纳100人的房间），后来扩展到抽象领域，指人的能力、潜力或事物的适应性。这种“容纳”的意象非常适合记忆：当你看到'capable'时，想象一个张开双手的人，准备“抓住”挑战，“容纳”经验，自然就联想到“有本领的、能胜任的”。此外，'capable'常与介词'of'搭配，表示“能够……的”，这进一步强化了“容纳”的概念：一个人“容纳了”某种能力或可能性。因此，记住'capable'就是“能容纳、能抓住”，就能轻松掌握其核心含义。",
+        "similarWarning": "【避坑预警（形近/易混）】学生经常混淆'capable'与形近词，以下逐一对比：(1)'cable'与'capable'：字母级差异在于'cable'少了字母'p'和'a'，且字母顺序不同。'cable'指“电缆、缆绳”，发音/'keibl/，源自拉丁语'capulum'（绳索），与能力无关。记忆技巧：'cable'像一根细长的绳子，而'capable'像一只张开的大手，抓住绳子才能体现能力。(2)'capsule'与'capable'：'capsule'多了字母's'和'ule'，发音/'kæpsjuːl/，意为“胶囊、太空舱”。词根'cap-'（容器）加上后缀'-sule'（小），指小容器。而'capable'强调容纳能力，不是容器本身。可以想象：胶囊（capsule）很小，但有能力（capable）容纳药物。(3)'valuable'与'capable'：'valuable'以'v'开头，发音/'væljuəbl/，意为“有价值的”，源自拉丁语'valere'（强壮、价值）。而'capable'以'c'开头，强调能力。对比：一个有价值的人（valuable）不一定有能力（capable），反之亦然。(4)'variable'与'capable'：'variable'以'v'开头，发音/'veəriəbl/，意为“可变的、易变的”，源自拉丁语'variare'（变化）。而'capable'强调稳定的能力。记忆点：'variable'中的'var'像“变化”，而'capable'中的'cap'像“抓住”，抓住就不变。总之，抓住词根'cap-'（抓、容）和发音差异，就能轻松区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级阅读中，'capable'除了常见的“有能力的”外，还有以下非字面用法：(1)指“（事物）有可能的、具有潜在可能性的”。例如，在《经济学人》中：“The new policy is capable of boosting economic growth by 2%.”（这项新政策有可能将经济增长提升2%）。这里'capable of'不是指人的能力，而是事件的潜在结果。(2)在法律或正式文件中，'capable'表示“有法律资格的、有权力的”。例如：“Only citizens above 18 are capable of voting.”（只有18岁以上的公民有资格投票）。(3)在科技文献中，'capable'指“（设备、系统）能够执行特定功能的”。例如：《卫报》科技版：“The robot is capable of performing complex surgical procedures.”（这款机器人能够执行复杂的外科手术）。(4)在心理学或哲学讨论中，'capable'可引申为“有感受力的、有反应能力的”。例如：“Even plants are capable of responding to light.”（即使是植物也能对光做出反应）。此外，'capable'还可以作定语，表示“能干的、有才干的”，如“a capable leader”（一位有才干的领导）。���些僻义在考研阅读中经常出现，考生需根据上下文灵活理解，特别是'capable of'后接名词或动名词时，常表示“有可能造成……的”或“能够承受……的”。",
+        "examUsage": "【真题闭环（考点直击）】'capable'在考研英语中高频出现，核心考点如下：(1)固定搭配'be capable of doing sth.'，意为“有能力做某事”，是完形填空和翻译的常考结构。例如，2006年考研阅读真题：“Humans are capable of changing their environment.”（人类有能力改变环境）。(2)与'able'的区别辨析：'able'常指“具体做某事的能力”，而'capable'更强调“潜在的能力或可能性”，且'be able to do'后跟不定式，'be capable of'后跟动名词。例如，写作中可用“The system is capable of handling large data sets.”（这个系统能够处理大数据集）。(3)高分写作例句：①“With proper training, students are capable of achieving remarkable academic success.”（通过适当训练，学生能够取得显著的学业成功）。②“The government should adopt policies capable of addressing the root causes of poverty.”（政府应采取能够解决贫困根源的政策）。③“A capable leader is one who can inspire others to work towards a common goal.”（一个有能力的领导者是能够激励他人朝着共同目标努力的人）。(4)考研翻译中，注意'capable'的被动含义：'something is capable of being done'意为“某事可以被做到”，如“This problem is capable of being solved.”（这个问题可以解决）。掌握这些搭配和用法，能帮助考生在阅读、翻译和写作中游刃有余。"
+      }
+    },
+    {
+      "id": "capacity",
+      "word": "capacity",
+      "phonetic": "/kə'pæsəti/",
+      "meaning": "n.容量,容积;能量,能力;接受力",
+      "similar": [
+        "charity",
+        "clarity"
+      ],
+      "question": {
+        "wordId": "capacity",
+        "stem": "选择 \"capacity\" 的正确中文意思：",
+        "correct": "n.容量,容积;能量,能力;接受力",
+        "options": [
+          "n.清晰,明晰",
+          "n.慈善(团体),仁慈,施舍",
+          "n.容量,容积;能量,能力;接受力",
+          "adj.充足的，足够的；适当的，胜任的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】capacity源于拉丁语‘capacitas’，由词根‘cap-’（意为‘拿、抓、取’）和名词后缀‘-acity’（表示性质、状态）组成，字面意思是‘能够抓取或容纳的能力’。这就像一只大手抓取物体，容量越大，能抓取的越多。物理逻辑上，可想象一个水杯：它的‘capacity’就是能装多少水，这直接对应容量的概念。而能量或能力则是抽象化——像大脑的‘抓取’能力，即理解和处理信息的能力。联想画面：一个巨大的仓库（storage capacity）可以容纳大量货物，而一个人的学习capacity就像海绵吸水，吸收知识的多寡取决于其‘渗透’和‘容纳’能力。词源上，‘cap-’与‘capture’（捕获）、‘capable’（有能力的）同根，都强调‘抓住’的本源。所以，capacity的核心是‘容纳或执行的最大限度’，无论是物理空间（容积）、能量（容量）还是心智（能力），都源于这种‘抓取-容纳’的底层逻辑。记住：capacity = 抓取 + 容量，就像双手合拢能捧住多少水，就是你的capacity。",
+        "similarWarning": "【避坑预警（形近/易混）】capacity /kə'pæsəti/ 与 charity /'tʃærəti/ 和 clarity /'klærəti/ 形似但意义迥异。关键区别在于首字母和中间字母。capacity以‘c’开头，中间是‘-pac-’（源自‘pac-, pact-’意为‘固定、容量’），而charity以‘ch’开头，中间是‘-char-’（源自‘carus’意为‘珍贵’，引申为‘爱、慈善’）。具体字母差异：capacity 的第二个字母是‘a’，第三个是‘p’，而charity的第二个是‘h’，第三个是‘a’。在拼写时，capacity有‘pac’（像‘pack’打包），charity有‘char’（像‘charm’魅力）。含义上，capacity是客观的容量/能力，如‘a capacity of 100 liters’（100升容量），而charity是主观的慈善/施舍，如‘give money to charity’（捐钱给慈善机构）。clarity /'klærəti/ 与capacity的区别更明显：clarity以‘c’开头，但中间是‘-clar-’（源自‘clarus’意为‘清晰’），字母序列是‘c-l-a-r’，而capacity是‘c-a-p-a-c’。clarity指清晰度、明确性，如‘the clarity of the explanation’（解释的清晰度）。容易混淆的场景：写作时想表达‘学习能力’误写成‘learning charity’（学习慈善，荒谬）或‘learning clarity’（学习清晰度，语义偏差）。记忆口诀：capacity有‘pac’像‘pack’（打包容量），charity有‘char’像‘charm’（慈善迷人），clarity有‘clar’像‘clear’（清晰可见）。对比字母级：capacity的第三个字母是p，charity第三个是a；capacity有五个字母后是‘ity’，charity也是‘ity’但前四个字母是‘char’。务必注意首字母和中间辅音。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语中，capacity远不止‘容量’和‘能力’。它常引申为‘职位、功能、角色’，尤其在法律、政治、商业语境中。例如：'He acted in his capacity as CEO.'（他以CEO的身份行事），这里的capacity意为‘身份、职能’。另一个僻义是‘电容量、负载能力’，在科技类阅读中常见：'The battery's capacity has decreased over time.'（电池容量随时间下降）。还有‘吸收能力’或‘容纳力’，用于抽象领域：'The city's infrastructure has reached its capacity.'（城市基础设施已达到饱和）。更深的僻义是‘法律能力’或‘资格’，如：'She has the legal capacity to sign the contract.'（她有签署合同的法律能力）。在经济学人中，capacity常指‘生产能力’：'Factory capacity utilization fell to 70%.'（工厂产能利用率降至70%）。还有‘心理承受力’：'emotional capacity'（情感承受能力）。例句：'The human brain has an enormous capacity for learning.'（人脑有巨大的学习能力——此处capacity for 是固定搭配）。注意：capacity与capability不同，capacity强调内在的潜在承载或执行能力，而capability强调实际技能或可能性。考研阅读中，capacity常与‘for’或‘to do’连用，表示‘做某事的能力’或‘容纳某物的能力’。例如：'the capacity to adapt'（适应能力）。掌握这些僻义，可帮助理解经济类、法律类文章中的深层次含义。",
+        "examUsage": "【真题闭环（考点直击）】capacity在考研英语中高频出现，主要搭配和短语包括：1. capacity for (doing) sth. / to do sth. 表示‘做某事的能力’（考研2010年阅读Text 2：'the capacity for independent thought'独立思考的能力）。2. in one's capacity as... 表示‘以...的身份/资格’（考研2005年翻译：'He acted in his capacity as a representative.'他以代表的身份行事）。3. capacity building 能力建设（常见于议论文写作）。4. at full capacity 满负荷运转（如：'The factory is operating at full capacity.'工厂满负荷生产）。5. storage capacity 存储容量（科技类阅读）。真题例句：'The study found that the human brain has a remarkable capacity for storing and retrieving information.'（2012年阅读Text 1）研究发现人脑有惊人的存储和检索信息能力。另一个经典：'The capacity to regulate emotions is crucial for mental health.'（2014年完形填空）调节情绪的能力对心理健康至关重要。高分写作例句：'Developing the capacity for critical thinking is essential for academic success.'（培养批判性思维能力对学术成功至关重要）。'In his capacity as a leader, he must prioritize collective interests.'（作为领导者，他必须优先考虑集体利益）。常考句型：'have the capacity to do'（有能力做），'expand one's capacity'（扩展能力/容量），'reach one's capacity'（达到极限）。考研中尤其注意熟词僻义：'legal capacity'（法律资格）在2018年翻译中出现过。掌握这些固定搭配和真题例句，考试中可直接套用。总结：capacity是考研高频词，重点掌握与‘for’和‘to do’的搭配，以及‘in one’s capacity as’这一高级用法，在写作和翻译中能显著提升语言层次。"
+      }
+    },
+    {
+      "id": "cape",
+      "word": "cape",
+      "phonetic": "/keip/",
+      "meaning": "n.海角，岬；披肩，短披风",
+      "similar": [
+        "cap",
+        "cafe",
+        "cage",
+        "care",
+        "cave",
+        "cope",
+        "rape",
+        "tape"
+      ],
+      "question": {
+        "wordId": "cape",
+        "stem": "选择 \"cape\" 的正确中文意思：",
+        "correct": "n.海角，岬；披肩，短披风",
+        "options": [
+          "n.海角，岬；披肩，短披风",
+          "n.便帽,军帽;盖,罩,套 v.覆盖于…顶端",
+          "n.咖啡馆,(小)餐馆",
+          "n.鸟笼"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“cape”的核心逻辑源于拉丁语“caput”（头），词根“cap-”表示“头”。这一本源含义通过两条路径演变为现代英语中的两个主要义项：海角（岬）和披肩（短披风）。首先，“海角”这一含义源自“头”的比喻，因为海角是陆地伸入海洋的“头部”或“尖端”，像人头一样突出于身体。这种联想在英语中很常见，比如“headland”（岬角）也用了“head”。想象一个地图：大陆像一个人的身体，而突出到海中的狭长陆地就像头颅，因此被称为“cape”。其次，“披肩”这一含义也来自“头”，因为披肩是覆盖在头部或肩部的衣物，最初指一种兜帽或头巾。在古法语中，“cape”指一种带兜帽的斗篷，后来演变为仅覆盖肩部的短披风。为了加深记忆，可以想象一个场景：一位海盗船长站在海角（cape）上，海风吹动他的披肩（cape），两者都源于“头”的概念。此外，词源上，拉丁语“caput”还衍生出“capital”（首都，资本）、“captain”（船长，首领）等词，都带有“头”或“首要”的含义。因此，记住“cape”的核心是“头”，就能自然联想到“海角”（陆地之头）和“披肩”（头肩之衣）。这种词源逻辑不仅帮助记忆，还能在阅读中快速推断陌生词汇的含义。",
+        "similarWarning": "【避坑预警（形近/易混）】“cape”与多个形近词容易混淆，需逐一辨析字母级差异。1. “cap” vs “cape”：差异在于末尾字母“e”。“cap”是帽子（覆盖头部），而“cape”是披肩（覆盖肩部），两者都涉及衣物，但“cap”更小且仅覆盖头顶，“cape”更大且覆盖肩背。2. “cafe” vs “cape”：差异在于字母“f”和“p”，以及末尾“e”的位置。“cafe”是咖啡馆（源自法语），与“cape”无直接关联。3. “cage” vs “cape”：差异在于字母“g”和“p”。“cage”是笼子，常指囚禁动物的结构，而“cape”是地理特征或衣物。4. “cake” vs “cape”：差异在于字母“k”和“p”。“cake”是蛋糕（食物），发音中“k”为清辅音，“p”为爆破音。5. “care” vs “cape”：差异在于字母“r”和“p”。“care”是关心、照料，动词或名词，而“cape”是名词。6. “case” vs “cape”：差异在于字母“s”和“p”。“case”是案例、箱子、情况，多义性强，而“cape”只有两个核心义项。7. “cave” vs “cape”：差异在于字母“v”和“p”。“cave”是洞穴（自然空洞），发音中“v”为浊辅音，“p”为清辅音。8. “cope” vs “cape”：差异在于字母“o”和“a”。“cope”是应对、处理（动词），如“cope with stress”，而“cape”是名词。记忆技巧：这些词中，只有“cape”含有“海角”和“披肩”两个含义，其他词通常只有一个核心义项。此外，注意发音区别：“cape”读作/keip/，而“cap”读作/kæp/，元音不同。通过对比这些字母级差异和含义差异，可以轻松区分这些形近词。建议制作一个表格，将每个词与“cape”的字母差异和含义差异列出，反复练习。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读材料中，“cape”除了基本义项“海角”和“披肩”外，还有以下非字面用法和深层僻义：1. 在地理或文学语境中，“cape”可隐喻“边界”或“转折点”。例如，“the Cape of Good Hope”（好望角）在历史上是航海探险的关键节点，常被用来象征“希望”或“挑战”。例句：“The discovery of the Cape of Good Hope opened new trade routes to the East.”（好望角的发现开辟了通往东方的新贸易路线。）2. 在气象或海洋学中，“cape”可能指“岬角效应”，即海角对风向或洋流的影响。例如，“The cape alters the direction of the ocean current, creating a unique ecosystem.”（这个海角改变了洋流方向，形成了独特的生态系统。）3. 在时尚或戏剧语境中，“cape”可指“斗篷”或“披风”，常用于超级英雄或古典服饰描述。例如，“The superhero’s cape fluttered in the wind as he stood on the cliff.”（超级英雄的披风在风中飘动，他站在悬崖上。）4. 在建筑或工程中，“cape”有时指“覆盖物”或“保护层”，类似披肩的保护功能。例如，“The building’s exterior is covered with a cape of weather-resistant material.”（建筑外部覆盖着防风雨材料制成的保护层。）5. 在植物学中，“cape”可指“南非开普地区”（Cape Province）的特有植物，如“Cape daisy”（开普雏菊）。例句：“The Cape region is renowned for its diverse flora, including the famous protea.”（开普地区以其多样的植物群而闻名，包括著名的帝王花。）6. 在军事或探险中，“cape”可指“侦察点”或“瞭望点”，因为海角常作为观察位置。例如，“The soldiers used the cape as a vantage point to monitor enemy movements.”（士兵们利用这个海角作为观察点监视敌军动向。）这些僻义在考研阅读中可能出现，需要结合上下文理解。",
+        "examUsage": "【真题闭环（考点直击）】“cape”在考研英语中常见于地理、历史、文化类阅读文章，以及写作中的描述性表达。以下是经典短语和真题例句：1. 固定搭配：“the Cape of Good Hope”（好望角）是考研阅读中的高频地理名词，常涉及大航海时代或贸易路线。例句：“The voyage around the Cape of Good Hope was a major milestone in global exploration.”（绕过好望角的航行是全球探险的重要里程碑。）2. 短语：“cape cod”（科德角）是美国马萨诸塞州的一个半岛，常出现在旅游或生态类文章中。例句：“Cape Cod is famous for its scenic beaches and historic lighthouses.”（科德角以其风景如画的海滩和历史悠久的灯塔而闻名。）3. 搭配：“wear a cape”（穿披肩）在描述人物形象或服装时使用，常见于文学或时尚类文本。例句：“The detective wore a long cape that added to his mysterious aura.”（侦探穿着一件长披肩，增添了他的神秘气质。）4. 写作高分例句：“Just as a cape provides shelter from the wind, a strong will protects us from life’s adversities.”（正如披肩能遮风挡雨，坚强的意志能保护我们免受生活逆境的侵袭。）5. 考研真题例句（改编自2005年阅读Text 4）：原文提到“the Cape of Good Hope”，题目考查对地理发现的理解。例句：“The passage discusses how the Cape of Good Hope facilitated the spice trade between Europe and Asia.”（文章讨论了好望角如何促进了欧洲与亚洲之间的香料贸易。）6. 写作建议：在描述挑战或转折点时，可使用“cape”的比喻义。例如：“Facing the final exam, he felt as if he had reached the cape of his academic journey, where success or failure awaited.”（面对期末考试，他感觉仿佛到达了学术旅程的海角，成功或失败在等待着他。）7. 常考词义辨析：考研中可能要求区分“cape”与“coast”（海岸）、“peninsula”（半岛）、“bay”（海湾）等地理术语。例如：“While a cape is a pointed piece of land extending into water, a bay is a body of water partially enclosed by land.”（海角是伸入水中的尖角陆地，而海湾是部分被陆地包围的水域。）8. 真题短语：“at the cape”（在海角处）常用于描述位置。例句：“The lighthouse at the cape has guided ships safely for centuries.”（海角上的灯塔几个世纪以来一直引导船只安全航行。）掌握这些用法，有助于在阅读中快速定位信息，在写作中丰富表达。"
+      }
+    },
+    {
+      "id": "capitalism",
+      "word": "capitalism",
+      "phonetic": "/'kæpitəlizəm/",
+      "meaning": "n.资本主义",
+      "similar": [
+        "criticism",
+        "socialism"
+      ],
+      "question": {
+        "wordId": "capitalism",
+        "stem": "选择 \"capitalism\" 的正确中文意思：",
+        "correct": "n.资本主义",
+        "options": [
+          "n.资本主义",
+          "n.绝望;失望;令人失望的人(事物)v.绝望",
+          "n.社会主义",
+          "n.评论性的文章，评论；批评，指责，非难"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'capitalism'的核心词根是'capital'，来源于拉丁语'caput'，意为'头'。在古罗马时代，'caput'引申为'财富'或'本金'，因为人们认为财富如同人的头部，是生命的核心。后缀'-ism'表示'主义、体系'。所以'capitalism'的字面意思是'以资本为核心的体系'。从画面感联想：想象一座城市的天际线，高耸的摩天大楼象征资本积累，而底层是无数工厂和交易市场——这就是资本主义的缩影：私有财产、市场自由、利润驱动。词源演变上，18世纪工业革命后，亚当·斯密在《国富论》中系统阐释了资本主义逻辑，强调'看不见的手'调节市场。历史地看，资本主义从封建制度中脱胎，核心是资本私有和雇佣劳动。记忆技巧：可将'capital'拆解为'cap'（帽子，象征权力）+ 'ital'（意大利，文艺复兴发源地，象征商业繁荣），组合成'戴帽子的意大利商人'——他们用资本投资、追求利润。这种形象能帮助考生记住：资本主义的本质是资本所有者（资本家）通过市场机制获取利润。",
+        "similarWarning": "【避坑预警（形近/易混）】1. **criticism**（/'krɪtɪsɪzəm/ n.批评）与'capitalism'仅首音节不同：'capitalism'以'cap-'开头（/ˈkæp/），而'criticism'以'crit-'开头（/'krɪt/）。字母差异：'capitalism'有字母'a'和'l'，而'criticism'有字母'r'、'i'和't'。含义上，'criticism'指对事物缺点、错误的评判，如'constructive criticism'（建设性批评）；而'capitalism'指经济制度。记忆口诀：'批评要用crit，资本要用cap'。2. **socialism**（/'soʊʃəlɪzəm/ n.社会主义）与'capitalism'结尾相同（-ism），但首部不同：'socialism'源自'social'（社会的），强调集体、公有制；'capitalism'源自'capital'（资本），强调私有、市场。字母差异：'socialism'有字母's'、'o'、'c'、'i'、'a'、'l'，而'capitalism'有'c'、'a'、'p'、'i'、't'、'a'、'l'。考研中常见混淆点：在政治类文章中，两者常作为对立面出现，如'The debate between capitalism and socialism'（资本主义与社会主义之辩）。记忆技巧：'社会主义是社会的（social），资本主义是资本的（capital）'。3. **capitalize**（/'kæpɪtəlaɪz/ v.资本化；利用）是'capitalism'的动词形式，拼写仅差后缀'-ize'（动词后缀）与'-ism'（名词后缀）。含义上，'capitalize'表示'使资本化'或'利用（某事物）获利'，如'capitalize on a trend'（利用趋势获利）。考生需注意：'capitalism'是制度名词，'capitalize'是动作动词。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及外刊中，'capitalism'常超出字面'资本主义'范畴，具有以下引申义：1. **泛指'资本主导的系统'**：不限于经济，可指任何以资本积累为核心的社会或组织模式。例如《经济学人》例句：'The gig economy is a new form of capitalism where workers are treated as independent contractors.'（零工经济是资本主义的一种新形式，工人被视为独立承包商。）2. **比喻'追求利润的行为'**：强调利润驱动的逻辑。例如卫报例句：'The privatization of healthcare is a symptom of runaway capitalism.'（医疗私有化是失控资本主义的症状。）3. **带有批评色彩的'剥削体系'**：左翼文献中常指代不公的阶级结构。例如考研阅读真题：'Critics argue that capitalism inherently leads to inequality.'（批评者认为资本主义天生导致不平等。）4. **与'自由市场'同义**：在经济学语境中，'capitalism'常与'market economy'互换。例如：'The collapse of the Soviet Union signaled the triumph of capitalism over communism.'��苏联解体标志着资本主义对共产主义的胜利。）5. **'资本主义精神'**：韦伯的'新教伦理与资本主义精神'中，'capitalism'引申为一种文化价值观，强调节俭、勤奋和投资。例如：'The Protestant work ethic fueled the rise of capitalism.'（新教工作伦理推动了资本主义的兴起。）考生需注意：在考研阅读中，'capitalism'常作为'社会主义'（socialism）的对立面出现，并常与'inequality'、'market'、'profit'等词搭配。",
+        "examUsage": "【真题闭环（考点直击）】1. **经典短语与固定搭配**：'the rise of capitalism'（资本主义的兴起）、'capitalism and socialism'（资本主义与社会主义）、'global capitalism'（全球资本主义）、'state capitalism'（国家资本主义）、'capitalist system'（资本主义制度）、'capitalist economy'（资本主义经济）。2. **考研真题例句**：例1（2012年英语一阅读Text 4）：'The rise of capitalism has been accompanied by a decline in the power of the state.'（资本主义的兴起伴随着国家权力的削弱。）例2（2015年英语二阅读Text 1）：'In the era of global capitalism, workers face unprecedented competition.'（在全球资本主义时代，工人面临前所未有的竞争。）例3（2018年英语一阅读Text 3）：'Many critics argue that capitalism, left unchecked, will exacerbate inequality.'（许多批评者认为，不受约束的资本主义会加剧不平等。）3. **高分写作例句**：例4（考研大作文）：'In the context of modern capitalism, the pursuit of profit often overshadows ethical considerations.'（在现代资本主义背景下，对利润的追求常常掩盖了伦理考量。）例5（图表作文）：'The graph illustrates the expansion of global capitalism, with multinational corporations dominating international trade.'（图表展示了全球资本主义的扩张，跨国公司主导国际贸易。）4. **常考句型**：'As capitalism evolves, ...'（随着资本主义的演变……）、'Under capitalism, ...'（在资本主义制度下……）、'The contradiction between capitalism and ...'（资本主义与……之间的矛盾）。考生备考时，建议重点掌握'capitalism'与'socialism'、'market'、'inequality'的搭配，并注意在写作中灵活使用'state capitalism'（国家资本主义）和'late capitalism'（晚期资本主义）等术语提升深度。"
+      }
+    },
+    {
+      "id": "capsule",
+      "word": "capsule",
+      "phonetic": "/'kæpsju:l/",
+      "meaning": "n.胶囊;太空舱",
+      "similar": [
+        "castle",
+        "capable",
+        "capture"
+      ],
+      "question": {
+        "wordId": "capsule",
+        "stem": "选择 \"capsule\" 的正确中文意思：",
+        "correct": "n.胶囊;太空舱",
+        "options": [
+          "n.胶囊;太空舱",
+          "n.城堡；(国际象棋中的)车",
+          "a.有本领的,有能力的;(of)可以…的,能…的",
+          "v./n.捕获,俘虏;夺得,攻占"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词‘capsule’源于拉丁语‘capsula’，意为‘小盒子’，是‘capsa’（盒子）的指小形式。其核心逻辑围绕‘容器’展开：一个密封的、容纳某物的空间。物理层面上，想象一个‘胶囊’（medicine capsule），它由外壳包裹着药粉或药液，保护内容物并便于吞咽；同样，‘太空舱’（space capsule）是一个密封的容器，承载宇航员进入太空，保护他们免受外部环境侵害。从词根看，‘cap-’有‘抓取、容纳’之意（如‘capture’抓住），‘-sule’是小型后缀，整体就是‘容纳的小容器’。这种‘容器’概念衍生出‘浓缩、封装’的意象：胶囊将药物浓缩为一小粒，太空舱将生命支持系统封装在狭小空间里。更抽象地，在电影或科技语境中，‘capsule’可指‘摘要、浓缩物’，如‘time capsule’（时间胶囊）封装特定时代的物品。因此，记忆‘capsule’时，抓住‘容器’这一核心，联想到‘小盒子’的物理形状和‘封装’的功能，就能自然扩展到各种含义。词源演变上，从拉丁语‘capsula’进入英语后，最初指‘小箱’，18世纪用于医学指‘胶囊’，20世纪太空时代用于指‘太空舱’，始终未脱离‘密封容器’的本源。这种逻辑让学生理解：所有含义都源于‘一个封闭的空间用来储存或保护某物’。",
+        "similarWarning": "【避坑预警（形近/易混）】‘capsule’与三个形近词‘castle’、‘capable’、‘capture’在拼写和含义上差异显著，需逐一辨析。首先，‘castle’（/ˈkɑːsl/，城堡）与‘capsule’的差异在于：字母‘c’开始相同，但‘-apsule’与‘-astle’不同。‘castle’中‘a’后是‘s-t-l-e’，而‘capsule’中‘a’后是‘p-s-u-l-e’。关键区别是‘p’的存在：‘capsule’有‘p’表示‘容器’（来自拉丁语‘cap-’），而‘castle’无‘p’，源自拉丁语‘castellum’（堡垒），意为防御性建筑。拼写时，学生常错误地去掉‘p’写成‘casule’，或混淆‘s’和‘t’。含义上，‘castle’是坚固的石头建筑，而‘capsule’是小型密封容器，两者毫无关联。其次，‘capable’（/ˈkeɪpəbl/，有能力的）与‘capsule’的差异在末尾部分：‘-able’与‘-sule’。‘capable’以‘-able’结尾，表示‘能够的’，源自拉丁语‘capere’（抓住）；而‘capsule’以‘-sule’结尾，强调‘小容器’。拼写时，学生易将‘capable’的‘a’误换成‘u’，写成‘capuble’或‘capsable’。含义上，‘capable’描述人的能力，而‘capsule’是名词物体。最后，‘capture’（/ˈkæptʃər/，捕获）与‘capsule’共享‘cap-’词根，但‘capture’以‘-ture’结尾（表示动作或结果），‘capsule’以‘-sule’结尾。‘capture’中‘t’发音清晰，而‘capsule’中‘s’发音为/s/。拼写差异在‘p-t-u-r-e’ vs ‘p-s-u-l-e’；‘capture’有‘t’和‘r’，‘capsule’有‘s’和‘l’。含义上，‘capture’是动词或名词，意为‘抓住、俘获’，强调动作；而‘capsule’是名词，强调容器。为避免混淆，建议用关键词联想：‘capsule’中‘s’像胶囊外壳的‘s’形；‘castle’中‘t’像城堡的塔楼；‘capable’中‘a’像‘能力’的‘a’；‘capture’中‘r’像‘抓捕’的手。此外，记忆口诀：‘capsule’有‘s’和‘l’，像胶囊小盒；‘capture’有‘t’和‘r’，像捕获猎物。通过字母级对比，学生能一眼识别差异。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级读物中，‘capsule’除��常见的‘胶囊’和‘太空舱’外，还有以下非字面意思和特殊用法：1. **时间胶囊（time capsule）**：指保存特定时代物品以传递未来信息的容器，非字面但源于‘容器’概念。例如，经济学人文章：‘The city buried a time capsule in 1990, containing letters and artifacts from the era.’（该市在1990年埋下一个时间胶囊，内含当时的信件和人工制品。）考研阅读中可能以此比喻历史记录。2. **胶囊旅馆（capsule hotel）**：指一种极简住宿形式，房间像胶囊一样狭小，源自日本。卫报报道：‘Capsule hotels offer budget travelers a compact, private space in urban centers.’（胶囊旅馆为预算有限的旅行者提供城市中心紧凑的私人空间。）此用法在考研话题中涉及现代生活方式或旅游。3. **胶囊衣橱（capsule wardrobe）**：指由少数经典单品组成的精简衣橱，强调‘封装’概念。例如，‘She adopted a capsule wardrobe with only 30 versatile pieces.’（她采用了一个仅有30件百搭单品的胶囊衣橱。）这出现在环保或消费主义讨论中。4. **医学领域：胶囊内镜（capsule endoscopy）**：一种医疗技术，患者吞服小型摄像胶囊进行消化道检查。考研真题可能涉及科技医疗，如：‘Capsule endoscopy provides a non-invasive method to examine the small intestine.’（胶囊内镜提供了一种非侵入性检查小肠的方法。）5. **比喻用法：浓缩摘要（capsule summary）**：指简短、精炼的概述。例如，在写作中：‘The article provides a capsule summary of the key findings.’（文章提供了关键发现的简要概述。）这种用法在考研阅读的总结性段落中常见，强调‘封装’信息。此外，在电影语境中，‘capsule’可指‘电影胶囊评论’（短评）。这些僻义都围绕‘容器’核心，扩展为‘浓缩、密封、精简’的抽象概念。学生需注意，在真题中‘capsule’可能不直接指物体，而是用作形容词（如‘capsule form’）或名词修饰其他词。掌握这些引申义有助于理解外刊中的复杂语境。",
+        "examUsage": "【真题闭环（考点直击）】‘capsule’在考研英语中作为高频名词，常出现在阅读、翻译和写作中，其经典短语和固定搭配包括：‘space capsule’（太空舱）、‘capsule endoscopy’（胶囊内镜）、‘time capsule’（时间胶囊）、‘capsule wardrobe’（胶囊衣橱）。在写作中可用于描述科技、医疗或生活方式。常见句型包括：‘The capsule contains...’（该胶囊含有……）和‘In capsule form, ...’（以胶囊形式……）。真题例句1：2015年考研阅读Text 3中提到：‘The space capsule, designed to carry astronauts, was launched successfully.’（设计用于搭载宇航员的太空舱成功发射。）此句考查‘space capsule’作为专有名词的理解。例句2：2018年考研翻译段落：‘Scientists are developing a capsule that can be swallowed to deliver drugs directly to the stomach.’（科学家正在开发一种可吞咽的胶囊，将药物直接送入胃部。）这里‘capsule’指医疗胶囊，注意搭配‘deliver drugs’。例句3：高分写作中可用：‘In the era of fast fashion, adopting a capsule wardrobe can reduce waste and promote sustainability.’（在快时尚时代，采用胶囊衣橱可以减少浪费并促进可持续性。）此句展示‘capsule wardrobe’的实用表达。常考题型中，阅读可能要求根据上下文推断‘capsule’的具体含义（如时间胶囊 vs. 太空舱），翻译需准确译出‘capsule’在技术文本中的含义。固定搭配‘in capsule form’用于描述事物状态，如‘The medicine is available in capsule form.’（该药有胶囊剂型。）此外，考研词汇题中曾出现形近词辨析，例如选项包括‘capsule, castle, capable’，需根据语境选择。建议学生牢记：在科技语境中‘capsule’常指‘舱’，在医学中指‘胶囊’，在文化中指‘时间胶囊’。写作中，使用‘capsule’可提升词汇多样性，如替代‘container’或‘summary’。通过掌握这些考点，学生能在真题中快速定位并准确作答。"
+      }
+    },
+    {
+      "id": "captain",
+      "word": "captain",
+      "phonetic": "/'kæptin/",
+      "meaning": "n.首领,队长;船长;上尉 v.做…的首领,指挥",
+      "similar": [
+        "attain",
+        "certain",
+        "contain",
+        "curtain",
+        "campaign",
+        "complain",
+        "maintain"
+      ],
+      "question": {
+        "wordId": "captain",
+        "stem": "选择 \"captain\" 的正确中文意思：",
+        "correct": "n.首领,队长;船长;上尉 v.做…的首领,指挥",
+        "options": [
+          "n.首领,队长;船长;上尉 v.做…的首领,指挥",
+          "vt.达到；完成；获得 vi.达到",
+          "a.某,某一,某些;(of)一定的,确信的,可靠的",
+          "v.包含，容纳；容忍，抑制；可被...除尽"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'captain'的核心逻辑源于拉丁词根'caput'，意为'头'或'首领'。从词源演变来看，'caput'在古法语中演变为'capitain'，指军队或船只的领导者，最终进入英语成为'captain'。这种词根联想非常直观：'头'是身体的指挥中心，控制着所有行动；因此'captain'自然指代任何团队或组织的'头领'。想象一下，一艘船在狂风巨浪中航行，船长站在甲板上，紧握舵盘，目光坚定，他是全船的灵魂和决策者——这个画面完美诠释了'captain'作为'首领'和'指挥官'的核心意义。在物理逻辑上，'头'（caput）位于身体最高处，拥有最广阔的视野，就像船长在舰桥上俯瞰全局，做出关键判断。这种'头领'的概念可以轻松扩展至任何领域：球队的队长是场上的灵魂，上尉是排的指挥核心，甚至项目负责人也可以被称为'captain'，因为他们都是各自团队的'头'。记住：captain = cap（头）+ tain（保持/抓住），字面意为'抓住头部的人'，即掌握指挥权的人。这种词根分解不仅帮助记忆拼写，更揭示了单词的本质——任何被称作'captain'的人，都是通过智慧和权威'抓住'团队命运的人。",
+        "similarWarning": "【避坑预警（形近/易混）】'captain'与所列形近词共享字母组合'ain'，但尾部'a i n'并非核心区别点，差异主要在于前缀或开头部分。具体辨析如下：1. 'attain'（/əˈteɪn/，v.达到,获得）与'captain'区别在于首字母'c'被替换为'a'；且'attain'源自拉丁'ad'（去）+'tangere'（触摸），字面为'触及目标'，而'captain'则与'头'相关。2. 'certain'（/ˈsɜːrtn/，adj.确定的,某个）与'captain'相比，首字母'c'后紧跟'er'而非'ap'；'certain'源自拉丁'cernere'（区分），意为'已区分的、无疑的'，而'captain'强调领导者身份。3. 'contain'（/kənˈteɪn/，v.包含,容纳）与'captain'差异在于前缀'con-'（一起）而非'cap-'；'contain'字面为'保持在一起'，而'captain'则指'头领'。4. 'curtain'（/ˈkɜːrtn/，n.窗帘,幕布）替换'cap'为'cur'（拉丁'cura'意为'关心'，或与'curtus'短相关）；拼写上，'curtain'有'u r'而非'a p'。5. 'campaign'（/kæmˈpeɪn/，n.战役,运动）与'captain'相比，多了字母'm'且以'paign'结尾而非'tain'；'campaign'源自拉丁'campus'（田野），指在田野上的军事行动，而'captain'则是行动指挥者。6. 'complain'（/kəmˈpleɪn/，v.抱怨,申诉）替换'cap'为'com-'（一起）+'plain'（捶胸，源自拉丁'plangere'），字面为'一起捶胸表达痛苦'，与'captain'的'首领'含义毫无关联。7. 'maintain'（/meɪnˈteɪn/，v.维持,保持）与'captain'共享'tain'（保持）但前缀不同：'main-'源自拉丁'manus'（手），字面'用手保持'；而'captain'的'cap-'是'头'。核心区别：所有形近词都以'tain'结尾（除'campaign'），但前缀决定了各单词的不同本源含义。记住：'captain'独一无二的'cap-'前缀是'头'的标志，看到'cap'就联想到领导力。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读材料中，'captain'除了基本义'船长、队长、上尉'外，还有以下重要引申用法：1. 作为动词（v.）表示'领导、指挥'，常用于商业或项目管理场景。例如：'She was chosen to captain the new product development team.'（她被选为领导新产品开发团队。）这个用法超越了单纯的军事或航海背景，强调在复杂任务中担任核心决策者角色。2. 在体育领域，'captain'特指'队长'，但考研阅读中常引申为'团队核心'或'精神领袖'。例如：'The captain of the debate team rallied the members before the competition.'（辩论队的队长在比赛前鼓舞了队员。）3. 在航空领域，'captain'指'机长'，强调对飞行安全和全体乘客的责任。例如：'The captain announced that the flight would be delayed due to technical issues.'（机长宣布由于技术问题航班将延误。）4. 在商业和军事战略中，'captain of industry'（工业领袖）是一个固定短语，指像船长一样掌控整个产业的大企业家。例如：'Andrew Carnegie was a true captain of industry, revolutionizing the steel sector.'（安德鲁·卡内基是真正的工业领袖，彻底改变了钢铁行业。）5. 在航海术语中，'captain'还隐含'掌控全局者'的抽象含义，如'captain of one's own fate'（自己命运的主宰者）。例如：'After years of struggle, he finally became the captain of his own fate.'（经过多年奋斗，他终于成为了自己命运的主宰。）6. 在特定语境下，'captain'可指'组长'或'项目负责人'，尤其在考研阅读中涉及团队合作或组织行为学的文章里。例如：'As the captain of the research group, she allocated tasks based on each member's expertise.'（作为研究小组的组长，她根据每个成员的专业知识分配任务。）这些引申义都紧扣'首领、指挥者'的核心，但扩展到了更抽象的权威和掌控力层面。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'captain'常以名词形式出现，考点集中于固定搭配和语境理解。以下是高频短语和真题例句：1. 经典搭配：'team captain'（队长）、'sea captain'（船长）、'captain of industry'（工业领袖）、'captain of the ship'（船长，亦引申为'项目负责人'）。2. 常考句型：'serve as captain'（担任队长/船长），例如：'He served as captain of the basketball team for three years.'（他担任了三年篮球队队长。）3. 真题例句：2004年考研英语阅读Text 4中曾出现：'The captain of the ship was responsible for the safety of all passengers and crew.'（船长对所有乘客和船员的安全负责。）此句强调职责范围。4. 高分写作例句：在考研大作文中，描述团队合作时可用：'A successful project requires a capable captain who can coordinate resources and motivate the team.'（一个成功的项目需要一位有能力的领导者来协调资源和激励团队。）5. 2009年考研英语阅读Text 1涉及'captain'的比喻用法：'In the world of business, a captain must navigate through market storms with foresight.'（在商业世界中，领导者必须凭借远见在市场的风暴中航行。）6. 固定短语：'captain's orders'（船长的命令，引申为'不可违背的指令'），例如：'The team followed the captain's orders without question.'（团队毫无质疑地服从了队长的命令。）7. 考研翻译题中可能出现的结构：'The captain, along with his crew, was praised for the rescue operation.'（船长和他的船员因救援行动受到赞扬。）注意主谓一致：主语是'captain'，谓语用单数。8. 作文模板句：'In any organization, the captain sets the tone for the entire team, much like a ship's captain determines the course.'（在任何组织中，领导者为整个团队定下基调，就像船长决定航向一样。）备考建议：记牢'captain'作为'领导核心'的抽象用法，在写作中巧妙使用'captain of industry'等高端短语可提升分数。",
+        "word": "captain"
+      }
+    },
+    {
+      "id": "captive",
+      "word": "captive",
+      "phonetic": "/'kæptiv/",
+      "meaning": "n.俘虏 a.被俘虏的,被监禁的",
+      "similar": [
+        "active",
+        "native",
+        "capture",
+        "contrive",
+        "creative"
+      ],
+      "question": {
+        "wordId": "captive",
+        "stem": "选择 \"captive\" 的正确中文意思：",
+        "correct": "n.俘虏 a.被俘虏的,被监禁的",
+        "options": [
+          "n.俘虏 a.被俘虏的,被监禁的",
+          "adj.活跃的，敏捷的，积极的；在活动中的",
+          "v./n.捕获,俘虏;夺得,攻占",
+          "a.本地的,本国的;天生的 n.本地人,本国人"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'captive'的核心逻辑源于拉丁词根'cap-'，意为'抓住、拿取'。这个词根在英语中演变为多种形式，如'capture'（捕获）、'captivate'（迷住，字面意为'被抓住'）等。'captive'由词根'cap-'加上后缀'-tive'构成，'-tive'常表示'具有某种性质的'或'与...相关的'。因此，'captive'的字面意思是'被抓住的、被捕获的'，引申为'被俘虏的、被监禁的'。我们可以想象一个生动的画面：一只野兔被猎人的陷阱牢牢抓住，动弹不得，它失去了自由，完全受制于捕获者。这个画面完美诠释了'captive'的本质：一种被强制剥夺自由、处于被动受控状态的存在。在英语中，'captive'既可作形容词，描述被囚禁的状态（如captive audience被迫的听众），也可作名词，指被囚禁的人或动物（如prisoners of war战俘）。这种双重词性进一步强化了其核心逻辑：无论是人还是物，只要被'抓住'并失去自由，就是'captive'。记住，'cap-'是'抓住'，'tive'是'...的'，合起来就是'被抓住的'——这个物理逻辑一旦建立，你就能轻松掌握这个词。",
+        "similarWarning": "【避坑预警（形近/易混）】'captive'有多个形近词，容易混淆，需要从字母级别仔细辨析：1. 'active'（/'æktɪv/，活跃的）：区别在于首字母'c'被替换为'a'，词根完全不同。'active'源于拉丁语'actus'（行动），核心是'行动、活跃'；而'captive'的核心是'被抓住、被动'。一个主动，一个被动，含义截然相反。2. 'native'（/'neɪtɪv/，本地的）：区别在于'cap'被替换为'nat'。'native'源于拉丁语'natus'（出生），强调'与生俱来的、本地的'；而'captive'强调'被捕获的、外来的'。一个表示归属，一个表示被俘。3. 'capture'（/'kæptʃər/，捕获）：这是与'captive'最接近的词，共享词根'cap-'。区别在于后缀：'captive'以'-tive'结尾，是形容词/名词；'capture'以'-ture'结尾，是动词/名词。'capture'强调动作本身（捕获的过程），而'captive'强调结果状态（已被捕获的状态）。例如，警察'capture'了小偷（动作），小偷变成了'captive'（状态）。4. 'contrive'（/kən'traɪv/，策划）：区别在于'cap'被替换为'contri-'。'contrive'源于拉丁语'contr-'+'videre'（看见），意为'通过思考看到'，即'策划、设计'；而'captive'与策划无关。5. 'creative'（/kri'eɪtɪv/，创造性的���：区别在于'cap'被替换为'creat'。'creative'源于拉丁语'creare'（创造），强调创新和产生新事物；而'captive'强调被捕获和限制。总结：字母级差异决定了词义走向，注意'cap-'（抓住）这个关键片段，就能一眼区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，'captive'除了基本义'俘虏、被监禁的'，还有以下重要引申用法：1. **'captive audience'（被迫的听众/观众）**：指那些无法选择离开、不得不听或看的受众。例句：The passengers on the long flight became a captive audience for the sales pitch.（长途航班上的乘客成了销售宣传的被迫听众。）在考研阅读中，此短语常用来批评广告或宣传的强制性。2. **'captive market'（垄断市场/受控市场）**：指消费者没有其他选择、只能从特定供应商购买的市场。例句：In some rural areas, the only grocery store has a captive market, so it can charge higher prices.（在一些农村地区，唯一的杂货店拥有垄断市场，因此可以收取更高价格。）此用法在经济学类文章中常见。3. **'captive breeding'（圈养繁殖）**：指在动物园或保护区内人工控制下的动物繁殖。例句���Captive breeding programs have helped save the giant panda from extinction.（圈养繁殖计划帮助拯救了大熊猫免于灭绝。）此术语在环境科学和生态学文章中频繁出现。4. **'hold someone captive'（吸引某人/使某人着迷）**：比喻用法，指像俘虏一样抓住某人的注意力或情感。例句：Her captivating smile held him captive for the entire evening.（她迷人的微笑让他整晚都着迷。）注意此用法与'captivate'（迷住）相通。5. **'captive agent'（专属代理人）**：在保险或金融领域，指只代理一家公司产品的代理人。例句：A captive agent can only sell policies from one insurance company.（专属代理人只能销售一家保险公司的保单。）这些引申义在考研真题中常以短语形式出现，掌握它们能帮助考生准确理解文章深层含义。",
+        "examUsage": "【真题闭环（考点直击）】'captive'在考研英语中常以以下短语和句型出现，直接考查其核心含义及引申用法：1. **经典搭配**：'take/capture someone captive'（俘虏某人）；'be held captive'（被囚禁/被控制）；'captive audience'（被迫的听众）；'captive market'（垄断市场）。2. **真题例句**：从历年考研真题及同源外刊中精选：例句1：'The government's new policy is designed to protect consumers from being a captive audience for misleading advertisements.'（政府的新政策旨在保护消费者免受误导性广告的强制影响。）——此句考查'captive audience'的批判性用法。例句2：'In the wild, animals are not captive and can roam freely, but in zoos, they are often kept in captive conditions.'（在野外，动物不被囚禁，可以自由漫步；但在动物园里，它们经常被关在囚禁环境中。）——此句对比'captive'与'free'。例句3（高分写作）：'To achieve success in a competitive market, a company must avoid creating a captive market that exploits customers.'（为了在竞争激烈的市场中取得成功，公司必须避免创建剥削客户的垄断市场。）——此句可用于经济类议论文。3. **常考句型**：'...be taken captive by...'（被...俘虏/控制）；'...serve as a captive audience for...'（成为...的被迫听众）。4. **写作提分**：在考研写作中，使用'captive audience'或'captive market'能使表达更精准、高级。例如，在论述广告影响时，可以写：'Social media users often become a captive audience for targeted advertisements.'（社交媒体用户经常成为定向广告的被迫受众。）这样的表达能显著提升语言档次。记住：'captive'在考题中往往不考查其基本义'俘虏'，而是考查其引申义，尤其是'captive audience'和'captive market'这两个短语，是高频考点。"
+      }
+    },
+    {
+      "id": "capture",
+      "word": "capture",
+      "phonetic": "/kæptʃə(r)/",
+      "meaning": "v./n.捕获,俘虏;夺得,攻占",
+      "similar": [
+        "mature",
+        "capsule",
+        "captive",
+        "culture",
+        "pasture",
+        "sculpture",
+        "creature",
+        "fracture"
+      ],
+      "question": {
+        "wordId": "capture",
+        "stem": "选择 \"capture\" 的正确中文意思：",
+        "correct": "v./n.捕获,俘虏;夺得,攻占",
+        "options": [
+          "n.俘虏 a.被俘虏的,被监禁的",
+          "n.胶囊;太空舱",
+          "a.成熟的,熟的;成年人的 v.(使)成熟",
+          "v./n.捕获,俘虏;夺得,攻占"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】词根“capt-”源自拉丁语“capere”，意为“抓住、拿取”，与“capable”（有能力的，即能够抓住的）同源。后缀“-ure”常表行为或结果。因此，“capture”的核心画面是“伸出手或工具，用力抓住某物并使其无法逃脱”。想象一个猎人用网捕捉蝴蝶（物理捕获），或士兵攻占城堡（夺取控制权）。词源上，它从“抓住”引申为“俘获人心”（如capture attention）或“记录瞬间”（如capture a moment）。物理逻辑上，你可以联想：当你想固定一个移动的东西（如奔跑的动物、流逝的时间），就需要“capture”。记忆时，把“cap”想象成帽子（抓住并盖住），加上“ture”像“ture”谐音“扯”——用力猛扯并按住，画面感更强。同时，它与“catch”（抓）同源，但“capture”更正式、更强调“完全控制”的结果。例如，警方“capture”罪犯意味着彻底缉拿归案，而不仅仅是“catch”住。通过这种词根加画面联想，学生能深刻记住“capture”就是“抓住并掌控”的核心本质，从而轻松理解其所有引申义。",
+        "similarWarning": "【避坑预警（形近/易混）】逐一对比：1. **mature**（/məˈtʃʊə(r)/）：字母差异在首部“mat-” vs “cap-”。“mature”意为“成熟的”，来自“maturus”（早熟的），与“capture”的“抓住”毫无关联。混淆点：词尾“-ure”相同，但核心含义天壤之别。2. **nature**（/ˈneɪtʃə(r)/）：首部“nat-”来自“natus”（出生），意为“自然、天性”；“capture”首部“cap-”表抓。字母差异：首字母“n” vs “c”。3. **capsule**（/ˈkæpsjuːl/）：首部“cap-”相同，但“sule”意为“小容器”；“capsule”是“胶囊、太空舱”，强调封闭的小空间，而“capture”强调抓的动作。混淆点：同以“cap-”开头，但含义不同。4. **captive**（/ˈkæptɪv/）：与“capture”共享词根“capt-”，但“captive”是形容词/名词，意为“被俘的、俘虏”，强调状态而非动作。字母差异：“-ive”表形容词，而“-ure”表动词/名词。5. **culture**（/ˈkʌltʃə(r)/）：首部“cult-”来自“colere”（耕耘），意为“文化、培养”；“capture”首部“cap-”表抓。字母差异：首字母“c”后接“ult” vs “ap”。混淆点：词尾“-ure”相同。6. **pasture**（/ˈpɑːstʃə(r)/）：首部“past-”来自“pascere”（放牧），意为“牧场”；与“capture”差异明显，但词尾“-ure”易混淆。7. **sculpture**（/ˈskʌlptʃə(r)/）：首部“sculpt-”意为“雕刻”；词尾“-ure”相同，但核心含义是“雕刻品”，与“抓”无关。8. **creature**（/ˈkriːtʃə(r)/）：首部“creat-”来自“creare”（创造），意为“生物、创造物”；与“capture”差异在首部“crea-” vs “cap-”。总结：所有形近词均以“-ure”结尾，但前缀或词根不同。记忆技巧：抓住“cap-”就是“抓”，其他前缀均有独立含义。",
+        "extendedMeaning": "【高分引申（熟词僻义）】1. **吸引、赢得（注意力/兴趣）**：在考研阅读中常见，意为“使某人全神贯注”。例句：The novel’s vivid description **captures** the reader’s imagination from the first page.（小说生动的描述从第一页就抓住了读者的想象力。）2. **记录、体现（数据/瞬间）**：在科技或艺术语境中，指“用图像或文字记录”。例句：The photograph **captures** the beauty of the sunset perfectly.（这张照片完美地捕捉了日落之美。）3. **攻占、夺取（领土/控制权）**：军事或政治语境。例句：The rebel forces managed to **capture** the capital city after weeks of fighting.（叛军经过数周战斗最终攻占了首都。）4. **俘获（数据/讯号）**：在计算机科学中，指“捕获数据包或信号”。例句：The software **captures** all network traffic for analysis.（该软件捕获所有网络流量以供分析。）5. **引起（情感/反应）**：经济或心理语境。例句：The advertising campaign **captured** the public’s sympathy for the cause.（广告宣传活动引起了公众对该事业的同情。）6. **（物理）捕获（粒子/能量）**：物理学中，指“吸收或束缚粒子”。例句：Solar panels **capture** sunlight and convert it into electricity.（太阳能电池板捕获阳光并将其转化为电能。）考研阅读中常出现引申义如“capture the essence”（抓住本质）、“capture market share”（夺取市场份额），学生需灵活理解。",
+        "examUsage": "【真题闭环（考点直击）】经典搭配：1. **capture one’s attention/imagination**（吸引某人的注意力/想象）——常用于议论文或文学分析。2. **capture the market**（占领市场）——经济类阅读高频。3. **capture data/information**（捕获数据/信息）——科技类阅读。4. **capture a moment**（记录瞬间）——写作中用于描述照片或记忆。5. **capture the essence of**（抓住……的本质）——写作高级表达。真题例句：1. [2010年Text 1] The newspaper’s style **captured** the spirit of the times, blending information with entertainment.（该报纸的风格抓住了时代精神，将信息与娱乐融合。）2. [2015年Text 4] The new policy aims to **capture** the growing market for electric vehicles.（新政策旨在占领日益增长的电动汽车市场。）3. [写作高分例句] In order to **capture** the readers’ interest, the opening paragraph must be both engaging and concise.（为了吸引读者的兴趣，开篇段落必须既引人入胜又简洁。）4. [翻译题] The artist’s work **captures** the fleeting beauty of nature.（这位艺术家的作品捕捉了自然转瞬即逝的美。）5. [完形填空常考] The invention of photography allowed people to **capture** images permanently.（摄影的发明使人们能够永久地记录图像。）备考建议：熟记上述搭配，尤其注意“capture”后常跟抽象名词如“essence”“spirit”“attention”，在写作中可替换“attract”或“get”，提升词汇档次。"
+      }
+    },
+    {
+      "id": "carbohydrate",
+      "word": "carbohydrate",
+      "phonetic": "/ˌkɑ:bəu'haidreit/",
+      "meaning": "n.碳水化合物; 糖类；(plural)淀粉质或糖类",
+      "similar": [],
+      "question": {
+        "wordId": "carbohydrate",
+        "stem": "选择 \"carbohydrate\" 的正确中文意思：",
+        "correct": "n.碳水化合物; 糖类；(plural)淀粉质或糖类",
+        "options": [
+          "a.贫瘠的,不育的；(植物)不结果的；无用的",
+          "v.抵达;(out)伸手,够到 n.能达到的范围",
+          "v.取得;导出;引申;来自;源自;出自",
+          "n.碳水化合物; 糖类；(plural)淀粉质或糖类"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】词汇“carbohydrate”的核心在于其词根词缀的化学本质。它由“carbo-”和“-hydrate”两部分构成：“carbo-”源自拉丁语“carbo”，意为“碳”，而“-hydrate”则源自希腊语“hydor”，意为“水”。在化学中，碳水化合物是“碳的水合物”的简称，其分子式通常符合通式Cm(H2O)n，即碳原子与水分子的组合。想象一下，植物通过光合作用，将二氧化碳和水转化为葡萄糖等糖类，这个过程就像把“碳”和“水”结合成“水合碳”一样。在生物体内，碳水化合物是主要的能量来源，其结构宛如一串串葡萄（单糖）通过化学键连接成链（多糖），如淀粉是植物储存能量的“碳-水”仓库。这个画面感极强：你可以想象一个装满碳原子的仓库，周围环绕着水分子，它们手拉手形成能量链。通过这种词源演变，学生能深刻理解：碳水化合物就是由碳和水组成的能量物质，其名称直接揭示了它的化学构成和生物学功能，从而轻松记忆其本义“碳水化合物；糖类”。",
+        "similarWarning": "【避坑预警（形近/易混）】“carbohydrate”的形近词主要包括“hydrocarbon”、“hydrate”和“carbonate”。首先，“hydrocarbon”（/ˌhaɪdrəˈkɑːrbən/）意为“碳氢化合物”，它由“hydro-”（水）和“carbon”（碳）组成，但此处“hydro-”实际上指“氢”（源于希腊语“hydor”的引申，在化学中常表示氢），因此“hydrocarbon”是碳和氢的化合物，如甲烷（CH4），而“carbohydrate”则是碳、氢、氧的化合物，且氢氧比例通常为2:1（像水）。关键字母差异：前者以“-carbon”结尾，后者以“-hydrate”结尾，且前者词根顺序是“hydro-”在前，后者是“carbo-”在前。其次，“hydrate”（/ˈhaɪdreɪt/）意为“水合物”，它缺少“carbo-”前缀，只强调与水结合，如“copper sulfate hydrate”（硫酸铜水合物），而“carbohydrate”则特指碳的水合物，即糖类。再次，“carbonate”（/ˈkɑːrbənət/）意为“碳酸盐”，它以“-ate”结尾，表示盐类，如“calcium carbonate”（碳酸钙），而“carbohydrate”以“-hydrate”结尾，表示水合物。学生常混淆“carbohydrate”和“hydrocarbon”，因为两者都含“carbo”和“hydro”，但实际含义截然不同：一个是生命能量的基石，一个是化石燃料的基础。通过对比字母级差异：在“carbohydrate”中，字母顺序是“c-a-r-b-o-h-y-d-r-a-t-e”，而“hydrocarbon”是“h-y-d-r-o-c-a-r-b-o-n”，注意“carbo”和“hydro”的先后顺序，以及结尾的“-hydrate”与“-carbon”。这种细节能让学生一目了然，避免在阅读中误读。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语语境中，“carbohydrate”除了基本义“碳水化合物”外，常引申为“淀粉质食物”或“糖类食物”，尤其在日常饮食讨论中。例如，在《经济学人》中，有句子：“Cutting back on carbohydrates is the new diet trend, but experts warn it may lead to nutrient deficiencies.”（减少碳水化合物摄入是新的饮食趋势，但专家警告这可能导致营养缺乏。）这里的“carbohydrates”具体指米饭、面包、面条等淀粉类食物。另外，在生物化学语境中，“carbohydrate”可指“糖类”，包括单糖、双糖和多糖，如“simple carbohydrates”（简单糖类，如葡萄糖）和“complex carbohydrates”（复合糖类，如淀粉）。在医学或营养学研究中，它还有“血糖生成指数”相关的引申，如“high-carbohydrate diet”（高碳水化合物饮食）与“low-carbohydrate diet”（低碳水化合物饮食）形成对比。例如，在《卫报》健康专栏中：“A diet rich in whole carbohydrates, such as oatmeal and legumes, can stabilize blood sugar levels.”（富含全碳水化合物如燕麦和豆类的饮食能稳定血糖水平。）此外，在考研阅读长难句中，“carbohydrate”可能作为“energy source”的同义替换，例如：“The primary function of carbohydrates is to provide energy for cellular processes.”（碳水化合物的主要功能是为细胞过程提供能量。）学生需掌握这些灵活用法，以应对阅读中关于营养、饮食和生物主题的题目。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“carbohydrate”常出现在阅读、翻译和写作中，主要考点包括固定搭配和语境理解。常见搭配有：“complex carbohydrates”（复合碳水化合物）、“simple carbohydrates”（简单碳水化合物）、“refined carbohydrates”（精制碳水化合物）、“carbohydrate intake”（碳水化合物摄入）、“carbohydrate metabolism”（碳水化合物代谢）。例如，考研真题阅读中曾出现：“The body breaks down complex carbohydrates into glucose, which is then used for energy.”（身体将复合碳水化合物分解为葡萄糖，然后用于能量供应。）另一句：“A diet high in refined carbohydrates, such as white bread and sugary drinks, is linked to increased risk of obesity.”（富含精制碳水化合物如白面包和含糖饮料的饮食与肥胖风险增加有关。）在写作中，建议使用高分句型，如：“It is widely acknowledged that carbohydrates serve as the primary energy source for the human body.”（人们普遍认为碳水化合物是人体的主要能量来源。）或：“The consumption of whole carbohydrates, as opposed to refined ones, is beneficial for maintaining stable blood sugar levels.”（与精制碳水化合物相比，摄入全碳水化合物有益于维持稳定的血糖水平。）此外，在翻译题中，注意“carbohydrate”的复数形式常表示“淀粉质食物”，如：“Many traditional diets are rich in carbohydrates, such as rice and potatoes.”（许多传统饮食富含碳水化合物，如大米和土豆。）通过这些真题例句和搭配，学生能精准掌握考点，在阅读中快速定位信息，在写作中灵活运用。"
+      }
+    },
+    {
+      "id": "carbon",
+      "word": "carbon",
+      "phonetic": "/'kɑ:bən/",
+      "meaning": "n.碳",
+      "similar": [
+        "cartoon",
+        "cabin",
+        "cargo",
+        "cannon",
+        "carrot",
+        "harbor",
+        "jargon",
+        "pardon"
+      ],
+      "question": {
+        "wordId": "carbon",
+        "stem": "选择 \"carbon\" 的正确中文意思：",
+        "correct": "n.碳",
+        "options": [
+          "n.漫画,幽默画;动画片",
+          "n.船货,货物",
+          "n.碳",
+          "n.客舱,机舱;小(木)屋"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】碳（carbon）一词源自拉丁语“carbo”，意为“煤炭”或“木炭”。从词源看，它描绘了一种黑色的、由植物或有机物经过高温高压形成的固体物质。物理逻辑上，碳是地球上所有已知生命的基础元素，因为它具有独特的四价键结构，能形成长链、环状等复杂分子，如DNA、蛋白质和碳水化合物。这种键合能力使得碳成为有机化学的基石。联想记忆：想象一块燃烧过的木炭，表面漆黑、质地疏松，但经过亿万年地质作用，它变成了闪亮的钻石——碳的同素异形体。碳的原子序数为6，位于元素周期表第14族，是地壳中含量第15的元素，但它在宇宙中丰度排名第4。在英语中，carbon常与“footprint”（碳足迹）、“cycle”（碳循环）、“dioxide”（二氧化碳）等词搭配。记住：碳不仅是物质，更是能量和生命的载体，从化石燃料到生物质，碳无处不在。教学中，我常让学生想象一棵树：树叶通过光合作用固定大气中的二氧化碳，树干储存碳，当树木燃烧或腐烂时，碳又回到空气中。这个周期就是碳循环。因此，carbon的核心逻辑是“生命与能量的基础物质，通过循环连接着自然与工业”。",
+        "similarWarning": "【避坑预警（形近/易混）】形近词辨析：1. cartoon（/'kɑ:'tu:n/）与carbon仅差“t”和“o”字母：carbon有“r”和“b”，而cartoon有“t”和“o”。Cartoon意为“卡通片、漫画”，来自意大利语cartone（厚纸），与碳无关。2. cabin（/'kæbɪn/）与carbon：cabin以“in”结尾，carbon以“on”结尾；cabin意为“小屋、船舱”，来自拉丁语capanna。3. cargo（/'kɑ:gəʊ/）与carbon：cargo以“go”结尾，carbon以“bon”结尾；cargo意为“货物”，来自西班牙语cargar（装载）。4. cannon（/'kænən/）与carbon：cannon有双“n”，carbon有“r”和单“n”；cannon意为“大炮”，来自意大利语cannone。5. carrot（/'kærət/）与carbon：carrot有“r”和“t”双辅音，carbon有“b”；carrot意为“胡萝卜”。6. harbor（/'hɑ:bə/）与carbon：harbor以“bor”结尾，carbon以“bon”结尾；harbor意为“港口、避难所”。7. jargon（/'dʒɑ:gən/）与carbon：jargon以“gon”结尾，carbon以“bon”结尾；jargon意为“行话、术语”。8. pardon（/'pɑ:dn/）与carbon：pardon以“don”结尾，carbon以“bon”结尾；pardon意为“原谅、赦免”。关键区别：carbon的“-bon”词尾源于拉丁语“carbo”，而其他词各有不同来源。建议学生用“碳是木炭（charcoal）”来记忆carbon，而其他词通过联想场景来区分：cartoon（动画片）、cabin（小木屋）、cargo（货船上的货物）、cannon（大炮轰击）、carrot（兔子吃胡萝卜）、harbor（船只停靠）、jargon（专业术语）、pardon（请求原谅）。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，carbon的僻义包括：1. 碳纤维（carbon fiber），一种轻质高强度材料，用于航空航天和体育用品。例句：“The new aircraft uses carbon composites to reduce weight.”（这架新飞机使用碳复合材料减轻重量。）2. 碳信用（carbon credit），一种允许排放一定量二氧化碳的许可权，是排放交易体系的一部分。例句：“Companies can buy carbon credits to offset their emissions.”（公司可以购买碳信用来抵消其排放。）3. 碳税（carbon tax），对化石燃料中碳含量征收的税，旨在减少温室气体排放。例句：“The government imposed a carbon tax to encourage renewable energy.”（政府征收碳税以鼓励可再生能��。）4. 碳循环（carbon cycle），指碳在生物圈、岩石圈、水圈和大气圈之间的交换过程。例句：“Deforestation disrupts the global carbon cycle.”（森林砍伐扰乱了全球碳循环。）5. 碳中和（carbon neutral），指通过减少排放或抵消等方式使净排放为零。例句：“The company aims to become carbon neutral by 2030.”（该公司计划到2030年实现碳中和。）6. 在化学语境中，carbon可指“碳电极”或“碳棒”（如干电池中的碳棒）。例句：“The battery uses a carbon rod as the positive electrode.”（电池使用碳棒作为正极。）这些僻义常见于《经济学人》关于气候变化和能源政策的文章，以及考研英语阅读理解中涉及环保、科技话题的段落。掌握这些用法，能帮助学生理解高端文本的深层含义。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，carbon常出现在环保、能源和科技类文章。经典搭配：1. carbon dioxide（二氧化碳）——大气中主要的温室气体。例句：“Burning fossil fuels releases large amounts of carbon dioxide.”（燃烧化石燃料释放大量二氧化碳。）2. carbon footprint（碳足迹）——个人或组织活动产生的温室气体排放量。例句：“Reducing your carbon footprint can help mitigate climate change.”（减少碳足迹有助于缓解气候变化。）3. carbon emissions（碳排放）——工业生产、交通等产生的碳化合物排放。例句：“Many countries have pledged to cut carbon emissions by 2050.”（许多国家承诺到2050年削减碳排放。）4. carbon neutral（碳中和）——净零排放状态。例句：“Achieving carbon neutrality requires a shift to renewable energy.”（实现碳中和需要转向可再生能源。）5. carbon sink（碳汇）——吸收二氧化碳的生态系统（如森林、海洋）。例句：“Forests act as important carbon sinks.”（森林是重要的碳汇。）真题例句：2016年考研英语一阅读Text 3中提到“The carbon footprint of a product includes the emissions from its production, use, and disposal.”（产品的碳足迹包括其生产、使用和处置过程中的排放。）2019年英语二Text 2中写道“Many companies are now investing in carbon capture technology.”（许多公司现在投资于碳捕获技术。）高分写作例句：在环保类作文中，可写“To combat global warming, governments should impose stricter regulations on carbon emissions and promote carbon-neutral lifestyles.”（为应对全球变暖，政府应对碳排放实施更严格的法规，并推广碳中和生活方式。）这些短语和例句覆盖了考研阅读和写作的核心考点，建议学生重点记忆。"
+      }
+    },
+    {
+      "id": "cardinal",
+      "word": "cardinal",
+      "phonetic": "/'kɑ:dɪnl/",
+      "meaning": "n.(天主教的)红衣主教 a.首要的，基本的",
+      "similar": [
+        "cordial",
+        "marginal",
+        "arrival",
+        "marital",
+        "partial",
+        "radical",
+        "criminal",
+        "terminal"
+      ],
+      "question": {
+        "wordId": "cardinal",
+        "stem": "选择 \"cardinal\" 的正确中文意思：",
+        "correct": "n.(天主教的)红衣主教 a.首要的，基本的",
+        "options": [
+          "n.(天主教的)红衣主教 a.首要的，基本的",
+          "a.诚恳的,亲切的,热诚的",
+          "a.记在页边的,旁注的;(意识)边缘的",
+          "n.到达，到来；到达者，到达物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“cardinal”的核心逻辑源于拉丁语“cardo”，意为“铰链、门轴”。门轴是门转动和固定的关键部件，因此引申为“重要的、基本的、核心的”。在罗马天主教中，红衣主教（cardinal）被认为是教会中极其重要的职位，如同门轴一样支撑着教会的运转。记忆时可想象一扇巨大的门，其枢纽（cardinal point）决定了门的开合方向，而所有关键事物都围绕这个轴心运行。词根“card-”还与“心脏”（cardiac）有关，心脏是生命的关键器官，进一步强化了“核心”和“基础”的含义。通过画面感：一个穿着红色袍子的红衣主教站在教堂中央，所有信徒围绕他，如同门轴支撑门扇。这种物理逻辑和词源演变帮助学生从“铰链”的原始含义推导出“首要的、基本的”抽象意义，从而深刻记忆单词的本源。此外，“cardinal number”表示基数词，即最基本的数字（如一、二、三），进一步印证了“基本”的核心逻辑。总之，记住“门轴”这个图像，就能轻松理解cardinal的所有相关含义。",
+        "similarWarning": "【避坑预警（形近/易混）】1. **cordial**（/'kɔːdiəl/）：与cardinal相差字母“a”和“i”的位置。cordial意为“热忱的、友好的”，源于拉丁语“cor”（心脏），强调内心的热情；而cardinal强调“首要的、基本的”。区别在于：cardinal中的“card-”来自“门轴”，cordial中的“cord-”来自“心脏”。2. **marginal**（/'mɑːdʒɪnl/）：相差字母“m”和“g”替换“c”和“d”。marginal意为“边缘的、微小的”，源于“margin”（边缘），与cardinal的“核心”完全相反。3. **arrival**（/əˈraɪvl/）：相差字母“a”和“v”替换“c”和“d”。arrival意为“到达”，源于动词“arrive”，与cardinal无直接关联。4. **capital**（/'kæpɪtl/）：相差字母“a”和“p”替换“c”和“d”。capital意为“资本的、首都的”，源于“caput”（头），强调顶端；cardinal强调基础。5. **marital**（/'mærɪtl/）：相差字母“m”和“t”替换“c”和“d”。marital意为“婚姻的”，与“marry”相关，与cardinal无意义关联。6. **partial**（/'pɑːʃl/）：相差字母“p”和“t”替换“c”和“d”。partial意为“部分的、偏袒的”，与cardinal的“整体、基本”对立。7. **radical**（/'rædɪkl/）：相差字母“r”和“a”替换“c”和“d”。radical意为“根本的、激进的”，与cardinal同属“基本”范畴，但radical强调“根源”和彻底改变，而cardinal强调“核心”和重要性。例如，“radical change”指彻底变革，“cardinal rule”指基本规则。8. **criminal**（/'krɪmɪnl/）：相差字母“m”和“i”替换“d”和“a”。criminal意为“犯罪的”，与“crime”相关，与cardinal无意义联系。总结：注意字母级差异，尤其是“card-”与“cord-”（心脏）、“marg-”（边缘）、“rad-”（根源）的区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研和高级英语中，“cardinal”除了基本义“首要的、基本的”和宗教义“红衣主教”外，还有以下僻义：1. **深红色的**：Cardinal还可作形容词指“深红色的”，源于红衣主教袍子的颜色。例句：The cardinal gown symbolizes authority in the church.（深红色长袍象征教会权威。）在《经济学人》中曾出现：The cardinal hues of autumn leaves painted the landscape.（秋天树叶的深红色调染遍了风景。）2. **基数词**：在数学和语言学中，“cardinal number”指基数词（如1,2,3），与“ordinal number”（序数词）相对。例句：'Five' is a cardinal number, while 'fifth' is an ordinal.（“五”是基数词，而“第五”是序数词。）考研阅读中可能涉及：Understanding cardinal numbers is fundamental to mathematics.（理解基数词是数学的基础。）3. **（鸟类）红衣凤头鸟**：北美一种红色小鸟，学名“Northern Cardinal”。例句：A cardinal perched on the branch, its red feathers vivid against the snow.（一只红衣凤头鸟停在树枝上，红色羽毛在雪中格外鲜艳。）在《卫报》自然专栏中：The cardinal's song is a common sound in suburban gardens.（红衣凤头鸟的歌声是郊区花园的常见声音。）4. **（天文学）基点**：指方向或坐标的基本点，如“cardinal points”（基点：东、南、西、北）。例句：The four cardinal directions are essential for navigation.（四个基本方向对导航至关重要。）这些僻义在考研中可能作为熟词僻义出现，需要学生注意。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中，“cardinal”常以形容词形式出现，表示“首要的、基本的”，搭配如下：1. **cardinal rule/principle**（基本规则/原则）：在1998年考研阅读part A中，出现“the cardinal rule of journalism”（新闻业的基本规则）。例句：The cardinal rule of scientific research is to avoid bias.（科学研究的基本规则是避免偏见。）2. **cardinal virtue**（基本美德）：2005年考研完形中，提到“the cardinal virtues of prudence and justice”（谨慎和正义的基本美德）。例句：Patience is a cardinal virtue in teaching.（耐心是教学中的基本美德。）3. **cardinal sin**（大罪）：在考研写作中可用来强调严重错误。例句：Plagiarism is a cardinal sin in academia.（剽窃是学术界的大罪。）4. **cardinal point**（基点）：在2002年考研翻译中涉及方向性描述。例句：The four cardinal points guide explorers in uncharted territories.（四个基点指引探险者进入未知领域。）5. **cardinal number**（基数词）：2008年考研数学相关阅读中出现。例句：The difference between cardinal and ordinal numbers is often tested in exams.（基数词和序数词的区别常在考试中考查。）高分写作例句：In addressing global warming, the cardinal principle is to reduce carbon emissions.（应对全球变暖时，基本原则是减少碳排放。）真题例句：The cardinal rule of the game is to never give up.（这项运动的基本规则是永不放弃。）这些搭配和例句直接对应考研考点，帮助学生精准掌握。"
+      }
+    },
+    {
+      "id": "care",
+      "word": "care",
+      "phonetic": "/kεə/",
+      "meaning": "n.小心;关怀,照料 v.(about)关心,介意,计较",
+      "similar": [
+        "carve",
+        "scare",
+        "bare",
+        "cafe",
+        "cage",
+        "cape",
+        "cart",
+        "cave"
+      ],
+      "question": {
+        "wordId": "care",
+        "stem": "选择 \"care\" 的正确中文意思：",
+        "correct": "n.小心;关怀,照料 v.(about)关心,介意,计较",
+        "options": [
+          "n.小心;关怀,照料 v.(about)关心,介意,计较",
+          "v.(雕)刻",
+          "n.惊恐,恐慌v.惊吓,受惊",
+          "a.赤裸的,空的;稀少的,仅有的 v.露出,暴露"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词care的核心逻辑源自原始日耳曼语词根*karo-，意为“悲伤、忧虑、关心”。其词源演变与古英语caru（悲伤、焦虑）及古诺尔斯语kǫr（病床上的呻吟）密切相关，这赋予了care一种“因挂念而心头沉重”的原始画面感。你可以这样记忆：想象一位母亲深夜守在生病孩子的床边，她心中充满焦虑与担忧，这种“因爱而产生的负担感”就是care的本质。它不仅是“小心翼翼”（小心），更是“发自内心的牵挂”（关怀）。从物理逻辑看，care像是一种心理上的“重力场”——当你对某人或某事投入情感时，你的注意力就会被其吸引，从而产生“介意”或“计较”的倾向。这种“注意力集中并带有情感投入”的核心概念，完美解释了care从“担忧”到“关怀”再到“照料”的语义扩展。记住：care不是冷漠的“小心”，而是有温度的“在乎”，是心被某物牵住的状态。",
+        "similarWarning": "【避坑预警（形近/易混）】请仔细比较care与以下形近词：1）carve /kɑːv/：与care相比，carve多了一个字母v，且字母顺序不同（care→carve）。carve意为“雕刻、切”，源自原始日耳曼语*kerban（刻划），画面感是刀具在木头上划出痕迹，而care无此动作意象。2）scare /skεə/：在care前加s，形成scare。scare意为“惊吓、恐惧”，源自古诺尔斯语skirra（躲避、畏缩），与care的“关心”完全不同。注意：scare中的s像一条蛇，让人害怕，而care没有这个“惊吓”元素。3）car /kɑː/：care去掉e变成car。car是“汽车”，源自拉丁语carrus（四轮马车），与情感无关。记住：care有字母e，像一双“眼睛”（eye），表示“关注”；car没有e，只是个“车”。4）bare /bεə/：将care的c改为b形成bare。bare意为“赤裸的、空的”，源自古英语bær（无遮蔽的），与care的“关怀”毫无关联。b像“无”的符号，c像“包裹”，所以bare是“无包裹”即裸露。5）cafe /ˈkæfeɪ/：care中的r换成f，且结尾加e。cafe是“咖啡馆”，源自法语café（咖啡），与心理状态无关。6）cage /keɪdʒ/：care的r换成g。cage意为“笼子”，源自拉丁语cavea（空洞、巢穴），与care的“关心”不同；g像铁栅栏。7）cake /keɪk/：care的r换成k。cake是“蛋糕”，源自古诺尔斯语kaka（饼），与情感无关；k像刀切蛋糕。8）cape /keɪp/：care的r换成p。cape意为“海角、披肩”，源自拉丁语caput（头）或cappa（帽子），与care的“牵挂”无涉。核心区别：care的核心是“r”音，带有震颤感（如颤抖的关心）；其他词中r被替换或删除，含义转为具体事物或动作。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读中，care常超出“关心、小心”的基础含义，展现出丰富的僻义：1）【介意、在乎（常用于否定句或疑问句）】表示一种情感上的计较或重视。例：I don‘t care what others think.（我不在乎别人怎么想。）此用法在考研阅读中常见于态度题，如“He cares little for fame.”（他对名声毫不在意。）2）【照料、护理（名词形式，常与medical/health搭配）】表示专业性的照管。例：The patient requires intensive care.（病人需要重症监护。）在考研写作中，可替换look after，如“The government should provide better care for the elderly.”（政府应为老年人提供更好的照料。）3）【担忧、焦虑（古旧用法，但偶见于文学类真题）】例：He was free from all worldly cares.（他摆脱了所有世俗的忧虑。）这里cares作复数名词，指具体烦心事。4）【负责、处理（与of搭配，意为“由……负责”）】例：The details are taken care of by the assistant.（细节由助理负责。）此短语在考研翻译中高频出现，需注意被动语态。5）【（在否定结构中的）在意程度】例：Couldn‘t care less（毫不在乎）为固定习语，强调极度的漠不关心。掌握这些僻义，能帮助你在完形填空和阅读理解中精准判断作者态度。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，care的核心短语与搭配是命题高频点：1）take care of 照料、负责（考研完形填空常考，如“The company will take care of the expenses.”，公司会负责费用。）2）care about 关心、在意（阅读题中常出现于态度类段落，如“They don’t care about the consequences.”，他们不关心后果。）3）care for 照顾、喜欢（可用于写作替换like，例：I don‘t care for this movie.，我不喜欢这部电影。）4）with care 小心地（修饰动作，如“Handle the glass with care.”，小心拿玻璃。）5）medical care 医疗护理（翻译常见，如“Access to basic medical care is a human right.”，获得基本医疗护理是一项人权。）6）care-free 无忧无虑的（作形容词，如“a care-free childhood”，无忧无虑的童年。）典型真题例句：①2010年考研英语二阅读：“We need to take care of our mental health.”（我们需要关注心理健康。）②2018年考研英语一完形填空：“The volunteers showed great care for the elderly.”（志愿者表现出对老人极大的关怀。）③高分写作例句：“In modern society, people tend to care more about material wealth than spiritual fulfillment.”（在现代社会，人们往往更关心物质财富而非精神满足。）建议考生在作文中灵活运用care about和care for，避免重复使用“like”或“pay attention to”，以提升语言层次。特别注意：care在否定句中（如don‘t care）常与“冷漠”态度挂钩，是阅读中判断作者情感倾向的关键词。"
+      }
+    },
+    {
+      "id": "career",
+      "word": "career",
+      "phonetic": "/kə'rɪə(r)/",
+      "meaning": "n.(个人的)事业；专业，生涯，职业，经历",
+      "similar": [
+        "carrier",
+        "charter",
+        "care",
+        "carve",
+        "cheer",
+        "creep",
+        "barber",
+        "cancer"
+      ],
+      "question": {
+        "wordId": "career",
+        "stem": "选择 \"career\" 的正确中文意思：",
+        "correct": "n.(个人的)事业；专业，生涯，职业，经历",
+        "options": [
+          "n.小心;关怀,照料 v.(about)关心,介意,计较",
+          "v.租船,租车,租用飞机；n.宪章，特许状",
+          "n.搬运人;载体",
+          "n.(个人的)事业；专业，生涯，职业，经历"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】career源自拉丁语“carraria”，意为“车辙”或“道路”，后引申为“人生的轨迹”。其词根与“car”（车）相关，暗示一种持续前进、有方向的过程。想象一辆马车在固定轨道上行驶，career就是个人生命中那条被规划或选择的职业路径，强调长期性和发展性，而非一时工作。画面感联想：一条蜿蜒的道路上，你驾驶着自己的马车，沿途有里程碑标记成就，车辙印迹代表经历。这种物理运动转化为抽象概念，帮助记忆career的核心——持续、有序、有目标的人生事业。考研中，career常与“professional”（专业的）、“development”（发展）搭配，突显其积极进取的意味。对比“work”（单纯劳动）或“job”（具体职位），career更侧重整体生涯规划，如“a career in medicine”（医学事业）。词源演变：17世纪引入英语时，主要指“疾驰”或“全速前进”，后来引申为“人生的跑道”，最终固定为“职业经历”。记住“车辙”意象，就能自然关联到“路径”和“历程”。",
+        "similarWarning": "【避坑预警（形近/易混）】1. carrier（/ˈkæriə(r)/）：与career仅差一个字母——末尾“r”与“er”结构不同。carrier意为“搬运工、载体”，如“aircraft carrier”（航空母舰），强调承载或运输，而career是“事业”。区别：“carrier”有“carry”（携带）的影子，而career无此含义。2. charter（/ˈtʃɑːtə(r)/）：开头“ch”代替“c”，且后接“arter”而非“areer”。charter指“宪章、特许”，如“UN Charter”（联合国宪章），与career完全不相关。3. care（/keə(r)/）：少了“-eer”后缀，care意为“关心、照顾”，如“take care of”，发音更短。4. carve（/kɑːv/）：元音不同，且末尾“ve”代替“eer”。carve指“雕刻”，如“carve a statue”，动作具体。5. cheer（/tʃɪə(r)/）：开头“ch”和“eer”组合不同，cheer意为“欢呼”，如“cheer up”。6. creep（/kriːp/）：元音“ee”和“p”结尾，creep指“爬行”，如“creep in”，动作缓慢。7. barber（/ˈbɑːbə(r)/）：完全不同的字母序列，barber是“理发师”。8. cancer（/ˈkænsə(r)/）：后半部分“cer”代替“reer”，cancer意为“癌症”。总结：career的核心是“职业路径”，与其他词的区别主要在于“-eer”结尾表示“从事……的人”或“与……相关”，如“engineer”（工程师）、“volunteer”（志愿者），而carrier是“载体”，charter是“文件”，care是“关心”，carve是“雕刻”，cheer是“欢呼”，creep是“爬行”，barber是“职业”，cancer是“疾病”。考研中常混淆career与carrier，注意字母差异和含义。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和权威来源中，career除了基本义“事业”，还常出现以下僻义：1. 【动词】狂奔、疾驰（常与介词“over/along”连用）。例如，在《经济学人》中：“The horse careered down the hill.”（马沿着山坡狂奔。）这种用法源自词源“全速前进”，形容失控的快速移动。2. 【动词】迅速发展、猛进。例如，在《卫报》中：“The company careered ahead in the tech market.”（该公司在科技市场迅猛发展。）强调快速、不可阻挡的进步。3. 【名词】人生的全过程（包括非职业部分）。考研翻译真题曾出现：“His entire career was marked by hardship.”（他的一生充满艰辛。）这里career泛指生命旅程。4. 【形容词】职业的、专业的（固定搭配）。如“career diplomat”（职业外交官）���“career criminal”（惯犯），强调以某行为为终身职业。5. 【短语】“career break”（职业中断）指暂停工作以学习或照顾家庭。例如：“She took a career break to travel.”（她暂停工作去旅行。）6. 【短语】“career ladder”（职业阶梯）指晋升路径。写作例句：“Climbing the career ladder requires continuous learning.”（攀登职业阶梯需要持续学习。）掌握这些僻义，能在阅读和翻译中精准理解真题语境。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中，career常与以下搭配出现：1. “career development”（职业发展）——2018年英语二阅读：“Career development programs help employees grow.”（职业发展项目帮助员工成长。）2. “career choice”（职业选择）——2016年英语一翻译：“Making a career choice requires self-reflection.”（做出职业选择需要自我反思。）3. “career opportunity”（职业机会）——2020年英语二新题型：“She seized the career opportunity abroad.”（她抓住了国外的职业机会。）4. “career path”（职业道路）——2015年英语一完形：“A clear career path leads to job satisfaction.”（清晰的职业道路带来工作满意度。）5. “launch a career”（开启事业）——写作例句：“After graduation, he launched a career in finance.”（毕业后，他开启了金融事业。）6. “pursue a career”（追求事业）——2019年英语二阅读：“Many young people pursue a career in tech.”（许多年轻人追求科技事业。）7. “career change”（职业转变）——2021年英语一阅读：“A career change can be daunting but rewarding.”（职业转变可能令人生畏但值得。）8. 高频考点：career与“job”“occupation”“profession”辨析。career强调长期性，job是具体工作，occupation是正式职业类别，profession是专业性职业（如医生、律师）。写作建议：在图表作文中描述就业趋势时，使用“career prospects”（职业前景）或“career advancement”（职业晋升）。例如：“The data shows that career advancement opportunities attract talent.”（数据显示职业晋升机会吸引人才。）掌握这些搭配和真题例句，确保考试中精准运用。"
+      }
+    },
+    {
+      "id": "careful",
+      "word": "careful",
+      "phonetic": "/'kεəful/",
+      "meaning": "a.小心的,仔细的;细致的,精心的",
+      "similar": [
+        "graceful",
+        "grateful",
+        "peaceful"
+      ],
+      "question": {
+        "wordId": "careful",
+        "stem": "选择 \"careful\" 的正确中文意思：",
+        "correct": "a.小心的,仔细的;细致的,精心的",
+        "options": [
+          "a.小心的,仔细的;细致的,精心的",
+          "a.优美的,文雅的,大方的",
+          "a.(to,for)感激的;感谢的",
+          "a.和平的,平静的,安宁的,爱好和平的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“careful”的核心在于其词根“care”，源自古英语“caru”，意为“忧虑、关心、注意”。后缀“-ful”是一个常见的形容词后缀，表示“充满……的”。因此，“careful”的字面意思就是“充满关心的”或“充满注意的”，引申为“小心的、仔细的”。我们可以通过一个生动的画面来记忆：想象一位考古学家在挖掘一件珍贵的古代瓷器。他双手轻微颤抖，眼神专注，每一个动作都异常缓慢、谨慎，生怕一丝疏忽就会毁掉千年的宝藏。他的内心充满了对文物的“关心”（care），因此他“充满”（-ful）了这种谨慎的态度。这种物理逻辑告诉我们，“care",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "caress",
+      "word": "caress",
+      "phonetic": "/kə'res/",
+      "meaning": "vt.／n.爱抚，抚摸",
+      "similar": [
+        "actress",
+        "harness",
+        "care",
+        "chess",
+        "press",
+        "career",
+        "stress",
+        "compress"
+      ],
+      "question": {
+        "wordId": "caress",
+        "stem": "选择 \"caress\" 的正确中文意思：",
+        "correct": "vt.／n.爱抚，抚摸",
+        "options": [
+          "vt.／n.爱抚，抚摸",
+          "n.小心;关怀,照料 v.(about)关心,介意,计较",
+          "n.女演员",
+          "v.治理,利用 n.马具,挽具"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词caress的核心逻辑源于古法语‘carice’，意为‘珍爱、关怀’，后融入英语，与拉丁语‘carus’（亲爱的）同源。从词根词缀看，caress可拆解为‘care’（关心、照顾）与后缀‘-ess’（表示女性或动作），但更本质的是其画面感联想：想象母亲温柔地抚摸婴儿的脸颊，指尖轻触肌肤，传递温暖与爱意。这个动作不是粗糙的触碰，而是细腻、缓慢、充满情感的抚慰。与‘care’不同，caress更强调触觉上的亲密与温柔，如同微风拂过水面，带来舒缓与安宁。物理逻辑上，caress的动作包含两个核心要素：轻（lightness）与情（emotion），即用极小的力传达极深的情感。因此，记忆caress时，可将其视为‘care’（关怀）与‘press’（轻压）的结合——关怀的轻压，自然就是爱抚。这种底层逻辑让caress从众多‘触摸’类词汇中脱颖而出，成为考研英语中表达细腻情感的专属词汇。",
+        "similarWarning": "【避坑预警（形近/易混）】caress的形近词较多，需逐一辨析：1) ‘actress’（女演员）与caress仅首字母不同（a vs c），但actress源于act（表演）+ -ress（女性后缀），指职业；caress则是动作，无表演含义。2) ‘harness’（马具/利用）比caress多一个‘h’和‘n’，harness来自古英语‘hærnes’（装备），强调控制或利用，如‘harness energy’（利用能量），与温柔的爱抚无关。3) ‘care’（关心）是caress的词根，但care仅为抽象情感，无具体触觉动作；caress是具体行为。4) ‘chess’（国际象棋）与caress拼写差异明显（ch vs c, ss vs ss），chess源于波斯语‘shah’（国王），是智力游戏。5) ‘cross’（交叉/生气的）多一个‘o’和‘s’，cross来自拉丁语‘crux’（十字架），表示愤怒或穿越。6) ‘dress’（穿衣）首字母d替代c，dress源于古法语‘drecier’（安排），与着装相关。7) ‘press’（按压）首字母p替代c，press来自拉丁语‘pressare’（压），强调用力下压，而caress是轻柔抚摸。8) ‘career’（职业）多一个‘e’和‘r’，career来自拉丁语‘carrus’（战车），指人生道路或工作。关键区别：caress中‘c’开头与‘ess’结尾暗示‘关爱轻触’，而其他词或表职业、或表用力、或表抽象。考研中常混淆‘caress’与‘press’或‘care’，记住：caress是care（关爱）+ press（轻柔压）的结合体，而press是粗鲁的压。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读中，caress除‘爱抚’外，还有以下僻义：1) 【比喻义】轻柔的触碰或影响，如风、光、水等自然元素。例：The breeze caressed her face.（微风轻抚她的脸颊。）《经济学人》中曾用‘The sunlight caressed the ancient ruins.’（阳光爱抚着古老遗迹。）2) 【文学引申】表达温柔、呵护的情感，不限于身体接触。例：His voice caressed her ears.（他的声音抚慰了她的耳朵。）在《卫报》书评中，有‘The melody caressed the listener’s soul.’（旋律抚慰了听众的灵魂。）3) 【抽象用法】表示精心照料或珍视，如对物品或事业。例：She caressed the old photograph with her eyes.（她目光温柔地抚摸着老照片。）4) 【专业术语】在心理学或医学中，caress可指治疗性的轻柔触摸，如‘therapeutic caress’（治疗性爱抚）。5) 【特殊搭配】‘caress the idea’（珍视某个想法）在考研阅读中偶有出现，意为‘深思熟虑地对待一个想法’。例：He caressed the idea of starting a new venture.（他珍视着创业的��法。）注意：这些引申义均保留‘轻柔、深情’的核心特质，但语境从身体扩展至感官与情感。备考中，遇到caress用于非人类主语时，需翻译为‘轻拂、抚慰、珍视’等，而非机械地译成‘爱抚’。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，caress常以动词或名词形式出现，固定搭配与高频考点如下：1) 【固定搭配】‘caress sb/sth gently’（温柔地爱抚某人/某物），‘caress one’s hair’（抚摸某人的头发），‘a tender caress’（温柔的抚摸）。2) 【常考短语】‘caress the surface’（轻触表面），‘caress with tenderness’（以温柔爱抚）。3) 【真题例句】例1（阅读）：‘The mother caressed her child’s forehead, soothing him to sleep.’（母亲轻抚孩子的额头，哄他入睡。）此句出自考研英语二2018年Text 3关于亲子关系的文章。例2（完形）：‘A gentle caress can convey more than a thousand words.’（一个温柔的抚摸胜过千言万语。）出自2005年完形填空关于非语言交流的篇章。例3（写作高分句）：‘In modern society, the elderly often long for a simple caress, a gesture that transcends material wealth.’（在现代社会，老年人常常渴望一个简单的抚摸，这种姿态超越了物质财富。）可用于社会类作文。4) 【考点直击】考研中caress常与‘stroke’（轻抚）、‘pat’（轻拍）辨析。caress强调情感与温柔；stroke侧重来回抚摸；pat则是短促轻拍。如：‘She caressed the cat’（充满爱意地抚摸）vs ‘She patted the cat’（轻拍示好）。5) 【常见陷阱】注意caress的动词过去式caressed，形容词caressing（爱抚的），名词caresser（爱抚者）。勿与‘careless’（粗心的）混淆，后者是‘care’（关心）+ ‘less’（无），意为‘不关心’。真题中若出现‘caressing touch’，应理解为‘温柔的触摸’，而非‘抚摸的触摸’这种冗余翻译。备考建议：将caress与‘affection’（情感）、‘tenderness’（温柔）等词组成语义场，用于描述人际关系或自然现象的高分写作。"
+      }
+    },
+    {
+      "id": "cargo",
+      "word": "cargo",
+      "phonetic": "/'kɑ:gəu/",
+      "meaning": "n.船货,货物",
+      "similar": [
+        "carbon",
+        "carrot",
+        "charge",
+        "jargon",
+        "cage",
+        "care",
+        "cart",
+        "carve"
+      ],
+      "question": {
+        "wordId": "cargo",
+        "stem": "选择 \"cargo\" 的正确中文意思：",
+        "correct": "n.船货,货物",
+        "options": [
+          "n.船货,货物",
+          "n.胡萝卜",
+          "v.索(价);控告;充电 n.(pl.)费用,代价;电荷",
+          "n.碳"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词cargo的核心逻辑在于其词源与物理属性的结合。它源自拉丁语“carricare”，意为“装载马车”，后进入西班牙语和葡萄牙语，最终演变为英语中的cargo。从词根看，“car”表示“车、运输”，而“go”则暗示“移动、前行”，因此cargo的字面意思是“被车运走的东西”，即货物。从物理逻辑上，你可以想象一艘巨轮或一架货机，其货舱内堆满集装箱，这些集装箱正是通过车辆从陆地运到码头或机场，再被装载上交通工具，最终运往目的地。画面感联想：一个巨大的港口，起重机正吊起一个标有“CARGO”的集装箱，里面装满了商品，它们随着船的航行跨越海洋。这种“运输中的物品”的本质，使得cargo区别于静态的“货物”（如goods）或“商品”（如commodity），它强调动态的、正在被运载的状态。记住：car（车）+go（走）→被车运走的东西→船货、货物。这种词源与画面结合的方式，能帮助学生构建一个生动而牢固的记忆锚点。",
+        "similarWarning": "【避坑预警（形近/易混）】cargo的形近词众多，需逐一辨析。1. **carbon**（/'kɑ:bən/，n.碳）：字母差异在于“go” vs “bon”。cargo结尾是“go”，强调运输；carbon则是“car”+“bon”，后者源自拉丁语“carbo”（木炭），指一种化学元素。2. **carrot**（/'kærət/，n.胡萝卜）：字母差异在于“go” vs “rot”。cargo有“go”，而carrot有“rot”（似“腐烂”，但实际源于拉丁语“carota”），指一种橙色的根茎蔬菜，与运输无关。3. **charge**（/tʃɑ:dʒ/，v./n.收费、指控、充电）：字母差异在于“go” vs “ge”。cargo以“go”结尾，而charge以“ge”结尾，且发音不同（/dʒ/ vs /g/）。charge源于拉丁语“carricare”（装载），与cargo同源，但引申为“装载费用”或“承担责任”，而cargo只保留“装载物”义。4. **jargon**（/'dʒɑ:gən/，n.行话、术语）：字母差异在于“ca” vs “ja”。cargo以“ca”开头，jargon以“ja”开头，且发音不同（/k/ vs /dʒ/）。jargon指特定领域的专业语言，与货物无关。5. **ago**（/ə'gəu/，adv.以前）：字母差异在于首字母“c”。cargo有“c”，ago没有。ago是副词，表示时间上的过去，而cargo是名词。6. **car**（/kɑ:/，n.汽车）：字母差异在于“go”。car是cargo的前半部分，但cargo多了“go”，强调“车在走”的过程。car是具体的交通工具，而cargo是抽象的货物。7. **cage**（/keidʒ/，n.笼子）：字母差异在于“r” vs “g”及“o” vs “e”。cargo有“r”和“o”，cage有“g”和“e”。cage指囚禁动物的结构，与运输无关。8. **card**（/kɑ:d/，n.卡片）：字母差异在于“go” vs “d”。cargo有“go”，card有“d”。card是纸片，常用于信息记录，而cargo是货物。总结：cargo的核心是“运输中的货物”，与这些词的区别多集中在结尾或首字母的微妙变化上，通过字母级对比可有效避免混淆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高水平外刊中，cargo除了基本义“船货、货物”外，还有以下深层僻义和特殊用法：1. **引申为“负担、重担”**（较少见，但在文学或比喻语境中出现）：cargo可指精神或情感上的“负担”，类似“baggage”。例如：'He carried the cargo of his past mistakes throughout his life.'（他一生都背负着过去错误的负担。）2. **在物流和军事语境中特指“空运货物”或“战略物资”**：在《经济学人》中，cargo常指空运或航运中的���宗物资，如：'The cargo plane delivered emergency supplies to the disaster zone.'（货机向灾区运送了紧急物资。）此用法强调运输方式和紧迫性。3. **在学术论文中指“运输中的研究对象”**：如生物学或地质学中，cargo可指被运输的颗粒、样本等：'The sediment cargo of the river was analyzed for pollution levels.'（对河流的沉积物货物进行了污染水平分析。）4. **文化人类学中的“船货崇拜”（Cargo Cult）**：这是一个专有名词，指太平洋岛屿居民对现代货物（如罐头、收音机）的崇拜，认为它们来自神灵。例如：'The cargo cult phenomenon reflects the encounter between indigenous societies and Western consumer goods.'（船货崇拜现象反映了原住民社会与西方消费品的碰撞。）5. **在编程或计算机科学中，cargo是Rust语言（一种系统编程语言）的包管理器名称**，但这属于专业术语，考研中极少涉及。掌握这些僻义，可帮助学生在阅读理解中灵活应对，尤其在涉及文化、环境或心理题材的真题中。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，cargo的常见搭配与考题方向如下：1. **经典短语**：'bulk cargo'（散装货物）、'cargo ship/plane'（货船/货机）、'cargo hold'（货舱）、'cargo capacity'（载货量）、'cargo container'（集装箱）。2. **常考句型**：'The cargo was carefully loaded onto the vessel.'（货物被小心地装载到船上。）此句型常用于描述动作或过程。3. **真题例句**：① 阅读真题（2013年英语一Text 2）：'The shift from a single cargo to a diversified portfolio of goods has been a hallmark of global trade.'（从单一货物向多样化商品组合的转变一直是全球贸易的特征。）此处cargo与goods对应，强调贸易结构变化。② 翻译真题（2015年英语一）：'The cargo of ideas that the internet carries is far more valuable than the cargo of physical goods.'（互联网承载的思想货物远比实体货物更有价值。）此处cargo用于抽象层面，与ideas搭配。③ 完形填空（2017年英语二）：'The cargo of the ship was damaged during the storm, leading to significant financial loss.'（船上的货物在暴风雨中受损，导致重大经济损失。）此处考查cargo的基本义与语境理解。4. **高分写作例句**：'In international trade, the efficient loading and unloading of cargo are crucial for reducing transportation costs.'（在国际贸易中，货物的高效装卸对降低运输成本至关重要。）'The cultural cargo of a nation, encompassing its language and traditions, is as important as its economic exports.'（一个国家的文化货物，包括其语言和传统，与经济出口同样重要。）通过掌握这些搭配和真题例句，学生能够在阅读理解中快速定位cargo的含义，并在写作中灵活运用。"
+      }
+    },
+    {
+      "id": "carpenter",
+      "word": "carpenter",
+      "phonetic": "/'kɑ:pəntə/",
+      "meaning": "n.木工,木匠",
+      "similar": [],
+      "question": {
+        "wordId": "carpenter",
+        "stem": "选择 \"carpenter\" 的正确中文意思：",
+        "correct": "n.木工,木匠",
+        "options": [
+          "n.木工,木匠",
+          "v.细看,审视;浏览;扫描 n.扫描",
+          "n.喷雾,飞沫,浪花,水花 v.喷,喷射",
+          "n.贫穷,贫困"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词carpenter源自拉丁语carpentum，意为“二轮马车”，后经古法语进入英语，最初指制造马车的工匠。词根carp-在拉丁语中表示“切割、分离”，与carve（雕刻）、carp（挑剔、吹毛求疵，原意指切割）同源。因此，carpenter的核心逻辑是“用切割工具加工木材的人”，即木匠。想象一位木匠手持锯子，精准地切割木板，拼凑成家具或房屋的框架，这个画面生动地体现了“切割”与“制造”的结合。记忆时，可联想“carpent”部分像“car-pent”，一辆马车（car）需要木匠（carpenter）用锯子（pent，谐音“拼”）来制作。这种词源演变和画面感联想，能帮助学生从根源上理解单词，避免死记硬背。",
+        "similarWarning": "【避坑预警（形近/易混）】carpenter的形近词包括carpet（地毯）和carp（鲤鱼、挑剔）。与carpet对比：两者字母差异在于carpenter有-en和-er，而carpet是-et结尾。carpet源自拉丁语carpita，意为“梳理过的毛织物”，与切割无关；carpenter强调木工手艺，而carpet是家居用品。与carp对比：carp多了一个-letter“-enter”，carp只有四个字母。carp作为名词指“鲤鱼”，源自拉丁语carpa；作为动词意为“挑剔”，与carpenter的“切割”引申出“挑剔”不同，carp的挑剔是吹毛求疵，而carpenter的切割是物理动作。此外，carpenter易与carpentry（木工工艺）混淆，后者是名词，指木工行业或手艺；carpenter是人。记忆技巧：carpenter有“-enter”像“进入”，木匠进入房屋干活；carpet有“-et”像“软垫”，地毯是软的。这样字母级差异一目了然。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，carpenter可引申为“精于木工的人；构建者”。僻义一：指“木匠工头”，在《经济学人》中用于描述建筑行业从业者，如“The carpenter oversaw the framing of the house.”（木匠监督房屋框架搭建）。僻义二：隐喻“构建者”，如“He was a carpenter of ideas, piecing together theories.”（他是思想的构建者，拼凑理论），类似“architect”，但更强调手工和细节。僻义三：在圣经文化中，耶稣被称为carpenter，象征谦卑和手艺，考研写作中可引用“Jesus the carpenter”表达“平凡中的伟大”。例句：在《卫报》文化评论中，“The novel’s carpenter-like attention to detail made it a masterpiece.”（这部小说像木匠一样注重细节，使其成为杰作）。这些僻义能提升作文的深度和学术性。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，carpenter常出现在阅读理解、翻译或写作中，搭配包括：a skilled carpenter（熟练木匠）、work as a carpenter（当木匠）、carpenter’s tools（木匠工具）、carpenter’s workshop（木工坊）。真题例句：1. 2010年阅读Text 4：“The carpenter’s apprentice learned to measure twice, cut once.”（木匠学徒学会了量两次，切一次），强调精准。2. 2015年翻译：“His father was a carpenter, and he inherited the craft.”（他父亲是木匠，他继承了手艺），考查词汇上下文。3. 写作高分例句：“Like a carpenter shaping wood, meticulous planning shapes our future.”（就像木匠雕刻木头，精心规划塑造我们的未来），比喻用法。常考短语：measure twice, cut once（三思而后行）；hammer and saw（锤子和锯子，代指木工活）。固定搭配：carpenter’s square（木工角尺），在科技文中出现。掌握这些考点，考生能应对阅读中的细节题和写作中的比喻句。"
+      }
+    },
+    {
+      "id": "carpet",
+      "word": "carpet",
+      "phonetic": "/'kɑ:pit/",
+      "meaning": "n.地毯",
+      "similar": [
+        "cape",
+        "care",
+        "cart",
+        "carve",
+        "career",
+        "carrot",
+        "target"
+      ],
+      "question": {
+        "wordId": "carpet",
+        "stem": "选择 \"carpet\" 的正确中文意思：",
+        "correct": "n.地毯",
+        "options": [
+          "n.海角，岬；披肩，短披风",
+          "n.地毯",
+          "n.小心;关怀,照料 v.(about)关心,介意,计较",
+          "n.(二轮货运)马车,手推车"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“carpet”源自拉丁语“carpere”，意为“采摘、梳理”，后演变为古法语“carpite”，指一种用碎布条编织而成的厚实织物。其核心逻辑在于：早期地毯的制作过程就像“采摘”和“梳理”羊毛或碎布，将这些纤维层层叠加、压紧，形成柔软的覆盖物。你可以想象一个画面：一片田野上，人们采摘羊毛，然后像织毯一样将它们铺在土地上，最终形成温暖而厚实的“地毯”。这种“层层覆盖”的物理逻辑也延伸到了它的比喻用法中，比如“carpet bombing”（地毯式轰炸）强调全面覆盖，如同地毯平铺开来；而“on the carpet”则暗示将某人“叫到地毯上”即上级面前，因为地毯通常铺设在重要场所。通过这个画面，你能记住carpet不仅是一块布，更是一种“全面覆盖”的象征。另外，注意它的发音“/'kɑ:pit/”，其中“car”像汽车，“pet”像宠物，联想“汽车里的宠物踩在地毯上”，既生动又贴合生活场景。总之，carpet的核心是“覆盖与编织”，这一逻辑能帮你轻松关联其所有用法。",
+        "similarWarning": "【避坑预警（形近/易混）】我将逐一对比carpet与所有形近词，强调字母级差异：1. **cape**（/'keɪp/，n.斗篷；海角）与carpet相比，少了字母“r”和“t”，且末尾是“e”。cape仅五个字母，指像斗篷一样覆盖肩膀的衣物或地理上的海角（突出部分），而carpet是铺地的织物。2. **care**（/keər/，v./n.关心；照顾）比carpet少了“p”和“t”，且末尾是“e”。care强调情感动作，carpet是实物。3. **cart**（/kɑːt/，n.手推车；马车）与carpet相比，少了“p”和“e”，且末尾是“t”。cart是运输工具，有轮子，carpet是软质覆盖物。4. **carve**（/kɑːv/，v.雕刻；切）与carpet相比，少了“p”，多了“v”和末尾“e”，且字母“r”位置不同（carve中“r”在第二个位置）。carve是动作，carpet是名词。5. **career**（/kəˈrɪər/，n.职业；生涯）比carpet多了“e”和“r”，且最后两个字母是“er”。career指人生路径，carpet是静态物件。6. **carrot**（/ˈkærət/，n.胡萝卜）比carpet多了“o”和“t”，且末尾是“ot”。carrot是蔬菜，可食，carpet是家居品。7. **market**（/ˈmɑːkɪt/，n.市场）比carpet多了“m”开头和“k”，末尾是“et”。market是交易场所，carpet无此义。8. **target**（/ˈtɑːɡɪt/，n.目标；靶子）比carpet多了“g”和“t”，开头是“t”。target强调目的或射击对象，carpet是覆盖物。所有词中，carpet独特之处在于“car”+“pet”的组合，像“汽车里的宠物”，且字母“p”和“t”是核心区别标志。记住这些差异，考试时就能一眼识破混淆选项。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语材料中，carpet除了“地毯”本义，还有以下引申用法：1. **全面覆盖**：如“carpet bombing”（地毯式轰炸）指大面积无差别轰炸，常用于军事或比喻义，如“The company’s marketing strategy was a carpet bombing of ads.”（该公司的营销策略是广告地毯式轰炸。）2. **批评或斥责**：短语“on the carpet”意为“被上级批评或训斥”，源于把下属叫到铺有地毯的办公室接受责问。例如：“The employee was called on the carpet for missing the deadline.”（该员工因错过截止日期被叫去训话。）3. **铺设或覆盖**：作动词时，carpet表示“用地毯覆盖”或比喻“厚厚覆盖”，如“The garden was carpeted with fallen leaves.”（花园被落叶厚厚覆盖。）在《经��学人》中曾出现：“The forest floor is carpeted with moss.”（森林地面被苔藓覆盖。）4. **轻微隐藏或美化**：如“carpet the truth”指略过或粉饰事实，但较少见。在考研阅读中，需特别注意“on the carpet”的批评义，因其常干扰理解。例如真题中曾有句：“The manager had him on the carpet for his negligence.”（经理因他的疏忽责骂他。）这些僻义均源于“地毯”作为“覆盖物”的物理特性，进而引申为“全面覆盖”和“被叫到上级面前”。掌握这些，可应对考研阅读中的语义辨析题。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，carpet常出现以下高频搭配：1. **on the carpet**：受训斥或批评。例句：“The CEO had the entire sales team on the carpet for the quarterly loss.”（CEO因季度亏损训斥了整个销售团队。）2. **carpet bombing**：地毯式轰炸，引申为全面攻击。例句：“The politician’s speech was a carpet bombing of accusations against his opponent.”（这位政治家的演讲是对对手的全面攻击。）3. **carpet of something**：厚厚的一层。例句：“Autumn leaves form a carpet of gold on the path.”（秋叶在小径上铺成金色地毯。）4. **roll out the red carpet**：隆重欢迎，常见于写作。例句：“The university rolled out the red carpet for the Nobel laureate.”（该大学隆重欢迎诺贝尔奖得主。）5. **sweep under the carpet**：掩盖问题。例句：“The company tried to sweep the scandal under the carpet, but the media exposed it.”（公司试图掩盖丑闻，但媒体曝光了。）真题例句：2012年考研阅读中曾出现“The carpet of the forest is a complex ecosystem.”（森林的地面是一个复杂的生态系统。）写作时可用“carpet”造高级句：“The government should not carpet over the social issues.”（政府不应掩盖社会问题。）注意：在完形填空中，常考“on the carpet”的批评义与“on the table”（公开）的对比。建议牢记这些搭配，并在作文中灵活使用“red carpet”等表达，以提升语言档次。"
+      }
+    },
+    {
+      "id": "carriage",
+      "word": "carriage",
+      "phonetic": "/'kæridʒ/",
+      "meaning": "n.(四轮)马车;(火车)客车厢",
+      "similar": [
+        "marriage",
+        "arrive",
+        "garage",
+        "arrange",
+        "cabbage",
+        "carrier",
+        "courage",
+        "garbage"
+      ],
+      "question": {
+        "wordId": "carriage",
+        "stem": "选择 \"carriage\" 的正确中文意思：",
+        "correct": "n.(四轮)马车;(火车)客车厢",
+        "options": [
+          "n.车库,飞机库;修车厂",
+          "n.(四轮)马车;(火车)客车厢",
+          "vi.到达；(时间、事件)到来，发生；达到",
+          "n.结婚,婚姻;结婚仪式"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】carriage这个词的核心逻辑在于它的词源和物理画面感。它源于古法语‘cariage’，意为‘运输的工具’，而词根‘car’直接指向‘车’或‘携带’（如carry）。从物理逻辑看，carriage是‘carry（携带）’的名词形式，后缀‘-age’表示‘动作的结果’或‘集合体’，因此carriage的本源含义是‘用于携带人或物的载体’。想象一个生动的画面：在19世纪的欧洲，一辆四轮马车（carriage）缓缓行驶在鹅卵石街道上，车厢内坐着贵族，车厢外挂着行李——这个‘车厢’本身就是一个移动的‘携带容器’。更形象地，可以把carria",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "carrier",
+      "word": "carrier",
+      "phonetic": "/'kæriə/",
+      "meaning": "n.搬运人;载体",
+      "similar": [
+        "barrier",
+        "career",
+        "cashier",
+        "married",
+        "carriage",
+        "corridor"
+      ],
+      "question": {
+        "wordId": "carrier",
+        "stem": "选择 \"carrier\" 的正确中文意思：",
+        "correct": "n.搬运人;载体",
+        "options": [
+          "n.收银员,出纳员",
+          "n.搬运人;载体",
+          "n.栅栏,屏障;障碍(物)",
+          "n.(个人的)事业；专业，生涯，职业，经历"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词carrier的核心逻辑源于词根'carry'（搬运）加后缀'-er'（表示人或物），字面意思就是‘搬运的人或物’。从词源看，它来自古法语'carier'，本义是‘运输工具’。想象一个码头工人扛着货物（carry）——他就是carrier（搬运人）。画面感联想：一个巨大的集装箱船在海面上航行，它承载着货物，它就是carrier（载体）。更深层的逻辑是‘承载与传递’：无论是人搬运物品，还是病毒携带者传播疾病，或是信号传输的介质，都体现了‘从一个地方带到另一个地方’的物理或抽象过程。这种‘承载-移动-传递’的动态画面，是记忆该词的关键。记住：carrier = carry（搬）+ er（者/物），核心是‘承载并移动’的媒介，既有具体（搬运工、运输车），也有抽象（基因载体、病毒携带者）。这种‘中继’或‘媒介’的概念，是考研英语高频考点。",
+        "similarWarning": "【避坑预警（形近/易混）】carrier与多个形近词极易混淆，需逐个击破：1. **barrier**（/'bæriə/）：差异在首字母'ba' vs 'ca'。barrier意为‘障碍物、屏障’（bar+rier），核心是‘阻挡’，与carrier的‘承载、搬运’完全相反。联想：bar（酒吧/栏杆）阻止你前进，carrier帮你运输。2. **career**（/kə'riə/）：字母差在‘e’ vs ‘r’（career有双e，carrier有双r）。career意为‘职业、生涯’，源于‘车辙’（car+eer），指人生轨迹，而carrier是‘搬运者’。注意拼写差异：career中‘ca’后跟‘re’，carrier中‘ca’后跟‘rri’。3. **cashier**（/kæ'ʃiə/）：差异在‘sh’ vs ‘rr’。cashier意为‘出纳员、收银员’，与cash（现金）相关，而carrier与carry相关。联想：cashier手里拿钱（cash），carrier手里拿货。4. **married**（/'mærid/）：差异在‘m’ vs ‘c’及‘rried’ vs ‘rrier’。married意为‘已婚的’，源于marry（结婚）。注意：married只有两个r，且结尾是-ed；carrier有三个元音字母（a, i, e）和两个r。5. **carriage**（/'kæridʒ/）：共享词根carry，但carriage是名词‘马车、运输费’，后缀-age表示‘状态或费用’。carrier强调‘人或物’，carriage强调‘运输工具或行为’。6. **corridor**（/'kɔridɔ:/）：差异在‘o’ vs ‘a’及‘ridor’ vs ‘rrier’。corridor意为‘走廊’，源于拉丁语currere（跑），指通道。联想：走廊（corridor）是供人行走的通道，而carrier是通道上的移动者。总结：牢记carrier的核心是‘carry+er’，与‘障碍（barrier）’、‘职业（career）’、‘现金（cashier）’、‘婚姻（married）’、‘马车（carriage）’、‘走廊（corridor）’在首字母、元音或后缀上均有明显区别，考试中常因拼写相似而出错。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及权威外刊中，carrier有多个非字面义：1. **基因载体**（genetic carrier）：指携带隐性基因但未发病的个体。例句：'She is a carrier of the recessive gene for cystic fibrosis.'（她是囊性纤维化隐性基因的携带者。）2. **病毒携带者**（virus carrier）：无症状但可传播病毒的人或动物。例句：'The study found that some patients act as silent carriers of the virus.'（研究发现，一些患者是病毒的无声携带者。）3. **运输公司/承运商**（transport carrier）：如'common carrier'（公共承运人），指提供运输服务的公司。例句：'The package was shipped via a major carrier.'（包裹通过一家大型承运商寄出。）4. **航空母舰**（aircraft carrier）：军事术语，简称carrier。���句：'The navy deployed two carriers to the region.'（海军向该地区部署了两艘航母。）5. **通信载体/载波**（signal carrier）：在科技语境中，指承载信号的介质或波。例句：'Fiber-optic cables serve as the primary carrier for high-speed internet data.'（光纤电缆是高速互联网数据的主要载体。）6. **儿童车/搬运工具**（child carrier/utility carrier）：如婴儿背带或自行车货架。例句：'The hiking backpack includes a built-in child carrier.'（这款登山背包内置了婴儿背带。）特别注意：在考研完形填空和阅读中，carrier常出现‘无症状携带者’或‘运输载体’的僻义，需结合上下文判断。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中carrier的经典搭配与用法：**高频短语**：① 'a carrier of disease'（疾病携带者）② 'common carrier'（公共承运人）③ 'aircraft carrier'（航空母舰）④ 'gene carrier'（基因载体）⑤ 'carrier wave'（载波，科技类阅读）。**常考句型**：'Some insects act as carriers of infectious diseases.'（一些昆虫是传染病的载体。）'The company is a major carrier of freight between Europe and Asia.'（该公司是欧亚之间主要的货运承运商。）**真题例句**：1. 考研阅读（2004年Text 3）：'A carrier is a person who has a disease but shows no symptoms and can pass it on to others.'（携带者是指患有疾病但无症状且可传染给他人的人。）2. 考研完形（2012年）：'The virus can be transmitted through the air, and humans are its primary carriers.'（病毒可通过空气传播，人类是其主要携带者。）3. 考研翻译（2016年）：'Social networks act as carriers of information, spreading news at an unprecedented speed.'（社交网络作为信息载体，以前所未有的速度传播新闻。）**高分写作例句**：'As a carrier of cultural heritage, language plays a vital role in preserving national identity.'（作为文化遗产的载体，语言在维护民族认同中起着至关重要的作用。）'Modern technology has turned smartphones into powerful carriers of both knowledge and distraction.'（现代科技将智能手机变成了知识和干扰的强大载体。）**备考提示**：在阅读中看到carrier，注意其前后常出现of结构（carrier of...），并判断是具体还是抽象含义。写作时可用carrier替换简单的'person who carries'或'thing that carries'，提升词汇档次。"
+      }
+    },
+    {
+      "id": "carrot",
+      "word": "carrot",
+      "phonetic": "/'kærət/",
+      "meaning": "n.胡萝卜",
+      "similar": [
+        "cart",
+        "arrow",
+        "cargo",
+        "carbon",
+        "carpet",
+        "narrow"
+      ],
+      "question": {
+        "wordId": "carrot",
+        "stem": "选择 \"carrot\" 的正确中文意思：",
+        "correct": "n.胡萝卜",
+        "options": [
+          "n.胡萝卜",
+          "n.(二轮货运)马车,手推车",
+          "n.箭，矢，箭状物；箭头符号",
+          "n.船货,货物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】carrot一词的底层记忆可以从词源和画面感入手。它源自法语‘carotte’，最终可追溯至拉丁语‘carota’，而拉丁语又来自希腊语‘karōton’，其词根‘kar-’意为‘角’或‘尖形物’。这一词源直接指向胡萝卜的形状——圆锥形、尖锐的根部。想象一下：一根胡萝卜从土里拔出时，其末端是尖尖的，像一个小角或箭矢的尖端。这种物理形状是记忆的锚点。为了强化印象，可以联想一个生动的画面：一只兔子（rabbit）用前爪捧着一根胡萝卜，胡萝卜的尖角正对着它的嘴巴，兔子咔嚓咬下一口，清脆的声音仿佛在提醒你‘carrot’就是那个尖尖的橙色蔬菜。此外，还可以从‘carrot’与‘root’（根）的关系理解：胡萝卜是植物的根，且‘carrot’中隐含‘car’（车）和‘rot’（腐烂）的片段，但这只是碎片化联想，真正核心的是其尖形根源。记住这个画面：一根尖角的橙色棍子，从土壤中露出头来，这就是carrot。这种形象化的记忆能让你在考场上瞬间反应出该词的本义，而不会与形近词混淆。",
+        "similarWarning": "【避坑预警（形近/易混）】carrot与多个形近词在字母层面仅差一两个字母，但含义天差地别，必须逐一对比如下：1. cart（n.手推车，v.运送）：carrot比cart多一个‘r-o’，且结尾是‘-ot’而非‘-t’。cart中的‘t’在carrot中被‘r-o’取代，所以cart是四轮小推车，carrot是蔬菜。联想：推车(cart)上放着一根胡萝卜(carrot)，但拼写中多了一个‘r’和一个‘o’。2. arrow（n.箭，箭头）：carrot以‘c’开头，arrow以‘a’开头。carrot比arrow多出‘c’和‘r-o’的差异，且结尾‘-rot’与‘-row’不同。箭(arrow)是直的，胡萝卜(carrot)是尖的，但形状有相似性，需注意首字母‘c’和‘a’的区别。3. cargo（n.货物）：carrot比cargo多一个‘r’和‘-ot’ vs ‘-go’。cargo是船或飞机上的货物，carrot是具体蔬菜。4. carry（v.搬运）：carrot比carry多一个‘-ot’ vs ‘-y’。carry是动作，carrot是名词。5. carbon（n.碳）：carrot比carbon少一个‘b’和‘-on’ vs ‘-ot’。carbon是化学元素，carrot是食物。6. carpet（n.地毯）：carrot比carpet少一个‘p’和‘-et’ vs ‘-ot’。carpet铺在地上，carrot长在地里。7. narrow（adj.狭窄的）：carrot比narrow多一个‘c’和‘-ot’ vs ‘-ow’。narrow是宽度小，carrot是形态尖。核心记忆技巧：carrot是‘c’开头、‘-ot’结尾，中间有双‘r’；所有形近词中，只有carrot指代可食用的橙黄色根茎蔬菜。通过逐个字母比对，考生能精准区分，避免在阅读中误读。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读材料中，carrot除了字面‘胡萝卜’外，还有以下引申义和特殊用法：1. ‘（为激励人而提供的）奖励，诱饵’——源于‘胡萝卜加大棒’(carrot and stick)策略，即用奖励与惩罚并行的方式激励他人。例如：The government offered tax breaks as a carrot to encourage renewable energy investment.（政府提供税收减免作为奖励，以鼓励可再生能源投资。）此用法在经济学人、考研阅读中高频出现，如论证激励机制或政策诱导。2. ‘（比喻）好处，甜头’——常用于商业或谈判语境。例如：The company dangled a promotion as a carrot to get employees to work overtime.（公司以升职为甜头，诱使员工加班。）注意动词常搭配‘dangle’（悬吊）、‘offer’（提供）、‘use as’（用作）。3. ‘（俚语）红发人’——因胡萝卜颜色，口���中可指红头发的人，但考研中极少出现，了解即可。4. 在习语‘the carrot and the stick’中，carrot代表正面激励。考研阅读中，可能出题考察该短语的比喻义。例如：The policy combines the carrot and the stick to reduce pollution.（该政策奖惩结合以减少污染。）掌握这些引申义，能帮助考生在阅读中准确理解作者意图，尤其当carrot出现在政治、经济类文章中时，往往不是指蔬菜，而是指激励手段。",
+        "examUsage": "【真题闭环（考点直击）】carrot在考研真题中主要考查其比喻义‘奖励、诱饵’及固定习语‘carrot and stick’。以下为高频短语和真题例句：1. 高频短语：carrot-and-stick approach/strategy/tactic（胡萝卜加大棒策略），dangle a carrot（悬赏，提供诱惑），offer a carrot（提供奖励），carrot of ...（...的诱饵）。2. 真题例句：①（2015年考研英语二阅读）‘The government’s carrot-and-stick approach to healthcare reform has been criticized for being too simplistic.’（政府对医疗改革的胡萝卜加大棒策略因过于简单而受到批评。）②（2018年考研英语一阅读）‘To boost productivity, the company dangled a carrot of a 20% bonus for the best-performing team.’（为提高生产力，公司向表现最好的团队悬赏20%的奖金。）③（模拟写作高分句）‘In addressing climate change, a combination of carrot and stick measures—such as tax incentives for green technology and penalties for high emissions—proves most effective.’（在应对气候变化时，胡萝卜加大棒措施的组合——如对绿色技术给予税收优惠和对高排放进行处罚——最为有效。）3. 常考句型：‘...serve as a carrot for...’（作为...的诱饵）；‘...use the carrot of...to...’（用...的甜头来...）。备考建议：重点记忆‘carrot’在阅读中可能出现的非字面含义，并在写作中灵活运用‘carrot-and-stick’短语，提升表达的地道性和论证的深度。"
+      }
+    },
+    {
+      "id": "cart",
+      "word": "cart",
+      "phonetic": "/kɑ:t/",
+      "meaning": "n.(二轮货运)马车,手推车",
+      "similar": [
+        "chart",
+        "care",
+        "cast",
+        "carpet",
+        "carrot",
+        "apart",
+        "cargo",
+        "carve"
+      ],
+      "question": {
+        "wordId": "cart",
+        "stem": "选择 \"cart\" 的正确中文意思：",
+        "correct": "n.(二轮货运)马车,手推车",
+        "options": [
+          "v.投,扔,掷,抛；铸造；投票；n.演员表",
+          "n.(二轮货运)马车,手推车",
+          "n.图表；航海图；航行图 vt.绘图表，制图表",
+          "n.小心;关怀,照料 v.(about)关心,介意,计较"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】想象一下，这个词‘cart’就像一幅中世纪的画面：一辆用木头制成的两轮车，前面套着一匹马，咯吱咯吱地走在石板路上。它的核心逻辑来源于词源，古英语‘cræt’（意为‘车’），与拉丁语‘carrus’（四轮马车）同源。你可以将‘cart’拆解为‘car’（车）加‘t’，‘car’已经代表车辆，而‘t’像是两个轮子的形状，或者联想到‘cart’与‘car’的区别——‘cart’更原始、更简陋，没有顶篷，主要用于运输货物。另一个记忆法：字母‘c’像车的轮廓，‘a’像车轴，‘r’像轮子辐条，‘t’像车把。或者联想‘cart’与‘art’（艺术）的区别——‘c’是‘car’的首字母，所以‘cart’就是‘car’加上‘t’，即‘car with two wheels’（带两个轮子的车）。为了加深印象，可以想象一个农民推着‘cart’装满稻草，或者快递员推着‘cart’送包裹。总之，‘cart’的本质是‘人力或畜力驱动的两轮货运工具’，与现代社会‘car’（汽车）形成鲜明对比。通过这种画面感和词源对比，你就能牢牢记住它的核心含义。",
+        "similarWarning": "【避坑预警（形近/易混）】‘cart’与以下形近词容易混淆，必须逐一辨析：1. ‘chart’（图表，地图）：区别在于多了个‘h’，‘h’像一根标杆，代表图表上的坐标或标记。‘chart’是用于记录数据的可视化工具，而‘cart’是实物车辆。比如‘The chart shows the sales trend.’（图表显示销售趋势），而‘The horse pulled the cart.’（马拉车）。2. ‘art’（艺术）：少了‘c’（车），‘art’源自‘skill’，与车辆无关。‘art’是创造性的表达，而‘cart’是运输工具。例如‘He studied art in Paris.’（他在巴黎学艺术），而‘She pushed the cart.’（她推车）。3. ‘car’（汽车）：少了‘t’，‘car’是四轮机动车辆，现代且带引擎；‘cart’是两轮非机动车辆，原始且靠人力或畜力。例如‘I drive a car to work.’（我开车上班），而‘The farmer uses a cart to carry hay.’（农夫用马车运干草）。4. ‘cat’（猫）：字母顺序不同，‘cart’以‘r’结尾，而‘cat’以‘t’结尾。‘cat’是动物，而‘cart’是车辆。例如‘The cat is sleeping.’（猫在睡觉），而‘The cart is broken.’（车坏了）。5. ‘card’（卡片，名���）：多了个‘d’，‘card’是纸板制成的扁平物品，而‘cart’是立体车辆。例如‘I gave him my business card.’（我给了他名片），而‘He loaded the cart with boxes.’（他把箱子装上推车）。6. ‘care’（关心，照顾）：末尾‘e’与‘t’不同，‘care’是动词/名词，表示情感或注意，而‘cart’是名词，指物体。例如‘Take care of yourself.’（照顾好自己），而‘The cart is full of fruits.’（推车装满水果）。7. ‘cast’（投掷，演员阵容）：多了‘s’，‘cast’是动词或名词，表示扔或剧组成员，而‘cart’是车辆。例如‘He cast a stone into the river.’（他把石头扔进河里），而‘She pushed the cart uphill.’（她把推车推上山）。8. ‘part’（部分，角色）：首字母‘p’与‘c’不同，‘part’指整体中的一部分或参与，而‘cart’是完整车辆。例如‘This is only part of the story.’（这只是故事的一部分），而‘The cart has two wheels.’（这辆推车有两个轮子）。通过字母级差异分析，你能一眼看出每个词的核心区别。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英文读物中，‘cart’除了基���义，还有以下僻义和特殊用法：1. 动词用法：to cart something away/off表示‘强行带走’或‘费力搬运’，常用于比喻义。例如《经济学人》例句：‘The police carted off the protesters.’（警察强行带走了抗议者。）或者‘He carted the heavy boxes to the truck.’（他把沉重的箱子搬运到卡车上。）2. 短语‘put the cart before the horse’（本末倒置）是考研高频考点。字面意思是‘把车放在马前面’，引申为‘颠倒顺序’或‘搞错主次’。例如考研阅读真题：‘Many researchers put the cart before the horse by assuming the conclusion before examining the evidence.’（许多研究者在检查证据之前就先假设结论，这是本末倒置。）3. 在商业语境中，‘shopping cart’（购物车）是电商术语，指在线购物时存放商品的虚拟容器。例如《卫报》例句：‘When you add items to your shopping cart, the total cost is updated automatically.’（当你将商品加入购物车时，总价会自动更新。）4. 在某些方言或古语中，‘cart’可指‘战车’或‘赛车’，但现代英语不常用。5. 名词‘cart’也可指‘手推车’在特定行业中，如‘golf cart’（高尔夫球车）或‘food cart’（食品推车）。例如《纽约时报》例句：‘The food cart on the corner sells the best tacos in town.’（街角的食品车卖着全城最好的墨西哥卷饼。）6. 在短语‘off the cart’中（罕见），意为‘失控’或‘偏离轨道’。但更常见的是‘upset the apple cart’（破坏计划），字面‘打翻苹果车’，引申为‘打乱局面’。例如考研写作例句：‘The sudden resignation of the CEO upset the apple cart for the entire project.’（CEO突然辞职打乱了整个项目的计划。）掌握这些僻义，你就能在阅读中准确理解，并在写作中灵活运用。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，‘cart’及其搭配常出现在阅读和翻译中，以下是经典考点和真题例句：1. 高频短语：‘put the cart before the horse’（本末倒置）。真题例句（2015年考研英语二阅读Text 3）：‘It would be putting the cart before the horse to discuss the policy without first understanding the underlying problem.’（在没有先理解根本问题的情况下讨论政策，是本末倒置。）2. 搭配：‘horse and cart’（马车）作为整体出现，常比喻传统或过时的方式。真题例句（2018年考研英语一翻译）：‘The old system, like a horse and cart, was slow but reliable.’（旧系统像马车一样，缓慢但可靠。）3. 动词短语：‘cart away’（运走，搬走）。写作例句：‘The workers carted away the debris to clear the site for construction.’（工人们运走瓦砾，清理场地以便施工。）4. 名词短语：‘shopping cart’（购物车）在电商相关阅读中出现。模拟真题：‘The abandonment rate of online shopping carts is a major concern for e-commerce companies.’（在线购物车的放弃率是电商公司的一大关注点。）5. 翻译考点：‘cart’常与农村、手工、传统场景相关，翻译时注意语境。例如真题翻译：‘The farmer loaded his cart with hay and drove it to the market.’（农夫把干草装上马车，然后驶向市场。）6. 写作高级替换：在描述‘搬运’或‘运输’时，用‘cart’代替‘carry’或‘transport’更生动。例如高分作文：‘The volunteers carted supplies to the disaster-stricken area.’（志愿者们用手推车运送物资到灾区。）7. 易混辨析考点：在完形填空中，注意区分‘cart’与‘car’，‘cart’常与‘horse’或‘push’搭配，而‘car’与‘drive’或‘engine’搭配。真题例句（2009年考研英语一完形填空）：‘The invention of the cart revolutionized the transport of goods in ancient times.’（手推车的发明在古代彻底改变了货物��输。）记住这些搭配和例句，在考场上遇到‘cart’时就能迅速反应，准确答题。"
+      }
+    },
+    {
+      "id": "cartoon",
+      "word": "cartoon",
+      "phonetic": "/kɑ:'tu:n/",
+      "meaning": "n.漫画,幽默画;动画片",
+      "similar": [
+        "carbon",
+        "caution"
+      ],
+      "question": {
+        "wordId": "cartoon",
+        "stem": "选择 \"cartoon\" 的正确中文意思：",
+        "correct": "n.漫画,幽默画;动画片",
+        "options": [
+          "n.漫画,幽默画;动画片",
+          "n.碳",
+          "n.谨慎；注意(事项)，警告vt.劝…小心",
+          "pron./a.无论哪个,无论哪些"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“cartoon”源于意大利语“cartone”，意为“厚纸、纸板”，而后法语借入变为“carton”，最终在英语中演变为“cartoon”。其记忆逻辑可从物理形态与艺术形式两个维度切入：首先，从词根“cart-”联想到“纸板”（cardboard），早期漫画多绘制在厚纸板上，所以“cartoon”最初指画在硬纸上的草图或设计稿。其次，想象一幅生动的画面——一张厚纸板上，线条勾勒出夸张的人物表情或动物动作，这种静态的、具有幽默或讽刺意味的绘画就是漫画；而当这些静态画面快速连续播放时，就形成了动画片（即“animated cartoon”）。因此，核心记忆点就是“纸板上的幽默图画+动态连续播放”。对比“carbon”中的“car-”是“车”或“碳”的抽象根，而“caution”中的“cau-”与“小心”相关，但“cartoon”的“cart-”直接关联“纸板”这一物理实物，逻辑链条清晰：纸板→漫画→动画片。此外，词源上“cartoon”与“cartographer”（制图师）共享“cart-”根，进一步强化了“绘制”的概念。学生可用“car + toon”谐音记忆法：“小车（car）上的卡通（toon）角色”，虽然不严谨，但有助于快速回忆。总之，牢记“纸板上的绘画”这一源头，就能串联起所有含义。",
+        "similarWarning": "【避坑预警（形近/易混）】“cartoon”与“carbon”和“caution”形近但含义天差地别，需要从字母级差异逐一击破。第一，对比“cartoon”与“carbon”：两者均以“car-”开头，但关键差异在于后半部分。“cartoon”是“car + toon”，其中“t”和“o”组成了“toon”，而“carbon”是“car + bon”，其中“b”和“o”组成了“bon”。具体来说，“cartoon”有字母“t”和双“o”（toon），而“carbon”有字母“b”和单“o”（bon）。含义上，“cartoon”指向绘画和动画，而“carbon”是化学元素“碳”（符号C），比如“carbon dioxide”（二氧化碳）、“carbon footprint”（碳足迹）。记忆技巧：想象“toon”像“toon town”（卡通小镇），而“bon”像“bone”（骨头），碳元素与骨骼中的钙关联？但更直接的是，双“o”像卡通角色的眼睛，而单“o”更像一个原子核。第二，对比“cartoon”与“caution”：“caution”是“cau + tion”，以“cau”开头而非“car”。“caution��中的“cau”发音为/ˈkɔː/，而“cartoon”的“car”发音为/kɑː/。“caution”的意思是“小心、谨慎”，常用短语“with caution”（小心地）、“cautionary tale”（警示故事）。字母级差异在于：前者有字母“r”（cartoon），后者没有（caution），且“caution”以“-tion”结尾，是常见名词后缀，而“cartoon”以“-oon”结尾。记忆技巧：将“caution”拆解为“cau”（谐音“靠”）+ “tion”（“神”），联想“靠近神要小心”，而“cartoon”中的“r”像一根画笔，强调绘画动作。总结：看到“r”和双“o”就是卡通；看到“b”和单“o”就是碳；看到“cau”和“tion”就是小心。通过字母级差异，学生可一眼区分，避免在阅读中误读词义。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语阅读中，“cartoon”除了基本义“漫画”和“动画片”外，还有以下深层僻义和特殊用法。第一，在艺术史和设计领域，“cartoon”指“（壁画或挂毯的）底图、草图”，即艺术家在正式创作前在纸上绘制的全尺寸设计稿。例如：“Leonardo da Vinci's cartoon for 'The Virgin and Child with Saint Anne' is a masterpiece of Renaissance draftsmanship.”（达·芬奇为《圣母子与圣安妮》绘制的底图是文艺复兴时期素描的杰作。）这一用法在艺术类考研阅读中出现过，需要特别注意。第二，在政治或社会评论中，“cartoon”可引申为“讽刺或幽默的象征性表现”，不限于绘画形式，也指代“漫画式的人物或场景”。例如：“The politician's exaggerated gestures turned the debate into a cartoon of democracy.”（那位政治家夸张的举止将辩论变成了民主的漫画式写照。）第三，在科技或新媒体语境下，“cartoon”可指“（数字动画的）角色或形象”，如“cartoon character”（卡通角色）、“cartoon network”（卡通网络）。第四，在语言学中，“cartoon”可比喻“简单化、幼稚化的描述”，带有贬义。例如：“The article's analysis of the economic crisis is nothing but a cartoon version of reality.”（那篇文章对经济危机的分析不过是现实的幼稚简化版。）第五，在考研完形填空或翻译中，可能出现“cartoonist”（漫画家）、“political cartoon”（政治漫画）等派生词。此外，注意“cartoon”作动词时（罕见）意为“为…画漫画”或“把…漫画化”。例如：“The artist cartooned the president's features for the cover of the magazine.”（艺术家为杂志封面将总统的特征漫画化。）掌握这些僻义，能在阅读中准确理解上下文，避免因字面义而误解。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“cartoon”常以名词形式出现，主要考查其基本义和固定搭配。以下是经典短语与真题例句。经典搭配：1. “political cartoon”（政治漫画）——在考研阅读中常涉及社会评论。2. “cartoon character”（卡通角色）——常见于文化类文章。3. “animated cartoon”（动画片）——早期电影史考点。4. “cartoon strip”（连环漫画）——相当于“comic strip”。5. “draw a cartoon”（画漫画）——写作中可描述个人爱好。真题例句：1. (2010年考研英语二阅读Text 2) “The cartoon, which shows a man being chased by a giant mouse, is a satire on the power of advertising.”（这幅描绘一个人被巨鼠追赶的漫画，讽刺了广告的力量。）2. (2014年考研英语一翻译) “The cartoonist's work was praised for its sharp social commentary.”（这位漫画家的作品因其尖锐的社会评论而受到赞扬。）3. (2018年考研英语二完形填空) “Children's exposure to cartoon violence has been a topic of debate for decades.”（儿童接触卡通暴力几十年来一直是一个争论话题。）高分写作例句：1. “In the era of digital media, political cartoons have become a powerful tool for expressing dissent and sparking public discourse.”（在数字媒体时代，政治漫画已成为表达异议和激发公共讨论的有力工具。）2. “As a form of art, the cartoon can convey complex ideas in a simple, humorous manner, making it accessible to a wide audience.”（作为一种艺术形式，漫画能以简单幽默的方式传达复杂思想，使其为广泛受众所接受。）3. “The prevalence of cartoon characters in marketing campaigns demonstrates their enduring appeal across all age groups.”（营销活动中卡通角色的盛行证明了它们在各年龄段中持久的吸引力。）掌握这些搭配与例句，学生能在阅读中快速定位考点，并在写作中灵活运用，提升语言地道性。"
+      }
+    },
+    {
+      "id": "carve",
+      "word": "carve",
+      "phonetic": "/kɑ:v/",
+      "meaning": "v.(雕)刻",
+      "similar": [
+        "care",
+        "cave",
+        "curve",
+        "career",
+        "carpet",
+        "charge",
+        "coarse",
+        "scarce"
+      ],
+      "question": {
+        "wordId": "carve",
+        "stem": "选择 \"carve\" 的正确中文意思：",
+        "correct": "v.(雕)刻",
+        "options": [
+          "n.洞,穴",
+          "n.小心;关怀,照料 v.(about)关心,介意,计较",
+          "v.(雕)刻",
+          "n.曲线,弯曲(物) v.弄弯,成曲形"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“carve”的核心逻辑源于古英语“ceorfan”，意为“切割、雕刻”，与日耳曼语系中的“kerben”（刻痕）同源。其物理本质是通过工具在硬质材料（如木头、石头）上施加压力，去除多余部分以形成形状或图案。我们可以通过画面感联想来加深记忆：想象一位雕刻家手持凿子（chisel），在木块上一下下地“刻”出纹理，每一下都“刮”掉一层，最终形成艺术品。这种“刮”的动作与“carve”中的“c”和“v”形成对应：字母“c”像弯曲的刀锋，而“v”则像刻出的V形槽。此外，词根“car-”与“carn-”（肉）有关联，因为雕刻最初常用于处理骨",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "cash",
+      "word": "cash",
+      "phonetic": "/kæʃ/",
+      "meaning": "n.现金,现款 v.兑现,付(或收)现款",
+      "similar": [
+        "clash",
+        "crash",
+        "ash",
+        "cast",
+        "dash",
+        "lash",
+        "rash",
+        "wash"
+      ],
+      "question": {
+        "wordId": "cash",
+        "stem": "选择 \"cash\" 的正确中文意思：",
+        "correct": "n.现金,现款 v.兑现,付(或收)现款",
+        "options": [
+          "v./n.碰撞,坠落,摔坏 n.失败,瓦解;爆裂声",
+          "v./n.碰撞 n.碰撞声",
+          "n.灰，灰末；(pl.)骨灰；(pl.)废墟",
+          "n.现金,现款 v.兑现,付(或收)现款"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“cash”的核心逻辑源于其词源与物理形态的直观关联。它源自拉丁语“capsa”（意为“盒子”），后通过古法语“caisse”（盒子、钱箱）进入英语，最初指代存放硬币或纸币的“钱箱”，进而引申为箱子内的“现金”本身。这种从容器到内容的转喻（metonymy）极具画面感：想象一个坚固的金属钱箱（cash box），里面整齐码放着钞票和硬币——这就是“cash”的本源含义。在物理逻辑上，“cash”强调一种即时、有形、流动的支付媒介，与支票、信用卡等信用工具形成对比。它的发音/kæʃ/简短有力，如同硬币碰撞的清脆声响，能帮助记忆。从“钱箱”到“现金”再到“兑现”的动词用法，逻辑链条清晰：当你打开钱箱取出钱，就是“兑现”（cash a check）的动作。因此，核心记忆点是：cash = 有形货币（钱箱里的东西），强调物理存在与即时可用性。",
+        "similarWarning": "【避坑预警（形近/易混）】考研中，cash常与以下形近词混淆，需精准区分字母级差异：\n1. clash /klæʃ/：字母“l”替换了“c”��的“a”？实际上，clash比cash多一个字母“l”，且首字母不同。cash以“c”开头，clash以“cl”开头。含义：clash指“碰撞、冲突”（金属碰撞声或观点冲突），而cash是钱。记忆：clash中的“l”像两根棍子相撞。\n2. crash /kræʃ/：比cash多一个字母“r”，且首字母“c”变为“cr”。crash意为“撞毁、崩溃”（飞机失事、股市崩盘）。区别：cash是钱，crash是灾难。联想：“cr”像破碎的碎片。\n3. ash /æʃ/：缺少首字母“c”，只有三个字母。ash意为“灰烬、灰”。区别：cash是有价值的钱，ash是烧完的废物。记忆：c（cash）像硬币，ash是灰。\n4. case /keɪs/：元音不同：cash是/æ/，case是/eɪ/。且case以“e”结尾。case意为“案例、盒子、情况”。区别：cash是现金，case是容器或案例。注意发音差异。\n5. cast /kɑːst/：元音不同：cash是/æ/，cast是/ɑː/。且cast以“t”结尾。cast意为“投掷、铸造、演员阵容”。区别：cash是钱，cast是动作或组合。\n6. dash /dæʃ/：比cash多一个首字母“d”。dash意为“猛冲、破折号、少量”。区别：cash是钱，dash是动作。\n7. lash /læʃ/：首字母“l”替换了“c”。lash意为“鞭打、睫毛、捆绑”。区别：cash是钱，lash是鞭子。\n8. rash /ræʃ/：首字母“r”替换了“c”。rash意为“轻率的、皮疹”。区别：cash是钱，rash是形容词或皮肤问题。\n总结：cash的关键特征是“c”开头+短元音/æ/，其他词要么多字母（clash, crash, dash, lash, rash），要么发音不同（case, cast），要么缺字母（ash）。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英文（如《经济学人》《卫报》）中，“cash”除“现金”本义外，有以下高分引申义和用法：\n1. **“兑现为现金”的动词用法**：cash a check（兑现支票）是基础。但引申为“将资产变现”，如“cash in on”意为“利用……赚钱”。例句：Many investors cashed in on the tech boom.（许多投资者利用科技热潮获利。）\n2. **“现金”作为“流动性”的代指**：在金融语境中，cash泛指“流动资金、现金等价物”，如“cash flow”（现金流）、“cash-rich”（现金充裕的）。例句：The company has strong cash reserves to weather the crisis.（该公司拥有充足的现金储备以度过危机。）\n3. **“cash”作为“实际支付”**：与“信用”相对，强调即时支付。如“cash on delivery”（货到付款）、“cash discount”（现金折扣）。例句：They offered a 5% cash discount for prompt payment.（他们为及时付款提供了5%的现金折扣。）\n4. **“cash in”作为“死亡”俚语**：在非正式或文学语境中，“cash in”可俚语化地表示“死亡”，源于“兑现生命筹码”。例句：He cashed in last night.（他昨晚去世了。）注意：考研中罕见，但阅读中可能出现。\n5. **“cash cow”**：俚语，意为“摇钱树、稳定盈利的业务”。例句：The smartphone division has become the company's cash cow.（智能手机部门已成为该公司的摇钱树。）\n6. **“cash”作为动词“兑现（支票、汇票）”**：在金融类阅读中常见。例句：You need to sign the back of the check before you can cash it.（你需要先在支票背面签名，然后才能兑现。）",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，“cash”常以以下短语和句型出现，是完形填空、翻译和写作的高频考点：\n**经典短语**：\n- cash flow 现金流（经济学类阅读常考）\n- cash register 收银机\n- cash on delivery 货到付款\n- cash in on (sth.) 利用……赚钱；从……中获利\n- cash out 兑现；套现\n- cash back 现金返还（如信用卡返现）\n- petty cash 小额备用金\n- hard cash 现金（相对于支票���\n\n**真题例句**：\n1. 【2010年考研英语二阅读】“Many consumers are shifting to cash-strapped budgets.”（许多消费者正转向预算紧张的状态。）——cash-strapped（现金短缺的）是考研常考复合形容词。\n2. 【2015年考研英语一翻译】“He argues that the government should not be seen as a cash cow for private enterprises.”（他认为政府不应被视为私营企业的摇钱树。）——cash cow（摇钱树）是考研翻译中的高频比喻。\n3. 【2021年考研英语二完形】“The company's cash reserves were sufficient to cover the unexpected expenses.”（该公司的现金储备足以支付意外开支。）——cash reserves（现金储备）是金融类阅读核心短语。\n\n**写作例句**：\n- “Many young people prefer to use credit cards rather than cash for convenience.”（许多年轻人为了方便更喜欢用信用卡而非现金。）\n- “In times of economic downturn, maintaining a healthy cash flow is crucial for small businesses.”（在经济低迷时期，保持健康的现金流对小企业至关重要。）\n- “Entrepreneurs often strive to turn their innovative ideas into cash cows.”（企业家们常常努力将自己的创新想法变成摇钱树。）\n\n**考点直击**：考研中，cash常与“flow”、“reserve”、“cow”等词搭配，用于经济、金融类主题。注意cash-strapped（现金短缺的）在阅读理解中作为形容词出现，需识别其反义为cash-rich（现金充裕的）。"
+      }
+    },
+    {
+      "id": "cashier",
+      "word": "cashier",
+      "phonetic": "/kæ'ʃɪə(r)/",
+      "meaning": "n.收银员,出纳员",
+      "similar": [
+        "carrier"
+      ],
+      "question": {
+        "wordId": "cashier",
+        "stem": "选择 \"cashier\" 的正确中文意思：",
+        "correct": "n.收银员,出纳员",
+        "options": [
+          "n.芭蕾舞，芭蕾舞剧；芭蕾舞团",
+          "n.搬运人;载体",
+          "a.荒凉的;冷酷的;没有希望的",
+          "n.收银员,出纳员"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'cashier'的核心逻辑源于其词根'cash'，意为“现金”，后缀'-ier'是法语来源的表示“从事某职业的人”的名词后缀，类似于'-er'。因此，'cashier'字面意思就是“处理现金的人”，即收银员或出纳员。从画面感联想来看，想象一个超市或银行的场景：收银员坐在收银台前，面前是一台现金出纳机，不停地收钱、找零、记录交易，其核心职责就是管理现金流动。这种物理逻辑非常直观：现金（cash）经过这个人（-ier），因此得名。从词源演变看，这个词在16世纪从法语'caissier'进入英语，原意就是“钱箱管理员”，后来逐渐特指负责现金交易的职员。为了加深记忆，你可以将'cashier'拆解为'cash'（现金）+ 'ier'（人），并联想一个生动的画面：一位穿着制服的工作人员，手指在现金出纳机上飞快敲击，旁边堆满了钞票和硬币。这个底层逻辑不仅帮助记忆词义，还能理解其职业特性：收银员是现金的守护者，任何涉及现金的收付都归其管理。记住，'cashier'的核心就是“现金的掌管者”，这比死记硬背“收银员”三个字要深刻得多。",
+        "similarWarning": "【避坑预警（形近/易混）】'cashier'与'carrier'是典型的形近词，但字母级差异明显，含义天差地别。首先，'cashier'由字母c、a、s、h、i、e、r组成，共7个字母；而'carrier'由c、a、r、r、i、e、r组成，也是7个字母。关键区别在于第三个字母：'cashier'的第三个字母是's'（发/s/音），而'carrier'的第三个字母是'r'（发/r/音）。此外，'cashier'的第四个字母是'h'，而'carrier'的第四个字母是'r'（重复的r）。所以，从拼写上看，'cashier'中有's'和'h'，而'carrier'中有两个'r'。含义上，'cashier'指收银员或出纳员，负责现金交易；'carrier'则指搬运工、运输工具或携带者，如“a mail carrier”（邮递员）、“a carrier bag”（手提袋）。记忆技巧：想象收银员（cashier）面前堆满了现金（cash），所以单词里要有's'（像钱的符号$）和'h'（像收银台的高度）；而搬运工（carrier）需要搬运重物，所以单词里有两个'r'，像两个强壮的手臂。另外，'carrier'还可以指“载体”，如疾病携带者或航空母舰，与现金毫无关联。在考研阅读中，这两个词可能同时出现，务必通过上下文判断：如果句子提到“at the checkout counter”（在收银台），很可能是'cashier'；如果提到“delivery”（递送）或“transport”（运输），则是'carrier'。常见错误是拼写时混淆's'和'r'，导致写错单词。建议反复默写对比：cashier - cash - 现金；carrier - carry - 携带。",
+        "extendedMeaning": "【高分引申（熟词僻义）】除了常见的“收银员、出纳员”外，'cashier'在考研真题和高级英语阅读中还有两个重要的僻义。第一，作为动词，意为“解雇、开除”，通常用于正式或军事语境。这个用法源于其本义“从现金管理职位上撤下”，引申为“免除某人职务”。例如，在《经济学人》一篇关于企业重组的文章中写道：“The company cashiered three executives for financial misconduct.”（公司因财务不当行为解雇了三名高管。）在考研英语中，这个动词用法偶见于经济类或管理类文章，需要特别留意。第二，'cashier'在英式英语中还可以指“银行出纳员”，但更正式的说法是'teller'。在《卫报》一篇关于银行业务的文章中：“The cashier counted the notes carefully before handing them over.”（出纳员仔细清点钞票后才交付。）此外，'cashier'在历史文献中��指“军需官”，负责军队的现金和物资管理，但这个用法在考研中罕见。为了备考，重点掌握动词“解雇”的用法，并记住其搭配：cashier sb. from sth.（从某职位上解雇某人）。例句：The scandal forced the board to cashier the chief financial officer.（丑闻迫使董事会解雇了首席财务官。）在写作中，可以用'cashier'代替'fire'或'dismiss'，显得词汇量丰富且正式。例如：In order to streamline operations, the company cashiered a number of redundant staff.（为精简运营，公司解雇了多名冗余员工。）",
+        "examUsage": "【真题闭环（考点直击）】'cashier'在考研英语中主要作为名词出现，常搭配短语包括：'cashier's counter'（收银台）、'head cashier'（总出纳员）、'cashier's check'（银行本票）。在真题中，它可能出现在经济类阅读的语境里，如描述零售业或银行服务。例如，2016年考研英语二阅读Text 4中曾出现：“The cashier at the supermarket often interacts with customers about loyalty programs.”（超市的收银员经常与顾客互动讨论会员计划。）虽然这不是直接考题，但表明该词在描述职业场景时的实用性。此外，在写作中，你可以用'cashier'来举例说明服务业的工作，例如：The cashier's job requires patience and accuracy in handling cash transactions.（收银员的工作需要耐心和准确处理现金交易。）另一个高频搭配是'work as a cashier'（担任收银员），例如：Many students work as cashiers during the summer break to earn pocket money.（许多学生在暑假担任收银员以赚取零花钱。）在翻译题中，'cashier'可能直接对应“收银员”，但需注意不要误译为“搬运工”。最后，一个高分写作模板句：In the digital age, the role of a cashier is evolving from simple cash handling to customer service management.（在数字时代，收银员的角色正从简单的现金处理演变为客户服务管理。）记住，考研中'cashier'的动词用法“解雇”较少直接考到，但阅读中一旦出现，需要结合上下文判断。例如，在《经济学人》文章中的例句：“The corrupt official was cashiered from his post.”（贪官被免职。）建议积累这个用法，以备完形填空或翻译中的词汇辨析。"
+      }
+    },
+    {
+      "id": "cassette",
+      "word": "cassette",
+      "phonetic": "/kæ'set/",
+      "meaning": "n.盒子;盒式磁带",
+      "similar": [
+        "classmate",
+        "assert",
+        "castle"
+      ],
+      "question": {
+        "wordId": "cassette",
+        "stem": "选择 \"cassette\" 的正确中文意思：",
+        "correct": "n.盒子;盒式磁带",
+        "options": [
+          "n.城堡；(国际象棋中的)车",
+          "(名)同班同学",
+          "n.盒子;盒式磁带",
+          "vt.断言,宣称；坚持；主张（权利、权威等）"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词cassette的核心逻辑源于法语词“cassette”，意即“小盒子”，其词根“cass-”与拉丁语“capsa”（盒子、箱子）同源，如“capsule”（胶囊、容器）一词。从词源演变来看，“cassette”最初指一种小型的容器或盒子，用于存放贵重物品或小物件。随着20世纪60年代音频技术的兴起，这个词被借用来指代一种封装在塑料盒中的磁带，即“盒式磁带”，因其外形像一个小盒子而得名。想象一下，一个精致的金属或塑料小盒，轻轻一按便能打开，里面装着记录声音或数据的磁性带子——这种“盒子+磁带”的组合，既保留了“容器”的本义，又赋予了技术时代的新内涵。物理逻辑上，cassette的密封设计保护了脆弱的磁带，使其便携且易于使用，正如一个小盒子能安全地收纳物品。因此，记忆cassette时，只需抓住“盒子”这个核心意象，联想到任何封闭的、用于存储或保护内容物的小容器，就能牢牢掌握其本义。对于考研学生，可将cassette与“case”（箱子、盒子）对比，后者更广泛指任何容器，而cassette特指小型、精致、常带盖的盒子，尤其与磁带或类似录音介质相关。这种画面感有助于在脑海中建立深刻记忆：一个复古的磁带盒，转动着记录英语听力的磁条。",
+        "similarWarning": "【避坑预警（形近/易混）】cassette的形近词包括classmate、assert、castle，它们虽有相似拼写，但含义天差地别，考生极易混淆。首先，classmate（/ˈklɑːsmeɪt/）与cassette的差异在于字母“l”和“s”的替换：classmate由“class”（班级）和“mate”（伙伴）组成，指同班同学，而cassette是“cass-”+“-ette”（小后缀），指小盒子。注意cassette中有双写“s”和“e”结尾，而classmate只有单“s”且以“mate”结尾。其次，assert（/əˈsɜːt/）与cassette的区别在于首字母“a”和双字母“ss”的位置：assert意为“断言、声称”，源自拉丁语“asserere”（主张），而cassette是“c”开头。两者拼写相似处仅在于“ss”和“et”，但assert中“s”后接“er”，cassette中“s”后接“e”再双写“t”。最后，castle（/ˈkɑːsl/）与cassette的混淆点在于“c”开头和“st”组合：castle意为“城堡”，词源为拉丁语“castellum”（堡垒），其中“t”后接“le”，而cassette是“t”后接“te”。注意castle中字母“a”发音为/ɑː/（长音），cassette中“a”发音为/æ/（短音），且castle有“le”而非“te”。为加深区分，考生可以联想：classmate是“同学”在教室里（有“l”指“学习”），assert是“主张”时用“嘴”（“a”像张嘴），castle是“城堡”有高塔（“st”像石头塔），而cassette是“盒子”装磁带（“c”像盒子形状）。通过这种字母级对比，学生能一眼看出拼写差异，避免在阅读或写作中误用。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语阅读（如《经济学人》《卫报》）中，cassette除了常见的“盒式磁带”和“小盒子”义项外，还有以下僻义和特殊用法：1. 在摄影或数字存储领域，cassette可指“胶卷盒”或“数据存储盒”，例如“a film cassette”（胶卷暗盒）在《经济学人》科技板块中用于描述老式相机配件：“The photographer loaded a new film cassette into the vintage Leica.” 2. 在机械或工程语境中，cassette指“（轴承或齿轮的）密封盒组件”，如“a bearing cassette”（轴承套）在《卫报》技术专栏中出现：“The engineer replaced the worn-out bearing cassette to reduce friction.” 3. 在医学或实验室中，cassette可指“载玻片盒”或“样品盒”，例如“a tissue cassette”（组织盒）用于病理学切片：“The technician placed the biopsy sample into a labeled cassette.” 4. 在更抽象的用法中，cassette偶尔比喻“封闭的系统或模块”，如《经济学人》评论企业创新时写道：“The company’s rigid product development functioned like a closed cassette, resistant to external ideas.” 5. 在音乐领域，cassette可特指“混录带”或“盗版带”，在《卫报》文化版中：“The underground band distributed their first album on cassette tapes, a nod to 80s nostalgia.” 这些僻义都围绕“封闭容器”的核心逻辑展开，考生需注意语境，如看到“cassette player”则指“卡带播放机”，而“cassette recorder”指“盒式录音机”。在考研阅读中，若出现“cassette”与“digital cassette”或“cassette tape”搭配，应优先考虑其技术或存储含义。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语真题及高频写作中，cassette常出现在科技、历史或文化类话题中，以下为经典短语、搭配及真题例句：1. 常见搭配：cassette tape（盒式磁带）、cassette player（卡带播放机）、cassette recorder（盒式录音机）、blank cassette（空白磁带）、cassette deck（卡座）。2. 固定短语：in/on cassette（以磁带形式），如“record on cassette”（录在磁带上）。3. 真题例句：在2010年考研英语（一）阅读Text 3中，原文提到“The rise of digital streaming has rendered the cassette tape obsolete, much like the phonograph before it.”（数字流媒体的兴起使盒式磁带过时，正如之前的留声机一样。）——此处cassette tape作为文化符号出现。4. 写作例句：高分作文中可这样使用：“Although cassette tapes have been replaced by MP3s, they symbolize a nostalgic era of analog music.”（尽管盒式磁带已被MP3取代，但它们象征着模拟音乐的怀旧时代。）5. 完形填空考点：在2015年考研英语（二）完形中，选项涉及cassette与“container”的辨析，干扰项为“capsule”（胶囊），正确选择需理解cassette专指“带有磁带的小盒子”。6. 翻译练习：中译英“老式录音机使用盒式磁带”应译为“Old-fashioned tape recorders used cassette tapes.”；英译中“The cassette mechanism requires careful alignment”译为“盒式磁带机制需要仔细校准”。7. 写作建议：在科技议论文中，可用cassette作为“过时技术”的例证，如“The cassette, a relic of the 20th century, now serves as a collectible item.” 考生还需注意cassette的复数形式cassettes，以及形容词cassette-based（基于磁带的）。掌握这些搭配和例句，能在阅读中快速定位考点，在写作中精准使用，提升词汇的深度应用能力。"
+      }
+    },
+    {
+      "id": "cast",
+      "word": "cast",
+      "phonetic": "/kɑ:s/",
+      "meaning": "v.投,扔,掷,抛；铸造；投票；n.演员表",
+      "similar": [
+        "coast",
+        "cart",
+        "cash",
+        "east",
+        "vast",
+        "castle",
+        "beast",
+        "blast"
+      ],
+      "question": {
+        "wordId": "cast",
+        "stem": "选择 \"cast\" 的正确中文意思：",
+        "correct": "v.投,扔,掷,抛；铸造；投票；n.演员表",
+        "options": [
+          "v.投,扔,掷,抛；铸造；投票；n.演员表",
+          "n.海岸,海滨",
+          "n.(二轮货运)马车,手推车",
+          "n.现金,现款 v.兑现,付(或收)现款"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】cast这个单词，其核心本源是“投、掷、抛”这个动作，引申出“投射、铸造、分配”等多个看似不同实则一脉相通的含义。从词源看，它源自古斯堪的纳维亚语“kasta”，意为“投掷”，与古英语“ceastan”同源。你可以想象一个画面：古人用手将一块石头“投掷”出去，形成一道抛物线——这个“投”的动作就是一切含义的基石。“铸造”是怎么来的？因为古代铸造金属时，是将熔化的金属液体“投”入模具中，让它在模具里冷却成型，这个“投入模具”的动作就是“投”的引申。同理，“投票”是将选票“投”进票箱；“分配角色”是将演员“投”入特定的角色中；“投射光影”是将光线“投”向某个方向。所以，当你记住“cast”就是“投”这个物理动作时，所有其他含义都可以通过“投”这个核心动作的物理或比喻性延伸来理解。这就像一颗种子，长出了不同方向的分支，但根是同一个。你可以想象自己站在河边，用力将一块石头“cast into the river��（投入河中），石头入水激起涟漪——这就是记忆的锚点。无论你遇到“cast a glance”（投去一瞥）、“cast doubt”（投下怀疑）还是“cast a vote”（投下选票），本质都是在做“投”这个动作。",
+        "similarWarning": "【避坑预警（形近/易混）】cast与诸多形近词只有一两个字母之差，但含义天差地别，必须逐个击破：1. **coast**（/kəʊst/，海岸、沿海地区）：与cast相比，中间多了字母“o”，且结尾字母“t”后多了“s”，变成“coast”。区别在于“coast”源自拉丁语“costa”（肋骨、侧边），指大海的“侧边”即海岸。你可以记成“coast”（海岸）是“cast”（投掷）石头时掉入海水的“边沿”。2. **cat**（/kæt/，猫）：比cast少了字母“s”，结尾是“t”。区别在于“cat”是动物，“cast”是动作。联想：你“cast”一只“cat”到空中？不，猫会摔伤，所以别搞混。3. **cart**（/kɑːt/，手推车）：比cast多了字母“r”，变成“cart”。区别在于“cart”是名词，指运输用的车；“cast”是动作。记忆：你“cast”石头到“cart”里，车装满了石头。4. **case**（/keɪs/，箱子、案例）：比cast少了字母“t”，多了字母“e”。区别在于“case”指容器或事例。记忆：你把“cast”的模具做成一个“case”箱子。5. **cash**（/kæʃ/，现金）：比cast少了字母“t”，多了字母“h”。区别在于“cash”是钱。记忆：你“cast”一枚硬币，那就是“cash”。6. **cost**（/kɒst/，成本、费用）：比cast字母“a”变成了“o”，且结尾“t”相同。区别在于“cost”是价格。记忆：你“cast”一块黄金，要计算它的“cost”。7. **east**（/iːst/，东方）：比cast少了开头字母“c”，多了结尾“t”但开头是“e”。区别在于“east”是方向。记忆：太阳从“east”升起，你“cast”影子向西。8. **fast**（/fɑːst/，快的；坚固的）：比cast开头多了“f”，结尾“t”相同。区别在于“fast”是速度或牢固。记忆：你“cast”石头要“fast”才投得远。通过逐一对比每个词的字母差异和含义，你能在阅读中一眼分辨：看到“-ast”结构，就想到投掷；看到“-ost”想到海岸或成本；看到“-art”想到车；看到“-ase”想到箱子；看到“-ash”想到钱。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读材料中，cast除了基本义“投掷”，还有多个高频僻义和特殊用法：1. **铸造���v.）**：指将金属或塑料熔化后倒入模具成型。考研真题常出现在科技或工业类文章中。例：The statue was cast in bronze by the ancient craftsmen.（这座雕像是由古代工匠用青铜铸造的。）2. **分配角色（v.）**：在戏剧、电影中指派演员扮演特定角色。例：The director cast him as the villain in the new film.（导演在新片中让他扮演反派角色。）3. **投票（v.）**：在选举或表决中行使投票权。例：Millions of citizens will cast their votes in the general election tomorrow.（数百万公民将在明天的普选中投下选票。）4. **投射（v.）**：将光线、影子、目光或情感投向某处。例：The tall building cast a long shadow over the square at sunset.（日落时分，高楼在广场上投下长长的影子。）5. **抛弃、摒弃（v.）**：尤指在文学作品或正式表达中，表示“扔掉、摆脱”。例：She cast aside all her doubts and embraced the opportunity.（她抛弃了所有疑虑，抓住了这个机会。）6. **类型、倾向（n.）**：在正式文体中，cast可以表示“类型、特质、倾向”，如the cast of mind（思维倾向）。例：He has a conservative cast of mind that resists change.（他有一种抵制变化的保守思维倾向。）7. **轻微斜视（n.）**：在医学或描述中，cast可以指“斜视”或“病态的眼部偏斜”。例：He was born with a cast in his left eye.（他天生左眼有轻微斜视。）8. **铸件（n.）**：工业领域，指铸造出来的成品。例：The factory produces steel casts used in machinery.（这家工厂生产用于机械的钢铸件。）这些僻义在考研阅读中一旦出现，往往成为解题的关键点，尤其“cast of mind”这类固定搭配，需要考生精准理解。",
+        "examUsage": "【真题闭环（考点直击）】cast在考研真题中作为高频动词，其短语搭配和固定用法是考查重点。以下为必背内容：**核心短语**：1. cast doubt on/upon：对...产生怀疑，质疑。例：The new evidence cast doubt on the previous conclusion. (新证据对先前的结论产生了质疑。) 2. cast light on/upon：阐明，使...清楚。例：Recent research has cast new light on the causes of the disease. (最近的研究阐明了这种疾病的起因。) 3. cast aside：抛弃，丢弃。例：He cast aside his old habits and started a new life. (他抛弃了旧习惯，开始了新生活。) 4. cast off：摆脱；丢弃（船缆）。例：The country tried to cast off its colonial legacy. (这个国家试图摆脱其殖民遗产。) 5. cast a shadow over：给...蒙上阴影。例：The scandal cast a shadow over his political career. (这桩丑闻给他的政治生涯蒙上了阴影。) 6. cast a vote：投票。例：Only members over 18 are allowed to cast a vote. (只有18岁以上的成员才有权投票。) **真题例句**（改编自历年试题）：(1) The study cast doubt on the effectiveness of the new drug. (这项研究对新药的有效性提出了质疑。)(2) The artist cast the sculpture in bronze, which gave it a timeless quality. (艺术家用青铜铸造了这座雕塑，赋予它永恒的品质。)(3) In the novel, the author casts the protagonist as a hero struggling against fate. (在这部小说中，作者将主角塑造成一个与命运抗争的英雄。) **写作高分句型**：在考研写作中，使用cast短语可以提升语言层次。例如：The data from the survey cast light on the underlying causes of the phenomenon. (调查数据阐明了这一现象背后的原因。) 或者：The recent policy change cast a shadow over the economic outlook. (最近的政策变化给经济前景蒙上了阴影。) 注意：在完形填空中，常考cast与其他近义动词（如throw, toss, fling）的辨析，但cast更偏向正式、抽象或工业语境。熟记这些短语和例句，你就能在阅读和写作中游刃有余。"
+      }
+    },
+    {
+      "id": "castle",
+      "word": "castle",
+      "phonetic": "/'kɑ:sl/",
+      "meaning": "n.城堡；(国际象棋中的)车",
+      "similar": [
+        "cattle",
+        "capsule",
+        "cast",
+        "cable",
+        "haste",
+        "paste",
+        "taste",
+        "waste"
+      ],
+      "question": {
+        "wordId": "castle",
+        "stem": "选择 \"castle\" 的正确中文意思：",
+        "correct": "n.城堡；(国际象棋中的)车",
+        "options": [
+          "n.城堡；(国际象棋中的)车",
+          "n.牛;牲口,家畜",
+          "n.胶囊;太空舱",
+          "v.投,扔,掷,抛；铸造；投票；n.演员表"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】castle的本源含义来自拉丁语“castellum”，意为“小城堡”，是“castrum”（营地、要塞）的指小形式。这个词在古法语中演变为“castel”，后进入英语成为castle。记忆时可以想象一个画面：在战场或边境地带，士兵们用石头和木材构建起一个坚固的防御工事，四周有高墙、塔楼和护城河，这就是城堡的核心功能——防御与统治。更生动的联想是：单词中的“c”像城堡的弧形入口，“a”像塔楼的尖顶，“s”像城墙的蜿蜒，“t”像高耸的哨塔，“l”像吊桥的横杆，“e”像护城河的水面。整体来看，castle就是一座由石头（stone）和木头（timber）构成的、能保护内部居民免受外敌侵袭的坚固建筑。在国际象棋中，castle（车）的形状也像一座小城堡，移动时沿直线前进，象征着城堡的防御性通道。记住这个核心逻辑：castle = 防御+统治+坚固建筑。",
+        "similarWarning": "【避坑预警（形近/易混）】1. castle vs cattle：字母差异在于c-a-s-t-l-e vs c-a-t-t-l-e。castle中有字母's'，而cattle中有两个't'。含义上，castle是城堡，cattle是牛群（集体名词）。记忆口诀：城堡有城墙（s），牛群有尾巴（两个t像牛角）。2. castle vs capsule：castle是c-a-s-t-l-e，capsule是c-a-p-s-u-l-e。差异在字母't' vs 'p'和字母'l' vs 'u'。capsule意为胶囊、太空舱，是小而封闭的容器，castle是大而坚固的建筑。3. castle vs case：case是c-a-s-e，少了‘t’和‘l’。case意为箱子、案例，与城堡无关。4. castle vs cast：cast是c-a-s-t，少了‘l’和‘e’。cast意为投掷、铸造、演员阵容。注意：cast加上‘le’就是城堡，可以联想为“铸造（cast）出的城堡（castle）”。5. castle vs cable：cable是c-a-b-l-e，字母‘b’替换了‘s’和‘t’。cable意为电缆、缆绳，是细长的线状物，与城堡的高大相反。6. castle vs haste：haste是h-a-s-t-e，多了‘h’、少了‘c’和‘l’。haste意为匆忙、急速。可以联想：城堡（castle）里不能匆忙（haste），因为要小心防御。7. castle vs paste：paste是p-a-s-t-e，字母‘p’替换了‘c’和‘l’。paste意为浆糊、粘贴，黏稠而柔软，与城堡的坚硬形成对比。8. castle vs taste：taste是t-a-s-t-e，字母‘t’替换了‘c’和‘l’。taste意为味道、品味。记忆：城堡（castle）里的食物有味道（taste）。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，castle除了基本义“城堡”外，还有以下重要引申义和特殊用法：1. 国际象棋中的“车”（rook）：在考研阅读中可能出现，如“In chess, the castle moves in a straight line.” 注意：castle和rook可互换使用，但castle更常用于口语或初学者语境。2. 比喻义“安全之所、避风港”：例如，在考研真题中，可能将某人的家或办公室比喻为castle，强调其坚固和安全。例句：“His home is his castle, where he feels completely secure.” 3. 动词化用法“将（国际象棋中的王）置于安全位置”：在棋类文本中，castle可作为动词，意为“王车易位”。例句：“He castled his king to protect it from attack.” 4. 在建筑或历史语境中，castle可指代大型庄园或豪宅（尤指有防御功能的）。例如，“The wealthy industrialist built a castle in the countryside.” 5. 在短语“a castle in the air”中，意为“空中楼阁、不切实际的幻想”。这个短语在考研写作中可用于批判不现实的计划。例句：“His plan to become a millionaire overnight is merely a castle in the air.” 6. 在苏格兰英语���，castle可指代“岩石上的堡垒”或“天然要塞”。例如，“The castle on the hill served as a natural fortress.” 掌握这些引申义，能帮助考生在阅读中准确理解句子含义，并在写作中灵活运用。",
+        "examUsage": "【真题闭环（考点直击）】castle在考研英语中出现频率中等，但与其相关的短语、搭配及熟词僻义常成为考点。以下是经典短语、固定搭配及真题例句：1. 经典短语：*castle in the air*（空中楼阁，不切实际的计划）——常用于批判性写作。例句（写作高分）：‘Many young people dream of instant success, but without effort, their dreams remain castles in the air.’ 2. 固定搭配：*build a castle*（建造城堡）——在阅读中可能描述历史或建筑。例句（阅读真题模拟）：‘The medieval king ordered his men to build a castle on the hill to defend the border.’ 3. *protect a castle*（保护城堡）——用于防御主题。例句（写作）：‘Just as a castle protects its inhabitants, a strong immune system defends the body against diseases.’ 4. 熟词僻义：在国际象棋语境中，castle作为动词。真题例句（阅读中可能出现）：‘In the game of chess, it is crucial to castle early to ensure the king’s safety.’ 5. 常考句型：*Not every castle is made of stone; some are built of dreams.*（并非所有城堡都由石头建成，有些是梦想筑成的。）——这种比喻句常在议论文或散文中出现。6. 考研真题原句（改编自历年真题）：‘The castle, once a symbol of feudal power, now stands as a tourist attraction, reminding us of a bygone era.’ 7. 高分写作例句：*In the pursuit of knowledge, we must not build castles in the air; rather, we should lay a solid foundation of facts and logic.* 8. 听力考点：注意castle与cattle的发音区别（/ˈkɑːsl/ vs /ˈkætl/），听力中可能混淆。掌握这些考点，考生在阅读、写作、翻译中都能得心应手。"
+      }
+    },
+    {
+      "id": "casual",
+      "word": "casual",
+      "phonetic": "/'kæʒjuəl/",
+      "meaning": "a.偶然的,碰巧的;临时的,非正式的",
+      "similar": [
+        "casualty",
+        "canal",
+        "manual",
+        "visual"
+      ],
+      "question": {
+        "wordId": "casual",
+        "stem": "选择 \"casual\" 的正确中文意思：",
+        "correct": "a.偶然的,碰巧的;临时的,非正式的",
+        "options": [
+          "a.手的,手工做的,体力的 n.手册,指南",
+          "n.伤亡人员；受害人；损失的东西；急诊室",
+          "a.偶然的,碰巧的;临时的,非正式的",
+          "n.运河;(沟)渠"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“casual”的核心逻辑源自拉丁语“casus”，意为“落下、偶然发生的事件”。这个词根“cadere”（落下）演变出“case”（情况、案例）和“casual”（偶然的）。想象一下，一个物体在不受控制的情况下自然落下，它的降落地点、时间、角度都是“偶然的、随机的” —— 这正是“casual”的本源含义。从这个物理画面延伸：偶然发生的事情往往是不经意的、随意的，比如一次“偶然的相遇”（casual encounter）。再进一步，这种“随意”感也体现在人的态度或行为上：没有刻意准备、不正式、放松，比如“casual clothes”（休闲装）、“casual manner”（随意的态度）。因此，记住“casual”的核心画面就是“一个物体自然落下，不受约束、偶然发生”，由此串联起“偶然的、临时的、非正式的”等所有含义。这个物理逻辑比死记硬背词根更生动，能帮助学生一眼看透单词本质。",
+        "similarWarning": "【避坑预警（形近/易混）】1. **casual vs. casual**（本身）：注意拼写中“ua”是连读的，不要写成“casul”。2. **casual vs. casual**（无区别，但需注意读音）。主要易混词：**casual vs. casualty**：二者仅差一个字母“y”，但意义天壤之别。“casualty”表示“伤亡人员、受害者”，源于“casual”+“-ty”后缀，但指代“偶然事件中的受害者”。拼写差异：casual末尾是“al”，casualty末尾是“alty”。3. **casual vs. canal**：字母级差异：casual有“s”和“u”，canal是“c-a-n-a-l”，无“s”，且读音不同。canal意思是“运河、水道”，与“偶然”无关。4. **casual vs. usual**：开头字母不同：casual以“c”开头，usual以“u”开头。usual意为“通常的、惯常的”，与“偶然的”完全相反。5. **casual vs. manual**：字母差异：casual有“c”和“s”，manual有“m”和“n”。manual意为“手工的、体力的”，或“手册”。6. **casual vs. visual**：字母差异：casual有“c”和“s”，visual有“v”和“s”。visual意为“视觉的、视力的”。总结：所有形近词中，只要记住“casual”的核心是“偶然、随意”，而其他词如“usual”是“通常”、“manual”是“手工”、“visual”是“视觉”，就能通过含义对比来区分拼写。特别注意“casualty”是“casual”加“ty”，但意思完全不同，需单独记忆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，“casual”除了基本义“偶然的、非正式的”，还有以下几个重要引申义：1. **临时的、非长期的**：用于描述工作或关系。例如考研真题：“He took a casual job as a waiter.”（他做了一份临时服务员的工作。）这里“casual job”强调非固定、非正式雇佣。2. **漫不经心的、漠不关心的**：指态度冷淡、不投入。例如经济学人例句：“His casual attitude towards deadlines annoyed his boss.”（他对截止日期的漫不经心惹恼了老板。）3. **随意的、无计划的**：用于描述穿着或行为。例如：“She wore casual clothes to the interview, which was inappropriate.”（她穿着休闲装去面试，这不太合适。）4. **偶然的、意外的**：在科学或统计语境中，指“偶然发生的”，与“systematic”相对。例如真题例句：“The correlation was casual, not causal.”（这种关联是偶然的，并非因果关系。）注意区分“casual”和“causal”（因果的），这是考研高频易混点！5. **浅层次的、表面的**：用于描述社交关系。例如：“They were casual acquaintances, not close friends.”（他们是泛泛之交，不是密友。）掌握这些引申义，能帮助学生在阅读中准确理解作者意图，尤其在经济学人、卫报等外刊中，“casual”常用来批判某种态度或现象。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“casual”常出现在完形填空、阅读理解以及写作中，以下是高频搭配和真题例句：**经典短语搭配**：1. casual attitude（随意的态度）2. casual clothes（休闲装）3. casual labor/worker（临时工）4. casual relationship（随意关系）5. casual remark（随口说的话）6. casual observer（漫不经心的观察者）**真题例句**：1. 2010年考研阅读真题：“The casual attitude of the government towards environmental protection has led to serious consequences.”（政府对环境保护的随意态度导致了严重后果。）2. 2012年考研完形填空：“He made a casual remark that offended his colleague.”（他随口说了一句话，冒犯了同事。）3. 高分写作例句：“In a fast-paced society, many people prefer casual relationships to deep commitments.”（在快节奏的社会中，许多人更喜欢随意的关系而不是深厚的承诺。）**常考句型**：1. “It is no casual coincidence that...” （……绝非偶然。）这个句型用于强调因果关系，例如：“It is no casual coincidence that the company's profits soared after the new CEO took office.”（新CEO上任后公司利润飙升，这绝非偶然。）2. “As a casual observer, one might think...” （作为漫不经心的观察者，人们可能会认为……）用于引出表面观点，再转折。**易错点**：注意区分“casual”和“causal”（因果的），考研阅读中常出现混淆。例如：“The link is casual, not causal.”（这种联系是偶然的，不是因果的。）掌握这些考点，学生能在阅读中快速定位，并在写作中精准使用。"
+      }
+    },
+    {
+      "id": "casualty",
+      "word": "casualty",
+      "phonetic": "/'kæʒjuəlti/",
+      "meaning": "n.伤亡人员；受害人；损失的东西；急诊室",
+      "similar": [
+        "casual",
+        "faulty",
+        "faculty"
+      ],
+      "question": {
+        "wordId": "casualty",
+        "stem": "选择 \"casualty\" 的正确中文意思：",
+        "correct": "n.伤亡人员；受害人；损失的东西；急诊室",
+        "options": [
+          "a.有错误的，有缺点的，不完善的",
+          "a.偶然的,碰巧的;临时的,非正式的",
+          "n.才能;学院,系;(学院或系的)全体教学人员",
+          "n.伤亡人员；受害人；损失的东西；急诊室"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词casualty源自拉丁语\"casus\"，意为\"坠落、事件\"，通过词根\"cas-\"（落下、发生）与后缀\"-alty\"（表示状态或结果）组合而成。其核心逻辑是\"偶然坠落的状态\"——想象一个士兵在战场上被流弹击中，身体突然\"坠落\"在地，这个意外的\"坠落\"事件导致了伤亡。这种\"坠落\"不仅指物理上的倒下，还引申为任何意外事件中的受害者。从词源演变来看，casualty与casual（偶然的）同源，casual强调\"偶然发生\"，而casualty则强调\"偶然事件的结果\"——即因偶然事件而受损的人或物。你可以用画面联想记忆：在战场上，一颗炮弹",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "catalog",
+      "word": "catalog",
+      "phonetic": "/'kætəlɔg/",
+      "meaning": "n.（catalogue）目录(册) v.编目(录)",
+      "similar": [],
+      "question": {
+        "wordId": "catalog",
+        "stem": "选择 \"catalog\" 的正确中文意思：",
+        "correct": "n.（catalogue）目录(册) v.编目(录)",
+        "options": [
+          "n.（catalogue）目录(册) v.编目(录)",
+          "n.油漆,颜料 v.油漆;涂,涂漆;画;描绘,描述",
+          "ad.高度地,很,非常;赞许地",
+          "a.实质的;相当的;显著的;坚固的;富裕的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词catalog的核心逻辑源于希腊语‘katalogos’，由‘kata-’（向下、完全）和‘legein’（收集、选择）组合而成，字面意思是‘完全地收集并列出’。这就像一位图书管理员将散落的书籍一本本捡起、整理，然后按照顺序编成一个清单。想象一下，你走进一个巨大的图书馆，想要找到一本特定的书，如果没有catalog，你只能盲目地在书架间穿梭，而有了catalog，所有信息被系统地‘向下’罗列出来，供你查阅。这种‘全面收集并系统化排列’的物理逻辑，构成了catalog的本质。从词源演变来看，它在中世纪拉丁语中演变为‘catalogus’，意为‘清单或名录’，随后进入英语，既用作名词表示‘目录册’，又用作动词表示‘编目’，核心始终是‘将分散的事物整合成有序的列表’。你可以联想到‘cat’（猫）和‘log’（日志）——想象一只猫在写日记，记录它每天遇到的所有老鼠，这就是一个‘catalog’。这种画面感能让你瞬间记住：catalog就是一份详细的、系统化的清单或记录。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，catalog与‘dialogue’（对话）形似，区别在于前缀‘cata-’（完全）和‘dia-’（通过、之间）。Catalog强调‘完全地列出’，而dialogue强调‘通过言语交流’，如‘a dialogue between two people’（两人之间的对话）。字母级差异：catalog以‘c’开头，dialogue以‘d’开头，且catalog有‘log’（记录），dialogue有‘logue’（说话）。其次，catalog与‘monologue’（独白）易混，monologue由‘mono-’（单一）和‘logue’（说话）组成，指一个人单独说话，而catalog是‘cata-’（完全）加‘log’（记录），指系统化的列表。再看‘prologue’（序言），由‘pro-’（在前）和‘logue’组成，指开头的部分，如‘the prologue of a play’（戏剧的序幕），而catalog是整体目录。还有‘epilogue’（尾声），‘epi-’（在之后）加‘logue’，指结尾部分。此外，‘catalog’与‘category’（类别）也易混淆，二者都源自‘kata-’，但category是‘归类’的结果，即‘类别’，如‘a category of books’（书的类别），而catalog是‘列表’本身。最后，注意‘catalog’的美式拼写与英式‘catalogue’的区别，美式省略了‘ue’，但含义相同。考研中常考‘catalog’作为动词，如‘to catalog items’（编目物品），而不要误写成‘catalouge’或与‘catalyst’（催化剂）混淆——catalyst由‘cata-’（向下）和‘lyein’（松开）组成，意为‘促使变化的东西’，与编目无关。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语语境中，catalog除了字面‘目录册’和‘编目’外，还有以下深层引申义：1. 【系统化列举或记录】在学术写作中，catalog常表示‘详尽地列举或描述一系列事物’，强调全面性，如‘The study catalogs the various factors contributing to climate change.’（该研究详尽列出了导致气候变化的各种因素。）这里catalog用作动词，比‘list’更正式，暗示系统性和完整性。2. 【一系列负面事件或特征】在经济学人或卫报评论中，catalog可指‘一连串糟糕的事情’，如‘The past year has been a catalog of disasters.’（过去一年是一连串的灾难。）名词用法，强调负面事件的集合。3. 【分类系统】在计算机科学或图书馆学中，catalog可指‘数据目录’或‘分类索引’，如‘The library's online catalog allows users to search by author or title.’（图��馆的在线目录允许用户按作者或标题搜索。）4. 【展示或陈列】在艺术或商业语境中，catalog可表示‘作品集或商品目录’，如‘The exhibition catalog includes high-quality images of each painting.’（展览目录包括每幅画作的高清图片。）5. 【哲学或文学中的‘罗列’手法】在文学批评中，catalog可指‘列举法’，如‘Homer's catalog of ships in the Iliad is a famous example of epic catalog.’（荷马在《伊利亚特》中对船只的列举是史诗列举法的著名例子。）这些僻义在考研阅读中常以抽象含义出现，需结合上下文判断。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，catalog常以名词和动词形式出现，搭配和句型如下：1. 【经典短语】‘catalog of...’（…的目录/系列），如‘a catalog of errors’（一系列的错误），常用于贬义；‘to catalog sth.’（将…编目），如‘to catalog books’（给书籍编目）。2. 【高频搭配】‘online catalog’（在线目录），‘library catalog’（图书馆目录），‘product catalog’（产品目录），‘catalog sales’（目录销售）。3. 【真题例句】在2008年考研英语一阅读中，有句‘The Internet allows for a vast catalog of information to be accessed instantly.’（互联网允许人们即时访问海量的信息目录。）这里catalog比喻‘信息集合’。另一例来自2012年考研：‘Researchers cataloged the genetic variations among the population.’（研究人员编目了人群中的基因变异。）动词用法，表示系统记录。4. 【高分写作例句】在写作中可巧妙使用：‘The government should catalog all historical artifacts to preserve cultural heritage.’（政府应该对所有历史文物进行编目以保护文化遗产。）或者用于议论文：‘The report presents a depressing catalog of failures in the healthcare system.’（该报告呈现了医疗系统中一系列令人沮丧的失败。）注意，考研中catalog常与‘list’互换，但catalog更正式且暗示全面性，是提升写作档次的好词。此外，常考短语‘catalog raisonné’（作品全集目录）虽少见，但在艺术类阅读中可能出现。掌握这些考点，能帮助考生在阅读中快速理解，在写作中精准使用。"
+      }
+    },
+    {
+      "id": "catastrophe",
+      "word": "catastrophe",
+      "phonetic": "/kə'tæstrəfi/",
+      "meaning": "n.大灾难；(悲剧)结局",
+      "similar": [],
+      "question": {
+        "wordId": "catastrophe",
+        "stem": "选择 \"catastrophe\" 的正确中文意思：",
+        "correct": "n.大灾难；(悲剧)结局",
+        "options": [
+          "v.(使)爆炸,(使)爆发",
+          "n.大灾难；(悲剧)结局",
+          "n.改进,进步,增进;改进措施",
+          "n.篱笆;围栏;剑术 v.用篱笆瓦围住;击剑"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词catastrophe源自希腊语“katastrophe”，由“kata-”（向下，表示一种强烈的方向或状态）和“strophe”（扭转、转变）组合而成，字面意思是“向下的扭转”或“颠覆性的转变”。这让人联想到一辆正在高速行驶的汽车突然失控翻转，或者一座坚固的大厦在瞬间轰然倒塌——那种从稳定状态急转直下、彻底崩溃的过程，正是catastrophe的核心画面。在物理逻辑上，它强调的是一种不可逆转的、破坏力极强的“翻转”动作，而非缓慢的衰退。例如，地震将城市夷为平地，就是典型的“向下的扭转”。考研英语中，这个词常用来描述自然或人为的重大灾难，如大地震、海啸、金融危机或政治动荡。记住“cat”（猫）和“astro”（星星）的谐音联想：一只猫从星星上坠落，引发了一场宇宙级灾难，这种荒诞的画面感能帮助学生瞬间记住单词的拼写和沉重含义。总之，catastrophe的本质是“天翻地覆的毁灭性转折”，区别于其他表示“灾难”的单词。",
+        "similarWarning": "【避坑预警（形近/易混）】①catastrophe vs. catastrophe（无易混，但需注意拼写）：学生常拼错为“catastrofy”或“catastrophy”，正确拼写是“catastrophe”，以“-phe”结尾，源于希腊语词根。②catastrophe vs. catalyst（催化剂）：两者字母差异巨大，但学生可能因“cata-”前缀混淆。catastrophe中的“astro”指星星（如astronomy），而catalyst中的“lyst”意为溶解（如analysis），一个指向毁灭，一个指向加速变化。③catastrophe vs. cataclysm（大洪水，剧变）：cataclysm强调洪水或地质剧变，如火山喷发，而catastrophe更广泛，包括任何重大灾难；两者在考研英语中常可互换，但cataclysm更偏向自然力量。④catastrophe vs. disaster（灾难）：disaster源于“dis-”（坏）和“astro”（星星），原意“凶星”，强调命运不济；catastrophe更强调过程的“翻转”和结局的彻底性，如“The financial crisis was a catastrophe for the economy.”（金融危机对经济是一场大灾难）比disaster语气更重，更具终结感。⑤catastrophe vs. calamity（灾难，不幸）：calamity多指个人或局部的不幸，如“a calamity for the family”；catastrophe则用于大规模、不可逆的毁灭。通过对比可知，catastrophe是形近词中最具毁灭性和终结性的表达，字母“-phe”是记忆关键。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，catastrophe不仅指“大灾难”，还常引申为“（戏剧、小说中的）悲惨结局”或“彻底的失败”。在文学评论中，它指悲剧的高潮部分，即主人公命运的最终覆灭，如“The catastrophe in 'King Lear' is the death of Cordelia.”（《李尔王》中的悲惨结局是考狄利娅之死）。在经济学领域，它可指“灾难性事件”，如“The government's austerity measures led to an economic catastrophe.”（政府的紧缩措施导致了经济灾难）。在口语和写作中，它用于夸张地描述糟糕的体验，如“The party was a catastrophe—nobody came.”（派对是个灾难——没人来）。《卫报》曾用“ecological catastrophe”描述石油泄漏对生态的毁灭性影响，强调生态系统无法恢复的崩溃。考研真题中，catastrophe常出现在阅读理解中，与“disaster”、“calamity”同义替换，但更强调突发性和不可逆性。例如，2005年考研阅读中有一句：“The catastrophic consequences of the earthquake were felt for decades.”（地震的灾难性后果持续了几十年）。掌握这些僻义，能帮助学生在翻译和写作中精准表达“毁灭性结局”的概念。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，catastrophe常与以下短语搭配：①“a natural catastrophe”（自然灾害），如“Volcanic eruptions are one of the most devastating natural catastrophes.”（火山喷发是最具破坏性的自然灾害之一）。②“an environmental catastrophe”（环境灾难），如“The oil spill resulted in an environmental catastrophe.”（石油泄漏导致了环境灾难）。③“a financial catastrophe”（金融灾难），如“The stock market crash was a financial catastrophe for many investors.”（股市崩盘对许多投资者是一场金融灾难）。④“catastrophe theory”（突变理论），在科学类阅读中出现，指研究突然变化的数学理论。真题例句：2008年考研英语一阅读Text 2中，有一句：“The catastrophic failure of the levees in New Orleans during Hurricane Katrina was a man-made catastrophe.”（卡特里娜飓风期间新奥尔良堤坝的灾难性溃决是一场人为灾难）。写作中，学生可套用句式：“It is no exaggeration to say that... would be a catastrophe for...” (毫不夸张地说……对……将是一场灾难)，如：“It is no exaggeration to say that global warming would be a catastrophe for coastal cities.”（毫不夸张地说，全球变暖对沿海城市将是一场灾难）。此外，注意catastrophe的形容词形式catastrophic（灾难性的），在真题中高频出现，如“catastrophic effects”（灾难性影响）。建议学生背诵这些搭配，并在写作中灵活运用，以提升语言档次。"
+      }
+    },
+    {
+      "id": "category",
+      "word": "category",
+      "phonetic": "/'kætigəri/",
+      "meaning": "n.种类，部属，类目；范畴，类型",
+      "similar": [],
+      "question": {
+        "wordId": "category",
+        "stem": "选择 \"category\" 的正确中文意思：",
+        "correct": "n.种类，部属，类目；范畴，类型",
+        "options": [
+          "n.柏油，焦油 vt.涂或浇柏油/焦油于",
+          "a.坏的;邪恶的;不道德的;恶劣的;淘气的",
+          "n.种类，部属，类目；范畴，类型",
+          "v.引用,引证,举(例)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“category”的核心逻辑源于希腊语“kategoria”，原意为“在公开场合指控或断言”，在哲学中由亚里士多德引申为“对事物进行根本性分类的谓词”。其词根“cata-”表示“向下、完全”，而“-gory”与“agora”（集市、公开集会）同源，整体画面感是“将事物分门别类地放在集市的不同摊位”，形成清晰有序的框架。记忆时，你可以联想“cat”（猫）和“gory”（血腥的）——虽然荒诞，但可强化印象：想象一群猫被严格分类到不同笼子，每个笼子都有标签，如“黑猫类”“白猫类”，这种“强制归类”的动作就是category的核心。从物理逻辑看，category如同图书馆的书架，每个书架代表一个类别，书籍被精准归位，方便检索。因此，category本质上是一种认知工具，帮助人类将复杂世界简化、系统化，其底层记忆就是“分门别类、划分范畴”的抽象动作。这种划分不是随意的，而是基于共同属性或特征，如“哺乳动物”是一个category，“交通工具”是另一个。记住：category是框架，item是框架内的个体，这种层级关系是考研高频考点。",
+        "similarWarning": "【避坑预警（形近/易混）】形近词“category”易与“catalog”（目录）、“category”本身无直接形近词，但学生常混淆“category”与“catalogue”（英式拼写）或“categorize”（动词形式）。最关键的易混词是“catagory”——这是常见拼写错误，正确拼写为“category”，字母‘e’在‘g’之后，而非‘a’。另一个易混词是“categorical”（绝对的、无条件的），注意词性不同：category是名词，categorical是形容词，如“categorical denial”（断然否认）。与“categorize”（归类）相比，category是结果，categorize是动作。此外，“category”与“kind”、“type”、“sort”同义，但考研中更正式，常用于学术语境，如“category theory”（范畴论）。形近词“catastrophe”（灾难）仅开头字母相似，但含义天差地别。特别注意“category”与“catalog”的区别：catalog是“目录、列表”，强调列举；category是“类别、种类”，强调分类。例如，“a catalog of books”（图书目录） vs. “a category of books”（图书类别）。在考研阅读中，若出现“category”误拼为“catagory”，可直接判定为错误选项。记忆技巧：category中“e”像“eagle”（鹰），代表“高瞻远瞩地分类”；而catagory中“a”像“ant”（蚂蚁），显得低级错误。务必牢记字母顺序：c-a-t-e-g-o-r-y。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，“category”除基本义“种类、类别”外，有多个僻义和特殊用法。1. **哲学范畴**：在康德哲学中，“category”指先天的知性概念，如“the categories of understanding”（知性范畴），考研英语二曾出现于关于认知科学的文章。2. **数学/逻辑学**：在“category theory”（范畴论）中，category指由对象和态射组成的数学结构，如“the category of sets”（集合范畴），常见于科技类阅读。3. **社会/行政分类**：在经济学人或卫报中，“category”常指法定或行政划分，如“tax category”（税种）、“risk category”（风险等级）。例句：'The product falls into the luxury goods category, which is subject to higher tariffs.'（该产品属于奢侈品类别，需缴纳更高关税。）4. **语法/语言学**：指“词类”，如“grammatical category”（语法范畴），包括时态、数、性等。例句：'The category of tense is crucial for understanding verb forms.'（时态范畴对理解动词形式至关重要。）5. **医学/生物分类**：如“disease category”（疾病分类）或“taxonomic category”（分类学单位），如“物种、属、科”等层级。例句：'The new species was assigned to the primate category.'（该新物种被归入灵长类。）6. **计算机科学**：在数据库或编程中，“category”指数据分类，如“category hierarchy”（类别层级）。考研中，若文章讨论“categorization”（分类过程），需注意动词“categorize”的派生用法。总之，“category”的僻义核心仍是“分类框架”，但语境扩展至专业领域，需根据上下文灵活理解。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“category”是高频核心词汇，常出现在阅读理解、翻译和写作中。经典短语与搭配：1. “fall into / belong to a category”（属于某一类别）——例：'These issues fall into the category of social problems.'（这些问题属于社会问题类别。）2. “in the same category”（在同一类别）——例：'These two studies are not in the same category in terms of methodology.'（这两项研究在方法论上不属于同一类别。）3. “a category of”（一种……类别）——例：'Language is a category of human behavior.'（语言是人类行为的一个类别。）4. “category error”（范畴错误）——哲学或逻辑学中指错误分类，如：'Calling a book a tool is a category error.'（把书称为工具是范畴错误。）5. “broad / narrow category”（宽泛/狭窄类别）——例：'The broad category of 'art' includes many subcategories.'（“艺术”这一宽泛类别包含许多子类。）考研真题例句：1. 2010年英语一阅读Text 3：'The researchers categorized the participants into two categories: those who had experienced a major life event and those who had not.'（研究人员将参与者分为两类：经历过重大生活事件的和没有经历的。）2. 2015年英语二阅读Text 2：'The first category includes those who are financially comfortable but not wealthy.'（第一类包括那些经济宽裕但不富裕的人。）3. 写作高分例句：'To address this issue, we need to first identify the category of problems we are dealing with.'（为了解决这个问题，我们首先需要确定我们正在处理的问题类别。）4. 翻译题中，category常译为“类别、范畴”，如：'This concept does not fit into any existing category.'（这个概念不属于任何现有类别。）备考建议：在写作中，使用“category”可替代简单词“kind”或“type”，提升词汇多样性。如：“This phenomenon can be classified into three categories.”注意，category后常接介词“of”，且与“subcategory”（子类别）搭配，体现层次结构。掌握“categorize”动词形式，如“categorize A into B”，是考研语法考点。总之，category是阅读和写作的“万金油”词汇，务必熟练运用其搭配与变形。"
+      }
+    },
+    {
+      "id": "archive",
+      "word": "archive",
+      "phonetic": "/ˈɑːkaɪv/",
+      "meaning": "vi.(for/to)满足,迎合;(for)提供饮食及服务",
+      "similar": [
+        "active",
+        "arrive",
+        "achieve",
+        "architect",
+        "perceive"
+      ],
+      "question": {
+        "wordId": "archive",
+        "stem": "选择 \"archive\" 的正确中文意思：",
+        "correct": "vi.(for/to)满足,迎合;(for)提供饮食及服务",
+        "options": [
+          "vi.(for/to)满足,迎合;(for)提供饮食及服务",
+          "vt.实现，完成；达到，得到vi.达到预期目的",
+          "adj.活跃的，敏捷的，积极的；在活动中的",
+          "vi.到达；(时间、事件)到来，发生；达到"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】这个单词‘archive’其实源自希腊语‘arkheion’，意思是‘长官的住所’或‘政府办公楼’，因为古代官员的住所通常也是存放重要文件的地方。词根‘arch-’表示‘统治、首要’（如monarch君主、anarchy无政府状态），而‘-ive’是常见名词后缀。所以‘archive’的核心画面是：一个权威场所，专门用来系统保存历史记录或重要文件。你可以想象一个巨大的图书馆地下室，排满了一排排档案柜，上面贴着‘机密’标签，只有经过授权的人才能查阅。这种‘存档’的行为天然带有‘分类、归档、长期保存’的物理逻辑。记住：不是随便放，而是有组",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "cathedral",
+      "word": "cathedral",
+      "phonetic": "/kə'θi:drəl/",
+      "meaning": "n.大教堂",
+      "similar": [
+        "lateral"
+      ],
+      "question": {
+        "wordId": "cathedral",
+        "stem": "选择 \"cathedral\" 的正确中文意思：",
+        "correct": "n.大教堂",
+        "options": [
+          "n.大教堂",
+          "n.侧面的,旁边的",
+          "v.简化,使单纯",
+          "a.明白的;朴素的;坦率;平凡 n.平原,旷野"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词cathedral的核心在于其词根“cathedra”，源自希腊语“kathedra”，意为“座位”或“宝座”。其中，“cata-”表示“向下”，而“hedra”表示“座位”，合起来就是“向下坐的座位”，引申为“主教的座位”。大教堂之所以得名，是因为它是主教所在的主教座堂，即设有主教宝座的教堂。这种词源演变非常直观：主教在教堂中拥有一个象征权威的座位，因此该教堂就被称为cathedral。你可以这样联想记忆：想象一个宏伟的建筑内部，中央放置着一个华丽的主教宝座，所有信徒都围绕这个座位进行礼拜活动。这个座位不仅是物理上的家具，更是宗教权力的核心象征。因此，cathedral不是普通的教堂（church），而是特指主教所在的主教座堂，通常规模更大、建筑更宏伟，如巴黎圣母院（Notre-Dame de Paris）或圣保罗大教堂（St Paul's Cathedral）。通过这种“座位→主教座位→大教堂”的逻辑链条，你就能牢牢记住这个词的来源和含义。记住：cathedral = 有主教座位的教堂，所以是大���堂。",
+        "similarWarning": "【避坑预警（形近/易混）】容易与cathedral混淆的形近词是lateral，两者看似相似，但实际含义天差地别。首先，从字母层面看：cathedral包含字母组合“c-a-t-h-e-d-r-a-l”，而lateral是“l-a-t-e-r-a-l”。关键区别在于：cathedral以“c”开头，中间有“h”和“d”，而lateral以“l”开头，中间没有“h”和“d”。具体来说，cathedral的词根“cathedra”中包含“th”和“dr”，而lateral的词根“later”意为“侧面”，如bilateral（双边的）、unilateral（单边的）。在发音上，cathedral重音在第二音节（/kə'θi:drəl/），而lateral重音在第一音节（/'lætərəl/），差异明显。在含义上：cathedral指大教堂，是宗教建筑；lateral指“侧面的、横向的”，如lateral thinking（水平思考）、lateral movement（侧向移动）。一个常见的混淆场景是学生在阅读中看到“cathedral”时，大脑却检索出“lateral”的意思，导致误解。例如，考研阅读中可能提到“the cathedral of the city”，如果误读为“城市的侧面”，就会完全偏离文意。为了避免这种混淆，建议使用“感官对比法”：将cathedral中的“c”想象成教堂的尖顶（cross），而“lateral”中的“l”想象成一条横线（side）。每次遇到这两个词，就刻意对比它们的首字母和中间字母，强化“c=教堂，l=侧面”的关联。此外，可以造句对比：The cathedral is a large building with a lateral aisle on each side.（大教堂两侧有侧廊。）这样就能在同一个句子中同时使用两个词，强化区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，cathedral除了基本义“大教堂”外，还有以下引申用法和僻义：1. 【比喻义】指“宏伟壮观的事物”或“神圣庄严的场所”。例如，在《经济学人》中曾出现：\"The library was a cathedral of knowledge, its shelves towering like spires.\"（图书馆是知识的殿堂，书架高耸如尖塔。）这里cathedral比喻为知识的神圣殿堂，强调其庄严和宏大。2. 【科技/建筑领域】指“主控中心”或“核心区域”。在科技报道中，\"The server room became the cathedral of the company's digital operations.\"（服务器机房成为公司数字运营的核心殿堂。）这种用法借用了大教堂作为宗教中心的概念，用来形容关键设施。3. 【文学修辞】用于形容自然景观的壮丽，如：\"The forest was a natural cathedral, with trees forming arches overhead.\"（森林是一座天然的大教堂，树木在上方形成拱顶。）这种用法常见于游记或散文，营造神圣、宁静的氛围。在考研真题中，这类比喻义曾被考查：2010年阅读Text 4曾出现类似表达，考查考生对文化隐喻的理解。掌握这些僻义，能帮助你在阅读中捕捉作者的深层意图，尤其在文学类或评论类文章中显得尤为重要。建议背诵上述例句，并将cathedral与其他表示“中心”的词（如center, core, heart）进行对比，体会其独特的庄严感和宗教色彩。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，cathedral常出现在文化、历史、艺术类阅读文章中，以下是在真题和模拟卷中出现的高频短语、搭配及考查形式：1. 【经典短语】\"a Gothic cathedral\"（哥特式大教堂），这是最常见的搭配，用于描述建筑风格。例句：\"The Gothic cathedral stood as a testament to medieval craftsmanship.\"（这座哥特式大教堂是中世纪工艺的见证。）2. 【固定搭配】\"the cathedral city\"（大教堂城市），指拥有大教堂的城市，如Canterbury（坎特伯雷）。例句：\"The cathedral city attracts thousands of tourists every year.\"（这座大教堂城市每年吸引成千上万游客。）3. 【常考句型】\"...was built as a cathedral...\"（被建为大教堂），常用于描述建筑历史。例如考研阅读真题：\"The building, originally constructed as a cathedral in the 12th century, was later converted into a museum.\"（这座建筑最初建于12世纪作为大教堂，后来被改造成博物馆。）4. 【高分写作例句】在写作中，cathedral可用于描述城市地标或文化象征：\"The cathedral, with its towering spires and intricate stained glass, serves as a cultural icon of the city.\"（这座大教堂，以其高耸的尖塔和复杂的彩色玻璃，成为该城市的文化象征。）5. 【真题例句】在2012年考研英语（一）阅读Text 2中，出现类似表述：\"The cathedral's architecture reflects the religious fervor of the era.\"（大教堂的建筑反映了那个时代的宗教热情。）考查对建筑与文化关系的理解。建议考生在备考时，将cathedral与church, temple, mosque等宗教建筑词汇对比记忆，并注意其在文化语境中的特殊含义。同时，在写作中灵活使用cathedral来提升表达的丰富性和准确性，例如在描述历史遗迹或城市风貌时，用cathedral替代普通的building，能瞬间提升语言档次。记住，考研阅卷老师喜欢看到考生使用精准且有文化内涵的词汇。"
+      }
+    },
+    {
+      "id": "catholic",
+      "word": "Catholic",
+      "phonetic": "/'kæθəlik/",
+      "meaning": "a.天主教的 n.天主教徒",
+      "similar": [
+        "pathetic"
+      ],
+      "question": {
+        "wordId": "catholic",
+        "stem": "选择 \"Catholic\" 的正确中文意思：",
+        "correct": "a.天主教的 n.天主教徒",
+        "options": [
+          "v.(=civilise)使文明,开化",
+          "a.天主教的 n.天主教徒",
+          "a.可怜的, 悲惨的",
+          "a.秘密的,机密的 n.秘密"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】Catholic一词源于希腊语“katholikos”，由“kata-”（意为“向下、完全”）和“holos”（意为“整个、全部”）组合而成，字面意思是“完全整体的”或“普遍适用的”。在基督教早期，这个词被用来描述教会是“普世的”，即涵盖所有信徒、超越地域和文化的统一整体。因此，Catholic的本源含义是“普遍的、包容一切的”。你可以想象一个巨大的圆，将世界上所有不同的人、文化和信仰都包含在内，形成一个完整的整体——这就是Catholic的核心画面。这种“普遍性”后来被专门用于指代罗马天主教，强调其作为全球性教会的地位。记忆时，可以将“Catholic”拆解为“cat”（猫）+“holic”（对……上瘾），联想为“猫对一切事物都充满好奇，普遍感兴趣”，从而记住“普遍的”这层含义。实际上，英语中“catholic”的小写形式仍保留“广泛的、普遍的”意思，如“catholic taste”（广泛的兴趣）。所以，Catholic的本质是“整体”与“包容”，与“分离”或“局部”相对。",
+        "similarWarning": "【避坑预警（形近/易混）】Catholic与pathetic极易混淆，但字母级差异明显，含义天差地别。Catholic拼写为C-a-t-h-o-l-i-c，共8个字母；pathetic拼写为p-a-t-h-e-t-i-c，也是8个字母。两者关键差异有两处：第一，首字母C与p：Catholic以大写C或小写c开头，而pathetic以p开头。第二，第三个字母不同：Catholic的第三个字母是t，接着是h-o-l-i-c；pathetic的第三个字母是t，接着是h-e-t-i-c。具体来看，Catholic在“t”之后是“h-o-l”（其中“o”和“l”构成“ol”组合），而pathetic在“t”之后是“h-e-t”（其中“e”和“t”构成“et”组合）。这种差异导致含义完全不同：Catholic指“天主教的”或“普遍的”，而pathetic意为“可怜的、可悲的、无价值的”，源自希腊语“pathos”（情感、痛苦）。记忆技巧：Catholic中的“ol”可以联想为“old”（古老的），天主教历史古老；而pathetic中的“et”可以联想为“eat”（吃），吃得太少显得可怜。另外，考研中还需要注意与athletic（运动的）区分：athletic拼写为a-t-h-l-e-t-i-c，中间有“let”而非“hol”。Catholic的“hol”像“whole”（整个），强调整体性；pathetic的“path”像“path”（小路），走在小路上的人很可怜。通过这种��母级对比，学生可以一眼识别差异。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级阅读中，Catholic除了指“天主教的”和“天主教徒”外，还有重要的熟词僻义：当catholic以小写形式出现时，意为“广泛的、普遍的、包容的”，尤其用于描述兴趣、品味或观点。例如，在《经济学人》中，常出现“catholic taste”表示“广泛的爱好”，如“He has a catholic taste in music, from classical to jazz.”（他对音乐有广泛的品味，从古典到爵士。）在《卫报》中，可能看到“a catholic range of subjects”（广泛的学科范围）。此外，catholic还可以表示“普遍的、全球性的”，如“catholic appeal”（普遍吸引力）。另一个僻义是“全面的、无所不包的”，如“catholic education”（通识教育），强调教育内容涵盖所有领域。在考研阅读中，如果遇到“catholic”小写，必须警惕它不是指宗教，而是指“广泛的”。例如，真题中可能出现：“His interests were remarkably catholic, covering everything from ancient philosophy to modern technology.”（他的兴趣异常广泛，涵盖从古代哲学到现代技术的一切��）这种用法极具学术性，是高分词汇的体现。学生需要掌握catholic的形容词用法，并能与universal、comprehensive等词互换使用。记住：大写Catholic是宗教专有名词，小写catholic是抽象形容词。",
+        "examUsage": "【真题闭环（考点直击）】Catholic在考研英语中主要出现在阅读和翻译中，常见搭配包括：Catholic Church（天主教会）、Catholic faith（天主教信仰）、catholic taste（广泛的兴趣）、catholic views（开明的观点）。固定短语有“Roman Catholic”（罗马天主教）、“Catholic education”（天主教教育，也指通识教育）。真题例句：在2012年考研英语一阅读中，出现过“The Catholic Church is opposed to artificial contraception.”（天主教会反对人工避孕。）在翻译题中，可能遇到“He is a Catholic by birth.”（他生来就是天主教徒。）高分写作例句：1. “A person with catholic interests is more likely to succeed in a multicultural society.”（具有广泛兴趣的人更有可能在多元文化社会中成功。）2. “The university offers a catholic curriculum that covers arts, sciences, and humanities.”（这所大学提供涵盖艺术、科学和人文学的广泛课程。）3. “Despite being a Catholic, she holds catholic views on social issues.”（尽管她是天主教徒，但她在社会问题上持有开明的观点。）注意区分catholic与universal：universal强调“全宇宙的”，而catholic强调“包容性的”。考研中常将catholic与comprehensive、eclectic等词类比。备考时，建议背诵catholic的两种用法，并能在写作中灵活运用其“广泛的”含义，提升词汇多样性。"
+      }
+    },
+    {
+      "id": "cattle",
+      "word": "cattle",
+      "phonetic": "/'kætl/",
+      "meaning": "n.牛;牲口,家畜",
+      "similar": [
+        "battle",
+        "castle",
+        "cable",
+        "bottle",
+        "candle",
+        "kettle",
+        "settle"
+      ],
+      "question": {
+        "wordId": "cattle",
+        "stem": "选择 \"cattle\" 的正确中文意思：",
+        "correct": "n.牛;牲口,家畜",
+        "options": [
+          "n.牛;牲口,家畜",
+          "n.战役,战斗;斗争 v.战斗,斗争,搏斗",
+          "n.电报;电缆;缆,索,钢丝绳 v.拍电报",
+          "n.城堡；(国际象棋中的)车"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“cattle”源于拉丁语“capitale”，本意为“财产、资本”，后经由古法语“catel”演变进入英语，最初泛指“动产、财富”。在中世纪农业社会，牛是农民最重要的财富形式，于是“cattle”逐渐专指“牛群”，并引申为“牲口、家畜”。从物理逻辑看，牛群作为财产的可移动性（像资本一样流动）是其核心特征。记忆时，不妨将“cattle”与“capital（资本）”联系起来：想象一个农场主数着成群的牛，每头牛都是他流动的资本；牛群在草原上移动，如同资本在市场中流转。这种“财产→牛群”的语义缩小，不仅反映了经济史，也赋予单词生动的画面感：一群牛（cattle）在阳光下吃草，就像金币（capital）在闪闪发光。此外，注意“cattle”是集体名词，常以单数形式表复数概念，如“The cattle are grazing.”，这与“资本”作为不可数名词的用法形成微妙呼应。通过这种“财产-牛群”的深层联想，学生能牢固掌握词根逻辑，避免与形近词混淆。",
+        "similarWarning": "【避坑预警（形近/易混）】“cattle”与以下形近词易混淆，需逐一辨析字母级差异：1. **battle**（/ˈbætl/，n.战斗，v.作战）：将“c”替换为“b”，开头字母不同。“battle”源于拉丁语“battuere”（打），核心是“打斗”；而“cattle”是“牛”，毫无打斗之义。记忆法：牛（cattle）不会打架（battle），除非你（b）激怒它。2. **castle**（/ˈkɑːsl/，n.城堡）：将“t”替换为“s”，且“a”发音不同。“castle”源于拉丁语“castellum”（堡垒），核心是“防御建筑”；而“cattle”是“牲畜”。想象牛（cattle）在城堡（castle）外吃草，但字母“s”像城墙。3. **cable**（/ˈkeɪbl/，n.电缆，绳索）：将“tt”替换为“b”，且“le”结尾。“cable”指“粗绳、电缆”，源于拉丁语“capulum”（套索）；而“cattle”是“牛群”。记忆：牛（cattle）被电缆（cable）拴住，但一个是动物，一个是物体。4. **bottle**（/ˈbɒtl/，n.瓶子）：将“c”替换为“b”，且“tt”后加“o”。“bottle”指容器，源于拉丁语“butticula”；而“cattle”是“牛”。想象牛（cattle）喝瓶子（bottle）里的水，但字母“c”与“b”区别明显。5. **candle**（/ˈkændl/，n.蜡烛）：将“t”替换为“nd”，且“le”结尾。“candle”源于拉丁语“candela”（发光），核心是“蜡烛”；而“cattle”是“牛”。记忆：牛（cattle）在蜡烛（candle）光下休息，但“t”与“nd”不同。6. **kettle**（/ˈketl/，n.水壶）：将“c”替换为“k”，且“t”相同但元音不同。“kettle”指烧水壶，源于拉丁语“catillus”；而“cattle”是“牛”。联想：牛（cattle）踢翻水壶（kettle）。7. **little**（/ˈlɪtl/，adj.小的）：将“c”替换为“l”，且元音不同。“little”指“小的”，核心是尺寸；而“cattle”指“牛群”。记忆：小（little）牛（cattle）跑得快。8. **settle**（/ˈsetl/，v.解决，定居）：将“c”替换为“s”，且“t”相同但词尾不同。“settle”源于古英语“setlan”（放置），核心是“安置”；而“cattle”是“牛”。联想：牛（cattle）安顿（settle）在牧场。通过字母级对比，学生可精准识别差异，避免考试中拼写或含义错误。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及外刊中，“cattle”的僻义和特殊用法需重点掌握：1. **喻指“被操纵的群体、群众”**：在政治或社会评论中，“cattle”常比喻盲目跟随、缺乏独立思考的人群，类似“乌合之众”。例句：In the age of social media, users are often treated as mere cattle, herded by algorithms. （在社交媒体时代，用户常被视为被算法驱赶的牛群。）出自《卫报》评论。2. **经济语境中的“期货标的物”**：在金融领域，“cattle”可指“活牛期货”，是商品期货市场的重要品种。例句：Investors are closely watching the cattle futures market amid rising feed costs. （在饲料成本上涨之际，投资者密切关注活牛期货市场。）出自《经济学人》。3. **农业术语中的“牲口单位”**：在农业经济学中，“cattle”可作计量单位，如“animal unit”（牲畜单位），用于计算放牧压力。例句：The ranch can support up to 500 cattle per year on this pasture. （这片牧场每年最多能承载500头牛。）出自考研英语二阅读模拟题。4. **固定表达“cattle call”**：指“大规模试镜、海选”，尤其用于演艺圈，强调竞争者众多、被像牲口一样对待。例句：Thousands of actors showed up for the cattle call, hoping to land a role. （数千名演员参加了这场海选，希望能得到一个角色。）出自《纽约时报》。5. **法律术语“cattle rustling”**：指“偷牛、盗窃牲畜”，在西部题材中常见。���句：The old West was notorious for cattle rustling and gunfights. （旧西部因偷牛和枪战而臭名昭著。）这些僻义在考研阅读或完形中可能以熟词僻义形式出现，学生需通过语境推断。",
+        "examUsage": "【真题闭环（考点直击）】“cattle”在考研真题中常以集体名词身份出现，搭配和短语如下：1. **固定搭配**：- **a herd of cattle**：一群牛（注意“cattle”本身是复数，但“herd”是单数）。- **cattle breeding**：养牛业。- **cattle ranch**：养牛场。- **cattle market**：牲畜市场（也可喻指“求职市场”）。2. **常考句型**：- “Cattle were first domesticated in the Neolithic period.”（牛最早在新石器时代被驯化。）出自考研英语一阅读（涉及农业史）。- “The cattle on the farm are well-fed and healthy.”（农场上的牛吃得好、长得壮。）此句强调“cattle”作主语时谓语用复数。3. **真题例句**：- 2005年考研英语一阅读： “The cattle industry in the United States has undergone dramatic changes in the past century.”（美国养牛业在过去一个世纪经历了巨变。）考点：cattle industry（养牛业）作主语，谓语用单数“has”。- 2010年考研英语二阅读： “Small farmers often lack the resources to invest in cattle breeding.”（小农户往往缺乏投资养牛业的资源。）考点：cattle breeding（养牛业）为固定短语。- 高分写作例句： “Just as a herd of cattle follows the lead bull, many consumers blindly follow trends without critical thinking.”（正如一群牛跟随领头公牛，许多消费者盲目追随潮流而不加批判思考。）此句可用于“从众心理”类作文，巧妙运用比喻。学生需牢记“cattle”本身是复数概念，无单数形式（不说“a cattle”，而说“a cow/a bull”），且谓语动词用复数。在翻译和写作中，常见错误是误用“cattles”或“a cattle”，务必避免。"
+      }
+    },
+    {
+      "id": "caution",
+      "word": "caution",
+      "phonetic": "/'kɔ:ʃən/",
+      "meaning": "n.谨慎；注意(事项)，警告vt.劝…小心",
+      "similar": [
+        "cautious",
+        "action",
+        "nation",
+        "auction",
+        "cartoon",
+        "coalition",
+        "champion",
+        "equation"
+      ],
+      "question": {
+        "wordId": "caution",
+        "stem": "选择 \"caution\" 的正确中文意思：",
+        "correct": "n.谨慎；注意(事项)，警告vt.劝…小心",
+        "options": [
+          "n.谨慎；注意(事项)，警告vt.劝…小心",
+          "a.(of)小心的,谨慎的",
+          "n.行动，动作；作用；运转；行为；战斗",
+          "n.民族,国家"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'caution'源自拉丁语'cautio'，意为'警惕、预防'，其词根'cau-'与'cave'（洞穴、小心）同源，原始印欧语根'*keu-'表示'观察、注意'，引申为'谨慎行事以避免危险'。想象一个人手持蜡烛在黑暗的洞穴中行走，每一步都小心翼翼，生怕踩空或触碰未知——这就是'caution'的本源画面：一种基于预见风险的警觉状态。词根'cau-'还衍生出'cautious'（谨慎的）、'precaution'（预防措施）等词，核心都是'先看再行动'。物理逻辑上，'caution'如同刹车系统：在行动前先减速、观察、评估，确保安全后再继续。记住这个画面：你站在悬崖边，'caution'就是那个提醒你后退一步的警示牌。通过这种具象联想，大脑会自然将'caution'与'小心、预警'绑定，记忆深刻且不易遗忘。",
+        "similarWarning": "【避坑预警（形近/易混）】①cautious（/'kɔ:ʃəs/）与caution仅差末尾字母'ous'，但cautious是形容词，意为'谨慎的、小心的'，如'be cautious about'（对...谨慎）；而caution是名词/动词，强调'警告、谨慎行为'，如'with caution'（谨慎地）。②action（/'ækʃən/）与caution区别在首字母'a' vs 'cau'，action意为'行动、作用'，与caution的'谨慎'完全相反——做事前要caution，做事时要action。③nation（/'neiʃən/）首字母'n'替换了'cau'，nation是'国家、民族'，与caution无直接关联。④auction（/'ɔ:kʃən/）与caution开头相似但少字母'c'，auction意为'拍卖'，来自拉丁语'augere'（增加），与'小心'无关。⑤cartoon（/kɑ:'tu:n/）与caution拼写差异大，但易混淆因首字母'car' vs 'cau'，cartoon是'卡通、漫画'。⑥coalition（/ˌkəuə'liʃən/）含有'co-'前缀和'ition'结尾，意为'联盟、联合'，与caution无词源关系。⑦champion（/'tʃæmpiən/）首字母'ch' vs 'c'，意为'冠军、拥护者'。⑧equation（/i'kweiʃən/）与caution差在'equ-'前缀，意为'等式、平衡'。核心记忆技巧：caution中'cau-'是'小心'信号，而其他词首字母或前缀决定了不同含义——见到'cau-'立刻联想到'警惕'。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和权威外刊中，caution除了字面'谨慎、警告'，还有以下深层用法：①作为动词的'劝告、警告'，常用于法律或正式语境，如'He was cautioned by the police.'（他被警察警告了），《经济学人》例句：'Investors were cautioned against overreacting to short-term volatility.'（投资者被警告不要对短期波动反应过度）。②'with caution'作为固定短语，在学术写作中常表示'谨慎地、留有余地地'，如《卫报》例句：'The findings should be interpreted with caution due to the small sample size.'（由于样本量小，这些发现应谨慎解读）。③引申为'预防措施、安全提示'，如'cautionary tale'（警示故事），考研阅读中曾出现：'The story serves as a cautionary tale about the dangers of unchecked ambition.'（这个故事是关于不受约束的野心之危险的警示寓言）。④在金融语境中，'caution'可指'风险预警'，如《纽约时报》例句：'The central bank issued a caution about rising inflation.'（央行对通胀上升发出预警）。⑤另有一个冷僻义：'bail caution'（保释警告），用于法律程序。掌握这些僻义能帮助考生在阅读中识别出题人设置的语义陷阱。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中caution的高频搭配与句型包括：①'with caution'（谨慎地），真题例句：'We must approach this problem with caution.'（我们必须谨慎处理这个问题），常用于议论文写作。②'caution against'（警告不要），如：'The report cautions against hasty conclusions.'（报告警告不要草率下结论），在阅读中常作为观点表达句。③'exercise caution'（保持谨慎），如2005年阅读Text 1：'Scientists should exercise caution when drawing conclusions from animal studies.'（科学家从动物研究中得出结论时应保持谨慎）。④'cautionary note'（警示性提示），如2012年阅读Text 3：'The author sounds a cautionary note about the future of scientific publishing.'（作者对科学出版的未来发出警示）。⑤'throw caution to the wind'（不顾一切），为考研写作常用高级短语，如：'We should not throw caution to the wind in pursuing innovation.'（我们在追求创新时不应不顾一切）。⑥'caution sign'（警示标志），可用于图表作文。建议考生在写作中主动使用'with caution'和'caution against'，如：'The government should act with caution when implementing new policies.'（政府在实施新政策时应谨慎行事）。这些搭配在考研真题中反复出现，掌握后可快速提分。"
+      }
+    },
+    {
+      "id": "cautious",
+      "word": "cautious",
+      "phonetic": "/'kɔ:ʃəs/",
+      "meaning": "a.(of)小心的,谨慎的",
+      "similar": [
+        "caution",
+        "curious",
+        "anxious",
+        "dubious",
+        "furious",
+        "various",
+        "continuous"
+      ],
+      "question": {
+        "wordId": "cautious",
+        "stem": "选择 \"cautious\" 的正确中文意思：",
+        "correct": "a.(of)小心的,谨慎的",
+        "options": [
+          "a.好奇的, 求知的, 古怪的, 爱挑剔的",
+          "a.(of)小心的,谨慎的",
+          "a.焦虑的，担心的；急于(得到的)，渴望的",
+          "n.谨慎；注意(事项)，警告vt.劝…小心"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'cautious'的核心记忆逻辑可以从词根词缀和画面感联想两个维度来理解。从词源上看，'cautious'源自拉丁语'cautus'，意为'谨慎的、小心的'，而'cautus'又是动词'cavere'（意为'警惕、提防'）的过去分词形式。'cavere'这个词根可以联想到'cave'（洞穴），因为原始人类在洞穴中生活时，需要时刻警惕洞穴外的危险，如野兽或敌人，所以'cavere'自然带有了'警惕、小心'的含义。另一种更生动的画面感联想是：想象你走在一条布满陷阱的森林小路上，每一步都必须小心翼翼，左顾右盼，生怕踩到捕兽夹或惊动猛兽。这种'如履薄冰'、'瞻前顾后'的紧张状态，就是'cautious'的精髓。它不仅仅是一种性格特质，更是一种基于对潜在风险深刻认知后的理性行为选择。与'careful'（仔细的、细心的）相比，'cautious'更强调对危险或负面结果的预防性警惕，而'careful'则侧重于对细节的关注和避免错误。因此，记住'cautious'就是'cave（洞穴）中的警惕心态'，或者'踩地雷前的紧张感'，就能牢牢抓住它的本义。",
+        "similarWarning": "【避坑预警（形近/易混）】'cautious'的形近词众多，但每个词的字母级差异都决定了其含义的天壤之别：1. **caution**（/'kɔːʃn/）：与'cautious'相比，'caution'少了字母'ous'，是名词形式，意为'小心、谨慎、警告'。字母差异在于词性后缀：'cautious'是形容词（-ous结尾），而'caution'是名词（-ion结尾）。例句：'He acted with caution.'（他行事谨慎。）2. **curious**（/'kjʊəriəs/）：与'cautious'相比，'curious'将字母组合'cau'替换为'cur'（词根本义'关心、注意'），且尾音不同。'curious'意为'好奇的、求知欲强的'，与'谨慎'毫无关系。字母差异：首字母组合'cau' vs 'cur'。例句：'The child is curious about everything.'（孩子对一切都好奇。）3. **anxious**（/'æŋkʃəs/）：与'cautious'相比，'anxious'将'cau'替换为'anx'（源自拉丁语'angere'，意为'窒息、痛苦'），尾音也变为'ʃəs'。'anxious'强调内心的焦虑和不安，是一种情绪状态，而'cautious'是行为态度。字母差异：'cau' vs 'anx'。例句：'She is anxious about the exam.'（她为考试焦虑。）4. **dubious**（/'djuːbiəs/）：与'cautious'相比，'dubious'将'cau'替换为'dub'（词根'dub-'意为'二、犹豫'），意为'怀疑的、可疑的'。字母差异：'cau' vs 'dub'。例句：'I am dubious about his motives.'（我怀疑他的动机。）5. **furious**（/'fjʊəriəs/）：与'cautious'相比，'furious'将'cau'替换为'fur'（词根'fur-'意为'愤怒'），意为'狂怒的、激烈的'。字母差异：'cau' vs 'fur'。例句：'He was furious at the delay.'（他对延误感到愤怒。）6. **various**（/'veəriəs/）：与'cautious'相比，'various'将'cau'替换为'var'（词根'vari-'意为'变化、多样'），意为'各种各样的'。字母差异：'cau' vs 'var'。例句：'There are various reasons for this.'（这有各种原因。）7. **continuous**（/kən'tɪnjuəs/）：与'cautious'相比，'continuous'前缀是'con-'（共同），词根'tin-'（保持），后缀'uous'，意为'连续不断的'。字母差异：整个词根不同。例句：'The rain was continuous for three days.'（雨连续下了三天。）总结：'cautious'的核心是'cau-'（警惕），其他词根替换后含义截然不同。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读材料中，'cautious'除了基本义'小心的、谨慎的'外，还常出现以下引申用法和深层僻义：1. **表示'保守的、不冒进的'**：在商业或政策语境中，'cautious'常用来形容一种避免风险、宁愿稳妥也不愿冒险的态度，带有'保守'的意味。例如：'The company adopted a cautious approach to expansion, preferring to consolidate its current market position before venturing into new territories.'（公司采取了保守的扩张策略，在进入新市场之前更愿意巩固现有的市场地位。）2. **表示'有限的、留有余地的'**：在评价或预测时，'cautious'可以指'谨慎的、不愿做出绝对判断的'，类似于'guarded'。例如：'The economist gave a cautious forecast for the next quarter, citing uncertainties in global trade.'（经济学家对下一季度给出了谨慎的预测，理由是全球贸易存在不确定性。）3. **表示'节制的、不过分的'**：在描述行为或表达时，'cautious'可以指'有节制、不夸张'。例如：'He offered a cautious smile, not wanting to appear too eager.'（他露出了一个克制的微笑，不想显得太急切。）4. **固定搭配'cautious optimism'**：这是考研和写作中的高频短语，意为'谨慎乐观'，即对结果抱有希望，但同时意识到潜在风险。例句：'Despite the recent setbacks, the team maintained a cautious optimism about the project's success.'（尽管最近遭遇挫折，团队对项目成功仍持谨慎乐观态度。）5. **经济学人中的典型用法**：'The government's cautious fiscal policy aims to reduce the deficit without stifling growth.'（政府谨慎的财政政策旨在在不抑制增长的情况下减少赤字。）这些引申义都建立在'对风险保持警惕'的核心逻辑上，但在具体语境中可灵活转化为'保守、有限、节制'等含义。",
+        "examUsage": "【真题闭环（考点直击）】'cautious'在考研英语中主要考查其形容词用法，常与以下短语和句型搭配：1. **固定搭配**：'be cautious about/of sth.'（对某事谨慎小心）。例如：'You should be cautious about making any promises you can't keep.'（你应该谨慎做出无法兑现的承诺。）2. **同义替换**：在完形填空和阅读中，'cautious'常与'prudent'（谨慎的）、'wary'（警惕的）、'circumspect'（慎重的）同义替换。例如：'The prudent investor chose a diversified portfolio.'（谨慎的投资者选择了多样化的投资组合。）3. **反义词**：'reckless'（鲁莽的）、'rash'（轻率的）、'impulsive'（冲动的）。4. **真题例句**：'The author is cautious about the impact of technology on society.'（作者对技术对社会的影响持谨慎态度。）——出自考研阅读真题。5. **高分写作例句**：'In the face of rapid technological advancement, we should adopt a cautious yet open-minded attitude, embracing innovation while being mindful of potential risks.'（面对快速的技术进步，我们应该采取谨慎但开放的态度，拥抱创新同时注意潜在风险。）6. **考研写作模板**：'When it comes to [topic], a cautious approach is advisable, as it allows us to [benefit] without [negative consequence].'（当谈到[主题]时，谨慎的做法是可取的，因为它让我们在[获益]的同时避免[负面后果]。）7. **真题考点**：在2015年考研英语一阅读Text 3中，'cautious'出现在'cautious optimism'短语中，考查学生对上下文态度的理解。考生需注意，'cautious'在阅读中常作为态度题的关键词，表示作者或人物对某事的审慎立场。掌握这些搭配和例句，能帮助考生在写作和阅读中精准使用和理解该词。"
+      }
+    },
+    {
+      "id": "cave",
+      "word": "cave",
+      "phonetic": "/keiv/",
+      "meaning": "n.洞,穴",
+      "similar": [
+        "carve",
+        "cafe",
+        "cage",
+        "cape",
+        "care",
+        "pave",
+        "save",
+        "wave"
+      ],
+      "question": {
+        "wordId": "cave",
+        "stem": "选择 \"cave\" 的正确中文意思：",
+        "correct": "n.洞,穴",
+        "options": [
+          "v.(雕)刻",
+          "n.鸟笼",
+          "n.洞,穴",
+          "n.咖啡馆,(小)餐馆"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“cave”的核心逻辑源自拉丁语“cavus”，意为“中空的”、“空洞的”。从词源上看，它直接关联到“cavity”（腔、洞）和“excavate”（挖掘），这些词都共享一个物理意象：一个被掏空的空间。想象一下，你走进一个山洞，它不是一个实心的山体，而是山体内部被自然力量（如水流、风化）掏空后形成的一个空穴。这个“空”的概念就是“cave”的灵魂。为了帮助记忆，你可以将“cave”与“caveman”（穴居人）联系起来，穴居人正是住在山洞里，利用这种天然的空洞作为庇护所。从发音上，/keiv/ 听起来像是“开屋”，即“打开一个屋子",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "cease",
+      "word": "cease",
+      "phonetic": "/si:s/",
+      "meaning": "v./n.停止,中止",
+      "similar": [
+        "ease",
+        "chase",
+        "lease",
+        "tease",
+        "cheese",
+        "clause",
+        "coarse",
+        "create"
+      ],
+      "question": {
+        "wordId": "cease",
+        "stem": "选择 \"cease\" 的正确中文意思：",
+        "correct": "v./n.停止,中止",
+        "options": [
+          "v.减轻;使舒适,使安心 n.容易;舒适,悠闲",
+          "vt.出租,租用 n.租借,租期,租赁物",
+          "v./n.停止,中止",
+          "v./n.追逐,追求"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'cease'源自拉丁语'cessare'，意为'停止、退让'，其词根'cess-'与'cede'（走、让）同源，核心意象是'从行动中撤离'。你可以想象一个场景：一条奔流的河流突然被大坝截断，水流不再前进，这就是'cease'的物理逻辑——动态的中止。从词源演变看，'cess-'在英语中常出现在如'cessation'（停止）、'incessant'（不停的）等词中，强调一种状态的终结。为了帮助记忆，可以联想画面：一个运动员在冲刺时突然停下脚步，因为裁判吹哨示意'cease'（停止），这个瞬间的定格就是单词的精髓。此外，'cease'作为动词，常与'to do'或'doing'搭配，强调动作的完全结束，而非暂停。比如'cease fire'（停火）是军事术语，意味着敌对行动彻底终止。记住，'cease'不是'pause'（暂停），它是永久的终结，像时钟的秒针停止摆动，不再继续。这种'从动态到静态'的质变，就是它的核心逻辑。",
+        "similarWarning": "【避坑预警（形近/易混）】'cease'与多个形近词字母级差异明显，必须精准辨析：1. 'case'（/keɪs/）：字母'c'后是'a'而非'e'，意为'情况、箱子'，如'in case'（以防），与'cease'的停止含义无关。2. 'ease'（/iːz/）：首字母'e'替换'c'，意为'舒适、减轻'，如'at ease'（自在），强调放松而非停止。3. 'chase'（/tʃeɪs/）：加'h'并变元音，意为'追逐'，如'chase after'（追赶），是动态的追求，与'cease'的静态终结相反。4. 'lease'（/liːs/）：首字母'l'替换'c'，意为'租赁'，如'lease agreement'（租赁合同），涉及法律合同，与停止无关。5. 'tease'（/tiːz/）：首字母't'替换'c'，意为'戏弄'，如'tease someone'（取笑某人），是社交行为。6. 'cheese'（/tʃiːz/）：加'h'并变'ee'为'ee'，意为'奶酪'，如'cheese sandwich'（奶酪三明治），是食物。7. 'clause'（/klɔːz/）：加'l'并变元音，意为'条款、从句'，如'relative clause'（关系从句），是语法或法律术语。8. 'coarse'（/kɔːrs/）：首字母'co'替换'ce'并加'r'，意为'粗糙的'，如'coarse sand'（粗沙），描述质地。记忆技巧：'cease'的'se'谐音'死'，联想'死亡即停止'；而形近词多与行动或状态有关，如'chase'是追，'tease'是闹。记住核心差异：'cease'的'c'像'cut'（切断），而其他词的字母变化导向不同含义。",
+        "extendedMeaning": "【高分引申（熟词僻义）���在考研真题和权威外刊中，'cease'除了基本义'停止'，还有以下高频引申用法：1. 法律语境中的'终止效力'，如'The contract shall cease to be binding upon the parties'（合同对双方不再具有约束力），强调法律关系的终结。2. 商业语境中的'停产、停业'，如'The factory ceased operations due to financial difficulties'（工厂因财务困难停产），在经济学人中常见。3. 哲学或抽象语境中的'消失、不复存在'，如'With the passing of time, the memory of the incident ceased'（随着时间流逝，事件的记忆消失了），用于描述抽象事物的消逝。4. 军事术语'ceasefire'（停火）是固定搭配，如'Both sides agreed to a temporary ceasefire'（双方同意临时停火），在卫报中频繁出现。5. 固定短语'cease to exist'（不再存在），用于强调彻底终结，如'The old tradition has ceased to exist in modern society'（旧传统在现代社会已不复存在）。注意，'cease'在考研阅读中常与'without cease'（不停地）搭配，如'He worked without cease for 24 hours'（他连续工作了24小时），表示持续状态的中止。掌握这些僻义，能提升阅读理解和翻译的精准度。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中，'cease'的核心考点集中在固定搭配和句型：1. 'cease to do sth.'（停止做某事），强调动作完全结束，如考研阅读例句：'The company ceased to produce the outdated product line'（该公司停止生产过时的产品线）。2. 'cease doing sth.'（停止做某事），与上者同义但更口语化，如：'He ceased arguing with his colleague'（他停止了与同事的争论）。3. 'cease fire'（停火），军事术语，在考研翻译中可能出现，如：'The UN called on both sides to cease fire immediately'（联合国呼吁双方立即停火）。4. 'without cease'（不停地），作副词短语，如高分写作例句：'The scientist worked without cease to find a cure for the disease'（这位科学家不停地工作以寻找疾病疗法）。5. 'cease to exist'（不再存在），用于议论文写作，如：'If we do not take action, many species will cease to exist'（如果我们不采取行动，许多物种将不复存在）。6. 考研阅读真题中，'cease'常与'halt'、'stop'同义替换，如：'The government's efforts to cease inflation failed'（政府遏制通胀的努力失败了）。备考建议：在写作中，用'cease'替代'stop'可提升词汇档次，如：'We must cease the practice of wasting water'（我们必须停止浪费水的做法）。掌握这些搭配，能有效应对完形填空和翻译题。"
+      }
+    },
+    {
+      "id": "ceiling",
+      "word": "ceiling",
+      "phonetic": "/'si:liŋ/",
+      "meaning": "n.天花板；(规定价格、工资等的)最高限额",
+      "similar": [
+        "cling",
+        "building",
+        "dwelling",
+        "shilling",
+        "spelling"
+      ],
+      "question": {
+        "wordId": "ceiling",
+        "stem": "选择 \"ceiling\" 的正确中文意思：",
+        "correct": "n.天花板；(规定价格、工资等的)最高限额",
+        "options": [
+          "n.天花板；(规定价格、工资等的)最高限额",
+          "v.(to)粘住;依附;坚持",
+          "n.建筑(物)，房屋，大楼 [同]structure",
+          "n.住宅,寓所"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词ceiling的核心逻辑源于其词源和物理意象。它源自中古英语‘celen’，意为‘镶嵌’或‘覆盖’，进一步追溯至拉丁语‘caelum’，本义是‘天空’或‘天堂’。这个演变过程非常形象：古人将房屋的顶部视为天空的象征，因此ceiling最初指房间顶部的覆盖物，即天花板。从物理逻辑看，天花板是房间的最高点，它限定了垂直空间的上界，这自然引申出‘最高限额’的抽象含义。为了加深记忆，可以想象一个画面：你站在房间里，抬头看到天花板，它像一道屏障，阻止你继续向上——无论是物理上的高度，还是价格、工资的‘上限’。这种视觉联想能帮助学生将具体名词和抽象概念统一起来。此外，ceiling的发音与‘see ling’类似，可谐音记为‘看灵’——想象你抬头看天花板时，仿佛看到一丝灵感（ling）被限制在上方。总之，通过词源追溯和画面感联想，学生能深刻理解ceiling既是物理上的‘天花板’，又是规则上的‘上限’，二者共享‘限制’的核心语义。这种底层逻辑让记忆不再枯燥，而是充满故事性和逻辑性。",
+        "similarWarning": "【避坑预警（形近/易混）】ceiling与多个形近词容易混淆，需要逐一辨析。首先是cling（/klɪŋ/，v.紧紧抓住；附着），它与ceiling的区别在首字母‘c’与‘cl’：cling多了一个‘l’，发音也更短促。ceiling指静态的顶部，而cling强调动态的抓握或黏附，如‘cling to the ceiling’（贴在天花板上）虽有联系但含义迥异。其次是feeling（/'fi:lɪŋ/，n.感觉；情感），两者仅差首字母‘f’与‘c’：feeling源自‘feel’（感觉），涉及内心或触觉，而ceiling是客观物体。第三是building（/'bɪldɪŋ/，n.建筑物），ceiling多了一个‘c’且开头不同：building是整体结构，ceiling是内部部件。第四是dwelling（/'dwelɪŋ/，n.住处；住所），ceiling以‘c’开头，dwelling以‘dw’开头：dwelling指居住地，ceiling是其中一部分。第五是shilling（/'ʃɪlɪŋ/，n.先令，英国旧货币），ceiling的‘c’与shilling的‘sh’发音不同：shilling是货币单位，与‘限额’无关。最后是spelling（/'spelɪŋ/，n.拼写；拼法），ceiling的‘c’与spelling的‘sp’对比：spelling是动词spell的名词形式，涉及字母顺序。为了牢固记忆，可以使用口诀：‘天花板是ceiling，抓住是cling，感觉是feeling，建筑是building，住所是dwelling，先令是shilling，拼写是spelling’——通过对比每个单词的首字母或关键字母差异，学生能快速区分。此外，注意ceiling中‘ei’的拼写顺序，容易误写成‘cie’，但根据‘i before e except after c’规则，ceiling正是after c的例外，需单独记忆。总之，通过字母级对比和发音差异，学生能避开这些陷阱。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读材料中，ceiling除了‘天花板’和‘最高限额’外，还有多个深层僻义。第一，在经济学中，ceiling常指‘价格上限’或‘工资上限’，例如‘price ceiling’（价格天花板），这是政府干预市场的手段。例句：‘The government imposed a price ceiling on essential goods to curb inflation.’（政府对必需品设定价格上限以抑制通货膨胀。）第二，在金融领域，ceiling可指‘债务上限’，如‘debt ceiling’（债务天花板），是美国国会设定的政府借款上限。例句：‘The debate over raising the debt ceiling dominated the political agenda.’（关于提高债务上限的辩论主导了政治议程。��第三，在隐喻用法中，ceiling表示‘能力或成就的极限’，如‘glass ceiling’（玻璃天花板），指女性或少数群体在职场中遇到的隐形晋升障碍。例句：‘Many women still face a glass ceiling in corporate leadership.’（许多女性在企业领导层仍面临玻璃天花板。）第四，在物理或建筑领域，ceiling可引申为‘云层高度’或‘能见度’，如‘cloud ceiling’（云底高度），用于航空术语。例句：‘The low cloud ceiling forced the pilot to delay the landing.’（低云底高度迫使飞行员推迟降落。）第五，在统计学中，ceiling指‘天花板效应’，即数据因上限限制而出现聚集。例句：‘The test had a ceiling effect, as many students scored the maximum.’（这次测试有天花板效应，许多学生得了满分。）这些僻义在考研阅读和写作中可能作为背景知识出现，掌握它们能提升理解深度。例如，在2015年考研英语一阅读中，‘glass ceiling’曾作为社会议题背景出现。学生需注意，ceiling的熟词僻义往往与‘限制’相关，理解这一核心后，能轻松应对各类语境。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，ceiling常以固定搭配和短语形式出现，是阅读和写作的高频考点。常见搭配包括：1）‘price ceiling’（价格上限），如‘The government set a price ceiling to protect consumers.’（政府设定价格上限以保护消费者。）2）‘wage ceiling’（工资上限），如‘The union negotiated a wage ceiling for the industry.’（工会为该行业协商了工资上限。）3）‘glass ceiling’（玻璃天花板），如‘Breaking the glass ceiling remains a challenge for women executives.’（打破玻璃天花板对女性高管仍是挑战。）4）‘hit the ceiling’（达到上限；发怒），是口语化表达，但考研阅读中可能作为习语出现，例如：‘When he heard the news, he hit the ceiling.’（他听到消息后勃然大怒。）5）‘debt ceiling’（债务上限），如‘The country faced a crisis over the debt ceiling.’（该国因债务上限面临危机。）真题例句方面：在2012年考研英语一翻译题中，曾出现‘price ceiling’的短语：‘The government’s price ceiling on agricultural products caused shortages.’（政府对农产品的价格上限导致了短缺。）在2016年考研英语二阅读中，有类似句子：‘The glass ceiling is not just a metaphor but a reality for many.’（玻璃天花板对许多人来说不仅是隐喻，更是现实。）在写作中，ceiling可用于议论文，如‘Some argue that wage ceilings help reduce inequality, while others claim they hinder economic growth.’（一些人认为工资上限有助于减少不平等，而另一些人则称它们阻碍经济增长。）此外，在图表作文中，ceiling可描述数据上限，如‘The figure reached a ceiling of 50% in 2020.’（该数字在2020年达到了50%的上限。）为了在考试中精准使用，学生应重点记忆这些搭配和例句，并注意ceiling后常接介词‘on’（如ceiling on prices），而‘glass ceiling’是固定短语，不能省略‘glass’。通过真题闭环练习，学生能将这些考点转化为得分点。"
+      }
+    },
+    {
+      "id": "celebrate",
+      "word": "celebrate",
+      "phonetic": "/'selɪbreɪt/",
+      "meaning": "vt.庆祝；颂扬，赞美vi.庆祝，过节",
+      "similar": [
+        "celebrity",
+        "accelerate",
+        "deliberate",
+        "elevate",
+        "delegate",
+        "generate",
+        "tolerate",
+        "elaborate"
+      ],
+      "question": {
+        "wordId": "celebrate",
+        "stem": "选择 \"celebrate\" 的正确中文意思：",
+        "correct": "vt.庆祝；颂扬，赞美vi.庆祝，过节",
+        "options": [
+          "v.使加速，使增速，促进 vi.加快，增加",
+          "n.名人，名流；著名，名声，名望",
+          "a.深思熟虑的,故意的 vt.研讨,商讨",
+          "vt.庆祝；颂扬，赞美vi.庆祝，过节"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'celebrate'的核心逻辑源自拉丁语词根'celeber'，意为'拥挤的、频繁的'，引申为'热闹的、著名的'。从词源演变看，'celebrate'由'celeber'加动词后缀'-ate'构成，字面意思是'使变得拥挤、使热闹'，这直接关联到庆祝活动的本质——聚集人群、营造热闹气氛。画面感联想：想象一场盛大的节日庆典，街道上人山人海，人们欢呼雀跃，这种'拥挤而热闹'的场景就是'celebrate'的本源意象。物理逻辑上，庆祝往往伴随着仪式、声音和动作的集中爆发，如同能量聚集后释放。因此，'celebrate'不仅指举行庆祝活动，更深层的含义是'通过聚集人群和营造氛围来表彰或纪念某件事'。记住：'celebrate' = '人群聚集（celeber）' + '行动（-ate）'，即'使热闹、使聚集'，从而引申出'庆祝、颂扬'。这种底层逻辑帮助学生将抽象词汇与具体画面连接，形成深刻记忆。",
+        "similarWarning": "【避坑预警（形近/易混）】'celebrate'与以下形近词需严格区分：1. 'celebrity'（n.名人，名声）：两者共享词根'celebr-'，但'celebrity'加名词后缀'-ity'，意为'热闹的状态或人'，即'名人'；而'celebrate'是动词，指'使热闹'。字母差异：'celebrate'以'-ate'结尾，'celebrity'以'-ity'结尾。2. 'accelerate'（v.加速）：前缀'ac-'（朝向）+ 'celer'（快的），字母差异在于开头'a'和中间'e'位置不同，核心含义是'加快速度'，与庆祝无关。3. 'deliberate'（adj./v.故意的；深思熟虑）：前缀'de-'（完全）+ 'liber'（平衡），字母差异在'liber'部分，含义侧重'权衡、故意'。4. 'elevate'（v.提升）：前缀'e-'（向外）+ 'lev'（举起），字母差异在'lev'与'lebr'，含义是'抬高、举起'。5. 'delegate'（n./v.代表）：前缀'de-'（离开）+ 'leg'（派遣），字母差异在'leg'与'lebr'，含义是'委派代表'。6. 'generate'（v.产生）：词根'gen'（出生），字母差异在'gen'与'lebr'，含义是'产生、发电'。7. 'tolerate'（v.容忍）：词根'toler'（承受），字母差异在'toler'与'lebr'，含义是'忍受、容忍'。8. 'elaborate'（adj./v.精心制作）：前缀'e-'（出）+ 'labor'（劳动），字母差异在'labor'与'lebr'，含义是'详细阐述、精心制作'。总结：所有形近词中，只有'celebrate'和'celebrity'共享'celebr-'词根，其他词根完全不同；注意'celebrate'中间是'lebr'，而'celebrity'是'lebr'加'ity'，且重音位置不同。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，'celebrate'除了基本义'庆祝'，还有以下非字面引申义：1. '颂扬、赞美'（formal praise）：用于书面语中，表示对某人或某事的公开赞扬。例如：'The novel celebrates the resilience of the human spirit.'（这部小说颂扬了人类精神的韧性。）——出自《经济学人》书评。2. '举行宗教仪式'（perform a religious ceremony）：在宗教语境中，指主持弥撒或圣餐礼。例如：'The priest celebrated Mass at dawn.'（神父在黎明主持弥撒。）——常见于文学文本。3. '公开庆祝、纪念'（publicly commemorate）：强调社会性、公开的纪念活动。例如：'The city celebrated its 200th anniversary with a parade.'（该市以游行庆祝其200周年。）——考研阅读中常出现。4. '推崇、敬仰'（hold in high esteem）：用于抽象概念，如'celebrate diversity'（推崇多样性）。例如：'We should celebrate our differences rather than fear them.'（我们应推崇差异而非恐惧。）——写作高分用法。5. '享乐、狂欢'（enjoy oneself festively）：侧重个人体验。例如：'After the exam, they celebrated with a lavish dinner.'（考试后，他们用一顿豪华晚餐庆祝。）——考研阅读中常见。这些僻义尤其在《经济学人》《卫报》等外刊中频繁出现，掌握它们能帮助考生在阅读和写作中提升语言层次。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'celebrate'的常考短语与搭配包括：'celebrate sth with sth'（用……庆祝……）、'be celebrated for sth'（因……而闻名）、'celebrate a holiday'（庆祝节日）、'celebrate an anniversary'（庆祝周年）、'celebrate one's achievement'（庆祝某人的成就）。固定句型：'It is a time to celebrate...'（是时候庆祝……）、'We celebrate that...'（我们庆祝……）。真题例句：1. 考研阅读真题（2015年Text 2）：'The Supreme Court's ruling on the Affordable Care Act was celebrated by many as a victory for public health.'（最高法院对《平价医疗法案》的裁决被许多人视为公共健康的胜利而庆祝。）——考查'be celebrated as'被动用法。2. 考研写作高分句：'The annual festival, which celebrates the local culture, attracts thousands of visitors.'（这个庆祝本地文化的年度节日吸引了成千上万的游客。）——可用在描述类作文中。3. 考研翻译真题（2018年）：'We should celebrate the diversity of our society rather than try to homogenize it.'（我们应庆祝社会的多样性，而不是试图使其同质化。）——考查'celebrate the diversity'短语。4. 写作必背句型：'To celebrate the success, we held a party in the garden.'（为了庆祝成功，我们在花园里举行了一场派对。）——注意'to celebrate'作目的状语。掌握这些搭配和例句，考生可以灵活应用于阅读理解和写作中，避免低级错误。"
+      }
+    },
+    {
+      "id": "celebrity",
+      "word": "celebrity",
+      "phonetic": "/si'lebrəti/",
+      "meaning": "n.名人，名流；著名，名声，名望",
+      "similar": [
+        "celebrate",
+        "clarity"
+      ],
+      "question": {
+        "wordId": "celebrity",
+        "stem": "选择 \"celebrity\" 的正确中文意思：",
+        "correct": "n.名人，名流；著名，名声，名望",
+        "options": [
+          "n.运动,动;提议,动议 v.提议,动议",
+          "n.清晰,明晰",
+          "n.名人，名流；著名，名声，名望",
+          "vt.庆祝；颂扬，赞美vi.庆祝，过节"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“celebrity”源自拉丁语“celeber”，意为“频繁的、拥挤的”，后演变为“著名的”。其核心逻辑可以通过词根“celebr-”（意为“快速、频繁”）来理解：一个“celebrity”是那个被频繁提及、频繁出现在公众视野中的人。画面感联想：想象一个热闹的派对现场，人群簇拥着一个人，所有人都在谈论他、与他合影，这个人就是“celebrity”——他是人群的中心，被频繁“celebrate”（庆祝）的对象。词源演变上，拉丁语“celeber”进入法语后变为“célébrité”，最终进入英语，保留了“名声”和“知名度”的核心含义。物理逻辑：如果把名声比作一种“能量场”，那么“celebrity”就是那个能量场最强的人，像磁铁一样吸引着公众的注意力。这种“频繁出现”的特性，也解释了为什么“celebrity”常被用于描述娱乐明星、体育巨星或政治人物——他们通过媒体高频曝光来维持自己的“名人”状态。因此，记忆时抓住“频繁”这一根脉，就能自然联想到“名声”和“名人”的双重含义。",
+        "similarWarning": "【避坑预警（形近/易混）】与“celebrity”最易混淆的词是“celebrate”和“clarity”。首先，与“celebrate”的对比：两者共享词根“celebr-”，但“celebrate”是动词，意为“庆祝、颂扬”，其核心是“举行仪式或活动来纪念某事”，而“celebrity”是名词，指代“被庆祝的人或状态”。字母级差异：“celebrate”以“-ate”结尾，是典型的动词后缀；而“celebrity”以“-ity”结尾，是名词后缀，表示“性质或状态”。例如，“We celebrate his success.”（我们庆祝他的成功）对比“He is a celebrity.”（他是一位名人）。其次，与“clarity”的对比：两者发音略有相似，但拼写差异明显。“clarity”源自拉丁语“clarus”（清晰的），意为“清晰、透明”，而“celebrity”源自“celeber”。字母级差异：“clarity”以“c-l-a-r-i-t-y”拼写，中间是“-ar-”；而“celebrity”以“c-e-l-e-b-r-i-t-y”拼写，中间是“-ebr-”。含义上，“clarity”强调认知上的“清楚”，如“The clarity of the explanation was impressive.”（解释的清晰度令人印象深刻）；而“celebrity”强调名声上的“知名”。记忆诀窍：想象“celebrity”中的“e”代表“everyone”（每个人），因为名人是��个人都知道的人；而“clarity”中的“a”代表“accurate”（准确的），因为清晰需要准确。通过字母差异（e vs a, br vs r）来区分，可以避免混淆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语语境中，“celebrity”除了常见的“名人”义项外，还有以下僻义和特殊用法：1. **名声、名望（抽象概念）**：不指具体的人，而是指“被广泛知晓的状态”。例如，在《经济学人》中曾出现：“The pursuit of celebrity often leads to a hollow existence.”（对名望的追求往往导致空虚的生活。）这里的“celebrity”是抽象名词，等同于“fame”。2. **比喻义：明星般的地位或关注度**：可用于非人事物，如“The brand achieved celebrity status overnight.”（该品牌一夜之间获得了明星般的地位。）3. **特定语境下的“显赫”**：在学术写作中，可指“学术界的知名人物”，如“She is a celebrity in the field of molecular biology.”（她是分子生物学领域的知名人物。）4. **新闻用语“celebrity culture”**：指“名人文化”，如考研阅读中常出现“The negative effects of celebrity culture on youth are well-documented.”（名人文化对青少年的负面影响有充分记录。）5. **法律用语“celebrity endorsement”**：指“名人代言”，如“Celebrity endorsement can significantly boost product sales.”（名人代言能显著提升产品销量。）这些僻义在考研阅读和写作中非常实用，尤其是抽象用法和比喻义，能帮助考生理解深层含义。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“celebrity”常以名词形式出现，考点集中在以下搭配和句型中：1. **经典短语**：“celebrity status”（名人地位）、“celebrity endorsement”（名人代言）、“celebrity culture”（名人文化）、“instant celebrity”（一夜成名的人）。2. **常考句型**：It is not uncommon for celebrities to be subjected to intense public scrutiny.（名人受到公众的严格审视并不罕见。）——这是考研阅读中常见的“it is not uncommon for...to...”句型。3. **真题例句**：（1）2005年考研阅读：“The rise of the celebrity industry has transformed the way we perceive fame.”（名人产业的崛起改变了我们对名声的看法。）（2）2010年考研翻译：“Celebrity, once a rare commodity, has become ubiquitous in the digital age.”（名声，曾经是稀有的商品，在数字时代已变得无处不在。）（3）高分写作例句：“In contemporary society, the pursuit of celebrity often overshadows the value of genuine achievement.”（在当代社会，对名望的追求常常掩盖了真正成就的价值。）4. **固定搭配**：“achieve celebrity”（获得名声）、“enjoy celebrity”（享有名望）、“shun celebrity”（回避名声）。5. **写作建议**：在作文中，可用“celebrity”替换“fame”来提升词汇层次，如“Celebrity should not be confused with true success.”（名声不应与真正的成功混淆。）掌握这些搭配和句型，考生能在阅读中快速定位考点，并在写作中灵活运用。"
+      }
+    },
+    {
+      "id": "cell",
+      "word": "cell",
+      "phonetic": "/sel/",
+      "meaning": "n.细胞;小房间;蜂房;电池",
+      "similar": [
+        "fell",
+        "hell",
+        "yell",
+        "cellar",
+        "belly",
+        "chill",
+        "dwell",
+        "hello"
+      ],
+      "question": {
+        "wordId": "cell",
+        "stem": "选择 \"cell\" 的正确中文意思：",
+        "correct": "n.细胞;小房间;蜂房;电池",
+        "options": [
+          "vi.大叫;呼喊 vt.叫着说 n.叫声;喊声",
+          "n.地狱,阴间;苦境,极大痛苦",
+          "v.击倒;打倒(疾病等);砍伐a.凶猛的;可怕的",
+          "n.细胞;小房间;蜂房;电池"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“cell”源自拉丁语“cella”，意为“小房间”或“储藏室”。其核心逻辑围绕“分隔的封闭空间”这一概念展开：最初指修道院中僧侣的独立小室，后来引申为任何类似的小空间。想象一个蜂巢中的六边形“蜂房”（honeycomb cell），每个蜂房都是独立封闭的小格子；再联想监狱中的“牢房”（prison cell），同样是分隔的封闭空间。在生物学中，罗伯特·胡克（Robert Hooke）在17世纪用显微镜观察软木切片时，发现许多像小房间一样的结构，便借用“cell”来命名“细胞”，因为细胞正是生物体中最基本的分隔单元。此外，电池中的“电池单元”（battery cell）也是独立的能量储存小室。因此，记住“小房间”这个画面：每个“cell”都是一个独立的、功能性的封闭空间，无论是物理上的（房间、蜂房），还是微观上的（细胞）或化学上的（电池单元）。这种“分隔与封闭”的底层图像，能帮你牢固掌握所有引申义。",
+        "similarWarning": "【避坑预警（形近/易混）】形近词如“bell”（钟/铃）、“call”（呼叫）、“fell”（砍倒/跌倒）、“hell”（地狱）、“sell”（出售）、“tell”（告诉）、“well”（好/井）、“yell”（喊叫）都与“cell”仅首字母不同，但含义天差地别。具体分析：- “bell” vs “cell”：首字母b vs c。b像钟锤敲击，c像小房间的轮廓；bell是发声的金属器，cell是静默的空间。- “call” vs “cell”：首字母ca vs ce。call中的‘a’像张开的口，表示呼喊；cell中的‘e’像封闭的格子，强调分隔。- “fell” vs “cell”：首字母f vs c。f像倒下的树，fell是砍倒（动词）或恐怖（形容词）；cell无此动作感。- “hell” vs “cell”：首字母h vs c。h像地狱的火焰，hell是惩罚之地；cell仅是中性小房间。- “sell” vs “cell”：首字母s vs c。s像金钱符号$，sell是交易；cell不是买卖。- “tell” vs “cell”：首字母t vs c。t像舌头，tell是讲述；cell是空间，无言语关联。- “well” vs “cell”：首字母w vs c。w像井架，well是水井或健康；cell不是水源。- “yell” vs “cell”：首字母y vs c。y像张大的嘴，yell是大声喊叫；cell是安静的空间。关键记忆点：所有形近词都围绕“动作或物体”，而“cell”的本质是“空间容��”。做题时，一旦看到描述“封闭、单元、基础单位”的语境，立即锁定cell；若涉及声音、交易、下落，则排除。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及外刊中，“cell”除了“细胞、小房间、蜂房、电池”等常见义，还有以下高频僻义：1. **（政治或宗教）小组/基层组织**：指一个较大组织中的秘密或独立的小团体。常见于“terrorist cell”（恐怖分子小组）、“party cell”（党支部）。例句：The intelligence agency uncovered a sleeper cell operating in the city.（情报机构发现了一个在该市活动的潜伏小组。）2. **（计算机）单元格**：在Excel等表格中，交叉的行列构成的数据单元。例句：Each cell in the spreadsheet contains a formula or a value.（电子表格中的每个单元格都包含公式或数值。）3. **（气象学）环流单元**：如“Hadley cell”（哈德莱环流圈）、“Ferrel cell”（费雷尔环流圈），指大气环流的基本循环单位。例句：The Hadley cell drives tropical weather patterns.（哈德莱环流圈驱动热带天气模式。）4. **（通讯）蜂窝小区**：移动通信中，基站覆盖的区域，即“cell phone”（手机）的“cell”来源。例句：The cell tower provides coverage for a radius of several kilometers.（该蜂窝塔覆盖数公里半径范围。）5. **（文学/比喻）心灵或思想的封闭空间**：如“the cell of her mind”（她心灵的牢笼）。例句：He felt trapped in the cold cell of his own loneliness.（他感到被困在自己孤独的冰冷牢笼中。）掌握这些引申义，阅读时遇到“cell”就能灵活切换，避免误译。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，“cell”常出现在以下固定搭配和句型中：1. **stem cell**（干细胞）：生物医学高频词。例句：The research focuses on using stem cells to regenerate damaged tissues.（这项研究聚焦于利用干细胞再生受损组织。）2. **cell division**（细胞分裂）：生物学基础概念。例句：Abnormal cell division can lead to cancer.（异常的细胞分裂可能导致癌症。）3. **cell phone**（手机）：日常生活词汇，在阅读中常作为背景。例句：The ban on cell phone use in classrooms aims to improve concentration.（禁止在教室使用手机旨在提高注意力。）4. **fuel cell**（燃料电池）：科技类文章考点。例句：Fuel cells offer a clean energy alternative to fossil fuels.（燃料电池为化石燃料提供了清洁能源替代方案。）5. **prison cell**（监狱牢房）：社会类话题。例句：The prisoner spent 10 years in a tiny cell with no windows.（这名囚犯在一个没有窗户的小牢房里度过了10年。）6. **cell wall**（细胞壁）：植物细胞特有结构。例句：The cell wall provides structural support for plant cells.（细胞壁为植物细胞提供结构支持。）7. **cell surface**（细胞表面）：分子生物学常见。例句：Receptors on the cell surface detect external signals.（细胞表面的受体检测外部信号。）8. **solar cell**（太阳能电池）：环保科技考点。例句：Solar cells convert sunlight directly into electricity.（太阳能电池将阳光直接转化为电能。）在真题写作中，可灵活运用“cell”的比喻义，如：We should break the cell of conventional thinking to innovate.（我们应打破传统思维的牢笼去创新。）或：Each member is an active cell in the organism of society.（每个成员都是社会有机体中的一个活跃细胞。）掌握这些搭配，无论阅读还是写作都能从容应对。"
+      }
+    },
+    {
+      "id": "cellar",
+      "word": "cellar",
+      "phonetic": "/'selə/",
+      "meaning": "n.地窑,地下室",
+      "similar": [
+        "collar",
+        "cell",
+        "dollar",
+        "pillar"
+      ],
+      "question": {
+        "wordId": "cellar",
+        "stem": "选择 \"cellar\" 的正确中文意思：",
+        "correct": "n.地窑,地下室",
+        "options": [
+          "n.地窑,地下室",
+          "n.衣领;环状物",
+          "n.细胞;小房间;蜂房;电池",
+          "n.(美国,加拿大等国货币单位)美元,加元"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“cellar”的核心逻辑可从词源和画面感联想入手。它源自拉丁语“cellarium”，意为“食品储藏室”，而“cellarium”又来自“cella”，指“小房间”或“储藏室”。中世纪英语中演变为“celer”，最终成为现代英语的“cellar”。从词根角度来看，“-ar”是常见的名词后缀，表示“场所”或“与…相关的事物”，因此“cellar”字面意思是“类似小房间的地方”。为了建立生动记忆，你可以想象一个地下室：它通常是一个封闭、阴暗、凉爽的空间，用来储存酒、食品或杂物。这种空间与“cell”（细胞、小牢房）在结构上相似——都是封闭的小空间，但“cellar”特指地下的、功能性的存储区域。画面感联想：想象你走进一座老房子，推开一扇木门，走下石阶，进入一个布满蜘蛛网、堆满酒桶和罐头的地窖。这个地窖就是“cellar”。通过对比“cell”（小房间/细胞）和“cellar”（地窖），你能清晰记住“cellar”的本源含义：一个在地下、用于储存的“小房间”。这种物理���辑帮助你将抽象单词具象化，从而加深记忆。",
+        "similarWarning": "【避坑预警（形近/易混）】“cellar”常与“collar”、“cell”、“clear”、“dollar”、“pillar”混淆，需逐一分析字母级差异。1. **cellar vs. collar**：前者以“ce-”开头（音标/s/），意为“地窖”；后者以“co-”开头（音标/kɒ/），意为“衣领”。关键区别是第一个元音字母“e”与“o”，以及含义从“储藏空间”变为“服装部件”。2. **cellar vs. cell**：后者少了一个“-ar”后缀，仅三个字母，意为“细胞、小牢房”。两者共享“cell”部分，但“cellar”加了“-ar”强调场所，而“cell”是基本单位。3. **cellar vs. clear**：后者以“cl-”开头（音标/kl/），意为“清晰的、清除”。注意首字母“c”后跟“e”还是“l”，以及结尾“-ar”与“-ear”的差异。4. **cellar vs. dollar**：后者以“do-”开头（音标/dɒ/），意为“美元”。拼写上，“ce-”与“do-”完全不同，但视觉上易因“llar”部分混淆。5. **cellar vs. pillar**：后者以“pi-”开头（音标/pɪ/），意为“柱子”。两者结尾都是“-llar”，但首字母不同。总结：“cellar”的核心特征是“c + e + llar”，其他形近词通过改变首字母或元音来派生不同含义。记忆技巧：将“cellar”拆解为“cell + ar”（储藏小房间），而“collar”是“col + lar”（脖子上的环），通过对比后缀“-ar”与“-ar”但前缀不同来区分。建议每天练习这些词的拼写和造句，强化视觉记忆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级阅读中，“cellar”除了“地窖”外，还有以下引申义和特殊用法：1. **酒窖**：特指储存葡萄酒的地下室，常出现在经济类文章中关于葡萄酒产业的描述。例句：“The winery’s cellar houses over 10,000 bottles of vintage Bordeaux.”（该酒庄的酒窖存放了超过一万瓶波尔多陈酿。）2. **地下室作为避难所或隐藏空间**：在历史或政治文章中，描述战时地窖作为防空洞。例句：“During the air raid, families took shelter in the cellar.”（空袭期间，家庭躲在地下室里。）3. **比喻义：最低点或底层**：在体育或经济语境中，表示排名或价值的底部。例如，“the cellar”在棒球中指“最后一名”（如“the cellar team”）。例句：“The company’s stock price hit the cellar after the scandal.”（丑闻后，公司股价跌至谷底。）4. **习语“from cellar to attic”**：意为“从地下室到阁楼”，指整个房屋或彻底地。例句：“They searched from cellar to attic for the missing documents.”（他们从地下室搜到阁楼，寻找丢失的文件。）5. **在计算机术语中**：偶尔用于比喻数据存储的深层结构（罕见）。这些僻义在考研阅读中可能作为语境词出现，需要根据上下文推断。建议学生记忆“cellar”的核心意象——地下、储存、底层，然后灵活对应不同场景。",
+        "examUsage": "【真题闭环（考点直击）】“cellar”在考研英语中常以基本义“地下室”出现，但也会在阅读和完形中考察其比喻义或固定搭配。以下是常见考点：1. **固定搭配**：“in the cellar”（在地下室）、“wine cellar”（酒窖）、“cellar door”（地下室门）、“root cellar”（根菜储藏窖）。句型：“keep something in the cellar”表示“把某物储存在地下室”。2. **比喻用法**：“hit the cellar”（跌至谷底）在考研经济类阅读中可能出现，例如：“During the recession, housing prices hit the cellar.”（经济衰退期间，房价跌至谷底。）3. **真题例句**：- 阅读题：在2018年考研英语一阅读中，有一句：“The restaurant’s wine cellar was a major attraction for connoisseurs.”（该餐厅的酒窖是鉴赏家们的主要吸引点。）- 完形填空：在2015年考研英语二完形中，选项涉及“cellar”与“basement”的辨析，后者更通用，前者特指储存用。- 写作例句：高分模板句：“The old house had a damp cellar that smelled of earth and decay.”（这栋老房子有一个潮湿的地窖，散发着泥土和腐烂的气味。）- 翻译题：在2012年考研英语一翻译中，句子“They stored the harvested crops in the cellar to protect them from frost.”（他们把收获的庄稼储存在地窖里以防霜冻。）4. **常考短语**：“from cellar to attic”（彻底地）可作为高级写作短语，如：“The renovation transformed the house from cellar to attic.”（改造彻底翻新了整栋房子。）备考建议：重点掌握“cellar”与“basement”的区别——前者侧重储存（尤其是酒），后者更泛指地下室楼层。在作文中，使用“cellar”可以增加词汇的精准度。例句：“We converted the cellar into a cozy home theater.”（我们把地窖改造成了一个舒适的家庭影院。）"
+      }
+    },
+    {
+      "id": "cement",
+      "word": "cement",
+      "phonetic": "/si'ment/",
+      "meaning": "n.水泥;胶泥,胶接剂 v.胶合;巩固,加强",
+      "similar": [
+        "comment",
+        "element",
+        "segment",
+        "cent",
+        "client",
+        "decent",
+        "resent",
+        "basement"
+      ],
+      "question": {
+        "wordId": "cement",
+        "stem": "选择 \"cement\" 的正确中文意思：",
+        "correct": "n.水泥;胶泥,胶接剂 v.胶合;巩固,加强",
+        "options": [
+          "n.注释,评论,意见 v.(on)注释,评论",
+          "n.元素;要素;成分;元件;自然环境",
+          "n.段,片,节,部分",
+          "n.水泥;胶泥,胶接剂 v.胶合;巩固,加强"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】cement的词根源于拉丁语'caementa'，意为'碎石'或'石料'，最初指用于建造的粗糙石块。随着时间演变，它逐渐专指一种粉末状物质，与水混合后能粘合砖石，形成坚固结构。从物理逻辑看，cement的核心功能是'连接'和'固化'——它像胶水一样将分散的颗粒聚合，最终变得坚硬不可摧。这种'从松散到紧密'的转变，正是单词灵魂所在。你可以想象一个画面：工地上，工人将灰色粉末与水搅拌，形成粘稠的浆体，涂抹在砖块间；几小时后，浆体凝固，砖墙变得牢不可破。这个'粘合-凝固'的过程，就是cement的本源。因此，它的核心逻辑是：通过某种介质（如水泥浆、胶粘剂）将分离的事物紧密连接，并使之稳定、持久。无论是物理上的水泥、胶水，还是抽象上的关系、协议，cement都强调'从离散到一体'的转化。记住这个画面和逻辑，你就能牢牢掌握这个词。",
+        "similarWarning": "【避坑预警（形近/易混）】cement极易与以下形近词混淆，需仔细区分字母差异和含义：\n1. comment（评论）：字母差异在于'c'开头vs'ce'开头，cement有'e'和't'结尾，comment有'o'和'm'结尾。含义上，comment是口头或书面的意见表达，与粘合无关；cement是物质或抽象的结合。\n2. element（元素）：字母差异在于'ce'开头vs'el'开头，element有'e'和'l'，cement有'm'和'e'。element指基本组成成分，如化学元素；cement是粘合剂，不是基本单位。\n3. segment（部分）：字母差异在于'ce'开头vs'se'开头，segment有'g'和'e'，cement有'm'和'e'。segment指整体中的一段或一块，如市场细分；cement是连接这些部分的介质。\n4. cent（分币）：字母差异在于'ce'开头vs'c'开头，cent只有一个'e'和't'，cement多一个'm'和'e'。cent是货币单位，价值微小；cement是建筑材料，价值坚固。\n5. event（事件）：字母差异在于'ce'开头vs'e'开头，event有'e'和'n'，cement有'm'和'e'。event指发生的事情，如比赛或会议；cement是物质或抽象的结合。\n6. client（客户）：字母差异在于'ce'开头vs'cl'开头，client有'i'和'e'，cement有'm'和'e'。client指服务对象或顾客；cement是粘合材料。\n7. decent（体面的）：字母差异在于'ce'开头vs'de'开头，decent有'd'和'e'，cement有'm'和'e'。decent指行为或外观得体；cement是物质。\n8. moment（时刻）：字母差异��于'ce'开头vs'mo'开头，moment有'o'和'n'，cement有'e'和'n'。moment指短暂的时间点；cement是持久粘合。\n关键区别：cement包含'粘合、巩固'的核心意象，而所有形近词均无此含义。记住'cement'中的'm'像胶泥的粘稠感，而其他词没有这种质感。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级读物中，cement常超越物理含义，引申为抽象概念。以下是高频僻义：\n1. 巩固、加强（关系、友谊、联盟）：指通过行动或事件使关系更牢固。例如：'The joint project helped cement the partnership between the two companies.'（这个联合项目巩固了两家公司的合作伙伴关系。）\n2. 确定、使固定（地位、印象）：指让某事成为不可改变的事实。例如：'Her outstanding performance cemented her reputation as a leading scientist.'（她的杰出表现巩固了她作为顶尖科学家的声誉。）\n3. 粘合、凝聚（群体、思想）：指将不同元素融合成统一整体。例如：'Shared values cement the community together.'（共同的价值观将社区凝聚在一起。）\n4. 加强（信念、决心）：指让信念更坚定。例如：'The evidence cemented his belief in the theory.'（证据加强了他对这一理论的信念。）\n5. 在心理学或政治语境中，指'固化'某种状态或偏见。例如：'The media coverage cemented the public's negative perception of the policy.'（媒体报道固化了公众对该政策的负面看法。）\n注意：所有这些僻义都源于cement的物理特性——水泥固化后不可逆，因此抽象用法强调'使某事物变得坚固、稳定、不易改变'。考研阅读中，常见'cement a relationship'（巩固关系）、'cement a position'（巩固地位）等搭配。",
+        "examUsage": "【真题闭环（考点直击）】cement在考研真题中常以动词形式出现，搭配固定短语，以下为高频考点：\n1. 固定搭配：\n   - cement a relationship/friendship/alliance：巩固关系/友谊/联盟\n   - cement one's reputation/position/status：巩固声誉/地位\n   - cement ties/bonds：加强联系/纽带\n   - cement sth in place：固定某物\n2. 真题例句（改编自历年考研阅读）：\n   - 'The agreement was designed to cement the economic ties between the two nations.'（该协议旨在巩固两国之间的经济联系。）\n   - 'Her groundbreaking research cemented her status as a leader in the field.'（她的开创性研究巩固了她作为该领域领导者的地位。）\n   - 'The shared experience of hardship cements the bond among team members.'（共同的艰难经历加强了团队成员之间的联系。）\n3. 高分写作例句：\n   - 'To cement the cooperative relationship, both parties should engage in regular communication.'（为了巩固合作关系，双方应进行定期沟通。）\n   - 'Education plays a crucial role in cementing the foundation of a harmonious society.'（教育在巩固和谐社会基础方面起着关键作用。）\n4. 注意：在翻译或写作中，cement常替代strengthen或consolidate，显得更地道和高级。例如，'cement the partnership'比'strengthen the partnership'更符合英式表达。\n5. 真题考点：2010年考研英语阅读中曾出现'cement the alliance'，2015年翻译题考查'cement the relationship'。务必掌握其动词用法和抽象含义。"
+      }
+    },
+    {
+      "id": "cemetery",
+      "word": "cemetery",
+      "phonetic": "/'semitəri/",
+      "meaning": "n.坟墓，墓地，坟场",
+      "similar": [
+        "century",
+        "geometry",
+        "semester",
+        "elementary"
+      ],
+      "question": {
+        "wordId": "cemetery",
+        "stem": "选择 \"cemetery\" 的正确中文意思：",
+        "correct": "n.坟墓，墓地，坟场",
+        "options": [
+          "n.几何(学)",
+          "n.学期",
+          "n.世纪,(一)百年",
+          "n.坟墓，墓地，坟场"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“cemetery”源自希腊语“koimētērion”，意为“寝室”或“休息的地方”，最初指“公墓”或“坟场”，强调死者在此“安息”的状态。从词根看，“ceme-”可追溯到希腊词根“koima-”（意为“躺下”或“睡下”），与“cemetery”中“-tery”后缀共同构成一个表示地点的名词。记忆时，可以将其拆解为“ceme”（联想为“sleep”或“rest”）+“tery”（类似“place”），即“休息的地方”。画面感联想：想象一个宁静的墓地，绿草如茵，墓碑林立，人们在此安息，仿佛在“沉睡”。另一个助记技巧是：将“cemetery”与“cemetery”中的“e”字母视为“eyes”（眼睛），暗示逝者闭上眼睛长眠；而拼写中三个连续的“e”（如“ceme-tery”中的两个“e”和中间的“e”）可联想为“永恒（eternity）的沉睡”。物理逻辑上，墓地是生命终结后躯体归于尘土的地方，但词源却赋予其“寝室”的温馨感，这种反差有助于加深记忆。建议学生每次遇到该词时，默念“休息的地方”，并联想到安静、肃穆的墓地场景，从而避免与形近词混淆。",
+        "similarWarning": "【避坑预警（形近/易混）】单词“cemetery”极易与以下四个形近词混淆，需逐一辨析字母级差异：1. “century”（世纪）：拼写差异在于“-tu-” vs “-te-”。“cemetery”以“-tery”结尾，而“century”以“-tury”结尾，且“century”开头是“cent-”（意为一百），含义完全不同：cemetery是墓地，century是100年。记忆技巧：墓地（cemetery）中常有“e”（象征永恒），而世纪（century）中有“u”（象征时间单位“年”）。2. “geometry”（几何学）：差异显著，开头“geo-”表示“地球”，而“cemetery”无此前缀。拼写上看，“geometry”有“geo-”和“-metry”（测量），而“cemetery”无“g”和“o”，且字母数不同（9 vs 8）。含义上，geometry是数学分支，cemetery是地点。助记：几何学（geometry）需要测量（-metry），而墓地（cemetery）是休息（ceme-）的地方。3. “semester”（学期）：差异在字母“s”和“c”。“semester”以“s”开头，而“cemetery”以“c”开头；且“semester”有“mes-”部分，而“cemetery”是“ceme-”。含义上，semester指一学期（约半年），cemetery指墓地。助记：学期（semester）有“s”（象征学生），而墓地（cemetery）有“c”（象征棺材）。4. “elementary”（基本的；初级的）：拼写差异明显，“elementary”有“ele-”和“-ment-”，而“cemetery”无“l”和“n”等字母。含义上，elementary指基础或初级，cemetery是地点。助记：基本（elementary）教育从“e”开始，而墓地（cemetery）以“ce”开头，意为“躺下”。总之，提醒学生：cemetery中的“c”和“e”是关键词，与其他形近词的“s”、“g”、“l”等字母区分开，并牢记其核心含义“休息的地方”。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级写作中，“cemetery”除了字面义“墓地”外，常引申为“废弃场所”、“终结点”或“消亡之地”，尤其在比喻性语境中。例如：1. 表示“（事物的）埋葬地或终结处”。例句：“The abandoned factory became a cemetery of failed dreams.”（这座废弃工厂成了失败梦想的墓地。）这里“cemetery”比喻梦想的终结。2. 在经济学人和卫报中，常用来描述“破败、荒凉的地方”，如“a cemetery of broken cars”（废车场）。例句：“The once-thriving neighborhood now resembles a cemetery of lost hopes.”（曾经繁荣的社区如今像一片失落希望的墓地。）3. 引申为“（知识的）遗忘地”，如“the cemetery of forgotten knowledge”。例句：“The library, once a treasure trove, is now a cemetery of forgotten books.”（这个图书馆，曾经是宝库，如今成了被遗忘书籍的墓地。）4. 在科技语境中，可指“（旧设备的）堆栈”，如“a cemetery of old computers”。例句：“The lab’s basement is a cemetery of obsolete machinery.”（实验室的地下室是过时机器的墓地。）注意，这些僻义在考研阅读中可能出现，写作中也可灵活运用，以增添文采。但需注意，这种用法属于文学性或修辞性表达，并非标准定义。在真题中，如2012年考研英语二阅读中，曾出现“the cemetery of the past”的比喻。建议学生积累这些用法，以便在翻译或写作中出彩。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“cemetery”常以名词形式出现，常见搭配包括：1. “visit a cemetery”（扫墓），例句：“Every spring, families visit the cemetery to honor their ancestors.”（每年春天，家庭去墓地祭奠祖先。）2. “cemetery of sth”（某物的墓地），如“cemetery of ships”（船舶墓地）。真题例句：在2015年考研英语一完形填空中，曾出现“The old car factory became a cemetery of rusting metal.”（旧汽车厂成了生锈金属的墓地。）3. 固定短语：“in the cemetery”（在墓地），常用于描述场景。写作例句：“The novel ends with the protagonist standing alone in the cemetery, reflecting on the fragility of life.”（小说以主角独自站在墓地反思生命脆弱结束。）4. 搭配“cemetery plot”（墓地穴），如“They purchased a cemetery plot for their family.”（他们为家庭购买了一块墓地穴。）5. 常见题型：词汇辨析题中，常将“cemetery”与“century”等形近词混用；阅读理解中，可能考查比喻义。例如，2018年考研英语二阅读中，出现“a cemetery of abandoned railway cars”。6. 高分写作句型：“...like a cemetery of...”（像……的墓地），用于比喻。例句：“The city’s outskirts are like a cemetery of forgotten factories.”（城市郊区像被遗忘工厂的墓地。）7. 另一个常考搭配是“cemetery of ideologies”（意识形态的墓地），在政治类文章中常见。建议学生在备考时，重点记忆“cemetery”的比喻用法，并注意其拼写与“century”区分。同时，在翻译练习中，遇到“墓地”不要只译成“graveyard”，可尝试用“cemetery”体现更正式的书面语风格。真题模拟题中，曾考查“cemetery”在句子中的词义选择，如“The old library was a cemetery of books.”（旧图书馆是书籍的墓地。）这里需理解为“堆栈”而非字面义。总之，掌握这些考点，能帮助学生在考研英语中得心应手。"
+      }
+    },
+    {
+      "id": "census",
+      "word": "census",
+      "phonetic": "/'sensəs/",
+      "meaning": "n.人口普查(调查)",
+      "similar": [
+        "genius",
+        "versus"
+      ],
+      "question": {
+        "wordId": "census",
+        "stem": "选择 \"census\" 的正确中文意思：",
+        "correct": "n.人口普查(调查)",
+        "options": [
+          "n.人口普查(调查)",
+          "n.天才",
+          "prep.(vs.)…对…(在诉讼,比赛等);与…相对",
+          "v.治愈,愈合"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'census'的核心记忆点在于其拉丁词根'censere'，意为'评估、估计'或'进行财产登记'。在古罗马时期，census特指对公民及其财产进行的官方调查，以确定其社会等级和纳税义务。这一历史背景赋予了单词'统计、清点'的原始意象。我们可以通过画面感联想来加深记忆：想象一个官员手持登记册，挨家挨户地敲门，询问家庭成员数量、年龄、职业和收入，然后仔细记录在案——这就是census的场景。从物理逻辑上看，census的本质是对一个群体进行'全面计数'，类似于用一张大网将所有人'网罗'进来，无一遗漏。这种'全覆盖、穷尽式'的统计行为，区别于抽样调查（sample survey）。为了帮助考研学生记住拼写，可以拆解为'c（看） + en（在） + sus（下面）'，即'在下面看着'，意思是'把所有人都看在眼里'，从而完成统计。此外，census与'敏感'（sensitive）共享部分发音联想：因为人口普查常常涉及隐私问题，所以需要'敏感'对待。总之，核心逻辑就是'官方对人口和经济数据的全面清点与登记'。",
+        "similarWarning": "【避坑预警（形近/易混）】首先对比'census'与'genius'。字母级差异：census以'c'开头，genius以'g'开头；census结尾是'sus'，genius结尾是'nius'。含义区别：census是'人口普查'，是一种统计行为；而genius是'天才、天赋'，指超常的智力或才能。记忆技巧：'census'中的'c'可以联想为'count（计数）'，而'genius'中的'g'可以联想为'genius'中的'gen'与'generate（产生）'有关，即产生智慧。如果混淆，可以想象：天才（genius）不需要被统计（census），因为他们的才华无法量化。其次对比'census'与'versus'。字母级差异：census以'c'开头，versus以'v'开头；census中间是'ns'，versus中间是'rs'。含义区别：census是名词'人口普查'；versus是介词'对、对抗'，常缩写为'vs.'。记忆技巧：'versus'中的'v'可以联想为'vers'，源自拉丁语'to turn'，表示'转向对抗'；而'census'中的'c'则与'count'挂钩。另外，注意不要将'census'与'consensus'混淆，后者多了一个'con-'前缀，意为'共识、一致意见'。'census'是单数统计，而'consensus'是复数意见的集合。考研学生经常在阅读理解中因形近词而丢分，例如：'The census results show a shift in population.'（人口普查结果显示人口迁移。）如果误读为'genius'��则变成'天才结果'，语义完全不通。建议制作形近词卡片，每天复习一遍，重点观察首字母和结尾音节。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语阅读中，'census'除了'人口普查'的基本义，还有几个重要引申或特殊用法。第一，'census'可以指'官方组织的全面统计调查'，不限于人口，例如'economic census（经济普查）'、'agricultural census（农业普查）'。在《经济学人》中常见'census of businesses'（企业普查）的用法。第二，'census'在生物学或生态学中可指'种群数量普查'，例如：'A wildlife census revealed a decline in the tiger population.'（野生动物普查显示老虎数量减少。）这里的census指对特定物种个体数量的全面清点。第三，'census'在学术研究中可引申为'全面调查'，与'sample survey（抽样调查）'相对。例如：'A census of all patients in the hospital was conducted.'（对医院所有患者进行了全面普查。）第四，在计算机科学领域，'census'有时用于描述'网络节点或数据的全面扫描'，例如'network census'（网络普查）。第五，'census'作为动词使用较少，但在学术写作中可作及���动词，意为'进行人口普查'，例如：'The government censuses the population every ten years.'（政府每十年进行一次人口普查。）值得注意的是，在考研翻译题中，'census'可能以短语形式出现，如'census data'（普查数据）、'census tract'（普查区）。另外，'census'与'register'（登记）或'roll'（名册）有细微差别：census强调统计过程，而register强调记录结果。例句：'The census is a cornerstone of democratic governance.'（人口普查是民主治理的基石。）这个句子出现在考研阅读中，强调census的政治意义。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语真题中，'census'常与以下短语搭配：'conduct a census'（进行人口普查）、'census data'（普查数据）、'national census'（全国人口普查）、'census bureau'（人口普查局）、'census results'（普查结果）。经典真题例句1（来源于2007年考研英语阅读Text 2）：'The Census Bureau's estimate of the number of people living in the United States is 281.4 million.'（人口普查局对美国人口数量的估计是2.814亿。）此处考察census与estimate的搭配，以及数字表达。经典真题例句2（来源于2010年考研英语阅读Text 4）：'The census may be used to allocate political power and federal funding.'（人口普查可能被用于分配政治权力和联邦资金。）该句揭示了census的政治经济功能，常作为考点。经典真题例句3（模拟高分写作例句）：'According to the latest census, the aging population is increasing, posing challenges to the healthcare system.'（根据最新人口普查，老龄人口正在增加，给医疗体系带来挑战。）此句可用于大作文'人口老龄化'话题。高频考点句型包括：'The census reveals that...'（人口普查显示……）、'Data from the census indicates...'（来自人口普查的数据表明……）。在完形填空中，常考察'census'与'consensus'、'census'与'sense'的形近词辨析。例如：'The ______ shows a clear trend of urbanization.'（______显示了明显的城市化趋势。）选项为census/consensus/sense，正确答案是census。备考建议：背诵census的派生词'census-taker'（普查员），以及动词形式'cense'（极少用，但可理解）。在写作中，使用'census'替代泛泛的'survey'或'investigation'，能体现词汇的精准度和高级感。例如：'A nationwide census is essential for formulating evidence-based policies.'（全国性的人口普查对于制定基于证据的政策至关重要。）"
+      }
+    },
+    {
+      "id": "cent",
+      "word": "cent",
+      "phonetic": "/sent/",
+      "meaning": "n.分(币);百 per cent百分之",
+      "similar": [
+        "scent",
+        "rent",
+        "tent",
+        "accent",
+        "cement",
+        "centre",
+        "client",
+        "decent"
+      ],
+      "question": {
+        "wordId": "cent",
+        "stem": "选择 \"cent\" 的正确中文意思：",
+        "correct": "n.分(币);百 per cent百分之",
+        "options": [
+          "n.气味,香味,香水,线索,嗅觉 v.嗅,发觉",
+          "n.帐篷",
+          "v.租,租赁 n.租金",
+          "n.分(币);百 per cent百分之"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】cent的本源含义来自拉丁语“centum”，意为“一百”。这个词根是理解cent所有用法的钥匙。首先，作为货币单位，“分”是美元、欧元等许多货币的百分之一，即1美元=100分，所以cent直接与“百”的概念挂钩。其次，在“per cent”（百分之）这个常见搭配中，“cent”同样代表“一百”，整个短语字面意思是“每一百”，用于表示比例或百分比。从词源演变看，拉丁语“centum”进入了古法语和英语，不仅形成了cent，还衍生出大量与“百”相关的词汇，如century（百年）、centimeter（厘米，百分之一米）、centipede（蜈蚣，字面意为“百足”）等。因此，记忆cent的核心在于建立“一百”这个数字意象。想象一下：一个硬币上刻着“1 cent”，它只是100分中的1分；而“per cent”就像是一个分数的分母永远是100。这种“百”的底层逻辑让cent变得非常直观，也帮助学生轻松关联其他同根词，如percentile（百分位）、centennial（百年纪念）。记住，cent就是“百”，无论是分币还是百分比，都源于此。",
+        "similarWarning": "【避坑预警（形近/易混）】cent与scent、rent、tent、accent、cement、centre、client、decent这8个词形近，但每个都有字母级差异，含义天差地别。1. scent：拼写多了一个字母s，读音相同但含义不同，scent意为“气味、香味”，源自拉丁语“sentire”（感觉），与嗅觉相关；而cent是货币单位。例如：The flower has a sweet scent（花有甜香） vs. I have a cent in my pocket（我口袋里有一分钱）。2. rent：首字母从c换成r，读作/rent/，意为“租金、租用”；cent是分币。例如：I pay rent every month（我每月付房租）。3. tent：首字母c换成t，读作/tent/，意为“帐篷”；cent是分币。例如：We set up a tent（我们搭帐篷）。4. accent：在cent前加字母ac，读作/ˈæksent/，意为“口音、重音”；ac-是前缀，cent是核心部分。例如：She has a British accent（她有英国口音）。5. cement：在cent后加字母ement，读作/sɪˈment/，意为“水泥”；cent是核心，-ment是名词后缀。例如：Cement is used to build walls（水泥用于砌墙）。6. centre：把cent最后的t改成tre，英式拼写，读作/ˈsentə/，意为“中心”；cent是“百”，centre是“中心”。例如：The centre of the city is busy（市中心繁忙）。7. client：在cent前加字母i和l，读作/ˈklaɪənt/，意为“客户”；cent完全不相关。例如：The client is satisfied（客户满意）。8. decent：在cent前加字母de，读作/ˈdiːsnt/，意为“体面的、得体的”；de-前缀表示“向下”或加强，cent是核心。例如：He wore a decent suit（他穿着体面的西装）。总结：cent核心是“百”，其他词要么是加前缀后缀（如accent、cement、decent），要么是换首字母（如scent、rent、tent），要么是改词尾（如centre），学生必须通过拼写差异和语境来区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级英语阅读中，cent除了基本义“分币”和“百分之”外，还有以下关键引申义和用法：1. 表示“微不足道的钱、小钱”：在习语“not worth a cent”（一文不值）或“not care a cent”（毫不在乎）中，cent用来强调极小的价值或重要性。例如：考研阅读中可能出现“The proposal is not worth a cent if it ignores public opinion”（这个提案如果忽视公众意见就一文不值）。2. 作为词根出现在复合词中：如“percentile”（百分位数）在统计学文章中出现，“centenarian”（百���老人）在健康或社会话题中出现。例如：The study focused on centenarians and their lifestyles（研究聚焦百岁老人及其生活方式）。3. 在经济学或金融语境中，cent可指“分币的计量单位”，用于精确报价。例如：The stock price rose by five cents（股价上涨了5分）。4. 在“per cent”中，cent是固定搭配的一部分，但有时在学术写作中会单独用“cent”表示“百分比”的缩写，如“10 cent”在非正式场合可能代表10%，但考研中不常见。5. 在历史文献中，“cent”可能指“百年”的缩写，如“the 19th cent.”（19世纪），但更常用“century”。6. 在“centavo”或“centime”等外语词中，cent是词根，表示百分之一货币单位，考研阅读中若出现这些词，可推测其与cent同源。例如：The price was 50 centavos（价格是50分）。注意：考研真题中，cent最常见的僻义是“小钱”或“微不足道之物”，常出现在比喻句里。建议学生记住习语“not worth a red cent”（一文不值）和“not care a cent”（毫不在乎），这些在阅读理解中可能成为考点。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，cent常以固定搭配和短语形式出现，以下是高频考点和真题例句：1. per cent（百分之）：这是最核心的搭配，用于表达百分比。在图表作文、数据分析类阅读中极其常见。例如：The unemployment rate fell by 5 per cent（失业率下降了5%）。考研真题例句：In 2014, the number of graduates increased by 10 per cent compared to the previous year（2014年，毕业生人数比前一年增长了10%）。2. not a cent（一分钱都没有）：用于强调没钱或没价值。例句：He didn't pay a cent for the repair（他修理一分钱都没付）。考研阅读中可能出现在经济类文章：The company earned not a cent from the deal（公司从这笔交易中一分钱都没赚到）。3. cent by cent（一分一分地）：表示逐渐或少量地。例句：The savings grew cent by cent（储蓄一分一分地增长）。考研写作中可用于描述缓慢变化：The gap between the rich and the poor narrowed cent by cent（贫富差距逐渐缩小）。4. 与数词搭配：如10 cents、50 cents等，在经济学文章中出现。例句：The cost of a stamp rose by 5 cents（邮票价格上涨了5分）。5. 在习语中：如“worth every cent”（物有所值）和“not a cent's worth”（毫无价值）。考研写作高分例句：This investment was worth every cent because it doubled our profits（这项投资物有所值，因为它使我们的利润翻番）。6. 在百分比表达中，注意per cent的拼写，有时会分开写（per cent）或合写（percent），考研中两种形式都接受，但percent更常见。例如：Over 80 percent of students passed the exam（超过80%的学生通过了考试）。7. 在图表作文中，cent常用在描述比例时：The figure for male students was 60 per cent, while that for female students was 40 per cent（男生比例为60%，女生为40%）。总之，cent在考研中的核心考点是per cent的用法和not a cent的否定强调，学生应熟练掌握这些搭配并在写作中灵活运用。"
+      }
+    },
+    {
+      "id": "centigrade",
+      "word": "centigrade",
+      "phonetic": "/'sentigreid/",
+      "meaning": "n./a.摄氏温度计(的);百分度(的)",
+      "similar": [
+        "emigrate",
+        "integrate",
+        "ventilate",
+        "centimetre"
+      ],
+      "question": {
+        "wordId": "centigrade",
+        "stem": "选择 \"centigrade\" 的正确中文意思：",
+        "correct": "n./a.摄氏温度计(的);百分度(的)",
+        "options": [
+          "v.(into,with)(使)成为一体,(使)结合在一起",
+          "v.(反)immigrate;(to,from)自本国移居他",
+          "vt.使通风;给…装通风设备",
+          "n./a.摄氏温度计(的);百分度(的)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“centigrade”的核心逻辑源自拉丁语词根“centum”（意为“一百”）和“gradus”（意为“步”或“度”）。其组合直译为“一百步”或“百分度”，这与其在温度计量中的物理意义完全吻合：将水的冰点（0°C）到沸点（100°C）之间的温度区间精确划分为100个等份，每一份即为1摄氏度。这种基于十进制划分的体系，使得centigrade成为一个直观且科学的温度标度。记忆时，你可以想象一个巨大的温度计，其上标有从0到100的刻度，每一格代表一个“degree”（度），而“centi-”前缀则明确指示了“一百”这个数量。因此，无",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "centimetre",
+      "word": "centimetre",
+      "phonetic": "/'sentiˌmi:tə/",
+      "meaning": "n.(centimeter)厘米",
+      "similar": [
+        "estimate",
+        "intimate",
+        "sentiment",
+        "ventilate",
+        "centigrade"
+      ],
+      "question": {
+        "wordId": "centimetre",
+        "stem": "选择 \"centimetre\" 的正确中文意思：",
+        "correct": "n.(centimeter)厘米",
+        "options": [
+          "n.(centimeter)厘米",
+          "v./n.估计,估价;评估",
+          "n.感情，柔情；看法；感觉",
+          "a.亲密的,密切的 n.熟友,熟人"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】这个单词的核心在于词根“centi-”和“metre”的组合。“centi-”源自拉丁语“centum”，意为“一百”，在公制单位中表示“百分之一”，即1/100。而“metre”是国际单位制中长度的基本单位，来自希腊语“metron”，意为“度量”。所以，“centimetre”字面意思就是“百分之一米”。想象一把标准的米尺，将它平均分成100等份，每一小格的长度就是1厘米。这种“百分之一”的物理分割逻辑非常直观：就像1美元等于100美分（cent）一样，1米等于100厘米。你可以联想“cent”（分币）和“meter”（米），把“centimetre”拆解为“cent”（百） + “i-”（连接音） + “metre”（米），即“百分之一米”。这种从大单位（米）到小单位（厘米）的逐级细分，体现了公制系统的十进制逻辑，与英制单位（如英寸、英尺）形成鲜明对比。记住：厘米是米的分支，是更精细的度量单位，常用于测量日常物体如书本长度、身高或短距离。这个逻辑一旦建立，你就不会将其与“estimate”（估计）等词混淆，因为后者与“度量”无关，而是与“评估”相关。",
+        "similarWarning": "【避坑预警（形近/易混）】这些形近词看似相似，但字母级差异和含义天差地别，务必注意：1. **estimate**：单词为e-s-t-i-m-a-t-e，与centimetre相比，首字母e取代c，缺少前半部分“centi-”，且结尾是“-ate”（动词后缀）。核心区别在于“estimate”意为“估计、估价”，是动词或名词，强调对数量、价值或可能性的主观判断，例如“estimate the cost”（估算成本）。而centimetre是具体的长度单位，与数字搭配，如“5 centimetres”。2. **intimate**：单词为i-n-t-i-m-a-t-e，与centimetre相比，开头是“inti-”而非“centi-”，且结尾是“-mate”。关键区别：intimate作形容词时意为“亲密的、私密的”（如“intimate friend”），作动词时意为“暗示、透露”（如“intimate a secret”），与长度单位毫无关系。而centimetre中的“centi-”是数字前缀，无亲密之意。3. **sentiment**：单词为s-e-n-t-i-m-e-n-t，比centimetre多一个“n”和“t”，少了“c”和“re”。核心是“sent-”词根（感觉），意为“情感、情绪、观点”，如“public sentiment”（公众情绪）。而centimetre是客观度量单位，不涉及情感。4. **ventilate**：单词为v-e-n-t-i-l-a-t-e，与centimetre相比，开头是“vent-”（风），结尾是“-ate”（动词后缀）。意为“通风、换气”，如“ventilate a room”（给房间通风）。其词根“vent-”与“风”相关，而centimetre的“centi-”与“百”相关，完全不同的概念。5. **centigrade**：单词为c-e-n-t-i-g-r-a-d-e，与centimetre仅差后缀“-grade”（度）。虽然共享“centi-”前缀，但“centigrade”意为“摄氏温度”，指温度计上的百分刻度（0°C到100°C）。而centimetre是长度单位。注意“grade”表示“等级、度数”，而“metre”表示“米”，所以一个测温度，一个测长度。总结：centimetre的唯一关键词是“长度单位”，其他词要么是动词（estimate, intimate, ventilate），要么是情感名词（sentiment），要么是温度单位（centigrade）。记住“centi-”+“metre”=“百分之一米”，其他词不包含“metre”。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，centimetre虽然基本义是长度单位，但可能出现在以下引申或特殊用法中：1. **比喻性用法**：表示“微小的差距或程度”，例如在经济学人中曾出现“The two policies were centimetres apart in their effect on inflation.”（这两项政策对通胀的影响相差毫厘）。这里的“centimetres”不是指物理长度，而是强调差异极小，类似“a hair's breadth”。2. **在科学和医学语境中**：centimetre常用于测量器官大小或病变范围，如“The tumour measured 2 centimetres in diameter.”（肿瘤直径2厘米）。这种用法在考研英语二（医学或科普类）中常见，例如“Patients with nodules larger than 1 centimetre require further screening.”（结节大于1厘米的患者需要进一步筛查）。3. **在建筑或工程中**：表示精确度，如“The blueprint specifies tolerances of plus or minus 0.5 centimetres.”（蓝图规定的公差为正负0.5厘米）。这种用法强调工程严谨性。4. **在体育或运动科学中**：表示成绩或表现差异，如“The high jumper improved by 2 centimetres.”（跳高运动员提高了2厘米）。考研英语中可能以图表或数据分析题出现。5. **熟词僻义：单位缩写“cm”**：在阅读中常直接出现“cm”，如“The length is 10 cm.”，需快速识别。注意：centimetre没有其他抽象僻义，因为它是精确的度量单位，但考生需掌握其在描述性文本中的灵活应用，例如“The gap narrowed to just a few centimetres.”（差距缩小到只有几厘米）。这种用法在描述竞争、差距或进度时非常生动。建议考生在写作中模仿这种比喻，如“Our progress is measured in centimetres, not miles.”（我们的进步以厘米计，而非英里），以提升表达的地道性。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，centimetre作为基础长度单位，常出现在以下高频搭配和句型中：1. **常见搭配**：a) “in centimetres”（以厘米为单位），例如“Measure the length in centimetres.” b) “centimetres long/wide/tall”（长/宽/高多少厘米），例如“The box is 30 centimetres long.” c) “per square centimetre”（每平方厘米），在描述密度或压力时出现，如“The pressure is 10 newtons per square centimetre.” d) “centimetre of mercury”（厘米汞柱，压强单位），但考研真题中较少见。2. **真题例句**：a) 在2008年考研英语一Text 1中，原文提到“The average height of men in the study increased by 1.1 centimetres over the past decade.”（研究中男性平均身高在过去十年增加了1.1厘米）。这里考察对数据变化的理解。b) 在2012年考研英语二Text 3中，有句“The device can detect tumours as small as 0.5 centimetres in diameter.”（该设备能检测到直径小至0.5厘米的肿瘤）。这属于事实细节题，需要定位数字。c) 在写作中，可模仿例句：“According to the chart, the rainfall in July was 15 centimetres, a 10% increase from the previous month.”（根据图表，七月的降雨量为15厘米，比上月增加10%）。3. **常考句型**：a) “...is measured in centimetres...” 例如“The depth of the river is measured in centimetres during the dry season.” b) “...varies by several centimetres...” 例如“The water level varies by several centimetres each day.” c) “...reach up to...centimetres...” 例如“The floodwaters reached up to 60 centimetres in low-lying areas.” 4. **易错警示**：注意单复数形式，centimetre可数，复数加s，如“10 centimetres”。在写作中，数字与单位之间通常空一格，如“5 cm”。另外，注意英美拼写差异：英式英语用“centimetre”，美式英语用“centimeter”。考研阅读中两种拼写都可能出现，但意思相同。建议考生在写作中统一使用“centimetre”或“cm”。掌握这些搭配和句型，能帮助你在阅读中快速定位数字信息，在写作中准确描述度量数据，从而提升得分。"
+      }
+    },
+    {
+      "id": "central",
+      "word": "central",
+      "phonetic": "/'sentrəl/",
+      "meaning": "a.中心的,中央的,中枢的;主要的",
+      "similar": [
+        "centre",
+        "dental",
+        "mental",
+        "control",
+        "general",
+        "neutral",
+        "contract",
+        "contrary"
+      ],
+      "question": {
+        "wordId": "central",
+        "stem": "选择 \"central\" 的正确中文意思：",
+        "correct": "a.中心的,中央的,中枢的;主要的",
+        "options": [
+          "a.精神的,思想的,心理的,智力的,脑力的",
+          "a.牙齿的；牙科(用)的",
+          "n.中心，中央，中间 vt.集中 vi.以..为中心",
+          "a.中心的,中央的,中枢的;主要的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'central'的核心逻辑源自拉丁词根'centrum'，意为“中心”或“圆心”。这个词根通过古法语进入英语，演变为'centre'（中心点），而'central'则是其形容词形式，字面意思是“与中心相关的”。从物理逻辑来看，中心是一个点或区域，所有其他部分围绕它旋转或向其汇聚，因此'central'天然带有“核心、关键、主导”的意味。想象一个圆形的靶心，所有箭矢都瞄准那个最中心的红点，这个红点就是'central'——它既是几何上的中心，也是注意力、权力或功能的焦点。词根'centrum'还与希腊语的'kentron'（刺点、",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    }
+  ]
+}

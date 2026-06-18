@@ -1,0 +1,1730 @@
+{
+  "batchId": 33,
+  "words": [
+    {
+      "id": "flatter",
+      "word": "flatter",
+      "phonetic": "/'flætə/",
+      "meaning": "vt.奉承;使高兴;使满意;胜过",
+      "similar": [
+        "latter",
+        "litter",
+        "feather",
+        "glitter",
+        "plaster",
+        "scatter",
+        "shatter"
+      ],
+      "question": {
+        "wordId": "flatter",
+        "stem": "选择 \"flatter\" 的正确中文意思：",
+        "correct": "vt.奉承;使高兴;使满意;胜过",
+        "options": [
+          "n.垃圾,(杂乱的)废物 v.使杂乱,乱丢",
+          "vt.奉承;使高兴;使满意;胜过",
+          "n.羽毛",
+          "a.后者的；后一半的，接近终了的 n.后者"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根源于古法语 flater（抚摩、轻拍），核心动作是“用手掌轻抚对方”，通过这种讨好性肢体动作引申为言语上的“奉承、讨好”。",
+        "similarWarning": "latter（后者） vs flatter（奉承）：latter 无 f，核心是“较晚的”；later（后来）无 t，核心是“时间上靠后”；father（父亲） vs flatter：fa- 替换 fl-，意义完全不同。",
+        "extendedMeaning": "“使高兴、使满意”在考研阅读中常以被动形式出现（be flattered to do sth.），表示“因被认可而感到荣幸”；“胜过”多用于竞争语境，如 flatter the competition（使对手相形见绌）。",
+        "examUsage": "真题考点：flatter 常与 deceive 构成干扰项——flatter 是“通过奉承使人高兴”，而 deceive 是“欺骗”。核心搭配：flatter oneself（自以为是），例如：He flattered himself that he could win.（他自以为能赢。）"
+      }
+    },
+    {
+      "id": "flavor",
+      "word": "flavor",
+      "phonetic": "/'fleivə/",
+      "meaning": "n.(flavour)情味;风味;滋味 v.给…调味",
+      "similar": [
+        "favor",
+        "labor",
+        "glamor"
+      ],
+      "question": {
+        "wordId": "flavor",
+        "stem": "选择 \"flavor\" 的正确中文意思：",
+        "correct": "n.(flavour)情味;风味;滋味 v.给…调味",
+        "options": [
+          "n.(labour)工作，劳动；劳力 v.劳动，苦干",
+          "n.(favour)好感;喜爱;关切v.赞成,支持,偏爱",
+          "n.(flavour)情味;风味;滋味 v.给…调味",
+          "n.(glamour)魅力;魔法 vt.迷惑"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'flator'（吹气），原指气味或香气，后引申为食物的味道和整体感受。词根'fla-'与'flatus'（吹气）相关，强调通过嗅觉和味觉感知的复合体验。",
+        "similarWarning": "favor（帮助/喜爱，首字母f-，结尾-vor，强调支持）；floor（地板，首字母fl-，结尾-oor，指平面）；labor（劳动，首字母l-，结尾-bor，指工作）；glamor（魅力，首字母gl-，结尾-mor，指吸引力）。flavor核心区别在于-avor部分，与味道直接相关。",
+        "extendedMeaning": "1.（抽象）特色、风格：如'the local flavor of the city'（这座城市的本地特色）；2.在计算机科学中指变体或版本：如'a new flavor of software'（软件的新版本）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "flaw",
+      "word": "flaw",
+      "phonetic": "/flɔ:/",
+      "meaning": "n.裂缝;缺陷 v.使破裂;使有缺陷",
+      "similar": [
+        "claw",
+        "flag",
+        "flap",
+        "flat",
+        "flow",
+        "flame",
+        "flare",
+        "flash"
+      ],
+      "question": {
+        "wordId": "flaw",
+        "stem": "选择 \"flaw\" 的正确中文意思：",
+        "correct": "n.裂缝;缺陷 v.使破裂;使有缺陷",
+        "options": [
+          "n.裂缝;缺陷 v.使破裂;使有缺陷",
+          "n.爪,脚爪",
+          "n.旗",
+          "n.垂下物,帽沿,袋盖 n./v.拍打,拍动"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源于古北欧语‘flaga’（石板），核心物理动作为‘裂开/分层’。石板自然产生的层状裂缝（n.裂缝）→引申为事物结构上的‘缺陷’（n.缺陷）→使物体出现裂缝或产生瑕疵（v.使破裂/使有缺陷）。",
+        "similarWarning": "flaw vs. flow（流动）：a→o元音替换，裂缝（静态）vs. 流动（动态）；flaw vs. claw（爪子）：f→c辅音替换，裂缝（物之裂）vs. 爪（动物器官）；flaw vs. flat（平坦的）：w→t结尾，裂缝（凹凸不平）vs. 平坦（无凹凸）。",
+        "extendedMeaning": "考研僻义：抽象层面的‘瑕疵/漏洞’，尤指论证、计划或制度中的致命缺陷。例：a flaw in the argument（论证中的漏洞）；a design flaw（设计缺陷）。",
+        "examUsage": "真题考点：常与介词in搭配（flaw in...），或作动词be flawed（有缺陷的）。例句：The study is flawed because it fails to account for confounding variables.（该研究存在缺陷，因未考虑混杂变量。）"
+      }
+    },
+    {
+      "id": "flee",
+      "word": "flee",
+      "phonetic": "/fli:/",
+      "meaning": "v.逃走;逃避",
+      "similar": [
+        "fleet",
+        "fee",
+        "bleed",
+        "false",
+        "flame",
+        "flare",
+        "flesh"
+      ],
+      "question": {
+        "wordId": "flee",
+        "stem": "选择 \"flee\" 的正确中文意思：",
+        "correct": "v.逃走;逃避",
+        "options": [
+          "n.费(会费,学费等);酬金",
+          "n.舰队,船队",
+          "v.出血,流血",
+          "v.逃走;逃避"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根来自古英语fleōn，核心动作是‘快速移动离开危险’；与flow同源，强调‘流动般迅速逃离’，对比fleet（快速的舰队/车队）共享‘快速移动’概念。",
+        "similarWarning": "flee（逃） vs fleet（舰队/快速的）：字母差‘t’，fleet是‘快速移动的船队’，flee是‘逃离动作’；fee（费用）：字母差‘l’，fee为费用，flee为逃跑；free（自由的）：字母差‘r’，free强调自由状态，flee强调逃离动作。",
+        "extendedMeaning": "考研僻义：在抽象语境中可引申为‘迅速消失’（如flee from memory从记忆中迅速消失），或‘逃避责任/问题’（flee one's duty）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fleet",
+      "word": "fleet",
+      "phonetic": "/fli:t/",
+      "meaning": "n.舰队,船队",
+      "similar": [
+        "flee",
+        "fluent",
+        "fee",
+        "feat",
+        "feed",
+        "flat",
+        "lest",
+        "alert"
+      ],
+      "question": {
+        "wordId": "fleet",
+        "stem": "选择 \"fleet\" 的正确中文意思：",
+        "correct": "n.舰队,船队",
+        "options": [
+          "v.逃走;逃避",
+          "a.流利的,流畅的",
+          "n.舰队,船队",
+          "n.费(会费,学费等);酬金"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自古英语flēot，意为“漂浮、流动”，与flow同源。核心物理动作是“漂浮在水面”，引申为“快速移动的船队”，即舰队。",
+        "similarWarning": "fleet vs flee：fleet有字母t，指船队；flee无t，指逃跑。fleet vs feat：fleet有l，指舰队；feat无l，指功绩。",
+        "extendedMeaning": "adj.快速的，敏捷的（如fleet of foot腿脚快）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "flesh",
+      "word": "flesh",
+      "phonetic": "/fleʃ/",
+      "meaning": "n.肉,肌肉",
+      "similar": [
+        "flash",
+        "flush",
+        "fresh",
+        "flee",
+        "lash",
+        "lest",
+        "bless",
+        "blush"
+      ],
+      "question": {
+        "wordId": "flesh",
+        "stem": "选择 \"flesh\" 的正确中文意思：",
+        "correct": "n.肉,肌肉",
+        "options": [
+          "a.新鲜的,无经验的",
+          "n.肉,肌肉",
+          "n./a.闪光(的) v.发闪光,闪亮;闪现",
+          "n.脸红v.发红;奔流a.洋溢的;富裕的;齐平的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古英语 flæsc，核心指动物或人体的肌肉组织，与皮肤和骨骼相对。词源上强调柔软、多汁的肉体部分，与‘肉食’概念相关。",
+        "similarWarning": "flash（闪光）、flush（冲洗/脸红）、fresh（新鲜的）、fish（鱼）、flee（逃跑）、lash（鞭打）、less（更少的）、lest（以免）。注意flesh与fresh拼写差异：flesh含字母‘l-e-s-h’，而fresh为‘f-r-e-s-h’，含义完全不同。",
+        "extendedMeaning": "在考研阅读中可引申为‘肉体（与精神相对）’或‘人性中的弱点/欲望’，如‘the sins of the flesh’（肉体的罪过）。",
+        "examUsage": "常见于固定搭配‘flesh and blood’（血肉之躯）或‘in the flesh’（亲自，本人），真题中可能作为熟词僻义干扰项出现，需注意其抽象用法。"
+      }
+    },
+    {
+      "id": "flexible",
+      "word": "flexible",
+      "phonetic": "/'fleksibl/",
+      "meaning": "a.柔韧的,易弯曲的,灵活的,能变形的",
+      "similar": [
+        "edible",
+        "feeble",
+        "eligible",
+        "feasible"
+      ],
+      "question": {
+        "wordId": "flexible",
+        "stem": "选择 \"flexible\" 的正确中文意思：",
+        "correct": "a.柔韧的,易弯曲的,灵活的,能变形的",
+        "options": [
+          "a.柔韧的,易弯曲的,灵活的,能变形的",
+          "a.可食用的",
+          "a.虚弱的,无力的",
+          "a.符合条件的;(尤指婚姻等)合适(意)的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "flex-（弯曲）+ -ible（能…的）→ 能弯曲的 → 引申为灵活的、可变通的。核心物理动作：弯曲。",
+        "similarWarning": "edible（可食用的，词根ed-吃）；feeble（虚弱的，拼写差异fee-）；eligible（合格的，词根lig-选择）；feasible（可行的，词根feas-做）。flexible与这些词仅后缀-ible相同，词根flex-（弯曲）是唯一记忆锚点。",
+        "extendedMeaning": "（在商业或政策语境中）可变通的、有弹性的。例：flexible working hours（弹性工作时间）；flexible approach（灵活的处理方式）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "flight",
+      "word": "flight",
+      "phonetic": "/flait/",
+      "meaning": "n.飞翔,飞行;航班;航程;逃跑;楼梯的一段",
+      "similar": [
+        "fright",
+        "plight",
+        "slight",
+        "delight",
+        "freight",
+        "eight",
+        "tight",
+        "height"
+      ],
+      "question": {
+        "wordId": "flight",
+        "stem": "选择 \"flight\" 的正确中文意思：",
+        "correct": "n.飞翔,飞行;航班;航程;逃跑;楼梯的一段",
+        "options": [
+          "n.情况,状态,困境,盟誓(婚姻) v.保证,约定",
+          "a.轻微的,微小的;纤细的,瘦弱的",
+          "n.恐怖",
+          "n.飞翔,飞行;航班;航程;逃跑;楼梯的一段"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语flyht，与动词fly（飞）同源，核心动作是‘在空中移动’。引申为‘飞行’、‘航班’（飞行行程）。另与flee（逃跑）相关，古英语flyht也表‘逃跑’，源于‘快速离开’的物理动作。楼梯的一段比喻为‘一段上升的路径’，类似飞行轨迹。",
+        "similarWarning": "flight vs. fight（战斗）：fl-表‘飞’，fi-表‘打’，拼写差异在l/i；flight vs. fright（惊吓）：fl- vs. fr-，词源无关；flight vs. plight（困境）：pl-表‘折叠’，fl-表‘飞’，意义迥异。",
+        "extendedMeaning": "（熟词僻义）‘逃跑’：take flight（逃跑）在真题中作抽象义，如‘资本外逃’或‘逃避现实’；‘楼梯的一段’：a flight of stairs（一段楼梯），常考数量词搭配。",
+        "examUsage": "（考点）‘flight’在阅读中常考‘航班延误’（flight delay）或‘飞行恐惧’（fear of flight），但更需注意‘put to flight’（迫使逃跑）这一固定搭配，可能作为干扰项出现。"
+      }
+    },
+    {
+      "id": "fling",
+      "word": "fling",
+      "phonetic": "/fliŋ/",
+      "meaning": "v.(用力地)扔,抛,丢",
+      "similar": [
+        "cling",
+        "fringe",
+        "flag",
+        "link",
+        "lung",
+        "wing",
+        "along",
+        "blind"
+      ],
+      "question": {
+        "wordId": "fling",
+        "stem": "选择 \"fling\" 的正确中文意思：",
+        "correct": "v.(用力地)扔,抛,丢",
+        "options": [
+          "v.(用力地)扔,抛,丢",
+          "v.(to)粘住;依附;坚持",
+          "n.旗",
+          "n.边缘；(窗帘)缘饰；额前垂发 vt.饰…的边"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词源，模拟物体被用力抛出时破空的声音“fl-”与撞击或落地的“-ing”。核心物理动作是“通过手臂的快速挥动，使物体脱离手部做抛物线运动”，强调动作的突然性、力度和随意性。",
+        "similarWarning": "cling /klɪŋ/（v. 紧紧抓住，粘住）vs. fling /flɪŋ/（v. 用力扔）。差异在于首字母：c- 像“抓”（claw），f- 像“飞”（fly）。抓住 vs. 扔出，动作方向完全相反。",
+        "extendedMeaning": "（考研/外刊）短暂而放纵的尝试或活动，尤指风流韵事或一时冲动。如：have a fling（纵情玩乐；短暂私通）。非字面意思，强调行为的短暂与不计后果。",
+        "examUsage": "真题考点：常用于短语 'fling oneself into'（全身心投入，突然开始做某事）。例：She flung herself into her studies after the breakup.（分手后她全身心投入学习。）注意与 throw oneself into 同义替换。"
+      }
+    },
+    {
+      "id": "float",
+      "word": "float",
+      "phonetic": "/fləut/",
+      "meaning": "n.飘浮;漂流物 v.浮动;漂浮;传播;动摇",
+      "similar": [
+        "flat",
+        "lot",
+        "feat",
+        "flag",
+        "flap",
+        "flaw",
+        "flow",
+        "foam"
+      ],
+      "question": {
+        "wordId": "float",
+        "stem": "选择 \"float\" 的正确中文意思：",
+        "correct": "n.飘浮;漂流物 v.浮动;漂浮;传播;动摇",
+        "options": [
+          "n.功绩，伟业，技艺",
+          "n.许多，大量；签，抽签；命运；场地",
+          "a.平坦的,扁平的,平淡的 n.一套房间;平面",
+          "n.飘浮;漂流物 v.浮动;漂浮;传播;动摇"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为古英语flotian/古法语floter，核心物理动作是‘在水/空气中保持不沉’（与flow同源）。由‘飘浮’引申出‘浮动汇率’（金融）、‘传播谣言’（抽象流动）及‘犹豫动摇’（状态不稳定）。",
+        "similarWarning": "flat（平坦的，公寓）：float含字母o表‘流动’，flat含a表‘平面’。boat（船）：float是‘漂浮’的动作，boat是‘船’的物体。flag（旗帜，衰退）：float含‘浮’，flag含‘垂’（旗帜下垂/衰退）。",
+        "extendedMeaning": "考研僻义：1. v.（使货币）浮动（指汇率自由波动，如float the yuan）；2. n.浮筒/浮标（如navigation float）；3. v.传播（谣言、想法）（如float a rumor）。",
+        "examUsage": "真题考点：float与flow辨析（float强调静止漂浮，flow强调流动过程）；固定搭配float on air（得意洋洋）曾在翻译题中出现；‘浮动汇率’floating exchange rate为经济类阅读高频题眼。"
+      }
+    },
+    {
+      "id": "flock",
+      "word": "flock",
+      "phonetic": "/flɔk/",
+      "meaning": "n.(一)群,(禽,畜等的)群;大量 v.群集,成群",
+      "similar": [
+        "lock",
+        "block",
+        "clock",
+        "cock",
+        "dock",
+        "flow",
+        "folk",
+        "fork"
+      ],
+      "question": {
+        "wordId": "flock",
+        "stem": "选择 \"flock\" 的正确中文意思：",
+        "correct": "n.(一)群,(禽,畜等的)群;大量 v.群集,成群",
+        "options": [
+          "n.锁 v.锁,锁上",
+          "n.大块木（石）料;街区;障碍物 v.阻塞,拦阻",
+          "n.钟 vt.记录(时间、速度等)，为…计时",
+          "n.(一)群,(禽,畜等的)群;大量 v.群集,成群"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "flock 源自古英语 flocc，本义为“一群人、一群动物”。其核心物理动作是“聚集”：大量个体（如羊、鸟或人）因共同目的而集中成团。词根 fl- 可能与“流动、聚集”相关（对比 flow 的流动），加上 -ock 后缀表示“小团体”。记忆时抓住“聚集成群”这一动态画面：羊群 flock 拥挤移动，人群 flock 涌向某地。",
+        "similarWarning": "flock vs. block：block 指“一块、街区或阻挡”，b- 像“方木块”阻隔；flock 的 f- 像“飘动的羽毛”象征群体。flock vs. clock：clock 是“时钟”，c- 像钟表指针；flock 强调群聚。flock vs. flow：flow 是“流动”（液体/气体），fl- 相同但动作连续；flock 是离散个体聚集。flock vs. folk：folk 指“人们、民间”，拼写差一个 c，folk 更抽象指人群类别，flock 指具体聚集动作。",
+        "extendedMeaning": "考研中 flock 常作动词，表示“蜂拥而至、成群结队地行动”，尤用于人群涌向某处，如 flock to (a place)。名词僻义可指“同一类人（尤其指跟随者）”，如 a flock of tourists 强调数量与盲目性。",
+        "examUsage": "真题考点：flock 常与介词 to 搭配，构成短语 flock to do sth. 或 flock to someplace，表示“大量涌向”。例如：Tourists flock to the scenic spot during holidays.（假期游客蜂拥至景点。）干扰项常与 flow、crowd、gather 辨析，需注意 flock 强调“成群结队”的移动感，而非静态集合。"
+      }
+    },
+    {
+      "id": "flood",
+      "word": "flood",
+      "phonetic": "/flʌd/",
+      "meaning": "n.洪水,水灾 v.淹没,发大水,泛滥",
+      "similar": [
+        "bloody",
+        "flow",
+        "fold",
+        "fond",
+        "fool",
+        "load",
+        "look",
+        "loom"
+      ],
+      "question": {
+        "wordId": "flood",
+        "stem": "选择 \"flood\" 的正确中文意思：",
+        "correct": "n.洪水,水灾 v.淹没,发大水,泛滥",
+        "options": [
+          "v.流,流动 n.流量,流速",
+          "n.洪水,水灾 v.淹没,发大水,泛滥",
+          "v.折叠;合拢;抱住 n.褶,褶痕;羊栏;信徒",
+          "a.流血的,血腥的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古英语flōd，与flow同源，核心物理动作是“水大量流动、涌出”，引申为任何事物的大量涌现或泛滥。",
+        "similarWarning": "blood /blʌd/ n.血（b-开头，fl-换为bl-）；floor /flɔːr/ n.地板（-od换为-or，元音不同）；flow /fləʊ/ v.流动（-od换为-ow，元音变化）",
+        "extendedMeaning": "v.大量涌入（如洪水般），n.大量/大批（事物）。例：a flood of refugees 大批难民。",
+        "examUsage": "常考搭配：flood the market（充斥市场），in flood（泛滥）。真题例句：The company plans to flood the market with new products.（该公司计划用新产品充斥市场。）"
+      }
+    },
+    {
+      "id": "flour",
+      "word": "flour",
+      "phonetic": "/'flauə/",
+      "meaning": "n.面粉",
+      "similar": [
+        "four",
+        "flu",
+        "fur",
+        "blur",
+        "flow",
+        "foul",
+        "loud",
+        "pour"
+      ],
+      "question": {
+        "wordId": "flour",
+        "stem": "选择 \"flour\" 的正确中文意思：",
+        "correct": "n.面粉",
+        "options": [
+          "num.四 pron./a.四(个，只...)",
+          "n.毛,毛皮",
+          "n.(influenza)流行性感冒",
+          "n.面粉"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语flos（花），原指“花朵中最精华的部分”，后引申为“谷物磨成的最精细部分”，即面粉。核心动作：开花→精华→精细粉末。",
+        "similarWarning": "four（四）、floor（地板）、flower（花）、flu（流感）、for（为了）、fur（毛皮）、our（我们的）、blur（模糊）",
+        "extendedMeaning": "在考研中，flour常作为面粉的专有名词出现，无特殊僻义。",
+        "examUsage": "常见于阅读理解中描述食品加工或农业相关话题，如flour mill（面粉厂）、flour production（面粉生产）。"
+      }
+    },
+    {
+      "id": "flourish",
+      "word": "flourish",
+      "phonetic": "/'flauriʃ/",
+      "meaning": "n./v.繁荣,茂盛,兴旺",
+      "similar": [
+        "nourish",
+        "foolish",
+        "furnish",
+        "tourist"
+      ],
+      "question": {
+        "wordId": "flourish",
+        "stem": "选择 \"flourish\" 的正确中文意思：",
+        "correct": "n./v.繁荣,茂盛,兴旺",
+        "options": [
+          "n./v.繁荣,茂盛,兴旺",
+          "v.提供养分,养育,怀有(希望,仇恨等)",
+          "a.愚笨的,愚蠢的",
+          "v.供应,提供;装备,布置"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'florere'（开花），词根'flor-'（花）+-ish（使动后缀）。核心物理动作：花朵绽放。引申为植物茂盛、事业兴旺。",
+        "similarWarning": "nourish（养育，词根'nour-'营养）-flourish（繁荣，词根'flor-'花）；foolish（愚蠢的）-flourish；furnish（提供，家具）-flourish；tourist（游客）-flourish。注意拼写差异：flour- vs nour-/fool-/furn-/tour-。",
+        "extendedMeaning": "考研中常考'挥舞、炫耀'之义，如'flourish a sword'（挥舞剑），或用作名词表示'华丽辞藻、夸张动作'，如'with a flourish'（以夸张的动作）。",
+        "examUsage": "真题考点：'flourish'作动词表'繁荣'时，常与'economic, cultural, business'搭配；作名词表'挥舞'时，常出现于'with a flourish of his hand'等短语。干扰项常混淆'flourish'与'nourish'，注意区分动作对象：繁荣的是事物，养育的是生命。"
+      }
+    },
+    {
+      "id": "flow",
+      "word": "flow",
+      "phonetic": "/fləu/",
+      "meaning": "v.流,流动 n.流量,流速",
+      "similar": [
+        "flaw",
+        "glow",
+        "slow",
+        "fellow",
+        "follow",
+        "allow",
+        "elbow",
+        "float"
+      ],
+      "question": {
+        "wordId": "flow",
+        "stem": "选择 \"flow\" 的正确中文意思：",
+        "correct": "v.流,流动 n.流量,流速",
+        "options": [
+          "v.流,流动 n.流量,流速",
+          "n.裂缝;缺陷 v.使破裂;使有缺陷",
+          "v.发热,发光,发红 n.白热",
+          "a.慢的,不活跃的 v.(down)(使)放慢,减速"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语 flowan，核心物理动作为‘液体或气体持续移动’，引申为任何连续、顺畅的运动或过程。",
+        "similarWarning": "flow vs. blow（吹气，动作更主动）vs. flaw（瑕疵，中断流畅）vs. slow（速度慢，阻碍流动）",
+        "extendedMeaning": "考研僻义：1. 资金/资源的流动（cash flow 现金流）；2. 说话或文章的流畅连贯（flow of speech）；3. 潮汐涨落（ebb and flow）。",
+        "examUsage": "真题考点：常与‘cash flow’搭配考查经济类阅读，或与‘traffic flow’（交通流量）结合考查图表作文描述。"
+      }
+    },
+    {
+      "id": "flu",
+      "word": "flu",
+      "phonetic": "/flu:/",
+      "meaning": "n.(influenza)流行性感冒",
+      "similar": [
+        "flour",
+        "fluid",
+        "flush"
+      ],
+      "question": {
+        "wordId": "flu",
+        "stem": "选择 \"flu\" 的正确中文意思：",
+        "correct": "n.(influenza)流行性感冒",
+        "options": [
+          "n.脸红v.发红;奔流a.洋溢的;富裕的;齐平的",
+          "n.面粉",
+          "n.(influenza)流行性感冒",
+          "a.流动的,液体的 n.流体,液体"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自influenza的缩写，而influenza源自意大利语influenza（影响），因中世纪认为流感由星象影响所致。核心动作：流动（flu-流），与fluent（流畅的）、fluid（流体）同源。",
+        "similarWarning": "fly（飞）vs flu（流）：y与u之差，飞虫vs流感；flour（面粉）vs flu：our与u之差，粉末vs病毒；fluid（液体）vs flu：id与u之差，具体物质vs疾病；flush（冲洗）vs flu：sh与u之差，动作vs状态。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fluctuate",
+      "word": "fluctuate",
+      "phonetic": "/'flʌktjueit/",
+      "meaning": "v.(使)波动;(使)起伏",
+      "similar": [
+        "frustrate",
+        "illustrate"
+      ],
+      "question": {
+        "wordId": "fluctuate",
+        "stem": "选择 \"fluctuate\" 的正确中文意思：",
+        "correct": "v.(使)波动;(使)起伏",
+        "options": [
+          "v.(使)波动;(使)起伏",
+          "n.环行,周线,巡回;电路,线路",
+          "vt.挫败,阻挠,使灰心",
+          "v.举例说明,阐明;图解,加插图"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"fluctuare\"，由\"fluctus\"（波浪）+\"-ate\"（动词后缀）构成。核心物理动作：像波浪一样上下起伏、来回摆动。词义演变：从水波的具体起伏，引申为抽象的数量、价格、情绪等的波动变化。\",\n  \"similarWarning\": \"frustrate（v. 挫败）：fluctuate vs frustrate，前者含\"fluct\"（流动），强调波动；后者含\"frustr\"（欺骗），强调阻挠。illustrate（v. 说明）：fluctuate vs illustrate，前者含\"fluct\"（波），后者含\"lustr\"（照亮），拼写",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fluent",
+      "word": "fluent",
+      "phonetic": "/'flu(:)ənt/",
+      "meaning": "a.流利的,流畅的",
+      "similar": [
+        "affluent",
+        "blunt",
+        "fleet",
+        "client",
+        "eloquent",
+        "frequent"
+      ],
+      "question": {
+        "wordId": "fluent",
+        "stem": "选择 \"fluent\" 的正确中文意思：",
+        "correct": "a.流利的,流畅的",
+        "options": [
+          "a.率直的;钝的 v.(使)钝;(使)迟钝",
+          "a.富裕的，富有的，丰富的，富饶的",
+          "n.舰队,船队",
+          "a.流利的,流畅的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根flu-（流动）+ 后缀-ent（形容词，表示...的）。核心动作是‘流动’，引申为语言、文字等如水流般顺畅、无阻碍，即‘流利的，流畅的’。",
+        "similarWarning": "affluent（a.富裕的）：源自af-(向)+flu-(流动)，指财富‘流向’某人，强调富有；blunt（a.钝的）：与拼写无关，指不锋利或直言不讳；fleet（n.舰队/a.快速的）：源自fle-（流动），指快速移动的船队或动作敏捷；client（n.客户）：源自cli-（倾斜），指依赖他人者；eloquent（a.雄辩的）：源自e-(出)+loqu-(说话)，强调言辞流畅有力；frequent（a.频繁的）：源自fre-（频繁），指时间上的高频率。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fluid",
+      "word": "fluid",
+      "phonetic": "/'flu(:)id/",
+      "meaning": "a.流动的,液体的 n.流体,液体",
+      "similar": [
+        "flu",
+        "lid",
+        "fund",
+        "flood",
+        "flush",
+        "found"
+      ],
+      "question": {
+        "wordId": "fluid",
+        "stem": "选择 \"fluid\" 的正确中文意思：",
+        "correct": "a.流动的,液体的 n.流体,液体",
+        "options": [
+          "n.资金,基金;存款,现款;(知识等的)累积",
+          "a.流动的,液体的 n.流体,液体",
+          "n.盖",
+          "n.(influenza)流行性感冒"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根flu-（流动）+ -id（形容词/名词后缀，表示“具有…性质的”）。核心物理动作是“流动”，指物质能够自由流动、改变形状的特性。",
+        "similarWarning": "flood（洪水，与流体无关，指大量水淹没）；flush（脸红/冲洗，强调突然的流动或冲洗动作）；fruit（水果，词根不同，与流动无关）。",
+        "extendedMeaning": "在考研外刊中常引申为“易变的、不稳定的”，如fluid situation（不稳定的局势）；或指“流畅的、灵活的”，如fluid movement（流畅的动作）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "flush",
+      "word": "flush",
+      "phonetic": "/flʌʃ/",
+      "meaning": "n.脸红v.发红;奔流a.洋溢的;富裕的;齐平的",
+      "similar": [
+        "blush",
+        "flash",
+        "flesh",
+        "flu",
+        "bush",
+        "fuse",
+        "fuss",
+        "lash"
+      ],
+      "question": {
+        "wordId": "flush",
+        "stem": "选择 \"flush\" 的正确中文意思：",
+        "correct": "n.脸红v.发红;奔流a.洋溢的;富裕的;齐平的",
+        "options": [
+          "n.脸红v.发红;奔流a.洋溢的;富裕的;齐平的",
+          "v./n.脸红",
+          "n./a.闪光(的) v.发闪光,闪亮;闪现",
+          "n.肉,肌肉"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源于古法语'flus'（流动），核心物理动作为液体或血液的突然奔涌。引申为脸因血液上涌而变红（脸红），或物体表面齐平如水满则溢（齐平的）。",
+        "similarWarning": "blush（脸红，侧重因害羞/尴尬脸红） vs flush（脸红，侧重因激动/愤怒/健康脸红）；flash（闪光，瞬间发光） vs flush（奔流，持续流动）；flesh（肉，肉体） vs flush（齐平，使平齐）；fuse（保险丝，融合） vs flush（冲洗，奔流）。",
+        "extendedMeaning": "（考研高频）adj. 齐平的，与...齐平的（flush with）：常用于描述物体表面高度一致，如'The door should be flush with the wall.'；v. 冲洗，冲刷（flush out）：如'flush the system with clean water'；adj. 富裕的，充裕的（flush with money）：如'He felt flush after winning the lottery.'",
+        "examUsage": "（真题考点）固定搭配：flush with embarrassment（因尴尬脸红）常在完形中作干扰项；flush out（冲洗/清除）在阅读科技文中表彻底清理；be flush with（与...齐平）在翻译中易误译为'充满'。"
+      }
+    },
+    {
+      "id": "foam",
+      "word": "foam",
+      "phonetic": "/fəum/",
+      "meaning": "v./n.泡沫,起泡沫",
+      "similar": [
+        "form",
+        "flame",
+        "float",
+        "forum",
+        "frame"
+      ],
+      "question": {
+        "wordId": "foam",
+        "stem": "选择 \"foam\" 的正确中文意思：",
+        "correct": "v./n.泡沫,起泡沫",
+        "options": [
+          "v./n.泡沫,起泡沫",
+          "n.形状,形式;表格 v.组成,构成;形成",
+          "n.火焰,火苗;热情;光辉 v.发火焰,燃烧",
+          "n.飘浮;漂流物 v.浮动;漂浮;传播;动摇"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语fām，原始日耳曼语*faimaz，核心物理动作为‘液体表面因气体分散形成的气泡聚集状态’，即由液体包裹气体产生的轻质多孔结构。",
+        "similarWarning": "form（形状）→ 字母a vs o；flame（火焰）→ 前缀fl- vs fo-，尾音m vs me；float（漂浮）→ 尾音t vs m；forum（论坛）→ 尾音um vs am；frame（框架）→ 尾音me vs am。",
+        "extendedMeaning": "考研外刊中可引申为‘（经济、社会等领域的）泡沫现象’，如asset foam（资产泡沫）或bubble（同义替换）。",
+        "examUsage": "真题中常以短语foam at the mouth（口吐泡沫）比喻极度愤怒，或与bubble同义出现在经济类阅读中，作为‘泡沫’的题眼词。"
+      }
+    },
+    {
+      "id": "focus",
+      "word": "focus",
+      "phonetic": "/'fəukəs/",
+      "meaning": "n.焦点,(活动,兴趣等的)中心 v.(on)使聚集",
+      "similar": [
+        "foul",
+        "four",
+        "bonus",
+        "forum"
+      ],
+      "question": {
+        "wordId": "focus",
+        "stem": "选择 \"focus\" 的正确中文意思：",
+        "correct": "n.焦点,(活动,兴趣等的)中心 v.(on)使聚集",
+        "options": [
+          "n.焦点,(活动,兴趣等的)中心 v.(on)使聚集",
+          "n.奖金,红利",
+          "a.污秽的;邪恶的 v.弄脏;妨害;犯规 n.犯规",
+          "num.四 pron./a.四(个，只...)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语focus“壁炉、炉灶”，古罗马家庭中以炉灶为生活与宗教活动的中心，引申为“焦点、中心点”。物理动作：光线或注意力汇聚于一点。",
+        "similarWarning": "foul（肮脏的/犯规），four（四），bonus（奖金/红利），forum（论坛/讨论会）。focus与foul仅差字母c/l；与four仅差字母c/s；与bonus字母构成差异较大；与forum结尾不同。",
+        "extendedMeaning": "考研僻义：v. 集中注意力/资源（如focus efforts on）；n. 关注重点（如shift the focus）。",
+        "examUsage": "真题考点：focus on（集中于），常作为阅读中主旨题或细节题的题眼；搭配“focus one's attention/mind on”要求介词on。"
+      }
+    },
+    {
+      "id": "fog",
+      "word": "fog",
+      "phonetic": "/fɔg/",
+      "meaning": "n.雾气，雾 v.以雾笼罩，被雾笼罩",
+      "similar": [
+        "frog",
+        "fox",
+        "jog",
+        "log",
+        "forge"
+      ],
+      "question": {
+        "wordId": "fog",
+        "stem": "选择 \"fog\" 的正确中文意思：",
+        "correct": "n.雾气，雾 v.以雾笼罩，被雾笼罩",
+        "options": [
+          "v.慢跑",
+          "n.狐狸",
+          "n.蛙",
+          "n.雾气，雾 v.以雾笼罩，被雾笼罩"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语 'fog'，可能与斯堪的纳维亚语源相关，核心物理动作是水汽凝结形成遮蔽视线的悬浮物。词根无复杂演变，直接指向自然现象。",
+        "similarWarning": "frog（青蛙，多了r字母）；dog（狗，首字母不同）；forge（锻造，多了re字母组合）",
+        "extendedMeaning": "考研中常引申为'困惑、迷惘的状态'，如 in a fog（一头雾水），非字面雾气。",
+        "examUsage": "常见于阅读理解环境描写或比喻，如 The issue was lost in a fog of statistics.（问题淹没在统计数据的迷雾中）。"
+      }
+    },
+    {
+      "id": "fold",
+      "word": "fold",
+      "phonetic": "/fəuld/",
+      "meaning": "v.折叠;合拢;抱住 n.褶,褶痕;羊栏;信徒",
+      "similar": [
+        "bold",
+        "folk",
+        "fond",
+        "unfold",
+        "flood",
+        "found",
+        "mould",
+        "scold"
+      ],
+      "question": {
+        "wordId": "fold",
+        "stem": "选择 \"fold\" 的正确中文意思：",
+        "correct": "v.折叠;合拢;抱住 n.褶,褶痕;羊栏;信徒",
+        "options": [
+          "a.(of)喜爱的,爱好的",
+          "n.人们;民族;亲属 a.民间的",
+          "a.大胆的,勇敢的;冒失的;黑体的,粗体的",
+          "v.折叠;合拢;抱住 n.褶,褶痕;羊栏;信徒"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为古英语fealdan，核心物理动作是‘弯曲并使一层覆盖另一层’，引申为‘合拢’、‘抱住’。fold本义指‘折叠’的动作，名词化后指折叠产生的‘褶痕’。羊栏义源于fold的‘合拢、围住’意象，后引申为‘信徒’（被围护在信仰之内的群体）。",
+        "similarWarning": "fold vs. folk: fold以-ld结尾，folk以-lk结尾，意为‘人们、民族’。fold vs. fond: fond以-nd结尾，意为‘喜爱的’。fold vs. food: food以-od结尾，意为‘食物’。",
+        "extendedMeaning": "在考研中，fold可作名词表示‘羊栏’或‘信徒’（如return to the fold重归信徒行列），作动词可表‘失败、倒闭’（如business folded生意倒闭）。",
+        "examUsage": "常见搭配：fold up（折叠起来、垮掉）；fold one's arms（双臂交叉）。真题例句：The company folded under the pressure of debt.（公司在债务压力下倒闭。）"
+      }
+    },
+    {
+      "id": "folk",
+      "word": "folk",
+      "phonetic": "/fəuk/",
+      "meaning": "n.人们;民族;亲属 a.民间的",
+      "similar": [
+        "fold",
+        "fork",
+        "flock"
+      ],
+      "question": {
+        "wordId": "folk",
+        "stem": "选择 \"folk\" 的正确中文意思：",
+        "correct": "n.人们;民族;亲属 a.民间的",
+        "options": [
+          "n.人们;民族;亲属 a.民间的",
+          "n.(一)群,(禽,畜等的)群;大量 v.群集,成群",
+          "v.折叠;合拢;抱住 n.褶,褶痕;羊栏;信徒",
+          "n.叉,耙;叉形物;餐叉"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*fulka，意为“人群、军队”，核心动作是“聚集的人群”。引申为“民族、民间”，强调群体而非个体。",
+        "similarWarning": "fold（折叠，羊圈）、fork（叉子，分叉）、flock（羊群，人群）。fold强调“折”的动作，fork强调“分”的形状，flock强调“动物群”，folk强调“人”的群体。",
+        "extendedMeaning": "在考研中常出现“folk music/culture”等搭配，但僻义如“folk wisdom”（民间智慧）、“folk tale”（民间故事）需注意。此外，“folk”作为集合名词，复数形式“folks”在口语中可指“家人、亲属”。",
+        "examUsage": "考研真题中常考查“folk”作为形容词的用法，如“folk art”（民间艺术）。注意与“folk”易混的“flock”在真题中作为干扰项出现，如“a flock of sheep”与“folk”的语义区分。"
+      }
+    },
+    {
+      "id": "follow",
+      "word": "follow",
+      "phonetic": "/'fɔləu/",
+      "meaning": "v.跟随,接着;领会;沿着…前进,遵循;结果是",
+      "similar": [
+        "fellow",
+        "hollow",
+        "flow",
+        "allow",
+        "pillow",
+        "yellow"
+      ],
+      "question": {
+        "wordId": "follow",
+        "stem": "选择 \"follow\" 的正确中文意思：",
+        "correct": "v.跟随,接着;领会;沿着…前进,遵循;结果是",
+        "options": [
+          "v.跟随,接着;领会;沿着…前进,遵循;结果是",
+          "a.空的,中空的;空洞的,空虚的 v.挖空,凿空",
+          "v.流,流动 n.流量,流速",
+          "n.人,家伙;伙伴,同事 a.同样的,同事的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语folgian，核心物理动作为“跟在某人或某物之后”，引申为时间或顺序上的“接着”、逻辑上的“领会”（跟随思路）、路径上的“沿着”以及规则上的“遵循”。",
+        "similarWarning": "fellow（伙伴）：双l，指人；follow（跟随）：单l，指动作。hollow（空洞的）：h开头，中间有o；follow无h。flow（流动）：f+l+ow，无中间o；follow有双o。",
+        "extendedMeaning": "在考研阅读中常引申为“关注（事态发展）”，如follow the news（关注新闻）；或“从事（职业）”，如follow a career。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "following",
+      "word": "following",
+      "phonetic": "/'fɔləuiŋ/",
+      "meaning": "a.下列的，下述的，其次的，接着的",
+      "similar": [],
+      "question": {
+        "wordId": "following",
+        "stem": "选择 \"following\" 的正确中文意思：",
+        "correct": "a.下列的，下述的，其次的，接着的",
+        "options": [
+          "n.最后期限",
+          "v.假定,假设,认为,揣测,滥用,擅自行动",
+          "a.下列的，下述的，其次的，接着的",
+          "n.边界,国界;边(沿) v.交界,与…接壤;接近"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "follow（跟随）+ -ing（形容词后缀）→ 跟随在后面的 → 下列的，接着的。核心动作：跟在某物之后。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中，'following' 常作为名词使用，意为'追随者、支持者'，如'political following'（政治追随者）。此外，在时间或顺序上表示'在...之后'，如'following the meeting'（会议之后）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fond",
+      "word": "fond",
+      "phonetic": "/fɔnd/",
+      "meaning": "a.(of)喜爱的,爱好的",
+      "similar": [
+        "found",
+        "fold",
+        "fund",
+        "pond",
+        "bound",
+        "flood",
+        "hound",
+        "pound"
+      ],
+      "question": {
+        "wordId": "fond",
+        "stem": "选择 \"fond\" 的正确中文意思：",
+        "correct": "a.(of)喜爱的,爱好的",
+        "options": [
+          "a.(of)喜爱的,爱好的",
+          "vt.建立;创立;创办;使有根据;铸造;熔制",
+          "v.折叠;合拢;抱住 n.褶,褶痕;羊栏;信徒",
+          "n.资金,基金;存款,现款;(知识等的)累积"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根词源：来自古英语*fond*，原意为“愚笨的、愚蠢的”，后引申为“过于溺爱的、痴情的”，最终演变为“喜爱的、爱好的”。核心物理动作：一种情感上的倾向或依恋，类似于“被吸引、沉迷于”。",
+        "similarWarning": "found（建立，v.）vs fond：found含“建立”义，与fond“喜爱”无关；find（发现，v.）vs fond：find强调“找到”，与fond情感倾向不同；fold（折叠，v.）vs fond：fold动作“弯曲”，与fond无关联；fund（资金，n.）vs fond：fund为名词“基金”，拼写差一个字母；pond（池塘，n.）vs fond：pond为地点名词，差首字母p；bound（跳跃/边界，adj./v.）vs fond：bound含“限制”或“跳跃”义，与fond情感无关；flood（洪水，n./v.）vs fond：flood为“泛滥”，拼写差异大。",
+        "extendedMeaning": "在考研外刊中，fond可引申为“天真的、不切实际的”（如fond hope指“不切实际的希望”），或“溺爱的、过分宽容的”（如fond parent指“溺爱孩子的父母”）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fool",
+      "word": "fool",
+      "phonetic": "/fu:l/",
+      "meaning": "n.傻子，笨蛋vt.欺骗，愚弄vi.干蠢事",
+      "similar": [
+        "foul",
+        "pool",
+        "wool",
+        "flood",
+        "stool"
+      ],
+      "question": {
+        "wordId": "fool",
+        "stem": "选择 \"fool\" 的正确中文意思：",
+        "correct": "n.傻子，笨蛋vt.欺骗，愚弄vi.干蠢事",
+        "options": [
+          "n.羊毛,毛线,毛织品",
+          "n.水池,游泳池;合资经营v.合伙经营,联营",
+          "a.污秽的;邪恶的 v.弄脏;妨害;犯规 n.犯规",
+          "n.傻子，笨蛋vt.欺骗，愚弄vi.干蠢事"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古法语'fol'（傻瓜），源自拉丁语'follis'（风箱、气囊），比喻头脑空空、像充气一样虚浮的人。核心动作是'愚弄'，即把别人当成傻子来欺骗。",
+        "similarWarning": "fool vs. foul：fool是'傻子'（oo长音），foul是'犯规、肮脏'（ou双元音）。fool vs. food：fool结尾l，food结尾d。fool vs. pool：p/f开头不同。fool vs. wool：w/f开头不同。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "foolish",
+      "word": "foolish",
+      "phonetic": "/'fu:liʃ/",
+      "meaning": "a.愚笨的,愚蠢的",
+      "similar": [
+        "polish",
+        "abolish",
+        "flourish"
+      ],
+      "question": {
+        "wordId": "foolish",
+        "stem": "选择 \"foolish\" 的正确中文意思：",
+        "correct": "a.愚笨的,愚蠢的",
+        "options": [
+          "n./v.繁荣,茂盛,兴旺",
+          "vt.废除(法律、习惯等)；取消",
+          "v.磨光,擦亮;使优美,润饰 n.擦光剂,上光蜡",
+          "a.愚笨的,愚蠢的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "fool（傻瓜）+ -ish（形容词后缀，表示“具有…性质的”）→ 具有傻瓜性质的 → 愚笨的",
+        "similarWarning": "polish（擦亮，抛光）：开头p- vs f-，polish指使表面光亮；abolish（废除，废止）：开头ab- vs f-，abolish指正式终止制度；flourish（繁荣，茂盛）：开头fl- vs f-，flourish指生长旺盛或成功",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "football",
+      "word": "football",
+      "phonetic": "/'futˌbɔ:l/",
+      "meaning": "n.足球",
+      "similar": [],
+      "question": {
+        "wordId": "football",
+        "stem": "选择 \"football\" 的正确中文意思：",
+        "correct": "n.足球",
+        "options": [
+          "n.足球",
+          "n.假日,节日,假期,休假",
+          "a.化学的 n.(pl.)化学制品,化学药品",
+          "v.(from)阻止,妨碍 a.后面的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "foot（脚）+ ball（球）→ 用脚踢的球类运动。词源直白，无复杂演变，指代一项全球流行的运动。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "footstep",
+      "word": "footstep",
+      "phonetic": "/'fut'step/",
+      "meaning": "n.脚步(声),足迹",
+      "similar": [
+        "foster"
+      ],
+      "question": {
+        "wordId": "footstep",
+        "stem": "选择 \"footstep\" 的正确中文意思：",
+        "correct": "n.脚步(声),足迹",
+        "options": [
+          "v.迫害",
+          "vt.养育;收养;怀抱;鼓励 a.收养的 n.养育者",
+          "n.大门；入口；观众人数，门票收入",
+          "n.脚步(声),足迹"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "foot（脚）+ step（步，跨步），字面即“脚迈出的步子”。核心物理动作是脚落地时发出的声响或留下的印记。",
+        "similarWarning": "与foster（培养，收养）区别：footstep中foot为“脚”，foster中fos-无“脚”义，且词义方向完全不同。",
+        "extendedMeaning": "在考研阅读中可引申为“足迹、踪迹”，如follow in sb.'s footsteps（效仿某人，步其后尘），常考其比喻义而非字面脚步。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "forbid",
+      "word": "forbid",
+      "phonetic": "/fə'bɪd/",
+      "meaning": "v.禁止,不许",
+      "similar": [
+        "orbit"
+      ],
+      "question": {
+        "wordId": "forbid",
+        "stem": "选择 \"forbid\" 的正确中文意思：",
+        "correct": "v.禁止,不许",
+        "options": [
+          "n.吉他 vi.弹吉他",
+          "a.(of)特有的,独特的 n.特征,特性",
+          "n.轨道 v.(使)沿轨道行",
+          "v.禁止,不许"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语 forbeodan，由 for-（表示“相反、禁止”）+ beodan（命令）构成，核心动作是“发出相反的命令”，即禁止做某事。",
+        "similarWarning": "与 orbit（轨道）拼写差异大，但音近易混：forbid 中 for- 为前缀，orbit 中 or- 为词根。词义上 forbid 是禁止，orbit 是轨道运行。",
+        "extendedMeaning": "在考研中常引申为“阻止、妨碍”，后接名词或动名词，如 forbid sb. to do sth. 或 forbid doing sth.。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fore",
+      "word": "fore",
+      "phonetic": "/fɔ:/",
+      "meaning": "ad.在前面 a.先前的；在前部的 n.前部",
+      "similar": [
+        "forge",
+        "ore",
+        "bore",
+        "core",
+        "fare",
+        "fork",
+        "form",
+        "sore"
+      ],
+      "question": {
+        "wordId": "fore",
+        "stem": "选择 \"fore\" 的正确中文意思：",
+        "correct": "ad.在前面 a.先前的；在前部的 n.前部",
+        "options": [
+          "v.钻(孔),挖(洞);烦扰 n.讨厌的人,麻烦事",
+          "n.矿石,矿砂",
+          "v.锻造,伪造 n.锻工车间;锻炉",
+          "ad.在前面 a.先前的；在前部的 n.前部"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 fore- 源自原始日耳曼语 *furai，意为“之前、前面”，与古英语 foran（在前面）同源。核心物理动作是“空间或时间上的前置”。",
+        "similarWarning": "force（力量，n./v.）vs fore：force 含 -ce 后缀，强调“强制力”；fore 无此后缀，强调“前方”。for（为了，prep.）vs fore：for 是简单介词，fore 是副词/形容词。ore（矿石，n.）vs fore：ore 开头为 o-，fore 为 f-。",
+        "extendedMeaning": "在航海或航空英语中，fore 可作名词指“船头”或“机头”，如 fore and aft（从船头到船尾）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "forecast",
+      "word": "forecast",
+      "phonetic": "/'fɔ:kɑ:st/",
+      "meaning": "v./n.预测,预报",
+      "similar": [
+        "forest",
+        "foremost",
+        "breast",
+        "format"
+      ],
+      "question": {
+        "wordId": "forecast",
+        "stem": "选择 \"forecast\" 的正确中文意思：",
+        "correct": "v./n.预测,预报",
+        "options": [
+          "a.最先的;最初的; 主要的 ad.首要地",
+          "n.森林",
+          "v./n.预测,预报",
+          "n.胸膛,乳房"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "fore-（前面，预先）+ cast（投掷，计算）→ 预先投下（眼光或数据）→ 预测，预报。核心动作：在事件发生前抛出判断。",
+        "similarWarning": "forest（森林）：fore-（前面）+ rest（休息）→ 门前的休息处？实为拉丁语 forestis（户外）→ 森林。比较：forecast vs forest：前者是“预先投掷”，后者是“森林”。breast（胸部）：b- + rest（休息）？实为古英语 breost。拼写差异：forecast 有 cast，breast 有 east。",
+        "extendedMeaning": "考研中常考其动词用法，尤指对经济、天气、趋势的“预测”，如 economic forecast（经济预测）。注意其名词性在真题中常作宾语或主语，如 accurate forecast（准确预测）。",
+        "examUsage": "真题高频搭配：weather forecast（天气预报），forecast the trend（预测趋势）。干扰项常与 predict（预测）互换，但 forecast 更侧重基于数据或模型的科学预测，而 predict 可含主观推测。例句：The report forecasts a 5% growth.（报告预测5%增长。）"
+      }
+    },
+    {
+      "id": "forehead",
+      "word": "forehead",
+      "phonetic": "/'fɔ:hed/",
+      "meaning": "n.前额;(任何事物的)前部",
+      "similar": [
+        "foresee",
+        "forever",
+        "overhead",
+        "beforehand",
+        "comprehend"
+      ],
+      "question": {
+        "wordId": "forehead",
+        "stem": "选择 \"forehead\" 的正确中文意思：",
+        "correct": "n.前额;(任何事物的)前部",
+        "options": [
+          "a.在头顶上的;架空的 ad.在头顶上",
+          "adv.(for ever)永远；总是",
+          "v.预见,预知",
+          "n.前额;(任何事物的)前部"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "fore-（前缀：前部）+ head（头）。核心动作：头部的前方区域，即前额；引申为任何事物的前部。",
+        "similarWarning": "forehead vs. foresee（fore-+see，预见） vs. forever（for+ever，永远） vs. overhead（over-+head，头顶上） vs. beforehand（before+hand，事先）。差异在于后缀/词根不同，forehead强调头部位置，foresee强调视觉预知，overhead强调空间上方，beforehand强调时间先于。",
+        "extendedMeaning": "（任何事物的）前部：如the forehead of a mountain（山的前部）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "foreigner",
+      "word": "foreigner",
+      "phonetic": "/'fɔrinə/",
+      "meaning": "n.外国人",
+      "similar": [
+        "forever"
+      ],
+      "question": {
+        "wordId": "foreigner",
+        "stem": "选择 \"foreigner\" 的正确中文意思：",
+        "correct": "n.外国人",
+        "options": [
+          "n.前额;(任何事物的)前部",
+          "n.外国人",
+          "a.医学的，医疗的，医药的；内科的",
+          "adv.(for ever)永远；总是"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语'foris'（外面），后缀'-er'（人）。'foreign'（外国的）加'-er'构成，直指'来自外部的人'，即外国人。",
+        "similarWarning": "foreign（外国的）vs forever（永远）：前者含'ign'，后者含'ever'，拼写差异在中间字母序列，词义无关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "foremost",
+      "word": "foremost",
+      "phonetic": "/'fɔ:məust/",
+      "meaning": "a.最先的;最初的; 主要的 ad.首要地",
+      "similar": [
+        "forest",
+        "forecast",
+        "format"
+      ],
+      "question": {
+        "wordId": "foremost",
+        "stem": "选择 \"foremost\" 的正确中文意思：",
+        "correct": "a.最先的;最初的; 主要的 ad.首要地",
+        "options": [
+          "n.(出版物的)开本,版式,格式 vt.设计;安排",
+          "n.森林",
+          "v./n.预测,预报",
+          "a.最先的;最初的; 主要的 ad.首要地"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "fore-（前）+ most（最），核心动作：最前面的。指时间上最早或地位上最重要。",
+        "similarWarning": "forest（森林，n.） vs forecast（预报，v./n.） vs format（格式，n./v.）。foremost强调顺序或重要性；forest是树木；forecast是预测；format是编排。",
+        "extendedMeaning": "在考研中常引申为\"首要的、第一流的\"，用于强调某人或某物在领域内的最高地位。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "foresee",
+      "word": "foresee",
+      "phonetic": "/fɔ:'si:/",
+      "meaning": "v.预见,预知",
+      "similar": [
+        "forest",
+        "forever",
+        "forehead"
+      ],
+      "question": {
+        "wordId": "foresee",
+        "stem": "选择 \"foresee\" 的正确中文意思：",
+        "correct": "v.预见,预知",
+        "options": [
+          "v.预见,预知",
+          "n.森林",
+          "adv.(for ever)永远；总是",
+          "n.前额;(任何事物的)前部"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "fore-（前，预先）+ see（看）→ 提前看到 → 预见、预知。核心动作：在时间上向前看，看到尚未发生的事。",
+        "similarWarning": "forest（n.森林，与foresee差一个字母‘t’；词源不同，forest来自拉丁语‘外部的林地’）；forever（adv.永远，与foresee差‘ver’；forever强调时间持续，foresee强调预知能力）；forehead（n.前额，与foresee差‘head’；forehead是身体部位，foresee是认知动作）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "forest",
+      "word": "forest",
+      "phonetic": "/'fɔrist/",
+      "meaning": "n.森林",
+      "similar": [
+        "forecast",
+        "foremost",
+        "foresee",
+        "fore",
+        "fresh",
+        "frost",
+        "worst",
+        "arrest"
+      ],
+      "question": {
+        "wordId": "forest",
+        "stem": "选择 \"forest\" 的正确中文意思：",
+        "correct": "n.森林",
+        "options": [
+          "n.森林",
+          "v./n.预测,预报",
+          "v.预见,预知",
+          "a.最先的;最初的; 主要的 ad.首要地"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "forest源自拉丁语forestis (silva)，意为“户外的(森林)”，由foris（户外）加后缀构成。核心动作：户外、外界。",
+        "similarWarning": "forecast（预报）：fore（前）+cast（投掷）→预先投掷信息→预报。forest（森林）与forecast差异：forest无cast（投掷）部分，核心在“户外”。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "forever",
+      "word": "forever",
+      "phonetic": "/fə'revə/",
+      "meaning": "adv.(for ever)永远；总是",
+      "similar": [
+        "fever",
+        "former",
+        "foresee",
+        "foreigner",
+        "forehead",
+        "wherever"
+      ],
+      "question": {
+        "wordId": "forever",
+        "stem": "选择 \"forever\" 的正确中文意思：",
+        "correct": "adv.(for ever)永远；总是",
+        "options": [
+          "adv.(for ever)永远；总是",
+          "n.发热,狂热",
+          "a.以前的,在前的 pron.前者",
+          "v.预见,预知"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"由\"for\"（持续、为了）+\"ever\"（永远）复合而成，核心动作是\"持续到永远\"，表示时间上的无限延续或强调某种状态的持久性。\",\n  \"similarWarning\": \"moreover（此外，而且）: more+over，强调递进关系；fever（发烧）: 拼写差异为\"ever\" vs \"ever\"中\"f\"开头；former（前者的）: 词根form（形状），表示\"之前的形状\"；foresee（预见）: fore（前面）+see（看见），强调提前看到。\",\n  \"extendedMeaning\": \"在考研阅读中，forever可引申为\"永远地、无休",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "forge",
+      "word": "forge",
+      "phonetic": "/fɔ:dʒ/",
+      "meaning": "v.锻造,伪造 n.锻工车间;锻炉",
+      "similar": [
+        "fore",
+        "forgive",
+        "former",
+        "fog",
+        "ore",
+        "bore",
+        "core",
+        "fare"
+      ],
+      "question": {
+        "wordId": "forge",
+        "stem": "选择 \"forge\" 的正确中文意思：",
+        "correct": "v.锻造,伪造 n.锻工车间;锻炉",
+        "options": [
+          "a.以前的,在前的 pron.前者",
+          "v.原谅,饶恕",
+          "ad.在前面 a.先前的；在前部的 n.前部",
+          "v.锻造,伪造 n.锻工车间;锻炉"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 fabricare（制造），核心物理动作为“通过加热和锤击改变金属形状”。引申为“伪造”（像锻造一样人工制造虚假物品）和“稳步前进”（像锻铁一样坚韧地推进）。",
+        "similarWarning": "forge vs force：forge含有字母g（锻造/伪造），force含有字母c（力量/迫使）。forge vs forget：forge无字母t（锻造），forget有字母t（忘记）。",
+        "extendedMeaning": "考研中常考“艰苦达成，稳步前进”义，如forge ahead（稳步前进，突然加速前进）。",
+        "examUsage": "真题考点：forge a consensus（达成共识），forge a bond（建立联系）。例句：The two countries forged a strong partnership.（两国建立了牢固的伙伴关系。）"
+      }
+    },
+    {
+      "id": "forgive",
+      "word": "forgive",
+      "phonetic": "/fə'giv/",
+      "meaning": "v.原谅,饶恕",
+      "similar": [
+        "forge"
+      ],
+      "question": {
+        "wordId": "forgive",
+        "stem": "选择 \"forgive\" 的正确中文意思：",
+        "correct": "v.原谅,饶恕",
+        "options": [
+          "v.锻造,伪造 n.锻工车间;锻炉",
+          "v.原谅,饶恕",
+          "n.牛排；大块肉(或鱼)片",
+          "n.骨骼;骨架,框架;梗概,提要"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "for- (加强) + give (给予)。核心动作：彻底给予，不再追索。引申为宽恕、原谅，即放弃惩罚或报复的权利，彻底了结恩怨。",
+        "similarWarning": "forge (v.锻造；伪造)：字母 'r' 位置不同，forgive有give，forge有orge。forgive侧重情感上的原谅，forge侧重物理上的打造或欺诈",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fork",
+      "word": "fork",
+      "phonetic": "/fɔ:k/",
+      "meaning": "n.叉,耙;叉形物;餐叉",
+      "similar": [
+        "folk",
+        "fore",
+        "form",
+        "pork",
+        "flock",
+        "forge",
+        "forth",
+        "forty"
+      ],
+      "question": {
+        "wordId": "fork",
+        "stem": "选择 \"fork\" 的正确中文意思：",
+        "correct": "n.叉,耙;叉形物;餐叉",
+        "options": [
+          "n.形状,形式;表格 v.组成,构成;形成",
+          "ad.在前面 a.先前的；在前部的 n.前部",
+          "n.人们;民族;亲属 a.民间的",
+          "n.叉,耙;叉形物;餐叉"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'furca'（叉子），本义为分叉的农具。核心物理动作是“一分为二的分裂或分支”，引申为任何叉形物或分岔点。",
+        "similarWarning": "fork vs. folk: fork 有 'k' 表示分叉；folk 无 'k' 表示民众。fork vs. force: fork 是叉子；force 是力量。",
+        "extendedMeaning": "在考研阅读中常引申为“岔路、分支点”，如 the fork of a road；也用于比喻“分岔、分歧”，如 a fork in the argument。",
+        "examUsage": "常见于搭配 'fork out'（支付、掏出钱），如 'fork out money for something'，在完形或翻译中可能作为考点。"
+      }
+    },
+    {
+      "id": "form",
+      "word": "form",
+      "phonetic": "/fɔ:m/",
+      "meaning": "n.形状,形式;表格 v.组成,构成;形成",
+      "similar": [
+        "forum",
+        "dorm",
+        "farm",
+        "firm",
+        "foam",
+        "fore",
+        "fork",
+        "norm"
+      ],
+      "question": {
+        "wordId": "form",
+        "stem": "选择 \"form\" 的正确中文意思：",
+        "correct": "n.形状,形式;表格 v.组成,构成;形成",
+        "options": [
+          "n.农场,饲养场 v.种田,经营农牧业",
+          "n.(dormitory)［美］［口］宿舍",
+          "n.论坛,讨论会",
+          "n.形状,形式;表格 v.组成,构成;形成"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根form-源自拉丁语forma，意为“形状、形式、模式”。核心物理动作是“赋予形状或结构”，引申为“形成、构成、组织”。名词表“形状、形式、表格”，动词表“组成、形成”",
+        "similarWarning": "form vs. farm (农场，字母a替换o)；form vs. firm (坚固的，字母i替换o) 拼写差异需注意",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "formal",
+      "word": "formal",
+      "phonetic": "/'fɔ:məl/",
+      "meaning": "a.正式的;形式的",
+      "similar": [
+        "format",
+        "formula",
+        "form",
+        "oral",
+        "moral",
+        "former",
+        "mortal",
+        "abnormal"
+      ],
+      "question": {
+        "wordId": "formal",
+        "stem": "选择 \"formal\" 的正确中文意思：",
+        "correct": "a.正式的;形式的",
+        "options": [
+          "n.形状,形式;表格 v.组成,构成;形成",
+          "a.正式的;形式的",
+          "n.(出版物的)开本,版式,格式 vt.设计;安排",
+          "n.(pl.formulae)公式;规则;分子式;药方"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语formalis，词根form（形状、形式）+ 形容词后缀-al。核心物理动作是“赋予形式”，引申为“符合固定形式的”，即正式的、形式的。",
+        "similarWarning": "format（格式，安排）与formal仅差一个字母t，format强调布局/结构；normal（正常的）与formal差n，normal指符合常规标准；formula（公式，准则）与formal差ula，指固定方法；former（前者的）与formal差er，指时间顺序；mortal（致命的）与formal差m，指死亡属性。",
+        "extendedMeaning": "在考研英语中，formal可指“官方的、公开的”（如formal announcement），或“拘谨的、刻板的”（如formal behavior），强调非随意性。",
+        "examUsage": "常见搭配：formal education（正规教育），formal language（正式语言），formal agreement（正式协议）。真题中常作为干扰项，区别informal（非正式的）和formidable（可怕的）。"
+      }
+    },
+    {
+      "id": "format",
+      "word": "format",
+      "phonetic": "/'fɔ:mæt/",
+      "meaning": "n.(出版物的)开本,版式,格式 vt.设计;安排",
+      "similar": [
+        "formal",
+        "form",
+        "forest",
+        "former",
+        "forecast",
+        "foremost"
+      ],
+      "question": {
+        "wordId": "format",
+        "stem": "选择 \"format\" 的正确中文意思：",
+        "correct": "n.(出版物的)开本,版式,格式 vt.设计;安排",
+        "options": [
+          "a.正式的;形式的",
+          "n.形状,形式;表格 v.组成,构成;形成",
+          "n.森林",
+          "n.(出版物的)开本,版式,格式 vt.设计;安排"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“formatus”（形成），由“forma”（形状、形式）演变而来。核心动作是“赋予形状或结构”，从物理上的开本、版式引申为抽象的数据格式、安排方式。",
+        "similarWarning": "formal（正式的）→ format（格式）；form（形式）→ format（格式）；forest（森林）→ 拼写差异；forget（忘记）→ 拼写差异；former（以前的）→ 拼写差异；normal（正常的）→ 拼写差异；forecast（预测）→ 拼写差异；foremost（最重要的）→ 拼写差异。重点对比formal与format：前者强调“符合形式的”即正式，后者强调“形式本身”即格式。",
+        "extendedMeaning": "在计算机语境中指“数据格式”（如file format），或“格式化操作”（如format a disk）。考研阅读中常引申为“安排、设计（活动或内容的）结构”，例如“format the meeting”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "formation",
+      "word": "formation",
+      "phonetic": "/fɔ:'meiʃən/",
+      "meaning": "n.形成;构成;组织;构造;编制;塑造",
+      "similar": [
+        "information",
+        "foundation",
+        "portion",
+        "duration",
+        "fraction",
+        "friction",
+        "location",
+        "vocation"
+      ],
+      "question": {
+        "wordId": "formation",
+        "stem": "选择 \"formation\" 的正确中文意思：",
+        "correct": "n.形成;构成;组织;构造;编制;塑造",
+        "options": [
+          "n.形成;构成;组织;构造;编制;塑造",
+          "n.基础,根本,建立,创立;地基,基金,基金会",
+          "n.通知,报告;情报,资料,消息;信息",
+          "n.一部分,一份"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为form（形状、形式），后缀-ation（名词，表示行为或结果）。核心动作是“赋予形状”，引申为形成、构成的过程或结果。",
+        "similarWarning": "formation vs. information：in（进入）+formation（形成），进入形成的东西即“信息”。foundation：found（建立）+ation，侧重“地基、基础”。fraction：fract（打破）+ion，指“碎片、分数”。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "former",
+      "word": "former",
+      "phonetic": "/'fɔ:mə/",
+      "meaning": "a.以前的,在前的 pron.前者",
+      "similar": [
+        "farmer",
+        "forever",
+        "fore",
+        "form",
+        "forge",
+        "border",
+        "formal",
+        "format"
+      ],
+      "question": {
+        "wordId": "former",
+        "stem": "选择 \"former\" 的正确中文意思：",
+        "correct": "a.以前的,在前的 pron.前者",
+        "options": [
+          "adv.(for ever)永远；总是",
+          "n.农民,农场主",
+          "ad.在前面 a.先前的；在前部的 n.前部",
+          "a.以前的,在前的 pron.前者"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语forma（第一），与fore（前面）同源。核心动作是“处于时间或顺序的前端”，引申为“以前的、前者的”。",
+        "similarWarning": "farmer（农民）→ 字母差r；fore（前部）→ 去掉m；form（形式）→ 字母差r；force（力量）→ 字母差r；forge（锻造）→ 字母差r；order（顺序）→ 字母差r；border（边界）→ 字母差b。",
+        "extendedMeaning": "在考研外刊中常作名词“前身、前任”，如the former president（前任总统）。",
+        "examUsage": "固定搭配the former...the latter...（前者……后者……）是完形填空和翻译的高频结构，需注意指代清晰。"
+      }
+    },
+    {
+      "id": "formidable",
+      "word": "formidable",
+      "phonetic": "/'fɔ:midəbl/",
+      "meaning": "a.强大的;令人敬畏的;可怕的;艰难的",
+      "similar": [
+        "horrible",
+        "portable",
+        "sociable",
+        "variable",
+        "formulate"
+      ],
+      "question": {
+        "wordId": "formidable",
+        "stem": "选择 \"formidable\" 的正确中文意思：",
+        "correct": "a.强大的;令人敬畏的;可怕的;艰难的",
+        "options": [
+          "a.好交际的，友好的，合群的",
+          "a.强大的;令人敬畏的;可怕的;艰难的",
+          "a.令人恐惧的，可怕的；极讨厌的，糟透的",
+          "a.轻便的,手提(式)的,可移动的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根为拉丁语formido（恐惧），-able（能…的）。核心物理动作为“引起恐惧”，引申为“强大的、令人敬畏的”，强调因力量或难度巨大而让人产生畏惧感。",
+        "similarWarning": "形近词辨析：horrible（可怕的，来自horror）强调引起恐怖；portable（便携的，来自port-携带）与formidable无直接关联；sociable（社交的，来自socius同伴）易混但词义差异大；variable（可变的，来自vary变化）；formulate（制定，来自formula公式）拼写相似但词根不同。记忆关键：formidable含“恐惧”内核，其他词无此义。",
+        "extendedMeaning": "考研僻义：在真题中常引申为“难以应对的、棘手的”，如a formidable challenge（艰巨挑战），强调任务或对手的难度而非单纯可怕。",
+        "examUsage": "真题考点：常与task, challenge, opponent搭配，如The formidable opponent defeated all rivals.（这个强大的对手击败了所有竞争者）。注意其褒贬中性，可表“杰出的、了不起的”，如a formidable performance（出色的表现），需结合语境判断情感色彩。"
+      }
+    },
+    {
+      "id": "formula",
+      "word": "formula",
+      "phonetic": "/'fɔ:mjulə/",
+      "meaning": "n.(pl.formulae)公式;规则;分子式;药方",
+      "similar": [
+        "formulate",
+        "formal"
+      ],
+      "question": {
+        "wordId": "formula",
+        "stem": "选择 \"formula\" 的正确中文意思：",
+        "correct": "n.(pl.formulae)公式;规则;分子式;药方",
+        "options": [
+          "n.美，美丽；美人，美丽的事物",
+          "a.正式的;形式的",
+          "v. 用公式表示;规划;设计;系统地阐述",
+          "n.(pl.formulae)公式;规则;分子式;药方"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“forma”（形状、形式），加上指小后缀“-ula”，字面义为“小形式、定型的东西”。核心动作是“将复杂规则或成分压缩为固定模式”，引申为标准化公式或处方。",
+        "similarWarning": "formulate（v. 制定、规划）：-late为动词后缀，强调“系统化表达”的动作；formula（n. 公式）：强调“固定模式”的结果。formal（adj. 正式的）：源于“forma”+“-al”，指“符合形式的”，与公式无关。",
+        "extendedMeaning": "在考研阅读中常引申为“（成功、解决方案的）标准方法、秘诀”，如“a formula for success”（成功的秘诀），不限于数学或化学语境。",
+        "examUsage": "真题考点：常考搭配“a formula for...”表示“...的方法/方案”，如“a formula for economic recovery”（经济复苏的方案）。注意与“formulate”的辨析：formula是名词，formulate是动词。"
+      }
+    },
+    {
+      "id": "formulate",
+      "word": "formulate",
+      "phonetic": "/'fɔ:mjuleit/",
+      "meaning": "v. 用公式表示;规划;设计;系统地阐述",
+      "similar": [
+        "formula",
+        "fortunate",
+        "simulate",
+        "circulate",
+        "correlate",
+        "stimulate",
+        "accumulate",
+        "formidable"
+      ],
+      "question": {
+        "wordId": "formulate",
+        "stem": "选择 \"formulate\" 的正确中文意思：",
+        "correct": "v. 用公式表示;规划;设计;系统地阐述",
+        "options": [
+          "v. 用公式表示;规划;设计;系统地阐述",
+          "v.模仿,模拟;假装,冒充",
+          "n.(pl.formulae)公式;规则;分子式;药方",
+          "a.幸运的,侥幸的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 formula（小形式、规则），由 form（形式）+-ula（小词后缀）→formula（公式、规则）+-ate（动词后缀）→formulate（使成为固定形式）。核心物理动作：将想法、计划等“套入固定公式/规则”，引申为“系统化表达或设计”。",
+        "similarWarning": "formulate vs. simulate：formulate 强调“制定公式/计划”，核心在 form-（形式）；simulate 强调“模仿、模拟”，核心在 simul-（相似）。",
+        "extendedMeaning": "在考研阅读中常引申为“构想出、系统提出”，如 formulate a policy（制定政策）或 formulate a theory（构建理论），强调从零到一的理性构建过程。",
+        "examUsage": "真题考点：formulate 常与 plan/policy/theory 搭配，考查其“系统阐述”义，反义词为 implement（实施）。如：The government formulated a new economic strategy.（政府制定了一项新经济战略。）"
+      }
+    },
+    {
+      "id": "forth",
+      "word": "forth",
+      "phonetic": "/fɔ:θ/",
+      "meaning": "ad.向前；向外，往外",
+      "similar": [
+        "forty",
+        "north",
+        "worth",
+        "worthy",
+        "fore",
+        "fork",
+        "form",
+        "oath"
+      ],
+      "question": {
+        "wordId": "forth",
+        "stem": "选择 \"forth\" 的正确中文意思：",
+        "correct": "ad.向前；向外，往外",
+        "options": [
+          "n.北,北方a.北方的,北部 ad.向北方,在北方",
+          "num./a.四十 pron.四十(个，只...)",
+          "ad.向前；向外，往外",
+          "n.价值 a.值…的,价值…的,值得…的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "forth 源自古英语 forþ，派生自 for-（向前）+ -þ（副词后缀，表示方向），核心物理动作为“向前移动或向外延伸”，强调从某一点朝前或朝外的空间/时间方向。",
+        "similarWarning": "forth vs. fourth：forth 指“向前”，fourth 是“第四”（four + th），拼写差一个‘u’，词义完全不同。forth vs. fort：fort 是“堡垒”，forth 是副词，无名词含义。",
+        "extendedMeaning": "在考研语境中，forth 常出现在短语中表示“出来、出现”，如 bring forth（产生、提出）、set forth（陈述、出发），而非仅字面“向前”。",
+        "examUsage": "真题考点：1. and so forth（等等）常作列举收尾，需与 and so on 互换。2. back and forth（来回地）是高频搭配，用于描述往返动作。3. come forth（涌现）在阅读中表抽象概念出现。"
+      }
+    },
+    {
+      "id": "forthcoming",
+      "word": "forthcoming",
+      "phonetic": "/'fɔ:θ'kʌmiŋ/",
+      "meaning": "a.即将到来的;准备好的;乐意帮助的;n.来临",
+      "similar": [
+        "shortcoming"
+      ],
+      "question": {
+        "wordId": "forthcoming",
+        "stem": "选择 \"forthcoming\" 的正确中文意思：",
+        "correct": "a.即将到来的;准备好的;乐意帮助的;n.来临",
+        "options": [
+          "n.短处,缺点",
+          "a.道德(上)的,精神上的 n.寓意,教育意义",
+          "a.即将到来的;准备好的;乐意帮助的;n.来临",
+          "n.梨子,梨树"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "forthcoming = forth（向前） + coming（到来）。核心动作是“向前到来”，本义指时间上即将发生（即将到来的），引申为事物是否“准备好”或人是否“乐意提供帮助”。",
+        "similarWarning": "shortcoming（缺点，不足）：short（短/不足）+ coming，指“到来时短缺”，即缺陷。对比：forthcoming强调“向前到来”的积极状态，shortcoming强调“不足”的消极结果。",
+        "extendedMeaning": "在考研阅读中常考“准备好的”或“乐意帮助的”引申义，如：The answer was not forthcoming.（答案未准备好/未给出。）或 He was not very forthcoming about his plans.（他不太愿意透露他的计划。）",
+        "examUsage": "真题中常作为干扰项，注意区分“即将到来的”（时间）与“乐意提供的”（态度）。经典搭配：if more money is forthcoming（如果有更多资金到位），真题例句：No evidence was forthcoming to support the theory.（没有证据支持该理论。）"
+      }
+    },
+    {
+      "id": "fortnight",
+      "word": "fortnight",
+      "phonetic": "/'fɔ:tnait/",
+      "meaning": "n.两星期",
+      "similar": [
+        "freight"
+      ],
+      "question": {
+        "wordId": "fortnight",
+        "stem": "选择 \"fortnight\" 的正确中文意思：",
+        "correct": "n.两星期",
+        "options": [
+          "a.米制的,公制的",
+          "vi.死，死亡；(草木)枯萎，凋谢；渴望",
+          "n.货物,货运,运费",
+          "n.两星期"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"来自古英语\"fēowertīene niht\"，字面意为\"十四夜\"。词根\"fort-\"是\"fourteen\"的缩写，\"night\"表示夜晚。核心动作：从第一天夜晚数到第十四天夜晚，即两星期。\",\n  \"similarWarning\": \"freight（货物，运费）与fortnight拼写差异在\"fr\"vs\"fo\"及\"eight\"vs\"tnight\"，词义完全无关；tonight（今晚）与fortnight拼写差异在\"to\"vs\"for\"及\"night\"相同，但\"tonight\"指单个夜晚，fortnight指十四夜。\",\n  \"extendedMeanin",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,1663 @@
+{
+  "batchId": 53,
+  "words": [
+    {
+      "id": "northwest",
+      "word": "northwest",
+      "phonetic": "/ˌnɔ:θ'west/",
+      "meaning": "n.西北方,西北部a.西北的ad.向西北,在西北",
+      "similar": [
+        "northeast",
+        "southwest",
+        "northern"
+      ],
+      "question": {
+        "wordId": "northwest",
+        "stem": "选择 \"northwest\" 的正确中文意思：",
+        "correct": "n.西北方,西北部a.西北的ad.向西北,在西北",
+        "options": [
+          "a.北方的,北部的",
+          "n.东北 a.东北方的 ad.向东北,在东北",
+          "n./a.西南(的),西南部(的)",
+          "n.西北方,西北部a.西北的ad.向西北,在西北"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "north（北）+ west（西），组合词，字面即‘北和西之间的方向’。",
+        "similarWarning": "northeast（东北）vs northwest（西北）：前者是north+east，后者是north+west；southwest（西南）vs northwest：前者是south+west。注意首字差异。",
+        "extendedMeaning": "在考研阅读中可指‘西北地区’（如美国西北部、中国西北），作形容词时描述‘来自西北的’（如northwest wind），但无特殊僻义。",
+        "examUsage": "通常作为方位词在阅读中定位地点，无高频考点。"
+      }
+    },
+    {
+      "id": "nose",
+      "word": "nose",
+      "phonetic": "/nəuz/",
+      "meaning": "n.鼻子;(飞机,船等的)前端,突出部分",
+      "similar": [
+        "dose",
+        "hose",
+        "none",
+        "pose",
+        "rose",
+        "goose",
+        "loose",
+        "mouse"
+      ],
+      "question": {
+        "wordId": "nose",
+        "stem": "选择 \"nose\" 的正确中文意思：",
+        "correct": "n.鼻子;(飞机,船等的)前端,突出部分",
+        "options": [
+          "pron.没有任何人(东西)；都不 ad.一点也不",
+          "n.水龙带,软管 v.用软管(淋浇,冲洗)",
+          "n.剂量,一服,一剂 v.(给…)服药",
+          "n.鼻子;(飞机,船等的)前端,突出部分"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自原始印欧语 *nas- '鼻子'。核心动作是 '呼吸/嗅闻的器官'，引申为任何物体的前端突出部分，如飞机机头、船头。",
+        "similarWarning": "noise (n. 噪音) vs nose (n. 鼻子)：差一个字母 'i'，噪音通过耳朵(ear)进入，鼻子(nose)用于闻。dose (n. 剂量) vs nose：字母 'd' 替换 'n'，剂量常与药物相关。",
+        "extendedMeaning": "v. 1. 嗅，闻（常与 about/around 连用，表示暗中探查）。2. (在比赛中)以微弱优势获胜(nose out)。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "notable",
+      "word": "notable",
+      "phonetic": "/'nəutəbl/",
+      "meaning": "n.值得注意的,显著的,著名的",
+      "similar": [
+        "portable",
+        "noble",
+        "stable",
+        "honorable",
+        "sociable",
+        "suitable"
+      ],
+      "question": {
+        "wordId": "notable",
+        "stem": "选择 \"notable\" 的正确中文意思：",
+        "correct": "n.值得注意的,显著的,著名的",
+        "options": [
+          "n.值得注意的,显著的,著名的",
+          "a.高尚的;贵族的,高贵的 n.贵族",
+          "a.轻便的,手提(式)的,可移动的",
+          "a.稳定的,安定的 n.马厩,马棚"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语nota（标记、记号）+ -able（能够...的）。核心动作是“能够被标记出来的”，即因为特别而值得做记号，引申为“值得注意的、显著的”。",
+        "similarWarning": "notable vs. portable（便携的）：notable含nota（标记），portable含port（搬运）。notable vs. stable（稳定的）：stable含st（站立）。",
+        "extendedMeaning": "n. 名人、显要人物（考研常考名词用法，如social notables社会名流）。",
+        "examUsage": "be notable for...（因...而显著），如：The region is notable for its economic growth.（该地区因其经济增长而引人注目。）"
+      }
+    },
+    {
+      "id": "notebook",
+      "word": "notebook",
+      "phonetic": "/'nəutbuk/",
+      "meaning": "n.笔记本",
+      "similar": [],
+      "question": {
+        "wordId": "notebook",
+        "stem": "选择 \"notebook\" 的正确中文意思：",
+        "correct": "n.笔记本",
+        "options": [
+          "n.笔记本",
+          "v.离开,退出;停止,放弃,辞职",
+          "n.课本,教科书",
+          "a.表面的;肤浅的,浅薄的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由note（笔记）+book（本子）组合而成，字面意思即为“记笔记的本子”，合成词，无复杂词源演变。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "nothing",
+      "word": "nothing",
+      "phonetic": "/'nʌθiŋ/",
+      "meaning": "n.没有东西；什么也没有；无关紧要的人或事",
+      "similar": [
+        "anything",
+        "clothing",
+        "something"
+      ],
+      "question": {
+        "wordId": "nothing",
+        "stem": "选择 \"nothing\" 的正确中文意思：",
+        "correct": "n.没有东西；什么也没有；无关紧要的人或事",
+        "options": [
+          "n.没有东西；什么也没有；无关紧要的人或事",
+          "pron.某事，某物；被视为有意义的事物",
+          "pron.任何东西(事物)；无论什么东西(事物)",
+          "n.服装,被褥"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由no（没有）和thing（东西）组合而成，字面意为“没有东西”，核心物理动作是“空无一物”。",
+        "similarWarning": "anything（任何事物）：any（任何）+thing；nothing（没有东西）：no（没有）+thing。注意a与o的字母差异，前者表“任意”，后者表“否定”。",
+        "extendedMeaning": "在考研阅读中常引申为“无关紧要的人或事”，如“He is a nothing.”（他是个无足轻重的人）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "notice",
+      "word": "notice",
+      "phonetic": "/'nəutis/",
+      "meaning": "n.通知,通告,布告;注意,认识v.注意到,注意",
+      "similar": [
+        "motive",
+        "native",
+        "notify",
+        "notion"
+      ],
+      "question": {
+        "wordId": "notice",
+        "stem": "选择 \"notice\" 的正确中文意思：",
+        "correct": "n.通知,通告,布告;注意,认识v.注意到,注意",
+        "options": [
+          "n.通知,通告,布告;注意,认识v.注意到,注意",
+          "n.动机,目的 a.发动的,运动的",
+          "a.本地的,本国的;天生的 n.本地人,本国人",
+          "v.通知,告知,报告"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'notitia'（知晓、熟悉），由词根 'not-'（知道） + 后缀 '-ice'（表行为/状态）。核心动作是“使知悉”，引申为“注意（认知行为）”和“通知（信息载体）”。",
+        "similarWarning": "note（笔记/注意，拼写少'ic'）；notion（概念/想法，后缀'-ion'表抽象结果）；notify（通知/告知，动词后缀'-ify'表使动）。",
+        "extendedMeaning": "在考研阅读中常考“（预先）通知/警告”的引申义，如 'until further notice'（在另行通知之前）；或指“评论/评价”，如 'take notice of'（留意/关注）。",
+        "examUsage": "高频短语：'give notice'（提前通知/辞职通知）；'serve notice'（正式警告）；真题例句：'The company gave its employees a month's notice.'（公司提前一个月通知员工。）"
+      }
+    },
+    {
+      "id": "noticeable",
+      "word": "noticeable",
+      "phonetic": "/'nəutisəbl/",
+      "meaning": "a.显而易见的,值得注意的,重要的",
+      "similar": [
+        "sociable"
+      ],
+      "question": {
+        "wordId": "noticeable",
+        "stem": "选择 \"noticeable\" 的正确中文意思：",
+        "correct": "a.显而易见的,值得注意的,重要的",
+        "options": [
+          "n.轴，轴线，中心线；坐标轴，基准线",
+          "a.好交际的，友好的，合群的",
+          "v.捏,掐,拧;收缩;紧急关头;匮乏;压力",
+          "a.显而易见的,值得注意的,重要的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根词缀逻辑：notice（注意）+ -able（能…的）→ 能引起注意的 → 显而易见的",
+        "similarWarning": "sociable（社交的，好交际的）：noticeable源自notice（注意），核心在“被看到”；sociable源自social（社交的），核心在“社交”。",
+        "extendedMeaning": "考研僻义：重要的，显著的（尤指变化或差异），如“a noticeable improvement”（显著的改进）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "notify",
+      "word": "notify",
+      "phonetic": "/'nəutifai/",
+      "meaning": "v.通知,告知,报告",
+      "similar": [
+        "noisy",
+        "modify",
+        "notice",
+        "notion"
+      ],
+      "question": {
+        "wordId": "notify",
+        "stem": "选择 \"notify\" 的正确中文意思：",
+        "correct": "v.通知,告知,报告",
+        "options": [
+          "v.通知,告知,报告",
+          "v.更改,修改,修饰",
+          "n.通知,通告,布告;注意,认识v.注意到,注意",
+          "a.吵闹的,喧闹的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'notificare'，由 'notus'（已知的，词源同 'note'）+ 'ficare'（做，制造）构成。核心物理动作是“使…变得已知”，即把信息传递给对方，使其知晓。",
+        "similarWarning": "notify vs notice: notify 是动词“通知（动作）”；notice 可作动词“注意到”或名词“通知/注意”。区别在于 notify 强调主动告知，notice 强调被动察觉。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "notion",
+      "word": "notion",
+      "phonetic": "/'nəuʃən/",
+      "meaning": "n.概念,想法,意念,看法,观点",
+      "similar": [
+        "motion",
+        "nation",
+        "emotion",
+        "portion",
+        "noon",
+        "onion",
+        "action",
+        "cotton"
+      ],
+      "question": {
+        "wordId": "notion",
+        "stem": "选择 \"notion\" 的正确中文意思：",
+        "correct": "n.概念,想法,意念,看法,观点",
+        "options": [
+          "n.情绪,情感,感情",
+          "n.概念,想法,意念,看法,观点",
+          "n.运动,动;提议,动议 v.提议,动议",
+          "n.民族,国家"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'notio'（概念、想法），由 'notus'（已知的）派生。词根 'not-'（知道）暗示了“已经知道或认知的东西”。核心动作：将信息内化为头脑中的认知结构，即“概念、想法”。",
+        "similarWarning": "motion（运动，mob-移动）vs notion（概念，not-知道）：m-移动 vs n-知道，一个强调物理位移，一个强调心理认知。",
+        "extendedMeaning": "（考研中常考）抽象的、模糊的或未经严格证明的“念头、感觉”，如：a notion that...（一种...的想法/感觉），常与 vague, absurd, preconceived 等词搭配。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "notorious",
+      "word": "notorious",
+      "phonetic": "/nəu'tɔ:riəs/",
+      "meaning": "a.臭名昭著的,声名狼藉的",
+      "similar": [
+        "glorious",
+        "monotonous",
+        "mysterious"
+      ],
+      "question": {
+        "wordId": "notorious",
+        "stem": "选择 \"notorious\" 的正确中文意思：",
+        "correct": "a.臭名昭著的,声名狼藉的",
+        "options": [
+          "a.臭名昭著的,声名狼藉的",
+          "a.神秘的,可疑的,难理解的",
+          "a.壮丽的,辉煌的;光荣的",
+          "a.单调的,无变化的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'notorius'（众所周知的），由'notus'（已知的）+ '-orius'（形容词后缀，表性质）组成。本义是'众所周知的'，后贬义化为'臭名昭著的'，核心动作是'被广泛知晓（负面信息）'。",
+        "similarWarning": "glorious（光荣的）: g-无实义，lor-与'not-'无关，-ious表性质；monotonous（单调的）: mono-（单一）+ ton-（声音）+ -ous，强调单一音调；mysterious（神秘的）: myst-（神秘）+ -erious。注意notorious的'not-'是'知道'的变体，与'not'（不）无关。",
+        "extendedMeaning": "在考研阅读中常引申为'因负面特征而广为人知的'，不限于人，可用于事件、地点、制度等，如'notorious case'（臭名昭著的案例）。",
+        "examUsage": "常见搭配'be notorious for'（因...而臭名昭著）。真题中常与'infamous'同义替换，或作为干扰项与'famous'（著名的）对比，如真题例句：'The city is notorious for its traffic congestion.'（该市因交通拥堵而臭名昭著。）"
+      }
+    },
+    {
+      "id": "notwithstanding",
+      "word": "notwithstanding",
+      "phonetic": "/ˌnɔtwiθ'stændiŋ/",
+      "meaning": "prep./ad./conj.尽管",
+      "similar": [],
+      "question": {
+        "wordId": "notwithstanding",
+        "stem": "选择 \"notwithstanding\" 的正确中文意思：",
+        "correct": "prep./ad./conj.尽管",
+        "options": [
+          "n.墨水，油墨",
+          "v./n.接见,会见;采访;面试",
+          "v.铺砌,铺(路)",
+          "prep./ad./conj.尽管"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "not-（否定）+ with-（与）+ standing（站立）。核心动作：与某事站立对立，即“尽管、虽然”。逻辑上表示让步关系，相当于in spite of。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常作连词或介词，引导让步状语，语气比although更正式，常用于法律、学术文本。",
+        "examUsage": "真题中常与despite、in spite of互换，但notwithstanding更强调“尽管存在相反情况”。例：Notwithstanding the difficulties, the project proceeded.（尽管困难重重，项目仍在推进。）"
+      }
+    },
+    {
+      "id": "noun",
+      "word": "noun",
+      "phonetic": "/naun/",
+      "meaning": "n.名词",
+      "similar": [
+        "noon",
+        "bound",
+        "count",
+        "found",
+        "hound",
+        "mount",
+        "mourn",
+        "pound"
+      ],
+      "question": {
+        "wordId": "noun",
+        "stem": "选择 \"noun\" 的正确中文意思：",
+        "correct": "n.名词",
+        "options": [
+          "n.名词",
+          "n.中午，正午",
+          "v./n.跳(跃) a.被束缚的，一定的；n.界限",
+          "v.数,计算;算入;看作,认为 n.计数,总数"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'nomen'（名字），通过古法语 'noun' 进入英语。核心物理动作为“命名”，指代用来标识人、事物、地点或概念的词汇类别。",
+        "similarWarning": "noon（中午，n+oon） vs noun（名词，n+oun）；bound（跳跃/界限，b+ound） vs noun（n+oun）；count（计数，c+ount） vs noun（n+oun）；found（建立，f+ound） vs noun（n+oun）；hound（猎犬，h+ound） vs noun（n+oun）；mount（攀登，m+ount） vs noun（n+oun）；mourn（哀悼，m+ourn） vs noun（n+oun）；pound（磅/敲打，p+ound） vs noun（n+oun）。核心差异在首字母及后续字母组合。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "nourish",
+      "word": "nourish",
+      "phonetic": "/'nʌriʃ/",
+      "meaning": "v.提供养分,养育,怀有(希望,仇恨等)",
+      "similar": [
+        "flourish",
+        "tourist"
+      ],
+      "question": {
+        "wordId": "nourish",
+        "stem": "选择 \"nourish\" 的正确中文意思：",
+        "correct": "v.提供养分,养育,怀有(希望,仇恨等)",
+        "options": [
+          "n.法院,法庭;宫廷,朝廷;院子;球场",
+          "n./v.繁荣,茂盛,兴旺",
+          "v.提供养分,养育,怀有(希望,仇恨等)",
+          "n.旅游者，观光客；巡回比赛的运动员"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根nutri-（滋养）+ -ish（动词后缀）→提供养分。核心动作：将营养物质给予生命体，引申为滋养、培育，如nourish hope（怀有希望）。",
+        "similarWarning": "flourish（v.繁荣，茂盛；源自flor-花，强调生长旺盛） vs nourish（强调给予养分）；tourist（n.游客；源自tour-旅行）拼写差异为tou- vs nou-。",
+        "extendedMeaning": "怀有（情感、想法）：nourish a grudge（怀恨在心）、nourish ambition（怀有抱负），常见于真题阅读中抽象情感描写。",
+        "examUsage": "考研真题中常考nourish与sustain、foster的替换，如：nourish the economy（滋养经济），或nourish a sense of community（培养社区感）。"
+      }
+    },
+    {
+      "id": "novel",
+      "word": "novel",
+      "phonetic": "/'nɔvəl/",
+      "meaning": "n.(长篇)小说 a.新奇的,新颖的",
+      "similar": [
+        "novelty",
+        "lovely",
+        "dove",
+        "move",
+        "none",
+        "nose",
+        "oval",
+        "oven"
+      ],
+      "question": {
+        "wordId": "novel",
+        "stem": "选择 \"novel\" 的正确中文意思：",
+        "correct": "n.(长篇)小说 a.新奇的,新颖的",
+        "options": [
+          "n.新奇,新颖,新奇的事物",
+          "n.(长篇)小说 a.新奇的,新颖的",
+          "a.可爱的,好看的;令人愉快的,美好的",
+          "n.鸽子"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语novellus（新的），是novus（新）的指小形式。词根nov-表“新”，-el为指小后缀。核心动作/画面：新产生的东西。n.指新形式的文学作品（小说）；a.指新奇的、前所未有的。",
+        "similarWarning": "novel（新奇；小说） vs. novelty（新颖，新奇事物）：novel是形容词/名词，novelty是名词。 vs. move（移动）：拼写差异“n” vs “m”，词义无关。",
+        "extendedMeaning": "在考研阅读中，novel常以形容词出现，表示“新颖的、新奇的”，强调与以往不同且具有创新性，如novel approach（新颖的方法），并非仅指小说。",
+        "examUsage": "真题考点：novel作为形容词时，常与traditional（传统的）形成对比，是理解作者态度或文章主旨的关键词。例如：\"This novel method challenges the conventional wisdom.\""
+      }
+    },
+    {
+      "id": "novelty",
+      "word": "novelty",
+      "phonetic": "/'nɔvəlti/",
+      "meaning": "n.新奇,新颖,新奇的事物",
+      "similar": [
+        "novel",
+        "lovely",
+        "poverty"
+      ],
+      "question": {
+        "wordId": "novelty",
+        "stem": "选择 \"novelty\" 的正确中文意思：",
+        "correct": "n.新奇,新颖,新奇的事物",
+        "options": [
+          "n.贫穷,贫困",
+          "n.新奇,新颖,新奇的事物",
+          "n.(长篇)小说 a.新奇的,新颖的",
+          "a.可爱的,好看的;令人愉快的,美好的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根nov-（新）+ -el（后缀）+ -ty（名词后缀，表性质/状态）。核心物理动作：从‘新’（new）引申为‘新奇、新颖的状态’或‘新奇的事物’。",
+        "similarWarning": "novel（n.小说；adj.新颖的）→ novelty是名词形式，侧重‘新颖性’；lovely（adj.可爱的）→ 仅拼写相似，词源无关；poverty（n.贫穷）→ 拼写相似但词根不同（pover-与nov-），注意区分。",
+        "extendedMeaning": "在考研阅读中可指‘新奇感’（the novelty of sth.），或‘新奇事物’（a novelty product）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "november",
+      "word": "November",
+      "phonetic": "/nəu'vembə/",
+      "meaning": "n.十一月",
+      "similar": [
+        "december",
+        "remember"
+      ],
+      "question": {
+        "wordId": "november",
+        "stem": "选择 \"November\" 的正确中文意思：",
+        "correct": "n.十一月",
+        "options": [
+          "n.失误,流逝,丧失,下降 v.失效,偏离,流逝",
+          "n.十二月",
+          "n.十一月",
+          "v.记住;(to)转达问候,代…致意,代…问好"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“novem”（九），因古罗马历法原为三月起始，November原为第九个月。后历法改革，January和February被加入年初，November顺延为第十一个月，但名称保留。",
+        "similarWarning": "member（成员）：mem-（记忆）→记住的人；number（数字）：num-（分配）→编号；December（十二月）：decem-（十）→原第十个月；remember（回忆）：re-（再）+member→再次记起。注意November与December均含“-ember”，但前缀分别表示“九”和“十”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "nowadays",
+      "word": "nowadays",
+      "phonetic": "/'nauədeiz/",
+      "meaning": "ad.现今,现在",
+      "similar": [],
+      "question": {
+        "wordId": "nowadays",
+        "stem": "选择 \"nowadays\" 的正确中文意思：",
+        "correct": "ad.现今,现在",
+        "options": [
+          "n.概念，观念，设想",
+          "n.大气(层)；空气；气氛，环境；大气压",
+          "a.机警的，警觉的；机灵的 vt.使…警觉",
+          "ad.现今,现在"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由now（现在）+ a（连接字母）+ days（日子）构成，字面意为“现在的日子”，强调与过去对比的当前时代背景。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "nowhere",
+      "word": "nowhere",
+      "phonetic": "/'nəuhwεə/",
+      "meaning": "ad.任何地方都不,没有地方",
+      "similar": [
+        "anywhere",
+        "somewhere",
+        "northern"
+      ],
+      "question": {
+        "wordId": "nowhere",
+        "stem": "选择 \"nowhere\" 的正确中文意思：",
+        "correct": "ad.任何地方都不,没有地方",
+        "options": [
+          "ad.无论哪里；(用于否定、疑问等)任何地方",
+          "ad.任何地方都不,没有地方",
+          "a.北方的,北部的",
+          "ad.某地，在某处；在附近，前后，大约"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "由no（没有） + where（地方）构成，直译为‘没有地方’，核心动作表示否定性的空间存在，引申为‘无处可去’或‘毫无结果’。",
+        "similarWarning": "形近词辨析：nowhere（无地方） vs. anywhere（任何地方） vs. somewhere（某处） vs. nowhere（注意拼写差异：no+where vs. any+where等）。",
+        "extendedMeaning": "在考研中常引申为‘毫无进展’、‘毫无结果’或‘默默无闻’，如‘come from nowhere’（突然出现/横空出世），‘nowhere to be found’（无处可寻）。",
+        "examUsage": "真题考点：固定搭配‘get nowhere’（毫无进展）、‘nowhere near’（远非/根本不），如‘The discussion got nowhere’（讨论毫无结果）。"
+      }
+    },
+    {
+      "id": "nuclear",
+      "word": "nuclear",
+      "phonetic": "/'nju:kliə/",
+      "meaning": "a.核心的,中心的;原子核的,核能的",
+      "similar": [
+        "nucleus"
+      ],
+      "question": {
+        "wordId": "nuclear",
+        "stem": "选择 \"nuclear\" 的正确中文意思：",
+        "correct": "a.核心的,中心的;原子核的,核能的",
+        "options": [
+          "v.使面临,使遭遇;面对(危险等)",
+          "a.核心的,中心的;原子核的,核能的",
+          "n.(pl.nuclei)核,核心,原子核",
+          "n.准确（性）；精确；准确度"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根nucle-（核，核心）+-ar（形容词后缀，…的）。源于拉丁语nucleus（果核、核心），指事物的中心或原子核。",
+        "similarWarning": "clear（清晰的，明亮的）与nuclear仅差前缀nu-；nucleus（核心，原子核）是名词形式，nuclear为形容词。",
+        "extendedMeaning": "在考研外刊中常引申为‘关键性的、决定性的’，如nuclear issue（核心问题）。",
+        "examUsage": "真题常考搭配：nuclear family（核心家庭），与extended family（大家庭）对比；nuclear power（核能/核大国）。"
+      }
+    },
+    {
+      "id": "nucleus",
+      "word": "nucleus",
+      "phonetic": "/'nju:kliəs/",
+      "meaning": "n.(pl.nuclei)核,核心,原子核",
+      "similar": [
+        "nuclear"
+      ],
+      "question": {
+        "wordId": "nucleus",
+        "stem": "选择 \"nucleus\" 的正确中文意思：",
+        "correct": "n.(pl.nuclei)核,核心,原子核",
+        "options": [
+          "n.陌生人,生客;外地人,外国人",
+          "ad.不断增加地,日益",
+          "a.核心的,中心的;原子核的,核能的",
+          "n.(pl.nuclei)核,核心,原子核"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语nucleus（小核仁），由nux（坚果）的指小后缀构成，核心物理动作是“果核”的坚硬、中心位置。nucle-（核）+ -us（名词后缀），本义为果核，后引申为任何事物的核心或原子核。",
+        "similarWarning": "nuclear（adj.核的，原子核的）是nucleus的形容词形式，拼写差异在结尾：-us（名词）vs -ar（形容词）。",
+        "extendedMeaning": "在考研阅读中可引申为“核心部分、关键要素”，如the nucleus of a problem（问题的核心）。",
+        "examUsage": "常与core、center构成同义替换，真题中常见搭配：atomic nucleus（原子核），cell nucleus（细胞核）。注意干扰项可能用nuclear替换nucleus，需辨析词性。"
+      }
+    },
+    {
+      "id": "nuisance",
+      "word": "nuisance",
+      "phonetic": "/'nju:səns/",
+      "meaning": "n.讨厌的人(或东西);麻烦事",
+      "similar": [
+        "guidance",
+        "substance",
+        "finance",
+        "distance",
+        "assistance",
+        "resistance"
+      ],
+      "question": {
+        "wordId": "nuisance",
+        "stem": "选择 \"nuisance\" 的正确中文意思：",
+        "correct": "n.讨厌的人(或东西);麻烦事",
+        "options": [
+          "n.讨厌的人(或东西);麻烦事",
+          "n.财政,金融 v.为…提供资金",
+          "n.引导,指导",
+          "n.物质；实质，本质；主旨；财产，资产"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'nocere'（伤害），通过古法语 'nuire'（损害）演变，后缀 -ance 表名词。核心物理动作为“造成伤害或不便”，引申为令人讨厌的人或事物。",
+        "similarWarning": "guidance（指导，guid-引导）、substance（物质，sub-下+stant-站立）、finance（金融，fin-终结）、distance（距离，dis-分离+stant-站立）、assistance（援助，assist-帮助）、resistance（抵抗，resist-反抗）。对比：nuisance 核心在“伤害”，与以上词无直接拼写混淆，但注意与 'nuisance' 近音的 'nursance'（非标准词）区分。",
+        "extendedMeaning": "在考研阅读中，nuisance 可引申为“法律上的妨害行为”（如噪音、污染等公共妨害），或“令人烦恼的琐事”。例：'The noise from the construction site is a public nuisance.'（施工噪音是公共妨害。）",
+        "examUsage": "常见搭配：'make a nuisance of oneself'（惹人讨厌）。真题中常作为干扰项，与 'annoyance'（烦恼）、'trouble'（麻烦）辨析，强调其“持续性的、可视为妨害”的特性。"
+      }
+    },
+    {
+      "id": "numb",
+      "word": "numb",
+      "phonetic": "/nʌm/",
+      "meaning": "a.麻木的,失去感觉的 v.使麻木",
+      "similar": [
+        "dumb",
+        "thumb"
+      ],
+      "question": {
+        "wordId": "numb",
+        "stem": "选择 \"numb\" 的正确中文意思：",
+        "correct": "a.麻木的,失去感觉的 v.使麻木",
+        "options": [
+          "n.拇指 v.示意要求搭车；迅速翻阅",
+          "a.哑的,无言的",
+          "a.麻木的,失去感觉的 v.使麻木",
+          "n.逮捕，扣留 vt.逮捕，扣留；阻止；吸引"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自中古英语nomen（‘夺取，使失去’），与‘nim’（偷窃）同源。核心物理动作为‘剥夺感觉’或‘使失去知觉’，如同被偷走了感官能力，引申为情感上的麻木迟钝。",
+        "similarWarning": "dumb（哑的，愚蠢的）与numb仅首字母d/n不同，dumb侧重‘不能说话’或‘智力低下’；numb侧重‘失去感觉’或‘麻木’。thumb（拇指）多了一个h，拼写差异明显，但可与numb联想：拇指被冻得numb。",
+        "extendedMeaning": "在考研阅读中，numb常引申为‘（因震惊、恐惧等）情感麻木的’或‘无动于衷的’，如be numb with shock（惊呆）。",
+        "examUsage": "常见考点搭配：numb with cold（冻僵），go numb（发麻），numb the pain（麻醉/缓解疼痛）。真题例句：The shock left him numb and unable to speak.（震惊使他麻木，说不出话。）"
+      }
+    },
+    {
+      "id": "numerical",
+      "word": "numerical",
+      "phonetic": "/nju:'merikəl/",
+      "meaning": "a.数字的，用数字表示的，数值的",
+      "similar": [
+        "medical",
+        "superficial",
+        "hysterical"
+      ],
+      "question": {
+        "wordId": "numerical",
+        "stem": "选择 \"numerical\" 的正确中文意思：",
+        "correct": "a.数字的，用数字表示的，数值的",
+        "options": [
+          "a.医学的，医疗的，医药的；内科的",
+          "a.数字的，用数字表示的，数值的",
+          "a.表面的;肤浅的,浅薄的",
+          "a.情绪异常激动的,歇斯底里的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根 numer-（数字）+ -ical（形容词后缀）。核心动作：与数字相关。",
+        "similarWarning": "medical (医学的), superficial (表面的), hysterical (歇斯底里的)。差异：词根不同，numerical 强调数字属性，其他词根无关数字。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "numerous",
+      "word": "numerous",
+      "phonetic": "/'nju:mərəs/",
+      "meaning": "a.众多的,许多的,大批的",
+      "similar": [
+        "humorous",
+        "nervous",
+        "generous"
+      ],
+      "question": {
+        "wordId": "numerous",
+        "stem": "选择 \"numerous\" 的正确中文意思：",
+        "correct": "a.众多的,许多的,大批的",
+        "options": [
+          "a.众多的,许多的,大批的",
+          "a.富于幽默感的，幽默的；滑稽的",
+          "a.神经的;神经过敏的,紧张不安的",
+          "a.宽宏大量的,慷慨的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 numer- 意为“数，计数”，后缀 -ous 意为“充满…的”。核心逻辑：充满数字的 → 数量多的 → 众多的。",
+        "similarWarning": "humorous (幽默的)：h- + -umorous；nervous (紧张的)：n- + -ervous；generous (慷慨的)：g- + -enerous。numerous 强调数量多，与这些词在词根上无关，拼写差异在于首字母及后续字母组合。",
+        "extendedMeaning": "在考研阅读中，numerous 常与表示“种类、方面”的抽象名词连用，如 numerous aspects (诸多方面)，numerous factors (众多因素)，强调多样性和广泛性，而非单纯数量多。",
+        "examUsage": "常见搭配：numerous studies (大量研究)，numerous examples (众多例子)。真题中常作为修饰语出现，用于支持论点，如“There are numerous reasons for this phenomenon.” 无特殊干扰项考点。"
+      }
+    },
+    {
+      "id": "nurse",
+      "word": "nurse",
+      "phonetic": "/nə:s/",
+      "meaning": "n.护士,保姆 v.护理,看护",
+      "similar": [
+        "curse",
+        "purse",
+        "nursery",
+        "pursue",
+        "use",
+        "cure",
+        "fuse",
+        "lure"
+      ],
+      "question": {
+        "wordId": "nurse",
+        "stem": "选择 \"nurse\" 的正确中文意思：",
+        "correct": "n.护士,保姆 v.护理,看护",
+        "options": [
+          "n.托儿所",
+          "n.钱包",
+          "n.诅咒,咒语,祸因 vt.诅咒,咒骂,使受罪",
+          "n.护士,保姆 v.护理,看护"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语nutrire（喂养、抚育），核心物理动作为“哺乳、喂食”，引申为“照料、护理”。词根nutri-（营养）的同源词，强调提供生长所需。",
+        "similarWarning": "nurse（护士/护理）vs. curse（诅咒）：首字母n-（喂养）vs. c-（咒骂）；vs. purse（钱包）：n-（人）vs. p-（容器）；vs. nursery（托儿所）：-ery场所后缀；vs. pursue（追求）：前缀pur-（向前）加sue（跟随）",
+        "extendedMeaning": "①（情感上）怀有，抱有：nurse a hope/grievance（心怀希望/怨恨），常用于描述内心长期酝酿的情绪。②精心照料（植物/伤口）：nurse a plant back to health（使植物恢复生机）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "nursery",
+      "word": "nursery",
+      "phonetic": "/'nə:səri/",
+      "meaning": "n.托儿所",
+      "similar": [
+        "nurse",
+        "surgery"
+      ],
+      "question": {
+        "wordId": "nursery",
+        "stem": "选择 \"nursery\" 的正确中文意思：",
+        "correct": "n.托儿所",
+        "options": [
+          "n.外科,外科学;手术室,诊疗室",
+          "n.海洋",
+          "n.护士,保姆 v.护理,看护",
+          "n.托儿所"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根nurse（护理，养育）+ -ery（场所后缀），表示“进行护理养育的场所”，核心动作是“照顾幼儿”。",
+        "similarWarning": "nurse（n./v. 护士/护理）：nursery比nurse多字母-ery，指场所；surgery（n. 外科手术）：字母s-替换n-，含义完全不同。",
+        "extendedMeaning": "考研中可引申为“苗圃、培育地”（如植物或抽象事物的生长环境），例如：a nursery for young plants（苗圃）或a nursery of talent（人才摇篮）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "nurture",
+      "word": "nurture",
+      "phonetic": "/'nə:tʃə/",
+      "meaning": "n./v.养育,教育,教养 n.营养品v.给与营养物",
+      "similar": [
+        "culture",
+        "torture",
+        "furniture"
+      ],
+      "question": {
+        "wordId": "nurture",
+        "stem": "选择 \"nurture\" 的正确中文意思：",
+        "correct": "n./v.养育,教育,教养 n.营养品v.给与营养物",
+        "options": [
+          "n.家具",
+          "v.拷问,拷打;折磨,磨难 n.拷问;折磨,痛苦",
+          "n.文化,文明;修养;耕种；栽培,培育;",
+          "n./v.养育,教育,教养 n.营养品v.给与营养物"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根源于拉丁语nutrire（哺乳、滋养），与nutritious（有营养的）同源。核心物理动作为“用乳汁喂养”，引申为提供成长所需的物质与精神支持。",
+        "similarWarning": "nature（自然，本质） vs nurture（养育）: 首字母n相同，但nature源自nasci（出生），强调先天；nurture强调后天培养。culture（文化） vs nurture: culture侧重群体文明，nurture侧重个体成长。torture（折磨）: 拼写相似但词根tort（扭曲）完全不同。",
+        "extendedMeaning": "在考研阅读中，nurture常与nature对举，构成“先天vs后天”的经典议题（如nature vs nurture debate）。熟词僻义：作名词可指“环境因素/后天影响”，如“the role of nurture in intelligence”。",
+        "examUsage": "真题高频搭配：nurture one's talent（培养才能）、nurture a relationship（维系关系）。经典干扰项：将nurture误作nature（自然）理解，如2010年阅读Text 2中“nurture”与“genetic”形成对立。"
+      }
+    },
+    {
+      "id": "nut",
+      "word": "nut",
+      "phonetic": "/nʌt/",
+      "meaning": "n.坚果;螺母,螺帽",
+      "similar": [
+        "gut",
+        "hut",
+        "net",
+        "input"
+      ],
+      "question": {
+        "wordId": "nut",
+        "stem": "选择 \"nut\" 的正确中文意思：",
+        "correct": "n.坚果;螺母,螺帽",
+        "options": [
+          "n.网,网状物 v.用网捕,使落网 a.纯净的",
+          "n.小屋,棚屋",
+          "n.[pl.]胆量；内脏a.本能的vt.取出内脏",
+          "n.坚果;螺母,螺帽"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，核心物理动作/画面为“小而硬的食物”，引申为机械中起固定作用的“螺母”。",
+        "similarWarning": "nut vs. hut: nut是坚果/螺母，hut是简陋小屋；nut vs. net: nut是坚果，net是网/净利。",
+        "extendedMeaning": "（在口语中）疯子，怪人（如：He's a nut.）；核心部分，基本要素（如：the nut of the matter）。",
+        "examUsage": "常见搭配：nut and bolt（螺母和螺栓）；a hard nut to crack（难题/难对付的人）。"
+      }
+    },
+    {
+      "id": "nutrition",
+      "word": "nutrition",
+      "phonetic": "/nju:'triʃən/",
+      "meaning": "n.营养,营养学",
+      "similar": [
+        "tuition",
+        "duration",
+        "petition",
+        "intuition",
+        "instruction",
+        "automation"
+      ],
+      "question": {
+        "wordId": "nutrition",
+        "stem": "选择 \"nutrition\" 的正确中文意思：",
+        "correct": "n.营养,营养学",
+        "options": [
+          "n.营养,营养学",
+          "n.请愿书,申请书 v.(向…)请愿,正式请求",
+          "n.学费；(某一学科的)教学，讲授，指导",
+          "n.持久;期间;持续时间"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语nutrire（喂养，滋养），-ition为名词后缀。核心动作为“提供养分以促进生长”。",
+        "similarWarning": "nutrition vs. tuition（学费）: nutrition以nutri-（喂养）开头，tuition以tuit-（监护/教导）开头。nutrition vs. petition（请愿）: nutrition以nutri-开头，petition以pet-（寻求）开头。",
+        "extendedMeaning": "在考研阅读中可引申为“物质或精神上的滋养”，如“spiritual nutrition”（精神营养）。",
+        "examUsage": "常考搭配：nutrition label（营养标签），nutritional value（营养价值）。真题中常作为健康、饮食类文章的核心话题词，干扰项可能涉及diet（饮食）或nourishment（滋养）。"
+      }
+    },
+    {
+      "id": "nylon",
+      "word": "nylon",
+      "phonetic": "/'nailɔn/",
+      "meaning": "n.尼龙",
+      "similar": [
+        "noon",
+        "melon"
+      ],
+      "question": {
+        "wordId": "nylon",
+        "stem": "选择 \"nylon\" 的正确中文意思：",
+        "correct": "n.尼龙",
+        "options": [
+          "n.[数]矩形, 长方形",
+          "n.甜瓜",
+          "n.中午，正午",
+          "n.尼龙"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "无明确词根词缀，可能源自品牌名'Nylon'的创造，由'Ny'（纽约）和'lon'（伦敦）合成，或源于'no-run'（不起球）的变体。核心指一种合成纤维材料。",
+        "similarWarning": "noon（中午，n.）vs nylon：noon无'y'和'l'，拼写差异明显；melon（瓜，n.）vs nylon：melon以'm'开头，nylon以'n'开头，且melon含'e'，nylon含'y'。",
+        "extendedMeaning": "在考研中，nylon通常仅指材料，无特殊僻义。",
+        "examUsage": "基础词汇，通常以背景词出现，无特殊考点。"
+      }
+    },
+    {
+      "id": "oak",
+      "word": "oak",
+      "phonetic": "/əuk/",
+      "meaning": "n.橡树,橡木 a.橡木的",
+      "similar": [
+        "soak",
+        "oar",
+        "cloak"
+      ],
+      "question": {
+        "wordId": "oak",
+        "stem": "选择 \"oak\" 的正确中文意思：",
+        "correct": "n.橡树,橡木 a.橡木的",
+        "options": [
+          "n.橡树,橡木 a.橡木的",
+          "v.浸泡,浸湿,浸透",
+          "n.桨,橹 v.划,划动,划行",
+          "n.斗蓬，披风；掩饰，幌子vt.掩盖，掩饰"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语ac，与古诺尔斯语eik同源，本义为橡树。橡木质地坚硬，常被用于造船和家具，词根含义直接指向这种树木及其木材。",
+        "similarWarning": "soak（浸泡）: s-开头，强调浸湿动作；oar（桨）: 少一个字母k，指划船工具；cloak（斗篷）: cl-开头，指遮盖物。oak与它们拼写仅差首字母或末尾字母，但词义无关联。",
+        "extendedMeaning": "考研中极少出现僻义，偶在文学语境中喻指坚固、耐久之物。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "oar",
+      "word": "oar",
+      "phonetic": "/ɔ:ˌ əu/",
+      "meaning": "n.桨,橹 v.划,划动,划行",
+      "similar": [
+        "roar",
+        "soar",
+        "bar",
+        "ear",
+        "jar",
+        "oak",
+        "tar",
+        "polar"
+      ],
+      "question": {
+        "wordId": "oar",
+        "stem": "选择 \"oar\" 的正确中文意思：",
+        "correct": "n.桨,橹 v.划,划动,划行",
+        "options": [
+          "n.条,杆,闩;酒吧;栅,障碍(物) v.闩上,阻拦",
+          "vi.(指鸟等)高飞，翱翔；飞涨；高耸",
+          "n./v.吼叫,怒号;轰鸣,咆哮",
+          "n.桨,橹 v.划,划动,划行"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根无明确词源，拟声词，模拟划桨时水花飞溅的声音。核心动作为“用桨划水推动船前进”。",
+        "similarWarning": "roar（咆哮，r-拟声） vs oar（桨，o-圆形桨叶）；soar（翱翔，s-上升） vs oar（桨，水平动作）。",
+        "extendedMeaning": "考研中无显著僻义，常作名词表示船桨，或动词表示划船动作。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "oath",
+      "word": "oath",
+      "phonetic": "/əuθ/",
+      "meaning": "n.誓言,誓约,诅咒",
+      "similar": [
+        "bath",
+        "batch",
+        "bathe",
+        "booth",
+        "coach",
+        "faith",
+        "forth",
+        "hatch"
+      ],
+      "question": {
+        "wordId": "oath",
+        "stem": "选择 \"oath\" 的正确中文意思：",
+        "correct": "n.誓言,誓约,诅咒",
+        "options": [
+          "n.一批,一组,一群",
+          "v.游泳,洗澡,浸,弄湿",
+          "n.沐浴,洗澡;浴室(池,盆) v.(给…)洗澡",
+          "n.誓言,誓约,诅咒"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语 'āþ'，核心动作是“庄重地宣告或承诺”，引申为法律或道德约束下的誓言，以及诅咒（作为誓言的反面，即恶毒的宣告）。",
+        "similarWarning": "bath（n. 洗澡） vs oath（n. 誓言）：b-替换o-，词义从清洁动作变为口头承诺；path（n. 小路） vs oath：p-替换o-，从路径抽象为誓言；batch（n. 一批） vs oath：b-替换o-且加-c，词义从承诺变为批量；bathe（v. 沐浴） vs oath：加-e且词性不同；booth（n. 货摊） vs oath：b-替换o-且加-oth结构；catch（v. 抓住） vs oath：c-替换o-且加-tch，动作变为物理捕获；coach（n. 教练） vs oath：c-替换o-且加-ch，从誓言变为指导者；death（n. 死亡） vs oath：d-替换o-且加-th，从承诺变为终结。",
+        "extendedMeaning": "在考研外刊中可引申为“（某种严肃的）承诺或保证”，如 'under oath' 指“在法庭宣誓后”，强调法律约束力。",
+        "examUsage": "真题考点：'take an oath'（宣誓）常作为法律或正式语境的核心短语；干扰项可能混淆 'oath' 与 'curse'（诅咒），注意前者侧重庄重承诺，后者侧重恶毒咒骂。"
+      }
+    },
+    {
+      "id": "obedience",
+      "word": "obedience",
+      "phonetic": "/ə'bi:diəns/",
+      "meaning": "n.服从,顺从",
+      "similar": [
+        "obedient",
+        "audience",
+        "convenience",
+        "conscience"
+      ],
+      "question": {
+        "wordId": "obedience",
+        "stem": "选择 \"obedience\" 的正确中文意思：",
+        "correct": "n.服从,顺从",
+        "options": [
+          "n.听众，观众，读者；见面，会见",
+          "a.服从的,顺从的",
+          "n.便利,方便;(pl.)便利设备",
+          "n.服从,顺从"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根ob-（朝向）+ aud-（听）+ -ience（名词后缀）→ 朝向某人倾听其指令→ 服从、顺从。核心动作是“听命于人”，强调对权威或规则的遵守。",
+        "similarWarning": "obedient（adj.顺从的） vs audience（n.观众，听众） vs convenience（n.便利） vs conscience（n.良心） vs experience（n./v.经验，经历）。区分：obedience/obedient核心在“听命”；audience在“听（aud-）的场所”；convenience在“共同（con-）来到（ven-）的便利”；conscience在“共同（con-）知晓（sci-）的良知”；experience在“由（ex-）尝试（per-）获得经验”。",
+        "extendedMeaning": "在考研语境中，obedience可引申为“遵守（规则、法律、习俗等）”，如in obedience to（遵守…），常出现在法律或道德讨论中。",
+        "examUsage": "常见搭配：blind obedience（盲从）是真题中批判性思维话题的考点；in obedience to（遵照）常用于说明行为依据。"
+      }
+    },
+    {
+      "id": "obedient",
+      "word": "obedient",
+      "phonetic": "/əu'bi:diənt/",
+      "meaning": "a.服从的,顺从的",
+      "similar": [
+        "obedience",
+        "orient",
+        "convenient",
+        "ingredient"
+      ],
+      "question": {
+        "wordId": "obedient",
+        "stem": "选择 \"obedient\" 的正确中文意思：",
+        "correct": "a.服从的,顺从的",
+        "options": [
+          "n.东方,亚洲 v.使朝东,为…定位,使适应",
+          "a.(to)便利的,方便的",
+          "a.服从的,顺从的",
+          "n.服从,顺从"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "由拉丁语 oboedient-（听从）演变而来，ob-（朝向）+ audire（听），物理动作是“朝向某方向听”，引申为服从、顺从。",
+        "similarWarning": "obedient vs. orient（定向） vs. convenient（方便的） vs. ingredient（成分）：obedient 含 -ed-（听）；orient 含 -or-（升起）；convenient 含 -ven-（来）；ingredient 含 -gred-（步）。注意词根差异。",
+        "extendedMeaning": "在考研阅读中可指“（物）顺从的”，如 obedient to the rules（遵守规则），或比喻“（机器）受控的”。",
+        "examUsage": "常见搭配：be obedient to（服从于）；真题中曾作为干扰项，与 compliant（顺从的）同义替换。"
+      }
+    },
+    {
+      "id": "obey",
+      "word": "obey",
+      "phonetic": "/əu'bei/",
+      "meaning": "v.服从, 顺从",
+      "similar": [
+        "hobby",
+        "honey",
+        "lobby",
+        "sober"
+      ],
+      "question": {
+        "wordId": "obey",
+        "stem": "选择 \"obey\" 的正确中文意思：",
+        "correct": "v.服从, 顺从",
+        "options": [
+          "v.服从, 顺从",
+          "n.业余爱好,嗜好,兴趣",
+          "n.蜜,蜂蜜",
+          "n.门廊,门厅,(会议)休息厅"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "obey源自拉丁语obedire，由ob-（朝向）和audire（听）组成，核心动作是“朝向听”，引申为听从命令、顺从。",
+        "similarWarning": "hobby（爱好）、honey（蜂蜜）、lobby（大厅）、money（钱）、sober（清醒的）——仅拼写相似，词义无关联，obey强调服从。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "objection",
+      "word": "objection",
+      "phonetic": "/əb'dʒekʃən/",
+      "meaning": "n.(to)反对,异议,不喜欢,反对的理由",
+      "similar": [
+        "objective",
+        "collection",
+        "connection",
+        "section",
+        "affection",
+        "direction",
+        "obsession",
+        "selection"
+      ],
+      "question": {
+        "wordId": "objection",
+        "stem": "选择 \"objection\" 的正确中文意思：",
+        "correct": "n.(to)反对,异议,不喜欢,反对的理由",
+        "options": [
+          "n.(to)反对,异议,不喜欢,反对的理由",
+          "n.目标,目的 a.客观的,真实的",
+          "n.收藏(品),收集(物)",
+          "n.(connexion)联系,连接；亲戚，社会关系"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：ob-（对抗）+ ject（投掷）+ -ion（名词后缀）。核心动作：向对方投掷（反对意见），即“反对、异议”。",
+        "similarWarning": "形近词对比：\n- objection（反对）：ob-（对抗）+ ject（投掷）+ -ion，强调“对抗性投掷”。\n- objective（目标；客观的）：ob-（方向）+ ject（投掷）+ -ive，强调“投向的目标”或“客观的”。\n- collection（收集）：col-（一起）+ lect（收集）+ -ion，与objection无直接关联。\n- connection（连接）：con-（一起）+ nect（绑）+ -ion，与objection无关。\n- section（部分）：sect（切割）+ -ion，与objection无关。\n- affection（情感）：af-（向）+ fect（做）+ -ion，与objection无关。\n- direction（方向）：di-（分开）+ rect（直）+ -ion，与objection无关。\n- obsession（痴迷）：ob-（在…上）+ sess（坐）+ -ion，与objection无关。\n- selection（选择）：se-（分开）+ lect（选择）+ -ion，与objection无关。",
+        "extendedMeaning": "考研僻义：在法律或正式语境中，objection可指“反对理由”或“反对提案”，如“raise an objection”（提出反对理由）。",
+        "examUsage": "真题考点：固定搭配“objection to (doing) sth.”（反对某事），后接名词或动名词，是完形填空和翻译的高频考点。例如：They raised no objection to the plan.（他们对计划未提出反对。）"
+      }
+    },
+    {
+      "id": "objective",
+      "word": "objective",
+      "phonetic": "/əb'dʒektiv/",
+      "meaning": "n.目标,目的 a.客观的,真实的",
+      "similar": [
+        "subjective",
+        "adjective",
+        "objection",
+        "collective",
+        "detective",
+        "effective",
+        "consecutive",
+        "prospective"
+      ],
+      "question": {
+        "wordId": "objective",
+        "stem": "选择 \"objective\" 的正确中文意思：",
+        "correct": "n.目标,目的 a.客观的,真实的",
+        "options": [
+          "a.主观(上)的，个人的",
+          "n.(to)反对,异议,不喜欢,反对的理由",
+          "n.形容词 a.形容词的，用作形容词的",
+          "n.目标,目的 a.客观的,真实的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "ob-（朝向）+ ject（投掷）+ -ive（形容词/名词后缀）→ 朝向目标投掷的东西 → 引申为“目标、目的”；作为形容词表示“客观的”，即不带有主观投掷（投射）的立场。",
+        "similarWarning": "subjective（主观的）：sub-（向下/从属）+ ject → 从属投掷 → 主观的；与objective（客观的）在词根上相反，注意前缀ob-与sub-的区别。",
+        "extendedMeaning": "在考研阅读中常作形容词，表示“客观的、不带偏见的”，如objective analysis（客观分析）；名词“目标”在商务类文章中高频出现。",
+        "examUsage": "真题考点：用作名词时，常与goal, aim, target等词同义替换；形容词形式在题干中常作为定位词或干扰项，如“objective evidence”（客观证据）。"
+      }
+    },
+    {
+      "id": "obligation",
+      "word": "obligation",
+      "phonetic": "/ˌɔbli'geiʃən/",
+      "meaning": "n.义务,责任",
+      "similar": [
+        "publication",
+        "navigation",
+        "complication",
+        "application",
+        "combination",
+        "implication",
+        "indignation",
+        "observation"
+      ],
+      "question": {
+        "wordId": "obligation",
+        "stem": "选择 \"obligation\" 的正确中文意思：",
+        "correct": "n.义务,责任",
+        "options": [
+          "n.复杂,纠纷;并发症",
+          "n.航海,航空;导航,领航",
+          "n.出版物;出版,发行;公布,发表",
+          "n.义务,责任"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根lig-（绑，约束），前缀ob-（加强），后缀-ation（名词）。本义为“被绑上、受约束的状态”，即法律或道德上的义务、责任。",
+        "similarWarning": "obligation vs. application (ap-向+plic-折叠+ation，申请、应用)；obligation vs. implication (im-向内+plic-折叠+ation，含义、暗示)。obligation强调“约束”，而application和implication源于“折叠”动作，含义不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "oblige",
+      "word": "oblige",
+      "phonetic": "/ə'blaɪdʒ/",
+      "meaning": "v.强迫,迫使;责成;(使)感激,施恩于",
+      "similar": [
+        "mobilize"
+      ],
+      "question": {
+        "wordId": "oblige",
+        "stem": "选择 \"oblige\" 的正确中文意思：",
+        "correct": "v.强迫,迫使;责成;(使)感激,施恩于",
+        "options": [
+          "v.(mobilise)动员,赋予可动性",
+          "v.强迫,迫使;责成;(使)感激,施恩于",
+          "n.保存,保护,保守;守恒,不灭",
+          "vt.集合，召集；装配；收集 vi.集合，聚集"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 obligare，前缀 ob-（朝向、加强）+ ligare（绑、系）。核心物理动作是“绑住、束缚住”，引申为“强迫、迫使”某人做某事，或通过恩惠“绑住”对方使其“感激”。",
+        "similarWarning": "mobilize（v.动员，调动）：词根 mob（移动），核心是“使动起来”；oblige 词根 lig（绑），核心是“束缚”。拼写差异在首字母 o 与 m，以及 lig 与 bil。",
+        "extendedMeaning": "（使）感激：在考研阅读中常出现在感谢信中，如 be obliged to sb. for sth.（因某事感激某人），注意此义是“被动感激”，非主动施恩。",
+        "examUsage": "考点：be obliged to do sth.（被迫做某事）是真题中常见被动结构，常与 be forced to 互换；oblige sb. with sth.（帮某人忙）在完形中可能作为固定搭配出现。"
+      }
+    },
+    {
+      "id": "obscure",
+      "word": "obscure",
+      "phonetic": "/əb'skjuə(r)/",
+      "meaning": "a.暗的,朦胧的;模糊的,晦涩的",
+      "similar": [
+        "moisture"
+      ],
+      "question": {
+        "wordId": "obscure",
+        "stem": "选择 \"obscure\" 的正确中文意思：",
+        "correct": "a.暗的,朦胧的;模糊的,晦涩的",
+        "options": [
+          "a.暗的,朦胧的;模糊的,晦涩的",
+          "n.潮湿,湿气,湿度",
+          "n.大衣箱,皮箱;(汽车后部)行李箱;树干,躯干",
+          "n.洋白菜,卷心菜"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ob-（朝向）+ scure（词根scur-，意为“覆盖、黑暗”），核心物理动作是“被覆盖住而变暗”，引申为“看不清、不明朗”。词源同拉丁语obscurus（黑暗的、隐藏的），与英语sky（天空，原指“云层覆盖”）同源。",
+        "similarWarning": "moisture（n.潮湿，水分）与obscure拼写相似但词义无关：moist-（潮湿）+ -ure（名词后缀），指湿度；而obscure的-scure与“覆盖”相关，注意字母‘s’后‘c’的差异。",
+        "extendedMeaning": "在考研阅读中常考“晦涩难懂的”（of writing or speech not clearly expressed），如obscure references（隐晦的引用）；另可作动词“使模糊、掩盖”，如obscure the truth（掩盖真相）。",
+        "examUsage": "真题考点：obscure常作为态度题或细节题的关键词，如“The author’s style is deliberately obscure.”（作者风格刻意晦涩），需与ambiguous（模棱两可的）区分。固定搭配：an obscure origin（模糊的起源）。"
+      }
+    },
+    {
+      "id": "observation",
+      "word": "observation",
+      "phonetic": "/ˌɔbzə:'veiʃən/",
+      "meaning": "n.观察,观测,监视;(pl.)观察资料;观察力",
+      "similar": [
+        "conservation",
+        "reservation",
+        "obstruction",
+        "conservative",
+        "conversation",
+        "objection",
+        "obsession",
+        "salvation"
+      ],
+      "question": {
+        "wordId": "observation",
+        "stem": "选择 \"observation\" 的正确中文意思：",
+        "correct": "n.观察,观测,监视;(pl.)观察资料;观察力",
+        "options": [
+          "n.保存,保护,保守;守恒,不灭",
+          "n.观察,观测,监视;(pl.)观察资料;观察力",
+          "n.保留,保留意见;预定,预订",
+          "n.妨碍,障碍物"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "ob-（朝向）+ serv-（看护、保持）+ -ation（名词后缀） → 朝着某物看护/保持注意的行为 → 观察、观测。核心物理动作是‘专注地看护’。",
+        "similarWarning": "conservation（con-共同+serv-保持→保存）；reservation（re-回+serv-保持→预留）；observation（ob-朝向+serv-看护→观察）。差异在于前缀：ob-强调‘朝向’看，con-强调‘共同’保持，re-强调‘回’留。",
+        "extendedMeaning": "考研僻义：在学术写作或数据分析语境中，observation常指‘观测值、数据点’（如statistical observation），而非仅指‘观察行为’。",
+        "examUsage": "考点：make an observation（提出观察意见/评论），非字面‘做观察’。真题中常与remark、comment构成同义替换，且作为干扰项与conservation（保护）混淆。"
+      }
+    },
+    {
+      "id": "observe",
+      "word": "observe",
+      "phonetic": "/əb'zɜ:v/",
+      "meaning": "v.观察,观测,注意到,监视,遵守,评述,说",
+      "similar": [
+        "serve",
+        "deserve",
+        "reserve",
+        "preserve"
+      ],
+      "question": {
+        "wordId": "observe",
+        "stem": "选择 \"observe\" 的正确中文意思：",
+        "correct": "v.观察,观测,注意到,监视,遵守,评述,说",
+        "options": [
+          "n.储备(物),储备金;缄默 v.保留,储备;预定",
+          "v.应受,值得",
+          "v.服务,尽责;招待,侍候;符合,适用",
+          "v.观察,观测,注意到,监视,遵守,评述,说"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "ob-（向，加强）+ serve（服务，看守）。核心动作是‘盯着看、留意’，源自拉丁语observare‘看护、遵守’。本义‘看守、监视’，引申为‘观察、注意到’和‘遵守（规则）’，再引申为‘评述、说’（基于观察后的表达）。",
+        "similarWarning": "serve（服务，服役）vs observe（观察，遵守）：ob-前缀增加‘注视’意；deserve（应得）vs observe：de-（完全）强调‘值得’；reserve（保留，预定）vs observe：re-（反复）强调‘留用’；preserve（保存）vs observe：pre-（预先）强调‘保护’。",
+        "extendedMeaning": "【考研僻义】‘评述，说’：He observed that the plan was flawed.（他指出该计划有缺陷。）此义在阅读中常引导直接或间接引语，需注意识别。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "obsession",
+      "word": "obsession",
+      "phonetic": "/əb'seʃən/",
+      "meaning": "n.迷住, 困扰",
+      "similar": [
+        "possession",
+        "session",
+        "concession",
+        "objection",
+        "observation",
+        "commission",
+        "compassion",
+        "conversion"
+      ],
+      "question": {
+        "wordId": "obsession",
+        "stem": "选择 \"obsession\" 的正确中文意思：",
+        "correct": "n.迷住, 困扰",
+        "options": [
+          "n.持有,拥有;所有权;所有物;(pl.)财产,财富",
+          "n.让步，妥协；特许(权)；",
+          "n.(一届)会议,一段时间",
+          "n.迷住, 困扰"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "ob-(反对/朝向) + sess(坐) + -ion(名词后缀)。核心动作：某物强行'坐在'你的脑海里不走，导致你无法摆脱，即'着迷'或'困扰'。词根sess源自拉丁语sedere（坐），与sit同源。",
+        "similarWarning": "possession（占有）: p-ossess-ion，强调'拥有'；obsession: ob-sess-ion，强调'被占据'。对比：ob-(对着) vs pos-(放置)。",
+        "extendedMeaning": "考研中常指'执念、无法摆脱的想法或情感'，如：an obsession with perfection（对完美的执念）。",
+        "examUsage": "真题考点：be obsessed with（沉迷于）常作为题干或选项核心短语，如：He is obsessed with online games.（他沉迷网游。）注意与be possessed by（被…附身/支配）区分。"
+      }
+    },
+    {
+      "id": "obsolete",
+      "word": "obsolete",
+      "phonetic": "/'ɔbsəli:t/",
+      "meaning": "a.已废弃的,过时的",
+      "similar": [
+        "absolute",
+        "isolate",
+        "desolate",
+        "resolute"
+      ],
+      "question": {
+        "wordId": "obsolete",
+        "stem": "选择 \"obsolete\" 的正确中文意思：",
+        "correct": "a.已废弃的,过时的",
+        "options": [
+          "a.已废弃的,过时的",
+          "a.绝对的，完全的；确实的，肯定的",
+          "vt.隔离,孤立",
+          "a.荒凉的;孤独的 v.使荒芜"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ob-（离开） + solēre（习惯） → 不再习惯 → 废弃的。核心动作：某物因不再被使用或习惯而变得过时。",
+        "similarWarning": "absolute（a.绝对的）：ab-（加强）+ solve（解开）→ 完全解开 → 绝对的；obsolete：ob-（离开）+ sol-（习惯）→ 脱离习惯 → 过时的。字母差异：ob- vs ab-，-solete vs -solute。",
+        "extendedMeaning": "【考研僻义】n. 过时的人或物（如：treat sb as an obsolete 视某人为老古董）；v. 使废弃（rare，但真题中偶见被动形式，如 be obsoleted by new technology）。",
+        "examUsage": "【真题考点】常见搭配：become/grow obsolete（变得过时）；同义替换：outdated, antiquated；干扰项常与 absolute 混淆，注意逻辑：obsolete 强调“不再使用”，absolute 强调“完全、绝对”。"
+      }
+    },
+    {
+      "id": "obstacle",
+      "word": "obstacle",
+      "phonetic": "/'ɒbstəkl/",
+      "meaning": "n.障碍(物),妨碍,阻碍,干扰",
+      "similar": [
+        "stable",
+        "staple"
+      ],
+      "question": {
+        "wordId": "obstacle",
+        "stem": "选择 \"obstacle\" 的正确中文意思：",
+        "correct": "n.障碍(物),妨碍,阻碍,干扰",
+        "options": [
+          "n.障碍(物),妨碍,阻碍,干扰",
+          "a.稳定的,安定的 n.马厩,马棚",
+          "n.主要产品；名产；纤维；主要成分，主食",
+          "v.征服,战胜,占领;克服,破除(坏习惯等)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根ob-（对面、相反）+st-（站立）+acle（名词后缀，表示物）。核心动作：某物站在你对面，阻挡前进。本义是物理上的障碍物，引申为抽象阻碍。",
+        "similarWarning": "stable（稳定的，马厩） vs obstacle: stable中的st-表“站立”，-able表“能…的”，即“能站住的”；obstacle则强调“站在对面阻挡”。staple（主要产品，订书钉） vs obstacle: staple源自stap-（固定），obstacle则强调“阻挡”。",
+        "extendedMeaning": "考研中obstacle常引申为抽象阻碍，如“障碍物、绊脚石”，搭配动词overcome、remove、present。",
+        "examUsage": "真题考点：常与介词to连用，如obstacle to progress（进步的障碍）。干扰项常与barrier、block等近义词辨析，注意obstacle强调具体或抽象的阻挡物，而barrier更侧重隔离。"
+      }
+    },
+    {
+      "id": "obstruct",
+      "word": "obstruct",
+      "phonetic": "/əb'strʌkt/",
+      "meaning": "v.阻隔,阻塞(道路、通道等)n.阻碍物,障碍物",
+      "similar": [
+        "construct",
+        "abstract",
+        "instruct",
+        "strict",
+        "distract",
+        "district",
+        "restrict"
+      ],
+      "question": {
+        "wordId": "obstruct",
+        "stem": "选择 \"obstruct\" 的正确中文意思：",
+        "correct": "v.阻隔,阻塞(道路、通道等)n.阻碍物,障碍物",
+        "options": [
+          "v.建设,建造,构造;创立",
+          "a.抽象的 n.摘要，梗概 vt.提取；摘录要点",
+          "v.教,教授;命令,指示",
+          "v.阻隔,阻塞(道路、通道等)n.阻碍物,障碍物"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "ob- (朝向/反对) + struct (建造/堆积) → 在对面堆积起来 → 阻塞、阻碍。核心物理动作：堆砌障碍物挡住去路。",
+        "similarWarning": "construct (con-一起 + struct → 共同建造) vs obstruct (ob-反对 + struct → 反向建造)。abstract (abs-离开 + tract-拉拽 → 抽象) vs obstruct。strict (严格) vs obstruct (阻塞)。distract (dis-分开 + tract-拉 → 分心) vs obstruct。district (地区) vs obstruct。restrict (re-回 + strict-拉紧 → 限制) vs obstruct。",
+        "extendedMeaning": "考研中常引申为抽象意义的“妨碍、阻碍（进程、发展、视线等）”，如 obstruct justice (妨碍司法)、obstruct the view (遮挡视线)。",
+        "examUsage": "真题考点：obstruct 常作为及物动词，后接抽象名词如 progress/effort/investigation，强调主动阻挠。搭配：obstruct ... from doing (阻碍...做某事)。例句：The lack of funding obstructed the research from proceeding smoothly."
+      }
+    },
+    {
+      "id": "obstruction",
+      "word": "obstruction",
+      "phonetic": "/əb'strʌkʃən/",
+      "meaning": "n.妨碍,障碍物",
+      "similar": [
+        "construction",
+        "destruction",
+        "instruction",
+        "observation",
+        "objection",
+        "destructive",
+        "distinction"
+      ],
+      "question": {
+        "wordId": "obstruction",
+        "stem": "选择 \"obstruction\" 的正确中文意思：",
+        "correct": "n.妨碍,障碍物",
+        "options": [
+          "n.妨碍,障碍物",
+          "n.教授;指导;(pl.)用法说明(书),操作指南",
+          "n.建造，构造；建筑物，结构；释义，解释",
+          "n.毁坏，毁灭(的原因)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ob-（反/朝向）+ struct（建造）+ -ion（名词后缀）→ 在建造过程中反向堆砌 → 阻碍、障碍物。核心动作：构建物被反向堵塞。",
+        "similarWarning": "construction（con-强调+struct建造→建造物）、destruction（de-向下+struct→摧毁）、instruction（in-向内+struct→指导）",
+        "extendedMeaning": "在考研中常引申为“阻碍进程/发展的无形因素”，如“obstruction to progress”（对进步的阻碍），或法律语境中的“妨碍公务”（obstruction of justice）。",
+        "examUsage": "真题常考搭配：obstruction to sth.（对…的阻碍）；同义替换：hindrance, impediment, barrier。干扰项常设为“objection”（反对）或“observation”（观察），需注意拼写差异。"
+      }
+    },
+    {
+      "id": "obtain",
+      "word": "obtain",
+      "phonetic": "/əb'tein/",
+      "meaning": "v.获得,得到",
+      "similar": [
+        "contain",
+        "brain",
+        "stain",
+        "attain",
+        "detain",
+        "retain",
+        "fountain"
+      ],
+      "question": {
+        "wordId": "obtain",
+        "stem": "选择 \"obtain\" 的正确中文意思：",
+        "correct": "v.获得,得到",
+        "options": [
+          "v.获得,得到",
+          "v.包含，容纳；容忍，抑制；可被...除尽",
+          "n.(大)脑,骨髓;(pl.)脑力,智能",
+          "n.污点,瑕疵 v.沾污;染色"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ob-（加强/朝向） + tain（词根“拿住”，来自拉丁语tenere）→ 用力去拿住 → 获得、得到。核心动作：通过努力将某物握在手中。",
+        "similarWarning": "contain（con-共同 + tain = 共同拿住 → 包含）；attain（at-朝向 + tain = 努力拿到 → 达到、获得，强调达成目标）；detain（de-向下/离开 + tain = 拿走 → 扣留、耽搁）；retain（re-回 + tain = 拿回 → 保留、保持）。obtain侧重“通过努力或请求得到”，attain侧重“达到（目标/水平）”，retain侧重“保留已有”。",
+        "extendedMeaning": "在考研阅读中，obtain常引申为“获取（信息/数据/证据）”，如obtain evidence（获取证据），obtain approval（获得批准）。",
+        "examUsage": "真题考点：obtain常与from搭配，如obtain...from...（从……中获得……）。例：The data were obtained from a survey.（数据来自一项调查。）注意与attain的区别：obtain常接具体事物，attain常接抽象目标（如attain success）。"
+      }
+    },
+    {
+      "id": "obvious",
+      "word": "obvious",
+      "phonetic": "/'ɔbviəs/",
+      "meaning": "a.明显的,显而易见的",
+      "similar": [
+        "previous"
+      ],
+      "question": {
+        "wordId": "obvious",
+        "stem": "选择 \"obvious\" 的正确中文意思：",
+        "correct": "a.明显的,显而易见的",
+        "options": [
+          "n.安装,设置;装置,设备",
+          "n.(pl.)杰作,名著 a.第一流的,不朽的",
+          "a.先前的,以前的",
+          "a.明显的,显而易见的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语ob viam（在路上），ob-（朝向）+ via（路），原指“在路上”即“在眼前”，引申为“显而易见的”。",
+        "similarWarning": "previous: pre-（前）+ via（路）→ 先前的；obvious: ob-（朝向）→ 明显的。差异在词缀ob-/pre-。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "occasional",
+      "word": "occasional",
+      "phonetic": "/ə'keiʒənəl/",
+      "meaning": "a.偶然的,非经常的,特殊场合的;临时的",
+      "similar": [
+        "operational",
+        "national",
+        "optional",
+        "rational"
+      ],
+      "question": {
+        "wordId": "occasional",
+        "stem": "选择 \"occasional\" 的正确中文意思：",
+        "correct": "a.偶然的,非经常的,特殊场合的;临时的",
+        "options": [
+          "a.可以任选的,随意的,非强制的",
+          "a.偶然的,非经常的,特殊场合的;临时的",
+          "a.操作的,运转的,起作用的,经营的",
+          "a.民族的,国家的,国立的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自occasion（场合）+ -al（形容词后缀）。核心动作是‘落在（oc-）某个时机（cas-）上’，即特定场合下发生的，非连续或计划内的，引申为偶然的、临时的。",
+        "similarWarning": "occasion（n. 场合，时机）与occasional（a. 偶然的）是词根关系；operational（a. 操作的，运营的）与occasional拼写差异在‘pera’ vs ‘casi’；national（a. 国家的）与occasional无直接关联；optional（a. 可选的）与occasional拼写相近但词义完全不同，optional强调选择权，occasional强调频率；rational（a. 理性的）与occasional首字母不同。",
+        "extendedMeaning": "在考研外刊中可作‘偶尔的、非主要的’解，如‘occasional use’（偶尔使用）；还常出现在‘occasional table’（茶几/边桌）中，指为特定场合临时放置的家具。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "occupation",
+      "word": "occupation",
+      "phonetic": "/ˌɔkju'peiʃən/",
+      "meaning": "n.占领,占据;占用;职业,工作",
+      "similar": [
+        "duration",
+        "equation",
+        "location",
+        "vacation",
+        "vocation",
+        "companion",
+        "dictation",
+        "education"
+      ],
+      "question": {
+        "wordId": "occupation",
+        "stem": "选择 \"occupation\" 的正确中文意思：",
+        "correct": "n.占领,占据;占用;职业,工作",
+        "options": [
+          "n.(数学)等式,方程式;(with)相等;均衡",
+          "n.持久;期间;持续时间",
+          "n.位置,场所,定位,测位",
+          "n.占领,占据;占用;职业,工作"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语occupare（占据），由ob-（朝向）+capere（拿取）构成，字面意为“拿过来”，核心动作为“夺取并占有”。后缀-ation表行为或结果，故本义为“占据的行为”或“被占据的状态”。引申为“占用时间/空间”，再引申为“职业”（即占据一个人时间的主要活动）。",
+        "similarWarning": "occasion（场合）：occu- vs occa-，前者强调“占据”动作，后者源自cadere（落下），指“事件落下的时机”。vocation（天职）：voca-（呼唤），强调“被召唤的职业”，而occupation强调“占据时间的职业”。",
+        "extendedMeaning": "在考研外刊中，occupation常表“（军事）占领期”或“（土地的）占用法”，如military occupation（军事占领）；也可表“消遣、日常活动”，如leisure occupations（休闲活动），不限于工作。",
+        "examUsage": "真题中常考搭配：by occupation（以……为职业），如He is a teacher by occupation. 注意与vocation辨析：occupation更中性，指具体工作；vocation带使命感。"
+      }
+    },
+    {
+      "id": "occupy",
+      "word": "occupy",
+      "phonetic": "/'ɔkjupai/",
+      "meaning": "v.占,占用;占据,占领;使忙碌,使从事",
+      "similar": [
+        "occur"
+      ],
+      "question": {
+        "wordId": "occupy",
+        "stem": "选择 \"occupy\" 的正确中文意思：",
+        "correct": "v.占,占用;占据,占领;使忙碌,使从事",
+        "options": [
+          "v.(使)分散;(使)散开;疏散",
+          "v.发生,出现;存在;想起,想到",
+          "v.占,占用;占据,占领;使忙碌,使从事",
+          "n.陈规，模式化 vt.使定型，使模式化"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根 oc-（=ob-，朝向）+ cupy（=capere，抓住）。核心动作：伸手去抓并控制某物。→ 占据、占用空间或时间；引申为占据注意力（使忙碌）。",
+        "similarWarning": "occur（发生/出现）：occupy 含 -upy（抓），occur 含 -cur（跑）。拼写差异在 'upy' vs 'cur'。词义差异：occupy 强调主动控制；occur 强调被动发生。",
+        "extendedMeaning": "1. 使忙于（occupy oneself with）：真题中常以分词形式 occupied 出现，表示‘忙于…’。2. 占据（思想/注意力）：如 occupy one's mind，表示‘萦绕心头’。",
+        "examUsage": "核心短语：be occupied with/in doing sth.（忙于做某事）。真题考点：常以被动语态出现，如‘The seats were occupied.’，干扰项可能用‘occur’混淆。"
+      }
+    },
+    {
+      "id": "occur",
+      "word": "occur",
+      "phonetic": "/ə'kə:/",
+      "meaning": "v.发生,出现;存在;想起,想到",
+      "similar": [
+        "occupy",
+        "soccer",
+        "incur",
+        "recur"
+      ],
+      "question": {
+        "wordId": "occur",
+        "stem": "选择 \"occur\" 的正确中文意思：",
+        "correct": "v.发生,出现;存在;想起,想到",
+        "options": [
+          "n.足球",
+          "v.招致,惹起,遭受",
+          "v.占,占用;占据,占领;使忙碌,使从事",
+          "v.发生,出现;存在;想起,想到"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "occur源自拉丁语occurrere，由ob-（朝向）+ currere（跑）构成，核心物理动作为“跑向”。词义演变：跑向某处→出现→发生。强调事件或现象“跑到面前”的突然性或自然性。",
+        "similarWarning": "形近词辨析：\n- occur（发生）：核心字母是c和cur（跑）。\n- occupy（占据）：核心字母是cup（拿），注意cup与cur的区别。\n- incur（招致）：前缀in-（进入） + cur（跑），强调“跑进”即引发。\n- recur（重现）：前缀re-（再次） + cur（跑），强调“再次跑回”。",
+        "extendedMeaning": "考研僻义：\n1. 存在（尤指自然存在）：如occur in nature（自然界中存在）。\n2. 想到（sth occurs to sb）：指想法突然浮现，如It occurs to me that...（我突然想到……）。",
+        "examUsage": "真题考点：\n1. 固定搭配：occur to sb（某人想到），常作为观点引出题眼。\n2. 辨析：happen强调偶然性，occur可用于具体或抽象事件，take place侧重计划性。\n3. 例句：It never occurred to me that he might be lying.（我从未想到他可能在说谎。）"
+      }
+    },
+    {
+      "id": "occurrence",
+      "word": "occurrence",
+      "phonetic": "/ə'kə:rəns/",
+      "meaning": "n.发生,出现;事件,事故,发生的事情",
+      "similar": [
+        "currency",
+        "accordance"
+      ],
+      "question": {
+        "wordId": "occurrence",
+        "stem": "选择 \"occurrence\" 的正确中文意思：",
+        "correct": "n.发生,出现;事件,事故,发生的事情",
+        "options": [
+          "n.流传,流通；通货,货币",
+          "n.一致，和谐，符合",
+          "ad.外观上，表面上",
+          "n.发生,出现;事件,事故,发生的事情"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根cur-（跑，流）派生，oc-（朝向） + cur（跑） + -rence（名词后缀）→ 事件朝你跑来→发生、出现。核心物理动作是“跑来”，强调事件的发生过程。",
+        "similarWarning": "currency（货币，流通）与accordance（一致，按照）：occurrence强调事件发生，currency侧重流通状态，accordance强调协调一致。",
+        "extendedMeaning": "在考研阅读中常指“事件的发生频率或概率”，如“the occurrence of natural disasters”（自然灾害的发生）。",
+        "examUsage": "真题常考搭配“reduce the occurrence of”（减少…的发生）或“rare occurrence”（罕见事件），作为干扰项时易与“currency”混淆，注意拼写差异。"
+      }
+    }
+  ]
+}

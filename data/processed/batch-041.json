@@ -1,0 +1,1695 @@
+{
+  "batchId": 41,
+  "words": [
+    {
+      "id": "imply",
+      "word": "imply",
+      "phonetic": "/im'plai/",
+      "meaning": "v.意指,含…意思,暗示",
+      "similar": [
+        "comply",
+        "employ",
+        "timely",
+        "ample",
+        "apply",
+        "reply"
+      ],
+      "question": {
+        "wordId": "imply",
+        "stem": "选择 \"imply\" 的正确中文意思：",
+        "correct": "v.意指,含…意思,暗示",
+        "options": [
+          "a.及时的,适时的",
+          "n./v.雇用;用,使用",
+          "v.(with)遵照，照做，应允；顺从，服从",
+          "v.意指,含…意思,暗示"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "im-（向内）+ ply（折叠）→ 折叠在内 → 没有明说，但意思包含其中 → 暗示，意指",
+        "similarWarning": "simply (adv.简单地) vs imply: s+imply 强调简单；imply 强调内部折叠暗示。comply (v.遵守) vs imply: com-（共同）+ ply（折叠）→ 一起折叠 → 顺从；imply 是向内折叠。apply (v.申请；应用) vs imply: ap-（向）+ ply（折叠）→ 向某处折叠 → 应用；imply 是内藏含义。",
+        "extendedMeaning": "在考研阅读中，imply 常出现在推理题题干，要求从原文中推断出隐含意思，而非直接陈述。",
+        "examUsage": "题干标志词：The author implies that... / What does the passage imply about... 干扰项常为原文直接复述（事实性错误），正确选项需经过逻辑推导。"
+      }
+    },
+    {
+      "id": "import",
+      "word": "import",
+      "phonetic": "/im'pɔ:t/",
+      "meaning": "v./n.进口,输入,(pl.)进口商品;要旨,含意",
+      "similar": [
+        "impart",
+        "airport",
+        "port",
+        "export",
+        "impact",
+        "impose"
+      ],
+      "question": {
+        "wordId": "import",
+        "stem": "选择 \"import\" 的正确中文意思：",
+        "correct": "v./n.进口,输入,(pl.)进口商品;要旨,含意",
+        "options": [
+          "vt.传授，给予；告知，通知",
+          "v./n.进口,输入,(pl.)进口商品;要旨,含意",
+          "n.机场，航空站，航空港",
+          "n.港口"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "im-（向内）+ port（港口、搬运）→ 从港口向内搬运 → 进口、输入。引申为“要旨、含意”，即把思想或信息“带入”理解范畴。",
+        "similarWarning": "impart（im-向内 + part部分 → 给予、传授）；export（ex-向外 + port → 出口）；port（港口）；airport（航空港口）；sport（dis-离开 + port搬运 → 娱乐）；impact（im-向内 + pact撞击 → 冲击）；impose（im-上面 + pose放置 → 强加）；report（re-回 + port带 → 报告）。",
+        "extendedMeaning": "n. 要旨，含意（如：the import of his speech 他演讲的要旨）",
+        "examUsage": "真题考点：import常与export对比出现，注意区分。固定搭配：import from（从……进口）；import duty（进口关税）；of great import（意义重大的）。"
+      }
+    },
+    {
+      "id": "importance",
+      "word": "importance",
+      "phonetic": "/im'pɔ:təns/",
+      "meaning": "n.重要,重要性",
+      "similar": [
+        "important",
+        "ignorance",
+        "instance",
+        "portable",
+        "insurance",
+        "accordance"
+      ],
+      "question": {
+        "wordId": "importance",
+        "stem": "选择 \"importance\" 的正确中文意思：",
+        "correct": "n.重要,重要性",
+        "options": [
+          "n.无知,愚昧;不知道",
+          "n.例子,事例,例证",
+          "a.重要的,重大的;有地位的,有权力的",
+          "n.重要,重要性"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'importare'（im-‘进入’+ portare‘携带’），本义为‘带入、带来’。引申为‘承载的意义或分量’，即‘重要性’。",
+        "similarWarning": "importance vs. ignorance：ignorance（无知）源自ignorare（不知道），核心差异在于词根port（携带）与gnor（知道）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "important",
+      "word": "important",
+      "phonetic": "/im'pɔ:tənt/",
+      "meaning": "a.重要的,重大的;有地位的,有权力的",
+      "similar": [
+        "importance",
+        "ignorant"
+      ],
+      "question": {
+        "wordId": "important",
+        "stem": "选择 \"important\" 的正确中文意思：",
+        "correct": "a.重要的,重大的;有地位的,有权力的",
+        "options": [
+          "v.描写，描述；画(人物、景象等)",
+          "a.重要的,重大的;有地位的,有权力的",
+          "n.重要,重要性",
+          "a.无知的,愚昧的;不知道的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "import（进入）+ ant（形容词后缀）→ 从外部带入的、有分量的。核心动作：某事物因被带入而具有影响或价值，即重要的。",
+        "similarWarning": "importance（n.重要性）与 ignorant（a.无知的）差异：重要 vs 无知。拼写上 importance 含 'port'（携带），ignorant 含 'gnor'（知道）。",
+        "extendedMeaning": "在考研语境中常引申为“有地位的、有权力的”，如 important figure（要人）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "impose",
+      "word": "impose",
+      "phonetic": "/im'pəuz/",
+      "meaning": "v.征(税);(on)把…强加给",
+      "similar": [
+        "compose",
+        "dispose",
+        "improve",
+        "impulse",
+        "pose",
+        "expose",
+        "import",
+        "oppose"
+      ],
+      "question": {
+        "wordId": "impose",
+        "stem": "选择 \"impose\" 的正确中文意思：",
+        "correct": "v.征(税);(on)把…强加给",
+        "options": [
+          "v.(of)处理,处置;(for)布置,安排",
+          "v.组成,构成;(of)由…组成;创作(诗歌等)",
+          "v.改善,改进,增进;好转,进步",
+          "v.征(税);(on)把…强加给"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "im-（向内/进入）+ pose（放置、摆放）→ 强行放入或施加于某人或某物之上。核心动作是“置入并强加”，由此引申出“征税（把负担强加给民众）”和“把观点/规则强加于人”。",
+        "similarWarning": "compose（com-共同+pose→组成）vs. impose（im-向内+pose→强加）；dispose（dis-分开+pose→处理、布置）vs. impose；expose（ex-向外+pose→暴露）；oppose（op-相反+pose→反对）；impulse（im-向内+pulse→脉冲、冲动）与impose拼写仅差一个字母，但词根不同。",
+        "extendedMeaning": "（在考研阅读中）impose常指“强制推行（法律、规则）”或“施加（限制、条件）”，如impose sanctions（实施制裁）、impose restrictions（施加限制）；此外，impose on/upon还可表示“利用、占便宜”，如impose on one's kindness（利用某人的好意）。",
+        "examUsage": "真题常考搭配：impose sth on/upon sb/sth（把…强加于…）。典型干扰项：易与expose（暴露）、oppose（反对）混淆，需注意im-表“向内”与ex-表“向外”的区别。"
+      }
+    },
+    {
+      "id": "impress",
+      "word": "impress",
+      "phonetic": "/im'pres/",
+      "meaning": "v.(on)印,盖印;留下印象,引人注目",
+      "similar": [
+        "compress",
+        "press",
+        "depress",
+        "express",
+        "oppress",
+        "distress",
+        "mistress",
+        "suppress"
+      ],
+      "question": {
+        "wordId": "impress",
+        "stem": "选择 \"impress\" 的正确中文意思：",
+        "correct": "v.(on)印,盖印;留下印象,引人注目",
+        "options": [
+          "v.压抑,降低;使沮丧,压下",
+          "v.(on)印,盖印;留下印象,引人注目",
+          "v.压;压榨;紧迫,催促 n.报刊,通讯社;压榨机",
+          "vt.压紧，压缩；(把思想、文字等)浓缩"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "im-（向内）+ press（压）→ 向内压，使印记刻入表面。核心物理动作：通过压力在物体表面留下痕迹，引申为对心理或感官施加影响，留下深刻印象。",
+        "similarWarning": "compress（com-共同+press压→压缩）；depress（de-向下+press压→使沮丧，压低）；express（ex-向外+press压→挤出，表达）；oppress（op-对着+press压→压迫）；suppress（sup-向下+press压→压制，抑制）。impress强调“向内压”以留下印记，与以上词前缀不同导致词义本质差异。",
+        "extendedMeaning": "在考研阅读中可表“使…铭记（于心中）”，如impress sth. on/upon sb.（使某人牢记某事）；或作名词（非大纲常见）表“印记，特征”，如leave an impress on...（在…上留下印记）。",
+        "examUsage": "考点搭配：impress sb. with sth.（以某事给某人留下印象）；be impressed by/with（对…印象深刻）。真题中常与affect, influence, strike等词作为同义替换出现，注意其被动语态及介词搭配。"
+      }
+    },
+    {
+      "id": "impression",
+      "word": "impression",
+      "phonetic": "/ɪm'preʃn/",
+      "meaning": "n.印象,感想;盖印,压痕",
+      "similar": [
+        "impressive",
+        "repression",
+        "dimension",
+        "obsession",
+        "precision",
+        "compassion",
+        "concession",
+        "possession"
+      ],
+      "question": {
+        "wordId": "impression",
+        "stem": "选择 \"impression\" 的正确中文意思：",
+        "correct": "n.印象,感想;盖印,压痕",
+        "options": [
+          "a.给人深刻印象的,感人的",
+          "n.压抑，压制，镇压",
+          "n.印象,感想;盖印,压痕",
+          "n.尺寸,尺度;维(数),度(数)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "im-（向内）+ press（压）+ -ion（名词后缀）→ 向内压入所留下的痕迹 → 引申为心理上的印记，即印象；也指物理上的压痕。",
+        "similarWarning": "impression vs. expression: im-向内 vs. ex-向外，前者为压入（印象），后者为挤出（表达）；impression vs. repression: re-回，repression为压回（压抑）；impression vs. obsession: ob-对面，obsession为压住心神（迷恋）。",
+        "extendedMeaning": "考研中常考抽象含义：1.（对事物）不确切的观念、模糊感觉，如‘I had the impression that he was lying.’；2. 印刷次数/版次，如‘the first impression of a book’（首印）。",
+        "examUsage": "真题考点：1. ‘under the impression that...’（以为……，通常与事实相反，为阅读理解中作者态度题的关键信号）；2. 与‘make/leave an impression on sb.’（给某人留下印象）搭配，常作为干扰项出现。"
+      }
+    },
+    {
+      "id": "impressive",
+      "word": "impressive",
+      "phonetic": "/im'presiv/",
+      "meaning": "a.给人深刻印象的,感人的",
+      "similar": [
+        "impression",
+        "aggressive",
+        "progressive",
+        "preserve",
+        "pressure",
+        "prestige",
+        "excessive",
+        "expensive"
+      ],
+      "question": {
+        "wordId": "impressive",
+        "stem": "选择 \"impressive\" 的正确中文意思：",
+        "correct": "a.给人深刻印象的,感人的",
+        "options": [
+          "a.给人深刻印象的,感人的",
+          "a.进步的,先进的;前进的",
+          "a.好斗的，有进取心的，敢作敢为的",
+          "n.印象,感想;盖印,压痕"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根词缀：im-（进入）+ press（压）+ -ive（形容词后缀）。核心物理动作：将某物压入（脑海/感官）内部。词义本源：从“压入”引申为“在头脑中留下深刻印记”，即“给人深刻印象的”。",
+        "similarWarning": "impressive（印象深刻的） vs. aggressive（侵略的，ag-向+gress走+ive） vs. progressive（进步的，pro-向前+gress走+ive） vs. excessive（过度的，ex-出+cess走+ive）。核心差异：-press-（压）与-gress-（走）、-cess-（走）词根不同，拼写中“press” vs “gress/cess”是区分关键。",
+        "extendedMeaning": "在考研阅读中，impressive 可引申为“令人瞩目的、显著的”，用于描述数据、成就或变化，如“impressive growth”（显著增长），强调数量或质量上的突出，而非单纯的情感“感人”。",
+        "examUsage": "真题考点：常与表示程度或范围的副词搭配，如“highly impressive”（极其令人印象深刻）、“most impressive”（最显著的）。在阅读中作为评价性词汇，需注意其修饰对象（如研究结果、技术突破）的上下文褒义色彩。"
+      }
+    },
+    {
+      "id": "improve",
+      "word": "improve",
+      "phonetic": "/im'pru:v/",
+      "meaning": "v.改善,改进,增进;好转,进步",
+      "similar": [
+        "prove",
+        "impose",
+        "approve"
+      ],
+      "question": {
+        "wordId": "improve",
+        "stem": "选择 \"improve\" 的正确中文意思：",
+        "correct": "v.改善,改进,增进;好转,进步",
+        "options": [
+          "v.(of)赞成，同意；批准，审议，通过",
+          "v.征(税);(on)把…强加给",
+          "v.证明,证实;检验;考验;鉴定;结果是,表明是",
+          "v.改善,改进,增进;好转,进步"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语improvare（in-“进入”+provare“证明”），核心动作是“通过实践证明而变得更好”，强调从原有状态向更优状态的转变。",
+        "similarWarning": "prove（证明）：pro-“向前”+ve-“看”，强调检验；improve在prove前加im-，突出“进入证明状态”即改善。impose（强加）：im-“进入”+pose“放置”，与improve无关。approve（批准）：ap-“向”+prove，强调认可。",
+        "extendedMeaning": "在考研英语中，improve常引申为“提升（能力/水平）”“完善（体系/方法）”，如improve efficiency（提升效率），且可用于抽象概念，如improve relations（改善关系）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "improvement",
+      "word": "improvement",
+      "phonetic": "/ɪm'pru:vmənt/",
+      "meaning": "n.改进,进步,增进;改进措施",
+      "similar": [
+        "implement",
+        "employment"
+      ],
+      "question": {
+        "wordId": "improvement",
+        "stem": "选择 \"improvement\" 的正确中文意思：",
+        "correct": "n.改进,进步,增进;改进措施",
+        "options": [
+          "n.雇用;使用;工作,职业",
+          "n.(正式文件或法律文件的)条款;从句,分句",
+          "n.(pl.)工具,器具 v.贯彻,实现",
+          "n.改进,进步,增进;改进措施"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "improvement = im-(=en-, 使进入) + prove (来自拉丁语probare, 意为‘测试、证明’，词根probe) + -ment (名词后缀)。核心物理动作：将某物置于测试中使其变得更好，即‘改进、进步’。",
+        "similarWarning": "形近词辨析：implement (v. 实施，执行；n. 工具) vs. improvement (n. 改进)。差异：implement 词根为ple- (填满)，强调‘填充执行’；improvement 词根为prove，强调‘证明后变好’。employment (n. 就业) 词根为ploy (折叠)，强调‘卷入工作’。",
+        "extendedMeaning": "在考研外刊中，improvement 可引申为‘（健康状况、经济形势的）好转’或‘（土地、房产的）增值改良措施’。例：economic improvement (经济好转)；home improvements (房屋修缮增值)。",
+        "examUsage": "真题考点：常与介词 in 连用，如 improvement in sth. (在某方面的进步)；注意与 increase 的区别：improvement 强调质的提升，increase 强调量的增加。干扰项常设置成 increase，需根据语境判断。"
+      }
+    },
+    {
+      "id": "impulse",
+      "word": "impulse",
+      "phonetic": "/'impʌls/",
+      "meaning": "v.推动 n.推动;冲动,刺激",
+      "similar": [
+        "pulse",
+        "impose"
+      ],
+      "question": {
+        "wordId": "impulse",
+        "stem": "选择 \"impulse\" 的正确中文意思：",
+        "correct": "v.推动 n.推动;冲动,刺激",
+        "options": [
+          "v.推动 n.推动;冲动,刺激",
+          "n.脉搏,脉冲",
+          "v.征(税);(on)把…强加给",
+          "n.热心，热忱，热情"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "im-（向内）+ pulse（脉冲、跳动）→ 内部跳动的力量 → 推动、冲动。核心物理动作：一个内部产生的、突然的推动力或脉冲信号。",
+        "similarWarning": "pulse（脉冲、脉搏）：仅指有规律的跳动或信号，无“推动”或“冲动”含义；impose（强加）：im-（向内）+ pose（放置）→ 强行放置，拼写和词根不同，含义差异大。",
+        "extendedMeaning": "考研中常考“冲动、一时的念头”而非物理推动，例如“on impulse”（一时冲动）、“impulse buying”（冲动消费）等。",
+        "examUsage": "真题中常以“on (an) impulse”作为固定搭配出现，表示“凭一时冲动”，例如：\"He bought the car on impulse.\" 也可作为核心题眼，与“urge”同义替换。"
+      }
+    },
+    {
+      "id": "incentive",
+      "word": "incentive",
+      "phonetic": "/in'sentiv/",
+      "meaning": "n.刺激;动力;鼓励;诱因;动机",
+      "similar": [
+        "intensive",
+        "inclusive",
+        "intention",
+        "invention",
+        "imperative",
+        "indicative",
+        "initiative"
+      ],
+      "question": {
+        "wordId": "incentive",
+        "stem": "选择 \"incentive\" 的正确中文意思：",
+        "correct": "n.刺激;动力;鼓励;诱因;动机",
+        "options": [
+          "a.(of)包括的,包含的;范围广的",
+          "a.加强的,集中的,深入细致的,精耕细作的",
+          "n.意图,意向,目的",
+          "n.刺激;动力;鼓励;诱因;动机"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根in-（向内）+cent-（唱歌）+ive（名词后缀）。原指“唱歌吸引”，引申为“刺激、诱因”。核心动作：通过某种方式（如奖励）从内部激发行动，强调外部诱因对内在动力的触发。",
+        "similarWarning": "incentive vs. initiative：incentive强调外部刺激/诱因（如奖金）；initiative指主动采取的行动/倡议（如take the initiative）。字母差异：-cent- vs. -it-。",
+        "extendedMeaning": "考研中常考“激励因素、动力机制”，如economic incentives（经济激励），不限于个人动机，更指制度性诱因。",
+        "examUsage": "真题考点：incentive常与provide/offer/create搭配，如provide financial incentives（提供经济激励），作为干扰项时易与motive（内在动机）混淆，注意区分内外诱因。"
+      }
+    },
+    {
+      "id": "inch",
+      "word": "inch",
+      "phonetic": "/intʃ/",
+      "meaning": "n.英寸",
+      "similar": [
+        "pinch",
+        "bench",
+        "bunch",
+        "ditch",
+        "incur",
+        "pitch",
+        "punch",
+        "since"
+      ],
+      "question": {
+        "wordId": "inch",
+        "stem": "选择 \"inch\" 的正确中文意思：",
+        "correct": "n.英寸",
+        "options": [
+          "v.捏,掐,拧;收缩;紧急关头;匮乏;压力",
+          "n.长凳,条凳;(工作)台,座",
+          "n.英寸",
+          "n.(一)簇,束,捆,串"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'uncia'（第十二部分），古英语 'ynce' 借入，指一英尺的十二分之一，核心物理动作为‘分割、度量’。",
+        "similarWarning": "pinch（捏，掐；p+inch，p像手指夹住动作）；punch（打孔，重击；p+unch，u像拳头形状）；bench（长凳；b+ench，b像凳子腿）；bunch（束，串；b+unch，b像捆绑物）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "incidence",
+      "word": "incidence",
+      "phonetic": "/'insidəns/",
+      "meaning": "n.影响程度，影响范围；发生率",
+      "similar": [
+        "coincidence",
+        "incident",
+        "confidence",
+        "evidence",
+        "inference",
+        "influence",
+        "residence",
+        "conscience"
+      ],
+      "question": {
+        "wordId": "incidence",
+        "stem": "选择 \"incidence\" 的正确中文意思：",
+        "correct": "n.影响程度，影响范围；发生率",
+        "options": [
+          "n.(in)信任;信心,自信;秘密,机密",
+          "n.巧合；同时发生，共同存在；符合，一致",
+          "n.事件,事变",
+          "n.影响程度，影响范围；发生率"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 incidere（in-“进入，在...上” + cadere“落下”），字面义“落在...之上”。核心物理动作是“某物坠落并覆盖/作用于某物”，引申为“事件或现象发生的范围或频率”，即“影响程度”或“发生率”。",
+        "similarWarning": "形近词对比：\n- coincidence (co-“共同” + incidence)：巧合，指两事同时发生。\n- incident (in-“在” + cidere“落下”的过去分词)：事件，尤指小事或事故。\n- evidence (e-“外” + videre“看”)：证据，与“落下”无关。\n辨析：incidence 强调“发生频率/范围”，coincidence 强调“同时发生”，incident 是具体“事件”。",
+        "extendedMeaning": "在考研外刊（如《经济学人》）中常表“影响程度”或“波及面”，非简单“发生率”。例：the incidence of poverty（贫困的影响范围）。",
+        "examUsage": "真题考点：常与介词 of 连用，后接抽象名词（如 disease, crime），作主语时谓语用单数。高频搭配：high/low incidence of...（...的高/低发生率）；reduce the incidence of...（降低...的发生率）。"
+      }
+    },
+    {
+      "id": "incident",
+      "word": "incident",
+      "phonetic": "/'insidənt/",
+      "meaning": "n.事件,事变",
+      "similar": [
+        "incidence",
+        "ancient",
+        "accident",
+        "confident",
+        "inside",
+        "invent",
+        "evident",
+        "inherent"
+      ],
+      "question": {
+        "wordId": "incident",
+        "stem": "选择 \"incident\" 的正确中文意思：",
+        "correct": "n.事件,事变",
+        "options": [
+          "n.意外遭遇,事故；意外(因素)",
+          "n.事件,事变",
+          "n.影响程度，影响范围；发生率",
+          "a.古代的，古老的，古式的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+cid（落下）+ent（名词后缀）→ 突然落入或发生的事 → 事件，尤指附带性的或次要的事件。",
+        "similarWarning": "incident vs. accident：incident指一般事件或附带事件；accident指意外事故。incident vs. incidence：incidence是名词，指发生率或影响范围。",
+        "extendedMeaning": "在政治、外交语境中，incident常指引起争议或冲突的“事件、事端”，如 border incident（边境事件）。",
+        "examUsage": "真题中常与happen, occur搭配，或用于区分主要与次要事件。如：The incident was quickly forgotten.（该事件很快被遗忘。）"
+      }
+    },
+    {
+      "id": "incidentally",
+      "word": "incidentally",
+      "phonetic": "/ˌinsi'dentəli/",
+      "meaning": "ad.附带地,顺便提及",
+      "similar": [
+        "accidental"
+      ],
+      "question": {
+        "wordId": "incidentally",
+        "stem": "选择 \"incidentally\" 的正确中文意思：",
+        "correct": "ad.附带地,顺便提及",
+        "options": [
+          "a.熟悉的;通晓的;亲近的 n.熟客;密友",
+          "ad.附带地,顺便提及",
+          "a.偶然的；意外的；无意中的",
+          "a.历史的;有关历史的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根 in-（进入）+cid（落下）+ent（形容词后缀）+ally（副词后缀），字面义为“落在其中”，引申为“附带地、顺便提及”，强调非主要、伴随发生。",
+        "similarWarning": "accidental（偶然的）：incident（事件）+al（形容词后缀），强调意外发生；incidentally强调伴随性，非核心。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "incline",
+      "word": "incline",
+      "phonetic": "/in'klain/",
+      "meaning": "v.(使)倾斜;(使)倾向于 n.斜坡,斜面",
+      "similar": [
+        "decline",
+        "include",
+        "inclusive"
+      ],
+      "question": {
+        "wordId": "incline",
+        "stem": "选择 \"incline\" 的正确中文意思：",
+        "correct": "v.(使)倾斜;(使)倾向于 n.斜坡,斜面",
+        "options": [
+          "a.(of)包括的,包含的;范围广的",
+          "v.(使)倾斜;(使)倾向于 n.斜坡,斜面",
+          "v.下降,衰落;拒绝 n.下降;斜面,倾斜,衰落",
+          "v.包括,包含,计入"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "in-（向内）+ clin（倾斜）→ 向内倾斜 → 从物理上的倾斜引申为心理上的倾向性。",
+        "similarWarning": "decline（de-向下+clin→向下倾斜→下降/拒绝）；include（in-+clud-关闭→关在里面→包含）；inclusive（include的形容词，包含的）。",
+        "extendedMeaning": "（无显性熟词僻义，但注意考研中常考其心理倾向义：be inclined to do sth. 倾向于做某事。）",
+        "examUsage": "（无特殊考点干扰项，但需掌握搭配：incline to/toward sth. 倾向于某物；incline sb. to do sth. 使某人有做某事的倾向。）"
+      }
+    },
+    {
+      "id": "include",
+      "word": "include",
+      "phonetic": "/in'klu:d/",
+      "meaning": "v.包括,包含,计入",
+      "similar": [
+        "conclude",
+        "exclude",
+        "incline",
+        "intrude",
+        "inclusive",
+        "preclude"
+      ],
+      "question": {
+        "wordId": "include",
+        "stem": "选择 \"include\" 的正确中文意思：",
+        "correct": "v.包括,包含,计入",
+        "options": [
+          "v.(使)倾斜;(使)倾向于 n.斜坡,斜面",
+          "v.包括,包含,计入",
+          "v.结束,终止;断定,下结论;缔结,议定",
+          "v.拒绝,把…排除在外,排斥"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "in-（向内）+ -clud-（关闭）+ -e → 关在里面 → 包含、包括",
+        "similarWarning": "conclude（con-共同+clude关闭→共同关闭→结束、总结）；exclude（ex-向外+clude→关在外面→排除）；incline（in-向内+cline倾斜→向内倾斜→倾向）；intrude（in-向内+trude推→推入→侵入）；inclusive（include的形容词形式，包含的）；preclude（pre-预先+clude关闭→预先关闭→阻止、排除）",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "inclusive",
+      "word": "inclusive",
+      "phonetic": "/in'klu:siv/",
+      "meaning": "a.(of)包括的,包含的;范围广的",
+      "similar": [
+        "exclusive",
+        "incline",
+        "include",
+        "incentive",
+        "intensive",
+        "conclusion"
+      ],
+      "question": {
+        "wordId": "inclusive",
+        "stem": "选择 \"inclusive\" 的正确中文意思：",
+        "correct": "a.(of)包括的,包含的;范围广的",
+        "options": [
+          "a.(of)包括的,包含的;范围广的",
+          "a.独占的;排他的;孤高的;唯一的;高级的",
+          "v.包括,包含,计入",
+          "v.(使)倾斜;(使)倾向于 n.斜坡,斜面"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 includere (in- 进入 + claudere 关闭)，意为“关在里面”。-ive 为形容词后缀，表示“有…性质的”。核心动作：将某物“关入”范围之内，即“包含的、包括的”。",
+        "similarWarning": "exclusive (ex- 向外 + clus- 关闭) 排外的；incline (in- 向 + clin- 倾斜) 倾斜；include (in- 进入 + clud- 关闭) 包含；incentive (in- 在内 + cent- 唱歌) 激励；intensive (in- 在内 + tens- 伸展) 密集的；conclusion (con- 共同 + clus- 关闭) 结论。",
+        "extendedMeaning": "在考研中常考“包容性强的、范围广泛的”，如 inclusive society (包容性社会)，强调不排斥任何群体。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "income",
+      "word": "income",
+      "phonetic": "/'inkʌm/",
+      "meaning": "n.收入,收益,所得",
+      "similar": [
+        "become"
+      ],
+      "question": {
+        "wordId": "income",
+        "stem": "选择 \"income\" 的正确中文意思：",
+        "correct": "n.收入,收益,所得",
+        "options": [
+          "n.药丸",
+          "vi.变成，开始变得vt.适合，同…相称",
+          "n.收入,收益,所得",
+          "v./n.咬,叮 n.一口"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ come（来）→ 进入的钱财 → 收入。核心动作是‘钱物流入’，与‘支出’相对。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "incorporate",
+      "word": "incorporate",
+      "phonetic": "/in'kɔ:pəreit/",
+      "meaning": "v.合并,纳入,结合 a.合并的",
+      "similar": [
+        "cooperate"
+      ],
+      "question": {
+        "wordId": "incorporate",
+        "stem": "选择 \"incorporate\" 的正确中文意思：",
+        "correct": "v.合并,纳入,结合 a.合并的",
+        "options": [
+          "n.[数]矩形, 长方形",
+          "n.沥青;掷 v.用沥青覆盖;投掷,扔",
+          "v.(with)合作,协作,相配合",
+          "v.合并,纳入,结合 a.合并的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ corpor-（身体/团体）+ -ate（动词后缀）→ 进入团体 → 合并、纳入。核心动作：使某物成为整体的一部分。",
+        "similarWarning": "cooperate：co-（共同）+ oper-（工作）+ -ate → 共同工作，侧重协作；incorporate侧重结构上的合并。",
+        "extendedMeaning": "（法律/商业）组成公司：The firm was incorporated in 1998.（该公司于1998年注册成立。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "increase",
+      "word": "increase",
+      "phonetic": "/in'kri:s/",
+      "meaning": "v./n.增加,增长,增进",
+      "similar": [
+        "decrease",
+        "create",
+        "grease",
+        "intense",
+        "inverse",
+        "incredible"
+      ],
+      "question": {
+        "wordId": "increase",
+        "stem": "选择 \"increase\" 的正确中文意思：",
+        "correct": "v./n.增加,增长,增进",
+        "options": [
+          "v.创造,创作;引起,造成,建立",
+          "n.减少,减小;减少量 v.减少,变少,降低",
+          "n.动物脂,油脂,润滑脂 v.抹油,润滑",
+          "v./n.增加,增长,增进"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 in-（进入）+ crease（生长，同词根create“创造”中的cre-），核心动作是“向内/向上生长”，即数量或程度上的增加。",
+        "similarWarning": "decrease（de-向下+crease生长→减少）与increase方向相反；create（cre-生长+ate→创造）侧重从无到有；grease（油脂，音近）无关；intense（in-+tens伸展→强烈）形似但词根不同；inverse（in-+vers转→倒转）与increase无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "increasingly",
+      "word": "increasingly",
+      "phonetic": "/in'kri:siŋli/",
+      "meaning": "ad.不断增加地,日益",
+      "similar": [],
+      "question": {
+        "wordId": "increasingly",
+        "stem": "选择 \"increasingly\" 的正确中文意思：",
+        "correct": "ad.不断增加地,日益",
+        "options": [
+          "a.爆炸(性)的,爆发(性)的 n.爆炸物,炸药",
+          "n.日光,日照；晴天；",
+          "ad.不断增加地,日益",
+          "ad./a.更远,更往前;进一步 v.促进,增进"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根：crease（增长）= in（进入）+crease（增长）。核心动作：从内部持续增长的状态。后缀 -ing 表进行，-ly 表副词，整体意为“日益、越来越”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常修饰程度或频率的递增，如“increasingly complex”（日益复杂）、“increasingly important”（愈发重要），强调趋势的渐进性，而非一次性剧增。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "incredible",
+      "word": "incredible",
+      "phonetic": "/in'kredəbl/",
+      "meaning": "a.不可相信的,惊人的,不可思议的",
+      "similar": [
+        "increase",
+        "invisible",
+        "ingredient"
+      ],
+      "question": {
+        "wordId": "incredible",
+        "stem": "选择 \"incredible\" 的正确中文意思：",
+        "correct": "a.不可相信的,惊人的,不可思议的",
+        "options": [
+          "a.不可相信的,惊人的,不可思议的",
+          "n.(混合物的)组成部分，配料；成份，要素",
+          "v./n.增加,增长,增进",
+          "a.看不见的,无形的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（不）+ cred（相信）+ -ible（能…的）→ 不能相信的，引申为“惊人的、不可思议的”。",
+        "similarWarning": "increase（v./n. 增加）：increa- vs incredi-，字母差异“s”与“di”，词义完全不同。invisible（a. 看不见的）：invis- vs incred-，词根vis（看）与cred（相信）不同。ingredient（n. 成分）：ingred- vs incred-，字母“g”与“c”，且词源不同。",
+        "extendedMeaning": "在考研阅读中常表“极好的、绝妙的”非字面义，如“incredible opportunity”（绝佳机会）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "incur",
+      "word": "incur",
+      "phonetic": "/in'kə:/",
+      "meaning": "v.招致,惹起,遭受",
+      "similar": [
+        "injure",
+        "injury",
+        "insure",
+        "inch",
+        "infer",
+        "inner",
+        "input",
+        "occur"
+      ],
+      "question": {
+        "wordId": "incur",
+        "stem": "选择 \"incur\" 的正确中文意思：",
+        "correct": "v.招致,惹起,遭受",
+        "options": [
+          "vt.保险,给…保险;保证",
+          "n.伤害，损害",
+          "v.损害,损伤,伤害",
+          "v.招致,惹起,遭受"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ cur（跑，流）→ 跑进某状态 → 招致（尤指不愉快的事）。核心动作：主动进入某种负面结果或代价的轨迹。",
+        "similarWarning": "incur vs. occur: occur（发生）由 ob-（朝向）+ cur（跑）组成，强调事件“出现”；incur 强调主语“主动招致”后果。infer（推断）由 in-（进入）+ fer（带来）组成，与“跑”无关。",
+        "extendedMeaning": "在考研阅读中常表“（因自身行为而）遭受（损失、债务、风险等）”，如 incur costs/debt/losses，强调因果关系中的责任方。",
+        "examUsage": "真题考点：incur 后常接负面名词，如 incur criticism（招致批评），incur liability（承担责任）。干扰项常替换为 suffer（被动承受），注意 incur 隐含的主动触发逻辑。"
+      }
+    },
+    {
+      "id": "independence",
+      "word": "independence",
+      "phonetic": "/ˌindi'pendəns/",
+      "meaning": "n.独立,自主",
+      "similar": [
+        "independent"
+      ],
+      "question": {
+        "wordId": "independence",
+        "stem": "选择 \"independence\" 的正确中文意思：",
+        "correct": "n.独立,自主",
+        "options": [
+          "n.(不受干扰的)独处，自由，隐私；私生活",
+          "n.独立,自主",
+          "a.(of)独立的,自主的",
+          "n.变化,变动;变种,变异"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "in-（否定）+ de-（从…离开）+ pend（悬挂）+ -ence（名词后缀）。核心动作：不悬挂于他人之下。源自古法语independance，指不依赖、不受制于外部力量的状态。",
+        "similarWarning": "independent（adj.独立的）是independence的形容词形式，仅词性不同，拼写区别为结尾-ent（形容词后缀）与-ence（名词后缀）。易混词：dependence（依赖，de-向下+pend悬挂），与independence仅前缀in-（否定）之差。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "independent",
+      "word": "independent",
+      "phonetic": "/ˌindi'pendənt/",
+      "meaning": "a.(of)独立的,自主的",
+      "similar": [
+        "independence",
+        "dependent"
+      ],
+      "question": {
+        "wordId": "independent",
+        "stem": "选择 \"independent\" 的正确中文意思：",
+        "correct": "a.(of)独立的,自主的",
+        "options": [
+          "a.(of)独立的,自主的",
+          "n.独立,自主",
+          "a.依靠的,依赖的,从属的;随…而定的",
+          "n.长袍，特殊场合穿的长服"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（否定）+ de-（向下）+ pend（悬挂）+ -ent（形容词后缀）→ 不悬挂于他物之下 → 不依赖他人 → 独立的、自主的。核心物理动作是‘不挂在下边’，强调不受控于外力。",
+        "similarWarning": "independence（n.独立）、dependent（a.依赖的，与independent缀相反）",
+        "extendedMeaning": "（在考研阅读中常引申为）不受外界影响的、自主决定的，如 independent thinking（独立思考）、independent variable（自变量，统计学术语）。",
+        "examUsage": "（固定搭配）independent of（不依赖…、独立于…），真题中常考其与dependent on的对比干扰。"
+      }
+    },
+    {
+      "id": "index",
+      "word": "index",
+      "phonetic": "/'indeks/",
+      "meaning": "n.(pl.indexes,indices)索引 v.附以索引",
+      "similar": [
+        "hinder",
+        "infer",
+        "inlet",
+        "inner"
+      ],
+      "question": {
+        "wordId": "index",
+        "stem": "选择 \"index\" 的正确中文意思：",
+        "correct": "n.(pl.indexes,indices)索引 v.附以索引",
+        "options": [
+          "n.(pl.indexes,indices)索引 v.附以索引",
+          "v.(from)阻止,妨碍 a.后面的",
+          "n.水湾,小湾;进口,入口",
+          "v.推论,推断"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语index（食指、指示者），由in-（向内）与-dic-（说、指示）组合，核心动作为“用手指指出”。引申为“索引”，即指向书中内容的指示列表。",
+        "similarWarning": "hinder（阻碍）含字母h，与index无直接关联；indeed（确实）为in+deed；idea（想法）词根为ide-（看）；infer（推断）含-fer-（带来）；inlet（入口）含let（让）；inner（内部的）为in的比较级；under（在...下）前缀不同。",
+        "extendedMeaning": "指数、指标（如经济指标、物价指数），在考研阅读中常出现index of economic growth（经济增长指标）、consumer price index（消费者物价指数）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "indicate",
+      "word": "indicate",
+      "phonetic": "/'indikeit/",
+      "meaning": "v.指出,指示;表明,暗示",
+      "similar": [
+        "indicative",
+        "intricate",
+        "dedicate",
+        "intimate",
+        "indication",
+        "candidate",
+        "induce",
+        "invite"
+      ],
+      "question": {
+        "wordId": "indicate",
+        "stem": "选择 \"indicate\" 的正确中文意思：",
+        "correct": "v.指出,指示;表明,暗示",
+        "options": [
+          "v.指出,指示;表明,暗示",
+          "a.(of)指示的,暗示的",
+          "a.复杂的,错综的,难以理解的",
+          "vt.奉献;献身于"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（向内、进入）+ dic-（说、宣称）+ -ate（动词后缀）→ 向内说明、指给看 → 引申为指出、指示、表明。核心动作：通过语言或符号将信息指向某处。",
+        "similarWarning": "indicate vs. intricate: indicate 含 dic-（说），表指示；intricate 含 tric-（小障碍、琐碎），表复杂的。\nindicate vs. dedicate: indicate 表指出；dedicate 含 de-（加强）+ dic-（宣称），表奉献、致力于。\nindicate vs. intimate: indicate 表指示；intimate 含 intim-（内部），表亲密的、暗示（v.）。",
+        "extendedMeaning": "在阅读中常考“暗示、表明（某种趋势或结论）”，如：The data indicate that...（数据表明……）",
+        "examUsage": "真题常考搭配：indicate that + 从句（表明……）；indicate the need for...（表明需要……）。注意与 suggest（暗示、建议）的区别：indicate 更强调客观证据指向，suggest 可带主观推测。"
+      }
+    },
+    {
+      "id": "indication",
+      "word": "indication",
+      "phonetic": "/ˌindi'keiʃən/",
+      "meaning": "n.指出,指示;表明,暗示",
+      "similar": [
+        "indignation",
+        "indicative",
+        "invitation",
+        "implication",
+        "inspiration",
+        "indicate",
+        "dictation",
+        "education"
+      ],
+      "question": {
+        "wordId": "indication",
+        "stem": "选择 \"indication\" 的正确中文意思：",
+        "correct": "n.指出,指示;表明,暗示",
+        "options": [
+          "a.(of)指示的,暗示的",
+          "n.愤怒,愤慨",
+          "n.指出,指示;表明,暗示",
+          "n.邀请,招待;请柬"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "in-（向内，进入）+ dic-（说，宣称）+ -ation（名词后缀）→ 向内的宣称或说明。核心物理动作：通过某种信号或迹象，将内部隐藏的信息“说出来”指向外部。词源本义是“指示的行为或事实”，即通过可见的标记或信号指向内在的状态或未来事件。",
+        "similarWarning": "indignation（n.愤慨，义愤）：indication vs indignation，差异在于“dic”（说）与“dign”（价值，尊严）。indication强调“指出/表明”，indignation强调因尊严受损而“愤怒”。\nindicative（adj.指示的，表明的）：indication是名词，indicative是形容词，拼写差异在“-tion”与“-tive”。\nimplication（n.含义，暗示）：indication是直接“指出”，implication是间接“暗示”，逻辑不同。",
+        "extendedMeaning": "在考研阅读中，indication常表“迹象、征兆”，用于科学或社会现象分析，如“an indication of a deeper problem”（更深层问题的迹象）。非字面义：作为数据或证据的“提示信号”，而非简单的指向动作。",
+        "examUsage": "真题考点：搭配“give indication of”或“be an indication that...”表“表明/显示”。例如：“These figures are a clear indication of the economic slowdown.”（这些数字是经济放缓的明确迹象。）常作为干扰项，与“implication”（暗示）区分：indication更直接，基于可见证据。"
+      }
+    },
+    {
+      "id": "indicative",
+      "word": "indicative",
+      "phonetic": "/in'dikətiv/",
+      "meaning": "a.(of)指示的,暗示的",
+      "similar": [
+        "indicate",
+        "indication",
+        "initiative",
+        "imaginative",
+        "indignation",
+        "radioactive",
+        "dedicate",
+        "intimate"
+      ],
+      "question": {
+        "wordId": "indicative",
+        "stem": "选择 \"indicative\" 的正确中文意思：",
+        "correct": "a.(of)指示的,暗示的",
+        "options": [
+          "a.(of)指示的,暗示的",
+          "a.创始的,起始的 n.第一步,创始,主动精神",
+          "v.指出,指示;表明,暗示",
+          "n.指出,指示;表明,暗示"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 indicare（指示），in-（向内）+ dicare（宣称，原指“用手指点”）。-ive 为形容词后缀，表“具有…性质的”。核心动作：用手指点出方向或事实，故词义为“指示的、暗示的”。",
+        "similarWarning": "indicate（v.指示）vs indicative（adj.指示的），后者为形容词形式；initiative（n.主动性）拼写差异在 -tive vs -cative；imaginative（adj.富有想象力的）词根 imag- 不同。",
+        "extendedMeaning": "在考研外刊中常引申为“表明…的迹象”，如“be indicative of”表示“是…的征兆”，用于经济、社会趋势分析。",
+        "examUsage": "高频搭配：be indicative of（表明）。真题例句：“The trend is indicative of a shift in consumer behavior.”（该趋势表明消费者行为的变化。）注意与 indicate 的动词用法区分。"
+      }
+    },
+    {
+      "id": "indifferent",
+      "word": "indifferent",
+      "phonetic": "/in'difərənt/",
+      "meaning": "a.冷漠的,不关心的,不积极的",
+      "similar": [
+        "different",
+        "difference"
+      ],
+      "question": {
+        "wordId": "indifferent",
+        "stem": "选择 \"indifferent\" 的正确中文意思：",
+        "correct": "a.冷漠的,不关心的,不积极的",
+        "options": [
+          "a.冷漠的,不关心的,不积极的",
+          "v.迅速发展,兴旺;发出隆隆声",
+          "n.差别,差异,分歧",
+          "a.差异的,差异的,不同的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（不）+ different（不同的）→ 没有差异的 → 引申为对事物无差别对待 → 冷漠的、不关心的",
+        "similarWarning": "different（adj.不同的）与indifferent拼写差异在前缀in-，different强调差异性，indifferent强调无差别态度",
+        "extendedMeaning": "（考研常考）平庸的、一般的（如indifferent performance）；中立的、不偏袒的（如indifferent observer）",
+        "examUsage": "be indifferent to（对…漠不关心）；真题例句：He was indifferent to the consequences of his actions.（他对行为的后果漠不关心）"
+      }
+    },
+    {
+      "id": "indignant",
+      "word": "indignant",
+      "phonetic": "/in'dignənt/",
+      "meaning": "a.愤慨的,愤慨不平的",
+      "similar": [
+        "immigrant",
+        "malignant",
+        "indignation"
+      ],
+      "question": {
+        "wordId": "indignant",
+        "stem": "选择 \"indignant\" 的正确中文意思：",
+        "correct": "a.愤慨的,愤慨不平的",
+        "options": [
+          "a.愤慨的,愤慨不平的",
+          "a.(从国外)移来的,移民的 n.移民,侨民",
+          "n.愤怒,愤慨",
+          "a.恶性的，致命的；恶意的，恶毒的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 in-（否定）+ dignus（值得的），字面直译为“认为不值得的”，核心动作为“因不配而被激怒”，即感到受侮辱或遭遇不公时产生的愤慨情绪。",
+        "similarWarning": "immigrant（移民，im-进入+migr-迁移）；malignant（恶性的，mal-坏+gn-出生）；indignation（名词，愤慨）。差异在于前缀和词根：indignant强调否定尊严（dign-），而immigrant侧重迁移，malignant侧重恶性。",
+        "extendedMeaning": "在考研阅读中，常引申为对不道德、不公正现象的强烈道德愤怒，而非普通生气。",
+        "examUsage": "be indignant at/about/over sth.（对某事感到愤慨），常见于真题中作为态度题的关键词，如‘The author is indignant at...’表示批判立场。"
+      }
+    },
+    {
+      "id": "indignation",
+      "word": "indignation",
+      "phonetic": "/ˌindig'neiʃən/",
+      "meaning": "n.愤怒,愤慨",
+      "similar": [
+        "indication",
+        "invitation",
+        "dictation",
+        "imitation",
+        "indignant",
+        "inflation",
+        "intention",
+        "invention"
+      ],
+      "question": {
+        "wordId": "indignation",
+        "stem": "选择 \"indignation\" 的正确中文意思：",
+        "correct": "n.愤怒,愤慨",
+        "options": [
+          "n.邀请,招待;请柬",
+          "n.愤怒,愤慨",
+          "n.听写,口述;命令",
+          "n.指出,指示;表明,暗示"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'in-'（否定） + 'dignus'（值得的） + '-ation'（名词后缀）。核心动作：认为某事‘不值得’（不配）而产生的情感反应。即感到被冒犯或受到不公正对待时，认为对方的行为‘不配’得到尊重或容忍，从而引发愤怒。词根 'dign-' 表示‘价值、尊严’，否定前缀强化了‘有损尊严’的意味。",
+        "similarWarning": "与'indication'（指示，n.）区别：indignation强调愤怒情绪，indication源于'dic-'（说），指表明、显示。与'invitation'（邀请，n.）区别：indignation源于'dign-'（价值），invitation源于'vit-'（生命/活力），指请人参与。与'imitation'（模仿，n.）区别：indignation词根'dign-'，imitation源于'imit-'（模仿）。与'inflation'（通货膨胀，n.）区别：indignation词根'dign-'，inflation源于'flat-'（吹气）。与'intention'（意图，n.）区别：indignation词根'dign-'，intention源于'tend-'（延伸）。与'invention'（发明，n.）区别：indignation词根'dign-'，invention源于'ven-'（来）。",
+        "extendedMeaning": "在考研阅读中，indignation常指一种‘正义的愤怒’，即因不公、虚伪或道德败坏而产生的强烈反感，而非单纯脾气暴躁。例如，社会不公引发的public indignation（公愤）。",
+        "examUsage": "真题考点：常与'righteous'（正义的）连用，构成'righteous indignation'（义愤），强调道德立场。例句：The public's indignation over the scandal led to widespread protests.（公众对该丑闻的愤慨引发了广泛抗议。）注意与'anger'（普通愤怒）的区分：indignation带有道德评判色彩。"
+      }
+    },
+    {
+      "id": "indispensable",
+      "word": "indispensable",
+      "phonetic": "/ˌindis'pensəbl/",
+      "meaning": "a.(to,for)必不可少的,必需的",
+      "similar": [],
+      "question": {
+        "wordId": "indispensable",
+        "stem": "选择 \"indispensable\" 的正确中文意思：",
+        "correct": "a.(to,for)必不可少的,必需的",
+        "options": [
+          "n.[一般用于否定句或疑问句中]效用,利益",
+          "n.一生,终生",
+          "a.(to,for)必不可少的,必需的",
+          "vi.胜过其他;擅长 vt.胜过，优于"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "in-（不/无）+ dis-（分开）+ pens-（称重/支付）+ -able（能…的）。核心动作：无法分开称量或支付的 → 不可或缺的。源于拉丁语dispensare（分配、称量），原指无法被免除或分开的必需品。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“绝对必要的条件或因素”，如indispensable role（不可替代的作用），指逻辑链条中无法剔除的关键环节。",
+        "examUsage": "真题高频搭配：be indispensable to/for（对…必不可少），考点常设于逻辑关系题中，作为绝对化词汇（如must/essential）的同义替换。"
+      }
+    },
+    {
+      "id": "individual",
+      "word": "individual",
+      "phonetic": "/ˌindi'vidjuəl/",
+      "meaning": "a.个人的,单独的;独特的 n.个人,个体",
+      "similar": [],
+      "question": {
+        "wordId": "individual",
+        "stem": "选择 \"individual\" 的正确中文意思：",
+        "correct": "a.个人的,单独的;独特的 n.个人,个体",
+        "options": [
+          "v.引用,引证,举(例)",
+          "v.恢复;(使)复苏",
+          "n.同事,同僚",
+          "a.个人的,单独的;独特的 n.个人,个体"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 individuus（不可分的），由 in-（不） + dividuus（可分的）组成，词根 divid-（分开）。核心动作是“不可再分”，即构成整体的最小单位。原指“个体”，后引申为“个人的、独特的”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常出现“独特的”含义，如 individual style（独特的风格），区别于 common（普通的）。",
+        "examUsage": "真题中常考搭配：individual freedom（个人自由）、individual responsibility（个人责任），以及作为名词指“个体”与 society（社会）形成对比。"
+      }
+    },
+    {
+      "id": "indoor",
+      "word": "indoor",
+      "phonetic": "/'indɔ:/",
+      "meaning": "a.室内的,户内的",
+      "similar": [],
+      "question": {
+        "wordId": "indoor",
+        "stem": "选择 \"indoor\" 的正确中文意思：",
+        "correct": "a.室内的,户内的",
+        "options": [
+          "n.防护物,护罩;盾,盾状物 v.保护,防护",
+          "v.想象，设想，展望，正视",
+          "a.室内的,户内的",
+          "n.猴子"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "in-（在…内）+ door（门）→ 门内的 → 室内的",
+        "similarWarning": "indoor vs. indoor: 无显性易混词，但注意与indoors（副词，在室内）区分，后者多修饰动作。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "induce",
+      "word": "induce",
+      "phonetic": "/in'dju:s/",
+      "meaning": "v.引诱,劝使;引起,导致;感应",
+      "similar": [
+        "indulge",
+        "deduce",
+        "endure",
+        "injure",
+        "insure",
+        "reduce",
+        "indicate"
+      ],
+      "question": {
+        "wordId": "induce",
+        "stem": "选择 \"induce\" 的正确中文意思：",
+        "correct": "v.引诱,劝使;引起,导致;感应",
+        "options": [
+          "v.引诱,劝使;引起,导致;感应",
+          "v.忍受,持久,持续",
+          "vt.(from)演绎,推断,推论",
+          "v.放任，纵容，沉溺；使(自己)纵情享受"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ duc（引导）+ -e → 引入内部 → 核心动作：引导某人/某物进入某种状态。引申为“引诱”（引导人做某事）和“引起/导致”（引导结果发生）。",
+        "similarWarning": "indulge（纵容，沉溺）：区别在于-ulge与-uce，indulge侧重放任欲望（如 indulge in food），induce侧重外部引导（如 induce sleep）。deduce（推断）：de-（向下）+ duc → 从已知引出结论，与induce方向相反（归纳 vs 演绎）。",
+        "extendedMeaning": "在医学或科技语境中表“诱导”（如 induce labor 引产，induce mutation 诱导突变）；在逻辑学中表“归纳”（区别于deduce“演绎”）。",
+        "examUsage": "高频搭配：induce sb to do sth（引诱某人做某事）；induce sleep/coma（引起睡眠/昏迷）。真题中常作为“导致”的同义替换，与cause, trigger, lead to形成干扰项。"
+      }
+    },
+    {
+      "id": "indulge",
+      "word": "indulge",
+      "phonetic": "/in'dʌldʒ/",
+      "meaning": "v.放任，纵容，沉溺；使(自己)纵情享受",
+      "similar": [
+        "induce",
+        "insulate"
+      ],
+      "question": {
+        "wordId": "indulge",
+        "stem": "选择 \"indulge\" 的正确中文意思：",
+        "correct": "v.放任，纵容，沉溺；使(自己)纵情享受",
+        "options": [
+          "v.放任，纵容，沉溺；使(自己)纵情享受",
+          "v.引诱,劝使;引起,导致;感应",
+          "vt.隔离,孤立;使绝缘,使绝热",
+          "adj.异乎寻常的，稀奇古怪的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源于拉丁语indulgere（对...让步/宽容），in-（进入）+ dulcis（甜，引申为顺心）。核心动作：允许自己或他人进入一种‘甜腻顺心’的状态，即不加限制地满足欲望。",
+        "similarWarning": "induce（in-进入+duce引导→诱导，劝诱） vs indulge（纵容/沉溺）：前者侧重‘引导行为’，后者侧重‘放任欲望’。insulate（insul-岛+ate→隔离）与indulge拼写差异在sul/dul，词义无关。",
+        "extendedMeaning": "考研真题中常考‘沉溺于（不良习惯）’的负面语境，如indulge in alcohol（酗酒），或‘纵容某人’的及物用法：indulge one's whims（纵容某人的任性）。",
+        "examUsage": "真题高频搭配：indulge in（沉溺于），后接名词/动名词，如indulge in daydreaming（沉溺于白日梦）。干扰项常与indulge/induce混用，注意indulge后接in是固定介词。"
+      }
+    },
+    {
+      "id": "industrial",
+      "word": "industrial",
+      "phonetic": "/in'dʌstriəl/",
+      "meaning": "a.工业的,产业的",
+      "similar": [
+        "industry",
+        "pedestrian"
+      ],
+      "question": {
+        "wordId": "industrial",
+        "stem": "选择 \"industrial\" 的正确中文意思：",
+        "correct": "a.工业的,产业的",
+        "options": [
+          "n.工业,产业;勤劳,勤奋",
+          "n.步行者 a.徒步的,呆板的,通俗的",
+          "n.(常pl.)工资,报酬 vt.进行,开展",
+          "a.工业的,产业的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源于拉丁语 industria（勤奋），由 indu（在内）+ strere（建造）构成，核心动作是“在内部持续建造”，引申为系统的生产活动。加形容词后缀 -ial 形成“工业的、产业的”，强调与大规模生产相关的属性。",
+        "similarWarning": "industry（n.工业，勤奋）与 industrial 拼写差异在于 -ial 与 -y；pedestrian（n.行人，a.平凡的）与 industrial 拼写差异在于 ped- 与 indus-，词义无关联，但拼写易混淆。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "industrialize",
+      "word": "industrialize",
+      "phonetic": "/in'dʌtriəlaiz/",
+      "meaning": "v.(industrialise)(使)工业化",
+      "similar": [],
+      "question": {
+        "wordId": "industrialize",
+        "stem": "选择 \"industrialize\" 的正确中文意思：",
+        "correct": "v.(industrialise)(使)工业化",
+        "options": [
+          "v.(industrialise)(使)工业化",
+          "n.电压",
+          "a./ad.更坏,更差(的/地)",
+          "a.轻微的,微小的;纤细的,瘦弱的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根industri-（勤勉，产业）+ -al（形容词后缀）+ -ize（动词后缀，使...化）。核心动作：使产业活动系统化、规模化，即工业化。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "industry",
+      "word": "industry",
+      "phonetic": "/'indəstri/",
+      "meaning": "n.工业,产业;勤劳,勤奋",
+      "similar": [
+        "industrial",
+        "injury",
+        "inquiry",
+        "ministry"
+      ],
+      "question": {
+        "wordId": "industry",
+        "stem": "选择 \"industry\" 的正确中文意思：",
+        "correct": "n.工业,产业;勤劳,勤奋",
+        "options": [
+          "n.伤害，损害",
+          "a.工业的,产业的",
+          "n.工业,产业;勤劳,勤奋",
+          "n.(enquiry)询问,打听,调查"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语industria（勤奋），由indu（在内）+ struere（建造）构成，核心动作为“在内心持续建造”，引申为“勤奋”和“系统性的生产活动”，即“工业/产业”。",
+        "similarWarning": "industrial（工业的） vs injury（伤害） vs inquiry（询问） vs ministry（部）。industry强调产业，injury指身体伤害，inquiry是调查，ministry为部门。",
+        "extendedMeaning": "在考研中常考“勤奋；勤劳”这一抽象义，如“diligence and industry”（勤奋与勤劳）。",
+        "examUsage": "真题常考短语“heavy industry”（重工业）、“service industry”（服务业），以及“industry as a whole”（整个行业）作为题眼。"
+      }
+    },
+    {
+      "id": "inertia",
+      "word": "inertia",
+      "phonetic": "/i'nə:ʃiə/",
+      "meaning": "n.不活动,惰性;惯性",
+      "similar": [],
+      "question": {
+        "wordId": "inertia",
+        "stem": "选择 \"inertia\" 的正确中文意思：",
+        "correct": "n.不活动,惰性;惯性",
+        "options": [
+          "v.活着,生活,居住 a.活的,生动的,直播的",
+          "n.本质,实质",
+          "n.无性繁殖，克隆；复制品v.克隆",
+          "n.不活动,惰性;惯性"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'iners'（无技能的，无力的），由 'in-'（不，无）和 'ars'（技能，艺术）组合。核心物理动作是‘缺乏内在驱动力或技能’，引申为‘不活动’和物理学的‘惯性’（物体保持静止或匀速运动状态的性质）。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研真题或外刊中，常引申为‘惰性’（社会/组织/思维层面的停滞不前），如'organizational inertia'（组织惰性）、'inertia of thought'（思维惰性）。",
+        "examUsage": "常搭配介词'against'，如'overcome inertia against change'（克服对变革的惰性）；真题中可能作为干扰项，与'inaction'（不作为）辨析——'inertia'强调状态持续，'inaction'强调缺乏行动。"
+      }
+    },
+    {
+      "id": "inevitable",
+      "word": "inevitable",
+      "phonetic": "/in'evitəbl/",
+      "meaning": "a.不可避免的,必然发生的",
+      "similar": [
+        "invisible",
+        "reliable",
+        "suitable",
+        "advisable",
+        "desirable",
+        "vegetable",
+        "invaluable",
+        "profitable"
+      ],
+      "question": {
+        "wordId": "inevitable",
+        "stem": "选择 \"inevitable\" 的正确中文意思：",
+        "correct": "a.不可避免的,必然发生的",
+        "options": [
+          "a.可靠的,可信赖的,确实的",
+          "a.看不见的,无形的",
+          "a.不可避免的,必然发生的",
+          "a.(for)合适的,适宜的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "in-（不）+ evit-（避免，源自拉丁语vitare“避开”）+ -able（可…的）→不可避开的→不可避免的",
+        "similarWarning": "invisible（in-不+vis-看+ible→看不见的）：拼写差异在evit与vis，词义侧重“不可见” vs “不可避”。",
+        "extendedMeaning": "",
+        "examUsage": "It is almost inevitable that...（……几乎是不可避免的）常用于引出必然结果或趋势，在阅读中作逻辑衔接。"
+      }
+    },
+    {
+      "id": "infant",
+      "word": "infant",
+      "phonetic": "/'infənt/",
+      "meaning": "n.婴儿,幼儿",
+      "similar": [
+        "instant",
+        "infect",
+        "inland",
+        "intact",
+        "invent",
+        "ignorant",
+        "infinite"
+      ],
+      "question": {
+        "wordId": "infant",
+        "stem": "选择 \"infant\" 的正确中文意思：",
+        "correct": "n.婴儿,幼儿",
+        "options": [
+          "a./ad.国内,内地,内陆",
+          "n.婴儿,幼儿",
+          "a.立即的;紧迫的;(食品)速溶的 n.瞬间,时刻",
+          "vt.传染，感染；影响(思想等)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'infans'，由 'in-'（不、无）和 'fans'（说话）构成，字面意为‘不会说话的人’，核心物理动作是‘无法用语言表达’。婴儿因尚未学会说话，故得此名。",
+        "similarWarning": "infant（婴儿）vs instant（立即的）：infant 含 'f' 表不会说话；instant 含 'st' 表站立、即刻。infect（感染）含 'fect' 表做、影响；inland（内陆）含 'land' 表土地；intact（完整的）含 'tact' 表接触、未触碰；invent（发明）含 'vent' 表来、想出；ignorant（无知的）含 'gnor' 表知道；infinite（无限的）含 'fin' 表终点。",
+        "extendedMeaning": "在考研中可引申为‘初期阶段’或‘雏形’，如‘infant industry’（幼稚产业/新兴产业），指处于发展早期、需要保护的行业。",
+        "examUsage": "常考短语‘infant mortality’（婴儿死亡率），在真题阅读中作为社会或医疗话题的统计指标出现；‘infant school’（幼儿园，英式用法）偶见于完形填空。"
+      }
+    },
+    {
+      "id": "infect",
+      "word": "infect",
+      "phonetic": "/in'fekt/",
+      "meaning": "vt.传染，感染；影响(思想等)",
+      "similar": [
+        "inject",
+        "insect",
+        "inspect",
+        "infer",
+        "inlet",
+        "affect",
+        "defect",
+        "effect"
+      ],
+      "question": {
+        "wordId": "infect",
+        "stem": "选择 \"infect\" 的正确中文意思：",
+        "correct": "vt.传染，感染；影响(思想等)",
+        "options": [
+          "n.昆虫",
+          "vt.检查,调查,视察",
+          "vt.传染，感染；影响(思想等)",
+          "vt.注射(药液等)；注入"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ fect（做，制作）→ 字面义为“进入并作用于内部”，核心动作是“外部病原体侵入体内并产生作用”，引申为思想、情感上的“感染”或“影响”。",
+        "similarWarning": "inject（注射）：in-（进入）+ ject（投掷）→ 将液体射入体内；infect（感染）：in-（进入）+ fect（做）→ 病原体在体内作用。 insect（昆虫）：in-（进入）+ sect（切割）→ 身体分节；inspect（检查）：in-（向内）+ spect（看）→ 仔细看。 infer（推断）：in-（进入）+ fer（携带）→ 从事实中引出结论；infect（感染）无此推理义。",
+        "extendedMeaning": "在考研阅读中常引申为“（思想、情绪、文化等）迅速蔓延并影响他人”，如“infect the public opinion”（影响舆论），侧重潜移默化的消极或中性传播，非仅医学。",
+        "examUsage": "真题高频搭配：be infected with（受…感染/影响），如“be infected with a sense of despair”（被绝望情绪感染）。注意区分 affect（影响，中性/广义）与 infect（强调侵入性、蔓延性）。"
+      }
+    },
+    {
+      "id": "infectious",
+      "word": "infectious",
+      "phonetic": "/in'fekʃəs/",
+      "meaning": "a.传染的,传染性的,有感染力的",
+      "similar": [
+        "ingenious",
+        "inferior",
+        "precious",
+        "affection",
+        "inflation",
+        "intention",
+        "invention"
+      ],
+      "question": {
+        "wordId": "infectious",
+        "stem": "选择 \"infectious\" 的正确中文意思：",
+        "correct": "a.传染的,传染性的,有感染力的",
+        "options": [
+          "a.珍贵的,贵重的",
+          "a.下等的,下级的;劣等的,差的 n.下级,晚辈",
+          "a.机敏的;有独创性的;精致的;精巧制成的",
+          "a.传染的,传染性的,有感染力的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "infectious = in(向内) + fect(做) + ious(形容词后缀)。核心动作是“病原体做进去”，即病原体侵入体内并作用，从而具有传染性。引申为“有感染力的”，指情感或行为像病毒一样迅速影响他人。",
+        "similarWarning": "infectious vs ingenious：infectious 含 fect(做)，强调传染；ingenious 含 gen(产生)，指天赋的、巧妙的。infectious vs inferior：infectious 含 fect；inferior 含 fer(携带)，指低等的。infectious vs precious：precious 含 preci(价值)，指珍贵的。",
+        "extendedMeaning": "考研僻义：指“有感染力的，易传播的”，用于形容情绪、笑声、热情等抽象事物，如 infectious laughter（有感染力的笑声）、infectious enthusiasm（富有感染力的热情）。",
+        "examUsage": "真题考点：固定搭配 an infectious disease（传染病）；在阅读中常作为干扰项，与 contagious 辨析（contagious 强调接触传染，infectious 强调病原体侵入）。例句：The optimism was infectious, spreading quickly through the team.（这种乐观情绪富有感染力，迅速在团队中传播。）"
+      }
+    },
+    {
+      "id": "infer",
+      "word": "infer",
+      "phonetic": "/in'fə:/",
+      "meaning": "v.推论,推断",
+      "similar": [
+        "inner",
+        "confer",
+        "differ",
+        "dinner",
+        "finger",
+        "hinder",
+        "infect",
+        "inform"
+      ],
+      "question": {
+        "wordId": "infer",
+        "stem": "选择 \"infer\" 的正确中文意思：",
+        "correct": "v.推论,推断",
+        "options": [
+          "v.(from)与…不同;(with)与…意见不同",
+          "v.推论,推断",
+          "a.内部的,里面的;内心的",
+          "v.商讨；授予，颁给(勋衔，学位等)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "in-（向内）+ fer（带，带来）→ 将分散信息带入内心进行推导 → 推论，推断。核心动作：从已知事实中提取隐含结论。",
+        "similarWarning": "confer（商议，授予）vs infer：con-（共同）+ fer（带）→ 把意见带到一起；infer 强调从证据中推导。differ（不同）vs infer：dif-（分开）+ fer（带）→ 分开携带 → 不同；infer 侧重逻辑推理。",
+        "extendedMeaning": "暗示，表明（常用于非人称主语，如evidence/data infer that...，表示‘证据暗示’而非主动推断）。",
+        "examUsage": "考研阅读中常考 infer 的推理逻辑：题干问‘What can be inferred from the passage?’时，正确选项通常为原文细节的隐含结论，而非直接复述。搭配：infer from（从…推断），如‘We can infer from the text that...’"
+      }
+    },
+    {
+      "id": "inference",
+      "word": "inference",
+      "phonetic": "/'infərəns/",
+      "meaning": "n.推论,推理,推断;结论",
+      "similar": [
+        "conference",
+        "difference",
+        "influence",
+        "reference",
+        "preference",
+        "inherent",
+        "incidence",
+        "insurance"
+      ],
+      "question": {
+        "wordId": "inference",
+        "stem": "选择 \"inference\" 的正确中文意思：",
+        "correct": "n.推论,推理,推断;结论",
+        "options": [
+          "n.推论,推理,推断;结论",
+          "n.(正式)会议；讨论，商谈",
+          "n.差别,差异,分歧",
+          "n.(on)影响,感化;势力,权势 v.影响,感化"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"inferre\"（带入、推入），由\"in-\"（进入）+\"ferre\"（带来、携带）构成，核心动作是\"将已知信息带入未知领域\"，即基于证据进行逻辑推导。名词后缀-ence表示行为或结果，故\"inference\"指推论的过程或结论。\",\n  \"similarWarning\": \"形近词辨析：\\n- conference（con-共同+fer-带来→共同带来观点→会议）\\n- difference（dis-分开+fer-带来→带来差异→不同）\\n- influence（in-进入+flu-流动→流入影响→影响）\\n- reference（re-回+fe",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "inferior",
+      "word": "inferior",
+      "phonetic": "/in'fiəriə/",
+      "meaning": "a.下等的,下级的;劣等的,差的 n.下级,晚辈",
+      "similar": [
+        "interior",
+        "inherit",
+        "interim",
+        "exterior",
+        "superior",
+        "infectious"
+      ],
+      "question": {
+        "wordId": "inferior",
+        "stem": "选择 \"inferior\" 的正确中文意思：",
+        "correct": "a.下等的,下级的;劣等的,差的 n.下级,晚辈",
+        "options": [
+          "a.中间的,暂时的,临时的 n.过渡时期,暂定",
+          "a.下等的,下级的;劣等的,差的 n.下级,晚辈",
+          "a.内部的,里面的 n.内部,内地",
+          "vt.继承(金钱等)，经遗传而得(性格、特征)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语inferus（下面的）的比较级inferior（更下面的）。词根infer-（下）+-ior（比较级后缀）。核心物理动作：位置更低→引申为社会地位低、质量差。",
+        "similarWarning": "inferior（下等的） vs superior（上等的）：仅首字母i/s不同，词义完全相反。 vs interior（内部的）：字母f替换为t，词义转向空间内部。",
+        "extendedMeaning": "考研中常考\"劣质的\"（inferior goods）和\"下级\"（inferior officer），但注意be inferior to（比...差）是固定搭配，无比较级形式。",
+        "examUsage": "真题考点：be inferior to (比...差/低)，常与superior to对比出题。例：This fabric is inferior to that one.（这种布料比那种差。）"
+      }
+    },
+    {
+      "id": "infinite",
+      "word": "infinite",
+      "phonetic": "/'infinət/",
+      "meaning": "a.无限的,无穷的 n.无限",
+      "similar": [
+        "finite",
+        "definite",
+        "ignite",
+        "infant",
+        "invite",
+        "inhibit",
+        "indicate",
+        "initiate"
+      ],
+      "question": {
+        "wordId": "infinite",
+        "stem": "选择 \"infinite\" 的正确中文意思：",
+        "correct": "a.无限的,无穷的 n.无限",
+        "options": [
+          "a.有限的；[数]有穷的,限定的",
+          "v.点火,引燃",
+          "a.明确的;一定的;意志坚强的,立场坚定的",
+          "a.无限的,无穷的 n.无限"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（不/无）+ finite（有限的）→ 没有界限的 → 无限的、无穷的。核心动作：否定“有限”这一状态。",
+        "similarWarning": "finite（有限的）: in-否定前缀 vs 无前缀；definite（明确的）: de-（向下/完全）+ finite → 完全限定 → 明确的；infant（婴儿）: 拼写差异 -fant 与 -finite，词源无关，表“不会说话的”。",
+        "extendedMeaning": "在考研阅读中可引申为“极大的、无法计量的”，如 infinite patience（极大的耐心）或 infinite possibilities（无穷的可能性），强调程度而非物理边界。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "inflation",
+      "word": "inflation",
+      "phonetic": "/in'fleiʃən/",
+      "meaning": "n.通货膨胀",
+      "similar": [
+        "information",
+        "indication",
+        "innovation",
+        "invitation",
+        "invasion",
+        "imitation",
+        "intention",
+        "intuition"
+      ],
+      "question": {
+        "wordId": "inflation",
+        "stem": "选择 \"inflation\" 的正确中文意思：",
+        "correct": "n.通货膨胀",
+        "options": [
+          "n.改革，革新；新观念，新方法，新发明",
+          "n.指出,指示;表明,暗示",
+          "n.通知,报告;情报,资料,消息;信息",
+          "n.通货膨胀"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（进入） + flat-（吹气） + -ion（名词后缀）。核心动作：往内部吹气。物体被吹气后体积膨胀，引申为经济中货币供应量过度增加导致物价持续上涨的现象。",
+        "similarWarning": "information（信息）：in-（进入）+ form-（形状）+ -ation，强调塑造；inflation强调吹气膨胀。invasion（入侵）：in-（进入）+ vad-（走）+ -ion，强调行走进入；inflation强调充气。",
+        "extendedMeaning": "膨胀、充气（物理过程）",
+        "examUsage": "真题常考与deflation（通货紧缩）、stagflation（滞胀）对比，以及核心搭配：control inflation（控制通胀）、inflation rate（通胀率）。"
+      }
+    },
+    {
+      "id": "influence",
+      "word": "influence",
+      "phonetic": "/'influəns/",
+      "meaning": "n.(on)影响,感化;势力,权势 v.影响,感化",
+      "similar": [
+        "inference",
+        "incidence",
+        "influential",
+        "conference",
+        "confidence",
+        "difference"
+      ],
+      "question": {
+        "wordId": "influence",
+        "stem": "选择 \"influence\" 的正确中文意思：",
+        "correct": "n.(on)影响,感化;势力,权势 v.影响,感化",
+        "options": [
+          "n.(on)影响,感化;势力,权势 v.影响,感化",
+          "n.推论,推理,推断;结论",
+          "n.影响程度，影响范围；发生率",
+          "a.有影响的;有权势的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-=入内，flu-=流，-ence名词后缀。本义为“流入”，引申为“影响”，即某种力量如液体般渗入并改变他人思想或行为。",
+        "similarWarning": "influence vs. inference: influence中flu表“流”，inference中fer表“带来”，故influence是“流入影响”，inference是“推断带来结论”。",
+        "extendedMeaning": "考研常考“影响力、权势”的抽象含义，如political influence政治势力。",
+        "examUsage": "have/exert influence on/over对…施加影响；under the influence of在…影响下。真题中常与effect、impact同义替换，但influence更强调无形的、渐进的作用。"
+      }
+    },
+    {
+      "id": "influential",
+      "word": "influential",
+      "phonetic": "/ˌɪnflu'enʃl/",
+      "meaning": "a.有影响的;有权势的",
+      "similar": [
+        "confidential",
+        "influence"
+      ],
+      "question": {
+        "wordId": "influential",
+        "stem": "选择 \"influential\" 的正确中文意思：",
+        "correct": "a.有影响的;有权势的",
+        "options": [
+          "a.有影响的;有权势的",
+          "a.秘(机)密的；表信任的；担任机密工作的",
+          "n.(on)影响,感化;势力,权势 v.影响,感化",
+          "v.把…交托给,提交;犯(错误),干(坏事)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（向内）+ flu（流）+ -ential（形容词后缀）→ 流入内部的 → 能渗透影响他人的 → 有影响的，有权势的。核心动作：某物/人的力量像流体一样渗入并改变他人或局势。",
+        "similarWarning": "confidential（机密的）：con-（共同）+ fid（信任）+ -ential → 共同信任的 → 机密的。influential：in-（向内）+ flu（流）+ -ential → 流入影响。差异：前者含“fid（信任）”，后者含“flu（流）”。",
+        "extendedMeaning": "",
+        "examUsage": "真题中常作定语，如 influential figures（有影响力的人物），或以 be influential in doing sth.（对做某事有影响）结构出现，注意与 powerful（强权的）区分：influential 侧重间接影响，powerful 侧重直接权力。"
+      }
+    },
+    {
+      "id": "inform",
+      "word": "inform",
+      "phonetic": "/in'fɔ:m/",
+      "meaning": "v.(of,about)通知,告诉,报告;告发,告密",
+      "similar": [
+        "conform",
+        "uniform",
+        "form",
+        "norm",
+        "infer",
+        "reform"
+      ],
+      "question": {
+        "wordId": "inform",
+        "stem": "选择 \"inform\" 的正确中文意思：",
+        "correct": "v.(of,about)通知,告诉,报告;告发,告密",
+        "options": [
+          "vi.(to)遵守，适应；相似，一致，符合",
+          "n.制服,军服 a.相同的,一律的",
+          "v.(of,about)通知,告诉,报告;告发,告密",
+          "n.形状,形式;表格 v.组成,构成;形成"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ form（形状、形式）。核心动作：将信息‘注入形式’或‘塑造成形’，即把消息整理成可传达的形态。引申为‘通知’、‘告知’；告密则是把秘密情报‘形成’报告提交。",
+        "similarWarning": "conform（共同+形式→遵守，一致）；uniform（统一+形式→制服，一致的）；form（形式，形成）；norm（标准，规范）；infer（进入+携带→推断，推理）。区别：inform强调‘告知’，infer强调‘从已知推出结论’。",
+        "extendedMeaning": "在考研阅读中，inform常不指‘通知’，而指‘影响、塑造（观点/态度）’（如be informed by...意为‘受...影响/被...塑造’）。",
+        "examUsage": "常见搭配：keep sb informed of（随时告知某人...），well-informed（消息灵通的）。真题例句：\"Our decisions are informed by our values.\"（我们的决策受价值观影响。）"
+      }
+    }
+  ]
+}

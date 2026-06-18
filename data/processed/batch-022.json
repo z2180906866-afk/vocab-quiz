@@ -1,0 +1,1761 @@
+{
+  "batchId": 22,
+  "words": [
+    {
+      "id": "definition",
+      "word": "definition",
+      "phonetic": "/ˌdefi'niʃən/",
+      "meaning": "n.定义,解释;(轮廓影像等的)清晰度;阐明;",
+      "similar": [
+        "destination",
+        "definite",
+        "description",
+        "distinction",
+        "recognition",
+        "decision",
+        "division",
+        "function"
+      ],
+      "question": {
+        "wordId": "definition",
+        "stem": "选择 \"definition\" 的正确中文意思：",
+        "correct": "n.定义,解释;(轮廓影像等的)清晰度;阐明;",
+        "options": [
+          "n.描写,形容;种类",
+          "a.明确的;一定的;意志坚强的,立场坚定的",
+          "n.目的地,终点",
+          "n.定义,解释;(轮廓影像等的)清晰度;阐明;"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（向下，完全）+ fin-（界限，结束，词根finis意为‘边界’）+ -ition（名词后缀）→ 完全划定界限 → 定义，解释；引申为轮廓清晰（界限分明）→ 清晰度。",
+        "similarWarning": "destination（n. 目的地，终点）：de-（分离）+ stin-（站，立）+ -ation → 分离站立的点 → 目的地。对比：definition强调‘界定界限’，destination强调‘最终到达点’。",
+        "extendedMeaning": "清晰度（尤指图像、声音的细节分明程度）：如‘high-definition TV’（高清电视）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "defy",
+      "word": "defy",
+      "phonetic": "/di'fai/",
+      "meaning": "v.(公然)违抗,反抗;蔑视",
+      "similar": [
+        "deny",
+        "decay",
+        "delay"
+      ],
+      "question": {
+        "wordId": "defy",
+        "stem": "选择 \"defy\" 的正确中文意思：",
+        "correct": "v.(公然)违抗,反抗;蔑视",
+        "options": [
+          "v./n.耽搁,延迟",
+          "v./n.腐朽,腐烂;衰减,衰退",
+          "v.否认,否定;拒绝",
+          "v.(公然)违抗,反抗;蔑视"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de- (向下/分离) + fy (源自拉丁语fidere，意为信任/相信)。核心动作：脱离信任状态→不再相信对方→进而公开挑战其权威。画面：原本信赖上级，现在撕毁信任，公然说“不”。",
+        "similarWarning": "deny (deny: de- + ny 否定，指口头否认事实；defy: de- + fy 信任，指行为上对抗权威)。decay (de- + cay 落下，指腐烂、衰退；defy无此含义)。delay (de- + lay 放置，指推迟；defy无此含义)。",
+        "extendedMeaning": "考研中常考“公然违抗/藐视（规则、权威、逻辑解释）”，如defy the law/gravity/description。",
+        "examUsage": "真题常考搭配：defy sb/sth (公然违抗)；defy description (难以形容)。例句：The protestors defied the government's orders. (抗议者公然违抗政府命令。)"
+      }
+    },
+    {
+      "id": "degenerate",
+      "word": "degenerate",
+      "phonetic": "/di'dʒenəreit/",
+      "meaning": "v.衰退,堕落,蜕化 a.堕落的 n.堕落者",
+      "similar": [
+        "generate",
+        "desperate",
+        "deliberate",
+        "demonstrate",
+        "deteriorate",
+        "decorate",
+        "delegate",
+        "celebrate"
+      ],
+      "question": {
+        "wordId": "degenerate",
+        "stem": "选择 \"degenerate\" 的正确中文意思：",
+        "correct": "v.衰退,堕落,蜕化 a.堕落的 n.堕落者",
+        "options": [
+          "a.深思熟虑的,故意的 vt.研讨,商讨",
+          "a.不顾一切的，铤而走险的；绝望的，危急的",
+          "vt.产生,发生;生殖",
+          "v.衰退,堕落,蜕化 a.堕落的 n.堕落者"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（向下，离开）+ genus（种族，种类）+ -ate（动词后缀）。本义为“偏离原有种类”，即从原有的优良品质或正常状态降级、脱离，引申为衰退、堕落，强调向更低或更差的方向变化。",
+        "similarWarning": "degenerate vs. deteriorate：两者都有“恶化”义，但degenerate强调从较高状态降级（如道德、品质），核心是“种类下降”；deteriorate侧重物理或状态的逐渐变坏（如健康、关系）。注意与generate（产生）对比：de-（向下）与gen-（产生）方向相反。",
+        "extendedMeaning": "考研中常考“退化”的抽象义，如道德或社会层面的堕落，而非仅指身体衰退。",
+        "examUsage": "常见搭配：degenerate into（堕落成，退化为）。真题例句：The debate degenerated into a personal attack.（辩论演变成人身攻击。）"
+      }
+    },
+    {
+      "id": "degree",
+      "word": "degree",
+      "phonetic": "/di'gri:/",
+      "meaning": "n.程度;度数;学位;等级",
+      "similar": [
+        "agree",
+        "regret",
+        "decrease"
+      ],
+      "question": {
+        "wordId": "degree",
+        "stem": "选择 \"degree\" 的正确中文意思：",
+        "correct": "n.程度;度数;学位;等级",
+        "options": [
+          "vi.答应，赞同；适合，一致；商定，约定",
+          "n.减少,减小;减少量 v.减少,变少,降低",
+          "n.程度;度数;学位;等级",
+          "v./n.遗憾,懊悔,抱歉"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ grade（等级/步）→ 向下迈出的步，引申为“等级、程度、度数”。核心物理动作：一步一步向下走，每一步代表一个级别或刻度。",
+        "similarWarning": "形近词辨析：degree（程度/学位）vs. agree（同意，a-+gree=使高兴）vs. regret（后悔，re-+gret=哭回）vs. decrease（减少，de-+crease=向下增长）。核心差异：degree强调“级别刻度”，agree强调“一致赞同”，regret强调“遗憾情感”，decrease强调“数量下降”。",
+        "extendedMeaning": "考研僻义：在统计学或数据分析语境中，degree可指“自由度”（degrees of freedom），常见于社科类阅读；在数学中可指“次”（如degree of polynomial多项式次数）。",
+        "examUsage": "真题考点：固定搭配“by degrees”（逐渐地），常用于完形填空或翻译；比较级结构“to a greater/lesser degree”（在更大/更小程度上），是阅读中表程度对比的高频题眼。"
+      }
+    },
+    {
+      "id": "delay",
+      "word": "delay",
+      "phonetic": "/di'lei/",
+      "meaning": "v./n.耽搁,延迟",
+      "similar": [
+        "decay",
+        "relay",
+        "clay",
+        "deaf",
+        "deal",
+        "dean",
+        "defy",
+        "deny"
+      ],
+      "question": {
+        "wordId": "delay",
+        "stem": "选择 \"delay\" 的正确中文意思：",
+        "correct": "v./n.耽搁,延迟",
+        "options": [
+          "n.粘土,泥土",
+          "v.中继,转播,接力 n.接替人员,替班",
+          "v./n.腐朽,腐烂;衰减,衰退",
+          "v./n.耽搁,延迟"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（向下/离开）+ lay（放置）→ 把某物放到后面去 → 使延迟、耽搁。核心物理动作：原本该发生的动作被推后。",
+        "similarWarning": "decay（de-向下 + cay落下）→ 腐烂；relay（re-再 + lay放）→ 接替、转播；day（日）→ 与delay差一个'de'前缀。",
+        "extendedMeaning": "在考研阅读中，delay可引申为‘拖延’（主动推迟）或‘延误’（被动受阻），如交通delay、项目delay。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "delegate",
+      "word": "delegate",
+      "phonetic": "/'deligət/",
+      "meaning": "n.代表 vt.委派…为代表;授权;委托",
+      "similar": [
+        "delete",
+        "elevate",
+        "delicate",
+        "deliberate",
+        "celebrate",
+        "designate",
+        "desperate",
+        "segregate"
+      ],
+      "question": {
+        "wordId": "delegate",
+        "stem": "选择 \"delegate\" 的正确中文意思：",
+        "correct": "n.代表 vt.委派…为代表;授权;委托",
+        "options": [
+          "vt.举起,提拔,振奋,提升...的职位",
+          "a.纤弱的;精致的;微妙的;灵敏的",
+          "n.代表 vt.委派…为代表;授权;委托",
+          "vt.删除"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ leg-（派遣）+ -ate（动词/名词后缀）→ 向下派遣的人 → 代表；引申为委派、授权。核心动作：上级派遣下级去执行任务或代表自己。",
+        "similarWarning": "delegate vs. delicate（精细的）：delegate 含 leg（派遣），delicate 含 lic（诱惑/愉悦）。vs. deliberate（故意的）：deliberate 含 liber（平衡），强调权衡。vs. segregate（隔离）：segregate 含 greg（群体），指从群体中分离。",
+        "extendedMeaning": "在考研外刊中常指‘授权’（delegate authority），即上级将权力下放给下级，而非仅指‘代表’身份。",
+        "examUsage": "真题考点：delegate sth. to sb.（将某事委托给某人），如：The manager delegated the task to his assistant. 易与 designate（指定）混淆，但 delegate 强调授权行为，designate 强调任命职位。"
+      }
+    },
+    {
+      "id": "delete",
+      "word": "delete",
+      "phonetic": "/di'li:t/",
+      "meaning": "vt.删除",
+      "similar": [
+        "delegate",
+        "elite",
+        "debate",
+        "denote",
+        "devote",
+        "dilute",
+        "relate",
+        "delicate"
+      ],
+      "question": {
+        "wordId": "delete",
+        "stem": "选择 \"delete\" 的正确中文意思：",
+        "correct": "vt.删除",
+        "options": [
+          "vt.删除",
+          "v./n.争论,辩论",
+          "n.代表 vt.委派…为代表;授权;委托",
+          "n.<法>[集合名词]精华;精锐;中坚分子"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'deletus'，de-（向下/除去）+ -let-（= linere，涂抹），原义为“擦掉、抹去”，核心动作是“从表面彻底移除”。",
+        "similarWarning": "delegate (de- + legate 派遣) 代表；elite (e- + lit- 选择) 精英；debate (de- + bat- 打) 辩论；denote (de- + not- 标记) 表示；devote (de- + vot- 发誓) 奉献；dilute (di- + lut- 洗) 稀释；relate (re- + lat- 携带) 关联；delicate (de- + lic- 诱惑) 精致的。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "deliberate",
+      "word": "deliberate",
+      "phonetic": "/di'libərət/",
+      "meaning": "a.深思熟虑的,故意的 vt.研讨,商讨",
+      "similar": [
+        "liberate",
+        "delegate",
+        "delicate",
+        "celebrate",
+        "desperate",
+        "elaborate",
+        "degenerate",
+        "illiterate"
+      ],
+      "question": {
+        "wordId": "deliberate",
+        "stem": "选择 \"deliberate\" 的正确中文意思：",
+        "correct": "a.深思熟虑的,故意的 vt.研讨,商讨",
+        "options": [
+          "n.代表 vt.委派…为代表;授权;委托",
+          "a.纤弱的;精致的;微妙的;灵敏的",
+          "vt.解放,释放",
+          "a.深思熟虑的,故意的 vt.研讨,商讨"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（加强）+ liber（平衡/权衡）+ -ate（动词/形容词后缀）→ 反复权衡、仔细思考 → 深思熟虑的；引申为有意图的、故意的。",
+        "similarWarning": "deliberate vs delicate: 前者含liber（权衡），侧重思考；后者含lic（引诱），侧重精致、微妙。deliberate vs liberate: liberate是自由，deliberate是权衡后决定，差异在de-前缀加强。",
+        "extendedMeaning": "在考研阅读中，deliberate作动词常考“研讨、仔细考虑”，如deliberate on/upon sth（仔细考虑某事）；作形容词时，deliberate act常指“蓄意行为”，区别于accidental。",
+        "examUsage": "真题考点：deliberate作形容词时，常与intentional同义，与unintentional形成对比。例如：The decision was deliberate.（这个决定是故意的。）干扰项常设为accidental或casual。"
+      }
+    },
+    {
+      "id": "delicate",
+      "word": "delicate",
+      "phonetic": "/'delikət/",
+      "meaning": "a.纤弱的;精致的;微妙的;灵敏的",
+      "similar": [
+        "dedicate",
+        "duplicate",
+        "deviate",
+        "delegate",
+        "deliberate",
+        "designate",
+        "debate",
+        "decade"
+      ],
+      "question": {
+        "wordId": "delicate",
+        "stem": "选择 \"delicate\" 的正确中文意思：",
+        "correct": "a.纤弱的;精致的;微妙的;灵敏的",
+        "options": [
+          "vt.奉献;献身于",
+          "v.(from)背离,偏离",
+          "n.复制品 v.复写,使加倍 a.复制的,二重的",
+          "a.纤弱的;精致的;微妙的;灵敏的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语delicatus（诱人的，精致的），由de-（加强）+licere（引诱，诱惑）构成，本义是“能强烈引诱人的”，引申为“精致的、精巧的”，再引申为“微妙的、脆弱的、灵敏的”。核心动作：通过精细设计或状态引发强烈感官或情感反应。",
+        "similarWarning": "dedicate（v.奉献，致力于）：de-（向下）+dic（说），强调“宣告献身”。duplicate（v.复制）：du（二）+plic（折叠），强调“折叠成两份”。deviate（v.偏离）：de-（离开）+vi（路），强调“离开道路”。delegate（n.代表）：de-（离开）+leg（派遣），强调“被派出去的人”。deliberate（a.故意的）：de-（加强）+liber（平衡），强调“仔细权衡后的”。designate（v.指定）：de-（向下）+sign（标记），强调“标记出来”。debate（v.辩论）：de-（向下）+bat（打），强调“打击对方观点”。decade（n.十年）：deca（十），强调“十年”。区别：delicate核心在“精细诱人”，其他词各有不同词根动作。",
+        "extendedMeaning": "【高分引申】①微妙的（局势、关系等）：a delicate balance（微妙的平衡）②灵敏的（仪器、感官）：delicate instruments（精密仪器）③需谨慎处理的：a delicate issue（棘手的问题）④（颜色、味道）清淡的：a delicate flavor（淡雅的风味）",
+        "examUsage": "【真题考点】①be in a delicate condition（怀孕，委婉语，完形填空或阅读中可能出现）②delicate与sensitive辨析：delicate强调“精巧、易碎或需小心处理”，sensitive强调“敏感、易受刺激”。③真题例句：The delicate balance between economic development and environmental protection is a constant challenge.（经济发展与环境保护之间的微妙平衡是一个持续的挑战。）"
+      }
+    },
+    {
+      "id": "delicious",
+      "word": "delicious",
+      "phonetic": "/di'liʃəs/",
+      "meaning": "a.美味的;美妙的;使人愉快的",
+      "similar": [
+        "religious",
+        "vicious",
+        "suspicious"
+      ],
+      "question": {
+        "wordId": "delicious",
+        "stem": "选择 \"delicious\" 的正确中文意思：",
+        "correct": "a.美味的;美妙的;使人愉快的",
+        "options": [
+          "a.宗教的,信教的,虔诚的",
+          "a.(of)可疑的,多疑的,疑心的",
+          "a.恶毒的,凶残的,邪恶的",
+          "a.美味的;美妙的;使人愉快的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语deliciae（快乐，愉悦），由de-（完全，加强）+licere（引诱）构成，核心物理动作为“完全引诱”，即食物或事物具有极强的吸引力，使人感到愉悦。",
+        "similarWarning": "religious（宗教的）与delicious拼写差异在reli- vs deli-，词根不同；vicious（恶毒的）对比vici- vs deli-，核心含义相反；suspicious（怀疑的）对比suspi- vs deli-，词根suspect与delight无关。",
+        "extendedMeaning": "在考研阅读中可引申为“令人愉悦的、美妙的”，不限于食物，如delicious irony（绝妙的讽刺）或delicious scandal（有趣的丑闻）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "delight",
+      "word": "delight",
+      "phonetic": "/di'lait/",
+      "meaning": "n.快乐,高兴 v.(使)高兴,(使)欣喜",
+      "similar": [
+        "daylight",
+        "eight",
+        "flight",
+        "height",
+        "plight",
+        "slight",
+        "delegate",
+        "delicate"
+      ],
+      "question": {
+        "wordId": "delight",
+        "stem": "选择 \"delight\" 的正确中文意思：",
+        "correct": "n.快乐,高兴 v.(使)高兴,(使)欣喜",
+        "options": [
+          "n.飞翔,飞行;航班;航程;逃跑;楼梯的一段",
+          "num.八 pron.八(个，只...)",
+          "n.日光,白昼,黎明",
+          "n.快乐,高兴 v.(使)高兴,(使)欣喜"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（强调）+ light（光，明亮）。字面义：使光明照亮，引申为心情明亮、愉悦。核心动作：光线驱散阴霾，带来快乐。",
+        "similarWarning": "delight vs. daylight：前者de-+light，强调愉悦；后者day+light，白昼的光。delight vs. slight：前者de-+light，快乐；后者s-（small）+light，轻的、微小的。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "deliver",
+      "word": "deliver",
+      "phonetic": "/di'livə/",
+      "meaning": "v.交付,递送;发表,表达;释放;接生",
+      "similar": [
+        "delivery",
+        "liver",
+        "derive",
+        "driver"
+      ],
+      "question": {
+        "wordId": "deliver",
+        "stem": "选择 \"deliver\" 的正确中文意思：",
+        "correct": "v.交付,递送;发表,表达;释放;接生",
+        "options": [
+          "v.取得;导出;引申;来自;源自;出自",
+          "n.肝,肝脏",
+          "v.交付,递送;发表,表达;释放;接生",
+          "n.递送;交付;分娩;交货;引渡"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "de-（完全，加强）+ liver（来自拉丁语liberare，意为“释放”）。核心动作：把某物从束缚中完全释放出来并交给对方，引申为递送、交付、发表（释放言论）、接生（释放婴儿）。",
+        "similarWarning": "deliver vs. derive：deliver（递送）含-liver（释放）；derive（源于）含-rive（河流，引申为流出）。deliver vs. driver：deliver（递送）含-liver；driver（司机）含-drive（驾驶）。",
+        "extendedMeaning": "发表（演讲/意见）：deliver a speech；接生：deliver a baby；实现/履行（承诺）：deliver on a promise；在商业或技术语境中，指“交付（产品/成果）”，如deliver a project。",
+        "examUsage": "真题考点：deliver常与介词on搭配，表示“履行（诺言/协议）”，如deliver on commitments；在阅读中可能作为题眼考查“deliver a verdict”（宣布裁决）或“deliver a blow”（给予打击）。"
+      }
+    },
+    {
+      "id": "delivery",
+      "word": "delivery",
+      "phonetic": "/di'livəri/",
+      "meaning": "n.递送;交付;分娩;交货;引渡",
+      "similar": [
+        "deliver",
+        "derive",
+        "divert",
+        "driver",
+        "lively",
+        "recovery",
+        "deliberate"
+      ],
+      "question": {
+        "wordId": "delivery",
+        "stem": "选择 \"delivery\" 的正确中文意思：",
+        "correct": "n.递送;交付;分娩;交货;引渡",
+        "options": [
+          "n.递送;交付;分娩;交货;引渡",
+          "v.交付,递送;发表,表达;释放;接生",
+          "v.取得;导出;引申;来自;源自;出自",
+          "vt.使转向，使改道；转移(注意力)；使娱乐"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 de-（完全）+ liberare（解放、释放），核心动作是“完全释放”。原指将某人从束缚中解放，后引申为将物品从一方“释放”到另一方，即递送、交付。分娩义为将婴儿从母体释放；引渡义为将人犯移交他方。",
+        "similarWarning": "deliver（v.递送；分娩）: 动词形式，delivery是其名词。derive（v.源于；获得）: 词根riv（河流），差异在“riv” vs “liv”，意为从源头引出。divert（v.转移；使娱乐）: 词根vert（转），差异在“vert” vs “liv”，意为转向。",
+        "extendedMeaning": "（无特殊僻义，留空）",
+        "examUsage": "（无特殊考点，留空）"
+      }
+    },
+    {
+      "id": "demand",
+      "word": "demand",
+      "phonetic": "/di'mɑ:nd/",
+      "meaning": "n./v.要求,请求,需要(量) v.查问",
+      "similar": [
+        "dean",
+        "defend",
+        "depend",
+        "remind"
+      ],
+      "question": {
+        "wordId": "demand",
+        "stem": "选择 \"demand\" 的正确中文意思：",
+        "correct": "n./v.要求,请求,需要(量) v.查问",
+        "options": [
+          "n./v.要求,请求,需要(量) v.查问",
+          "n.(大学)院长;主持牧师; (基督教)教长",
+          "v.防守,保卫;为…辩护,为…答辩",
+          "v.(on)取决于,依靠,信赖,相信"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "demand = de-（强调，向下）+ mand（命令，委托）。核心动作是“向下发出命令”，引申为“正式要求、请求”，进一步泛化为“需要”。",
+        "similarWarning": "形近词对比：\n- demand vs. depend：demand 含 mand（命令），强调“要求”；depend 含 pend（悬挂），强调“依赖”。\n- demand vs. remind：remind 含 mind（心，记忆），强调“提醒”；demand 无此义。\n- demand vs. defend：defend 含 fend（打击），强调“防御”；demand 无此义。",
+        "extendedMeaning": "熟词僻义：在考研阅读中常引申为“（市场的）需求，需要量”，如 supply and demand（供求关系），非简单“要求”。",
+        "examUsage": "真题考点：常见搭配“in demand”（受欢迎的，被需要的），如“These skills are in high demand.”（这些技能需求量很大。）注意与“demand that + 虚拟语气”结构（should + 动词原形）的考点。"
+      }
+    },
+    {
+      "id": "democracy",
+      "word": "democracy",
+      "phonetic": "/di'mɔkrəsi/",
+      "meaning": "n.民主,民主制,民主国家",
+      "similar": [
+        "democratic"
+      ],
+      "question": {
+        "wordId": "democracy",
+        "stem": "选择 \"democracy\" 的正确中文意思：",
+        "correct": "n.民主,民主制,民主国家",
+        "options": [
+          "n.水汽,蒸汽,水蒸气 v.蒸发;蒸;用蒸汽开动",
+          "a.民主的",
+          "n.可能性",
+          "n.民主,民主制,民主国家"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "demo-（人民）+ -cracy（统治）→ 人民统治 → 民主。源自古希腊语dēmokratia，由dēmos（人民）和kratos（权力、统治）组成，核心动作是“权力归于人民”，与君主制（monarchy）形成对立。",
+        "similarWarning": "democratic（adj.民主的）为同源形容词，拼写差异在词尾-cratic（…统治的）与-cracy（…统治体制）的转换。无显性易混形近词。",
+        "extendedMeaning": "在考研外刊中常引申为“民主精神”或“民主体制下的运作方式”，如“democracy in the workplace”（工作场所的民主决策）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "democratic",
+      "word": "democratic",
+      "phonetic": "/ˌdemə'krætik/",
+      "meaning": "a.民主的",
+      "similar": [
+        "democracy",
+        "decorate"
+      ],
+      "question": {
+        "wordId": "democratic",
+        "stem": "选择 \"democratic\" 的正确中文意思：",
+        "correct": "a.民主的",
+        "options": [
+          "vt./n.有危险性的人(或物)；威胁，威吓",
+          "a.民主的",
+          "n.民主,民主制,民主国家",
+          "v.装饰,装璜,布置"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根demo-（人民）+crat（统治）+ic（形容词后缀）→人民统治的→民主的。核心动作：权力属于人民。",
+        "similarWarning": "democratic vs. decorate（装饰）：decorate词根decor-（装饰），与民主无关联。对比：demo-（人民）vs. decor-（装饰）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "demonstrate",
+      "word": "demonstrate",
+      "phonetic": "/'demənstreit/",
+      "meaning": "v.论证,证实;演示,说明",
+      "similar": [
+        "penetrate",
+        "degenerate"
+      ],
+      "question": {
+        "wordId": "demonstrate",
+        "stem": "选择 \"demonstrate\" 的正确中文意思：",
+        "correct": "v.论证,证实;演示,说明",
+        "options": [
+          "v.论证,证实;演示,说明",
+          "v.穿过,渗入,看穿",
+          "v.衰退,堕落,蜕化 a.堕落的 n.堕落者",
+          "n.激流，洪流；爆发，(话语等的)连发"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语demonstrare，de-（完全）+ monstrare（展示），字面义为“完全展示出来”。核心动作是“展示并让人看清”，引申为通过证据或实例证明观点或操作过程。",
+        "similarWarning": "penetrate（pene-近 + -trate，穿透）强调进入内部；degenerate（de-向下 + generate生成，退化）强调质量下降。demonstrate侧重展示证明，与“穿透”“退化”无直接关联。",
+        "extendedMeaning": "在考研中常考“游行示威”义，如demonstrate against the policy（抗议政策），此义由“公开展示立场”引申而来。",
+        "examUsage": "真题中常考搭配demonstrate the effectiveness（证明有效性）或demonstrate a commitment（展示承诺）。干扰项常与illustrate（用例子说明）混淆，但demonstrate更强调通过行动或证据证实。"
+      }
+    },
+    {
+      "id": "denial",
+      "word": "denial",
+      "phonetic": "/di'naiəl/",
+      "meaning": "n.否认;拒绝;否认某事或某事实的声明",
+      "similar": [
+        "dental",
+        "decimal",
+        "deal",
+        "dial",
+        "devil",
+        "aerial",
+        "mental",
+        "serial"
+      ],
+      "question": {
+        "wordId": "denial",
+        "stem": "选择 \"denial\" 的正确中文意思：",
+        "correct": "n.否认;拒绝;否认某事或某事实的声明",
+        "options": [
+          "v.处理;做买卖,经营;分配;对待 n.交易",
+          "n.否认;拒绝;否认某事或某事实的声明",
+          "a.牙齿的；牙科(用)的",
+          "a.十进的,小数的,十进制的 n.小数"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自 deny（否定）的名词形式，由 de-（完全，强调） + ny（来自拉丁语 negare，意为“说 no”） + -al（名词后缀）构成。核心动作是“完全说 no”，引申为“否认”或“拒绝”。",
+        "similarWarning": "dental（牙科的，牙齿的）与 denial 仅差字母 t 与 i 互换；decimal（十进制的）多出字母 c；deal（交易）少字母 ni；dial（拨号）少字母 en；devil（魔鬼）少字母 a 且字母顺序不同；aerial（空中的）多字母 aer；mental（精神的）多字母 m；serial（连续的）多字母 s。辨析重点：denial 核心是“否定”，其他词义差异明显。",
+        "extendedMeaning": "在心理学或社会语境中，可指“拒绝接受现实”或“自我否定”，如“in denial”（处于否认状态）。",
+        "examUsage": "真题中常与 admit（承认）构成反义考点，或用于固定搭配“denial of service”（拒绝服务，计算机术语）及“plead denial”（抗辩否认）。注意其与 refusal（拒绝）的细微区别：denial 更侧重口头或心理上的否认，而 refusal 侧重行动上的拒绝。"
+      }
+    },
+    {
+      "id": "denote",
+      "word": "denote",
+      "phonetic": "/di'nəut/",
+      "meaning": "vt.表示,意味着",
+      "similar": [
+        "devote",
+        "dense",
+        "debate",
+        "delete",
+        "donate",
+        "remote",
+        "senate",
+        "decorate"
+      ],
+      "question": {
+        "wordId": "denote",
+        "stem": "选择 \"denote\" 的正确中文意思：",
+        "correct": "vt.表示,意味着",
+        "options": [
+          "v./n.争论,辩论",
+          "a.浓厚的,密集的,稠密的",
+          "v.(to)奉献,致力",
+          "vt.表示,意味着"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（向下/完全）+ note（标记）→ 向下标记或完全标记清楚 → 表示、意味着。核心动作：用符号或语言明确指向某个概念。",
+        "similarWarning": "devote（de-+vote 誓言→奉献）；delete（de-+lete 清除→删除）；donate（don-给予→捐赠）。区分：denote 强调“指示/表示”，与 note（标记）同源；devote 是“投入”；delete 是“删掉”；donate 是“赠送”。",
+        "extendedMeaning": "在学术语境中常指“（符号、术语）表示/指代”，例如：The symbol ‘X’ denotes an unknown variable.（符号X表示未知变量。）",
+        "examUsage": "常与 ‘indicate’、‘signify’ 互为干扰项。真题中可能考查搭配 ‘denote ... as’（把...表示为），或与 ‘connote’（隐含意义）辨析。"
+      }
+    },
+    {
+      "id": "denounce",
+      "word": "denounce",
+      "phonetic": "/di'nauns/",
+      "meaning": "vt.公开指责,公然抨击;谴责",
+      "similar": [
+        "announce",
+        "pronounce",
+        "bounce",
+        "deduce",
+        "denote",
+        "defence",
+        "enhance",
+        "resource"
+      ],
+      "question": {
+        "wordId": "denounce",
+        "stem": "选择 \"denounce\" 的正确中文意思：",
+        "correct": "vt.公开指责,公然抨击;谴责",
+        "options": [
+          "v.发…的音;宣布,宣判",
+          "n./vi.(球)弹起,弹回；弹起,跳起；n.弹力",
+          "v.正式宣布；发表；通告；广播（电台节目）",
+          "vt.公开指责,公然抨击;谴责"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（向下，完全）+ nounce（报告，宣告）→ 原义为“正式宣告（某人有罪）”，后引申为“公开指责、谴责”。核心动作是“向下宣告负面评价”，即当众批评。",
+        "similarWarning": "announce（an-向 + nounce 报告→宣布）；pronounce（pro-向前 + nounce 说→发音/宣称）；bounce（弹跳，词源无关，但拼写相似）。区别：denounce 强调“谴责”，announce 强调“告知”，pronounce 强调“发音/正式宣称”。",
+        "extendedMeaning": "在考研阅读中，denounce 可引申为“揭发、告发”（如 denounce a corrupt official），或用于法律语境“指控”（如 denounce an agreement 声明废除条约）。",
+        "examUsage": "真题常考搭配：denounce...as...（谴责……是……），如“denounce the policy as unfair”。干扰项常与 announce、pronounce 混用，注意 de- 前缀的负面语义导向。"
+      }
+    },
+    {
+      "id": "dense",
+      "word": "dense",
+      "phonetic": "/dens/",
+      "meaning": "a.浓厚的,密集的,稠密的",
+      "similar": [
+        "tense",
+        "denote",
+        "devise",
+        "deny",
+        "desk",
+        "dine",
+        "dose",
+        "ease"
+      ],
+      "question": {
+        "wordId": "dense",
+        "stem": "选择 \"dense\" 的正确中文意思：",
+        "correct": "a.浓厚的,密集的,稠密的",
+        "options": [
+          "vt.表示,意味着",
+          "vt.设计;发明;图谋;作出(计划);想出(办法)",
+          "n.时态 v.拉紧，(使)紧张 a.绷紧的，紧张的",
+          "a.浓厚的,密集的,稠密的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语densus，意为‘厚的、密的’。核心物理动作是‘物质紧密聚集’，强调空间内元素间空隙小、分布紧凑。",
+        "similarWarning": "sense(n./v.感觉): s(感官) vs d(密集); tense(a.紧张的): t(拉伸) vs d(密集); denote(v.表示): de(向下)+note(标记) vs dense(密集); devise(v.设计): de+vis(看) vs dense; deny(v.否认): de+ny(否定) vs dense; desk(n.书桌): 家具 vs dense; dine(v.用餐): 饮食 vs dense; dose(n.剂量): 药物量 vs dense",
+        "extendedMeaning": "（在考研中可引申指）‘愚钝的、理解力差的’（如a dense student），或‘信息量大的、难懂的’（如dense text）。",
+        "examUsage": "真题中常考其引申义‘密度大的’与‘愚钝的’结合语境辨析，如：a dense population（人口稠密）与a dense person（迟钝的人）。"
+      }
+    },
+    {
+      "id": "density",
+      "word": "density",
+      "phonetic": "/'densəti/",
+      "meaning": "n.密集,密度,浓度",
+      "similar": [
+        "identity",
+        "entity",
+        "intensity",
+        "identify"
+      ],
+      "question": {
+        "wordId": "density",
+        "stem": "选择 \"density\" 的正确中文意思：",
+        "correct": "n.密集,密度,浓度",
+        "options": [
+          "n.密集,密度,浓度",
+          "n.身份;本体;特征;同一(性);一致;国籍;等式",
+          "n.实体;存在(物);组织,机构;本质",
+          "n.强烈,剧烈;强度"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'densitas'，词根'dens-'（稠密、厚实）+名词后缀'-ity'（表性质/状态）。核心物理动作是'物质被压缩到紧密聚集'，引申为'单位空间内物体数量或质量的比例'。",
+        "similarWarning": "identity（身份，同一性：id-相同+entity）；entity（实体：ex-外+ent-存在）；intensity（强度：in-加强+tens-伸展+ity）；identify（识别：id-相同+ify-使）。与density差异在词根'dens-'（稠密）vs 'id-'（相同）/ 'tens-'（伸展）。",
+        "extendedMeaning": "在考研阅读中常引申为'（人口、信息等的）密集程度'，如'population density'（人口密度），或'（能量、数据等的）浓度'，如'energy density'（能量密度）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dental",
+      "word": "dental",
+      "phonetic": "/'dentəl/",
+      "meaning": "a.牙齿的；牙科(用)的",
+      "similar": [
+        "denial",
+        "mental",
+        "central",
+        "deal",
+        "metal",
+        "detail",
+        "entail",
+        "oriental"
+      ],
+      "question": {
+        "wordId": "dental",
+        "stem": "选择 \"dental\" 的正确中文意思：",
+        "correct": "a.牙齿的；牙科(用)的",
+        "options": [
+          "a.中心的,中央的,中枢的;主要的",
+          "a.牙齿的；牙科(用)的",
+          "n.否认;拒绝;否认某事或某事实的声明",
+          "a.精神的,思想的,心理的,智力的,脑力的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根 dent-（牙齿）+ 形容词后缀 -al，核心物理动作是“与牙齿相关的”，直指牙科领域。",
+        "similarWarning": "denial（否认，d-替换为n-，词根不同）；mental（精神的，m-替换为d-，词根不同）；central（中心的，c-替换为d-）；detail（细节，de-前缀+tail，拼写差异大但易混淆）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dentist",
+      "word": "dentist",
+      "phonetic": "/'dentist/",
+      "meaning": "n.牙医",
+      "similar": [
+        "scientist",
+        "identify",
+        "identity"
+      ],
+      "question": {
+        "wordId": "dentist",
+        "stem": "选择 \"dentist\" 的正确中文意思：",
+        "correct": "n.牙医",
+        "options": [
+          "v.识别,鉴别;(with)把…和…看成一样",
+          "n.身份;本体;特征;同一(性);一致;国籍;等式",
+          "n.科学家",
+          "n.牙医"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“dens”（牙齿），后缀“-ist”表示“做…的人”，字面即“处理牙齿的人”，核心动作是“牙齿操作”。",
+        "similarWarning": "形近词：scientist（科学家）、identify（识别，-ify动词后缀）、identity（身份，-ity名词后缀）。dentist 核心在“dent-”（牙齿），而 scientist 在“sci-”（知道），identify 在“idem”（相同），差异在词根。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "deny",
+      "word": "deny",
+      "phonetic": "/di'nai/",
+      "meaning": "v.否认,否定;拒绝",
+      "similar": [
+        "defy",
+        "decay",
+        "delay",
+        "dense",
+        "penny"
+      ],
+      "question": {
+        "wordId": "deny",
+        "stem": "选择 \"deny\" 的正确中文意思：",
+        "correct": "v.否认,否定;拒绝",
+        "options": [
+          "v.否认,否定;拒绝",
+          "v./n.耽搁,延迟",
+          "v.(公然)违抗,反抗;蔑视",
+          "v./n.腐朽,腐烂;衰减,衰退"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 de-（向下/完全）+ neg-（否定，源自拉丁语negare“说no”）→ 彻底否定。核心动作是“拒绝承认或接受”。",
+        "similarWarning": "defy (de- + fy“信任”→ 不信任→ 违抗), decay (de- + cadere“落下”→ 落下→ 腐烂), delay (de- + laisser“留下”→ 留下→ 延迟), dense (dens-“浓密”→ 稠密), penny (pen-“惩罚”→ 便士硬币，无词根关联)。deny与defy易混：deny是否认事实，defy是公然反抗。",
+        "extendedMeaning": "拒绝给予（sth. to sb.），如deny access（拒绝访问）在科技类阅读中高频出现。",
+        "examUsage": "deny that...（否认某事）；deny doing sth.（否认做过某事）。真题考点：There is no denying that...（不可否认……）作为首段引出观点的高分句型。"
+      }
+    },
+    {
+      "id": "depart",
+      "word": "depart",
+      "phonetic": "/di'pɑ:t/",
+      "meaning": "vi.离开,起程 a.过去的,逝世的",
+      "similar": [
+        "apart",
+        "depict",
+        "desert",
+        "impart",
+        "separate"
+      ],
+      "question": {
+        "wordId": "depart",
+        "stem": "选择 \"depart\" 的正确中文意思：",
+        "correct": "vi.离开,起程 a.过去的,逝世的",
+        "options": [
+          "n.沙漠,不毛之地 v.抛弃,遗弃;擅离,开小差",
+          "v.描绘;描写,描述",
+          "ad.分离，离开，隔开 a.分离的，分隔的",
+          "vi.离开,起程 a.过去的,逝世的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（离开）+ part（部分，分开）→ 字面义“分开、脱离”，核心动作是“从某处分离/离开”。引申为“起程、出发”（离开某地）及“背离、偏离”（离开原轨道）。",
+        "similarWarning": "depart vs. depart vs. depart vs. depart vs. depict vs. desert vs. impart vs. report：\n- depart: de- + part，强调“离开”动作。\n- depict: de- + pict（描绘），意为“描绘、描述”。\n- desert: de- + sert（加入/放置），意为“抛弃、沙漠”。\n- impart: im-（向内）+ part（部分），意为“传授、赋予”。\n- report: re-（回）+ port（携带），意为“报告、报道”。\n注意拼写差异：depart 无 -ict/-ert/-port 后缀。",
+        "extendedMeaning": "考研僻义：a. 过去的，逝世的。如“the departed”指“死者”或“过去的时光”。常见于文学或正式语境，非基本义“离开”。",
+        "examUsage": "常见考点：1. depart from 背离/违反（规则、习俗等），如“depart from tradition”背离传统。2. depart for 动身前往某地。3. 真题例句：“They depart from the norm in their approach.”（他们方法上偏离常规。）"
+      }
+    },
+    {
+      "id": "department",
+      "word": "department",
+      "phonetic": "/di'pɑ:tmənt/",
+      "meaning": "n.部,局,处,科,部门;系,学部",
+      "similar": [
+        "apartment",
+        "compartment",
+        "replacement",
+        "temperament",
+        "apparent",
+        "pavement",
+        "departure",
+        "dependent"
+      ],
+      "question": {
+        "wordId": "department",
+        "stem": "选择 \"department\" 的正确中文意思：",
+        "correct": "n.部,局,处,科,部门;系,学部",
+        "options": [
+          "n.部,局,处,科,部门;系,学部",
+          "n.[英]房间，套间；[美]公寓",
+          "n.卧车包房,(客车车厢内的)隔间;分隔的空间",
+          "n.取代,替换,替换物,代替物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（向下，分开）+ part（部分，分开）+ -ment（名词后缀）。词根part意为“部分，分开”，de-强调“分离”的动作，整体指“被分开的部分”，引申为组织或机构中的“部门、分支机构”。",
+        "similarWarning": "apartment（公寓）：a-（加强）+ part（部分）+ -ment → 一个独立的部分，指居住单元。department（部门）：de-（向下/分开）+ part + -ment → 被划分出的部分，指组织内分支。compartment（隔间）：com-（共同）+ part + -ment → 被共同划分出的空间。",
+        "extendedMeaning": "在考研英语中，department常见引申义为“（大学的）系，学部”，如the English Department（英语系）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "departure",
+      "word": "departure",
+      "phonetic": "/di'pɑ:tʃə/",
+      "meaning": "n.离开,起程",
+      "similar": [
+        "feature",
+        "pasture",
+        "department",
+        "repertoire"
+      ],
+      "question": {
+        "wordId": "departure",
+        "stem": "选择 \"departure\" 的正确中文意思：",
+        "correct": "n.离开,起程",
+        "options": [
+          "n.离开,起程",
+          "n.特征;容貌;特色;特写 v.以...为特色",
+          "n.牧草地,牧场",
+          "n.部,局,处,科,部门;系,学部"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（离开）+ part（部分，分开）+ -ure（名词后缀）→ 从整体中分离出去的动作 → 离开，起程",
+        "similarWarning": "feature（特征，特色）：f-开头，强调外在特点；pasture（牧场，草地）：p-开头，与草地相关；temperature（温度）：temper-（调节），与热度相关；department（部门，系）：de-（向下）+ part（部分），强调下属部分；repertoire（全部剧目，全部技能）：re-（反复）+ pert（带出），强调可反复表演的节目单。注意 departure 与 department 仅差 -ment 和 -ure 后缀，前者强调离开的动作，后者强调组织的分部。",
+        "extendedMeaning": "（在考研阅读中常引申为）背离，偏离（常规、计划、标准等），如 departure from tradition（背离传统）。",
+        "examUsage": "真题考点：point of departure（出发点，起点），常出现在议论文中表示讨论的起点或分歧点；departure from（与…背离），用于分析观点分歧或政策转变。"
+      }
+    },
+    {
+      "id": "depend",
+      "word": "depend",
+      "phonetic": "/di'pend/",
+      "meaning": "v.(on)取决于,依靠,信赖,相信",
+      "similar": [
+        "defend",
+        "descend",
+        "deed",
+        "decent",
+        "demand",
+        "expend",
+        "legend"
+      ],
+      "question": {
+        "wordId": "depend",
+        "stem": "选择 \"depend\" 的正确中文意思：",
+        "correct": "v.(on)取决于,依靠,信赖,相信",
+        "options": [
+          "v.防守,保卫;为…辩护,为…答辩",
+          "n.行为,行动;功绩,事迹;证书；契据",
+          "v.(on)取决于,依靠,信赖,相信",
+          "v.下来,下降;遗传(指财产,气质,权利)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ pend（悬挂）→ 悬挂在下面→ 依附于某物→ 依靠、取决于。核心动作：某物挂靠在另一物上，其状态随支撑物变化。",
+        "similarWarning": "defend（de-远离+fend击打→防御）vs depend（de-向下+pend悬挂→依赖）：前者强调保护，后者强调依附。descend（de-向下+scend爬→下降）vs depend：前者是空间下移，后者是逻辑依赖。",
+        "extendedMeaning": "考研中常考“取决于”这一动态逻辑，如“depend on”在议论文中引出条件关系，但此义已属常见，故本项省略。",
+        "examUsage": "考点：depend on/upon 后接名词或从句，真题中常作为“推理判断”题的核心题眼，如“Success depends on hard work.”。注意与“independent of”（独立于）的对比干扰。"
+      }
+    },
+    {
+      "id": "dependent",
+      "word": "dependent",
+      "phonetic": "/di'pendənt/",
+      "meaning": "a.依靠的,依赖的,从属的;随…而定的",
+      "similar": [
+        "independent",
+        "descendant",
+        "department"
+      ],
+      "question": {
+        "wordId": "dependent",
+        "stem": "选择 \"dependent\" 的正确中文意思：",
+        "correct": "a.依靠的,依赖的,从属的;随…而定的",
+        "options": [
+          "a.(of)独立的,自主的",
+          "n.部,局,处,科,部门;系,学部",
+          "a.依靠的,依赖的,从属的;随…而定的",
+          "n.子孙,后代"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ pend（悬挂）+ -ent（形容词后缀）→ 向下悬挂的 → 依附于某物而悬着 → 依靠的、依赖的。核心动作：某物悬垂于另一物之上，其状态由下方支撑物决定。",
+        "similarWarning": "independent（in-否定 + dependent → 独立的）：拼写差异为前缀 in-；descendant（descend-下降 + -ant → 后代）：拼写差异为 descend + ant，与 depend 词根不同；department（de- + part-部分 + -ment → 部门）：拼写差异为 part 而非 pend。",
+        "extendedMeaning": "随…而定的（be dependent on）：强调结果由条件决定，如考研翻译中“Success is dependent on effort.”。",
+        "examUsage": "be dependent on 表示“取决于”，真题中常与 rely on 形成同义替换，干扰项易与 independent of 混淆。"
+      }
+    },
+    {
+      "id": "depict",
+      "word": "depict",
+      "phonetic": "/di'pikt/",
+      "meaning": "v.描绘;描写,描述",
+      "similar": [
+        "deficit",
+        "deduct",
+        "defect",
+        "depart",
+        "detect",
+        "device",
+        "dedicate",
+        "delicate"
+      ],
+      "question": {
+        "wordId": "depict",
+        "stem": "选择 \"depict\" 的正确中文意思：",
+        "correct": "v.描绘;描写,描述",
+        "options": [
+          "v.描绘;描写,描述",
+          "n.过失;缺点;不足",
+          "n.赤字,逆差;亏损,亏空;不足,缺乏",
+          "vt.扣除;演绎(推理)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（向下，完全）+ pict（画，描绘）。核心物理动作：完全画下来→描绘、描述。",
+        "similarWarning": "deficit（de-下+fic做+it→不足），deduct（de-向下+duct引导→减去），defect（de-向下+fect做→缺陷），detect（de-除去+tect覆盖→察觉），device（de-分开+vic路→装置），dedicate（de-强调+dict说→奉献），delicate（de-强调+lic引诱+ate→精致的）。",
+        "extendedMeaning": "在考研阅读中，depict常引申为‘刻画（人物/社会现象）’，强调通过语言或艺术手段生动呈现，如depict the harsh reality（刻画严酷现实）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "deposit",
+      "word": "deposit",
+      "phonetic": "/dɪ'pɒzɪt/",
+      "meaning": "v.存放;使沉淀;付(保证金) n.存款;沉积物",
+      "similar": [],
+      "question": {
+        "wordId": "deposit",
+        "stem": "选择 \"deposit\" 的正确中文意思：",
+        "correct": "v.存放;使沉淀;付(保证金) n.存款;沉积物",
+        "options": [
+          "vi.成功；继承，接替 vt.接替；继…之后",
+          "n.投资,投资额",
+          "v.存放;使沉淀;付(保证金) n.存款;沉积物",
+          "n.自治，自治权；"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ posit（放置）= 向下放置 → 存放、沉淀。核心动作是“放下、搁置”，引申为把东西放在某处保存（存款）或物质自然下沉（沉积物）。",
+        "similarWarning": "opposite（相反的）: op-（相反）+ posit（放置）→ 放在对面 → 相反的。deposit 与 opposite 共享词根 posit，但前缀 de-（向下）与 op-（相反）区别明显，拼写差异在首字母 d 与 o。",
+        "extendedMeaning": "定金、押金（如 security deposit 押金）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "depress",
+      "word": "depress",
+      "phonetic": "/di'pres/",
+      "meaning": "v.压抑,降低;使沮丧,压下",
+      "similar": [
+        "press",
+        "express",
+        "impress",
+        "oppress",
+        "compress",
+        "decrease",
+        "distress",
+        "suppress"
+      ],
+      "question": {
+        "wordId": "depress",
+        "stem": "选择 \"depress\" 的正确中文意思：",
+        "correct": "v.压抑,降低;使沮丧,压下",
+        "options": [
+          "v.表达,表示 a.特快的,快速的 n.快车,快运",
+          "v.(on)印,盖印;留下印象,引人注目",
+          "v.压;压榨;紧迫,催促 n.报刊,通讯社;压榨机",
+          "v.压抑,降低;使沮丧,压下"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ press（压）→ 向下压，核心物理动作是“施加向下的力”，引申为情绪上的“压抑”或经济上的“降低”。",
+        "similarWarning": "decrease（v./n.减少）与depress区别：decrease侧重数量或程度的“减少”，词根cre-（生长）；depress侧重“压低”状态，词根press（压）。distress（n./v.痛苦，贫困）与depress拼写差异：dis-（分离/否定）+ stress（拉紧），强调“极度忧虑”；depress更强调“低沉、压抑”的持续状态。",
+        "extendedMeaning": "经济语境中常考“使萧条，使不景气”，如depress the economy（使经济萧条）；医学或心理学中“使抑郁”，如depressed mood（抑郁情绪）。",
+        "examUsage": "真题高频搭配：be depressed about/over sth.（因某事感到沮丧）；depressed area（经济萧条地区，常作阅读背景词）。"
+      }
+    },
+    {
+      "id": "deprive",
+      "word": "deprive",
+      "phonetic": "/di'praiv/",
+      "meaning": "vt.剥夺,夺去,使丧失",
+      "similar": [
+        "derive",
+        "deceive",
+        "decisive",
+        "describe",
+        "retrieve"
+      ],
+      "question": {
+        "wordId": "deprive",
+        "stem": "选择 \"deprive\" 的正确中文意思：",
+        "correct": "vt.剥夺,夺去,使丧失",
+        "options": [
+          "vt.剥夺,夺去,使丧失",
+          "v.取得;导出;引申;来自;源自;出自",
+          "v.欺骗,蒙蔽",
+          "a.决定性的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（向下，剥离）+ prive（来自拉丁语privare，意为“使个人化，分离”）。核心物理动作：将某物从某人身边“向下拉走”，使其私人所有物被移除。词义本源：剥夺某人拥有的东西或权利。",
+        "similarWarning": "derive（de-向下+rive溪流→源出，起源）与deprive拼写差异在“v” vs “r”，但词根不同：derive强调来源，deprive强调夺走。drive（驾驶）拼写近似但无关联。",
+        "extendedMeaning": "在考研语境中，deprive常引申为“使丧失（抽象权利、机会、能力等）”，如deprive sb. of the right to vote（剥夺选举权）。",
+        "examUsage": "真题考点：deprive常与of搭配构成固定短语deprive sb. of sth.，是完形填空和翻译中的高频搭配。例句：The new law will deprive citizens of their privacy.（新法律将剥夺公民的隐私。）"
+      }
+    },
+    {
+      "id": "depth",
+      "word": "depth",
+      "phonetic": "/depθ/",
+      "meaning": "n.深，深度,深奥,深刻",
+      "similar": [
+        "deputy",
+        "debt"
+      ],
+      "question": {
+        "wordId": "depth",
+        "stem": "选择 \"depth\" 的正确中文意思：",
+        "correct": "n.深，深度,深奥,深刻",
+        "options": [
+          "n.代理人,代表 a.副的,代理的",
+          "n.深，深度,深奥,深刻",
+          "a.潜在的,潜伏的,不易察觉的",
+          "n.债,债务"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古英语‘dēop’（深）+ 名词后缀‘-th’（表状态/性质），核心动作是“延伸至底部”，强调从表面到底部的垂直距离或抽象层面的深刻程度。",
+        "similarWarning": "death（死亡）：字母‘a’替换‘e’，词义从‘深度’变为‘终结’；deputy（代表）：添加‘u’和‘ty’，词根‘put-’（思考）引申为‘代理’；debt（债务）：字母‘b’替换‘p’，词源‘debere’（欠钱）表示‘欠款’。",
+        "extendedMeaning": "考研中常考抽象义：①（思想的）深度、深刻性，如‘the depth of analysis’（分析的深度）；②（情感的）强烈程度，如‘depth of feeling’（深情）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "deputy",
+      "word": "deputy",
+      "phonetic": "/'depjuti/",
+      "meaning": "n.代理人,代表 a.副的,代理的",
+      "similar": [
+        "duty",
+        "depth",
+        "beauty"
+      ],
+      "question": {
+        "wordId": "deputy",
+        "stem": "选择 \"deputy\" 的正确中文意思：",
+        "correct": "n.代理人,代表 a.副的,代理的",
+        "options": [
+          "n.深，深度,深奥,深刻",
+          "n.代理人,代表 a.副的,代理的",
+          "n.美，美丽；美人，美丽的事物",
+          "n.义务,责任;职务;税"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "de-（向下、强调）+ put（放置、思考）+ -y（名词后缀）→ 被放在下面（替上级）执行任务的人 → 代理人、副手。核心动作：被放置在下位以代表上位行事。",
+        "similarWarning": "duty（n. 职责、税）：仅差字母‘y’替换为‘ty’，但duty强调应尽的责任或关税，deputy强调代理他人职务的角色。depth（n. 深度）：字母‘u’变‘th’，概念完全不同。beauty（n. 美丽）：首字母b与d差异，词义无关联。",
+        "extendedMeaning": "在考研真题中，deputy常引申为‘副职’（如deputy director副局长），或用于法律语境指‘代理行使职权者’。",
+        "examUsage": "常见搭配：deputy director/manager（副总监/副经理），act as deputy（担任代理）。真题考点：常与representative、delegate同义替换，但deputy强调正式授权的替代身份。"
+      }
+    },
+    {
+      "id": "derive",
+      "word": "derive",
+      "phonetic": "/dɪ'raɪv/",
+      "meaning": "v.取得;导出;引申;来自;源自;出自",
+      "similar": [
+        "deprive",
+        "deceive",
+        "deliver",
+        "dive",
+        "nerve",
+        "serve",
+        "arrive",
+        "decide"
+      ],
+      "question": {
+        "wordId": "derive",
+        "stem": "选择 \"derive\" 的正确中文意思：",
+        "correct": "v.取得;导出;引申;来自;源自;出自",
+        "options": [
+          "v.交付,递送;发表,表达;释放;接生",
+          "v.欺骗,蒙蔽",
+          "vt.剥夺,夺去,使丧失",
+          "v.取得;导出;引申;来自;源自;出自"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 derivare，de-（向下，从）+ rivus（溪流），本义是“从溪流中引水”，引申为“从源头获取、导出”。核心动作：从某处引导或提取出来。",
+        "similarWarning": "deprive（de- 去除 + prive 私人，剥夺）；drive（驾驶，驱动）；deceive（de- 偏离 + ceive 拿，欺骗）；deliver（de- 完全 + liver 释放，递送）；dive（潜水）；nerve（神经）；serve（服务）；arrive（到达）。",
+        "extendedMeaning": "在考研真题中常考“来源于，源自于”的用法，如 derive from，强调因果关系或起源。",
+        "examUsage": "固定搭配：derive from（源自，从...中获得）。真题例句：Many of the key concepts in modern physics derive from Einstein's theories.（现代物理学中的许多关键概念源自爱因斯坦的理论。）"
+      }
+    },
+    {
+      "id": "descend",
+      "word": "descend",
+      "phonetic": "/di'send/",
+      "meaning": "v.下来,下降;遗传(指财产,气质,权利)",
+      "similar": [
+        "descent",
+        "ascend",
+        "decent",
+        "defend",
+        "depend"
+      ],
+      "question": {
+        "wordId": "descend",
+        "stem": "选择 \"descend\" 的正确中文意思：",
+        "correct": "v.下来,下降;遗传(指财产,气质,权利)",
+        "options": [
+          "n.下降,降下;斜坡;血统,家世",
+          "vi.渐渐上升，升高vt.攀登，登上",
+          "a.体面的;正派的,合乎礼仪的;合适的",
+          "v.下来,下降;遗传(指财产,气质,权利)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ scend（爬，攀）→ 向下爬 → 下来，下降；引申为财产、气质等向下传承（遗传）",
+        "similarWarning": "descent（n.下降，血统）：descend的动词变名词；ascend（v.上升）：a-（向上）+ scend，与descend方向相反；decent（adj.得体的）：拼写近似但无词源关联；defend（v.防御）：de-（离开）+ fend（打击），与descend无关；depend（v.依赖）：de-（向下）+ pend（悬挂），注意scend与pend区别",
+        "extendedMeaning": "遗传，传给（尤指财产、权利、气质等）：The estate descended to his son.（遗产传给了他儿子。）",
+        "examUsage": "真题考点：descend from（由…传下来，起源于），如：The tradition descends from ancient times.（该传统起源于古代。）常与descendant（后裔）搭配考查"
+      }
+    },
+    {
+      "id": "descendant",
+      "word": "descendant",
+      "phonetic": "/di'sendənt/",
+      "meaning": "n.子孙,后代",
+      "similar": [
+        "dependent",
+        "attendant",
+        "redundant"
+      ],
+      "question": {
+        "wordId": "descendant",
+        "stem": "选择 \"descendant\" 的正确中文意思：",
+        "correct": "n.子孙,后代",
+        "options": [
+          "a.多余的,过剩的;(食物)丰富的;被解雇的",
+          "n.陪从；出席人；服务员 a.出席的；伴随的",
+          "a.依靠的,依赖的,从属的;随…而定的",
+          "n.子孙,后代"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ scend（爬）+ -ant（人/物）→向下爬的人→后代。核心动作：从上辈向下延伸的血脉。",
+        "similarWarning": "dependent（依赖的，de-+pend-悬挂+ent）→悬挂在下的；attendant（服务员，at-加强+tend-伸展+ant）→伸展在旁的人；redundant（冗余的，re-再+und-波浪+ant）→波浪反复→多余。差异：descendant强调血统向下，dependent侧重依附，attendant侧重在场，redundant侧重多余。",
+        "extendedMeaning": "考研中可引申为“追随者”或“衍生事物”，如：a descendant of the original theory（原始理论的衍生版本）。",
+        "examUsage": "真题考点：常与ancestor（祖先）对比出现，干扰项多为dependent（依赖者）或attendant（随从）。固定搭配：direct descendant（直系后代）。例句：The language is a direct descendant of Latin.（此语言直接源自拉丁语。）"
+      }
+    },
+    {
+      "id": "descent",
+      "word": "descent",
+      "phonetic": "/di'sent/",
+      "meaning": "n.下降,降下;斜坡;血统,家世",
+      "similar": [
+        "decent",
+        "descend",
+        "scent",
+        "deceit",
+        "desert",
+        "resent",
+        "dessert",
+        "percent"
+      ],
+      "question": {
+        "wordId": "descent",
+        "stem": "选择 \"descent\" 的正确中文意思：",
+        "correct": "n.下降,降下;斜坡;血统,家世",
+        "options": [
+          "a.体面的;正派的,合乎礼仪的;合适的",
+          "n.气味,香味,香水,线索,嗅觉 v.嗅,发觉",
+          "n.下降,降下;斜坡;血统,家世",
+          "v.下来,下降;遗传(指财产,气质,权利)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ scend（爬，来自拉丁语 scandere“攀登”）→ 向下爬 → 下降。核心物理动作：从高处向低处移动。引申为斜坡（向下延伸的地形）和血统（家族世系自上而下的传承）。",
+        "similarWarning": "decent（a.得体的；de-+cent-百→“十分”→体面）vs descent（n.下降）：字母 c/s 差异；descend（v.下降）vs descent（n.下降）：动词/名词后缀变化；scent（n.气味；s-外+cent-闻→散发气味）vs descent：首字母 s- vs de-；deceit（n.欺骗；de-+ceit-拿→暗中拿走→欺骗）vs descent：-ceit vs -cent；desert（v.抛弃/n.沙漠；de-+sert-结合→分离→抛弃）vs descent：-sert vs -scent；recent（a.最近的；re-+cent-新→新近的）vs descent：首字母 re- vs de-；resent（v.怨恨；re-+sent-感觉→反感）vs descent：-sent vs -scent；dessert（n.甜点；des-+sert-服务→最后一道菜）vs descent：双s vs sc。",
+        "extendedMeaning": "血统、出身（考研高频引申义）：指家族遗传或社会阶层背景，如“of noble descent”（贵族出身）。",
+        "examUsage": "真题考点：常与“ancestry”（祖先）、“lineage”（世系）同义���换，干扰项常设“decent”（体面的）或“descend”（动词下降）。例句：The family is of French descent.（该家族有法国血统。）"
+      }
+    },
+    {
+      "id": "describe",
+      "word": "describe",
+      "phonetic": "/di'skraib/",
+      "meaning": "v.描述,形容",
+      "similar": [
+        "prescribe",
+        "desirable",
+        "subscribe",
+        "decide",
+        "derive",
+        "desire",
+        "deceive",
+        "decline"
+      ],
+      "question": {
+        "wordId": "describe",
+        "stem": "选择 \"describe\" 的正确中文意思：",
+        "correct": "v.描述,形容",
+        "options": [
+          "v.描述,形容",
+          "v.指示,规定;处(方),开(药)",
+          "a.值得做的;合意的,称心的;期望得到的",
+          "vi.(to)订阅，订购；同意vt.捐助，赞助"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ scribe（写）→ 向下写 → 详细记录、描述",
+        "similarWarning": "prescribe（pre-预先+scribe写→预先写→开药方/规定）；subscribe（sub-下面+scribe写→在下方签名→订阅/同意）；describe（de-向下+scribe写→描述）",
+        "extendedMeaning": "考研僻义：刻画、展现（某种特征或状态），如“The painting describes a peaceful scene.”（这幅画展现了一个宁静的场景。）",
+        "examUsage": "真题考点：常用于被动结构“be described as...”意为“被描述为...”，是完形填空和阅读中常见搭配。"
+      }
+    },
+    {
+      "id": "description",
+      "word": "description",
+      "phonetic": "/di'skripʃən/",
+      "meaning": "n.描写,形容;种类",
+      "similar": [
+        "prescription",
+        "destruction",
+        "exception",
+        "reception",
+        "definition",
+        "recreation",
+        "destination",
+        "reservation"
+      ],
+      "question": {
+        "wordId": "description",
+        "stem": "选择 \"description\" 的正确中文意思：",
+        "correct": "n.描写,形容;种类",
+        "options": [
+          "n.例外,除外;反对;异议",
+          "n.毁坏，毁灭(的原因)",
+          "n.药方,处方",
+          "n.描写,形容;种类"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ script（写）+ -ion（名词后缀）→ 向下写（详细记录）→ 描写、描述。核心动作：把事物特征通过语言“写下来”。",
+        "similarWarning": "prescription（pre-预先 + script写 → 预先写好的 → 处方、规定）；destruction（de-向下 + struct建造 → 向下拆毁 → 破坏）；distinction（dis-分开 + stinct刺 → 分开刺出标记 → 区别、优秀）。注意：description与prescription仅前缀不同，前者是“描述”，后者是“处方”。",
+        "extendedMeaning": "（考研真题中常考）种类、类型（= kind, type），如：books of every description（各种各样的书）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "desert",
+      "word": "desert",
+      "phonetic": "/'dezət/",
+      "meaning": "n.沙漠,不毛之地 v.抛弃,遗弃;擅离,开小差",
+      "similar": [
+        "dessert",
+        "descent",
+        "deserve",
+        "deer",
+        "exert",
+        "assert",
+        "deceit",
+        "decent"
+      ],
+      "question": {
+        "wordId": "desert",
+        "stem": "选择 \"desert\" 的正确中文意思：",
+        "correct": "n.沙漠,不毛之地 v.抛弃,遗弃;擅离,开小差",
+        "options": [
+          "n.下降,降下;斜坡;血统,家世",
+          "n.沙漠,不毛之地 v.抛弃,遗弃;擅离,开小差",
+          "n.正餐后的水果或甜食",
+          "v.应受,值得"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "de-（分离、去掉）+ sert（结合、加入）。核心物理动作：本义是“脱离结合”，即从原来连接或归属的地方离开。用于土地，指被遗弃、无人居住的荒芜之地（沙漠）；用于人，指抛弃、离开（遗弃、擅离职守）。",
+        "similarWarning": "desert（抛弃/沙漠）vs dessert（甜点）: 后者多一个s，源于法语，指餐后“撤去”餐具后上的食物。descent（下降）: 词根scend（爬），de-向下，即“向下爬”。deserve（值得）: de-（加强）+ serve（服务），意为“应得服务”。",
+        "extendedMeaning": "熟词僻义：在考研中常考动词“擅离职守、开小差”，如军事语境：desert the army（开小差）。",
+        "examUsage": "真题考点：常与abandon混淆，但desert强调违背承诺或义务的离开，如desert one's post（擅离职守）。真题例句：He deserted his family.（他抛弃了家人。）"
+      }
+    },
+    {
+      "id": "deserve",
+      "word": "deserve",
+      "phonetic": "/di'zə:v/",
+      "meaning": "v.应受,值得",
+      "similar": [
+        "reserve",
+        "preserve",
+        "serve",
+        "desert",
+        "desire",
+        "deceive",
+        "observe",
+        "desperate"
+      ],
+      "question": {
+        "wordId": "deserve",
+        "stem": "选择 \"deserve\" 的正确中文意思：",
+        "correct": "v.应受,值得",
+        "options": [
+          "v.保护,维持;保存,保藏",
+          "v.服务,尽责;招待,侍候;符合,适用",
+          "n.储备(物),储备金;缄默 v.保留,储备;预定",
+          "v.应受,值得"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（完全，加强）+ serve（服务，侍奉）→ 原指因服务而应得回报，引申为“应受，值得”。核心动作：因行为或品质而理应获得某种结果。",
+        "similarWarning": "reserve（re-回+serve→保留），preserve（pre-前+serve→保存），desert（de-离开+sert→抛弃；注意拼写差异：deserve末尾是-e-r-v-e，desert是-e-r-t），desire（无serve词根，意为渴望）。",
+        "extendedMeaning": "在考研外刊中常表“值得（关注、考虑等）”，如deserve attention/scrunity（值得关注/审视），强调客观必要性。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "design",
+      "word": "design",
+      "phonetic": "/di'zain/",
+      "meaning": "v.设计;构思;绘制;图案;企图 n.设计,图样",
+      "similar": [
+        "resign",
+        "sign",
+        "reign",
+        "assign",
+        "benign",
+        "desire",
+        "decision"
+      ],
+      "question": {
+        "wordId": "design",
+        "stem": "选择 \"design\" 的正确中文意思：",
+        "correct": "v.设计;构思;绘制;图案;企图 n.设计,图样",
+        "options": [
+          "v.设计;构思;绘制;图案;企图 n.设计,图样",
+          "v.辞去,辞职,使听从(于),使顺从",
+          "n.标记,招牌;征兆,迹象v.签名(于),署名(于)",
+          "n./v.统治,支配,盛行 n.统治时期 v.占优势"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ sign（标记、符号）。字面义为‘向下做标记’，即先在心中或纸上‘定下标记或符号’，引申为‘设计、构思、绘制图案’。核心动作：通过标记来规划和设定目标。",
+        "similarWarning": "resign (re-再/回+sign签名→辞职/顺从)；assign (as-向+sign→分配/指派)；desire (de-加强+ sire星辰→渴望，与design拼写仅差 's' vs 'sire'，但词义无关)。",
+        "extendedMeaning": "【考研僻义】n. 意图；目的；图谋。如：by design（故意地）。常见于阅读中表示‘有预谋的’而非‘设计的’。",
+        "examUsage": "【真题考点】by design 与 by accident 对比（2010年阅读），常考‘故意’与‘偶然’语义对立。"
+      }
+    },
+    {
+      "id": "designate",
+      "word": "designate",
+      "phonetic": "/'dezigneit/",
+      "meaning": "v.指明,指出;任命,指派",
+      "similar": [
+        "deviate",
+        "dedicate",
+        "definite",
+        "delegate",
+        "delicate",
+        "desolate",
+        "dominate",
+        "emigrate"
+      ],
+      "question": {
+        "wordId": "designate",
+        "stem": "选择 \"designate\" 的正确中文意思：",
+        "correct": "v.指明,指出;任命,指派",
+        "options": [
+          "a.明确的;一定的;意志坚强的,立场坚定的",
+          "v.(from)背离,偏离",
+          "v.指明,指出;任命,指派",
+          "vt.奉献;献身于"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ sign（标记、符号）+ -ate（动词后缀）→ 做标记以指定 → 引申为“指明、指出”和“任命、指派”。核心动作是“用标记明确指向”。",
+        "similarWarning": "deviate（de-偏离+via路→偏离正道）、dedicate（de-加强+dict说→宣誓奉献）、definite（de-加强+fin界限→明确的）、delegate（de-离开+leg派遣→委派代表）、delicate（de-加强+lic诱惑→精致的）、desolate（de-完全+sol孤独→荒凉的）、dominate（domin统治→支配）、emigrate（e-向外+migr迁移→移居国外）。区别在于词根：designate的sign（标记）是关键。",
+        "extendedMeaning": "【考研僻义】在科技或法律文本中可表“标示、命名”，如“designate a file”指定文件；在正式语境中可作“称…为”，如“be designated as ‘the crisis’”。",
+        "examUsage": "【真题考点】常考搭配：designate sb. as/to be...（任命某人为…）；be designated for（被指定用于…）。真题例句：The area was designated as a national park.（该区域被指定为国家公园。）注意与appoint（侧重职位任命）的区别。"
+      }
+    },
+    {
+      "id": "desirable",
+      "word": "desirable",
+      "phonetic": "/di'zaiərəbl/",
+      "meaning": "a.值得做的;合意的,称心的;期望得到的",
+      "similar": [
+        "disable",
+        "durable",
+        "describe",
+        "reliable",
+        "miserable",
+        "inevitable",
+        "preferable",
+        "reasonable"
+      ],
+      "question": {
+        "wordId": "desirable",
+        "stem": "选择 \"desirable\" 的正确中文意思：",
+        "correct": "a.值得做的;合意的,称心的;期望得到的",
+        "options": [
+          "v.描述,形容",
+          "a.持久的,耐久的",
+          "vt.使残废;使失去能力;丧失能力",
+          "a.值得做的;合意的,称心的;期望得到的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "desire（渴望）+ -able（能…的）→ 能够引起渴望的，即“合意的，值得做的”。核心动作：某物因其品质或价值，使人产生想要得到它的心理倾向。",
+        "similarWarning": "disable（使无能）: dis-（否定）+ able（能力）→ 使失去能力；desirable 强调“值得渴望”，disable 强调“使不能”。拼写差异：desirable 有 desire，disable 有 dis- + able。",
+        "extendedMeaning": "在考研语境中，desirable 常引申为“理想的、最优的”，用于描述方案、结果或特质，如 a desirable outcome（理想的结果），而非仅指“合意”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "desire",
+      "word": "desire",
+      "phonetic": "/di'zaiə/",
+      "meaning": "v./n.愿望,欲望,要求",
+      "similar": [
+        "deserve",
+        "despise",
+        "despite",
+        "beside",
+        "decide",
+        "define",
+        "derive",
+        "desert"
+      ],
+      "question": {
+        "wordId": "desire",
+        "stem": "选择 \"desire\" 的正确中文意思：",
+        "correct": "v./n.愿望,欲望,要求",
+        "options": [
+          "v./n.愿望,欲望,要求",
+          "v.应受,值得",
+          "v.轻视,蔑视",
+          "prep.不管,不顾"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语desiderare，由de-（向下）+siderare（星星；观察星象）构成，字面意为‘因缺失而仰望星辰’，核心物理动作为‘缺失-期盼’，引申为强烈想要得到某物或达到某种状态。",
+        "similarWarning": "desire vs. desert: desire含字母i（I想要），desert含e（沙漠/抛弃），拼写差异在第三字母。desire vs. deserve: desire无字母v（价值），deserve含v（值得），差异在第四字母。desire vs. despise: desire表渴望，despise表鄙视，词根相反。",
+        "extendedMeaning": "考研僻义：作为动词，可表‘性欲、情欲’（sexual desire），在文学或社会文化类阅读中偶现。",
+        "examUsage": "考点：desire常出现在‘desire to do’（渴望做）结构中，真题干扰项多混淆desire与require（要求），注意desire侧重主观意愿，require侧重客观需要。"
+      }
+    },
+    {
+      "id": "desk",
+      "word": "desk",
+      "phonetic": "/desk/",
+      "meaning": "n.书桌，办公桌，服务台",
+      "similar": [
+        "deck",
+        "dusk",
+        "dense"
+      ],
+      "question": {
+        "wordId": "desk",
+        "stem": "选择 \"desk\" 的正确中文意思：",
+        "correct": "n.书桌，办公桌，服务台",
+        "options": [
+          "a.浓厚的,密集的,稠密的",
+          "n.书桌，办公桌，服务台",
+          "n.甲板",
+          "n.薄暮,黄昏"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'discus'（圆盘），经希腊语 'diskos' 进入古法语为 'desque'，指写字用的平桌。核心动作：一个平坦的支撑面，用于书写或放置物品。",
+        "similarWarning": "deck（甲板，与 desk 差 -c vs -sk）；dusk（黄昏，元音 u 与 e 不同）；dense（密集的，结尾 -nse 与 -sk 异）；dress（穿衣，首字母相同但词根无关）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "desolate",
+      "word": "desolate",
+      "phonetic": "/'desələt/",
+      "meaning": "a.荒凉的;孤独的 v.使荒芜",
+      "similar": [
+        "isolate",
+        "decorate",
+        "resolute",
+        "designate",
+        "desperate",
+        "debate",
+        "delete",
+        "denote"
+      ],
+      "question": {
+        "wordId": "desolate",
+        "stem": "选择 \"desolate\" 的正确中文意思：",
+        "correct": "a.荒凉的;孤独的 v.使荒芜",
+        "options": [
+          "a.坚决的,果断的",
+          "v.装饰,装璜,布置",
+          "vt.隔离,孤立",
+          "a.荒凉的;孤独的 v.使荒芜"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（完全） + sol-（孤独） + -ate（形容词/动词后缀） → 完全孤独的 → 引申为荒凉的、使荒芜。核心动作：使某地或某人彻底孤立无援。",
+        "similarWarning": "desolate vs. isolate（使隔离）：desolate强调彻底荒废、孤独凄凉，常指环境或情感；isolate仅指物理或社交上的隔离，不包含荒芜感。\ndesolate vs. desperate（绝望的）：desperate强调因绝望而不顾一切，desolate侧重孤寂、荒凉。\ndesolate vs. designate（指定）：拼写差异在‘sol’与‘sign’，意义无关。",
+        "extendedMeaning": "考研僻义：在文学或情感语境中，desolate可作形容词表‘凄凉的、孤寂的’（如a desolate heart），或动词表‘使极度悲伤、使绝望’（如The news desolated him）。",
+        "examUsage": "真题考点：常见搭配‘a desolate landscape’（荒凉的景象）或‘feel desolate’（感到孤寂）。注意与desperate在情感色彩上的区分：desolate侧重孤独凄凉，desperate侧重绝望疯狂。"
+      }
+    },
+    {
+      "id": "despair",
+      "word": "despair",
+      "phonetic": "/di'spεə/",
+      "meaning": "n.绝望;失望;令人失望的人(事物)v.绝望",
+      "similar": [
+        "repair",
+        "despatch"
+      ],
+      "question": {
+        "wordId": "despair",
+        "stem": "选择 \"despair\" 的正确中文意思：",
+        "correct": "n.绝望;失望;令人失望的人(事物)v.绝望",
+        "options": [
+          "n.绝望;失望;令人失望的人(事物)v.绝望",
+          "n.修理,修补 v.补救,纠正;修理",
+          "n./v.(dispatch)派遣;发送 n.急件;新闻报道",
+          "vt.把…嵌(埋、插)入，扎牢；使深留脑中"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（向下，否定）+ sper（希望，来自拉丁语sperare“希望”）。字面义为“失去希望”，即绝望、失望。核心动作：希望向下沉落至无。",
+        "similarWarning": "repair（re-再次+ pair整理，意为修理），despatch（de-+spatch派遣，为dispatch变体，意为派遣）。区别：despair中spair源于sper（希望），而repair中pair源于parare（准备），despatch中spatch源于派送动作。",
+        "extendedMeaning": "在考研英语中，despair常引申为“令人绝望的状态或事物”，如in despair（绝望中），但更高级用法可作动词后接of，表示“对…丧失信心”，如despair of success（对成功绝望）。",
+        "examUsage": "常考搭配：despair of doing sth.（对做某事绝望），如真题例句：He despaired of finding a solution.（他对找到解决方案绝望了。）注意与desperate（不顾一切的）区分，后者强调因绝望而冒险。"
+      }
+    },
+    {
+      "id": "despatch",
+      "word": "despatch",
+      "phonetic": "/di'spætʃ/",
+      "meaning": "n./v.(dispatch)派遣;发送 n.急件;新闻报道",
+      "similar": [
+        "detach",
+        "snatch",
+        "despair",
+        "despite",
+        "research"
+      ],
+      "question": {
+        "wordId": "despatch",
+        "stem": "选择 \"despatch\" 的正确中文意思：",
+        "correct": "n./v.(dispatch)派遣;发送 n.急件;新闻报道",
+        "options": [
+          "n.绝望;失望;令人失望的人(事物)v.绝望",
+          "n./v.攫取,抢夺",
+          "vt.分开, 分离, 分遣, 派遣(军队)",
+          "n./v.(dispatch)派遣;发送 n.急件;新闻报道"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自意大利语 'dispacciare'（加速处理），由 'dis-'（分离、加强）与 'pacciare'（打包、束缚）演变，核心动作是“解开束缚以便快速发送”。des-变体同dis-，-patch源自拉丁语 'pactus'（固定、约定），本义为“解除约定或束缚，使快速移动”，引申为派遣、发送，以及急件（需快速处理的消息）或新闻报道（需迅速传递的资讯）。",
+        "similarWarning": "detach（分离，de- + tach 系住，强调物理移除）；snatch（抢夺，sn- 鼻音化，与抓取动作相关）；despair（绝望，de- + sper 希望，否定希望）；despite（尽管，de- + spite 看，即看不起，转意为“不顾”）；research（研究，re- + search 搜索，重复搜索）。despatch与detach拼写差异在 'patch' vs 'tach'，前者强调“打包发送”，后者强调“解开分离”。",
+        "extendedMeaning": "考研中常考其名词义“急件”与“新闻报道”，如 'despatch from the front'（前线发回的急报/报道），区别于普通 letter 或 message。",
+        "examUsage": "真题中常以动词形式出现：'despatch goods'（发货），或名词 'despatch rider'（通信员/急件信使）。注意与 'dispatch' 完全通用，拼写差异不构成考点。"
+      }
+    },
+    {
+      "id": "desperate",
+      "word": "desperate",
+      "phonetic": "/'despərət/",
+      "meaning": "a.不顾一切的，铤而走险的；绝望的，危急的",
+      "similar": [
+        "degenerate",
+        "deliberate",
+        "deserve",
+        "despite",
+        "dessert",
+        "operate",
+        "decorate",
+        "delegate"
+      ],
+      "question": {
+        "wordId": "desperate",
+        "stem": "选择 \"desperate\" 的正确中文意思：",
+        "correct": "a.不顾一切的，铤而走险的；绝望的，危急的",
+        "options": [
+          "v.衰退,堕落,蜕化 a.堕落的 n.堕落者",
+          "v.应受,值得",
+          "a.深思熟虑的,故意的 vt.研讨,商讨",
+          "a.不顾一切的，铤而走险的；绝望的，危急的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-（向下，分离）+ sper（希望）+ -ate（形容词后缀）→ 希望向下掉落，即失去希望→ 绝望的，进而引申为因绝望而不顾一切的。核心物理动作：希望坠落。",
+        "similarWarning": "desperate vs. deliberate（故意的）：desperate含sper（希望），deliberate含liber（称量、权衡），前者侧重绝望冲动，后者侧重有意为之。desperate vs. despite（尽管）：despite中spite（恶意），拼写仅差一字母，但词源和语义完全不同。",
+        "extendedMeaning": "考研常考“极其严重的，危急的”，如a desperate shortage（极度短缺），desperate need（迫切需要），侧重程度之深，非仅情绪上的绝望。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "despise",
+      "word": "despise",
+      "phonetic": "/di'spaiz/",
+      "meaning": "v.轻视,蔑视",
+      "similar": [
+        "despite",
+        "desire",
+        "devise",
+        "dispose",
+        "describe",
+        "disguise",
+        "disperse",
+        "response"
+      ],
+      "question": {
+        "wordId": "despise",
+        "stem": "选择 \"despise\" 的正确中文意思：",
+        "correct": "v.轻视,蔑视",
+        "options": [
+          "vt.设计;发明;图谋;作出(计划);想出(办法)",
+          "v.轻视,蔑视",
+          "prep.不管,不顾",
+          "v./n.愿望,欲望,要求"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ spise（看），字面‘向下看’，即轻视、蔑视。源自拉丁语 despicere，核心动作是居高临下地审视，暗含贬低之意。",
+        "similarWarning": "despise vs despite: despise 含‘看’的动作（spise），意为轻视；despite 含 spite（恶意），意为‘尽管’。despise vs disguise: disguise 含 guise（伪装），意为伪装；despise 是直接蔑视。",
+        "extendedMeaning": "在考研语境中，despise 可引申为‘对…不屑一顾’，强调情感上的强烈厌恶与贬低，如 despise the suggestion（鄙视该建议），但此用法较常见，非典型僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "despite",
+      "word": "despite",
+      "phonetic": "/di'spait/",
+      "meaning": "prep.不管,不顾",
+      "similar": [
+        "despise",
+        "spite",
+        "desire",
+        "dispute",
+        "desperate",
+        "definite",
+        "describe",
+        "desolate"
+      ],
+      "question": {
+        "wordId": "despite",
+        "stem": "选择 \"despite\" 的正确中文意思：",
+        "correct": "prep.不管,不顾",
+        "options": [
+          "prep.不管,不顾",
+          "v.轻视,蔑视",
+          "n.恶意;怨恨",
+          "v./n.愿望,欲望,要求"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "de-（向下）+ spite（看，源自拉丁语specere）。本义为“向下看”，引申为“蔑视、不理会”，进而演变为介词“不管、不顾”。核心动作：向下看→轻视→无视条件。",
+        "similarWarning": "despise（v.鄙视）：despite含介词义，despise为动词，拼写差i/e和尾音-s/-ise。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    }
+  ]
+}

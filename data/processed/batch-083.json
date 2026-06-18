@@ -1,0 +1,1590 @@
+{
+  "batchId": 83,
+  "words": [
+    {
+      "id": "typewriter",
+      "word": "typewriter",
+      "phonetic": "/'taipˌraitə/",
+      "meaning": "n.打字机",
+      "similar": [],
+      "question": {
+        "wordId": "typewriter",
+        "stem": "选择 \"typewriter\" 的正确中文意思：",
+        "correct": "n.打字机",
+        "options": [
+          "n.打字机",
+          "n.新纪元;时代;时期;【地质】世,纪,期",
+          "n.周末",
+          "v.举例证明;示范;作...的范例[榜样]"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "type（打字）+ writer（写的东西）→ 组合词，字面即‘打字书写器’，指机械打字机。",
+        "similarWarning": "",
+        "extendedMeaning": "在科技类阅读中可引申为‘老式/过时的记录工具’，非字面意义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "typhoon",
+      "word": "typhoon",
+      "phonetic": "/tai'fu:n/",
+      "meaning": "n.台风",
+      "similar": [],
+      "question": {
+        "wordId": "typhoon",
+        "stem": "选择 \"typhoon\" 的正确中文意思：",
+        "correct": "n.台风",
+        "options": [
+          "a.不可相信的,惊人的,不可思议的",
+          "n.字母表；初步，入门",
+          "n.台风",
+          "vt.离弃，丢弃；遗弃，抛弃；放弃"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自汉语“台风”音译，经阿拉伯语、希腊语、拉丁语等语言辗转进入英语。词源上与希腊语“typhon”（旋风、暴风）有关，后者是神话中的风暴巨人，象征破坏力。核心物理动作：强烈旋转的气流风暴。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "typical",
+      "word": "typical",
+      "phonetic": "/'tipikəl/",
+      "meaning": "a.(of)典型的,有代表性的",
+      "similar": [
+        "tropical"
+      ],
+      "question": {
+        "wordId": "typical",
+        "stem": "选择 \"typical\" 的正确中文意思：",
+        "correct": "a.(of)典型的,有代表性的",
+        "options": [
+          "n.假货，赝品 a.假的，冒充的 v.伪造；伪装",
+          "a.在前的,在先的",
+          "a.(of)典型的,有代表性的",
+          "a.热带的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根typo-（类型，印刻）+ ical（形容词后缀）。字面意为“属于某种类型的”，即具有该类别的共同特征，从而引申为“典型的、有代表性的”。核心动作是“归类、代表”。",
+        "similarWarning": "tropical（trop-转向 + ical，热带）；physical（phys-自然 + ical，物理的）。与typical仅首字母差异，但词根完全不同，无混淆风险。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "typist",
+      "word": "typist",
+      "phonetic": "/'taipist/",
+      "meaning": "n.打字员",
+      "similar": [
+        "twist"
+      ],
+      "question": {
+        "wordId": "typist",
+        "stem": "选择 \"typist\" 的正确中文意思：",
+        "correct": "n.打字员",
+        "options": [
+          "v.捻;拧;扭曲;蜿蜒曲折而行 n.拧;歪曲;曲折",
+          "a.符合条件的;(尤指婚姻等)合适(意)的",
+          "n.打字员",
+          "n./v.否决"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "typ-（词根：type，打字）+ -ist（名词后缀：从事…的人）→ 打字员",
+        "similarWarning": "twist（扭动）：typi-（打字） vs twi-（扭），-st 共同但意义不同",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ugly",
+      "word": "ugly",
+      "phonetic": "/'ʌgli/",
+      "meaning": "a.丑陋的,难看的;丑恶的,讨厌的",
+      "similar": [
+        "bully"
+      ],
+      "question": {
+        "wordId": "ugly",
+        "stem": "选择 \"ugly\" 的正确中文意思：",
+        "correct": "a.丑陋的,难看的;丑恶的,讨厌的",
+        "options": [
+          "a.丑陋的,难看的;丑恶的,讨厌的",
+          "n.公民;市民,居民",
+          "vi.到达；(时间、事件)到来，发生；达到",
+          "n.恃强欺弱者，小流氓 vt.威胁，欺侮"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源来自古诺尔斯语uggligr，由ugga（恐惧）加-ligr（像……的）构成，核心动作是“令人恐惧的”，引申为外表或行为上让人厌恶、不舒服。",
+        "similarWarning": "bully（欺凌者）：b替换u，词源来自boel（情人）贬义化，侧重恃强凌弱的行为；ugly强调外观或道德上的丑陋，两者拼写相近但动作本质不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ultimate",
+      "word": "ultimate",
+      "phonetic": "/'ʌltimət/",
+      "meaning": "a.最后的,最终的;根本的",
+      "similar": [
+        "cultivate",
+        "climate",
+        "estimate",
+        "intimate",
+        "activate",
+        "motivate",
+        "intimidate",
+        "legitimate"
+      ],
+      "question": {
+        "wordId": "ultimate",
+        "stem": "选择 \"ultimate\" 的正确中文意思：",
+        "correct": "a.最后的,最终的;根本的",
+        "options": [
+          "v./n.估计,估价;评估",
+          "a.最后的,最终的;根本的",
+          "n.气候;风气,社会思潮",
+          "v.耕作,栽培,养殖;培养,教养,磨炼"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语\"ultimatus\"，是\"ultimus\"（最后的）的过去分词形式，词根ultim-表\"最后的\"，后缀-ate表形容词。核心动作：到达序列的末端，强调时间或顺序上的最终状态，引申为\"根本的\"，因为最终极的往往是最基础的。",
+        "similarWarning": "形近词辨析：\n- ultimate (ul-ti-mate)：最后的\n- intimate (in-ti-mate)：亲密的（in-在内，intim-最内部）\n- estimate (es-ti-mate)：估计（es-向外，estim-价值）\n- intimidate (in-ti-mi-date)：恐吓（in-使，timid-害怕）\n核心差异：词根ultim- vs intim- vs estim- vs timid-，注意首字母和中间字母的细微变化。",
+        "extendedMeaning": "考研僻义：作名词时表示\"最终结果/终极事物\"（常出现在科技、哲学类议论文中）；在商业语境中可指\"最高级别的\"（如ultimate authority最高权威）。",
+        "examUsage": "真题考点：常见于完形填空和阅读中作为逻辑连接词，与\"eventually, finally\"同义替换；固定搭配\"the ultimate goal\"（最终目标）和\"ultimate responsibility\"（根本责任）常被考查。"
+      }
+    },
+    {
+      "id": "ultraviolet",
+      "word": "ultraviolet",
+      "phonetic": "/ˌʌltrə'vaiələt/",
+      "meaning": "a./n.紫外线(的)",
+      "similar": [],
+      "question": {
+        "wordId": "ultraviolet",
+        "stem": "选择 \"ultraviolet\" 的正确中文意思：",
+        "correct": "a./n.紫外线(的)",
+        "options": [
+          "n.距离,间隔,远方,路程",
+          "n.[总称]牧师，神职人员",
+          "v.(as)把…看作为;考虑n.(pl.)敬重,问候",
+          "a./n.紫外线(的)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "ultra-（超过、极端）+ violet（紫罗兰色）。物理学中，紫光频率最高，紫外线波长比紫光更短（频率更高），故得名“超越紫色之外的光”。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "umbrella",
+      "word": "umbrella",
+      "phonetic": "/ʌm'brelə/",
+      "meaning": "n.伞",
+      "similar": [],
+      "question": {
+        "wordId": "umbrella",
+        "stem": "选择 \"umbrella\" 的正确中文意思：",
+        "correct": "n.伞",
+        "options": [
+          "n.机械装置,机构;机制",
+          "n.伞",
+          "n.颌,颚",
+          "n.垃圾"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语umbra（阴影、影子），本义是“提供阴影的东西”。-ella为指小后缀，合起来即“小阴影”。核心动作/画面：撑开一块遮挡物，制造出一片阴影区域以遮阳或挡雨。",
+        "similarWarning": "",
+        "extendedMeaning": "政治或军事上的“保护伞、庇护”；如“nuclear umbrella”（核保护伞）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "unanimous",
+      "word": "unanimous",
+      "phonetic": "/ju:'næniməs/",
+      "meaning": "a.全体一致的,一致同意的",
+      "similar": [
+        "anonymous"
+      ],
+      "question": {
+        "wordId": "unanimous",
+        "stem": "选择 \"unanimous\" 的正确中文意思：",
+        "correct": "a.全体一致的,一致同意的",
+        "options": [
+          "a.全体一致的,一致同意的",
+          "n. 章；回，篇",
+          "a.匿名的，无名的，姓氏不明的",
+          "n.奴隶,苦工 v.做苦工,拼命地干"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根: un(i)=one(一), anim=spirit/mind(精神/心意), ous=形容词后缀。核心动作: 众人心意合一。字面义: 具有同一心意的 → 全体一致的。",
+        "similarWarning": "anonymous (a.匿名的): 词根 an(=without) + onym(=name) + ous → 无名的。对比: unanimous 含有 anim(心意), anonymous 含有 onym(名字), 拼写差异在 'anim' vs 'anom'。",
+        "extendedMeaning": "（在考研中无特殊僻义，该词字面义即考点。）",
+        "examUsage": "常见搭配: unanimous decision/agreement (一致决定/同意)。真题中常作为强调全体一致的选项出现，干扰项常涉及 partial(部分的) 或 divided(有分歧的)。"
+      }
+    },
+    {
+      "id": "uncle",
+      "word": "uncle",
+      "phonetic": "/'ʌŋkl/",
+      "meaning": "n.伯父，叔父，舅父，姑父，姨父",
+      "similar": [
+        "bundle",
+        "jungle",
+        "muscle",
+        "angle",
+        "ankle",
+        "cycle",
+        "ounce",
+        "unite"
+      ],
+      "question": {
+        "wordId": "uncle",
+        "stem": "选择 \"uncle\" 的正确中文意思：",
+        "correct": "n.伯父，叔父，舅父，姑父，姨父",
+        "options": [
+          "n.捆,包,束",
+          "n.伯父，叔父，舅父，姑父，姨父",
+          "n.肌肉,体力",
+          "n.丛林,生死地带"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根uncle源自拉丁语avunculus（母亲的兄弟），由avus（祖父/祖先）+culus（小称后缀）构成，原意为“小祖父”，指代母亲的兄弟，后泛指父系和母系的男性长辈。",
+        "similarWarning": "无",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "uncover",
+      "word": "uncover",
+      "phonetic": "/ˌʌn'kʌvə/",
+      "meaning": "v.揭开,揭露",
+      "similar": [
+        "cover",
+        "recover",
+        "discover",
+        "recovery",
+        "turnover"
+      ],
+      "question": {
+        "wordId": "uncover",
+        "stem": "选择 \"uncover\" 的正确中文意思：",
+        "correct": "v.揭开,揭露",
+        "options": [
+          "v.揭开,揭露",
+          "v.发现,显示",
+          "v.覆盖,包括,涉及，报道 n.盖子,套子;(书的)封面",
+          "v.收回;(from)恢复,痊愈;重新获得"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "un-（否定前缀）+ cover（覆盖）→ 字面义“去掉覆盖物”→ 引申为揭露、发现隐藏的事物。核心动作：移除遮蔽物，使原本被掩盖的东西可见。",
+        "similarWarning": "cover（覆盖）vs. recover（重新获得，恢复：re-再+cover）vs. discover（发现：dis-去掉+cover→揭开覆盖物→发现）vs. recovery（恢复，复苏）vs. turnover（营业额，翻转：turn+over）",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "underestimate",
+      "word": "underestimate",
+      "phonetic": "/ˌʌndə'estimeit/",
+      "meaning": "vt.低估，看轻",
+      "similar": [
+        "investigate",
+        "necessitate",
+        "undergraduate"
+      ],
+      "question": {
+        "wordId": "underestimate",
+        "stem": "选择 \"underestimate\" 的正确中文意思：",
+        "correct": "vt.低估，看轻",
+        "options": [
+          "vt.低估，看轻",
+          "v.调查,调查研究",
+          "v.使成为必要,需要",
+          "n.大学生,大学肆业生"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：under-（在...之下）+ estimate（估计）。核心动作：估计得低于实际水平。",
+        "similarWarning": "形近词：investigate（调查，in-向内+vestigate追踪）、necessitate（使成为必需，necessity的动词化）、undergraduate（本科生，under-低于+graduate毕业生）。区别在于词根核心：estimate（估价）vs vestigate（追踪）vs necess（必需）vs graduate（毕业）。",
+        "extendedMeaning": "考研僻义：在真题中常引申为“轻视、小看（能力/价值）”，如“underestimate the difficulty of the task”或“underestimate one's potential”。",
+        "examUsage": "真题考点：常与overestimate（高估）形成反义对比，在阅读中作为态度题或细节题的干扰项出现。核心搭配：underestimate the importance/impact of sth.（低估某事的重要性/影响）。例句：The government underestimated the public's concern about environmental pollution.（政府低估了公众对环境污染的担忧。）"
+      }
+    },
+    {
+      "id": "undergo",
+      "word": "undergo",
+      "phonetic": "/ˌʌndə'gəu/",
+      "meaning": "vt.遭受,经历,承受",
+      "similar": [
+        "underlie"
+      ],
+      "question": {
+        "wordId": "undergo",
+        "stem": "选择 \"undergo\" 的正确中文意思：",
+        "correct": "vt.遭受,经历,承受",
+        "options": [
+          "n.碳水化合物; 糖类；(plural)淀粉质或糖类",
+          "v.支配,统治,控制;占优势",
+          "vt.位于...之下, 成为...的基础",
+          "vt.遭受,经历,承受"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "under-（下）+ go（走）→ 在下面走过 → 被动地“经历、承受”某事（如磨难、手术、变化）。",
+        "similarWarning": "underlie（位于…之下，构成…的基础）：undergo强调“经历过程”，underlie强调“底层支撑”。",
+        "extendedMeaning": "在考研阅读中常指“经受（检验、实验）”或“承受（压力、改变）”，如 undergo a transformation（经历转型）。",
+        "examUsage": "常见于被动语态：undergo surgery（接受手术）、undergo changes（经历变化）。真题中常作为“遭受”的同义替换词，与 experience, suffer 辨析。"
+      }
+    },
+    {
+      "id": "undergraduate",
+      "word": "undergraduate",
+      "phonetic": "/ˌʌndə'grædjuət/",
+      "meaning": "n.大学生,大学肆业生",
+      "similar": [
+        "underground",
+        "underestimate"
+      ],
+      "question": {
+        "wordId": "undergraduate",
+        "stem": "选择 \"undergraduate\" 的正确中文意思：",
+        "correct": "n.大学生,大学肆业生",
+        "options": [
+          "vt.低估，看轻",
+          "a.地下的;秘密的 n.地铁 ad.在地下",
+          "v.(at)诅咒,骂人;宣誓,发誓",
+          "n.大学生,大学肆业生"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "under（在...之下）+ graduate（毕业生）→ 尚未毕业的学生，即在校大学生。核心动作：处于毕业状态之下。",
+        "similarWarning": "underground（地下的）：under+ground（地面），指地面之下；underestimate（低估）：under+estimate（估计），指估计不足。与undergraduate相比，词根不同：graduate（毕业）vs ground（地面）vs estimate（估计）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "underground",
+      "word": "underground",
+      "phonetic": "/'ʌndəgraund/",
+      "meaning": "a.地下的;秘密的 n.地铁 ad.在地下",
+      "similar": [
+        "undergraduate"
+      ],
+      "question": {
+        "wordId": "underground",
+        "stem": "选择 \"underground\" 的正确中文意思：",
+        "correct": "a.地下的;秘密的 n.地铁 ad.在地下",
+        "options": [
+          "n.心情,情绪;语气",
+          "ad.在旁边，到一边 n.旁白；离题的话",
+          "n.大学生,大学肆业生",
+          "a.地下的;秘密的 n.地铁 ad.在地下"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "under（下）+ ground（地面）→ 地面以下。核心物理动作：处于地表之下的空间或状态。",
+        "similarWarning": "understand（理解）：under+stand（站立）→ 站在下面（理解）。undergraduate（本科生）：under+graduate（毕业生）→ 未毕业者。差异：underground强调“地下/秘密”，understand表“理解”，undergraduate指“本科生”。",
+        "extendedMeaning": "考研僻义：作形容词时，常表“秘密的、地下的”（如underground movement地下运动）；作名词，在英式英语中表“地铁”（the Underground）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "underlie",
+      "word": "underlie",
+      "phonetic": "/ˌʌndə'lai/",
+      "meaning": "vt.位于...之下, 成为...的基础",
+      "similar": [
+        "underline",
+        "undermine",
+        "underlying",
+        "undertake",
+        "undergo"
+      ],
+      "question": {
+        "wordId": "underlie",
+        "stem": "选择 \"underlie\" 的正确中文意思：",
+        "correct": "vt.位于...之下, 成为...的基础",
+        "options": [
+          "vt.位于...之下, 成为...的基础",
+          "vt.在…下划线;强调",
+          "v.暗中破坏,逐渐削弱;侵蚀…的基础",
+          "a.含蓄的,潜在的;在下面的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "under-（在…下）+ lie（躺）→ 躺在下面 → 位于…之下，引申为“成为…的基础”。",
+        "similarWarning": "underline（在…下划线，强调） vs. underlie（位于…下，是基础）：underline强调划线动作，underlie强调底层支撑。",
+        "extendedMeaning": "在学术语境中常表“构成…的隐含原因或逻辑基础”，如：the principles that underlie the theory（构成该理论的基础原则）。",
+        "examUsage": "真题常考其分词形式underlying（adj. 潜在的，根本的），如：the underlying problem（根本问题）。"
+      }
+    },
+    {
+      "id": "underline",
+      "word": "underline",
+      "phonetic": "/ˌʌndə'lain/",
+      "meaning": "vt.在…下划线;强调",
+      "similar": [
+        "underlie",
+        "undermine",
+        "underlying",
+        "decline",
+        "guideline",
+        "undertake"
+      ],
+      "question": {
+        "wordId": "underline",
+        "stem": "选择 \"underline\" 的正确中文意思：",
+        "correct": "vt.在…下划线;强调",
+        "options": [
+          "a.含蓄的,潜在的;在下面的",
+          "v.暗中破坏,逐渐削弱;侵蚀…的基础",
+          "vt.位于...之下, 成为...的基础",
+          "vt.在…下划线;强调"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "under-（在下面）+ line（线）→ 在下面画线，本义为物理动作，引申为“强调”，如同用线标出重点。",
+        "similarWarning": "underlie（v. 构成…的基础）：under + lie（躺）→ 躺在下面，侧重“基础”；underline则侧重“标记”。undermine（v. 削弱）：under + mine（挖矿）→ 在下面挖，破坏基础。",
+        "extendedMeaning": "在考研阅读中常引申为“凸显、使突出”，如 underline the importance（强调重要性），但非字面划线。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "underlying",
+      "word": "underlying",
+      "phonetic": "/ˌʌndə'laiiŋ/",
+      "meaning": "a.含蓄的,潜在的;在下面的",
+      "similar": [
+        "underline",
+        "underlie",
+        "undermine"
+      ],
+      "question": {
+        "wordId": "underlying",
+        "stem": "选择 \"underlying\" 的正确中文意思：",
+        "correct": "a.含蓄的,潜在的;在下面的",
+        "options": [
+          "v.暗中破坏,逐渐削弱;侵蚀…的基础",
+          "vt.在…下划线;强调",
+          "a.含蓄的,潜在的;在下面的",
+          "vt.位于...之下, 成为...的基础"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "under（在下面）+ly（躺，来自lie）+ing→躺在下面的→隐含的、潜在的。核心物理动作：某物位于表层之下，未被直接看见。",
+        "similarWarning": "underline（下划线，强调）vs underlying（潜在的）：underline强调画线动作或凸显，underlying强调藏在表面下的本质。",
+        "extendedMeaning": "考研中常考“根本的、基础的”含义，如underlying principle（根本原则），而非仅“在下面的”。",
+        "examUsage": "真题考点：underlying cause（根本原因）、underlying assumption（潜在假设）。常见于阅读题中定位深层逻辑，区别于表面现象。"
+      }
+    },
+    {
+      "id": "undermine",
+      "word": "undermine",
+      "phonetic": "/ˌʌndə'main/",
+      "meaning": "v.暗中破坏,逐渐削弱;侵蚀…的基础",
+      "similar": [
+        "underline",
+        "underlie",
+        "underlying",
+        "determine",
+        "undertake"
+      ],
+      "question": {
+        "wordId": "undermine",
+        "stem": "选择 \"undermine\" 的正确中文意思：",
+        "correct": "v.暗中破坏,逐渐削弱;侵蚀…的基础",
+        "options": [
+          "a.含蓄的,潜在的;在下面的",
+          "vt.位于...之下, 成为...的基础",
+          "vt.在…下划线;强调",
+          "v.暗中破坏,逐渐削弱;侵蚀…的基础"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "under（在…下）+ mine（挖矿）→ 在下方挖矿 → 侵蚀基础 → 引申为暗中破坏、逐渐削弱。核心动作：从底部挖空，使上方结构失去支撑。",
+        "similarWarning": "underline（在…下划线，强调） vs undermine（在…下挖，破坏）：前者是画线（line），后者是挖矿（mine）。",
+        "extendedMeaning": "在考研阅读中常引申为“逐渐削弱（信心、权威、制度等）”，如 undermine the credibility（削弱可信度）。",
+        "examUsage": "真题高频搭配：undermine one's confidence（削弱信心）；undermine the foundations of sth（动摇…的基础）。"
+      }
+    },
+    {
+      "id": "underneath",
+      "word": "underneath",
+      "phonetic": "/ˌʌndə'ni:θ/",
+      "meaning": "prep.在…下面 ad.在下面,在底下",
+      "similar": [
+        "internet",
+        "undertake"
+      ],
+      "question": {
+        "wordId": "underneath",
+        "stem": "选择 \"underneath\" 的正确中文意思：",
+        "correct": "prep.在…下面 ad.在下面,在底下",
+        "options": [
+          "prep.在…下面 ad.在下面,在底下",
+          "v.承担,担任;许诺,保证;着手,从事",
+          "n.(美国,加拿大等国货币单位)美元,加元",
+          "n.[the～]国际互联网，因特网"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "under-（在…下）+ neath（来源于古英语neothan，意为“下面”），核心物理动作为“位于某物正下方且被覆盖”。",
+        "similarWarning": "internet（inter-之间 + net网，互联网络）vs. underneath（under-下方 + neath下面，在…底下）；undertake（under-下 + take拿，承担）vs. underneath（强调空间位置）；understand（under-下 + stand站，理解）vs. underneath（空间关系）。",
+        "extendedMeaning": "在考研中引申为“在…表面之下”（如情感、事实的隐藏层面），例如：\"the truth underneath the lies\"（谎言下的真相）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "understanding",
+      "word": "understanding",
+      "phonetic": "/ˌʌndə'stændiŋ/",
+      "meaning": "n.理解,理解力;谅解 a.了解的,通情达理的",
+      "similar": [
+        "outstanding"
+      ],
+      "question": {
+        "wordId": "understanding",
+        "stem": "选择 \"understanding\" 的正确中文意思：",
+        "correct": "n.理解,理解力;谅解 a.了解的,通情达理的",
+        "options": [
+          "n.理解,理解力;谅解 a.了解的,通情达理的",
+          "n.德行,美德;贞操;优点;功效,效力",
+          "a.突出的,显著的,杰出的",
+          "n.桥；桥牌；鼻梁 vt.架桥；渡过"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由动词understand（under-在…下 + stand站立，字面‘站在…之下’即‘清楚其本质’）加-ing构成名词/形容词，核心动作是‘站在事物下方’从而‘彻底掌握其含义’或‘包容其立场’。",
+        "similarWarning": "outstanding（out-超出 + standing站立）：字母差异在于前缀‘out-’与‘under-’。outstanding指‘站出来的’即‘杰出的’；understanding指‘站在下面的’即‘理解的’。",
+        "extendedMeaning": "考研中常考‘谅解’或‘通情达理’，如‘reach an understanding’达成谅解，非单纯‘知道’。",
+        "examUsage": "真题中常考搭配‘mutual understanding’相互理解，或作为形容词修饰‘understanding person’通情达理的人，干扰项易误为‘comprehension’但后者侧重认知能力。"
+      }
+    },
+    {
+      "id": "undertake",
+      "word": "undertake",
+      "phonetic": "/ˌʌndə'teik/",
+      "meaning": "v.承担,担任;许诺,保证;着手,从事",
+      "similar": [
+        "overtake",
+        "underlie",
+        "underline",
+        "undermine",
+        "underneath"
+      ],
+      "question": {
+        "wordId": "undertake",
+        "stem": "选择 \"undertake\" 的正确中文意思：",
+        "correct": "v.承担,担任;许诺,保证;着手,从事",
+        "options": [
+          "vt.位于...之下, 成为...的基础",
+          "v.承担,担任;许诺,保证;着手,从事",
+          "vt.在…下划线;强调",
+          "v.追上,超过,突然降临,压倒"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "under（在下面）+ take（拿，取）→ 在下面拿住某个任务或责任，即“承担、担任”；引申为“许诺、保证”做某事；进一步引申为“着手、从事”一项工作。核心动作是“从下方托起并接手”。",
+        "similarWarning": "形近词辨析：1. understand（under + stand，站在下面听明白→理解）；2. overtake（over + take，从上方超过→追上、超过）；3. underlie（under + lie，躺在下面→构成…的基础）；4. underline（under + line，在下面划线→强调）；5. undermine（under + mine，在下面挖矿→暗中破坏）；6. underneath（under + neath，在…下面）。与undertake的区别在于核心动作不同：take是“拿取”，其他词根各异。",
+        "extendedMeaning": "考研僻义：在真题中常表示“承担（责任/任务）”，如“undertake a project”（承担项目）或“undertake to do sth.”（承诺做某事）。较少直接表示“从事”的普通含义。",
+        "examUsage": "真题考点：固定搭配“undertake responsibility”（承担责任）常作为阅读中态度题或细节题的题眼；例句：“The company undertook to finish the work by Friday.”（公司承诺在周五前完成工作。）注意与“take on”（承担）的替换关系。"
+      }
+    },
+    {
+      "id": "undo",
+      "word": "undo",
+      "phonetic": "/ˌʌn'du:/",
+      "meaning": "v.松开,解开",
+      "similar": [
+        "endow",
+        "union"
+      ],
+      "question": {
+        "wordId": "undo",
+        "stem": "选择 \"undo\" 的正确中文意思：",
+        "correct": "v.松开,解开",
+        "options": [
+          "v.松开,解开",
+          "n.联合,团结;联盟,联邦;协会,社团;和谐",
+          "vt.资助，捐赠；(with)给予，赋予",
+          "v.租,租赁 n.租金"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "un-（否定前缀）+ do（做）→ 字面义‘不做’，引申为‘解开、松开’，核心动作是‘逆转之前做的动作’。",
+        "similarWarning": "endow（赋予，en-+ dow-给予）、under（在…下，un-+ der比较级后缀）、union（联合，un-一+ ion名词后缀）——注意 undo 的 un- 是否定前缀，后接动词 do。",
+        "extendedMeaning": "考研常考‘撤销、取消’义，如 undo a decision（撤销决定）。",
+        "examUsage": "真题中常与 effect/change 搭配，如‘The damage cannot be undone.’（损害无法挽回。）"
+      }
+    },
+    {
+      "id": "undoubtedly",
+      "word": "undoubtedly",
+      "phonetic": "/ʌn'dautɪdlɪ/",
+      "meaning": "ad.无疑,必定",
+      "similar": [],
+      "question": {
+        "wordId": "undoubtedly",
+        "stem": "选择 \"undoubtedly\" 的正确中文意思：",
+        "correct": "ad.无疑,必定",
+        "options": [
+          "ad.无疑,必定",
+          "n.暴(骚)乱,蔓延,彩色缤纷 v.骚乱,暴动",
+          "n.打字机",
+          "n.巧合；同时发生，共同存在；符合，一致"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "un-（不） + doubt（怀疑） + -ed（形容词后缀） + -ly（副词后缀） → 不怀疑地 → 无疑地，必定。核心动作：消除怀疑，强调确定性。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中，常作为强调语气词，用于引出作者明确肯定的观点或结论，如“It is undoubtedly true that...”（……无疑是正确的）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "uneasy",
+      "word": "uneasy",
+      "phonetic": "/ˌʌn'i:zi/",
+      "meaning": "a.不安的,焦虑的",
+      "similar": [],
+      "question": {
+        "wordId": "uneasy",
+        "stem": "选择 \"uneasy\" 的正确中文意思：",
+        "correct": "a.不安的,焦虑的",
+        "options": [
+          "n.鬼魂,幽灵",
+          "a.不安的,焦虑的",
+          "v.刺激,使激动;激发,激励",
+          "v.引用,引证,举(例)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "un-（否定前缀）+ easy（安适的）。字面意为“不安适的”，核心物理动作是“无法处于舒适/放松状态”，引申为心理上的焦虑、担忧。",
+        "similarWarning": "easy（容易的，安适的）：拼写差异在于前缀un-，后者表示否定。uneasy强调心理不安，easy强调状态轻松。",
+        "extendedMeaning": "（在真题中常指）不稳定的，令人不安的：如uneasy peace（脆弱的和平）。",
+        "examUsage": "典型搭配：feel uneasy about sth.（对某事感到不安）；be uneasy with sb.（与某人相处不自在）。考研阅读中常作为情感态度题选项。"
+      }
+    },
+    {
+      "id": "unemployment",
+      "word": "unemployment",
+      "phonetic": "/ˌʌnim'plɔimənt/",
+      "meaning": "n.失业,失业人数",
+      "similar": [
+        "employment"
+      ],
+      "question": {
+        "wordId": "unemployment",
+        "stem": "选择 \"unemployment\" 的正确中文意思：",
+        "correct": "n.失业,失业人数",
+        "options": [
+          "n.雇用;使用;工作,职业",
+          "vt.资助，捐赠；(with)给予，赋予",
+          "n.失业,失业人数",
+          "vt.回答，答复，答案 v.回答，答复，响应"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "un-（否定前缀）+ employment（就业）→ 无就业状态，即失业。词根employ源自拉丁语implicare（卷入），后演变为“雇用”，加上否定前缀直接表示“未被雇用”。",
+        "similarWarning": "employment（就业）vs unemployment（失业）：差异在于否定前缀un-，前者表“雇用/就业”，后者表“失业”，拼写仅差3个字母，但意义完全相反，需注意语境。",
+        "extendedMeaning": "在考研经济类阅读中，unemployment常引申为“失业率”（unemployment rate）或“失业问题”，如“structural unemployment”（结构性失业），强调经济长期失衡导致的失业类型。",
+        "examUsage": "真题考点：搭配“unemployment benefits”（失业救济金）常作为干扰项出现，需与“welfare”（福利）区分；例句“The recession led to a spike in unemployment.”（经济衰退导致失业率飙升）中，unemployment作主语，考查经济影响分析。"
+      }
+    },
+    {
+      "id": "unexpected",
+      "word": "unexpected",
+      "phonetic": "/ˌʌnik'spektid/",
+      "meaning": "a.想不到的, 意外的, 未预料到",
+      "similar": [],
+      "question": {
+        "wordId": "unexpected",
+        "stem": "选择 \"unexpected\" 的正确中文意思：",
+        "correct": "a.想不到的, 意外的, 未预料到",
+        "options": [
+          "a.想不到的, 意外的, 未预料到",
+          "ad.此后,以后",
+          "n.素食主义者",
+          "a.醒着的 vt.唤醒，使觉醒 vi.醒来，醒悟到"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "un-（否定前缀，表示“不”）+ expect（预料，期待）+ -ed（形容词后缀，表示“...的”）。核心动作：没有预料到。词源本质：在期待之外的，超出预设范围的。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中，常引申为“出乎意料的（结果/转折）”，用于引出与常规认知或前文预期相反的事实，强调逻辑上的反转或惊喜/惊吓。如：unexpected outcome（出乎意料的结果）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "unfold",
+      "word": "unfold",
+      "phonetic": "/ˌʌn'fəuld/",
+      "meaning": "vt.打开;显露;展示 vi.呈现;显示;展示",
+      "similar": [
+        "fold",
+        "unload",
+        "uphold"
+      ],
+      "question": {
+        "wordId": "unfold",
+        "stem": "选择 \"unfold\" 的正确中文意思：",
+        "correct": "vt.打开;显露;展示 vi.呈现;显示;展示",
+        "options": [
+          "vi.卸货;退子弹 vt.摆脱...之负担;倾销",
+          "vt.打开;显露;展示 vi.呈现;显示;展示",
+          "v.折叠;合拢;抱住 n.褶,褶痕;羊栏;信徒",
+          "vt.支持,赞成;举起;坚持"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "un-（否定前缀，表‘相反’）+ fold（折叠）。核心物理动作：将折叠的东西展开，即‘打开’。引申为抽象事物的‘展现、显露’，如故事、事件逐渐展开。",
+        "similarWarning": "unfold vs. fold: unfold 是 fold（折叠）的反义，加前缀 un- 表示‘打开’。unfold vs. unload: unload（卸货）源于 load（装载），与‘折叠’无关。unfold vs. uphold: uphold（支持）源于 hold（持有），注意字母差异：unfold 含 fold，uphold 含 hold。",
+        "extendedMeaning": "在考研阅读中，常引申为‘（事件、局势等）逐渐展现、发展’，如 as the story unfolds（随着故事展开）；或‘（计划、想法等）被揭示’，如 the plan unfolded（计划被披露）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "unfortunately",
+      "word": "unfortunately",
+      "phonetic": "/ʌn'fɔ:tʃənətli/",
+      "meaning": "ad.不幸地",
+      "similar": [],
+      "question": {
+        "wordId": "unfortunately",
+        "stem": "选择 \"unfortunately\" 的正确中文意思：",
+        "correct": "ad.不幸地",
+        "options": [
+          "ad.不幸地",
+          "a.富于幽默感的，幽默的；滑稽的",
+          "v.收到,接到;遭受,受到;接待,接见",
+          "n.传记；传记文学"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "un-（否定前缀）+ fortune（运气）+ -ate（形容词后缀）+ -ly（副词后缀）。本义为“运气不好地”，核心动作逻辑是“否定好运气的结果”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“令人遗憾地”，用于引出作者对事实的负面评价或转折，如“Unfortunately, the policy backfired.”（遗憾的是，该政策适得其反。）",
+        "examUsage": "高频用作篇章转折信号词，标志作者否定前文观点或引出不利结果。例如真题中“Unfortunately, these measures failed to address the root cause.”（不幸的是，这些措施未能解决根本原因。）"
+      }
+    },
+    {
+      "id": "uniform",
+      "word": "uniform",
+      "phonetic": "/'ju:nifɔ:m/",
+      "meaning": "n.制服,军服 a.相同的,一律的",
+      "similar": [
+        "inform"
+      ],
+      "question": {
+        "wordId": "uniform",
+        "stem": "选择 \"uniform\" 的正确中文意思：",
+        "correct": "n.制服,军服 a.相同的,一律的",
+        "options": [
+          "v.(of,about)通知,告诉,报告;告发,告密",
+          "n.制服,军服 a.相同的,一律的",
+          "n.技术员,技师,技工",
+          "n.厕所,盥洗室"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "由前缀uni-（单一，一个）和词根form（形状，形式）组成，核心逻辑为“单一的形式”，即形状或标准一致，引申为“统一的、相同的”。名词“制服”即指统一形式的服装。",
+        "similarWarning": "uniform vs inform：前者含uni-（单一），强调统一；后者含in-（进入）和form（形式），意为“通知、告知”，即把信息“注入形式”。",
+        "extendedMeaning": "在考研语境中，uniform作形容词常引申为“始终如一的、均匀的”，如uniform temperature（均匀温度），不局限于“相同的”表层义。",
+        "examUsage": "真题中常考搭配uniform distribution（均匀分布），或作定语修饰standard（统一标准），强调一致性。无特殊干扰项。"
+      }
+    },
+    {
+      "id": "unify",
+      "word": "unify",
+      "phonetic": "/'ju:nifai/",
+      "meaning": "v.使联合,统一;使相同,使一致",
+      "similar": [
+        "unity",
+        "purify",
+        "knife",
+        "sniff",
+        "union",
+        "unite"
+      ],
+      "question": {
+        "wordId": "unify",
+        "stem": "选择 \"unify\" 的正确中文意思：",
+        "correct": "v.使联合,统一;使相同,使一致",
+        "options": [
+          "v.使联合,统一;使相同,使一致",
+          "n.刀,餐刀 v.用刀切,用匕首刺",
+          "n.团结;统一,一致,整体",
+          "v.使纯净,提纯"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "uni-（一）+ -fy（使动后缀）→ 使成为一体 → 统一、联合",
+        "similarWarning": "unity（n.统一，整体） vs unify（v.使统一）：词性不同；purify（v.使纯净） vs unify：pur-（纯净） vs uni-（一）；unite（v.联合） vs unify：unite强调动作过程，unify侧重结果状态",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "union",
+      "word": "union",
+      "phonetic": "/'ju:niən/",
+      "meaning": "n.联合,团结;联盟,联邦;协会,社团;和谐",
+      "similar": [
+        "onion",
+        "junior",
+        "lion",
+        "noon",
+        "undo",
+        "upon",
+        "unify",
+        "unite"
+      ],
+      "question": {
+        "wordId": "union",
+        "stem": "选择 \"union\" 的正确中文意思：",
+        "correct": "n.联合,团结;联盟,联邦;协会,社团;和谐",
+        "options": [
+          "n.狮子",
+          "a./n.年少的/者,三年级的/学生,下级(的)",
+          "n.洋葱",
+          "n.联合,团结;联盟,联邦;协会,社团;和谐"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语unio（合一），词根un-（一）+ -ion（名词后缀），核心动作为“使成为一体”，强调从分散到统一的结合过程。",
+        "similarWarning": "onion（洋葱，o开头）vs union（u开头，联合）；unit（单位，强调个体）vs union（联合，强调整体）。",
+        "extendedMeaning": "考研中常引申为“工会”（labor union）或“联邦”（如European Union），强调组织性联合体。",
+        "examUsage": "常考搭配：trade union（工会），the Soviet Union（苏联），in union（一致地）。真题例句：The union of workers demanded better conditions.（工会要求改善条件。）"
+      }
+    },
+    {
+      "id": "unique",
+      "word": "unique",
+      "phonetic": "/ju:'ni:k/",
+      "meaning": "a.唯一的,独一无二的",
+      "similar": [
+        "antique",
+        "unite"
+      ],
+      "question": {
+        "wordId": "unique",
+        "stem": "选择 \"unique\" 的正确中文意思：",
+        "correct": "a.唯一的,独一无二的",
+        "options": [
+          "vi.联合,团结;统一,合并vt.使联合",
+          "a.古式的，过时的 n.有价值的古物，古董",
+          "a.唯一的,独一无二的",
+          "n.(in)熟练,精通"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"unicus\"，由\"unus\"（一）+\"-icus\"（形容词后缀）构成，核心动作为\"合为一体\"，引申为\"唯一的、独一无二的\"。\",\n  \"similarWarning\": \"形近词辨析：antique（a.古老的，源自拉丁语\"antiquus\"意为\"先前的\"）；unite（v.联合，源自拉丁语\"unire\"意为\"使合一\"）。区别在于词根：unique强调\"唯一性\"（unus=一），antique强调\"时间久远\"（ante=前），unite强调\"结合动作\"（unus=一+动词后缀）。\",\n  \"extendedMeaning\": \"考研僻义：在真题",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "unite",
+      "word": "unite",
+      "phonetic": "/ju:'nait/",
+      "meaning": "vi.联合,团结;统一,合并vt.使联合",
+      "similar": [
+        "unity",
+        "finite",
+        "ignite",
+        "invite",
+        "unique",
+        "unlike",
+        "bite",
+        "cite"
+      ],
+      "question": {
+        "wordId": "unite",
+        "stem": "选择 \"unite\" 的正确中文意思：",
+        "correct": "vi.联合,团结;统一,合并vt.使联合",
+        "options": [
+          "vi.联合,团结;统一,合并vt.使联合",
+          "n.团结;统一,一致,整体",
+          "a.有限的；[数]有穷的,限定的",
+          "v.点火,引燃"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语unus（一）+ -ite（动词后缀），核心动作是“使成为一体”。词根un-表示“单一”，引申为将分散的部分结合成整体。",
+        "similarWarning": "unit（单元，名词）vs unite（动词，联合）；finite（有限的，finit-边界）vs unite（un-一，合一）；ignite（点燃，ign-火）vs unite（un-一）。拼写差异：unite以-ite结尾，强调动作。",
+        "extendedMeaning": "在考研中可引申为“（抽象事物的）融合、协调”，如“unite theory with practice”（理论与实践相结合）。",
+        "examUsage": "常考搭配：unite in doing sth（齐心协力做某事），如真题例句：\"They united in opposing the plan.\"（他们联合反对该计划。）"
+      }
+    },
+    {
+      "id": "unity",
+      "word": "unity",
+      "phonetic": "/'ju:niti/",
+      "meaning": "n.团结;统一,一致,整体",
+      "similar": [
+        "unify",
+        "unite",
+        "entity",
+        "vanity",
+        "knit",
+        "pity",
+        "union"
+      ],
+      "question": {
+        "wordId": "unity",
+        "stem": "选择 \"unity\" 的正确中文意思：",
+        "correct": "n.团结;统一,一致,整体",
+        "options": [
+          "n.团结;统一,一致,整体",
+          "v.使联合,统一;使相同,使一致",
+          "n.实体;存在(物);组织,机构;本质",
+          "vi.联合,团结;统一,合并vt.使联合"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 unitas，词根 uni-（一，单一）+ -ity（名词后缀），核心物理动作为“合而为一”，指将多个部分结合成一个整体。",
+        "similarWarning": "unify（v.统一）强调动作；unit（n.单位）指单个个体；entity（n.实体）侧重独立存在物。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "universal",
+      "word": "universal",
+      "phonetic": "/ˌju:ni'və:səl/",
+      "meaning": "a.普遍的,全体的,通用的;宇宙的,世界的",
+      "similar": [
+        "universe",
+        "university",
+        "anniversary"
+      ],
+      "question": {
+        "wordId": "universal",
+        "stem": "选择 \"universal\" 的正确中文意思：",
+        "correct": "a.普遍的,全体的,通用的;宇宙的,世界的",
+        "options": [
+          "n.周年，周年纪念日",
+          "n.(综合)大学",
+          "n.宇宙,万物",
+          "a.普遍的,全体的,通用的;宇宙的,世界的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 uni-（一个）+ vers（转）+ -al（形容词后缀）→ 转成一个整体 → 普遍的、全体的。核心动作：将多个部分旋转并整合为一个统一体。",
+        "similarWarning": "universe（n.宇宙，整体）与 universal 同源，但为名词；university（n.大学）源自“师生共同体”；anniversary（n.周年纪念）中 ann-（年）+ vers（转）→ 一年转回一次。区别在于后缀不同，词性各异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "universe",
+      "word": "universe",
+      "phonetic": "/'ju:nivə:s/",
+      "meaning": "n.宇宙,万物",
+      "similar": [
+        "universal",
+        "diverse",
+        "inverse",
+        "university",
+        "adverse",
+        "reverse"
+      ],
+      "question": {
+        "wordId": "universe",
+        "stem": "选择 \"universe\" 的正确中文意思：",
+        "correct": "n.宇宙,万物",
+        "options": [
+          "a.相反的,倒转的,反转的 n.相反之物 v.倒转",
+          "a.普遍的,全体的,通用的;宇宙的,世界的",
+          "n.宇宙,万物",
+          "a.多种多样的,(from)不同的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源于拉丁语 universum（一切事物），由 unus（一）+ versus（转向）构成，字面义为‘转向一体’，指将所有事物统合为一个整体，即宇宙、万物。",
+        "similarWarning": "universal（普遍的，全体的）强调‘范围遍及全体’；universe 是名词，指‘宇宙’本身；university（大学）源于同一词根，但指‘学术共同体’；diverse（不同的）前缀 di-（分开）与 uni-（统一）对立；inverse（相反的）强调‘方向颠倒’；adverse（不利的）指‘朝向敌对’；reverse（反转）指‘反向移动’。",
+        "extendedMeaning": "在考研阅读中可引申为‘领域、体系’，如‘the universe of discourse’（论域）或‘a universe of possibilities’（无限可能）。",
+        "examUsage": "注意与 universal 的区分：universe 是名词，universal 是形容词。真题常见搭配‘the universe of...’表示‘...的全体’，如‘the universe of human knowledge’（人类知识的全部）。"
+      }
+    },
+    {
+      "id": "university",
+      "word": "university",
+      "phonetic": "/ˌju:ni'və:səti/",
+      "meaning": "n.(综合)大学",
+      "similar": [
+        "universe",
+        "universal",
+        "anniversary",
+        "diversion",
+        "intensity",
+        "necessity"
+      ],
+      "question": {
+        "wordId": "university",
+        "stem": "选择 \"university\" 的正确中文意思：",
+        "correct": "n.(综合)大学",
+        "options": [
+          "n.(综合)大学",
+          "a.普遍的,全体的,通用的;宇宙的,世界的",
+          "n.宇宙,万物",
+          "n.周年，周年纪念日"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'universitas'（整体、全体），由 'unus'（一）+ 'vertere'（转）组合，核心动作是‘转向一体’。原指‘由学者和学生组成的共同体’，后专指综合性大学，强调学科的整体性。",
+        "similarWarning": "universe（n.宇宙）：university 侧重‘机构’，universe 侧重‘万物整体’。universal（adj.普遍的）：加 -al 表形容词，强调‘全体的’。anniversary（n.周年纪念）：由 annus（年）+ vers（转）+ ary 构成，核心是‘时间轮回’。diversion（n.转移）：di-（分开）+ vers（转），与 university 的‘转向一体’相反。intensity（n.强度）：in-（向内）+ tens（伸展），与 vers 无关。necessity（n.必要性）：ne-（不）+ cess（走），与 vers 无关。",
+        "extendedMeaning": "在考研语境中，常引申为‘高等教育机构’或‘学术圈’，如 'university press'（大学出版社），非仅指建筑或地点。",
+        "examUsage": "考点：'university' 在真题中常与 'college' 区分，前者指综合性大学，后者指学院或专科院校。搭配：'attend university'（上大学）、'university degree'（大学学位）。"
+      }
+    },
+    {
+      "id": "unlike",
+      "word": "unlike",
+      "phonetic": "/ˌʌn'laik/",
+      "meaning": "a.不同的,不相似的 prep.不象,和…不同",
+      "similar": [
+        "unlikely",
+        "like",
+        "alike",
+        "unite"
+      ],
+      "question": {
+        "wordId": "unlike",
+        "stem": "选择 \"unlike\" 的正确中文意思：",
+        "correct": "a.不同的,不相似的 prep.不象,和…不同",
+        "options": [
+          "a.不同的,不相似的 prep.不象,和…不同",
+          "a.未必的,靠不住的",
+          "v.喜欢 prep.象；比如 a.相象的 n.象…一样",
+          "a.同样的，相像的ad.一样地；同程度地"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "un-（否定前缀）+ like（相似，像）→ 不像，不同。核心动作：否定相似性。",
+        "similarWarning": "unlike（不像，不同）vs. unlikely（未必的，不大可能的）：unlike是介词/形容词，直接否定相似；unlikely是形容词，否定可能性。like（像，喜欢）vs. alike（相似的，同样地）：like可作介词/动词，alike是形容词/副词，强调彼此相似。unite（联合）与unlike拼写相近，但词根不同（un- + ite，表示“合一”）。",
+        "extendedMeaning": "在考研阅读中，unlike常引出对比结构，强调前后对象的差异，如“Unlike A, B...”结构，用于凸显B的独特特征。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "unlikely",
+      "word": "unlikely",
+      "phonetic": "/ˌʌn'laikli/",
+      "meaning": "a.未必的,靠不住的",
+      "similar": [
+        "unlike",
+        "lively"
+      ],
+      "question": {
+        "wordId": "unlikely",
+        "stem": "选择 \"unlikely\" 的正确中文意思：",
+        "correct": "a.未必的,靠不住的",
+        "options": [
+          "a.未必的,靠不住的",
+          "a.不同的,不相似的 prep.不象,和…不同",
+          "a.活泼的,活跃的;栩栩如生的,真实的",
+          "n.真空,真空吸尘器"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "un-（否定前缀）+ likely（可能的）→ 不可能、未必的。核心物理动作为否定可能性，强调概率极低或违背常理。",
+        "similarWarning": "likely（可能的）、unlike（不像的，介词/形容词）、lively（活泼的）。unlikely与unlike区别：unlikely强调可能性低，unlike强调对比差异。",
+        "extendedMeaning": "在考研阅读中常引申为“不太可能发生的、不真实的”，如an unlikely story（一个不真实的故事），或“出人意料的”，如an unlikely hero（一个出人意料的英雄）。",
+        "examUsage": "常见搭配：be unlikely to do（不可能做某事），真题中常作为否定推断题眼，如The author suggests that it is unlikely that...（作者暗示……不太可能）。"
+      }
+    },
+    {
+      "id": "unload",
+      "word": "unload",
+      "phonetic": "/ˌʌn'ləud/",
+      "meaning": "vi.卸货;退子弹 vt.摆脱...之负担;倾销",
+      "similar": [
+        "load",
+        "unfold"
+      ],
+      "question": {
+        "wordId": "unload",
+        "stem": "选择 \"unload\" 的正确中文意思：",
+        "correct": "vi.卸货;退子弹 vt.摆脱...之负担;倾销",
+        "options": [
+          "v.装(货),装载 n.装载(量),负荷(量);(一)担",
+          "v.(雕)刻",
+          "vi.卸货;退子弹 vt.摆脱...之负担;倾销",
+          "vt.打开;显露;展示 vi.呈现;显示;展示"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "un-（否定/反向）+ load（装载）→ 反向装载，即卸货、卸载。核心物理动作：移除负载。",
+        "similarWarning": "load（装载）vs unload（卸载）：un-前缀表反向。unfold（展开）vs unload：fold（折叠）与load（装载）词根不同，前者表折叠的反向，后者表装载的反向。",
+        "extendedMeaning": "考研僻义：1. 退出子弹（退子弹）；2. 倾销（大量低价出售商品）。",
+        "examUsage": "真题考点：常考搭配unload...onto...（把...推给/转嫁给...），如：unload the blame onto others（把责任推给别人）。"
+      }
+    },
+    {
+      "id": "until",
+      "word": "until",
+      "phonetic": "/ˌʌn'til/",
+      "meaning": "conj.&prep.直到…为止，在…以前；直到…",
+      "similar": [
+        "entail",
+        "nail"
+      ],
+      "question": {
+        "wordId": "until",
+        "stem": "选择 \"until\" 的正确中文意思：",
+        "correct": "conj.&prep.直到…为止，在…以前；直到…",
+        "options": [
+          "conj.&prep.直到…为止，在…以前；直到…",
+          "n.指甲,爪;钉 v.将…钉牢,钉住",
+          "n.递送;交付;分娩;交货;引渡",
+          "vt.使承担;需要;把(疾病等)遗传给;限定"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源于古英语 'untill'，由 'un-'（直到）和 'till'（直到）复合而成，核心表示时间或动作的持续终点，即“直到某时或某动作发生”。",
+        "similarWarning": "entail（使必要；牵涉）：e-（使）+ tail（尾巴），字面“给…加尾巴”，引申为“牵涉”。nail（钉子；指甲）：与 until 仅差前缀 'un-'，但词源无关。unit（单位）：与 until 拼写相似，但意为“单元”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "unusual",
+      "word": "unusual",
+      "phonetic": "/ˌʌn'ju:ʒuəl/",
+      "meaning": "a.不平常的,与众不同的",
+      "similar": [
+        "punctual"
+      ],
+      "question": {
+        "wordId": "unusual",
+        "stem": "选择 \"unusual\" 的正确中文意思：",
+        "correct": "a.不平常的,与众不同的",
+        "options": [
+          "a.不平常的,与众不同的",
+          "a.严守时刻的,准时的,正点的",
+          "ad.外观上，表面上",
+          "n.（文章等）前后关系；(事件等的)背景"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "un-（不）+ usual（平常的）→ 不平常的，与众不同的。核心逻辑：否定前缀直接修饰形容词，表示对“通常状态”的否定。",
+        "similarWarning": "usual（通常的） vs unusual（不平常的）：us-（用）+ -ual（形容词后缀）→ 常用的；punctual（准时的） vs unusual：punct-（点）+ -ual → 精准到点的。差异在于词根：unusual无“点”义，punctual强调时间点。",
+        "extendedMeaning": "在考研阅读中，unusual可引申为“异常的、罕见的”，用于描述现象、行为或特征的独特性，常带有强调或评价色彩。",
+        "examUsage": "真题中常作为题干或选项中的修饰词，与common, ordinary形成对比。如：an unusual phenomenon（罕见现象），unusual circumstances（异常情况）。"
+      }
+    },
+    {
+      "id": "update",
+      "word": "update",
+      "phonetic": "/ʌp'deitˌ 'ʌpdeit/",
+      "meaning": "v.更新,使现代化",
+      "similar": [
+        "date"
+      ],
+      "question": {
+        "wordId": "update",
+        "stem": "选择 \"update\" 的正确中文意思：",
+        "correct": "v.更新,使现代化",
+        "options": [
+          "v.更新,使现代化",
+          "n.日期,年代 v.注明…的日期 n./v.约会",
+          "n.缩小的模型,缩图 a.微型的,缩小的",
+          "n.风格,文体;式样,时式,类型"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由up（向上）+ date（日期）构成，核心动作是“使日期向上/向前”，即把旧信息提升到最新时间状态，引申为更新、现代化。",
+        "similarWarning": "date（日期）: 缺少up-前缀，仅指时间点；plate（盘子/板材）: p-替换up-，词源无关，注意拼写差异。",
+        "extendedMeaning": "",
+        "examUsage": "常考搭配：update on（关于...的最新消息），如真题例句：We need an update on the situation.（我们需要情况的最新进展。）"
+      }
+    },
+    {
+      "id": "upgrade",
+      "word": "upgrade",
+      "phonetic": "/'ʌpgreidˌ ʌp'greid/",
+      "meaning": "v.提升,使升级",
+      "similar": [
+        "grade",
+        "parade"
+      ],
+      "question": {
+        "wordId": "upgrade",
+        "stem": "选择 \"upgrade\" 的正确中文意思：",
+        "correct": "v.提升,使升级",
+        "options": [
+          "n.怒吼，嗥叫 vi.(风等)怒吼，咆哮",
+          "n./v.游行,夸耀n.检阅,阅兵式v.使列队行进",
+          "n.等级,级别;年级;分数 v.分等,分级",
+          "v.提升,使升级"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "up-（向上）+ grade（等级）→ 等级向上移动 → 提升，使升级。核心动作为‘将某物从低等级向高等级移动’。",
+        "similarWarning": "grade（等级，年级）与 upgrade 相比，少了前缀 up-；parade（游行，阅兵）与 upgrade 拼写差异在 para- 与 up- 及结尾不同，词义无关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "uphold",
+      "word": "uphold",
+      "phonetic": "/ʌp'həuld/",
+      "meaning": "vt.支持,赞成;举起;坚持",
+      "similar": [
+        "unfold"
+      ],
+      "question": {
+        "wordId": "uphold",
+        "stem": "选择 \"uphold\" 的正确中文意思：",
+        "correct": "vt.支持,赞成;举起;坚持",
+        "options": [
+          "v.使联合,统一;使相同,使一致",
+          "a.成长的,成熟的,成人的 n.成年人",
+          "vt.打开;显露;展示 vi.呈现;显示;展示",
+          "vt.支持,赞成;举起;坚持"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "up-（向上）+ hold（握住）→ 向上握住，本义是“举起”；引申为“支持、维持（某种原则或决定）”，强调稳固地保持不使倒下。",
+        "similarWarning": "hold（握住，持有）vs uphold（支持，维持）：uphold = up + hold，强调向上支撑的动作或抽象层面的维护。",
+        "extendedMeaning": "在考研真题中常指“维持（原判）、支持（某人的立场）”，如“uphold a decision”维持判决。",
+        "examUsage": "真题考点：常与“decision/ruling/principle”搭配，表示“维持/支持”。例如：The court upheld the lower court's decision.（法院维持了下级法院的判决。）"
+      }
+    },
+    {
+      "id": "upon",
+      "word": "upon",
+      "phonetic": "/ə'pɔn/",
+      "meaning": "prep.在…上；在…旁 [=on]",
+      "similar": [
+        "coupon",
+        "spoon",
+        "union"
+      ],
+      "question": {
+        "wordId": "upon",
+        "stem": "选择 \"upon\" 的正确中文意思：",
+        "correct": "prep.在…上；在…旁 [=on]",
+        "options": [
+          "prep.在…上；在…旁 [=on]",
+          "n.证明持券人有某权利的卡片，票证，赠券",
+          "n.匙,调羹",
+          "n.联合,团结;联盟,联邦;协会,社团;和谐"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "upon 由 up（向上） + on（在…上）复合而成，核心物理动作是“从下往上接触到表面”，强调位置或时间的“紧接”关系。",
+        "similarWarning": "coupon（优惠券，c-前缀 + upon 变体，联想“切割的券”）、spoon（勺子，sp-拟声 + oon，与“上”无关）、union（联合，un-一 + ion，与“上”无关）。",
+        "extendedMeaning": "考研中常表“一旦…就…”（如 upon arrival），强调动作的即刻性。",
+        "examUsage": "真题常考搭配：upon/on + 名词/动名词，意为“在…之后立即”。例句：Upon finishing the task, he submitted the report.（完成任务后，他立即提交了报告。）"
+      }
+    },
+    {
+      "id": "upper",
+      "word": "upper",
+      "phonetic": "/'ʌpə/",
+      "meaning": "a.上面的;上部的,较高的",
+      "similar": [
+        "supper",
+        "appear",
+        "copper",
+        "pepper",
+        "puppet",
+        "per",
+        "peer",
+        "super"
+      ],
+      "question": {
+        "wordId": "upper",
+        "stem": "选择 \"upper\" 的正确中文意思：",
+        "correct": "a.上面的;上部的,较高的",
+        "options": [
+          "n.铜;铜币,铜制器",
+          "n.晚餐",
+          "a.上面的;上部的,较高的",
+          "vi.出现；出场；问世；仿佛；出版，发表"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自up的形容词比较级形式，up（向上）+ -er（比较级后缀），本义为“更向上的”，引申为“上面的、较高的”。核心物理动作是“位置向上移动后的状态”。",
+        "similarWarning": "supper（晚餐，s-词根“吸”+upper？实际来自sup“啜饮”），appear（出现，ap-强调+pear“看见”），copper（铜，c-+opper？实际来自拉丁语cuprum），pepper（胡椒，p-+epper？无词源关系），puppet（木偶，pup-“小”+pet“宠物”？实际来自拉丁语pupa“女孩”），per（每，介词），peer（同龄人；凝视，p-+eer？来自拉丁语par“相等”），paper（纸，p-+aper？来自希腊语papyros）。与upper仅在字母拼写上部分相似，无严格词源关联，注意区分首字母和整体拼写。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "upright",
+      "word": "upright",
+      "phonetic": "/'ʌprait/",
+      "meaning": "a.垂直的,直立的;正直的,诚实的 ad.竖立着",
+      "similar": [
+        "fright",
+        "plight",
+        "copyright",
+        "straight"
+      ],
+      "question": {
+        "wordId": "upright",
+        "stem": "选择 \"upright\" 的正确中文意思：",
+        "correct": "a.垂直的,直立的;正直的,诚实的 ad.竖立着",
+        "options": [
+          "a.垂直的,直立的;正直的,诚实的 ad.竖立着",
+          "n.恐怖",
+          "n.情况,状态,困境,盟誓(婚姻) v.保证,约定",
+          "n.／a.版权(的)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "up-（向上）+ right（正确的，直的）→ 笔直向上 → 垂直的；引申为人格上的“正直”。核心动作：物体沿重力方向笔直延伸。",
+        "similarWarning": "right（正确的；权利） vs upright（垂直的；正直的）：u-前缀强调“向上”的垂直状态。bright（明亮的） vs upright（垂直的）：b-开头无关联。fright（惊吓） vs upright（垂直的）：f-开头无关联。plight（困境） vs upright（垂直的）：p-开头无关联。copyright（版权） vs upright（垂直的）：复合词，词义无关。straight（笔直的） vs upright（垂直的）：straight强调无弯曲，upright强调垂直于地面。",
+        "extendedMeaning": "（无特别高频僻义）",
+        "examUsage": "（无典型真题特殊考点，常见于阅读理解中描述物体姿态或人物品格，如‘an upright posture’或‘an upright citizen’，无需特别强调。）"
+      }
+    },
+    {
+      "id": "uproar",
+      "word": "uproar",
+      "phonetic": "/'ʌprɔ:/",
+      "meaning": "n.骚动,喧嚣,鼎沸",
+      "similar": [
+        "roar",
+        "cupboard"
+      ],
+      "question": {
+        "wordId": "uproar",
+        "stem": "选择 \"uproar\" 的正确中文意思：",
+        "correct": "n.骚动,喧嚣,鼎沸",
+        "options": [
+          "n.碗柜,小橱",
+          "n./v.吼叫,怒号;轰鸣,咆哮",
+          "n.骚动,喧嚣,鼎沸",
+          "a.奇数的;奇怪的;单只的;临时的;带零头的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "up-（向上）+ roar（咆哮、吼叫）。字面义为‘向上咆哮’，引申为人群情绪爆发、喧闹鼎沸的状态，指骚动或喧嚣。",
+        "similarWarning": "roar（v./n. 咆哮，吼叫）vs. uproar：uproar多了前缀up-，强调‘向上爆发’的集体性骚动。cupboard（n. 橱柜）拼写相似但词义无关。",
+        "extendedMeaning": "熟词僻义：在考研外刊中可指‘舆论哗然’或‘公众抗议’，如public uproar（公众哗然），强调因某事引发的强烈不满和吵闹。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "upset",
+      "word": "upset",
+      "phonetic": "/ʌp'set/",
+      "meaning": "v.使…心烦意乱;打翻,推翻a.难过的;不安的",
+      "similar": [
+        "outset",
+        "puppet",
+        "sunset",
+        "pet",
+        "use",
+        "poet",
+        "used",
+        "asset"
+      ],
+      "question": {
+        "wordId": "upset",
+        "stem": "选择 \"upset\" 的正确中文意思：",
+        "correct": "v.使…心烦意乱;打翻,推翻a.难过的;不安的",
+        "options": [
+          "n.日落，傍晚；晚霞",
+          "n.木偶,傀儡",
+          "n.开始,开端",
+          "v.使…心烦意乱;打翻,推翻a.难过的;不安的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "up（向上）+ set（放置）→ 物理动作：把本应放置平稳的东西“向上翻起/打翻”。引申为心理上“打翻平静状态”，即“使心烦意乱”。",
+        "similarWarning": "outset（开始：out+set，出发） vs upset（打翻：up+set，向上翻）。puppet（木偶：pup+pet） vs upset（无关联）。注意拼写差异：up- vs out-，词义核心在向上/向外的动作区别。",
+        "extendedMeaning": "在考研阅读中，upset常作动词表“颠覆/扰乱（计划、平衡、结果）”，如‘upset the balance of power’（打破权力平衡），不限于情感层面。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "upstairs",
+      "word": "upstairs",
+      "phonetic": "/'ʌp'stεəz/",
+      "meaning": "ad.向楼上;在楼上;上楼 ad.楼上的",
+      "similar": [
+        "downstairs"
+      ],
+      "question": {
+        "wordId": "upstairs",
+        "stem": "选择 \"upstairs\" 的正确中文意思：",
+        "correct": "ad.向楼上;在楼上;上楼 ad.楼上的",
+        "options": [
+          "ad.在楼下,往楼下",
+          "v.(with)合作,协作,相配合",
+          "ad.向楼上;在楼上;上楼 ad.楼上的",
+          "n.(流行的)服饰；戏装，(特定场合的)套装"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "up（向上）+ stairs（楼梯）→ 沿着楼梯向上，即“向楼上/在楼上”。核心物理动作：从楼梯底部向顶部移动。",
+        "similarWarning": "downstairs（向楼下/在楼下）：与upstairs拼写差异为up/down，词义完全相反。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "up-to-date",
+      "word": "up-to-date",
+      "phonetic": "/'ʌptə'deit/",
+      "meaning": "a.现代化的，最新的；跟上时代的",
+      "similar": [],
+      "question": {
+        "wordId": "up-to-date",
+        "stem": "选择 \"up-to-date\" 的正确中文意思：",
+        "correct": "a.现代化的，最新的；跟上时代的",
+        "options": [
+          "n.鹿",
+          "n.主要产品；名产；纤维；主要成分，主食",
+          "n.附件,附属品;(为全套衣服增加美感的)服饰",
+          "a.现代化的，最新的；跟上时代的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "up（向上）+ to（到）+ date（日期）→ 直译为“达到最新日期”，即跟上时代、最新的。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "upward",
+      "word": "upward",
+      "phonetic": "/'ʌpwəd/",
+      "meaning": "a.向上的,上升的 ad.向上",
+      "similar": [
+        "outward",
+        "ward",
+        "award",
+        "coward",
+        "inward",
+        "reward",
+        "toward",
+        "cupboard"
+      ],
+      "question": {
+        "wordId": "upward",
+        "stem": "选择 \"upward\" 的正确中文意思：",
+        "correct": "a.向上的,上升的 ad.向上",
+        "options": [
+          "vt.授予,给予；判定 n.奖,奖金；仲裁",
+          "n.病房;行政区;监护;被监护人 vt.挡住",
+          "a.外面的,公开的,向外的ad.向外,在外n.外表",
+          "a.向上的,上升的 ad.向上"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "up（向上） + ward（朝向） → 朝向上的方向 → 向上的，上升的",
+        "similarWarning": "outward（向外的）; inward（向内的）; toward（朝向）; award（奖品，授予）; reward（报酬，奖赏）; coward（懦夫）; cupboard（橱柜）; ward（病房，保卫）。注意：upward强调垂直向上，与outward（向外）、inward（向内）方向不同；与award/reward拼写差异在词根前缀。",
+        "extendedMeaning": "考研中常作副词，表示‘向上地’，用于抽象趋势，如物价、数量等的上涨。例：The cost of living is moving upward steadily.",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "urban",
+      "word": "urban",
+      "phonetic": "/'ə:bən/",
+      "meaning": "a.城市的, 市内的",
+      "similar": [
+        "ban",
+        "groan",
+        "organ"
+      ],
+      "question": {
+        "wordId": "urban",
+        "stem": "选择 \"urban\" 的正确中文意思：",
+        "correct": "a.城市的, 市内的",
+        "options": [
+          "v.取缔,查禁;(from)禁止 n.禁止,禁令",
+          "v./n.呻吟",
+          "n.器官;机构,机关;风琴",
+          "a.城市的, 市内的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'urbs'（城市），词根urb-意为城市，-an为形容词后缀，表示'属于城市的'。核心动作：与城市相关，区别于乡村（rural）。",
+        "similarWarning": "urban vs. ban（禁止）：urban以urb-开头，ban以b-开头，词根不同；urban vs. groan（呻吟）：urban含urb-，groan含groan-，无词源关联；urban vs. organ（器官）：urban含urb-，organ含org-，注意首字母差异。",
+        "extendedMeaning": "在考研中，urban可引申为'都市化的、具有城市特征的'，如urban lifestyle（都市生活方式），但非僻义。",
+        "examUsage": "常见搭配：urban area（市区）、urban development（城市发展）。真题中常与rural（乡村的）对比出现，如urban and rural areas（城乡地区）。无特殊干扰项考点，故省略。"
+      }
+    }
+  ]
+}

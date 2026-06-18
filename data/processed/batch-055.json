@@ -1,0 +1,1677 @@
+{
+  "batchId": 55,
+  "words": [
+    {
+      "id": "ornament",
+      "word": "ornament",
+      "phonetic": "/'ɔ:nəmənt/",
+      "meaning": "v.装饰,美化 n.装饰,装饰物",
+      "similar": [
+        "orient",
+        "torment",
+        "argument",
+        "fragment",
+        "monument",
+        "management",
+        "parliament"
+      ],
+      "question": {
+        "wordId": "ornament",
+        "stem": "选择 \"ornament\" 的正确中文意思：",
+        "correct": "v.装饰,美化 n.装饰,装饰物",
+        "options": [
+          "n.争论(吵)，辩论；理由;论证",
+          "n.折磨；令人痛苦的东西(人)vt.折磨；纠缠",
+          "n.东方,亚洲 v.使朝东,为…定位,使适应",
+          "v.装饰,美化 n.装饰,装饰物"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根orn-（装饰、装备）+ -ment（名词后缀，表示行为结果或物）。核心物理动作：orn-源于拉丁语ornare（装饰、配备），原指为某物添加装备或修饰物使其更美观。ornament即“装饰的行为或物品”。",
+        "similarWarning": "形近词辨析：\n- ornament vs. orient（东方，源自拉丁语oriri“升起”，指太阳升起的方向）：orn-（装饰） vs. ori-（升起），字母n与i差异。\n- ornament vs. torment（折磨，源自拉丁语torquere“扭曲”）：orn-（装饰） vs. tor-（扭曲），字母n与t差异，词义完全相反。",
+        "extendedMeaning": "考研僻义：在文学或艺术语境中，ornament可引申为“为文章或演讲增添文采的修辞手法或修饰”，非指实体装饰物。例：His speech was full of rhetorical ornaments.（他的演讲充满了修辞修饰。）",
+        "examUsage": "真题考点：常见于阅读理解中描述建筑、艺术品的装饰特征，或作为动词表示“装饰”的动作。搭配：be ornamented with（用……装饰），如：The ceiling was ornamented with intricate carvings.（天花板饰有复杂雕刻。）"
+      }
+    },
+    {
+      "id": "orphan",
+      "word": "orphan",
+      "phonetic": "/'ɔ:fən/",
+      "meaning": "n.孤儿",
+      "similar": [
+        "organ"
+      ],
+      "question": {
+        "wordId": "orphan",
+        "stem": "选择 \"orphan\" 的正确中文意思：",
+        "correct": "n.孤儿",
+        "options": [
+          "n.孤儿",
+          "n.官僚主义，官僚机构；(非民选的)委任官员",
+          "n.器官;机构,机关;风琴",
+          "v.(to)贡献,捐助,捐献;投稿"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自希腊语 orphanos（孤儿），词根 orph- 意为“被剥夺、被遗弃”，与拉丁语 orbus（失去父母）同源。核心物理动作是“被剥夺庇护”，引申为失去父母照管的孩子。",
+        "similarWarning": "organ（器官、机构）：注意 orph- vs org-，orphan 强调被遗弃状态，organ 指功能结构。",
+        "extendedMeaning": "考研中常引申为“无依无靠的人或物”，如 orphan drug（罕见病药物）指针对小众群体的药物。",
+        "examUsage": "真题中常以比喻义出现，如“an orphan in the literary world”（文学界的弃儿）。固定搭配：orphan disease（罕见病），强调被主流忽视。"
+      }
+    },
+    {
+      "id": "orthodox",
+      "word": "orthodox",
+      "phonetic": "/'ɔ:θədɒks/",
+      "meaning": "a.传统的,正统的,习惯的,保守的,东正教的",
+      "similar": [],
+      "question": {
+        "wordId": "orthodox",
+        "stem": "选择 \"orthodox\" 的正确中文意思：",
+        "correct": "a.传统的,正统的,习惯的,保守的,东正教的",
+        "options": [
+          "n.球拍",
+          "v./n.(使)接触,联系,交往",
+          "a.传统的,正统的,习惯的,保守的,东正教的",
+          "prep.在…中间，在…之中，被…围绕"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "ortho- (正确的) + dox (意见、观点) → 持正确观点的 → 正统的、传统的。词根dox源于希腊语doxa（意见、荣誉），与dogma（教条）同源。核心动作：坚持被普遍接受的标准或教义。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中，常引申为“保守的、因循守旧的”，强调拒绝新思想或变革，如orthodox view（传统观点）在议论文中常与radical（激进的）对举。",
+        "examUsage": "真题考点：常与conventional、traditional同义替换，但orthodox更强调宗教或思想体系上的“正统性”。如：orthodox medicine（正统医学）vs. alternative medicine（替代医学）。"
+      }
+    },
+    {
+      "id": "otherwise",
+      "word": "otherwise",
+      "phonetic": "/'ʌðəwaɪz/",
+      "meaning": "ad.另样,用别的方法;在其他方面conj.要不然",
+      "similar": [],
+      "question": {
+        "wordId": "otherwise",
+        "stem": "选择 \"otherwise\" 的正确中文意思：",
+        "correct": "ad.另样,用别的方法;在其他方面conj.要不然",
+        "options": [
+          "ad.另样,用别的方法;在其他方面conj.要不然",
+          "n.织布机,织机 v.隐现,(危险、忧虑等)迫近",
+          "a.明白的;朴素的;坦率;平凡 n.平原,旷野",
+          "n.水池,游泳池;合资经营v.合伙经营,联营"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "other（其他）+wise（方式/方向）→ 其他方式→ 否则/在其他方面。核心动作：从当前路径转向另一种可能。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中，otherwise常作为逻辑连接词，表示‘否则’或‘在其他情况下’，用于引出转折或假设条件。例如：The experiment would have failed otherwise.（否则实验本会失败。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ought",
+      "word": "ought",
+      "phonetic": "/ɔ:t/",
+      "meaning": "aux.应该(使用时,之后应接to,再接动词原形)",
+      "similar": [
+        "drought",
+        "cough",
+        "eight",
+        "rough",
+        "tight",
+        "tough"
+      ],
+      "question": {
+        "wordId": "ought",
+        "stem": "选择 \"ought\" 的正确中文意思：",
+        "correct": "aux.应该(使用时,之后应接to,再接动词原形)",
+        "options": [
+          "aux.应该(使用时,之后应接to,再接动词原形)",
+          "v./n.咳嗽",
+          "num.八 pron.八(个，只...)",
+          "n.旱灾,干旱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，古英语āhte，是āgan（拥有）的过去式，引申为‘有义务’、‘应该’。核心动作：义务或责任的状态。",
+        "similarWarning": "ought vs. thought: thought有th-前缀，意为‘思想’；ought无th-，意为‘应该’。drought: 有dr-前缀，意为‘干旱’。",
+        "extendedMeaning": "常与to连用，表示道义或逻辑上的必然性，如‘ought to have done’表本应做而未做。",
+        "examUsage": "考点：ought to do（应该做）与should do的区别；ought to have done（本应该做而没做）表虚拟语气。"
+      }
+    },
+    {
+      "id": "ounce",
+      "word": "ounce",
+      "phonetic": "/auns/",
+      "meaning": "n.盎司,英两",
+      "similar": [
+        "bounce",
+        "lounge",
+        "source",
+        "one",
+        "june",
+        "tune",
+        "bunch",
+        "fence"
+      ],
+      "question": {
+        "wordId": "ounce",
+        "stem": "选择 \"ounce\" 的正确中文意思：",
+        "correct": "n.盎司,英两",
+        "options": [
+          "n.盎司,英两",
+          "n./vi.(球)弹起,弹回；弹起,跳起；n.弹力",
+          "n.休息室,起居室,客厅",
+          "n.源,源泉;来源,出处"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 uncia（十二分之一），指罗马度量单位中一磅的十二分之一。核心物理动作为“分割、取一部分”，引申为重量单位“盎司”。",
+        "similarWarning": "bounce（弹跳，b+ounce），once（一次，on+ce），lounge（休息室，lou+unge），source（来源，s+ource），one（一个，o+ne），june（六月，j+une），tune（曲调，t+une），bunch（束，b+unch）。",
+        "extendedMeaning": "在考研中极少出现僻义，通常仅用作重量单位或计量单位。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ours",
+      "word": "ours",
+      "phonetic": "/'auəz/",
+      "meaning": "pron.[we的物主代词]我们的(所有物)",
+      "similar": [
+        "yours",
+        "burst",
+        "court",
+        "curse",
+        "mourn",
+        "nurse",
+        "purse"
+      ],
+      "question": {
+        "wordId": "ours",
+        "stem": "选择 \"ours\" 的正确中文意思：",
+        "correct": "pron.[we的物主代词]我们的(所有物)",
+        "options": [
+          "pron.[we的物主代词]我们的(所有物)",
+          "pron.[you的物主代词]你(们)的(所有物)",
+          "v.爆裂,炸破;突然发生 n.突然破裂,爆发",
+          "n.法院,法庭;宫廷,朝廷;院子;球场"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ours 是物主代词 our 的独立形式，表示“我们的（东西）”。词根 our- 源自原始日耳曼语 *uns-（我们），加属格后缀 -s 构成。核心动作：指代属于“我们”的某物，避免重复名词。",
+        "similarWarning": "yours /jɔːz/（你们的）与 ours 结构相同，仅首字母不同；course /kɔːs/（课程）多字母 c 和 e；burst /bɜːst/（爆发）首字母 b；court /kɔːt/（法庭）多字母 c 和 t；curse /kɜːs/（诅咒）多字母 c；mourn /mɔːn/（哀悼）多字母 m 和 n；nurse /nɜːs/（护士）多字母 n 和 e。核心差异：ours 以元音开头，其他多以辅音开头，且 ours 为物主代词，其余为名词/动词。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ourselves",
+      "word": "ourselves",
+      "phonetic": "/ˌauə'selvz/",
+      "meaning": "pron.[反身代词]我们自己；我们亲自",
+      "similar": [
+        "themselves"
+      ],
+      "question": {
+        "wordId": "ourselves",
+        "stem": "选择 \"ourselves\" 的正确中文意思：",
+        "correct": "pron.[反身代词]我们自己；我们亲自",
+        "options": [
+          "pron.[反身代词]我们自己；我们亲自",
+          "pron.他(她、它)们自己；他(她、它)们亲自",
+          "n.权力，权威；权威人士；(pl.)官方，当局",
+          "a.最初的,原文的;新颖的 n.原物,原作,原文"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由our（我们的）+ selves（自己，self的复数）构成，字面意思为‘我们自己’。核心动作：反身指向主语‘我们’，强调主体与客体为同一群体。",
+        "similarWarning": "形近词：ourselves vs. themselves。ourselves以our（我们的）开头，强调‘我们自己’；themselves以them（他们）开头，强调‘他们自己’。拼写差异在于前缀，词义对应不同人称。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "outbreak",
+      "word": "outbreak",
+      "phonetic": "/'autbreik/",
+      "meaning": "n.(战争,愤怒,火灾等的)爆发,(疾病的)发作",
+      "similar": [],
+      "question": {
+        "wordId": "outbreak",
+        "stem": "选择 \"outbreak\" 的正确中文意思：",
+        "correct": "n.(战争,愤怒,火灾等的)爆发,(疾病的)发作",
+        "options": [
+          "n.(战争,愤怒,火灾等的)爆发,(疾病的)发作",
+          "a.空的,未占用的;空缺的;神情茫然的",
+          "ad.重复地,再三地",
+          "n.石油"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "out-（向外）+ break（打破）→ 向外打破、突破。核心物理动作是“从内部冲破束缚向外扩散”，引申为战争、疾病、情绪等突然且大规模地爆发。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": "真题中常与epidemic（流行病）连用，如disease outbreak（疾病爆发），或作动词短语break out的同义替换，考查名词化表达。"
+      }
+    },
+    {
+      "id": "outcome",
+      "word": "outcome",
+      "phonetic": "/'autkʌm/",
+      "meaning": "n.结果,成果",
+      "similar": [
+        "overcome"
+      ],
+      "question": {
+        "wordId": "outcome",
+        "stem": "选择 \"outcome\" 的正确中文意思：",
+        "correct": "n.结果,成果",
+        "options": [
+          "a.(honourable)可敬的;荣誉的,光荣的",
+          "n.结果,成果",
+          "v.战胜,克服",
+          "n.少女,处女 a.未婚的,纯洁的,无经验的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "out（向外，超越）+ come（来，发生）。核心物理动作：某事物从内部或过程中“向外走出来”，即事件发展后的最终呈现状态。本源上强调从动态过程到静态结果的转变，是“结果”的直接表达。",
+        "similarWarning": "overcome（v.克服，战胜）：over（在…之上）+ come（来），字面“来到上面”，指压制或解决困难。outcome强调结果，overcome强调动作过程，拼写上out/over不同，含义差异显著。",
+        "extendedMeaning": "在考研阅读中，outcome常指“结局、后果”，尤其用于实验、政策、决策等语境，如“the outcome of the experiment”（实验的结果），无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "outdoor",
+      "word": "outdoor",
+      "phonetic": "/'əutdɔ:/",
+      "meaning": "a.室外的,野外的",
+      "similar": [
+        "outlook"
+      ],
+      "question": {
+        "wordId": "outdoor",
+        "stem": "选择 \"outdoor\" 的正确中文意思：",
+        "correct": "a.室外的,野外的",
+        "options": [
+          "n.景色,风光;观点,见解;展望,前景",
+          "v.(into,with)(使)成为一体,(使)结合在一起",
+          "a.室外的,野外的",
+          "vt.损赠(金钱等);赠予"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "out-（向外）+ door（门）→ 门外的 → 室外的，野外的。核心动作：从室内走向门外的空间，强调与室内相对的环境。",
+        "similarWarning": "outlook（观点，展望；景色）：outdoor侧重空间位置，outlook侧重视角或态度。字母差异：outdoor以door（门）结尾，outlook以look（看）结尾。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "outer",
+      "word": "outer",
+      "phonetic": "/'autə/",
+      "meaning": "a.外部的,外面的,外层的",
+      "similar": [
+        "counter",
+        "butter",
+        "foster",
+        "mutter",
+        "outlet",
+        "outset",
+        "porter",
+        "poster"
+      ],
+      "question": {
+        "wordId": "outer",
+        "stem": "选择 \"outer\" 的正确中文意思：",
+        "correct": "a.外部的,外面的,外层的",
+        "options": [
+          "vt.养育;收养;怀抱;鼓励 a.收养的 n.养育者",
+          "n.柜台;计数器 a./ad.相反(的) v.反对,反击",
+          "a.外部的,外面的,外层的",
+          "n.黄油,奶油 v.涂黄油于…上"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根 out（向外）+ -er（比较级后缀），字面义为“更靠外的”，引申为“外部的、外面的”。核心物理动作是“从内部向外部移动或定位”。",
+        "similarWarning": "counter (柜台/反对，c-表示“相对”)，butter (黄油，b-无关联)，foster (养育，f-无关联)，mutter (咕哝，m-无关联)，outlet (出口，-let小化后缀)，outset (开始，-set放置)，porter (搬运工，port-搬运)，poster (海报，post-张贴)。outer 强调“外部位置”，与这些词在首字母或后缀上差异明显。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "outfit",
+      "word": "outfit",
+      "phonetic": "/'autfit/",
+      "meaning": "n.用具,机构,全套装配 v.配备,(得到)装备",
+      "similar": [
+        "outlet",
+        "output",
+        "outset"
+      ],
+      "question": {
+        "wordId": "outfit",
+        "stem": "选择 \"outfit\" 的正确中文意思：",
+        "correct": "n.用具,机构,全套装配 v.配备,(得到)装备",
+        "options": [
+          "n.开始,开端",
+          "n.产量,输出(量)",
+          "n.出路,出口;销路,市场;发泄方法;电源插座",
+          "n.用具,机构,全套装配 v.配备,(得到)装备"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "out（向外）+ fit（适合、装备）→ 为外出而装备齐全的东西。核心物理动作：把适合外出的物品装配到一起。",
+        "similarWarning": "outlet（出口、插座：let使流出） vs outfit（装备、机构：fit装配）。output（产出：put放置） vs outset（开端：set放置）。注意字母差异：outlet结尾-let，outfit结尾-fit。",
+        "extendedMeaning": "在考研阅读中常引申为“机构、组织”（如a research outfit研究机构），或指“一整套服装”（如a new outfit一套新装）。",
+        "examUsage": "真题考点：搭配outfit with...（用...装备）。例句：The expedition was outfitted with modern equipment.（探险队配备了现代装备。）注意作动词时被动语态常见。"
+      }
+    },
+    {
+      "id": "outing",
+      "word": "outing",
+      "phonetic": "/'autiŋ/",
+      "meaning": "n.外出,旅行,散步",
+      "similar": [
+        "housing",
+        "outline",
+        "routine",
+        "owing",
+        "sting",
+        "during"
+      ],
+      "question": {
+        "wordId": "outing",
+        "stem": "选择 \"outing\" 的正确中文意思：",
+        "correct": "n.外出,旅行,散步",
+        "options": [
+          "n.住房，住房供给；(外、阀)壳，防护罩",
+          "n.外出,旅行,散步",
+          "n.轮廓,略图;大纲,梗概 v.概述,略述",
+          "n.例行公事,常规 a.常规的,例行的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自动词out（向外）+ -ing（动名词后缀），核心动作是“向外出走”，引申为离开固定场所的短暂户外活动。",
+        "similarWarning": "housing（住房） vs outing（外出）：前者源于house（房子）+ -ing，强调居住空间；后者源于out（向外）+ -ing，强调外出行为。\noutline（轮廓） vs outing：outline为out+line（线），指外部线条；outing无line元素。",
+        "extendedMeaning": "熟词僻义：在考研外刊中可指“（公司/团体的）短途旅行”或“（体育）外出比赛”。",
+        "examUsage": "考点：常与go on an outing（去远足）、outing trip（短途旅行）搭配，注意与trip（一般旅行）、excursion（短途游览）的细微区别。"
+      }
+    },
+    {
+      "id": "outlet",
+      "word": "outlet",
+      "phonetic": "/'autlet/",
+      "meaning": "n.出路,出口;销路,市场;发泄方法;电源插座",
+      "similar": [
+        "outset",
+        "outer",
+        "bullet",
+        "outfit",
+        "output"
+      ],
+      "question": {
+        "wordId": "outlet",
+        "stem": "选择 \"outlet\" 的正确中文意思：",
+        "correct": "n.出路,出口;销路,市场;发泄方法;电源插座",
+        "options": [
+          "a.外部的,外面的,外层的",
+          "n.开始,开端",
+          "n.子弹,枪弹",
+          "n.出路,出口;销路,市场;发泄方法;电源插座"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "out-（向外）+ let（让...出去）→ 让东西出去的地方 → 出口、出路。核心物理动作：让某物从内部释放到外部。",
+        "similarWarning": "outset（n.开始，开端：out- + set 放置 → 出发点）vs outlet（出口：out- + let 让出去 → 放出的口）。区别：outset强调时间起点，outlet强调空间出口。",
+        "extendedMeaning": "n.发泄途径（情感/精力的出口，如：an outlet for anger）；电源插座（电流的出口，如：wall outlet）。",
+        "examUsage": "retail outlet（零售店/销售渠道）在真题中常作为商业类阅读的题眼，考查市场渠道概念。"
+      }
+    },
+    {
+      "id": "outline",
+      "word": "outline",
+      "phonetic": "/'autlain/",
+      "meaning": "n.轮廓,略图;大纲,梗概 v.概述,略述",
+      "similar": [
+        "outing",
+        "outside",
+        "routine"
+      ],
+      "question": {
+        "wordId": "outline",
+        "stem": "选择 \"outline\" 的正确中文意思：",
+        "correct": "n.轮廓,略图;大纲,梗概 v.概述,略述",
+        "options": [
+          "n.轮廓,略图;大纲,梗概 v.概述,略述",
+          "n.外出,旅行,散步",
+          "ad.向外面 n.外部 a.外部的 prep.在…外",
+          "n.例行公事,常规 a.常规的,例行的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "out（向外）+ line（线）→ 向外画出线条 → 勾勒出物体的外部边界，引申为轮廓、大纲、概括描述。",
+        "similarWarning": "outing（短途旅行，n.） vs outline（轮廓，v./n.）：outing 无“线”概念，指外出活动；outline 强调“线”的边界。routine（常规，n./adj.） vs outline：routine 含“rout-”路径，指固定程序；outline 含“line”线，指框架。",
+        "extendedMeaning": "v. 概述（非字面“画线”，指口头或书面简要说明要点）；n. 大纲（如论文或演讲的框架结构，非物理轮廓）。",
+        "examUsage": "高频搭配：outline a plan（概述计划）、broad outline（粗略大纲）。真题考点：常作为阅读题题干动词，要求考生识别文章主旨或结构框架，如“The passage outlines...”。"
+      }
+    },
+    {
+      "id": "outlook",
+      "word": "outlook",
+      "phonetic": "/'autluk/",
+      "meaning": "n.景色,风光;观点,见解;展望,前景",
+      "similar": [
+        "outdoor",
+        "overlook"
+      ],
+      "question": {
+        "wordId": "outlook",
+        "stem": "选择 \"outlook\" 的正确中文意思：",
+        "correct": "n.景色,风光;观点,见解;展望,前景",
+        "options": [
+          "n.景色,风光;观点,见解;展望,前景",
+          "a.神圣的;宗教的;庄严的",
+          "v.看漏,忽略;俯瞰,眺望;宽容,放任",
+          "a.室外的,野外的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "out（向外）+ look（看）。核心动作：向外看。本义是向外看到的景象，引申为看待事物的角度（观点）和对未来的预测（前景）。",
+        "similarWarning": "outdoor（户外的）：out（外）+ door（门），指室外空间；overlook（俯瞰；忽视）：over（在上方）+ look（看），强调由上往下看或没看到。outlook侧重“向外看”的视野和态度。",
+        "extendedMeaning": "在考研中常考“展望，前景”义，如 economic outlook（经济前景）；也考“观点，态度”义，如 world outlook（世界观）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "output",
+      "word": "output",
+      "phonetic": "/'autput/",
+      "meaning": "n.产量,输出(量)",
+      "similar": [
+        "outfit",
+        "outlet",
+        "outset"
+      ],
+      "question": {
+        "wordId": "output",
+        "stem": "选择 \"output\" 的正确中文意思：",
+        "correct": "n.产量,输出(量)",
+        "options": [
+          "n.产量,输出(量)",
+          "n.用具,机构,全套装配 v.配备,(得到)装备",
+          "n.出路,出口;销路,市场;发泄方法;电源插座",
+          "n.开始,开端"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "out-（向外）+ put（放置）→ 向外放置的东西 → 输出、产量。核心动作：将内部的东西向外释放或生产出来。",
+        "similarWarning": "outfit（n.全套装备；v.配备）、outlet（n.出口；发泄途径）、outset（n.开始）。output侧重“产出量”；outfit侧重“装备”；outlet侧重“出口”；outset侧重“起始点”。",
+        "extendedMeaning": "在计算机/电子领域常指“输出信号/数据”；在经济学中可指“产值”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "outrage",
+      "word": "outrage",
+      "phonetic": "/'autreidʒ/",
+      "meaning": "n.暴行,侮辱,愤怒 v.凌辱,引起…义愤,强奸",
+      "similar": [
+        "courage",
+        "mortgage"
+      ],
+      "question": {
+        "wordId": "outrage",
+        "stem": "选择 \"outrage\" 的正确中文意思：",
+        "correct": "n.暴行,侮辱,愤怒 v.凌辱,引起…义愤,强奸",
+        "options": [
+          "n.暴行,侮辱,愤怒 v.凌辱,引起…义愤,强奸",
+          "n.花费,消费,消耗",
+          "n.勇气,胆量",
+          "n./v.抵押(借款)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "out-（向外，超过）+ rage（狂怒）→ 超出常理的狂怒 → 暴行（令人愤怒的行为）→ 引申为愤怒、侮辱。词源直指‘超出界限的愤怒行为’。",
+        "similarWarning": "courage（勇气，cour-心） vs outrage（out-外+rage怒）：courage强调内心勇气，outrage强调对外暴行引发的愤怒。mortgage（抵押，mort死+gage担保）与outrage拼写相似但含义无关。",
+        "extendedMeaning": "考研僻义：n. 严重冒犯、侮辱（非字面愤怒，如行为本身）；v. 激起愤怒（强调引发公众义愤）。",
+        "examUsage": "真题考点：常见搭配‘public outrage’（公愤）作题眼；‘outrage at/over sth’（对…愤怒）为干扰项核心。例句：‘The decision sparked widespread public outrage.’（该决定引发了广泛的公愤。）"
+      }
+    },
+    {
+      "id": "outset",
+      "word": "outset",
+      "phonetic": "/'autset/",
+      "meaning": "n.开始,开端",
+      "similar": [
+        "outlet",
+        "outer",
+        "upset",
+        "offset",
+        "outfit",
+        "output",
+        "sunset"
+      ],
+      "question": {
+        "wordId": "outset",
+        "stem": "选择 \"outset\" 的正确中文意思：",
+        "correct": "n.开始,开端",
+        "options": [
+          "n.开始,开端",
+          "n.出路,出口;销路,市场;发泄方法;电源插座",
+          "v.使…心烦意乱;打翻,推翻a.难过的;不安的",
+          "a.外部的,外面的,外层的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "out-（向外）+ set（放置、出发）→ 向外迈出第一步 → 开始、开端。强调起始点，动作性强。",
+        "similarWarning": "outset（开始）vs offset（抵消/分支）：offset = off（离开）+ set（放置）→ 偏离放置 → 抵消或分支；outset强调起点，offset强调平衡或偏离。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "outside",
+      "word": "outside",
+      "phonetic": "/ˌaut'said/",
+      "meaning": "ad.向外面 n.外部 a.外部的 prep.在…外",
+      "similar": [
+        "outline"
+      ],
+      "question": {
+        "wordId": "outside",
+        "stem": "选择 \"outside\" 的正确中文意思：",
+        "correct": "ad.向外面 n.外部 a.外部的 prep.在…外",
+        "options": [
+          "n.暴(骚)乱,蔓延,彩色缤纷 v.骚乱,暴动",
+          "n.轮廓,略图;大纲,梗概 v.概述,略述",
+          "n.(kilometer) 公里，千米(略作km)",
+          "ad.向外面 n.外部 a.外部的 prep.在…外"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由out（向外）+ side（边、侧）复合而成，字面即“向外的一侧”，核心物理动作是“从内部移动到外部”。",
+        "similarWarning": "outline：out+line（线），意为“轮廓、大纲”，侧重线条勾勒；outside侧重位置“外部”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "outskirts",
+      "word": "outskirts",
+      "phonetic": "/'autskə:ts/",
+      "meaning": "n.郊区",
+      "similar": [],
+      "question": {
+        "wordId": "outskirts",
+        "stem": "选择 \"outskirts\" 的正确中文意思：",
+        "correct": "n.郊区",
+        "options": [
+          "n.郊区",
+          "n.大量,众多;团,块;(pl.)群众,民众;质量",
+          "a.优良的,卓越的;上级的 n.上级;长者;高手",
+          "n.完成;结束;磨光 v.完成;结束;用完;毁掉"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "out-（向外）+ skirts（裙子/边缘）→ 裙子向外展开的边缘 → 城市向外延伸的边缘地带 → 郊区。核心动作：从中心向外的边缘延伸。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常指城市边缘地带，与suburbs（近郊）相比更强调偏远、开发程度低的区域。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "outstanding",
+      "word": "outstanding",
+      "phonetic": "/ˌaut'stændiŋ/",
+      "meaning": "a.突出的,显著的,杰出的",
+      "similar": [
+        "understanding"
+      ],
+      "question": {
+        "wordId": "outstanding",
+        "stem": "选择 \"outstanding\" 的正确中文意思：",
+        "correct": "a.突出的,显著的,杰出的",
+        "options": [
+          "n.完成;结束;磨光 v.完成;结束;用完;毁掉",
+          "a.空闲的,闲置的;懒散的 v.空费,虚度",
+          "n.理解,理解力;谅解 a.了解的,通情达理的",
+          "a.突出的,显著的,杰出的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "out-（向外）+ stand（站立）+ -ing（形容词后缀）→ 向外站立的，即从人群中突显出来的 → 引申为“突出的、显著的、杰出的”。核心动作是“站在外面或高于周围”，强调视觉或质量上的突出。",
+        "similarWarning": "understanding（理解）：outstanding（突出） vs understanding（理解），差异在于前缀 out-（向外） vs under-（在…下），注意拼写中“stand”与“stand”相同，但前缀不同导致词义完全不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "outward",
+      "word": "outward",
+      "phonetic": "/'autwəd/",
+      "meaning": "a.外面的,公开的,向外的ad.向外,在外n.外表",
+      "similar": [
+        "upward",
+        "courtyard",
+        "downward",
+        "postcard",
+        "software"
+      ],
+      "question": {
+        "wordId": "outward",
+        "stem": "选择 \"outward\" 的正确中文意思：",
+        "correct": "a.外面的,公开的,向外的ad.向外,在外n.外表",
+        "options": [
+          "n.院子，庭院，天井",
+          "a.向下的 ad.(also downwards)向下,往下",
+          "a.向上的,上升的 ad.向上",
+          "a.外面的,公开的,向外的ad.向外,在外n.外表"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "out-（向外）+ -ward（朝……方向）→ 朝向外部的方向 → 外面的、向外的。核心动作：从内部指向外部或表面。",
+        "similarWarning": "upward（向上）vs outward（向外）：首字母u/o差异，方向不同；courtyard（庭院）vs outward：含y-ard但语义无关；downward（向下）vs outward：首字母d/o差异，方向相反。",
+        "extendedMeaning": "熟词僻义：作名词时指“外表、外观”，如“the outward of things”（事物的外表），强调与内在相对的表象。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "oval",
+      "word": "oval",
+      "phonetic": "/'əuvəl/",
+      "meaning": "a.卵形的，椭圆形的 n.卵形，椭圆形",
+      "similar": [
+        "oral",
+        "avail",
+        "local",
+        "loyal",
+        "moral",
+        "naval",
+        "novel",
+        "rival"
+      ],
+      "question": {
+        "wordId": "oval",
+        "stem": "选择 \"oval\" 的正确中文意思：",
+        "correct": "a.卵形的，椭圆形的 n.卵形，椭圆形",
+        "options": [
+          "a.卵形的，椭圆形的 n.卵形，椭圆形",
+          "a.口头的",
+          "n.[一般用于否定句或疑问句中]效用,利益",
+          "a.地方的,当地的;局部的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根ov-源自拉丁语ovum（蛋），后缀-al表形容词。核心物理动作：蛋的形状→卵形/椭圆形。",
+        "similarWarning": "oral（口头的，嘴的）vs oval（卵形的）：oral来自os（嘴），oval来自ovum（蛋）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "oven",
+      "word": "oven",
+      "phonetic": "/'ʌvən/",
+      "meaning": "n.炉,灶,灶箱",
+      "similar": [
+        "govern",
+        "cover",
+        "dozen",
+        "hover",
+        "lover",
+        "novel",
+        "ocean",
+        "seven"
+      ],
+      "question": {
+        "wordId": "oven",
+        "stem": "选择 \"oven\" 的正确中文意思：",
+        "correct": "n.炉,灶,灶箱",
+        "options": [
+          "v.统治,管理;决定,支配",
+          "n.炉,灶,灶箱",
+          "n.一打,十二个",
+          "v.覆盖,包括,涉及，报道 n.盖子,套子;(书的)封面"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语ofen，原始印欧语根*aukw-意为‘烹饪锅’或‘容器’。核心物理动作是封闭空间内加热，与‘烤、烘’相关。词义本源为‘用于加热或烹饪食物的封闭设备’，如烤箱、烤炉。",
+        "similarWarning": "even（甚至/平坦的，eve+n），open（打开，o+pen），over（在...之上，o+ver），govern（统治，gov+ern），cover（覆盖，co+ver），dozen（一打，doz+en），event（事件，e+vent），hover（盘旋，hov+er）。差异在于首字母或词根变化，如oven强调封闭加热，open强调开放状态。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "overall",
+      "word": "overall",
+      "phonetic": "/'əuvərɔ:l/",
+      "meaning": "a.全面的,综合的 n.(pl.)(套头)工作服",
+      "similar": [
+        "overflow",
+        "overpass",
+        "overtake"
+      ],
+      "question": {
+        "wordId": "overall",
+        "stem": "选择 \"overall\" 的正确中文意思：",
+        "correct": "a.全面的,综合的 n.(pl.)(套头)工作服",
+        "options": [
+          "v.追上,超过,突然降临,压倒",
+          "v.(使)外溢,(使)溢出;溢出,流出,漫出",
+          "a.全面的,综合的 n.(pl.)(套头)工作服",
+          "n.过街天桥 vt.胜过,通过,忽视"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "over（在…之上）+ all（全部）→ 覆盖全部之上 → 全面的、综合的。核心动作：从整体上涵盖所有部分。",
+        "similarWarning": "overflow（溢出；over+flow流）、overpass（天桥；over+pass通过）、overtake（追上；over+take拿）— 与overall拼写差异在第二成分（all vs flow/pass/take），词义均侧重“超越或覆盖”，但overall强调“全部范围”。",
+        "extendedMeaning": "adv. 总体上，大致上：用于总结或概括，如“overall, the project succeeded”（总体而言，项目成功）。",
+        "examUsage": "短语：overall performance（整体表现）；真题例句：The overall effect is impressive.（整体效果令人印象深刻。）——常作阅读中段落总结或观点概括的标志词。"
+      }
+    },
+    {
+      "id": "overcoat",
+      "word": "overcoat",
+      "phonetic": "/'əuvəkəut/",
+      "meaning": "n.外衣,大衣",
+      "similar": [
+        "overcome",
+        "overlap",
+        "overhead",
+        "overhear",
+        "overlook",
+        "overseas"
+      ],
+      "question": {
+        "wordId": "overcoat",
+        "stem": "选择 \"overcoat\" 的正确中文意思：",
+        "correct": "n.外衣,大衣",
+        "options": [
+          "v.战胜,克服",
+          "v.重叠,与…交叠 n.重叠",
+          "a.在头顶上的;架空的 ad.在头顶上",
+          "n.外衣,大衣"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "over-（在...之上）+ coat（外套）→ 穿在普通外套之上的衣物 → 大衣、外衣。",
+        "similarWarning": "overcome（克服）：over + come（来）→ 来到上面 → 克服。overlap（重叠）：over + lap（膝部）→ 膝盖上部分重叠 → 重叠。overhead（头顶的）：over + head（头）→ 头顶上方 → 头顶的。overhear（偷听）：over + hear（听）→ 从上方听到 → 偷听。overlook（忽视）：over + look（看）→ 看过头 → 忽视。overseas（海外的）：over + seas（海）→ 在海上 → 海外的。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "overcome",
+      "word": "overcome",
+      "phonetic": "/ˌəuvə'kʌm/",
+      "meaning": "v.战胜,克服",
+      "similar": [
+        "overcoat",
+        "overtime",
+        "become",
+        "outcome",
+        "welcome",
+        "everyone",
+        "overlook",
+        "overtake"
+      ],
+      "question": {
+        "wordId": "overcome",
+        "stem": "选择 \"overcome\" 的正确中文意思：",
+        "correct": "v.战胜,克服",
+        "options": [
+          "a.超时的,加班的 ad.加班",
+          "vi.变成，开始变得vt.适合，同…相称",
+          "v.战胜,克服",
+          "n.外衣,大衣"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "over-（超过，在…之上）+ come（来，到达）→ 从上方跨越过来 → 引申为战胜、克服障碍。核心物理动作：从障碍物上方越过。",
+        "similarWarning": "overcome 战胜，克服；overtake 追上，超过（take 拿，抓住）；overlook 忽视，俯瞰（look 看）。",
+        "extendedMeaning": "",
+        "examUsage": "overcome difficulties（克服困难）；be overcome by/with（被…压倒，如情感、烟尘），真题中常考其被动语态表‘被…所支配’的熟词僻义。"
+      }
+    },
+    {
+      "id": "overflow",
+      "word": "overflow",
+      "phonetic": "/ˌəuvə'fləu/",
+      "meaning": "v.(使)外溢,(使)溢出;溢出,流出,漫出",
+      "similar": [
+        "overthrow",
+        "overall",
+        "overlap",
+        "overlook"
+      ],
+      "question": {
+        "wordId": "overflow",
+        "stem": "选择 \"overflow\" 的正确中文意思：",
+        "correct": "v.(使)外溢,(使)溢出;溢出,流出,漫出",
+        "options": [
+          "v.重叠,与…交叠 n.重叠",
+          "a.全面的,综合的 n.(pl.)(套头)工作服",
+          "v./n.推翻,颠覆",
+          "v.(使)外溢,(使)溢出;溢出,流出,漫出"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "over（超过）+flow（流）→ 水流超过容器边界而流出。核心物理动作：液体因超出容纳限度而向外流动。",
+        "similarWarning": "overthrow（推翻：over+throw，扔过去→推翻）、overall（全部的：over+all，覆盖全部→整体的）、overlap（重叠：over+lap，部分覆盖→重叠）、overlook（忽视：over+look，看过去→忽略）。区别在于第二词根：flow（流）vs throw（扔）vs all（全部）vs lap（重叠）vs look（看）。",
+        "extendedMeaning": "考研常考引申义：1. 人群/事物过多而无法容纳（The room overflowed with guests.）；2. 情感洋溢（overflow with joy）；3. 计算机/数据溢出（buffer overflow）。",
+        "examUsage": "真题考点：1. 搭配 \"overflow with\"（充满，洋溢）；2. 名词用法（an overflow of...）；3. 干扰项常与overlook、overlap混淆，注意上下文是“过多”还是“忽略/重叠”。"
+      }
+    },
+    {
+      "id": "overhead",
+      "word": "overhead",
+      "phonetic": "/'əuvəhed/",
+      "meaning": "a.在头顶上的;架空的 ad.在头顶上",
+      "similar": [
+        "overhear",
+        "overseas",
+        "overwhelm",
+        "overlap",
+        "forehead",
+        "overcoat"
+      ],
+      "question": {
+        "wordId": "overhead",
+        "stem": "选择 \"overhead\" 的正确中文意思：",
+        "correct": "a.在头顶上的;架空的 ad.在头顶上",
+        "options": [
+          "a.外国的,海外的 ad.在海外",
+          "v.偶然听到,从旁听到",
+          "v.淹没,覆没,压倒,制服,使不知所措",
+          "a.在头顶上的;架空的 ad.在头顶上"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "over-（在…上方）+ head（头）→ 字面即“在头顶上”，核心动作为空间位置关系，引申为架空、上方。",
+        "similarWarning": "overhear（无意中听到）= over（超过）+ hear（听）→ 强调偷听；overhead（头顶上方）= over（上方）+ head（头）→ 强调位置。拼写差异在 hear vs head。",
+        "extendedMeaning": "（考研常考）作为名词时意为“企业经常性开支、管理费用”（如 rent, utilities 等 overhead costs），与“头顶”义无关。",
+        "examUsage": "真题考点：overhead（n. 管理费用）常与 cost, expense 搭配，如 overhead costs（间接成本），是阅读中商业类话题的关键词。"
+      }
+    },
+    {
+      "id": "overhear",
+      "word": "overhear",
+      "phonetic": "/ˌəuvə'hiə/",
+      "meaning": "v.偶然听到,从旁听到",
+      "similar": [
+        "overhead",
+        "overseas",
+        "overwhelm",
+        "overlap",
+        "overcoat"
+      ],
+      "question": {
+        "wordId": "overhear",
+        "stem": "选择 \"overhear\" 的正确中文意思：",
+        "correct": "v.偶然听到,从旁听到",
+        "options": [
+          "v.淹没,覆没,压倒,制服,使不知所措",
+          "a.外国的,海外的 ad.在海外",
+          "a.在头顶上的;架空的 ad.在头顶上",
+          "v.偶然听到,从旁听到"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "over-（在…上方/超过）+ hear（听）→ 在听者上方或附近听到，即无意中听到，强调非主动偷听而是偶然性。",
+        "similarWarning": "overhead (在头顶上方) / overwhelm (压倒，淹没) / overlap (重叠) → overhear 核心在 hear，强调听觉上的偶然性。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "overlap",
+      "word": "overlap",
+      "phonetic": "/ˌəuvə'læp/",
+      "meaning": "v.重叠,与…交叠 n.重叠",
+      "similar": [
+        "overcoat",
+        "overflow",
+        "overhead",
+        "overhear",
+        "overlook",
+        "overpass",
+        "overseas",
+        "overtake"
+      ],
+      "question": {
+        "wordId": "overlap",
+        "stem": "选择 \"overlap\" 的正确中文意思：",
+        "correct": "v.重叠,与…交叠 n.重叠",
+        "options": [
+          "v.重叠,与…交叠 n.重叠",
+          "n.外衣,大衣",
+          "a.在头顶上的;架空的 ad.在头顶上",
+          "v.(使)外溢,(使)溢出;溢出,流出,漫出"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "over（在…之上）+ lap（重叠部分，源于“折叠”或“覆盖”），字面义为“在某个部分上重叠覆盖”，核心动作是两物部分区域相互覆盖。",
+        "similarWarning": "overlap vs. overcoat（外套，coat为“外衣”），overlap强调部分覆盖，overcoat是整体覆盖物；overflow（溢出，flow为“流动”），与重叠无关。",
+        "extendedMeaning": "考研中常引申为“部分重合、时间/范围重叠”，如：The two projects overlap in schedule（两个项目时间表有重合）。",
+        "examUsage": "真题中常考搭配overlap with...（与…重叠），以及名词短语overlap region（重叠区域），注意区分及物与不及物用法。"
+      }
+    },
+    {
+      "id": "overlook",
+      "word": "overlook",
+      "phonetic": "/ˌəuvə'luk/",
+      "meaning": "v.看漏,忽略;俯瞰,眺望;宽容,放任",
+      "similar": [
+        "outlook",
+        "overlap",
+        "overcoat",
+        "overcome",
+        "overflow"
+      ],
+      "question": {
+        "wordId": "overlook",
+        "stem": "选择 \"overlook\" 的正确中文意思：",
+        "correct": "v.看漏,忽略;俯瞰,眺望;宽容,放任",
+        "options": [
+          "v.重叠,与…交叠 n.重叠",
+          "n.景色,风光;观点,见解;展望,前景",
+          "n.外衣,大衣",
+          "v.看漏,忽略;俯瞰,眺望;宽容,放任"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "over（在…上方）+ look（看）。核心动作：从上方看。本义为“俯瞰”，引申为“看漏”（视线越过目标）和“宽容”（从高处俯视，不计较小错）。",
+        "similarWarning": "outlook（观点/展望） vs overlook（忽略/俯瞰）：out-向外，over-上方；overlap（重叠）：lap重叠部分；overflow（溢出）：flow流动。",
+        "extendedMeaning": "考研僻义：宽容，放任（常指对错误、过失不追究）。如：overlook a mistake（宽容一个错误）。",
+        "examUsage": "真题考点：常与“ignore”辨析。overlook侧重无意忽略，ignore侧重故意不理。例句：The manager decided to overlook his employee's minor fault.（经理决定原谅员工的小错。）"
+      }
+    },
+    {
+      "id": "overnight",
+      "word": "overnight",
+      "phonetic": "/ˌəuvə'nait/",
+      "meaning": "a.通宵的,晚上的 ad.在昨夜,一夜工夫,突然",
+      "similar": [],
+      "question": {
+        "wordId": "overnight",
+        "stem": "选择 \"overnight\" 的正确中文意思：",
+        "correct": "a.通宵的,晚上的 ad.在昨夜,一夜工夫,突然",
+        "options": [
+          "n.条件，状况，环境 vt.决定；支配；训练",
+          "n.色拉,凉拌菜",
+          "n.驾驶员",
+          "a.通宵的,晚上的 ad.在昨夜,一夜工夫,突然"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "over（超过、跨越）+ night（夜晚）→ 跨越整个夜晚 → 通宵的、一夜之间。核心动作：时间上的跨越，从傍晚到次日早晨的连续过程。引申为“突然”，强调时间短、变化快，如一夜之间发生。",
+        "similarWarning": "government（政府）与overnight拼写相似，但差异在于：government含-govern（统治）和-ment（名词后缀），而overnight由over+night构成。词义完全无关：government指管理机构，overnight指时间概念。",
+        "extendedMeaning": "考研常考“突然”义，如overnight success（一夜成名），强调短时间内发生剧变，非字面“通宵”。",
+        "examUsage": "真题中常作副词，修饰动词或整句：The situation changed overnight.（情况一夜之间变了。）考点：与suddenly互换，但更强调时间跨度短。"
+      }
+    },
+    {
+      "id": "overpass",
+      "word": "overpass",
+      "phonetic": "/'əuvəpɑ:s/",
+      "meaning": "n.过街天桥 vt.胜过,通过,忽视",
+      "similar": [
+        "overall",
+        "overlap",
+        "surpass",
+        "overseas",
+        "overtake"
+      ],
+      "question": {
+        "wordId": "overpass",
+        "stem": "选择 \"overpass\" 的正确中文意思：",
+        "correct": "n.过街天桥 vt.胜过,通过,忽视",
+        "options": [
+          "vt.超过,胜过",
+          "v.重叠,与…交叠 n.重叠",
+          "a.全面的,综合的 n.(pl.)(套头)工作服",
+          "n.过街天桥 vt.胜过,通过,忽视"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "over（在……之上）+ pass（通过）→ 从上方通过。本义为“越过上方”，名词指“过街天桥”（上方通道），动词引申为“胜过”（超越对手）、“通过”（跨越障碍）、“忽视”（视而不见地越过）。",
+        "similarWarning": "overall（adj.全部的）：over+all（全部），强调覆盖整体；overpass（v.忽视）：over+pass（通过），强调从上方越过而忽略。",
+        "extendedMeaning": "【熟词僻义】动词“忽视”：真题中常考其“无视、忽略”之义，如“overpass the problem”（忽视问题），与ignore、overlook同义。",
+        "examUsage": "【真题考点】及物动词用法：overpass sb./sth. 表示“胜过/超过某人/某事”，常用于比较语境，如“overpass the previous record”（打破先前记录）。"
+      }
+    },
+    {
+      "id": "overseas",
+      "word": "overseas",
+      "phonetic": "/'əuvə'si:z/",
+      "meaning": "a.外国的,海外的 ad.在海外",
+      "similar": [
+        "overhead",
+        "overhear",
+        "versus",
+        "overlap",
+        "whereas",
+        "overcoat",
+        "overpass",
+        "conversely"
+      ],
+      "question": {
+        "wordId": "overseas",
+        "stem": "选择 \"overseas\" 的正确中文意思：",
+        "correct": "a.外国的,海外的 ad.在海外",
+        "options": [
+          "a.外国的,海外的 ad.在海外",
+          "a.在头顶上的;架空的 ad.在头顶上",
+          "v.偶然听到,从旁听到",
+          "prep.(vs.)…对…(在诉讼,比赛等);与…相对"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "over（在...之上/越过）+ seas（海）→ 字面义“越过海洋”，引申为“海外/国外的”。核心动作：跨越海洋的物理位移，指向地理空间上的外部区域。",
+        "similarWarning": "overhead（头上方的/管理费用） vs overseas：head（头） vs seas（海）；overhear（偷听） vs overseas：hear（听） vs seas（海）；overlap（重叠） vs overseas：lap（重叠部分） vs seas（海）；whereas（然而） vs overseas：where（哪里） vs seas（海）；overpass（立交桥/超越） vs overseas：pass（通过） vs seas（海）。",
+        "extendedMeaning": "在考研中，overseas常作定语形容词，强调“来自或涉及外国的”，如overseas market（海外市场）、overseas investment（海外投资），而非仅指“在海外”。",
+        "examUsage": "高频搭配：overseas students（外国留学生，区别于“留学生”的惯用表达）；真题例句：The overseas trade has been severely affected by the global recession.（海外贸易受到全球衰退的严重影响。）注意与abroad的区别：overseas侧重地域属性，abroad侧重状态。"
+      }
+    },
+    {
+      "id": "overtake",
+      "word": "overtake",
+      "phonetic": "/ˌəuvə'teik/",
+      "meaning": "v.追上,超过,突然降临,压倒",
+      "similar": [
+        "overtime",
+        "undertake",
+        "average",
+        "operate",
+        "overall",
+        "overlap",
+        "overcome",
+        "overpass"
+      ],
+      "question": {
+        "wordId": "overtake",
+        "stem": "选择 \"overtake\" 的正确中文意思：",
+        "correct": "v.追上,超过,突然降临,压倒",
+        "options": [
+          "v.追上,超过,突然降临,压倒",
+          "a.超时的,加班的 ad.加班",
+          "v.承担,担任;许诺,保证;着手,从事",
+          "n.平均,平均数 a.平均的；普通的 v.平均"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "over（超过）+ take（拿取）→ 字面“超过并拿取”，核心动作：从后方赶上并超越。引申为“突然降临”（如灾难）或“压倒”（情感、事件）。",
+        "similarWarning": "overtake vs. overturn: overtake是“追上、超过”，侧重位置或速度的超越；overturn是“推翻、翻转”，侧重状态或方向的改变。",
+        "extendedMeaning": "①（情感、事件）突然降临，如“be overtaken by fear”（被恐惧压倒）；②（商业、排名）反超，如“overtake the leading competitor”。",
+        "examUsage": "高频搭配：overtake sb/sth（超越某人/物），被动形式“be overtaken by”（被…压倒/侵袭）。真题例句：“The company was overtaken by a wave of innovation.”（该公司被创新浪潮压倒。）"
+      }
+    },
+    {
+      "id": "overthrow",
+      "word": "overthrow",
+      "phonetic": "/ˌəuvə'θrəu/",
+      "meaning": "v./n.推翻,颠覆",
+      "similar": [
+        "overflow",
+        "overturn"
+      ],
+      "question": {
+        "wordId": "overthrow",
+        "stem": "选择 \"overthrow\" 的正确中文意思：",
+        "correct": "v./n.推翻,颠覆",
+        "options": [
+          "v./n.主张,断言,抗议,反对",
+          "n.倾覆,破灭,革命 v.打翻,推翻,颠倒,翻倒",
+          "v.(使)外溢,(使)溢出;溢出,流出,漫出",
+          "v./n.推翻,颠覆"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "over（在...之上）+ throw（投掷）→ 从上方扔下，引申为将权力者从高位扔下，即推翻、颠覆。核心动作为“把在上位的东西掷落”。",
+        "similarWarning": "overflow（溢出；over+flow流动→漫出）vs. overturn（倾覆；over+turn翻转→使翻倒）：overthrow强调用暴力或强力将政权/制度彻底打倒；overturn侧重物理翻转或法律/判决的推翻；overflow则为液体溢出或人满为患。",
+        "extendedMeaning": "在考研阅读中，overthrow常引申为“彻底废除（旧制度/观念）”，如overthrow traditional norms（颠覆传统规范），而非仅指物理推翻。",
+        "examUsage": "真题考点：用作动词时，常与government/regime/dictator搭配，表示“推翻政权”；名词形式常出现在历史或政治类阅读中，如‘the overthrow of the monarchy’。注意区分overturn a decision（推翻决定）与overthrow a regime（推翻政权）的语境差异。"
+      }
+    },
+    {
+      "id": "overtime",
+      "word": "overtime",
+      "phonetic": "/'əuvətaim/",
+      "meaning": "a.超时的,加班的 ad.加班",
+      "similar": [
+        "overcome",
+        "overtake",
+        "advertise",
+        "fertile",
+        "overturn",
+        "sometime"
+      ],
+      "question": {
+        "wordId": "overtime",
+        "stem": "选择 \"overtime\" 的正确中文意思：",
+        "correct": "a.超时的,加班的 ad.加班",
+        "options": [
+          "a.超时的,加班的 ad.加班",
+          "v.战胜,克服",
+          "vt.公告，公布；为...做广告 vi.登广告",
+          "v.追上,超过,突然降临,压倒"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "over（超过）+ time（时间）→ 超过规定时间，即超时、加班。",
+        "similarWarning": "overtime vs. overtime（无常见易混词，但注意与overcome（克服）、overtake（追上）、overturn（推翻）区别，拼写差异明显，不易混淆）",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "overturn",
+      "word": "overturn",
+      "phonetic": "/ˌəuvə'tə:n/",
+      "meaning": "n.倾覆,破灭,革命 v.打翻,推翻,颠倒,翻倒",
+      "similar": [
+        "overthrow",
+        "return",
+        "venture",
+        "overtake",
+        "overtime"
+      ],
+      "question": {
+        "wordId": "overturn",
+        "stem": "选择 \"overturn\" 的正确中文意思：",
+        "correct": "n.倾覆,破灭,革命 v.打翻,推翻,颠倒,翻倒",
+        "options": [
+          "v./n.返回,回来;归还,送还;回答",
+          "v./n.推翻,颠覆",
+          "v.冒险,拼;大胆表示 n.冒险事业,拼,闯",
+          "n.倾覆,破灭,革命 v.打翻,推翻,颠倒,翻倒"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自over（翻转）+ turn（转动），字面即“翻转过来”。核心物理动作是使某物上下颠倒或从直立状态变为倒伏，引申为推翻现有秩序、决定或局面。",
+        "similarWarning": "overthrow（推翻，强调彻底击败）：overturn（推翻，侧重使翻倒/失效）+ throw（投掷）。return（返回）：overturn（翻转）+ re-（回）。venture（冒险）：overturn（翻转）+ vent（来）。",
+        "extendedMeaning": "在考研语境中常指“推翻判决/决定”（法律/政治领域），如overturn a verdict（推翻裁决）；或“颠覆传统观念/体制”，如overturn the established order。",
+        "examUsage": "真题考点：overturn常作及物动词，后接抽象名词（如decision, policy, system），在阅读中作为“废除、使无效”的同义替换词出现，与overthrow、reverse等构成干扰项。"
+      }
+    },
+    {
+      "id": "overwhelm",
+      "word": "overwhelm",
+      "phonetic": "/ˌəuvə'welm/",
+      "meaning": "v.淹没,覆没,压倒,制服,使不知所措",
+      "similar": [
+        "overhead",
+        "overhear"
+      ],
+      "question": {
+        "wordId": "overwhelm",
+        "stem": "选择 \"overwhelm\" 的正确中文意思：",
+        "correct": "v.淹没,覆没,压倒,制服,使不知所措",
+        "options": [
+          "v.淹没,覆没,压倒,制服,使不知所措",
+          "v.偶然听到,从旁听到",
+          "a.谦虚的,有节制的",
+          "a.在头顶上的;架空的 ad.在头顶上"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "over-（在…之上） + whelm（淹没、压倒）。核心动作：像巨浪一样从上方完全覆盖，物理上“淹没”，引申为情感或力量上的“压倒、制服”。",
+        "similarWarning": "overhead（头顶的， overhead cost 管理费用） vs overwhelm（淹没、压倒） vs overhear（无意中听到， hear 的变体）。差异：overhead 强调空间位置；overwhelm 强调覆盖性压制；overhear 强调听觉上的偶然性。",
+        "extendedMeaning": "使不知所措（情感上被完全覆盖）：如 be overwhelmed by grief（悲痛欲绝）；压倒性优势：overwhelming majority（绝大多数）。",
+        "examUsage": "真题干扰项常考：overwhelmed 作表语表示“不堪重负的”，如 feel overwhelmed by workload。搭配：overwhelming odds（压倒性的优势）。"
+      }
+    },
+    {
+      "id": "overwhelming",
+      "word": "overwhelming",
+      "phonetic": "/ˌəuvə'welmɪŋ/",
+      "meaning": "a.势不可挡的,压倒的",
+      "similar": [],
+      "question": {
+        "wordId": "overwhelming",
+        "stem": "选择 \"overwhelming\" 的正确中文意思：",
+        "correct": "a.势不可挡的,压倒的",
+        "options": [
+          "a.势不可挡的,压倒的",
+          "n.边缘,帽沿",
+          "n.目标,目的 a.客观的,真实的",
+          "a.顺时针方向"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "over（在...之上）+ whelm（淹没、压倒）+ -ing（形容词后缀）→ 水或其他力量从上方完全覆盖、压倒一切 → 引申为“势不可挡的、压倒性的”。核心物理动作为“从上至下完全覆盖并制服”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“巨大的、极度的”（如 overwhelming majority 绝大多数），或形容情感、感受“难以抗拒的”（如 an overwhelming sense of guilt 强烈的负罪感）。",
+        "examUsage": "真题常见搭配：overwhelming evidence（压倒性证据）、overwhelming odds（极大的优势/劣势）。干扰项常设置为表示“轻微的、可忽略的”词（如 negligible, trivial）。"
+      }
+    },
+    {
+      "id": "owe",
+      "word": "owe",
+      "phonetic": "/əu/",
+      "meaning": "v.欠(债等),应向…付出,归功于,得感谢",
+      "similar": [
+        "awe",
+        "one",
+        "ore",
+        "owl",
+        "bowel",
+        "lower",
+        "owner",
+        "towel"
+      ],
+      "question": {
+        "wordId": "owe",
+        "stem": "选择 \"owe\" 的正确中文意思：",
+        "correct": "v.欠(债等),应向…付出,归功于,得感谢",
+        "options": [
+          "n.敬畏，惊惧vt.使敬畏，使惊惧",
+          "v.欠(债等),应向…付出,归功于,得感谢",
+          "n.矿石,矿砂",
+          "num.一 pron.一个(只)(表示代替可数的东西)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根源自中古英语‘owen’，‘欠’义；核心物理动作是‘持有某物但应给予他人’，引申为‘欠债’或‘归功于’（将功劳归于他人如债务）。",
+        "similarWarning": "owe vs. awe：owe（欠债，o-圆环象征债务循环） vs. awe（敬畏，awe中a-表‘对…的’，we-‘看’，合为‘看到后产生敬畏’）。owe vs. own：owe（欠，强调未还） vs. own（拥有，强调持有）。",
+        "extendedMeaning": "归功于（owe...to）：‘We owe our success to hard work.’ 非字面‘欠’，而是‘应把…归因于’。",
+        "examUsage": "owe it to oneself that...（认为自己理应…）：‘You owe it to yourself to take a break.’ 真题中常考‘owe...to’的引申义，如‘owe allegiance to’（应效忠于）。"
+      }
+    },
+    {
+      "id": "owing",
+      "word": "owing",
+      "phonetic": "/'əuiŋ/",
+      "meaning": "a.欠的,未付的",
+      "similar": [
+        "wing",
+        "swing",
+        "bowling",
+        "outing",
+        "twin",
+        "wink",
+        "cling",
+        "fling"
+      ],
+      "question": {
+        "wordId": "owing",
+        "stem": "选择 \"owing\" 的正确中文意思：",
+        "correct": "a.欠的,未付的",
+        "options": [
+          "v.摇摆,摇荡,回转,旋转 n.秋千;摇摆,摆动",
+          "n.翅,翅膀;翼,机翼;派别 vt.装以翼",
+          "a.欠的,未付的",
+          "n.保龄球运动"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源于owe（欠）的现在分词形式，核心动作是“欠债未还”，引申为“未付的、应支付的”。词根ow-（拥有、欠）与own同源，强调法律或道德上的责任归属。",
+        "similarWarning": "owing vs. own：owing强调“欠债状态”（owe的ing形式），own是“拥有”（动词）或“自己的”（形容词）。owing vs. outing：outing是“短途旅行”，拼写多一个t，词义无关联。",
+        "extendedMeaning": "在考研阅读中，owing to常作介词短语，意为“由于、因为”，引导原因状语，如：Owing to the financial crisis, the company went bankrupt.（由于金融危机，公司破产。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "owl",
+      "word": "owl",
+      "phonetic": "/aul/",
+      "meaning": "n.猫头鹰",
+      "similar": [
+        "bowl",
+        "howl",
+        "oil",
+        "owe",
+        "bowel",
+        "towel",
+        "vowel"
+      ],
+      "question": {
+        "wordId": "owl",
+        "stem": "选择 \"owl\" 的正确中文意思：",
+        "correct": "n.猫头鹰",
+        "options": [
+          "n.油，石油 v.给…加润滑油；涂油，上油",
+          "n.怒吼，嗥叫 vi.(风等)怒吼，咆哮",
+          "n.碗(状物),钵",
+          "n.猫头鹰"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟猫头鹰叫声'嗷呜'，直接指代这种夜行猛禽。",
+        "similarWarning": "bowl（碗）首字母b→o→w→l vs owl（猫头鹰）首字母o→w→l；howl（嚎叫）首字母h→o→w→l vs owl；oil（油）字母i替换w；owe（欠）字母e结尾；own（拥有）字母n结尾；bowel（肠）加be；towel（毛巾）加te；vowel（元音）加ve。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "owner",
+      "word": "owner",
+      "phonetic": "/'əunə/",
+      "meaning": "n.物主,所有者",
+      "similar": [
+        "powder",
+        "one",
+        "owe",
+        "inner",
+        "liner",
+        "lower",
+        "offer",
+        "outer"
+      ],
+      "question": {
+        "wordId": "owner",
+        "stem": "选择 \"owner\" 的正确中文意思：",
+        "correct": "n.物主,所有者",
+        "options": [
+          "v.欠(债等),应向…付出,归功于,得感谢",
+          "num.一 pron.一个(只)(表示代替可数的东西)",
+          "n.粉末,药粉;火药,炸药",
+          "n.物主,所有者"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 'own'（拥有） + 名词后缀 '-er'（……的人）。核心动作：拥有某物的人。",
+        "similarWarning": "形近词对比：corner（角落，拐角） vs. owner（所有者）——字母差异 'c' vs. 'ow'，词义无关；powder（粉末） vs. owner——字母差异 'powd' vs. 'own'，词源无关。",
+        "extendedMeaning": "在考研中，owner 可引申为“负责人”或“主导者”，如 business owner（企业主），强调对某事物的控制权或责任，非仅指法律上的物主。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ownership",
+      "word": "ownership",
+      "phonetic": "/'əunəʃip/",
+      "meaning": "n.所有(权),所有制",
+      "similar": [
+        "worship",
+        "leadership",
+        "membership"
+      ],
+      "question": {
+        "wordId": "ownership",
+        "stem": "选择 \"ownership\" 的正确中文意思：",
+        "correct": "n.所有(权),所有制",
+        "options": [
+          "n.礼拜,礼拜仪式;崇拜 v.崇拜,敬仰;做礼拜",
+          "n.领导",
+          "n.所有(权),所有制",
+          "n.会员资格,成员资格"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "owner（拥有者）+ -ship（表示状态/身份的后缀）。核心动作：拥有者身份的状态，即所有权或所有制。",
+        "similarWarning": "worship（崇拜、敬奉）：词根 wor-（价值）+ -ship，侧重崇拜行为；ownership 侧重法律上的所有关系。leadership（领导力）：leader + -ship，侧重领导能力或职位；ownership 侧重财产权。membership（会员资格）：member + -ship，侧重成员身份；ownership 侧重所有者身份。",
+        "extendedMeaning": "在考研真题中，ownership 常引申为‘控制权’或‘主权’，如‘state ownership’（国家所有权）或‘collective ownership’（集体所有制），用于经济或政治语境。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "oxide",
+      "word": "oxide",
+      "phonetic": "/'ɔksaid/",
+      "meaning": "n.[化]氧化物",
+      "similar": [
+        "tide",
+        "abide",
+        "aside",
+        "bride",
+        "exile",
+        "glide",
+        "guide",
+        "pride"
+      ],
+      "question": {
+        "wordId": "oxide",
+        "stem": "选择 \"oxide\" 的正确中文意思：",
+        "correct": "n.[化]氧化物",
+        "options": [
+          "vi.(abode，abided)(by)遵守；坚持",
+          "n.潮,潮汐;潮流,趋势",
+          "ad.在旁边，到一边 n.旁白；离题的话",
+          "n.[化]氧化物"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 ox-（尖锐、酸）+ -ide（化学名词后缀，表示化合物）。源自希腊语 oxys（尖锐、酸），因氧最初被认为是一切酸的本质，故氧化物指氧与其他元素化合的产物。核心动作/画面：氧元素与其他元素结合形成酸性或中性物质。",
+        "similarWarning": "abide（遵守，容忍，a-加强+bide停留）与 oxide 仅首字母不同，但词义无关联；aside（在旁边，a-在+side侧）与 oxide 拼写差异为 a- vs ox-，注意区分。",
+        "extendedMeaning": "考研中常以专业术语出现，无显著僻义，但需注意在科技类阅读中可能作为背景词汇（如二氧化碳 carbon dioxide 的衍生理解）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "oxygen",
+      "word": "oxygen",
+      "phonetic": "/'ɔksidʒən/",
+      "meaning": "n.氧,氧气",
+      "similar": [],
+      "question": {
+        "wordId": "oxygen",
+        "stem": "选择 \"oxygen\" 的正确中文意思：",
+        "correct": "n.氧,氧气",
+        "options": [
+          "a.各种各样的;不同的",
+          "n.杂志,期刊",
+          "n.氧,氧气",
+          "n.代表,代理人 a.(of)典型的,有代表性的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自法语oxygène，由希腊语oxys（尖锐的、酸）和gen（产生）构成，原义为“产生酸的物质”，因早期化学家误以为氧是酸的必要成分。核心物理动作：生成酸的元素。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“生命活力的来源”或“不可或缺的条件”，如“oxygen of democracy”（民主的氧气/生存条件）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ozone",
+      "word": "ozone",
+      "phonetic": "/'əuzəun/",
+      "meaning": "n.臭氧；(海岸等的)新鲜空气",
+      "similar": [
+        "zone",
+        "one",
+        "none",
+        "tone",
+        "alone",
+        "clone",
+        "prone"
+      ],
+      "question": {
+        "wordId": "ozone",
+        "stem": "选择 \"ozone\" 的正确中文意思：",
+        "correct": "n.臭氧；(海岸等的)新鲜空气",
+        "options": [
+          "n.臭氧；(海岸等的)新鲜空气",
+          "n.地区,区域 v.分区,划分地带",
+          "num.一 pron.一个(只)(表示代替可数的东西)",
+          "pron.没有任何人(东西)；都不 ad.一点也不"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语ozein（发出气味），因臭氧有特殊气味而得名。o-（气味）+ -zone（名词后缀），直指一种有刺激性气味的气体。",
+        "similarWarning": "ozone vs. zone：ozone多一个o-（气味）前缀，指臭氧或新鲜空气；zone指区域、地带。",
+        "extendedMeaning": "考研僻义：无。",
+        "examUsage": "常见于环境类阅读，如ozone layer（臭氧层）是核心考点；ozone depletion（臭氧消耗）为高频搭配。"
+      }
+    },
+    {
+      "id": "pace",
+      "word": "pace",
+      "phonetic": "/peɪs /",
+      "meaning": "n.步,步伐,步调,速度 v.踱步,用步测",
+      "similar": [
+        "lace",
+        "pack",
+        "pact",
+        "pale",
+        "pave",
+        "packet",
+        "palace",
+        "parcel"
+      ],
+      "question": {
+        "wordId": "pace",
+        "stem": "选择 \"pace\" 的正确中文意思：",
+        "correct": "n.步,步伐,步调,速度 v.踱步,用步测",
+        "options": [
+          "v.捆扎,打包;塞满,挤满n.包裹,背包,一群/副",
+          "n.花边;带子,鞋带 v.系带,扎带",
+          "n.步,步伐,步调,速度 v.踱步,用步测",
+          "n.合同,条约,公约,协定"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'passus'（一步，跨度），本义为‘迈出的一步’。核心物理动作是‘用脚测量距离’，引申为‘步调’、‘速度’，强调节奏与进展的速率。",
+        "similarWarning": "pace（步伐） vs peace（和平）：前者元音为 /eɪ/，后者为 /iː/；pace vs place（地点）：多字母 'l' 改变空间含义；pace vs space（空间）：多字母 's' 扩展为抽象范围。",
+        "extendedMeaning": "【考研僻义】v. 为…定步调，调整节奏（如 pace oneself 调整自己的节奏以适应任务）；n. 节奏，进展速度（如 the pace of change 变革速度）。",
+        "examUsage": "【真题考点】keep pace with（与…保持同步）为常考固定搭配；set the pace（定步调，起带头作用）在阅读中表领先；pace of life（生活节奏）常见于议论文。"
+      }
+    },
+    {
+      "id": "pack",
+      "word": "pack",
+      "phonetic": "/pæk/",
+      "meaning": "v.捆扎,打包;塞满,挤满n.包裹,背包,一群/副",
+      "similar": [
+        "lack",
+        "pace",
+        "pact",
+        "pick",
+        "rack",
+        "sack",
+        "packet",
+        "crack"
+      ],
+      "question": {
+        "wordId": "pack",
+        "stem": "选择 \"pack\" 的正确中文意思：",
+        "correct": "v.捆扎,打包;塞满,挤满n.包裹,背包,一群/副",
+        "options": [
+          "v.捆扎,打包;塞满,挤满n.包裹,背包,一群/副",
+          "n./v.缺乏,不足",
+          "n.步,步伐,步调,速度 v.踱步,用步测",
+          "n.合同,条约,公约,协定"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根pact-（系紧、约定）的变体，核心动作是“把东西系在一起形成紧凑整体”。v.捆扎、打包；引申为塞满、挤满。n.包裹、背包；再引申为紧密群体如一群（狼群、牌组）。",
+        "similarWarning": "pact（n.条约、协定）→ pact强调“约定”的抽象关系，pack强调物理“包裹/群体”；pick（v.挑选）→ 字母a/i差异，pick侧重选择动作。",
+        "extendedMeaning": "n. 一包（香烟等）a pack of cigarettes；v. 压紧、压实（如pack the snow）；n. 牌的一副（a pack of cards）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "package",
+      "word": "package",
+      "phonetic": "/'pækidʒ/",
+      "meaning": "n.包装,包裹,箱,包装费,标准部件,成套设备",
+      "similar": [
+        "passage"
+      ],
+      "question": {
+        "wordId": "package",
+        "stem": "选择 \"package\" 的正确中文意思：",
+        "correct": "n.包装,包裹,箱,包装费,标准部件,成套设备",
+        "options": [
+          "n.结果,成果",
+          "n.通过,经过;通路,走廊;(一)段落,(一)节",
+          "n.家庭，家人 a.家庭(务)的，家常的",
+          "n.包装,包裹,箱,包装费,标准部件,成套设备"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根pack（打包）+ -age（名词后缀，表集合或费用），核心动作是“将物品打包成整体”，引申为“包裹、包装”，再引申为“成套设备、标准部件”等整体概念。",
+        "similarWarning": "passage（通道、段落）：与package仅差字母s/g，但passage源于pass（通过）+age，指通过的路径或文本段；package强调打包的整体。",
+        "extendedMeaning": "在考研阅读中，package常引申为“一揽子（计划/方案）”，如a package of reforms（一揽子改革方案），或“软件包”（如software package）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "packet",
+      "word": "packet",
+      "phonetic": "/'pækit/",
+      "meaning": "n.小包裹,小捆;盒;一捆,一扎;邮船,班轮",
+      "similar": [
+        "jacket",
+        "racket",
+        "bracket",
+        "pace",
+        "pack",
+        "pact",
+        "basket",
+        "bucket"
+      ],
+      "question": {
+        "wordId": "packet",
+        "stem": "选择 \"packet\" 的正确中文意思：",
+        "correct": "n.小包裹,小捆;盒;一捆,一扎;邮船,班轮",
+        "options": [
+          "n.(方)括号",
+          "n.球拍",
+          "n.短上衣,茄克衫",
+          "n.小包裹,小捆;盒;一捆,一扎;邮船,班轮"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根pack-（包裹、打包）+ 小后缀-et → 打包后的小件物品，强调小包裹、小捆。核心物理动作：将物品装入或捆成小包。",
+        "similarWarning": "pocket（口袋）: 拼写差异为‘-oc-’ vs ‘-ac-’，词义指衣物上的袋；packet（小包）: 指包装好的小盒或小捆。",
+        "extendedMeaning": "考研中常考‘数据包’（data packet）或‘信息包’（packet of information），即网络传输中的数据单元。",
+        "examUsage": ""
+      }
+    }
+  ]
+}

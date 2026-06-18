@@ -1,0 +1,1803 @@
+{
+  "batchId": 16,
+  "words": [
+    {
+      "id": "commission",
+      "word": "commission",
+      "phonetic": "/kə'miʃən/",
+      "meaning": "n.委员会;委任,委托(书),代办;佣金,手续费",
+      "similar": [
+        "compassion",
+        "admission",
+        "collision",
+        "concession",
+        "permission",
+        "combination",
+        "composition",
+        "coalition"
+      ],
+      "question": {
+        "wordId": "commission",
+        "stem": "选择 \"commission\" 的正确中文意思：",
+        "correct": "n.委员会;委任,委托(书),代办;佣金,手续费",
+        "options": [
+          "n.同情；怜悯(for)",
+          "n.委员会;委任,委托(书),代办;佣金,手续费",
+          "n.碰撞；(利益，意见等的)冲突，抵触",
+          "n.允许进；承认；入场费，入会费，入场券"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "com-（共同）+ miss（发送）+ -ion（名词后缀）。核心动作是“共同发送出去”，引申为将任务或权力委托给某人或团体去执行。词根miss源自拉丁语mittere（发送），故commission本义是“委托、授权”，进而衍生出“委员会”（被委托执行特定事务的团体）和“佣金”（委托他人办事所支付的报酬）。",
+        "similarWarning": "compassion（同情，com-共同+passion热情） vs commission（委托，com-共同+miss发送）；admission（入场许可，ad-向+miss发送） vs commission；collision（碰撞，col-共同+lis打击） vs commission；concession（让步，con-共同+ced走） vs commission；permission（许可，per-贯穿+miss发送） vs commission；combination（组合，com-共同+bin两个） vs commission；composition（组成，com-共同+pos放置） vs commission；coalition（联盟，co-共同+alit生长） vs commission。核心差异在词根miss（发送）与其他词根（passion热情、lis打击、ced走、bin两个、pos放置、alit生长）的字母级区分。",
+        "extendedMeaning": "考研中常考“佣金”义，如“a 5% commission on sales”（销售5%的佣金）；“委员会”义常见于机构名，如“the European Commission”（欧盟委员会）。",
+        "examUsage": "常与on搭配：commission on sth（……的佣金）；真题例句：“He earned a commission for every car he sold.”（每卖一辆车他赚取佣金。）注意区分commission（委托、佣金）与committee（委员会，侧重集体决策）在语境中的细微差别。"
+      }
+    },
+    {
+      "id": "commit",
+      "word": "commit",
+      "phonetic": "/kə'mit/",
+      "meaning": "v.把…交托给,提交;犯(错误),干(坏事)",
+      "similar": [
+        "comment",
+        "commute",
+        "omit",
+        "comic",
+        "combat",
+        "cosmic",
+        "summit"
+      ],
+      "question": {
+        "wordId": "commit",
+        "stem": "选择 \"commit\" 的正确中文意思：",
+        "correct": "v.把…交托给,提交;犯(错误),干(坏事)",
+        "options": [
+          "v.把…交托给,提交;犯(错误),干(坏事)",
+          "n.注释,评论,意见 v.(on)注释,评论",
+          "v.乘公交车上下班,乘车(船等)往返于两地",
+          "v.省略,删去;遗漏,忽略"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "com-（共同）+ mit（送出）→ 共同送出 → 把…交托给（委托）；引申为“犯（错误/坏事）”（把行为送出成为事实）。核心物理动作：送出、交付。",
+        "similarWarning": "commit vs comment（com-共同+ment思考→评论）；commute（com-共同+mut改变→通勤）；omit（o-离开+mit送出→省略）；comic（喜剧的）；combat（战斗）；common（共同的）；cosmic（宇宙的）；summit（顶峰）。差异在词根mit（送出）与其他词根的组合。",
+        "extendedMeaning": "1. 承诺、使承担义务（be committed to doing sth. 致力于做某事，高频考研义）。2. 调拨、投入（commit resources to... 投入资源）。",
+        "examUsage": "真题考点：commit a crime（犯罪）为基本义；常见搭配 commit oneself to（承诺、致力于），常用于阅读中作者态度或政策制定。例：The government committed itself to reducing emissions.（政府承诺减排。）"
+      }
+    },
+    {
+      "id": "committee",
+      "word": "committee",
+      "phonetic": "/kə'miti/",
+      "meaning": "n.委员会,全体委员",
+      "similar": [
+        "commute"
+      ],
+      "question": {
+        "wordId": "committee",
+        "stem": "选择 \"committee\" 的正确中文意思：",
+        "correct": "n.委员会,全体委员",
+        "options": [
+          "n.樱桃(树)",
+          "n.委员会,全体委员",
+          "v.推荐,介绍;劝告,建议",
+          "v.乘公交车上下班,乘车(船等)往返于两地"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语committere（委托），由com-（共同）+ mittere（发送）组成，核心动作是“共同委托”。committee指被共同委托处理事务的一群人，即委员会。",
+        "similarWarning": "commute（通勤，交换）：与committee共享词根mittere，但commute强调“交换”或“往返”，而committee强调“被委托的群体”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "commodity",
+      "word": "commodity",
+      "phonetic": "/kə'mɔditi/",
+      "meaning": "n.(pl.)日用品；商品；农/矿产品；有用之物",
+      "similar": [
+        "community",
+        "composite",
+        "accommodate"
+      ],
+      "question": {
+        "wordId": "commodity",
+        "stem": "选择 \"commodity\" 的正确中文意思：",
+        "correct": "n.(pl.)日用品；商品；农/矿产品；有用之物",
+        "options": [
+          "n.(pl.)日用品；商品；农/矿产品；有用之物",
+          "n.同一地区的全体居民,社会,社区;共同体",
+          "a.混合成的，综合成的n.合成物，复合材料",
+          "vt.向…提供住处；对...予以照顾性考虑"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 commoditas（便利、适宜），由 com-（共同）+ modus（度量、尺度）构成，字面义为“共同尺度下的产物”，即标准化、可交易的商品。核心物理动作是“衡量后共同认可的有用之物”。",
+        "similarWarning": "community（社区/共同体）与 commodity 仅差 -ity 与 -unity，前者强调人群集合，后者强调可交易物品；composite（合成的）与 commodity 差 -site 与 -modity，前者指混合构成，后者指商品；accommodate（容纳/适应）与 commodity 共享 com- 和 mod- 词根，但后者侧重“便利之物”而非“适应”。",
+        "extendedMeaning": "在考研真题中常引申为“具有交换价值的物品”，尤指经济学语境下的“大宗商品”（如石油、粮食），而非单纯日常用品。",
+        "examUsage": "真题考点：\"commodity prices\"（大宗商品价格）为经济类阅读高频搭配；\"commodity fetishism\"（商品拜物教）在批判类文章中出现。注意与 product 的区分：commodity 强调标准化、可交易性，product 更泛化。"
+      }
+    },
+    {
+      "id": "commonplace",
+      "word": "commonplace",
+      "phonetic": "/'kɔmənpleis/",
+      "meaning": "a.普通的，平庸的n.寻常事物，平庸的东西",
+      "similar": [
+        "communicate"
+      ],
+      "question": {
+        "wordId": "commonplace",
+        "stem": "选择 \"commonplace\" 的正确中文意思：",
+        "correct": "a.普通的，平庸的n.寻常事物，平庸的东西",
+        "options": [
+          "a.普通的，平庸的n.寻常事物，平庸的东西",
+          "v.传达,传送;交流;通讯,通话",
+          "n.同辈,同等地位的人;贵族 v.凝视,隐约出现",
+          "n.项链，项圈"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "common（公共的）+ place（地方）→公共的地方，大家都能见到的事物→引申为“普通的，平庸的”。核心逻辑：从“常见场所”到“常见事物”，强调缺乏独特性。",
+        "similarWarning": "形近词communicate（交流）：common+place强调“普遍性”，而communicate源自communis（共同）+ icare（使）→使共同→交流。注意字母差异：place vs. icare，前者是地点，后者是动作。",
+        "extendedMeaning": "考研中常考形容词义“平庸的，缺乏新意的”，如a commonplace idea（平庸的想法）；名词义“寻常事”也高频，如Travel is now a commonplace.（旅行现在是寻常事）。",
+        "examUsage": "真题考点：常与ordinary、banal同义替换，但强调“因常见而乏味”。例句：The film's plot is rather commonplace.（这部电影的情节相当平庸。）注意：在阅读中可能作为贬义评价词出现。"
+      }
+    },
+    {
+      "id": "commonwealth",
+      "word": "commonwealth",
+      "phonetic": "/'kɔmənwelθ/",
+      "meaning": "n.共和国,联邦,共同体",
+      "similar": [],
+      "question": {
+        "wordId": "commonwealth",
+        "stem": "选择 \"commonwealth\" 的正确中文意思：",
+        "correct": "n.共和国,联邦,共同体",
+        "options": [
+          "a.主要的,首要的 n.首领,领袖",
+          "v.剩下,余留;留待,尚须;仍然是,依旧是",
+          "n.共和国,联邦,共同体",
+          "vt.使确信，使放心(of)；向…保证"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "common（共同的）+ wealth（财富）→ 字面义为“共同的财富”，指为共同利益而联合的政治实体，如共和国、联邦或共同体。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中，常引申为“（由若干独立国家组成的）联邦”或“（利益、目标一致的）团体”，如the Commonwealth（英联邦）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "communicate",
+      "word": "communicate",
+      "phonetic": "/kə'mju:nɪkeɪt/",
+      "meaning": "v.传达,传送;交流;通讯,通话",
+      "similar": [
+        "communication",
+        "community",
+        "complicate",
+        "communism",
+        "compensate",
+        "commemorate",
+        "commonplace",
+        "complicated"
+      ],
+      "question": {
+        "wordId": "communicate",
+        "stem": "选择 \"communicate\" 的正确中文意思：",
+        "correct": "v.传达,传送;交流;通讯,通话",
+        "options": [
+          "n.同一地区的全体居民,社会,社区;共同体",
+          "v.使..复杂；使..难懂；使（疾病等）恶化；",
+          "n.通讯,传达;(pl.)通讯系统;交通(工具)",
+          "v.传达,传送;交流;通讯,通话"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'communicate'源自拉丁语'communicare'，意为“分享”或“使共同”，由前缀'com-'（一起）和词根'munic-'（公共的、服务）组成。词根'munic-'与拉丁语'munus'（职责、服务）相关，暗示“共同承担公共事务”。在古罗马，'communicare'本义是“将某人纳入公共事务的讨论中”，因此核心逻辑是“将信息、思想或情感从个体层面提升到公共层面，实现共享与连接”。你可以想象一个画面：两个人在一条河流的两岸，通过一座桥（'com-'代表桥梁）将各自手中的“包裹”（信息）传递给对方，这座桥就是'munic-'（公共通道）。这一过程不仅是信息的单向传递，更是双方建立共同理解（common understanding）的互动。考研中，'communicate'常强调“有效传递并达成共识”，而非简单的“说”或“写”。记住：'common'（共同）与'communicate'同源，核心就是“使成为共同”。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，'communication'是'communicate'的名词形式，结尾'-tion'表示“行为或结果”，指“交流的过程或通信系统��，如“Mass communication”（大众传播）。而'community'（社区）共享词根'mun-'，但后缀'-ity'表示“集体状态”，指“一群人共同生活的社会群体”，如“the scientific community”（科学界）。两者区别在于：'communicate'强调动作，'community'强调群体。其次，'complicate'（使复杂）由'com-'（一起）和'plic-'（折叠）组成，字面是“叠在一起”，与交流无关，如“complicate matters”（使事情复杂化）。'communism'（共产主义）共享词根'mun-'（公共），但后缀'-ism'表示“主义”，指“生产资料公有制的政治理论”。'compensate'（补偿）由'com-'（完全）和'pens-'（称重、支付）组成，意为“弥补损失”，如“compensate for the loss”（赔偿损失）。'commemorate'（纪念）由'com-'（一起）和'memor-'（记忆）组成，意为“共同记住”，如“commemorate the victory”（纪念胜利）。'commonplace'（平凡的）由'common'（普通的）和'place'（地方）组成，指“司空见惯的事”，如“a commonplace event”（寻常事件）。'complicated'（复杂的）是'complicate'的形容词形式，与'communicate'仅差字母'c' vs 'l'和't' vs 'd'，如“a complicated problem”（复杂的问题）。关键区别：'communicate'中有'muni'（公共），而'complicate'中有'plic'（折叠）。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研阅读和《经济学人》中，'communicate'有多个深层僻义。第一，表示“传达（情感或氛围）”，不限于语言：如《经济学人》例句：“The design of the building communicates a sense of power and authority.”（建筑的设计传达出一种权力和权威感。）这里'communicate'指通过非语言符号传递抽象概念。第二，表示“（疾病、热量等）传播”：在医学语境中，如“The virus can be communicated through bodily fluids.”（病毒可通过体液传播。）此时'communicate'与'transmit'同义。第三，表示“（想法、观点）被理解”：考研真题中常见“It is difficult to communicate the importance of this issue to the public.”（很难让公众理解这个问题的重要性。）这里强调“使他人接受并认同”。第四，表示“（计算机）连接或传输数据”：如“The devices communicate via Bluetooth.”（设备通过蓝牙通信。）在科技类文章中频繁出现。第五，表示“（艺术）传达主题”：如“The painting communicates a profound sense of loneliness.”（这幅画传达出深刻的孤独感。）‘communicate’在这些语境中，核心逻辑不变——都是“使某物（信息、情感、疾病、数据）从一个实体传递到另一个实体，并形成连接”。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，'communicate'常见搭配与句型包括：1.'communicate with sb.'（与某人交流），如2012年阅读真题：“The more we communicate with others, the more we understand ourselves.”（我们与他人交流越多，就越了解自己。）2.'communicate sth. to sb.'（向某人传达某事），如2015年翻译真题：“He tried to communicate his frustration to his colleagues.”（他试图向同事传达他的沮丧。）3.'communicate effectively'（有效沟通），写作高分句型：“Effective communication is essential for teamwork.”（有效沟通对团队合作至关重要。）4.'means of communication'（交流方式），如2018年阅读：“Social media has become a primary means of communication for young people.”（社交媒体已成为年轻人的主要交流方式。）5.'communicate ideas'（交流思想），写作常用：“The Internet enables people to communicate ideas across borders.”（互联网使人们能够跨越国界交流思想。）6.'communicate a sense of urgency'（传达紧迫感），如《经济学人》例句：“The report communicates a sense of urgency about climate change.”（报告传达���关于气候变化的紧迫感。）考研作文中，建议使用'communicate'替代简单的'tell'或'say'，以提升词汇档次。例如：“Leaders should communicate their vision clearly to inspire the team.”（领导者应清晰传达愿景以激励团队。）"
+      }
+    },
+    {
+      "id": "communication",
+      "word": "communication",
+      "phonetic": "/kəˌmju:nɪ'keɪʃn/",
+      "meaning": "n.通讯,传达;(pl.)通讯系统;交通(工具)",
+      "similar": [
+        "communicate",
+        "complication",
+        "combination",
+        "conjunction",
+        "compensation",
+        "competition",
+        "composition",
+        "implication"
+      ],
+      "question": {
+        "wordId": "communication",
+        "stem": "选择 \"communication\" 的正确中文意思：",
+        "correct": "n.通讯,传达;(pl.)通讯系统;交通(工具)",
+        "options": [
+          "n.复杂,纠纷;并发症",
+          "n.结合，联合；化合；团体；组合数码",
+          "v.传达,传送;交流;通讯,通话",
+          "n.通讯,传达;(pl.)通讯系统;交通(工具)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词communication源自拉丁语communicare，意为‘分享、使共同’，由前缀com-（共同、一起）和词根muni-（服务、职责）以及后缀-ation（名词形式）构成。其核心逻辑是‘使信息或想法成为共同拥有的东西’，即通过语言、符号或行为将个体之间的认知、情感或数据连接起来。想象一下，两个独立的大脑之间架起一座桥梁，让彼此的思想流动、交汇，这就是communication的本质。从词源看，muni-与拉丁语munus（礼物、职责）相关，暗示沟通不仅是传递，更是一种赠予和分享的责任。画面感联想：一群人围坐篝火，火光中每个人",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "communism",
+      "word": "communism",
+      "phonetic": "/'kɔmjunizəm/",
+      "meaning": "n.共产主义",
+      "similar": [
+        "community",
+        "communicate"
+      ],
+      "question": {
+        "wordId": "communism",
+        "stem": "选择 \"communism\" 的正确中文意思：",
+        "correct": "n.共产主义",
+        "options": [
+          "n.同一地区的全体居民,社会,社区;共同体",
+          "n.自助餐",
+          "v.传达,传送;交流;通讯,通话",
+          "n.共产主义"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自法语'communisme'，词根'commun'（公共的，共同的）+ 抽象名词后缀'-ism'（主义，制度）。核心动作/画面是‘将一切归为公共所有’，即生产资料公有、消灭私有制的社会制度。",
+        "similarWarning": "形近词辨析：\n1. community (n.社区，共同体)：词根'commun' + '-ity'（状态），强调‘共同生活的人群或团体’。\n2. communicate (v.交流，传播)：词根'commun' + '-icate'（使动），强调‘使共同知晓’。\n差异：-ism表‘主义’，-ity表‘状态’，-icate表‘动作’。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "community",
+      "word": "community",
+      "phonetic": "/kə'mju:niti/",
+      "meaning": "n.同一地区的全体居民,社会,社区;共同体",
+      "similar": [
+        "commodity",
+        "communism",
+        "communicate",
+        "comment",
+        "commute"
+      ],
+      "question": {
+        "wordId": "community",
+        "stem": "选择 \"community\" 的正确中文意思：",
+        "correct": "n.同一地区的全体居民,社会,社区;共同体",
+        "options": [
+          "n.同一地区的全体居民,社会,社区;共同体",
+          "n.(pl.)日用品；商品；农/矿产品；有用之物",
+          "n.共产主义",
+          "v.传达,传送;交流;通讯,通话"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语communitas，由com-（共同）+munus（职责、服务）+itas（名词后缀）组成，核心动作是“共同承担职责”，引申为“具有共同关系或利益的群体”。",
+        "similarWarning": "commodity（商品，源自拉丁语commoditas，强调便利、商品）与community区别在“-mod-”（度量）vs “-mun-”（职责）；communism（共产主义，源自communis+ism，强调共有制）与community区别在“-ism”（主义）vs “-ity”（性质）；communicate（交流，源自communicare，使共同）与community区别在“-ate”（动词后缀）vs “-ity”（名词后缀）。",
+        "extendedMeaning": "在生态学或社会学中可指“（生物）群落”；在经济学中可指“共同体（如欧洲经济共同体）”。",
+        "examUsage": "真题常考搭配：community service（社区服务）、community spirit（社区精神）、the international community（国际社会）。注意区分community与society（社会，更强调抽象组织）在语境中的细微差异。"
+      }
+    },
+    {
+      "id": "commute",
+      "word": "commute",
+      "phonetic": "/kə'mju:t/",
+      "meaning": "v.乘公交车上下班,乘车(船等)往返于两地",
+      "similar": [
+        "compute",
+        "computer",
+        "commit",
+        "compete",
+        "committee",
+        "community",
+        "commence",
+        "commerce"
+      ],
+      "question": {
+        "wordId": "commute",
+        "stem": "选择 \"commute\" 的正确中文意思：",
+        "correct": "v.乘公交车上下班,乘车(船等)往返于两地",
+        "options": [
+          "v./n.计算,估计",
+          "v.把…交托给,提交;犯(错误),干(坏事)",
+          "v.乘公交车上下班,乘车(船等)往返于两地",
+          "n.计算机,电脑;计算者"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "com-（共同）+ mute（改变）→ 改变通行的状态，即用交通工具替代步行，引申为“通勤”。核心动作：交替/变换（位置或状态）。",
+        "similarWarning": "compute（计算）：commute 强调“交换/通勤”，compute 强调“计算/估算”。拼写差异：commute 有 m-m-u-t-e，compute 有 m-p-u-t-e。",
+        "extendedMeaning": "【考研僻义】① 减刑（commute a sentence）：将重刑减轻。② 交换/替代（commute sth. for sth.）：尤指将一种支付方式或义务转换为另一种。",
+        "examUsage": "【真题考点】commute between...and...（在…与…之间通勤）；常用于阅读中表示“往返于两地”，或写作中替换“go to work”。"
+      }
+    },
+    {
+      "id": "compact",
+      "word": "compact",
+      "phonetic": "/kəm'pækt/",
+      "meaning": "a.紧密的,结实的;简明的 v.使紧凑,压缩",
+      "similar": [
+        "combat",
+        "impact",
+        "compare",
+        "compass",
+        "contact",
+        "complaint",
+        "complain",
+        "complete"
+      ],
+      "question": {
+        "wordId": "compact",
+        "stem": "选择 \"compact\" 的正确中文意思：",
+        "correct": "a.紧密的,结实的;简明的 v.使紧凑,压缩",
+        "options": [
+          "vt.(to，with)比较；(to)把…比作vi.相比",
+          "v./n.战斗,搏斗,格斗",
+          "a.紧密的,结实的;简明的 v.使紧凑,压缩",
+          "n.冲击,碰撞;影响 v.影响;挤入,压紧"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "com-（共同）+ pact（系紧，固定）。核心动作：把东西紧紧系在一起。由此衍生出“紧密的、结实的”和“压缩”之意。",
+        "similarWarning": "compact vs. combat: compact 中 pact 意为“固定”，combat 中 bat 意为“打”，故 combat 为“战斗”；compact vs. impact: im-（向内）+ pact（固定）→ impact 为“冲击、影响”。",
+        "extendedMeaning": "考研僻义：n.契约，合同（如 a compact between two parties）；v.使简洁（如 compact one's speech）。",
+        "examUsage": "真题考点：compact 作“紧凑的”时，常与 concise（简洁的）构成近义干扰，如 a compact/concise summary；搭配 compact disc（光盘，CD）为科技类阅读高频词。"
+      }
+    },
+    {
+      "id": "companion",
+      "word": "companion",
+      "phonetic": "/kəm'pænjən/",
+      "meaning": "n.同伴,共事者;伴侣",
+      "similar": [
+        "comparison",
+        "compassion",
+        "opinion",
+        "campaign",
+        "complain",
+        "combination",
+        "competition",
+        "composition"
+      ],
+      "question": {
+        "wordId": "companion",
+        "stem": "选择 \"companion\" 的正确中文意思：",
+        "correct": "n.同伴,共事者;伴侣",
+        "options": [
+          "n.比较,对比,比喻,比拟",
+          "n.意见,看法,主张",
+          "n.同伴,共事者;伴侣",
+          "n.同情；怜悯(for)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语companio，由com-（一起）+ panis（面包）组成，字面意为“一起吃面包的人”。核心动作是“共享食物”，引申为“同伴、伴侣”，强调共同经历或活动的关系。词根演变：panis→pany→-panion，与company同源。",
+        "similarWarning": "comparison（比较）：对比com-（一起）+ par（相等），强调“相似性比较”；companion强调“共同行动者”。compassion（同情）：com- + passion（情感），指向“共情”。campaign（战役）：源自camp（田野），指“军事行动”，与“同伴”无关。",
+        "extendedMeaning": "在考研真题中可指“（成对物品中的）一个”，如a companion volume（配套卷册），或“指南手册”，如a travel companion（旅游指南）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "comparable",
+      "word": "comparable",
+      "phonetic": "/'kɔmpərəbl/",
+      "meaning": "a.(with,to)可比较的,比得上的",
+      "similar": [
+        "compatible",
+        "comfortable",
+        "comparative",
+        "comprise",
+        "cooperate",
+        "honorable",
+        "comparison",
+        "remarkable"
+      ],
+      "question": {
+        "wordId": "comparable",
+        "stem": "选择 \"comparable\" 的正确中文意思：",
+        "correct": "a.(with,to)可比较的,比得上的",
+        "options": [
+          "a.(with,to)可比较的,比得上的",
+          "a.能和睦相处的,合得来的;兼容的",
+          "a.舒适的，舒服的；感到舒适的，安逸的",
+          "a.比较的,相当的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语comparabilis，由com-（一起）+ par（相等）+ -able（能...的）组成。核心动作是将两个事物放在一起进行平等对比，强调具备可比性的能力或资格。",
+        "similarWarning": "compatible（兼容的，-patible表忍耐）、comfortable（舒适的，-fort表力量）、comparative（比较的，-ative形容词后缀）、comprise（包含，-prise表抓取）、cooperate（合作，co-共同）、honorable（可敬的，-or表人）、comparison（比较，名词形式）、remarkable（显著的，-mark表标记）。差异核心在词根par（相等）与其它词根的区别。",
+        "extendedMeaning": "在考研语境中常引申为“类似的、同等的”，用于表达两个事物在程度、性质上具有可比性，如“comparable quality”（同等质量）。",
+        "examUsage": "常见搭配“comparable to/with”，真题中常作为题眼考查介词选择，例句：The performance of this new model is comparable to that of the leading brand.（这款新产品的性能与领先品牌相当。）"
+      }
+    },
+    {
+      "id": "comparative",
+      "word": "comparative",
+      "phonetic": "/kəm'pærətiv/",
+      "meaning": "a.比较的,相当的",
+      "similar": [
+        "cooperative",
+        "comparable",
+        "imperative",
+        "competitive",
+        "conservative",
+        "cooperate",
+        "compatible",
+        "compromise"
+      ],
+      "question": {
+        "wordId": "comparative",
+        "stem": "选择 \"comparative\" 的正确中文意思：",
+        "correct": "a.比较的,相当的",
+        "options": [
+          "n.命令;需要;规则;祈使语气a.强制的;紧急的",
+          "a.合作的,协作的 n.合作社",
+          "a.比较的,相当的",
+          "a.(with,to)可比较的,比得上的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语comparativus，由com-（一起）+par（相等）+ative（形容词后缀）组成，核心动作是‘放在一起比较以判断相等或差异’，引申为‘比较的、相对的’。",
+        "similarWarning": "comparable（可比较的）：强调能力或性质上可被比较；comparative（比较的）：侧重比较的行为或程度上的相对性。",
+        "extendedMeaning": "在考研中常引申为‘相对的、非绝对的’，如comparative advantage（比较优势），强调基于对比得出的相对性结论。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "compare",
+      "word": "compare",
+      "phonetic": "/kəm'pεə/",
+      "meaning": "vt.(to，with)比较；(to)把…比作vi.相比",
+      "similar": [
+        "compact",
+        "compass",
+        "compete",
+        "compile",
+        "compose",
+        "compute",
+        "comrade",
+        "commerce"
+      ],
+      "question": {
+        "wordId": "compare",
+        "stem": "选择 \"compare\" 的正确中文意思：",
+        "correct": "vt.(to，with)比较；(to)把…比作vi.相比",
+        "options": [
+          "n.罗盘,指南针;(pl.)圆规",
+          "a.紧密的,结实的;简明的 v.使紧凑,压缩",
+          "vt.(to，with)比较；(to)把…比作vi.相比",
+          "vi.比赛；竞争；对抗"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "com-（共同）+ par（相等）+ e → 把两个事物放在一起看是否相等 → 比较。核心动作：并列对照以观察异同。",
+        "similarWarning": "compact（紧凑的，合同）：com- + pact（系紧）→ 紧密系在一起。company（公司，陪伴）：com- + pan（面包）+ y → 一起吃面包的人。compass（指南针，范围）：com- + pass（步伐）→ 围绕行走 → 范围。compete（竞争）：com- + pete（追求）→ 共同追求。compile（汇编）：com- + pile（堆）→ 堆在一起。compose（组成，创作）：com- + pose（放置）→ 放在一起。compute（计算）：com- + pute（思考）→ 共同思考。comrade（同志）：com- + rade（房间）→ 同房间的人。辨析：compare强调“对照异同”，contrast强调“对比差异”；与company、compact等无直接混淆风险，但注意拼写差异。",
+        "extendedMeaning": "考研常考“compare with”表“与…相比”（客观比较），“compare to”表“把…比作”（比喻）。此外，在科技类文章中，compare可引申为“对照（数据/版本）”，如“compare results”。",
+        "examUsage": "真题考点：compare...with...（比较差异）与compare...to...（比喻）的区分。例句：\"It is difficult to compare our results with those of previous studies.\"（难以将我们的结果与先前研究比较。）注意：干扰项常设置“contrast”混淆，但contrast强调差异，compare强调异同皆可。"
+      }
+    },
+    {
+      "id": "comparison",
+      "word": "comparison",
+      "phonetic": "/kəm'pærisən/",
+      "meaning": "n.比较,对比,比喻,比拟",
+      "similar": [
+        "companion",
+        "comprise",
+        "compassion",
+        "compartment",
+        "competition",
+        "composition",
+        "campaign",
+        "complain"
+      ],
+      "question": {
+        "wordId": "comparison",
+        "stem": "选择 \"comparison\" 的正确中文意思：",
+        "correct": "n.比较,对比,比喻,比拟",
+        "options": [
+          "n.同伴,共事者;伴侣",
+          "n.比较,对比,比喻,比拟",
+          "vt.包含，包括，由...组成；构成，组成",
+          "n.同情；怜悯(for)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根com-（共同）+ par（准备/对等）+ ison（名词后缀）。核心动作：将事物放在一起（共同）进行对等（par）审视，即比较、对比。比喻义（比拟）源于将不同事物并置以揭示相似性。",
+        "similarWarning": "companion（同伴）：com-共同+pan-面包+ion，原指“共享面包的人”，与comparison无关。comprise（包含）：com-共同+prise-抓取，强调“整体包含部分”。compassion（同情）：com-共同+passion-痛苦，指“共同感受痛苦”。",
+        "extendedMeaning": "在考研阅读中常考“比喻、比拟”义，如“draw a comparison between A and B”（在A与B之间作比喻），强调类比修辞而非单纯数据对比。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "compartment",
+      "word": "compartment",
+      "phonetic": "/kəm'pɑ:tmənt/",
+      "meaning": "n.卧车包房,(客车车厢内的)隔间;分隔的空间",
+      "similar": [
+        "apartment",
+        "competent",
+        "complement",
+        "compliment",
+        "department",
+        "component",
+        "impatient",
+        "comparison"
+      ],
+      "question": {
+        "wordId": "compartment",
+        "stem": "选择 \"compartment\" 的正确中文意思：",
+        "correct": "n.卧车包房,(客车车厢内的)隔间;分隔的空间",
+        "options": [
+          "a.有能力的，能胜任的；足够的",
+          "n.[英]房间，套间；[美]公寓",
+          "n.卧车包房,(客车车厢内的)隔间;分隔的空间",
+          "n.补足物，船上的定员；补语 vt.补充，补足"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根：com-（共同）+ part（部分，分开）+ -ment（名词后缀）。核心动作：将整体空间‘共同分开’成多个部分。本源指火车车厢中被分隔的独立小间，引申为任何被分隔的独立空间（如隔间、分隔间）。",
+        "similarWarning": "形近词辨析：\n- **compartment** vs **apartment**：前者强调‘分隔出的独立小间’（如车厢隔间）；后者指‘公寓’（a-向+part-分开+ment，指分开的居住单元）。\n- **compartment** vs **department**：前者侧重物理空间的隔间；后者侧重组织或机构的‘部门’（de-向下+part-分，指向下分出的分支）。\n- **compartment** vs **component**：前者为‘空间隔间’；后者为‘组成部分、部件’（com-共同+pon-放置+ent，放在一起的东西）。",
+        "extendedMeaning": "熟词僻义：在考研阅读中可引申为‘分类、划分领域’（如：the compartment of knowledge 知识的分类；mental compartment 心理分隔，指将不同想法/记忆分开的心理机制）。",
+        "examUsage": "真题考点：常与介词搭配构成状语：in a compartment（在隔间里）；考点短语：compartment of ...（……的隔间/分类）；真题例句：The train's compartments were filled with tired passengers.（车厢隔间挤满了疲惫的乘客。）注意区分与department、apartment的拼写干扰。"
+      }
+    },
+    {
+      "id": "compass",
+      "word": "compass",
+      "phonetic": "/'kʌmpəs/",
+      "meaning": "n.罗盘,指南针;(pl.)圆规",
+      "similar": [
+        "compress",
+        "compact",
+        "compare",
+        "compose",
+        "complain",
+        "comprise"
+      ],
+      "question": {
+        "wordId": "compass",
+        "stem": "选择 \"compass\" 的正确中文意思：",
+        "correct": "n.罗盘,指南针;(pl.)圆规",
+        "options": [
+          "n.罗盘,指南针;(pl.)圆规",
+          "vt.压紧，压缩；(把思想、文字等)浓缩",
+          "vt.(to，with)比较；(to)把…比作vi.相比",
+          "a.紧密的,结实的;简明的 v.使紧凑,压缩"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "com-（共同）+ pass（步，走）→ 本义为“沿着同一方向行走”，引申为“测量步距的工具”，后特指“指南针”，即帮助确定方向的仪器。",
+        "similarWarning": "compress（压缩，com-共同+press压），compact（紧凑的，合同），company（同伴，公司，com-共同+pan-面包），compare（比较，com-共同+par-平等），compose（组成，com-共同+pos-放置），complain（抱怨，com-共同+plain-捶胸），comprise（包含，com-共同+prise-抓）。",
+        "extendedMeaning": "v. 包围，围绕（尤指围成一圈）；理解，领会（如compass the situation）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "compassion",
+      "word": "compassion",
+      "phonetic": "/kəm'pæʃən/",
+      "meaning": "n.同情；怜悯(for)",
+      "similar": [
+        "companion",
+        "commission",
+        "composition",
+        "comparison",
+        "concession",
+        "compensation",
+        "competition",
+        "campaign"
+      ],
+      "question": {
+        "wordId": "compassion",
+        "stem": "选择 \"compassion\" 的正确中文意思：",
+        "correct": "n.同情；怜悯(for)",
+        "options": [
+          "n.作品,作文,乐曲;作曲;结构,组成,成分",
+          "n.委员会;委任,委托(书),代办;佣金,手续费",
+          "n.同伴,共事者;伴侣",
+          "n.同情；怜悯(for)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 com-（共同）+ pati（承受、忍受），字面义为“共同承受痛苦”。核心物理动作是“一起承担”，由此引申为对他人苦难的感同身受，即同情、怜悯。",
+        "similarWarning": "companion（同伴，来自 com- + panis 面包，即“一起吃面包的人”）与 compassion 共享 com- 前缀，但词根不同。对比：compassion 强调“共情”，companion 强调“陪伴”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "compatible",
+      "word": "compatible",
+      "phonetic": "/kəm'pætəbl/",
+      "meaning": "a.能和睦相处的,合得来的;兼容的",
+      "similar": [
+        "comparable",
+        "comfortable",
+        "comparative",
+        "competitive",
+        "comprise",
+        "companion",
+        "composite",
+        "comparison"
+      ],
+      "question": {
+        "wordId": "compatible",
+        "stem": "选择 \"compatible\" 的正确中文意思：",
+        "correct": "a.能和睦相处的,合得来的;兼容的",
+        "options": [
+          "a.比较的,相当的",
+          "a.舒适的，舒服的；感到舒适的，安逸的",
+          "a.(with,to)可比较的,比得上的",
+          "a.能和睦相处的,合得来的;兼容的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根：com-（共同）+ pati（忍受）+ -ible（能...的）。核心动作：能共同忍受彼此。即能和睦相处、兼容。",
+        "similarWarning": "comparable（可比较的，程度相当）：对比 -able vs -ible，compatible强调兼容性，comparable强调可比性。competitive（竞争的）：-pet-（追求） vs -pat-（忍受），compatible是合作，competitive是对抗。",
+        "extendedMeaning": "在考研真题中常引申为“兼容的”（技术语境），如compatible software（兼容软件）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "compel",
+      "word": "compel",
+      "phonetic": "/kəm'pel/",
+      "meaning": "v.强迫,迫使",
+      "similar": [
+        "compete",
+        "compile",
+        "complex",
+        "cope",
+        "camel",
+        "comply",
+        "copper",
+        "complete"
+      ],
+      "question": {
+        "wordId": "compel",
+        "stem": "选择 \"compel\" 的正确中文意思：",
+        "correct": "v.强迫,迫使",
+        "options": [
+          "vi.比赛；竞争；对抗",
+          "vt.编辑，编制，搜集",
+          "a.复杂的;合成的,综合的 n.联合体",
+          "v.强迫,迫使"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 compellere（com-共同 + pellere 推/驱使），核心物理动作为“共同驱赶”，即通过强力将某人推向某个方向，引申为“强迫、迫使”。",
+        "similarWarning": "compete（竞争，-pet-追求）、compile（汇编，-pil-堆积）、complex（复杂的，-plex-编织）——注意词根差异：-pel-（驱使）vs -pet-（追求）vs -pil-（堆积）vs -plex-（编织）。",
+        "extendedMeaning": "在考研阅读中常引申为“引起、导致”（如compel attention/interest），强调结果而非动作本身。",
+        "examUsage": "常见搭配：compel sb to do sth（强迫某人做某事）；真题中常作为题眼考查被动结构（be compelled to do）。"
+      }
+    },
+    {
+      "id": "compensate",
+      "word": "compensate",
+      "phonetic": "/'kɔmpenseit/",
+      "meaning": "v.(for)补偿,赔偿",
+      "similar": [
+        "compensation",
+        "composite",
+        "cooperate",
+        "complicate",
+        "commemorate",
+        "communicate",
+        "complicated",
+        "concentrate"
+      ],
+      "question": {
+        "wordId": "compensate",
+        "stem": "选择 \"compensate\" 的正确中文意思：",
+        "correct": "v.(for)补偿,赔偿",
+        "options": [
+          "v.(for)补偿,赔偿",
+          "n.补偿(或赔偿)的款物；补偿，赔偿",
+          "a.混合成的，综合成的n.合成物，复合材料",
+          "v.(with)合作,协作,相配合"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "com-(共同)+pens(称重/支付)+-ate(动词后缀) → 原指“两边重量相等”，引申为“使平衡、弥补损失”，即补偿。核心动作：平衡砝码。",
+        "similarWarning": "composite (com-共同+pos-放置+ite → 合成物)，compensate是“补偿”，区别在词根pens(称重) vs pos(放置)；concentrate (con-共同+centr中心+ate → 集中)，compensate无“中心”义。",
+        "extendedMeaning": "",
+        "examUsage": "compensate for (弥补/补偿)，真题中常考“compensate for the loss/damage”或“compensate for the lack of...”，注意搭配介词for。"
+      }
+    },
+    {
+      "id": "compensation",
+      "word": "compensation",
+      "phonetic": "/ˌkɔmpen'seiʃən/",
+      "meaning": "n.补偿(或赔偿)的款物；补偿，赔偿",
+      "similar": [
+        "compensate",
+        "combination",
+        "competition",
+        "composition",
+        "complication",
+        "conversation",
+        "communication",
+        "concentration"
+      ],
+      "question": {
+        "wordId": "compensation",
+        "stem": "选择 \"compensation\" 的正确中文意思：",
+        "correct": "n.补偿(或赔偿)的款物；补偿，赔偿",
+        "options": [
+          "v.(for)补偿,赔偿",
+          "n.竞争，比赛；角逐，较量；[总称]竞争者",
+          "n.结合，联合；化合；团体；组合数码",
+          "n.补偿(或赔偿)的款物；补偿，赔偿"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 pens- 意为‘称量、支付’，源于拉丁语 pendere（悬挂、称重）。前缀 com- 表‘共同、一起’。核心物理动作：将某物（如损失）放在天平一端，另一端放置等值的物品（如金钱）进行‘共同称量’，以达到平衡。故 compensation 本义为‘使平衡的支付物’，引申为‘补偿、赔偿’。",
+        "similarWarning": "compensation vs. combination（组合，词根 bini- 二） vs. competition（竞争，词根 pet- 寻求）：拼写差异在 -pen-/-bin-/-pet-，词义核心分别为‘称量补偿’、‘两两结合’、‘共同追求’。",
+        "extendedMeaning": "在考研英语中，compensation 常出现‘薪酬、报酬’的僻义，尤指包含奖金、福利等在内的总薪酬包，非仅指赔偿金。例：executive compensation（高管薪酬）。",
+        "examUsage": "高频考点搭配：in compensation for（作为对…的补偿）；make compensation（进行赔偿）。真题中常与动词 claim（索赔）、receive（获得）连用，考查其作为宾语时的语义精确性。"
+      }
+    },
+    {
+      "id": "compete",
+      "word": "compete",
+      "phonetic": "/kəm'pi:t/",
+      "meaning": "vi.比赛；竞争；对抗",
+      "similar": [
+        "complete",
+        "compute",
+        "competent",
+        "computer",
+        "compel",
+        "commute",
+        "compare",
+        "compile"
+      ],
+      "question": {
+        "wordId": "compete",
+        "stem": "选择 \"compete\" 的正确中文意思：",
+        "correct": "vi.比赛；竞争；对抗",
+        "options": [
+          "vi.比赛；竞争；对抗",
+          "a.有能力的，能胜任的；足够的",
+          "a.完全的,圆满的 v.完成,结束,使完满",
+          "v./n.计算,估计"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 competere，由 com-（一起）+ petere（寻求、冲向）组成，核心物理动作是“一起冲向某物”，引申为“共同追求同一目标”，即竞争、比赛。",
+        "similarWarning": "compete vs complete: compete 含 pet（寻求），complete 含 plet（充满）。compete vs compute: compute 含 put（思考、计算）。compete vs competent: competent 是 compete 的形容词，意为“有能力的”。compete vs compel: compel 含 pel（驱动），意为“强迫”。",
+        "extendedMeaning": "在商业或学术语境中，常引申为“（在市场上）竞争”、“（在比赛中）角逐”。",
+        "examUsage": "真题常考短语：compete with/against（与…竞争），compete for（为…竞争）。例句：Companies must compete for talent in a global market.（公司必须在全球市场中争夺人才。）"
+      }
+    },
+    {
+      "id": "competent",
+      "word": "competent",
+      "phonetic": "/'kɔmpitənt/",
+      "meaning": "a.有能力的，能胜任的；足够的",
+      "similar": [
+        "complement",
+        "compete",
+        "component",
+        "compartment",
+        "compliment",
+        "comprehend",
+        "comment",
+        "compute"
+      ],
+      "question": {
+        "wordId": "competent",
+        "stem": "选择 \"competent\" 的正确中文意思：",
+        "correct": "a.有能力的，能胜任的；足够的",
+        "options": [
+          "n.组成部分,成分,元件 a.组成的,合成的",
+          "vi.比赛；竞争；对抗",
+          "n.补足物，船上的定员；补语 vt.补充，补足",
+          "a.有能力的，能胜任的；足够的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根pet(t)表示‘寻求、追求’，复合前缀com-表示‘共同’。核心物理动作为‘共同追求（同一目标）’。-ent为形容词后缀。本义是‘能共同追求到目标的’，即‘有能力的、能胜任的’。",
+        "similarWarning": "形近词辨析：\n- complement（补充）：com-共同 + ple（充满）→ 互相充满，即‘补充’；与competent仅差一个字母l，注意区别。\n- compete（竞争）：同词根pet，但无-ent后缀，动词‘竞争’；competent是其形容词。\n- component（成分）：com-共同 + pon（放置）→ 放在一起的东西，即‘成分’；与competent拼写差异明显。\n- compartment（隔间）：com-共同 + part（部分）→ 分成的小部分，即‘隔间’；注意中间有a。\n- compliment（赞美）：com-共同 + pli（充满）→ 充满敬意的话，即‘赞美’；与competent仅差一个字母i。",
+        "extendedMeaning": "考研僻义：在真题中常指‘足够的、充分的’（sufficient），用于形容数量或程度达到要求，如competent evidence（充分证据）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "competition",
+      "word": "competition",
+      "phonetic": "/ˌkɔmpi'tiʃən/",
+      "meaning": "n.竞争，比赛；角逐，较量；[总称]竞争者",
+      "similar": [
+        "competitive",
+        "composition",
+        "compensation",
+        "repetition",
+        "complication",
+        "coalition",
+        "companion",
+        "condition"
+      ],
+      "question": {
+        "wordId": "competition",
+        "stem": "选择 \"competition\" 的正确中文意思：",
+        "correct": "n.竞争，比赛；角逐，较量；[总称]竞争者",
+        "options": [
+          "a.竞争的；好竞争的；(价格等的)有竞争力的",
+          "n.竞争，比赛；角逐，较量；[总称]竞争者",
+          "n.补偿(或赔偿)的款物；补偿，赔偿",
+          "n.作品,作文,乐曲;作曲;结构,组成,成分"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'competere'（共同追求），由 com-（一起） + petere（追求、冲向）构成。核心动作是“多人共同冲向同一目标”，引申为竞争、比赛。",
+        "similarWarning": "composition（组成，作文）: 词根com-（一起）+ pos-（放置），强调“放在一起”构成整体。competition强调“共同追求”目标。",
+        "extendedMeaning": "在考研阅读中常引申为“角逐、较量”，如“fierce competition”（激烈竞争），且可指“竞争者总称”，如“The competition is strong.”",
+        "examUsage": "高频搭配：in competition with（与...竞争）；真题例句：\"The competition among firms for market share is intense.\"（企业间争夺市场份额的竞争激烈。）"
+      }
+    },
+    {
+      "id": "competitive",
+      "word": "competitive",
+      "phonetic": "/kəm'petitiv/",
+      "meaning": "a.竞争的；好竞争的；(价格等的)有竞争力的",
+      "similar": [
+        "competition",
+        "comparative",
+        "cooperative",
+        "cognitive",
+        "composite",
+        "collective",
+        "compatible",
+        "imperative"
+      ],
+      "question": {
+        "wordId": "competitive",
+        "stem": "选择 \"competitive\" 的正确中文意思：",
+        "correct": "a.竞争的；好竞争的；(价格等的)有竞争力的",
+        "options": [
+          "a.比较的,相当的",
+          "n.竞争，比赛；角逐，较量；[总称]竞争者",
+          "a.合作的,协作的 n.合作社",
+          "a.竞争的；好竞争的；(价格等的)有竞争力的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语competere（共同追求），com-（共同）+ petere（追求、寻找）。核心动作是“共同去追求同一目标”，由此衍生出“竞争”义。",
+        "similarWarning": "comparative（比较的）强调对比差异；competitive强调争夺同一目标；cooperative（合作的）则强调共同协作，与competitive语义相反。",
+        "extendedMeaning": "在商业语境中常指“（价格、产品）有竞争力的”，如competitive advantage（竞争优势），而非仅形容人的好胜心。",
+        "examUsage": "真题常考短语competitive edge（竞争优势），如：The company needs to regain its competitive edge in the global market.（该公司需重获全球市场中的竞争优势。）"
+      }
+    },
+    {
+      "id": "compile",
+      "word": "compile",
+      "phonetic": "/kəm'pail/",
+      "meaning": "vt.编辑，编制，搜集",
+      "similar": [
+        "comprise",
+        "compel",
+        "comply",
+        "couple",
+        "combine",
+        "compare",
+        "compete",
+        "complex"
+      ],
+      "question": {
+        "wordId": "compile",
+        "stem": "选择 \"compile\" 的正确中文意思：",
+        "correct": "vt.编辑，编制，搜集",
+        "options": [
+          "v.强迫,迫使",
+          "vt.包含，包括，由...组成；构成，组成",
+          "vt.编辑，编制，搜集",
+          "v.(with)遵照，照做，应允；顺从，服从"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "com-（共同）+ pile（堆叠）→ 把东西堆叠在一起 → 汇集、编辑、编制。核心动作是“聚集、整理”。",
+        "similarWarning": "compile vs comply: compile 是“编辑/搜集”，comply 是“遵守/服从”。区别在词根 pile（堆）vs ply（折叠/顺从）。",
+        "extendedMeaning": "在考研阅读中常引申为“搜集（数据/信息）并整理成系统”，如 compile data（整理数据），非简单编辑。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "complain",
+      "word": "complain",
+      "phonetic": "/kəm'plein/",
+      "meaning": "v.(about,of)抱怨;申诉",
+      "similar": [
+        "complaint",
+        "companion",
+        "comply",
+        "domain",
+        "captain",
+        "compact",
+        "compare",
+        "compass"
+      ],
+      "question": {
+        "wordId": "complain",
+        "stem": "选择 \"complain\" 的正确中文意思：",
+        "correct": "v.(about,of)抱怨;申诉",
+        "options": [
+          "v.(about,of)抱怨;申诉",
+          "n.同伴,共事者;伴侣",
+          "v.(with)遵照，照做，应允；顺从，服从",
+          "n.抱怨，诉苦，怨言，控告；疾病"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'com-'（一起）+ 'plangere'（捶胸，哀叹），原指一群人一起捶胸顿足表达悲痛，后演变为口头上的抱怨或申诉。核心动作：集体表达不满。",
+        "similarWarning": "complain vs. complaint: 前者是动词，后者是名词（抱怨/投诉）。complain vs. comply: 前者是抱怨，后者是遵守（前缀'com-'+ 'plere'填满→满足要求）。complain vs. domain: 词根无关，domain（领域）来自'dominus'（主人）。",
+        "extendedMeaning": "在考研英语中，'complain' 常引申为‘提出正式申诉（法律/行政层面）’，如 'complain to the authorities'（向当局申诉），而非仅日常牢骚。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "complaint",
+      "word": "complaint",
+      "phonetic": "/kəm'pleint/",
+      "meaning": "n.抱怨，诉苦，怨言，控告；疾病",
+      "similar": [
+        "complain",
+        "complement",
+        "compliment",
+        "compact",
+        "competent",
+        "component",
+        "complicate"
+      ],
+      "question": {
+        "wordId": "complaint",
+        "stem": "选择 \"complaint\" 的正确中文意思：",
+        "correct": "n.抱怨，诉苦，怨言，控告；疾病",
+        "options": [
+          "n.抱怨，诉苦，怨言，控告；疾病",
+          "v.(about,of)抱怨;申诉",
+          "n.补足物，船上的定员；补语 vt.补充，补足",
+          "n.(pl.)问候,致意 n./v.称赞,恭维"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语complangere（com-共同+plangere捶胸），原指众人捶胸顿足表达悲痛，后演变为“抱怨”的动作。名词后缀-int转为行为本身，强调表达不满的言语或行为；引申为“疾病”源于身体不适的“抱怨”。",
+        "similarWarning": "complement（补充，互补）vs. compliment（称赞，恭维）：仅差字母e/i；complaint为“抱怨”，常与make a complaint（投诉）连用，而complement强调“补足”，compliment强调“赞美”。",
+        "extendedMeaning": "考研常考“控告”义（如file a complaint正式投诉）及“疾病”义（如a minor complaint小病），非日常“抱怨”的简单转写。",
+        "examUsage": "高频搭配：lodge/file a complaint（提出投诉），常见于阅读法律类语境；真题例句：“Customers who have a complaint should contact the manager.”（投诉的顾客应联系经理。）注意与complain（v.）的拼写差异。"
+      }
+    },
+    {
+      "id": "complement",
+      "word": "complement",
+      "phonetic": "/'kɔmplimənt/",
+      "meaning": "n.补足物，船上的定员；补语 vt.补充，补足",
+      "similar": [
+        "compliment",
+        "competent",
+        "implement",
+        "compartment",
+        "complete",
+        "complaint",
+        "component",
+        "comprehend"
+      ],
+      "question": {
+        "wordId": "complement",
+        "stem": "选择 \"complement\" 的正确中文意思：",
+        "correct": "n.补足物，船上的定员；补语 vt.补充，补足",
+        "options": [
+          "n.(pl.)问候,致意 n./v.称赞,恭维",
+          "n.(pl.)工具,器具 v.贯彻,实现",
+          "n.补足物，船上的定员；补语 vt.补充，补足",
+          "a.有能力的，能胜任的；足够的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "com-（共同）+ ple（充满，来自拉丁语plere“填满”）+ -ment（名词后缀）→ 共同填满使完整 → 补足物；补充。核心动作：填满缺失部分以达成整体。",
+        "similarWarning": "compliment（赞美）：complement vs. compli-ment，字母差在e/i，补足物 vs. 赞美话。implement（实施；工具）：im-（向内）+ple，补充 vs. 执行。",
+        "extendedMeaning": "（生物学）补体系统（免疫学中一组蛋白质，协助抗体清除病原体）；数学中的补集（complement of a set）。",
+        "examUsage": "真题常考搭配：complement each other（相互补充）；be a complement to sth（是某物的补充）。注意与compliment在阅读中作为干扰项高频出现。"
+      }
+    },
+    {
+      "id": "complete",
+      "word": "complete",
+      "phonetic": "/kəm'pli:t/",
+      "meaning": "a.完全的,圆满的 v.完成,结束,使完满",
+      "similar": [
+        "compete",
+        "complex",
+        "compute",
+        "complement",
+        "complicate",
+        "competent",
+        "composite",
+        "compel"
+      ],
+      "question": {
+        "wordId": "complete",
+        "stem": "选择 \"complete\" 的正确中文意思：",
+        "correct": "a.完全的,圆满的 v.完成,结束,使完满",
+        "options": [
+          "v./n.计算,估计",
+          "a.复杂的;合成的,综合的 n.联合体",
+          "a.完全的,圆满的 v.完成,结束,使完满",
+          "vi.比赛；竞争；对抗"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "com-（完全）+ plete（充满/填满）→ 完全填满，引申为‘完全的、完成的’；核心物理动作是‘把容器填满至再无空隙’",
+        "similarWarning": "compete（竞争）：词根pete（追求），强调‘争夺目标’；complete（完成）：词根plete（充满），强调‘填满结束’。对比字母：compete结尾是-ete（追求），complete结尾是-ete但中间有l（填满）",
+        "extendedMeaning": "在考研阅读中常出现‘complete with’（配有/附带），表示某物具备全部特征或附件，如‘a house complete with a swimming pool’（带游泳池的房子）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "complex",
+      "word": "complex",
+      "phonetic": "/'kɔmpleks/",
+      "meaning": "a.复杂的;合成的,综合的 n.联合体",
+      "similar": [
+        "complete",
+        "compel",
+        "comply",
+        "couple",
+        "compile",
+        "complain",
+        "compress",
+        "computer"
+      ],
+      "question": {
+        "wordId": "complex",
+        "stem": "选择 \"complex\" 的正确中文意思：",
+        "correct": "a.复杂的;合成的,综合的 n.联合体",
+        "options": [
+          "a.复杂的;合成的,综合的 n.联合体",
+          "v.(with)遵照，照做，应允；顺从，服从",
+          "a.完全的,圆满的 v.完成,结束,使完满",
+          "v.强迫,迫使"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 com-（共同）+ plex（编织，折叠）。核心动作：将多个部分编织、折叠在一起。本义为“由多部分共同构成”，引申为“复杂的、综合的”。物理画面：多条线交织成网。",
+        "similarWarning": "complete（com-共同 + ple-填满）→ 完全填满 → “完整的”。对比：complex强调“交织复杂”，complete强调“完整无缺”。",
+        "extendedMeaning": "在心理学/管理学中，指“情结、复合体”（如 inferiority complex 自卑情结）；在化学/生物学中，指“络合物、复合体”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "complicate",
+      "word": "complicate",
+      "phonetic": "/'kɔmplikeit/",
+      "meaning": "v.使..复杂；使..难懂；使（疾病等）恶化；",
+      "similar": [
+        "complicated",
+        "complication",
+        "communicate",
+        "complete",
+        "duplicate",
+        "compensate",
+        "consolidate",
+        "complain"
+      ],
+      "question": {
+        "wordId": "complicate",
+        "stem": "选择 \"complicate\" 的正确中文意思：",
+        "correct": "v.使..复杂；使..难懂；使（疾病等）恶化；",
+        "options": [
+          "v.使..复杂；使..难懂；使（疾病等）恶化；",
+          "a.错综复杂的,麻烦的,难解的",
+          "v.传达,传送;交流;通讯,通话",
+          "n.复杂,纠纷;并发症"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "com-（共同）+ plic（折叠）+ -ate（动词后缀）。核心动作：把东西折叠在一起（fold together），使原本简单的东西层层叠叠，从而变得复杂、难解。",
+        "similarWarning": "complicate vs. communicate：com-+plic（折叠）+ate vs. com-+mun（共同）+ic+ate（使共同），前者强调“折叠缠绕”致复杂，后者强调“共享”致交流。",
+        "extendedMeaning": "考研中常引申为“使（疾病）恶化；使（问题）更棘手”，如：complicate the situation（使局势恶化）。",
+        "examUsage": "常考搭配：be complicated by（被…复杂化/恶化），如：The disease is complicated by pneumonia.（该病因肺炎而恶化。）真题中常作为干扰项，与simplify（简化）形成反义题眼。"
+      }
+    },
+    {
+      "id": "complicated",
+      "word": "complicated",
+      "phonetic": "/'kɔmplikeitid/",
+      "meaning": "a.错综复杂的,麻烦的,难解的",
+      "similar": [
+        "complicate",
+        "complication",
+        "duplicate",
+        "compensate",
+        "communicate"
+      ],
+      "question": {
+        "wordId": "complicated",
+        "stem": "选择 \"complicated\" 的正确中文意思：",
+        "correct": "a.错综复杂的,麻烦的,难解的",
+        "options": [
+          "n.复制品 v.复写,使加倍 a.复制的,二重的",
+          "n.复杂,纠纷;并发症",
+          "v.使..复杂；使..难懂；使（疾病等）恶化；",
+          "a.错综复杂的,麻烦的,难解的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "com-（一起）+ plic（折叠）+ -ated（形容词后缀）→ 折叠在一起的 → 错综复杂的。核心动作：将多层东西折叠在一起，难以分开。",
+        "similarWarning": "complicate (v.使复杂化) vs. complicated (a.复杂的)；duplicate (v.复制，加倍) vs. complicated：duplicate强调重复、复制，complicate强调复杂化；compensate (v.补偿) vs. complicated：仅前缀com-相似，词根不同。",
+        "extendedMeaning": "在考研阅读中常引申为‘难以理解的、棘手的’，如‘complicated relationship’（错综复杂的关系）。",
+        "examUsage": "常与‘complex’形成干扰项：complex强调组成部分繁多（系统性复杂），complicated强调难以解决或理解（人为复杂）。真题例句：‘The situation is more complicated than it appears.’（情况比表面复杂。）"
+      }
+    },
+    {
+      "id": "complication",
+      "word": "complication",
+      "phonetic": "/ˌkɔmpli'keiʃən/",
+      "meaning": "n.复杂,纠纷;并发症",
+      "similar": [
+        "implication",
+        "communication",
+        "complicate",
+        "application",
+        "combination",
+        "complicated",
+        "compensation",
+        "normalization"
+      ],
+      "question": {
+        "wordId": "complication",
+        "stem": "选择 \"complication\" 的正确中文意思：",
+        "correct": "n.复杂,纠纷;并发症",
+        "options": [
+          "n.复杂,纠纷;并发症",
+          "n.含意，暗示，暗指；牵连",
+          "n.通讯,传达;(pl.)通讯系统;交通(工具)",
+          "v.使..复杂；使..难懂；使（疾病等）恶化；"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "com-（一起）+ plic-（折叠）+ -ation（名词后缀）。核心动作：将多个东西折叠在一起。本义为“纠缠在一起的状态”，引申为“复杂、纠纷”；在医学语境中特指“并发症”，即疾病之外额外叠加的病变。",
+        "similarWarning": "形近词辨析：implication（暗示，牵连；im-向内+plic-折叠→向内折叠的隐含意义）；complication（复杂/并发症；强调叠加的混乱）；complicate（动词“使复杂”；-ate动词后缀）。",
+        "extendedMeaning": "在考研阅读中常考“并发症”义（医学类话题）或“复杂问题/困难”（抽象语境），如：\"complications arising from the economic policy\"（经济政策引发的复杂问题）。",
+        "examUsage": "真题考点：常与lead to, cause, result in等动词搭配，表示“引发并发症/复杂局面”。例：\"The surgery was successful, but the patient developed complications.\"（手术成功，但患者出现并发症。）"
+      }
+    },
+    {
+      "id": "compliment",
+      "word": "compliment",
+      "phonetic": "/'kɔmplimənt/",
+      "meaning": "n.(pl.)问候,致意 n./v.称赞,恭维",
+      "similar": [
+        "complement",
+        "compartment",
+        "competent",
+        "complaint",
+        "component",
+        "implement",
+        "complain",
+        "complete"
+      ],
+      "question": {
+        "wordId": "compliment",
+        "stem": "选择 \"compliment\" 的正确中文意思：",
+        "correct": "n.(pl.)问候,致意 n./v.称赞,恭维",
+        "options": [
+          "n.补足物，船上的定员；补语 vt.补充，补足",
+          "a.有能力的，能胜任的；足够的",
+          "n.(pl.)问候,致意 n./v.称赞,恭维",
+          "n.卧车包房,(客车车厢内的)隔间;分隔的空间"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语complimentum，由com-（共同、加强）+ plere（充满、填满）构成，核心物理动作为“共同填满、使充满”，引申为“用言语填满对方的心理需求”，即“称赞、恭维”。",
+        "similarWarning": "complement（补充，互补）：与compliment拼写仅差一个字母e，但词义完全不同，指“补充物”或“互补”。compartment（隔间）：词根part（部分）不同。competent（有能力的）：词根pet（寻求）不同。complaint（抱怨）：拼写含ai，词义相反。component（成分）：词根pon（放置）不同。implement（实施）：词根ple（填满）同源但前缀im-（向内）。complain（抱怨）：拼写含ai，词义相反。complete（完成）：词根plet（填满）同源，但指“使完满”。",
+        "extendedMeaning": "在考研阅读中，compliment可引申为“称赞（的行为或言辞）”，而非仅指“问候”。例如：He paid her a compliment.（他称赞了她。）",
+        "examUsage": "常见搭配：pay a compliment to sb.（称赞某人），take sth. as a compliment（把某事当作称赞）。真题中可能作为干扰项与complement混淆，需注意拼写差异。"
+      }
+    },
+    {
+      "id": "comply",
+      "word": "comply",
+      "phonetic": "/kəm'plai/",
+      "meaning": "v.(with)遵照，照做，应允；顺从，服从",
+      "similar": [
+        "compile",
+        "complex",
+        "copy",
+        "imply",
+        "comedy",
+        "compel",
+        "costly",
+        "couple"
+      ],
+      "question": {
+        "wordId": "comply",
+        "stem": "选择 \"comply\" 的正确中文意思：",
+        "correct": "v.(with)遵照，照做，应允；顺从，服从",
+        "options": [
+          "n.抄本，摹本；(一)本 vt.抄写；考试中抄袭",
+          "vt.编辑，编制，搜集",
+          "v.(with)遵照，照做，应允；顺从，服从",
+          "a.复杂的;合成的,综合的 n.联合体"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语complere（填满，完成），由com-（共同，完全）+plere（填满）构成。核心动作是“完全填满”，引申为“按照要求填满”，即“遵照、服从”。",
+        "similarWarning": "comply vs. compile：comply（服从）末尾y，compile（编纂）末尾e，且compile由com- + pile（堆）构成，意为“堆在一起”。comply vs. compel：comply（服从）含y，compel（强迫）含l，compel由com- + pel（推）构成，意为“共同推→强迫”。",
+        "extendedMeaning": "",
+        "examUsage": "真题常考短语comply with（遵守，照做），如“comply with the rules/regulations”。注意其反义词violate（违反）也常作为干扰项出现。"
+      }
+    },
+    {
+      "id": "component",
+      "word": "component",
+      "phonetic": "/kəm'pəunənt/",
+      "meaning": "n.组成部分,成分,元件 a.组成的,合成的",
+      "similar": [
+        "opponent",
+        "competent",
+        "complement",
+        "compliment",
+        "comment",
+        "compose",
+        "compound",
+        "complaint"
+      ],
+      "question": {
+        "wordId": "component",
+        "stem": "选择 \"component\" 的正确中文意思：",
+        "correct": "n.组成部分,成分,元件 a.组成的,合成的",
+        "options": [
+          "a.有能力的，能胜任的；足够的",
+          "n.对手,反对者,敌手 a.对立的,对抗的",
+          "n.补足物，船上的定员；补语 vt.补充，补足",
+          "n.组成部分,成分,元件 a.组成的,合成的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根：com-（共同）+ pon（放置）+ -ent（名词/形容词后缀）。核心物理动作：将多个部分共同放置在一起。引申为构成整体的各个组成部分或元件。",
+        "similarWarning": "opponent（反对者：op-相反 + pon，即站在对立面的人） vs component（共同放置的组成部分）。competent（有能力的：com-共同 + pet-寻求 + -ent，能共同寻求目标） vs component（注意pet与pon的区别）。complement（互补物：com-共同 + ple-填满，互相填满） vs component（注意ple与pon的区别）。compliment（恭维：同源，原指完成礼仪上的行为，注意与complement拼写差异）。",
+        "extendedMeaning": "在计算机/电子领域指硬件或软件中的独立模块或元件（如：software component 软件组件）。在系统工程或经济学中，常指构成整体系统的关键要素（如：key component of the strategy 策略的关键组成部分）。",
+        "examUsage": "常见于考研阅读中表示构成整体的必要部分，常与integral（不可或缺的）搭配：integral component（必不可少的组成部分）。真题例句：\"The component of the system must be carefully tested.\"（该系统的组件必须仔细测试。）注意与compose（组成，常为动词）的区分。"
+      }
+    },
+    {
+      "id": "compose",
+      "word": "compose",
+      "phonetic": "/kəm'pəuz/",
+      "meaning": "v.组成,构成;(of)由…组成;创作(诗歌等)",
+      "similar": [
+        "composite",
+        "comprise",
+        "impose",
+        "oppose",
+        "compare",
+        "compass",
+        "compete",
+        "compile"
+      ],
+      "question": {
+        "wordId": "compose",
+        "stem": "选择 \"compose\" 的正确中文意思：",
+        "correct": "v.组成,构成;(of)由…组成;创作(诗歌等)",
+        "options": [
+          "v.征(税);(on)把…强加给",
+          "vt.包含，包括，由...组成；构成，组成",
+          "a.混合成的，综合成的n.合成物，复合材料",
+          "v.组成,构成;(of)由…组成;创作(诗歌等)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "com-（一起）+ pose（放置）→ 把东西放在一起 → 组成、构成；引申为创作（如将文字、音符组合成作品）。",
+        "similarWarning": "compose（组成/创作）vs. comprise（包含/由…组成，强调整体包含部分）vs. impose（强加/征税，im-=进入）vs. oppose（反对，op-=相反）。",
+        "extendedMeaning": "be composed of（由…组成）是高分替换be made up of的写法；在音乐/文学语境中表“创作”，考研阅读中可能引申为“构思、编排”。",
+        "examUsage": "真题考点：be composed of（被动结构，表组成）；写作中常用“compose a letter/poem”表示创作，阅读中注意“compose oneself”表示镇定。"
+      }
+    },
+    {
+      "id": "composite",
+      "word": "composite",
+      "phonetic": "/'kɔmpəzit/",
+      "meaning": "a.混合成的，综合成的n.合成物，复合材料",
+      "similar": [
+        "compose",
+        "composition",
+        "compensate",
+        "compromise",
+        "compete",
+        "compile",
+        "compute",
+        "complete"
+      ],
+      "question": {
+        "wordId": "composite",
+        "stem": "选择 \"composite\" 的正确中文意思：",
+        "correct": "a.混合成的，综合成的n.合成物，复合材料",
+        "options": [
+          "n.作品,作文,乐曲;作曲;结构,组成,成分",
+          "v.组成,构成;(of)由…组成;创作(诗歌等)",
+          "v.(for)补偿,赔偿",
+          "a.混合成的，综合成的n.合成物，复合材料"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "com-（一起）+ pos-（放置）+ -ite（形容词/名词后缀）→ 放在一起的东西 → 混合成的，合成物。核心动作：多个元素被拼合或结合成一个整体。",
+        "similarWarning": "compose（组成，由com-+pos-构成，强调动作过程）vs composite（强调结果或性质）；opposite（相反的，由op-相对+pos-构成，强调位置对立）vs composite（强调结合）。",
+        "extendedMeaning": "在考研中常指‘复合材料’（如碳纤维复合物）或‘综合指标’（如composite index），非字面‘混合’的简单义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "composition",
+      "word": "composition",
+      "phonetic": "/ˌkɒmpə'zɪʃn/",
+      "meaning": "n.作品,作文,乐曲;作曲;结构,组成,成分",
+      "similar": [
+        "competition",
+        "compensation",
+        "composite",
+        "compassion",
+        "corporation",
+        "disposition",
+        "preposition",
+        "proposition"
+      ],
+      "question": {
+        "wordId": "composition",
+        "stem": "选择 \"composition\" 的正确中文意思：",
+        "correct": "n.作品,作文,乐曲;作曲;结构,组成,成分",
+        "options": [
+          "n.作品,作文,乐曲;作曲;结构,组成,成分",
+          "n.竞争，比赛；角逐，较量；[总称]竞争者",
+          "n.补偿(或赔偿)的款物；补偿，赔偿",
+          "a.混合成的，综合成的n.合成物，复合材料"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "com-（一起）+ posit-（放置）+ -ion（名词后缀）。核心动作：将各个部分‘放在一起’形成一个整体。本义为‘合成物’，引申为‘作文’（文字的合成）、‘乐曲’（音符的合成）以及‘结构、组成’（各部分的组合方式）。",
+        "similarWarning": "competition（竞争，com-共同+pet-追求+ition），compensation（补偿，com-共同+pens-称量+ation），composite（合成的，-ite形容词后缀），compassion（同情，com-共同+pass-承受+ion）。差异点：composition核心词根为posit（放置），而competition为pet（追求），compensation为pens（称量），composite与composition同根但词性不同，compassion为pass（承受）。",
+        "extendedMeaning": "在考研中常考‘成分、构成’的抽象义，如‘the composition of the atmosphere’（大气的构成），而非仅指作文。",
+        "examUsage": "常见考点搭配：in composition（在构成上）、chemical composition（化学成分）。真题中常作为细节题定位词，如‘the composition of the committee’（委员会的组成）。"
+      }
+    },
+    {
+      "id": "compound",
+      "word": "compound",
+      "phonetic": "/'kɒmpaund /",
+      "meaning": "n.混合物,化合物 a.混合的,化合的；vt.混合",
+      "similar": [
+        "component",
+        "coupon",
+        "command",
+        "commend",
+        "compose",
+        "compute",
+        "comprehend"
+      ],
+      "question": {
+        "wordId": "compound",
+        "stem": "选择 \"compound\" 的正确中文意思：",
+        "correct": "n.混合物,化合物 a.混合的,化合的；vt.混合",
+        "options": [
+          "n./v.命令，指挥，控制 n.掌握，运用能力",
+          "n.组成部分,成分,元件 a.组成的,合成的",
+          "n.混合物,化合物 a.混合的,化合的；vt.混合",
+          "n.证明持券人有某权利的卡片，票证，赠券"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "com-（一起）+ pound（放置，源自拉丁语ponere）→ 放在一起 → 混合、化合物。核心动作：将不同元素放置于同一处，形成整体。",
+        "similarWarning": "component（组件，强调组成部分）vs compound（混合物，强调化合或混合结果）：component指整体中的独立部件，compound强调多种物质混合后的新物质。",
+        "extendedMeaning": "考研僻义：n. 围场（有围墙的建筑群，如监狱、贫民窟）；v. 加剧，使恶化（如compound the problem）。",
+        "examUsage": "高频考点：compound interest（复利），在真题中常作为经济类阅读题眼；compound sentence（并列句）在语法题中考查。"
+      }
+    },
+    {
+      "id": "comprehend",
+      "word": "comprehend",
+      "phonetic": "/ˌkɔmpri'hend/",
+      "meaning": "vt.理解，领会；包含，包括",
+      "similar": [
+        "competent",
+        "complement",
+        "compartment",
+        "complete",
+        "compound",
+        "compress",
+        "comprise",
+        "forehead"
+      ],
+      "question": {
+        "wordId": "comprehend",
+        "stem": "选择 \"comprehend\" 的正确中文意思：",
+        "correct": "vt.理解，领会；包含，包括",
+        "options": [
+          "vt.理解，领会；包含，包括",
+          "n.卧车包房,(客车车厢内的)隔间;分隔的空间",
+          "a.有能力的，能胜任的；足够的",
+          "n.补足物，船上的定员；补语 vt.补充，补足"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "com-（共同）+ prehend（抓住）→ 共同抓住 → 从整体上把握，即理解；引申为“包含、包括”，指整体抓住各部分。",
+        "similarWarning": "comprehend vs. comprise: 两者都有“包含”义，但comprehend侧重“理解性包含”（抽象整体包含部分），comprise侧重“组成性包含”（整体由部分组成）。对比字母：comprehend有prehend（抓），强调心智把握；comprise有prise（拿），强调结构组成。",
+        "extendedMeaning": "在考研阅读中常考“包含、包括”义，如：The book comprehends all aspects of the subject.（这本书涵盖了该主题的所有方面。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "comprehension",
+      "word": "comprehension",
+      "phonetic": "/ˌkɔmpri'henʃən/",
+      "meaning": "a.理解(力),领悟；包含，包含力",
+      "similar": [
+        "comprehensive",
+        "competition",
+        "compensation"
+      ],
+      "question": {
+        "wordId": "comprehension",
+        "stem": "选择 \"comprehension\" 的正确中文意思：",
+        "correct": "a.理解(力),领悟；包含，包含力",
+        "options": [
+          "a.理解(力),领悟；包含，包含力",
+          "n.竞争，比赛；角逐，较量；[总称]竞争者",
+          "n.补偿(或赔偿)的款物；补偿，赔偿",
+          "a.内容广泛的,总括性的，综合的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "com-（一起）+ prehend（抓住）+ -sion（名词后缀）。核心动作：将分散的信息‘一起抓住’并在脑中整合。词源同‘apprehend（逮捕/理解）’，本义为‘抓取并包含’某物，故引申出‘理解（信息被大脑抓住）’和‘包含（整体包含部分）’两层含义。",
+        "similarWarning": "comprehensive（a.综合的，广泛的）：词根相同，但后缀为-ive（形容词），强调‘能包含很多内容’的性质。对比：comprehension侧重‘理解的行为或能力’，comprehensive侧重‘范围广、包罗万象’。",
+        "extendedMeaning": "包含力：指某事物‘包含、涵盖’其他事物的能力或范围，如‘the comprehension of the universe in a single theory’（用单一理论涵盖宇宙）。考研中常考此抽象义，区别于普通‘理解’。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "comprehensive",
+      "word": "comprehensive",
+      "phonetic": "/ˌkɔmpri'hensiv/",
+      "meaning": "a.内容广泛的,总括性的，综合的",
+      "similar": [
+        "comprehension",
+        "competitive"
+      ],
+      "question": {
+        "wordId": "comprehensive",
+        "stem": "选择 \"comprehensive\" 的正确中文意思：",
+        "correct": "a.内容广泛的,总括性的，综合的",
+        "options": [
+          "v.卷入,陷入,连累;包含,含有,涉及",
+          "a.内容广泛的,总括性的，综合的",
+          "a.理解(力),领悟；包含，包含力",
+          "a.竞争的；好竞争的；(价格等的)有竞争力的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语comprehendere（com-完全+prehendere抓住），意为“完全抓住”。词根prehendere（抓住）演变出prehens（抓）。-ive为形容词后缀。核心动作是“全面抓住”，即涵盖所有要点，引申为“内容广泛的、综合的”。",
+        "similarWarning": "comprehension（n.理解力；理解练习）与comprehensive（a.综合的）拼写差异在于-ion（名词后缀）vs -ive（形容词后缀）；competitive（a.竞争的）与comprehensive拼写差异在于pet（词根“追求”）vs prehens（词根“抓住”），competitive强调竞争性，comprehensive强调涵盖性。",
+        "extendedMeaning": "在考研阅读中常指“全面的、包含所有相关部分的”，如comprehensive plan（全面计划）、comprehensive review（全面审查），非简单“广泛的”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "compress",
+      "word": "compress",
+      "phonetic": "/kəm'pres/",
+      "meaning": "vt.压紧，压缩；(把思想、文字等)浓缩",
+      "similar": [
+        "compass",
+        "impress",
+        "oppress",
+        "comprise",
+        "congress",
+        "caress",
+        "compel",
+        "compare"
+      ],
+      "question": {
+        "wordId": "compress",
+        "stem": "选择 \"compress\" 的正确中文意思：",
+        "correct": "vt.压紧，压缩；(把思想、文字等)浓缩",
+        "options": [
+          "v.压迫,压制",
+          "vt.压紧，压缩；(把思想、文字等)浓缩",
+          "n.罗盘,指南针;(pl.)圆规",
+          "v.(on)印,盖印;留下印象,引人注目"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "com-（共同）+ press（压）→ 共同压 → 压紧、压缩。物理动作：把物体或信息压得更紧密。",
+        "similarWarning": "compass（指南针，范围）：com+pass（通过），与compress差一个字母‘r’；impress（给…深刻印象）：im-（进入）+press，强调压入脑海；oppress（压迫）：op-（相反）+press，反向压制；comprise（包含）：com+prise（抓），强调整体包含部分；congress（代表大会）：con-（共同）+gress（走），共同走到一起开会；caress（爱抚）：词源不同，与press无关。",
+        "extendedMeaning": "（思想、文字等）浓缩：compress complex ideas into a simple sentence（把复杂思想浓缩成简单句子）。",
+        "examUsage": "compress data（压缩数据）；compress a report（精简报告）。真题中常作为‘压缩、精简’的抽象用法出现，区别于‘press’的物理按压。"
+      }
+    },
+    {
+      "id": "comprise",
+      "word": "comprise",
+      "phonetic": "/kəm'praiz/",
+      "meaning": "vt.包含，包括，由...组成；构成，组成",
+      "similar": [
+        "compromise",
+        "compile",
+        "compose",
+        "compress",
+        "comparison",
+        "composite",
+        "coarse",
+        "combine"
+      ],
+      "question": {
+        "wordId": "comprise",
+        "stem": "选择 \"comprise\" 的正确中文意思：",
+        "correct": "vt.包含，包括，由...组成；构成，组成",
+        "options": [
+          "n.妥协，折衷vi.妥协vt.危及，放弃(原则等)",
+          "v.组成,构成;(of)由…组成;创作(诗歌等)",
+          "vt.包含，包括，由...组成；构成，组成",
+          "vt.编辑，编制，搜集"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "com-（共同）+ prise（抓住，源自拉丁语prehendere“抓住”）。核心物理动作是“共同抓住”，即把多个部分一起抓在手里，引申为“包含、包括”或“构成、组成”。",
+        "similarWarning": "compromise（妥协）：com-（共同）+ promise（承诺），共同承诺即妥协；comprise强调“包含”，compromise强调“让步”。compile（编纂）：com-（共同）+ pile（堆），把东西堆在一起即汇编；comprise是包含关系，compile是集合动作。compose（组成）：com-（共同）+ pose（放置），放在一起即组成；comprise强调整体包含部分，compose强调部分构成整体。compress（压缩）：com-（共同）+ press（压），压在一起；comprise无“压缩”义。comparison（比较）：com-（共同）+ par（相等）+ ison，放在一起比相等；形似但意义无关。composite（合成的）：com-（共同）+ posite（放置），放在一起的；comprise是动词，composite是形容词/名词。coarse（粗糙的）：与comprise拼写差异大，仅首字母c同；course（课程/过程）：拼写差异大，无混淆风险。",
+        "extendedMeaning": "在考研阅读中，comprise常以被动结构“be comprised of”出现，意为“由...组成”，与consist of、be composed of同义替换。此外，comprise可主动表“构成”，如“Parts comprise the whole”，但此用法较少见。",
+        "examUsage": "考点：comprise的主动与被动用法区别。真题例句：“The committee comprises 12 members.”（委员会由12人组成）或“The 12 members comprise the committee.”（12人组成委员会）。注意：be comprised of是常见被动形式，但部分语法规范认为应使用be composed of或consist of，考研中需识别其同义替换。"
+      }
+    },
+    {
+      "id": "compromise",
+      "word": "compromise",
+      "phonetic": "/'kɔmprəmaiz/",
+      "meaning": "n.妥协，折衷vi.妥协vt.危及，放弃(原则等)",
+      "similar": [
+        "comprise",
+        "composite",
+        "comparative",
+        "compress"
+      ],
+      "question": {
+        "wordId": "compromise",
+        "stem": "选择 \"compromise\" 的正确中文意思：",
+        "correct": "n.妥协，折衷vi.妥协vt.危及，放弃(原则等)",
+        "options": [
+          "vt.包含，包括，由...组成；构成，组成",
+          "a.比较的,相当的",
+          "n.妥协，折衷vi.妥协vt.危及，放弃(原则等)",
+          "a.混合成的，综合成的n.合成物，复合材料"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根 com-（一起）+ promise（承诺）。核心动作：双方相互做出承诺（promise），各自让步以达成一致。引申为‘妥协、折衷’；进一步引申为‘危及、放弃原则’，即因妥协而损害原本坚持的东西。",
+        "similarWarning": "comprise（包含，由…组成）：com-（一起）+ prise（拿），强调‘整体包含部分’；compromise强调‘相互让步’。composite（混合物）：com-（一起）+ pos（放置）+ ite（名词后缀），指将不同元素放在一起形成整体。comparative（比较的）：com-（一起）+ par（准备/对等）+ ative，侧重对比。compress（压缩）：com-（一起）+ press（压），物理上的压紧。",
+        "extendedMeaning": "1. 危及，损害（原则、健康、安全等）：如‘compromise national security’（危害国家安全）。2. 放弃（原则、标准）：如‘refuse to compromise one's beliefs’（拒绝放弃信仰）。",
+        "examUsage": "真题高频考点：作及物动词表‘危及’：如‘compromise one's reputation’（损害名誉）。固定搭配‘reach a compromise’（达成妥协）。干扰项常与‘comprise’混淆，需注意及物动词‘compromise’后接被损害的对象。"
+      }
+    },
+    {
+      "id": "compulsory",
+      "word": "compulsory",
+      "phonetic": "/kəm'pʌlsəri/",
+      "meaning": "a.必须做的，强制性的，(课程)必修的",
+      "similar": [
+        "computer"
+      ],
+      "question": {
+        "wordId": "compulsory",
+        "stem": "选择 \"compulsory\" 的正确中文意思：",
+        "correct": "a.必须做的，强制性的，(课程)必修的",
+        "options": [
+          "a.必须做的，强制性的，(课程)必修的",
+          "n.计算机,电脑;计算者",
+          "a.看的,看得见的;视觉的",
+          "a.欢乐的,愉快的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "com-（共同）+ puls-（推，驱动）+ -ory（形容词后缀）→ 共同推动的 → 强制性的。核心动作是“外力推动”，引申为必须服从的规则或课程。",
+        "similarWarning": "computer（计算机）: 拼写差异在“-puter” vs “-pulsory”，前者来自putare（计算），后者来自pulsare（推）。",
+        "extendedMeaning": "在考研阅读中常指“强制性的义务或要求”，如compulsory education（义务教育），注意与voluntary（自愿的）形成对比。",
+        "examUsage": "真题中常考固定搭配：compulsory course（必修课）与optional course（选修课）对应；compulsory execution（强制执行）在法律类文章中出现。"
+      }
+    },
+    {
+      "id": "compute",
+      "word": "compute",
+      "phonetic": "/kəm'pju:t/",
+      "meaning": "v./n.计算,估计",
+      "similar": [
+        "computer",
+        "commute",
+        "compete",
+        "complete",
+        "compare",
+        "compile",
+        "compose",
+        "competent"
+      ],
+      "question": {
+        "wordId": "compute",
+        "stem": "选择 \"compute\" 的正确中文意思：",
+        "correct": "v./n.计算,估计",
+        "options": [
+          "v./n.计算,估计",
+          "v.乘公交车上下班,乘车(船等)往返于两地",
+          "n.计算机,电脑;计算者",
+          "vi.比赛；竞争；对抗"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "com-（一起）+ put（思考、计算）+ -e（动词后缀）→ 共同计算，引申为“计算、估计”。核心动作：将数字或数据放在一起进行运算。",
+        "similarWarning": "computer（计算机）：compute + -er（人或工具），指“进行计算的机器”。commute（通勤）：com-（共同）+ mute（改变）→ 共同改变位置，即“通勤”。compete（竞争）：com-（共同）+ pete（追求）→ 共同追求同一目标。complete（完成）：com-（加强）+ plete（填满）→ 填满，即“完成”。compare（比较）：com-（共同）+ pare（准备）→ 放在一起准备比较。compile（汇编）：com-（共同）+ pile（堆）→ 堆在一起，即“汇编”。compose（组成）：com-（共同）+ pose（放置）→ 放在一起，即“组成”。competent（有能力的）：com-（共同）+ pete（追求）+ -ent（形容词后缀）→ 能共同追求的，即“有能力的”。",
+        "extendedMeaning": "考研中常考“计算”的抽象义，如“估计、推算”，尤其在科技类阅读中表示“用计算机处理数据”。",
+        "examUsage": "核心短语：compute the cost（估算成本）、compute the value（计算价值）。真题例句：It is difficult to compute the exact impact of the policy.（很难精确估算该政策的影响。）"
+      }
+    },
+    {
+      "id": "computer",
+      "word": "computer",
+      "phonetic": "/kəm'pju:tə/",
+      "meaning": "n.计算机,电脑;计算者",
+      "similar": [
+        "compute",
+        "commute",
+        "compete",
+        "competent",
+        "compel",
+        "copper",
+        "chapter",
+        "compare"
+      ],
+      "question": {
+        "wordId": "computer",
+        "stem": "选择 \"computer\" 的正确中文意思：",
+        "correct": "n.计算机,电脑;计算者",
+        "options": [
+          "v./n.计算,估计",
+          "v.乘公交车上下班,乘车(船等)往返于两地",
+          "vi.比赛；竞争；对抗",
+          "n.计算机,电脑;计算者"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 computare（计算），由 com-（一起） + putare（思考、修剪、计算）构成。核心物理动作是“把数字放在一起合计”，引申为能进行复杂计算的机器。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "comrade",
+      "word": "comrade",
+      "phonetic": "/'kɔmrid/",
+      "meaning": "n.同志,同事,同伴,朋友",
+      "similar": [
+        "compare",
+        "corrode",
+        "courage",
+        "comprise"
+      ],
+      "question": {
+        "wordId": "comrade",
+        "stem": "选择 \"comrade\" 的正确中文意思：",
+        "correct": "n.同志,同事,同伴,朋友",
+        "options": [
+          "n.同志,同事,同伴,朋友",
+          "vt.(to，with)比较；(to)把…比作vi.相比",
+          "v.(受)腐蚀,侵蚀",
+          "n.勇气,胆量"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "com-共同 + -rade来自拉丁语camera房间→同住一室的人→战友/同志。核心动作：共享同一空间的人。",
+        "similarWarning": "compare (com-共同 + par-等同) 比较；corrode (cor-加强 + rod-咬) 腐蚀；courage (cour-心) 勇气；comprise (com-共同 + prise-抓) 包含。注意comrade拼写中无p/r/g，且词根为camera。",
+        "extendedMeaning": "在考研真题中，comrade常引申为政治语境下的‘同志’（如社会主义阵营成员）或志同道合的伙伴，强调意识形态或目标的一致性。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "conceal",
+      "word": "conceal",
+      "phonetic": "/kən'si:l/",
+      "meaning": "v.隐藏,隐瞒,隐蔽",
+      "similar": [
+        "cancel",
+        "concede",
+        "concept",
+        "concern",
+        "concert",
+        "conceive",
+        "concrete"
+      ],
+      "question": {
+        "wordId": "conceal",
+        "stem": "选择 \"conceal\" 的正确中文意思：",
+        "correct": "v.隐藏,隐瞒,隐蔽",
+        "options": [
+          "v.隐藏,隐瞒,隐蔽",
+          "v.取消,把…作废;删去,划掉",
+          "vt.承认；容许；(比赛结束前)认输；退让",
+          "n.概念，观念，设想"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 con-（完全）+ -ceal-（隐藏，来自拉丁语 celare），本义为“彻底藏起来”，强调动作的完成性和隐蔽的彻底性，区别于普通隐藏。",
+        "similarWarning": "cancel（取消）：区别在于 -ceal- vs -cel-，前者强调藏匿，后者强调划掉；concede（让步）：-cede-（走），词义完全不同；concept（概念）：-cept-（拿），与隐藏无关。",
+        "extendedMeaning": "",
+        "examUsage": "真题中常与动词 hide 辨析：conceal 更正式，强调故意隐瞒；固定搭配 conceal sth. from sb.（对某人隐瞒某事），如真题例句：He tried to conceal his identity from the police."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1706 @@
+{
+  "batchId": 31,
+  "words": [
+    {
+      "id": "extraordinary",
+      "word": "extraordinary",
+      "phonetic": "/ɪk'strɔ:dnri/",
+      "meaning": "a.非常的;格外的;意外的;离奇的;临时的",
+      "similar": [],
+      "question": {
+        "wordId": "extraordinary",
+        "stem": "选择 \"extraordinary\" 的正确中文意思：",
+        "correct": "a.非常的;格外的;意外的;离奇的;临时的",
+        "options": [
+          "a.非常的;格外的;意外的;离奇的;临时的",
+          "v.推论,推断",
+          "n.钱包",
+          "a.在前的,在先的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "extra-（超出）+ ordinary（普通的）→超出普通范围，即“格外的、非常的”。物理动作：从常态边界向外延伸，强调程度或性质的异常。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“非凡的、卓越的”，用于形容人或成就超出常规水平，如 an extraordinary talent（非凡的才能）；也可指“离奇的”，强调事件不合常规，如 extraordinary circumstances（异常情况）。",
+        "examUsage": "常见于真题中作表语或定语，与 common, normal 形成对比，用于强调程度或性质的极端性。例如：The results were extraordinary.（结果非同寻常。）"
+      }
+    },
+    {
+      "id": "extravagant",
+      "word": "extravagant",
+      "phonetic": "/ik'strævəgənt/",
+      "meaning": "a.奢侈的;过分的;(言行等)放肆的",
+      "similar": [],
+      "question": {
+        "wordId": "extravagant",
+        "stem": "选择 \"extravagant\" 的正确中文意思：",
+        "correct": "a.奢侈的;过分的;(言行等)放肆的",
+        "options": [
+          "v.(with)填满,充满",
+          "a.坚韧的,棘手的;强健的,吃苦耐劳的;粗暴的",
+          "n.人口,(全体)居民",
+          "a.奢侈的;过分的;(言行等)放肆的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语extra（超出）+vagari（漫游），字面义为“偏离正轨、四处游荡”，核心动作是“超出常规边界”，引申为花费超出合理范围（奢侈）、行为超出规范（放肆）、程度超出限度（过分）。",
+        "similarWarning": "",
+        "extendedMeaning": "（在考研阅读中常引申为）过度的、不切实际的（如：extravagant claims/expectations 过高的要求或离谱的断言）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "extreme",
+      "word": "extreme",
+      "phonetic": "/ik'stri:m/",
+      "meaning": "a.末端的,尽头的;极度的 n.极端;最大程度",
+      "similar": [],
+      "question": {
+        "wordId": "extreme",
+        "stem": "选择 \"extreme\" 的正确中文意思：",
+        "correct": "a.末端的,尽头的;极度的 n.极端;最大程度",
+        "options": [
+          "a.末端的,尽头的;极度的 n.极端;最大程度",
+          "n.乌合之众(尤指暴力者) vi.围攻，聚众闹事",
+          "v.论证,证实;演示,说明",
+          "n.祖宗，祖先；原型，先驱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语extremus，意为“最外面的”，是exter（外部）的最高级形式。词根ex-表示“向外”，-trem-是最高级后缀，对应英语的-est。核心动作/画面：从中心向外推到最远边界，即“末端的、尽头的”，引申为“极度的”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“极端的、偏激的”，如extreme views（偏激观点）；或作名词指“极端状态”，如go to extremes（走极端）。",
+        "examUsage": "高频搭配：extreme weather（极端天气）、extreme poverty（极度贫困）。真题中常作为逻辑题眼，如in the extreme（极其），用于程度对比。"
+      }
+    },
+    {
+      "id": "eyebrow",
+      "word": "eyebrow",
+      "phonetic": "/'aibrau/",
+      "meaning": "n.眉毛",
+      "similar": [],
+      "question": {
+        "wordId": "eyebrow",
+        "stem": "选择 \"eyebrow\" 的正确中文意思：",
+        "correct": "n.眉毛",
+        "options": [
+          "n.眉毛",
+          "v.联合；结合；化合 n.集团；联合企业",
+          "n.房地产;不动产;所有权;地位;生活状况",
+          "a.戏剧的,戏剧性的;剧烈的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "eye（眼睛）+ brow（眉毛；额头）。组合后指眼睛上方的眉毛，核心物理动作为覆盖于眼睛上方的毛发结构。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "eyesight",
+      "word": "eyesight",
+      "phonetic": "/'aisait/",
+      "meaning": "n.视力",
+      "similar": [
+        "height",
+        "delight",
+        "freight",
+        "insight"
+      ],
+      "question": {
+        "wordId": "eyesight",
+        "stem": "选择 \"eyesight\" 的正确中文意思：",
+        "correct": "n.视力",
+        "options": [
+          "n.货物,货运,运费",
+          "n.快乐,高兴 v.(使)高兴,(使)欣喜",
+          "n.高,高度;(常pl.)高地,高处",
+          "n.视力"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "eye（眼睛）+ sight（视力）→ 眼睛的视力",
+        "similarWarning": "height（高度），weight（重量），delight（高兴），freight（货物），insight（洞察力）",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fable",
+      "word": "fable",
+      "phonetic": "/'feibl/",
+      "meaning": "n.寓言",
+      "similar": [
+        "able",
+        "cable",
+        "enable",
+        "feeble",
+        "gamble",
+        "liable",
+        "marble",
+        "stable"
+      ],
+      "question": {
+        "wordId": "fable",
+        "stem": "选择 \"fable\" 的正确中文意思：",
+        "correct": "n.寓言",
+        "options": [
+          "n.寓言",
+          "a.有(能力、知识等)做某事，有本事的",
+          "n.电报;电缆;缆,索,钢丝绳 v.拍电报",
+          "v.使能够,使成为可能;授予权利或方法"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'fabula'（故事、叙述），与'fari'（说）同源。核心物理动作为“讲述虚构之事”，引申为带有道德训诫的寓言故事，强调虚构性与教导性。",
+        "similarWarning": "形近词：cable（电缆）、table（桌子）、feeble（虚弱的）。差异：fable以'f'开头，核心是“虚构故事”；cable含'c'，指“缆绳”；table含't'，指“桌子”；feeble含'ee'，指“虚弱”。",
+        "extendedMeaning": "考研僻义：无特殊僻义。",
+        "examUsage": "真题考点：无特殊考点。"
+      }
+    },
+    {
+      "id": "fabric",
+      "word": "fabric",
+      "phonetic": "/'fæbrik/",
+      "meaning": "n.织物;织品;结构;构造;建筑物",
+      "similar": [],
+      "question": {
+        "wordId": "fabric",
+        "stem": "选择 \"fabric\" 的正确中文意思：",
+        "correct": "n.织物;织品;结构;构造;建筑物",
+        "options": [
+          "n.腹，下腹(胸部到腿部的部分)",
+          "n.明信片",
+          "n.织物;织品;结构;构造;建筑物",
+          "a.整齐的,有秩序的,有条理的 n.勤务兵"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语fabrica（作坊、精巧工艺），核心动作是\"制作、构建\"。fabric本义是\"制作出的东西\"，引申为\"织物\"（织造品）和\"结构、构造\"（抽象层面的构建）。\",\n  \"similarWarning\": \"\",\n  \"extendedMeaning\": \"社会/系统的\"结构、基础\"（如the fabric of society社会结构）；建筑物的\"框架、构造\"（如the fabric of the building建筑结构）。\",\n  \"examUsage\": \"\"\n}",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fabricate",
+      "word": "fabricate",
+      "phonetic": "/'fæbrikeit/",
+      "meaning": "v.捏造,编造(谎言,借口等);建造,制造",
+      "similar": [
+        "lubricate",
+        "fascinate",
+        "intricate",
+        "facilitate"
+      ],
+      "question": {
+        "wordId": "fabricate",
+        "stem": "选择 \"fabricate\" 的正确中文意思：",
+        "correct": "v.捏造,编造(谎言,借口等);建造,制造",
+        "options": [
+          "v.捏造,编造(谎言,借口等);建造,制造",
+          "a.复杂的,错综的,难以理解的",
+          "v.润滑,加润滑油,行贿,收买",
+          "v.迷住,强烈吸引"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 fabrica（作坊、技艺），fabric-（制作）+ -ate（动词后缀）→ 制作。本义是“制作、建造”，后引申为“捏造、编造”，强调从无到有地“制造”出虚假信息，如同在作坊里打造器物。",
+        "similarWarning": "lubricate（润滑）：lubric-（滑的）+ -ate；fascinate（迷住）：fascin-（魔力）+ -ate；intricate（复杂的）：in-（进入）+ tric-（琐碎）+ -ate；facilitate（促进）：facil-（容易的）+ -itate。fabricate 与 facilitate 开头相似（fabric- vs facil-），但 fabricate 强调“制造/伪造”，facilitate 强调“使容易”。",
+        "extendedMeaning": "在考研阅读中常考“捏造证据/数据”的贬义用法，如 fabricate evidence/data，对应中文“造假”。",
+        "examUsage": "真题考点：fabricate 常与 make up 同义替换，但更正式。例句：The scientist was accused of fabricating research results.（该科学家被指控伪造研究结果。）"
+      }
+    },
+    {
+      "id": "fabulous",
+      "word": "fabulous",
+      "phonetic": "/'fæbjuləs/",
+      "meaning": "a.极好的；极为巨大的；寓言中的，传说中的",
+      "similar": [
+        "famous"
+      ],
+      "question": {
+        "wordId": "fabulous",
+        "stem": "选择 \"fabulous\" 的正确中文意思：",
+        "correct": "a.极好的；极为巨大的；寓言中的，传说中的",
+        "options": [
+          "n.民意测验;(pl.)政治选举 v.获得…选票",
+          "a.著名的",
+          "vt.诱拐；绑架，劫持",
+          "a.极好的；极为巨大的；寓言中的，传说中的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 fabul-（源自拉丁语 fabula，意为“故事、传说”）+ 形容词后缀 -ous（充满…的）。核心动作/画面：源自“讲述故事”，引申为“像传说中那样美好或巨大”，即“极好的；极为巨大的；传说中的”。",
+        "similarWarning": "形近词：famous（著名的）。差异：fabulous 含 fabul-（故事/传说），强调“传说般的、极好的”；famous 含 fam-（名声），强调“出名的”。",
+        "extendedMeaning": "考研僻义：在真题中常作“极为巨大的”解，如 a fabulous sum of money（一笔巨款），非字面“寓言般的”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "facilitate",
+      "word": "facilitate",
+      "phonetic": "/fə'siliteit/",
+      "meaning": "v.使变得(更)容易;使便利;推动;帮助;处进",
+      "similar": [
+        "facility",
+        "activate",
+        "familiar",
+        "affiliate",
+        "fabricate",
+        "fascinate",
+        "humiliate"
+      ],
+      "question": {
+        "wordId": "facilitate",
+        "stem": "选择 \"facilitate\" 的正确中文意思：",
+        "correct": "v.使变得(更)容易;使便利;推动;帮助;处进",
+        "options": [
+          "v.使变得(更)容易;使便利;推动;帮助;处进",
+          "n.灵巧,熟练;(pl.)设备,设施,便利条件",
+          "a.熟悉的;通晓的;亲近的 n.熟客;密友",
+          "vt.启动，激活；驱动，驱使；使开始起作用"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "facile（容易的）+ -ate（动词后缀）→使容易。核心动作：消除障碍或简化过程，让某事物更容易发生或完成。",
+        "similarWarning": "facility（n.设施；便利） vs facilitate（v.促进）：facility是名词，指‘设备’或‘便利条件’；facilitate是动词，指‘使便利’的动作。activate（v.激活） vs facilitate（v.促进）：activate强调启动或触发；facilitate强调为过程铺平道路。",
+        "extendedMeaning": "在考研阅读中常引申为‘推动、促进（抽象进程）’，如facilitate economic growth（推动经济增长），而非仅指物理上的‘使容易’。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "facility",
+      "word": "facility",
+      "phonetic": "/fə'sɪləti/",
+      "meaning": "n.灵巧,熟练;(pl.)设备,设施,便利条件",
+      "similar": [
+        "ability",
+        "faculty",
+        "facilitate",
+        "liability",
+        "stability",
+        "faulty",
+        "activity",
+        "familiar"
+      ],
+      "question": {
+        "wordId": "facility",
+        "stem": "选择 \"facility\" 的正确中文意思：",
+        "correct": "n.灵巧,熟练;(pl.)设备,设施,便利条件",
+        "options": [
+          "n.灵巧,熟练;(pl.)设备,设施,便利条件",
+          "n.能力；本领；才能；专门技能，天资",
+          "n.才能;学院,系;(学院或系的)全体教学人员",
+          "v.使变得(更)容易;使便利;推动;帮助;处进"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语facilis（容易的），由词根fac-（做） + -ilis（能够）构成，本义为“容易做到的”。引申为“灵巧、熟练”指做事容易的能力，再引申为“设备、设施”即使事情变得容易的工具或条件。",
+        "similarWarning": "facility vs. faculty：facility强调“设备”或“灵巧”；faculty指“能力”或“全体教员”。facility vs. facilitate：facilitate是动词“使容易”，facility是名词。facility vs. liability：liability意为“责任、负债”，与facility拼写相近但义远。",
+        "extendedMeaning": "在考研英语中，facility常考“灵巧、熟练”的抽象义，如：with great facility（娴熟地）；此外，复数形式facilities常指“设施、设备”，如：public facilities（公共设施）。",
+        "examUsage": "常见搭配：transportation facilities（交通设施）；medical facilities（医疗设施）；facilities for study（学习设施）。真题中常作为定位词出现，如：The new sports facilities are open to the public.（新体育设施对公众开放。）"
+      }
+    },
+    {
+      "id": "factor",
+      "word": "factor",
+      "phonetic": "/'fæktə/",
+      "meaning": "n.因素,要素",
+      "similar": [
+        "factory",
+        "actor",
+        "tractor",
+        "favor",
+        "sector",
+        "fraction",
+        "fracture"
+      ],
+      "question": {
+        "wordId": "factor",
+        "stem": "选择 \"factor\" 的正确中文意思：",
+        "correct": "n.因素,要素",
+        "options": [
+          "n.因素,要素",
+          "n.工厂",
+          "n.男演员；演员，行动者",
+          "n.拖拉机,牵引车"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根fac-（做，制作）+ -or（名词后缀，表物或人）。核心物理动作：被制作出来的东西。引申为构成结果或过程的‘因素、要素’，即导致某事发生的‘制作元素’。",
+        "similarWarning": "factory（工厂）：fact（做）+ -ory（场所），制作场所。factor（因素）：fac- + -or，制作物。actor（演员）：act（行动）+ -or，行动者。tractor（拖拉机）：tract（拉）+ -or，拉动的机器。",
+        "extendedMeaning": "【考研僻义】n. 系数，因子（数学语境，如growth factor生长因子）；v. 把…作为因素考虑（常见于factor in/into，如factor cost into the budget）。",
+        "examUsage": "【真题考点】固定搭配：factor in/into（将…纳入考虑）。真题例句：\"The new policy must factor in the needs of small businesses.\"（新政策必须考虑小企业的需求。）干扰项常设于与element、component的辨析，但factor更强调因果关系中的关键作用。"
+      }
+    },
+    {
+      "id": "factory",
+      "word": "factory",
+      "phonetic": "/'fæktəri/",
+      "meaning": "n.工厂",
+      "similar": [
+        "factor",
+        "actor",
+        "victory",
+        "fracture",
+        "lavatory"
+      ],
+      "question": {
+        "wordId": "factory",
+        "stem": "选择 \"factory\" 的正确中文意思：",
+        "correct": "n.工厂",
+        "options": [
+          "n.工厂",
+          "n.胜利",
+          "n.因素,要素",
+          "n.男演员；演员，行动者"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根‘fact’（做，制作）+ 后缀‘-ory’（场所，地点）。核心物理动作：制作东西的场所，即工厂。",
+        "similarWarning": "factor（因素，因子）：factory vs factor，差异在于‘y’和‘r’，factory强调‘制作场所’，factor强调‘起作用的因素’。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "faculty",
+      "word": "faculty",
+      "phonetic": "/'fækəlti/",
+      "meaning": "n.才能;学院,系;(学院或系的)全体教学人员",
+      "similar": [
+        "faulty",
+        "facility",
+        "fault",
+        "casualty"
+      ],
+      "question": {
+        "wordId": "faculty",
+        "stem": "选择 \"faculty\" 的正确中文意思：",
+        "correct": "n.才能;学院,系;(学院或系的)全体教学人员",
+        "options": [
+          "n.灵巧,熟练;(pl.)设备,设施,便利条件",
+          "n.过失,过错;缺点,毛病",
+          "a.有错误的，有缺点的，不完善的",
+          "n.才能;学院,系;(学院或系的)全体教学人员"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 facultas（能力、力量），由 facere（做）+ -ultas（抽象名词后缀）构成，核心动作是“做”的能力。引申为“天赋才能”，后衍生出“学院（具备教学能力的组织）”和“全体教员（具备教学能力的人）”。",
+        "similarWarning": "faulty（有缺陷的）：对比字母 u 与 a，faculty 强调能力，faulty 强调缺陷。facility（设施/便利）：对比字母 l 与 t，faculty 指人才或机构，facility 指设备或条件。fault（过错）：对比字母 y 与 t，faculty 指才能，fault 指错误。casualty（伤亡者）：拼写差异大，但易混淆，注意 faculty 无“伤亡”义。",
+        "extendedMeaning": "考研僻义：指“（大学中的）系或学院”，如 the Faculty of Law（法学院）；或“（某一领域的）全体专业人员”，如 the medical faculty（全体医学界人士）。",
+        "examUsage": "真题考点：常考搭配 \"mental faculty\"（心智能力）或 \"faculty of memory\"（记忆力）。注意与 ability 的区别：faculty 强调天生或习得的特殊才能，ability 更泛指做某事的能力。"
+      }
+    },
+    {
+      "id": "fade",
+      "word": "fade",
+      "phonetic": "/feid/",
+      "meaning": "v.褪色;衰减,消失n.淡入(出)n.乏味(平淡)的",
+      "similar": [
+        "fake",
+        "fame",
+        "fare",
+        "fate",
+        "badge",
+        "blade",
+        "evade",
+        "fable"
+      ],
+      "question": {
+        "wordId": "fade",
+        "stem": "选择 \"fade\" 的正确中文意思：",
+        "correct": "v.褪色;衰减,消失n.淡入(出)n.乏味(平淡)的",
+        "options": [
+          "v.褪色;衰减,消失n.淡入(出)n.乏味(平淡)的",
+          "n.假货，赝品 a.假的，冒充的 v.伪造；伪装",
+          "n.名声;名望;传说 vt使出名;传扬…的名",
+          "n.车费,船费;伙食;乘客 v.过活;进展;经营"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根fad-（来自古法语fader，意为“褪色、变苍白”），核心物理动作为“颜色或光线逐渐减弱”，引申为“逐渐消失、衰减”。",
+        "similarWarning": "face（脸；面对）、fake（假的；伪造）、fame（名声）、fare（费用；进展）、fate（命运）、badge（徽章）、blade（刀刃）、evade（逃避；规避）。与fade对比：fade强调“逐渐消失”，evade强调“主动逃避”，badge、blade等拼写相似但词义无关。",
+        "extendedMeaning": "在考研外刊中，fade常引申为“（影响、记忆、兴趣等）逐渐减弱或消失”，如“fade into obscurity”（逐渐被遗忘）或“fade from memory”（从记忆中淡出）。",
+        "examUsage": "真题考点：fade常与into/away等介词搭配，如“fade into the background”（退居次要地位）或“fade away”（逐渐消失）。在阅读理解中，可能作为干扰项考查与“disappear”（突然消失）的语义区别。"
+      }
+    },
+    {
+      "id": "fail",
+      "word": "fail",
+      "phonetic": "/feil/",
+      "meaning": "v.失败,不及格;衰退,减弱",
+      "similar": [
+        "fair",
+        "hail",
+        "nail",
+        "pail",
+        "rail",
+        "sail",
+        "tail",
+        "fairly"
+      ],
+      "question": {
+        "wordId": "fail",
+        "stem": "选择 \"fail\" 的正确中文意思：",
+        "correct": "v.失败,不及格;衰退,减弱",
+        "options": [
+          "v.失败,不及格;衰退,减弱",
+          "a.公平的,合理的;相当的 n.集市,交易会",
+          "v.下雹;欢呼,欢迎 n.雹",
+          "n.指甲,爪;钉 v.将…钉牢,钉住"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语‘fallere’（欺骗、使失望），核心动作是‘未能达到预期或标准’。词根‘fal-’（欺骗）→ 引申为‘失败、不及格’；物理上‘衰退’指力量/功能的减弱，如‘fail to meet’的负面结果。",
+        "similarWarning": "fair（公平的；集市） vs fail：fair含‘-air’（空气/公平），fail含‘-ail’（失败）；fall（落下） vs fail：字母‘l’单双区别，fall强调垂直下降，fail指能力缺失。",
+        "extendedMeaning": "考研僻义：1. 未能履行（职责/承诺），如‘fail to act’；2. 使失望（及物动词），如‘words fail me’；3. 破产/倒闭（经济语境），如‘the bank failed’。",
+        "examUsage": "真题考点：固定搭配‘without fail’（必定，务必），常作为完形填空选项或阅读中的强调结构；‘fail to do’（未能做）是高频否定逻辑信号。"
+      }
+    },
+    {
+      "id": "failure",
+      "word": "failure",
+      "phonetic": "/'feiljə/",
+      "meaning": "n.失败,不及格;失败者;故障,失灵;未能",
+      "similar": [
+        "figure",
+        "fracture"
+      ],
+      "question": {
+        "wordId": "failure",
+        "stem": "选择 \"failure\" 的正确中文意思：",
+        "correct": "n.失败,不及格;失败者;故障,失灵;未能",
+        "options": [
+          "n.体形;轮廓;数字;图形v.描绘;计算;推测",
+          "n.失败,不及格;失败者;故障,失灵;未能",
+          "n.裂缝(痕);骨折 v.(使)断裂,(使)折断",
+          "n.大炮,火炮"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语fallere（欺骗、使失望）。fail（失败）+ -ure（名词后缀，表行为、结果或状态）。核心动作是“未能达到期望或标准”，引申为“失败”或“故障”。",
+        "similarWarning": "figure（n. 数字，人物；v. 认为，计算）与failure拼写差异在 -ure vs -ure，但figure更常见于“图形”义；fracture（n./v. 断裂，骨折）与failure拼写差异在 frac- vs fail-，fracture强调物理破裂，failure强调功能或目标的未达成。",
+        "extendedMeaning": "在考研阅读中常引申为“失灵、故障”（如engine failure发动机故障）或“未能履行”（如failure to act未能行动）。",
+        "examUsage": "常见搭配：failure to do sth.（未能做某事），如真题例句：Failure to properly manage the crisis could lead to economic downturn.（未能妥善管理危机可能导致经济衰退。）"
+      }
+    },
+    {
+      "id": "faint",
+      "word": "faint",
+      "phonetic": "/'feint/",
+      "meaning": "a.微弱的;不明显的;暗淡的 n./v.昏倒;昏晕",
+      "similar": [
+        "paint",
+        "saint",
+        "famine",
+        "ant",
+        "fan",
+        "fit",
+        "aunt",
+        "bait"
+      ],
+      "question": {
+        "wordId": "faint",
+        "stem": "选择 \"faint\" 的正确中文意思：",
+        "correct": "a.微弱的;不明显的;暗淡的 n./v.昏倒;昏晕",
+        "options": [
+          "n.圣人,基督徒;(S-或St.用于人,地名前)圣",
+          "n.饥荒,饥馑",
+          "n.油漆,颜料 v.油漆;涂,涂漆;画;描绘,描述",
+          "a.微弱的;不明显的;暗淡的 n./v.昏倒;昏晕"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古法语‘feindre’（假装），核心物理动作是‘装作倒下’，引申为因虚弱而‘昏倒’，再转为形容词‘微弱的、不明显的’，描述信号、光线或声音的强度低。",
+        "similarWarning": "paint（绘画）：p vs f，字母差异；saint（圣人）：s vs f；famine（饥荒）：加-mine后缀，强调极度匮乏；ant（蚂蚁）：缺f，词义无关；fan（风扇/粉丝）：缺i，短元音不同；fat（胖）：尾音t相同但元音不同；fit（适合）：元音i变为a；aunt（阿姨）：加字母u。",
+        "extendedMeaning": "考研僻义：a. 微弱的（指希望、可能性极小），如‘a faint chance’（渺茫的机会）；v. 昏倒（常作医学或紧急状况描述）。",
+        "examUsage": "真题考点：faint常与‘possibility’、‘hope’搭配，表‘微弱的可能性’；完形中干扰项常为‘faint’ vs ‘faintly’（副词形式），需注意形容词修饰名词，副词修饰动词或形容词。"
+      }
+    },
+    {
+      "id": "fair",
+      "word": "fair",
+      "phonetic": "/fεə/",
+      "meaning": "a.公平的,合理的;相当的 n.集市,交易会",
+      "similar": [
+        "fairy",
+        "fail",
+        "pair",
+        "affair",
+        "fairly",
+        "chair",
+        "dairy",
+        "faint"
+      ],
+      "question": {
+        "wordId": "fair",
+        "stem": "选择 \"fair\" 的正确中文意思：",
+        "correct": "a.公平的,合理的;相当的 n.集市,交易会",
+        "options": [
+          "a.公平的,合理的;相当的 n.集市,交易会",
+          "a.幻想中的;虚构的;优雅的 n.仙女;精灵",
+          "n.一对,一双;一副;夫妇 v.配对,成对",
+          "v.失败,不及格;衰退,减弱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语fæger，本义为“美丽的、令人愉悦的”，后引申为“公正的、合理的”（因为公正的行为令人愉悦）。集市义源自拉丁语feriae（假日），指在节日期间举办的交易会。",
+        "similarWarning": "fairy（仙女）：fair + y，对比“公平的”与“仙女”；hair（头发）：h与f替换，注意拼写差异。",
+        "extendedMeaning": "在考研中，fair作名词常考“交易会、博览会”（如trade fair），而非普通“集市”；作形容词常考“相当的、尚可的”（如a fair chance），而非仅“公平的”。",
+        "examUsage": "常见搭配：fair play（公平竞争）、fair enough（说得对）、fair trade（公平贸易）。真题中常作为干扰项，与just、impartial辨析。"
+      }
+    },
+    {
+      "id": "fairly",
+      "word": "fairly",
+      "phonetic": "/'fεəli/",
+      "meaning": "ad.公正地,正当地;相当,还算",
+      "similar": [
+        "fairy",
+        "fail",
+        "fair",
+        "daily",
+        "dairy"
+      ],
+      "question": {
+        "wordId": "fairly",
+        "stem": "选择 \"fairly\" 的正确中文意思：",
+        "correct": "ad.公正地,正当地;相当,还算",
+        "options": [
+          "a.公平的,合理的;相当的 n.集市,交易会",
+          "a.幻想中的;虚构的;优雅的 n.仙女;精灵",
+          "v.失败,不及格;衰退,减弱",
+          "ad.公正地,正当地;相当,还算"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "fair（公正的）+ -ly（副词后缀）→ 公正地。引申为“相当”时，源自“公正地衡量”后衍生的“适度、尚可”之意。",
+        "similarWarning": "fairy（仙女）：fair + y，与fairly差一个y；fail（失败）：fai- vs fai-，尾字母l不同；daily（每日的）：d-开头，与f-开头混淆。",
+        "extendedMeaning": "考研中常见“相当，还算”的用法，如fairly good（还不错），侧重主观程度，区别于客观的quite。",
+        "examUsage": "常见搭配：fairly + 形容词/副词（如fairly well），真题中常作为程度副词考点，与rather、quite辨析。"
+      }
+    },
+    {
+      "id": "fairy",
+      "word": "fairy",
+      "phonetic": "/'feəri/",
+      "meaning": "a.幻想中的;虚构的;优雅的 n.仙女;精灵",
+      "similar": [
+        "fairly",
+        "fair",
+        "dairy",
+        "fry",
+        "fail",
+        "fare",
+        "farm",
+        "firm"
+      ],
+      "question": {
+        "wordId": "fairy",
+        "stem": "选择 \"fairy\" 的正确中文意思：",
+        "correct": "a.幻想中的;虚构的;优雅的 n.仙女;精灵",
+        "options": [
+          "a.公平的,合理的;相当的 n.集市,交易会",
+          "ad.公正地,正当地;相当,还算",
+          "a.幻想中的;虚构的;优雅的 n.仙女;精灵",
+          "n.牛奶场,奶店"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自古法语faerie，意为“仙境、魔法”，源自拉丁语fatum（命运）。核心动作：与命运、魔法相关的幻想存在。",
+        "similarWarning": "fairly（adv.公平地；相当地） vs fairy：fairly含fair（公平）+ly，fairy含air（空气），可联想“仙女轻盈如空气”。",
+        "extendedMeaning": "adj.优雅的，精致的（形容事物如仙女般优美，非字面仙女）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "faith",
+      "word": "faith",
+      "phonetic": "/feiθ/",
+      "meaning": "n.信任,信用;信仰,信条",
+      "similar": [
+        "fit",
+        "bait",
+        "bath",
+        "fail",
+        "fair",
+        "fate",
+        "oath",
+        "wait"
+      ],
+      "question": {
+        "wordId": "faith",
+        "stem": "选择 \"faith\" 的正确中文意思：",
+        "correct": "n.信任,信用;信仰,信条",
+        "options": [
+          "n.饵，引诱物 vt.用饵引诱；折磨，奚落",
+          "n.沐浴,洗澡;浴室(池,盆) v.(给…)洗澡",
+          "a.(病的)发作，痉挛 v./a.n.合适,试穿,安装",
+          "n.信任,信用;信仰,信条"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源于拉丁语fides（信任），与fidere（信任）同源。核心物理动作为“将信念或信赖寄托于某人/事”，引申为信任、信仰、信条。",
+        "similarWarning": "bait（n.诱饵）与faith拼写差异在于‘b’和‘f’开头，bait指引诱物；faith指信任。bath（n.洗澡）与faith差异在‘b’和‘f’开头及元音不同，bath指清洗动作。",
+        "extendedMeaning": "在考研中常引申为“信任体系”或“忠诚”，如“keep faith with”（信守承诺）。",
+        "examUsage": "真题中常考短语“in good faith”（真诚地、善意地），如：They acted in good faith.（他们出于善意行事。）"
+      }
+    },
+    {
+      "id": "faithful",
+      "word": "faithful",
+      "phonetic": "/'feiθful/",
+      "meaning": "a.守信的,忠实的,如实的,可靠的",
+      "similar": [
+        "painful",
+        "fruitful"
+      ],
+      "question": {
+        "wordId": "faithful",
+        "stem": "选择 \"faithful\" 的正确中文意思：",
+        "correct": "a.守信的,忠实的,如实的,可靠的",
+        "options": [
+          "a.守信的,忠实的,如实的,可靠的",
+          "n.保险丝,导火线,引信 v.熔化,熔合",
+          "a.疼痛的,使痛苦的,费力[心]的,棘手的",
+          "a.多产的;果实累累的,富有成效的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "faith（信任） + -ful（充满…的） → 充满信任的 → 引申为“守信的、忠实的、如实的”。核心动作：对某人或某事保持信任和忠诚。",
+        "similarWarning": "painful（痛苦的）：pain（痛苦） + -ful，强调引起痛苦；fruitful（多产的）：fruit（果实） + -ful，强调富有成果。与faithful区别在于词根不同：faith（信任） vs. pain（痛苦） vs. fruit（果实）。",
+        "extendedMeaning": "在考研中常引申为“如实的、准确的”，例如描述数据、记录或翻译的忠实性，如“faithful reproduction”意为“如实复制”。",
+        "examUsage": "常与介词to搭配：be faithful to（忠实于）。真题例句：“The translation should be faithful to the original.”（翻译应忠实于原文。）"
+      }
+    },
+    {
+      "id": "fake",
+      "word": "fake",
+      "phonetic": "/feik/",
+      "meaning": "n.假货，赝品 a.假的，冒充的 v.伪造；伪装",
+      "similar": [
+        "bake",
+        "fade",
+        "fame",
+        "fare",
+        "fate",
+        "lake",
+        "rake",
+        "sake"
+      ],
+      "question": {
+        "wordId": "fake",
+        "stem": "选择 \"fake\" 的正确中文意思：",
+        "correct": "n.假货，赝品 a.假的，冒充的 v.伪造；伪装",
+        "options": [
+          "n.名声;名望;传说 vt使出名;传扬…的名",
+          "v.烤,烘,焙;烧硬,焙干",
+          "n.假货，赝品 a.假的，冒充的 v.伪造；伪装",
+          "v.褪色;衰减,消失n.淡入(出)n.乏味(平淡)的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "fake 源自古英语 fæcn（欺骗、欺诈），核心动作是“伪造、伪装”。词根 fag-（抓住、制作）的变体，引申为“制造假象”，与 make（制造）同源但侧重“虚假制造”。物理画面：将假的东西装作真的，如伪造艺术品或伪装身份。",
+        "similarWarning": "face（脸） vs fake（伪造）：face 含字母 c（人脸轮廓），fake 含字母 k（敲击伪造）；fade（褪色） vs fake：fade 含字母 d（向下消失），fake 含字母 k（硬造）；fame（名声） vs fake：fame 含字母 m（名声传播），fake 含字母 k（造假）。",
+        "extendedMeaning": "考研僻义：fake 作名词时，常指“假货、赝品”（如 counterfeit 同义）；作动词时，在阅读中可引申为“装出、假装（情感或态度）”，如 fake surprise（假装惊讶），强调表面表演而非实质。",
+        "examUsage": "真题考点：fake 常与 genuine（真正的）构成反义对比，如真题例句：\"The painting was a fake, not a genuine masterpiece.\" 考点在于识别“假 vs 真”的语义对立，干扰项常设 genuine 的同义词。"
+      }
+    },
+    {
+      "id": "false",
+      "word": "FALSE",
+      "phonetic": "/fɔ:ls/",
+      "meaning": "a.谬误的,虚伪的,伪造的,假的",
+      "similar": [
+        "base",
+        "ease",
+        "fade",
+        "fake",
+        "fame",
+        "fare",
+        "fate",
+        "file"
+      ],
+      "question": {
+        "wordId": "false",
+        "stem": "选择 \"FALSE\" 的正确中文意思：",
+        "correct": "a.谬误的,虚伪的,伪造的,假的",
+        "options": [
+          "a.谬误的,虚伪的,伪造的,假的",
+          "v.减轻;使舒适,使安心 n.容易;舒适,悠闲",
+          "v.褪色;衰减,消失n.淡入(出)n.乏味(平淡)的",
+          "n.基础,底部;根据地 v.(on)把…基于"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语fallere（欺骗、使跌倒），核心动作是“欺骗导致错误”。本义为“被欺骗而产生的虚假”，引申为“不真实的、伪造的、虚伪的”。",
+        "similarWarning": "fake（伪造的，假货）：强调故意伪造以冒充真品，如fake painting（赝品）；false强调与事实不符，如false statement（虚假陈述）。fade（褪色，减弱）：字母d与l不同，指颜色或记忆的消失。",
+        "extendedMeaning": "熟词僻义：在逻辑或法律语境中，false可指“站不住脚的、错误的逻辑推理”，如false premise（错误前提）；在音乐中，false note指“走调的音”。",
+        "examUsage": "考点：false sense of security（虚假的安全感）是真题中常见搭配，常作为选项干扰项，需辨析其与illusory（虚幻的）的细微差别。"
+      }
+    },
+    {
+      "id": "fame",
+      "word": "fame",
+      "phonetic": "/feim/",
+      "meaning": "n.名声;名望;传说 vt使出名;传扬…的名",
+      "similar": [
+        "flame",
+        "frame",
+        "fade",
+        "fake",
+        "fare",
+        "fate",
+        "fume",
+        "lame"
+      ],
+      "question": {
+        "wordId": "fame",
+        "stem": "选择 \"fame\" 的正确中文意思：",
+        "correct": "n.名声;名望;传说 vt使出名;传扬…的名",
+        "options": [
+          "n.火焰,火苗;热情;光辉 v.发火焰,燃烧",
+          "n.名声;名望;传说 vt使出名;传扬…的名",
+          "v.褪色;衰减,消失n.淡入(出)n.乏味(平淡)的",
+          "n.框架;体格;骨架;组织;机构 v.设计;制定"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语fama（传说、名声），与fari（说）同源。核心动作是“被说的、被传扬的”，即通过他人之口传播的声誉，引申为名声、名望。",
+        "similarWarning": "flame（火焰，fl+ame），frame（框架，fr+ame），face（脸，f+ace），fade（褪色，f+ade），fake（伪造，f+ake），fare（费用，f+are），fate（命运，f+ate），fume（烟/愤怒，f+ume）。核心差异在第二个字母或末尾字母，fame重点在“被谈论”的声誉。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "familiar",
+      "word": "familiar",
+      "phonetic": "/fə'miljə/",
+      "meaning": "a.熟悉的;通晓的;亲近的 n.熟客;密友",
+      "similar": [
+        "facility",
+        "facilitate"
+      ],
+      "question": {
+        "wordId": "familiar",
+        "stem": "选择 \"familiar\" 的正确中文意思：",
+        "correct": "a.熟悉的;通晓的;亲近的 n.熟客;密友",
+        "options": [
+          "v.使变得(更)容易;使便利;推动;帮助;处进",
+          "n.灵巧,熟练;(pl.)设备,设施,便利条件",
+          "a.熟悉的;通晓的;亲近的 n.熟客;密友",
+          "n./v.踢"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语familia（家庭），-ar形容词后缀。核心动作：像家人一样亲密无间，引申为熟悉、通晓。",
+        "similarWarning": "形近词辨析：family（n.家庭）与familiar拼写差异在-iar/-ly；similar（a.相似的）共享-ilar结尾但词根不同（simul-相似）；facility（n.设施）源于facilis（容易），facilitate（v.促进）同源。注意：familiar强调人际或知识上的亲近，similar侧重外在特征雷同，facility指物理便利性。",
+        "extendedMeaning": "考研僻义：作形容词可表‘常见的’（familiar sight常见景象）；作名词‘密友’（familiar friend至交），真题中偶现‘家臣’（historical context）。",
+        "examUsage": "真题考点：常见搭配be familiar with（对…熟悉，主语为人）与be familiar to（为…所熟悉，主语为物）的区分，如‘The subject is familiar to us’（我们熟悉这个主题）。干扰项常设family（家庭）误选。"
+      }
+    },
+    {
+      "id": "famine",
+      "word": "famine",
+      "phonetic": "/'fæmin/",
+      "meaning": "n.饥荒,饥馑",
+      "similar": [
+        "examine",
+        "fame",
+        "faint",
+        "marine",
+        "feminine"
+      ],
+      "question": {
+        "wordId": "famine",
+        "stem": "选择 \"famine\" 的正确中文意思：",
+        "correct": "n.饥荒,饥馑",
+        "options": [
+          "v.检查,调查;对…进行考试",
+          "a.微弱的;不明显的;暗淡的 n./v.昏倒;昏晕",
+          "n.名声;名望;传说 vt使出名;传扬…的名",
+          "n.饥荒,饥馑"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'fames'（饥饿），名词后缀 '-ine' 表示状态。核心动作：大量人口因食物短缺而长期挨饿的状态。",
+        "similarWarning": "形近词辨析：\n- famine（饥荒）：fa- + -mine（饥饿状态）\n- examine（检查）：ex-（向外）+ amine（权衡）\n- faint（昏厥）：fai- + -nt（虚弱）\n- feminine（女性的）：femi- + -nine（阴性后缀）",
+        "extendedMeaning": "考研僻义：\n1. 极度匮乏（非食物方面），如 'water famine'（水荒）、'energy famine'（能源危机）\n2. 比喻义：精神或文化上的严重缺失，如 'a famine of creativity'（创意枯竭）",
+        "examUsage": "真题考点：\n- 常与 'drought'（干旱）、'plague'（瘟疫）等并列出现，作为灾难类话题背景\n- 固定搭配：'famine relief'（饥荒救济）、'famine-stricken'（遭受饥荒的）\n- 例句：'The region has been plagued by famine and civil war for decades.'（该地区数十年来饱受饥荒和内战的困扰。）"
+      }
+    },
+    {
+      "id": "famous",
+      "word": "famous",
+      "phonetic": "/'feiməs/",
+      "meaning": "a.著名的",
+      "similar": [
+        "campus",
+        "fabulous"
+      ],
+      "question": {
+        "wordId": "famous",
+        "stem": "选择 \"famous\" 的正确中文意思：",
+        "correct": "a.著名的",
+        "options": [
+          "n.电,电流;电学",
+          "a.著名的",
+          "n.(大学)校园",
+          "a.极好的；极为巨大的；寓言中的，传说中的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语fama（名声），由fam-（说）+ -ous（形容词后缀，充满...的）构成，核心动作是“被众人所说”，即“名声在外的”。",
+        "similarWarning": "famous vs campus: campus是“校园”，源自拉丁语“田野”，与名声无关。famous vs fabulous: fabulous是“极好的；神话般的”，源自fabula（故事），强调“像传说一样”，而famous强调“被广泛知晓”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fan",
+      "word": "fan",
+      "phonetic": "/fæn/",
+      "meaning": "n.扇子,风扇;(影,球等)迷 v.扇,扇动,激起",
+      "similar": [
+        "ban",
+        "fax",
+        "fun",
+        "pan",
+        "tan",
+        "van",
+        "faint",
+        "fancy"
+      ],
+      "question": {
+        "wordId": "fan",
+        "stem": "选择 \"fan\" 的正确中文意思：",
+        "correct": "n.扇子,风扇;(影,球等)迷 v.扇,扇动,激起",
+        "options": [
+          "n.玩笑,娱乐;有趣的人(或事物)",
+          "n.扇子,风扇;(影,球等)迷 v.扇,扇动,激起",
+          "v.取缔,查禁;(from)禁止 n.禁止,禁令",
+          "n./v.传真(机)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语vannus（扬谷扇），本义为“扇动谷壳的工具”。核心物理动作是“通过扇动制造气流”，引申为“煽动、激起”。名词“迷”是fanatic（狂热者）的缩写，与扇子动作无关，属同形异源词。",
+        "similarWarning": "ban（禁止）: b/f首字母不同，词义对立；can（能/罐）: c/f首字母不同；far（远）: r/n尾字母不同；fat（胖）: t/n尾字母不同；fax（传真）: x/n尾字母不同；fun（乐趣）: u/a元音不同；man（男人）: m/f首字母不同；pan（平底锅）: p/f首字母不同。",
+        "extendedMeaning": "v. 煽动（情绪/冲突）: 如fan the flames（火上浇油），常用于外刊描述激化矛盾。n. 狂热爱好者（考研常考抽象义）: 如fan base（粉丝群体），注意与supporter（支持者）的细微区别（fan更强调非理性狂热）。",
+        "examUsage": "考研真题中常考动词义“激起”搭配：fan public outrage（激起公愤）；名词“迷”可作复合词前缀：fanatical（狂热的）为高频形近干扰词。注意区分fan作为“扇子”与“迷”的词源差异（后者来自fanatic），阅读中可能设置同形异义题眼。"
+      }
+    },
+    {
+      "id": "fancy",
+      "word": "fancy",
+      "phonetic": "/'fænsi/",
+      "meaning": "n.爱好,迷恋 v.想象,幻想 a.花式的,奇特的",
+      "similar": [
+        "fan",
+        "candy",
+        "fairy",
+        "fence",
+        "funny",
+        "handy"
+      ],
+      "question": {
+        "wordId": "fancy",
+        "stem": "选择 \"fancy\" 的正确中文意思：",
+        "correct": "n.爱好,迷恋 v.想象,幻想 a.花式的,奇特的",
+        "options": [
+          "n.爱好,迷恋 v.想象,幻想 a.花式的,奇特的",
+          "n.扇子,风扇;(影,球等)迷 v.扇,扇动,激起",
+          "n.糖果",
+          "a.幻想中的;虚构的;优雅的 n.仙女;精灵"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'phantasia'（幻想、想象），经由拉丁语和古法语演变。核心动作是'想象、幻想'，由此引申出'对某事物的迷恋或喜爱'（因想象而偏好），以及'花哨、奇特'（因想象而超出常规）。词根'phan-'（显现、出现）与'fantasy'同源，强调心理上呈现的画面。",
+        "similarWarning": "fancy vs. fantasy: fancy侧重短暂、轻度的喜好或想象；fantasy指更宏大、脱离现实的幻想。fancy vs. fan: fan是fancy的缩写（狂热爱好者），但fancy作动词时更正式。",
+        "extendedMeaning": "考研中常考'fancy'作为动词的'认为、猜想'（非字面'想象'），如'I fancy that...'（我认为…），以及形容词的'昂贵的、奢华的'（如fancy restaurant）。",
+        "examUsage": "固定搭配'fancy oneself (as)...'（自以为是…）是真题高频考点，如'He fancies himself as a leader.'。另注意'fancy doing sth.'（喜欢做某事）在阅读中表态度。"
+      }
+    },
+    {
+      "id": "fantastic",
+      "word": "fantastic",
+      "phonetic": "/fæn'tæstɪk/",
+      "meaning": "a.(fantastical)奇异的,幻想的,异想天开的",
+      "similar": [
+        "fantasy",
+        "artistic",
+        "sarcastic"
+      ],
+      "question": {
+        "wordId": "fantastic",
+        "stem": "选择 \"fantastic\" 的正确中文意思：",
+        "correct": "a.(fantastical)奇异的,幻想的,异想天开的",
+        "options": [
+          "n.幻想，空想；空想的产物，幻想作品",
+          "a.(fantastical)奇异的,幻想的,异想天开的",
+          "a.讽刺的",
+          "a.艺术(家)的，美术(家)的；善于艺术创作的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自希腊语\"phantastikos\"（能创造幻象的），词根\"phant-\"（显现，幻象）与后缀\"-astic\"（形容词后缀，具有...性质的）组合。核心动作：使虚幻的东西显现出来 → 超出常规的想象 → 奇异的、幻想的。\",\n  \"similarWarning\": \"fantasy（幻想，名词，词根相同但词性不同）；artistic（艺术的，词尾-istic与-astic混淆，但artistic强调艺术技巧）；sarcastic（讽刺的，词尾-astic相同，但词根sarc-指“切肉”，引申为“尖刻的”）。\",\n  \"extendedMeaning\": \"",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fantasy",
+      "word": "fantasy",
+      "phonetic": "/'fæntəsi/",
+      "meaning": "n.幻想，空想；空想的产物，幻想作品",
+      "similar": [
+        "fantastic"
+      ],
+      "question": {
+        "wordId": "fantasy",
+        "stem": "选择 \"fantasy\" 的正确中文意思：",
+        "correct": "n.幻想，空想；空想的产物，幻想作品",
+        "options": [
+          "a.同时的,同时存在的",
+          "v.沉思,考虑",
+          "a.(fantastical)奇异的,幻想的,异想天开的",
+          "n.幻想，空想；空想的产物，幻想作品"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语phantasia（使显现），词根phan-（显现，可见）。核心动作是“脑海中显现出画面”，即不基于现实的想象活动。",
+        "similarWarning": "fantastic（adj.极好的）: fantasy是名词，fantastic是形容词；fantasy强调“虚幻构想”，fantastic则多用于称赞“极好、惊人”。",
+        "extendedMeaning": "在考研阅读中，fantasy可引申为“虚构作品/幻想题材”（如fantasy novel），而非仅指心理活动。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fare",
+      "word": "fare",
+      "phonetic": "/fεə/",
+      "meaning": "n.车费,船费;伙食;乘客 v.过活;进展;经营",
+      "similar": [
+        "flare",
+        "bare",
+        "care",
+        "dare",
+        "fade",
+        "fake",
+        "fame",
+        "farm"
+      ],
+      "question": {
+        "wordId": "fare",
+        "stem": "选择 \"fare\" 的正确中文意思：",
+        "correct": "n.车费,船费;伙食;乘客 v.过活;进展;经营",
+        "options": [
+          "n.小心;关怀,照料 v.(about)关心,介意,计较",
+          "v./n.闪耀,闪烁",
+          "a.赤裸的,空的;稀少的,仅有的 v.露出,暴露",
+          "n.车费,船费;伙食;乘客 v.过活;进展;经营"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根源自古英语 faran（旅行、行进），核心物理动作为“移动、行进”。引申为“旅行所需费用”（车费、船费）及“旅行中的食物”（伙食）；动词义“过活、进展”源于“在人生旅途中行进的状态”。",
+        "similarWarning": "flare（v./n.闪耀，闪光）：与 fare 差字母 'l'，flare 核心是火焰或光线突然爆发，而 fare 是行进/费用。",
+        "extendedMeaning": "名词“伙食”（尤指交通工具上提供的餐食）；动词“进展”（常用于 it fares well/badly with sb. 结构）。",
+        "examUsage": "考点搭配：fare well/badly（进展顺利/糟糕）；bill of fare（菜单，外刊中偶见）。"
+      }
+    },
+    {
+      "id": "farewell",
+      "word": "farewell",
+      "phonetic": "/'fεə'wel/",
+      "meaning": "int.再会,别了 n.告别",
+      "similar": [],
+      "question": {
+        "wordId": "farewell",
+        "stem": "选择 \"farewell\" 的正确中文意思：",
+        "correct": "int.再会,别了 n.告别",
+        "options": [
+          "n.铅笔 vt.用铅笔写",
+          "v.(of)设想,构思,想象;以为;怀胎,怀有",
+          "a.殖民地的，关于殖民的 n.殖民地居民",
+          "int.再会,别了 n.告别"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源于古英语“far”（旅行）与“well”（好）的组合，字面意为“旅途顺利”。核心动作是“在分别时祝愿对方路途安好”，后引申为“告别”这一行为本身。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中常作为名词使用，表示“告别仪式”或“告别举动”，如“a farewell party”（告别晚会）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "farm",
+      "word": "farm",
+      "phonetic": "/fɑ:m/",
+      "meaning": "n.农场,饲养场 v.种田,经营农牧业",
+      "similar": [
+        "fare",
+        "firm",
+        "form",
+        "harm",
+        "farmer",
+        "alarm",
+        "charm",
+        "fairy"
+      ],
+      "question": {
+        "wordId": "farm",
+        "stem": "选择 \"farm\" 的正确中文意思：",
+        "correct": "n.农场,饲养场 v.种田,经营农牧业",
+        "options": [
+          "n.农场,饲养场 v.种田,经营农牧业",
+          "n.形状,形式;表格 v.组成,构成;形成",
+          "n.车费,船费;伙食;乘客 v.过活;进展;经营",
+          "a.坚固的;坚决的,坚定的 n.公司,商号"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古法语 ferme（固定、租约），与拉丁语 firmus（坚固的）同源。核心动作是“固定地租用土地”，后引申为“固定从事农业生产的场所”。词根 ferm- 表“固定”，与 farm（农场）直接相关。",
+        "similarWarning": "form /fɔːrm/（形式；形成）：字母 'o' 与 'a' 不同，侧重形状或结构；farm 侧重农业用地。firm /fɜːrm/（坚固的；公司）：字母 'i' 与 'a' 不同，侧重牢固或商业实体。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "farmer",
+      "word": "farmer",
+      "phonetic": "/'fɑ:mə/",
+      "meaning": "n.农民,农场主",
+      "similar": [
+        "former",
+        "farther",
+        "fame",
+        "fare",
+        "farm",
+        "barber",
+        "career",
+        "hammer"
+      ],
+      "question": {
+        "wordId": "farmer",
+        "stem": "选择 \"farmer\" 的正确中文意思：",
+        "correct": "n.农民,农场主",
+        "options": [
+          "n.名声;名望;传说 vt使出名;传扬…的名",
+          "ad.更远地,再往前地 a.更远的",
+          "n.农民,农场主",
+          "a.以前的,在前的 pron.前者"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自farm（农场）+ -er（从事...的人），字面即‘在农场工作的人’，指农民或农场主。",
+        "similarWarning": "former（前者的，前任的）与farmer仅差一个字母：former含‘orm’（顺序），farmer含‘arm’（农场）；farther（更远）与farmer字首相同但后缀不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "farther",
+      "word": "farther",
+      "phonetic": "/'fɑ:ðə/",
+      "meaning": "ad.更远地,再往前地 a.更远的",
+      "similar": [
+        "further",
+        "farmer",
+        "gather",
+        "feather",
+        "partner",
+        "northern"
+      ],
+      "question": {
+        "wordId": "farther",
+        "stem": "选择 \"farther\" 的正确中文意思：",
+        "correct": "ad.更远地,再往前地 a.更远的",
+        "options": [
+          "ad./a.更远,更往前;进一步 v.促进,增进",
+          "n.农民,农场主",
+          "v.聚集,聚拢;推测,推断",
+          "ad.更远地,再往前地 a.更远的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "farther 是 far 的比较级，-ther 为比较级后缀。核心物理动作：空间距离上的“更远”。",
+        "similarWarning": "father（父亲，a≠ar）；further（far 的另一比较级，表抽象程度“更进一步”，farther 侧重物理距离，further 侧重抽象程度）；farmer（农民，-er 表人）；gather（聚集，g≠f）；rather（相当，r≠f）；feather（羽毛，e≠a）；partner（伙伴，p≠f）；northern（北方的，n≠f）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fascinate",
+      "word": "fascinate",
+      "phonetic": "/'fæsineit/",
+      "meaning": "v.迷住,强烈吸引",
+      "similar": [
+        "fabricate",
+        "assassinate",
+        "fashionable",
+        "facilitate"
+      ],
+      "question": {
+        "wordId": "fascinate",
+        "stem": "选择 \"fascinate\" 的正确中文意思：",
+        "correct": "v.迷住,强烈吸引",
+        "options": [
+          "v.捏造,编造(谎言,借口等);建造,制造",
+          "vt.暗杀，行刺；中伤",
+          "v.迷住,强烈吸引",
+          "a.流行的,时髦的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"fascinare\"，意为\"施魔法、蛊惑\"，词根\"fascinum\"指\"符咒、妖术\"。核心动作是\"用魔力控制\"，引申为\"强烈吸引、迷住\"。\",\n  \"similarWarning\": \"fabricate（编造，虚构）：fabric-（构造）+ate，强调\"制造\"；assassinate（暗杀）：assassin（刺客）+ate，强调\"刺杀\"；fascinate（迷住）：fascin-（符咒）+ate，强调\"魔法般吸引\"。\",\n  \"extendedMeaning\": \"在考研阅读中常引申为\"使着迷、使入迷\"，强调一种强烈、难以抗拒的吸引力，如\"",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fashion",
+      "word": "fashion",
+      "phonetic": "/'fæʃn/",
+      "meaning": "n.流行式样(或货品),风尚,风气;样子,方式",
+      "similar": [
+        "cushion",
+        "passion",
+        "fraction"
+      ],
+      "question": {
+        "wordId": "fashion",
+        "stem": "选择 \"fashion\" 的正确中文意思：",
+        "correct": "n.流行式样(或货品),风尚,风气;样子,方式",
+        "options": [
+          "n.热情,激情,爱好;激怒;强烈感情",
+          "n.垫子,软垫 vt.装垫子;缓和,减轻;",
+          "n.流行式样(或货品),风尚,风气;样子,方式",
+          "n.碎片,小部分,一点儿;分数"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根‘fac-’（做，制造）的变体，原指‘制造、塑造’的动作，后引申为‘制作的方式或风格’，最终成为‘时尚、流行式样’的核心含义，强调人为塑造的、流行的模式或方式。",
+        "similarWarning": "cushion（垫子）：cush-（垫）+ -ion，拼写差异在‘ush’ vs ‘ash’；passion（热情）：pass-（承受）+ -ion，拼写差异在‘ss’ vs ‘sh’；fraction（分数）：fract-（打破）+ -ion，拼写差异在‘cr’ vs ‘sh’。",
+        "extendedMeaning": "在考研真题中，‘fashion’常引申为‘方式、方法’（in a... fashion），如‘in a systematic fashion’（以系统的方式），属于高频僻义。",
+        "examUsage": "考点搭配：‘after a fashion’（勉强地，马马虎虎），真题例句：‘He can play the piano after a fashion.’（他勉强会弹钢琴。）干扰项常混淆‘fashion’与‘manner’（方式）的语境差异。"
+      }
+    },
+    {
+      "id": "fashionable",
+      "word": "fashionable",
+      "phonetic": "/'fæʃənəbl/",
+      "meaning": "a.流行的,时髦的",
+      "similar": [
+        "fascinate",
+        "favorable",
+        "reasonable"
+      ],
+      "question": {
+        "wordId": "fashionable",
+        "stem": "选择 \"fashionable\" 的正确中文意思：",
+        "correct": "a.流行的,时髦的",
+        "options": [
+          "a.流行的,时髦的",
+          "a.合理的,有道理的;通情达理的;适度的",
+          "v.迷住,强烈吸引",
+          "a.(favourable)赞许的,有利的,讨人喜欢的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'factio'（做、制造），经由古法语 'facon'（样式）进入英语。'fashion' 本义是“制作的方式、样式”，加上形容词后缀 '-able'（能够...的），字面为“能够跟上样式的”，即符合当前流行做法的，引申为“流行的、时髦的”。",
+        "similarWarning": "fascinate（v. 迷住，强烈吸引）：字母组合 '-sc-' 与 '-sh-' 不同，词根 'fascin-' 表“魔力”，侧重吸引；favorable（a. 有利的，赞成的）：词根 'favor-' 表“喜爱、帮助”，侧重态度；reasonable（a. 合理的）：词根 'reason-' 表“理性”，侧重逻辑。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fasten",
+      "word": "fasten",
+      "phonetic": "/'fɑ:sən/",
+      "meaning": "v.扎牢,使固定",
+      "similar": [
+        "eastern",
+        "fate",
+        "haste",
+        "paste",
+        "taste",
+        "waste",
+        "easter",
+        "foster"
+      ],
+      "question": {
+        "wordId": "fasten",
+        "stem": "选择 \"fasten\" 的正确中文意思：",
+        "correct": "v.扎牢,使固定",
+        "options": [
+          "v.扎牢,使固定",
+          "a.东方的,东部的",
+          "n.匆忙,急速;草率 v.赶快;匆忙",
+          "n.命运"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为fast-（坚固、牢固），-en为动词后缀（使…）。核心动作：使物体变得坚固、牢固，即扎牢、固定。",
+        "similarWarning": "形近词对比：\n- fasten (v.扎牢)：核心是fast-（牢固）。\n- fast (adj./adv.快的/迅速地)：核心是fast-（快速）。\n- haste (n.匆忙)：核心是has-（急，与fast拼写差一个字母t）。\n- paste (n.糊状物；v.粘贴)：核心是past-（糊），与fasten差首字母p。\n- waste (v.浪费)：核心是was-（空），与fasten差首字母w。\n辨析：fasten强调“固定”，fast强调“速度”，haste强调“匆忙”，paste强调“粘贴”，waste强调“浪费”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fatal",
+      "word": "fatal",
+      "phonetic": "/'feitl/",
+      "meaning": "a.致命的,毁灭性的",
+      "similar": [
+        "data",
+        "fail",
+        "fate",
+        "canal",
+        "metal",
+        "naval",
+        "vital"
+      ],
+      "question": {
+        "wordId": "fatal",
+        "stem": "选择 \"fatal\" 的正确中文意思：",
+        "correct": "a.致命的,毁灭性的",
+        "options": [
+          "v.失败,不及格;衰退,减弱",
+          "n.(datum的复数)资料，数据",
+          "n.命运",
+          "a.致命的,毁灭性的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语fatum（命运），由fate（命运）+ -al（形容词后缀）构成。核心动作：命运所决定的→必然发生的→致命的。强调结果不可避免，与死亡或灾难直接相关。",
+        "similarWarning": "形近词辨析：fatal（致命的） vs. final（最终的）——字母差异：fatal中a表示“命运”，final中in表示“结束”。fatal强调结果致死，final强调阶段终结。",
+        "extendedMeaning": "在考研中可引申为“毁灭性的，灾难性的”，不限于生理死亡，如fatal flaw（致命缺陷）、fatal mistake（毁灭性错误）。",
+        "examUsage": "真题考点：fatal常与to搭配，如be fatal to（对……是致命的）；在阅读理解中作为态度题选项出现，表示负面评价。"
+      }
+    },
+    {
+      "id": "fate",
+      "word": "fate",
+      "phonetic": "/'feit/",
+      "meaning": "n.命运",
+      "similar": [
+        "date",
+        "fade",
+        "fake",
+        "fame",
+        "fare",
+        "gate",
+        "hate",
+        "mate"
+      ],
+      "question": {
+        "wordId": "fate",
+        "stem": "选择 \"fate\" 的正确中文意思：",
+        "correct": "n.命运",
+        "options": [
+          "v.褪色;衰减,消失n.淡入(出)n.乏味(平淡)的",
+          "n.日期,年代 v.注明…的日期 n./v.约会",
+          "n.假货，赝品 a.假的，冒充的 v.伪造；伪装",
+          "n.命运"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语fatum（神谕、命运），原指神所说的话，引申为不可改变的天命。词根fa-（说）→ 被说出的话 → 命中注定的事。",
+        "similarWarning": "fat（脂肪） vs fate（命运）：fat多一个字母t且意为肥胖；fate含e结尾表命运。\nfade（褪色） vs fate：fade含d表逐渐消失，fate含t表宿命。\nfake（伪造） vs fate：fake含k表假货，fate含t表天命。",
+        "extendedMeaning": "考研僻义：作动词时意为‘注定’，常见于被动结构be fated to do（注定要…），如‘He was fated to fail.’（他注定失败）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fatigue",
+      "word": "fatigue",
+      "phonetic": "/fə'ti:g/",
+      "meaning": "n./v.(使)疲劳",
+      "similar": [
+        "intrigue",
+        "latitude"
+      ],
+      "question": {
+        "wordId": "fatigue",
+        "stem": "选择 \"fatigue\" 的正确中文意思：",
+        "correct": "n./v.(使)疲劳",
+        "options": [
+          "n.假日,节日,假期,休假",
+          "n.纬度,行动或言论的自由(范围),(pl.)地区",
+          "n.阴谋v.密谋,私通;激起…的兴趣;诡计取得",
+          "n./v.(使)疲劳"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'fatigare'（使疲倦），词根'fat-'（打哈欠、疲倦）与'igare'（做、驱动）组合，本义为'过度驱动导致疲惫'，强调体力或脑力消耗后的状态。",
+        "similarWarning": "intrigue（n.阴谋；v.引起兴趣）vs fatigue：intrigue含'in-'（进入）+'trigue'（障碍），本义'设障'；fatigue强调'疲惫'。latitude（n.纬度；自由度）vs fatigue：latitude含'latus'（宽的），本义'宽度'；fatigue无此义。差异在词根'fat-'与'intrigue'的'trigue'、'latitude'的'lat'不同。",
+        "extendedMeaning": "金属材料的'疲劳'（如金属疲劳导致断裂）；心理上的'厌倦'（如对重复工作的疲劳感）。",
+        "examUsage": "常考搭配'fatigue from'（因...疲劳）；真题中作动词时，被动形式'be fatigued'（感到疲劳）是常见干扰项，与'exhausted'同义替换。"
+      }
+    },
+    {
+      "id": "fault",
+      "word": "fault",
+      "phonetic": "/fɔ:lt/",
+      "meaning": "n.过失,过错;缺点,毛病",
+      "similar": [
+        "faulty",
+        "faculty",
+        "aunt",
+        "fail",
+        "foul",
+        "halt",
+        "haul",
+        "salt"
+      ],
+      "question": {
+        "wordId": "fault",
+        "stem": "选择 \"fault\" 的正确中文意思：",
+        "correct": "n.过失,过错;缺点,毛病",
+        "options": [
+          "n.过失,过错;缺点,毛病",
+          "n.姨母，姑母，伯母，婶母，舅母，阿姨",
+          "n.才能;学院,系;(学院或系的)全体教学人员",
+          "a.有错误的，有缺点的，不完善的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语fallere（欺骗、使失败）。核心动作是“失败/缺失”：fault本义是“失败、缺失”，引申为“过错、缺点”。词根fall-（失败）与fault同源，fault是fall-的变体。",
+        "similarWarning": "faulty（有缺陷的） vs fault：faulty是形容词，fault是名词。faculty（才能、全体教员） vs fault：faculty含fac-（做），fault含fall-（失败）。",
+        "extendedMeaning": "【地质学】断层（Earth's crust fault）；【电子学】故障（system fault）。",
+        "examUsage": "at fault（有过错/有责任）：The driver was at fault for the accident. 真题常考其与in fault（错误用法）的区分。"
+      }
+    },
+    {
+      "id": "faulty",
+      "word": "faulty",
+      "phonetic": "/'fɔ:lti/",
+      "meaning": "a.有错误的，有缺点的，不完善的",
+      "similar": [
+        "faculty",
+        "fault",
+        "casualty",
+        "facility"
+      ],
+      "question": {
+        "wordId": "faulty",
+        "stem": "选择 \"faulty\" 的正确中文意思：",
+        "correct": "a.有错误的，有缺点的，不完善的",
+        "options": [
+          "n.伤亡人员；受害人；损失的东西；急诊室",
+          "n.过失,过错;缺点,毛病",
+          "n.才能;学院,系;(学院或系的)全体教学人员",
+          "a.有错误的，有缺点的，不完善的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "fault（错误，缺陷）+ -y（形容词后缀，表示“具有…性质的”）→ 具有缺陷的，有错误的。核心动作：事物存在根本性瑕疵或功能偏差。",
+        "similarWarning": "faculty（n. 才能；全体教员）：区别在字母 'c' 与 't'，faculty 指能力或机构；faulty 指有缺陷。fault（n. 错误；断层）：词根相同，但 fault 是名词，faulty 是形容词。casualty（n. 伤亡；事故）：字母 'c' 替换 'f'，且含 's'，指意外伤亡；faulty 强调状态缺陷。facility（n. 设施；便利）：字母 'c' 与 't' 差异，且 'l' 重复，指便利条件；faulty 否定性质。",
+        "extendedMeaning": "在考研真题中，faulty 可引申为“逻辑上不严密、有漏洞的”，如 faulty reasoning（有漏洞的推理），用于批判性分析。",
+        "examUsage": "真题考点：faulty 常与 equipment, reasoning, design 等搭配，作为干扰项出现，区分于 defective（更强调功能失效）和 flawed（更侧重内在瑕疵）。例句：The experiment failed due to faulty equipment.（因设备故障实验失败。）"
+      }
+    },
+    {
+      "id": "favor",
+      "word": "favor",
+      "phonetic": "/'feivə/",
+      "meaning": "n.(favour)好感;喜爱;关切v.赞成,支持,偏爱",
+      "similar": [
+        "flavor",
+        "factor",
+        "fair",
+        "fever",
+        "labor",
+        "mayor",
+        "razor"
+      ],
+      "question": {
+        "wordId": "favor",
+        "stem": "选择 \"favor\" 的正确中文意思：",
+        "correct": "n.(favour)好感;喜爱;关切v.赞成,支持,偏爱",
+        "options": [
+          "n.(favour)好感;喜爱;关切v.赞成,支持,偏爱",
+          "n.(flavour)情味;风味;滋味 v.给…调味",
+          "a.公平的,合理的;相当的 n.集市,交易会",
+          "n.因素,要素"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语‘favere’（支持、善待），核心物理动作是‘向某人倾斜/给好处’，引申为内心倾向或外在支持。",
+        "similarWarning": "flavor（味道）：favor vs flavor，多‘l’和‘-or’变‘-avor’；factor（因素）：favor vs factor，字母‘c’和‘t’替换。",
+        "extendedMeaning": "在考研中常考‘偏爱’（如show favor to sb）或‘赞同’（如in favor of），无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "favorable",
+      "word": "favorable",
+      "phonetic": "/'feivərəbl/",
+      "meaning": "a.(favourable)赞许的,有利的,讨人喜欢的",
+      "similar": [
+        "favorite",
+        "honorable",
+        "fashionable",
+        "reasonable"
+      ],
+      "question": {
+        "wordId": "favorable",
+        "stem": "选择 \"favorable\" 的正确中文意思：",
+        "correct": "a.(favourable)赞许的,有利的,讨人喜欢的",
+        "options": [
+          "n.(favourite)最喜欢的人或物 a.喜爱的",
+          "a.流行的,时髦的",
+          "a.(favourable)赞许的,有利的,讨人喜欢的",
+          "a.(honourable)可敬的;荣誉的,光荣的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根favor（喜爱、支持）+ able（能...的）→ 能够获得喜爱或支持的 → 赞许的、有利的。核心动作：表示某事物“被看好”或“处于优势”。",
+        "similarWarning": "favorite（最喜爱的，-ite表最高级） vs favorable（有利的，-able表能力/倾向）。拼写差异：favor+ite vs favor+able。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "favorite",
+      "word": "favorite",
+      "phonetic": "/'feivərit/",
+      "meaning": "n.(favourite)最喜欢的人或物 a.喜爱的",
+      "similar": [
+        "favorable",
+        "calorie",
+        "majority"
+      ],
+      "question": {
+        "wordId": "favorite",
+        "stem": "选择 \"favorite\" 的正确中文意思：",
+        "correct": "n.(favourite)最喜欢的人或物 a.喜爱的",
+        "options": [
+          "a.(favourable)赞许的,有利的,讨人喜欢的",
+          "n.多数,大多数,成年,法定年龄",
+          "n.卡路里(食物所产生的热量或能量单位)",
+          "n.(favourite)最喜欢的人或物 a.喜爱的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"来自拉丁语\"favor\"（好感、支持）+ 后缀\"-ite\"（表示\"属于…的\"），核心动作是\"被给予好感的\"，即最受偏爱的对象或事物。\",\n  \"similarWarning\": \"favorite（最爱的）vs favorable（有利的，赞同的）：favorite强调主观偏爱（如\"my favorite book\"），favorable强调客观条件或态度有利（如\"favorable weather\"）。\",\n  \"extendedMeaning\": \"\",\n  \"examUsage\": \"\"\n}",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fax",
+      "word": "fax",
+      "phonetic": "/fæks/",
+      "meaning": "n./v.传真(机)",
+      "similar": [
+        "fan",
+        "fix",
+        "fox",
+        "tax",
+        "wax"
+      ],
+      "question": {
+        "wordId": "fax",
+        "stem": "选择 \"fax\" 的正确中文意思：",
+        "correct": "n./v.传真(机)",
+        "options": [
+          "n.狐狸",
+          "v.(使)固定;修理;安装;决定;注视 n.困境",
+          "n.扇子,风扇;(影,球等)迷 v.扇,扇动,激起",
+          "n./v.传真(机)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "fax是facsimile（传真）的缩写，fac-（做，制作） + simile（相似），核心动作是“制作相似副本”，即通过电子传输复制文档。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fear",
+      "word": "fear",
+      "phonetic": "/fiə/",
+      "meaning": "n.害怕，恐惧；危险vt.畏惧，害怕，担心",
+      "similar": [
+        "ear",
+        "bear",
+        "feat",
+        "gear",
+        "pear",
+        "rear",
+        "tear",
+        "beard"
+      ],
+      "question": {
+        "wordId": "fear",
+        "stem": "选择 \"fear\" 的正确中文意思：",
+        "correct": "n.害怕，恐惧；危险vt.畏惧，害怕，担心",
+        "options": [
+          "n.功绩，伟业，技艺",
+          "n.熊 v.忍受,容忍;负担;结果实,生子女",
+          "n.耳，耳朵；听力，听觉；穗",
+          "n.害怕，恐惧；危险vt.畏惧，害怕，担心"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自中古英语'feer'，与古英语'fǣr'（突发危险、惊吓）同源，核心动作是‘因突发威胁而产生的生理性畏缩反应’，强调对即时危险的恐惧本能。",
+        "similarWarning": "ear（耳朵）：fear多一个f，指‘因恐惧而听觉敏感’；far（远的）：fear含e，指‘对远处威胁的害怕’；bear（熊/忍受）：b替换f，指‘面对熊的恐惧’或‘忍受恐惧’；dear（亲爱的）：d替换f，指‘因珍视而害怕失去’。",
+        "extendedMeaning": "在考研阅读中常引申为‘担心（某事发生）’或‘敬畏（对权威/自然）’，如‘fear for one's safety’（担心安全）及‘fear of God’（对上帝的敬畏），非单纯恐惧。",
+        "examUsage": "真题中常作动词+that从句表‘担心……’，如‘I fear that...’；或与of连用‘for fear of’（以免/生怕）作逻辑连接词，干扰项常混淆‘fear’与‘afraid’的搭配差异。"
+      }
+    },
+    {
+      "id": "fearful",
+      "word": "fearful",
+      "phonetic": "/'fiəful/",
+      "meaning": "a.可怕的，吓人的；害怕，担心，惊恐",
+      "similar": [
+        "peaceful"
+      ],
+      "question": {
+        "wordId": "fearful",
+        "stem": "选择 \"fearful\" 的正确中文意思：",
+        "correct": "a.可怕的，吓人的；害怕，担心，惊恐",
+        "options": [
+          "a.性质上的,定性的",
+          "a.和平的,平静的,安宁的,爱好和平的",
+          "a.可怕的，吓人的；害怕，担心，惊恐",
+          "n.总经理,董事,行政负责人 a.执行的,实施的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "fear（恐惧）+ -ful（充满...的）→ 充满恐惧的，即可怕的、害怕的。核心动作：被恐惧充满的状态。",
+        "similarWarning": "peaceful（和平的）与fearful（害怕的）词缀相同，但词根fear（恐惧）与peace（和平）语义相反，注意区分。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "feasible",
+      "word": "feasible",
+      "phonetic": "/'fi:zəbl/",
+      "meaning": "a.可行的;切实可行的;行得通的;可用的",
+      "similar": [
+        "sensible",
+        "plausible",
+        "edible",
+        "feeble",
+        "fertile",
+        "fragile",
+        "seaside",
+        "visible"
+      ],
+      "question": {
+        "wordId": "feasible",
+        "stem": "选择 \"feasible\" 的正确中文意思：",
+        "correct": "a.可行的;切实可行的;行得通的;可用的",
+        "options": [
+          "a.可食用的",
+          "a.似是而非的,似乎合理的,似乎可信的",
+          "a.明智的,达理的;可觉察的,明显的",
+          "a.可行的;切实可行的;行得通的;可用的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语facere（做），通过faci-（做）→feas-（变形）+-ible（能…的）。核心动作：能够被做出来的。",
+        "similarWarning": "形近词辨析：\n- feasible（feas-做+-ible可）：可行的。\n- sensible（sens-感觉+-ible）：明智的，可察觉的。\n- plausible（plaus-鼓掌+-ible）：看似可信的（常含贬义）。\n- edible（ed-吃+-ible）：可食用的。\n- feeble（feb-哭+-le）：虚弱的（词源不同）。\n- fertile（fert-带来+-ile）：肥沃的。\n- fragile（frag-打破+-ile）：易碎的。\n- seaside（sea海+side边）：海边（纯复合词）。\n- visible（vis-看+-ible）：可见的。",
+        "extendedMeaning": "在考研阅读中常引申为“（方案、计划等）有现实可操作性的”，强调不仅理论上成立，而且实践中可执行。如：a feasible solution（切实可行的解决方案）。",
+        "examUsage": "真题考点：常与practical、workable同义替换，与theoretical相对。干扰项常出现plausible（看似合理但未必可行）。例句：The plan is economically feasible.（该计划在经济上是可行的。）"
+      }
+    },
+    {
+      "id": "feast",
+      "word": "feast",
+      "phonetic": "/fi:st/",
+      "meaning": "n.节日;宴会",
+      "similar": [
+        "east",
+        "feat",
+        "beast",
+        "breast",
+        "beat",
+        "best",
+        "cast",
+        "ease"
+      ],
+      "question": {
+        "wordId": "feast",
+        "stem": "选择 \"feast\" 的正确中文意思：",
+        "correct": "n.节日;宴会",
+        "options": [
+          "n.功绩，伟业，技艺",
+          "n.东,东方,东部 a.东方的,东部的",
+          "n.兽,牲畜;凶残的人,举止粗鲁的人",
+          "n.节日;宴会"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'festa'（节日、宴会），与 'festival' 同源。核心动作是“庆祝、盛宴”，强调欢庆场合的盛大饮食活动。",
+        "similarWarning": "feast vs. feat（功绩）：feast 多一字母 's'，意为宴会；feat 指非凡成就。feast vs. beast（野兽）：feast 开头 'f'，beast 开头 'b'，野兽常与盛宴无关。",
+        "extendedMeaning": "在考研阅读中，feast 可引申为“享受、饱览”，如 'a feast for the eyes'（视觉盛宴），或比喻“丰富的供应”，如 'a feast of information'。",
+        "examUsage": "feast on 意为“尽情享用”，常见于真题；'feast one's eyes on' 是高分短语，表示“大饱眼福”。"
+      }
+    }
+  ]
+}

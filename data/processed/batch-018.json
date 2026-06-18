@@ -1,0 +1,1810 @@
+{
+  "batchId": 18,
+  "words": [
+    {
+      "id": "console",
+      "word": "console",
+      "phonetic": "/kən'səul /",
+      "meaning": "n.控制台，仪表板；落地柜 vt.安慰，慰问",
+      "similar": [
+        "consult",
+        "consume",
+        "consider"
+      ],
+      "question": {
+        "wordId": "console",
+        "stem": "选择 \"console\" 的正确中文意思：",
+        "correct": "n.控制台，仪表板；落地柜 vt.安慰，慰问",
+        "options": [
+          "n.控制台，仪表板；落地柜 vt.安慰，慰问",
+          "v.请教，向...咨询，找...商量；查阅，查看",
+          "vt.消耗；吃完，喝光；(with)使着迷；烧毁",
+          "v.考虑，想；体谅，顾及；认为，把…看作"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ sole（独自、孤独）→“共同孤独”→陪伴孤独的人→安慰、慰问。名词义源自法语，指“与主体一同支撑的支架”→控制台、落地柜。",
+        "similarWarning": "consult（咨询）：con-（一起）+ sult（坐）→坐在一起商量。consume（消费）：con-（完全）+ sume（拿）→完全拿走。consider（考虑）：con-（一起）+ sider（星星）→观察星象思考。对比：console结尾是-sole（孤独），consult是-sult（坐），consume是-sume（拿），consider是-sider（星）。",
+        "extendedMeaning": "vt. 安慰、慰问（常用于情感支持语境，如console a grieving friend，非物理上的抚慰）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "consolidate",
+      "word": "consolidate",
+      "phonetic": "/kən'sɔlideit/",
+      "meaning": "v.使加固，使加强；(把...)联为一体，合并",
+      "similar": [
+        "candidate",
+        "complicate",
+        "constitute",
+        "considerate",
+        "contaminate"
+      ],
+      "question": {
+        "wordId": "consolidate",
+        "stem": "选择 \"consolidate\" 的正确中文意思：",
+        "correct": "v.使加固，使加强；(把...)联为一体，合并",
+        "options": [
+          "vt.组成，构成，形成；设立，建立，任命",
+          "n.候选人,候补者;报考者",
+          "v.使加固，使加强；(把...)联为一体，合并",
+          "v.使..复杂；使..难懂；使（疾病等）恶化；"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根 con-（共同，一起）+ solid（坚固的）+ -ate（动词后缀）。核心动作是“使共同坚固”，即把分散的东西整合到一起，使其更稳固。",
+        "similarWarning": "形近词辨析：\n- consolidate vs. candidate（候选人，词根 cand- 白色）：注意 solid 与 cand 的拼写差异。\n- consolidate vs. complicate（使复杂，词根 plic- 折叠）：solid 强调坚固，plic 强调折叠。\n- consolidate vs. constitute（构成，词根 stitut- 建立）：solid 与 stitut 不同。\n- consolidate vs. considerate（体贴的，词根 sider- 星星）：注意 der 与 lid 的区分。\n- consolidate vs. contaminate（污染，词根 tamin- 接触）：solid 与 tamin 无关联。",
+        "extendedMeaning": "考研僻义：在金融/商业语境中常指“合并（公司、债务等）”，如 consolidate debt（合并债务）；在政治语境中指“巩固（权力、地位）”。",
+        "examUsage": "真题考点：常与 strengthen, merge 同义替换，搭配 consolidate one's position（巩固地位）或 consolidate into（合并成）。干扰项常出现 complicate（使复杂）或 considerate（体贴的），注意词义区别。"
+      }
+    },
+    {
+      "id": "conspicuous",
+      "word": "conspicuous",
+      "phonetic": "/kən'spikjuəs/",
+      "meaning": "a.显眼的,明显的",
+      "similar": [
+        "conscious",
+        "continuous",
+        "suspicious",
+        "conscientious"
+      ],
+      "question": {
+        "wordId": "conspicuous",
+        "stem": "选择 \"conspicuous\" 的正确中文意思：",
+        "correct": "a.显眼的,明显的",
+        "options": [
+          "a.(of)意识到的,自觉的;神志清醒的",
+          "a.显眼的,明显的",
+          "a.连续的,持续的",
+          "a.(of)可疑的,多疑的,疑心的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "con-（共同，一起）+ spic（看，来自拉丁语specere“看”）+ -uous（形容词后缀，表示“具有…性质的”）。核心物理动作是“大家都来看”，即某物因其突出或显眼而吸引众人目光，引申为“显眼的，明显的”。",
+        "similarWarning": "conscious（有意识的）：con-（共同）+ sci（知道）+ -ous，强调“有知觉的”。continuous（连续的）：con-（共同）+ tin（保持）+ -uous，强调“不间断的”。suspicious（怀疑的）：sus-（在下面）+ spic（看）+ -ious，强调“偷偷看，怀疑”。conscientious（认真的）：con-（共同）+ sci（知道）+ -entious，强调“凭良心做事的”。",
+        "extendedMeaning": "在考研语境中，conspicuous常引申为“引人注目的，突出的”，用于描述行为、特征或差异，如“conspicuous consumption”（炫耀性消费）——指通过挥霍财富来显示社会地位。",
+        "examUsage": "高频考点：conspicuous与apparent, obvious, evident的区别：conspicuous强调因与众不同而引人注意；apparent侧重于表面可见；obvious指不言而喻；evident有证据支持。真题例句：The trend is particularly conspicuous in the service sector.（这一趋势在服务业尤为明显。）"
+      }
+    },
+    {
+      "id": "conspiracy",
+      "word": "conspiracy",
+      "phonetic": "/kən'spirəsi/",
+      "meaning": "n.阴谋，密谋，共谋",
+      "similar": [
+        "contract",
+        "contrary",
+        "constrain",
+        "construct",
+        "conscience"
+      ],
+      "question": {
+        "wordId": "conspiracy",
+        "stem": "选择 \"conspiracy\" 的正确中文意思：",
+        "correct": "n.阴谋，密谋，共谋",
+        "options": [
+          "n.(承包)合同/契约 v.订合同/契约；使缩小",
+          "n.阴谋，密谋，共谋",
+          "a.(to)相反的,矛盾的 n.反对,矛盾;相反",
+          "vt.限制，约束；克制，抑制"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ spir-（呼吸）+ -acy（名词后缀）→ 共同呼吸 → 引申为“密谋”，即一群人私下通气、共同策划秘密行动。",
+        "similarWarning": "contract（合同）：con-（共同）+ tract（拉）→ 拉到一起 → 合同；conspiracy（阴谋）：con-（共同）+ spir（呼吸）+ acy → 共同呼吸 → 密谋。对比：tract（拉）vs spir（呼吸），词根本义不同。",
+        "extendedMeaning": "在考研阅读中常指“非法或秘密的联合行动”，如政治阴谋或商业共谋，并非仅指“密谋”这一动作本身。",
+        "examUsage": "真题考点：charge sb. with conspiracy（指控某人共谋罪）；conspiracy theory（阴谋论，外刊高频短语）。"
+      }
+    },
+    {
+      "id": "constant",
+      "word": "constant",
+      "phonetic": "/'kɔnstənt/",
+      "meaning": "a.固定的，持续的,忠实的 n.常数,恒量",
+      "similar": [
+        "consultant",
+        "consent",
+        "contact",
+        "content",
+        "instant",
+        "consistent",
+        "constrain",
+        "construct"
+      ],
+      "question": {
+        "wordId": "constant",
+        "stem": "选择 \"constant\" 的正确中文意思：",
+        "correct": "a.固定的，持续的,忠实的 n.常数,恒量",
+        "options": [
+          "v./n.(to)同意,赞成,答应",
+          "v./n.(使)接触,联系,交往",
+          "a.固定的，持续的,忠实的 n.常数,恒量",
+          "n.会诊医师,顾问医生;顾问"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "con-（一起）+ st（站立，源自拉丁语stare） + -ant（形容词后缀）→ 始终站在一起的 → 不变的、持续的。核心动作：始终站在同一位置，强调静止或稳定。",
+        "similarWarning": "constant vs. consistent: constant强调时间上“持续不变”；consistent强调逻辑或行为上“一致、连贯”。易混淆：consultant（顾问）中的-sult-（坐）与-st-（站）不同。",
+        "extendedMeaning": "考研僻义：在数学或科技语境中作名词“常数、恒量”，如“Planck's constant（普朗克常数）”。",
+        "examUsage": "真题考点：常用搭配“constant rate（恒定速率）”、“constant pressure（恒压）”，在阅读中常作为干扰项，与“continuous（连续不断的）”区分，后者强调无间断，而constant强调性质稳定。"
+      }
+    },
+    {
+      "id": "constituent",
+      "word": "constituent",
+      "phonetic": "/kən'stɪtjuənt/",
+      "meaning": "n.选民；成分，组分a.组成的，构成的",
+      "similar": [
+        "continent",
+        "consistent",
+        "constitute",
+        "constitution",
+        "confident",
+        "construct",
+        "consultant"
+      ],
+      "question": {
+        "wordId": "constituent",
+        "stem": "选择 \"constituent\" 的正确中文意思：",
+        "correct": "n.选民；成分，组分a.组成的，构成的",
+        "options": [
+          "a.(in)前后一致的；（with）一致，符合",
+          "vt.组成，构成，形成；设立，建立，任命",
+          "n.大陆,洲",
+          "n.选民；成分，组分a.组成的，构成的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ stit（站立）+ -ent（名词/形容词后缀）→共同站立在一起的东西→构成整体的部分。核心动作：多个元素共同站立形成一个整体。",
+        "similarWarning": "形近词辨析：\n- continent（大陆）：con- + tin（保持）+ -ent→连在一起保持的土地→大陆。\n- consistent（一致的）：con- + sist（站立）+ -ent→共同站立→一致。\n- constitute（构成）：con- + stitute（建立）→共同建立→构成。\n- constitution（宪法）：constitute + -ion→构成的方式→宪法。\n- confident（自信的）：con- + fid（信任）+ -ent→完全信任自己→自信。\n- construct（建造）：con- + struct（建造）→共同建造→建造。\n- consultant（顾问）：consult（咨询）+ -ant→提供咨询的人→顾问。\n核心差异：constituent 强调“组成部分”或“选民”，与 constitute（构成）同源，但词性不同。",
+        "extendedMeaning": "考研僻义：在政治或法律语境中，constituent 可指“选民”或“选区居民”，如：constituent service（选民服务）。在化学或语言学中，指“成分”或���构成要素”，如：chemical constituent（化学成分）。",
+        "examUsage": "真题考点：常考搭配“constituent parts”（组成部分）或“constituent assembly”（制宪会议）。例句：The constituent elements of the compound are carefully analyzed.（该化合物的构成成分被仔细分析。）"
+      }
+    },
+    {
+      "id": "constitute",
+      "word": "constitute",
+      "phonetic": "/'kɔnstitju:t/",
+      "meaning": "vt.组成，构成，形成；设立，建立，任命",
+      "similar": [
+        "institute",
+        "constitution",
+        "constituent",
+        "continue",
+        "contribute",
+        "substitute",
+        "consolidate",
+        "constant"
+      ],
+      "question": {
+        "wordId": "constitute",
+        "stem": "选择 \"constitute\" 的正确中文意思：",
+        "correct": "vt.组成，构成，形成；设立，建立，任命",
+        "options": [
+          "n.选民；成分，组分a.组成的，构成的",
+          "n.构成,构造,组成(方式),成分;体格;宪法",
+          "n.学会,研究所;学院 v.设立,设置,制定",
+          "vt.组成，构成，形成；设立，建立，任命"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-（一起）+ stitute（词根，站立，放置）。核心物理动作是“把多个东西放在一起使站立”，即“组成、构成”。引申为“设立、建立”（使机构/制度站立起来）和“任命”（使某人站在某个职位上）。",
+        "similarWarning": "institute（in-在…上+stitute站立→设立，学会）；constitution（constitute的名词，宪法/构成）；constituent（constitute的形容词/名词，组成的/选民）；continue（con-一起+tin-保持+ue→持续）；contribute（con-一起+tribute给予→贡献）；substitute（sub-下+stitute站立→替代）；consolidate（con-一起+solid坚固+ate→巩固）；constant（con-一起+stant站立→不变的）。注意constitute与institute拼写差异：constitute中con-后直接接stitute，而institute是in-+stitute，词义侧重“设立”时的主体不同：constitute强调构成整体，institute强调创立制度。",
+        "extendedMeaning": "在考研阅读中，constitute常引申为“被视为”或“相当于”，如“This constitutes a violation of the law.”（这构成违法。），强调一种法律或逻辑上的等同关系，而非物理组成。",
+        "examUsage": "真题中常考constitute的固定搭配：constitute...as...（任命...为...），如“He was constituted as the chairman.” 此外，在阅读理解中，constitute与make up, account for, form等同义替换，需注意其正式语体色彩。"
+      }
+    },
+    {
+      "id": "constitution",
+      "word": "constitution",
+      "phonetic": "/ˌkɒnstɪ'tju:ʃn/",
+      "meaning": "n.构成,构造,组成(方式),成分;体格;宪法",
+      "similar": [
+        "institution",
+        "constitute",
+        "construction",
+        "contribution",
+        "conviction",
+        "constituent",
+        "consumption",
+        "conservation"
+      ],
+      "question": {
+        "wordId": "constitution",
+        "stem": "选择 \"constitution\" 的正确中文意思：",
+        "correct": "n.构成,构造,组成(方式),成分;体格;宪法",
+        "options": [
+          "n.构成,构造,组成(方式),成分;体格;宪法",
+          "n.公共机构;协会;学校;研究所;制度;惯例",
+          "n.建造，构造；建筑物，结构；释义，解释",
+          "vt.组成，构成，形成；设立，建立，任命"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+stitut（建立，站立）+ -ion（名词后缀）→ 共同建立起来的东西 → 构成；宪法（国家的基本构成）",
+        "similarWarning": "institution（机构，制度；in- + stitut + -ion，强调在内部建立）；constitute（构成，组成；动词形式）；construction（建设，建筑；struct- 建造，与 stitut- 不同）",
+        "extendedMeaning": "【考研僻义】体格，体质（指身体的结构和机能状态，如：a strong constitution 强壮的体格）",
+        "examUsage": "【真题考点】常考“宪法”义，如：the Constitution of the United States（美国宪法）；也考“构成”义，如：the chemical constitution of the substance（该物质的化学构成）"
+      }
+    },
+    {
+      "id": "constrain",
+      "word": "constrain",
+      "phonetic": "/kən'strein/",
+      "meaning": "vt.限制，约束；克制，抑制",
+      "similar": [
+        "contain",
+        "constant",
+        "contract",
+        "contrary",
+        "contrast",
+        "restrain",
+        "construct",
+        "concerning"
+      ],
+      "question": {
+        "wordId": "constrain",
+        "stem": "选择 \"constrain\" 的正确中文意思：",
+        "correct": "vt.限制，约束；克制，抑制",
+        "options": [
+          "n.(承包)合同/契约 v.订合同/契约；使缩小",
+          "a.固定的，持续的,忠实的 n.常数,恒量",
+          "v.包含，容纳；容忍，抑制；可被...除尽",
+          "vt.限制，约束；克制，抑制"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ strain（拉紧）→ 共同拉紧 → 限制、约束。核心动作：将某物或某人向中心拉紧，使其无法自由活动或扩张。",
+        "similarWarning": "restrain（re-回 + strain拉）→ 拉回，强调阻止已发生的行为；constrain（con-共 + strain拉）→ 从外部施加压力限制，侧重客观条件束缚。",
+        "extendedMeaning": "考研中常引申为“强迫、迫使”（尤指因外部条件或规则），如：be constrained to do sth.（被迫做某事）。",
+        "examUsage": "真题考点：constrain sb. from doing sth.（限制某人做某事），常与restrain、refrain混淆。如：The government's policy constrains companies from raising prices.（政府政策限制公司涨价。）"
+      }
+    },
+    {
+      "id": "construct",
+      "word": "construct",
+      "phonetic": "/kən'strʌkt/",
+      "meaning": "v.建设,建造,构造;创立",
+      "similar": [
+        "contract",
+        "instruct",
+        "obstruct",
+        "conduct",
+        "consult",
+        "contact",
+        "constant",
+        "contrast"
+      ],
+      "question": {
+        "wordId": "construct",
+        "stem": "选择 \"construct\" 的正确中文意思：",
+        "correct": "v.建设,建造,构造;创立",
+        "options": [
+          "v.建设,建造,构造;创立",
+          "n.(承包)合同/契约 v.订合同/契约；使缩小",
+          "v.阻隔,阻塞(道路、通道等)n.阻碍物,障碍物",
+          "v.教,教授;命令,指示"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "con-（共同） + struct（建造） → 共同建造 → 建设，构造。核心物理动作：把材料堆叠组合成结构。",
+        "similarWarning": "construct vs contract（共同+拉→收缩/合同）：字母对比：struct（建造） vs tract（拉）。construct vs instruct（内部+建造→指导）：字母对比：con（共同） vs in（向内）。construct vs obstruct（反+建造→阻碍）：字母对比：con（共同） vs ob（反对）。construct vs conduct（共同+引导→行为/指挥）：字母对比：struct（建造） vs duct（引导）。",
+        "extendedMeaning": "在考研阅读中常引申为‘创立（理论、体系）’或‘构思（想法）’，如construct a theory（构建理论）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "construction",
+      "word": "construction",
+      "phonetic": "/kən'strʌkʃən/",
+      "meaning": "n.建造，构造；建筑物，结构；释义，解释",
+      "similar": [
+        "instruction",
+        "obstruction",
+        "destruction",
+        "conservation",
+        "constitution",
+        "contradiction",
+        "connection",
+        "conviction"
+      ],
+      "question": {
+        "wordId": "construction",
+        "stem": "选择 \"construction\" 的正确中文意思：",
+        "correct": "n.建造，构造；建筑物，结构；释义，解释",
+        "options": [
+          "n.教授;指导;(pl.)用法说明(书),操作指南",
+          "n.建造，构造；建筑物，结构；释义，解释",
+          "n.毁坏，毁灭(的原因)",
+          "n.妨碍,障碍物"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ struct（建造）+ -ion（名词后缀）→ 共同建造的过程或结果 → 建造，构造",
+        "similarWarning": "1. instruction（in-向内 + struct + -ion → 指导）2. obstruction（ob-反对 + struct + -ion → 阻碍）3. destruction（de-向下/否定 + struct + -ion → 毁灭）4. constitution（con-共同 + stitut-（放置） + -ion → 宪法；构成）",
+        "extendedMeaning": "【考研僻义】n. 释义，解释（尤指对法律、文本等的理解或建构）",
+        "examUsage": "【真题考点】under construction 正在建设中；social construction 社会建构（社会学/文化类阅读高频概念）"
+      }
+    },
+    {
+      "id": "consult",
+      "word": "consult",
+      "phonetic": "/kɔn'sʌlt/",
+      "meaning": "v.请教，向...咨询，找...商量；查阅，查看",
+      "similar": [
+        "insult",
+        "conduct",
+        "consent",
+        "consist",
+        "console",
+        "consume",
+        "construct",
+        "conquest"
+      ],
+      "question": {
+        "wordId": "consult",
+        "stem": "选择 \"consult\" 的正确中文意思：",
+        "correct": "v.请教，向...咨询，找...商量；查阅，查看",
+        "options": [
+          "v./n.(to)同意,赞成,答应",
+          "n.行为,品行 v.引导;管理;指挥(乐队);传导",
+          "vt./n.侮辱,凌辱",
+          "v.请教，向...咨询，找...商量；查阅，查看"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-（一起）+sult（坐，来自拉丁语sedere“坐”的变体）→坐在一起商议→请教、咨询。核心动作：双方共同坐下讨论问题。",
+        "similarWarning": "insult（in-进入+sult跳→跳进去侮辱）；consult（con-一起+sult坐→坐在一起商量）。区别：-sult-在insult中是“跳”，在consult中是“坐”。",
+        "extendedMeaning": "查阅，查看（如consult a dictionary/website，强调主动检索信息，而非仅指请教人）",
+        "examUsage": "consult with sb about sth（与某人商量某事）；consultant（顾问，考研常考名词衍生）"
+      }
+    },
+    {
+      "id": "consultant",
+      "word": "consultant",
+      "phonetic": "/kən'sʌltənt/",
+      "meaning": "n.会诊医师,顾问医生;顾问",
+      "similar": [
+        "constant",
+        "resultant",
+        "consistent",
+        "constituent"
+      ],
+      "question": {
+        "wordId": "consultant",
+        "stem": "选择 \"consultant\" 的正确中文意思：",
+        "correct": "n.会诊医师,顾问医生;顾问",
+        "options": [
+          "a.(in)前后一致的；（with）一致，符合",
+          "a.作为结果而发生的;合成的",
+          "a.固定的，持续的,忠实的 n.常数,恒量",
+          "n.会诊医师,顾问医生;顾问"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 consultare（商议、请教），由 con-（一起）+ sulere（召集、商议）构成，原指“被召集来提供建议的人”。核心动作是“共同商议”，引申为“专业顾问”或“会诊医师”。",
+        "similarWarning": "constant（不变的）: con- + st-（站立）→“始终站立不变”；consultant（顾问）: con- + sul-（商议）→“一起商议的人”。resultant（结果的）: re-（回）+ sult-（跳）→“跳回的结果”；consultant（顾问）: 词根 sult- 同源但强调“商议”。consistent（一致的）: con- + sist-（站立）→“站在一起”；consultant（顾问）: 词根不同。",
+        "extendedMeaning": "在商业语境中常指“独立顾问/咨询师”，如 management consultant（管理顾问），强调外部专业建议角色。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "consume",
+      "word": "consume",
+      "phonetic": "/kən'sju:m/",
+      "meaning": "vt.消耗；吃完，喝光；(with)使着迷；烧毁",
+      "similar": [
+        "confuse",
+        "console",
+        "consult",
+        "costume",
+        "conclude",
+        "consider"
+      ],
+      "question": {
+        "wordId": "consume",
+        "stem": "选择 \"consume\" 的正确中文意思：",
+        "correct": "vt.消耗；吃完，喝光；(with)使着迷；烧毁",
+        "options": [
+          "v.请教，向...咨询，找...商量；查阅，查看",
+          "vt.消耗；吃完，喝光；(with)使着迷；烧毁",
+          "v.使混乱,混淆",
+          "n.控制台，仪表板；落地柜 vt.安慰，慰问"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "con-（共同/完全）+ sum-（拿取，消费）+ -e（动词后缀）→ 完全拿取、耗尽 → 消耗，引申为吃完喝光、烧毁；使着迷（完全占据心神）。",
+        "similarWarning": "confuse（con-共同+fuse流→混淆）；console（con-共同+sole安慰→安慰）；consult（con-一起+sult坐→咨询）；costume（cost-花费+ume→服装）；conclude（con-共同+clude关闭→结束）；consider（con-共同+sider星→考虑）。",
+        "extendedMeaning": "使着迷（be consumed with/by：被…占据心神，如He was consumed with jealousy.）",
+        "examUsage": "consume time/energy（消耗时间/精力）；consumer society（消费社会）；be consumed by fire（被大火烧毁）。"
+      }
+    },
+    {
+      "id": "consumption",
+      "word": "consumption",
+      "phonetic": "/kən'sʌmpʃən/",
+      "meaning": "n.消费(量),消耗",
+      "similar": [
+        "assumption",
+        "conjunction",
+        "conservation",
+        "constitution",
+        "construction",
+        "condition",
+        "confusion",
+        "connection"
+      ],
+      "question": {
+        "wordId": "consumption",
+        "stem": "选择 \"consumption\" 的正确中文意思：",
+        "correct": "n.消费(量),消耗",
+        "options": [
+          "n.消费(量),消耗",
+          "n.假定，设想；采取；承担；推测；假装",
+          "n.保存,保护,保守;守恒,不灭",
+          "n.接合，连接，联合；连(接)词"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 con-（共同）+ sumpt（拿取，消费）+ -ion（名词后缀）。核心物理动作：共同拿取、消耗掉。源自拉丁语 consumere（消费，耗尽），强调资源的逐渐减少或使用殆尽。",
+        "similarWarning": "assumption (n. 假设) vs consumption (n. 消费)：assumption 来自 ad-（向）+ sumpt（拿取），强调“拿来作为前提”；consumption 强调“共同消耗”。conjunction (n. 连接) 来自 con-（共同）+ junct（连接），与 sumpt 无关。",
+        "extendedMeaning": "在经济学语境中，指消费总量或消费行为，如 'consumption tax'（消费税）；在医学或资源语境中，指消耗性疾病或资源耗竭，如 'water consumption'（水消耗）。",
+        "examUsage": "常与 'production'（生产）对举，构成 'production and consumption'（生产与消费）这一高频短语。真题中常作为经济类阅读的题干关键词，如 'the increase in consumption'，需注意其不可数名词属性，以及搭配 'energy consumption'（能源消耗）。"
+      }
+    },
+    {
+      "id": "contact",
+      "word": "contact",
+      "phonetic": "/'kɒntækt/",
+      "meaning": "v./n.(使)接触,联系,交往",
+      "similar": [
+        "contract",
+        "constant",
+        "contrast",
+        "intact",
+        "compact",
+        "conduct",
+        "connect",
+        "contain"
+      ],
+      "question": {
+        "wordId": "contact",
+        "stem": "选择 \"contact\" 的正确中文意思：",
+        "correct": "v./n.(使)接触,联系,交往",
+        "options": [
+          "a.固定的，持续的,忠实的 n.常数,恒量",
+          "n.(承包)合同/契约 v.订合同/契约；使缩小",
+          "n.对比，对照 vi.形成对比 vt.把…与…对比",
+          "v./n.(使)接触,联系,交往"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 con-（一起）+ tact（触摸）→ 触摸到一起 → 接触、联系。核心物理动作为“触碰”。",
+        "similarWarning": "contract（合同，收缩）：con-（共同）+ tract（拉）→ 拉在一起 → 合同/收缩。contrast（对比）：contra-（对立）+ st（站立）→ 对立而立 → 对比。intact（完整的）：in-（不）+ tact（触摸）→ 未被触摸 → 完整。compact（紧凑的，合同）：com-（共同）+ pact（约定/系紧）→ 紧密连接。",
+        "extendedMeaning": "【考研僻义】n. 联络人，社会关系（尤指能提供帮助的人脉）：I have a contact in the publishing industry. 【熟词僻义】v. 使（电路）接通：The switch contacts the battery. 【高频外刊用法】make contact with 与…取得联系（但“make contact”作为短语在考研中常考其“建立联系”的抽象义）。",
+        "examUsage": "【真题考点】固定搭配：come into contact with 接触到（真题中常考其引申义“接触到某种观点/文化”）。注意与 connect（连接）区分：contact 侧重“接触”的动作或状态，connect 侧重“连接”后的关系。"
+      }
+    },
+    {
+      "id": "contain",
+      "word": "contain",
+      "phonetic": "/kən'tein/",
+      "meaning": "v.包含，容纳；容忍，抑制；可被...除尽",
+      "similar": [
+        "constrain",
+        "container",
+        "fountain",
+        "obtain",
+        "captain",
+        "certain",
+        "contact",
+        "curtain"
+      ],
+      "question": {
+        "wordId": "contain",
+        "stem": "选择 \"contain\" 的正确中文意思：",
+        "correct": "v.包含，容纳；容忍，抑制；可被...除尽",
+        "options": [
+          "n.容器;集装箱",
+          "vt.限制，约束；克制，抑制",
+          "v.包含，容纳；容忍，抑制；可被...除尽",
+          "n.泉水,喷泉,源泉"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "con-共同 + -tain-握持 → 共同握持在一起 → 包含、容纳。核心动作：把东西握在一起不散开。",
+        "similarWarning": "constrain v.强迫（con-共同 + strain拉紧 → 拉到一起 → 强迫）；contain强调“容纳”，constrain强调“限制”。",
+        "extendedMeaning": "容忍、抑制（真题例句：He could hardly contain his anger. 他几乎无法抑制自己的愤怒。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "container",
+      "word": "container",
+      "phonetic": "/kən'teinə/",
+      "meaning": "n.容器;集装箱",
+      "similar": [
+        "contain",
+        "cocaine",
+        "confine",
+        "consider",
+        "continue",
+        "contrive",
+        "continent",
+        "contaminate"
+      ],
+      "question": {
+        "wordId": "container",
+        "stem": "选择 \"container\" 的正确中文意思：",
+        "correct": "n.容器;集装箱",
+        "options": [
+          "n.容器;集装箱",
+          "v.包含，容纳；容忍，抑制；可被...除尽",
+          "n.可卡因，古柯碱（用作局部麻醉剂）",
+          "vt.限制；使不外出，禁闭n.[pl.]界限，范围"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语“con-”（共同）+“tenere”（持有），核心动作是“共同持有”。后缀“-er”表示“物”。字面意为“能共同持有的东西”，引申为“容器”或“集装箱”。",
+        "similarWarning": "contain（v.包含）vs. container（n.容器）: contain是动词，container是名词。cocaine（n.可卡因）: 拼写差异“coc-” vs. “con-”，词义无关。confine（v.限制）: 词根“fin-”（边界），与“tain-”（持有）不同。",
+        "extendedMeaning": "在物流、航运领域，特指“集装箱”，如shipping container（航运集装箱）。在计算机科学中，指“容器技术”，如Docker container（Docker容器）。",
+        "examUsage": "真题中常以“container ship”（集装箱船）、“container port”（集装箱港口）等搭配出现，考查物流、贸易相关语境。"
+      }
+    },
+    {
+      "id": "contaminate",
+      "word": "contaminate",
+      "phonetic": "/kən'tæmɪneɪt/",
+      "meaning": "v.弄污,弄脏,毒害,传染,染污",
+      "similar": [
+        "contemplate",
+        "container",
+        "contribute",
+        "coordinate",
+        "coordinate",
+        "intimidate",
+        "consolidate"
+      ],
+      "question": {
+        "wordId": "contaminate",
+        "stem": "选择 \"contaminate\" 的正确中文意思：",
+        "correct": "v.弄污,弄脏,毒害,传染,染污",
+        "options": [
+          "v.弄污,弄脏,毒害,传染,染污",
+          "vt.盘算，计议；周密考虑；注视，凝视",
+          "v.(to)贡献,捐助,捐献;投稿",
+          "n.容器;集装箱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：con-（一起）+ tamin（接触）+ -ate（动词后缀）。核心动作：通过接触使不纯。源自拉丁语“contaminare”，原指“混合、玷污”，强调因外界物质介入导致原本纯净状态被破坏。",
+        "similarWarning": "contemplate（沉思，con- + templ- 寺庙/观察） vs contaminate（污染，con- + tamin- 接触）。区别在“templ-”与“tamin-”，前者表思考场景，后者表接触致污。",
+        "extendedMeaning": "考研僻义：在学术语境中可引申为“毒害（思想、环境）”，如“contaminate the data”（污染数据）或“contaminate public opinion”（毒害舆论）。",
+        "examUsage": "真题考点：常与介词“with”连用，如“contaminated with chemicals”（被化学品污染）。干扰项常涉及“contain”（包含）或“contemplate”（沉思），需注意动作方向（污染 vs 包含/思考）。"
+      }
+    },
+    {
+      "id": "contemplate",
+      "word": "contemplate",
+      "phonetic": "/'kɔntəmpleit/",
+      "meaning": "vt.盘算，计议；周密考虑；注视，凝视",
+      "similar": [
+        "contaminate",
+        "contemporary",
+        "correlate",
+        "commemorate",
+        "concentrate"
+      ],
+      "question": {
+        "wordId": "contemplate",
+        "stem": "选择 \"contemplate\" 的正确中文意思：",
+        "correct": "vt.盘算，计议；周密考虑；注视，凝视",
+        "options": [
+          "n.相关联的事物 v.(with,to)(使)互相关联",
+          "a.现代的,当代的;同时代的",
+          "v.弄污,弄脏,毒害,传染,染污",
+          "vt.盘算，计议；周密考虑；注视，凝视"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ templ-（观察、神庙）+ -ate（动词后缀）。核心动作：在神庙中共同观察天象或神意，引申为‘凝视、深思熟虑’。词源本义是‘专注地看’，进而衍生出‘盘算、周密考虑’的含义。",
+        "similarWarning": "contaminate（污染：con-共同 + tamin-接触 + -ate，强调‘接触污染’）vs contemplate（凝视：templ-观察）。区别在于词根：-tamin- vs -templ-，前者是‘接触’导致污染，后者是‘观察’导致思考。",
+        "extendedMeaning": "考研僻义：在真题中常考‘凝视、注视’（非字面‘看’），尤其用于表示‘沉思地看’或‘凝视未来/可能性’，如‘contemplate the future’（展望未来）。",
+        "examUsage": "真题考点：固定搭配‘contemplate doing sth.’（打算做某事），是阅读中表示‘计划、意图’的高频题眼，常与‘consider’、‘plan’同义替换。注意区分‘contemplate’（深思熟虑后的打算）与‘intend’（意图）。"
+      }
+    },
+    {
+      "id": "contemporary",
+      "word": "contemporary",
+      "phonetic": "/kən'tempərəri/",
+      "meaning": "a.现代的,当代的;同时代的",
+      "similar": [
+        "contemplate"
+      ],
+      "question": {
+        "wordId": "contemporary",
+        "stem": "选择 \"contemporary\" 的正确中文意思：",
+        "correct": "a.现代的,当代的;同时代的",
+        "options": [
+          "n.节奏,韵律",
+          "n.烟雾",
+          "vt.盘算，计议；周密考虑；注视，凝视",
+          "a.现代的,当代的;同时代的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-(共同)+tempor(时间)+-ary(形容词后缀)→同一时间存在的→同时代的；现代的。核心动作：共享同一时间维度。",
+        "similarWarning": "contemplate: con-(加强)+templ(观察)+-ate(动词后缀)→凝视，沉思。差异在词根tempor(时间) vs templ(观察)，词义从时间共存变为专注思考。",
+        "extendedMeaning": "考研中常考其名词形式contemporary(同代人，同龄人)，如“a contemporary of Shakespeare”(莎士比亚的同时代人)。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "contempt",
+      "word": "contempt",
+      "phonetic": "/kən'tempt/",
+      "meaning": "n.轻视，藐视；受辱，丢脸",
+      "similar": [
+        "concept",
+        "content",
+        "contest",
+        "context",
+        "attempt",
+        "concert",
+        "condemn",
+        "connect"
+      ],
+      "question": {
+        "wordId": "contempt",
+        "stem": "选择 \"contempt\" 的正确中文意思：",
+        "correct": "n.轻视，藐视；受辱，丢脸",
+        "options": [
+          "n.竞争,竞赛,比赛 v.竞争,比赛,争论",
+          "n.容量,内容,(pl.)目录 a.(with)满足的",
+          "n.概念，观念，设想",
+          "n.轻视，藐视；受辱，丢脸"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根: con- (共同) + tempt (鄙视，原意为“拍打、轻蔑”)。核心动作：共同表现出轻蔑态度，即“轻视、藐视”。",
+        "similarWarning": "形近词对比：\n- concept (概念)：concept (共同+拿取，即“概念”)\n- content (内容；满足)：content (共同+持有，即“内容”；或“共同+伸展”表满足)\n- contest (竞赛)：contest (共同+测试，即“竞赛”)\n- context (上下文)：context (共同+编织，即“上下文”)\n- attempt (尝试)：attempt (向+测试，即“尝试”)\n- concert (音乐会)：concert (共同+努力，即“音乐会”)\n- condemn (谴责)：condemn (完全+诅咒，即“谴责”)\n- connect (连接)：connect (共同+连接，即“连接”)\n区别：contempt 核心在“轻蔑”，其余词无此义。",
+        "extendedMeaning": "考研僻义：n.受辱，丢脸（指处于被轻视的状态或处境）。例：He was held in contempt by his peers. (他被同僚轻视，感到丢脸。)",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "contend",
+      "word": "contend",
+      "phonetic": "/kən'tend/",
+      "meaning": "v.竞争,斗争;坚决主张",
+      "similar": [
+        "content",
+        "intend",
+        "commend",
+        "consent",
+        "contest",
+        "context",
+        "continent",
+        "condense"
+      ],
+      "question": {
+        "wordId": "contend",
+        "stem": "选择 \"contend\" 的正确中文意思：",
+        "correct": "v.竞争,斗争;坚决主张",
+        "options": [
+          "v.称赞，表扬：委托保管；推荐",
+          "v.竞争,斗争;坚决主张",
+          "vt.想要,打算,企图",
+          "n.容量,内容,(pl.)目录 a.(with)满足的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ tend（伸展、伸出）。本义为“共同伸向某物”，引申为“竞争、斗争”；后衍生出“坚决主张”之意，即“伸张自己的观点”。",
+        "similarWarning": "content（内容；满足的；竞争） vs contend（竞争；主张）：content 含“tent”（帐篷/容纳），强调“容纳的内容”；contend 含“tend”（伸展），强调“伸向目标”。intend（打算）含“in-（向内）+ tend”，强调“内心伸展目标”；contend 强调“与他人共同伸展”。contest（竞赛）含“test（测试）”，强调“测试胜负”；contend 强调“伸展争夺”。",
+        "extendedMeaning": "在考研阅读中，contend 常表“坚决主张、声称”，用于学术论证（如“Some scholars contend that...”），而非单纯“竞争”。",
+        "examUsage": "真题考点：contend with（与…斗争/应对）；固定搭配“contend that...”引导观点从句。例句：The study contends that economic growth alone cannot solve poverty.（2016年阅读）"
+      }
+    },
+    {
+      "id": "content",
+      "word": "content",
+      "phonetic": "/'kɔntent/",
+      "meaning": "n.容量,内容,(pl.)目录 a.(with)满足的",
+      "similar": [
+        "consent",
+        "contend",
+        "contest",
+        "context",
+        "continent",
+        "constant",
+        "contempt",
+        "comment"
+      ],
+      "question": {
+        "wordId": "content",
+        "stem": "选择 \"content\" 的正确中文意思：",
+        "correct": "n.容量,内容,(pl.)目录 a.(with)满足的",
+        "options": [
+          "v.竞争,斗争;坚决主张",
+          "v./n.(to)同意,赞成,答应",
+          "n.容量,内容,(pl.)目录 a.(with)满足的",
+          "n.竞争,竞赛,比赛 v.竞争,比赛,争论"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“contentus”，由“con-”（一起）和“tenere”（持有）组成，核心动作是“把东西都装在一起”，引申为容器所容纳的“内容”；形容词义来自“被容纳后感到满足”，即“心满意足的”。",
+        "similarWarning": "形近词对比：content vs. consent（同意，sent-感觉）、contend（竞争，tend-伸展）、contest（比赛，test-证明）、context（上下文，text-编织）、continent（大陆，tin-持有）、constant（持续的，stant-站立）、contempt（轻视，tempt-尝试）、comment（评论，ment-思考）。注意content与consent仅差字母“t”与“s”，前者指内容/满足，后者指同意。",
+        "extendedMeaning": "n. 含量（如“water content”水分含量）；adj. 甘愿的（如“content to do”满足于做某事，在考研阅读中常表被动接受现状）。",
+        "examUsage": "真题考点：be content with（对…满足），常作为态度题关键词，如“He is content with his current salary.”；content作名词时，注意与“context”（上下文）在阅读中的区分，如“the content of the passage”指文章内容。"
+      }
+    },
+    {
+      "id": "contest",
+      "word": "contest",
+      "phonetic": "/'kɔntest/",
+      "meaning": "n.竞争,竞赛,比赛 v.竞争,比赛,争论",
+      "similar": [
+        "content",
+        "context",
+        "conquest",
+        "contempt",
+        "contrast",
+        "honest",
+        "concept",
+        "concert"
+      ],
+      "question": {
+        "wordId": "contest",
+        "stem": "选择 \"contest\" 的正确中文意思：",
+        "correct": "n.竞争,竞赛,比赛 v.竞争,比赛,争论",
+        "options": [
+          "n.（文章等）前后关系；(事件等的)背景",
+          "n.征服，征服地，掠取物",
+          "n.容量,内容,(pl.)目录 a.(with)满足的",
+          "n.竞争,竞赛,比赛 v.竞争,比赛,争论"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-（一起）+ test（测试，证明）→ 一起测试以决高下 → 竞争、比赛；引申为“争论”即双方用证据/论点测试对方。",
+        "similarWarning": "content（内容/满足的） vs contest：con+tent（持有）→ 容纳的内容；con+test（测试）→ 竞争。context（上下文） vs contest：con+text（编织）→ 文本编织在一起；con+test（测试）→ 一起测试。contrast（对比） vs contest：contra（相对）+ st（站立）→ 相对而立；con+test（测试）→ 一起测试。",
+        "extendedMeaning": "考研中常考动词义“争论，质疑”，如 contest a claim（质疑一项主张），强调对权威或结论的公开辩驳。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "context",
+      "word": "context",
+      "phonetic": "/'kɔntekst/",
+      "meaning": "n.（文章等）前后关系；(事件等的)背景",
+      "similar": [
+        "content",
+        "contest",
+        "contempt",
+        "concept",
+        "concert",
+        "connect",
+        "consent",
+        "contact"
+      ],
+      "question": {
+        "wordId": "context",
+        "stem": "选择 \"context\" 的正确中文意思：",
+        "correct": "n.（文章等）前后关系；(事件等的)背景",
+        "options": [
+          "n.竞争,竞赛,比赛 v.竞争,比赛,争论",
+          "n.轻视，藐视；受辱，丢脸",
+          "n.（文章等）前后关系；(事件等的)背景",
+          "n.容量,内容,(pl.)目录 a.(with)满足的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源于拉丁语“con-”（一起）+“texere”（编织），字面意思是“编织在一起”。核心物理动作是把各种元素（如文字、事件）交织成一个连贯的整体，从而形成“上下文”或“背景”。",
+        "similarWarning": "content (内容，满足的), contest (比赛，竞争), contempt (轻视), concept (概念), concert (音乐会，一致), connect (连接), consent (同意), contact (接触)。关键差异：context强调“共同编织”的关联性；contact是“接触”；content是“内容”；contest是“竞争”；contempt是“轻视”。",
+        "extendedMeaning": "在考研真题中，常引申为“环境、背景、来龙去脉”，尤其指理解某句话、某个事件所必需的“整体情境”或“语境”。如“in the context of...”（在……背景下）。",
+        "examUsage": "常考固定搭配：in context（在上下文中；结合语境），out of context（脱离上下文；断章取义）。真题例句：“Words are often used out of context in advertising.”（单词在广告中常被断章取义。）"
+      }
+    },
+    {
+      "id": "continent",
+      "word": "continent",
+      "phonetic": "/'kɔntinənt/",
+      "meaning": "n.大陆,洲",
+      "similar": [
+        "content",
+        "confident",
+        "constituent",
+        "consistent",
+        "convenient",
+        "confine",
+        "connect",
+        "consent"
+      ],
+      "question": {
+        "wordId": "continent",
+        "stem": "选择 \"continent\" 的正确中文意思：",
+        "correct": "n.大陆,洲",
+        "options": [
+          "n.大陆,洲",
+          "n.容量,内容,(pl.)目录 a.(with)满足的",
+          "n.选民；成分，组分a.组成的，构成的",
+          "n.(of,in)确信的,自信的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：con-（共同）+ tin（保持，来自拉丁语tenere“持有”）+ -ent（名词后缀）。字面义为“共同保持的土地”，即连续不断、连成一片的陆地，区别于被海洋分隔的孤立区域，引申为“大陆、洲”。",
+        "similarWarning": "content（满足的；内容）：对比 -tin- 与 -tent-，词根均为“保持”，但 content 侧重“被保持的状态”（满足）或“容器所保持之物”（内容）。confident（自信的）：对比 -tin- 与 -fid-（信任），拼写差异在 t 与 f。constituent（成分）：对比 -tin- 与 -stitut-（建立），词根不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "continual",
+      "word": "continual",
+      "phonetic": "/kən'tinjuəl/",
+      "meaning": "a.不断的,连续的,频繁的",
+      "similar": [
+        "continue",
+        "continuous",
+        "continent",
+        "constitute",
+        "contribute"
+      ],
+      "question": {
+        "wordId": "continual",
+        "stem": "选择 \"continual\" 的正确中文意思：",
+        "correct": "a.不断的,连续的,频繁的",
+        "options": [
+          "n.大陆,洲",
+          "v.继续,连续,延伸",
+          "a.不断的,连续的,频繁的",
+          "a.连续的,持续的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根为拉丁语“continuus”（连续的），由“con-”（共同） + “tenere”（持有）构成，核心动作是“一直持有不中断”。后缀“-al”表形容词。强调时间上反复发生、中间可能有短暂间歇的连续（如“连续的降雨”），与“continuous”（无间断连续）形成对比。",
+        "similarWarning": "1. continue (v.继续) → 去掉-al，动词形式；2. continuous (a.连续不断的) → 拼写差异：-ual vs -uous，词义侧重无间断；3. continent (n.大陆) → 拼写差异：-ual vs -ent，词义完全不同；4. constitute (v.构成) → 拼写差异：-ual vs -ute，词根不同；5. contribute (v.贡献) → 拼写差异：-ual vs -ute，词根不同。",
+        "extendedMeaning": "在考研阅读中，常与“continuous”作对比考点，表示“频繁的、反复发生的”（如“continual criticism”频繁的批评），强调间歇性重复，而非绝对无休止。",
+        "examUsage": "真题中常见搭配：continual improvement（持续改进，管理类话题）、continual change（频繁变化，科技类话题）。干扰项常设置“continuous”混淆，需注意语境中的时间间断性。"
+      }
+    },
+    {
+      "id": "continue",
+      "word": "continue",
+      "phonetic": "/kən'tinju:/",
+      "meaning": "v.继续,连续,延伸",
+      "similar": [
+        "continual",
+        "confine",
+        "convince",
+        "constitute",
+        "continuous",
+        "contribute",
+        "container",
+        "continent"
+      ],
+      "question": {
+        "wordId": "continue",
+        "stem": "选择 \"continue\" 的正确中文意思：",
+        "correct": "v.继续,连续,延伸",
+        "options": [
+          "a.不断的,连续的,频繁的",
+          "v.继续,连续,延伸",
+          "vt.限制；使不外出，禁闭n.[pl.]界限，范围",
+          "v.(of)使信服,使确信"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 continuare（使连接），由 con-（一起）+ tenere（持有）构成。核心物理动作是“把东西握在一起”，引申为时间或空间上的不中断、持续进行。",
+        "similarWarning": "continual（连续的，频繁的，常指有间断的重复）、continuous（连续的，不间断的，强调无间隔）。对比：continue 是动词，后两者是形容词。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "continuous",
+      "word": "continuous",
+      "phonetic": "/kən'tinjuəs/",
+      "meaning": "a.连续的,持续的",
+      "similar": [
+        "conspicuous",
+        "continue",
+        "continual",
+        "spontaneous",
+        "cautious",
+        "conscious",
+        "consensus",
+        "continent"
+      ],
+      "question": {
+        "wordId": "continuous",
+        "stem": "选择 \"continuous\" 的正确中文意思：",
+        "correct": "a.连续的,持续的",
+        "options": [
+          "a.不断的,连续的,频繁的",
+          "a.显眼的,明显的",
+          "a.连续的,持续的",
+          "v.继续,连续,延伸"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ -tin-（持有）+ -uous（形容词后缀）→ 共同持有、不中断的 → 连续的、持续的。核心物理动作：时间或空间上无间断地连接。",
+        "similarWarning": "continuous vs. continual：continuous强调无间断的连续（如a continuous line）；continual强调频繁重复、有间隔的持续（如continual complaints）。",
+        "extendedMeaning": "在考研中，continuous常引申为“不间断的、持续的”，用于描述过程、序列或数据流，如continuous operation（连续操作）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "contract",
+      "word": "contract",
+      "phonetic": "/'kɔntrækt/",
+      "meaning": "n.(承包)合同/契约 v.订合同/契约；使缩小",
+      "similar": [
+        "contact",
+        "contrast",
+        "contradict",
+        "construct",
+        "contrary",
+        "constrain",
+        "intact",
+        "attract"
+      ],
+      "question": {
+        "wordId": "contract",
+        "stem": "选择 \"contract\" 的正确中文意思：",
+        "correct": "n.(承包)合同/契约 v.订合同/契约；使缩小",
+        "options": [
+          "v.反驳;同…矛盾,同…抵触",
+          "n.(承包)合同/契约 v.订合同/契约；使缩小",
+          "v./n.(使)接触,联系,交往",
+          "n.对比，对照 vi.形成对比 vt.把…与…对比"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根con-（共同）+tract（拉、拽）。核心动作是“拉到一起”：物与物拉到一起则“收缩”；人与人拉到一起则“订立合同/契约”。",
+        "similarWarning": "contact（con-共同+tact触→接触）；contrast（contra-相对+st站→对比）；contradict（dict说→反驳）；construct（struct建造→建设）；contrary（相反）；constrain（strain拉紧→约束）；intact（in-不+tact触→完整）；attract（at-向+tract拉→吸引）。",
+        "extendedMeaning": "考研常考“收缩/缩小”义，如经济收缩（contract economy）、肌肉收缩；还考“订立合同”后隐含的“承担义务”概念。",
+        "examUsage": "考点：contract in/out (of) 正式加入/退出；breach of contract 违约；contractual obligation 合同义务。真题例句：The economy is contracting by 2% annually."
+      }
+    },
+    {
+      "id": "contradict",
+      "word": "contradict",
+      "phonetic": "/ˌkɔntrə'dikt/",
+      "meaning": "v.反驳;同…矛盾,同…抵触",
+      "similar": [
+        "contract",
+        "contrast",
+        "conflict",
+        "contrary",
+        "contrive",
+        "portrait",
+        "constrain",
+        "construct"
+      ],
+      "question": {
+        "wordId": "contradict",
+        "stem": "选择 \"contradict\" 的正确中文意思：",
+        "correct": "v.反驳;同…矛盾,同…抵触",
+        "options": [
+          "n.战斗,斗争;抵触,冲突 v.(with)抵触,冲突",
+          "v.反驳;同…矛盾,同…抵触",
+          "n.(承包)合同/契约 v.订合同/契约；使缩小",
+          "n.对比，对照 vi.形成对比 vt.把…与…对比"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "contra-（反对）+ dict（说）→ 反着说 → 反驳；引申为事物之间相互抵触、矛盾。",
+        "similarWarning": "contrast（对比）：强调差异对照；contract（合同/收缩）：强调共同约束或缩小；conflict（冲突）：强调激烈对抗。",
+        "extendedMeaning": "在学术写作中可指‘与…相悖’（contradict the hypothesis）或‘自相矛盾’（contradict oneself）。",
+        "examUsage": "真题考点：contradict常与evidence/claim搭配，如‘The evidence contradicts the theory.’；干扰项常为contrast（对比）或conflict（冲突）。"
+      }
+    },
+    {
+      "id": "contradiction",
+      "word": "contradiction",
+      "phonetic": "/ˌkɔntrə'dikʃən/",
+      "meaning": "n.反驳，否认；矛盾，不一致",
+      "similar": [
+        "construction",
+        "contribution",
+        "introduction",
+        "congratulation",
+        "conjunction"
+      ],
+      "question": {
+        "wordId": "contradiction",
+        "stem": "选择 \"contradiction\" 的正确中文意思：",
+        "correct": "n.反驳，否认；矛盾，不一致",
+        "options": [
+          "n.建造，构造；建筑物，结构；释义，解释",
+          "n.贡献；捐款，捐献物；投稿",
+          "n.(to)介绍;传入,引进;导言,导论,绪论",
+          "n.反驳，否认；矛盾，不一致"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 contra-（相反） + dict-（说） + -ion（名词后缀）。字面意为“说相反的话”，即反驳或相互对立，引申为事物间的矛盾或不一致。",
+        "similarWarning": "contradiction vs. construction（建造）：contra- vs. con-（一起）；dict- vs. struct-（建造）。contribution（贡献）：contra- vs. con- + tribute（给予）。introduction（介绍）：intro-（向内） + duct-（引导）。congratulation（祝贺）：con- + gratul-（喜悦）。conjunction（连接）：con- + junct-（连接）。核心差异在于前缀 contra- 表“相反”，其他多为“共同/向内”等。",
+        "extendedMeaning": "在考研阅读中常指“逻辑矛盾”或“自相矛盾的说法/行为”，如 a contradiction in terms（用词矛盾）。",
+        "examUsage": "真题考点：短语 in contradiction to（与……矛盾）常作为题眼，用于判断作者态度或逻辑关系。例句：His actions are in direct contradiction to his stated principles.（他的行为与他宣称的原则直接矛盾。）"
+      }
+    },
+    {
+      "id": "contrary",
+      "word": "contrary",
+      "phonetic": "/'kɔntrəri/",
+      "meaning": "a.(to)相反的,矛盾的 n.反对,矛盾;相反",
+      "similar": [
+        "contract",
+        "contrast",
+        "constrain",
+        "rotary",
+        "central",
+        "century",
+        "contact",
+        "contain"
+      ],
+      "question": {
+        "wordId": "contrary",
+        "stem": "选择 \"contrary\" 的正确中文意思：",
+        "correct": "a.(to)相反的,矛盾的 n.反对,矛盾;相反",
+        "options": [
+          "n.(承包)合同/契约 v.订合同/契约；使缩小",
+          "a.(to)相反的,矛盾的 n.反对,矛盾;相反",
+          "n.对比，对照 vi.形成对比 vt.把…与…对比",
+          "vt.限制，约束；克制，抑制"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根contra-（相对，相反）+ -ary（形容词后缀），核心动作是“站在对立面”，表示方向、意见或性质上的相反。",
+        "similarWarning": "contrast：对比，强调差异比较；contract：合同/收缩，词根tract（拉）；contrary强调对立矛盾。",
+        "extendedMeaning": "on the contrary（恰恰相反）：用于转折，否定前文并引出对立观点。",
+        "examUsage": "真题考点：contrary to（与…相反）常作状语或表语，如“Contrary to popular belief...”是高分句型。"
+      }
+    },
+    {
+      "id": "contrast",
+      "word": "contrast",
+      "phonetic": "/kən'trɑ:st/",
+      "meaning": "n.对比，对照 vi.形成对比 vt.把…与…对比",
+      "similar": [
+        "contract",
+        "contact",
+        "contest",
+        "contrary",
+        "contradict",
+        "constrain",
+        "construct",
+        "central"
+      ],
+      "question": {
+        "wordId": "contrast",
+        "stem": "选择 \"contrast\" 的正确中文意思：",
+        "correct": "n.对比，对照 vi.形成对比 vt.把…与…对比",
+        "options": [
+          "n.竞争,竞赛,比赛 v.竞争,比赛,争论",
+          "v./n.(使)接触,联系,交往",
+          "n.(承包)合同/契约 v.订合同/契约；使缩小",
+          "n.对比，对照 vi.形成对比 vt.把…与…对比"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根: contra-（相对/对立）+ -st（源自 stare，站立）。核心动作：面对面站立 -> 相互对照以显示差异。",
+        "similarWarning": "contrast vs. contract（共同拉紧/合同）：对比字母a与t，前者强调对立站立，后者强调共同拉紧。contrast vs. contest（共同见证/竞赛）：前者侧重差异，后者侧重竞争。",
+        "extendedMeaning": "考研熟词僻义：v. 与…形成反差（不限于对比行为，强调视觉或抽象上的鲜明差异，如色彩、观点）。",
+        "examUsage": "真题考点：固定搭配 in contrast to/with（与…形成对比）；by contrast（相比之下）。常作为逻辑题眼，表示转折对比关系。"
+      }
+    },
+    {
+      "id": "contribute",
+      "word": "contribute",
+      "phonetic": "/kən'trɪbju:t/",
+      "meaning": "v.(to)贡献,捐助,捐献;投稿",
+      "similar": [
+        "contribution",
+        "continue",
+        "contrive",
+        "attribute",
+        "constitute",
+        "distribute",
+        "contaminate",
+        "concrete"
+      ],
+      "question": {
+        "wordId": "contribute",
+        "stem": "选择 \"contribute\" 的正确中文意思：",
+        "correct": "v.(to)贡献,捐助,捐献;投稿",
+        "options": [
+          "vt.谋划，策划；设法做到；设计，想出",
+          "n.贡献；捐款，捐献物；投稿",
+          "v.(to)贡献,捐助,捐献;投稿",
+          "v.继续,连续,延伸"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ tribute（给予）→ 共同给出 → 贡献、捐助。核心动作是“集合众人之力给予”，引申为“投稿”（把稿件给予出版社）或“促成”（把力量给予某结果）。",
+        "similarWarning": "attribute（at-加强 + tribute 给予 → 归因于；属性）vs. contribute（con-共同 → 贡献）。区分：a-开头表“归属”，con-开头表“共同付出”。",
+        "extendedMeaning": "在考研真题中常表“促成、是...的原因之一”，如：contribute to climate change（导致气候变化），非仅指“贡献”。",
+        "examUsage": "高频搭配：contribute to（促成；导致），常作因果逻辑题眼。真题例句：Lack of exercise contributes to obesity.（缺乏运动导致肥胖。）"
+      }
+    },
+    {
+      "id": "contribution",
+      "word": "contribution",
+      "phonetic": "/ˌkəntri'bju:ʃən/",
+      "meaning": "n.贡献；捐款，捐献物；投稿",
+      "similar": [
+        "contribute",
+        "constitution",
+        "contradiction",
+        "conviction",
+        "construction",
+        "congratulation"
+      ],
+      "question": {
+        "wordId": "contribution",
+        "stem": "选择 \"contribution\" 的正确中文意思：",
+        "correct": "n.贡献；捐款，捐献物；投稿",
+        "options": [
+          "n.反驳，否认；矛盾，不一致",
+          "n.构成,构造,组成(方式),成分;体格;宪法",
+          "v.(to)贡献,捐助,捐献;投稿",
+          "n.贡献；捐款，捐献物；投稿"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 con-（共同、一起）+ tribut-（给予、分配） + -ion（名词后缀）。核心动作是“大家一起给出”，原指将物资或力量汇集到一处，引申为个人对集体提供的帮助、资金或作品。",
+        "similarWarning": "contribute（v.贡献；投稿）— 去-ion变动词；constitution（n.宪法；构成）— 中间是stitut（建立）；contradiction（n.矛盾）— dict（说）表示“说反话”；conviction（n.定罪；坚信）— vict（征服）表“被说服”；construction（n.建造）— struct（建造）；congratulation（n.祝贺）— grat（高兴）表“分享喜悦”。核心区别在词根：tribut（给） vs stitut（立） vs dict（说） vs vict（征服） vs struct（建） vs grat（喜）。",
+        "extendedMeaning": "在考研阅读中常指“（学术或思想上的）贡献”，不限于金钱，如 contribution to science（对科学的贡献）；也指“投稿”行为，如 submit a contribution（投稿）。",
+        "examUsage": "高频搭配：make a contribution to（对……做出贡献）；真题常考其作“捐款”义，与 donation 同义替换，如 financial contribution（财务捐助）。注意区分 contribute to（导致；有助于）短语的被动用法。"
+      }
+    },
+    {
+      "id": "contrive",
+      "word": "contrive",
+      "phonetic": "/kən'traiv/",
+      "meaning": "vt.谋划，策划；设法做到；设计，想出",
+      "similar": [
+        "conceive",
+        "contribute",
+        "cognitive",
+        "container",
+        "centre",
+        "motive",
+        "strive",
+        "captive"
+      ],
+      "question": {
+        "wordId": "contrive",
+        "stem": "选择 \"contrive\" 的正确中文意思：",
+        "correct": "vt.谋划，策划；设法做到；设计，想出",
+        "options": [
+          "vt.谋划，策划；设法做到；设计，想出",
+          "v.(of)设想,构思,想象;以为;怀胎,怀有",
+          "v.(to)贡献,捐助,捐献;投稿",
+          "a.认知的，认识能力的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 con-（共同）+ -trive（来自拉丁语 tropus，意为“转折、手法”）。核心物理动作是“共同转折”，即通过技巧或手段将事物转向预期方向，引申为“谋划、策划”，强调巧妙的构思和设计，如 contrive a plan（谋划一个计划）。",
+        "similarWarning": "conceive（构思，想象，词根 ceive-“拿”）vs. contrive（谋划，强调巧妙设计，词根 trive-“转折”）。contribute（贡献，词根 tribute-“给予”）vs. contrive（谋划，无“给予”义）。strive（努力，奋斗，词根 strive-“争斗”）vs. contrive（谋划，强调设计而非努力）。",
+        "extendedMeaning": "在考研阅读中，contrive 常引申为“设法做到”，暗示克服困难或利用有限资源达成目的，如 contrive to escape（设法逃脱）。",
+        "examUsage": "真题中常考固定搭配 contrive to do sth.（设法做某事），如“He contrived to make ends meet.”（他设法使收支平衡。）注意与 manage to do 的区别：contrive 更强调巧妙或暗中操作。"
+      }
+    },
+    {
+      "id": "control",
+      "word": "control",
+      "phonetic": "/kən'trəul/",
+      "meaning": "n.(over)控制,支配 v.控制,支配",
+      "similar": [
+        "central",
+        "confront",
+        "contract",
+        "contrary",
+        "contrast",
+        "contrive"
+      ],
+      "question": {
+        "wordId": "control",
+        "stem": "选择 \"control\" 的正确中文意思：",
+        "correct": "n.(over)控制,支配 v.控制,支配",
+        "options": [
+          "v.使面临,使遭遇;面对(危险等)",
+          "n.(承包)合同/契约 v.订合同/契约；使缩小",
+          "a.中心的,中央的,中枢的;主要的",
+          "n.(over)控制,支配 v.控制,支配"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语contra-（相反）+rotulus（卷轴），字面义为“与卷轴对照”。古时核对账目时需将记录与原始卷轴对比以验证准确性，后引申为“检查、约束”，最终指向“控制、支配”的核心动作——通过对比标准来施加限制或管理。",
+        "similarWarning": "central（中心的） vs. control：central源于centr-（中心），强调位置；control强调约束。\nconfront（面对） vs. control：confront含front（前面），强调直面；control强调限制。\ncontrary（相反的） vs. control：contrary含contr-（相反），强调对立；control含-rol（卷轴），强调核对。\ncontract（合同/收缩） vs. control：contract含tract（拉），强调拉拢或收缩；control强调管理。",
+        "extendedMeaning": "考研僻义：在科技、经济类真题中常指“（对变量或过程的）调控机制”，如“control group”（对照组）、“remote control”（遥控，但更常考“控制权”的抽象用法）、“price control”（价格管制）。",
+        "examUsage": "真题考点：固定搭配“take control of”（掌控）、“under control”（处于控制之下）、“out of control”（失控），常在阅读中作为逻辑转折或结果标记词出现。例如真题例句：“The government's attempt to take control of the economy led to widespread inflation.”（政府掌控经济的尝试导致了普遍通胀。）"
+      }
+    },
+    {
+      "id": "controversial",
+      "word": "controversial",
+      "phonetic": "/ˌkɔntrə'və:ʃəl/",
+      "meaning": "a.引起争论的,有争议的",
+      "similar": [
+        "controversy"
+      ],
+      "question": {
+        "wordId": "controversial",
+        "stem": "选择 \"controversial\" 的正确中文意思：",
+        "correct": "a.引起争论的,有争议的",
+        "options": [
+          "v.审计；查帐；核对；旁听",
+          "n.争论，辩论，争吵",
+          "a.引起争论的,有争议的",
+          "n.专家,能手 a.熟练的,有经验的;专门的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根：contro-（相反）+ vers（转）+ -ial（形容词后缀）。核心动作是“转向相反方向”，引申为“观点对立”，即“引起争论的”。",
+        "similarWarning": "controversial vs controversialist（好争论者）：后者多指人，前者指事物或观点本身。",
+        "extendedMeaning": "在考研阅读中常表示“有争议的（话题/观点）”，如 a controversial issue，强调未达成共识、易引发对立。",
+        "examUsage": "真题常考搭配：controversial figure（有争议的人物），controversial decision（有争议的决定）。干扰项常与 debatable（可争论的）混淆，但 controversial 更强调实际引发争论，而 debatable 仅指理论上可讨论。"
+      }
+    },
+    {
+      "id": "controversy",
+      "word": "controversy",
+      "phonetic": "/'kɔntrəˌvə:si/",
+      "meaning": "n.争论，辩论，争吵",
+      "similar": [
+        "controversial"
+      ],
+      "question": {
+        "wordId": "controversy",
+        "stem": "选择 \"controversy\" 的正确中文意思：",
+        "correct": "n.争论，辩论，争吵",
+        "options": [
+          "n.争论，辩论，争吵",
+          "v.把…带错路,使误入岐途",
+          "n.雇主",
+          "a.引起争论的,有争议的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "contra-（相对）+ vers（转）+ y（名词后缀）→ 转向对立方向 → 各方观点相悖，产生公开辩论。本义是“观点对立”，强调不同立场间的激烈交锋。",
+        "similarWarning": "controversial（adj.有争议的）→ 拼写多-ial，是controversy的形容词形式；controversy仅作名词。",
+        "extendedMeaning": "在考研阅读中可引申为“（社会/学术领域的）公开论战”，不局限于日常争吵，常指涉及利益或原则的长期分歧。",
+        "examUsage": "高频短语：beyond controversy（无可争议）；a matter of controversy（有争议的问题）。真题常考其作为主旨题的题眼，如文章围绕某项政策的controversy展开。"
+      }
+    },
+    {
+      "id": "convenience",
+      "word": "convenience",
+      "phonetic": "/kən'vi:njəns/",
+      "meaning": "n.便利,方便;(pl.)便利设备",
+      "similar": [
+        "convenient",
+        "conference",
+        "conscience",
+        "consequence",
+        "conventional",
+        "obedience",
+        "confidence",
+        "convention"
+      ],
+      "question": {
+        "wordId": "convenience",
+        "stem": "选择 \"convenience\" 的正确中文意思：",
+        "correct": "n.便利,方便;(pl.)便利设备",
+        "options": [
+          "n.(正式)会议；讨论，商谈",
+          "a.(to)便利的,方便的",
+          "n.良心,良知",
+          "n.便利,方便;(pl.)便利设备"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语convenire（共同+来），本义为“聚集、协调”。-ence为名词后缀。核心物理动作：事物“走到一起”达成一致，从而产生“没有障碍、省力”的状态，即便利。",
+        "similarWarning": "conference（会议，共同带来意见）；conscience（良心，共同知道对错）；consequence（结果，共同跟随）；convention（惯例，共同到来集会）。与convenience区别在于词根后缀不同，核心义侧重“协调一致”vs“共同知道/跟随/到来”。",
+        "extendedMeaning": "在考研阅读中常引申为“生活便利设施”，如modern conveniences（现代便利设施），而非仅抽象概念。",
+        "examUsage": "常考搭配：at one's convenience（在某人方便时），for the convenience of（为了……的方便）。真题例句：The Internet brings convenience to people's daily life.（互联网给人们日常生活带来便利。）"
+      }
+    },
+    {
+      "id": "convenient",
+      "word": "convenient",
+      "phonetic": "/kən'vi:niənt/",
+      "meaning": "a.(to)便利的,方便的",
+      "similar": [
+        "convenience",
+        "continent",
+        "convention",
+        "conventional",
+        "coherent",
+        "condense",
+        "convince",
+        "movement"
+      ],
+      "question": {
+        "wordId": "convenient",
+        "stem": "选择 \"convenient\" 的正确中文意思：",
+        "correct": "a.(to)便利的,方便的",
+        "options": [
+          "n.大陆,洲",
+          "n.便利,方便;(pl.)便利设备",
+          "n.大会,会议;惯例,常规,习俗;公约,协定",
+          "a.(to)便利的,方便的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根：con-（一起）+ ven（来）+ -ient（形容词后缀）→ 大家一起来（做某事）→ 协调、合适 → 引申为“便利的、方便的”。核心动作：事物因聚集、协调而易于使用。",
+        "similarWarning": "convenient（便利的） vs. convention（惯例/大会） vs. continent（大陆/克制的）：convenient 含“ven”表“来”，强调“一起来”的便利；convention 含“vent”表“来”，强调“大家来开会”或“约定俗成”；continent 含“tin”表“保持”，强调“保持陆地”或“自我克制”。注意字母差异：-ient（形容词尾） vs. -tion（名词尾） vs. -ent（形容词/名词尾）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "convention",
+      "word": "convention",
+      "phonetic": "/kən'venʃən/",
+      "meaning": "n.大会,会议;惯例,常规,习俗;公约,协定",
+      "similar": [
+        "conventional",
+        "invention",
+        "connection",
+        "conversion",
+        "conviction",
+        "conversation",
+        "conjunction",
+        "condition"
+      ],
+      "question": {
+        "wordId": "convention",
+        "stem": "选择 \"convention\" 的正确中文意思：",
+        "correct": "n.大会,会议;惯例,常规,习俗;公约,协定",
+        "options": [
+          "n.发明,创造,发明物",
+          "n.(connexion)联系,连接；亲戚，社会关系",
+          "n.大会,会议;惯例,常规,习俗;公约,协定",
+          "a.惯例的,常规的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ vent（来）+ -ion（名词后缀）→ 众人聚到一起 → 会议；众人共同遵守的规则 → 惯例、习俗；众人共同达成的协议 → 公约、协定。核心动作：众人共同到来、汇聚。",
+        "similarWarning": "convention（会议/惯例） vs. invention（发明） vs. conversion（转换/皈依） vs. conviction（定罪/信念）。差异在于词根：vent（来） vs. vent（发明，来自拉丁语invenire“找到”） vs. vers（转） vs. vict（征服/说服）。",
+        "extendedMeaning": "在考研中常考“惯例、常规”之意，如social convention（社会常规），而非会议或公约。",
+        "examUsage": "真题考点：by convention（按照惯例），常作逻辑状语，用于区分常规做法与例外情况。例：It is by convention that we shake hands when meeting. 注意与custom（风俗，更强调传统）区分。"
+      }
+    },
+    {
+      "id": "conventional",
+      "word": "conventional",
+      "phonetic": "/kən'venʃənəl/",
+      "meaning": "a.惯例的,常规的",
+      "similar": [
+        "convention",
+        "connection",
+        "convenient",
+        "conversion",
+        "conviction",
+        "convenience",
+        "international"
+      ],
+      "question": {
+        "wordId": "conventional",
+        "stem": "选择 \"conventional\" 的正确中文意思：",
+        "correct": "a.惯例的,常规的",
+        "options": [
+          "a.(to)便利的,方便的",
+          "n.(connexion)联系,连接；亲戚，社会关系",
+          "n.大会,会议;惯例,常规,习俗;公约,协定",
+          "a.惯例的,常规的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-（一起）+vent（来）+ -ion（名词后缀）+ -al（形容词后缀）→ 大家一起来（开会）形成的东西 → 惯例的、常规的。核心动作：人们共同聚集（convene）后产生的共同约定或标准做法。",
+        "similarWarning": "conventional（惯例的） vs. convenient（方便的）：前者词根vent（来），后者词根veni（来）+ent（形容词后缀），但convenient侧重“适合、便利”，无“共同约定”之意。",
+        "extendedMeaning": "【考研僻义】传统的、守旧的（常带贬义，指因循守旧、缺乏创新）。例：conventional wisdom（普遍看法/传统观点）。",
+        "examUsage": "【真题考点】conventional与traditional辨析：conventional强调社会习俗或人为规定；traditional更强调历史传承。真题常考conventional作为干扰项，如“conventional medicine（传统医学）”与“alternative medicine（替代医学）”对比。"
+      }
+    },
+    {
+      "id": "conversation",
+      "word": "conversation",
+      "phonetic": "/ˌkɒnvə'seɪʃn/",
+      "meaning": "n.会话,谈话",
+      "similar": [
+        "conversion",
+        "conservation",
+        "convention",
+        "compensation",
+        "concentration",
+        "consideration",
+        "concession",
+        "connection"
+      ],
+      "question": {
+        "wordId": "conversation",
+        "stem": "选择 \"conversation\" 的正确中文意思：",
+        "correct": "n.会话,谈话",
+        "options": [
+          "n.大会,会议;惯例,常规,习俗;公约,协定",
+          "n.保存,保护,保守;守恒,不灭",
+          "n.转变，转换；信仰的改变；",
+          "n.会话,谈话"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ vers（转）+ -ation（名词后缀）。字面义为“共同转向”，即双方或多方轮流转向对方发言，核心动作是“轮流交流”，强调双向互动的谈话过程。",
+        "similarWarning": "conversion（n.转换，转变）：vers-（转）强调改变方向或形式；conversation（n.谈话）强调共同转向交流。conservation（n.保护，保存）：serv-（保持）强调维持原状；conversation则无此义。convention（n.惯例，大会）：vent-（来）强调聚集而来；conversation强调言语交流。",
+        "extendedMeaning": "（在考研真题中，conversation常引申为“交谈的实质内容或话题”，而非仅指“对话这一形式”。例如：The conversation shifted to politics. 意为话题转向政治。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "conversely",
+      "word": "conversely",
+      "phonetic": "/'kɔnvə:sli/",
+      "meaning": "ad.相反地",
+      "similar": [
+        "conversion",
+        "condense",
+        "overseas",
+        "convenient"
+      ],
+      "question": {
+        "wordId": "conversely",
+        "stem": "选择 \"conversely\" 的正确中文意思：",
+        "correct": "ad.相反地",
+        "options": [
+          "ad.相反地",
+          "n.转变，转换；信仰的改变；",
+          "v.(使)冷凝，(使)凝结；浓缩，压缩，简缩",
+          "a.外国的,海外的 ad.在海外"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ verse（转）+ -ly（副词后缀）→ 共同转向对面 → 相反地。核心动作：从同一立场转向对立面。",
+        "similarWarning": "conversion（转变） vs conversely（相反地）：conversion 是名词，强调过程；conversely 是副词，强调对立关系。condense（压缩） vs conversely：condense 来自 con- + dense（密集），无“转”义。",
+        "extendedMeaning": "在考研中常表示“反过来（说）”，用于引出对立观点或对比，如：Conversely, some experts argue that...",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "conversion",
+      "word": "conversion",
+      "phonetic": "/kən'və:ʃən/",
+      "meaning": "n.转变，转换；信仰的改变；",
+      "similar": [
+        "conversation",
+        "concession",
+        "convention",
+        "confusion",
+        "diversion",
+        "conclusion",
+        "connection",
+        "conversely"
+      ],
+      "question": {
+        "wordId": "conversion",
+        "stem": "选择 \"conversion\" 的正确中文意思：",
+        "correct": "n.转变，转换；信仰的改变；",
+        "options": [
+          "n.大会,会议;惯例,常规,习俗;公约,协定",
+          "n.转变，转换；信仰的改变；",
+          "n.会话,谈话",
+          "n.让步，妥协；特许(权)；"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语convertere（转变），con-（共同，加强）+ vers-（转）+ -ion（名词后缀）。核心物理动作是“一起转动/完全转向”，引申为从一种状态、形式或信仰转向另一种。",
+        "similarWarning": "conversion vs conversation（对话，-sation强调说话）；conversion vs concession（让步，-cession强调走开）；conversion vs convention（惯例，-vention强调到来）；conversion vs confusion（混乱，-fusion强调倾倒）。",
+        "extendedMeaning": "在考研阅读中常考“（宗教或信仰的）皈依”或“（货币、单位的）换算”，如currency conversion（货币兑换）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "convert",
+      "word": "convert",
+      "phonetic": "/kən'və:t/",
+      "meaning": "v.变换,转换；改变（信仰等）；兑换（钱）",
+      "similar": [
+        "concert",
+        "cover",
+        "confer",
+        "convey",
+        "invert",
+        "concept",
+        "concern",
+        "connect"
+      ],
+      "question": {
+        "wordId": "convert",
+        "stem": "选择 \"convert\" 的正确中文意思：",
+        "correct": "v.变换,转换；改变（信仰等）；兑换（钱）",
+        "options": [
+          "v.变换,转换；改变（信仰等）；兑换（钱）",
+          "v.覆盖,包括,涉及，报道 n.盖子,套子;(书的)封面",
+          "n.音乐会,演奏会;一齐,一致",
+          "v.商讨；授予，颁给(勋衔，学位等)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 convertere，由 com-（共同，加强） + vertere（转）组成。核心物理动作是“整体转动/转变”，强调从一种状态、形式或用途彻底转向另一种。",
+        "similarWarning": "convey（v.传达，运输；词根vey=via路，强调“携带/输送”路径上的传递）；confer（v.商议，授予；词根fer=带来，强调“带来一起”讨论或“带来”荣誉）；invert（v.倒置；前缀in-向内，强调“向内翻转”使上下颠倒）。",
+        "extendedMeaning": "【考研僻义】①（信仰、宗教）皈依，使改变信仰：He converted to Buddhism. ②（尤指商业或金融）兑换（货币、证券等）：convert dollars into yen. ③（逻辑/数学）转换（命题、公式）：convert a decimal to binary.",
+        "examUsage": "【真题考点】convert...into/to... 将...转换成...（常考与transform, change, turn into的替换辨析，但convert强调本质属性改变，如能源/材料/货币转换）。真题例句：The process converts sunlight into electricity. (转化为电能)"
+      }
+    },
+    {
+      "id": "convey",
+      "word": "convey",
+      "phonetic": "/kən'vei/",
+      "meaning": "v.运送,搬运,转运;传达,传播",
+      "similar": [
+        "convert",
+        "cover",
+        "honey",
+        "confer",
+        "donkey",
+        "monkey"
+      ],
+      "question": {
+        "wordId": "convey",
+        "stem": "选择 \"convey\" 的正确中文意思：",
+        "correct": "v.运送,搬运,转运;传达,传播",
+        "options": [
+          "v.覆盖,包括,涉及，报道 n.盖子,套子;(书的)封面",
+          "n.蜜,蜂蜜",
+          "v.运送,搬运,转运;传达,传播",
+          "v.变换,转换；改变（信仰等）；兑换（钱）"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "con- (共同) + vey (路) → 共同上路 → 原本指“陪同护送”，引申为“运送、搬运”，再抽象为“传达、传播”信息或情感。核心动作是“从一个地方带到另一个地方”。",
+        "similarWarning": "convey (传达) vs. convert (转变): vey (路) vs. vert (转)；convey (运送) vs. cover (覆盖): vey (路) vs. over (上方)；convey vs. confer (授予): vey (路) vs. fer (带来)。",
+        "extendedMeaning": "在考研阅读中常考“传达（思想、情感、观点）”，如 convey a sense of urgency (传达紧迫感)；也可指“转让（财产、权利）”，如 convey property (转让财产)。",
+        "examUsage": "真题考点：convey 常与 message, idea, feeling 搭配，作及物动词；注意其被动结构 be conveyed to (被传达给)。例句：The tone of the article conveys a deep concern about the issue. (文章语气传达出对问题的深切担忧。)"
+      }
+    },
+    {
+      "id": "convict",
+      "word": "convict",
+      "phonetic": "/kən'vikt/",
+      "meaning": "v.(经审讯)证明…有罪,宣判…有罪 n.囚犯",
+      "similar": [
+        "conflict",
+        "convince",
+        "conduct",
+        "connect",
+        "consist",
+        "contact",
+        "convert",
+        "contract"
+      ],
+      "question": {
+        "wordId": "convict",
+        "stem": "选择 \"convict\" 的正确中文意思：",
+        "correct": "v.(经审讯)证明…有罪,宣判…有罪 n.囚犯",
+        "options": [
+          "n.行为,品行 v.引导;管理;指挥(乐队);传导",
+          "v.(of)使信服,使确信",
+          "n.战斗,斗争;抵触,冲突 v.(with)抵触,冲突",
+          "v.(经审讯)证明…有罪,宣判…有罪 n.囚犯"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-（共同，加强）+ vict（征服，胜利）。原指在法庭辩论中‘彻底征服’对方，即通过证据使对方无法辩驳，引申为‘证明有罪’或‘宣判有罪’。名词化后指被征服（定罪）的人，即‘囚犯’。",
+        "similarWarning": "convict vs. convince：convict 结尾 -vict（征服），强调‘定罪’；convince 结尾 -vince（战胜），强调‘说服’。conflict 为 ‘冲突’，与 convict 拼写差异在 -flict 与 -vict。",
+        "extendedMeaning": "在考研阅读中，convict 可引申为‘使某人自感有罪’或‘内心谴责’，如 ‘a convicted criminal’ 指已定罪的罪犯，但 ‘convict oneself of guilt’ 表示自我谴责。",
+        "examUsage": "真题考点：convict sb. of sth.（宣判某人有…罪），如 ‘He was convicted of murder.’ 干扰项常设与 charge（指控）、sentence（判刑）混淆，注意 convict 强调‘定罪’的结果而非过程。"
+      }
+    },
+    {
+      "id": "conviction",
+      "word": "conviction",
+      "phonetic": "/kən'vɪkʃn/",
+      "meaning": "n.深信,确信；定罪，判罪；",
+      "similar": [
+        "condition",
+        "connection",
+        "convention",
+        "conjunction",
+        "coalition",
+        "collection",
+        "conversion",
+        "complication"
+      ],
+      "question": {
+        "wordId": "conviction",
+        "stem": "选择 \"conviction\" 的正确中文意思：",
+        "correct": "n.深信,确信；定罪，判罪；",
+        "options": [
+          "n.大会,会议;惯例,常规,习俗;公约,协定",
+          "n.(connexion)联系,连接；亲戚，社会关系",
+          "n.条件，状况，环境 vt.决定；支配；训练",
+          "n.深信,确信；定罪，判罪；"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 convincere（con-加强 + vincere征服），本义是‘彻底征服’或‘用证据压倒对手’。在法庭语境中，征服对手（检方证据）导致‘定罪’；在心理层面，被证据或道理征服则形成‘深信、确信’。核心动作是‘强力征服达成确定状态’。",
+        "similarWarning": "conviction vs. convention: 词根不同，convict-征服 vs. convent-聚集。conviction强调‘确信/定罪’，convention强调‘惯例/大会’。",
+        "extendedMeaning": "在考研阅读中，conviction常表‘坚定的信仰或原则’，如 moral conviction（道德信念），而非仅指法律上的定罪。",
+        "examUsage": "短语 carry conviction（有说服力）是真题高频考点，如：His argument does not carry conviction.（他的论点没有说服力。）"
+      }
+    },
+    {
+      "id": "convince",
+      "word": "convince",
+      "phonetic": "/kən'vins/",
+      "meaning": "v.(of)使信服,使确信",
+      "similar": [
+        "confine",
+        "convict",
+        "continue",
+        "confidence",
+        "conscience",
+        "cocaine",
+        "combine",
+        "concise"
+      ],
+      "question": {
+        "wordId": "convince",
+        "stem": "选择 \"convince\" 的正确中文意思：",
+        "correct": "v.(of)使信服,使确信",
+        "options": [
+          "v.(经审讯)证明…有罪,宣判…有罪 n.囚犯",
+          "vt.限制；使不外出，禁闭n.[pl.]界限，范围",
+          "v.(of)使信服,使确信",
+          "v.继续,连续,延伸"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根con-（共同，完全） + vinc-（征服，战胜），本义为“彻底战胜（对方的观点或疑虑）”，引申为“使信服、使确信”。核心动作是“通过逻辑或证据完全征服对方的怀疑”，强调结果上的绝对说服。",
+        "similarWarning": "confine（限制） vs convict（定罪） vs convince（说服）：confine强调“界限”（fin-边界）；convict强调“宣告有罪”（vict-征服）；convince强调“使信服”（vinc-征服）。注意vinc-/vict-同源，但convict侧重法律判决，convince侧重心理认同。",
+        "extendedMeaning": "在考研阅读中，convince常引申为“使（某人）相信（某观点或事实）”，后接of短语或that从句，如convince sb. of sth.。无特殊熟词僻义。",
+        "examUsage": "高频考点：convince sb. to do sth.（说服某人做某事）与persuade sb. to do sth.同义，但convince更强调结果上的确信。真题例句：The evidence convinced the jury of his innocence.（证据使陪审团确信他无罪。）注意区别：convince后接that从句时，主语常为物或事实。"
+      }
+    },
+    {
+      "id": "cook",
+      "word": "cook",
+      "phonetic": "/kuk/",
+      "meaning": "n.厨师 v.烹调，烧煮；纂改(账目)，捏造",
+      "similar": [
+        "cock",
+        "hook",
+        "look",
+        "brook",
+        "choke",
+        "cloak",
+        "clock"
+      ],
+      "question": {
+        "wordId": "cook",
+        "stem": "选择 \"cook\" 的正确中文意思：",
+        "correct": "n.厨师 v.烹调，烧煮；纂改(账目)，捏造",
+        "options": [
+          "n.厨师 v.烹调，烧煮；纂改(账目)，捏造",
+          "vi./n.看，注视 v.好像，显得 n.外表，脸色",
+          "n.公鸡,雄鸡;龙头,开关",
+          "n.钩,吊钩,钩状物 v.钩住"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，但核心动作是‘加热处理食物’。引申为‘篡改（账目）’，源于‘通过加热改变事物性质’的隐喻，即人为操纵数据使其看似合理。",
+        "similarWarning": "book（书/预订）：cook vs book，首字母c/b差异；cock（公鸡）：cook vs cock，元音oo/o差异；cool（凉爽的）：cook vs cool，结尾k/l差异；hook（钩子）：cook vs hook，首字母c/h差异；look（看）：cook vs look，首字母c/l差异；brook（小溪）：cook vs brook，首字母c/b差异；choke（窒息）：cook vs choke，中间h/oo差异；cloak（斗篷）：cook vs cloak，中间l/oo差异。",
+        "extendedMeaning": "v. 篡改（账目、数据），如cook the books（做假账）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "cooperate",
+      "word": "cooperate",
+      "phonetic": "/kəu'ɔpəreit/",
+      "meaning": "v.(with)合作,协作,相配合",
+      "similar": [
+        "cooperative",
+        "operate",
+        "compensate",
+        "compete",
+        "moderate",
+        "tolerate",
+        "correlate",
+        "desperate"
+      ],
+      "question": {
+        "wordId": "cooperate",
+        "stem": "选择 \"cooperate\" 的正确中文意思：",
+        "correct": "v.(with)合作,协作,相配合",
+        "options": [
+          "a.合作的,协作的 n.合作社",
+          "v.(with)合作,协作,相配合",
+          "v.(for)补偿,赔偿",
+          "v.操作,运转,开动,起作用,动手术"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "co-（共同）+ oper-（工作）+ -ate（动词后缀）→ 共同工作 → 合作、协作。核心动作是“在一起操作”，强调多方协同完成同一任务。",
+        "similarWarning": "cooperate vs. operate: cooperate 强调与他人共同操作（co-共同），operate 仅指单独操作（如机器运转）。cooperate vs. compensate: compensate 含 pens-（称量、支付），意为补偿，而 cooperate 无此义。cooperate vs. compete: compete 含 pet-（寻求、竞争），意为竞争，与“合作”相反。",
+        "extendedMeaning": "在考研阅读中，cooperate 常引申为“配合、协同”，用于描述系统、器官或组织间的协调运作（如 cooperate with each other to maintain balance），而非仅指人际合作。",
+        "examUsage": ""
+      }
+    }
+  ]
+}

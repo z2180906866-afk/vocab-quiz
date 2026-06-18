@@ -1,0 +1,1725 @@
+{
+  "batchId": 36,
+  "words": [
+    {
+      "id": "glare",
+      "word": "glare",
+      "phonetic": "/glεə/",
+      "meaning": "vi.怒目而视;发射强光 n.强光;怒视;炫耀",
+      "similar": [
+        "flare",
+        "glance",
+        "bare",
+        "care",
+        "dare",
+        "fare",
+        "gate",
+        "gaze"
+      ],
+      "question": {
+        "wordId": "glare",
+        "stem": "选择 \"glare\" 的正确中文意思：",
+        "correct": "vi.怒目而视;发射强光 n.强光;怒视;炫耀",
+        "options": [
+          "a.赤裸的,空的;稀少的,仅有的 v.露出,暴露",
+          "v.(at,over)扫视 n.匆匆看,一瞥,一眼",
+          "v./n.闪耀,闪烁",
+          "vi.怒目而视;发射强光 n.强光;怒视;炫耀"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语glær（琥珀/发光物），核心物理动作为“发出刺眼的光”。gl-拟声词根模仿强光刺眼感；-are为动词后缀。从“强光”引申为“怒目而视”（眼神如强光般尖锐刺人），再引申为“炫耀”（如强光般引人注目）。",
+        "similarWarning": "flare（闪烁/突然燃烧）：glare强调持续强光刺眼，flare侧重短暂爆发火光。glance（瞥一眼）：glare为怒视，glance为快速扫视。bare（裸露）：无光感关联。",
+        "extendedMeaning": "考研僻义：n.炫耀/显眼（如：the glare of publicity 公众瞩目的焦点）；vi.引人注目（如：glare in the spotlight 在聚光灯下耀眼）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "glide",
+      "word": "glide",
+      "phonetic": "/glaɪd/",
+      "meaning": "n./v.溜,滑行;(时间)消逝",
+      "similar": [
+        "guide",
+        "slide",
+        "lid",
+        "glue",
+        "like",
+        "live",
+        "tide",
+        "abide"
+      ],
+      "question": {
+        "wordId": "glide",
+        "stem": "选择 \"glide\" 的正确中文意思：",
+        "correct": "n./v.溜,滑行;(时间)消逝",
+        "options": [
+          "n.领路人;指南,导游 v.领路;指导;支配;管理",
+          "v.(使)滑动 n.滑坡,滑道;滑,滑动;幻灯片",
+          "n./v.溜,滑行;(时间)消逝",
+          "n.盖"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语glidan，核心物理动作为‘平滑移动、不费力地滑行’。与‘slide’同源，但glide更强调轻盈、流畅的持续运动，如鸟在空中滑翔或时间悄然流逝。",
+        "similarWarning": "guide（引导）：字母‘u’替代‘l’，词义从‘滑行’变为‘指引方向’。slide（滑动）：字母‘s’开头，强调在表面上的主动或被动滑动，而glide更侧重空中或流体中的自然滑行。",
+        "extendedMeaning": "考研僻义：指‘（时间）悄然流逝’，如Time glides by.（时光飞逝），常用于文学或抽象语境中，区别于pass的直白。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "glimpse",
+      "word": "glimpse",
+      "phonetic": "/glimps/",
+      "meaning": "n./v.一瞥,瞥见",
+      "similar": [],
+      "question": {
+        "wordId": "glimpse",
+        "stem": "选择 \"glimpse\" 的正确中文意思：",
+        "correct": "n./v.一瞥,瞥见",
+        "options": [
+          "n.形成;构成;组织;构造;编制;塑造",
+          "n.处理,处置;布置,安排",
+          "a.实际上的,事实上的",
+          "n./v.一瞥,瞥见"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源与中古英语glimsen（发光、闪烁）相关，核心动作是“光线快速闪过”或“视线快速掠过”，强调短暂、不完整的视觉捕捉。与glance（有意快速看）相比，glimpse更侧重被动或偶然的瞬间所见。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研英语中常引申为“短暂的体验、初步的了解或粗略的认识”，如a glimpse of the future（对未来的短暂窥见），不限于视觉。",
+        "examUsage": "常见搭配catch/get a glimpse of（瞥见），真题中常作为描述快速、不全面认知的题眼，如“catch a glimpse of the truth”（瞥见真相）。"
+      }
+    },
+    {
+      "id": "glitter",
+      "word": "glitter",
+      "phonetic": "/'glitə/",
+      "meaning": "n.光辉,灿烂 v.闪闪发光;闪耀",
+      "similar": [
+        "litter",
+        "bitter",
+        "latter",
+        "flatter"
+      ],
+      "question": {
+        "wordId": "glitter",
+        "stem": "选择 \"glitter\" 的正确中文意思：",
+        "correct": "n.光辉,灿烂 v.闪闪发光;闪耀",
+        "options": [
+          "n.光辉,灿烂 v.闪闪发光;闪耀",
+          "n.垃圾,(杂乱的)废物 v.使杂乱,乱丢",
+          "a.(有)苦(味)的;痛苦的,厉害的",
+          "a.后者的；后一半的，接近终了的 n.后者"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语glitenian（闪光），与glow同源，核心动作是“光点密集闪烁”。-er表反复动作，强调断续、刺眼的反射光，区别于glow的稳定发光。",
+        "similarWarning": "glitter vs litter（垃圾/乱丢）：g-表光，l-表丢弃，光与垃圾无关联。glitter vs bitter（苦的）：g-表光，b-表苦，发音相似但词源无关。glitter vs latter（后者）：a/e元音差异，后者表顺序。",
+        "extendedMeaning": "考研常考抽象义：华丽、耀眼但无实际价值的东西（如All that glitters is not gold）。外刊中可指“（表面）诱惑力”，如the glitter of fame（名利的诱惑）。",
+        "examUsage": "真题常考搭配：glitter with（因…而闪光），如Her eyes glittered with tears. 注意与sparkle（短暂火花）、flash（瞬间强光）的辨析。"
+      }
+    },
+    {
+      "id": "global",
+      "word": "global",
+      "phonetic": "/'gləubəl/",
+      "meaning": "a.球形的;全球的,全世界的;全面的",
+      "similar": [
+        "goal",
+        "globe",
+        "local",
+        "loyal"
+      ],
+      "question": {
+        "wordId": "global",
+        "stem": "选择 \"global\" 的正确中文意思：",
+        "correct": "a.球形的;全球的,全世界的;全面的",
+        "options": [
+          "n.球体,地球仪;地球,世界",
+          "a.球形的;全球的,全世界的;全面的",
+          "n.目的,目标;守门员,球门;进球",
+          "a.地方的,当地的;局部的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语globus（球体），-al形容词后缀。核心动作/画面：一个完整的球体，引申为覆盖整个地球的、全面的。",
+        "similarWarning": "形近词对比：\n- global（全球的） vs goal（目标）：global含“lob”球体意象，goal含“go”行动方向。\n- global vs globe（球体）：globe是名词，global是其形容词。\n- global vs local（当地的）：前缀glo- vs lo-，前者强调整体，后者强调局部。\n- global vs loyal（忠诚的）：loyal含“loy”法律/忠诚义，与球体无关。",
+        "extendedMeaning": "考研僻义：全面的、综合的（非仅地理范围）。例：a global perspective（全局视角）；global warming（全球变暖，常考环境类阅读）。",
+        "examUsage": "真题考点：\n- global economy（全球经济），常与local economy对比，作为干扰项出现。\n- globalization（全球化）派生词，高频主题词。\n例句：The trend towards globalization has brought about significant changes in the global market.（考研阅读）"
+      }
+    },
+    {
+      "id": "globe",
+      "word": "globe",
+      "phonetic": "/gləub/",
+      "meaning": "n.球体,地球仪;地球,世界",
+      "similar": [
+        "glove",
+        "global",
+        "glow",
+        "glue",
+        "robe",
+        "alone",
+        "clone",
+        "glare"
+      ],
+      "question": {
+        "wordId": "globe",
+        "stem": "选择 \"globe\" 的正确中文意思：",
+        "correct": "n.球体,地球仪;地球,世界",
+        "options": [
+          "n.球体,地球仪;地球,世界",
+          "n.手套",
+          "v.发热,发光,发红 n.白热",
+          "a.球形的;全球的,全世界的;全面的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语globus（球体、团块），核心物理动作为“聚集成团”。词根glob-表“球”，与globe同源词有global（全球的）、globule（小球体）。",
+        "similarWarning": "glove（手套）: globe vs glove，差异在b/v；glow（发光）: globe vs glow，差异在b/w；glue（胶水）: globe vs glue，差异在b/u。",
+        "extendedMeaning": "在考研阅读中常引申为“全球视野”或“国际范围”，如the globe指“全世界”，非单纯地理概念。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gloomy",
+      "word": "gloomy",
+      "phonetic": "/'glu:mi/",
+      "meaning": "a.阴暗的,阴沉的,令人沮丧的,阴郁的",
+      "similar": [
+        "loom",
+        "bloom",
+        "glory",
+        "bloody"
+      ],
+      "question": {
+        "wordId": "gloomy",
+        "stem": "选择 \"gloomy\" 的正确中文意思：",
+        "correct": "a.阴暗的,阴沉的,令人沮丧的,阴郁的",
+        "options": [
+          "n.光荣,荣誉",
+          "n.花(朵);开花(期) v.开花",
+          "n.织布机,织机 v.隐现,(危险、忧虑等)迫近",
+          "a.阴暗的,阴沉的,令人沮丧的,阴郁的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语glōm（黄昏、昏暗），词源同glow（发光）的变体，原指光线微弱的状态。核心动作/画面：光线被遮蔽，视野模糊。引申为情绪上的阴郁、悲观。",
+        "similarWarning": "loom（v. 隐约出现，n. 织布机） vs gloomy：loom无g-开头和-y结尾，强调“隐约显现”；bloom（v./n. 开花） vs gloomy：bloom含b-，词义相反，指生机勃勃；glory（n. 光荣） vs gloomy：glory含-r-，词义相反，指光辉荣耀；bloody（a. 血腥的） vs gloomy：bloody含-d-，强调暴力流血，而非情绪昏暗。",
+        "extendedMeaning": "在考研阅读中，gloomy常引申为“前景黯淡的、悲观的”，如gloomy economic outlook（悲观的经济前景）；也可指“令人沮丧的”，如gloomy news（坏消息）。",
+        "examUsage": "真题中常与optimistic（乐观的）形成对比，作为题干或选项的题眼。例：The author's attitude towards the future is gloomy.（作者对未来持悲观态度。）常见搭配：gloomy prediction（悲观的预测）、gloomy atmosphere（压抑的氛围）。"
+      }
+    },
+    {
+      "id": "glorious",
+      "word": "glorious",
+      "phonetic": "/'glɔ:riəs/",
+      "meaning": "a.壮丽的,辉煌的;光荣的",
+      "similar": [
+        "notorious",
+        "curious",
+        "furious",
+        "various",
+        "enormous",
+        "gorgeous",
+        "gracious"
+      ],
+      "question": {
+        "wordId": "glorious",
+        "stem": "选择 \"glorious\" 的正确中文意思：",
+        "correct": "a.壮丽的,辉煌的;光荣的",
+        "options": [
+          "a.狂怒的,狂暴的,猛烈的",
+          "a.好奇的, 求知的, 古怪的, 爱挑剔的",
+          "a.臭名昭著的,声名狼藉的",
+          "a.壮丽的,辉煌的;光荣的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语gloria（光荣，声誉），-ous为形容词后缀。核心物理动作概念：闪耀光芒被众人看见，引申为赞美与荣誉的状态。",
+        "similarWarning": "与gorgeous（华丽的，极美的）对比：glorious强调荣誉与辉煌（如glorious victory），gorgeous侧重视觉上的华丽（如gorgeous sunset）。与notorious（臭名昭著的）对比：前綴glo- vs no-，褒贬对立。",
+        "extendedMeaning": "【高分引申】在考研阅读中可表示“极其令人愉快的，辉煌的”，如a glorious mess（一团糟但很壮观），glorious weather（极好的天气），不限于抽象荣誉。",
+        "examUsage": "【真题考点】常见搭配：glorious tradition（光荣传统）；glorious achievement（辉煌成就）。在真题中常作为正面评价词出现，与贬义词如infamous、notorious形成对比干扰。"
+      }
+    },
+    {
+      "id": "glory",
+      "word": "glory",
+      "phonetic": "/'glɔ:ri/",
+      "meaning": "n.光荣,荣誉",
+      "similar": [
+        "gloomy",
+        "glow",
+        "lord",
+        "glare",
+        "globe",
+        "glove",
+        "lorry"
+      ],
+      "question": {
+        "wordId": "glory",
+        "stem": "选择 \"glory\" 的正确中文意思：",
+        "correct": "n.光荣,荣誉",
+        "options": [
+          "v.发热,发光,发红 n.白热",
+          "n.(Lord)上帝,主;主人,长官,君主,贵族",
+          "a.阴暗的,阴沉的,令人沮丧的,阴郁的",
+          "n.光荣,荣誉"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语gloria（光荣、声誉），核心物理动作为‘发光、闪耀’（与古英语glow同源）。本义为‘耀眼的光芒’，引申为抽象的‘光荣、荣誉’。",
+        "similarWarning": "glory vs. gloomy：glory含‘光’（glow），gloomy含‘暗’（gloom）。glory vs. glow：glory为名词‘荣誉’，glow为动词/名词‘发光、脸红’。glory vs. glare：glare强调‘刺眼的光’或‘怒视’，glory更偏向‘荣耀的光环’。",
+        "extendedMeaning": "在考研中可引申为‘辉煌成就、鼎盛时期’，如‘in one's glory’（处于全盛期），或‘回光返照’般的短暂荣光。",
+        "examUsage": "常见搭配‘cover oneself with glory’（赢得荣誉），真题中常作为抽象名词出现在议论文或文化类阅读中，干扰项多与gloomy、glare混淆。"
+      }
+    },
+    {
+      "id": "glove",
+      "word": "glove",
+      "phonetic": "/glʌv/",
+      "meaning": "n.手套",
+      "similar": [
+        "globe",
+        "dove",
+        "glow",
+        "glue",
+        "live",
+        "move",
+        "alive",
+        "alone"
+      ],
+      "question": {
+        "wordId": "glove",
+        "stem": "选择 \"glove\" 的正确中文意思：",
+        "correct": "n.手套",
+        "options": [
+          "n.手套",
+          "n.球体,地球仪;地球,世界",
+          "v.发热,发光,发红 n.白热",
+          "n.鸽子"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能来自古英语glōf，与手掌覆盖相关。核心动作：覆盖手部，保护或保暖。",
+        "similarWarning": "love（爱）：glove有g-前缀，love无；globe（地球）：glove结尾-ve，globe结尾-be；dove（鸽子）：glove开头gl-，dove开头d-。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "glow",
+      "word": "glow",
+      "phonetic": "/gləu/",
+      "meaning": "v.发热,发光,发红 n.白热",
+      "similar": [
+        "flow",
+        "slow",
+        "allow",
+        "elbow",
+        "globe",
+        "glory",
+        "glove"
+      ],
+      "question": {
+        "wordId": "glow",
+        "stem": "选择 \"glow\" 的正确中文意思：",
+        "correct": "v.发热,发光,发红 n.白热",
+        "options": [
+          "a.慢的,不活跃的 v.(down)(使)放慢,减速",
+          "v.流,流动 n.流量,流速",
+          "vt.允许，准许；承认；给予；(for)考虑到",
+          "v.发热,发光,发红 n.白热"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根来自古英语glowan，与日耳曼语系中表达“发光、发热”的动词同源，核心物理动作为“物体因高温而发出可见光或红外辐射”，强调无火焰的持续发光发热状态。",
+        "similarWarning": "low（低的，音近但缺g开头）；blow（吹，b替换g，动作不同）；flow（流动，f替换g，强调移动）；grow（生长，r替换l，过程不同）",
+        "extendedMeaning": "考研外刊中常引申为“（情绪、面色）容光焕发”或“（城市、舞台）灯火辉煌”，如glow with pride（得意洋洋）、the city glows at night（夜晚城市璀璨）。",
+        "examUsage": "考点常出现在完形填空或阅读中，搭配glow with（充满…而发亮），或作为形容词glowing表示“热情洋溢的、赞扬的”，如glowing report（高度赞扬的报告）。"
+      }
+    },
+    {
+      "id": "glue",
+      "word": "glue",
+      "phonetic": "/glu:/",
+      "meaning": "n.胶,胶水 v.胶合,粘贴",
+      "similar": [
+        "clue",
+        "gauge",
+        "glare",
+        "glide",
+        "globe",
+        "glove"
+      ],
+      "question": {
+        "wordId": "glue",
+        "stem": "选择 \"glue\" 的正确中文意思：",
+        "correct": "n.胶,胶水 v.胶合,粘贴",
+        "options": [
+          "n.胶,胶水 v.胶合,粘贴",
+          "vi.怒目而视;发射强光 n.强光;怒视;炫耀",
+          "n.线索,暗示",
+          "n.标准尺寸;规格;量规,量表 v.测量"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语glus（胶），原指动物胶。核心动作是‘粘合、附着’，强调通过胶性物质将物体紧密连接。",
+        "similarWarning": "blue（蓝色，拼写b-开头），clue（线索，拼写c-开头），glue强调‘粘合’。",
+        "extendedMeaning": "1. 注意力集中（be glued to）：如glued to the screen（紧盯屏幕）。2. 紧密联系（glue together）：指抽象关系或团队凝聚力。",
+        "examUsage": "glue在考研真题中常考短语glue...to...（把…粘到…上）及引申义glued to（全神贯注于），如真题例句：He was glued to the TV. 注意干扰项常混淆glue与glare（怒视）或glide（滑行）。"
+      }
+    },
+    {
+      "id": "goal",
+      "word": "goal",
+      "phonetic": "/gəul/",
+      "meaning": "n.目的,目标;守门员,球门;进球",
+      "similar": [
+        "coal",
+        "goat",
+        "global",
+        "groan",
+        "local",
+        "loyal",
+        "moral",
+        "royal"
+      ],
+      "question": {
+        "wordId": "goal",
+        "stem": "选择 \"goal\" 的正确中文意思：",
+        "correct": "n.目的,目标;守门员,球门;进球",
+        "options": [
+          "a.球形的;全球的,全世界的;全面的",
+          "n.目的,目标;守门员,球门;进球",
+          "n.煤,煤块",
+          "n.山羊"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自中古英语'gol'，原指'边界'或'终点'，后引申为体育中的'球门'和抽象义'目标'。核心意象是'一个需要到达的终点或界标'。",
+        "similarWarning": "coal (煤): 字母c替换g，指黑色矿物；goat (山羊): 字母t替换l，指动物；groan (呻吟): 字母r和n替换l，指痛苦声音；global (全球的): 含'glob'球体义，指世界范围。",
+        "extendedMeaning": "在考研阅读中常引申为'努力的方向'或'要达成的结果'，如'career goal'（职业目标），非指具体球门。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "goat",
+      "word": "goat",
+      "phonetic": "/gəut/",
+      "meaning": "n.山羊",
+      "similar": [
+        "goal",
+        "boast",
+        "coast",
+        "float",
+        "ghost",
+        "giant",
+        "grant",
+        "groan"
+      ],
+      "question": {
+        "wordId": "goat",
+        "stem": "选择 \"goat\" 的正确中文意思：",
+        "correct": "n.山羊",
+        "options": [
+          "n.目的,目标;守门员,球门;进球",
+          "n.山羊",
+          "n.海岸,海滨",
+          "v.(of,about)自夸,夸耀 n.自夸,大话"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语 'gāt'，指山羊。词根无复杂演变，核心动作与山羊的攀爬、跳跃习性相关，引申出‘替罪羊’（scapegoat）的比喻义。",
+        "similarWarning": "boat（船，b-船体状），coat（外套，c-覆盖），goal（目标，g-终点），boast（吹嘘，b-夸大），coast（海岸，c-边缘），float（漂浮，f-流动），ghost（鬼魂，gh-幽灵），giant（巨人，g-巨大）。对比：goat (g-山羊角，与‘目标’goal仅差字母‘l’，但词义迥异)。",
+        "extendedMeaning": "在真题中常考‘scapegoat’（替罪羊）的隐喻义，或指‘色鬼’（lecherous goat）的贬义用法。",
+        "examUsage": "真题考点：'separate the sheep from the goats'（区分好人与坏人），源自圣经，在阅读中作为文化隐喻出现，需理解其区分优劣的深层含义。"
+      }
+    },
+    {
+      "id": "golden",
+      "word": "golden",
+      "phonetic": "/'gəuldən/",
+      "meaning": "a.金黄色的;贵重的,极好的",
+      "similar": [
+        "holder",
+        "wooden"
+      ],
+      "question": {
+        "wordId": "golden",
+        "stem": "选择 \"golden\" 的正确中文意思：",
+        "correct": "a.金黄色的;贵重的,极好的",
+        "options": [
+          "a.金黄色的;贵重的,极好的",
+          "n.斑点;地点 v.认出,认清,发现;玷污,弄脏",
+          "n.持有者,占有者;(台,架等)支持物",
+          "a.木制的;呆笨的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "gold（金）+en（形容词后缀，表示“由...制成”或“具有...性质”）。核心物理动作：像金子一样的东西 → 引申为“金黄色的”和“贵重的、极好的”。",
+        "similarWarning": "gold（n./a. 金，金的） vs golden（a. 金黄色的，贵重的）：gold强调材质本身是金子，golden强调像金子一样的颜色或价值。garden（n. 花园） vs golden：仅拼写相似，意义无关。holder（n. 持有者） vs golden：无直接关联。wooden（a. 木制的） vs golden：构词模式相同（名词+en），但材质不同。",
+        "extendedMeaning": "考研中常考“黄金般的、珍贵的”抽象义，如golden opportunity（绝佳机会），golden rule（黄金法则），而非仅指颜色。",
+        "examUsage": "常见搭配：golden age（黄金时代，真题中可用于描述繁荣时期），golden mean（中庸之道，哲学类文章考点）。无特殊干扰项考点时省略本项。"
+      }
+    },
+    {
+      "id": "golf",
+      "word": "golf",
+      "phonetic": "/gɔlf/",
+      "meaning": "n.高尔夫球",
+      "similar": [
+        "gulf",
+        "wolf"
+      ],
+      "question": {
+        "wordId": "golf",
+        "stem": "选择 \"golf\" 的正确中文意思：",
+        "correct": "n.高尔夫球",
+        "options": [
+          "v.支配,统治,控制;占优势",
+          "n.狼",
+          "n.海湾",
+          "n.高尔夫球"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自中世纪荷兰语'colf'（棍棒），指用棍棒击球的运动，核心动作是'击球入洞'。",
+        "similarWarning": "gold（金子，金色）-golf（高尔夫球），字母'o'后跟'ld' vs 'lf'；gulf（海湾）-golf，字母'u' vs 'o'及'lf' vs 'lf'；wolf（狼）-golf，首字母'w' vs 'g'。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "goodby",
+      "word": "goodby",
+      "phonetic": "/ˌgud'bai/",
+      "meaning": "int.(goodbye)再见",
+      "similar": [
+        "goods"
+      ],
+      "question": {
+        "wordId": "goodby",
+        "stem": "选择 \"goodby\" 的正确中文意思：",
+        "correct": "int.(goodbye)再见",
+        "options": [
+          "int.(goodbye)再见",
+          "n.(pl.)货物，商品",
+          "v.犯罪,冒犯,违反,得罪,使...不愉快",
+          "n.减小,减少,缩小"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由短语 'God be with ye'（上帝与你同在）缩合演变而来，后简化为 goodbye。核心动作是告别时的祝福，词源上无复杂词根，属于日常用语。",
+        "similarWarning": "good: 形容词，意为“好的”；goods: 名词，意为“商品、货物”。goodby 与二者拼写相似，但前者为感叹词表告别，后者为形容词/名词，词义差异大，不易混淆。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "goodness",
+      "word": "goodness",
+      "phonetic": "/'gudnɪs/",
+      "meaning": "n.善良，仁慈；(食物等)精华 int.天哪",
+      "similar": [
+        "kindness"
+      ],
+      "question": {
+        "wordId": "goodness",
+        "stem": "选择 \"goodness\" 的正确中文意思：",
+        "correct": "n.善良，仁慈；(食物等)精华 int.天哪",
+        "options": [
+          "n.仁慈,亲切;好意;友好行为",
+          "n.善良，仁慈；(食物等)精华 int.天哪",
+          "v.使迷惑,难住",
+          "n.记者,通讯员;通信者"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根词缀逻辑：good（好的）+ -ness（抽象名词后缀，表性质/状态）→ 字面意为“好的性质”，指道德上的善良、仁慈，或食物等中的精华部分。",
+        "similarWarning": "kindness（n.仁慈，好意）：与goodness同义，但goodness更强调内在品质的“善”，kindness侧重外显的“友好行为”。",
+        "extendedMeaning": "考研僻义：①(食物等)精华，如“the goodness of whole grains”（全谷物的精华）；②用于感叹词“My goodness!”（天哪！），表惊讶或强调。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "goods",
+      "word": "goods",
+      "phonetic": "/gudz/",
+      "meaning": "n.(pl.)货物，商品",
+      "similar": [
+        "goodby",
+        "mood",
+        "odds",
+        "goose",
+        "gross"
+      ],
+      "question": {
+        "wordId": "goods",
+        "stem": "选择 \"goods\" 的正确中文意思：",
+        "correct": "n.(pl.)货物，商品",
+        "options": [
+          "int.(goodbye)再见",
+          "n.不平等,差异;机会",
+          "n.(pl.)货物，商品",
+          "n.心情,情绪;语气"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自中古英语gode（好），复数形式goods指代‘好的东西’，即具有价值、可交易的物品。核心物理动作：拥有或生产出的‘好物’，引申为商业中的货物、商品。",
+        "similarWarning": "good（好的，形容词）、god（神，名词）、food（食物，名词）、mood（心情，名词）、wood（木材，名词）。与goods拼写差异在于首字母或尾字母，词义截然不同。",
+        "extendedMeaning": "在经济学语境中，goods可指‘商品’（区别于服务），如consumer goods（消费品）；在商业英语中，goods常指‘货物’（尤其运输中的）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "goose",
+      "word": "goose",
+      "phonetic": "/gu:s/",
+      "meaning": "n.(pl.geese)鹅,雌鹅,鹅肉",
+      "similar": [
+        "loose",
+        "loosen",
+        "dose",
+        "hose",
+        "nose",
+        "pose",
+        "rose",
+        "boost"
+      ],
+      "question": {
+        "wordId": "goose",
+        "stem": "选择 \"goose\" 的正确中文意思：",
+        "correct": "n.(pl.geese)鹅,雌鹅,鹅肉",
+        "options": [
+          "n.剂量,一服,一剂 v.(给…)服药",
+          "a.(宽)松的；不精确的；自由的，散漫的",
+          "n.(pl.geese)鹅,雌鹅,鹅肉",
+          "v.解开,放松"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "古英语gōs，源自原始日耳曼语*gans-‘鹅’，与拉丁语anser同源。核心物理动作来自鹅伸颈啄食的形态，引申为‘傻瓜’（鹅被认为笨拙）。",
+        "similarWarning": "goose（鹅）vs loose（松的）：前者有g，后者无g；goose（鹅）vs choose（选择）：前者goo-，后者cho-；goose（鹅）vs lose（丢失）：前者有g，后者无g。",
+        "extendedMeaning": "（口语）傻瓜，笨蛋：如‘He is a silly goose.’；‘kill the goose that lays the golden eggs’（杀鸡取卵）中的goose象征财富来源。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gorgeous",
+      "word": "gorgeous",
+      "phonetic": "/'gɔ:dʒəs/",
+      "meaning": "a.华丽的；灿烂的；美丽的；宜人的；棒的",
+      "similar": [
+        "glorious"
+      ],
+      "question": {
+        "wordId": "gorgeous",
+        "stem": "选择 \"gorgeous\" 的正确中文意思：",
+        "correct": "a.华丽的；灿烂的；美丽的；宜人的；棒的",
+        "options": [
+          "n.手掌,掌状物,棕榈vt.与…握手,藏…于掌中",
+          "a.壮丽的,辉煌的;光荣的",
+          "n.(pl.)点心,饮料;精力恢复,爽快",
+          "a.华丽的；灿烂的；美丽的；宜人的；棒的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自法语 'gorgias'（优雅的），与 'gorge'（咽喉）同源，本义为“装饰颈部的华丽围巾”，后演变为“华丽的、灿烂的”。核心动作：装饰颈部→视觉上的极致华美。",
+        "similarWarning": "glorious（光荣的）：词根glor-（荣耀），侧重荣誉与辉煌；gorgeous（华丽的）：词根gorg-（喉咙/装饰），侧重视觉上的华美与鲜艳。差异在 'glor' vs 'gorg'，前者表抽象荣耀，后者表具体华丽。",
+        "extendedMeaning": "在考研外刊中常引申为“极其宜人的、棒的”，如 'gorgeous weather'（极好的天气），或用于口语加强语气，如 'gorgeous idea'（绝妙的主意）。",
+        "examUsage": "常考搭配：'gorgeous scenery'（壮丽的景色），真题中作为正面评价词，与 'magnificent'、'splendid' 同义替换，注意其口语化用法在阅读中表强烈情感色彩。"
+      }
+    },
+    {
+      "id": "gossip",
+      "word": "gossip",
+      "phonetic": "/'gɔsip/",
+      "meaning": "n./v.(说)闲话,闲聊",
+      "similar": [
+        "fossil"
+      ],
+      "question": {
+        "wordId": "gossip",
+        "stem": "选择 \"gossip\" 的正确中文意思：",
+        "correct": "n./v.(说)闲话,闲聊",
+        "options": [
+          "n./v.(说)闲话,闲聊",
+          "n.罗盘,指南针;(pl.)圆规",
+          "n.化石",
+          "n.例子,事例,例证"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语‘godsibb’（god＋sib亲属），原指‘教父/教母’，即孩子洗礼时的担保人。因这类人常在洗礼仪式后亲密交谈，词义由‘亲密交谈的人’演变为‘闲聊者’，最终转化为‘闲话/八卦’的动作与内容。核心物理动作：两人凑近耳语、传播非正式信息。",
+        "similarWarning": "与fossil（化石）仅差首字母g/f。fossil（foss-挖掘）指‘挖出的古物’，强调‘石化’；gossip（godsibb）强调‘人际间的流言’。对比：g（gossip）像张口说话，f（fossil）像埋在地下的骨头。",
+        "extendedMeaning": "在考研阅读中常出现动词用法，表示‘散布小道消息’或‘非正式地谈论他人私事’，强调传播的随意性与非正式性。如‘gossip about the CEO’s private life’（散播CEO私生活的八卦）。",
+        "examUsage": "真题常考搭配：‘gossip column’（八卦专栏）或‘gossip mill’（谣言工厂）。干扰项常将gossip与‘rumor’（未经证实的谣言）混淆，注意gossip侧重社交闲聊，rumor侧重信息真伪未明。"
+      }
+    },
+    {
+      "id": "govern",
+      "word": "govern",
+      "phonetic": "/'gʌvən/",
+      "meaning": "v.统治,管理;决定,支配",
+      "similar": [
+        "governor",
+        "oven",
+        "cover",
+        "hover",
+        "lover"
+      ],
+      "question": {
+        "wordId": "govern",
+        "stem": "选择 \"govern\" 的正确中文意思：",
+        "correct": "v.统治,管理;决定,支配",
+        "options": [
+          "v.统治,管理;决定,支配",
+          "v.覆盖,包括,涉及，报道 n.盖子,套子;(书的)封面",
+          "n.统治者,管理者,总督,州(省)长",
+          "n.炉,灶,灶箱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源自拉丁语gubernare‘掌舵’，原指‘驾驶船只’，引申为‘引导、管理国家或组织’。核心动作：通过控制方向（舵）来主导事物运行。",
+        "similarWarning": "govern v.统治；governor n.统治者；oven n.烤箱（govern vs oven：gov- vs ov-，前者含‘引导’义，后者为‘热器’）；hover v.盘旋（govern vs hover：-ern vs -er，前者表‘控制’，后者表‘悬停’）。",
+        "extendedMeaning": "（考研僻义）‘决定，支配’：指因素或规则对结果起决定性作用。例：The law governs the rights of citizens. (法律决定公民权利)；Economic factors govern the market. (经济因素支配市场)。",
+        "examUsage": "（真题考点）固定搭配：govern oneself (自我约束)；govern one's temper (控制脾气)。真题例句：The principles that govern the conduct of life are not the same for all. (支配生活行为的原则并非人人相同。)"
+      }
+    },
+    {
+      "id": "governor",
+      "word": "governor",
+      "phonetic": "/'gʌvənə/",
+      "meaning": "n.统治者,管理者,总督,州(省)长",
+      "similar": [
+        "govern"
+      ],
+      "question": {
+        "wordId": "governor",
+        "stem": "选择 \"governor\" 的正确中文意思：",
+        "correct": "n.统治者,管理者,总督,州(省)长",
+        "options": [
+          "n.统治者,管理者,总督,州(省)长",
+          "v.统治,管理;决定,支配",
+          "vt.承认；容许；(比赛结束前)认输；退让",
+          "vt.限制，约束；克制，抑制"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语gubernare（掌舵，引导），词根gubern-（控制，管理）+-or（人）。核心动作是“掌舵者”，引申为政治或行政上的管理者。",
+        "similarWarning": "govern（v.统治，管理）与governor仅后缀不同，govern是动词，governor是名词；government（n.政府，管理）是govern的名词形式，强调机构而非个人。",
+        "extendedMeaning": "在考研中，governor可引申为“（机器、设备的）调节器，控制器”，如speed governor（调速器），常见于科技类阅读。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gown",
+      "word": "gown",
+      "phonetic": "/gaun/",
+      "meaning": "n.长袍，特殊场合穿的长服",
+      "similar": [
+        "brown",
+        "crown",
+        "drown",
+        "frown",
+        "groan"
+      ],
+      "question": {
+        "wordId": "gown",
+        "stem": "选择 \"gown\" 的正确中文意思：",
+        "correct": "n.长袍，特殊场合穿的长服",
+        "options": [
+          "n.长袍，特殊场合穿的长服",
+          "v.溺死,淹没",
+          "n./a.褐色(的),棕色(的)",
+          "n.王冠,冕;君权,君王 v.为…加冕"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自拉丁语'gunna'（毛皮衣服）。核心指宽松的、垂至脚踝的长袍，多用于正式场合（如学位服、法官袍、睡袍）。",
+        "similarWarning": "own（拥有）、down（向下）、town（城镇）、brown（棕色）、crown（王冠）、drown（淹没）、frown（皱眉）、groan（呻吟）。注意gown与crown、drown等仅首字母或尾字母不同，需结合语境区分。",
+        "extendedMeaning": "在考研语境中，gown常特指'学位服'（graduation gown）或'手术服'（surgical gown），而非普通长袍。",
+        "examUsage": "常见搭配：'cap and gown'（学位帽与学位服，象征毕业典礼）。真题中可能作为场景词出现，如描述学术或医疗场景。"
+      }
+    },
+    {
+      "id": "grab",
+      "word": "grab",
+      "phonetic": "/græb/",
+      "meaning": "v./n.(at)抓(住);夺(得)",
+      "similar": [
+        "crab",
+        "grace",
+        "grade",
+        "grain",
+        "grand",
+        "grant",
+        "grape",
+        "graph"
+      ],
+      "question": {
+        "wordId": "grab",
+        "stem": "选择 \"grab\" 的正确中文意思：",
+        "correct": "v./n.(at)抓(住);夺(得)",
+        "options": [
+          "n.螃蟹,蟹肉",
+          "n.等级,级别;年级;分数 v.分等,分级",
+          "v./n.(at)抓(住);夺(得)",
+          "n.优美,文雅;恩惠,恩泽;宽限,缓刑;感恩祷告"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模拟快速抓取的动作声。核心物理动作为‘突然、用力地抓住或夺取’，强调动作的急促与力量感。",
+        "similarWarning": "crab（螃蟹；抱怨）：c-像蟹钳形状；grab用g-表示手部抓握。",
+        "extendedMeaning": "（考研僻义）吸引注意力：The story grabs the reader's interest.（故事吸引读者兴趣。）",
+        "examUsage": "（真题考点）grab at a chance（抓住机会）；grab hold of（抓住）；真题例句：He grabbed the opportunity to study abroad.（考研阅读）"
+      }
+    },
+    {
+      "id": "grace",
+      "word": "grace",
+      "phonetic": "/greis/",
+      "meaning": "n.优美,文雅;恩惠,恩泽;宽限,缓刑;感恩祷告",
+      "similar": [
+        "brace",
+        "grade",
+        "grape",
+        "grave",
+        "graze",
+        "trace",
+        "garage",
+        "glance"
+      ],
+      "question": {
+        "wordId": "grace",
+        "stem": "选择 \"grace\" 的正确中文意思：",
+        "correct": "n.优美,文雅;恩惠,恩泽;宽限,缓刑;感恩祷告",
+        "options": [
+          "n.葡萄",
+          "n.优美,文雅;恩惠,恩泽;宽限,缓刑;感恩祷告",
+          "v.使防备;支撑;使(手,足,肩等)绷紧 n.托架",
+          "n.等级,级别;年级;分数 v.分等,分级"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语gratia（恩惠、感谢），与gratitude同源。核心物理动作是“给予善意/好处”，引申为“优雅”是行为中流露的善意与美感。",
+        "similarWarning": "grace vs grade: grade（等级）多一个字母d，强调级别；grace无d，强调优雅或恩惠。",
+        "extendedMeaning": "考研僻义：宽限期（如grace period）、恩典（宗教语境）、风度（如social grace社交礼仪）。",
+        "examUsage": "真题考点：fall from grace（失宠、堕落）、grace period（宽限期，常用于经济或法律文本）。"
+      }
+    },
+    {
+      "id": "graceful",
+      "word": "graceful",
+      "phonetic": "/'greisful/",
+      "meaning": "a.优美的,文雅的,大方的",
+      "similar": [
+        "grateful",
+        "peaceful",
+        "careful",
+        "gracious"
+      ],
+      "question": {
+        "wordId": "graceful",
+        "stem": "选择 \"graceful\" 的正确中文意思：",
+        "correct": "a.优美的,文雅的,大方的",
+        "options": [
+          "a.优美的,文雅的,大方的",
+          "a.(to,for)感激的;感谢的",
+          "a.和平的,平静的,安宁的,爱好和平的",
+          "a.小心的,仔细的;细致的,精心的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源：grace（优雅）+ -ful（充满...的）。核心物理动作：grace源自拉丁语gratia（恩惠、愉悦），强调动作或形态的流畅、得体，如芭蕾舞者的姿态。",
+        "similarWarning": "形近词对比：\ngrateful（感激的）：grat-（恩惠）+ -ful，强调情感上的感谢。\npeaceful（和平的）：peace（和平）+ -ful，指环境或状态。\ncareful（小心的）：care（小心）+ -ful，指谨慎。\ngracious（亲切的）：grace（优雅）+ -ious，常形容人态度谦和。",
+        "extendedMeaning": "考研僻义：无特殊僻义，常考其本义“优雅的、得体的”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gracious",
+      "word": "gracious",
+      "phonetic": "/'greiʃəs/",
+      "meaning": "a.亲切的,客气的;宽厚的,仁慈的",
+      "similar": [
+        "precious",
+        "spacious",
+        "radius",
+        "various",
+        "vicious",
+        "glorious",
+        "graceful",
+        "previous"
+      ],
+      "question": {
+        "wordId": "gracious",
+        "stem": "选择 \"gracious\" 的正确中文意思：",
+        "correct": "a.亲切的,客气的;宽厚的,仁慈的",
+        "options": [
+          "n.半径,半径范围,有效航程,范围,界限",
+          "adj.广阔的，宽敞的",
+          "a.珍贵的,贵重的",
+          "a.亲切的,客气的;宽厚的,仁慈的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "grace（优雅、恩惠）+-ious（形容词后缀，充满…的）→充满优雅与恩惠的→引申为亲切客气的、宽厚仁慈的。核心动作：施予恩惠时的优雅态度。",
+        "similarWarning": "precious（珍贵的，pre-前+cious）vs gracious（亲切的，grace+ious）；spacious（宽敞的，space+ious）vs gracious；vicious（恶毒的，vice+ious）vs gracious（仁慈的）；graceful（优雅的，grace+ful）强调体态优美，gracious强调待人态度。",
+        "extendedMeaning": "（《经济学人》中）表示‘体面的、宽厚的’，用于形容社会地位高者对待下层的仁慈态度，如‘gracious living’指优裕体面的生活。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "grade",
+      "word": "grade",
+      "phonetic": "/greid/",
+      "meaning": "n.等级,级别;年级;分数 v.分等,分级",
+      "similar": [
+        "grace",
+        "grape",
+        "grave",
+        "graze",
+        "upgrade",
+        "cradle",
+        "garage",
+        "gramme"
+      ],
+      "question": {
+        "wordId": "grade",
+        "stem": "选择 \"grade\" 的正确中文意思：",
+        "correct": "n.等级,级别;年级;分数 v.分等,分级",
+        "options": [
+          "n.优美,文雅;恩惠,恩泽;宽限,缓刑;感恩祷告",
+          "n.葡萄",
+          "n.坟墓 a.严肃的,庄重的",
+          "n.等级,级别;年级;分数 v.分等,分级"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'gradus'（步，台阶）。词根 grad-/gress- 表示“走，步”。核心动作是“走台阶”，引申为“等级、级别、年级”（一步步上升的层次）和“分数”（评定的等级）。",
+        "similarWarning": "grace (优雅) vs grade (等级)：grace 含 c 表“优雅姿态”；grade 含 d 表“步/等级”。grape (葡萄) vs grade：grape 含 p 表“葡萄串”；grade 含 d 表“等级”。grave (坟墓/严重的) vs grade：grave 含 v 表“挖/重”；grade 含 d 表“步”。",
+        "extendedMeaning": "【熟词僻义】1. 成绩等级（如 A, B, C 而非具体分数）；2. 坡度（如 steep grade 陡坡）；3. 品级（如 industrial-grade 工业级的）。",
+        "examUsage": "【真题考点】1. make the grade (达到标准/成功)；2. grade point average (GPA 平均绩点)；3. 动词用法：grade students by ability (按能力分班)。"
+      }
+    },
+    {
+      "id": "gradual",
+      "word": "gradual",
+      "phonetic": "/'grædʒuəl/",
+      "meaning": "a.逐渐的,逐步的",
+      "similar": [
+        "graduate"
+      ],
+      "question": {
+        "wordId": "gradual",
+        "stem": "选择 \"gradual\" 的正确中文意思：",
+        "correct": "a.逐渐的,逐步的",
+        "options": [
+          "a.逐渐的,逐步的",
+          "v.索(价);控告;充电 n.(pl.)费用,代价;电荷",
+          "n.大学毕业生,研究生 v.大学毕业a.毕了业的",
+          "n.明显;显著;根据;证据;迹象"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根grad-（步，级） + -ual（形容词后缀）。核心动作：一步一步地前进，即逐步的、渐进的。",
+        "similarWarning": "graduate（v.毕业；n.毕业生）：拼写上gradual末尾是-al（形容词后缀），graduate末尾是-ate（动词/名词后缀）。二者核心区别在于词性和后缀功能：gradual强调过程性质，graduate强调完成学位或阶段。",
+        "extendedMeaning": "在考研中常引申为“不突然的、缓慢发生的”，如gradual change（渐变），强调过程的渐进性而非结果。",
+        "examUsage": "常与immediate（立即的）、sudden（突然的）形成对比考点。例句：The shift from paper to digital reading is gradual.（《经济学人》）"
+      }
+    },
+    {
+      "id": "graduate",
+      "word": "graduate",
+      "phonetic": "/'grædʒuət/",
+      "meaning": "n.大学毕业生,研究生 v.大学毕业a.毕了业的",
+      "similar": [
+        "gradual",
+        "radiate",
+        "evacuate",
+        "evaluate"
+      ],
+      "question": {
+        "wordId": "graduate",
+        "stem": "选择 \"graduate\" 的正确中文意思：",
+        "correct": "n.大学毕业生,研究生 v.大学毕业a.毕了业的",
+        "options": [
+          "vt.撤离，疏散，排泄，剥夺",
+          "n.大学毕业生,研究生 v.大学毕业a.毕了业的",
+          "a.逐渐的,逐步的",
+          "v.放射,辐射;散布,传播"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根grad-（步，走）→ 一步步完成学业阶段，即毕业。graduate本义为“完成一个阶段”，引申为大学毕业生或研究生。",
+        "similarWarning": "gradual（逐步的）→ 同根grad-，强调“一步步”；radiate（辐射）→ 词根radi-（光线）；evacuate（疏散）→ 词根vac-（空）；evaluate（评估）→ 词根val-（价值）。拼写差异：graduate vs gradual 仅差“-ate/-ual”，词义核心不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "grain",
+      "word": "grain",
+      "phonetic": "/grein/",
+      "meaning": "n.谷物,谷类;颗粒,细粒",
+      "similar": [
+        "gain",
+        "grin",
+        "brain",
+        "drain",
+        "strain",
+        "grab",
+        "grim",
+        "grip"
+      ],
+      "question": {
+        "wordId": "grain",
+        "stem": "选择 \"grain\" 的正确中文意思：",
+        "correct": "n.谷物,谷类;颗粒,细粒",
+        "options": [
+          "v.获得；增加；表等走快 n.增进,增加；收益",
+          "n.谷物,谷类;颗粒,细粒",
+          "n.(大)脑,骨髓;(pl.)脑力,智能",
+          "n./vi.露齿而笑，咧嘴一笑"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根源自拉丁语‘granum’（谷粒），与‘gran-’（颗粒）同源。核心物理动作为‘颗粒状物体’，强调细小、离散的个体单位。从‘谷物’引申为‘颗粒、细粒’，体现从整体到部分的具象化。",
+        "similarWarning": "gain（获得，增加）：grain与gain差一字母‘r’，grain侧重‘颗粒’，gain侧重‘获取’。grin（咧嘴笑）：grain与grin差‘a’和‘r’，grain为‘谷物’，grin为‘笑’。strain（拉紧，压力）：grain与strain差前缀‘s’和‘t’，grain为‘颗粒’，strain为‘紧张’。",
+        "extendedMeaning": "在考研中，grain可引申为‘微量、一丝’（a grain of truth），或‘纹理、质地’（wood grain），强调细微的质感或痕迹。",
+        "examUsage": "真题中常考搭配‘against the grain’（违反常理/格格不入），作为固定短语出现，需注意其比喻义而非字面‘与纹理相反’。"
+      }
+    },
+    {
+      "id": "gramme",
+      "word": "gramme",
+      "phonetic": "/græm/",
+      "meaning": "n.(gram)克",
+      "similar": [
+        "grammar",
+        "frame",
+        "grace",
+        "grade",
+        "grape",
+        "grave",
+        "graze"
+      ],
+      "question": {
+        "wordId": "gramme",
+        "stem": "选择 \"gramme\" 的正确中文意思：",
+        "correct": "n.(gram)克",
+        "options": [
+          "n.(gram)克",
+          "n.语法,语法书",
+          "n.框架;体格;骨架;组织;机构 v.设计;制定",
+          "n.优美,文雅;恩惠,恩泽;宽限,缓刑;感恩祷告"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'gramma'（小重量单位），与 'graph'（写）同源，原指写在秤上的小标记，后演变为重量单位 '克'。",
+        "similarWarning": "grammar（语法）：多了 -ar 后缀；game（游戏）：a 替换为 e；frame（框架）：加 f 开头；grace（优雅）：c 替换为 m；grade（等级）：d 替换为 m；grape（葡萄）：p 替换为 m；grave（坟墓）：v 替换为 m；graze（放牧）：z 替换为 m。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "grammar",
+      "word": "grammar",
+      "phonetic": "/'græmə/",
+      "meaning": "n.语法,语法书",
+      "similar": [
+        "gramme"
+      ],
+      "question": {
+        "wordId": "grammar",
+        "stem": "选择 \"grammar\" 的正确中文意思：",
+        "correct": "n.语法,语法书",
+        "options": [
+          "n.狮子",
+          "n.标本,样本",
+          "n.(gram)克",
+          "n.语法,语法书"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自希腊语‘gramma’（字母，书写），后缀‘-ar’表‘与…相关的’。核心动作：字母的排列规则→语法。",
+        "similarWarning": "gramme（克）：grammar vs gramme，差‘-ar’（语法相关）与‘-me’（重量单位），注意拼写差异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "grand",
+      "word": "grand",
+      "phonetic": "/grænd/",
+      "meaning": "a.盛大的,豪华的;重大的,主要的",
+      "similar": [
+        "brand",
+        "grant",
+        "grind",
+        "brandy",
+        "ground",
+        "band",
+        "gang",
+        "grab"
+      ],
+      "question": {
+        "wordId": "grand",
+        "stem": "选择 \"grand\" 的正确中文意思：",
+        "correct": "a.盛大的,豪华的;重大的,主要的",
+        "options": [
+          "v.磨(碎),碾(碎)",
+          "a.盛大的,豪华的;重大的,主要的",
+          "n.商标,标记,牌子 v.使铭记;打火印,打烙印",
+          "v.同意,准予;授予 n.授予物;津贴;转让证书"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语grandis‘大的，伟大的’。核心动作/画面：强调‘大’的物理或抽象尺度，如规模大、级别高、重要性大。",
+        "similarWarning": "brand (品牌，烙印，字母b-替换g-); grant (授予，同意，字母t替换d); grind (研磨，折磨，字母i替换a); ground (地面，基础，字母-ou-替换-a-)。",
+        "extendedMeaning": "在考研外刊中常引申为‘宏伟的，极好的’（如a grand idea），或作名词‘大钢琴’（grand piano的简写），或‘一千美元/英镑’（俚语）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "grandmother",
+      "word": "grandmother",
+      "phonetic": "/'grændˌmʌðə/",
+      "meaning": "n.祖母,外祖母",
+      "similar": [],
+      "question": {
+        "wordId": "grandmother",
+        "stem": "选择 \"grandmother\" 的正确中文意思：",
+        "correct": "n.祖母,外祖母",
+        "options": [
+          "v.租,租赁 n.租金",
+          "n.祖母,外祖母",
+          "a.坦白的,直率的",
+          "vt.剥夺,夺去,使丧失"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "由grand（大的、隔代的）和mother（母亲）复合而成，字面即“隔代的母亲”，直接指向祖母或外祖母。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "grant",
+      "word": "grant",
+      "phonetic": "/grɑ:nt/",
+      "meaning": "v.同意,准予;授予 n.授予物;津贴;转让证书",
+      "similar": [
+        "giant",
+        "grand",
+        "ant",
+        "rat",
+        "gang",
+        "goat",
+        "grab",
+        "grin"
+      ],
+      "question": {
+        "wordId": "grant",
+        "stem": "选择 \"grant\" 的正确中文意思：",
+        "correct": "v.同意,准予;授予 n.授予物;津贴;转让证书",
+        "options": [
+          "n.蚁；蚂蚁",
+          "v.同意,准予;授予 n.授予物;津贴;转让证书",
+          "n.巨人 a.巨大的",
+          "a.盛大的,豪华的;重大的,主要的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自中古英语 graunten，来自古法语 greanter '承诺，保证'，最终源于拉丁语 credere '信任，相信'（同源词 credit）。核心动作是 '基于信任给予'，即从 '相信某人并同意其请求' 演变为 '正式给予或授予'。",
+        "similarWarning": "grant vs grand: grant 含 '信任' 义，与给予相关；grand 意为 '宏伟的'，源自拉丁语 grandis '大的'。grant vs giant: giant 是 '巨人'，源自希腊语 gigas。grant vs ant: ant 是 '蚂蚁'。",
+        "extendedMeaning": "在考研中，grant 常考 '准予，同意' 的引申义，如 'grant sb sth' 结构，以及名词 '拨款，补助金'（如 research grant）。",
+        "examUsage": "核心搭配：take it for granted (that)... 认为……理所当然。真题例句：We take it for granted that our children will be better off than we are. (我们理所当然地认为我们的孩子会比我们过得更好。)"
+      }
+    },
+    {
+      "id": "grape",
+      "word": "grape",
+      "phonetic": "/greip/",
+      "meaning": "n.葡萄",
+      "similar": [
+        "rape",
+        "grace",
+        "grade",
+        "graph",
+        "grave",
+        "graze",
+        "grope",
+        "garage"
+      ],
+      "question": {
+        "wordId": "grape",
+        "stem": "选择 \"grape\" 的正确中文意思：",
+        "correct": "n.葡萄",
+        "options": [
+          "n./vt.掠夺,蹂躏,强奸",
+          "n.葡萄",
+          "n.优美,文雅;恩惠,恩泽;宽限,缓刑;感恩祷告",
+          "n.等级,级别;年级;分数 v.分等,分级"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能与古法语‘grape’（葡萄）或日耳曼语‘krap-’（钩子，指葡萄藤卷须）有关。核心指葡萄果实，引申为葡萄酒原料或葡萄色。",
+        "similarWarning": "形近词辨析：rape（强奸/油菜） vs grape（葡萄）——首字母‘g’区分；grace（优雅） vs grape——‘c’ vs ‘p’；grade（等级） vs grape——‘d’ vs ‘p’；graph（图表） vs grape——‘ph’ vs ‘pe’；grave（坟墓/严重的） vs grape——‘v’ vs ‘p’；graze（放牧） vs grape——‘z’ vs ‘p’；grope（摸索） vs grape——‘o’ vs ‘a’；garage（车库） vs grape——‘a…ge’ vs ‘ape’。",
+        "extendedMeaning": "考研僻义：n. 葡萄色（紫红色）；v. 采摘葡萄（罕见，但可用于农业语境）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "graph",
+      "word": "graph",
+      "phonetic": "/grɑ:f/",
+      "meaning": "n.图表,曲线图",
+      "similar": [
+        "grape",
+        "graphic",
+        "gap",
+        "rap",
+        "grab",
+        "grip",
+        "rape",
+        "rash"
+      ],
+      "question": {
+        "wordId": "graph",
+        "stem": "选择 \"graph\" 的正确中文意思：",
+        "correct": "n.图表,曲线图",
+        "options": [
+          "n.葡萄",
+          "n.缺口;差距;空白;缺乏",
+          "n.图表,曲线图",
+          "a.绘画似的, 图解的,生动的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语‘graphein’（写、画）。‘graph’作为词根意为‘写、画’，其核心物理动作是用笔在纸上刻画线条或符号，从而形成可读的记录。作为独立名词，特指用线条和点展示数据关系的图表或曲线图。",
+        "similarWarning": "grape（葡萄） vs graph（图表）：字母‘e’ vs ‘h’，葡萄是可食用的水果，图表是数据可视化工具。\ngraphic（图表的；生动的） vs graph：加‘-ic’形容词后缀，表示与图表相关的或描述生动的。\ngap（缺口） vs graph：字母‘p’ vs ‘ph’，缺口是空间上的间断，图表是结构化的数据展示。\nrap（说唱；敲击） vs graph：字母‘r’ vs ‘gr’，说唱是音乐形式，敲击是动作。\ngrab（抓取） vs graph：字母‘b’ vs ‘ph’，抓取是迅速抓住的动作。\ngrip（紧握） vs graph：字母‘i’ vs ‘ph’，紧握是用力握住。\nrape（强奸） vs graph：字母‘e’ vs ‘ph’，强奸是暴力罪行。\nrash（皮疹；轻率的） vs graph：字母‘r’ vs ‘gr’，皮疹是皮肤症状，轻率是形容词。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "graphic",
+      "word": "graphic",
+      "phonetic": "/'græfik/",
+      "meaning": "a.绘画似的, 图解的,生动的",
+      "similar": [
+        "graph"
+      ],
+      "question": {
+        "wordId": "graphic",
+        "stem": "选择 \"graphic\" 的正确中文意思：",
+        "correct": "a.绘画似的, 图解的,生动的",
+        "options": [
+          "n.图表,曲线图",
+          "a.绘画似的, 图解的,生动的",
+          "n.走廊,通路",
+          "a.远的,遥远的,疏远的,偏僻的,细微的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "graph（写、画）+ -ic（形容词后缀）→ 与写画相关的 → 绘画的、图解的；引申为“生动的”如文字描写形象逼真。",
+        "similarWarning": "graph（n. 图表，曲线图）vs graphic（adj. 图解的，生动的）: graph无形容词后缀-ic，词性不同；graphic强调“用图表达的”或“描述生动”。",
+        "extendedMeaning": "在考研阅读中常考“生动的，形象的”（尤指文字描述或影像细节逼真），如graphic description（生动的描述）或graphic violence（赤裸裸的暴力画面）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "grasp",
+      "word": "grasp",
+      "phonetic": "/grɑ:sp/",
+      "meaning": "v./n.抓住,抓紧;掌握,领会",
+      "similar": [
+        "gasp",
+        "grass",
+        "grease",
+        "gap",
+        "gas",
+        "rap",
+        "grab",
+        "grip"
+      ],
+      "question": {
+        "wordId": "grasp",
+        "stem": "选择 \"grasp\" 的正确中文意思：",
+        "correct": "v./n.抓住,抓紧;掌握,领会",
+        "options": [
+          "n.动物脂,油脂,润滑脂 v.抹油,润滑",
+          "n.草，草地",
+          "n.喘息,气喘 v.喘息;气吁吁地说",
+          "v./n.抓住,抓紧;掌握,领会"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语græpsian，本义为用手抓取。词根与grip同源，核心物理动作为五指用力合拢，引申为对抽象事物的掌控（如知识、机会）。",
+        "similarWarning": "grasp vs grip：grasp强调用手臂环绕抓取（如抓树枝），grip强调手指紧握（如握刀柄）。grasp vs grab：grab强调突然猛抓，grasp侧重稳固抓持。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "grass",
+      "word": "grass",
+      "phonetic": "/grɑ:s/",
+      "meaning": "n.草，草地",
+      "similar": [
+        "brass",
+        "grasp",
+        "gross",
+        "grease",
+        "gas",
+        "gasp",
+        "grab",
+        "mass"
+      ],
+      "question": {
+        "wordId": "grass",
+        "stem": "选择 \"grass\" 的正确中文意思：",
+        "correct": "n.草，草地",
+        "options": [
+          "a.总的,毛(重)的;粗鲁的,粗俗的 n.总额",
+          "n.草，草地",
+          "n.黄铜,铜器",
+          "v./n.抓住,抓紧;掌握,领会"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *grasan，与‘生长（grow）’同源，核心物理动作为‘从地面生长出的绿色覆盖物’，词根直指自然生长的草本植物。",
+        "similarWarning": "grasp（抓住）- grass（草），区别在于 p 与 s；glass（玻璃）- grass，区别在于 l 与 r。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "grateful",
+      "word": "grateful",
+      "phonetic": "/'greitful/",
+      "meaning": "a.(to,for)感激的;感谢的",
+      "similar": [
+        "graceful",
+        "careful",
+        "peaceful"
+      ],
+      "question": {
+        "wordId": "grateful",
+        "stem": "选择 \"grateful\" 的正确中文意思：",
+        "correct": "a.(to,for)感激的;感谢的",
+        "options": [
+          "a.(to,for)感激的;感谢的",
+          "a.优美的,文雅的,大方的",
+          "a.和平的,平静的,安宁的,爱好和平的",
+          "a.小心的,仔细的;细致的,精心的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语gratus（令人愉快的、感激的），后缀-ful（充满...的）。核心动作：因受到恩惠而内心充满愉悦的回应，即感激。",
+        "similarWarning": "graceful（优雅的）：grate-（感激） vs grace-（优雅）。careful（小心的）：grate- vs care-（关心）。peaceful（和平的）：grate- vs peace-（和平）。",
+        "extendedMeaning": "在考研阅读中可引申为‘令人欣慰的’或‘值得感谢的’，如‘a grateful rain’（一场及时雨）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "gratitude",
+      "word": "gratitude",
+      "phonetic": "/'grætɪtju:d/",
+      "meaning": "n.感激,感谢",
+      "similar": [
+        "latitude",
+        "altitude",
+        "attitude",
+        "multitude"
+      ],
+      "question": {
+        "wordId": "gratitude",
+        "stem": "选择 \"gratitude\" 的正确中文意思：",
+        "correct": "n.感激,感谢",
+        "options": [
+          "n.态度，看法(to, toward, about)；姿势",
+          "n.纬度,行动或言论的自由(范围),(pl.)地区",
+          "n.感激,感谢",
+          "n.高度，海拔；[pl.]高处，高地"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根: grat- (感谢, 愉悦) + -itude (抽象名词后缀, 表状态/性质)。核心动作: 内心感到愉悦并表达感谢的状态。",
+        "similarWarning": "latitude (纬度, 自由): 前缀 lat- (宽); altitude (高度): 前缀 alt- (高); attitude (态度, 姿势): 前缀 att- (趋向); 后缀均为 -itude。区分点在于前缀含义: 感谢 vs 宽 vs 高 vs 趋向。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "grave",
+      "word": "grave",
+      "phonetic": "/greiv/",
+      "meaning": "n.坟墓 a.严肃的,庄重的",
+      "similar": [
+        "brave",
+        "grace",
+        "grade",
+        "grape",
+        "graze",
+        "garage",
+        "gramme",
+        "grease"
+      ],
+      "question": {
+        "wordId": "grave",
+        "stem": "选择 \"grave\" 的正确中文意思：",
+        "correct": "n.坟墓 a.严肃的,庄重的",
+        "options": [
+          "a.勇敢的 v.勇敢地面对(危险等)",
+          "n.坟墓 a.严肃的,庄重的",
+          "n.等级,级别;年级;分数 v.分等,分级",
+          "n.优美,文雅;恩惠,恩泽;宽限,缓刑;感恩祷告"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 gravis（沉重的），核心物理动作为“重”。坟墓（grave）是沉重的归宿，引申为“严肃的、庄重的”，形容气氛或态度沉重而重要。",
+        "similarWarning": "brave（勇敢的） vs grave: b→g 首字母差异，词义无关联；grace（优雅） vs grave: c→v 辅音替换，词根不同；grade（等级） vs grave: d→v 尾字母差异，词源无关。",
+        "extendedMeaning": "在考研中，grave 作形容词常表“严重的、重大的”，如 grave consequences（严重后果），或“严峻的”，如 grave situation（严峻形势），非字面“坟墓”或“庄重”。",
+        "examUsage": "固定搭配：grave concern（严重关切）。真题例句：The economic crisis has caused grave concern among policymakers.（经济危机引起政策制定者的严重关切。）干扰项常设 graceful（优雅的）或 greedy（贪婪的）混淆。"
+      }
+    },
+    {
+      "id": "gravity",
+      "word": "gravity",
+      "phonetic": "/'græviti/",
+      "meaning": "n.重力,引力;严肃,庄重",
+      "similar": [
+        "morality"
+      ],
+      "question": {
+        "wordId": "gravity",
+        "stem": "选择 \"gravity\" 的正确中文意思：",
+        "correct": "n.重力,引力;严肃,庄重",
+        "options": [
+          "n.柱,杆;地极,磁极,电极",
+          "n.裤子",
+          "n.道德,美德",
+          "n.重力,引力;严肃,庄重"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'gravitas'，词根 'grav-' 表示“重”，与 'grave'（沉重的）同源。核心物理动作是“重压/下沉”，引申为“重力”和“严肃（沉重感）”。",
+        "similarWarning": "形近词：gravity vs. morality（道德）。差异：gravity 含词根 'grav'（重），morality 含词根 'mor'（风俗/道德）。",
+        "extendedMeaning": "在考研外刊中，'gravity' 常表“严重性/严峻性”（如 the gravity of the situation），而非仅物理重力。",
+        "examUsage": "常见考点：搭配 'with gravity'（严肃地）或 'the gravity of...'（...的严重性）。真题例句：He spoke with the gravity of a judge.（他以法官般的严肃语气说话。）"
+      }
+    },
+    {
+      "id": "graze",
+      "word": "graze",
+      "phonetic": "/greiz/",
+      "meaning": "vi.吃青草 vt.放牧;擦伤;掠过 .n.擦伤(处)",
+      "similar": [
+        "gaze",
+        "grace",
+        "grade",
+        "grape",
+        "grave",
+        "garage",
+        "gramme",
+        "grease"
+      ],
+      "question": {
+        "wordId": "graze",
+        "stem": "选择 \"graze\" 的正确中文意思：",
+        "correct": "vi.吃青草 vt.放牧;擦伤;掠过 .n.擦伤(处)",
+        "options": [
+          "v./n.凝视,注视",
+          "n.等级,级别;年级;分数 v.分等,分级",
+          "vi.吃青草 vt.放牧;擦伤;掠过 .n.擦伤(处)",
+          "n.优美,文雅;恩惠,恩泽;宽限,缓刑;感恩祷告"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语 grasian，与 grass（草）同源，核心物理动作为“吃草”→引申为动物在草地上进食；进而衍生出“放牧”（让动物吃草）。另一分支来自中古英语 graze 的“轻擦”义，拟声模仿轻触表面的动作，如“擦伤”或“掠过”表面。",
+        "similarWarning": "gaze（凝视）：g vs gr，区别在于 r 表示“草”的动作；grace（优雅）：a vs ra，强调优美而非摩擦；grade（等级）：d vs z，字母差异大；grape（葡萄）：p vs z，果物与动作无关；grave（坟墓）：v vs z，象征死亡；garage（车库）：无 r 后的 aze；gramme（克）：无 z 音；grease（油脂）：s vs z，油脂滑腻而非擦伤。",
+        "extendedMeaning": "考研常用僻义为“掠过”（飞机、子弹等轻触表面），如 The bullet grazed his arm（子弹擦过他的手臂），强调非穿透性的接触。",
+        "examUsage": "考研真题中常作动词，搭配 graze against/along（擦过），如 The car grazed the wall（汽车擦墙而过）。易与 glance（瞥见/掠过）混淆，但 graze 强调物理接触，glance 强调方向偏移。"
+      }
+    },
+    {
+      "id": "grease",
+      "word": "grease",
+      "phonetic": "/gri:s/",
+      "meaning": "n.动物脂,油脂,润滑脂 v.抹油,润滑",
+      "similar": [
+        "ease",
+        "cease",
+        "erase",
+        "grace",
+        "grade",
+        "grape",
+        "grasp",
+        "grass"
+      ],
+      "question": {
+        "wordId": "grease",
+        "stem": "选择 \"grease\" 的正确中文意思：",
+        "correct": "n.动物脂,油脂,润滑脂 v.抹油,润滑",
+        "options": [
+          "n.动物脂,油脂,润滑脂 v.抹油,润滑",
+          "v.擦掉;删去;消磁",
+          "v.减轻;使舒适,使安心 n.容易;舒适,悠闲",
+          "v./n.停止,中止"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语crassus‘脂肪’，词根为gras-‘脂肪’。grease指动物脂肪制成的油脂，核心物理动作是‘涂抹油脂使物体变滑’，引申为‘润滑’的抽象概念。",
+        "similarWarning": "grace（优雅，恩典）vs grease（油脂）：前者结尾-ce表抽象品质，后者结尾-ase表物质；grade（等级）vs grease：前者-d表划分，后者-s表油脂状；grasp（抓住）vs grease：前者-p表动作，后者-s表物质。",
+        "extendedMeaning": "考研僻义：贿赂（常指用金钱或礼物‘润滑’关系），如‘grease the wheels’（打通关节）中的grease作动词。",
+        "examUsage": "考点：grease常与oil（润滑油）近义替换，但grease侧重动物油脂或润滑脂，oil泛指油类。真题中可能作为干扰项，需注意搭配‘grease the pan’（给锅涂油）与‘grease the palm’（行贿）的区别。"
+      }
+    },
+    {
+      "id": "greedy",
+      "word": "greedy",
+      "phonetic": "/gri:di/",
+      "meaning": "a.贪吃的,贪婪的,渴望的",
+      "similar": [
+        "grey",
+        "reed",
+        "breed",
+        "green",
+        "greet",
+        "remedy"
+      ],
+      "question": {
+        "wordId": "greedy",
+        "stem": "选择 \"greedy\" 的正确中文意思：",
+        "correct": "a.贪吃的,贪婪的,渴望的",
+        "options": [
+          "n.芦苇,苇丛;芦笛,牧笛",
+          "v.(使)繁殖,生殖;产生;教养,抚养 n.品种",
+          "n./a.(gray)灰色(的)",
+          "a.贪吃的,贪婪的,渴望的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根来自古英语grædig（贪婪的），与greed（贪婪）同源，核心物理动作是“急切地抓取/吞食”，引申为对食物、财富或资源的过度渴求。",
+        "similarWarning": "greedy vs. green（绿色的）：greedy多字母d，强调渴望；green无d，指颜色。greedy vs. greet（问候）：greedy含ed，表状态；greet为动词。greedy vs. ready（准备好的）：greedy首字母g，ready首字母r，且ready侧重状态。",
+        "extendedMeaning": "在考研阅读中可引申为“渴望的”（be greedy for success），或形容“贪婪的”经济行为（如greedy market）。",
+        "examUsage": "常见搭配：be greedy for（渴望得到）。真题中可能作为干扰项，与ambitious（有雄心的）区分：greedy含贬义，ambitious偏中性/褒义。"
+      }
+    },
+    {
+      "id": "green",
+      "word": "green",
+      "phonetic": "/gri:n/",
+      "meaning": "a.绿色的;生的;未成熟的 n.绿色;蔬菜;植物",
+      "similar": [
+        "greet",
+        "greedy",
+        "screen",
+        "grey",
+        "grin",
+        "keen",
+        "reed",
+        "reel"
+      ],
+      "question": {
+        "wordId": "green",
+        "stem": "选择 \"green\" 的正确中文意思：",
+        "correct": "a.绿色的;生的;未成熟的 n.绿色;蔬菜;植物",
+        "options": [
+          "a.绿色的;生的;未成熟的 n.绿色;蔬菜;植物",
+          "v.致敬,敬意,迎接;扑(鼻),入(耳),触(目)",
+          "a.贪吃的,贪婪的,渴望的",
+          "n.屏幕,屏风;帘 v.掩蔽,包庇;筛选"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为古英语grene，与grow同源，核心动作是‘生长’的状态，指植物生长时的颜色，引申为‘未成熟的’（如green fruit）和‘生的’（如green wood）。",
+        "similarWarning": "green vs greet: green含字母n，greet含字母t，后者意为‘问候’；green vs screen: screen多字母s、c，意为‘屏幕’或‘遮蔽’。",
+        "extendedMeaning": "在考研中，‘green’可指‘环保的’（如green energy）、‘缺乏经验的’（如green hand）或‘嫉妒的’（如green with envy）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "greenhouse",
+      "word": "greenhouse",
+      "phonetic": "/'gri:nhaus/",
+      "meaning": "n.温室",
+      "similar": [
+        "warehouse",
+        "tremendous"
+      ],
+      "question": {
+        "wordId": "greenhouse",
+        "stem": "选择 \"greenhouse\" 的正确中文意思：",
+        "correct": "n.温室",
+        "options": [
+          "n.温室",
+          "a.慷慨的,大方的;富足的;自由的,思想开放的",
+          "a.巨大的,极大的",
+          "n.仓库,货栈"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "green（绿色） + house（房子） → 字面为“绿色的房子”，物理动作为“放置植物以保持温暖、促进生长的玻璃建筑”，引申指“温室”。",
+        "similarWarning": "warehouse（仓库） vs greenhouse：ware-（货物） + house，存放货物的建筑；greenhouse 强调植物培育环境。tremendous（巨大的）仅拼写含“house”部分，但词根为 trem-（颤抖），无关联。",
+        "extendedMeaning": "考研外刊中常引申为“温室效应”的简称，如 greenhouse gas（温室气体），或喻指“保护性环境”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "greet",
+      "word": "greet",
+      "phonetic": "/gri:t/",
+      "meaning": "v.致敬,敬意,迎接;扑(鼻),入(耳),触(目)",
+      "similar": [
+        "green",
+        "greedy",
+        "grey",
+        "reed",
+        "reel",
+        "rent",
+        "agree",
+        "breed"
+      ],
+      "question": {
+        "wordId": "greet",
+        "stem": "选择 \"greet\" 的正确中文意思：",
+        "correct": "v.致敬,敬意,迎接;扑(鼻),入(耳),触(目)",
+        "options": [
+          "v.致敬,敬意,迎接;扑(鼻),入(耳),触(目)",
+          "a.贪吃的,贪婪的,渴望的",
+          "a.绿色的;生的;未成熟的 n.绿色;蔬菜;植物",
+          "n./a.(gray)灰色(的)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根不详，但核心物理动作是“接近并引起注意”。源自古英语grētan，原义为“召唤、接触”，引申为“打招呼、迎接”。后扩展至感官感知，如“扑鼻（气味）、入耳（声音）、触目（景象）”，本质是某物主动“接触”人的感官。",
+        "similarWarning": "great /ɡreɪt/（伟大的）：字母a vs ee，发音不同。green /ɡriːn/（绿色）：字母n vs t。greedy /ˈɡriːdi/（贪婪的）：词尾dy。",
+        "extendedMeaning": "v. 扑（鼻）、入（耳）、触（目）：指气味、声音、景象等强烈地作用于感官。例：The smell of freshly baked bread greets you as you enter.（一进门，新鲜面包的香气便扑鼻而来。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "greeting",
+      "word": "greeting",
+      "phonetic": "/'gri:tiŋ/",
+      "meaning": "n.问候,致敬",
+      "similar": [
+        "preceding",
+        "reading",
+        "setting",
+        "writing",
+        "proceeding"
+      ],
+      "question": {
+        "wordId": "greeting",
+        "stem": "选择 \"greeting\" 的正确中文意思：",
+        "correct": "n.问候,致敬",
+        "options": [
+          "n.问候,致敬",
+          "a.在前的,在先的",
+          "n.读书,读物,(仪表等的)读数,阅读",
+          "n.安置;落山;(固定东西的)柜架底座;环境"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自 greet（v.问候，致敬）的动名词形式。greet 源自古英语 gretan，本义为“接触、走向”，核心动作是“主动接近以表达友好”。-ing 后缀将动词转化为名词，表示“问候的行为或言语”。",
+        "similarWarning": "meeting（n.会议，会面）与 greeting 仅首字母不同，但 meeting 强调“聚集、开会”；preceding（adj.在前的）与 greeting 拼写差异在于前缀 pre-（前）和核心词根 ced（走），意为“走在前面”；feeling（n.感觉）与 greeting 仅首字母不同，词根 feel 表示“触觉、情感”；reading（n.阅读）与 greeting 仅首字母不同，词根 read 意为“读”；setting（n.设置，环境）与 greeting 仅首字母不同，词根 set 意为“放置”；writing（n.写作）与 greeting 仅首字母不同，词根 writ 意为“写”；proceeding（n.进行，程序）与 greeting 拼写差异在于前缀 pro-（向前）和词根 ceed（走），意为“向前进行”。",
+        "extendedMeaning": "在考研语境中，greeting 常引申为“欢迎辞、致意方式”，如 exchange greetings（互致问候），但不涉及更深层的僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "grey",
+      "word": "grey",
+      "phonetic": "/grei/",
+      "meaning": "n./a.(gray)灰色(的)",
+      "similar": [
+        "prey",
+        "greedy",
+        "agree",
+        "green",
+        "greet",
+        "grief"
+      ],
+      "question": {
+        "wordId": "grey",
+        "stem": "选择 \"grey\" 的正确中文意思：",
+        "correct": "n./a.(gray)灰色(的)",
+        "options": [
+          "vi.答应，赞同；适合，一致；商定，约定",
+          "a.贪吃的,贪婪的,渴望的",
+          "n.被掠食者,牺牲者,掠食 v.捕食,掠夺,折磨",
+          "n./a.(gray)灰色(的)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*grēwaz，核心物理动作为“混合、模糊”，指黑白混合后的中间色调。词根无复杂派生，直接对应颜色本身。",
+        "similarWarning": "prey（猎物）：p-开头，强调捕食对象；grey（灰色）：g-开头，颜色词。greedy（贪婪的）：多ed后缀，表欲望；grey无此后缀。agree（同意）：a-前缀+gree（满意），与grey拼写差a/g。great（伟大的）：ea组合发长音，grey发双元音。green（绿色）：双e字母，表植物色；grey为ey结尾。greet（问候）：双e+ t，表迎接动作；grey无t。grief（悲伤）：ie组合+ f，表情感；grey无f。",
+        "extendedMeaning": "考研中常引申为“暗淡的、无生气的”，如grey economy（灰色经济，指未申报的非法或隐蔽经济活动）；grey area（灰色地带，指模糊、难以界定的领域）。",
+        "examUsage": "真题考点：grey常作为干扰项，与green（绿色）在环保话题中混淆。核心短语：grey market（灰市，指通过非正规渠道交易但非完全非法）。真题例句：The grey area between legal and illegal activities often confuses regulators.（合法与非法活动之间的灰色地带常使监管者困惑。）"
+      }
+    }
+  ]
+}

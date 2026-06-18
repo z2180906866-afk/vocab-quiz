@@ -1,0 +1,1729 @@
+{
+  "batchId": 74,
+  "words": [
+    {
+      "id": "spacecraft",
+      "word": "spacecraft",
+      "phonetic": "/'speiskrɑ:ft/",
+      "meaning": "n.宇宙飞船",
+      "similar": [
+        "aircraft"
+      ],
+      "question": {
+        "wordId": "spacecraft",
+        "stem": "选择 \"spacecraft\" 的正确中文意思：",
+        "correct": "n.宇宙飞船",
+        "options": [
+          "n.飞机，飞船，飞行器",
+          "a.室外的,野外的",
+          "v.(使)旋转,打转 n.旋转;-连串快速的活动",
+          "n.宇宙飞船"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由 'space'（空间、太空）和 'craft'（船、飞行器）复合而成，字面意为“太空飞行器”。核心动作：在太空中航行的载具。",
+        "similarWarning": "与 aircraft（飞行器）仅首词不同：air（空气）vs space（太空）。aircraft 指大气层内飞行器（如飞机），spacecraft 指太空飞行器（如飞船）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "spaceship",
+      "word": "spaceship",
+      "phonetic": "/'speisʃip/",
+      "meaning": "n.宇宙飞船",
+      "similar": [
+        "leadership"
+      ],
+      "question": {
+        "wordId": "spaceship",
+        "stem": "选择 \"spaceship\" 的正确中文意思：",
+        "correct": "n.宇宙飞船",
+        "options": [
+          "n.(bike)自行车 vi.骑自行车",
+          "n.小麦",
+          "n.领导",
+          "n.宇宙飞船"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "space（空间）+ ship（船）→ 在太空航行的船，即宇宙飞船。直接组合词，无复杂词源演变。",
+        "similarWarning": "形近词：leadership（领导力）- 结尾-ship不同，spaceship侧重物理物体，leadership侧重抽象能力。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "spacious",
+      "word": "spacious",
+      "phonetic": "/'speiʃəs/",
+      "meaning": "adj.广阔的，宽敞的",
+      "similar": [
+        "gracious",
+        "suspicious",
+        "species",
+        "various",
+        "vicious",
+        "precious"
+      ],
+      "question": {
+        "wordId": "spacious",
+        "stem": "选择 \"spacious\" 的正确中文意思：",
+        "correct": "adj.广阔的，宽敞的",
+        "options": [
+          "a.(of)可疑的,多疑的,疑心的",
+          "adj.广阔的，宽敞的",
+          "n.(物)种,种类",
+          "a.亲切的,客气的;宽厚的,仁慈的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'spatium'（空间，空地），后缀 -ous（充满...的）。核心逻辑：spac(e)（空间）+ ious（形容词后缀）→ 充满空间的 → 广阔的，宽敞的。",
+        "similarWarning": "gracious（优雅的） vs spacious（宽敞的）：gra-（优雅） vs spa-（空间）；suspicious（怀疑的） vs spacious：sus-（向下） vs spa-（空间）；precious（珍贵的） vs spacious：pre-（前） vs spa-（空间）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "spade",
+      "word": "spade",
+      "phonetic": "/'speid/",
+      "meaning": "n.铁锹,铲子",
+      "similar": [
+        "shade",
+        "spare",
+        "spider",
+        "pad",
+        "fade",
+        "pace",
+        "pale",
+        "pave"
+      ],
+      "question": {
+        "wordId": "spade",
+        "stem": "选择 \"spade\" 的正确中文意思：",
+        "correct": "n.铁锹,铲子",
+        "options": [
+          "n.铁锹,铲子",
+          "n.蜘蛛",
+          "a.多余的,备用的 v.节约,节省;抽出(时间)",
+          "n.荫,阴影;遮光物,罩 v.遮蔽,遮光"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*spaþō，核心动作为“挖、掘”。词根spad-意为“扁平的工具”，与“铲子”的物理形状和挖掘功能直接对应。",
+        "similarWarning": "shade（n.阴凉处；v.遮蔽）：字母p替换为h，词义完全不同。space（n.空间；v.分隔）：字母d替换为c，含义抽象。spare（v.节省；adj.多余的）：字母d替换为r，侧重剩余。spider（n.蜘蛛）：字母d替换为der，指八足昆虫。pad（n.垫子；v.填充）：缺少s，指软垫。sad（adj.悲伤的）：缺少p，指情绪。fade（v.褪色；消失）：首字母f替换s，指颜色消退。pace（n.步伐；v.踱步）：首字母p替换s，指步速。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "span",
+      "word": "span",
+      "phonetic": "/spæn/",
+      "meaning": "n.跨度,跨距",
+      "similar": [
+        "pan",
+        "scan",
+        "spin",
+        "swan",
+        "spade",
+        "spare",
+        "spark",
+        "spear"
+      ],
+      "question": {
+        "wordId": "span",
+        "stem": "选择 \"span\" 的正确中文意思：",
+        "correct": "n.跨度,跨距",
+        "options": [
+          "v.细看,审视;浏览;扫描 n.扫描",
+          "n.平底锅,盘子,面板",
+          "v.旋转;纺纱;织网,吐丝 n.旋转;自转",
+          "n.跨度,跨距"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语“spann”，原指“拇指尖到小指尖张开的距离”，核心动作是“伸展、覆盖”。词根sp-（伸展）与-pan（张开）组合，表示“伸展覆盖一个空间或时间长度”。",
+        "similarWarning": "scan（扫描）：sc-（看）+ -an，强调“快速浏览”；span（跨度）：sp-（伸展）+ -an，强调“长度覆盖”。spin（旋转）：sp-（旋转）+ -in，强调“转动”；swan（天鹅）：sw-（优雅）+ -an，名词。",
+        "extendedMeaning": "n.持续时间，一段时间（如attention span注意力持续时间）；v.跨越，横跨（如span the globe覆盖全球）。",
+        "examUsage": "真题考点：life span（寿命）作为核心搭配出现，常与extend、shorten连用；span作动词时，后接时间或空间名词，如span a decade（跨越十年）。"
+      }
+    },
+    {
+      "id": "spare",
+      "word": "spare",
+      "phonetic": "/spεə/",
+      "meaning": "a.多余的,备用的 v.节约,节省;抽出(时间)",
+      "similar": [
+        "scare",
+        "share",
+        "spade",
+        "spark",
+        "stare",
+        "sparkle",
+        "aspire",
+        "scarce"
+      ],
+      "question": {
+        "wordId": "spare",
+        "stem": "选择 \"spare\" 的正确中文意思：",
+        "correct": "a.多余的,备用的 v.节约,节省;抽出(时间)",
+        "options": [
+          "n.铁锹,铲子",
+          "n.惊恐,恐慌v.惊吓,受惊",
+          "a.多余的,备用的 v.节约,节省;抽出(时间)",
+          "v.(with)分配,共用;分担n.一份,份额;股份"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根来自古英语sparian，意为‘避免使用、节省’。核心动作是‘留出、不消耗’，引申为‘多余的（可留出的）’和‘备用的（预留的）’。",
+        "similarWarning": "scare（v.惊吓）：s与c之差，spare是‘节省’，scare是‘害怕’。share（v.分享）：p与h之差，spare强调‘留出’，share强调‘分配’。space（n.空间）：r与c之差，spare是‘多余的’，space是‘空间’。spade（n.铲子）：r与d之差，spare是‘节省’，spade是‘工具’。spark（n.火花）：e与k之差，spare是‘备用’，spark是‘火星’。stare（v.凝视）：p与t之差，spare是‘节约’，stare是‘盯着’。sparkle（v.闪烁）：e与kle之差，spare是‘节省’，sparkle是‘发光’。aspire（v.渴望）：spare的a-前缀变为as-，spare是‘节省’，aspire是‘追求’。",
+        "extendedMeaning": "v.抽出（时间/精力）：如spare a moment（抽出片刻），常用于真题中表示‘腾出’资源。n.（备用零件/备胎）：如spare tyre（备胎），引申为‘冗余资源’。",
+        "examUsage": "核心短语：spare no effort（不遗余力），spare sb's feelings（避免伤害某人感情）。真题例句：He spared no expense to ensure the success of the project.（他不惜代价确保项目成功。）——干扰项常与‘save’混淆，spare强调‘留出’，save强调‘节省’。"
+      }
+    },
+    {
+      "id": "spark",
+      "word": "spark",
+      "phonetic": "/spɑ:k/",
+      "meaning": "n.火花,火星 v.发火花,发电花",
+      "similar": [
+        "shark",
+        "spare",
+        "sparkle",
+        "bark",
+        "mark",
+        "pack",
+        "pork",
+        "sack"
+      ],
+      "question": {
+        "wordId": "spark",
+        "stem": "选择 \"spark\" 的正确中文意思：",
+        "correct": "n.火花,火星 v.发火花,发电花",
+        "options": [
+          "n.火花,火星 v.发火花,发电花",
+          "n.鲨鱼",
+          "a.多余的,备用的 v.节约,节省;抽出(时间)",
+          "v.发火花,闪耀"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源未明确，但核心物理动作是“迸发微小发光颗粒”。spark 指瞬间迸发的火星或电火花，引申为引发、触发某事的导火索。",
+        "similarWarning": "spark vs. park (停车场): s-无实义 vs. p-停车；spark vs. shark (鲨鱼): s-火花 vs. sh-鱼；spark vs. spare (多余的): -k 火花 vs. -e 多余；spark vs. sparkle (闪耀): -k 名词性火花 vs. -kle 动词性闪烁。",
+        "extendedMeaning": "考研僻义：v. 触发，引发（尤指激烈或突然的事件）。例：spark a debate (引发辩论)；spark interest (激发兴趣)。",
+        "examUsage": "考点直击：真题中常考 spark 作为动词的引申义，与 ignite, trigger 同义替换。例：The report sparked a heated discussion. (该报告引发了一场热烈讨论。)"
+      }
+    },
+    {
+      "id": "sparkle",
+      "word": "sparkle",
+      "phonetic": "/'spɑ:kl/",
+      "meaning": "v.发火花,闪耀",
+      "similar": [
+        "spare",
+        "spark",
+        "startle",
+        "separate",
+        "sprinkle"
+      ],
+      "question": {
+        "wordId": "sparkle",
+        "stem": "选择 \"sparkle\" 的正确中文意思：",
+        "correct": "v.发火花,闪耀",
+        "options": [
+          "v.惊吓,使吃惊",
+          "n.火花,火星 v.发火花,发电花",
+          "a.多余的,备用的 v.节约,节省;抽出(时间)",
+          "v.发火花,闪耀"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自中古英语 'sparklen'，与 'spark'（火花）同源，-le 为反复或小幅度动作后缀。核心物理动作：产生小火花并闪烁，强调细碎、闪烁的光点动态，区别于 'shine' 的稳定发光。",
+        "similarWarning": "sparkle vs spark: sparkle 强调连续闪烁（动词/名词），spark 指单个火花或引发（名词/动词）。sparkle vs startle: startle 意为惊吓，-le 后缀不同，拼写差异在 'k' vs 't'。",
+        "extendedMeaning": "考研僻义：v. 闪耀（指才华、魅力等抽象特质）；n. 生气、活力。例如：Her eyes sparkled with wit.（她的眼睛闪烁着智慧。）",
+        "examUsage": "真题考点：常与 'with' 连用，如 'sparkle with excitement'，在阅读中作为描述人物或场景的生动动词出现，干扰项可能涉及 'spark' 的误用。"
+      }
+    },
+    {
+      "id": "speaker",
+      "word": "speaker",
+      "phonetic": "/'spi:kə/",
+      "meaning": "n.说话者，发言者；说某种语言者；扬声器",
+      "similar": [
+        "spear",
+        "steamer",
+        "sweater"
+      ],
+      "question": {
+        "wordId": "speaker",
+        "stem": "选择 \"speaker\" 的正确中文意思：",
+        "correct": "n.说话者，发言者；说某种语言者；扬声器",
+        "options": [
+          "n.说话者，发言者；说某种语言者；扬声器",
+          "n.矛,枪",
+          "n.汽船,轮船",
+          "n.毛衣,绒衣,厚运动衫"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根词缀逻辑：源自 speak（说）+ -er（表示人或物），核心动作是“发出声音或语言的人或装置”。",
+        "similarWarning": "speak（说，动词）、spear（矛，名词/动词）、steamer（蒸汽机/蒸锅，名词）、sweater（毛衣，名词）。拼写差异：speaker 含“-er”表人或物；spear 以“-ear”结尾，无“k”；steamer 含“-team-”表蒸汽；sweater 含“-wea-”表穿着的衣服。",
+        "extendedMeaning": "考研僻义：在语境中可引申为“代言人、倡导者”，如 a speaker for the group（团体代言人）；或指“演讲者”的正式身份。",
+        "examUsage": "真题考点：常与 address（演讲）、audience（听众）搭配，如 the keynote speaker（主题发言人）；注意区分 speaker 与 spokesman（官方发言人）的正式程度。"
+      }
+    },
+    {
+      "id": "spear",
+      "word": "spear",
+      "phonetic": "/spiə/",
+      "meaning": "n.矛,枪",
+      "similar": [
+        "pear",
+        "shear",
+        "swear",
+        "speaker",
+        "appear",
+        "spread",
+        "ear",
+        "pea"
+      ],
+      "question": {
+        "wordId": "spear",
+        "stem": "选择 \"spear\" 的正确中文意思：",
+        "correct": "n.矛,枪",
+        "options": [
+          "n.梨子,梨树",
+          "n.矛,枪",
+          "v.(at)诅咒,骂人;宣誓,发誓",
+          "v.剪,修剪"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根源自原始日耳曼语*speru（长木杆），核心物理动作是“投掷”或“刺穿”，矛作为武器本质是“一根用于刺击或投掷的长杆”。",
+        "similarWarning": "pear（梨）：p-开头，spear多s表“刺”工具；shear（剪）：sh-表“剪切”，与spear首字母不同；speak（说话）：-ak结尾，spear以-ear结尾，动作差异大。",
+        "extendedMeaning": "考研中无高频僻义，仅保留基本词义。",
+        "examUsage": "考研真题中常以复合词形式出现，如spearhead（先锋、带头），例如：He spearheaded the reform.（他率先进行改革。）"
+      }
+    },
+    {
+      "id": "specialist",
+      "word": "specialist",
+      "phonetic": "/'speʃəlist/",
+      "meaning": "n.专家",
+      "similar": [
+        "speciality",
+        "specialize",
+        "socialism",
+        "specific"
+      ],
+      "question": {
+        "wordId": "specialist",
+        "stem": "选择 \"specialist\" 的正确中文意思：",
+        "correct": "n.专家",
+        "options": [
+          "v.(specialise)(in)专攻,专门研究,专业化",
+          "n.(specialty)特性，性质；专业/长；特产",
+          "n.社会主义",
+          "n.专家"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根special（特别的）+ -ist（从事…的人）→ 在特定领域有特别专长的人 → 专家。核心动作：聚焦于某一特殊领域。",
+        "similarWarning": "speciality（n.专长，特产）侧重领域或产品；specialize（v.专门研究）强调动作；socialism（n.社会主义）拼写相近但词义完全无关；specific（adj.具体的）侧重明确细节；especially（adv.尤其）侧重程度，注意词尾-ly。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "speciality",
+      "word": "speciality",
+      "phonetic": "/ˌspeʃi'æləti/",
+      "meaning": "n.(specialty)特性，性质；专业/长；特产",
+      "similar": [
+        "specialist",
+        "specialize",
+        "superiority",
+        "equality",
+        "facility",
+        "locality",
+        "security",
+        "specific"
+      ],
+      "question": {
+        "wordId": "speciality",
+        "stem": "选择 \"speciality\" 的正确中文意思：",
+        "correct": "n.(specialty)特性，性质；专业/长；特产",
+        "options": [
+          "n.(specialty)特性，性质；专业/长；特产",
+          "n.优越(性)，优势，优等；高傲，傲慢",
+          "n.专家",
+          "v.(specialise)(in)专攻,专门研究,专业化"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 specialis（特别的，特殊的），由 species（种类，外观）+ -ity（抽象名词后缀）组成。本义为“具有某种特别属性的事物”，引申为“专业领域”或“特色产品”。",
+        "similarWarning": "speciality vs. specialist（专家）：-ist 表人，-ity 表属性/事物。specialize（专攻）：-ize 动词后缀，表“使……专门化”。especially（尤其）：-ly 副词后缀，表“特别地”。superiority（优越性）：superior（更优的）+ -ity，表“优越状态”。equality（平等）：equal（相等的）+ -ity。facility（设施/便利）：facile（容易的）+ -ity。locality（地点）：local（当地的）+ -ity。security（安全）：secure（安全的）+ -ity。",
+        "extendedMeaning": "在考研阅读中常表“专业；专长”，如“a doctor with a speciality in cardiology”（心脏病学专家），或“地方特产”，如“local specialities”（当地特色产品）。",
+        "examUsage": "高频搭配：in speciality（在专业方面）；speciality store（专卖店）。真题例句：\"The restaurant is famous for its seafood specialities.\"（该餐厅以其海鲜特色菜闻名。）"
+      }
+    },
+    {
+      "id": "specialize",
+      "word": "specialize",
+      "phonetic": "/'speʃəlaiz/",
+      "meaning": "v.(specialise)(in)专攻,专门研究,专业化",
+      "similar": [
+        "specialist",
+        "speciality",
+        "specific",
+        "socialism",
+        "spectacle",
+        "speculate"
+      ],
+      "question": {
+        "wordId": "specialize",
+        "stem": "选择 \"specialize\" 的正确中文意思：",
+        "correct": "v.(specialise)(in)专攻,专门研究,专业化",
+        "options": [
+          "a.明确的,具体的;特定的,特有的",
+          "n.(specialty)特性，性质；专业/长；特产",
+          "n.专家",
+          "v.(specialise)(in)专攻,专门研究,专业化"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根spec-（看） + -ial（形容词后缀，与……相关） + -ize（动词后缀，使……化）。核心动作是“使成为特殊的/专门的”，即从一般领域分离出来，聚焦于特定方向，引申为“专攻、专门研究”。",
+        "similarWarning": "specialize vs. specify：-ize表“化”，强调过程；-ify表“使……确定”，specify是“具体说明、明确指定”。specialize vs. speculate：speculate词根spec-（看） + -ulate（动词后缀），本义“观察、推测”，与“专门化”无关。",
+        "extendedMeaning": "在考研阅读中，specialize常引申为“（生物/组织）分化、特化”，如细胞分化（cell specialize）；或指经济/产业的“专业化分工”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "species",
+      "word": "species",
+      "phonetic": "/'spi:ʃi:z/",
+      "meaning": "n.(物)种,种类",
+      "similar": [
+        "specimen",
+        "series",
+        "specify",
+        "spacious",
+        "specific"
+      ],
+      "question": {
+        "wordId": "species",
+        "stem": "选择 \"species\" 的正确中文意思：",
+        "correct": "n.(物)种,种类",
+        "options": [
+          "n.(物)种,种类",
+          "n.标本,样本",
+          "n.一系列,连续;丛书",
+          "v.指定,详细说明"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 species（看见，外观，种类），由 spec-（看）+-ies（抽象名词后缀）构成。核心物理动作为“看见后的分类”，即根据视觉外观将事物归为不同种类。",
+        "similarWarning": "specimen（样本）：侧重个体代表；species（物种）：侧重生物分类单位。series（系列）：侧重顺序连接；species（物种）：侧重类别划分。",
+        "extendedMeaning": "考研中常引申为“类别，类型”，不限于生物学，如 a species of crime（一种罪行）。",
+        "examUsage": "真题考点：常与 endangered（濒危的）、extinct（灭绝的）搭配，如 endangered species（濒危物种）。注意区分 species 单复数同形。"
+      }
+    },
+    {
+      "id": "specific",
+      "word": "specific",
+      "phonetic": "/spi'sifik/",
+      "meaning": "a.明确的,具体的;特定的,特有的",
+      "similar": [
+        "specify",
+        "species",
+        "specimen",
+        "scientific",
+        "specialist",
+        "speciality",
+        "specialize"
+      ],
+      "question": {
+        "wordId": "specific",
+        "stem": "选择 \"specific\" 的正确中文意思：",
+        "correct": "a.明确的,具体的;特定的,特有的",
+        "options": [
+          "n.标本,样本",
+          "a.明确的,具体的;特定的,特有的",
+          "v.指定,详细说明",
+          "n.(物)种,种类"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根spec-（看）+ -ific（形容词后缀，表“产生…的”）。核心动作：通过“看”来区分并确定细节。词源上，specific原指“使能被看见的”，后引申为“明确的、具体的”；进而指“特定的、特有的”，即通过观察将其从同类中区分出来。",
+        "similarWarning": "specific vs. special: specific强调“具体的、明确的细节”，如specific reason（具体原因）；special强调“特别的、不一般的”，如special offer（特价）。specify是动词“具体指定”，specific是其形容词形式。",
+        "extendedMeaning": "考研中specific常引申为“（疾病、药物等）特效的”或“（法律、规则）针对特定情况的”，如specific antibody（特异性抗体）、specific performance（特定履行，合同法术语）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "specification",
+      "word": "specification",
+      "phonetic": "/ˌspesifi'keiʃən/",
+      "meaning": "n.详述;(常pl.)规格,说明书,规范",
+      "similar": [
+        "identification",
+        "qualification",
+        "classification",
+        "application",
+        "publication"
+      ],
+      "question": {
+        "wordId": "specification",
+        "stem": "选择 \"specification\" 的正确中文意思：",
+        "correct": "n.详述;(常pl.)规格,说明书,规范",
+        "options": [
+          "n.详述;(常pl.)规格,说明书,规范",
+          "n.分类,分级",
+          "n.识别,鉴别;证件;认同",
+          "n.资格,合格;限定,条件;合格证"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根spec-（看）+ -fic-（做，使）+ -ation（名词后缀）。核心动作：使某个东西能被看到/被明确界定。词义演变：specify（具体说明）→ specification（具体说明的行为/产物）→ 引申为“规格、说明书”，即把产品、流程的具体细节明确列出来供人查看。",
+        "similarWarning": "与qualification（资格；限定）易混：specification侧重“具体规格/说明”，qualification侧重“资格/资质”或“限定条件”。对比：spec-（看，明确）vs. qual-（品质，类别）。",
+        "extendedMeaning": "在考研阅读中常考“规格、技术规范”的复数形式specifications，指产品或工程的详细技术标准与参数，如technical specifications（技术规范）。",
+        "examUsage": "核心搭配：meet the specifications（符合规格），常用于科技类或商业类阅读，作为细节题定位词。真题例句：The product must meet the specifications set by the regulatory agency. (该产品必须符合监管机构制定的规格。)"
+      }
+    },
+    {
+      "id": "specify",
+      "word": "specify",
+      "phonetic": "/'spesəfai/",
+      "meaning": "v.指定,详细说明",
+      "similar": [
+        "specific",
+        "species",
+        "specimen"
+      ],
+      "question": {
+        "wordId": "specify",
+        "stem": "选择 \"specify\" 的正确中文意思：",
+        "correct": "v.指定,详细说明",
+        "options": [
+          "n.(物)种,种类",
+          "n.标本,样本",
+          "a.明确的,具体的;特定的,特有的",
+          "v.指定,详细说明"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "spec-（看，观察）+ -fy（使动后缀）→ 使……被看清楚 → 指定、详细说明。核心动作是‘把模糊的东西变清晰’，强调从宽泛概念中精确选定或列出具体细节。",
+        "similarWarning": "specific（具体的，明确的）：specify的形容词形式，强调细节清晰。special（特殊的）：词根spec-变体，侧重与众不同。species（物种）：词根同源，指可被观察分类的群体。specimen（标本）：-men名词后缀，指用于观察的样本。",
+        "extendedMeaning": "在考研阅读中，specify常引申为‘明确界定’或‘具体规定’，如合同条款中specify the terms（明确条款），或技术文档中specify parameters（指定参数）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "specimen",
+      "word": "specimen",
+      "phonetic": "/'spesimin/",
+      "meaning": "n.标本,样本",
+      "similar": [
+        "species",
+        "specify",
+        "specific",
+        "experiment"
+      ],
+      "question": {
+        "wordId": "specimen",
+        "stem": "选择 \"specimen\" 的正确中文意思：",
+        "correct": "n.标本,样本",
+        "options": [
+          "a.明确的,具体的;特定的,特有的",
+          "v.指定,详细说明",
+          "n.(物)种,种类",
+          "n.标本,样本"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 spec-（看，观察）+ -imen（名词后缀，表示结果或工具）。核心动作是“用于观察、查看的东西”，即作为研究或分析对象的典型样本。",
+        "similarWarning": "specimen vs. species（物种，种类）：specimen 强调单个样本，species 强调生物学分类的群体。",
+        "extendedMeaning": "考研中常引申为“（医学检验的）样本”，如 blood specimen（血样）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "spectacle",
+      "word": "spectacle",
+      "phonetic": "/'spektəkl/",
+      "meaning": "n.(pl.)眼镜;场面,景象;奇观,壮观",
+      "similar": [
+        "spectacular",
+        "spectator",
+        "specialize"
+      ],
+      "question": {
+        "wordId": "spectacle",
+        "stem": "选择 \"spectacle\" 的正确中文意思：",
+        "correct": "n.(pl.)眼镜;场面,景象;奇观,壮观",
+        "options": [
+          "v.(specialise)(in)专攻,专门研究,专业化",
+          "n.观众,旁观者",
+          "a.壮观的,引人注目的 n.壮观的演出",
+          "n.(pl.)眼镜;场面,景象;奇观,壮观"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根spec-（看）+ -acle（名词后缀，表示小物件或结果）。核心动作：看到的东西→景象。眼镜是帮助看清的小物件，引申为壮观场面。",
+        "similarWarning": "spectacular（壮观的，形容词） vs spectacle（名词）：-cular表形容词，-cle表名词。spectator（观众） vs spectacle：-or表人，-acle表物。",
+        "extendedMeaning": "考研僻义：指代‘公开的表演或展示’，如‘a media spectacle’（媒体盛宴），强调人为制造的轰动事件。",
+        "examUsage": "常见搭配：make a spectacle of oneself（出洋相），真题中作干扰项，侧重‘引人注目的行为’而非字面‘眼镜’。"
+      }
+    },
+    {
+      "id": "spectacular",
+      "word": "spectacular",
+      "phonetic": "/spek'tækjulə/",
+      "meaning": "a.壮观的,引人注目的 n.壮观的演出",
+      "similar": [
+        "spectacle",
+        "spectator"
+      ],
+      "question": {
+        "wordId": "spectacular",
+        "stem": "选择 \"spectacular\" 的正确中文意思：",
+        "correct": "a.壮观的,引人注目的 n.壮观的演出",
+        "options": [
+          "n.(pl.)眼镜;场面,景象;奇观,壮观",
+          "a.壮观的,引人注目的 n.壮观的演出",
+          "n.争论(吵)，辩论；理由;论证",
+          "n.观众,旁观者"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 spectare（看，注视），与 spect-（看）同源。核心动作：吸引目光的观看效果。词根 spect-（看）+ -acular（形容词后缀，表“具有…性质的”），字面即“值得看的、引人注目的”，引申为“壮观的”。",
+        "similarWarning": "spectacle（n. 景象，奇观；眼镜） vs spectator（n. 观众，旁观者） vs particular（a. 特定的，特别的）：注意 spect- 与 part- 词根差异；spectacular 强调“视觉冲击”，particular 强调“个体独特性”。",
+        "extendedMeaning": "在考研外刊中常引申为“惊人的、巨大的”（程度副词），如 spectacular success（巨大成功），非仅指视觉壮观。",
+        "examUsage": "真题考点：常作形容词修饰名词，如 spectacular growth（惊人增长），作名词时指“盛大的演出”。注意与 spectacularly（副词）搭配，如 rise spectacularly（急剧上升）。"
+      }
+    },
+    {
+      "id": "spectator",
+      "word": "spectator",
+      "phonetic": "/spek'teitə/",
+      "meaning": "n.观众,旁观者",
+      "similar": [
+        "senator",
+        "operator",
+        "spectacle",
+        "expectation",
+        "spectacular"
+      ],
+      "question": {
+        "wordId": "spectator",
+        "stem": "选择 \"spectator\" 的正确中文意思：",
+        "correct": "n.观众,旁观者",
+        "options": [
+          "n.参议员",
+          "n.观众,旁观者",
+          "n.操作人员,(电话)接线员",
+          "n.(pl.)眼镜;场面,景象;奇观,壮观"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语spectare（看）的施动者名词后缀-ator。词根spec-（看）→ spectator即“观看的人”，核心动作是“用眼睛观察”。",
+        "similarWarning": "spectacle（n.景象，眼镜） vs spectator（n.观众）：spectacle强调“被看的事物/景象”；spectator强调“看的人”。",
+        "extendedMeaning": "在考研阅读中常引申为“旁观者”（区别于参与者），如：a mere spectator 仅仅是个旁观者。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "spectrum",
+      "word": "spectrum",
+      "phonetic": "/'spektrəm/",
+      "meaning": "n.谱，光谱，频谱；范围，幅度，系列",
+      "similar": [],
+      "question": {
+        "wordId": "spectrum",
+        "stem": "选择 \"spectrum\" 的正确中文意思：",
+        "correct": "n.谱，光谱，频谱；范围，幅度，系列",
+        "options": [
+          "v.巡逻，巡查 n.巡逻，巡查；巡逻队",
+          "n.走廊,通路",
+          "n.风筝",
+          "n.谱，光谱，频谱；范围，幅度，系列"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "spectr-（词根：看，观察）+ -um（名词后缀，表示工具/结果）→ 原指通过棱镜看到的“光谱”，即光线被分解后呈现的彩色条带。核心动作是“看”的物理结果被展开成一系列连续分布，引申为任何事物的“范围、幅度、系列”（如政治光谱、意见范围）。",
+        "similarWarning": "",
+        "extendedMeaning": "【高分引申】①“光谱”的比喻义：指连续变化的范围或系列，如 a broad spectrum of opinions（广泛的意见范围）、the political spectrum（政治光谱）。②在科技语境中可指“频谱”（如电磁波谱），考研阅读中常以抽象义出现，表示“多样性”或“连续区间”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "speculate",
+      "word": "speculate",
+      "phonetic": "/'spekjuleit/",
+      "meaning": "vi.思索；推测vt.投机；思索，推测",
+      "similar": [
+        "regulate",
+        "simulate",
+        "calculate",
+        "circulate",
+        "stimulate",
+        "articulate",
+        "speciality",
+        "specialize"
+      ],
+      "question": {
+        "wordId": "speculate",
+        "stem": "选择 \"speculate\" 的正确中文意思：",
+        "correct": "vi.思索；推测vt.投机；思索，推测",
+        "options": [
+          "v.模仿,模拟;假装,冒充",
+          "vi.思索；推测vt.投机；思索，推测",
+          "v.管制,控制;调节,校准;调整",
+          "v.计算,推算;计划,打算"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根spec-（看，观察） + -ul-（小词缀） + -ate（动词后缀）。核心动作是“用心观察、仔细审视”，引申为在没有充分证据的情况下“推测”或基于风险判断进行“投机”。",
+        "similarWarning": "speculate vs stimulate：speculate 核心是 spec-（看），表推测；stimulate 核心是 stim-（刺），表刺激、激励。",
+        "extendedMeaning": "在考研阅读中常指“（基于不确定信息的）推断、猜测”，如 speculate on/about（推测…）；作名词 speculation 常表“投机活动”。",
+        "examUsage": "真题高频搭配：speculate on/about（推测）；speculate that...（推测…）；speculate in stocks（投机股票）。干扰项常将“推测”与“证明”混淆。"
+      }
+    },
+    {
+      "id": "speed",
+      "word": "speed",
+      "phonetic": "/spi:d/",
+      "meaning": "n.速度,快 v.迅速,前进,急行;加速,使加速",
+      "similar": [
+        "seed",
+        "spread",
+        "deed",
+        "feed",
+        "peel",
+        "peep",
+        "peer",
+        "reed"
+      ],
+      "question": {
+        "wordId": "speed",
+        "stem": "选择 \"speed\" 的正确中文意思：",
+        "correct": "n.速度,快 v.迅速,前进,急行;加速,使加速",
+        "options": [
+          "v./n.伸开,伸展;散布,传播",
+          "n.行为,行动;功绩,事迹;证书；契据",
+          "n.种子 v.播种;结实,结籽",
+          "n.速度,快 v.迅速,前进,急行;加速,使加速"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "speed 源自古英语 spēd（成功、快速），核心物理动作为“快速移动或运作”，引申为“速度”和“加速”的概念。",
+        "similarWarning": "seed（种子）与 speed 差首字母 s 不变，但 eed 与 eed 同尾，seed 强调播种；spend（花费）差 p 与 d，spend 是“支付时间/金钱”；speech（演讲）差 ch 与 d，speech 是口头表达。",
+        "extendedMeaning": "在考研中，speed 常考僻义为“促进、使加速”（speed up 的及物用法），如“speed the recovery”（促进恢复），或作名词表“速率”而非简单“快”。",
+        "examUsage": "真题考点：固定搭配“at speed”（快速地）和“speed up”（加速），如 2010 年阅读“speed up the process”。注意 speed 的过去式/过去分词为 sped（规则变体），非 speeded。"
+      }
+    },
+    {
+      "id": "spell",
+      "word": "spell",
+      "phonetic": "/spel/",
+      "meaning": "v.拼写",
+      "similar": [
+        "shell",
+        "smell",
+        "spill",
+        "swell",
+        "cell",
+        "fell",
+        "hell",
+        "peel"
+      ],
+      "question": {
+        "wordId": "spell",
+        "stem": "选择 \"spell\" 的正确中文意思：",
+        "correct": "v.拼写",
+        "options": [
+          "v.拼写",
+          "n.壳,贝壳;炮弹",
+          "v.溢出,溅出 n.摔下,跌下",
+          "n.气味;嗅觉 v.嗅,闻到;散发(…的)气味"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "古英语spellian‘讲述，叙述’，源自原始日耳曼语*spellam‘故事，消息’。核心动作是‘口述字母序列’，后引申为‘拼写’这一具体动作。",
+        "similarWarning": "sell（卖，s与e直接相连）、spill（溢出，i与l双写）、smell（闻，m替换p）、swell（膨胀，w替换p）——注意首字母s后p与m、w的差异，以及尾字母l是否双写。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "spelling",
+      "word": "spelling",
+      "phonetic": "/'speliŋ/",
+      "meaning": "n.拼法,拼写法",
+      "similar": [
+        "dwelling",
+        "shilling",
+        "ceiling",
+        "opening",
+        "setting",
+        "willing"
+      ],
+      "question": {
+        "wordId": "spelling",
+        "stem": "选择 \"spelling\" 的正确中文意思：",
+        "correct": "n.拼法,拼写法",
+        "options": [
+          "n.住宅,寓所",
+          "n.先令",
+          "n.拼法,拼写法",
+          "n.天花板；(规定价格、工资等的)最高限额"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自动词spell（拼写）+ -ing名词后缀，表示拼写的行为或方式。spell源自古英语spellian（讲述、拼读字母），核心动作是“逐字母说出或写出”，引申为“拼法”这一结果。",
+        "similarWarning": "拼写相似词：dwelling（住所，来自dwell居住）、shilling（先令，货币单位）、spring（春天/弹簧）、ceiling（天花板）、feeling（感觉）、opening（开口）、setting（设置/背景）、willing（愿意的）。区别在于词根和语义领域不同。",
+        "extendedMeaning": "在考研阅读中，spelling有时指“拼写规则”或“拼写体系”，如spelling reform（拼写改革）。此外，可引申为“拼写能力”，如good spelling（拼写正确）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sphere",
+      "word": "sphere",
+      "phonetic": "/sfiə/",
+      "meaning": "n.球,球体;范围,领域",
+      "similar": [
+        "share",
+        "shore",
+        "spare",
+        "adhere",
+        "scheme",
+        "severe",
+        "shepherd"
+      ],
+      "question": {
+        "wordId": "sphere",
+        "stem": "选择 \"sphere\" 的正确中文意思：",
+        "correct": "n.球,球体;范围,领域",
+        "options": [
+          "n.球,球体;范围,领域",
+          "a.多余的,备用的 v.节约,节省;抽出(时间)",
+          "v.(with)分配,共用;分担n.一份,份额;股份",
+          "n.海滨,湖滨"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根来自希腊语sphaira（球），原指天体或球体，引申为‘范围、领域’，核心物理动作是‘球形环绕’。",
+        "similarWarning": "sphere vs. scheme: scheme侧重‘计划、方案’，拼写差异在‘ch’与‘ph’；sphere vs. share: share意为‘分享’，拼写差异在‘a’与‘p’；sphere vs. spare: spare意为‘多余的’，拼写差异在‘a’与‘p’。",
+        "extendedMeaning": "在考研真题中常引申为‘领域、范围’，如‘the sphere of influence’（势力范围），不指具体球体。",
+        "examUsage": "高频搭配：public sphere（公共领域），political sphere（政治领域），常作为阅读题中抽象概念题眼。"
+      }
+    },
+    {
+      "id": "spicy",
+      "word": "spicy",
+      "phonetic": "/'spaisi/",
+      "meaning": "a.加很多香料的；(口味)浓郁的",
+      "similar": [
+        "sticky",
+        "spy",
+        "pick",
+        "pity",
+        "spin",
+        "spit",
+        "slice",
+        "spill"
+      ],
+      "question": {
+        "wordId": "spicy",
+        "stem": "选择 \"spicy\" 的正确中文意思：",
+        "correct": "a.加很多香料的；(口味)浓郁的",
+        "options": [
+          "n.间谍 v.当间谍,刺探;察觉,发现",
+          "a.加很多香料的；(口味)浓郁的",
+          "v.拾,采,摘;挑选,选择 n.镐,鹤嘴锄",
+          "a.粘的，粘性的；棘手的；(道路)泥泞的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自 spice（香料）+ -y（形容词后缀，表“具有…特性的”）。核心逻辑：像加了大量香料的食物，引申为“口味浓郁、辛辣的”。",
+        "similarWarning": "sticky（粘性的，来自 stick 粘住）；spy（间谍，来自希腊语 skopein 看）；pick（挑选，采摘）；pity（同情，可怜）；sick（生病的，恶心的）；spin（旋转，纺纱）；spit（吐口水，烤叉）；slice（薄片，切片）。注意 spicy 与 sticky 拼写差异在于 c 与 t，词义截然不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "spider",
+      "word": "spider",
+      "phonetic": "/'spaidə/",
+      "meaning": "n.蜘蛛",
+      "similar": [
+        "slide",
+        "spade",
+        "spine",
+        "spite",
+        "shiver"
+      ],
+      "question": {
+        "wordId": "spider",
+        "stem": "选择 \"spider\" 的正确中文意思：",
+        "correct": "n.蜘蛛",
+        "options": [
+          "n.蜘蛛",
+          "v.(使)滑动 n.滑坡,滑道;滑,滑动;幻灯片",
+          "n.铁锹,铲子",
+          "n.脊柱，脊椎；(动植物的)刺；书脊"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自中古英语 'spithre'，与古英语 'spinnan'（纺）同源，核心动作为'纺丝者'，因蜘蛛吐丝结网而得名。词根 '-er' 表'做...的人或物'。",
+        "similarWarning": "形近词：side（侧面） vs slide（滑动） vs spade（铲子） vs spine（脊柱） vs spite（恶意） vs shiver（颤抖）。拼写差异：spider以'-der'结尾，意为'蜘蛛'；其他词如spade为'-ade'，spine为'-ine'，注意区分。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "spill",
+      "word": "spill",
+      "phonetic": "/spil/",
+      "meaning": "v.溢出,溅出 n.摔下,跌下",
+      "similar": [
+        "pill",
+        "skill",
+        "spell",
+        "spiral",
+        "bill",
+        "fill",
+        "kill",
+        "mill"
+      ],
+      "question": {
+        "wordId": "spill",
+        "stem": "选择 \"spill\" 的正确中文意思：",
+        "correct": "v.溢出,溅出 n.摔下,跌下",
+        "options": [
+          "v.溢出,溅出 n.摔下,跌下",
+          "n.药丸",
+          "v.拼写",
+          "n.技能,技巧,手艺;熟练"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语 spillan“摧毁，破坏；流血”，核心物理动作是“液体从容器口部溢出或倾覆”。词根演变：spill- (古英语) → 中古英语 spille“溢出”，现代英语保留“意外流出”的本义。",
+        "similarWarning": "spill vs spell：spill 强调液体“溢出”，spell 指“拼写”或“咒语”。拼写差异：spill 含 i 字母，spell 含 e 字母，词尾 -ll 相同但含义不同。",
+        "extendedMeaning": "考研僻义：v. 泄露（秘密、信息等），如“spill the beans”意为“泄露秘密”；n. 摔下、跌下（尤指从马背或自行车上），如“take a spill”表示“摔了一跤”。",
+        "examUsage": "真题考点：常考短语“spill over”（溢出，波及），如“The conflict may spill over into neighboring countries.”（冲突可能波及邻国。）注意区分“spill out”（涌出）与“spill over”在上下文中的细微差别。"
+      }
+    },
+    {
+      "id": "spin",
+      "word": "spin",
+      "phonetic": "/spin/",
+      "meaning": "v.旋转;纺纱;织网,吐丝 n.旋转;自转",
+      "similar": [
+        "spine",
+        "pin",
+        "sin",
+        "skin",
+        "span",
+        "spit",
+        "saint",
+        "shine"
+      ],
+      "question": {
+        "wordId": "spin",
+        "stem": "选择 \"spin\" 的正确中文意思：",
+        "correct": "v.旋转;纺纱;织网,吐丝 n.旋转;自转",
+        "options": [
+          "n.罪,罪恶 v.犯罪",
+          "n.钉;大头针,别针,徽章 v.(up)钉住,别住",
+          "n.脊柱，脊椎；(动植物的)刺；书脊",
+          "v.旋转;纺纱;织网,吐丝 n.旋转;自转"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "spin←古英语spinnan（抽丝、纺纱），原始印欧语根*(s)pen-（拉长、旋转）。核心动作是“将纤维拉长并扭转”，引申出“旋转”义。",
+        "similarWarning": "spine（n.脊柱；刺）→ spin+e；pin（n.别针）→ 缺s；sin（n.罪）→ 缺p；skin（n.皮肤）→ s+kin；span（n.跨度）→ a替换i；spit（v.吐）→ t替换n；spring（v.跳）→ r+g替换n；saint（n.圣徒）→ 多a。",
+        "extendedMeaning": "（外刊/真题）情绪或状态的快速变化：spin into a panic（陷入恐慌）；经济/新闻的“旋转”即扭曲解读：put a positive spin on the data（对数据作正面解读）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "spine",
+      "word": "spine",
+      "phonetic": "/spain/",
+      "meaning": "n.脊柱，脊椎；(动植物的)刺；书脊",
+      "similar": [
+        "pine",
+        "spin",
+        "shine",
+        "spite",
+        "aspire",
+        "spider",
+        "sponge",
+        "pie"
+      ],
+      "question": {
+        "wordId": "spine",
+        "stem": "选择 \"spine\" 的正确中文意思：",
+        "correct": "n.脊柱，脊椎；(动植物的)刺；书脊",
+        "options": [
+          "v.旋转;纺纱;织网,吐丝 n.旋转;自转",
+          "n.松树",
+          "n.脊柱，脊椎；(动植物的)刺；书脊",
+          "v.照耀,发光;擦亮 n.光泽,光"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'spina'（刺，荆棘）。核心物理动作是“尖锐的突出物”：脊柱是人体的主支撑骨，形状像一根带刺的轴；动植物刺是尖锐的突起；书脊是书页装订的支撑边，像脊柱一样。",
+        "similarWarning": "spin（旋转，v.）：spine 有结尾 e，指“脊柱”；spin 无 e，指“旋转”动作。spine vs. pine（松树，n.）：spine 以 s 开头，指“脊椎”；pine 无 s，指“松树”。",
+        "extendedMeaning": "在考研阅读中常引申为“核心，支柱，中坚力量”，如 'the spine of the argument'（论点的核心）。",
+        "examUsage": "真题中常考搭配 'have no spine'（没有骨气/勇气），以及 'spine-chilling'（令人毛骨悚然的）用于描述恐怖场景。"
+      }
+    },
+    {
+      "id": "spiral",
+      "word": "spiral",
+      "phonetic": "/'spaiərəl/",
+      "meaning": "a.螺旋形的 n.螺旋，螺线 v.螺旋上升；盘旋",
+      "similar": [
+        "spill",
+        "spray",
+        "spirit"
+      ],
+      "question": {
+        "wordId": "spiral",
+        "stem": "选择 \"spiral\" 的正确中文意思：",
+        "correct": "a.螺旋形的 n.螺旋，螺线 v.螺旋上升；盘旋",
+        "options": [
+          "n.精神;志气;(pl.)情绪,心情;(pl.)酒精",
+          "a.螺旋形的 n.螺旋，螺线 v.螺旋上升；盘旋",
+          "v.溢出,溅出 n.摔下,跌下",
+          "n.喷雾,飞沫,浪花,水花 v.喷,喷射"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语spira（螺旋），与希腊语speira（卷绕）同源。词根spir-表“缠绕、卷曲”，-al为形容词后缀。核心物理动作：物体沿曲线持续旋转上升或下降，如DNA双螺旋、楼梯盘旋。",
+        "similarWarning": "spiral vs spill（溢出，字母r→l，动作从旋转变为液体外流）；spray（喷洒，字母r→ray，强调分散喷射）；spirit（精神，源自spiritus呼吸，与旋转无关）；hospital（医院，源自hospes客人，词根完全不同）。",
+        "extendedMeaning": "【考研僻义】v. 急剧上升/下降（尤指数值、价格持续失控增长）：The costs began to spiral. 成本开始急剧攀升。n. 恶性循环（inflationary spiral通胀螺旋）。",
+        "examUsage": "【真题考点】高频搭配spiral out of control（失控螺旋式恶化），用于经济类、社会问题类阅读。例：The debt spiral pushed the country into crisis.（债务螺旋将国家推入危机。）注意与accelerate（加速）的区别：spiral强调循环恶化，accelerate仅指增速。"
+      }
+    },
+    {
+      "id": "spirit",
+      "word": "spirit",
+      "phonetic": "/'spirit/",
+      "meaning": "n.精神;志气;(pl.)情绪,心情;(pl.)酒精",
+      "similar": [
+        "spit",
+        "skirt",
+        "split",
+        "spiral"
+      ],
+      "question": {
+        "wordId": "spirit",
+        "stem": "选择 \"spirit\" 的正确中文意思：",
+        "correct": "n.精神;志气;(pl.)情绪,心情;(pl.)酒精",
+        "options": [
+          "n.裙子;边缘,郊区",
+          "v.吐(唾沫),吐痰 n.唾液",
+          "n.精神;志气;(pl.)情绪,心情;(pl.)酒精",
+          "v.裂开,劈开;分裂,分离 n.分化,分裂,裂口"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 spiritus（呼吸、气息），与 spirare（呼吸）同源。核心动作是“呼吸”，引申为生命的气息、灵魂，进而指代人的精神、志气。复数形式 spirits 指情绪（如 high spirits），也指蒸馏后的“酒精”（蒸馏过程中产生的蒸汽/气息）。",
+        "similarWarning": "spirit vs. spit（吐痰）：spirit 有 ur 音节，而 spit 是单音节，动作更直接。spirit vs. spiral（螺旋）：spiral 有 al 结尾，强调旋转路径，而 spirit 无此形态。",
+        "extendedMeaning": "在考研阅读中，spirit 常引申为“本质、核心精神”（如 the spirit of the law 法律的精神），而非仅指“灵魂”。",
+        "examUsage": "常见搭配：team spirit（团队精神），public spirit（公益精神）。真题中常以 high spirits（情绪高涨）或 in good spirits（心情好）作为情感态度的题眼。"
+      }
+    },
+    {
+      "id": "spiritual",
+      "word": "spiritual",
+      "phonetic": "/'spiritjuəl/",
+      "meaning": "a.精神(上)的,心灵的",
+      "similar": [
+        "virtual"
+      ],
+      "question": {
+        "wordId": "spiritual",
+        "stem": "选择 \"spiritual\" 的正确中文意思：",
+        "correct": "a.精神(上)的,心灵的",
+        "options": [
+          "n.强烈,剧烈;强度",
+          "v.拥抱;包含;包围;环绕;采用;接受",
+          "a.实际上的,事实上的",
+          "a.精神(上)的,心灵的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根spir-（呼吸）+ -it-（名词后缀）+ -ual（形容词后缀）。原始含义为“与呼吸相关的”，引申为“与灵魂/精神相关的”，因为古人认为呼吸是生命和灵魂的体现。核心动作：呼吸→赋予生命→精神层面。",
+        "similarWarning": "virtual（a.虚拟的，实质上的）：spiritual强调精神/心灵层面，常与宗教、内心相关；virtual强调通过计算机模拟的或事实上的（如virtual reality）。字母差异：spir-（呼吸）vs vir-（男人，力量），-itual vs -tual。",
+        "extendedMeaning": "在考研阅读中，spiritual有时用于非宗教语境，指“与人的内在情感/价值观相关的”，如spiritual well-being（精神幸福），spiritual sustenance（精神食粮），强调非物质层面的满足。",
+        "examUsage": "常与material（物质的）形成对比，如真题中“spiritual vs material civilization”（精神文明与物质文明）。注意区分spiritual与mental（心理的，智力的）；spiritual更侧重灵魂/信仰，mental侧重认知/情绪。"
+      }
+    },
+    {
+      "id": "spit",
+      "word": "spit",
+      "phonetic": "/spit/",
+      "meaning": "v.吐(唾沫),吐痰 n.唾液",
+      "similar": [
+        "spite",
+        "split",
+        "pit",
+        "slit",
+        "spin",
+        "spot",
+        "suit",
+        "spirit"
+      ],
+      "question": {
+        "wordId": "spit",
+        "stem": "选择 \"spit\" 的正确中文意思：",
+        "correct": "v.吐(唾沫),吐痰 n.唾液",
+        "options": [
+          "v.裂开,劈开;分裂,分离 n.分化,分裂,裂口",
+          "n.坑,陷阱;煤矿,矿井",
+          "v.吐(唾沫),吐痰 n.唾液",
+          "n.恶意;怨恨"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿吐唾沫或液体喷出的声音，核心动作为“从口中用力排出液体”。",
+        "similarWarning": "spite（恶意，n.）、split（分裂，v.）、pit（坑，n.）、sit（坐，v.）、slit（裂缝，n.）、spin（旋转，v.）、spot（斑点，n.）、suit（适合，v.）",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "spite",
+      "word": "spite",
+      "phonetic": "/spait/",
+      "meaning": "n.恶意;怨恨",
+      "similar": [
+        "site",
+        "spit",
+        "spine",
+        "suite",
+        "despite",
+        "aspire",
+        "spider",
+        "pie"
+      ],
+      "question": {
+        "wordId": "spite",
+        "stem": "选择 \"spite\" 的正确中文意思：",
+        "correct": "n.恶意;怨恨",
+        "options": [
+          "n.脊柱，脊椎；(动植物的)刺；书脊",
+          "n.恶意;怨恨",
+          "n.位置,场所,地点",
+          "v.吐(唾沫),吐痰 n.唾液"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语despectus（藐视），由de-（向下）+ specere（看）组成，本义为“向下看”，引申为“轻视、恶意”。核心物理动作是“俯视、看不起”。",
+        "similarWarning": "spite vs. spit: spite（恶意）含e，spit（吐痰）无e；spite vs. site: spite以t开头，site以s开头；spite vs. spine: spine（脊柱）多n。",
+        "extendedMeaning": "",
+        "examUsage": "固定搭配：in spite of（尽管），为考研高频让步状语连接词，常与despite互换。真题中常作为逻辑关系提示词，后接名词或动名词。"
+      }
+    },
+    {
+      "id": "splash",
+      "word": "splash",
+      "phonetic": "/splæʃ/",
+      "meaning": "v.溅,泼 n.溅,飞溅声",
+      "similar": [
+        "lash",
+        "clash",
+        "flash",
+        "smash"
+      ],
+      "question": {
+        "wordId": "splash",
+        "stem": "选择 \"splash\" 的正确中文意思：",
+        "correct": "v.溅,泼 n.溅,飞溅声",
+        "options": [
+          "n./a.闪光(的) v.发闪光,闪亮;闪现",
+          "v./n.碰撞 n.碰撞声",
+          "v.鞭打,摆动,捆扎 n.鞭子,鞭打,睫毛,讽刺",
+          "v.溅,泼 n.溅,飞溅声"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟液体溅落或拍打的声音（如splash of water）。词根spl-（溅射）+ -ash（拟声后缀），核心动作是液体被搅动后四散飞溅。",
+        "similarWarning": "lash（鞭打）、clash（冲突）、flash（闪光）、smash（粉碎）。对比：splash强调液体飞溅；flash强调光；smash强调破碎声。",
+        "extendedMeaning": "考研僻义：1. 引人注目的展示（如make a splash引起轰动）。2. 泼洒出的色块/光斑（如splash of color）。",
+        "examUsage": "真题考点：make a splash（引起轰动）常作阅读中态度题或修辞题题眼。例句：The new policy made a splash in the financial sector."
+      }
+    },
+    {
+      "id": "splendid",
+      "word": "splendid",
+      "phonetic": "/'splendid/",
+      "meaning": "a.壮丽的,辉煌的;极好的",
+      "similar": [
+        "slender",
+        "appendix"
+      ],
+      "question": {
+        "wordId": "splendid",
+        "stem": "选择 \"splendid\" 的正确中文意思：",
+        "correct": "a.壮丽的,辉煌的;极好的",
+        "options": [
+          "n.痕迹,踪迹;极少量 v.描绘;跟踪,追踪",
+          "n.附录，附属物；阑尾，盲肠",
+          "a.修长的,细长的,苗条的;微小的,微薄的",
+          "a.壮丽的,辉煌的;极好的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语splendere（发光、照耀），-id为形容词后缀（表示“具有…性质的”）。核心动作是“发光”，引申为“光辉灿烂的、闪耀的”，进而形容事物“壮丽的、辉煌的”或“极好的”。",
+        "similarWarning": "slender（a.苗条的，纤细的）: 拼写差异为splen- vs. slen-，前者含p（发光），后者无；appendix（n.附录，阑尾）: 拼写差异为splen- vs. appen-，且结尾-id vs. -ix。splendid强调“光彩”；slender强调“细长”；appendix强调“附加”。",
+        "extendedMeaning": "在考研阅读中常作“极好的、出色的”解，如a splendid idea（绝妙的主意），不限于视觉上的辉煌。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "split",
+      "word": "split",
+      "phonetic": "/split/",
+      "meaning": "v.裂开,劈开;分裂,分离 n.分化,分裂,裂口",
+      "similar": [
+        "slit",
+        "spit",
+        "spirit",
+        "pit",
+        "plot",
+        "salt",
+        "slim",
+        "slip"
+      ],
+      "question": {
+        "wordId": "split",
+        "stem": "选择 \"split\" 的正确中文意思：",
+        "correct": "v.裂开,劈开;分裂,分离 n.分化,分裂,裂口",
+        "options": [
+          "v.裂开,劈开;分裂,分离 n.分化,分裂,裂口",
+          "v.切开,截开,纵割 n.细长裂缝,狭长切口",
+          "v.吐(唾沫),吐痰 n.唾液",
+          "n.精神;志气;(pl.)情绪,心情;(pl.)酒精"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，拟声词，模仿物体撕裂或劈开的声音。核心动作是“一个整体向不同方向分离/断裂”，强调从一个连续体或整体中产生裂口或分裂成部分。",
+        "similarWarning": "slit（划开，细长切口）：split强调分裂成两半或多块；slit强调线性切割。 spit（吐，唾液）：拼写差一个字母‘l’，spit无分开义。 spirit（精神，灵魂）：比split多‘r’和‘i’，词义完全不同。 pit（坑，核）：拼写少‘s’和‘l’，无分裂义。 sit（坐）：拼写少‘p’和‘l’，无相关。 plot（情节，阴谋）：首字母p+lot，无分离感。 salt（盐）：拼写a代替i，t结尾，词义无关。 slim（苗条的）：拼写m代替t，词义侧重细长而非分裂。",
+        "extendedMeaning": "1. 分裂/分歧（团队、政党等内部意见不和）：The party split on the issue. 2. 分享/分摊（费用、资源）：Let's split the bill. 3. 离开/分手（口语）：It's time to split. 4. (股票)分割：stock split.",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "spoil",
+      "word": "spoil",
+      "phonetic": "/spɔɪl/",
+      "meaning": "v.损坏,搞错;宠坏,溺爱",
+      "similar": [
+        "soil",
+        "oil",
+        "boil",
+        "coil",
+        "pail",
+        "poll",
+        "pool",
+        "sail"
+      ],
+      "question": {
+        "wordId": "spoil",
+        "stem": "选择 \"spoil\" 的正确中文意思：",
+        "correct": "v.损坏,搞错;宠坏,溺爱",
+        "options": [
+          "v.损坏,搞错;宠坏,溺爱",
+          "n.泥土,土地,土壤 v.弄脏,(使)变脏",
+          "n.油，石油 v.给…加润滑油；涂油，上油",
+          "v.(使)沸腾,煮(沸)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源自拉丁语spoliare‘剥去衣物’，核心物理动作为‘剥离、剥夺’。引申为：剥夺某物原有价值→损坏；剥夺独立人格→宠坏。",
+        "similarWarning": "spoil vs soil（土壤/弄脏）：spoil强调破坏完整性，soil侧重表面污染。spoil vs boil（煮沸）：b开头表加热，s开头表破坏。",
+        "extendedMeaning": "考研僻义：①‘战利品，掠夺物’（名词），如the spoils of war；②‘使（食物）变质’，如spoil the food。",
+        "examUsage": "真题考点：spoil常与‘宠坏’义搭配，如spare the rod, spoil the child（省了棍棒，惯坏孩子）；干扰项易与damage（物理破坏）混淆，需注意spoil侧重内在价值或状态的损害。"
+      }
+    },
+    {
+      "id": "spokesman",
+      "word": "spokesman",
+      "phonetic": "/'spəuksmən/",
+      "meaning": "n.发言人",
+      "similar": [
+        "sportsman",
+        "salesman",
+        "statesman"
+      ],
+      "question": {
+        "wordId": "spokesman",
+        "stem": "选择 \"spokesman\" 的正确中文意思：",
+        "correct": "n.发言人",
+        "options": [
+          "n.爱好运动的人；运动员",
+          "n.发言人",
+          "n.政治家,国务活动家",
+          "n.售货员,推销员"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "spokesman = spoke（speak的过去式，表“说话”）+ -s-（连接字母）+ man（人）→ 说话的人 → 发言人。源于动词speak，强调代表他人发言的职务角色。",
+        "similarWarning": "sportsman（运动员）与spokesman（发言人）拼写差异在'po' vs 'or'，词义关联运动与言论；salesman（销售员）与spokesman差异在'sale' vs 'spoke'，侧重销售而非代表发言；statesman（政治家）与spokesman差异在'state' vs 'spoke'，强调国家治理而非单纯发言。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sponge",
+      "word": "sponge",
+      "phonetic": "/spʌndʒ/",
+      "meaning": "n.海绵",
+      "similar": [
+        "spine",
+        "spouse",
+        "response"
+      ],
+      "question": {
+        "wordId": "sponge",
+        "stem": "选择 \"sponge\" 的正确中文意思：",
+        "correct": "n.海绵",
+        "options": [
+          "n.脊柱，脊椎；(动植物的)刺；书脊",
+          "n.海绵",
+          "n.配偶(指夫或妻)",
+          "n.回答,响应,反应"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 spongia，源自希腊语 spongos，原指一种多孔、吸水的海洋生物。核心物理动作是“吸收/填充”，引申为“像海绵一样吸收液体或信息”。",
+        "similarWarning": "sponge vs. spouse（配偶）：sponge 含“n”，spouse 含“u”，词义无关联；sponge vs. spine（脊柱）：spine 含“i”，sponge 含“o”，spine 指骨骼结构。",
+        "extendedMeaning": "考研僻义：1. 动词“揩油、白吃白喝”（如 sponge off sb. 依赖他人生活）；2. 名词“海绵状物”（如 sponge cake 松软蛋糕）。",
+        "examUsage": "真题考点：常见搭配“sponge on/off”表示“寄食、依赖”，如“He sponges off his friends.”（2010年阅读干扰项）。"
+      }
+    },
+    {
+      "id": "sponsor",
+      "word": "sponsor",
+      "phonetic": "/'spɔnsə/",
+      "meaning": "n.发起人,主力者,保证人 v.发起,主办",
+      "similar": [],
+      "question": {
+        "wordId": "sponsor",
+        "stem": "选择 \"sponsor\" 的正确中文意思：",
+        "correct": "n.发起人,主力者,保证人 v.发起,主办",
+        "options": [
+          "n.节约;经济",
+          "n.节奏,行进速度;(音乐的)速度",
+          "n.玫瑰,蔷薇",
+          "n.发起人,主力者,保证人 v.发起,主办"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语spondere（承诺、保证），spons-为词根（承诺），-or为名词后缀（…者）。本义为“作出承诺的人”，即担保人或保证人，后引申为发起人、主办者，因发起人需对活动做出承诺与支持。动词化后表示“发起、主办”，核心动作是“以承诺为支撑”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中，sponsor常引申为“赞助商、资助方”，如corporate sponsor（企业赞助商）。此外，作动词可表“为…提供资金支持”，如sponsor a program（资助项目）。",
+        "examUsage": "高频搭配：sponsor a bill（发起议案）——常见于政治类阅读；under the sponsorship of（在…的赞助下）——常用于说明文。真题中常作为主语或宾语出现，需注意其与supporter（支持者）的区分，sponsor强调资金或资源承诺。"
+      }
+    },
+    {
+      "id": "spontaneous",
+      "word": "spontaneous",
+      "phonetic": "/spɔn'teiniəs/",
+      "meaning": "a.自发的,自然产生的",
+      "similar": [
+        "instantaneous",
+        "simultaneous",
+        "continuous"
+      ],
+      "question": {
+        "wordId": "spontaneous",
+        "stem": "选择 \"spontaneous\" 的正确中文意思：",
+        "correct": "a.自发的,自然产生的",
+        "options": [
+          "a.连续的,持续的",
+          "a.同时的,同时存在的",
+          "a.瞬间的,即刻的",
+          "a.自发的,自然产生的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'sponte'（自愿，自由意志），核心物理动作为 'of one's own free will'（出于自由意志）。后缀 -aneous 表示 '属于...的'，故本义为 '自愿的，非外力强迫的'，引申为 '自发的、自然产生的'。",
+        "similarWarning": "instantaneous (瞬间的，来自 instant + -aneous)，simultaneous (同时的，来自 simul '相同' + -aneous)，continuous (连续的，来自 continue + -ous)。三词均含 -aneous/-ous 后缀，但核心词根不同：spon- (自愿) vs. instant- (即刻) vs. simul- (相同) vs. continu- (持续)。",
+        "extendedMeaning": "考研中常考其 '非计划、无意识产生' 的僻义，如 'spontaneous combustion'（自燃）或 'spontaneous generation'（自然发生论）。",
+        "examUsage": "真题中常与 'deliberate'（故意的）或 'forced'（被迫的）形成反义对比，作为阅读理解选项中的态度判断词。例如：'a spontaneous decision' 常与 'a planned one' 对立考查。"
+      }
+    },
+    {
+      "id": "spoon",
+      "word": "spoon",
+      "phonetic": "/spu:n/",
+      "meaning": "n.匙,调羹",
+      "similar": [
+        "moon",
+        "noon",
+        "pool",
+        "span",
+        "spin",
+        "spot",
+        "upon",
+        "scorn"
+      ],
+      "question": {
+        "wordId": "spoon",
+        "stem": "选择 \"spoon\" 的正确中文意思：",
+        "correct": "n.匙,调羹",
+        "options": [
+          "n.匙,调羹",
+          "n.中午，正午",
+          "n.水池,游泳池;合资经营v.合伙经营,联营",
+          "n.(加the)月球，月亮；卫星"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "spoon 源自原始日耳曼语 *spōnu，意为“木片、薄片”，后演变为“勺子”。核心物理动作是“舀取”，即用凹形器具盛取液体或松散物。",
+        "similarWarning": "span (跨度) vs spoon (勺子): span 强调距离或时间范围，spoon 是具体器具。spin (旋转) vs spoon: spin 指快速转动，spoon 是静止的舀取工具。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sportsman",
+      "word": "sportsman",
+      "phonetic": "/'spɔ:tsmən/",
+      "meaning": "n.爱好运动的人；运动员",
+      "similar": [
+        "spokesman",
+        "postman"
+      ],
+      "question": {
+        "wordId": "sportsman",
+        "stem": "选择 \"sportsman\" 的正确中文意思：",
+        "correct": "n.爱好运动的人；运动员",
+        "options": [
+          "n.爱好运动的人；运动员",
+          "n.发言人",
+          "a.怀疑的，无把握的；有问题的，靠不住的",
+          "n.邮递员"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "sports（运动）+ man（人）→ 从事运动的人。核心动作是参与体育活动，强调对运动的爱好或职业身份。",
+        "similarWarning": "spokesman（发言人）：spoke（说话）+ man→ 与sportsman仅差字母'p'和'o'位置不同，词义完全不同，注意拼写差异。postman（邮递员）：post（邮政）+ man→ 与sportsman首字母不同，词义无关。",
+        "extendedMeaning": "在考研语境中，sportsman常引申为‘有体育精神的人’，强调公平竞争、风度等品质，而非仅指运动员。例如真题中‘a true sportsman’指‘真正的体育家’。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "spot",
+      "word": "spot",
+      "phonetic": "/spɔt/",
+      "meaning": "n.斑点;地点 v.认出,认清,发现;玷污,弄脏",
+      "similar": [
+        "pot",
+        "shot",
+        "slot",
+        "spit",
+        "sprout",
+        "scout",
+        "shoot",
+        "shout"
+      ],
+      "question": {
+        "wordId": "spot",
+        "stem": "选择 \"spot\" 的正确中文意思：",
+        "correct": "n.斑点;地点 v.认出,认清,发现;玷污,弄脏",
+        "options": [
+          "n.狭缝；空位vt.放入狭缝中；把…纳入",
+          "n.罐,壶",
+          "n.开枪,射击;投篮;弹丸,炮弹,子弹",
+          "n.斑点;地点 v.认出,认清,发现;玷污,弄脏"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "spot 源自中古英语，最初指“小斑点、污点”，核心物理动作为“点状标记”。词根无复杂演变，直接对应“点”的概念。引申为“地点”时，强调空间中的特定点；动词“认出”源于从背景中识别出“点状目标”，即聚焦于某一点；动词“玷污”则回归“弄脏成点”的本义。整体逻辑围绕“点”的视觉与空间特性展开。",
+        "similarWarning": "sport（运动，s+port，强调“娱乐”）、slot（狭槽，s+lot，强调“狭窄位置”）、spit（吐痰，spit，动作相关）、sprout（发芽，spr+out，强调“生长”）、scout（侦察，sc+out，强调“观察”）、shoot（射击，sh+oot，强调“发射”）。spot 与 slot 易混：spot 是“点、地点”，slot 是“槽、时间空位”，拼写仅差 l 与 p。",
+        "extendedMeaning": "考研僻义：在真题中常作动词“认出、发现”，尤指在困难或模糊情境下识别，如“spot the error”（发现错误）或“spot a trend”（察觉趋势），强调瞬间洞察力。",
+        "examUsage": "真题考点：常用搭配“on the spot”（当场、在现场），如“make a decision on the spot”（当场做决定）。干扰项常与 locate（定位）、identify（识别）区分，spot 更强调快速、精准的视觉发现。"
+      }
+    },
+    {
+      "id": "spouse",
+      "word": "spouse",
+      "phonetic": "/spaus/",
+      "meaning": "n.配偶(指夫或妻)",
+      "similar": [
+        "pose",
+        "mouse",
+        "pause",
+        "rouse",
+        "arouse",
+        "blouse",
+        "sponge",
+        "response"
+      ],
+      "question": {
+        "wordId": "spouse",
+        "stem": "选择 \"spouse\" 的正确中文意思：",
+        "correct": "n.配偶(指夫或妻)",
+        "options": [
+          "v./n.中止,暂停",
+          "n.(pl.mice)鼠,耗子",
+          "n.姿势,姿态 v.造成,提出,摆姿势,佯装",
+          "n.配偶(指夫或妻)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根spos-（承诺/结婚）+-e（名词后缀）。本义为“被承诺的人”，即通过婚姻契约结合的伴侣。",
+        "similarWarning": "spouse（配偶） vs. sponge（海绵）：后者多字母n，词源不同。spouse强调伴侣关系，sponge指多孔吸水物。",
+        "extendedMeaning": "考研中可引申为“终身伴侣”，但无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "spray",
+      "word": "spray",
+      "phonetic": "/spreɪ/",
+      "meaning": "n.喷雾,飞沫,浪花,水花 v.喷,喷射",
+      "similar": [
+        "pray",
+        "spiral",
+        "spread",
+        "ray",
+        "spy",
+        "prey",
+        "span",
+        "stay"
+      ],
+      "question": {
+        "wordId": "spray",
+        "stem": "选择 \"spray\" 的正确中文意思：",
+        "correct": "n.喷雾,飞沫,浪花,水花 v.喷,喷射",
+        "options": [
+          "a.螺旋形的 n.螺旋，螺线 v.螺旋上升；盘旋",
+          "v.请求,恳求;祈祷,祈求",
+          "v./n.伸开,伸展;散布,传播",
+          "n.喷雾,飞沫,浪花,水花 v.喷,喷射"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自中古英语sprayen，可能与古英语sprædan（散开）同源，核心物理动作为“液体被外力打散成细小颗粒状飞散”。词根spr-表“散开、喷溅”，-ay为动词后缀。画面：水从喷头被压出，瞬间分裂成无数微小液滴向四周飞射。",
+        "similarWarning": "spray vs. spread：spray强调“喷出雾状物”，动词侧重喷射动作；spread强调“平铺、扩散”，如spread butter（涂黄油）。spray vs. pray：仅差首字母s，pray为“祈祷”，与喷溅无关。",
+        "extendedMeaning": "考研僻义：1. 喷雾剂（aerosol spray），如“pepper spray”（防狼喷雾）。2. 用作名词时，可指“喷雾状物”的抽象概念，如“a spray of bullets”（一阵扫射的子弹）。",
+        "examUsage": "真题考点：常考搭配“spray sth. on/onto sth.”（把…喷在…上），如“spray paint on the wall”（往墙上喷漆）。注意被动语态“be sprayed with”（被喷洒了…），如“The crops were sprayed with pesticide.”（庄稼被喷了农药）。"
+      }
+    },
+    {
+      "id": "spread",
+      "word": "spread",
+      "phonetic": "/spred/",
+      "meaning": "v./n.伸开,伸展;散布,传播",
+      "similar": [
+        "bread",
+        "dread",
+        "plead",
+        "spear",
+        "speed",
+        "spray",
+        "scream",
+        "shrewd"
+      ],
+      "question": {
+        "wordId": "spread",
+        "stem": "选择 \"spread\" 的正确中文意思：",
+        "correct": "v./n.伸开,伸展;散布,传播",
+        "options": [
+          "v./n.伸开,伸展;散布,传播",
+          "v.恳求,请求;为…辩护;提出…为理由",
+          "n.面包",
+          "v./n.恐惧,担心"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语 'sprædan'，核心动作是‘铺开、展开’。词根 'spred-' 与德语 'spreiten' 同源，物理上指将某物（如布、翅膀、液体）平铺或扩展至更大面积，引申为信息、疾病等的‘散布、传播’。",
+        "similarWarning": "spread vs. speed: spread 强调‘铺开/传播’（-read 与铺展动作相关）；speed 强调‘速度’（-eed 与快跑相关）。spread vs. spear: spread 有‘铺开’义；spear 为‘矛、刺’（-ear 与尖锐物相关）。",
+        "extendedMeaning": "考研中常考‘蔓延、扩散’的抽象义，如 'the spread of the disease'（疾病的蔓延）；或‘范围、幅度’的引申义，如 'the spread of the wings'（翼展）。",
+        "examUsage": "考点搭配：‘spread out’（分散、展开）在真题阅读理解中常作‘使...散开’解；‘spread the word’（传播消息）用于信息扩散语境。"
+      }
+    },
+    {
+      "id": "sprinkle",
+      "word": "sprinkle",
+      "phonetic": "/'spriŋkl/",
+      "meaning": "n.洒,喷,淋",
+      "similar": [
+        "wrinkle",
+        "prince",
+        "shrink",
+        "sparkle",
+        "twinkle"
+      ],
+      "question": {
+        "wordId": "sprinkle",
+        "stem": "选择 \"sprinkle\" 的正确中文意思：",
+        "correct": "n.洒,喷,淋",
+        "options": [
+          "v.起皱,收缩;退缩,畏缩",
+          "n.洒,喷,淋",
+          "n.王子,亲王",
+          "n.皱纹 v.起皱,皱眉"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自中古英语 sprenkelen，与荷兰语 sprenkelen、德语 Sprenkel 同源，核心动作是“使小颗粒或液滴散落”。词根 spr- 表示“散开、喷出”（如 spring 的“弹跳、涌出”），-kle 是反复动作后缀。本义指像雨点般均匀撒落，强调分散、细小的方式。",
+        "similarWarning": "wrinkle（皱纹）：wrin- 表“扭结”，-kle 表反复，指皮肤反复折叠形成的纹路。sprinkle 与 wrinkle 仅首字母不同，前者是“撒”（散开），后者是“皱”（聚拢）；prince（王子）：prin- 表“第一”，-ce 表人，指首要人物，与 sprinkle 无词源关联；sparkle（闪烁）：spark- 表“火花”，-le 表反复，指火花反复闪亮，sprinkle 是液体/颗粒散落，sparkle 是光点闪烁。",
+        "extendedMeaning": "考研外刊中常引申为“零星分布、点缀”，如 stars sprinkle the sky（星星点缀天空），或比喻少量、零星的存在。",
+        "examUsage": "真题中常考短语 sprinkle with（撒上……），如 sprinkle the cake with sugar（在蛋糕上撒糖），或被动结构 be sprinkled with（被点缀着……），如 The text is sprinkled with errors（文本中零星散布着错误）。"
+      }
+    },
+    {
+      "id": "sprout",
+      "word": "sprout",
+      "phonetic": "/spraut/",
+      "meaning": "vi.发芽，抽条 vt.使发芽 n.新芽，嫩苗",
+      "similar": [
+        "spot",
+        "proud",
+        "scout",
+        "shout"
+      ],
+      "question": {
+        "wordId": "sprout",
+        "stem": "选择 \"sprout\" 的正确中文意思：",
+        "correct": "vi.发芽，抽条 vt.使发芽 n.新芽，嫩苗",
+        "options": [
+          "vi.发芽，抽条 vt.使发芽 n.新芽，嫩苗",
+          "a.(of)自豪的;引以自豪的;妄自尊大的",
+          "n.斑点;地点 v.认出,认清,发现;玷污,弄脏",
+          "n.侦察员,侦察机(舰) v.搜索,侦察"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为sp-（与“生长、喷出”相关），结合-rout（拟声或变体，模仿植物破土的声音）。核心物理动作：植物从种子中“喷出”嫩芽，引申为任何事物的萌发或快速增长。",
+        "similarWarning": "spot（点/地点，对比sprout中的r和t组合表生长）；proud（骄傲的，对比sprout中r-ou-t表破土）；scout（侦察，对比sprout中spr-表喷出 vs sc-表看）；shout（喊叫，对比sprout中sp-表喷 vs sh-表声）；sport（运动，对比sprout中sp-表生长 vs sp-表娱乐）。字母级差异：sprout含“pr”表压力破出，而其他词无此组合。",
+        "extendedMeaning": "（考研中少见僻义，但可引申为）突然出现或激增，如“sprout up”（如雨后春笋般涌现），常见于外刊描述经济、现象等。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "spur",
+      "word": "spur",
+      "phonetic": "/spə:/",
+      "meaning": "n.靴刺,马刺;刺激,刺激物 v.刺激,激励",
+      "similar": [
+        "sour",
+        "spare",
+        "spark",
+        "spear",
+        "super"
+      ],
+      "question": {
+        "wordId": "spur",
+        "stem": "选择 \"spur\" 的正确中文意思：",
+        "correct": "n.靴刺,马刺;刺激,刺激物 v.刺激,激励",
+        "options": [
+          "n.靴刺,马刺;刺激,刺激物 v.刺激,激励",
+          "a.酸的;发酸的;酸痛的;脾气坏的;刻薄的",
+          "a.多余的,备用的 v.节约,节省;抽出(时间)",
+          "n.火花,火星 v.发火花,发电花"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语spura，与‘spurn’（踢）同源，核心物理动作为‘用靴刺刺马腹’。引申为‘刺激、激励’，从具体动作抽象为促使行动的动力。",
+        "similarWarning": "spur vs spark: spur结尾ur（踢的动作），spark结尾ark（火星溅出）；spur vs spear: spur有‘刺’意但无长杆，spear为‘矛’（长杆投掷武器）。",
+        "extendedMeaning": "考研僻义：n. 山脊/支脉（如a spur of the mountain）；v. 促进/加速（如spur economic growth，非仅‘刺激’）。",
+        "examUsage": "真题考点：spur sb to do sth（激励某人做某事）常作为完形填空选项，干扰项常为prompt、stimulate；例句：The policy spur investment in technology.（政策刺激技术投资。）"
+      }
+    },
+    {
+      "id": "spy",
+      "word": "spy",
+      "phonetic": "/spai/",
+      "meaning": "n.间谍 v.当间谍,刺探;察觉,发现",
+      "similar": [
+        "sly",
+        "spicy",
+        "spray"
+      ],
+      "question": {
+        "wordId": "spy",
+        "stem": "选择 \"spy\" 的正确中文意思：",
+        "correct": "n.间谍 v.当间谍,刺探;察觉,发现",
+        "options": [
+          "n.间谍 v.当间谍,刺探;察觉,发现",
+          "a.狡猾的,偷偷摸摸的",
+          "a.加很多香料的；(口味)浓郁的",
+          "n.喷雾,飞沫,浪花,水花 v.喷,喷射"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古法语'espier'（观察、监视），核心物理动作是“暗中观察”。词根sp-（看，如spect-变体）与-y（动词后缀）结合，指秘密监视他人以获取信息的行为，引申为“发现”即通过仔细观察而察觉。",
+        "similarWarning": "spy vs sky（天空）：spy含p（暗中窥视），sky含k（高远空间）；spy vs sly（狡猾的）：spy是动词/名词，sly是形容词，y字母前字母不同（p vs l）；spy vs spicy（辛辣的）：spicy多字母ic，表味道。",
+        "extendedMeaning": "考研僻义：作动词时表“突然发现（隐蔽事物）”，如'spy a mistake'（察觉一个错误），非字面“当间谍”，强调敏锐洞察。",
+        "examUsage": "真题考点：'spy on'（暗中监视）为固定搭配，常与'inform on'（告发）等干扰项对比。例句：'He was sent to spy on the enemy's movements.'（他被派去刺探敌人动向。）"
+      }
+    }
+  ]
+}

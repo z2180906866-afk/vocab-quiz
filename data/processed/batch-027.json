@@ -1,0 +1,1695 @@
+{
+  "batchId": 27,
+  "words": [
+    {
+      "id": "efficiency",
+      "word": "efficiency",
+      "phonetic": "/i'fiʃənsi/",
+      "meaning": "n.效率;功效",
+      "similar": [
+        "efficient",
+        "deficiency",
+        "proficiency",
+        "sufficient"
+      ],
+      "question": {
+        "wordId": "efficiency",
+        "stem": "选择 \"efficiency\" 的正确中文意思：",
+        "correct": "n.效率;功效",
+        "options": [
+          "n.(in)熟练,精通",
+          "n.缺乏,不足;缺点,缺陷",
+          "a.有效的,效率高的;有能力的,能胜任的",
+          "n.效率;功效"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 ef-（出）+ fic（做）+ iency（名词后缀）→ 做得出来的能力 → 效率",
+        "similarWarning": "efficient（adj.高效的）；deficiency（n.缺乏，不足，de-下+fic+iency）；proficiency（n.熟练，精通，pro-前+fic+iency）；sufficient（adj.足够的，suf-下+fic+ient）",
+        "extendedMeaning": "在考研中常引申为“效能、功效”，尤指系统或设备在单位能耗下的产出能力",
+        "examUsage": "高频搭配：energy efficiency（能源效率）；economic efficiency（经济效率）；efficiency gains（效率提升）"
+      }
+    },
+    {
+      "id": "efficient",
+      "word": "efficient",
+      "phonetic": "/i'fiʃənt/",
+      "meaning": "a.有效的,效率高的;有能力的,能胜任的",
+      "similar": [
+        "efficiency",
+        "sufficient",
+        "deficiency"
+      ],
+      "question": {
+        "wordId": "efficient",
+        "stem": "选择 \"efficient\" 的正确中文意思：",
+        "correct": "a.有效的,效率高的;有能力的,能胜任的",
+        "options": [
+          "n.缺乏,不足;缺点,缺陷",
+          "a.(for)足够的,充分的(比enough拘谨、正式)",
+          "a.有效的,效率高的;有能力的,能胜任的",
+          "n.效率;功效"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "前缀ef-（出，向外） + 词根fic（做，制造） + 后缀ient（形容词后缀，表性质）。核心物理动作：向外做出来→做出成果→效率高的，能胜任的。",
+        "similarWarning": "efficient vs. sufficient：efficient强调“做事效率高”，核心在“做”（fic）；sufficient强调“数量足够”，核心在“满足”（suffice）。efficient vs. deficiency：deficiency强调“缺乏、不足”，核心在“缺”（de-向下+fic→做得不够）。",
+        "extendedMeaning": "在考研中，efficient常引申为“（系统、流程）精简高效的”，如efficient market（有效市场）。",
+        "examUsage": "真题考点：efficient常与effective（有效果的）形成干扰。efficient侧重“以最小资源达成目标”，effective侧重“达成目标本身”。例：The new system is more efficient in energy use.（新系统在能源使用上更高效。）"
+      }
+    },
+    {
+      "id": "effort",
+      "word": "effort",
+      "phonetic": "/'efət/",
+      "meaning": "n.努力;成就;艰难的尝试",
+      "similar": [
+        "afford",
+        "effect",
+        "escort",
+        "export"
+      ],
+      "question": {
+        "wordId": "effort",
+        "stem": "选择 \"effort\" 的正确中文意思：",
+        "correct": "n.努力;成就;艰难的尝试",
+        "options": [
+          "n.努力;成就;艰难的尝试",
+          "vt.担负得起(损失、费用、后果等)，买得起",
+          "n.结果;效果;影响;印象 vt.招致;实现;达到",
+          "vt.护送(卫)；陪同 n.警卫，护送者；仪仗兵"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根词缀逻辑：来自拉丁语ex-（向外）+ fortis（力量），字面意为“向外用力”，即把力量释放出来。核心物理动作是“施加力量以达成目标”，引申为“努力、尝试”。",
+        "similarWarning": "形近词对比：effort vs. afford (提供，承担得起，字母差异：e- vs. a-, -ort vs. -ord)；effort vs. effect (效果，影响，字母差异：-ort vs. -ect)；effort vs. escort (护送，陪同，字母差异：-ort vs. -ort，但词根不同)。",
+        "extendedMeaning": "考研僻义：在真题中常引申为“成就、成果”，如“a literary effort”（文学成就），强调努力后的结果。",
+        "examUsage": "真题考点：固定搭配“make an effort to do sth.”（努力做某事）是高频考点，常与“spare no effort”（不遗余力）对比出现。例句：\"He made a great effort to finish the project on time.\"（他付出巨大努力按时完成项目。）"
+      }
+    },
+    {
+      "id": "ego",
+      "word": "ego",
+      "phonetic": "/'i:gəu/",
+      "meaning": "n.自我，自负，利已主义；(心理学)自我意识",
+      "similar": [
+        "negro"
+      ],
+      "question": {
+        "wordId": "ego",
+        "stem": "选择 \"ego\" 的正确中文意思：",
+        "correct": "n.自我，自负，利已主义；(心理学)自我意识",
+        "options": [
+          "ad.很少,不常",
+          "a.污秽的;邪恶的 v.弄脏;妨害;犯规 n.犯规",
+          "n.黑人 a.黑人的",
+          "n.自我，自负，利已主义；(心理学)自我意识"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 ego（我），与英语‘I’同源。核心动作是‘自我指称’，强调以‘我’为中心的心理状态，引申为自我意识、自负。",
+        "similarWarning": "go（去，走） vs ego：ego多一个‘e’前缀，表示‘自我’；ago（以前） vs ego：字母顺序差异，ago强调时间；egg（蛋） vs ego：字母‘g’替换为‘gg’，词义无关；negro（黑人） vs ego：前缀‘ne-’+‘gro’，注意拼写差异。",
+        "extendedMeaning": "心理学专业术语：指弗洛伊德人格结构中的‘自我’，即现实原则下的理性部分，区别于‘id’（本我）和‘superego’（超我）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "eight",
+      "word": "eight",
+      "phonetic": "/eit/",
+      "meaning": "num.八 pron.八(个，只...)",
+      "similar": [
+        "eighty",
+        "height",
+        "tight",
+        "delight",
+        "freight",
+        "flight",
+        "fright",
+        "plight"
+      ],
+      "question": {
+        "wordId": "eight",
+        "stem": "选择 \"eight\" 的正确中文意思：",
+        "correct": "num.八 pron.八(个，只...)",
+        "options": [
+          "num.八 pron.八(个，只...)",
+          "num./a.八十 pron.八十(个，只...)",
+          "n.高,高度;(常pl.)高地,高处",
+          "a.紧的;紧身的,装紧的;密封的 ad.紧紧地"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*ahtau，与拉丁语octo同源，源自原始印欧语*oḱtō-（八）。核心物理动作：双手各四指，构成八的计数手势。",
+        "similarWarning": "eighty（八十）: eight+y 表示“八的十倍数”；height（高度）: 源自heigh+th，与eight拼写相似但词根不同；weight（重量）: wei+ght，与weight同尾但词义无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "eighteen",
+      "word": "eighteen",
+      "phonetic": "/'ei'ti:n/",
+      "meaning": "num.十八，十八个",
+      "similar": [
+        "heighten",
+        "enlighten",
+        "eighty",
+        "fifteen",
+        "frighten",
+        "nineteen"
+      ],
+      "question": {
+        "wordId": "eighteen",
+        "stem": "选择 \"eighteen\" 的正确中文意思：",
+        "correct": "num.十八，十八个",
+        "options": [
+          "num./a.八十 pron.八十(个，只...)",
+          "v.启发,启蒙,教导",
+          "v.提高,升高",
+          "num.十八，十八个"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "eight (八) + teen (十的后缀) → 八加十，即十八。",
+        "similarWarning": "heighten (v.提高，加强) vs. eighteen: 拼写差异为 'h' 和 'ei'→'ei'，词义完全不同；enlighten (v.启发，启蒙) vs. eighteen: 拼写差异为 'en' 和 'en'，注意 'l' 和 't' 的区分。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "eighty",
+      "word": "eighty",
+      "phonetic": "/'eiti/",
+      "meaning": "num./a.八十 pron.八十(个，只...)",
+      "similar": [
+        "eight",
+        "tight",
+        "height",
+        "highly",
+        "eighteen",
+        "heighten"
+      ],
+      "question": {
+        "wordId": "eighty",
+        "stem": "选择 \"eighty\" 的正确中文意思：",
+        "correct": "num./a.八十 pron.八十(个，只...)",
+        "options": [
+          "num./a.八十 pron.八十(个，只...)",
+          "num.八 pron.八(个，只...)",
+          "a.紧的;紧身的,装紧的;密封的 ad.紧紧地",
+          "n.高,高度;(常pl.)高地,高处"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *ahtōuthund-，由 *ahtō（八）与 *-tēg-（十）组合演变，核心物理动作是“八乘以十”，表示数字80。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "eject",
+      "word": "eject",
+      "phonetic": "/i'dʒekt/",
+      "meaning": "v.喷射,排出;驱逐",
+      "similar": [
+        "reject",
+        "elect",
+        "erect",
+        "defect",
+        "detect",
+        "effect",
+        "expect",
+        "inject"
+      ],
+      "question": {
+        "wordId": "eject",
+        "stem": "选择 \"eject\" 的正确中文意思：",
+        "correct": "v.喷射,排出;驱逐",
+        "options": [
+          "v.树立,建立,使竖立 a.直立的,垂直的",
+          "v.拒绝,抵制,丢弃,排斥,退掉 n.落选者",
+          "v.选举,推选;选择,作出选择",
+          "v.喷射,排出;驱逐"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "e-（向外） + ject（投掷）→ 向外投出，核心动作是“猛力抛出”，引申为喷射、排出或驱逐某人。",
+        "similarWarning": "reject（re-回 + ject→扔回，拒绝）；inject（in-入 + ject→注入）；defect（de-离 + fect做→缺陷/叛逃；注意词根不同）。",
+        "extendedMeaning": "熟词僻义：在科技或商业语境中指“弹出”（如光盘、弹射座椅），或“罢免”（如股东eject董事）。",
+        "examUsage": "真题考点：常与from搭配（eject from），强调强制驱离。例句：The pilot ejected from the burning plane.（飞行员从燃烧的飞机中弹射逃生。）"
+      }
+    },
+    {
+      "id": "elaborate",
+      "word": "elaborate",
+      "phonetic": "/i'læbərət/",
+      "meaning": "v./a.精心制作(的);详细阐述(的)",
+      "similar": [
+        "evaporate",
+        "collaborate",
+        "deliberate",
+        "liberate",
+        "celebrate",
+        "exaggerate"
+      ],
+      "question": {
+        "wordId": "elaborate",
+        "stem": "选择 \"elaborate\" 的正确中文意思：",
+        "correct": "v./a.精心制作(的);详细阐述(的)",
+        "options": [
+          "v./a.精心制作(的);详细阐述(的)",
+          "v.蒸发,挥发;沉淀;发射;消失",
+          "vi.协作，合作；(与敌人)勾结",
+          "a.深思熟虑的,故意的 vt.研讨,商讨"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 e-(出) + labor(劳动、工作) + -ate(动词/形容词后缀) → 通过大量劳动做出来 → 精心制作；引申为详细阐述。核心动作：费功夫把东西做出来或说清楚。",
+        "similarWarning": "evaporate (e-出 + vapor蒸汽 + -ate → 蒸发)；collaborate (col-共同 + labor + -ate → 合作)；deliberate (de-彻底 + liber称量 + -ate → 仔细权衡 → 深思熟虑的)；liberate (liber自由 + -ate → 解放)；celebrate (celebr-荣誉 + -ate → 庆祝)；exaggerate (ex-出 + agger堆积 + -ate → 夸大)。差异主要在前缀和词根上。",
+        "extendedMeaning": "",
+        "examUsage": "核心搭配：elaborate on sth（详细阐述某事）。真题中常作为题眼出现，如：\"He refused to elaborate on his earlier statement.\"（他拒绝详细阐述早先的声明。）注意其形容词用法：elaborate plans（精心策划的方案）。"
+      }
+    },
+    {
+      "id": "elapse",
+      "word": "elapse",
+      "phonetic": "/i'læps/",
+      "meaning": "vi．(时间)溜走；(光阴)逝去",
+      "similar": [
+        "lapse",
+        "eclipse",
+        "ease",
+        "erase",
+        "clause",
+        "collapse"
+      ],
+      "question": {
+        "wordId": "elapse",
+        "stem": "选择 \"elapse\" 的正确中文意思：",
+        "correct": "vi．(时间)溜走；(光阴)逝去",
+        "options": [
+          "v.减轻;使舒适,使安心 n.容易;舒适,悠闲",
+          "n.日食,月食",
+          "n.失误,流逝,丧失,下降 v.失效,偏离,流逝",
+          "vi．(时间)溜走；(光阴)逝去"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根：e-（向外，离开）+ lapse（滑，溜）。核心动作：时间像从手中滑出去一样，强调不知不觉地流过。",
+        "similarWarning": "lapse（n. 小错，疏忽；v. 失效，堕入）vs elapse（v. 时间流逝）。eclipse（n./v. 日/月食；黯然失色）vs elapse（时间流逝）。erase（v. 擦除，抹去）vs elapse（时间流逝）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "elastic",
+      "word": "elastic",
+      "phonetic": "/i'læstik/",
+      "meaning": "a.弹性的 n.松紧带,橡皮圈",
+      "similar": [
+        "plastic",
+        "classic",
+        "drastic",
+        "realistic",
+        "electric"
+      ],
+      "question": {
+        "wordId": "elastic",
+        "stem": "选择 \"elastic\" 的正确中文意思：",
+        "correct": "a.弹性的 n.松紧带,橡皮圈",
+        "options": [
+          "n.(常pl.)塑料,塑料制品 a.可塑的,塑性的",
+          "a.弹性的 n.松紧带,橡皮圈",
+          "a.激烈的,严厉的;(药性等)猛烈的",
+          "n.(pl.)杰作,名著 a.第一流的,不朽的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源于希腊语'elastos'（可驱动的），由'elauno'（驱动、推动）演变而来。核心物理动作：外力作用下变形，外力消失后恢复原状。词根'elas-'暗示驱动与回弹的动态过程。",
+        "similarWarning": "plastic（塑料的，可塑的）与elastic区别：plastic强调永久变形，elastic强调弹性恢复。classic（经典的）与elastic拼写差异在'cl' vs 'el'，词义无关联。drastic（剧烈的）与elastic仅后缀'-astic'相似，词根不同。realistic（现实的）与elastic差异在'real' vs 'el'。electric（电的）与elastic拼写相近但词源无关。",
+        "extendedMeaning": "考研僻义：灵活的、可变的（非物理弹性），如'elastic demand'（弹性需求）指需求量对价格变动的敏感度；'elastic clause'（弹性条款）指宪法中允许国会灵活立法的条款。",
+        "examUsage": "真题考点：常与'demand'（需求）、'supply'（供给）、'clause'（条款）搭配，考查经济或法律语境中的引申义。干扰项常设为'flexible'（灵活的）或'adaptable'（可适应的），需注意elastic强调'恢复原状'的特性，而非单纯可调整。"
+      }
+    },
+    {
+      "id": "elbow",
+      "word": "elbow",
+      "phonetic": "/'elbəu/",
+      "meaning": "n.肘，(衣服的)肘部vt.用肘推，用肘挤",
+      "similar": [
+        "fellow",
+        "yellow",
+        "bow",
+        "flow",
+        "glow",
+        "slow",
+        "allow",
+        "endow"
+      ],
+      "question": {
+        "wordId": "elbow",
+        "stem": "选择 \"elbow\" 的正确中文意思：",
+        "correct": "n.肘，(衣服的)肘部vt.用肘推，用肘挤",
+        "options": [
+          "v./n.鞠躬,点头 n.弓(形);蝴蝶结",
+          "a.黄的，黄色的 n.黄色",
+          "n.人,家伙;伙伴,同事 a.同样的,同事的",
+          "n.肘，(衣服的)肘部vt.用肘推，用肘挤"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语 elboga，由 el（前臂，同 ell，即“尺骨”）+ boga（弯曲，同 bow）组成，核心物理动作是“前臂的弯曲处”，即肘关节。",
+        "similarWarning": "fellow /'feləʊ/（伙伴）与 elbow 差异在首字母 f 和 l，且无“肘”义；yellow /'jeləʊ/（黄色的）首字母 y 不同；bow /bəʊ/（弓；鞠躬）缺少 el 前缀；low /ləʊ/（低的）仅尾音相同；blow /bləʊ/（吹）首字母 b 后接 l；flow /fləʊ/（流动）首字母 f；glow /gləʊ/（发光）首字母 g；slow /sləʊ/（慢的）首字母 s。注意 elbow 中 el 是独立词根，非普通字母组合。",
+        "extendedMeaning": "在考研阅读中常作动词，表“强行挤过、推开”，如 elbow one's way through the crowd（在人群中挤出一条路），引申为“用手段排挤”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "elder",
+      "word": "elder",
+      "phonetic": "/'eldə/",
+      "meaning": "a.年长的,资格老的 n.长辈",
+      "similar": [
+        "elderly",
+        "gender",
+        "holder",
+        "reader",
+        "render",
+        "tender",
+        "alter",
+        "eager"
+      ],
+      "question": {
+        "wordId": "elder",
+        "stem": "选择 \"elder\" 的正确中文意思：",
+        "correct": "a.年长的,资格老的 n.长辈",
+        "options": [
+          "a.较老的，年长的n.[the～]到了晚年的人",
+          "a.年长的,资格老的 n.长辈",
+          "n.持有者,占有者;(台,架等)支持物",
+          "n.(生理上的)性；(名词、代词等的)性"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "elder 源自古英语 eldra，是 old 的比较级形式，核心动作/画面是‘年龄的递进比较’，直接表示‘更年长的’。与 old 相比，elder 强调家庭或群体中的相对年长关系，而非单纯的时间久远。",
+        "similarWarning": "elderly（adj. 年老的，指上了年纪的）vs elder（adj. 年长的，强调两人或多人中的相对顺序）。gender（n. 性别）拼写差异在首字母 g- 和末尾 -der，elder 无性别含义。holder（n. 持有者）拼写差异在 h- 和 -older，词义无关。reader（n. 读者）拼写差异在 r- 和 -eader。",
+        "extendedMeaning": "在考研英语中，elder 常作为名词表示‘长辈、年长者’，如‘respect the elders’（尊敬长辈），而非仅作形容词。此外，在‘elder statesman’中引申为‘资深元老’，指经验丰富、有影响力的前辈。",
+        "examUsage": "真题考点：elder 与 older 的辨析。elder 仅用于比较两者（尤指家人），不能接 than；older 可用于任何比较且可接 than。如：My elder brother is older than me. 干扰项常出现‘elder than’的错误搭配。"
+      }
+    },
+    {
+      "id": "elderly",
+      "word": "elderly",
+      "phonetic": "/'eldəli/",
+      "meaning": "a.较老的，年长的n.[the～]到了晚年的人",
+      "similar": [
+        "elder",
+        "orderly"
+      ],
+      "question": {
+        "wordId": "elderly",
+        "stem": "选择 \"elderly\" 的正确中文意思：",
+        "correct": "a.较老的，年长的n.[the～]到了晚年的人",
+        "options": [
+          "n.庙宇,神殿,寺;太阳穴",
+          "a.较老的，年长的n.[the～]到了晚年的人",
+          "a.年长的,资格老的 n.长辈",
+          "a.整齐的,有秩序的,有条理的 n.勤务兵"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "elder（年长的）+ -ly（形容词后缀）→ 较老的，年长的。词根elder源自古英语eldra，意为“更年长的”，与old同源，-ly在此强化形容词属性，指年龄上的相对较高阶段。",
+        "similarWarning": "elder（年长的，尤指家庭中较年长的成员）vs elderly（较老的，强调年龄阶段，不特指亲属关系）；orderly（有秩序的，整洁的）与elderly拼写相近但词义无关，注意区分字母顺序。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "elect",
+      "word": "elect",
+      "phonetic": "/i'lekt/",
+      "meaning": "v.选举,推选;选择,作出选择",
+      "similar": [
+        "select",
+        "eject",
+        "erect",
+        "neglect",
+        "reflect",
+        "defect",
+        "detect",
+        "effect"
+      ],
+      "question": {
+        "wordId": "elect",
+        "stem": "选择 \"elect\" 的正确中文意思：",
+        "correct": "v.选举,推选;选择,作出选择",
+        "options": [
+          "v.选举,推选;选择,作出选择",
+          "v.选择,挑选 a.精选的,选择的",
+          "v.喷射,排出;驱逐",
+          "v.树立,建立,使竖立 a.直立的,垂直的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：e-（出）+ lect（选择）。核心动作：从众多中“挑出”一个。本义为“选出”，引申为“选举”（通过投票选出）和“选择”（作出决定）。",
+        "similarWarning": "select（选择）：s-（分开）+ lect，强调从多个中“挑选”；elect（选举）：e-（出），强调“选出”来担任职务。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "electric",
+      "word": "electric",
+      "phonetic": "/i'lektrik/",
+      "meaning": "a.电的,导电的,电动的",
+      "similar": [
+        "electrical",
+        "electronic",
+        "electron",
+        "eccentric",
+        "metric",
+        "elastic"
+      ],
+      "question": {
+        "wordId": "electric",
+        "stem": "选择 \"electric\" 的正确中文意思：",
+        "correct": "a.电的,导电的,电动的",
+        "options": [
+          "n.电子",
+          "a.电的,电学的",
+          "a.电的,导电的,电动的",
+          "a.电子的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'ēlektron'（琥珀），因摩擦琥珀能产生静电。-ic 为形容词后缀，表“与...有关的”。核心物理动作：摩擦琥珀产生静电吸引轻小物体，引申为“与电相关的”。",
+        "similarWarning": "electrical（与电学/电力系统相关的），electric（直接用电驱动的，如电灯、电椅）；electronic（电子学的，涉及半导体/电路）；electron（电子，名词）。注意 -ic 与 -ical 后缀差异：electric 强调直接用电，electrical 强调与电科学/工程相关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "electrical",
+      "word": "electrical",
+      "phonetic": "/i'lektrikəl/",
+      "meaning": "a.电的,电学的",
+      "similar": [
+        "electrician",
+        "electric",
+        "electricity",
+        "electron",
+        "vertical",
+        "empirical",
+        "identical",
+        "practical"
+      ],
+      "question": {
+        "wordId": "electrical",
+        "stem": "选择 \"electrical\" 的正确中文意思：",
+        "correct": "a.电的,电学的",
+        "options": [
+          "a.电的,电学的",
+          "n.电,电流;电学",
+          "n.电学家,电工",
+          "a.电的,导电的,电动的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根electr-（电） + -ical（形容词后缀，表示“与…相关的”）。核心动作：与电相关的。",
+        "similarWarning": "electric（a.电的，指直接由电产生的或带电的，如electric current） vs. electrical（a.电学的，指与电学相关的，如electrical engineering） vs. electron（n.电子）。注意：electric强调电的物理性质，electrical强调电学学科或应用领域。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "electrician",
+      "word": "electrician",
+      "phonetic": "/ˌilek'triʃən/",
+      "meaning": "n.电学家,电工",
+      "similar": [
+        "electrical",
+        "electricity",
+        "electronic",
+        "technician"
+      ],
+      "question": {
+        "wordId": "electrician",
+        "stem": "选择 \"electrician\" 的正确中文意思：",
+        "correct": "n.电学家,电工",
+        "options": [
+          "a.电子的",
+          "n.电,电流;电学",
+          "a.电的,电学的",
+          "n.电学家,电工"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自electric（电的）+ -ian（表示职业的人，如musician、physician），核心动作/画面：与电打交道的人，即电工或电学家。",
+        "similarWarning": "electrical（adj. 电的，与电有关的） vs electrician（n. 电工）：electrical强调属性，electrician强调职业；electronic（adj. 电子的）与electrician拼写相近但词义不同，注意-ian结尾。",
+        "extendedMeaning": "在考研语境中，electrician通常仅指职业电工，无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "electricity",
+      "word": "electricity",
+      "phonetic": "/ˌilek'trisəti/",
+      "meaning": "n.电,电流;电学",
+      "similar": [
+        "electrician",
+        "electrical",
+        "electronic"
+      ],
+      "question": {
+        "wordId": "electricity",
+        "stem": "选择 \"electricity\" 的正确中文意思：",
+        "correct": "n.电,电流;电学",
+        "options": [
+          "n.电,电流;电学",
+          "n.电学家,电工",
+          "a.电的,电学的",
+          "a.电子的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 electr- 源自希腊语 ēlektron，原意为“琥珀”（摩擦琥珀能产生静电），后引申为“电”。-icity 为抽象名词后缀，表示“性质、状态”。整体指“电的性质”或“电流现象”。",
+        "similarWarning": "electrician（电工，-ian 表示“人”）；electrical（与电有关的，-ical 为形容词后缀，侧重“学科或设备”）；electronic（电子的，-onic 强调“电子电路/设备”，如手机、电脑）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "electron",
+      "word": "electron",
+      "phonetic": "/i'lektrɔn/",
+      "meaning": "n.电子",
+      "similar": [
+        "electronic",
+        "selection",
+        "electric",
+        "reflection",
+        "section",
+        "collection",
+        "electrical",
+        "perfection"
+      ],
+      "question": {
+        "wordId": "electron",
+        "stem": "选择 \"electron\" 的正确中文意思：",
+        "correct": "n.电子",
+        "options": [
+          "n.电子",
+          "a.电子的",
+          "a.电的,导电的,电动的",
+          "n.选择,挑选;选集,精选物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'ēlektron'（琥珀），因摩擦琥珀能产生静电现象。词根'electr-'表'电'，后缀'-on'为物理粒子单位后缀（如proton质子、neutron中子）。核心动作：电的最小单位。",
+        "similarWarning": "electric（电的，adj.）与electron（电子，n.）差异在词尾'-ic'（形容词后缀）vs '-on'（粒子后缀）；electronic（电子的，adj.）多'-onic'，侧重电子设备；selection（选择）拼写相似但词根不同。",
+        "extendedMeaning": "在考研科技类阅读中，常引申为'电子流'或'电子信号'，如electron microscope（电子显微镜）中的'electron'强调高能粒子束。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "electronic",
+      "word": "electronic",
+      "phonetic": "/ɪˌlek'trɒnɪk/",
+      "meaning": "a.电子的",
+      "similar": [
+        "electric",
+        "electron",
+        "electrician",
+        "electricity",
+        "selection",
+        "electrical"
+      ],
+      "question": {
+        "wordId": "electronic",
+        "stem": "选择 \"electronic\" 的正确中文意思：",
+        "correct": "a.电子的",
+        "options": [
+          "a.电子的",
+          "a.电的,导电的,电动的",
+          "n.电子",
+          "n.电学家,电工"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自希腊语ēlektron（琥珀），因摩擦琥珀产生静电现象。词根electr-（电）+ -onic（形容词后缀，表示与…相关的），核心物理动作是“与电子或电流相关的”。",
+        "similarWarning": "electric（电的，指与电有关的，如electric car）；electronic（电子的，指电子设备或系统，如electronic mail）；electrical（电气科学的，指与电学或电力相关的，如electrical engineering）。注意：electronic强调电子技术或电子器件，electric强调电力驱动。",
+        "extendedMeaning": "在考研中常指“电子化的、基于电子设备的”，如electronic commerce（电子商务），electronic media（电子媒体）。",
+        "examUsage": "常与digital（数字的）混淆，但electronic更侧重电子器件或系统，如electronic devices（电子设备）。真题中可能作为干扰项出现，辨析electronic与electric的区别。"
+      }
+    },
+    {
+      "id": "elegant",
+      "word": "elegant",
+      "phonetic": "/'elɪgənt/",
+      "meaning": "a.优雅的;端庄的;雅致的",
+      "similar": [
+        "elephant",
+        "relevant",
+        "element",
+        "delegate",
+        "pleasant",
+        "pregnant",
+        "tolerant"
+      ],
+      "question": {
+        "wordId": "elegant",
+        "stem": "选择 \"elegant\" 的正确中文意思：",
+        "correct": "a.优雅的;端庄的;雅致的",
+        "options": [
+          "n.元素;要素;成分;元件;自然环境",
+          "a.有关的,中肯的,相应的,实质性的",
+          "n.(动物)象",
+          "a.优雅的;端庄的;雅致的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'legere'（选择，挑选），前缀 e-（向外）+ leg（选择）+ ant（形容词后缀）。核心动作是‘向外挑选’——从众多事物中精心挑选出最好的，引申为‘优雅的、精致的’，强调经过筛选后的高级品味。",
+        "similarWarning": "elephant（大象） vs elegant（优雅的）：字母 'ph' vs 'g'，大象笨重 vs 优雅轻巧。\nrelevant（相关的） vs elegant：前缀 re-（再） vs e-（外），'lev'（举） vs 'leg'（选），相关是‘再举起’关联，优雅是‘选出’的精致。",
+        "extendedMeaning": "在考研中常引申为‘简洁的、精妙的’，如 elegant solution（简洁的解决方案），强调效率与美感并存的‘优雅解法’，非仅指外表。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "element",
+      "word": "element",
+      "phonetic": "/'elimənt/",
+      "meaning": "n.元素;要素;成分;元件;自然环境",
+      "similar": [
+        "cement",
+        "eleven",
+        "elegant",
+        "implement",
+        "basement",
+        "elephant",
+        "eloquent",
+        "movement"
+      ],
+      "question": {
+        "wordId": "element",
+        "stem": "选择 \"element\" 的正确中文意思：",
+        "correct": "n.元素;要素;成分;元件;自然环境",
+        "options": [
+          "num.十一 pron./a.十一(个，只...)",
+          "n.元素;要素;成分;元件;自然环境",
+          "n.水泥;胶泥,胶接剂 v.胶合;巩固,加强",
+          "a.优雅的;端庄的;雅致的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'elementum'（第一原理、基本成分），源于字母 'L、M、N' 的序列（代表基础字母），引申为构成万物的基本物质或组成部分。核心动作：构成整体的最小单位。",
+        "similarWarning": "cement（水泥）vs element（元素）：c-开头强调黏合，e-开头强调基础；eleven（十一）vs element（元素）：-ven与-ment后缀不同；elegant（优雅的）vs element（元素）：-gant与-ment后缀不同；implement（工具；实施）vs element（元素）：im-前缀意为'向内'，-ment后缀。",
+        "extendedMeaning": "考研僻义：自然环境（尤指适合某种活动的环境），如：the elements（恶劣天气/自然力），如 'exposed to the elements'（暴露在风雨中）；基本组成部分（哲学/化学语境），如 'the four elements'（四元素）。",
+        "examUsage": "真题考点：常考'要素、成分'义，搭配 'an essential element'（必要要素）或 'key element'（关键要素）；干扰项常与 'ingredient'（成分，尤指烹饪）或 'component'（部件）混淆。注意 'element' 强调整体中的基本单位，如 'the elements of success'（成功的要素）。"
+      }
+    },
+    {
+      "id": "elementary",
+      "word": "elementary",
+      "phonetic": "/ˌeli'mentəri/",
+      "meaning": "a.初步的;基本的;[化]元素的;自然力的",
+      "similar": [
+        "documentary",
+        "cemetery"
+      ],
+      "question": {
+        "wordId": "elementary",
+        "stem": "选择 \"elementary\" 的正确中文意思：",
+        "correct": "a.初步的;基本的;[化]元素的;自然力的",
+        "options": [
+          "a.文献的 n.记录片",
+          "n.坟墓，墓地，坟场",
+          "a.初步的;基本的;[化]元素的;自然力的",
+          "n.短语,词语,习语"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自 element（元素） + -ary（形容词后缀，表“与…相关的”）。核心动作：从“元素”引申为“构成事物的基本组成部分”，即“基本的、初步的”。",
+        "similarWarning": "documentary (a. 文件的，纪实的) vs elementary: docu- (文件) vs e- (出) + lement (元素)；cemetery (n. 墓地) vs elementary: 拼写差异在 -tery vs -tary，词义无关。",
+        "extendedMeaning": "在考研中常考“初级的、基础的”含义，如 elementary education (基础教育)，但需注意其“化]元素的”僻义在科技类阅读中出现。",
+        "examUsage": "常与 basic, fundamental 同义替换，但 elementary 更强调“入门级、简单化”。真题例句：elementary particle (基本粒子) 是物理学考点。"
+      }
+    },
+    {
+      "id": "elephant",
+      "word": "elephant",
+      "phonetic": "/'elifənt/",
+      "meaning": "n.(动物)象",
+      "similar": [
+        "elegant",
+        "telephone",
+        "element",
+        "pleasant",
+        "relevant"
+      ],
+      "question": {
+        "wordId": "elephant",
+        "stem": "选择 \"elephant\" 的正确中文意思：",
+        "correct": "n.(动物)象",
+        "options": [
+          "n.(动物)象",
+          "a.优雅的;端庄的;雅致的",
+          "n.电话,电话机 v.打电话",
+          "n.元素;要素;成分;元件;自然环境"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'elephas'（象牙），核心物理动作是'象牙突出'。elephant本义为'有象牙的动物'，象的显著特征即其长牙。",
+        "similarWarning": "elegant（优雅的）: e+leg（腿）+ant，对比elephant中'phant'部分；telephone（电话）: tele（远）+phone（声音），与elephant无词根关联；element（元素）: ele+ment，对比elephant中'phant'；pleasant（愉快的）: pleas（取悦）+ant，与elephant拼写差异在'phant' vs 'as'；relevant（相关的）: re+lev（举）+ant，对比elephant中'phant'。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "elevate",
+      "word": "elevate",
+      "phonetic": "/'eliveit/",
+      "meaning": "vt.举起,提拔,振奋,提升...的职位",
+      "similar": [
+        "delegate",
+        "elevator",
+        "alleviate",
+        "celebrate",
+        "delicate",
+        "generate",
+        "relevant",
+        "renovate"
+      ],
+      "question": {
+        "wordId": "elevate",
+        "stem": "选择 \"elevate\" 的正确中文意思：",
+        "correct": "vt.举起,提拔,振奋,提升...的职位",
+        "options": [
+          "v.减轻，缓和，缓解(痛苦等)",
+          "n.代表 vt.委派…为代表;授权;委托",
+          "n.电梯,升降机",
+          "vt.举起,提拔,振奋,提升...的职位"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 elevare，e-（向外/向上）+ lev-（变轻、举起）+ -ate（动词后缀）。核心物理动作为“向上举起”，引申为提升职位、振奋精神。",
+        "similarWarning": "elevate vs. alleviate：elevate 核心是“向上举”；alleviate（al-加强+lev-轻）核心是“减轻（痛苦）”，拼写差异在首字母 e- vs. al-。",
+        "extendedMeaning": "在考研阅读中常引申为“提升（道德、文化水平或地位）”，如 elevate the quality of life（提升生活质量），或“振奋（情绪）”，如 elevate morale（提振士气）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "elevator",
+      "word": "elevator",
+      "phonetic": "/'eliveitə/",
+      "meaning": "n.电梯,升降机",
+      "similar": [
+        "elevate",
+        "generator",
+        "equator",
+        "senator",
+        "lavatory",
+        "operator"
+      ],
+      "question": {
+        "wordId": "elevator",
+        "stem": "选择 \"elevator\" 的正确中文意思：",
+        "correct": "n.电梯,升降机",
+        "options": [
+          "n.赤道",
+          "vt.举起,提拔,振奋,提升...的职位",
+          "n.电梯,升降机",
+          "n.发电机,发生器"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'elevare'（举起），由 'e-'（向外） + 'levare'（举起，源自 'levis' 轻的）构成。核心动作：将物体从低处向上举起。",
+        "similarWarning": "elevator vs. generator: 'elev-' 意为举起，'gen-' 意为产生。elevator 是升降装置，generator 是发电机。\nelevator vs. equator: 'equ-' 意为相等，equator 是赤道（等分地球）。\nelevator vs. senator: 'sen-' 意为年长，senator 是参议员。\nelevator vs. lavatory: 'lav-' 意为洗，lavatory 是洗手间。\nelevator vs. operator: 'oper-' 意为工作，operator 是操作员。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "eleven",
+      "word": "eleven",
+      "phonetic": "/i'levən/",
+      "meaning": "num.十一 pron./a.十一(个，只...)",
+      "similar": [
+        "element",
+        "lever",
+        "seven",
+        "clever",
+        "relevant"
+      ],
+      "question": {
+        "wordId": "eleven",
+        "stem": "选择 \"eleven\" 的正确中文意思：",
+        "correct": "num.十一 pron./a.十一(个，只...)",
+        "options": [
+          "num.十一 pron./a.十一(个，只...)",
+          "n.元素;要素;成分;元件;自然环境",
+          "n.杆,杠杆,手段,途径,工具",
+          "num.七，七个(人或物)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *ainlif-，由 *ainaz（一）和 *lif-（剩下）组成，字面意为“十之后剩下一”。与古英语 endleofan 同源，核心动作是“十之后余一”。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "eligible",
+      "word": "eligible",
+      "phonetic": "/'elidʒəbl/",
+      "meaning": "a.符合条件的;(尤指婚姻等)合适(意)的",
+      "similar": [
+        "negligible",
+        "edible",
+        "liable",
+        "visible",
+        "flexible",
+        "reliable"
+      ],
+      "question": {
+        "wordId": "eligible",
+        "stem": "选择 \"eligible\" 的正确中文意思：",
+        "correct": "a.符合条件的;(尤指婚姻等)合适(意)的",
+        "options": [
+          "a.可食用的",
+          "a.可忽略不计的，微不足道的",
+          "a.有...倾向的；可能遭受...的；有责任的",
+          "a.符合条件的;(尤指婚姻等)合适(意)的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'eligere'（选出），由 'e-'（出） + 'legere'（选择）构成，本义为'被选出的'。后缀 '-ible' 表'能够...的'，故核心逻辑为'能够被选出的'，即符合特定标准或条件，从而有资格被选中。在婚姻语境中，指'被选为配偶的合适人选'。",
+        "similarWarning": "negligible（可忽略的）: 'neg-'（否定）+ 'lig'（选择）→不被选择的→可忽略的；edible（可食用的）: 'ed-'（吃）→可吃的；liable（有责任的）: 'li-'（绑）→被绑住的→有义务的；visible（可见的）: 'vis-'（看）→可见的。核心差异：eligible强调'资格'，negligible强调'不重要'，edible强调'可食用'。",
+        "extendedMeaning": "在考研阅读中常引申为'（尤指婚姻）合适的，合意的'，如 'eligible bachelor'（黄金单身汉）。此外，在商业或法律语境中可表'有资格的'，如 'eligible voters'（合格选民）。",
+        "examUsage": "常考搭配：'be eligible for'（有资格获得），如 'be eligible for a pension'（有资格领养老金）。真题例句：'Only those who have completed the training course are eligible to apply for the position.'（只有完成培训课程的人才有资格申请该职位。）注意与 'qualified' 区分：eligible 侧重符合客观条件，qualified 侧重具备能力或资质。"
+      }
+    },
+    {
+      "id": "eliminate",
+      "word": "eliminate",
+      "phonetic": "/i'limineit/",
+      "meaning": "vt.除去;淘汰;排(删,消)除;削减(人员)",
+      "similar": [
+        "illuminate",
+        "climate",
+        "imitate",
+        "dominate",
+        "nominate",
+        "originate",
+        "terminate",
+        "preliminary"
+      ],
+      "question": {
+        "wordId": "eliminate",
+        "stem": "选择 \"eliminate\" 的正确中文意思：",
+        "correct": "vt.除去;淘汰;排(删,消)除;削减(人员)",
+        "options": [
+          "vt.除去;淘汰;排(删,消)除;削减(人员)",
+          "vt.照亮，照明；用灯光装饰；说明，阐释",
+          "n.气候;风气,社会思潮",
+          "v.模仿,仿效;仿造,伪造"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源于拉丁语 'eliminare'，由 'e-'（向外） + 'limen'（门槛）组成。核心动作是 '推过门槛扔出去'，即排除、消除。",
+        "similarWarning": "形近词辨析：illuminate（照亮，illumine-光） vs eliminate（消除）。注意 'lumin'（光）与 'limin'（门槛）的字母差异：illuminate 有 'u' 和 'a'，eliminate 有 'e' 和 'a'。",
+        "extendedMeaning": "考研僻义：在竞赛、选拔中表 '淘汰'（如 eliminate competitors），而非仅 '除去'；在数学中表 '消去（变量）'。",
+        "examUsage": "真题考点：常与 'eliminate the possibility of'（排除...的可能性）搭配；阅读中作为因果逻辑词，表 '消除问题/风险'。"
+      }
+    },
+    {
+      "id": "elite",
+      "word": "elite",
+      "phonetic": "/ei'li:t/",
+      "meaning": "n.<法>[集合名词]精华;精锐;中坚分子",
+      "similar": [
+        "delete",
+        "excite",
+        "polite",
+        "recite",
+        "relate",
+        "bite",
+        "cite",
+        "edit"
+      ],
+      "question": {
+        "wordId": "elite",
+        "stem": "选择 \"elite\" 的正确中文意思：",
+        "correct": "n.<法>[集合名词]精华;精锐;中坚分子",
+        "options": [
+          "n.<法>[集合名词]精华;精锐;中坚分子",
+          "a.有礼貌的,客气的;有教养的,文雅的",
+          "vt.删除",
+          "v.刺激,使激动;激发,激励"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自法语élite，原指‘被选中的人’，来自拉丁语eligere（选择），由e-（出）+ligere（挑选）构成。核心动作是‘从群体中挑选出来’，引申为‘精华、精英’。",
+        "similarWarning": "delete（删除，de-去+lete=let离开）vs elite（e-出+lite=选择）：前者强调‘移除’，后者强调‘选出’；excite（刺激，ex-出+cite唤起）vs elite：前者动词‘使兴奋’，后者名词‘精英’；polite（礼貌的，pol-磨光）vs elite：前者形容词‘文雅的’，后者名词‘精英’；recite（背诵，re-再+cite引用）vs elite：前者‘复述’，后者‘精英’；relate（关联，re-回+late携带）vs elite：前者‘联系’，后者‘精英’；lie（躺/说谎）vs elite：前者短词，后者含‘lite’；bite（咬）vs elite：前者动词，后者名词；cite（引用）vs elite：前者‘引证’，后者‘精英’。核心差异在词根lite（选择）与lete/ cite/ late等区分。",
+        "extendedMeaning": "考研中常引申为‘精英阶层、上层集团’，如political elite（政治精英），非仅指‘精华’。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "eloquent",
+      "word": "eloquent",
+      "phonetic": "/'eləkwənt/",
+      "meaning": "a.雄辩的,有说服力的;善辩的,口才流利的",
+      "similar": [
+        "fluent",
+        "element",
+        "frequent",
+        "employment"
+      ],
+      "question": {
+        "wordId": "eloquent",
+        "stem": "选择 \"eloquent\" 的正确中文意思：",
+        "correct": "a.雄辩的,有说服力的;善辩的,口才流利的",
+        "options": [
+          "a.时常发生的,频繁的",
+          "n.元素;要素;成分;元件;自然环境",
+          "a.流利的,流畅的",
+          "a.雄辩的,有说服力的;善辩的,口才流利的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根：e-(出) + loqu(说话) + -ent(形容词后缀) → 说出来的 → 能言善辩的，有说服力的。核心动作：把话说出来，且说得漂亮。",
+        "similarWarning": "fluent (a.流利的) → 强调语言流畅；eloquent (a.雄辩的) → 强调表达有感染力、说服力。element (n.元素) → 拼写相近但词义无关。frequent (a.频繁的) → 拼写相近但词义无关。employment (n.雇佣) → 拼写相近但词义无关。",
+        "extendedMeaning": "在考研中，eloquent 可引申为“（事物）清楚表达的、明白显示的”，如 an eloquent reminder（有力的提醒）。",
+        "examUsage": "常见搭配：an eloquent speech（雄辩的演讲）；be eloquent of（充分说明，清楚表明）。真题例句：His eyes were eloquent of his determination.（他的眼神充分表明了他的决心。）"
+      }
+    },
+    {
+      "id": "elsewhere",
+      "word": "elsewhere",
+      "phonetic": "/ˌels'hwεə/",
+      "meaning": "ad.在别处,向别处",
+      "similar": [
+        "somewhere"
+      ],
+      "question": {
+        "wordId": "elsewhere",
+        "stem": "选择 \"elsewhere\" 的正确中文意思：",
+        "correct": "ad.在别处,向别处",
+        "options": [
+          "n.卡路里(食物所产生的热量或能量单位)",
+          "n.(生理上的)性；(名词、代词等的)性",
+          "ad.某地，在某处；在附近，前后，大约",
+          "ad.在别处,向别处"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "else + where。else意为‘其他、别的’，where意为‘哪里’。组合后直指‘在其他某个地方’，核心动作是‘位置转移或存在位置的偏移’。",
+        "similarWarning": "somewhere（某处）：some（某个）替换else（别的），强调‘不确定的具体某地’。everywhere（到处）：every（每个）替换else，强调‘所有地方’。拼写差异在首词根，导致空间范围不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "e-mail",
+      "word": "e-mail",
+      "phonetic": "/i: meɪl/",
+      "meaning": "n.(electronic mail)电子信函，电子邮件",
+      "similar": [
+        "entail"
+      ],
+      "question": {
+        "wordId": "e-mail",
+        "stem": "选择 \"e-mail\" 的正确中文意思：",
+        "correct": "n.(electronic mail)电子信函，电子邮件",
+        "options": [
+          "n.(electronic mail)电子信函，电子邮件",
+          "vt.使承担;需要;把(疾病等)遗传给;限定",
+          "n.爱好者;(pl.)情侣",
+          "n.电影；胶片；薄膜，薄层 vt.把..拍成电影"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "e-（电子）+ mail（邮件），指通过电子方式传输的信函，与纸质邮件相对。",
+        "similarWarning": "mail（邮件，邮政） vs e-mail（电子邮件）：mail指传统纸质邮件或邮政系统；e-mail强调电子传输。entail（使必要，牵涉）与e-mail拼写相似但含义无关。",
+        "extendedMeaning": "在考研语境中，e-mail常作为动词使用，意为“发电子邮件”，如“e-mail someone”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "embark",
+      "word": "embark",
+      "phonetic": "/em'bɑ:k/",
+      "meaning": "v.(使)上船(或飞机,汽车等);着手,从事",
+      "similar": [
+        "bark",
+        "mark",
+        "remark"
+      ],
+      "question": {
+        "wordId": "embark",
+        "stem": "选择 \"embark\" 的正确中文意思：",
+        "correct": "v.(使)上船(或飞机,汽车等);着手,从事",
+        "options": [
+          "n.(about,on)评语,意见 v.(on)评论;注意到",
+          "n.痕迹;记号;分数 v.标记,打分,使有特色",
+          "vi.(狗等)吠，叫n.吠声，叫声；树皮",
+          "v.(使)上船(或飞机,汽车等);着手,从事"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "em-（进入）+ bark（船体/树皮）。核心动作是“登上船体”，后引申为“开始某段旅程或事业”。",
+        "similarWarning": "bark（狗吠/树皮）：去掉em-后剩bark，与“船”无关；mark（标记/痕迹）：拼写差字母a与r，无“登船”义；remark（评论）：re-（再次）+ mark，与“开始”无关。",
+        "extendedMeaning": "着手、从事（尤指新事业或冒险）：embark on a new career/project。",
+        "examUsage": "embark on：开始、从事（考研完形/阅读高频搭配，常与career, journey, venture连用）。"
+      }
+    },
+    {
+      "id": "embarrass",
+      "word": "embarrass",
+      "phonetic": "/im'bærəs/",
+      "meaning": "vt.使困窘,使局促不安;阻碍,麻烦",
+      "similar": [],
+      "question": {
+        "wordId": "embarrass",
+        "stem": "选择 \"embarrass\" 的正确中文意思：",
+        "correct": "vt.使困窘,使局促不安;阻碍,麻烦",
+        "options": [
+          "v.指示,规定;处(方),开(药)",
+          "vt.使困窘,使局促不安;阻碍,麻烦",
+          "vt.控告，指责 vi.指控，指责",
+          "n.口哨,汽笛;口哨声,汽笛声 v.吹口哨;鸣笛"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自法语embarrasser，由em-（进入）+barre（障碍物）构成，核心动作是“被障碍物卡住”。词源演变：物理上被障碍物阻挡 → 心理上感到局促、困窘。记忆锚点：想象被一根横木（barre）挡住去路，进退两难。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常表“阻碍、妨碍”，如embarrass trade（阻碍贸易）或embarrass progress（妨碍进展），侧重使事情陷入困境的抽象义。",
+        "examUsage": "真题中常考搭配：embarrass sb. with sth.（用某事使某人难堪）或be embarrassed by（被…所困）。高频考点：embarrass与hamper、hinder等近义词辨析，embarrass强调因尴尬或阻碍导致的被动困境。"
+      }
+    },
+    {
+      "id": "embassy",
+      "word": "embassy",
+      "phonetic": "/'embəsi/",
+      "meaning": "n.大使馆;大使及其随员",
+      "similar": [],
+      "question": {
+        "wordId": "embassy",
+        "stem": "选择 \"embassy\" 的正确中文意思：",
+        "correct": "n.大使馆;大使及其随员",
+        "options": [
+          "n.肚子，腹部；(像肚子一样)鼓起的部分，膛",
+          "n.大使馆;大使及其随员",
+          "n.错误,过失",
+          "a.优良的,卓越的;上级的 n.上级;长者;高手"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古法语ambassée（使命、差事），源自拉丁语ambactus（仆人、使者），前缀amb-表示“周围”，词根act-表示“行动”，核心动作指“被派往周围执行任务的人”，引申为“大使及其机构”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中多指“大使馆”这一机构实体，较少出现僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "embed",
+      "word": "embed",
+      "phonetic": "/im'bed/",
+      "meaning": "vt.把…嵌(埋、插)入，扎牢；使深留脑中",
+      "similar": [
+        "embody"
+      ],
+      "question": {
+        "wordId": "embed",
+        "stem": "选择 \"embed\" 的正确中文意思：",
+        "correct": "vt.把…嵌(埋、插)入，扎牢；使深留脑中",
+        "options": [
+          "vt.把…嵌(埋、插)入，扎牢；使深留脑中",
+          "vt.具体表达,使具体化;包含,收录",
+          "a.中间的,暂时的,临时的 n.过渡时期,暂定",
+          "n.假定，设想；采取；承担；推测；假装"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：em-（进入）+ bed（床）。核心物理动作：把某物放入床中，即“嵌入、插入”。引申为抽象概念：使某事物深深固定在某个位置或思想中。",
+        "similarWarning": "embody（体现，包含）：em-（进入）+ body（身体）→ 使思想进入身体→ 体现。与embed区别：embed强调“嵌入”物体或思想，embody强调“体现”抽象概念。member（成员）：mem-（记忆）+ ber→ 记忆中的一部分→ 成员。bed（床）：本词根，与embed同源但无前缀。",
+        "extendedMeaning": "在计算机科学中指“嵌入”代码或媒体文件；在心理学或写作中指“使（情感、观念）深深印入”。",
+        "examUsage": "考研真题中常考短语：be embedded in（嵌入/根植于）。例如：The idea is deeply embedded in our culture.（这种观念深深根植于我们的文化中。）注意：embed在阅读中可能作为题眼，考查其抽象含义“使深留脑中”与具体含义“嵌入”的区分。"
+      }
+    },
+    {
+      "id": "embody",
+      "word": "embody",
+      "phonetic": "/im'bɔdi/",
+      "meaning": "vt.具体表达,使具体化;包含,收录",
+      "similar": [
+        "embed",
+        "nobody",
+        "somebody"
+      ],
+      "question": {
+        "wordId": "embody",
+        "stem": "选择 \"embody\" 的正确中文意思：",
+        "correct": "vt.具体表达,使具体化;包含,收录",
+        "options": [
+          "vt.具体表达,使具体化;包含,收录",
+          "vt.把…嵌(埋、插)入，扎牢；使深留脑中",
+          "pron.谁也不,无人 n.小人物",
+          "pron.某人，有人 n.重要人物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "em-（进入、使）+ body（身体）→ 使进入身体 → 使抽象概念具有具体形体，即“具体表达”；引申为将某物包含于整体之内，即“包含、收录”。",
+        "similarWarning": "embed（嵌入，强调插入内部） vs embody（使具体化，强调赋予形体）：embed = em-（进入）+ bed（床）→ 嵌入床中；embody = em- + body（身体）→ 赋予身体。",
+        "extendedMeaning": "在考研阅读中常考“包含、体现”的抽象义，如“embody a principle”（体现原则）或“embody a spirit”（体现精神）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "embrace",
+      "word": "embrace",
+      "phonetic": "/im'breis/",
+      "meaning": "v.拥抱;包含;包围;环绕;采用;接受",
+      "similar": [
+        "brace",
+        "emigrate",
+        "entrance"
+      ],
+      "question": {
+        "wordId": "embrace",
+        "stem": "选择 \"embrace\" 的正确中文意思：",
+        "correct": "v.拥抱;包含;包围;环绕;采用;接受",
+        "options": [
+          "n.入口,门口;进入;入学,入会",
+          "v.(反)immigrate;(to,from)自本国移居他",
+          "v.拥抱;包含;包围;环绕;采用;接受",
+          "v.使防备;支撑;使(手,足,肩等)绷紧 n.托架"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "em-（进入）+brace（手臂），字面是“进入手臂”，核心动作是“用双臂环抱”，引申为“包围、包含”，再抽象为“接受、采用”。",
+        "similarWarning": "brace（n.支架；v.支撑）只含“手臂”词根，无前缀；emigrate（v.移民）含e-（向外）+migr（迁移），与“拥抱”无关；entrance（n.入口；v.使入迷）含en-（进入）+trance（恍惚），拼写相似但词义源自不同词根。",
+        "extendedMeaning": "在考研中常考“欣然接受（新思想/变化）”，如embrace change（接受变革），或“涵盖、包含”，如embrace many topics（涵盖多个话题）。",
+        "examUsage": "真题考点：embrace常作为“接受”义与accept同义替换，但更强调主动、热情地接纳。例：The company embraced the new technology.（该公司欣然接受了新技术。）"
+      }
+    },
+    {
+      "id": "emerge",
+      "word": "emerge",
+      "phonetic": "/i'mə:dʒ/",
+      "meaning": "vt.显现,浮现;暴露;形成;",
+      "similar": [
+        "merge",
+        "mere",
+        "verge",
+        "energy",
+        "beverage",
+        "submerge"
+      ],
+      "question": {
+        "wordId": "emerge",
+        "stem": "选择 \"emerge\" 的正确中文意思：",
+        "correct": "vt.显现,浮现;暴露;形成;",
+        "options": [
+          "n.边,边缘 v.濒临",
+          "v.(使)结合，(使)合并，(使)合为一体",
+          "a.纯粹的;仅仅,只不过",
+          "vt.显现,浮现;暴露;形成;"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "e-（向外）+ merge（沉没）→ 从沉没状态中浮出水面 → 显现、浮现。核心动作：从隐藏或淹没的状态中脱离出来，进入视野。",
+        "similarWarning": "merge（合并）：emerge 强调“出现”，merge 强调“融合”。区别在于前缀 e-（向外） vs 无前缀。submerge（淹没）：sub-（向下）+ merge，与 emerge 方向相反。",
+        "extendedMeaning": "暴露（真相、问题等抽象事物显现）：The truth emerged after years of investigation.（真相在多年调查后暴露。）",
+        "examUsage": "真题常考搭配：emerge from（从……中出现），emerge as（作为……出现/崛起）。例：New evidence emerged from the trial.（审判中出现了新证据。）"
+      }
+    },
+    {
+      "id": "emergency",
+      "word": "emergency",
+      "phonetic": "/i'mə:dʒənsi/",
+      "meaning": "n.紧急情况,突然事件,非常时刻",
+      "similar": [],
+      "question": {
+        "wordId": "emergency",
+        "stem": "选择 \"emergency\" 的正确中文意思：",
+        "correct": "n.紧急情况,突然事件,非常时刻",
+        "options": [
+          "n.紧急情况,突然事件,非常时刻",
+          "n.膝,膝盖",
+          "n./v.统治,支配,盛行 n.统治时期 v.占优势",
+          "a.核心的,中心的;原子核的,核能的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根e-（向外）+ merg-（浸入、沉没）+ -ency（名词后缀）。核心动作：从沉没状态中突然浮出水面，引申为意想不到的、需要立即应对的突发状况。",
+        "similarWarning": "emergency vs. experience：前者强调“突发紧急”，含词根merg-（沉没）；后者强调“经历/经验”，含词根peri-（尝试、危险）。拼写差异为g/ri，词源不同。",
+        "extendedMeaning": "",
+        "examUsage": "无特殊考点"
+      }
+    },
+    {
+      "id": "emigrate",
+      "word": "emigrate",
+      "phonetic": "/'emigreit/",
+      "meaning": "v.(反)immigrate;(to,from)自本国移居他",
+      "similar": [
+        "migrate",
+        "designate",
+        "pirate",
+        "embrace",
+        "imitate",
+        "vibrate",
+        "centigrade",
+        "deliberate"
+      ],
+      "question": {
+        "wordId": "emigrate",
+        "stem": "选择 \"emigrate\" 的正确中文意思：",
+        "correct": "v.(反)immigrate;(to,from)自本国移居他",
+        "options": [
+          "v.指明,指出;任命,指派",
+          "v.迁移,移居(国外)",
+          "n./v.海盗,盗版(者)",
+          "v.(反)immigrate;(to,from)自本国移居他"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "e- (向外) + migrate (迁移) → 向外迁移，即离开本国移居他国。核心动作：从内部向外部移动。",
+        "similarWarning": "形近词辨析：\n- emigrate (e-向外 + migrate) 移居国外\n- immigrate (im-向内 + migrate) 移居入境\n- migrate (migrate) 迁移（无方向侧重）\n- designate (de-向下 + sign-标记 + -ate) 指定\n- pirate (pira-海盗 + -ate) 海盗；盗版\n- embrace (em-进入 + brace-手臂) 拥抱\n- imitate (imit-模仿 + -ate) 模仿\n- vibrate (vibr-震动 + -ate) 振动\n- centigrade (centi-百 + grade-等级) 摄氏度的\n- deliberate (de-完全 + liber-权衡 + -ate) 故意的；深思熟虑的",
+        "extendedMeaning": "考研中常考其与immigrate的方向对比（e-向外 vs im-向内），无特殊僻义。",
+        "examUsage": "真题考点：emigrate 常与 from...to... 搭配（如 emigrate from China to Canada），而 immigrate 则用 into/to 表示进入。干扰项常混淆方向，需注意前缀差异。"
+      }
+    },
+    {
+      "id": "eminent",
+      "word": "eminent",
+      "phonetic": "/'eminənt/",
+      "meaning": "a.显赫的;杰出的;有名的;优良的",
+      "similar": [
+        "evident",
+        "permanent",
+        "prominent",
+        "dominant",
+        "feminine",
+        "resident"
+      ],
+      "question": {
+        "wordId": "eminent",
+        "stem": "选择 \"eminent\" 的正确中文意思：",
+        "correct": "a.显赫的;杰出的;有名的;优良的",
+        "options": [
+          "a.显赫的;杰出的;有名的;优良的",
+          "a.明显的,明白的",
+          "a.突起的,凸出的;突出的,杰出的",
+          "a.永久的,持久的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根e-（出）+ min（突出）+ ent（形容词后缀）→ 突出的、冒尖的 → 引申为显赫的、杰出的。核心物理动作是‘从平面中凸出/高耸’，强调在同类中明显高于他人。",
+        "similarWarning": "prominent（a.突出的；著名的）：前缀pro-（向前）+ min（突出），强调‘向前凸出’，更侧重视觉或地位的显著；eminent强调因成就或品质而‘卓越、杰出’，常用于人。evident（a.明显的）：前缀e-（出）+ vid（看），强调‘看得见’，指事实证据明显；与eminent拼写相似但词义无关。",
+        "extendedMeaning": "",
+        "examUsage": "真题中常与prominent构成干扰项，需注意eminent多修饰人（如an eminent scholar），而prominent可修饰物（如a prominent feature）。"
+      }
+    },
+    {
+      "id": "emit",
+      "word": "emit",
+      "phonetic": "/i'mit/",
+      "meaning": "vt.发出;放射;吐露;散发;发表;发行",
+      "similar": [
+        "edit",
+        "exit",
+        "omit",
+        "permit",
+        "admit",
+        "elite",
+        "exist",
+        "limit"
+      ],
+      "question": {
+        "wordId": "emit",
+        "stem": "选择 \"emit\" 的正确中文意思：",
+        "correct": "vt.发出;放射;吐露;散发;发表;发行",
+        "options": [
+          "vt.发出;放射;吐露;散发;发表;发行",
+          "v.编辑,校订",
+          "n.出口,通道",
+          "v.省略,删去;遗漏,忽略"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "e-（向外）+ -mit-（发送，投掷）。核心动作：向外发送。本义为“发出（光、热、声音、气味等）”，引申为“吐露（意见）、散发（信息）、发行（出版物）”。",
+        "similarWarning": "edit（编辑，e- + dict-说→说出改动） vs emit：edit侧重文字修改，emit侧重物理/信息释放。omit（省略，o-（=ob-离开）+ -mit-→扔开） vs emit：omit强调遗漏或放弃，emit强调主动发出。admit（承认/准许进入，ad-向+ -mit-→送向） vs emit：admit含“接纳”之意，emit不含。",
+        "extendedMeaning": "在考研阅读中，emit常引申为“发表（观点/声明）”，如emit a statement（发表声明）；或“发出（信号/脉冲）”，如emit electromagnetic waves（发射电磁波）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "emotion",
+      "word": "emotion",
+      "phonetic": "/i'məuʃən/",
+      "meaning": "n.情绪,情感,感情",
+      "similar": [
+        "motion",
+        "notion",
+        "edition",
+        "erosion",
+        "evolution",
+        "ambition",
+        "equation",
+        "petition"
+      ],
+      "question": {
+        "wordId": "emotion",
+        "stem": "选择 \"emotion\" 的正确中文意思：",
+        "correct": "n.情绪,情感,感情",
+        "options": [
+          "n.版,版本,版次",
+          "n.概念,想法,意念,看法,观点",
+          "n.运动,动;提议,动议 v.提议,动议",
+          "n.情绪,情感,感情"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语emovere，e-（向外）+ movere（移动），核心物理动作是“向外移动、向外涌动”。情感如同内心深处的能量向外涌动、释放，故引申为“情绪、情感”。",
+        "similarWarning": "motion（运动）：e-（向外）vs. mo-（移动），emotion强调情绪外涌，motion强调物理移动；notion（概念）：e-（外）vs. no-（知道），emotion是感性外涌，notion是理性认知；edition（版本）：e-（出）+ dit（给），emotion与“给出”无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "emperor",
+      "word": "emperor",
+      "phonetic": "/'empərə/",
+      "meaning": "n.皇帝",
+      "similar": [
+        "exterior",
+        "superior"
+      ],
+      "question": {
+        "wordId": "emperor",
+        "stem": "选择 \"emperor\" 的正确中文意思：",
+        "correct": "n.皇帝",
+        "options": [
+          "vi.略过，跳过 n.跳跃 vt.故意忽略；略过",
+          "a.优良的,卓越的;上级的 n.上级;长者;高手",
+          "a.外部的,外面的 n.外部",
+          "n.皇帝"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语imperator（统帅、指挥官），由in-（在...之上） + parare（准备、命令） + -or（人）组成。词根动作是“发号施令的人”，后特指罗马帝国的最高统治者，英语借入后拼写受法语影响变为emperor，核心意象是“统御万民的最高权威”。",
+        "similarWarning": "exterior（外部的）：前缀ex-（向外）+ -terior（比较级后缀），侧重“外在的”；superior（上级的）：前缀super-（在...之上）+ -ior（比较级后缀），侧重“地位更高”。emperor以em-开头，与ex-、super-无直接拼写混淆，但注意三者均有“高/上”的方位感，需区分词根：emperor源自“命令”，exterior源自“外”，superior源自“上”。",
+        "extendedMeaning": "在考研外刊中偶见比喻用法，指“某一领域或组织的绝对主宰者”，如“emperor of finance”（金融巨鳄），强调无上权威而非世袭君主。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "emphasis",
+      "word": "emphasis",
+      "phonetic": "/'emfəsis/",
+      "meaning": "n.强调,重点",
+      "similar": [
+        "emphasize"
+      ],
+      "question": {
+        "wordId": "emphasis",
+        "stem": "选择 \"emphasis\" 的正确中文意思：",
+        "correct": "n.强调,重点",
+        "options": [
+          "n.强调,重点",
+          "v.(emphasise)强调",
+          "a.固体的;结实的,稳固的,可靠的 n.固体",
+          "n.短途旅行,游览;离题;[物理]偏移,漂移"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'em-'（在内）+ 'phasis'（展示、说明），原意为'通过展示来突出'。词根'pha-'（显示）与'phenomenon'同源。核心动作：将某物置于显眼位置，使其成为焦点，即'强调'或'重点'。",
+        "similarWarning": "emphasize（v.强调）与emphasis（n.强调）拼写差异在于后缀：-ize为动词后缀，-is为名词后缀。注意emphasize的拼写中字母'z'，而emphasis中为's'。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "emphasize",
+      "word": "emphasize",
+      "phonetic": "/'emfəsaiz/",
+      "meaning": "v.(emphasise)强调",
+      "similar": [
+        "emphasis"
+      ],
+      "question": {
+        "wordId": "emphasize",
+        "stem": "选择 \"emphasize\" 的正确中文意思：",
+        "correct": "v.(emphasise)强调",
+        "options": [
+          "n.边,边缘 v.濒临",
+          "n.强调,重点",
+          "v.(emphasise)强调",
+          "a.简陋的,破旧的,卑鄙的,不公平的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语“em-”（在内） + “phasis”（表现、显示），字面义为“放在里面显示”，即通过某种方式使某事物在表达中突出显现，核心动作是“突出展示”，引申为“强调”。",
+        "similarWarning": "emphasis（n. 强调，重点）：强调词性不同，emphasize是动词，emphasis是名词。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "empire",
+      "word": "empire",
+      "phonetic": "/'empaiə/",
+      "meaning": "n.帝国",
+      "similar": [
+        "expire",
+        "aspire",
+        "entire"
+      ],
+      "question": {
+        "wordId": "empire",
+        "stem": "选择 \"empire\" 的正确中文意思：",
+        "correct": "n.帝国",
+        "options": [
+          "vi.(to，after)渴望，追求，有志于",
+          "v.期满,(期限)终止;呼气;断气,死亡",
+          "a.完全的,全部的,完整的",
+          "n.帝国"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'imperium'（命令、统治），由 'im-'（在内） + 'parare'（准备、命令）演变而来，核心动作为“掌控内部权力”。",
+        "similarWarning": "expire (ex-出 + spire呼吸→断气)；aspire (a-向 + spire呼吸→渴望)；entire (en-内 + tire拉→完整的)。对比：empire强调统治疆域，expire强调时间终止。",
+        "extendedMeaning": "在考研外刊中常引申为“大企业集团、势力范围”，如 'media empire'（传媒帝国）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "empirical",
+      "word": "empirical",
+      "phonetic": "/ɪm'pɪrɪkl/",
+      "meaning": "a.凭经验(或观察)的,经验主义的",
+      "similar": [
+        "imperial",
+        "electrical"
+      ],
+      "question": {
+        "wordId": "empirical",
+        "stem": "选择 \"empirical\" 的正确中文意思：",
+        "correct": "a.凭经验(或观察)的,经验主义的",
+        "options": [
+          "a.帝国的，帝王的；(度量衡)英制的",
+          "a.电的,电学的",
+          "n.太空人，太空旅行者",
+          "a.凭经验(或观察)的,经验主义的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语empiricus，来自希腊语empeirikos（经验的），由en-（在…内）+peira（尝试、试验）构成，核心物理动作为“在试验中获取知识”，强调通过实际观察和实验而非理论推导获得结论。",
+        "similarWarning": "imperial（帝国的）：im-（向内）+per-（命令），核心为“命令统治”；empirical（经验的）：em-（向内）+pir-（尝试），核心为“尝试试验”。拼写差异仅在于“i”与“e”及“per”与“pir”。electrical（电的）：electr-（电）+ical，与empirical无词源关联，但拼写易混淆。",
+        "extendedMeaning": "在考研阅读中常引申为“基于事实数据的，非理论推测的”，如empirical evidence（实证证据）、empirical research（实证研究），强调与“theoretical”（理论的）对立。",
+        "examUsage": "真题考点：empirical常与theoretical构成反义对比，作为阅读中区分研究方法的题眼。例句：\"The empirical data contradict the theoretical model.\"（实证数据与理论模型相矛盾。）"
+      }
+    },
+    {
+      "id": "employ",
+      "word": "employ",
+      "phonetic": "/im'plɔi/",
+      "meaning": "n./v.雇用;用,使用",
+      "similar": [
+        "employee",
+        "employer",
+        "imply"
+      ],
+      "question": {
+        "wordId": "employ",
+        "stem": "选择 \"employ\" 的正确中文意思：",
+        "correct": "n./v.雇用;用,使用",
+        "options": [
+          "n.雇工,雇员",
+          "v.意指,含…意思,暗示",
+          "n.雇主",
+          "n./v.雇用;用,使用"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根em-（进入）+ ploy（折叠，源自拉丁语plicare），字面义为“卷入其中”，即把某人“折叠”进某项工作或任务中，核心动作是“纳入使用”。",
+        "similarWarning": "empty（空的）：仅差一个字母l，但empty指空无一物；employ指雇佣使用。imply（暗示）：im-（进入）+ ply（折叠），与employ同源但强调“含蓄表达”，区别在于employ侧重实际使用，imply侧重暗示含义。",
+        "extendedMeaning": "在考研真题中，employ常引申为“运用（方法、策略）”，例如employ a technique（运用技术），或“利用（资源）”，如employ one's time（利用时间），非字面“雇佣”。",
+        "examUsage": "常见搭配：be employed in doing sth.（忙于做某事），如“He was employed in writing a report.”（他正忙于写报告。）真题中曾考过employ作“使用”的及物动词用法，与use同义但更正式。"
+      }
+    },
+    {
+      "id": "employee",
+      "word": "employee",
+      "phonetic": "/ˌemplɔi'i:/",
+      "meaning": "n.雇工,雇员",
+      "similar": [
+        "employer",
+        "employ",
+        "employment",
+        "explode",
+        "explore"
+      ],
+      "question": {
+        "wordId": "employee",
+        "stem": "选择 \"employee\" 的正确中文意思：",
+        "correct": "n.雇工,雇员",
+        "options": [
+          "n./v.雇用;用,使用",
+          "n.雇主",
+          "n.雇工,雇员",
+          "n.雇用;使用;工作,职业"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自法语employé，由employ（雇用）+ -ee（动作的承受者后缀）组成。核心动作是“被雇用的人”，即接受雇佣、付出劳动的一方。",
+        "similarWarning": "employer（雇主） vs employee（雇员）：-er表主动者，-ee表被动者。explode（爆炸） vs explore（探索）：-ode vs -ore，字母d/r差异，词义完全不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "employer",
+      "word": "employer",
+      "phonetic": "/im'plɔiə/",
+      "meaning": "n.雇主",
+      "similar": [
+        "employee",
+        "employ",
+        "employment",
+        "explode",
+        "explore"
+      ],
+      "question": {
+        "wordId": "employer",
+        "stem": "选择 \"employer\" 的正确中文意思：",
+        "correct": "n.雇主",
+        "options": [
+          "n.雇用;使用;工作,职业",
+          "n.雇工,雇员",
+          "n./v.雇用;用,使用",
+          "n.雇主"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根em-（进入）+ploy（折叠，源自拉丁语plicare，意为“折叠”），原指“卷入其中”，后引申为“雇佣”。-er表示“人”，因此employer字面意为“雇佣别人的人”，即雇主。",
+        "similarWarning": "employee（n.雇员）：字母组合不同，-er（做动作的人）vs -ee（被动作的人）。employ（v.雇佣）：词性不同，employer为名词。employment（n.就业）：后缀-ment表状态，名词。explode（v.爆炸）：前缀ex-（向外）+plod（爆裂声），与ploy无关。explore（v.探索）：前缀ex-（向外）+plor（哭喊），原指“外出寻找”，与“雇佣”无关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "employment",
+      "word": "employment",
+      "phonetic": "/im'plɔimənt/",
+      "meaning": "n.雇用;使用;工作,职业",
+      "similar": [
+        "unemployment",
+        "employee",
+        "employer",
+        "implement",
+        "improvement",
+        "temperament",
+        "eloquent",
+        "complement"
+      ],
+      "question": {
+        "wordId": "employment",
+        "stem": "选择 \"employment\" 的正确中文意思：",
+        "correct": "n.雇用;使用;工作,职业",
+        "options": [
+          "n.雇工,雇员",
+          "n.失业,失业人数",
+          "n.雇用;使用;工作,职业",
+          "n.雇主"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根词缀逻辑：em-(进入) + ploy(折叠，源自拉丁语plicare‘折叠’) + -ment(名词后缀)。核心物理动作：将某人或某物‘折叠进入’一个系统或结构中。本义为‘雇用’(使某人进入工作体系)或‘使用’(将某物纳入用途)。",
+        "similarWarning": "形近词辨析：\n- implement: im-(向内) + ple(填满) + -ment → 强调‘填满工具以执行’，词义为‘实施；工具’。\n- complement: com-(共同) + ple(填满) + -ment → 强调‘互相填满使完整’，词义为‘补充；补足物’。\n- temperament: temper(调节) + -ament → 强调‘气质调节’，词义为‘性情；气质’。\n- eloquent: e-(向外) + loqu(说) + -ent → 强调‘向外流畅地说’，词义为‘雄辩的’。",
+        "extendedMeaning": "考研僻义：\n1. ‘使用’(非雇用)：the employment of new technology (新技术的使用)。\n2. ‘就业状态’(抽象概念)：full employment (充分就业) 在经济学语境中常作为考点。",
+        "examUsage": "真题考点：\n- 固定搭配：in employment (在职的) / out of employment (失业的)。\n- 真题例句：The government aims to achieve full employment by 2030. (政府旨在2030年前实现充分就业。) 注意与unemployment(失业)形成反义对比，常在完形填空或阅读中作为逻辑信号词。"
+      }
+    }
+  ]
+}

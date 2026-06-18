@@ -1,0 +1,1744 @@
+{
+  "batchId": 72,
+  "words": [
+    {
+      "id": "simulate",
+      "word": "simulate",
+      "phonetic": "/'simjuleit/",
+      "meaning": "v.模仿,模拟;假装,冒充",
+      "similar": [
+        "stimulate",
+        "assimilate",
+        "circulate",
+        "formulate",
+        "speculate",
+        "imitate",
+        "isolate",
+        "violate"
+      ],
+      "question": {
+        "wordId": "simulate",
+        "stem": "选择 \"simulate\" 的正确中文意思：",
+        "correct": "v.模仿,模拟;假装,冒充",
+        "options": [
+          "v.模仿,模拟;假装,冒充",
+          "v.刺激,使兴奋;激励,鼓舞",
+          "v.(使)循环,(使)流通",
+          "vt.吸收，消化；使同化 vi.被吸收；被同化"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语simulare，词根simul-意为“相似、相同”，-ate为动词后缀。核心物理动作为“使相似”，即通过复制或模仿来达到与某物相似的状态，引申为模拟、假装。",
+        "similarWarning": "stimulate（刺激）：simulate vs stimulate，首字母s后，imulate vs timulate，前者强调模仿，后者强调激发；assimilate（同化）：前缀as-加强，simulate→assimilate，强调使相似并吸收；imitate（模仿）：imitate直接指模仿行为，simulate更强调系统性的模拟或假装。",
+        "extendedMeaning": "在考研真题中，simulate常用于计算机模拟（computer simulation）或模拟环境（simulated environment），表示通过模型再现真实情景。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "simultaneous",
+      "word": "simultaneous",
+      "phonetic": "/ˌsiməl'teiniəs/",
+      "meaning": "a.同时的,同时存在的",
+      "similar": [
+        "spontaneous"
+      ],
+      "question": {
+        "wordId": "simultaneous",
+        "stem": "选择 \"simultaneous\" 的正确中文意思：",
+        "correct": "a.同时的,同时存在的",
+        "options": [
+          "n.暴露,揭露;方向;陈列;遗弃;照射量",
+          "a.自发的,自然产生的",
+          "a.同时的,同时存在的",
+          "v.跟随,接着;领会;沿着…前进,遵循;结果是"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根simul-（一起）+ taneous（形容词后缀，表“具有…性质的”）。核心动作：多个事物在同一个时间点上共同发生。simul-来自拉丁语simul（一起），与same同源。",
+        "similarWarning": "spontaneous（自发的）：字母对比：simultaneous含“simul”（一起），强调时间同步；spontaneous含“spont”（自愿），强调自然发生无外力。",
+        "extendedMeaning": "在考研阅读中可引申为“同步的”，如simultaneous interpretation（同声传译）中的专业用法，非字面“同时存在”。",
+        "examUsage": "真题考点：常见搭配simultaneous with（与…同时），干扰项常与synchronous混淆，但后者侧重技术同步（如信号）。"
+      }
+    },
+    {
+      "id": "sin",
+      "word": "sin",
+      "phonetic": "/sin/",
+      "meaning": "n.罪,罪恶 v.犯罪",
+      "similar": [
+        "sign",
+        "sink",
+        "skin",
+        "spin",
+        "bin",
+        "kin",
+        "pin",
+        "sip"
+      ],
+      "question": {
+        "wordId": "sin",
+        "stem": "选择 \"sin\" 的正确中文意思：",
+        "correct": "n.罪,罪恶 v.犯罪",
+        "options": [
+          "n.皮,皮肤;兽皮,皮毛;外皮,外壳 v.剥皮",
+          "v.(使)下沉,下落 n.水槽,水池",
+          "n.标记,招牌;征兆,迹象v.签名(于),署名(于)",
+          "n.罪,罪恶 v.犯罪"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能与古英语synn（罪）相关，核心动作概念为‘偏离正道、违背道德或宗教规范’，引申为任何违反规则或道德的行为。",
+        "similarWarning": "sign（标记/签名）：sin vs sign，s开头，但sign多i-n-g；sing（唱歌）：sin vs sing，多g；sink（下沉）：sin vs sink，多k；skin（皮肤）：sin vs skin，多k；spin（旋转）：sin vs spin，多p；in（在...里）：少s；bin（箱子）：b替换s；kin（亲属）：k替换s。",
+        "extendedMeaning": "在考研英语中，sin可引申为‘过错、过失’（非宗教语境），如‘a sin of omission’（不作为之过）。",
+        "examUsage": "常见搭配‘original sin’（原罪）在文化类阅读中出现；‘commit a sin’（犯罪）较少直接考察，但作为抽象名词用于论述道德、社会问题时需理解。"
+      }
+    },
+    {
+      "id": "since",
+      "word": "since",
+      "phonetic": "/sins/",
+      "meaning": "prep.自从 conj.自从；因为，既然 ad.后来",
+      "similar": [
+        "sincere",
+        "prince",
+        "sin",
+        "dine",
+        "inch",
+        "nine",
+        "pine",
+        "rice"
+      ],
+      "question": {
+        "wordId": "since",
+        "stem": "选择 \"since\" 的正确中文意思：",
+        "correct": "prep.自从 conj.自从；因为，既然 ad.后来",
+        "options": [
+          "n.罪,罪恶 v.犯罪",
+          "prep.自从 conj.自从；因为，既然 ad.后来",
+          "a.诚挚的,真实的,诚恳的",
+          "n.王子,亲王"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "since 源自古英语 siþþan，由 siþ（后来） + þan（那时）组成，核心动作是“从那时以后”。表示时间起点（自从）或因果逻辑（既然/因为）。",
+        "similarWarning": "sin（罪过） vs since（自从）：sin 无 ce 后缀，词义完全不同。science（科学） vs since：science 含 sci-（知道）词根，since 无此含义。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sincere",
+      "word": "sincere",
+      "phonetic": "/sin'siə/",
+      "meaning": "a.诚挚的,真实的,诚恳的",
+      "similar": [
+        "since"
+      ],
+      "question": {
+        "wordId": "sincere",
+        "stem": "选择 \"sincere\" 的正确中文意思：",
+        "correct": "a.诚挚的,真实的,诚恳的",
+        "options": [
+          "a.诚挚的,真实的,诚恳的",
+          "prep.自从 conj.自从；因为，既然 ad.后来",
+          "a.亲密的,密切的 n.熟友,熟人",
+          "n.权力，权威；权威人士；(pl.)官方，当局"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'sincerus'，词根 'sin'（单一）+ 'cerus'（生长），本义为“未经混合、纯净的”，引申为“真实、不虚伪”。核心动作：单一生长，无掺杂。",
+        "similarWarning": "since（自从）：差字母 're'，词义完全不同。",
+        "extendedMeaning": "在考研阅读中可表“由衷的、发自内心的”，如 sincere belief（由衷的信念），区别于普通“诚实的”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "singular",
+      "word": "singular",
+      "phonetic": "/'siŋgjulə/",
+      "meaning": "a.非凡的,卓越的;单数的",
+      "similar": [
+        "regular",
+        "circular"
+      ],
+      "question": {
+        "wordId": "singular",
+        "stem": "选择 \"singular\" 的正确中文意思：",
+        "correct": "a.非凡的,卓越的;单数的",
+        "options": [
+          "a.非凡的,卓越的;单数的",
+          "a.有规律的;整齐的,匀称的,正规的,正式的",
+          "n.文具",
+          "a.圆(形)的,环形的;循环的 n.传单,通报"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'singularis'，由 'singuli'（单个的，个别的）派生，核心动作是“单独、独一无二”。词根 'singul-' 表示“单个”，引申为“单一的”，进而强化为“非凡的、卓越的”（因为独一无二所以突出），同时保留语法上的“单数”含义。",
+        "similarWarning": "single（单一的，单个的）与 'singular' 差 '-ar' 后缀，前者强调“只有一个”，后者侧重“独特、异常”；regular（规则的，常规的）与 'singular' 差 's' 与 'r' 开头，词义相反；similar（相似的）拼写前四个字母相同，但 'simil-' 表“相同”，而 'singul-' 表“单个”，注意区分。",
+        "extendedMeaning": "在考研阅读中常引申为“异常的、奇特的”，指事物超出常规、令人惊讶，如 'a singular phenomenon'（异常现象）。",
+        "examUsage": "真题考点：常与 'unique, extraordinary' 同义替换，干扰项常与 'single, simple' 混淆。搭配 'singular value'（奇异值）在科技类文章中出现。"
+      }
+    },
+    {
+      "id": "sink",
+      "word": "sink",
+      "phonetic": "/siŋk/",
+      "meaning": "v.(使)下沉,下落 n.水槽,水池",
+      "similar": [
+        "ink",
+        "sin",
+        "link",
+        "pink",
+        "silk",
+        "wink",
+        "shrink",
+        "saint"
+      ],
+      "question": {
+        "wordId": "sink",
+        "stem": "选择 \"sink\" 的正确中文意思：",
+        "correct": "v.(使)下沉,下落 n.水槽,水池",
+        "options": [
+          "v.连接,联系 n.环节,链环",
+          "v.(使)下沉,下落 n.水槽,水池",
+          "n.墨水，油墨",
+          "n.罪,罪恶 v.犯罪"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语sincan，与古诺尔斯语søkkva同源，核心物理动作为“向下移动、沉入液体”。词根sink-表“下沉、下降”，引申为物体因重力下坠或情绪、价值的降低。",
+        "similarWarning": "sink vs. sing：sink含字母k，表“下沉”；sing含字母g，表“唱歌”。sink vs. sick：sink含字母n，表“下沉”；sick含字母c，表“生病的”。",
+        "extendedMeaning": "在考研外刊中，sink常喻指“投资或价值的暴跌”（如sink into recession）或“情绪陷入低谷”（如sink into despair），以及“渗透、被理解”（如The lesson sank in）。",
+        "examUsage": "真题常考固定搭配：sink or swim（成败在此一举），sink in（被完全理解、铭记），以及sink one's teeth into（专注于、深入参与）。例如：The company's stocks sank sharply after the scandal. (2020年真题阅读)"
+      }
+    },
+    {
+      "id": "sip",
+      "word": "sip",
+      "phonetic": "/sip/",
+      "meaning": "v.小口地喝，抿，呷n.一小口的量",
+      "similar": [
+        "skip",
+        "slip",
+        "dip",
+        "hip",
+        "lip",
+        "rip",
+        "sin",
+        "sir"
+      ],
+      "question": {
+        "wordId": "sip",
+        "stem": "选择 \"sip\" 的正确中文意思：",
+        "correct": "v.小口地喝，抿，呷n.一小口的量",
+        "options": [
+          "v.小口地喝，抿，呷n.一小口的量",
+          "vi.略过，跳过 n.跳跃 vt.故意忽略；略过",
+          "v.滑,滑倒;滑掉;溜走n.疏忽,小错,口误,笔误",
+          "v./n.浸,蘸"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿嘴唇轻抿液体时发出的轻微‘嘶’声，核心动作是‘小口吸吮’，与大口吞咽(gulp)形成对比。",
+        "similarWarning": "ship(船) vs sip: ship首字母sh-表‘运输’，与液体无关；skip(跳跃) vs sip: skip含k表‘快速跳过’，无吸吮动作；slip(滑倒) vs sip: slip含l表‘滑动’，与口部动作无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sir",
+      "word": "sir",
+      "phonetic": "/sɜ:(r)/",
+      "meaning": "n.先生，长官；[S -用于姓名前]…爵士",
+      "similar": [
+        "stir",
+        "sin",
+        "sip",
+        "six",
+        "siren",
+        "skirt",
+        "stair"
+      ],
+      "question": {
+        "wordId": "sir",
+        "stem": "选择 \"sir\" 的正确中文意思：",
+        "correct": "n.先生，长官；[S -用于姓名前]…爵士",
+        "options": [
+          "n.先生，长官；[S -用于姓名前]…爵士",
+          "v.小口地喝，抿，呷n.一小口的量",
+          "v.搅拌,搅动;动,摇动;激动;轰动;煽动,鼓动",
+          "n.罪,罪恶 v.犯罪"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语senior '年长者'，经古法语sire演变，核心动作/画面为'上级、权威'的称呼，强调尊敬或地位差异。",
+        "similarWarning": "stir (搅拌/激动): sir + t, 动作不同；air (空气): 首字母a替换s, 含义无关；sin (罪恶): 尾字母n替换r, 道德概念；sip (啜饮): 尾字母p替换r, 动作；sit (坐): 尾字母t替换r, 动作；six (六): 尾字母x替换r, 数字；shirt (衬衫): 加h和t, 衣物；siren (警报): 加en, 声音。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "siren",
+      "word": "siren",
+      "phonetic": "/'saiərən/",
+      "meaning": "n.警报声,警报器",
+      "similar": [
+        "screen",
+        "silent",
+        "sin",
+        "sir",
+        "hire",
+        "iron",
+        "sign",
+        "site"
+      ],
+      "question": {
+        "wordId": "siren",
+        "stem": "选择 \"siren\" 的正确中文意思：",
+        "correct": "n.警报声,警报器",
+        "options": [
+          "n.屏幕,屏风;帘 v.掩蔽,包庇;筛选",
+          "n.警报声,警报器",
+          "n.罪,罪恶 v.犯罪",
+          "a.寂静,沉默的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古希腊神话中的海妖塞壬（Seiren），以歌声引诱水手触礁。后引申为能发出警示或诱惑性声音的装置，即警报器。词根无直接演变，但语义从‘诱惑之声’转为‘警示之声’，核心动作是‘发出刺耳或引诱性的声音以引起注意’。",
+        "similarWarning": "screen（屏幕/遮蔽，scre-与sir-差异）、silent（沉默的，sile-与sir-差异）、sin（罪恶，无-r-）、sir（先生，发音/əː/差异）、fire（火，f-与s-差异）、hire（雇佣，h-与s-差异）、iron（铁，i-与s-差异）、side（边，无-r-）。核心区别：siren含‘诱人’或‘警报’的负面/紧急语义。",
+        "extendedMeaning": "考研中常引申为‘诱惑’或‘致命吸引力’，如用siren call/siren song表示‘无法抗拒的诱惑’（源自神话典故）。",
+        "examUsage": "真题考点：搭配siren call（诱惑力），常作阅读理解中抽象隐喻。例句：The siren call of quick profits led many investors astray.（快速利润的诱惑使许多投资者误入歧途。）"
+      }
+    },
+    {
+      "id": "site",
+      "word": "site",
+      "phonetic": "/sait/",
+      "meaning": "n.位置,场所,地点",
+      "similar": [
+        "spite",
+        "suite",
+        "bite",
+        "cite",
+        "kite",
+        "aside",
+        "elite",
+        "litre"
+      ],
+      "question": {
+        "wordId": "site",
+        "stem": "选择 \"site\" 的正确中文意思：",
+        "correct": "n.位置,场所,地点",
+        "options": [
+          "n.恶意;怨恨",
+          "v./n.咬,叮 n.一口",
+          "n.位置,场所,地点",
+          "n.套间；一套家具；套，组，系列"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根‘sit-’（坐，放置）的变体，核心物理动作是‘某物被放置或坐落在某处’。site 指事物占据的特定位置或场所，强调地理或功能上的固定点。",
+        "similarWarning": "cite（引用，拼写差异‘c-’ vs ‘s-’），site 指地点，cite 指引用；bite（咬，拼写差异‘b-’ vs ‘s-’），site 无咬义；suite（套房，拼写差异‘u-’ vs ‘i-’且多一‘u’），site 无套房义。",
+        "extendedMeaning": "在考研真题中，site 可引申为‘网站’（website 的简写），如‘the site’指某个互联网站点；也可作动词‘选址，设置’（be sited on...），如‘The factory was sited near the river.’",
+        "examUsage": "考点搭配：construction site（建筑工地）；on site（在现场）；off-site（不在现场的）；真题例句：‘The new school was sited on a former farmland.’（新校址选在昔日的农田上。）"
+      }
+    },
+    {
+      "id": "situated",
+      "word": "situated",
+      "phonetic": "/'sitjueitid/",
+      "meaning": "a.坐落在…的",
+      "similar": [
+        "saturate",
+        "simulate"
+      ],
+      "question": {
+        "wordId": "situated",
+        "stem": "选择 \"situated\" 的正确中文意思：",
+        "correct": "a.坐落在…的",
+        "options": [
+          "v.模仿,模拟;假装,冒充",
+          "vt.使湿透，浸透；使充满，使饱和",
+          "n.警察",
+          "a.坐落在…的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'situs'（位置、地点），动词 'situare'（放置）的过去分词形式。词根 'sit-' 表示“放置、坐落”，-ed 形容词后缀，字面意为“被放置在某处的”，即“坐落在…的”。核心动作是“确定位置并固定”。",
+        "similarWarning": "situation（n. 情况，局面；位置）- 强调抽象状态或环境；saturate（v. 浸透，使饱和）- 词根 'sat-' 表“足够”，侧重充满；simulate（v. 模拟，模仿）- 词根 'simul-' 表“相同”，侧重模仿。与 situated 的“具体位置”含义差异明显。",
+        "extendedMeaning": "在考研中常引申为“处于某种境况或状态的”，如 be situated in a difficult position（处于困境），不仅限于物理位置。",
+        "examUsage": "常见于真题阅读中的地点描述或抽象状态，如 'The town is situated on a river.' 但更需要注意与 'situation' 在句法上的区别：situated 常作表语或定语，而 situation 作名词。"
+      }
+    },
+    {
+      "id": "six",
+      "word": "six",
+      "phonetic": "/siks/",
+      "meaning": "num.六 pron./a.六(个，只...)",
+      "similar": [
+        "fix",
+        "mix",
+        "sex",
+        "sin",
+        "sip",
+        "sir"
+      ],
+      "question": {
+        "wordId": "six",
+        "stem": "选择 \"six\" 的正确中文意思：",
+        "correct": "num.六 pron./a.六(个，只...)",
+        "options": [
+          "n.性别,性",
+          "v.使混合;混淆",
+          "v.(使)固定;修理;安装;决定;注视 n.困境",
+          "num.六 pron./a.六(个，只...)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自原始印欧语 *s(w)eks，古英语 siex，基础数词，无复杂词根演变。",
+        "similarWarning": "fix（修理）: f- vs s-；mix（混合）: m- vs s-；sex（性别）: e vs i；sin（罪过）: n vs x；sip（小口喝）: p vs x；sir（先生）: r vs x；sit（坐）: t vs x。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "skate",
+      "word": "skate",
+      "phonetic": "/skeit/",
+      "meaning": "v.溜冰,滑冰 n.冰鞋",
+      "similar": [
+        "estate",
+        "senate",
+        "statue",
+        "date",
+        "fate",
+        "gate",
+        "hate",
+        "kite"
+      ],
+      "question": {
+        "wordId": "skate",
+        "stem": "选择 \"skate\" 的正确中文意思：",
+        "correct": "v.溜冰,滑冰 n.冰鞋",
+        "options": [
+          "v.溜冰,滑冰 n.冰鞋",
+          "n.房地产;不动产;所有权;地位;生活状况",
+          "n.参议院,上院",
+          "n.塑像,雕像"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源于荷兰语schaats（冰鞋），核心动作指“在冰面上滑动”，引申为“溜冰”或“滑冰”。",
+        "similarWarning": "形近词辨析：state（状态/国家）、estate（地产）、senate（参议院）、statue（雕像）、date（日期/约会）、fate（命运）、gate（大门）、hate（仇恨）。skate强调“滑行”，与上述词无直接语义关联，注意拼写差异：sk-开头，-ate结尾。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "skeleton",
+      "word": "skeleton",
+      "phonetic": "/'skelitən/",
+      "meaning": "n.骨骼;骨架,框架;梗概,提要",
+      "similar": [
+        "selection"
+      ],
+      "question": {
+        "wordId": "skeleton",
+        "stem": "选择 \"skeleton\" 的正确中文意思：",
+        "correct": "n.骨骼;骨架,框架;梗概,提要",
+        "options": [
+          "n.喇叭,小号",
+          "n.选择,挑选;选集,精选物",
+          "n.骨骼;骨架,框架;梗概,提要",
+          "n.出席,到场,存在,在"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语skeletos（干枯的身体），词根skel-（使干枯）→ 干枯后剩下的硬结构→骨骼。引申为支撑物体的框架结构（骨架），再抽象为事物的核心框架（梗概/提要）。",
+        "similarWarning": "selection（n.选择，挑选）：skeleton与selection仅末尾字母不同（-eton vs -ection），但词义无关。skeleton强调骨架/框架，selection强调挑选/精选集。",
+        "extendedMeaning": "在考研阅读中常引申为‘（组织、计划等的）骨干/核心框架’，如a skeleton staff（骨干人员）; 或‘（文学/报告的）梗概/提纲’，如the skeleton of the argument（论证的梗概）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "skeptical",
+      "word": "skeptical",
+      "phonetic": "/'skeptikəl/",
+      "meaning": "a.怀疑的 [英]sceptical",
+      "similar": [
+        "optical",
+        "vertical",
+        "identical",
+        "electrical"
+      ],
+      "question": {
+        "wordId": "skeptical",
+        "stem": "选择 \"skeptical\" 的正确中文意思：",
+        "correct": "a.怀疑的 [英]sceptical",
+        "options": [
+          "a.垂直的,竖的 n.垂线",
+          "a.眼的,视力的;光学的",
+          "a.(to.with)同一的,同样的",
+          "a.怀疑的 [英]sceptical"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语skeptikos（探究的、怀疑的），词根skep-意为“看、观察”。核心动作：仔细观察后不轻易相信，即保持怀疑态度。",
+        "similarWarning": "optical（光学的，o-与眼睛相关）vs skeptical（怀疑的，sk-与审视相关）；vertical（垂直的，vert-转）vs skeptical（sk-看）；identical（相同的，id-相同）vs skeptical（sk-看）；electrical（电的，electr-电）vs skeptical（sk-看）。差异主要在词根首字母，skeptical强调“审视”后的怀疑。",
+        "extendedMeaning": "在考研中常引申为“对权威或普遍观点持批判态度”，如be skeptical about/of sth.（对…持怀疑态度），不限于日常小事，多用于学术或社会议题。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sketch",
+      "word": "sketch",
+      "phonetic": "/sketʃ/",
+      "meaning": "n.素描;略图,草图;梗概 v.绘略图,速写,写生",
+      "similar": [
+        "stretch",
+        "fetch",
+        "snatch",
+        "stitch",
+        "switch"
+      ],
+      "question": {
+        "wordId": "sketch",
+        "stem": "选择 \"sketch\" 的正确中文意思：",
+        "correct": "n.素描;略图,草图;梗概 v.绘略图,速写,写生",
+        "options": [
+          "n.素描;略图,草图;梗概 v.绘略图,速写,写生",
+          "n./v.攫取,抢夺",
+          "v.取来;接来;引出;售得;吸引 n.取得;拿",
+          "v.伸展，延伸 n.拉长；伸展；一段时间/路程"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "sketch 源自古荷兰语 schetsen，词根与“剪切、勾勒”相关，核心物理动作用快速线条切割出轮廓，强调粗略、未完成的形态：n. 素描/草图/梗概；v. 绘略图/速写。",
+        "similarWarning": "stretch (伸展，强调拉长)、fetch (取来，强调去拿)、snatch (抢夺，强调突然抓取)、speech (演讲，强调发音)、stitch (缝针，强调针线)、switch (开关，强调转换)：sketch 核心在“勾勒轮廓”，与上述词在字母和动作上区分明显。",
+        "extendedMeaning": "考研僻义：v. 概述，简要描述（如 sketch out a plan 勾勒计划）；n. 短篇幽默小品或喜剧短剧（如 a comic sketch 喜剧小品）。",
+        "examUsage": "真题考点：sketch 常与 out 搭配构成短语动词 sketch out（勾勒/概述），在阅读中作为写作手法或计划描述的关键词出现；注意与 describe 的细微区别：sketch 强调粗略、大纲式的描述，而非详尽细节。"
+      }
+    },
+    {
+      "id": "ski",
+      "word": "ski",
+      "phonetic": "/ski:ˌ ʃi:/",
+      "meaning": "n.雪橇 v.滑雪",
+      "similar": [
+        "skim",
+        "skin",
+        "skip",
+        "skill",
+        "skirt"
+      ],
+      "question": {
+        "wordId": "ski",
+        "stem": "选择 \"ski\" 的正确中文意思：",
+        "correct": "n.雪橇 v.滑雪",
+        "options": [
+          "vt.撇去(液体表面)之漂浮物 vi.轻轻掠过",
+          "n.雪橇 v.滑雪",
+          "vi.略过，跳过 n.跳跃 vt.故意忽略；略过",
+          "n.皮,皮肤;兽皮,皮毛;外皮,外壳 v.剥皮"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自挪威语“ski”，原指“雪中的木板”，核心动作是“在雪面上滑行”。词根无复杂演变，直接对应工具与运动。",
+        "similarWarning": "skim（撇去/浏览）：ski + m，强调“轻触表面”；skin（皮肤/剥皮）：ski + n，指“表层组织”；skip（跳跃/跳过）：ski + p，动作是“弹跳”；sky（天空）：ski + y，指“高空”；skill（技能）：ski + ll，强调“能力”；skirt（裙子/边缘）：ski + rt，指“下摆或围绕”。ski核心在“滑”，易混词多基于“sk-”开头，注意字母差异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "skill",
+      "word": "skill",
+      "phonetic": "/skil/",
+      "meaning": "n.技能,技巧,手艺;熟练",
+      "similar": [
+        "kill",
+        "skull",
+        "spill",
+        "skilled",
+        "ski",
+        "bill",
+        "fill",
+        "kilo"
+      ],
+      "question": {
+        "wordId": "skill",
+        "stem": "选择 \"skill\" 的正确中文意思：",
+        "correct": "n.技能,技巧,手艺;熟练",
+        "options": [
+          "n.技能,技巧,手艺;熟练",
+          "vt.杀死，消灭；破坏，毁灭；消磨(时间)",
+          "n.头盖骨，颅骨",
+          "v.溢出,溅出 n.摔下,跌下"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古诺尔斯语skil（区分、辨别），核心动作是“区分开”。能区分事物细节的能力即技能，引申为技巧、熟练。",
+        "similarWarning": "kill（杀死，字母k后换l表动作结果）；skull（颅骨，字母u取代i表坚硬结构）；spill（溢出，字母p表喷溅动作）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "skilled",
+      "word": "skilled",
+      "phonetic": "/skild/",
+      "meaning": "a.(in)熟练的,有技能的;需要技能的",
+      "similar": [
+        "skill",
+        "skillful"
+      ],
+      "question": {
+        "wordId": "skilled",
+        "stem": "选择 \"skilled\" 的正确中文意思：",
+        "correct": "a.(in)熟练的,有技能的;需要技能的",
+        "options": [
+          "a.(in)熟练的,有技能的;需要技能的",
+          "n.技能,技巧,手艺;熟练",
+          "a.(skilful)(in,at)灵巧的,娴熟的",
+          "n.女巫, 巫婆，巫师"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自skill（技能）+ -ed（形容词后缀，表示“具有…的”），核心意为“掌握技能的，熟练的”。",
+        "similarWarning": "skill（名词，技能）与skilled（形容词，熟练的）区别在词性；skillful（形容词，灵巧的，通常指技巧精湛）与skilled区别在于：skilled侧重经过训练而具备的专门技能，skillful侧重操作时的灵巧与熟练。",
+        "extendedMeaning": "在考研中常引申为“需要专门技能的”，如skilled labor（技术工人，与unskilled labor相对）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "skillful",
+      "word": "skillful",
+      "phonetic": "/'skilful/",
+      "meaning": "a.(skilful)(in,at)灵巧的,娴熟的",
+      "similar": [
+        "skilled"
+      ],
+      "question": {
+        "wordId": "skillful",
+        "stem": "选择 \"skillful\" 的正确中文意思：",
+        "correct": "a.(skilful)(in,at)灵巧的,娴熟的",
+        "options": [
+          "a.现代的,当代的;同时代的",
+          "n.青铜；青铜色，古铜色；青铜制品，铜牌",
+          "a.(in)熟练的,有技能的;需要技能的",
+          "a.(skilful)(in,at)灵巧的,娴熟的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "skill（技能）+ -ful（充满…的）→ 充满技能的 → 灵巧的、娴熟的。词根skill源自古北欧语skil（区别、辨别能力），本义为“能区分细微差别的能力”，引申为“技艺”。-ful表示“充满”，强调技能储备充足。",
+        "similarWarning": "skilled（有技能的）侧重“已掌握技能”的状态，常指经过训练后具备专业能力，如skilled worker（熟练工）；skillful侧重“操作时的灵巧程度”，强调动作的巧妙性，如skillful handling（巧妙处理）。二者区别：skilled是“有技能的”，skillful是“技艺精湛的”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "skim",
+      "word": "skim",
+      "phonetic": "/skim/",
+      "meaning": "vt.撇去(液体表面)之漂浮物 vi.轻轻掠过",
+      "similar": [
+        "ski",
+        "skin",
+        "skip",
+        "slim",
+        "skill",
+        "skirt"
+      ],
+      "question": {
+        "wordId": "skim",
+        "stem": "选择 \"skim\" 的正确中文意思：",
+        "correct": "vt.撇去(液体表面)之漂浮物 vi.轻轻掠过",
+        "options": [
+          "vt.撇去(液体表面)之漂浮物 vi.轻轻掠过",
+          "vi.略过，跳过 n.跳跃 vt.故意忽略；略过",
+          "n.雪橇 v.滑雪",
+          "n.皮,皮肤;兽皮,皮毛;外皮,外壳 v.剥皮"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语sciman（闪亮移动），核心动作是“表面接触+快速移动”。液体表面撇去漂浮物（如撇奶油），引申为从表面快速掠过，强调不深入、只接触表层。",
+        "similarWarning": "skin（皮肤）：i→n，skim强调掠过表面，skin指表面组织。skip（跳过）：p→m，skip是跳跃越过，skim是摩擦式掠过。slim（苗条的）：l→k，slim强调纤细，skim强调表面动作。",
+        "extendedMeaning": "考研僻义：1. 略读、浏览（如skim the headlines快速浏览标题）；2. 掩盖、敷衍（如skim over the details对细节轻描淡写）。",
+        "examUsage": "真题考点：固定搭配skim through（快速翻阅），常与scan（扫描式阅读）对比，干扰项为skip（跳过不读）。例句：He skimmed the report before the meeting.（会议前他快速浏览了报告。）"
+      }
+    },
+    {
+      "id": "skin",
+      "word": "skin",
+      "phonetic": "/skin/",
+      "meaning": "n.皮,皮肤;兽皮,皮毛;外皮,外壳 v.剥皮",
+      "similar": [
+        "kin",
+        "sin",
+        "ski",
+        "skim",
+        "skip",
+        "spin",
+        "saint",
+        "shine"
+      ],
+      "question": {
+        "wordId": "skin",
+        "stem": "选择 \"skin\" 的正确中文意思：",
+        "correct": "n.皮,皮肤;兽皮,皮毛;外皮,外壳 v.剥皮",
+        "options": [
+          "n.罪,罪恶 v.犯罪",
+          "n.雪橇 v.滑雪",
+          "n.家族,亲属,血缘关系 a.亲属关系的,同类的",
+          "n.皮,皮肤;兽皮,皮毛;外皮,外壳 v.剥皮"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根与原始印欧语根 *(s)ken- 相关，意为“剥、切”。核心物理动作是“覆盖在身体外部的薄层”，引申为“剥去这层覆盖物”的动作。",
+        "similarWarning": "skin vs. skim: skin 有字母 n，指“皮肤”；skim 无 n，指“撇去（液体表面的浮物）”。\nskin vs. sin: skin 开头有 sk-，指“皮”；sin 开头是 s-，指“罪过”。\nskin vs. spin: skin 以 k- 开头，指“皮”；spin 以 p- 开头，指“旋转”。",
+        "extendedMeaning": "“界面、外壳”（计算机/产品设计领域）：指软件或硬件的外层封装，如 skin（皮肤/外壳）用于自定义界面主题。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "skip",
+      "word": "skip",
+      "phonetic": "/skip/",
+      "meaning": "vi.略过，跳过 n.跳跃 vt.故意忽略；略过",
+      "similar": [
+        "sip",
+        "ski",
+        "skim",
+        "skin",
+        "slip",
+        "skill",
+        "skirt",
+        "strip"
+      ],
+      "question": {
+        "wordId": "skip",
+        "stem": "选择 \"skip\" 的正确中文意思：",
+        "correct": "vi.略过，跳过 n.跳跃 vt.故意忽略；略过",
+        "options": [
+          "vi.略过，跳过 n.跳跃 vt.故意忽略；略过",
+          "v.小口地喝，抿，呷n.一小口的量",
+          "vt.撇去(液体表面)之漂浮物 vi.轻轻掠过",
+          "n.雪橇 v.滑雪"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源于古斯堪的纳维亚语 'skopa'（跑、跳）。核心物理动作为'快速跳跃或跨越一个障碍或区域'，引申为故意忽略或略过（如跳过一段文字或一个步骤）。",
+        "similarWarning": "sip（小口喝，s-ip，与skip差p和k音形差异）；ski（滑雪，ski-双板，与skip无p）；ship（船，sh-ip，与skip差h和p）；skim（撇去、略读，sk-im，与skip差m和p，动作更轻快）；skin（皮肤，sk-in，与skip差n和p）；slip（滑倒、滑落，sl-ip，与skip差l和p）；skill（技能，sk-ill，与skip差l和p）；skirt（裙子、环绕，sk-irt，与skip差r和t）。",
+        "extendedMeaning": "考研僻义：'跳过'在阅读中常指'故意不处理或忽略某个信息点'，如 skip a paragraph（略读段落）；在写作或口语中可指'遗漏'，如 skip a step（漏掉一步）。",
+        "examUsage": "真题考点：常见短语 'skip over'（跳过去，略过），如 'skip over the details'（略过细节）；'skip school/class'（逃学/逃课）在完形或阅读中作为干扰项出现，注意与 'play truant'（逃学）同义替换。"
+      }
+    },
+    {
+      "id": "skirt",
+      "word": "skirt",
+      "phonetic": "/skə:t/",
+      "meaning": "n.裙子;边缘,郊区",
+      "similar": [
+        "spirit",
+        "kit",
+        "sir",
+        "ski",
+        "dirt",
+        "skim",
+        "skin",
+        "skip"
+      ],
+      "question": {
+        "wordId": "skirt",
+        "stem": "选择 \"skirt\" 的正确中文意思：",
+        "correct": "n.裙子;边缘,郊区",
+        "options": [
+          "n.裙子;边缘,郊区",
+          "n.精神;志气;(pl.)情绪,心情;(pl.)酒精",
+          "n.成套工具,用具包,工具箱",
+          "n.先生，长官；[S -用于姓名前]…爵士"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语skyrt（短上衣），核心物理动作为“覆盖、环绕身体下部”，引申出“边缘、环绕边界”的抽象义。",
+        "similarWarning": "shirt（衬衫，仅首字母不同，skirt强调下身覆盖，shirt强调上身覆盖）；spirit（精神，多字母差异，无关联）；kit（工具包，首字母不同，无关联）；sir（先生，拼写差异大）；sit（坐，拼写差异大）；ski（滑雪，拼写差异大）；dirt（污垢，首字母不同，无关联）；skim（掠过，拼写相近但词义不同，skirt强调绕过，skim强调轻触表面）。",
+        "extendedMeaning": "考研僻义：v. 环绕，避开（如skirt the issue绕开问题）；n. 边缘（如the skirt of the forest森林边缘）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "skull",
+      "word": "skull",
+      "phonetic": "/skʌl/",
+      "meaning": "n.头盖骨，颅骨",
+      "similar": [
+        "skill",
+        "bull",
+        "dull",
+        "kill",
+        "pull",
+        "soul",
+        "shell",
+        "smell"
+      ],
+      "question": {
+        "wordId": "skull",
+        "stem": "选择 \"skull\" 的正确中文意思：",
+        "correct": "n.头盖骨，颅骨",
+        "options": [
+          "a.单调的;迟钝的,愚笨的;不锋利的",
+          "n.公牛",
+          "n.头盖骨，颅骨",
+          "n.技能,技巧,手艺;熟练"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自古斯堪的纳维亚语skalli（秃头）或中古荷兰语schole（头骨）。核心动作/画面：指头部的坚硬骨骼结构，保护大脑的容器。",
+        "similarWarning": "skill (技能): skull vs skill，前者有u头骨，后者有i技巧；bull (公牛): 替换首字母b为s，从公牛到头骨；soul (灵魂): skull vs soul，前者有k头骨，后者无k灵魂。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "skyscraper",
+      "word": "skyscraper",
+      "phonetic": "/'skaiˌskreipə/",
+      "meaning": "n.摩天大楼",
+      "similar": [],
+      "question": {
+        "wordId": "skyscraper",
+        "stem": "选择 \"skyscraper\" 的正确中文意思：",
+        "correct": "n.摩天大楼",
+        "options": [
+          "n.摩天大楼",
+          "a.王室的,皇家的;第一流的,高贵的",
+          "n.问候,致敬",
+          "v./n.碰撞,坠落,摔坏 n.失败,瓦解;爆裂声"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "sky（天空）+scrape（刮擦、摩擦）+-er（名词后缀，表物）。字面意为‘刮擦天空之物’，源于19世纪末建造的超高层建筑，仿佛能触及天空，核心动作是‘向上延伸至天际’。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中偶尔引申为‘高耸的建筑物’或‘极高之物’，强调其高度带来的视觉冲击或象征意义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "slack",
+      "word": "slack",
+      "phonetic": "/slæk/",
+      "meaning": "a.懈怠的,松驰的;萧条的 n.淡季;(pl.)便裤",
+      "similar": [
+        "lack",
+        "sack",
+        "snack",
+        "stack",
+        "lace",
+        "lick",
+        "lock",
+        "luck"
+      ],
+      "question": {
+        "wordId": "slack",
+        "stem": "选择 \"slack\" 的正确中文意思：",
+        "correct": "a.懈怠的,松驰的;萧条的 n.淡季;(pl.)便裤",
+        "options": [
+          "a.懈怠的,松驰的;萧条的 n.淡季;(pl.)便裤",
+          "n.袋,包,麻袋 v.解雇",
+          "n.快餐,小吃,点心",
+          "n./v.缺乏,不足"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源来自古英语slæc，核心物理动作是‘松弛、不紧绷’。由‘绳子的松弛状态’引申为‘懈怠、不努力’（心理松弛），再引申为‘商业萧条’（市场松弛）。名词‘便裤’（slacks）源自裤子剪裁宽松、不紧绷的特点。",
+        "similarWarning": "lack（缺乏，差在首字母s表‘松懈’）；sack（麻袋/解雇，差在字母c/l，sack动作是‘装袋/开除’）；stack（堆叠，差在字母t，堆叠是紧密堆积）；snack（零食，差在字母n，零食是快速吃一口）。",
+        "extendedMeaning": "考研僻义：v. 松懈、偷懒（真题中常作动词，如‘slack off’表示‘懈怠、放松努力’）；n. 剩余部分、余量（如‘take up the slack’指‘利用闲置资源或填补空缺’）。",
+        "examUsage": "真题考点：固定搭配‘slack off’（松懈、偷懒）是考研英语二完形和阅读中高频出现的动词短语，常与‘work hard’形成对比；‘take up the slack’在商业语境中表示‘利用富余产能或人力’。"
+      }
+    },
+    {
+      "id": "slam",
+      "word": "slam",
+      "phonetic": "/slæm/",
+      "meaning": "v.(门、窗等)砰地关上 n.猛然关闭的声音",
+      "similar": [
+        "seam",
+        "sham",
+        "slap",
+        "slim",
+        "slum",
+        "alarm",
+        "blame",
+        "claim"
+      ],
+      "question": {
+        "wordId": "slam",
+        "stem": "选择 \"slam\" 的正确中文意思：",
+        "correct": "v.(门、窗等)砰地关上 n.猛然关闭的声音",
+        "options": [
+          "v.(门、窗等)砰地关上 n.猛然关闭的声音",
+          "n./v.拍,掌击",
+          "n./a.假冒(的)，虚伪(的)",
+          "n.缝,接缝"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟门或物体猛烈关闭时发出的“砰”声，核心动作为快速、用力地撞击或关闭。",
+        "similarWarning": "slam vs. sham: slam（砰地关上）vs. sham（假装、假冒）；slam vs. slap: slam（撞击）vs. slap（拍打、掌掴）；slam vs. slim: slam（撞击）vs. slim（苗条的、减少）。",
+        "extendedMeaning": "1. 猛烈批评、抨击（如：The article slams the government's policy.）；2.（在体育比赛中）轻易击败、大胜（如：They slammed the opponent 5-0.）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "slap",
+      "word": "slap",
+      "phonetic": "/slæp/",
+      "meaning": "n./v.拍,掌击",
+      "similar": [
+        "lap",
+        "clap",
+        "flap",
+        "slam",
+        "slip",
+        "snap",
+        "soap",
+        "clasp"
+      ],
+      "question": {
+        "wordId": "slap",
+        "stem": "选择 \"slap\" 的正确中文意思：",
+        "correct": "n./v.拍,掌击",
+        "options": [
+          "n.垂下物,帽沿,袋盖 n./v.拍打,拍动",
+          "n.大腿,(跑道的)一圈,一段路程,工作阶段",
+          "n./v.拍,掌击",
+          "v.拍手,拍,轻拍 n.拍(手),掌声,霹雳声"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模拟手掌拍打平面时发出的“啪”声。核心物理动作为：手掌张开，快速有力地击打物体表面，产生清脆响声。",
+        "similarWarning": "clap（拍手喝彩）：强调双手互拍，常含赞赏；slap（掌击）：强调单手用力击打他人或物体，常含攻击或惩罚意味。flap（拍打/飘动）：指扁平物上下或左右摆动，如鸟翼、旗帜；slap动作更直接、有力。slip（滑倒）：与slap拼写相差一个字母（i vs a），但词义无关联。",
+        "extendedMeaning": "【熟词僻义】1. 猛然放下/甩下（尤指生气地）：She slapped the book down on the desk. 2. （非正式）强行施加/强加（如罚款、限制）：The government slapped a ban on imports. 3. 涂抹（厚厚一层）：slap on sunscreen.",
+        "examUsage": "【真题考点】1. 固定搭配：a slap in the face（一记耳光/侮辱性打击）；a slap on the wrist（象征性惩罚/轻罚）。2. 阅读中常考其引申义“强行施加/打击”，如：The new regulation slaps heavy fines on polluters.（新规对污染者处以重罚。）"
+      }
+    },
+    {
+      "id": "slaughter",
+      "word": "slaughter",
+      "phonetic": "/'slɔ:tə/",
+      "meaning": "n.屠杀，屠宰 vt.屠杀，宰杀",
+      "similar": [
+        "laughter"
+      ],
+      "question": {
+        "wordId": "slaughter",
+        "stem": "选择 \"slaughter\" 的正确中文意思：",
+        "correct": "n.屠杀，屠宰 vt.屠杀，宰杀",
+        "options": [
+          "v.(使)繁殖,生殖;产生;教养,抚养 n.品种",
+          "n.笑,笑声",
+          "n.罪行,犯罪",
+          "n.屠杀，屠宰 vt.屠杀，宰杀"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自斯堪的纳维亚语，与古诺尔斯语‘slátr’（屠夫肉）相关，核心动作是‘用刀砍杀’。词根‘slagh-’意为‘击打’，与英语‘slay’（杀死）同源。本义指大规模宰杀牲畜，引申为残忍地大批杀人。",
+        "similarWarning": "laughter（笑声）：仅差首字母‘l’→‘s’，‘slaughter’带‘s’表示血腥屠杀；daughter（女儿）：首字母‘d’替换‘s’，词义完全无关。",
+        "extendedMeaning": "（无特殊僻义，留空）",
+        "examUsage": "（无特殊考点，留空）"
+      }
+    },
+    {
+      "id": "slave",
+      "word": "slave",
+      "phonetic": "/sleiv/",
+      "meaning": "n.奴隶,苦工 v.做苦工,拼命地干",
+      "similar": [
+        "save",
+        "shave",
+        "sleeve",
+        "starve",
+        "cave",
+        "lace",
+        "lake",
+        "lame"
+      ],
+      "question": {
+        "wordId": "slave",
+        "stem": "选择 \"slave\" 的正确中文意思：",
+        "correct": "n.奴隶,苦工 v.做苦工,拼命地干",
+        "options": [
+          "n.奴隶,苦工 v.做苦工,拼命地干",
+          "v.救,拯救;储蓄,贮存;节省",
+          "n.袖子",
+          "v.剃,刮,刨,削 n.刮脸"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'Sclavus'（斯拉夫人），因中世纪斯拉夫人常被贩卖为奴，词义由民族名转为'奴隶'，进而引申为'苦工'或'拼命干'的动作。",
+        "similarWarning": "save（保存，救援）：slave vs save，差字母'l'，slave指被迫劳动的人，save指挽救或保留。\nshave（刮胡须）：slave vs shave，差字母'l'与'h'，slave是名词/动词表奴役，shave是动词表剃除。\nsleeve（袖子）：slave vs sleeve，差字母'e'与'ee'，slave指奴隶，sleeve是衣物部件。\nstarve（挨饿）：slave vs starve，差字母'l'与't','r','v'，slave表身份，starve表饥饿状态。",
+        "extendedMeaning": "考研僻义：作动词，表'沉迷于'或'被某事物完全支配'，如 'slave over' 指'拼命工作'或'为...所困'；在科技语境中，'slave device'指从属设备（主从结构）。",
+        "examUsage": "真题考点：搭配 'slave away'（拼命干）常见于完形或阅读，如 'slave away at a tedious job'；'slave to fashion'（时尚的奴隶）用于批判消费主义文章；注意 'enslave'（奴役）的派生词出现于议论文。"
+      }
+    },
+    {
+      "id": "sleeve",
+      "word": "sleeve",
+      "phonetic": "/sli:v/",
+      "meaning": "n.袖子",
+      "similar": [
+        "serve",
+        "slave",
+        "sneeze"
+      ],
+      "question": {
+        "wordId": "sleeve",
+        "stem": "选择 \"sleeve\" 的正确中文意思：",
+        "correct": "n.袖子",
+        "options": [
+          "v.服务,尽责;招待,侍候;符合,适用",
+          "n.袖子",
+          "n.奴隶,苦工 v.做苦工,拼命地干",
+          "vi.打喷嚏，发喷嚏声n.喷嚏"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古英语sliefe，与slip（滑）同源，指手臂滑入的衣物管状部分。核心动作为‘滑入’。",
+        "similarWarning": "slave（奴隶）：拼写差ve/ave，词源不同，无关联。sleep（睡觉）：拼写差p/ve，词义无关。sleeve强调管状包裹，slave强调被奴役。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "slender",
+      "word": "slender",
+      "phonetic": "/'slendə/",
+      "meaning": "a.修长的,细长的,苗条的;微小的,微薄的",
+      "similar": [
+        "gender",
+        "render",
+        "tender",
+        "blunder",
+        "surrender",
+        "calendar",
+        "cylinder",
+        "splendid"
+      ],
+      "question": {
+        "wordId": "slender",
+        "stem": "选择 \"slender\" 的正确中文意思：",
+        "correct": "a.修长的,细长的,苗条的;微小的,微薄的",
+        "options": [
+          "v.使得,致使;提出,提供,呈报",
+          "a.嫩的;敏感的;温柔的 v.提出,提供;投标",
+          "n.(生理上的)性；(名词、代词等的)性",
+          "a.修长的,细长的,苗条的;微小的,微薄的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源自中古英语slendre（细长的），核心物理动作为“细、窄、薄”，引申为“苗条的”和“微小的、不足的”。",
+        "similarWarning": "gender（性别）、render（提供）、tender（温柔的/投标）、blunder（大错）、surrender（投降）、calendar（日历）、cylinder（圆柱体）、splendid（壮丽的）。对比：slender与splendid形近，但slender强调细长，splendid强调华丽。",
+        "extendedMeaning": "考研僻义：微薄的，不足的（指数量或程度）。例：a slender income（微薄的收入）；a slender chance（渺茫的机会）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "slice",
+      "word": "slice",
+      "phonetic": "/slais/",
+      "meaning": "n.薄片,切片;一份;部分切(片)",
+      "similar": [
+        "slide",
+        "lace",
+        "lick",
+        "like",
+        "live",
+        "rice",
+        "site",
+        "slim"
+      ],
+      "question": {
+        "wordId": "slice",
+        "stem": "选择 \"slice\" 的正确中文意思：",
+        "correct": "n.薄片,切片;一份;部分切(片)",
+        "options": [
+          "n.薄片,切片;一份;部分切(片)",
+          "v.(使)滑动 n.滑坡,滑道;滑,滑动;幻灯片",
+          "n.花边;带子,鞋带 v.系带,扎带",
+          "vt.舔；(火焰或浪)掠过；打败 n.舔；少量"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "slice 源自原始日耳曼语 slītan（意为“切，撕裂”），核心物理动作是“用锋利物切割使分离”。词根逻辑：s- 表工具/动作起始，-lice 与古英语 slītan 同源，强调“切出薄片”的本源画面。演变：具体动作“切薄片” → 名词化“薄片” → 引申为“部分/一份”。",
+        "similarWarning": "slide（滑行）：字母差异 -ice vs -ide，slice 强调“切”的动作，slide 强调“滑”的位移。lice（虱子）：字母差异 s- 前缀，slice 有“切”义，lice 为昆虫。",
+        "extendedMeaning": "考研僻义：作动词时表“迅速切割/划破”（如 slice through the air 划破空气），或作名词表“部分/份额”（如 a slice of the market 市场份额）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "slide",
+      "word": "slide",
+      "phonetic": "/slaid/",
+      "meaning": "v.(使)滑动 n.滑坡,滑道;滑,滑动;幻灯片",
+      "similar": [
+        "glide",
+        "slice",
+        "spider",
+        "stride",
+        "lid",
+        "like",
+        "live",
+        "site"
+      ],
+      "question": {
+        "wordId": "slide",
+        "stem": "选择 \"slide\" 的正确中文意思：",
+        "correct": "v.(使)滑动 n.滑坡,滑道;滑,滑动;幻灯片",
+        "options": [
+          "n.蜘蛛",
+          "n./v.溜,滑行;(时间)消逝",
+          "v.(使)滑动 n.滑坡,滑道;滑,滑动;幻灯片",
+          "n.薄片,切片;一份;部分切(片)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语slīdan，与‘滑’相关。核心物理动作为：物体在表面上平滑移动，失去摩擦力。引申为‘下滑’、‘滑入’等概念。",
+        "similarWarning": "side（边，侧面，d替换为e）vs slide（滑动，多l）；glide（滑翔，g开头）vs slide（滑动，s开头）；slice（切片，c替换d）vs slide（滑动）；spider（蜘蛛，p替换l）vs slide；stride（大步走，t替换l）vs slide；lid（盖子，无s）vs slide；lie（躺，无d）vs slide；hide（隐藏，h开头）vs slide。",
+        "extendedMeaning": "考研僻义：n. 幻灯片（presentation用），如‘slide show’；v. 逐渐陷入（负面状态），如‘slide into recession’（陷入衰退）。",
+        "examUsage": "真题考点：‘let slide’（放任不管，不处理），如‘He let the problem slide.’；‘slide over’（略过，回避），如‘slide over the details’；‘on the slide’（走下坡路）。"
+      }
+    },
+    {
+      "id": "slight",
+      "word": "slight",
+      "phonetic": "/slait/",
+      "meaning": "a.轻微的,微小的;纤细的,瘦弱的",
+      "similar": [
+        "flight",
+        "plight",
+        "delight",
+        "sigh",
+        "slit",
+        "eight",
+        "tight",
+        "fright"
+      ],
+      "question": {
+        "wordId": "slight",
+        "stem": "选择 \"slight\" 的正确中文意思：",
+        "correct": "a.轻微的,微小的;纤细的,瘦弱的",
+        "options": [
+          "n.快乐,高兴 v.(使)高兴,(使)欣喜",
+          "n.飞翔,飞行;航班;航程;逃跑;楼梯的一段",
+          "a.轻微的,微小的;纤细的,瘦弱的",
+          "n.情况,状态,困境,盟誓(婚姻) v.保证,约定"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自中古英语slight，与古英语sleah（光滑的、平坦的）同源，核心动作是‘使表面平滑’→引申为‘力量小、程度轻’→‘轻微的’；再引申为‘身体单薄’→‘纤细的’。",
+        "similarWarning": "light（光/轻的，l-光） vs slight（轻微的，s-加强+轻）; sight（视力，s-看+ight）; flight（飞行，f-飞+light）; plight（困境，p-压+light）; delight（高兴，de-加强+light）。核心差异：slight强调‘量小’，light强调‘重量轻’。",
+        "extendedMeaning": "（考研高频）作为名词：轻蔑、怠慢（如‘put a slight on sb.’）; 作为动词：轻视、冷落（如‘slight sb.’）— 例：He was enraged by the slight.（他因受轻蔑而暴怒。）",
+        "examUsage": "真题考点：slight作动词‘轻视’与‘slightly’（adv.轻微地）的活用。常考搭配‘not in the slightest’（毫不）。例句：The slight difference in their opinions was not in the slightest important.（他们观点中的微小差别毫不重要。）"
+      }
+    },
+    {
+      "id": "slim",
+      "word": "slim",
+      "phonetic": "/slim/",
+      "meaning": "a.苗条的;(机会)少的 v.减轻体重,变苗条",
+      "similar": [
+        "skim",
+        "slam",
+        "slip",
+        "slit",
+        "slum",
+        "claim",
+        "climb",
+        "slice"
+      ],
+      "question": {
+        "wordId": "slim",
+        "stem": "选择 \"slim\" 的正确中文意思：",
+        "correct": "a.苗条的;(机会)少的 v.减轻体重,变苗条",
+        "options": [
+          "a.苗条的;(机会)少的 v.减轻体重,变苗条",
+          "vt.撇去(液体表面)之漂浮物 vi.轻轻掠过",
+          "v.滑,滑倒;滑掉;溜走n.疏忽,小错,口误,笔误",
+          "v.(门、窗等)砰地关上 n.猛然关闭的声音"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自中古荷兰语slim（狡猾的、坏的），后词义演变为‘细长的、苗条的’。核心动作是‘变细’或‘缩减’，引申为‘数量少’。",
+        "similarWarning": "skim（撇去；浏览） vs slim（苗条的）：skim强调‘掠过表面’；slam（猛击） vs slim：slam是‘砰地关上’；slip（滑倒） vs slim：slip是‘滑动’；slit（切开） vs slim：slit是‘狭长切口’；slum（贫民窟） vs slim：slum是‘贫民区’；swim（游泳） vs slim：swim是‘游水’；claim（声称） vs slim：claim是‘宣称’；climb（攀登） vs slim：climb是‘爬升’。",
+        "extendedMeaning": "（机会、可能性）微小的，渺茫的：a slim chance/prospect（微小的机会/前景）。",
+        "examUsage": "真题常考slim作定语修饰chance/prospect/hope等词，表示‘渺茫的’，如：There is a slim chance of success.（成功可能性很小。）注意与slim（减肥）区分，后者常作动词：She is trying to slim.（她在努力减肥。）"
+      }
+    },
+    {
+      "id": "slip",
+      "word": "slip",
+      "phonetic": "/slip/",
+      "meaning": "v.滑,滑倒;滑掉;溜走n.疏忽,小错,口误,笔误",
+      "similar": [
+        "lip",
+        "sip",
+        "clip",
+        "skip",
+        "slap",
+        "slim",
+        "slit",
+        "slice"
+      ],
+      "question": {
+        "wordId": "slip",
+        "stem": "选择 \"slip\" 的正确中文意思：",
+        "correct": "v.滑,滑倒;滑掉;溜走n.疏忽,小错,口误,笔误",
+        "options": [
+          "v.剪,修剪;钳,夹住 n.夹,钳;回形针",
+          "n.嘴唇",
+          "v.小口地喝，抿，呷n.一小口的量",
+          "v.滑,滑倒;滑掉;溜走n.疏忽,小错,口误,笔误"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语slipan，核心动作是“光滑表面上的意外移动”。词根*sleubh-表示“滑、滑动”，物理画面是物体失去摩擦力后不受控地移动。引申为“溜走”（像滑走一样离开）和“失误”（像滑倒一样出错）。",
+        "similarWarning": "slip vs. skip: slip强调“滑”的动作（i→i），skip强调“跳、跳过”（k→k）。slip vs. slap: slip是滑动（i），slap是拍打（a）。slip vs. slit: slip是滑行（p），slit是切开（t）。",
+        "extendedMeaning": "【熟词僻义】①“下滑、下降”：如slip in prices（价格下跌）；②“（时间）流逝”：如time slips away；③“（机会）溜走”：如let the chance slip。",
+        "examUsage": "【真题考点】①Freudian slip（口误、笔误）——心理学语境中的经典术语；②slip up（出差错）——考研完形高频短语；③slip one's mind（被遗忘）——阅读中表示“忘记”的正式表达。"
+      }
+    },
+    {
+      "id": "slipper",
+      "word": "slipper",
+      "phonetic": "/'slipə/",
+      "meaning": "n.便鞋,拖鞋",
+      "similar": [
+        "slippery",
+        "supper"
+      ],
+      "question": {
+        "wordId": "slipper",
+        "stem": "选择 \"slipper\" 的正确中文意思：",
+        "correct": "n.便鞋,拖鞋",
+        "options": [
+          "n.晚餐",
+          "n.战役;运动",
+          "a.滑的,滑溜的",
+          "n.便鞋,拖鞋"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自动词slip（滑），后缀-er表物。字面意为‘滑进去的鞋子’，强调穿脱方便、无需系带，一脚蹬入即滑行。",
+        "similarWarning": "slipper（拖鞋） vs slippery（滑的）：slipper结尾为-er（表物），slippy+ary（形容词后缀）。supper（晚餐）仅首字母不同，注意拼写差异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "slippery",
+      "word": "slippery",
+      "phonetic": "/'slipəri/",
+      "meaning": "a.滑的,滑溜的",
+      "similar": [
+        "slipper",
+        "supper"
+      ],
+      "question": {
+        "wordId": "slippery",
+        "stem": "选择 \"slippery\" 的正确中文意思：",
+        "correct": "a.滑的,滑溜的",
+        "options": [
+          "a.滑的,滑溜的",
+          "n.便鞋,拖鞋",
+          "n.晚餐",
+          "n.混合;混合物,混合剂"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 slip-（滑） + 形容词后缀 -ery（表性质），核心物理动作为“滑动、打滑”，引申为难以抓握或不可靠的感觉。",
+        "similarWarning": "slipper（拖鞋，名词，结尾 -er 表物）；supper（晚餐，拼写差异为 u 与 li，词义无关）。",
+        "extendedMeaning": "（在考研语境中常引申为）难以捉摸的；不可靠的；棘手的（如 slippery slope 滑坡谬误）。",
+        "examUsage": "（在真题中常以固定搭配出现）slippery slope（滑坡，指一旦开始就难以阻止的负面趋势）；例句：The debate quickly descended into a slippery slope of ethical compromises.（该辩论迅速滑向伦理妥协的滑坡。）"
+      }
+    },
+    {
+      "id": "slit",
+      "word": "slit",
+      "phonetic": "/slit/",
+      "meaning": "v.切开,截开,纵割 n.细长裂缝,狭长切口",
+      "similar": [
+        "split",
+        "slim",
+        "slip",
+        "slot",
+        "spit",
+        "suit",
+        "slight",
+        "elite"
+      ],
+      "question": {
+        "wordId": "slit",
+        "stem": "选择 \"slit\" 的正确中文意思：",
+        "correct": "v.切开,截开,纵割 n.细长裂缝,狭长切口",
+        "options": [
+          "v.切开,截开,纵割 n.细长裂缝,狭长切口",
+          "v.滑,滑倒;滑掉;溜走n.疏忽,小错,口误,笔误",
+          "v.裂开,劈开;分裂,分离 n.分化,分裂,裂口",
+          "a.苗条的;(机会)少的 v.减轻体重,变苗条"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根与古英语相关，slit 源自古英语 slītan，意为“撕裂、切开”，核心动作为用利器纵向划开，形成细长开口。与 slit 同源的词包括 slice（切片），强调切割动作的线性与狭窄结果。",
+        "similarWarning": "split（分裂，强调分开成两部分，slit 比 split 少 p，动作更精细）；slot（狭槽，强调凹槽或位置，slit 多 i 表示切口）；slip（滑倒，强调滑动，slit 替换 p 为 t 表示切割）；slight（轻微的，强调细小，slit 替换 gh 为 t 表示物理开口）。",
+        "extendedMeaning": "在考研语境中，slit 可引申为“狭缝、缝隙”，用于描述光学或机械装置中的窄口（如 slit lamp 裂隙灯），或抽象地指“裂口、缺口”，如 a slit in the wall（墙上的裂缝）。",
+        "examUsage": "真题中常与 cut, tear 辨析：slit 强调纵向细长切口，如 slit an envelope（拆信封）；搭配 slit open 表“切开”，如 slit open the bag。干扰项常为 split，但 split 强调完全分离。"
+      }
+    },
+    {
+      "id": "slogan",
+      "word": "slogan",
+      "phonetic": "/'sləugən/",
+      "meaning": "n.标语,口号",
+      "similar": [
+        "loan"
+      ],
+      "question": {
+        "wordId": "slogan",
+        "stem": "选择 \"slogan\" 的正确中文意思：",
+        "correct": "n.标语,口号",
+        "options": [
+          "a.肮脏的,卑劣的,下流的;令人厌恶的",
+          "n.贷款;出借,借出 v.借出",
+          "a.有限的,被限制的",
+          "n.标语,口号"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自盖尔语 sluagh-ghairm（战斗呐喊），sluagh（军队）+ ghairm（呼喊）。原指苏格兰高地部落战争时的集合口号，后演变为政治或商业宣传的简短有力语句，核心动作是“用短句集体呼喊以凝聚意志”。",
+        "similarWarning": "slogan vs. loan：slogan 含字母 g，意为“标语”；loan 无 g，意为“贷款”。注意拼写中 g 的有无区分“口号”与“借贷”。",
+        "extendedMeaning": "",
+        "examUsage": "考研阅读中常以“商业广告标语”或“政治竞选口号”出现，如 campaign slogan（竞选口号）。无特殊干扰项考点，故省略。"
+      }
+    },
+    {
+      "id": "slope",
+      "word": "slope",
+      "phonetic": "/sləup/",
+      "meaning": "n.斜坡,斜面;倾斜,斜度 v.(使)倾斜",
+      "similar": [
+        "scope",
+        "cope",
+        "pope",
+        "rope",
+        "slap",
+        "slip",
+        "slot",
+        "slow"
+      ],
+      "question": {
+        "wordId": "slope",
+        "stem": "选择 \"slope\" 的正确中文意思：",
+        "correct": "n.斜坡,斜面;倾斜,斜度 v.(使)倾斜",
+        "options": [
+          "v.(with)竞争,对抗;(with)对付,妥善处理",
+          "n.罗马教皇,主教,大腿上要害部位",
+          "n.(活动)范围;机会,余地",
+          "n.斜坡,斜面;倾斜,斜度 v.(使)倾斜"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "slope 源自古英语 *slupan*（滑行），核心动作是“滑动”。词根与“滑”相关，物理画面是物体沿斜面滑下，故引申为“斜坡、倾斜”。",
+        "similarWarning": "scope（范围） vs slope：scope 源自希腊语 skopein（看），核心是“视野范围”；slope 核心是“滑”的斜面。cope（应对） vs slope：cope 源自拉丁语 colaphus（打击），核心是“对抗、处理”；slope 无此义。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "slot",
+      "word": "slot",
+      "phonetic": "/slɔt/",
+      "meaning": "n.狭缝；空位vt.放入狭缝中；把…纳入",
+      "similar": [
+        "lot",
+        "plot",
+        "shot",
+        "slit",
+        "slow",
+        "spot",
+        "cloth",
+        "float"
+      ],
+      "question": {
+        "wordId": "slot",
+        "stem": "选择 \"slot\" 的正确中文意思：",
+        "correct": "n.狭缝；空位vt.放入狭缝中；把…纳入",
+        "options": [
+          "n.狭缝；空位vt.放入狭缝中；把…纳入",
+          "n.许多，大量；签，抽签；命运；场地",
+          "n.秘密计划;情节 v.标绘,绘制;密谋,策划",
+          "n.开枪,射击;投篮;弹丸,炮弹,子弹"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自中古荷兰语 'slot'（锁、城堡），核心物理动作是“一个狭窄的开口或凹槽”，引申为“插入或安放某物的位置”。词根 'slot' 即“开槽、插入”，体现从物理狭缝到抽象空位的演变。",
+        "similarWarning": "slit（狭长切口，强调切开动作） vs slot（预设凹槽，强调容纳功能）; spot（点、斑点） vs slot（线状槽口）",
+        "extendedMeaning": "考研僻义：n.（时间表中的）空档时段，如 'time slot'（时间段）; vt. 安排、纳入（计划/体系），如 'slot into place'（各就各位）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "slow",
+      "word": "slow",
+      "phonetic": "/sləu/",
+      "meaning": "a.慢的,不活跃的 v.(down)(使)放慢,减速",
+      "similar": [
+        "sow",
+        "flow",
+        "glow",
+        "slot",
+        "allow",
+        "elbow",
+        "slope"
+      ],
+      "question": {
+        "wordId": "slow",
+        "stem": "选择 \"slow\" 的正确中文意思：",
+        "correct": "a.慢的,不活跃的 v.(down)(使)放慢,减速",
+        "options": [
+          "v.流,流动 n.流量,流速",
+          "v.发热,发光,发红 n.白热",
+          "v.播种",
+          "a.慢的,不活跃的 v.(down)(使)放慢,减速"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能与古英语slaw（迟钝的）相关，核心物理动作为“移动速度低”，引申为进程缓慢或不活跃。",
+        "similarWarning": "形近词对比：slow vs. low（低的，矮的）；slow vs. sow（播种）；slow vs. blow（吹，打击）；slow vs. flow（流动）；slow vs. glow（发光）；slow vs. show（展示）；slow vs. slot（狭槽）；slow vs. snow（雪）。核心差异：slow首字母s-，强调速度慢；其余词根义不同。",
+        "extendedMeaning": "考研僻义：作动词时，除‘放慢’外，可引申为‘使不景气’（如slow the economy）；作形容词时，在口语中可指‘迟钝的’（如slow learner）。",
+        "examUsage": "真题考点：常见搭配slow down（减速，放慢速度），如‘slow down the pace of life’；注意干扰项中可能与‘low’混淆，但slow侧重速度，low侧重高度或程度。"
+      }
+    },
+    {
+      "id": "slum",
+      "word": "slum",
+      "phonetic": "/slʌm/",
+      "meaning": "n.贫民窟,贫民区,陋巷",
+      "similar": [
+        "sum",
+        "slam",
+        "slim",
+        "album"
+      ],
+      "question": {
+        "wordId": "slum",
+        "stem": "选择 \"slum\" 的正确中文意思：",
+        "correct": "n.贫民窟,贫民区,陋巷",
+        "options": [
+          "n.贫民窟,贫民区,陋巷",
+          "n.总数,和;金额;算术题;要旨 v.合计,总计",
+          "v.(门、窗等)砰地关上 n.猛然关闭的声音",
+          "a.苗条的;(机会)少的 v.减轻体重,变苗条"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自18世纪伦敦俚语，指“肮脏、拥挤的贫困街区”。核心画面：破旧、拥挤、卫生条件差的低收入者聚居区。",
+        "similarWarning": "slam（猛击，砰地关上） vs slum（贫民窟） vs slim（苗条的）。差异在元音：slam中的a发/æ/，slum中的u发/ʌ/，slim中的i发/ɪ/。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sly",
+      "word": "sly",
+      "phonetic": "/slai/",
+      "meaning": "a.狡猾的,偷偷摸摸的",
+      "similar": [
+        "spy",
+        "silly"
+      ],
+      "question": {
+        "wordId": "sly",
+        "stem": "选择 \"sly\" 的正确中文意思：",
+        "correct": "a.狡猾的,偷偷摸摸的",
+        "options": [
+          "n.(动物的)栖息地，(植物的)产地",
+          "a.傻的,糊涂的,愚蠢的",
+          "n.间谍 v.当间谍,刺探;察觉,发现",
+          "a.狡猾的,偷偷摸摸的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语 slēah ‘狡猾的，灵巧的’，与德语 schlau ‘精明’同源。核心动作是‘隐藏意图、暗中行动’，强调不直截了当、带有欺骗性的机敏。",
+        "similarWarning": "sly vs. shy: sly 是‘狡猾的’，shy 是‘害羞的’，区别在于首字母 l 与 h；sly vs. spy: spy 是名词‘间谍’或动词‘侦察’，sly 是形容词，注意拼写中 y 的位置相同但含义不同；sly vs. silly: silly 是‘愚蠢的’，sly 是‘狡猾的’，词义相反。",
+        "extendedMeaning": "熟词僻义：在考研阅读中可作‘诡秘的’‘会意的’（如 a sly smile 会意的微笑），隐含‘心照不宣’的意味，而非完全负面。",
+        "examUsage": "考点：常与 cunning, crafty 同义替换；真题干扰项中可能用 shy 或 silly 设置拼写陷阱。无特殊固定搭配需强记。"
+      }
+    },
+    {
+      "id": "smart",
+      "word": "smart",
+      "phonetic": "/smɑ:t/",
+      "meaning": "a.漂亮的;聪明的;巧妙的 v.剧痛,刺疼",
+      "similar": [
+        "impart",
+        "mat",
+        "cart",
+        "mark",
+        "salt",
+        "scar",
+        "soar",
+        "apart"
+      ],
+      "question": {
+        "wordId": "smart",
+        "stem": "选择 \"smart\" 的正确中文意思：",
+        "correct": "a.漂亮的;聪明的;巧妙的 v.剧痛,刺疼",
+        "options": [
+          "n.(二轮货运)马车,手推车",
+          "n.席子,垫子",
+          "vt.传授，给予；告知，通知",
+          "a.漂亮的;聪明的;巧妙的 v.剧痛,刺疼"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根词源不详，推测与拟声有关，模拟刺痛或鞭打的声音。核心物理动作：尖锐刺激（物理刺痛）→ 引申为思维敏锐（如刀锋般尖锐）。",
+        "similarWarning": "start（开始；吃惊）：s-mart vs s-tart，mart侧重“市场/聪明”，tart侧重“开始/惊动”。",
+        "extendedMeaning": "（无特殊僻义，基础释义已覆盖考研高频）",
+        "examUsage": "（无特殊考点，常见词汇不设陷阱）"
+      }
+    },
+    {
+      "id": "smash",
+      "word": "smash",
+      "phonetic": "/smæʃ/",
+      "meaning": "v./n.打碎,粉碎",
+      "similar": [
+        "splash",
+        "ash",
+        "cash",
+        "dash",
+        "lash",
+        "mask",
+        "mass",
+        "rash"
+      ],
+      "question": {
+        "wordId": "smash",
+        "stem": "选择 \"smash\" 的正确中文意思：",
+        "correct": "v./n.打碎,粉碎",
+        "options": [
+          "n.灰，灰末；(pl.)骨灰；(pl.)废墟",
+          "n.现金,现款 v.兑现,付(或收)现款",
+          "v.溅,泼 n.溅,飞溅声",
+          "v./n.打碎,粉碎"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿物体碎裂或撞击时的声响。核心动作是“猛烈撞击并破碎”，强调力量与破坏性。",
+        "similarWarning": "smash vs. splash：splash指液体飞溅（水花），smash指固体破碎（粉碎）。smash含m（猛），splash含pl（泼）。",
+        "extendedMeaning": "（考试中）① 击溃、打败（对手/记录）：smash a record（打破纪录）；② 猛力撞击：smash into（猛撞上）。",
+        "examUsage": "真题考点：smash常与hit/crash辨析，强调“彻底粉碎性破坏”。搭配：smash sth. to pieces（把某物砸成碎片）；smash down（撞倒/击垮）。"
+      }
+    },
+    {
+      "id": "smell",
+      "word": "smell",
+      "phonetic": "/smel/",
+      "meaning": "n.气味;嗅觉 v.嗅,闻到;散发(…的)气味",
+      "similar": [
+        "shell",
+        "spell",
+        "swell",
+        "cell",
+        "fell",
+        "hell",
+        "melt",
+        "mill"
+      ],
+      "question": {
+        "wordId": "smell",
+        "stem": "选择 \"smell\" 的正确中文意思：",
+        "correct": "n.气味;嗅觉 v.嗅,闻到;散发(…的)气味",
+        "options": [
+          "n.壳,贝壳;炮弹",
+          "n.气味;嗅觉 v.嗅,闻到;散发(…的)气味",
+          "v.拼写",
+          "n./v.肿胀;膨胀;增大;增加;"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不明，可能拟声词，模仿吸气嗅闻的动作。核心物理动作是‘通过鼻子吸入空气感知气味’，引申为‘散发气味’或‘察觉’（抽象感知）。",
+        "similarWarning": "sell（卖，s换为l）; shell（壳，加h）; small（小的，m换为a）; spell（拼写，p换为m）; swell（膨胀，w换为m）; bell（铃，b换为sm）; cell（细胞，c换为sm）; fell（fall过去式，f换为sm）。注意smell与spell拼写差异：smell有m，spell有p。",
+        "extendedMeaning": "v. 察觉，感觉到（尤指负面或隐蔽的事物）; n. 迹象，苗头（如a smell of trouble）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "smog",
+      "word": "smog",
+      "phonetic": "/smɒg/",
+      "meaning": "n.烟雾",
+      "similar": [
+        "smoke"
+      ],
+      "question": {
+        "wordId": "smog",
+        "stem": "选择 \"smog\" 的正确中文意思：",
+        "correct": "n.烟雾",
+        "options": [
+          "n.烟雾",
+          "n.烟,烟尘;吸烟,抽烟 v.抽(烟);冒烟,冒气",
+          "num.四 pron./a.四(个，只...)",
+          "vt.钦佩,赞赏,羡慕；称赞,夸奖"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由 smoke（烟）和 fog（雾）两词截取组合而成，sm-（来自 smoke） + -og（来自 fog），字面即“烟+雾”的混合物，指空气中烟尘与雾气混合形成的污染性烟雾。",
+        "similarWarning": "among（在…之中）：a-（在） + mong（混合），与 smog 仅在首字母和词根结构上不同；smoke（烟）：与 smog 共享 sm- 开头，但 smoke 是独立名词/动词，smog 是复合污染现象。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "smoke",
+      "word": "smoke",
+      "phonetic": "/sməuk/",
+      "meaning": "n.烟,烟尘;吸烟,抽烟 v.抽(烟);冒烟,冒气",
+      "similar": [
+        "stroke",
+        "coke",
+        "mode",
+        "move",
+        "poke",
+        "sake",
+        "smog",
+        "sole"
+      ],
+      "question": {
+        "wordId": "smoke",
+        "stem": "选择 \"smoke\" 的正确中文意思：",
+        "correct": "n.烟,烟尘;吸烟,抽烟 v.抽(烟);冒烟,冒气",
+        "options": [
+          "n.方式,式样",
+          "n.烟,烟尘;吸烟,抽烟 v.抽(烟);冒烟,冒气",
+          "n.击;报时的钟声;一击/划/笔;中风 v.抚摸",
+          "n.焦炭；可口可乐（COCA-COLA）的缩写"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "古英语smoca/动词smocian，拟声词源，模仿燃烧时烟雾升腾的嘶嘶声。核心动作：物质不完全燃烧产生可见悬浮颗粒（烟）或吸入烟草燃烧产物（抽烟）。",
+        "similarWarning": "stroke（抚摸/中风）：stroke含‘r’表摩擦动作；coke（焦炭/可口可乐）：coke无‘s’表固体燃料；smoke与joke（玩笑）音近形异，无混淆风险。",
+        "extendedMeaning": "熟词僻义：1. 烟熏（如smoked salmon烟熏三文鱼）；2. 模糊/掩盖（smoke screen烟幕弹，引申为掩盖真相的障眼法）；3. 快速移动（smoke through the city飞驰过城市）。",
+        "examUsage": "真题考点：1. 固定搭配‘go up in smoke’化为乌有（2013年阅读）；2. 熟词僻义‘smoke detector’烟雾探测器（2007年完形）；3. 动词‘smoke out’逐出/揭露（外刊常见）。"
+      }
+    },
+    {
+      "id": "smooth",
+      "word": "smooth",
+      "phonetic": "/smu:ð/",
+      "meaning": "a.光滑的;顺利的;柔和的 v.(over)掩饰",
+      "similar": [
+        "booth",
+        "shoot",
+        "tooth"
+      ],
+      "question": {
+        "wordId": "smooth",
+        "stem": "选择 \"smooth\" 的正确中文意思：",
+        "correct": "a.光滑的;顺利的;柔和的 v.(over)掩饰",
+        "options": [
+          "n.电话亭,货摊",
+          "n.(pl.teeth)牙齿；齿状物；",
+          "a.光滑的;顺利的;柔和的 v.(over)掩饰",
+          "v.发射;掠过,疾驰而过 n.嫩枝,苗,射击"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *smanþ-，核心动作是‘磨平、使表面一致’。词根 *sme-（涂抹、擦拭）引申为‘消除凸起/粗糙’，形成‘光滑、顺利’的本义。",
+        "similarWarning": "mouth /maʊθ/（嘴） vs smooth /smuːð/（光滑）：mouth 含双元音 /aʊ/，smooth 含长元音 /uː/ 和齿擦音 /ð/。",
+        "extendedMeaning": "（动词）掩饰，如 smooth over（平息、粉饰）——真题中常考‘缓和矛盾、掩盖分歧’的抽象义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "smuggle",
+      "word": "smuggle",
+      "phonetic": "/'smʌgl/",
+      "meaning": "v.走私;偷运",
+      "similar": [
+        "struggle"
+      ],
+      "question": {
+        "wordId": "smuggle",
+        "stem": "选择 \"smuggle\" 的正确中文意思：",
+        "correct": "v.走私;偷运",
+        "options": [
+          "v.耳语;私下说,偷偷告诉 n.耳语;传闻",
+          "v.走私;偷运",
+          "n./v.斗争,奋斗,努力",
+          "n.橡树,橡木 a.橡木的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自低地德语或荷兰语“smuggelen”，核心物理动作是“秘密、非法地移动物品”，强调“隐蔽地运输”以逃避监管。",
+        "similarWarning": "形近词：struggle（斗争，挣扎）。差异：smuggle 以“-uggle”结尾，核心是“秘密运输”；struggle 以“-uggle”开头不同，但拼写相似，易混淆。辨析：smuggle 指非法偷运，struggle 指费力抗争。",
+        "extendedMeaning": "",
+        "examUsage": "常考搭配：smuggle sth. into/out of (a place)（将某物偷运进/出某地）。真题中常作为干扰项，与“traffic”（非法交易）近义，但侧重“运输”动作。"
+      }
+    }
+  ]
+}

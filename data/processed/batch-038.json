@@ -1,0 +1,1687 @@
+{
+  "batchId": 38,
+  "words": [
+    {
+      "id": "harvest",
+      "word": "harvest",
+      "phonetic": "/'hɑ:vist/",
+      "meaning": "n.收获,收成;成果,后果 v.收获,收割",
+      "similar": [
+        "arrest",
+        "earnest",
+        "harness"
+      ],
+      "question": {
+        "wordId": "harvest",
+        "stem": "选择 \"harvest\" 的正确中文意思：",
+        "correct": "n.收获,收成;成果,后果 v.收获,收割",
+        "options": [
+          "v.治理,利用 n.马具,挽具",
+          "a.热心的,诚挚的 n.热心;真挚;定金;认真",
+          "n.逮捕，扣留 vt.逮捕，扣留；阻止；吸引",
+          "n.收获,收成;成果,后果 v.收获,收割"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "古英语hærfest（秋天），源自原始日耳曼语*harbitas（收割季节）。核心动作是“在秋季收割谷物”，引申为任何“收获成果”的动作或结果。",
+        "similarWarning": "harness（马具/利用，n./v.）：拼写差异为-est vs -ness，词义完全不同。arrest（逮捕，v.）和earnest（认真的，adj.）仅首字母不同，但无明显词源关联。",
+        "extendedMeaning": "在考研中常引申为“成果、结果”，如the harvest of one's labor（劳动的成果），或用于比喻义“后果”（常带负面色彩，如the harvest of war）。",
+        "examUsage": "真题中常与reap搭配，如reap a harvest（获得成果），或作动词用于被动结构be harvested（被收割/被采集）。注意其及物动词用法，如harvest crops（收割庄稼）和harvest data（采集数据）。"
+      }
+    },
+    {
+      "id": "haste",
+      "word": "haste",
+      "phonetic": "/heist/",
+      "meaning": "n.匆忙,急速;草率 v.赶快;匆忙",
+      "similar": [
+        "hate",
+        "hasty",
+        "paste",
+        "taste",
+        "waste",
+        "castle",
+        "easter",
+        "fasten"
+      ],
+      "question": {
+        "wordId": "haste",
+        "stem": "选择 \"haste\" 的正确中文意思：",
+        "correct": "n.匆忙,急速;草率 v.赶快;匆忙",
+        "options": [
+          "n.糊,浆糊 v.粘,贴",
+          "v.恨,憎恨;不愿,不喜欢 n.恨,憎恶",
+          "n.匆忙,急速;草率 v.赶快;匆忙",
+          "a.匆忙的,仓促的;草率的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自古法语haste，与古英语hæst同源，核心物理动作为“快速移动”，强调动作的急促与紧迫感。词根ha-与“抓”相关，引申为急于抓住时间。",
+        "similarWarning": "hate（恨，憎恨）与haste相差字母s，对比hate vs haste，后者多一个‘s’表示速度；hasty（匆忙的，草率的）是haste的形容词形式，注意词性差异；paste（粘贴，糊状物）与haste仅首字母p/h不同；taste（味道，品味）与haste首字母t/h不同；waste（浪费，废弃物）与haste首字母w/h不同；castle（城堡）与haste拼写差异较大；easter（复活节）与haste拼写差异较大；fasten（系紧，固定）与haste首字母f/h不同，且词义无关。",
+        "extendedMeaning": "在考研阅读中，haste常引申为“草率行为”或“仓促决定”，如‘Marry in haste, repent at leisure’（草率结婚，后悔莫及）。此外，短语‘in haste’可指“急切地”，但更常隐含负面评价。",
+        "examUsage": "常见考点：短语‘make haste’（赶快，赶紧），如‘Make haste, or we will miss the train.’（快点，否则我们会错过火车。）真题中常与‘hurry’同义替换，但haste更强调因时间紧迫导致的粗心。"
+      }
+    },
+    {
+      "id": "hasty",
+      "word": "hasty",
+      "phonetic": "/'heɪsti/",
+      "meaning": "a.匆忙的,仓促的;草率的",
+      "similar": [
+        "haste",
+        "nasty",
+        "hat",
+        "hay",
+        "cast",
+        "east",
+        "halt",
+        "hate"
+      ],
+      "question": {
+        "wordId": "hasty",
+        "stem": "选择 \"hasty\" 的正确中文意思：",
+        "correct": "a.匆忙的,仓促的;草率的",
+        "options": [
+          "n.帽子(一般指有边的帽子)",
+          "a.匆忙的,仓促的;草率的",
+          "n.匆忙,急速;草率 v.赶快;匆忙",
+          "a.肮脏的,卑劣的,下流的;令人厌恶的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根来自古法语hast（匆忙），与haste同源，核心物理动作是“快速移动”，引申为“做事不细致、缺乏考虑”。",
+        "similarWarning": "hasty vs. nasty：h-替换n-，hasty强调“匆忙”，nasty强调“肮脏/恶劣”。hasty vs. haste：y为形容词后缀，意为“匆忙的”；e为名词后缀。",
+        "extendedMeaning": "考研中常考“草率的”这一贬义，如hasty decision（草率决定），强调缺乏深思熟虑。",
+        "examUsage": "常见搭配：hasty generalization（草率概括），真题中常作为干扰项，与careful, deliberate对立。"
+      }
+    },
+    {
+      "id": "hat",
+      "word": "hat",
+      "phonetic": "/hæt/",
+      "meaning": "n.帽子(一般指有边的帽子)",
+      "similar": [
+        "chat",
+        "halt",
+        "hate",
+        "bat",
+        "ham",
+        "hay",
+        "hit",
+        "hut"
+      ],
+      "question": {
+        "wordId": "hat",
+        "stem": "选择 \"hat\" 的正确中文意思：",
+        "correct": "n.帽子(一般指有边的帽子)",
+        "options": [
+          "v./n.闲谈,聊天",
+          "v.恨,憎恨;不愿,不喜欢 n.恨,憎恶",
+          "n.帽子(一般指有边的帽子)",
+          "n.止步,停步,停止前进 v.止步,(使)停止"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "无明确词根，源自原始日耳曼语 *hattuz，本义为“头罩”，核心物理动作是“覆盖头部”",
+        "similarWarning": "heat（热）：hat 加 e 变 heat，温度相关；hate（憎恨）：hat 加 e 变 hate，情感相关；halt（停止）：hat 加 l，动作相关",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hatch",
+      "word": "hatch",
+      "phonetic": "/hætʃ/",
+      "meaning": "v.孵,孵出;策划,图谋 n.舱口,小门",
+      "similar": [
+        "batch",
+        "match",
+        "patch",
+        "watch",
+        "snatch",
+        "hat",
+        "arch",
+        "bath"
+      ],
+      "question": {
+        "wordId": "hatch",
+        "stem": "选择 \"hatch\" 的正确中文意思：",
+        "correct": "v.孵,孵出;策划,图谋 n.舱口,小门",
+        "options": [
+          "n.火柴;比赛,竞赛;对手,配偶 v.匹配,相称",
+          "n.一批,一组,一群",
+          "v.孵,孵出;策划,图谋 n.舱口,小门",
+          "n.补丁,斑点,碎片小块 v.补,修补,掩饰"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自古英语‘hæc’（门闩）与‘hæccan’（孵卵）。核心物理动作：从封闭空间破壳或破门而出。词根无复杂演变，直接对应‘孵化’（生物破壳）与‘舱口’（船体开口）两个意象，并引申为‘策划’（秘密酝酿后突然实施）。",
+        "similarWarning": "batch（n.一批）：b-批量，h-孵化；catch（v.抓住）：c-抓捕，h-孵化；match（n.比赛）：m-匹配，h-孵化；patch（n.补丁）：p-修补，h-孵化；watch（v.观看）：w-观察，h-孵化；snatch（v.抢夺）：sn-猛抓，h-孵化；hat（n.帽子）：h-头，无孵化义；arch（n.拱门）：a-拱形，h-孵化。核心差异在于首字母或前缀带来的动作性质不同。",
+        "extendedMeaning": "考研僻义：v.策划，图谋（指秘密计划，常含阴谋意味）。如‘hatch a plot’（策划阴谋），区别于普通‘plan’的公开性。",
+        "examUsage": "真题考点：1. hatch out（孵出）常考被动语态；2. hatch a scheme（策划阴谋）常见于完形填空逻辑搭配；3. 干扰项常与match（匹配）、patch（修补）混淆，需注意语境中‘破壳而出’或‘秘密产生’的核心意象。"
+      }
+    },
+    {
+      "id": "hate",
+      "word": "hate",
+      "phonetic": "/heit/",
+      "meaning": "v.恨,憎恨;不愿,不喜欢 n.恨,憎恶",
+      "similar": [
+        "haste",
+        "hat",
+        "date",
+        "fate",
+        "gate",
+        "mate",
+        "rate",
+        "hatred"
+      ],
+      "question": {
+        "wordId": "hate",
+        "stem": "选择 \"hate\" 的正确中文意思：",
+        "correct": "v.恨,憎恨;不愿,不喜欢 n.恨,憎恶",
+        "options": [
+          "n.匆忙,急速;草率 v.赶快;匆忙",
+          "v.恨,憎恨;不愿,不喜欢 n.恨,憎恶",
+          "n.日期,年代 v.注明…的日期 n./v.约会",
+          "n.帽子(一般指有边的帽子)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "hate 源自古英语 hatian，核心物理动作是“强烈的情感排斥”，类似于身体本能地远离厌恶之物，与“恨”的本义直接对应。",
+        "similarWarning": "haste（匆忙）与 hate 差一个字母 s，词义无关；hat（帽子）与 hate 差 e，拼写相似但意义迥异；date（日期）与 hate 首字母不同，注意区分。",
+        "extendedMeaning": "在考研语境中，hate 常引申为“不愿、不喜欢”做某事，如 I hate to interrupt，表示礼貌的委婉拒绝，非极端憎恨。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hatred",
+      "word": "hatred",
+      "phonetic": "/'heitrid/",
+      "meaning": "n.憎恨,憎恶,怨恨",
+      "similar": [
+        "hate",
+        "sacred"
+      ],
+      "question": {
+        "wordId": "hatred",
+        "stem": "选择 \"hatred\" 的正确中文意思：",
+        "correct": "n.憎恨,憎恶,怨恨",
+        "options": [
+          "n.憎恨,憎恶,怨恨",
+          "n.斑马",
+          "v.恨,憎恨;不愿,不喜欢 n.恨,憎恶",
+          "a.神圣的;宗教的;庄严的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：hat(e)（憎恨）+ -red（名词后缀，表状态/性质）。核心动作：对某人/某物怀有强烈敌意或厌恶的心理状态。",
+        "similarWarning": "形近词对比：\n- hatred vs. hard（字母d相同，但hatred含hate核心，hard指坚硬/困难）\n- hatred vs. sacred（字母a/e/d顺序不同，sacred指神圣的，含义相反）\n重点辨析：hatred强调长期、深层的憎恶感，而hate作为动词更侧重即时情绪。",
+        "extendedMeaning": "考研中常引申为‘深恶痛绝的敌意’，不局限于个人情感，可用于群体、制度或抽象概念（如种族仇恨、对不公的憎恨）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "haul",
+      "word": "haul",
+      "phonetic": "/hɔ:l/",
+      "meaning": "v.拖曳,拖运,用力拖",
+      "similar": [
+        "hail",
+        "fault"
+      ],
+      "question": {
+        "wordId": "haul",
+        "stem": "选择 \"haul\" 的正确中文意思：",
+        "correct": "v.拖曳,拖运,用力拖",
+        "options": [
+          "v.折叠;合拢;抱住 n.褶,褶痕;羊栏;信徒",
+          "n.过失,过错;缺点,毛病",
+          "v.下雹;欢呼,欢迎 n.雹",
+          "v.拖曳,拖运,用力拖"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根词源：源自中古英语halen，与古法语haler（拖、拉）同源，最终可追溯至原始日耳曼语*halon（召唤、拖拽），核心物理动作为“用力拖拽重物”，强调持续、费力地移动物体。",
+        "similarWarning": "hail（冰雹；欢呼） vs haul（拖运）：hail中字母i像冰雹点状下落，haul中字母u像拖拽的弧线。hall（大厅） vs haul（拖运）：hall中ll像两根柱子，表示建筑；haul中u表示拖拽动作。fault（过错） vs haul：fault中fault有“错位”感，haul无此义。shall（将） vs haul：shall中sh为助动词，无拖拽义。",
+        "extendedMeaning": "考研僻义：①（商业）运输量，一次运输的货物（如：a huge haul of fish 一大网鱼）；②（非法）赃物，一次获得的大量物品（如：a drugs haul 一批毒品）；③（航海）改变航向（如：haul the wind 抢风行驶）。",
+        "examUsage": "真题考点：常与over搭配（haul over the coals 严厉责备），但更核心的是短语haul in（拉进；逮捕）和haul up（拉上来；停下）。真题例句：\"The police hauled in the suspect after a long chase.\"（追捕后警方将嫌疑人逮捕。）注意与hail（欢呼；下冰雹）在拼写和语义上的干扰。"
+      }
+    },
+    {
+      "id": "hawk",
+      "word": "hawk",
+      "phonetic": "/hɔ:k/",
+      "meaning": "n.鹰,隼",
+      "similar": [
+        "chalk",
+        "shark",
+        "thank"
+      ],
+      "question": {
+        "wordId": "hawk",
+        "stem": "选择 \"hawk\" 的正确中文意思：",
+        "correct": "n.鹰,隼",
+        "options": [
+          "vt.感谢int.[-s]谢谢n.[pl.]感谢(意)",
+          "n.鲨鱼",
+          "n.粉笔,白垩",
+          "n.鹰,隼"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟鹰的尖锐叫声。原始印欧语根*keh₂-意为‘呼喊’，与拉丁语cavus（空洞）同源，鹰的叫声尖锐如裂空。",
+        "similarWarning": "chalk（粉笔） vs hawk（鹰）：chalk首字母c-，尾部-lk；hawk首字母h-，尾部-wk，注意拼写差异。shark（鲨鱼） vs hawk：shark首字母sh-，尾部-rk；hawk首字母h-，尾部-wk，词义无关。thank（感谢） vs hawk：thank首字母th-，尾部-nk；hawk首字母h-，尾部-wk，尾部不同。",
+        "extendedMeaning": "v. 叫卖，兜售（如hawk goods）；v. 清嗓，咳出（如hawk up phlegm）；n. 鹰派人物（政治术语，主战派）。",
+        "examUsage": "真题中常考‘鹰派’引申义，如‘hawks in the government’（政府中的鹰派），与dove（鸽派）形成对比。"
+      }
+    },
+    {
+      "id": "hay",
+      "word": "hay",
+      "phonetic": "/hei/",
+      "meaning": "n.干草",
+      "similar": [
+        "bay",
+        "gay",
+        "ham",
+        "hat",
+        "ray",
+        "handy",
+        "hasty",
+        "shady"
+      ],
+      "question": {
+        "wordId": "hay",
+        "stem": "选择 \"hay\" 的正确中文意思：",
+        "correct": "n.干草",
+        "options": [
+          "n.火腿",
+          "a.快乐的,愉快的,色彩鲜艳的 n.同性恋",
+          "n.海湾,(港)湾",
+          "n.干草"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源自原始日耳曼语*haujan（砍、割），核心动作是“割下的草料”，指晒干后用作饲料的草。",
+        "similarWarning": "bay（海湾；月桂树；吠叫），day（白天），gay（同性恋的；快乐的），ham（火腿），hat（帽子），lay（放置；下蛋），may（可以；五月）",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hazard",
+      "word": "hazard",
+      "phonetic": "/'hæzəd/",
+      "meaning": "n.危险,冒险,危害 v.冒险,拼命",
+      "similar": [
+        "award"
+      ],
+      "question": {
+        "wordId": "hazard",
+        "stem": "选择 \"hazard\" 的正确中文意思：",
+        "correct": "n.危险,冒险,危害 v.冒险,拼命",
+        "options": [
+          "n.模糊不清的事物；污点 vt.使模糊；玷污",
+          "n.危险,冒险,危害 v.冒险,拼命",
+          "vt.授予,给予；判定 n.奖,奖金；仲裁",
+          "n.结论，推论；结尾；缔结，议定"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "hazard 源自阿拉伯语 az-zahr（骰子游戏），通过法语 hasard 进入英语。核心动作是“投掷骰子”，即结果由运气决定，引申为“不可控的风险或危险”。n. 危险、危害；v. 冒险、赌运气。",
+        "similarWarning": "hard (adj. 困难的) vs. award (v./n. 授予/奖品)。hazard 与 hard 仅差‘z’与‘d’，但 hazard 强调风险，hard 强调难度；与 award 相比，hazard 无‘a-’前缀且词义不同。",
+        "extendedMeaning": "在考研外刊中，hazard 常作动词，意为“冒险说出或提出”，如‘hazard a guess’（冒险猜测），强调不确定性。",
+        "examUsage": "真题常见搭配：‘health hazard’（健康危害）、‘moral hazard’（道德风险，经济学考点）。例：The lack of safety measures poses a serious hazard to workers.（缺乏安全措施对工人构成严重危害。）"
+      }
+    },
+    {
+      "id": "headache",
+      "word": "headache",
+      "phonetic": "/'hedeik/",
+      "meaning": "n.头痛",
+      "similar": [
+        "headline",
+        "headmaster"
+      ],
+      "question": {
+        "wordId": "headache",
+        "stem": "选择 \"headache\" 的正确中文意思：",
+        "correct": "n.头痛",
+        "options": [
+          "vt.传授，给予；告知，通知",
+          "n.大字标题,新闻标题",
+          "n.头痛",
+          "n.校长"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "head（头）+ ache（疼痛）→ 头部疼痛，即头痛。",
+        "similarWarning": "headline（n. 标题）与 headmaster（n. 校长），区别在于 ache 表示疼痛，而 line 表示线或标题，master 表示主人或校长。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "heading",
+      "word": "heading",
+      "phonetic": "/'hediŋ/",
+      "meaning": "n.标题",
+      "similar": [
+        "hearing",
+        "leading",
+        "reading",
+        "headline",
+        "ending",
+        "bearing",
+        "meaning",
+        "wedding"
+      ],
+      "question": {
+        "wordId": "heading",
+        "stem": "选择 \"heading\" 的正确中文意思：",
+        "correct": "n.标题",
+        "options": [
+          "n.听,倾听;听力;审讯",
+          "n.标题",
+          "n.读书,读物,(仪表等的)读数,阅读",
+          "a.领导的,指导的;第一位的;最主要的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "head (头) + -ing (动名词后缀) → 位于顶部的“头”内容，即标题、航向。核心动作：指引方向或标识起点。",
+        "similarWarning": "heading (n.标题) vs. hearing (n.听力) vs. leading (adj.领导的) vs. reading (n.阅读) — 首字母h/拼写差异，注意heading含“头”义，hearing与ear相关，leading表领先，reading与读相关。",
+        "extendedMeaning": "航向、方向（如course heading）；在表格或文件中指“表头”或“类目”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "headline",
+      "word": "headline",
+      "phonetic": "/'hedlain/",
+      "meaning": "n.大字标题,新闻标题",
+      "similar": [
+        "deadline",
+        "heading",
+        "decline",
+        "hearing",
+        "heroine",
+        "leading",
+        "reading",
+        "realise"
+      ],
+      "question": {
+        "wordId": "headline",
+        "stem": "选择 \"headline\" 的正确中文意思：",
+        "correct": "n.大字标题,新闻标题",
+        "options": [
+          "n.最后期限",
+          "n.大字标题,新闻标题",
+          "n.标题",
+          "v.下降,衰落;拒绝 n.下降;斜面,倾斜,衰落"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "head（头）+ line（行）→ 文章最顶端的行，即标题。源自印刷报纸时，头条新闻用大号字体排在最上方，核心动作是“置于头部的一行文字”。",
+        "similarWarning": "deadline（截止日期）：dead+line，强调“死线”即最后期限；heading（标题/方向）：head+ing，侧重“作为头部的方向或标题”，与headline相比更泛化，可指章节标题或飞行方向。",
+        "extendedMeaning": "在考研外刊中常引申为“头条新闻/热点事件”，如“make headlines”（成为头条新闻），强调公众关注的焦点。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "headmaster",
+      "word": "headmaster",
+      "phonetic": "/'hed'mɑ:stə/",
+      "meaning": "n.校长",
+      "similar": [
+        "headquarters",
+        "headache",
+        "semester"
+      ],
+      "question": {
+        "wordId": "headmaster",
+        "stem": "选择 \"headmaster\" 的正确中文意思：",
+        "correct": "n.校长",
+        "options": [
+          "n.学期",
+          "n.司令部,指挥部;总部,总局",
+          "n.校长",
+          "n.头痛"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "head（头）+ master（主人、主管）→ 学校中作为“头”的“主管人”，即校长。核心动作：以头部（领导）身份进行管理。",
+        "similarWarning": "headquarters（总部）：head（头）+ quarters（处所）→ 头部机构所在处，侧重“机构地点”；headache（头痛）：head（头）+ ache（疼痛）→ 物理/精神上的“头痛”，与“校长”无关；semester（学期）：来自拉丁语“六个月”，与“校长”拼写差异明显，无混淆风险。",
+        "extendedMeaning": "在英式英语中可指“（寄宿学校的）男校长”，强调权威与决策角色。考研中常以“学校最高负责人”的抽象含义出现，如“the headmaster's authority”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "headquarters",
+      "word": "headquarters",
+      "phonetic": "/ˌhed'kwɔ:təz/",
+      "meaning": "n.司令部,指挥部;总部,总局",
+      "similar": [
+        "headmaster"
+      ],
+      "question": {
+        "wordId": "headquarters",
+        "stem": "选择 \"headquarters\" 的正确中文意思：",
+        "correct": "n.司令部,指挥部;总部,总局",
+        "options": [
+          "n.司令部,指挥部;总部,总局",
+          "vt.修改，修订，改进",
+          "n.校长",
+          "n.足球"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "head（头）+ quarters（住处、区域）。原指军队指挥官居住和办公的‘头部驻地’，即司令部，后引申为任何组织的总部、总局。核心动作：领导者的所在位置。",
+        "similarWarning": "headmaster（校长）：head（头）+ master（主人），指学校的主要负责人；headquarters强调地点（驻地），headmaster强调人物（管理者）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "heal",
+      "word": "heal",
+      "phonetic": "/hi:l/",
+      "meaning": "v.治愈,愈合",
+      "similar": [
+        "deal",
+        "heap",
+        "heel",
+        "hell",
+        "seal",
+        "zeal",
+        "health",
+        "ahead"
+      ],
+      "question": {
+        "wordId": "heal",
+        "stem": "选择 \"heal\" 的正确中文意思：",
+        "correct": "v.治愈,愈合",
+        "options": [
+          "v.处理;做买卖,经营;分配;对待 n.交易",
+          "n.(一)堆,大量,许多 v.(up)堆,堆起",
+          "n.脚后跟,踵,鞋跟",
+          "v.治愈,愈合"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "heal 源自古英语 hælan，与 whole（完整的）同源，核心物理动作为“使恢复完整状态”。词根演变：heal 由“修复裂痕”引申为“治愈伤口、恢复健康”。",
+        "similarWarning": "heel（脚跟）：heal 含“a”表“治愈”，heel 含“ee”表“脚跟”。heap（堆）：heal 以“l”结尾，heap 以“p”结尾，指“堆积”。",
+        "extendedMeaning": "考研中常引申为“修复（关系、分歧）”或“消除（不良影响）”，如 heal the rift（弥合裂痕）、heal the economy（复苏经济）。",
+        "examUsage": "真题中常与 cure 辨析：cure 侧重疾病根治，heal 强调伤口愈合或抽象修复。经典搭配：time heals all wounds（时间治愈一切）。"
+      }
+    },
+    {
+      "id": "health",
+      "word": "health",
+      "phonetic": "/helθ/",
+      "meaning": "n.健康,健康状况;卫生",
+      "similar": [
+        "healthy",
+        "wealth",
+        "wealthy",
+        "halt",
+        "heal"
+      ],
+      "question": {
+        "wordId": "health",
+        "stem": "选择 \"health\" 的正确中文意思：",
+        "correct": "n.健康,健康状况;卫生",
+        "options": [
+          "n.财富,财产;大量",
+          "a.健康的,健壮的;有益健康的,卫生的",
+          "a.富有的,丰裕的,充分的 n.富人,有钱人",
+          "n.健康,健康状况;卫生"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为古英语'hāl'（完整、健全），与'whole'同源。核心物理动作是'保持完整、未受损的状态'。后缀-th将形容词变为抽象名词，表示'完整、健全的性质或状态'。",
+        "similarWarning": "形近词辨析：\n- health（健康） vs. wealth（财富）：仅首字母不同，'w'代表'well-being（福祉）'。\n- health vs. heath（荒地）：多一个'l'，'l'代表'life（生命）'。\n- health vs. halt（停止）：'ea' vs. 'al'，前者表'完整'，后者表'停止（打断完整）'。\n- health vs. heal（治愈）：'th'为名词后缀，'heal'是动词，意为'使恢复完整'。",
+        "extendedMeaning": "考研僻义：常引申为'（组织、系统等的）良好运行状态、健全性'，如'economic health（经济健康）'、'the health of a company（公司运营状况）'。",
+        "examUsage": "真题考点：\n- 固定搭配：'in good/poor health'（健康状况良好/不佳），常作为阅读中判断人物状态的关键线索。\n- 高频短语：'health care'（医疗保健）为考研阅读核心主题词。\n- 例句：'The decline in the health of the economy has led to widespread unemployment.'（经济健康的下滑导致了大规模失业。）"
+      }
+    },
+    {
+      "id": "healthy",
+      "word": "healthy",
+      "phonetic": "/'helθi/",
+      "meaning": "a.健康的,健壮的;有益健康的,卫生的",
+      "similar": [
+        "health",
+        "wealthy",
+        "wealth"
+      ],
+      "question": {
+        "wordId": "healthy",
+        "stem": "选择 \"healthy\" 的正确中文意思：",
+        "correct": "a.健康的,健壮的;有益健康的,卫生的",
+        "options": [
+          "a.健康的,健壮的;有益健康的,卫生的",
+          "n.健康,健康状况;卫生",
+          "a.富有的,丰裕的,充分的 n.富人,有钱人",
+          "n.财富,财产;大量"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自health（健康）+ -y（形容词后缀，表‘具有…特性的’），核心动作/画面为‘处于健康状态或有益于维持健康’。“健康”本身是抽象状态，-y使其具象化为‘充满健康特征’的。",
+        "similarWarning": "health（n.健康）与wealthy（a.富有的）形近：healthy中‘h-e-a-l-t-h-y’含‘heal（治愈）’核心；wealthy中‘w-e-a-l-t-h-y’含‘wealth（财富）’核心。healthy侧重身体状态，wealthy侧重财富状态。",
+        "extendedMeaning": "在考研阅读或外刊中，healthy可引申指‘（经济、市场等）运行良好的、稳健的’（如a healthy economy），或‘（数量、规模）相当大的’（如a healthy profit）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "heap",
+      "word": "heap",
+      "phonetic": "/hi:p/",
+      "meaning": "n.(一)堆,大量,许多 v.(up)堆,堆起",
+      "similar": [
+        "heal",
+        "leap",
+        "reap",
+        "ahead",
+        "cheat",
+        "heave",
+        "shear",
+        "sheep"
+      ],
+      "question": {
+        "wordId": "heap",
+        "stem": "选择 \"heap\" 的正确中文意思：",
+        "correct": "n.(一)堆,大量,许多 v.(up)堆,堆起",
+        "options": [
+          "n.(一)堆,大量,许多 v.(up)堆,堆起",
+          "v.跳,跳跃 n.跳跃,飞跃",
+          "v.治愈,愈合",
+          "v.收割,收获"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "heap 源自古英语 'heap'，本义为‘一堆、堆积’。词根可联想为‘堆叠’的动作，核心物理画面是物体无序地累积成堆。引申为‘大量、许多’，动词‘堆起’即‘使成堆’。",
+        "similarWarning": "形近词辨析：cheap（便宜的，c-开头表‘交易’），head（头，-ead表‘顶部’），heal（治愈，-eal表‘健康’），hear（听见，-ear表‘耳朵’），heat（热，-eat表‘温度’），help（帮助，-elp表‘协助’），leap（跳跃，l-表‘腿’），reap（收割，r-表‘重复’）。差异为首字母或中间元音，词义无关联。",
+        "extendedMeaning": "考研僻义：在真题中常作名词，表‘大量、许多’，如 'a heap of' 后接抽象名词（如'trouble'），非字面‘堆’。",
+        "examUsage": "真题考点：常见搭配 'heap up'（堆积，积累），如 'heap up wealth'；或 'in a heap'（成堆地）。干扰项常与 'pile'（整齐堆）混淆，heap强调杂乱堆积。"
+      }
+    },
+    {
+      "id": "hearing",
+      "word": "hearing",
+      "phonetic": "/'hiəriŋ/",
+      "meaning": "n.听,倾听;听力;审讯",
+      "similar": [
+        "bearing",
+        "heading",
+        "learning",
+        "leading",
+        "meaning",
+        "reading",
+        "regarding",
+        "headline"
+      ],
+      "question": {
+        "wordId": "hearing",
+        "stem": "选择 \"hearing\" 的正确中文意思：",
+        "correct": "n.听,倾听;听力;审讯",
+        "options": [
+          "n.知识,学问;学习",
+          "n.标题",
+          "n.轴承；忍受；关系，影响；举止；方向",
+          "n.听,倾听;听力;审讯"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "hear（听）+ -ing（动名词后缀）→ 动作或过程的名词化，核心物理动作为“用耳朵接收声音”。",
+        "similarWarning": "bearing（n.举止；方位；轴承）: 与hearing差一个字母b/h，词源bear（承受）不同；heading（n.标题；方向）: 与hearing差d/g，词源head（头）不同。",
+        "extendedMeaning": "审讯；听证会（考研常考法律/行政语境，如a court hearing庭审；a preliminary hearing预审）。",
+        "examUsage": "真题考点：短语“hard of hearing”听力不佳（作形容词短语）；“give sb a fair hearing”给予某人公平申辩机会（固定搭配，常出现在议论文中）。"
+      }
+    },
+    {
+      "id": "heave",
+      "word": "heave",
+      "phonetic": "/hi:v/",
+      "meaning": "v.(用力)举，提，拉；扔；拖；呕吐n.举起",
+      "similar": [
+        "heaven",
+        "weave",
+        "behave",
+        "eve",
+        "cave",
+        "ease",
+        "hate",
+        "heal"
+      ],
+      "question": {
+        "wordId": "heave",
+        "stem": "选择 \"heave\" 的正确中文意思：",
+        "correct": "v.(用力)举，提，拉；扔；拖；呕吐n.举起",
+        "options": [
+          "v.编(织) n.编织法，编织式样",
+          "v.(用力)举，提，拉；扔；拖；呕吐n.举起",
+          "n.天,天空,天堂;(Heaven)上帝,神",
+          "v.举止,举动,表现;运转,开动"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语hebban（举起），与拉丁语capere（抓取）同源。核心物理动作为“用力向上或向外施力”，引申为“用力举/拉/扔”及“呕吐（胃部肌肉用力上推）”。",
+        "similarWarning": "heaven（天堂）: heave + n → 举到极致之地；heavy（重的）: heav(e) + y → 需要用力举的；leave（离开）: l-替换h- → 动作方向不同；weave（编织）: w-替换h- → 来回动作。",
+        "extendedMeaning": "（经济学人）heave a sigh of relief（长舒一口气）：非物理举起，指情感/呼吸的用力释放。",
+        "examUsage": "（真题考点）heave into sight/view（进入视野/出现）：如“A ship heaved into view.”（一艘船映入眼帘。）常考动态视觉意象，区别于appear的静态。"
+      }
+    },
+    {
+      "id": "heaven",
+      "word": "heaven",
+      "phonetic": "/'hevən/",
+      "meaning": "n.天,天空,天堂;(Heaven)上帝,神",
+      "similar": [
+        "heave",
+        "seven",
+        "weave",
+        "threaten"
+      ],
+      "question": {
+        "wordId": "heaven",
+        "stem": "选择 \"heaven\" 的正确中文意思：",
+        "correct": "n.天,天空,天堂;(Heaven)上帝,神",
+        "options": [
+          "v.编(织) n.编织法，编织式样",
+          "n.天,天空,天堂;(Heaven)上帝,神",
+          "v.(用力)举，提，拉；扔；拖；呕吐n.举起",
+          "num.七，七个(人或物)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语heofon，原始日耳曼语*hibin-，本义为‘天空覆盖之处’。词根与‘穹顶’（如拉丁语caelum）相关，核心动作是‘覆盖、笼罩’，引申为‘天界、神之居所’。",
+        "similarWarning": "heave（v.举起，起伏）与heaven差一个n，词源无关；heavy（a.重的）与heaven差y，拼写仅差一个字母，但语义无涉。",
+        "extendedMeaning": "考研中常引申为‘极乐、至福’（如heavenly bliss），或作比喻义‘理想状态’（如a heaven on earth）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hedge",
+      "word": "hedge",
+      "phonetic": "/hedʒ/",
+      "meaning": "n.篱笆,树篱,障碍物 v.用树篱围住",
+      "similar": [
+        "edge",
+        "wedge",
+        "pledge",
+        "badge",
+        "heave",
+        "hence",
+        "hinge",
+        "judge"
+      ],
+      "question": {
+        "wordId": "hedge",
+        "stem": "选择 \"hedge\" 的正确中文意思：",
+        "correct": "n.篱笆,树篱,障碍物 v.用树篱围住",
+        "options": [
+          "n.誓约;保证 v.发誓;保证",
+          "n.楔,楔形 vt.楔牢,楔入,挤进",
+          "n.边,棱;刀口,刃 v.侧身移动,挤进",
+          "n.篱笆,树篱,障碍物 v.用树篱围住"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *hagja，核心物理动作为“用树枝或灌木围成屏障”。词根演变：hag-（围栏）→ hedge（树篱）。引申为“设置障碍”或“规避风险”，如金融中“对冲”即通过反向操作设置风险屏障。",
+        "similarWarning": "edge（边缘）：hedge多一个h，强调围栏的边界功能；wedge（楔子）：hedge用h替换w，突出植物围成的屏障；pledge（誓言）：hedge用h替换p，从承诺转向物理障碍。",
+        "extendedMeaning": "考研僻义：v.对冲（规避风险），尤指金融或投资中通过反向操作降低损失；n.保护手段（如hedge against inflation 抵御通胀）。",
+        "examUsage": "真题考点：hedge one's bets（两面下注，规避风险）——常作为阅读理解中策略类文章的题眼；hedge fund（对冲基金）——经济类阅读高频词组。"
+      }
+    },
+    {
+      "id": "heel",
+      "word": "heel",
+      "phonetic": "/hi:l/",
+      "meaning": "n.脚后跟,踵,鞋跟",
+      "similar": [
+        "wheel",
+        "heal",
+        "hell",
+        "peel",
+        "reel",
+        "cheek",
+        "cheer",
+        "hello"
+      ],
+      "question": {
+        "wordId": "heel",
+        "stem": "选择 \"heel\" 的正确中文意思：",
+        "correct": "n.脚后跟,踵,鞋跟",
+        "options": [
+          "n.地狱,阴间;苦境,极大痛苦",
+          "v.治愈,愈合",
+          "n.轮,车轮",
+          "n.脚后跟,踵,鞋跟"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语 hela，指脚后跟，核心物理动作为脚部支撑点或鞋后部，引申为物体的后端或底部。",
+        "similarWarning": "heel与heal（治疗）仅差一个字母e/a，但词根不同；heel与hell（地狱）字母相同但顺序不同，需注意拼写差异。",
+        "extendedMeaning": "在考研中，heel可引申为物体的后部或底部，如the heel of a loaf（面包头），或指卑鄙的人（口语）。",
+        "examUsage": "常见搭配：at/on one's heels（紧跟某人），bring to heel（使服从），take to one's heels（逃跑）。注意真题中可能作为干扰项出现。"
+      }
+    },
+    {
+      "id": "height",
+      "word": "height",
+      "phonetic": "/hait/",
+      "meaning": "n.高,高度;(常pl.)高地,高处",
+      "similar": [
+        "eight",
+        "heighten",
+        "delight",
+        "freight",
+        "tight",
+        "weigh",
+        "eighty",
+        "flight"
+      ],
+      "question": {
+        "wordId": "height",
+        "stem": "选择 \"height\" 的正确中文意思：",
+        "correct": "n.高,高度;(常pl.)高地,高处",
+        "options": [
+          "n.快乐,高兴 v.(使)高兴,(使)欣喜",
+          "num.八 pron.八(个，只...)",
+          "n.高,高度;(常pl.)高地,高处",
+          "v.提高,升高"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自古英语hēahþu，由词根high（高）加名词后缀-th（表状态/度量）构成，核心物理动作是“测量从底部到顶部的垂直距离”。",
+        "similarWarning": "height vs. eight（八）：height以h开头，eight以e开头；height含“高”义，eight是数字。height vs. heighten（提高）：height是名词，heighten是动词。height vs. delight（快乐）：拼写差异在于deli- vs. hei-。",
+        "extendedMeaning": "（常pl.）高地、高处：如mountain heights（山巅）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "heighten",
+      "word": "heighten",
+      "phonetic": "/'haitən/",
+      "meaning": "v.提高,升高",
+      "similar": [
+        "height",
+        "eighteen",
+        "frighten",
+        "enlighten",
+        "eighty"
+      ],
+      "question": {
+        "wordId": "heighten",
+        "stem": "选择 \"heighten\" 的正确中文意思：",
+        "correct": "v.提高,升高",
+        "options": [
+          "v.提高,升高",
+          "num.十八，十八个",
+          "v.使惊恐",
+          "n.高,高度;(常pl.)高地,高处"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为height（高度），-en为动词后缀，意为‘使…’。核心物理动作为‘使某物在垂直维度上增加’，引申为抽象层面的提升，如强度、程度等。",
+        "similarWarning": "heighten vs. enlighten（启发）：heighten源自height（高度），强调‘升高’；enlighten源自light（光），意为‘照亮、启发’。注意e-前缀与height的拼写差异。",
+        "extendedMeaning": "考研中常考‘加剧、增强’的抽象义，如heighten tension（加剧紧张）、heighten awareness（提高意识），非字面高度。",
+        "examUsage": "真题中常作为同义替换词出现，如intensify、enhance。例句：The crisis heightened the sense of urgency.（危机加剧了紧迫感。）注意与raise、elevate的辨析，heighten侧重程度而非位置。"
+      }
+    },
+    {
+      "id": "heir",
+      "word": "heir",
+      "phonetic": "/εə/",
+      "meaning": "n.继承人",
+      "similar": [
+        "theirs",
+        "chair",
+        "cheer",
+        "shear",
+        "sheer",
+        "weird"
+      ],
+      "question": {
+        "wordId": "heir",
+        "stem": "选择 \"heir\" 的正确中文意思：",
+        "correct": "n.继承人",
+        "options": [
+          "v.(使)振奋,(使)高兴 v./n.喝彩,欢呼",
+          "n.椅子；(会议的)主席 vt.当…的主席，主持",
+          "pron.[they的物主代词]他(她、它)们的",
+          "n.继承人"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语heres（继承人）。heir直接指继承财产或头衔的人，核心动作是“接手、承袭”。",
+        "similarWarning": "heir vs. hair: heir（继承人）含ie，hair（头发）含ai。heir vs. hear: heir（继承人）结尾ir，hear（听）结尾ear，发音不同。",
+        "extendedMeaning": "考研中常考“继承人”的抽象引申，如“继承某种传统、风格或特质的人”。",
+        "examUsage": "常见搭配：heir to the throne（王位继承人）。真题例句：He is the heir to a family tradition of philanthropy.（他是家族慈善传统的继承人。）"
+      }
+    },
+    {
+      "id": "helicopter",
+      "word": "helicopter",
+      "phonetic": "/'helikɔptə/",
+      "meaning": "n.直升(飞)机",
+      "similar": [
+        "delicate"
+      ],
+      "question": {
+        "wordId": "helicopter",
+        "stem": "选择 \"helicopter\" 的正确中文意思：",
+        "correct": "n.直升(飞)机",
+        "options": [
+          "n.直升(飞)机",
+          "a.纤弱的;精致的;微妙的;灵敏的",
+          "n.奖学金;学问,学识",
+          "n.叛徒,卖国贼"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根词缀逻辑：helico-（螺旋）+ pter（翅膀），源自希腊语helix（螺旋）和pteron（翅膀），直指“螺旋翅膀”，即直升机旋翼的核心物理动作。",
+        "similarWarning": "delicate（deli-细嫩）与helicopter（heli-螺旋）无直接形近混淆，但需注意helicopter中pter与ptero-（翅膀）词根关联，避免与heli-（太阳）混淆。",
+        "extendedMeaning": "考研僻义：无特殊僻义，常考其名词本义及与交通工具相关场景。",
+        "examUsage": "真题考点：常作为阅读背景词出现，如helicopter crash（直升机坠毁）或helicopter parent（直升机父母，比喻过度保护子女的父母），需注意后者的比喻用法在真题中可能作为文化背景考察。"
+      }
+    },
+    {
+      "id": "hell",
+      "word": "hell",
+      "phonetic": "/hel/",
+      "meaning": "n.地狱,阴间;苦境,极大痛苦",
+      "similar": [
+        "hello",
+        "shell",
+        "cell",
+        "fell",
+        "heal",
+        "heel",
+        "yell",
+        "belly"
+      ],
+      "question": {
+        "wordId": "hell",
+        "stem": "选择 \"hell\" 的正确中文意思：",
+        "correct": "n.地狱,阴间;苦境,极大痛苦",
+        "options": [
+          "n.细胞;小房间;蜂房;电池",
+          "n.壳,贝壳;炮弹",
+          "int.英(美)喂,你好(用来打招呼或引起注意)",
+          "n.地狱,阴间;苦境,极大痛苦"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"hell 源自古英语 hel，原始日耳曼语 *haljō，意为\"隐藏的地方\"或\"地下世界\"，与古诺尔斯语 Hel（死亡女神）同源。核心动作是\"遮蔽、隐藏\"，指死者灵魂被掩藏于地下的处所。\",\n  \"similarWarning\": \"易混词：1. hello（问候语）——hell 少一个 o；2. heal（治愈）——hell 中 e 后接 ll，heal 中 ea 为双元音；3. heel（脚后跟）——hell 中 e 后接 ll，heel 中 ee 为双元音。\",\n  \"extendedMeaning\": \"考研僻义：n. 苦境，极痛苦的经历（如：\\\"T",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hello",
+      "word": "hello",
+      "phonetic": "/he'ləu/",
+      "meaning": "int.英(美)喂,你好(用来打招呼或引起注意)",
+      "similar": [
+        "hell",
+        "fellow",
+        "hollow",
+        "yellow",
+        "cell",
+        "fell",
+        "heal",
+        "heel"
+      ],
+      "question": {
+        "wordId": "hello",
+        "stem": "选择 \"hello\" 的正确中文意思：",
+        "correct": "int.英(美)喂,你好(用来打招呼或引起注意)",
+        "options": [
+          "n.人,家伙;伙伴,同事 a.同样的,同事的",
+          "int.英(美)喂,你好(用来打招呼或引起注意)",
+          "a.空的,中空的;空洞的,空虚的 v.挖空,凿空",
+          "n.地狱,阴间;苦境,极大痛苦"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "该词为拟声词，模仿打招呼时发出的声音，与古高地德语'halâ'（呼唤、招呼）同源，核心动作是引起注意或表达问候。",
+        "similarWarning": "hell（地狱，与hello差一个字母o，词义完全无关）；fellow（伙伴，与hello差f和w，词源不同）；hollow（空的，与hello差w，发音相似但词义无关）；yellow（黄色，首字母y不同）；bell（钟，首字母b不同）；cell（细胞，首字母c不同）；fell（倒下，过去式，首字母f不同）；hall（大厅，少一个e和o，拼写相似但词义不同）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "helmet",
+      "word": "helmet",
+      "phonetic": "/'helmit/",
+      "meaning": "n.头盔,钢盔",
+      "similar": [
+        "velvet"
+      ],
+      "question": {
+        "wordId": "helmet",
+        "stem": "选择 \"helmet\" 的正确中文意思：",
+        "correct": "n.头盔,钢盔",
+        "options": [
+          "a.幻想中的;虚构的;优雅的 n.仙女;精灵",
+          "n.(高等)专科院校；学术社团,协会，研究院",
+          "n.丝绒,天鹅绒 a.丝绒制的,柔软的",
+          "n.头盔,钢盔"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自中古英语 helmet，与古高地德语 helm（保护、遮盖）同源。核心物理动作是“覆盖头部进行保护”，词根 helm- 表示“遮盖、保护”。",
+        "similarWarning": "velvet（天鹅绒）：velvet 词根 vel- 表示“绒毛”，与 helmet 的“遮盖”逻辑无关。拼写差异：vel- vs. hel-，注意首字母和尾字母不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "helpful",
+      "word": "helpful",
+      "phonetic": "/'helpful/",
+      "meaning": "a.(to)有帮助的,有益的,有用的",
+      "similar": [],
+      "question": {
+        "wordId": "helpful",
+        "stem": "选择 \"helpful\" 的正确中文意思：",
+        "correct": "a.(to)有帮助的,有益的,有用的",
+        "options": [
+          "a.(to)有帮助的,有益的,有用的",
+          "a.每星期的,一周的ad.每周一次 n.周刊,周报",
+          "n.习惯,习性,脾性",
+          "v.油煎,油炸"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "help（帮助）+ ful（充满...的）→ 充满帮助的 → 有帮助的。词源清晰，后缀-ful表示‘充满某特性’，直接记忆为‘能提供帮助的’。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hemisphere",
+      "word": "hemisphere",
+      "phonetic": "/'hemiˌsfiə/",
+      "meaning": "n.半球",
+      "similar": [
+        "atmosphere"
+      ],
+      "question": {
+        "wordId": "hemisphere",
+        "stem": "选择 \"hemisphere\" 的正确中文意思：",
+        "correct": "n.半球",
+        "options": [
+          "a.紧密的,结实的;简明的 v.使紧凑,压缩",
+          "n.大气(层)；空气；气氛，环境；大气压",
+          "n.半球",
+          "n.肘，(衣服的)肘部vt.用肘推，用肘挤"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "hemi- (半) + sphere (球体) → 半球。词根直接对应，核心物理动作是‘将球体分为两半’，引申为地球的半球或大脑半球。",
+        "similarWarning": "atmosphere (atmo- 蒸汽 + sphere 球体) → 大气层；hemisphere 强调‘一半’，atmosphere 强调‘包围球的气体层’，差异在于前缀 hemi- 与 atmo-。",
+        "extendedMeaning": "大脑半球 (cerebral hemisphere)，在医学或认知科学语境中常见，考研阅读中可能涉及左右脑功能分工。",
+        "examUsage": "the Northern/Southern Hemisphere (北/南半球)，真题中常作为地理或气候类文章的背景词，无特殊干扰项，故省略考点直击。"
+      }
+    },
+    {
+      "id": "hen",
+      "word": "hen",
+      "phonetic": "/hen/",
+      "meaning": "n.母鸡",
+      "similar": [
+        "ten",
+        "hence"
+      ],
+      "question": {
+        "wordId": "hen",
+        "stem": "选择 \"hen\" 的正确中文意思：",
+        "correct": "n.母鸡",
+        "options": [
+          "ad.从此,今后;因此",
+          "n.母鸡",
+          "a.(of)有罪的,内疚的",
+          "num.十 pron./a.十(个，只...)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模拟母鸡叫声“咯咯”，直接指代母鸡。",
+        "similarWarning": "then（然后）含t，hen无t；when（何时）含w，hen无w；pen（钢笔）首字母p变h；ten（十）首字母t变h。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hence",
+      "word": "hence",
+      "phonetic": "/hens/",
+      "meaning": "ad.从此,今后;因此",
+      "similar": [
+        "fence",
+        "menace",
+        "hen",
+        "gene",
+        "bench",
+        "dense",
+        "heave",
+        "hedge"
+      ],
+      "question": {
+        "wordId": "hence",
+        "stem": "选择 \"hence\" 的正确中文意思：",
+        "correct": "ad.从此,今后;因此",
+        "options": [
+          "ad.从此,今后;因此",
+          "n.篱笆;围栏;剑术 v.用篱笆瓦围住;击剑",
+          "n.母鸡",
+          "vt./n.有危险性的人(或物)；威胁，威吓"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "hence 源自古英语 heonan，意为‘从这里’，核心物理动作是‘从此处离开或出发’。引申出‘从此以后’（时间上的离开）和‘因此’（逻辑上的由此及彼）。",
+        "similarWarning": "fence（n.栅栏，v.击剑）与 hence 仅首字母不同；chance（n.机会）多一个字母 c 且词义无关；menace（n.威胁）词根不同。",
+        "extendedMeaning": "在考研中，hence 常作为逻辑连接词，表示‘因此’，但注意其与 therefore、thus 的细微区别：hence 更强调‘由此推断出的结果’，常用于正式书面语或学术语境。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "henceforth",
+      "word": "henceforth",
+      "phonetic": "/'hens'fɔ:θ/",
+      "meaning": "ad.今后",
+      "similar": [],
+      "question": {
+        "wordId": "henceforth",
+        "stem": "选择 \"henceforth\" 的正确中文意思：",
+        "correct": "ad.今后",
+        "options": [
+          "ad.今后",
+          "v.祝愿;命令,吩咐;报价,投标 n.出众,投标",
+          "v.离开,退出;停止,放弃,辞职",
+          "a.易变的;可变的;变量的 n.变量"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "hence 意为“从此”，forth 意为“向前”，组合成 henceforth 字面义为“从此向前”，引申为“今后”。",
+        "similarWarning": "",
+        "extendedMeaning": "在正式文体或法律文本中，常表示“自今以后”，强调从某一时间点开始持续生效。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "herb",
+      "word": "herb",
+      "phonetic": "/hə:b/",
+      "meaning": "n.药草，(调味用的)香草，草本植物",
+      "similar": [
+        "herd",
+        "hero",
+        "hers",
+        "verb"
+      ],
+      "question": {
+        "wordId": "herb",
+        "stem": "选择 \"herb\" 的正确中文意思：",
+        "correct": "n.药草，(调味用的)香草，草本植物",
+        "options": [
+          "n.英雄，勇士；男主角，男主人公",
+          "n.药草，(调味用的)香草，草本植物",
+          "pron.[she的物主代词]她的(所有物)",
+          "n.群,兽群,牛群 v.放牧,群集"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "herb源自拉丁语herba，意为“草、草本植物”，核心物理动作是“生长、绿色”，直接指向药草、香草等草本植物。",
+        "similarWarning": "her（她的）vs herb（多一个b，指草）；herd（兽群）vs herb（b代替d，指植物）；here（这里）vs herb（多b，指地点）；hero（英雄）vs herb（o变b，指人）；hers（她的）vs herb（多b，指物）；verb（动词）vs herb（v变h，指词性）；heart（心脏）vs herb（a变e，指器官）；there（那里）vs herb（t变h，指地点）。",
+        "extendedMeaning": "在考研中，herb常引申为“草药”或“香草”，用于医学或烹饪语境，如herbal medicine（草药医学）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "herd",
+      "word": "herd",
+      "phonetic": "/hə:d/",
+      "meaning": "n.群,兽群,牛群 v.放牧,群集",
+      "similar": [
+        "herb",
+        "hero",
+        "hers",
+        "ahead",
+        "beard",
+        "third",
+        "weird"
+      ],
+      "question": {
+        "wordId": "herd",
+        "stem": "选择 \"herd\" 的正确中文意思：",
+        "correct": "n.群,兽群,牛群 v.放牧,群集",
+        "options": [
+          "n.药草，(调味用的)香草，草本植物",
+          "n.群,兽群,牛群 v.放牧,群集",
+          "pron.[she的物主代词]她的(所有物)",
+          "n.英雄，勇士；男主角，男主人公"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "herd 源自古英语 heord，本义为“一群家畜”，核心动作是“聚集、驱赶”。词根与“her”（她/她的）无关，而是与“gather”（聚集）同源。",
+        "similarWarning": "herd vs. hard：hard 多一个字母 a，意为“硬的、困难的”；herd 意为“牧群”。herd vs. head：head 含字母 a，意为“头、领导”；herd 指“兽群”。herd vs. herb：herb 含字母 b，意为“草本植物”；herd 指“群”。",
+        "extendedMeaning": "考研中常引申指“人群（尤指乌合之众）”，如“the common herd”（普通民众/芸芸众生），带有贬义或群体无意识色彩。",
+        "examUsage": "真题考点：动词短语“herd together”（聚集/挤在一起）常出现在阅读理解中描述人群或动物的聚集状态。例：\"The tourists were herded together like cattle.\"（游客像牛群一样被赶在一起。）"
+      }
+    },
+    {
+      "id": "heritage",
+      "word": "heritage",
+      "phonetic": "/'heritidʒ/",
+      "meaning": "n.遗产,继承物;传统",
+      "similar": [
+        "hesitate",
+        "hostage",
+        "irritate",
+        "meditate",
+        "shortage",
+        "percentage"
+      ],
+      "question": {
+        "wordId": "heritage",
+        "stem": "选择 \"heritage\" 的正确中文意思：",
+        "correct": "n.遗产,继承物;传统",
+        "options": [
+          "v.犹豫,踌躇;含糊,支吾",
+          "n.人质",
+          "n.遗产,继承物;传统",
+          "vt.激怒,恼火,使急躁"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根 herit- 源自拉丁语 heres（继承人），后缀 -age 表“集合/状态”。核心动作：继承而来的东西，即遗产或传统。",
+        "similarWarning": "hesitate（犹豫）：herit- 与 hesit- 拼写差异（e vs i，t vs a），词义无关；hostage（人质）：host- 与 herit- 差异（o vs e，a vs i），词源不同；irritate（激怒）：irrit- 与 herit- 差异（i vs e，r vs t），无关联。",
+        "extendedMeaning": "在考研阅读中常引申为“文化遗产、精神传承”，如 cultural heritage（文化遗产），强调非物质层面的继承。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hero",
+      "word": "hero",
+      "phonetic": "/'hiərəu/",
+      "meaning": "n.英雄，勇士；男主角，男主人公",
+      "similar": [
+        "herb",
+        "herd",
+        "hers",
+        "zero",
+        "heroic",
+        "heroin",
+        "hello",
+        "negro"
+      ],
+      "question": {
+        "wordId": "hero",
+        "stem": "选择 \"hero\" 的正确中文意思：",
+        "correct": "n.英雄，勇士；男主角，男主人公",
+        "options": [
+          "pron.[she的物主代词]她的(所有物)",
+          "n.群,兽群,牛群 v.放牧,群集",
+          "n.药草，(调味用的)香草，草本植物",
+          "n.英雄，勇士；男主角，男主人公"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 hērōs（英雄、半神），原指神话中半神半人的勇士，后引申为具有超凡勇气或能力的人物。词根无复杂演变，核心意象为“超越常人的力量或地位”。",
+        "similarWarning": "hero（英雄） vs. her（她的） vs. herb（草本植物） vs. herd（兽群） vs. here（这里） vs. hers（她的东西） vs. zero（零） vs. heroic（英雄的） vs. heroin（海洛因）。注意：hero 与 heroin 仅差一个字母 i，但 heroin 是毒品，与英雄无关；heroic 是形容词。",
+        "extendedMeaning": "在考研阅读中，hero 可引申为“核心人物、主角”，不限于道德高尚的勇士，如“the hero of the story”（故事的主角）或“a cult hero”（偶像级人物）。",
+        "examUsage": "常见搭配：folk hero（民间英雄）、action hero（动作片主角）。真题中可能作为干扰项，与 protagonist（主角）同义替换，注意区分 hero 的“勇士”义与“主角”义。"
+      }
+    },
+    {
+      "id": "heroic",
+      "word": "heroic",
+      "phonetic": "/hi'rəuik/",
+      "meaning": "a.英雄的，英勇的，崇高的",
+      "similar": [
+        "heroin",
+        "heroine",
+        "hero"
+      ],
+      "question": {
+        "wordId": "heroic",
+        "stem": "选择 \"heroic\" 的正确中文意思：",
+        "correct": "a.英雄的，英勇的，崇高的",
+        "options": [
+          "a.英雄的，英勇的，崇高的",
+          "n.海洛因",
+          "n.英雄，勇士；男主角，男主人公",
+          "n.女英雄;女主角"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语‘heros’（英雄），后缀‘-ic’表‘具有…性质的’。核心动作/画面：英雄所具备的品质，即勇敢、崇高、超越常人的行为。",
+        "similarWarning": "heroin（海洛因，毒品名，拼写少一个‘e’）；heroine（女英雄，女主角，拼写多‘e’且以‘ine’结尾）。注意区分：‘heroic’是形容词，强调英勇；‘heroin’是名词，指毒品；‘heroine’是名词，指女性英雄。",
+        "extendedMeaning": "在考研阅读中可引申为‘宏伟的、壮烈的’，如‘heroic efforts’（壮烈的努力），或‘heroic scale’（宏大的规模），不局限于个人英勇。",
+        "examUsage": "真题常考搭配‘heroic deeds’（英雄事迹）或‘heroic struggle’（英勇斗争），作为正面评价词出现，干扰项可能用‘heroin’或‘heroine’混淆拼写。"
+      }
+    },
+    {
+      "id": "heroin",
+      "word": "heroin",
+      "phonetic": "/'herəuin/",
+      "meaning": "n.海洛因",
+      "similar": [
+        "heroine",
+        "heroic",
+        "hero"
+      ],
+      "question": {
+        "wordId": "heroin",
+        "stem": "选择 \"heroin\" 的正确中文意思：",
+        "correct": "n.海洛因",
+        "options": [
+          "n.海洛因",
+          "n.英雄，勇士；男主角，男主人公",
+          "n.女英雄;女主角",
+          "a.英雄的，英勇的，崇高的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自德语Heroin，由hero（英雄）+ -in（化学物质后缀）构成。最初作为商标名，因其使用后产生“英雄般”的强力快感而得名，本质是一种强效镇痛麻醉毒品。",
+        "similarWarning": "heroin vs heroine：heroin（海洛因）结尾为-in，与化学物质后缀一致；heroine（女英雄）结尾为-ine，源自hero+ -ine（女性后缀）。拼写仅差一个字母'e'，但词义完全无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "heroine",
+      "word": "heroine",
+      "phonetic": "/'herəuɪn/",
+      "meaning": "n.女英雄;女主角",
+      "similar": [
+        "heroin",
+        "heroic",
+        "headline"
+      ],
+      "question": {
+        "wordId": "heroine",
+        "stem": "选择 \"heroine\" 的正确中文意思：",
+        "correct": "n.女英雄;女主角",
+        "options": [
+          "n.女英雄;女主角",
+          "n.海洛因",
+          "a.英雄的，英勇的，崇高的",
+          "n.大字标题,新闻标题"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自希腊语 heros '英雄' + -ine 阴性后缀。字面直译就是'女英雄'，与 hero 形成阴阳性对应。核心物理动作/画面：一个在关键时刻挺身而出、具有杰出品质的女性形象。",
+        "similarWarning": "heroin (n.海洛因) vs heroine (n.女英雄/女主角)：仅差一个字母 'e'。heroin 无字母 e，是毒品；heroine 有字母 e，是女性英雄。拼写差异在词尾 -in vs -ine。",
+        "extendedMeaning": "在文学或影视语境中常指'女主角'，如 the heroine of the novel（小说女主角）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hers",
+      "word": "hers",
+      "phonetic": "/hə:z/",
+      "meaning": "pron.[she的物主代词]她的(所有物)",
+      "similar": [
+        "herb",
+        "herd",
+        "hero",
+        "theirs",
+        "chess",
+        "harsh",
+        "verse"
+      ],
+      "question": {
+        "wordId": "hers",
+        "stem": "选择 \"hers\" 的正确中文意思：",
+        "correct": "pron.[she的物主代词]她的(所有物)",
+        "options": [
+          "pron.[she的物主代词]她的(所有物)",
+          "n.药草，(调味用的)香草，草本植物",
+          "n.英雄，勇士；男主角，男主人公",
+          "n.群,兽群,牛群 v.放牧,群集"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "her（她的）+ s（物主代词后缀，表示所有物），构成名词性物主代词，意为“她的（东西）”。",
+        "similarWarning": "her（她的，形容词性物主代词） vs hers（她的，名词性物主代词）——后者独立使用，不跟名词；herb（草药） vs herd（兽群） vs here（这里）——拼写差异在末尾字母b/d/e。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "herself",
+      "word": "herself",
+      "phonetic": "/hə:'self/",
+      "meaning": "pron.[反身代词]她自己；她亲自，她本人",
+      "similar": [
+        "himself",
+        "yourself"
+      ],
+      "question": {
+        "wordId": "herself",
+        "stem": "选择 \"herself\" 的正确中文意思：",
+        "correct": "pron.[反身代词]她自己；她亲自，她本人",
+        "options": [
+          "n.外国人",
+          "pron.[反身代词]你自己；你亲自",
+          "pron.[反身代词]他自己；他本人",
+          "pron.[反身代词]她自己；她亲自，她本人"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "her（她）+ self（自己）→ 她自己。反身代词，强调动作返回自身或加强语气。",
+        "similarWarning": "himself（他自己），yourself（你自己）——仅主语性别不同，拼写差异在首字母（her/him/your），核心结构一致。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "hesitate",
+      "word": "hesitate",
+      "phonetic": "/'heziteit/",
+      "meaning": "v.犹豫,踌躇;含糊,支吾",
+      "similar": [
+        "estate",
+        "heritage",
+        "meditate",
+        "designate",
+        "agitate",
+        "deviate",
+        "habitat",
+        "hostage"
+      ],
+      "question": {
+        "wordId": "hesitate",
+        "stem": "选择 \"hesitate\" 的正确中文意思：",
+        "correct": "v.犹豫,踌躇;含糊,支吾",
+        "options": [
+          "v.想,考虑,(尤指宗教上的)沉思,冥想",
+          "n.房地产;不动产;所有权;地位;生活状况",
+          "n.遗产,继承物;传统",
+          "v.犹豫,踌躇;含糊,支吾"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根hes-（黏着）+ it（走）+ ate（动词后缀）→ 脚像被黏住一样走不动 → 犹豫、踌躇。核心动作：黏滞不前，无法决断。",
+        "similarWarning": "hesitate vs. meditate（沉思）：前者含 hes-（黏），强调行动迟疑；后者含 med-（思考），强调深度思考。hesitate vs. agitate（煽动）：前者表犹豫；后者含 ag-（驱动），表激烈搅动。",
+        "extendedMeaning": "考研中常考“含糊、支吾”的引申义，如“hesitate in speech”指说话吞吞吐吐，不直接表态。",
+        "examUsage": "真题考点：hesitate to do sth.（犹豫做某事），常与否定连用表“毫不犹豫”，如“don't hesitate to contact us”。注意干扰项：与“hesitation”的名词搭配“without hesitation”（毫不犹豫）是高频题眼。"
+      }
+    },
+    {
+      "id": "hierarchy",
+      "word": "hierarchy",
+      "phonetic": "/'haiəˌrɑ:ki/",
+      "meaning": "n.等级制度；统治集团，领导层",
+      "similar": [],
+      "question": {
+        "wordId": "hierarchy",
+        "stem": "选择 \"hierarchy\" 的正确中文意思：",
+        "correct": "n.等级制度；统治集团，领导层",
+        "options": [
+          "n.等级制度；统治集团，领导层",
+          "n.面积；地区，地域；领域，范围",
+          "a.审慎正直的，认真的，本着良心的",
+          "n.皱纹 v.起皱,皱眉"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 hieros（神圣的）+ archia（统治），字面意为‘神圣的统治秩序’。最初指天使的等级，后引申为任何按权力、地位或重要性划分的层级系统。核心物理动作是‘分层排列’，强调自上而下的权力或地位顺序。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研英语中常引申为‘任何按重要性或复杂性排列的序列’，如‘a hierarchy of needs’（需求层次），或指‘统治集团’（the ruling hierarchy），强调权力集中与结构化的管理阶层。",
+        "examUsage": "常见搭配‘social hierarchy’（社会等级）和‘corporate hierarchy’（公司等级）。真题中常作为主题词出现在社会学或管理学类文章中，如‘the rigid hierarchy of the organization’（组织僵化的等级制度），需注意其与‘bureaucracy’（官僚制度）的区分：hierarchy侧重层级结构，bureaucracy侧重规则与程序。"
+      }
+    },
+    {
+      "id": "highland",
+      "word": "highland",
+      "phonetic": "/'hailənd/",
+      "meaning": "n. 高地,高原",
+      "similar": [
+        "highly",
+        "inland",
+        "highway"
+      ],
+      "question": {
+        "wordId": "highland",
+        "stem": "选择 \"highland\" 的正确中文意思：",
+        "correct": "n. 高地,高原",
+        "options": [
+          "n.公路,大路",
+          "n. 高地,高原",
+          "ad.高度地,很,非常;赞许地",
+          "a./ad.国内,内地,内陆"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "high（高的）+ land（陆地）→ 高处的陆地 → 高地、高原。直接组合词，无复杂词源演变。",
+        "similarWarning": "highly（adv. 高度地；非常）vs highland（n. 高地）：-ly为副词后缀，-land为名词后缀。inland（n./adj. 内陆）vs highland：前缀in-（内部）vs high-（高）。island（n. 岛屿）vs highland：is-（古法语“岛”）+ land，拼写仅差首字母。highway（n. 公路）vs highland：way（路）vs land（地）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "highlight",
+      "word": "highlight",
+      "phonetic": "/'hailait/",
+      "meaning": "v.使显著,使突出;强调 n.最精彩的部分",
+      "similar": [],
+      "question": {
+        "wordId": "highlight",
+        "stem": "选择 \"highlight\" 的正确中文意思：",
+        "correct": "v.使显著,使突出;强调 n.最精彩的部分",
+        "options": [
+          "v.使显著,使突出;强调 n.最精彩的部分",
+          "n.收入,收益,所得",
+          "n.下巴,颏",
+          "n.废物，旧货；舢板"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "high（高）+ light（光），原义为“用高光照亮”，引申为“使突出、强调”。",
+        "similarWarning": "",
+        "extendedMeaning": "在阅读中常作名词，指“（事件、作品等的）最精彩部分、亮点”，如the highlight of the show（演出的亮点）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "highly",
+      "word": "highly",
+      "phonetic": "/'haili/",
+      "meaning": "ad.高度地,很,非常;赞许地",
+      "similar": [
+        "highway",
+        "eighty",
+        "highland"
+      ],
+      "question": {
+        "wordId": "highly",
+        "stem": "选择 \"highly\" 的正确中文意思：",
+        "correct": "ad.高度地,很,非常;赞许地",
+        "options": [
+          "n. 高地,高原",
+          "ad.高度地,很,非常;赞许地",
+          "n.公路,大路",
+          "num./a.八十 pron.八十(个，只...)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自‘high’（高的）加副词后缀‘-ly’，本义为‘以高的方式’，引申为‘高度地、非常’和‘赞许地’（评价高）。",
+        "similarWarning": "highly vs. highway（高速公路，名词）；high（高的，形容词）；eighty（八十，数字）；highland（高地，名词）。",
+        "extendedMeaning": "在考研阅读中常表示‘高度地’修饰抽象程度（如highly likely），或‘赞许地’修饰评价（如speak highly of）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "highway",
+      "word": "highway",
+      "phonetic": "/'haiwei/",
+      "meaning": "n.公路,大路",
+      "similar": [
+        "highly",
+        "highland"
+      ],
+      "question": {
+        "wordId": "highway",
+        "stem": "选择 \"highway\" 的正确中文意思：",
+        "correct": "n.公路,大路",
+        "options": [
+          "n.公路,大路",
+          "n.素描;略图,草图;梗概 v.绘略图,速写,写生",
+          "ad.高度地,很,非常;赞许地",
+          "n. 高地,高原"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "high（高）+ way（路）→ 高于普通道路的公路，指主要干道或高速公路。",
+        "similarWarning": "highly（adv.高度地）与highway拼写差异在末尾-ly vs way；highland（n.高地）差异在land vs way。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hijack",
+      "word": "hijack",
+      "phonetic": "/'haidʒæk/",
+      "meaning": "v.劫持，劫机，拦路抢劫",
+      "similar": [],
+      "question": {
+        "wordId": "hijack",
+        "stem": "选择 \"hijack\" 的正确中文意思：",
+        "correct": "v.劫持，劫机，拦路抢劫",
+        "options": [
+          "a.精力旺盛的;积极的;有力的",
+          "n.红宝石",
+          "n.同情；怜悯(for)",
+          "v.劫持，劫机，拦路抢劫"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自美国禁酒令时期，劫匪拦车时喊‘Hi, Jack!’（嗨，杰克！）作为招呼语，后演变为‘hijack’指拦路抢劫或劫持交通工具。核心动作是‘拦截并控制’，强调通过暴力或威胁夺取控制权。",
+        "similarWarning": "",
+        "extendedMeaning": "考研僻义：引申为‘强行控制、操纵（会议、进程等）’，如‘hijack the agenda’（操纵议程），或‘hijack the conversation’（强行主导对话）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "hike",
+      "word": "hike",
+      "phonetic": "/haik/",
+      "meaning": "n.徒步旅行；增加vi.徒步旅行vt.提高",
+      "similar": [
+        "hire",
+        "like",
+        "alike",
+        "choke",
+        "hinge",
+        "shake",
+        "shine"
+      ],
+      "question": {
+        "wordId": "hike",
+        "stem": "选择 \"hike\" 的正确中文意思：",
+        "correct": "n.徒步旅行；增加vi.徒步旅行vt.提高",
+        "options": [
+          "v.喜欢 prep.象；比如 a.相象的 n.象…一样",
+          "a.同样的，相像的ad.一样地；同程度地",
+          "n./v.雇用,租借",
+          "n.徒步旅行；增加vi.徒步旅行vt.提高"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能拟声词，模仿行走时沉重的脚步声或喘息声。核心动作是“用力行走/拉高”，引申为“徒步旅行”和“提高（价格等）”。",
+        "similarWarning": "hide（隐藏，h-i-d-e） vs hike（h-i-k-e），字母d/k差异；hire（雇佣，h-i-r-e） vs hike（h-i-k-e），字母r/k差异；like（喜欢，l-i-k-e） vs hike（h-i-k-e），首字母l/h差异；alike（相似的，a-l-i-k-e） vs hike（h-i-k-e），首字母a/h及字母l/h差异；choke（窒息，c-h-o-k-e） vs hike（h-i-k-e），字母c/o与i差异；hinge（铰链，h-i-n-g-e） vs hike（h-i-k-e），字母n/g与k差异；shake（摇晃，s-h-a-k-e） vs hike（h-i-k-e），首字母s/h及字母a/i差异；shine（发光，s-h-i-n-e） vs hike（h-i-k-e），首字母s/h及字母n/k差异。",
+        "extendedMeaning": "考研僻义：n./v.（价格、数量等的）大幅上涨，急剧增加。如：price hike（物价猛涨），rate hike（利率上调）。",
+        "examUsage": "真题考点：常作为经济类阅读的核心词，与increase, rise同义替换。固定搭配：hike up（突然提高/上涨），如：hike up interest rates（大幅提高利率）。"
+      }
+    },
+    {
+      "id": "himself",
+      "word": "himself",
+      "phonetic": "/him'self/",
+      "meaning": "pron.[反身代词]他自己；他本人",
+      "similar": [
+        "itself",
+        "herself"
+      ],
+      "question": {
+        "wordId": "himself",
+        "stem": "选择 \"himself\" 的正确中文意思：",
+        "correct": "pron.[反身代词]他自己；他本人",
+        "options": [
+          "v.使得,致使;提出,提供,呈报",
+          "pron.[反身代词]她自己；她亲自，她本人",
+          "pron.(it的反身代词)它自己，它本身",
+          "pron.[反身代词]他自己；他本人"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "him（他）+ self（自身），直指男性自身，反身代词用于强调动作返回主语或加强语气。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    }
+  ]
+}

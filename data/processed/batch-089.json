@@ -1,0 +1,1733 @@
+{
+  "batchId": 89,
+  "words": [
+    {
+      "id": "symphony",
+      "word": "symphony",
+      "phonetic": "/'simfəni/",
+      "meaning": "n.交响乐,交响曲",
+      "similar": [
+        "symptom",
+        "sympathy"
+      ],
+      "question": {
+        "wordId": "symphony",
+        "stem": "选择 \"symphony\" 的正确中文意思：",
+        "correct": "n.交响乐,交响曲",
+        "options": [
+          "n.交响乐,交响曲",
+          "n.(疾病的)症状；(不好事情的)征兆,表征",
+          "n.同情，同情心；赞同，同感；慰问",
+          "n.容量,内容,(pl.)目录 a.(with)满足的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：symphony的核心含义与\"n.交响乐,交响曲\"相关",
+        "similarWarning": "注意区分：symphony 与 symptom, sympathy 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "symposium",
+      "word": "symposium",
+      "phonetic": "/sim'pəuziəm/",
+      "meaning": "n.讨论会,专题报告会;专题论文集",
+      "similar": [
+        "gymnasium"
+      ],
+      "question": {
+        "wordId": "symposium",
+        "stem": "选择 \"symposium\" 的正确中文意思：",
+        "correct": "n.讨论会,专题报告会;专题论文集",
+        "options": [
+          "n.讨论会,专题报告会;专题论文集",
+          "n.(gym)体育馆，健身房",
+          "a.大的,广大的,大规模的",
+          "n.乡下,农村"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：symposium的核心含义与\"n.讨论会,专题报告会;专题论文集\"相关",
+        "similarWarning": "注意区分：symposium 与 gymnasium 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "symptom",
+      "word": "symptom",
+      "phonetic": "/'simptəm/",
+      "meaning": "n.(疾病的)症状；(不好事情的)征兆,表征",
+      "similar": [
+        "sympathy",
+        "symphony"
+      ],
+      "question": {
+        "wordId": "symptom",
+        "stem": "选择 \"symptom\" 的正确中文意思：",
+        "correct": "n.(疾病的)症状；(不好事情的)征兆,表征",
+        "options": [
+          "n.交响乐,交响曲",
+          "n.同情，同情心；赞同，同感；慰问",
+          "n.(疾病的)症状；(不好事情的)征兆,表征",
+          "vi．(时间)溜走；(光阴)逝去"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：symptom的核心含义与\"n.(疾病的)症状；(不好事情的)征兆,表征\"相关",
+        "similarWarning": "注意区分：symptom 与 sympathy, symphony 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "syndrome",
+      "word": "syndrome",
+      "phonetic": "/'sɪndrəum/",
+      "meaning": "n.综合病征；并存特性",
+      "similar": [
+        "handsome"
+      ],
+      "question": {
+        "wordId": "syndrome",
+        "stem": "选择 \"syndrome\" 的正确中文意思：",
+        "correct": "n.综合病征；并存特性",
+        "options": [
+          "n.(honour)尊敬,敬意;荣誉,光荣 v.尊敬",
+          "a.漂亮的,英俊的;慷慨的,数量可观的",
+          "n.综合病征；并存特性",
+          "n.(defense)防御,保卫;防务工事;辩护"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：syndrome的核心含义与\"n.综合病征；并存特性\"相关",
+        "similarWarning": "注意区分：syndrome 与 handsome 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "synthesis",
+      "word": "synthesis",
+      "phonetic": "/'sinθisis/",
+      "meaning": "n.(pl.syntheses)综合,合成",
+      "similar": [
+        "synthetic",
+        "hypothesis"
+      ],
+      "question": {
+        "wordId": "synthesis",
+        "stem": "选择 \"synthesis\" 的正确中文意思：",
+        "correct": "n.(pl.syntheses)综合,合成",
+        "options": [
+          "a.合成的,人造的;综合的",
+          "n.(pl.syntheses)综合,合成",
+          "n.心情,情绪;语气",
+          "n.假说,假设,前提"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：synthesis的核心含义与\"n.(pl.syntheses)综合,合成\"相关",
+        "similarWarning": "注意区分：synthesis 与 synthetic, hypothesis 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "synthetic",
+      "word": "synthetic",
+      "phonetic": "/sin'θetik/",
+      "meaning": "a.合成的,人造的;综合的",
+      "similar": [
+        "synthesis",
+        "sympathetic",
+        "pathetic",
+        "aesthetic",
+        "arithmetic",
+        "systematic"
+      ],
+      "question": {
+        "wordId": "synthetic",
+        "stem": "选择 \"synthetic\" 的正确中文意思：",
+        "correct": "a.合成的,人造的;综合的",
+        "options": [
+          "a.有同情心的；赞同的；n.交感神经",
+          "n.(pl.syntheses)综合,合成",
+          "a.合成的,人造的;综合的",
+          "a.可怜的, 悲惨的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：synthetic的核心含义与\"a.合成的,人造的;综合的\"相关",
+        "similarWarning": "注意区分：synthetic 与 synthesis, sympathetic, pathetic, aesthetic, arithmetic, systematic 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "system",
+      "word": "system",
+      "phonetic": "/'sistəm/",
+      "meaning": "n.系统，体系；制度；方法，方式，步聚",
+      "similar": [
+        "stem",
+        "sister"
+      ],
+      "question": {
+        "wordId": "system",
+        "stem": "选择 \"system\" 的正确中文意思：",
+        "correct": "n.系统，体系；制度；方法，方式，步聚",
+        "options": [
+          "n.系统，体系；制度；方法，方式，步聚",
+          "n.茎，干 vt.堵(挡)住 vi.起源于，由…造成",
+          "n.罪行,犯罪",
+          "n.姐，妹；护士长；修女，女教士"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：system的核心含义与\"n.系统，体系；制度；方法，方式，步聚\"相关",
+        "similarWarning": "注意区分：system 与 stem, sister 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "systematic",
+      "word": "systematic",
+      "phonetic": "/ˌsɪstə'mætɪk/",
+      "meaning": "a.(systematical)系统的,有组织的",
+      "similar": [
+        "automatic",
+        "synthetic"
+      ],
+      "question": {
+        "wordId": "systematic",
+        "stem": "选择 \"systematic\" 的正确中文意思：",
+        "correct": "a.(systematical)系统的,有组织的",
+        "options": [
+          "a.发疯的;狂热的,着迷的;恼火的,生气的",
+          "a.(systematical)系统的,有组织的",
+          "a.合成的,人造的;综合的",
+          "a.自动(装置)的；无意识的；n.自动机械"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：systematic的核心含义与\"a.(systematical)系统的,有组织的\"相关",
+        "similarWarning": "注意区分：systematic 与 automatic, synthetic 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "table",
+      "word": "table",
+      "phonetic": "/'teibl/",
+      "meaning": "n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论",
+      "similar": [
+        "stable",
+        "tablet",
+        "able",
+        "tale",
+        "cable",
+        "fable",
+        "notable",
+        "enable"
+      ],
+      "question": {
+        "wordId": "table",
+        "stem": "选择 \"table\" 的正确中文意思：",
+        "correct": "n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论",
+        "options": [
+          "n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论",
+          "a.稳定的,安定的 n.马厩,马棚",
+          "n.药片;碑,匾",
+          "a.有(能力、知识等)做某事，有本事的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：table的核心含义与\"n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论\"相关",
+        "similarWarning": "注意区分：table 与 stable, tablet, able, tale, cable, fable, notable, enable 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tablet",
+      "word": "tablet",
+      "phonetic": "/'tæblət/",
+      "meaning": "n.药片;碑,匾",
+      "similar": [
+        "table",
+        "able",
+        "tale",
+        "cable",
+        "fable",
+        "ballet",
+        "stable",
+        "talent"
+      ],
+      "question": {
+        "wordId": "tablet",
+        "stem": "选择 \"tablet\" 的正确中文意思：",
+        "correct": "n.药片;碑,匾",
+        "options": [
+          "n.药片;碑,匾",
+          "a.有(能力、知识等)做某事，有本事的",
+          "n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论",
+          "n.故事,传说"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：tablet的核心含义与\"n.药片;碑,匾\"相关",
+        "similarWarning": "注意区分：tablet 与 table, able, tale, cable, fable, ballet, stable, talent 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tackle",
+      "word": "tackle",
+      "phonetic": "/'tækl/",
+      "meaning": "n.滑车;用具,器械 v.处理,解决;抱住,抓住",
+      "similar": [
+        "take",
+        "tale",
+        "ankle",
+        "table",
+        "tangle"
+      ],
+      "question": {
+        "wordId": "tackle",
+        "stem": "选择 \"tackle\" 的正确中文意思：",
+        "correct": "n.滑车;用具,器械 v.处理,解决;抱住,抓住",
+        "options": [
+          "v.拿取；吃；记录；取得；花费；捕获；认为",
+          "n.足踝，踝关节",
+          "n.滑车;用具,器械 v.处理,解决;抱住,抓住",
+          "n.故事,传说"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：tackle的核心含义与\"n.滑车;用具,器械 v.处理,解决;抱住,抓住\"相关",
+        "similarWarning": "注意区分：tackle 与 take, tale, ankle, table, tangle 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tactic",
+      "word": "tactic",
+      "phonetic": "/'tæktik/",
+      "meaning": "n.(tactics)策略,战术",
+      "similar": [
+        "static",
+        "practice"
+      ],
+      "question": {
+        "wordId": "tactic",
+        "stem": "选择 \"tactic\" 的正确中文意思：",
+        "correct": "n.(tactics)策略,战术",
+        "options": [
+          "n.(tactics)策略,战术",
+          "a.(statical)静态的,静力的",
+          "n.练习,实践,实际,业务,惯例,习惯",
+          "v.(on)印,盖印;留下印象,引人注目"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：tactic的核心含义与\"n.(tactics)策略,战术\"相关",
+        "similarWarning": "注意区分：tactic 与 static, practice 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tag",
+      "word": "tag",
+      "phonetic": "/tæg/",
+      "meaning": "n.标签;鞋带;垂饰;vt.加标签于;附加vi.紧随",
+      "similar": [
+        "bag",
+        "lag",
+        "rag",
+        "tan",
+        "tap",
+        "tar",
+        "tax",
+        "tug"
+      ],
+      "question": {
+        "wordId": "tag",
+        "stem": "选择 \"tag\" 的正确中文意思：",
+        "correct": "n.标签;鞋带;垂饰;vt.加标签于;附加vi.紧随",
+        "options": [
+          "n.抹布,破布,碎布",
+          "n.标签;鞋带;垂饰;vt.加标签于;附加vi.紧随",
+          "n.袋，提包 v.把…装入袋中；猎杀；占有",
+          "v./n.落后,滞后 vt.用隔热材料覆盖(锅炉等)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：tag的核心含义与\"n.标签;鞋带;垂饰;vt.加标签于;附加vi.紧随\"相关",
+        "similarWarning": "注意区分：tag 与 bag, lag, rag, tan, tap, tar, tax, tug 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tail",
+      "word": "tail",
+      "phonetic": "/teil/",
+      "meaning": "n.尾巴；尾部；跟踪者 vt.尾随，跟踪",
+      "similar": [
+        "trail",
+        "fail",
+        "hail",
+        "mail",
+        "nail",
+        "pail",
+        "rail",
+        "sail"
+      ],
+      "question": {
+        "wordId": "tail",
+        "stem": "选择 \"tail\" 的正确中文意思：",
+        "correct": "n.尾巴；尾部；跟踪者 vt.尾随，跟踪",
+        "options": [
+          "v.下雹;欢呼,欢迎 n.雹",
+          "v.失败,不及格;衰退,减弱",
+          "n.踪迹,痕迹;小路 v.追踪,跟踪;拖,拖曳;",
+          "n.尾巴；尾部；跟踪者 vt.尾随，跟踪"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：tail的核心含义与\"n.尾巴；尾部；跟踪者 vt.尾随，跟踪\"相关",
+        "similarWarning": "注意区分：tail 与 trail, fail, hail, mail, nail, pail, rail, sail 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tailor",
+      "word": "tailor",
+      "phonetic": "/'teilə/",
+      "meaning": "n.裁缝 v.缝制,剪裁",
+      "similar": [
+        "sailor",
+        "traitor",
+        "tail"
+      ],
+      "question": {
+        "wordId": "tailor",
+        "stem": "选择 \"tailor\" 的正确中文意思：",
+        "correct": "n.裁缝 v.缝制,剪裁",
+        "options": [
+          "n.叛徒,卖国贼",
+          "n.尾巴；尾部；跟踪者 vt.尾随，跟踪",
+          "n.裁缝 v.缝制,剪裁",
+          "n.水手,海员"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：tailor的核心含义与\"n.裁缝 v.缝制,剪裁\"相关",
+        "similarWarning": "注意区分：tailor 与 sailor, traitor, tail 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "take",
+      "word": "take",
+      "phonetic": "/teɪk/",
+      "meaning": "v.拿取；吃；记录；取得；花费；捕获；认为",
+      "similar": [
+        "stake",
+        "bake",
+        "cake",
+        "fake",
+        "lake",
+        "make",
+        "rake",
+        "sake"
+      ],
+      "question": {
+        "wordId": "take",
+        "stem": "选择 \"take\" 的正确中文意思：",
+        "correct": "v.拿取；吃；记录；取得；花费；捕获；认为",
+        "options": [
+          "n.饼，糕，蛋糕；扁平的块状物",
+          "v.烤,烘,焙;烧硬,焙干",
+          "n.桩,标桩;赌注,利害关系",
+          "v.拿取；吃；记录；取得；花费；捕获；认为"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：take的核心含义与\"v.拿取；吃；记录；取得；花费；捕获；认为\"相关",
+        "similarWarning": "注意区分：take 与 stake, bake, cake, fake, lake, make, rake, sake 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tale",
+      "word": "tale",
+      "phonetic": "/teil/",
+      "meaning": "n.故事,传说",
+      "similar": [
+        "stale",
+        "table",
+        "male",
+        "pale",
+        "sale",
+        "take",
+        "talk",
+        "tall"
+      ],
+      "question": {
+        "wordId": "tale",
+        "stem": "选择 \"tale\" 的正确中文意思：",
+        "correct": "n.故事,传说",
+        "options": [
+          "n.变质的,不新鲜的;陈旧的,陈腐的",
+          "n.故事,传说",
+          "n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论",
+          "n./a.男性(的),雄性(的)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：tale的核心含义与\"n.故事,传说\"相关",
+        "similarWarning": "注意区分：tale 与 stale, table, male, pale, sale, take, talk, tall 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "talent",
+      "word": "talent",
+      "phonetic": "/'tælənt/",
+      "meaning": "n.才能,天资;人才",
+      "similar": [
+        "tale",
+        "tent",
+        "agent",
+        "alert",
+        "latent",
+        "parent",
+        "patent",
+        "silent"
+      ],
+      "question": {
+        "wordId": "talent",
+        "stem": "选择 \"talent\" 的正确中文意思：",
+        "correct": "n.才能,天资;人才",
+        "options": [
+          "n.才能,天资;人才",
+          "n.故事,传说",
+          "n.帐篷",
+          "n.代理人；代理商；产生作用的人或事物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：talent的核心含义与\"n.才能,天资;人才\"相关",
+        "similarWarning": "注意区分：talent 与 tale, tent, agent, alert, latent, parent, patent, silent 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "talk",
+      "word": "talk",
+      "phonetic": "/tɔ:k/",
+      "meaning": "n.谈话；聊天；讲话；演讲 v.说话；交谈",
+      "similar": [
+        "stalk",
+        "tale",
+        "tall",
+        "tank",
+        "task",
+        "walk",
+        "chalk",
+        "stack"
+      ],
+      "question": {
+        "wordId": "talk",
+        "stem": "选择 \"talk\" 的正确中文意思：",
+        "correct": "n.谈话；聊天；讲话；演讲 v.说话；交谈",
+        "options": [
+          "n.茎，梗vt.悄悄地跟踪vi.高视阔步地走",
+          "n.谈话；聊天；讲话；演讲 v.说话；交谈",
+          "n.故事,传说",
+          "a.(身材)高的,高大的；夸大的,离谱的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：talk的核心含义与\"n.谈话；聊天；讲话；演讲 v.说话；交谈\"相关",
+        "similarWarning": "注意区分：talk 与 stalk, tale, tall, tank, task, walk, chalk, stack 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tall",
+      "word": "tall",
+      "phonetic": "/tɔ:l/",
+      "meaning": "a.(身材)高的,高大的；夸大的,离谱的",
+      "similar": [
+        "stall",
+        "all",
+        "ball",
+        "call",
+        "fall",
+        "hall",
+        "tail",
+        "tale"
+      ],
+      "question": {
+        "wordId": "tall",
+        "stem": "选择 \"tall\" 的正确中文意思：",
+        "correct": "a.(身材)高的,高大的；夸大的,离谱的",
+        "options": [
+          "n.球(状物);(正式的)舞会vt.把…捏成球状",
+          "a.全部的；非常的 ad.完全地，很 pron.全部",
+          "n.货摊;畜栏,厩 v.(使)停转,(使)停止",
+          "a.(身材)高的,高大的；夸大的,离谱的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：tall的核心含义与\"a.(身材)高的,高大的；夸大的,离谱的\"相关",
+        "similarWarning": "注意区分：tall 与 stall, all, ball, call, fall, hall, tail, tale 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tame",
+      "word": "tame",
+      "phonetic": "/teim/",
+      "meaning": "a.驯服的,温顺的;沉闷的,乏味的 vt.驯服",
+      "similar": [
+        "fame",
+        "game",
+        "lame",
+        "name",
+        "same",
+        "take",
+        "tale",
+        "tape"
+      ],
+      "question": {
+        "wordId": "tame",
+        "stem": "选择 \"tame\" 的正确中文意思：",
+        "correct": "a.驯服的,温顺的;沉闷的,乏味的 vt.驯服",
+        "options": [
+          "a.驯服的,温顺的;沉闷的,乏味的 vt.驯服",
+          "n.游戏，娱乐；比赛；(pl.)运动会 vi.赌博",
+          "a.跛的,(辩解、论据等)无说服力的",
+          "n.名声;名望;传说 vt使出名;传扬…的名"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：tame的核心含义与\"a.驯服的,温顺的;沉闷的,乏味的 vt.驯服\"相关",
+        "similarWarning": "注意区分：tame 与 fame, game, lame, name, same, take, tale, tape 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tan",
+      "word": "tan",
+      "phonetic": "/tæn/",
+      "meaning": "n./a.(皮肤因日晒而成)棕褐色(的) vt.晒黑",
+      "similar": [
+        "tank",
+        "than",
+        "ban",
+        "can",
+        "fan",
+        "man",
+        "pan",
+        "tag"
+      ],
+      "question": {
+        "wordId": "tan",
+        "stem": "选择 \"tan\" 的正确中文意思：",
+        "correct": "n./a.(皮肤因日晒而成)棕褐色(的) vt.晒黑",
+        "options": [
+          "v.取缔,查禁;(from)禁止 n.禁止,禁令",
+          "conj.(用于形容词，副词的比较级之后)比",
+          "n./a.(皮肤因日晒而成)棕褐色(的) vt.晒黑",
+          "n.罐,槽,箱；坦克 vt.储于槽中"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：tan的核心含义与\"n./a.(皮肤因日晒而成)棕褐色(的) vt.晒黑\"相关",
+        "similarWarning": "注意区分：tan 与 tank, than, ban, can, fan, man, pan, tag 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tangle",
+      "word": "tangle",
+      "phonetic": "/'tæŋgl/",
+      "meaning": "n.纠缠；缠结；混乱 v.(使)缠绕；变乱",
+      "similar": [
+        "angle",
+        "triangle",
+        "tale",
+        "ankle",
+        "eagle",
+        "range",
+        "table",
+        "candle"
+      ],
+      "question": {
+        "wordId": "tangle",
+        "stem": "选择 \"tangle\" 的正确中文意思：",
+        "correct": "n.纠缠；缠结；混乱 v.(使)缠绕；变乱",
+        "options": [
+          "n.三角(形)",
+          "n.角，角度 v.钓鱼；(采用各种方法）取得",
+          "n.纠缠；缠结；混乱 v.(使)缠绕；变乱",
+          "n.故事,传说"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：tangle的核心含义与\"n.纠缠；缠结；混乱 v.(使)缠绕；变乱\"相关",
+        "similarWarning": "注意区分：tangle 与 angle, triangle, tale, ankle, eagle, range, table, candle 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tank",
+      "word": "tank",
+      "phonetic": "/tæŋk/",
+      "meaning": "n.罐,槽,箱；坦克 vt.储于槽中",
+      "similar": [
+        "thank",
+        "tan",
+        "bank",
+        "rank",
+        "talk",
+        "task",
+        "tanker",
+        "blank"
+      ],
+      "question": {
+        "wordId": "tank",
+        "stem": "选择 \"tank\" 的正确中文意思：",
+        "correct": "n.罐,槽,箱；坦克 vt.储于槽中",
+        "options": [
+          "n.银行；岸,堤；vi.存入(经营)银行；信赖",
+          "n.罐,槽,箱；坦克 vt.储于槽中",
+          "vt.感谢int.[-s]谢谢n.[pl.]感谢(意)",
+          "n./a.(皮肤因日晒而成)棕褐色(的) vt.晒黑"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：tank的核心含义与\"n.罐,槽,箱；坦克 vt.储于槽中\"相关",
+        "similarWarning": "注意区分：tank 与 thank, tan, bank, rank, talk, task, tanker, blank 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tanker",
+      "word": "tanker",
+      "phonetic": "/'tæŋkə/",
+      "meaning": "n.油船",
+      "similar": [
+        "take",
+        "tank",
+        "anger",
+        "banner",
+        "cancer",
+        "danger",
+        "manner",
+        "tender"
+      ],
+      "question": {
+        "wordId": "tanker",
+        "stem": "选择 \"tanker\" 的正确中文意思：",
+        "correct": "n.油船",
+        "options": [
+          "n.油船",
+          "v.拿取；吃；记录；取得；花费；捕获；认为",
+          "n.罐,槽,箱；坦克 vt.储于槽中",
+          "n.愤怒，气愤 vt.使发怒，激怒 vi.发怒"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：tanker的核心含义与\"n.油船\"相关",
+        "similarWarning": "注意区分：tanker 与 take, tank, anger, banner, cancer, danger, manner, tender 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tap",
+      "word": "tap",
+      "phonetic": "/tæp/",
+      "meaning": "n.塞子;水龙头; n./v.轻打,轻敲; vt.开发",
+      "similar": [
+        "tape",
+        "trap",
+        "cap",
+        "gap",
+        "lap",
+        "map",
+        "nap",
+        "rap"
+      ],
+      "question": {
+        "wordId": "tap",
+        "stem": "选择 \"tap\" 的正确中文意思：",
+        "correct": "n.塞子;水龙头; n./v.轻打,轻敲; vt.开发",
+        "options": [
+          "n.便帽,军帽;盖,罩,套 v.覆盖于…顶端",
+          "n.塞子;水龙头; n./v.轻打,轻敲; vt.开发",
+          "n.带(子);录音带,磁带 v.录音;系,捆",
+          "n.陷阱，圈套 vt.诱捕；使中圈套 vi.设圈套"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：tap的核心含义与\"n.塞子;水龙头; n./v.轻打,轻敲; vt.开发\"相关",
+        "similarWarning": "注意区分：tap 与 tape, trap, cap, gap, lap, map, nap, rap 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tape",
+      "word": "tape",
+      "phonetic": "/teip/",
+      "meaning": "n.带(子);录音带,磁带 v.录音;系,捆",
+      "similar": [
+        "tap",
+        "cape",
+        "rape",
+        "take",
+        "tale",
+        "tame",
+        "type",
+        "staple"
+      ],
+      "question": {
+        "wordId": "tape",
+        "stem": "选择 \"tape\" 的正确中文意思：",
+        "correct": "n.带(子);录音带,磁带 v.录音;系,捆",
+        "options": [
+          "n.带(子);录音带,磁带 v.录音;系,捆",
+          "n.塞子;水龙头; n./v.轻打,轻敲; vt.开发",
+          "n.海角，岬；披肩，短披风",
+          "n./vt.掠夺,蹂躏,强奸"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：tape的核心含义与\"n.带(子);录音带,磁带 v.录音;系,捆\"相关",
+        "similarWarning": "注意区分：tape 与 tap, cape, rape, take, tale, tame, type, staple 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tar",
+      "word": "tar",
+      "phonetic": "/tɑ:/",
+      "meaning": "n.柏油，焦油 vt.涂或浇柏油/焦油于",
+      "similar": [
+        "star",
+        "tear",
+        "bar",
+        "car",
+        "ear",
+        "far",
+        "jar",
+        "oar"
+      ],
+      "question": {
+        "wordId": "tar",
+        "stem": "选择 \"tar\" 的正确中文意思：",
+        "correct": "n.柏油，焦油 vt.涂或浇柏油/焦油于",
+        "options": [
+          "n.柏油，焦油 vt.涂或浇柏油/焦油于",
+          "n.星；恒星；明星 v.用星号标出；扮演主角",
+          "n.条,杆,闩;酒吧;栅,障碍(物) v.闩上,阻拦",
+          "n.(pl.)眼泪 vt.撕裂；使…分裂 vi.破裂"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：tar的核心含义与\"n.柏油，焦油 vt.涂或浇柏油/焦油于\"相关",
+        "similarWarning": "注意区分：tar 与 star, tear, bar, car, ear, far, jar, oar 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "target",
+      "word": "target",
+      "phonetic": "/'tɑ:gɪt/",
+      "meaning": "n.目标,对象,靶子",
+      "similar": [
+        "large",
+        "carpet",
+        "forget",
+        "market",
+        "tablet"
+      ],
+      "question": {
+        "wordId": "target",
+        "stem": "选择 \"target\" 的正确中文意思：",
+        "correct": "n.目标,对象,靶子",
+        "options": [
+          "v.忘记,遗忘",
+          "a.大的,广大的,大规模的",
+          "n.地毯",
+          "n.目标,对象,靶子"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：target的核心含义与\"n.目标,对象,靶子\"相关",
+        "similarWarning": "注意区分：target 与 large, carpet, forget, market, tablet 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tariff",
+      "word": "tariff",
+      "phonetic": "/'tærif/",
+      "meaning": "n.关税,税率;(旅馆,饭店等)价目表,收费表",
+      "similar": [
+        "thrift"
+      ],
+      "question": {
+        "wordId": "tariff",
+        "stem": "选择 \"tariff\" 的正确中文意思：",
+        "correct": "n.关税,税率;(旅馆,饭店等)价目表,收费表",
+        "options": [
+          "a.节约，节俭",
+          "n.(二轮货运)马车,手推车",
+          "n.关税,税率;(旅馆,饭店等)价目表,收费表",
+          "a.惯例的,常规的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：tariff的核心含义与\"n.关税,税率;(旅馆,饭店等)价目表,收费表\"相关",
+        "similarWarning": "注意区分：tariff 与 thrift 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "task",
+      "word": "task",
+      "phonetic": "/tɑ:sk/",
+      "meaning": "n.任务,作业,工作",
+      "similar": [
+        "ask",
+        "mask",
+        "talk",
+        "tank",
+        "stack",
+        "stalk",
+        "taste",
+        "tease"
+      ],
+      "question": {
+        "wordId": "task",
+        "stem": "选择 \"task\" 的正确中文意思：",
+        "correct": "n.任务,作业,工作",
+        "options": [
+          "n.面具,面罩;假面具,伪装 v. 掩饰,化装",
+          "n.谈话；聊天；讲话；演讲 v.说话；交谈",
+          "vt.问，询问；请求，要求；邀请，约请",
+          "n.任务,作业,工作"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：task的核心含义与\"n.任务,作业,工作\"相关",
+        "similarWarning": "注意区分：task 与 ask, mask, talk, tank, stack, stalk, taste, tease 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "taste",
+      "word": "taste",
+      "phonetic": "/teist/",
+      "meaning": "v.品尝;(of)有…味道;体验 n.滋味;味觉",
+      "similar": [
+        "haste",
+        "paste",
+        "waste",
+        "castle",
+        "easter",
+        "fasten",
+        "master",
+        "base"
+      ],
+      "question": {
+        "wordId": "taste",
+        "stem": "选择 \"taste\" 的正确中文意思：",
+        "correct": "v.品尝;(of)有…味道;体验 n.滋味;味觉",
+        "options": [
+          "v.品尝;(of)有…味道;体验 n.滋味;味觉",
+          "v.浪费 a.无用的;荒芜的 n.浪费;废物",
+          "n.匆忙,急速;草率 v.赶快;匆忙",
+          "n.糊,浆糊 v.粘,贴"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：taste的核心含义与\"v.品尝;(of)有…味道;体验 n.滋味;味觉\"相关",
+        "similarWarning": "注意区分：taste 与 haste, paste, waste, castle, easter, fasten, master, base 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tax",
+      "word": "tax",
+      "phonetic": "/tæks/",
+      "meaning": "n.税(款),负担 v.对…征税,使负重担",
+      "similar": [
+        "taxi",
+        "fax",
+        "tag",
+        "tan",
+        "tap",
+        "tar",
+        "wax"
+      ],
+      "question": {
+        "wordId": "tax",
+        "stem": "选择 \"tax\" 的正确中文意思：",
+        "correct": "n.税(款),负担 v.对…征税,使负重担",
+        "options": [
+          "n.标签;鞋带;垂饰;vt.加标签于;附加vi.紧随",
+          "n./v.传真(机)",
+          "n.出租汽车v.[指飞机](使)滑行",
+          "n.税(款),负担 v.对…征税,使负重担"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：tax的核心含义与\"n.税(款),负担 v.对…征税,使负重担\"相关",
+        "similarWarning": "注意区分：tax 与 taxi, fax, tag, tan, tap, tar, wax 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "taxi",
+      "word": "taxi",
+      "phonetic": "/'tæksi/",
+      "meaning": "n.出租汽车v.[指飞机](使)滑行",
+      "similar": [
+        "tax",
+        "toxic"
+      ],
+      "question": {
+        "wordId": "taxi",
+        "stem": "选择 \"taxi\" 的正确中文意思：",
+        "correct": "n.出租汽车v.[指飞机](使)滑行",
+        "options": [
+          "n.税(款),负担 v.对…征税,使负重担",
+          "vi.怒目而视;发射强光 n.强光;怒视;炫耀",
+          "a.有毒的；中毒的",
+          "n.出租汽车v.[指飞机](使)滑行"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：taxi的核心含义与\"n.出租汽车v.[指飞机](使)滑行\"相关",
+        "similarWarning": "注意区分：taxi 与 tax, toxic 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tea",
+      "word": "tea",
+      "phonetic": "/ti:/",
+      "meaning": "n.茶(叶)；午后茶点",
+      "similar": [
+        "team",
+        "tear",
+        "pea",
+        "sea",
+        "ten",
+        "steak",
+        "steal",
+        "steam"
+      ],
+      "question": {
+        "wordId": "tea",
+        "stem": "选择 \"tea\" 的正确中文意思：",
+        "correct": "n.茶(叶)；午后茶点",
+        "options": [
+          "n.豌豆",
+          "n.(pl.)眼泪 vt.撕裂；使…分裂 vi.破裂",
+          "n.茶(叶)；午后茶点",
+          "n.小队,小组 v.协同工作"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：tea的核心含义与\"n.茶(叶)；午后茶点\"相关",
+        "similarWarning": "注意区分：tea 与 team, tear, pea, sea, ten, steak, steal, steam 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "teach",
+      "word": "teach",
+      "phonetic": "/ti:tʃ/",
+      "meaning": "vt.教，讲授；教导(训)vi.讲课，当教师",
+      "similar": [
+        "each",
+        "beach",
+        "peach",
+        "reach",
+        "teacher",
+        "attach",
+        "breach",
+        "detach"
+      ],
+      "question": {
+        "wordId": "teach",
+        "stem": "选择 \"teach\" 的正确中文意思：",
+        "correct": "vt.教，讲授；教导(训)vi.讲课，当教师",
+        "options": [
+          "n.桃,桃树",
+          "a./pron.各,各自的,每",
+          "n.海滩,湖滩,河滩",
+          "vt.教，讲授；教导(训)vi.讲课，当教师"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：teach的核心含义与\"vt.教，讲授；教导(训)vi.讲课，当教师\"相关",
+        "similarWarning": "注意区分：teach 与 each, beach, peach, reach, teacher, attach, breach, detach 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "teacher",
+      "word": "teacher",
+      "phonetic": "/'ti:tʃə/",
+      "meaning": "n.教师(员)，老(导)师",
+      "similar": [
+        "teach",
+        "feather",
+        "leather",
+        "weather"
+      ],
+      "question": {
+        "wordId": "teacher",
+        "stem": "选择 \"teacher\" 的正确中文意思：",
+        "correct": "n.教师(员)，老(导)师",
+        "options": [
+          "n.教师(员)，老(导)师",
+          "vt.教，讲授；教导(训)vi.讲课，当教师",
+          "n.皮革,皮革制品",
+          "n.羽毛"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：teacher的核心含义与\"n.教师(员)，老(导)师\"相关",
+        "similarWarning": "注意区分：teacher 与 teach, feather, leather, weather 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "team",
+      "word": "team",
+      "phonetic": "/ti:m/",
+      "meaning": "n.小队,小组 v.协同工作",
+      "similar": [
+        "steam",
+        "tea",
+        "beam",
+        "seam",
+        "tear",
+        "term",
+        "tram",
+        "stream"
+      ],
+      "question": {
+        "wordId": "team",
+        "stem": "选择 \"team\" 的正确中文意思：",
+        "correct": "n.小队,小组 v.协同工作",
+        "options": [
+          "n.小队,小组 v.协同工作",
+          "n.(横)梁,桁条;(光线的)束,柱 v.微笑",
+          "n.水汽,蒸汽,水蒸气 v.蒸发;蒸;用蒸汽开动",
+          "n.茶(叶)；午后茶点"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：team的核心含义与\"n.小队,小组 v.协同工作\"相关",
+        "similarWarning": "注意区分：team 与 steam, tea, beam, seam, tear, term, tram, stream 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tear",
+      "word": "tear",
+      "phonetic": "/tɛə/",
+      "meaning": "n.(pl.)眼泪 vt.撕裂；使…分裂 vi.破裂",
+      "similar": [
+        "ear",
+        "tar",
+        "tea",
+        "bear",
+        "dear",
+        "fear",
+        "gear",
+        "hear"
+      ],
+      "question": {
+        "wordId": "tear",
+        "stem": "选择 \"tear\" 的正确中文意思：",
+        "correct": "n.(pl.)眼泪 vt.撕裂；使…分裂 vi.破裂",
+        "options": [
+          "n.茶(叶)；午后茶点",
+          "n.柏油，焦油 vt.涂或浇柏油/焦油于",
+          "n.耳，耳朵；听力，听觉；穗",
+          "n.(pl.)眼泪 vt.撕裂；使…分裂 vi.破裂"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：tear的核心含义与\"n.(pl.)眼泪 vt.撕裂；使…分裂 vi.破裂\"相关",
+        "similarWarning": "注意区分：tear 与 ear, tar, tea, bear, dear, fear, gear, hear 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tease",
+      "word": "tease",
+      "phonetic": "/ti:z/",
+      "meaning": "v.戏弄,取笑;挑逗 n.(爱)戏弄他人者;戏弄",
+      "similar": [
+        "ease",
+        "cease",
+        "lease",
+        "tense",
+        "grease",
+        "please",
+        "tea",
+        "base"
+      ],
+      "question": {
+        "wordId": "tease",
+        "stem": "选择 \"tease\" 的正确中文意思：",
+        "correct": "v.戏弄,取笑;挑逗 n.(爱)戏弄他人者;戏弄",
+        "options": [
+          "v.戏弄,取笑;挑逗 n.(爱)戏弄他人者;戏弄",
+          "vt.出租,租用 n.租借,租期,租赁物",
+          "v.减轻;使舒适,使安心 n.容易;舒适,悠闲",
+          "v./n.停止,中止"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：tease的核心含义与\"v.戏弄,取笑;挑逗 n.(爱)戏弄他人者;戏弄\"相关",
+        "similarWarning": "注意区分：tease 与 ease, cease, lease, tense, grease, please, tea, base 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "technical",
+      "word": "technical",
+      "phonetic": "/'teknikəl/",
+      "meaning": "a.技术(性)的，工艺的；专门性的，专业性的",
+      "similar": [
+        "mechanical",
+        "technician",
+        "technique",
+        "economical",
+        "electrical"
+      ],
+      "question": {
+        "wordId": "technical",
+        "stem": "选择 \"technical\" 的正确中文意思：",
+        "correct": "a.技术(性)的，工艺的；专门性的，专业性的",
+        "options": [
+          "a.技术(性)的，工艺的；专门性的，专业性的",
+          "a.机械的,由机构制成的;机械似的,呆板的",
+          "n.技术员,技师,技工",
+          "n.技巧，手艺，技能；技术，工艺"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：technical的核心含义与\"a.技术(性)的，工艺的；专门性的，专业性的\"相关",
+        "similarWarning": "注意区分：technical 与 mechanical, technician, technique, economical, electrical 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "technician",
+      "word": "technician",
+      "phonetic": "/tek'niʃən/",
+      "meaning": "n.技术员,技师,技工",
+      "similar": [
+        "technical",
+        "electrician",
+        "technique",
+        "mechanical"
+      ],
+      "question": {
+        "wordId": "technician",
+        "stem": "选择 \"technician\" 的正确中文意思：",
+        "correct": "n.技术员,技师,技工",
+        "options": [
+          "n.技巧，手艺，技能；技术，工艺",
+          "n.电学家,电工",
+          "a.技术(性)的，工艺的；专门性的，专业性的",
+          "n.技术员,技师,技工"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：technician的核心含义与\"n.技术员,技师,技工\"相关",
+        "similarWarning": "注意区分：technician 与 technical, electrician, technique, mechanical 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "technique",
+      "word": "technique",
+      "phonetic": "/tek'ni:k/",
+      "meaning": "n.技巧，手艺，技能；技术，工艺",
+      "similar": [
+        "technical",
+        "technician"
+      ],
+      "question": {
+        "wordId": "technique",
+        "stem": "选择 \"technique\" 的正确中文意思：",
+        "correct": "n.技巧，手艺，技能；技术，工艺",
+        "options": [
+          "v.压迫,压制",
+          "a.技术(性)的，工艺的；专门性的，专业性的",
+          "n.技巧，手艺，技能；技术，工艺",
+          "n.技术员,技师,技工"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：technique的核心含义与\"n.技巧，手艺，技能；技术，工艺\"相关",
+        "similarWarning": "注意区分：technique 与 technical, technician 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "technology",
+      "word": "technology",
+      "phonetic": "/tek'nɔlədʒi/",
+      "meaning": "n.科学技术；工业技术；应用科学",
+      "similar": [
+        "sociology",
+        "psychology"
+      ],
+      "question": {
+        "wordId": "technology",
+        "stem": "选择 \"technology\" 的正确中文意思：",
+        "correct": "n.科学技术；工业技术；应用科学",
+        "options": [
+          "n.科学技术；工业技术；应用科学",
+          "n.社会学",
+          "n.心理,心理学,心理状态",
+          "n.卧车包房,(客车车厢内的)隔间;分隔的空间"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：technology的核心含义与\"n.科学技术；工业技术；应用科学\"相关",
+        "similarWarning": "注意区分：technology 与 sociology, psychology 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tedious",
+      "word": "tedious",
+      "phonetic": "/'ti:diəs/",
+      "meaning": "a.乏味的,单调的,冗长的",
+      "similar": [
+        "serious",
+        "precious",
+        "previous"
+      ],
+      "question": {
+        "wordId": "tedious",
+        "stem": "选择 \"tedious\" 的正确中文意思：",
+        "correct": "a.乏味的,单调的,冗长的",
+        "options": [
+          "a.先前的,以前的",
+          "a.严肃的;主要的;严重的,危急的;认真的",
+          "a.乏味的,单调的,冗长的",
+          "a.珍贵的,贵重的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：tedious的核心含义与\"a.乏味的,单调的,冗长的\"相关",
+        "similarWarning": "注意区分：tedious 与 serious, precious, previous 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "teenager",
+      "word": "teenager",
+      "phonetic": "/'ti:nˌeidʒə/",
+      "meaning": "n.十几岁的青少年",
+      "similar": [
+        "tender",
+        "manager",
+        "theater"
+      ],
+      "question": {
+        "wordId": "teenager",
+        "stem": "选择 \"teenager\" 的正确中文意思：",
+        "correct": "n.十几岁的青少年",
+        "options": [
+          "n.(theatre)戏院;戏剧;阶梯教室",
+          "a.嫩的;敏感的;温柔的 v.提出,提供;投标",
+          "n.十几岁的青少年",
+          "n.经理,管理人"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：teenager的核心含义与\"n.十几岁的青少年\"相关",
+        "similarWarning": "注意区分：teenager 与 tender, manager, theater 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "telegram",
+      "word": "telegram",
+      "phonetic": "/'teligræm/",
+      "meaning": "n.电报",
+      "similar": [
+        "telegraph"
+      ],
+      "question": {
+        "wordId": "telegram",
+        "stem": "选择 \"telegram\" 的正确中文意思：",
+        "correct": "n.电报",
+        "options": [
+          "ad.好，令人满意地；很 int.哎呀，好啦，嗯",
+          "vt.谋划，策划；设法做到；设计，想出",
+          "n.电报机,电报 v.打电报,发电报",
+          "n.电报"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：telegram的核心含义与\"n.电报\"相关",
+        "similarWarning": "注意区分：telegram 与 telegraph 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "telegraph",
+      "word": "telegraph",
+      "phonetic": "/'teligrɑ:f/",
+      "meaning": "n.电报机,电报 v.打电报,发电报",
+      "similar": [
+        "telegram"
+      ],
+      "question": {
+        "wordId": "telegraph",
+        "stem": "选择 \"telegraph\" 的正确中文意思：",
+        "correct": "n.电报机,电报 v.打电报,发电报",
+        "options": [
+          "n.父母,母亲;(pl.)双亲;父母",
+          "n.电报",
+          "a.富有想象力的,爱想象的",
+          "n.电报机,电报 v.打电报,发电报"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：telegraph的核心含义与\"n.电报机,电报 v.打电报,发电报\"相关",
+        "similarWarning": "注意区分：telegraph 与 telegram 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "telephone",
+      "word": "telephone",
+      "phonetic": "/'telifəun/",
+      "meaning": "n.电话,电话机 v.打电话",
+      "similar": [
+        "elephant",
+        "telescope"
+      ],
+      "question": {
+        "wordId": "telephone",
+        "stem": "选择 \"telephone\" 的正确中文意思：",
+        "correct": "n.电话,电话机 v.打电话",
+        "options": [
+          "n.(动物)象",
+          "n.望远镜 v.缩短，压缩",
+          "ad.很，非常；完全 a.正是的；真正，真实的",
+          "n.电话,电话机 v.打电话"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：telephone的核心含义与\"n.电话,电话机 v.打电话\"相关",
+        "similarWarning": "注意区分：telephone 与 elephant, telescope 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "telescope",
+      "word": "telescope",
+      "phonetic": "/'teliskəup/",
+      "meaning": "n.望远镜 v.缩短，压缩",
+      "similar": [
+        "telephone"
+      ],
+      "question": {
+        "wordId": "telescope",
+        "stem": "选择 \"telescope\" 的正确中文意思：",
+        "correct": "n.望远镜 v.缩短，压缩",
+        "options": [
+          "n.望远镜 v.缩短，压缩",
+          "n.电话,电话机 v.打电话",
+          "n.拾起,获得",
+          "conj.而,却,反之"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：telescope的核心含义与\"n.望远镜 v.缩短，压缩\"相关",
+        "similarWarning": "注意区分：telescope 与 telephone 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tell",
+      "word": "tell",
+      "phonetic": "/tel/",
+      "meaning": "vt.告诉，讲述；告诫；吩咐，命令；辨/区别",
+      "similar": [
+        "bell",
+        "cell",
+        "fell",
+        "hell",
+        "sell",
+        "tall",
+        "till",
+        "toll"
+      ],
+      "question": {
+        "wordId": "tell",
+        "stem": "选择 \"tell\" 的正确中文意思：",
+        "correct": "vt.告诉，讲述；告诫；吩咐，命令；辨/区别",
+        "options": [
+          "v.击倒;打倒(疾病等);砍伐a.凶猛的;可怕的",
+          "vt.告诉，讲述；告诫；吩咐，命令；辨/区别",
+          "n.钟,铃",
+          "n.细胞;小房间;蜂房;电池"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：tell的核心含义与\"vt.告诉，讲述；告诫；吩咐，命令；辨/区别\"相关",
+        "similarWarning": "注意区分：tell 与 bell, cell, fell, hell, sell, tall, till, toll 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "temper",
+      "word": "temper",
+      "phonetic": "/'tempə/",
+      "meaning": "n.脾气；韧度vt.调和，使缓和；使回火",
+      "similar": [
+        "tempo",
+        "tempt",
+        "hamper",
+        "member",
+        "pepper",
+        "temple",
+        "tender",
+        "timber"
+      ],
+      "question": {
+        "wordId": "temper",
+        "stem": "选择 \"temper\" 的正确中文意思：",
+        "correct": "n.脾气；韧度vt.调和，使缓和；使回火",
+        "options": [
+          "v.诱惑,引诱;吸引,使感兴趣",
+          "n.节奏,行进速度;(音乐的)速度",
+          "n.脾气；韧度vt.调和，使缓和；使回火",
+          "v.妨碍,阻碍,牵制"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：temper的核心含义与\"n.脾气；韧度vt.调和，使缓和；使回火\"相关",
+        "similarWarning": "注意区分：temper 与 tempo, tempt, hamper, member, pepper, temple, tender, timber 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "temperament",
+      "word": "temperament",
+      "phonetic": "/'tempərəmənt/",
+      "meaning": "n.气质，性格，性情；资质",
+      "similar": [
+        "experiment",
+        "department",
+        "employment",
+        "compartment",
+        "temperature"
+      ],
+      "question": {
+        "wordId": "temperament",
+        "stem": "选择 \"temperament\" 的正确中文意思：",
+        "correct": "n.气质，性格，性情；资质",
+        "options": [
+          "n.气质，性格，性情；资质",
+          "n.实验;试验 v.(on)进行实验;做试验",
+          "n.部,局,处,科,部门;系,学部",
+          "n.雇用;使用;工作,职业"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：temperament的核心含义与\"n.气质，性格，性情；资质\"相关",
+        "similarWarning": "注意区分：temperament 与 experiment, department, employment, compartment, temperature 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "temperature",
+      "word": "temperature",
+      "phonetic": "/'temprətʃə(r)/",
+      "meaning": "n.温度，体温；热度，发烧",
+      "similar": [
+        "departure",
+        "desperate",
+        "temporary",
+        "imperative",
+        "literature",
+        "temperament"
+      ],
+      "question": {
+        "wordId": "temperature",
+        "stem": "选择 \"temperature\" 的正确中文意思：",
+        "correct": "n.温度，体温；热度，发烧",
+        "options": [
+          "a.暂时的,临时的",
+          "a.不顾一切的，铤而走险的；绝望的，危急的",
+          "n.离开,起程",
+          "n.温度，体温；热度，发烧"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：temperature的核心含义与\"n.温度，体温；热度，发烧\"相关",
+        "similarWarning": "注意区分：temperature 与 departure, desperate, temporary, imperative, literature, temperament 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "temple",
+      "word": "temple",
+      "phonetic": "/'templ/",
+      "meaning": "n.庙宇,神殿,寺;太阳穴",
+      "similar": [
+        "tremble",
+        "ample",
+        "tempo",
+        "tempt",
+        "female",
+        "people",
+        "sample",
+        "simple"
+      ],
+      "question": {
+        "wordId": "temple",
+        "stem": "选择 \"temple\" 的正确中文意思：",
+        "correct": "n.庙宇,神殿,寺;太阳穴",
+        "options": [
+          "a.充分的，富裕的；宽敞的，宽大的",
+          "n.庙宇,神殿,寺;太阳穴",
+          "n.节奏,行进速度;(音乐的)速度",
+          "n.战栗,颤抖 v.发抖,颤抖；摇动；焦虑"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：temple的核心含义与\"n.庙宇,神殿,寺;太阳穴\"相关",
+        "similarWarning": "注意区分：temple 与 tremble, ample, tempo, tempt, female, people, sample, simple 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    }
+  ]
+}

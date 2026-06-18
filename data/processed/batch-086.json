@@ -1,0 +1,1666 @@
+{
+  "batchId": 86,
+  "words": [
+    {
+      "id": "want",
+      "word": "want",
+      "phonetic": "/wɔnt/",
+      "meaning": "vt.想要;希望;需要;缺,缺少 n.需要;短缺",
+      "similar": [
+        "ant",
+        "pant",
+        "wait",
+        "watt",
+        "await",
+        "faint",
+        "giant",
+        "grant"
+      ],
+      "question": {
+        "wordId": "want",
+        "stem": "选择 \"want\" 的正确中文意思：",
+        "correct": "vt.想要;希望;需要;缺,缺少 n.需要;短缺",
+        "options": [
+          "n.蚁；蚂蚁",
+          "vt.想要;希望;需要;缺,缺少 n.需要;短缺",
+          "n.喘气 v.喘,气喘吁吁地说",
+          "v.(for)等待；(on)侍候 n.等候，等待时间"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，但核心义为“缺少”或“渴望”。物理动作上，want源于古诺斯语vanta（缺少），后引申为因缺少而产生的心理需求（想要）。词义演变：缺少→需要→想要。注意其作为动词的“缺乏”义（如want for nothing）是考研高频考点。",
+        "similarWarning": "ant（蚂蚁）、pant（喘气）、wait（等待）、watt（瓦特）、await（等候）、faint（昏厥）、giant（巨人）、grant（授予）。拼写差异：want vs. wait（n vs. i），want vs. ant（w vs. 无），want vs. pant（w vs. p）。",
+        "extendedMeaning": "考研僻义：1. 缺乏（vt.）: The house wants repair. 2. 贫困（n.）: live in want. 3. 需要（n.）: in want of food. 注意：want作为“想要”的常见义不在僻义之列。",
+        "examUsage": "真题考点：1. want for nothing（应有尽有）; 2. be wanting in（缺乏…）; 3. 固定搭配：want to do（想要做）/ want doing（需要做，主动表被动）: The car wants washing. 注意区分：want to do（主观意愿）vs. want doing（客观需求）。"
+      }
+    },
+    {
+      "id": "ward",
+      "word": "ward",
+      "phonetic": "/wɔ:d/",
+      "meaning": "n.病房;行政区;监护;被监护人 vt.挡住",
+      "similar": [
+        "award",
+        "warn",
+        "coward",
+        "inward",
+        "reward",
+        "toward",
+        "upward",
+        "aware"
+      ],
+      "question": {
+        "wordId": "ward",
+        "stem": "选择 \"ward\" 的正确中文意思：",
+        "correct": "n.病房;行政区;监护;被监护人 vt.挡住",
+        "options": [
+          "n.懦夫,胆怯者",
+          "vt.警告 vi.发出警告",
+          "vt.授予,给予；判定 n.奖,奖金；仲裁",
+          "n.病房;行政区;监护;被监护人 vt.挡住"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 wardōn（看守、保护）。核心物理动作为‘看守、守护’。词义引申：看守的地点→病房（病人被看护的地方）、行政区（被管辖区）；看守的对象→被监护人；看守的动作→挡住（ward off 抵御攻击）。",
+        "similarWarning": "award（a-加强 + ward 看守→给予奖励）vs ward（无前缀，单纯看守）；ward vs word（字母d/r差异，看守 vs 话语）；ward vs warm（字母d/m差异，看守 vs 温暖）。",
+        "extendedMeaning": "n. 监禁室（如prison ward）；vt. 避开、防止（ward off danger）",
+        "examUsage": "ward off（抵御、避开）为高频搭配，如：ward off disease（抵御疾病）"
+      }
+    },
+    {
+      "id": "wardrobe",
+      "word": "wardrobe",
+      "phonetic": "/'wɔ:drəub/",
+      "meaning": "n.衣柜,衣厨;衣服;行头;剧装",
+      "similar": [],
+      "question": {
+        "wordId": "wardrobe",
+        "stem": "选择 \"wardrobe\" 的正确中文意思：",
+        "correct": "n.衣柜,衣厨;衣服;行头;剧装",
+        "options": [
+          "n.衣柜,衣厨;衣服;行头;剧装",
+          "n.苦恼;危难;不幸 v.使苦恼",
+          "n.自由,自主,免除,特权",
+          "v.描绘;描写,描述"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "wardrobe 由 ward（保护、看守）和 robe（长袍、服装）组成，核心动作是“保护服装的柜子”，即衣柜。引申为“全部服装”或“行头”，再进一步指戏剧中的“剧装”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中，wardrobe 常引申为“全部衣物”或“个人风格”，如“summer wardrobe”（夏装系列）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "warehouse",
+      "word": "warehouse",
+      "phonetic": "/'wεəhaus/",
+      "meaning": "n.仓库,货栈",
+      "similar": [
+        "greenhouse"
+      ],
+      "question": {
+        "wordId": "warehouse",
+        "stem": "选择 \"warehouse\" 的正确中文意思：",
+        "correct": "n.仓库,货栈",
+        "options": [
+          "v.确保,保证;使安全",
+          "n.温室",
+          "n.仓库,货栈",
+          "n.暴(骚)乱,蔓延,彩色缤纷 v.骚乱,暴动"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "ware（货物、商品）+ house（房屋、场所）→ 存放货物的房屋 → 仓库、货栈。核心物理动作：将商品（ware）储存在有顶的建筑（house）中。",
+        "similarWarning": "greenhouse（温室）：green（绿色）+ house → 种植植物的温室。与warehouse拼写差异在首词根：ware（货物）vs green（绿色），词义侧重储存 vs 培育。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "warfare",
+      "word": "warfare",
+      "phonetic": "/'wɔ:fεə/",
+      "meaning": "n.战争(状态);斗争;冲突",
+      "similar": [
+        "welfare",
+        "hardware"
+      ],
+      "question": {
+        "wordId": "warfare",
+        "stem": "选择 \"warfare\" 的正确中文意思：",
+        "correct": "n.战争(状态);斗争;冲突",
+        "options": [
+          "n.福利；幸福；福利事业",
+          "n.五金,金属制品;硬件",
+          "ad.今后",
+          "n.战争(状态);斗争;冲突"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "warfare = war（战争）+ fare（行进，进行）→ 战争进行的过程或状态。核心动作是“进行战争”，强调持续性的军事冲突或对抗状态，而非单次战役。",
+        "similarWarning": "welfare（福利，welf-意为“好”+fare） vs warfare（war+fare）。注意首字母差异：welfare是“好+进行”，warfare是“战争+进行”。hardware（硬件，hard+ware）仅末尾拼写相似，无直接混淆风险。",
+        "extendedMeaning": "在考研语境中常引申为“激烈斗争、冲突”，不限于军事，如“class warfare”（阶级斗争）、“ideological warfare”（意识形态斗争）。",
+        "examUsage": "真题常考搭配：psychological warfare（心理战）、guerrilla warfare（游击战）。注意与war（战争）的区别：warfare强调方式或状态，war强调具体战争事件。"
+      }
+    },
+    {
+      "id": "warmth",
+      "word": "warmth",
+      "phonetic": "/wɔ:mθ/",
+      "meaning": "n.暖和,温暖;热心,热情",
+      "similar": [
+        "worth"
+      ],
+      "question": {
+        "wordId": "warmth",
+        "stem": "选择 \"warmth\" 的正确中文意思：",
+        "correct": "n.暖和,温暖;热心,热情",
+        "options": [
+          "n.一批,一组,一群",
+          "n.暖和,温暖;热心,热情",
+          "n.价值 a.值…的,价值…的,值得…的",
+          "n.零售"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自warm（温暖的）+ -th（名词后缀，表示状态或性质）。核心物理动作为‘提供或散发温暖’，引申为情感上的温暖。",
+        "similarWarning": "warm（adj.温暖的）vs warmth（n.温暖）: warmth是名词形式，强调状态。earth（n.地球）vs warmth: 拼写差异在于‘e’与‘w’及‘th’结尾。worth（n.价值）vs warmth: 拼写差异在于‘rth’与‘rmth’，发音不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "warn",
+      "word": "warn",
+      "phonetic": "/wɔ:n/",
+      "meaning": "vt.警告 vi.发出警告",
+      "similar": [
+        "barn",
+        "earn",
+        "ward",
+        "award",
+        "aware",
+        "dwarf",
+        "swarm",
+        "wagon"
+      ],
+      "question": {
+        "wordId": "warn",
+        "stem": "选择 \"warn\" 的正确中文意思：",
+        "correct": "vt.警告 vi.发出警告",
+        "options": [
+          "n.病房;行政区;监护;被监护人 vt.挡住",
+          "vt.警告 vi.发出警告",
+          "n.谷仓,仓库",
+          "v.赚得,挣得,获得"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*war-（注意、小心），核心动作是“使某人注意危险”。词根war-（注意）与ward（守卫）、aware（意识到的）同源。",
+        "similarWarning": "warn vs. warm: 差一个字母r，warn警告（危险），warm温暖（温度）。warn vs. ward: warn警告（动词），ward守卫（名词/动词）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "warrant",
+      "word": "warrant",
+      "phonetic": "/'wɔrənt/",
+      "meaning": "n.正当理由;许可证,委任状 v.保证,担保",
+      "similar": [
+        "arrogant",
+        "fragrant"
+      ],
+      "question": {
+        "wordId": "warrant",
+        "stem": "选择 \"warrant\" 的正确中文意思：",
+        "correct": "n.正当理由;许可证,委任状 v.保证,担保",
+        "options": [
+          "a.香的;芬芳的",
+          "n.震动;电击,触电;休克v.(使)震动/震惊",
+          "n.正当理由;许可证,委任状 v.保证,担保",
+          "a.傲慢的，自大的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自法语'warant'（担保人），与'guarantee'同源。核心动作是'提供保证或授权'，引申为'正当理由'（证明某行为合理的保证）和'许可证'（官方授权的书面保证）。",
+        "similarWarning": "arrogant（a.傲慢的）：ar-（向）+rog（要求）+ant，核心是'一再要求'，与warrant的'担保'无关；fragrant（a.芬芳的）：fragr（散发）+ant，核心是'散发香味'，注意拼写差异：warrant有双r和a，fragrant有f和g。",
+        "extendedMeaning": "熟词僻义：在考研阅读中，warrant可作动词表示'证明…正当'（如The situation warrants immediate action），而非仅指'保证'。",
+        "examUsage": "真题考点：常用于'warrant sth.'结构，表示'使…有必要'，如'The evidence warrants a further investigation'。干扰项常混淆warrant与guarantee（保证结果），注意warrant侧重理由的正当性，而非承诺。"
+      }
+    },
+    {
+      "id": "wash",
+      "word": "wash",
+      "phonetic": "/wɔʃ/",
+      "meaning": "n.洗；洗的衣物 vt.冲刷，洗；冲出 vi.洗澡",
+      "similar": [
+        "ash",
+        "cash",
+        "dash",
+        "lash",
+        "rash",
+        "clash",
+        "crash",
+        "flash"
+      ],
+      "question": {
+        "wordId": "wash",
+        "stem": "选择 \"wash\" 的正确中文意思：",
+        "correct": "n.洗；洗的衣物 vt.冲刷，洗；冲出 vi.洗澡",
+        "options": [
+          "v./n.冲,猛冲,突进 n.破折号",
+          "n.现金,现款 v.兑现,付(或收)现款",
+          "n.灰，灰末；(pl.)骨灰；(pl.)废墟",
+          "n.洗；洗的衣物 vt.冲刷，洗；冲出 vi.洗澡"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为古英语wascan，源自原始日耳曼语*watskanan，核心动作是‘用水移动污物’，即‘清洗’。引申为‘冲刷’‘冲出’（水携带物体移动）及‘洗的衣物’（被清洗的对象）。",
+        "similarWarning": "与cash(现金)、dash(猛冲)、lash(鞭打)、rash(鲁莽的)、crash(碰撞)等形近词区别：字母w替换为c/d/l/r/cr，词义完全不同。",
+        "extendedMeaning": "考研中常考‘冲刷’‘侵蚀’义，如‘waves wash the shore’（波浪冲刷海岸），或‘wash away’（冲走）的比喻用法（如‘wash away guilt’）。",
+        "examUsage": "固定搭配‘wash one's hands of’（洗手不干/脱离关系）在完形或阅读中可能作为考点，如‘He washed his hands of the project.’"
+      }
+    },
+    {
+      "id": "waste",
+      "word": "waste",
+      "phonetic": "/weist/",
+      "meaning": "v.浪费 a.无用的;荒芜的 n.浪费;废物",
+      "similar": [
+        "haste",
+        "paste",
+        "taste",
+        "castle",
+        "easter",
+        "fasten",
+        "waiter",
+        "base"
+      ],
+      "question": {
+        "wordId": "waste",
+        "stem": "选择 \"waste\" 的正确中文意思：",
+        "correct": "v.浪费 a.无用的;荒芜的 n.浪费;废物",
+        "options": [
+          "n.糊,浆糊 v.粘,贴",
+          "v.品尝;(of)有…味道;体验 n.滋味;味觉",
+          "v.浪费 a.无用的;荒芜的 n.浪费;废物",
+          "n.匆忙,急速;草率 v.赶快;匆忙"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根源于拉丁语'vastare'（使空、荒废），与'vast'（广阔的、大量的）同源。核心物理动作是“使某物变成空无或无用状态”，引申为“浪费”（使资源空耗）和“荒芜的”（土地空无生机）。",
+        "similarWarning": "haste（匆忙）、paste（粘贴）、taste（味道）：对比字母'h/p/t'差异，waste侧重“浪费/荒废”，haste指“快速”，paste指“糊状物/粘贴”，taste指“味道/品尝”。",
+        "extendedMeaning": "考研外刊中常出现“waste”作为动词的引申义“（因未充分利用而）丧失（机会/潜力）”，如“waste potential”（浪费潜力）；或名词义“（工业）废料/废弃物”，如“toxic waste”（有毒废料）。",
+        "examUsage": "真题考点：固定搭配“waste no time (in) doing sth.”（立即做某事，非字面“浪费时间”），如真题例句“He wasted no time in pursuing his dream.”（他立即着手追寻梦想。）注意与“waste time doing sth.”（浪费时间做某事）区分。"
+      }
+    },
+    {
+      "id": "watch",
+      "word": "watch",
+      "phonetic": "/wɔtʃ/",
+      "meaning": "v.观看;注视;看守;警戒 n.注视;手表;守护",
+      "similar": [
+        "batch",
+        "hatch",
+        "match",
+        "patch",
+        "witch",
+        "snatch",
+        "switch",
+        "arch"
+      ],
+      "question": {
+        "wordId": "watch",
+        "stem": "选择 \"watch\" 的正确中文意思：",
+        "correct": "v.观看;注视;看守;警戒 n.注视;手表;守护",
+        "options": [
+          "v.孵,孵出;策划,图谋 n.舱口,小门",
+          "v.观看;注视;看守;警戒 n.注视;手表;守护",
+          "n.一批,一组,一群",
+          "n.火柴;比赛,竞赛;对手,配偶 v.匹配,相称"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，但核心物理动作是‘用眼睛持续追踪移动目标’，引申为‘看守、警戒’（如watchman），名词‘手表’源于随身携带的计时器，需‘看’时间。",
+        "similarWarning": "watch vs. catch: watch为‘注视’（视觉持续），catch为‘捕捉’（手部动作）；watch vs. match: watch强调‘看’，match为‘匹配’（配对）；watch vs. witch: witch是‘女巫’，拼写仅差字母‘t’（watch有t，witch无）。",
+        "extendedMeaning": "考研僻义：'watch'作名词可表‘值班时段’（如night watch夜班），或‘警戒状态’（如keep watch放哨）；动词‘密切留意’（如watch for signs of recovery关注复苏迹象）。",
+        "examUsage": "真题考点：watch out for（小心提防）常考；搭配‘under watch’（在监视下）出现于阅读理解；例句：'The police kept a close watch on the suspect.'（警方密切监视嫌疑人。）"
+      }
+    },
+    {
+      "id": "waterfall",
+      "word": "waterfall",
+      "phonetic": "/'wɔ:təfɔ:l/",
+      "meaning": "n.瀑布",
+      "similar": [
+        "lateral",
+        "material"
+      ],
+      "question": {
+        "wordId": "waterfall",
+        "stem": "选择 \"waterfall\" 的正确中文意思：",
+        "correct": "n.瀑布",
+        "options": [
+          "n.商业,生意;事务,业务,职责",
+          "n.侧面的,旁边的",
+          "n.瀑布",
+          "n.材料,原料,资料a.物质的,肉体的,实质性的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "water（水）+fall（落下）→水落下→瀑布。复合词，由两个基础单词组合而成，直观描述水的垂直下落动作。",
+        "similarWarning": "lateral（侧面的，横向的）：waterfall强调垂直下落，lateral强调水平方向。material（材料，物质的）：与waterfall无直接语义关联，拼写差异在于m替换w、a替换a、t替换t、e替换e、r替换r、i替换f、a替换a、l替换l，注意waterfall中fall的f与l。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "waterproof",
+      "word": "waterproof",
+      "phonetic": "/'wɔ:təpru:f/",
+      "meaning": "a.防水的,耐水的",
+      "similar": [],
+      "question": {
+        "wordId": "waterproof",
+        "stem": "选择 \"waterproof\" 的正确中文意思：",
+        "correct": "a.防水的,耐水的",
+        "options": [
+          "n.(有关某一专题的)书目；参考书目",
+          "n.学费；(某一学科的)教学，讲授，指导",
+          "a.防水的,耐水的",
+          "ad.在城市的商业区 n./a.城市商业区(的)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "water（水）+ proof（防…的，来自拉丁语proba，意为“证明”，引申为“能抵抗…的”）→ 能抵抗水的 → 防水的",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中可引申为“无懈可击的，绝对的”（如waterproof argument意为“无懈可击的论点”），但此用法较少见，主要仍指物理防水。",
+        "examUsage": "常与coat/cover/jacket等名词搭配，表示“防水涂层/外套”。真题中可能作为形容词或动词（使防水）出现，如waterproof the tent。"
+      }
+    },
+    {
+      "id": "watt",
+      "word": "watt",
+      "phonetic": "/wɔt/",
+      "meaning": "n.瓦,瓦特",
+      "similar": [
+        "wait",
+        "want",
+        "await",
+        "waist",
+        "waste",
+        "watch"
+      ],
+      "question": {
+        "wordId": "watt",
+        "stem": "选择 \"watt\" 的正确中文意思：",
+        "correct": "n.瓦,瓦特",
+        "options": [
+          "vt.等候，期待；(事情等)降临于",
+          "n.瓦,瓦特",
+          "vt.想要;希望;需要;缺,缺少 n.需要;短缺",
+          "v.(for)等待；(on)侍候 n.等候，等待时间"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自苏格兰工程师James Watt（瓦特）的姓氏，以其在蒸汽机改进上的贡献命名功率单位。无词根词缀演变。",
+        "similarWarning": "wait（v.等待）：watt vs wait，末尾tt vs it。want（v.想要）：watt vs want，末尾tt vs nt。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "wave",
+      "word": "wave",
+      "phonetic": "/weiv/",
+      "meaning": "n.波浪;(挥手)示意;飘扬 v.(挥手)示意,致意",
+      "similar": [
+        "weave",
+        "cave",
+        "pave",
+        "save",
+        "wage",
+        "awake",
+        "aware",
+        "brave"
+      ],
+      "question": {
+        "wordId": "wave",
+        "stem": "选择 \"wave\" 的正确中文意思：",
+        "correct": "n.波浪;(挥手)示意;飘扬 v.(挥手)示意,致意",
+        "options": [
+          "n.波浪;(挥手)示意;飘扬 v.(挥手)示意,致意",
+          "v.编(织) n.编织法，编织式样",
+          "n.洞,穴",
+          "v.铺砌,铺(路)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "wave 源自古英语 wafian，意为“来回摆动”，核心物理动作为“起伏或摆动”。n.波浪（水面起伏）；挥手（手臂摆动）；飘扬（旗帜摆动）。v.挥手示意（用手臂摆动表达）。",
+        "similarWarning": "weave（编织，字母v后加e，动作是交织）；cave（洞穴，c开头，有凹陷）；have（有，h开头，表拥有）；pave（铺路，p开头，表铺设）；save（拯救，s开头，表保存）；wage（工资，g结尾，表报酬）；wake（醒来，k结尾，表唤醒）；awake（唤醒，a开头，表状态）。",
+        "extendedMeaning": "（考研僻义）n. 浪潮（如a wave of protests）；v. 飘扬（如flags wave in the wind）；n. 波（物理概念，如light wave）。",
+        "examUsage": "（真题考点）wave aside 对……置之不理（真题例句：He waved aside my objections. 他对我的反对置之不理。）"
+      }
+    },
+    {
+      "id": "wax",
+      "word": "wax",
+      "phonetic": "/wæks/",
+      "meaning": "n.蜡,蜂蜡 v.打蜡",
+      "similar": [
+        "fax",
+        "tax"
+      ],
+      "question": {
+        "wordId": "wax",
+        "stem": "选择 \"wax\" 的正确中文意思：",
+        "correct": "n.蜡,蜂蜡 v.打蜡",
+        "options": [
+          "n.税(款),负担 v.对…征税,使负重担",
+          "a.(fantastical)奇异的,幻想的,异想天开的",
+          "n.蜡,蜂蜡 v.打蜡",
+          "n./v.传真(机)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "wax 源自古英语 weax，本义为“蜂蜡”。其动词“打蜡”由名词直接转化而来，指在表面涂蜡以增加光泽或保护。核心物理动作是“涂抹或覆盖蜡状物”。",
+        "similarWarning": "fax (传真) vs wax (蜡)：首字母 f 与 w 不同，fax 是 facsimile 缩写，与通信相关；tax (税) vs wax：首字母 t 与 w 不同，tax 指政府征收的费用；war (战争) vs wax：中间字母 a 与 r 不同，war 指武装冲突；way (方式) vs wax：尾字母 y 与 x 不同，way 指路径或方法。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "wealth",
+      "word": "wealth",
+      "phonetic": "/welθ/",
+      "meaning": "n.财富,财产;大量",
+      "similar": [
+        "wealthy",
+        "health",
+        "healthy",
+        "wreath"
+      ],
+      "question": {
+        "wordId": "wealth",
+        "stem": "选择 \"wealth\" 的正确中文意思：",
+        "correct": "n.财富,财产;大量",
+        "options": [
+          "a.富有的,丰裕的,充分的 n.富人,有钱人",
+          "a.健康的,健壮的;有益健康的,卫生的",
+          "n.财富,财产;大量",
+          "n.健康,健康状况;卫生"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自古英语‘wela’（幸福、福祉），与‘well’（好）同源。核心物理动作：拥有良好状态→物质富足。词义演变：从‘个人福祉’具体化为‘财富、财产’，并引申出‘大量’（a wealth of）的抽象量级概念。",
+        "similarWarning": "wealth（财富） vs. health（健康） vs. wreath（花环）：wealth含‘w+ea’组合，health含‘h+ea’，wreath含‘wr+ea+th’，注意首字母差异及‘th’结尾的拼写混淆。",
+        "extendedMeaning": "考研常考‘大量、丰富’（a wealth of + 抽象名词，如a wealth of information/experience），非仅指金钱。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "wealthy",
+      "word": "wealthy",
+      "phonetic": "/'welθi/",
+      "meaning": "a.富有的,丰裕的,充分的 n.富人,有钱人",
+      "similar": [
+        "wealth",
+        "healthy",
+        "health"
+      ],
+      "question": {
+        "wordId": "wealthy",
+        "stem": "选择 \"wealthy\" 的正确中文意思：",
+        "correct": "a.富有的,丰裕的,充分的 n.富人,有钱人",
+        "options": [
+          "n.健康,健康状况;卫生",
+          "a.健康的,健壮的;有益健康的,卫生的",
+          "n.财富,财产;大量",
+          "a.富有的,丰裕的,充分的 n.富人,有钱人"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "wealth (财富, 源自古英语‘weala’=财产、福祉) + -y (形容词后缀, 表示‘充满…的’)。核心逻辑：充满财富的 → 富有的、丰裕的。",
+        "similarWarning": "wealthy vs. healthy: wealthy 侧重‘财富充裕’(wealth+ y), healthy 侧重‘身体健康’(health+ y)。拼写差异在于‘th’ vs. ‘lth’。",
+        "extendedMeaning": "考研僻义：作名词时，the wealthy 指‘富人群体’(如真题中‘the wealthy are getting richer’); 形容词可用于抽象领域，如‘wealthy in experience’(经验丰富的), 但非高频。",
+        "examUsage": "真题考点：常与‘affluent’(富裕的) 作为同义替换考查；固定搭配‘wealthy nations’(富国) 在阅读中与‘developing countries’对比。注意：不作动词或副词使用。"
+      }
+    },
+    {
+      "id": "weapon",
+      "word": "weapon",
+      "phonetic": "/'wepən/",
+      "meaning": "n.武器,兵器",
+      "similar": [
+        "wagon"
+      ],
+      "question": {
+        "wordId": "weapon",
+        "stem": "选择 \"weapon\" 的正确中文意思：",
+        "correct": "n.武器,兵器",
+        "options": [
+          "n.会诊医师,顾问医生;顾问",
+          "n.武器,兵器",
+          "n.运货马车,运货车;敞蓬车厢",
+          "n.沙;(pl.)沙滩,沙地"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古英语“wǣpen”，核心物理动作为“用于攻击或防御的工具”。词根与“战争”相关，强调其功能性而非具体形态。",
+        "similarWarning": "wagon（四轮马车，拼写差异‘-gon’ vs ‘-pon’）、reason（理由，首字母r- vs w-）、season（季节，首字母s- vs w-）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "weary",
+      "word": "weary",
+      "phonetic": "/'wiəri/",
+      "meaning": "a.疲倦的;令人厌烦的 v.使疲倦,使厌倦",
+      "similar": [
+        "nearby",
+        "yearly",
+        "ear",
+        "bear",
+        "earn",
+        "fear",
+        "gear",
+        "pear"
+      ],
+      "question": {
+        "wordId": "weary",
+        "stem": "选择 \"weary\" 的正确中文意思：",
+        "correct": "a.疲倦的;令人厌烦的 v.使疲倦,使厌倦",
+        "options": [
+          "n.耳，耳朵；听力，听觉；穗",
+          "a.每年的，一年一度的 ad.每年，一年一次地",
+          "a.附近的 ad.在附近 prep.在…附近",
+          "a.疲倦的;令人厌烦的 v.使疲倦,使厌倦"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语 wērig，与动词wear（磨损）同源。核心物理动作是‘被磨损耗尽’：身体或精神像衣物一样被长时间使用而变得疲惫。引申为‘令人厌烦的’，即持续消耗耐心导致厌倦。",
+        "similarWarning": "wear（v.穿；磨损）- 拼写差异：weary多一个字母y，核心区别在于weary是形容词/动词表‘疲惫’，wear是动词表‘穿戴/磨损’。nearby（a.附近的）- 拼写差异：weary含ear，nearby含ear+by，词义无关。",
+        "extendedMeaning": "考研熟词僻义：作动词时表‘使厌倦’，常见搭配weary of（对…感到厌倦），如真题中‘weary of the constant criticism’（对无休止的批评感到厌倦）。",
+        "examUsage": "真题考点：形容词weary常与of搭配（weary of sth.）作表语，表示‘厌倦的’，区别于tired of。动词用法weary sb.（使某人疲倦）在阅读中偶见，如‘The long journey wearied the travelers.’"
+      }
+    },
+    {
+      "id": "weave",
+      "word": "weave",
+      "phonetic": "/wi:v/",
+      "meaning": "v.编(织) n.编织法，编织式样",
+      "similar": [
+        "wave",
+        "heave",
+        "behave",
+        "heaven",
+        "twelve",
+        "eve",
+        "cave",
+        "ease"
+      ],
+      "question": {
+        "wordId": "weave",
+        "stem": "选择 \"weave\" 的正确中文意思：",
+        "correct": "v.编(织) n.编织法，编织式样",
+        "options": [
+          "v.编(织) n.编织法，编织式样",
+          "v.(用力)举，提，拉；扔；拖；呕吐n.举起",
+          "v.举止,举动,表现;运转,开动",
+          "n.波浪;(挥手)示意;飘扬 v.(挥手)示意,致意"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语wefan，核心物理动作为‘交织、穿梭’。词根与‘web（网）’同源，本质是经线和纬线相互穿插形成布匹的动作。",
+        "similarWarning": "wave（波浪，挥手）：w-ave vs weave：w-eave，区别在于中间元音ea和a，weave强调编织动作，wave强调波浪形态。heave（举起，喘息）：h-eave vs weave：w-eave，heave侧重于向上用力，weave侧重于交织。",
+        "extendedMeaning": "（考研中常引申为）‘编造、虚构（故事、借口等）’：to weave a tale/narrative，指精心构建一个复杂或虚假的叙述。",
+        "examUsage": "（按需省略：该词在考研真题中未出现高频特殊考点，故留空。）"
+      }
+    },
+    {
+      "id": "web",
+      "word": "web",
+      "phonetic": "/web/",
+      "meaning": "n.网,蜘蛛网",
+      "similar": [],
+      "question": {
+        "wordId": "web",
+        "stem": "选择 \"web\" 的正确中文意思：",
+        "correct": "n.网,蜘蛛网",
+        "options": [
+          "a.有名的,著名的",
+          "n.网,蜘蛛网",
+          "n.信任，相信，信念；信仰，信条",
+          "v.驱散;(使云、雾、疑虑等)消散;挥霍"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*web-，意为“编织”。核心物理动作是“用线交叉编织成网状结构”，如蜘蛛织网。",
+        "similarWarning": "we（我们）：拼写差字母b；wet（湿的）：拼写差字母b。web强调网状物，we为人称代词，wet为形容词。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "wedding",
+      "word": "wedding",
+      "phonetic": "/'wediŋ/",
+      "meaning": "n.婚礼",
+      "similar": [
+        "ending",
+        "heading",
+        "leading",
+        "reading",
+        "dwelling"
+      ],
+      "question": {
+        "wordId": "wedding",
+        "stem": "选择 \"wedding\" 的正确中文意思：",
+        "correct": "n.婚礼",
+        "options": [
+          "a.领导的,指导的;第一位的;最主要的",
+          "n.标题",
+          "n.婚礼",
+          "n.结尾,结局"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自古英语“weddian”（发誓、订婚），原指“结婚誓言”或“订婚仪式”。核心动作是“作出承诺”，后引申为“婚礼”这一仪式本身。词根“wed-”意为“誓言、承诺”，与“engage”（订婚）同源。",
+        "similarWarning": "ending（结束）、heading（标题）、leading（领导）、reading（阅读）、dwelling（住宅）。差异在于首字母或核心词根：wedding强调“誓言”动作，ending侧重“终结”，heading指“方向”，leading为“引导”，reading是“阅读”，dwelling指“居住”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "wedge",
+      "word": "wedge",
+      "phonetic": "/wedʒ/",
+      "meaning": "n.楔,楔形 vt.楔牢,楔入,挤进",
+      "similar": [
+        "edge",
+        "hedge",
+        "pledge",
+        "wage",
+        "badge",
+        "judge",
+        "lodge",
+        "merge"
+      ],
+      "question": {
+        "wordId": "wedge",
+        "stem": "选择 \"wedge\" 的正确中文意思：",
+        "correct": "n.楔,楔形 vt.楔牢,楔入,挤进",
+        "options": [
+          "n.篱笆,树篱,障碍物 v.用树篱围住",
+          "n.誓约;保证 v.发誓;保证",
+          "n.边,棱;刀口,刃 v.侧身移动,挤进",
+          "n.楔,楔形 vt.楔牢,楔入,挤进"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根与‘楔子’的物理动作相关，源自原始日耳曼语*wagjaz。核心动作是‘用尖锐物体插入并撑开或固定’，引申为‘挤入’或‘卡住’。",
+        "similarWarning": "wedge vs edge（边缘）：edge强调边界或锋利，如‘knife edge’；wedge强调插入或固定，如‘drive a wedge’。hedge（树篱）侧重遮挡，pledge（誓言）侧重承诺。",
+        "extendedMeaning": "考研僻义：作动词时，可表示‘强行插入或塞入’（如‘wedge oneself into a crowded bus’），或比喻‘挤占时间/空间’（如‘wedge in a meeting’）。",
+        "examUsage": "真题考点：常考搭配‘drive a wedge between’（挑拨离间），如‘The issue drove a wedge between the two allies.’；或‘wedge open’（楔开），如‘He wedged the door open with a book.’。"
+      }
+    },
+    {
+      "id": "wednesday",
+      "word": "Wednesday",
+      "phonetic": "/'wenzdei/",
+      "meaning": "n.星期三",
+      "similar": [
+        "weekday"
+      ],
+      "question": {
+        "wordId": "wednesday",
+        "stem": "选择 \"Wednesday\" 的正确中文意思：",
+        "correct": "n.星期三",
+        "options": [
+          "n.平常日,工作日",
+          "v.设计;构思;绘制;图案;企图 n.设计,图样",
+          "n.星期三",
+          "n.合同,条约,公约,协定"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自古英语 Wōdnesdæg，意为“沃登之日”（Woden's day）。Woden 是北欧神话中的主神奥丁（Odin），对应罗马神话中的墨丘利（Mercury），因此 Wednesday 对应拉丁语的 dies Mercurii（水星日）。词根 Wōd- 与“狂怒、灵感”相关，演变为现代英语的 wood（疯癫），但此处无需深究。核心记忆：沃登（奥丁）的日子。",
+        "similarWarning": "形近词对比：weekday（工作日，与 Wednesday 共享“day”但前缀不同；weekday 指周一至周五，而 Wednesday 特指周三）。拼写差异：Wednesday 含字母 d（源自 Woden），而 weekday 无此字母。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "weed",
+      "word": "weed",
+      "phonetic": "/wi:d/",
+      "meaning": "n.杂草,野草 v.除草,锄草",
+      "similar": [
+        "deed",
+        "feed",
+        "reed",
+        "seed",
+        "weep",
+        "weld",
+        "bleed",
+        "breed"
+      ],
+      "question": {
+        "wordId": "weed",
+        "stem": "选择 \"weed\" 的正确中文意思：",
+        "correct": "n.杂草,野草 v.除草,锄草",
+        "options": [
+          "n.杂草,野草 v.除草,锄草",
+          "n.芦苇,苇丛;芦笛,牧笛",
+          "n.行为,行动;功绩,事迹;证书；契据",
+          "v.(on,with)喂养,饲养;(with)向…供给"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "weed 源于古英语 'weod'，指杂草。核心动作是 'w'（弯曲）+ 'eed'（生长），形容杂草弯曲蔓延、肆意生长的形态。作为动词 '除草' 引申自清除这些无用植物。",
+        "similarWarning": "deed (行为) vs weed: d/w 开头差异，deed 指行为；feed (喂养) vs weed: f/w 开头差异，feed 指供给食物；need (需要) vs weed: n/w 开头差异，need 指需求；reed (芦苇) vs weed: r/w 开头差异，reed 指高大水生植物；seed (种子) vs weed: s/w 开头差异，seed 指繁殖体；week (周) vs weed: k/d 结尾差异，week 指时间单位；weep (哭泣) vs weed: p/d 结尾差异，weep 指流泪；weld (焊接) vs weed: l/d 结尾差异，weld 指金属连接。",
+        "extendedMeaning": "在考研阅读中，weed 可引申为 '清除、剔除'（如 weed out 淘汰劣质或无用之物），例如 'weed out inefficient employees'（淘汰低效员工）。",
+        "examUsage": "考点：'weed out' 为高频短语，意为 '淘汰、清除'。真题例句：'The company decided to weed out underperforming branches to improve profitability.'（公司决定淘汰表现不佳的分支机构以提高盈利能力。）"
+      }
+    },
+    {
+      "id": "weekday",
+      "word": "weekday",
+      "phonetic": "/'wi:kdeɪ/",
+      "meaning": "n.平常日,工作日",
+      "similar": [
+        "weekly",
+        "wednesday"
+      ],
+      "question": {
+        "wordId": "weekday",
+        "stem": "选择 \"weekday\" 的正确中文意思：",
+        "correct": "n.平常日,工作日",
+        "options": [
+          "n.平常日,工作日",
+          "a.每星期的,一周的ad.每周一次 n.周刊,周报",
+          "n.星期三",
+          "n.营养,营养学"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由week（周）+ day（日）复合而成，字面意为“一周中的日子”，与周末（weekend）相对，特指工作日或非休息日。",
+        "similarWarning": "weekly（每周的/周刊）与weekday拼写相近，但weekly强调频率或周期，而weekday强调具体日期属性；Wednesday（星期三）拼写差异在于首字母W和结尾-day，但Wednesday是具体某一天，weekday是类别概念。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "weekend",
+      "word": "weekend",
+      "phonetic": "/ˌwi:k'end/",
+      "meaning": "n.周末",
+      "similar": [],
+      "question": {
+        "wordId": "weekend",
+        "stem": "选择 \"weekend\" 的正确中文意思：",
+        "correct": "n.周末",
+        "options": [
+          "v.临时住宿,寄宿,寄存,容纳n.传达室,小旅馆",
+          "a.壮丽的,辉煌的;极好的",
+          "n.帆,航行 v.航行",
+          "n.周末"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由 'week'（周） + 'end'（末尾）组成，指一周的末尾，即周六和周日。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "weekly",
+      "word": "weekly",
+      "phonetic": "/'wi:kli/",
+      "meaning": "a.每星期的,一周的ad.每周一次 n.周刊,周报",
+      "similar": [
+        "weekday"
+      ],
+      "question": {
+        "wordId": "weekly",
+        "stem": "选择 \"weekly\" 的正确中文意思：",
+        "correct": "a.每星期的,一周的ad.每周一次 n.周刊,周报",
+        "options": [
+          "a.每星期的,一周的ad.每周一次 n.周刊,周报",
+          "vi.呼吁，恳求；申诉 n.呼吁；申诉；吸引力",
+          "n.平常日,工作日",
+          "v./n.泡沫,起泡沫"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "week（周）+ -ly（形容词/副词/名词后缀）→ 每周的/一周一次的/周刊",
+        "similarWarning": "weekend（周末） vs. weekly（每周的）：前者指时间点，后者指频率。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "weep",
+      "word": "weep",
+      "phonetic": "/wi:p/",
+      "meaning": "v.哭泣,流泪;滴下 n.哭泣",
+      "similar": [
+        "sweep",
+        "peep",
+        "weed",
+        "creep",
+        "sheep",
+        "steep",
+        "wheel"
+      ],
+      "question": {
+        "wordId": "weep",
+        "stem": "选择 \"weep\" 的正确中文意思：",
+        "correct": "v.哭泣,流泪;滴下 n.哭泣",
+        "options": [
+          "n.杂草,野草 v.除草,锄草",
+          "v.偷看,窥视",
+          "v.哭泣,流泪;滴下 n.哭泣",
+          "v.扫,打扫;席卷,冲光;扫过,掠过"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模仿哭泣时发出的声音，核心动作是流泪或滴水。",
+        "similarWarning": "sweep（v.打扫，扫除） vs weep：sweep 含 s-（扫的动作），weep 无 s-，核心为哭泣；deep（adj.深的） vs weep：deep 含 d-（向下），weep 无，仅为哭泣声；keep（v.保持） vs weep：keep 含 k-（抓握），weep 无；peep（v.窥视，发出吱吱声） vs weep：peep 含 p-（轻巧动作），weep 为哭泣；weed（n.杂草 v.除草） vs weep：weed 含 w-（植物），weep 无；week（n.星期） vs weep：week 含 -k（时间），weep 无；creep（v.爬行，蔓延） vs weep：creep 含 cr-（弯曲移动），weep 无；sheep（n.羊） vs weep：sheep 含 sh-（动物），weep 无。",
+        "extendedMeaning": "在文学或正式语境中可引申为“（树木等）滴下液体”，如“The branch wept sap.”（树枝滴下树液）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "weigh",
+      "word": "weigh",
+      "phonetic": "/wei/",
+      "meaning": "v.称…重量,称;重达;考虑,权衡",
+      "similar": [
+        "height",
+        "sigh",
+        "eight",
+        "reign",
+        "thigh",
+        "wedge",
+        "weird"
+      ],
+      "question": {
+        "wordId": "weigh",
+        "stem": "选择 \"weigh\" 的正确中文意思：",
+        "correct": "v.称…重量,称;重达;考虑,权衡",
+        "options": [
+          "num.八 pron.八(个，只...)",
+          "n.叹息,叹息声 v.叹息,叹气",
+          "n.高,高度;(常pl.)高地,高处",
+          "v.称…重量,称;重达;考虑,权衡"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源来自古英语wegan（移动、称重），核心物理动作是“抬起以测量重量”，引申为“权衡、考虑”的心智动作。",
+        "similarWarning": "weight（重量，名词） vs weigh（称重，动词）；height（高度） vs weigh（无直接拼写关联，仅形似）；reign（统治） vs weigh（字母差异：r vs w, ei vs ei, gn vs gh）。",
+        "extendedMeaning": "在考研中，weigh常考“权衡、考虑”的抽象义，如weigh the pros and cons；熟词僻义包括“有影响、有分量”，如His opinion weighs heavily with the committee。",
+        "examUsage": "真题考点：weigh in（参与讨论/发表意见），如Experts weighed in on the debate；weigh against（对…不利），如The evidence weighs against the defendant。"
+      }
+    },
+    {
+      "id": "weird",
+      "word": "weird",
+      "phonetic": "/wiəd/",
+      "meaning": "a.古怪的，离奇的；怪诞的，神秘而可怕的",
+      "similar": [
+        "heir",
+        "herd",
+        "ward",
+        "weed",
+        "weld",
+        "wire",
+        "beard",
+        "third"
+      ],
+      "question": {
+        "wordId": "weird",
+        "stem": "选择 \"weird\" 的正确中文意思：",
+        "correct": "a.古怪的，离奇的；怪诞的，神秘而可怕的",
+        "options": [
+          "n.病房;行政区;监护;被监护人 vt.挡住",
+          "n.群,兽群,牛群 v.放牧,群集",
+          "n.继承人",
+          "a.古怪的，离奇的；怪诞的，神秘而可怕的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语'wyrd'（命运），原指命运女神。词义演变：命运→命中注定→超自然→古怪离奇。核心动作：'wird'（变成），强调事物发展偏离常态，带有不可预测的宿命感。",
+        "similarWarning": "weird vs. wild：weird强调'怪异反常'（不合常理），wild强调'野生狂野'（不受约束）。weird vs. weed：weed是'杂草'，拼写差异在'd'与'rd'。",
+        "extendedMeaning": "在考研阅读中可表示'不可思议的、令人费解的'，尤指逻辑反常或现象超乎预期。如：The results were weirdly consistent.（结果出奇地一致。）",
+        "examUsage": "常见搭配：weird and wonderful（稀奇古怪的）。真题例句：The idea that we are living in a simulation is not just weird, it's a scientific hypothesis.（我们生活在模拟中的想法不仅离奇，更是一个科学假说。）"
+      }
+    },
+    {
+      "id": "welcome",
+      "word": "welcome",
+      "phonetic": "/'welkəm/",
+      "meaning": "int.欢迎 a.受欢迎的 vt./n.欢迎；迎接",
+      "similar": [
+        "become",
+        "overcome"
+      ],
+      "question": {
+        "wordId": "welcome",
+        "stem": "选择 \"welcome\" 的正确中文意思：",
+        "correct": "int.欢迎 a.受欢迎的 vt./n.欢迎；迎接",
+        "options": [
+          "v.战胜,克服",
+          "int.欢迎 a.受欢迎的 vt./n.欢迎；迎接",
+          "n.绷带 v.用绷带扎缚",
+          "vi.变成，开始变得vt.适合，同…相称"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "well（好）+ come（来）→ 好的到来 → 欢迎",
+        "similarWarning": "become（成为）：be+come，强调状态变化；overcome（克服）：over+come，强调跨越；welcome（欢迎）：well+come，强调好的到来",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "weld",
+      "word": "weld",
+      "phonetic": "/weld/",
+      "meaning": "v.焊接 n.焊接,焊缝",
+      "similar": [
+        "weed",
+        "dwell",
+        "swell",
+        "weird",
+        "yield"
+      ],
+      "question": {
+        "wordId": "weld",
+        "stem": "选择 \"weld\" 的正确中文意思：",
+        "correct": "v.焊接 n.焊接,焊缝",
+        "options": [
+          "n./v.肿胀;膨胀;增大;增加;",
+          "n.杂草,野草 v.除草,锄草",
+          "v.焊接 n.焊接,焊缝",
+          "v.住,居留"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不详，拟声词，模拟金属熔化后粘合的声音。核心物理动作是‘通过加热或加压使金属材料融合连接’，引申为‘紧密结合、团结’的动作。",
+        "similarWarning": "weed（杂草，n.），well（好，adv./n.），wild（野生的，adj.），dwell（居住，v.），field（田野，n.），swell（膨胀，v.），weird（怪异的，adj.），world（世界，n.）。差异在于首字母或尾字母不同，weld强调‘焊接’的物理连接，其他词义无直接关联。",
+        "extendedMeaning": "考研中可引申为‘使紧密结合、使成为一体’，如‘weld a team’（凝聚团队），‘weld diverse cultures’（融合不同文化）。",
+        "examUsage": "常考搭配：‘weld sth. together’（将...焊接在一起）。真题例句：‘The group is welded together by a common goal.’（这个群体因共同目标而团结一致。）注意与‘field’（领域）在语境中的区分。"
+      }
+    },
+    {
+      "id": "welfare",
+      "word": "welfare",
+      "phonetic": "/'welfεə/",
+      "meaning": "n.福利；幸福；福利事业",
+      "similar": [
+        "warfare"
+      ],
+      "question": {
+        "wordId": "welfare",
+        "stem": "选择 \"welfare\" 的正确中文意思：",
+        "correct": "n.福利；幸福；福利事业",
+        "options": [
+          "n.(laboratory)实验室",
+          "n.(工厂、办公室等)食堂或小卖部",
+          "n.战争(状态);斗争;冲突",
+          "n.福利；幸福；福利事业"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "well（好）+ fare（行进、状态）= 好的行进状态，即福利、幸福。",
+        "similarWarning": "warfare（战争）与welfare区别在war（战争）与wel（好），词义相反。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "well-known",
+      "word": "well-known",
+      "phonetic": "/'wel'nəun/",
+      "meaning": "a.有名的,著名的",
+      "similar": [],
+      "question": {
+        "wordId": "well-known",
+        "stem": "选择 \"well-known\" 的正确中文意思：",
+        "correct": "a.有名的,著名的",
+        "options": [
+          "a.有名的,著名的",
+          "v.使安心，使放心；使消除疑虑",
+          "n.厨师 v.烹调，烧煮；纂改(账目)，捏造",
+          "n.板球;蟋蟀"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "well（好地）+ known（被知道的）→ 被广泛知道且评价好 → 著名的。复合形容词，强调知名度与正面评价的结合。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "west",
+      "word": "west",
+      "phonetic": "/west/",
+      "meaning": "n./a.西,西方(的),西部(的) ad.向西",
+      "similar": [
+        "best",
+        "lest",
+        "nest",
+        "pest",
+        "vest",
+        "beast",
+        "chest",
+        "feast"
+      ],
+      "question": {
+        "wordId": "west",
+        "stem": "选择 \"west\" 的正确中文意思：",
+        "correct": "n./a.西,西方(的),西部(的) ad.向西",
+        "options": [
+          "n.窝,巢 v.筑巢",
+          "n./a.西,西方(的),西部(的) ad.向西",
+          "a.最好的(good和well最高级) ad.最好地；",
+          "conj.惟恐,免得"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *westr-，与拉丁语 vesper（傍晚）同源，因太阳在西方落下。核心物理动作为“太阳落下的方向”，直接表示“西”。",
+        "similarWarning": "wet（湿的）：west 含 s，指方向；wet 含 t，指湿润。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "western",
+      "word": "western",
+      "phonetic": "/'westən/",
+      "meaning": "a.西方的,西部的",
+      "similar": [
+        "stern",
+        "eastern"
+      ],
+      "question": {
+        "wordId": "western",
+        "stem": "选择 \"western\" 的正确中文意思：",
+        "correct": "a.西方的,西部的",
+        "options": [
+          "a.西方的,西部的",
+          "a.严厉的;坚决的,坚定的 n.船尾,舟尾",
+          "a.东方的,东部的",
+          "v.抵达;(out)伸手,够到 n.能达到的范围"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根west（西）+ -ern（形容词后缀，表方向），核心动作指向太阳落下的方向，即西方。",
+        "similarWarning": "stern（严厉的）：west与stern差异在首字母w/s，stern强调态度严肃；western侧重方位。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "whale",
+      "word": "whale",
+      "phonetic": "/hweil/",
+      "meaning": "n.鲸；庞然大物",
+      "similar": [
+        "inhale",
+        "half",
+        "halt",
+        "hate",
+        "male",
+        "pale",
+        "sale",
+        "tale"
+      ],
+      "question": {
+        "wordId": "whale",
+        "stem": "选择 \"whale\" 的正确中文意思：",
+        "correct": "n.鲸；庞然大物",
+        "options": [
+          "n.止步,停步,停止前进 v.止步,(使)停止",
+          "n.鲸；庞然大物",
+          "n.半，一半 a.一半的，不完全的 ad.一半地",
+          "v.吸入(气体等)，吸(烟)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自原始日耳曼语 *hwalaz，指大型海洋哺乳动物。核心意象为“巨大”，引申为庞然大物。",
+        "similarWarning": "while (当...时)：whale vs while，核心差异在末尾字母 -e vs -ile。whole (整个的)：whale vs whole，核心差异在末尾 -e vs -ole。inhale (吸入)：in + hale，与 whale 共享 -hale 拼写，但前缀 in- 改变词义。",
+        "extendedMeaning": "熟词僻义：作动词，意为“猛击，痛打”（非正式用法），如“They whaled the enemy.”（他们痛击敌人）。或指“大量消费”，如“whale through a meal.”（狼吞虎咽）。",
+        "examUsage": "常见于考研阅读科技类文章，指代“鲸鱼”或用于比喻“巨大之物”。注意：a whale of a time 意为“非常愉快的时光”，可能作为固定搭配干扰项出现。"
+      }
+    },
+    {
+      "id": "whatever",
+      "word": "whatever",
+      "phonetic": "/hwɔt'evə/",
+      "meaning": "pron.无论什么 a.无论什么样的",
+      "similar": [
+        "whatsoever",
+        "whoever",
+        "whenever",
+        "wherever",
+        "whichever",
+        "shatter",
+        "whether"
+      ],
+      "question": {
+        "wordId": "whatever",
+        "stem": "选择 \"whatever\" 的正确中文意思：",
+        "correct": "pron.无论什么 a.无论什么样的",
+        "options": [
+          "pron.无论什么 a.无论什么样的",
+          "ad.(用于否定句中以加强语气)任何",
+          "conj.无论何时,随时;每当",
+          "pron.[引导名词从句]谁；无论谁；究竟是谁"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由what（什么）+ ever（无论）复合而成，表示“无论什么”，强调无条件或任意性。",
+        "similarWarning": "whatsoever：比whatever语气更强，常用于否定句或疑问句后，如no...whatsoever。whoever（无论谁），whenever（无论何时），wherever（无论哪里），whichever（无论哪个），however（无论如何）。shatter（打碎）拼写相似但词义无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "whatsoever",
+      "word": "whatsoever",
+      "phonetic": "/ˌhwɔtsəu'evə/",
+      "meaning": "ad.(用于否定句中以加强语气)任何",
+      "similar": [
+        "whatever",
+        "whenever",
+        "wherever",
+        "whichever"
+      ],
+      "question": {
+        "wordId": "whatsoever",
+        "stem": "选择 \"whatsoever\" 的正确中文意思：",
+        "correct": "ad.(用于否定句中以加强语气)任何",
+        "options": [
+          "ad.(用于否定句中以加强语气)任何",
+          "pron.无论什么 a.无论什么样的",
+          "conj.无论何时,随时;每当",
+          "conj.无论在哪里 ad.无论在哪里,究竟在哪里"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由what + so + ever组合而成，字面义为‘无论是什么’。so作为中古英语强调成分，ever表示‘在任何情况下’，整体构成语气强化的不定代词，核心动作是‘全部包含、无一例外’的极致肯定或否定。",
+        "similarWarning": "whatever（无论什么）侧重选择或条件；whatsoever语气更强，通常用于否定句或疑问句后加强否定程度，如‘no...whatsoever’表示‘根本没有’。",
+        "extendedMeaning": "在考研阅读中常作形容词后置定语，修饰否定性名词，如‘no evidence whatsoever’（没有任何证据），强调绝对性，非字面‘任何’可直译为‘丝毫’。",
+        "examUsage": "固定搭配：no...whatsoever（完全否定），如真题例句‘There is no doubt whatsoever about it.’（对此毫无怀疑。）考点在于识别其加强否定的功能，避免与whatever混淆。"
+      }
+    },
+    {
+      "id": "wheat",
+      "word": "wheat",
+      "phonetic": "/hwi:t/",
+      "meaning": "n.小麦",
+      "similar": [
+        "cheat",
+        "threat",
+        "wreath",
+        "hat",
+        "beat",
+        "chat",
+        "feat",
+        "heal"
+      ],
+      "question": {
+        "wordId": "wheat",
+        "stem": "选择 \"wheat\" 的正确中文意思：",
+        "correct": "n.小麦",
+        "options": [
+          "n.花环,花圈",
+          "n.恐吓,威胁;坏兆头,危险迹象",
+          "n.小麦",
+          "v.欺骗;作弊 n.骗子;欺诈,欺骗行为"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自古英语 hwæte，与白色相关，指小麦的白色面粉或麦粒颜色。词根与 white 同源，核心物理动作为“白色的谷物”",
+        "similarWarning": "cheat（欺骗）：wheat 中 w 无声，cheat 首音不同；threat（威胁）：threat 有 r，wheat 无 r，拼写差异明显",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "wheel",
+      "word": "wheel",
+      "phonetic": "/hwi:l/",
+      "meaning": "n.轮,车轮",
+      "similar": [
+        "heel",
+        "heal",
+        "hell",
+        "peel",
+        "reel",
+        "weed",
+        "weep",
+        "cheek"
+      ],
+      "question": {
+        "wordId": "wheel",
+        "stem": "选择 \"wheel\" 的正确中文意思：",
+        "correct": "n.轮,车轮",
+        "options": [
+          "v.治愈,愈合",
+          "n.地狱,阴间;苦境,极大痛苦",
+          "n.脚后跟,踵,鞋跟",
+          "n.轮,车轮"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语hweol，原始印欧语根*kwel-（旋转，转动），核心物理动作为绕轴旋转的圆形物体。",
+        "similarWarning": "wheel vs heel（脚跟）：wh-与h-区别。wheel vs feel（感觉）：wh-与f-区别。wheel vs heal（治愈）：wh-与h-区别。wheel vs hell（地狱）：wh-与h-区别。wheel vs peel（剥皮）：wh-与p-区别。wheel vs reel（卷轴）：wh-与r-区别。wheel vs weed（杂草）：wh-与w-区别。wheel vs week（周）：wh-与w-区别。注意：wheel首字母wh-发/hw/音，其他词首字母发对应辅音。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "whenever",
+      "word": "whenever",
+      "phonetic": "/hwen'evə/",
+      "meaning": "conj.无论何时,随时;每当",
+      "similar": [
+        "wherever",
+        "whoever",
+        "whatever",
+        "whichever",
+        "whether",
+        "whatsoever"
+      ],
+      "question": {
+        "wordId": "whenever",
+        "stem": "选择 \"whenever\" 的正确中文意思：",
+        "correct": "conj.无论何时,随时;每当",
+        "options": [
+          "conj.无论何时,随时;每当",
+          "conj.无论在哪里 ad.无论在哪里,究竟在哪里",
+          "pron.[引导名词从句]谁；无论谁；究竟是谁",
+          "pron.无论什么 a.无论什么样的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "when（何时）+ ever（无论），构成复合连词，表示‘无论何时’或‘每当’。核心逻辑是强调时间上的无条件性，与wherever（无论何地）、whatever（无论什么）等属于同一构词模式。",
+        "similarWarning": "wherever（无论何地）与whenever仅首字母不同（wh-后ere/ene），前者表地点无条件，后者表时间无条件；whoever（无论谁）与whenever在拼写上差异较大，但常混用，注意主语与人称的区别。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "whereas",
+      "word": "whereas",
+      "phonetic": "/hwεə'æz/",
+      "meaning": "conj.而,却,反之",
+      "similar": [
+        "overseas",
+        "wherever"
+      ],
+      "question": {
+        "wordId": "whereas",
+        "stem": "选择 \"whereas\" 的正确中文意思：",
+        "correct": "conj.而,却,反之",
+        "options": [
+          "conj.无论在哪里 ad.无论在哪里,究竟在哪里",
+          "a.外国的,海外的 ad.在海外",
+          "conj.而,却,反之",
+          "n.脚后跟,踵,鞋跟"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "由where（在…处）和as（当…时）复合而成，本义为“在…的同时”，引申为对比关系“而、却、反之”。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": "常用于引出对比或转折，如‘Whereas some people like coffee, others prefer tea.’考研中常作为逻辑连接词，考查前后分句的对比关系。"
+      }
+    },
+    {
+      "id": "wherever",
+      "word": "wherever",
+      "phonetic": "/hwεə'evə/",
+      "meaning": "conj.无论在哪里 ad.无论在哪里,究竟在哪里",
+      "similar": [
+        "whenever",
+        "whoever",
+        "whatever",
+        "whichever",
+        "forever",
+        "whereas",
+        "whether",
+        "thereafter"
+      ],
+      "question": {
+        "wordId": "wherever",
+        "stem": "选择 \"wherever\" 的正确中文意思：",
+        "correct": "conj.无论在哪里 ad.无论在哪里,究竟在哪里",
+        "options": [
+          "pron.无论什么 a.无论什么样的",
+          "pron.[引导名词从句]谁；无论谁；究竟是谁",
+          "conj.无论何时,随时;每当",
+          "conj.无论在哪里 ad.无论在哪里,究竟在哪里"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由where（哪里）+ ever（无论）组合而成，字面即“无论哪里”，强调地点上的无条件性。ever作为后缀强化了任意性，与whenever（无论何时）、however（无论如何）同构。",
+        "similarWarning": "whenever（无论何时）、whoever（无论谁）、whatever（无论什么）、whichever（无论哪个）——这些词均以-ever结尾，区别在于前部疑问词不同，分别对应时间、人物、事物、选择。whereas（然而）虽形近但词义完全不同，表示对比。",
+        "extendedMeaning": "在考研阅读中可用作强调“任何地方”的副词，如“wherever possible”（只要可能的地方），或引导让步状语从句，如“Wherever he goes, he is welcome.”（他无论去哪里都受欢迎。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "whether",
+      "word": "whether",
+      "phonetic": "/'weðə/",
+      "meaning": "conj.是否，会不会，不管，无论",
+      "similar": [
+        "shepherd",
+        "whatever",
+        "whenever",
+        "wherever",
+        "wretched"
+      ],
+      "question": {
+        "wordId": "whether",
+        "stem": "选择 \"whether\" 的正确中文意思：",
+        "correct": "conj.是否，会不会，不管，无论",
+        "options": [
+          "conj.是否，会不会，不管，无论",
+          "n.牧民,牧羊人",
+          "pron.无论什么 a.无论什么样的",
+          "conj.无论何时,随时;每当"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "whether 源自古英语 hwæther（两个中的哪一个），由疑问词根 wh-（表疑问）与比较级后缀 -ther（表两者之一）构成。核心动作是“在两者间进行选择或判断”，引申为“是否”或“无论（两者中的任何一种情况）”。",
+        "similarWarning": "weather（天气，与 whether 差字母 a，拼写联想：wea+ther 表天气变化），shepherd（牧羊人，shep+herd 牧羊），wretched（可怜的，wretch+ed 悲惨的）。",
+        "extendedMeaning": "whether 在考研中常引导名词性从句（主语、宾语、表语从句），表示“是否”；在让步状语从句中表示“无论…还是…”，如 whether...or...。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "whichever",
+      "word": "whichever",
+      "phonetic": "/hwitʃ'evə/",
+      "meaning": "pron./a.无论哪个,无论哪些",
+      "similar": [
+        "whoever",
+        "whatever",
+        "whenever",
+        "wherever",
+        "whatsoever"
+      ],
+      "question": {
+        "wordId": "whichever",
+        "stem": "选择 \"whichever\" 的正确中文意思：",
+        "correct": "pron./a.无论哪个,无论哪些",
+        "options": [
+          "pron.[引导名词从句]谁；无论谁；究竟是谁",
+          "conj.无论何时,随时;每当",
+          "pron./a.无论哪个,无论哪些",
+          "pron.无论什么 a.无论什么样的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "由 'which'（哪个） + 'ever'（任何，无论） 组合而成，表示“无论哪个/哪些”。词源上 'which' 来自古英语 hwilc（哪个），'ever' 强调任意性，合起来强调在多个选项中不加限制的任意选择。",
+        "similarWarning": "与 whoever（无论谁）、whatever（无论什么）、whenever（无论何时）、wherever（无论哪里）、whatsoever（无论什么，加强语气）拼写结构相似，差异在于核心疑问词不同。whichever 专指“哪个/哪些”，用于有明确范围的选择；而 whoever 指人，whatever 指物，whenever 指时间，wherever 指地点。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "whip",
+      "word": "whip",
+      "phonetic": "/hwip/",
+      "meaning": "n.鞭子;车夫 v.鞭打,抽打;突然移动",
+      "similar": [
+        "hip",
+        "chip",
+        "whirl"
+      ],
+      "question": {
+        "wordId": "whip",
+        "stem": "选择 \"whip\" 的正确中文意思：",
+        "correct": "n.鞭子;车夫 v.鞭打,抽打;突然移动",
+        "options": [
+          "n.臀部，髋；屋脊",
+          "n.鞭子;车夫 v.鞭打,抽打;突然移动",
+          "v.(使)旋转,打转 n.旋转;-连串快速的活动",
+          "n.切屑,碎片;(土豆等的)薄片;集成电路块"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自中古英语wippen，拟声词，模拟鞭子在空中快速抽动发出的声音。核心动作是‘快速抽打’或‘突然移动’，引申为用鞭子击打或迅速、猛地移动某物。",
+        "similarWarning": "whip vs. ship: whip以wh开头，ship以sh开头，前者强调抽打动作，后者指船只。whip vs. chip: whip以wh开头，chip以ch开头，后者指碎片或芯片。whip vs. while: while为连词，表‘当…时’，与动作无关。",
+        "extendedMeaning": "在考研外刊中，whip可引申为‘快速促使’或‘激起’，如‘whip up enthusiasm’（激起热情）或‘whip through a task’（快速完成一项任务）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "whirl",
+      "word": "whirl",
+      "phonetic": "/hwə:l/",
+      "meaning": "v.(使)旋转,打转 n.旋转;-连串快速的活动",
+      "similar": [
+        "hire",
+        "hurl",
+        "whip",
+        "wire",
+        "chill",
+        "third",
+        "weird",
+        "wheel"
+      ],
+      "question": {
+        "wordId": "whirl",
+        "stem": "选择 \"whirl\" 的正确中文意思：",
+        "correct": "v.(使)旋转,打转 n.旋转;-连串快速的活动",
+        "options": [
+          "n./v.雇用,租借",
+          "vt.猛投，力掷；大声叫骂",
+          "v.(使)旋转,打转 n.旋转;-连串快速的活动",
+          "n.鞭子;车夫 v.鞭打,抽打;突然移动"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语hwyrfan（旋转），拟声词根模拟旋转时的风声或物体快速转动的声响。核心物理动作为绕轴心快速圆周运动，引申为混乱的连续活动。",
+        "similarWarning": "whip（鞭打：动作快速抽打） vs whirl（旋转：动作围绕圆心）。hurl（猛投：直线抛掷） vs whirl（旋转：圆周运动）。",
+        "extendedMeaning": "考研僻义：连续快速的活动、纷乱（a whirl of activity 一连串忙碌的活动）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "whisky",
+      "word": "whisky",
+      "phonetic": "/'hwiski/",
+      "meaning": "n.威士忌酒",
+      "similar": [],
+      "question": {
+        "wordId": "whisky",
+        "stem": "选择 \"whisky\" 的正确中文意思：",
+        "correct": "n.威士忌酒",
+        "options": [
+          "n.现实,实际;真实",
+          "n.靴刺,马刺;刺激,刺激物 v.刺激,激励",
+          "a.基本的,基础的",
+          "n.威士忌酒"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自盖尔语'uisce beatha'（生命之水），缩写为'uisce'，后英语化为'whisky'。核心物理动作是蒸馏提取，从谷物发酵液中蒸馏出酒精，象征通过加热蒸发再冷凝获取精华，与'water'同源但特指烈酒。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研外刊中可引申为'任何蒸馏烈酒'或比喻'刺激、兴奋之物'，如'whisky of success'（成功的刺激）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "whisper",
+      "word": "whisper",
+      "phonetic": "/'hwispə/",
+      "meaning": "v.耳语;私下说,偷偷告诉 n.耳语;传闻",
+      "similar": [],
+      "question": {
+        "wordId": "whisper",
+        "stem": "选择 \"whisper\" 的正确中文意思：",
+        "correct": "v.耳语;私下说,偷偷告诉 n.耳语;传闻",
+        "options": [
+          "vt.实现，完成；达到，得到vi.达到预期目的",
+          "v.(on,with)喂养,饲养;(with)向…供给",
+          "v.耳语;私下说,偷偷告诉 n.耳语;传闻",
+          "n.房东,地主"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟气流通过狭窄通道发出的轻柔嘶嘶声，核心物理动作为‘压低声音说话’或‘秘密传递信息’。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为‘（风、树叶等）发出沙沙声’或‘秘密流传（消息、谣言）’，如‘whisper campaign’（流言蜚语运动）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "whistle",
+      "word": "whistle",
+      "phonetic": "/'hwisl/",
+      "meaning": "n.口哨,汽笛;口哨声,汽笛声 v.吹口哨;鸣笛",
+      "similar": [],
+      "question": {
+        "wordId": "whistle",
+        "stem": "选择 \"whistle\" 的正确中文意思：",
+        "correct": "n.口哨,汽笛;口哨声,汽笛声 v.吹口哨;鸣笛",
+        "options": [
+          "n./a.恐慌(的),惊慌(的) vt.使惊慌,使害怕",
+          "n.口哨,汽笛;口哨声,汽笛声 v.吹口哨;鸣笛",
+          "n.报告人,通讯员;记者,报导者",
+          "n.火山"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "拟声词源，模仿吹口哨或汽笛发出的尖锐声音（whistle sound），直接对应动作与声音本身。",
+        "similarWarning": "while（当...时）、white（白色的）。whistle 含“stl”组合，而 while 和 white 无此结构，注意末尾字母差异。",
+        "extendedMeaning": "（考研中无高频僻义，留空）",
+        "examUsage": "（考研中无特殊考点，留空）"
+      }
+    },
+    {
+      "id": "whoever",
+      "word": "whoever",
+      "phonetic": "/hu:'evə/",
+      "meaning": "pron.[引导名词从句]谁；无论谁；究竟是谁",
+      "similar": [
+        "whatever",
+        "whenever",
+        "wherever",
+        "hover",
+        "whichever"
+      ],
+      "question": {
+        "wordId": "whoever",
+        "stem": "选择 \"whoever\" 的正确中文意思：",
+        "correct": "pron.[引导名词从句]谁；无论谁；究竟是谁",
+        "options": [
+          "conj.无论在哪里 ad.无论在哪里,究竟在哪里",
+          "conj.无论何时,随时;每当",
+          "pron.无论什么 a.无论什么样的",
+          "pron.[引导名词从句]谁；无论谁；究竟是谁"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由疑问代词who与-ever（无论，任何）组合而成，核心意为“无论谁”或“任何人”。-ever作为后缀强化了不确定性与普遍性，强调在任何情况下都适用。",
+        "similarWarning": "与whatever（无论什么）、whenever（无论何时）、wherever（无论哪里）、however（然而；无论怎样）、whichever（无论哪一个）结构相同，均为疑问词+ever，但词义由词根决定，注意区分：whoever指人，whatever指物，whenever指时间，wherever指地点，however指方式或转折。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "wholesome",
+      "word": "wholesome",
+      "phonetic": "/'həulsəm/",
+      "meaning": "a.卫生的;有益的;健康的,有益健康的",
+      "similar": [
+        "troublesome"
+      ],
+      "question": {
+        "wordId": "wholesome",
+        "stem": "选择 \"wholesome\" 的正确中文意思：",
+        "correct": "a.卫生的;有益的;健康的,有益健康的",
+        "options": [
+          "a.本地的,本国的;天生的 n.本地人,本国人",
+          "n.&v.(挖)沟，(挖)战壕",
+          "a.令人烦恼的,讨厌的",
+          "a.卫生的;有益的;健康的,有益健康的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "whole（完整、健康）+ -some（形容词后缀，表示“具有……性质的”）。核心意象：使整体保持完好、无损的状态，引申为“有益健康的、卫生的”。",
+        "similarWarning": "troublesome（麻烦的）：trouble（麻烦）+ -some，侧重“引起麻烦”；wholesome 侧重“促进健康”，差异在词根 whole vs trouble。",
+        "extendedMeaning": "在考研语境中可引申为“（道德上）有益的、健全的”，如 wholesome entertainment（健康有益的娱乐）。",
+        "examUsage": ""
+      }
+    }
+  ]
+}

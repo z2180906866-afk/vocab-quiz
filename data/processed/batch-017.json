@@ -1,0 +1,1810 @@
+{
+  "batchId": 17,
+  "words": [
+    {
+      "id": "concede",
+      "word": "concede",
+      "phonetic": "/kən'si:d/",
+      "meaning": "vt.承认；容许；(比赛结束前)认输；退让",
+      "similar": [
+        "coincide",
+        "conceive",
+        "conclude",
+        "concrete",
+        "conceal",
+        "concept",
+        "concern",
+        "concert"
+      ],
+      "question": {
+        "wordId": "concede",
+        "stem": "选择 \"concede\" 的正确中文意思：",
+        "correct": "vt.承认；容许；(比赛结束前)认输；退让",
+        "options": [
+          "vt.承认；容许；(比赛结束前)认输；退让",
+          "vi.同时发生；巧合；一致；相符；",
+          "v.(of)设想,构思,想象;以为;怀胎,怀有",
+          "v.结束,终止;断定,下结论;缔结,议定"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ cede（走，让步）→ 共同让步 → 承认对方观点或失败。本义为‘一起走开’，引申为‘在争论中退让’→‘承认’、‘认输’。",
+        "similarWarning": "coincide（共同+落下→巧合）、conceive（共同+拿取→构想）、conclude（共同+关闭→结论）、concrete（共同+生长→具体的）、conceal（共同+隐藏→隐藏）、concept（共同+拿取→概念）、concern（共同+筛→关心）、concert（共同+安排→音乐会）。差异主要在词根：cede（让步）vs. cide（落下）vs. ceive（拿取）vs. clude（关闭）vs. crete（生长）vs. ceal（隐藏）vs. cept（拿取）vs. cern（筛）vs. cert（安排）。",
+        "extendedMeaning": "在考研阅读中常引申为‘（在辩论中）勉强承认’或‘（在竞争中）认输’，如‘concede defeat’（承认失败）；还可表示‘容许’（concede a point），语气比admit更被动、更不情愿。",
+        "examUsage": "真题高频搭配：concede to（向…让步/承认），concede that（承认…）。例如：He had to concede that his proposal was flawed.（他不得不承认自己的提议有缺陷。）干扰项常与admit混淆，但concede更强调被迫性。"
+      }
+    },
+    {
+      "id": "conceive",
+      "word": "conceive",
+      "phonetic": "/kən'si:v/",
+      "meaning": "v.(of)设想,构思,想象;以为;怀胎,怀有",
+      "similar": [
+        "concede",
+        "concise",
+        "contrive",
+        "cognitive",
+        "cocaine",
+        "conceal",
+        "concept",
+        "concern"
+      ],
+      "question": {
+        "wordId": "conceive",
+        "stem": "选择 \"conceive\" 的正确中文意思：",
+        "correct": "v.(of)设想,构思,想象;以为;怀胎,怀有",
+        "options": [
+          "v.(of)设想,构思,想象;以为;怀胎,怀有",
+          "vt.谋划，策划；设法做到；设计，想出",
+          "vt.承认；容许；(比赛结束前)认输；退让",
+          "a.简明的,简洁的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ -ceive（取，拿，来自拉丁语capere“抓取”）。核心动作：共同抓取（想法）→ 在脑海中抓住并形成概念 → 设想、构思；引申为怀胎（抓住生命）。",
+        "similarWarning": "concede（con-共同+cede走→共同走开→让步）；conceive（共同抓取→构思）。区别：-ceive（抓）vs -cede（走）。",
+        "extendedMeaning": "考研僻义：1. 怀胎，怀孕（如conceive a child）；2. 认为，相信（如I conceive that...）。",
+        "examUsage": "考点：conceive of...as...（把...想象成...），真题中常考被动结构be conceived as（被视作）。"
+      }
+    },
+    {
+      "id": "concentrate",
+      "word": "concentrate",
+      "phonetic": "/'kɔnsəntreit/",
+      "meaning": "v.(on)集中,专心;浓缩 n.浓缩物",
+      "similar": [
+        "concentration",
+        "cooperate",
+        "penetrate",
+        "compensate",
+        "commemorate",
+        "considerate",
+        "contemplate"
+      ],
+      "question": {
+        "wordId": "concentrate",
+        "stem": "选择 \"concentrate\" 的正确中文意思：",
+        "correct": "v.(on)集中,专心;浓缩 n.浓缩物",
+        "options": [
+          "v.穿过,渗入,看穿",
+          "v.(with)合作,协作,相配合",
+          "n.专心，专注；集中，集结；浓度",
+          "v.(on)集中,专心;浓缩 n.浓缩物"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ centr-（中心）+ -ate（动词后缀）→ 共同聚集到中心 → 集中；引申为浓缩（使分散的物质聚集）。核心动作：向中心汇聚。",
+        "similarWarning": "concentrate（集中） vs. compensate（补偿，-pens-称重/支付） vs. contemplate（沉思，-templ-观察/神庙）。差异在根义：中心 vs. 称重 vs. 观察。",
+        "extendedMeaning": "考研僻义：作名词时指‘浓缩物’（如ore concentrate矿石精矿），但更常考动词的‘专注’义，如‘concentrate on’后接动名词。",
+        "examUsage": "真题考点：常与on搭配，如‘concentrate on doing sth.’（集中精力做某事）；干扰项常误用为‘concentrate to do’。例句：We must concentrate on improving efficiency.（我们必须集中精力提高效率。）"
+      }
+    },
+    {
+      "id": "concentration",
+      "word": "concentration",
+      "phonetic": "/ˌkɔnsən'treiʃən/",
+      "meaning": "n.专心，专注；集中，集结；浓度",
+      "similar": [
+        "concentrate",
+        "orientation",
+        "compensation",
+        "conservation",
+        "conversation",
+        "consideration",
+        "congratulation",
+        "combination"
+      ],
+      "question": {
+        "wordId": "concentration",
+        "stem": "选择 \"concentration\" 的正确中文意思：",
+        "correct": "n.专心，专注；集中，集结；浓度",
+        "options": [
+          "n.专心，专注；集中，集结；浓度",
+          "v.(on)集中,专心;浓缩 n.浓缩物",
+          "n.方向,方位,定位,倾向性,向东方",
+          "n.补偿(或赔偿)的款物；补偿，赔偿"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ centr-（中心）+ -ation（名词后缀）→ 共同聚到中心 → 集中、专注；化学领域引申为浓度（单位体积内粒子聚集程度）。",
+        "similarWarning": "concentrate（v.集中/浓缩） vs orientation（n.定向/适应） vs compensation（n.补偿/赔偿） vs conservation（n.保护/节约） vs conversation（n.对话） vs consideration（n.考虑） vs congratulation（n.祝贺） vs combination（n.结合）——注意词根差异：centr-（中心）vs orient-（东方/方向）vs pens-（支付）vs serv-（保持）vers-（转）sider-（星象）gratul-（喜悦）bin-（二）。",
+        "extendedMeaning": "考研僻义：浓度（化学/环境类阅读中高频出现，如‘the concentration of carbon dioxide’二氧化碳浓度）。",
+        "examUsage": "真题考点：固定搭配‘concentration on/upon’（专注于）常作题眼；‘concentration camp’（集中营）在历史类阅读中出现；‘concentration gradient’（浓度梯度）在科普文中涉及。"
+      }
+    },
+    {
+      "id": "concept",
+      "word": "concept",
+      "phonetic": "/'kɔnsept/",
+      "meaning": "n.概念，观念，设想",
+      "similar": [
+        "concert",
+        "contempt",
+        "conceal",
+        "concede",
+        "concern",
+        "connect",
+        "consent",
+        "content"
+      ],
+      "question": {
+        "wordId": "concept",
+        "stem": "选择 \"concept\" 的正确中文意思：",
+        "correct": "n.概念，观念，设想",
+        "options": [
+          "v.隐藏,隐瞒,隐蔽",
+          "n.轻视，藐视；受辱，丢脸",
+          "n.音乐会,演奏会;一齐,一致",
+          "n.概念，观念，设想"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+cept（拿取）。核心动作：把众多事物共同拿取到头脑中，形成抽象概括的产物——概念。",
+        "similarWarning": "对比：concept（概念）vs. concert（音乐会：con-共同+cert/唱）vs. contempt（轻视：con-加强+tempt/蔑视）vs. conceal（隐藏：con-完全+ceal/藏）vs. concede（承认：con-共同+cede/走）vs. concern（关心：con-完全+cern/筛分）vs. connect（连接：con-共同+nect/绑）vs. consent（同意：con-共同+sent/感觉）vs. content（内容/满足：con-共同+tent/持有）。核心差异在于词根：cept（拿）vs. cert/唱 vs. tempt vs. ceal vs. cede vs. cern vs. nect vs. sent vs. tent。",
+        "extendedMeaning": "考研中常引申为“构思、想法体系”，如“the concept of democracy”（民主观念体系），强调抽象框架而非具体定义。",
+        "examUsage": "真题考点：搭配“concept of...”作主语或宾语，常与抽象名词（如time, beauty, justice）连用，在阅读中作为主题词或观点对立的核心。干扰项常替换为“thought/idea/notion”，需辨析其系统性（concept更强调体系化概念）。"
+      }
+    },
+    {
+      "id": "concern",
+      "word": "concern",
+      "phonetic": "/kən'sɜ:n/",
+      "meaning": "v.涉及,关系到 v./n.关心 n.(利害)关系",
+      "similar": [
+        "concert",
+        "cancer",
+        "confer",
+        "conceal",
+        "concede",
+        "concept",
+        "condemn",
+        "convert"
+      ],
+      "question": {
+        "wordId": "concern",
+        "stem": "选择 \"concern\" 的正确中文意思：",
+        "correct": "v.涉及,关系到 v./n.关心 n.(利害)关系",
+        "options": [
+          "v.商讨；授予，颁给(勋衔，学位等)",
+          "n.癌",
+          "n.音乐会,演奏会;一齐,一致",
+          "v.涉及,关系到 v./n.关心 n.(利害)关系"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ cern（分开，筛选）→ 原义为“把分开的东西放在一起”，引申为“涉及、关系到”，再引申为“关心、担忧”。核心动作：将分散的注意力集中到某件事上。",
+        "similarWarning": "concert（音乐会；一致）：con-共同 + cert（确定）→ 共同确定→一致；concern强调“涉及/关心”，concert强调“协调/表演”。",
+        "extendedMeaning": "n. 关切的事，重要的事（如：a matter of concern 重要的事）；v. 使担忧（如：It concerns me that... 令我担心的是...）。",
+        "examUsage": "考研高频搭配：as far as...be concerned（就……而言）；be concerned with（涉及，关于）；concern oneself with/in（参与，关心）。真题常考“涉及”义，注意区分concern与involve。"
+      }
+    },
+    {
+      "id": "concerning",
+      "word": "concerning",
+      "phonetic": "/kən'sə:niŋ/",
+      "meaning": "prep.关于，论及",
+      "similar": [
+        "conceive",
+        "constrain",
+        "concession",
+        "convenient",
+        "conversion"
+      ],
+      "question": {
+        "wordId": "concerning",
+        "stem": "选择 \"concerning\" 的正确中文意思：",
+        "correct": "prep.关于，论及",
+        "options": [
+          "v.(of)设想,构思,想象;以为;怀胎,怀有",
+          "vt.限制，约束；克制，抑制",
+          "prep.关于，论及",
+          "n.让步，妥协；特许(权)；"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根：cern（分开，筛选）→ con-（共同）+ cern（筛选）+ -ing（形容词/介词后缀）。本义为“共同筛选”，引申为“涉及，关于”，强调事物之间的关联性。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "concert",
+      "word": "concert",
+      "phonetic": "/kən'sə:t/",
+      "meaning": "n.音乐会,演奏会;一齐,一致",
+      "similar": [
+        "concept",
+        "concern",
+        "convert",
+        "cancer",
+        "confer",
+        "conceal",
+        "concede",
+        "connect"
+      ],
+      "question": {
+        "wordId": "concert",
+        "stem": "选择 \"concert\" 的正确中文意思：",
+        "correct": "n.音乐会,演奏会;一齐,一致",
+        "options": [
+          "n.音乐会,演奏会;一齐,一致",
+          "n.概念，观念，设想",
+          "v.变换,转换；改变（信仰等）；兑换（钱）",
+          "v.涉及,关系到 v./n.关心 n.(利害)关系"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语concertare，由com-（一起）+certare（竞争、战斗）组成，原意是“一起竞争、共同行动”，后引申为“协调一致”，进而衍生出“音乐会”这一多人共同演奏的场合。核心物理动作：多人朝同一目标行动。",
+        "similarWarning": "concept（概念）：-cept表“拿”，与“共同竞争”无关；concern（关心）：-cern表“分开”，与“一致”相反；convert（转变）：-vert表“转”；contrast（对比）：-st表“站”，强调对立。",
+        "extendedMeaning": "考研常考“一致、协调”的抽象义，如in concert with（与…一致/合作），而非仅“音乐会”。",
+        "examUsage": "in concert (with) 为高频考点，例：The team worked in concert to achieve the goal.（团队协作达成目标。）真题中常作为“一致行动”的题眼。"
+      }
+    },
+    {
+      "id": "concession",
+      "word": "concession",
+      "phonetic": "/kən'seʃən/",
+      "meaning": "n.让步，妥协；特许(权)；",
+      "similar": [
+        "conclusion",
+        "conversion",
+        "confusion",
+        "obsession",
+        "commission",
+        "compassion",
+        "connection",
+        "convention"
+      ],
+      "question": {
+        "wordId": "concession",
+        "stem": "选择 \"concession\" 的正确中文意思：",
+        "correct": "n.让步，妥协；特许(权)；",
+        "options": [
+          "n.困惑，糊涂；混淆；混乱，骚乱",
+          "n.结论，推论；结尾；缔结，议定",
+          "n.转变，转换；信仰的改变；",
+          "n.让步，妥协；特许(权)；"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ cess（走，移动，cedere的过去分词形式）+ -ion（名词后缀）。核心动作：共同走开/退让。即双方各退一步，达成妥协；引申为在特定领域允许他人进入或经营（特许权）。",
+        "similarWarning": "concession vs. conclusion（con-共同+clus-关闭+ion，共同关闭→结论）；conversion（con-共同+vers-转+ion，共同转变→转换）；confusion（con-共同+fus-流+ion，共同流动→混乱）；obsession（ob-反+ sess-坐+ion，反向坐着→执念）；commission（com-共同+miss-送+ion，共同送出→委员会/佣金）；compassion（com-共同+pass-承受+ion，共同承受→同情）；connection（con-共同+ nect-绑+ion，绑在一起→连接）；convention（con-共同+vent-来+ion，共同来→大会/惯例）",
+        "extendedMeaning": "在考研外刊中常指‘政府给予的特定经营许可或土地开发权’，如oil concession（石油开采特许权）；也表‘退让’（尤指谈判中为达成协议而做的让步），如mutual concession（相互让步）。",
+        "examUsage": "真题常考搭配：make a concession（做出让步）；grant a concession（授予特许权）。干扰项设计常与commission（委员会/佣金）、conversion（转换）混用，注意词根cess（走）与miss（送）、vers（转）的区分。"
+      }
+    },
+    {
+      "id": "concise",
+      "word": "concise",
+      "phonetic": "/kən'sais/",
+      "meaning": "a.简明的,简洁的",
+      "similar": [
+        "coincide",
+        "conceive",
+        "concede",
+        "confine",
+        "confuse",
+        "consist",
+        "reconcile",
+        "comprise"
+      ],
+      "question": {
+        "wordId": "concise",
+        "stem": "选择 \"concise\" 的正确中文意思：",
+        "correct": "a.简明的,简洁的",
+        "options": [
+          "vi.同时发生；巧合；一致；相符；",
+          "vt.承认；容许；(比赛结束前)认输；退让",
+          "v.(of)设想,构思,想象;以为;怀胎,怀有",
+          "a.简明的,简洁的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 con-（一起）+cis-（切，来自拉丁语caedere“切”），字面“把多余的部分切掉”，引申为“简明的、简洁的”。核心物理动作是“切割”，强调去除冗余后留下的精华。",
+        "similarWarning": "形近词辨析：\n- concise（简洁的）：con（一起）+cis（切）+e，切掉多余。\n- concede（承认）：con（一起）+cede（走），一起走→让步→承认。\n- coincide（巧合）：co（共同）+in（进入）+cide（切），共同切入→同时发生。\n- confine（限制）：con（一起）+fin（界限），使共处于界限内。\n- confuse（混淆）：con（一起）+fuse（流），流到一起→混乱。\n- consist（组成）：con（一起）+sist（站），站在一起。\n- reconcile（和解）：re（再次）+con（一起）+cil（召集），再次召集→调和。\n- comprise（包含）：com（一起）+prise（拿），拿到一起。\n核心差异：cis（切）vs. cede/ceed（走）vs. cide（切/杀）vs. fin（界限）vs. fuse（流）vs. sist（站）vs. cil（召集）vs. prise（拿）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "conclude",
+      "word": "conclude",
+      "phonetic": "/kən'klu:d/",
+      "meaning": "v.结束,终止;断定,下结论;缔结,议定",
+      "similar": [
+        "concede",
+        "include",
+        "collide",
+        "concise",
+        "confuse",
+        "consume",
+        "exclude",
+        "coincide"
+      ],
+      "question": {
+        "wordId": "conclude",
+        "stem": "选择 \"conclude\" 的正确中文意思：",
+        "correct": "v.结束,终止;断定,下结论;缔结,议定",
+        "options": [
+          "v.包括,包含,计入",
+          "v.结束,终止;断定,下结论;缔结,议定",
+          "vt.承认；容许；(比赛结束前)认输；退让",
+          "vi.[with]互撞，碰撞；冲突，抵触"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "con-（共同，一起）+ clud（关闭，闭合）+ -e（动词后缀）→ 共同关闭 → 结束；引申为“下结论”（关闭讨论）、“缔结”（关闭协议）。核心动作：将事物闭合在一起。",
+        "similarWarning": "conclude（结束，结论）vs. include（包含，in-向内+clud）vs. exclude（排除，ex-向外+clud）vs. concede（让步，con-共同+ced走，侧重退让承认）vs. collide（碰撞，col-共同+lid撞击）vs. concise（简洁的，con-共同+cis切，切掉冗余）vs. confuse（混淆，con-共同+fus灌注，混在一起）vs. consume（消耗，con-共同+sum拿取）vs. coincide（巧合，co-共同+in-在+cid落，同时落下）。核心差异在词根：clud（关）、ced（走）、lid（撞）、cis（切）、fus（灌）、sum（拿）、cid（落）。",
+        "extendedMeaning": "考研真题中常考“推断，得出结论”的逻辑衔接义，如：From the passage we can conclude that...（从文中可推断出...），并非简单“结束”。",
+        "examUsage": "高频搭配：conclude a contract（缔结合同），conclude from...that...（从...得出结论）。真题中常作为观点总结信号词，与draw a conclusion同义替换。"
+      }
+    },
+    {
+      "id": "conclusion",
+      "word": "conclusion",
+      "phonetic": "/kən'klu:ʒən/",
+      "meaning": "n.结论，推论；结尾；缔结，议定",
+      "similar": [
+        "confusion",
+        "concession",
+        "collision",
+        "conversion",
+        "conclude",
+        "illusion",
+        "solution",
+        "coalition"
+      ],
+      "question": {
+        "wordId": "conclusion",
+        "stem": "选择 \"conclusion\" 的正确中文意思：",
+        "correct": "n.结论，推论；结尾；缔结，议定",
+        "options": [
+          "n.结论，推论；结尾；缔结，议定",
+          "n.困惑，糊涂；混淆；混乱，骚乱",
+          "n.让步，妥协；特许(权)；",
+          "n.碰撞；(利益，意见等的)冲突，抵触"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ clus（关闭，来自拉丁语claudere“关闭”）+ -ion（名词后缀）。字面义为“共同关闭”，引申为“结束、总结”，即把讨论或过程“关闭”在一起形成结论。",
+        "similarWarning": "confusion（混乱，con-+fus-倾倒）与conclusion仅一字之差（-fus- vs -clus-），前者强调“混淆、无序”，后者强调“终结、定论”；concession（让步，con-+cess-走）指“退让”，conclusion是“结束”。",
+        "extendedMeaning": "在考研阅读中常考“in conclusion”（最后，总之），以及“draw/reach a conclusion”（得出结论），但僻义“缔结，议定”（如conclusion of a treaty）也出现。",
+        "examUsage": "考点搭配：jump to a conclusion（草率下结论），真题中常作为干扰项，要求区分“结论”与“假设”或“事实”。"
+      }
+    },
+    {
+      "id": "concrete",
+      "word": "concrete",
+      "phonetic": "/kən'kri:t/",
+      "meaning": "a.具体的,实质性的n.混凝土v.用混凝土修筑",
+      "similar": [
+        "concede",
+        "compete",
+        "conceal",
+        "concept",
+        "concern",
+        "concert",
+        "concise",
+        "complete"
+      ],
+      "question": {
+        "wordId": "concrete",
+        "stem": "选择 \"concrete\" 的正确中文意思：",
+        "correct": "a.具体的,实质性的n.混凝土v.用混凝土修筑",
+        "options": [
+          "a.具体的,实质性的n.混凝土v.用混凝土修筑",
+          "vi.比赛；竞争；对抗",
+          "vt.承认；容许；(比赛结束前)认输；退让",
+          "v.隐藏,隐瞒,隐蔽"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "con-（共同，一起）+ -crete-（生长，制造，源自拉丁语crescere“生长”）。字面意为“生长在一起，凝结成块”。物理动作是“多种物质混合后固化为一体”，由此引申为“具体的、有形的”事物，与抽象相对。",
+        "similarWarning": "concede（让步）: concede = con- + cede（走，让与）；concrete = con- + crete（生长）。区别在于词根-cede-与-crete-。",
+        "extendedMeaning": "在考研外刊中，concrete作形容词常引申为“确凿的、实在的”，如concrete evidence（确凿证据）；作名词常喻指“具体事物”，如move from abstract to concrete（从抽象到具体）。",
+        "examUsage": "高频考点：concrete作名词“混凝土”时，常与construction搭配；作形容词时，与abstract相对，用于学术写作中强调具体性。真题例句：\"She had no concrete evidence.\"（她没有任何确凿的证据。）"
+      }
+    },
+    {
+      "id": "condemn",
+      "word": "condemn",
+      "phonetic": "/kən'dem/",
+      "meaning": "v.谴责,指责;判刑,宣告有罪",
+      "similar": [
+        "concern",
+        "condense",
+        "contempt"
+      ],
+      "question": {
+        "wordId": "condemn",
+        "stem": "选择 \"condemn\" 的正确中文意思：",
+        "correct": "v.谴责,指责;判刑,宣告有罪",
+        "options": [
+          "v.(使)冷凝，(使)凝结；浓缩，压缩，简缩",
+          "n.轻视，藐视；受辱，丢脸",
+          "v.涉及,关系到 v./n.关心 n.(利害)关系",
+          "v.谴责,指责;判刑,宣告有罪"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由前缀com-（共同，加强）与拉丁词根demn-（伤害，惩罚）组成。核心物理动作为“共同施加惩罚”，引申为公开指责或法律上的判刑。",
+        "similarWarning": "形近词对比：\n- condemn vs. concern（cern-“分离”，关心）\n- condemn vs. condense（dens-“密集”，浓缩）\n- condemn vs. contempt（tempt-“蔑视”，轻视）\n差异在词根，condemn强调谴责/判刑，concern关注，condense压缩，contempt蔑视。",
+        "extendedMeaning": "熟词僻义：在考研真题中可引申为“迫使接受不愉快的事物”，如“condemn sb. to a life of poverty”（使某人陷入贫困生活），非字面谴责。",
+        "examUsage": "真题考点：常考搭配“condemn sb. to death”（判死刑）及被动结构“be condemned for”（因...被谴责）。干扰项常涉及“blame”（责备，非法律判刑）、“sentence”（判刑，但为法律术语，condemn更强调道德谴责）。"
+      }
+    },
+    {
+      "id": "condense",
+      "word": "condense",
+      "phonetic": "/kən'dens/",
+      "meaning": "v.(使)冷凝，(使)凝结；浓缩，压缩，简缩",
+      "similar": [
+        "nonsense",
+        "confidence",
+        "consensus",
+        "concede",
+        "concise",
+        "condemn",
+        "confess",
+        "confine"
+      ],
+      "question": {
+        "wordId": "condense",
+        "stem": "选择 \"condense\" 的正确中文意思：",
+        "correct": "v.(使)冷凝，(使)凝结；浓缩，压缩，简缩",
+        "options": [
+          "n.(意见等的)一致，一致同意，共识",
+          "n.(in)信任;信心,自信;秘密,机密",
+          "n.胡说,废话",
+          "v.(使)冷凝，(使)凝结；浓缩，压缩，简缩"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 con-（共同）+ dense（密集的）→ 使分子紧密聚集在一起 → 冷凝、凝结；引申为将内容紧密压缩 → 浓缩、简缩。本源动作：粒子相互靠近，密度增大。",
+        "similarWarning": "形近词对比：\n- concise（adj. 简明的）：源于 con- + cise（切），强调“切掉多余部分”，侧重表达简洁；condense 侧重通过压缩使体积变小或浓度变高。\n- condemn（v. 谴责）：源于 con- + demn（伤害），与“凝结”无关。\n- confess（v. 承认）：源于 con- + fess（说），与“压缩”无关。",
+        "extendedMeaning": "考研僻义：在科技或学术语境中，condense 可表示“（光、声等）聚焦”或“（信息）高度概括”，如 condense a long report into a summary（将长报告浓缩成摘要）。",
+        "examUsage": "真题考点：常考搭配 condense...into...（把...压缩/简缩成...）。阅读理解中可能作为“总结概括”的同义替换词，与 summarize, compress 形成近义干扰。"
+      }
+    },
+    {
+      "id": "condition",
+      "word": "condition",
+      "phonetic": "/kən'diʃən/",
+      "meaning": "n.条件，状况，环境 vt.决定；支配；训练",
+      "similar": [
+        "conviction",
+        "coalition",
+        "connection",
+        "convention",
+        "foundation",
+        "edition",
+        "addition",
+        "collision"
+      ],
+      "question": {
+        "wordId": "condition",
+        "stem": "选择 \"condition\" 的正确中文意思：",
+        "correct": "n.条件，状况，环境 vt.决定；支配；训练",
+        "options": [
+          "n.条件，状况，环境 vt.决定；支配；训练",
+          "n.深信,确信；定罪，判罪；",
+          "n.(connexion)联系,连接；亲戚，社会关系",
+          "n.结合体，同盟；结合，联合"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：con-（共同）+ dict-（说）+ -ion（名词后缀）。核心动作是“共同说”，引申为“共同约定的条款”（条件），进而衍生为“所处的状态或环境”。",
+        "similarWarning": "conviction（定罪；信念）<con+vict+ion> vs condition<con+dict+ion>，注意dict（说）与vict（征服）的字母差异；coalition（联盟）<co+al+ition> vs condition，注意coal与cond的拼写区别。",
+        "extendedMeaning": "v.决定；支配（常接that从句或to do，如：circumstances condition our choices 环境支配我们的选择）；n.（社会）地位（如：people of every condition 各阶层人士）",
+        "examUsage": "真题考点：on condition that（在……条件下，引导虚拟语气从句），如：He was allowed to go on condition that he finish his homework. 注意与on the condition that的混用。"
+      }
+    },
+    {
+      "id": "conduct",
+      "word": "conduct",
+      "phonetic": "/'kɔndʌkt/",
+      "meaning": "n.行为,品行 v.引导;管理;指挥(乐队);传导",
+      "similar": [
+        "conductor",
+        "connect",
+        "consult",
+        "contact",
+        "convict",
+        "construct",
+        "conflict",
+        "conquest"
+      ],
+      "question": {
+        "wordId": "conduct",
+        "stem": "选择 \"conduct\" 的正确中文意思：",
+        "correct": "n.行为,品行 v.引导;管理;指挥(乐队);传导",
+        "options": [
+          "n.管理者；(汽车)售票员；领队；导体",
+          "v.请教，向...咨询，找...商量；查阅，查看",
+          "n.行为,品行 v.引导;管理;指挥(乐队);传导",
+          "vt.连接；与…联系，接通(电话) vi.连接"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ duct（引导）→ 共同引导 → 引导、管理；行为（被引导的方式）",
+        "similarWarning": "conduct vs. convict: conduct（引导）含 duct（引导），convict（定罪）含 vict（征服）；connect（连接）含 nect（绑），与 conduct 仅差字母 p 与 c",
+        "extendedMeaning": "v. 指挥（乐队）；传导（热、电）",
+        "examUsage": "code of conduct 行为准则（真题高频搭配）"
+      }
+    },
+    {
+      "id": "conductor",
+      "word": "conductor",
+      "phonetic": "/kən'dʌktə/",
+      "meaning": "n.管理者；(汽车)售票员；领队；导体",
+      "similar": [
+        "conduct",
+        "conjunction",
+        "connection",
+        "conviction"
+      ],
+      "question": {
+        "wordId": "conductor",
+        "stem": "选择 \"conductor\" 的正确中文意思：",
+        "correct": "n.管理者；(汽车)售票员；领队；导体",
+        "options": [
+          "n.管理者；(汽车)售票员；领队；导体",
+          "n.(connexion)联系,连接；亲戚，社会关系",
+          "n.接合，连接，联合；连(接)词",
+          "n.行为,品行 v.引导;管理;指挥(乐队);传导"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "con-=共同，duct-=引导，-or表人/物。核心动作：共同引导。引申为引导电流的物体（导体）、引导人群的人（领队/售票员）、引导组织运作的人（管理者）。",
+        "similarWarning": "conduct（v.指挥，行为） vs conductor：conductor是名词，指人或物；conduct是动词或名词（行为）。conjunction（n.连接，连词） vs conductor：conjunction强调连接关系，conductor强调引导功能。connection（n.连接，联系） vs conductor：connection侧重抽象或具体连接，conductor侧重引导角色。conviction（n.定罪，信念） vs conductor：拼写差异大，conviction源自convince。",
+        "extendedMeaning": "考研中常考“导体”义，如“a good conductor of heat/electricity”；“管理者”义在阅读中偶见，如“orchestra conductor”（乐队指挥）。",
+        "examUsage": "真题常见搭配：\"lightning conductor\"（避雷针，引申为招致批评的人/物）；\"semiconductor\"（半导体，高频科技词汇）。"
+      }
+    },
+    {
+      "id": "confer",
+      "word": "confer",
+      "phonetic": "/kən'fə:/",
+      "meaning": "v.商讨；授予，颁给(勋衔，学位等)",
+      "similar": [
+        "concern",
+        "concert",
+        "confess",
+        "confirm",
+        "conform",
+        "conquer",
+        "convert",
+        "counter"
+      ],
+      "question": {
+        "wordId": "confer",
+        "stem": "选择 \"confer\" 的正确中文意思：",
+        "correct": "v.商讨；授予，颁给(勋衔，学位等)",
+        "options": [
+          "v.商讨；授予，颁给(勋衔，学位等)",
+          "v.供认，承认，坦白，忏悔",
+          "v.涉及,关系到 v./n.关心 n.(利害)关系",
+          "n.音乐会,演奏会;一齐,一致"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ fer（带来，运送）→ 把各自的意见“带到一起”即“商讨”；把荣誉、权力等“带给”某人即“授予”。核心物理动作是“共同带来/送到”。",
+        "similarWarning": "confer vs. confirm: confer是“商讨/授予”，confirm是“确认”（firm=坚固）。confer vs. conform: conform是“遵守/符合”（form=形状）。区别：fer强调“带来”，firm/form强调“坚固/形状”。",
+        "extendedMeaning": "在考研真题中，confer常考“授予（学位、权力）”义，如confer a degree/award；此外在学术语境中confer with sb表示“与某人商议”，用于正式讨论。",
+        "examUsage": "常用搭配：confer sth on/upon sb（授予某人某物）；confer with sb about/on sth（与某人商讨某事）。真题例句：The degree was conferred upon him by the university.（该学位由大学授予他。）"
+      }
+    },
+    {
+      "id": "conference",
+      "word": "conference",
+      "phonetic": "/'kɒnfərəns/",
+      "meaning": "n.(正式)会议；讨论，商谈",
+      "similar": [
+        "inference",
+        "confidence",
+        "consequence",
+        "convenience",
+        "reference",
+        "conscience",
+        "difference",
+        "preference"
+      ],
+      "question": {
+        "wordId": "conference",
+        "stem": "选择 \"conference\" 的正确中文意思：",
+        "correct": "n.(正式)会议；讨论，商谈",
+        "options": [
+          "n.结果,后果,影响;重要性",
+          "n.推论,推理,推断;结论",
+          "n.(正式)会议；讨论，商谈",
+          "n.(in)信任;信心,自信;秘密,机密"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "con-（一起）+ fer-（携带、带来）+ -ence（名词后缀）→ 把意见、观点带到一起来 → 讨论、商谈 → 引申为正式会议。核心动作：聚集观点。",
+        "similarWarning": "inference（n.推论：in-进入+fer-携带→带入结论）；conference（n.会议：con-一起+fer-携带→带到一起讨论）。差别：前缀in- vs con-，词义从“带入”到“带到一起”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "confess",
+      "word": "confess",
+      "phonetic": "/kən'fes/",
+      "meaning": "v.供认，承认，坦白，忏悔",
+      "similar": [
+        "congress",
+        "confer",
+        "confuse",
+        "contest",
+        "consensus",
+        "compress",
+        "condense",
+        "conquest"
+      ],
+      "question": {
+        "wordId": "confess",
+        "stem": "选择 \"confess\" 的正确中文意思：",
+        "correct": "v.供认，承认，坦白，忏悔",
+        "options": [
+          "v.商讨；授予，颁给(勋衔，学位等)",
+          "v.使混乱,混淆",
+          "n.(代表)大会;(美国等国的)国会,议会",
+          "v.供认，承认，坦白，忏悔"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-（共同，完全）+ fess（说，承认）。字面义为‘完全说出’，即坦白、供认或忏悔。核心动作：毫无保留地讲出事实或过错。",
+        "similarWarning": "confess vs. confuse（confuse：con-共同 + fuse流，混合，使混淆）。差异在词根：-fess（说）vs. -fuse（流），词义迥异。",
+        "extendedMeaning": "在考研语境中，confess常引申为‘承认（事实或情感）’，如confess one's ignorance（承认无知），不限于宗教忏悔。",
+        "examUsage": "真题常考搭配：confess to (doing) sth.（承认做过某事），如‘He confessed to stealing the money.’注意to为介词，后接动名词。"
+      }
+    },
+    {
+      "id": "confidence",
+      "word": "confidence",
+      "phonetic": "/'kɔnfidəns/",
+      "meaning": "n.(in)信任;信心,自信;秘密,机密",
+      "similar": [
+        "coincidence",
+        "confident",
+        "conference",
+        "condense",
+        "convince",
+        "incidence",
+        "conscience",
+        "confidential"
+      ],
+      "question": {
+        "wordId": "confidence",
+        "stem": "选择 \"confidence\" 的正确中文意思：",
+        "correct": "n.(in)信任;信心,自信;秘密,机密",
+        "options": [
+          "n.(of,in)确信的,自信的",
+          "n.(正式)会议；讨论，商谈",
+          "n.巧合；同时发生，共同存在；符合，一致",
+          "n.(in)信任;信心,自信;秘密,机密"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 confidere，con-（共同，加强）+ fidere（信任）。核心动作：完全信任。衍生为对自己能力的信任（自信），或对他人/信息的信任（信任），进一步引申为因信任而告知的秘密（机密）。",
+        "similarWarning": "confident: 形容词，自信的，确信的（-ent 表主动/性质）。confidence: 名词，信任/信心（-ence 表状态）。confidential: 形容词，机密的，亲信的（-ial 表属性，强调秘密性）。辨析：confident 指人的状态，confidential 指信息/关系的性质。",
+        "extendedMeaning": "秘密，机密（指因信任而告知的不公开信息）。常见于法律、商业语境，如 in confidence（私下地，作为秘密）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "confident",
+      "word": "confident",
+      "phonetic": "/'kɔnfidənt/",
+      "meaning": "n.(of,in)确信的,自信的",
+      "similar": [
+        "confidence",
+        "continent",
+        "consistent",
+        "confine",
+        "consent",
+        "content",
+        "confront",
+        "consider"
+      ],
+      "question": {
+        "wordId": "confident",
+        "stem": "选择 \"confident\" 的正确中文意思：",
+        "correct": "n.(of,in)确信的,自信的",
+        "options": [
+          "a.(in)前后一致的；（with）一致，符合",
+          "n.大陆,洲",
+          "n.(in)信任;信心,自信;秘密,机密",
+          "n.(of,in)确信的,自信的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 confidere（完全信任）：con-（完全）+ fidere（信任）。核心动作是“完全信赖自己或某事”，引申为“确信的、自信的”心理状态。",
+        "similarWarning": "confident vs. confident vs. continent: confident强调“自信”；confident是名词“信心”；continent是“大陆；自制的”。拼写差异在结尾 -ent 与 -ence。",
+        "extendedMeaning": "考研中常考“确信的”而非仅“自信的”，如 be confident of success（确信成功）。",
+        "examUsage": "常考短语：be confident in/about（对…有信心）；be confident that（确信）。真题例句：He is confident that the project will succeed.（他确信项目会成功。）"
+      }
+    },
+    {
+      "id": "confidential",
+      "word": "confidential",
+      "phonetic": "/ˌkɔnfi'denʃəl/",
+      "meaning": "a.秘(机)密的；表信任的；担任机密工作的",
+      "similar": [
+        "confidence",
+        "credential",
+        "influential",
+        "consideration"
+      ],
+      "question": {
+        "wordId": "confidential",
+        "stem": "选择 \"confidential\" 的正确中文意思：",
+        "correct": "a.秘(机)密的；表信任的；担任机密工作的",
+        "options": [
+          "a.秘(机)密的；表信任的；担任机密工作的",
+          "n.(in)信任;信心,自信;秘密,机密",
+          "n.凭证，(pl.)国书，证明书",
+          "a.有影响的;有权势的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语confidentia（信任），由con-（共同）+fidere（信任）+-ial（形容词后缀）组成。核心动作：共同信任→仅限于可信任的人之间→机密的。",
+        "similarWarning": "confidence（信任，自信）vs confidential（机密的）：前者是名词/形容词，强调信任或自信；后者是形容词，强调秘密性。credential（凭证，证书）vs confidential：前者指证明身份的文件，后者指秘密性质。influential（有影响力的）vs confidential：拼写差异在“-ential”与“-fidential”，含义无关。consideration（考虑，体贴）vs confidential：拼写差异在“-sideration”与“-fidential”，含义无关。",
+        "extendedMeaning": "在考研外刊中，confidential常引申为“保密的”“秘密的”，如confidential document（机密文件）；也可指“受信任的”，如confidential assistant（机要助理）。",
+        "examUsage": "常见考点：confidential与secret的区别——secret强调不为人知，confidential强调仅限特定人群知晓。真题例句：The information is strictly confidential.（此信息严格保密。）常与strictly, highly等副词搭配。"
+      }
+    },
+    {
+      "id": "confine",
+      "word": "confine",
+      "phonetic": "/kən'faɪn/",
+      "meaning": "vt.限制；使不外出，禁闭n.[pl.]界限，范围",
+      "similar": [
+        "continue",
+        "convince",
+        "cocaine",
+        "combine",
+        "concise",
+        "confirm",
+        "confuse",
+        "confident"
+      ],
+      "question": {
+        "wordId": "confine",
+        "stem": "选择 \"confine\" 的正确中文意思：",
+        "correct": "vt.限制；使不外出，禁闭n.[pl.]界限，范围",
+        "options": [
+          "v.(of)使信服,使确信",
+          "n.可卡因，古柯碱（用作局部麻醉剂）",
+          "v.继续,连续,延伸",
+          "vt.限制；使不外出，禁闭n.[pl.]界限，范围"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-（共同、一起）+ fin-（边界、界限）。核心动作：共同划定边界 → 限制在某个范围内。",
+        "similarWarning": "1. confine vs. continue: confine含fin-（边界），continue含tin-（保持）。2. confine vs. confirm: confine含fin-（边界），confirm含firm-（坚固）。3. confine vs. confuse: confine含fin-（边界），confuse含fus-（倾倒）。",
+        "extendedMeaning": "n.[pl.]界限，范围：常用于抽象领域，如\"within the confines of the law\"（在法律范围内）。",
+        "examUsage": "固定搭配：confine...to...（把……限制在……范围内），真题中常考被动结构\"be confined to\"（局限于）。"
+      }
+    },
+    {
+      "id": "confirm",
+      "word": "confirm",
+      "phonetic": "/kən'fə:m/",
+      "meaning": "v.使更坚固,使更坚定;(进一步)证实;确认",
+      "similar": [
+        "conform",
+        "confer",
+        "confine",
+        "conflict"
+      ],
+      "question": {
+        "wordId": "confirm",
+        "stem": "选择 \"confirm\" 的正确中文意思：",
+        "correct": "v.使更坚固,使更坚定;(进一步)证实;确认",
+        "options": [
+          "v.使更坚固,使更坚定;(进一步)证实;确认",
+          "vt.限制；使不外出，禁闭n.[pl.]界限，范围",
+          "vi.(to)遵守，适应；相似，一致，符合",
+          "v.商讨；授予，颁给(勋衔，学位等)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 confirmare（con-表“共同、加强” + firmare“使坚固”，源自 firmus“坚固的”）。核心物理动作是“使变得坚固”，引申为“使信念/事实更加稳固”，即“证实、确认”。",
+        "similarWarning": "conform: 强调“符合、遵守”（form 形状/形式），如 conform to rules；confer: 强调“商议、授予”（fer 带来），如 confer with sb；confine: 强调“限制”（fin 界限），如 confine to a room；conflict: 强调“冲突、斗争”（flict 打击），如 conflict of interest。",
+        "extendedMeaning": "在考研阅读中常出现“确认（安排/订单）”的商业用法，如 confirm a reservation（确认预订），或“巩固（地位/关系）”，如 confirm one's position。",
+        "examUsage": "真题常考搭配：confirm sb in sth（使某人确信某事），如 confirm me in my belief；以及 confirm that 引导的宾语从句，作“证实”解，是细节题定位词。"
+      }
+    },
+    {
+      "id": "conflict",
+      "word": "conflict",
+      "phonetic": "/kən'flikt/",
+      "meaning": "n.战斗,斗争;抵触,冲突 v.(with)抵触,冲突",
+      "similar": [
+        "convict",
+        "collect",
+        "conduct",
+        "confine",
+        "confirm",
+        "connect",
+        "consist",
+        "contact"
+      ],
+      "question": {
+        "wordId": "conflict",
+        "stem": "选择 \"conflict\" 的正确中文意思：",
+        "correct": "n.战斗,斗争;抵触,冲突 v.(with)抵触,冲突",
+        "options": [
+          "n.行为,品行 v.引导;管理;指挥(乐队);传导",
+          "v.收集,搜集;领取,接走;收(税等);聚集,堆积",
+          "n.战斗,斗争;抵触,冲突 v.(with)抵触,冲突",
+          "v.(经审讯)证明…有罪,宣判…有罪 n.囚犯"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ flict（打击，源自拉丁语fligere“击打”）。核心物理动作是“互相击打”，引申为思想、利益等方面的“冲突、抵触”。",
+        "similarWarning": "convict（定罪，con- + vict“征服”）；collect（收集，col- + lect“选择”）；conduct（引导，con- + duct“引导”）；confine（限制，con- + fin“边界”）；confirm（确认，con- + firm“坚固”）；connect（连接，con- + nect“绑”）；consist（由…组成，con- + sist“站立”）；contact（接触，con- + tact“触摸”）。对比核心差异：flict强调“打击”，而其他词根分别强调“征服、选择、引导、边界、坚固、绑、站立、触摸”。",
+        "extendedMeaning": "在考研中常引申为“矛盾、对立、不一致”，如“conflict of interest”（利益冲突）、“conflict resolution”（冲突解决）。",
+        "examUsage": "常见考点：\"armed conflict\"（武装冲突）、“conflict with”（与…冲突）。真题例句：\"The conflict between individual rights and social order is a central theme in political philosophy.\"（个体权利与社会秩序之间的冲突是政治哲学的核心主题。）"
+      }
+    },
+    {
+      "id": "conform",
+      "word": "conform",
+      "phonetic": "/kən'fɔ:m/",
+      "meaning": "vi.(to)遵守，适应；相似，一致，符合",
+      "similar": [
+        "confirm",
+        "confer",
+        "inform",
+        "comfort",
+        "confront"
+      ],
+      "question": {
+        "wordId": "conform",
+        "stem": "选择 \"conform\" 的正确中文意思：",
+        "correct": "vi.(to)遵守，适应；相似，一致，符合",
+        "options": [
+          "v.商讨；授予，颁给(勋衔，学位等)",
+          "v.(of,about)通知,告诉,报告;告发,告密",
+          "vi.(to)遵守，适应；相似，一致，符合",
+          "v.使更坚固,使更坚定;(进一步)证实;确认"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ form（形状）→ 使形状相同 → 遵守共同规则或标准，即“遵守，适应”；形状一致则“相似，符合”。",
+        "similarWarning": "confirm（确认，证实；con-加强 + firm坚定）vs conform（遵守，符合；con-共同 + form形状）。区别在于词根：-firm（坚定）vs -form（形状）。",
+        "extendedMeaning": "在考研阅读中可表“（使）顺应（社会规范或潮流）”，如conform to social expectations（顺应社会期望），强调被动适应而非主动遵守。",
+        "examUsage": "真题常考搭配conform to（遵守，符合），如conform to the rules（遵守规则）；注意与comply with（服从）同义替换。"
+      }
+    },
+    {
+      "id": "confront",
+      "word": "confront",
+      "phonetic": "/kən'frʌnt/",
+      "meaning": "v.使面临,使遭遇;面对(危险等)",
+      "similar": [
+        "confident",
+        "comfort",
+        "confine",
+        "conform",
+        "consent",
+        "content",
+        "control",
+        "coherent"
+      ],
+      "question": {
+        "wordId": "confront",
+        "stem": "选择 \"confront\" 的正确中文意思：",
+        "correct": "v.使面临,使遭遇;面对(危险等)",
+        "options": [
+          "v.使面临,使遭遇;面对(危险等)",
+          "n.(of,in)确信的,自信的",
+          "vt.限制；使不外出，禁闭n.[pl.]界限，范围",
+          "n.舒适，安逸；安慰，慰问 v.安慰，使舒适"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 confrontari，由 com-（共同，一起）+ frons（前额，正面）构成，核心动作是“两人正面相对、额头对额头”，即强调面对面、直接对峙的状态。词根 frons 本义为“前额、脸面”，引申为“正面、前面”，故 confront 的字面义是“使双方正面相对”，由此衍生出“使面临、面对（危险或困难）”的动词义。",
+        "similarWarning": "形近易混词：confident（自信的，-fid-信任）、confine（限制，-fin-边界）、conform（遵守，-form-形状）、consent（同意，-sent-感觉）、content（内容/满足的，-tent-持有）、control（控制，-trol-来自contrarollus）。confront 的核心区别在于词根 -front-（前额、正面）直接指向“面对面”的动作，而其他词根均无此义。",
+        "extendedMeaning": "考研外刊中常出现“使直面（问题/证据）”的抽象用法，如 be confronted with（面临/被置于……面前），强调被动遭遇而非主动挑战；此外，在学术语境中可表示“（事实、数据）与……相矛盾”，如 confront the evidence（直面证据），隐含“不容回避”的语义强度。",
+        "examUsage": "真题高频搭配：be confronted with（面临，遭遇），如考研阅读中“be confronted with a serious problem”（面临严重问题）；写作中可用“confront the challenge”（直面挑战）替代简单的 face。注意与 be faced with 的区别：confront 更强调主动迎击或被迫面对，语气更强。"
+      }
+    },
+    {
+      "id": "confuse",
+      "word": "confuse",
+      "phonetic": "/kən'fju:z/",
+      "meaning": "v.使混乱,混淆",
+      "similar": [
+        "concise",
+        "confess",
+        "confine",
+        "consume",
+        "confusion",
+        "conclude",
+        "condense",
+        "conquest"
+      ],
+      "question": {
+        "wordId": "confuse",
+        "stem": "选择 \"confuse\" 的正确中文意思：",
+        "correct": "v.使混乱,混淆",
+        "options": [
+          "v.供认，承认，坦白，忏悔",
+          "a.简明的,简洁的",
+          "v.使混乱,混淆",
+          "vt.限制；使不外出，禁闭n.[pl.]界限，范围"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ fuse（倾倒，注入）→ 把多个东西倒在一起，无法分清→使混乱，混淆。",
+        "similarWarning": "confuse vs. confess：confuse（con共同+fuse倒）→混淆；confess（con共同+fess说）→承认。confuse vs. confine：confuse（倒在一起）→混乱；confine（con共同+fin边界）→限制。",
+        "extendedMeaning": "",
+        "examUsage": "confuse...with...（把…与…混淆），常作为阅读中干扰选项的题眼，如混淆概念或事实。"
+      }
+    },
+    {
+      "id": "confusion",
+      "word": "confusion",
+      "phonetic": "/kən'fju:ʒən/",
+      "meaning": "n.困惑，糊涂；混淆；混乱，骚乱",
+      "similar": [
+        "conclusion",
+        "concession",
+        "conversion",
+        "confuse",
+        "collision",
+        "condition",
+        "conjunction",
+        "consumption"
+      ],
+      "question": {
+        "wordId": "confusion",
+        "stem": "选择 \"confusion\" 的正确中文意思：",
+        "correct": "n.困惑，糊涂；混淆；混乱，骚乱",
+        "options": [
+          "n.转变，转换；信仰的改变；",
+          "n.困惑，糊涂；混淆；混乱，骚乱",
+          "n.结论，推论；结尾；缔结，议定",
+          "n.让步，妥协；特许(权)；"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 confundere（混合、倒在一起），由 con-（一起）+ fundere（倒、浇铸）构成，本义为“把东西倒在一起混合”。混合导致无法区分，引申为“混淆”；心理上的混合即“困惑”；状态上的混合即“混乱”。",
+        "similarWarning": "confusion vs. conclusion（结论）：-fusi-（倒） vs. -clus-（关闭）；confusion vs. concession（让步）：-fusi- vs. -cess-（走）；confusion vs. collision（碰撞）：-fusi- vs. -lis-（撞击）。",
+        "extendedMeaning": "在考研语境中，常指“混乱状态”或“混淆概念”，如 political confusion（政治混乱）、terminological confusion（术语混淆），侧重无序或认知偏差。",
+        "examUsage": "真题常考短语：in confusion（困惑地/混乱地），如 The room was in confusion after the debate.（辩论后房间一片混乱。）干扰项常涉及 confusion 与 disorder（无秩序）、chaos（混沌）的辨析，强调“因混合导致的无法分辨”。"
+      }
+    },
+    {
+      "id": "congratulate",
+      "word": "congratulate",
+      "phonetic": "/kən'grætʃuleit/",
+      "meaning": "v.(on)祝贺,向…致贺词",
+      "similar": [
+        "congratulation"
+      ],
+      "question": {
+        "wordId": "congratulate",
+        "stem": "选择 \"congratulate\" 的正确中文意思：",
+        "correct": "v.(on)祝贺,向…致贺词",
+        "options": [
+          "n.(on)祝贺,(pl.)祝贺词",
+          "vt.奉承;使高兴;使满意;胜过",
+          "v.(on)祝贺,向…致贺词",
+          "a.整齐的,整洁的 v./n.整理,修整,装饰"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根: con- (共同) + grat- (感谢/喜悦) + -ulate (动词后缀)。核心动作: 共同分享喜悦或表达感谢，引申为祝贺。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "congratulation",
+      "word": "congratulation",
+      "phonetic": "/kənˌgrætʃu'leiʃən/",
+      "meaning": "n.(on)祝贺,(pl.)祝贺词",
+      "similar": [
+        "congratulate",
+        "constitution",
+        "contribution",
+        "concentration",
+        "contradiction"
+      ],
+      "question": {
+        "wordId": "congratulation",
+        "stem": "选择 \"congratulation\" 的正确中文意思：",
+        "correct": "n.(on)祝贺,(pl.)祝贺词",
+        "options": [
+          "n.构成,构造,组成(方式),成分;体格;宪法",
+          "n.(on)祝贺,(pl.)祝贺词",
+          "v.(on)祝贺,向…致贺词",
+          "n.贡献；捐款，捐献物；投稿"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语congratulari，com-（共同）+ gratulari（表示喜悦），字面意为“共同表达喜悦”，引申为“祝贺”。",
+        "similarWarning": "形近词辨析：congratulation（祝贺） vs. constitution（宪法/构成） vs. contribution（贡献） vs. concentration（集中） vs. contradiction（矛盾）。差异在于词根：grat-（喜悦）、stitut-（建立）、tribut-（给予）、centr-（中心）、dict-（说）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "congress",
+      "word": "congress",
+      "phonetic": "/'kɔŋgres/",
+      "meaning": "n.(代表)大会;(美国等国的)国会,议会",
+      "similar": [
+        "confess",
+        "compress",
+        "caress",
+        "contest",
+        "oppress",
+        "concrete",
+        "conquest",
+        "contrast"
+      ],
+      "question": {
+        "wordId": "congress",
+        "stem": "选择 \"congress\" 的正确中文意思：",
+        "correct": "n.(代表)大会;(美国等国的)国会,议会",
+        "options": [
+          "v.供认，承认，坦白，忏悔",
+          "vt.／n.爱抚，抚摸",
+          "n.(代表)大会;(美国等国的)国会,议会",
+          "vt.压紧，压缩；(把思想、文字等)浓缩"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "con-（一起）+ gress（行走，来自拉丁语gradi）→ 走到一起 → 集会 → 代表集会 → 国会、议会。核心动作：众人聚拢议事。",
+        "similarWarning": "confess（con-全+fess说→坦白）、compress（com-共同+press压→压缩）、caress（caress抚摸，无关）、contest（con-共同+test测试→竞争）、oppress（op-朝向+press压→压迫）、concrete（con-共同+crete生长→具体的）、conquest（con-共同+quest寻求→征服）、contrast（contra-相对+st站→对比）。注意：congress与compress仅差字母g/p，但前者是‘行走集合’，后者是‘压在一起’。",
+        "extendedMeaning": "（熟词僻义）在考研英语中，除指美国国会（Congress）外，还可表示‘代表大会、会议’，如the National People's Congress（全国人民代表大会），侧重正式、大型的立法或协商会议。",
+        "examUsage": "（考点直击）真题中常考搭配：Congress（首字母大写）特指美国国会；Congressional（形容词）国会的。干扰项常利用confess（坦白）或compress（压缩）的拼写相近设题，需注意上下文为政治/法律语境。"
+      }
+    },
+    {
+      "id": "conjunction",
+      "word": "conjunction",
+      "phonetic": "/kən'dʒʌŋkʃən/",
+      "meaning": "n.接合，连接，联合；连(接)词",
+      "similar": [
+        "connection",
+        "convention",
+        "conviction",
+        "consumption",
+        "communication",
+        "construction",
+        "condition",
+        "conductor"
+      ],
+      "question": {
+        "wordId": "conjunction",
+        "stem": "选择 \"conjunction\" 的正确中文意思：",
+        "correct": "n.接合，连接，联合；连(接)词",
+        "options": [
+          "n.接合，连接，联合；连(接)词",
+          "n.大会,会议;惯例,常规,习俗;公约,协定",
+          "n.(connexion)联系,连接；亲戚，社会关系",
+          "n.深信,确信；定罪，判罪；"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "con- (共同、一起) + junct (连接) + -ion (名词后缀) → 共同连接在一起的状态 → 接合、连接、联合；在语法中，连词起连接作用，故引申为“连词”。",
+        "similarWarning": "connection (连接、联系，强调抽象关系) vs. conjunction (连接、结合，强调具体连接动作或语法功能)；convention (惯例、大会) vs. conjunction (注意字母 'j' 与 'v' 的区别)；conviction (定罪、信念) vs. conjunction (注意 'v' 与 'j' 及 't' 与 'n' 的差异)。",
+        "extendedMeaning": "在逻辑学或天文学中，conjunction 指“（事件的）同时发生”或“（天体的）合”，如 in conjunction with 表示“与…一起/共同”，常用于考研阅读中的复杂因果关系表达。",
+        "examUsage": "in conjunction with 是高频考点，真题中常作为逻辑连接词，表示“与…协同/联合”，如：The research was conducted in conjunction with several universities.（该研究与几所大学联合进行。）"
+      }
+    },
+    {
+      "id": "connect",
+      "word": "connect",
+      "phonetic": "/kə'nekt/",
+      "meaning": "vt.连接；与…联系，接通(电话) vi.连接",
+      "similar": [
+        "collect",
+        "concept",
+        "concert",
+        "conduct",
+        "consent",
+        "contact",
+        "content",
+        "contest"
+      ],
+      "question": {
+        "wordId": "connect",
+        "stem": "选择 \"connect\" 的正确中文意思：",
+        "correct": "vt.连接；与…联系，接通(电话) vi.连接",
+        "options": [
+          "vt.连接；与…联系，接通(电话) vi.连接",
+          "v.收集,搜集;领取,接走;收(税等);聚集,堆积",
+          "n.音乐会,演奏会;一齐,一致",
+          "n.概念，观念，设想"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 con-（共同）+ nect（绑、系），核心动作是“绑在一起”，引申为连接、联系。",
+        "similarWarning": "contact（接触，con+tact触）：强调触碰；connect（连接，con+nect绑）：强调绑定。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "connection",
+      "word": "connection",
+      "phonetic": "/kə'nekʃn/",
+      "meaning": "n.(connexion)联系,连接；亲戚，社会关系",
+      "similar": [
+        "collection",
+        "convention",
+        "conviction",
+        "conjunction",
+        "condition",
+        "objection",
+        "concession",
+        "conversion"
+      ],
+      "question": {
+        "wordId": "connection",
+        "stem": "选择 \"connection\" 的正确中文意思：",
+        "correct": "n.(connexion)联系,连接；亲戚，社会关系",
+        "options": [
+          "n.(connexion)联系,连接；亲戚，社会关系",
+          "n.收藏(品),收集(物)",
+          "n.大会,会议;惯例,常规,习俗;公约,协定",
+          "n.深信,确信；定罪，判罪；"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ nect（连接）+ -ion（名词后缀）→ 共同连接在一起的状态 → 联系、连接。核心物理动作是“将多个物体捆绑或链接在一起”。",
+        "similarWarning": "collection（收集）<-> connection（连接）：collection是collect（收集）的名词，强调“聚集在一起”；connection是connect（连接）的名词，强调“相互关联”。convention（惯例、大会）<-> connection：convention来自con-（共同）+ vent（来），指“大家来到一起”或“共同遵守的规则”；connection则强调“连接关系”。",
+        "extendedMeaning": "在考研阅读中常引申为“社会关系、人脉”（如personal connections），或指“逻辑上的关联”（如connection between ideas）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "conquer",
+      "word": "conquer",
+      "phonetic": "/'kɔŋkə/",
+      "meaning": "v.征服,战胜,占领;克服,破除(坏习惯等)",
+      "similar": [
+        "conquest",
+        "confer",
+        "computer",
+        "consider"
+      ],
+      "question": {
+        "wordId": "conquer",
+        "stem": "选择 \"conquer\" 的正确中文意思：",
+        "correct": "v.征服,战胜,占领;克服,破除(坏习惯等)",
+        "options": [
+          "n.计算机,电脑;计算者",
+          "v.商讨；授予，颁给(勋衔，学位等)",
+          "n.征服，征服地，掠取物",
+          "v.征服,战胜,占领;克服,破除(坏习惯等)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-（完全）+ quer（追寻，获取）→ 彻底获取 → 征服，战胜",
+        "similarWarning": "conquer v.征服；conquest n.征服（名词形式）；confer v.商议（con-共同+fer带来→共同带来意见）；computer n.计算机（com-共同+put计算+er→共同计算设备）",
+        "extendedMeaning": "克服（困难、恐惧等抽象事物），如：conquer fear 克服恐惧",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "conquest",
+      "word": "conquest",
+      "phonetic": "/'kɔŋkwest/",
+      "meaning": "n.征服，征服地，掠取物",
+      "similar": [
+        "conquer",
+        "contest",
+        "honest",
+        "banquet",
+        "concept",
+        "concert",
+        "conduct",
+        "confess"
+      ],
+      "question": {
+        "wordId": "conquest",
+        "stem": "选择 \"conquest\" 的正确中文意思：",
+        "correct": "n.征服，征服地，掠取物",
+        "options": [
+          "a.诚实的,正直的,老实的",
+          "n.竞争,竞赛,比赛 v.竞争,比赛,争论",
+          "v.征服,战胜,占领;克服,破除(坏习惯等)",
+          "n.征服，征服地，掠取物"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语conquirere，由com-（共同，加强） + quaerere（寻求，询问）构成，核心动作是“彻底寻求以获取”，引申为通过武力或努力完全占有某物，即征服。",
+        "similarWarning": "conquest vs. contest: conquest强调征服的结果（quest=寻求），contest强调竞争的过程（test=测试）。conquest vs. concept: concept是概念（cept=拿取），conquest是征服（quest=寻求）。",
+        "extendedMeaning": "考研中可引申为“（情感、困难等的）征服”，如the conquest of fear（克服恐惧）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "conscience",
+      "word": "conscience",
+      "phonetic": "/'kɔnʃəns/",
+      "meaning": "n.良心,良知",
+      "similar": [
+        "coincidence",
+        "consequence",
+        "convenience",
+        "convince",
+        "conference",
+        "confidence",
+        "commence",
+        "conceive"
+      ],
+      "question": {
+        "wordId": "conscience",
+        "stem": "选择 \"conscience\" 的正确中文意思：",
+        "correct": "n.良心,良知",
+        "options": [
+          "n.巧合；同时发生，共同存在；符合，一致",
+          "n.便利,方便;(pl.)便利设备",
+          "n.良心,良知",
+          "n.结果,后果,影响;重要性"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ sci-（知道）+ -ence（名词后缀） → 共同知道（的道德准则）→ 良心、良知。核心动作：对是非的共同认知内化为个人判断。",
+        "similarWarning": "coincidence（巧合，co-共同+incid-发生+ence），consequence（结果，con-共同+sequ-跟随+ence），convenience（便利，con-共同+ven-来+ience），convince（使信服，con-彻底+vin-征服+ce），conference（会议，con-共同+fer-带来+ence），confidence（信心，con-加强+fid-信任+ence），commence（开始，com-共同+menc-开始+e），conceive（构思，con-共同+ceive-拿）。核心差异：conscience 强调内在道德感知（sci-知），易与consequence（结果）混淆。",
+        "extendedMeaning": "在真题中引申为“道德感、是非心”，如 have a clear conscience（问心无愧），常与 moral sense 同义替换。",
+        "examUsage": "考点：conscience 常与 guilt（内疚）、moral（道德的）搭配，如 a guilty conscience（内疚），真题例句：\"The conscience of the nation was aroused.\"（民族的良知被唤醒。）注意与 conscious（有意识的）拼写区别。"
+      }
+    },
+    {
+      "id": "conscientious",
+      "word": "conscientious",
+      "phonetic": "/ˌkɔnʃi'enʃəs/",
+      "meaning": "a.审慎正直的，认真的，本着良心的",
+      "similar": [
+        "conspicuous",
+        "constitution"
+      ],
+      "question": {
+        "wordId": "conscientious",
+        "stem": "选择 \"conscientious\" 的正确中文意思：",
+        "correct": "a.审慎正直的，认真的，本着良心的",
+        "options": [
+          "n.构成,构造,组成(方式),成分;体格;宪法",
+          "n.喃喃而语,小声低语;抱怨 v.低声说,抱怨",
+          "a.显眼的,明显的",
+          "a.审慎正直的，认真的，本着良心的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 con-（共同）+ sci（知道）+ entious（形容词后缀，充满…的）→ 共同知道、内心有良知的状态 → 做事凭良心、认真负责。核心动作：内心有共同认知（良知）驱动行为。",
+        "similarWarning": "conspicuous（显眼的）：区别在 spic（看）→ 被看见；conscientious 是 sci（知道）→ 内心知道。constitution（宪法、体质）：区别在 stitut（建立）→ 制度或身体构成；conscientious 强调道德责任感。",
+        "extendedMeaning": "考研中常考其引申义“严谨的、一丝不苟的”，尤指对工作或道德细节的高度负责，如 a conscientious worker（一丝不苟的工人），非仅指“审慎正直”。",
+        "examUsage": "真题考点：conscientious 常与 careful, diligent 同义替换，但强调道德驱动力；易与 conscious（有意识的）混淆。例句：The conscientious researcher double-checked every data point.（真题阅读中此类用法常见。）"
+      }
+    },
+    {
+      "id": "conscious",
+      "word": "conscious",
+      "phonetic": "/'kɔnʃəs/",
+      "meaning": "a.(of)意识到的,自觉的;神志清醒的",
+      "similar": [
+        "conspicuous",
+        "consensus",
+        "conscience",
+        "constitute",
+        "continuous"
+      ],
+      "question": {
+        "wordId": "conscious",
+        "stem": "选择 \"conscious\" 的正确中文意思：",
+        "correct": "a.(of)意识到的,自觉的;神志清醒的",
+        "options": [
+          "a.显眼的,明显的",
+          "a.(of)意识到的,自觉的;神志清醒的",
+          "n.(意见等的)一致，一致同意，共识",
+          "n.良心,良知"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根\"sci\"（知道），前缀\"con-\"（共同、一起），后缀\"-ous\"（形容词）。核心动作：共同知道 → 对某事物有共同认知 → 意识到的、自觉的。",
+        "similarWarning": "conspicuous（a. 显眼的）：con- + spic（看）→ 共同看 → 明显的。consensus（n. 共识）：con- + sens（感觉）→ 共同感觉 → 一致意见。conscience（n. 良心）：con- + sci（知道）→ 共同知道对错 → 良知。constitute（v. 构成）：con- + stitute（建立）→ 共同建立 → 组成。continuous（a. 连续的）：con- + tin（保持）→ 共同保持 → 持续不断的。",
+        "extendedMeaning": "（在心理学/哲学语境中）有意识的、自觉的（区别于潜意识）。例：conscious choice（有意识的选择）",
+        "examUsage": "be conscious of（意识到）是考研阅读中常见搭配，用于说明人物心理状态或观点态度。例：He was conscious of the potential risks.（他意识到了潜在风险。）"
+      }
+    },
+    {
+      "id": "consecutive",
+      "word": "consecutive",
+      "phonetic": "/kən'sekjutiv/",
+      "meaning": "a.连续的；连贯的；顺序的",
+      "similar": [
+        "conservative",
+        "collective",
+        "executive",
+        "objective",
+        "connection",
+        "competitive",
+        "consequence",
+        "cooperative"
+      ],
+      "question": {
+        "wordId": "consecutive",
+        "stem": "选择 \"consecutive\" 的正确中文意思：",
+        "correct": "a.连续的；连贯的；顺序的",
+        "options": [
+          "a.连续的；连贯的；顺序的",
+          "a.保守的,守旧的 n.保守主义者",
+          "n.集体 a.集体的,共同的",
+          "n.总经理,董事,行政负责人 a.执行的,实施的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ secut（跟随）+ -ive（形容词后缀）→ 一个接一个共同跟随的 → 连续的、连贯的。核心动作：一个紧跟着另一个，强调无间断的顺序性。",
+        "similarWarning": "consecutive vs conservative：consecutive 含 secut（跟随），表顺序连续；conservative 含 serv（保存），表保守的。consecutive vs executive：executive 含 ex-（出）+ secut（跟随），表执行者；consecutive 强调时间/顺序上的连续。",
+        "extendedMeaning": "",
+        "examUsage": "真题常考短语：'consecutive days'（连续天数），'consecutive terms'（连任）。干扰项常见于辨析连续性与同时性（如 simultaneous）。"
+      }
+    },
+    {
+      "id": "consensus",
+      "word": "consensus",
+      "phonetic": "/kən'sensəs/",
+      "meaning": "n.(意见等的)一致，一致同意，共识",
+      "similar": [
+        "confess",
+        "consent",
+        "condense",
+        "nonsense",
+        "conscious",
+        "continuous"
+      ],
+      "question": {
+        "wordId": "consensus",
+        "stem": "选择 \"consensus\" 的正确中文意思：",
+        "correct": "n.(意见等的)一致，一致同意，共识",
+        "options": [
+          "v.(使)冷凝，(使)凝结；浓缩，压缩，简缩",
+          "n.(意见等的)一致，一致同意，共识",
+          "v.供认，承认，坦白，忏悔",
+          "v./n.(to)同意,赞成,答应"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根 con-（共同）+ sens（感觉）+ -us（名词后缀）→ 共同的感觉 → 共识、一致同意。核心动作：多方感觉同步。",
+        "similarWarning": "consent（同意，动词/名词）：con-（共同）+ sent（感觉）→ 共同感觉 → 同意。差异：consensus 强调群体一致意见（名词），consent 强调个人许可（动词/名词）。confess（承认）：con-（完全）+ fess（说）→ 完全说出 → 承认。差异：-sens- vs -fess-。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "consent",
+      "word": "consent",
+      "phonetic": "/kən'sent/",
+      "meaning": "v./n.(to)同意,赞成,答应",
+      "similar": [
+        "content",
+        "constant",
+        "comment",
+        "concept",
+        "concert",
+        "connect",
+        "consist",
+        "consult"
+      ],
+      "question": {
+        "wordId": "consent",
+        "stem": "选择 \"consent\" 的正确中文意思：",
+        "correct": "v./n.(to)同意,赞成,答应",
+        "options": [
+          "v./n.(to)同意,赞成,答应",
+          "n.容量,内容,(pl.)目录 a.(with)满足的",
+          "a.固定的，持续的,忠实的 n.常数,恒量",
+          "n.注释,评论,意见 v.(on)注释,评论"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "con-（共同，一起）+ sent（感觉，感受）。核心物理动作：共同感受→意见一致→同意、赞成。",
+        "similarWarning": "content（内容；满足的；竞争/争论）、constant（不变的，持续的）、comment（评论）、concept（概念）、concert（音乐会；一致，协调）、connect（连接）、consist（由...组成）、consult（咨询）。与consent区别在于词根sent（感觉）vs tent（伸展/保持）、cept（拿）、cert（确定）、nect（绑）、sist（站立）、sult（跳/问）。",
+        "extendedMeaning": "",
+        "examUsage": "考点：consent常与to搭配，如 consent to do sth. 或 consent to sth.。真题中常作为阅读观点态度题的关键词，表示“同意、许可”，与oppose（反对）形成对比。固定搭配：by common consent（经一致同意）。"
+      }
+    },
+    {
+      "id": "consequence",
+      "word": "consequence",
+      "phonetic": "/'kɔnsiˌkwəns/",
+      "meaning": "n.结果,后果,影响;重要性",
+      "similar": [
+        "consequently",
+        "conference",
+        "conscience",
+        "convenience",
+        "confidence",
+        "consecutive"
+      ],
+      "question": {
+        "wordId": "consequence",
+        "stem": "选择 \"consequence\" 的正确中文意思：",
+        "correct": "n.结果,后果,影响;重要性",
+        "options": [
+          "n.结果,后果,影响;重要性",
+          "n.(正式)会议；讨论，商谈",
+          "n.良心,良知",
+          "ad.结果，因此，所以"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语consequi（跟随），con-（一起）+ sequi（跟随）。核心物理动作是“跟随在一起”，即一件事紧跟着另一件事发生，强调因果链条中作为“结果”的后项。",
+        "similarWarning": "consequence vs. conscience: 后者是con- + science（知识），指“良知”；前者是“结果”。",
+        "extendedMeaning": "在考研阅读中常考“重要性”义，如‘of consequence’（重要的），区别于普通‘result’。",
+        "examUsage": "真题考点：as a consequence（因此），常作为逻辑连接词出现在完形填空或阅读中，干扰项包括‘in consequence of’（由于）。"
+      }
+    },
+    {
+      "id": "consequently",
+      "word": "consequently",
+      "phonetic": "/'kɔnsiˌkwəntli/",
+      "meaning": "ad.结果，因此，所以",
+      "similar": [
+        "consequence"
+      ],
+      "question": {
+        "wordId": "consequently",
+        "stem": "选择 \"consequently\" 的正确中文意思：",
+        "correct": "ad.结果，因此，所以",
+        "options": [
+          "a./ad.更坏,更差(的/地)",
+          "ad.结果，因此，所以",
+          "n.结果,后果,影响;重要性",
+          "a.富于幽默感的，幽默的；滑稽的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ sequ（跟随）+ -ent（形容词后缀）+ -ly（副词后缀）→ 共同跟随而来的 → 表示因果关系的副词，强调逻辑上的自然结果。",
+        "similarWarning": "consequently vs. subsequently: 前者强调因果关系（因此），后者强调时间顺序（随后）。",
+        "extendedMeaning": "",
+        "examUsage": "常用于引出结果，如真题中：The government failed to act, and consequently, the crisis worsened."
+      }
+    },
+    {
+      "id": "conservation",
+      "word": "conservation",
+      "phonetic": "/ˌkɔnsə'veiʃən/",
+      "meaning": "n.保存,保护,保守;守恒,不灭",
+      "similar": [
+        "observation",
+        "conservative",
+        "conversation",
+        "consideration",
+        "reservation",
+        "construction",
+        "concentration",
+        "connection"
+      ],
+      "question": {
+        "wordId": "conservation",
+        "stem": "选择 \"conservation\" 的正确中文意思：",
+        "correct": "n.保存,保护,保守;守恒,不灭",
+        "options": [
+          "n.保存,保护,保守;守恒,不灭",
+          "n.会话,谈话",
+          "n.观察,观测,监视;(pl.)观察资料;观察力",
+          "a.保守的,守旧的 n.保守主义者"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 con-（共同）+ serv-（保持、服务）+ -ation（名词后缀），核心动作是“共同保持”，指对资源、环境或状态的持续维护与保护，引申为“保存、保护”；在物理中表示守恒（保持总量不变）。",
+        "similarWarning": "conservation vs. conversation：conservation 含 serv（保持），强调保护；conversation 含 vers（转），指对话。vs. reservation：reservation 含 re（回）+ serv（保持），指预留或保留意见。",
+        "extendedMeaning": "考研中常考查“守恒”义，如 energy conservation（能量守恒），以及抽象层面的“保护（非仅环境）”，如 conservation of resources（资源保护）。",
+        "examUsage": "真题常见搭配：wildlife conservation（野生动物保护）；energy conservation（节能）；conservation of momentum（动量守恒）。考点：与 preservation 辨析——conservation 侧重合理利用与节约，preservation 侧重原封不动保存。"
+      }
+    },
+    {
+      "id": "conservative",
+      "word": "conservative",
+      "phonetic": "/kən'sə:vətiv/",
+      "meaning": "a.保守的,守旧的 n.保守主义者",
+      "similar": [
+        "conservation",
+        "consecutive",
+        "cooperative",
+        "comparative",
+        "observation",
+        "conversation",
+        "consideration"
+      ],
+      "question": {
+        "wordId": "conservative",
+        "stem": "选择 \"conservative\" 的正确中文意思：",
+        "correct": "a.保守的,守旧的 n.保守主义者",
+        "options": [
+          "a.连续的；连贯的；顺序的",
+          "n.保存,保护,保守;守恒,不灭",
+          "a.保守的,守旧的 n.保守主义者",
+          "a.合作的,协作的 n.合作社"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 conservare（保存，守护），由 con-（共同，完全）+ servare（保持，守护）构成。核心动作是“完全守护住”，引申为“坚持传统、不愿改变”的保守态度。名词形式指持有这种观点的人。",
+        "similarWarning": "conservation（保存，保护）：核心是“对资源/环境的保护”，侧重行为；conservative侧重态度。consecutive（连续的）：核心是“一个接一个”，差异在词根secut（跟随）。cooperative（合作的）：核心是“共同运作”，差异在词根oper（工作）。",
+        "extendedMeaning": "在考研外刊中，常指“（估计、判断）保守的，谨慎的”，如 conservative estimate（保守估计），非政治态度，而是数值上的偏低估计。",
+        "examUsage": "真题中常作为态度题选项，与 radical（激进的）、liberal（自由的）形成对比。固定搭配：conservative approach（保守方法），be conservative about sth（对某事保守）。"
+      }
+    },
+    {
+      "id": "consider",
+      "word": "consider",
+      "phonetic": "/kən'sidə/",
+      "meaning": "v.考虑，想；体谅，顾及；认为，把…看作",
+      "similar": [
+        "confident",
+        "container",
+        "confer",
+        "inside",
+        "ponder",
+        "collide",
+        "concede",
+        "concise"
+      ],
+      "question": {
+        "wordId": "consider",
+        "stem": "选择 \"consider\" 的正确中文意思：",
+        "correct": "v.考虑，想；体谅，顾及；认为，把…看作",
+        "options": [
+          "v.商讨；授予，颁给(勋衔，学位等)",
+          "n.容器;集装箱",
+          "n.(of,in)确信的,自信的",
+          "v.考虑，想；体谅，顾及；认为，把…看作"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ sider（拉丁语sidus，意为‘星星’）。古罗马占星师通过观察星象来决策，故本义为‘与星星一起观察’，引申为‘仔细思考、权衡’。核心动作：与星象对照，进行审慎判断。",
+        "similarWarning": "confident（自信的，con-共同+fid信任+ent）vs consider（考虑，con-共同+sider星星），差异在词根fid（信任）与sider（星星）；confer（商议，con-共同+fer带来）vs consider，差异在词根fer（带来）与sider。",
+        "extendedMeaning": "【高分引申】将…视为（后接as/宾语补足语）：consider...as...在考研阅读中常表主观判断，而非字面‘考虑’。",
+        "examUsage": "【真题考点】consider + doing（考虑做某事），而非to do；consider + it + adj. + to do（认为做某事是…的），it作形式宾语，为阅读长难句高频结构。"
+      }
+    },
+    {
+      "id": "considerable",
+      "word": "considerable",
+      "phonetic": "/kən'sidərəbl/",
+      "meaning": "a.相当大(或多)的,可观的;值得考虑的",
+      "similar": [
+        "considerate",
+        "consideration"
+      ],
+      "question": {
+        "wordId": "considerable",
+        "stem": "选择 \"considerable\" 的正确中文意思：",
+        "correct": "a.相当大(或多)的,可观的;值得考虑的",
+        "options": [
+          "n.需要考虑的事,理由;考虑,思考;体谅,照顾",
+          "a.考虑周到的,体谅的",
+          "n.(无线电或电视的)天线",
+          "a.相当大(或多)的,可观的;值得考虑的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 con-（共同）+ sider（星，源自拉丁语 sidera，原指观察星象）+ -able（能…的）。本义是“能一起观察星象的”，引申为“值得考虑的”，进一步演变为“数量/程度大到值得考虑的”，即“相当大/可观的”。核心动作：通过观察星象进行衡量，强调“值得重视”的程度。",
+        "similarWarning": "considerate（a.体贴的，考虑周到的）：difference: -able（能力，被动）vs -ate（形容词后缀，主动性质）。considerable 指事物本身“值得考虑”，而 considerate 指人“善于考虑他人感受”。",
+        "extendedMeaning": "在考研阅读中常表“数量/程度显著”，如 a considerable amount（可观的数目），强调超出一般水平。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "considerate",
+      "word": "considerate",
+      "phonetic": "/kən'sidərit/",
+      "meaning": "a.考虑周到的,体谅的",
+      "similar": [
+        "considerable",
+        "consideration",
+        "candidate",
+        "confident",
+        "cooperate",
+        "confidence",
+        "concentrate",
+        "consolidate"
+      ],
+      "question": {
+        "wordId": "considerate",
+        "stem": "选择 \"considerate\" 的正确中文意思：",
+        "correct": "a.考虑周到的,体谅的",
+        "options": [
+          "a.考虑周到的,体谅的",
+          "n.候选人,候补者;报考者",
+          "n.需要考虑的事,理由;考虑,思考;体谅,照顾",
+          "a.相当大(或多)的,可观的;值得考虑的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 consideratus（仔细查看的），由 con-（共同，加强）+ sider-（星星）构成，本义是“观察星象、仔细端详”，引申为“深思熟虑后对待他人”，强调体谅和周到。",
+        "similarWarning": "considerable（大量的，重要的） vs considerate（体谅的）：前者后缀 -able 表“能…的”，侧重数量或程度；后者后缀 -ate 表“具有…性质的”，侧重态度。",
+        "extendedMeaning": "在考研语境中无显著僻义，但注意其名词形式 consideration 常考“考虑；体谅”及固定搭配 take into consideration。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "consideration",
+      "word": "consideration",
+      "phonetic": "/kənˌsidə'reiʃən/",
+      "meaning": "n.需要考虑的事,理由;考虑,思考;体谅,照顾",
+      "similar": [
+        "considerate",
+        "conservation",
+        "considerable",
+        "conversation",
+        "concentration",
+        "combination",
+        "consumption",
+        "corporation"
+      ],
+      "question": {
+        "wordId": "consideration",
+        "stem": "选择 \"consideration\" 的正确中文意思：",
+        "correct": "n.需要考虑的事,理由;考虑,思考;体谅,照顾",
+        "options": [
+          "n.保存,保护,保守;守恒,不灭",
+          "a.相当大(或多)的,可观的;值得考虑的",
+          "a.考虑周到的,体谅的",
+          "n.需要考虑的事,理由;考虑,思考;体谅,照顾"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语consideratio，由com-（一起）+sider-（星星）构成，原指观察星辰以预测命运，后引申为仔细权衡。核心逻辑：将多个因素放在一起观察、权衡的过程，强调深度思考与审慎评估。",
+        "similarWarning": "considerate（adj.体贴的，考虑周到的）与consideration同源，但侧重为人着想的特质；conservation（n.保护，保存）强调对资源或环境的维护，词根serv-（保持）不同；considerable（adj.相当大的，重要的）仅表示程度，无动态思考过程。",
+        "extendedMeaning": "在考研真题中，常考\"报酬，补偿\"的僻义，如\"in consideration of\"（作为对…的报酬），或\"take into consideration\"（考虑到）的抽象用法，并非单纯指思考行为。",
+        "examUsage": "核心搭配：\"in consideration of\"（鉴于，作为对…的报酬）是真题完形填空高频考点；\"on no consideration\"（决不）用于强调否定条件；\"under consideration\"（在考虑中）常出现在阅读题干，需与\"under discussion\"区分。"
+      }
+    },
+    {
+      "id": "consist",
+      "word": "consist",
+      "phonetic": "/kən'sɪst/",
+      "meaning": "v.(in)在于,存在于;(of)由…组成,由…构成",
+      "similar": [
+        "insist",
+        "concise",
+        "consent",
+        "consult",
+        "contest",
+        "convict",
+        "conflict",
+        "conquest"
+      ],
+      "question": {
+        "wordId": "consist",
+        "stem": "选择 \"consist\" 的正确中文意思：",
+        "correct": "v.(in)在于,存在于;(of)由…组成,由…构成",
+        "options": [
+          "v.(in)在于,存在于;(of)由…组成,由…构成",
+          "vi.(on)坚持要求,坚决主张,坚持",
+          "a.简明的,简洁的",
+          "v./n.(to)同意,赞成,答应"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ sist（站立）。核心物理动作是“站在一起”。由各部分“共同站立”引申为“由…组成”；由所有特征“共同存在于某点”引申为“在于”。",
+        "similarWarning": "insist（in-进入 + sist 站立 → 站在里面不放 → 坚持）；consist（共同站立 → 组成/在于）。核心区别：前缀 con- 强调“共同”，in- 强调“向内”。",
+        "extendedMeaning": "",
+        "examUsage": "高频考点：consist of（由…组成，主动语态，无被动）；consist in（在于，后接抽象名词或动名词）。真题例句：Happiness does not consist in wealth.（幸福不在于财富。）"
+      }
+    },
+    {
+      "id": "consistent",
+      "word": "consistent",
+      "phonetic": "/kən'sistənt/",
+      "meaning": "a.(in)前后一致的；（with）一致，符合",
+      "similar": [
+        "constituent",
+        "constant",
+        "confident",
+        "continent",
+        "consultant",
+        "consider",
+        "assistant",
+        "competent"
+      ],
+      "question": {
+        "wordId": "consistent",
+        "stem": "选择 \"consistent\" 的正确中文意思：",
+        "correct": "a.(in)前后一致的；（with）一致，符合",
+        "options": [
+          "a.(in)前后一致的；（with）一致，符合",
+          "n.选民；成分，组分a.组成的，构成的",
+          "a.固定的，持续的,忠实的 n.常数,恒量",
+          "n.(of,in)确信的,自信的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "con-（共同）+ sist（站立）+ -ent（形容词后缀）→ 共同站立的 → 各部分在一起不矛盾 → 前后一致的；一致的。",
+        "similarWarning": "与constant（a.持续的/不变的）区别：consistent强调逻辑一致、连贯；constant强调频率稳定、恒定不变。与constituent（n.成分/a.组成的）区别：constituent侧重组成部分。",
+        "extendedMeaning": "（考研高频）指逻辑、论证、行为或数据的一致性，如consistent with（与……一致/相符），常用于判断推理是否成立。",
+        "examUsage": "真题考点：be consistent with（与……一致）是完形填空和翻译中的高频搭配，常与inconsistent（不一致）构成反义干扰。例句：The results are consistent with previous studies.（结果与先前研究一致。）"
+      }
+    }
+  ]
+}

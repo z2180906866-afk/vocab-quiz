@@ -1,0 +1,1682 @@
+{
+  "batchId": 96,
+  "words": [
+    {
+      "id": "van",
+      "word": "van",
+      "phonetic": "/væn/",
+      "meaning": "n.有篷汽车;有篷货运车厢",
+      "similar": [
+        "vain",
+        "ban",
+        "can",
+        "fan",
+        "man",
+        "pan",
+        "tan"
+      ],
+      "question": {
+        "wordId": "van",
+        "stem": "选择 \"van\" 的正确中文意思：",
+        "correct": "n.有篷汽车;有篷货运车厢",
+        "options": [
+          "v.取缔,查禁;(from)禁止 n.禁止,禁令",
+          "a.徒劳的,徒然的;自负的,爱虚荣的",
+          "aux.v.能；可以 n.罐头；容器 vt.把…装罐",
+          "n.有篷汽车;有篷货运车厢"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：van的核心含义与\"n.有篷汽车;有篷货运车厢\"相关",
+        "similarWarning": "注意区分：van 与 vain, ban, can, fan, man, pan, tan 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vanish",
+      "word": "vanish",
+      "phonetic": "/'væniʃ/",
+      "meaning": "vi.突然不见;消失",
+      "similar": [
+        "finish",
+        "punish",
+        "vanity"
+      ],
+      "question": {
+        "wordId": "vanish",
+        "stem": "选择 \"vanish\" 的正确中文意思：",
+        "correct": "vi.突然不见;消失",
+        "options": [
+          "n.完成;结束;磨光 v.完成;结束;用完;毁掉",
+          "vi.突然不见;消失",
+          "v.惩罚,处罚",
+          "n.虚荣心,浮华"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：vanish的核心含义与\"vi.突然不见;消失\"相关",
+        "similarWarning": "注意区分：vanish 与 finish, punish, vanity 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vanity",
+      "word": "vanity",
+      "phonetic": "/'vænəti/",
+      "meaning": "n.虚荣心,浮华",
+      "similar": [
+        "variety",
+        "unity",
+        "vanish",
+        "humanity",
+        "quantity",
+        "vicinity"
+      ],
+      "question": {
+        "wordId": "vanity",
+        "stem": "选择 \"vanity\" 的正确中文意思：",
+        "correct": "n.虚荣心,浮华",
+        "options": [
+          "n.团结;统一,一致,整体",
+          "n.种种,多种多样;种类,品种",
+          "vi.突然不见;消失",
+          "n.虚荣心,浮华"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：vanity的核心含义与\"n.虚荣心,浮华\"相关",
+        "similarWarning": "注意区分：vanity 与 variety, unity, vanish, humanity, quantity, vicinity 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vapour",
+      "word": "vapour",
+      "phonetic": "/'veɪpə(r)/",
+      "meaning": "n.(vapor)汽，(水)蒸气",
+      "similar": [
+        "pour"
+      ],
+      "question": {
+        "wordId": "vapour",
+        "stem": "选择 \"vapour\" 的正确中文意思：",
+        "correct": "n.(vapor)汽，(水)蒸气",
+        "options": [
+          "v.灌注, 倾泻, 涌入, 流, 倾盆大雨",
+          "n.部门，部分；防御地段，防区；扇形",
+          "n.(vapor)汽，(水)蒸气",
+          "a.适当的,恰当的,特有的 vt.拨给,挪用,盗用"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：vapour的核心含义与\"n.(vapor)汽，(水)蒸气\"相关",
+        "similarWarning": "注意区分：vapour 与 pour 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "variable",
+      "word": "variable",
+      "phonetic": "/'vεəriəbl/",
+      "meaning": "a.易变的;可变的;变量的 n.变量",
+      "similar": [
+        "amiable",
+        "valuable",
+        "invariably",
+        "available",
+        "liable",
+        "marble",
+        "capable",
+        "durable"
+      ],
+      "question": {
+        "wordId": "variable",
+        "stem": "选择 \"variable\" 的正确中文意思：",
+        "correct": "a.易变的;可变的;变量的 n.变量",
+        "options": [
+          "ad.不变地，永恒地，总是",
+          "a.贵重的,有价值的 n.(pl.)贵重物品,财宝",
+          "a.和蔼可亲的，友善的，亲切的",
+          "a.易变的;可变的;变量的 n.变量"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：variable的核心含义与\"a.易变的;可变的;变量的 n.变量\"相关",
+        "similarWarning": "注意区分：variable 与 amiable, valuable, invariably, available, liable, marble, capable, durable 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "variation",
+      "word": "variation",
+      "phonetic": "/ˌvεəri'eiʃən/",
+      "meaning": "n.变化,变动;变种,变异",
+      "similar": [
+        "aviation",
+        "vacation",
+        "navigation",
+        "duration",
+        "friction",
+        "vocation",
+        "formation",
+        "salvation"
+      ],
+      "question": {
+        "wordId": "variation",
+        "stem": "选择 \"variation\" 的正确中文意思：",
+        "correct": "n.变化,变动;变种,变异",
+        "options": [
+          "n.航空，航空学；飞机制造业",
+          "n.航海,航空;导航,领航",
+          "n.休假,假期",
+          "n.变化,变动;变种,变异"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：variation的核心含义与\"n.变化,变动;变种,变异\"相关",
+        "similarWarning": "注意区分：variation 与 aviation, vacation, navigation, duration, friction, vocation, formation, salvation 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "variety",
+      "word": "variety",
+      "phonetic": "/və'raɪəti/",
+      "meaning": "n.种种,多种多样;种类,品种",
+      "similar": [
+        "vanity"
+      ],
+      "question": {
+        "wordId": "variety",
+        "stem": "选择 \"variety\" 的正确中文意思：",
+        "correct": "n.种种,多种多样;种类,品种",
+        "options": [
+          "n.虚荣心,浮华",
+          "n.工具，用具；方法，手段",
+          "n.种种,多种多样;种类,品种",
+          "a.比较的,相当的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：variety的核心含义与\"n.种种,多种多样;种类,品种\"相关",
+        "similarWarning": "注意区分：variety 与 vanity 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "various",
+      "word": "various",
+      "phonetic": "/'vεəriəs/",
+      "meaning": "a.各种各样的;不同的",
+      "similar": [
+        "curious",
+        "furious",
+        "serious",
+        "vicious",
+        "cautious",
+        "glorious",
+        "gracious",
+        "spacious"
+      ],
+      "question": {
+        "wordId": "various",
+        "stem": "选择 \"various\" 的正确中文意思：",
+        "correct": "a.各种各样的;不同的",
+        "options": [
+          "a.严肃的;主要的;严重的,危急的;认真的",
+          "a.狂怒的,狂暴的,猛烈的",
+          "a.好奇的, 求知的, 古怪的, 爱挑剔的",
+          "a.各种各样的;不同的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：various的核心含义与\"a.各种各样的;不同的\"相关",
+        "similarWarning": "注意区分：various 与 curious, furious, serious, vicious, cautious, glorious, gracious, spacious 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vary",
+      "word": "vary",
+      "phonetic": "/'vεəri/",
+      "meaning": "vt.改变,变化;使多样化",
+      "similar": [
+        "very",
+        "carry",
+        "dairy",
+        "diary",
+        "early",
+        "every",
+        "fairy",
+        "marry"
+      ],
+      "question": {
+        "wordId": "vary",
+        "stem": "选择 \"vary\" 的正确中文意思：",
+        "correct": "vt.改变,变化;使多样化",
+        "options": [
+          "vt.改变,变化;使多样化",
+          "ad.很，非常；完全 a.正是的；真正，真实的",
+          "n.牛奶场,奶店",
+          "v.运送,搬运;传送,传播;领,带"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：vary的核心含义与\"vt.改变,变化;使多样化\"相关",
+        "similarWarning": "注意区分：vary 与 very, carry, dairy, diary, early, every, fairy, marry 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vase",
+      "word": "vase",
+      "phonetic": "/vɑ:z/",
+      "meaning": "n.花瓶,瓶",
+      "similar": [
+        "base",
+        "case",
+        "ease",
+        "vast",
+        "cause",
+        "cease",
+        "chase",
+        "erase"
+      ],
+      "question": {
+        "wordId": "vase",
+        "stem": "选择 \"vase\" 的正确中文意思：",
+        "correct": "n.花瓶,瓶",
+        "options": [
+          "v.减轻;使舒适,使安心 n.容易;舒适,悠闲",
+          "n.箱,盒,容器;情况,事实;病例;案件",
+          "n.基础,底部;根据地 v.(on)把…基于",
+          "n.花瓶,瓶"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：vase的核心含义与\"n.花瓶,瓶\"相关",
+        "similarWarning": "注意区分：vase 与 base, case, ease, vast, cause, cease, chase, erase 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vast",
+      "word": "vast",
+      "phonetic": "/vɑ:st/",
+      "meaning": "a.巨大的,辽阔的,大量的;巨额的",
+      "similar": [
+        "cast",
+        "east",
+        "fast",
+        "last",
+        "past",
+        "vase",
+        "vest",
+        "beast"
+      ],
+      "question": {
+        "wordId": "vast",
+        "stem": "选择 \"vast\" 的正确中文意思：",
+        "correct": "a.巨大的,辽阔的,大量的;巨额的",
+        "options": [
+          "a.巨大的,辽阔的,大量的;巨额的",
+          "v.投,扔,掷,抛；铸造；投票；n.演员表",
+          "n.东,东方,东部 a.东方的,东部的",
+          "a.快的，迅速的；坚固的 ad.紧紧地；迅速地"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：vast的核心含义与\"a.巨大的,辽阔的,大量的;巨额的\"相关",
+        "similarWarning": "注意区分：vast 与 cast, east, fast, last, past, vase, vest, beast 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vegetable",
+      "word": "vegetable",
+      "phonetic": "/'vedʒitəbl/",
+      "meaning": "n.蔬菜,植物 a.植物的,蔬菜的",
+      "similar": [
+        "inevitable",
+        "preferable",
+        "vegetarian",
+        "vegetation",
+        "vulnerable"
+      ],
+      "question": {
+        "wordId": "vegetable",
+        "stem": "选择 \"vegetable\" 的正确中文意思：",
+        "correct": "n.蔬菜,植物 a.植物的,蔬菜的",
+        "options": [
+          "n.蔬菜,植物 a.植物的,蔬菜的",
+          "a.不可避免的,必然发生的",
+          "n.素食主义者",
+          "a.(to)更可取的,更好的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：vegetable的核心含义与\"n.蔬菜,植物 a.植物的,蔬菜的\"相关",
+        "similarWarning": "注意区分：vegetable 与 inevitable, preferable, vegetarian, vegetation, vulnerable 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vegetarian",
+      "word": "vegetarian",
+      "phonetic": "/ˌvedʒi'tεəriən/",
+      "meaning": "n.素食主义者",
+      "similar": [
+        "vegetation",
+        "vegetable",
+        "pedestrian"
+      ],
+      "question": {
+        "wordId": "vegetarian",
+        "stem": "选择 \"vegetarian\" 的正确中文意思：",
+        "correct": "n.素食主义者",
+        "options": [
+          "n.素食主义者",
+          "n.蔬菜,植物 a.植物的,蔬菜的",
+          "n.植物,草木",
+          "n.步行者 a.徒步的,呆板的,通俗的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：vegetarian的核心含义与\"n.素食主义者\"相关",
+        "similarWarning": "注意区分：vegetarian 与 vegetation, vegetable, pedestrian 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vegetation",
+      "word": "vegetation",
+      "phonetic": "/ˌvedʒi'teiʃən/",
+      "meaning": "n.植物,草木",
+      "similar": [
+        "vegetarian",
+        "federation",
+        "generation",
+        "meditation",
+        "regulation",
+        "repetition",
+        "reputation",
+        "revelation"
+      ],
+      "question": {
+        "wordId": "vegetation",
+        "stem": "选择 \"vegetation\" 的正确中文意思：",
+        "correct": "n.植物,草木",
+        "options": [
+          "n.植物,草木",
+          "n.产生,发生;一代(人)",
+          "n.素食主义者",
+          "n.同盟;联邦;联合;联盟;联合会"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：vegetation的核心含义与\"n.植物,草木\"相关",
+        "similarWarning": "注意区分：vegetation 与 vegetarian, federation, generation, meditation, regulation, repetition, reputation, revelation 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vehicle",
+      "word": "vehicle",
+      "phonetic": "/'vi:ɪk(ə)l/",
+      "meaning": "n.车辆,交通工具;媒介,载体",
+      "similar": [],
+      "question": {
+        "wordId": "vehicle",
+        "stem": "选择 \"vehicle\" 的正确中文意思：",
+        "correct": "n.车辆,交通工具;媒介,载体",
+        "options": [
+          "v.擦,摩擦",
+          "n.脾气；韧度vt.调和，使缓和；使回火",
+          "n.自助餐",
+          "n.车辆,交通工具;媒介,载体"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：vehicle的核心含义与\"n.车辆,交通工具;媒介,载体\"相关",
+        "similarWarning": "注意区分：vehicle 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "veil",
+      "word": "veil",
+      "phonetic": "/veil/",
+      "meaning": "n.面纱,遮蔽物 v.用面纱掩盖,掩饰",
+      "similar": [
+        "vein",
+        "avail",
+        "devil"
+      ],
+      "question": {
+        "wordId": "veil",
+        "stem": "选择 \"veil\" 的正确中文意思：",
+        "correct": "n.面纱,遮蔽物 v.用面纱掩盖,掩饰",
+        "options": [
+          "n.[一般用于否定句或疑问句中]效用,利益",
+          "n.魔鬼",
+          "n.血管;静脉;叶脉;纹理;情绪 vt.使成脉络",
+          "n.面纱,遮蔽物 v.用面纱掩盖,掩饰"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：veil的核心含义与\"n.面纱,遮蔽物 v.用面纱掩盖,掩饰\"相关",
+        "similarWarning": "注意区分：veil 与 vein, avail, devil 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vein",
+      "word": "vein",
+      "phonetic": "/veɪn/",
+      "meaning": "n.血管;静脉;叶脉;纹理;情绪 vt.使成脉络",
+      "similar": [
+        "rein",
+        "vain",
+        "veil",
+        "begin",
+        "being",
+        "reign"
+      ],
+      "question": {
+        "wordId": "vein",
+        "stem": "选择 \"vein\" 的正确中文意思：",
+        "correct": "n.血管;静脉;叶脉;纹理;情绪 vt.使成脉络",
+        "options": [
+          "a.徒劳的,徒然的;自负的,爱虚荣的",
+          "n.面纱,遮蔽物 v.用面纱掩盖,掩饰",
+          "n.血管;静脉;叶脉;纹理;情绪 vt.使成脉络",
+          "n.缰绳,统治,支配 v.驾驭,控制,统治"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：vein的核心含义与\"n.血管;静脉;叶脉;纹理;情绪 vt.使成脉络\"相关",
+        "similarWarning": "注意区分：vein 与 rein, vain, veil, begin, being, reign 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "velocity",
+      "word": "velocity",
+      "phonetic": "/və'lɒsəti/",
+      "meaning": "n.速度,速率",
+      "similar": [],
+      "question": {
+        "wordId": "velocity",
+        "stem": "选择 \"velocity\" 的正确中文意思：",
+        "correct": "n.速度,速率",
+        "options": [
+          "n.生日；(成方)纪念日",
+          "a.相互的，彼此的；共同的，共有的",
+          "n.结构,构造;建筑物 v.构造,建造",
+          "n.速度,速率"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：velocity的核心含义与\"n.速度,速率\"相关",
+        "similarWarning": "注意区分：velocity 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "velvet",
+      "word": "velvet",
+      "phonetic": "/'velvit/",
+      "meaning": "n.丝绒,天鹅绒 a.丝绒制的,柔软的",
+      "similar": [
+        "valve",
+        "helmet"
+      ],
+      "question": {
+        "wordId": "velvet",
+        "stem": "选择 \"velvet\" 的正确中文意思：",
+        "correct": "n.丝绒,天鹅绒 a.丝绒制的,柔软的",
+        "options": [
+          "conj.(nonetheless)然而,不过ad.仍然,不过",
+          "n.头盔,钢盔",
+          "n.阀;(英)电子管,真空管;(心脏的）瓣膜",
+          "n.丝绒,天鹅绒 a.丝绒制的,柔软的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：velvet的核心含义与\"n.丝绒,天鹅绒 a.丝绒制的,柔软的\"相关",
+        "similarWarning": "注意区分：velvet 与 valve, helmet 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "ventilate",
+      "word": "ventilate",
+      "phonetic": "/'ventileit/",
+      "meaning": "vt.使通风;给…装通风设备",
+      "similar": [
+        "estimate",
+        "intimate",
+        "investigate",
+        "centigrade",
+        "centimetre",
+        "legitimate"
+      ],
+      "question": {
+        "wordId": "ventilate",
+        "stem": "选择 \"ventilate\" 的正确中文意思：",
+        "correct": "vt.使通风;给…装通风设备",
+        "options": [
+          "v./n.估计,估价;评估",
+          "v.调查,调查研究",
+          "vt.使通风;给…装通风设备",
+          "a.亲密的,密切的 n.熟友,熟人"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：ventilate的核心含义与\"vt.使通风;给…装通风设备\"相关",
+        "similarWarning": "注意区分：ventilate 与 estimate, intimate, investigate, centigrade, centimetre, legitimate 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "venture",
+      "word": "venture",
+      "phonetic": "/'ventʃə/",
+      "meaning": "v.冒险,拼;大胆表示 n.冒险事业,拼,闯",
+      "similar": [
+        "adventure",
+        "centre",
+        "endure",
+        "ensure",
+        "entire",
+        "century",
+        "feature",
+        "gesture"
+      ],
+      "question": {
+        "wordId": "venture",
+        "stem": "选择 \"venture\" 的正确中文意思：",
+        "correct": "v.冒险,拼;大胆表示 n.冒险事业,拼,闯",
+        "options": [
+          "n.中心，中央，中间 vt.集中 vi.以..为中心",
+          "v.冒险,拼;大胆表示 n.冒险事业,拼,闯",
+          "n.冒险，冒险活动，奇遇 vt.大胆进行",
+          "v.忍受,持久,持续"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：venture的核心含义与\"v.冒险,拼;大胆表示 n.冒险事业,拼,闯\"相关",
+        "similarWarning": "注意区分：venture 与 adventure, centre, endure, ensure, entire, century, feature, gesture 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "verb",
+      "word": "verb",
+      "phonetic": "/və:b/",
+      "meaning": "n.动词",
+      "similar": [
+        "herb",
+        "very",
+        "adverb",
+        "verbal",
+        "avert",
+        "every",
+        "verge",
+        "verse"
+      ],
+      "question": {
+        "wordId": "verb",
+        "stem": "选择 \"verb\" 的正确中文意思：",
+        "correct": "n.动词",
+        "options": [
+          "ad.很，非常；完全 a.正是的；真正，真实的",
+          "n.副词 a.副词的",
+          "n.动词",
+          "n.药草，(调味用的)香草，草本植物"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：verb的核心含义与\"n.动词\"相关",
+        "similarWarning": "注意区分：verb 与 herb, very, adverb, verbal, avert, every, verge, verse 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "verbal",
+      "word": "verbal",
+      "phonetic": "/'və:bəl/",
+      "meaning": "a.用言辞的,用文字的;口头的;动词的",
+      "similar": [
+        "verb",
+        "aerial",
+        "cereal",
+        "serial",
+        "vertical"
+      ],
+      "question": {
+        "wordId": "verbal",
+        "stem": "选择 \"verbal\" 的正确中文意思：",
+        "correct": "a.用言辞的,用文字的;口头的;动词的",
+        "options": [
+          "a.用言辞的,用文字的;口头的;动词的",
+          "a.(在或来自)空中的，航空的 n.天线",
+          "n.动词",
+          "n.加工而成的谷类食物；谷类植物，谷物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：verbal的核心含义与\"a.用言辞的,用文字的;口头的;动词的\"相关",
+        "similarWarning": "注意区分：verbal 与 verb, aerial, cereal, serial, vertical 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "verdict",
+      "word": "verdict",
+      "phonetic": "/'və:dikt/",
+      "meaning": "n.(陪审团的)裁决,判决；判断；定论",
+      "similar": [
+        "vertical"
+      ],
+      "question": {
+        "wordId": "verdict",
+        "stem": "选择 \"verdict\" 的正确中文意思：",
+        "correct": "n.(陪审团的)裁决,判决；判断；定论",
+        "options": [
+          "v.(at)诅咒,骂人;宣誓,发誓",
+          "a.垂直的,竖的 n.垂线",
+          "n.(陪审团的)裁决,判决；判断；定论",
+          "a.黑(色)的；黑暗的 n.黑(色)；黑暗；黑人"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：verdict的核心含义与\"n.(陪审团的)裁决,判决；判断；定论\"相关",
+        "similarWarning": "注意区分：verdict 与 vertical 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "verge",
+      "word": "verge",
+      "phonetic": "/və:dʒ/",
+      "meaning": "n.边,边缘 v.濒临",
+      "similar": [
+        "merge",
+        "verse",
+        "average",
+        "emerge",
+        "edge",
+        "here",
+        "mere",
+        "urge"
+      ],
+      "question": {
+        "wordId": "verge",
+        "stem": "选择 \"verge\" 的正确中文意思：",
+        "correct": "n.边,边缘 v.濒临",
+        "options": [
+          "n.韵文,诗;诗节,诗句",
+          "n.边,边缘 v.濒临",
+          "n.平均,平均数 a.平均的；普通的 v.平均",
+          "v.(使)结合，(使)合并，(使)合为一体"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：verge的核心含义与\"n.边,边缘 v.濒临\"相关",
+        "similarWarning": "注意区分：verge 与 merge, verse, average, emerge, edge, here, mere, urge 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "verify",
+      "word": "verify",
+      "phonetic": "/'verifai/",
+      "meaning": "vt.证实,查证;证明",
+      "similar": [
+        "certify",
+        "terrify",
+        "very",
+        "purify"
+      ],
+      "question": {
+        "wordId": "verify",
+        "stem": "选择 \"verify\" 的正确中文意思：",
+        "correct": "vt.证实,查证;证明",
+        "options": [
+          "v.使害怕,使惊恐",
+          "vt.证明，证实；发证书(或执照)给",
+          "vt.证实,查证;证明",
+          "ad.很，非常；完全 a.正是的；真正，真实的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：verify的核心含义与\"vt.证实,查证;证明\"相关",
+        "similarWarning": "注意区分：verify 与 certify, terrify, very, purify 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "versatile",
+      "word": "versatile",
+      "phonetic": "/'və:sətail/",
+      "meaning": "a.通用的;多才多艺的,多方面的",
+      "similar": [
+        "fertile"
+      ],
+      "question": {
+        "wordId": "versatile",
+        "stem": "选择 \"versatile\" 的正确中文意思：",
+        "correct": "a.通用的;多才多艺的,多方面的",
+        "options": [
+          "n.画室;播音室;(电影)制片厂",
+          "n.燃料 vt.给…加燃料",
+          "a.肥沃的,富饶的;能繁殖的",
+          "a.通用的;多才多艺的,多方面的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：versatile的核心含义与\"a.通用的;多才多艺的,多方面的\"相关",
+        "similarWarning": "注意区分：versatile 与 fertile 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "verse",
+      "word": "verse",
+      "phonetic": "/və:s/",
+      "meaning": "n.韵文,诗;诗节,诗句",
+      "similar": [
+        "verge",
+        "adverse",
+        "diverse",
+        "inverse",
+        "reverse",
+        "versus",
+        "vessel",
+        "ease"
+      ],
+      "question": {
+        "wordId": "verse",
+        "stem": "选择 \"verse\" 的正确中文意思：",
+        "correct": "n.韵文,诗;诗节,诗句",
+        "options": [
+          "n.韵文,诗;诗节,诗句",
+          "n.边,边缘 v.濒临",
+          "a.多种多样的,(from)不同的",
+          "a.逆的，相反的；敌对的；不利的；有害的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：verse的核心含义与\"n.韵文,诗;诗节,诗句\"相关",
+        "similarWarning": "注意区分：verse 与 verge, adverse, diverse, inverse, reverse, versus, vessel, ease 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "version",
+      "word": "version",
+      "phonetic": "/'və:ʃən/",
+      "meaning": "n.版本;译本,译文;说法",
+      "similar": [
+        "diversion",
+        "person",
+        "vision",
+        "erosion",
+        "pension",
+        "session",
+        "tension",
+        "decision"
+      ],
+      "question": {
+        "wordId": "version",
+        "stem": "选择 \"version\" 的正确中文意思：",
+        "correct": "n.版本;译本,译文;说法",
+        "options": [
+          "n.版本;译本,译文;说法",
+          "n.转向,转移;牵制;解闷;娱乐",
+          "n.人，喜欢(或适应)..的人；人物；人称",
+          "n.视力,视觉;远见;洞察力;幻想,幻影;想象力"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：version的核心含义与\"n.版本;译本,译文;说法\"相关",
+        "similarWarning": "注意区分：version 与 diversion, person, vision, erosion, pension, session, tension, decision 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "versus",
+      "word": "versus",
+      "phonetic": "/'və:səs/",
+      "meaning": "prep.(vs.)…对…(在诉讼,比赛等);与…相对",
+      "similar": [
+        "verse",
+        "virus",
+        "census",
+        "overseas"
+      ],
+      "question": {
+        "wordId": "versus",
+        "stem": "选择 \"versus\" 的正确中文意思：",
+        "correct": "prep.(vs.)…对…(在诉讼,比赛等);与…相对",
+        "options": [
+          "prep.(vs.)…对…(在诉讼,比赛等);与…相对",
+          "n.韵文,诗;诗节,诗句",
+          "n.病毒;(精神,道德方面的)有害影响",
+          "n.人口普查(调查)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：versus的核心含义与\"prep.(vs.)…对…(在诉讼,比赛等);与…相对\"相关",
+        "similarWarning": "注意区分：versus 与 verse, virus, census, overseas 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vertical",
+      "word": "vertical",
+      "phonetic": "/'vɜ:tɪkl/",
+      "meaning": "a.垂直的,竖的 n.垂线",
+      "similar": [
+        "identical",
+        "skeptical",
+        "aerial",
+        "serial",
+        "verbal",
+        "medical",
+        "optical",
+        "partial"
+      ],
+      "question": {
+        "wordId": "vertical",
+        "stem": "选择 \"vertical\" 的正确中文意思：",
+        "correct": "a.垂直的,竖的 n.垂线",
+        "options": [
+          "a.(在或来自)空中的，航空的 n.天线",
+          "a.垂直的,竖的 n.垂线",
+          "a.(to.with)同一的,同样的",
+          "a.怀疑的 [英]sceptical"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：vertical的核心含义与\"a.垂直的,竖的 n.垂线\"相关",
+        "similarWarning": "注意区分：vertical 与 identical, skeptical, aerial, serial, verbal, medical, optical, partial 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "very",
+      "word": "very",
+      "phonetic": "/'veri/",
+      "meaning": "ad.很，非常；完全 a.正是的；真正，真实的",
+      "similar": [
+        "every",
+        "vary",
+        "verb",
+        "verify",
+        "avert",
+        "ferry",
+        "mercy",
+        "merry"
+      ],
+      "question": {
+        "wordId": "very",
+        "stem": "选择 \"very\" 的正确中文意思：",
+        "correct": "ad.很，非常；完全 a.正是的；真正，真实的",
+        "options": [
+          "n.动词",
+          "vt.改变,变化;使多样化",
+          "a.每一个的，每个的；每隔…的；全部的",
+          "ad.很，非常；完全 a.正是的；真正，真实的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：very的核心含义与\"ad.很，非常；完全 a.正是的；真正，真实的\"相关",
+        "similarWarning": "注意区分：very 与 every, vary, verb, verify, avert, ferry, mercy, merry 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vessel",
+      "word": "vessel",
+      "phonetic": "/'vesəl/",
+      "meaning": "n.容器,器皿;船,舰;管,血管",
+      "similar": [
+        "verse"
+      ],
+      "question": {
+        "wordId": "vessel",
+        "stem": "选择 \"vessel\" 的正确中文意思：",
+        "correct": "n.容器,器皿;船,舰;管,血管",
+        "options": [
+          "a.正确无误的；准确的，精确的",
+          "n.眼(睛)；视力；眼力；监督vt.看，审视",
+          "n.韵文,诗;诗节,诗句",
+          "n.容器,器皿;船,舰;管,血管"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：vessel的核心含义与\"n.容器,器皿;船,舰;管,血管\"相关",
+        "similarWarning": "注意区分：vessel 与 verse 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vest",
+      "word": "vest",
+      "phonetic": "/vest/",
+      "meaning": "n.背心,马甲;汗衫,内衣",
+      "similar": [
+        "best",
+        "lest",
+        "nest",
+        "pest",
+        "rest",
+        "test",
+        "vast",
+        "west"
+      ],
+      "question": {
+        "wordId": "vest",
+        "stem": "选择 \"vest\" 的正确中文意思：",
+        "correct": "n.背心,马甲;汗衫,内衣",
+        "options": [
+          "conj.惟恐,免得",
+          "a.最好的(good和well最高级) ad.最好地；",
+          "n.窝,巢 v.筑巢",
+          "n.背心,马甲;汗衫,内衣"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：vest的核心含义与\"n.背心,马甲;汗衫,内衣\"相关",
+        "similarWarning": "注意区分：vest 与 best, lest, nest, pest, rest, test, vast, west 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "veteran",
+      "word": "veteran",
+      "phonetic": "/'vetərən/",
+      "meaning": "n.老手,老兵",
+      "similar": [],
+      "question": {
+        "wordId": "veteran",
+        "stem": "选择 \"veteran\" 的正确中文意思：",
+        "correct": "n.老手,老兵",
+        "options": [
+          "n.老手,老兵",
+          "v.下来,下降;遗传(指财产,气质,权利)",
+          "v./n.碰撞,坠落,摔坏 n.失败,瓦解;爆裂声",
+          "a.严守时刻的,准时的,正点的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：veteran的核心含义与\"n.老手,老兵\"相关",
+        "similarWarning": "注意区分：veteran 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "veto",
+      "word": "veto",
+      "phonetic": "/'vi:təu/",
+      "meaning": "n./v.否决",
+      "similar": [],
+      "question": {
+        "wordId": "veto",
+        "stem": "选择 \"veto\" 的正确中文意思：",
+        "correct": "n./v.否决",
+        "options": [
+          "v.抵达;(out)伸手,够到 n.能达到的范围",
+          "n./v.否决",
+          "n.候选人,候补者;报考者",
+          "v./n.跳跃,跳动,跳过;暴涨,猛增"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：veto的核心含义与\"n./v.否决\"相关",
+        "similarWarning": "注意区分：veto 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "via",
+      "word": "via",
+      "phonetic": "/'vaiə/",
+      "meaning": "prep.经；通过；凭借",
+      "similar": [
+        "visa",
+        "vital"
+      ],
+      "question": {
+        "wordId": "via",
+        "stem": "选择 \"via\" 的正确中文意思：",
+        "correct": "prep.经；通过；凭借",
+        "options": [
+          "n.协调,和谐;融洽",
+          "a.生死攸关的,重大的;生命的,生机的",
+          "n.(护照等的)签证;维萨信用卡 vt.签证",
+          "prep.经；通过；凭借"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：via的核心含义与\"prep.经；通过；凭借\"相关",
+        "similarWarning": "注意区分：via 与 visa, vital 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vibrate",
+      "word": "vibrate",
+      "phonetic": "/vai'breit/",
+      "meaning": "v.(使)振动,(使)摇摆；受…而感动",
+      "similar": [
+        "liberate",
+        "pirate",
+        "migrate",
+        "violate",
+        "emigrate"
+      ],
+      "question": {
+        "wordId": "vibrate",
+        "stem": "选择 \"vibrate\" 的正确中文意思：",
+        "correct": "v.(使)振动,(使)摇摆；受…而感动",
+        "options": [
+          "v.(使)振动,(使)摇摆；受…而感动",
+          "vt.解放,释放",
+          "v.迁移,移居(国外)",
+          "n./v.海盗,盗版(者)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：vibrate的核心含义与\"v.(使)振动,(使)摇摆；受…而感动\"相关",
+        "similarWarning": "注意区分：vibrate 与 liberate, pirate, migrate, violate, emigrate 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vice",
+      "word": "vice",
+      "phonetic": "/vais/",
+      "meaning": "n.邪恶;恶习;(pl.)台钳,老虎钳",
+      "similar": [
+        "voice",
+        "ice",
+        "nice",
+        "rice",
+        "advice",
+        "device",
+        "juice",
+        "niece"
+      ],
+      "question": {
+        "wordId": "vice",
+        "stem": "选择 \"vice\" 的正确中文意思：",
+        "correct": "n.邪恶;恶习;(pl.)台钳,老虎钳",
+        "options": [
+          "n.邪恶;恶习;(pl.)台钳,老虎钳",
+          "n.声音;嗓音;发音能力;意见,发言权;语态",
+          "n.冰；冰冻甜食 vt.冰冻，使成冰",
+          "a.美好的，令人愉快的；友好的，亲切的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：vice的核心含义与\"n.邪恶;恶习;(pl.)台钳,老虎钳\"相关",
+        "similarWarning": "注意区分：vice 与 voice, ice, nice, rice, advice, device, juice, niece 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vicinity",
+      "word": "vicinity",
+      "phonetic": "/vɪ'sɪnɪtɪ/",
+      "meaning": "n.邻近,附近",
+      "similar": [
+        "vanity",
+        "dignity",
+        "facility"
+      ],
+      "question": {
+        "wordId": "vicinity",
+        "stem": "选择 \"vicinity\" 的正确中文意思：",
+        "correct": "n.邻近,附近",
+        "options": [
+          "n.灵巧,熟练;(pl.)设备,设施,便利条件",
+          "n.(举止,态度等的)庄严,端庄;尊贵,高贵",
+          "n.虚荣心,浮华",
+          "n.邻近,附近"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：vicinity的核心含义与\"n.邻近,附近\"相关",
+        "similarWarning": "注意区分：vicinity 与 vanity, dignity, facility 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vicious",
+      "word": "vicious",
+      "phonetic": "/'viʃəs/",
+      "meaning": "a.恶毒的,凶残的,邪恶的",
+      "similar": [
+        "various",
+        "delicious",
+        "gracious",
+        "precious",
+        "spacious",
+        "vigorous"
+      ],
+      "question": {
+        "wordId": "vicious",
+        "stem": "选择 \"vicious\" 的正确中文意思：",
+        "correct": "a.恶毒的,凶残的,邪恶的",
+        "options": [
+          "a.亲切的,客气的;宽厚的,仁慈的",
+          "a.恶毒的,凶残的,邪恶的",
+          "a.美味的;美妙的;使人愉快的",
+          "a.各种各样的;不同的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：vicious的核心含义与\"a.恶毒的,凶残的,邪恶的\"相关",
+        "similarWarning": "注意区分：vicious 与 various, delicious, gracious, precious, spacious, vigorous 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "victim",
+      "word": "victim",
+      "phonetic": "/'viktim/",
+      "meaning": "n.牺牲品,受害者",
+      "similar": [],
+      "question": {
+        "wordId": "victim",
+        "stem": "选择 \"victim\" 的正确中文意思：",
+        "correct": "n.牺牲品,受害者",
+        "options": [
+          "n.牺牲品,受害者",
+          "n.信任,信心,依靠,依靠的人或物",
+          "n.理论,原理;学说,见解,看法",
+          "n.陆地,土地,国家 v.(使)靠岸(登陆,降落)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：victim的核心含义与\"n.牺牲品,受害者\"相关",
+        "similarWarning": "注意区分：victim 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "victory",
+      "word": "victory",
+      "phonetic": "/'viktəri/",
+      "meaning": "n.胜利",
+      "similar": [
+        "factory",
+        "history",
+        "directory"
+      ],
+      "question": {
+        "wordId": "victory",
+        "stem": "选择 \"victory\" 的正确中文意思：",
+        "correct": "n.胜利",
+        "options": [
+          "n.胜利",
+          "n.工厂",
+          "n.历史,历史学;来历,经历",
+          "n.人名地址录,(电话)号码簿"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：victory的核心含义与\"n.胜利\"相关",
+        "similarWarning": "注意区分：victory 与 factory, history, directory 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "video",
+      "word": "video",
+      "phonetic": "/'vidiəu/",
+      "meaning": "n.电视,视频;录像 a.电视的,视频的;录像的",
+      "similar": [
+        "hide",
+        "idea",
+        "ride",
+        "side",
+        "tide",
+        "vice",
+        "view",
+        "wide"
+      ],
+      "question": {
+        "wordId": "video",
+        "stem": "选择 \"video\" 的正确中文意思：",
+        "correct": "n.电视,视频;录像 a.电视的,视频的;录像的",
+        "options": [
+          "v./n.骑,乘",
+          "n.想法，念头；概念，观念；意见，主意",
+          "v.隐藏,躲藏;隐瞒 n.皮革,兽皮",
+          "n.电视,视频;录像 a.电视的,视频的;录像的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：video的核心含义与\"n.电视,视频;录像 a.电视的,视频的;录像的\"相关",
+        "similarWarning": "注意区分：video 与 hide, idea, ride, side, tide, vice, view, wide 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "view",
+      "word": "view",
+      "phonetic": "/vju:/",
+      "meaning": "n.视野;风景;观察;见解;照片 vt.观察;认为",
+      "similar": [
+        "review",
+        "video"
+      ],
+      "question": {
+        "wordId": "view",
+        "stem": "选择 \"view\" 的正确中文意思：",
+        "correct": "n.视野;风景;观察;见解;照片 vt.观察;认为",
+        "options": [
+          "v.回顾,复习 n.回顾,复习;评论",
+          "n.标记,招牌;征兆,迹象v.签名(于),署名(于)",
+          "n.电视,视频;录像 a.电视的,视频的;录像的",
+          "n.视野;风景;观察;见解;照片 vt.观察;认为"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：view的核心含义与\"n.视野;风景;观察;见解;照片 vt.观察;认为\"相关",
+        "similarWarning": "注意区分：view 与 review, video 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "viewpoint",
+      "word": "viewpoint",
+      "phonetic": "/'vju:pɔint/",
+      "meaning": "n.观点",
+      "similar": [
+        "disappoint"
+      ],
+      "question": {
+        "wordId": "viewpoint",
+        "stem": "选择 \"viewpoint\" 的正确中文意思：",
+        "correct": "n.观点",
+        "options": [
+          "n.观点",
+          "vt.失望；(希望等)破灭，挫败(计划等)",
+          "n.稳定,安定",
+          "n.母鸡"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：viewpoint的核心含义与\"n.观点\"相关",
+        "similarWarning": "注意区分：viewpoint 与 disappoint 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vigorous",
+      "word": "vigorous",
+      "phonetic": "/'vigərəs/",
+      "meaning": "a.朝气蓬勃的,精力旺盛的",
+      "similar": [
+        "rigorous",
+        "vicious",
+        "humorous"
+      ],
+      "question": {
+        "wordId": "vigorous",
+        "stem": "选择 \"vigorous\" 的正确中文意思：",
+        "correct": "a.朝气蓬勃的,精力旺盛的",
+        "options": [
+          "a.富于幽默感的，幽默的；滑稽的",
+          "a.严格的,严厉的,严酷的,严密的,严谨的",
+          "a.朝气蓬勃的,精力旺盛的",
+          "a.恶毒的,凶残的,邪恶的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：vigorous的核心含义与\"a.朝气蓬勃的,精力旺盛的\"相关",
+        "similarWarning": "注意区分：vigorous 与 rigorous, vicious, humorous 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "village",
+      "word": "village",
+      "phonetic": "/'vilidʒ/",
+      "meaning": "n.村,村庄",
+      "similar": [
+        "violate",
+        "voltage"
+      ],
+      "question": {
+        "wordId": "village",
+        "stem": "选择 \"village\" 的正确中文意思：",
+        "correct": "n.村,村庄",
+        "options": [
+          "n.村,村庄",
+          "vt.违背;冒犯;妨碍;侵犯;亵渎(圣物)",
+          "n.电压",
+          "n.&v.(挖)沟，(挖)战壕"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：village的核心含义与\"n.村,村庄\"相关",
+        "similarWarning": "注意区分：village 与 violate, voltage 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "vinegar",
+      "word": "vinegar",
+      "phonetic": "/'vinigə/",
+      "meaning": "n.醋",
+      "similar": [
+        "linear"
+      ],
+      "question": {
+        "wordId": "vinegar",
+        "stem": "选择 \"vinegar\" 的正确中文意思：",
+        "correct": "n.醋",
+        "options": [
+          "n.法官;裁判员;鉴定人 vt.审判;评论,裁判",
+          "a.线的，直线的，线状的；长度的；线性的",
+          "n.(常pl.)塑料,塑料制品 a.可塑的,塑性的",
+          "n.醋"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：vinegar的核心含义与\"n.醋\"相关",
+        "similarWarning": "注意区分：vinegar 与 linear 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "violate",
+      "word": "violate",
+      "phonetic": "/'vaiəleit/",
+      "meaning": "vt.违背;冒犯;妨碍;侵犯;亵渎(圣物)",
+      "similar": [
+        "violet",
+        "isolate",
+        "vibrate",
+        "village",
+        "desolate",
+        "simulate",
+        "violence"
+      ],
+      "question": {
+        "wordId": "violate",
+        "stem": "选择 \"violate\" 的正确中文意思：",
+        "correct": "vt.违背;冒犯;妨碍;侵犯;亵渎(圣物)",
+        "options": [
+          "vt.隔离,孤立",
+          "n.紫罗兰,紫色 a.紫色的",
+          "vt.违背;冒犯;妨碍;侵犯;亵渎(圣物)",
+          "v.(使)振动,(使)摇摆；受…而感动"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：violate的核心含义与\"vt.违背;冒犯;妨碍;侵犯;亵渎(圣物)\"相关",
+        "similarWarning": "注意区分：violate 与 violet, isolate, vibrate, village, desolate, simulate, violence 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "violence",
+      "word": "violence",
+      "phonetic": "/'vaiələns/",
+      "meaning": "n.猛烈,强烈;暴力,暴行;强暴",
+      "similar": [
+        "silence",
+        "violent",
+        "violet",
+        "violin",
+        "violate",
+        "evidence"
+      ],
+      "question": {
+        "wordId": "violence",
+        "stem": "选择 \"violence\" 的正确中文意思：",
+        "correct": "n.猛烈,强烈;暴力,暴行;强暴",
+        "options": [
+          "n.寂静,沉默 v.使沉默,使安静",
+          "n.紫罗兰,紫色 a.紫色的",
+          "n.猛烈,强烈;暴力,暴行;强暴",
+          "a.猛烈的,激烈的;暴力引起的,强暴的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：violence的核心含义与\"n.猛烈,强烈;暴力,暴行;强暴\"相关",
+        "similarWarning": "注意区分：violence 与 silence, violent, violet, violin, violate, evidence 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "violent",
+      "word": "violent",
+      "phonetic": "/'vaiələnt/",
+      "meaning": "a.猛烈的,激烈的;暴力引起的,强暴的",
+      "similar": [
+        "violet",
+        "violence",
+        "silent",
+        "violin"
+      ],
+      "question": {
+        "wordId": "violent",
+        "stem": "选择 \"violent\" 的正确中文意思：",
+        "correct": "a.猛烈的,激烈的;暴力引起的,强暴的",
+        "options": [
+          "n.猛烈,强烈;暴力,暴行;强暴",
+          "a.猛烈的,激烈的;暴力引起的,强暴的",
+          "a.寂静,沉默的",
+          "n.紫罗兰,紫色 a.紫色的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：violent的核心含义与\"a.猛烈的,激烈的;暴力引起的,强暴的\"相关",
+        "similarWarning": "注意区分：violent 与 violet, violence, silent, violin 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "violet",
+      "word": "violet",
+      "phonetic": "/'vaiələt/",
+      "meaning": "n.紫罗兰,紫色 a.紫色的",
+      "similar": [
+        "violent",
+        "violate",
+        "volt",
+        "inlet",
+        "violin",
+        "violence"
+      ],
+      "question": {
+        "wordId": "violet",
+        "stem": "选择 \"violet\" 的正确中文意思：",
+        "correct": "n.紫罗兰,紫色 a.紫色的",
+        "options": [
+          "n.紫罗兰,紫色 a.紫色的",
+          "a.猛烈的,激烈的;暴力引起的,强暴的",
+          "vt.违背;冒犯;妨碍;侵犯;亵渎(圣物)",
+          "n.伏特"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：violet的核心含义与\"n.紫罗兰,紫色 a.紫色的\"相关",
+        "similarWarning": "注意区分：violet 与 violent, violate, volt, inlet, violin, violence 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "violin",
+      "word": "violin",
+      "phonetic": "/ˌvaɪə'lɪn/",
+      "meaning": "n.小提琴",
+      "similar": [
+        "violent",
+        "violet",
+        "virgin",
+        "violence"
+      ],
+      "question": {
+        "wordId": "violin",
+        "stem": "选择 \"violin\" 的正确中文意思：",
+        "correct": "n.小提琴",
+        "options": [
+          "n.紫罗兰,紫色 a.紫色的",
+          "a.猛烈的,激烈的;暴力引起的,强暴的",
+          "n.处女 a.处女的;纯洁的;原始的;未使用的",
+          "n.小提琴"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：violin的核心含义与\"n.小提琴\"相关",
+        "similarWarning": "注意区分：violin 与 violent, violet, virgin, violence 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "virgin",
+      "word": "virgin",
+      "phonetic": "/'və:dʒin/",
+      "meaning": "n.处女 a.处女的;纯洁的;原始的;未使用的",
+      "similar": [
+        "margin",
+        "violin"
+      ],
+      "question": {
+        "wordId": "virgin",
+        "stem": "选择 \"virgin\" 的正确中文意思：",
+        "correct": "n.处女 a.处女的;纯洁的;原始的;未使用的",
+        "options": [
+          "n.处女 a.处女的;纯洁的;原始的;未使用的",
+          "n.页边空白;边缘;余地;幅度",
+          "n.小提琴",
+          "a.凭经验(或观察)的,经验主义的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：virgin的核心含义与\"n.处女 a.处女的;纯洁的;原始的;未使用的\"相关",
+        "similarWarning": "注意区分：virgin 与 margin, violin 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1703 @@
+{
+  "batchId": 34,
+  "words": [
+    {
+      "id": "fortunate",
+      "word": "fortunate",
+      "phonetic": "/'fɔ:tʃənit/",
+      "meaning": "a.幸运的,侥幸的",
+      "similar": [
+        "fortune",
+        "formulate",
+        "coordinate",
+        "coordinate"
+      ],
+      "question": {
+        "wordId": "fortunate",
+        "stem": "选择 \"fortunate\" 的正确中文意思：",
+        "correct": "a.幸运的,侥幸的",
+        "options": [
+          "a.同等的 n.同等者,坐标 vt.协作，协调",
+          "v. 用公式表示;规划;设计;系统地阐述",
+          "n.运气;命运;财产;财富",
+          "a.幸运的,侥幸的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语“fortuna”（运气、命运），由“fors”（机会、运气）派生。核心动作是“命运赐予的”，强调偶然的、非人为控制的幸运结果。",
+        "similarWarning": "形近词辨析：fortune（n.财富，运气；fortunate的名词形式）；formulate（v.制定，规划；词根form，与fortunate无关联）；coordinate（v.协调，n.坐标；词根ordin，意为“顺序”）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fortune",
+      "word": "fortune",
+      "phonetic": "/'fɔ:tʃən/",
+      "meaning": "n.运气;命运;财产;财富",
+      "similar": [
+        "fortunate",
+        "torture"
+      ],
+      "question": {
+        "wordId": "fortune",
+        "stem": "选择 \"fortune\" 的正确中文意思：",
+        "correct": "n.运气;命运;财产;财富",
+        "options": [
+          "n.运气;命运;财产;财富",
+          "v.拷问,拷打;折磨,磨难 n.拷问;折磨,痛苦",
+          "v.(使)分散;(使)散开;疏散",
+          "a.幸运的,侥幸的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语“fors”（运气、机会），-une为名词后缀。核心物理动作为“命运掷出的骰子”，即随机降临的运气或机遇，引申为命运的结果和财富（好运带来的财产）。",
+        "similarWarning": "fortunate（adj.幸运的）是fortune的形容词形式，共享词根；torture（v./n.折磨）词根为tort-（扭曲），与fortune无词源关联，拼写差异在于首字母f/t和中间字母u/o。",
+        "extendedMeaning": "在考研语境中，“fortune”常作“财产、财富”解，如“make a fortune”（发财），但“fortune”本身并不直接表示“幸运”，其“运气”义多见于短语“good fortune”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "forty",
+      "word": "forty",
+      "phonetic": "/'fɔ:ti/",
+      "meaning": "num./a.四十 pron.四十(个，只...)",
+      "similar": [
+        "forth",
+        "worthy",
+        "fry",
+        "fore",
+        "fork",
+        "form",
+        "port",
+        "dirty"
+      ],
+      "question": {
+        "wordId": "forty",
+        "stem": "选择 \"forty\" 的正确中文意思：",
+        "correct": "num./a.四十 pron.四十(个，只...)",
+        "options": [
+          "a.(of)值得…的,配得上…的;有价值的",
+          "num./a.四十 pron.四十(个，只...)",
+          "v.油煎,油炸",
+          "ad.向前；向外，往外"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古英语 feowertig，由 feower（四） + -tig（十）组成，表示‘四十’。词根数字结构简单，直接对应中文‘四十’的音义。",
+        "similarWarning": "forth（向前，向外） vs forty（四十）：forth 以 -th 结尾，表示方向；forty 以 -ty 结尾，表示数字。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "forum",
+      "word": "forum",
+      "phonetic": "/'fɔ:rəm/",
+      "meaning": "n.论坛,讨论会",
+      "similar": [
+        "form",
+        "dorm",
+        "drum",
+        "farm",
+        "firm",
+        "foam",
+        "fore",
+        "fork"
+      ],
+      "question": {
+        "wordId": "forum",
+        "stem": "选择 \"forum\" 的正确中文意思：",
+        "correct": "n.论坛,讨论会",
+        "options": [
+          "n.鼓;圆桶",
+          "n.(dormitory)［美］［口］宿舍",
+          "n.形状,形式;表格 v.组成,构成;形成",
+          "n.论坛,讨论会"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语forum，原指古罗马城镇中用于集会和审判的公共广场。词根for-（门外/公开） + -um（地点后缀），核心动作是“在公共空间聚集讨论”。引申为现代意义的讨论场所或会议。",
+        "similarWarning": "form（形式/表格） vs forum：form无-u-，且词源不同；for（为了/因为） vs forum：for是介词，拼写少-um；dorm（宿舍） vs forum：dorm以d开头，指睡觉场所；drum（鼓） vs forum：drum元音为u，指乐器；farm（农场） vs forum：farm以a为元音，指农业用地；firm（公司/牢固的） vs forum：firm以i为元音，指实体或状态；foam（泡沫） vs forum：foam以oa双元音，指气泡；fore（前部的） vs forum：fore以e结尾，指方位。",
+        "extendedMeaning": "在考研外刊中，forum常引申为“（在线）讨论平台”或“（意见）交流渠道”，如an online forum（在线论坛）。",
+        "examUsage": "真题中常以the forum for debate（辩论论坛）或provide a forum for discussion（提供讨论平台）等固定搭配出现，作为阅读或完形中的语境词。"
+      }
+    },
+    {
+      "id": "fossil",
+      "word": "fossil",
+      "phonetic": "/'fɔsəl/",
+      "meaning": "n.化石",
+      "similar": [
+        "gossip",
+        "possibly"
+      ],
+      "question": {
+        "wordId": "fossil",
+        "stem": "选择 \"fossil\" 的正确中文意思：",
+        "correct": "n.化石",
+        "options": [
+          "vt./n.转移；转换；转让；过户；迁移；改乘",
+          "n.化石",
+          "n./v.(说)闲话,闲聊",
+          "ad.可能地，也许；无论如何"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语“fossilis”（挖掘出来的），词根“fod-”意为“dig（挖掘）”。核心动作：从地下挖出的古代生物遗骸或遗迹，引申为任何古老、固化的事物。",
+        "similarWarning": "gossip（n.八卦，闲话）vs fossil：gossip以“g”开头，强调闲聊传播；fossil以“f”开头，强调挖掘出的化石。possible（adj.可能的）vs fossil：possible含“-ible”后缀，表可能性；fossil含“-il”后缀，表物体。",
+        "extendedMeaning": "熟词僻义：在考研中可引申为“顽固不化的人或事物”，如“fossilized ideas”（僵化的思想），强调过时、固化的状态。",
+        "examUsage": "真题考点：常与“fuel”搭配为“fossil fuel”（化石燃料），是环境类阅读的高频词。注意“fossil”作名词时，可作定语修饰其他名词，如“fossil record”（化石记录）。"
+      }
+    },
+    {
+      "id": "foster",
+      "word": "foster",
+      "phonetic": "/'fɔstə/",
+      "meaning": "vt.养育;收养;怀抱;鼓励 a.收养的 n.养育者",
+      "similar": [
+        "poster",
+        "monster",
+        "outer",
+        "easter",
+        "fasten",
+        "filter",
+        "former",
+        "porter"
+      ],
+      "question": {
+        "wordId": "foster",
+        "stem": "选择 \"foster\" 的正确中文意思：",
+        "correct": "vt.养育;收养;怀抱;鼓励 a.收养的 n.养育者",
+        "options": [
+          "a.外部的,外面的,外层的",
+          "n海报,张贴的大幅广告",
+          "vt.养育;收养;怀抱;鼓励 a.收养的 n.养育者",
+          "n.怪物,妖怪,畸形的动植物"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "foster源自古英语fostrian，意为‘喂养、养育’，与food同源，核心动作是‘给予滋养’→‘抚养、促进’",
+        "similarWarning": "poster（海报） vs foster（养育）：p-海报展示，f-抚养；master（主人） vs foster（养育者）：m-掌控，f-滋养",
+        "extendedMeaning": "考研僻义：怀抱（希望、情感等抽象事物），如foster a dream（怀揣梦想）；鼓励（发展、关系等），如foster cooperation（促进合作）",
+        "examUsage": "真题考点：foster常作及物动词，后接抽象名词（如foster innovation/ties），注意区分与promote（侧重推广）、nurture（侧重培养）的细微差异"
+      }
+    },
+    {
+      "id": "foul",
+      "word": "foul",
+      "phonetic": "/faul/",
+      "meaning": "a.污秽的;邪恶的 v.弄脏;妨害;犯规 n.犯规",
+      "similar": [
+        "fool",
+        "four",
+        "soul",
+        "fault",
+        "flour",
+        "focus",
+        "forum",
+        "found"
+      ],
+      "question": {
+        "wordId": "foul",
+        "stem": "选择 \"foul\" 的正确中文意思：",
+        "correct": "a.污秽的;邪恶的 v.弄脏;妨害;犯规 n.犯规",
+        "options": [
+          "a.污秽的;邪恶的 v.弄脏;妨害;犯规 n.犯规",
+          "n.傻子，笨蛋vt.欺骗，愚弄vi.干蠢事",
+          "num.四 pron./a.四(个，只...)",
+          "n.灵魂,心灵;精神,精力;人"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源来自古英语fūl，核心物理动作为“腐烂、发臭”，引申为“不洁的、肮脏的”，进而指“违规行为”（如同玷污规则）。",
+        "similarWarning": "foul vs fool：foul（污秽的）含字母u，fool（傻瓜）含双o；foul vs fault：foul（犯规）无t，fault（过错）含t。",
+        "extendedMeaning": "考研僻义：a. 恶劣的（天气）；v. 纠缠（线路）；n. 违规（体育/法律）。",
+        "examUsage": "真题考点：foul play（不正当行为/犯规）；foul one's own nest（家丑外扬）。"
+      }
+    },
+    {
+      "id": "found",
+      "word": "found",
+      "phonetic": "/faund/",
+      "meaning": "vt.建立;创立;创办;使有根据;铸造;熔制",
+      "similar": [
+        "fond",
+        "fund",
+        "bound",
+        "hound",
+        "pound",
+        "wound",
+        "abound",
+        "around"
+      ],
+      "question": {
+        "wordId": "found",
+        "stem": "选择 \"found\" 的正确中文意思：",
+        "correct": "vt.建立;创立;创办;使有根据;铸造;熔制",
+        "options": [
+          "vt.建立;创立;创办;使有根据;铸造;熔制",
+          "n.资金,基金;存款,现款;(知识等的)累积",
+          "v./n.跳(跃) a.被束缚的，一定的；n.界限",
+          "a.(of)喜爱的,爱好的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源于拉丁语'fundus'（底部）→'fundare'（打基础）→古法语'fonder'→英语'found'。核心物理动作为'打下地基'，引申为'建立、创立'。",
+        "similarWarning": "fond（喜爱的） vs found（建立） vs fund（资金） vs bound（界限/跳跃） vs hound（猎犬/追逼） vs pound（磅/重击） vs round（圆的/使成圆形） vs sound（声音/健全的） vs wound（伤口/伤害）。注意'found'与'fund'仅差一个字母，但词义完全不同：found是建立，fund是资金。",
+        "extendedMeaning": "使有根据（如'found a theory on facts'以事实为依据建立理论）；铸造、熔制（如'found metal'铸造金属）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "foundation",
+      "word": "foundation",
+      "phonetic": "/faun'deiʃən/",
+      "meaning": "n.基础,根本,建立,创立;地基,基金,基金会",
+      "similar": [
+        "fountain",
+        "function",
+        "condition",
+        "formation",
+        "duration",
+        "equation",
+        "junction",
+        "location"
+      ],
+      "question": {
+        "wordId": "foundation",
+        "stem": "选择 \"foundation\" 的正确中文意思：",
+        "correct": "n.基础,根本,建立,创立;地基,基金,基金会",
+        "options": [
+          "n.条件，状况，环境 vt.决定；支配；训练",
+          "n.功能,作用;(pl.)职务;函数 v.起作用",
+          "n.泉水,喷泉,源泉",
+          "n.基础,根本,建立,创立;地基,基金,基金会"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根found-（底，基）+ -ation（名词后缀）。源自拉丁语fundus（底部），核心物理动作为“打下基底”，引申为建筑物的地基、抽象事物的基础、或为特定目的而设立的基金会。",
+        "similarWarning": "fountain（喷泉）vs foundation（基础）：fountain中foun-表“泉”，foundation中found-表“底”；function（功能）vs foundation：function中func-表“执行”，无“基”义；condition（条件）vs foundation：condition中con-+dit-表“共同说”，指状态而非根基。",
+        "extendedMeaning": "考研僻义：基金、基金会（如the Rockefeller Foundation洛克菲勒基金会），常出现在经济、社会类文章，指为特定目的设立的资助机构。",
+        "examUsage": "常见搭配：lay a foundation（打下基础），foundation of modern science（现代科学的基础）；真题中可能作为干扰项与base, basis辨析：foundation强调稳固的根基（常指具体建筑地基或抽象理论基石），base多指支撑点或基地。"
+      }
+    },
+    {
+      "id": "fountain",
+      "word": "fountain",
+      "phonetic": "/'fauntin/",
+      "meaning": "n.泉水,喷泉,源泉",
+      "similar": [
+        "contain",
+        "foundation",
+        "obtain",
+        "curtain",
+        "sustain",
+        "fourteen",
+        "maintain"
+      ],
+      "question": {
+        "wordId": "fountain",
+        "stem": "选择 \"fountain\" 的正确中文意思：",
+        "correct": "n.泉水,喷泉,源泉",
+        "options": [
+          "v.获得,得到",
+          "n.泉水,喷泉,源泉",
+          "v.包含，容纳；容忍，抑制；可被...除尽",
+          "n.基础,根本,建立,创立;地基,基金,基金会"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'fontana'（泉水），与 'fount'（源泉）同源。核心物理动作是水从地下自然涌出，引申为任何事物的源头或起源。",
+        "similarWarning": "mountain（山）：fountain 有 'f' 开头，指水源；mountain 有 'm' 开头，指地形。contain（包含）：fountain 有 'f' 和 'ain'，contain 有 'con-' 前缀和 'tain'（拿住）。",
+        "extendedMeaning": "考研僻义：比喻义的'源泉、来源'，如 a fountain of knowledge（知识的源泉），常出现在阅读中形容抽象事物的源头。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "four",
+      "word": "four",
+      "phonetic": "/fɔ:/",
+      "meaning": "num.四 pron./a.四(个，只...)",
+      "similar": [
+        "flour",
+        "fur",
+        "foul",
+        "pour",
+        "sour",
+        "tour",
+        "court",
+        "focus"
+      ],
+      "question": {
+        "wordId": "four",
+        "stem": "选择 \"four\" 的正确中文意思：",
+        "correct": "num.四 pron./a.四(个，只...)",
+        "options": [
+          "n.毛,毛皮",
+          "num.四 pron./a.四(个，只...)",
+          "a.污秽的;邪恶的 v.弄脏;妨害;犯规 n.犯规",
+          "n.面粉"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古英语 feower，源自原始日耳曼语 *fedwōr，最终源自原始印欧语 *kʷetwóres（四）。核心物理动作/画面：数字四的抽象符号，无具体动作，但作为基础数词，其词源演变体现了印欧语系数词的共同起源。",
+        "similarWarning": "flour（面粉）、for（为了）、fur（毛皮）、foul（肮脏的）、hour（小时）、pour（倾倒）、sour（酸的）。与 four 拼写差异在于字母替换或添加，如 flour 多 l，for 少 u，fur 将 ou 换为 u，foul 将 ur 换为 ul，hour 加 h，pour 将 ur 换为 p 加 ur，sour 将 f 换为 s。词义无关联。",
+        "extendedMeaning": "在考研英语中，four 作为数词出现，无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fourteen",
+      "word": "fourteen",
+      "phonetic": "/'fɔ:'ti:n/",
+      "meaning": "num.十四，十四个",
+      "similar": [
+        "fifteen",
+        "further",
+        "courtesy",
+        "fountain",
+        "thirteen"
+      ],
+      "question": {
+        "wordId": "fourteen",
+        "stem": "选择 \"fourteen\" 的正确中文意思：",
+        "correct": "num.十四，十四个",
+        "options": [
+          "n.谦恭有礼;有礼貌的举止(或言词)",
+          "ad./a.更远,更往前;进一步 v.促进,增进",
+          "num.十五 pron./a.十五(个，只...)",
+          "num.十四，十四个"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "four (四) + teen (十的后缀) → 四加十等于十四。直接数字组合。",
+        "similarWarning": "fifteen (十五，fif- 替代 four-)，thirteen (十三，thir- 替代 four-)。注意 teen 后缀表示十位数，与 -ty 区分。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fox",
+      "word": "fox",
+      "phonetic": "/fɔks/",
+      "meaning": "n.狐狸",
+      "similar": [
+        "fax",
+        "fix",
+        "fog"
+      ],
+      "question": {
+        "wordId": "fox",
+        "stem": "选择 \"fox\" 的正确中文意思：",
+        "correct": "n.狐狸",
+        "options": [
+          "n./v.传真(机)",
+          "n.雾气，雾 v.以雾笼罩，被雾笼罩",
+          "n.狐狸",
+          "v.(使)固定;修理;安装;决定;注视 n.困境"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "fox 源自古英语 'fox'，与日耳曼语同源，本义指‘狐狸’，核心动作特征为‘狡猾、敏捷’。词根无复杂演变，直接对应动物名称。",
+        "similarWarning": "ox (公牛) vs fox (狐狸)：首字母 f 差异。box (盒子) vs fox：首字母 b 替换 f。fax (传真) vs fox：元音 a 替换 o。fix (修理) vs fox：元音 i 替换 o，尾音不同。fog (雾) vs fox：尾音 g 替换 x。for (为了) vs fox：尾音 r 替换 x。",
+        "extendedMeaning": "熟词僻义：在考研语境中可引申为‘狡猾的人’，如‘He is a sly fox.’（他是个狡猾的人）。此外，在口语或文学中可作动词‘欺骗、耍花招’。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fraction",
+      "word": "fraction",
+      "phonetic": "/'frækʃən/",
+      "meaning": "n.碎片,小部分,一点儿;分数",
+      "similar": [
+        "friction",
+        "action",
+        "fiction",
+        "function",
+        "affection",
+        "direction",
+        "formation",
+        "tradition"
+      ],
+      "question": {
+        "wordId": "fraction",
+        "stem": "选择 \"fraction\" 的正确中文意思：",
+        "correct": "n.碎片,小部分,一点儿;分数",
+        "options": [
+          "n.行动，动作；作用；运转；行为；战斗",
+          "n.碎片,小部分,一点儿;分数",
+          "n.磨擦,摩擦力",
+          "n.虚构,编造;小说"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'frangere'（打破），词根 'frac-' 表‘打破’，后缀 '-ion' 表‘行为/结果’。核心物理动作是‘打破成碎片’，故本义为‘碎片、小部分’，后引申为数学中的‘分数’（整体被分成若干部分）。",
+        "similarWarning": "friction（摩擦；冲突）：仅字母 'i' 替换 'a'，词义源于‘摩擦’动作，而非‘打破’。",
+        "extendedMeaning": "在考研阅读中，常引申为‘微不足道的一部分’或‘极小的量’，如 'a fraction of the cost'（成本的一小部分），强调比例之小。",
+        "examUsage": "真题考点：常见搭配 'a fraction of' 表‘一小部分’，常作为干扰项对比 'a large portion of'。例句：'Only a fraction of the population supports the policy.'（仅一小部分人口支持该政策。）"
+      }
+    },
+    {
+      "id": "fracture",
+      "word": "fracture",
+      "phonetic": "/'fræktʃə/",
+      "meaning": "n.裂缝(痕);骨折 v.(使)断裂,(使)折断",
+      "similar": [
+        "feature",
+        "furniture",
+        "structure",
+        "factor",
+        "mature",
+        "capture",
+        "factory",
+        "failure"
+      ],
+      "question": {
+        "wordId": "fracture",
+        "stem": "选择 \"fracture\" 的正确中文意思：",
+        "correct": "n.裂缝(痕);骨折 v.(使)断裂,(使)折断",
+        "options": [
+          "n.裂缝(痕);骨折 v.(使)断裂,(使)折断",
+          "n.家具",
+          "n.特征;容貌;特色;特写 v.以...为特色",
+          "n.结构,构造;建筑物 v.构造,建造"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根fract-（打破） + -ure（名词/动词后缀）。核心物理动作为“打破、折断”，引申指骨头断裂（骨折）或物体表面出现裂纹（裂缝）。",
+        "similarWarning": "feature（特征，词根feat-做）、furniture（家具，词根furn-装备）、structure（结构，词根struct-建造）、factor（因素，词根fact-做）、future（未来，词根fut-是）、mature（成熟，词根matur-成熟）、nature（自然，词根nat-出生）、capture（捕获，词根capt-抓）。差异在于词根核心动作不同：fract-强调“打破”，而其他词根分别对应“做”“装备”“建造”等。",
+        "extendedMeaning": "在考研外刊中常引申为“（组织、关系等的）分裂、破裂”，如a fracture in the alliance（联盟的分裂）。",
+        "examUsage": "真题中常考其动词搭配：fracture into（分裂成），如The coalition fractured into rival factions.（联盟分裂成对立派系。）"
+      }
+    },
+    {
+      "id": "fragile",
+      "word": "fragile",
+      "phonetic": "/'frædʒail/",
+      "meaning": "a.易碎的，脆的，易损坏的；虚弱的，脆弱的",
+      "similar": [
+        "feasible"
+      ],
+      "question": {
+        "wordId": "fragile",
+        "stem": "选择 \"fragile\" 的正确中文意思：",
+        "correct": "a.易碎的，脆的，易损坏的；虚弱的，脆弱的",
+        "options": [
+          "n.罐坛,广口瓶",
+          "a.合理的,有道理的;通情达理的;适度的",
+          "a.可行的;切实可行的;行得通的;可用的",
+          "a.易碎的，脆的，易损坏的；虚弱的，脆弱的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'frangere'（打破）的过去分词词根 'frag-'（打破、碎裂）+ 形容词后缀 '-ile'（易于…的）。核心物理动作是“易被打碎”，引申为“脆弱的”。",
+        "similarWarning": "与 feasible（可行的）形近：fragile 含 'frag-'（碎），强调易碎性；feasible 含 'feas-'（做），强调可行性。",
+        "extendedMeaning": "在考研中常引申为“脆弱的（关系/经济/心理状态）”，如 fragile economy（脆弱的经济）、fragile peace（脆弱的和平）。",
+        "examUsage": "真题考点常以形容词辨析出现，如 fragile vs. vulnerable（脆弱的 vs. 易受攻击的）。例句：The fragile ceasefire was broken by a single shot.（脆弱的停火协议被一声枪响打破。）"
+      }
+    },
+    {
+      "id": "fragment",
+      "word": "fragment",
+      "phonetic": "/'frægmənt /",
+      "meaning": "n.碎片,小部分,片断",
+      "similar": [
+        "fragrant",
+        "urgent",
+        "augment",
+        "garment",
+        "payment",
+        "segment",
+        "argument",
+        "frequent"
+      ],
+      "question": {
+        "wordId": "fragment",
+        "stem": "选择 \"fragment\" 的正确中文意思：",
+        "correct": "n.碎片,小部分,片断",
+        "options": [
+          "a.急迫的，紧要的，紧急的",
+          "vt.(使)增大，增加，增长，扩张",
+          "n.碎片,小部分,片断",
+          "a.香的;芬芳的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "frag-（打破）+ -ment（名词后缀）→ 打破的结果 → 碎片、片断。源自拉丁语 frangere（打破），物理动作为“使整体破裂成小块”。",
+        "similarWarning": "fragment vs fragrant（芳香的）：核心差异在 -ment（名词后缀）与 -ant（形容词后缀），fragrant 来自拉丁语 fragrare（散发气味）。",
+        "extendedMeaning": "考研僻义：在科技或学术语境中常指“数据片段、文件碎片”，如“DNA fragment”（DNA片段）。",
+        "examUsage": "真题考点：常与 break into fragments（碎成碎片）或 fragment of memory（记忆片段）搭配，注意区分 segment（分割后的连续部分，如线段、市场细分）与 fragment（强调破碎的不完整性）。"
+      }
+    },
+    {
+      "id": "fragrant",
+      "word": "fragrant",
+      "phonetic": "/'freigrənt/",
+      "meaning": "a.香的;芬芳的",
+      "similar": [
+        "fragment",
+        "radiant",
+        "warrant",
+        "pregnant"
+      ],
+      "question": {
+        "wordId": "fragrant",
+        "stem": "选择 \"fragrant\" 的正确中文意思：",
+        "correct": "a.香的;芬芳的",
+        "options": [
+          "a.香的;芬芳的",
+          "n.碎片,小部分,片断",
+          "a.发光的,辐射的,容光焕发的",
+          "n.正当理由;许可证,委任状 v.保证,担保"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"fragrare\"（散发气味），与\"fragrantia\"（香气）同源。词根\"fragr-\"对应\"散发气味\"，后接\"-ant\"（形容词后缀，表性质）。核心物理动作：气味向外扩散、弥漫。\",\n  \"similarWarning\": \"fragment（碎片）：fragr-（气味） vs frag-（打破）；radiant（发光的）：-ant（性质）相同，但rad-（光线） vs fragr-（气味）；warrant（保证）：war-（保护） vs fragr-；pregnant（怀孕的）：preg-（抓住） vs fragr-。\",\n  \"exte",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "frame",
+      "word": "frame",
+      "phonetic": "/freɪm/",
+      "meaning": "n.框架;体格;骨架;组织;机构 v.设计;制定",
+      "similar": [
+        "fame",
+        "flame",
+        "gramme",
+        "fade",
+        "fake",
+        "fare",
+        "fate",
+        "foam"
+      ],
+      "question": {
+        "wordId": "frame",
+        "stem": "选择 \"frame\" 的正确中文意思：",
+        "correct": "n.框架;体格;骨架;组织;机构 v.设计;制定",
+        "options": [
+          "n.框架;体格;骨架;组织;机构 v.设计;制定",
+          "n.(gram)克",
+          "n.名声;名望;传说 vt使出名;传扬…的名",
+          "n.火焰,火苗;热情;光辉 v.发火焰,燃烧"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语 'framian'（前进，有用），本义是 '使成形、构建'。核心物理动作是 '搭建骨架'，引申为 '给某物提供支撑结构'。n. 框架、骨架（支撑结构的实体）；机构（抽象组织骨架）。v. 设计、制定（为计划/法律搭建骨架）。",
+        "similarWarning": "frame vs. fame vs. flame: frame 含 'r'（骨架的支撑条）；fame 无 'r'，意为 '名声'（由 '说' 而来）；flame 含 'l'，意为 '火焰'（由 '燃烧' 而来）。",
+        "extendedMeaning": "【考研僻义】v. 陷害（设计框架让人背锅）；n. 心境/精神状态（如 frame of mind，思维框架）。",
+        "examUsage": "【真题考点】frame of reference（参照系/参考框架），常用于阅读理解中科学或理论背景的论述。"
+      }
+    },
+    {
+      "id": "framework",
+      "word": "framework",
+      "phonetic": "/'freimwə:k/",
+      "meaning": "n.构架;框架;结构;组织;机构",
+      "similar": [
+        "homework"
+      ],
+      "question": {
+        "wordId": "framework",
+        "stem": "选择 \"framework\" 的正确中文意思：",
+        "correct": "n.构架;框架;结构;组织;机构",
+        "options": [
+          "n.构架;框架;结构;组织;机构",
+          "n.(学生的)家庭作业、课外人员",
+          "n.臭虫;小毛病;窃听器 v.窃听",
+          "n.争吵；冲突，斗争；竞争"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "frame（框架）+ work（构造）→ 框架构造。源自frame（古英语framian“前进，有用”，后指“框架”）+ work（古英语weorc“行为，结构”），本义为“支撑结构的骨架”，引申指“组织体系或逻辑结构”。",
+        "similarWarning": "homework（家庭作业）与framework仅在词尾相同，但homework是home+work，指“在家做的工作”；framework强调“支撑性框架”，拼写差异在首字母f与h，无实质混淆风险。",
+        "extendedMeaning": "在考研阅读中，常引申为“理论框架、制度体系或思维结构”，如conceptual framework（概念框架）、legal framework（法律体系）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "frank",
+      "word": "frank",
+      "phonetic": "/fræŋk/",
+      "meaning": "a.坦白的,直率的",
+      "similar": [
+        "rank",
+        "fan",
+        "rack",
+        "tank",
+        "blank",
+        "brand",
+        "crack",
+        "crane"
+      ],
+      "question": {
+        "wordId": "frank",
+        "stem": "选择 \"frank\" 的正确中文意思：",
+        "correct": "a.坦白的,直率的",
+        "options": [
+          "a.坦白的,直率的",
+          "n.军衔,社会阶层;排 v.分等级,把…分类",
+          "n.挂物架,搁物架 v.使痛苦,折磨",
+          "n.扇子,风扇;(影,球等)迷 v.扇,扇动,激起"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古法语franc（自由、高贵），与日耳曼部落法兰克人（Franks）相关，原指拥有自由身份的人。核心动作/画面：自由人无需掩饰，故引申为说话无拘束、坦诚直率。",
+        "similarWarning": "rank（等级；排名）：r vs fr，无f前缀；fan（扇子；粉丝）：无r和k；bank（银行；岸）：b vs fr；rack（架子；折磨）：无f前缀；tank（坦克；水槽）：t vs fr；blank（空白的）：b vs fr；brand（品牌；烙印）：br vs fr，加d；crack（裂缝；破裂）：c vs fr。",
+        "extendedMeaning": "在考研中无显著僻义，保持直率、坦诚的核心含义。",
+        "examUsage": "常见于阅读理解中描述人物性格或态度，如‘frank discussion’（坦诚的讨论），无特殊干扰项或固定搭配考点。"
+      }
+    },
+    {
+      "id": "fraud",
+      "word": "fraud",
+      "phonetic": "/frɔ:d/",
+      "meaning": "n.欺诈，诈骗；欺骗(行为)；骗子；假货",
+      "similar": [
+        "afraid",
+        "raid",
+        "brand",
+        "frame",
+        "frank",
+        "grand",
+        "proud"
+      ],
+      "question": {
+        "wordId": "fraud",
+        "stem": "选择 \"fraud\" 的正确中文意思：",
+        "correct": "n.欺诈，诈骗；欺骗(行为)；骗子；假货",
+        "options": [
+          "n.商标,标记,牌子 v.使铭记;打火印,打烙印",
+          "adj.害怕的，恐惧的；犯愁的，不乐意的",
+          "n/v..袭击,搜查",
+          "n.欺诈，诈骗；欺骗(行为)；骗子；假货"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'fraus'（欺骗、伤害），核心物理动作是'通过扭曲真相造成损害'，词根直接指向故意误导以获取不当利益的行为。",
+        "similarWarning": "形近词辨析：\n- fraud（欺诈）：核心是欺骗行为。\n- afraid（害怕）：由a-（加强）+ fraid（古法语'破坏'）构成，指因危险而恐惧。\n- raid（突袭）：源自古英语'rad'（骑行），指快速袭击。\n- brand（品牌）：源自古英语'bærnan'（燃烧），原指烙铁印记，引申为商标。\n- frame（框架）：源自拉丁语'frama'（结构），指构造或陷害（frame sb.）。\n- frank（坦率）：源自法兰克人自由身份，指直言不讳。\n- grand（宏伟）：源自拉丁语'grandis'（大），指规模宏大。",
+        "extendedMeaning": "考研僻义：\n1. 假货（counterfeit goods）：真题常考'fraud products'，强调仿冒品质量低劣。\n2. 骗子（person who commits fraud）：如'He is a fraud.'指虚伪不诚之人。\n3. 欺诈性行为（deceptive practice）：如'financial fraud'（财务欺诈）。",
+        "examUsage": "真题考点：\n1. 搭配：'commit fraud'（实施欺诈），'fraud detection'（欺诈检测）。\n2. 干扰项：常与'deception'（欺骗）同义替换，但'fraud'更侧重法律定性。\n3. 例句：'The company was accused of accounting fraud.'（该公司被指控会计欺诈。）"
+      }
+    },
+    {
+      "id": "freedom",
+      "word": "freedom",
+      "phonetic": "/'fri:dəm/",
+      "meaning": "n.自由,自主,免除,特权",
+      "similar": [],
+      "question": {
+        "wordId": "freedom",
+        "stem": "选择 \"freedom\" 的正确中文意思：",
+        "correct": "n.自由,自主,免除,特权",
+        "options": [
+          "v.防守,保卫;为…辩护,为…答辩",
+          "v.(against,into)碰;颠簸着前进 n.碰撞",
+          "n.自由,自主,免除,特权",
+          "n.渔夫，捕鱼人"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "free（自由的）+ -dom（名词后缀，表状态、领域）。核心动作：free本义为“喜爱、自由”，-dom表示“状态、领域”，故字面义为“自由的状态”。",
+        "similarWarning": "",
+        "extendedMeaning": "考研僻义：1. 免除（from）：freedom from fear（免于恐惧）；2. 特权（of）：the freedom of the city（荣誉市民权）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "freeze",
+      "word": "freeze",
+      "phonetic": "/fri:z/",
+      "meaning": "v.使结冰,使凝固",
+      "similar": [
+        "breeze",
+        "sneeze"
+      ],
+      "question": {
+        "wordId": "freeze",
+        "stem": "选择 \"freeze\" 的正确中文意思：",
+        "correct": "v.使结冰,使凝固",
+        "options": [
+          "a.可怜的;悲惨的;肮脏的;恶劣的",
+          "vi.打喷嚏，发喷嚏声n.喷嚏",
+          "v.使结冰,使凝固",
+          "n.微风；轻而易举的事 vi.来去匆匆，急速走"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "freeze 源自原始日耳曼语 *freusan-，意为“结冰”。核心物理动作为水从液态变为固态的相变过程，引申为“凝固、冻结”。词根直接对应中文“结冰”，无复杂演变。",
+        "similarWarning": "breeze（微风，n./v.）与 freeze 差一个字母 b/f，词义无关；free（自由的，adj./v.）少个 ze，注意拼写差异；sneeze（打喷嚏，v.）首字母 s 与 f 不同，词义无关联。",
+        "extendedMeaning": "考研僻义：①冻结（资金、资产）：The government decided to freeze the assets of the company. ②停止不动：He froze when he heard the noise. ③极冷的天气：a hard freeze 严寒。",
+        "examUsage": "真题考点：freeze 常与短语 freeze up（冻结、僵住）搭配，在阅读中作比喻义（如“思想僵化”）。例句：The computer screen froze up suddenly.（计算机屏幕突然死机。）"
+      }
+    },
+    {
+      "id": "freight",
+      "word": "freight",
+      "phonetic": "/freit/",
+      "meaning": "n.货物,货运,运费",
+      "similar": [
+        "fright",
+        "eight",
+        "flight",
+        "height",
+        "fortnight",
+        "eyesight",
+        "frighten",
+        "straight"
+      ],
+      "question": {
+        "wordId": "freight",
+        "stem": "选择 \"freight\" 的正确中文意思：",
+        "correct": "n.货物,货运,运费",
+        "options": [
+          "n.货物,货运,运费",
+          "n.恐怖",
+          "num.八 pron.八(个，只...)",
+          "n.飞翔,飞行;航班;航程;逃跑;楼梯的一段"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自中古荷兰语 'vrecht'（船货），与古英语 'fær'（旅程）同源。核心物理动作：装载（货物）→ 运输（货物）→ 引申为货运本身及运费。",
+        "similarWarning": "fright（恐惧）、flight（飞行/航班）、weight（重量）。差异：freight 含 'ei' 表运输；fright 含 'i' 表惊吓；flight 含 'fl' 表飞翔；weight 含 'we' 表重量。",
+        "extendedMeaning": "在考研阅读中常引申为‘负担、重负’，如‘economic freight’（经济负担）。",
+        "examUsage": "真题考点：'freight train'（货运火车）、'freight costs'（货运成本）。干扰项常与‘weight’（重量）混淆，注意 freight 侧重运输过程及费用。"
+      }
+    },
+    {
+      "id": "frequency",
+      "word": "frequency",
+      "phonetic": "/'frikwənsi/",
+      "meaning": "n.频率,周率",
+      "similar": [
+        "frequent",
+        "sequence"
+      ],
+      "question": {
+        "wordId": "frequency",
+        "stem": "选择 \"frequency\" 的正确中文意思：",
+        "correct": "n.频率,周率",
+        "options": [
+          "v.(of)处理,处置;(for)布置,安排",
+          "a.时常发生的,频繁的",
+          "n.先后,次序;连续,数列",
+          "n.频率,周率"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'frequentia'，由 'frequens'（频繁的、拥挤的）派生，核心动作是“反复出现、密集发生”。词根 'freq-' 与 'frag-'（打破）同源，暗示“密集重复如破碎的碎片”。本义为“事件发生的密集度”，后引申为物理振动或周期的“频率”。",
+        "similarWarning": "frequent（adj.频繁的；v.常去）与 frequency 仅后缀不同，-ent 为形容词后缀，-ency 为名词后缀。sequence（n.序列、顺序）与 frequency 均含“-qu-”，但 sequence 侧重“按次序连续”，而 frequency 强调“重复出现的密度”。",
+        "extendedMeaning": "在考研阅读中，常用于统计或科学语境，指“发生次数或比率”，如 'word frequency'（词频）、'frequency distribution'（频率分布）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "frequent",
+      "word": "frequent",
+      "phonetic": "/'fri:kwənt/",
+      "meaning": "a.时常发生的,频繁的",
+      "similar": [
+        "frequency",
+        "request",
+        "fluent",
+        "resent",
+        "prevent",
+        "eloquent",
+        "fragment",
+        "subsequent"
+      ],
+      "question": {
+        "wordId": "frequent",
+        "stem": "选择 \"frequent\" 的正确中文意思：",
+        "correct": "a.时常发生的,频繁的",
+        "options": [
+          "v./n.请求,要求",
+          "n.频率,周率",
+          "a.时常发生的,频繁的",
+          "a.流利的,流畅的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语frequens（拥挤的、频繁的），词根frequ-（充满、拥挤）+ -ent（形容词后缀）。核心物理动作是“人群拥挤聚集”，引申为时间上“密集发生”即“频繁的”。",
+        "similarWarning": "frequency（n.频率）是名词形式；request（v./n.请求）与frequent拼写差异在re-前缀且无-ent；fluent（a.流利的）区别在flu-（流动）；recent（a.最近的）拼写类似但含义无关；resent（v.怨恨）前有re-后有-sent；present（v.呈现/a.当前的）拼写差异在pre-；prevent（v.预防）前缀pre-+vent；eloquent（a.雄辩的）词根loqu-（说话）。",
+        "extendedMeaning": "在考研阅读中，frequent常作动词用，意为“常去、经常出入于”，如frequent a café（常去咖啡馆），属于熟词僻义。",
+        "examUsage": "真题中常考短语frequent occurrence（频繁发生）、frequent intervals（频繁间隔），以及动词用法frequent the library（常去图书馆）作为细节题定位词。"
+      }
+    },
+    {
+      "id": "fresh",
+      "word": "fresh",
+      "phonetic": "/freʃ/",
+      "meaning": "a.新鲜的,无经验的",
+      "similar": [
+        "flesh",
+        "refresh",
+        "forest",
+        "rash",
+        "rush",
+        "brush",
+        "crash",
+        "crush"
+      ],
+      "question": {
+        "wordId": "fresh",
+        "stem": "选择 \"fresh\" 的正确中文意思：",
+        "correct": "a.新鲜的,无经验的",
+        "options": [
+          "v.(使)精神振作,(使)精力恢复",
+          "a.新鲜的,无经验的",
+          "n.森林",
+          "n.肉,肌肉"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根fresh-源自原始日耳曼语*friskaz，核心动作是“新近的、未变质的”。fresh本义指食物刚采摘或制作的状态，引申为“新出现的、未受污染的”。在无经验义上，比喻人像新事物一样未经世事打磨。",
+        "similarWarning": "flesh（肉）与fresh仅差字母l/r，flesh指肉体，fresh指新鲜；refresh（使恢复）是re-（再）+ fresh，强调重新变得新鲜；forest（森林）拼写近似但无关；fish（鱼）易混淆因发音相近；free（自由的）与fresh开头相同；rash（皮疹/鲁莽的）与fresh押韵但词义无关；rest（休息）与fresh的est部分相同；rush（冲）与fresh的r和sh相似。",
+        "extendedMeaning": "在考研阅读中，fresh可指“记忆清新的、未褪色的”，如fresh in one's memory；或“新鲜的（非食物）”，如fresh perspective（新视角）；还可表示“刚到的、新来的”，如fresh graduate（应届毕业生）。",
+        "examUsage": "高频搭配：fresh water（淡水）常考，与salt water对应；fresh start（新的开始）在完形中作为选项。真题例句：Fresh evidence suggests that the economic recovery is slowing.（新证据表明经济复苏正在放缓。）注意干扰项常将fresh误作flesh或refresh。"
+      }
+    },
+    {
+      "id": "friction",
+      "word": "friction",
+      "phonetic": "/'frikʃən/",
+      "meaning": "n.磨擦,摩擦力",
+      "similar": [
+        "fiction",
+        "fraction",
+        "function",
+        "affection",
+        "direction",
+        "formation",
+        "variation",
+        "action"
+      ],
+      "question": {
+        "wordId": "friction",
+        "stem": "选择 \"friction\" 的正确中文意思：",
+        "correct": "n.磨擦,摩擦力",
+        "options": [
+          "n.功能,作用;(pl.)职务;函数 v.起作用",
+          "n.碎片,小部分,一点儿;分数",
+          "n.磨擦,摩擦力",
+          "n.虚构,编造;小说"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 fricare（摩擦），-tion 为名词后缀。核心物理动作：两个物体接触并相对运动时产生的阻力。词根 fric- 直接对应‘擦、搓’的动作画面，引申为抽象的人际关系冲突或意见不合。",
+        "similarWarning": "fiction（n. 小说；虚构） vs friction：fiction 源自 fingere（塑造），核心是‘捏造、虚构’；friction 源自 fricare（摩擦），核心是‘物理摩擦’。区别在于 -ct- 与 -c- 的拼写差异及词源动作不同。fraction（n. 分数；小部分）源自 frangere（打破），核心是‘破碎、分割’，与 friction 的‘摩擦’无直接关联。",
+        "extendedMeaning": "在考研真题中常引申为‘冲突、不和’（尤指人际或团体间的矛盾），如‘family friction’（家庭矛盾）或‘political friction’（政治摩擦）。",
+        "examUsage": "真题常考搭配：friction between A and B（A与B之间的摩擦/冲突），如‘cultural friction between immigrants and natives’。注意与 conflict（更强调激烈对抗）和 dispute（更强调争论）的辨析。"
+      }
+    },
+    {
+      "id": "friday",
+      "word": "Friday",
+      "phonetic": "/'fraidei/",
+      "meaning": "n.星期五",
+      "similar": [
+        "fridge",
+        "friendly"
+      ],
+      "question": {
+        "wordId": "friday",
+        "stem": "选择 \"Friday\" 的正确中文意思：",
+        "correct": "n.星期五",
+        "options": [
+          "n.星期五",
+          "n.(refrigerator的略语)冰箱",
+          "v.惊吓,使吃惊",
+          "a.友好的,友谊的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语 Frīġedæġ，意为“弗丽嘉之日”（Frigg's day），Frigg 是北欧神话中的爱神、婚姻与家庭之神，对应罗马神话中的维纳斯（Venus）。该词与拉丁语 dies Veneris（金星之日）同源，故 Friday 被赋予“金星日”的涵义。词根 *fri- 与“爱、自由”相关（如 friend, free），但 Friday 本身已固化为专有名词，仅表星期名称。",
+        "similarWarning": "fridge /frɪdʒ/（冰箱）与 Friday 拼写差异在“-day” vs “-dge”；friendly /ˈfrendli/（友好的）与 Friday 前三个字母“Fri-”相同，但 Friday 重音在首音节，friendly 重音在首音节且含“-nd-”鼻音。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fridge",
+      "word": "fridge",
+      "phonetic": "/fridʒ/",
+      "meaning": "n.(refrigerator的略语)冰箱",
+      "similar": [
+        "ridge",
+        "bridge",
+        "fringe",
+        "bride",
+        "pride",
+        "friday"
+      ],
+      "question": {
+        "wordId": "fridge",
+        "stem": "选择 \"fridge\" 的正确中文意思：",
+        "correct": "n.(refrigerator的略语)冰箱",
+        "options": [
+          "n.(refrigerator的略语)冰箱",
+          "n.岭,山脉;屋脊;鼻梁",
+          "n.桥；桥牌；鼻梁 vt.架桥；渡过",
+          "n.边缘；(窗帘)缘饰；额前垂发 vt.饰…的边"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "fridge 是 refrigerator 的截短词，源自拉丁语 refrigerare（使冷却），re-（再次）+ frigerare（使变冷），核心动作是‘反复制冷’→冰箱。",
+        "similarWarning": "ridge（脊，隆起）、bridge（桥）、fringe（边缘，刘海）、ride（骑，乘）、bride（新娘）、pride（骄傲）、friday（星期五）——注意 f 开头与 r 开头的区别，fridge 中 d 与 g 相连，而 ridge 无 d。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "friendly",
+      "word": "friendly",
+      "phonetic": "/'frendli/",
+      "meaning": "a.友好的,友谊的",
+      "similar": [
+        "friday",
+        "friendship"
+      ],
+      "question": {
+        "wordId": "friendly",
+        "stem": "选择 \"friendly\" 的正确中文意思：",
+        "correct": "a.友好的,友谊的",
+        "options": [
+          "n.星期五",
+          "a.友好的,友谊的",
+          "n.友谊,友好",
+          "a.上面的;上部的,较高的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "friend（朋友）+ -ly（形容词后缀，表“有…特性的”）→ 具有朋友特性的 → 友好的。本源是古英语frēond（爱、朋友），与自由（free）同源，原指“彼此相爱的人”。",
+        "similarWarning": "friend（朋友，名词） vs friendly（友好的，形容词） vs Friday（星期五，名词） vs friendship（友谊，名词）。friendly 以 -ly 结尾为形容词；Friday 以 -day 结尾为星期名词，注意拼写差异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "friendship",
+      "word": "friendship",
+      "phonetic": "/'frendʃip/",
+      "meaning": "n.友谊,友好",
+      "similar": [
+        "friendly"
+      ],
+      "question": {
+        "wordId": "friendship",
+        "stem": "选择 \"friendship\" 的正确中文意思：",
+        "correct": "n.友谊,友好",
+        "options": [
+          "n.团结;统一,一致,整体",
+          "n.友谊,友好",
+          "a.友好的,友谊的",
+          "n.运气;好运,侥幸"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "friend（朋友）+ -ship（名词后缀，表示关系、状态）。核心逻辑：朋友之间建立的关系或状态。",
+        "similarWarning": "friendly（adj.友好的）: 拼写差异为末尾的 -ly 形容词后缀，表示性质；friendship 为名词，指关系本身。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fright",
+      "word": "fright",
+      "phonetic": "/frait/",
+      "meaning": "n.恐怖",
+      "similar": [
+        "freight",
+        "flight",
+        "frighten",
+        "upright",
+        "eight",
+        "tight",
+        "height",
+        "plight"
+      ],
+      "question": {
+        "wordId": "fright",
+        "stem": "选择 \"fright\" 的正确中文意思：",
+        "correct": "n.恐怖",
+        "options": [
+          "v.使惊恐",
+          "n.飞翔,飞行;航班;航程;逃跑;楼梯的一段",
+          "n.货物,货运,运费",
+          "n.恐怖"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语‘fyrhto’（恐惧、害怕），与德语‘Furcht’同源。词根核心物理动作为‘突然的惊吓或颤抖’，是表示抽象情感的基础名词。",
+        "similarWarning": "freight（n. 货物；运费）：两者拼写仅差字母‘e’（freight vs fright）。freight指运输的货物，fright指恐惧感。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "frighten",
+      "word": "frighten",
+      "phonetic": "/'fraitən/",
+      "meaning": "v.使惊恐",
+      "similar": [
+        "fright",
+        "heighten",
+        "enlighten",
+        "flight",
+        "freight",
+        "eighteen"
+      ],
+      "question": {
+        "wordId": "frighten",
+        "stem": "选择 \"frighten\" 的正确中文意思：",
+        "correct": "v.使惊恐",
+        "options": [
+          "v.启发,启蒙,教导",
+          "v.提高,升高",
+          "n.恐怖",
+          "v.使惊恐"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自fright（恐惧）+ -en（动词后缀，“使变得”），核心动作是“使某人进入恐惧状态”。fright本义为突然的惊骇，与古英语fyrhtu（恐惧）同源，词根fright-强调一种突发性的、强烈的心理冲击。",
+        "similarWarning": "frighten vs. enlighten：frighten（使惊恐）词根fright-（恐惧）；enlighten（启发）词根light-（光），en-使+light光+en使，意为“使发光”→启发。拼写差异在fright-与light-，含义一恐一智。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fringe",
+      "word": "fringe",
+      "phonetic": "/frindʒ/",
+      "meaning": "n.边缘；(窗帘)缘饰；额前垂发 vt.饰…的边",
+      "similar": [
+        "fridge",
+        "fling",
+        "hinge",
+        "range",
+        "ridge",
+        "bridge",
+        "finger",
+        "orange"
+      ],
+      "question": {
+        "wordId": "fringe",
+        "stem": "选择 \"fringe\" 的正确中文意思：",
+        "correct": "n.边缘；(窗帘)缘饰；额前垂发 vt.饰…的边",
+        "options": [
+          "n.边缘；(窗帘)缘饰；额前垂发 vt.饰…的边",
+          "n.合页,铰链 vi.依…而定",
+          "n.(refrigerator的略语)冰箱",
+          "v.(用力地)扔,抛,丢"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根无明确词源，核心物理动作是“边缘装饰”：源自古法语“frenge”（边缘、流苏），指布料的穗状边缘，后引申为任何事物的外围或边界。",
+        "similarWarning": "fridge（冰箱，字母d替换g，词义完全不同）；fling（投掷，字母l替换r，动作方向不同）；ridge（山脊，字母r替换f，地理特征）",
+        "extendedMeaning": "考研僻义：非主流群体或观点（如“fringe group”边缘群体）；极端政治派别（如“fringe party”极端政党）；学术或艺术的非正统领域（如“fringe science”边缘科学）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "frog",
+      "word": "frog",
+      "phonetic": "/frɔg/",
+      "meaning": "n.蛙",
+      "similar": [
+        "fog",
+        "frost",
+        "frown"
+      ],
+      "question": {
+        "wordId": "frog",
+        "stem": "选择 \"frog\" 的正确中文意思：",
+        "correct": "n.蛙",
+        "options": [
+          "n.霜,霜冻,严寒",
+          "v.皱眉",
+          "n.雾气，雾 v.以雾笼罩，被雾笼罩",
+          "n.蛙"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟蛙类发出的短促叫声。",
+        "similarWarning": "frog (蛙) vs. fog (雾): 仅差一个'r'字母，发音上/frɔg/ vs. /fɔg/，注意r音的有无。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "frontier",
+      "word": "frontier",
+      "phonetic": "/'frʌntjə/",
+      "meaning": "n.国境,边境;尖端,新领域",
+      "similar": [
+        "foster"
+      ],
+      "question": {
+        "wordId": "frontier",
+        "stem": "选择 \"frontier\" 的正确中文意思：",
+        "correct": "n.国境,边境;尖端,新领域",
+        "options": [
+          "n.下午，午后",
+          "n.长沙发，沙发",
+          "vt.养育;收养;怀抱;鼓励 a.收养的 n.养育者",
+          "n.国境,边境;尖端,新领域"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'frons'（前额、前面），后缀 -ier 表示与……相关的事物。核心物理动作为“位于前方的边界线”，即国家领土的最前沿，引申为“边境”；进一步抽象为“前沿领域”，指知识或探索的最前端。",
+        "similarWarning": "形近词辨析：frontier vs. foster（培养、促进）：frontier 核心在 'front'（前面），强调边界或前沿；foster 核心在 'fost'（与喂养相关），强调养育或促进。两者拼写差异为 'ie' vs. 'os'，含义迥异。",
+        "extendedMeaning": "熟词僻义：在考研中常指“（知识、科技等的）前沿领域”或“未开拓的领域”，如 'the frontiers of science'（科学前沿），非仅指地理边界。",
+        "examUsage": "真题考点：常考搭配 'push back the frontiers'（拓展前沿），用于科技或学术语境。注意与 'border'（侧重政治分界线）和 'boundary'（侧重抽象界限）的辨析：frontier 强调开拓性、未定性的前沿。"
+      }
+    },
+    {
+      "id": "frost",
+      "word": "frost",
+      "phonetic": "/frɔst/",
+      "meaning": "n.霜,霜冻,严寒",
+      "similar": [
+        "forest",
+        "rot",
+        "fist",
+        "frog",
+        "host",
+        "post",
+        "root",
+        "rose"
+      ],
+      "question": {
+        "wordId": "frost",
+        "stem": "选择 \"frost\" 的正确中文意思：",
+        "correct": "n.霜,霜冻,严寒",
+        "options": [
+          "n.拳头 vt.用拳头打；紧握",
+          "n.霜,霜冻,严寒",
+          "n.森林",
+          "v.(使)腐烂,(使)腐败,腐朽"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古英语frost，与frozen（冻结）同源，词根为fries-（冻结）。核心物理动作是水汽在低温下凝结成冰晶，覆盖物体表面。",
+        "similarWarning": "front（前线）：首字母相同但结尾不同，frost强调冰霜，front指位置或战线。forest（森林）：字母顺序差异，frost无r后e，forest有e。",
+        "extendedMeaning": "考研中常引申为‘冷淡、冷酷’的态度或气氛（如a frost in the air），或指‘失败、扫兴’（如the project ended in frost）。",
+        "examUsage": "真题中常考短语‘frost over/up’（结霜），或作为阅读中描述天气或比喻人际关系的语境词。"
+      }
+    },
+    {
+      "id": "frown",
+      "word": "frown",
+      "phonetic": "/fraun/",
+      "meaning": "v.皱眉",
+      "similar": [
+        "brown",
+        "crown",
+        "drown",
+        "row",
+        "brow",
+        "crow",
+        "flow",
+        "frog"
+      ],
+      "question": {
+        "wordId": "frown",
+        "stem": "选择 \"frown\" 的正确中文意思：",
+        "correct": "v.皱眉",
+        "options": [
+          "v.皱眉",
+          "n./a.褐色(的),棕色(的)",
+          "n.王冠,冕;君权,君王 v.为…加冕",
+          "v.溺死,淹没"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根与拟声相关，源自原始印欧语*ghrei-（扭曲、转向），核心物理动作是“面部肌肉扭曲收缩”，尤其是眉毛向下、向中间聚拢，表达不满、困惑或专注。",
+        "similarWarning": "brown（棕色）、crown（王冠）、drown（淹死）、brow（眉毛）：frown强调面部表情，brow是眉毛部位，crown是头顶王冠，drown与水相关。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "fruitful",
+      "word": "fruitful",
+      "phonetic": "/'fru:tful/",
+      "meaning": "a.多产的;果实累累的,富有成效的",
+      "similar": [
+        "faithful"
+      ],
+      "question": {
+        "wordId": "fruitful",
+        "stem": "选择 \"fruitful\" 的正确中文意思：",
+        "correct": "a.多产的;果实累累的,富有成效的",
+        "options": [
+          "a.多产的;果实累累的,富有成效的",
+          "n.感激,感谢",
+          "a.守信的,忠实的,如实的,可靠的",
+          "n.喷气发动机,喷气式飞机;喷口 v.喷出,喷射"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "fruit（果实）+ -ful（充满...的）→ 充满果实的 → 引申为多产的、富有成效的。核心物理动作：果实累累的状态。",
+        "similarWarning": "faithful（忠诚的）：fruitful vs faithful，差异在 'fruit'（果实）与 'faith'（信仰），前者指成果多，后者指忠诚。",
+        "extendedMeaning": "在考研中常引申为‘富有成效的’，如 fruitful collaboration（富有成效的合作），而非仅指植物结果实。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "frustrate",
+      "word": "frustrate",
+      "phonetic": "/frʌs'treit/",
+      "meaning": "vt.挫败,阻挠,使灰心",
+      "similar": [
+        "illustrate",
+        "fluctuate",
+        "magistrate"
+      ],
+      "question": {
+        "wordId": "frustrate",
+        "stem": "选择 \"frustrate\" 的正确中文意思：",
+        "correct": "vt.挫败,阻挠,使灰心",
+        "options": [
+          "vt.挫败,阻挠,使灰心",
+          "n.地方行政官，地方法官，治安官",
+          "v.举例说明,阐明;图解,加插图",
+          "v.(使)波动;(使)起伏"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 frustrari（欺骗、使失望），来自 frustra（错误地、徒劳地），核心动作是“使计划落空”，强调施加阻碍后导致的失败或失望感。",
+        "similarWarning": "illustrate（说明，加亮，来自lustr-照亮） vs frustrate：前缀il-强调“向内照亮”，而frust-强调“徒劳”；fluctuate（波动，来自fluct-流动） vs frustrate：词根fluct-表示流动，frust-表示欺骗；magistrate（地方法官，来自magistr-主人） vs frustrate：词根magistr-表示权威，frust-表示无效。",
+        "extendedMeaning": "在考研阅读中常引申为“使（努力）无效”或“抑制（情绪）”，如：frustrate a plan（使计划受挫）或frustrate one's ambition（抑制某人的野心）。",
+        "examUsage": "真题考点：常见搭配frustrate sb in sth（在某事上阻挠某人）；干扰项常与defeat（彻底击败）或discourage（使气馁，强调情绪）混淆，但frustrate更强调行动受阻后的挫败感。"
+      }
+    },
+    {
+      "id": "fry",
+      "word": "fry",
+      "phonetic": "/frai/",
+      "meaning": "v.油煎,油炸",
+      "similar": [
+        "try",
+        "fairy",
+        "ferry",
+        "forty"
+      ],
+      "question": {
+        "wordId": "fry",
+        "stem": "选择 \"fry\" 的正确中文意思：",
+        "correct": "v.油煎,油炸",
+        "options": [
+          "n.摆渡;渡船;渡口v.摆渡;渡运(人,车或物等)",
+          "a.幻想中的;虚构的;优雅的 n.仙女;精灵",
+          "v.尝试，试图；试验，试用；审讯 n.尝试",
+          "v.油煎,油炸"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语frigan（煎），与拉丁语frigere（烤）同源。核心物理动作：用热油烹饪食物，强调通过高温油使食物表面脱水变脆的过程。",
+        "similarWarning": "cry（哭）对比fry：c开头变f，哭与煎无关联；dry（干）对比fry：d开头变f，干是状态，煎是动作；fly（飞）对比fry：l替换r，飞与煎无关；try（尝试）对比fry：t开头变f，尝试与煎无关；fairy（仙女）对比fry：加ai，仙女与煎无关；ferry（渡船）对比fry：e替换y，渡船与煎无关；forty（四十）对比fry：ot替换y，数字与煎无关。",
+        "extendedMeaning": "考研僻义：v.（非正式）被电刑处死（如：He was fried in the electric chair.）；n.（美式）油炸食品聚会（如：fish fry）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fuel",
+      "word": "fuel",
+      "phonetic": "/'fju:əl/",
+      "meaning": "n.燃料 vt.给…加燃料",
+      "similar": [
+        "cruel"
+      ],
+      "question": {
+        "wordId": "fuel",
+        "stem": "选择 \"fuel\" 的正确中文意思：",
+        "correct": "n.燃料 vt.给…加燃料",
+        "options": [
+          "n.燃料 vt.给…加燃料",
+          "a.残忍的,残酷的",
+          "v./n.轻蔑,藐视",
+          "n.痊愈,复元;重获,恢复"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'focus'（炉火），经古法语 'feuaile' 演变，核心动作是‘提供燃烧物以维持火焰’，引申为‘为（引擎、情感等）提供动力或刺激’。",
+        "similarWarning": "fuel vs feel（感觉，fe-开头）；fuel vs full（充满的，-ll结尾）；fuel vs cruel（残酷的，cru-开头）；fuel vs field（田野，ie-字母组合）。",
+        "extendedMeaning": "在考研语境中常引申为‘刺激、加剧（负面情绪或冲突）’，如 fuel anger/controversy（激起愤怒/争论），或‘为（系统、过程）提供能量’，如 fuel economic growth（推动经济增长）。",
+        "examUsage": "真题考点：fuel 作动词时，常与抽象名词搭配，如 'fuel speculation'（引发猜测），是阅读理解中表示因果关系的题眼，需注意其‘加剧’而非‘解决’的语义方向。"
+      }
+    },
+    {
+      "id": "fulfill",
+      "word": "fulfill",
+      "phonetic": "/ful'fil/",
+      "meaning": "v.(fulfil)完成,履行,实践,满足",
+      "similar": [],
+      "question": {
+        "wordId": "fulfill",
+        "stem": "选择 \"fulfill\" 的正确中文意思：",
+        "correct": "v.(fulfil)完成,履行,实践,满足",
+        "options": [
+          "v.(fulfil)完成,履行,实践,满足",
+          "n.白天,日间",
+          "v.互相作用,互相影响",
+          "v.澄清,阐明"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "古英语fullfyllan，由full（充满的）+fyllan（填充）组成。核心动作是“填满”，引申为“使某事物达到充满、完整的状态”，即完成、履行（如填满一个承诺或任务）。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中常引申为“满足（需求/期望）”，如fulfill one‘s potential（发挥潜力），fulfill a function（起/履行功能）。",
+        "examUsage": "真题常考固定搭配：fulfill a promise/duty（履行承诺/职责），fulfill the requirements（满足要求），fulfill an ambition（实现抱负）。"
+      }
+    },
+    {
+      "id": "fume",
+      "word": "fume",
+      "phonetic": "/fju:m/",
+      "meaning": "n.(浓烈或难闻的）烟，气，汽",
+      "similar": [
+        "fame",
+        "fuse",
+        "flame",
+        "frame"
+      ],
+      "question": {
+        "wordId": "fume",
+        "stem": "选择 \"fume\" 的正确中文意思：",
+        "correct": "n.(浓烈或难闻的）烟，气，汽",
+        "options": [
+          "n.保险丝,导火线,引信 v.熔化,熔合",
+          "n.名声;名望;传说 vt使出名;传扬…的名",
+          "n.火焰,火苗;热情;光辉 v.发火焰,燃烧",
+          "n.(浓烈或难闻的）烟，气，汽"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"fumus\"（烟、蒸汽），核心物理动作为“物质燃烧或受热后产生的气体/烟雾升腾、弥漫”。词根\"fum-\"表“烟”，本义即指浓烈或难闻的气体，引申出“愤怒、烦躁”情绪，因愤怒时人像冒烟一样。\",\n  \"similarWarning\": \"fame（名声，f-ame）；fuse（保险丝，熔化，f-use）；flame（火焰，fl-ame）；frame（框架，f-rame）。区别：fume侧重“烟/气”，字母\"u\"像烟柱升腾；其他词根不同。\",\n  \"extendedMeaning\": \"考研僻义：动词“发怒，生气”（如fume at/over sth",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fun",
+      "word": "fun",
+      "phonetic": "/fʌn/",
+      "meaning": "n.玩笑,娱乐;有趣的人(或事物)",
+      "similar": [
+        "fund",
+        "fan",
+        "fur",
+        "found",
+        "funny"
+      ],
+      "question": {
+        "wordId": "fun",
+        "stem": "选择 \"fun\" 的正确中文意思：",
+        "correct": "n.玩笑,娱乐;有趣的人(或事物)",
+        "options": [
+          "n.扇子,风扇;(影,球等)迷 v.扇,扇动,激起",
+          "n.资金,基金;存款,现款;(知识等的)累积",
+          "n.毛,毛皮",
+          "n.玩笑,娱乐;有趣的人(或事物)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自方言或拟声词，核心意象为轻松、愉悦的活动或状态，直接表示快乐、娱乐或有趣的事物。",
+        "similarWarning": "fund（资金）：fun 加 d，指金钱储备；fan（迷）：fun 换 a，指爱好者；fur（毛皮）：fun 换 r，指动物毛发。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "function",
+      "word": "function",
+      "phonetic": "/'fʌŋkʃən/",
+      "meaning": "n.功能,作用;(pl.)职务;函数 v.起作用",
+      "similar": [
+        "junction",
+        "auction",
+        "fiction",
+        "fraction",
+        "friction",
+        "sanction",
+        "foundation",
+        "affection"
+      ],
+      "question": {
+        "wordId": "function",
+        "stem": "选择 \"function\" 的正确中文意思：",
+        "correct": "n.功能,作用;(pl.)职务;函数 v.起作用",
+        "options": [
+          "n.连接,接合,交叉点,枢纽站,接头,中继线",
+          "n.／vt.拍卖",
+          "n.虚构,编造;小说",
+          "n.功能,作用;(pl.)职务;函数 v.起作用"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语functio（执行、完成），词根fung-（执行、履行）+ -tion（名词后缀）。核心动作是“执行指定任务或发挥固有作用”，引申为“功能、作用、职务”。数学中“函数”指变量间对应关系，即输入值执行运算输出结果。",
+        "similarWarning": "junction（连接点，junct-连接） vs function（功能，funct-执行）；fiction（虚构，fict-塑造） vs function（功能，funct-执行）；fraction（分数，fract-打破） vs function（功能，funct-执行）；friction（摩擦，frict-摩擦） vs function（功能，funct-执行）；sanction（制裁/批准，sanct-神圣） vs function（功能，funct-执行）；foundation（基础，found-建立） vs function（功能，funct-执行）。",
+        "extendedMeaning": "熟词僻义：在计算机/数学语境中作“函数”（function of x）；在生物学中作“机能”（liver function）。",
+        "examUsage": "真题考点：function as（起…作用，常作谓语动词）；in function（在功能上）；the function of...（…的功能）。如：The device functions as a safety valve.（该装置起安全阀作用。）"
+      }
+    },
+    {
+      "id": "fund",
+      "word": "fund",
+      "phonetic": "/fʌnd/",
+      "meaning": "n.资金,基金;存款,现款;(知识等的)累积",
+      "similar": [
+        "found",
+        "fun",
+        "fond",
+        "refund",
+        "bound",
+        "fluid",
+        "funny",
+        "hound"
+      ],
+      "question": {
+        "wordId": "fund",
+        "stem": "选择 \"fund\" 的正确中文意思：",
+        "correct": "n.资金,基金;存款,现款;(知识等的)累积",
+        "options": [
+          "vt.建立;创立;创办;使有根据;铸造;熔制",
+          "n.资金,基金;存款,现款;(知识等的)累积",
+          "a.(of)喜爱的,爱好的",
+          "n.玩笑,娱乐;有趣的人(或事物)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'fundus'（底部、基础）。词根演变：fundus → funda（底部）→ fund（基金）。核心物理动作是'奠定基础'，资金是事业的基础，基金是财富的根基。",
+        "similarWarning": "found（建立，v.）与fund相差'ou' vs 'u'；fund侧重资金，found侧重创建。find（发现，v.）与fund相差'i' vs 'u'；find是寻找结果，fund是资金储备。fond（喜爱的，adj.）与fund相差'o' vs 'u'；fond是情感，fund是财务。",
+        "extendedMeaning": "熟词僻义：1.（知识等的）累积、储备，如'a fund of knowledge'（知识的宝库）。2.（作为动词）为…提供资金，资助，如'fund a project'（资助项目）。",
+        "examUsage": "真题考点：1. 'trust fund'（信托基金）常出现在经济类阅读。2. 'fundamental'（根本的，基础的）由fund衍生，考研高频词。3. 'public funds'（公共资金）与政府财政相关。"
+      }
+    },
+    {
+      "id": "fundamental",
+      "word": "fundamental",
+      "phonetic": "/ˌfʌndə'mentəl/",
+      "meaning": "a.基础的,基本的 n.(pl.)基本原则,基本原理",
+      "similar": [],
+      "question": {
+        "wordId": "fundamental",
+        "stem": "选择 \"fundamental\" 的正确中文意思：",
+        "correct": "a.基础的,基本的 n.(pl.)基本原则,基本原理",
+        "options": [
+          "a.中间的,暂时的,临时的 n.过渡时期,暂定",
+          "a.基础的,基本的 n.(pl.)基本原则,基本原理",
+          "v.品尝;(of)有…味道;体验 n.滋味;味觉",
+          "n.沐浴,洗澡;浴室(池,盆) v.(给…)洗澡"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根fund-（底部、基础）+ -a- + -ment（名词后缀）+ -al（形容词后缀）= 与底部相关的，即基础的、根本的。源自拉丁语fundamentum（地基），核心动作是“打地基”，强调事物最底层、最根本的支撑部分。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“根本性的、至关重要的”，强调不可或缺的核心地位；复数形式fundamentals指“基本原理、基本法则”，常用于经济、科学等领域的抽象论述。",
+        "examUsage": "真题高频搭配：fundamental change（根本性变化）、fundamental principle（基本原则）、be fundamental to（对……至关重要）。例如：'The fundamental difference between the two theories is...'（两种理论的根本区别在于……）"
+      }
+    },
+    {
+      "id": "funeral",
+      "word": "funeral",
+      "phonetic": "/'fju:nərəl/",
+      "meaning": "n.丧葬,葬礼",
+      "similar": [
+        "federal",
+        "general",
+        "mineral"
+      ],
+      "question": {
+        "wordId": "funeral",
+        "stem": "选择 \"funeral\" 的正确中文意思：",
+        "correct": "n.丧葬,葬礼",
+        "options": [
+          "a.联邦的;联邦制的;联合的;同盟的",
+          "a.一般的,普通的;总的,大体的 n.将军",
+          "n.丧葬,葬礼",
+          "n.矿物,矿石 a.矿物的,矿质的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语funus（死亡，葬礼）+-al（名词后缀）。核心物理动作是“处理死者”，引申为丧葬仪式。",
+        "similarWarning": "federal（联邦的） vs funeral（葬礼）：federal含fed-（联盟），funeral含fun-（死亡）；general（一般的） vs funeral：general含gen-（产生），funeral含fun-（死亡）；mineral（矿物） vs funeral：mineral含min-（挖掘），funeral含fun-（死亡）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "funny",
+      "word": "funny",
+      "phonetic": "/'fʌni/",
+      "meaning": "a.滑稽的,可笑的",
+      "similar": [
+        "fun",
+        "fund",
+        "fancy",
+        "penny"
+      ],
+      "question": {
+        "wordId": "funny",
+        "stem": "选择 \"funny\" 的正确中文意思：",
+        "correct": "a.滑稽的,可笑的",
+        "options": [
+          "n.玩笑,娱乐;有趣的人(或事物)",
+          "n.资金,基金;存款,现款;(知识等的)累积",
+          "n.爱好,迷恋 v.想象,幻想 a.花式的,奇特的",
+          "a.滑稽的,可笑的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 fun（娱乐）+ ny（形容词后缀），核心动作是“带来娱乐或笑声”，引申为“滑稽的、可笑的”。",
+        "similarWarning": "fun（娱乐） vs funny（滑稽的）：fun侧重令人愉快，funny侧重引人发笑。fund（基金） vs funny：fund有字母d，表示资金。fancy（想象） vs funny：fancy有c，表示幻想。penny（便士） vs funny：penny有p，表示货币单位。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "fur",
+      "word": "fur",
+      "phonetic": "/fə/",
+      "meaning": "n.毛,毛皮",
+      "similar": [
+        "four",
+        "fun",
+        "flour"
+      ],
+      "question": {
+        "wordId": "fur",
+        "stem": "选择 \"fur\" 的正确中文意思：",
+        "correct": "n.毛,毛皮",
+        "options": [
+          "n.面粉",
+          "n.玩笑,娱乐;有趣的人(或事物)",
+          "num.四 pron./a.四(个，只...)",
+          "n.毛,毛皮"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古法语'forrer'（给…衬毛皮），最终源于拉丁语'fur'（皮袋、毛皮）。核心物理动作是动物身上的柔软毛层，引申为加工后的毛皮材料。",
+        "similarWarning": "fur vs. four（四）：拼写仅差'u' vs. 'ou'，词义无关。fur vs. far（远）：元音不同。fur vs. for（为了）：拼写不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "furious",
+      "word": "furious",
+      "phonetic": "/'fju:riəs/",
+      "meaning": "a.狂怒的,狂暴的,猛烈的",
+      "similar": [
+        "curious",
+        "dubious",
+        "various",
+        "cautious",
+        "glorious"
+      ],
+      "question": {
+        "wordId": "furious",
+        "stem": "选择 \"furious\" 的正确中文意思：",
+        "correct": "a.狂怒的,狂暴的,猛烈的",
+        "options": [
+          "a.各种各样的;不同的",
+          "a.好奇的, 求知的, 古怪的, 爱挑剔的",
+          "a.怀疑的，无把握的；有问题的，靠不住的",
+          "a.狂怒的,狂暴的,猛烈的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根fur（= fury，狂怒） + 形容词后缀-ious（充满…的）。核心动作/画面：内心充满狂暴的怒气，引申为行为或状态的猛烈、激烈。",
+        "similarWarning": "形近词辨析：furious vs. curious（好奇的，词根cur-关心）vs. dubious（怀疑的，词根dub-二，犹豫）vs. serious（严肃的，词根ser-连接，认真）vs. various（多样的，词根var-变化）vs. cautious（谨慎的，词根caut-小心）vs. glorious（光荣的，词根glor-名声）。关键差异：furious首字母f-与fur-（狂怒）对应，其他词根无此含义。",
+        "extendedMeaning": "熟词僻义：在考研真题中常引申为“激烈的、猛烈的”，用于形容非人主体的行为或状态，如‘a furious debate’（激烈的辩论）、‘furious pace’（迅猛的节奏），强调强度而非情绪。",
+        "examUsage": "真题考点：固定搭配‘furious with sb./at sth.’（对…大怒），考点常围绕介词搭配；例句：He was furious with himself for making such a mistake.（他对自己的失误感到狂怒。）注意：在阅读中常作为态度题的正向或负向判断标志。"
+      }
+    },
+    {
+      "id": "furnace",
+      "word": "furnace",
+      "phonetic": "/'fə:nis/",
+      "meaning": "n.炉子,熔炉",
+      "similar": [
+        "surname"
+      ],
+      "question": {
+        "wordId": "furnace",
+        "stem": "选择 \"furnace\" 的正确中文意思：",
+        "correct": "n.炉子,熔炉",
+        "options": [
+          "n.盒子;盒式磁带",
+          "n.姓",
+          "n.锁 v.锁,锁上",
+          "n.炉子,熔炉"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源：来自拉丁语 fornax（炉子），与 fornus（烤箱）同源。核心物理动作为“燃烧加热的封闭空间”，引申为任何高温处理场所。",
+        "similarWarning": "形近：surface（表面，sur-在上 + face脸）、surname（姓氏，sur-超过 + name名字）。差异：furnace 以 fur-开头，核心在“炉”；surface 强调“面”；surname 强调“名”。",
+        "extendedMeaning": "考研僻义：比喻“煎熬的环境或考验”，如“a furnace of criticism”（批评的熔炉）。",
+        "examUsage": "真题考点：常与 blast furnace（高炉）搭配，在科技类阅读中考查工业流程。例句：The blast furnace operates at extremely high temperatures.（高炉在极高温度下运行。）"
+      }
+    }
+  ]
+}

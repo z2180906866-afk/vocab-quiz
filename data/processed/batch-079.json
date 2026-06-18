@@ -1,0 +1,1677 @@
+{
+  "batchId": 79,
+  "words": [
+    {
+      "id": "tax",
+      "word": "tax",
+      "phonetic": "/tæks/",
+      "meaning": "n.税(款),负担 v.对…征税,使负重担",
+      "similar": [
+        "taxi",
+        "fax",
+        "tag",
+        "tan",
+        "tap",
+        "tar",
+        "wax"
+      ],
+      "question": {
+        "wordId": "tax",
+        "stem": "选择 \"tax\" 的正确中文意思：",
+        "correct": "n.税(款),负担 v.对…征税,使负重担",
+        "options": [
+          "n./v.传真(机)",
+          "n.出租汽车v.[指飞机](使)滑行",
+          "n.税(款),负担 v.对…征税,使负重担",
+          "n.标签;鞋带;垂饰;vt.加标签于;附加vi.紧随"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语taxare（评估、触摸），词根tang-（触摸）的反复动作形式。核心物理动作为“触摸以评估价值”，引申为对财产或收入进行估价并征收款项，即征税；再抽象化为施加压力或负担，如tax one's patience（考验耐心）。",
+        "similarWarning": "taxi（出租车）: 源自taximeter（计程器），与tax同源但指向交通工具；fax（传真）: 源自facsimile（复制），拼写差异为f与t；tag（标签）: 源自日耳曼语，指触碰标记，与tax共享“触摸”概念但拼写及含义不同。",
+        "extendedMeaning": "考研僻义：v. 使负重担，耗费（精力、耐心等）。例：tax one's memory（绞尽脑汁），tax the imagination（考验想象力）。",
+        "examUsage": "真题考点：常与impose/levy搭配（impose a tax on...）；注意tax作动词时“使负担”的引申义，如真题例句：The task taxed his strength.（任务消耗了他的体力。）"
+      }
+    },
+    {
+      "id": "taxi",
+      "word": "taxi",
+      "phonetic": "/'tæksi/",
+      "meaning": "n.出租汽车v.[指飞机](使)滑行",
+      "similar": [
+        "tax",
+        "toxic"
+      ],
+      "question": {
+        "wordId": "taxi",
+        "stem": "选择 \"taxi\" 的正确中文意思：",
+        "correct": "n.出租汽车v.[指飞机](使)滑行",
+        "options": [
+          "n.限制,局限性",
+          "n.出租汽车v.[指飞机](使)滑行",
+          "a.有毒的；中毒的",
+          "n.税(款),负担 v.对…征税,使负重担"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语taxis（排列、安排），经法语taximètre（计程车）进入英语。核心动作是“按里程计费安排行程”，引申为飞机在地面“滑行”指按顺序移动。",
+        "similarWarning": "tax（n.税）与taxi差一个字母i，税是强制缴纳，出租车是付费服务；toxic（adj.有毒的）与taxi差字母c和o，词源无关，toxic源于希腊语toxikon（毒箭）。",
+        "extendedMeaning": "在航空语境中，taxi作动词表示“（飞机）滑行”，如The plane taxied to the runway. 这是考研阅读中可能出现的僻义，非日常常见。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tear",
+      "word": "tear",
+      "phonetic": "/tɛə/",
+      "meaning": "n.(pl.)眼泪 vt.撕裂；使…分裂 vi.破裂",
+      "similar": [
+        "ear",
+        "tar",
+        "bear",
+        "fear",
+        "gear",
+        "pear",
+        "rear",
+        "beard"
+      ],
+      "question": {
+        "wordId": "tear",
+        "stem": "选择 \"tear\" 的正确中文意思：",
+        "correct": "n.(pl.)眼泪 vt.撕裂；使…分裂 vi.破裂",
+        "options": [
+          "n.熊 v.忍受,容忍;负担;结果实,生子女",
+          "n.柏油，焦油 vt.涂或浇柏油/焦油于",
+          "n.耳，耳朵；听力，听觉；穗",
+          "n.(pl.)眼泪 vt.撕裂；使…分裂 vi.破裂"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，但核心物理动作/画面：tear（撕裂）指用力将物体撕开、扯裂的动作，强调分离；tear（眼泪）指眼睛分泌的液体，与‘撕裂’同形异义，注意区分。",
+        "similarWarning": "ear（耳朵），tar（焦油），tea（茶），bear（熊/忍受），dear（亲爱的），fear（害怕），gear（齿轮/装备），hear（听见）——注意tear与这些词仅首字母或尾字母不同，拼写易混。",
+        "extendedMeaning": "tear在考研中常考‘撕裂’引申义：使…分裂（如tear apart使分裂）、匆忙移动（如tear down拆毁/ tear through疾驰）。",
+        "examUsage": "tear apart（使分裂/拆散）是真题高频搭配，如‘The war tore the country apart.’（战争使国家分裂。）注意tear作动词时过去式tore，过去分词torn。"
+      }
+    },
+    {
+      "id": "tease",
+      "word": "tease",
+      "phonetic": "/ti:z/",
+      "meaning": "v.戏弄,取笑;挑逗 n.(爱)戏弄他人者;戏弄",
+      "similar": [
+        "ease",
+        "cease",
+        "lease",
+        "tense",
+        "grease",
+        "please",
+        "base",
+        "east"
+      ],
+      "question": {
+        "wordId": "tease",
+        "stem": "选择 \"tease\" 的正确中文意思：",
+        "correct": "v.戏弄,取笑;挑逗 n.(爱)戏弄他人者;戏弄",
+        "options": [
+          "v.减轻;使舒适,使安心 n.容易;舒适,悠闲",
+          "v.戏弄,取笑;挑逗 n.(爱)戏弄他人者;戏弄",
+          "v./n.停止,中止",
+          "vt.出租,租用 n.租借,租期,租赁物"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源自古英语tæsan‘拉扯、撕扯’。核心动作是‘轻微拉扯’，引申为言语上‘拉扯’他人、戏弄取笑，或行为上‘挑逗’。",
+        "similarWarning": "tease vs. ease: tease有字母t开头，意为戏弄；ease意为安逸、减轻。cease与tease差首字母c，意为停止。lease与tease差首字母l，意为租赁。tense与tease差n，意为紧张的。grease与tease差gr，意为油脂。please与tease差pl，意为请、使愉快。tea与tease差s e，意为茶。base与tease差b，意为基础。",
+        "extendedMeaning": "‘挑逗、撩拨’（非性暗示，指故意引发兴趣或欲望的行为，如tease the audience‘吊观众胃口’）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "technical",
+      "word": "technical",
+      "phonetic": "/'teknikəl/",
+      "meaning": "a.技术(性)的，工艺的；专门性的，专业性的",
+      "similar": [
+        "mechanical",
+        "technician",
+        "technique",
+        "economical",
+        "electrical"
+      ],
+      "question": {
+        "wordId": "technical",
+        "stem": "选择 \"technical\" 的正确中文意思：",
+        "correct": "a.技术(性)的，工艺的；专门性的，专业性的",
+        "options": [
+          "n.技巧，手艺，技能；技术，工艺",
+          "a.机械的,由机构制成的;机械似的,呆板的",
+          "n.技术员,技师,技工",
+          "a.技术(性)的，工艺的；专门性的，专业性的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'techne'（技艺、手艺） + '-ical'（形容词后缀，表示“与…相关的”）。核心动作：与技艺或技术相关。",
+        "similarWarning": "形近词辨析：\n- technical (a. 技术的)：tech-（技艺） + -nical（后缀）\n- mechanical (a. 机械的)：mechan-（机器） + -ical\n- technician (n. 技师)：technic-（技术） + -ian（人）\n- technique (n. 技巧)：technique 直接来自法语，无形容词后缀\n- economical (a. 节约的)：economy（经济） + -ical，侧重经济实惠\n- electrical (a. 电的)：electric（电的） + -ical，侧重与电相关的",
+        "extendedMeaning": "在考研中常引申为“专业性的、专门性的”，强调知识或技能的专业化，而非字面的“技术”。",
+        "examUsage": "真题考点：常与 'terms' 搭配（technical terms 专业术语），或与 'problems' 结合（technical problems 技术问题）。注意区分 'technical'（技术性的）与 'technological'（技术革新的）。"
+      }
+    },
+    {
+      "id": "technician",
+      "word": "technician",
+      "phonetic": "/tek'niʃən/",
+      "meaning": "n.技术员,技师,技工",
+      "similar": [
+        "technical",
+        "electrician",
+        "technique",
+        "mechanical"
+      ],
+      "question": {
+        "wordId": "technician",
+        "stem": "选择 \"technician\" 的正确中文意思：",
+        "correct": "n.技术员,技师,技工",
+        "options": [
+          "n.技巧，手艺，技能；技术，工艺",
+          "n.电学家,电工",
+          "a.技术(性)的，工艺的；专门性的，专业性的",
+          "n.技术员,技师,技工"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "techn-（技艺，技术）+ -ician（表示“从事某职业的人”），核心动作/画面：掌握专门技艺的人，即技术员。",
+        "similarWarning": "technical（技术的，形容词）vs technician（技术员，名词）；technique（技术，方法，名词）vs technician（技术员，名词）；electrician（电工）与technician拼写差异在“electr-”与“techn-”前缀及后缀“-ician”相同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "technique",
+      "word": "technique",
+      "phonetic": "/tek'ni:k/",
+      "meaning": "n.技巧，手艺，技能；技术，工艺",
+      "similar": [
+        "technical",
+        "technician"
+      ],
+      "question": {
+        "wordId": "technique",
+        "stem": "选择 \"technique\" 的正确中文意思：",
+        "correct": "n.技巧，手艺，技能；技术，工艺",
+        "options": [
+          "n.卵石",
+          "n.技术员,技师,技工",
+          "a.技术(性)的，工艺的；专门性的，专业性的",
+          "n.技巧，手艺，技能；技术，工艺"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自希腊语 'techne'（艺术、手艺、技巧）+ '-ique'（法语后缀，表方法或性质）。核心物理动作：掌握一门手艺或艺术的方法。词源本义是‘制作某物的系统方法’，后引申为‘技术’或‘技巧’。",
+        "similarWarning": "technical（技术的，工艺的）是形容词，强调与特定技术或工艺相关的；technician（技术员，技师）是名词，指掌握技术的人。与technique（方法，技巧）相比，后两者更侧重‘技术本身’或‘技术人员’，而technique强调‘做事的技巧或方法’。",
+        "extendedMeaning": "在考研真题中，technique常引申为‘特定领域的技巧或方法’，如‘interview technique’（面试技巧）或‘marketing technique’（营销手段），而非仅指硬性技术。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tedious",
+      "word": "tedious",
+      "phonetic": "/'ti:diəs/",
+      "meaning": "a.乏味的,单调的,冗长的",
+      "similar": [
+        "precious",
+        "previous"
+      ],
+      "question": {
+        "wordId": "tedious",
+        "stem": "选择 \"tedious\" 的正确中文意思：",
+        "correct": "a.乏味的,单调的,冗长的",
+        "options": [
+          "n.处罚,刑罚,惩罚,罚金",
+          "a.珍贵的,贵重的",
+          "a.先前的,以前的",
+          "a.乏味的,单调的,冗长的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根tad-（缓慢、厌倦）+ -ious（形容词后缀）。源自拉丁语taedium（厌倦），核心动作是“因持续缓慢或冗长而产生心理疲惫”，引申为“乏味、单调、冗长”。",
+        "similarWarning": "serious（严肃的，严重的，词根ser-“连接”表连续思考），precious（珍贵的，词根pret-“价值”），previous（先前的，词根pre-“前”+via“路”）。区别：tedious强调时间/过程上的厌倦感，与serious的严肃性、precious的价值性、previous的时间顺序无关。",
+        "extendedMeaning": "在考研外刊中可引申为“繁琐、令人厌烦的（过程/任务）”，如tedious paperwork（繁琐的文书工作），不局限于“乏味”，更强调机械重复的消耗感。",
+        "examUsage": "真题常与boring, monotonous同义替换，但干扰项常设成dull（迟钝的）或tiresome（令人疲劳的），注意tedious侧重“因长而厌”，tiresome侧重“因累而烦”。例句：The task was so tedious that he lost concentration.（真题阅读中表原因状语考点）"
+      }
+    },
+    {
+      "id": "teenager",
+      "word": "teenager",
+      "phonetic": "/'ti:nˌeidʒə/",
+      "meaning": "n.十几岁的青少年",
+      "similar": [
+        "tender",
+        "manager",
+        "theater"
+      ],
+      "question": {
+        "wordId": "teenager",
+        "stem": "选择 \"teenager\" 的正确中文意思：",
+        "correct": "n.十几岁的青少年",
+        "options": [
+          "a.嫩的;敏感的;温柔的 v.提出,提供;投标",
+          "n.(theatre)戏院;戏剧;阶梯教室",
+          "n.经理,管理人",
+          "n.十几岁的青少年"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "teen（十）+ age（年龄）+ er（人）→ 十三至十九岁（teen结尾数字）的人，即青少年。词源上teen源自古英语tiene，与ten同源，指十到十九的数字后缀。",
+        "similarWarning": "tender（温柔的；投标）与teenager拼写差异在'd' vs 'n'和结尾'er' vs 'ger'；manager（经理）差异在'man' vs 'teen'和'ger' vs 'ger'；theater（剧院）差异在'thea' vs 'teen'和'ter' vs 'ger'。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "telegram",
+      "word": "telegram",
+      "phonetic": "/'teligræm/",
+      "meaning": "n.电报",
+      "similar": [
+        "telegraph"
+      ],
+      "question": {
+        "wordId": "telegram",
+        "stem": "选择 \"telegram\" 的正确中文意思：",
+        "correct": "n.电报",
+        "options": [
+          "n.电报",
+          "n.电报机,电报 v.打电报,发电报",
+          "n.(neighbour)邻居",
+          "n.剃刀"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "tele-（远）+ -gram（书写、记录）→ 从远处传来的书写记录 → 电报。词源上指通过电报系统发送的书面信息，强调远程传输的文本记录。",
+        "similarWarning": "telegraph（n.电报机，v.打电报）与telegram相比，-graph侧重“书写工具/方式”（如telegraph指设备或系统），-gram侧重“书写结果/产物”（如telegram指具体信息）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "telegraph",
+      "word": "telegraph",
+      "phonetic": "/'teligrɑ:f/",
+      "meaning": "n.电报机,电报 v.打电报,发电报",
+      "similar": [
+        "telegram"
+      ],
+      "question": {
+        "wordId": "telegraph",
+        "stem": "选择 \"telegraph\" 的正确中文意思：",
+        "correct": "n.电报机,电报 v.打电报,发电报",
+        "options": [
+          "n.电报",
+          "n.隧道,山洞",
+          "n.电报机,电报 v.打电报,发电报",
+          "n.震动;电击,触电;休克v.(使)震动/震惊"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语：tele（远）+ graph（写/画）。核心物理动作：远距离书写。通过电信号将文字信息传送到远处，即电报。",
+        "similarWarning": "telegraph（电报/打电报） vs telegram（电报/电文）：telegraph强调设备或通信方式（名词/动词），telegram仅指文字消息（名词）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "telephone",
+      "word": "telephone",
+      "phonetic": "/'telifəun/",
+      "meaning": "n.电话,电话机 v.打电话",
+      "similar": [
+        "elephant",
+        "telescope"
+      ],
+      "question": {
+        "wordId": "telephone",
+        "stem": "选择 \"telephone\" 的正确中文意思：",
+        "correct": "n.电话,电话机 v.打电话",
+        "options": [
+          "n.(动物)象",
+          "n.望远镜 v.缩短，压缩",
+          "n.电话,电话机 v.打电话",
+          "v.向…欢呼，公认 n.欢呼，喝彩，称赞"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "tele-（远）+ phone（声音）→ 传递远距离声音的设备。核心动作：通过电信号将声音从远处传送到耳边。",
+        "similarWarning": "elephant（大象）→ 拼写差异：telephone有'tel'和'phone'，elephant是'e'和'phant'，词义无关；telescope（望远镜）→ 共享前缀tele-（远），但phone（声音）vs scope（看），一个听远，一个看远。",
+        "extendedMeaning": "考研僻义：telephone作为动词时，常考'打电话给某人'（telephone sb.），但更高级用法是'用电话传达信息'，如telephone a message（用电话传递消息）。",
+        "examUsage": "真题考点：简单词，常见于听力或阅读中的电话对话场景，如'telephone call'（电话通话），'telephone number'（电话号码）。无特殊干扰项。"
+      }
+    },
+    {
+      "id": "telescope",
+      "word": "telescope",
+      "phonetic": "/'teliskəup/",
+      "meaning": "n.望远镜 v.缩短，压缩",
+      "similar": [
+        "telephone"
+      ],
+      "question": {
+        "wordId": "telescope",
+        "stem": "选择 \"telescope\" 的正确中文意思：",
+        "correct": "n.望远镜 v.缩短，压缩",
+        "options": [
+          "n.望远镜 v.缩短，压缩",
+          "n.电话,电话机 v.打电话",
+          "n.胡萝卜",
+          "n.尊敬，尊重 vt.尊重，敬重；把…看作"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "tele-（远）+ scope（看）→ 看远方的工具→望远镜；动词义源于望远镜可伸缩的特性→使缩短、压缩",
+        "similarWarning": "telephone（tele-远+phone声音→电话）：对比telescope（远+看）vs telephone（远+听），拼写差异在scope与phone，词义侧重视觉与听觉的区分",
+        "extendedMeaning": "v.缩短，压缩（常用于时间、空间或篇幅的缩减，如telescope the schedule压缩日程）",
+        "examUsage": "真题中常考动词义：telescope into（压缩成），如The whole process was telescoped into a few hours."
+      }
+    },
+    {
+      "id": "temper",
+      "word": "temper",
+      "phonetic": "/'tempə/",
+      "meaning": "n.脾气；韧度vt.调和，使缓和；使回火",
+      "similar": [
+        "tempo",
+        "tempt",
+        "hamper",
+        "pepper",
+        "temple",
+        "tender",
+        "timber"
+      ],
+      "question": {
+        "wordId": "temper",
+        "stem": "选择 \"temper\" 的正确中文意思：",
+        "correct": "n.脾气；韧度vt.调和，使缓和；使回火",
+        "options": [
+          "v.妨碍,阻碍,牵制",
+          "v.诱惑,引诱;吸引,使感兴趣",
+          "n.节奏,行进速度;(音乐的)速度",
+          "n.脾气；韧度vt.调和，使缓和；使回火"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'temperare'（混合、调节），本义为按比例混合以达平衡。核心动作是‘混合调节至合适状态’，引申为脾气（情绪平衡度）、韧度（材料平衡度）、回火（金属热处理调节硬度）及调和（使缓和）。",
+        "similarWarning": "tempo（节奏）：temper 含 'er' 表调节；tempt（诱惑）：temper 含 'er'，tempt 含 't' 表试探；hamper（阻碍）：temper 以 't' 开头，hamper 以 'h' 开头；member（成员）：temper 含 'per'，member 含 'mber'；pepper（胡椒）：拼写差异在 'p' vs 't'；temple（寺庙）：temper 含 'per'，temple 含 'ple'；tender（温柔的）：temper 含 'per'，tender 含 'der'；timber（木材）：temper 含 'per'，timber 含 'ber'。核心区别：temper 强调调节与平衡。",
+        "extendedMeaning": "【考研僻义】① 韧度（材料抗变形能力）：The steel has good temper.（钢材韧度好）② 回火（热处理工艺）：Tempering reduces brittleness.（回火降低脆性）③ 使缓和（抽象调节）：temper justice with mercy（宽严相济）",
+        "examUsage": "【真题考点】① lose one's temper（发脾气）：考研阅读中常作情绪描写题眼。② in a bad/good temper（心情不好/好）：完形填空高频搭配。③ temper one's enthusiasm（抑制热情）：考研翻译或写作中表‘调节’的精准用词。④ 干扰项：常与 'tempt'（诱惑）在拼写上混淆，注意词义差异。"
+      }
+    },
+    {
+      "id": "temperament",
+      "word": "temperament",
+      "phonetic": "/'tempərəmənt/",
+      "meaning": "n.气质，性格，性情；资质",
+      "similar": [
+        "experiment",
+        "department",
+        "employment",
+        "compartment"
+      ],
+      "question": {
+        "wordId": "temperament",
+        "stem": "选择 \"temperament\" 的正确中文意思：",
+        "correct": "n.气质，性格，性情；资质",
+        "options": [
+          "n.雇用;使用;工作,职业",
+          "n.部,局,处,科,部门;系,学部",
+          "n.实验;试验 v.(on)进行实验;做试验",
+          "n.气质，性格，性情；资质"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根temp-（时间）+ -er-（连接）+ -ament（名词后缀，表集合/状态）。本义“时间带来的混合比例”，源自中世纪生理学四体液说（血液、黏液、黄胆汁、黑胆汁），其不同比例决定人的脾气与性情。核心物理动作为“时间调配比例”，引申为“天生的性情/气质”。",
+        "similarWarning": "experiment（实验：ex-向外+peri-尝试+ment→向外尝试）vs temperament（气质：temp-时间+ament→时间调配）。department（部门：de-向下+part-部分+ment→下属部分）vs temperament（气质）。employment（雇佣：em-进入+ploy-折叠+ment→卷入其中）vs temperament（气质）。",
+        "extendedMeaning": "在考研语境中，temperament常考“（艺术/音乐中的）调律法”，如equal temperament（平均律），指音高系统的调整方式。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "temple",
+      "word": "temple",
+      "phonetic": "/'templ/",
+      "meaning": "n.庙宇,神殿,寺;太阳穴",
+      "similar": [
+        "tremble",
+        "ample",
+        "tempo",
+        "tempt",
+        "female",
+        "sample",
+        "temper",
+        "triple"
+      ],
+      "question": {
+        "wordId": "temple",
+        "stem": "选择 \"temple\" 的正确中文意思：",
+        "correct": "n.庙宇,神殿,寺;太阳穴",
+        "options": [
+          "n.庙宇,神殿,寺;太阳穴",
+          "a.充分的，富裕的；宽敞的，宽大的",
+          "n.节奏,行进速度;(音乐的)速度",
+          "n.战栗,颤抖 v.发抖,颤抖；摇动；焦虑"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语templum（神圣区域、神殿），原指占卜时观察飞鸟的划定区域。temple（庙宇）引申为祭祀场所；temple（太阳穴）源自拉丁语tempus（时间），因该部位是生命时间流逝的象征（脉搏跳动处关联生命时长）。",
+        "similarWarning": "tremble（颤抖）：tremble含‘trem’（颤抖），与temple的‘templ’区别在‘r’和‘l’。ample（充足的）：ample含‘ampl’（大），与temple的‘templ’区别在‘a’和‘e’。tempo（节奏）：tempo含‘temp’（时间），与temple的‘templ’区别在结尾‘o’和‘e’。tempt（诱惑）：tempt含‘tempt’（尝试），与temple的‘templ’区别在‘t’和‘l’。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tempo",
+      "word": "tempo",
+      "phonetic": "/'tempəu/",
+      "meaning": "n.节奏,行进速度;(音乐的)速度",
+      "similar": [
+        "tempt",
+        "temper",
+        "temple",
+        "memo"
+      ],
+      "question": {
+        "wordId": "tempo",
+        "stem": "选择 \"tempo\" 的正确中文意思：",
+        "correct": "n.节奏,行进速度;(音乐的)速度",
+        "options": [
+          "n.节奏,行进速度;(音乐的)速度",
+          "n.庙宇,神殿,寺;太阳穴",
+          "v.诱惑,引诱;吸引,使感兴趣",
+          "n.脾气；韧度vt.调和，使缓和；使回火"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'tempus'（时间）。核心动作是时间流逝的速率。引申为音乐中的速度（时间单位内的节拍数）或任何活动的节奏/行进速度。",
+        "similarWarning": "tempt (v.诱惑，词根tempt=尝试，无时间概念)；temper (n.脾气 v.调和，词根tempor=时间，引申为平衡/调节)；temple (n.寺庙，词源不同)。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "temporary",
+      "word": "temporary",
+      "phonetic": "/'tempərəri/",
+      "meaning": "a.暂时的,临时的",
+      "similar": [],
+      "question": {
+        "wordId": "temporary",
+        "stem": "选择 \"temporary\" 的正确中文意思：",
+        "correct": "a.暂时的,临时的",
+        "options": [
+          "n.(正式文件或法律文件的)条款;从句,分句",
+          "n.会员资格,成员资格",
+          "a.暂时的,临时的",
+          "n./a.恐慌(的),惊慌(的) vt.使惊慌,使害怕"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'temporarius'，词根 'tempus'（时间）+ 后缀 '-ary'（与...相关）。核心动作是“与时间相关的”，即在一段时间内存在，暗示非永久性。",
+        "similarWarning": "temporary vs temperature：temporary 以 -ary 结尾，强调时间上的短暂；temperature 以 -ature 结尾，源自拉丁语 'temperatura'（调和），指冷热程度。",
+        "extendedMeaning": "在考研中，temporary 可引申为“临时的（工作/职位）”，如 temporary job（临时工作），强调非长期性。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tempt",
+      "word": "tempt",
+      "phonetic": "/tempt/",
+      "meaning": "v.诱惑,引诱;吸引,使感兴趣",
+      "similar": [
+        "tempo",
+        "attempt",
+        "exempt",
+        "temper",
+        "temple",
+        "emit",
+        "tent",
+        "text"
+      ],
+      "question": {
+        "wordId": "tempt",
+        "stem": "选择 \"tempt\" 的正确中文意思：",
+        "correct": "v.诱惑,引诱;吸引,使感兴趣",
+        "options": [
+          "a.免除的 v.免除 n.免税者;被免除义务者",
+          "n.节奏,行进速度;(音乐的)速度",
+          "v.诱惑,引诱;吸引,使感兴趣",
+          "vt.企图，试图 n.努力，尝试，企图"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "tempt 源自拉丁语 temptare，意为“触摸、试探、测试”。核心物理动作是“用手试探性地触碰某物”，引申为“测试某物的可靠性或吸引力”。在心理层面，这种“试探”转化为“诱惑、引诱”，即通过展示好处来测试人的意志力。词根与 attempt（尝试）同源，强调“试探性行动”。",
+        "similarWarning": "attempt (v./n. 尝试) vs. tempt (v. 诱惑)：attempt 强调“主动努力去做”，前缀 at- 表方向；tempt 强调“引诱他人犯错误或产生欲望”，无前缀。exempt (v. 免除) vs. tempt：exempt 前缀 ex- 表“向外”，核心义为“从义务中取出”；tempt 无此意。",
+        "extendedMeaning": "在考研阅读中，tempt 常引申为“吸引、使感兴趣”，用于描述事物对注意力的捕获，如“tempt customers”（吸引顾客）或“tempt investors”（吸引投资者）。",
+        "examUsage": "常见搭配：be tempted to do sth. (被诱惑做某事)，在真题中常作为干扰项，强调“内心冲动”而非“被迫”。例句：The low price tempted many people to buy.（低价吸引许多人购买。）"
+      }
+    },
+    {
+      "id": "temptation",
+      "word": "temptation",
+      "phonetic": "/temp'teiʃən/",
+      "meaning": "n.引诱，诱惑；诱惑物",
+      "similar": [
+        "imitation",
+        "limitation",
+        "meditation",
+        "reputation",
+        "vegetation",
+        "competition",
+        "expectation",
+        "equation"
+      ],
+      "question": {
+        "wordId": "temptation",
+        "stem": "选择 \"temptation\" 的正确中文意思：",
+        "correct": "n.引诱，诱惑；诱惑物",
+        "options": [
+          "n.模仿,仿效;仿制;仿造品",
+          "n.引诱，诱惑；诱惑物",
+          "n.熟虑;(尤指宗教的)默想,沉思;(pl.)冥想录",
+          "n.限制,局限性"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根tempt（尝试，触摸）源自拉丁语temptare（试探，触摸），-ation为名词后缀，表示行为或结果。核心动作是“试探性地触碰”，引申为通过引诱或诱惑来试探人的意志。",
+        "similarWarning": "temptation vs. imitation（模仿）：tempt核心是“试探”，imitation核心是“模仿”（im-向内+it-走）。temptation vs. limitation（限制）：tempt与limit（界限）无词源关联。",
+        "extendedMeaning": "在考研中，temptation常引申为“难以抗拒的诱惑物或情境”，如“the temptation of quick profits”（快速获利的诱惑），强调外部刺激对决策的干扰。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ten",
+      "word": "ten",
+      "phonetic": "/ten/",
+      "meaning": "num.十 pron./a.十(个，只...)",
+      "similar": [
+        "tend",
+        "tent",
+        "hen",
+        "tan",
+        "tin",
+        "ton",
+        "stern",
+        "tense"
+      ],
+      "question": {
+        "wordId": "ten",
+        "stem": "选择 \"ten\" 的正确中文意思：",
+        "correct": "num.十 pron./a.十(个，只...)",
+        "options": [
+          "num.十 pron./a.十(个，只...)",
+          "v.趋向,往往是;照料,看护",
+          "n.帐篷",
+          "n.母鸡"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *tehun，与拉丁语 decem（十）同源，核心语义为数字10，是十进制系统的基础词汇。",
+        "similarWarning": "tend（v.趋向；照料）多一个字母d，强调方向性动作；tent（n.帐篷）以t结尾，指临时遮蔽物；then（adv.然后）含th，表示时间顺序；hen（n.母鸡）首字母h，指家禽。",
+        "extendedMeaning": "",
+        "examUsage": "在考研中常作为数词出现，但需注意与不定代词搭配（如ten of them）及序数词tenth的变形，无特殊考点，此项省略。"
+      }
+    },
+    {
+      "id": "tenant",
+      "word": "tenant",
+      "phonetic": "/'tenənt/",
+      "meaning": "n.承租人;房客;佃户 vt.租借，承租",
+      "similar": [
+        "remnant",
+        "tent",
+        "pregnant",
+        "tolerant"
+      ],
+      "question": {
+        "wordId": "tenant",
+        "stem": "选择 \"tenant\" 的正确中文意思：",
+        "correct": "n.承租人;房客;佃户 vt.租借，承租",
+        "options": [
+          "n.承租人;房客;佃户 vt.租借，承租",
+          "n.帐篷",
+          "a.怀孕的,孕育的,充满的,意味深长的",
+          "n.剩余(物),零料,遗迹[风] a.剩余的,残留的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根ten-（持有）+-ant（人）→持有（租赁权）的人→承租人、房客。核心动作：通过租赁协议暂时‘持有’房屋或土地的使用权。",
+        "similarWarning": "形近词对比：tenant（承租人）vs remnant（残余，re-回+man-留+ant→留下的东西）vs tent（帐篷，ten-伸展→可伸展的遮蔽物）vs pregnant（怀孕的，pre-前+gn-生→生育前的状态）vs tolerant（容忍的，toler-忍受+-ant）。关键差异：tenant核心是‘持有（租赁权）’，与‘残余’、‘帐篷’、‘怀孕’、‘容忍’无直接关联。",
+        "extendedMeaning": "考研僻义：在真题中常引申为‘占用者’或‘占据者’，不限于房产租赁，如‘a tenant of the system’（系统的占用者/使用者）。",
+        "examUsage": "真题考点：常见搭配‘tenant farmer’（佃农）在阅读中涉及土地制度；短语‘tenant in common’（共同承租人）在合同类文本中出现。无特殊干扰项，略。"
+      }
+    },
+    {
+      "id": "tend",
+      "word": "tend",
+      "phonetic": "/tend/",
+      "meaning": "v.趋向,往往是;照料,看护",
+      "similar": [
+        "trend",
+        "ten",
+        "bend",
+        "mend",
+        "tent",
+        "attend",
+        "extend",
+        "intend"
+      ],
+      "question": {
+        "wordId": "tend",
+        "stem": "选择 \"tend\" 的正确中文意思：",
+        "correct": "v.趋向,往往是;照料,看护",
+        "options": [
+          "n.倾向,趋势 vi.伸向,倾向",
+          "v.(使)弯曲;屈从,屈服 n.弯曲(处),曲折处",
+          "num.十 pron./a.十(个，只...)",
+          "v.趋向,往往是;照料,看护"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 tend-/tens- 意为“伸展、延伸”。核心物理动作是“手伸向某个方向”，引申为：1) 趋向、往往是（思想或行为伸向某方向）；2) 照料、看护（手伸出去照顾某人）。",
+        "similarWarning": "trend (n.趋势) 比 tend 多了字母 r，强调“伸展”的方向性趋势；ten (num.十) 少字母 d，词源无关；bend (v.弯曲) 首字母 b 替换 t，动作方向相反（弯曲 vs 伸展）；lend (v.借出) 首字母 l 替换 t，动作是“给予”而非“伸展”。",
+        "extendedMeaning": "tend to do sth. 在考研阅读中常表“往往会…”，用于揭示因果或规律，如“People tend to overestimate their abilities.”（人们往往会高估自己的能力）。",
+        "examUsage": "tend to 是高频考点，常作为逻辑连接词出现，标志作者观点或普遍现象。真题例句：“The more women and minorities make their way into the ranks of management, the more they tend to be left out.”（越多的女性和少数族裔进入管理层，他们越容易被排除在外。）"
+      }
+    },
+    {
+      "id": "tendency",
+      "word": "tendency",
+      "phonetic": "/'tendənsi/",
+      "meaning": "n.趋势，趋向；倾向",
+      "similar": [
+        "tender",
+        "sentence",
+        "attendance"
+      ],
+      "question": {
+        "wordId": "tendency",
+        "stem": "选择 \"tendency\" 的正确中文意思：",
+        "correct": "n.趋势，趋向；倾向",
+        "options": [
+          "a.嫩的;敏感的;温柔的 v.提出,提供;投标",
+          "n.句子;判决,宣判 v.宣判,判决",
+          "n.出席；出席人数；护理，照料",
+          "n.趋势，趋向；倾向"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根tend-意为“伸展、延伸”，-ency为名词后缀。核心物理动作是“伸展出去”，引申为事物发展的方向或倾向，即“趋势、趋向”。",
+        "similarWarning": "tender（v.提出，n.投标；adj.温柔的）与tendency仅差一个字母r，词义迥异；sentence（n.句子，判决）拼写相似但词根sent-意为“感觉、想法”，与tend-无关；attendance（n.出席，参加）含-ance后缀，词根attend-强调“朝向+伸展”，但侧重“到场”而非“趋势”。",
+        "extendedMeaning": "在考研真题中常指“一种潜在的、未被明确表达的倾向”，如“a tendency to avoid conflict”（回避冲突的倾向），或用于描述社会、经济等宏观趋势。",
+        "examUsage": "高频搭配：tendency to do sth.（做某事的倾向）；真题中常作为主旨题或观点态度题的关键词，如“the growing tendency towards individualism”（日益增长的个人主义倾向）。"
+      }
+    },
+    {
+      "id": "tender",
+      "word": "tender",
+      "phonetic": "/'tendə(r)/",
+      "meaning": "a.嫩的;敏感的;温柔的 v.提出,提供;投标",
+      "similar": [
+        "gender",
+        "render",
+        "slender",
+        "thunder",
+        "tend",
+        "elder",
+        "enter",
+        "tense"
+      ],
+      "question": {
+        "wordId": "tender",
+        "stem": "选择 \"tender\" 的正确中文意思：",
+        "correct": "a.嫩的;敏感的;温柔的 v.提出,提供;投标",
+        "options": [
+          "a.修长的,细长的,苗条的;微小的,微薄的",
+          "a.嫩的;敏感的;温柔的 v.提出,提供;投标",
+          "n.(生理上的)性；(名词、代词等的)性",
+          "v.使得,致使;提出,提供,呈报"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语tendere（伸展、延伸）。核心动作是“向外伸展”。tender作为形容词“嫩、软”源自“易伸展、易弯折”；作为动词“提出、投标”源自“把东西伸出去、呈上”。",
+        "similarWarning": "gender（性别） vs tender：g-开头指类别划分；render（给予、致使） vs tender：re-前缀强调“回馈”动作；slender（苗条） vs tender：s-前缀表“细长”状态；thunder（雷声） vs tender：th-开头表声音；tend（趋向、照料） vs tender：tender是tend的派生词，加-er表人或动作；elder（年长的） vs tender：e-开头表年龄；enter（进入） vs tender：en-前缀表“进入”；tense（紧张的） vs tender：tens-表“拉紧”，tender表“易伸展”。",
+        "extendedMeaning": "考研僻义：tender作名词“投标书、招标”；作动词“投标（for）”。",
+        "examUsage": "真题考点：tender for（投标）；legal tender（法定货币）。例句：Several firms have tendered for the contract.（几家公司已投标承包该合同。）"
+      }
+    },
+    {
+      "id": "tennis",
+      "word": "tennis",
+      "phonetic": "/'tenɪs/",
+      "meaning": "n.网球",
+      "similar": [],
+      "question": {
+        "wordId": "tennis",
+        "stem": "选择 \"tennis\" 的正确中文意思：",
+        "correct": "n.网球",
+        "options": [
+          "a.(to)便利的,方便的",
+          "n.悲剧;惨事,灾难",
+          "vt.容忍,默许；对(药物、毒品等)有耐力",
+          "n.网球"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自法语'tenez'（接住），原为网球发球时的呼喊，后指代这项运动。词根无复杂演变，直接音译借入英语。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tense",
+      "word": "tense",
+      "phonetic": "/tens/",
+      "meaning": "n.时态 v.拉紧，(使)紧张 a.绷紧的，紧张的",
+      "similar": [
+        "dense",
+        "tease",
+        "intense",
+        "tender",
+        "ten",
+        "ease",
+        "gene",
+        "lens"
+      ],
+      "question": {
+        "wordId": "tense",
+        "stem": "选择 \"tense\" 的正确中文意思：",
+        "correct": "n.时态 v.拉紧，(使)紧张 a.绷紧的，紧张的",
+        "options": [
+          "v.戏弄,取笑;挑逗 n.(爱)戏弄他人者;戏弄",
+          "a.浓厚的,密集的,稠密的",
+          "n.时态 v.拉紧，(使)紧张 a.绷紧的，紧张的",
+          "a.强烈的,剧烈的;热烈的,热情的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“tensus”，是“tendere”（伸展）的过去分词。核心物理动作是“拉紧、绷直”。词根“tens-”表示“伸展”。n.时态（时间被延伸的概念）；v./a.拉紧、紧张（肌肉或神经被绷紧的状态）。",
+        "similarWarning": "dense（密集的，字母d替换t）；sense（感觉，字母s替换t）；tease（戏弄，字母a替换n，e替换s）；intense（强烈的，前缀in-+tense，强调程度）；tender（柔软的，字母d替换s）。",
+        "extendedMeaning": "adj.紧张的（指氛围或关系，如a tense atmosphere）；v.使紧张（指情绪或局势，如The situation tensed up.）。",
+        "examUsage": "真题中常考“tense”作形容词表“紧张的”及动词“使拉紧”的引申义。搭配：tense up（紧张起来）；tense silence（紧张的沉默）。"
+      }
+    },
+    {
+      "id": "tension",
+      "word": "tension",
+      "phonetic": "/'tenʃən/",
+      "meaning": "n.(紧张)状态；拉(绷)紧；张力，拉力",
+      "similar": [
+        "pension",
+        "extension",
+        "mention",
+        "session",
+        "version",
+        "attention",
+        "dimension",
+        "intention"
+      ],
+      "question": {
+        "wordId": "tension",
+        "stem": "选择 \"tension\" 的正确中文意思：",
+        "correct": "n.(紧张)状态；拉(绷)紧；张力，拉力",
+        "options": [
+          "v./n.提及,说起",
+          "n.(紧张)状态；拉(绷)紧；张力，拉力",
+          "n.延长;扩大;范围;大小;尺寸;电话分机",
+          "n.养老金,年金"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语“tendere”（伸展、拉紧）的过去分词词干“tens-”+名词后缀“-ion”。核心物理动作是“被拉紧的状态”，由此引申出物理上的“张力、拉力”和心理上的“紧张状态”。",
+        "similarWarning": "pension（养老金）、extension（延伸）、mention（提及）、session（会议）、version（版本）、attention（注意）、dimension（维度）、intention（意图）",
+        "extendedMeaning": "考研中常考其抽象义“（关系、局势的）紧张状态”或“（内心的）焦虑、压抑感”，如“racial tension”（种族紧张局势）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tent",
+      "word": "tent",
+      "phonetic": "/tent/",
+      "meaning": "n.帐篷",
+      "similar": [
+        "ten",
+        "cent",
+        "rent",
+        "tend",
+        "text",
+        "extent",
+        "latent",
+        "patent"
+      ],
+      "question": {
+        "wordId": "tent",
+        "stem": "选择 \"tent\" 的正确中文意思：",
+        "correct": "n.帐篷",
+        "options": [
+          "n.分(币);百 per cent百分之",
+          "n.帐篷",
+          "num.十 pron./a.十(个，只...)",
+          "v.租,租赁 n.租金"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根tend-（伸展）的变体，本义为“伸展的布”，即帐篷。原始动作是“将布料伸展、拉开以形成遮蔽空间”。",
+        "similarWarning": "tend（v.倾向，照料）：tent 多一个 t，表“伸展”的实物；extent（n.范围）：ex-向外 + tent，强调伸展的广度；latent（adj.潜在的）：lat-隐藏 + ent，与 tent 无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tentative",
+      "word": "tentative",
+      "phonetic": "/'tentətiv/",
+      "meaning": "a.试探性的，暂时的；犹豫不决的",
+      "similar": [
+        "negative",
+        "relative",
+        "sensitive",
+        "alternative",
+        "initiative",
+        "temptation"
+      ],
+      "question": {
+        "wordId": "tentative",
+        "stem": "选择 \"tentative\" 的正确中文意思：",
+        "correct": "a.试探性的，暂时的；犹豫不决的",
+        "options": [
+          "a.试探性的，暂时的；犹豫不决的",
+          "a.否定的,消极的,阴性的n.负数;(摄影)底片",
+          "a.相对的,比较的,有关系的 n.亲戚,关系词",
+          "a.(to)敏感的,易受伤害的;灵敏的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'tentare'（尝试，触摸），词根 'tent-' 表示‘尝试’，后缀 '-ative' 表‘有…性质的’。核心动作是‘尝试性的触摸或试探’，引申为‘试探性的、暂时的’或‘犹豫不决的’。",
+        "similarWarning": "temptation（n.诱惑）：源自 tempt-（引诱），与 tent-（尝试）字母差异在于 'p' vs 't'，词义侧重引诱。negative（a.否定的）：neg-（否定），与 tent- 无关。",
+        "extendedMeaning": "在考研真题中常表‘试探性的、非最终确定的’，如 tentative agreement（暂定协议）；或‘犹豫不决的’，如 a tentative smile（勉强的微笑）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "terminal",
+      "word": "terminal",
+      "phonetic": "/'tə:minəl/",
+      "meaning": "a.晚期的;终点的;期末的 n.终点(站);终端",
+      "similar": [
+        "terminate",
+        "aerial",
+        "serial",
+        "eternal",
+        "nominal",
+        "seminar",
+        "thermal",
+        "cardinal"
+      ],
+      "question": {
+        "wordId": "terminal",
+        "stem": "选择 \"terminal\" 的正确中文意思：",
+        "correct": "a.晚期的;终点的;期末的 n.终点(站);终端",
+        "options": [
+          "n.连载小说，连续剧；连载刊物 a.连续的",
+          "vi.(使)结束，(使)停止",
+          "a.晚期的;终点的;期末的 n.终点(站);终端",
+          "a.(在或来自)空中的，航空的 n.天线"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'terminus'（边界、终点）。词根 'termin-' 表 '界限、结束'，后缀 '-al' 为形容词或名词标记。核心物理动作为 '到达边界或终点'，引申为 '晚期的、终点的、终端'。",
+        "similarWarning": "terminate（v.终止，终结）与 terminal 共享词根 'termin-'，但 -ate 为动词后缀；aerial（a.空中的）词根 'aer-'（空气），与 terminal 拼写差异在 'aer-' vs 'term-'；eternal（a.永恒的）词根 'aetern-'（永恒），与 terminal 区别在 'etern-' vs 'termin-'，词义完全相反（永恒 vs 终点）；cardinal（a.基本的，主要的）词根 'cardin-'（铰链，关键），拼写差异在 'card-' vs 'term-'。",
+        "extendedMeaning": "在计算机语境中，'terminal' 指 '终端设备'（如电脑终端），非物理终点；在医学中，'terminal illness' 指 '绝症'（晚期疾病），强调不可治愈的最终阶段。",
+        "examUsage": "真题考点：'terminal' 常与 'terminate' 混淆。注意 'terminal' 作名词时表 '终点站/终端'，而 'terminate' 是动词 '终止'。例如：The train arrived at the terminal.（火车到达终点站。） vs. The contract will terminate next month.（合同下月终止。）"
+      }
+    },
+    {
+      "id": "terminate",
+      "word": "terminate",
+      "phonetic": "/'tə:mineit/",
+      "meaning": "vi.(使)结束，(使)停止",
+      "similar": [
+        "terminal",
+        "dominate",
+        "nominate",
+        "permeate",
+        "eliminate",
+        "coordinate",
+        "coordinate",
+        "illuminate"
+      ],
+      "question": {
+        "wordId": "terminate",
+        "stem": "选择 \"terminate\" 的正确中文意思：",
+        "correct": "vi.(使)结束，(使)停止",
+        "options": [
+          "v.支配,统治,控制;占优势",
+          "a.晚期的;终点的;期末的 n.终点(站);终端",
+          "vi.(使)结束，(使)停止",
+          "v.提名,任命"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根termin（界限、终点）+ -ate（动词后缀）→ 到达界限 → 使结束、终止。核心动作是达到某个界限后停止。",
+        "similarWarning": "terminal（终点的，终端的）vs terminate（终止）: terminal是形容词/名词，指终点站或终端设备；terminate是动词，强调动作的结束。dominate（支配）vs terminate: dominate词根domin（统治），强调控制；terminate词根termin，强调结束。",
+        "extendedMeaning": "在考研英语中，terminate可引申为‘解雇、开除’（如terminate employment）或‘终止合同’（terminate a contract），尤其在法律或商业语境中高频出现。",
+        "examUsage": "真题考点：terminate常与contract、agreement、employment等搭配，表示正式结束；在完形填空中可能作为同义替换，与end、cease、stop等辨析，但terminate更正式、带有法律或程序性意味。"
+      }
+    },
+    {
+      "id": "terrific",
+      "word": "terrific",
+      "phonetic": "/tə'rifik/",
+      "meaning": "a.极好的,非常的,极度的",
+      "similar": [
+        "terrify",
+        "traffic"
+      ],
+      "question": {
+        "wordId": "terrific",
+        "stem": "选择 \"terrific\" 的正确中文意思：",
+        "correct": "a.极好的,非常的,极度的",
+        "options": [
+          "v.使害怕,使惊恐",
+          "n.交通,交通量",
+          "a.极好的,非常的,极度的",
+          "v.启发,启蒙,教导"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'terrificus'，由 'terrere'（使害怕）和 '-ficus'（制造）组成，本义为“引起恐惧的”。词义从“可怕的”逆向演变为“极好的”，体现了英语中强烈的程度夸张用法。核心动作：制造恐惧 → 程度强烈 → 极其好/极度。",
+        "similarWarning": "terrify（v.使恐惧）与terrific同源但保留原义；traffic（n.交通）拼写相似但词源无关；terrible（a.可怕的）与terrific本义相近，但terrific已演变为褒义，注意区分情感色彩。",
+        "extendedMeaning": "在考研阅读中，terrific常作为程度副词使用，表示“非常、极其”，如 'terrific speed'（极快的速度），而非仅停留在“极好”的褒义评价。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "terrify",
+      "word": "terrify",
+      "phonetic": "/'terifai/",
+      "meaning": "v.使害怕,使惊恐",
+      "similar": [
+        "terrific",
+        "verify",
+        "certify",
+        "testify",
+        "territory"
+      ],
+      "question": {
+        "wordId": "terrify",
+        "stem": "选择 \"terrify\" 的正确中文意思：",
+        "correct": "v.使害怕,使惊恐",
+        "options": [
+          "v.使害怕,使惊恐",
+          "a.极好的,非常的,极度的",
+          "vt.证实,查证;证明",
+          "vt.证明，证实；发证书(或执照)给"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“terrere”（使害怕）。词根terr-意为“害怕，恐惧”，-ify为动词后缀，表示“使……”。核心物理动作是“使某人处于恐惧状态”。",
+        "similarWarning": "terrific（极好的）vs terrify：terrific由terr-（害怕）演变，但词义转向“令人害怕的”再引申为“极好的”，注意拼写差异：-ific（形容词后缀）vs -ify（动词后缀）。",
+        "extendedMeaning": "在考研中较少出现僻义，通常保持“使害怕”的本义，但可用于抽象场景，如“terrify sb. into doing sth.”（恐吓某人做某事）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "territory",
+      "word": "territory",
+      "phonetic": "/'teritəri/",
+      "meaning": "n.领土;版图;领域,范围",
+      "similar": [
+        "terrify",
+        "traitor"
+      ],
+      "question": {
+        "wordId": "territory",
+        "stem": "选择 \"territory\" 的正确中文意思：",
+        "correct": "n.领土;版图;领域,范围",
+        "options": [
+          "n.领土;版图;领域,范围",
+          "v.使害怕,使惊恐",
+          "n.叛徒,卖国贼",
+          "n.直径"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根'terr'（土地） + 后缀'-itory'（场所、地点） → 土地所在的场所 → 领土、领域。核心物理动作：一块被划定边界、由某方控制的土地范围。",
+        "similarWarning": "terrify（v. 恐吓）：词根'terr'（惊吓），与territory的'terr'（土地）同形异义，注意后缀差异。traitor（n. 叛徒）：词根'trad'（传递） + '-or'（人），意为'把秘密传递给敌人的人'，与territory拼写差异在'tra' vs 'terri'。",
+        "extendedMeaning": "在考研外刊中常引申为'领域、范围'（如知识、活动、研究领域），例如：the territory of psychology（心理学领域）。",
+        "examUsage": "常考搭配：occupy/claim territory（占领/声称领土）；outside one's territory（超出某人的领域/职责范围）。真题例句：The new research explores uncharted territory in neuroscience.（这项新研究探索了神经科学中未涉足的领域。）"
+      }
+    },
+    {
+      "id": "terror",
+      "word": "terror",
+      "phonetic": "/'terə/",
+      "meaning": "n.恐怖;可怕的人(事)",
+      "similar": [
+        "error",
+        "horror",
+        "mirror",
+        "exterior",
+        "interior"
+      ],
+      "question": {
+        "wordId": "terror",
+        "stem": "选择 \"terror\" 的正确中文意思：",
+        "correct": "n.恐怖;可怕的人(事)",
+        "options": [
+          "n.恐怖;可怕的人(事)",
+          "n.错误,过失",
+          "n.恐怖,战栗",
+          "n.镜子;反映,反射 v.反映,反射"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'terror'（恐惧），源自 'terrere'（使颤抖），核心物理动作为‘通过威胁引发身体战栗’。词根terr-表‘使惊恐’，-or为名词后缀表‘行为/状态’。英语直接借入，强调强烈的恐惧感或令人恐惧的事物。",
+        "similarWarning": "error（错误）: 词根err-（漫游），字母t替换为r，核心为‘偏离正确路径’；terror与horror（恐怖）: terror侧重外部威胁引起的生理恐惧，horror更强调心理上的厌恶震惊，字母h替换t。",
+        "extendedMeaning": "考研中常引申为‘恐怖主义/恐怖活动’（如counter-terrorism反恐），或‘极讨厌的人/事’（如He is a terror to his students.）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "testify",
+      "word": "testify",
+      "phonetic": "/'testifai/",
+      "meaning": "v.作证，证明；(to)表明，说明",
+      "similar": [
+        "certify",
+        "destiny",
+        "justify",
+        "rectify",
+        "terrify",
+        "testimony",
+        "identify"
+      ],
+      "question": {
+        "wordId": "testify",
+        "stem": "选择 \"testify\" 的正确中文意思：",
+        "correct": "v.作证，证明；(to)表明，说明",
+        "options": [
+          "v.证明...正当(或有理、正确)，为...辩护",
+          "n.命运;天数,天命",
+          "vt.证明，证实；发证书(或执照)给",
+          "v.作证，证明；(to)表明，说明"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根test-（见证）+ -ify（使动）。核心动作：使成为见证，即通过口头或书面形式提供证据，引申为“作证、证明”或“表明、说明”。",
+        "similarWarning": "与testify易混词：\n- certify（v.认证，保证）：词根cert-（确定），强调官方确认。\n- justify（v.证明…正当）：词根just-（正义），强调辩护。\n- rectify（v.纠正）：词根rect-（直），强调改正。\n- terrify（v.恐吓）：词根terr-（害怕），强调恐惧。\n- identify（v.识别，确认）：词根ident-（相同），强调辨认身份。\n- destiny（n.命运）：词根destin-（确定），与证词无关。\n- testimony（n.证词）：与testify同根，是名词形式。",
+        "extendedMeaning": "考研僻义：\n1. (to)表明，说明：用于抽象事物，如“His actions testify to his honesty.”（他的行为表明了他的诚实。）\n2. 作为证据：在非法律语境中，指事物本身证明某事实，如“The empty wallet testified to the theft.”（空钱包证明了盗窃发生。）",
+        "examUsage": "真题考点：\n- 固定搭配：testify to sth.（证明/表明某事），后接名词或动名词。\n- 干扰项：常与certify（认证）、justify（辩护）混淆。\n- 例句：The experiment testified to the validity of the theory.（该实验证明了该理论的有效性。）"
+      }
+    },
+    {
+      "id": "testimony",
+      "word": "testimony",
+      "phonetic": "/'testiməni/",
+      "meaning": "n.证据,证词;表明,说明",
+      "similar": [
+        "destiny",
+        "testify"
+      ],
+      "question": {
+        "wordId": "testimony",
+        "stem": "选择 \"testimony\" 的正确中文意思：",
+        "correct": "n.证据,证词;表明,说明",
+        "options": [
+          "num./n./a.一千；[pl.]许许多多，成千上万",
+          "v.作证，证明；(to)表明，说明",
+          "n.命运;天数,天命",
+          "n.证据,证词;表明,说明"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "testimony = test（见证/证明）+ imony（名词后缀，表状态/结果）。核心动作：通过口头或书面形式提供见证。词源上，test-源自拉丁语testis（证人），原指“作为第三方见证者给出证词”。",
+        "similarWarning": "destiny（命运，源自de- + stin-，与“站立”相关）与testimony在拼写上仅差“tes-”与“des-”，但词根完全不同；testify（作证，动词）是testimony的动词形式，注意词性区别。",
+        "extendedMeaning": "在考研阅读中，testimony常引申为“（非法律语境下的）明确证据或证明”，如“Her success is a testimony to her hard work.”（她的成功是她努力的明证。）",
+        "examUsage": "真题中高频搭配：bear testimony to（为……作证/证明），如“The ruins bear testimony to the ancient civilization.”（废墟证明了古代文明的存在。）"
+      }
+    },
+    {
+      "id": "text",
+      "word": "text",
+      "phonetic": "/tekst/",
+      "meaning": "n.正文，文本；原文；教科书",
+      "similar": [
+        "tent",
+        "tempt",
+        "theft",
+        "treat"
+      ],
+      "question": {
+        "wordId": "text",
+        "stem": "选择 \"text\" 的正确中文意思：",
+        "correct": "n.正文，文本；原文；教科书",
+        "options": [
+          "n.正文，文本；原文；教科书",
+          "n.帐篷",
+          "v.诱惑,引诱;吸引,使感兴趣",
+          "n.偷窃(行为)，偷窃罪"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'textus'（编织品），由词根 'tex-'（编织）构成。核心物理动作是‘编织’，引申为‘编织在一起的文字’，即文本、正文。",
+        "similarWarning": "text vs. next: 'text' 以 't' 开头，意为文本；'next' 以 'n' 开头，意为下一个。text vs. test: 'text' 含 'x'，意为文本；'test' 含 's'，意为测试。",
+        "extendedMeaning": "在考研中常考‘原文’（original text）或‘教科书’（textbook）的缩写用法，如‘text’可指‘短信’（text message），但此义较少在真题中出现。",
+        "examUsage": "常用搭配：text analysis（文本分析）、original text（原文）。真题中常作为干扰词出现，区分‘text’与‘context’（上下文）。"
+      }
+    },
+    {
+      "id": "textbook",
+      "word": "textbook",
+      "phonetic": "/'tekstbuk/",
+      "meaning": "n.课本,教科书",
+      "similar": [],
+      "question": {
+        "wordId": "textbook",
+        "stem": "选择 \"textbook\" 的正确中文意思：",
+        "correct": "n.课本,教科书",
+        "options": [
+          "n.课本,教科书",
+          "a.漂亮的,英俊的;慷慨的,数量可观的",
+          "v.(使)旋转;考虑;【天】公转,循环",
+          "n.热心，热忱，热情"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由text（文本）和book（书）组合而成，字面意思为“包含文本的书”，即教科书。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "textile",
+      "word": "textile",
+      "phonetic": "/'tekstail/",
+      "meaning": "n.纺织品 a.纺织的",
+      "similar": [
+        "exile",
+        "fertile",
+        "reptile",
+        "texture"
+      ],
+      "question": {
+        "wordId": "textile",
+        "stem": "选择 \"textile\" 的正确中文意思：",
+        "correct": "n.纺织品 a.纺织的",
+        "options": [
+          "n.纺织品 a.纺织的",
+          "n.爬行动物",
+          "n.流放；被流放者 vt.流放，放逐，把…充军",
+          "a.肥沃的,富饶的;能繁殖的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语“texere”（编织），词根“text-”意为编织、构造。后缀“-ile”表“与…相关的”或“可…的”。核心物理动作是“编织”，引申为通过交织纤维制成的物品。",
+        "similarWarning": "exile (ex-向外 + ile 行走→流放); fertile (fer-带来 + ile→能带来果实的→肥沃的); reptile (rept-爬行 + ile→爬行动物); texture (text-编织 + -ure 名词后缀→织物的质地); terrible (terr-惊吓 + ible→可怕的)。辨析：textile强调“编织物”；texture强调“质地、纹理”。",
+        "extendedMeaning": "在考研外刊中可引申为“（思想、文化等的）交织、融合”，如“the textile of society”（社会的交织结构）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "texture",
+      "word": "texture",
+      "phonetic": "/'tekstʃə/",
+      "meaning": "n.(织物)质地；(材料)构造；结构；肌理",
+      "similar": [
+        "feature",
+        "fixture",
+        "gesture",
+        "lecture",
+        "mixture",
+        "textile",
+        "torture",
+        "venture"
+      ],
+      "question": {
+        "wordId": "texture",
+        "stem": "选择 \"texture\" 的正确中文意思：",
+        "correct": "n.(织物)质地；(材料)构造；结构；肌理",
+        "options": [
+          "n.(织物)质地；(材料)构造；结构；肌理",
+          "n.特征;容貌;特色;特写 v.以...为特色",
+          "n.姿势,姿态,手势 v.做手势",
+          "n.固定设备;预定日期;比赛时间;定期存款"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'textura'（编织），由 'texere'（编织）加名词后缀 '-ure' 构成。核心动作是‘编织’，引申为编织后的‘纹理、质地’，再抽象为事物内在的‘结构、构造’。",
+        "similarWarning": "texture vs textile: texture 指质地/结构（-ure 表结果），textile 指纺织品（-ile 表相关物）；texture vs fixture: texture 强调编织纹理，fixture 指固定装置（fix- 固定）。",
+        "extendedMeaning": "在考研阅读中常引申为‘（社会、文化、艺术等的）特征、基调’，如 'the texture of social life'（社会生活的特征）。",
+        "examUsage": "考点搭配：'the texture of the material'（材料结构）；真题例句：'The texture of the story is rich with cultural details.'（故事结构充满文化细节。）"
+      }
+    },
+    {
+      "id": "than",
+      "word": "than",
+      "phonetic": "/ðæn/",
+      "meaning": "conj.(用于形容词，副词的比较级之后)比",
+      "similar": [
+        "thank",
+        "tan",
+        "chain",
+        "thorn"
+      ],
+      "question": {
+        "wordId": "than",
+        "stem": "选择 \"than\" 的正确中文意思：",
+        "correct": "conj.(用于形容词，副词的比较级之后)比",
+        "options": [
+          "vt.感谢int.[-s]谢谢n.[pl.]感谢(意)",
+          "n.链(条);(pl.)镣铐;一连串 v.用链条拴住",
+          "conj.(用于形容词，副词的比较级之后)比",
+          "n./a.(皮肤因日晒而成)棕褐色(的) vt.晒黑"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "than源自古英语þanne，源自原始日耳曼语，与then同源，基本义为“在那时”，后语法化为比较级标记，核心动作是“在比较中指向后者”",
+        "similarWarning": "then（然后/那时）与than拼写仅差a/e，then表时间顺序，than表比较关系；that（那个）与than差t/a，that为指示代词，than为连词；thin（薄的）与than差i/a，thin为形容词",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "thank",
+      "word": "thank",
+      "phonetic": "/θæŋk/",
+      "meaning": "vt.感谢int.[-s]谢谢n.[pl.]感谢(意)",
+      "similar": [
+        "tank",
+        "than",
+        "tan",
+        "hang",
+        "hawk",
+        "rank",
+        "talk",
+        "task"
+      ],
+      "question": {
+        "wordId": "thank",
+        "stem": "选择 \"thank\" 的正确中文意思：",
+        "correct": "vt.感谢int.[-s]谢谢n.[pl.]感谢(意)",
+        "options": [
+          "n./a.(皮肤因日晒而成)棕褐色(的) vt.晒黑",
+          "conj.(用于形容词，副词的比较级之后)比",
+          "n.罐,槽,箱；坦克 vt.储于槽中",
+          "vt.感谢int.[-s]谢谢n.[pl.]感谢(意)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "古英语‘þancian’源自原始日耳曼语‘*thankōjanan’，核心动作是‘思考、觉得好’，引申为‘表达感激’。词根‘thank-’与‘think’同源，强调认知上的‘认可’。",
+        "similarWarning": "tank（坦克/容器）、than（比）、think（思考）、tan（晒黑/鞣酸）、bank（银行/岸）、hand（手）、hang（悬挂）、hawk（鹰/叫卖）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "thanksgiving",
+      "word": "Thanksgiving",
+      "phonetic": "/'θæŋksˌgiviŋ/",
+      "meaning": "n.感恩节",
+      "similar": [],
+      "question": {
+        "wordId": "thanksgiving",
+        "stem": "选择 \"Thanksgiving\" 的正确中文意思：",
+        "correct": "n.感恩节",
+        "options": [
+          "n.客舱,机舱;小(木)屋",
+          "n.利益",
+          "n.植物,草木",
+          "n.感恩节"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由thanks（感谢）和giving（给予）复合而成，字面意为“感谢给予”，指感谢上帝恩赐的节日。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "theater",
+      "word": "theater",
+      "phonetic": "/'θiətə/",
+      "meaning": "n.(theatre)戏院;戏剧;阶梯教室",
+      "similar": [
+        "threaten",
+        "shelter",
+        "sweater",
+        "teenager"
+      ],
+      "question": {
+        "wordId": "theater",
+        "stem": "选择 \"theater\" 的正确中文意思：",
+        "correct": "n.(theatre)戏院;戏剧;阶梯教室",
+        "options": [
+          "n.毛衣,绒衣,厚运动衫",
+          "n.掩蔽处;掩蔽,保护 v.掩蔽,躲避,庇护",
+          "v.恐吓,威胁;有…危险,快要来临",
+          "n.(theatre)戏院;戏剧;阶梯教室"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语theatron（观看的地方），由thea（看）和-tron（地点后缀）构成；核心动作为“观看”，指观众观看表演的场所，后引申为戏剧艺术及相关场所。",
+        "similarWarning": "threaten（威胁）：与theater仅差字母r和e，但threaten指威胁行为；shelter（庇护所）：与theater共享字母t、h、e，但shelter强调保护性场所；sweater（毛衣）：与theater拼写差异小，但词义无关。",
+        "extendedMeaning": "在考研英语中，theater可喻指“发生重大事件的场所或领域”，如“the theater of war”（战场），或“the political theater”（政治舞台），强调表演性、戏剧性。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "theft",
+      "word": "theft",
+      "phonetic": "/θeft/",
+      "meaning": "n.偷窃(行为)，偷窃罪",
+      "similar": [
+        "threat",
+        "thrift",
+        "chef",
+        "tent",
+        "text",
+        "cheat",
+        "chest",
+        "shaft"
+      ],
+      "question": {
+        "wordId": "theft",
+        "stem": "选择 \"theft\" 的正确中文意思：",
+        "correct": "n.偷窃(行为)，偷窃罪",
+        "options": [
+          "n.偷窃(行为)，偷窃罪",
+          "n.(餐馆等的)厨师长，厨师",
+          "a.节约，节俭",
+          "n.恐吓,威胁;坏兆头,危险迹象"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语 þeofth，由 thief（小偷）派生而来，-th 是名词后缀，表示行为或状态。核心动作是“偷窃”，指未经许可拿走他人财物的行为或罪行。",
+        "similarWarning": "threat（威胁） vs theft（偷窃）：threat 以 t 结尾，侧重言语或行为上的恐吓；theft 以 t 结尾，但词根与 thief 相关，指偷窃行为。\nthrift（节俭） vs theft：thrift 含 r，指节省钱财；theft 无 r，指非法拿走。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "theirs",
+      "word": "theirs",
+      "phonetic": "/ðεəz/",
+      "meaning": "pron.[they的物主代词]他(她、它)们的",
+      "similar": [
+        "heir",
+        "hers",
+        "third",
+        "theory",
+        "thesis",
+        "thirst"
+      ],
+      "question": {
+        "wordId": "theirs",
+        "stem": "选择 \"theirs\" 的正确中文意思：",
+        "correct": "pron.[they的物主代词]他(她、它)们的",
+        "options": [
+          "n.继承人",
+          "num.第三(个)，三分之一(的)",
+          "pron.[they的物主代词]他(她、它)们的",
+          "pron.[she的物主代词]她的(所有物)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "theirs 是 they 的物主代词独立形式，由 their 加 -s 构成，表示“他们的（所有物）”，词源直接对应古英语 þāra，无复杂词根演变。",
+        "similarWarning": "their（他们的，形容词性物主代词，后接名词） vs. theirs（名词性物主代词，独立使用，如 This is theirs） vs. heir（继承人，拼写差字母 s）",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "theme",
+      "word": "theme",
+      "phonetic": "/θi:m/",
+      "meaning": "n.题目，主题；主旋律，基调",
+      "similar": [
+        "scheme",
+        "tame",
+        "shame",
+        "theft",
+        "three",
+        "thumb"
+      ],
+      "question": {
+        "wordId": "theme",
+        "stem": "选择 \"theme\" 的正确中文意思：",
+        "correct": "n.题目，主题；主旋律，基调",
+        "options": [
+          "n.题目，主题；主旋律，基调",
+          "n.羞耻,耻辱;可耻的人(或事物) v.使羞愧",
+          "n.计划,方案;阴谋;配置 v.计划,策划;阴谋",
+          "a.驯服的,温顺的;沉闷的,乏味的 vt.驯服"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自希腊语thema（放置的东西），源自tithenai（放置）。核心动作是“被放置下来的东西”，即作为讨论或作品基础的核心议题。",
+        "similarWarning": "theme vs. scheme: theme强调“主题/题目”，scheme强调“计划/阴谋”，拼写差异在th-与sch-。",
+        "extendedMeaning": "在考研阅读中可引申为“主旋律、基调”，如音乐或文学作品中反复出现的核心思想或情绪。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "themselves",
+      "word": "themselves",
+      "phonetic": "/ðəm'selvz/",
+      "meaning": "pron.他(她、它)们自己；他(她、它)们亲自",
+      "similar": [
+        "ourselves"
+      ],
+      "question": {
+        "wordId": "themselves",
+        "stem": "选择 \"themselves\" 的正确中文意思：",
+        "correct": "pron.他(她、它)们自己；他(她、它)们亲自",
+        "options": [
+          "pron.[反身代词]我们自己；我们亲自",
+          "pron.他(她、它)们自己；他(她、它)们亲自",
+          "v.拖,拖曳",
+          "n.中心，中央，中间 vt.集中 vi.以..为中心"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "them（他们）+ selves（自己，self的复数），直指动作主体与对象为同一组人/物，强调反身或强调功能。",
+        "similarWarning": "ourselves / yourselves：仅替换所有格代词（our/your），语义结构完全平行，无本质差异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "theoretical",
+      "word": "theoretical",
+      "phonetic": "/ˌθiə'retikəl/",
+      "meaning": "a.理论(上)的",
+      "similar": [],
+      "question": {
+        "wordId": "theoretical",
+        "stem": "选择 \"theoretical\" 的正确中文意思：",
+        "correct": "a.理论(上)的",
+        "options": [
+          "n.(automobile)(口语)汽车",
+          "a.理论(上)的",
+          "n.药品;治疗措施 v.治疗,医治;纠正,补救",
+          "n.瓦,瓦特"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语theoria（观看、沉思），词根thea-（看）→理论源于对现象的观察与思考。后缀-ical（形容词，…的），字面义为“基于观察思考的”，即理论的。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“假设性的、纯概念的”，强调与现实或实际应用相对，如“theoretical model”（理论模型）、“theoretical framework”（理论框架）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "theory",
+      "word": "theory",
+      "phonetic": "/'θiəri/",
+      "meaning": "n.理论,原理;学说,见解,看法",
+      "similar": [
+        "thorn",
+        "cherry",
+        "theirs"
+      ],
+      "question": {
+        "wordId": "theory",
+        "stem": "选择 \"theory\" 的正确中文意思：",
+        "correct": "n.理论,原理;学说,见解,看法",
+        "options": [
+          "pron.[they的物主代词]他(她、它)们的",
+          "n.理论,原理;学说,见解,看法",
+          "n.刺,荆棘",
+          "n.樱桃(树)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语theoria，意为‘观看、沉思’，由thea（看）衍生。核心动作是‘观察并形成系统性解释’，引申为理论、学说。",
+        "similarWarning": "theory vs. they：拼写差异‘-ory’ vs. ‘-ey’，词性不同（名词 vs. 代词）。theory vs. thorn：‘-ory’ vs. ‘-orn’，含义无关（理论 vs. 刺）。",
+        "extendedMeaning": "在学术语境中可指‘假说、原理体系’，如‘the theory of evolution’；在非正式用法中表‘个人看法’，如‘my theory is that...’。",
+        "examUsage": "考研常考搭配‘in theory’（理论上），与‘in practice’（实际上）对比形成干扰项。例句：‘In theory, the plan is feasible, but in practice it may fail.’"
+      }
+    },
+    {
+      "id": "therapy",
+      "word": "therapy",
+      "phonetic": "/'θerəpi/",
+      "meaning": "n.治疗，(不需要药物或手术的)物理疗法",
+      "similar": [
+        "thereby"
+      ],
+      "question": {
+        "wordId": "therapy",
+        "stem": "选择 \"therapy\" 的正确中文意思：",
+        "correct": "n.治疗，(不需要药物或手术的)物理疗法",
+        "options": [
+          "n.电池(组)；(器具等的)一组，一套；炮兵连",
+          "n.治疗，(不需要药物或手术的)物理疗法",
+          "ad.因此,从而",
+          "n.长途公共汽车；教练 vt.训练，指导，培训"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源于希腊语therapeia（照料、治疗），词根therap-意为‘侍奉、照料’，引申为‘治疗’。核心物理动作为‘通过照料或干预恢复健康’，强调非药物/非手术的物理或心理疗法。",
+        "similarWarning": "thereby（/ˌðeərˈbaɪ/，adv.因此，从而）：与therapy仅差字母‘b’，但语义完全不同。therapy为名词指治疗方法，thereby为副词表逻辑结果，拼写差异为‘-apy’ vs ‘-eby’。",
+        "extendedMeaning": "考研中常引申为‘心理疗法’（psychotherapy）或‘康复疗法’（rehabilitation therapy），多见于医疗类阅读。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "thereafter",
+      "word": "thereafter",
+      "phonetic": "/ˌðεər'ɑ:ftə/",
+      "meaning": "ad.此后,以后",
+      "similar": [
+        "threaten",
+        "thermometer",
+        "wherever",
+        "character"
+      ],
+      "question": {
+        "wordId": "thereafter",
+        "stem": "选择 \"thereafter\" 的正确中文意思：",
+        "correct": "ad.此后,以后",
+        "options": [
+          "n.温度计",
+          "v.恐吓,威胁;有…危险,快要来临",
+          "conj.无论在哪里 ad.无论在哪里,究竟在哪里",
+          "ad.此后,以后"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由 there（那里）+ after（之后）合成，字面义为“在那之后”，强调时间上的先后顺序，核心动作是表示一个事件发生后的后续时间点。",
+        "similarWarning": "形近词对比：\n- therefore（因此）：后缀为 -fore（前面），表因果逻辑；thereafter 表时间顺序。\n- wherever（无论何处）：where + ever，强调地点；thereafter 强调时间。\n- threaten（威胁）：词根 threat（威胁）+ en（使），与时间无关。",
+        "extendedMeaning": "在考研阅读中，thereafter 常出现在法律、历史类文本中，表示“此后（指某一时间点之后的一段时间）”，而非单纯“以后”。例如：The policy was implemented in 1990 and revised shortly thereafter.（该政策于1990年实施，此后不久进行了修订。）",
+        "examUsage": "常与表示时间点的词连用，如 soon thereafter（此后不久）、shortly thereafter（随后不久），在真题中作为时间逻辑连接词出现，需注意与 therefore（因此）的区分，避免因果与时间混淆。"
+      }
+    },
+    {
+      "id": "thereby",
+      "word": "thereby",
+      "phonetic": "/ˌðεə'bai/",
+      "meaning": "ad.因此,从而",
+      "similar": [
+        "therapy"
+      ],
+      "question": {
+        "wordId": "thereby",
+        "stem": "选择 \"thereby\" 的正确中文意思：",
+        "correct": "ad.因此,从而",
+        "options": [
+          "n.治疗，(不需要药物或手术的)物理疗法",
+          "ad.因此,从而",
+          "a.大胆的,勇敢的;冒失的;黑体的,粗体的",
+          "n.保险,保险费,保险业"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "由there（那里）+ by（在旁）构成，字面意为“经由那里”，引申为“因此、从而”，强调通过前述方式导致的结果。",
+        "similarWarning": "thereby vs. there：thereby侧重因果关系（因此），there仅表地点（那里）。thereby vs. therapy：拼写差异在by与apy，词义无关（治疗）。",
+        "extendedMeaning": "在考研阅读中常隐含“通过这一手段/步骤”的逻辑衔接，非简单因果，而是强调方式与结果的紧密关联。",
+        "examUsage": "常见搭配：thereby + doing（从而做某事），真题中常作为逻辑连接词，引导结果状语，干扰项常替换为therefore（更直接因果）或thus（更正式）。"
+      }
+    }
+  ]
+}

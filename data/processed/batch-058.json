@@ -1,0 +1,1699 @@
+{
+  "batchId": 58,
+  "words": [
+    {
+      "id": "pet",
+      "word": "pet",
+      "phonetic": "/pet/",
+      "meaning": "n.爱畜,宠儿 a.宠爱的,表示亲昵的",
+      "similar": [
+        "pest",
+        "poet",
+        "bet",
+        "jet",
+        "net",
+        "pat",
+        "pea",
+        "per"
+      ],
+      "question": {
+        "wordId": "pet",
+        "stem": "选择 \"pet\" 的正确中文意思：",
+        "correct": "n.爱畜,宠儿 a.宠爱的,表示亲昵的",
+        "options": [
+          "n.爱畜,宠儿 a.宠爱的,表示亲昵的",
+          "n.诗人",
+          "v.赌,打赌 n.打赌,赌注",
+          "n.害虫"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源自拟声或古法语。核心动作/画面：轻抚、爱抚，引申为被宠爱的动物或人。",
+        "similarWarning": "pest（害虫）：pest vs pet，s与e字母差异，害虫vs宠物；pet vs pat（轻拍）：e与a元音差异，宠物vs轻拍动作。",
+        "extendedMeaning": "n. 宠儿，受偏爱者（尤指人）：The teacher's pet is always the one who gets the best grades. 老师宠爱的学生总是成绩最好的那个。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "petition",
+      "word": "petition",
+      "phonetic": "/pi'tiʃən/",
+      "meaning": "n.请愿书,申请书 v.(向…)请愿,正式请求",
+      "similar": [
+        "repetition",
+        "edition",
+        "expedition",
+        "intuition",
+        "nutrition",
+        "precision",
+        "retention",
+        "emotion"
+      ],
+      "question": {
+        "wordId": "petition",
+        "stem": "选择 \"petition\" 的正确中文意思：",
+        "correct": "n.请愿书,申请书 v.(向…)请愿,正式请求",
+        "options": [
+          "n.版,版本,版次",
+          "n.重复,反复",
+          "n.远征(队),探险(队)",
+          "n.请愿书,申请书 v.(向…)请愿,正式请求"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为pet-（寻求、追求），源于拉丁语petere（寻求、请求）。-ition为名词后缀，表行为或结果。核心动作是“寻求或追求某物”，进而引申为“正式提出请求”，即请愿或申请。",
+        "similarWarning": "repetition（重复，re-再+pet-追求→再追求→重复）；edition（版本，e-出+dit-给→给出→版本）；position（位置，pos-放置+ition→放置的状态→位置）；expedition（远征，ex-向外+ped-脚→向外走→远征）；intuition（直觉，in-内+tuit-看→内在看→直觉）；nutrition（营养，nutri-滋养+tion→滋养行为→营养）；operation（操作，oper-工作+ation→工作过程→操作）；precision（精确，pre-前+cis-切→切在前面→精确）。核心差异：petition强调“请求”动作，而其他词根不同（如pet- vs. dit-/pos-/ped-/tuit-/nutri-/oper-/cis-）。",
+        "extendedMeaning": "在考研中，petition还可指“诉状”（法律语境）或“申请行为”（抽象概念），如file a petition（提交请愿书）。",
+        "examUsage": "常见搭配：petition for（为…请愿），如petition for divorce（申请离婚）；petition against（反对…的请愿）。真题中可能作为阅读题眼，考察“正式请求”与“请愿书”的语境转换。"
+      }
+    },
+    {
+      "id": "petrol",
+      "word": "petrol",
+      "phonetic": "/'petrəl/",
+      "meaning": "n.汽油",
+      "similar": [
+        "patrol",
+        "pearl",
+        "patron"
+      ],
+      "question": {
+        "wordId": "petrol",
+        "stem": "选择 \"petrol\" 的正确中文意思：",
+        "correct": "n.汽油",
+        "options": [
+          "n.珍珠",
+          "n.汽油",
+          "n.赞助人；资助人；老顾客，老主顾",
+          "v.巡逻，巡查 n.巡逻，巡查；巡逻队"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语petroleum，由petr-（岩石）+ oleum（油）组成，字面意为“岩石中的油”，指天然石油中提炼出的汽油。",
+        "similarWarning": "patrol（巡逻）：字母a替换e，词根来自拉丁语ped-（脚），指步行巡逻。pearl（珍珠）：字母l替换t，词根无直接关联，指贝壳中的宝石。patron（赞助人）：字母on替换ol，词根来自拉丁语pater（父亲），指保护者或顾客。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "petroleum",
+      "word": "petroleum",
+      "phonetic": "/pi'trəuliəm/",
+      "meaning": "n.石油",
+      "similar": [],
+      "question": {
+        "wordId": "petroleum",
+        "stem": "选择 \"petroleum\" 的正确中文意思：",
+        "correct": "n.石油",
+        "options": [
+          "a.(有)苦(味)的;痛苦的,厉害的",
+          "n.飓风",
+          "vt.使适应，使适合；改编；改写 vi.适应",
+          "n.石油"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语petra（岩石）+ oleum（油），字面意思为“岩石中的油”。核心物理动作：从岩石中提取的液态油，区别于动物或植物油脂。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中常引申为“原油、石油资源”，强调其作为工业原料和能源的不可再生性。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "petty",
+      "word": "petty",
+      "phonetic": "/'peti/",
+      "meaning": "a.小(器、规模)的,不重要的,细微的,卑鄙的",
+      "similar": [
+        "plenty",
+        "poetry",
+        "pet",
+        "pest",
+        "pity",
+        "penny"
+      ],
+      "question": {
+        "wordId": "petty",
+        "stem": "选择 \"petty\" 的正确中文意思：",
+        "correct": "a.小(器、规模)的,不重要的,细微的,卑鄙的",
+        "options": [
+          "n.丰富,大量",
+          "n.爱畜,宠儿 a.宠爱的,表示亲昵的",
+          "a.小(器、规模)的,不重要的,细微的,卑鄙的",
+          "n.诗歌,诗集"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根源自法语 'petit'（小的），与英语 'petite'（娇小的）同源。核心物理动作为“小”，引申为规模小、气量小、地位低、行为卑劣等。",
+        "similarWarning": "petty vs pretty: petty 无 'r'，强调“小气/琐碎”；pretty 有 'r'，侧重“漂亮/相当”。petty vs pity: petty 是形容词“卑鄙的”；pity 是名词/动词“怜悯”。",
+        "extendedMeaning": "熟词僻义：在考研中常考“气量小的、心胸狭窄的”（如 petty jealousy 小心眼/嫉妒），或“次要的、琐碎的”（如 petty details 细枝末节）。",
+        "examUsage": "真题考点：常与 'trivial'（琐碎的）、'minor'（次要的）同义替换，负面色彩强。固定搭配：petty crime（轻罪/轻微犯罪），petty official（小官/低级官员）。"
+      }
+    },
+    {
+      "id": "pharmacy",
+      "word": "pharmacy",
+      "phonetic": "/'fɑ:məsi/",
+      "meaning": "n.药房,药剂学,制药业,配药业,一批备用药品",
+      "similar": [
+        "harmony"
+      ],
+      "question": {
+        "wordId": "pharmacy",
+        "stem": "选择 \"pharmacy\" 的正确中文意思：",
+        "correct": "n.药房,药剂学,制药业,配药业,一批备用药品",
+        "options": [
+          "n.牺牲品,受害者",
+          "n.协调,和谐;融洽",
+          "n.药房,药剂学,制药业,配药业,一批备用药品",
+          "n.宣言,宣布,声明"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自希腊语pharmakon（药、毒药、魔法）。-acy名词后缀。核心动作：与药相关的制备、储存与销售场所或学科。",
+        "similarWarning": "harmony（和谐）：pharmacy含'phar'，harmony含'har'，拼写前三个字母不同，词义无关。",
+        "extendedMeaning": "（考研中pharmacy常直接指药房或药剂学，无特殊僻义）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "phase",
+      "word": "phase",
+      "phonetic": "/feɪz/",
+      "meaning": "n.阶段,状态,时期;相,相位",
+      "similar": [
+        "phrase",
+        "chase",
+        "please",
+        "praise",
+        "base",
+        "ease",
+        "hate",
+        "hose"
+      ],
+      "question": {
+        "wordId": "phase",
+        "stem": "选择 \"phase\" 的正确中文意思：",
+        "correct": "n.阶段,状态,时期;相,相位",
+        "options": [
+          "n.阶段,状态,时期;相,相位",
+          "v.请;使愉快,使满意;喜欢,愿意",
+          "n.短语,词语,习语",
+          "v./n.追逐,追求"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'phasis'（出现，显现），本义是'星象的显现或变化'。核心物理动作是'某物在时间或空间序列中显现出的特定形态'。词根'pha-'（显现）与'phenomenon'（现象）同源。引申为事物发展过程中呈现出的不同'阶段'或'状态'，以及物理中的'相位'（波在周期中显现的位置）。",
+        "similarWarning": "phrase（短语，词组）：与phase仅差一个'r'，但含义完全不同。phase指阶段/状态，phrase指语言中的短语。",
+        "extendedMeaning": "在考研阅读中，phase常引申为'（计划、项目等的）特定步骤或环节'，如'the first phase of the experiment'（实验的第一阶段）。此外，在科技类文章中可作动词，意为'分阶段进行'，如'phase in/out'（逐步引入/淘汰）。",
+        "examUsage": "真题高频搭配：'phase out'（逐步淘汰），常出现在环境、科技类阅读中，如'to phase out fossil fuels'（逐步淘汰化石燃料）。注意与'phase in'（逐步引入）形成对比考点。"
+      }
+    },
+    {
+      "id": "phenomenon",
+      "word": "phenomenon",
+      "phonetic": "/fi'nɔminən/",
+      "meaning": "n.现象,稀有现象,珍品,奇迹,杰出人才",
+      "similar": [],
+      "question": {
+        "wordId": "phenomenon",
+        "stem": "选择 \"phenomenon\" 的正确中文意思：",
+        "correct": "n.现象,稀有现象,珍品,奇迹,杰出人才",
+        "options": [
+          "num./a.十九 pron.十九(个，只...)",
+          "n.假说,假设,前提",
+          "n.现象,稀有现象,珍品,奇迹,杰出人才",
+          "n.标语,口号"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 phainomenon（显现的事物），由 phainein（显现）派生，核心动作是‘显现出来’。词根 phan-（显现）与 phenomenon 同源，强调‘能被看到、观察到的事物’，即现象。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研真题中常引申为‘杰出人才、奇才’（如 a phenomenon in physics），或指‘非凡的事物、奇迹’（如 a natural phenomenon）。",
+        "examUsage": "真题中常考搭配：natural phenomenon（自然现象），social phenomenon（社会现象）。注意其复数形式 phenomena，常作为语法考点。"
+      }
+    },
+    {
+      "id": "philosopher",
+      "word": "philosopher",
+      "phonetic": "/fi'lɔsəfə/",
+      "meaning": "n.哲学家,哲人",
+      "similar": [
+        "philosophy"
+      ],
+      "question": {
+        "wordId": "philosopher",
+        "stem": "选择 \"philosopher\" 的正确中文意思：",
+        "correct": "n.哲学家,哲人",
+        "options": [
+          "vt.灌溉，修水利 vi.进行灌溉",
+          "n.哲学家,哲人",
+          "n.哲学,哲理,人生观,价值观,世界观",
+          "v.表演；举动；起作用 n.行为，法令；一幕"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 philosophos：philo-（爱） + soph-（智慧） + -er（者）→ 爱智慧的人 → 哲学家。核心动作是“追求（爱）智慧”，强调对真理的探索而非拥有知识。",
+        "similarWarning": "philosophy（n.哲学）与 philosopher 仅差 -er/-y，philosophy 是学科/思想体系，philosopher 是从事该学科的人。",
+        "extendedMeaning": "在考研阅读中可引申为“思想深刻的人、理性思考者”，如“a philosopher of science”（科学思想家）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "philosophy",
+      "word": "philosophy",
+      "phonetic": "/fi'lɔsəfi/",
+      "meaning": "n.哲学,哲理,人生观,价值观,世界观",
+      "similar": [
+        "philosopher"
+      ],
+      "question": {
+        "wordId": "philosophy",
+        "stem": "选择 \"philosophy\" 的正确中文意思：",
+        "correct": "n.哲学,哲理,人生观,价值观,世界观",
+        "options": [
+          "n.哲学家,哲人",
+          "n.哲学,哲理,人生观,价值观,世界观",
+          "n.捆,包,束",
+          "a.自发的,自然产生的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根：philo-（爱）+ soph-（智慧）+ -y（名词后缀）。核心动作：爱智慧。古希腊哲学家毕达哥拉斯首次使用该词，指对智慧的热爱与追求，后引申为系统性的世界观和人生观。",
+        "similarWarning": "philosopher（哲学家）—— philosophy 去掉 -y 加 -er；无其他高频形近词。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "photo",
+      "word": "photo",
+      "phonetic": "/'fəutəu/",
+      "meaning": "n.(photograph)照片",
+      "similar": [
+        "pot",
+        "plot",
+        "shot"
+      ],
+      "question": {
+        "wordId": "photo",
+        "stem": "选择 \"photo\" 的正确中文意思：",
+        "correct": "n.(photograph)照片",
+        "options": [
+          "n.秘密计划;情节 v.标绘,绘制;密谋,策划",
+          "n.罐,壶",
+          "n.开枪,射击;投篮;弹丸,炮弹,子弹",
+          "n.(photograph)照片"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语“phos”（光）的属格“photos”，意为“光的”。照片的本质是“光”在感光材料上留下的印记，强调“光”是记录影像的核心物理动作。",
+        "similarWarning": "hot（热的，H与PH差异）、pot（锅，P与PH差异）、plot（情节，加L）、shot（射击，加S）、phone（电话，加N）。photo与phone仅一字之差（T vs N），但photo与“光”相关，phone与“声音”相关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "phrase",
+      "word": "phrase",
+      "phonetic": "/freiz/",
+      "meaning": "n.短语,词语,习语",
+      "similar": [
+        "phase",
+        "chase",
+        "erase",
+        "prose",
+        "purse",
+        "parade",
+        "pirate",
+        "please"
+      ],
+      "question": {
+        "wordId": "phrase",
+        "stem": "选择 \"phrase\" 的正确中文意思：",
+        "correct": "n.短语,词语,习语",
+        "options": [
+          "v.擦掉;删去;消磁",
+          "n.短语,词语,习语",
+          "n.阶段,状态,时期;相,相位",
+          "v./n.追逐,追求"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语phrasis（表达、措辞），由phrazein（说明、指出）演变而来，核心动作是‘说出、表达’。词根phras-表‘言说、宣告’，phrase即‘被说出的一个完整意思单元’→短语、习语。",
+        "similarWarning": "phase（阶段，n.）：p→ph，rase→ase，字母h缺失，意为‘变化中的步骤’；chase（追逐，v.）：ch替换ph，意为‘追赶’；erase（擦除，v.）：e+rase，前缀e-表‘出’，意为‘擦掉文字’；prose（散文，n.）：p+r+ose，字母h变r，意为‘非韵文的写作’；purse（钱包，n.）：p+urse，字母h变u，意为‘装钱的袋子’；parade（游行，n.）：par+ade，字母h变a，意为‘列队行进’；pirate（海盗，n.）：pir+ate，意为‘海上抢劫者’；please（请，v.）：plea+se，意为‘使高兴’。",
+        "extendedMeaning": "在考研阅读中常引申为‘措辞、表达方式’，如‘a well-turned phrase’（巧妙的措辞），或‘coin a phrase’（创造新说法）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "physician",
+      "word": "physician",
+      "phonetic": "/fi'ziʃən/",
+      "meaning": "n.内科医生",
+      "similar": [
+        "physicist",
+        "physics",
+        "musician",
+        "politician"
+      ],
+      "question": {
+        "wordId": "physician",
+        "stem": "选择 \"physician\" 的正确中文意思：",
+        "correct": "n.内科医生",
+        "options": [
+          "n.内科医生",
+          "n.物理学家",
+          "n.物理(学)",
+          "n.音乐家,乐师"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语physica（自然科学）+ -ian（从事…的人）。核心动作：通过自然科学（physica）手段治疗疾病的人，区别于外科医生的手术操作。",
+        "similarWarning": "physical（a.物理的；身体的）：physician vs physical 差异在 -ian（人）与 -al（形容词后缀）。physicist（n.物理学家）：physician 结尾 -ician（医学从业者），physicist 结尾 -ist（学科研究者）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "physicist",
+      "word": "physicist",
+      "phonetic": "/'fizisist/",
+      "meaning": "n.物理学家",
+      "similar": [
+        "physics",
+        "physician"
+      ],
+      "question": {
+        "wordId": "physicist",
+        "stem": "选择 \"physicist\" 的正确中文意思：",
+        "correct": "n.物理学家",
+        "options": [
+          "n.内科医生",
+          "n.物理学家",
+          "n.日光,白昼,黎明",
+          "n.物理(学)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根 'phys-' 源自希腊语 'physis'，意为“自然、本质”。后缀 '-ist' 表示“从事…的人”。组合起来，physicist 即“研究自然本质的人”，专指物理学家。核心动作：探究自然规律。",
+        "similarWarning": "physics (n. 物理学) vs. physician (n. 内科医生) vs. physical (adj. 物理的；身体的)。差异：physicist 以 -ist 结尾，强调“人”；physics 以 -ics 结尾，指“学科”；physician 以 -ician 结尾，指“医疗从业者”；physical 以 -ical 结尾，为形容词。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "physics",
+      "word": "physics",
+      "phonetic": "/'fiziks/",
+      "meaning": "n.物理(学)",
+      "similar": [
+        "physicist",
+        "physician"
+      ],
+      "question": {
+        "wordId": "physics",
+        "stem": "选择 \"physics\" 的正确中文意思：",
+        "correct": "n.物理(学)",
+        "options": [
+          "n.物理(学)",
+          "n.物理学家",
+          "n.幻想，错误的观念；错觉，幻觉，假象",
+          "n.内科医生"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自希腊语\"physis\"（自然、本质），后缀\"-ics\"表学科，字面即\"关于自然本质的学问\"，核心动作为\"探索自然规律\"。\",\n  \"similarWarning\": \"physicist（物理学家）、physical（物理的；身体的）、physician（医生）——注意\"-ist\"表人；\"-ical\"表形容词；\"-ician\"表从业者，词根相同但后缀不同导致含义分化。\",\n  \"extendedMeaning\": \"\",\n  \"examUsage\": \"\"\n}",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "physiological",
+      "word": "physiological",
+      "phonetic": "/ˌfiziə'lɔdʒikəl/",
+      "meaning": "a.生理学的, 生理学上的",
+      "similar": [],
+      "question": {
+        "wordId": "physiological",
+        "stem": "选择 \"physiological\" 的正确中文意思：",
+        "correct": "a.生理学的, 生理学上的",
+        "options": [
+          "n.移动,迁居;除去",
+          "n.吨;(pl.)大量,许多",
+          "a.生理学的, 生理学上的",
+          "n.(圆物的)边,边缘;(眼镜)框"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "physio-（自然/身体）+ -logical（...学的）。physio-源于希腊语physis（自然、生长），核心动作是“与身体自然运作相关”，即生理学的，研究生物体正常生命活动规律的学科。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“生理上的、身体机能的”，区别于心理或病理状态。如“physiological response”（生理反应）指身体对刺激的自然反应，非主观意识控制。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "piano",
+      "word": "piano",
+      "phonetic": "/pi'ænəu/",
+      "meaning": "n.钢琴",
+      "similar": [
+        "pan",
+        "pin",
+        "pant",
+        "pine",
+        "pink",
+        "pint",
+        "giant",
+        "plane"
+      ],
+      "question": {
+        "wordId": "piano",
+        "stem": "选择 \"piano\" 的正确中文意思：",
+        "correct": "n.钢琴",
+        "options": [
+          "n.钢琴",
+          "n.平底锅,盘子,面板",
+          "n.钉;大头针,别针,徽章 v.(up)钉住,别住",
+          "n.喘气 v.喘,气喘吁吁地说"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自意大利语“piano”意为“轻柔的”，是“pianoforte”的缩写，后者由“piano”（轻柔）和“forte”（响亮）组成，指能根据触键力度发出强弱音的乐器，核心动作是手指按压琴键产生强弱变化的声音。",
+        "similarWarning": "piano vs. plan：拼写差异为字母“o”与“l”，piano指钢琴，plan指计划。piano vs. pin：多“a”和“o”，pin为别针。",
+        "extendedMeaning": "在考研中无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pick",
+      "word": "pick",
+      "phonetic": "/pik/",
+      "meaning": "v.拾,采,摘;挑选,选择 n.镐,鹤嘴锄",
+      "similar": [
+        "prick",
+        "kick",
+        "lick",
+        "pack",
+        "pink",
+        "tick",
+        "pickup",
+        "brick"
+      ],
+      "question": {
+        "wordId": "pick",
+        "stem": "选择 \"pick\" 的正确中文意思：",
+        "correct": "v.拾,采,摘;挑选,选择 n.镐,鹤嘴锄",
+        "options": [
+          "vt.舔；(火焰或浪)掠过；打败 n.舔；少量",
+          "n./v.踢",
+          "v.拾,采,摘;挑选,选择 n.镐,鹤嘴锄",
+          "n./v.刺伤,刺痛,刺孔"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "该词古英语起源，核心物理动作是‘用尖状物刺、戳’。引申为‘用手指或工具从众多中选取一个’，如同用镐头从土里‘啄出’目标物。词源上与‘啄木鸟’（woodpecker）同根，强调‘尖端点触’的动作画面。",
+        "similarWarning": "prick（刺/扎，强调尖锐物刺入皮肤，如prick your finger）；pick（挑选/采摘，强调选择或拾取，如pick a flower）；kick（踢，脚部动作）；lick（舔，舌头动作）；pack（打包/包装，强调整理装填）；pink（粉色，颜色词）；sick（生病的，形容词）；tick（滴答声/勾选，如tick box）",
+        "extendedMeaning": "考研高频僻义：v.‘撬锁’（pick a lock）；n.‘吉他拨片’（guitar pick）；短语‘pick one's teeth’（剔牙），非字面‘挑选牙齿’。",
+        "examUsage": "真题核心考点：pick up 常考‘偶然学到’（pick up a language）或‘接收信号’（pick up radio waves），非简单‘捡起’。例：2013年阅读，She picked up the habit from her mother.（她从母亲那里偶然养成了这个习惯。）"
+      }
+    },
+    {
+      "id": "pickup",
+      "word": "pickup",
+      "phonetic": "/'pikʌp/",
+      "meaning": "n.拾起,获得",
+      "similar": [
+        "pick"
+      ],
+      "question": {
+        "wordId": "pickup",
+        "stem": "选择 \"pickup\" 的正确中文意思：",
+        "correct": "n.拾起,获得",
+        "options": [
+          "v.拾,采,摘;挑选,选择 n.镐,鹤嘴锄",
+          "n.拾起,获得",
+          "a.激烈的,严厉的;(药性等)猛烈的",
+          "a.城市的, 市内的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "由动词短语\"pick up\"（捡起）名词化而来。\"pick\"意为“拾、捡”，\"up\"表示“向上”，组合后核心动作是“从低处拿起”。名词化后保留“拾起”的本义，并引申为“获得、获取”的动作或结果，如信息、信号、物品等的收集。",
+        "similarWarning": "pick: 动词，意为“挑选、拾起”，无名词化后缀；pickup: 名词，强调“拾起”的动作或“获得”的结果。",
+        "extendedMeaning": "在考研中常引申为“（商业上的）好转、复苏”或“（车辆的）小货车、皮卡”。例如：\"economic pickup\"（经济复苏）或\"a pickup truck\"（皮卡车）。",
+        "examUsage": "常见于真题阅读中，表示“（信号的）接收”或“（数据的）获取”。例如：\"The pickup of radio signals was weak.\"（无线电信号的接收很弱。）注意与\"pick up\"动词短语的区别，后者常考“学会、接人”等义。"
+      }
+    },
+    {
+      "id": "picnic",
+      "word": "picnic",
+      "phonetic": "/'piknik/",
+      "meaning": "n.野餐 v.(去)野餐",
+      "similar": [
+        "panic"
+      ],
+      "question": {
+        "wordId": "picnic",
+        "stem": "选择 \"picnic\" 的正确中文意思：",
+        "correct": "n.野餐 v.(去)野餐",
+        "options": [
+          "n./a.恐慌(的),惊慌(的) vt.使惊慌,使害怕",
+          "v.使变得(更)容易;使便利;推动;帮助;处进",
+          "n.复活节",
+          "n.野餐 v.(去)野餐"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自法语 'pique-nique'，由 'piquer'（挑拣）与 'nique'（小东西）组合，原指每人自带食物的小型聚餐，核心动作是“挑拣食物共享”，后引申为户外休闲用餐。",
+        "similarWarning": "panic（恐慌）：拼写差异在于 'c' vs 'ic'，picnic强调休闲，panic指突然的恐惧。",
+        "extendedMeaning": "考研中无显著僻义，但注意动词用法（如 go picnicking）偶尔出现，非重点。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pie",
+      "word": "pie",
+      "phonetic": "/pai/",
+      "meaning": "n.馅饼",
+      "similar": [
+        "pile",
+        "pine",
+        "pipe",
+        "die",
+        "pig",
+        "pin",
+        "pit",
+        "tie"
+      ],
+      "question": {
+        "wordId": "pie",
+        "stem": "选择 \"pie\" 的正确中文意思：",
+        "correct": "n.馅饼",
+        "options": [
+          "n.馅饼",
+          "n.堆,大量,大数目 v.(up)堆,叠,堆积",
+          "n.管子,导管;烟斗;笛",
+          "n.松树"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "直接音译词，源自拉丁语pica‘喜鹊’，因喜鹊收集杂食，后借指混合馅料的面点。核心物理动作为‘包裹’与‘烘烤’。",
+        "similarWarning": "pile（堆）- pine（松树）- pipe（管道）- pie（馅饼）；拼写差异：pile含l表堆叠，pine含n表树木，pipe含p表管状物，pie无额外字母。",
+        "extendedMeaning": "在考研中无显著僻义，但注意‘pie in the sky’（空头支票，难以实现的计划）偶见于阅读理解。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pierce",
+      "word": "pierce",
+      "phonetic": "/piəs/",
+      "meaning": "v.剌穿,刺破",
+      "similar": [
+        "fierce",
+        "niece",
+        "patience"
+      ],
+      "question": {
+        "wordId": "pierce",
+        "stem": "选择 \"pierce\" 的正确中文意思：",
+        "correct": "v.剌穿,刺破",
+        "options": [
+          "n.侄女,甥女",
+          "a.凶猛的,残忍的;狂热的,强烈的",
+          "v.剌穿,刺破",
+          "n.耐心,忍耐"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源可能来自古法语‘percer’（刺穿），核心物理动作是‘尖物穿透物体表面’。词根无显性派生，直接记忆：pierce = 尖物（如针、箭）从外部施加压力，使物体产生孔洞或裂口。",
+        "similarWarning": "piece（n.碎片，部分）vs pierce：pierce含字母‘r’，强调‘刺’的动作；piece无‘r’，指‘一块’。fierce（adj.凶猛的）vs pierce：fierce首字母‘f’，形容态度；pierce首字母‘p’，指物理穿透。niece（n.侄女）vs pierce：拼写差异大，仅结尾‘ce’相似。peace（n.和平）vs pierce：peace无‘r’，含义完全不同。patience（n.耐心）vs pierce：词尾‘ience’与‘ierce’对比，易混淆拼写。",
+        "extendedMeaning": "考研僻义：指‘（光线、声音等）穿透；打动（内心）’。例如：‘The light pierced the darkness.’（光线刺破黑暗）；‘Her words pierced his heart.’（她的话刺痛了他的心）。",
+        "examUsage": "核心短语：‘pierce through’（穿透，突破）；真题例句：‘The bullet pierced his arm, but he managed to escape.’（子弹穿透他的手臂，但他设法逃脱）。注意：pierce常与through搭配，表示穿透过程，区别于‘stab’（捅、刺）的瞬间动作。"
+      }
+    },
+    {
+      "id": "pig",
+      "word": "pig",
+      "phonetic": "/pɪg/",
+      "meaning": "n.猪，猪肉；猪一般的人(指肮脏，贪吃的人)",
+      "similar": [
+        "dig",
+        "pie",
+        "pin",
+        "pit"
+      ],
+      "question": {
+        "wordId": "pig",
+        "stem": "选择 \"pig\" 的正确中文意思：",
+        "correct": "n.猪，猪肉；猪一般的人(指肮脏，贪吃的人)",
+        "options": [
+          "n.馅饼",
+          "n.猪，猪肉；猪一般的人(指肮脏，贪吃的人)",
+          "v.挖,掘",
+          "n.钉;大头针,别针,徽章 v.(up)钉住,别住"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟猪的呼噜声或喷鼻声，直接指代动物本身，无复杂词根演变。",
+        "similarWarning": "big（大的）、dig（挖）、pie（馅饼）、pin（别针）、pit（坑）——注意元音和尾字母差异，pig特指猪。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pigeon",
+      "word": "pigeon",
+      "phonetic": "/'pidʒin/",
+      "meaning": "n.鸽",
+      "similar": [
+        "piston"
+      ],
+      "question": {
+        "wordId": "pigeon",
+        "stem": "选择 \"pigeon\" 的正确中文意思：",
+        "correct": "n.鸽",
+        "options": [
+          "n.小路,小巷,行车道",
+          "n.鸽",
+          "n.活塞",
+          "n.裤子"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语pipio（吱吱叫的雏鸟），拟声词根pip-模拟雏鸟叫声。后指鸽子，因其叫声得名。",
+        "similarWarning": "piston（n.活塞）：pigeon含字母g和e，piston含字母s和t，词义无关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pile",
+      "word": "pile",
+      "phonetic": "/pail/",
+      "meaning": "n.堆,大量,大数目 v.(up)堆,叠,堆积",
+      "similar": [
+        "pie",
+        "file",
+        "mile",
+        "pale",
+        "pill",
+        "pine",
+        "pipe",
+        "pole"
+      ],
+      "question": {
+        "wordId": "pile",
+        "stem": "选择 \"pile\" 的正确中文意思：",
+        "correct": "n.堆,大量,大数目 v.(up)堆,叠,堆积",
+        "options": [
+          "n.堆,大量,大数目 v.(up)堆,叠,堆积",
+          "n.馅饼",
+          "n.锉刀;文件,档案 v.锉",
+          "n.英里，哩，海里"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "pile源自拉丁语pila（柱子、堆），核心物理动作为“将物体垂直或水平地堆叠起来形成堆”。词根pila本身有“柱、堆”双重含义，现代英语pile引申为“堆、大量”，动词“堆积”即此动作的延续。",
+        "similarWarning": "pile vs. pie（馅饼，缺少l字母）；pile vs. pale（苍白的，a/e替换）；pile vs. pill（药丸，e变ll）；pile vs. pine（松树，l变n）；pile vs. pipe（管道，l变p）；pile vs. pole（杆子，i变o）。注意pile强调堆叠，pale强调颜色或苍白，pill为固体药片。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pilgrim",
+      "word": "pilgrim",
+      "phonetic": "/'pilgrim/",
+      "meaning": "n.(在国外)旅游者;朝圣者,最初的移民",
+      "similar": [],
+      "question": {
+        "wordId": "pilgrim",
+        "stem": "选择 \"pilgrim\" 的正确中文意思：",
+        "correct": "n.(在国外)旅游者;朝圣者,最初的移民",
+        "options": [
+          "v.(from)抑制,制止",
+          "n.出租汽车v.[指飞机](使)滑行",
+          "n.(在国外)旅游者;朝圣者,最初的移民",
+          "n.传说,传奇"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语peregrinus（外国人，旅行者），由per（通过）+ ager（土地）组成，字面意为“穿越土地的人”。最初指异乡人、流浪者，后特指朝圣者（因宗教目的旅行），进而泛化为旅游者。核心物理动作是“长途跋涉穿越陌生土地”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研语境中，pilgrim常作为“朝圣者”出现，但需注意其引申义“最初的移民”，特指1620年乘坐五月花号到达美洲的英国清教徒（Pilgrim Fathers），这一用法在历史文化类阅读中高频出现。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pill",
+      "word": "pill",
+      "phonetic": "/pil/",
+      "meaning": "n.药丸",
+      "similar": [
+        "spill",
+        "bill",
+        "fill",
+        "kill",
+        "mill",
+        "pile",
+        "poll",
+        "pull"
+      ],
+      "question": {
+        "wordId": "pill",
+        "stem": "选择 \"pill\" 的正确中文意思：",
+        "correct": "n.药丸",
+        "options": [
+          "v.(with)填满,充满",
+          "n.账单;招贴,广告;(人员,职称等的)表;钞票",
+          "v.溢出,溅出 n.摔下,跌下",
+          "n.药丸"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源自拉丁语'pila'（球），核心物理动作为“球形小物体”。引申为“药丸”，强调其小而圆的形态。",
+        "similarWarning": "spill（v.溢出）: 对比'pill'多首字母's'，词义完全不同。ill（adj.生病的）: 对比'pill'少首字母'p'，但语义相关（药丸用于治病）。pile（n.堆）: 对比'pill'多尾字母'e'，词义为“堆叠”，与“药丸”无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pillar",
+      "word": "pillar",
+      "phonetic": "/'pilə/",
+      "meaning": "n.柱,台柱,栋梁",
+      "similar": [
+        "pill",
+        "polar",
+        "cellar",
+        "collar",
+        "dollar",
+        "pillow"
+      ],
+      "question": {
+        "wordId": "pillar",
+        "stem": "选择 \"pillar\" 的正确中文意思：",
+        "correct": "n.柱,台柱,栋梁",
+        "options": [
+          "n.药丸",
+          "n.柱,台柱,栋梁",
+          "n.地窑,地下室",
+          "a.两极的,极地的,南辕北辙的 n.极线,极面"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语pila（柱），核心物理动作为垂直支撑结构，引申为组织或系统中的核心支撑要素。",
+        "similarWarning": "pill（药丸） vs pillar（柱子）：pill缺少-ar后缀；polar（极地的） vs pillar：polar中pol-意为极，pillar中pill-意为柱；cellar（地窖） vs pillar：cellar中cell-意为小房间，pillar中pill-意为柱。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "pillow",
+      "word": "pillow",
+      "phonetic": "/'piləu/",
+      "meaning": "n.枕头",
+      "similar": [
+        "pill",
+        "allow",
+        "pilot",
+        "fellow",
+        "follow",
+        "hollow",
+        "pillar",
+        "yellow"
+      ],
+      "question": {
+        "wordId": "pillow",
+        "stem": "选择 \"pillow\" 的正确中文意思：",
+        "correct": "n.枕头",
+        "options": [
+          "n.飞行员;领港员 v.驾驶(飞机等);领航,引水",
+          "n.枕头",
+          "n.药丸",
+          "vt.允许，准许；承认；给予；(for)考虑到"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源来自拉丁语'pulvinus'（垫子），经古英语'pyle'演变为'pillow'，核心动作为'支撑头部'，即枕头作为支撑物。",
+        "similarWarning": "pill（药丸）→ 无'ow'后缀；allow（允许）→ 前缀'al-'；pilot（飞行员）→ 中间'i'；fellow（伙伴）→ 双'l'；follow（跟随）→ 'f'开头；hollow（中空的）→ 'h'开头；pillar（柱子）→ 结尾'ar'；yellow（黄色）→ 'y'开头。",
+        "extendedMeaning": "考研中无特殊僻义，仅作基础名词使用。",
+        "examUsage": "无特殊考点，无需生成。"
+      }
+    },
+    {
+      "id": "pilot",
+      "word": "pilot",
+      "phonetic": "/'pailət/",
+      "meaning": "n.飞行员;领港员 v.驾驶(飞机等);领航,引水",
+      "similar": [
+        "plot",
+        "pillow",
+        "lot",
+        "pit",
+        "pot",
+        "kilo",
+        "pile",
+        "pill"
+      ],
+      "question": {
+        "wordId": "pilot",
+        "stem": "选择 \"pilot\" 的正确中文意思：",
+        "correct": "n.飞行员;领港员 v.驾驶(飞机等);领航,引水",
+        "options": [
+          "n.飞行员;领港员 v.驾驶(飞机等);领航,引水",
+          "n.许多，大量；签，抽签；命运；场地",
+          "n.枕头",
+          "n.秘密计划;情节 v.标绘,绘制;密谋,策划"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自意大利语pilota，源自希腊语pedon（桨），原指“舵手”。核心动作是“通过桨或舵控制方向”，引申为“引领、驾驶”。词根ped-（脚，踏）→ 用脚踩舵控制船 → 领航、驾驶。",
+        "similarWarning": "plot（情节/密谋，l与i位置不同）；pillow（枕头，双l+ow）；pit（坑，少l）；pot（罐，元音不同）；kilo（千，首字母不同）；pile（堆，少t）；pill（药丸，少ot）。",
+        "extendedMeaning": "在考研中常考“试点”或“试验性”的引申义，如pilot project（试点项目）、pilot study（初步研究），表示“小规模先行测试”。",
+        "examUsage": "真题考点：pilot作为动词的“引导”义，搭配pilot through（设法使通过），如pilot a bill through Congress（推动法案通过国会）。"
+      }
+    },
+    {
+      "id": "pin",
+      "word": "pin",
+      "phonetic": "/pɪn/",
+      "meaning": "n.钉;大头针,别针,徽章 v.(up)钉住,别住",
+      "similar": [
+        "pine",
+        "pink",
+        "pint",
+        "spin",
+        "bin",
+        "kin",
+        "pan",
+        "pie"
+      ],
+      "question": {
+        "wordId": "pin",
+        "stem": "选择 \"pin\" 的正确中文意思：",
+        "correct": "n.钉;大头针,别针,徽章 v.(up)钉住,别住",
+        "options": [
+          "n.钉;大头针,别针,徽章 v.(up)钉住,别住",
+          "n.粉红色 a.粉红色的",
+          "n.品脱",
+          "n.松树"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声/动作词根：模仿细长物体刺入或固定的瞬间动作。核心物理动作是“用细尖物刺穿并固定”，引申为“钉、别、固定”。",
+        "similarWarning": "pain（疼痛） vs pin（针）：pain有a（痛喊），pin无a（细针）；pine（松树/渴望） vs pin：pine多了e（树木生长）；pink（粉红色） vs pin：pink多了k（颜色后缀）；pint（品脱） vs pin：pint多了t（容量单位）；spin（旋转） vs pin：spin多了s（旋转动作）；in（在…里） vs pin：pin多了p（针头）；bin（箱子） vs pin：bin多了b（容器）；kin（亲属） vs pin：kin多了k（家族）。",
+        "extendedMeaning": "考研僻义：“pin down” 意为“确定、明确说明”（真题中常表“迫使某人表态”或“准确定位”）。例：It is difficult to pin down the exact cause of the problem. (很难确切找出问题的原因。)",
+        "examUsage": "考点直击：短语“pin up” 在真题中常考“钉住、张贴”（如 pin up a notice）。干扰项常设置“pin on” 表示“把…归咎于”（pin the blame on sb.），需注意区分。"
+      }
+    },
+    {
+      "id": "pinch",
+      "word": "pinch",
+      "phonetic": "/pintʃ/",
+      "meaning": "v.捏,掐,拧;收缩;紧急关头;匮乏;压力",
+      "similar": [
+        "inch",
+        "pitch",
+        "punch",
+        "prince",
+        "pin",
+        "pick",
+        "pine",
+        "pink"
+      ],
+      "question": {
+        "wordId": "pinch",
+        "stem": "选择 \"pinch\" 的正确中文意思：",
+        "correct": "v.捏,掐,拧;收缩;紧急关头;匮乏;压力",
+        "options": [
+          "n.冲压机,冲床;穿孔机 v.冲压,穿孔",
+          "n.沥青;掷 v.用沥青覆盖;投掷,扔",
+          "n.英寸",
+          "v.捏,掐,拧;收缩;紧急关头;匮乏;压力"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语punctiare（刺）。核心动作是“用拇指和食指用力挤压”，引申为“收缩”（如鞋挤脚）、“匮乏”（经济紧缩）、“压力”（如资金压力）、“紧急关头”（关键时刻）。",
+        "similarWarning": "pitch（投掷/音高）vs pinch：pitch含t表投掷动作；pinch含n表捏合。punch（拳打）vs pinch：punch含u表猛击；pinch含i表轻柔捏。prince（王子）vs pinch：prince含r表贵族；pinch含h表动作。",
+        "extendedMeaning": "考研僻义：1. 匮乏，短缺（feeling the pinch感到手头拮据）；2. 紧急关头（in a pinch在紧要关头）；3. 压力（pinch of poverty贫困的压力）。",
+        "examUsage": "真题考点：1. feel the pinch（感到经济压力/手头紧）；2. at a pinch（在必要时/紧要关头）；3. pinch off（掐掉/截断）。"
+      }
+    },
+    {
+      "id": "pine",
+      "word": "pine",
+      "phonetic": "/pain/",
+      "meaning": "n.松树",
+      "similar": [
+        "spine",
+        "pie",
+        "pin",
+        "dine",
+        "nine",
+        "pile",
+        "pink",
+        "pint"
+      ],
+      "question": {
+        "wordId": "pine",
+        "stem": "选择 \"pine\" 的正确中文意思：",
+        "correct": "n.松树",
+        "options": [
+          "n.松树",
+          "n.钉;大头针,别针,徽章 v.(up)钉住,别住",
+          "n.馅饼",
+          "n.脊柱，脊椎；(动植物的)刺；书脊"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'pinus'，指松树。词根核心物理动作是垂直向上生长，松树以其笔直树干和针叶为特征。",
+        "similarWarning": "spine（脊柱）: s-前缀 + pine，强调脊柱的支撑功能；pin（别针）: 比 pine 少 e，指细长金属工具；dine（用餐）: d-替换 p，指进食行为。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pink",
+      "word": "pink",
+      "phonetic": "/piŋk/",
+      "meaning": "n.粉红色 a.粉红色的",
+      "similar": [
+        "ink",
+        "pin",
+        "link",
+        "pick",
+        "pine",
+        "pint",
+        "sink",
+        "wink"
+      ],
+      "question": {
+        "wordId": "pink",
+        "stem": "选择 \"pink\" 的正确中文意思：",
+        "correct": "n.粉红色 a.粉红色的",
+        "options": [
+          "n.粉红色 a.粉红色的",
+          "v.连接,联系 n.环节,链环",
+          "n.墨水，油墨",
+          "n.钉;大头针,别针,徽章 v.(up)钉住,别住"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自荷兰语‘pinck’，指一种石竹花（pink carnation），因花色得名。核心物理动作或画面：粉红色花瓣的颜色感知。",
+        "similarWarning": "与‘pin（大头针）’差一个‘k’，与‘ink（墨水）’差首字母‘p’，与‘sink（下沉）’差首字母‘p’，注意拼写差异。",
+        "extendedMeaning": "【熟词僻义】v. 刺、扎（如pink with a sword）；adj. 激进的、左倾的（如pink politics）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pint",
+      "word": "pint",
+      "phonetic": "/paint/",
+      "meaning": "n.品脱",
+      "similar": [
+        "paint",
+        "print",
+        "pin",
+        "pit",
+        "hint",
+        "pant",
+        "pine",
+        "pink"
+      ],
+      "question": {
+        "wordId": "pint",
+        "stem": "选择 \"pint\" 的正确中文意思：",
+        "correct": "n.品脱",
+        "options": [
+          "n.油漆,颜料 v.油漆;涂,涂漆;画;描绘,描述",
+          "n.品脱",
+          "n.印刷,印刷品,字体 v.印刷,出版;洗印",
+          "n.钉;大头针,别针,徽章 v.(up)钉住,别住"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语pincta（油漆标记），原指容器上油漆标记的刻度，后固定为液量单位“品脱”。核心动作：标记→计量。",
+        "similarWarning": "paint（油漆，动词/名词）：pint vs paint 差字母a，pint为容量单位，paint为涂料；point（点，要点）：pint vs point 差字母o，point多指抽象点；print（印刷）：pint vs print 差字母r，print指印刷动作；pin（别针）：pint vs pin 差字母t，pint为名词单位；pit（坑）：pint vs pit 差字母n，pit指凹陷处；hint（提示）：pint vs hint 首字母不同，hint为暗示；pant（喘气）：pint vs pant 差字母a，pant为动词；pine（松树）：pint vs pine 差字母e，pine为植物。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pioneer",
+      "word": "pioneer",
+      "phonetic": "/ˌpaiə'niə/",
+      "meaning": "n.先驱,倡导者,开拓者",
+      "similar": [
+        "ponder",
+        "prisoner"
+      ],
+      "question": {
+        "wordId": "pioneer",
+        "stem": "选择 \"pioneer\" 的正确中文意思：",
+        "correct": "n.先驱,倡导者,开拓者",
+        "options": [
+          "v.沉思,考虑",
+          "n.先驱,倡导者,开拓者",
+          "n.小册子",
+          "n.囚犯"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自法语 pionnier（步兵），进一步源于拉丁语 pedo（脚）。原指“步兵”，后引申为“开辟道路的人”。核心动作：用脚先行踏路，即“开拓”。",
+        "similarWarning": "pioneer vs ponder vs prisoner：\n- pioneer：pio-（脚）+ neer（人），强调“先行者”。\n- ponder：pond-（重量）+ er，强调“掂量、思考”。\n- prisoner：pris-（抓）+ oner（人），强调“被囚禁者”。\n差异在于词根：pio-（脚） vs pond-（重量） vs pris-（抓）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pipe",
+      "word": "pipe",
+      "phonetic": "/paip/",
+      "meaning": "n.管子,导管;烟斗;笛",
+      "similar": [
+        "pie",
+        "pile",
+        "pine",
+        "pope",
+        "ripe",
+        "wipe",
+        "pride",
+        "prime"
+      ],
+      "question": {
+        "wordId": "pipe",
+        "stem": "选择 \"pipe\" 的正确中文意思：",
+        "correct": "n.管子,导管;烟斗;笛",
+        "options": [
+          "n.松树",
+          "n.堆,大量,大数目 v.(up)堆,叠,堆积",
+          "n.馅饼",
+          "n.管子,导管;烟斗;笛"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“pipare”（吱吱叫），拟声词根，模仿管子中气流或水流的“咻咻”声。核心物理动作为“中空通道传输流体或气体”，引申为烟斗（气体通道）、笛子（气流发声通道）。",
+        "similarWarning": "pie（馅饼）、pile（堆）、pine（松树）、pope（教皇）、ripe（成熟的）、wipe（擦拭）、paper（纸）、piece（片；件）。差异：pipe中“p”+“ipe”组合，与上述词仅首字母或尾字母不同，注意拼写区分。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pirate",
+      "word": "pirate",
+      "phonetic": "/'paɪrɪt/",
+      "meaning": "n./v.海盗,盗版(者)",
+      "similar": [
+        "migrate",
+        "operate",
+        "vibrate",
+        "rate",
+        "parade",
+        "phrase",
+        "emigrate",
+        "liberate"
+      ],
+      "question": {
+        "wordId": "pirate",
+        "stem": "选择 \"pirate\" 的正确中文意思：",
+        "correct": "n./v.海盗,盗版(者)",
+        "options": [
+          "v.操作,运转,开动,起作用,动手术",
+          "v.迁移,移居(国外)",
+          "v.(使)振动,(使)摇摆；受…而感动",
+          "n./v.海盗,盗版(者)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语peirates（袭击者），由peira（尝试、攻击）演变而来。核心物理动作为“海上袭击掠夺”，引申为“未经授权的使用或复制”，即“盗版”。",
+        "similarWarning": "pirate vs private：pirate（海盗，盗版）含字母i，核心是“袭击”；private（私人的）含字母v，核心是“私有的”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pistol",
+      "word": "pistol",
+      "phonetic": "/'pistl/",
+      "meaning": "n.手枪",
+      "similar": [
+        "piston"
+      ],
+      "question": {
+        "wordId": "pistol",
+        "stem": "选择 \"pistol\" 的正确中文意思：",
+        "correct": "n.手枪",
+        "options": [
+          "n.面,板;控制板,仪表盘;专门小组",
+          "n.手枪",
+          "n.药房,药剂学,制药业,配药业,一批备用药品",
+          "n.活塞"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自捷克语‘pistala’（管子），后经法语‘pistole’进入英语。核心物理动作：手持的管状火器，通过扣动扳机发射子弹。词根演变强调其‘管状’外形与手持特性。",
+        "similarWarning": "piston（活塞）：pistol vs piston，差异在‘ol’（手枪）与‘on’（机械部件）。pistol为武器，piston为引擎中往复运动的圆柱体。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "piston",
+      "word": "piston",
+      "phonetic": "/'pistən/",
+      "meaning": "n.活塞",
+      "similar": [
+        "pistol",
+        "listen",
+        "pigeon",
+        "poison",
+        "prison",
+        "vision",
+        "postpone"
+      ],
+      "question": {
+        "wordId": "piston",
+        "stem": "选择 \"piston\" 的正确中文意思：",
+        "correct": "n.活塞",
+        "options": [
+          "n.活塞",
+          "n.手枪",
+          "vi.倾听(与介词to并用，方可置宾语)",
+          "n.鸽"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源来自拉丁语pistare（捣碎），与pestle（杵）同源。核心物理动作：在气缸内做往复直线运动，通过压缩/膨胀气体传递动力。活塞在发动机中上下运动，如同捣杵在臼中反复捣击。",
+        "similarWarning": "pistol（手枪）：结尾-ol表工具，piston是运动部件；listen（听）：-en表动词，与piston无词源关联；pigeon（鸽子）：完全无关；poison（毒药）：-son表物质；prison（监狱）：-son表场所；vision（视觉）：-ion表抽象；position（位置）：-ition表状态；postpone（推迟）：post-后+pon-放。核心差异：piston中-st-为打击动作，其余词根不同。",
+        "extendedMeaning": "无特殊考研僻义。",
+        "examUsage": "无特殊考点。"
+      }
+    },
+    {
+      "id": "pit",
+      "word": "pit",
+      "phonetic": "/pit/",
+      "meaning": "n.坑,陷阱;煤矿,矿井",
+      "similar": [
+        "pint",
+        "pity",
+        "spit",
+        "fit",
+        "hit",
+        "kit",
+        "pat",
+        "pet"
+      ],
+      "question": {
+        "wordId": "pit",
+        "stem": "选择 \"pit\" 的正确中文意思：",
+        "correct": "n.坑,陷阱;煤矿,矿井",
+        "options": [
+          "n.坑,陷阱;煤矿,矿井",
+          "v.吐(唾沫),吐痰 n.唾液",
+          "n.品脱",
+          "v.(觉得)可怜,惋惜 n.憾事,怜悯"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语pytt，再追溯至拉丁语puteus（井、坑）。核心物理动作为“在地面挖出的一个凹陷或洞”，引申为自然或人工形成的坑、陷阱，以及作为资源开采点的矿井。",
+        "similarWarning": "pint（品脱，量词） vs pit：pint多一个字母n；pity（怜悯，同情） vs pit：pity多一个字母y；spit（吐痰，唾沫） vs pit：spit多一个字母s。",
+        "extendedMeaning": "在考研真题中常引申为“困境”或“深渊”，如“the pit of despair”（绝望的深渊）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pitch",
+      "word": "pitch",
+      "phonetic": "/pitʃ/",
+      "meaning": "n.沥青;掷 v.用沥青覆盖;投掷,扔",
+      "similar": [
+        "ditch",
+        "patch",
+        "pinch",
+        "witch",
+        "stitch",
+        "switch",
+        "pit",
+        "inch"
+      ],
+      "question": {
+        "wordId": "pitch",
+        "stem": "选择 \"pitch\" 的正确中文意思：",
+        "correct": "n.沥青;掷 v.用沥青覆盖;投掷,扔",
+        "options": [
+          "v.捏,掐,拧;收缩;紧急关头;匮乏;压力",
+          "n.补丁,斑点,碎片小块 v.补,修补,掩饰",
+          "n.沟,沟渠,水沟",
+          "n.沥青;掷 v.用沥青覆盖;投掷,扔"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语pic,源自拉丁语pix,沥青。词源同pine,松树。原始含义为“用沥青涂抹或覆盖”，后引申为“投掷、扔”的动作，源于掷骰子或投掷物体时像沥青一样粘稠或干脆利落的动作感。核心物理动作：涂抹或抛掷。",
+        "similarWarning": "ditch（沟渠，抛弃）vs pitch（投掷，沥青）: d-像挖沟，p-像抛；patch（补丁，修补）vs pitch: a-补丁形状，i-投掷动作；pinch（捏，掐）vs pitch: n-捏的动作，t-掷的动作。",
+        "extendedMeaning": "1. 推销、游说（如pitch an idea/产品） 2. 音高（音乐术语） 3. 球场（足球/板球等运动的场地） 4. 倾斜度（如屋顶的坡度）",
+        "examUsage": "pitch in（协力，投入）: 真题中常考“pitch in to help”表示积极参与；pitch for（为…争取/投标）: 外刊中常见“pitch for a contract”争夺合同。"
+      }
+    },
+    {
+      "id": "pity",
+      "word": "pity",
+      "phonetic": "/'piti/",
+      "meaning": "v.(觉得)可怜,惋惜 n.憾事,怜悯",
+      "similar": [
+        "pit",
+        "dirty",
+        "fifty",
+        "petty",
+        "pitch",
+        "spicy",
+        "spite",
+        "unity"
+      ],
+      "question": {
+        "wordId": "pity",
+        "stem": "选择 \"pity\" 的正确中文意思：",
+        "correct": "v.(觉得)可怜,惋惜 n.憾事,怜悯",
+        "options": [
+          "v.(觉得)可怜,惋惜 n.憾事,怜悯",
+          "num.五十，五十个",
+          "a.弄脏的;下流的 v.弄脏,玷污",
+          "n.坑,陷阱;煤矿,矿井"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 pietas（虔诚、怜悯），与 pious（虔诚的）同源。核心动作是看到他人受苦时内心产生的‘共鸣之痛’，即‘同情、怜悯’。词义演变：宗教虔诚 → 对他人苦难的同情 → 惋惜。",
+        "similarWarning": "pity（怜悯）vs. petty（琐碎的、气量小的）：pity 有字母 y，核心是‘同情’；petty 有字母 e，核心是‘小/狭隘’。",
+        "extendedMeaning": "n. 可惜的事，遗憾（常用于 It's a pity that... 表示‘遗憾的是...’，在考研写作中作为高级替代 sad）。",
+        "examUsage": "考点：固定搭配 have/take pity on（同情/怜悯），真题中常作为情感态度题的干扰选项（如‘作者对某事感到 pity’对应贬义或负面评价）。"
+      }
+    },
+    {
+      "id": "plague",
+      "word": "plague",
+      "phonetic": "/pleig/",
+      "meaning": "n.瘟疫,灾害,麻烦,苦恼 vt.折磨,使苦恼",
+      "similar": [
+        "plane",
+        "vague",
+        "league"
+      ],
+      "question": {
+        "wordId": "plague",
+        "stem": "选择 \"plague\" 的正确中文意思：",
+        "correct": "n.瘟疫,灾害,麻烦,苦恼 vt.折磨,使苦恼",
+        "options": [
+          "n.瘟疫,灾害,麻烦,苦恼 vt.折磨,使苦恼",
+          "n.同盟,联盟;联合会,社团",
+          "n.飞机;平面,水平面",
+          "a.不明确的,含糊的,暧昧的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语plaga（打击、伤口），引申为“瘟疫”这种上天给予的沉重打击。核心物理动作是“击打”，plague即是被击打后的灾难状态。",
+        "similarWarning": "vague（模糊的）: pl-（击打） vs va-（空）；plague具体打击 vs vague抽象模糊，拼写差异在“pl”与“va”。",
+        "extendedMeaning": "考研常考“困扰、折磨”的动词义，如be plagued by（被…困扰），用于抽象问题（如困扰、麻烦）。",
+        "examUsage": "be plagued with/by... 被…困扰（真题高频搭配，如be plagued by doubts）"
+      }
+    },
+    {
+      "id": "plain",
+      "word": "plain",
+      "phonetic": "/plein/",
+      "meaning": "a.明白的;朴素的;坦率;平凡 n.平原,旷野",
+      "similar": [
+        "explain",
+        "pan",
+        "pin",
+        "gain",
+        "lawn",
+        "pail",
+        "pair",
+        "vain"
+      ],
+      "question": {
+        "wordId": "plain",
+        "stem": "选择 \"plain\" 的正确中文意思：",
+        "correct": "a.明白的;朴素的;坦率;平凡 n.平原,旷野",
+        "options": [
+          "n.平底锅,盘子,面板",
+          "v.解释,说明",
+          "n.钉;大头针,别针,徽章 v.(up)钉住,别住",
+          "a.明白的;朴素的;坦率;平凡 n.平原,旷野"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语planus（平坦的、清晰的）。词根plan-（平坦）→ 平坦无凹凸，引申为“明白的、朴素的”；作为名词指“平原”。核心物理动作：使表面平坦，直指“无阻碍、无修饰”的状态。",
+        "similarWarning": "plain vs plan：plain含字母i，plan无i；plain强调“清晰/朴素”，plan指“计划/方案”。plain vs pain：plain含l，pain无l；plain意为“明白的”，pain意为“疼痛”。",
+        "extendedMeaning": "在考研中常引申为“坦率的、直截了当的”（如in plain terms直言不讳），或“完全的、十足的”（如plain nonsense一派胡言）。",
+        "examUsage": "真题考点：in plain English（用浅显易懂的英语）；plain as day（显而易见）；to be plain with you（坦白跟你说）。干扰项常与simple、clear、obvious辨析，注意plain侧重“无修饰”的本质。"
+      }
+    },
+    {
+      "id": "plane",
+      "word": "plane",
+      "phonetic": "/plein/",
+      "meaning": "n.飞机;平面,水平面",
+      "similar": [
+        "planet",
+        "lane",
+        "glance",
+        "palace",
+        "plague",
+        "please",
+        "plunge",
+        "pan"
+      ],
+      "question": {
+        "wordId": "plane",
+        "stem": "选择 \"plane\" 的正确中文意思：",
+        "correct": "n.飞机;平面,水平面",
+        "options": [
+          "n.小路,小巷,行车道",
+          "n.行星",
+          "n.飞机;平面,水平面",
+          "v.(at,over)扫视 n.匆匆看,一瞥,一眼"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语planus（平坦的），核心物理动作为“平坦、水平”。plane最初指“平面”，后引申为“飞机”（飞行时的水平面概念）。",
+        "similarWarning": "planet（行星）：与plane差一个字母t，指天体；plan（计划）：与plane差一个字母e，指方案；lane（小巷）：与plane差一个字母p，指小路。",
+        "extendedMeaning": "在考研中，plane常考“平面”的数学或几何意义，如coordinate plane（坐标平面）；熟词僻义“刨子”（木工工具）或“刨平”（动词），如plane wood（刨木头）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "planet",
+      "word": "planet",
+      "phonetic": "/'plænit/",
+      "meaning": "n.行星",
+      "similar": [
+        "plane",
+        "blanket",
+        "lane",
+        "pant",
+        "panel",
+        "peanut"
+      ],
+      "question": {
+        "wordId": "planet",
+        "stem": "选择 \"planet\" 的正确中文意思：",
+        "correct": "n.行星",
+        "options": [
+          "n.行星",
+          "n.小路,小巷,行车道",
+          "n.飞机;平面,水平面",
+          "n.毯子(可数)；厚厚一层(可数) vt.铺上一层"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'planetes'（流浪者），词根为'plan-（漫游）'。古人观察到恒星位置固定，而行星在天空中游荡，故称其为'流浪星'。核心动作是'漫游、游荡'。",
+        "similarWarning": "形近词辨析：planet（行星） vs plane（平面/飞机，末尾+无t） vs plant（植物/种植，末尾+ t但元音不同） vs plan（计划，少et）。注意'planet'含'net'（网），可联想行星如网中的流浪者。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "plantation",
+      "word": "plantation",
+      "phonetic": "/plæn'teiʃən/",
+      "meaning": "n.种植园",
+      "similar": [
+        "explanation",
+        "orientation",
+        "transaction",
+        "translation",
+        "aviation",
+        "location",
+        "petition",
+        "sanction"
+      ],
+      "question": {
+        "wordId": "plantation",
+        "stem": "选择 \"plantation\" 的正确中文意思：",
+        "correct": "n.种植园",
+        "options": [
+          "n.办理,处理;交易,事务;(pl.)会报,学报",
+          "n.种植园",
+          "n.解释,说明",
+          "n.方向,方位,定位,倾向性,向东方"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自plant（种植）+ -ation（名词后缀，表行为/场所/结果）。核心动作是“种植行为及其场所”，即大规模种植经济作物的土地。",
+        "similarWarning": "explanation（解释：ex-向外 + plan-平 + -ation → 展开说明）；orientation（定位：or-升起 + -ation → 确定方向）；transaction（交易：trans-跨越 + act-行动 + -ation → 跨行动）；translation（翻译：trans-跨越 + lat-带来 + -ion → 语言转换）；aviation（航空：avi-鸟 + -ation → 飞翔）；location（位置：loc-地方 + -ation）；petition（请愿：pet-寻求 + -ition）；sanction（制裁/批准：sanct-神圣 + -ion → 使神圣化）。对比核心：plantation 强调“种植”动作与场所，其他词根各异。",
+        "extendedMeaning": "在考研外刊中，plantation 可引申为“殖民地种植园经济体系”，如 'the plantation economy of the antebellum South'（内战前南方的种植园经济），强调其历史与社会制度含义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "plaster",
+      "word": "plaster",
+      "phonetic": "/'plɑ:stə/",
+      "meaning": "n.灰泥;熟石膏;膏药",
+      "similar": [
+        "laser",
+        "paste",
+        "easter",
+        "latter",
+        "poster",
+        "cluster",
+        "flatter",
+        "plastic"
+      ],
+      "question": {
+        "wordId": "plaster",
+        "stem": "选择 \"plaster\" 的正确中文意思：",
+        "correct": "n.灰泥;熟石膏;膏药",
+        "options": [
+          "n.灰泥;熟石膏;膏药",
+          "n.激光",
+          "n.糊,浆糊 v.粘,贴",
+          "n.复活节"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'emplastron'（涂抹物），由'plast-'（塑造、涂抹）加名词后缀'-er'组成。核心物理动作是'涂抹覆盖'：灰泥涂抹墙面（plaster the wall），膏药涂抹皮肤（plaster on wound），熟石膏用于塑形固定（plaster cast）。",
+        "similarWarning": "plaster vs. poster：p-l-a-s-t-e-r vs. p-o-s-t-e-r，差异在'a'与'o'、's'与's'后'te' vs 't'；plaster指涂抹材料，poster指海报。plaster vs. master：p-l-a-s-t-e-r vs. m-a-s-t-e-r，首字母p/m不同；plaster为灰泥，master为主人/大师。",
+        "extendedMeaning": "（熟词僻义）vt. 在……上涂抹；粘贴（如plaster posters on walls把海报贴满墙）；n.（喻）掩盖、粉饰（如plaster over problems掩盖问题）。",
+        "examUsage": "（真题考点）plaster作动词的固定搭配：plaster...with...（用……涂抹/覆盖……），如'plaster the wall with cement'；plaster over（掩盖、掩饰），考研阅读中常考其比喻义，如'plaster over social conflicts'。"
+      }
+    },
+    {
+      "id": "plastic",
+      "word": "plastic",
+      "phonetic": "/'plæstik/",
+      "meaning": "n.(常pl.)塑料,塑料制品 a.可塑的,塑性的",
+      "similar": [
+        "elastic",
+        "classic",
+        "drastic",
+        "plaster"
+      ],
+      "question": {
+        "wordId": "plastic",
+        "stem": "选择 \"plastic\" 的正确中文意思：",
+        "correct": "n.(常pl.)塑料,塑料制品 a.可塑的,塑性的",
+        "options": [
+          "a.激烈的,严厉的;(药性等)猛烈的",
+          "n.(pl.)杰作,名著 a.第一流的,不朽的",
+          "n.(常pl.)塑料,塑料制品 a.可塑的,塑性的",
+          "a.弹性的 n.松紧带,橡皮圈"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自希腊语plastikos，意为“可塑的、适合塑造的”，源自plassein“塑造、形成”。核心物理动作是“通过外力改变形状并固定”，强调物质在外力作用下可变形并保持新形态的特性。",
+        "similarWarning": "elastic（有弹性的）：e-向外+last（拉长），强调受力变形后恢复原状；plastic强调不可恢复的塑性变形。classic（经典的）：来自class（等级），指最高级别的典范；plastic无此义。drastic（剧烈的）：来自drassein（做、行动），强调行为猛烈。plaster（石膏）：来自plassein（塑造），但特指建筑用黏性材料。practice（实践）：来自praxis（行动），与形状无关。",
+        "extendedMeaning": "在考研中常引申为“人造的、不自然的、可塑的”，如plastic surgery（整形手术）中的“人工改变形态”；在经济学中可指“可塑性的、易受影响的”，如plastic economy（弹性经济）。",
+        "examUsage": "真题中常作为名词复数plastics出现，指“塑料制品”，如recycled plastics（回收塑料制品）；搭配plastic waste（塑料垃圾）在环保类��读中高频出现。"
+      }
+    },
+    {
+      "id": "plateau",
+      "word": "plateau",
+      "phonetic": "/'plætəu/",
+      "meaning": "n.高原,平稳状态[时期]",
+      "similar": [],
+      "question": {
+        "wordId": "plateau",
+        "stem": "选择 \"plateau\" 的正确中文意思：",
+        "correct": "n.高原,平稳状态[时期]",
+        "options": [
+          "n．圣诞节",
+          "a.狂暴的,无秩序的",
+          "a.考虑周到的,体谅的",
+          "n.高原,平稳状态[时期]"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自法语‘plateau’，源自‘plat’（平的）+‘-eau’（小后缀），本义是‘小平面’。核心物理动作是‘平坦的表面’，引申为地理上的高原，再抽象为事物发展进入平稳、停滞的状态或时期。",
+        "similarWarning": "plate（盘子，金属板）：plateau比plate多了‘-au’后缀，强调‘平坦的延伸面’；plate侧重单个扁平物体。",
+        "extendedMeaning": "在考研中常考‘停滞期’或‘平稳阶段’，如经济、成绩、技能等达到一定水平后难以提升的‘高原现象’（plateau effect）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "platform",
+      "word": "platform",
+      "phonetic": "/'plætfɔ:m/",
+      "meaning": "n.平台,台;站台,月台;政纲,党纲",
+      "similar": [
+        "perform"
+      ],
+      "question": {
+        "wordId": "platform",
+        "stem": "选择 \"platform\" 的正确中文意思：",
+        "correct": "n.平台,台;站台,月台;政纲,党纲",
+        "options": [
+          "a.巨大的,极大的",
+          "v.履行,执行;表演,演出;完成(事业)",
+          "conj.(用于形容词，副词的比较级之后)比",
+          "n.平台,台;站台,月台;政纲,党纲"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "plat（平）+ form（形状）→ 平的形状 → 平台。本义是水平台面，引申为车站月台（乘客站立的平面），再抽象化为政治纲领（各党派站立发表主张的平面）。",
+        "similarWarning": "platform vs perform：platform含form（形状），指物理平面；perform含form（形式），指执行形式动作。",
+        "extendedMeaning": "政纲，党纲（政治主张的公开平台）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "plausible",
+      "word": "plausible",
+      "phonetic": "/'plɔ:zəble/",
+      "meaning": "a.似是而非的,似乎合理的,似乎可信的",
+      "similar": [
+        "feasible"
+      ],
+      "question": {
+        "wordId": "plausible",
+        "stem": "选择 \"plausible\" 的正确中文意思：",
+        "correct": "a.似是而非的,似乎合理的,似乎可信的",
+        "options": [
+          "n.清晰,明晰",
+          "n.连载小说，连续剧；连载刊物 a.连续的",
+          "a.可行的;切实可行的;行得通的;可用的",
+          "a.似是而非的,似乎合理的,似乎可信的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根plaus-（鼓掌，拍手）→ 能引起鼓掌的 → 表面上值得称赞的 → 引申为看似合理但未必真实。词源同applause（喝彩），-ible表被动能力，字面即“值得鼓掌的”，强调表面可信而非事实可靠。",
+        "similarWarning": "plausible vs feasible vs possible：plausible强调“表面看似合理”，侧重主观可信度；feasible指“技术上可行”，侧重实现可能性；possible指“可能存在或发生”，范围最广。",
+        "extendedMeaning": "考研僻义：指人“巧言令色的，花言巧语的”，如a plausible liar（一个巧舌如簧的骗子）。",
+        "examUsage": "真题考点：常考反义词辨析，如plausible与actual/genuine对立，常见搭配plausible explanation（看似合理的解释），干扰项常设为possible或probable。"
+      }
+    },
+    {
+      "id": "playground",
+      "word": "playground",
+      "phonetic": "/'pleɪgraund/",
+      "meaning": "n.运动场,游戏场",
+      "similar": [
+        "background"
+      ],
+      "question": {
+        "wordId": "playground",
+        "stem": "选择 \"playground\" 的正确中文意思：",
+        "correct": "n.运动场,游戏场",
+        "options": [
+          "v.承担,担任;许诺,保证;着手,从事",
+          "num.十一 pron./a.十一(个，只...)",
+          "n.背景,经历；幕后",
+          "n.运动场,游戏场"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "play（玩耍）+ ground（场地）→ 玩耍的场地，即运动场或游戏场。词源上直接组合，无复杂演变。",
+        "similarWarning": "background（背景）：back（后面）+ ground（地面）→ 背后的地面，即背景。与playground仅首字母不同，注意区分。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "plea",
+      "word": "plea",
+      "phonetic": "/pli:/",
+      "meaning": "n.(法律)抗辩；请求，恳求，托词，口实",
+      "similar": [
+        "plead",
+        "pea",
+        "please",
+        "bleak"
+      ],
+      "question": {
+        "wordId": "plea",
+        "stem": "选择 \"plea\" 的正确中文意思：",
+        "correct": "n.(法律)抗辩；请求，恳求，托词，口实",
+        "options": [
+          "n.(法律)抗辩；请求，恳求，托词，口实",
+          "v.恳求,请求;为…辩护;提出…为理由",
+          "n.豌豆",
+          "v.请;使愉快,使满意;喜欢,愿意"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源来自拉丁语placitum（意见、法令），原指法律上正式的答辩或申辩。核心动作是“陈述立场以争取支持”，引申为“恳求”或“托词”。",
+        "similarWarning": "plead（恳求，辩护）是动词，词尾-d表动作；pea（豌豆）仅差字母l；please（取悦）含-ease（舒适）表状态；bleak（荒凉的）首字母b表负面；clean（清洁）首字母c表纯净；clear（清晰的）首字母c表透明。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    }
+  ]
+}

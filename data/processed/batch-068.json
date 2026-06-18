@@ -1,0 +1,1755 @@
+{
+  "batchId": 68,
+  "words": [
+    {
+      "id": "robe",
+      "word": "robe",
+      "phonetic": "/rəub/",
+      "meaning": "n.长袍,上衣",
+      "similar": [
+        "probe",
+        "rob",
+        "rope",
+        "rose",
+        "bribe",
+        "globe",
+        "grope",
+        "noble"
+      ],
+      "question": {
+        "wordId": "robe",
+        "stem": "选择 \"robe\" 的正确中文意思：",
+        "correct": "n.长袍,上衣",
+        "options": [
+          "n.绳,索",
+          "v.(of)抢劫,盗取;非法剥夺",
+          "n.探针,探测器 v.(以探针等)探查,穿刺,查究",
+          "n.长袍,上衣"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古法语 robe（长袍），源自日耳曼语 rauba（战利品、衣服）。核心物理动作是“包裹、覆盖身体”，引申为正式或仪式用长袍。",
+        "similarWarning": "probe（探索，探针）：p 像探针插入；robe（长袍）：r 像包裹的弧线。rob（抢劫，掠夺）：缺 e，动作是抢夺；role（角色，作用）：l 像扮演的角色线；rope（绳子）：p 像绳结；rose（玫瑰）：s 像花茎；bribe（贿赂）：b 像收买的手；globe（地球）：g 像球体；grope（摸索）：g 像摸索的手。",
+        "extendedMeaning": "（无常见考研僻义）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "robot",
+      "word": "robot",
+      "phonetic": "/'rəubɔt/",
+      "meaning": "n.机器人,自动机械",
+      "similar": [
+        "root",
+        "robust",
+        "rob",
+        "rot",
+        "boot",
+        "riot",
+        "robe",
+        "roof"
+      ],
+      "question": {
+        "wordId": "robot",
+        "stem": "选择 \"robot\" 的正确中文意思：",
+        "correct": "n.机器人,自动机械",
+        "options": [
+          "a.强健的,雄壮的,精力充沛的,坚固的,浓的",
+          "v.(of)抢劫,盗取;非法剥夺",
+          "n.机器人,自动机械",
+          "n.根,根部;根本,根源 v.(使)生根,(使)扎根"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自捷克语'robota'（强制劳动、苦役），词根rob-意为'工作、劳动'，-ot为名词后缀。核心物理动作是'被强制做重复性劳动的人或机器'，引申为能自动执行任务的机械装置。",
+        "similarWarning": "root（根，词根）：区别在于robot有-bot结尾，root无b；robust（强健的）：robot多一个t，且含义不同；rob（抢劫）：robot多一个ot；rot（腐烂）：拼写仅差b；boot（靴子）：首字母b换为r；foot（脚）：首字母f换为r；riot（暴乱）：拼写仅差b和t位置；robe（长袍）：末尾t换为e。",
+        "extendedMeaning": "在考研阅读中可引申为'自动化系统、程序化行为'，如：industrial robot（工业机器人）之外的'software robot'（软件机器人/机器人程序），或比喻'机械般行事的人'。",
+        "examUsage": "无特殊考点，省略。"
+      }
+    },
+    {
+      "id": "robust",
+      "word": "robust",
+      "phonetic": "/rəu'bʌst/",
+      "meaning": "a.强健的,雄壮的,精力充沛的,坚固的,浓的",
+      "similar": [
+        "rust",
+        "roast",
+        "robot",
+        "rouse"
+      ],
+      "question": {
+        "wordId": "robust",
+        "stem": "选择 \"robust\" 的正确中文意思：",
+        "correct": "a.强健的,雄壮的,精力充沛的,坚固的,浓的",
+        "options": [
+          "n.机器人,自动机械",
+          "n.铁锈 v.(使)生锈",
+          "v.烤,炙,烘",
+          "a.强健的,雄壮的,精力充沛的,坚固的,浓的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'robur'（橡木、力量），橡木以坚硬、坚固著称，词根rob-（力量）+ -ust（形容词后缀）→具有力量的→强健的、坚固的。核心物理动作：像橡木一样坚实有力。",
+        "similarWarning": "rust（铁锈，n./v.）：robust含字母b和u，rust少b和o，词义无关；roast（烤，v.）：robust含b和u，roast含a和t，拼写差异明显；robot（机器人，n.）：robust含u和s，robot含o和t，词源不同；rouse（唤醒，v.）：robust含b和t，rouse含o和e，注意区分。",
+        "extendedMeaning": "在考研外刊中可引申为‘（系统、经济等）强劲的、稳健的’，如robust economy（强劲的经济）；亦指‘（辩论、观点等）激烈的、有力的’，如robust debate（激烈的辩论）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "rocket",
+      "word": "rocket",
+      "phonetic": "/'rɔkit/",
+      "meaning": "n.火箭",
+      "similar": [
+        "racket",
+        "bracket",
+        "cricket",
+        "bucket",
+        "jacket",
+        "locker",
+        "packet",
+        "ticket"
+      ],
+      "question": {
+        "wordId": "rocket",
+        "stem": "选择 \"rocket\" 的正确中文意思：",
+        "correct": "n.火箭",
+        "options": [
+          "n.板球;蟋蟀",
+          "n.球拍",
+          "n.火箭",
+          "n.(方)括号"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自意大利语rocchetto，原指‘纺锤’或‘绕线筒’，因其形状细长类似早期火箭，后借指‘火箭’。核心物理动作：纺锤旋转缠绕→飞行器推进。",
+        "similarWarning": "pocket（口袋）、racket（球拍/喧闹）、bracket（支架/括号）、cricket（板球/蟋蟀）——注意首字母r/p区别，rocket强调‘火箭’；rock（岩石）与rocket仅差et，但词义迥异。",
+        "extendedMeaning": "考研中常引申为‘急剧增长’或‘飞速上升’，如prices rocket（价格飞涨），非字面‘火箭’。",
+        "examUsage": "真题考点：搭配rocket to fame（一举成名），或作动词rocketed（飙升），常与soar同现，考查经济或科技类语境中的趋势描述。"
+      }
+    },
+    {
+      "id": "rod",
+      "word": "rod",
+      "phonetic": "/rɒd/",
+      "meaning": "n.杆,棒",
+      "similar": [
+        "nod",
+        "red",
+        "rid",
+        "rob",
+        "rot",
+        "row",
+        "broad",
+        "crowd"
+      ],
+      "question": {
+        "wordId": "rod",
+        "stem": "选择 \"rod\" 的正确中文意思：",
+        "correct": "n.杆,棒",
+        "options": [
+          "n.杆,棒",
+          "v.点(头),点头招呼 n.点头招呼;打盹,瞌睡",
+          "a.红的，红色的 n.红色；红色颜料",
+          "v.(of)使摆脱,使去掉"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根rod-（枝条、杆）的变体，原始印欧语根*reid-（刮、擦）的衍生，指细长、坚硬的条状物，核心物理动作为“细长硬物”。",
+        "similarWarning": "road（路，n.） vs rod（杆，n.）：road含字母a代表“通路”；rod不含a，表“杆”。red（红色，adj.） vs rod：e/i元音差异。rid（摆脱，v.） vs rod：i/o元音差异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "roll",
+      "word": "roll",
+      "phonetic": "/rəul/",
+      "meaning": "v.滚动;使摇摆;卷,卷起 n.卷,卷形物;名单",
+      "similar": [
+        "doll",
+        "poll",
+        "toll",
+        "enroll",
+        "stroll",
+        "drill",
+        "jolly",
+        "rally"
+      ],
+      "question": {
+        "wordId": "roll",
+        "stem": "选择 \"roll\" 的正确中文意思：",
+        "correct": "v.滚动;使摇摆;卷,卷起 n.卷,卷形物;名单",
+        "options": [
+          "v.滚动;使摇摆;卷,卷起 n.卷,卷形物;名单",
+          "n.玩偶,玩具娃娃",
+          "n.民意测验;(pl.)政治选举 v.获得…选票",
+          "n.(道路、桥等的)通行费；牺牲；死伤人数"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为拉丁语rotula（小轮子），与rotate同源。核心物理动作：一个圆形物体绕其轴心连续转动（如球滚动），或使平面物体弯曲成筒状（如卷纸）。从‘滚动’引申为‘使摇摆’（如船在浪中摇动），从‘卷起’引申为‘卷形物’（如纸卷、面包卷），从‘卷起名单’的古老习俗（将名字写在羊皮卷上）引申为‘名单’。",
+        "similarWarning": "doll（玩偶，双l结尾，元音o短音，指玩具）；poll（投票，首字母p，与‘人头’相关，poll tax人头税）；role（角色，首字母r+ole，与roll差一个l，指功能或身份）；toll（通行费/钟声，首字母t，与roll差t，指费用或鸣响）；enroll（登记，en-进入+roll名单，强调加入）；stroll（散步，st-站立+roll滚动，指缓慢移动）；drill（钻孔/训练，d+rill，与roll差d，指旋转钻孔或重复操练）；jolly（欢乐的，j+olly，与roll差j，指愉悦情绪）。注意roll与role拼写仅差一个l，但词义无关联。",
+        "extendedMeaning": "在考研中，‘roll’常以熟词僻义形式出现，如‘roll out’（推出/实施，非字面‘滚出’），例如‘roll out a new policy’；‘roll up’（卷起/到达，非字面‘卷上’），例如‘roll up one’s sleeves’（卷起袖子准备行动）；‘roll in’（大量涌入，非字面‘滚进’），例如‘money is rolling in’。此外，在经济学类文章中，‘roll’可指‘滚动续期’，如‘roll over debt’（债务展期）。",
+        "examUsage": "真题高频考点：短语‘roll back’（削减/逆转，如roll back prices降低价格）常作为阅读理解中的动作描述；‘roll call’（点名）在完形填空中可能作为固定搭配干扰项；注意区分‘roll’与‘stroll’（散步）在语境中的不同：roll强调旋转运动，stroll强调悠闲步行。例句：The government decided to roll back the tax increase.（政府决定削减增税措施。）"
+      }
+    },
+    {
+      "id": "romance",
+      "word": "romance",
+      "phonetic": "/rəu'mæns/",
+      "meaning": "n.传奇,爱情故事",
+      "similar": [
+        "commence",
+        "province",
+        "reliance",
+        "romantic"
+      ],
+      "question": {
+        "wordId": "romance",
+        "stem": "选择 \"romance\" 的正确中文意思：",
+        "correct": "n.传奇,爱情故事",
+        "options": [
+          "n.传奇,爱情故事",
+          "vt.开始 vi.获得学位",
+          "n.信任,信心,依靠,依靠的人或物",
+          "n.省;领域,范围,本分"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语Romanus（罗马的），原指罗马人使用的语言（通俗拉丁语），后特指用这种语言创作的骑士史诗或冒险故事，核心动作是“讲述罗马式的传奇故事”，引申为“爱情故事”或“浪漫关系”。",
+        "similarWarning": "commence（开始）与romance拼写差异在c-开头和结尾-ce，词义无关；province（省份）差异在pro-前缀和结尾-ce，指行政区域；reliance（依赖）差异在re-前缀和结尾-ance，指信任；romantic（浪漫的）是romance的形容词形式，拼写多-tic。",
+        "extendedMeaning": "考研僻义：指“虚构的夸张故事或浪漫幻想”，如“the romance of the Wild West”（西部荒野的传奇色彩），强调不切实际的想象或理想化描述。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "romantic",
+      "word": "romantic",
+      "phonetic": "/rəu'mæntik/",
+      "meaning": "a.浪漫的,传奇式的;不切实际的,好幻想的",
+      "similar": [
+        "romance",
+        "domestic",
+        "dramatic",
+        "gigantic"
+      ],
+      "question": {
+        "wordId": "romantic",
+        "stem": "选择 \"romantic\" 的正确中文意思：",
+        "correct": "a.浪漫的,传奇式的;不切实际的,好幻想的",
+        "options": [
+          "a.戏剧的,戏剧性的;剧烈的",
+          "a.浪漫的,传奇式的;不切实际的,好幻想的",
+          "n.传奇,爱情故事",
+          "a.家里的;本国的;驯养的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语Romanicus（罗马式的），原指中世纪欧洲用罗曼语（拉丁语方言）创作的传奇故事或诗歌，这些作品多描写骑士冒险与爱情，带有理想化色彩。核心动作是“脱离现实、想象虚构”，后引申为“浪漫的、传奇的”及“不切实际的、好幻想的”。",
+        "similarWarning": "romance（n.浪漫史/爱情故事）与romantic同源，但词性不同；domestic（a.国内的/家庭的）源自domus（家），与romantic无词源关联；dramatic（a.戏剧的/剧烈的）源自drama（戏剧），强调表演性；gigantic（a.巨大的）源自巨人族，与romantic无直接联系。",
+        "extendedMeaning": "在考研阅读中常出现贬义色彩，如“不切实际的、空想的”（unrealistic, idealistic），用于批评脱离现实的观点或计划。例如：romantic notions about the past（对过去不切实际的幻想）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "roof",
+      "word": "roof",
+      "phonetic": "/ru:f/",
+      "meaning": "n.屋顶,顶",
+      "similar": [
+        "proof",
+        "root",
+        "brook",
+        "broom",
+        "robot",
+        "troop"
+      ],
+      "question": {
+        "wordId": "roof",
+        "stem": "选择 \"roof\" 的正确中文意思：",
+        "correct": "n.屋顶,顶",
+        "options": [
+          "n.小溪vt.[常用于否定句或疑问句]容忍",
+          "n.证据,证明;校样,样张",
+          "n.根,根部;根本,根源 v.(使)生根,(使)扎根",
+          "n.屋顶,顶"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，核心物理动作指建筑物顶部覆盖物，引申为任何事物的顶部或最高点。",
+        "similarWarning": "proof(证据/防…的，p-前缀表前/防，roof指顶) vs room(房间，m表空间) vs root(根，t表扎根) vs brook(小溪，brook与roof无直接关联) vs broom(扫帚，b-表扫) vs robot(机器人，borrowed) vs troop(军队，t-表群) ",
+        "extendedMeaning": "（无特殊僻义，该词在考研中主要考察本义及基本搭配）",
+        "examUsage": "（基础简单词，省略考点）"
+      }
+    },
+    {
+      "id": "root",
+      "word": "root",
+      "phonetic": "/ru:t/",
+      "meaning": "n.根,根部;根本,根源 v.(使)生根,(使)扎根",
+      "similar": [
+        "robot",
+        "rot",
+        "boot",
+        "riot",
+        "roof",
+        "boost",
+        "booth",
+        "brook"
+      ],
+      "question": {
+        "wordId": "root",
+        "stem": "选择 \"root\" 的正确中文意思：",
+        "correct": "n.根,根部;根本,根源 v.(使)生根,(使)扎根",
+        "options": [
+          "n.根,根部;根本,根源 v.(使)生根,(使)扎根",
+          "n.机器人,自动机械",
+          "v.(使)腐烂,(使)腐败,腐朽",
+          "n.靴；(汽车后部的)行李箱；[the-]解雇"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "root 源自古英语 rōt，与拉丁语 radix（根）同源，核心物理动作为“向下生长、固定、吸收”。作为名词指植物埋在地下的部分，引申为事物最基础的来源或原因（根源）。作为动词表示“使扎根”，即固定下来。词根逻辑清晰，无需复杂比喻。",
+        "similarWarning": "形近词辨析：robot（机器人） vs root（根），区别在于 bot 与 oot；rot（腐烂） vs root，区别在于 r 与 t 位置互换；boot（靴子） vs root，b 替换 r；foot（脚） vs root，f 替换 r；riot（暴乱） vs root，i 替换 o 且无 o；roof（屋顶） vs root，f 替换 t；room（房间） vs root，m 替换 t；boost（促进） vs root，b 开头且加 s。核心差异在于首字母或末尾字母，注意拼写避免混淆。",
+        "extendedMeaning": "考研僻义：在数学或编程语境中，root 可表示“根（方程的解）”，如 square root（平方根）；在组织或结构中，root 可指“根源”或“根基”，如 root cause（根本原因）。这些并非基础释义，但真题中偶有出现。",
+        "examUsage": "真题考点：固定搭配 take root（扎根、固定下来）和 root out（根除、彻底清除）是考研阅读和完形中的高频题眼。例如：\"The idea took root in the 19th century.\"（这个想法在19世纪扎根。）\"We must root out corruption.\"（我们必须根除腐败。）注意 root 作动词时与介词 out 搭配表示“铲除”。"
+      }
+    },
+    {
+      "id": "rope",
+      "word": "rope",
+      "phonetic": "/rəup/",
+      "meaning": "n.绳,索",
+      "similar": [
+        "grope",
+        "cope",
+        "pope",
+        "rape",
+        "ripe",
+        "robe",
+        "rose",
+        "propel"
+      ],
+      "question": {
+        "wordId": "rope",
+        "stem": "选择 \"rope\" 的正确中文意思：",
+        "correct": "n.绳,索",
+        "options": [
+          "n.绳,索",
+          "n./v.摸索,探索",
+          "v.(with)竞争,对抗;(with)对付,妥善处理",
+          "n.罗马教皇,主教,大腿上要害部位"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根来自古英语rap，原指编织的粗纤维束，核心物理动作是“缠绕、捆绑”，引申为将物体连接或约束的工具。",
+        "similarWarning": "rope vs grope: rope无g，grope意为摸索；rope vs cope: rope含r，cope意为应对；rope vs rape: rope含o，rape意为强奸/油菜；rope vs ripe: rope含o，ripe意为成熟的。",
+        "extendedMeaning": "在考研中可作动词，意为“用绳系住”或“用绳围住”，如rope off（用绳隔开）；亦指“束缚、限制”，如be roped into（被拉入/骗去做某事）。",
+        "examUsage": "常见考点：及物动词用法rope sb. into doing sth.（说服/欺骗某人做某事），真题中可作为干扰项与tie, bind等辨析。"
+      }
+    },
+    {
+      "id": "rose",
+      "word": "rose",
+      "phonetic": "/rəuz/",
+      "meaning": "n.玫瑰,蔷薇",
+      "similar": [
+        "prose",
+        "rouse",
+        "dose",
+        "hose",
+        "nose",
+        "pose",
+        "robe",
+        "rope"
+      ],
+      "question": {
+        "wordId": "rose",
+        "stem": "选择 \"rose\" 的正确中文意思：",
+        "correct": "n.玫瑰,蔷薇",
+        "options": [
+          "n.玫瑰,蔷薇",
+          "vt./vi.唤醒，唤起；激励；激起",
+          "n.剂量,一服,一剂 v.(给…)服药",
+          "n.散文 a.散文的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'rosa'，本义为“玫瑰植物”，词根直接对应中文释义，无复杂词源演变。",
+        "similarWarning": "形近词对比：\n- rose vs. rise: rose 是“玫瑰”，rise 是“上升”，中间字母 'o' vs. 'i'。\n- rose vs. prose: prose 是“散文”，多一个字母 'p' 开头。\n- rose vs. lose: lose 是“丢失”，首字母 'l' vs. 'r'。",
+        "extendedMeaning": "在考研中无高频僻义，基本保留“玫瑰”或“蔷薇”本义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "rot",
+      "word": "rot",
+      "phonetic": "/rɔt/",
+      "meaning": "v.(使)腐烂,(使)腐败,腐朽",
+      "similar": [
+        "riot",
+        "root",
+        "dot",
+        "lot",
+        "pot",
+        "rat",
+        "rob",
+        "rod"
+      ],
+      "question": {
+        "wordId": "rot",
+        "stem": "选择 \"rot\" 的正确中文意思：",
+        "correct": "v.(使)腐烂,(使)腐败,腐朽",
+        "options": [
+          "v.(使)腐烂,(使)腐败,腐朽",
+          "n.暴(骚)乱,蔓延,彩色缤纷 v.骚乱,暴动",
+          "n.根,根部;根本,根源 v.(使)生根,(使)扎根",
+          "n.点,圆点 v.在…上打点"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根rot-源自拉丁语‘putrefy’，核心物理动作为‘分解、变质’。本义指有机体因微生物作用而逐渐崩解、腐败。",
+        "similarWarning": "riot（暴乱，r-i-o-t）强调‘混乱’；root（根，r-o-o-t）多两个o，指‘根源’；rot（腐烂）与rat（老鼠，r-a-t）仅元音差异，rat是动物。",
+        "extendedMeaning": "在考研中可引申为‘（制度、道德等）腐败、衰败’，如‘the rot in the government’（政府中的腐败）。",
+        "examUsage": "常考搭配：rot away（腐烂掉/衰败），如‘The old wooden bridge had rotted away.’；也用于‘stop the rot’（遏制颓势/防止恶化），为真题中经济/社会类文章高频短语。"
+      }
+    },
+    {
+      "id": "rotary",
+      "word": "rotary",
+      "phonetic": "/'rəutəri/",
+      "meaning": "a.旋转的",
+      "similar": [
+        "roar",
+        "rotate",
+        "contrary",
+        "monetary",
+        "solitary"
+      ],
+      "question": {
+        "wordId": "rotary",
+        "stem": "选择 \"rotary\" 的正确中文意思：",
+        "correct": "a.旋转的",
+        "options": [
+          "a.(to)相反的,矛盾的 n.反对,矛盾;相反",
+          "a.旋转的",
+          "n./v.吼叫,怒号;轰鸣,咆哮",
+          "v.(使)旋转"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根rot-（转）+ -ary（形容词后缀，表“与…有关的”）。核心物理动作是“围绕轴心转动”，如轮子旋转。",
+        "similarWarning": "roar (咆哮，词根不同，r-开头但无转义) vs rotary (旋转)；contrary (相反的，词根contr-表对立) vs rotary (转的，强调圆周运动)；monetary (货币的，词根monet-表钱) vs rotary (旋转的)；solitary (孤独的，词根sol-表单独) vs rotary (旋转的)。拼写差异：rotary含t-ary，易混词多含不同词根。",
+        "extendedMeaning": "考研中常引申为“循环的、轮流的”，如rotary system（轮换制度），非仅指物理旋转。亦可用于抽象概念，如rotary motion（循环运动）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "rotate",
+      "word": "rotate",
+      "phonetic": "/rəu'teit/",
+      "meaning": "v.(使)旋转",
+      "similar": [
+        "rate",
+        "route",
+        "donate",
+        "estate",
+        "locate",
+        "potato",
+        "relate",
+        "rotary"
+      ],
+      "question": {
+        "wordId": "rotate",
+        "stem": "选择 \"rotate\" 的正确中文意思：",
+        "correct": "v.(使)旋转",
+        "options": [
+          "n.路线,路程",
+          "vt.损赠(金钱等);赠予",
+          "n.速率;等级;价格,费用 v.估价;评级,评价",
+          "v.(使)旋转"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根rot（轮子，转动）+ 动词后缀-ate → 使像轮子一样转动。核心物理动作为：围绕一个中心点做圆周运动。",
+        "similarWarning": "rate（比率，速度） vs rotate：rate去掉字母o和t，核心是“评估/比率”；route（路线） vs rotate：route去掉字母a和t，核心是“路径”；rotate强调“转动”的动作，而非路径或比率。",
+        "extendedMeaning": "在考研外刊中，rotate可引申为“轮换，交替”，如rotate crops（轮作庄稼）、rotate jobs（岗位轮换），强调有规律的周期性更替。",
+        "examUsage": "真题考点：rotate与revolve、spin的区别。revolve强调围绕外部中心转，spin强调自身快速旋转，rotate侧重围绕自身轴心转或轮换。固定搭配：rotate around（围绕...旋转；以...为中心）。"
+      }
+    },
+    {
+      "id": "rotten",
+      "word": "rotten",
+      "phonetic": "/'rɔtən/",
+      "meaning": "a.腐烂的,腐朽的",
+      "similar": [
+        "route",
+        "cotton",
+        "rotate"
+      ],
+      "question": {
+        "wordId": "rotten",
+        "stem": "选择 \"rotten\" 的正确中文意思：",
+        "correct": "a.腐烂的,腐朽的",
+        "options": [
+          "v.(使)旋转",
+          "n.棉花;棉线,棉纱;棉制品",
+          "n.路线,路程",
+          "a.腐烂的,腐朽的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根rot-（旋转、腐烂），源自拉丁语rumpere（打破、腐败），-en形容词后缀。核心动作：物质结构因分解而崩坏、变质的过程。",
+        "similarWarning": "rotten vs often（经常）：前者含rot-（腐烂），后者含of-（反复）+t-en；rotten vs route（路线）：前者元音o+双t，后者ou+单t；rotten vs cotton（棉花）：前者r开头，后者c开头，且词义无关。",
+        "extendedMeaning": "1.（道德、社会）腐败的，堕落的：The system is rotten to the core.（这个制度烂到根了。）2.（天气）恶劣的，糟糕的：We had rotten weather all week.（我们整周遭遇恶劣天气。）3.（质量）极差的：That movie was rotten.（那部电影糟透了。）",
+        "examUsage": "真题中常考固定搭配：rotten to the core（腐烂透顶，彻底腐烂），用于批判制度或组织；feel rotten（感到不舒服/愧疚），如：I feel rotten about lying to him.（我对骗他感到愧疚。）"
+      }
+    },
+    {
+      "id": "rough",
+      "word": "rough",
+      "phonetic": "/rʌf/",
+      "meaning": "a.粗糙的;粗略的,大致的;粗野的,粗暴的",
+      "similar": [
+        "cough",
+        "tough",
+        "drought",
+        "plough",
+        "though",
+        "rug",
+        "rush",
+        "couch"
+      ],
+      "question": {
+        "wordId": "rough",
+        "stem": "选择 \"rough\" 的正确中文意思：",
+        "correct": "a.粗糙的;粗略的,大致的;粗野的,粗暴的",
+        "options": [
+          "a.坚韧的,棘手的;强健的,吃苦耐劳的;粗暴的",
+          "v./n.咳嗽",
+          "n.旱灾,干旱",
+          "a.粗糙的;粗略的,大致的;粗野的,粗暴的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根来源于古英语‘ruh’，意为‘粗糙的、多毛的’。核心物理动作是表面不平整，引申为‘粗略的’（未经精细加工）、‘粗暴的’（行为不细腻）。",
+        "similarWarning": "cough（咳嗽，加c-）vs rough（粗糙）；tough（坚韧的，t-替换r-）vs rough；drought（干旱，-d-替换f）vs rough；through（通过，th-替换r-）vs rough；enough（足够，e-前缀）vs rough；plough（犁，p-替换r-）vs rough；though（虽然，th-替换r-）vs rough；rug（小地毯，无-gh）vs rough。",
+        "extendedMeaning": "考研僻义：a. 艰难的，不愉快的（如rough time）；ad. 粗暴地（如play rough）。",
+        "examUsage": "真题考点：固定搭配‘roughly speaking’（大致说来）常用于写作；‘rough estimate’（粗略估计）在阅读中表数量；‘rough and tough’（粗暴的）形容性格。干扰项常与tough混淆，注意rough侧重表面不平，tough侧重坚韧。"
+      }
+    },
+    {
+      "id": "roundabout",
+      "word": "roundabout",
+      "phonetic": "/'raundəˌbaut/",
+      "meaning": "a.迂回的,转弯抹角的 n.环状交叉路口",
+      "similar": [],
+      "question": {
+        "wordId": "roundabout",
+        "stem": "选择 \"roundabout\" 的正确中文意思：",
+        "correct": "a.迂回的,转弯抹角的 n.环状交叉路口",
+        "options": [
+          "a.迂回的,转弯抹角的 n.环状交叉路口",
+          "a.(of)妒忌的;猜疑的,警惕的",
+          "n.练习,习题;训练,锻练 v.训练,锻练;行使",
+          "n.光荣,荣誉"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由round（圆形的、绕圈）+ about（周围、附近）合成，核心动作意象是“绕着圈走”。形容词义指不直接、绕弯子的方式，名词义指车辆绕圈通行的环形路口。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为“间接的、不直截了当的”，如a roundabout way of saying sth（拐弯抹角地说某事），非字面指环岛。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "rouse",
+      "word": "rouse",
+      "phonetic": "/rauz/",
+      "meaning": "vt./vi.唤醒，唤起；激励；激起",
+      "similar": [
+        "arouse",
+        "rose",
+        "mouse",
+        "route",
+        "blouse",
+        "browse",
+        "refuse",
+        "robust"
+      ],
+      "question": {
+        "wordId": "rouse",
+        "stem": "选择 \"rouse\" 的正确中文意思：",
+        "correct": "vt./vi.唤醒，唤起；激励；激起",
+        "options": [
+          "n.(pl.mice)鼠,耗子",
+          "n.玫瑰,蔷薇",
+          "vt.唤醒，叫醒；唤起，激起",
+          "vt./vi.唤醒，唤起；激励；激起"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源来自中古英语rousen，可能与古挪威语rūsa（唤醒）有关。核心物理动作是‘从睡眠或静止状态中猛然拉出’，引申为唤醒意识或激发情感。",
+        "similarWarning": "rouse vs arouse：rouse强调直接唤醒（如从睡眠中叫醒），arouse侧重引发情绪或兴趣（如arousesuspicion）。对比rose（玫瑰）仅差一字母，注意拼写差异。",
+        "extendedMeaning": "在考研阅读中可引申为‘激起（强烈情感/反应）’，如rouse public anger（激起公愤），或‘激励（行动）’，如rouse sb to action。",
+        "examUsage": "真题中常与arouse构成干扰项，注意辨析：rouse sb from sleep（叫醒） vs arouse interest（引起兴趣）。固定搭配：rouse up（唤醒，激起）。"
+      }
+    },
+    {
+      "id": "route",
+      "word": "route",
+      "phonetic": "/ru:t/",
+      "meaning": "n.路线,路程",
+      "similar": [
+        "rouse",
+        "routine",
+        "arouse",
+        "refute",
+        "rotate",
+        "rotten",
+        "rot",
+        "mute"
+      ],
+      "question": {
+        "wordId": "route",
+        "stem": "选择 \"route\" 的正确中文意思：",
+        "correct": "n.路线,路程",
+        "options": [
+          "vt.唤醒，叫醒；唤起，激起",
+          "vt./vi.唤醒，唤起；激励；激起",
+          "n.路线,路程",
+          "n.例行公事,常规 a.常规的,例行的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自古法语rute,拉丁语rupta via (打破的路)，词根rupt- (打破) + -e。核心物理动作：打破障碍开辟出的路径→路线，路程。",
+        "similarWarning": "route vs. rouse: route有t(路径)，rouse有s(唤醒)，区别在于中间字母t/s。route vs. routine: routine是route+ine(形容词后缀)，表示常规路线→例行公事。route vs. arouse: arouse是a+rouse，与route无直接关联，注意拼写差异。route vs. refute: refute有fute(驳斥)，route无f。",
+        "extendedMeaning": "考研僻义：v.按特定路线发送(如route calls路由电话)；n.途径，方法(如the route to success成功的途径)。",
+        "examUsage": "真题考点：en route (在途中，来自法语)，常见于阅读中表示行程进展；route常与path, course辨析，route侧重固定或规划的路线。"
+      }
+    },
+    {
+      "id": "routine",
+      "word": "routine",
+      "phonetic": "/ru:'ti:n/",
+      "meaning": "n.例行公事,常规 a.常规的,例行的",
+      "similar": [
+        "route",
+        "outing",
+        "outline",
+        "continue"
+      ],
+      "question": {
+        "wordId": "routine",
+        "stem": "选择 \"routine\" 的正确中文意思：",
+        "correct": "n.例行公事,常规 a.常规的,例行的",
+        "options": [
+          "n.例行公事,常规 a.常规的,例行的",
+          "n.路线,路程",
+          "n.外出,旅行,散步",
+          "n.轮廓,略图;大纲,梗概 v.概述,略述"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自法语‘route’（路），本义是‘走出来的路’。引申为‘习惯走的路径’，即‘例行公事、常规’。词根‘rout-’=路，后缀‘-ine’表‘…的’。核心动作：沿固定路径行走→按固定程序办事。",
+        "similarWarning": "route（路线，/ruːt/）与routine差‘ine’；outing（短途旅行，/'aʊtɪŋ/）首字母不同；outline（轮廓，/'aʊtlaɪn/）拆解为out+line；continue（继续，/kən'tɪnjuː/）词根tin-表‘保持’，与routine无关。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "真题常考搭配‘daily routine’（日常事务）及‘break the routine’（打破常规）。干扰项常将routine误作route（路线），需注意语境区分。"
+      }
+    },
+    {
+      "id": "row",
+      "word": "row",
+      "phonetic": "/rəu/",
+      "meaning": "n.(一)排，(一)行；吵嚷 v.划(船等)，荡桨",
+      "similar": [
+        "brow",
+        "crow",
+        "bow",
+        "cow",
+        "how",
+        "raw",
+        "rob",
+        "rod"
+      ],
+      "question": {
+        "wordId": "row",
+        "stem": "选择 \"row\" 的正确中文意思：",
+        "correct": "n.(一)排，(一)行；吵嚷 v.划(船等)，荡桨",
+        "options": [
+          "n.乌鸦 v./n.鸡啼,鸣叫",
+          "n.眉(毛);额",
+          "v./n.鞠躬,点头 n.弓(形);蝴蝶结",
+          "n.(一)排，(一)行；吵嚷 v.划(船等)，荡桨"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "row 本义与‘排’相关，源自原始日耳曼语 *raiwō，指‘线、列’。引申为‘划船’源于划船时船桨的整齐排列动作；‘吵嚷’义来自排成行的人争吵或船桨划水的嘈杂声。核心动作：线性排列或往复运动。",
+        "similarWarning": "brow（眉毛，额头） vs row：b-替代r-，词源不同；crow（乌鸦） vs row：c-替换r-，指鸟类；grow（生长） vs row：g-前缀，表增长；bow（弓，鞠躬） vs row：b-替换r-，指向弯曲动作；cow（母牛） vs row：c-替换r-，指动物；how（如何） vs row：h-替换r-，疑问词；low（低的） vs row：l-替换r-，表高度；now（现在） vs row：n-替换r-，表时间。",
+        "extendedMeaning": "考研中 row 作名词可表‘连续’（a row of houses），作动词‘划船’常引申为‘奋力前进’（row against the current），‘吵嚷’义可表‘激烈争论’（have a row with）。",
+        "examUsage": "考点：in a row 连续地（真题例句：He won the championship three years in a row.）；row 与 argue 同义替换（真题干扰项：row vs. quarrel）。"
+      }
+    },
+    {
+      "id": "royal",
+      "word": "royal",
+      "phonetic": "/'rɔiəl/",
+      "meaning": "a.王室的,皇家的;第一流的,高贵的",
+      "similar": [
+        "loyal",
+        "royalty",
+        "coal",
+        "goal",
+        "oral",
+        "oval",
+        "roar",
+        "roll"
+      ],
+      "question": {
+        "wordId": "royal",
+        "stem": "选择 \"royal\" 的正确中文意思：",
+        "correct": "a.王室的,皇家的;第一流的,高贵的",
+        "options": [
+          "n.煤,煤块",
+          "n.皇家,皇族",
+          "a.(to)忠诚的,忠贞的",
+          "a.王室的,皇家的;第一流的,高贵的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'regalis'（国王的），词根 'reg-'（统治，指引）→ 'royal' 直接表示“属于国王的”，核心动作是“统治者的所有物”。",
+        "similarWarning": "loyal（忠诚的） vs royal（王室的）：loyal 源自拉丁语 'legalis'（法律的），强调对法律/君主的忠诚；royal 强调与王室直接相关。拼写差异在首字母 'l' 与 'r'。",
+        "extendedMeaning": "在考研中，'royal' 常引申为“一流的，极佳的”，如 royal treatment（顶级待遇），但此义非高频考点，考研侧重其“王室的”本义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "royalty",
+      "word": "royalty",
+      "phonetic": "/'rɔiəlti/",
+      "meaning": "n.皇家,皇族",
+      "similar": [
+        "loyalty",
+        "royal",
+        "locality",
+        "morality"
+      ],
+      "question": {
+        "wordId": "royalty",
+        "stem": "选择 \"royalty\" 的正确中文意思：",
+        "correct": "n.皇家,皇族",
+        "options": [
+          "n.位置,地点",
+          "n.忠诚,忠心",
+          "n.皇家,皇族",
+          "a.王室的,皇家的;第一流的,高贵的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根为royal（皇家的），源于拉丁语regalis（国王的），-ty为名词后缀。核心物理动作/画面：与国王相关的身份或群体。",
+        "similarWarning": "loyalty（忠诚）：loyal词根为legal，表示法律上的效忠；royalty强调王室血统。locality（地点）：loc-场所，与royal无关。morality（道德）：moral-道德，注意拼写差异。",
+        "extendedMeaning": "在考研中常考“版税”义，即作者或发明者从作品或专利使用中获得的收益，源于王室授予的特权。",
+        "examUsage": "常见搭配：pay royalty（支付版税），royalty income（版税收入）。真题例句：The author receives a royalty of 10% on each book sold.（作者从每本售出的书中获得10%的版税。）"
+      }
+    },
+    {
+      "id": "rub",
+      "word": "rub",
+      "phonetic": "/rʌb/",
+      "meaning": "v.擦,摩擦",
+      "similar": [
+        "ruby",
+        "pub",
+        "rib",
+        "rob",
+        "rug",
+        "tub"
+      ],
+      "question": {
+        "wordId": "rub",
+        "stem": "选择 \"rub\" 的正确中文意思：",
+        "correct": "v.擦,摩擦",
+        "options": [
+          "v.擦,摩擦",
+          "n.红宝石",
+          "n.(英国)小酒店；小旅馆",
+          "n.肋骨,肋状物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根rub-（擦，摩擦）直接对应，物理动作：两物体接触并来回移动产生力或热。",
+        "similarWarning": "rub vs rob: rub（擦）含u，rob（抢劫）含o；rub vs rib: rub（擦）含u，rib（肋骨）含i；rub vs rug: rub（擦）含b，rug（小地毯）含g。",
+        "extendedMeaning": "考研僻义：v. 擦亮，涂擦（如rub polish into the wood）；n. 摩擦处，障碍（the rub of the problem）。",
+        "examUsage": "真题考点：rub shoulders with（与...交往/接触），常用于社会交往语境；rub it in（反复提及令人不快的事）。"
+      }
+    },
+    {
+      "id": "rubber",
+      "word": "rubber",
+      "phonetic": "/'rʌbə(r)/",
+      "meaning": "n.橡皮,橡胶;橡胶制品,胶鞋",
+      "similar": [
+        "ruler",
+        "lumber"
+      ],
+      "question": {
+        "wordId": "rubber",
+        "stem": "选择 \"rubber\" 的正确中文意思：",
+        "correct": "n.橡皮,橡胶;橡胶制品,胶鞋",
+        "options": [
+          "n.橡皮,橡胶;橡胶制品,胶鞋",
+          "n.统治者,支配者;尺,直尺",
+          "n.木材,木料",
+          "v.(with)装备,配备;训练"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自动词rub（摩擦）+ 后缀-er（表工具/产物）。核心动作是“用来摩擦的东西”，最初指擦除铅笔痕迹的橡皮擦，后引申为橡胶材料本身（因天然橡胶最早用于制作橡皮擦）。",
+        "similarWarning": "ruler（统治者/尺子，来自rule+er）、lumber（木材/笨重移动，与rubber拼写差异为l vs r+ub vs um）、number（数字/编号，来自拉丁语numerus，拼写差异为n vs r+um vs ub），注意首字母和中间元音不同。",
+        "extendedMeaning": "在考研外刊中可指“橡胶制品”（如轮胎、密封圈），或作为形容词“橡胶的”；无特殊僻义。",
+        "examUsage": "常见搭配“rubber band”（橡皮筋）可能出现在完形或阅读语境中，但本身非高频考点。"
+      }
+    },
+    {
+      "id": "rubbish",
+      "word": "rubbish",
+      "phonetic": "/'rʌbiʃ/",
+      "meaning": "n.垃圾,废物;废话",
+      "similar": [
+        "publish"
+      ],
+      "question": {
+        "wordId": "rubbish",
+        "stem": "选择 \"rubbish\" 的正确中文意思：",
+        "correct": "n.垃圾,废物;废话",
+        "options": [
+          "n.垃圾,废物;废话",
+          "v.出版,刊印;公布,发布",
+          "a.适当的,恰当的,特有的 vt.拨给,挪用,盗用",
+          "v.(使)融化,(使)熔化"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自拟声词，模仿垃圾倾倒或揉搓时的声响，核心动作指废弃、无价值之物。",
+        "similarWarning": "publish：publish（发布）与 rubbish（垃圾）仅差首字母 p/r。publish 强调公开传播（pub-公共），rubbish 强调废弃无用。",
+        "extendedMeaning": "考研中常引申为“废话、无价值的话”，如 talk rubbish（说废话）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ruby",
+      "word": "ruby",
+      "phonetic": "/'ru:bi/",
+      "meaning": "n.红宝石",
+      "similar": [
+        "rub"
+      ],
+      "question": {
+        "wordId": "ruby",
+        "stem": "选择 \"ruby\" 的正确中文意思：",
+        "correct": "n.红宝石",
+        "options": [
+          "a.懒惰的,懒散的",
+          "n.鞍,马鞍,鞍状物",
+          "v.擦,摩擦",
+          "n.红宝石"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源来自拉丁语 'rubeus'（红色的），与 'ruby' 共享同一词根，核心物理动作是“呈现红色”，直接指向红宝石的典型颜色特征。",
+        "similarWarning": "ruby vs rub：ruby 以 -y 结尾，指宝石；rub 以 -b 结尾，意为摩擦、擦亮。",
+        "extendedMeaning": "在计算机编程中，Ruby 是一种动态、开源的编程语言名称（考研阅读可能涉及技术类文章）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "rude",
+      "word": "rude",
+      "phonetic": "/ru:d/",
+      "meaning": "a.粗鲁的;猛烈的,残暴的;粗糙的,粗陋的",
+      "similar": [
+        "crude",
+        "bride",
+        "grade",
+        "guide",
+        "judge",
+        "pride",
+        "ridge",
+        "rouse"
+      ],
+      "question": {
+        "wordId": "rude",
+        "stem": "选择 \"rude\" 的正确中文意思：",
+        "correct": "a.粗鲁的;猛烈的,残暴的;粗糙的,粗陋的",
+        "options": [
+          "n.新娘",
+          "a.天然的,未加工的;未熟的;粗鲁的,粗野的",
+          "a.粗鲁的;猛烈的,残暴的;粗糙的,粗陋的",
+          "n.等级,级别;年级;分数 v.分等,分级"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'rudis'（未经加工的，粗糙的）。核心物理动作是 '未打磨的原始状态'，引申为行为上的未经修饰（粗鲁）、质地上的不精细（粗糙）、程度上的不受控制（猛烈）。词根 'rud-' 指未开化或原始状态。",
+        "similarWarning": "crude（粗鲁的，指未经提炼的，如原油 crude oil）、rude（侧重行为无礼或质地粗糙）、rule（规则，拼写相近但含义无关）。ride（骑）与 rude 仅差一字母。",
+        "extendedMeaning": "在考研外刊中可指 '简陋的、原始的'（如 rude shelter 简陋的住所），或 '突然的、剧烈的'（如 rude awakening 猛然醒悟）。",
+        "examUsage": "真题中常考 'rude' 的 '粗鲁的' 义项，但需注意其与 'crude' 在语境中的细微区别：rude 强调行为冒犯，crude 强调低级庸俗或未加工。"
+      }
+    },
+    {
+      "id": "rug",
+      "word": "rug",
+      "phonetic": "/rʌg/",
+      "meaning": "n.(小)地毯;围毯",
+      "similar": [
+        "drug",
+        "bug",
+        "hug",
+        "jug",
+        "mug",
+        "rag",
+        "rub",
+        "tug"
+      ],
+      "question": {
+        "wordId": "rug",
+        "stem": "选择 \"rug\" 的正确中文意思：",
+        "correct": "n.(小)地毯;围毯",
+        "options": [
+          "n.药物;麻醉品;毒品;滞销货 v.下麻药;吸毒",
+          "n.(小)地毯;围毯",
+          "v./n.热烈拥抱,紧抱",
+          "n.臭虫;小毛病;窃听器 v.窃听"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古诺尔斯语‘rogg’（粗毛、簇绒），原指粗糙的毛织物。核心物理动作为‘粗糙纤维编织的覆盖物’，引申为铺地或保暖用的小毯。",
+        "similarWarning": "drug（药） vs rug（毯）：d（毒）→药；bug（虫） vs rug：b（bug）像虫子趴着；hug（拥抱） vs rug：h（hand）用手抱；jug（壶） vs rug：j（尖嘴）像壶嘴；mug（杯子） vs rug：m（mouth）杯口；rag（破布） vs rug：r（rough）粗糙的毯 vs 破布；rub（摩擦） vs rug：b（back）来回摩擦；run（跑） vs rug：n（腿）跑动。",
+        "extendedMeaning": "考研僻义：无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ruin",
+      "word": "ruin",
+      "phonetic": "/'ruin/",
+      "meaning": "v.毁灭;(使)破产 n.毁灭,崩溃;(pl.)废墟",
+      "similar": [
+        "rein",
+        "brain",
+        "drain",
+        "grain",
+        "reign"
+      ],
+      "question": {
+        "wordId": "ruin",
+        "stem": "选择 \"ruin\" 的正确中文意思：",
+        "correct": "v.毁灭;(使)破产 n.毁灭,崩溃;(pl.)废墟",
+        "options": [
+          "v.毁灭;(使)破产 n.毁灭,崩溃;(pl.)废墟",
+          "n.缰绳,统治,支配 v.驾驭,控制,统治",
+          "n.(大)脑,骨髓;(pl.)脑力,智能",
+          "n.排水沟,阴沟;消耗,负担 v.排去,放干"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语ruina（倒塌、崩溃），源于ruere（倒下、崩塌）。核心物理动作为“建筑物或结构因失去支撑而倒塌”，引申为抽象层面的毁灭、破产或彻底衰败。",
+        "similarWarning": "run（跑，v.） vs ruin（毁灭）：区别在于中间字母'i'，run强调运动，ruin强调崩塌。rain（雨，n.） vs ruin：'ai'双元音 vs 'ui'，雨是自然降水，毁灭是破坏。rein（缰绳，n.） vs ruin：'ei' vs 'ui'，缰绳是控制工具，毁灭是结果。drain（排水，v.） vs ruin：'dr-'开头 vs 'r-'，排水是缓慢流失，毁灭是彻底崩溃。",
+        "extendedMeaning": "（在考研中常作引申义）使…失去价值或美感，如：The scandal ruined his reputation.（丑闻毁了他的声誉。）",
+        "examUsage": "（常见于阅读中作为干扰项）固定搭配：in ruins（成为废墟，崩溃地），如：The economy lay in ruins.（经济崩溃了。）注意与destroy的区别：ruin强调渐进式或意外导致的彻底破坏，而destroy更强调一次性强力摧毁。"
+      }
+    },
+    {
+      "id": "ruler",
+      "word": "ruler",
+      "phonetic": "/'ru:lə/",
+      "meaning": "n.统治者,支配者;尺,直尺",
+      "similar": [
+        "rubber",
+        "rude",
+        "outer",
+        "queer",
+        "refer",
+        "rumor",
+        "super"
+      ],
+      "question": {
+        "wordId": "ruler",
+        "stem": "选择 \"ruler\" 的正确中文意思：",
+        "correct": "n.统治者,支配者;尺,直尺",
+        "options": [
+          "a.粗鲁的;猛烈的,残暴的;粗糙的,粗陋的",
+          "n.橡皮,橡胶;橡胶制品,胶鞋",
+          "a.外部的,外面的,外层的",
+          "n.统治者,支配者;尺,直尺"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语regula（直尺、规则），由regere（统治、引导）派生而来。ruler本义是“用来画直线的工具”，引申为“制定规则的人”，即统治者。核心动作是“使直/规范”。",
+        "similarWarning": "rule（规则，统治）：ruler是名词后缀-er；rubber（橡皮）：多了一个b；role（角色）：字母l位置不同；rude（粗鲁的）：字母d替换l。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "rumor",
+      "word": "rumor",
+      "phonetic": "/'ru:mə/",
+      "meaning": "n.(rumour)传闻,谣言",
+      "similar": [
+        "humor",
+        "tumour",
+        "razor",
+        "ruler",
+        "tutor"
+      ],
+      "question": {
+        "wordId": "rumor",
+        "stem": "选择 \"rumor\" 的正确中文意思：",
+        "correct": "n.(rumour)传闻,谣言",
+        "options": [
+          "n.剃刀",
+          "n.(tumor)(肿)瘤，肿块",
+          "n.(rumour)传闻,谣言",
+          "n.(humour)幽默,诙谐"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自古法语 'rumor'（声音、喧闹），源自拉丁语 'rumor'（传闻、嘈杂声），词根 'ru-' 可能与 're-'（回响）相关，核心物理动作为声音在人群中反复传播、回响，即未经证实的消息像声波一样扩散。",
+        "similarWarning": "humor（幽默，u后为mor） vs rumor（传闻，u后为mor前有r）；tumour（肿瘤，tum-肿胀 vs rum-传闻）；razor（剃刀，raz-刮 vs rum-传）；ruler（统治者，rul-规则 vs rum-传）；tutor（导师，tut-监护 vs rum-传）。",
+        "extendedMeaning": "在考研真题中常引申为未经证实的‘流言蜚语’，强调其非正式性和不可靠性，如‘spread rumors’（散布谣言）。",
+        "examUsage": "常考搭配 ‘rumor has it that...’（据传闻...），在阅读中作为引出未经证实信息的信号词，干扰项常将其与‘fact’（事实）对立设置。"
+      }
+    },
+    {
+      "id": "rural",
+      "word": "rural",
+      "phonetic": "/'ruərəl/",
+      "meaning": "a.乡下的,田园的,乡村风味的",
+      "similar": [
+        "aural",
+        "brutal",
+        "plural",
+        "curl",
+        "hurl",
+        "oral",
+        "moral",
+        "rival"
+      ],
+      "question": {
+        "wordId": "rural",
+        "stem": "选择 \"rural\" 的正确中文意思：",
+        "correct": "a.乡下的,田园的,乡村风味的",
+        "options": [
+          "a.乡下的,田园的,乡村风味的",
+          "a.听觉的，听力的",
+          "a.残忍的;严峻的;严酷的",
+          "a.复数的 n.复数"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'ruralis'，由 'rus'（乡村、田地） + '-alis'（形容词后缀）构成。核心动作/画面：与城市相对的、广袤的田野或乡村生活。",
+        "similarWarning": "aural（听觉的，与 'ear' 相关） vs rural（乡村的，与 'rus' 相关）。拼写差异：aural 无 'r' 开头，rural 有 'r' 且含 'ur'。",
+        "extendedMeaning": "在考研阅读中，rural 常引申为‘农业的、非城市的’，如 rural economy（农村经济），rural migration（农村人口迁移），强调与城市化相对的背景。",
+        "examUsage": "真题中常与 urban（城市的） 形成对比，如 rural-urban divide（城乡差距）。例句：The rural population is declining due to urbanization.（真题改编）"
+      }
+    },
+    {
+      "id": "rush",
+      "word": "rush",
+      "phonetic": "/rʌʃ/",
+      "meaning": "v.(使)冲;奔n.冲,急速行进 a.(交通)繁忙的",
+      "similar": [
+        "brush",
+        "crush",
+        "bush",
+        "push",
+        "rash",
+        "rust",
+        "blush",
+        "crash"
+      ],
+      "question": {
+        "wordId": "rush",
+        "stem": "选择 \"rush\" 的正确中文意思：",
+        "correct": "v.(使)冲;奔n.冲,急速行进 a.(交通)繁忙的",
+        "options": [
+          "n.灌木(丛)",
+          "n./v.压碎,压坏 v.压服,压垮",
+          "n.刷(子),毛刷;画笔 v.刷,擦,掸,拂;掠过",
+          "v.(使)冲;奔n.冲,急速行进 a.(交通)繁忙的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿快速移动时空气或流水的嗖嗖声。核心物理动作是“突然、快速地移动”，词义本源是“急促的流动或行动”。",
+        "similarWarning": "brush (刷子/轻擦，有b-刷的动作)；crush (压碎，有c-压的动作)；bush (灌木，无r-冲的动作)；push (推，有p-手推的动作)；rash (皮疹/轻率的，短a音，词义完全不同)；rust (锈，有t-金属氧化)；blush (脸红，有bl-颜色变化)；crash (碰撞，有c-撞击声)。",
+        "extendedMeaning": "（真题高频）v. 仓促行事，匆忙做（常含贬义，指不假思索的急切行动）；n. 抢购风潮，热潮（如gold rush淘金热，指一种突然的、非理性的社会性狂热）。",
+        "examUsage": "（真题考点）rush to do sth. 仓促做某事（常被用作干扰项，对比hasten to do sth. 的主动加速与rush的被动/盲目冲动）；rush hour 交通高峰期（常出现在阅读理解关于城市交通或生活节奏的语境中）。"
+      }
+    },
+    {
+      "id": "rust",
+      "word": "rust",
+      "phonetic": "/rʌst/",
+      "meaning": "n.铁锈 v.(使)生锈",
+      "similar": [
+        "crust",
+        "trust",
+        "dust",
+        "rush",
+        "robust",
+        "thrust",
+        "brush",
+        "burst"
+      ],
+      "question": {
+        "wordId": "rust",
+        "stem": "选择 \"rust\" 的正确中文意思：",
+        "correct": "n.铁锈 v.(使)生锈",
+        "options": [
+          "n.灰尘,尘土 v.拂,掸",
+          "n.铁锈 v.(使)生锈",
+          "n.外皮,壳;地壳",
+          "vt.信任;盼望;委托 n.(in)信任,依赖;委托"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根为原始日耳曼语*rust-，意为“红色”，与古英语rēad（红色）同源。核心物理动作：铁因氧化而呈现红褐色斑块（铁锈），引申为生锈的过程。",
+        "similarWarning": "crust（地壳/面包皮，c-硬壳） vs rust（锈，r-红色+腐蚀）；trust（信任，t-稳固） vs rust（锈，r-红色+脆弱）；dust（灰尘，d-粉末） vs rust（锈，r-红色+腐蚀）。",
+        "extendedMeaning": "考研僻义：1. 荒废/退化（指技能、能力因长期不用而变得生疏，如“rust in”生疏于）；2. (植物)锈病（真菌病害）。",
+        "examUsage": "真题考点：固定搭配“rust away”因生锈而腐蚀掉/荒废；“rust in”在某方面变得生疏（例：His skills have rusted in disuse.）。"
+      }
+    },
+    {
+      "id": "ruthless",
+      "word": "ruthless",
+      "phonetic": "/'ru:θlis/",
+      "meaning": "a.残酷的,无情的",
+      "similar": [
+        "reckless",
+        "restless"
+      ],
+      "question": {
+        "wordId": "ruthless",
+        "stem": "选择 \"ruthless\" 的正确中文意思：",
+        "correct": "a.残酷的,无情的",
+        "options": [
+          "a.荒凉的;孤独的 v.使荒芜",
+          "a.得不到休息的;不平静的;坐立不安的",
+          "a.不注意的,大意的,卤莽的,不顾后果的",
+          "a.残酷的,无情的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 ruth-（怜悯、同情） + 后缀 -less（没有），字面即“没有怜悯的”，核心物理动作为“缺乏对他人痛苦的感知与反应”，引申为“冷酷无情、残忍决绝”。",
+        "similarWarning": "unless（除非，连词，un-否定+less更少）vs reckless（鲁莽的，reck-小心+less，不计后果）vs restless（不安的，rest+less，无法休息）vs ruthless（ruth-怜悯+less，无怜悯心）。差异在首字母或词根本身。",
+        "extendedMeaning": "在考研中可引申为“不留情面的、彻底的”，如 ruthless efficiency（极高效率，带冷酷意味）。",
+        "examUsage": "常见搭配：ruthless competition（残酷竞争），ruthless pursuit（无情追逐）。真题中常作为贬义形容词，修饰行为或制度。"
+      }
+    },
+    {
+      "id": "sack",
+      "word": "sack",
+      "phonetic": "/sæk/",
+      "meaning": "n.袋,包,麻袋 v.解雇",
+      "similar": [
+        "slack",
+        "snack",
+        "stack",
+        "lack",
+        "pack",
+        "rack",
+        "sock",
+        "suck"
+      ],
+      "question": {
+        "wordId": "sack",
+        "stem": "选择 \"sack\" 的正确中文意思：",
+        "correct": "n.袋,包,麻袋 v.解雇",
+        "options": [
+          "n.快餐,小吃,点心",
+          "n.堆,一堆 v.堆积,堆起",
+          "a.懈怠的,松驰的;萧条的 n.淡季;(pl.)便裤",
+          "n.袋,包,麻袋 v.解雇"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'saccus'（粗布袋），原指用粗麻布缝制的容器。核心动作是‘装入袋中’或‘用袋装运’。引申为‘解雇’源于古时工人被解雇后需用袋子装走个人物品的习俗，故‘给某人一个袋子’即指解雇。",
+        "similarWarning": "slack（松弛的，懈怠的） vs sack：slack 含‘sl-’表松弛，sack 含‘s-’表袋；snack（小吃，零食） vs sack：snack 含‘sn-’表咬食，sack 含‘s-’表袋；stack（堆，叠） vs sack：stack 含‘st-’表直立堆叠，sack 含‘s-’表软袋；back（背部，后面） vs sack：back 含‘b-’表背部，sack 含‘s-’表袋；lack（缺乏） vs sack：lack 含‘l-’表缺失，sack 含‘s-’表袋；pack（打包，包装） vs sack：pack 含‘p-’表紧密装填，sack 含‘s-’表松散袋；rack（架子，折磨） vs sack：rack 含‘r-’表支撑结构，sack 含‘s-’表软袋；sick（生病的） vs sack：sick 含‘i-’表不适，sack 含‘a-’表袋。",
+        "extendedMeaning": "考研僻义：1.洗劫，劫掠（如：sack the city 洗劫城市）；2.床（俚语，如：hit the sack 睡觉）。",
+        "examUsage": "真题考点：1.动词‘解雇’常与'fire'互换，但sack更口语化，真题中常出现在阅读的职场语境；2.名词‘麻袋’在完形中与‘bag’辨析，sack指粗糙的布袋，bag泛指任何袋子。"
+      }
+    },
+    {
+      "id": "sacred",
+      "word": "sacred",
+      "phonetic": "/'seikrid/",
+      "meaning": "a.神圣的;宗教的;庄严的",
+      "similar": [
+        "acre",
+        "screw",
+        "hatred",
+        "secret"
+      ],
+      "question": {
+        "wordId": "sacred",
+        "stem": "选择 \"sacred\" 的正确中文意思：",
+        "correct": "a.神圣的;宗教的;庄严的",
+        "options": [
+          "a.神圣的;宗教的;庄严的",
+          "n.英亩；田地；地产",
+          "n.憎恨,憎恶,怨恨",
+          "n.螺旋,螺丝(钉) v.拧,拧紧"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根sacr-（神圣）+ -ed（形容词后缀）。源自拉丁语sacrare（使神圣），核心动作是“将某物从世俗中分离出来，献给神”，引申为神圣的、宗教的、庄严的。",
+        "similarWarning": "secret（秘密的）：sacred vs secret，差异在a（神圣）与e（秘密），拼写仅一字母之差，但语义完全不同。",
+        "extendedMeaning": "（无特殊僻义，留空字符串）",
+        "examUsage": "（无特殊考点，留空字符串）"
+      }
+    },
+    {
+      "id": "sacrifice",
+      "word": "sacrifice",
+      "phonetic": "/'sækrifais/",
+      "meaning": "n.牺牲,牺牲品;祭品 v.(for,to)牺牲,献出",
+      "similar": [],
+      "question": {
+        "wordId": "sacrifice",
+        "stem": "选择 \"sacrifice\" 的正确中文意思：",
+        "correct": "n.牺牲,牺牲品;祭品 v.(for,to)牺牲,献出",
+        "options": [
+          "n.牺牲,牺牲品;祭品 v.(for,to)牺牲,献出",
+          "vt.使湿透，浸透；使充满，使饱和",
+          "n./v.饥饿;渴望",
+          "n.警察"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根sacer（神圣的）+fice（做），原指“做神圣的事”，即祭祀时献祭动物或物品给神灵。核心动作是“为更高目的舍弃有价值之物”，引申为牺牲。",
+        "similarWarning": "",
+        "extendedMeaning": "考研中常考“牺牲”的抽象义，如牺牲时间、利益、健康等，尤指为了长远目标或集体利益放弃个人需求。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "saddle",
+      "word": "saddle",
+      "phonetic": "/'sædl/",
+      "meaning": "n.鞍,马鞍,鞍状物",
+      "similar": [
+        "paddle",
+        "sale",
+        "candle",
+        "handle",
+        "huddle",
+        "riddle",
+        "sample"
+      ],
+      "question": {
+        "wordId": "saddle",
+        "stem": "选择 \"saddle\" 的正确中文意思：",
+        "correct": "n.鞍,马鞍,鞍状物",
+        "options": [
+          "n.蜡烛",
+          "n.出售,上市;贱卖,廉价出售;销售额",
+          "n.桨 v.用桨划",
+          "n.鞍,马鞍,鞍状物"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根与古英语sadol相关，原意指“坐具”，核心物理动作为“骑坐于马背上的支撑物”。引申为“鞍状物”或“承受重量的位置”。",
+        "similarWarning": "paddle（桨，涉水）与saddle区别在首字母p/s；sale（销售）少一个d；candle（蜡烛）首字母c且整体拼写不同；handle（把手）首字母h；huddle（挤作一团）首字母h且中间有u；middle（中间）首字母m；riddle（谜语）首字母r；sample（样本）首字母s且拼写差异明显。",
+        "extendedMeaning": "在考研中，saddle可引申为“负担，责任”，如“put the saddle on the right horse”（责备该责备的人）或“in the saddle”（掌权，处于控制地位）。",
+        "examUsage": "常见考点搭配：saddle with（使承担，强加负担），例如：He was saddled with heavy debts.（他背负沉重债务。）真题中可能作为干扰项，与burden、load等词辨析。"
+      }
+    },
+    {
+      "id": "safeguard",
+      "word": "safeguard",
+      "phonetic": "/'seifgɑ:d/",
+      "meaning": "v.维护,保护,捍卫 n.安全装置,安全措施",
+      "similar": [],
+      "question": {
+        "wordId": "safeguard",
+        "stem": "选择 \"safeguard\" 的正确中文意思：",
+        "correct": "v.维护,保护,捍卫 n.安全装置,安全措施",
+        "options": [
+          "v.维护,保护,捍卫 n.安全装置,安全措施",
+          "a.突起的,凸出的;突出的,杰出的",
+          "v.流出;发散,散发,脱落,脱去 n.棚,小屋",
+          "n.铁,铁制品,烙铁,熨斗 v.熨(衣),熨平"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "safe（安全的）+ guard（守卫）→ 组合词，直指“提供安全守卫”的动作或装置。核心物理动作是“防护”，强调预防性保护，而非事后补救。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "safety",
+      "word": "safety",
+      "phonetic": "/'seifti/",
+      "meaning": "n.安全,保险;安全设备,保险装置",
+      "similar": [],
+      "question": {
+        "wordId": "safety",
+        "stem": "选择 \"safety\" 的正确中文意思：",
+        "correct": "n.安全,保险;安全设备,保险装置",
+        "options": [
+          "n.(意见等的)一致，一致同意，共识",
+          "ad.分离，离开，隔开 a.分离的，分隔的",
+          "a.月亮的",
+          "n.安全,保险;安全设备,保险装置"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自词根 salv-（安全），通过音变 saf- 加名词后缀 -ty，本义为“处于安全状态”。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sail",
+      "word": "sail",
+      "phonetic": "/seil/",
+      "meaning": "n.帆,航行 v.航行",
+      "similar": [
+        "fail",
+        "hail",
+        "nail",
+        "pail",
+        "rail",
+        "soil",
+        "tail",
+        "sailor"
+      ],
+      "question": {
+        "wordId": "sail",
+        "stem": "选择 \"sail\" 的正确中文意思：",
+        "correct": "n.帆,航行 v.航行",
+        "options": [
+          "n.帆,航行 v.航行",
+          "v.失败,不及格;衰退,减弱",
+          "v.下雹;欢呼,欢迎 n.雹",
+          "n.指甲,爪;钉 v.将…钉牢,钉住"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自原始日耳曼语*seglą（帆）。核心物理动作是‘利用风力推动船只在水面移动’，引申为任何形式的‘航行’或‘起航’。",
+        "similarWarning": "fail（失败）：s→f，字母差异；hail（冰雹；欢呼）：s→h；mail（邮件）：s→m；nail（指甲；钉子）：s→n；pail（桶）：s→p；rail（栏杆；铁轨）：s→r；soil（土壤）：ai→oi；tail（尾巴）：s→t。注意与‘soil’区分，词义无关。",
+        "extendedMeaning": "考研僻义中，常考其名词‘航行’或动词‘起航’，如‘set sail’（起航），但无特殊高级僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sailor",
+      "word": "sailor",
+      "phonetic": "/'seilə/",
+      "meaning": "n.水手,海员",
+      "similar": [
+        "tailor",
+        "sail"
+      ],
+      "question": {
+        "wordId": "sailor",
+        "stem": "选择 \"sailor\" 的正确中文意思：",
+        "correct": "n.水手,海员",
+        "options": [
+          "n.帆,航行 v.航行",
+          "a.实质的;相当的;显著的;坚固的;富裕的",
+          "n.裁缝 v.缝制,剪裁",
+          "n.水手,海员"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自 sail（航行）+ -or（表人），字面即“航行的人”，核心动作是“驾船航行”。",
+        "similarWarning": "tailor（裁缝）：tai- 与 sai- 差异，tailor 核心动作是“剪裁”，sailor 是“航行”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "saint",
+      "word": "saint",
+      "phonetic": "/seint/",
+      "meaning": "n.圣人,基督徒;(S-或St.用于人,地名前)圣",
+      "similar": [
+        "faint",
+        "paint",
+        "saving",
+        "ant",
+        "sin",
+        "aunt",
+        "bait",
+        "gain"
+      ],
+      "question": {
+        "wordId": "saint",
+        "stem": "选择 \"saint\" 的正确中文意思：",
+        "correct": "n.圣人,基督徒;(S-或St.用于人,地名前)圣",
+        "options": [
+          "n.挽救,救助,节约,储蓄;(pl.)储蓄金,存款",
+          "n.油漆,颜料 v.油漆;涂,涂漆;画;描绘,描述",
+          "a.微弱的;不明显的;暗淡的 n./v.昏倒;昏晕",
+          "n.圣人,基督徒;(S-或St.用于人,地名前)圣"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 sanctus '神圣的'，词根 sanct- '神圣'。saint 字面指 '被神圣化的人'，核心动作是 '被赋予神圣属性'。",
+        "similarWarning": "faint (adj. 模糊的；v. 昏厥) vs saint (n. 圣人)：faint 含 'f' 表 '消失'，saint 含 's' 表 '神圣'；paint (v. 绘画) vs saint：paint 含 'p' 表 '涂抹'，saint 强调 '圣洁'。",
+        "extendedMeaning": "在考研阅读中，saint 可引申为 '道德高尚、极具耐心或宽容的人'，如 He bore the criticism like a saint. 他像圣人般忍受批评。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "sake",
+      "word": "sake",
+      "phonetic": "/seik/",
+      "meaning": "n.缘故,理由",
+      "similar": [
+        "shake",
+        "snake",
+        "stake",
+        "bake",
+        "fake",
+        "lake",
+        "rake",
+        "sale"
+      ],
+      "question": {
+        "wordId": "sake",
+        "stem": "选择 \"sake\" 的正确中文意思：",
+        "correct": "n.缘故,理由",
+        "options": [
+          "n.缘故,理由",
+          "n./v.摇动,摇;颤抖,震动",
+          "n.桩,标桩;赌注,利害关系",
+          "n.蛇"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语 'sacu'（法律诉讼、争执），引申为‘原因、目的’。核心动作：为某个理由而行动或争论。",
+        "similarWarning": "与 'shake'（摇晃）区别在首字母 's' 后有无 'h'；与 'stake'（桩、赌注）区别在 't' 的有无；与 'snake'（蛇）区别在 'n' 的有无。",
+        "extendedMeaning": "在考研中常以短语形式出现，如 'for the sake of'（为了...起见），表示目的或原因。",
+        "examUsage": "常见考点：'for the sake of' 引导目的状语，如 'for the sake of convenience'（为了方便起见）。无特殊干扰项。"
+      }
+    },
+    {
+      "id": "salad",
+      "word": "salad",
+      "phonetic": "/'sæləd/",
+      "meaning": "n.色拉,凉拌菜",
+      "similar": [
+        "salary",
+        "lad",
+        "bald",
+        "sale",
+        "salt",
+        "sand",
+        "slam",
+        "slap"
+      ],
+      "question": {
+        "wordId": "salad",
+        "stem": "选择 \"salad\" 的正确中文意思：",
+        "correct": "n.色拉,凉拌菜",
+        "options": [
+          "n.色拉,凉拌菜",
+          "a.秃的,秃头的",
+          "n.薪金,薪水",
+          "n.男孩,小伙子"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语sal（盐），原指“加盐的蔬菜”，核心动作是“用盐调味”。现代指混合蔬菜的凉拌菜，词根sal-表盐，-ad为名词后缀，表示“与...相关的物品”。",
+        "similarWarning": "salary（n.薪水）源自盐的贸易；lad（n.少年）无关联；sad（adj.悲伤的）字母a与l互换；bald（adj.秃头的）b替换s；glad（adj.高兴的）g替换s；sale（n.销售）无后缀；salt（n.盐）为同源词；sand（n.沙子）字母t变d。核心区别：salad强调“盐”的调味动作，其他词根义不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "salary",
+      "word": "salary",
+      "phonetic": "/'sæləri/",
+      "meaning": "n.薪金,薪水",
+      "similar": [
+        "alarm",
+        "salad",
+        "solar",
+        "galaxy",
+        "solitary"
+      ],
+      "question": {
+        "wordId": "salary",
+        "stem": "选择 \"salary\" 的正确中文意思：",
+        "correct": "n.薪金,薪水",
+        "options": [
+          "n.惊恐；警报(器) vt.惊动，惊吓；向…报警",
+          "n.色拉,凉拌菜",
+          "n.薪金,薪水",
+          "a.太阳的,日光的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 salarium（盐的津贴），原指古罗马士兵购买盐的津贴。sal-（盐）+ -ary（名词后缀，表物），从“买盐的钱”引申为“定期发放的报酬”。",
+        "similarWarning": "salary vs. salad（沙拉，仅差r与d，拼写易混）；salary vs. solar（太阳的，仅差l与r，词义无关）；salary vs. solitary（孤独的，前缀sol-不同，易误拼）。",
+        "extendedMeaning": "熟词僻义：在经济学语境中可指“非体力劳动的固定年薪”，区别于 wage（按小时/周计的体力劳动报酬），如：salary negotiation（薪资谈判）侧重年薪总额。",
+        "examUsage": "考点：常与 wage 对比辨析，如真题中 The salary for this position is negotiable.（此职位薪资可协商），注意 salary 不可数或作单数（a salary），复数 salaries 指不同岗位的薪资标准。"
+      }
+    },
+    {
+      "id": "sale",
+      "word": "sale",
+      "phonetic": "/seil/",
+      "meaning": "n.出售,上市;贱卖,廉价出售;销售额",
+      "similar": [
+        "scale",
+        "stale",
+        "male",
+        "pale",
+        "sake",
+        "salt",
+        "sane",
+        "save"
+      ],
+      "question": {
+        "wordId": "sale",
+        "stem": "选择 \"sale\" 的正确中文意思：",
+        "correct": "n.出售,上市;贱卖,廉价出售;销售额",
+        "options": [
+          "n.变质的,不新鲜的;陈旧的,陈腐的",
+          "n.刻度;天平,磅秤;比例尺;规模;音阶;鱼鳞",
+          "n./a.男性(的),雄性(的)",
+          "n.出售,上市;贱卖,廉价出售;销售额"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自中古英语sale，与古英语sellan（给予、出售）同源，核心动作是“给予以换取价值”，强调交易行为本身。",
+        "similarWarning": "scale（n.规模；刻度；天平）vs sale：scale多一个字母c，指度量或等级；stale（adj.陈腐的）vs sale：开头st-，指不新鲜；male（n.男性）vs sale：首字母m，指性别；pale（adj.苍白的）vs sale：首字母p，指颜色浅；safe（adj.安全的）vs sale：末尾f，指安全；sake（n.缘故）vs sale：末尾ke，指目的；salt（n.盐）vs sale：末尾t，指调味品；same（adj.相同的）vs sale：末尾me，指一致。",
+        "extendedMeaning": "在考研真题中，sale常引申为“促销活动”或“拍卖”，如on sale（特价出售）与for sale（待售）的区分。",
+        "examUsage": "常考短语：on sale（打折出售），for sale（待售），clearance sale（清仓甩卖）。真题例句：The store is having a huge sale on electronics.（该店正在进行电子产品大促销。）"
+      }
+    },
+    {
+      "id": "salesman",
+      "word": "salesman",
+      "phonetic": "/'seilzmən/",
+      "meaning": "n.售货员,推销员",
+      "similar": [
+        "statesman",
+        "spokesman",
+        "solemn"
+      ],
+      "question": {
+        "wordId": "salesman",
+        "stem": "选择 \"salesman\" 的正确中文意思：",
+        "correct": "n.售货员,推销员",
+        "options": [
+          "n.政治家,国务活动家",
+          "n.售货员,推销员",
+          "a.庄严的,隆重的;严肃的",
+          "n.发言人"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "salesman = sales（销售）+ man（人）。词源：sales是sale（出售）的复数形式，man指从事某种职业的人，组合即从事销售工作的人。",
+        "similarWarning": "形近词辨析：statesman（政治家）由state（国家）+s+man构成，spokesman（发言人）由spoke（说话，speak的过去式）+s+man构成，solemn（庄严的）为形容词，与salesman拼写差异在词尾-n与-m。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "salt",
+      "word": "salt",
+      "phonetic": "/sɔ:lt/",
+      "meaning": "n.盐,盐,类 v.腌,盐渍",
+      "similar": [
+        "halt",
+        "sale",
+        "salute",
+        "fault",
+        "saint",
+        "salad",
+        "scale",
+        "shaft"
+      ],
+      "question": {
+        "wordId": "salt",
+        "stem": "选择 \"salt\" 的正确中文意思：",
+        "correct": "n.盐,盐,类 v.腌,盐渍",
+        "options": [
+          "n.止步,停步,停止前进 v.止步,(使)停止",
+          "n.盐,盐,类 v.腌,盐渍",
+          "n.出售,上市;贱卖,廉价出售;销售额",
+          "v./n.敬礼,鸣礼炮;迎接,欢迎"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*saltom，与拉丁语sal同源。核心物理动作是“撒盐/用盐处理”，从远古时代用于调味和防腐，引申出“腌渍”的动作。",
+        "similarWarning": "halt（停止）、sale（销售）、salute（敬礼）、fault（错误）、saint（圣人）、salad（沙拉）、scale（规模/鳞片）、shaft（轴/杆）",
+        "extendedMeaning": "在考研语境中，salt可作形容词，意为“咸的”，或用于比喻“刺激、趣味”，如“the salt of the earth”（社会中坚）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "salute",
+      "word": "salute",
+      "phonetic": "/sə'lju:t/",
+      "meaning": "v./n.敬礼,鸣礼炮;迎接,欢迎",
+      "similar": [
+        "statute",
+        "sale",
+        "salt",
+        "acute",
+        "sauce",
+        "dilute",
+        "absolute",
+        "escalate"
+      ],
+      "question": {
+        "wordId": "salute",
+        "stem": "选择 \"salute\" 的正确中文意思：",
+        "correct": "v./n.敬礼,鸣礼炮;迎接,欢迎",
+        "options": [
+          "n.盐,盐,类 v.腌,盐渍",
+          "v./n.敬礼,鸣礼炮;迎接,欢迎",
+          "n.成文法，法令，法规；章程，规则，条例",
+          "n.出售,上市;贱卖,廉价出售;销售额"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语salutare，词根salus（健康、福祉）。核心动作是“祝愿健康”，引申为军队中通过特定手势或仪式表达敬意（敬礼），或通过言行表达欢迎（迎接）。",
+        "similarWarning": "statute（法令）强调法律条文，salute强调敬意动作；sale（销售）与gift无关；salt（盐）与调味相关，无敬意含义；acute（急性的）强调程度，与动作无关；sauce（酱汁）与饮食相关；value（价值）指重要性；dilute（稀释）指浓度降低；absolute（绝对的）指程度。",
+        "extendedMeaning": "在考研语境中，常考“鸣礼炮”这一仪式性动作，如fire a salute（鸣礼炮致意），或引申为“向…表示敬意”的抽象用法，如salute one's courage（向某人的勇气致敬）。",
+        "examUsage": "常见于真题的固定搭配：stand at attention and salute（立正敬礼）；take the salute（接受敬礼）。例句：The soldiers saluted the general as he passed.（士兵们在将军经过时向他敬礼。）"
+      }
+    },
+    {
+      "id": "salvation",
+      "word": "salvation",
+      "phonetic": "/sæl'veiʃən/",
+      "meaning": "n.拯救,救助;救济(者,品),救助工具;救世主",
+      "similar": [
+        "aviation",
+        "sanction",
+        "solution",
+        "vacation",
+        "selection",
+        "sensation",
+        "variation",
+        "observation"
+      ],
+      "question": {
+        "wordId": "salvation",
+        "stem": "选择 \"salvation\" 的正确中文意思：",
+        "correct": "n.拯救,救助;救济(者,品),救助工具;救世主",
+        "options": [
+          "n.拯救,救助;救济(者,品),救助工具;救世主",
+          "n.解答,解决办法;溶解,溶液",
+          "n.航空，航空学；飞机制造业",
+          "n./v.批准,同意,支持,认可 n.处罚,制裁"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 salv-（救，拯救）+ -ation（名词后缀）。源自拉丁语 salvare（拯救），与 salvage（抢救）、salve（药膏）同源。核心动作是“从危险/苦难中解救出来”，引申为精神或宗教上的救赎。",
+        "similarWarning": "salvation vs. solution（解决）：salv-（救） vs. solut-（解开）；salvation 强调从困境/罪中拯救，solution 强调问题被解开。salvation vs. station（车站）：salv-（救） vs. stat-（站立）；拼写仅差 'v' 与 't'，但词义完全无关。",
+        "extendedMeaning": "在考研阅读中，salvation 常引申为“解决方案/救命稻草”，尤指在危机中扭转局面的关键因素或措施。例：Economic reform was their only salvation.（经济改革是他们唯一的出路。）",
+        "examUsage": "高频搭配：be the salvation of（是...的救星/关键）。真题中常作为情感/结果类题眼，与 ruin（毁灭）形成对立干扰。例：The new policy proved to be the salvation of the failing industry.（该政策成了衰败产业的救星。）"
+      }
+    },
+    {
+      "id": "sample",
+      "word": "sample",
+      "phonetic": "/'sɑ:mpl/",
+      "meaning": "n.样品,实例,标本,抽样检查 v.取样,采样",
+      "similar": [
+        "ample",
+        "sale",
+        "apple",
+        "gamble",
+        "saddle",
+        "staple",
+        "temple",
+        "pamphlet"
+      ],
+      "question": {
+        "wordId": "sample",
+        "stem": "选择 \"sample\" 的正确中文意思：",
+        "correct": "n.样品,实例,标本,抽样检查 v.取样,采样",
+        "options": [
+          "n.样品,实例,标本,抽样检查 v.取样,采样",
+          "n.出售,上市;贱卖,廉价出售;销售额",
+          "a.充分的，富裕的；宽敞的，宽大的",
+          "n.苹果，苹果树"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根‘sam-’（=example，例子）+ 后缀‘-ple’（表示‘充满’或‘倍’）。核心物理动作是‘从整体中取出代表整体的小部分’，即‘取样’。源自拉丁语‘exemplum’（例子）的变体，‘example’的简化形式。",
+        "similarWarning": "ample（充足的，a-加强 + -ple满）vs sample（样品，sam-例子）；simple（简单的，sim-单一 + -ple倍）vs sample；example（例子，ex-出 + ample）是sample的同源词，但‘example’指‘典型实例’，‘sample’强调‘抽样标本’。",
+        "extendedMeaning": "在考研真题中，‘sample’常引申为‘体验’或‘尝试’（如‘sample the local culture’），但更常见的是作为名词‘样本’在统计学或市场调研语境中使用，如‘random sample’（随机样本）。",
+        "examUsage": "考研英语二常考搭配：‘a representative sample’（代表性样本）；‘sample survey’（抽样调查）。真题例句：‘The sample consisted of 1000 adults.’（样本包含1000名成年人。）注意与‘example’的区别：example是举例说明，sample是实物标本。"
+      }
+    }
+  ]
+}

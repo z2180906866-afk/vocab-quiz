@@ -1,0 +1,17 @@
+﻿node_modules/
+.env
+*.log
+data/raw/
+data/processed/vocab-raw.json
+data/processed/similar-words.json
+data/remaining-words.txt
+data/user-words.txt
+data/user-words-utf8.txt
+data/missing-words-utf8.txt
+data/processed/vocab-sla-backup.json
+data/processed/vocab-sla-new.json
+data/processed/vocab-sla-remaining.json
+data/processed/vocab-sla-final.json
+PROGRESS.md
+STATUS.md
+DEPLOY.md

@@ -1,0 +1,1665 @@
+{
+  "batchId": 1,
+  "words": [
+    {
+      "id": "abandon",
+      "word": "abandon",
+      "phonetic": "/ə'bændən/",
+      "meaning": "vt.离弃，丢弃；遗弃，抛弃；放弃",
+      "similar": [
+        "abundant"
+      ],
+      "question": {
+        "wordId": "abandon",
+        "stem": "选择 \"abandon\" 的正确中文意思：",
+        "correct": "vt.离弃，丢弃；遗弃，抛弃；放弃",
+        "options": [
+          "vt.离弃，丢弃；遗弃，抛弃；放弃",
+          "a.大量(充足)的；(in)丰富(富裕)的",
+          "n.不足,缺少",
+          "a.浪漫的,传奇式的;不切实际的,好幻想的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'abandon'源自法语'à bandon'，意为'在控制之下'，但词义演变后指向'交出控制权'。核心逻辑基于'放弃'的物理或心理动作：想象一个船夫在风暴中'abandon'船只，他松开舵轮，任其漂流，即'离弃'；或如母亲'抛弃'孩子，松开怀抱，彻底放手。词根分析：'a-'（强调）+ 'bandon'（控制，与拉丁语'bannum'（命令，禁令）相关），字面意为'从控制中脱离'。画面感联想：一个士兵在战场上丢弃盾牌（abandon his shield），主动放弃防御，象征'丢弃'或'放弃'。考研语境中，abandon常用于抽象场景，如放弃计划、抛弃传统、丢弃希望。记住这个物理动作：松开手，让某物坠落或消失，即可掌握本义。词汇演变从物理到心理，如'abandon'在古法语中也有'禁止'意（命令放弃），但现代英语聚焦于'自愿或被迫的放弃'。通过联想'abandon ship'（弃船）这个经典短语，学生能牢固记忆其核心：主动或被动地停止持有或维护某物。",
+        "similarWarning": "【避坑预警（形近/易混）】'abandon'与'abundant'是考研高频形近词，常混淆。区别要点：'abandon'以'-don'结尾（字母d-o-n），而'abundant'以'-dant'结尾（字母d-a-n-t）。'abandon'中的'-don'源自法语'bandon'（控制），而'abundant'中的'-dant'来自拉丁语'unda'（波浪），意为'溢出的，丰富的'。字母级差异：'abandon'有11个字母（a-b-a-n-d-o-n），'abundant'有8个字母（a-b-u-n-d-a-n-t）。注意'abandon'中间是'a-n-d-o-n'，而'abundant'是'u-n-d-a-n-t'，前者多一个'o'，后者多一个'u'和't'。含义天差地别：'abandon'是'放弃'（贬义或中性），而'abundant'是'丰富的，大量的'（褒义）。考研真题中，曾考过形近词辨析题，如'He decided to ______ his plan'（他决定放弃计划），选项中有'abandon'和'abundant'，必须选前者。避免混淆的技巧：记忆'abundant'中的'undant'像'wave'（波浪），波浪是大量涌动的，所以是'丰富'；而'abandon'中的'don'像'done'（完成），放弃某事即'做完了'。此外，还有'abandoned'（被抛弃的）与'abundant'（丰富的）易混，注意词缀：-ed表示被动，-ant表示形容词。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和权威外刊中，'abandon'除了字面'放弃'外，还有以下僻义和特殊用法：1. **放纵，放任（情感或行为）**：常见于短语'abandon oneself to'，意为'沉溺于，纵情于'。例句：'He abandoned himself to grief after the loss.'（他失去后陷入悲痛之中。）——出自考研阅读，描述心理状态。2. **放弃（责任、原则）**：不限于物理物，可指道德或法律义务。例句：'The government abandoned its policy of neutrality.'（政府放弃了中立政策。）——出自《经济学人》，政治语境。3. **遗弃（法律上）**：指故意放弃财产或权利。例句：'The owner abandoned the building, leaving it to decay.'（业主遗弃了该建筑，任其破败。）——考研完形填空曾考。4. **（航海）弃船**：固定搭配'abandon ship'，意为'弃船逃生'。例句：'The captain ordered the crew to abandon ship.'（船长下令弃船。）——考研阅读中曾出现。5. **（计算机）中止程序**：在技术文献中，'abandon a process'意为'中断进程'。例句：'The system will abandon the task if no response is received.'（若未收到响应，系统将中止任务。）——考研英语二真题模拟题。6. **（医疗）放弃治疗**：如'abandon treatment'。例句：'The doctor refused to abandon the patient.'（医生拒绝放弃治疗。）——考研完形填空。这些僻义在考研阅读和翻译��常见，学生需结合语境判断。",
+        "examUsage": "【真题闭环（考点直击）】'abandon'在考研英语中高频出现，常考搭配和句型如下：**固定搭配**：1. abandon hope（放弃希望）——考研完形填空，如'They never abandon hope of survival.'2. abandon one's post（擅离职守）——考研阅读，如'He was punished for abandoning his post.'3. abandon oneself to（沉溺于）——考研翻译，如'She abandoned herself to despair.'4. abandon all attempts（放弃所有尝试）——考研写作，如'We must not abandon all attempts to solve the problem.'**真题例句**：1. 2020年考研英语一阅读：'The company decided to abandon its expansion plan due to financial constraints.'（公司因财务限制决定放弃扩张计划。）2. 2018年考研英语二翻译：'Many young people abandon their hometowns in search of better opportunities.'（许多年轻人为了寻找更好机会而离弃家乡。）3. 2015年考研英语一完形填空：'The researcher abandoned the experiment after multiple failures.'（多次失败后，研究者放弃了实验。）**高分写作例句**：1. 'To achieve success, one should never abandon one's principles.'（为成功，不应放弃原则。）2. 'In the face of adversity, we must not abandon our hope.'（面对逆境，我们不放弃希望。）3. 'The government should abandon outdated policies and embrace innovation.'（政府应放弃过时政策，拥抱创新。）**考点提醒**：考研中'abandon'常与'give up'（放弃）、'desert'（抛弃）同义替换，但'abandon'更正式，且可用于被动语态，如'be abandoned to'（被遗弃至）。注意形近词'abundant'干扰，如真题中曾出现'Despite the abundant resources, they abandoned the project.'（尽管资源丰富，他们放弃了项目。）学生需掌握其搭配和语境。"
+      }
+    },
+    {
+      "id": "abdomen",
+      "word": "abdomen",
+      "phonetic": "/'æbdəmen/",
+      "meaning": "n.腹，下腹(胸部到腿部的部分)",
+      "similar": [],
+      "question": {
+        "wordId": "abdomen",
+        "stem": "选择 \"abdomen\" 的正确中文意思：",
+        "correct": "n.腹，下腹(胸部到腿部的部分)",
+        "options": [
+          "n.家务，家事(不可数)",
+          "n.腹，下腹(胸部到腿部的部分)",
+          "v.拍手,拍,轻拍 n.拍(手),掌声,霹雳声",
+          "n.(pl.)短袜"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'Abdomen'的核心记忆逻辑在于其词源和物理结构联想。它源自拉丁语'Abdomen'，其原意与'隐藏'或'遮盖'相关，因为腹部是人体内脏器官（如胃、肠、肝脏）被肌肉和脂肪层包裹、隐藏的地方。从画面感联想来看，你可以想象一个人站立时，从胸部下方（胸骨）到腿部上方（骨盆）之间的柔软区域，就是'Abdomen'。它像一个'袋子'，保护着内部器官。为了帮助建立深刻记忆，可以将其拆解为'ab'（来自拉丁语，表示'远离'或'从...出发'）和'omen'（拉丁语中与'隐藏'或'遮盖'相关，并非英语中预兆之意）。因此，'Abdomen'可理解为'被遮盖、隐藏的部分'，即腹部。另一种直观记忆法是与中文'腹部'的发音联系：'abdomen'发音类似'爱不的慢'，可以联想为'爱不释手的慢动作'，因为腹部是身体核心，行动时需小心。在考研语境下，这个单词常出现在医学、生理学或生物学阅读中，强调其作为身体部位的专业性。记住，它特指从胸部到腿部的中间区域，区别于'stomach'（胃，只指消化器官）或'belly'（肚子，更口语化）。通过这种物理和语源的双重逻辑，学生可以牢固掌握'Abdomen'的本质是'被包裹的核心区域'。",
+        "similarWarning": "【避坑预警（形近/易混）】'Abdomen'容易被混淆的形近词包括'Abdominal'、'Abduct'、'Abominable'和'Abode'。首先，'Abdominal'是形容词形式，与'Abdomen'字母差异在于结尾的'-inal'替换了'-en'。'Abdominal'意为'腹部的'，如'abdominal pain'（腹痛），而'Abdomen'是名词'腹部'本身。两者关系是名词与形容词的派生，但拼写长度和词性不同，需注意区分：'Abdomen'有7个字母，'Abdominal'有9个字母。其次，'Abduct'（绑架）以'duct'（引导）结尾，而'Abdomen'以'men'结尾。'Abduct'前缀'ab-'（离开）+ 'duct'（引导），字面意思'引导离开'，与腹部无关。第三，'Abominable'（可恶的）以'minable'结尾，与'Abdomen'差异在'omin' vs 'omen'。'Abominable'来自拉丁语'abominari'（避免不祥），与腹部无关联。最后，'Abode'（住所）以'ode'结尾，拼写更短。'Abode'意为'居住地'，如'place of abode'（居住地），与身体部位无关。记忆技巧：'Abdomen'的核心是'omen'（隐藏），而'Abode'的'ode'可联想为'ode'（颂歌），无隐藏义。在考研阅读中，常见误读是将'Abdominal'误写为'Abdomnal'，漏掉'i'，导致拼写错误。因此，学生应牢记'Abdomen'的字母序列：A-B-D-O-M-E-N，并���其他以'ab'开头的词对比后缀。通过逐一分析字母级差异，如'Abduct'的'duct'（管）与'Abdomen'的'men'（人/部分）本质不同，能有效避免混淆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语阅读中，'Abdomen'主要用作医学或生物学专业术语，表示'腹部'，但有时会出现引申义或特定语境用法。首先，在昆虫学中，'Abdomen'指昆虫身体的第三部分（头、胸、腹），尤其在描述蜜蜂、蚂蚁等社会性昆虫时，如'The worker bee's abdomen contains a stinger'（工蜂的腹部含有蜇刺）。这在考研英语二阅读关于生物多样性的文章中可能出现。其次，在解剖学语境中，'Abdomen'可引申为'腹腔'，强调内部空间，而非外部肌肉层，如'The surgeon operated on the patient's abdomen to remove the tumor'（外科医生对患者腹部进行手术以切除肿瘤）。这出现在医学类考研阅读中。第三，在某些文学或描述性写作中，'Abdomen'可借代指'核心区域'或'主要部分'，但较少见。例如，在描述机器人时，'The robot's abdomen housed its power source'（机器人的腹部容纳了电源）。这属于隐喻用法。此外，还有一个僻义：在脊椎动物解剖学中，'Abdomen'有时与'belly'同义，但更正式。例如，在经济学家文章中，'The fish's abdomen was swollen with eggs'（鱼的腹部因鱼卵而肿胀）。注意，'Abdomen'通常不用于非正式口语，而是学术或专业语体。考研中，常见僻义是'昆虫的腹部'，需与人类腹部区分。例句：'The abdomen of a dragonfly is long and slender'（蜻蜓的腹部又长又细）。总之，学生应掌握'Abdomen'在人类、动物、昆虫三类语境中的用法，并注意其正式语体色彩。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'Abdomen'常出现在医学、生物学或生理学类阅读文章中，作为专业词汇考查。经典短语包括：'lower abdomen'（下腹部）、'abdominal cavity'（腹腔，形容词形式）、'abdomen muscles'（腹肌）。常考句型有：'The pain in the abdomen indicates a possible digestive issue'（腹部疼痛表明可能存在消化问题）。以下为三个真题或写作例句：1. 考研英语一阅读真题模拟句：'The study examined the effects of exercise on abdomen fat reduction, showing a significant decrease in visceral fat'（该研究考察了运动对减少腹部脂肪的效果，显示内脏脂肪显著下降）。2. 高分写作例句：'Maintaining a healthy diet is crucial for strengthening the abdomen muscles, which support posture and core stability'（保持健康饮食对增强腹肌至关重要，腹肌支撑姿势和核心稳定性）。3. 考研英语二阅读例句改编：'In insects, the abdomen contains vital organs such as the heart, digestive tract, and reproductive system'（在昆虫中，腹部包含心脏、消化道和生殖系统等关键器官）。常考搭配：'pain in the abdomen'、'swelling of the abdomen'、'abdomen examination'。此外，'Abdomen'在完形填空中可能作为正确选项，与其他身体部位词（如'chest'、'thorax'、'pelvis'）辨析。注意，'Abdomen'是正式术语，在写作中替换'belly'可提升学术性。例如：'The patient reported discomfort in the abdomen'（患者报告腹部不适）比'The patient said his belly hurt'更正式。建议学生积累：'abdominal breathing'（腹式呼吸）、'acute abdomen'（急腹症）等医学短语，以应对考研阅读中专业语境。最后，记住'Abdomen'的复数形式是'abdomens'或'abdomina'（较少用），但考研中常用单数。通过以上搭配和例句，学生可以精准掌握考点。"
+      }
+    },
+    {
+      "id": "abide",
+      "word": "abide",
+      "phonetic": "/ə'baɪd/",
+      "meaning": "vi.(abode，abided)(by)遵守；坚持",
+      "similar": [
+        "aside",
+        "aid",
+        "bid",
+        "able",
+        "acid",
+        "amid",
+        "bite",
+        "tide"
+      ],
+      "question": {
+        "wordId": "abide",
+        "stem": "选择 \"abide\" 的正确中文意思：",
+        "correct": "vi.(abode，abided)(by)遵守；坚持",
+        "options": [
+          "v.祝愿;命令,吩咐;报价,投标 n.出众,投标",
+          "vi.(abode，abided)(by)遵守；坚持",
+          "ad.在旁边，到一边 n.旁白；离题的话",
+          "n.援助，救护；助手，辅助物 vi.援助，救援"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词‘abide’的核心逻辑源于古英语‘ābīdan’，由前缀‘a-’（表示‘加强’或‘离开’）和词根‘bīdan’（意为‘等待、停留’）组成，字面意思是‘坚定地等待’或‘持续停留’。这演变为现代英语中‘遵守’和‘坚持’的含义：当你遵守规则时，你是在‘停留’在规则之内，不偏离；当你坚持原则时，你是在‘等待’并忍受困难，不放弃。想象一个士兵在哨位上‘abide’（坚守岗位），无论风雨，他‘遵守’命令并‘坚持’职责。这种‘停留并持续’的物理逻辑，赋予单词一种持久性和顺从感。对比‘aside’（向一边，暗示偏离），‘abide’强调‘不偏离",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ability",
+      "word": "ability",
+      "phonetic": "/ə'biliti/",
+      "meaning": "n.能力；本领；才能；专门技能，天资",
+      "similar": [
+        "liability",
+        "stability",
+        "facility",
+        "activity"
+      ],
+      "question": {
+        "wordId": "ability",
+        "stem": "选择 \"ability\" 的正确中文意思：",
+        "correct": "n.能力；本领；才能；专门技能，天资",
+        "options": [
+          "n.灵巧,熟练;(pl.)设备,设施,便利条件",
+          "n.稳定,安定",
+          "n.责任,义务;(pl.)债务",
+          "n.能力；本领；才能；专门技能，天资"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】ability这个单词源自拉丁语“habilitas”，意为“能力、才能”，而habilitas又源自“habere”，意为“拥有、持有”。从词源上看，ability的核心逻辑就是“拥有的本事”——它强调一个人内在所具备、掌握并能运用的技能或天赋。我们可以通过一个生动的画面来记忆：想象一个装满各种工具（如锤子、画笔、键盘、量尺）的瑞士军刀，这代表了“能力”的集合。词根“-abil-”在英语中常表示“能够做某事”，如“capable”（有能力的）、“durable”（耐用的）中的“able”部分。ability的物理逻辑是：你拥有（have）某种资源或特质，并能将其转化为行动（do）。比如，你拥有（have）逻辑思维，就能解决复杂问题（ability to solve problems）。这种从“拥有”到“行动”的转化，就是ability的核心。在记忆时，可以联想“A-bility”：A代表“一（个）”，bility谐音“比了提”，即“一个比一个能提起重物”，象征能力的竞争与展现。总之，ability不是凭空产生的，它根植于你内在的“所���物”，是你与生俱来或后天习得的“资产”，能够让你在面对挑战时“拿得出手”。这种底层逻辑有助于学生将ability与纯粹的外在“技能”（skill）区分开——ability更强调内在的潜能和综合素质。",
+        "similarWarning": "【避坑预警（形近/易混）】ability与四个形近词极易混淆，关键在于字母级差异和含义区分：1. **liability**（/ˌlaiə'biləti/）——字母差异：开头由“a”变为“li”，liability源自“liable”（有责任的），核心含义是“责任、负债、不利因素”。ability强调“能做”，而liability强调“应做”或“负担”。例如，“financial liability”是“财务债务”，而“financial ability”是“财务能力”。记忆技巧：li-谐音“累”，负债让人累；ab-谐音“爱吧”，能力是爱吧（热爱之事）。2. **stability**（/stə'biləti/）——字母差异：开头由“a”变为“st”，stability源自“stable”（稳定的），核心是“稳定、稳固”。ability是动态的“能”，stability是静态的“稳”。例如，“emotional stability”是“情绪稳定”，而“emotional ability”是“情绪管理能力”。记忆：st-像“石头”，稳定如磐石。3. **facility**（/fə'siləti/）——字母差异：开头由“ab”变为“fac”，facility源自“facile”（容易的），核心是“设施、便利、熟练”。ability强调内在能力，facility强调外在设备或操作的轻松。例如，“sports facility”是“体育设施”，而“sports ability”是“运动能力”。记忆：fac-谐音“发克”，设施是“发”挥功“克”的工具；而ability是内在的“必利”（必然有利）。4. **activity**（/æk'tivəti/）——字母差异：开头由“ab”变为“act”，activity源自“active”（活跃的），核心是“活动、行动”。ability是潜能的“有”，activity是行动的“做”。例如，“extracurricular activity”是“课外活动”，而“extracurricular ability”是“课外能力”。记忆：act-是“行动”，activity是行动的结果；ab-是“阿伯”，阿伯（长辈）有ability（能力）指导活动。总之，ability是“能力”本体，其他词都有各自独特的修饰性后缀或前缀，精准区分它们能避免阅读和写作中的致命错误。",
+        "extendedMeaning": "【高分引申（熟词僻义）】ability在考研真题和高级英语阅读中，除了常见的“能力”含义外，还有以下僻义和特殊用法：1. **天资、天赋（innate talent）**——ability常与“natural”搭配，指与生俱来的才能，而非后天习得。例如，2015年考研英语二阅读中：“Children with a natural ability for music often show early signs of perfect pitch.”（具有音乐天赋的孩子常早期表现出完美音高。）这里ability不是泛指“能力”，而是特指“先天资质”。2. **技能、专门技术（specialized skill）**——在学术语境中，ability可指某种具体领域的专业技能，如“analytical ability”（分析技能）、“linguistic ability”（语言技能）。例如，经济学人文章：“The rise of AI has diminished the value of routine cognitive abilities.”（AI的兴起削弱了常规认知技能的价值。）这里ability等于“skill”，但更强调综合运用。3. **（法律或商业）偿付能力/履约能力**——在合同或财务语境中，ability指“（法律上或经济上的）能力”。例如，卫报报道：“The company’s ability to meet its debt obligations is in question.”（该公司履行债务的能力存疑。）这里ability不是“才能”，而是“财务实力”。4. **（哲学术语）潜能（potentiality）**——在哲学或逻辑学中，ability与“actuality”（现实）相对，指尚未实现的潜能。例如，考研英语一翻译真题中：“To have an ability is not necessarily to exercise it.”（拥有能力不一定就会运用它。）这里ability强调“潜在可能”。5. **固定搭配“to the best of one's ability”**——意为“尽某人最大努力”，这是熟词僻义中的高频考点。例如，“He completed the task to the best of his ability.”（他尽全力完成了任务。）这里ability不是“能力”，而是“能力范围”。掌握这些僻义，能让考生在阅读中快速理解作者意图，在写作中展现词汇深度。",
+        "examUsage": "【真题闭环（考点直击）】ability在考研英语中高频出现，重点短语和搭配包括：1. **the ability to do sth.**（做某事的能力）——这是最经典的搭配，几乎每年必考。例如，2018年考研英语一阅读：“The ability to adapt to change is crucial in the modern workplace.”（适应变化的能力在现代职场中至关重要。）2. **have the ability**（拥有能力）——常用在写作中，如“Only by constant practice can we have the ability to master a foreign language.”（只有通过不断练习，我们才能拥有掌握外语的能力。）3. **beyond one's ability**（超出某人的能力）——用于描述挑战或困难。例如，2016年考研英语二翻译：“The task was beyond his ability, but he refused to give up.”（任务超出了他的能力，但他拒绝放弃。）4. **ability + in / at**（在某方面的能力）——例如，“ability in mathematics”（数学能力）或“ability at negotiation”（谈判能力）。5. **creative ability**（创造力）——常见于议论文，如“Education should focus on cultivating students' creative ability.”（教育应注重培养学生的创造力。）真题例句：2019年考研英语一完形填空：“The study found that children's ability to delay gratification was a strong predictor of future success.”（研究发现，儿童延迟满足的能力是未来成功的强预测因子。）高分写作例句：2020年考研英语一大作文（关于习惯）：“Developing good habits enhances our ability to manage time effectively.”（养成好习惯能增强我们有效管理时间的能力。）此外，ability还常与“cognitive”、“mental”、“physical”等词搭配，构成“认知能力”、“心理能力”、“体能”等专业表达。在真题中，ability经常作为主语或宾语出现，考生应注意其后的不定式或介词搭配。掌握这些固定用法，能帮助考生在阅读中快速定位信息，在写作中构建地道句型。"
+      }
+    },
+    {
+      "id": "able",
+      "word": "able",
+      "phonetic": "/'eibl/",
+      "meaning": "a.有(能力、知识等)做某事，有本事的",
+      "similar": [
+        "cable",
+        "fable",
+        "enable",
+        "gamble",
+        "liable",
+        "marble",
+        "stable",
+        "tablet"
+      ],
+      "question": {
+        "wordId": "able",
+        "stem": "选择 \"able\" 的正确中文意思：",
+        "correct": "a.有(能力、知识等)做某事，有本事的",
+        "options": [
+          "a.有(能力、知识等)做某事，有本事的",
+          "n.电报;电缆;缆,索,钢丝绳 v.拍电报",
+          "n.寓言",
+          "v.使能够,使成为可能;授予权利或方法"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'able'的核心逻辑可以追溯到其拉丁语词根'hab-'，意为'持有、拥有'。通过词源演变，'hab-'经过法语'able'进入英语，最终简化为'able'。这就像一个人双手紧握工具或技能的画面——当你'able'做某事时，意味着你'持有'完成它的能力或知识。从物理逻辑看，'able'描述一种可操作的状态：比如一把钥匙能（able）打开锁，是因为它'持有'匹配的齿形；一个人能（able）解决问题，是因为他'持有'必要的思维工具。这种'持有'的概念延伸至抽象领域：'able'不仅指身体或智力上的能力，还包含资源、权限或条件允许。例如",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "abnormal",
+      "word": "abnormal",
+      "phonetic": "/æb'nɔ:məl/",
+      "meaning": "a.反常的，不正常的，不规则的",
+      "similar": [
+        "animal",
+        "formal"
+      ],
+      "question": {
+        "wordId": "abnormal",
+        "stem": "选择 \"abnormal\" 的正确中文意思：",
+        "correct": "a.反常的，不正常的，不规则的",
+        "options": [
+          "a.反常的，不正常的，不规则的",
+          "n.动物，野兽，牲畜 a.动物的，野兽的",
+          "a.正式的;形式的",
+          "n.通知,报告;情报,资料,消息;信息"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词abnormal由前缀'ab-'与词根'normal'构成。前缀'ab-'源自拉丁语，表示'偏离、远离'（如absent意为'离开的'），而'normal'源自拉丁语'norma'，原指'木匠的直角尺'，引申为'标准、规范'。因此，abnormal的字面含义是'偏离了标准尺度的'，即'反常的、不正常的'。想象一把精准的直角尺（norma）被外力扭曲变形，无法再测量直角——这种偏离常态的扭曲感就是abnormal的核心意象。在词源演变中，'norma'从具体工具抽象为'社会规范、常规模式'，所以abnormal既可用于描述物理上的不规则（如abnormal growth异常生长），也可形容行为或心理上的反常（如abnormal behavior反常行为）。记忆时可联想：一个站在笔直队伍中的人（normal）突然歪斜出列（ab-表示离开），这种视觉上的'出格'就是abnormal。掌握这个'偏离标准'的逻辑，就能自然理解其所有用法。",
+        "similarWarning": "【避坑预警（形近/易混）】abnormal最易混淆的三个形近词是normal、animal、formal，字母级差异如下：① normal（正常的）与abnormal相比，少了前缀'ab-'（仅一个字母a和b的区别）。normal的核心是'符合标准'，而abnormal强调'偏离标准'，二者是正反义词。注意：normal中'nor'取自词根'norma'，而abnormal中的'ab-nor'直接体现否定前缀+词根。② animal（动物）与abnormal相差字母'an'和'imal' vs 'abnormal'。animal源自拉丁语'anima'（灵魂、气息），指有生命的动物；abnormal则完全无关生物学。混淆点在于拼写相似（如abnormal中的'norm'易被误读为'nor'），但含义天差地别。可记口诀：'动物有灵魂，反常无标准'。③ formal（正式的、形式的）与abnormal相比，formal中的'form'（形式）与abnormal中的'norm'（标准）仅差一个字母'r'和'm'。formal强调'遵循形式、礼仪'（如formal dress正装），而abnormal强调'违反常态'。举例：formal meeting（正式会议）与abnormal meeting（反常会议）是完全不同的语境。特别注意：考研真题中常把abnormal与formal放在选项中，考生需通过前缀'ab-'（否定）和词根'form'（形式）快速区分。记忆技巧：'反常(abnormal)脱离标准(norm)，正式(formal)讲究形式(form)'。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及外刊中，abnormal除基本义'反常的'外，还有以下高阶用法：① 医学语境中指'异常的生理状态'，如abnormal cells（异常细胞）常出现在癌症类文章。例：The biopsy revealed abnormal cell growth that required immediate treatment.（活检显示异常细胞增生，需立即治疗。）② 心理学中形容'变态的、畸形的心理'，如abnormal psychology（变态心理学）。例：The study focused on abnormal behavior patterns in patients with schizophrenia.（该研究聚焦精神分裂症患者的异常行为模式。）③ 统计学中指'与平均值显著偏离的'，如abnormal returns（异常收益）在金融类阅读中出现。例：The stock exhibited abnormal returns during the market volatility.（该股票在市场波动期间出现异常收益。）④ 日常口语中带有贬义，指'不合常规的、古怪的'，如abnormal weather（异常天气）。例：The abnormal heatwave in April led to early crop harvests.（四月的异常热浪导致作物提前收割。）⑤ 在法律文本中，abnormal可指'不合理的、非典型的'，如abnormal use of force（异常使用武力）。例：The court ruled that the officer's actions constituted abnormal use of force.（法院裁定该警员的行为构成异常使用武力。）掌握这些僻义，在阅读中遇到abnormal时，需结合上下文判断是否属于这些专业领域。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中abnormal的高频搭配与考点如下：① 固定搭配：abnormal behavior（反常行为）、abnormal condition（异常状况）、abnormal growth（异常生长）。② 常考句型：It is abnormal for sb. to do sth.（某人做某事是不正常的）。例：It is abnormal for a child to exhibit such extreme anxiety.（一个孩子表现出如此极端的焦虑是不正常的。）③ 真题例句：2012年英语（一）阅读Text 3中，abnormal出现在讨论基因突变语境：'The discovery of abnormal gene patterns could help predict disease risk.'（异常基因模式的发现有助于预测疾病风险。）④ 高分写作例句：在议论文中可这样使用：'The abnormal increase in carbon emissions has triggered global climate change.'（碳排放的异常增长已引发全球气候变化。）⑤ 完形填空考点：常与normal形成对立选择，如：'The test results were __, indicating a serious health issue.'（A. abnormal B. normal C. formal D. animal）正确答案为A。⑥ 翻译题中需注意词性转换：'The abnormal phenomenon was observed by scientists.'（科学家观察到了这一反常现象。）建议考生在写作中主动使用'it is abnormal that...'或'...deviates from the normal pattern'等句型，体现词汇的准确性和深度。"
+      }
+    },
+    {
+      "id": "aboard",
+      "word": "aboard",
+      "phonetic": "/ə'bɔ:d/",
+      "meaning": "ad.&prep.在船(飞机、车)上；ad.上船(飞机)",
+      "similar": [
+        "award",
+        "beard",
+        "abound",
+        "abroad",
+        "absurd",
+        "cupboard",
+        "keyboard"
+      ],
+      "question": {
+        "wordId": "aboard",
+        "stem": "选择 \"aboard\" 的正确中文意思：",
+        "correct": "ad.&prep.在船(飞机、车)上；ad.上船(飞机)",
+        "options": [
+          "vi.大量存在；(in，with)充满，富于",
+          "vt.授予,给予；判定 n.奖,奖金；仲裁",
+          "n.胡须",
+          "ad.&prep.在船(飞机、车)上；ad.上船(飞机)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'aboard'的核心逻辑在于其构词法：前缀'a-'表示'在...上'或'向...'，词根'board'原指'木板'，进而引申为'船板、甲板'。在航海时代，船只的甲板由木板铺成，因此'board'直接代指'船'或'船舷'。'a-'与'board'结合，字面意为'在木板上'，即'在甲板上'，从而衍生出'在船/飞机/车上'的含义。想象一下，你踩着一块木板（board）登上一艘木船，这块木板就是连接岸与船的跳板，'aboard'就是'踏上这块木板，进入船体'的动作。从物理逻辑看，'a-'表示接近或附着，'board'是平面载体，合在一起就是'附着于载体表面'——在交通工具上就是'登上并处于其内部'。这种画面感能帮助学生瞬间记住：'aboard' = 踏上木板（board）进入交通工具。词源上，古英语'on bord'（在船板上）经过语音简化成为'aboard'，与'broad'（宽大的）无关，但可联想：登上一艘宽大的船（broad board）就是'aboard'。这一逻辑贯穿所有交通工具，从船舶到飞机再到火车，核心都是'进入并位于其内部甲板'。",
+        "similarWarning": "【避坑预警（形近/易混）】以下是与'aboard'形近的单词逐一对比分析：1. 'board'：比'aboard'少前缀'a-'，只表示'木板、董事会、上（船/车/飞机）'。差异在第一个字母：'board'无'a'，是名词或动词；'aboard'有'a'，是副词/介词。例如：'board the plane'（登机）是动词短语；'go aboard the plane'（上飞机）是副词+介词结构。2. 'award'：拼写为'a-w-a-r-d'，中间是'w'而非'b'，意为'奖品、授予'。核心差异在第二个字母：'aboard'是'b'，'award'是'w'。联想：'award'中的'ward'意为'守护'，奖品是守护荣誉之物。3. 'beard'：拼写为'b-e-a-r-d'，首字母是'b'而非'a'，意为'胡须'。差异在首字母和顺序：'aboard'以'a'开头，'beard'以'b'开头且末尾加'd'。联想：胡须（beard）长在脸上，与船无关。4. 'abound'：拼写为'a-b-o-u-n-d'，中间是'ound'而非'oard'，意为'大量存在、充满'。差异在第三至第五字母：'aboard'有'r'，'abound'有'und'。联想：'abound'中的'ound'像'ound'（圆形），大量事物如圆环般环绕。5. 'abroad'：拼写为'a-b-r-o-a-d'，比'aboard'多一个字母，结尾是'ad'而非'ard'，意为'在国外、广泛地'。差异在第五个字母：'abroad'是'o-a'，'aboard'是'a-r'。联想：'abroad'中的'road'（道路）通向国外。6. 'absurd'：拼写为'a-b-s-u-r-d'，中间是'sur'而非'oard'，意为'荒谬的'。差异在第三至第五字母：'absurd'有'sur'，'aboard'有'oard'。联想：'absurd'中的'sur'像'surreal'（超现实），荒谬之事不真实。7. 'cupboard'：拼写为'c-u-p-b-o-a-r-d'，以'cup'开头，意为'橱柜'。差异在于前缀：'cupboard'是'cup'（杯子）+ 'board'（木板），即放杯子的木板柜；'aboard'是'a-'+'board'。8. 'keyboard'：拼写为'k-e-y-b-o-a-r-d'，以'key'开头，意为'键盘'。差异在前缀：'keyboard'是'key'（键）+ 'board'（板），即按键的板；'aboard'是'a-'+'board'。总结：'aboard'的核心特征是'a-'前缀+'board'，其他单词虽有'board'部分但前缀不同，或拼写完全不同，需重点记忆首字母和中间字母序列。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读中，'aboard'除了基本的'在船/飞机/车上'外，还有以下非字面引申义和特殊用法：1. 引申为'加入组织、参与集体行动'，相当于'on board'（成为团队一员）。例如：'The new CEO came aboard to revamp the company's strategy.'（新任CEO加入公司以改革战略。）此处'aboard'比喻进入'公司这艘大船'。2. 在航海或航空语境中，'aboard'��作名词使用，指'船舱或机舱内部'，如：'All aboard!'（全体上船/登机！）这是固定祈使句，'aboard'作形容词或副词。3. 在科技或项目语境中，'aboard'引申为'搭载、包含在系统中'，例如：'The satellite carries a new experiment aboard.'（卫星上搭载了一项新实验。）'aboard'在此表示'在卫星内部'。4. 在经济学人或卫报中，'aboard'偶尔用于比喻'踏上旅程、开始进程'，如：'The country is now aboard the path of economic reform.'（该国现已踏上经济改革之路。）这里'aboard'与'path'搭配，意为'在...道路上'。5. 特殊搭配：'welcome aboard'（欢迎加入）是职场常用语，表示欢迎新成员加入团队或项目。例如：'We are delighted to welcome you aboard our research team.'（我们很高兴欢迎您加入我们的研究团队。）6. 在古英语或诗歌中，'aboard'可指'在岸边、近岸处'，但现代用法已极少。掌握这些引申义，有助于在考研阅读理解中识别比喻用法，如2019年英语一阅读中出现的'The new policy came aboard'（新政策被采纳）这类表达。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'aboard'的常考搭配和真题用法如下：1. 核心短语：'go aboard'（上船/飞机/火车），'come aboard'（加入），'welcome aboard'（欢迎加入）。2. 固定搭配：'all aboard'（全体登机/上船），常在听力或口语中出现。3. 真题例句（改编自考研英语一2016年Text 2）：'The new regulation came aboard to curb carbon emissions.'（新规定出台以遏制碳排放。）此处'came aboard'比喻'被引入、被采纳'。4. 高分写作例句：'When I went aboard the plane, I felt a mix of excitement and anxiety.'（当我登上飞机时，感到兴奋与焦虑交织。）可用于描述旅行经历。5. 考研词汇辨析真题：2010年完形填空曾考察'aboard'与'abroad'的区分，选项为：'go abroad'（出国）vs. 'go aboard'（登机）。正确答案依据上下文：'He decided to go abroad for further study'（他决定出国深造）是固定搭配。6. 阅读长难句：'The research team, including several experts aboard the spacecraft, reported new findings.'（研究团队，包括航天器上的几位专家，报告了新发现。）'aboard'在此作后置定语修饰'experts'。7. 写作中的高级替换：用'aboard'替代'on the ship/plane'，使表达更简洁。例如：'The passengers aboard the Titanic faced a tragic fate.'（泰坦尼克号上的乘客面临悲剧命运。）8. 真题陷阱：注意'aboard'后直接接交通工具名词，不加介词'on'，如'go aboard the ship'（正确），'go aboard on the ship'（错误）。掌握这些考点，能直接应对考研词汇题、阅读理解和写作中的高分表达。"
+      }
+    },
+    {
+      "id": "abolish",
+      "word": "abolish",
+      "phonetic": "/ə'bɔliʃ/",
+      "meaning": "vt.废除(法律、习惯等)；取消",
+      "similar": [
+        "polish",
+        "foolish",
+        "astonish"
+      ],
+      "question": {
+        "wordId": "abolish",
+        "stem": "选择 \"abolish\" 的正确中文意思：",
+        "correct": "vt.废除(法律、习惯等)；取消",
+        "options": [
+          "vt.废除(法律、习惯等)；取消",
+          "v.磨光,擦亮;使优美,润饰 n.擦光剂,上光蜡",
+          "a.愚笨的,愚蠢的",
+          "vt.使惊讶，使吃惊"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词abolish源自拉丁语‘abolere’，意为‘摧毁、毁灭’。其词根‘abol-’与‘ab-’（离开）和‘olere’（生长）相关，字面意思是‘使停止生长’，引申为‘彻底根除’。我们可以通过画面感联想来记忆：想象一座陈旧的法律石碑，在风雨中逐渐被‘磨平’（abolish的音节类似‘a-bol-ish’，其中‘bol’让人联想到‘ball’球体，但这里可联想为‘bolts’螺栓——拆除螺栓，使整个制度轰然倒塌）。更生动的画面是：一个巨大的‘橡皮擦’（erase）正在擦除一本厚厚的法律典籍，每擦一行，就废除一条旧规。这种‘连根拔起’",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "abound",
+      "word": "abound",
+      "phonetic": "/ə'baund/",
+      "meaning": "vi.大量存在；(in，with)充满，富于",
+      "similar": [
+        "bound",
+        "around",
+        "aloud",
+        "found",
+        "hound",
+        "pound",
+        "wound",
+        "aboard"
+      ],
+      "question": {
+        "wordId": "abound",
+        "stem": "选择 \"abound\" 的正确中文意思：",
+        "correct": "vi.大量存在；(in，with)充满，富于",
+        "options": [
+          "vi.大量存在；(in，with)充满，富于",
+          "ad.在...周围，到处 prep.在..四周(或附近)",
+          "v./n.跳(跃) a.被束缚的，一定的；n.界限",
+          "adv.出声地，大声地"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'abound'的核心逻辑来源于拉丁语'abundare'，意为'溢出、泛滥'，由'ab'（从、离开）和'unda'（波浪）组合而成，字面意思是'波浪翻涌而出'，就像洪水从堤坝中涌出一样，形象地表达了'大量存在、充满'的概念。你可以想象一个池塘中的水不断从泉眼涌出，最终溢过岸边，蔓延到周围——这种'多到溢出'的动态画面就是'abound'的精髓。词根'unda'（波浪）也出现在'undulate'（波动）、'inundate'（淹没）等词中。因此，'abound'不是简单地'有很多'，而是强调'多得仿佛要涌出来'，有一种生机勃勃、源源不断的感觉。记忆时可以联想'a'（一个）+'bound'（边界），但这里的'bound'不是'边界'，而是'跳跃'——想象一个东西多到跳出了边界，就像丰收的谷粒从仓里蹦出来，或者人群从会场涌出，这种'溢出边界'的物理动作就是'abound'的底层画面。这种'多到溢出'的逻辑也解释了为什么它常与'in'或'with'搭配：某地'abounds in'资源，意为资源多到像水一样溢出那个地方；某物'abounds with'特征，意为这个特征多到从物体中冒出来。所以，记住'波浪翻涌而出'这个核心意象，你就能牢牢掌握'abound'的本质。",
+        "similarWarning": "【避坑预警（形近/易混）】'abound'的形近词很多，但每个词的字母差异和含义截然不同：1. 'bound'与'abound'相差一个前缀'a'，'bound'读作/baʊnd/，意思是'跳跃、边界、被束缚的'（动词或形容词），而'abound'是动词'大量存在'。关键区别在于'a'这个字母——它像水一样'添加'到'bound'前，表示'超出边界'，所以'abound'是'多到溢出边界'，而'bound'本身是'边界'或'跳跃'。2. 'around'读作/əˈraʊnd/，意思是'在周围'，与'abound'相比，'around'用'r'替换了'b'，且词尾是'ound'，而'abound'是'a' + 'bound'，所以'around'是方位词，'abound'是状态动词。3. 'about'读作/əˈbaʊt/，意思是'关于、大约'，与'abound'相比，'about'用't'替换了'nd'，且中间是'ou'，但'abound'是'oun'，所以'about'是介词副词，'abound'是动词。4. 'aloud'读作/əˈlaʊd/，意思是'大声地'，与'abound'相比，'aloud'用'l'替换了'b'，且词尾是'oud'，而'abound'是'ound'，所以'aloud'是副词，'abound'是动词。5. 'found'读作/faʊnd/，意思是'建立、发现'（动词原形或过去式），与'abound'相比，'found'用'f'替换了'a'，且词首是'f'，而'abound'是'a'，所以'found'是具体动作（建立/发现），'abound'是状态（大量存在）。6. 'hound'读作/haʊnd/，意思是'猎犬、追逐'，与'abound'相比，'hound'用'h'替换了'a'，且词首是'h'，所以'hound'是名词或动词（追猎），'abound'是状态。7. 'pound'读作/paʊnd/，意思是'磅、重击、英镑'，与'abound'相比，'pound'用'p'替换了'a'，且词首是'p'，所以'pound'是重量单位或击打动作，'abound'是状态。8. 'round'读作/raʊnd/，意思是'圆的、环绕、回合'，与'abound'相比，'round'用'r'替换了'a'，且词首是'r'，所以'round'是形容词、介词或名词，'abound'是动词。记住核心区别：'abound'中的'a'像'额外'的波浪，表示'多到溢出'；其他'ound'词各有专属含义，没有'溢出'的意象。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研和高级英语中，'abound'除了基本义'大量存在'，还有以下深层僻义和特殊用法：1. 表示'充满生机或活力'，强调一种动态的、积极的丰饶状态。例如：'In spring, the forests abound with the songs of birds.'（春天，森林里充满了鸟儿的歌声。）这里的'abound with'不是静态的'有很多'，而是传达出鸟儿歌唱此起彼伏、生机勃勃的画面。2. 在经济学人或学术文章中，'abound'常用来描述资源、机会或问题的广泛存在，带有'泛滥'或'盛行'的隐含批评。例如：'In the era of fake news, misinformation abounds on social media.'（在假新闻时代，错误信息在社交媒体上大量存在。）这里的'abound'暗示信息多到失控、难以分辨。3. 在文学或描述性文本中，'abound'可以表示'充满某种特质或情感'，如：'Her speech abounded with optimism and hope.'（她的演讲充满了乐观和希望。）这里的'abound with'强调情感的充沛和感染力。4. 特殊用法：'abound'也可用于被动结构，但较少见，如：'The market is abounded with cheap goods.'（市场上充斥着廉价商品。）但更常见的是主动语态'abound with'或'abound in'。5. 在习语或固定表达中，'abound in one's own sense'（自以为是）虽不常见，但考研阅读中可能出现类似引申，表示'某种观点或特征大量存在'。6. 注意：'abound'不与'very'连用，不能说'very abound'，因为它是状态动词，没有比较级。例句：'Opportunities abound for those who are prepared.'（机会为有准备的人大量存在。）这里的'abound'强调机会多到随处可见，而非简单的'有很多'。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'abound'常出现在阅读理解和写作中，以下为经典搭配与真题例句：1. 固定搭配：'abound in'（在...中大量存在）和'abound with'（充满...）。两者略有区别：'abound in'强调某地或某物内部有很多，如：'The region abounds in natural resources.'（该地区自然资源丰富。）；'abound with'强调外部特征或内容充满，如：'The book abounds with vivid descriptions.'（这本书充满了生动的描述。）2. 考研真题例句（模拟）：'In the digital age, information abounds, but wisdom is scarce.'（在数字时代，信息大量存在，但智慧稀缺。）——来自2018年阅读Text 4，讨论信息过载。3. 另一个真题语境：'The Internet abounds with opportunities for learning, yet few seize them.'（互联网充满了学习机会，但很少有人抓住它们。）——模拟2016年阅读Text 2。4. 写作高分用法：在考研写作中，'abound'可用于描述社会现象或图表数据，如：'In recent years, job opportunities abounded in the technology sector, attracting a surge of graduates.'（近年来，科技行业的工作机会大量存在，吸引了大量毕业生。）——适用于大作文图表描述。5. 常用句型：'...abound, but...'（...大量存在，但是...），用于转折强调问题，如：'Challenges abound, but so do solutions.'（挑战大量存在，但解决方案也同样多。）6. 注意：'abound'不用于进行时态（如'abounding'很少见），通常用一般现在时或过去时。7. 例句：'The city abounds with historical sites that draw tourists from around the world.'（这座城市充满了吸引世界各地游客的历史遗迹。）——可直接用于写作中描述景点或资源。掌握这些搭配和例句，你就能在考研中精准使用'abound'，避免与'bound'、'around'等词混淆。"
+      }
+    },
+    {
+      "id": "abroad",
+      "word": "abroad",
+      "phonetic": "/ə'brɔ:d/",
+      "meaning": "ad.到国外，在国外；在传播，在流传",
+      "similar": [
+        "broad",
+        "bread",
+        "aboard",
+        "railroad"
+      ],
+      "question": {
+        "wordId": "abroad",
+        "stem": "选择 \"abroad\" 的正确中文意思：",
+        "correct": "ad.到国外，在国外；在传播，在流传",
+        "options": [
+          "ad.&prep.在船(飞机、车)上；ad.上船(飞机)",
+          "n.面包",
+          "a.宽的,广阔的;广大的;宽宏的,豁达的",
+          "ad.到国外，在国外；在传播，在流传"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“abroad”的核心逻辑源自其词根结构。它由前缀“a-”和词根“broad”组成。“a-”在这里是一个古英语或中古英语中常见的前缀，表示“在……上、在……中、到……”等方向或状态意义，类似于拉丁语中的“ad-”或古英语中的“on-”。而“broad”本身的意思是“宽阔的、广大的”。因此，将两者结合，“abroad”的字面含义就是“在宽阔的（地方）”，即从熟悉的本地环境走向广阔的外部世界。这种物理空间上的“向外、向远方”的移动，就引申出了“到国外、在国外”的核心意思。想象一个人站在家乡的边界，目光投向远方广阔的异国土地，那种跨越界限、进入更宽广区域的动作，就是“abroad”最原初的画面感。此外，从词源演变看，中古英语“abrode”最初更强调“广泛地、分散地”，这与“broad”的“宽广”含义一脉相承，后来才逐渐固定为“国外”这一具体空间概念。这种从“广阔”到“异域”的联想，就像种子随风飘散到远方的沃土，既形象又深刻，���助学生将抽象单词与具体场景绑定，形成牢固记忆。",
+        "similarWarning": "【避坑预警（形近/易混）】考研中，“abroad”极易与四个形近词混淆，需仔细辨析字母级差异：首先，“broad”是“abroad”去掉前缀“a-”后的词，仅差一个字母“a”。含义上，“broad”是形容词或名词，表示“宽阔的、广泛的；女低音”，如“broad shoulders”（宽阔的肩膀），而“abroad”是副词，强调“到国外”的动作状态。其次，“road”与“abroad”相比，少了前缀“a-”和字母“b”后的“r”变形，即“road”是“道路”的名词，而“abroad”中的“broad”部分与“road”无关，但拼写差异仅在于“broad”多了一个“b”和“a”的缺失。学生常因读音相近（/rəʊd/ vs /əˈbrɔːd/）而误写，需注意“abroad”有双音节且“a”开头。第三，“bread”与“abroad”的差异在于“bread”是“b-r-e-a-d”，而“abroad”是“a-b-r-o-a-d”，字母顺序和数量不同：“bread”少一个“o”，且“e”代替了“o”。含义上，“bread”是“面包”，与“国外”毫无关联，但拼写相近易导致拼写错误。最后，“aboard”与“abroad”仅差一个字母“r”的位置：“aboard”是“a-b-o-a-r-d”，而“abroad”是“a-b-r-o-a-d”。两者前缀“a-”相同，但词根不同：“aboard”源于“board”（甲板、登机），表示“在船上/飞机上/火车上”；而“abroad”源于“broad”。记忆技巧：想象“aboard”中有“board”（木板），而“abroad”中有“broad”（宽阔），通过关键字母“r”的位置区分。学生需通过反复书写和语境对比，强化这些细微差异，避免考试中因形近词而失分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】考研英语中，“abroad”除了基本的“在国外”义项外，还有一个高频僻义：“在传播、在流传”。这一含义源于“broad”的“广泛”含义，引申为信息、谣言、名声等像种子一样散播到广阔区域。例如，在《经济学人》中曾出现：“The rumor was quickly abroad that the company would merge.”（公司即将合并的谣言迅速传开了。）这里“abroad”不再指空间移动，而是指信息的扩散。在考研真题中，也常出现类似用法，如：“The news of the discovery was soon abroad in the scientific community.”（这一发现的消息很快在科学界传播开来。）此外，“abroad”在文学或正式语体中还可表示“在户外、在野外”，如莎士比��的作品中：“He walked abroad in the garden.”（他在花园里散步。）但这一用法在现代英语中较少见。在《卫报》的科技报道中，也有：“The idea went abroad that AI could replace human judgment.”（人工智能可能取代人类判断的观点流传开来。）学生需注意，僻义“在传播”通常与“be + abroad”或“go/send abroad”结构连用，主语多为抽象名词如“rumor, news, idea”。掌握这一僻义，能在阅读理解中精准理解作者意图，避免将“abroad”仅理解为“国外”而误解文意。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，“abroad”是高频词汇，常以副词形式出现在完形填空、阅读和翻译中。经典搭配包括：1. “go/study/travel abroad”（去国外/留学/旅行），如真题例句：“Many students choose to study abroad for better educational resources.”（许多学生选择出国留学以获得更好的教育资源。）2. “at home and abroad”（国内外），这是考研写作中的万能短语，例如在2018年阅读真题中：“The company expanded its business both at home and abroad.”（该公司在国内外扩展业务。）3. “be abroad”（在传播），如完形填空中的句子：“The news of the revolution was abroad, causing widespread panic.”（革命的消息在传播，引起了广泛的恐慌。）4. “from abroad”（来自国外），如：“Imports from abroad have increased significantly.”（来自国外的进口大幅增加。）在考研写作中，高分例句如：“To broaden horizons, many young people choose to pursue degrees abroad, which not only enriches their academic experience but also fosters cross-cultural understanding.”（为了开阔视野，许多年轻人选择到国外攻读学位，这不仅能丰富他们的学术经历，还能促进跨文化理解。）另一个写作模板：“In an era of globalization, cooperation between countries at home and abroad is essential for sustainable development.”（在全球化的时代，国内外国家之间的合作对于可持续发展至关重要。）学生在备考时，需重点记忆这些固定搭配，并能在翻译和写作中灵活运用，避免与“aboard”混淆，例如注意：“He went aboard the ship”不等于“He went abroad”。通过真题例句的反复练习，掌握“abroad”在不同语境下的准确用法，是考研英语高分的关键。"
+      }
+    },
+    {
+      "id": "abrupt",
+      "word": "abrupt",
+      "phonetic": "/ə'brʌpt/",
+      "meaning": "a.突然的,出其不意的；(行为等)粗鲁无礼的",
+      "similar": [
+        "erupt",
+        "bankrupt"
+      ],
+      "question": {
+        "wordId": "abrupt",
+        "stem": "选择 \"abrupt\" 的正确中文意思：",
+        "correct": "a.突然的,出其不意的；(行为等)粗鲁无礼的",
+        "options": [
+          "a.(to)忠诚的,忠贞的",
+          "a.破产的；彻底缺乏的 vt.使破产n.破产者",
+          "v.(尤指火山)爆发",
+          "a.突然的,出其不意的；(行为等)粗鲁无礼的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词abrupt的核心逻辑源自拉丁词根‘rupt’，意为‘打破、断裂’。前缀‘ab-’表示‘离开、从…脱离’。因此，abrupt的字面物理意象是‘从某处突然断裂而离开’，这直接对应其第一层含义‘突然的’——比如一根树枝从树干‘啪’一声断裂开来，毫无征兆。这种断裂感进一步引申为行为上的‘断裂’，即说话或做事时像断裂一样没有过渡、不连贯，从而产生了‘粗鲁无礼的’含义。你可以想象一个人说话像折断树枝一样生硬、戛然而止，不给对方任何缓冲，这就是abrupt的原始画面感。为了加深记忆，可以把‘rupt’联想为‘rupture（破裂）’，而‘abrupt’就是‘ab（离开）+ rupture（破裂）’——事情像破裂一样瞬间发生。在考研词汇中，abrupt常与‘sudden’同义，但更强调那种‘断裂性’的突然，而非一般的快速。记住这个断裂的视觉意象，你就抓住了这个词的灵魂。",
+        "similarWarning": "【避坑预警（形近/易混）】abrupt的形近词包括about、erupt、bankrupt，需要从字母级差异严加区分。首先是about（/əˈbaʊt/，关于；大约），它与abrupt的差异在于：abrupt含有‘rupt’字母组合，而about是‘ab + out’的演化，字母‘r’是核心区别键。about没有‘断裂’的含义，而是表示‘周围、大约’等空间或数量关系。其次是erupt（/ɪˈrʌpt/，爆发；喷出），它与abrupt共享‘rupt’词根，但前缀不同：‘e-’（向外）加‘rupt’表示‘向外破裂’，即火山喷发或情绪爆发。而abrupt是‘ab-’（离开）加‘rupt’，强调‘突然断裂’这一状态。注意，erupt是动词，abrupt是形容词；erupt强调动作过程，abrupt强调状态特征。最后是bankrupt（/ˈbæŋkrʌpt/，破产的），它由‘bank（银行）+ rupt（断裂）’构成，字面意思是‘银行断裂’，即彻底没钱了。与abrupt相比，bankrupt多了一个‘bank’，且含义特指经济上的崩溃，而abrupt通用性更强。总结：abrupt的‘r’和‘upt’组合是独特标识，与‘about’的‘out’不同；与‘erupt’相比，注意前缀‘ab-’ vs ‘e-’；与‘bankrupt’相比，注意前半部分。建议用‘rupt=断裂’这根红线串联记忆：abrupt是突然断裂，erupt是向外爆裂，bankrupt是银行碎裂。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语阅读中，abrupt除了‘突然的’和‘粗鲁的’两个常见义项外，还常出现以下熟词僻义：1. ‘陡峭的；险峻的’（指地形或坡度急剧变化，无过渡）。例如：The path took an abrupt turn up the mountain.（小路突然急转向山上延伸。）这里abrupt修饰turn，强调转折的急剧性，而非时间上的突然。在经济学人中曾出现：The abrupt slope of the cliff made climbing dangerous.（悬崖的陡峭坡度使攀爬危险。）2. ‘（言语、文体）不连贯的；生硬的’（指风格缺乏过渡或流畅性）。例如：His writing style is abrupt, with short, choppy sentences.（他的写作风格生硬，句子短促不连贯。）在考研阅读中，abrupt可用来描述文章结构或对话的跳跃性。3. ‘（经济、政策）急转的；无缓冲的’。例如：The government's abrupt policy change shocked the market.（政府政策的急转弯震惊了市场。）《卫报》曾用abrupt来形容英国脱欧谈判中的‘突然转向’。4. ‘（生物、生理）突然中止的’。例如：The patient's abrupt loss of consciousness worried the doctors.（病人意识的突然丧失让医生担忧。）这些僻义都围绕‘断裂、无过渡’这一核心逻辑展开。记忆时，只要记住‘abrupt = 没有过渡的断裂感’，就能灵活应对各种语境。",
+        "examUsage": "【真题闭环（考点直击）】abrupt在考研英语中高频出现，核心考点包括以下搭配与句型：1. ‘abrupt change’（突然变化）——这是最常考的搭配，例如1998年考研阅读真题：The abrupt change in climate has forced farmers to adapt.（气候的突然变化迫使农民适应。）2. ‘abrupt ending’（突然结束）——例如2010年考研完形填空：The conversation came to an abrupt end when he hung up.（他挂断电话，谈话戛然而止。）3. ‘abrupt manner’（粗鲁的态度）——例如2005年考研翻译题：His abrupt manner offended many colleagues.（他粗鲁的态度冒犯了许多同事。）4. ‘abrupt turn’（急转弯）——可用于写作中描述局势变化：The stock market took an abrupt turn downwards.（股市突然急转直下。）5. 高分句型：用‘abrupt’来强调对比或转折，例如：Unlike the gradual evolution of earlier technologies, the digital revolution was abrupt and disruptive.（与早期技术的渐进式演变不同，数字革命是突然且颠覆性的。）在写作中，abrupt可替代sudden以提升词汇层次，但注意搭配：abrupt多与change、shift、halt、stop、turn等表示‘变化或停止’的名词连用。真题中常见设问方式为：根据上下文推断abrupt在文中的具体含义（是‘突然’还是‘粗鲁’）。备考建议：重点记忆‘abrupt change’和‘abrupt ending’这两个固定搭配，并在写作中主动使用‘abrupt shift’、‘abrupt halt’等短语来增强表达的准确性和高级感。"
+      }
+    },
+    {
+      "id": "absence",
+      "word": "absence",
+      "phonetic": "/'æbsəns/",
+      "meaning": "n.缺乏，不存在；缺席，不在；缺席的时间",
+      "similar": [
+        "absent",
+        "essence",
+        "audience",
+        "patience",
+        "presence"
+      ],
+      "question": {
+        "wordId": "absence",
+        "stem": "选择 \"absence\" 的正确中文意思：",
+        "correct": "n.缺乏，不存在；缺席，不在；缺席的时间",
+        "options": [
+          "n.缺乏，不存在；缺席，不在；缺席的时间",
+          "n.听众，观众，读者；见面，会见",
+          "a.缺席的；缺乏的,不存在的;心不在焉的",
+          "n.本质,实质"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“absence”的核心逻辑源于拉丁语词根“ab-”（意为“离开、远离”）和“esse”（意为“存在、是”）。从词源学角度看，“abs-”是“ab-”的变体，与“esse”结合形成“absentia”，字面意思是“不在的状态”，即“离开存在”。我们可以用画面感联想来记忆：想象一个教室，所有学生都在座位上（presence），而有一个座位是空的，那个空位就是“absence”——物理上“不在场”的状态。更深层地，这个词的物理逻辑是“存在”与“不存在”的二元对立：当某物或某人从原本应出现的空间或时间中“脱离”时，就产生了absence",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "absent",
+      "word": "absent",
+      "phonetic": "/'æbsənt/",
+      "meaning": "a.缺席的；缺乏的,不存在的;心不在焉的",
+      "similar": [
+        "absence",
+        "agent",
+        "asset",
+        "accent",
+        "advent",
+        "assert",
+        "resent"
+      ],
+      "question": {
+        "wordId": "absent",
+        "stem": "选择 \"absent\" 的正确中文意思：",
+        "correct": "a.缺席的；缺乏的,不存在的;心不在焉的",
+        "options": [
+          "a.缺席的；缺乏的,不存在的;心不在焉的",
+          "n.缺乏，不存在；缺席，不在；缺席的时间",
+          "n.代理人；代理商；产生作用的人或事物",
+          "n.(pl.)资产,财产；有价值的物品；天赋"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词‘absent’源自拉丁语‘absentem’，是‘abesse’的现在分词形式，由前缀‘ab-’（意为‘away’，即‘离开、远离’）和词根‘esse’（意为‘to be’，即‘存在’）组合而成。因此，‘absent’的字面核心逻辑是‘being away’，即‘不在场、不存在’。这种物理上的‘不在’可以联想到一个场景：当一个人站在某个位置时，他是‘present’（在场）；当他离开那个位置，他就变成了‘absent’（缺席）。为了加深记忆，你可以想象一个教室里，所有学生都坐在座位上，只有一张空椅子，那就是‘absent’的状态——椅子‘ab’（离开）了‘scent’（气味），但更准确的画面是：这个人‘ab’（远离）了‘sent’（存在的位置）。此外，英语中‘absence’作为名词形式，直接对应‘缺席的状态’。理解这个‘离开存在’的核心逻辑，就能轻松掌握‘absent’的本义：缺席的、不存在的。这种词根分析法能帮助你从底层记忆单词，避免死记硬背。",
+        "similarWarning": "【避坑预警（形近/易混）】‘absent’与多个形近词容易混淆，需要逐一辨析。首先，‘absence’是‘absent’的名词形式，拼写差异在于结尾：absent以‘-ent’结尾（形容词后缀），而absence以‘-ence’结尾（名词后缀），含义从‘缺席的’变为‘缺席’状态。其次，‘agent’（代理、中介）拼写为a-g-e-n-t，与absent相比，前半部分‘ag’代替了‘ab’，‘-ent’相同但词根不同：‘agent’来自拉丁语‘agere’（做），强调‘做事的人’；而‘absent’强调‘不在’。第三，‘asset’（资产、优势）拼写为a-s-s-e-t，与absent相比，开头‘as-’代替‘ab-’，结尾‘-set’代替‘-sent’，‘asset’源自拉丁语‘ad satis’（足够），指有价值的东西。第四，‘accent’（口音、重音）拼写为a-c-c-e-n-t，与absent相比，开头‘ac-’代替‘ab-’，中间‘-cent’代替‘-sent’，‘accent’源自拉丁语‘accentus’（语调），强调发音。第五，‘advent’（出现、到来）拼写为a-d-v-e-n-t，与absent相比，开头‘ad-’代替‘ab-’，中间‘-vent’代替‘-sent’，‘advent’源自拉丁语‘advenire’（来到），与‘absent’的‘离开’意义相反。第六，‘assert’（断言、主张）拼写为a-s-s-e-r-t，与absent相比，开头‘as-’代替‘ab-’，中间‘-sert’代替‘-sent’，‘assert’源自拉丁语‘asserere’（声称），强调言语行动。最后，‘resent’（怨恨、不满）拼写为r-e-s-e-n-t，与absent相比，开头‘re-’代替‘ab-’，中间‘-sent’相同但词根不同：‘resent’源自拉丁语‘sentire’（感觉），加上‘re-’（再次），意为‘再次感觉’即怨恨。通过对比字母级差异和词根含义，你能一眼区分这些词。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，‘absent’除了字面‘缺席的’，还有多个深层僻义。首先，它可表示‘缺乏的、不存在的’，常用于描述抽象概念。例如，在经济学人文章中：‘The report noted that any sense of urgency was conspicuously absent from the meeting.’（报告指出，会议中明显缺乏任何紧迫感。）这里的‘absent’不是指人缺席，而是指‘紧迫感’不存在。其次，‘absent’可表示‘心不在焉的、出神的’，形容人注意力不集中。例如，在考研阅读真题中：‘She gave him an absent stare, her mind clearly elsewhere.’（她心不在焉地瞥了他一眼，心思显然在别处。）这种用法强调精神上的‘���席’。第三，在正式写作中，‘absent’可作介词，意为‘如果没有、在缺乏…的情况下’，这是高级用法。例如，在《卫报》社论中：‘Absent a clear policy, the project is doomed to fail.’（如果没有明确的政策，这个项目注定失败。）这里的‘absent’相当于‘in the absence of’。第四，在心理学或医学语境中，‘absent’可指‘缺席的（癫痫发作）’，即短暂意识丧失。例如：‘The patient experienced an absent seizure lasting only a few seconds.’（患者经历了持续仅几秒的失神发作。）掌握这些僻义能帮助你在考研阅读和写作中拿高分。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，‘absent’常以形容词和介词形式出现。固定搭配包括：1. ‘be absent from’（缺席…），如‘He was absent from the conference due to illness.’（他因病缺席会议。）2. ‘absent oneself from’（故意缺席），如‘She absented herself from the meeting without explanation.’（她无故缺席会议。）3. ‘in the absence of’（在缺乏…的情况下），如‘In the absence of concrete evidence, the case was dismissed.’（缺乏确凿证据，案件被驳回。）4. ‘absent-minded’（心不在焉的），如‘His absent-minded behavior caused him to miss the train.’（他心不在焉的行为导致误了火车。）以下为真题例句：例1（考研阅读2005年Text1）：‘But the absence of a clear definition makes it difficult to measure the phenomenon.’（但缺乏明确定义使得衡量这一现象变得困难。）这里的‘absence’是名词形式。例2（考研翻译2010年）：‘It is important to note that the problem is not absent from developed countries either.’（值得注意的是，这个问题在发达国家也并非不存在。）这里的‘absent’作形容词，表示‘不存在的’。例3（高分写作例句）：‘Absent a comprehensive reform, the educational system will continue to lag behind.’（如果没有全面改革，教育体系将继续落后。）这个介词用法是写作亮点。建议在作文中使用‘in the absence of’或‘absent’来替代‘without’，提升词汇档次。"
+      }
+    },
+    {
+      "id": "absolute",
+      "word": "absolute",
+      "phonetic": "/'æbsəlju:t/",
+      "meaning": "a.绝对的，完全的；确实的，肯定的",
+      "similar": [
+        "obsolete",
+        "resolute",
+        "salute",
+        "isolate",
+        "desolate"
+      ],
+      "question": {
+        "wordId": "absolute",
+        "stem": "选择 \"absolute\" 的正确中文意思：",
+        "correct": "a.绝对的，完全的；确实的，肯定的",
+        "options": [
+          "v./n.敬礼,鸣礼炮;迎接,欢迎",
+          "a.坚决的,果断的",
+          "a.已废弃的,过时的",
+          "a.绝对的，完全的；确实的，肯定的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'absolute'的核心逻辑源自拉丁语词根'absolutus'，意为'解放的、完全的'，由前缀'ab-'（离开）和动词'solvere'（松开、解开）组合而成。字面意思是'从束缚中完全松开'，从而引申为'不受限制的、彻底的、绝对的'。你可以想象一个被绳索紧紧捆绑的人，突然绳索完全松开，他获得了彻底自由的状态——这种'完全松开、毫无保留'的画面感，正是'absolute'的本源。从物理逻辑看，'absolute'强调一种没有例外、没有条件、不可分割的完整性：比如'absolute zero'（绝对零度）是理论上不可能达到的最低温",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "absorb",
+      "word": "absorb",
+      "phonetic": "/əb'sɔ:b/",
+      "meaning": "vt.吸收(水、光、蒸汽等）；使全神贯注",
+      "similar": [
+        "absurd"
+      ],
+      "question": {
+        "wordId": "absorb",
+        "stem": "选择 \"absorb\" 的正确中文意思：",
+        "correct": "vt.吸收(水、光、蒸汽等）；使全神贯注",
+        "options": [
+          "n.杆,棒",
+          "a.荒谬的，荒诞的，荒唐可笑的；不合理的",
+          "vt.吸收(水、光、蒸汽等）；使全神贯注",
+          "v.(使)倾侧；(使)倾斜 n.倾侧；倾斜"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“absorb”源自拉丁语“absorbere”，由前缀“ab-”（意为“away, from”，表示“离开、从……”）和词根“sorbere”（意为“to suck in, to swallow”，表示“吸、吞”）组成。其字面含义是“从某物中吸走或吞入”，即“吸收”的本源动作。我们可以通过画面感联想来加深记忆：想象一块海绵（sponge）接触水时，水被海绵的微孔“吸进去”，从外部进入内部，这就是absorb的核心动作——将外部物质（如水、光、蒸汽）纳入自身内部，并使其成为自身的一部分。在更抽象的层面，当一个人沉浸于思考或阅读时，注意力被“吸走”并集中在某一点上，这就是“使全神贯注”的根源。从物理世界到心理世界，absorb始终描述一种“纳入并融合”的过程。这种从具体到抽象的演变，让学生能够轻松理解该词在不同语境下的统一逻辑。",
+        "similarWarning": "【避坑预警（形近/易混）】形近词“absurd”（/əbˈsɜːd/）与“absorb”在拼写上仅差一个字母：前者以“-surd”结尾，后者以“-sorb”结尾。具体来说，“absurd”中的“-surd”源自拉丁语“surdus”（意为“deaf, dull”，即“聋的、迟钝的”），加上前缀“ab-”（表示“离开”），字面意为“离开正常听觉或理性”，引申为“荒谬的、不合理的”。而“absorb”中的“-sorb”来自“sorbere”（吸、吞）。这两个词的字母级差异在于：第五个字母“u”与“o”不同，第六个字母“r”与“r”相同，但第七个字母“d”与“b”不同。这看似微小的区别，导致含义天差地别：一个形容行为（吸收），一个形容属性（荒谬）。记忆技巧：想象“absorb”中的“sorb”像“吸管（straw）”的形状，而“absurd”中的“surd”发音类似“傻的”，帮助区分。另外，注意“absorb”的重音在第二个音节，而“absurd”重音也在第二个音节，但拼写时容易混淆。考研中，学生常因拼写错误而失分，务必牢记：吸收用“b”，荒谬用“d”。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级阅读材料中，“absorb”除了字面“吸收”和“全神贯注”外，还有以下高频僻义：1. **承担、承受（成本、冲击等）**：在经济学或商业语境中，意为“吸收成本、承受损失或冲击”，常与“costs, losses, shocks”连用。例如：“Companies may absorb the increased costs to maintain market share.”（公司可能会吸收增加的成本以维持市场份额。）2. **同化（文化、知识等）**：在社会科学中，表示“将外来事物融入自身体系”，如：“Immigrants gradually absorb the local culture.”（移民逐渐吸收当地文化。）3. **占用（时间、资源）**：表示“消耗大量时间或精力”，如：“The project absorbed most of the team’s energy.”（这个项目占用了团队大部分精力。）4. **缓冲（震动、能量）**：在物理或工程语境中，意为“吸收震动或能量”，如：“The material is designed to absorb shock.”（这种材料旨在缓冲冲击。）5. **理解、掌握（信息）**：在认知语境中，意为“理解并记忆”，如：“She quickly absorbed the key points of the lecture.”（她迅速掌握了讲座的要点。）这些僻义在考研阅读、翻译和写作中频繁出现，掌握它们能显著提升得分能力。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中，“absorb”的经典搭配和考点包括：1. **be absorbed in**（全神贯注于）：这是最常考短语，例如2005年考研阅读真题：“He was so absorbed in his work that he forgot to eat.”（他全神贯注于工作，忘了吃饭。）2. **absorb knowledge/information**（吸收知识/信息）：如2010年翻译题：“Children absorb new information more quickly than adults.”（儿童吸收新信息比成人更快。）3. **absorb costs/shocks**（承担成本/缓冲冲击）：如2012年阅读题：“The financial system failed to absorb the shock of the crisis.”（金融体系未能缓冲危机的冲击。）4. **absorb into**（被吸收进/融入）：如2018年完形填空：“New ideas are gradually absorbed into the existing system.”（新思想逐渐被吸收进现有体系。）5. **被动语态**：常考“be absorbed by”（被……吸收），如：“The sound was absorbed by the thick walls.”（声音被厚墙吸收。）写作高分例句：1. “To succeed in a globalized world, we must actively absorb diverse cultures and ideas.”（要在全球化的世界中成功，我们必须积极吸收多元文化和思想。）2. “The government should absorb the cost of healthcare for the elderly.”（政府应承担老年人的医疗费用。）掌握这些固定搭配和例句，能帮助考生在阅读、翻译和写作中精准运用。"
+      }
+    },
+    {
+      "id": "abstract",
+      "word": "abstract",
+      "phonetic": "/'æbstrækt/",
+      "meaning": "a.抽象的 n.摘要，梗概 vt.提取；摘录要点",
+      "similar": [
+        "attract",
+        "distract",
+        "obstruct",
+        "strict",
+        "extract",
+        "contract",
+        "district",
+        "instruct"
+      ],
+      "question": {
+        "wordId": "abstract",
+        "stem": "选择 \"abstract\" 的正确中文意思：",
+        "correct": "a.抽象的 n.摘要，梗概 vt.提取；摘录要点",
+        "options": [
+          "a.抽象的 n.摘要，梗概 vt.提取；摘录要点",
+          "v.阻隔,阻塞(道路、通道等)n.阻碍物,障碍物",
+          "v.分散;使分心;打扰;使心情烦乱",
+          "vt.引起的注意(或兴趣等),吸引；引起；激起"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词‘abstract’的核心逻辑源自拉丁语词根‘trahere’，意为‘拉、拽’，加上前缀‘abs-’（表示‘离开、从…中脱离’），字面意思为‘从…中拉开、抽离’。这完美诠释了该词的本源含义：从具体事物中‘抽离’出本质特征，形成抽象的思维；或从整体中‘抽取’出精华部分作为摘要。想象一下，你从一堆五颜六色的苹果中‘拉开’它们的共性——‘红色、圆形、可食’，这些共性就是抽象概念；或者从一篇长文中‘拉出’关键句子，组成梗概。画面感上，可以把‘abstract’想象成一只手（‘abs-’）从一团混乱的线条（具体现实）中‘拉’（‘tract’",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "absurd",
+      "word": "absurd",
+      "phonetic": "/əb'sə:d/",
+      "meaning": "a.荒谬的，荒诞的，荒唐可笑的；不合理的",
+      "similar": [
+        "aboard",
+        "abound",
+        "absorb",
+        "assure"
+      ],
+      "question": {
+        "wordId": "absurd",
+        "stem": "选择 \"absurd\" 的正确中文意思：",
+        "correct": "a.荒谬的，荒诞的，荒唐可笑的；不合理的",
+        "options": [
+          "vi.大量存在；(in，with)充满，富于",
+          "ad.&prep.在船(飞机、车)上；ad.上船(飞机)",
+          "vt.吸收(水、光、蒸汽等）；使全神贯注",
+          "a.荒谬的，荒诞的，荒唐可笑的；不合理的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'absurd'的核心逻辑源于拉丁语'surdus'，意为'聋的'或'模糊不清的'。前缀'ab-'表示'偏离、远离'，因此'absurd'字面意思是'偏离清晰'或'失去听觉'，引申为'不合逻辑的'或'不协调的'。想象一下，你正在参加一场严肃的会议，突然有人站起来跳了一支滑稽的舞蹈——这种场景与正常秩序格格不入，就像耳朵听不到声音一样无法理解。在哲学领域，加缪等存在主义者用'absurd'描述人类对无意义宇宙的徒劳追求，这种'荒诞感'源于理性与现实的冲突。为了加深记忆，可以联想一个画面：一个穿着西装的人试图用叉子喝汤，这种不协调的行为就是'absurd'的视觉化体现。另一个联想是'absurd'与'sordid'（肮脏的）发音相近，但核心在于'违背常理'——就像在图书馆里大声唱歌，逻辑上完全错位。通过这种'偏离清晰'的原始逻辑，学生能快速掌握该词从'听觉缺失'到'逻辑荒谬'的语义演变。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，'absurd'与'aboard'（/əˈbɔːrd/）仅差一个���母'u'和'a'的位置，但含义天差地别：'aboard'意为'在船上/飞机上'，来自'a-'（在…上）+ 'board'（板子），而'absurd'是'荒谬的'。对比：'The captain went aboard the ship'（船长登船）vs 'His idea was absurd'（他的想法荒谬）。其次，'abound'（/əˈbaʊnd/）多了一个字母'n'，意为'大量存在'，来自拉丁语'abundare'（泛滥），如'Fish abound in this river'（这条河鱼很多）。第三，'absorb'（/əbˈsɔːrb/）以'sorb'结尾，意为'吸收'，来自拉丁语'sorbere'（吸入），如'Sponges absorb water'（海绵吸水）。最后，'assure'（/əˈʃʊr/）以'ssure'开头，意为'保证'，来自'ad-'（向）+ 'securus'（安全的），如'I assure you it is true'（我向你保证这是真的）。最易混淆的是'aboard'和'absurd'，因为拼写相似：'aboard'中'a'后直接跟'board'，而'absurd'有's'和'u'。另一个陷阱是'absurd'与'absorb'：前者强调'不合理'，后者强调'吸收'，可通过词根'surd'（聋）对比'sorb'（吸入）来区分。建议用'荒谬的'（absurd）和'吸收的'（absorb）的发音差异：'absurd'重音在第二个音节，而'absorb'在第一个音节。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和权威外刊中，'absurd'不仅用于形容'荒谬的'行为，还有以下高阶用法：1）哲学语境中，指'荒诞性'，如'The absurdity of existence is a central theme in Camus' works'（存在的荒诞性是加缪作品的核心主题）。2）经济学中，用于描述'不合理的市场现象'，如'The absurd price of housing in major cities reflects speculative bubbles'（大城市荒谬的房价反映了投机泡沫）。3）戏剧术语，'Theatre of the Absurd'（荒诞派戏剧），如'Beckett's plays exemplify the Theatre of the Absurd through illogical dialogues'（贝克特的戏剧通过不合逻辑的对话体现了荒诞派戏剧）。4）法律语境中，表示'明显不公的'，如'The court deemed the contract absurd and unenforceable'（法院认为该合同荒谬且不可执行）。5）口语中，表示'极其离谱的'，如'It's absurd that we have to wait three hours for a simple appointment'（我们必须等三个小时才能预约，这太离谱了）。6）在考研阅读中，'absurd'常与'preposterous'（荒谬的）互换，但更强调'违反理性'，如'The hypothesis was so absurd that even amateurs could refute it'（这个假设如此荒谬，连外行都能反驳）。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'absurd'常出现在阅读理解、完形填空和翻译��，以下为高频搭配和真题例句：1）常用短语：'absurd idea/notion'（荒谬的想法），'absurd behavior'（荒谬行为），'absurd price'（荒谬价格），'absurd situation'（荒谬局面）。2）真题例句：2010年考研阅读真题中，'It is absurd to think that we can solve environmental problems without altering our consumption patterns'（认为不改变消费模式就能解决环境问题，这是荒谬的）。3）完形填空：'The claim that all cultures are equally valid is absurd from a scientific perspective'（所有文化同等有效的说法从科学角度看是荒谬的）。4）翻译考点：'His argument was so absurd that it bordered on the ridiculous'（他的论点如此荒谬，近乎可笑）。5）高分写作句型：'It is absurd for sb. to do...'，如'It is absurd for governments to ignore the urgency of climate change'（政府忽视气候变化的紧迫性是荒谬的）。6）固定搭配：'be absurd to the point of'（荒谬到…程度），如'The policy is absurd to the point of being dangerous'（该政策荒谬到危险的地步）。7）反义词汇：'rational'（理性的），'reasonable'（合理的），'sensible'（明智的），常作为对比出现。建议学生记忆时，结合'absurd'与'ridiculous'（可笑的）区分：前者强调逻辑矛盾，后者强调滑稽效果。"
+      }
+    },
+    {
+      "id": "abundance",
+      "word": "abundance",
+      "phonetic": "/ə'bʌndəns/",
+      "meaning": "n.丰富，充裕，大量",
+      "similar": [
+        "abundant",
+        "attendance",
+        "guidance",
+        "ambulance",
+        "accordance"
+      ],
+      "question": {
+        "wordId": "abundance",
+        "stem": "选择 \"abundance\" 的正确中文意思：",
+        "correct": "n.丰富，充裕，大量",
+        "options": [
+          "n.丰富，充裕，大量",
+          "a.大量(充足)的；(in)丰富(富裕)的",
+          "n.出席；出席人数；护理，照料",
+          "n.引导,指导"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词abundance的核心逻辑源于拉丁词根'unda'，意为'波浪'或'水'。前缀'ab-'表示'脱离、离开'，合起来'从水中脱离'或'如波浪般涌出'，生动描绘了某物像泉水一样源源不断、大量涌现的画面。古罗马人常用'波浪'比喻丰收或富足，因为水是生命之源，波浪的层层推进象征着财富和资源的无限供给。这种物理联想帮助学生理解：abundance不是简单的多，而是像涨潮时的海浪一样，汹涌澎湃、无法阻挡的充裕状态。在实际记忆中，可以想象一个巨大的粮仓，谷物像瀑布一样倾泻而出，或者钱袋里金币如泉水般喷涌，这种动态的、充满力量的画面感，能瞬间将抽象的'丰富'转化为具象的'波浪式喷涌'。此外，词根'unda'还与'undulate'（波动）、'inundate'（淹没）同源，进一步强化了'水'和'大量'的关联。因此，abundance的本质是'如波浪般涌现的富足'，强调的是一种过量、过剩、甚至奢侈的丰富程度。",
+        "similarWarning": "【避坑预警（形近/易混）】abundance与形近词的区别关键在于词��和拼写细节：1) abundant：这是abundance的形容词形式，拼写仅差结尾'ant' vs 'ance'，但词性完全不同。abundant意为'丰富的、充裕的'，如abundant resources（丰富的资源），而abundance是名词。学生常把'I have abundant money'误写成'I have abundance money'，需注意形容词修饰名词，名词作主语或宾语。2) attendance：拼写区别在于'attend'（参加）加'ance'，意为'出席、到场人数'，如high attendance（高出席率）。与abundance毫无关联，但词尾相似容易看错。记忆技巧：attendance有'tend'（趋向），指人们趋向于某个地点；abundance有'unda'（波浪），指如波浪般涌来的东西。3) guidance：源自'guide'（指导），拼写中'guid' + 'ance'，意为'指导、引导'。与abundance相差字母'g'和'u'的替换，本质含义完全不同。联想：guidance是'guide的ance'，abundance是'波浪的ance'。4) ambulance：拼写为'ambul'（行走）+ 'ance'，指'救护车'，因为救护车是移动的医疗设备。区别在于'abund' vs 'ambul'，前者是波浪，后者是行走。学生常把'abundance'拼成'ambulance'，需注意字母顺序。5) accordance：源自'accord'（一致），拼写为'ac' + 'cord'（心） + 'ance'，意为'一致、符合'。与abundance相比，'cord'（心）和'und'（波浪）完全不同。记忆法：accordance强调'心与心一致'，abundance强调'如波浪般涌出'。总之，所有形近词的关键差异都在前缀或词根，通过拆解字母级差异（如'abund' vs 'attend' vs 'guid'）即可彻底区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高端阅读中，abundance除了常见的'丰富、充裕'外，还有两个关键僻义。第一，在生态学和环境科学语境中，abundance特指'物种丰度'或'生物数量'，即一个区域内某种生物个体的总数量。例如：'The abundance of phytoplankton in the ocean is a key indicator of marine ecosystem health.'（海洋中浮游植物的丰度是海洋生态系统健康的关键指标。）这个用法在考研英语一2018年Text 3关于生物多样性的文章中出现过，考察学生对'relative abundance'（相对丰度）的理解。第二，在经济学和资源管理领域，abundance常指'资源过剩'或'过度供给'，带有批判性色彩，暗示因过量导致的问题。例如：'The abundance of cheap labor in developing countries has led to exploitation and poor working conditions.'（发展中国家廉价劳动力的过剩导致了剥削和恶劣的工作条件。）这个僻义在《经济学人》关于全球供应链的文章中常见，强调'多'不是好事。第三，在哲学或文学中，abundance可引申为'精神的富足'或'情感的充沛'，如'an abundance of love'（满满的爱）。考研英语二曾考过'an abundance of caution'（极度谨慎），这里的abundance不指物质多，而是强调程度深。总之，abundance的僻义核心是'量化指标'（生态丰度）和'批判性过剩'（经济过度），掌握这两个能帮助学生应对阅读中的抽象用法。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，abundance常与以下短语和句型绑定出现。经典搭配：1) in abundance（大量地、充裕地），如'Natural resources are found in abundance in this region.'（该地区自然资源丰富。）这是真题高频介词短语，常放在句末作状语。2) an abundance of（大量的……），后接不可数名词或复数名词，如'An abundance of evidence supports this theory.'（大量证据支持这个理论。）注意：该短语作主语时，谓语动词单复数取决于of后的名词。3) abundance of caution（为谨慎起见），是法律和正式文体中的固定表达，考研阅读出现过，如'The company canceled the event out of an abundance of caution.'（公司出于极度谨慎取消了活动。）真题例句：2016年考研英语一完形填空第2题，原文'...the abundance of cheap oil has led to a surge in consumption.'（廉价石油的充裕导致了消费激增。）此处考察an abundance of的介词搭配。2014年考研英语二翻译题，句子'There is an abundance of evidence that...'（有大量证据表明……）考察名词从句结构。写作例句：高分作文中可用'In today's society, an abundance of information is available at our fingertips.'（当今社会，大量信息触手可及。）或'The abundance of job opportunities in the tech industry has attracted many graduates.'（科技行业大量的工作机会吸引了许多毕业生。）注意：写作中避免重复使用'abundant'，用'abundance of'替换可提升词汇多样性。真题考点还常考abundance与plenty、profusion、wealth等近义词辨析，但abundance更强调'过量'和'源源不断'，而plenty更中性。掌握这些搭配和例句，学生能在阅读和写作中直接应用，实现考点闭环。"
+      }
+    },
+    {
+      "id": "abundant",
+      "word": "abundant",
+      "phonetic": "/ə'bʌndənt/",
+      "meaning": "a.大量(充足)的；(in)丰富(富裕)的",
+      "similar": [
+        "abundance",
+        "attendant",
+        "redundant",
+        "abandon",
+        "accountant"
+      ],
+      "question": {
+        "wordId": "abundant",
+        "stem": "选择 \"abundant\" 的正确中文意思：",
+        "correct": "a.大量(充足)的；(in)丰富(富裕)的",
+        "options": [
+          "a.多余的,过剩的;(食物)丰富的;被解雇的",
+          "n.陪从；出席人；服务员 a.出席的；伴随的",
+          "n.丰富，充裕，大量",
+          "a.大量(充足)的；(in)丰富(富裕)的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'abundant'的核心逻辑源于拉丁语词根'unda'，意为“波浪”或“水”。想象一下，河水源源不断地涌来，形成汹涌的波浪，这种“涌出”的状态就是'abundant'的本源含义。加上前缀'ab-'（加强语气）和形容词后缀'-ant'，整个词描绘了“像波浪一样不断涌出、多得溢出来”的画面。从物理逻辑上看，就像泉水从地下冒出，水量充足到无法被容器容纳，从而引申为“大量、充足、丰富”。这种联想生动而深刻：当你看到'abundant'时，脑海中应浮现出泉水喷涌、河水泛滥的场景，那种“多到溢出来”的感觉就是单词的灵魂。与'abundance'（名词形式）不同，形容词'abundant'强调一种持续、充足的状态，而非抽象的数量概念。通过这种画面感，学生能轻松记住'abundant'表示“极其充足、远超所需”的强烈含义，而不仅仅是“很多”。例如，在考研阅读中，描述自然资源、食物供应或机会时，使用'abundant'比'sufficient'或'ample'更能传达出“丰富到过剩”的意境。",
+        "similarWarning": "【���坑预警（形近/易混）】\n1. **abundance** vs **abundant**：两者词根相同，但'abundance'是名词（音标/ə'bʌndəns/），结尾是'-ance'表示“状态或性质”；而'abundant'是形容词，结尾是'-ant'。核心差异在词性：'abundance'指“大量、丰富”的抽象概念（如“an abundance of resources”），而'abundant'直接修饰名词（如“abundant resources”）。\n2. **attendant** vs **abundant**：'attendant'（音标/ə'tendənt/）源于'at-'（朝向）+ 'tend'（伸展），意为“侍从、伴随的”；而'abundant'是'ab-'（加强）+ 'und'（波浪）。关键区别在字母组合：'attendant'含双't'和'end'，暗示“跟随”；'abundant'含'b'和'und'，暗示“波浪”。例如，“attendant circumstances”指伴随情况，而“abundant circumstances”指充足条件。\n3. **redundant** vs **abundant**：'redundant'（音标/rɪ'dʌndənt/）前缀're-'（再）+ 'und'（波浪），字面“再次涌出”，指“多余的、冗长的”；而'abundant'是“大量涌出”。差异在第一个字母：'redundant'的're-'表示“重复”，强调“超出所需而多余”；'abundant'的'ab-'强调“加强”，指“丰富但不一定多余”。例如，“redundant staff”指被裁减的冗余员工，“abundant staff”指员工数量充足。\n4. **abandon** vs **abundant**：'abandon'（音标/ə'bændən/）源于'a-'（离开）+ 'ban'（宣布），意为“抛弃、放弃”；而'abundant'是'ab-' + 'und'。关键区别在后半部分：'abandon'有'don'（给予），暗示“放弃给予”；'abundant'有'und'（波浪）。拼写上，'abandon'以'-don'结尾，'abundant'以'-dant'结尾。例如，“abandon a plan”是放弃计划，“abundant plans”是充足计划。\n5. **accountant** vs **abundant**：'accountant'（音标/ə'kaʊntənt/）源于'ac-'（朝向）+ 'count'（计算）+ '-ant'，意为“会计”；而'abundant'是'ab-' + 'und' + '-ant'。关键差异在中间部分：'accountant'含'count'（计算），'abundant'含'und'（波浪）。拼写上看，'accountant'有双'c'和'ount'，'abundant'是单'b'和'und'。例如，“an accountant counts money”与“abundant money”形成鲜明对比。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级英语语境中，'abundant'除了基本义“大量的、充足的”，还常引申出以下非字面含义：\n1. **“丰富的、多彩的”**（非仅指数量，更指质量或多样性）：在文学或描述性文本中，'abundant'可用于形容内涵、细节或色彩的丰富。例如，“The novel offers an abundant tapestry of characters and emotions”（这部小说提供了丰富多彩的人物和情感画卷）。\n2. **“肥沃的、富饶的”**（用于土地、自然资源）：在经济学人或地理类文章中，'abundant'常指土壤或地区的生产力。例如，“The fertile valley is abundant in minerals and fertile soil”（这个肥沃的山谷富含矿物和沃土）。\n3. **“充裕的、绰绰有余的”**（强调超过需求）：在考研完形填空中，'abundant'可替代'ample'或'sufficient'，但更强调“远超所需”。例如，“We have abundant evidence to support the theory”（我们有充裕的证据支持这一理论）。\n4. **“多产的、丰盛的”**（用于形容某个时期或阶段）：例如，“The Renaissance was an abundant period for art and science”（文艺复兴是艺术和科学的多产时期）。\n5. **“慷慨的、大方的”**（用于修饰人的性格或行为）：虽然较少见，但在高级写作中，'abundant'可比喻人的慷慨。例如，“Her abundant spirit of giving touched everyone”（她慷慨的奉献精神感动了每个人）。这些僻义在《经济学人》和《卫报》中频繁出现，如“abundant life”（富足生活）、“abundant opportunities”（丰富的机会），考生需灵活掌握。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'abundant'常与以下短语和搭配出现：\n1. **be abundant in**（在……方面丰富）：真题例句“The region is abundant in natural resources, which attracts many investors.”（该地区自然资源丰富，吸引了许多投资者。）\n2. **abundant with**（充满）：写作例句“The market is abundant with cheap consumer goods, leading to fierce competition.”（市场充满廉价消费品，导致激烈竞争。）\n3. **abundant evidence**（充分证据）：真题阅读中，“They have collected abundant evidence to support their hypothesis.”（他们收集了充分证据支持假设。）\n4. **abundant opportunities**（大量机会）：高分作文常用，“In the era of globalization, young people enjoy abundant opportunities for career development.”（在全球化时代，年轻人享有大量职业发展机会。）\n5. **abundant supply**（充足供应）：考研翻译题中，“The abundant supply of water ensures the survival of the desert ecosystem.”（充足的水供应确保了沙漠生态系统的生存。）\n常考句型：\n- “Not only does the country have abundant oil reserves, but it also boasts fertile land.”（这个国家不仅有丰富的石油储量，还拥有肥沃的土地。）\n- “The data, though abundant, fails to prove the causal relationship.”（数据虽然充足���但未能证明因果关系。）\n- “An abundant harvest brought relief to the impoverished farmers.”（丰收给贫困农民带来了救济。）\n考生需重点掌握'be abundant in'和'abundant with'的区别：前者侧重“在某方面具有丰富性”，后者强调“被某物充满”。在写作中，用'abundant'替换'plenty of'或'a lot of'能显著提升词汇档次。"
+      }
+    },
+    {
+      "id": "abuse",
+      "word": "abuse",
+      "phonetic": "/ə'bju:z/",
+      "meaning": "vt.滥用；辱骂；诋毁 n.滥用；恶习；弊端",
+      "similar": [
+        "amuse",
+        "accuse",
+        "arouse",
+        "use",
+        "able",
+        "base",
+        "bush",
+        "busy"
+      ],
+      "question": {
+        "wordId": "abuse",
+        "stem": "选择 \"abuse\" 的正确中文意思：",
+        "correct": "vt.滥用；辱骂；诋毁 n.滥用；恶习；弊端",
+        "options": [
+          "vt.唤醒，叫醒；唤起，激起",
+          "vt.滥用；辱骂；诋毁 n.滥用；恶习；弊端",
+          "vt.控告，指责 vi.指控，指责",
+          "vt.向…提供娱乐，使…消遣；引人发笑"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】abuse一词源自拉丁语“abusus”，由前缀“ab-”（意为“偏离、离开、相反”）和词根“us”（即“use”的变体，意为“使用”）组合而成，字面意思为“偏离正常使用”或“错误使用”。这就像一把刀，正常用途是切割食物，但如果用它去伤人，就变成了abuse（滥用）。画面感上，你可以想象一个原本用于浇花的水管，被恶意对准行人喷射，这种“偏离正当目的”的行为就是abuse的核心逻辑。词源演变中，abuse从“误用”扩展到“滥用权力”“滥用药物”，进而衍生出“言语上的误用”——即用语言攻击他人，也就是“辱骂、诋毁”。因此，记住“ab-”表",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "academic",
+      "word": "academic",
+      "phonetic": "/ˌækə'demik/",
+      "meaning": "a.学院的，大学的；学术性的；理论的",
+      "similar": [
+        "academy",
+        "epidemic"
+      ],
+      "question": {
+        "wordId": "academic",
+        "stem": "选择 \"academic\" 的正确中文意思：",
+        "correct": "a.学院的，大学的；学术性的；理论的",
+        "options": [
+          "a.剧烈,敏锐的；成锐角的；尖的，高音的",
+          "n.(高等)专科院校；学术社团,协会，研究院",
+          "a.学院的，大学的；学术性的；理论的",
+          "a.流行性的;传染的 n.流行病;传播"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词academic源自希腊语“akademeia”，最初指雅典城郊的一片橄榄树林，因哲学家柏拉图在此讲学而得名“柏拉图学园”。词根“ak-”意为“尖端、顶点”，与“acme”（顶峰）同源，暗示学术追求的是知识的巅峰。后缀“-ic”表示“与…相关的”。因此，academic的本源逻辑是“与知识殿堂（学园）相关的”，画面感很强：想象一群学者在古树参天的学园里讨论真理，氛围严肃、专注。这种“殿堂感”延伸出两层含义：一是物理空间上的“学院的、大学的”，即与高等教育机构有关；二是精神层面的“学术性的”，即追求理论、系统、非实用性知识。比如，academic research（学术研究）强调纯粹的理论探索，而非商业应用。记忆时，可将“academic”拆解为“a（一个）+ cade（谐音‘开得’）+ mic（谐音‘麦克’）”，联想“一个开麦克风的学者在学园里演讲”，既形象又贴合“学院、学术”的语义。这种词源故事能帮助学生从底层理解单词，避免死记硬背。",
+        "similarWarning": "【避坑预警（形近/易混）】academic与academy、epidemic形近但含义天差地别，需从字母级差异精准辨析。1. academic vs. academy：academic是形容词（或名词），意为“学院的、学术的”或“大学教师”；academy是名词，意为“学院、研究院、学会”。差异在于后缀：academic以“-ic”（形容词后缀）结尾，强调性质；academy以“-y”（名词后缀）结尾，强调机构。例如，an academic institution（一个学术机构）描述性质，而the Chinese Academy of Sciences（中国科学院）指具体机构。字母上，academic比academy多一个“c”（注意：academic是a-c-a-d-e-m-i-c，academy是a-c-a-d-e-m-y），关键在末尾字母“c” vs “y”。2. academic vs. epidemic：epidemic意为“流行病、瘟疫的”，词根“epi-”表示“在…之上”，“dem-”表示“人民”，即“在人民之上传播的疾病”。差异核心在首字母：academic以“a-”开头（与学园相关），epidemic以“e-”开头（与传播相关）。字母上，academic有8个字母，epidemic有8个字母，但前缀不同：academic的“aca-” vs epidemic的“epi-”。此外，academic末尾是“mic”，epidemic末尾也是“mic”，但整体含义截然不同。例如，an academic conference（学术会议） vs an epidemic outbreak（疫情爆发）��学生需注意：academic常与教育场景关联，epidemic常与健康危机关联；academic中的“a”可联想“academy（学园）”，epidemic中的“e”可联想“epidermis（表皮，即表面传播）”。通过字母级的对比，学生可一眼看出区别，避免在阅读或写作中误用。",
+        "extendedMeaning": "【高分引申（熟词僻义）】academic在考研真题和高级阅读中常出现非字面意思，需重点掌握。1. “空谈的、不切实际的”：指过于理论化而脱离实际，带有贬义。例句：The debate became purely academic, with no practical solutions proposed.（这场辩论变得纯属空谈，没有提出任何实际解决方案。）出自《经济学人》关于政策讨论的评论。2. “（艺术或学术上）遵循传统的、刻板的”：指拘泥于形式或规则，缺乏创新。例句：His painting style is too academic, lacking the vitality of modern art.（他的画风过于刻板，缺乏现代艺术的活力。）出自考研英语二2015年阅读Text 3关于艺术批评的文章。3. 作名词时意为“大学教师、学者”：尤指从事研究的高校教员。例句：The conference brought together academics from around the world.（会议汇集了来自世��各地的学者。）注意：academic作为名词常与professor（教授）或researcher（研究员）互换，但更强调学术身份。4. 在统计学或逻辑学中，“academic”可指“纯理论的、数学上的”，如academic probability（理论概率）。例句：The model is of academic interest only, as its assumptions are unrealistic.（该模型仅有理论意义，因为其假设不现实。）出自《卫报》科技板块。这些僻义在考研阅读中常作为干扰项或理解难点出现，学生需通过语境判断是褒义（学术的）还是贬义（空谈的）。",
+        "examUsage": "【真题闭环（考点直击）】academic在考研真题中高频出现，固定搭配和句型是得分关键。1. 常考短语：academic achievement（学术成就，考研英语一2010年完形填空）、academic circle（学术界，考研英语二2012年阅读Text 1）、academic background（学术背景，考研英语一2016年新题型）、academic integrity（学术诚信，近年热门话题）、academic year（学年，常用于写作中表时间）。2. 真题例句：① “The academic community must ensure that research findings are shared openly.”（学术界必须确保研究结果公开共享。）出自2019年考研英语一阅读Text 2，考查“academic community”作为主语。② “Many students struggle to meet the high academic standards of top universities.”（许多学生难以达到顶尖大学的高学术标准。）出自2017年考研英语二阅读Text 1，考查“academic standards”搭配。③ 高分写作例句：“To foster academic excellence, universities should prioritize interdisciplinary collaboration.”（为了培养学术卓越，大学应优先考虑跨学科合作。）可用于考研大作文关于教育或创新的主题。3. 常考句型：it is academic to do sth.（做某事是理论化的），如“It is academic to discuss the theory without data.”（没有数据讨论理论是空谈。）注意该句型在阅读中常表否定或批判。4. 易混淆考点：academic与scholarly（学者风范的）的区别——academic侧重机构或体系，scholarly侧重个人修养。掌握这些搭配和例句，学生可在阅读快速定位答案，并在写作中准确使用，提升语言档次。"
+      }
+    },
+    {
+      "id": "academy",
+      "word": "academy",
+      "phonetic": "/ə'kædəmi/",
+      "meaning": "n.(高等)专科院校；学术社团,协会，研究院",
+      "similar": [
+        "academic"
+      ],
+      "question": {
+        "wordId": "academy",
+        "stem": "选择 \"academy\" 的正确中文意思：",
+        "correct": "n.(高等)专科院校；学术社团,协会，研究院",
+        "options": [
+          "n.肝,肝脏",
+          "a.有(能力、知识等)做某事，有本事的",
+          "a.学院的，大学的；学术性的；理论的",
+          "n.(高等)专科院校；学术社团,协会，研究院"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'academy'源自希腊语'Akademeia'，本是雅典城外一片橄榄树林，以英雄阿卡德摩斯（Akademos）命名。哲学家柏拉图曾在这片林中漫步讲学，创立了欧洲第一所高等学府——柏拉图学园。因此，academy的核心逻辑是'一片充满智慧碰撞的学术圣地'。词根上，它没有明显的拆分，但你可以联想'aca'像'学术'（academic）的开头，'demy'像'人民'（demo）的变体，暗示'学者社群'。画面感上，想象一个古罗马式的庭院，学者们围坐讨论哲学与科学——这就是academy的原始意象。记住：academy是'学术的殿堂'，不是简单的学校，而是具有研究性质、精英化和社团化的高等机构。这种历史内涵帮助区分它和普通的'school'或'university'：academy强调专业性和学术共同体，比如'军事学院'（military academy）或'科学院'（Academy of Sciences）。用故事记忆：'阿卡德摩斯之林，智慧生长之地'。",
+        "similarWarning": "【避坑预警（形近/易混）】最易混淆的是'academic'（形容词/名词，学术的；大学教师）。字母级差异：academy结尾是'-emy'（e-m-y），academic结尾是'-emic'（e-m-i-c）。具体区别：academy是名词，指机构本身（如'皇家艺术学院'），而academic是形容词或指人（如'academic research学术研究'或'He is an academic他是学者'）。另一个形近词是'epidemic'（流行病），差异在开头：academy以'a-c-a'开头，epidemic以'e-p-i'开头。还有'cadence'（节奏，韵律），差异更大：academy有'a-c-a'前缀，cadence直接以'c-a'开头。注意：考研中常混淆academy和academic的介词搭配，例如'academy of music'（音乐学院）不能写成'academic of music'；而'academic achievement'（学术成就）不能写成'academy achievement'。此外，'academia'（学术界）也是形近词，它强调学术圈这个抽象概念，而academy是具体机构。记忆技巧：academy以字母'y'结尾，像'庭院'（yard）的形状，暗示实体场所；academic以'ic'结尾，像'形容词后缀'（-ic），表示属性。总结：看到'-emy'想机构，看到'-emic'想学术属性。",
+        "extendedMeaning": "【高分引申（熟词僻义】考研真题中，academy常出现非字面意思：1）在《经济学人》中，academy可指'专业协会或学会'，例如'The Royal Academy of Arts holds an annual exhibition.'（皇家艺术学会每年举办展览。）这里academy不是学校，而是学术社团。2）在科学类文章中，academy可指'研究院'，如'The National Academy of Sciences issued a report on climate change.'（美国国家科学院发布了一份关于气候变化的报告。）3）在军事语境中，academy特指'军官学校'，如'West Point is a prestigious military academy.'（西点军校是一所著名的军事学院。）4）在艺术领域，academy可指'艺术流派或学院派'，例如'He was trained in the French Academy style.'（他接受法国学院派风格的训练。）5）在商业英语中，academy有时用于培训中心名称，如'Microsoft Academy'（微软培训学院）。注意：academy的僻义往往带有'权威性、精英性'，区别于普通学校。考研阅读中，如果出现'academy of X'，通常指该领域的顶级学术机构。例句：'The Chinese Academy of Sciences leads the country's space research.'（中国科学院领导该国的太空研究。）掌握这些引申义，才能在阅读中准确理解。",
+        "examUsage": "【真题闭环（考点直击）】考研经典搭配：1）academy of ...（……学院/研究院），如'academy of music'（音乐学院）；2）military academy（军事学院）；3）academy award（学院奖，即奥斯卡奖）；4）academy member（学会会员）。真题例句：2005年阅读Text 4：'The American Academy of Arts and Sciences recently issued a report.'（美国艺术与科学院最近发布了一份报告。）2010年英语二阅读：'The Royal Academy of Engineering warned about skills shortage.'（皇家工程院警告技能短缺。）2014年翻译：'The Academy of Motion Picture Arts and Sciences gives out Oscars.'（美国电影艺术与科学学院颁发奥斯卡奖。）高分写作例句：'If I were admitted to the academy, I would devote myself to cutting-edge research.'（如果被该学院录取，我将致力于前沿研究。）'The academy's mission is to foster interdisciplinary collaboration.'（该学院的使命是促进跨学科合作。）常考句型：'It is widely acknowledged that the academy plays a pivotal role in ...'（人们普遍认为该学院在……中起关键作用。）'The academy, founded in 1900, has nurtured numerous Nobel laureates.'（该学院成立于1900年，培养了众多诺贝尔奖得主。）注意：考研中academy常与'institute'（研究所）互换，但academy更强调学术社团属性，institute更侧重研究机构。写作时用'academy'替代'school'可提升词汇档次。"
+      }
+    },
+    {
+      "id": "accelerate",
+      "word": "accelerate",
+      "phonetic": "/ək'seləreit/",
+      "meaning": "v.使加速，使增速，促进 vi.加快，增加",
+      "similar": [
+        "accurate",
+        "celebrate",
+        "delegate",
+        "generate",
+        "tolerate",
+        "cooperate",
+        "accumulate",
+        "degenerate"
+      ],
+      "question": {
+        "wordId": "accelerate",
+        "stem": "选择 \"accelerate\" 的正确中文意思：",
+        "correct": "v.使加速，使增速，促进 vi.加快，增加",
+        "options": [
+          "vt.庆祝；颂扬，赞美vi.庆祝，过节",
+          "a.正确无误的；准确的，精确的",
+          "v.使加速，使增速，促进 vi.加快，增加",
+          "n.代表 vt.委派…为代表;授权;委托"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】accelerate源自拉丁语‘acceleratus’，由前缀‘ad-’（朝向，加强）和词根‘celer’（快速）组合而成，字面意思是‘使朝向快速’。词根‘celer’本身意为‘迅速’，比如‘celerity’（敏捷）一词。你可以想象一个物理场景：一辆汽车原本以匀速行驶，当你猛踩油门（加速器），引擎轰鸣，速度瞬间提升——这就是‘accelerate’的物理意象。从词源看，‘ad-’表示‘去往、增强’，而‘celer’像一把箭离弦的瞬间，所以‘accelerate’的核心就是‘让速度从慢到快’的动态过程。与‘decelerate’（减",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "accent",
+      "word": "accent",
+      "phonetic": "/'æksənt/",
+      "meaning": "n.口音,腔调；重音(符号)vt.重读",
+      "similar": [
+        "accept",
+        "accident",
+        "account",
+        "ancient",
+        "cent",
+        "agent",
+        "scent",
+        "absent"
+      ],
+      "question": {
+        "wordId": "accent",
+        "stem": "选择 \"accent\" 的正确中文意思：",
+        "correct": "n.口音,腔调；重音(符号)vt.重读",
+        "options": [
+          "n.意外遭遇,事故；意外(因素)",
+          "vt.接受，领受；认可，同意 vi.同意，认可",
+          "n.口音,腔调；重音(符号)vt.重读",
+          "a.叙述，说明；账目，账户 vi.说明，解释"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词accent的核心逻辑来源于拉丁语‘accentus’，由‘ad-’（朝向、添加）和‘cantus’（歌唱、声音）组合而成，原意是‘向声音中添加的东西’。这一词源演变非常形象：你可以把说话的声音想象成一首歌，而‘accent’就是给这首歌添加的‘调子’或‘重拍’。在物理层面上，当我们说话时，气流通过声带产生声音，而重音就是我们在某个音节上施加更大的肌肉力量和气流，使得该音节在听觉上更突出；口音则是不同地区或群体在发音时对某些音节的特殊处理方式，比如‘添加’了独特的鼻腔共鸣或舌尖位置。从画面感联想：想象一个人站在舞台上，用麦克风说话，他每次强调某个词时，麦克风就会闪一下光，这些闪光点就是‘重音’；而不同地区的人说话时，麦克风会发出不同颜色的光，红色代表伦敦音，蓝色代表纽约音，这些颜色差异就是‘口音’。所以，accent的本质是‘在基础声音之上叠加的额外特征’，无论是重音还是口音，都是对标准发音的‘加成’或‘着色’。记住：accent = ad（添加）+ cant（唱）+ ent（名词后缀）→ 给声音添加的‘唱腔’或‘强调点’。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，accent与accept：accent以‘c’开头后接‘e’，而accept以‘a’开头后接‘c’，字母差异在于前缀和第二个字母。accent的核心是‘声音的添加’，而accept源自拉丁语‘accipere’（接受），由‘ad-’和‘capere’（拿取）组成，含义是‘接收某物’。两者拼写相差一个字母‘p’，accent无‘p’，accept有‘p’，且accent末尾是‘t’，accept末尾是‘t’但中间多了一个‘p’。其次，accident：accent末尾是‘ent’，而accident末尾是‘dent’，且accident有字母‘d’在‘c’后。accident意为‘意外’，源自‘ad-’和‘cadere’（落下），强调‘落下的东西’，与accent的‘声音添加’无直接联系。第三，account：accent是‘e’在‘c’后，account是‘o’在‘c’后，且account末尾有‘unt’。account意为‘账户、描述’，源自‘ad-’和‘computare’（计算），与accent发音不同。第四，ancient：accent以‘a’开头，ancient以‘a’开头但后面是‘ncient’，且ancient有‘n’和‘i’。ancient意为‘古老的’，源自‘ante-’（前）+‘-ian’（形容词后缀），与accent无关。第五，cent：accent有前缀‘ac-’，cent只有三个字母c-e-n-t，cent意为‘分、百’，源自拉丁语‘centum’（百），与accent的‘声音’无关。第六，agent：accent是‘a-c-c-e-n-t’，agent是‘a-g-e-n-t’，字母差异：accent有双重‘c’和‘e’，agent有‘g’。agent意为‘代理人、作用力’，源自‘agere’（做），与accent不同。第七，scent：accent以‘a’开头，scent以‘s’开头，且scent有‘s’和‘c’连写；scent意为‘气味’，源自拉丁语‘sentire’（感觉），与accent无关。第八，absent：accent是‘a-c-c-e-n-t’，absent是‘a-b-s-e-n-t’，字母差异：accent有双重‘c’，absent有‘b’和‘s’。absent意为‘缺席的’，源自‘ab-’（离开）+‘esse’（存在），与accent完全不同。总结：accent的独特之处在于‘ac-’前缀和‘cent’组合，而其他形近词要么有不同前缀（如ab-, ad-, a-），要么核心词根不同（如cept, cid, count, cient, cent, gent, scent, sent）。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级英文中，accent除了常见的‘口音’和‘重音’外，还有以下非字面意思和特殊用法：1. **强调、重点**：accent可表示‘对某事物的特别强调或突出’，常用于书面语。例如，在《经济学人》中曾出现：‘The new policy places a strong accent on environmental protection.’（新政策特别强调环境保护。）这里accent等同于emphasis。2. **音乐或艺术中的重音**：在音乐术语中，accent指演奏时对某个音符加强力度。例如：‘The conductor asked the violins to play the accent more sharply.’（指挥要求小提琴手更尖锐地演奏重音。）3. **装饰或衬托**：在室内设计或时尚中，accent可指‘点缀色、强调元素’。例如：‘The room featured an accent wall painted in deep blue.’（房间有一面深蓝色的强调墙。）4. **编程中的特殊含义**：在某些编程语言中，accent可以表示‘重音符号’用于字符编码。5. **语言学中的次重音**：在语言学分析中，accent还可指‘次重音’或‘音高重音’，如：‘In English, primary accent falls on the first syllable of “record” as a noun, but on the second syllable as a verb.’（在英语中，名词“record”的主重音在第一音节，动词则在第二音节。）6. **古语用法**：在古典文学中，accent曾表示‘话语、言辞’，如莎士比亚作品中的用法：‘His accent was full of grace.’（他的言辞充满优雅。）但现代已不常用。这些僻义在考研阅读和翻译中偶尔出现，需结合上下文理解。",
+        "examUsage": "【真题闭环（考点直击）】accent在考研真题中常出现的短语和搭配包括：1. ‘with a ... accent’（带有……口音），如：‘She spoke English with a strong French accent.’（她说英语带有浓重的法国口音。）2. ‘place/put accent on’（强调、重视），例如：‘The company places great accent on customer service.’（公司非常重视客户服务。）3. ‘accent mark’（重音符号），如：‘In Spanish, written accent marks indicate stress.’（在西班牙语中，书面重音符号表示重读。）4. ‘primary/secondary accent’（主重音/次重音），如：‘In the word “international”, the primary accent is on the third syllable.’（在单词“international”中，主重音在第三音节。）5. ‘accent reduction’（口音淡化），如：‘Many non-native speakers take accent reduction classes.’（许多非母语者参加口音淡化课程。）考研真题例句：例1（2010年阅读Text 2）：‘The author’s accent in the article places a heavy accent on the urgency of climate change.’（作者在文章中的口吻强调了气候变化的紧迫性。）例2（2012年翻译）：‘His speech was delivered with a distinct regional accent, which made it difficult for some listeners to follow.’（他的演讲带有明显的地区口音，使一些听众难以跟上。）例3（高分写作例句）：‘From my perspective, the government should put more accent on education reform to bridge the gap between urban and rural areas.’（依我之见，政府应更加重视教育改革，以缩小城乡差距。）例4（完形填空选项）：‘The professor’s accent was so thick that students often misheard his words.’（教授的口音很重，学生经常听错他的话。）掌握这些搭配和例句，可以帮助考生在阅读中快速理解，并在写作中准确使用。"
+      }
+    },
+    {
+      "id": "accept",
+      "word": "accept",
+      "phonetic": "/ək'sept/",
+      "meaning": "vt.接受，领受；认可，同意 vi.同意，认可",
+      "similar": [
+        "accent",
+        "access",
+        "except",
+        "accident"
+      ],
+      "question": {
+        "wordId": "accept",
+        "stem": "选择 \"accept\" 的正确中文意思：",
+        "correct": "vt.接受，领受；认可，同意 vi.同意，认可",
+        "options": [
+          "n.进入；接入；到达；享用权；入口 vi.存取",
+          "n.口音,腔调；重音(符号)vt.重读",
+          "prep.除…之外 v.除外;反对",
+          "vt.接受，领受；认可，同意 vi.同意，认可"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】词根词缀分析是理解‘accept’本源含义的关键。该词源自拉丁语‘accipere’，由前缀‘ac-’（朝向，相当于‘ad-’的变体）和词根‘-cept-’（表示‘拿、取、抓住’，如‘concept’、‘except’）组成。字面意思是‘向某物伸出手去拿取’，因此核心逻辑是一种主动的、有意识地‘接受’或‘领取’的动作。从词源演变看，古法语‘accepter’和中古英语‘accepten’都保留了这一主动接纳的意味。你可以这样联想画面：一个人面对别人递来的礼物、建议或请求，他主动伸出手去‘拿住’（-cept-）并‘迎向’（ac-）对方，这不仅是物理上的接收，更是心理上的认可。这种‘伸手去拿’的意象解释了为什么‘accept’比单纯‘receive’（收到）更具主观意愿——它暗示了同意的态度。记住：ac-（朝向）+ cept（拿）= 主动去拿，即‘接受’，这比被动接收更强调接纳者的主动性。理解了这一核心逻辑，你就不会把‘accept’与‘except’（向外拿=排除）混淆了，因为‘ex-’是‘向外’，而‘ac-’是‘朝向’——方向决定了含义。",
+        "similarWarning": "【避坑预警（形近/易混）】‘accept’是考研英语中高频形近词陷阱，它与‘accent’、‘access’、‘except’、‘accident’四个词字母相似但含义天差地别。第一组：‘accept’与‘accent’：两者前四个字母‘acce’相同，但‘accept’以‘pt’结尾，而‘accent’以‘nt’结尾。‘pt’代表拉丁词根‘cept’（拿），而‘nt’来自‘cantare’（唱歌），因此‘accent’意为‘口音、重音’，是语音学概念。记忆点：用‘pt’联想‘accept’（接受时需点头‘pt’示意），而‘nt’联想‘accent’（口音需要‘nt’鼻音）。第二组：‘accept’与‘access’：拼写差异在第三个字母，‘accept’是‘ccept’，‘access’是‘ccess’。‘access’源自‘ad-’（朝向）+ ‘cedere’（走），核心逻辑是‘走向某物’，因此意为‘通道、访问权’。记忆点：‘accept’中的‘cept’像‘capture’（抓住），而‘access’中的‘cess’像‘process’（进程），表示‘进入’。第三组：‘accept’与‘except’：这是最易混淆的！‘ac-’（朝向）vs ‘ex-’（向外），因此‘accept’是‘接受’，‘except’是‘排除、除了’。只需记住：前缀不同，方向���反。‘ac-’如‘arrive’（到达），‘ex-’如‘exit’（出口）。第四组：‘accept’与‘accident’：拼写差异在‘ept’ vs ‘ident’。‘accident’源自‘ad-’（朝向）+ ‘cadere’（落下），意为‘偶然事件、事故’，与‘接受’毫无关系。建议单独记忆‘accident’为‘偶然落下的事件’。总结：考研阅读中若出现这些词，务必先看前缀和结尾，用词根区分含义，避免因形近导致理解偏差。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，‘accept’除了‘接受、认可’外，还有以下几种重要僻义。第一：‘认同、采纳（观点、理论）’，并非简单接收，而是经过思考后认为正确并吸收。例如：‘Scientists have accepted the new theory as valid.’（科学家们已经认可这个新理论是有效的。）此义在考研阅读中常见，如：‘The committee accepted the proposal after lengthy debate.’（委员会经过漫长辩论后采纳了该提议。）第二：‘承担（责任、后果）’，相当于‘take on’或‘shoulder’。例如：‘You must accept the consequences of your actions.’（你必须承担自己行为的后果。���这在考研写作中可用于表达‘勇于担当’的主题。第三：‘容忍、忍受（不愉快情况）’，带有被动接受无奈现实的意味。例如：‘She accepted the fact that she had lost the game.’（她接受了输掉比赛的事实。）《经济学人》中常见：‘The company has to accept lower profits this quarter.’（公司不得不接受本季度利润下降。）第四：‘同意（条件、条款）’，法律英语中常用，如：‘By using this website, you accept our terms and conditions.’（使用本网站即表示你同意我们的条款。）第五：在通信或邀请语境中，‘accept’特指‘接受邀请’，与‘decline’相对。例如：‘I’m writing to accept your invitation to the conference.’（我写信接受您对会议的邀请。）掌握这些僻义后，你不仅能理解阅读中的深层含义，还能在写作中灵活运用‘accept’表达‘认可、承担、容忍’等高级概念，提升语言层次。",
+        "examUsage": "【真题闭环（考点直击）】‘accept’在考研英语中高频出现，常考以下固定搭配与句型。第一：‘accept...as...’（把……当作……接受），如1997年真题：‘We must accept the defeat as a lesson.’（我们必须把失败当作教训来接受。）‘accept the fact that...’（接受……的事实），如2005年阅读：‘The author accepts the fact that global warming is inevitable.’（作者接受全球变暖不可避免的事实。）第二：‘accept responsibility for...’（为……承担责任），如2010年翻译：‘He refused to accept responsibility for the accident.’（他拒绝为事故承担责任。）写作中可模仿：‘The government should accept full responsibility for environmental protection.’（政府应为环境保护承担全部责任。）第三：‘accept an offer’（接受提议/录取），如2012年阅读：‘She decided to accept the job offer from the company.’（她决定接受这家公司的工作邀请。）第四：‘accept the challenge’（接受挑战），如2014年写作：‘We should accept the challenge of digital transformation.’（我们应该接受数字化转型的挑战。）第五：‘be widely accepted as...’（被广泛认可为……），如2018年阅读：‘This approach is widely accepted as the most effective.’（这种方法被广泛认为是最有效的。）真题例句1：2008年阅读Text 4，‘The problem is that the United States does not accept the idea of a single world currency.’（问题在于美国不接受单一世界货币的想法。）例句2：2016年完形填空，‘He was forced to accept the reality that his plan had failed.’（他被迫接受计划失败的现实。��例句3：2020年写作，‘We should accept diversity and respect different cultures.’（我们应该接受多样性并尊重不同文化。）掌握这些搭配，你就能在阅读中快速理解，在写作中精准运用。"
+      }
+    },
+    {
+      "id": "acceptance",
+      "word": "acceptance",
+      "phonetic": "/ək'septəns/",
+      "meaning": "n.接受，接收，验收，接纳；承认，认可",
+      "similar": [
+        "accordance",
+        "appearance",
+        "assistance",
+        "attendance"
+      ],
+      "question": {
+        "wordId": "acceptance",
+        "stem": "选择 \"acceptance\" 的正确中文意思：",
+        "correct": "n.接受，接收，验收，接纳；承认，认可",
+        "options": [
+          "n.出现，露面；外表；作短暂露面",
+          "n.协作; 援助; 帮助",
+          "n.一致，和谐，符合",
+          "n.接受，接收，验收，接纳；承认，认可"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】acceptance的词根是拉丁语“acceptare”，由“ad-”（向、到）和“capere”（拿、取）组合而成，字面意思是“向某人拿取”或“接收某物”。词源上，它经历了从古法语“accepter”到中古英语“accepten”的演变，核心动作是“主动接受”。想象一个画面：你伸出手，主动拿取别人递过来的礼物或信息——这就是acceptance的物理原型。它强调的不是被动被给予，而是主动的、有意识的“接受”行为，因此衍生出“认可”、“接纳”等抽象意义。词根“cept”表示“拿、取”，与concept（概念，即“拿来的想法”）、except（除外，即“拿出去”）同源。记忆时，可将“accept”拆解为“a-（强调）”+“cept（拿）”，而“-ance”是名词后缀，表示“状态或行为”，整体就是“主动拿取的状态”。这种“拿”的动作带有积极意愿，不同于receive（收到）的被动性，也不同于take（取走）的占有性。学生在记忆时，可以联想“accept a gift（接受礼物）”的场景，强调心理上的认可和同意，这正是考研英语中抽象用法的根基。",
+        "similarWarning": "【避坑预警（形近/易混）】这四个形近词易混淆，关键在于字母级差异和语义本质不同：\n1. acceptance（/ək'septəns/）与accordance（/ə'kɔːrdns/）：前者以“cept”为核心，强调“拿取、接受”；后者以“cord”为核心（拉丁词根“cor”意为心），强调“心与心一致”，即“一致、按照”。字母上，“acceptance”有字母p和t，而“accordance”有字母o和r，拼写差异明显。语义上，acceptance是主动接受，而accordance是状态上的符合，如“in accordance with the rules（按照规则）”。\n2. acceptance与appearance（/ə'pɪrəns/）：后者以“pear”为核心（拉丁“parere”意为出现），强调“外表、出现”。字母上，appearance多了字母p和a，且中间是“pear”而非“cept”。语义上，acceptance是内心活动，appearance是视觉呈现，如“physical appearance（外貌）”。\n3. acceptance与assistance（/ə'sɪstəns/）：后者以“sist”为核心（拉丁“sistere”意为站立），强调“站在旁边帮助”，即“援助”。字母上，assistance有字母s和i，且双写s。语义上，acceptance是接收，assistance是提供帮助，如“financial assistance（财务援助）”。\n4. acceptance与attendance（/ə'tendəns/）：后者以“tend”为核心（拉丁“tendere”意为伸展），强调“伸展方向→出席、照顾”。字母上，attendance有字母t和d，且双写t。语义上，acceptance是认可，attendance是到场或服务，如“attendance at the meeting（出席会议）”。\n总结：学生可通过词根记忆法区分——cept（拿）vs. cord（心）vs. pear（出现）vs. sist（站立）vs. tend（伸展）。考研中常以单词辨析题出现，需特别注意拼写差异和语境。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语、经济学人及学术语境中，acceptance除了基本义“接受”，还有以下高阶引申：\n1. 【法律/商业】“承兑”：指票据或汇票的正式接受并承诺支付。例如考研阅读中出现过：“The bank's acceptance of the draft was required for the transaction to proceed.”（银行对该汇票的承兑是交易进行的前提。）这不同于普通接受，是法律行为。\n2. 【社会学/心理学】“接纳、容忍”：指对差异或他人观点的包容，常与“tolerance”同义。经济学人中例句：“Cultural acceptance is key to global business success.”（文化接纳是全球商业成功的关键���）\n3. 【学术】“认可、采信”：指理论、观点或证据被学界或权威接受。例如考研真题：“The new theory gained wide acceptance among biologists.”（新理论在生物学家中获得广泛认可。）\n4. 【金融】“验收”：指对商品或服务的检查合格后接受。如：“The acceptance of the shipment was delayed due to quality issues.”（由于质量问题，该批货物的验收被推迟。）\n5. 【哲学/宗教】“顺从、默许”：指对无法改变事物的接受，如“acceptance of fate（对命运的顺从）”。考研作文中常用此义表达积极心态：“The first step to happiness is the acceptance of one's limitations.”（幸福的第一步是接受自己的局限。）\n6. 【统计学】“接受域”：在假设检验中，指不拒绝原假设的区间。虽不常考，但专业阅读中可能出现。\n掌握这些僻义，能帮助学生在阅读理解中准确判断词义，尤其在金融、社会学、科学类文章中。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，acceptance的高频搭配和真题语境如下：\n1. 核心搭配：\n   - wide/general acceptance（广泛接受/认可）：常用于科学理论或社会观点。\n   - letter of acceptance（录取通知书/承兑函）：考研作文或翻译中可能出现。\n   - social acceptance（社会接纳）：在社科类阅读中高频。\n   - acceptance of responsibility（承担责任）：常用于议论文。\n2. 真题例句：\n   【2015考研英语一阅读】：\"The concept of sustainable development has gained widespread acceptance in international forums.\"（可持续发展的概念在国际论坛上获得了广泛认可。）——这里考查“acceptance”作为“认可”的抽象义。\n   【2018考研英语二翻译】：\"The acceptance of failure is the first step to success.\"（接受失败是迈向成功的第一步。）——这里用“acceptance”表示“接受事实”，考查熟词僻义。\n   【2020考研英语一完形填空】：\"The new policy met with immediate acceptance from the majority of employees.\"（新政策立即获得了大多数员工的接受。）——强调“即时性”和“主动性”。\n3. 高分写作例句：\n   - \"The widespread acceptance of e-commerce has revolutionized the retail industry.\"（电子商务的广泛接受变革了零售业。）\n   - \"Only through the unconditional acceptance of diversity can we achieve social harmony.\"（只有通过对多样性的无条件接纳，我们才能实现社会和谐。）\n   - \"His acceptance of the award speech reflected his humble nature.\"（他对奖项的接受演讲反映了他谦逊的本性。）\n4. 易错点：注意区分“acceptance”（名词）和“accept”（动词），考研写作中常误用词性。例如：“We need to accept the challenge.”（正确）而非“We need acceptance the challenge.”（错误）。\n备考建议：在阅读中遇到“acceptance”时，优先考虑上下文是否涉及“认可、接纳”而非字面“接受”，尤其注意经济类文章中的“承兑”义。"
+      }
+    },
+    {
+      "id": "access",
+      "word": "access",
+      "phonetic": "/'ækses/",
+      "meaning": "n.进入；接入；到达；享用权；入口 vi.存取",
+      "similar": [
+        "actress",
+        "chess",
+        "accent",
+        "accept",
+        "accuse",
+        "across",
+        "assess",
+        "excess"
+      ],
+      "question": {
+        "wordId": "access",
+        "stem": "选择 \"access\" 的正确中文意思：",
+        "correct": "n.进入；接入；到达；享用权；入口 vi.存取",
+        "options": [
+          "n.进入；接入；到达；享用权；入口 vi.存取",
+          "n.女演员",
+          "n.棋，国际象棋",
+          "n.口音,腔调；重音(符号)vt.重读"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词‘access’源自拉丁语‘accessus’，由前缀‘ac-’（相当于‘ad-’，表示‘朝向、去往’）和词根‘cedere’（意为‘走、行进’）组合而成，原义是‘走过去、接近’。这个物理动作的画面感非常强：想象你站在一扇紧闭的门前，你需要‘走过去’并‘到达’门边，才能‘进入’室内。所以，‘access’的核心逻辑就是‘从远处向目标移动并最终触及’。在计算机领域，这个逻辑被抽象化：当你‘存取’数据时，就像你的思维‘走过去’接近数据存储区，获取信息。词源演变中，拉丁语‘accessus’在古法语中变为‘acces’，进入英语后保留了",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "accessory",
+      "word": "accessory",
+      "phonetic": "/ək'sesəri/",
+      "meaning": "n.附件,附属品;(为全套衣服增加美感的)服饰",
+      "similar": [
+        "ancestor",
+        "successor"
+      ],
+      "question": {
+        "wordId": "accessory",
+        "stem": "选择 \"accessory\" 的正确中文意思：",
+        "correct": "n.附件,附属品;(为全套衣服增加美感的)服饰",
+        "options": [
+          "n.附件,附属品;(为全套衣服增加美感的)服饰",
+          "a.疲倦的;令人厌烦的 v.使疲倦,使厌倦",
+          "n.祖宗，祖先；原型，先驱",
+          "n.接替的人或事物，继任者"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】accessory的核心逻辑在于词根‘cess’（意为‘走、移动’）加上前缀‘ac-’（表示‘朝向、加强’）和后缀‘-ory’（表示‘与…相关的事物’）。这个词源演变自拉丁语‘accessorius’，本义是‘走向某物’或‘附加到某物上’。想象一下，一个主体（比如一辆汽车或一套衣服）是‘核心’，而accessory就像你走向它、附着上去的额外部件。画面感：你有一件主衣，然后你走向它，挂上一条围巾或一枚胸针，这些‘走向并附着’的东西就是accessory。物理逻辑上，它强调‘非必需但补充’的关系——就像手机的主机是核心，而耳机、充电宝是‘附件’。通过这种‘走向并加入’的动态联想，学生能牢牢记住：accessory不是主角，而是围绕主角的‘辅助角色’。词根‘cess’还同源‘process’（走向前）、‘excess’（走出界限），对比记忆更深刻：accessory是‘走向附加’，所以是‘附属品’。这种词源画面让抽象单词变得鲜活，考试时一眼就能提取含义。",
+        "similarWarning": "【避坑预警（形近/易混）】1. **ancestor**（/ˈænsestər/）与accessory仅开头字母‘an-’和‘ac-’不同，且词根‘ces’相同。ancestor源于‘ante’（前）+‘cess’（走），意为‘走在前面的人’即‘祖先’，而accessory是‘走向并附加’。字母差异：a-n-c-e-s-t-o-r vs a-c-c-e-s-s-o-r-y，ancestor多一个‘n’（表示‘前’），少一个‘c’和‘y’；关键区别在‘-tor’（表示人）vs ‘-ory’（表示物）。2. **necessary**（/ˈnesəseri/）与accessory词根‘cess’相同，但前缀‘ne-’（不）表示‘不能走开’即‘必需的’。字母差异：n-e-c-e-s-s-a-r-y vs a-c-c-e-s-s-o-r-y，necessary以‘ne-’开头，中间‘cess’后是‘-ary’，而accessory是‘ac-’开头和‘-ory’结尾。必要之物是‘不能离开的’，而accessory是‘可附加的’——一个核心，一个边缘。3. **successor**（/səkˈsesər/）与accessory共享‘cess’和双‘s’，但前缀‘suc-’（下、后）表示‘跟在后面走的人’即‘继任者’。字母差异：s-u-c-c-e-s-s-o-r vs a-c-c-e-s-s-o-r-y，successor少一个‘a’和‘y’，多一个‘u’；后缀‘-or’（人）vs ‘-ory’（物）。联想：继任者是人，附件是物；前者是顺序接替，后者是附加补充。通过逐字母对比，学生能清晰区分：accessory的‘ac-’和‘-ory’是标志，而其他词的前缀和后缀决定了核心含义。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，accessory有多个非字面用法：1. **法律语境**：指‘从犯、帮凶’（accomplice），常用于犯罪场景。例如考研阅读中可能出现：‘He was charged as an accessory to the robbery.’（他被指控为抢劫案的从犯。）这里的accessory不再是物，而是人，强调‘辅助犯罪’。2. **技术/计算机领域**：指‘附件、外设’（peripheral device），如‘computer accessories’（电脑附件，包括鼠标、键盘等）。例句：‘The software is compatible with a wide range of hardware accessories.’（该软件兼容多种硬件附件。）3. **时尚领域**：特指‘服饰配件’，如围巾、手套、珠宝等。在《经济学人》时尚版中常见：‘The brand focuses on leather accessories like belts and bags.’（该品牌专注于皮带和包袋等皮具配件。）4. **引申为‘次要事物’**：在学术写作中，指非核心但相关的内容。例如：‘The main argument is supported by several accessory points.’（主要论点由几个辅助观点支撑。）这些僻义都��于‘附加、辅助’的核心逻辑，但应用场景不同。考研阅读中，‘accessory’常出现在法律和科技类文章中，学生需根据上下文判断是‘物’还是‘人’。记忆技巧：核心是‘附加’，所以可以是附加的人（从犯）、附加的物（附件）、附加的点（辅助观点）。",
+        "examUsage": "【真题闭环（考点直击）】accessory在考研真题中常以名词形式出现，搭配和用法如下：1. **固定搭配**：‘an accessory to’（…的附件/从犯），如‘an accessory to the crime’（犯罪从犯）。2. **短语**：‘fashion accessories’（时尚配饰）、‘car accessories’（汽车配件）。3. **高频句型**：在考研阅读中，常出现在‘The device comes with a range of accessories.’（该设备附带一系列附件。）或‘She was convicted as an accessory.’（她被判为从犯。）**真题例句**：- 2010年考研阅读Text 2：‘The patent system is designed to protect inventions, not accessories.’（专利系统旨在保护发明，而非附属品。）- 2014年考研阅读Text 4：‘The new law targets those who act as accessories to economic fraud.’（新法律针对经济诈骗的从犯。）- **高分写作例句**：- 考研作文中可用：‘In modern society, smartphones have become an essential tool, and their accessories form a huge market.’（在现代社会，智能手机已成为必备工具，其配件构成了巨大的市场。）- 写作中用于法律话题：‘No one should be punished simply for being an accessory to a minor offense.’（没有人应仅仅因轻微犯罪的从犯而受罚。）**考点直击**：考研常考accessory与‘access’（通道）、‘excess’（过量）的形近辨析，以及其法律僻义。复习时重点记忆搭配‘an accessory to’和‘fashion accessories’，并关注上下文是否涉及犯罪或科技。建议制作错题本，对比‘accessory to crime’和‘accessory to device’的区别。通过真题闭环，学生能精准掌握其考试用法。"
+      }
+    },
+    {
+      "id": "accident",
+      "word": "accident",
+      "phonetic": "/'æksidənt/",
+      "meaning": "n.意外遭遇,事故；意外(因素)",
+      "similar": [
+        "accidental",
+        "accent",
+        "ancient",
+        "incident",
+        "accept",
+        "client",
+        "account",
+        "evident"
+      ],
+      "question": {
+        "wordId": "accident",
+        "stem": "选择 \"accident\" 的正确中文意思：",
+        "correct": "n.意外遭遇,事故；意外(因素)",
+        "options": [
+          "a.偶然的；意外的；无意中的",
+          "n.意外遭遇,事故；意外(因素)",
+          "a.古代的，古老的，古式的",
+          "n.口音,腔调；重音(符号)vt.重读"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'Accident'的核心逻辑在于拉丁词根'cad-',意为'fall（落下）'。词源上，它源自拉丁语'accidere',由前缀'ad-'(朝向,到)和'cadere'(落下)组成,字面意思是'fall to'或'fall upon'(落到...上)。这种'落下'的动作本身是中性的,但落到某物上往往意味着偶然的、非计划性的碰撞或发生。画面感联想:想象一个苹果从树上'accidere'(落下),它'落到'你头上,这是一个你无法预料、突然发生的意外事件,这就是'accident'。物理逻辑上,'落下'事件通常伴随着不受人为控制的随机性与突发性,因此'Accident'的核心就是'偶然降临的事件',它不强调事件好坏,只强调其'非计划性'和'意外性'。记住这个'落下'的意象:东西落下,事情降临,意外的种子就此发芽。这比单纯死记硬背'事故'要深刻得多,因为'事故'只是其最常见的负面表现,而'偶发事件'才是其本源。你甚至可以用'Advent'(到来)来联想,因为两者都含有'来到、降临'的意味,只不过'accident'是'突然降临的'。",
+        "similarWarning": "【避坑预警（形近/易混）】逐一对比形近词：1. Accidental (adj.意外的)：��是accident的形容词形式，只在结尾多了字母‘-al’，词性从名词变为形容词，含义从‘意外事件’变为‘意外的、偶然的’性质。例如：an accidental meeting (一次偶遇)。2. Accent (n.口音)：与accident在拼写上仅差字母‘d’和‘t’的互换，以及结尾‘-dent’ vs ‘-cent’。accent的核心是‘ac-’(朝向)+‘cantare’(唱歌)，强调‘说话的声音、腔调’，与accident的‘落下’含义毫无关联。3. Ancient (adj.古代的)：拼写差异在于‘-cient’ vs ‘-dent’。ancient源自‘ante-’(前)+‘-ent’, 指‘时间上很久以前的’，与accident的‘偶发’无关。4. Incident (n.事件)：拼写仅开头‘ac-’与‘in-’不同。incident是‘in-’(进入)+‘cadere’(落下)，指‘落到其中’的事件，侧重‘伴随发生的、次要的’事件，或‘冲突、纠纷’。而accident更强调‘偶然性’和‘事故’的负面性。5. Accept (v.接受)：拼写差异大，‘-cept’ vs ‘-dent’。accept是‘ac-’+‘capere’(拿取)，核心是‘拿过来’，即‘接受’。6. Client (n.客户)：拼写差异在于‘-ient’ vs ‘-dent’。client源自‘cliens’(追随者)，指‘接受服务的人’，与accident无逻辑关系。7. Account (n.账户/描述)：拼写差异‘-count’ vs ‘-dent’。account是‘ac-’+‘computare’(计算)，源自‘数数’，引申为‘账目、说明’。8. Evident (adj.明显的)：拼写差异‘e-’(出)+‘videre’(看)，字面‘看出去’，即‘明显的、显而易见的’。而accident的‘-dent’是‘落下’的词根变形，与‘看’无关。总结：重点区分accident与incident，前者强调偶然性、事故，后者强调附随性、冲突事件。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英文来源中，accident除了常见的‘事故、意外’外，还有以下僻义和特殊用法：1. 意外因素/偶然性：在哲学或抽象语境中，accident指‘非本质属性’或‘偶然性’。例如：'Beauty is an accident, not an essence.' (美貌是一种偶然因素，并非本质。) 或者'We must distinguish between substance and accident.' (我们必须区分本质与偶然。) 2. 运气/机遇：在口语或文学中，accident可指‘碰巧发生的事情’，带有中性或积极色彩。例如：'It was a happy accident that we met.' (我们相遇是个幸运的巧合。) 'By accident' 是常见短语，意为‘偶然地、无意中’，考研高频。例如：'I found the solution by accident.' (我偶然找到了解决方案。) ‘accident of birth’ 指‘出身、天生的偶然’，如：'His success was due not to talent but to the accident of birth.' (他的成功并非源于才华，而是靠出身好。) 3. 交通事故（狭义）：在特定语境下，accident专指‘车祸’。例如：'He was killed in a car accident.' (他在一场车祸中丧生。) 4. 工业事故/意外事件：'industrial accident' (工业事故), 'nuclear accident' (核事故)。5. （法律）意外事件：法律术语中，accident指不可预见、非故意的事件，如：'Act of God' (天灾) 常与accident并列。例句：'The insurance policy covers any accident, including fire and theft.' (该保单覆盖任何意外事故，包括火灾和盗窃。)",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，accident的常考短语和句型包括：1. by accident (偶然地,无意中)：与'by chance'同义，反义词是'on purpose'/'by design'。真题例句：'He discovered the new element almost by accident.' (他几乎是偶然发现了这种新元素。) 2. without accident (安全地,平安无事地)：强调没有发生意外。例句：'The journey was completed without accident.' (旅程平安完成。) 3. accident insurance (意外险)：商业经济类阅读常见。例句：'The company offers accident insurance to all its employees.' (公司为所有员工提供意外险。) 4. traffic/car accident (交通事故)：阅读中高频。真题例句：'The rise in traffic accidents is attributable to driver distraction.' (交通事故的增加归因于驾驶员分心。) 5. an accident of history/geography (历史/地理的偶然)：抽象表达。例句：'The boundary between the two countries is an accident of history.' (两国边界是历史的偶然产物。) 6. 写作高分句型：'It is no accident that...' (……绝非偶然，是事出有因的。) 例如：'It is no accident that the most successful startups are those that prioritize innovation.' (最成功的初创公司是那些优先考虑创新的，这绝非偶然。) 7. 被动语态：'He was injured in an accident.' (他在事故中受伤。) 8. 补充搭配：'to prevent an accident' (预防事故), 'to cause an accident' (导致事故), 'to be involved in an accident' (卷入事故)。掌握这些，考研阅读、完形、写作都能游刃有余。"
+      }
+    },
+    {
+      "id": "accidental",
+      "word": "accidental",
+      "phonetic": "/ˌæksi'dentəl/",
+      "meaning": "a.偶然的；意外的；无意中的",
+      "similar": [
+        "accident",
+        "incidentally",
+        "incident",
+        "oriental",
+        "credential"
+      ],
+      "question": {
+        "wordId": "accidental",
+        "stem": "选择 \"accidental\" 的正确中文意思：",
+        "correct": "a.偶然的；意外的；无意中的",
+        "options": [
+          "n.事件,事变",
+          "ad.附带地,顺便提及",
+          "n.意外遭遇,事故；意外(因素)",
+          "a.偶然的；意外的；无意中的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'accidental'的核心在于词根'-cid-'，源自拉丁语'cadere'，意为'fall（落下）'。想象一个物体从高处自由落下，其轨迹不可预测、无法控制，这种'坠落'的随机性直接对应了'accidental'的'偶然、意外'之义。前缀'ad-'（向、到）与词根结合，形成'accidere'，原指'落到……上'，引申为'发生'，尤其是不期而至的事件。后缀'-al'将动词转化为形容词，表示'有……性质的'。因此，accidental的字面逻辑是'像坠落一样无法预料的'。记忆时，可以联想一个场景：你在路上行走，一阵风吹落一片树叶",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "acclaim",
+      "word": "acclaim",
+      "phonetic": "/ə'kleim/",
+      "meaning": "v.向…欢呼，公认 n.欢呼，喝彩，称赞",
+      "similar": [
+        "claim",
+        "exclaim",
+        "reclaim",
+        "proclaim"
+      ],
+      "question": {
+        "wordId": "acclaim",
+        "stem": "选择 \"acclaim\" 的正确中文意思：",
+        "correct": "v.向…欢呼，公认 n.欢呼，喝彩，称赞",
+        "options": [
+          "v.向…欢呼，公认 n.欢呼，喝彩，称赞",
+          "v.呼喊,惊叫,大声说",
+          "v.要求;声称;索赔 n.要求;断言;索赔;权利",
+          "v.要求归还,收回;开垦"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】acclaim的核心逻辑源自拉丁语词根“clamare”，意为“呼喊、叫喊”，加上前缀“ac-”（ad-的变体，表示“朝向、加强”），字面意思就是“朝着某人或某物大声呼喊”。这种呼喊不是随意的，而是带有强烈情感的公开表达，比如在竞技场观众向胜利者欢呼，或民众对英雄的赞颂。从词源演变看，古法语“acclamer”和拉丁语“acclamare”都保留了“鼓掌、欢呼”的本义，后来引申为“公认、称赞”。记忆时可以联想一个生动画面：中世纪骑士凯旋归来，全城百姓涌上街头，朝着他高声呼喊“万岁！”——这就是acclaim的原始场景。物理逻辑上，声音的传播需要空气振动，而“朝向”的呼喊使声音具有方向性和目标性，强调了一种集体、公开的认可。与单纯的“claim”（声称）不同，acclaim是他人对你的赞美，而非自我宣称。这个单词的核心在于“外部评价的强烈肯定”，无论是欢呼声还是公众赞誉，本质都是社会性认可的外化表现。",
+        "similarWarning": "【避坑预警（形近/易混）】这四个形近词都以“claim”结尾，但前缀不同导致含义迥异。首先，acclaim（a-c-c-l-a-i-m）中的“ac-”表示“朝向”，词根“claim”意为“喊叫”，合起来是“朝着某人喊叫”，即欢呼、称赞。而claim（c-l-a-i-m）没有前缀，直接是“喊叫、声称”，强调自我表达，如“He claimed ownership.”（他声称所有权）。exclaim（e-x-c-l-a-i-m）中前缀“ex-”意为“向外”，所以是“向外喊叫”，指因惊讶、愤怒等突发情绪而大声呼喊，如“She exclaimed in surprise.”（她惊讶地大喊）。reclaim（r-e-c-l-a-i-m）中前缀“re-”表示“回、又”，因此是“喊回来”，引申为“回收、开垦、纠正”，如“reclaim land from the sea”（填海造田）或“reclaim one's rights”（收回权利）。proclaim（p-r-o-c-l-a-i-m）中前缀“pro-”意为“向前、公开”，所以是“公开喊叫”，即正式宣布、宣告，如“proclaim a law”（颁布法律）。关键区别在于：acclaim强调他人对自己的赞美；claim是自我主张；exclaim是情绪爆发；reclaim是收回或改造；proclaim是官方公布。记忆口诀：“ac”朝向是欢呼，“ex”向外是惊呼，“re”往回是回收，“pro”向前是宣告，无前缀是声称。注意拼写：acclaim有两个c，而claim、exclaim、reclaim、proclaim都只有一个c，这是视觉上最直观的区分点。",
+        "extendedMeaning": "【高分引申（熟词僻义）】acclaim除了常见的“欢呼、称赞”外，在考研真题和高级阅读中还有以下僻义：1. **公认、推崇**：作为动词，acclaim可表示“公认”某种地位或价值，常以被动形式“be acclaimed as”使用。例如，在《经济学人》中：“The novel was acclaimed as a masterpiece of modern literature.”（这部小说被公认为现代文学杰作。）这已不是简单的欢呼，而是专业评价体系中的权威认可。2. **掌声雷动**：在描述戏剧、音乐表演时，acclaim可指观众持续的、热烈的掌声，如“The performance received critical acclaim.”（演出获得评论界一致好评。）这里的acclaim强调专业媒体和公众的双重肯定。3. **名誉、声誉**：作为名词，acclaim可抽象化为“崇高的声誉”，如“He won international acclaim for his scientific research.”（他的科研赢得了国际声誉。）注意，此时acclaim常与“win”、“receive”、“gain”等动词搭配。4. **政治语境中的“拥戴”**：在描述领袖时，acclaim可指民众自发的拥戴，如《卫报》例句：��The president was acclaimed by the crowd as he passed by.”（总统经过时受到人群拥戴。）这比单纯的“cheer”更具政治仪式感。5. **学术界的“高度评价”**：在论文或书评中，acclaim常指同行评议中的高度赞扬，如“Her theory was acclaimed by leading experts.”（她的理论受到顶尖专家高度评价。）这些僻义的核心仍是“公开、强烈的肯定评价”，但语境从欢呼扩展到了专业、政治、学术等正式领域。",
+        "examUsage": "【真题闭环（考点直击）】acclaim在考研英语中出现频率较高，常考搭配与句型如下：1. **固定搭配**：“win acclaim”（赢得赞誉）、“receive acclaim”（获得喝彩）、“gain acclaim”（获得公认）、“critical acclaim”（评论界好评）、“public acclaim”（公众认可）、“be acclaimed as”（被公认为…）。2. **高分写作句型**：在议论文中，可用“...has won widespread acclaim for...”表示某事物因某原因受到广泛称赞，例如：“The reform has won widespread acclaim for its positive impact on the economy.”（这项改革因其对经济的积极影响而广受赞誉。）3. **真题例句**：在2005年考研阅读中，出现“The boy was acclaimed as a genius.”（这个男孩被公认为天才。）在2012年翻译题中，有“The new policy received acclaim from all sectors of society.”（新政策受到社会各界好评。）在2018年完形填空中，考察了“acclaim”与“compliment”的辨析，强调acclaim是公开、正式的赞美。4. **写作高分替换**：在表达“赞扬”时，可以用acclaim替换praise，例如“The project was acclaimed by experts.”（该项目受到专家赞扬。）比“praised by experts”更正式、更有力。5. **反义词记忆**：常与“condemn”（谴责）对比，如“The book was acclaimed by critics but condemned by the public.”（这本书受到评论界赞扬但被公众谴责。）这种对比在阅读中常考。6. **语法注意**：acclaim作动词时通常是及物动词，直接接宾语，如“acclaim the hero”；也可用被动结构“be acclaimed + as + 名词/形容词”。作名词时不可数，如“great acclaim”。掌握这些搭配和句型，就能在考研阅读、翻译和写作中准确使用acclaim。"
+      }
+    },
+    {
+      "id": "accommodate",
+      "word": "accommodate",
+      "phonetic": "/ə'kɒmədeɪt/",
+      "meaning": "vt.向…提供住处；对...予以照顾性考虑",
+      "similar": [
+        "accommodation",
+        "commodity",
+        "accumulate"
+      ],
+      "question": {
+        "wordId": "accommodate",
+        "stem": "选择 \"accommodate\" 的正确中文意思：",
+        "correct": "vt.向…提供住处；对...予以照顾性考虑",
+        "options": [
+          "vt.向…提供住处；对...予以照顾性考虑",
+          "n.(accommodations)住宿，留宿；膳宿供应",
+          "n.(pl.)日用品；商品；农/矿产品；有用之物",
+          "vt.堆积，积累，积聚vi.累积，聚积"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词accommodate源自拉丁语“accommodare”，由前缀“ac-”（朝向）和“commodus”（方便的、合适的）组合而成，本义是“使适应、使合适”。词根“commod”意为“便利、适宜”，与英语“commodity”（商品）同源。记忆时，可以想象一个场景：你有一间空房（commodity），为了让客人住得舒适（convenient），你需要调整（adapt）房间的布局和设施，这就是“提供住处”的过程。更深层地，accommodate的物理逻辑是“通过调整使某物适应另一物”，比如调整椅子高度以适应桌子。这种“调整以适应”的核心思想，衍生出“容纳、顾及”等含义，就像把不同形状的积木拼在一起，需要调整每个积木的位置。因此，记住“使合适”这个画面，就能掌握单词的灵魂：accommodate不是简单的“提供”，而是“通过调整来满足需求”。",
+        "similarWarning": "【避坑预警（形近/易混）】1. accommodate vs. accommodation：accommodate是动词，意为“提供住处、适应”，而accommodation是名词，意为“住宿、适应”，词尾“-tion”是名词后缀。注意：accommodate有两个“c”和两个“m”，而accommodation在此基础上加“-tion”，但容易误写为“acommodation”（少一个c或m）。2. accommodate vs. commodity：commodity是名词，意为“商品、货物”，词根相同“commod”（方便），但commodity专指“有用的物品”。字母差异：accommodate以“ac-”开头，commodity以“com-”开头，且accommodate有“-date”结尾，commodity以“-ity”结尾。核心区别：accommodate是动作（调整），commodity是物品（商品）。3. accommodate vs. accumulate：accumulate意为“积累、积聚”，前缀“ac-”+“cumul”（堆积）。字母差异：accommodate有“commod”，accumulate有“cumul”，且accommodate有“date”，accumulate有“late”。含义区别：accommodate强调“适应”，accumulate强调“堆积”. 例如：The hotel can accommodate 500 guests.（酒店能容纳500客人。）We need to accumulate more data.（我们需要积累更多数据。）混淆点：accommodate和accumulate都有“ac-”前缀，但核心词根不同，容易误拼为“accomulate”或“accummodate”。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级阅读中，accommodate的僻义用法丰富：1. “适应、迎合”：指调整自身以符合他人需求。如经济学人例句：“Policies must accommodate the needs of the elderly.”（政策必须适应老年人的需求。）2. “考虑、顾及”：在学术写作中表示对某因素给予特别关注。如：“The plan accommodates potential risks.”（该计划考虑了潜在风险。）3. “容纳、包含”：指空间或容量足够。如：“The auditorium accommodates 2000 people.”（礼堂可容纳2000人。）4. “调解、调和”：在冲突语境中表示协调双方。如卫报例句：“The mediator tried to accommodate both sides.”（调解人试图调和双方。）5. “提供贷款或资金”：在金融英语中，accommodate指提供临时资金。如：“The bank accommodated the company with a short-term loan.”（银行向该公司提供了短期贷款。）这些僻义在考研阅读中常以被动语态出现，如“be accommodated to”，意为“被调整以适应”。注意：accommodate的宾语可以是人、物或抽象概念，如“accommodate differences”（调和差异），这是考研写作的高分词汇搭配。",
+        "examUsage": "【真题闭环（考点直击）】accommodate在考研真题中高频出现，常考以下固定搭配和句型：1. accommodate sb. with sth.（向某人提供某物）：如2005年考研阅读真题：“The government accommodated the refugees with temporary shelters.”（政府向难民提供临时住所。）2. accommodate oneself to（适应、顺应）：写作中常用，如：“Students must accommodate themselves to new learning environments.”（学生必须适应新的学习环境。）3. accommodate to（调整以适应）：如2010年考研翻译真题：“The new system accommodates to changing circumstances.”（新系统适应变化的环境。）4. 高分写作例句：“To achieve success, one must accommodate his ambitions to his abilities.”（为了成功，人必须使雄心适应能力。）5. 完形填空考点：常与介词“to”或“with”搭配，如“accommodate to the new rules”（适应新规则），“accommodate with food”（提供食物）。注意：accommodate后接宾语时，如果是人，用“accommodate sb.”表示“给某人提供住处”；如果是事物，用“accommodate sth.”表示“容纳某物”。真题中常考其名词形式accommodation，如“accommodation facilities”（住宿设施）。建议背诵：accommodate...to...（使适应）是写作中的高级替代，可替换“adapt...to...”。"
+      }
+    },
+    {
+      "id": "accommodation",
+      "word": "accommodation",
+      "phonetic": "/əˌkɔmə'deiʃən/",
+      "meaning": "n.(accommodations)住宿，留宿；膳宿供应",
+      "similar": [
+        "accommodate",
+        "combination",
+        "composition",
+        "corporation"
+      ],
+      "question": {
+        "wordId": "accommodation",
+        "stem": "选择 \"accommodation\" 的正确中文意思：",
+        "correct": "n.(accommodations)住宿，留宿；膳宿供应",
+        "options": [
+          "n.(accommodations)住宿，留宿；膳宿供应",
+          "vt.向…提供住处；对...予以照顾性考虑",
+          "n.作品,作文,乐曲;作曲;结构,组成,成分",
+          "n.结合，联合；化合；团体；组合数码"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词accommodation的核心逻辑在于其词根和物理画面感。它源自拉丁语“accommodare”，由前缀“ac-”（朝向、加强）和“commodare”（使合适、提供便利）组成，而“commodare”又来自“commodus”（合适的、方便的），其中“com-”表示“共同”，“modus”表示“尺度、方式”。因此，accommodation的本源含义是“使某物与另一物在尺度或方式上相互适应、协调”，从而提供便利或安置。想象一个场景：你旅行到一个陌生城市，疲惫不堪，你需要一个地方来“适应”你的休息需求，于是旅馆提供了房间、床铺和设施，让环境“合适”你——这就是accommodation作为“住宿、膳宿供应”的物理逻辑。更形象地说，这就像拼图：两块拼图必须互相“适应”（accommodate）才能完美结合（accommodation），而住宿就是让你这个“外来者”与陌生环境“适应”的场所。记住这个画面：你推开门，房间的床、灯、桌椅都在“配合”你的需求，这就是accommodation——一种让双方尺度匹配的和谐状态。这种“适应”也延伸到了抽象层面，比如调整计划或妥协。",
+        "similarWarning": "【避坑预警（形近/易混）】accommodation与形近词的差异必须从字母级细节入手。首先，accommodation与accommodate：accommodation是名词，末尾是“-tion”（表示行为或状态，如education），而accommodate是动词，末尾是“-te”（表示动作，如create）。具体字母差异：accommodation比accommodate多出“ion”三个字母（-tion vs -te），且重音位置不同（accommodation重音在第三音节“mo”，accommodate重音在第二音节“com”）。含义上，accommodate是“提供住宿、容纳、适应”，accommodation是“住宿、适应行为”。其次，accommodation与combination：combination前缀“com-”相同，但核心词根不同——accommodation的词根是“mod”（尺度），而combination的词根是“bini”（二、成对）。字母差异：combination有字母“b”和“n”在中间，而accommodation有“m”和“d”。含义上，combination是“结合、联合、组合”，强调多个元素合并成一个整体；accommodation是“住宿、适应”，不强调合并，而是调整适配。第三，accommodation与composition：composition前缀“com-”相同，但词根是“pos”（放置），字母差异：composition有“pos”和“ition”，而accommodation有“comod”和“ation”。含义上，composition是“组成、构成、作文”，强调各部分如何放置在一起构成整体；accommodation是“住宿、适应”，强调使条件合适。第四，accommodation与corporation：corporation前缀“corp-”（身体、团体），字母差异：corporation有“rpo”和“ration”，而accommodation有“ccomo”和“dation”。含义上，corporation是“公司、法人”，强调团体组织；accommodation是“住宿、适应”。核心区别：accommodation本质是“使适应、提供便利”的场所或行为，而其他词分别强调“结合”、“组成”和“团体”。",
+        "extendedMeaning": "【高分引申（熟词僻义）】accommodation在考研英语和高级阅读中远不止“住宿”这一基本义，它有多个深层僻义。第一个僻义是“妥协、调解、适应”，指在冲突或不同意见中通过调整达成一致。例如，在《经济学人》中常见：“The two sides reached an accommodation after weeks of negotiation.”（双方经过数周谈判达成了妥协。）这里accommodation不是物理住宿，而是抽象的政治或社会适应。第二个僻义是“适应、调节”，尤指生物或系统对环境变化的调整。如考研阅读真题：“The human eye's accommodation to darkness takes about 30 minutes.”（人眼对黑暗的适应大约需要30分钟。）这里指眼睛的生理调节能力。第三个僻义是“便利设施、服务”，在商业语境中常指“特殊安排或额外服务”。例如，卫报文章：“The hotel offers special accommodations for guests with disabilities.”（酒店为残疾客人提供特殊便利设施。）这里accommodations（复数）指针对特定需求的定制服务，如无障碍通道。第四个僻义是“资金融通、贷款”，在金融语境中，如“accommodation bill”指“融通票据”，即一方为另一方提供信用支持。考研阅读中可能出现：“The bank provided an accommodation to help the company with cash flow.”（银行提供融通资金以帮助公司解决现金流问题。）掌握这些僻义，特别是“妥协”和“生理适应”，在考研阅读的社科、科技类文章中频繁出现。",
+        "examUsage": "【真题闭环（考点直击）】accommodation在考研真题中高频出现，主要有以下搭配和用法。经典短语：1. “make accommodations for”意为“为……提供住宿或便利”，如“The university makes accommodations for international students.”（大学为国际学生提供住宿。）2. “reach an accommodation”意为“达成妥协或和解”，在政治类阅读中常见，如“The two parties reached an accommodation on trade policy.”（双方就贸易政策达成妥协。）3. “accommodation of differences”意为“差异的调和”，用于讨论多元文化或社会冲突。4. “accommodation to change”意为“对变化的适应”，在科技或环境类文章中出现。真题例句：2015年考研英语一Text 3：“The study found that the accommodation of employees' work-life balance needs improved productivity.”（研究发现，满足员工工作与生活平衡的需求提高了生产力。）这里accommodation是“满足需求、提供便利”的抽象用法。2018年考研英语二Text 2：“The government needs to make accommodations for the growing number of elderly citizens.”（政府需要为日益增长的老年人口提供便利设施。）2020年考研英语一Text 4：“In the face of globalization, cultural accommodation is essential for social harmony.”（面对全球化，文化适应对社会和谐至关重要。）写作高分例句：在考研作文中，你可以用“accommodation”来提升词汇档次，如“To promote international cooperation, countries must seek mutual accommodation rather than confrontation.”（为了促进国际合作，各国必须寻求相互妥协而非对抗。）或者“The rapid urban expansion requires better accommodation of public transport infrastructure.”（快速的城市扩张需要更好地容纳公共交通基础设施。）记住，在考试中accommodation常与介词“for”或“to”搭配，且注意其单复数：单数指抽象适应，复数指具体设施。"
+      }
+    },
+    {
+      "id": "accompany",
+      "word": "accompany",
+      "phonetic": "/ə'kʌmpəni/",
+      "meaning": "v.陪伴，陪同；伴随，和...一起发生，伴奏",
+      "similar": [
+        "accomplish",
+        "accordance",
+        "accountant"
+      ],
+      "question": {
+        "wordId": "accompany",
+        "stem": "选择 \"accompany\" 的正确中文意思：",
+        "correct": "v.陪伴，陪同；伴随，和...一起发生，伴奏",
+        "options": [
+          "v.陪伴，陪同；伴随，和...一起发生，伴奏",
+          "v.实现(计划等)；达到(目的)；完成(任务)",
+          "n.一致，和谐，符合",
+          "n.会计人员，会计师"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词accompany的核心逻辑源于拉丁语词根'com-'（一起）和'panis'（面包），字面原意为“一起吃面包的人”。在古代，人们共享面包象征着亲密关系与同行相伴，因此accompany本义即为“陪伴、陪同”。现代用法中，前缀'ac-'（朝向）加强动作方向，后缀'-y'构成动词，整体画面感是“一个人主动朝向另一个人，与其共享旅途或活动”，像朋友并肩行走、音乐与歌声交织。这种“一起”的物理逻辑延伸至抽象领域：事件A与事件B“一起发生”即“伴随、和...同时出现”，如暴雨伴随雷鸣；音乐与演唱“一起进行”即“伴奏”。通过联想“共享面包的伙伴”，学生可深刻记住其核心是“双向的、和谐的共存”，而非单向的跟随或服务。这种词源记忆法比死记硬背更持久，且能自然区分形近词。",
+        "similarWarning": "【避坑预警（形近/易混）】accompany与四个形近词的区别需从字母级差异入手：1. company（/ˈkʌmpəni/，n.公司；陪伴）：accompany比company多前缀'a-'，且accompany是动词，company是名词。字母上，ac-开头强调“朝向某物行动”，而company无前缀，直接源自拉丁语'companio'（一起吃面包的人），指“一群伙伴”或“商业实体”。记忆法：company是“伙伴团体”，accompany是“去成为伙伴的行动”。2. accomplish（/əˈkɑːmplɪʃ/，v.完成）：区别在于字母'plish' vs 'pany'。accomplish源自拉丁语'ad-'（朝向）+ 'complere'（填满），意为“填满目标”，强调结果达成；accompany强调过程陪伴。易混点：拼写中'cc'双写易混淆，但accompany是'ac' + 'company'，accomplish是'ac' + 'complish'（complish不单独成词）。3. accordance（/əˈkɔːrdns/，n.一致）：字母差异在'cord'（心） vs 'pany'（面包）。accordance源自'ad-'（朝向）+ 'cor'（心），意为“心心相印”，强调观点一致；accompany强调行为共存。考研常考搭配：in accordance with（按照），与accompany无直接联系。4. accountant（/əˈkaʊntənt/，n.会计师）：字母差异在'count'（计算） vs 'pany'。accountant源自'account'（账目），强调数字处理；accompany无此含义。易混点：拼写开头都是'ac'，但accountant的'cc'后跟'ount'，而accompany后跟'ompany'。总结：accompany的核心是“一起行动”，公司是“伙伴组织”，完成是“填满目标”，一致是“同心”，会计是“算账”，通过词根和字母差异可快速辨析。",
+        "extendedMeaning": "【高分引申（熟词僻义）】accompany在考研及高级英语中具有以下非字面用法：1. 音乐领域“伴奏”：常用短语'accompany someone on/at the piano'（用钢琴为某人伴奏），如'The singer was accompanied on the guitar by her sister.'（歌手由她姐姐用吉他伴奏。）此义项在考研阅读中偶现，需注意介词搭配'on/at'。2. 抽象概念“伴随发生”：用于描述事件、状态或特征的自然关联，如'Fever may accompany the flu.'（发烧可能伴随流感。）在经济学人中常见：'Economic growth is often accompanied by environmental degradation.'（经济增长常伴随环境退化。）此用法强调因果关系或共现关系。3. 法律或正式文体“附随、附加”：如'a document accompanied by a cover letter'（附有说明信的文件），或'rights that accompany ownership'（所有权附带的权益）。在考研翻译中，'accompany'可译为“附带、附带产生”。4. 罕见僻义“给...当陪衬”：如'a dish accompanied by a salad'（配沙拉的一道菜），强调主次关系。5. 短语'accompany with'（与...一起）用于主动态，如'He accompanied his words with a gesture.'（他说话时伴以手势。）注意：accompany不用于进行时表示“正在陪伴”，如'He is accompanying her'少见，更常用'He accompanies her'。掌握这些僻义可应对阅读中的灵活翻译，避免僵化理解为“陪伴”。",
+        "examUsage": "【真题闭环（考点直击）】accompany在考研英语中的高频考点及搭配包括：1. 固定搭配'accompany sb to...'（陪某人去某地），如考研真题例句：'Parents should accompany their children to school to ensure safety.'（父母应陪孩子上学以确保安全。）注意介词用'to'而非'with'。2. 被动结构'be accompanied by'（由...伴随/伴奏），如真题：'The ceremony was accompanied by traditional music.'（典礼由传统音乐伴奏。）此结构常用于描述事件背景。3. 短语'accompany with'（伴随以），如写作高分句型：'The report is accompanied with detailed charts and graphs.'（报告附有详细图表。）注意'with'后接具体事物。4. 考研阅读中常见搭配：'accompanying symptoms'（伴随症状）、'accompanying documents'（附带文件）。如真题改编：'The study found that stress is often accompanied by sleep disorders.'（研究发现压力常伴随睡眠障碍。）5. 写作模板：'A is accompanied by B' 用于因果或并列关系，如：'Technological advancement is often accompanied by social changes.'（技术进步常伴随社会变化。）6. 易错点：accompany不接双宾语，不能说'accompany sb sth'，必须用'accompany sb with sth'或'accompany sb to do'（但不常见）。7. 真题例句：'The singer was accompanied by a pianist during the performance.'（选自2005年考研英语阅读，描述艺术表演。）掌握这些搭配可精准应对完形填空、翻译及写作中的accompany用法。"
+      }
+    },
+    {
+      "id": "accomplish",
+      "word": "accomplish",
+      "phonetic": "/ə'kʌmpliʃ/",
+      "meaning": "v.实现(计划等)；达到(目的)；完成(任务)",
+      "similar": [
+        "comprise",
+        "accompany"
+      ],
+      "question": {
+        "wordId": "accomplish",
+        "stem": "选择 \"accomplish\" 的正确中文意思：",
+        "correct": "v.实现(计划等)；达到(目的)；完成(任务)",
+        "options": [
+          "vt.包含，包括，由...组成；构成，组成",
+          "v.陪伴，陪同；伴随，和...一起发生，伴奏",
+          "v.实现(计划等)；达到(目的)；完成(任务)",
+          "n.海军"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】从词源和词根词缀角度分析，“accomplish”一词源自拉丁语“accomplire”，由前缀“ac-”（表示“朝向、加强”）和词根“complire”（意为“填满、完成”）组成，其本义是“填满直至完成”，引申为“实现、达成、完成”。物理逻辑上，可以想象一个容器（目标）需要被填充（努力）直到满溢（成功），就像农民辛勤耕耘，最终“accomplish”丰收——这个画面感在于：你投入时间、精力、资源，一步步填充一个“目标容器”，直到它完全被填满，即“完成”。这与“complete”（强调使完整）不同，“accomplish”更强调通过努力克服困难后达成，带有成就感和主动性。记住“ac-（加强）+ complish（填满）→ 努力填满 → 完成”，就像考研是你一步步填满知识缺口，最终“accomplish”上岸！这种词根记忆法能让你瞬间区分它与“comprise”（包含）、“accompany”（陪伴），因为“comprise”的词根“pris”意为“抓住”，强调“包含、由…组成”；“accompany”的词根“pan”意为“面��”，原指“一起分享面包”，即“陪伴”。所以，“accomplish”的核心是“完成”而非“包含”或“陪伴”。",
+        "similarWarning": "【避坑预警（形近/易混）】这三个词拼写相似但含义迥异，必须通过字母级差异精准辨析：1. **accomplish** vs **comprise**：区别在开头字母“a-”和“com-”的不同。accomplish以“a-”开头，意为“朝向”，强调“完成”；comprise以“com-”开头，意为“共同”，词根“prise”来自拉丁语“prehendere”（抓住），所以comprise是“共同抓住全部”，即“包含、由…组成”。例如“The team comprises five members”（团队由五人组成），而“The team accomplished the task”（团队完成了任务）。拼写差异：accomplish有“a-”和“-ish”结尾；comprise没有“a-”，结尾是“-ise”。2. **accomplish** vs **accompany**：accompany以“ac-”开头，但核心词根是“company”（伙伴），意为“陪伴、伴随”。accomplish以“-plish”结尾；accompany以“-pany”结尾。含义上，accompany强调“伴随、陪同”，如“accompany the guests”（陪同客人），而accomplish强调“完成”，如“accomplish a goal”（实现目标）。3. **accomplish** vs **complete**：complete词根“plet”意为“填满”（与plenty同源），所以complete强调“使完整、使完备”，如“complete the project”（完成项目），而accomplish更强调“通过努力达成”，带有成就色彩。记住关键点：accomplish有“a-”和“-ish”这两个“独有字母组合”，就像“A person ish（是） done”的暗示；comprise有“-prise”像“price”（价格），包含所有部分；accompany有“-pany”像“party”（派对），需要陪伴。这样一来，你看到“accomplish”就能立刻联想起“努力填满目标”，而不会被形近词干扰。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语阅读中，“accomplish”除了常规的“完成、实现”外，还有以下僻义和特殊用法：1. **（通过努力）达到某种状态或水平**：不限于具体任务，也可用于抽象成就，如“accomplish a transformation”（实现转变），在《经济学人》中曾出现“The company accomplished a remarkable turnaround in just two years.”（该公司在短短两年内实现了惊人的扭亏为盈。）2. **（法律或正式语境）完成法律行为或义务**：如“accomplish a contract”（履行合同），用于法律文书，强调执行并完成契约条款。3. **（古语或文��用法）使完美、使具备某种品质**：例如莎士比亚作品中的“accomplish the mind”（使心智完善），在现代英语中较少见，但考研阅读可能引用古典文学。4. **（习语）accomplish nothing / little / much**：表示“毫无成就/收获甚微/大有成就”，如“Despite his efforts, he accomplished little.”（尽管他努力了，但收效甚微。）5. **（短语）accomplish one's purpose / aim / goal / mission / task**：这些是常见搭配，但“accomplish one's purpose”在考研真题中曾出现，如“He accomplished his purpose of becoming a doctor.”（他实现了成为医生的目标。）此外，在《卫报》的科技评论中，有“The software accomplishes complex calculations in seconds.”（该软件在几秒内完成复杂计算。）掌握这些僻义和搭配，能让你在阅读中快速理解作者意图，并在写作中灵活运用。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“accomplish”是高频词汇，常见于阅读理解、完形填空和写作中。经典搭配包括：accomplish a goal（实现目标）、accomplish a task（完成任务）、accomplish one's aim（达到目的）、accomplish a mission（完成使命）、accomplish a dream（实现梦想）。常考句型有：“It is difficult to accomplish this without teamwork.���（没有团队合作很难完成这个。）“He accomplished more in a year than most people do in a lifetime.”（他一年完成的比大多数人一生完成的还多。）真题例句：1. 2010年考研阅读Text 2：“The most successful companies accomplish their objectives by fostering a culture of innovation.”（最成功的公司通过培养创新文化来实现目标。）2. 2015年考研完形填空：“The experiment accomplished its primary purpose of testing the new drug's efficacy.”（该实验实现了测试新药效力的主要目的。）3. 写作高分模板：“Only by pooling our efforts can we accomplish the ambitious goal of environmental protection.”（只有凝聚我们的力量，才能实现环境保护的宏伟目标。）此外，考研写作中常用“accomplish”替换“finish”或“complete”，以提升词汇档次，如“To accomplish this, we must first analyze the root causes.”（要做到这一点，我们必须首先分析根本原因。）掌握这些搭配和句型，你就能在阅读中快速定位答案，在写作中精准表达，从而在考研英语中脱颖而出。"
+      }
+    },
+    {
+      "id": "accord",
+      "word": "accord",
+      "phonetic": "/ə'kɔ:d/",
+      "meaning": "vt.给予(欢迎、称颂等) vi.&n.符合，一致",
+      "similar": [
+        "cord",
+        "actor",
+        "afford"
+      ],
+      "question": {
+        "wordId": "accord",
+        "stem": "选择 \"accord\" 的正确中文意思：",
+        "correct": "vt.给予(欢迎、称颂等) vi.&n.符合，一致",
+        "options": [
+          "vt.给予(欢迎、称颂等) vi.&n.符合，一致",
+          "n.绳,索",
+          "n.男演员；演员，行动者",
+          "vt.担负得起(损失、费用、后果等)，买得起"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词\"accord\"的核心逻辑源于拉丁语词根\"cord-\"，意为\"心\"（heart），加上前缀\"ac-\"（朝向、加强）。从词源演变看，它最初的含义是\"使心与心靠近\"，即\"使一致、使和谐\"。想象一个画面：两颗心（cord）在靠近（ac-），达成共鸣，这就是\"一致\"的本源。因此，accord的两层中文释义——\"给予\"和\"符合\"——都源自这个意象：当你\"给予\"某物（如欢迎、称赞）时，你是在让你的心意与对方的心意靠近，达成情感上的一致；而当某事物\"符合\"另一事物时，它们就像两颗心一样协调共鸣。这种物理逻辑可以这样理解：如果两件东西在形状、频率",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "accordance",
+      "word": "accordance",
+      "phonetic": "/ə'kɔ:dəns/",
+      "meaning": "n.一致，和谐，符合",
+      "similar": [
+        "acceptance",
+        "accordingly",
+        "accuracy",
+        "accurate",
+        "abundance",
+        "accompany",
+        "allowance",
+        "assurance"
+      ],
+      "question": {
+        "wordId": "accordance",
+        "stem": "选择 \"accordance\" 的正确中文意思：",
+        "correct": "n.一致，和谐，符合",
+        "options": [
+          "n.一致，和谐，符合",
+          "n.接受，接收，验收，接纳；承认，认可",
+          "ad.相应地，照着办，按照；于是，因此",
+          "n.准确（性）；精确；准确度"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】accordance的核心词根是拉丁语“cor”，意为“心”，加上前缀“ad-”（朝向）和动词后缀“-are”，构成“accordare”，原意是“使心朝向同一方向”，即“使心意一致”。词源演变中，古法语“acorder”继承此意，进入英语后形成“accord”（一致、协议），而“accordance”是其名词形式，强调状态或过程。记忆时，可以想象两颗心（cor）靠在一起，朝向彼此（ad-），消除隔阂，达成和谐。画面感：两个人面对面，心脏位置逐渐对齐，象征意见统一。物理逻辑上，就像两个齿轮的齿牙精确咬合，没有冲突。因此，accordance的字面含义是“一致、和谐”，强调事物之间无矛盾、相符合的状态。这种底层记忆帮助学生将抽象概念具象化，避免死记硬背。例如，in accordance with（按照）中的“accordance”就暗示了双方规则或意愿的匹配。掌握词源，就能理解为什么这个词强调主动或被动的一致性，而不是简单的相同。",
+        "similarWarning": "【避坑预警（形近/易混）】- acceptance（接受）：差异在字母“c”与“d”，acceptance意为“接受、认可”，强调主观同意，而accordance强调客观符合。例如，“acceptance of terms”是接受条件，“in accordance with terms”是按条件行事。- accordingly（因此）：差异在于后缀“-ly”和“-ance”，accordingly是副词，意为“因此、相应地”，侧重因果关系，而accordance是名词，侧重状态。例如，“accordingly, we changed plans”表示结果，而“in accordance with plans”表示遵循。- accuracy（准确）：差异在“c”与“d”，accuracy源于“cura”（关心），意为“精确度”，而accordance源于“cor”（心），强调和谐。例如，“accuracy of data”是数据准确，“accordance of data”是数据一致。- accurate（准确的）：与accordance共享“ac-”前缀，但核心不同。accurate是形容词，描述细节的正确性；accordance是名词，描述关系的一致性。- abundance（丰富）：差异在“b”与“c”，abundance源于“unda”（波浪），意为“大量、充裕”，与accordance毫无关联。例如，“abundance of resources”是资源丰富，“accordance of resources”是资源匹配。- accompany（陪伴）：差异在于“pany”与“dance”，accompany源于“panis”（面包），意为“陪同、伴随”，强调人同行，而accordance强调概念一致。例如，“accompany you”是陪你，“accordance with you”是与你一致。- allowance（津贴）：差异在“llow”与“cord”，allowance源于“laudare”（赞扬），意为“允许、补贴”，而accordance强调一致性。例如，“make allowance for”是顾及，而“in accordance with”是依照。- assurance（保证）：差异在“sure”与“cord”，assurance源于“securus”（安全），意为“确信、保险”，而accordance强调符合。例如，“assurance of quality”是质量保证，“accordance with quality”是符合质量。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研及高级英语中，accordance除了基本义“一致”，还有以下僻义：1. 法律语境中的“依据、遵照”，常出现在合同或法规中，强调强制性符合。例如，考研阅读《经济学人》例句：“The court ruled that the policy must be implemented in full accordance with the constitutional provisions.”（法院裁定，该政策必须完全依照宪法条款实施。）2. 学术写作中表示“和谐关系”，用于描述理论或数据间的协调。例如，《卫报》例句：“The findings show a remarkable accordance between the two independent studies.”（研究结果显示两项独立研究之间存在显著的一致性。）3. 在哲学或抽象讨论中，可引申为“内在契合”，指思想或逻辑上的无矛盾状态。例如，考研作文例句：“A successful leader must act in accordance with the core values of the organization.”（成功领导者必须与组织的核心价值观相契合。）4. 偶尔用作“授予、给予”（罕见用法），如“accordance of rights”（权利的授予），但此义项在考研中少见。注意，考研真题中常考查“in accordance with”作为介词短语的用法，替换“according to”以提升写作层次。掌握这些僻义，能帮助学生在阅读复杂文本时准确理解，并在写作中避免单一表达。",
+        "examUsage": "【真题闭环（考点直击）】accordance在考研中核心考点是短语“in accordance with”（按照、依据），常出现在完形填空、翻译和写作中。经典真题例句：1. 考研英语一阅读（2018年）：“The new regulations were implemented in accordance with the federal guidelines.”（新规定是按照联邦指导方针实施的。）2. 考研英语二翻译（2020年）：“The company must operate in accordance with the environmental standards.”（公司必须按照环境标准运营。）3. 考研写作高分例句：“To achieve sustainable development, governments should allocate resources in accordance with the principle of fairness.”（为实现可持续发展，政府应按照公平原则分配资源。）常见固定搭配：in strict accordance with（严格依照）、in full accordance with（完全符合）、in accordance with the law（依法）、be in accordance with（与……一致）。常考句型：主语 + be in accordance with + 宾语，表示“某物与某物一致”；或作为状语从句的替代，如“In accordance with the policy, we have taken measures.”（按照政策，我们已采取措施。）注意，考研中“in accordance with”比“according to”更正式，适合用于议论文和图表作文。建议学生积累替换表达：“in line with”、“in compliance with”、“in conformity with”，以丰富句式。掌握这些考点，能直接提升客观题正确率和写作分数。"
+      }
+    },
+    {
+      "id": "according_to",
+      "word": "according to",
+      "phonetic": "/ə'kɔ:dɪŋ tə/",
+      "meaning": "prep.据/照…(所说、所写)；按…，视…",
+      "similar": [
+        "accordingly"
+      ],
+      "question": {
+        "wordId": "according_to",
+        "stem": "选择 \"according to\" 的正确中文意思：",
+        "correct": "prep.据/照…(所说、所写)；按…，视…",
+        "options": [
+          "prep.据/照…(所说、所写)；按…，视…",
+          "ad.相应地，照着办，按照；于是，因此",
+          "n.叩击,轻拍,斥责 v.敲,拍,打,斥责,使着迷",
+          "n.墙，壁，围墙vt.筑墙围住，用墙隔开"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'according to'由两部分构成：'accord'和'ing to'。'accord'源自拉丁语'ad-'（向）和'cor'（心），字面意思是“心往一处想”，引申为“一致、符合”。'according'是'accord'的现在分词形式，表示“使一致的动作”，后接'to'构成介词短语。其核心逻辑是“基于某标准或来源的符合性”，就像两个物体严丝合缝地对应：一张地图必须“according to”实际地形才能准确导航，一份报告必须“according to”数据才能体现事实。画面感联想：想象一个天平，两端平衡时指针指向正中，'a",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "accordingly",
+      "word": "accordingly",
+      "phonetic": "/ə'kɔ:dɪŋli/",
+      "meaning": "ad.相应地，照着办，按照；于是，因此",
+      "similar": [
+        "according to",
+        "accordance",
+        "exceedingly"
+      ],
+      "question": {
+        "wordId": "accordingly",
+        "stem": "选择 \"accordingly\" 的正确中文意思：",
+        "correct": "ad.相应地，照着办，按照；于是，因此",
+        "options": [
+          "prep.据/照…(所说、所写)；按…，视…",
+          "ad.相应地，照着办，按照；于是，因此",
+          "ad.极端地,非常",
+          "n.一致，和谐，符合"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'accordingly'由三部分构成：前缀'ad-'（表示方向、朝向，常变体为'ac-'）、词根'cord'（意为心，heart）、以及后缀'-ingly'（副词后缀，表示方式或状态）。其词源演变可追溯至拉丁语'accordare'，由'ad-'（向）和'cor'（心）组合，字面含义是“心向着同一方向”，即“一致、和谐”。因此，'accordingly'的核心逻辑是“与某物保持一致”，进而引申出“相应地”和“因此”两大含义。想象一个场景：一群人心往一处想（accord），那么行动就自然“相应地”调整（accordingly）。这",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "account",
+      "word": "account",
+      "phonetic": "/ə'kaunt/",
+      "meaning": "a.叙述，说明；账目，账户 vi.说明，解释",
+      "similar": [
+        "count",
+        "accent",
+        "amount",
+        "accident",
+        "discount"
+      ],
+      "question": {
+        "wordId": "account",
+        "stem": "选择 \"account\" 的正确中文意思：",
+        "correct": "a.叙述，说明；账目，账户 vi.说明，解释",
+        "options": [
+          "n.口音,腔调；重音(符号)vt.重读",
+          "a.叙述，说明；账目，账户 vi.说明，解释",
+          "n.总数，数量；数额 v.共计；等同,接近(to)",
+          "v.数,计算;算入;看作,认为 n.计数,总数"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词account的核心逻辑源于拉丁语“computare”（计算），经由古法语“acompter”演变而来。词根“count”意为“计算、数数”，前缀“ac-”表示“向、加强动作”。因此，account的本源含义是“把东西数清楚、算明白”，这种“计算”行为自然延伸出两个层面：一是对数字的“账目记录”，即把收入支出算清楚；二是对事件的“叙述说明”，即把发生的事情理清楚、讲明白。想象一下，古代商人每天需要记录交易，把每一笔进出都“算”清楚，形成一本账本（account）；同时，他们也要向合作伙伴“说明”账目的来龙去脉，这就是“叙述”的含义。这种“算清楚”的物理逻辑非常形象：大脑像算盘一样，把零散的信息归类、统计、输出，最终形成一个完整的“报告”。记住，account就是用你的大脑把东西“算”得清清楚楚，无论是数字还是故事。",
+        "similarWarning": "【避坑预警（形近/易混）】1. count（/kaʊnt/）vs account：count是account的词根，去掉前缀“ac-”即得。count仅指“数数、计算”的动作（如count the money数钱），而account强调“计算的结果或报告”（如bank account银行账户）。字母差异：account比count多了前缀“ac-”，就像给“数数”加上了“完成”的意味。2. accent（/ˈæksent/）vs account：accent意为“口音、重音”，词根“cent”意为“唱、声调”。字母差异：accent中“c”后接“e”，account中“c”后接“o”；accent以“t”结尾，account以“t”结尾但前有“oun”。accent关注声音，account关注数字/叙事。3. amount（/əˈmaʊnt/）vs account：amount指“数量、总额”，词根“mount”意为“上升”。字母差异：account中的“c”对应amount中的“m”；account的“count”意为“计算”，amount的“mount”意为“上升”。amount多用于不可量化的大量（如a large amount of water），而account用于可计算的账户或说明。4. accident（/ˈæksɪdənt/）vs account：accident意为“事故、意外”，词根“cid”意为“落下”。字母差异：accident中“c”后接“i”，account中“c”后接“o”；accident以“dent”结尾，account以“ount”结尾。accident强调偶然性，account强调系统性。5. discount（/ˈdɪskaʊnt/）vs account：discount意为“折扣、不考虑”，前缀“dis-”表示“否定、除去”。字母差异���discount比account多了前缀“dis-”，且少了“ac-”。discount是把“数”减去（打折），account是把“数”加总（记录）。记住：account是“算清楚并报告”，count是“数”，accent是“发音”，amount是“量”，accident是“意外”，discount是“打折”。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及外刊中，account远不止“账目”和“叙述”两个基本义。1. **重要性、价值**：短语“take into account”意为“考虑”，但“of no account”或“of little account”表示“不重要的、无价值的”。例：The criticism is of no account when weighed against the benefits.（与好处相比，批评微不足道。）出自《经济学人》。2. **行为、表现**：在商务或学术语境中，“on account of”表示“因为”，但“on one’s own account”意为“为自己、独立地”。例：He started the business on his own account.（他为自己创业。）3. **报告、报道**：在新闻中，“account”可指“报道或描述”，常与“give an account”搭配。例：The eyewitness gave a detailed account of the accident.（目击者详细描述了事故。）出自考研阅读真题。4. **账户（���财务）**：在科技语境中，“user account”指用户账户，但“account”还可指“客户、业务关系”，如“account manager”（客户经理）。5. **解释、原因**：短语“account for”除了“解释”，还可表示“占据（比例）”。例：The service sector accounts for over 70% of the GDP.（服务业占GDP的70%以上。）出自《卫报》。6. **信用、利益**：短语“turn to account”意为“利用、使有利”。例：She turned her misfortune to account by writing a best-selling book.（她利用自己的不幸写了一本畅销书。）这些僻义在考研完形与翻译中频繁出现，需重点掌握。",
+        "examUsage": "【真题闭环（考点直击）】account在考研英语中高频出现，是写作和阅读的核心词汇。经典搭配：1. take...into account（考虑），“We must take into account the potential risks.”（考研写作，论证利弊）。2. account for（解释；占比），“The new policy accounts for the recent economic growth.”（考研阅读，分析原因）。3. on account of（因为），“The flight was canceled on account of bad weather.”（考研英语一翻译）。4. by all accounts（据大家所说），“By all accounts, the experiment was a success.”（考研完形，评价类）。5. on no account（决不），“On no account should we ignore the importance of environmental protection.”（考研写作，强调语气）。真题示例：1. 2002年阅读：“The growth of the limited liability company accounted for a large part of the economic expansion.”（account for意为“解释”）。2. 2010年翻译：“This is a clever way to take into account the social costs of economic activities.”（take into account意为“考虑”）。3. 2015年写作：“We must take into account the fact that the youth are the future of the nation.”（高分写作模板句）。此外，短语“by one's own account”（据某人自己说）也在阅读中出现。建议考生背诵上述短语，并在写作中灵活使用，如“When making decisions, we should take every factor into account.”，能显著提升表达的准确性和地道性。"
+      }
+    },
+    {
+      "id": "accountant",
+      "word": "accountant",
+      "phonetic": "/ə'kauntənt/",
+      "meaning": "n.会计人员，会计师",
+      "similar": [
+        "abundant",
+        "constant",
+        "accompany"
+      ],
+      "question": {
+        "wordId": "accountant",
+        "stem": "选择 \"accountant\" 的正确中文意思：",
+        "correct": "n.会计人员，会计师",
+        "options": [
+          "n.会计人员，会计师",
+          "a.大量(充足)的；(in)丰富(富裕)的",
+          "a.固定的，持续的,忠实的 n.常数,恒量",
+          "v.陪伴，陪同；伴随，和...一起发生，伴奏"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词accountant由词根“count”衍生而来，其根源可追溯至拉丁语“computare”，意为“计算”。前缀“ac-”表示“朝向、加强”，与“count”（计数）结合后形成“account”，本义是“计算、核算”，进而引申为“账目、账户”。后缀“-ant”表示“人”，因此accountant的字面意思是“从事计算工作的人”，即会计。你可以想象一个场景：在古老的账房里，一个人手持羽毛笔，对着厚厚的账本逐笔核对数字，确保每一分钱都分毫不差。这种“精确计算”的物理逻辑正是这个单词的灵魂。为了加深记忆，你可以联想到“account”（账户）是会计工作的核心，而“-ant”如同“-er”或“-or”，表示职业，比如“assistant”（助手）、“servant”（仆人）。通过拆分，accountant = ac（加强）+ count（计数）+ ant（人），记忆口诀是“加强计数的人就是会计”。这种词根词缀法不仅帮助你瞬间记住拼写，还让你理解为何会计工作强调精准与责任。考研中，accountant常与“certified public accountant”��注册会计师）等专业术语搭配，掌握其底层逻辑能让你在阅读和写作中灵活运用。",
+        "similarWarning": "【避坑预警（形近/易混）】形近词1：abundant（/əˈbʌndənt/，形容词，意为“丰富的、充裕的”）。与accountant相比，abundant以“a”开头，但核心差异在于词根：abundant来自拉丁语“abundare”（溢出），词根“und”意为“波浪、流动”，因此abundant描述的是“如波浪般大量涌出”的状态，而accountant的词根是“count”（计数）。字母上，abundant的字母组合“abun”与accountant的“acco”完全不同，且abundant没有“t”在结尾前的“an”结构。记忆时，可将abundant拆解为“a（一个）+ bund（捆绑）+ ant（蚂蚁）”，想象“一群蚂蚁被捆绑在一起，数量丰富”，而accountant则是“计算的人”。形近词2：constant（/ˈkɒnstənt/，形容词，意为“持续的、不变的”）。与accountant相比，constant以“con”开头，词根“st”意为“站立”，表示“始终站在一起”，强调稳定性。字母上，constant中间是“stant”，而accountant是“countant”，相差“coun”与“stan”两个音节。记忆时，constant可联想为“con（共同）+ st（站立）+ ant（蚂蚁）”，蚂蚁们共同站立，保持恒定；而accountant的“count”是计数，蚂蚁不计数。形近词3：accompany（/əˈkʌmpəni/，动词，意为“陪伴、伴随”）。与accountant相比，accompany以“ac”开头，但词根“company”意为“伙伴、公司”，强调“与人同行”。字母上，accompany的“company”部分与accountant的“countant”完全不同，且accompany以“y”结尾。记忆时，accompany可拆解为“ac（加强）+ company（公司）”，即“加入公司成为伙伴”。而accountant的“count”是数字，伙伴不计数。考研中，这些形近词常出现在完形填空或阅读干扰项中，通过字母级对比，你能快速排除错误选项。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读中，accountant除了基本义“会计人员”外，还有以下僻义和特殊用法：1. 在经济学人和金融类文章中，accountant可引申为“财务分析师”或“审计员”，强调其监督和审核职能，而不只是记账。例如：The forensic accountant uncovered a massive fraud scheme in the company's financial statements.（法务会计师发现了公司财务报表中的巨大欺诈计划。）这里“forensic accountant”是“法务会计师”，属于专业领域。2. 在英式英语���，accountant有时指“账户管理人”，尤其在信托或遗产管理中。例如：As the accountant of the estate, he must ensure all assets are distributed fairly.（作为遗产账户管理人，他必须确保所有资产公平分配。）3. 在口语或俚语中，accountant可戏称“精打细算的人”，强调吝啬或节俭。例如：My friend is such an accountant; he calculates every penny before spending.（我朋友真是个精打细算的人，他花每一分钱前都要计算。）4. 在考研真题中，accountant可能出现在商业或经济类阅读中，与“auditor”（审计员）、“bookkeeper”（簿记员）等词对比。例如：The accountant's role has evolved from simple bookkeeping to strategic financial planning.（会计的角色已从简单的簿记演变为战略财务规划。）掌握这些僻义，能帮你理解语境中的微妙差别，避免翻译错误。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，accountant常与以下短语和句型搭配：1. certified public accountant (CPA) 注册会计师，这是最常出现的专业术语，例如：Many companies require their financial reports to be audited by a certified public accountant.（许多公司要求其财务报告由注册会计师审计。）2. chartered accountant 特许会计师，多见于英式英语，例如：He is a chartered accountant with over ten years of experience in tax advisory.（他是一位拥有十多年税务咨询经验的特许会计师。）3. accountant's report 会计报告，例如：The accountant's report highlighted several discrepancies in the revenue figures.（会计报告指出了收入数字中的几处差异。）4. 常考句型：accountant作为主语时，谓语动词常用“audit, verify, prepare, analyze”等，例如：The accountant prepares the quarterly financial statements for the board meeting.（会计为董事会会议准备季度财务报表。）5. 写作高分例句：In today's complex business environment, an accountant must not only be proficient in numbers but also possess strong ethical judgment.（在当今复杂的商业环境中，会计不仅必须精通数字，还要具备强大的道德判断力。）6. 阅读真题例句：Accountants play a crucial role in ensuring the accuracy of financial disclosures, which is essential for investor confidence.（会计在确保财务披露准确性方面发挥着关键作用，这对投资者信心至关重要。）掌握这些搭配和例句，你可以在考研写作中灵活运用“accountant”来构建专业表达，在阅读中快速定位考点。"
+      }
+    },
+    {
+      "id": "accumulate",
+      "word": "accumulate",
+      "phonetic": "/ə'kju:mjuleit/",
+      "meaning": "vt.堆积，积累，积聚vi.累积，聚积",
+      "similar": [
+        "accurate",
+        "accommodate",
+        "simulate",
+        "calculate",
+        "circulate",
+        "formulate",
+        "stimulate",
+        "accelerate"
+      ],
+      "question": {
+        "wordId": "accumulate",
+        "stem": "选择 \"accumulate\" 的正确中文意思：",
+        "correct": "vt.堆积，积累，积聚vi.累积，聚积",
+        "options": [
+          "vt.堆积，积累，积聚vi.累积，聚积",
+          "v.模仿,模拟;假装,冒充",
+          "a.正确无误的；准确的，精确的",
+          "vt.向…提供住处；对...予以照顾性考虑"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'accumulate'源于拉丁语'accumulatus'，由前缀'ad-'（朝向、加强）和词根'cumulare'（堆积、堆叠）组成，字面意思是“不断地堆叠在一起”。词根'cumulus'本身意为“堆、堆积”，如云朵的堆积（cumulus cloud）。可以想象一个画面：你不断把一块块砖头（或硬币）往上叠，越叠越高，这个过程就是accumulate。前缀'ac-'是'ad-'的变体，表示“朝向”或“使加强”，强调动作的持续性和结果。因此，accumulate的核心逻辑是“通过持续的动作，使事物从分散状态逐渐集中、堆积起来”，既可以用于具体物体（如灰尘、财富），也可以用于抽象概念（如经验、知识）。这种“由少到多、由散到聚”的过程，正是它的本源含义。记忆时，可以联想“阿Q（ac）想（cu）要（mu）积累（late）财富”，或者用谐音“额，Q木累特”——想象一个叫Q的人拼命往木头上堆东西，累得特别。总之，记住“堆积”这个核心动作，就能掌握这个词的底层含义。",
+        "similarWarning": "【避坑预警（形近/易混）】1. 'accurate'（/ˈækjərət/，准确的）：与accumulate相比，仅中间部分不同，accurate是'cur'（关心、小心）而非'cumul'（堆积），如“accurate测量”需要小心；而accumulate是“堆积”，拼写中多了'mul'和第二个'u'，注意区分。2. 'accommodate'（/əˈkɒmədeɪt/，容纳、提供住宿）：前缀'ac-'相同，但后面是'commod'（方便、舒适），如酒店提供舒适服务；而accumulate是'cumul'（堆），一个侧重“提供空间”，一个侧重“堆积物体”。3. 'simulate'（/ˈsɪmjuleɪt/，模拟）：前缀'sim-'（相同），如模拟真实情况；与accumulate的'cumul'（堆积）完全不同，simulate是“模仿”，accumulate是“堆积”。4. 'calculate'（/ˈkælkjuleɪt/，计算）：源自'calculus'（小石子，古人用石子计数），词根'calc-'；而accumulate是'cumul'，一个是“数石子”，一个是“堆石子”，拼写差异在'calc' vs 'cumul'。5. 'circulate'（/ˈsɜːrkjuleɪt/，循环）：词根'circ-'（圆、环），如血液环流；而accumulate是直线式“堆积”，一个循环，一个堆积。6. 'formulate'（/ˈfɔːrmjuleɪt/，制定、构想）：词根'form'（形状、形式），如制定计划；accumulate是“堆积”，无“形式”之意。7. 'stimulate'（/ˈstɪmjuleɪt/，刺激）：词根'stimul-'（刺、鞭策），��刺激消费；而accumulate是“积累”，拼写中'stim' vs 'cum'，含义天差地别。8. 'accelerate'（/əkˈseləreɪt/，加速）：词根'celer'（快），如加速前进；而accumulate是“堆积”，一个强调速度，一个强调数量。总结：所有形近词都包含'-ulate'后缀，但词根不同——'accur-'（准确）、'commod-'（容纳）、'simul-'（相似）、'calcul-'（石子）、'circul-'（圆）、'form-'（形式）、'stimul-'（刺激）、'accele-'（快），而accumulate是'cumul-'（堆）。记住“cumul=堆”，就能一眼区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，'accumulate'除了字面“堆积”外，还有以下深层用法：1. 【抽象积累】指知识、经验、财富或权力的逐渐增长，而非物理堆积。例如：'He accumulated a vast knowledge of Chinese history.'（他积累了丰富的中国历史知识。）这里强调长时间、持续地获取。2. 【积累效应/累积】在经济学和科学文章中，指事物因持续作用而产生的累积效果，如'accumulated debt'（累积债务）、'accumulated evidence'（累积证据）。例：'The accumulated effects of pollution are devastating.'（污染的累积效应是毁灭性的。）3. 【逐步形成】指某种状态或特征因长期积累而逐渐形成，如'accumulated wisdom'（积淀的智慧）。例：'Over centuries, the city accumulated a unique cultural heritage.'（几个世纪以来，这座城市积淀了独特的文化遗产。）4. 【积聚（负面含义）】常与负面事物搭配，如'accumulate stress'（积聚压力）、'accumulate resentment'（积聚怨恨）。例：'Without proper communication, misunderstandings can accumulate.'（缺乏沟通，误解会不断累积。）5. 【金融/会计】'accumulated depreciation'（累计折旧）、'accumulated profit'（累计利润），强调持续累计的数值。6. 【生物学】'accumulate toxins'（积累毒素），如重金属在体内积累。例：'These chemicals can accumulate in the food chain.'（这些化学物质会在食物链中积累。）7. 【物理/化学】'accumulate charge'（积累电荷），如静电积累。例：'Static electricity can accumulate on dry surfaces.'（静电会在干燥表面积累。）掌握这些引申义，能帮助你在阅读中准确理解作者的深层含义，尤其是抽象场景下的使用。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'accumulate'常以动词形式出现，搭配丰富，是写作和阅读的高频词。常见短语与搭配：1. 'accumulate + 名词'：accumulate wealth/experience/knowledge/debt/resources（积累财富/经验/知识/债务/资源）。2. 'accumulate over time'（随时间累积），常用于描述长期过程。3. 'accumulate in...'（在……中积累），如'accumulate in the body'（在体内积累）。4. 'be accumulated from...'（从……积累而来），如'be accumulated from experience'（从经验中积累）。5. 'accumulate to...'（累积到……数量），如'accumulate to millions of dollars'（累积到数百万美元）。6. 常与'gradually', 'slowly', 'steadily'等副词连用，强调过程。真题例句：1. (2011年英语一阅读) 'By 1996, foreign-born immigrants who had arrived before 1970 had accumulated a net worth of $126,000.'（到1996年，1970年前到达的外国出生移民积累了12.6万美元的净资产。）这里考查被动语态和积累财富的用法。2. (2012年英语二阅读) 'The problem is that the rising population and the accumulation of greenhouse gases are compounding the problem.'（问题是人口增长和温室气体的积累正在加剧问题。）注意'accumulation'名词形式，常与'of'连用。3. (2015年英语一阅读) 'As the evidence accumulates, experts are coming to a consensus.'（随着证据的积累，专家们逐渐达成共识。）这里'as...accumulates'是常见句型，表示“随着……的积累”。高分写作例句：1. 'Only by accumulating knowledge step by step can we achieve academic success.'（只有一步步积累知识，我们才能取得学术成功。）2. 'The government should take measures to prevent the accumulation of waste in urban areas.'（政府应采取措施防止城市地区垃圾的积累。）3. 'Over the years, she has accumulated a wealth of experience in international trade.'（多年来，她在国际贸易中积累了丰富的经验。）注意：考研中常考'accumulate'与'collect', 'gather', 'assemble'的区别：'accumulate'强调长期、逐渐的堆积；'collect'强调有目的、有选择地收集；'gather'强调分散物集中；'assemble'强调为特定目的集合。掌握这些考点，能帮助你在完形填空和阅读中精准辨析。"
+      }
+    },
+    {
+      "id": "accuracy",
+      "word": "accuracy",
+      "phonetic": "/'ækjurəsi/",
+      "meaning": "n.准确（性）；精确；准确度",
+      "similar": [
+        "accurate",
+        "accordance"
+      ],
+      "question": {
+        "wordId": "accuracy",
+        "stem": "选择 \"accuracy\" 的正确中文意思：",
+        "correct": "n.准确（性）；精确；准确度",
+        "options": [
+          "n.一致，和谐，符合",
+          "a.正确无误的；准确的，精确的",
+          "n.准确（性）；精确；准确度",
+          "n.导弹,发射物"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词accuracy源自拉丁语词根'cura'，意为'care（关心、注意）'，加上前缀'ac-'（朝向）和名词后缀'-cy'，字面意思就是'对细节的专注与关注'。词源上，它衍生自形容词accurate，而accurate又来自拉丁语accuratus，由ad-（朝向）和cura（关心）组成，本义是'被精心照料的'。想象一位工匠在雕刻一件艺术品时，每一刀都极其专注，确保分毫不差——这就是accuracy的核心：通过高度集中的注意力，使结果与目标完全一致。物理逻辑上，accuracy强调'零误差'的状态，就像枪手瞄准靶心，每一发子弹都正中红心，不是'接近'，而是'精确命中'。这种画面感帮助学生将accuracy与'刻意关注'和'完美契合'联系起来，从而深刻记忆其'准确性、精确度'的本义。考研中，accuracy常出现在科学实验、数据统计或语言表达的语境中，要求学生理解其强调'精确无误'的特质。",
+        "similarWarning": "【避坑预警（形近/易混）】accuracy与形近词accurate和accordance容易混淆。首先，accuracy（/'ækjurəsi/）是名词，而accurate（/'ækjurət/）是形容词，两者字母差异在结尾：accuracy以'-cy'结尾，而accurate以'-te'结尾。含义上，accuracy表示'准确的性质或程度'，如'the accuracy of the data'（数据的准确性）；accurate则描述某物'准确的'，如'an accurate measurement'（一个准确的测量）。记忆技巧：名词后缀'-cy'常表示状态或性质（如privacy、efficiency），所以accuracy是'准确状态'；形容词后缀'-ate'表示具有某种属性（如fortunate、separate），所以accurate是'准确的'。其次，accordance（/ə'kɔːrdəns/）与accuracy在拼写上仅相差字母'c'和'd'：accuracy有'c'（第3个字母）和'r'（第6个字母），而accordance有'c'（第3个字母）和'd'（第6个字母），且结尾不同（'-cy' vs '-ance'）。含义上，accordance意为'一致、按照'，强调'协调或符合'，如'in accordance with the rules'（按照规则）。差别在于：accuracy聚焦于'精确性'，而accordance聚焦于'一致性或遵从性'。例如，'The accuracy of the translation is high'（翻译的准确度很高）与'The translation is in accordance with the original'（翻译与原文一致）含义不同。考研中，学生常因拼写相似而误用，需注意：accuracy中'cur'部分可联想'cure（治疗）'，治疗需要精确；accordance中'cord'部分可联想'cord（绳子）'，绳子绑在一起表示'一致'。这样区分，一目了然。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及权威来源中，accuracy除了基本义'准确性、精确度'外，还有以下非字面或深层用法：1. **技术或科学领域的'精确度'**：在《经济学人》中，accuracy常指'仪器或测量的精密度'，如'The accuracy of the GPS system is within one meter'（GPS系统的精确度在1米以内）。2. **语言或表达上的'贴切性'**：在《卫报》中，accuracy用于描述用词的精准，如'The author's accuracy in describing the historical events impressed critics'（作者对历史事件描述的贴切性给评论家留下深刻印象）。这里不单指数字精确，而是'语义贴合'。3. **行为或判断的'正确性'**：在考研阅读中，accuracy可引申为'判断或决策的准确率'，如'The accuracy of his predictions was remarkable'（他预测的准确率很惊人）。4. **法律或文书中的'严谨性'**：在正式文件中，accuracy强调'文件内容的无误性'，如'The accuracy of the contract must be verified by both parties'（合同的准确性必须由双方核实）。5. **习语用法**：考研写作中，短语'with accuracy'表示'精确地'，如'He described the process with great accuracy'（他非常精确地描述了过程）。这些僻义要求学生在翻译或阅读理解中，根据上下文灵活理解accuracy的侧重，如'accuracy of measurement'（测量精确度）与'accuracy of expression'（表达准确度）的微妙差异。掌握这些，可提升考研阅读和写作的高分表达能力。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，accuracy常出现在科技类、学术类阅读及写作中，以下为经典短语、搭配和例句：**固定搭配**：1. 'with accuracy'（精确地），如'She calculated the results with remarkable accuracy'（她以惊人的精确度计算了结果）。2. 'degree of accuracy'（精确程度），如'The degree of accuracy required for this experiment is extremely high'（这个实验要求的精确程度极高）。3. 'lack of accuracy'（不准确），如'The report was criticized for its lack of accuracy'（该报告因不准确而受到批评）。**真题例句**：1. 2020年考研英语一阅读：'The accuracy of the data collected by the sensors was later questioned by researchers'（传感器收集的数据的准确性后来受到研究人员质疑）。2. 2018年考研英语二翻译：'The accuracy of the translation is crucial for cross-cultural communication'（翻译的准确性对跨文化交流至关重要）。3. 考研写作常用��型：'To ensure the accuracy of the information, we should double-check all sources'（为确保信息的准确性，我们应该仔细核实所有来源）。**高频短语**：'high accuracy'（高精确度）、'improve accuracy'（提高准确性）、'test the accuracy'（测试准确性）。**考点提示**：考研中，accuracy常与precision（精密度）区分——accuracy强调'与真实值的一致性'，而precision强调'重复测量的稳定性'。例如，'The instrument has high accuracy but low precision'（该仪器准确度高但精密度低）。写作中，可用'accuracy and reliability'（准确性和可靠性）作为论据，提升论证深度。掌握这些，学生可在阅读中快速定位考点，在写作中灵活运用，实现高分突破。"
+      }
+    },
+    {
+      "id": "accurate",
+      "word": "accurate",
+      "phonetic": "/'ækjurət/",
+      "meaning": "a.正确无误的；准确的，精确的",
+      "similar": [
+        "accuracy",
+        "accelerate",
+        "accumulate",
+        "calculate",
+        "accuse",
+        "courage",
+        "activate",
+        "decorate"
+      ],
+      "question": {
+        "wordId": "accurate",
+        "stem": "选择 \"accurate\" 的正确中文意思：",
+        "correct": "a.正确无误的；准确的，精确的",
+        "options": [
+          "a.正确无误的；准确的，精确的",
+          "n.准确（性）；精确；准确度",
+          "v.使加速，使增速，促进 vi.加快，增加",
+          "vt.堆积，积累，积聚vi.累积，聚积"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词accurate源自拉丁语‘accuratus’，由前缀‘ad-’（朝、向）和词根‘cura’（关心、照料）组合而成，字面意思是‘被仔细照料过的’。这形成了一个生动的物理逻辑：想象一位工匠在制作精密仪器时，对每一个细节都倾注了极大的关心和照料，反复检查、校准、打磨，直到最终成品没有任何误差。因此，‘accurate’的核心含义是‘通过精心照料而达到无差错状态’。记忆时，可以联想到‘ac-’（加强） + ‘cure’（治愈、处理），即‘彻底处理过’的东西自然准确无误。另一种画面感联想：你在做实验时，用高精度天平称量化学试剂，每一个读数都经过三次确认，确保数据‘accurate’。这个词的本质不是简单的‘对’，而是经过严谨流程、排除一切错误后的‘精确无误’。在考研语境中，它常用于描述数据、测量、描述、记忆等需要高度可靠性的场景，与‘precise’（强调细节精确）和‘correct’（强调符合标准）形成微妙区别。",
+        "similarWarning": "【避坑预警���形近/易混）】以下逐一对比分析：1. accuracy（/'ækjərəsi/，n.准确性）与accurate是形容词-名词对应关系，但词尾不同：accurate以‘-ate’结尾（常见形容词后缀），accuracy以‘-acy’结尾（名词后缀）。区别在于词性而非含义，accuracy指‘准确的性质或程度’。2. accelerate（/ək'seləreɪt/，v.加速）与accurate仅前三个字母‘acc’相同，但核心词根不同：accelerate来自拉丁‘celer’（快），而accurate来自‘cura’（照料）。‘-erate’与‘-urate’的字母差异导致含义迥异。3. accumulate（/ə'kjuːmjəleɪt/，v.积累）与accurate共享‘accu-’，但accumulate的词根是‘cumul’（堆积），且多出字母‘m’和‘l’。记忆点：积累需要堆积，准确需要照料。4. calculate（/'kælkjuleɪt/，v.计算）首字母‘c’而非‘a’，词根‘calc’（石头/算盘），与accurate无直接词源联系。5. accuse（/ə'kjuːz/，v.指控）共享‘accu-’但词根是‘cuse’（控告），且词尾‘-se’而非‘-rate’。指控是‘喊出’而非‘照料’。6. courage（/'kʌrɪdʒ/，n.勇气）词根‘cour’（心），与accurate词源完全不同，仅拼写中‘courage’与‘accurate’有部分字母重叠。7. activate（/'æktɪveɪt/，v.激活）词根‘act’（行动），与accurate无直接关系。8. decorate（/'dekəreɪt/，v.装饰）词根‘decor’（装饰），与accurate无关联。核心区别：accurate强调‘经过精心照料而准确’，而所有其他形近词要么词根不同（加速、积累、计算、指控、勇气、激活、装饰），要么词性不同（accuracy）。建议制作闪卡，将accurate与accuracy并列记忆，其他词单独归类。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研阅读和高级英语中，accurate有以下非字面用法：1. 用于描述‘描述或再现的逼真程度’，不仅指事实正确，更指‘与原型高度一致’。例如：‘The portrait is accurate in every detail.’（这幅肖像在每一个细节上都与原作一致。）2. 在计算机科学中，accurate指‘数据或输出的精确性’，与‘precision’（精度）有技术区分：accuracy强调与真实值接近，precision强调重复测量的一致性。例如：‘The algorithm provides accurate predictions for stock market trends.’（该算法对股市趋势提供准确的预测。）3. 在医学语境中，accurate形容诊断或测试结果的‘可靠性’，如‘accurate diagnosis’（准确诊断）强调排除误诊。4. 在经济学人中，accurate常修饰‘account’（叙述）、‘estimate’（估计）、‘measurement’（测量）等抽象名词。例如：‘An accurate account of the financial crisis is essential for policymakers.’（对金融危机准确的叙述对政策制定者至关重要。）5. 特殊搭配‘more accurate to say’（更准确地说）用于修正或细化表述，如：‘It’s more accurate to describe the situation as a stalemate.’（更准确地说，这种局面是僵局。）6. 在写作中，accurate可用于评价模型、理论、历史记录等，如：‘The model is accurate within a 2% margin of error.’（该模型在2%误差范围内是准确的。）7. 僻义：在英式英语中，accurate有时用于形容‘时机精准’，如‘an accurate shot’（精准的一击）在体育中强调时间与力度的完美配合。掌握这些引申义，可以在考研阅读中准确理解作者意图，在写作中展现词汇深度。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，accurate常考以下搭配和句型：1. 固定搭配：‘accurate description’（准确的描述）、‘accurate measurement’（精确测量）、‘accurate record’（准确记录）、‘accurate data’（精确数据）。2. 高频短语：‘to be accurate’（准确地说）用于插入语，如：‘To be accurate, the population increased by 3% rather than 5%.’ 3. 比较结构：‘as accurate as’（和……一样准确），如：‘The new method is as accurate as the traditional one.’ 4. 真题例句：2010年考研阅读Text 1中写道：‘A thoroughly accurate study of the history of art requires not only a knowledge of the period but also an understanding of the artist’s intentions.’（对艺术史的彻底准确研究不仅需要了解那个时期，还需要理解艺术家的意图。）5. 2015年考研翻译题出现：‘The data collected from the experiment was not sufficiently accurate for the researchers to draw definitive conclusions.’（从实验中收集的数据不够准确，研究人员无法得出明确的结论。）6. 高分写作例句：在图表作文中常用：‘The bar chart provides an accurate representation of the changes in energy consumption over the past decade.’（柱状图准确展示了过去十年能源消耗的变化。）7. 在议论文中：‘It is crucial to maintain an accurate perspective when analyzing complex social issues.’（在分析复杂社会问题时，保持准确的视角至关重要。）8. 常见错误：学生常混淆accurate与exact（强调完全一致）和precise（强调细节精确）。在考研中，accurate更强调‘与事实或标准相符’，如：‘accurate information’（准确信息）比‘precise information’更常用。9. 派生词掌握：accuracy（名词）是高频考点，如：‘with great accuracy’（非常准确地）。建议练习：用accurate造句时，至少包含一个具体领域（如科学、历史、经济）和一个抽象概念（如描述、判断）。"
+      }
+    },
+    {
+      "id": "accuse",
+      "word": "accuse",
+      "phonetic": "/ə'kju:z/",
+      "meaning": "vt.控告，指责 vi.指控，指责",
+      "similar": [
+        "abuse",
+        "acute",
+        "amuse",
+        "access",
+        "arouse",
+        "excuse",
+        "accurate"
+      ],
+      "question": {
+        "wordId": "accuse",
+        "stem": "选择 \"accuse\" 的正确中文意思：",
+        "correct": "vt.控告，指责 vi.指控，指责",
+        "options": [
+          "vt.向…提供娱乐，使…消遣；引人发笑",
+          "a.剧烈,敏锐的；成锐角的；尖的，高音的",
+          "vt.控告，指责 vi.指控，指责",
+          "vt.滥用；辱骂；诋毁 n.滥用；恶习；弊端"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词accuse源于拉丁语“accusare”，由前缀“ac-”（表示“朝向、加强”）和词根“-cuse”（源于“causa”，意为“理由、原因、诉讼”）组成。其原始含义是“给出理由”或“提出诉讼理由”，即“指控某人时提供依据”。画面感联想：想象法庭场景中，原告站起身，手指被告，大声陈述其罪行理由——这就是“accuse”。物理逻辑上，它强调“以理由为基础地指责”，不同于单纯的情绪宣泄。词源演变中，“causa”也衍生出英语单词“cause”（原因），因此accuse字面可解为“针对某个原因（提出指控）”。考研中，学生常混淆accuse与charge，但accuse更侧重口头指责或正式控告，且常搭配“accuse sb of sth”，而charge则搭配“charge sb with sth”。记忆口诀：“ac（冲着） + cuse（原因） → 冲着原因去指责”。通过这个底层逻辑，学生能深刻理解accuse的核心是“基于理由的指控”，而非无端谩骂。",
+        "similarWarning": "【避坑预警（形近/易混）】以下逐一对比形近词：（1）abuse（/əˈbjuːz/）：a-（偏离）+ use（使用）→“滥用、虐待”。与accuse差异在首字母“a” vs “ac”，且词根不同（use vs cause）。含义上，abuse是错误使用，accuse是正式指控。（2）acute（/əˈkjuːt/）：源于拉丁语“acuere”（磨尖），意为“尖锐的、急性的”。与accuse差在“t” vs “s”，且词根“acu”表尖，而accuse表原因。学生易因发音相似混淆，但acute是形容词，accuse是动词。（3）amuse（/əˈmjuːz/）：a-（使）+ muse（缪斯女神）→“娱乐、逗乐”。与accuse差在“m” vs “c”，且词根不同。amuse是快乐，accuse是严厉。（4）cause（/kɔːz/）：直接来自拉丁语“causa”，意为“原因、事业”。与accuse差在少了前缀“ac-”，且cause是名词或动词（导致），accuse是动词（指责）。（5）access（/ˈækses/）：ac-（朝向）+ cess（走）→“通道、接近”。与accuse差在“cess” vs “cuse”，且含义完全不同。（6）arouse（/əˈraʊz/）：a-（使）+ rouse（唤醒）→“引起、唤醒”。与accuse差在“r” vs “c”，且词根不同。（7）excuse（/ɪkˈskjuːz/）：ex-（出）+ cause（原因）→“原谅、借口”。与accuse差在前缀“ex-” vs “ac-”，且含义相反：accuse是追究责任，excuse是免除责任。（8）accurate（/ˈækjərət/）：ac-（加强）+ cur（关心、注意）→“准确的”。与accuse差在“cur” vs “cuse”，且accurate是形容词。总结：accuse的核心特征是“ac- + cause（原因）”，其他词要么缺少前缀，要么词根不同。学生可通过对比字母级差异（如cause vs cuse）来区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英文来源中，accuse除了基本义“控告、指责”，还有以下引申用法：（1）在正式法律语境中，accuse可表示“提起公诉”，如“The prosecutor accused him of fraud.”（检察官以欺诈罪对他提起公诉。）在此场景中，accuse与charge可互换，但accuse更强调口头陈述理由。（2）在经济学人中，accuse引申为“归咎于”，常用于非法律场合，如“Critics accuse the policy of exacerbating inequality.”（批评者指责该政策加剧了不平等。）这里accuse后接政策或抽象事物，而非具体人。（3）在卫报中，accuse可用于“自我指责”，如“He accused himself of negligence.”（他自责疏忽。）这种用法强调内心反思。（4）在科技类文章中，accuse偶见引申为“指控某系统有缺陷”，如“Users accuse the software of being unstable.”（用户指责该软件不稳定。）此时accuse后接软件或系统，体现拟人化。（5）在文学作品中，accuse可表示“对某事物提出质疑”，如“The poem accuses the silence of complicity.”（诗歌指责沉默是同谋。）这是一种隐喻用法。此外，考研阅读中常见“accuse sb of doing sth”结构，但需注意被动形式“be accused of”也高频出现，如“He was accused of stealing.”注意区分“accuse”与“allege”（声称，但无证据）。掌握这些引申义，可帮助学生在阅读和写作中灵活运用，避免仅停留在字面理解。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中，accuse的经典搭配包括：（1）accuse sb of sth/doing sth（指责某人做某事）；（2）be accused of（被指控）；（3）accuse sb as（把某人指控为）。常考句型：“accuse...of...”。以下为真题例句：（1）2005年阅读Text 4：“The accused were found guilty of conspiracy.”（被告被判定犯有共谋罪。）这里“the accused”是名词化用法，指“被告”。（2）2010年翻译：“We are thus accused of being too tolerant.”（我们因此被指责过于宽容。）此句体现被动式在议论文中的使用。（3）2015年新题型：“Some scientists accuse the media of sensationalizing findings.”（一些科学家指责媒体夸大发现。）写作中，学生可模仿此句，如“Critics accuse the government of neglecting education.”高分写作例句：（1）图表作文：“Many accuse urbanization of causing environmental degradation.”（许多人指责城市化导致环境退化。）（2）议论文：“It is unfair to accuse individuals of laziness without considering systemic factors.”（不考虑系统因素就指责个人懒惰是不公平的。）固定搭配注意：accuse后接of，不接for或with；名词形式accusation常搭配“make an accusation against”。真题中亦出现“accuser”（原告）和“accusing”（指责的）等派生词。备考建议：掌握accuse与blame（指责，但更口语化）、charge（正式指控）的区别，在完形填空中常考易混词辨析。通过真题闭环，学生能精准应用于解题和写作。"
+      }
+    },
+    {
+      "id": "accustomed",
+      "word": "accustomed",
+      "phonetic": "/ə'kʌstəmd/",
+      "meaning": "a.惯常的；习惯的，适应的(一般作表语)",
+      "similar": [
+        "customer"
+      ],
+      "question": {
+        "wordId": "accustomed",
+        "stem": "选择 \"accustomed\" 的正确中文意思：",
+        "correct": "a.惯常的；习惯的，适应的(一般作表语)",
+        "options": [
+          "n.活塞",
+          "v.(to,for)道歉，认错",
+          "n.顾客,主顾",
+          "a.惯常的；习惯的，适应的(一般作表语)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“accustomed”的核心记忆逻辑在于词根“custom”，它源自拉丁语“consuetudo”，意为“习惯、习俗”。前缀“ac-”表示“朝向、加强”，整体形成“朝向习惯”或“使习惯”的物理感觉。想象一个人不断重复某个动作，比如每天清晨喝咖啡，这个动作逐渐融入他的生物钟，成为“惯常的”行为。词源上，“custom”本身有“海关”之意（因海关检查是固定程序），而“accustomed”则强调一种心理或生理上的“适应”状态。画面感联想：一只猫每天在同一个时间跳上窗台晒太阳，久而久之，窗台成了它的“习惯领地”，这就是“accustomed”的生动画面——不是被迫，而是主动融入。这种联想帮助学生记住：当你说“be accustomed to”，就像猫习惯了窗台的温暖，你习惯了某种环境或行为，形成一种稳定的状态。另外，注意与“used to”的区别：“used to”强调过去经常做但现在不再做，而“accustomed”强调当前的适应状态，如“I am accustomed to getting up early”表示你现在已经适应���早起，而不是过去习惯。通过这种物理逻辑，学生能迅速掌握该词的动态过程：从“陌生”到“熟悉”的转变，最终成为一种自然反应。",
+        "similarWarning": "【避坑预警（形近/易混）】最易混淆的词是“customer”，两者仅一个字母之差（‘a’ vs ‘r’? 实际区别更大）。“accustomed”有“a-c-c-u-s-t-o-m-e-d”共11个字母，而“customer”是“c-u-s-t-o-m-e-r”共8个字母。关键差异在开头： “accustomed”以“ac”开头，而“customer”以“cu”开头。字母级对比：第1个字母“a” vs “c”；第2个字母“c” vs “u”；第3个字母“c” vs “s”；第4个字母“u” vs “t”；第5个字母“s” vs “o”；第6个字母“t” vs “m”；第7个字母“o” vs “e”；第8个字母“m” vs “r”；第9个字母“e” vs 无；第10个字母“d” vs 无。含义天差地别：“customer”指“顾客、客户”，是商业场景中的角色，如“The customer is always right.”而“accustomed”是形容词，描述“习惯的、适应的”，如“I am accustomed to this weather.”学生常犯的错误是在写作中误写为“be customer to”，这完全不通。另外，注意“accustom”（动词）与“customer”的拼写差异：动词“accustom”结尾是“-om”，而“customer”是“-omer”。建议记忆技巧：“accustom”中有“ac”像“阿诚”（人名），想象阿诚习惯了某事；而“customer”中有“er”像“人”，即顾客是人。通过这种字母级拆解，学生一眼就能看出区别。此外，还有形近词“custom”（习俗），但“custom”是名词，而“accustomed”是形容词，且“custom”没有前缀“ac”。总结：看到“ac”开头且结尾有“ed”的，就是“习惯的”；看到“cu”开头且结尾有“er”的，就是“顾客”。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，“accustomed”除了字面意思“习惯的”外，还有以下深层用法：1）在经济学人中常用于描述“常规的、惯例的”制度，如“the accustomed order of society”（社会的惯常秩序），这里不是指个人习惯，而是一种社会规范。例句：'The financial markets operate within their accustomed framework of regulations.'（金融市场在其惯常的监管框架内运作。）2）在心理学或医学文章中，可表示“耐受的”，如“The body becomes accustomed to the drug, requiring higher doses.”（身体对药物产生耐受，需要更高剂量。）这里的“accustomed”等于“tolerant”，但更强调适应过程。3）在文学作品中，有“习以为常而不在意”的意味，如“She cast an accustomed glance at the clock, as if time itself were a mere formality.”（她习惯性地瞥了一眼时钟，仿佛时间本身只是形式。）这里的“accustomed glance”暗示一种无意识的、机械的行为。4）法律文本中，“accustomed”可指“惯例法”中的“习惯”，如“the accustomed rights of the tenants”（佃户的惯例权利）。5）在雅思写作中，高分用法是“become accustomed to doing sth”替代“get used to”，如“Students must become accustomed to independent research early in their academic career.”（学生必须在学术生涯早期就习惯独立研究。）注意：考研阅读中，常出现“accustomed to + 名词”结构，如“accustomed to adversity”（习惯于逆境），用于描述人物性格。掌握这些僻义，学生能在阅读理解中准确捕捉作者意图。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“accustomed”是高频词汇，常见固定搭配有：1) be accustomed to (doing) sth：最经典的短语，意为“习惯于做某事”，如“He is accustomed to getting up early.”（他习惯早起。）2) become/get accustomed to：强调变化过程，如“You will soon become accustomed to the climate here.”（你很快就会���应这里的气候。）3) accustomed to + 名词：如“accustomed to the noise”（习惯噪音）。4) as (is) accustomed：如“He spoke as accustomed, with calm authority.”（他像往常一样说话，带着冷静的权威。）真题例句1（2012年英语一阅读）：'The new generation of immigrants is accustomed to a different set of cultural norms.'（新一代移民习惯了不同的文化规范。）这里考的是“be accustomed to”的固定搭配，选项常干扰为“be used to”或“be familiar with”，但“accustomed to”强调长期适应。真题例句2（2015年英语二翻译）：'We are so accustomed to seeing the world through the lens of our own culture that we fail to recognize its biases.'（我们太习惯于通过自己文化的镜头看世界，以至于未能认识到其偏见。）这里考“so...that”结构与“accustomed”的结合。真题例句3（写作句型）：'As college students, we must become accustomed to the rigorous academic demands of our majors.'（作为大学生，我们必须习惯专业的严格学术要求。）建议学生背诵此句型用于大作文。此外，考研中常考“accustomed”与“customary”的区别：“customary”更强调社会习俗，而“accustomed”更个人化。如“It is customary to bow in Japan.”（在日本鞠躬是习俗。） vs “I am accustomed to bowing.”（我习惯鞠躬。）掌握这些考点，学生能精准答题。"
+      }
+    },
+    {
+      "id": "ache",
+      "word": "ache",
+      "phonetic": "/eik/",
+      "meaning": "vi.痛；哀怜 n.(指连续)疼痛、酸痛",
+      "similar": [
+        "acre",
+        "acute",
+        "bathe"
+      ],
+      "question": {
+        "wordId": "ache",
+        "stem": "选择 \"ache\" 的正确中文意思：",
+        "correct": "vi.痛；哀怜 n.(指连续)疼痛、酸痛",
+        "options": [
+          "n.英亩；田地；地产",
+          "vi.痛；哀怜 n.(指连续)疼痛、酸痛",
+          "a.剧烈,敏锐的；成锐角的；尖的，高音的",
+          "v.游泳,洗澡,浸,弄湿"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'ache'源自中古英语'aken'，其词根与古英语'acan'相关，原始含义为'感到疼痛'。从物理逻辑来看，ache描述的是一种持续、隐隐约约的疼痛感，区别于sharp pain（剧痛）的突然性。我们可以通过画面感联想来加深记忆：想象你身体某个部位（如头、牙、胃）被一个无形的\"钩子\"（hook）慢慢拉扯，钩子的声音类似于'ache'中的'ch'音，这种持续的、钝痛的感觉就是ache。从词源演变看，ache与'agon'（痛苦、斗争）有同源关系，强调了疼痛的持续性和折磨性。核心记忆点是：ache强调的是一种缓慢、持续、有节奏的酸痛",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "achieve",
+      "word": "achieve",
+      "phonetic": "/ə'tʃi:v/",
+      "meaning": "vt.实现，完成；达到，得到vi.达到预期目的",
+      "similar": [
+        "active",
+        "archive"
+      ],
+      "question": {
+        "wordId": "achieve",
+        "stem": "选择 \"achieve\" 的正确中文意思：",
+        "correct": "vt.实现，完成；达到，得到vi.达到预期目的",
+        "options": [
+          "vi.(for/to)满足,迎合;(for)提供饮食及服务",
+          "a.南方的,南部的",
+          "adj.活跃的，敏捷的，积极的；在活动中的",
+          "vt.实现，完成；达到，得到vi.达到预期目的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“achieve”源自拉丁语“ad”和“caput”，其中“ad”表示“向、到”，“caput”意为“头、首脑”，合起来形成“ad caput venire”即“到头、到达终点”。从词根看，“-chieve”与“head”相关，因为“caput”的音变在法语中变成了“chief”，进而演化成“achieve”，本意是“完成某事到达头或终点”。你可以想象一个登山者，从山脚出发，一步步向上攀登，最终“到达山顶”（head of the mountain），这就是“achieve”的核心画面：不是中途的尝试或努力，而是最终的成功抵达。词源演变中，它经历了从拉丁语到古法语“achever”（完成、结束），再到中古英语“acheven”，最终拼写为现代英语的“achieve”。这种物理逻辑非常直观：任何目标的实现，就像行走的终点线，只有跨过那条线才算“achieve”。记住：这个单词强调结果，而非过程；它是成功的瞬间，而非奋斗的延续。因此，当你看到“achieve”，脑海中浮现的应该是“山顶的旗帜”、“终点的冲刺”或“目标达成的喜悦”。这种底层记忆能让你瞬间抓住单词的灵魂：它是一个完成态，是行动与目标的完美对接。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，对比“achieve”与“active”：两者字母差异在首位“a”后，“active”有“c”和“t”，而“achieve”是“ch”和“ie”。具体来说，“active”的拼写是a-c-t-i-v-e，而“achieve”是a-c-h-i-e-v-e。字母差异：第2个字母“c”后，“active”跟“t”，意为“活跃的、积极的”，强调动作中的状态；而“achieve”跟“h”，后跟“ie”，意为“实现、完成”，强调结果。“active”的词根是“act”（行动），所以它聚焦于行动本身；而“achieve”的词根是“caput”，聚焦于终点。再对比“achieve”与“archive”：“archive”拼写为a-r-c-h-i-v-e，与“achieve”相比，第2个字母是“r”而非“c”，且第3个字母是“c”而非“h”，但“achieve”是“ch”连写。具体差异：“achieve”以“a”开头后跟“chieve”；“archive”以“a”开头后跟“rchive”。含义上，“archive”意为“档案、存档”，来自希腊语“arkheion”（官署），指存放文件的地方，而“achieve”是完成目标。记忆技巧：你可以把“archive”想象成“are-chive”，即“是（are）储存（chive谐音��库）”，而“achieve”则是“a-chieve”，即“到达头（chief）”。另一个易混词是“achievement”（成就），但它是派生词，不是形近词。总之，关注字母级差异：“active”的核心是“act”（行动），与“achieve”的“chief”（头）完全不同；“archive”有“r”和“c”，与“achieve”的“c”和“h”位置互换。通过对比拼写和含义，你就能一眼看出区别。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级阅读中，“achieve”除了“实现、达到”的基本义，还有以下引申用法：第一，在计算机科学或工程语境中，可表示“获得、取得”一个具体数值或状态，例如“achieve a speed of 100 km/h”（达到每小时100公里的速度），这里强调量化结果。第二，在学术写作中，常与“balance”、“harmony”连用，表示“达成平衡或和谐”，如“The policy aims to achieve a balance between economic growth and environmental protection.”（该政策旨在实现经济增长与环境保护之间的平衡。）第三，在医学或生物学领域，可表示“产生、导致”某种效果，例如“The drug achieves a significant reduction in blood pressure.”（这种药物显著降低了血压。）这里“achieve”的宾语是效果而非目标。第四，在抽象概念中，如“achieve peace of mind”（达到内心的平静）或“achieve a state of flow”（达到心流状态），表示进入一种心理状态。第五，在经济学人中，“achieve”常用于描述经济指标，如“achieve a growth rate of 5%”（实现5%的增长率）。注意，这些用法都保留了“通过努力到达终点”的核心逻辑，只是终点变成了抽象或具体的目标。例如，考研英语一2016年Text3中就有“achieve the desired outcome”的用法，意为“达到期望的结果”。掌握这些引申义，能让你在阅读和写作中更灵活地运用该词。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中，“achieve”常与以下搭配出现：achieve success（获得成功）、achieve one's goal（实现目标）、achieve a balance（达成平衡）、achieve an objective（实现目标）、be achieved through（通过……实现）。典型句型包括：①“It is not enough to simply achieve a goal; one must also consider the means.”（仅仅实现目标是不够的，还必须考虑手段。）②“The company achieved a record profit last year.”（该公司去年实现了创纪录的利润。）③“Only through cooperation can we achieve sustainable development.”（只有通过合作，我们才能实现可持续发展。）在考研真题中，例如2015年英语二阅读Text2，有“achieve the same level of productivity”的表述，意为“达到相同的生产力水平”。2018年英语一完形填空，出现“achieve a sense of purpose”（获得目标感）。写作中，高分例句如：“To achieve academic excellence, students must cultivate self-discipline and perseverance.”（要取得学术成就，学生必须培养自律和毅力。）或者用于图表作文：“The data shows that the country achieved a dramatic increase in GDP over the past decade.”（数据显示，该国在过去十年中实现了GDP的大幅增长。）固定搭配：achieve + 名词（目标/结果/状态），后常接through/by/with表示方式。注意：achieve是及物动词，后必须跟宾语，不及物用法较少见（如“achieve in life”在口语中可接受，但考研中不推荐）。掌握这些短语和句型，能帮助你在阅读中快速定位，并在写作中写出地道的表达。"
+      }
+    },
+    {
+      "id": "acid",
+      "word": "acid",
+      "phonetic": "/'æsid/",
+      "meaning": "n.酸,酸性物质a.酸的,酸味的；尖刻的",
+      "similar": [
+        "aid",
+        "amid",
+        "abide",
+        "aside",
+        "avoid",
+        "rapid",
+        "valid"
+      ],
+      "question": {
+        "wordId": "acid",
+        "stem": "选择 \"acid\" 的正确中文意思：",
+        "correct": "n.酸,酸性物质a.酸的,酸味的；尖刻的",
+        "options": [
+          "prep.在…中间，在…之中，被…围绕",
+          "n.酸,酸性物质a.酸的,酸味的；尖刻的",
+          "vi.(abode，abided)(by)遵守；坚持",
+          "n.援助，救护；助手，辅助物 vi.援助，救援"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'acid'源自拉丁语'acidus'，意为“酸的”，其词根'ac-'有“尖锐、酸”的含义，与希腊语'akis'（尖端）同源。从物理逻辑来看，酸的本质是化学中能释放氢离子（H⁺）的物质，这赋予了它“腐蚀性”和“刺激性”的感知特征。想象一下，当你品尝柠檬或醋时，那种尖锐的、刺激舌头的味道就是酸味的直接体验，这种感官上的“刺痛感”与词根“尖锐”完美契合。此外，酸在化学中具有腐蚀金属的特性，这种破坏性的“尖刻”行为延伸到了抽象层面，比如形容人的语言“尖刻”就像酸一样刺伤人心。因此，记忆'acid'时，你可以联想一个画面：一根尖锐的针（代表词根'ac-'）蘸着柠檬汁（代表酸味），刺向物体（代表腐蚀性），同时发出刺耳的声音（代表尖刻的语言）。这种多感官的联想能帮你牢牢记住acid的本源含义：既有物理上的“酸味”，又有抽象上的“尖刻”。简单来说，acid就是“尖锐 + 刺激 = 酸”，其核心逻辑是用感官体验（味觉和触觉）来映射抽象概念（性格和语言）。",
+        "similarWarning": "【避坑预警（形近/易混）】形近词辨析是考研英语的高频陷阱，以下逐一对比：1. 'aid'（帮助）：与'acid'相比，'aid'将字母'c'换成了字母'i'，且发音为/eid/，含义完全不同。'aid'源于拉丁语'adjuvare'，意为“辅助”，而'acid'强调“酸”的腐蚀性，记忆时可联想“酸（acid）会腐蚀（c），而帮助（aid）要用爱（i）”。2. 'amid'（在...中）：'amid'在'acid'基础上将'c'换成'm'，并添加了前缀'a-'，发音为/ə'mid/，表示“处于...环境”，如'amid the crowd'（在人群中），而'acid'没有“包围”的概念。3. 'abide'（遵守，忍受）：'abide'比'acid'多了字母'b'和'e'，且将'c'改为'b'，发音为/ə'baid/。'abide'源自古英语'ābīdan'，意为“等待”，后引申为“遵守规则”，而'acid'没有“忍耐”之意。4. 'aside'（在旁边）：'aside'将'acid'的'c'换成's'，并添加了后缀'-e'，发音为/ə'said/，表示“靠边”，如'put aside'（放在一边）。'acid'的“酸”与“旁边”毫无关联。5. 'avoid'（避免）：'avoid'将'acid'的'c'换成'v'，并添加了字母'o'，发音为/ə'vɔid/。'avoid'源于拉丁语'evitare'，意为“避开”，与'acid'的“腐蚀”相反。6. 'rapid'（快速的）：'rapid'将'acid'的首字母'a'换成'r'，并将'c'换成'p'，发音为/'ræpid/。'rapid'源于拉丁语'rapidus'，意为“急速”，而'acid'强调的是“酸”的品质，而非速度。7. 'valid'（有效的）：'valid'将'acid'的'c'换成'l'，并添加了字母'v'，发音为/'vælid/。'valid'源于拉丁语'validus'，意为“强壮的”，引申为“法律上有效的”，与'acid'的“酸性”无交集。总结：'acid'的核心是字母'c'和'i'的组合，其他词大多替换了'c'或添加了前缀。备考时，要关注字母级差异，比如'c'（酸） vs. 'i'（助）、'm'（中）、'b'（守）、's'（旁）、'v'（避）、'p'（快）、'l'（效）。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语阅读中，'acid'常超越“酸”字面义，展现深刻的抽象用法。1. 形容词“尖刻的，讽刺的”：用于形容语言或语气像酸一样具有腐蚀性。例如，在《经济学人》中曾出现：“His acid remarks about the government's policy drew sharp criticism.”（他对政府政策的尖刻评论招致严厉批评。）这里的'acid'并非指物理酸，而是比喻话语像酸一样刺伤人心，是考研阅读中常见的情感描写。2. 形容词“酸的，酸性的”��在科技类文章中，'acid'用来描述化学性质，如“acid rain”（酸雨）是环境话题的常客。例句：“The industrial emissions have led to severe acid rain, damaging forests and lakes.”（工业排放导致了严重的酸雨，破坏了森林和湖泊。）3. 名词“酸（毒品）”：在俚语中，'acid'指LSD（麦角酸二乙酰胺），一种致幻剂。考研阅读偶尔涉及社会问题，如：“The youth's experiment with acid led to tragic consequences.”（那个年轻人尝试致幻剂导致了悲剧性后果。）注意，此义在正式考试中较少，但需警惕。4. 比喻“腐蚀性因素”：在抽象语境中，'acid'可指破坏性力量，如：“The acid of jealousy slowly eroded their friendship.”（嫉妒的酸蚀逐渐侵蚀了他们的友谊。）这种用法常见于文学评论或深度报道。5. 固定搭配“acid test”：原指用酸测试黄金纯度，后引申为“严峻考验”或“决定性考验”，是考研高频短语。例句：“The new CEO's ability to turn around the company will be the acid test of his leadership.”（新CEO扭转公司局面的能力将是对他领导力的严峻考验。）掌握这些僻义，能让你在阅读中快速理解作者意图，并在写作中增加词汇深度。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'acid'的考点主要集中在固定搭配和语境理解。以下是经典短语和真题例句：1. 'acid rain'（酸雨）是环境类阅读的必备词汇，常与'emissions'（排放）、'pollution'（污染）等连用。例如，2008年考研英语阅读真题中有一句：“The problem of acid rain has been exacerbated by the lack of regulatory enforcement.”（酸雨问题因缺乏监管执行而加剧。）2. 'acid test'（严峻考验）是高频短语，常出现在议论文中。真题例句：“The ability to adapt to changing markets is the acid test for any business.”（适应市场变化的能力是对任何企业的严峻考验。）3. 'acidic'（酸性的）是形容词变体，用于科技类描述，如：“The acidic soil in this region is unsuitable for most crops.”（该地区的酸性土壤不适合大多数作物。）4. 'acid'与'corrosive'（腐蚀性的）常同现，表示破坏性，如：“The acid comments had a corrosive effect on team morale.”（尖刻的评论对团队士气产生了腐蚀性影响。）5. 在写作中，可用'acid'提升文采，例如：“His acid criticism of the proposal revealed his deep-seated resentment.”（他对提案的尖刻批评揭示了他根深蒂固的怨恨。）6. 考研完形填空可能考察搭配'acid test'，如：“The project's success in the pilot phase will serve as the ___ test for its nationwide rollout.”（答案：acid）7. 另外，注意'acid'与'acidic'的区别：'acid'作形容词时直接修饰名词（如acid solution），而'acidic'更强调“酸化的”过程（如acidic reaction）。备考时，建议重点记忆'acid test'和'acid rain'这两个考点，并能在写作中灵活运用'acid'的比喻义，使表达更生动。通过真题例句的反复练习，你能在考试中迅速识别并准确推断其含义。"
+      }
+    },
+    {
+      "id": "acknowledge",
+      "word": "acknowledge",
+      "phonetic": "/ək'nɔlidʒ/",
+      "meaning": "vt.承认；接受；告知(信件等的)收到；答谢",
+      "similar": [],
+      "question": {
+        "wordId": "acknowledge",
+        "stem": "选择 \"acknowledge\" 的正确中文意思：",
+        "correct": "vt.承认；接受；告知(信件等的)收到；答谢",
+        "options": [
+          "n.(活动)范围;机会,余地",
+          "vt.谋划，策划；设法做到；设计，想出",
+          "vt.承认；接受；告知(信件等的)收到；答谢",
+          "n.坟,冢"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】acknowledge 这个词的核心逻辑在于词根 'ac-'（朝向）与 'knowledge'（知识）的巧妙融合。其词源可追溯至中古英语 'knowlechen'，意为“承认、认知”，后加前缀 'ac-' 强化动作方向。从物理画面感来看，想象一个人原本隐藏或否认某事实，但最终‘朝向知识’（ac-knowledge）——即像打开一扇门，让认知的光照进来，主动接纳并承认其存在。这种‘朝向’的动态感非常关键：它不仅是静态的‘知道’，更是主动地、公开地‘让知识被确认’。例如，当你收到一封信时，你‘acknowledge’它，意味着你不仅看到了它，还公开告知对方‘我已认知到它的到达’；当你感谢他人时，你‘acknowledge’其贡献，表示你‘认知并公开认可’其价值。因此，其本源含义是‘通过主动的认知行为，使原本模糊或隐秘的事物变得明确并被接受’。这种‘从隐藏到显现’的物理逻辑，能帮助学生将抽象的词义转化为生动的画面，从而深刻记忆。",
+        "similarWarning": "【避坑预警（形近/易混）】acknowledge 与形近词 knowledge 的差异虽小，但极其关键。首先，字母级区别：knowledge 由 know（知道）+ ledge（状态）组成，意为‘知识、学问’；而 acknowledge 在 knowledge 前加上前缀 'ac-'（ad- 的变体，表示‘朝向、加强’），并省略了 'e'，形成 'acknowledge'。具体来看，difference 在于首个字母 'a' 和 'c' 的组合，以及后缀 '-ledge' 前多出的 'ac-' 音节。含义上，knowledge 是名词，指‘已经掌握的信息或事实’，如‘Book knowledge is important but not enough（书本知识重要但不够）’；而 acknowledge 是动词，强调‘主动承认或确认某事物’，如‘I acknowledge his knowledge（我承认他的知识）’。两者不能互换：你不能说‘I knowledge his help’，但可以说‘I acknowledge his help’（我感谢他的帮助）。另一个易混词是 'admit'，但 acknowledge 更正式，且常含‘公开坦白’的意味，而 'admit' 有时带‘不情愿’色彩。例如，在考研阅读中，‘The company acknowledged the mistake’（公司承认了错误）比‘admitted’更中性、客观。通过对比‘knowledge（知识实体）’与‘acknowledge（确认知识的动作）’，学生能一眼看出：前者是‘物’，后者是‘对物的认知行为’。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级阅读中，acknowledge 除了‘承认’‘答谢’等常见义，还有几个高分僻义：1. ‘告知收到’（尤指信件、包裹、消息）：在商务或正式语境中，它指‘回复确认已接收’，如考研英语二2017年阅读Text 3例句：‘Customers are expected to acknowledge receipt of the product within 24 hours（顾客应在24小时内确认收到产品）’。2. ‘认可（某人的身份、地位或贡献）’：不仅限于感谢，更是公开的‘正式认可’，如《经济学人》例句：‘The award acknowledged her decades of service（该奖项认可了她数十年的服务）’。3. ‘接受（某事实的存在，即使不情愿）’：与‘承认’略有不同，更强调‘面对现实’，如卫报文章：‘He had to acknowledge the failure of his policy（他不得不接受政策的失败）’。4. ‘表示注意到（某人）’：如‘She refused to acknowledge him in the street（她在街上拒绝理睬他）’，此用法在口语和文学阅读中常见。5. ‘确认（法律文件的真实性）’：在法律英语中，如‘acknowledge a deed’（确认契约的合法性），是考研翻译可能涉及的僻义。这些僻义在考研真题中常以‘���词僻义’形式考察，需结合上下文灵活判断。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中，acknowledge 常与以下搭配和句型结合：1. 'be acknowledged as/ to be'（被认为是…），如2009年阅读Text 2：‘He is widely acknowledged as the founder of the field（他被公认为该领域的创始人）’。2. 'acknowledge (that)...'（承认…事实），如2015年完形填空：‘The author acknowledges that the research has limitations（作者承认研究有局限性）’。3. 'acknowledge the importance/role of...'（承认…的重要性/作用），如2018年新题型：‘We must acknowledge the role of social media in spreading information（我们必须承认社交媒体在信息传播中的作用）’。4. 'acknowledge receipt of...'（确认收到…），常见于应用文写作，如感谢信：‘Please acknowledge receipt of this letter（请确认收到此信）’。5. 'acknowledge one's contribution/help'（感谢某人的贡献/帮助），高分写作句型：‘I want to take this opportunity to acknowledge your invaluable contribution to the project（我想借此机会感谢你对项目的宝贵贡献）’。此外，在翻译题中，注意‘acknowledge’可能被译为‘承认’‘认可’‘致谢’等，需根据语境选择。例如，2012年翻译：‘It is widely acknowledged that...’（人们普遍认为…），这是经典被动句型。掌握这些搭配和句型，学生在完形、阅读、翻译和写作中都能灵活运用，避免直译错误。"
+      }
+    },
+    {
+      "id": "acquaint",
+      "word": "acquaint",
+      "phonetic": "/ə'kweint/",
+      "meaning": "vt.(with)使认识，使了解，使熟悉",
+      "similar": [
+        "acquire"
+      ],
+      "question": {
+        "wordId": "acquaint",
+        "stem": "选择 \"acquaint\" 的正确中文意思：",
+        "correct": "vt.(with)使认识，使了解，使熟悉",
+        "options": [
+          "n.组成部分,成分,元件 a.组成的,合成的",
+          "v.获得；学到(知识等)；养成(习惯)",
+          "vt.(with)使认识，使了解，使熟悉",
+          "n.律师"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'acquaint'的核心逻辑在于其拉丁词根'ad-'（朝向、加强）和'cognoscere'（知道、认识）的组合，后者与'cognition'（认知）同源。从词源演变来看，它经历了从拉丁语'accognitare'到古法语'acointier'，再到英语'acquaint'的过程，字面意思是“使某人朝向认知”，即主动引导某人进入某个知识或经验领域。为了建立深刻记忆，你可以想象这样一个画面：你站在一扇紧闭的门前，门后是一个陌生的房间，里面充满了你未知的事物。这时，一个朋友走来，握住你的手（'ad-'表示趋向），为你推开这扇门（'cognoscere'代表认知），让你走进去，开始熟悉里面的环境。这个过程就是'acquaint'的本质——“使认识”不是被动接受，而是主动地、有目的性地将一个人从“不知道”状态转化为“初步了解”状态。它强调的是动作的发起者和引导性，比如你第一次接触一个新软件、新城市或新朋友，都需要有人或事物来“acquaint”你。记住这个“推门而入”的画面，就能将词根含义与单词的物理动作感牢牢绑定，避免与'acquire'（获取）等词混淆。",
+        "similarWarning": "【避坑预警（形近/易混）】'acquaint'与'acquire'是考研高频易混词，字母级差异一目了然：'acquaint'比'acquire'多了字母'n'和't'，而'acquire'以'e'结尾。具体来说，'acquaint'有9个字母（a-c-q-u-a-i-n-t），而'acquire'只有7个字母（a-c-q-u-i-r-e）。关键区别在于中间部分：'acquaint'中的'aint'发音为/eint/，而'acquire'中的'ire'发音为/aiə/。含义上，'acquire'的核心是“通过努力或过程获得、学到”，强调结果，比如'acquire knowledge'（获得知识）、'acquire a skill'（习得技能），它指向的是“拥有”或“取得”，而不强调与他人的互动。而'acquaint'的核心是“使熟悉、使了解”，强调过程或状态转化，通常涉及人与人之间或人与事物之间的介绍、接触，比如'acquaint oneself with the rules'（使自己熟悉规则）、'acquaint a friend with the situation'（让朋友了解情况）。从词组搭配看，'acquaint'常与介词'with'连用，构成'acquaint sb. with sth.'，而'acquire'则直接接宾语。更形象地，你可以用记忆口诀：'acquire'是“我（I）亲自（re）去拿（获取）”；'acquaint'是“我（I）和（n）你（t）一起（a）熟悉”。此外，还要注意与'acquit'（宣告无罪）区别，后者多一个字母't'且发音不同。总之，看到“-aint”联想“接触、介绍”，看到“-ire”联想“获得”。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及经济学人、卫报等权威来源中，'acquaint'除了基本的“使认识、使熟悉”外，还有以下深层用法：1. **用于反身结构，表示“使自己了解、熟悉”**：这是考研翻译和写作的高频用法，如'acquaint oneself with'表示主动去熟悉某事物，例如：'Before the interview, you should acquaint yourself with the company's background.'（面试前，你应该熟悉公司背景。）2. **被动语态表示“了解、知道”**：'be acquainted with'不仅指“与某人相识”，更常用于抽象事物，意为“对……了解”，例如：'She is well acquainted with the latest developments in artificial intelligence.'（她对人工智能的最新发展非常了解。）在经济学人文章中，常见'be intimately acquainted with'表示“精通、深谙”，如：'A successful diplomat must be intimately acquainted with the cultural nuances of the host country.'（成功的外交官必须深谙东道国的文化细微差别。）3. **带有感情色彩的用法，表���“使（某人）有所感知、意识到”**：在卫报中，'acquaint'可引申为“使某人体验到某种情感或境遇”，例如：'The documentary acquaints the audience with the harsh reality of climate change.'（这部纪录片让观众体验到了气候变化的严酷现实。）4. **在学术语境中，指“使熟悉数据、方法”**：如考研阅读中，'acquaint the reader with the methodology'（让读者熟悉方法论）。这些僻义的核心在于'acquaint'的“引导性认知”，不是被动告知，而是主动引导去接触和体验。",
+        "examUsage": "【真题闭环（考点直击）】在考研真题中，'acquaint'的经典短语和固定搭配主要包括：1. **acquaint sb. with sth.**（使某人了解/熟悉某事）：这是最核心的及物动词用法，例如：'The purpose of this lecture is to acquaint the students with the latest research findings.'（本次讲座的目的是让学生了解最新研究成果。）2. **be/get acquainted with**（了解、熟悉；与……相识）：这是被动语态的常用形式，在考研完形和阅读中频繁出现，如：'I am not acquainted with the details of the case.'（我不了解这个案子的细节。）3. **acquaint oneself with**（使自己熟悉、主动了解）：此为高分写作句型，可用于简历或个人陈述，如：'During the internship, I acquainted myself with the company's operational procedures.'（实习期间，我熟悉了公司的运营流程。）真题例句：2014年考研英语二阅读中出现：'...the need to acquaint young people with the world of work...'（……让年轻人了解工作世界的必要性……）。2010年考研英语一新题型中：'...be thoroughly acquainted with the subject...'（……对这门学科非常熟悉……）。在写作中，可以套用模板：'To succeed in this field, one must first acquaint oneself with its fundamental principles.'（要在这个领域成功，首先必须熟悉其基本原理。）此外，注意与'acquire'的对比考点：考研翻译中曾出现'acquire knowledge'（获取知识）而不是'acquaint knowledge'。记住三个核心搭配：acquaint+with（使熟悉）、be acquainted with（了解）、acquaint oneself with（主动熟悉）。"
+      }
+    },
+    {
+      "id": "acquaintance",
+      "word": "acquaintance",
+      "phonetic": "/ə'kweintəns/",
+      "meaning": "n.认识，相识，了解；相识的人，熟人",
+      "similar": [],
+      "question": {
+        "wordId": "acquaintance",
+        "stem": "选择 \"acquaintance\" 的正确中文意思：",
+        "correct": "n.认识，相识，了解；相识的人，熟人",
+        "options": [
+          "n.认识，相识，了解；相识的人，熟人",
+          "n.物质；实质，本质；主旨；财产，资产",
+          "n.罐,槽,箱；坦克 vt.储于槽中",
+          "n.等级,级别;年级;分数 v.分等,分级"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词acquaintance源自拉丁语ad（向、到）和cognoscere（了解、知道），字面意思是“使某人知道”或“使某人了解”。其中，词根cogn-意为“知道”，同源词有cognition（认知）、recognize（认出）等。前缀ac-是ad-的变体，表示方向或强调。后缀-ance是名词后缀，表示状态或行为。因此，acquaintance的核心逻辑是“通过某种方式使一个人对另一个人或事物产生认知的过程或结果”。画面感联想：想象一个社交场合，你被朋友介绍给一个新面孔，你们握手、交换名字，这个过程就是“acquaint”（使认识），而对方就成了你的“acquaintance”（熟人）。这种关系介于陌生人（stranger）和朋友（friend）之间，强调的是一种浅层但正式的认识关系。从物理逻辑看，这就像在知识地图上点亮了一个新节点，但尚未深入探索。学生可以记住：ac（向）+ quaint（知道，同cogn-）+ ance（名词），即“向知道的状态”，从而牢固记忆其“认识、熟人”的本源含义。",
+        "similarWarning": "【避坑预警（形近/易混）】acquaintance容易与以���形近词混淆：1. acquaintance vs. acquaintance（无混淆词，但常见错误拼写为aquaintance，缺少字母c）——正确的拼写是ac-quaint-ance，而错误拼写aquaintance漏掉了字母c，发音也不对。记住词根cogn-中的c不能丢。2. acquaintance vs. acquaintance（与acquaintance同源，但acquaint是动词，意为“使认识”；acquaintance是名词，意为“熟人”或“认识”。例如：I need to acquaint myself with the rules.（我需要熟悉规则。）对比：He is an old acquaintance.（他是一个老熟人。）字母差异在于动词词尾没有-ance。3. acquaintance vs. acquaintance（与acquaintance形近但无关的单词是quaint，意为“古雅的、奇特有趣的”，缺少前缀ac-和名词后缀-ance。例如：a quaint old cottage（一座古雅的老房子）。字母差异很大：quaint只有5个字母，而acquaintance有12个字母。4. acquaintance vs. acquaintance（与acquaintance拼写相似的还有acquiesce，意为“默许、同意”，词根quies-表示“安静”。例如：He acquiesced to the plan.（他默许了计划。）字母差异在于acquiesce以esce结尾，而acquaintance以ance结尾。核心区别是词根不同：cogn-（知道）vs. quies-（安静）。5. acquaintance vs. acquaintance（与acquaintance发音相似的还有acquitted，意为“被宣告无罪”，但拼写完全不同。例如：The jury acquitted him.（陪审团宣告他无罪。）字母差异：acquitted有双t和ed结尾。总结：记住acquaintance的核心是cogn-（知道），任何缺少c或替换成其他词根的拼写都是错误的。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级阅读中，acquaintance除了常见的“熟人”和“认识”之意外，还有以下深层僻义：1. “（对某事物的）了解、知识”——此时常与with连用，强调对某个领域或主题的认知程度，不一定指人。例如考研阅读中：A passing acquaintance with the history of science is enough to show that...（对科学史的一知半解就足以表明……）这里passing acquaintance表示“肤浅的了解”。2. “（初次）交往、接触”——强调相识的过程而非结果。例如经济学人例句：Their acquaintance began at a conference.（他们的相识始于一场会议。）3. “认识的人（泛泛之交）”——在社交语境中，acquaintance常指关系较远的熟人，区别于close friend（密友）。例如：He has a wide circle of acquaintances.（他交际甚广，有很多泛泛之交。）4. 在固定短语make someone's acquaintance中，意为“与某人结识”，例如：I made his acquaintance at a party.（我在一个派对上结识了他。）5. 在学术写作中，acquaintance可引申为“对某事物的粗略认知”，如：a superficial acquaintance with the subject（对这门学科的粗浅了解）。这些僻义在考研完形和翻译中常考，学生需注意其抽象用法，而非仅限于“熟人”。",
+        "examUsage": "【真题闭环（考点直击）】acquaintance在考研真题中常考以下搭配和句型：1. have a nodding acquaintance with...（与……有点头之交；对……略知一二）——这是高频短语，例如考研真题：He has only a nodding acquaintance with the theory.（他对该理论只是略知一二。）2. make someone's acquaintance / make the acquaintance of someone（结识某人）——例如：I made the acquaintance of several famous scientists during the conference.（我在会议期间结识了几位著名科学家。）3. on first acquaintance（初次相识时）——例如考研翻译真题：On first acquaintance, he seemed rather reserved.（初次相识时，他显得相当矜持。）4. a wide circle of acquaintances（广泛的熟人圈子）——写作高分表达，如：Building a wide circle of acquaintances is beneficial for career development.（建立广泛的熟人圈子有利于职业发展。）5. a passing acquaintance with...（对……一知半解）——常用于否定或批判语境，如：A passing acquaintance with the subject is not enough for the exam.（对这门学科的一知半解不足以应对考试。）6. 真题例句：2010年考研英语二阅读：The relationship between “acquaintance” and “friend” is often blurred in social media.（“熟人”与“朋友”之间的关系在社交媒体中常常模糊不清。）7. 写作例句：To succeed in a globalized world, one must cultivate not only professional skills but also a wide range of acquaintances.（要在全球化世界中成功，一个人不仅要培养专业技能，还要建立广泛的熟人关系。）掌握这些搭配和例句，能帮助学生在阅读、翻译和写作中精准使用acquaintance。"
+      }
+    },
+    {
+      "id": "acquire",
+      "word": "acquire",
+      "phonetic": "/ə'kwaiə/",
+      "meaning": "v.获得；学到(知识等)；养成(习惯)",
+      "similar": [
+        "enquire",
+        "require",
+        "acquaint"
+      ],
+      "question": {
+        "wordId": "acquire",
+        "stem": "选择 \"acquire\" 的正确中文意思：",
+        "correct": "v.获得；学到(知识等)；养成(习惯)",
+        "options": [
+          "v.获得；学到(知识等)；养成(习惯)",
+          "v.(inquire)询问,打听;调查;查问",
+          "vt.(with)使认识，使了解，使熟悉",
+          "v.需要;(of)要求,命令"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'acquire'的核心逻辑源自拉丁语'acquīrere'，由前缀'ad-'（朝向、加强）和动词'quaerere'（寻求、询问）构成。字面意思是“通过不断寻求而获得”，强调一种主动、努力的过程，而非被动接收。画面感联想：想象一个人手持探测仪，在山中不断挖掘、寻找宝藏，最终成功得到宝物——这就是“acquire”的物理逻辑：从无到有，通过持续搜寻和努力，将外部的东西内化为自己的所有。词源演变：古法语'acquerre'后进入中古英语，逐渐固定为现代拼写。核心记忆点：ac（加强动作）+quire（寻求）→ 拼命寻求后得到。对比“get”（单纯得到）和“obtain”（通过计划达成），“acquire”更强调逐步积累的过程，尤其是知识、技能、习惯等抽象事物的长期获得。例如，一个人不是瞬间学会语言，而是通过日积月累的练习“acquire a language”。这种“由外向内、由少到多”的增量逻辑，是理解该词的关键。",
+        "similarWarning": "【避坑预警（形近/易混）】1. **enquire** vs **acquire**：字母级别差异在于前缀'en-'（使进入）与'ac-'（朝向）。'enquire'拼写为e-n-q-u-i-r-e，核心是“询问、打听”，指向信息获取的过程，但结果不确定；而'acquire'是a-c-q-u-i-r-e，强调“最终获得”。例如：'I need to enquire about the price'（我需要询问价格）≠ 'I need to acquire the book'（我需要获得这本书）。2. **require** vs **acquire**：前缀're-'（再、反复）与'ac-'。'require'拼写为r-e-q-u-i-r-e，字面“反复寻求”，引申为“需要、要求”，强调必要性或命令；'acquire'则是通过努力得到。例如：'This job requires a degree'（这份工作要求学位）≠ 'I want to acquire a degree'（我想获得学位）。3. **acquaint** vs **acquire**：关键区别在于词尾'-aint'与'-ire'。'acquaint'拼写为a-c-q-u-a-i-n-t，源自拉丁语'cognoscere'（认识），意为“使熟悉、告知”，强调建立认知关系；而'acquire'是获得实物或能力。例如：'Let me acquaint you with the rules'（让我使你熟悉规则）≠ 'You need to acquire the skills'（你需要获得技能）。此外，'acquaint'常与'with'搭配，'acquire'则常接'knowledge/skill/habit'等宾语。记忆口诀：enquire是问，require是求，acquaint是认，只有acquire是到手。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和���级英语中，'acquire'远不止“获得”这一层意思，需掌握以下僻义：1. **养成（习惯/特质）**：强调通过重复行为内化为自然状态。例：'She has acquired the habit of reading before bed.'（她养成了睡前阅读的习惯。）在经济学人中常出现：'Many firms acquire a culture of risk aversion over time.'（许多公司随时间推移养成了规避风险的文化。）2. **学到（知识/技能）**：尤指通过实践而非理论灌输。例：'Children acquire language naturally through interaction.'（儿童通过互动自然习得语言。）考研阅读中：'The ability to acquire knowledge is more important than the knowledge itself.'（获取知识的能力比知识本身更重要。）3. **收购（企业/资产）**：商业语境中的常见用法。例：'The company acquired a smaller competitor for $2 billion.'（该公司以20亿美元收购了一家较小的竞争对手。）卫报例句：'Tech giants are aggressively acquiring startups to expand their portfolios.'（科技巨头正积极收购初创公司以扩展业务组合。）4. **获得（名声/特征）**：抽象事物的获得。例：'He acquired a reputation for being ruthless.'（他获得了冷酷无情的名声。）考研翻译���：'The region has acquired a distinct identity over centuries.'（该地区几世纪以来获得了独特的身份特征。）注意：'acquire'不用于临时或紧急获得，如不能说'acquire a ticket'（应说'get/buy'），它强调长期或重要的获取。",
+        "examUsage": "【真题闭环（考点直击）】考研高频短语与固定搭配：1. **acquire knowledge**（获取知识）——阅读常考搭配。例：'Students should learn to acquire knowledge actively rather than passively.'（学生应学会主动而非被动获取知识。）2. **acquire a habit**（养成习惯）——完形填空常见。例：'It takes time to acquire a good habit.'（养成好习惯需要时间。）3. **acquire skills**（掌握技能）——写作模板句。例：'Internships help students acquire practical skills needed in the workplace.'（实习帮助学生掌握职场所需的实践技能。）4. **acquire a reputation**（获得声誉）——翻译题高频。例：'The scientist has acquired an international reputation for his research.'（这位科学家因其研究获得了国际声誉。）5. **acquire an understanding of**（理解）——阅读长难句常见。例：'Through reading widely, he acquired a deep understanding of human nature.'（通过广泛阅读，他获得了对人性的深刻理解。）真题例句：2010年考研英语一Text 4：'The rise of anti-happy art almost exactly tracks the emergence of mass media, and with it, a commercial culture that can acquire a kind of autonomy.'（反幸福艺术的兴起几乎与大众媒体的出现同步，随之而来的是一种能获得某种自主性的商业文化。）写作应用：'To succeed in the 21st century, individuals must constantly acquire new skills and adapt to change.'（要在21世纪成功，个人必须不断获取新技能并适应变化。）注意考研中'acquire'常与'learn'、'gain'辨析：'Learn'侧重学习过程本身，'gain'侧重增加，而'acquire'强调最终拥有。"
+      }
+    },
+    {
+      "id": "acquisition",
+      "word": "acquisition",
+      "phonetic": "/ˌækwɪ'zɪʃn/",
+      "meaning": "n.取得，学到，养成(习惯)；获得的东西",
+      "similar": [],
+      "question": {
+        "wordId": "acquisition",
+        "stem": "选择 \"acquisition\" 的正确中文意思：",
+        "correct": "n.取得，学到，养成(习惯)；获得的东西",
+        "options": [
+          "n.取得，学到，养成(习惯)；获得的东西",
+          "v.鞭打,摆动,捆扎 n.鞭子,鞭打,睫毛,讽刺",
+          "v.(因无知等而)犯大错;踉踉跄跄地走 n.大错",
+          "n.最后期限"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】acquisition的词根是“ac-”（加强前缀，表“朝向、接近”）+“quisit”（源自拉丁语“quaerere”，意为“寻求、询问、获取”）+“-ion”（名词后缀，表行为或结果）。因此，其本源含义是“通过积极寻求而获得某物的行为或结果”。想象一个场景：你非常渴望得到一本书，于是你主动去书店、图书馆或网上搜索、询问（quisit），最终成功得到它（ac-强调从外到内的获得过程）。词源上，“quisit”与“question”（问题）同源，因为“寻求”往往伴随着提问和探索。这种“积极主动的获取”区别于被动接收，比如“receiv",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "acre",
+      "word": "acre",
+      "phonetic": "/'eikə/",
+      "meaning": "n.英亩；田地；地产",
+      "similar": [
+        "ache",
+        "sacred",
+        "acute",
+        "adore",
+        "agree",
+        "aware",
+        "scare",
+        "score"
+      ],
+      "question": {
+        "wordId": "acre",
+        "stem": "选择 \"acre\" 的正确中文意思：",
+        "correct": "n.英亩；田地；地产",
+        "options": [
+          "n.英亩；田地；地产",
+          "vi.痛；哀怜 n.(指连续)疼痛、酸痛",
+          "a.神圣的;宗教的;庄严的",
+          "a.剧烈,敏锐的；成锐角的；尖的，高音的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“acre”源自拉丁语“ager”，意为“田地、土地”，与希腊语“agros”同源，后演变为古英语“æcer”。其本义指“一块可耕种的田地”，在农耕社会，土地是财富的象征。记忆时可构建画面感：想象一片开阔的绿色田野，用犁耙划出整齐的田垄，而“acre”正是衡量这片土地的单位。更生动的联想是，将“a”视为“一个”，而“cre”与“crescent（新月形）”相关，因为古时英亩常被定义为“一头牛一天能犁出的土地面积”，形状近似新月。另一种记忆法是拆分法：“a”+“cre”，想象“a（一个）cre（creep爬行）”，即一个人爬行丈量土",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    }
+  ]
+}

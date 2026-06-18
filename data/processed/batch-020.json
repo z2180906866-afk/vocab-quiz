@@ -1,0 +1,1723 @@
+{
+  "batchId": 20,
+  "words": [
+    {
+      "id": "cream",
+      "word": "cream",
+      "phonetic": "/kri:m/",
+      "meaning": "n.乳脂,(鲜)奶油;奶油色",
+      "similar": [
+        "scream",
+        "cereal",
+        "create",
+        "stream",
+        "area",
+        "beam",
+        "crab",
+        "crew"
+      ],
+      "question": {
+        "wordId": "cream",
+        "stem": "选择 \"cream\" 的正确中文意思：",
+        "correct": "n.乳脂,(鲜)奶油;奶油色",
+        "options": [
+          "v.创造,创作;引起,造成,建立",
+          "n.乳脂,(鲜)奶油;奶油色",
+          "v./n.尖声叫,喊叫着说出,(风)呼啸",
+          "n.加工而成的谷类食物；谷类植物，谷物"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'chrisma'（膏油），经由古法语 'cresme' 进入英语，本义为 '油膏、乳脂'。核心动作是 '从牛奶中分离出的脂肪层'，对应 '浮于表面的精华'。",
+        "similarWarning": "scream（尖叫） vs cream（奶油）：s-（拟声前缀）+ cream，强调声音刺耳；cream 强调质地。stream（溪流） vs cream：str-（流动）+ eam，强调水流；cream 强调乳脂。",
+        "extendedMeaning": "1. 精华，佼佼者（the cream of the crop 精英） 2. 乳霜（护肤品）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "create",
+      "word": "create",
+      "phonetic": "/kri'eit/",
+      "meaning": "v.创造,创作;引起,造成,建立",
+      "similar": [
+        "creative",
+        "creature",
+        "breathe",
+        "rate",
+        "cease",
+        "cheat",
+        "crane",
+        "cream"
+      ],
+      "question": {
+        "wordId": "create",
+        "stem": "选择 \"create\" 的正确中文意思：",
+        "correct": "v.创造,创作;引起,造成,建立",
+        "options": [
+          "v.创造,创作;引起,造成,建立",
+          "a.有创造力的,创造性的",
+          "n.人,动物;生物",
+          "v.呼吸,吸入"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'creare'（创造，产生），原始印欧语根 *ker-（生长）。核心动作是“使从无到有、使生长出来”，强调从无到有的过程。",
+        "similarWarning": "creative (adj. 创造性的) vs creature (n. 生物) vs create (v. 创造)：creative 是形容词，creature 是名词，create 是动词，注意词性差异。",
+        "extendedMeaning": "在考研中常引申为“引起，导致（某种状态或结果）”，如 create a problem（引起问题），create an impression（造成印象）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "creative",
+      "word": "creative",
+      "phonetic": "/kri'eitiv/",
+      "meaning": "a.有创造力的,创造性的",
+      "similar": [
+        "create",
+        "creature",
+        "relative",
+        "narrative",
+        "native",
+        "retire",
+        "revive",
+        "breathe"
+      ],
+      "question": {
+        "wordId": "creative",
+        "stem": "选择 \"creative\" 的正确中文意思：",
+        "correct": "a.有创造力的,创造性的",
+        "options": [
+          "a.相对的,比较的,有关系的 n.亲戚,关系词",
+          "n.人,动物;生物",
+          "v.创造,创作;引起,造成,建立",
+          "a.有创造力的,创造性的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根cre-（生长） + -ative（形容词后缀，表“有…性质的”）。核心动作：使事物生长出来→产生新事物→有创造力的。",
+        "similarWarning": "create（创造，动词）去掉后缀；creature（生物，名词）后缀不同；relative（相对的）词根不同；narrative（叙述的）词根不同；native（本地的）词根不同；retire（退休）前缀不同；revive（复活）前缀不同；breathe（呼吸）词根不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "creature",
+      "word": "creature",
+      "phonetic": "/'kri:tʃə/",
+      "meaning": "n.人,动物;生物",
+      "similar": [
+        "create",
+        "feature",
+        "creative",
+        "treasure",
+        "centre",
+        "mature",
+        "retire",
+        "return"
+      ],
+      "question": {
+        "wordId": "creature",
+        "stem": "选择 \"creature\" 的正确中文意思：",
+        "correct": "n.人,动物;生物",
+        "options": [
+          "n.人,动物;生物",
+          "v.创造,创作;引起,造成,建立",
+          "n.特征;容貌;特色;特写 v.以...为特色",
+          "a.有创造力的,创造性的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语creatura，源于creare（创造）+ -ure（名词后缀，表结果）。核心物理动作是“被创造出来的东西”，引申为“生物、动物、人”。",
+        "similarWarning": "create v.创造（creat+e） vs creature（creat+ure，被创造之物）；feature n.特征（feat+ure） vs creature（creat+ure，注意首字母不同）；mature adj.成熟的（mat+ure） vs creature（成熟的过程与创造的结果不同）。",
+        "extendedMeaning": "在考研阅读中，creature可指“受控制的人、傀儡”，如a creature of the government（政府的傀儡）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "credential",
+      "word": "credential",
+      "phonetic": "/kri'denʃəl/",
+      "meaning": "n.凭证，(pl.)国书，证明书",
+      "similar": [
+        "confidential",
+        "oriental",
+        "essential",
+        "identical",
+        "potential",
+        "retention",
+        "accidental"
+      ],
+      "question": {
+        "wordId": "credential",
+        "stem": "选择 \"credential\" 的正确中文意思：",
+        "correct": "n.凭证，(pl.)国书，证明书",
+        "options": [
+          "a.本质的,基本的;净化的 n.本质;要素",
+          "a.东方的,东方诸国的 n.东方人",
+          "a.秘(机)密的；表信任的；担任机密工作的",
+          "n.凭证，(pl.)国书，证明书"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 credere（信任，相信）的过去分词 credent-（相信的）加名词后缀 -ial。核心动作是“被相信的东西”，即作为信任依据的凭证或证明文件。",
+        "similarWarning": "形近词辨析：\n- credential（凭证）：核心是 cred-（信任）→ 被信任的证明。\n- confidential（机密的）：核心是 fid-（信任）→ 需要信任才能告知的秘密。\n- oriental（东方的）：核心是 ori-（升起）→ 太阳升起的方向。\n- essential（本质的）：核心是 ess-（存在）→ 存在的根本。\n- identical（相同的）：核心是 idem-（相同）→ 完全一样。\n- potential（潜在的）：核心是 pot-（能力）→ 有能力的可能性。\n- retention（保留）：核心是 ten-（持有）→ 保持住。\n- accidental（意外的）：核心是 cad-（落下）→ 偶然发生的。\n注意 credential 与 confidential 都含“信任”义，但 credential 指外在凭证，confidential 指内在性质。",
+        "extendedMeaning": "考研僻义：指个人资历、背景或能力证明，如学历证书、资格证书等，常以复数形式 credentials 出现，表示“资历、资格”。",
+        "examUsage": "真题考点：\n固定搭配：\n- credentials for sth. / to do sth. 做某事的资格/资历\n例句：He has the perfect credentials for the job. 他完全具备做这份工作的资格。\n常见干扰项：confidential（机密的）易误选，注意 credential 强调“证明”。"
+      }
+    },
+    {
+      "id": "credit",
+      "word": "credit",
+      "phonetic": "/'kredit/",
+      "meaning": "v./n.信用,信任 n.信用贷款,赊欠;名誉,名望",
+      "similar": [
+        "predict",
+        "edit"
+      ],
+      "question": {
+        "wordId": "credit",
+        "stem": "选择 \"credit\" 的正确中文意思：",
+        "correct": "v./n.信用,信任 n.信用贷款,赊欠;名誉,名望",
+        "options": [
+          "n.皮革,皮革制品",
+          "v.编辑,校订",
+          "v.预言,预测,预告",
+          "v./n.信用,信任 n.信用贷款,赊欠;名誉,名望"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "核心词根cred-（相信，信任）+ -it（名词/动词后缀）。本义为“相信、信任”，引申为“信用、信誉”。经济领域进一步引申为“赊欠、信用贷款”，即基于信任的借贷行为。",
+        "similarWarning": "predict（v.预言）：pre-（前）+ dict（说）= 提前说；edit（v.编辑）：e-（出）+ dit（给）= 给出（文字）。credit与二者形近但词根不同，cred-（相信）vs dict/dit（说/给）。",
+        "extendedMeaning": "考研僻义：① 学分（academic credit）：完成课程获得的学分单位。② 功劳、赞扬（take credit for）：获得认可或归功于己。③ 在影视作品中的“演职员表”（credit roll）。",
+        "examUsage": "真题考点：① on credit 赊账（常见于完形填空选项）。② credit to 为……增光（如：She is a credit to her family.）。③ give credit to 相信/认可（阅读中常表“对……给予信任”）。"
+      }
+    },
+    {
+      "id": "creep",
+      "word": "creep",
+      "phonetic": "/kri:p/",
+      "meaning": "v.爬,爬行;(植物)蔓延",
+      "similar": [
+        "career",
+        "screen",
+        "crew",
+        "crop",
+        "peep",
+        "reap",
+        "reed",
+        "reel"
+      ],
+      "question": {
+        "wordId": "creep",
+        "stem": "选择 \"creep\" 的正确中文意思：",
+        "correct": "v.爬,爬行;(植物)蔓延",
+        "options": [
+          "n.屏幕,屏风;帘 v.掩蔽,包庇;筛选",
+          "n.(个人的)事业；专业，生涯，职业，经历",
+          "v.爬,爬行;(植物)蔓延",
+          "n.全体船员,全体乘务员"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语 creopan，核心物理动作为“贴近地面缓慢移动”，引申为“爬行、蔓延”，强调动作的隐蔽、缓慢与贴近表面。",
+        "similarWarning": "career（职业/生涯，与 creep 拼写差异在字母 a 和 e，词义无关联）；screen（屏幕/遮蔽，差异在字母 s 和 c，词义不同）；crew（全体船员/工作人员，差异在字母 w，词义无关）；crop（农作物/修剪，差异在字母 o，词义不同）；deep（深的，差异在字母 d，词义无关）；free（自由的，差异在字母 f，词义无关）；keep（保持，差异在字母 k，词义无关）；peep（偷看/窥视，差异在字母 p，词义无关）。",
+        "extendedMeaning": "考研外刊中常引申为“（价格、温度等）缓慢攀升”或“（不知不觉）产生/出现”，如 inflation creeps up（通胀缓慢上升），a feeling of doubt creeps in（怀疑悄然产生）。",
+        "examUsage": "真题中常考 creep 的短语 creep into（悄然进入/潜入），如 A sense of unease crept into the room（一种不安感悄然弥漫房间），或 creep up on（悄悄逼近/不知不觉影响），如 Old age crept up on him（衰老不知不觉地降临到他身上）。"
+      }
+    },
+    {
+      "id": "crew",
+      "word": "crew",
+      "phonetic": "/kru:/",
+      "meaning": "n.全体船员,全体乘务员",
+      "similar": [
+        "screw",
+        "chew",
+        "crow",
+        "crawl",
+        "cream",
+        "creep",
+        "crowd",
+        "crown"
+      ],
+      "question": {
+        "wordId": "crew",
+        "stem": "选择 \"crew\" 的正确中文意思：",
+        "correct": "n.全体船员,全体乘务员",
+        "options": [
+          "n.乌鸦 v./n.鸡啼,鸣叫",
+          "n.全体船员,全体乘务员",
+          "n.螺旋,螺丝(钉) v.拧,拧紧",
+          "v.咀嚼;思量"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古法语‘creue’（增加，补充），原指‘增援部队’，后演变为‘全体船员’或‘全体乘务员’，核心动作是‘聚集、补充人员’以组成一个团队。",
+        "similarWarning": "screw（螺丝；拧紧）与crew差首字母s；chew（咀嚼）与crew差首字母c/h；crow（乌鸦；啼叫）与crew差尾字母w；crawl（爬行）与crew差字母a/l；cream（奶油）与crew差字母a/m；creep（爬行）与crew差字母p；crowd（人群）与crew差字母d；crown（王冠）与crew差字母n。",
+        "extendedMeaning": "在考研外刊中，可指‘（特定领域的）工作团队、一组人’，如‘a crew of engineers’（一组工程师），不限于航海或航空。",
+        "examUsage": "常与‘member’搭配（a crew member），注意crew为集合名词，作主语时谓语动词常用单数（The crew is...），但强调个体时可用复数（The crew are...）。"
+      }
+    },
+    {
+      "id": "cricket",
+      "word": "cricket",
+      "phonetic": "/'krikit/",
+      "meaning": "n.板球;蟋蟀",
+      "similar": [
+        "racket",
+        "rocket",
+        "ticket",
+        "bracket",
+        "chicken"
+      ],
+      "question": {
+        "wordId": "cricket",
+        "stem": "选择 \"cricket\" 的正确中文意思：",
+        "correct": "n.板球;蟋蟀",
+        "options": [
+          "n.板球;蟋蟀",
+          "n.票,入场券;票签;(交通违章)罚款传票",
+          "n.火箭",
+          "n.球拍"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "cricket 词源拟声，模仿蟋蟀叫声“crick”。板球义源自法语 criquet，指击球声。核心动作：昆虫鸣叫或球拍击球。",
+        "similarWarning": "racket（球拍/喧闹）、rocket（火箭）、ticket（票）、bracket（支架）、chicken（鸡）。对比：cricket vs racket 字母差异：cri- vs ra-，词义关联：板球用球拍（racket）打，但 cricket 本身是运动名。",
+        "extendedMeaning": "在考研外刊中，cricket 可引申为“公平竞争精神”（如 not cricket 指不公正行为）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "crime",
+      "word": "crime",
+      "phonetic": "/kraim/",
+      "meaning": "n.罪行,犯罪",
+      "similar": [
+        "prime",
+        "cruise",
+        "rim",
+        "brim",
+        "cite",
+        "grim",
+        "rice",
+        "ripe"
+      ],
+      "question": {
+        "wordId": "crime",
+        "stem": "选择 \"crime\" 的正确中文意思：",
+        "correct": "n.罪行,犯罪",
+        "options": [
+          "a.首要的;最好的,第一流的 n.青春,全盛期",
+          "n.(圆物的)边,边缘;(眼镜)框",
+          "n.罪行,犯罪",
+          "v.巡航；以节省燃料的速度前进 n.乘船巡游"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根cern-/cret-（筛选、区分）变体，原指“经过筛选后判定的行为”，核心动作是“区分对错后定罪的判定结果”。",
+        "similarWarning": "prime（首要的）vs crime：p-开头表“第一”，c-开头表“筛选定罪”；cruise（巡航）vs crime：-uise与-ime拼写差异，cruise含“航行”动作；rim（边缘）vs crime：缺少c-前缀，rim指物理边界；brim（边缘）与rim同源，但b-无意义；cite（引用）vs crime：c-相同但-ite表“唤起”，crime是静态名词；come（来）vs crime：c-相同但-ome表“移动”；grim（严峻的）vs crime：g-替换c-，grim表“表情”，crime表“罪行”；rice（大米）vs crime：r-相同但-ice表“细碎物”。",
+        "extendedMeaning": "（在考研阅读中常引申为）不道德行为、应受谴责之事，如“a crime against humanity”（反人类罪）或“it's a crime to waste food”（浪费食物是种罪过）。",
+        "examUsage": "真题高频搭配：commit a crime（犯罪）；minor crime（轻罪）；crime rate（犯罪率）；“organized crime”（有组织犯罪）常作为阅读背景词汇出现，干扰项设置中常与“criminal”（罪犯）、“punishment”（惩罚）形成同义替换。"
+      }
+    },
+    {
+      "id": "criminal",
+      "word": "criminal",
+      "phonetic": "/'kriminəl/",
+      "meaning": "n.罪犯,刑事犯 a.犯罪的,刑事的",
+      "similar": [
+        "critical",
+        "original",
+        "crucial",
+        "nominal",
+        "trivial",
+        "cardinal",
+        "chemical",
+        "terminal"
+      ],
+      "question": {
+        "wordId": "criminal",
+        "stem": "选择 \"criminal\" 的正确中文意思：",
+        "correct": "n.罪犯,刑事犯 a.犯罪的,刑事的",
+        "options": [
+          "a.至关重要的,决定性的",
+          "a.最初的,原文的;新颖的 n.原物,原作,原文",
+          "a.批评的,评论的;危急,紧要的;临界的",
+          "n.罪犯,刑事犯 a.犯罪的,刑事的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语crimen（罪行），词根crimin-（罪行）+ 形容词后缀-al（…的）。核心动作：与罪行相关的（人/事）。",
+        "similarWarning": "critical（关键的/批评的） vs criminal（犯罪的）：critical有crit-（判断）词根，criminal有crimin-（罪行）词根。original（原始的） vs criminal：original有origin-（起源），criminal有crimin-。",
+        "extendedMeaning": "在考研外刊中，criminal可作形容词表示“刑事的”，如criminal law（刑法）；作名词时指“罪犯”，如career criminal（职业罪犯）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "cripple",
+      "word": "cripple",
+      "phonetic": "/'kripl/",
+      "meaning": "n.跛子,残疾人 v.使跛,使残疾",
+      "similar": [
+        "triple"
+      ],
+      "question": {
+        "wordId": "cripple",
+        "stem": "选择 \"cripple\" 的正确中文意思：",
+        "correct": "n.跛子,残疾人 v.使跛,使残疾",
+        "options": [
+          "a.致命的;终有一死的;人世间的 n.凡人",
+          "n.跛子,残疾人 v.使跛,使残疾",
+          "n.三倍数 a.三倍的;三部分构成的v.使成三倍",
+          "a.小(器、规模)的,不重要的,细微的,卑鄙的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源来自古英语crypel，与creep（爬行）同源，核心物理动作为“爬行/蹒跚而行”。词根crip-表“弯曲、蜷缩”，-le为工具/状态后缀。本义指因腿部残疾而无法正常行走、只能蜷缩爬行的人，引申为动词“使跛、使残疾”。",
+        "similarWarning": "triple（三倍的）：区别在于首字母t-（三）与cr-（弯曲）。cripple强调“残疾、跛行”；triple强调“三倍、三重”。拼写差异：cripple含cr-及双p；triple含tr-及单p。",
+        "extendedMeaning": "考研僻义：严重削弱、使瘫痪（非字面残疾）。例：The economic crisis crippled the industry.（经济危机严重削弱了该行业。）",
+        "examUsage": "真题考点：常考其动词引申义“严重破坏/使瘫痪”，搭配宾语多为system, economy, industry等。例：The strike crippled the transportation system.（罢工使交通系统瘫痪。）注意与damage（部分损坏）的语义强弱区分。"
+      }
+    },
+    {
+      "id": "crisis",
+      "word": "crisis",
+      "phonetic": "/'kraisis/",
+      "meaning": "n.(pl.crises)危机,紧要关头",
+      "similar": [
+        "crisp",
+        "critic"
+      ],
+      "question": {
+        "wordId": "crisis",
+        "stem": "选择 \"crisis\" 的正确中文意思：",
+        "correct": "n.(pl.crises)危机,紧要关头",
+        "options": [
+          "n.批评家,评论家",
+          "a.脆的,易碎的;简明扼要的；（空气）清爽的",
+          "n.(pl.crises)危机,紧要关头",
+          "n.英里，哩，海里"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自希腊语krisis“决定，判断”，原指医学上的“病情转折点”（好转或恶化），后引申为社会、经济等领域的“危机时刻”。核心动作是“做决定的关键节点”。",
+        "similarWarning": "crisp（adj.脆的，清爽的） vs crisis：crisp末尾p表“脆响”，crisis末尾is表“状态”。cross（v./n.交叉，横穿） vs crisis：cross核心是“十字形”，crisis核心是“决定点”。critic（n.批评家） vs crisis：critic源自kritēs“评判者”，crisis源自krisis“决定”。",
+        "extendedMeaning": "在考研中常引申为“困境，难关”，不局限于突发灾难，如“identity crisis（身份认同危机）”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "crisp",
+      "word": "crisp",
+      "phonetic": "/krisp/",
+      "meaning": "a.脆的,易碎的;简明扼要的；（空气）清爽的",
+      "similar": [
+        "christ",
+        "crisis",
+        "cruise",
+        "rip",
+        "chip",
+        "clip",
+        "crop",
+        "drip"
+      ],
+      "question": {
+        "wordId": "crisp",
+        "stem": "选择 \"crisp\" 的正确中文意思：",
+        "correct": "a.脆的,易碎的;简明扼要的；（空气）清爽的",
+        "options": [
+          "a.脆的,易碎的;简明扼要的；（空气）清爽的",
+          "v.巡航；以节省燃料的速度前进 n.乘船巡游",
+          "n.(pl.crises)危机,紧要关头",
+          "n.基督，救世主，耶稣"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语crispus（卷曲、起皱），原始印欧语根*sker-（弯曲、转动）。核心物理动作：物体因干燥或低温而卷曲、收缩，导致质地变脆、易碎。引申为语言或风格像脆物一样干净利落、不拖泥带水（简明扼要），或空气像脆物一样清新爽利（清爽）。",
+        "similarWarning": "crisis（危机）：词根cri-（判断），-sis表状态，指需要做出决断的转折点。crisp强调质地或风格的脆爽，crisis强调形势的危急。对比：crisp多一个字母p，像脆物碎裂的拟声；crisis末尾-sis像系统性危机。",
+        "extendedMeaning": "（在考研外刊中）指（声音、动作）干脆利落：\"He gave a crisp reply.\" 他干脆地回答。或指（钞票）崭新挺括：\"crisp banknotes\" 崭新的钞票。",
+        "examUsage": "（真题考点）常与形容词连用构成固定搭配：\"crisp and clear\" 清晰明了；\"crisp air\" 清爽空气。注意在完形填空中可能作为干扰项，与\"brisk\"（轻快的）、\"sharp\"（锋利的；尖刻的）混用，但crisp强调因干燥或新鲜而有的脆爽感。"
+      }
+    },
+    {
+      "id": "criterion",
+      "word": "criterion",
+      "phonetic": "/krai'tiəriən/",
+      "meaning": "n.(pl.criteria或criterions)标准，尺度",
+      "similar": [
+        "conversion"
+      ],
+      "question": {
+        "wordId": "criterion",
+        "stem": "选择 \"criterion\" 的正确中文意思：",
+        "correct": "n.(pl.criteria或criterions)标准，尺度",
+        "options": [
+          "n.(pl.criteria或criterions)标准，尺度",
+          "n.转变，转换；信仰的改变；",
+          "a.球形的;全球的,全世界的;全面的",
+          "n.大炮,火炮"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语krites（判断者），由krinein（分开、决定）衍生。词根crit-意为“判断、区分”，-erion为工具/手段后缀。核心动作：用于“区分”好坏对错的工具，即判断的尺度。",
+        "similarWarning": "criterion vs conversion：criterion含字母组合crit-（判断）；conversion含con-（共同）+vers-（转），词根不同。criterion指判断标准，conversion指转变、转换，拼写差异在crit与conver。",
+        "extendedMeaning": "在考研阅读中常指“衡量事物价值的决定性标准”，如“the criterion for success”（成功的决定性标准），强调其作为判断依据的严格性，非普通标准。",
+        "examUsage": "注意真题中criterion的复数形式criteria常作为主谓一致考点，如“The criteria are...”（主语复数，谓语用are），以及搭配“meet/satisfy the criteria”（符合标准）作为细节题定位点。"
+      }
+    },
+    {
+      "id": "critic",
+      "word": "critic",
+      "phonetic": "/'kritik/",
+      "meaning": "n.批评家,评论家",
+      "similar": [
+        "critical",
+        "clinic",
+        "crisis",
+        "artistic"
+      ],
+      "question": {
+        "wordId": "critic",
+        "stem": "选择 \"critic\" 的正确中文意思：",
+        "correct": "n.批评家,评论家",
+        "options": [
+          "n.(pl.crises)危机,紧要关头",
+          "n.诊所",
+          "a.批评的,评论的;危急,紧要的;临界的",
+          "n.批评家,评论家"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自希腊语kritikos（判断的），由krinein（判断、区分）派生。核心动作是“区分好坏”，即进行评判的人。",
+        "similarWarning": "critical（关键的；批评的）与critic拼写相近，但critical是形容词；clinic（诊所）与critic拼写相似但无关；crisis（危机）与critic仅差一个字母，但词义完全不同；artistic（艺术的）与critic有相似后缀，但词根不同。",
+        "extendedMeaning": "在考研语境中，critic可引申为“持反对意见者”或“挑剔的人”，不限于正式评论家。",
+        "examUsage": "常与of搭配，如a critic of the policy（政策的批评者）；在阅读中可能作为观点题的题眼，需注意其情感倾向（负面）。"
+      }
+    },
+    {
+      "id": "critical",
+      "word": "critical",
+      "phonetic": "/'kritikəl/",
+      "meaning": "a.批评的,评论的;危急,紧要的;临界的",
+      "similar": [
+        "critic",
+        "criminal",
+        "criticism",
+        "criticize",
+        "political",
+        "practical",
+        "ritual",
+        "crucial"
+      ],
+      "question": {
+        "wordId": "critical",
+        "stem": "选择 \"critical\" 的正确中文意思：",
+        "correct": "a.批评的,评论的;危急,紧要的;临界的",
+        "options": [
+          "n.罪犯,刑事犯 a.犯罪的,刑事的",
+          "n.评论性的文章，评论；批评，指责，非难",
+          "n.批评家,评论家",
+          "a.批评的,评论的;危急,紧要的;临界的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根crit-（判断，分辨）+-ical（形容词后缀）。核心动作是‘做出判断’，引申为‘批评的’（判断优劣）和‘紧要的’（需要决断的关头）。",
+        "similarWarning": "critical vs crucial：critical强调‘批评的’或‘危机中的’，crucial强调‘决定性的’（如十字路口）。critic（批评家）是名词，critical是其形容词。",
+        "extendedMeaning": "考研常考‘关键的，决定性的’（非字面‘批评的’），如critical thinking（批判性思维）中的‘批判性’实为‘审慎判断’。",
+        "examUsage": "高频搭配：critical to/for（对…至关重要），如“Critical to the success of the project is…”（真题阅读）。be critical of（批评）也常考。"
+      }
+    },
+    {
+      "id": "criticism",
+      "word": "criticism",
+      "phonetic": "/'krɪtɪsɪzəm/",
+      "meaning": "n.评论性的文章，评论；批评，指责，非难",
+      "similar": [
+        "criticize",
+        "critical",
+        "capitalism"
+      ],
+      "question": {
+        "wordId": "criticism",
+        "stem": "选择 \"criticism\" 的正确中文意思：",
+        "correct": "n.评论性的文章，评论；批评，指责，非难",
+        "options": [
+          "v.(criticise)批评,评论",
+          "n.评论性的文章，评论；批评，指责，非难",
+          "n.资本主义",
+          "a.批评的,评论的;危急,紧要的;临界的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自希腊语kritikos（判断，辨别），词根kri-（分开，筛选）→ 进行区分判断的行为。核心动作：通过区分好坏来做出评价。",
+        "similarWarning": "criticize（v.批评，评论）与criticism同根，但词性不同；critical（adj.批评的，关键的）强调判断属性；capitalism（n.资本主义）拼写相似但词根capit-（头）无关，注意-ism后缀与criticism中的-ism同形异义。",
+        "extendedMeaning": "在考研阅读中常引申为\"（专业领域的）评论性文章或著述\"，如literary criticism（文学评论），而非日常生活中的负面指责。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "criticize",
+      "word": "criticize",
+      "phonetic": "/'krɪtɪsaɪz/",
+      "meaning": "v.(criticise)批评,评论",
+      "similar": [
+        "criticism",
+        "civilize",
+        "critical"
+      ],
+      "question": {
+        "wordId": "criticize",
+        "stem": "选择 \"criticize\" 的正确中文意思：",
+        "correct": "v.(criticise)批评,评论",
+        "options": [
+          "a.批评的,评论的;危急,紧要的;临界的",
+          "n.评论性的文章，评论；批评，指责，非难",
+          "v.(=civilise)使文明,开化",
+          "v.(criticise)批评,评论"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "critic- (判断、区分) + -ize (动词后缀) → 做出判断 → 批评、评论。源自希腊语kritikos (善于判断的)，核心动作是“区分好坏后给出评价”。",
+        "similarWarning": "criticism (n.批评，名词形式) vs. civilize (v.使文明，civ-表“公民”) vs. critical (adj.批评的；关键的，-al形容词后缀)。criticize侧重动词“批评”动作，critical强调“挑剔的”或“决定性的”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "crop",
+      "word": "crop",
+      "phonetic": "/krɔp/",
+      "meaning": "n.作物,庄稼;(谷类等的)一熟收成;一批,大量",
+      "similar": [
+        "cop",
+        "chop",
+        "crow",
+        "drop",
+        "creep",
+        "crisp",
+        "crowd",
+        "crown"
+      ],
+      "question": {
+        "wordId": "crop",
+        "stem": "选择 \"crop\" 的正确中文意思：",
+        "correct": "n.作物,庄稼;(谷类等的)一熟收成;一批,大量",
+        "options": [
+          "v.砍,劈,斩 n.排骨,肉块",
+          "n.作物,庄稼;(谷类等的)一熟收成;一批,大量",
+          "n.乌鸦 v./n.鸡啼,鸣叫",
+          "n.警察(slang 俚语)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "crop 源自原始日耳曼语 *kruppaz，本义是‘弯曲、隆起的东西’，后引申为‘植物上弯曲的穗头’→‘庄稼的收成’→‘作物’。核心动作是‘弯曲聚集’，与收成时作物被割下聚拢的画面相关。",
+        "similarWarning": "形近词对比：\n- cop: 警察，拼写少字母 'r'，词义无关联。\n- chop: 砍、剁，拼写中 'ch' 替代 'cr'，动作不同。\n- crow: 乌鸦，拼写少 'p' 加 'w'，词义无关。\n- drop: 滴落，拼写中 'dr' 替代 'cr'，动作方向不同。\n- creep: 爬行，拼写中 'ee' 替代 'o'，动作缓慢。\n- crisp: 脆的，拼写中 'isp' 替代 'op'，形容质地。\n- cross: 交叉，拼写中 'ss' 替代 'p'，动作方向。\n- crowd: 人群，拼写中 'wd' 替代 'p'，词义聚集但不同源。",
+        "extendedMeaning": "考研僻义：\n1. (动词) 剪短，修剪（如头发、动物毛、植物枝叶），例：crop one's hair。\n2. (名词) 一批，大量（指同时出现的事物），例：a crop of new students。",
+        "examUsage": "真题考点：\n核心搭配：crop up（突然出现，意外发生），在完形或阅读中常作为动词短语考查，表示问题、话题等突然被提及或出现。例：Problems cropped up at the last minute. 注意与 grow up（成长）区分。"
+      }
+    },
+    {
+      "id": "crow",
+      "word": "crow",
+      "phonetic": "/krəu/",
+      "meaning": "n.乌鸦 v./n.鸡啼,鸣叫",
+      "similar": [
+        "crowd",
+        "crown",
+        "cow",
+        "row",
+        "brow",
+        "crew",
+        "crop",
+        "arrow"
+      ],
+      "question": {
+        "wordId": "crow",
+        "stem": "选择 \"crow\" 的正确中文意思：",
+        "correct": "n.乌鸦 v./n.鸡啼,鸣叫",
+        "options": [
+          "n.母牛,奶牛",
+          "n.王冠,冕;君权,君王 v.为…加冕",
+          "n.人群;一群,一伙 v.聚集,群集;挤满,拥挤",
+          "n.乌鸦 v./n.鸡啼,鸣叫"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟乌鸦的叫声“呱呱”，转化为动词表示鸡鸣或得意洋洋的啼叫。",
+        "similarWarning": "crowd（人群，拥挤），crown（王冠，加冕），cow（母牛，威胁），row（行，划船），brow（眉毛，额头），crew（全体船员，工作人员），crop（庄稼，修剪），grow（生长，增加）。",
+        "extendedMeaning": "v. 得意扬扬，自鸣得意（如：He crowed about his success.）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "crowd",
+      "word": "crowd",
+      "phonetic": "/kraud/",
+      "meaning": "n.人群;一群,一伙 v.聚集,群集;挤满,拥挤",
+      "similar": [
+        "crow",
+        "crown",
+        "cow",
+        "rod",
+        "row",
+        "brow",
+        "cord",
+        "crew"
+      ],
+      "question": {
+        "wordId": "crowd",
+        "stem": "选择 \"crowd\" 的正确中文意思：",
+        "correct": "n.人群;一群,一伙 v.聚集,群集;挤满,拥挤",
+        "options": [
+          "n.母牛,奶牛",
+          "n.王冠,冕;君权,君王 v.为…加冕",
+          "n.乌鸦 v./n.鸡啼,鸣叫",
+          "n.人群;一群,一伙 v.聚集,群集;挤满,拥挤"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "crowd源自古英语crūdan，意为‘推挤、压紧’，核心物理动作是‘相互推挤而聚集’。词根与‘挤’相关，引申出‘人群’（挤在一起的人）、‘聚集’（挤到一起）和‘挤满’（空间被挤占）等含义。",
+        "similarWarning": "crow（乌鸦） vs crowd：crow少字母d，词义为鸟或啼叫；crowd强调人群聚集。crown（王冠） vs crowd：crown含字母n，词义为冠冕；crowd无此义。cow（母牛） vs crowd：cow少字母rd，且词义不同；crowd为人群。",
+        "extendedMeaning": "考研中crowd常作动词，表示‘挤满、塞满’，如‘crowd the streets’（挤满街道）；或引申为‘大量涌入’（crowd into）。",
+        "examUsage": "真题考点：crowd常与介词with搭配，如‘be crowded with’（挤满）；或作动词短语‘crowd around’（围聚）。例句：‘The square was crowded with people.’（广场挤满了人。）"
+      }
+    },
+    {
+      "id": "crown",
+      "word": "crown",
+      "phonetic": "/kraun/",
+      "meaning": "n.王冠,冕;君权,君王 v.为…加冕",
+      "similar": [
+        "crow",
+        "brown",
+        "crowd",
+        "drown",
+        "frown",
+        "cow",
+        "row",
+        "brow"
+      ],
+      "question": {
+        "wordId": "crown",
+        "stem": "选择 \"crown\" 的正确中文意思：",
+        "correct": "n.王冠,冕;君权,君王 v.为…加冕",
+        "options": [
+          "n./a.褐色(的),棕色(的)",
+          "n.王冠,冕;君权,君王 v.为…加冕",
+          "n.人群;一群,一伙 v.聚集,群集;挤满,拥挤",
+          "n.乌鸦 v./n.鸡啼,鸣叫"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根与物理动作：源自拉丁语corona（环、花冠），核心动作为“环绕头顶形成环形”。引申为“王冠”（戴在头上的环）、“加冕”（戴上王冠的动作），再抽象为“君权/君王”（王冠象征权力）。",
+        "similarWarning": "crow（乌鸦，n.）、brown（棕色，adj.）、crowd（人群，n./v.）、drown（溺死，v.）、frown（皱眉，v.）——注意crown与crow相差字母'n'，与crowd相差字母'd'，与drown字母顺序不同（d-r-o-w-n vs c-r-o-w-n）。",
+        "extendedMeaning": "考研僻义：①（动词）使圆满，使达到顶峰（to crown sth. with success使某事以成功告终）；②（名词）顶部，顶峰（the crown of a hill山顶）。",
+        "examUsage": "真题考点：crown常作为“加冕”动词出现在历史类阅读中，或作为“王冠”名词在文学/政治类文本中；注意crown与crowd（人群）形近干扰，易在完形中误选。"
+      }
+    },
+    {
+      "id": "crucial",
+      "word": "crucial",
+      "phonetic": "/'kru:ʃəl/",
+      "meaning": "a.至关重要的,决定性的",
+      "similar": [
+        "racial",
+        "criminal",
+        "critical"
+      ],
+      "question": {
+        "wordId": "crucial",
+        "stem": "选择 \"crucial\" 的正确中文意思：",
+        "correct": "a.至关重要的,决定性的",
+        "options": [
+          "a.至关重要的,决定性的",
+          "a.种的,种族的",
+          "a.批评的,评论的;危急,紧要的;临界的",
+          "n.罪犯,刑事犯 a.犯罪的,刑事的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根cruc-（十字，交叉）+-ial（形容词后缀）。核心动作：处于十字路口（交叉点）→ 关键节点 → 决定性的、至关重要的。",
+        "similarWarning": "形近词辨析：① racial（人种的，种族的）：raci-（种族）+al，拼写差异在'c' vs 'cru'。② criminal（犯罪的）：crimin-（罪）+al，拼写差异在'cru' vs 'crim'。③ critical（批评的，关键的）：crit-（判断）+ical，与crucial同表'关键的'但critical侧重批评或危急时刻，crucial侧重决定性节点。",
+        "extendedMeaning": "在考研真题中常引申为'关键性的（指对结果有决定性影响的）'，如crucial factor（关键因素）、crucial moment（紧要关头）。",
+        "examUsage": "真题考点：常用搭配'be crucial to/for...'（对…至关重要）。例：The success of this experiment is crucial to the project.（这个实验的成功对这个项目至关重要。）干扰项常与critical、vital混用，但crucial强调'转折点性质的关键'。"
+      }
+    },
+    {
+      "id": "crude",
+      "word": "crude",
+      "phonetic": "/kru:d/",
+      "meaning": "a.天然的,未加工的;未熟的;粗鲁的,粗野的",
+      "similar": [
+        "rude",
+        "cradle",
+        "cruise",
+        "cue",
+        "clue",
+        "code",
+        "cube",
+        "cure"
+      ],
+      "question": {
+        "wordId": "crude",
+        "stem": "选择 \"crude\" 的正确中文意思：",
+        "correct": "a.天然的,未加工的;未熟的;粗鲁的,粗野的",
+        "options": [
+          "v.巡航；以节省燃料的速度前进 n.乘船巡游",
+          "n.摇篮;发源地",
+          "a.粗鲁的;猛烈的,残暴的;粗糙的,粗陋的",
+          "a.天然的,未加工的;未熟的;粗鲁的,粗野的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语crudus‘血的，生的’，与cruor‘血’同源。核心物理动作为‘生肉流血状态’，引申为‘未经加工的天然状态’（如原油crude oil）和‘未受文明修饰的粗野态度’。",
+        "similarWarning": "rude（粗鲁的）：crude侧重‘未加工/原始粗糙’；rude侧重‘缺乏教养/无礼’。cradle（摇篮）：拼写差异‘d vs a’，含义无关。cruise（巡航）：拼写差异‘d vs s’，动作类词汇。cue（提示）：拼写差异‘d vs e’，名词。clue（线索）：拼写差异‘d vs l’，名词。code（代码）：拼写差异‘ru vs o’，名词。cube（立方体）：拼写差异‘rud vs ub’，形状类。cure（治愈）：拼写差异‘rud vs ur’，动作类。",
+        "extendedMeaning": "考研中常考‘未加工的’义项，如crude oil（原油）、crude materials（原材料）。‘粗鲁的’义项在完形中可能作为rude的同义替换。",
+        "examUsage": "真题考点：crude常与raw、unprocessed同义复现。固定搭配：crude oil（原油，经济类阅读高频词）。例句：The country relies heavily on exports of crude oil.（该国严重依赖原油出口。）"
+      }
+    },
+    {
+      "id": "cruel",
+      "word": "cruel",
+      "phonetic": "/'kru:əl/",
+      "meaning": "a.残忍的,残酷的",
+      "similar": [
+        "cue",
+        "clue",
+        "crew",
+        "curl",
+        "fuel",
+        "reel",
+        "camel",
+        "crawl"
+      ],
+      "question": {
+        "wordId": "cruel",
+        "stem": "选择 \"cruel\" 的正确中文意思：",
+        "correct": "a.残忍的,残酷的",
+        "options": [
+          "a.残忍的,残酷的",
+          "n.线索,暗示",
+          "n.全体船员,全体乘务员",
+          "暗示, 提示, 球杆"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语crudelis，与crudus（生的，粗糙的）同源，核心动作是“未加工的、未经文明修饰的”，引申为对痛苦或伤害的冷漠与野蛮，强调故意施加痛苦的本性。",
+        "similarWarning": "cue（提示） vs clue（线索） vs crew（全体人员） vs curl（卷曲） vs fuel（燃料） vs reel（卷轴） vs true（真实的） vs camel（骆驼）：拼写上cruel含‘cru-’核心，其他词无此词根，且词义无关。",
+        "extendedMeaning": "在考研英语中，cruel可引申为‘严酷的、无情的’，如cruel winter（严冬），cruel reality（残酷的现实），强调环境或事实的冷酷性，非仅指人的行为。",
+        "examUsage": "常见于阅读理解中作为态度词，如‘cruel treatment’（残忍对待），或与‘merciless’‘ruthless’构成同义替换。无特殊固定搭配，注意与‘crude’（粗糙的）区分。"
+      }
+    },
+    {
+      "id": "cruise",
+      "word": "cruise",
+      "phonetic": "/kru:z/",
+      "meaning": "v.巡航；以节省燃料的速度前进 n.乘船巡游",
+      "similar": [
+        "bruise",
+        "arise",
+        "crime",
+        "crisp",
+        "crude",
+        "crush",
+        "crust",
+        "curse"
+      ],
+      "question": {
+        "wordId": "cruise",
+        "stem": "选择 \"cruise\" 的正确中文意思：",
+        "correct": "v.巡航；以节省燃料的速度前进 n.乘船巡游",
+        "options": [
+          "n.罪行,犯罪",
+          "v.巡航；以节省燃料的速度前进 n.乘船巡游",
+          "v.出现，发生；(from)由…引起，由…产生",
+          "n.青肿，挫伤；伤痕vt.打青；挫伤"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源于荷兰语 'kruisen'（交叉、横穿），最初指船只在海上交叉航行，后引申为以特定速度巡航。核心物理动作是‘有目的地穿行于特定路线’，区别于随机航行。",
+        "similarWarning": "bruise（淤青，v./n.）与 cruise 仅首字母 'b' 替换 'c'，拼写差异小但词义无关联；crush（压碎，v.）与 cruise 结尾 'sh' 替换 'se'，易混淆拼写，注意词根不同。",
+        "extendedMeaning": "在考研真题中常考‘以节省燃料的速度行驶（v.）’，如‘cruise at 60 mph’，非字面‘巡航’；另可指‘（车辆、飞机）平稳行驶’，如‘cruise on the highway’。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "crush",
+      "word": "crush",
+      "phonetic": "/krʌʃ/",
+      "meaning": "n./v.压碎,压坏 v.压服,压垮",
+      "similar": [
+        "rush",
+        "brush",
+        "crash",
+        "crust",
+        "cruise",
+        "bush",
+        "cash",
+        "push"
+      ],
+      "question": {
+        "wordId": "crush",
+        "stem": "选择 \"crush\" 的正确中文意思：",
+        "correct": "n./v.压碎,压坏 v.压服,压垮",
+        "options": [
+          "v.(使)冲;奔n.冲,急速行进 a.(交通)繁忙的",
+          "n./v.压碎,压坏 v.压服,压垮",
+          "v./n.碰撞,坠落,摔坏 n.失败,瓦解;爆裂声",
+          "n.刷(子),毛刷;画笔 v.刷,擦,掸,拂;掠过"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "拟声词源，模拟重物压碎物体时发出的“咔嚓”声。核心物理动作为施加巨大压力使物体变形、破裂或粉碎，引申为精神或组织上的压倒性打击。",
+        "similarWarning": "crush vs crash: crush强调压碎、压坏（向内挤压）；crash强调撞击、坠毁（猛烈碰撞）。crush vs crust: crust是外壳、地壳；crush是压碎。",
+        "extendedMeaning": "（考研僻义）迷恋、热恋的对象（n.）：指短暂、强烈但不一定持久的喜欢，如“a schoolgirl crush”。",
+        "examUsage": "（真题考点）crush out of 榨出、挤出：crush the juice out of the orange。crush into 挤入、塞进：They crushed into the small room. 常用于表示拥挤或压制。"
+      }
+    },
+    {
+      "id": "crust",
+      "word": "crust",
+      "phonetic": "/krʌst/",
+      "meaning": "n.外皮,壳;地壳",
+      "similar": [
+        "rust",
+        "crush",
+        "trust",
+        "christ",
+        "cruise",
+        "thrust",
+        "cast",
+        "dust"
+      ],
+      "question": {
+        "wordId": "crust",
+        "stem": "选择 \"crust\" 的正确中文意思：",
+        "correct": "n.外皮,壳;地壳",
+        "options": [
+          "n./v.压碎,压坏 v.压服,压垮",
+          "n.铁锈 v.(使)生锈",
+          "n.外皮,壳;地壳",
+          "vt.信任;盼望;委托 n.(in)信任,依赖;委托"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根源于古法语croste，最终来自拉丁语crusta（硬壳、外皮）。核心物理动作为“覆盖、包裹后变硬”，指物体表面形成的坚硬外层。",
+        "similarWarning": "crust vs crush：crust（外皮）含字母t，表硬壳；crush（压碎）含字母h，表挤压动作。crust vs thrust：thrust（推力）含th，表猛推；crust无th。",
+        "extendedMeaning": "在考研中常引申为“地壳”（the earth's crust），或比喻义“外壳、表层”（如a thin crust of ice）。",
+        "examUsage": "真题中常以“the earth's crust”（地壳）出现，搭配“crustal movement”（地壳运动）或“crustacean”（甲壳动物）等派生词。"
+      }
+    },
+    {
+      "id": "crystal",
+      "word": "crystal",
+      "phonetic": "/'kristəl/",
+      "meaning": "n.水晶,水晶饰品;结晶 a.水晶的,透明的",
+      "similar": [],
+      "question": {
+        "wordId": "crystal",
+        "stem": "选择 \"crystal\" 的正确中文意思：",
+        "correct": "n.水晶,水晶饰品;结晶 a.水晶的,透明的",
+        "options": [
+          "a.已废弃的,过时的",
+          "a.圆(形)的,环形的;循环的 n.传单,通报",
+          "n.水晶,水晶饰品;结晶 a.水晶的,透明的",
+          "a.认知的，认识能力的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自希腊语krystallos，原义为‘冰’，因古人认为水晶是冻得极硬的冰。词根kry-表示‘寒冷、冻结’，与cryo-（冷冻）同源。核心物理动作：水分子在低温下缓慢排列成规则晶格，形成透明固体。引申为任何结晶形成的透明物质。",
+        "similarWarning": "",
+        "extendedMeaning": "考研中常考‘结晶’的抽象义，如‘a crystal of truth’（真理的结晶），或指‘水晶般透明的’，如‘crystal clear explanation’（极其清晰的解释）。",
+        "examUsage": "在考研阅读中，crystal常以比喻义出现，如‘crystal-clear logic’（清晰的逻辑），或与‘structure’搭配表示‘晶体结构’，如‘the crystal structure of a material’。无特殊固定搭配，但需注意其形容词用法。"
+      }
+    },
+    {
+      "id": "cube",
+      "word": "cube",
+      "phonetic": "/kju:b/",
+      "meaning": "n.立方形,立方体;立方,三次幂",
+      "similar": [
+        "cue",
+        "cure",
+        "tube",
+        "acute",
+        "cable",
+        "crude",
+        "curse",
+        "curve"
+      ],
+      "question": {
+        "wordId": "cube",
+        "stem": "选择 \"cube\" 的正确中文意思：",
+        "correct": "n.立方形,立方体;立方,三次幂",
+        "options": [
+          "n.管,软管;电子管,显像管;地铁",
+          "v.(of)治愈,医治;矫正 n.治愈,痊愈;良药",
+          "暗示, 提示, 球杆",
+          "n.立方形,立方体;立方,三次幂"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语kubos，原指“骰子”，后引申为数学中的“立方体”。核心物理动作是“一个六面相等的立体”，词义演变单纯，从具体骰子到抽象的三次幂。",
+        "similarWarning": "cue（暗示，线索）：字母差异在于b→e，cube强调立体，cue强调信号。cure（治愈）：字母差异在于b→r，cube为名词，cure为动词/名词。tube（管子）：字母差异在于c→t，cube为立体，tube为管状。",
+        "extendedMeaning": "在考研中常考其数学引申义“三次幂”，如cube root（立方根），或用于比喻“立方体形状的空间”，如ice cube（冰块）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "cucumber",
+      "word": "cucumber",
+      "phonetic": "/'kju:kʌmbə/",
+      "meaning": "n.黄瓜",
+      "similar": [
+        "lumber",
+        "chamber",
+        "plumber",
+        "december"
+      ],
+      "question": {
+        "wordId": "cucumber",
+        "stem": "选择 \"cucumber\" 的正确中文意思：",
+        "correct": "n.黄瓜",
+        "options": [
+          "n.黄瓜",
+          "n.房间，室；会议室；议院；(动物体内)腔室",
+          "n.木材,木料",
+          "n.(装修水管的)管子工"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能与拉丁语cucumis（黄瓜）相关。核心物理动作：一种可食用的绿色长条形蔬菜，表面有刺或疙瘩。",
+        "similarWarning": "lumber（木材）vs cucumber（黄瓜）：lumber以l开头，cucumber以cu开头；number（数字）vs cucumber：number以num开头，cucumber以cu开头；chamber（房间）vs cucumber：chamber以cham开头，cucumber以cu开头；plumber（水管工）vs cucumber：plumber以plum开头，cucumber以cu开头；december（十二月）vs cucumber：december以dec开头，cucumber以cu开头。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "cue",
+      "word": "cue",
+      "phonetic": "/kju:/",
+      "meaning": "暗示, 提示, 球杆",
+      "similar": [
+        "clue",
+        "cube",
+        "cure",
+        "due",
+        "sue",
+        "acute",
+        "crude",
+        "cruel"
+      ],
+      "question": {
+        "wordId": "cue",
+        "stem": "选择 \"cue\" 的正确中文意思：",
+        "correct": "暗示, 提示, 球杆",
+        "options": [
+          "v.(of)治愈,医治;矫正 n.治愈,痊愈;良药",
+          "暗示, 提示, 球杆",
+          "n.线索,暗示",
+          "n.立方形,立方体;立方,三次幂"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语quando（当…时），后缩写为Q，用于戏剧剧本中标记演员何时登台或接话，Q即表示‘提示、信号’。核心动作：给出一个触发信号。",
+        "similarWarning": "clue（线索，拼写多l）vs cue（暗示，拼写无l）；cube（立方体，拼写有b）vs cue；cure（治愈，拼写有r）vs cue；cup（杯子，拼写有p）vs cue；cut（切割，拼写有t）vs cue；due（到期的，拼写有d）vs cue；sue（起诉，拼写有s）vs cue；acute（急性的，拼写有a）vs cue。",
+        "extendedMeaning": "考研僻义：作为动词，意为‘给…暗示、提醒’，常用于‘cue sb. in’（提示某人）；作为名词，在心理学或计算机领域可指‘刺激、信号’。",
+        "examUsage": "真题考点：固定搭配‘take one's cue from’（效仿、听从…的暗示/指点）。例句：Managers often take their cue from the market trends.（经理们常以市场趋势为风向标。）"
+      }
+    },
+    {
+      "id": "cultivate",
+      "word": "cultivate",
+      "phonetic": "/'kʌltiveit/",
+      "meaning": "v.耕作,栽培,养殖;培养,教养,磨炼",
+      "similar": [
+        "ultimate",
+        "climate",
+        "activate",
+        "motivate"
+      ],
+      "question": {
+        "wordId": "cultivate",
+        "stem": "选择 \"cultivate\" 的正确中文意思：",
+        "correct": "v.耕作,栽培,养殖;培养,教养,磨炼",
+        "options": [
+          "a.最后的,最终的;根本的",
+          "vt.启动，激活；驱动，驱使；使开始起作用",
+          "v.耕作,栽培,养殖;培养,教养,磨炼",
+          "n.气候;风气,社会思潮"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'cultus'（耕耘、照料）+-iv-+-ate（动词后缀）。核心物理动作是“用犁翻土、照料作物”，引申为“培养、发展”。",
+        "similarWarning": "cultivate vs. ultimate（最终的）：culti（照料）+vate vs. ultim（最后）+ate；climate（气候）：cli（倾斜）+mate，无“培养”义；activate（激活）：act（行动）+ivate，强调启动。",
+        "extendedMeaning": "（考研僻义）培养（非字面）：指有意识地发展某种技能、态度或关系，如 cultivate a habit（养成习惯）、cultivate a network（经营人脉）。",
+        "examUsage": "（真题考点）常考搭配：cultivate the ability to...（培养……能力），及被动形式 be cultivated（被培养）。干扰项常与 create（创造）、develop（发展）混淆，但 cultivate 更强调“精心培育”的过程。"
+      }
+    },
+    {
+      "id": "culture",
+      "word": "culture",
+      "phonetic": "/'kʌltʃə/",
+      "meaning": "n.文化,文明;修养;耕种；栽培,培育;",
+      "similar": [
+        "sculpture",
+        "capture",
+        "nurture",
+        "creature"
+      ],
+      "question": {
+        "wordId": "culture",
+        "stem": "选择 \"culture\" 的正确中文意思：",
+        "correct": "n.文化,文明;修养;耕种；栽培,培育;",
+        "options": [
+          "n./v.养育,教育,教养 n.营养品v.给与营养物",
+          "v./n.捕获,俘虏;夺得,攻占",
+          "n.雕刻(术)，雕塑(术)；雕刻作品",
+          "n.文化,文明;修养;耕种；栽培,培育;"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'cultura'，意为'耕作、照料'，词根'cult-'(耕种,培养) + -ure(名词后缀，表行为或结果)。核心动作为'对土地或心智的照料与培育'，引申为'文化、文明'（对心智的培育结果）和'修养'（个人内在的培育状态）。",
+        "similarWarning": "形近词对比：capture [c+apt+ure] 捕获，强调'抓住'；nurture [nur+ture] 养育，强调'喂养与培养'；sculpture [sculpt+ure] 雕刻，强调'塑形'。区别在于词根'cult-'侧重'耕种/培养'，而其他词根分别指向'抓、喂养、雕刻'。",
+        "extendedMeaning": "在考研真题中常考僻义：'微生物培养'（如bacterial culture细菌培养）及'社会群体的习俗与信仰体系'（如corporate culture企业文化），后者为高频引申义。",
+        "examUsage": "真题考点：固定搭配'culture shock'（文化冲击）常作为阅读理解中跨文化主题的题眼；'high culture'（高雅文化）与'popular culture'（大众文化）的对比分析是常见干扰项设置点。"
+      }
+    },
+    {
+      "id": "cunning",
+      "word": "cunning",
+      "phonetic": "/'kʌniŋ/",
+      "meaning": "a./n.狡猾(的),狡诈(的)",
+      "similar": [],
+      "question": {
+        "wordId": "cunning",
+        "stem": "选择 \"cunning\" 的正确中文意思：",
+        "correct": "a./n.狡猾(的),狡诈(的)",
+        "options": [
+          "n.胡须",
+          "a./n.狡猾(的),狡诈(的)",
+          "a./n.受爱戴的,敬爱的;爱人,被心爱的人",
+          "n.(rumour)传闻,谣言"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根词源不详，可能源自古英语‘cunnan’（知道），本义为‘知道如何做’，后演变为‘有技巧的’，进而引申为‘狡猾的’（利用技巧欺骗）。核心动作：知道如何巧妙行事→利用知识或技能达成目的，常含贬义。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研外刊中，可引申为‘巧妙的、精巧的’（指非欺骗性的技艺或设计），如‘a cunning plan’（巧妙的计划）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "cupboard",
+      "word": "cupboard",
+      "phonetic": "/'kʌbəd/",
+      "meaning": "n.碗柜,小橱",
+      "similar": [
+        "aboard",
+        "uproar",
+        "upward",
+        "keyboard"
+      ],
+      "question": {
+        "wordId": "cupboard",
+        "stem": "选择 \"cupboard\" 的正确中文意思：",
+        "correct": "n.碗柜,小橱",
+        "options": [
+          "a.向上的,上升的 ad.向上",
+          "n.骚动,喧嚣,鼎沸",
+          "ad.&prep.在船(飞机、车)上；ad.上船(飞机)",
+          "n.碗柜,小橱"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "cup（杯子）+ board（木板/搁板）→ 放杯子的木板架子 → 碗柜、小橱。物理动作：杯具置于木板上。",
+        "similarWarning": "aboard（a-在…上+board板→在船上/登机）vs cupboard（cup杯+board板→碗柜）。差异：aboard前缀a-表“在…上”，cupboard前缀cup表“杯子”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "curb",
+      "word": "curb",
+      "phonetic": "/kə:b/",
+      "meaning": "n.路边，场外证券市场，vt.制止，抑制",
+      "similar": [
+        "cure",
+        "curl",
+        "court",
+        "curse",
+        "curve"
+      ],
+      "question": {
+        "wordId": "curb",
+        "stem": "选择 \"curb\" 的正确中文意思：",
+        "correct": "n.路边，场外证券市场，vt.制止，抑制",
+        "options": [
+          "n.法院,法庭;宫廷,朝廷;院子;球场",
+          "n.路边，场外证券市场，vt.制止，抑制",
+          "v.(使)卷曲,蜷缩 n.卷发;卷曲状;卷曲物",
+          "v.(of)治愈,医治;矫正 n.治愈,痊愈;良药"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能来自拉丁语curvus（弯曲），核心物理动作为“使弯曲”，引申为“抑制、制止”如将马勒住使其弯向路边。名词“路边”即马路弯曲处或边缘。",
+        "similarWarning": "cure（治疗），curl（卷曲），court（法庭），curse（诅咒），curve（曲线）。差异在末尾辅音：curb以-b结尾，强调“勒住”动作；curve以-ve结尾，强调“弯曲”形态。",
+        "extendedMeaning": "n.场外证券市场（非正式交易市场，区别于交易所），如curb market（场外市场）。vt.限制、控制（非暴力制止），如curb inflation（抑制通货膨胀）。",
+        "examUsage": "真题考点：curb常与check, restrain同义替换。固定搭配：curb one's anger（抑制愤怒），curb spending（限制开支）。例句：The government took measures to curb the spread of the virus.（政府采取措施遏制病毒传播。）"
+      }
+    },
+    {
+      "id": "cure",
+      "word": "cure",
+      "phonetic": "/kjuə/",
+      "meaning": "v.(of)治愈,医治;矫正 n.治愈,痊愈;良药",
+      "similar": [
+        "curse",
+        "curve",
+        "cue",
+        "care",
+        "core",
+        "cube",
+        "curb",
+        "curl"
+      ],
+      "question": {
+        "wordId": "cure",
+        "stem": "选择 \"cure\" 的正确中文意思：",
+        "correct": "v.(of)治愈,医治;矫正 n.治愈,痊愈;良药",
+        "options": [
+          "n.曲线,弯曲(物) v.弄弯,成曲形",
+          "n.诅咒,咒语,祸因 vt.诅咒,咒骂,使受罪",
+          "v.(of)治愈,医治;矫正 n.治愈,痊愈;良药",
+          "暗示, 提示, 球杆"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语cura（照料、关心）。核心动作是‘关注并处理问题使其恢复健康’，从医疗治愈引申为解决问题或矫正缺陷。",
+        "similarWarning": "curse（诅咒）：cure是‘治愈’，curse是‘诅咒’，区别在r/s。curve（曲线）：cure无v，curve有v。cue（提示）：cure有r，cue无r。",
+        "extendedMeaning": "考研中常引申为‘解决问题的方法’或‘矫正措施’，如a cure for inflation（解决通胀的方法），而非仅指医疗。",
+        "examUsage": "常见搭配beyond cure（无法治愈/无可救药），在真题中可能作为干扰项出现，需区分其具体语境下的引申义。"
+      }
+    },
+    {
+      "id": "curiosity",
+      "word": "curiosity",
+      "phonetic": "/ˌkjuri'ɔsiti/",
+      "meaning": "n.好奇心;古董,古玩",
+      "similar": [
+        "priority",
+        "superiority"
+      ],
+      "question": {
+        "wordId": "curiosity",
+        "stem": "选择 \"curiosity\" 的正确中文意思：",
+        "correct": "n.好奇心;古董,古玩",
+        "options": [
+          "n.好奇心;古董,古玩",
+          "n.先,前;优先,重点,优先权",
+          "n.优越(性)，优势，优等；高傲，傲慢",
+          "n.樱桃(树)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语curiositas，词根cur-意为‘关心、注意’，-osity为抽象名词后缀。核心动作为‘对事物保持关注并想探究’，衍生出‘好奇心’；‘古董’义源于‘因罕见而引人好奇之物’的引申。",
+        "similarWarning": "priority n.优先(prior-先)；superiority n.优越(super-超)。curiosity强调探究欲，与其他两词无直接语义关联，注意拼写差异：curi- vs pri-/super-。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "curious",
+      "word": "curious",
+      "phonetic": "/'kjuəriəs/",
+      "meaning": "a.好奇的, 求知的, 古怪的, 爱挑剔的",
+      "similar": [
+        "furious",
+        "cautious",
+        "dubious",
+        "various",
+        "glorious"
+      ],
+      "question": {
+        "wordId": "curious",
+        "stem": "选择 \"curious\" 的正确中文意思：",
+        "correct": "a.好奇的, 求知的, 古怪的, 爱挑剔的",
+        "options": [
+          "a.怀疑的，无把握的；有问题的，靠不住的",
+          "a.好奇的, 求知的, 古怪的, 爱挑剔的",
+          "a.狂怒的,狂暴的,猛烈的",
+          "a.(of)小心的,谨慎的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'curiosus'（细心、好奇），由 'cura'（关心、照料）派生而来。'cura' 本义为“关心、留意”，引申为对事物保持细致关注的态度，从而衍生出“好奇的”和“求知的”含义。",
+        "similarWarning": "furious (狂怒的) vs curious: f-开头表愤怒爆发，c-开头表求知关注；cautious (谨慎的) vs curious: caution强调小心避害，curious强调主动探知；dubious (怀疑的) vs curious: dubious侧重不信任，curious侧重中性好奇。",
+        "extendedMeaning": "在考研阅读中常考“古怪的、奇特的”（如 a curious coincidence 奇特的巧合），以及“爱挑剔的、过分讲究的”（如 be curious about details 对细节挑剔）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "curl",
+      "word": "curl",
+      "phonetic": "/kə:l/",
+      "meaning": "v.(使)卷曲,蜷缩 n.卷发;卷曲状;卷曲物",
+      "similar": [
+        "curb",
+        "cure",
+        "hurl",
+        "aural",
+        "court",
+        "cruel",
+        "curse",
+        "curve"
+      ],
+      "question": {
+        "wordId": "curl",
+        "stem": "选择 \"curl\" 的正确中文意思：",
+        "correct": "v.(使)卷曲,蜷缩 n.卷发;卷曲状;卷曲物",
+        "options": [
+          "v.(of)治愈,医治;矫正 n.治愈,痊愈;良药",
+          "vt.猛投，力掷；大声叫骂",
+          "v.(使)卷曲,蜷缩 n.卷发;卷曲状;卷曲物",
+          "n.路边，场外证券市场，vt.制止，抑制"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根词源不确定，可能与中古英语'crul'（卷曲的）有关。核心物理动作是'使呈螺旋或环形弯曲'，如头发卷曲（curl hair）或身体蜷缩（curl up）。",
+        "similarWarning": "curb: 控制，抑制（b像刹车）；cure: 治疗（re像修复）；hurl: 猛投（h像抛掷动作）；aural: 听觉的（aur-耳）；court: 法庭（c+ourt）；cruel: 残忍的（cruel音似'哭'）；curse: 诅咒（se像恶语）；curve: 曲线（ve像弧线）。",
+        "extendedMeaning": "curl up: 蜷缩（身体）；curl of the lip: 撇嘴（表示轻蔑）；curl one's hair: 使惊骇（非字面，口语）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "currency",
+      "word": "currency",
+      "phonetic": "/'kərənsi/",
+      "meaning": "n.流传,流通；通货,货币",
+      "similar": [
+        "current",
+        "occurrence",
+        "correct"
+      ],
+      "question": {
+        "wordId": "currency",
+        "stem": "选择 \"currency\" 的正确中文意思：",
+        "correct": "n.流传,流通；通货,货币",
+        "options": [
+          "n.流传,流通；通货,货币",
+          "a.正确的,恰当的,端正的 v.改正,纠正,矫正",
+          "n.电流,水流;潮流,趋势 a.当前的;流通的",
+          "n.发生,出现;事件,事故,发生的事情"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"currere\"（跑、流动），后通过法语\"currence\"进入英语。词根\"curr-\"（跑）+\"-ency\"（名词后缀，表状态或性质）。核心物理动作是\"流动奔跑\"，引申为某物在人群中\"流传\"的状态（如思想、消息），进而指代作为交换媒介的\"货币\"，因其在社会中持续流通。\",\n  \"similarWarning\": \"current（adj./n. 当前的；水流/电流）vs currency：两者同源，但current强调\"正在流动的\"状态或自然现象（如电流），而currency侧重\"流通物\"本身（尤指货币）。对比词根：curr-（跑）+ -ent",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "current",
+      "word": "current",
+      "phonetic": "/'kʌrənt/",
+      "meaning": "n.电流,水流;潮流,趋势 a.当前的;流通的",
+      "similar": [
+        "currency",
+        "urgent",
+        "correct",
+        "torrent",
+        "coherent"
+      ],
+      "question": {
+        "wordId": "current",
+        "stem": "选择 \"current\" 的正确中文意思：",
+        "correct": "n.电流,水流;潮流,趋势 a.当前的;流通的",
+        "options": [
+          "a.正确的,恰当的,端正的 v.改正,纠正,矫正",
+          "a.急迫的，紧要的，紧急的",
+          "n.流传,流通；通货,货币",
+          "n.电流,水流;潮流,趋势 a.当前的;流通的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语currere（跑）的现在分词形式，核心动作是“跑”。cur-（跑）+ -rent（形容词后缀）= 正在跑的 → 水流/电流（流动之物）；引申为“当前的”（时间上正在跑的）。",
+        "similarWarning": "currency（n.货币，流通）与current同源但侧重“流通状态”；urgent（a.紧急的）词根urg-（驱赶）强调“催促”；correct（v./a.正确）词根rect-（直）；torrent（n.激流）词根torr-（热，干燥）；coherent（a.连贯的）词根co-（共同）+here-（粘着）。",
+        "extendedMeaning": "在考研阅读中常考“趋势”义，如economic current（经济趋势）；a.用法中“流通的”常指货币或观点（current opinion）。",
+        "examUsage": "高频搭配：current account（活期账户）；alternating current（交流电）。真题例句：The current emphasis on standardized tests...（当前对标准化测试的强调...）"
+      }
+    },
+    {
+      "id": "curriculum",
+      "word": "curriculum",
+      "phonetic": "/kə'rikjuləm/",
+      "meaning": "n.(pl.curricula)课程,(学校等的)全部课程",
+      "similar": [],
+      "question": {
+        "wordId": "curriculum",
+        "stem": "选择 \"curriculum\" 的正确中文意思：",
+        "correct": "n.(pl.curricula)课程,(学校等的)全部课程",
+        "options": [
+          "vi.随意翻阅，浏览；(牛、羊等)吃草",
+          "n.哺乳动物",
+          "n.(pl.curricula)课程,(学校等的)全部课程",
+          "vt.派给，分配；选定，指定(时间、地点等)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语currere“跑”，curriculum原指“赛跑跑道”，引申为“学习的进程或课程体系”。词根cur-（跑）+ -iculum（小称后缀），字面即“小跑道”，强调学习的连贯路径。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中常指“全部课程”或“课程设置”，如curriculum vitae（简历，字面“人生历程”），但该短语在考研阅读中可能作为背景词汇出现，需注意其正式文体属性。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "curse",
+      "word": "curse",
+      "phonetic": "/kə:s/",
+      "meaning": "n.诅咒,咒语,祸因 vt.诅咒,咒骂,使受罪",
+      "similar": [
+        "cure",
+        "curve",
+        "nurse",
+        "purse",
+        "coarse",
+        "cruise",
+        "pursue",
+        "cue"
+      ],
+      "question": {
+        "wordId": "curse",
+        "stem": "选择 \"curse\" 的正确中文意思：",
+        "correct": "n.诅咒,咒语,祸因 vt.诅咒,咒骂,使受罪",
+        "options": [
+          "n.护士,保姆 v.护理,看护",
+          "v.(of)治愈,医治;矫正 n.治愈,痊愈;良药",
+          "n.诅咒,咒语,祸因 vt.诅咒,咒骂,使受罪",
+          "n.曲线,弯曲(物) v.弄弯,成曲形"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根curs-（跑，流）源自拉丁语currere（跑）。核心物理动作是“（恶言）快速流动/奔涌而出”。词义演变：恶言像流水一样快速流出 → 诅咒、咒骂。祸因义：像诅咒一样带来持续灾难的源头。",
+        "similarWarning": "course（课程/路线，同根curs-，但义为‘奔跑的路径’）；curse vs. curse（注意拼写：curse无字母o，course有o，区别在于‘诅咒’是恶言流出，‘课程’是知识流动）。",
+        "extendedMeaning": "祸根，祸源（考研阅读中常指导致不幸的根源，如‘the curse of inflation’通货膨胀之祸）。",
+        "examUsage": "be cursed with...（遭受…之苦，真题中表被动承受负面事物，如‘cursed with a weak economy’）。"
+      }
+    },
+    {
+      "id": "curtain",
+      "word": "curtain",
+      "phonetic": "/'kə:tən/",
+      "meaning": "n.窗帘,门帘;幕(布);结束； vt遮掩",
+      "similar": [
+        "certain",
+        "captain",
+        "contain",
+        "sustain",
+        "ascertain",
+        "certainty",
+        "fountain"
+      ],
+      "question": {
+        "wordId": "curtain",
+        "stem": "选择 \"curtain\" 的正确中文意思：",
+        "correct": "n.窗帘,门帘;幕(布);结束； vt遮掩",
+        "options": [
+          "v.包含，容纳；容忍，抑制；可被...除尽",
+          "n.首领,队长;船长;上尉 v.做…的首领,指挥",
+          "a.某,某一,某些;(of)一定的,确信的,可靠的",
+          "n.窗帘,门帘;幕(布);结束； vt遮掩"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古法语cortine，源自拉丁语cortina，原指“小庭院”，后引申为“挂在庭院周围的布”，即“帘幕”。核心动作是“悬挂物分隔空间”，物理本质是“一块可移动的遮蔽物”。",
+        "similarWarning": "certain（确定的；某个） vs curtain（窗帘）：certain以-cer-（确定）开头，curtain以-cur-（关心/庭院）开头。",
+        "extendedMeaning": "【结束/落幕】在考研英语中，curtain常引申为“（事件的）终结、落幕”，如the curtain falls on sth表示“某事结束”。",
+        "examUsage": "常考搭配：draw the curtain（拉开/拉上窗帘；引申为“揭开/掩盖”）。真题例句：The curtain has dropped on the last act of the play.（戏剧的最后一幕落下了。）"
+      }
+    },
+    {
+      "id": "curve",
+      "word": "curve",
+      "phonetic": "/kə:v/",
+      "meaning": "n.曲线,弯曲(物) v.弄弯,成曲形",
+      "similar": [
+        "cure",
+        "carve",
+        "curse",
+        "survey",
+        "cue",
+        "care",
+        "cave",
+        "core"
+      ],
+      "question": {
+        "wordId": "curve",
+        "stem": "选择 \"curve\" 的正确中文意思：",
+        "correct": "n.曲线,弯曲(物) v.弄弯,成曲形",
+        "options": [
+          "n.诅咒,咒语,祸因 vt.诅咒,咒骂,使受罪",
+          "v.(雕)刻",
+          "v.(of)治愈,医治;矫正 n.治愈,痊愈;良药",
+          "n.曲线,弯曲(物) v.弄弯,成曲形"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语curvus（弯曲的），与cur（弯曲）同源。核心物理动作为“使直线变形为弧线”。",
+        "similarWarning": "cure（治愈，c+ure） vs curve（c+urve，加v表弯曲动作）；carve（雕刻，car+ve） vs curve（urve表弯曲弧线）；curse（诅咒，c+urse） vs curve（urve表弧线）。",
+        "extendedMeaning": "熟词僻义：在统计/数据语境中表“曲线图、图表曲线”，如learning curve（学习曲线）；在数学中表“曲线函数”。",
+        "examUsage": "真题考点：curve常与ahead of/behind the curve（领先/落后于潮流）搭配，如be ahead of the curve（在趋势中领先），behind the curve（落后于趋势）。例句：The company is ahead of the curve in adopting green technology.（该公司在采用绿色技术方面领先。）"
+      }
+    },
+    {
+      "id": "cushion",
+      "word": "cushion",
+      "phonetic": "/'kuʃən/",
+      "meaning": "n.垫子,软垫 vt.装垫子;缓和,减轻;",
+      "similar": [
+        "fashion"
+      ],
+      "question": {
+        "wordId": "cushion",
+        "stem": "选择 \"cushion\" 的正确中文意思：",
+        "correct": "n.垫子,软垫 vt.装垫子;缓和,减轻;",
+        "options": [
+          "n.钢琴",
+          "n.垫子,软垫 vt.装垫子;缓和,减轻;",
+          "n.流行式样(或货品),风尚,风气;样子,方式",
+          "n.胸腔,胸膛;箱,柜"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自拉丁语 'culcita'（垫子），核心动作是“提供缓冲或支撑”。物理画面：柔软的物体（如垫子）置于硬物之间，吸收冲击力，引申为抽象意义上的“缓和、减轻（冲击或影响）”。",
+        "similarWarning": "fashion（n.时尚） vs cushion：fashion 含 'fash'（制作/流行），cushion 含 'cush'（垫子）；question（n.问题） vs cushion：question 含 'quest'（询问），cushion 含 'cush'。拼写差异主要在首字母和词尾，注意区分。",
+        "extendedMeaning": "考研高频僻义：作为动词，引申为“缓冲（经济/社会冲击）”，如 'cushion the blow'（缓解打击），或“保护（某人免受影响）”。",
+        "examUsage": "真题考点：常见搭配 'cushion against'（缓冲……的影响），如 'cushion against economic downturn'。例句：'The savings helped cushion the family against financial crisis.'（考研阅读常考抽象缓冲义）"
+      }
+    },
+    {
+      "id": "custom",
+      "word": "custom",
+      "phonetic": "/'kʌstəm/",
+      "meaning": "n.习惯,风俗,惯例;(pl.)海关,关税",
+      "similar": [
+        "customer"
+      ],
+      "question": {
+        "wordId": "custom",
+        "stem": "选择 \"custom\" 的正确中文意思：",
+        "correct": "n.习惯,风俗,惯例;(pl.)海关,关税",
+        "options": [
+          "n.顾客,主顾",
+          "n.习惯,风俗,惯例;(pl.)海关,关税",
+          "n.牛肉",
+          "a.优良的,卓越的;上级的 n.上级;长者;高手"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语consuetudo（习惯），经古法语custume演变。词根cus-（习惯）与tum（行为结果）结合，核心动作是“重复形成惯例”。custom侧重群体长期形成的社会惯例，而customer（顾客）由custom（光顾习惯）+er（人）构成，指经常光顾的人。",
+        "similarWarning": "customer：cus-（习惯）+tom（行为）+er（人）→ 经常光顾的人（顾客）。custom：cus-（习惯）+tom（行为）→ 重复形成的惯例。拼写差异仅在末尾-er，词义从“行为习惯”转向“执行习惯的人”。",
+        "extendedMeaning": "考研常考熟词僻义：customs（复数）指“海关、关税”，如customs duty（关税），与“习惯”意项完全无关。",
+        "examUsage": "真题考点：customs作“海关”时常用复数，且常与duty/clearance搭配，如go through customs（通关）。注意区分habit（个人习惯）与custom（社会习俗）的干扰项设置。"
+      }
+    },
+    {
+      "id": "customary",
+      "word": "customary",
+      "phonetic": "/'kʌstəˌməri/",
+      "meaning": "a.习惯的,惯例的",
+      "similar": [
+        "customer"
+      ],
+      "question": {
+        "wordId": "customary",
+        "stem": "选择 \"customary\" 的正确中文意思：",
+        "correct": "a.习惯的,惯例的",
+        "options": [
+          "n.顾客,主顾",
+          "n.织物,薄绢,纸巾;(动,植物的)组织",
+          "a.习惯的,惯例的",
+          "n.段,节;小新闻,短评"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来源于custom（习惯）+ -ary（形容词后缀，表示“…的”）。核心逻辑：与习惯相关的，即“习惯的、惯例的”。",
+        "similarWarning": "customer（顾客）：customary侧重“惯例的”，customer是“顾客”，拼写多“er”且词性不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "customer",
+      "word": "customer",
+      "phonetic": "/'kʌstəmə/",
+      "meaning": "n.顾客,主顾",
+      "similar": [
+        "customary",
+        "custom",
+        "accustomed",
+        "cluster",
+        "costume"
+      ],
+      "question": {
+        "wordId": "customer",
+        "stem": "选择 \"customer\" 的正确中文意思：",
+        "correct": "n.顾客,主顾",
+        "options": [
+          "n.习惯,风俗,惯例;(pl.)海关,关税",
+          "n.顾客,主顾",
+          "a.惯常的；习惯的，适应的(一般作表语)",
+          "a.习惯的,惯例的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语“consuetudo”（习惯），后演变为“custom”（习惯、惯例）。“-er”表示“人”。核心逻辑：经常光顾某家店的人，即“习惯性购买者”，也就是“顾客”。",
+        "similarWarning": "customary (习惯性的) vs customer (顾客)：customary 强调“惯例的”，customer 强调“光顾的人”。\naccustomed (习惯的) vs customer (顾客)：accustomed 是形容词，customer 是名词。\ncostume (服装) vs customer (顾客)：costume 指“戏服、特定服装”，customer 指“顾客”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "cyberspace",
+      "word": "cyberspace",
+      "phonetic": "/'saɪbəspeɪs/",
+      "meaning": "n.虚拟信息空间;网络空间",
+      "similar": [],
+      "question": {
+        "wordId": "cyberspace",
+        "stem": "选择 \"cyberspace\" 的正确中文意思：",
+        "correct": "n.虚拟信息空间;网络空间",
+        "options": [
+          "vi.(飞机)陡升 n.陡升；嗡嗡声",
+          "v.(公然)违抗,反抗;蔑视",
+          "n.作物,庄稼;(谷类等的)一熟收成;一批,大量",
+          "n.虚拟信息空间;网络空间"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由 cyber-（网络，源自希腊语 kybernan 意为‘控制、导航’）与 space（空间）组合而成。字面即‘由网络控制的虚拟空间’，指计算机与互联网构建的数字交互环境。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常引申为‘数字领域、互联网生态’，强调其作为新型社会活动场域的特性，而非单纯的技术术语。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "cycle",
+      "word": "cycle",
+      "phonetic": "/'saikl/",
+      "meaning": "n.自行车;周期,循环 v.骑自行车;循环",
+      "similar": [
+        "bicycle",
+        "recycle",
+        "circle",
+        "cable",
+        "uncle"
+      ],
+      "question": {
+        "wordId": "cycle",
+        "stem": "选择 \"cycle\" 的正确中文意思：",
+        "correct": "n.自行车;周期,循环 v.骑自行车;循环",
+        "options": [
+          "v./n.再循环,重复利用",
+          "n.自行车;周期,循环 v.骑自行车;循环",
+          "n.(bike)自行车 vi.骑自行车",
+          "n.圆,圆周;集团;周期,循环 v.环绕,旋转"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "cycle源自希腊语kyklos，意为“圆、轮子”。核心物理动作是“绕圈移动或形成闭环”。→ n.自行车（两个轮子绕圈走）；周期/循环（时间绕圈重复）。v.骑自行车（做绕圈运动）；循环（过程绕圈往复）。",
+        "similarWarning": "bicycle（bi-二+cycle轮→两轮车），recycle（re-再次+cycle循环→回收利用），circle（circ-圆+le→圆形），cable（c-抓+able→缆绳，拼写差异大），uncle（un-一+cle→叔叔，词源无关）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "cylinder",
+      "word": "cylinder",
+      "phonetic": "/'silində/",
+      "meaning": "n.圆筒,圆锥体;汽缸",
+      "similar": [
+        "hinder",
+        "linger",
+        "blunder",
+        "slender",
+        "calendar"
+      ],
+      "question": {
+        "wordId": "cylinder",
+        "stem": "选择 \"cylinder\" 的正确中文意思：",
+        "correct": "n.圆筒,圆锥体;汽缸",
+        "options": [
+          "v.逗留,徘徊,拖延,留恋,浪费光阴,苟延残喘",
+          "n.圆筒,圆锥体;汽缸",
+          "v.(from)阻止,妨碍 a.后面的",
+          "v.(因无知等而)犯大错;踉踉跄跄地走 n.大错"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自希腊语kylindein（滚动），核心动作是“滚动”。-er为名词后缀。圆柱体是能滚动的几何体；汽缸是活塞在其中滚动的筒状部件。",
+        "similarWarning": "hinder（阻碍）、linger（逗留）、blunder（犯错）、slender（苗条的）、calendar（日历）。差异在于首字母和部分辅音，注意cylinder中的cy-和-lin-组合。",
+        "extendedMeaning": "在科技语境中可指“（打印机等的）硒鼓”或“（锁的）弹子芯”。",
+        "examUsage": "考研阅读中常考其“汽缸”义，如“internal combustion cylinder”（内燃机汽缸），注意与piston（活塞）搭配理解。"
+      }
+    }
+  ]
+}

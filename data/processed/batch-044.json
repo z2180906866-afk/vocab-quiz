@@ -1,0 +1,1666 @@
+{
+  "batchId": 44,
+  "words": [
+    {
+      "id": "iron",
+      "word": "iron",
+      "phonetic": "/'aiən/",
+      "meaning": "n.铁,铁制品,烙铁,熨斗 v.熨(衣),熨平",
+      "similar": [
+        "irony",
+        "brown",
+        "crown",
+        "drown",
+        "frown",
+        "groan",
+        "prone",
+        "siren"
+      ],
+      "question": {
+        "wordId": "iron",
+        "stem": "选择 \"iron\" 的正确中文意思：",
+        "correct": "n.铁,铁制品,烙铁,熨斗 v.熨(衣),熨平",
+        "options": [
+          "n.铁,铁制品,烙铁,熨斗 v.熨(衣),熨平",
+          "n.反话, 讽刺, 讽刺之事",
+          "n./a.褐色(的),棕色(的)",
+          "n.王冠,冕;君权,君王 v.为…加冕"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "iron 源自原始日耳曼语 *isarnan，词根与‘神圣的金属’或‘天上的金属’相关（对比古英语 *īsern）。核心物理动作是‘坚硬、沉重、可锻造的金属’，引申为‘熨斗’（因早期熨斗用铁制成）及‘熨烫’（用铁制工具压平衣物）。词根无复杂派生，直接关联金属本质。",
+        "similarWarning": "iron vs irony：iron 指金属/熨斗；irony 意为‘讽刺’，词源不同（源自希腊语 eironeia）。拼写差异仅加 -y，但意义迥异，注意区分。",
+        "extendedMeaning": "考研僻义：‘iron’ 可引申为‘坚强的’或‘冷酷的’，如 ‘iron will’（钢铁意志），或比喻‘铁一般的纪律’。",
+        "examUsage": "真题考点：常见搭配 ‘iron out’（消除，解决），如 ‘iron out differences’（消除分歧），在阅读中可能作为动词短语考查。"
+      }
+    },
+    {
+      "id": "irony",
+      "word": "irony",
+      "phonetic": "/'aiərəni/",
+      "meaning": "n.反话, 讽刺, 讽刺之事",
+      "similar": [
+        "iron",
+        "agony",
+        "prone"
+      ],
+      "question": {
+        "wordId": "irony",
+        "stem": "选择 \"irony\" 的正确中文意思：",
+        "correct": "n.反话, 讽刺, 讽刺之事",
+        "options": [
+          "a.倾向于,俯伏的,倾斜的,陡的",
+          "n.(精神或肉体的)极大痛苦，创伤",
+          "n.铁,铁制品,烙铁,熨斗 v.熨(衣),熨平",
+          "n.反话, 讽刺, 讽刺之事"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自希腊语eironeia（假装无知），由eiron（假装无知者）构成。核心动作是“表面说一套，实际指另一套”，本质是话语或情境中的反差与错位。",
+        "similarWarning": "iron（铁，熨斗）vs irony（反讽）：iron无词尾-y，意思为金属；agony（痛苦）vs irony：agony首字母a-，强调身心剧痛；prone（倾向于）vs irony：prone以pr-开头，意为俯卧或易受；wrong（错误）vs irony：wrong指事实偏差，irony指言外之意。",
+        "extendedMeaning": "考研中常考“情境反讽”（situational irony），即结果与预期截然相反，如《经济学人》中“环保政策导致污染加重”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "irrespective",
+      "word": "irrespective",
+      "phonetic": "/ˌiri'spektiv/",
+      "meaning": "a.不顾的,不考虑的,无关的",
+      "similar": [
+        "respective",
+        "perspective",
+        "prospective"
+      ],
+      "question": {
+        "wordId": "irrespective",
+        "stem": "选择 \"irrespective\" 的正确中文意思：",
+        "correct": "a.不顾的,不考虑的,无关的",
+        "options": [
+          "a.各自的,各个的",
+          "a.不顾的,不考虑的,无关的",
+          "a.预期的",
+          "n.透视画法,透视图;远景,前途;观点,看法"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根：ir-（不）+ re-（回）+ spect（看）+ -ive（形容词后缀）。核心动作：不回头看。引申为“不顾的、不考虑的”，强调对某事物完全无视或无关。",
+        "similarWarning": "respective（各自的）：无ir-前缀，强调个体对应。perspective（视角）：含per-（贯穿），强调观察角度。prospective（未来的）：含pro-（向前），强调预期或可能性。区别：irrespective表“不顾”，拼写差异在前缀ir- vs re-/per-/pro-。",
+        "extendedMeaning": "考研僻义：常与of连用，irrespective of意为“无论、不论”，用于强调条件或情况无关紧要。如：irrespective of age or sex（不论年龄或性别）。",
+        "examUsage": "真题考点：固定搭配irrespective of是高频考点，常出现在阅读或翻译中，作为逻辑连接词，表示让步关系。例句：The law applies to everyone, irrespective of race or religion.（该法律适用于所有人，不论种族或宗教。）"
+      }
+    },
+    {
+      "id": "irrigate",
+      "word": "irrigate",
+      "phonetic": "/'irigeit/",
+      "meaning": "vt.灌溉，修水利 vi.进行灌溉",
+      "similar": [
+        "irritate",
+        "intricate",
+        "imitate",
+        "indicate",
+        "intimate"
+      ],
+      "question": {
+        "wordId": "irrigate",
+        "stem": "选择 \"irrigate\" 的正确中文意思：",
+        "correct": "vt.灌溉，修水利 vi.进行灌溉",
+        "options": [
+          "vt.激怒,恼火,使急躁",
+          "vt.灌溉，修水利 vi.进行灌溉",
+          "v.模仿,仿效;仿造,伪造",
+          "a.复杂的,错综的,难以理解的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根ir-（进入）+ rig（水/湿润）+ ate（动词后缀）→使水进入→灌溉。核心动作：将水引入干燥土地以滋润。",
+        "similarWarning": "irrigate（灌溉）vs irritate（激怒）：前者含字母g（水沟），后者含t（刺激）。irrigate（灌溉）vs imitate（模仿）：前者含rig（水），后者含imit（复制）。",
+        "extendedMeaning": "考研中常引申为‘滋养、灌输’，如irrigate the mind（灌输思想/滋养心智），或用于比喻‘给予资源以促进发展’。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "irritate",
+      "word": "irritate",
+      "phonetic": "/'iriteit/",
+      "meaning": "vt.激怒,恼火,使急躁",
+      "similar": [
+        "irrigate",
+        "imitate",
+        "intricate",
+        "rotate",
+        "agitate",
+        "heritage",
+        "hesitate",
+        "indicate"
+      ],
+      "question": {
+        "wordId": "irritate",
+        "stem": "选择 \"irritate\" 的正确中文意思：",
+        "correct": "vt.激怒,恼火,使急躁",
+        "options": [
+          "v.模仿,仿效;仿造,伪造",
+          "vt.灌溉，修水利 vi.进行灌溉",
+          "a.复杂的,错综的,难以理解的",
+          "vt.激怒,恼火,使急躁"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 irritare（激怒），由 ir-（加强） + ritare（咆哮）组成，核心物理动作是“反复刺激引发强烈反应”，引申为使人烦躁或恼怒。词源上强调持续性的激惹行为，而非一次性冒犯。",
+        "similarWarning": "irrigate（灌溉）：ir- + rig-（水）→浇水，与 irritate 差在 -gate vs -tate；imitate（模仿）：im-（向内） + it-（走）→跟着走，与 irritate 拼写相似但词根不同；intricate（复杂的）：in- + tric-（琐碎）→纠缠，与 irritate 无直接关联。",
+        "extendedMeaning": "在考研阅读中可引申为“使（身体部位）发炎、刺痛”，如“irritate the skin”表刺激皮肤；或用于抽象语境“使（系统、关系）紧张”，如“irritate the diplomatic ties”。",
+        "examUsage": "真题常考搭配：be irritated at/by（因……而恼怒），如“He was irritated by the constant noise.”；干扰项常混淆为“agitate”（煽动）或“irrigate”（灌溉），注意拼写差异。"
+      }
+    },
+    {
+      "id": "isle",
+      "word": "isle",
+      "phonetic": "/ail/",
+      "meaning": "n.小岛(用于诗歌中)",
+      "similar": [
+        "aisle",
+        "idle",
+        "bible",
+        "inlet",
+        "rifle"
+      ],
+      "question": {
+        "wordId": "isle",
+        "stem": "选择 \"isle\" 的正确中文意思：",
+        "correct": "n.小岛(用于诗歌中)",
+        "options": [
+          "a.空闲的,闲置的;懒散的 v.空费,虚度",
+          "n.圣经",
+          "n.(教堂、教室、戏院等里的)过道，通道",
+          "n.小岛(用于诗歌中)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 insula（岛），与 island 同源，但 isle 是更短的古法语形式，专指诗歌或文学中的小岛，强调其诗意和浪漫色彩。",
+        "similarWarning": "aisle（过道）：a-前缀+isle，指教堂或剧院中的通道。idle（空闲的）：i-d-l-e，与 isle 相比，d 替换 s，词义完全不同。bible（圣经）：b-i-b-l-e，与 isle 拼写相似但无关联。inlet（入口）：in-let，指水湾。issue（问题）：is-sue，与 isle 无直接关系。rifle（步枪）：r-i-f-l-e，与 isle 仅字母顺序不同。title（标题）：t-i-t-l-e，与 isle 拼写相似但无关。",
+        "extendedMeaning": "在考研中常作为文学或地理类文章中的特殊词汇出现，强调其与普通“岛”的区别，带有典雅或古风的修辞色彩。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "isolate",
+      "word": "isolate",
+      "phonetic": "/'aisəleit/",
+      "meaning": "vt.隔离,孤立",
+      "similar": [
+        "desolate",
+        "insulate",
+        "violate",
+        "absolute",
+        "displace",
+        "escalate",
+        "obsolete",
+        "resolute"
+      ],
+      "question": {
+        "wordId": "isolate",
+        "stem": "选择 \"isolate\" 的正确中文意思：",
+        "correct": "vt.隔离,孤立",
+        "options": [
+          "vt.隔离,孤立;使绝缘,使绝热",
+          "a.荒凉的;孤独的 v.使荒芜",
+          "vt.违背;冒犯;妨碍;侵犯;亵渎(圣物)",
+          "vt.隔离,孤立"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "isol-（岛）+ -ate（动词后缀）→ 使成为孤岛 → 隔离、孤立。词根isol-源自拉丁语insula（岛），与insulate（绝缘）同源，核心动作是“将某物与外界分离”。",
+        "similarWarning": "isolate vs insulate：isolate强调空间或社交上的“隔离/孤立”；insulate侧重物理或功能上的“绝缘/隔热/隔音”，如insulate wires（给电线绝缘）。\ndesolate：de-（完全）+ sol-（孤独）→ 荒凉的、被遗弃的，侧重情感或环境的荒芜。",
+        "extendedMeaning": "在考研阅读中可引申为“分离出/提取（某物质）”，如isolate a gene（分离基因）；或指“使（某人/某群体）脱离接触”，如isolate a patient（隔离病人）。",
+        "examUsage": "高频搭配：isolate...from...（使……与……隔离）。真题例句：The virus was isolated from the patient.（该病毒是从患者身上分离出来的。）注意与desolate（荒凉的）在形近干扰题中的辨析。"
+      }
+    },
+    {
+      "id": "itself",
+      "word": "itself",
+      "phonetic": "/it'self/",
+      "meaning": "pron.(it的反身代词)它自己，它本身",
+      "similar": [
+        "himself",
+        "self",
+        "myself"
+      ],
+      "question": {
+        "wordId": "itself",
+        "stem": "选择 \"itself\" 的正确中文意思：",
+        "correct": "pron.(it的反身代词)它自己，它本身",
+        "options": [
+          "pron.[反身代词]我自己；我亲自",
+          "pron.(it的反身代词)它自己，它本身",
+          "pron.[反身代词]他自己；他本人",
+          "n.自我，自己(pl.selves)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "由 it（它） + self（自身）构成，字面即“它自身”，是 it 的反身代词形式。核心物理动作是强调动作主体与客体为同一对象，如“The door closed by itself.”（门自己关上）。",
+        "similarWarning": "itself 与 itself 无显性形近易混词。注意与 itself 同类的反身代词：himself（他自己）、myself（我自己）、yourself（你自己）等，拼写差异在于人称代词部分。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "jacket",
+      "word": "jacket",
+      "phonetic": "/'dʒækɪt/",
+      "meaning": "n.短上衣,茄克衫",
+      "similar": [
+        "packet",
+        "racket",
+        "bracket",
+        "basket",
+        "bucket",
+        "rocket",
+        "ticket"
+      ],
+      "question": {
+        "wordId": "jacket",
+        "stem": "选择 \"jacket\" 的正确中文意思：",
+        "correct": "n.短上衣,茄克衫",
+        "options": [
+          "n.(方)括号",
+          "n.短上衣,茄克衫",
+          "n.小包裹,小捆;盒;一捆,一扎;邮船,班轮",
+          "n.球拍"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自中世纪法语'jaque'（一种短上衣），后加指小后缀'-et'，意为'小型上衣'。核心动作：覆盖躯干的短外套。",
+        "similarWarning": "packet（小包）与jacket仅首字母p/j差异；racket（球拍/喧闹）与jacket首字母r/j不同；bracket（支架）为b开头，与jacket区分；basket（篮子）与jacket拼写相近但含义不同；bucket（水桶）与jacket首字母b/j；market（市场）与jacket首字母m/j；pocket（口袋）与jacket首字母p/j；rocket（火箭）与jacket首字母r/j。",
+        "extendedMeaning": "考研中常引申为'（书的）护封'、'（机器的）外壳'或'（电线的）绝缘层'，如'dust jacket'（书籍的防尘护封）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "jam",
+      "word": "jam",
+      "phonetic": "/dʒæm/",
+      "meaning": "n.阻塞,轧住;果酱 v.(使)阻塞,(使)轧住不动",
+      "similar": [
+        "dam",
+        "ham",
+        "jar",
+        "jaw"
+      ],
+      "question": {
+        "wordId": "jam",
+        "stem": "选择 \"jam\" 的正确中文意思：",
+        "correct": "n.阻塞,轧住;果酱 v.(使)阻塞,(使)轧住不动",
+        "options": [
+          "n.罐坛,广口瓶",
+          "n.火腿",
+          "n.水坝,水闸",
+          "n.阻塞,轧住;果酱 v.(使)阻塞,(使)轧住不动"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源拟声，模仿用力挤压或卡住的声音。核心动作：用力压紧或塞满，导致无法移动（阻塞）或形成黏稠物（果酱）。",
+        "similarWarning": "dam（水坝，阻拦） vs jam（果酱/阻塞）：dam强调物理阻挡，jam强调塞满卡死。ham（火腿） vs jam：拼写差首字母h/j，词义无关。jar（罐子） vs jam：jar是容器，jam是内容物。jaw（下巴） vs jam：差字母w/m，词义无关。",
+        "extendedMeaning": "（1）困境（n.）: be in a jam 陷入困境。（2）干扰信号（v./n.）: jam the radar 干扰雷达；traffic jam 交通堵塞（考研阅读高频词）。",
+        "examUsage": "真题考点：traffic jam 交通堵塞（完形填空常考搭配）；jam as a verb: The road was jammed with cars. 道路被车堵住（阅读中细节理解干扰项）。"
+      }
+    },
+    {
+      "id": "january",
+      "word": "January",
+      "phonetic": "/'dʒænjuəri/",
+      "meaning": "n.一月",
+      "similar": [],
+      "question": {
+        "wordId": "january",
+        "stem": "选择 \"January\" 的正确中文意思：",
+        "correct": "n.一月",
+        "options": [
+          "v.请教，向...咨询，找...商量；查阅，查看",
+          "v.使联合,统一;使相同,使一致",
+          "n.一月",
+          "n.爵士乐"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'Januarius'，与罗马神话中的双面神 'Janus'（雅努斯）相关。Janus 有两张脸，一张回顾过去，一张展望未来，象征起始与过渡。'January' 作为公历第一个月，词根 'Janu-' 直接指向“开端之门”，核心物理动作为“面向过去与未来的门神”。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "jar",
+      "word": "jar",
+      "phonetic": "/dʒɑ:/",
+      "meaning": "n.罐坛,广口瓶",
+      "similar": [
+        "bar",
+        "ear",
+        "jam",
+        "jaw",
+        "oar",
+        "tar"
+      ],
+      "question": {
+        "wordId": "jar",
+        "stem": "选择 \"jar\" 的正确中文意思：",
+        "correct": "n.罐坛,广口瓶",
+        "options": [
+          "n.罐坛,广口瓶",
+          "n.条,杆,闩;酒吧;栅,障碍(物) v.闩上,阻拦",
+          "n.阻塞,轧住;果酱 v.(使)阻塞,(使)轧住不动",
+          "n.耳，耳朵；听力，听觉；穗"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模仿物体碰撞或摩擦发出的刺耳声。核心物理动作：物体间不协调的碰撞或震动，引申为“不协调、冲突”或“容器”义（罐子因材质易碰撞发声）。",
+        "similarWarning": "bar（酒吧/棒）、car（车）、jam（果酱/堵塞）——差异在首字母，jar专指广口容器或冲突动作。",
+        "extendedMeaning": "v. 冲突，不一致（如观点、颜色等不协调）；使震动，震动感。",
+        "examUsage": "真题例句：The sudden noise jarred his nerves.（突然的噪音刺激了他的神经。）"
+      }
+    },
+    {
+      "id": "jargon",
+      "word": "jargon",
+      "phonetic": "/'dʒɑ:gən/",
+      "meaning": "n.行话",
+      "similar": [
+        "cargo",
+        "wagon",
+        "carbon",
+        "margin",
+        "pardon"
+      ],
+      "question": {
+        "wordId": "jargon",
+        "stem": "选择 \"jargon\" 的正确中文意思：",
+        "correct": "n.行话",
+        "options": [
+          "n.碳",
+          "n.船货,货物",
+          "n.行话",
+          "n.运货马车,运货车;敞蓬车厢"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自法语'jargoun'，原指鸟类的啁啾声或含混不清的说话声。词根无明确拉丁/希腊成分，属拟声词源。核心物理动作是发出杂乱、外人难懂的声音，引申为特定群体内部使用的专业术语或行话。",
+        "similarWarning": "cargo（货物）：cargo vs jargon，首字母c/j不同，cargo指船运货物；wagon（马车）：wagon vs jargon，首字母w/j不同，wagon指四轮马车；carbon（碳）：carbon vs jargon，首字母c/j不同，carbon为化学元素；margin（边缘）：margin vs jargon，首字母m/j不同，margin指页面空白或差额；pardon（原谅）：pardon vs jargon，首字母p/j不同，pardon为动词/名词表宽恕。",
+        "extendedMeaning": "在考研阅读中常引申为'术语'或'黑话'，强调其排他性和专业性，如'legal jargon'（法律术语）或'computer jargon'（计算机术语），非字面行话含义。",
+        "examUsage": "真题中常作为干扰项出现，与'dialect'（方言）、'slang'（俚语）区分：jargon强调行业/领域内部用语，如'scientific jargon'。固定搭配'jargon-laden'（充满行话的）偶见于外刊评论。"
+      }
+    },
+    {
+      "id": "jaw",
+      "word": "jaw",
+      "phonetic": "/dʒɔ:/",
+      "meaning": "n.颌,颚",
+      "similar": [
+        "jam",
+        "jar",
+        "paw",
+        "raw",
+        "saw"
+      ],
+      "question": {
+        "wordId": "jaw",
+        "stem": "选择 \"jaw\" 的正确中文意思：",
+        "correct": "n.颌,颚",
+        "options": [
+          "n.颌,颚",
+          "n.阻塞,轧住;果酱 v.(使)阻塞,(使)轧住不动",
+          "n.罐坛,广口瓶",
+          "n.爪"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语‘ceowan’（咀嚼）的派生词，核心动作是‘咀嚼时上下闭合的骨骼结构’。jaw指上下颌骨，是进食和发音的物理基础。",
+        "similarWarning": "jaw vs jam (果酱/堵塞，拼写差‘w’ vs ‘m’，词义无关)；jaw vs jar (罐子，拼写差‘w’ vs ‘r’，词义无关)；jaw vs law (法律，拼写差首字母‘j’ vs ‘l’，词义无关)；jaw vs paw (爪子，拼写差首字母‘j’ vs ‘p’，词义无关)；jaw vs raw (生的，拼写差首字母‘j’ vs ‘r’，词义无关)；jaw vs saw (锯子/看见的过去式，拼写差首字母‘j’ vs ‘s’，词义无关)。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "jazz",
+      "word": "jazz",
+      "phonetic": "/dʒæz/",
+      "meaning": "n.爵士乐",
+      "similar": [],
+      "question": {
+        "wordId": "jazz",
+        "stem": "选择 \"jazz\" 的正确中文意思：",
+        "correct": "n.爵士乐",
+        "options": [
+          "a.普通的,平凡的,平常的;平庸的",
+          "n.读者；读本，读物；(英国的)大学讲师",
+          "n.定义,解释;(轮廓影像等的)清晰度;阐明;",
+          "n.爵士乐"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不明，可能源自非洲语言或新奥尔良俚语，最初指代一种充满活力的音乐形式。核心动作是‘即兴、自由、节奏感强’，与标准音乐形成对比。",
+        "similarWarning": "",
+        "extendedMeaning": "n. 浮夸、空话（非正式用法，指无实质内容的言论或行为，如‘all that jazz’表示‘诸如此类的东西’）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "jealous",
+      "word": "jealous",
+      "phonetic": "/'dʒeləs/",
+      "meaning": "a.(of)妒忌的;猜疑的,警惕的",
+      "similar": [],
+      "question": {
+        "wordId": "jealous",
+        "stem": "选择 \"jealous\" 的正确中文意思：",
+        "correct": "a.(of)妒忌的;猜疑的,警惕的",
+        "options": [
+          "a.(of)妒忌的;猜疑的,警惕的",
+          "a.符合的,一致的；欣然同意的；令人愉快的",
+          "n.模仿,仿效;仿制;仿造品",
+          "num./n./a.一千；[pl.]许许多多，成千上万"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语zelus（热情、嫉妒），通过古法语jalous演变。核心动作是“对他人拥有的东西产生强烈情绪”，即因渴望他人所有而心生不满或警惕。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中可引申为“珍惜的、极力维护的”，如be jealous of one's reputation（极力维护自己的声誉），强调对某物的高度珍视和守护。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "jeans",
+      "word": "jeans",
+      "phonetic": "/dʒi:nz/",
+      "meaning": "n.牛仔裤（又称blue jeans, dungarees等）",
+      "similar": [
+        "means",
+        "bean",
+        "dean",
+        "lean",
+        "lens"
+      ],
+      "question": {
+        "wordId": "jeans",
+        "stem": "选择 \"jeans\" 的正确中文意思：",
+        "correct": "n.牛仔裤（又称blue jeans, dungarees等）",
+        "options": [
+          "n.牛仔裤（又称blue jeans, dungarees等）",
+          "n.(大学)院长;主持牧师; (基督教)教长",
+          "n.方法,手段",
+          "n.豆;菜豆,蚕豆"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自法语‘Gênes’，指意大利城市热那亚的棉布，最初由水手穿着的耐用裤子演变为现代牛仔裤。词根无复杂演变，直接关联地名与布料起源。",
+        "similarWarning": "means（n.方法/手段；v.意味）与jeans差一个字母‘m’；bean（n.豆子）与jeans差首字母‘b’；dean（n.院长/系主任）与jeans差首字母‘d’；lean（v.倾斜/adj.瘦的）与jeans差首字母‘l’；lens（n.透镜/镜头）与jeans差‘l’和‘s’位置；mean（v.意思是/adj.吝啬的）与jeans差首字母‘m’。注意拼写中‘j’与这些字母的区分。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "jet",
+      "word": "jet",
+      "phonetic": "/dʒet/",
+      "meaning": "n.喷气发动机,喷气式飞机;喷口 v.喷出,喷射",
+      "similar": [
+        "bet",
+        "net",
+        "pet",
+        "eject"
+      ],
+      "question": {
+        "wordId": "jet",
+        "stem": "选择 \"jet\" 的正确中文意思：",
+        "correct": "n.喷气发动机,喷气式飞机;喷口 v.喷出,喷射",
+        "options": [
+          "n.爱畜,宠儿 a.宠爱的,表示亲昵的",
+          "v.赌,打赌 n.打赌,赌注",
+          "n.喷气发动机,喷气式飞机;喷口 v.喷出,喷射",
+          "n.网,网状物 v.用网捕,使落网 a.纯净的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源核心动作：源自拉丁语jactare（投掷、抛出），后经法语jeter（投、喷）进入英语。核心物理动作是“用力投出或喷出”，由此衍生出“喷气发动机”（将空气高速喷出产生推力）、“喷口”（喷射的出口）及动词“喷出、喷射”。",
+        "similarWarning": "与set（设置）、get（获得）、let（让）等词形近，但jet核心在于“喷射”动作，与set的“放置”、get的“获得”等无关联，注意拼写差异：j-e-t vs s-e-t。",
+        "extendedMeaning": "熟词僻义：在考研外刊中，jet可引申为“（液体或气体的）急流、射流”，如a jet of water（一股水柱）；或作动词“（乘喷气式飞机）旅行”，如jet off to Paris（飞往巴黎）。",
+        "examUsage": "考点直击：真题中常考搭配jet lag（时差反应），如“suffer from jet lag”；及jet engine（喷气发动机）作为科技类阅读的常见术语。注意：作为名词“喷口”时，常与nozzle（喷嘴）同义替换。"
+      }
+    },
+    {
+      "id": "jewel",
+      "word": "jewel",
+      "phonetic": "/'dʒu:əl/",
+      "meaning": "n.宝石,宝石饰物",
+      "similar": [
+        "jewelry",
+        "heel",
+        "peel",
+        "reel",
+        "bowel",
+        "rebel",
+        "repel",
+        "towel"
+      ],
+      "question": {
+        "wordId": "jewel",
+        "stem": "选择 \"jewel\" 的正确中文意思：",
+        "correct": "n.宝石,宝石饰物",
+        "options": [
+          "n.脚后跟,踵,鞋跟",
+          "n.(jewllery)(总称)珠宝",
+          "n.宝石,宝石饰物",
+          "v.削皮,剥皮 n.果皮"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语jocus（玩笑、游戏），后演变为古法语jouel（珍宝），指用于装饰的珍贵石头或饰品。核心动作：将珍贵之物作为饰品佩戴或展示。",
+        "similarWarning": "jewelry（珠宝总称，不可数名词）vs jewel（单个宝石，可数名词）；feel（感觉，动词）vs heel（脚后跟，名词）vs peel（剥皮，动词）vs reel（卷轴，名词/动词）",
+        "extendedMeaning": "考研中常引申为“珍贵的人或物”，如“the jewel of the collection”（收藏中的珍品）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "jewelry",
+      "word": "jewelry",
+      "phonetic": "/'dʒu:əlri/",
+      "meaning": "n.(jewllery)(总称)珠宝",
+      "similar": [
+        "jewel"
+      ],
+      "question": {
+        "wordId": "jewelry",
+        "stem": "选择 \"jewelry\" 的正确中文意思：",
+        "correct": "n.(jewllery)(总称)珠宝",
+        "options": [
+          "n.(jewllery)(总称)珠宝",
+          "n.大量；排列；盛装 v.列阵；装扮；排列",
+          "n.宝石,宝石饰物",
+          "n.寒冷,寒气,寒战 v.使寒冷"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根jewel（宝石）+ -ry（集合名词后缀，表示总称）。核心物理动作：将零散的宝石（jewel）通过后缀-ry聚合为一类物品的总称，即珠宝首饰的集合概念。",
+        "similarWarning": "jewel（单个宝石，可数名词）vs jewelry（珠宝总称，不可数名词）。字母级差异：jewelry比jewel多出后缀-ry，词义从个体变为集合。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "jog",
+      "word": "jog",
+      "phonetic": "/dʒɔg/",
+      "meaning": "v.慢跑",
+      "similar": [
+        "fog",
+        "jug",
+        "log"
+      ],
+      "question": {
+        "wordId": "jog",
+        "stem": "选择 \"jog\" 的正确中文意思：",
+        "correct": "v.慢跑",
+        "options": [
+          "n.原木,圆木;航海日志",
+          "n.雾气，雾 v.以雾笼罩，被雾笼罩",
+          "n.(有柄，小口，可盛水等的)大壶，罐，盂",
+          "v.慢跑"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟轻快而有节奏的脚步声或身体晃动声，核心物理动作为‘小步快跑’。",
+        "similarWarning": "dog (狗) vs jog (慢跑)：d/j 首字母不同。fog (雾) vs jog (慢跑)：f/j 首字母不同。job (工作) vs jog (慢跑)：b/g 尾字母不同。joy (快乐) vs jog (慢跑)：y/g 尾字母不同。jug (水壶) vs jog (慢跑)：u/o 元音不同。log (圆木) vs jog (慢跑)：l/j 首字母不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "join",
+      "word": "join",
+      "phonetic": "/dʒɔin/",
+      "meaning": "v.参加，加入；联合，连接；和…在一起",
+      "similar": [
+        "joint",
+        "coin",
+        "adjoin"
+      ],
+      "question": {
+        "wordId": "join",
+        "stem": "选择 \"join\" 的正确中文意思：",
+        "correct": "v.参加，加入；联合，连接；和…在一起",
+        "options": [
+          "n.硬币,货币 v.铸造(硬币),创造(新词)",
+          "v.临近，靠近；贴近，毗连",
+          "n.接合处,接头;关节a.联合的,共同的,连接的",
+          "v.参加，加入；联合，连接；和…在一起"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根源于拉丁语 jungere（连接），核心物理动作为“将分离的物体结合为一体”。join 即为“连接、加入”，强调使原本独立的部分结合成一个整体。",
+        "similarWarning": "joint (n. 关节；adj. 共同的) vs join (v. 连接)：joint 是 join 的派生名词，指连接点或共同状态。coin (n. 硬币；v. 铸造) vs join：拼写差异在于 c 和 j，词义无关联。adjoin (v. 毗连) vs join：前缀 ad- 表“朝向”，adjoin 强调空间上的紧邻，而非抽象结合。point (n. 点；v. 指向) vs join：拼写仅差 p，但 point 涉及方向，join 涉及连接。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "joint",
+      "word": "joint",
+      "phonetic": "/dʒɔint/",
+      "meaning": "n.接合处,接头;关节a.联合的,共同的,连接的",
+      "similar": [
+        "join",
+        "coin",
+        "hint",
+        "pint",
+        "count",
+        "faint",
+        "hoist",
+        "moist"
+      ],
+      "question": {
+        "wordId": "joint",
+        "stem": "选择 \"joint\" 的正确中文意思：",
+        "correct": "n.接合处,接头;关节a.联合的,共同的,连接的",
+        "options": [
+          "n.硬币,货币 v.铸造(硬币),创造(新词)",
+          "v.参加，加入；联合，连接；和…在一起",
+          "n.暗示,提示,线索 v.暗示,示意",
+          "n.接合处,接头;关节a.联合的,共同的,连接的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语 'jungere'（连接），通过古法语 'joint'（连接处）进入英语。核心物理动作是 '连接' 或 '接合'，名词指连接的具体部位（接头、关节），形容词指连接后的状态（共同的）。",
+        "similarWarning": "join（加入，连接）vs joint（接头，共同的）：join是动词，强调动作；joint是名词/形容词，强调结果或属性。point（点）vs joint（接合点）：point是抽象或具体的点，joint特指连接点。coin（硬币，创造）vs joint：拼写相似但词源无关，coin源自拉丁语 'cuneus'（楔子）。",
+        "extendedMeaning": "在考研中常出现 'joint venture'（合资企业）这一商业术语，非字面‘共同冒险’。此外，'out of joint' 可指‘脱臼’或‘混乱、不正常’，如 'The time is out of joint.'（时代混乱）。",
+        "examUsage": "高频考点：'joint effort'（共同努力）在阅读中常作为团队协作的同义替换；'joint statement'（联合声明）在政治类文章中常见。注意区分 'joint' 与 'join' 的用法：'joint' 作名词时后可接 'in'（如 'a joint in the pipe'），但 'joint venture' 是固定搭配，无需介词。"
+      }
+    },
+    {
+      "id": "jolly",
+      "word": "jolly",
+      "phonetic": "/'dʒɔli/",
+      "meaning": "a.欢乐的,高兴的",
+      "similar": [
+        "wholly",
+        "ally",
+        "doll",
+        "holy",
+        "july",
+        "poll",
+        "roll",
+        "toll"
+      ],
+      "question": {
+        "wordId": "jolly",
+        "stem": "选择 \"jolly\" 的正确中文意思：",
+        "correct": "a.欢乐的,高兴的",
+        "options": [
+          "n.玩偶,玩具娃娃",
+          "ad.完全地,全部,一概",
+          "n.同盟者，同盟国，vt.使结盟；与…有关联",
+          "a.欢乐的,高兴的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源可能来自古诺尔斯语 'jól'（圣诞庆典），后演变为 'jolly'，核心动作是‘节日欢庆’，引申为‘欢乐的、高兴的’状态。",
+        "similarWarning": "wholly（完全地） vs jolly（欢乐的）：wholly 以 'wh' 开头，强调‘全部’；jolly 以 'j' 开头，强调‘快乐’。joy（快乐） vs jolly（欢乐的）：joy 是名词/动词，jolly 是形容词，拼写多 'lly'。ally（盟友） vs jolly（欢乐的）：ally 以 'a' 开头，意为‘结盟’；jolly 以 'j' 开头，意为‘快乐’。doll（玩偶） vs jolly（欢乐的）：doll 以 'd' 开头，指玩具；jolly 以 'j' 开头，指情绪。holy（神圣的） vs jolly（欢乐的）：holy 以 'h' 开头，拼写 'oly'；jolly 以 'j' 开头，拼写 'olly'。july（七月） vs jolly（欢乐的）：july 拼写 'uly'，指月份；jolly 拼写 'olly'，指情绪。only（仅仅） vs jolly（欢乐的）：only 以 'o' 开头，意为‘唯一’；jolly 以 'j' 开头，意为‘快乐’。poll（投票） vs jolly（欢乐的）：poll 以 'p' 开头，指调查；jolly 以 'j' 开头，指情绪。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "journal",
+      "word": "journal",
+      "phonetic": "/'dʒə:nəl/",
+      "meaning": "n.定期刊物,杂志,日报;日志,日记",
+      "similar": [
+        "journey"
+      ],
+      "question": {
+        "wordId": "journal",
+        "stem": "选择 \"journal\" 的正确中文意思：",
+        "correct": "n.定期刊物,杂志,日报;日志,日记",
+        "options": [
+          "n.定期刊物,杂志,日报;日志,日记",
+          "n.旅行,旅程 v.旅行",
+          "n.宝石,宝石饰物",
+          "n.运动场,游戏场"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“diurnalis”（每日的），经由古法语“jurnal”进入英语。词根“di-”表示“日”，核心动作是“每日发生的事情的记录”。后演变为“日报、期刊”，强调定期出版；引申为“日志、日记”，强调按日期记录个人事件。",
+        "similarWarning": "与journey（n.旅行，旅程）拼写相似。区别在于：journal有“nal”结尾，journey有“ney”结尾。词义上，journal强调“定期记录”，journey强调“一段行程”。",
+        "extendedMeaning": "在考研中常考“日志、日记”义，如“keep a journal”（写日记），或引申为“（学术/专业）期刊”，如“academic journal”（学术期刊）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "journalist",
+      "word": "journalist",
+      "phonetic": "/'dʒə:nəlist/",
+      "meaning": "n.记者,新闻工作者",
+      "similar": [],
+      "question": {
+        "wordId": "journalist",
+        "stem": "选择 \"journalist\" 的正确中文意思：",
+        "correct": "n.记者,新闻工作者",
+        "options": [
+          "vt.使恼怒，使生气；打扰 vi.招人讨厌",
+          "n.鸽",
+          "n.财政,金融 v.为…提供资金",
+          "n.记者,新闻工作者"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源于拉丁语 'diurnalis'（每日的），词根 'di-'(日) → 法语 'journal'（日报）→ 词根 'journ-'(日) + 后缀 '-ist'(从事...的人) → 字面意为“写日报的人”，即记者、新闻工作者。核心动作：记录每日发生之事。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "journey",
+      "word": "journey",
+      "phonetic": "/'dʒə:ni/",
+      "meaning": "n.旅行,旅程 v.旅行",
+      "similar": [
+        "journal",
+        "courtesy"
+      ],
+      "question": {
+        "wordId": "journey",
+        "stem": "选择 \"journey\" 的正确中文意思：",
+        "correct": "n.旅行,旅程 v.旅行",
+        "options": [
+          "n.旅行,旅程 v.旅行",
+          "n.定期刊物,杂志,日报;日志,日记",
+          "n.谦恭有礼;有礼貌的举止(或言词)",
+          "n.手掌,掌状物,棕榈vt.与…握手,藏…于掌中"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语diurnus（每日的），经由古法语jornee（一天的路程）演变。jour=日，-ney后缀。核心动作：一日内可完成的行程，后泛指任何旅行。",
+        "similarWarning": "journal（日记，期刊）：jour-（日）+ -nal（名词后缀），强调每日的记录。courtesy（礼貌）：court（宫廷）+ -esy，原指宫廷礼仪。journey强调空间移动，journal强调时间记录，courtesy强调行为规范。",
+        "extendedMeaning": "（无特殊考研僻义）",
+        "examUsage": "（无特殊真题考点）"
+      }
+    },
+    {
+      "id": "judge",
+      "word": "judge",
+      "phonetic": "/dʒʌdʒ/",
+      "meaning": "n.法官;裁判员;鉴定人 vt.审判;评论,裁判",
+      "similar": [
+        "budget",
+        "jungle",
+        "jug",
+        "edge",
+        "june",
+        "rude",
+        "urge",
+        "badge"
+      ],
+      "question": {
+        "wordId": "judge",
+        "stem": "选择 \"judge\" 的正确中文意思：",
+        "correct": "n.法官;裁判员;鉴定人 vt.审判;评论,裁判",
+        "options": [
+          "n.预算 v.做预算",
+          "n.法官;裁判员;鉴定人 vt.审判;评论,裁判",
+          "n.丛林,生死地带",
+          "n.(有柄，小口，可盛水等的)大壶，罐，盂"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根judic-（判断，法律），来自拉丁语judex（法官），由jus（法律，权利）和dicere（说）组合而成，核心动作是“依据法律说出裁决”。",
+        "similarWarning": "budget（预算）：b（预算）+udget；jungle（丛林）：j+ungle（丛林）；jug（罐子）：j+ug；edge（边缘）：e+dge；huge（巨大的）：h+uge；june（六月）：j+une；rude（粗鲁的）：r+ude；urge（催促）：ur+ge。注意首字母或尾缀差异。",
+        "extendedMeaning": "考研中常考“judge”的名词义“鉴定人，鉴赏家”及动词义“评价，判断”，如“judge the value of”（评估价值）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "judgement",
+      "word": "judgement",
+      "phonetic": "/'dʒʌdʒmənt/",
+      "meaning": "n.(judgment)审判,判决;判断(力);看法,意见",
+      "similar": [
+        "augment",
+        "engagement",
+        "management",
+        "supplement"
+      ],
+      "question": {
+        "wordId": "judgement",
+        "stem": "选择 \"judgement\" 的正确中文意思：",
+        "correct": "n.(judgment)审判,判决;判断(力);看法,意见",
+        "options": [
+          "n.经营,管理;处理,操纵;管理部门",
+          "n.(judgment)审判,判决;判断(力);看法,意见",
+          "vt.(使)增大，增加，增长，扩张",
+          "n.约会,约定;婚约,订婚"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语judicare（评判），由judex（法官，即jus“法律”+dicere“说”）+名词后缀-ment构成。核心动作是“依据法律说出判断”，引申为对事物的评估或裁决。",
+        "similarWarning": "augment（增加）：aug-（增加）vs jud-（判断）；engagement（订婚/参与）：engage（参与）vs judge（判断）；management（管理）：manage（管理）vs judge（判断）；supplement（补充）：supple-（填充）vs judge（判断）。辨析：judgement强调裁决/评估，其他词无此核心义。",
+        "extendedMeaning": "在考研中常考“判断力”这一抽象含义，如a man of judgement（有判断力的人）或against one's better judgement（明知不可取地），而非仅指法律审判。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "judicial",
+      "word": "judicial",
+      "phonetic": "/dʒu:'diʃəl/",
+      "meaning": "a.司法的，审判的；明断的，公正的",
+      "similar": [
+        "municipal",
+        "medical",
+        "musical",
+        "radical",
+        "musician",
+        "official"
+      ],
+      "question": {
+        "wordId": "judicial",
+        "stem": "选择 \"judicial\" 的正确中文意思：",
+        "correct": "a.司法的，审判的；明断的，公正的",
+        "options": [
+          "a.音乐的;有音乐才能的 n.音乐片",
+          "a.司法的，审判的；明断的，公正的",
+          "a.医学的，医疗的，医药的；内科的",
+          "a.市(立,政)的;地方性的,地方自治的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根judic（判断）+ 后缀ial（属于...的）。核心动作是“与判断相关的”，源于拉丁语judicium（审判）。引申为司法、审判的，以及明断公正的。",
+        "similarWarning": "municipal（市政的，词根muni-公共） vs judicial（司法，词根judic-判断）；medical（医学的，med-治疗） vs judicial；musical（音乐的，mus-缪斯） vs judicial；radical（根本的，radic-根） vs judicial；musician（音乐家，-ian人） vs judicial（-ial形容词）；official（官方的，office办公室） vs judicial。核心区别在词根：judic-表判断。",
+        "extendedMeaning": "在考研中常考“公正的、明断的”这一引申义，如a judicial mind（公正的心智），强调理性判断而非情感。",
+        "examUsage": "高频搭配：judicial system（司法体系）、judicial review（司法审查）。真题例句：The judicial power of the United States shall be vested in one Supreme Court.（美国司法权属于最高法院。）注意区分judicial与judicious（明智的，审慎的），后者无司法含义。"
+      }
+    },
+    {
+      "id": "jug",
+      "word": "jug",
+      "phonetic": "/dʒʌg/",
+      "meaning": "n.(有柄，小口，可盛水等的)大壶，罐，盂",
+      "similar": [
+        "bug",
+        "hug",
+        "jog",
+        "mug",
+        "rug",
+        "tug",
+        "judge"
+      ],
+      "question": {
+        "wordId": "jug",
+        "stem": "选择 \"jug\" 的正确中文意思：",
+        "correct": "n.(有柄，小口，可盛水等的)大壶，罐，盂",
+        "options": [
+          "n.(有柄，小口，可盛水等的)大壶，罐，盂",
+          "n.臭虫;小毛病;窃听器 v.窃听",
+          "v./n.热烈拥抱,紧抱",
+          "v.慢跑"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能拟声词，模仿液体倒出时的声音。核心物理动作：容器，用于盛放液体。",
+        "similarWarning": "bug (虫子/漏洞, b-像虫体), hug (拥抱, h-像手臂环抱), jog (慢跑, j-像跳跃动作), mug (马克杯/脸, m-像杯口圆形), rug (小地毯, r-像编织纹理), tug (猛拉, t-像用力方向), judge (判断/法官, dge-像裁决动作). 区别: jug 强调有柄大壶，mug 为无柄圆筒杯。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "juice",
+      "word": "juice",
+      "phonetic": "/dʒu:s/",
+      "meaning": "n.(水果等)汁,液",
+      "similar": [
+        "justice",
+        "june",
+        "rice",
+        "vice",
+        "guide",
+        "judge",
+        "ounce",
+        "slice"
+      ],
+      "question": {
+        "wordId": "juice",
+        "stem": "选择 \"juice\" 的正确中文意思：",
+        "correct": "n.(水果等)汁,液",
+        "options": [
+          "n.六月",
+          "n.公正,公平;审判,司法",
+          "n.稻,米",
+          "n.(水果等)汁,液"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'jus'（汤汁、汁液），核心物理动作是 '提取/榨出液体'。词根 'jus' 与 'juice' 同源，表示从植物或果实中压出的液体，强调 '流动的精华'。",
+        "similarWarning": "juice vs justice（正义，含词根 'just' 公平），拼写差异 'i' 与 'ust'；juice vs ice（冰），拼写差异 'ju' 与 'i'；juice vs june（六月），拼写差异 'ce' 与 'ne'。",
+        "extendedMeaning": "熟词僻义：在考研英语中，juice 可引申为 '精力、活力'（如 'mental juice' 脑力），或比喻 '权力、影响力'（如 'political juice' 政治能量）。此外，在口语或科技语境中可指 '电流'（如 'battery juice' 电池电量）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "july",
+      "word": "July",
+      "phonetic": "/dʒu'laɪ/",
+      "meaning": "n.七月",
+      "similar": [
+        "jury",
+        "bully",
+        "jolly"
+      ],
+      "question": {
+        "wordId": "july",
+        "stem": "选择 \"July\" 的正确中文意思：",
+        "correct": "n.七月",
+        "options": [
+          "a.欢乐的,高兴的",
+          "n.恃强欺弱者，小流氓 vt.威胁，欺侮",
+          "n.陪审团;全体评审员",
+          "n.七月"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'Julius'（尤利乌斯），为纪念罗马统帅尤利乌斯·恺撒（Julius Caesar）而命名。词根 Julius 直接音译为 'July'，无复杂词根演变，核心动作是 '命名纪念'。",
+        "similarWarning": "jury（陪审团，n.）vs. July（七月，n.）：jury 拼写结尾为 -ry，July 为 -ly；词义无关联。bully（霸凌，v./n.）vs. July：bully 以 -ly 结尾但首字母 b-，July 为 J-；易混淆在于发音相似但含义截然不同。jolly（快乐的，adj.）vs. July：jolly 首字母 j- 且以 -ly 结尾，但词义差异大，注意拼写中 'o' 与 'u' 的区别。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "jump",
+      "word": "jump",
+      "phonetic": "/dʒʌmp/",
+      "meaning": "v./n.跳跃,跳动,跳过;暴涨,猛增",
+      "similar": [
+        "bump",
+        "dump",
+        "lump",
+        "pump"
+      ],
+      "question": {
+        "wordId": "jump",
+        "stem": "选择 \"jump\" 的正确中文意思：",
+        "correct": "v./n.跳跃,跳动,跳过;暴涨,猛增",
+        "options": [
+          "v.(against,into)碰;颠簸着前进 n.碰撞",
+          "v./n.跳跃,跳动,跳过;暴涨,猛增",
+          "v.倾倒,倾卸 n.垃圾场",
+          "n.团,块 v.(使)成团,(使)成块"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿跳跃时身体腾空或落地的声响，核心物理动作为“双脚离地向上或向前移动”。引申为“跳过、跨越”障碍，再抽象为“价格、数量等突然、快速地上升”。",
+        "similarWarning": "bump /bʌmp/（碰撞、颠簸） vs jump /dʒʌmp/：bump强调“碰”的动作，jump强调“跳”的动作。dump /dʌmp/（倾倒、丢弃） vs jump：dump是“倒”，jump是“跳”。lump /lʌmp/（块、肿块） vs jump：lump是名词“块”，jump是动词“跳”。pump /pʌmp/（泵、抽水） vs jump：pump是“泵送”，jump是“跳跃”。",
+        "extendedMeaning": "考研僻义：暴涨、猛增（尤指价格、数量、气温等）。如：prices jumped / a jump in sales（销量激增）。",
+        "examUsage": "真题考点：常用搭配jump at（欣然接受），如：jump at the opportunity（抓住机会）；jump to conclusions（仓促下结论）。考研阅读中常以“价格/数据+ jump”形式出现，表突然上升，干扰项可能用rise/soar等近义词替换，需注意程度差异。"
+      }
+    },
+    {
+      "id": "junction",
+      "word": "junction",
+      "phonetic": "/'dʒʌŋkʃən/",
+      "meaning": "n.连接,接合,交叉点,枢纽站,接头,中继线",
+      "similar": [
+        "function",
+        "auction",
+        "sanction",
+        "action",
+        "junior",
+        "nation",
+        "notion",
+        "fiction"
+      ],
+      "question": {
+        "wordId": "junction",
+        "stem": "选择 \"junction\" 的正确中文意思：",
+        "correct": "n.连接,接合,交叉点,枢纽站,接头,中继线",
+        "options": [
+          "n./v.批准,同意,支持,认可 n.处罚,制裁",
+          "n.／vt.拍卖",
+          "n.功能,作用;(pl.)职务;函数 v.起作用",
+          "n.连接,接合,交叉点,枢纽站,接头,中继线"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语iunctio(n-)，由iungere（连接）派生，词根jug-（连接）加名词后缀-tion。核心物理动作为“连接在一起”，引申为连接点或连接状态。",
+        "similarWarning": "junction vs function: junction强调连接点（j-连接），function强调功能（func-执行）。junction vs auction: auction拍卖（auc-增加），junction连接（junc-连接）。junction vs sanction: sanction批准（sanct-神圣），junction连接（junc-连接）。",
+        "extendedMeaning": "在交通领域常指“枢纽站”或“交叉路口”，如railway junction；在电子学中指“接头”或“中继线”，如junction box。",
+        "examUsage": "真题中常作为交通或工程类阅读词汇出现，搭配at the junction of（在……交叉点），如：at the junction of two rivers。"
+      }
+    },
+    {
+      "id": "june",
+      "word": "June",
+      "phonetic": "/dʒu:n/",
+      "meaning": "n.六月",
+      "similar": [
+        "junk",
+        "tune",
+        "jungle",
+        "judge",
+        "juice",
+        "ounce"
+      ],
+      "question": {
+        "wordId": "june",
+        "stem": "选择 \"June\" 的正确中文意思：",
+        "correct": "n.六月",
+        "options": [
+          "n.丛林,生死地带",
+          "n.调子,曲调;和谐,协调 vt.调音,调节,调整",
+          "n.废物，旧货；舢板",
+          "n.六月"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语Junius，罗马女神朱诺（Juno）之月。朱诺是婚姻与生育之神，六月传统上被认为是举行婚礼的吉月。词根无复杂演变，直接借入英语。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "jungle",
+      "word": "jungle",
+      "phonetic": "/'dʒʌŋgl/",
+      "meaning": "n.丛林,生死地带",
+      "similar": [
+        "june",
+        "angle",
+        "judge",
+        "uncle",
+        "bundle",
+        "mingle",
+        "tangle",
+        "juvenile"
+      ],
+      "question": {
+        "wordId": "jungle",
+        "stem": "选择 \"jungle\" 的正确中文意思：",
+        "correct": "n.丛林,生死地带",
+        "options": [
+          "n.法官;裁判员;鉴定人 vt.审判;评论,裁判",
+          "n.六月",
+          "n.丛林,生死地带",
+          "n.角，角度 v.钓鱼；(采用各种方法）取得"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自梵语jangala，意为‘荒野、沙漠’。进入英语后，词义从‘荒地’演变为‘丛林’，强调原始、未开发的茂密植被区域。动词化引申为‘杂乱的一堆’，如‘丛林法则’（law of the jungle）指弱肉强食的生存竞争。",
+        "similarWarning": "jingle（叮当声）：jungle vs jingle，区别在‘u’（丛林）和‘i’（铃声）；tangle（纠缠）：jungle vs tangle，字母‘l’替换‘j’+‘g’；single（单一）：jungle vs single，首字母‘j’与‘s’不同。",
+        "extendedMeaning": "【熟词僻义】1. 混乱复杂的事物（a jungle of regulations 繁杂的法规）；2. 生死地带（the concrete jungle 水泥丛林，指城市中残酷竞争的环境）。",
+        "examUsage": "【真题考点】常见搭配‘the law of the jungle’（丛林法则），在阅读中常引申为‘弱肉强食的规则’，如‘The international market is a jungle where only the fittest survive.’"
+      }
+    },
+    {
+      "id": "junior",
+      "word": "junior",
+      "phonetic": "/'dʒu:njə/",
+      "meaning": "a./n.年少的/者,三年级的/学生,下级(的)",
+      "similar": [
+        "union",
+        "senior",
+        "junction"
+      ],
+      "question": {
+        "wordId": "junior",
+        "stem": "选择 \"junior\" 的正确中文意思：",
+        "correct": "a./n.年少的/者,三年级的/学生,下级(的)",
+        "options": [
+          "a.年长的;地位较高的 n.(大学)四年级学生",
+          "n.联合,团结;联盟,联邦;协会,社团;和谐",
+          "a./n.年少的/者,三年级的/学生,下级(的)",
+          "n.连接,接合,交叉点,枢纽站,接头,中继线"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'junior'，是 'juvenis'（年轻的）的比较级形式，意为“更年轻的”。核心动作/画面：年龄或资历上的“更小、更后”，引申为“下级、低年级”。",
+        "similarWarning": "与 senior（年长的、高级的）对比，junior 是“更年轻的”，senior 是“更年长的”，两者互为反义；与 union（联合）拼写相似但词根不同，union 源自 unus（一），意为“统一”；与 junction（连接点）拼写部分重叠，但 junction 源于 jungere（连接），指道路或线路的交汇处。",
+        "extendedMeaning": "在考研或外刊中，junior 常作名词指“（美国四年制大学或中学的）三年级学生”，或作形容词表示“（职位、级别）较低的”，如 junior analyst（初级分析师）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "junk",
+      "word": "junk",
+      "phonetic": "/dʒʌŋk/",
+      "meaning": "n.废物，旧货；舢板",
+      "similar": [
+        "june",
+        "drunk",
+        "trunk"
+      ],
+      "question": {
+        "wordId": "junk",
+        "stem": "选择 \"junk\" 的正确中文意思：",
+        "correct": "n.废物，旧货；舢板",
+        "options": [
+          "a.醉酒的；(喻)陶醉的 n.酗酒者，醉汉",
+          "n.六月",
+          "n.大衣箱,皮箱;(汽车后部)行李箱;树干,躯干",
+          "n.废物，旧货；舢板"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"词源不确定，可能来自古法语junc（芦苇），芦苇易折断被视为无用之物，引申为“废物、旧货”。核心动作：无用的杂物堆积。\",\n  \"similarWarning\": \"junk vs. trunk: junk（废物）首字母 j-，trunk（树干/行李箱）首字母 tr-；junk vs. drunk: junk（废物）中间 u，drunk（喝醉的）中间 r。\",\n  \"extendedMeaning\": \"junk在考研中常考“垃圾信息、无价值的东西”之喻义，如junk food（垃圾食品）或junk science（伪科学）。\",\n  \"examUsage\"",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "jury",
+      "word": "jury",
+      "phonetic": "/'dʒuəri/",
+      "meaning": "n.陪审团;全体评审员",
+      "similar": [
+        "bury",
+        "july",
+        "injury",
+        "hurry"
+      ],
+      "question": {
+        "wordId": "jury",
+        "stem": "选择 \"jury\" 的正确中文意思：",
+        "correct": "n.陪审团;全体评审员",
+        "options": [
+          "n.伤害，损害",
+          "n.七月",
+          "v.埋(葬),安葬;埋藏,遮盖",
+          "n.陪审团;全体评审员"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'iurare'（发誓），词根 'jur-' 表“法律、誓言”。核心动作：在法庭上宣誓后组成的一群人，即“陪审团”。引申为“评审团”，指在比赛中宣誓公正评判的一群人。",
+        "similarWarning": "jury vs. bury: 'jury' 以 'jur-' 开头，表法律；'bury' 以 'bur-' 开头，表埋藏。jury vs. july: 'jury' 结尾 'y'，表人；'july' 结尾 'ly'，表月份。jury vs. injury: 'jury' 无前缀；'injury' 有前缀 'in-' 表否定，加 'jur-' 表法律，合为“不合法”即伤害。",
+        "extendedMeaning": "",
+        "examUsage": "考研真题中常考 'jury' 的搭配：'the jury is out' 意为“尚未有定论”，如 'The jury is still out on the effectiveness of the new policy.' 此短语可作阅读理解中的态度题线索。"
+      }
+    },
+    {
+      "id": "justice",
+      "word": "justice",
+      "phonetic": "/'dʒʌstis/",
+      "meaning": "n.公正,公平;审判,司法",
+      "similar": [
+        "juice",
+        "justify"
+      ],
+      "question": {
+        "wordId": "justice",
+        "stem": "选择 \"justice\" 的正确中文意思：",
+        "correct": "n.公正,公平;审判,司法",
+        "options": [
+          "n.叹息,叹息声 v.叹息,叹气",
+          "n.公正,公平;审判,司法",
+          "n.(水果等)汁,液",
+          "v.证明...正当(或有理、正确)，为...辩护"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根just-（公正，法律）+ -ice（名词后缀），核心物理动作为“使事物符合法律或道德标准”，本义为“公正的状态或行为”，引申为“司法、审判”。",
+        "similarWarning": "juice（果汁）与justice拼写仅差“st”，但词义无关；justify（证明正当）与justice共享词根just-，但后缀不同，justify强调“使…公正”的动作。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "justify",
+      "word": "justify",
+      "phonetic": "/'dʒʌstifai/",
+      "meaning": "v.证明...正当(或有理、正确)，为...辩护",
+      "similar": [
+        "justice",
+        "testify",
+        "quantify"
+      ],
+      "question": {
+        "wordId": "justify",
+        "stem": "选择 \"justify\" 的正确中文意思：",
+        "correct": "v.证明...正当(或有理、正确)，为...辩护",
+        "options": [
+          "v.作证，证明；(to)表明，说明",
+          "n.公正,公平;审判,司法",
+          "v.确定数量",
+          "v.证明...正当(或有理、正确)，为...辩护"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根just-（正义、法律） + -ify（使动后缀，表示“使成为”）。核心动作：使某事物符合正义或法律标准，即“证明其正当性”。",
+        "similarWarning": "justice（n. 正义；法官）：just- + -ice（名词后缀）。testify（v. 作证）：test-（证据） + -ify。quantify（v. 量化）：quant-（数量） + -ify。",
+        "extendedMeaning": "在考研中常引申为“为…辩护”，强调主观上找理由使行为合理，如“justify one's actions”。",
+        "examUsage": "考点搭配：justify doing sth.（证明做某事合理）。真题例句：The ends do not justify the means.（目的不能证明手段正当。）"
+      }
+    },
+    {
+      "id": "juvenile",
+      "word": "juvenile",
+      "phonetic": "/'dʒu:vənail/",
+      "meaning": "n.青少年,少年读物 a.青少年的, 幼稚的",
+      "similar": [
+        "jungle"
+      ],
+      "question": {
+        "wordId": "juvenile",
+        "stem": "选择 \"juvenile\" 的正确中文意思：",
+        "correct": "n.青少年,少年读物 a.青少年的, 幼稚的",
+        "options": [
+          "a.易碎的，脆的，易损坏的；虚弱的，脆弱的",
+          "v.下来,下降;遗传(指财产,气质,权利)",
+          "n.丛林,生死地带",
+          "n.青少年,少年读物 a.青少年的, 幼稚的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 juvenis（年轻的），词根 juven- 表示“年轻”，-ile 为形容词后缀，意为“属于…的”。核心动作：处于年轻状态，引申为“青少年”或“幼稚”。",
+        "similarWarning": "juvenile vs jungle：juvenile 含 juven-（年轻），jungle 含 jung-（结合，指丛林植被纠缠）。拼写差异：juvenile 有 -ven-，jungle 有 -ngl-。",
+        "extendedMeaning": "熟词僻义：在考研中可指“少年读物”，如 juvenile literature（少年文学）；或“幼稚的”，如 juvenile behavior（幼稚行为），常含贬义。",
+        "examUsage": "真题考点：常与 adolescent 辨析，juvenile 更侧重法律或社会语境（如 juvenile delinquency 青少年犯罪），而 adolescent 强调生理心理阶段。例句：The government has taken measures to reduce juvenile crime.（政府已采取措施减少青少年犯罪。）"
+      }
+    },
+    {
+      "id": "keen",
+      "word": "keen",
+      "phonetic": "/ki:n/",
+      "meaning": "a.锋利的;敏锐的;敏捷的;(on)热心的,渴望的",
+      "similar": [
+        "green",
+        "kneel",
+        "queen",
+        "seven"
+      ],
+      "question": {
+        "wordId": "keen",
+        "stem": "选择 \"keen\" 的正确中文意思：",
+        "correct": "a.锋利的;敏锐的;敏捷的;(on)热心的,渴望的",
+        "options": [
+          "n.女王,皇后,王后",
+          "a.锋利的;敏锐的;敏捷的;(on)热心的,渴望的",
+          "v.跪,下跪",
+          "a.绿色的;生的;未成熟的 n.绿色;蔬菜;植物"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语cene 'bold, brave'，后受古诺尔斯语kœnn 'wise, skillful'影响，核心物理动作为‘锋利切入’，引申为感官敏锐、思维敏捷、态度热切。",
+        "similarWarning": "keep（保持）vs keen（锋利）：首字母k相同，但keep含‘eep’表持续动作；kneel（跪下）vs keen：前者含‘neel’表膝盖动作，后者表锋利状态；queen（女王）vs keen：仅差‘u’与‘e’音变，但词义无关。",
+        "extendedMeaning": "考研僻义：1. 激烈的（竞争）‘keen competition’；2. 低廉的（价格）‘keen prices’，源自商业语境中‘锋利’引申为‘有竞争力的’。",
+        "examUsage": "真题考点：固定搭配‘be keen on’（热衷于）在阅读中常作态度题信号词；‘keen insight’（敏锐洞察）在议论文中表作者立场。"
+      }
+    },
+    {
+      "id": "kettle",
+      "word": "kettle",
+      "phonetic": "/'ketl/",
+      "meaning": "n.水壶",
+      "similar": [
+        "settle",
+        "battle",
+        "bottle",
+        "cattle",
+        "gentle"
+      ],
+      "question": {
+        "wordId": "kettle",
+        "stem": "选择 \"kettle\" 的正确中文意思：",
+        "correct": "n.水壶",
+        "options": [
+          "n.水壶",
+          "v.安定,安顿;停息;定居;解决,调停",
+          "n.瓶(子) v.装瓶",
+          "n.战役,战斗;斗争 v.战斗,斗争,搏斗"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源自拉丁语catillus（小碗），核心物理动作是“容器装水加热”，强调金属制烧水器具。",
+        "similarWarning": "cattle（牛）：字母c/k互换，kettle为水壶，cattle为牛群；bottle（瓶子）：b/k互换，bottle为玻璃瓶，kettle为金属壶。",
+        "extendedMeaning": "考研中无特殊僻义，仅指烧水壶。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "keyboard",
+      "word": "keyboard",
+      "phonetic": "/'ki:bɔ:d/",
+      "meaning": "n.键盘 vt.用键盘输入(信息)",
+      "similar": [
+        "aboard",
+        "cupboard"
+      ],
+      "question": {
+        "wordId": "keyboard",
+        "stem": "选择 \"keyboard\" 的正确中文意思：",
+        "correct": "n.键盘 vt.用键盘输入(信息)",
+        "options": [
+          "ad.&prep.在船(飞机、车)上；ad.上船(飞机)",
+          "a.(okey，OK，O.K.)好，行，不错 n.同意",
+          "n.键盘 vt.用键盘输入(信息)",
+          "n.碗柜,小橱"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "key（键）+ board（板）→ 带有按键的板子，即键盘。",
+        "similarWarning": "aboard（a-在...上 + board 板→在甲板上→上船/飞机），cupboard（cup杯子 + board板→放杯子的板→橱柜）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "kick",
+      "word": "kick",
+      "phonetic": "/kik/",
+      "meaning": "n./v.踢",
+      "similar": [
+        "lick",
+        "pick",
+        "tick",
+        "brick",
+        "click",
+        "knock",
+        "prick",
+        "trick"
+      ],
+      "question": {
+        "wordId": "kick",
+        "stem": "选择 \"kick\" 的正确中文意思：",
+        "correct": "n./v.踢",
+        "options": [
+          "vt.舔；(火焰或浪)掠过；打败 n.舔；少量",
+          "n./v.踢",
+          "n.滴答声;勾号 v.滴答响;打勾号于",
+          "v.拾,采,摘;挑选,选择 n.镐,鹤嘴锄"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟脚踢物体时的冲击声。核心物理动作为：腿部弯曲后猛然伸直，用脚撞击目标，本质是'用脚施加瞬间冲击力'。",
+        "similarWarning": "kick vs lick: kick以k开头，表脚踢；lick以l开头，表舔（舌部动作）。pick vs kick: pick以p开头，表挑选/采摘；kick以k开头，表踢。",
+        "extendedMeaning": "kick off (非字面：开始/启动)；get a kick out of (从…中获得乐趣)；kick the bucket (俚：去世，考研阅读中偶尔作为文化背景出现)。",
+        "examUsage": "kick back (放松/回扣，真题中可能涉及'回扣'的熟词僻义)；kick in (生效/开始起作用，如The effect kicks in after 24 hours.)"
+      }
+    },
+    {
+      "id": "kid",
+      "word": "kid",
+      "phonetic": "/kid/",
+      "meaning": "n.小孩,儿童 v.戏弄,取笑",
+      "similar": [
+        "aid",
+        "bid",
+        "kin",
+        "kit",
+        "lid",
+        "rid"
+      ],
+      "question": {
+        "wordId": "kid",
+        "stem": "选择 \"kid\" 的正确中文意思：",
+        "correct": "n.小孩,儿童 v.戏弄,取笑",
+        "options": [
+          "n.家族,亲属,血缘关系 a.亲属关系的,同类的",
+          "n.小孩,儿童 v.戏弄,取笑",
+          "n.援助，救护；助手，辅助物 vi.援助，救援",
+          "v.祝愿;命令,吩咐;报价,投标 n.出众,投标"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自拟声词，模仿儿童叫声或游戏声。核心动作/画面：与孩童相关的嬉戏、玩笑行为。",
+        "similarWarning": "形近词对比：\n- kid（小孩/戏弄） vs kind（种类/善良的）：仅差字母 'n'，但词义完全不同。\n- kid vs bid（出价/命令）：首字母不同，'k' vs 'b'，kid侧重人，bid侧重交易。\n- kid vs kit（工具包/成套装备）：尾字母不同，'d' vs 't'，kid指人，kit指物。\n- kid vs rid（摆脱）：首字母不同，'k' vs 'r'，kid是戏弄，rid是去除。",
+        "extendedMeaning": "考研僻义：v. 戏弄，取笑（非字面意思，常用于口语或真题阅读中表达轻松或讽刺语气，如‘I'm just kidding.’）。",
+        "examUsage": "真题考点：无特殊高频考点，但需注意动词用法‘kid sb. about sth.’（因某事戏弄某人），常作为非正式语境词出现，干扰项可能混淆其名词与动词词性。"
+      }
+    },
+    {
+      "id": "kidnap",
+      "word": "kidnap",
+      "phonetic": "/'kidnæp/",
+      "meaning": "vt.诱拐；绑架，劫持",
+      "similar": [
+        "kidney"
+      ],
+      "question": {
+        "wordId": "kidnap",
+        "stem": "选择 \"kidnap\" 的正确中文意思：",
+        "correct": "vt.诱拐；绑架，劫持",
+        "options": [
+          "a.男性的，似男性的；［语法］阳性的",
+          "n.耙子,耙机 v.耙;搜索,探索",
+          "n.肾,肾脏",
+          "vt.诱拐；绑架，劫持"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源：kid（小孩）+ nap（源自napper，意为“小偷、盗贼”）。核心动作：偷小孩。引申为任何形式的绑架、劫持。",
+        "similarWarning": "kidney（肾脏）：拼写差异在于“nap” vs “ney”。kidnap指绑架人，kidney是身体器官，词义无关联。",
+        "extendedMeaning": "在考研真题中，kidnap多用于政治或犯罪语境，如“kidnap a politician”（绑架政客），偶尔引申为“非法劫持车辆/飞机”（hijack更常见）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "kidney",
+      "word": "kidney",
+      "phonetic": "/'kidni/",
+      "meaning": "n.肾,肾脏",
+      "similar": [
+        "kidnap",
+        "kindness"
+      ],
+      "question": {
+        "wordId": "kidney",
+        "stem": "选择 \"kidney\" 的正确中文意思：",
+        "correct": "n.肾,肾脏",
+        "options": [
+          "n.神话;虚构的理论",
+          "n.仁慈,亲切;好意;友好行为",
+          "vt.诱拐；绑架，劫持",
+          "n.肾,肾脏"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，但可联想kid（小孩）+ney（可能源自古英语nēo，意为“肾”），或与“kidney bean”（菜豆）形状相似。核心指人体过滤血液的器官。",
+        "similarWarning": "kidnap（绑架）: kidnap vs kidney，差异在nap/ney，nap意为“抓走”，ney与肾脏无关。kindness（善良）: kindness vs kidney，差异在ness/ney，ness是名词后缀。",
+        "extendedMeaning": "在医学或生物语境中可指“肾形物”，如kidney stone（肾结石）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "kill",
+      "word": "kill",
+      "phonetic": "/kil/",
+      "meaning": "vt.杀死，消灭；破坏，毁灭；消磨(时间)",
+      "similar": [
+        "skill",
+        "bill",
+        "fill",
+        "kilo",
+        "mill",
+        "pill",
+        "till",
+        "chill"
+      ],
+      "question": {
+        "wordId": "kill",
+        "stem": "选择 \"kill\" 的正确中文意思：",
+        "correct": "vt.杀死，消灭；破坏，毁灭；消磨(时间)",
+        "options": [
+          "n.账单;招贴,广告;(人员,职称等的)表;钞票",
+          "n.技能,技巧,手艺;熟练",
+          "v.(with)填满,充满",
+          "vt.杀死，消灭；破坏，毁灭；消磨(时间)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语cwellan“杀死，谋杀”，与古英语cwelan“死亡”同源，原始日耳曼语*kwel-“死亡，受苦”。核心物理动作是“使生命终止”，引申为“使某物停止或失效”。",
+        "similarWarning": "skill（技能，技巧）：kill加s，强调“能力”；ill（生病的，坏的）：kill去k，强调“疾病”；bill（账单，鸟喙）：kill改k为b，强调“票据”；fill（填满）：kill改k为f，强调“填充”；hill（小山）：kill改k为h，强调“地形”；kilo（千克）：kill加o，强调“重量单位”；mill（磨坊，工厂）：kill改k为m，强调“加工”；pill（药丸）：kill改k为p，强调“药物”。",
+        "extendedMeaning": "消磨（时间）：如kill time（消磨时间）；破坏，毁灭：如kill the mood（破坏气氛）。",
+        "examUsage": "kill off（消灭，灭绝）：在真题阅读中用于描述物种灭绝或技术淘汰。"
+      }
+    },
+    {
+      "id": "kilo",
+      "word": "kilo",
+      "phonetic": "/'ki:ləu/",
+      "meaning": "n.(kilogram/kilogramme)千克",
+      "similar": [
+        "kill",
+        "pilot",
+        "skill"
+      ],
+      "question": {
+        "wordId": "kilo",
+        "stem": "选择 \"kilo\" 的正确中文意思：",
+        "correct": "n.(kilogram/kilogramme)千克",
+        "options": [
+          "n.(kilogram/kilogramme)千克",
+          "vt.杀死，消灭；破坏，毁灭；消磨(时间)",
+          "n.飞行员;领港员 v.驾驶(飞机等);领航,引水",
+          "n.技能,技巧,手艺;熟练"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源于希腊语chilioi（一千），通过法语进入英语。核心物理动作是“千”的量化单位，作为前缀表示1000倍，后独立为名词指代千克（kilogram的简写）。",
+        "similarWarning": "kill（杀死）：末尾字母l替换为双l，词义无关；pilot（飞行员）：首字母p替换为k，拼写差异大；skill（技能）：首字母s替换为k，词根不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "kilometre",
+      "word": "kilometre",
+      "phonetic": "/'kiləmi:tə(r)/",
+      "meaning": "n.(kilometer) 公里，千米(略作km)",
+      "similar": [],
+      "question": {
+        "wordId": "kilometre",
+        "stem": "选择 \"kilometre\" 的正确中文意思：",
+        "correct": "n.(kilometer) 公里，千米(略作km)",
+        "options": [
+          "n.计算机,电脑;计算者",
+          "v.覆盖,包括,涉及，报道 n.盖子,套子;(书的)封面",
+          "n.消费(量),消耗",
+          "n.(kilometer) 公里，千米(略作km)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自法语 'kilomètre'，由希腊语前缀 'khilioi'（一千）和法语 'mètre'（米）组合而成，核心动作是“一千个米”，即长度单位公里。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "kin",
+      "word": "kin",
+      "phonetic": "/kin/",
+      "meaning": "n.家族,亲属,血缘关系 a.亲属关系的,同类的",
+      "similar": [
+        "skin",
+        "bin",
+        "kid",
+        "kit",
+        "pin",
+        "sin",
+        "tin"
+      ],
+      "question": {
+        "wordId": "kin",
+        "stem": "选择 \"kin\" 的正确中文意思：",
+        "correct": "n.家族,亲属,血缘关系 a.亲属关系的,同类的",
+        "options": [
+          "n.小孩,儿童 v.戏弄,取笑",
+          "n.(贮藏食物等用的)箱子",
+          "n.皮,皮肤;兽皮,皮毛;外皮,外壳 v.剥皮",
+          "n.家族,亲属,血缘关系 a.亲属关系的,同类的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "kin源自古英语cynn，与拉丁语genus（种族、起源）同源，核心物理动作为“生出、产生”。词根gen/gon（生育、起源）的变体，表示同一血统或起源的群体。",
+        "similarWarning": "kind（种类，仁慈的）与kin拼写相近，但kind侧重类别或友善态度；king（国王）多一个字母g，指统治者；skin（皮肤）开头多s，指身体表皮；in（在...内）为介词；bin（箱子）开头b，指容器；kid（小孩，开玩笑）多字母d，指年轻人或戏弄；pin（别针）开头p，指固定工具。",
+        "extendedMeaning": "在考研中，kin常引申为“同类物”或“相似性质”，如“kinetic”（运动的）源自同根，但kin本身较少僻义，主要保留血缘关系或同类属性。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "kindergarten",
+      "word": "kindergarten",
+      "phonetic": "/'kindəˌgɑ:tən/",
+      "meaning": "n.幼儿园",
+      "similar": [],
+      "question": {
+        "wordId": "kindergarten",
+        "stem": "选择 \"kindergarten\" 的正确中文意思：",
+        "correct": "n.幼儿园",
+        "options": [
+          "n.幼儿园",
+          "a.古怪的，离奇的；怪诞的，神秘而可怕的",
+          "n./v.假装,伪装",
+          "a.(to,for)必不可少的,必需的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自德语：Kinder（孩子）+ Garten（花园），直译为“孩子的花园”。核心动作/画面：将幼儿比作植物，在花园中培育成长。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    }
+  ]
+}

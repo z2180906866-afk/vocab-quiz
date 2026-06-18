@@ -1,0 +1,1643 @@
+{
+  "batchId": 94,
+  "words": [
+    {
+      "id": "trust",
+      "word": "trust",
+      "phonetic": "/'trʌst/",
+      "meaning": "vt.信任;盼望;委托 n.(in)信任,依赖;委托",
+      "similar": [
+        "thrust",
+        "rust",
+        "crust",
+        "dust",
+        "just",
+        "must",
+        "rest",
+        "rush"
+      ],
+      "question": {
+        "wordId": "trust",
+        "stem": "选择 \"trust\" 的正确中文意思：",
+        "correct": "vt.信任;盼望;委托 n.(in)信任,依赖;委托",
+        "options": [
+          "vt.信任;盼望;委托 n.(in)信任,依赖;委托",
+          "vt.插入；猛推 n.插，推力 vi.刺，戳，冲",
+          "n.外皮,壳;地壳",
+          "n.铁锈 v.(使)生锈"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：trust的核心含义与\"vt.信任;盼望;委托 n.(in)信任,依赖;委托\"相关",
+        "similarWarning": "注意区分：trust 与 thrust, rust, crust, dust, just, must, rest, rush 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "truth",
+      "word": "truth",
+      "phonetic": "/tru:θ/",
+      "meaning": "n.真实，真相；真实性；真理",
+      "similar": [
+        "rush",
+        "true",
+        "brush",
+        "crush",
+        "mouth",
+        "south",
+        "tooth",
+        "touch"
+      ],
+      "question": {
+        "wordId": "truth",
+        "stem": "选择 \"truth\" 的正确中文意思：",
+        "correct": "n.真实，真相；真实性；真理",
+        "options": [
+          "a.真实，不假的；忠实，可靠的；正确无误的",
+          "n.刷(子),毛刷;画笔 v.刷,擦,掸,拂;掠过",
+          "v.(使)冲;奔n.冲,急速行进 a.(交通)繁忙的",
+          "n.真实，真相；真实性；真理"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：truth的核心含义与\"n.真实，真相；真实性；真理\"相关",
+        "similarWarning": "注意区分：truth 与 rush, true, brush, crush, mouth, south, tooth, touch 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "try",
+      "word": "try",
+      "phonetic": "/trai/",
+      "meaning": "v.尝试，试图；试验，试用；审讯 n.尝试",
+      "similar": [
+        "tray",
+        "cry",
+        "dry",
+        "fry",
+        "toy",
+        "entry",
+        "story"
+      ],
+      "question": {
+        "wordId": "try",
+        "stem": "选择 \"try\" 的正确中文意思：",
+        "correct": "v.尝试，试图；试验，试用；审讯 n.尝试",
+        "options": [
+          "a.干(旱)的；干渴的；枯燥 vt.使干燥，晒干",
+          "n.&v.叫，喊，哭；(鸟兽)叫，啼，鸣，嗥",
+          "n.盘,碟,托盘",
+          "v.尝试，试图；试验，试用；审讯 n.尝试"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：try的核心含义与\"v.尝试，试图；试验，试用；审讯 n.尝试\"相关",
+        "similarWarning": "注意区分：try 与 tray, cry, dry, fry, toy, entry, story 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tub",
+      "word": "tub",
+      "phonetic": "/tʌb/",
+      "meaning": "n.木盆,澡盆",
+      "similar": [
+        "tube",
+        "pub",
+        "rub",
+        "tug",
+        "thumb"
+      ],
+      "question": {
+        "wordId": "tub",
+        "stem": "选择 \"tub\" 的正确中文意思：",
+        "correct": "n.木盆,澡盆",
+        "options": [
+          "n.木盆,澡盆",
+          "n.管,软管;电子管,显像管;地铁",
+          "v.擦,摩擦",
+          "n.(英国)小酒店；小旅馆"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：tub的核心含义与\"n.木盆,澡盆\"相关",
+        "similarWarning": "注意区分：tub 与 tube, pub, rub, tug, thumb 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tube",
+      "word": "tube",
+      "phonetic": "/tju:b/",
+      "meaning": "n.管,软管;电子管,显像管;地铁",
+      "similar": [
+        "tub",
+        "cube",
+        "tune",
+        "tumble",
+        "table",
+        "tribe"
+      ],
+      "question": {
+        "wordId": "tube",
+        "stem": "选择 \"tube\" 的正确中文意思：",
+        "correct": "n.管,软管;电子管,显像管;地铁",
+        "options": [
+          "n.调子,曲调;和谐,协调 vt.调音,调节,调整",
+          "n.立方形,立方体;立方,三次幂",
+          "n.木盆,澡盆",
+          "n.管,软管;电子管,显像管;地铁"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：tube的核心含义与\"n.管,软管;电子管,显像管;地铁\"相关",
+        "similarWarning": "注意区分：tube 与 tub, cube, tune, tumble, table, tribe 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tuck",
+      "word": "tuck",
+      "phonetic": "/tʌk/",
+      "meaning": "v.卷起;塞进",
+      "similar": [
+        "truck",
+        "duck",
+        "luck",
+        "suck",
+        "tick",
+        "lucky",
+        "quick",
+        "stack"
+      ],
+      "question": {
+        "wordId": "tuck",
+        "stem": "选择 \"tuck\" 的正确中文意思：",
+        "correct": "v.卷起;塞进",
+        "options": [
+          "v.卷起;塞进",
+          "n.卡车,载重汽车",
+          "n.鸭,鸭肉 v.迅速俯身;快速低头;躲避",
+          "n.运气;好运,侥幸"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：tuck的核心含义与\"v.卷起;塞进\"相关",
+        "similarWarning": "注意区分：tuck 与 truck, duck, luck, suck, tick, lucky, quick, stack 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tuesday",
+      "word": "Tuesday",
+      "phonetic": "/'tju:zdei/",
+      "meaning": "n.星期二",
+      "similar": [
+        "thursday"
+      ],
+      "question": {
+        "wordId": "tuesday",
+        "stem": "选择 \"Tuesday\" 的正确中文意思：",
+        "correct": "n.星期二",
+        "options": [
+          "v.拿着;保有;托住;举行;继续 n.握住;船舱",
+          "num.五 pron./a.五(个，只...)",
+          "n.星期四",
+          "n.星期二"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：Tuesday的核心含义与\"n.星期二\"相关",
+        "similarWarning": "注意区分：Tuesday 与 thursday 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tug",
+      "word": "tug",
+      "phonetic": "/tʌg/",
+      "meaning": "v.用力拖(或拉)；苦干 n.拖；苦干；拖船",
+      "similar": [
+        "bug",
+        "hug",
+        "jug",
+        "mug",
+        "rug",
+        "tag",
+        "tub",
+        "tough"
+      ],
+      "question": {
+        "wordId": "tug",
+        "stem": "选择 \"tug\" 的正确中文意思：",
+        "correct": "v.用力拖(或拉)；苦干 n.拖；苦干；拖船",
+        "options": [
+          "v.用力拖(或拉)；苦干 n.拖；苦干；拖船",
+          "n.臭虫;小毛病;窃听器 v.窃听",
+          "v./n.热烈拥抱,紧抱",
+          "n.(有柄，小口，可盛水等的)大壶，罐，盂"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：tug的核心含义与\"v.用力拖(或拉)；苦干 n.拖；苦干；拖船\"相关",
+        "similarWarning": "注意区分：tug 与 bug, hug, jug, mug, rug, tag, tub, tough 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tuition",
+      "word": "tuition",
+      "phonetic": "/tju:'iʃən/",
+      "meaning": "n.学费；(某一学科的)教学，讲授，指导",
+      "similar": [
+        "intuition",
+        "auction",
+        "edition",
+        "nutrition",
+        "situation",
+        "tradition",
+        "addition",
+        "ambition"
+      ],
+      "question": {
+        "wordId": "tuition",
+        "stem": "选择 \"tuition\" 的正确中文意思：",
+        "correct": "n.学费；(某一学科的)教学，讲授，指导",
+        "options": [
+          "n.版,版本,版次",
+          "n.／vt.拍卖",
+          "n.直觉，直观；凭直觉而知的事物",
+          "n.学费；(某一学科的)教学，讲授，指导"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：tuition的核心含义与\"n.学费；(某一学科的)教学，讲授，指导\"相关",
+        "similarWarning": "注意区分：tuition 与 intuition, auction, edition, nutrition, situation, tradition, addition, ambition 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tumble",
+      "word": "tumble",
+      "phonetic": "/'tʌmbl/",
+      "meaning": "v.(使)摔倒;打滚,翻腾 n.摔跤,跌倒",
+      "similar": [
+        "stumble",
+        "humble",
+        "tremble",
+        "tube",
+        "table",
+        "bubble",
+        "gamble",
+        "temple"
+      ],
+      "question": {
+        "wordId": "tumble",
+        "stem": "选择 \"tumble\" 的正确中文意思：",
+        "correct": "v.(使)摔倒;打滚,翻腾 n.摔跤,跌倒",
+        "options": [
+          "n.战栗,颤抖 v.发抖,颤抖；摇动；焦虑",
+          "v.(使)摔倒;打滚,翻腾 n.摔跤,跌倒",
+          "n.跌倒，绊倒 vi.绊(摔)倒；结结巴巴说",
+          "a.谦卑的,恭顺的;地位低下的 v.降低,贬低"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：tumble的核心含义与\"v.(使)摔倒;打滚,翻腾 n.摔跤,跌倒\"相关",
+        "similarWarning": "注意区分：tumble 与 stumble, humble, tremble, tube, table, bubble, gamble, temple 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tumour",
+      "word": "tumour",
+      "phonetic": "/'tju:mə/",
+      "meaning": "n.(tumor)(肿)瘤，肿块",
+      "similar": [
+        "tour",
+        "humor",
+        "rumor",
+        "tutor"
+      ],
+      "question": {
+        "wordId": "tumour",
+        "stem": "选择 \"tumour\" 的正确中文意思：",
+        "correct": "n.(tumor)(肿)瘤，肿块",
+        "options": [
+          "n.(humour)幽默,诙谐",
+          "n.旅游，旅行；巡回演出/比赛 v.旅游",
+          "n.(rumour)传闻,谣言",
+          "n.(tumor)(肿)瘤，肿块"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：tumour的核心含义与\"n.(tumor)(肿)瘤，肿块\"相关",
+        "similarWarning": "注意区分：tumour 与 tour, humor, rumor, tutor 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tune",
+      "word": "tune",
+      "phonetic": "/tju:n/",
+      "meaning": "n.调子,曲调;和谐,协调 vt.调音,调节,调整",
+      "similar": [
+        "june",
+        "tone",
+        "tube",
+        "tunnel",
+        "ounce",
+        "stone",
+        "tense",
+        "trunk"
+      ],
+      "question": {
+        "wordId": "tune",
+        "stem": "选择 \"tune\" 的正确中文意思：",
+        "correct": "n.调子,曲调;和谐,协调 vt.调音,调节,调整",
+        "options": [
+          "n.六月",
+          "n.管,软管;电子管,显像管;地铁",
+          "n.调子,曲调;和谐,协调 vt.调音,调节,调整",
+          "n.音调,音色;风气,气氛;腔调,语气;色调"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：tune的核心含义与\"n.调子,曲调;和谐,协调 vt.调音,调节,调整\"相关",
+        "similarWarning": "注意区分：tune 与 june, tone, tube, tunnel, ounce, stone, tense, trunk 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tunnel",
+      "word": "tunnel",
+      "phonetic": "/'tʌnəl/",
+      "meaning": "n.隧道,山洞",
+      "similar": [
+        "tune"
+      ],
+      "question": {
+        "wordId": "tunnel",
+        "stem": "选择 \"tunnel\" 的正确中文意思：",
+        "correct": "n.隧道,山洞",
+        "options": [
+          "n.调子,曲调;和谐,协调 vt.调音,调节,调整",
+          "n.大衣箱,皮箱;(汽车后部)行李箱;树干,躯干",
+          "n.基础,底部;根据地 v.(on)把…基于",
+          "n.隧道,山洞"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：tunnel的核心含义与\"n.隧道,山洞\"相关",
+        "similarWarning": "注意区分：tunnel 与 tune 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "turbine",
+      "word": "turbine",
+      "phonetic": "/'tə:bain/",
+      "meaning": "n.汽轮机,涡轮机",
+      "similar": [],
+      "question": {
+        "wordId": "turbine",
+        "stem": "选择 \"turbine\" 的正确中文意思：",
+        "correct": "n.汽轮机,涡轮机",
+        "options": [
+          "v.呼吸,吸入",
+          "n.汽轮机,涡轮机",
+          "prep.每;经,由",
+          "a.慢的,不活跃的 v.(down)(使)放慢,减速"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：turbine的核心含义与\"n.汽轮机,涡轮机\"相关",
+        "similarWarning": "注意区分：turbine 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "turbulent",
+      "word": "turbulent",
+      "phonetic": "/'tə:bjulənt/",
+      "meaning": "a.狂暴的,无秩序的",
+      "similar": [],
+      "question": {
+        "wordId": "turbulent",
+        "stem": "选择 \"turbulent\" 的正确中文意思：",
+        "correct": "a.狂暴的,无秩序的",
+        "options": [
+          "n.药物;麻醉品;毒品;滞销货 v.下麻药;吸毒",
+          "a.狂暴的,无秩序的",
+          "n.工程学",
+          "vi.抉择，选择"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：turbulent的核心含义与\"a.狂暴的,无秩序的\"相关",
+        "similarWarning": "注意区分：turbulent 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "turkey",
+      "word": "turkey",
+      "phonetic": "/'tə:ki/",
+      "meaning": "n.火鸡(肉)",
+      "similar": [
+        "survey"
+      ],
+      "question": {
+        "wordId": "turkey",
+        "stem": "选择 \"turkey\" 的正确中文意思：",
+        "correct": "n.火鸡(肉)",
+        "options": [
+          "n.火鸡(肉)",
+          "a.[表肯定]有些，几个；[表否定]几乎没有的",
+          "ad.在旁边 prep.和...在一起；在...旁边",
+          "v./n.俯瞰,眺望;全面审视,调查;测量图,勘定"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：turkey的核心含义与\"n.火鸡(肉)\"相关",
+        "similarWarning": "注意区分：turkey 与 survey 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "turn",
+      "word": "turn",
+      "phonetic": "/tɜ:n/",
+      "meaning": "v./n.(使)转动;(使)旋转;(使)转变 n.机会",
+      "similar": [
+        "burn",
+        "return",
+        "mourn",
+        "stern",
+        "thorn"
+      ],
+      "question": {
+        "wordId": "turn",
+        "stem": "选择 \"turn\" 的正确中文意思：",
+        "correct": "v./n.(使)转动;(使)旋转;(使)转变 n.机会",
+        "options": [
+          "v./n.(使)转动;(使)旋转;(使)转变 n.机会",
+          "v.燃烧，烧着；烧毁；灼伤 n.烧伤，灼伤",
+          "v./n.返回,回来;归还,送还;回答",
+          "v.哀悼,忧伤"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：turn的核心含义与\"v./n.(使)转动;(使)旋转;(使)转变 n.机会\"相关",
+        "similarWarning": "注意区分：turn 与 burn, return, mourn, stern, thorn 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "turnover",
+      "word": "turnover",
+      "phonetic": "/'tə:nˌəuvə/",
+      "meaning": "n.翻倒(物);人员调整;(资金等)周转;营业额",
+      "similar": [
+        "uncover",
+        "moreover"
+      ],
+      "question": {
+        "wordId": "turnover",
+        "stem": "选择 \"turnover\" 的正确中文意思：",
+        "correct": "n.翻倒(物);人员调整;(资金等)周转;营业额",
+        "options": [
+          "n.翻倒(物);人员调整;(资金等)周转;营业额",
+          "n.援助，救护；助手，辅助物 vi.援助，救援",
+          "v.揭开,揭露",
+          "conj./ad.再者,加之,而且"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：turnover的核心含义与\"n.翻倒(物);人员调整;(资金等)周转;营业额\"相关",
+        "similarWarning": "注意区分：turnover 与 uncover, moreover 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tutor",
+      "word": "tutor",
+      "phonetic": "/'tju:tə/",
+      "meaning": "n.导师;家教 v.辅导;当导师;当家庭教师",
+      "similar": [
+        "author",
+        "tumour",
+        "auto",
+        "actor",
+        "humor",
+        "motor",
+        "outer",
+        "rumor"
+      ],
+      "question": {
+        "wordId": "tutor",
+        "stem": "选择 \"tutor\" 的正确中文意思：",
+        "correct": "n.导师;家教 v.辅导;当导师;当家庭教师",
+        "options": [
+          "n.导师;家教 v.辅导;当导师;当家庭教师",
+          "n.作者，作家，著作人；创始人，发起人",
+          "n.(tumor)(肿)瘤，肿块",
+          "n.(automobile)(口语)汽车"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：tutor的核心含义与\"n.导师;家教 v.辅导;当导师;当家庭教师\"相关",
+        "similarWarning": "注意区分：tutor 与 author, tumour, auto, actor, humor, motor, outer, rumor 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tv",
+      "word": "TV",
+      "phonetic": "/'ti:'vi:/",
+      "meaning": "n.(television)电视；电视机",
+      "similar": [],
+      "question": {
+        "wordId": "tv",
+        "stem": "选择 \"TV\" 的正确中文意思：",
+        "correct": "n.(television)电视；电视机",
+        "options": [
+          "vt.遭受,经历,承受",
+          "v.卷起;塞进",
+          "v.使惊骇，使恐怖",
+          "n.(television)电视；电视机"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：TV的核心含义与\"n.(television)电视；电视机\"相关",
+        "similarWarning": "注意区分：TV 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "twelve",
+      "word": "twelve",
+      "phonetic": "/twelv/",
+      "meaning": "num.十二 pron./a.十二(个，只...)",
+      "similar": [
+        "weave"
+      ],
+      "question": {
+        "wordId": "twelve",
+        "stem": "选择 \"twelve\" 的正确中文意思：",
+        "correct": "num.十二 pron./a.十二(个，只...)",
+        "options": [
+          "n.代表 vt.委派…为代表;授权;委托",
+          "num.十二 pron./a.十二(个，只...)",
+          "a.超前的；高级的；开明的；前进的",
+          "v.编(织) n.编织法，编织式样"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：twelve的核心含义与\"num.十二 pron./a.十二(个，只...)\"相关",
+        "similarWarning": "注意区分：twelve 与 weave 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "twenty",
+      "word": "twenty",
+      "phonetic": "/'twenti/",
+      "meaning": "num.二十 pron./a.二十(个，只...)",
+      "similar": [
+        "tent",
+        "plenty",
+        "treaty"
+      ],
+      "question": {
+        "wordId": "twenty",
+        "stem": "选择 \"twenty\" 的正确中文意思：",
+        "correct": "num.二十 pron./a.二十(个，只...)",
+        "options": [
+          "num.二十 pron./a.二十(个，只...)",
+          "n.条约，协议，协商",
+          "n.帐篷",
+          "n.丰富,大量"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：twenty的核心含义与\"num.二十 pron./a.二十(个，只...)\"相关",
+        "similarWarning": "注意区分：twenty 与 tent, plenty, treaty 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "twice",
+      "word": "twice",
+      "phonetic": "/twais/",
+      "meaning": "ad.两次,两倍",
+      "similar": [
+        "ice",
+        "tie",
+        "nice",
+        "rice",
+        "tick",
+        "tide",
+        "tile",
+        "time"
+      ],
+      "question": {
+        "wordId": "twice",
+        "stem": "选择 \"twice\" 的正确中文意思：",
+        "correct": "ad.两次,两倍",
+        "options": [
+          "ad.两次,两倍",
+          "n.冰；冰冻甜食 vt.冰冻，使成冰",
+          "a.美好的，令人愉快的；友好的，亲切的",
+          "n.领带;联系,关系,纽带;束缚 v.扎,系,捆"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：twice的核心含义与\"ad.两次,两倍\"相关",
+        "similarWarning": "注意区分：twice 与 ice, tie, nice, rice, tick, tide, tile, time 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "twin",
+      "word": "twin",
+      "phonetic": "/twin/",
+      "meaning": "a.双的,成对的,孪生的 n.孪生子,双生子",
+      "similar": [
+        "tin",
+        "win",
+        "thin",
+        "owing",
+        "stain",
+        "swing",
+        "thing",
+        "think"
+      ],
+      "question": {
+        "wordId": "twin",
+        "stem": "选择 \"twin\" 的正确中文意思：",
+        "correct": "a.双的,成对的,孪生的 n.孪生子,双生子",
+        "options": [
+          "a.双的,成对的,孪生的 n.孪生子,双生子",
+          "n.罐头；锡 a.锡制的 vt.镀锡于",
+          "vi.获胜，赢 vt.赢得；在…中获胜 n.胜利",
+          "a.薄的,细的;稀薄的,淡的;瘦的 v.变薄;变稀"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：twin的核心含义与\"a.双的,成对的,孪生的 n.孪生子,双生子\"相关",
+        "similarWarning": "注意区分：twin 与 tin, win, thin, owing, stain, swing, thing, think 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "twinkle",
+      "word": "twinkle",
+      "phonetic": "/'twiŋkl/",
+      "meaning": "vi.(星等)闪烁，(眼情)发亮 n.闪烁，闪光",
+      "similar": [
+        "wrinkle",
+        "sprinkle",
+        "triangle"
+      ],
+      "question": {
+        "wordId": "twinkle",
+        "stem": "选择 \"twinkle\" 的正确中文意思：",
+        "correct": "vi.(星等)闪烁，(眼情)发亮 n.闪烁，闪光",
+        "options": [
+          "vi.(星等)闪烁，(眼情)发亮 n.闪烁，闪光",
+          "n.皱纹 v.起皱,皱眉",
+          "n.洒,喷,淋",
+          "n.三角(形)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：twinkle的核心含义与\"vi.(星等)闪烁，(眼情)发亮 n.闪烁，闪光\"相关",
+        "similarWarning": "注意区分：twinkle 与 wrinkle, sprinkle, triangle 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "twist",
+      "word": "twist",
+      "phonetic": "/twist/",
+      "meaning": "v.捻;拧;扭曲;蜿蜒曲折而行 n.拧;歪曲;曲折",
+      "similar": [
+        "thirst",
+        "typist",
+        "wit",
+        "fist",
+        "list",
+        "mist",
+        "test",
+        "this"
+      ],
+      "question": {
+        "wordId": "twist",
+        "stem": "选择 \"twist\" 的正确中文意思：",
+        "correct": "v.捻;拧;扭曲;蜿蜒曲折而行 n.拧;歪曲;曲折",
+        "options": [
+          "v.捻;拧;扭曲;蜿蜒曲折而行 n.拧;歪曲;曲折",
+          "n.智力,才智,智慧",
+          "n.渴,口渴;(for)渴望,热望",
+          "n.打字员"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：twist的核心含义与\"v.捻;拧;扭曲;蜿蜒曲折而行 n.拧;歪曲;曲折\"相关",
+        "similarWarning": "注意区分：twist 与 thirst, typist, wit, fist, list, mist, test, this 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "two",
+      "word": "two",
+      "phonetic": "/tu:/",
+      "meaning": "num.二，两个n.两个(人或物)",
+      "similar": [
+        "to",
+        "too"
+      ],
+      "question": {
+        "wordId": "two",
+        "stem": "选择 \"two\" 的正确中文意思：",
+        "correct": "num.二，两个n.两个(人或物)",
+        "options": [
+          "prep.(表示方向)到；向；(表示间接关系)给.",
+          "num.二，两个n.两个(人或物)",
+          "ad.也，还；太，过于；很，非常",
+          "n.冰淇淋"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：two的核心含义与\"num.二，两个n.两个(人或物)\"相关",
+        "similarWarning": "注意区分：two 与 to, too 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "type",
+      "word": "type",
+      "phonetic": "/taip/",
+      "meaning": "n.型式，类型；印刷字体；活/铅字 v.打字",
+      "similar": [
+        "tape",
+        "style"
+      ],
+      "question": {
+        "wordId": "type",
+        "stem": "选择 \"type\" 的正确中文意思：",
+        "correct": "n.型式，类型；印刷字体；活/铅字 v.打字",
+        "options": [
+          "n.风格,文体;式样,时式,类型",
+          "n.型式，类型；印刷字体；活/铅字 v.打字",
+          "n.带(子);录音带,磁带 v.录音;系,捆",
+          "n.国境,边境;尖端,新领域"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：type的核心含义与\"n.型式，类型；印刷字体；活/铅字 v.打字\"相关",
+        "similarWarning": "注意区分：type 与 tape, style 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "typewriter",
+      "word": "typewriter",
+      "phonetic": "/'taipˌraitə/",
+      "meaning": "n.打字机",
+      "similar": [],
+      "question": {
+        "wordId": "typewriter",
+        "stem": "选择 \"typewriter\" 的正确中文意思：",
+        "correct": "n.打字机",
+        "options": [
+          "n.打字机",
+          "v.出现，发生；(from)由…引起，由…产生",
+          "a.紫的 n.紫色",
+          "n.临时解雇,操作停止,活动停止期间,失业期"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：typewriter的核心含义与\"n.打字机\"相关",
+        "similarWarning": "注意区分：typewriter 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "typhoon",
+      "word": "typhoon",
+      "phonetic": "/tai'fu:n/",
+      "meaning": "n.台风",
+      "similar": [],
+      "question": {
+        "wordId": "typhoon",
+        "stem": "选择 \"typhoon\" 的正确中文意思：",
+        "correct": "n.台风",
+        "options": [
+          "a.(to)次要的,从属的;下级的",
+          "vi.大量存在；(in，with)充满，富于",
+          "n.台风",
+          "n.刺激;动力;鼓励;诱因;动机"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：typhoon的核心含义与\"n.台风\"相关",
+        "similarWarning": "注意区分：typhoon 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "typical",
+      "word": "typical",
+      "phonetic": "/'tipikəl/",
+      "meaning": "a.(of)典型的,有代表性的",
+      "similar": [
+        "tropical",
+        "physical"
+      ],
+      "question": {
+        "wordId": "typical",
+        "stem": "选择 \"typical\" 的正确中文意思：",
+        "correct": "a.(of)典型的,有代表性的",
+        "options": [
+          "a.(of)典型的,有代表性的",
+          "a.热带的",
+          "a.物质的;肉体的,身体的;自然科学的,物理的",
+          "vi.吹，吹气，打气；吹奏；爆炸；n.打,打击"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：typical的核心含义与\"a.(of)典型的,有代表性的\"相关",
+        "similarWarning": "注意区分：typical 与 tropical, physical 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "typist",
+      "word": "typist",
+      "phonetic": "/'taipist/",
+      "meaning": "n.打字员",
+      "similar": [
+        "twist"
+      ],
+      "question": {
+        "wordId": "typist",
+        "stem": "选择 \"typist\" 的正确中文意思：",
+        "correct": "n.打字员",
+        "options": [
+          "n.十月",
+          "a.内部的,里面的;内心的",
+          "v.捻;拧;扭曲;蜿蜒曲折而行 n.拧;歪曲;曲折",
+          "n.打字员"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：typist的核心含义与\"n.打字员\"相关",
+        "similarWarning": "注意区分：typist 与 twist 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "ugly",
+      "word": "ugly",
+      "phonetic": "/'ʌgli/",
+      "meaning": "a.丑陋的,难看的;丑恶的,讨厌的",
+      "similar": [
+        "bully"
+      ],
+      "question": {
+        "wordId": "ugly",
+        "stem": "选择 \"ugly\" 的正确中文意思：",
+        "correct": "a.丑陋的,难看的;丑恶的,讨厌的",
+        "options": [
+          "n.恃强欺弱者，小流氓 vt.威胁，欺侮",
+          "v./n.打猎,猎取;(for)搜索;寻找",
+          "a.丑陋的,难看的;丑恶的,讨厌的",
+          "v.磨(碎),碾(碎)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：ugly的核心含义与\"a.丑陋的,难看的;丑恶的,讨厌的\"相关",
+        "similarWarning": "注意区分：ugly 与 bully 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "ultimate",
+      "word": "ultimate",
+      "phonetic": "/'ʌltimət/",
+      "meaning": "a.最后的,最终的;根本的",
+      "similar": [
+        "cultivate",
+        "climate",
+        "estimate",
+        "intimate",
+        "activate",
+        "motivate",
+        "intimidate",
+        "legitimate"
+      ],
+      "question": {
+        "wordId": "ultimate",
+        "stem": "选择 \"ultimate\" 的正确中文意思：",
+        "correct": "a.最后的,最终的;根本的",
+        "options": [
+          "v.耕作,栽培,养殖;培养,教养,磨炼",
+          "a.最后的,最终的;根本的",
+          "n.气候;风气,社会思潮",
+          "v./n.估计,估价;评估"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：ultimate的核心含义与\"a.最后的,最终的;根本的\"相关",
+        "similarWarning": "注意区分：ultimate 与 cultivate, climate, estimate, intimate, activate, motivate, intimidate, legitimate 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "ultraviolet",
+      "word": "ultraviolet",
+      "phonetic": "/ˌʌltrə'vaiələt/",
+      "meaning": "a./n.紫外线(的)",
+      "similar": [],
+      "question": {
+        "wordId": "ultraviolet",
+        "stem": "选择 \"ultraviolet\" 的正确中文意思：",
+        "correct": "a./n.紫外线(的)",
+        "options": [
+          "n.教师(员)，老(导)师",
+          "n.意义,含义;重要性,重要的",
+          "n.下降,降下;斜坡;血统,家世",
+          "a./n.紫外线(的)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：ultraviolet的核心含义与\"a./n.紫外线(的)\"相关",
+        "similarWarning": "注意区分：ultraviolet 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "umbrella",
+      "word": "umbrella",
+      "phonetic": "/ʌm'brelə/",
+      "meaning": "n.伞",
+      "similar": [],
+      "question": {
+        "wordId": "umbrella",
+        "stem": "选择 \"umbrella\" 的正确中文意思：",
+        "correct": "n.伞",
+        "options": [
+          "n.伞",
+          "n.游戏，娱乐；比赛；(pl.)运动会 vi.赌博",
+          "n.螺栓,(门,窗的)插销 v.闩(门),关窗,拴住",
+          "n.场合,时节,时刻;时机,机会"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：umbrella的核心含义与\"n.伞\"相关",
+        "similarWarning": "注意区分：umbrella 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "unanimous",
+      "word": "unanimous",
+      "phonetic": "/ju:'næniməs/",
+      "meaning": "a.全体一致的,一致同意的",
+      "similar": [
+        "anonymous"
+      ],
+      "question": {
+        "wordId": "unanimous",
+        "stem": "选择 \"unanimous\" 的正确中文意思：",
+        "correct": "a.全体一致的,一致同意的",
+        "options": [
+          "a.全体一致的,一致同意的",
+          "a.匿名的，无名的，姓氏不明的",
+          "n.信封,信皮;封套",
+          "n.林荫路，大街；(比喻)途径，渠道，方法"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：unanimous的核心含义与\"a.全体一致的,一致同意的\"相关",
+        "similarWarning": "注意区分：unanimous 与 anonymous 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "uncle",
+      "word": "uncle",
+      "phonetic": "/'ʌŋkl/",
+      "meaning": "n.伯父，叔父，舅父，姑父，姨父",
+      "similar": [
+        "bundle",
+        "jungle",
+        "muscle",
+        "once",
+        "angle",
+        "ankle",
+        "cycle",
+        "ounce"
+      ],
+      "question": {
+        "wordId": "uncle",
+        "stem": "选择 \"uncle\" 的正确中文意思：",
+        "correct": "n.伯父，叔父，舅父，姑父，姨父",
+        "options": [
+          "n.伯父，叔父，舅父，姑父，姨父",
+          "n.捆,包,束",
+          "n.丛林,生死地带",
+          "n.肌肉,体力"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：uncle的核心含义与\"n.伯父，叔父，舅父，姑父，姨父\"相关",
+        "similarWarning": "注意区分：uncle 与 bundle, jungle, muscle, once, angle, ankle, cycle, ounce 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "uncover",
+      "word": "uncover",
+      "phonetic": "/ˌʌn'kʌvə/",
+      "meaning": "v.揭开,揭露",
+      "similar": [
+        "cover",
+        "recover",
+        "discover",
+        "recovery",
+        "turnover"
+      ],
+      "question": {
+        "wordId": "uncover",
+        "stem": "选择 \"uncover\" 的正确中文意思：",
+        "correct": "v.揭开,揭露",
+        "options": [
+          "v.覆盖,包括,涉及，报道 n.盖子,套子;(书的)封面",
+          "v.发现,显示",
+          "v.揭开,揭露",
+          "v.收回;(from)恢复,痊愈;重新获得"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：uncover的核心含义与\"v.揭开,揭露\"相关",
+        "similarWarning": "注意区分：uncover 与 cover, recover, discover, recovery, turnover 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "under",
+      "word": "under",
+      "phonetic": "/'ʌndə/",
+      "meaning": "prep.在…下面； 在…以下 ad.在下面；少于",
+      "similar": [
+        "blunder",
+        "thunder",
+        "undergo",
+        "gender",
+        "hinder",
+        "hunger",
+        "murder",
+        "ponder"
+      ],
+      "question": {
+        "wordId": "under",
+        "stem": "选择 \"under\" 的正确中文意思：",
+        "correct": "prep.在…下面； 在…以下 ad.在下面；少于",
+        "options": [
+          "n.雷(声);轰隆声 v.打雷;大声说,吼叫",
+          "v.(因无知等而)犯大错;踉踉跄跄地走 n.大错",
+          "prep.在…下面； 在…以下 ad.在下面；少于",
+          "vt.遭受,经历,承受"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：under的核心含义与\"prep.在…下面； 在…以下 ad.在下面；少于\"相关",
+        "similarWarning": "注意区分：under 与 blunder, thunder, undergo, gender, hinder, hunger, murder, ponder 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "underestimate",
+      "word": "underestimate",
+      "phonetic": "/ˌʌndə'estimeit/",
+      "meaning": "vt.低估，看轻",
+      "similar": [
+        "investigate",
+        "necessitate",
+        "undergraduate"
+      ],
+      "question": {
+        "wordId": "underestimate",
+        "stem": "选择 \"underestimate\" 的正确中文意思：",
+        "correct": "vt.低估，看轻",
+        "options": [
+          "v.使成为必要,需要",
+          "v.调查,调查研究",
+          "vt.低估，看轻",
+          "n.大学生,大学肆业生"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：underestimate的核心含义与\"vt.低估，看轻\"相关",
+        "similarWarning": "注意区分：underestimate 与 investigate, necessitate, undergraduate 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "undergo",
+      "word": "undergo",
+      "phonetic": "/ˌʌndə'gəu/",
+      "meaning": "vt.遭受,经历,承受",
+      "similar": [
+        "under",
+        "underlie"
+      ],
+      "question": {
+        "wordId": "undergo",
+        "stem": "选择 \"undergo\" 的正确中文意思：",
+        "correct": "vt.遭受,经历,承受",
+        "options": [
+          "vt.遭受,经历,承受",
+          "prep.在…下面； 在…以下 ad.在下面；少于",
+          "vt.位于...之下, 成为...的基础",
+          "prep.在…下边,在…之下 ad.在下方"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：undergo的核心含义与\"vt.遭受,经历,承受\"相关",
+        "similarWarning": "注意区分：undergo 与 under, underlie 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "undergraduate",
+      "word": "undergraduate",
+      "phonetic": "/ˌʌndə'grædjuət/",
+      "meaning": "n.大学生,大学肆业生",
+      "similar": [
+        "underground",
+        "underestimate"
+      ],
+      "question": {
+        "wordId": "undergraduate",
+        "stem": "选择 \"undergraduate\" 的正确中文意思：",
+        "correct": "n.大学生,大学肆业生",
+        "options": [
+          "v.称…重量,称;重达;考虑,权衡",
+          "a.地下的;秘密的 n.地铁 ad.在地下",
+          "n.大学生,大学肆业生",
+          "vt.低估，看轻"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：undergraduate的核心含义与\"n.大学生,大学肆业生\"相关",
+        "similarWarning": "注意区分：undergraduate 与 underground, underestimate 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "underground",
+      "word": "underground",
+      "phonetic": "/'ʌndəgraund/",
+      "meaning": "a.地下的;秘密的 n.地铁 ad.在地下",
+      "similar": [
+        "understand",
+        "undergraduate"
+      ],
+      "question": {
+        "wordId": "underground",
+        "stem": "选择 \"underground\" 的正确中文意思：",
+        "correct": "a.地下的;秘密的 n.地铁 ad.在地下",
+        "options": [
+          "a.地下的;秘密的 n.地铁 ad.在地下",
+          "v.懂,理解;获悉,听说;揣测,认为",
+          "n.大学生,大学肆业生",
+          "n.利益"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：underground的核心含义与\"a.地下的;秘密的 n.地铁 ad.在地下\"相关",
+        "similarWarning": "注意区分：underground 与 understand, undergraduate 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "underlie",
+      "word": "underlie",
+      "phonetic": "/ˌʌndə'lai/",
+      "meaning": "vt.位于...之下, 成为...的基础",
+      "similar": [
+        "underline",
+        "undermine",
+        "underlying",
+        "undertake",
+        "undergo"
+      ],
+      "question": {
+        "wordId": "underlie",
+        "stem": "选择 \"underlie\" 的正确中文意思：",
+        "correct": "vt.位于...之下, 成为...的基础",
+        "options": [
+          "a.含蓄的,潜在的;在下面的",
+          "vt.位于...之下, 成为...的基础",
+          "vt.在…下划线;强调",
+          "v.暗中破坏,逐渐削弱;侵蚀…的基础"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：underlie的核心含义与\"vt.位于...之下, 成为...的基础\"相关",
+        "similarWarning": "注意区分：underlie 与 underline, undermine, underlying, undertake, undergo 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "underline",
+      "word": "underline",
+      "phonetic": "/ˌʌndə'lain/",
+      "meaning": "vt.在…下划线;强调",
+      "similar": [
+        "underlie",
+        "undermine",
+        "underlying",
+        "decline",
+        "guideline",
+        "undertake",
+        "understand"
+      ],
+      "question": {
+        "wordId": "underline",
+        "stem": "选择 \"underline\" 的正确中文意思：",
+        "correct": "vt.在…下划线;强调",
+        "options": [
+          "a.含蓄的,潜在的;在下面的",
+          "vt.位于...之下, 成为...的基础",
+          "vt.在…下划线;强调",
+          "v.暗中破坏,逐渐削弱;侵蚀…的基础"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：underline的核心含义与\"vt.在…下划线;强调\"相关",
+        "similarWarning": "注意区分：underline 与 underlie, undermine, underlying, decline, guideline, undertake, understand 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "underlying",
+      "word": "underlying",
+      "phonetic": "/ˌʌndə'laiiŋ/",
+      "meaning": "a.含蓄的,潜在的;在下面的",
+      "similar": [
+        "underline",
+        "underlie",
+        "undermine",
+        "understand"
+      ],
+      "question": {
+        "wordId": "underlying",
+        "stem": "选择 \"underlying\" 的正确中文意思：",
+        "correct": "a.含蓄的,潜在的;在下面的",
+        "options": [
+          "v.暗中破坏,逐渐削弱;侵蚀…的基础",
+          "vt.位于...之下, 成为...的基础",
+          "vt.在…下划线;强调",
+          "a.含蓄的,潜在的;在下面的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：underlying的核心含义与\"a.含蓄的,潜在的;在下面的\"相关",
+        "similarWarning": "注意区分：underlying 与 underline, underlie, undermine, understand 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "undermine",
+      "word": "undermine",
+      "phonetic": "/ˌʌndə'main/",
+      "meaning": "v.暗中破坏,逐渐削弱;侵蚀…的基础",
+      "similar": [
+        "underline",
+        "underlie",
+        "underlying",
+        "determine",
+        "undertake",
+        "understand"
+      ],
+      "question": {
+        "wordId": "undermine",
+        "stem": "选择 \"undermine\" 的正确中文意思：",
+        "correct": "v.暗中破坏,逐渐削弱;侵蚀…的基础",
+        "options": [
+          "v.暗中破坏,逐渐削弱;侵蚀…的基础",
+          "vt.位于...之下, 成为...的基础",
+          "vt.在…下划线;强调",
+          "a.含蓄的,潜在的;在下面的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：undermine的核心含义与\"v.暗中破坏,逐渐削弱;侵蚀…的基础\"相关",
+        "similarWarning": "注意区分：undermine 与 underline, underlie, underlying, determine, undertake, understand 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "underneath",
+      "word": "underneath",
+      "phonetic": "/ˌʌndə'ni:θ/",
+      "meaning": "prep.在…下面 ad.在下面,在底下",
+      "similar": [
+        "internet",
+        "undertake",
+        "understand"
+      ],
+      "question": {
+        "wordId": "underneath",
+        "stem": "选择 \"underneath\" 的正确中文意思：",
+        "correct": "prep.在…下面 ad.在下面,在底下",
+        "options": [
+          "prep.在…下面 ad.在下面,在底下",
+          "n.[the～]国际互联网，因特网",
+          "v.承担,担任;许诺,保证;着手,从事",
+          "v.懂,理解;获悉,听说;揣测,认为"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：underneath的核心含义与\"prep.在…下面 ad.在下面,在底下\"相关",
+        "similarWarning": "注意区分：underneath 与 internet, undertake, understand 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "understand",
+      "word": "understand",
+      "phonetic": "/ˌʌndə'stænd/",
+      "meaning": "v.懂,理解;获悉,听说;揣测,认为",
+      "similar": [
+        "undertake",
+        "underground",
+        "underline",
+        "undermine",
+        "underlying",
+        "underneath"
+      ],
+      "question": {
+        "wordId": "understand",
+        "stem": "选择 \"understand\" 的正确中文意思：",
+        "correct": "v.懂,理解;获悉,听说;揣测,认为",
+        "options": [
+          "v.懂,理解;获悉,听说;揣测,认为",
+          "v.承担,担任;许诺,保证;着手,从事",
+          "a.地下的;秘密的 n.地铁 ad.在地下",
+          "vt.在…下划线;强调"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：understand的核心含义与\"v.懂,理解;获悉,听说;揣测,认为\"相关",
+        "similarWarning": "注意区分：understand 与 undertake, underground, underline, undermine, underlying, underneath 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "understanding",
+      "word": "understanding",
+      "phonetic": "/ˌʌndə'stændiŋ/",
+      "meaning": "n.理解,理解力;谅解 a.了解的,通情达理的",
+      "similar": [
+        "outstanding"
+      ],
+      "question": {
+        "wordId": "understanding",
+        "stem": "选择 \"understanding\" 的正确中文意思：",
+        "correct": "n.理解,理解力;谅解 a.了解的,通情达理的",
+        "options": [
+          "a.坚韧的,棘手的;强健的,吃苦耐劳的;粗暴的",
+          "a.突出的,显著的,杰出的",
+          "n.纠缠；缠结；混乱 v.(使)缠绕；变乱",
+          "n.理解,理解力;谅解 a.了解的,通情达理的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：understanding的核心含义与\"n.理解,理解力;谅解 a.了解的,通情达理的\"相关",
+        "similarWarning": "注意区分：understanding 与 outstanding 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "undertake",
+      "word": "undertake",
+      "phonetic": "/ˌʌndə'teik/",
+      "meaning": "v.承担,担任;许诺,保证;着手,从事",
+      "similar": [
+        "understand",
+        "overtake",
+        "underlie",
+        "underline",
+        "undermine",
+        "underneath"
+      ],
+      "question": {
+        "wordId": "undertake",
+        "stem": "选择 \"undertake\" 的正确中文意思：",
+        "correct": "v.承担,担任;许诺,保证;着手,从事",
+        "options": [
+          "v.追上,超过,突然降临,压倒",
+          "vt.位于...之下, 成为...的基础",
+          "v.懂,理解;获悉,听说;揣测,认为",
+          "v.承担,担任;许诺,保证;着手,从事"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：undertake的核心含义与\"v.承担,担任;许诺,保证;着手,从事\"相关",
+        "similarWarning": "注意区分：undertake 与 understand, overtake, underlie, underline, undermine, underneath 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "undo",
+      "word": "undo",
+      "phonetic": "/ˌʌn'du:/",
+      "meaning": "v.松开,解开",
+      "similar": [
+        "endow",
+        "under",
+        "union"
+      ],
+      "question": {
+        "wordId": "undo",
+        "stem": "选择 \"undo\" 的正确中文意思：",
+        "correct": "v.松开,解开",
+        "options": [
+          "vt.资助，捐赠；(with)给予，赋予",
+          "v.松开,解开",
+          "n.联合,团结;联盟,联邦;协会,社团;和谐",
+          "prep.在…下面； 在…以下 ad.在下面；少于"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：undo的核心含义与\"v.松开,解开\"相关",
+        "similarWarning": "注意区分：undo 与 endow, under, union 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "undoubtedly",
+      "word": "undoubtedly",
+      "phonetic": "/ʌn'dautɪdlɪ/",
+      "meaning": "ad.无疑,必定",
+      "similar": [],
+      "question": {
+        "wordId": "undoubtedly",
+        "stem": "选择 \"undoubtedly\" 的正确中文意思：",
+        "correct": "ad.无疑,必定",
+        "options": [
+          "n.重复,反复",
+          "v./n.拔出,抽出;摘录 n.抽取物;精华;选集",
+          "ad.无疑,必定",
+          "n.母鸡"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：undoubtedly的核心含义与\"ad.无疑,必定\"相关",
+        "similarWarning": "注意区分：undoubtedly 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "uneasy",
+      "word": "uneasy",
+      "phonetic": "/ˌʌn'i:zi/",
+      "meaning": "a.不安的,焦虑的",
+      "similar": [
+        "easy"
+      ],
+      "question": {
+        "wordId": "uneasy",
+        "stem": "选择 \"uneasy\" 的正确中文意思：",
+        "correct": "a.不安的,焦虑的",
+        "options": [
+          "a.不安的,焦虑的",
+          "a.容易的，不费力的，安逸的，宽裕的",
+          "prep.在…期间",
+          "n.地区,行政区;美国各州的众议院选区"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：uneasy的核心含义与\"a.不安的,焦虑的\"相关",
+        "similarWarning": "注意区分：uneasy 与 easy 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    }
+  ]
+}

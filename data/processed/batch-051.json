@@ -1,0 +1,1725 @@
+{
+  "batchId": 51,
+  "words": [
+    {
+      "id": "monthly",
+      "word": "monthly",
+      "phonetic": "/'mʌnθli/",
+      "meaning": "a.每月的 ad.每月一次,按月 n.月刊",
+      "similar": [
+        "monetary",
+        "monopoly"
+      ],
+      "question": {
+        "wordId": "monthly",
+        "stem": "选择 \"monthly\" 的正确中文意思：",
+        "correct": "a.每月的 ad.每月一次,按月 n.月刊",
+        "options": [
+          "a.可怜的, 悲惨的",
+          "a.每月的 ad.每月一次,按月 n.月刊",
+          "a.金融的,货币的",
+          "n.垄断,专卖,专利权,专利事业"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "month (月) + -ly (形容词/副词后缀，表示‘每…的/地’)。核心逻辑：以月为单位的时间周期，强调频率或周期属性。",
+        "similarWarning": "monthly vs. mostly (大部分，主要地，源自most+ly) vs. monetary (货币的，源自money+ary) vs. monopoly (垄断，源自mono-单一+poly卖)。monthly与mostly拼写差异在于‘nth’与‘st’；与monetary差异在于‘nth’与‘net’；与monopoly差异在于‘nthly’与‘nopoly’。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "monument",
+      "word": "monument",
+      "phonetic": "/'mɔnjumənt/",
+      "meaning": "n.纪念碑,纪念馆,遗迹,不朽的业绩",
+      "similar": [
+        "document",
+        "movement",
+        "comment",
+        "consent",
+        "content",
+        "torment",
+        "argument",
+        "ornament"
+      ],
+      "question": {
+        "wordId": "monument",
+        "stem": "选择 \"monument\" 的正确中文意思：",
+        "correct": "n.纪念碑,纪念馆,遗迹,不朽的业绩",
+        "options": [
+          "n.运动,活动;移动,迁移",
+          "n.公文,文献",
+          "n.注释,评论,意见 v.(on)注释,评论",
+          "n.纪念碑,纪念馆,遗迹,不朽的业绩"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 monumentum（纪念物），由词根 mon-（提醒、使想起） + 后缀 -ment（表示结果或手段）构成。核心物理动作是“使想起”，即通过具体物体（如石碑、建筑）触发对某人或某事的记忆。",
+        "similarWarning": "形近词对比：\n- monument vs moment：monument 含“mon-”（提醒），指纪念物；moment 含“mov-”（移动），指瞬间。\n- monument vs document：monument 强调纪念；document（文件）源自 docere（教导），指记录证据。\n- monument vs comment：monument 是名词；comment（评论）源自 com-（共同）+ ment-（思考），指共同讨论。",
+        "extendedMeaning": "考研僻义：\n1. 不朽的业绩/杰作：指具有历史意义的成就，如“a literary monument”（文学丰碑）。\n2. 典型例子：用于比喻，如“a monument of bureaucracy”（官僚主义的典型）。",
+        "examUsage": "真题考点：\n- 固定搭配：monument to sb/sth（对…的纪念），如“a monument to the fallen soldiers”。\n- 干扰项：常与 memorial（纪念物）混用，但 monument 更强调具体实体，memorial 可指抽象纪念。"
+      }
+    },
+    {
+      "id": "mood",
+      "word": "mood",
+      "phonetic": "/mu:d/",
+      "meaning": "n.心情,情绪;语气",
+      "similar": [
+        "moon",
+        "flood",
+        "goods",
+        "motor",
+        "mould"
+      ],
+      "question": {
+        "wordId": "mood",
+        "stem": "选择 \"mood\" 的正确中文意思：",
+        "correct": "n.心情,情绪;语气",
+        "options": [
+          "n.洪水,水灾 v.淹没,发大水,泛滥",
+          "n.(加the)月球，月亮；卫星",
+          "n.(pl.)货物，商品",
+          "n.心情,情绪;语气"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *mōdaz，意为“勇气、愤怒、情绪”。核心物理动作是“内心状态的波动”，引申为心情、情绪；在语法中引申为“语气”（表达说话者态度的动词形式）。",
+        "similarWarning": "mood vs. moon: mood 以 -d 结尾，moon 以 -n 结尾，拼写差一个字母；mood 指情绪，moon 指月球。mood vs. wood: mood 以 m- 开头，wood 以 w- 开头；mood 是抽象名词，wood 是具体名词（木头）。",
+        "extendedMeaning": "考研中常考“语气”（语法术语），如 subjunctive mood（虚拟语气），而非仅指心情。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "moon",
+      "word": "moon",
+      "phonetic": "/mu:n/",
+      "meaning": "n.(加the)月球，月亮；卫星",
+      "similar": [
+        "moan",
+        "mood",
+        "noon",
+        "motion",
+        "melon",
+        "motor",
+        "mount",
+        "mourn"
+      ],
+      "question": {
+        "wordId": "moon",
+        "stem": "选择 \"moon\" 的正确中文意思：",
+        "correct": "n.(加the)月球，月亮；卫星",
+        "options": [
+          "n.中午，正午",
+          "n.(加the)月球，月亮；卫星",
+          "n.呻吟声,悲叹声 v.呻吟,抱怨,悲叹",
+          "n.心情,情绪;语气"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古英语mona，原始日耳曼语menon-，源自原始印欧语me-（测量）。核心动作是‘用月亮测量时间’，因为古人通过月相周期（约29.5天）计算月份（month同源）。moon原义是‘计时者’，后专指地球的天然卫星。",
+        "similarWarning": "moon vs moan (抱怨)：moon含双o像圆形月亮，moan的a像张嘴呻吟。moon vs melon (瓜)：melon有e像瓜藤，moon无e。moon vs motor (马达)：motor有t像转动的零件，moon无t。",
+        "extendedMeaning": "考研僻义：v. 闲逛，虚度时光（如moon about/around，真题中常用于描述漫无目的的状态）。例：He spent the afternoon mooning around the campus.（他整个下午在校园闲逛。）",
+        "examUsage": "真题考点：短语‘once in a blue moon’（千载难逢）常作为完形填空或阅读中的习语考查。例：Such an opportunity comes once in a blue moon.（这种机会极为罕见。）"
+      }
+    },
+    {
+      "id": "moral",
+      "word": "moral",
+      "phonetic": "/'mɔrəl/",
+      "meaning": "a.道德(上)的,精神上的 n.寓意,教育意义",
+      "similar": [
+        "mortal",
+        "oral",
+        "formal",
+        "coal",
+        "goal",
+        "moan",
+        "oval",
+        "aural"
+      ],
+      "question": {
+        "wordId": "moral",
+        "stem": "选择 \"moral\" 的正确中文意思：",
+        "correct": "a.道德(上)的,精神上的 n.寓意,教育意义",
+        "options": [
+          "a.致命的;终有一死的;人世间的 n.凡人",
+          "a.道德(上)的,精神上的 n.寓意,教育意义",
+          "a.口头的",
+          "a.正式的;形式的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 mos（习惯、风俗），-al 形容词后缀。本义为“与习俗相关的”，后引申为“道德上的”，因为道德本质上是社会约定俗成的行为规范。核心动作是“遵循群体习惯与规范”。",
+        "similarWarning": "mortal（致命的，终有一死的） vs moral：mortal 含 -tal（与死亡相关），moral 含 -al（与习俗相关）。",
+        "extendedMeaning": "在考研阅读中，moral 常作名词，表示“道德准则、伦理体系”，如 moral of the story（故事的寓意）强调深层教育意义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "morality",
+      "word": "morality",
+      "phonetic": "/mə'ræləti/",
+      "meaning": "n.道德,美德",
+      "similar": [
+        "locality",
+        "gravity",
+        "loyalty",
+        "quality",
+        "reality",
+        "royalty",
+        "equality"
+      ],
+      "question": {
+        "wordId": "morality",
+        "stem": "选择 \"morality\" 的正确中文意思：",
+        "correct": "n.道德,美德",
+        "options": [
+          "n.道德,美德",
+          "n.位置,地点",
+          "n.忠诚,忠心",
+          "n.重力,引力;严肃,庄重"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语moralis（道德的），词根mos/mor-（习惯、风俗）+ -ality（名词后缀），核心动作是“遵从社会风俗习惯”，引申为关于善恶对错的内在准则和美德。",
+        "similarWarning": "locality（地点）、gravity（重力/严肃）、loyalty（忠诚）、quality（质量）、reality（现实）、royalty（皇室/版税）、equality（平等）。以上词均以-ality结尾，但morality特指道德范畴，与loyalty（忠诚）易混：morality关乎是非对错，loyalty关乎信守承诺。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mortal",
+      "word": "mortal",
+      "phonetic": "/'mɔ:təl/",
+      "meaning": "a.致命的;终有一死的;人世间的 n.凡人",
+      "similar": [
+        "moral",
+        "marital",
+        "oral",
+        "metal",
+        "motel",
+        "formal",
+        "mental",
+        "memorial"
+      ],
+      "question": {
+        "wordId": "mortal",
+        "stem": "选择 \"mortal\" 的正确中文意思：",
+        "correct": "a.致命的;终有一死的;人世间的 n.凡人",
+        "options": [
+          "a.口头的",
+          "a.婚姻的,夫妻之间的",
+          "a.道德(上)的,精神上的 n.寓意,教育意义",
+          "a.致命的;终有一死的;人世间的 n.凡人"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 mortalis，词根 mort-（死亡） + -al（形容词后缀）。核心物理动作：终将死亡。由此引申出“致命的”（导致死亡）和“人世间的”（凡人终有一死的世界）。",
+        "similarWarning": "moral（道德的）：mortal vs moral，字母差异为 t（死亡） vs 无t（道德）。marital（婚姻的）：marital vs mortal，字母差异为 i（婚姻） vs o（死亡）。metal（金属）：metal vs mortal，字母差异为 e（金属） vs o（死亡）。",
+        "extendedMeaning": "考研中常见引申义为“致命的；极度的”，如 mortal danger（致命的危险），mortal enemy（死敌）。",
+        "examUsage": "常考固定搭配：mortal wound（致命伤）；真题例句：\"The disease proved to be mortal.\"（这种疾病被证明是致命的。）注意与 fatal 同义替换。"
+      }
+    },
+    {
+      "id": "mortgage",
+      "word": "mortgage",
+      "phonetic": "/'mɔ:gidʒ/",
+      "meaning": "n./v.抵押(借款)",
+      "similar": [
+        "mortal",
+        "cottage",
+        "hostage",
+        "outrage",
+        "postage",
+        "voltage",
+        "marriage",
+        "shortage"
+      ],
+      "question": {
+        "wordId": "mortgage",
+        "stem": "选择 \"mortgage\" 的正确中文意思：",
+        "correct": "n./v.抵押(借款)",
+        "options": [
+          "a.致命的;终有一死的;人世间的 n.凡人",
+          "n.村舍,小屋,别墅",
+          "n.人质",
+          "n./v.抵押(借款)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自法语，mort（死亡）+ gage（质押），原指“死亡质押”，即借款人死亡或还清贷款时质押失效，引申为“抵押”。",
+        "similarWarning": "mortgage vs. hostage: hostage（人质）来自host（主人）+ age，强调被扣留的人；mortgage强调资产质押。与mortal（致命的）共享mort-词根，但mortal指死亡状态。",
+        "extendedMeaning": "",
+        "examUsage": "考研常考搭配：mortgage loan（抵押贷款），pay off the mortgage（还清抵押贷款），raise a mortgage on sth.（以某物抵押借款）。真题中常作为经济类阅读题背景词，注意其动词用法：mortgage one's house（抵押房子）。"
+      }
+    },
+    {
+      "id": "mosaic",
+      "word": "mosaic",
+      "phonetic": "/məu'zeiik/",
+      "meaning": "n.马赛克;镶嵌体",
+      "similar": [
+        "cosmic"
+      ],
+      "question": {
+        "wordId": "mosaic",
+        "stem": "选择 \"mosaic\" 的正确中文意思：",
+        "correct": "n.马赛克;镶嵌体",
+        "options": [
+          "a.宇宙的；无比巨大的，无穷尽的",
+          "n.马赛克;镶嵌体",
+          "n.寓言",
+          "a.不顾的,不考虑的,无关的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'mousa'（缪斯女神），指献给缪斯女神的艺术品。后缀'-aic'表'属于...的'。核心动作：将彩色小石子/玻璃片拼贴成图案，引申为'由不同部分拼合而成的整体'。",
+        "similarWarning": "music（音乐）：'mosaic'含'ic'，强调拼接；'music'含'us'，强调听觉艺术。cosmic（宇宙的）：'mosaic'含'sa'，与镶嵌有关；'cosmic'含'co'，表宇宙秩序。",
+        "extendedMeaning": "考研高频僻义：指'拼合而成的整体'（如a mosaic of cultures），或技术上的'镶嵌结构'（如DNA mosaic）。",
+        "examUsage": "真题考点：常与'of'连用，如'a mosaic of different opinions'，考查抽象事物由不同部分组成的隐喻用法。"
+      }
+    },
+    {
+      "id": "mosquito",
+      "word": "mosquito",
+      "phonetic": "/mə'ski:təu/",
+      "meaning": "n.蚊子",
+      "similar": [],
+      "question": {
+        "wordId": "mosquito",
+        "stem": "选择 \"mosquito\" 的正确中文意思：",
+        "correct": "n.蚊子",
+        "options": [
+          "n.蚊子",
+          "n.垫,衬垫;便笺簿 v.加上衬垫",
+          "n.传统； 惯例； 传说",
+          "n.刀,餐刀 v.用刀切,用匕首刺"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自西班牙语/葡萄牙语 'mosquito'，字面意为 '小苍蝇'。词根 'mosca'（苍蝇）+ 指小后缀 '-ito'（小），核心动作/画面：一种像苍蝇但体型更小的飞虫，即蚊子。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "moss",
+      "word": "moss",
+      "phonetic": "/mɔs/",
+      "meaning": "n.苔,藓,地衣",
+      "similar": [
+        "boss",
+        "loss",
+        "mass",
+        "mess",
+        "miss",
+        "toss",
+        "gross",
+        "moist"
+      ],
+      "question": {
+        "wordId": "moss",
+        "stem": "选择 \"moss\" 的正确中文意思：",
+        "correct": "n.苔,藓,地衣",
+        "options": [
+          "n.大量,众多;团,块;(pl.)群众,民众;质量",
+          "n.苔,藓,地衣",
+          "n.老板，上司 vt.指挥，控制，发号施令",
+          "n.丧失，遗失；损失，损耗，亏损；失败"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*musan-，指沼泽地生长的低矮植物，核心物理动作是“附着于潮湿表面缓慢生长”，引申为苔藓类植物的统称。",
+        "similarWarning": "boss（老板，n.）、loss（损失，n.）、mass（大量，n./adj.）、mess（混乱，n.）、miss（错过，v.）、most（大多数，adj./adv.）、toss（投掷，v.）、cross（交叉，v./n.）——moss以双s结尾，区别于单s的boss/loss等，且拼写中‘mo’对应沼泽潮湿环境，区别于mass/mess的‘ma/me’。",
+        "extendedMeaning": "在考研外刊中常引申为“（覆盖表面的）茸毛状物”或“（时间的）沉淀感”，如‘moss-covered’（苔藓覆盖的）隐喻古老或遗忘。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "motel",
+      "word": "motel",
+      "phonetic": "/məu'tel/",
+      "meaning": "n.(附有停车场的)汽车旅馆",
+      "similar": [
+        "mortal",
+        "mate",
+        "mode",
+        "move",
+        "mute",
+        "vote",
+        "bowel",
+        "metal"
+      ],
+      "question": {
+        "wordId": "motel",
+        "stem": "选择 \"motel\" 的正确中文意思：",
+        "correct": "n.(附有停车场的)汽车旅馆",
+        "options": [
+          "n.方式,式样",
+          "n.伙伴,同事,同伴,配偶 v. 结伴,配对,交配",
+          "a.致命的;终有一死的;人世间的 n.凡人",
+          "n.(附有停车场的)汽车旅馆"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由 motor（汽车）和 hotel（旅馆）的混成词，取 motor 的前部与 hotel 的后部组合，意为专为驾车旅客设计的旅馆，通常附有停车场。",
+        "similarWarning": "hotel（旅馆，无停车场）；model（模型）；mortal（致命的）；mother（母亲）；mate（伙伴）；mode（模式）；more（更多）；move（移动）——拼写相似但词义无直接关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "motion",
+      "word": "motion",
+      "phonetic": "/'məuʃn/",
+      "meaning": "n.运动,动;提议,动议 v.提议,动议",
+      "similar": [
+        "emotion",
+        "notion",
+        "mention",
+        "portion",
+        "moon",
+        "motor",
+        "onion",
+        "action"
+      ],
+      "question": {
+        "wordId": "motion",
+        "stem": "选择 \"motion\" 的正确中文意思：",
+        "correct": "n.运动,动;提议,动议 v.提议,动议",
+        "options": [
+          "v./n.提及,说起",
+          "n.概念,想法,意念,看法,观点",
+          "n.情绪,情感,感情",
+          "n.运动,动;提议,动议 v.提议,动议"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 motio（移动），词根 mot-（移动），与 motor（发动机）、emotion（情感，即‘向外移动’的情绪）同源。核心物理动作为‘物体位置改变或身体部位移动’，引申为‘提议’（将想法‘推动’至讨论层面）。",
+        "similarWarning": "emotion（情感）：e-（向外）+ motion（移动）→ 情绪‘外溢’；notion（概念）：not-（标记）+ ion → 标记在脑海中的‘想法’；motion 强调物理移动或正式提议，注意拼写差异：e-motion vs. n-otion vs. m-otion。",
+        "extendedMeaning": "在考研阅读中常考‘动议（提议）’义，如‘propose a motion’（提出动议），非字面‘运动’。",
+        "examUsage": "真题考点：put/set sth. in motion（启动/实施某事），如‘The plan was put in motion.’；干扰项常与 emotion（情感）混淆，注意上下文逻辑。"
+      }
+    },
+    {
+      "id": "motivate",
+      "word": "motivate",
+      "phonetic": "/'məutiveit/",
+      "meaning": "vt.促动；激励，鼓励，作为…的动机",
+      "similar": [
+        "motive",
+        "activate",
+        "cultivate",
+        "rotate",
+        "dominate",
+        "estimate",
+        "intimate",
+        "meditate"
+      ],
+      "question": {
+        "wordId": "motivate",
+        "stem": "选择 \"motivate\" 的正确中文意思：",
+        "correct": "vt.促动；激励，鼓励，作为…的动机",
+        "options": [
+          "v.耕作,栽培,养殖;培养,教养,磨炼",
+          "vt.启动，激活；驱动，驱使；使开始起作用",
+          "vt.促动；激励，鼓励，作为…的动机",
+          "n.动机,目的 a.发动的,运动的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语motus（移动）+ -ivate（使动后缀）。核心物理动作是“使移动”，引申为“推动某人行动或产生动机”。",
+        "similarWarning": "motive（n.动机）vs motivate（v.激励）：前者是名词，后者是动词；activate（v.激活）强调启动功能，motivate强调心理驱动；cultivate（v.培养）侧重培育过程，motivate侧重激发意愿。",
+        "extendedMeaning": "在考研真题中，motivate常引申为“激发（潜在行为或情感）”，如motivate innovation（激发创新），或用于被动结构be motivated by（受…驱使）。",
+        "examUsage": "高频考点：motivate sb to do sth（激励某人做某事），近义词spur、prompt。真题例句：The desire to be successful motivates many to work harder.（成功的欲望激励许多人更努力。）"
+      }
+    },
+    {
+      "id": "motive",
+      "word": "motive",
+      "phonetic": "/'məutiv/",
+      "meaning": "n.动机,目的 a.发动的,运动的",
+      "similar": [
+        "motivate",
+        "move",
+        "movie",
+        "active",
+        "mobile",
+        "motion",
+        "native",
+        "notice"
+      ],
+      "question": {
+        "wordId": "motive",
+        "stem": "选择 \"motive\" 的正确中文意思：",
+        "correct": "n.动机,目的 a.发动的,运动的",
+        "options": [
+          "n.动机,目的 a.发动的,运动的",
+          "vt.促动；激励，鼓励，作为…的动机",
+          "v.移动,迁移;活动;感动 n.移动,活动,行动",
+          "n.电影,电影院"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 mot-（移动）+ 后缀 -ive（表性质/名词）。核心物理动作是“促使移动的力量”，即引发行动的内在驱动力。",
+        "similarWarning": "motivate (v. 激发，促使) vs motive (n. 动机)：motivate 是动词，强调“给予动机”的动作；motive 是名词，指“动机本身”。move (v./n. 移动) vs motive：move 泛指任何位移，motive 特指心理层面的“推动力”。",
+        "extendedMeaning": "在考研阅读中，motive 常引申为“（艺术作品的）主题、主旨”，如 the motive of the novel（小说的主题）。",
+        "examUsage": "真题中常考查 motive 与 reason, cause 的辨析：motive 强调内在的、情感或欲望驱动的“动机”；reason 侧重逻辑上的“理由”；cause 指客观的“原因”。常见搭配：ulterior motive（别有用心的动机）。"
+      }
+    },
+    {
+      "id": "motor",
+      "word": "motor",
+      "phonetic": "/'məutə/",
+      "meaning": "n.发动机,电动机",
+      "similar": [
+        "monitor",
+        "motion",
+        "mood",
+        "moon",
+        "odor",
+        "actor",
+        "honor",
+        "mayor"
+      ],
+      "question": {
+        "wordId": "motor",
+        "stem": "选择 \"motor\" 的正确中文意思：",
+        "correct": "n.发动机,电动机",
+        "options": [
+          "n.班长;监听器,监视器 v.监控,监测",
+          "n.心情,情绪;语气",
+          "n.发动机,电动机",
+          "n.运动,动;提议,动议 v.提议,动议"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'motor'，意为'移动者'，来自'movere'（移动）的派生形式。核心物理动作为'使物体产生运动'，引申为提供动力的装置。",
+        "similarWarning": "monitor（监控器，-mon-警告）、motion（运动，-mot-移动）、motor（发动机，-mot-移动）。monitor侧重监视，motion指抽象运动，motor指具体动力机械。",
+        "extendedMeaning": "考研中常作形容词，意为'机动的、汽车的'，如motor vehicle（机动车），或引申为'肌肉运动的'（motor skills运动技能）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mould",
+      "word": "mould",
+      "phonetic": "/məuld/",
+      "meaning": "n.(mold)模子，铸型 v.浇铸，造型，塑造",
+      "similar": [
+        "module",
+        "mud",
+        "bold",
+        "fold",
+        "foul",
+        "loud",
+        "mild",
+        "mood"
+      ],
+      "question": {
+        "wordId": "mould",
+        "stem": "选择 \"mould\" 的正确中文意思：",
+        "correct": "n.(mold)模子，铸型 v.浇铸，造型，塑造",
+        "options": [
+          "a.大胆的,勇敢的;冒失的;黑体的,粗体的",
+          "n.(mold)模子，铸型 v.浇铸，造型，塑造",
+          "n.泥，泥浆 v.弄脏，使沾污泥",
+          "n.组件，模块，模件；(航天器的)舱"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "mould = mold，源自拉丁语modulus（尺度、小容器）。核心动作：用中空容器（模子）赋予流动物质（金属、塑料、泥土）固定形状。引申为无形地塑造（性格、思想）。与mud（湿软泥土）同源，强调将软质材料压入模具定型。",
+        "similarWarning": "mould vs module：module是逻辑单元/组件（如考研模块），mould是物理模具。拼写差异：-ule（小尺度） vs -uld（压制动作）。",
+        "extendedMeaning": "考研僻义：mould作动词表‘对…产生决定性影响’（如mould public opinion操纵舆论），非仅指物理成型。",
+        "examUsage": "真题考点：mould作动词时，常考搭配be moulded by（被…塑造），如‘Values are moulded by society.’（价值观由社会塑造）。干扰项常混用mould与model（模型/榜样）。"
+      }
+    },
+    {
+      "id": "mount",
+      "word": "mount",
+      "phonetic": "/maunt/",
+      "meaning": "v.登上;安装n.支架,底板;(用于山名前)山峰",
+      "similar": [
+        "amount",
+        "count",
+        "county",
+        "aunt",
+        "hunt",
+        "moan",
+        "moon",
+        "noun"
+      ],
+      "question": {
+        "wordId": "mount",
+        "stem": "选择 \"mount\" 的正确中文意思：",
+        "correct": "v.登上;安装n.支架,底板;(用于山名前)山峰",
+        "options": [
+          "n.(英国)郡,(美国)县",
+          "v.登上;安装n.支架,底板;(用于山名前)山峰",
+          "v.数,计算;算入;看作,认为 n.计数,总数",
+          "n.总数，数量；数额 v.共计；等同,接近(to)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语“mons/montis”(山)，核心物理动作是“向上移动/堆叠”，引申为“登上高处”或“将某物固定(安装)在基座上”。",
+        "similarWarning": "amount(总数，由a(向)+mount构成) vs mount(登上/安装)：前缀不同，amount强调“累加达到的总和”，mount强调“攀爬/固定”。count(计数，词根com+putare) vs mount：count侧重数字计算，mount侧重物理动作。county(郡，由count衍生) vs mount：拼写差异在“y”与“mount”，意义无关联。",
+        "extendedMeaning": "在考研阅读中，“mount”常引申为“增加/加剧”(如mounting pressure 日益增长的压力)，而非仅指物理攀爬。",
+        "examUsage": "真题高频搭配：mount an attack/expedition (发起攻击/远征)；mount a challenge (发起挑战)。如：The government mounted a campaign against corruption. (政府对腐败发起了一场运动。)"
+      }
+    },
+    {
+      "id": "mourn",
+      "word": "mourn",
+      "phonetic": "/mɔ:n/",
+      "meaning": "v.哀悼,忧伤",
+      "similar": [
+        "born",
+        "burn",
+        "corn",
+        "four",
+        "horn",
+        "moan",
+        "moon",
+        "noun"
+      ],
+      "question": {
+        "wordId": "mourn",
+        "stem": "选择 \"mourn\" 的正确中文意思：",
+        "correct": "v.哀悼,忧伤",
+        "options": [
+          "a.出生的，产生的；天生的，十足的",
+          "v.哀悼,忧伤",
+          "v.燃烧，烧着；烧毁；灼伤 n.烧伤，灼伤",
+          "n.谷物,庄稼,玉米"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根来自古英语‘murnan’，核心动作是‘记忆并表达内心的痛楚’，引申为对逝去或失去的人/物公开或私下的哀悼。",
+        "similarWarning": "形近词辨析：mourn（哀悼） vs. born（出生） vs. burn（燃烧） vs. corn（玉米）。差异在首字母‘m’与‘b’、‘b’、‘c’的替换，词义无关联。",
+        "extendedMeaning": "考研僻义：引申为对失败、消逝事物的深切惋惜或遗憾，如‘mourn the loss of a golden opportunity’（惋惜痛失良机）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mouse",
+      "word": "mouse",
+      "phonetic": "/maus/",
+      "meaning": "n.(pl.mice)鼠,耗子",
+      "similar": [
+        "rouse",
+        "arouse",
+        "blouse",
+        "module",
+        "spouse",
+        "use",
+        "dose",
+        "fuse"
+      ],
+      "question": {
+        "wordId": "mouse",
+        "stem": "选择 \"mouse\" 的正确中文意思：",
+        "correct": "n.(pl.mice)鼠,耗子",
+        "options": [
+          "vt./vi.唤醒，唤起；激励；激起",
+          "vt.唤醒，叫醒；唤起，激起",
+          "n.(pl.mice)鼠,耗子",
+          "n.女衬衣，短上衣，宽阔的罩衫"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自古英语 'mus'，拟声词根，模仿老鼠发出的轻微吱吱声。词根 'mus' 在拉丁语中演变为 'mus'（鼠），并衍生出 'muscle'（肌肉，因肌肉像老鼠在皮下窜动）。核心物理动作：吱吱叫的小型啮齿动物。",
+        "similarWarning": "house（房子，h-建筑意象） vs mouse（老鼠，m-小动物）；rouse（唤醒，r-动作） vs mouse（名词）；spouse（配偶，sp-共同） vs mouse（无关）",
+        "extendedMeaning": "考研僻义：1. (计算机)鼠标（外形像老鼠的电子设备）；2. 胆小鬼（比喻用法，如 'as timid as a mouse'）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "move",
+      "word": "move",
+      "phonetic": "/mu:v/",
+      "meaning": "v.移动,迁移;活动;感动 n.移动,活动,行动",
+      "similar": [
+        "movie",
+        "dove",
+        "mode",
+        "motive",
+        "remove",
+        "cover",
+        "glove",
+        "hover"
+      ],
+      "question": {
+        "wordId": "move",
+        "stem": "选择 \"move\" 的正确中文意思：",
+        "correct": "v.移动,迁移;活动;感动 n.移动,活动,行动",
+        "options": [
+          "v.移动,迁移;活动;感动 n.移动,活动,行动",
+          "n.电影,电影院",
+          "n.方式,式样",
+          "n.鸽子"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根mot-（移动）+ 动词后缀-e。核心物理动作为“改变空间位置”，引申为“促使事物变化或情感波动”。",
+        "similarWarning": "movie（电影，源于moving picture）；dove（鸽子；dive的过去式）；love（爱，词源无关）；mode（模式，词根mod-尺度）；more（更多，词根meg-大）；motive（动机，mot-移动+ive表物）；remove（re-回+move，移除）；above（a-在+above，上方，词源无关）。",
+        "extendedMeaning": "【考研高频】v. 促使（某人采取行动）；感动（情感上驱动）。例：What moved him to resign?（什么促使他辞职？）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "movement",
+      "word": "movement",
+      "phonetic": "/'mu:vmənt/",
+      "meaning": "n.运动,活动;移动,迁移",
+      "similar": [
+        "monument",
+        "pavement",
+        "implement",
+        "cement",
+        "comment",
+        "element",
+        "torment",
+        "basement"
+      ],
+      "question": {
+        "wordId": "movement",
+        "stem": "选择 \"movement\" 的正确中文意思：",
+        "correct": "n.运动,活动;移动,迁移",
+        "options": [
+          "n.运动,活动;移动,迁移",
+          "n.纪念碑,纪念馆,遗迹,不朽的业绩",
+          "n.人行道",
+          "n.(pl.)工具,器具 v.贯彻,实现"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根mov（移动）+ 后缀-ment（表示行为/结果/状态）。核心物理动作：物体从一处向另一处发生位置改变。引申为抽象层面的变动（如社会运动、进程变化）。",
+        "similarWarning": "moment（n.瞬间；重要时刻）vs movement：moment强调时间点，movement强调持续移动或运动过程。monument（n.纪念碑）vs movement：monument含词根mon（提醒），与移动无关。",
+        "extendedMeaning": "（在艺术、音乐等语境中）乐章；（政治、社会）运动，如the civil rights movement（民权运动）。",
+        "examUsage": "（常与介词in搭配）in movement：在运动中/在变化中。真题常考抽象义，如social movement（社会运动），注意与motion（正式/物理运动）的辨析：movement更侧重有目的、有组织的行为或变化过程。"
+      }
+    },
+    {
+      "id": "movie",
+      "word": "movie",
+      "phonetic": "/'mu:vi/",
+      "meaning": "n.电影,电影院",
+      "similar": [
+        "move",
+        "mobile",
+        "motive",
+        "dove",
+        "mode",
+        "mouse"
+      ],
+      "question": {
+        "wordId": "movie",
+        "stem": "选择 \"movie\" 的正确中文意思：",
+        "correct": "n.电影,电影院",
+        "options": [
+          "a.可动的,活动的,运动的",
+          "n.动机,目的 a.发动的,运动的",
+          "v.移动,迁移;活动;感动 n.移动,活动,行动",
+          "n.电影,电影院"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根mov-（移动）+ -ie（名词后缀，表小或亲昵）。核心物理动作：移动的画面。电影本质是快速移动的连续画面，源自'moving picture'的缩写。",
+        "similarWarning": "move（v.移动）：去掉ie加e；motive（n.动机）：去掉ie加tive；mobile（adj.移动的）：去掉ie加bile。",
+        "extendedMeaning": "在考研外刊中，movie常引申为'（某领域的）典型事件或场景'，如'political movie'指政治闹剧，非字面电影。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mud",
+      "word": "mud",
+      "phonetic": "/mʌd/",
+      "meaning": "n.泥，泥浆 v.弄脏，使沾污泥",
+      "similar": [
+        "bud",
+        "mad",
+        "mug",
+        "mould"
+      ],
+      "question": {
+        "wordId": "mud",
+        "stem": "选择 \"mud\" 的正确中文意思：",
+        "correct": "n.泥，泥浆 v.弄脏，使沾污泥",
+        "options": [
+          "n.泥，泥浆 v.弄脏，使沾污泥",
+          "n.芽,花苞 v.发芽,含苞欲放",
+          "a.发疯的;狂热的,着迷的;恼火的,生气的",
+          "n.(有柄的)大茶杯"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源：源自中古英语 mudde，拟声词，模仿泥浆的黏稠感。核心物理动作：泥巴（软、湿、黏的土壤）→ 弄脏（使表面沾上泥浆）。",
+        "similarWarning": "形近词辨析：\n- mud (泥) vs. bud (芽)：b-像发芽的茎，m-像泥巴的黏稠。\n- mud vs. mad (疯狂的)：mad 中 a 表示“疯癫状态”，mud 中 u 像泥坑。\n- mud vs. mug (马克杯)：mug 中 g 像杯柄，mud 中 d 像泥点。\n- mud vs. mould (霉菌/模具)：mould 中 oul 表示“长霉的圆斑”，mud 是泥。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mug",
+      "word": "mug",
+      "phonetic": "/mʌg/",
+      "meaning": "n.(有柄的)大茶杯",
+      "similar": [
+        "bug",
+        "hug",
+        "jug",
+        "mud",
+        "rug",
+        "tug"
+      ],
+      "question": {
+        "wordId": "mug",
+        "stem": "选择 \"mug\" 的正确中文意思：",
+        "correct": "n.(有柄的)大茶杯",
+        "options": [
+          "n.臭虫;小毛病;窃听器 v.窃听",
+          "n.(有柄的)大茶杯",
+          "v./n.热烈拥抱,紧抱",
+          "n.(有柄，小口，可盛水等的)大壶，罐，盂"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟喝饮料时发出的咕噜声，后指这种有柄的大杯子。",
+        "similarWarning": "bug（虫子/漏洞），hug（拥抱），jug（壶/罐），mud（泥），rug（小地毯），tug（拖船/拉）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "multiple",
+      "word": "multiple",
+      "phonetic": "/'mʌltipl/",
+      "meaning": "a.多样的,多重的 n.倍数 v.成倍增加",
+      "similar": [
+        "multiply",
+        "multitude",
+        "futile"
+      ],
+      "question": {
+        "wordId": "multiple",
+        "stem": "选择 \"multiple\" 的正确中文意思：",
+        "correct": "a.多样的,多重的 n.倍数 v.成倍增加",
+        "options": [
+          "v.(by)乘,使相乘;倍增,增加,繁殖",
+          "a.多样的,多重的 n.倍数 v.成倍增加",
+          "n.众多,大量",
+          "a.无效的，无用的，无希望的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语multus（多） + -ple（折叠），核心动作是“多次折叠”，即数量上的叠加，引申为“多样的、多重的”。",
+        "similarWarning": "multiply（v. 乘，增加）：multiple是形容词，强调“多重的”；multitude（n. 大量，群众）：强调“众多的人/物”，后缀不同；futile（a. 无效的）：与multiple无词源关系，仅拼写相似。",
+        "extendedMeaning": "在考研阅读中，multiple常作定语，表示“多方面的、复杂的”，如multiple factors（多重因素）；作名词时指“倍数”，如least common multiple（最小公倍数）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "multiply",
+      "word": "multiply",
+      "phonetic": "/'mʌltiplai/",
+      "meaning": "v.(by)乘,使相乘;倍增,增加,繁殖",
+      "similar": [
+        "multiple"
+      ],
+      "question": {
+        "wordId": "multiply",
+        "stem": "选择 \"multiply\" 的正确中文意思：",
+        "correct": "v.(by)乘,使相乘;倍增,增加,繁殖",
+        "options": [
+          "a.多样的,多重的 n.倍数 v.成倍增加",
+          "n.同盟;联邦;联合;联盟;联合会",
+          "n.显微镜",
+          "v.(by)乘,使相乘;倍增,增加,繁殖"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根multi-（多）+ ply（折叠，来自拉丁语plicare）。核心动作：多次折叠或叠加。本义为“使数量成倍增加”，引申为数学上的“乘法运算”和生物上的“繁殖”。",
+        "similarWarning": "multiple（adj. 多样的，多重的）：后缀-iple表示“倍数”，与multiply同源但词性不同；multiply为动词，multiple为形容词。",
+        "extendedMeaning": "在考研阅读中，multiply常引申为“大量增加，急剧增长”，不限于数学或生物，如“The population multiplied rapidly.”（人口迅速增长。）",
+        "examUsage": "（按需省略）"
+      }
+    },
+    {
+      "id": "multitude",
+      "word": "multitude",
+      "phonetic": "/'mʌltiˌtju:d/",
+      "meaning": "n.众多,大量",
+      "similar": [
+        "altitude",
+        "attitude",
+        "latitude",
+        "multiple",
+        "gratitude",
+        "magnitude",
+        "substitute"
+      ],
+      "question": {
+        "wordId": "multitude",
+        "stem": "选择 \"multitude\" 的正确中文意思：",
+        "correct": "n.众多,大量",
+        "options": [
+          "n.态度，看法(to, toward, about)；姿势",
+          "n.高度，海拔；[pl.]高处，高地",
+          "n.纬度,行动或言论的自由(范围),(pl.)地区",
+          "n.众多,大量"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根multi-（多）+ -tude（抽象名词后缀）→ 表示“多的状态”，即众多、大量。核心动作是“数量上的聚集或集合”。",
+        "similarWarning": "与altitude（高度）、attitude（态度）、latitude（纬度）、magnitude（巨大/重要性）形近，注意首字母和词根差异：multi-（多）vs. magn-（大）vs. alt-（高）等。",
+        "extendedMeaning": "在考研外刊中常引申为“人群、群众”（a multitude of people），强调数量庞大且混杂。",
+        "examUsage": "高频搭配：a multitude of（大量的），常作主语或定语，如真题例句：A multitude of factors contribute to the phenomenon.（大量因素导致了这一现象。）注意与a number of（许多）的区别：multitude强调“众多且杂乱”。"
+      }
+    },
+    {
+      "id": "municipal",
+      "word": "municipal",
+      "phonetic": "/mju:'nisipəl/",
+      "meaning": "a.市(立,政)的;地方性的,地方自治的",
+      "similar": [
+        "musical",
+        "judicial",
+        "musician"
+      ],
+      "question": {
+        "wordId": "municipal",
+        "stem": "选择 \"municipal\" 的正确中文意思：",
+        "correct": "a.市(立,政)的;地方性的,地方自治的",
+        "options": [
+          "n.音乐家,乐师",
+          "a.市(立,政)的;地方性的,地方自治的",
+          "a.音乐的;有音乐才能的 n.音乐片",
+          "a.司法的，审判的；明断的，公正的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根词缀逻辑：源自拉丁语 'municipalis'，由 'munus'（公共职责、义务）和 'capere'（承担）组合，原指承担公共职责的，后引申为市立、市政的。核心动作是‘承担公共义务’，强调城市层面的行政管理与公共服务属性。",
+        "similarWarning": "形近词对比：musical（音乐的，与 music 相关）、judicial（司法的，与 justice 相关）、municipal（市政的，与 city 相关）。差异在于词根：'music'（音乐）、'judic'（审判）、'muni'（公共职责）。",
+        "extendedMeaning": "考研僻义：在真题中常引申为‘地方性的’或‘地方自治的’，强调与中央或联邦政府相对的地方政府权限，如 municipal government（地方政府），区别于 federal（联邦的）。",
+        "examUsage": "真题考点：常见搭配 'municipal bonds'（市政债券），在考研英语二阅读中作为经济类话题的题眼出现，考察对地方财政工具的理解。无特殊干扰项。"
+      }
+    },
+    {
+      "id": "murder",
+      "word": "murder",
+      "phonetic": "/'mə:də/",
+      "meaning": "v./n.谋杀,凶杀",
+      "similar": [
+        "border",
+        "burden",
+        "murmur",
+        "mutter"
+      ],
+      "question": {
+        "wordId": "murder",
+        "stem": "选择 \"murder\" 的正确中文意思：",
+        "correct": "v./n.谋杀,凶杀",
+        "options": [
+          "n.边界,国界;边(沿) v.交界,与…接壤;接近",
+          "v./n.小声说(话);小声抱怨,咕哝",
+          "v./n.谋杀,凶杀",
+          "n.担子，重担，负担 vt.给予负担或麻烦"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能与古英语‘morthor’（秘密杀害）相关，核心动作是‘非法剥夺生命’，强调预谋性和恶意。",
+        "similarWarning": "murmur（低语）: 拼写差异‘-der’ vs ‘-mur’，词义为‘轻声说’；mutter（咕哝）: 拼写差异‘-der’ vs ‘-tter’，词义为‘含糊抱怨’。对比：murder是暴力行动，murmur/mutter是声音动作。",
+        "extendedMeaning": "在考研外刊中可引申为‘糟蹋、破坏（艺术、语言等）’，如‘murder a song’（糟蹋一首歌），强调严重损害。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "murmur",
+      "word": "murmur",
+      "phonetic": "/'mə:mə/",
+      "meaning": "v./n.小声说(话);小声抱怨,咕哝",
+      "similar": [
+        "murder"
+      ],
+      "question": {
+        "wordId": "murmur",
+        "stem": "选择 \"murmur\" 的正确中文意思：",
+        "correct": "v./n.小声说(话);小声抱怨,咕哝",
+        "options": [
+          "ad.最近,不久前",
+          "v./n.谋杀,凶杀",
+          "n.苦恼;危难;不幸 v.使苦恼",
+          "v./n.小声说(话);小声抱怨,咕哝"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟低沉连续的“murmur”声，像流水或人群低语，核心动作是发出低沉、模糊不清的声音。",
+        "similarWarning": "与 murder /'mə:də/（谋杀）对比：murmur 含重复的“-mur”表声音连续；murder 含“-der”表死亡动作。拼写差异在末尾“-mur” vs “-der”，含义从低语到暴力，完全无关。",
+        "extendedMeaning": "考研中常引申为“持续的低声抱怨”或“私下不满”，如 murmur against authority（私下抱怨权威），比 complain 更强调低调、非公开。",
+        "examUsage": "真题考点：作名词时与介词 against 搭配，如 murmurs of discontent（不满的低语），常作为阅读中人物态度题的干扰项，与 explicit criticism（明确批评）形成对比。"
+      }
+    },
+    {
+      "id": "muscle",
+      "word": "muscle",
+      "phonetic": "/'mʌsl/",
+      "meaning": "n.肌肉,体力",
+      "similar": [
+        "uncle",
+        "muscular"
+      ],
+      "question": {
+        "wordId": "muscle",
+        "stem": "选择 \"muscle\" 的正确中文意思：",
+        "correct": "n.肌肉,体力",
+        "options": [
+          "n.肌肉,体力",
+          "n.伯父，叔父，舅父，姑父，姨父",
+          "n.宇宙飞船",
+          "a.肌肉的;肌肉发达的;强健的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 musculus（小老鼠），因肌肉收缩时形似老鼠在皮下跑动而得名。词根 mus-（老鼠） + -cle（小后缀），本义为‘小老鼠’，后引申为‘肌肉’。",
+        "similarWarning": "uncle（叔叔）：拼写差异为‘un-’ vs ‘mus-’，词义无关。muscular（肌肉发达的）：同源形容词，词根相同，但词性不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "muscular",
+      "word": "muscular",
+      "phonetic": "/'mʌskjulə/",
+      "meaning": "a.肌肉的;肌肉发达的;强健的",
+      "similar": [
+        "muscle",
+        "circular"
+      ],
+      "question": {
+        "wordId": "muscular",
+        "stem": "选择 \"muscular\" 的正确中文意思：",
+        "correct": "a.肌肉的;肌肉发达的;强健的",
+        "options": [
+          "a.圆(形)的,环形的;循环的 n.传单,通报",
+          "n.肌肉,体力",
+          "n.药物;麻醉品;毒品;滞销货 v.下麻药;吸毒",
+          "a.肌肉的;肌肉发达的;强健的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 muscul-（肌肉）+ -ar（形容词后缀，表示“与...相关的”）。核心动作：与肌肉相关的。muscle 源自拉丁语 musculus（小老鼠），因肌肉在皮下收缩时形似老鼠跑动，故以此命名。",
+        "similarWarning": "muscle [ˈmʌsl] n. 肌肉（名词）；circular [ˈsɜːrkjələr] a. 圆形的（词根 circ- 圆）。muscular 强调肌肉状态或力量，如 muscular body（肌肉发达的身体）；circular 强调形状，如 circular motion（圆周运动）。",
+        "extendedMeaning": "在考研中引申为“强有力的、气势磅礴的”，如 muscular economy（强劲的经济）或 muscular prose（雄健的文风），常出现在经济或文学评论类文章中。",
+        "examUsage": "无特殊考点。"
+      }
+    },
+    {
+      "id": "museum",
+      "word": "museum",
+      "phonetic": "/mju:'ziəm/",
+      "meaning": "n.博物馆,展览馆",
+      "similar": [],
+      "question": {
+        "wordId": "museum",
+        "stem": "选择 \"museum\" 的正确中文意思：",
+        "correct": "n.博物馆,展览馆",
+        "options": [
+          "n.环境,外界",
+          "n.博物馆,展览馆",
+          "ad.可能地，也许；无论如何",
+          "n.(harbour)海港;避难所 v.隐匿,窝藏"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语Mouseion，原指“缪斯女神的神庙”（Muse为文艺女神），后引申为“研究、收藏艺术与科学作品的地方”。词根muse-意为“沉思、艺术灵感”，后缀-eum表“场所”。核心动作：供奉与展示智慧结晶的殿堂。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中可引申为“（某一领域的）珍藏集中地”，如a museum of modern art（现代艺术宝库），侧重“精华汇聚”的抽象含义，非仅指建筑。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mushroom",
+      "word": "mushroom",
+      "phonetic": "/'mʌʃru:m/",
+      "meaning": "n.蘑菇 vt.迅速生长,迅速增加,采蘑菇",
+      "similar": [
+        "bathroom"
+      ],
+      "question": {
+        "wordId": "mushroom",
+        "stem": "选择 \"mushroom\" 的正确中文意思：",
+        "correct": "n.蘑菇 vt.迅速生长,迅速增加,采蘑菇",
+        "options": [
+          "n.浴室;盥洗室,卫生间",
+          "n.邪恶;恶习;(pl.)台钳,老虎钳",
+          "a.幸运的,侥幸的",
+          "n.蘑菇 vt.迅速生长,迅速增加,采蘑菇"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "mushroom 源自中古英语 muscheron，词根不详，但核心意象是蘑菇的快速生长特性。名词指“蘑菇”，动词引申为“迅速生长/增加”，源于蘑菇在潮湿环境中一夜之间破土而出的生物现象，强调爆发式、不可控的扩张。",
+        "similarWarning": "bathroom（浴室）：bath（沐浴）+room（房间），与 mushroom 拼写差异在 bath- vs mush-，词义无关。",
+        "extendedMeaning": "考研僻义：动词“迅速增长/蔓延”，常用于经济、人口、城市扩张等抽象语境，如“The city mushroomed after the railway was built.”",
+        "examUsage": "真题考点：常见搭配“mushroom into”（迅速发展为），如“The small shop mushroomed into a huge corporation.” 注意与“boom”（繁荣）的区别：mushroom 强调速度与不可控性，boom 强调周期性增长。"
+      }
+    },
+    {
+      "id": "musical",
+      "word": "musical",
+      "phonetic": "/'mju:zikəl/",
+      "meaning": "a.音乐的;有音乐才能的 n.音乐片",
+      "similar": [
+        "musician",
+        "medical",
+        "municipal",
+        "judicial"
+      ],
+      "question": {
+        "wordId": "musical",
+        "stem": "选择 \"musical\" 的正确中文意思：",
+        "correct": "a.音乐的;有音乐才能的 n.音乐片",
+        "options": [
+          "a.音乐的;有音乐才能的 n.音乐片",
+          "n.音乐家,乐师",
+          "a.医学的，医疗的，医药的；内科的",
+          "a.市(立,政)的;地方性的,地方自治的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语musica（音乐）+形容词后缀-al（与...相关的）。核心动作：与音乐相关的，或具有音乐特性的。",
+        "similarWarning": "musical（音乐的） vs. musician（音乐家）：musical是形容词/名词，musician是名词，指演奏音乐的人。 vs. medical（医学的）：仅字母差异，musical含“music”，medical含“medic”，词义无关。 vs. municipal（市政的）：拼写相近但词根不同，municipal源自拉丁语municipium（自治市）。",
+        "extendedMeaning": "在考研中常考名词义“音乐片/音乐剧”（如a musical），而非仅形容词义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "musician",
+      "word": "musician",
+      "phonetic": "/mju:'ziʃən/",
+      "meaning": "n.音乐家,乐师",
+      "similar": [
+        "musical",
+        "municipal",
+        "physician",
+        "suspicion",
+        "judicial"
+      ],
+      "question": {
+        "wordId": "musician",
+        "stem": "选择 \"musician\" 的正确中文意思：",
+        "correct": "n.音乐家,乐师",
+        "options": [
+          "a.音乐的;有音乐才能的 n.音乐片",
+          "a.市(立,政)的;地方性的,地方自治的",
+          "n.音乐家,乐师",
+          "n.内科医生"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语musica（音乐）+ -ian（表示人），核心动作是“与音乐相关的人”，即从事音乐创作、演奏或表演的人。",
+        "similarWarning": "musical（音乐的，音乐剧）vs musician（音乐家）：musical是形容词或名词，指音乐剧；musician是人。municipal（市政的）vs musician：municipal含cip（城市），musician含sic（音乐）。physician（内科医生）vs musician：physician含physi（自然/身体），musician含music。suspicion（怀疑）vs musician：suspicion含spic（看），musician含sic。judicial（司法的）vs musician：judicial含jud（判断），musician含sic。",
+        "extendedMeaning": "在考研语境中，musician常引申为“从事音乐行业的人”，不限于演奏者，也包括作曲家、指挥等；有时在文化类文章中泛指“音乐人士”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mute",
+      "word": "mute",
+      "phonetic": "/mju:t/",
+      "meaning": "a.哑的,缄默的n.哑巴;弱音器v.减弱…的声音",
+      "similar": [
+        "mate",
+        "mutter",
+        "acute",
+        "amuse",
+        "metre",
+        "motel",
+        "mouse",
+        "outer"
+      ],
+      "question": {
+        "wordId": "mute",
+        "stem": "选择 \"mute\" 的正确中文意思：",
+        "correct": "a.哑的,缄默的n.哑巴;弱音器v.减弱…的声音",
+        "options": [
+          "a.哑的,缄默的n.哑巴;弱音器v.减弱…的声音",
+          "a.剧烈,敏锐的；成锐角的；尖的，高音的",
+          "n.伙伴,同事,同伴,配偶 v. 结伴,配对,交配",
+          "n.喃喃而语,小声低语;抱怨 v.低声说,抱怨"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语mutus（哑的，沉默的），与murmur（嘟囔）同源，核心动作是“闭口不发声”。词根mut-暗示“声音被抑制”，因此引申为“哑的、缄默的”，名词指“哑巴”或“弱音器”，动词指“减弱声音”。",
+        "similarWarning": "mate（伙伴，mate与mute差一个字母t，mate指同伴）vs mute（哑的）；minute（分钟，minute与mute差in和t，minute指时间）vs mute（沉默）；mutter（嘀咕，mutter与mute差ter，mutter指低声抱怨）vs mute（哑的）；acute（尖锐的，acute与mute差a和c，acute指敏锐）vs mute（迟钝/沉默）。",
+        "extendedMeaning": "考研中常考“弱音器”或“使声音减弱”的技术义，以及引申义“使（情感/表达）变得缓和或沉默”。",
+        "examUsage": "常见搭配：mute the sound（静音），mute protest（无声抗议）。真题中曾作为干扰项，辨析mute与silent（silent强调不发言，mute强调生理或物理上的无声）。"
+      }
+    },
+    {
+      "id": "mutter",
+      "word": "mutter",
+      "phonetic": "/'mʌtə/",
+      "meaning": "n.喃喃而语,小声低语;抱怨 v.低声说,抱怨",
+      "similar": [
+        "utter",
+        "butter",
+        "shutter",
+        "mute",
+        "outer",
+        "better",
+        "bitter",
+        "latter"
+      ],
+      "question": {
+        "wordId": "mutter",
+        "stem": "选择 \"mutter\" 的正确中文意思：",
+        "correct": "n.喃喃而语,小声低语;抱怨 v.低声说,抱怨",
+        "options": [
+          "n.喃喃而语,小声低语;抱怨 v.低声说,抱怨",
+          "n.百叶窗；(照相机)快门；关闭装置",
+          "v.说,发出(声音) a.彻底的,完全的",
+          "n.黄油,奶油 v.涂黄油于…上"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿低沉、连续、含混的发音动作。词根与“mute”（沉默）同源，核心动作是“嘴唇微动、声音压抑的咕哝”，强调因不满、抱怨或不想被他人听到而发出的含混低语。",
+        "similarWarning": "mutter vs. utter（说出，发声）：m-开头含“闭唇”意象，声音压抑；u-开头含“开口”意象，声音清晰。mutter vs. matter（物质，问题）：t双写 vs. tt双写，mutter侧重声音，matter侧重内容。mutter vs. shutter（百叶窗，快门）：sh-前缀表“关闭”，shutter为关闭动作，mutter为压抑声音。",
+        "extendedMeaning": "在考研阅读中，mutter常引申为“私下抱怨、发牢骚”，不一定是字面意义的低语，而是指一种不满情绪的含蓄表达。例如：Employees muttered about the new policy. （员工们对新政策私下抱怨。）",
+        "examUsage": "固定搭配：mutter under one's breath（低声嘀咕）。真题中常作为态度题或细节题的题眼词，用于描述人物不满、不认同但未公开反对的心理状态。"
+      }
+    },
+    {
+      "id": "mutton",
+      "word": "mutton",
+      "phonetic": "/'mʌtn/",
+      "meaning": "n.羊肉",
+      "similar": [
+        "button",
+        "cotton",
+        "motion",
+        "mutter"
+      ],
+      "question": {
+        "wordId": "mutton",
+        "stem": "选择 \"mutton\" 的正确中文意思：",
+        "correct": "n.羊肉",
+        "options": [
+          "n.运动,动;提议,动议 v.提议,动议",
+          "n.羊肉",
+          "n.纽扣,按钮(开关) v.扣紧;扣上纽扣",
+          "n.棉花;棉线,棉纱;棉制品"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源来自古法语mouton（羊），源自拉丁语multo（羊），原指羊的统称。英语中，活羊用sheep，肉用mutton，体现诺曼征服后法语词汇用于餐桌的阶层分化。核心动作：羊→羊肉。",
+        "similarWarning": "button（按钮，纽扣）：b-开头，与m-不同；cotton（棉花，棉布）：c-与m-区分；motion（运动，移动）：-ion结尾，动作名词；mutter（咕哝，抱怨）：-er结尾，动词。拼写差异主要在首字母和末尾，注意mutton的-tton双写t。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mutual",
+      "word": "mutual",
+      "phonetic": "/'mju:tʃuəl/",
+      "meaning": "a.相互的，彼此的；共同的，共有的",
+      "similar": [
+        "metal",
+        "actual",
+        "manual",
+        "ritual",
+        "punctual"
+      ],
+      "question": {
+        "wordId": "mutual",
+        "stem": "选择 \"mutual\" 的正确中文意思：",
+        "correct": "a.相互的，彼此的；共同的，共有的",
+        "options": [
+          "a.手的,手工做的,体力的 n.手册,指南",
+          "a.实际的；现实的，真实的，目前的",
+          "n.金属,金属制品",
+          "a.相互的，彼此的；共同的，共有的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语mutuus（相互的、交换的），词根mut-（改变、交换）。核心动作是“交换”：你给予我，我给予你，形成双向关系。mutual强调双方对等、互动，如mutual respect（相互尊重）。",
+        "similarWarning": "manual（a.手工的，手动的），对比mutual与manual：mutual含mut-（交换），manual含man-（手）。punctual（a.准时的），对比mutual与punctual：mutual含mut-，punctual含punct-（点）。",
+        "extendedMeaning": "在考研语境中，mutual常引申为“共同的、共有的”，强调多方共享，如mutual interests（共同利益）、mutual funds（共同基金，金融术语）。",
+        "examUsage": "常见考点搭配：mutual understanding（相互理解）、mutual respect（相互尊重）。真题例句：\"The mutual trust between the two parties is essential for the success of the project.\"（双方之间的相互信任对项目成功至关重要。）注意与common（普通的，常见的）区分：mutual强调双向性，common强调普遍性。"
+      }
+    },
+    {
+      "id": "myself",
+      "word": "myself",
+      "phonetic": "/mai'self/",
+      "meaning": "pron.[反身代词]我自己；我亲自",
+      "similar": [
+        "self",
+        "itself"
+      ],
+      "question": {
+        "wordId": "myself",
+        "stem": "选择 \"myself\" 的正确中文意思：",
+        "correct": "pron.[反身代词]我自己；我亲自",
+        "options": [
+          "pron.[反身代词]我自己；我亲自",
+          "n.自我，自己(pl.selves)",
+          "pron.(it的反身代词)它自己，它本身",
+          "n.猪肉"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由my（我的）+ self（自身）构成，字面意为“我自己的自身”，强调动作主体与客体同一或亲自执行。",
+        "similarWarning": "self（n. 自我，自身） vs myself（pron. 我自己）——self是名词，myself是反身代词，后者包含所有格my。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mysterious",
+      "word": "mysterious",
+      "phonetic": "/mi'stiəriəs/",
+      "meaning": "a.神秘的,可疑的,难理解的",
+      "similar": [
+        "notorious",
+        "hysterical"
+      ],
+      "question": {
+        "wordId": "mysterious",
+        "stem": "选择 \"mysterious\" 的正确中文意思：",
+        "correct": "a.神秘的,可疑的,难理解的",
+        "options": [
+          "a.神秘的,可疑的,难理解的",
+          "a.臭名昭著的,声名狼藉的",
+          "a.情绪异常激动的,歇斯底里的",
+          "a.跛的,(辩解、论据等)无说服力的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自 mystery（神秘）+ -ous（形容词后缀，表示“充满…的”）。核心物理动作/画面：mystery 源于希腊语 mysterion（秘密仪式），指一种被隐藏、不可直接理解的状态。加上 -ous 后，字面意为“充满秘密的”，即难以解释或理解的。",
+        "similarWarning": "notorious（臭名昭著的）：前缀 not-（标记）+ -orious（充满…的），侧重“恶名在外”。hysterical（歇斯底里的）：源于希腊语 hystera（子宫），原指一种被认为与子宫相关的情绪失控，现指“极度情绪化的”。对比：mysterious 强调“秘密性”；notorious 强调“坏名声”；hysterical 强调“情绪失控”。",
+        "extendedMeaning": "在考研阅读中常引申为“难以捉摸的、不可思议的”，用于描述现象、行为或态度，如 a mysterious disappearance（神秘失踪）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mystery",
+      "word": "mystery",
+      "phonetic": "/'mɪstri/",
+      "meaning": "n.神秘,神秘的事物;神秘小说,侦探小说",
+      "similar": [
+        "misery"
+      ],
+      "question": {
+        "wordId": "mystery",
+        "stem": "选择 \"mystery\" 的正确中文意思：",
+        "correct": "n.神秘,神秘的事物;神秘小说,侦探小说",
+        "options": [
+          "n.听,倾听;听力;审讯",
+          "v./n.推翻,颠覆",
+          "n.痛苦,悲惨,不幸",
+          "n.神秘,神秘的事物;神秘小说,侦探小说"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语mysterion（秘密仪式），词根my-（闭上嘴）→ 无法言说之事，引申为神秘事物。核心动作：闭口不言的秘密。",
+        "similarWarning": "master（主人，大师）与mystery仅差字母a/y，但master强调控制/精通；misery（痛苦，悲惨）与mystery差字母s/i，但misery侧重情感折磨。注意拼写中y与a/s的区分。",
+        "extendedMeaning": "在考研阅读中常引申为“悬疑元素”或“未解之谜”，如the mysteries of the universe（宇宙的奥秘）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "myth",
+      "word": "myth",
+      "phonetic": "/miθ/",
+      "meaning": "n.神话;虚构的理论",
+      "similar": [
+        "match",
+        "maths"
+      ],
+      "question": {
+        "wordId": "myth",
+        "stem": "选择 \"myth\" 的正确中文意思：",
+        "correct": "n.神话;虚构的理论",
+        "options": [
+          "n.神话;虚构的理论",
+          "n.火柴;比赛,竞赛;对手,配偶 v.匹配,相称",
+          "n.(mathematics/math)数学",
+          "a.新鲜的,无经验的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'mythos'（故事、传说），原指古代口耳相传的神圣叙事，后引申为虚构或未经证实的故事。核心物理动作是'讲述'，强调非事实的叙述。",
+        "similarWarning": "match（匹配）、maths（数学）、month（月份）、mouth（嘴巴）：myth与这些词仅差一个字母，但意义截然不同，需注意拼写差异。",
+        "extendedMeaning": "在考研阅读中，常引申为'普遍但错误的观念'或'社会共识中的迷思'，如'the myth of progress'（进步的神话）。",
+        "examUsage": "常见搭配'explode/dispel a myth'（戳穿迷思），真题中常作为批判性论证的靶子出现。"
+      }
+    },
+    {
+      "id": "nail",
+      "word": "nail",
+      "phonetic": "/neil/",
+      "meaning": "n.指甲,爪;钉 v.将…钉牢,钉住",
+      "similar": [
+        "fail",
+        "hail",
+        "pail",
+        "rail",
+        "sail",
+        "tail",
+        "entail",
+        "avail"
+      ],
+      "question": {
+        "wordId": "nail",
+        "stem": "选择 \"nail\" 的正确中文意思：",
+        "correct": "n.指甲,爪;钉 v.将…钉牢,钉住",
+        "options": [
+          "n.指甲,爪;钉 v.将…钉牢,钉住",
+          "v.失败,不及格;衰退,减弱",
+          "v.下雹;欢呼,欢迎 n.雹",
+          "n.桶, 提桶; 一桶的量"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根nail-源自原始日耳曼语*naglaz，本义为‘手指或脚趾末端的硬角质’（指甲），后引申为‘用于固定物体的金属钉’（钉子）。动词化后表示‘用钉子固定’（钉住），核心物理动作是‘尖锐物刺入并固定’。",
+        "similarWarning": "fail（失败） vs nail：f-开头表‘跌倒’动作，n-开头表‘尖刺’固定；hail（冰雹/欢呼） vs nail：h-表‘下落’动作；tail（尾巴） vs nail：t-表‘末端’延伸；entail（需要/牵涉） vs nail：en-前缀表‘使进入’，entail即‘使被钉住’引申为‘必然牵涉’。",
+        "extendedMeaning": "考研外刊中常作动词表‘精准命中/抓住’（nail the point），如《经济学人》‘The article nails the core issue.’（文章精准抓住了核心问题）。",
+        "examUsage": "真题考点：固定搭配‘hit the nail on the head’（说得中肯/一针见血），作为阅读理解中评价作者观点的题眼。例如2018年Text 3中‘The author hits the nail on the head when...’用于判断作者态度。"
+      }
+    },
+    {
+      "id": "naive",
+      "word": "naive",
+      "phonetic": "/nɑ:'i:v/",
+      "meaning": "a.天真的",
+      "similar": [
+        "native",
+        "cave",
+        "dive",
+        "five",
+        "live",
+        "nail",
+        "navy",
+        "nine"
+      ],
+      "question": {
+        "wordId": "naive",
+        "stem": "选择 \"naive\" 的正确中文意思：",
+        "correct": "a.天真的",
+        "options": [
+          "v./n.潜水,跳水,俯冲",
+          "a.本地的,本国的;天生的 n.本地人,本国人",
+          "a.天真的",
+          "n.洞,穴"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自法语 'naïve'，原义为 '自然的、天生的'，核心动作/画面是 '未经世事的原始状态'，词根与 'native（天生的）' 同源，强调未经后天修饰、不谙世事的单纯。",
+        "similarWarning": "native（本地的，天生的）：naive 少 't'，侧重天真；native 多 't'，强调出身或本土性。",
+        "extendedMeaning": "考研中常引申为 '幼稚的、缺乏经验的'，带有贬义，如 'a naive view'（幼稚的观点）；还可指 '轻信的'，如 'naive trust'（轻信）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "naked",
+      "word": "naked",
+      "phonetic": "/'neikid/",
+      "meaning": "a.裸体的,无遮敝的,无掩饰的",
+      "similar": [
+        "bake",
+        "fake",
+        "lake",
+        "rake",
+        "sake",
+        "snake",
+        "waken"
+      ],
+      "question": {
+        "wordId": "naked",
+        "stem": "选择 \"naked\" 的正确中文意思：",
+        "correct": "a.裸体的,无遮敝的,无掩饰的",
+        "options": [
+          "a.裸体的,无遮敝的,无掩饰的",
+          "n.假货，赝品 a.假的，冒充的 v.伪造；伪装",
+          "n.湖泊，湖水",
+          "v.烤,烘,焙;烧硬,焙干"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语 'nacod'，与古高地德语 'nackot' 同源，核心动作是 '剥离覆盖物'。词根 'nak-' 表 '裸露'，-ed 为形容词后缀。本义为 '没有衣服的'，引申为 '无遮盖的、无掩饰的'，强调暴露于外、不加隐藏的状态。",
+        "similarWarning": "形近词对比：\n- bake (v. 烘焙)：b 替换 n，词义无关。\n- cake (n. 蛋糕)：c 替换 n，词义无关。\n- fake (a. 假的)：f 替换 n，词义无关。\n- lake (n. 湖)：l 替换 n，词义无关。\n- make (v. 制作)：m 替换 n，词义无关。\n- name (n. 名字)：m 替换 k，词义无关。\n- need (v. 需要)：ne-结构相似，但词义和词源不同，naked 强调裸露，need 强调需求。\n- rake (n. 耙子)：r 替换 n，词义无关。\n注意：naked 与 'nake' (无实际意义) 无关，拼写差异易混淆。",
+        "extendedMeaning": "考研僻义：\n1. '赤裸裸的、不加掩饰的'（抽象义）：如 'naked truth'（赤裸裸的事实）。\n2. '无保护的、缺乏的'：如 'naked aggression'（赤裸裸的侵略），强调没有伪装或遮掩。",
+        "examUsage": "真题考点：\n1. 固定搭配 'naked eye'（肉眼）：如 'visible to the naked eye'（肉眼可见），常出现在科技类阅读中。\n2. 与 'bare' 辨析：naked 强调完全无遮盖，bare 强调部分裸露或光秃，考研中可能作为干扰项。"
+      }
+    },
+    {
+      "id": "namely",
+      "word": "namely",
+      "phonetic": "/'neimli/",
+      "meaning": "ad.即,也就是",
+      "similar": [
+        "camel",
+        "barely",
+        "lately",
+        "rarely",
+        "timely"
+      ],
+      "question": {
+        "wordId": "namely",
+        "stem": "选择 \"namely\" 的正确中文意思：",
+        "correct": "ad.即,也就是",
+        "options": [
+          "ad.最近,不久前",
+          "ad.赤裸裸地,无遮蔽地;仅仅,勉强,几乎没有",
+          "n.骆驼",
+          "ad.即,也就是"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自“name”（名字）+“-ly”（副词后缀），字面意为“用名字来说”，即“具体点名道姓地说明”，引申为“即、也就是”，用于对前文进行精确的同位解释或列举。",
+        "similarWarning": "barely（几乎不）与namely仅差字母“b”，但barely表否定程度；rarely（很少）与namely差字母“r”，表频率低；lately（最近）与namely差字母“l”，表时间近。注意区分：namely是解释性副词，barely/rarely/lately为程度/时间副词。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "nap",
+      "word": "nap",
+      "phonetic": "/næp/",
+      "meaning": "n.小睡,打盹",
+      "similar": [
+        "snap",
+        "cap",
+        "gap",
+        "lap",
+        "map",
+        "rap",
+        "tap"
+      ],
+      "question": {
+        "wordId": "nap",
+        "stem": "选择 \"nap\" 的正确中文意思：",
+        "correct": "n.小睡,打盹",
+        "options": [
+          "n.便帽,军帽;盖,罩,套 v.覆盖于…顶端",
+          "v.啪地移动；(使）突然断开，断开（成两截)",
+          "n.缺口;差距;空白;缺乏",
+          "n.小睡,打盹"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿打盹时头部下垂或轻微呼吸的声音。核心动作：短暂、轻度的睡眠状态。",
+        "similarWarning": "snap: 突然折断或拍照，拼写多s-；cap: 帽子或覆盖，首字母c-；gap: 缺口或间隔，首字母g-；lap: 膝盖或一圈，首字母l-；map: 地图，首字母m-；rap: 敲击或说唱，首字母r-；tap: 轻拍或水龙头，首字母t-。nap与形近词差异主要在首字母，词义无关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "napkin",
+      "word": "napkin",
+      "phonetic": "/'næpkin/",
+      "meaning": "n.餐巾,餐巾纸,<英>尿布",
+      "similar": [],
+      "question": {
+        "wordId": "napkin",
+        "stem": "选择 \"napkin\" 的正确中文意思：",
+        "correct": "n.餐巾,餐巾纸,<英>尿布",
+        "options": [
+          "v.欺骗,蒙蔽",
+          "n.誓言,誓约,诅咒",
+          "n.餐巾,餐巾纸,<英>尿布",
+          "n.缝,接缝"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自中古英语 nape（桌布）+ -kin（小后缀），字面即‘小桌布’，核心动作是‘铺在膝上或桌上用于擦拭的布片’，后引申为餐巾纸及尿布（功能相似）。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中可能以‘尿布’义出现，如‘disposable napkin’（一次性尿布），需结合语境判断。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "narrative",
+      "word": "narrative",
+      "phonetic": "/'nærətiv/",
+      "meaning": "a.叙述性的 n.叙述",
+      "similar": [
+        "creative",
+        "negative",
+        "attractive",
+        "imperative",
+        "indicative",
+        "initiative"
+      ],
+      "question": {
+        "wordId": "narrative",
+        "stem": "选择 \"narrative\" 的正确中文意思：",
+        "correct": "a.叙述性的 n.叙述",
+        "options": [
+          "a.有创造力的,创造性的",
+          "a.叙述性的 n.叙述",
+          "a.吸引人的，引人注意的；漂亮的，迷人的",
+          "a.否定的,消极的,阴性的n.负数;(摄影)底片"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'narrare'（叙述），源于 'gnarus'（知道的），词根 'gna-'（知道）与 'know' 同源。核心动作：将所知之事讲述出来，即叙述。",
+        "similarWarning": "narrative vs. creative: 'narr-' 讲事 vs. 'cre-' 创造；narrative vs. negative: 'narr-' 叙述 vs. 'neg-' 否定，'ive' 相同。",
+        "extendedMeaning": "在考研中常引申为“叙事方式、故事性”，如 'master narrative'（主流叙事），强调一种有情节、有立场的描述，而非简单事实陈述。",
+        "examUsage": "真题中常考搭配 'narrative structure'（叙事结构）或作为主语出现，如 'The narrative of progress'（进步叙事），注意与 'story' 区分：'narrative' 更强调组织方式与视角。"
+      }
+    },
+    {
+      "id": "narrow",
+      "word": "narrow",
+      "phonetic": "/'nærəu/",
+      "meaning": "a.狭窄的,狭的,狭隘的",
+      "similar": [
+        "arrow",
+        "borrow",
+        "carrot",
+        "sorrow"
+      ],
+      "question": {
+        "wordId": "narrow",
+        "stem": "选择 \"narrow\" 的正确中文意思：",
+        "correct": "a.狭窄的,狭的,狭隘的",
+        "options": [
+          "a.狭窄的,狭的,狭隘的",
+          "n.箭，矢，箭状物；箭头符号",
+          "vt.借，借入；(思想、文字等)采用，抄袭",
+          "n.胡萝卜"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根与古英语nearu相关，核心动作为“挤压变窄”，指空间或范围的限制。",
+        "similarWarning": "arrow（箭）: 字母a开头，无n；borrow（借）: 含b，意义不同；carrot（胡萝卜）: 含c，与narrow拼写差异明显；sorrow（悲伤）: 首字母s，与narrow仅尾音相似。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "nasty",
+      "word": "nasty",
+      "phonetic": "/'nɑ:stiˌ 'næs-/",
+      "meaning": "a.肮脏的,卑劣的,下流的;令人厌恶的",
+      "similar": [
+        "hasty",
+        "dynasty",
+        "cast",
+        "east",
+        "navy",
+        "nest",
+        "vast",
+        "haste"
+      ],
+      "question": {
+        "wordId": "nasty",
+        "stem": "选择 \"nasty\" 的正确中文意思：",
+        "correct": "a.肮脏的,卑劣的,下流的;令人厌恶的",
+        "options": [
+          "a.肮脏的,卑劣的,下流的;令人厌恶的",
+          "a.匆忙的,仓促的;草率的",
+          "v.投,扔,掷,抛；铸造；投票；n.演员表",
+          "n.王朝,朝代"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不明，可能与古法语nastre（意为“悲惨的、恶劣的”）有关，核心语义为“令人不悦、恶劣的”，引申为肮脏、卑劣、下流等负面评价。",
+        "similarWarning": "hasty（匆忙的）：h vs n，词义侧重速度；dynasty（王朝）：dyn-词根“力量”，与nasty无直接关联；cast（投掷）：c vs n，动作词；east（东方）：e vs n，方向词；easy（容易的）：e vs n，正面词；fast（快的）：f vs n，速度词；last（最后的）：l vs n，顺序词；navy（海军）：n vs n，但词根nav-“船”，词义不同。",
+        "extendedMeaning": "考研僻义：在真题中常引申为“棘手的、难对付的”（如a nasty problem），或“严重的”（如a nasty accident）。",
+        "examUsage": "真题考点：常与weather、smell、taste等搭配表“恶劣的”；短语turn nasty（翻脸、变得凶恶）是高分搭配。"
+      }
+    },
+    {
+      "id": "nation",
+      "word": "nation",
+      "phonetic": "/'neiʃən/",
+      "meaning": "n.民族,国家",
+      "similar": [
+        "notion",
+        "national",
+        "caution",
+        "latin",
+        "ratio",
+        "action",
+        "motion",
+        "native"
+      ],
+      "question": {
+        "wordId": "nation",
+        "stem": "选择 \"nation\" 的正确中文意思：",
+        "correct": "n.民族,国家",
+        "options": [
+          "a.民族的,国家的,国立的",
+          "n.概念,想法,意念,看法,观点",
+          "n.谨慎；注意(事项)，警告vt.劝…小心",
+          "n.民族,国家"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源于拉丁语“natio”（出生、种族），由“nasci”（出生）的过去分词词干加名词后缀“-ion”构成。核心动作是“出生”，引申为同出生地的人群，即民族；再由民族共同体引申为政治实体——国家。",
+        "similarWarning": "notion（n.概念、想法）：nation vs notion，前者是“民族/国家”，后者是“概念/观念”，拼写差一个字母“o”与“a”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    }
+  ]
+}

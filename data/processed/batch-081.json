@@ -1,0 +1,1776 @@
+{
+  "batchId": 81,
+  "words": [
+    {
+      "id": "tolerant",
+      "word": "tolerant",
+      "phonetic": "/'tɔlərənt/",
+      "meaning": "a.容忍的,宽容的；有耐药力的",
+      "similar": [
+        "tolerance",
+        "tolerate",
+        "talent",
+        "tenant",
+        "elegant",
+        "torrent",
+        "coherent",
+        "relevant"
+      ],
+      "question": {
+        "wordId": "tolerant",
+        "stem": "选择 \"tolerant\" 的正确中文意思：",
+        "correct": "a.容忍的,宽容的；有耐药力的",
+        "options": [
+          "n.宽容；容忍,忍受；耐药力；公差",
+          "n.才能,天资;人才",
+          "a.容忍的,宽容的；有耐药力的",
+          "vt.容忍,默许；对(药物、毒品等)有耐力"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 tolerare（忍受、承受）。词根 toler- = 承受，-ant 形容词后缀。核心动作：承受（压力/差异）而不反抗。",
+        "similarWarning": "talent（天赋，-ent 后缀）：toler-（承受）vs tal-（天平/称量）。tenant（租户，-ant 后缀）：toler-（承受）vs ten-（持有）。torrent（急流，-ent 后缀）：toler-（承受）vs torr-（干燥/烧灼）。",
+        "extendedMeaning": "在医学/药学语境中特指“有耐药力的”：tolerant to the drug（对该药物有耐药性）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tolerate",
+      "word": "tolerate",
+      "phonetic": "/'tɔləreit/",
+      "meaning": "vt.容忍,默许；对(药物、毒品等)有耐力",
+      "similar": [
+        "tolerance",
+        "operate",
+        "moderate",
+        "tolerant",
+        "celebrate",
+        "cooperate",
+        "elevate",
+        "delegate"
+      ],
+      "question": {
+        "wordId": "tolerate",
+        "stem": "选择 \"tolerate\" 的正确中文意思：",
+        "correct": "vt.容忍,默许；对(药物、毒品等)有耐力",
+        "options": [
+          "n.宽容；容忍,忍受；耐药力；公差",
+          "vt.容忍,默许；对(药物、毒品等)有耐力",
+          "v.操作,运转,开动,起作用,动手术",
+          "a.有节制的,中等的,适度的,温和的,稳健的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 tolerare (承受,忍耐), 词根 toler- (承受) 与 -ate (动词后缀). 核心物理动作为 '承受重量或压力而不倒下', 引申为心理或生理上 '忍耐、容忍'.",
+        "similarWarning": "tolerate vs. celebrate vs. elevate: tolerate 含 toler- (承受); celebrate 含 celebr- (庆祝); elevate 含 e- (向外) + lev- (举起), 即 '举起向外'.",
+        "extendedMeaning": "考研僻义: 对药物/毒品的'耐受性', 如 tolerate the drug (对药物有耐受性); 在技术语境中可指系统'容许'误差或变化.",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "toll",
+      "word": "toll",
+      "phonetic": "/təul/",
+      "meaning": "n.(道路、桥等的)通行费；牺牲；死伤人数",
+      "similar": [
+        "doll",
+        "poll",
+        "roll",
+        "till",
+        "stroll",
+        "jolly",
+        "stall",
+        "stool"
+      ],
+      "question": {
+        "wordId": "toll",
+        "stem": "选择 \"toll\" 的正确中文意思：",
+        "correct": "n.(道路、桥等的)通行费；牺牲；死伤人数",
+        "options": [
+          "n.(道路、桥等的)通行费；牺牲；死伤人数",
+          "n.玩偶,玩具娃娃",
+          "n.民意测验;(pl.)政治选举 v.获得…选票",
+          "v.滚动;使摇摆;卷,卷起 n.卷,卷形物;名单"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"词源与古英语\"toll\"相关，源自拉丁语\"telonium\"（收税处），核心动作是\"征收过路费\"。引申为\"代价、牺牲、死伤人数\"，如\"death toll\"（死亡人数），体现了一种无形的\"费用\"或\"损失\"。\",\n  \"similarWarning\": \"doll（玩偶）、poll（民意调查）、roll（滚动）、tall（高的）、tell（告诉）、till（直到）、tool（工具）、stroll（散步）。与\"toll\"拼写差异在于首字母或尾字母，词义无关联，注意区分。\",\n  \"extendedMeaning\": \"在考研中常考\"代价、损失\"的抽象义，如\"ta",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tomato",
+      "word": "tomato",
+      "phonetic": "/tə'mɑ:təu/",
+      "meaning": "n.西红柿",
+      "similar": [
+        "potato"
+      ],
+      "question": {
+        "wordId": "tomato",
+        "stem": "选择 \"tomato\" 的正确中文意思：",
+        "correct": "n.西红柿",
+        "options": [
+          "v.宣布,宣告,声明;断言,宣称",
+          "n.西红柿",
+          "n.读书,读物,(仪表等的)读数,阅读",
+          "n.马铃薯,土豆"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自西班牙语tomate，再追溯至纳瓦特尔语（阿兹特克语）tomatl，意为‘膨胀的果实’，因其饱满多汁的外形得名。词根无复杂演变，直接指代一种红色浆果。",
+        "similarWarning": "potato（马铃薯）：仅首字母p/t差异；tomato为红色多汁果实，potato为块茎，无亲缘关系。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tomb",
+      "word": "tomb",
+      "phonetic": "/tu:m/",
+      "meaning": "n.坟,冢",
+      "similar": [
+        "bomb",
+        "comb",
+        "thumb"
+      ],
+      "question": {
+        "wordId": "tomb",
+        "stem": "选择 \"tomb\" 的正确中文意思：",
+        "correct": "n.坟,冢",
+        "options": [
+          "n.梳子 v.梳(理)",
+          "n.炸弹 v.投弹于,轰炸",
+          "n.拇指 v.示意要求搭车；迅速翻阅",
+          "n.坟,冢"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根来自希腊语tymbos（坟墓），与拉丁语tumulus（坟冢）同源，核心物理动作为“隆起/堆土”，即用土石堆砌的埋葬标记。",
+        "similarWarning": "bomb（炸弹）：b-开头，与爆炸相关；comb（梳子）：c-开头，齿状物；thumb（拇指）：th-开头，与手相关。tomb以t-开头，核心义为“坟墓”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ton",
+      "word": "ton",
+      "phonetic": "/tʌnˌ tuŋ/",
+      "meaning": "n.吨;(pl.)大量,许多",
+      "similar": [
+        "tone",
+        "tan",
+        "ten",
+        "tin",
+        "toe",
+        "tow",
+        "toy",
+        "thorn"
+      ],
+      "question": {
+        "wordId": "ton",
+        "stem": "选择 \"ton\" 的正确中文意思：",
+        "correct": "n.吨;(pl.)大量,许多",
+        "options": [
+          "n.吨;(pl.)大量,许多",
+          "n.音调,音色;风气,气氛;腔调,语气;色调",
+          "n./a.(皮肤因日晒而成)棕褐色(的) vt.晒黑",
+          "num.十 pron./a.十(个，只...)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "直接源自中古英语 'tonne'，原指一种大桶的容量单位，后标准化为重量单位 '吨'。其核心物理动作为 '装满一桶'，引申为 '大量'。",
+        "similarWarning": "tone (n. 音调，语气) vs ton (n. 吨)：差一个字母 'e'，tone 与声音相关，ton 与重量相关。town (n. 城镇) vs ton：差一个字母 'w'，town 指地点。",
+        "extendedMeaning": "在考研外刊中，ton 常以复数形式 tons 出现，意为 '大量、许多'，如 'tons of information'（海量信息），或用于强调程度，如 'a ton of work'（大量工作）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tone",
+      "word": "tone",
+      "phonetic": "/təun/",
+      "meaning": "n.音调,音色;风气,气氛;腔调,语气;色调",
+      "similar": [
+        "one",
+        "toe",
+        "ton",
+        "none",
+        "tune",
+        "zone",
+        "throne",
+        "tongue"
+      ],
+      "question": {
+        "wordId": "tone",
+        "stem": "选择 \"tone\" 的正确中文意思：",
+        "correct": "n.音调,音色;风气,气氛;腔调,语气;色调",
+        "options": [
+          "n.音调,音色;风气,气氛;腔调,语气;色调",
+          "n.吨;(pl.)大量,许多",
+          "num.一 pron.一个(只)(表示代替可数的东西)",
+          "n.脚趾,足尖"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自希腊语『tonos』（拉紧、绳子、音调），核心动作为『拉紧』→ 弦乐器的弦拉紧程度决定音高，引申为『音调』；进而抽象为『语气、气氛、色调』（如社会氛围的松紧度）。",
+        "similarWarning": "tone vs tune: tone 强调『音质/语气』（如 voice tone 语气），tune 指『旋律/曲调』（如 sing a tune 唱曲）。tone vs ton: ton 是重量单位『吨』，无e。",
+        "extendedMeaning": "【考】『色调』（如 skin tone 肤色）、『风气』（如 set the tone for the meeting 为会议定基调）。",
+        "examUsage": "【真题】2015年阅读：『lower the tone of the conversation』（降低对话格调），tone 作『格调、品位』解，非字面音调。"
+      }
+    },
+    {
+      "id": "tongue",
+      "word": "tongue",
+      "phonetic": "/tʌŋ/",
+      "meaning": "n.舌;语言",
+      "similar": [
+        "tone",
+        "tangle"
+      ],
+      "question": {
+        "wordId": "tongue",
+        "stem": "选择 \"tongue\" 的正确中文意思：",
+        "correct": "n.舌;语言",
+        "options": [
+          "a.多云的,阴(天)的;混浊的,模糊的",
+          "n.纠缠；缠结；混乱 v.(使)缠绕；变乱",
+          "n.音调,音色;风气,气氛;腔调,语气;色调",
+          "n.舌;语言"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源：古英语tunge，源于原始日耳曼语*tungǭ，与拉丁语lingua（舌、语言）同源。核心物理动作：舌作为口腔内灵活肌肉器官，用于发声、品尝，由此引申为‘语言’（如mother tongue母语）。记忆点：舌是语言发声的物理基础，故tongue兼具‘舌’与‘语言’双重含义。",
+        "similarWarning": "tone（n. 音调、语气）：与tongue差字母‘ue’→‘e’，tone侧重声音的调子或态度，tongue侧重发音器官或语言；tangle（v./n. 纠缠、混乱）：与tongue差字母‘ue’→‘le’，tangle强调缠绕状态，tongue无此义。",
+        "extendedMeaning": "在考研阅读中，tongue常指‘语言’（尤指母语或方言），如‘native tongue’；或‘口才’‘说话方式’，如‘a sharp tongue’（尖刻的言辞）。",
+        "examUsage": "真题考点：固定搭配‘bite one's tongue’（忍住不说）、‘slip of the tongue’（口误）。例句：He had to bite his tongue to avoid arguing.（他不得不忍住不说以免争论。）"
+      }
+    },
+    {
+      "id": "tooth",
+      "word": "tooth",
+      "phonetic": "/tu:θ/",
+      "meaning": "n.(pl.teeth)牙齿；齿状物；",
+      "similar": [
+        "booth",
+        "smooth",
+        "boot",
+        "oath",
+        "root",
+        "cloth",
+        "forth",
+        "north"
+      ],
+      "question": {
+        "wordId": "tooth",
+        "stem": "选择 \"tooth\" 的正确中文意思：",
+        "correct": "n.(pl.teeth)牙齿；齿状物；",
+        "options": [
+          "n.靴；(汽车后部的)行李箱；[the-]解雇",
+          "n.电话亭,货摊",
+          "n.(pl.teeth)牙齿；齿状物；",
+          "a.光滑的;顺利的;柔和的 v.(over)掩饰"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*tanthuz，与拉丁语dens（牙）同源。核心物理动作是“咬/咀嚼”，牙齿是人体最坚硬的用于切割和研磨食物的器官。",
+        "similarWarning": "booth（n. 货摊；岗亭）与tooth仅首字母b/t不同；smooth（adj. 平滑的）比tooth多一个m和结尾th发音不同；root（n. 根）与tooth在拼写和词义上无直接关联，但常混淆拼写。",
+        "extendedMeaning": "在考研外刊中，tooth可喻指“（法律、协议等的）强制执行力或约束力”，如“the law has no teeth”（该法律无实际效力）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "topic",
+      "word": "topic",
+      "phonetic": "/'tɔpik/",
+      "meaning": "n.话题,主题,题目",
+      "similar": [
+        "tropic",
+        "toxic",
+        "comic",
+        "logic"
+      ],
+      "question": {
+        "wordId": "topic",
+        "stem": "选择 \"topic\" 的正确中文意思：",
+        "correct": "n.话题,主题,题目",
+        "options": [
+          "n.话题,主题,题目",
+          "a.喜剧的，滑稽的n.连环画杂志；喜剧演员",
+          "n.回归线；[the T-s]热带地区",
+          "a.有毒的；中毒的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'topos'（地方，场所），后引申为'谈论的题目'，即'话题'。核心动作：将讨论聚焦于某个特定'地点'或'领域'。",
+        "similarWarning": "tropic（热带） vs topic：tropic含r表示回归线区域；topic无r，指谈论的主题。toxic（有毒的） vs topic：toxic含x指毒物；topic指话题。top（顶端） vs topic：top是简单词，topic多一个-ic后缀，指话题。comic（喜剧的） vs topic：comic含c指喜剧；topic无c。logic（逻辑） vs topic：logic含l指逻辑学；topic指话题。",
+        "extendedMeaning": "在考研中，topic常引申为'（文章、演讲的）中心思想'或'（讨论的）议题'，不限于日常对话的话题。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "torch",
+      "word": "torch",
+      "phonetic": "/tɔ:tʃ/",
+      "meaning": "n.手电筒;火炬,火把",
+      "similar": [
+        "porch",
+        "touch",
+        "arch",
+        "coach",
+        "couch",
+        "forth",
+        "march",
+        "march"
+      ],
+      "question": {
+        "wordId": "torch",
+        "stem": "选择 \"torch\" 的正确中文意思：",
+        "correct": "n.手电筒;火炬,火把",
+        "options": [
+          "v.触,碰,摸;感动;涉及 n.触动,碰到;少许",
+          "n.门廊,入口处",
+          "n.手电筒;火炬,火把",
+          "n.拱门，桥拱洞 v.拱起，(使)变成弓形"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根 tort-（扭曲）→ torch（火炬）原指扭曲的麻绳或布条浸油后点燃的火把，核心动作是“扭曲”成束以燃烧。",
+        "similarWarning": "porch（门廊） vs torch：porch 以 p- 开头，指建筑入口；torch 以 t- 开头，指火把。touch（触摸） vs torch：touch 以 -ouch 结尾，意为接触；torch 以 -orch 结尾，意为火炬。arch（拱门） vs torch：arch 以 a- 开头，指弧形结构；torch 指火把。",
+        "extendedMeaning": "考研中 torch 常引申为“知识/文明之火”或“象征性的引导物”，如“the torch of freedom”或“carry the torch”（传承使命）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "torment",
+      "word": "torment",
+      "phonetic": "/tɔ:'ment/",
+      "meaning": "n.折磨；令人痛苦的东西(人)vt.折磨；纠缠",
+      "similar": [
+        "torrent",
+        "orient",
+        "comment",
+        "garment",
+        "document",
+        "monument",
+        "movement",
+        "ornament"
+      ],
+      "question": {
+        "wordId": "torment",
+        "stem": "选择 \"torment\" 的正确中文意思：",
+        "correct": "n.折磨；令人痛苦的东西(人)vt.折磨；纠缠",
+        "options": [
+          "n.激流，洪流；爆发，(话语等的)连发",
+          "n.折磨；令人痛苦的东西(人)vt.折磨；纠缠",
+          "n.东方,亚洲 v.使朝东,为…定位,使适应",
+          "n.注释,评论,意见 v.(on)注释,评论"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语tormentum（扭绞器，刑具），词根torqu-（扭，转）→ 古代刑具通过扭曲肢体施刑 → 引申为精神或肉体上的剧烈痛苦、折磨。",
+        "similarWarning": "torment vs torrent（激流）：torment含-ment（名词后缀），核心在tor（扭）；torrent含-ent（形容词/名词后缀），核心是torr（干热）→ 水流湍急如干裂？实则源自动词torrere（干燥）→ 引申为“奔流”。对比记忆：被torment（折磨）的人如同落入torrent（激流）中挣扎。",
+        "extendedMeaning": "",
+        "examUsage": "真题中常作及物动词，后接with/by表示“被…折磨”：be tormented by doubts（被疑虑折磨）；名词搭配：the torments of jealousy（嫉妒的折磨）。干扰项常与torture（酷刑）、agony（极度痛苦）辨析，torment侧重持续的心理折磨，torture强调肉体酷刑。"
+      }
+    },
+    {
+      "id": "torrent",
+      "word": "torrent",
+      "phonetic": "/'tɔrənt/",
+      "meaning": "n.激流，洪流；爆发，(话语等的)连发",
+      "similar": [
+        "torment",
+        "orient",
+        "correct",
+        "current",
+        "coherent",
+        "tolerant"
+      ],
+      "question": {
+        "wordId": "torrent",
+        "stem": "选择 \"torrent\" 的正确中文意思：",
+        "correct": "n.激流，洪流；爆发，(话语等的)连发",
+        "options": [
+          "n.折磨；令人痛苦的东西(人)vt.折磨；纠缠",
+          "n.激流，洪流；爆发，(话语等的)连发",
+          "a.正确的,恰当的,端正的 v.改正,纠正,矫正",
+          "n.东方,亚洲 v.使朝东,为…定位,使适应"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'torrens'（沸腾的、湍急的），原指 '沸腾的水流'，词根 'torr-' 表示 '热、干'（如 torrid），引申为 '激流' 或 '洪流'，强调急速、猛烈、不可阻挡的流动状态。",
+        "similarWarning": "torment（n./v.折磨）: 'torrent' 有 'rrent'（流），'torment' 有 'ment'（名词后缀），含义不同。",
+        "extendedMeaning": "（话语、感情等的）爆发，连发：a torrent of abuse（连珠炮般的辱骂），a torrent of tears（泪如雨下）。",
+        "examUsage": "真题中常与 'a torrent of' 搭配，表示大量、连续不断的事物，如 'a torrent of information'（海量信息），注意与 'current'（水流/电流）区分。"
+      }
+    },
+    {
+      "id": "torture",
+      "word": "torture",
+      "phonetic": "/'tɔ:tʃə/",
+      "meaning": "v.拷问,拷打;折磨,磨难 n.拷问;折磨,痛苦",
+      "similar": [
+        "fortune",
+        "nurture",
+        "posture",
+        "texture",
+        "moisture"
+      ],
+      "question": {
+        "wordId": "torture",
+        "stem": "选择 \"torture\" 的正确中文意思：",
+        "correct": "v.拷问,拷打;折磨,磨难 n.拷问;折磨,痛苦",
+        "options": [
+          "n.姿势,姿态,心态,态度 v.作出某种姿势",
+          "n.运气;命运;财产;财富",
+          "n./v.养育,教育,教养 n.营养品v.给与营养物",
+          "v.拷问,拷打;折磨,磨难 n.拷问;折磨,痛苦"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根tort-意为‘扭曲、拧转’，后缀-ure表动作或结果。核心物理动作是‘用力扭曲身体或物体’，引申为通过物理扭曲造成痛苦，即‘拷打、折磨’。",
+        "similarWarning": "fortune (fortun- 运气) vs torture (tort- 扭曲)：前者源自命运女神，后者源自身体扭曲；nurture (nurt- 滋养) vs torture：前者是营养生长，后者是暴力摧残；posture (pos- 放置) vs torture：前者是身体姿态，后者是强迫扭曲；texture (text- 编织) vs torture：前者是织物纹理，后者是施虐动作；moisture (moist- 潮湿) vs torture：前者是湿度，后者是痛苦。",
+        "extendedMeaning": "考研中常考‘精神折磨、煎熬’的抽象用法，如‘psychological torture’（心理折磨）或‘the torture of waiting’（等待的煎熬），而非仅指物理拷打。",
+        "examUsage": "真题考点：搭配‘torture oneself over/about sth.’（为某事自责、纠结），如‘He tortured himself over the missed opportunity.’ 另见‘torture sb. into doing sth.’（迫使某人做某事），在阅读理解中作为推断题题眼出现。"
+      }
+    },
+    {
+      "id": "toss",
+      "word": "toss",
+      "phonetic": "/tɔs/",
+      "meaning": "vt.向上掷/扔；摇摆，颠簸 n.投，扔；摇动",
+      "similar": [
+        "boss",
+        "loss",
+        "moss",
+        "gross",
+        "toast"
+      ],
+      "question": {
+        "wordId": "toss",
+        "stem": "选择 \"toss\" 的正确中文意思：",
+        "correct": "vt.向上掷/扔；摇摆，颠簸 n.投，扔；摇动",
+        "options": [
+          "vt.向上掷/扔；摇摆，颠簸 n.投，扔；摇动",
+          "n.老板，上司 vt.指挥，控制，发号施令",
+          "n.丧失，遗失；损失，损耗，亏损；失败",
+          "n.苔,藓,地衣"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，但核心物理动作是“向上或向外抛掷”，引申为“使物体在空中快速移动”，进而衍生出“摇摆、颠簸”的含义，如船在浪中上下晃动。",
+        "similarWarning": "boss（老板）、loss（损失）、moss（苔藓）、cross（穿过/十字架）、gross（总的/恶心的）、those（那些）、toast（烤面包/祝酒）。核心差异：toss 以“t”开头，强调抛掷动作；toast 多了一个“a”，指烤或敬酒。",
+        "extendedMeaning": "考研中常考“toss and turn”（辗转反侧），表示因焦虑或不适而无法入睡，非字面抛掷。",
+        "examUsage": "真题考点：toss 作为“掷硬币”决策（toss a coin）在完形或阅读中可能考察固定搭配，如“toss up”（掷硬币决定）。"
+      }
+    },
+    {
+      "id": "touch",
+      "word": "touch",
+      "phonetic": "/tʌtʃ/",
+      "meaning": "v.触,碰,摸;感动;涉及 n.触动,碰到;少许",
+      "similar": [
+        "couch",
+        "torch",
+        "tough",
+        "though",
+        "tour",
+        "tuck",
+        "coach",
+        "cough"
+      ],
+      "question": {
+        "wordId": "touch",
+        "stem": "选择 \"touch\" 的正确中文意思：",
+        "correct": "v.触,碰,摸;感动;涉及 n.触动,碰到;少许",
+        "options": [
+          "v.触,碰,摸;感动;涉及 n.触动,碰到;少许",
+          "n.长沙发；(病人躺的)长榻vt.表达",
+          "n.手电筒;火炬,火把",
+          "a.坚韧的,棘手的;强健的,吃苦耐劳的;粗暴的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自法语‘touchier’，拟声词根模拟轻击声；核心物理动作为‘手指接触表面’，引申为情感‘触动’（心灵接触）和逻辑‘涉及’（话题接触）。",
+        "similarWarning": "couch（沙发/表达） vs touch（触摸）：c-开头暗示‘躺卧’；tough（坚韧） vs touch（触摸）：-gh结尾强调‘硬’；torch（火炬） vs touch（触摸）：-ch前多‘r’表‘火把’。",
+        "extendedMeaning": "考研僻义：n. 触感/手感（如‘a silky touch’）；v. 轻触（如‘touch the brakes’微刹车）；n. 少许（如‘a touch of irony’）。",
+        "examUsage": "真题考点：固定短语‘touch on’（提及/简要涉及），完形中常考与‘dwell on’（详述）的语义对立；‘keep in touch’（保持联系）常见于阅读理解的人脉话题。"
+      }
+    },
+    {
+      "id": "tough",
+      "word": "tough",
+      "phonetic": "/tʌf/",
+      "meaning": "a.坚韧的,棘手的;强健的,吃苦耐劳的;粗暴的",
+      "similar": [
+        "though",
+        "cough",
+        "rough",
+        "touch",
+        "plough",
+        "tug",
+        "tour",
+        "couch"
+      ],
+      "question": {
+        "wordId": "tough",
+        "stem": "选择 \"tough\" 的正确中文意思：",
+        "correct": "a.坚韧的,棘手的;强健的,吃苦耐劳的;粗暴的",
+        "options": [
+          "a.坚韧的,棘手的;强健的,吃苦耐劳的;粗暴的",
+          "a.粗糙的;粗略的,大致的;粗野的,粗暴的",
+          "v./n.咳嗽",
+          "ad.可是，然而，不过 conj.尽管，虽然"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语toh，原始义为‘坚韧、不易断裂’，引申为‘强健’（身体坚韧）和‘棘手’（问题难以处理）。核心动作画面：拉扯不断，体现物理或抽象层面的‘抗性’与‘难度’。",
+        "similarWarning": "tough（坚韧/棘手）vs rough（粗糙/粗暴）: tough侧重内在韧性，rough强调表面不平或行为粗鲁。对比：tough guy（硬汉），rough surface（粗糙表面）。",
+        "extendedMeaning": "在考研中常考‘棘手的、困难的’（a tough problem）以及‘严厉的、强硬的’（take a tough stance on...），非字面‘坚韧’义。",
+        "examUsage": "高频搭配：tough competition（激烈竞争），tough decision（艰难决定）。真题例句：It is a tough task to balance economic growth and environmental protection.（平衡经济增长与环境保护是一项艰巨任务。）"
+      }
+    },
+    {
+      "id": "tour",
+      "word": "tour",
+      "phonetic": "/tuə/",
+      "meaning": "n.旅游，旅行；巡回演出/比赛 v.旅游",
+      "similar": [
+        "four",
+        "pour",
+        "sour",
+        "tumour",
+        "court",
+        "flour",
+        "mourn",
+        "touch"
+      ],
+      "question": {
+        "wordId": "tour",
+        "stem": "选择 \"tour\" 的正确中文意思：",
+        "correct": "n.旅游，旅行；巡回演出/比赛 v.旅游",
+        "options": [
+          "a.酸的;发酸的;酸痛的;脾气坏的;刻薄的",
+          "v.灌注, 倾泻, 涌入, 流, 倾盆大雨",
+          "num.四 pron./a.四(个，只...)",
+          "n.旅游，旅行；巡回演出/比赛 v.旅游"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"tornus\"（车床，旋转工具），经古法语\"tour\"（旋转，一圈）进入英语。核心物理动作是“绕圈旋转”，引申为“按固定路线绕一圈”，即旅游或巡回演出/比赛。\",\n  \"similarWarning\": \"tour vs. pour vs. sour：tour（旅游）含字母t（trip）；pour（倾倒）含p（pour out）；sour（酸的）含s（sour taste）。\",\n  \"extendedMeaning\": \"在考研外刊中，\"tour\"常引申为“（疾病、暴力等的）短暂爆发”或“（专业人士的）巡回访问”，如\"a tour of vio",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tourist",
+      "word": "tourist",
+      "phonetic": "/'tuərist/",
+      "meaning": "n.旅游者，观光客；巡回比赛的运动员",
+      "similar": [
+        "nourish",
+        "flourish"
+      ],
+      "question": {
+        "wordId": "tourist",
+        "stem": "选择 \"tourist\" 的正确中文意思：",
+        "correct": "n.旅游者，观光客；巡回比赛的运动员",
+        "options": [
+          "n./v.繁荣,茂盛,兴旺",
+          "n./v.投机,冒险;赌博",
+          "v.提供养分,养育,怀有(希望,仇恨等)",
+          "n.旅游者，观光客；巡回比赛的运动员"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "tour（旅行）+ -ist（表示人的后缀）→ 旅行的人 → 旅游者，观光客。",
+        "similarWarning": "tourist vs nourish（滋养）：tourist 含 tour（旅行），nourish 含 nour（喂养）；tourist vs flourish（繁荣）：tourist 含 tour，flourish 含 flour（面粉/花）。核心差异在词根。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tow",
+      "word": "tow",
+      "phonetic": "/təu/",
+      "meaning": "vt.(用绳、链等)拖(车、船等) n.拖,牵引",
+      "similar": [
+        "bow",
+        "cow",
+        "how",
+        "row",
+        "sow",
+        "toe",
+        "ton",
+        "toy"
+      ],
+      "question": {
+        "wordId": "tow",
+        "stem": "选择 \"tow\" 的正确中文意思：",
+        "correct": "vt.(用绳、链等)拖(车、船等) n.拖,牵引",
+        "options": [
+          "ad.1.(表示方法、手段、状态)怎样；如何",
+          "v./n.鞠躬,点头 n.弓(形);蝴蝶结",
+          "n.母牛,奶牛",
+          "vt.(用绳、链等)拖(车、船等) n.拖,牵引"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为古英语togian，源自原始日耳曼语*teuhan，意为‘拉、拖’。核心物理动作是用绳索等施加拉力，使物体沿表面移动，与‘推(push)’相对。",
+        "similarWarning": "town(城镇): tow+wn，拖与城镇无关联；bow(弓/鞠躬): b+ow，词首字母不同；cow(母牛): c+ow，词首字母不同；low(低的): l+ow，词首字母不同。",
+        "extendedMeaning": "无特殊僻义。",
+        "examUsage": "无特殊考点。"
+      }
+    },
+    {
+      "id": "toward",
+      "word": "toward",
+      "phonetic": "/tɔ:d/",
+      "meaning": "prep.(towards)朝，向；将近；对于；为了",
+      "similar": [
+        "coward",
+        "steward",
+        "ward",
+        "award",
+        "tower",
+        "inward",
+        "reward",
+        "upward"
+      ],
+      "question": {
+        "wordId": "toward",
+        "stem": "选择 \"toward\" 的正确中文意思：",
+        "correct": "prep.(towards)朝，向；将近；对于；为了",
+        "options": [
+          "n.乘务员，服务员；看管人；膳食管理员",
+          "n.懦夫,胆怯者",
+          "prep.(towards)朝，向；将近；对于；为了",
+          "n.病房;行政区;监护;被监护人 vt.挡住"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "to-（方向，朝向） + -ward（向……方向） → 朝某方向移动。核心物理动作：指向或接近目标。",
+        "similarWarning": "coward（cow-牛+ -ard贬义后缀，胆小如牛的人）、forward（fore-前+ -ward，向前）、steward（stew-管理+ -ard，管家）",
+        "extendedMeaning": "考研中常引申为‘为了达到某目的’（如work toward a goal）或‘接近某个状态’（如toward evening）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "towel",
+      "word": "towel",
+      "phonetic": "/'tauəl/",
+      "meaning": "n.毛巾 vt.用毛巾擦或擦干",
+      "similar": [
+        "bowel",
+        "tower",
+        "vowel",
+        "owe",
+        "owl",
+        "toe",
+        "tow",
+        "bowl"
+      ],
+      "question": {
+        "wordId": "towel",
+        "stem": "选择 \"towel\" 的正确中文意思：",
+        "correct": "n.毛巾 vt.用毛巾擦或擦干",
+        "options": [
+          "n.元音,元音字母",
+          "n.毛巾 vt.用毛巾擦或擦干",
+          "n.肠；［pl.］内部，深处",
+          "n.塔 v.高耸"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古法语'toaille'，本义为‘擦洗用的布’。词根无复杂演变，核心物理动作是‘用布擦拭’，直接对应‘毛巾’及动词‘用毛巾擦干’。",
+        "similarWarning": "towel vs tower：towel含‘-el’（名词后缀表物），tower含‘-er’（表人或物，但此处指塔）。拼写差异在‘-el/-er’，词义迥异：毛巾vs塔。",
+        "extendedMeaning": "考研中无显著僻义，动词‘用毛巾擦干’已属实用引申。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tower",
+      "word": "tower",
+      "phonetic": "/'tauə/",
+      "meaning": "n.塔 v.高耸",
+      "similar": [
+        "lower",
+        "towel",
+        "powder",
+        "shower",
+        "toward",
+        "owe",
+        "toe",
+        "tow"
+      ],
+      "question": {
+        "wordId": "tower",
+        "stem": "选择 \"tower\" 的正确中文意思：",
+        "correct": "n.塔 v.高耸",
+        "options": [
+          "a.较低的,下级的,下游的 v.降下,放低",
+          "n.粉末,药粉;火药,炸药",
+          "n.塔 v.高耸",
+          "n.毛巾 vt.用毛巾擦或擦干"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自中古英语‘tour’，最终可追溯至拉丁语‘turris’。核心物理动作为‘垂直向上延伸’，名词指人造的高耸结构（塔），动词则直接描述其形态特征（高耸）。",
+        "similarWarning": "towel（毛巾）：结尾‘el’与‘er’差异，词义完全不同。flower（花）：开头‘fl’与‘t’差异，且‘ow’发音不同。shower（阵雨/淋浴）：前缀‘sh’与‘t’差异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "toxic",
+      "word": "toxic",
+      "phonetic": "/'tɔksik/",
+      "meaning": "a.有毒的；中毒的",
+      "similar": [
+        "topic",
+        "tropic",
+        "taxi",
+        "comic",
+        "logic"
+      ],
+      "question": {
+        "wordId": "toxic",
+        "stem": "选择 \"toxic\" 的正确中文意思：",
+        "correct": "a.有毒的；中毒的",
+        "options": [
+          "n.出租汽车v.[指飞机](使)滑行",
+          "a.有毒的；中毒的",
+          "n.话题,主题,题目",
+          "n.回归线；[the T-s]热带地区"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自希腊语toxikon（毒箭），源自toxon（弓）。核心物理动作：箭矢之毒→引申为任何有毒或有害的物质。",
+        "similarWarning": "topic（主题）、tropic（热带的）、taxi（出租车）、comic（喜剧的）、logic（逻辑）。注意toxic中的x与c的差异。",
+        "extendedMeaning": "在考研语境中常引申为‘极其有害的’或‘不良的’，如toxic relationship（有害的关系）、toxic culture（不良文化）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "toy",
+      "word": "toy",
+      "phonetic": "/tɔɪ/",
+      "meaning": "n.玩具 vi.(with)漫不经心地考虑；摆弄",
+      "similar": [
+        "toe",
+        "ton",
+        "tow",
+        "try"
+      ],
+      "question": {
+        "wordId": "toy",
+        "stem": "选择 \"toy\" 的正确中文意思：",
+        "correct": "n.玩具 vi.(with)漫不经心地考虑；摆弄",
+        "options": [
+          "vt.(用绳、链等)拖(车、船等) n.拖,牵引",
+          "n.玩具 vi.(with)漫不经心地考虑；摆弄",
+          "n.脚趾,足尖",
+          "n.吨;(pl.)大量,许多"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能与古英语‘tōl’（工具）有关，后转为‘玩具’。核心动作：摆弄、玩弄，强调非严肃、随意地操作或思考。",
+        "similarWarning": "toy vs. joy (欢乐): toy含‘t’（工具感），joy含‘j’（愉悦感）；toy vs. toe (脚趾): toy以‘y’结尾，toe以‘e’结尾，拼写差异明显。",
+        "extendedMeaning": "考研僻义：vi. 漫不经心地考虑（toy with an idea）；摆弄（toy with a pen），强调不认真、试探性。",
+        "examUsage": "真题考点：toy with 作为固定搭配，常出现在阅读中表示‘不严肃对待’或‘玩弄’，如‘toy with the notion of quitting’（随意考虑辞职）。"
+      }
+    },
+    {
+      "id": "trace",
+      "word": "trace",
+      "phonetic": "/treis/",
+      "meaning": "n.痕迹,踪迹;极少量 v.描绘;跟踪,追踪",
+      "similar": [
+        "brace",
+        "grace",
+        "track",
+        "lace",
+        "pace",
+        "rack",
+        "rage",
+        "rake"
+      ],
+      "question": {
+        "wordId": "trace",
+        "stem": "选择 \"trace\" 的正确中文意思：",
+        "correct": "n.痕迹,踪迹;极少量 v.描绘;跟踪,追踪",
+        "options": [
+          "n.痕迹,踪迹;极少量 v.描绘;跟踪,追踪",
+          "v.使防备;支撑;使(手,足,肩等)绷紧 n.托架",
+          "n.优美,文雅;恩惠,恩泽;宽限,缓刑;感恩祷告",
+          "n.跑道,小路;轨迹,轮迹 v.跟踪,追踪"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根tract-（拉，拖）的变体，指物体被拖过后留下的“痕迹”；引申为“追踪”（跟随痕迹）和“描绘”（勾勒线条）。",
+        "similarWarning": "track（轨道，追踪）：更强调路径/轨迹；trace侧重细微残留物或量。",
+        "extendedMeaning": "①极少量（a trace of）：常考抽象微量，如a trace of irony（一丝讽刺）；②描绘（trace the outline）：指精确描摹轮廓，非随意画。",
+        "examUsage": "真题考点：trace back to（追溯到），常作因果逻辑题眼；without a trace（无影无踪），用于细节理解。"
+      }
+    },
+    {
+      "id": "track",
+      "word": "track",
+      "phonetic": "/træk/",
+      "meaning": "n.跑道,小路;轨迹,轮迹 v.跟踪,追踪",
+      "similar": [
+        "rack",
+        "crack",
+        "trace",
+        "trick",
+        "truck",
+        "attack",
+        "lack",
+        "pack"
+      ],
+      "question": {
+        "wordId": "track",
+        "stem": "选择 \"track\" 的正确中文意思：",
+        "correct": "n.跑道,小路;轨迹,轮迹 v.跟踪,追踪",
+        "options": [
+          "n.痕迹,踪迹;极少量 v.描绘;跟踪,追踪",
+          "n.跑道,小路;轨迹,轮迹 v.跟踪,追踪",
+          "n.裂纹,缝隙;破裂声 v.(使)破裂,砸开",
+          "n.挂物架,搁物架 v.使痛苦,折磨"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源来自古法语‘trac’（足迹、痕迹），核心物理动作为‘留下或跟随地面上的压痕’。词根‘trac-’表示‘拖、拉’（与‘tract’同源），引申为‘在表面划出痕迹’或‘沿痕迹移动’：n.跑道（被踩出的路径）→轨迹（物体留下的线）；v.跟踪（沿痕迹追）→追踪（抽象地跟随线索）。",
+        "similarWarning": "track vs trace: track强调‘地面上的连续痕迹或路径’（如跑道、铁轨），trace侧重‘微小的遗留物或记号’（如血迹、指纹）；track vs crack: crack是‘裂缝’（c-表示‘分开’），track是‘轨迹’（t-表示‘拉’）；track vs trick: trick是‘诡计’（欺骗性动作），track是‘路径’（物理痕迹）。",
+        "extendedMeaning": "①（v.）追踪（进度、发展）：The study tracks the children's cognitive development over 10 years. ②（n.）音轨、轨道（电子/音频路径）：多曲目专辑称‘multi-track album’。③（n.）生活轨迹/人生路径：替换‘path’或‘route’，如‘off the beaten track’（人迹罕至的，另辟蹊径的）。",
+        "examUsage": "��固定搭配：keep track of（记录/跟得上…的进展）与lose track of（失去线索/忘记）是完形高频选项。②真题干扰：2016年阅读I中‘track political events’译为‘追踪政治事件’，选项常混淆‘trace’（追溯来源）与‘track’（持续关注）。③经典搭配：on the right/wrong track（思路对/错），如‘The research is on the right track.’"
+      }
+    },
+    {
+      "id": "tractor",
+      "word": "tractor",
+      "phonetic": "/'træktə/",
+      "meaning": "n.拖拉机,牵引车",
+      "similar": [
+        "traitor",
+        "actor",
+        "factor",
+        "director",
+        "fraction",
+        "fracture"
+      ],
+      "question": {
+        "wordId": "tractor",
+        "stem": "选择 \"tractor\" 的正确中文意思：",
+        "correct": "n.拖拉机,牵引车",
+        "options": [
+          "n.因素,要素",
+          "n.男演员；演员，行动者",
+          "n.叛徒,卖国贼",
+          "n.拖拉机,牵引车"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 tract-（拉，拖） + 名词后缀 -or（表示物或人） → 用来拉/拖的东西 → 拖拉机、牵引车。核心物理动作是“拉拽”。",
+        "similarWarning": "traitor（叛徒，来自 trad- 交付 → 交出同伙）；actor（演员，act-行动）；factor（因素，fact-做）；director（导演，direct-引导）；fraction（分数/碎片，fract-打破）；fracture（骨折/断裂，fract-打破）。差异点：tractor 核心是 tract-（拉），注意与 tract- 同源词区分。",
+        "extendedMeaning": "",
+        "examUsage": "考研英语二真题中常以 tractor 作为农业或机械类阅读背景词出现，无特殊考点，故省略。"
+      }
+    },
+    {
+      "id": "trademark",
+      "word": "trademark",
+      "phonetic": "/'treidmɑ:k/",
+      "meaning": "n.商标；特征 vt.注册的…商标",
+      "similar": [],
+      "question": {
+        "wordId": "trademark",
+        "stem": "选择 \"trademark\" 的正确中文意思：",
+        "correct": "n.商标；特征 vt.注册的…商标",
+        "options": [
+          "ad.不幸地",
+          "n.皇帝",
+          "n./a.摄氏温度计(的);百分度(的)",
+          "n.商标；特征 vt.注册的…商标"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "复合词：trade（贸易）+ mark（标记）。字面意为“贸易中的标记”，指用于区分商品或服务来源的独特符号，后引申为“特征”。",
+        "similarWarning": "",
+        "extendedMeaning": "（特征、标志）在考研外刊中常引申为某人或某物的显著特征或独特风格，如“the trademark of his writing”（他写作的特征）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tradition",
+      "word": "tradition",
+      "phonetic": "/trə'diʃən/",
+      "meaning": "n.传统； 惯例； 传说",
+      "similar": [
+        "transition",
+        "edition",
+        "traitor",
+        "tuition",
+        "addition",
+        "fraction",
+        "coalition",
+        "condition"
+      ],
+      "question": {
+        "wordId": "tradition",
+        "stem": "选择 \"tradition\" 的正确中文意思：",
+        "correct": "n.传统； 惯例； 传说",
+        "options": [
+          "n.叛徒,卖国贼",
+          "n.传统； 惯例； 传说",
+          "n.转变，变迁，过渡(时期)",
+          "n.版,版本,版次"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'traditio'（传递、交付），由 trans-（跨越） + dit-（给予）构成，核心动作是‘跨越时间传递下去’→ 传统、惯例。",
+        "similarWarning": "tradition vs transition：tradition 含 'dit'（给予），侧重‘传递’；transition 含 'sit'（位置），侧重‘过渡’、转变。",
+        "extendedMeaning": "在考研中常引申为‘惯例、常规做法’，如‘by tradition’指‘按照传统’，而非仅指文化习俗。",
+        "examUsage": "高频搭配：‘break with tradition’（打破传统）常作为阅读题眼；‘tradition holds that...’（传统认为…）在写作中可替换‘it is said that’以提升词汇层次。"
+      }
+    },
+    {
+      "id": "traffic",
+      "word": "traffic",
+      "phonetic": "/'træfik/",
+      "meaning": "n.交通,交通量",
+      "similar": [
+        "tragic",
+        "terrific"
+      ],
+      "question": {
+        "wordId": "traffic",
+        "stem": "选择 \"traffic\" 的正确中文意思：",
+        "correct": "n.交通,交通量",
+        "options": [
+          "a.悲剧的,悲惨的",
+          "n.交通,交通量",
+          "ad.终于,最后",
+          "a.极好的,非常的,极度的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自意大利语traffico，由tra-（横穿，源自拉丁语trans-）与ficare（做，制造，源自拉丁语facere）组成。核心动作描绘商品或人在某路径上“来回穿梭、交易、做买卖”的画面，后引申为道路上车辆/行人的流动，即交通。",
+        "similarWarning": "tragic（adj.悲惨的，悲剧的）：traffic vs tragic，差异在ffi/gi，核心区别在于ffi表来回做，gi表哀嚎动作。terrific（adj.极好的，可怕的）：traffic vs terrific，差异在ffi/rrific，terr-表害怕，故terrific本义“引起恐惧的”。",
+        "extendedMeaning": "（在考研中traffic常以基本义“交通”出现，无显著高频僻义，故留空。）",
+        "examUsage": "（traffic作为基础词，考研中通常不设置复杂考点，故留空。）"
+      }
+    },
+    {
+      "id": "tragedy",
+      "word": "tragedy",
+      "phonetic": "/'trædʒidi/",
+      "meaning": "n.悲剧;惨事,灾难",
+      "similar": [
+        "strategy"
+      ],
+      "question": {
+        "wordId": "tragedy",
+        "stem": "选择 \"tragedy\" 的正确中文意思：",
+        "correct": "n.悲剧;惨事,灾难",
+        "options": [
+          "n.悲剧;惨事,灾难",
+          "v.修理,缝补;改正,改进",
+          "n.战略，策略；对策，政策",
+          "a.坦白的,直率的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'tragoidia'（山羊之歌），由 'tragos'（山羊）+ 'oide'（歌）组成。古希腊悲剧演出时，演员身穿羊皮扮演森林之神，故称山羊之歌。核心动作：祭祀山羊时的歌唱表演，后引申为严肃、不幸的戏剧或事件。",
+        "similarWarning": "strategy（策略，战略）：来自希腊语 'strategia'（将军的指挥艺术），与 tragedy 拼写差异在 's' 开头和 'y' 结尾，词义无关联。注意区分字母组合 'tra' vs 'stra'。",
+        "extendedMeaning": "在考研外刊中常指‘极其不幸的事件或局面’，如 'a family tragedy'（家庭惨剧），强调灾难性后果而非文学体裁。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tragic",
+      "word": "tragic",
+      "phonetic": "/'trædʒik/",
+      "meaning": "a.悲剧的,悲惨的",
+      "similar": [
+        "traffic",
+        "magic",
+        "trail",
+        "trait",
+        "tropic"
+      ],
+      "question": {
+        "wordId": "tragic",
+        "stem": "选择 \"tragic\" 的正确中文意思：",
+        "correct": "a.悲剧的,悲惨的",
+        "options": [
+          "n.踪迹,痕迹;小路 v.追踪,跟踪;拖,拖曳;",
+          "a.悲剧的,悲惨的",
+          "n.交通,交通量",
+          "n.魔术,魔(魅)力,巫术 a.有魔力的,魔术的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语‘tragoidia’（悲剧），由‘tragos’（山羊）和‘oide’（歌）组成，原指‘山羊之歌’（古希腊悲剧表演时，演员身披山羊皮）。词根‘trag-’表‘山羊’，引申为‘悲剧的、悲惨的’。核心动作：从山羊歌谣到悲剧艺术的演变，强调命运的不幸与哀伤。",
+        "similarWarning": "形近词辨析：1. traffic（交通）：traf-（通行）+ fic（做），对比‘trag-’（山羊）。2. magic（魔法）：mag-（魔术），对比‘trag-’。3. trail（小径）：trait（特征），对比‘trag-’。4. train（火车/训练）：trait（特征），注意‘trag-’与‘trai-’差异。5. trait（特征）：直接对比‘trag-’与‘trai-’。6. tropic（热带）：trop-（转向），对比‘trag-’。核心差异：字母‘g’与‘c’/‘i’/‘p’的替换，词根含义完全不同。",
+        "extendedMeaning": "考研僻义：在文学或语境中，可引申为‘极其不幸的、令人痛心的’（如a tragic accident），强调情感冲击而非仅戏剧体裁。",
+        "examUsage": "真题考点：常与‘comic’（喜剧的）对比出���，在阅读中用于描述负面结局或灾难性事件。搭配：tragic flaw（悲剧性缺陷，源自亚里士多德诗学），在考研阅读中作为文学批评术语出现。注意：tragic本身不常出难题，但需区分其形容词形式与名词tragedy（悲剧）的用法。"
+      }
+    },
+    {
+      "id": "trail",
+      "word": "trail",
+      "phonetic": "/treil/",
+      "meaning": "n.踪迹,痕迹;小路 v.追踪,跟踪;拖,拖曳;",
+      "similar": [
+        "rail",
+        "tail",
+        "trait",
+        "strain",
+        "tragic",
+        "fail",
+        "hail",
+        "nail"
+      ],
+      "question": {
+        "wordId": "trail",
+        "stem": "选择 \"trail\" 的正确中文意思：",
+        "correct": "n.踪迹,痕迹;小路 v.追踪,跟踪;拖,拖曳;",
+        "options": [
+          "n.尾巴；尾部；跟踪者 vt.尾随，跟踪",
+          "n.栏杆,围栏;(pl.)铁路;铁轨;横杆,栏杆",
+          "n.特征,特点,特性",
+          "n.踪迹,痕迹;小路 v.追踪,跟踪;拖,拖曳;"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根tra-（拖、拉）+ -il（后缀）。源自古法语trailler（拖、拉），核心物理动作是“拖曳物体在地面留下痕迹”，引申为“踪迹、小路”及“追踪”。",
+        "similarWarning": "trail vs. tail（尾巴/跟踪）：trail强调“痕迹/路径”，tail侧重“尾巴/尾随”。trail vs. train（火车/训练）：trail是拖曳，train有“拖、拉”的古义但今义不同。trail vs. trait（特征）：trait无“拖”义，指品质特点。",
+        "extendedMeaning": "考研僻义：v. 落后，处于劣势（常接behind）。例：The team trailed by 10 points.（该队落后10分。）n. 一系列，一连串（如trail of events）。",
+        "examUsage": "真题考点：blaze a trail（开拓道路，创新）常作为固定搭配出现在阅读或翻译中。例：The company blazed a trail in renewable energy.（该公司在可再生能源领域开辟了新路。）"
+      }
+    },
+    {
+      "id": "training",
+      "word": "training",
+      "phonetic": "/'treiniŋ/",
+      "meaning": "n.训练,培养",
+      "similar": [
+        "drawing",
+        "meaning",
+        "writing",
+        "learning",
+        "striking"
+      ],
+      "question": {
+        "wordId": "training",
+        "stem": "选择 \"training\" 的正确中文意思：",
+        "correct": "n.训练,培养",
+        "options": [
+          "n.写,写作;著作,作品",
+          "n.绘图,图样",
+          "n.训练,培养",
+          "n.意思,意义,含义;重要性,价值"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自train（训练）+ -ing（动名词后缀），表示训练的过程或结果。",
+        "similarWarning": "drawing（绘画）、learning（学习）、writing（写作）：training侧重技能或体能训练，与具体行为名词易混。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "trait",
+      "word": "trait",
+      "phonetic": "/treɪt/",
+      "meaning": "n.特征,特点,特性",
+      "similar": [
+        "trail",
+        "traitor",
+        "strain",
+        "tragic",
+        "rat",
+        "bait",
+        "raid",
+        "rail"
+      ],
+      "question": {
+        "wordId": "trait",
+        "stem": "选择 \"trait\" 的正确中文意思：",
+        "correct": "n.特征,特点,特性",
+        "options": [
+          "v.拉紧;紧张;扭伤;竭尽全力 n.拉紧;负担",
+          "n.踪迹,痕迹;小路 v.追踪,跟踪;拖,拖曳;",
+          "n.特征,特点,特性",
+          "n.叛徒,卖国贼"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 tractus（拉拽，拖曳），本义为‘被拖曳的东西’，引申为‘线条、痕迹’，再引申为‘可见的特征、特点’。核心动作是‘拖曳留下的痕迹’，强调可观察到的显著属性。",
+        "similarWarning": "trail（n.小径/v.拖曳） vs trait：trail有‘l’结尾，强调路径；trait无‘l’，强调特征。train（n.火车/v.训练） vs trait：train含‘n’，强调序列或培养；trait无‘n’，指特性。",
+        "extendedMeaning": "在考研中常指‘（遗传或性格上的）显著特征’，如‘personality trait’（人格特质），非普通外观特征。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "traitor",
+      "word": "traitor",
+      "phonetic": "/'treitə/",
+      "meaning": "n.叛徒,卖国贼",
+      "similar": [
+        "tractor",
+        "trait",
+        "tailor",
+        "territory",
+        "tradition"
+      ],
+      "question": {
+        "wordId": "traitor",
+        "stem": "选择 \"traitor\" 的正确中文意思：",
+        "correct": "n.叛徒,卖国贼",
+        "options": [
+          "n.特征,特点,特性",
+          "n.叛徒,卖国贼",
+          "n.拖拉机,牵引车",
+          "n.裁缝 v.缝制,剪裁"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'traditor'（交出者），由 'trans-'（跨越） + 'dare'（给）组成，核心动作是‘把本应守护的东西交给对方’，即背叛行为。",
+        "similarWarning": "tractor（拖拉机）: 'tract'（拉）+ 'or'（物），拉东西的机器；traitor: 'trait'（特征）+ 'or'（人），但核心是背叛者。注意拼写差异：traitor 有 'i' 和 't'，tractor 有 'c'。",
+        "extendedMeaning": "在考研中可引申为‘背信弃义者’，不仅指叛国，也指在团体、组织或人际关系中出卖秘密、违背信任的人。",
+        "examUsage": "常见于阅读理解中作为贬义描述，如 'a traitor to one's principles'（背叛自己原则的人）。注意与 'traitorous'（背叛的）的形容词形式区分。"
+      }
+    },
+    {
+      "id": "tram",
+      "word": "tram",
+      "phonetic": "/træm/",
+      "meaning": "n.有轨电车",
+      "similar": [
+        "tramp",
+        "trap",
+        "tray",
+        "trim",
+        "stream",
+        "cream",
+        "drama",
+        "frame"
+      ],
+      "question": {
+        "wordId": "tram",
+        "stem": "选择 \"tram\" 的正确中文意思：",
+        "correct": "n.有轨电车",
+        "options": [
+          "n.有轨电车",
+          "n./v步行;沉重的脚步声(走)v.践踏n.流浪者",
+          "n.陷阱，圈套 vt.诱捕；使中圈套 vi.设圈套",
+          "n.盘,碟,托盘"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自低地德语'tram'（梁、横木），最初指矿车轨道上的横木，后引申为在轨道上行驶的电车。核心动作是“沿轨道滑行”。",
+        "similarWarning": "tramp（n.流浪者；v.重步走） vs tram：tramp多了字母'p'，强调沉重脚步或漂泊；tram指轨道车辆。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "tramp",
+      "word": "tramp",
+      "phonetic": "/træmp/",
+      "meaning": "n./v步行;沉重的脚步声(走)v.践踏n.流浪者",
+      "similar": [
+        "tram",
+        "trap",
+        "rap",
+        "tap",
+        "camp",
+        "damp",
+        "lamp",
+        "tame"
+      ],
+      "question": {
+        "wordId": "tramp",
+        "stem": "选择 \"tramp\" 的正确中文意思：",
+        "correct": "n./v步行;沉重的脚步声(走)v.践踏n.流浪者",
+        "options": [
+          "n.叩击,轻拍,斥责 v.敲,拍,打,斥责,使着迷",
+          "n.陷阱，圈套 vt.诱捕；使中圈套 vi.设圈套",
+          "n.有轨电车",
+          "n./v步行;沉重的脚步声(走)v.践踏n.流浪者"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词源，模仿沉重脚步踩踏地面的声音。核心动作为“沉重地、用力地行走或踩踏”，引申为“践踏”和“流浪者”（长期沉重步行的人）。",
+        "similarWarning": "tramp vs tram: tramp强调沉重步行/流浪者，tram指有轨电车。tramp vs trap: tramp含m（步行），trap含t（陷阱，捕捉）。",
+        "extendedMeaning": "考研僻义：n. 长途跋涉（尤指艰难徒步）；v. 踩踏（常用于被动，如be tramped on）。",
+        "examUsage": "考点：tramp on sb's toes 踩到某人脚趾（引申为得罪人）。真题例句：The tramp tramped across the muddy field, leaving deep footprints.（流浪汉踏过泥泞田野，留下深深脚印。）"
+      }
+    },
+    {
+      "id": "transaction",
+      "word": "transaction",
+      "phonetic": "/træn'zækʃən/",
+      "meaning": "n.办理,处理;交易,事务;(pl.)会报,学报",
+      "similar": [
+        "transition",
+        "translation",
+        "transmission",
+        "sensation",
+        "tradition",
+        "plantation",
+        "transistor"
+      ],
+      "question": {
+        "wordId": "transaction",
+        "stem": "选择 \"transaction\" 的正确中文意思：",
+        "correct": "n.办理,处理;交易,事务;(pl.)会报,学报",
+        "options": [
+          "n.播送,发射;传动,传送",
+          "n.翻译;译文,译本",
+          "n.转变，变迁，过渡(时期)",
+          "n.办理,处理;交易,事务;(pl.)会报,学报"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源于拉丁语transigere（trans-“穿过”+agere“驱动，做”），本义为“穿透并完成”。核心动作：从一方到另一方的交互完成。词根演变：trans-（穿过）+act（行动，驱动）→ transaction（双方之间驱动完成的事务，即交易或处理）。",
+        "similarWarning": "transition（转变，过渡）：仅差“s”与“c”，transaction强调“交互完成”，transition侧重“状态迁移”。transmission（传输，传播）：mission（发送）vs action（行动），前者重信息/信号传递，后者重事务/交易处理。",
+        "extendedMeaning": "考研僻义：1. (pl.)会报，学报（学术机构记录交流的论文集）。2. 法律/金融领域：交易结算的完整流程（如“cash transaction”现金交易）。",
+        "examUsage": "真题考点：常与“trade”“deal”同义替换，但更正式。核心搭配：transaction costs（交易成本，经济学高频词）。干扰项：常与“transformation”（彻底变革）混淆，注意transaction不强调形态变化。"
+      }
+    },
+    {
+      "id": "transcend",
+      "word": "transcend",
+      "phonetic": "/træn'send/",
+      "meaning": "vt.超出,超越(经验、知识、能力的范围等)",
+      "similar": [
+        "transient",
+        "transfer",
+        "transparent",
+        "transplant"
+      ],
+      "question": {
+        "wordId": "transcend",
+        "stem": "选择 \"transcend\" 的正确中文意思：",
+        "correct": "vt.超出,超越(经验、知识、能力的范围等)",
+        "options": [
+          "vt.超出,超越(经验、知识、能力的范围等)",
+          "a.透明的，透光的；易理解的；明显的",
+          "a.短暂的，转瞬即逝的；临时的，暂住的",
+          "vt./n.转移；转换；转让；过户；迁移；改乘"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "trans-（跨越）+ scend（来自拉丁语 scandere，意为“爬、攀”）。核心动作：从一处攀爬到更高处，从而“跨越”原有边界，引申为超越经验、知识或能力的范围。",
+        "similarWarning": "transient（短暂的，trans- + ire“走”，强调“过客”般的短暂）；transfer（转移，trans- + ferre“携带”，强调“搬运”）；transparent（透明的，trans- + parere“显现”，强调“透过看”）；transplant（移植，trans- + plantare“种植”，强调“移动植物”）。区别在于词根 scend（攀爬）与 ire（走）、ferre（携带）等不同。",
+        "extendedMeaning": "在考研阅读中常引申为“超越（某种界限或范畴）”，如 transcend cultural boundaries（超越文化界限）或 transcend the limits of human knowledge（超越人类知识的极限）。",
+        "examUsage": "真题中常作及物动词，后接抽象名词，如 transcend the limitations of tradition（超越传统的局限）。注意其与 surpass（超过）的区别：surpass 侧重数量或程度上的超过，而 transcend 强调跨越性质或范畴的界限。"
+      }
+    },
+    {
+      "id": "transfer",
+      "word": "transfer",
+      "phonetic": "/træns'fə:/",
+      "meaning": "vt./n.转移；转换；转让；过户；迁移；改乘",
+      "similar": [
+        "transform",
+        "transcend",
+        "transient",
+        "transport",
+        "answer",
+        "tanker",
+        "stranger",
+        "transmit"
+      ],
+      "question": {
+        "wordId": "transfer",
+        "stem": "选择 \"transfer\" 的正确中文意思：",
+        "correct": "vt./n.转移；转换；转让；过户；迁移；改乘",
+        "options": [
+          "vt.改变,变换;变压;转化;改造,改造",
+          "vt./n.转移；转换；转让；过户；迁移；改乘",
+          "vt.超出,超越(经验、知识、能力的范围等)",
+          "a.短暂的，转瞬即逝的；临时的，暂住的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "trans-（穿越、转移）+ fer（携带、带来）→ 将某物从一处携带到另一处 → 转移、转让、迁移。核心物理动作是“携带某物穿行至别处”。",
+        "similarWarning": "transform（trans-+form形状）→ 改变形态；transport（trans-+port搬运）→ 运输；transmit（trans-+mit发送）→ 传送（信号/疾病）。注意区别：transfer强调位置/所有权转移；transform强调形态变化；transport强调物理搬运；transmit强调信息/媒介传递。",
+        "extendedMeaning": "考研僻义：1. 换乘（交通工具）；2. 转让（权利/财产）；3. 转学；4. 转账。",
+        "examUsage": "真题考点：transfer...to...（把……转移到/转让给……）；transfer from...to...（从……换乘到……）；transfer of technology（技术转让）；在阅读中常作为“转移/转换”的核心逻辑词出现，干扰项常设置为“改变性质/形态”（transform）或“运输/运送”（transport）。"
+      }
+    },
+    {
+      "id": "transform",
+      "word": "transform",
+      "phonetic": "/træns'fɔ:m/",
+      "meaning": "vt.改变,变换;变压;转化;改造,改造",
+      "similar": [
+        "transfer",
+        "transport",
+        "transistor"
+      ],
+      "question": {
+        "wordId": "transform",
+        "stem": "选择 \"transform\" 的正确中文意思：",
+        "correct": "vt.改变,变换;变压;转化;改造,改造",
+        "options": [
+          "n.晶体管；晶体管收音机",
+          "v.运输,运送,搬运n.运输;运输系统,运载工具",
+          "vt./n.转移；转换；转让；过户；迁移；改乘",
+          "vt.改变,变换;变压;转化;改造,改造"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "trans-（越过、转变）+ form（形状）→ 改变形状或形态，核心动作是使某物从一种形式/状态跨越到另一种。",
+        "similarWarning": "transfer（转移，强调位置/权力移动）：trans- + fer（携带）→ 携带跨越。transport（运输）：trans- + port（搬运）→ 搬运跨越。transistor（晶体管）：trans- + resistor（电阻器）的合成词。差异在于词根：form（形状）vs. fer（携带）vs. port（搬运）vs. 合成词。",
+        "extendedMeaning": "（物理/化学）使发生根本性转变，如能量转换（transform heat into electricity）；在社会/科技语境中指颠覆性变革（transform the industry）。",
+        "examUsage": "真题中常考及物用法：transform A into B（将A彻底转变为B），强调质变而非量变。例如：The city has been transformed into a global hub.（该城市已转变为全球枢纽。）"
+      }
+    },
+    {
+      "id": "transient",
+      "word": "transient",
+      "phonetic": "/'trænziənt/",
+      "meaning": "a.短暂的，转瞬即逝的；临时的，暂住的",
+      "similar": [
+        "transcend",
+        "transparent",
+        "transplant",
+        "ancient",
+        "transfer",
+        "transmit",
+        "transport",
+        "harassment"
+      ],
+      "question": {
+        "wordId": "transient",
+        "stem": "选择 \"transient\" 的正确中文意思：",
+        "correct": "a.短暂的，转瞬即逝的；临时的，暂住的",
+        "options": [
+          "a.短暂的，转瞬即逝的；临时的，暂住的",
+          "vt.超出,超越(经验、知识、能力的范围等)",
+          "n./v.移植(植物；组织,器官等)；迁移；",
+          "a.透明的，透光的；易理解的；明显的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 trans-（跨越）+ -ient（形容词后缀，表“...的”）。核心物理动作：从一个点跨越到另一个点，本质是“在时间或空间中快速经过”，引申为“短暂的、转瞬即逝的”。",
+        "similarWarning": "transcend（超越：trans- + scend-爬） vs transient（短暂的：trans- + -ient）。区别在于词根 scend-（爬）强调向上越过界限，而 -ient 强调时间上的经过。",
+        "extendedMeaning": "考研僻义：在经济学人或真题中常作名词，指“暂住者、流动人口”（如 transient workers 临时工），或指物理/电路中的“瞬态”（如 transient response 瞬态响应）。",
+        "examUsage": "真题考点：常与 temporary（临时的）、momentary（片刻的）近义辨析。干扰项常设置成 permanent（永久的）的反义对应。例句：The city's transient population makes it difficult to plan long-term services.（城市流动人口使长期服务规划困难。）"
+      }
+    },
+    {
+      "id": "transistor",
+      "word": "transistor",
+      "phonetic": "/træn'sistə/",
+      "meaning": "n.晶体管；晶体管收音机",
+      "similar": [
+        "transition",
+        "transmission",
+        "transaction",
+        "translation",
+        "ancestor",
+        "transfer",
+        "transmit",
+        "transform"
+      ],
+      "question": {
+        "wordId": "transistor",
+        "stem": "选择 \"transistor\" 的正确中文意思：",
+        "correct": "n.晶体管；晶体管收音机",
+        "options": [
+          "n.办理,处理;交易,事务;(pl.)会报,学报",
+          "n.转变，变迁，过渡(时期)",
+          "n.晶体管；晶体管收音机",
+          "n.播送,发射;传动,传送"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "由transfer（转移）+ resistor（电阻器）缩合而成。trans-表示“转移”，-istor源自resistor（电阻器）。核心物理动作：通过半导体材料控制电子流动，实现信号放大或开关功能，即“转移电阻”的器件。",
+        "similarWarning": "transition（n.过渡）与transistor拼写差异在“sistor”vs“sition”，词根不同：-sistor源自电阻，-sition表“位置”。transmission（n.传输）与transistor差异在“mission”vs“sistor”，-mission表“发送”。",
+        "extendedMeaning": "在考研阅读中常引申为“晶体管收音机”的缩略形式，如“a transistor radio”指便携式收音机，但更常考其本义“晶体管”在电子学中的核心地位。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "transition",
+      "word": "transition",
+      "phonetic": "/træn'siʒən/",
+      "meaning": "n.转变，变迁，过渡(时期)",
+      "similar": [
+        "transaction",
+        "translation",
+        "tradition",
+        "transmission",
+        "transistor",
+        "preposition",
+        "proposition",
+        "addition"
+      ],
+      "question": {
+        "wordId": "transition",
+        "stem": "选择 \"transition\" 的正确中文意思：",
+        "correct": "n.转变，变迁，过渡(时期)",
+        "options": [
+          "n.转变，变迁，过渡(时期)",
+          "n.办理,处理;交易,事务;(pl.)会报,学报",
+          "n.传统； 惯例； 传说",
+          "n.翻译;译文,译本"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "trans-（跨越）+ -ition（名词后缀，表动作过程）。核心动作：从一种状态“跨到”另一种状态的过程，强调中间过渡阶段，而非终点。",
+        "similarWarning": "transaction（交易）：trans-（跨越）+ action（行动），强调“跨”过双方进行“行动”；transition 强调“跨”过时间/状态的“过程”。拼写差异：-sition vs -action。",
+        "extendedMeaning": "考研中常指社会、经济、政治体制的“转型期”，如 energy transition（能源转型）、demographic transition（人口结构转变）。",
+        "examUsage": "真题考点：in transition（在过渡中/转型中），常作定语或表语，如 \"a society in transition\"（转型中的社会）。"
+      }
+    },
+    {
+      "id": "translate",
+      "word": "translate",
+      "phonetic": "/trænz'leɪt/",
+      "meaning": "v.翻译，解释；转化，",
+      "similar": [
+        "translation",
+        "transplant",
+        "transmit",
+        "transparent",
+        "transistor"
+      ],
+      "question": {
+        "wordId": "translate",
+        "stem": "选择 \"translate\" 的正确中文意思：",
+        "correct": "v.翻译，解释；转化，",
+        "options": [
+          "n./v.移植(植物；组织,器官等)；迁移；",
+          "v.翻译，解释；转化，",
+          "n.翻译;译文,译本",
+          "vt.传输/导；转送；发射 vi.发射信号；发报"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'translatus'（trans- '跨越' + latus '携带'），核心动作是 '将含义从一种语言携带到另一种语言'。引申为 '转换形式或状态'，如 translate ideas into action（将想法转化为行动）。",
+        "similarWarning": "transplant（移植，trans- + plant '种植'）vs translate（翻译，trans- + latus '携带'）：前者涉及物理移动种植，后者涉及语义转换。transmit（传输，trans- + mittere '发送'）vs translate：前者强调信号/信息的传递，后者强调语言/含义的转化。",
+        "extendedMeaning": "熟词僻义：在科技语境中可表示 '自动转换（数据格式）'，如 translate code into machine language（将代码转换为机器语言）；在数学/物理中表示 '平移（图形）'。",
+        "examUsage": "真题考点：常考短语 translate...into...（把...转化为...），如真题例句：'It is not easy to translate scientific discoveries into practical applications.'（将科学发现转化为实际应用并不容易。）注意区分 translate（翻译/转化）与 transform（彻底改变形态）在搭配上的细微差异。"
+      }
+    },
+    {
+      "id": "translation",
+      "word": "translation",
+      "phonetic": "/træns'leiʃən/",
+      "meaning": "n.翻译;译文,译本",
+      "similar": [
+        "transition",
+        "transaction",
+        "translate",
+        "organization",
+        "transmission",
+        "inflation",
+        "sensation",
+        "tradition"
+      ],
+      "question": {
+        "wordId": "translation",
+        "stem": "选择 \"translation\" 的正确中文意思：",
+        "correct": "n.翻译;译文,译本",
+        "options": [
+          "v.翻译，解释；转化，",
+          "n.办理,处理;交易,事务;(pl.)会报,学报",
+          "n.转变，变迁，过渡(时期)",
+          "n.翻译;译文,译本"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'translatio'，由前缀 'trans-'（跨越、转移）和 'latio'（携带、搬运）构成。核心动作是“将一种语言中的意义携带到另一种语言中”，即语言之间的转换过程或结果。",
+        "similarWarning": "transition (转变) vs translation (翻译)：前者强调状态或阶段的过渡，后者强调语言转换。transaction (交易) vs translation：前者指商业交易，后者指文本翻译。",
+        "extendedMeaning": "在考研中，可引申为'转化'或'转换'，如文化或思想的移植，不限于文字。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "transmission",
+      "word": "transmission",
+      "phonetic": "/trænz'miʃən/",
+      "meaning": "n.播送,发射;传动,传送",
+      "similar": [
+        "transition",
+        "transistor",
+        "transaction",
+        "translation"
+      ],
+      "question": {
+        "wordId": "transmission",
+        "stem": "选择 \"transmission\" 的正确中文意思：",
+        "correct": "n.播送,发射;传动,传送",
+        "options": [
+          "n.晶体管；晶体管收音机",
+          "n.转变，变迁，过渡(时期)",
+          "n.办理,处理;交易,事务;(pl.)会报,学报",
+          "n.播送,发射;传动,传送"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语transmittere，由trans-（跨越、穿过）+ mittere（发送、放出）构成，核心动作是“从一处发送到另一处”。词根miss-是mittere的过去分词形式，-ion为名词后缀，故本义为“传送、传递”。在机械中引申为“传动”，在通信中引申为“播送、发射”。",
+        "similarWarning": "transition（n.过渡、转变）：词根trans- + it-（go，走）+ -ion，强调“从一个状态走到另一个状态”。transmission强调“发送”的动作，transition强调“过程或阶段的变换”。",
+        "extendedMeaning": "在考研阅读中常出现“疾病传播”或“信号传输”的抽象用法，如“transmission of knowledge”（知识传播）、“transmission of values”（价值观传递）。",
+        "examUsage": "真题常考搭配：transmission system（传输系统）、transmission of data（数据传输）。注意与transition（过渡）在题干中作为干扰项出现，辨析点在于动作方向：transmission是平行或单向发送，transition是状态更替。"
+      }
+    },
+    {
+      "id": "transmit",
+      "word": "transmit",
+      "phonetic": "/trænz'mit/",
+      "meaning": "vt.传输/导；转送；发射 vi.发射信号；发报",
+      "similar": [
+        "transient",
+        "translate",
+        "transport",
+        "transfer",
+        "transistor",
+        "transition",
+        "transplant"
+      ],
+      "question": {
+        "wordId": "transmit",
+        "stem": "选择 \"transmit\" 的正确中文意思：",
+        "correct": "vt.传输/导；转送；发射 vi.发射信号；发报",
+        "options": [
+          "v.运输,运送,搬运n.运输;运输系统,运载工具",
+          "v.翻译，解释；转化，",
+          "a.短暂的，转瞬即逝的；临时的，暂住的",
+          "vt.传输/导；转送；发射 vi.发射信号；发报"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "trans-（横穿，转移）+ mit（发送）。核心动作：将某物从一个地方发送到另一个地方。引申为信息、信号、疾病的传递或传播。",
+        "similarWarning": "transmit（传输）vs transfer（转移）: mit强调“发送”动作，fer强调“携带”移动。transmit多用于信号、信息；transfer多用于人员、财产、数据。",
+        "extendedMeaning": "【医学】传播（疾病）：The virus can be transmitted through air. 【通信】发射（信号）：transmit a radio signal.",
+        "examUsage": "真题中常考搭配：transmit information（传输信息）；transmit diseases（传播疾病）。注意被动语态：be transmitted through/from...to..."
+      }
+    },
+    {
+      "id": "transparent",
+      "word": "transparent",
+      "phonetic": "/træns'pærənt/",
+      "meaning": "a.透明的，透光的；易理解的；明显的",
+      "similar": [
+        "transient",
+        "transport",
+        "transplant",
+        "transcend",
+        "translate"
+      ],
+      "question": {
+        "wordId": "transparent",
+        "stem": "选择 \"transparent\" 的正确中文意思：",
+        "correct": "a.透明的，透光的；易理解的；明显的",
+        "options": [
+          "v.运输,运送,搬运n.运输;运输系统,运载工具",
+          "n./v.移植(植物；组织,器官等)；迁移；",
+          "a.短暂的，转瞬即逝的；临时的，暂住的",
+          "a.透明的，透光的；易理解的；明显的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 trans-（穿过）+ parere（显现），本义为“光线能穿透而显现”。核心动作：光穿过物体使其背后的东西能被看见。由此引申为“透明的”和“易理解的”。",
+        "similarWarning": "transient（短暂的）：trans-（穿过）+ ire（走）→ 穿行而过 → 转瞬即逝。transport（运输）：trans-（转移）+ port（携带）→ 搬运。transparent强调“透光可见”，transient强调“时间短暂”。",
+        "extendedMeaning": "在考研阅读中常引申为“显而易见的，不加掩饰的”，如 transparent attempt（明显的企图）。",
+        "examUsage": "真题常考搭配：be transparent to...（对…透明/可穿透），如 The glass is transparent to light. 另注意反义词 opaque（不透明的）常作干扰项。"
+      }
+    },
+    {
+      "id": "transplant",
+      "word": "transplant",
+      "phonetic": "/træns'plɑ:nt/",
+      "meaning": "n./v.移植(植物；组织,器官等)；迁移；",
+      "similar": [
+        "transparent",
+        "transient",
+        "translate",
+        "transport",
+        "transmit",
+        "transcend"
+      ],
+      "question": {
+        "wordId": "transplant",
+        "stem": "选择 \"transplant\" 的正确中文意思：",
+        "correct": "n./v.移植(植物；组织,器官等)；迁移；",
+        "options": [
+          "n./v.移植(植物；组织,器官等)；迁移；",
+          "v.翻译，解释；转化，",
+          "a.透明的，透光的；易理解的；明显的",
+          "a.短暂的，转瞬即逝的；临时的，暂住的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "trans-（跨越，转移）+ plant（种植）→ 把植物从一个地方移到另一个地方种植→ 移植。核心物理动作：将某物从原位置整体移动到新位置并使其存活/运作。",
+        "similarWarning": "transparent（透明的）：trans-（穿过）+ parent（出现）→ 光线能穿过→ 透明。transient（短暂的）：trans-（越过）+ ient（go）→ 很快过去→ 短暂。translate（翻译）：trans-（转移）+ late（携带）→ 把语言从一种转移到另一种。transport（运输）：trans-（转移）+ port（搬运）→ 搬运到别处。transmit（传输）：trans-（转移）+ mit（发送）→ 发送出去。transcend（超越）：trans-（跨过）+ scend（爬）→ 爬过界限。关键差异：transplant 核心在“种植/安置”，其他词分别侧重“看穿、短暂、语言转换、搬运、发送、超越”。",
+        "extendedMeaning": "在考研阅读中常引申为“迁移（人口、企业等）”，如 transplant industries（迁移产业）；也可指“（器官）移植手术”，如 heart transplant（心脏移植）。",
+        "examUsage": "真题常考搭配：transplant...into...（把…移植到…）；organ transplant（器官移植）。注意及物动词用法：transplant sth. (from A) to B，被动形式 be transplanted 常见于科技/医学类阅读。"
+      }
+    },
+    {
+      "id": "transport",
+      "word": "transport",
+      "phonetic": "/'trænspɔ:t /",
+      "meaning": "v.运输,运送,搬运n.运输;运输系统,运载工具",
+      "similar": [
+        "transform",
+        "transparent",
+        "transplant",
+        "passport",
+        "transfer",
+        "transmit",
+        "transient",
+        "transistor"
+      ],
+      "question": {
+        "wordId": "transport",
+        "stem": "选择 \"transport\" 的正确中文意思：",
+        "correct": "v.运输,运送,搬运n.运输;运输系统,运载工具",
+        "options": [
+          "n./v.移植(植物；组织,器官等)；迁移；",
+          "vt.改变,变换;变压;转化;改造,改造",
+          "a.透明的，透光的；易理解的；明显的",
+          "v.运输,运送,搬运n.运输;运输系统,运载工具"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "trans-（跨越） + port（搬运，港口） => 从一个地方搬运到另一个地方 => 运输、运送。核心动作：跨越空间移动物体。",
+        "similarWarning": "1. transform：trans-（改变）+ form（形状） => 改变形状、改造。\n2. transfer：trans-（转移）+ fer（携带） => 转移、调动。\n3. transmit：trans-（穿过）+ mit（发送） => 传输、传播（信息/信号）。\n区别：transport侧重物理搬运；transform强调形态变化；transfer指位置/权力变更；transmit多用于信息传递。",
+        "extendedMeaning": "（无高频僻义，该词在考研中主要考察字面义及搭配）",
+        "examUsage": "真题常考搭配：transport system（运输系统），public transport（公共交通）。注意干扰项：transport与transit（中转、过渡）在物流语境下的辨析。"
+      }
+    },
+    {
+      "id": "trap",
+      "word": "trap",
+      "phonetic": "/træp/",
+      "meaning": "n.陷阱，圈套 vt.诱捕；使中圈套 vi.设圈套",
+      "similar": [
+        "strap",
+        "tramp",
+        "rap",
+        "tap",
+        "tram",
+        "tray",
+        "trip",
+        "wrap"
+      ],
+      "question": {
+        "wordId": "trap",
+        "stem": "选择 \"trap\" 的正确中文意思：",
+        "correct": "n.陷阱，圈套 vt.诱捕；使中圈套 vi.设圈套",
+        "options": [
+          "n.叩击,轻拍,斥责 v.敲,拍,打,斥责,使着迷",
+          "n.陷阱，圈套 vt.诱捕；使中圈套 vi.设圈套",
+          "n.皮带v.用带扣住，束牢；用绷带包扎",
+          "n./v步行;沉重的脚步声(走)v.践踏n.流浪者"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语treppe，与‘踩踏、捕捉’相关。核心动作是用装置或策略捕捉（人或动物），引申为诱导或困住。",
+        "similarWarning": "strap（带子）、tramp（流浪者）、rap（说唱）、tap（轻拍）、tram（电车）、tray（托盘）、trip（旅行）、wrap（包裹）",
+        "extendedMeaning": "考研中常引申为‘困境’或‘诡计’，如‘be caught in a trap’（陷入困境）。",
+        "examUsage": "常见搭配‘set a trap’（设陷阱）和‘fall into a trap’（中圈套），在阅读中可能作为干扰项出现，强调被诱骗或被困住的状态。"
+      }
+    },
+    {
+      "id": "trash",
+      "word": "trash",
+      "phonetic": "/træʃ/",
+      "meaning": "n.垃圾；拙劣的作品；渣滓，败类",
+      "similar": [
+        "rash",
+        "crash",
+        "ash",
+        "cash",
+        "dash",
+        "lash",
+        "rush",
+        "task"
+      ],
+      "question": {
+        "wordId": "trash",
+        "stem": "选择 \"trash\" 的正确中文意思：",
+        "correct": "n.垃圾；拙劣的作品；渣滓，败类",
+        "options": [
+          "a.轻率的,鲁莽的 n.皮疹",
+          "n.垃圾；拙劣的作品；渣滓，败类",
+          "v./n.碰撞,坠落,摔坏 n.失败,瓦解;爆裂声",
+          "n.灰，灰末；(pl.)骨灰；(pl.)废墟"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能拟声词，模仿物体被撕碎或压碎的声音。核心动作是‘废弃、丢弃’，引申为无价值的东西。",
+        "similarWarning": "rash（皮疹；轻率的）、crash（碰撞；崩溃）、ash（灰烬）、cash（现金）、dash（猛冲；破折号）、lash（鞭打；睫毛）、rush（冲；匆忙）、task（任务）。对比：trash 强调‘废品/垃圾’，与‘任务(task)’或‘现金(cash)’无关联。",
+        "extendedMeaning": "考研僻义：1. 拙劣的作品（如文学、艺术等），例：\"That movie is trash.\" 2. 渣滓，败类（贬义指人），例：\"He called them white trash.\"",
+        "examUsage": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,1705 @@
+{
+  "batchId": 49,
+  "words": [
+    {
+      "id": "mathematical",
+      "word": "mathematical",
+      "phonetic": "/ˌmæθi'mætikəl/",
+      "meaning": "a.数学的；数学上的",
+      "similar": [],
+      "question": {
+        "wordId": "mathematical",
+        "stem": "选择 \"mathematical\" 的正确中文意思：",
+        "correct": "a.数学的；数学上的",
+        "options": [
+          "a.数学的；数学上的",
+          "n.森林",
+          "n.恐怖,战栗",
+          "n./a.恐慌(的),惊慌(的) vt.使惊慌,使害怕"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'mathema'（学习、科学），通过拉丁语 'mathematicus' 进入英语。词根 'math-' 表示“学习”，后缀 '-ical' 为形容词后缀，表示“与...相关的”。核心动作：与“学习、科学”相关，特指数学这一精确科学领域。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "maths",
+      "word": "maths",
+      "phonetic": "/mæθs/",
+      "meaning": "n.(mathematics/math)数学",
+      "similar": [
+        "mat",
+        "bath",
+        "mass",
+        "mate",
+        "myth",
+        "oath",
+        "bathe",
+        "match"
+      ],
+      "question": {
+        "wordId": "maths",
+        "stem": "选择 \"maths\" 的正确中文意思：",
+        "correct": "n.(mathematics/math)数学",
+        "options": [
+          "n.(mathematics/math)数学",
+          "n.席子,垫子",
+          "n.沐浴,洗澡;浴室(池,盆) v.(给…)洗澡",
+          "n.大量,众多;团,块;(pl.)群众,民众;质量"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语‘mathema’（学习、科学），词根‘math-’意为学习；‘-s’为复数后缀，原指各种学问，后特指数学学科。核心动作：学习之科学。",
+        "similarWarning": "maths vs. myth（神话）：maths含‘a’表抽象学科，myth含‘y’表虚构故事；vs. mass（大量）：maths有‘th’发音/θ/，mass无。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mature",
+      "word": "mature",
+      "phonetic": "/mə'tjuə/",
+      "meaning": "a.成熟的,熟的;成年人的 v.(使)成熟",
+      "similar": [
+        "capture",
+        "feature",
+        "mixture",
+        "pasture",
+        "mate",
+        "metre",
+        "satire",
+        "creature"
+      ],
+      "question": {
+        "wordId": "mature",
+        "stem": "选择 \"mature\" 的正确中文意思：",
+        "correct": "a.成熟的,熟的;成年人的 v.(使)成熟",
+        "options": [
+          "n.特征;容貌;特色;特写 v.以...为特色",
+          "a.成熟的,熟的;成年人的 v.(使)成熟",
+          "n.混合;混合物,混合剂",
+          "v./n.捕获,俘虏;夺得,攻占"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“maturus”（成熟的，早熟的），词根“mat-”与“mane”（早晨）同源，本义为“像早晨一样早的”，引申为“时机成熟的”。核心动作是“达到最佳状态或完成生长过程”。",
+        "similarWarning": "mature vs nature：mature 以“m”开头，核心是“成熟”；nature 以“n”开头，核心是“自然”。mature vs mate：mature 有“-ure”后缀，强调状态；mate 为“伙伴”，拼写差“ur”。",
+        "extendedMeaning": "（经济/市场）成熟的，饱和的，不再高速增长的。如：mature market（成熟市场）。",
+        "examUsage": "考点：mature 的动词用法“使成熟”常与 into 搭配，如：mature into（发展成）。真题例句：The market has matured into a highly competitive environment.（市场已发展成高度竞争的环境。）"
+      }
+    },
+    {
+      "id": "maximum",
+      "word": "maximum",
+      "phonetic": "/'mæksiməm/",
+      "meaning": "n.最大值,极限 a.最大的,最高的",
+      "similar": [
+        "minimum"
+      ],
+      "question": {
+        "wordId": "maximum",
+        "stem": "选择 \"maximum\" 的正确中文意思：",
+        "correct": "n.最大值,极限 a.最大的,最高的",
+        "options": [
+          "n.羽毛",
+          "n.最小值,最低限度 a.最小的,最低的",
+          "n.牛排；大块肉(或鱼)片",
+          "n.最大值,极限 a.最大的,最高的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'magnus'（大）的最高级形式 'maximus'（最大的）。词根 'maxim-' 表示“最大”，与 'magn-'（大）同源。核心物理动作：在数量、程度或尺寸上达到顶点，即“最大值”或“最大的”。",
+        "similarWarning": "minimum（最小值）：词根 'minim-' 表示“最小”，与 'maxim-' 形成极值对比。字母差异：'max-' vs 'min-'，词义完全相反。",
+        "extendedMeaning": "",
+        "examUsage": "常考搭配：'maximum effort'（最大努力）、'maximum capacity'（最大容量）。在图表作文中常作为数据极值描述词。"
+      }
+    },
+    {
+      "id": "mayor",
+      "word": "mayor",
+      "phonetic": "/'mεə/",
+      "meaning": "n.市长",
+      "similar": [
+        "favor",
+        "labor",
+        "layer",
+        "minor",
+        "motor",
+        "razor"
+      ],
+      "question": {
+        "wordId": "mayor",
+        "stem": "选择 \"mayor\" 的正确中文意思：",
+        "correct": "n.市长",
+        "options": [
+          "n.层，层次；铺设者",
+          "n.(labour)工作，劳动；劳力 v.劳动，苦干",
+          "n.(favour)好感;喜爱;关切v.赞成,支持,偏爱",
+          "n.市长"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"maior\"（较大的），是\"magnus\"（大）的比较级。词根\"mai-\"意为\"大\"，\"-or\"为比较级后缀。市长原指城市中\"较大的官员\"，与\"major\"（少校、主要的）同源，强调职位的重要性。\",\n  \"similarWarning\": \"major：少校/主要的；mayor：市长。区别在于\"j\"与\"y\"，major侧重军衔或程度，mayor侧重行政职务。\",\n  \"extendedMeaning\": \"在考研真题中，mayor常引申为\"地方行政长官\"，不限于市长，可指镇长或区长。\",\n  \"examUsage\": \"\"\n}",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "meadow",
+      "word": "meadow",
+      "phonetic": "/'medəu/",
+      "meaning": "n.草地,牧场",
+      "similar": [
+        "endow",
+        "shadow"
+      ],
+      "question": {
+        "wordId": "meadow",
+        "stem": "选择 \"meadow\" 的正确中文意思：",
+        "correct": "n.草地,牧场",
+        "options": [
+          "n.草地,牧场",
+          "vt.资助，捐赠；(with)给予，赋予",
+          "n.阴影,影子,荫;暗处,阴暗",
+          "v.称赞，表扬：委托保管；推荐"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根来自古英语 mǣd（草地），与 mow（割草）同源，核心动作是“被割草的土地”，即用于放牧或收割干草的平坦草地。",
+        "similarWarning": "meadow vs. shadow: meadow 以“mea-”开头，指草地；shadow 以“sha-”开头，指阴影。endow 以“en-”开头，指捐赠。拼写差异在于首字母和中间元音。",
+        "extendedMeaning": "在考研中，meadow 常引申为“宁静的乡村景象”或“生态栖息地”，如“a lush meadow”（丰茂的草地）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "meaning",
+      "word": "meaning",
+      "phonetic": "/'mi:niŋ/",
+      "meaning": "n.意思,意义,含义;重要性,价值",
+      "similar": [
+        "learning",
+        "bearing",
+        "heading",
+        "hearing",
+        "leading",
+        "reading",
+        "meantime",
+        "training"
+      ],
+      "question": {
+        "wordId": "meaning",
+        "stem": "选择 \"meaning\" 的正确中文意思：",
+        "correct": "n.意思,意义,含义;重要性,价值",
+        "options": [
+          "n.意思,意义,含义;重要性,价值",
+          "n.知识,学问;学习",
+          "n.轴承；忍受；关系，影响；举止；方向",
+          "n.标题"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"词根 'mean' (意为\"意指、打算\") + 后缀 '-ing'。核心动作是\"表达或传达思想\"，引申为\"所传达的内容\"即\"意思、意义\"，进一步抽象为\"重要性、价值\"（如 the meaning of life）。\",\n  \"similarWarning\": \"learning (学习/知识，词根 learn) vs. meaning (意义/意思，词根 mean)；bearing (举止/轴承，词根 bear) vs. meaning；heading (标题/方向，词根 head) vs. meaning。差异在于首字母/词根不同，导致核心义域各异。\",\n",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "means",
+      "word": "means",
+      "phonetic": "/mi:nz/",
+      "meaning": "n.方法,手段",
+      "similar": [
+        "jeans",
+        "bean",
+        "dean",
+        "lean",
+        "lens",
+        "mass",
+        "meat",
+        "mend"
+      ],
+      "question": {
+        "wordId": "means",
+        "stem": "选择 \"means\" 的正确中文意思：",
+        "correct": "n.方法,手段",
+        "options": [
+          "n.方法,手段",
+          "n.(大学)院长;主持牧师; (基督教)教长",
+          "n.牛仔裤（又称blue jeans, dungarees等）",
+          "n.豆;菜豆,蚕豆"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为mean（意为“意指，打算”），means是其名词形式，核心动作概念是“作为达到目的的中介或工具”，即“方法、手段”。",
+        "similarWarning": "means vs. mean: means是名词（方法），mean是动词（意味）或形容词（吝啬的）。字母差异：means多一个s，表示复数形式作为单数使用。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "meantime",
+      "word": "meantime",
+      "phonetic": "/'mi:n'taim/",
+      "meaning": "n.(meanwhile)其间,其时 ad.同时,当时",
+      "similar": [
+        "meanwhile",
+        "entire",
+        "daytime",
+        "meaning",
+        "mention",
+        "pastime"
+      ],
+      "question": {
+        "wordId": "meantime",
+        "stem": "选择 \"meantime\" 的正确中文意思：",
+        "correct": "n.(meanwhile)其间,其时 ad.同时,当时",
+        "options": [
+          "n.白天,日间",
+          "n.其时，其间 ad.当时，与此同时",
+          "a.完全的,全部的,完整的",
+          "n.(meanwhile)其间,其时 ad.同时,当时"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由mean（中间）+ time（时间）构成，核心物理动作是“在时间中间”，即两件事之间的时间段或同时发生。",
+        "similarWarning": "形近词：meanwhile（同时，与meantime同义但更常用作副词）；entire（全部的，区别在于词根整全）；daytime（白天，特指日间时段）；meaning（意义，与时间无关）；mention（提及，拼写不同）；pastime（消遣，侧重娱乐活动）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "meanwhile",
+      "word": "meanwhile",
+      "phonetic": "/'mi:nwail/",
+      "meaning": "n.其时，其间 ad.当时，与此同时",
+      "similar": [
+        "meantime"
+      ],
+      "question": {
+        "wordId": "meanwhile",
+        "stem": "选择 \"meanwhile\" 的正确中文意思：",
+        "correct": "n.其时，其间 ad.当时，与此同时",
+        "options": [
+          "n.其时，其间 ad.当时，与此同时",
+          "n.仓库,货栈",
+          "v.使困惑,使费解,使复杂化",
+          "n.(meanwhile)其间,其时 ad.同时,当时"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由mean(中间)+while(时间)构成，核心物理动作是‘在时间中间’，即两个事件之间的时间段。",
+        "similarWarning": "meantime：与meanwhile拼写差异为time/while，meantime更强调‘间隔时间’，meanwhile更强调‘在此期间’。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "meat",
+      "word": "meat",
+      "phonetic": "/mi:t/",
+      "meaning": "n.(食用)肉类",
+      "similar": [
+        "mat",
+        "beat",
+        "feat",
+        "melt",
+        "neat",
+        "beast",
+        "cheat",
+        "feast"
+      ],
+      "question": {
+        "wordId": "meat",
+        "stem": "选择 \"meat\" 的正确中文意思：",
+        "correct": "n.(食用)肉类",
+        "options": [
+          "n.敲打;(心脏等)跳动 v.打败;(心脏等)跳动",
+          "n.功绩，伟业，技艺",
+          "n.席子,垫子",
+          "n.(食用)肉类"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "meat 源自原始印欧语 *med-（脂肪），经古英语 mete（食物，尤指固体食物）演变而来。核心动作为“获取营养的固体物质”，后特指“动物肌肉作为食物”。与 meal（餐食）同源，原指“食物”而非特指肉。",
+        "similarWarning": "meat vs. meet: meat 是“肉”，meet 是“遇见”。meat vs. meal: meal 是“一餐”，meat 是“肉”。meat vs. mean: mean 是“意味着”，meat 是“肉”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mechanic",
+      "word": "mechanic",
+      "phonetic": "/mi'kænik/",
+      "meaning": "n.技工,机修工",
+      "similar": [
+        "mechanical",
+        "mechanism",
+        "ethnic",
+        "merchant"
+      ],
+      "question": {
+        "wordId": "mechanic",
+        "stem": "选择 \"mechanic\" 的正确中文意思：",
+        "correct": "n.技工,机修工",
+        "options": [
+          "n.机械装置,机构;机制",
+          "a.机械的,由机构制成的;机械似的,呆板的",
+          "n.技工,机修工",
+          "a.种族的；人种学的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语mekhane（机器），-ic为名词后缀，表示‘与机器相关的人’，即操作或修理机器的人。",
+        "similarWarning": "mechanical（机械的，与mechanic同根但形容词）；mechanism（机制，抽象名词）；ethnic（民族的，与mechanic仅拼写相似，无词源关联）；merchant（商人，仅首字母相同）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mechanical",
+      "word": "mechanical",
+      "phonetic": "/mi'kænikəl/",
+      "meaning": "a.机械的,由机构制成的;机械似的,呆板的",
+      "similar": [
+        "mechanic",
+        "technical",
+        "mechanism",
+        "chemical",
+        "technician"
+      ],
+      "question": {
+        "wordId": "mechanical",
+        "stem": "选择 \"mechanical\" 的正确中文意思：",
+        "correct": "a.机械的,由机构制成的;机械似的,呆板的",
+        "options": [
+          "n.机械装置,机构;机制",
+          "a.机械的,由机构制成的;机械似的,呆板的",
+          "a.技术(性)的，工艺的；专门性的，专业性的",
+          "n.技工,机修工"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语mekhane（机器），-ical形容词后缀。核心动作是‘通过机器完成’，引申为机械的、自动化的，进而比喻缺乏灵活性、呆板的动作过程。",
+        "similarWarning": "mechanic（n.技工）与mechanical（a.机械的）拼写差异在-ic/-ical，前者指人，后者指属性；technical（a.技术的）侧重技艺，mechanical侧重机器运作；mechanism（n.机制）为名词形式，与mechanical同源但词性不同。",
+        "extendedMeaning": "在考研阅读中常引申为‘机械般的、呆板的’，形容行为或过程缺乏主动思考或变化，如mechanical obedience（盲从）。",
+        "examUsage": "真题考点：mechanical常与technical并列作为干扰项，需注意mechanical强调‘机器运作’或‘无意识重复’，而technical强调‘专门技术’。例句：The work became mechanical after years of repetition.（工作多年重复后变得机械。）"
+      }
+    },
+    {
+      "id": "mechanism",
+      "word": "mechanism",
+      "phonetic": "/'mekənizəm/",
+      "meaning": "n.机械装置,机构;机制",
+      "similar": [
+        "mechanic",
+        "merchandise",
+        "mechanical"
+      ],
+      "question": {
+        "wordId": "mechanism",
+        "stem": "选择 \"mechanism\" 的正确中文意思：",
+        "correct": "n.机械装置,机构;机制",
+        "options": [
+          "a.机械的,由机构制成的;机械似的,呆板的",
+          "n.机械装置,机构;机制",
+          "n.技工,机修工",
+          "n.商品,货物"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语mechane（机器，工具），-ism（名词后缀，表示系统、原理）。核心物理动作：通过机器或系统各部件协同运作产生特定功能。词义演变：从具体‘机械装置’抽象为‘机构’（组织系统）和‘机制’（运作原理）。",
+        "similarWarning": "mechanic（n.技工，机械师）与mechanism拼写差异在结尾-ic vs -ism；merchandise（n.商品，v.推销）拼写差异在merch- vs mech-，且词根不同（merch-与商业相关）；mechanical（adj.机械的，呆板的）为形容词形式，与mechanism词性不同。",
+        "extendedMeaning": "在考研真题中常引申为‘机制’（运作方式、内在原理），如market mechanism（市场机制）、defense mechanism（防御机制），强调系统的内在运作逻辑，非字面机械装置。",
+        "examUsage": "真题考点：固定搭配‘regulatory mechanism’（监管机制），常作为经济类或科技类阅读的核心题眼；干扰项常与‘machine’、‘appliance’混淆，需区分抽象机制与具体机器。"
+      }
+    },
+    {
+      "id": "medal",
+      "word": "medal",
+      "phonetic": "/'medəl/",
+      "meaning": "n.奖章,勋章,纪念章",
+      "similar": [
+        "metal",
+        "pedal",
+        "medical",
+        "feudal",
+        "mental",
+        "deal",
+        "heal",
+        "meat"
+      ],
+      "question": {
+        "wordId": "medal",
+        "stem": "选择 \"medal\" 的正确中文意思：",
+        "correct": "n.奖章,勋章,纪念章",
+        "options": [
+          "n.奖章,勋章,纪念章",
+          "n.金属,金属制品",
+          "n.踏板 v.踩踏板,骑自行车",
+          "a.医学的，医疗的，医药的；内科的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"medalia\"（小硬币，原指金属块），词根\"metallum\"（金属）的变体。核心物理动作：一个由金属制成的、用于表彰的圆形小物件，本质是“金属纪念品→奖章”。\",\n  \"similarWarning\": \"metal（金属，n.）与medal差一字母\"a\"→\"t\"，metal是材料，medal是制品；pedal（踏板）首字母p替换m，词义无关；medical（医学的）多字母\"ic\"，词根不同。\",\n  \"extendedMeaning\": \"\",\n  \"examUsage\": \"\"\n}",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "medical",
+      "word": "medical",
+      "phonetic": "/'medikəl/",
+      "meaning": "a.医学的，医疗的，医药的；内科的",
+      "similar": [
+        "medieval",
+        "medal",
+        "musical",
+        "radical",
+        "numerical",
+        "chemical",
+        "dedicate",
+        "judicial"
+      ],
+      "question": {
+        "wordId": "medical",
+        "stem": "选择 \"medical\" 的正确中文意思：",
+        "correct": "a.医学的，医疗的，医药的；内科的",
+        "options": [
+          "a.音乐的;有音乐才能的 n.音乐片",
+          "n.奖章,勋章,纪念章",
+          "a.中世纪的,中古(时代)的,老式的,原始的",
+          "a.医学的，医疗的，医药的；内科的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 medicus（医生），词根 med- 意为“治疗”。-ical 为形容词后缀，整体表示“与治疗相关的”，即医学的、医疗的。",
+        "similarWarning": "medieval（中世纪的）：med-（中间）+ ieval（时代），与 medical 的 med-（治疗）不同。medal（奖章）：med-（金属），无治疗义。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "medicine",
+      "word": "medicine",
+      "phonetic": "/'medisin/",
+      "meaning": "n.内服药,医药;医术;医学,内科学",
+      "similar": [
+        "divine",
+        "medical",
+        "dedicate",
+        "feminine",
+        "meditate"
+      ],
+      "question": {
+        "wordId": "medicine",
+        "stem": "选择 \"medicine\" 的正确中文意思：",
+        "correct": "n.内服药,医药;医术;医学,内科学",
+        "options": [
+          "a.神的，神授的，天赐的；极好的，极美的",
+          "vt.奉献;献身于",
+          "n.内服药,医药;医术;医学,内科学",
+          "a.医学的，医疗的，医药的；内科的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'medicina'（医术），词根 'med-' 意为“治疗、治愈”，核心动作是“通过药物或手段使身体恢复健康”。",
+        "similarWarning": "divine（神圣的；d-神性 vs m-医疗）、medical（医学的；-ical形容词后缀 vs -icine名词后缀）、dedicate（奉献；de-强调+ dic-说 vs med-治疗）、feminine（女性的；fem-女性 vs med-治疗）、meditate（冥想；-itate动词后缀 vs -icine名词后缀）。",
+        "extendedMeaning": "在考研外刊中常引申为“良药、补救措施”，如 'laughter is the best medicine'（笑是良药）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "medieval",
+      "word": "medieval",
+      "phonetic": "/ˌmedi'i:vəl/",
+      "meaning": "a.中世纪的,中古(时代)的,老式的,原始的",
+      "similar": [
+        "medical",
+        "federal"
+      ],
+      "question": {
+        "wordId": "medieval",
+        "stem": "选择 \"medieval\" 的正确中文意思：",
+        "correct": "a.中世纪的,中古(时代)的,老式的,原始的",
+        "options": [
+          "a.联邦的;联邦制的;联合的;同盟的",
+          "a.医学的，医疗的，医药的；内科的",
+          "a.中世纪的,中古(时代)的,老式的,原始的",
+          "v.拍手,拍,轻拍 n.拍(手),掌声,霹雳声"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "由拉丁语medius（中间）和aevum（时代）组合，字面意为“中间的时代”，指公元5-15世纪欧洲文艺复兴前的历史时期。核心动作：处于古代与现代之间的时代。",
+        "similarWarning": "形近词对比：\n- medical（医学的）：medic-（治愈）+ -al，与medieval仅差一个字母，但词根不同。\n- federal（联邦的）：feder-（联盟）+ -al，拼写相似但词源无关。",
+        "extendedMeaning": "在考研中可引申为“原始的、过时的”，如medieval methods（原始方法），强调落后于时代。",
+        "examUsage": "考点：常作为背景词出现在历史、文化类阅读中，无特殊干扰项。"
+      }
+    },
+    {
+      "id": "meditate",
+      "word": "meditate",
+      "phonetic": "/'mediteit/",
+      "meaning": "v.想,考虑,(尤指宗教上的)沉思,冥想",
+      "similar": [
+        "dedicate",
+        "hesitate",
+        "meditation",
+        "immediate",
+        "estate",
+        "agitate",
+        "deviate",
+        "dictate"
+      ],
+      "question": {
+        "wordId": "meditate",
+        "stem": "选择 \"meditate\" 的正确中文意思：",
+        "correct": "v.想,考虑,(尤指宗教上的)沉思,冥想",
+        "options": [
+          "n.熟虑;(尤指宗教的)默想,沉思;(pl.)冥想录",
+          "v.想,考虑,(尤指宗教上的)沉思,冥想",
+          "vt.奉献;献身于",
+          "v.犹豫,踌躇;含糊,支吾"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根med-（思考）+ -it-（连接成分）+ -ate（动词后缀），核心动作是“进行深度思考”。源于拉丁语meditari（沉思，反复思考），与希腊语medesthai（关心）同源，强调长时间专注的内心活动。",
+        "similarWarning": "形近词对比：\n- dedicate（de-向下+dict说+ate→宣告奉献），meditate（med思考+itate→沉思），差异在med-/dict-词根。\n- hesitate（haes-粘着+itate→犹豫不决），meditate（med-思考+itate→冥想），差异在haes-/med-。\n- immediate（in-无+medi中间+ate→无中介的→立即），meditate（med-思考+itate→思考），差异在medi-/med-。",
+        "extendedMeaning": "考研僻义：v. 仔细考虑，谋划（非宗教语境下，指对计划、问题等进行深入思考）。如：meditate revenge（蓄谋报复）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "meditation",
+      "word": "meditation",
+      "phonetic": "/ˌmedɪ'teɪʃn/",
+      "meaning": "n.熟虑;(尤指宗教的)默想,沉思;(pl.)冥想录",
+      "similar": [
+        "meditate",
+        "dictation",
+        "education",
+        "imitation",
+        "federation",
+        "indication",
+        "invitation",
+        "limitation"
+      ],
+      "question": {
+        "wordId": "meditation",
+        "stem": "选择 \"meditation\" 的正确中文意思：",
+        "correct": "n.熟虑;(尤指宗教的)默想,沉思;(pl.)冥想录",
+        "options": [
+          "n.教育,培养,训练",
+          "v.想,考虑,(尤指宗教上的)沉思,冥想",
+          "n.熟虑;(尤指宗教的)默想,沉思;(pl.)冥想录",
+          "n.听写,口述;命令"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根‘med-’（思考） + 后缀‘-ation’（行为/结果）。核心动作为‘深思’：从古拉丁语‘meditari’（思考、计划）演变，强调反复、专注的内心思维过程，区别于普通‘think’的随意性。",
+        "similarWarning": "meditation vs dictation：前者含‘med-’（思考），后者含‘dict-’（说），词根差异；meditation vs imitation：前者‘med-’（思考），后者‘imit-’（模仿），字母‘m’与‘i’互换。",
+        "extendedMeaning": "在考研阅读中常引申为‘深度反思’或‘内省’，如‘meditation on life’（对人生的深刻思考），非仅宗教冥想。",
+        "examUsage": "常考搭配‘meditation on sth.’（对…的沉思），真题例句：‘The book is a meditation on the nature of time.’（本书是对时间本质的沉思。）注意与‘contemplation’（凝视、沉思）的细微区别。"
+      }
+    },
+    {
+      "id": "medium",
+      "word": "medium",
+      "phonetic": "/'mi:diəm/",
+      "meaning": "n.(pl.media)媒体,方法,媒介,介质 a.中等的",
+      "similar": [],
+      "question": {
+        "wordId": "medium",
+        "stem": "选择 \"medium\" 的正确中文意思：",
+        "correct": "n.(pl.media)媒体,方法,媒介,介质 a.中等的",
+        "options": [
+          "n.(pl.media)媒体,方法,媒介,介质 a.中等的",
+          "n.艺术家，美术家；(某方面的)能手",
+          "ad.1.(表示方法、手段、状态)怎样；如何",
+          "n.雷(声);轰隆声 v.打雷;大声说,吼叫"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 medium（中间），由 medius（中间的）+ -ium（名词后缀）构成。核心动作/画面：处于两个端点之间的位置。→ 作为名词：媒介（连接两端）、介质（物质中间）、方法（中间途径）；作为形容词：中等的（介于大小之间）。",
+        "similarWarning": "",
+        "extendedMeaning": "【高分引申】1. 媒介/媒体（尤指新闻传播渠道，如 social media）；2. 环境/介质（如 growth medium 培养基）；3. 通灵者（灵媒，罕见但出现）。",
+        "examUsage": "【真题考点】1. 复数形式 media 为高频考点，注意其作主语时谓语动词单复数（media are→强调多种媒体）；2. 常见搭配：medium of exchange（交换媒介，经济类阅读高频）; a medium size（中等大小）。"
+      }
+    },
+    {
+      "id": "melody",
+      "word": "melody",
+      "phonetic": "/'melədi/",
+      "meaning": "n.旋律，曲调；悦耳的音乐",
+      "similar": [
+        "melon",
+        "somebody"
+      ],
+      "question": {
+        "wordId": "melody",
+        "stem": "选择 \"melody\" 的正确中文意思：",
+        "correct": "n.旋律，曲调；悦耳的音乐",
+        "options": [
+          "vt.崇拜,敬慕,爱慕；非常喜欢",
+          "pron.某人，有人 n.重要人物",
+          "n.甜瓜",
+          "n.旋律，曲调；悦耳的音乐"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自希腊语melōidia（歌唱），由melos（歌曲、曲调）与ōidē（歌）组合，核心动作为“声音的序列流动”，强调音符在时间上的有序排列。",
+        "similarWarning": "melon（n.瓜）与melody拼写差异在尾部‘-on’ vs ‘-ody’，词义无关联；memory（n.记忆）首字母同，但词根不同（memor-记忆），易混时注意‘ody’特指声音序列。",
+        "extendedMeaning": "在考研阅读中可引申为“悦耳的声音序列”，如‘the melody of a bird’s song’，但不常见；更常作为抽象比喻，如‘the melody of life’（生活的和谐节奏）。",
+        "examUsage": "常见于完形填空或阅读的语境题中，与rhythm（节奏）、harmony（和声）构成音乐类词汇群，需区分：melody侧重主旋律，rhythm侧重节拍模式。无固定高频搭配。"
+      }
+    },
+    {
+      "id": "melon",
+      "word": "melon",
+      "phonetic": "/'melən/",
+      "meaning": "n.甜瓜",
+      "similar": [
+        "belong",
+        "melody",
+        "melt",
+        "memo",
+        "moon",
+        "lemon",
+        "nylon"
+      ],
+      "question": {
+        "wordId": "melon",
+        "stem": "选择 \"melon\" 的正确中文意思：",
+        "correct": "n.甜瓜",
+        "options": [
+          "v.(使)融化,(使)熔化",
+          "v.(to)属于,附属,隶属;应归入(类别,范畴等)",
+          "n.甜瓜",
+          "n.旋律，曲调；悦耳的音乐"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "melon源自希腊语mēlon（苹果/果实），后拉丁化特指甜瓜。词根mel-（甜）与apple同源，核心物理动作为“甜美的果实”。",
+        "similarWarning": "belong（属于，be-+long）vs melon（me-+lon）；lemon（柠檬，le-+mon）vs melon（me-+lon），注意首字母l/m差异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "melt",
+      "word": "melt",
+      "phonetic": "/melt/",
+      "meaning": "v.(使)融化,(使)熔化",
+      "similar": [
+        "belt",
+        "meat",
+        "melon",
+        "merit",
+        "smell"
+      ],
+      "question": {
+        "wordId": "melt",
+        "stem": "选择 \"melt\" 的正确中文意思：",
+        "correct": "v.(使)融化,(使)熔化",
+        "options": [
+          "n.(皮)带,腰带;地带",
+          "n.(食用)肉类",
+          "v.(使)融化,(使)熔化",
+          "n.甜瓜"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自古英语meltan，核心物理动作是固体受热变为液体。词根与拉丁语mollire（软化）同源，本质是“变软→液化”。",
+        "similarWarning": "belt（皮带） vs melt（融化）：b替换m，词义无关。meat（肉） vs melt：a替换e，名词vs动词。meet（遇见） vs melt：e替换l，双e vs单e。melon（瓜） vs melt：on替换t，水果vs融化。merit（优点） vs melt：rit替换lt，抽象vs物理。smell（闻） vs melt：s开头，感官vs状态变化。",
+        "extendedMeaning": "考研僻义：1.（态度、感情）软化，消融。如：The audience's hostility melted away.（观众的敌意消失了。）2.（人群、物体）逐渐消失，消散。如：The crowd melted after the speech.（演讲后人群散去了。）",
+        "examUsage": "真题考点：melt与dissolve辨析：melt侧重固体因热融化（如冰、金属），dissolve侧重固体在液体中溶解（如糖、盐）。干扰项常混淆两者。固定搭配：melt into（融入、化为），如：melt into the background（消失在背景中）。"
+      }
+    },
+    {
+      "id": "membership",
+      "word": "membership",
+      "phonetic": "/'membəʃɪp/",
+      "meaning": "n.会员资格,成员资格",
+      "similar": [
+        "leadership",
+        "ownership"
+      ],
+      "question": {
+        "wordId": "membership",
+        "stem": "选择 \"membership\" 的正确中文意思：",
+        "correct": "n.会员资格,成员资格",
+        "options": [
+          "n.会员资格,成员资格",
+          "n.所有(权),所有制",
+          "n.领导",
+          "n.合同,条约,公约,协定"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "member（成员）+ -ship（抽象名词后缀，表身份、状态或资格）→ 成员的身份或资格状态。",
+        "similarWarning": "leadership（领导力/领导层：leader+ship，强调领导能力或领导群体）；ownership（所有权：owner+ship，强调物主身份或产权）。三者后缀相同，核心区别在前缀词根：member（成员）、leader（领导者）、owner（所有者）。",
+        "extendedMeaning": "在考研中可引申为“全体成员”或“会员总数”，如‘a large membership’（庞大的会员群体）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "memo",
+      "word": "memo",
+      "phonetic": "/'meməu/",
+      "meaning": "n.(memorandum)备忘录",
+      "similar": [
+        "lemon",
+        "melon",
+        "tempo"
+      ],
+      "question": {
+        "wordId": "memo",
+        "stem": "选择 \"memo\" 的正确中文意思：",
+        "correct": "n.(memorandum)备忘录",
+        "options": [
+          "n.柠檬",
+          "n.(memorandum)备忘录",
+          "n.节奏,行进速度;(音乐的)速度",
+          "n.甜瓜"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "memo是memorandum的缩写，源于拉丁语memorare（提及、记住），核心动作是“记录以提醒”。词根memor-（记忆）加上后缀-um（名词），本义为“需要记住的事项”，引申为书面形式的“备忘录”。",
+        "similarWarning": "memory（记忆，名词）与memo拼写差异在末尾-y，memo为-o结尾；lemon（柠檬）与memo开头字母l vs m，中间字母e相同但结尾不同；melon（瓜）与memo仅差一个字母l的位置；tempo（节奏）与memo拼写结构不同，首字母t vs m，结尾po vs mo。",
+        "extendedMeaning": "在考研真题中，memo可指代“内部通知”或“简报”，如“interoffice memo”（部门间通知），强调非正式但需存档的沟通文件。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "memorial",
+      "word": "memorial",
+      "phonetic": "/mə'mɔ:rɪəl/",
+      "meaning": "a.记忆的,纪念的 n.纪念物,纪念碑,纪念馆",
+      "similar": [
+        "aerial",
+        "mortal",
+        "serial",
+        "removal",
+        "material"
+      ],
+      "question": {
+        "wordId": "memorial",
+        "stem": "选择 \"memorial\" 的正确中文意思：",
+        "correct": "a.记忆的,纪念的 n.纪念物,纪念碑,纪念馆",
+        "options": [
+          "a.(在或来自)空中的，航空的 n.天线",
+          "a.记忆的,纪念的 n.纪念物,纪念碑,纪念馆",
+          "a.致命的;终有一死的;人世间的 n.凡人",
+          "n.连载小说，连续剧；连载刊物 a.连续的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语memoria（记忆），词根memor（记忆）+ -ial（形容词后缀）。核心动作：与记忆相关的事物。本义为“用于纪念的”，引申为纪念物或纪念碑。",
+        "similarWarning": "aerial（空气的，航空的）：aerial vs memorial，区别在aer-（空气）与memor-（记忆）。memory（记忆）：memorial是形容词/名词，memory是名词。mortal（致命的）：mortal vs memorial，区别在mort-（死亡）与memor-（记忆）。serial（连续的）：serial vs memorial，区别在ser-（连接）与memor-。removal（移除）：removal vs memorial，区别在re-（回）+ mov-（移动）与memor-。material（材料）：material vs memorial，区别在mater-（物质）与memor-。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "menace",
+      "word": "menace",
+      "phonetic": "/'menəs/",
+      "meaning": "vt./n.有危险性的人(或物)；威胁，威吓",
+      "similar": [
+        "fence",
+        "hence",
+        "manage",
+        "senate"
+      ],
+      "question": {
+        "wordId": "menace",
+        "stem": "选择 \"menace\" 的正确中文意思：",
+        "correct": "vt./n.有危险性的人(或物)；威胁，威吓",
+        "options": [
+          "ad.从此,今后;因此",
+          "vt./n.有危险性的人(或物)；威胁，威吓",
+          "v.经营,管理,处理;设法,对付;操纵,运用",
+          "n.篱笆;围栏;剑术 v.用篱笆瓦围住;击剑"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语minacia（威胁），与minari（突出、威胁）同源，核心物理动作是“像悬崖一样突出”，引申为“迫近的危险”。",
+        "similarWarning": "形近词对比：fence（栅栏，f-围栏）、hence（因此，h-连接）、peace（和平，p-平息）、manage（管理，-age名词后缀）、senate（参议院，sen-老人）。",
+        "extendedMeaning": "在考研外刊中常作名词，表示“潜在的危害或威胁源”，如“the menace of climate change”（气候变化的威胁），而非仅指具体的人或物。",
+        "examUsage": "真题考点：常与pose/represent连用，如“pose a menace to”（对…构成威胁），作为干扰项时易与threat混淆，但menace更强调不祥的预兆。"
+      }
+    },
+    {
+      "id": "mend",
+      "word": "mend",
+      "phonetic": "/mend/",
+      "meaning": "v.修理,缝补;改正,改进",
+      "similar": [
+        "amend",
+        "bend",
+        "menu",
+        "tend",
+        "blend",
+        "means",
+        "trend"
+      ],
+      "question": {
+        "wordId": "mend",
+        "stem": "选择 \"mend\" 的正确中文意思：",
+        "correct": "v.修理,缝补;改正,改进",
+        "options": [
+          "v.修理,缝补;改正,改进",
+          "vt.修改，修订，改进",
+          "n.菜单",
+          "v.(使)弯曲;屈从,屈服 n.弯曲(处),曲折处"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'emendare'（改正），由 'e-'（出）+ 'mendum'（错误）构成，核心物理动作是 '移除错误'。词义从 '改正' 延伸至 '修理'，本质是修复缺陷使其恢复正确状态。",
+        "similarWarning": "amend（v.修正，修订）：a-（加强）+ mend，强调正式修改（如法律、文本）。mend 更侧重物理修补或日常改进。",
+        "extendedMeaning": "在考研中常引申为 '改善，好转'，如 'mend one's ways'（改过自新），或 'mend fences'（修复关系）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mental",
+      "word": "mental",
+      "phonetic": "/'mentəl/",
+      "meaning": "a.精神的,思想的,心理的,智力的,脑力的",
+      "similar": [
+        "metal",
+        "dental",
+        "central",
+        "medal",
+        "denial",
+        "entail",
+        "manual",
+        "mortal"
+      ],
+      "question": {
+        "wordId": "mental",
+        "stem": "选择 \"mental\" 的正确中文意思：",
+        "correct": "a.精神的,思想的,心理的,智力的,脑力的",
+        "options": [
+          "a.精神的,思想的,心理的,智力的,脑力的",
+          "a.中心的,中央的,中枢的;主要的",
+          "a.牙齿的；牙科(用)的",
+          "n.金属,金属制品"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'mens'（心智），通过 'mentalis' 演变而来，-al 为形容词后缀，核心动作是“与心智相关”的脑力活动，区别于体力或物理动作。",
+        "similarWarning": "metal（金属）：m-e-n-t-a-l vs m-e-t-a-l，字母n的差异，表示材质；dental（牙齿的）：d-e-n-t-a-l vs m-e-n-t-a-l，首字母d与m不同，指牙齿相关；central（中心的）：c-e-n-t-r-a-l vs m-e-n-t-a-l，字母r和c替换，指位置中心。",
+        "extendedMeaning": "在考研中常引申为“精神上的、心理层面的”，如 'mental health'（心理健康），或“智力的”，如 'mental arithmetic'（心算），区别于物理或生理层面。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mention",
+      "word": "mention",
+      "phonetic": "/'menʃən/",
+      "meaning": "v./n.提及,说起",
+      "similar": [
+        "motion",
+        "pension",
+        "section",
+        "tension",
+        "attention",
+        "dimension",
+        "intention",
+        "invention"
+      ],
+      "question": {
+        "wordId": "mention",
+        "stem": "选择 \"mention\" 的正确中文意思：",
+        "correct": "v./n.提及,说起",
+        "options": [
+          "v./n.提及,说起",
+          "n.运动,动;提议,动议 v.提议,动议",
+          "n.养老金,年金",
+          "n.章节,部分;地区,部门,科;截面,剖面"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'mentio'（提及），词根 'mens'（心智，思考）的变体 + 后缀 '-ion'（名词化）。核心动作是 '通过思考或言语将某事物从脑海中唤起'，即'提及'。",
+        "similarWarning": "mention vs. motion：mention 含 'men'（思考），指言语提及；motion 含 'mot'（移动），指动作或动议。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "menu",
+      "word": "menu",
+      "phonetic": "/'menju:/",
+      "meaning": "n.菜单",
+      "similar": [
+        "mend",
+        "amend",
+        "means",
+        "minus"
+      ],
+      "question": {
+        "wordId": "menu",
+        "stem": "选择 \"menu\" 的正确中文意思：",
+        "correct": "n.菜单",
+        "options": [
+          "n.菜单",
+          "v.修理,缝补;改正,改进",
+          "n.方法,手段",
+          "vt.修改，修订，改进"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'minutus'（小的），通过法语 'menu' 演变而来，原指详细的清单或小册子，核心动作是‘列出详细选项’。词根 'min-' 表示‘小’，与 'minute'（微小的）同源。",
+        "similarWarning": "mend（修理）、amend（修正，修改）、means（方法，手段）、minus（减去，负数）。差异：'menu' 以 'u' 结尾，意为‘菜单’；'mend' 以 'd' 结尾，意为‘修理’；'amend' 是 'a-' + 'mend'，意为‘修正’；'means' 以 'ans' 结尾，意为‘方法’；'minus' 以 'us' 结尾，意为‘减去’。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "merchandise",
+      "word": "merchandise",
+      "phonetic": "/'mə:tʃəndaiz/",
+      "meaning": "n.商品,货物",
+      "similar": [
+        "mechanism"
+      ],
+      "question": {
+        "wordId": "merchandise",
+        "stem": "选择 \"merchandise\" 的正确中文意思：",
+        "correct": "n.商品,货物",
+        "options": [
+          "n.油船",
+          "n.商品,货物",
+          "n.机械装置,机构;机制",
+          "v.破坏,摧毁,消灭"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语merx（商品）的动名词化形式mercare（交易），后缀-ise表动词化/名词化。核心动作：通过市场（market）进行交易流通的货物。",
+        "similarWarning": "形近词对比：merchandise（商品）vs mechanism（机制）。差异：merch-（商品词根）vs mech-（机器词根）；-andise（名词后缀）vs -anism（抽象名词后缀）。辨析：merchandise侧重流通商品，mechanism侧重机械运作原理。",
+        "extendedMeaning": "考研僻义：在真题中可指代‘交易行为’或‘推销活动’，如‘merchandise the new product’（推销新产品）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "merchant",
+      "word": "merchant",
+      "phonetic": "/'mə:tʃənt/",
+      "meaning": "n.商人,零售商",
+      "similar": [
+        "percent",
+        "servant",
+        "mechanic"
+      ],
+      "question": {
+        "wordId": "merchant",
+        "stem": "选择 \"merchant\" 的正确中文意思：",
+        "correct": "n.商人,零售商",
+        "options": [
+          "n.技工,机修工",
+          "n.仆人",
+          "n.(per cent)百分之...的",
+          "n.商人,零售商"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'mercari'（交易），词根 'merc-'（商品，交易）+-ant（表示人）。核心物理动作是“进行商品交易的人”，即商人。",
+        "similarWarning": "percent（百分比）: per-（每）+ cent（百）→ 每百中的一份，与交易行为无关；servant（仆人）: serv-（服务）+-ant（人）→ 提供服务的人，与买卖无关；mechanic（技工）: mechan-（机械）+-ic（人）→ 操作机械的人，与商业无关。差异在于词根 'merc-' 特指交易。",
+        "extendedMeaning": "在考研中常引申为“批发商”或“贸易商”，强调大宗交易而非零售，如 'merchant bank'（商业银行，专指为企业提供融资服务的银行）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mercury",
+      "word": "mercury",
+      "phonetic": "/'mɜ:kjəri/",
+      "meaning": "n.水银,汞",
+      "similar": [
+        "mercy",
+        "merry"
+      ],
+      "question": {
+        "wordId": "mercury",
+        "stem": "选择 \"mercury\" 的正确中文意思：",
+        "correct": "n.水银,汞",
+        "options": [
+          "a.欢乐的,愉快的",
+          "n.仁慈,怜悯,宽恕",
+          "n.水银,汞",
+          "n.轴承；忍受；关系，影响；举止；方向"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语Mercurius（墨丘利，罗马神话中的信使神，以快速著称），因水银（汞）的流动性强、易挥发，且古代常被用于炼金术，故借用此神名。词根mer-（贸易、商品）与mercury（水银）无直接词源关联，但可联想水银的“活跃”特性与信使神的“敏捷”呼应。",
+        "similarWarning": "mercy（n.仁慈，怜悯）与mercury相比，结尾-y替换为-cy，词义完全不同：mercy源自拉丁语merces（报酬，怜悯），强调宽恕；mercury则指金属。merry（adj.快乐的）结尾-y替换为-ry，词源古英语myrge（愉快的），与水银无关联。",
+        "extendedMeaning": "考研中常引申为“水银柱；温度计；精神活力”，如：The mercury is rising.（气温在上升/情绪高涨。）此外，在科技语境中可指“汞柱压力计”或“水银开关”。",
+        "examUsage": "高频搭配：mercury poisoning（汞中毒）；mercury vapor（汞蒸气）。真题中可能作为环境类或科技类阅读的干扰项，如：The toxic mercury in fish poses health risks.（鱼中的有毒汞构成健康风险。）"
+      }
+    },
+    {
+      "id": "mercy",
+      "word": "mercy",
+      "phonetic": "/'mə:si/",
+      "meaning": "n.仁慈,怜悯,宽恕",
+      "similar": [
+        "merry",
+        "mercury",
+        "merely",
+        "mere",
+        "ferry",
+        "march",
+        "march",
+        "marry"
+      ],
+      "question": {
+        "wordId": "mercy",
+        "stem": "选择 \"mercy\" 的正确中文意思：",
+        "correct": "n.仁慈,怜悯,宽恕",
+        "options": [
+          "n.水银,汞",
+          "adv.仅仅，只不过",
+          "a.欢乐的,愉快的",
+          "n.仁慈,怜悯,宽恕"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语merces（报酬、慈悲），原指“因怜悯而给予的报酬”，后演变为“对不幸者的仁慈、宽恕”。核心动作：因同情而施予恩惠。",
+        "similarWarning": "merry（快乐的，adj.） vs mercy：merry含“rry”表欢乐，mercy含“cy”表慈悲。merely（仅仅，adv.） vs mercy：merely是mere+ly，强调程度，mercy是名词。",
+        "extendedMeaning": "考研中常引申为“（法庭或上级的）宽恕、从轻处理”，如beg for mercy（请求宽恕）；或指“（命运的）仁慈、恩惠”，如at the mercy of（任由…摆布）。",
+        "examUsage": "核心搭配：at the mercy of（完全受…支配，听凭…摆布），真题中常作为阅读理解题眼，考查“受制于”的被动含义。例：The ship was at the mercy of the storm.（船在暴风雨中失去控制。）"
+      }
+    },
+    {
+      "id": "mere",
+      "word": "mere",
+      "phonetic": "/miə/",
+      "meaning": "a.纯粹的;仅仅,只不过",
+      "similar": [
+        "merge",
+        "metre",
+        "emerge",
+        "merely",
+        "mercy",
+        "merit",
+        "merry",
+        "nerve"
+      ],
+      "question": {
+        "wordId": "mere",
+        "stem": "选择 \"mere\" 的正确中文意思：",
+        "correct": "a.纯粹的;仅仅,只不过",
+        "options": [
+          "n.(meter)米，公尺；仪表，计量器",
+          "vt.显现,浮现;暴露;形成;",
+          "a.纯粹的;仅仅,只不过",
+          "v.(使)结合，(使)合并，(使)合为一体"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根mer-（闪烁、发光）→ 原指“闪闪发光的、纯粹的”，后引申为“无掺杂的、仅仅是”。核心动作：光洁无杂质的表面。",
+        "similarWarning": "merge（v.合并，融合）: mere vs merge，差一个字母g，merge意为“融入”，而mere强调“纯粹、仅仅”。\nmeet（v.遇见）: mere vs meet，元音不同，mere指“仅仅”，meet指“相遇”。",
+        "extendedMeaning": "在考研中，mere常以“仅仅、只不过”出现，无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "merely",
+      "word": "merely",
+      "phonetic": "/'miəli/",
+      "meaning": "adv.仅仅，只不过",
+      "similar": [
+        "mere",
+        "rely",
+        "mercy",
+        "merry",
+        "barely",
+        "rarely"
+      ],
+      "question": {
+        "wordId": "merely",
+        "stem": "选择 \"merely\" 的正确中文意思：",
+        "correct": "adv.仅仅，只不过",
+        "options": [
+          "adv.仅仅，只不过",
+          "a.纯粹的;仅仅,只不过",
+          "n.仁慈,怜悯,宽恕",
+          "v.(on)依赖,依靠;信赖,信任"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语merus（纯粹的，未混合的），通过后缀-ly转化为副词。核心动作是“纯粹地”，强调没有掺杂其他成分，引申为“仅仅，只不过”，表示程度上的限定或范围上的缩小。",
+        "similarWarning": "merely vs. barely: barely强调“几乎不”，带有否定意味；merely是“仅仅”，强调数量少或程度低。merely vs. rarely: rarely指“很少”，表频率；merely表限定。",
+        "extendedMeaning": "",
+        "examUsage": "常见搭配：not merely...but (also)...（不仅……而且……），用于强调递进关系，真题中常作为逻辑连接词出现。"
+      }
+    },
+    {
+      "id": "merge",
+      "word": "merge",
+      "phonetic": "/mə:dʒ/",
+      "meaning": "v.(使)结合，(使)合并，(使)合为一体",
+      "similar": [
+        "emerge",
+        "mere",
+        "verge",
+        "edge",
+        "urge",
+        "forge",
+        "hedge",
+        "mercy"
+      ],
+      "question": {
+        "wordId": "merge",
+        "stem": "选择 \"merge\" 的正确中文意思：",
+        "correct": "v.(使)结合，(使)合并，(使)合为一体",
+        "options": [
+          "v.(使)结合，(使)合并，(使)合为一体",
+          "vt.显现,浮现;暴露;形成;",
+          "a.纯粹的;仅仅,只不过",
+          "n.边,边缘 v.濒临"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 merg-（浸入、沉没）+ 动词后缀 -e。核心动作是“浸入后融为一体”，引申为两个或多个实体结合为一个整体。",
+        "similarWarning": "emerge（e-出 + merge → 从浸没中出来 → 浮现）；merge 是进入融合，emerge 是出来显现。",
+        "extendedMeaning": "在商业、政治语境中常表“合并、兼并”，如 merge companies（公司合并）；也可表“逐渐融入、混合”，如 merge into the crowd（融入人群）。",
+        "examUsage": "真题高频搭配：merge with（与…合并）；merge into（合并成）。常见考点：与 combine 辨析——merge 强调融合后失去各自独立性，combine 侧重联合但保留特性。"
+      }
+    },
+    {
+      "id": "merit",
+      "word": "merit",
+      "phonetic": "/'merit/",
+      "meaning": "n.优点,价值,功绩 v.值得,应得",
+      "similar": [
+        "metric",
+        "permit",
+        "edit",
+        "emit",
+        "exit",
+        "meat",
+        "melt",
+        "mere"
+      ],
+      "question": {
+        "wordId": "merit",
+        "stem": "选择 \"merit\" 的正确中文意思：",
+        "correct": "n.优点,价值,功绩 v.值得,应得",
+        "options": [
+          "n.优点,价值,功绩 v.值得,应得",
+          "a.米制的,公制的",
+          "v.许可,允许 n.许可证,执照",
+          "v.编辑,校订"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'meritum'（应得之物），词根 'mer-'（分配、应得）。核心动作是“应得的回报/价值”，即因品质或行为而应获得认可或奖励。",
+        "similarWarning": "merit vs. metric: merit 强调价值/优点；metric 指度量标准（如公制）。permit: per-（通过）+ mit（发送）= 允许，与 merit 无直接关联。edit: e-（出）+ dit（给）= 编辑，拼写相近但意义不同。",
+        "extendedMeaning": "在考研阅读中常作动词，意为“值得（某种对待或评价）”，如 'merit attention'（值得关注），或用作名词指“法律或道德上的应得权益”。",
+        "examUsage": "真题考点：'merit' 常与 'demerit'（缺点）对比出现，如 'The proposal has its merits and demerits.' 注意 'merit' 作动词时后接名词或不定式，如 'merit consideration'（值得考虑），无被动语态。"
+      }
+    },
+    {
+      "id": "merry",
+      "word": "merry",
+      "phonetic": "/'meri/",
+      "meaning": "a.欢乐的,愉快的",
+      "similar": [
+        "ferry",
+        "marry",
+        "mercy",
+        "mercury",
+        "cherry",
+        "merely",
+        "mere",
+        "hurry"
+      ],
+      "question": {
+        "wordId": "merry",
+        "stem": "选择 \"merry\" 的正确中文意思：",
+        "correct": "a.欢乐的,愉快的",
+        "options": [
+          "n.摆渡;渡船;渡口v.摆渡;渡运(人,车或物等)",
+          "n.仁慈,怜悯,宽恕",
+          "v.结婚,嫁,娶",
+          "a.欢乐的,愉快的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语'merige'（欢乐的），与古高地德语'mari'（著名的）同源，核心动作是“充满活力、令人愉悦”，强调一种轻快、欢愉的状态。",
+        "similarWarning": "ferry（渡船） vs marry（结婚） vs mercy（仁慈） vs mercury（水银） vs cherry（樱桃） vs memory（记忆） vs merely（仅仅） vs mere（仅仅的）",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mess",
+      "word": "mess",
+      "phonetic": "/mes/",
+      "meaning": "n.混乱,混杂,脏乱 v.弄脏,弄乱,搞糟",
+      "similar": [
+        "mass",
+        "miss",
+        "moss",
+        "bless",
+        "chess",
+        "guess",
+        "means",
+        "press"
+      ],
+      "question": {
+        "wordId": "mess",
+        "stem": "选择 \"mess\" 的正确中文意思：",
+        "correct": "n.混乱,混杂,脏乱 v.弄脏,弄乱,搞糟",
+        "options": [
+          "n.苔,藓,地衣",
+          "n.大量,众多;团,块;(pl.)群众,民众;质量",
+          "n.混乱,混杂,脏乱 v.弄脏,弄乱,搞糟",
+          "n.小姐 v. 思念,未击中,错过,漏掉,逃脱"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "mess源自拉丁语missus（投掷、派出），原指餐桌上的一盘食物，后演变为指食堂中的一份餐食。因多人共餐时桌面易显杂乱，引申为“混乱、脏乱”的状态。核心动作：食物被投放后留下的杂乱场面。",
+        "similarWarning": "less（更少）、mass（大量、质量）、miss（错过、想念）、moss（苔藓）、bless（祝福）、chess（国际象棋）、dress（穿衣、连衣裙）、guess（猜测）——这些词与mess在拼写上的差异主要在于首字母或中间元音/辅音不同，需注意区分。",
+        "extendedMeaning": "在考研英语中，mess可作动词表示“弄乱、搞糟”，如mess up（搞砸）；还可作名词指“困境、麻烦”，如in a mess（处于困境）。",
+        "examUsage": "常见搭配：make a mess of（把……搞得一团糟）；mess with（干涉、打扰）。真题例句：The project was in a mess due to poor planning.（由于规划不善，该项目陷入混乱。）"
+      }
+    },
+    {
+      "id": "messenger",
+      "word": "messenger",
+      "phonetic": "/'mesindʒə/",
+      "meaning": "n.送信者,使者,传令兵",
+      "similar": [
+        "passenger",
+        "essence"
+      ],
+      "question": {
+        "wordId": "messenger",
+        "stem": "选择 \"messenger\" 的正确中文意思：",
+        "correct": "n.送信者,使者,传令兵",
+        "options": [
+          "n.送信者,使者,传令兵",
+          "n.乘客,旅客",
+          "n.本质,实质",
+          "n.北,北方a.北方的,北部 ad.向北方,在北方"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古法语'messagier'，由'message'（消息）加上表示人的后缀'-er'变体'-enger'构成。核心动作是“传递消息的人”，即信使或送信者。",
+        "similarWarning": "passenger（乘客）：与messenger拼写相似，但词根不同。passenger源自pass（通过），指“通过的人”；messenger源自message（消息），指“传递消息的人”。essence（本质）：拼写相似但词义无关，注意区分。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "metal",
+      "word": "metal",
+      "phonetic": "/'metəl/",
+      "meaning": "n.金属,金属制品",
+      "similar": [
+        "mental",
+        "medal",
+        "dental",
+        "detail",
+        "mortal",
+        "mutual",
+        "retail",
+        "deal"
+      ],
+      "question": {
+        "wordId": "metal",
+        "stem": "选择 \"metal\" 的正确中文意思：",
+        "correct": "n.金属,金属制品",
+        "options": [
+          "n.金属,金属制品",
+          "a.精神的,思想的,心理的,智力的,脑力的",
+          "n.奖章,勋章,纪念章",
+          "a.牙齿的；牙科(用)的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语metallon，意为‘矿、金属’，原指从地下挖掘出的矿物。词根met-与‘挖掘’相关，引申为‘金属’这一物质类别。",
+        "similarWarning": "metal vs mental（心理的）：metal无n；metal vs medal（奖章）：metal为‘金属’，medal为‘荣誉’；metal vs mortal（致命的）：音似但义异。",
+        "extendedMeaning": "在考研中可指‘金属制品’或‘金属材料’，如‘heavy metal’（重金属音乐/重金属污染），但非核心僻义。",
+        "examUsage": "常见于科技类阅读，如‘metal fatigue’（金属疲劳）、‘metal alloy’（金属合金）。无特殊干扰项考点，故本项略。"
+      }
+    },
+    {
+      "id": "metaphor",
+      "word": "metaphor",
+      "phonetic": "/'metəfə/",
+      "meaning": "n.隐喻，暗喻",
+      "similar": [],
+      "question": {
+        "wordId": "metaphor",
+        "stem": "选择 \"metaphor\" 的正确中文意思：",
+        "correct": "n.隐喻，暗喻",
+        "options": [
+          "n.隐喻，暗喻",
+          "n.无性繁殖，克隆；复制品v.克隆",
+          "n.地狱,阴间;苦境,极大痛苦",
+          "n.合作者,合伙人,合股人,伙伴,舞伴,配偶"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'metaphora'，由 'meta-'（超越）和 '-pherein'（携带）组成，核心动作是把一个词的意义‘携带’到另一个概念上，即用A事物来指代B事物，形成隐含的比较，如‘时间就是金钱’中的‘是’并非字面相等，而是隐喻。这与明喻（simile）用‘像’直接比较不同。",
+        "similarWarning": "形近词对比：metaphor vs. method。method（方法）源自希腊语 'methodos'（meta- + hodos 道路），强调‘遵循路径’；metaphor强调‘意义转移’。拼写差异：metaphor 有 'phor'（携带），method 有 'hod'（道路）。",
+        "extendedMeaning": "考研僻义：在学术语境中可指‘象征’或‘代表性事物’，如‘a metaphor for the human condition’（人类境况的隐喻），不限于语言修辞，也用于指代隐含的文化或社会意义。",
+        "examUsage": "真题考点：常见搭配 'metaphor for sth.' 表示‘某物的隐喻’，在阅读理解中常作为作者观点或文章主旨的题眼，需区分字面义与隐喻义。如真题例句：‘The metaphor of the “global village” has become a cliché.’"
+      }
+    },
+    {
+      "id": "metre",
+      "word": "metre",
+      "phonetic": "/'mi:tə/",
+      "meaning": "n.(meter)米，公尺；仪表，计量器",
+      "similar": [
+        "mere",
+        "centre",
+        "mature",
+        "metric",
+        "retire",
+        "mate",
+        "mute",
+        "litre"
+      ],
+      "question": {
+        "wordId": "metre",
+        "stem": "选择 \"metre\" 的正确中文意思：",
+        "correct": "n.(meter)米，公尺；仪表，计量器",
+        "options": [
+          "n.中心，中央，中间 vt.集中 vi.以..为中心",
+          "n.(meter)米，公尺；仪表，计量器",
+          "a.成熟的,熟的;成年人的 v.(使)成熟",
+          "a.纯粹的;仅仅,只不过"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自希腊语metron（测量）。核心物理动作是“测量长度”。词根metr-（测量）+ -e（后缀），指“测量长度的单位”或“测量用的仪器”。",
+        "similarWarning": "mere（仅仅的）：metre有字母t，mere无t；centre（中心）：centre有字母c和n，metre无；mature（成熟的）：mature有字母a和u，metre无；metric（公制的）：metric是metre的形容词形式，有字母c；retire（退休）：retire有字母r和i，metre无；here（这里）：here无t和m；mate（伙伴）：mate无r和e；more（更多）：more无t和e。",
+        "extendedMeaning": "在考研中，metre常以meter形式出现，表示“仪表、计量器”，如electricity meter（电表），而非仅指长度单位。",
+        "examUsage": "无"
+      }
+    },
+    {
+      "id": "metric",
+      "word": "metric",
+      "phonetic": "/'metrik/",
+      "meaning": "a.米制的,公制的",
+      "similar": [
+        "merit",
+        "metre",
+        "electric",
+        "restrict"
+      ],
+      "question": {
+        "wordId": "metric",
+        "stem": "选择 \"metric\" 的正确中文意思：",
+        "correct": "a.米制的,公制的",
+        "options": [
+          "a.米制的,公制的",
+          "n.(meter)米，公尺；仪表，计量器",
+          "a.电的,导电的,电动的",
+          "n.优点,价值,功绩 v.值得,应得"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 meter/mens-（测量）+ -ic（形容词后缀）。核心动作：用于测量的→米制的，公制的。与metre（米）同源，强调以米为基本单位的测量体系。",
+        "similarWarning": "merit（优点，价值）：字母差异为 -ic vs -it，词根不同（mer- vs meter-），义为值得称赞的品质。metre（米，单位）：拼写相似，但metric是形容词，metre是名词。electric（电的）：词根electr-（琥珀→电），与测量无关。restrict（限制）：词根re-（回）+ strict（拉紧），义为约束，与度量无直接关联。",
+        "extendedMeaning": "在考研或学术语境中，metric可引申为“度量标准、衡量指标”，如：The company uses multiple metrics to evaluate performance.（公司使用多项指标评估绩效。）此义常见于管理类、科技类阅读文章。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "metropolitan",
+      "word": "metropolitan",
+      "phonetic": "/ˌmetrə'pɔlitən/",
+      "meaning": "a.首都的,主要都市的,大城市",
+      "similar": [],
+      "question": {
+        "wordId": "metropolitan",
+        "stem": "选择 \"metropolitan\" 的正确中文意思：",
+        "correct": "a.首都的,主要都市的,大城市",
+        "options": [
+          "n.罗盘,指南针;(pl.)圆规",
+          "a.首都的,主要都市的,大城市",
+          "v.(on)集中,专心;浓缩 n.浓缩物",
+          "a.文学上的,文学的;精通文学的,从事写作的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源于希腊语metropolis（母城），由meter（母亲）+ polis（城市）构成，本义是“母亲城市”，即殖民者心中的原城邦。引申为首都或主要大都市的，强调核心地位。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中，metropolitan常指“大都会区的”，强调包含中心城区及周边卫星城、郊区的整个都市圈，而非仅指市中心。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "microphone",
+      "word": "microphone",
+      "phonetic": "/'maikrəfəun/",
+      "meaning": "n.话筒,扩音器",
+      "similar": [
+        "microscope"
+      ],
+      "question": {
+        "wordId": "microphone",
+        "stem": "选择 \"microphone\" 的正确中文意思：",
+        "correct": "n.话筒,扩音器",
+        "options": [
+          "n.播送,发射;传动,传送",
+          "n.段,节;小新闻,短评",
+          "n.话筒,扩音器",
+          "n.显微镜"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "micro-（小）+ phone（声音）→ 将声音变小（实则通过技术将小声音放大）的设备，即话筒。",
+        "similarWarning": "microscope：micro-（小）+ scope（看）→ 显微镜，观察微小物体的设备。两者区别在于 phone（声音）与 scope（看）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "microscope",
+      "word": "microscope",
+      "phonetic": "/'maikrəskəup/",
+      "meaning": "n.显微镜",
+      "similar": [
+        "microphone"
+      ],
+      "question": {
+        "wordId": "microscope",
+        "stem": "选择 \"microscope\" 的正确中文意思：",
+        "correct": "n.显微镜",
+        "options": [
+          "n.显微镜",
+          "n.话筒,扩音器",
+          "a.诚挚的,真实的,诚恳的",
+          "vt.解释,说明;口译"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "micro-（微小）+ -scope（看，观察）。词根直指“观察微小物体的工具”，即显微镜。物理动作：将微小物体放大到肉眼可见。",
+        "similarWarning": "microphone（麦克风）：micro-（微小）+ phone（声音），指将微小声音放大的设备。对比：scope（看）vs phone（声音），词尾差异决定功能方向。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "midst",
+      "word": "midst",
+      "phonetic": "/midst/",
+      "meaning": "n.中间,当中",
+      "similar": [
+        "mist",
+        "modest",
+        "fist",
+        "miss",
+        "moist"
+      ],
+      "question": {
+        "wordId": "midst",
+        "stem": "选择 \"midst\" 的正确中文意思：",
+        "correct": "n.中间,当中",
+        "options": [
+          "n.薄雾,霭",
+          "n.中间,当中",
+          "n.拳头 vt.用拳头打；紧握",
+          "a.谦虚的,有节制的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "midst 源自中古英语 middest，由 mid（中间）+ -est（最高级后缀）演变而来，核心物理动作是“处于最中央的位置”，强调在某一空间、时间或群体的正中间，如“in the midst of”即“在…之中”。",
+        "similarWarning": "mist（n.薄雾）与 midst 差一个字母 d；modest（adj.谦虚的）多字母 o 和 e，词义完全无关；fist（n.拳头）首字母不同；list（n.列表）首字母不同；miss（v.错过）少字母 t；most（adj.最多的）少字母 i；must（v.必须）少字母 i；first（adj.第一的）首字母 f 且拼写差异大。",
+        "extendedMeaning": "在考研真题中，midst 常引申为“（事件、活动的）进行中”，如 in the midst of a crisis（在危机之中），强调动态过程而非静态位置。",
+        "examUsage": "固定搭配 in the midst of 是高频考点，常与抽象名词连用，如 in the midst of negotiations（在谈判进行中），需注意与 in the middle of 的细微差别：midst 更强调“卷入其中”的参与感。"
+      }
+    },
+    {
+      "id": "migrate",
+      "word": "migrate",
+      "phonetic": "/mai'greit/",
+      "meaning": "v.迁移,移居(国外)",
+      "similar": [
+        "emigrate",
+        "pirate",
+        "vibrate",
+        "disgrace",
+        "liberate",
+        "moderate"
+      ],
+      "question": {
+        "wordId": "migrate",
+        "stem": "选择 \"migrate\" 的正确中文意思：",
+        "correct": "v.迁移,移居(国外)",
+        "options": [
+          "v.(反)immigrate;(to,from)自本国移居他",
+          "n./v.海盗,盗版(者)",
+          "v.迁移,移居(国外)",
+          "v.(使)振动,(使)摇摆；受…而感动"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语migrare（迁移）。词根migr-意为“移动、迁移”，-ate为动词后缀。核心物理动作是“从一个地方移动到另一个地方”，强调位置的改变，通常指大规模或长距离的移动。",
+        "similarWarning": "emigrate（移居国外）：e-（向外）+migr-（迁移），强调离开本国；immigrate（移居入境）：im-（向内）+migr-（迁移），强调进入他国；migrate仅泛指迁移，不强调方向。",
+        "extendedMeaning": "（在计算机科学中）数据迁移，指将数据从一种系统或格式转移到另一种；在生物学中，指动物季节性迁徙。考研中常考其引申义“转移（至新环境或系统）”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mild",
+      "word": "mild",
+      "phonetic": "/maild/",
+      "meaning": "a.温和的,轻微的,味淡的,不含有害物质的的",
+      "similar": [
+        "mile",
+        "mill",
+        "mould",
+        "yield"
+      ],
+      "question": {
+        "wordId": "mild",
+        "stem": "选择 \"mild\" 的正确中文意思：",
+        "correct": "a.温和的,轻微的,味淡的,不含有害物质的的",
+        "options": [
+          "a.温和的,轻微的,味淡的,不含有害物质的的",
+          "n.英里，哩，海里",
+          "n.(mold)模子，铸型 v.浇铸，造型，塑造",
+          "n.磨粉机,磨坊;作坊,工厂"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自日耳曼语，核心词源与'柔和、温顺'相关。词根*mel-（柔软、温和）→ 古英语milde（温和的、仁慈的）→ 现代英语mild。核心物理动作/画面：物体触感或味道的柔和、不刺激。",
+        "similarWarning": "wild（野生的）：mild vs wild，首字母m/w差异，mild为温和，wild为狂野。mind（思想）：mild vs mind，尾字母d相同，中间i/l vs i/n，mild强调性情，mind强调心智。",
+        "extendedMeaning": "（在考研或外刊中）指气候温和、疾病轻微或政策不严厉。例：mild recession（温和衰退）、mild criticism（温和的批评）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "mile",
+      "word": "mile",
+      "phonetic": "/mail/",
+      "meaning": "n.英里，哩，海里",
+      "similar": [
+        "file",
+        "male",
+        "mild",
+        "mill",
+        "pile",
+        "tile",
+        "mingle",
+        "mobile"
+      ],
+      "question": {
+        "wordId": "mile",
+        "stem": "选择 \"mile\" 的正确中文意思：",
+        "correct": "n.英里，哩，海里",
+        "options": [
+          "n./a.男性(的),雄性(的)",
+          "a.温和的,轻微的,味淡的,不含有害物质的的",
+          "n.英里，哩，海里",
+          "n.锉刀;文件,档案 v.锉"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'milia passuum'（千步），'milia' 意为‘千’，后缩略为 'mile'，指罗马士兵一千步的距离，约合现代1.6公里。核心动作：千步丈量距离。",
+        "similarWarning": "smile（微笑）：s-表动作，mile是‘英里’，无关联；file（文件/锉刀）：f-替换m；male（男性）：a-替换i；mild（温和的）：d-替换e；milk（牛奶）：k-替换e；mill（磨坊）：ll-替换le；mine（我的/矿）：n-替换l；pile（堆）：p-替换m。",
+        "extendedMeaning": "无特殊僻义。",
+        "examUsage": "无特殊考点，普通名词。"
+      }
+    },
+    {
+      "id": "militant",
+      "word": "militant",
+      "phonetic": "/'mɪlɪtənt/",
+      "meaning": "a.好战的，富于战斗性的 n.斗士",
+      "similar": [
+        "military",
+        "malignant",
+        "distant",
+        "instant",
+        "diligent"
+      ],
+      "question": {
+        "wordId": "militant",
+        "stem": "选择 \"militant\" 的正确中文意思：",
+        "correct": "a.好战的，富于战斗性的 n.斗士",
+        "options": [
+          "a.远的;遥远的;疏远的;不亲近的",
+          "a.恶性的，致命的；恶意的，恶毒的",
+          "a.军事的,军用的,军队的",
+          "a.好战的，富于战斗性的 n.斗士"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 milit- 意为“战斗”，源自拉丁语 miles（士兵）。-ant 是形容词或名词后缀，表示“...的”或“...的人”。核心动作是“参与战斗”，引申为好战的、斗士。",
+        "similarWarning": "military（军事的）侧重军队；malignant（恶性的）强调恶意；distant（遥远的）指空间；instant（立即的）指时间；diligent（勤奋的）指努力。militant 强调主动好战的态度或行为。",
+        "extendedMeaning": "在考研中常引申为“激进的，强硬的”，如 militant reform（激进的改革），不限于军事，用于描述政治、社会运动中的强硬立场。",
+        "examUsage": "真题考点：militant 常作为贬义词，与 aggressive 近义，但更强调有组织的斗争性。例句：The militant group has been blamed for the attack.（该激进组织被指责发动袭击。）"
+      }
+    }
+  ]
+}

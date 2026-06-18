@@ -1,0 +1,1693 @@
+{
+  "batchId": 84,
+  "words": [
+    {
+      "id": "urge",
+      "word": "urge",
+      "phonetic": "/ə:dʒ/",
+      "meaning": "vt.催促;怂恿;强调 n.强烈欲望,迫切要求",
+      "similar": [
+        "surge",
+        "urgent",
+        "argue",
+        "curse",
+        "curve",
+        "forge",
+        "judge",
+        "merge"
+      ],
+      "question": {
+        "wordId": "urge",
+        "stem": "选择 \"urge\" 的正确中文意思：",
+        "correct": "vt.催促;怂恿;强调 n.强烈欲望,迫切要求",
+        "options": [
+          "vi.辩论，争论 vt.辩论，论证；说服，劝说",
+          "a.急迫的，紧要的，紧急的",
+          "vi.汹涌；彭湃；蜂拥而至 n.巨浪;汹涌;彭湃",
+          "vt.催促;怂恿;强调 n.强烈欲望,迫切要求"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"urgere\"（推动、逼迫），核心物理动作为“用力推挤”。词根\"urge\"表示“驱动、施压”，引申为精神上的“催促、怂恿”或内在的“强烈欲望”。\",\n  \"similarWarning\": \"surge（n./v.汹涌；激增）vs. urge（v.催促；n.冲动）：surge强调“浪涌般的上升”或“突然增加”，urge侧重“推动力”或“内在冲动”。区分：surge含“s-”（向上）暗示动态增长，urge更抽象。\",\n  \"extendedMeaning\": \"考研常考“强烈的内在冲动/欲望”，如“an urge to do sth.”（做某事的强",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "urgent",
+      "word": "urgent",
+      "phonetic": "/'ə:dʒənt/",
+      "meaning": "a.急迫的，紧要的，紧急的",
+      "similar": [
+        "current",
+        "rent",
+        "urge",
+        "agent",
+        "orient",
+        "argument",
+        "fragment"
+      ],
+      "question": {
+        "wordId": "urgent",
+        "stem": "选择 \"urgent\" 的正确中文意思：",
+        "correct": "a.急迫的，紧要的，紧急的",
+        "options": [
+          "vt.催促;怂恿;强调 n.强烈欲望,迫切要求",
+          "v.租,租赁 n.租金",
+          "a.急迫的，紧要的，紧急的",
+          "n.电流,水流;潮流,趋势 a.当前的;流通的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根urg-（=work, drive，工作、驱动）+-ent（形容词后缀，表“具有…性质的”）。核心物理动作是“驱策、推动”，引申为“需要被立刻推动处理的状态”，即“紧急的”。",
+        "similarWarning": "形近词辨析：\n- urgent（紧急的）：urg-（驱动）+ -ent\n- current（当前的；水流）：cur-（跑，流）+ -rent\n- agent（代理人）：ag-（做，行动）+ -ent\n- orient（东方；定向）：ori-（升起）+ -ent\n关键差异：核心词根不同，urg-表“驱动”，cur-表“流”，ag-表“行动”，ori-表“升起”。",
+        "extendedMeaning": "在考研阅读中，urgent 常引申为“迫切的、亟待解决的”，强调时间上的紧迫性，而非普通日常语境下的“紧急通知”等浅层含义。",
+        "examUsage": "真题高频搭配：\n- urgent need（迫切需要）\n- urgent action（紧急行动）\n- It is urgent that...（…是紧迫的，后接虚拟语气should+动词原形）\n考研真题例句：It is urgent that the government take measures to address the housing crisis.（政府亟需采取措施解决住房危机。）"
+      }
+    },
+    {
+      "id": "usage",
+      "word": "usage",
+      "phonetic": "/'ju:zidʒ/",
+      "meaning": "n.使用，用法；习惯，习俗；惯用法",
+      "similar": [
+        "sausage",
+        "age",
+        "use",
+        "cage",
+        "rage",
+        "sake",
+        "sale",
+        "sane"
+      ],
+      "question": {
+        "wordId": "usage",
+        "stem": "选择 \"usage\" 的正确中文意思：",
+        "correct": "n.使用，用法；习惯，习俗；惯用法",
+        "options": [
+          "n.使用，用法；习惯，习俗；惯用法",
+          "n.香肠,腊肠",
+          "n.年龄；时代；老年；长时间 v.(使)变老",
+          "n.使/应用；用法/途；益/用处 vt.用；消耗"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 us-（使用，来自拉丁语 usus） + 名词后缀 -age（表示行为、状态或集合）→ 使用的行为或方式。核心动作：反复使用形成惯例。",
+        "similarWarning": "sausage（香肠） vs usage（用法）：sausage 词根 saus-（盐腌）与 us- 无关，拼写差异在于 's' 后跟 'au' 而非 'u'。",
+        "extendedMeaning": "在考研中常指‘语言惯用法’，如 lexical usage（词汇用法），强调约定俗成的表达方式，而非简单‘使用’。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "use",
+      "word": "use",
+      "phonetic": "/ju:z/",
+      "meaning": "n.使/应用；用法/途；益/用处 vt.用；消耗",
+      "similar": [
+        "fuse",
+        "used",
+        "abuse",
+        "amuse",
+        "curse",
+        "mouse",
+        "nurse",
+        "pause"
+      ],
+      "question": {
+        "wordId": "use",
+        "stem": "选择 \"use\" 的正确中文意思：",
+        "correct": "n.使/应用；用法/途；益/用处 vt.用；消耗",
+        "options": [
+          "vt.滥用；辱骂；诋毁 n.滥用；恶习；弊端",
+          "a.用旧了的，旧的；习惯于…；过去惯/经常",
+          "n.保险丝,导火线,引信 v.熔化,熔合",
+          "n.使/应用；用法/途；益/用处 vt.用；消耗"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语uti（使用、利用）。核心动作是“通过操作某物以达到目的”，强调工具性或功能性。",
+        "similarWarning": "fuse（融合/保险丝）: 字母差异为f vs u，词义无关联；abuse（滥用）: 前缀ab-（偏离）+ use，表示错误使用；amuse（娱乐）: 前缀a-（使）+ muse（沉思），词源不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "used",
+      "word": "used",
+      "phonetic": "/ju:zd/",
+      "meaning": "a.用旧了的，旧的；习惯于…；过去惯/经常",
+      "similar": [
+        "use",
+        "upset"
+      ],
+      "question": {
+        "wordId": "used",
+        "stem": "选择 \"used\" 的正确中文意思：",
+        "correct": "a.用旧了的，旧的；习惯于…；过去惯/经常",
+        "options": [
+          "v.拖,拖曳",
+          "v.使…心烦意乱;打翻,推翻a.难过的;不安的",
+          "n.使/应用；用法/途；益/用处 vt.用；消耗",
+          "a.用旧了的，旧的；习惯于…；过去惯/经常"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "use（用）的过去分词形式，核心动作是“被使用过”。从“被使用过”引申为“用旧了的”（被动状态），再引申为“习惯于…”（被动适应状态），以及“过去经常”（过去时态的固定用法）。",
+        "similarWarning": "use（v.使用） vs used（adj.用旧的；习惯于） vs upset（v./adj.打翻/不安的）：used是use的过去分词，而upset拼写中多一个p，且词源完全不同（up+set）。",
+        "extendedMeaning": "考研中“used”的僻义较少，但需注意“be used to doing”与“used to do”的区别，前者表“习惯于”，后者表“过去常常”。",
+        "examUsage": "常考搭配：used to do（过去常常）与be/get used to doing（习惯于）的辨析，是完形填空和翻译中的高频题眼。"
+      }
+    },
+    {
+      "id": "useful",
+      "word": "useful",
+      "phonetic": "/'ju:sful/",
+      "meaning": "a.有用的，实用的；有益的，有帮助的",
+      "similar": [],
+      "question": {
+        "wordId": "useful",
+        "stem": "选择 \"useful\" 的正确中文意思：",
+        "correct": "a.有用的，实用的；有益的，有帮助的",
+        "options": [
+          "a.数字的;数位的;手指的 n.数字",
+          "n.(in)干涉,干预;(with)妨碍,打扰",
+          "vi.大踏步走；跨越 n.一大步(pl.)长足进步",
+          "a.有用的，实用的；有益的，有帮助的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "use（使用）+ -ful（充满...的）→ 充满使用价值的 → 有用的",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中，useful常引申为“有益的，有帮助的”，强调实际效用或价值，如useful advice（有益的建议）或useful information（有用的信息）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "utilize",
+      "word": "utilize",
+      "phonetic": "/'ju:tilaiz/",
+      "meaning": "vt.利用",
+      "similar": [
+        "civilize",
+        "mobilize"
+      ],
+      "question": {
+        "wordId": "utilize",
+        "stem": "选择 \"utilize\" 的正确中文意思：",
+        "correct": "vt.利用",
+        "options": [
+          "pron.[引导名词从句]谁；无论谁；究竟是谁",
+          "v.(mobilise)动员,赋予可动性",
+          "v.(=civilise)使文明,开化",
+          "vt.利用"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'utilis'（有用的），由 'uti'（使用）派生。词根 'uti' 表示“用”，-ize 是动词后缀，意为“使成为”。核心动作是“使变得有用”，即利用资源或工具以达到目的。",
+        "similarWarning": "civilize（使文明，来自 civil）与 mobilize（动员，来自 mobile）。区别：utilize 强调“使用”资源，civilize 侧重“教化”人，mobilize 指“调动”力量。字母差异：u vs c/m，-ilize vs -ilize 但词根不同。",
+        "extendedMeaning": "在考研真题中，utilize 常引申为“有效利用”或“发挥潜力”，如 'utilize one's talents'（发挥才能），而非单纯使用。",
+        "examUsage": "真题常考搭配：'utilize resources'（利用资源），干扰项常与 use 混淆，但 utilize 强调“有效利用”而非随意使用。例句：'The company utilized advanced technology to reduce costs.'（公司利用先进技术降低成本。）"
+      }
+    },
+    {
+      "id": "utmost",
+      "word": "utmost",
+      "phonetic": "/'ʌtməust/",
+      "meaning": "a.最远的;极度的 n.极限,极度,最大可能",
+      "similar": [
+        "almost"
+      ],
+      "question": {
+        "wordId": "utmost",
+        "stem": "选择 \"utmost\" 的正确中文意思：",
+        "correct": "a.最远的;极度的 n.极限,极度,最大可能",
+        "options": [
+          "adv.几乎，差不多",
+          "v.包括,包含,计入",
+          "a.最远的;极度的 n.极限,极度,最大可能",
+          "a.逐渐的,逐步的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "utmost 源自古英语 utmest，由 ut（out，向外）与最高级后缀 -mest（most）构成，核心动作即“向外最远”，引申为“最远的、极度的”。",
+        "similarWarning": "most（大多数，最高级）与 almost（几乎）在拼写和发音上与 utmost 相近，但 utmost 强调整体上的“最大程度”或“极限”，而 most 仅表示数量或程度上的最多，almost 则表示接近但未达到。",
+        "extendedMeaning": "在考研中，utmost 常作名词，表示“极限、最大可能”，如“do one's utmost”（竭尽全力），或用于强调“极度的、最大的”，如“utmost importance”（极其重要）。",
+        "examUsage": "真题考点中，utmost 常与“try/exert one's utmost”搭配，表示“尽最大努力”，或用于“of the utmost significance”（具有极其重要的意义）结构中，作为强调程度的固定表达。"
+      }
+    },
+    {
+      "id": "utter",
+      "word": "utter",
+      "phonetic": "/'ʌtə/",
+      "meaning": "v.说,发出(声音) a.彻底的,完全的",
+      "similar": [
+        "butter",
+        "mutter",
+        "shutter",
+        "better",
+        "bitter",
+        "latter",
+        "litter",
+        "alter"
+      ],
+      "question": {
+        "wordId": "utter",
+        "stem": "选择 \"utter\" 的正确中文意思：",
+        "correct": "v.说,发出(声音) a.彻底的,完全的",
+        "options": [
+          "n.百叶窗；(照相机)快门；关闭装置",
+          "n.喃喃而语,小声低语;抱怨 v.低声说,抱怨",
+          "n.黄油,奶油 v.涂黄油于…上",
+          "v.说,发出(声音) a.彻底的,完全的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "中古英语‘utteren’源自‘out’（向外），核心动作是‘把声音/话语向外送出’。形容词义由其动词义‘说出全部’引申为‘完全的、彻底的’，强调无保留地表达或状态。",
+        "similarWarning": "butter（黄油）：区别在首字母b-（黄油）vs u-（说）。mutter（咕哝）：区别在m-（闭嘴嘟囔）vs u-（清晰发声）。shutter（百叶窗）：sh-（关闭）vs u-（打开）。better（更好）：e-（好）vs u-（彻底）。bitter（苦的）：i-（苦味）vs u-（完全）。latter（后者）：a-（位置后）vs u-（程度）。letter（信件）：e-（文字）vs u-（声音）。litter（垃圾）：i-（散乱）vs u-（彻底）。",
+        "extendedMeaning": "考研中常考形容词义‘完全的、彻底的’，如‘utter nonsense’（一派胡言），强调极端程度，非字面‘说话’。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "vacant",
+      "word": "vacant",
+      "phonetic": "/'veikənt/",
+      "meaning": "a.空的,未占用的;空缺的;神情茫然的",
+      "similar": [],
+      "question": {
+        "wordId": "vacant",
+        "stem": "选择 \"vacant\" 的正确中文意思：",
+        "correct": "a.空的,未占用的;空缺的;神情茫然的",
+        "options": [
+          "a.看不见的,无形的",
+          "v.(into,with)(使)成为一体,(使)结合在一起",
+          "a.空的,未占用的;空缺的;神情茫然的",
+          "vt.向…提供娱乐，使…消遣；引人发笑"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语vacare（空，空闲），词根vac-（空）加形容词后缀-ant。核心物理动作是“空出、腾出”，强调原本有物但被清空或未被占用的状态，如空房间、空缺职位。",
+        "similarWarning": "",
+        "extendedMeaning": "神情茫然的（形容眼神空洞、心不在焉的状态，如a vacant stare，考研阅读中用于描写人物心理）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "vacation",
+      "word": "vacation",
+      "phonetic": "/və'keiʃən/",
+      "meaning": "n.休假,假期",
+      "similar": [
+        "vocation",
+        "variation",
+        "action",
+        "location",
+        "dictation",
+        "education",
+        "salvation",
+        "nation"
+      ],
+      "question": {
+        "wordId": "vacation",
+        "stem": "选择 \"vacation\" 的正确中文意思：",
+        "correct": "n.休假,假期",
+        "options": [
+          "n.休假,假期",
+          "n.职业;召唤;天命;天职;才能",
+          "n.行动，动作；作用；运转；行为；战斗",
+          "n.变化,变动;变种,变异"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语 'vacatio'，词根 'vac-' 意为“空、空闲”。\"vacation\" 字面即“空闲的时间”，核心动作为“清空工作状态，进入空闲期”。\",\n  \"similarWarning\": \"形近词辨析：vocation（职业，词根voc-意为“呼唤”），vacation（假期，词根vac-意为“空”）。注意字母 'c' 后接不同元音导致含义差异。\",\n  \"extendedMeaning\": \"\",\n  \"examUsage\": \"\"\n}",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "vacuum",
+      "word": "vacuum",
+      "phonetic": "/'vækjuəm/",
+      "meaning": "n.真空,真空吸尘器",
+      "similar": [],
+      "question": {
+        "wordId": "vacuum",
+        "stem": "选择 \"vacuum\" 的正确中文意思：",
+        "correct": "n.真空,真空吸尘器",
+        "options": [
+          "n.地区,行政区;美国各州的众议院选区",
+          "a.北方的,北部的",
+          "n.真空,真空吸尘器",
+          "n.(四轮)马车;(火车)客车厢"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“vacuus”（空的），核心物理动作为“抽空”。-um是名词后缀，表示状态或工具。字面即“空的状态”，后引申为“真空吸尘器”（利用真空吸尘的工具）。",
+        "similarWarning": "",
+        "extendedMeaning": "考研中常考“真空状态”的抽象义，如“权力真空”（power vacuum）、“信息真空”（information vacuum），指缺乏某物的状态或空白。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "vague",
+      "word": "vague",
+      "phonetic": "/veig/",
+      "meaning": "a.不明确的,含糊的,暧昧的",
+      "similar": [
+        "league",
+        "plague",
+        "age",
+        "cage",
+        "rage",
+        "vase",
+        "wage",
+        "argue"
+      ],
+      "question": {
+        "wordId": "vague",
+        "stem": "选择 \"vague\" 的正确中文意思：",
+        "correct": "a.不明确的,含糊的,暧昧的",
+        "options": [
+          "a.不明确的,含糊的,暧昧的",
+          "n.同盟,联盟;联合会,社团",
+          "n.瘟疫,灾害,麻烦,苦恼 vt.折磨,使苦恼",
+          "n.年龄；时代；老年；长时间 v.(使)变老"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语 'vagus'（徘徊的、游荡的），词根 'vag-' 意为 '徘徊、游移不定'。核心物理动作是 '四处游荡、没有固定方向'，引申为 '想法、表达或轮廓不清晰、模糊、不确定'。\",\n  \"similarWarning\": \"vague vs. value：vague 结尾为 'ue'，核心是 '游移'；value 结尾为 'lue'，源自 'valere'（强壮的），意为 '价值'。vague vs. league：league 含 'lea-'（绑），意为 '联盟'；vague 无此结构。vague vs. plague：plague 含 'pl",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "vain",
+      "word": "vain",
+      "phonetic": "/veɪn/",
+      "meaning": "a.徒劳的,徒然的;自负的,爱虚荣的",
+      "similar": [
+        "van",
+        "gain",
+        "vein",
+        "avail",
+        "basin",
+        "brain",
+        "cabin",
+        "chain"
+      ],
+      "question": {
+        "wordId": "vain",
+        "stem": "选择 \"vain\" 的正确中文意思：",
+        "correct": "a.徒劳的,徒然的;自负的,爱虚荣的",
+        "options": [
+          "a.徒劳的,徒然的;自负的,爱虚荣的",
+          "v.获得；增加；表等走快 n.增进,增加；收益",
+          "n.血管;静脉;叶脉;纹理;情绪 vt.使成脉络",
+          "n.有篷汽车;有篷货运车厢"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源于拉丁语'vanus'（空的，空虚的），核心物理动作为“空无”。由此引申为“徒劳的”（结果空洞）和“自负的”（内心空虚，过度关注外表）。",
+        "similarWarning": "vein /veɪn/（n.静脉；纹理）与vain同音异形异义，注意拼写中'i'与'e'互换；van /væn/（n.货车）仅差一个字母，但发音不同。",
+        "extendedMeaning": "在考研中常考“自负的”这一僻义，如'vain about one's appearance'（对自己的外表自负），而非仅指“徒劳”。",
+        "examUsage": "固定搭配'in vain'（徒劳地）为高频考点，常作状语修饰动词，如'He tried in vain to convince her.'（他试图说服她，但徒劳无功。）"
+      }
+    },
+    {
+      "id": "valid",
+      "word": "valid",
+      "phonetic": "/'vælɪd/",
+      "meaning": "a.有效的;有根据的;正当的",
+      "similar": [
+        "invalid",
+        "aid",
+        "lid",
+        "acid",
+        "amid",
+        "bald",
+        "maid",
+        "raid"
+      ],
+      "question": {
+        "wordId": "valid",
+        "stem": "选择 \"valid\" 的正确中文意思：",
+        "correct": "a.有效的;有根据的;正当的",
+        "options": [
+          "n.援助，救护；助手，辅助物 vi.援助，救援",
+          "n.病人,伤残人 a.有病的,伤残的;无效的",
+          "a.有效的;有根据的;正当的",
+          "n.盖"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根val-（强壮的，有价值的）+ -id（形容词后缀）。核心动作：具有力量或价值的状态。本义为“有力量的”，引申为“有效的”“有根据的”。",
+        "similarWarning": "invalid (in-否定 + valid): 无效的，无效力的。对比：valid有效，invalid无效。",
+        "extendedMeaning": "在考研阅读中，valid常引申为“有法律效力的”“正当的”，如valid argument（有说服力的论点），valid contract（有效合同）。",
+        "examUsage": "真题常考搭配：valid evidence（有效证据），valid reason（正当理由）。干扰项常设invalid作为反义对比。"
+      }
+    },
+    {
+      "id": "valley",
+      "word": "valley",
+      "phonetic": "/'væli/",
+      "meaning": "n.(山)谷;流域",
+      "similar": [
+        "gallery",
+        "ally",
+        "alloy",
+        "rally",
+        "valve",
+        "ballet",
+        "wallet"
+      ],
+      "question": {
+        "wordId": "valley",
+        "stem": "选择 \"valley\" 的正确中文意思：",
+        "correct": "n.(山)谷;流域",
+        "options": [
+          "n.长廊,画廊,美术馆",
+          "n.(山)谷;流域",
+          "n.合金vt.将…铸成合金",
+          "n.同盟者，同盟国，vt.使结盟；与…有关联"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语valles/vallis，意为‘山谷’，词根vall-指‘向下弯曲的地形’，与valley的本义‘山间低洼地带’直接对应",
+        "similarWarning": "ally（n.盟友）vs valley：ally无v和ley；alley（n.小巷）vs valley：alley无v，且e-y位置不同；rally（n.集会）vs valley：开头r- vs v-，且无l",
+        "extendedMeaning": "考研中无显著僻义，仅偶见引申为‘流域’（如river valley）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "valuable",
+      "word": "valuable",
+      "phonetic": "/'væljuəbl/",
+      "meaning": "a.贵重的,有价值的 n.(pl.)贵重物品,财宝",
+      "similar": [
+        "invaluable",
+        "variable",
+        "available",
+        "liable",
+        "amiable",
+        "capable",
+        "soluble",
+        "evaluate"
+      ],
+      "question": {
+        "wordId": "valuable",
+        "stem": "选择 \"valuable\" 的正确中文意思：",
+        "correct": "a.贵重的,有价值的 n.(pl.)贵重物品,财宝",
+        "options": [
+          "a.(用于物)可用的；可见到的，接受采访的",
+          "a.贵重的,有价值的 n.(pl.)贵重物品,财宝",
+          "a.非常宝贵的,无价的",
+          "a.易变的;可变的;变量的 n.变量"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根val-（价值） + -u-（连接字母） + -able（能够…的）→ 能够体现价值的 → 有价值的、贵重的。核心动作：衡量或评估某物具有价值。",
+        "similarWarning": "invaluable（in-否定 + valuable，字面“无法估价的”，实为“极宝贵的”）≠ valuable；variable（vari-变化 + -able，可变的）≠ valuable；available（avail-效用 + -able，可用的）；liable（li-绑 + -able，有责任的）；amiable（ami-爱 + -able，和蔼的）；capable（cap-抓取 + -able，有能力的）；soluble（solut-溶解 + -able，可溶的）；evaluate（e-出 + val-价值 + -uate，评估）。",
+        "extendedMeaning": "n. (pl.)贵重物品、财宝（真题中常作可数集合名词，指珠宝、首饰、现金等易携带的高价值私人物品）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "valve",
+      "word": "valve",
+      "phonetic": "/vælv/",
+      "meaning": "n.阀;(英)电子管,真空管;(心脏的）瓣膜",
+      "similar": [
+        "evolve",
+        "valley",
+        "velvet",
+        "cave",
+        "male",
+        "pale",
+        "pave",
+        "sale"
+      ],
+      "question": {
+        "wordId": "valve",
+        "stem": "选择 \"valve\" 的正确中文意思：",
+        "correct": "n.阀;(英)电子管,真空管;(心脏的）瓣膜",
+        "options": [
+          "n.阀;(英)电子管,真空管;(心脏的）瓣膜",
+          "v.(使)发展;(使)进化;(使)进展",
+          "n.(山)谷;流域",
+          "n.丝绒,天鹅绒 a.丝绒制的,柔软的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根valv-（转动，翻转）源自拉丁语valva（门扇，可旋转的部分），核心物理动作为“可翻转的片状物控制流体通过”。由此引申为机械中的阀门（控制液体/气体流量）、电子管（控制电流的真空器件）以及心脏瓣膜（控制血液单向流动的片状组织）。本质是“通过物理旋转或开合实现控制”的装置。",
+        "similarWarning": "value（价值）: 与valve仅差字母u/e，但value源于拉丁语valere（强壮），与“转动”无关。evolve（进化）: 前缀e-（向外）+ volve（卷），指“展开、发展”，与valve的“翻转”动作不同。velvet（天鹅绒）: 拼写相近但词源无关，指柔软织物。",
+        "extendedMeaning": "考研中valve常考“心脏瓣膜”的医学义，如heart valve（心脏瓣膜）；或“阀门”的控制义，如safety valve（安全阀）。无初级基础释义。",
+        "examUsage": "真题中常以专业术语出现，如：the valve of the heart（心脏瓣膜）或pressure valve（压力阀）。注意与value的拼写混淆，但词义无直接关联。"
+      }
+    },
+    {
+      "id": "van",
+      "word": "van",
+      "phonetic": "/væn/",
+      "meaning": "n.有篷汽车;有篷货运车厢",
+      "similar": [
+        "vain",
+        "ban",
+        "fan",
+        "pan",
+        "tan"
+      ],
+      "question": {
+        "wordId": "van",
+        "stem": "选择 \"van\" 的正确中文意思：",
+        "correct": "n.有篷汽车;有篷货运车厢",
+        "options": [
+          "n.有篷汽车;有篷货运车厢",
+          "n.扇子,风扇;(影,球等)迷 v.扇,扇动,激起",
+          "v.取缔,查禁;(from)禁止 n.禁止,禁令",
+          "a.徒劳的,徒然的;自负的,爱虚荣的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "van 源自拉丁语 carpentum（四轮马车）的缩写形式，后指有遮盖的运输车辆。核心意象是“封闭的移动空间”，用于装载货物或人员。",
+        "similarWarning": "vain（adj. 徒劳的，虚荣的）与 van 拼写差一个字母 i；ban（v. 禁止）首字母不同；can（n. 罐头；v. 能）首字母不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "vanish",
+      "word": "vanish",
+      "phonetic": "/'væniʃ/",
+      "meaning": "vi.突然不见;消失",
+      "similar": [
+        "finish",
+        "punish",
+        "vanity"
+      ],
+      "question": {
+        "wordId": "vanish",
+        "stem": "选择 \"vanish\" 的正确中文意思：",
+        "correct": "vi.突然不见;消失",
+        "options": [
+          "v.惩罚,处罚",
+          "n.虚荣心,浮华",
+          "n.完成;结束;磨光 v.完成;结束;用完;毁掉",
+          "vi.突然不见;消失"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'vanescere'（逐渐消失），由 'vanus'（空的） + 后缀 '-escere'（开始…）组成。核心动作是‘从有到无，逐渐变空’，强调完全消失、不留痕迹。",
+        "similarWarning": "finish（结束）、punish（惩罚）、vanity（虚荣；空虚）。差异：vanish 以 'v' 开头，词根 'van-'（空）→ 消失；finish 以 'f-' 开头，词根 'fin-'（界限）→ 完成；punish 以 'p-' 开头，词根 'pun-'（惩罚）→ 惩罚；vanity 为名词，指‘空虚/虚荣’，与 vanish 同根但词性不同。",
+        "extendedMeaning": "在考研阅读中可引申为‘灭绝、消亡’，如物种 vanish（灭绝）；或‘逐渐消退’，如 hope vanishes（希望破灭）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "vanity",
+      "word": "vanity",
+      "phonetic": "/'vænəti/",
+      "meaning": "n.虚荣心,浮华",
+      "similar": [
+        "variety",
+        "unity",
+        "vanish",
+        "humanity",
+        "quantity",
+        "vicinity"
+      ],
+      "question": {
+        "wordId": "vanity",
+        "stem": "选择 \"vanity\" 的正确中文意思：",
+        "correct": "n.虚荣心,浮华",
+        "options": [
+          "vi.突然不见;消失",
+          "n.虚荣心,浮华",
+          "n.种种,多种多样;种类,品种",
+          "n.团结;统一,一致,整体"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根 van-（空，虚），源自拉丁语 vanus（空的，无价值的）。-ity 为名词后缀，表性质。核心动作概念：空洞、无实质内容的状态 → 引申为对外表或成就的过度自负（虚荣心），或指事物表面的浮华与空幻。",
+        "similarWarning": "vanity vs. vanish（v.消失）：-ity（性质）vs. -ish（使动后缀），虚的状态 vs. 使变虚的动作。vanity vs. variety（n.多样性）：van-（空）vs. vari-（变化），词根完全不同。",
+        "extendedMeaning": "在考研阅读中常引申为“无意义、空洞的事物”，如 the vanity of human wishes（人类愿望的空幻），强调本质上的虚无。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "vapour",
+      "word": "vapour",
+      "phonetic": "/'veɪpə(r)/",
+      "meaning": "n.(vapor)汽，(水)蒸气",
+      "similar": [
+        "pour"
+      ],
+      "question": {
+        "wordId": "vapour",
+        "stem": "选择 \"vapour\" 的正确中文意思：",
+        "correct": "n.(vapor)汽，(水)蒸气",
+        "options": [
+          "n.(connexion)联系,连接；亲戚，社会关系",
+          "n.(vapor)汽，(水)蒸气",
+          "v.灌注, 倾泻, 涌入, 流, 倾盆大雨",
+          "a.差异的,差异的,不同的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根vap-（蒸汽），-our为名词后缀。核心物理动作：水受热后变成飘散的气体，即蒸汽、水汽。",
+        "similarWarning": "形近词：pour（v. 倾倒，灌）。差异在于首字母p与v，vapour强调水汽状态，pour强调液体流动的动作。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "variable",
+      "word": "variable",
+      "phonetic": "/'vεəriəbl/",
+      "meaning": "a.易变的;可变的;变量的 n.变量",
+      "similar": [
+        "amiable",
+        "valuable",
+        "invariably",
+        "available",
+        "liable",
+        "marble",
+        "capable",
+        "durable"
+      ],
+      "question": {
+        "wordId": "variable",
+        "stem": "选择 \"variable\" 的正确中文意思：",
+        "correct": "a.易变的;可变的;变量的 n.变量",
+        "options": [
+          "ad.不变地，永恒地，总是",
+          "a.贵重的,有价值的 n.(pl.)贵重物品,财宝",
+          "a.和蔼可亲的，友善的，亲切的",
+          "a.易变的;可变的;变量的 n.变量"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 vari-（变化）+ -able（能...的）→ 能变化的。核心物理动作：事物在不同条件下发生改变或可被调整。",
+        "similarWarning": "variable vs. valuable（有价值的）：a变u，前者强调变化，后者强调价值。variable vs. available（可获得的）：v开头的可变 vs. a开头的可得到，注意首字母差异。variable vs. liable（有责任的）：li-与-ri-区别，liable常接to表示易受...影响。",
+        "extendedMeaning": "在考研阅读中，variable常引申为'可变因素'或'变量'，如environmental variable（环境变量），强调影响结果的可变条件。",
+        "examUsage": "真题常考搭配：independent variable（自变量）与dependent variable（因变量）的区分，如2010年阅读Text 3中'control for other variables'（控制其他变量）。"
+      }
+    },
+    {
+      "id": "variation",
+      "word": "variation",
+      "phonetic": "/ˌvεəri'eiʃən/",
+      "meaning": "n.变化,变动;变种,变异",
+      "similar": [
+        "aviation",
+        "vacation",
+        "navigation",
+        "duration",
+        "friction",
+        "vocation",
+        "formation",
+        "salvation"
+      ],
+      "question": {
+        "wordId": "variation",
+        "stem": "选择 \"variation\" 的正确中文意思：",
+        "correct": "n.变化,变动;变种,变异",
+        "options": [
+          "n.休假,假期",
+          "n.航空，航空学；飞机制造业",
+          "n.变化,变动;变种,变异",
+          "n.航海,航空;导航,领航"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语‘variare’（使变化），由‘vari-’（变化）+‘-ation’（名词后缀，表行为/结果）构成。核心物理动作为‘从一种状态转向另一种状态’，强调过程或结果上的差异性。",
+        "similarWarning": "形近词辨析：\n- variation vs. vacation（假期）：前者含‘-ri-’（变化），后者为‘vac-’（空，空闲）。\n- variation vs. navigation（导航）：前者核心在‘vari’（变化），后者为‘nav-’（船）+‘-ig-’（驱动），指航行。\n- variation vs. friction（摩擦）：前者‘-ri-’表变化，后者‘frict-’（摩擦）表物理阻力。",
+        "extendedMeaning": "考研僻义：\n1. 变奏（音乐术语）：在乐曲中对主题进行旋律、节奏或和声上的变化演绎。\n2. 变异（生物学）：个体或群体间在遗传特征上的差异，如‘genetic variation’。",
+        "examUsage": "真题考点：\n- 固定搭配：‘variation in...’（在……方面的变化），如‘variation in temperature’（温度变化）。\n- 干扰项：常与‘change’（一般性改变）、‘modification’（修改，侧重调整）混淆，但‘variation’强调多样性或系统内的差异。"
+      }
+    },
+    {
+      "id": "variety",
+      "word": "variety",
+      "phonetic": "/və'raɪəti/",
+      "meaning": "n.种种,多种多样;种类,品种",
+      "similar": [
+        "vanity"
+      ],
+      "question": {
+        "wordId": "variety",
+        "stem": "选择 \"variety\" 的正确中文意思：",
+        "correct": "n.种种,多种多样;种类,品种",
+        "options": [
+          "n.种种,多种多样;种类,品种",
+          "n.嘴唇",
+          "n.虚荣心,浮华",
+          "n.潜水艇 a.水底的,海底的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根vari-（变化） + -ety（名词后缀，表性质/状态）→ 变化的性质 → 多样性、种类。核心动作是“变化”，强调事物在形态、性质上的不同。",
+        "similarWarning": "vanity（n.虚荣） vs variety（n.多样）：vanity词根van-（空）→ 空虚；variety词根vari-（变化）→ 多样。差异在字母“r”与“n”的替换，以及词根本义不同。",
+        "extendedMeaning": "",
+        "examUsage": "a variety of（各种各样的）在真题中常作为修饰语出现，如a variety of factors（多种因素），注意其后的名词用复数。"
+      }
+    },
+    {
+      "id": "various",
+      "word": "various",
+      "phonetic": "/'vεəriəs/",
+      "meaning": "a.各种各样的;不同的",
+      "similar": [
+        "curious",
+        "furious",
+        "vicious",
+        "cautious",
+        "glorious",
+        "gracious",
+        "spacious"
+      ],
+      "question": {
+        "wordId": "various",
+        "stem": "选择 \"various\" 的正确中文意思：",
+        "correct": "a.各种各样的;不同的",
+        "options": [
+          "a.恶毒的,凶残的,邪恶的",
+          "a.各种各样的;不同的",
+          "a.狂怒的,狂暴的,猛烈的",
+          "a.好奇的, 求知的, 古怪的, 爱挑剔的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根vari-（变化）+ -ous（形容词后缀，充满…的）→ 充满变化的 → 各种各样的，不同的。",
+        "similarWarning": "various（各种各样的） vs. curious（好奇的） vs. serious（严肃的） vs. vicious（恶毒的）：差异在于词根vari-（变化）、cur-（关心）、seri-（严肃）、viti-（恶习）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "vary",
+      "word": "vary",
+      "phonetic": "/'vεəri/",
+      "meaning": "vt.改变,变化;使多样化",
+      "similar": [
+        "dairy",
+        "diary",
+        "fairy",
+        "marry",
+        "weary"
+      ],
+      "question": {
+        "wordId": "vary",
+        "stem": "选择 \"vary\" 的正确中文意思：",
+        "correct": "vt.改变,变化;使多样化",
+        "options": [
+          "a.幻想中的;虚构的;优雅的 n.仙女;精灵",
+          "vt.改变,变化;使多样化",
+          "n.日记,日记簿",
+          "n.牛奶场,奶店"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语‘variare’（使变化），词根‘vari-’（变化、不同）与动词后缀‘-y’。核心物理动作为‘改变形态或性质’，强调从一种状态转向另一种，或使事物呈现多样性。",
+        "similarWarning": "very（非常）、carry（携带）、dairy（乳制品）、diary（日记）、early（早的）、every（每个）、fairy（仙女）、marry（结婚）。与‘vary’拼写差异在于首字母或中间字母，词义无关联。",
+        "extendedMeaning": "在考研真题中常引申为‘（根据情况）有所差异’或‘呈现不同’，如‘vary from person to person’（因人而异）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "vase",
+      "word": "vase",
+      "phonetic": "/vɑ:z/",
+      "meaning": "n.花瓶,瓶",
+      "similar": [
+        "base",
+        "ease",
+        "vast",
+        "cease",
+        "chase",
+        "erase",
+        "evade",
+        "false"
+      ],
+      "question": {
+        "wordId": "vase",
+        "stem": "选择 \"vase\" 的正确中文意思：",
+        "correct": "n.花瓶,瓶",
+        "options": [
+          "n.花瓶,瓶",
+          "a.巨大的,辽阔的,大量的;巨额的",
+          "n.基础,底部;根据地 v.(on)把…基于",
+          "v.减轻;使舒适,使安心 n.容易;舒适,悠闲"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'vas'（容器），核心物理动作为'盛放液体或装饰物'，词根演变直接指向'花瓶'这一具体容器。",
+        "similarWarning": "形近词对比：base（基础）与vase差'b'/'v'；case（箱子）与vase差'c'/'v'；ease（轻松）与vase差'e'/'v'；vast（巨大的）与vase差't'/'s'；cause（原因）与vase差'c'/'v'且多'u'；cease（停止）与vase差'c'/'v'且多'e'；chase（追逐）与vase差'ch'/'v'；erase（擦除）与vase差'er'/'v'。核心差异在首字母或尾字母，需注意拼写混淆。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "vast",
+      "word": "vast",
+      "phonetic": "/vɑ:st/",
+      "meaning": "a.巨大的,辽阔的,大量的;巨额的",
+      "similar": [
+        "cast",
+        "east",
+        "vase",
+        "vest",
+        "beast",
+        "blast",
+        "boast",
+        "coast"
+      ],
+      "question": {
+        "wordId": "vast",
+        "stem": "选择 \"vast\" 的正确中文意思：",
+        "correct": "a.巨大的,辽阔的,大量的;巨额的",
+        "options": [
+          "v.投,扔,掷,抛；铸造；投票；n.演员表",
+          "n.花瓶,瓶",
+          "a.巨大的,辽阔的,大量的;巨额的",
+          "n.东,东方,东部 a.东方的,东部的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根源自拉丁语vastus，意为“空的、荒芜的”，引申为“广阔的、巨大的”。核心物理动作是空间上的空阔无垠，强调面积或体积的宏大。",
+        "similarWarning": "vast vs. cast（投掷）、east（东方）、fast（快的）、last（最后的）、past（过去的）、vase（花瓶）、vest（背心）、beast（野兽）。拼写差异：首字母或尾字母不同，词义迥异。",
+        "extendedMeaning": "考研中vast常引申为“大量的、巨额的”，如vast amounts of（大量的），强调数量或程度的庞大。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "vegetable",
+      "word": "vegetable",
+      "phonetic": "/'vedʒitəbl/",
+      "meaning": "n.蔬菜,植物 a.植物的,蔬菜的",
+      "similar": [
+        "inevitable",
+        "preferable",
+        "vegetarian",
+        "vegetation",
+        "vulnerable"
+      ],
+      "question": {
+        "wordId": "vegetable",
+        "stem": "选择 \"vegetable\" 的正确中文意思：",
+        "correct": "n.蔬菜,植物 a.植物的,蔬菜的",
+        "options": [
+          "a.(to)更可取的,更好的",
+          "a.不可避免的,必然发生的",
+          "n.素食主义者",
+          "n.蔬菜,植物 a.植物的,蔬菜的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 vegetabilis（有生机的，能生长的），词根 veg-（活跃，有活力）+ -able（能…的）+ -e。核心物理动作是“能够生长、充满活力”，引申为“植物、蔬菜”，强调其作为有生命、可生长的有机体。",
+        "similarWarning": "形近词辨析：inevitable（ine-不+evitable可避免的）强调“不可避免的”；preferable（prefer更喜欢+able可…的）意为“更可取的”；vegetarian（vegetable蔬菜+arian人）指“素食者”；vegetation（vegetable植物+tion名词后缀）指“植被、植物群落”；vulnerable（vuln-伤口+able易…的）意为“易受伤的、脆弱的”。",
+        "extendedMeaning": "在考研真题中，vegetable 常引申为“植物人”（a vegetable），指因脑损伤而失去思维和行动能力的人，如“He became a vegetable after the accident.”",
+        "examUsage": "真题考点：vegetable 作为名词常用于固定搭配“fruit and vegetable”（水果和蔬菜），如“Eating more fruit and vegetable is good for health.”；作为形容词时，注意其与 vegetation 的区别：vegetable 强调具体的蔬菜或植物个体，而 vegetation 指整体植被。"
+      }
+    },
+    {
+      "id": "vegetarian",
+      "word": "vegetarian",
+      "phonetic": "/ˌvedʒi'tεəriən/",
+      "meaning": "n.素食主义者",
+      "similar": [
+        "vegetation",
+        "vegetable",
+        "pedestrian"
+      ],
+      "question": {
+        "wordId": "vegetarian",
+        "stem": "选择 \"vegetarian\" 的正确中文意思：",
+        "correct": "n.素食主义者",
+        "options": [
+          "n.素食主义者",
+          "n.蔬菜,植物 a.植物的,蔬菜的",
+          "n.步行者 a.徒步的,呆板的,通俗的",
+          "n.植物,草木"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语vegetus（有活力的，生机勃勃的），后衍生出vegetable（蔬菜）。vegetarian由vegetable + -arian（表“人”的后缀）构成，字面即“吃蔬菜的人”，指完全以植物为食的人。",
+        "similarWarning": "vegetation（n.植被，植物）与vegetarian拼写差异为-tion（表状态/集合）vs -rian（表人）；vegetable（n.蔬菜）与vegetarian差异为-ble（可...的）vs -rian（人）；pedestrian（n.行人）虽形似，但源于ped-（脚），与植物无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "vegetation",
+      "word": "vegetation",
+      "phonetic": "/ˌvedʒi'teiʃən/",
+      "meaning": "n.植物,草木",
+      "similar": [
+        "vegetarian",
+        "federation",
+        "generation",
+        "meditation",
+        "regulation",
+        "repetition",
+        "reputation",
+        "revelation"
+      ],
+      "question": {
+        "wordId": "vegetation",
+        "stem": "选择 \"vegetation\" 的正确中文意思：",
+        "correct": "n.植物,草木",
+        "options": [
+          "n.植物,草木",
+          "n.素食主义者",
+          "n.产生,发生;一代(人)",
+          "n.同盟;联邦;联合;联盟;联合会"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 vegetare（使有活力、使生长），-ation 为名词后缀。核心动作：植物通过光合作用“使自身充满活力并生长”。词根 veg- 与 vigor（活力）同源，强调生命力的旺盛与自然覆盖。",
+        "similarWarning": "vegetarian（n.素食者）vs vegetation：前者结尾 -arian 表“人”，指不吃肉的人；后者 -ation 表“过程/状态”，指植物整体。易混点在于拼写相似但词性不同，vegetation 是集合名词，不可数。",
+        "extendedMeaning": "在考研阅读中，vegetation 常引申为“植被覆盖”或“植物群落”，强调生态学意义上的自然景观，而非单株植物。例如：dense vegetation（茂密植被）用于描述森林或热带地区。",
+        "examUsage": "真题中常与 deforestation、habitat 等词共现，作为环境类话题的核心词汇。注意其不可数性，不可加 -s。典型搭配：natural vegetation（自然植被），vegetation cover（植被覆盖）。"
+      }
+    },
+    {
+      "id": "vehicle",
+      "word": "vehicle",
+      "phonetic": "/'vi:ɪk(ə)l/",
+      "meaning": "n.车辆,交通工具;媒介,载体",
+      "similar": [],
+      "question": {
+        "wordId": "vehicle",
+        "stem": "选择 \"vehicle\" 的正确中文意思：",
+        "correct": "n.车辆,交通工具;媒介,载体",
+        "options": [
+          "n.车辆,交通工具;媒介,载体",
+          "v.召唤;传讯,传唤;鼓起(勇气),振作(精神)",
+          "a.外部的,外面的 n.外部",
+          "n.剪子"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'vehiculum'，由 'vehere'（运送、搬运）加工具后缀 '-culum' 构成。核心物理动作是“运送/搬运”，即作为将人或物从一处运送到另一处的工具。引申为抽象意义上的“媒介、载体”，如传递信息、思想或疾病的介质。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常考抽象义：媒介、载体。例如：'Language is the vehicle of thought.'（语言是思想的载体。）或 'Air is the vehicle of sound.'（空气是声音的传播媒介。）",
+        "examUsage": "常与介词搭配：'a vehicle for sth.'（……的媒介/手段）。真题例句：'Art may be used as a vehicle for propaganda.'（艺术可用作宣传工具。）注意区分其与 'medium'（更强调中间介质或媒介）的细微差别。"
+      }
+    },
+    {
+      "id": "veil",
+      "word": "veil",
+      "phonetic": "/veil/",
+      "meaning": "n.面纱,遮蔽物 v.用面纱掩盖,掩饰",
+      "similar": [
+        "vein",
+        "avail",
+        "devil"
+      ],
+      "question": {
+        "wordId": "veil",
+        "stem": "选择 \"veil\" 的正确中文意思：",
+        "correct": "n.面纱,遮蔽物 v.用面纱掩盖,掩饰",
+        "options": [
+          "n.魔鬼",
+          "n.血管;静脉;叶脉;纹理;情绪 vt.使成脉络",
+          "n.面纱,遮蔽物 v.用面纱掩盖,掩饰",
+          "n.[一般用于否定句或疑问句中]效用,利益"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语velum（帆、遮盖物），核心动作是“覆盖、遮蔽”。veil原指遮盖面部的薄纱，引申为任何形式的遮蔽或掩饰。",
+        "similarWarning": "vein（n.血管，纹理）：veil vs vein，i与in的差异，veil是“盖”，vein是“纹路”。avail（v.利用，有益）：a+veil，a-强调+veil覆盖？实为拉丁语valere（强壮），与veil无关。devil（n.魔鬼）：de+vil，与veil拼写相似但词源不同，devil来自希腊语diabolos（诽谤者）。",
+        "extendedMeaning": "考研僻义：n. 掩饰、借口（如under the veil of以……为借口）；v. 隐藏、遮掩事实或情感（如veiled threat含蓄的威胁）。",
+        "examUsage": "常用于搭配：draw a veil over（避而不谈），如真题例句：The report drew a veil over the scandal.（报告对丑闻避而不谈。）"
+      }
+    },
+    {
+      "id": "vein",
+      "word": "vein",
+      "phonetic": "/veɪn/",
+      "meaning": "n.血管;静脉;叶脉;纹理;情绪 vt.使成脉络",
+      "similar": [
+        "rein",
+        "vain",
+        "veil",
+        "reign"
+      ],
+      "question": {
+        "wordId": "vein",
+        "stem": "选择 \"vein\" 的正确中文意思：",
+        "correct": "n.血管;静脉;叶脉;纹理;情绪 vt.使成脉络",
+        "options": [
+          "n.面纱,遮蔽物 v.用面纱掩盖,掩饰",
+          "n.缰绳,统治,支配 v.驾驭,控制,统治",
+          "n.血管;静脉;叶脉;纹理;情绪 vt.使成脉络",
+          "a.徒劳的,徒然的;自负的,爱虚荣的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'vena'（血管、矿脉）。核心物理动作是“管道/通道”，指生物体内输送血液的血管（静脉），后引申为植物叶片中输送养分的叶脉、地质中矿脉的纹理，再抽象化为情绪或性格中的“脉络/倾向”。",
+        "similarWarning": "vain（adj.徒劳的；虚荣的） vs vein：vain 有 'ai' 表“空/无”，vein 有 'ei' 表“管/道”。veil（n.面纱） vs vein：veil 结尾 'l' 表“遮盖”，vein 结尾 'n' 表“管”。",
+        "extendedMeaning": "（考研高频）情绪、气质、风格：a vein of humor（一丝幽默）；in a similar vein（以同样风格/口吻）；the poetic vein（诗情/诗兴）。",
+        "examUsage": "核心搭配：in the same vein（同样地/类似地），常作为阅读中表示并列或类比关系的信号词，如'...and in the same vein, the author argues...'（类似地，作者认为……）。"
+      }
+    },
+    {
+      "id": "velocity",
+      "word": "velocity",
+      "phonetic": "/və'lɒsəti/",
+      "meaning": "n.速度,速率",
+      "similar": [],
+      "question": {
+        "wordId": "velocity",
+        "stem": "选择 \"velocity\" 的正确中文意思：",
+        "correct": "n.速度,速率",
+        "options": [
+          "n.速度,速率",
+          "vt.堆积，积累，积聚vi.累积，聚积",
+          "v.证明...正当(或有理、正确)，为...辩护",
+          "a.马克思主义的 n.马克思主义者"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语“velox”（快速的），后缀-ity表性质。核心物理动作：快速移动的度量，强调方向性与速率结合，区别于speed（仅速率）。",
+        "similarWarning": "",
+        "extendedMeaning": "考研中常引申为“高速率”的抽象概念，如“velocity of change”（变化的速度），强调动态过程的剧烈程度。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "velvet",
+      "word": "velvet",
+      "phonetic": "/'velvit/",
+      "meaning": "n.丝绒,天鹅绒 a.丝绒制的,柔软的",
+      "similar": [
+        "valve",
+        "helmet"
+      ],
+      "question": {
+        "wordId": "velvet",
+        "stem": "选择 \"velvet\" 的正确中文意思：",
+        "correct": "n.丝绒,天鹅绒 a.丝绒制的,柔软的",
+        "options": [
+          "n.丝绒,天鹅绒 a.丝绒制的,柔软的",
+          "n.阀;(英)电子管,真空管;(心脏的）瓣膜",
+          "v.服从, 顺从",
+          "n.头盔,钢盔"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'villosus'（多毛的），与 'villus'（绒毛）同源，核心物理动作指向物体表面覆盖着一层细密柔软的绒毛，形成丝绒特有的触感和外观。",
+        "similarWarning": "valve（n.阀门，活门）与 velvet 拼写差异在于 've' vs 'va' 及 'lvet' vs 'lve'；helmet（n.头盔）差异在于 'hel' vs 'vel' 及 'met' vs 'vet'。",
+        "extendedMeaning": "在考研语境中，常引申为‘柔和的、光滑的’（如 velvet voice 柔和的嗓音），或指‘天鹅绒般的质感’。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ventilate",
+      "word": "ventilate",
+      "phonetic": "/'ventileit/",
+      "meaning": "vt.使通风;给…装通风设备",
+      "similar": [
+        "estimate",
+        "intimate",
+        "investigate",
+        "centigrade",
+        "centimetre",
+        "legitimate"
+      ],
+      "question": {
+        "wordId": "ventilate",
+        "stem": "选择 \"ventilate\" 的正确中文意思：",
+        "correct": "vt.使通风;给…装通风设备",
+        "options": [
+          "v./n.估计,估价;评估",
+          "vt.使通风;给…装通风设备",
+          "v.调查,调查研究",
+          "a.亲密的,密切的 n.熟友,熟人"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "vent-（风，源自拉丁语ventus）+ -il-（连接成分）+ -ate（动词后缀）→ 让风进入 → 使通风。核心物理动作：引入空气流动。",
+        "similarWarning": "ventilate vs estimate（e-外+stim-刺+ -ate，意为“估计”，核心在“估价”而非“风”）；ventilate vs intimate（in-内+tim-恐惧+ -ate，意为“亲密的；暗示”，核心在“内部恐惧”而非“通风”）；ventilate vs investigate（in-内+vestig-追踪+ -ate，意为“调查”，核心在“追踪足迹”而非“风”）；ventilate vs centigrade（cent-百+grad-步，意为“摄氏的”，核心在“百步”而非“风”）；ventilate vs centimetre（cent-百+metr-测量，意为“厘米”，核心在“测量”而非“风”）；ventilate vs legitimate（leg-法律+ -itim- + -ate，意为“合法的”，核心在“法律”而非“风”）。差异点：vent-（风）vs estim-（刺/估价）、tim-（恐惧）、vestig-（足迹）、grad-（步）、metr-（测量）、leg-（法律）。",
+        "extendedMeaning": "考研僻义：公开讨论或表达（观点、不满等），如“ventilate one's grievances”（公开表达不满）。源自“使空气流通”引申为“使思想、情绪流通”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "venture",
+      "word": "venture",
+      "phonetic": "/'ventʃə/",
+      "meaning": "v.冒险,拼;大胆表示 n.冒险事业,拼,闯",
+      "similar": [
+        "adventure",
+        "centre",
+        "endure",
+        "ensure",
+        "entire",
+        "century",
+        "feature",
+        "gesture"
+      ],
+      "question": {
+        "wordId": "venture",
+        "stem": "选择 \"venture\" 的正确中文意思：",
+        "correct": "v.冒险,拼;大胆表示 n.冒险事业,拼,闯",
+        "options": [
+          "n.中心，中央，中间 vt.集中 vi.以..为中心",
+          "v.冒险,拼;大胆表示 n.冒险事业,拼,闯",
+          "n.冒险，冒险活动，奇遇 vt.大胆进行",
+          "v.忍受,持久,持续"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语venire（来）的过去分词ventus，核心动作是“来到（未知或危险之地）”。词根vent-表“来”，-ure为名词后缀。本义是“冒险来到某处”，引申为“冒险行动”或“敢于尝试”。",
+        "similarWarning": "adventure（ad-加强+venture，强调刺激的冒险经历）；venture强调商业或事业上的冒险投资；centre（中心）与venture无直接关联。",
+        "extendedMeaning": "在考研中常考“商业冒险、风险投资”义，如joint venture（合资企业）；也可作动词表示“敢于做（有风险的事）”，如venture to say（冒昧地说）。",
+        "examUsage": "常考搭配：venture capital（风险资本）；venture into（冒险进入）；I venture to suggest that...（我冒昧建议...）。真题中常作为核心题眼，区分risk（强调损失可能性）与venture（强调主动尝试）。"
+      }
+    },
+    {
+      "id": "verb",
+      "word": "verb",
+      "phonetic": "/və:b/",
+      "meaning": "n.动词",
+      "similar": [
+        "herb",
+        "adverb",
+        "verbal",
+        "avert",
+        "verge",
+        "verse"
+      ],
+      "question": {
+        "wordId": "verb",
+        "stem": "选择 \"verb\" 的正确中文意思：",
+        "correct": "n.动词",
+        "options": [
+          "n.动词",
+          "n.药草，(调味用的)香草，草本植物",
+          "a.用言辞的,用文字的;口头的;动词的",
+          "n.副词 a.副词的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 verbum（词、话语），核心动作为“说话/用词表达”。词根 verb- 直接对应“词语”，因此 verb 即表示“动词”，是语言中描述动作或状态的核心词类。",
+        "similarWarning": "herb（草药，h-开头 vs v-开头）；very（非常，词尾 -y 不同）；adverb（副词，前缀 ad- 加 verb）；verbal（口头的，后缀 -al 形容词化）；avert（避免，前缀 a- 加 vert- 转向）；every（每个，e- 加 very 变形）；verge（边缘，词尾 -ge 不同）；verse（诗歌，词尾 -se 不同）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "verbal",
+      "word": "verbal",
+      "phonetic": "/'və:bəl/",
+      "meaning": "a.用言辞的,用文字的;口头的;动词的",
+      "similar": [
+        "verb",
+        "aerial",
+        "cereal",
+        "serial",
+        "vertical"
+      ],
+      "question": {
+        "wordId": "verbal",
+        "stem": "选择 \"verbal\" 的正确中文意思：",
+        "correct": "a.用言辞的,用文字的;口头的;动词的",
+        "options": [
+          "a.用言辞的,用文字的;口头的;动词的",
+          "n.动词",
+          "a.(在或来自)空中的，航空的 n.天线",
+          "n.加工而成的谷类食物；谷类植物，谷物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语verbum（词、动词）。词根verb-（词）+形容词后缀-al，核心动作是“与词相关的”。强调语言表达的形式，区别于非语言或实质内容。",
+        "similarWarning": "verb（动词）、aerial（航空的）、cereal（谷物）、serial（连续的）、vertical（垂直的）。区别在于首字母及中间字母：verbal强调语言；aerial与air相关；cereal与谷物相关；serial强调顺序；vertical强调方向。",
+        "extendedMeaning": "在考研中常引申为“字面的、逐字的”，如verbal translation（逐字翻译）；或“言语的、非书面的”，如verbal agreement（口头协议）。",
+        "examUsage": "真题考点：verbal与oral辨析。verbal偏重“用词表达”，oral偏重“口头的、口腔的”。常见搭配：verbal communication（言语交际），verbal skills（语言技能）。"
+      }
+    },
+    {
+      "id": "verdict",
+      "word": "verdict",
+      "phonetic": "/'və:dikt/",
+      "meaning": "n.(陪审团的)裁决,判决；判断；定论",
+      "similar": [
+        "vertical"
+      ],
+      "question": {
+        "wordId": "verdict",
+        "stem": "选择 \"verdict\" 的正确中文意思：",
+        "correct": "n.(陪审团的)裁决,判决；判断；定论",
+        "options": [
+          "a.阴暗的,阴沉的,令人沮丧的,阴郁的",
+          "n.(陪审团的)裁决,判决；判断；定论",
+          "n.车间，工场，修理厂；研讨会，讲习班",
+          "a.垂直的,竖的 n.垂线"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语veredictum，由verus（真实的）+dictum（说出）组合而成，核心动作是“说出真实”，即陪审团基于事实给出的正式裁决。",
+        "similarWarning": "vertical（垂直的）: 拼写差异为“-tical” vs “-dict”，含义完全不同，vertical强调方向，verdict强调法律判决。",
+        "extendedMeaning": "在考研中常引申为“定论、决定性意见”，不限于法律语境，如“the verdict of history”（历史的定论）。",
+        "examUsage": "常见搭配“reach a verdict”（达成裁决）、“jury verdict”（陪审团裁决），真题中常作为法律类阅读的核心题眼，辨析“verdict”与“sentence”（判决）的区别。"
+      }
+    },
+    {
+      "id": "verge",
+      "word": "verge",
+      "phonetic": "/və:dʒ/",
+      "meaning": "n.边,边缘 v.濒临",
+      "similar": [
+        "merge",
+        "verse",
+        "average",
+        "emerge",
+        "edge",
+        "mere",
+        "urge",
+        "verb"
+      ],
+      "question": {
+        "wordId": "verge",
+        "stem": "选择 \"verge\" 的正确中文意思：",
+        "correct": "n.边,边缘 v.濒临",
+        "options": [
+          "n.韵文,诗;诗节,诗句",
+          "v.(使)结合，(使)合并，(使)合为一体",
+          "n.平均,平均数 a.平均的；普通的 v.平均",
+          "n.边,边缘 v.濒临"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语\"virga\"（嫩枝、绿枝），引申为“边界、边缘”，因为嫩枝常被用作田地的边界标记；动词“濒临”源于“接近边缘”的物理动作。",
+        "similarWarning": "merge（合并）: m（移动）+erge（浸入）→浸入一起，强调融合；verge（边缘）: v（方向）+erge（弯曲）→弯曲到边界，强调接近临界点。",
+        "extendedMeaning": "动词“濒临，接近”（尤指糟糕状态），如\"verge on collapse\"（濒临崩溃）或\"verge on the absurd\"（近乎荒谬），考研常考此引申义。",
+        "examUsage": "常考搭配\"on the verge of\"（濒临…，即将…），如\"on the verge of a breakthrough\"（即将突破），真题中常作为细节定位词或干扰项出现。"
+      }
+    },
+    {
+      "id": "verify",
+      "word": "verify",
+      "phonetic": "/'verifai/",
+      "meaning": "vt.证实,查证;证明",
+      "similar": [
+        "certify",
+        "terrify",
+        "purify"
+      ],
+      "question": {
+        "wordId": "verify",
+        "stem": "选择 \"verify\" 的正确中文意思：",
+        "correct": "vt.证实,查证;证明",
+        "options": [
+          "v.使害怕,使惊恐",
+          "v.使纯净,提纯",
+          "vt.证明，证实；发证书(或执照)给",
+          "vt.证实,查证;证明"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根ver-（真实）+ -ify（使动后缀）→使变得真实→证实、查证。核心动作：通过证据将某事物从不确定状态转化为确定真实状态。",
+        "similarWarning": "certify（证明合格，词根cert-确定）强调官方认证；terrify（使恐惧，词根terr-惊吓）完全不同；very（非常，形容词/副词）拼写相似但词源无关；purify（净化，词根pur-纯净）侧重清洁。",
+        "extendedMeaning": "在计算机语境中，verify指数据校验（如verify signature验证签名）；在学术写作中，verify a theory（通过实验）验证理论，区别于prove（数学证明）。",
+        "examUsage": "考研真题常考搭配：verify the accuracy（核实准确性）及被动结构be verified by（由...证实）。干扰项常为confirm（确认，但无查证过程）或prove（证明，侧重逻辑推导）。"
+      }
+    },
+    {
+      "id": "versatile",
+      "word": "versatile",
+      "phonetic": "/'və:sətail/",
+      "meaning": "a.通用的;多才多艺的,多方面的",
+      "similar": [
+        "fertile"
+      ],
+      "question": {
+        "wordId": "versatile",
+        "stem": "选择 \"versatile\" 的正确中文意思：",
+        "correct": "a.通用的;多才多艺的,多方面的",
+        "options": [
+          "n.尖端;末端;小费 n./v.轻击;倾斜;给小费",
+          "v.惩罚,处罚",
+          "a.通用的;多才多艺的,多方面的",
+          "a.肥沃的,富饶的;能繁殖的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根vers-（转）+ -atile（形容词后缀，表能力）。核心动作：能够灵活转动、切换方向。引申为可适应多种用途或场景，即“通用的、多才多艺的”。",
+        "similarWarning": "与fertile（肥沃的）区别：versatile侧重“多用途、多技能”，核心是vers-（转）；fertile侧重“多产、肥沃”，核心是fer-（带来、生产）。拼写差异：versatile以vers-开头，fertile以fer-开头。",
+        "extendedMeaning": "在考研中常考“多功能的、用途广泛的”，如a versatile tool（多功能工具）；也可指人“多才多艺的”，如a versatile performer（多才多艺的表演者）。",
+        "examUsage": "真题考点：常与adaptable（适应性强的）、flexible（灵活的）构成同义替换。真题例句：The versatile nature of the material makes it suitable for various applications.（这种材料的多功能性使其适用于多种用途。）"
+      }
+    },
+    {
+      "id": "verse",
+      "word": "verse",
+      "phonetic": "/və:s/",
+      "meaning": "n.韵文,诗;诗节,诗句",
+      "similar": [
+        "verge",
+        "adverse",
+        "diverse",
+        "inverse",
+        "reverse",
+        "versus",
+        "vessel",
+        "ease"
+      ],
+      "question": {
+        "wordId": "verse",
+        "stem": "选择 \"verse\" 的正确中文意思：",
+        "correct": "n.韵文,诗;诗节,诗句",
+        "options": [
+          "n.韵文,诗;诗节,诗句",
+          "n.边,边缘 v.濒临",
+          "a.逆的，相反的；敌对的；不利的；有害的",
+          "a.多种多样的,(from)不同的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根vers-（转，旋转）。verse本义为“转行”，指诗歌中每行末尾的韵律转折，引申为“韵文、诗节”。核心动作：书写时行末的韵律回旋。",
+        "similarWarning": "形近词对比：verse（诗）vs. verge（边缘，v.濒临）vs. adverse（不利的，ad-朝向+vers-转）vs. diverse（不同的，di-分开+vers-转）vs. inverse（相反的，in-向内+vers-转）vs. reverse（反转，re-回+vers-转）vs. versus（对抗，vers-转+us，表示“转向对方”）vs. vessel（容器，vess-走+el，与verse无关）vs. ease（安逸，与verse拼写差异大）。核心区分：verse核心是“韵文”，其他词多含“转”的动作义。",
+        "extendedMeaning": "考研僻义：verse可作动词，意为“用诗表达”，但更常见于名词短语blank verse（无韵诗）或free verse（自由诗），在文学类阅读中需识别。",
+        "examUsage": "真题考点：verse常与poem（诗，泛指）、stanza（诗节，技术性更强）辨析。在完形或阅读中，注意verse强调“有韵律的诗行”，而非普通诗歌。例句：The poet wrote in elegant verse.（诗人以优雅韵文写作。）"
+      }
+    },
+    {
+      "id": "version",
+      "word": "version",
+      "phonetic": "/'və:ʃən/",
+      "meaning": "n.版本;译本,译文;说法",
+      "similar": [
+        "diversion",
+        "vision",
+        "erosion",
+        "pension",
+        "session",
+        "tension",
+        "decision"
+      ],
+      "question": {
+        "wordId": "version",
+        "stem": "选择 \"version\" 的正确中文意思：",
+        "correct": "n.版本;译本,译文;说法",
+        "options": [
+          "n.转向,转移;牵制;解闷;娱乐",
+          "n.版本;译本,译文;说法",
+          "n.腐蚀,磨损;削弱,减少",
+          "n.视力,视觉;远见;洞察力;幻想,幻影;想象力"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根vert/vers（转）+ -ion名词后缀。本义为“转变成另一种形式”，即从原版转化出的不同版本或译本，引申为对同一事件的不同“说法”。",
+        "similarWarning": "diversion（n.转移，消遣）与version仅差di-前缀，diversion强调“转向别处”；version强调“转变后的产物”。",
+        "extendedMeaning": "在考研阅读中常表“（对事件的）描述，说法”，如a version of events（对事件的一种描述），并非字面“版本”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "versus",
+      "word": "versus",
+      "phonetic": "/'və:səs/",
+      "meaning": "prep.(vs.)…对…(在诉讼,比赛等);与…相对",
+      "similar": [
+        "verse",
+        "virus",
+        "census",
+        "overseas"
+      ],
+      "question": {
+        "wordId": "versus",
+        "stem": "选择 \"versus\" 的正确中文意思：",
+        "correct": "prep.(vs.)…对…(在诉讼,比赛等);与…相对",
+        "options": [
+          "n.人口普查(调查)",
+          "prep.(vs.)…对…(在诉讼,比赛等);与…相对",
+          "n.病毒;(精神,道德方面的)有害影响",
+          "n.韵文,诗;诗节,诗句"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语versus，意为“转向、相对”。词根vert/vers（转）的核心动作是“转变方向”，versus即“转向对方”，引申为“对抗、对比”。",
+        "similarWarning": "verse（诗歌/诗句，n.）vs. versus（对抗，prep.）：verse是“一行诗”，versus是“相对”。virus（病毒，n.）：拼写差一个字母，但词源无关。census（人口普查，n.）：拼写开头不同。overseas（海外的，adj./adv.）：拼写长，意思无关。",
+        "extendedMeaning": "在外刊和真题中，versus常用于表示“对比、比较”而非仅对抗，如“nature versus nurture”（先天与后天之争）。",
+        "examUsage": "考研中常作为连接词出现在议论文或图表作文中，表示对立或对比关系，如“the benefits versus the costs”（收益与成本对比），需注意其介词词性。"
+      }
+    },
+    {
+      "id": "vertical",
+      "word": "vertical",
+      "phonetic": "/'vɜ:tɪkl/",
+      "meaning": "a.垂直的,竖的 n.垂线",
+      "similar": [
+        "identical",
+        "skeptical",
+        "aerial",
+        "serial",
+        "verbal",
+        "medical",
+        "optical",
+        "partial"
+      ],
+      "question": {
+        "wordId": "vertical",
+        "stem": "选择 \"vertical\" 的正确中文意思：",
+        "correct": "a.垂直的,竖的 n.垂线",
+        "options": [
+          "a.(在或来自)空中的，航空的 n.天线",
+          "a.怀疑的 [英]sceptical",
+          "a.(to.with)同一的,同样的",
+          "a.垂直的,竖的 n.垂线"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 vert-（转）+ -ical（形容词后缀）。核心物理动作：转动的轴线方向，即垂直于水平面的方向。源自拉丁语 vertex（顶点、旋涡），强调从水平面旋转90度后形成的直立状态。",
+        "similarWarning": "vertical vs. verbal（口头的）：vert-（转）vs. verb-（词）；aerial（空中的）：aer-（空气）vs. vert-；serial（连续的）：ser-（连接）vs. vert-。",
+        "extendedMeaning": "垂直的（引申为纵向的、层级分明的）：如 vertical integration（纵向整合，指企业控制上下游产业链）。",
+        "examUsage": "vertical mobility（纵向流动，指社会阶层或职业地位的升降）常与社会分层（social stratification）类阅读搭配出现。"
+      }
+    },
+    {
+      "id": "vessel",
+      "word": "vessel",
+      "phonetic": "/'vesəl/",
+      "meaning": "n.容器,器皿;船,舰;管,血管",
+      "similar": [
+        "verse"
+      ],
+      "question": {
+        "wordId": "vessel",
+        "stem": "选择 \"vessel\" 的正确中文意思：",
+        "correct": "n.容器,器皿;船,舰;管,血管",
+        "options": [
+          "n.证据,证词;表明,说明",
+          "n.韵文,诗;诗节,诗句",
+          "n.电器；器械，装置；应用，适用",
+          "n.容器,器皿;船,舰;管,血管"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 vascellum（小容器），是 vas（容器）的指小形式。核心物理动作是“容纳”，引申为任何可容纳东西的器具：容器（杯、壶）、运输工具（船舰）、生物管道（血管、导管）。",
+        "similarWarning": "verse（n.诗句，韵文）：vessel 含“-ss-”和“-el”，侧重“容器/管道”；verse 含“-rs-”和“-e”，侧重“文字排列”。",
+        "extendedMeaning": "在考研阅读中常考“血管/导管”义（如 blood vessel），或比喻义“载体/渠道”（如 a vessel of communication）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "vest",
+      "word": "vest",
+      "phonetic": "/vest/",
+      "meaning": "n.背心,马甲;汗衫,内衣",
+      "similar": [
+        "best",
+        "lest",
+        "nest",
+        "pest",
+        "vast",
+        "west",
+        "invest",
+        "avert"
+      ],
+      "question": {
+        "wordId": "vest",
+        "stem": "选择 \"vest\" 的正确中文意思：",
+        "correct": "n.背心,马甲;汗衫,内衣",
+        "options": [
+          "n.窝,巢 v.筑巢",
+          "n.背心,马甲;汗衫,内衣",
+          "a.最好的(good和well最高级) ad.最好地；",
+          "conj.惟恐,免得"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语vestis（衣服、长袍），核心动作是“覆盖身体”。本义为穿在外面的衣服，后特指无袖上衣（背心/马甲），再引申为贴身内衣（汗衫）。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "veteran",
+      "word": "veteran",
+      "phonetic": "/'vetərən/",
+      "meaning": "n.老手,老兵",
+      "similar": [],
+      "question": {
+        "wordId": "veteran",
+        "stem": "选择 \"veteran\" 的正确中文意思：",
+        "correct": "n.老手,老兵",
+        "options": [
+          "n.面具,面罩;假面具,伪装 v. 掩饰,化装",
+          "n.老手,老兵",
+          "n.灵感;鼓舞,激励",
+          "a.稀有的,难得的,珍奇的;稀薄的,稀疏的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'vetus'（老的），通过 'veteranus'（年老的、经验丰富的）演变。核心动作/画面是“经历过长时间服役的人”，强调因长期实践而获得的经验与熟练度。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中常引申为“经验丰富的人；资深者”，不限于军事领域，可用于职场、行业等，如 a veteran teacher（资深教师）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "veto",
+      "word": "veto",
+      "phonetic": "/'vi:təu/",
+      "meaning": "n./v.否决",
+      "similar": [],
+      "question": {
+        "wordId": "veto",
+        "stem": "选择 \"veto\" 的正确中文意思：",
+        "correct": "n./v.否决",
+        "options": [
+          "n./v.否决",
+          "v.防止，避免 ；转移(目光、注意力等)",
+          "a.合成的,人造的;综合的",
+          "vt.改变，更改；改做(衣服) vi.改变，变化"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语动词vetare“禁止”，直译是“我禁止”。词根vet-表“禁止、反对”，与vote（投票）同源但语义分化：vote是“表达意愿”，veto是“行使一票否决权”。核心物理动作是“用权力阻止某提案通过”，强调单方面强制终止。",
+        "similarWarning": "",
+        "extendedMeaning": "考研中常考“否决权”的抽象引申，如“行使否决权”（exercise a veto），或作动词“否决（提议/计划）”，例：The president vetoed the bill.（总统否决了该法案。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "via",
+      "word": "via",
+      "phonetic": "/'vaiə/",
+      "meaning": "prep.经；通过；凭借",
+      "similar": [
+        "visa",
+        "vital"
+      ],
+      "question": {
+        "wordId": "via",
+        "stem": "选择 \"via\" 的正确中文意思：",
+        "correct": "prep.经；通过；凭借",
+        "options": [
+          "a.生死攸关的,重大的;生命的,生机的",
+          "prep.经；通过；凭借",
+          "n.(护照等的)签证;维萨信用卡 vt.签证",
+          "n.亚麻布,亚麻布制品"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语via，意为“道路、路径”。核心物理动作是“沿着一条路走”，引申为“经由某种路径或方式”。",
+        "similarWarning": "visa（签证，字母s替换a，侧重官方许可）；vital（关键的，字母t+al替换a，侧重生命必需）。via强调“通过路径”，visa是“通行凭证”，vital是“至关重要”。",
+        "extendedMeaning": "在考研阅读中，via常被用作“凭借某种手段或媒介”，如via email（通过电子邮件）、via the Internet（通过互联网），强调方式而非具体路径。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "vibrate",
+      "word": "vibrate",
+      "phonetic": "/vai'breit/",
+      "meaning": "v.(使)振动,(使)摇摆；受…而感动",
+      "similar": [
+        "liberate",
+        "pirate",
+        "migrate",
+        "violate",
+        "emigrate"
+      ],
+      "question": {
+        "wordId": "vibrate",
+        "stem": "选择 \"vibrate\" 的正确中文意思：",
+        "correct": "v.(使)振动,(使)摇摆；受…而感动",
+        "options": [
+          "v.(使)振动,(使)摇摆；受…而感动",
+          "vt.解放,释放",
+          "n./v.海盗,盗版(者)",
+          "v.迁移,移居(国外)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语vibrare（快速来回移动），核心物理动作为“来回摆动”。词根vibr-表“震动、摇摆”，-ate为动词后缀。本义指物体在平衡位置附近做周期性的往复运动，即“振动”；引申为情感或氛围上的“受感动”，如同内心被触动而产生共鸣般的波动。",
+        "similarWarning": "形近词辨析：\n- liberate（解放）：lib-（自由）+ -erate，强调“解除束缚”。\n- pirate（海盗）：pira-（尝试）+ -ate，与“海上掠夺”相关。\n- migrate（迁移）：migr-（移动）+ -ate，指“从一地移居另一地”。\n- violate（违反）：viol-（力量）+ -ate，侧重“侵犯、违背”。\n- emigrate（移居国外）：e-（向外）+migr-（移动）+ -ate，强调“离开本国”。\n记忆关键：vibrate核心在“来回运动”，与上述词无拼写重叠，但注意与vibrant（充满活力的）区分。",
+        "extendedMeaning": "考研僻义：指“（情感、氛围）强烈地影响或打动”，如：The music vibrated through the hall.（音乐在大厅中回荡，充满感染力。）或 Her voice vibrated with passion.（她的声音因激情而颤抖。）",
+        "examUsage": "真题考点：常与介词with搭配，表示“因…而颤动/共鸣”，如 vibrate with excitement（因兴奋而颤抖）；或用于科技类阅读中描述物理振动（如声波、机械振动）。注意与vibrant（充满活力的）在语境中的区别，后者侧重“活跃、鲜艳”，如 a vibrant city（充满活力的城市）。"
+      }
+    }
+  ]
+}

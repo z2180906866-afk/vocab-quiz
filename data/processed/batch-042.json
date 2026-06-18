@@ -1,0 +1,1741 @@
+{
+  "batchId": 42,
+  "words": [
+    {
+      "id": "information",
+      "word": "information",
+      "phonetic": "/ˌɪnfə'meɪʃn/",
+      "meaning": "n.通知,报告;情报,资料,消息;信息",
+      "similar": [
+        "formation",
+        "inflation",
+        "innovation",
+        "automation",
+        "indication",
+        "invitation",
+        "indignation",
+        "inspiration"
+      ],
+      "question": {
+        "wordId": "information",
+        "stem": "选择 \"information\" 的正确中文意思：",
+        "correct": "n.通知,报告;情报,资料,消息;信息",
+        "options": [
+          "n.通知,报告;情报,资料,消息;信息",
+          "n.形成;构成;组织;构造;编制;塑造",
+          "n.改革，革新；新观念，新方法，新发明",
+          "n.通货膨胀"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"来自拉丁语\"informare\"（赋予形态、塑造），由\"in-\"（进入）+\"forma\"（形状、形式）组成。核心动作是\"将无形的事物赋予形态\"，即把原始数据或事实整理成有结构的、可理解的内容。词根\"form\"表\"形状\"，后缀\"-ation\"表行为过程，故本义为\"赋予形态的过程\"，引申为\"被传递的知识或消息\"。\",\n  \"similarWarning\": \"formation：强调\"形成的过程或结构\"；inflation：强调\"膨胀或物价上涨\"；innovation：强调\"创新或新事物\"；automation：强调\"自动化\"；indication：强调\"指示或",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "infrared",
+      "word": "infrared",
+      "phonetic": "/ˌinfrə'red/",
+      "meaning": "a./n.红外线(的)",
+      "similar": [
+        "inward"
+      ],
+      "question": {
+        "wordId": "infrared",
+        "stem": "选择 \"infrared\" 的正确中文意思：",
+        "correct": "a./n.红外线(的)",
+        "options": [
+          "n.(odour)气味,香味,臭味,名声",
+          "a./n.红外线(的)",
+          "n.憎恨,憎恶,怨恨",
+          "ad.向内,在内 a.向内的,在内的,里面的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根：infra-（在…之下）+ red（红色）。物理光谱中，红色光频率最低，红外线位于红色光之外（频率更低），故称“红外线”。核心动作：低于红色光谱范围的光线。",
+        "similarWarning": "inward（内部的）：in-（向内）+ ward（方向），指方向向内。红外线infrared强调光谱位置，inward强调空间方向，拼写差异为“ra” vs “wa”。",
+        "extendedMeaning": "考研僻义：无特殊僻义。",
+        "examUsage": "真题考点：常作为科技类阅读中的专有名词出现，需区分红外线与紫外线（ultraviolet）的波段位置。注意搭配：infrared radiation（红外辐射）、infrared detector（红外探测器）。"
+      }
+    },
+    {
+      "id": "infrastructure",
+      "word": "infrastructure",
+      "phonetic": "/'infrəˌstrʌktʃə/",
+      "meaning": "n.基础结构，基础设施",
+      "similar": [],
+      "question": {
+        "wordId": "infrastructure",
+        "stem": "选择 \"infrastructure\" 的正确中文意思：",
+        "correct": "n.基础结构，基础设施",
+        "options": [
+          "n.堂(或表)兄弟,堂(或表)姐妹",
+          "v./n.羡慕,忌妒",
+          "n.刺激;动力;鼓励;诱因;动机",
+          "n.基础结构，基础设施"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由前缀infra-（在...之下）+ structure（结构）构成。字面义为“下部结构”，引申为支撑社会运行的“基础设施”或“基础结构”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中，常引申为“支撑体系、底层系统”，如economic infrastructure（经济基础体系）、social infrastructure（社会基础设施，如医疗、教育系统）。",
+        "examUsage": "常与investment, development, construction搭配，如infrastructure investment（基础设施投资）；偶考其与superstructure（上层建筑）的对比关系。"
+      }
+    },
+    {
+      "id": "ingenious",
+      "word": "ingenious",
+      "phonetic": "/in'dʒi:njəs/",
+      "meaning": "a.机敏的;有独创性的;精致的;精巧制成的",
+      "similar": [
+        "infectious"
+      ],
+      "question": {
+        "wordId": "ingenious",
+        "stem": "选择 \"ingenious\" 的正确中文意思：",
+        "correct": "a.机敏的;有独创性的;精致的;精巧制成的",
+        "options": [
+          "a.机敏的;有独创性的;精致的;精巧制成的",
+          "a.传染的,传染性的,有感染力的",
+          "n.相关联的事物 v.(with,to)(使)互相关联",
+          "n.柜台;计数器 a./ad.相反(的) v.反对,反击"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为gen（产生、起源），in-（向内）+ gen（产生）+ -ious（形容词后缀）→ 内心产生想法 → 天生具有创造力的。核心物理动作：内在的、与生俱来的生成能力。",
+        "similarWarning": "形近词infectious（传染的）：ingenious vs infectious，字母差异为'g' vs 'fec'，词义差异：前者强调创造天赋（in+gen），后者强调传播感染（in+fect）。",
+        "extendedMeaning": "考研中常考‘精巧制成的’（指物品设计巧妙），如‘an ingenious device’（精巧装置），区别于普通‘clever’。",
+        "examUsage": "真题考点：常与‘original’（独创的）同义替换，或与‘naive’（天真的）形成干扰（拼写相似）。例句：‘The ingenious solution saved the company millions.’（2012年阅读）"
+      }
+    },
+    {
+      "id": "ingredient",
+      "word": "ingredient",
+      "phonetic": "/in'gri:diənt/",
+      "meaning": "n.(混合物的)组成部分，配料；成份，要素",
+      "similar": [
+        "incident",
+        "inherent",
+        "obedient",
+        "agreement",
+        "incredible"
+      ],
+      "question": {
+        "wordId": "ingredient",
+        "stem": "选择 \"ingredient\" 的正确中文意思：",
+        "correct": "n.(混合物的)组成部分，配料；成份，要素",
+        "options": [
+          "n.(混合物的)组成部分，配料；成份，要素",
+          "n.事件,事变",
+          "a.固有的,内在的,天生的",
+          "a.服从的,顺从的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ gred-（=grad，步，走）+ -ient（名词后缀）→ 进入（混合物）中的东西 → 组成部分、配料。核心动作：走入其中成为一部分。",
+        "similarWarning": "incident（in-进入 + cid-落 + -ent → 落入的事件 → 事件）；inherent（in-内 + her-粘 + -ent → 粘在内部 → 固有的）；obedient（ob-朝向 + edi-听 + -ent → 听从的 → 服从的）；agreement（agree同意 + -ment名词后缀 → 协议）；incredible（in-不 + cred-相信 + -ible → 不可信的）。区别关键：ingredient 核心在“gred-（步）”，强调“进入混合物中的成分”。",
+        "extendedMeaning": "在考研阅读中常引申为“（构成某事物的）因素、要素”，如 the ingredients of success（成功的要素）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "inhabit",
+      "word": "inhabit",
+      "phonetic": "/in'hæbit/",
+      "meaning": "vt.居住于,存在于;栖息于",
+      "similar": [
+        "inhibit",
+        "habit",
+        "inherit"
+      ],
+      "question": {
+        "wordId": "inhabit",
+        "stem": "选择 \"inhabit\" 的正确中文意思：",
+        "correct": "vt.居住于,存在于;栖息于",
+        "options": [
+          "vt.居住于,存在于;栖息于",
+          "vt.抑制，约束",
+          "n.习惯,习性,脾性",
+          "vt.继承(金钱等)，经遗传而得(性格、特征)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ habit（居住）→ 进入并定居于某处，核心动作为“在某地长期居住”。拉丁语habitare（居住）的衍生，强调作为栖息地的持续存在。",
+        "similarWarning": "inhabit（居住于） vs inhibit（抑制，in-+hibit=持有，指“握持在内”即阻止） vs inherit（继承，in-+herit=继承，指“进入继承状态”）。注意字母差异：habit vs hibit vs herit，词根含义不同。",
+        "extendedMeaning": "（考研僻义）1. 存在于，弥漫于（抽象事物）：The spirit of cooperation inhabits the team. 2. 栖息于（生态学语境）：Birds inhabit the forest canopy. 3. 占据（时间/空间）：Memories inhabit his mind.",
+        "examUsage": "（真题考点）常与介词in连用：inhabit a region（居住于某地区）。注意与live in的区别：inhabit为及物动词，直接接宾语；live in需加介词。真题例句：The island is inhabited by a unique species.（该岛栖息着一种独特物种。）"
+      }
+    },
+    {
+      "id": "inhabitant",
+      "word": "inhabitant",
+      "phonetic": "/in'hæbitənt/",
+      "meaning": "n.居民,住户",
+      "similar": [],
+      "question": {
+        "wordId": "inhabitant",
+        "stem": "选择 \"inhabitant\" 的正确中文意思：",
+        "correct": "n.居民,住户",
+        "options": [
+          "n.居民,住户",
+          "a.锋利的;轮廓分明的;急转的ad.(指时刻)正",
+          "v.耽搁;扣押,拘留",
+          "n./v.拥挤;聚集v.(因寒冷、害怕而)缩成一团"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ habit（居住，来自拉丁语habitare，意为“居住”）+ -ant（名词后缀，表示“人”）。核心动作：进入某地并长期居住的人，即“居民”。强调居住状态，而非短暂停留。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中常引申为“（特定地区的）常住生物”或“（抽象领域的）存在者”，如“inhabitants of the forest”（森林中的常住生物）或“inhabitants of the digital world”（数字世界的居民）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "inhale",
+      "word": "inhale",
+      "phonetic": "/in'heil/",
+      "meaning": "v.吸入(气体等)，吸(烟)",
+      "similar": [
+        "whale",
+        "invade"
+      ],
+      "question": {
+        "wordId": "inhale",
+        "stem": "选择 \"inhale\" 的正确中文意思：",
+        "correct": "v.吸入(气体等)，吸(烟)",
+        "options": [
+          "n.援助，救护；助手，辅助物 vi.援助，救援",
+          "vt.入侵,侵略,侵袭,侵扰",
+          "n.鲸；庞然大物",
+          "v.吸入(气体等)，吸(烟)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in- (进入) + hale (呼吸，源自拉丁语halare)。核心动作：将气体吸入体内。",
+        "similarWarning": "whale (鲸鱼，w替换h)；invade (入侵，in+vade走，与呼吸无关)。",
+        "extendedMeaning": "考研中可引申为‘吸收、接纳’抽象事物，如inhale new ideas (吸收新思想)。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "inherent",
+      "word": "inherent",
+      "phonetic": "/in'hiərənt/",
+      "meaning": "a.固有的,内在的,天生的",
+      "similar": [
+        "inherit",
+        "coherent",
+        "different",
+        "inference",
+        "intervene",
+        "insert",
+        "invent",
+        "invert"
+      ],
+      "question": {
+        "wordId": "inherent",
+        "stem": "选择 \"inherent\" 的正确中文意思：",
+        "correct": "a.固有的,内在的,天生的",
+        "options": [
+          "a.固有的,内在的,天生的",
+          "vt.继承(金钱等)，经遗传而得(性格、特征)",
+          "a.一致的，协调的；(话语等)条理清楚的",
+          "a.差异的,差异的,不同的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（向内）+her（粘附）+ent（形容词后缀）→粘附于内部→固有的、内在的。核心动作：内在附着，无法剥离。",
+        "similarWarning": "inherit（继承）：in-（向内）+her（继承）+it（动词后缀）→向内接收遗产；inherent强调“内在固有”，inherit强调“继承获得”。coherent（连贯的）：co-（共同）+her（粘附）+ent→粘在一起→逻辑连贯；inherent是内在属性，coherent是外部一致性。",
+        "extendedMeaning": "在考研真题中常引申为“与生俱来的、本质的”，如inherent risk（固有风险）、inherent value（内在价值），强调不可分割的固有特性。",
+        "examUsage": "考点：inherent in（存在于…中，为…所固有），如The risks inherent in this plan are obvious.（这个计划固有的风险显而易见。）真题中常作为干扰项，与be born with（天生具有）同义替换。"
+      }
+    },
+    {
+      "id": "inherit",
+      "word": "inherit",
+      "phonetic": "/in'herit/",
+      "meaning": "vt.继承(金钱等)，经遗传而得(性格、特征)",
+      "similar": [
+        "inherent",
+        "insert",
+        "invert",
+        "inhabit",
+        "inhibit",
+        "interim",
+        "integrity",
+        "inferior"
+      ],
+      "question": {
+        "wordId": "inherit",
+        "stem": "选择 \"inherit\" 的正确中文意思：",
+        "correct": "vt.继承(金钱等)，经遗传而得(性格、特征)",
+        "options": [
+          "a.固有的,内在的,天生的",
+          "v.插入,嵌入;登载 n.插入物",
+          "v.倒置,倒转,颠倒",
+          "vt.继承(金钱等)，经遗传而得(性格、特征)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ herit（继承，源自拉丁语heres，意为‘继承人’）→ 使某物进入继承状态 → 继承遗产或遗传特质。核心动作：从前辈处获得（财产或基因）。",
+        "similarWarning": "inherent（固有的，内在的）：-ent为形容词后缀，强调‘与生俱来’；inherit为动词，强调‘获得’过程。注意拼写差异：inherit中无‘e’，inherent有‘e’且结尾为-ent。",
+        "extendedMeaning": "考研僻义：遗传获得（性格、特征）。如‘inherit a genetic disorder’（遗传疾病），非仅指财产继承。",
+        "examUsage": "真题考点：常与from搭配，如‘inherit sth. from sb.’；干扰项可能混淆inherit与inherent（形容词）。例句：Children inherit many traits from their parents.（考研阅读）"
+      }
+    },
+    {
+      "id": "inhibit",
+      "word": "inhibit",
+      "phonetic": "/in'hibit/",
+      "meaning": "vt.抑制，约束",
+      "similar": [
+        "inhabit",
+        "exhibit",
+        "inherit",
+        "infinite",
+        "prohibit"
+      ],
+      "question": {
+        "wordId": "inhibit",
+        "stem": "选择 \"inhibit\" 的正确中文意思：",
+        "correct": "vt.抑制，约束",
+        "options": [
+          "vt.继承(金钱等)，经遗传而得(性格、特征)",
+          "v.展出,陈列 n.展览品,陈列品",
+          "vt.居住于,存在于;栖息于",
+          "vt.抑制，约束"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in- (进入) + hibit (持有，握持) → 原指“把持住、抓在手里不放”，引申为“抑制、约束”动作：阻止某事物发展或释放。",
+        "similarWarning": "inhabit (in-在内 + habit居住) 居住于；exhibit (ex-向外 + hibit展示) 展览；inherit (in-进入 + herit继承) 继承；infinite (in-不 + finite有限) 无限的；prohibit (pro-向前 + hibit阻止) 禁止。",
+        "extendedMeaning": "【心理/生理】抑制（本能、冲动、反应）：如 inhibit the release of hormones (抑制激素释放)。",
+        "examUsage": "真题考点：inhibit…from doing (抑制/阻止…做某事)。例句：Fear can inhibit people from expressing their opinions. (恐惧会抑制人们表达观点。)"
+      }
+    },
+    {
+      "id": "initial",
+      "word": "initial",
+      "phonetic": "/i'niʃəl/",
+      "meaning": "a.最初的,开头的;词首的 n.词首大写字母",
+      "similar": [
+        "initiate",
+        "critical"
+      ],
+      "question": {
+        "wordId": "initial",
+        "stem": "选择 \"initial\" 的正确中文意思：",
+        "correct": "a.最初的,开头的;词首的 n.词首大写字母",
+        "options": [
+          "a.批评的,评论的;危急,紧要的;临界的",
+          "vt.开始，创始，发动；启蒙，使入门；引入",
+          "n.自由，自由权；特权",
+          "a.最初的,开头的;词首的 n.词首大写字母"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'initium'（开始），由 'in-'（进入）+ 'ire'（走）的过去分词 'itus' 构成，字面义为“走入其中”，引申为“最初的、开头的”。核心动作是“进入起点”，强调时间或顺序上的起始状态。",
+        "similarWarning": "initiate（发起，开始）与 initial 共享词根 'init-'，但 initiate 是动词，强调“启动某个进程”；critical（批评的，关键的）拼写相似但词源无关，critical 源于希腊语 'kritikos'（判断），注意区分 'crit-' 与 'init-'。",
+        "extendedMeaning": "在考研阅读中，initial 可引申为“初步的、初步阶段的”，如 initial assessment（初步评估），强调尚未深入的早期状态。",
+        "examUsage": "常见搭配 'initial stage'（初始阶段）在真题中作为时间顺序题眼出现，例如：'The initial phase of the experiment was crucial for later results.' 注意与 'primary'（首要的）区分，initial 侧重时间先后，primary 侧重重要性。"
+      }
+    },
+    {
+      "id": "initiate",
+      "word": "initiate",
+      "phonetic": "/i'niʃieit/",
+      "meaning": "vt.开始，创始，发动；启蒙，使入门；引入",
+      "similar": [
+        "initiative",
+        "imitate",
+        "initial",
+        "intimate",
+        "intimidate",
+        "institute",
+        "intricate",
+        "invite"
+      ],
+      "question": {
+        "wordId": "initiate",
+        "stem": "选择 \"initiate\" 的正确中文意思：",
+        "correct": "vt.开始，创始，发动；启蒙，使入门；引入",
+        "options": [
+          "vt.开始，创始，发动；启蒙，使入门；引入",
+          "a.最初的,开头的;词首的 n.词首大写字母",
+          "a.创始的,起始的 n.第一步,创始,主动精神",
+          "v.模仿,仿效;仿造,伪造"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'initiare'（开始），词根 'in-'（进入）+ 'ire'（走）的过去分词 'itus'，字面意为 '走入'。核心动作是 '进入（某个过程或状态）'，引申为 '开始、创始'（使某事进入运行），或 '使入门'（使某人进入知识领域），以及 '引入'（使进入新环境）。",
+        "similarWarning": "initiative（n.主动性，倡议；adj.自发的）与 initiate 仅差 -ive 后缀，词性不同；imitate（vt.模仿）拼写差异为 'm' vs 'n'，词义无关；initial（adj.最初的；n.首字母）词根相同但侧重 '开头' 的状态，而 initiate 侧重 '启动' 的动作；intimate（adj.亲密的；vt.暗示）拼写差异 'mate' vs 'tiate'，词义无关；intimidate（vt.恐吓）含 'timid'（胆怯），与 initiate 无关联；institute（n.学院；vt.建立）词根 'stitut'（站立），侧重 '设立制度'；intricate（adj.错综复杂的）含 'tric'（琐碎），与 initiate 无关；invite（vt.邀请）拼写差异 'vite' vs 'tiate'，词义无关。",
+        "extendedMeaning": "在考研阅读中，initiate 常引申为 '启动（正式程序或协议）'，如 'initiate a legal process'（启动法律程序），或 '发起（讨论、计划）'，如 'initiate a dialogue'（发起对话）。",
+        "examUsage": "真题考点：initiate 常与介词 into 搭配，如 'initiate sb. into sth.'（使某人入门/加入），例如：'The ceremony initiates new members into the organization.'（仪式使新成员加入组织）。干扰项常与 'start' 混淆，但 initiate 更强调正式、系统的开始。"
+      }
+    },
+    {
+      "id": "initiative",
+      "word": "initiative",
+      "phonetic": "/ɪ'nɪʃətɪv/",
+      "meaning": "a.创始的,起始的 n.第一步,创始,主动精神",
+      "similar": [
+        "initiate",
+        "indicative",
+        "imaginative",
+        "intimate",
+        "negative",
+        "imitation",
+        "incentive",
+        "institute"
+      ],
+      "question": {
+        "wordId": "initiative",
+        "stem": "选择 \"initiative\" 的正确中文意思：",
+        "correct": "a.创始的,起始的 n.第一步,创始,主动精神",
+        "options": [
+          "a.(of)指示的,暗示的",
+          "a.富有想象力的,爱想象的",
+          "a.创始的,起始的 n.第一步,创始,主动精神",
+          "vt.开始，创始，发动；启蒙，使入门；引入"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根init-（开始） + -iative（形容词/名词后缀）。核心动作是“开始、发起”，引申为“创始的、主动精神”。",
+        "similarWarning": "initiate（v.开始，发起） vs initiative（n.主动性；倡议） vs incentive（n.激励，刺激） vs intimate（a.亲密的；v.暗示）。注意词尾区别：-ate表动词，-ive表形容词/名词，-tive表倾向性。",
+        "extendedMeaning": "考研常考“倡议、新方案”义，如“peace initiative”（和平倡议）。",
+        "examUsage": "真题高频搭配：take the initiative（采取主动），initiative in doing sth.（做某事的主动性）。干扰项常与incentive（激励）混淆，注意区分“主动发起”与“外部刺激”。"
+      }
+    },
+    {
+      "id": "inject",
+      "word": "inject",
+      "phonetic": "/in'dʒekt/",
+      "meaning": "vt.注射(药液等)；注入",
+      "similar": [
+        "infect",
+        "insect",
+        "inspect",
+        "eject",
+        "inlet",
+        "insert",
+        "intact",
+        "invent"
+      ],
+      "question": {
+        "wordId": "inject",
+        "stem": "选择 \"inject\" 的正确中文意思：",
+        "correct": "vt.注射(药液等)；注入",
+        "options": [
+          "vt.检查,调查,视察",
+          "vt.注射(药液等)；注入",
+          "vt.传染，感染；影响(思想等)",
+          "n.昆虫"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ -ject-（投掷）→ 将物体投入内部 → 注射、注入。核心动作：使某物从外部进入内部空间。",
+        "similarWarning": "inject（注入） vs. infect（感染）：in-（进入）+ -ject-（投掷）vs. in-（进入）+ -fect-（做）→ 做进去 → 感染。字母差异：ject/fect。",
+        "extendedMeaning": "考研僻义：【抽象】注入（新元素、资金、观点等），如 inject capital into the economy（向经济注入资本），inject new vitality（注入新活力）。",
+        "examUsage": "真题考点：常与介词 into 连用；搭配 inject A into B 为高频考点；注意与 insert（插入）区分：insert 强调物理放置，inject 强调加压注入。"
+      }
+    },
+    {
+      "id": "injure",
+      "word": "injure",
+      "phonetic": "/'indʒə/",
+      "meaning": "v.损害,损伤,伤害",
+      "similar": [
+        "injury",
+        "insure",
+        "incur",
+        "endure",
+        "ensure",
+        "induce"
+      ],
+      "question": {
+        "wordId": "injure",
+        "stem": "选择 \"injure\" 的正确中文意思：",
+        "correct": "v.损害,损伤,伤害",
+        "options": [
+          "v.招致,惹起,遭受",
+          "vt.保险,给…保险;保证",
+          "n.伤害，损害",
+          "v.损害,损伤,伤害"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ jure（法律、权利）→ 进入权利领域造成损害 → 损害，伤害。词根jure源自拉丁语jus（法律、权利），核心动作是“侵犯法律赋予的权利”，引申为对人或物造成物理或精神上的损伤。",
+        "similarWarning": "injury（n.伤害，与injure同根）; insure（v.保险，in-+sure确定）; incur（v.招致，in-+cur跑）; endure（v.忍受，en-+dure持续）; ensure（v.确保，en-+sure确定）; induce（v.诱导，in-+duce引导）。注意injure与insure仅差一个字母，但词根完全不同：jure vs sure。",
+        "extendedMeaning": "在考研外刊中，injure可引申为“损害（名誉、关系等抽象事物）”，如injure one's reputation（损害某人的名誉），或“使（身体部位）受伤”，如injure a knee（伤到膝盖）。",
+        "examUsage": "真题考点：injure常与damage、harm、hurt辨析。injure侧重意外事故导致的身体伤害或名誉损害；damage多指物体损坏；harm强调对健康或福祉的伤害；hurt可指肉体或情感疼痛。固定搭配：be injured in（在…中受伤）。"
+      }
+    },
+    {
+      "id": "injury",
+      "word": "injury",
+      "phonetic": "/'indʒəri/",
+      "meaning": "n.伤害，损害",
+      "similar": [
+        "injure",
+        "inquiry",
+        "jury",
+        "incur",
+        "insure",
+        "industry"
+      ],
+      "question": {
+        "wordId": "injury",
+        "stem": "选择 \"injury\" 的正确中文意思：",
+        "correct": "n.伤害，损害",
+        "options": [
+          "n.(enquiry)询问,打听,调查",
+          "v.损害,损伤,伤害",
+          "n.伤害，损害",
+          "n.陪审团;全体评审员"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "in-（向内）+ jury（法律/公正，源自拉丁语jus，意为权利/法律）→ 原指“对法律权利的侵害”，后引申为对人或物造成的物理或精神伤害。核心动作：非法侵入他人权利领域导致损害。",
+        "similarWarning": "injure（动词，伤害） vs injury（名词，伤害）；inquiry（询问，调查，in-向内+quire寻求） vs injury；jury（陪审团，源自jur-法律） vs injury（区别在于词根jury与jur-的拼写和含义）；incur（招致，in-进入+cur跑） vs injury；insure（保险，in-使+secur安全） vs injury；industry（工业，in-在内+stru建造） vs injury（注意词尾-ry与-stry差异）。",
+        "extendedMeaning": "考研常考抽象伤害，如对名誉、感情或权利的损害（reputation injury 名誉损害；emotional injury 情感伤害），而非仅指身体创伤。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ink",
+      "word": "ink",
+      "phonetic": "/iŋk/",
+      "meaning": "n.墨水，油墨",
+      "similar": [
+        "link",
+        "pink",
+        "sink",
+        "wink",
+        "inn"
+      ],
+      "question": {
+        "wordId": "ink",
+        "stem": "选择 \"ink\" 的正确中文意思：",
+        "correct": "n.墨水，油墨",
+        "options": [
+          "v.(使)下沉,下落 n.水槽,水池",
+          "v.连接,联系 n.环节,链环",
+          "n.粉红色 a.粉红色的",
+          "n.墨水，油墨"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源自拉丁语'encaustum'（意为'燃烧的液体'），后经法语进入英语，指代书写用的有色液体。核心物理动作是'液体附着于表面'，引申为标记或记录的介质。",
+        "similarWarning": "link（链接，与ink差字母'l'）; pink（粉色，与ink差字母'p'）; sink（下沉，与ink差字母's'）; wink（眨眼，与ink差字母'w'）; 注意拼写差异避免混淆。",
+        "extendedMeaning": "在考研阅读中，'ink'可喻指'墨水般的物质'，如'tattoo ink'（纹身墨水）或'printing ink'（印刷油墨），但无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "inland",
+      "word": "inland",
+      "phonetic": "/'inlənd/",
+      "meaning": "a./ad.国内,内地,内陆",
+      "similar": [
+        "mainland",
+        "infant",
+        "intend",
+        "inward",
+        "highland"
+      ],
+      "question": {
+        "wordId": "inland",
+        "stem": "选择 \"inland\" 的正确中文意思：",
+        "correct": "a./ad.国内,内地,内陆",
+        "options": [
+          "vt.想要,打算,企图",
+          "n.大陆,本土",
+          "a./ad.国内,内地,内陆",
+          "n.婴儿,幼儿"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "in-(向内) + land(陆地) → 指向内部陆地的区域或方向，强调与海岸或边境相对的内陆部分。",
+        "similarWarning": "island(岛屿：is-孤立 + land) vs inland(内陆：in-向内)，前者强调孤立于水域的陆地，后者强调远离海洋的内部区域；highland(高地：high-高)与inland无关，但易因“land”混淆。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "inlet",
+      "word": "inlet",
+      "phonetic": "/'ɪnlet/",
+      "meaning": "n.水湾,小湾;进口,入口",
+      "similar": [
+        "infect",
+        "inject",
+        "insect",
+        "insert",
+        "invent",
+        "invert",
+        "invest",
+        "violet"
+      ],
+      "question": {
+        "wordId": "inlet",
+        "stem": "选择 \"inlet\" 的正确中文意思：",
+        "correct": "n.水湾,小湾;进口,入口",
+        "options": [
+          "vt.注射(药液等)；注入",
+          "n.昆虫",
+          "vt.传染，感染；影响(思想等)",
+          "n.水湾,小湾;进口,入口"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ let（让）→ 让水进入的地方 → 水湾；引申为让东西进入的通道 → 进口、入口。",
+        "similarWarning": "inlet vs. infect（in-进入+fect做→感染）：字母差异为l/fe，词义一为入口，一为感染。inlet vs. inject（in-进入+ject投掷→注射）：l/je，入口 vs. 注射。inlet vs. insect（in-进入+sect切→昆虫）：l/se，入口 vs. 昆虫。inlet vs. insert（in-进入+sert放置→插入）：l/se，入口 vs. 插入。inlet vs. invent（in-进入+vent来→发明）：l/ve，入口 vs. 发明。inlet vs. invert（in-进入+vert转→反转）：l/ve，入口 vs. 反转。inlet vs. invest（in-进入+vest穿衣→投资）：l/ve，入口 vs. 投资。inlet vs. violet（紫色）：无词根关联，仅拼写相似。",
+        "extendedMeaning": "（无特殊僻义，留空）",
+        "examUsage": "（无特殊考点，留空）"
+      }
+    },
+    {
+      "id": "inn",
+      "word": "inn",
+      "phonetic": "/in/",
+      "meaning": "n.小旅馆,客栈",
+      "similar": [
+        "ink",
+        "inner",
+        "linen"
+      ],
+      "question": {
+        "wordId": "inn",
+        "stem": "选择 \"inn\" 的正确中文意思：",
+        "correct": "n.小旅馆,客栈",
+        "options": [
+          "a.内部的,里面的;内心的",
+          "n.亚麻布,亚麻布制品",
+          "n.墨水，油墨",
+          "n.小旅馆,客栈"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源来自古英语inn（住所、房间），与in（在...内）同源，核心动作是“进入后停留的场所”，即供人暂时居住的小旅馆。",
+        "similarWarning": "in（在...内） vs inn（多一个n，表示具体场所）；ink（墨水，k替换n）；inner（内部的，-er比较级后缀）；linen（亚麻布，l开头且多-en）",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "inner",
+      "word": "inner",
+      "phonetic": "/'inə/",
+      "meaning": "a.内部的,里面的;内心的",
+      "similar": [
+        "dinner",
+        "infer",
+        "banner",
+        "finger",
+        "hinder",
+        "insert",
+        "invert",
+        "linger"
+      ],
+      "question": {
+        "wordId": "inner",
+        "stem": "选择 \"inner\" 的正确中文意思：",
+        "correct": "a.内部的,里面的;内心的",
+        "options": [
+          "n.旗(帜)",
+          "a.内部的,里面的;内心的",
+          "v.推论,推断",
+          "n.正餐,宴会"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根in-（在内）+ -er（比较级后缀），字面意为“更向内的”，引申为“内部的、内心的”。核心动作指向“空间或心理上的内部位置”。",
+        "similarWarning": "dinner（晚餐）: 首字母d-（de-向下） vs in-（向内）；infer（推断）: 后缀-fer（带来） vs -ner；hinder（阻碍）: h- + -inder（源自动词hind） vs inner；insert（插入）: -sert（加入） vs -ner。",
+        "extendedMeaning": "考研僻义中，常作名词或形容词，指“内部成员、核心圈”，如“the inner circle”（核心圈）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "innocent",
+      "word": "innocent",
+      "phonetic": "/'inəsənt/",
+      "meaning": "a.(of)清白的,无罪的;无害的;单纯的,无知的",
+      "similar": [
+        "invent",
+        "ignorant",
+        "incident",
+        "inherent"
+      ],
+      "question": {
+        "wordId": "innocent",
+        "stem": "选择 \"innocent\" 的正确中文意思：",
+        "correct": "a.(of)清白的,无罪的;无害的;单纯的,无知的",
+        "options": [
+          "n.事件,事变",
+          "a.(of)清白的,无罪的;无害的;单纯的,无知的",
+          "v.发明,创造;捏造,虚构",
+          "a.无知的,愚昧的;不知道的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根 in-（否定）+ noc-（伤害，来自拉丁语 nocere 的变体 noxia）+ -ent（形容词后缀）。核心物理动作是“没有造成伤害”，引申为“无罪的、无害的、单纯的”。",
+        "similarWarning": "invent（发明，in-进入+vent-来）：拼写差异在字母 t 与 c，词义侧重创造。ignorant（无知的，i-不+gnor-知道）：拼写差异在字母 g 与 c，词义侧重缺乏知识。incident（事件，in-进入+cid-落下）：拼写差异在字母 d 与 t，词义侧重发生的事。",
+        "extendedMeaning": "考研中常考“单纯的、天真的”这层含义，用于形容缺乏世故或恶意，如 an innocent question（一个单纯的问题）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "innovation",
+      "word": "innovation",
+      "phonetic": "/ˌinəu'veiʃən/",
+      "meaning": "n.改革，革新；新观念，新方法，新发明",
+      "similar": [
+        "information",
+        "invasion",
+        "inflation",
+        "indication",
+        "invitation",
+        "indignation",
+        "inspiration",
+        "location"
+      ],
+      "question": {
+        "wordId": "innovation",
+        "stem": "选择 \"innovation\" 的正确中文意思：",
+        "correct": "n.改革，革新；新观念，新方法，新发明",
+        "options": [
+          "n.通货膨胀",
+          "n.入侵,侵略,侵犯",
+          "n.通知,报告;情报,资料,消息;信息",
+          "n.改革，革新；新观念，新方法，新发明"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "核心词根为'nov'，意为'新'。in-（进入）+ nov（新）+ ation（名词后缀）→ 引入新事物。核心动作是‘引入新’，强调从无到有的创造或对旧有事物的根本性改变。",
+        "similarWarning": "形近词对比：innovation（革新，创新）；invasion（入侵，in+vas+ion，vas意为‘走’，走入他人领地）；indignation（愤怒，in+dig+ation，dig意为‘值得’，因不公而愤怒）。注意区分‘nov’（新）与‘vas’（走）、‘dig’（值得）的词根差异。",
+        "extendedMeaning": "考研僻义：在科技语境中常指‘颠覆性创新’（disruptive innovation），强调对现有市场或技术的根本性破坏与重建，而非小修小补。",
+        "examUsage": "真题考点：常与technological、radical、continuous等词搭配。核心短语：technological innovation（技术创新）。真题例句：‘Innovation is the ability to see change as an opportunity, not a threat.’（创新是把变化视为机遇而非威胁的能力。）注意干扰项常将innovation与invention（发明）混用，前者侧重商业化应用，后者侧重技术首次实现。"
+      }
+    },
+    {
+      "id": "innumerable",
+      "word": "innumerable",
+      "phonetic": "/i'nuj:mərəbl/",
+      "meaning": "a.无数的,数不清的",
+      "similar": [],
+      "question": {
+        "wordId": "innumerable",
+        "stem": "选择 \"innumerable\" 的正确中文意思：",
+        "correct": "a.无数的,数不清的",
+        "options": [
+          "a.无数的,数不清的",
+          "n.丰富,大量",
+          "a.大量(充足)的；(in)丰富(富裕)的",
+          "n.衣领;环状物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（不）+ numer（数）+ -able（能…的）→ 不能数的 → 无数的。核心动作：无法逐一计数，强调数量大到超出计数能力。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常用来形容抽象概念（如困难、机会、细节）之多，不限于具体物体，如“innumerable opportunities”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "input",
+      "word": "input",
+      "phonetic": "/'input/",
+      "meaning": "n./v.输入",
+      "similar": [
+        "insult",
+        "nut",
+        "incur",
+        "inlet"
+      ],
+      "question": {
+        "wordId": "input",
+        "stem": "选择 \"input\" 的正确中文意思：",
+        "correct": "n./v.输入",
+        "options": [
+          "n./v.输入",
+          "v.招致,惹起,遭受",
+          "n.坚果;螺母,螺帽",
+          "vt./n.侮辱,凌辱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自短语put in（放入）的合成词。in-（向内）+ put（放置），核心动作是“将某物放入系统或过程中”，强调从外部向内部传输数据、信息或资源。",
+        "similarWarning": "input vs. insult（侮辱）：input含put（放），insult含sult（跳），词义无关。",
+        "extendedMeaning": "（考研僻义）①（计算机）输入信息（n./v.）；②（经济、生产）投入资源（如资本、劳动力）；③（电子设备）输入端（n.）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "inquiry",
+      "word": "inquiry",
+      "phonetic": "/in'kwaiəri/",
+      "meaning": "n.(enquiry)询问,打听,调查",
+      "similar": [
+        "injury",
+        "enquire",
+        "industry"
+      ],
+      "question": {
+        "wordId": "inquiry",
+        "stem": "选择 \"inquiry\" 的正确中文意思：",
+        "correct": "n.(enquiry)询问,打听,调查",
+        "options": [
+          "n.工业,产业;勤劳,勤奋",
+          "n.伤害，损害",
+          "v.(inquire)询问,打听;调查;查问",
+          "n.(enquiry)询问,打听,调查"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语inquirere（in-进入+quaerere寻求），核心动作是“进入内部寻求”，即深入探究以求真相。enquiry为同源变体，拼写差异源于法语影响。",
+        "similarWarning": "inquiry vs injury: inquiry含“quir”（寻求），injury含“jur”（法律/伤害），词根不同。enquire是动词，inquiry是名词。industry（工业）含“dust”（灰尘），与inquiry无关。",
+        "extendedMeaning": "在考研真题中常引申为“（官方）调查”或“（学术）探究”，如scientific inquiry（科学研究），非仅指普通询问。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "insect",
+      "word": "insect",
+      "phonetic": "/'insekt/",
+      "meaning": "n.昆虫",
+      "similar": [
+        "inspect",
+        "infect",
+        "inject",
+        "insert",
+        "inlet",
+        "insist",
+        "insult",
+        "intact"
+      ],
+      "question": {
+        "wordId": "insect",
+        "stem": "选择 \"insect\" 的正确中文意思：",
+        "correct": "n.昆虫",
+        "options": [
+          "vt.传染，感染；影响(思想等)",
+          "vt.检查,调查,视察",
+          "n.昆虫",
+          "vt.注射(药液等)；注入"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ sect（切割）→ 昆虫身体像被切割成一段段的节段，故名昆虫。",
+        "similarWarning": "inspect（in-向内 + spect看→检查）；infect（in-进入 + fect做→感染）；inject（in-进入 + ject投→注射）；insert（in-进入 + sert放→插入）；inlet（in-进入 + let让→入口）；insist（in-进入 + sist站→坚持）；insult（in-向上 + sult跳→侮辱）；intact（in-不 + tact接触→完整）。注意区别：insect核心在“切割”，与“看、做、投、放”等动作无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "insert",
+      "word": "insert",
+      "phonetic": "/in'sə:t/",
+      "meaning": "v.插入,嵌入;登载 n.插入物",
+      "similar": [
+        "insect",
+        "invert",
+        "inherit",
+        "inspect",
+        "infer",
+        "inlet",
+        "inner",
+        "assert"
+      ],
+      "question": {
+        "wordId": "insert",
+        "stem": "选择 \"insert\" 的正确中文意思：",
+        "correct": "v.插入,嵌入;登载 n.插入物",
+        "options": [
+          "v.倒置,倒转,颠倒",
+          "n.昆虫",
+          "v.插入,嵌入;登载 n.插入物",
+          "vt.继承(金钱等)，经遗传而得(性格、特征)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "in-（向内）+ sert（放置，来自拉丁语serere“连接、加入”）→ 将某物放入内部并使之结合 → 插入、嵌入。核心物理动作：把一物“置入”另一物内部，强调动作的主动性和结果的位置固定。",
+        "similarWarning": "invert（in-向内 + vert转）强调“翻转”；insert强调“放入”；insect（in-切入 + sect切割）指“昆虫”；inherit（in-进入 + herit继承）指“继承”；inspect（in-向内 + spect看）指“检查”；infer（in-向内 + fer携带）指“推断”；inlet（in-向内 + let让…进入）指“入口”；inner（比较级后缀）指“内部的”；assert（as-朝向 + sert放置）指“断言”。",
+        "extendedMeaning": "1. 登载（报纸、杂志等）：insert an advertisement in a newspaper（在报纸上登广告）。2. 插入（评论、意见等）：He inserted a few comments into the discussion.",
+        "examUsage": "真题考点：常考固定搭配 insert...into...（把…插入…），以及被动结构 be inserted into。干扰项常与 invert（颠倒）、inherit（继承）混淆，注意词根差异。"
+      }
+    },
+    {
+      "id": "inside",
+      "word": "inside",
+      "phonetic": "/ˌin'said/",
+      "meaning": "a.里面的 ad.在里面 n.内部 prep.在…里",
+      "similar": [
+        "inspire",
+        "aside",
+        "beside",
+        "insist",
+        "insure",
+        "invade",
+        "invite",
+        "coincide"
+      ],
+      "question": {
+        "wordId": "inside",
+        "stem": "选择 \"inside\" 的正确中文意思：",
+        "correct": "a.里面的 ad.在里面 n.内部 prep.在…里",
+        "options": [
+          "ad.在旁边，到一边 n.旁白；离题的话",
+          "prep.在...旁边，在...附近；和...相比",
+          "vt.鼓舞,激起;使产生灵感",
+          "a.里面的 ad.在里面 n.内部 prep.在…里"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（里面） + side（边/侧面） → 在边界的里面，表示内部或内侧。核心物理动作：处于某物体边界之内。",
+        "similarWarning": "inspire（in-进入 + spire呼吸 → 吸入灵感） vs inside（in-里面 + side边）：inspire强调“激发”，inside强调“位置”；aside（a-在 + side边 → 在旁边） vs inside：aside侧重“一侧”，inside侧重“内部”。",
+        "extendedMeaning": "【熟词僻义】在考研阅读中可用于抽象领域，如“内部信息”（inside information）指未公开的秘密情报，或“内心深处”（inside of sb.）指心理层面。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "insight",
+      "word": "insight",
+      "phonetic": "/'insait/",
+      "meaning": "n.洞察力,见识",
+      "similar": [
+        "insist",
+        "eyesight",
+        "instinct"
+      ],
+      "question": {
+        "wordId": "insight",
+        "stem": "选择 \"insight\" 的正确中文意思：",
+        "correct": "n.洞察力,见识",
+        "options": [
+          "n.视力",
+          "n.本能,直觉,天性",
+          "n.洞察力,见识",
+          "vi.(on)坚持要求,坚决主张,坚持"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ sight（看）→ 看进去，看到内在本质 → 洞察力，见识。核心动作：透过表象深入观察。",
+        "similarWarning": "instinct（本能）：in-（内）+ stinct（刺）→ 内在的刺激 → 本能。对比：insight强调理性洞察，instinct强调先天冲动。",
+        "extendedMeaning": "（商业/政治领域）对复杂局势的深刻理解或独到见解，如：gain insight into market trends（洞悉市场趋势）。",
+        "examUsage": "真题常考搭配：provide/gain insight into（提供/获得对……的深刻见解），如：The article provides insight into consumer behavior. 注意与sight（视力）区别，sight是物理视觉，insight是抽象认知。"
+      }
+    },
+    {
+      "id": "insist",
+      "word": "insist",
+      "phonetic": "/in'sist/",
+      "meaning": "vi.(on)坚持要求,坚决主张,坚持",
+      "similar": [
+        "consist",
+        "insight",
+        "assist",
+        "insect",
+        "insert",
+        "inside",
+        "insult",
+        "invest"
+      ],
+      "question": {
+        "wordId": "insist",
+        "stem": "选择 \"insist\" 的正确中文意思：",
+        "correct": "vi.(on)坚持要求,坚决主张,坚持",
+        "options": [
+          "vi.(on)坚持要求,坚决主张,坚持",
+          "vt.协助，帮助，促进 vi.帮忙，参加",
+          "v.(in)在于,存在于;(of)由…组成,由…构成",
+          "n.洞察力,见识"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：in-（进入，加强）+ sist（站立）。核心动作：站在里面不动→立场坚定。源于拉丁语insistere（站立其上，坚持），引申为对主张或要求的不让步。",
+        "similarWarning": "insist（坚持） vs. consist（由…组成：con-共同+sist站→站在一起→组成） vs. assist（帮助：as-向+sist站→站在旁边→辅助） vs. insect（昆虫：in-进入+sect切割→切入身体→昆虫）。差异在词根：sist（站立）/sist（站立）/sist（站立）/sect（切割）。",
+        "extendedMeaning": "在考研阅读中，insist常表‘强调、坚称’（非简单重复），如insist that...（后接虚拟语气或陈述语气，表示强烈主张事实）。",
+        "examUsage": "考点：insist on/upon sth./doing sth.（坚持做某事）；insist that...（虚拟语气表‘坚持要求’，陈述语气表‘坚持说’）。真题干扰项常混淆insist与persist（持续做），注意insist侧重主张，persist侧重行动持续。"
+      }
+    },
+    {
+      "id": "inspect",
+      "word": "inspect",
+      "phonetic": "/in'spekt/",
+      "meaning": "vt.检查,调查,视察",
+      "similar": [
+        "insect",
+        "aspect",
+        "infect",
+        "inject",
+        "insert",
+        "suspect",
+        "instinct",
+        "instruct"
+      ],
+      "question": {
+        "wordId": "inspect",
+        "stem": "选择 \"inspect\" 的正确中文意思：",
+        "correct": "vt.检查,调查,视察",
+        "options": [
+          "vt.检查,调查,视察",
+          "n.昆虫",
+          "n.样子, 外表, 面貌, (问题等的)方面",
+          "vt.传染，感染；影响(思想等)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（向内）+ spect（看）→ 向内部仔细看 → 检查、视察。核心物理动作：向内审视。",
+        "similarWarning": "inspect（检查）vs. insect（昆虫）：inspect 有 字母 p（窥视），昆虫是 虫子（无p）。aspect（方面）：a-（朝向）+ spect → 观看的方向 → 方面。",
+        "extendedMeaning": "考研中常引申为“审视、检视”，强调细致、有目的地查看，如 inspect the data（审视数据）。",
+        "examUsage": "真题考点：inspect 常与 for 连用，如 inspect sth. for defects（检查某物是否有缺陷）。例句：The building was inspected for safety violations.（该建筑接受了安全检查，以查找违规行为。）"
+      }
+    },
+    {
+      "id": "inspiration",
+      "word": "inspiration",
+      "phonetic": "/ˌinspə'reiʃən/",
+      "meaning": "n.灵感;鼓舞,激励",
+      "similar": [
+        "indication",
+        "invitation",
+        "institution",
+        "installation",
+        "imitation",
+        "inflation",
+        "intuition",
+        "innovation"
+      ],
+      "question": {
+        "wordId": "inspiration",
+        "stem": "选择 \"inspiration\" 的正确中文意思：",
+        "correct": "n.灵感;鼓舞,激励",
+        "options": [
+          "n.公共机构;协会;学校;研究所;制度;惯例",
+          "n.灵感;鼓舞,激励",
+          "n.指出,指示;表明,暗示",
+          "n.邀请,招待;请柬"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "in-（向内）+ spir-（呼吸）+ -ation（名词后缀）。核心动作：吸入气息。引申为：灵感是外界气息（神启）进入内心；鼓舞是注入活力。",
+        "similarWarning": "inspiration vs. intuition（直觉）：-spir-（呼吸）vs. -tuit-（观察/守护）；前者强调外界激发，后者强调内在感知。",
+        "extendedMeaning": "（无特殊僻义，留空）",
+        "examUsage": "（无特殊考点，留空）"
+      }
+    },
+    {
+      "id": "inspire",
+      "word": "inspire",
+      "phonetic": "/in'spaiə/",
+      "meaning": "vt.鼓舞,激起;使产生灵感",
+      "similar": [
+        "aspire",
+        "inside",
+        "insure"
+      ],
+      "question": {
+        "wordId": "inspire",
+        "stem": "选择 \"inspire\" 的正确中文意思：",
+        "correct": "vt.鼓舞,激起;使产生灵感",
+        "options": [
+          "vt.保险,给…保险;保证",
+          "vt.鼓舞,激起;使产生灵感",
+          "a.里面的 ad.在里面 n.内部 prep.在…里",
+          "vi.(to，after)渴望，追求，有志于"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "in-（向内）+ spire（呼吸）→ 原义为“向里吹气”，引申为“注入精神或灵感”，即鼓舞、激发。",
+        "similarWarning": "aspire（a-向+spire呼吸→向往），inside（in内部+side边→里面），insure（in-使+sur-安全→保险）。",
+        "extendedMeaning": "在考研外刊中常引申为“引发、唤起（某种情感或反应）”，如 inspire confidence（唤起信心）。",
+        "examUsage": "常见搭配：inspire sb. to do sth.（激励某人做某事）；真题中常作为情感类阅读的题眼，如 inspire loyalty（激发忠诚）。"
+      }
+    },
+    {
+      "id": "install",
+      "word": "install",
+      "phonetic": "/in'stɔ:l/",
+      "meaning": "vt.(instal)安装,设置,安置；使就职,任命",
+      "similar": [
+        "stall",
+        "instant",
+        "instance"
+      ],
+      "question": {
+        "wordId": "install",
+        "stem": "选择 \"install\" 的正确中文意思：",
+        "correct": "vt.(instal)安装,设置,安置；使就职,任命",
+        "options": [
+          "n.例子,事例,例证",
+          "a.立即的;紧迫的;(食品)速溶的 n.瞬间,时刻",
+          "n.货摊;畜栏,厩 v.(使)停转,(使)停止",
+          "vt.(instal)安装,设置,安置；使就职,任命"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ stall（放置/位置）。核心动作：把某物放入固定位置，即安装、设置；引申为把人安排到某个职位上，即任命、使就职。",
+        "similarWarning": "stall：拼写少 'in'，意为货摊、停顿；instant：拼写为 'in' + 'stant'（站立），意为即刻的、速食的；instance：拼写为 'in' + 'stance'（姿态），意为实例、情况。对比：install 强调放入位置，stall 强调停滞，instant 强调瞬间，instance 强调事例。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "installation",
+      "word": "installation",
+      "phonetic": "/ˌinstə'leiʃən/",
+      "meaning": "n.安装,设置;装置,设备",
+      "similar": [
+        "inspiration",
+        "institution",
+        "instruction"
+      ],
+      "question": {
+        "wordId": "installation",
+        "stem": "选择 \"installation\" 的正确中文意思：",
+        "correct": "n.安装,设置;装置,设备",
+        "options": [
+          "n.安装,设置;装置,设备",
+          "n.灵感;鼓舞,激励",
+          "n.公共机构;协会;学校;研究所;制度;惯例",
+          "n.教授;指导;(pl.)用法说明(书),操作指南"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源于拉丁语 installare (in- 进入 + stallare 放置)，指将某物放入固定位置的动作过程。核心物理动作为“放入并固定”，引申为设备或系统的安置及结果。",
+        "similarWarning": "inspiration (灵感，in-向内 + spir-呼吸 + ation)，对比：installation 强调“放置”，inspiration 强调“吸入灵感”；institution (机构，in-在 + stitut-建立 + ion)，对比：installation 侧重“安装设置”，institution 侧重“制度/机构”；instruction (指导，in-在内 + struct-建造 + ion)，对比：installation 强调“安置”，instruction 强调“教导/指令”。",
+        "extendedMeaning": "在计算机领域常指“软件安装”或“系统安装程序”；在艺术领域可指“装置艺术”(installation art)，即特定空间内的三维作品。",
+        "examUsage": "考研真题常考其动词形式 install 及被动搭配 be installed in，如：The new system was installed in the factory. 注意区分 installation (安装过程/装置) 与 equipment (设备集合，不可数) 的用法差异。"
+      }
+    },
+    {
+      "id": "installment",
+      "word": "installment",
+      "phonetic": "/in'stɔ:lmənt/",
+      "meaning": "n.(instalment)分期付款；(连载的)一期",
+      "similar": [
+        "instrument",
+        "statement",
+        "intelligent"
+      ],
+      "question": {
+        "wordId": "installment",
+        "stem": "选择 \"installment\" 的正确中文意思：",
+        "correct": "n.(instalment)分期付款；(连载的)一期",
+        "options": [
+          "a.聪明的,明智的,理智的",
+          "n.工具,仪器,器械;乐器",
+          "n.声明,陈述",
+          "n.(instalment)分期付款；(连载的)一期"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "installment = in-（进入）+ stall（放置）+ -ment（名词后缀）。核心物理动作是“分期放置”，即把一笔总金额或一部作品分批次放入不同时间段，从而形成“分期付款”或“连载的一期”。",
+        "similarWarning": "instrument（工具，乐器）：installment含stall（放置），instrument含stru（建造）；statement（陈述）：installment含stall，statement含stat（站立）；intelligent（聪明的）：installment含stall，intelligent含lig（选择）。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "真题中常考搭配：pay in/by installments（分期付款）；the first installment of a novel（小说的第一期连载）。"
+      }
+    },
+    {
+      "id": "instance",
+      "word": "instance",
+      "phonetic": "/'instəns/",
+      "meaning": "n.例子,事例,例证",
+      "similar": [
+        "insurance",
+        "instant",
+        "distance",
+        "instinct",
+        "ignorance",
+        "substance",
+        "intact",
+        "enhance"
+      ],
+      "question": {
+        "wordId": "instance",
+        "stem": "选择 \"instance\" 的正确中文意思：",
+        "correct": "n.例子,事例,例证",
+        "options": [
+          "n.距离,间隔,远方,路程",
+          "a.立即的;紧迫的;(食品)速溶的 n.瞬间,时刻",
+          "n.保险,保险费,保险业",
+          "n.例子,事例,例证"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语instantia，由in-（在...之上）+ stare（站立）构成，本义为“站在面前的事物”。词根sta-（站立）演变，核心动作是“某物直接呈现在眼前”，因此引申为“例子、事例”——即一个具体、立即可见的实例。",
+        "similarWarning": "insurance（保险，in-+sure确保）vs instance（例子，in-+sta站立）：前者含sure（确信），后者含sta（站）；distance（距离，dis-分开+sta站）强调空间分隔，instance强调眼前站立的事物。",
+        "extendedMeaning": "在考研中，instance可作动词，意为“举...为例”，如“to instance a case”（举例说明）；此外，短语“for instance”常作为例证标志词，在阅读中引出具体论据。",
+        "examUsage": "真题中常考短语“in the first instance”（首先，起初），如“in the first instance, we should analyze the data.”（首先，我们应分析数据。）注意与“for instance”（例如）的区分，前者强调顺序，后者强调举例。"
+      }
+    },
+    {
+      "id": "instant",
+      "word": "instant",
+      "phonetic": "/'instənt/",
+      "meaning": "a.立即的;紧迫的;(食品)速溶的 n.瞬间,时刻",
+      "similar": [
+        "constant",
+        "instance",
+        "instinct",
+        "infant",
+        "intact",
+        "distant",
+        "install",
+        "ignorant"
+      ],
+      "question": {
+        "wordId": "instant",
+        "stem": "选择 \"instant\" 的正确中文意思：",
+        "correct": "a.立即的;紧迫的;(食品)速溶的 n.瞬间,时刻",
+        "options": [
+          "a.固定的，持续的,忠实的 n.常数,恒量",
+          "n.本能,直觉,天性",
+          "n.例子,事例,例证",
+          "a.立即的;紧迫的;(食品)速溶的 n.瞬间,时刻"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in- (在…上) + st- (站立) + -ant (形容词/名词后缀) → 站在眼前的 → 立即的、紧迫的；引申为速溶的（即用热水瞬间冲泡即可饮用）→ 名词义为极短时刻。",
+        "similarWarning": "constant (con-共同+stant→始终站在一起的→恒定的) vs instant (in-在…上→站在眼前的→立即的)；instance (in-在…上+stance→站在眼前的状态→例子) vs instinct (in-在内+sting刺→内在的冲动→本能)；infant (in-不+fans说话→不会说话的→婴儿) vs intact (in-不+tact接触→未接触的→完整的)；distant (dis-分开+stant→分开站着的→遥远的) vs instant (in-在…上→眼前的→立即的)；install (in-在内+stall放置→放在里面→安装) vs instant (不同词根，易拼写混淆)；ignorant (i-不+gnor知道+ant→不知道的→无知的) vs instant。",
+        "extendedMeaning": "（在考研阅读中）adj. 紧迫的，刻不容缓的（如instant need）；n. 某一时刻（常与at搭配，如at that instant）。",
+        "examUsage": "真题常考搭配：in an instant (立刻)；the instant (that)... (一…就…，引导时间状语从句，相当于as soon as)。"
+      }
+    },
+    {
+      "id": "instantaneous",
+      "word": "instantaneous",
+      "phonetic": "/ˌinstən'teinjəs/",
+      "meaning": "a.瞬间的,即刻的",
+      "similar": [
+        "spontaneous"
+      ],
+      "question": {
+        "wordId": "instantaneous",
+        "stem": "选择 \"instantaneous\" 的正确中文意思：",
+        "correct": "a.瞬间的,即刻的",
+        "options": [
+          "a.瞬间的,即刻的",
+          "a.自发的,自然产生的",
+          "v.设计;构思;绘制;图案;企图 n.设计,图样",
+          "n.本能,直觉,天性"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语'instant-'（站立，存在），由'in-'（在...上）+'stare'（站立）组成，核心动作为'站在当前这一刻'，引申为'没有时间间隔的、立即发生的'。",
+        "similarWarning": "与spontaneous（自发的）易混：instantaneous强调时间上的'瞬间'（instant+aneous），而spontaneous强调行为上的'自发'（spont-自愿+aneous）。拼写差异：instantaneous以'stant'（站）为核心，spontaneous以'spont'（自愿）为核心。",
+        "extendedMeaning": "在考研外刊中常引申为'（反应、效果）立竿见影的'，如instantaneous feedback（即时反馈），非字面'瞬间的'。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "instinct",
+      "word": "instinct",
+      "phonetic": "/'instiŋkt/",
+      "meaning": "n.本能,直觉,天性",
+      "similar": [
+        "instant",
+        "distinct",
+        "instance",
+        "instruct",
+        "institute",
+        "insect",
+        "insist",
+        "intact"
+      ],
+      "question": {
+        "wordId": "instinct",
+        "stem": "选择 \"instinct\" 的正确中文意思：",
+        "correct": "n.本能,直觉,天性",
+        "options": [
+          "n.本能,直觉,天性",
+          "a.立即的;紧迫的;(食品)速溶的 n.瞬间,时刻",
+          "a.清楚的,明显的;(from)截然不同的",
+          "n.例子,事例,例证"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（向内）+ stinct（刺，刺激）→ 内在的刺激 → 与生俱来的行为倾向，即本能、天性。",
+        "similarWarning": "instinct vs distinct: instinct 强调内在驱动（in-向内）；distinct 强调区分清晰（dis-分开+stinct刺→刺出区别）。",
+        "extendedMeaning": "考研常考“直觉”（非理性判断），如：by instinct（凭直觉），gut instinct（直觉本能）。",
+        "examUsage": "真题考点：instinct 常与 human nature（人性）或 animal behavior（动物行为）连用，如：the survival instinct（生存本能）。"
+      }
+    },
+    {
+      "id": "institute",
+      "word": "institute",
+      "phonetic": "/'institjut/",
+      "meaning": "n.学会,研究所;学院 v.设立,设置,制定",
+      "similar": [
+        "constitute",
+        "institution",
+        "substitute",
+        "statute",
+        "initiate",
+        "instinct",
+        "intimate",
+        "investigate"
+      ],
+      "question": {
+        "wordId": "institute",
+        "stem": "选择 \"institute\" 的正确中文意思：",
+        "correct": "n.学会,研究所;学院 v.设立,设置,制定",
+        "options": [
+          "n.代替者；替身；代用品 v.(for)代替,替换",
+          "n.学会,研究所;学院 v.设立,设置,制定",
+          "vt.组成，构成，形成；设立，建立，任命",
+          "n.公共机构;协会;学校;研究所;制度;惯例"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "institute = in（进入）+ stitute（词根stit，意为“站立、放置”，源自拉丁语statuere“建立”）→ 进入并放置 → 建立、设立。核心物理动作是“把某物立起来并安置好”，引申为“建立机构或制度”。",
+        "similarWarning": "constitute（构成，成立）：con（一起）+ stitute → 站在一起构成整体。institute强调“设立机构”，constitute强调“组成部分”。substitute（替代）：sub（在下面）+ stitute → 站在下面替换 → 替代。",
+        "extendedMeaning": "在考研外刊中，institute常作动词表示“制定（规则、政策）”，如“institute reforms（实施改革）”，而非仅指“建立机构”。",
+        "examUsage": "真题中常考搭配“institute a system（建立制度）”，或作为名词与“college（学院）”对比，institute侧重研究性质，如“research institute（研究所）”。"
+      }
+    },
+    {
+      "id": "institution",
+      "word": "institution",
+      "phonetic": "/ˌinsti'tju:ʃən/",
+      "meaning": "n.公共机构;协会;学校;研究所;制度;惯例",
+      "similar": [
+        "constitution",
+        "institute",
+        "invitation",
+        "inspiration",
+        "instruction",
+        "installation",
+        "imitation",
+        "intention"
+      ],
+      "question": {
+        "wordId": "institution",
+        "stem": "选择 \"institution\" 的正确中文意思：",
+        "correct": "n.公共机构;协会;学校;研究所;制度;惯例",
+        "options": [
+          "n.构成,构造,组成(方式),成分;体格;宪法",
+          "n.邀请,招待;请柬",
+          "n.公共机构;协会;学校;研究所;制度;惯例",
+          "n.学会,研究所;学院 v.设立,设置,制定"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语instituere（建立），由in-（在…内）+statuere（放置）构成，本义为“设立、建立”。词根stat-（站，放置）体现“把规则或组织固定下来”的动作。后缀-tion表名词，故institution核心为“被建立起来的东西”，引申为机构（如学校、研究所）或制度（如婚姻制度）。",
+        "similarWarning": "constitution（宪法，构成）：con-（共同）+stitution，强调共同构成的基础法律；institution（机构，制度：in-（向内）+stitution，侧重内部建立的体系。",
+        "extendedMeaning": "考研僻义：1. 惯例（如the institution of marriage婚姻习俗）2. （长期存在的）知名机构（如an institution of higher learning高等教育机构）。",
+        "examUsage": "真题考点：固定搭配the institution of...（…的制度/习俗），如the institution of slavery（奴隶制度）。干扰项常与constitution（宪法）、installation（安装）混淆，注意institution侧重“制度/机构”，而constitution侧重“宪法/体质”。"
+      }
+    },
+    {
+      "id": "instruct",
+      "word": "instruct",
+      "phonetic": "/in'strʌkt/",
+      "meaning": "v.教,教授;命令,指示",
+      "similar": [
+        "construct",
+        "instinct",
+        "obstruct",
+        "instrument",
+        "insect",
+        "insert",
+        "insult",
+        "intact"
+      ],
+      "question": {
+        "wordId": "instruct",
+        "stem": "选择 \"instruct\" 的正确中文意思：",
+        "correct": "v.教,教授;命令,指示",
+        "options": [
+          "v.阻隔,阻塞(道路、通道等)n.阻碍物,障碍物",
+          "n.本能,直觉,天性",
+          "v.建设,建造,构造;创立",
+          "v.教,教授;命令,指示"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（向内）+ struct（建造、堆积）→ 在某人心中‘建造’知识或规则→ 教授、指示。本义是‘向内构建’，引申为传授知识（教）或下达命令（指示）。",
+        "similarWarning": "construct（con-共同+struct建造→共同建造）vs instruct（in-向内+struct→向内灌输知识）；instinct（in-内+stinct刺→内在的驱动力→本能）；obstruct（ob-反+struct建造→反着建→阻碍）；instrument（in-内+stru建造+ment工具→用于建造的工具→仪器）。",
+        "extendedMeaning": "instruct 在考研中常考‘指示、命令’的正式用法，如‘as instructed’（按照指示）。其名词 instruction 常考‘用法说明’（复数形式），而非‘教学’。",
+        "examUsage": "高频搭配：instruct sb to do sth（命令/指示某人做某事）；真题例句：‘The teacher instructed the students to read the passage carefully.’（教师指示学生仔细阅读段落。）注意与 teach 的区别：teach 侧重知识传授，instruct 更强调系统性指导或命令。"
+      }
+    },
+    {
+      "id": "instruction",
+      "word": "instruction",
+      "phonetic": "/in'strʌkʃən/",
+      "meaning": "n.教授;指导;(pl.)用法说明(书),操作指南",
+      "similar": [
+        "construction",
+        "destruction",
+        "obstruction",
+        "introduction",
+        "intuition",
+        "institution",
+        "installation",
+        "intersection"
+      ],
+      "question": {
+        "wordId": "instruction",
+        "stem": "选择 \"instruction\" 的正确中文意思：",
+        "correct": "n.教授;指导;(pl.)用法说明(书),操作指南",
+        "options": [
+          "n.毁坏，毁灭(的原因)",
+          "n.妨碍,障碍物",
+          "n.建造，构造；建筑物，结构；释义，解释",
+          "n.教授;指导;(pl.)用法说明(书),操作指南"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根struct（建造）+ 前缀in-（进入）+ 后缀-ion（名词），核心动作是“把知识/方法建造进头脑”，即教授、指导。源自拉丁语instruere（准备、教导）。",
+        "similarWarning": "construction（建造：con-共同+struct） vs destruction（破坏：de-去掉+struct） vs obstruction（阻碍：ob-对面+struct） vs instruction（指导：in-进入+struct）。区别在于前缀，in-表示“向内输入”，con-表示“共同搭建”，de-表示“拆毁”，ob-表示“阻挡”。",
+        "extendedMeaning": "在考研阅读中，常引申为“指令”（计算机或程序中的操作命令），如：execute an instruction（执行指令）。",
+        "examUsage": "固定搭配：follow the instructions（按照说明/指示），在完形中常与directions（方向/说明）辨析，instructions侧重具体操作步骤。"
+      }
+    },
+    {
+      "id": "instrument",
+      "word": "instrument",
+      "phonetic": "/'ɪnstrəmənt/",
+      "meaning": "n.工具,仪器,器械;乐器",
+      "similar": [
+        "instrumental",
+        "installment",
+        "instruct",
+        "inherent",
+        "investment"
+      ],
+      "question": {
+        "wordId": "instrument",
+        "stem": "选择 \"instrument\" 的正确中文意思：",
+        "correct": "n.工具,仪器,器械;乐器",
+        "options": [
+          "a.仪器的;器械的;乐器的;起作用的;有帮助的",
+          "n.工具,仪器,器械;乐器",
+          "n.(instalment)分期付款；(连载的)一期",
+          "v.教,教授;命令,指示"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 instruere（in-“在内”+ struere“建造，堆叠”）+ -ment（名词后缀，表手段/结果）。核心动作是“建造/组装所需之物”，引申为“完成任务的工具、器械或乐器”。",
+        "similarWarning": "instruct（v.指导，命令）：源自 in-“在内”+ struere“建造”，强调“构建知识”；instrument 强调“工具/器械”。inherent（adj.固有的）：in-“在内”+ haerere“粘着”，强调“内在属性”，与 instrument 拼写差异在“-her-” vs “-stru-”。",
+        "extendedMeaning": "在考研阅读中常引申为“手段，方法”（如：an instrument of policy 政策工具），或法律语境中“正式文件”（如：legal instrument 法律文书）。",
+        "examUsage": "高频搭配：play a musical instrument（演奏乐器）；instrument of torture（刑具）；financial instrument（金融工具）。真题中常与 tool, device, apparatus 等词进行同义替换干扰，注意 instrument 强调“精密性”或“法律效力”。"
+      }
+    },
+    {
+      "id": "instrumental",
+      "word": "instrumental",
+      "phonetic": "/ˌinstru'mentəl/",
+      "meaning": "a.仪器的;器械的;乐器的;起作用的;有帮助的",
+      "similar": [
+        "instrument"
+      ],
+      "question": {
+        "wordId": "instrumental",
+        "stem": "选择 \"instrumental\" 的正确中文意思：",
+        "correct": "a.仪器的;器械的;乐器的;起作用的;有帮助的",
+        "options": [
+          "n.板球;蟋蟀",
+          "a.仪器的;器械的;乐器的;起作用的;有帮助的",
+          "v.把…开除;驱逐;排出;发射",
+          "n.工具,仪器,器械;乐器"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“instrumentum”（工具、器具），由“in-”（在内）+“struere”（建造、堆积）构成，核心物理动作为“用于建造的内部工具”。后缀“-al”表形容词，本义为“工具的”，引申为“起作用的、有帮助的”，强调作为工具或手段促成结果的功能性角色。",
+        "similarWarning": "与“instrument”（名词，工具、乐器）拼写差异仅在于后缀“-al”，词性不同：“instrumental”为形容词，“instrument”为名词。注意：考研中“instrumental”常作表语或定语，而“instrument”指具体器具。",
+        "extendedMeaning": "在考研真题中，常出现“be instrumental in (doing) sth.”结构，意为“在…中起关键作用”，非字面“仪器的”。例如：“His research was instrumental in advancing medical science.”（他的研究对推动医学科学起了关键作用。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "insulate",
+      "word": "insulate",
+      "phonetic": "/'insjuleit/",
+      "meaning": "vt.隔离,孤立;使绝缘,使绝热",
+      "similar": [
+        "insult",
+        "isolate",
+        "circulate",
+        "insurance",
+        "insure",
+        "indulge",
+        "desolate",
+        "indicate"
+      ],
+      "question": {
+        "wordId": "insulate",
+        "stem": "选择 \"insulate\" 的正确中文意思：",
+        "correct": "vt.隔离,孤立;使绝缘,使绝热",
+        "options": [
+          "vt./n.侮辱,凌辱",
+          "vt.隔离,孤立;使绝缘,使绝热",
+          "vt.隔离,孤立",
+          "v.(使)循环,(使)流通"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根insul-（岛）+ -ate（动词后缀）→使成为岛状→隔离。核心物理动作：把某物变成像岛屿一样与周围隔绝的状态。",
+        "similarWarning": "insulate（隔离，使绝缘）vs. insult（侮辱，词根sult-跳跃，跳到你头上）vs. isolate（孤立，词根sol-单独，强调单独分离）vs. insulate侧重物理/功能隔绝（如绝缘体），isolate侧重空间/社交孤立。",
+        "extendedMeaning": "考研僻义：使免受（不良影响/干扰），如\"insulate children from violence\"（保护孩子免受暴力影响）。",
+        "examUsage": "真题考点：常考搭配\"insulate...from/against...\"（使...免受...），如\"insulate the house from cold\"（使房子隔热防寒）。"
+      }
+    },
+    {
+      "id": "insult",
+      "word": "insult",
+      "phonetic": "/in'sʌlt/",
+      "meaning": "vt./n.侮辱,凌辱",
+      "similar": [
+        "insulate",
+        "consult",
+        "input",
+        "insect",
+        "insert",
+        "insist",
+        "insure",
+        "instruct"
+      ],
+      "question": {
+        "wordId": "insult",
+        "stem": "选择 \"insult\" 的正确中文意思：",
+        "correct": "vt./n.侮辱,凌辱",
+        "options": [
+          "vt./n.侮辱,凌辱",
+          "vt.隔离,孤立;使绝缘,使绝热",
+          "n./v.输入",
+          "v.请教，向...咨询，找...商量；查阅，查看"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+sult（跳跃，跳起）→字面义“跳起来扑向对方”→引申为言语或行为上的攻击性侮辱。核心动作：跳起攻击。",
+        "similarWarning": "insult vs. insulate（绝缘，隔离）：insult含-sult（跳），insulate含-sul-（孤立，如island），拼写差字母a/t，词义为攻击vs保护。consult（咨询）含con-（一起）+sult（跳），共同跳跃思考→商量，与insult相反。",
+        "extendedMeaning": "考研中可指“损害，伤害”（非肉体，如对尊严、名声的冒犯），常见于写作或阅读中表抽象攻击。",
+        "examUsage": "高频搭配：add insult to injury（雪上加霜，在伤害之外再加侮辱），真题中常作为逻辑衔接词出现。"
+      }
+    },
+    {
+      "id": "insurance",
+      "word": "insurance",
+      "phonetic": "/in'ʃuərəns/",
+      "meaning": "n.保险,保险费,保险业",
+      "similar": [
+        "instance",
+        "assurance",
+        "endurance",
+        "entrance",
+        "insulate",
+        "ignorance",
+        "inference",
+        "disturbance"
+      ],
+      "question": {
+        "wordId": "insurance",
+        "stem": "选择 \"insurance\" 的正确中文意思：",
+        "correct": "n.保险,保险费,保险业",
+        "options": [
+          "n.保险,保险费,保险业",
+          "n.例子,事例,例证",
+          "n.保证,担保；确信,断言；信心,信念",
+          "n.忍耐(力),持久(力),耐久(性)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ sur（安全、确信）+ -ance（名词后缀）→ 进入安全状态 → 保险（对未来的风险提供安全保障）。核心物理动作：将不确定的风险转化为确定的保障。",
+        "similarWarning": "instance（实例）：in+sta+ance，站立的例子；assurance（保证）：as+sure+ance，使确信；insurance与assurance区别：insurance侧重经济补偿的保险，assurance侧重口头或心理的保证。",
+        "extendedMeaning": "考研僻义：1. 保险业（经济领域）；2. 预防措施（如take insurance against...）。不常见于基础释义。",
+        "examUsage": "真题考点：固定搭配insurance policy（保险单）；take out insurance（投保）；真题例句：They took out insurance against financial loss.（他们投保以防财务损失。）注意：干扰项常将insurance与assurance混淆。"
+      }
+    },
+    {
+      "id": "insure",
+      "word": "insure",
+      "phonetic": "/in'ʃuə/",
+      "meaning": "vt.保险,给…保险;保证",
+      "similar": [
+        "ensure",
+        "injure",
+        "inspire",
+        "incur",
+        "assure",
+        "endure",
+        "induce",
+        "injury"
+      ],
+      "question": {
+        "wordId": "insure",
+        "stem": "选择 \"insure\" 的正确中文意思：",
+        "correct": "vt.保险,给…保险;保证",
+        "options": [
+          "vt.鼓舞,激起;使产生灵感",
+          "vt.保险,给…保险;保证",
+          "v.确保,保证;使安全",
+          "v.损害,损伤,伤害"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ sure（确定的、安全的）→字面意为“使进入安全状态”→引申为“保险、保证”。核心动作是“通过经济或法律手段确保未来安全”。",
+        "similarWarning": "ensure（确保，强调结果） vs insure（保险，强调金融保障） vs assure（向某人保证，消除疑虑） vs reassure（再次保证）→字母差异：-sure核心，前缀不同决定动作对象。",
+        "extendedMeaning": "（在考研中，insure无显著僻义，常见义即为保险/保证，但需注意与ensure在写作中的精确区分：insure侧重经济风险转移，ensure侧重事实确定性。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "intact",
+      "word": "intact",
+      "phonetic": "/in'tækt/",
+      "meaning": "a.完整无缺的,未经触动的,未受损伤的",
+      "similar": [
+        "interact",
+        "contact",
+        "instant",
+        "impact",
+        "infant",
+        "infect",
+        "inject",
+        "insect"
+      ],
+      "question": {
+        "wordId": "intact",
+        "stem": "选择 \"intact\" 的正确中文意思：",
+        "correct": "a.完整无缺的,未经触动的,未受损伤的",
+        "options": [
+          "v./n.(使)接触,联系,交往",
+          "v.互相作用,互相影响",
+          "a.立即的;紧迫的;(食品)速溶的 n.瞬间,时刻",
+          "a.完整无缺的,未经触动的,未受损伤的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（不）+ tact（触摸，源自拉丁语tangere）→ 未被触碰的 → 完整无缺的。核心动作：未受触碰而保持原样。",
+        "similarWarning": "interact（inter-相互 + act行动 → 互动）vs intact（in-不 + tact触摸 → 完整的）。contact（con-共同 + tact触摸 → 接触）vs intact。instant（in-在 + st站 → 立即的）vs intact。",
+        "extendedMeaning": "考研外刊中可引申为‘未受影响的、未减损的’，如‘reputation intact’（声誉未损）或‘intact ecosystem’（未受破坏的生态系统）。",
+        "examUsage": "常考搭配‘keep/remain intact’（保持完整），真题例句：‘The ancient building remained intact after the earthquake.’（地震后古建筑完好无损。）"
+      }
+    },
+    {
+      "id": "integral",
+      "word": "integral",
+      "phonetic": "/'ɪntɪgrəl/",
+      "meaning": "a.构成整体所必需的;完整的",
+      "similar": [
+        "integrate",
+        "internal",
+        "interval",
+        "integrity",
+        "illegal",
+        "interim",
+        "lateral",
+        "mineral"
+      ],
+      "question": {
+        "wordId": "integral",
+        "stem": "选择 \"integral\" 的正确中文意思：",
+        "correct": "a.构成整体所必需的;完整的",
+        "options": [
+          "n.间隔,间歇;(幕间或工间)休息",
+          "v.(into,with)(使)成为一体,(使)结合在一起",
+          "a.构成整体所必需的;完整的",
+          "a.内部的,内的;国内的,内政的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语integralis，由in-（不）+ tangere（触摸）的过去分词tactus演变而来，核心动作是“未被触碰的，完整的”。词根integr-表示“完整、整体”，后缀-al意为“属于…的”。因此integral的字面意思是“属于整体一部分的”，引申为“构成整体所必需的”和“完整的”。",
+        "similarWarning": "integral vs integrate：integral是形容词，强调“必需的完整性”；integrate是动词，意为“使结合、融入”。integral vs internal：integral指“整体必需的”，internal指“内部的”，如internal organs（内脏）。integral vs interval：interval是名词，意为“间隔、间歇”，如interval training（间歇训练）。",
+        "extendedMeaning": "在考研阅读中，integral常引申为“固有的、不可分割的”，如an integral component（不可分割的组成部分），强调某物是系统或过程的内在部分，而非外部附加。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "integrate",
+      "word": "integrate",
+      "phonetic": "/'intigreit/",
+      "meaning": "v.(into,with)(使)成为一体,(使)结合在一起",
+      "similar": [
+        "integral",
+        "integrity",
+        "interact",
+        "intimate",
+        "interface",
+        "intricate",
+        "centigrade",
+        "illiterate"
+      ],
+      "question": {
+        "wordId": "integrate",
+        "stem": "选择 \"integrate\" 的正确中文意思：",
+        "correct": "v.(into,with)(使)成为一体,(使)结合在一起",
+        "options": [
+          "v.(into,with)(使)成为一体,(使)结合在一起",
+          "v.互相作用,互相影响",
+          "a.构成整体所必需的;完整的",
+          "n.正直,诚实;完整,完全"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 'integr'（完整，来自拉丁语integer，意为‘未触碰的、完整的’）+ 动词后缀 '-ate'（使成为）。核心物理动作：将分散的部分‘使成为完整的一体’。",
+        "similarWarning": "integral (adj. 必需的，完整的) vs integrate (v. 整合)；integrity (n. 正直，完整) vs integrate (v.)；intricate (adj. 错综复杂的) vs integrate (v.)，注意拼写差异：-gr- vs -tr-。",
+        "extendedMeaning": "在考研中常引申为‘融合、融入（社会或群体）’，如 integrate immigrants into society。",
+        "examUsage": "常用于搭配 ‘integrate A into/with B’（将A与B整合），真题中作为宾语补足语或被动结构出现，如 ‘be integrated into the curriculum’（被纳入课程）。"
+      }
+    }
+  ]
+}

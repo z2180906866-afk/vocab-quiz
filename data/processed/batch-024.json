@@ -1,0 +1,1730 @@
+{
+  "batchId": 24,
+  "words": [
+    {
+      "id": "diplomatic",
+      "word": "diplomatic",
+      "phonetic": "/ˌdiplə'mætik/",
+      "meaning": "a.外交的,从事外交的;策略的,有手腕的",
+      "similar": [
+        "dramatic",
+        "automatic"
+      ],
+      "question": {
+        "wordId": "diplomatic",
+        "stem": "选择 \"diplomatic\" 的正确中文意思：",
+        "correct": "a.外交的,从事外交的;策略的,有手腕的",
+        "options": [
+          "a.自动(装置)的；无意识的；n.自动机械",
+          "a.戏剧的,戏剧性的;剧烈的",
+          "n.英里，哩，海里",
+          "a.外交的,从事外交的;策略的,有手腕的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根dip-（双重的） + -oma（抽象名词，双折文件） + -tic（形容词后缀）。本义为“与双折文件相关的”，引申为“外交的”，因外交公文常折叠；再引申为“策略的”，强调处理事务需技巧与手腕。",
+        "similarWarning": "dramatic（戏剧性的）：drama（戏剧）+tic，强调表演性、夸张；automatic（自动的）：auto（自己）+mat（行动）+ic，强调无需人为干预。diplomatic侧重人际策略，dramatic侧重效果夸张，automatic侧重机械性。",
+        "extendedMeaning": "“有策略的、圆滑的”（指处理人际关系或敏感话题时避免冒犯）。例：He gave a diplomatic answer that avoided the real issue.（他给出了一个回避实质问题的圆滑回答。）",
+        "examUsage": "真题中常考“策略的”义项，搭配diplomatic approach（策略性方法）或diplomatic language（委婉措辞）。干扰项常为dramatic（戏剧性的）或automatic（自动的），需根据上下文判断。"
+      }
+    },
+    {
+      "id": "direct",
+      "word": "direct",
+      "phonetic": "/di'rekt/",
+      "meaning": "a./ad.径直的(地) v.管理,指导;(at,to)指向",
+      "similar": [
+        "director",
+        "dialect",
+        "diet",
+        "dirt",
+        "erect",
+        "defect",
+        "detect",
+        "digest"
+      ],
+      "question": {
+        "wordId": "direct",
+        "stem": "选择 \"direct\" 的正确中文意思：",
+        "correct": "a./ad.径直的(地) v.管理,指导;(at,to)指向",
+        "options": [
+          "n.饮食,食物",
+          "a./ad.径直的(地) v.管理,指导;(at,to)指向",
+          "n.指导者,主任,导演",
+          "n.方言"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根：di-（分开）+ rect（直、正）。核心动作：使直线分开→笔直地引导或指向。",
+        "similarWarning": "erect（竖立，建造）：e-（出）+ rect（直），强调向上直立。direct（指引）：强调方向上的直。",
+        "extendedMeaning": "【考研僻义】v. 针对，指向（抽象目标）：direct criticism at the policy（批评针对政策）。",
+        "examUsage": "【真题考点】direct sth. at/to...（将……指向/针对……）：The campaign is directed at young voters.（活动针对年轻选民。）"
+      }
+    },
+    {
+      "id": "direction",
+      "word": "direction",
+      "phonetic": "/di'rekʃən/",
+      "meaning": "n.方向,方位;指令,说明",
+      "similar": [
+        "director",
+        "perfection",
+        "fiction",
+        "section",
+        "duration",
+        "fraction",
+        "friction",
+        "affection"
+      ],
+      "question": {
+        "wordId": "direction",
+        "stem": "选择 \"direction\" 的正确中文意思：",
+        "correct": "n.方向,方位;指令,说明",
+        "options": [
+          "n.指导者,主任,导演",
+          "n.尽善尽美,完美",
+          "n.方向,方位;指令,说明",
+          "n.虚构,编造;小说"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根direct-（引导、直）+ -ion（名词后缀）。核心动作：引导或指向某条直线路径。本义为“引导的方向”，引申为“指令、说明”即引导行为的结果。",
+        "similarWarning": "director（导演、主管）: director = direct（引导）+ -or（人），强调执行引导的人；direction = direct + -ion（过程），强调引导本身或结果。perfection（完美）: per-（完全）+ fect（做）+ -ion，与direction无词根关联，仅拼写相似。",
+        "extendedMeaning": "",
+        "examUsage": "常考搭配：in all directions（四面八方），under the direction of（在…指导下）。真题中direction作“指令”义时，常与follow/obey连用，如follow the directions（遵循说明）。"
+      }
+    },
+    {
+      "id": "director",
+      "word": "director",
+      "phonetic": "/di'rektə/",
+      "meaning": "n.指导者,主任,导演",
+      "similar": [
+        "directory",
+        "direction",
+        "direct",
+        "detector",
+        "sector",
+        "tractor"
+      ],
+      "question": {
+        "wordId": "director",
+        "stem": "选择 \"director\" 的正确中文意思：",
+        "correct": "n.指导者,主任,导演",
+        "options": [
+          "a./ad.径直的(地) v.管理,指导;(at,to)指向",
+          "n.人名地址录,(电话)号码簿",
+          "n.方向,方位;指令,说明",
+          "n.指导者,主任,导演"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根: di-（加强）+ rect（直，引导）+-or（表示人）。核心动作：直接引导/指导的人。即指导者、主任、导演。",
+        "similarWarning": "director vs. detector: director 含 rect（直），强调引导；detector 含 tect（遮盖/探测），强调探测。director vs. sector: sector 含 sect（切割），指部分或扇形区域。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "directory",
+      "word": "directory",
+      "phonetic": "/di'rektəri/",
+      "meaning": "n.人名地址录,(电话)号码簿",
+      "similar": [
+        "director",
+        "victory",
+        "detector",
+        "direction"
+      ],
+      "question": {
+        "wordId": "directory",
+        "stem": "选择 \"directory\" 的正确中文意思：",
+        "correct": "n.人名地址录,(电话)号码簿",
+        "options": [
+          "n.人名地址录,(电话)号码簿",
+          "n.指导者,主任,导演",
+          "n.发现者,侦察器,探测器,检波器,检电器",
+          "n.胜利"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：direct（引导）+ -ory（表示物/场所）。核心动作：引导人们找到目标。本义为“引导人们找到联系方式的工具”，即人名地址录或电话号码簿。",
+        "similarWarning": "director（n.导演，主管） vs directory（n.目录，簿）：前者以-or结尾表示人，后者以-ory结尾表示物。detector（n.探测器） vs directory：前者强调检测功能，后者强调索引功能。",
+        "extendedMeaning": "在计算机领域常指“目录/文件夹”（如file directory），考研阅读中可能引申为“资源索引”或“信息集合”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dirt",
+      "word": "dirt",
+      "phonetic": "/də:t/",
+      "meaning": "n.污物,污垢",
+      "similar": [
+        "dirty",
+        "diet",
+        "direct",
+        "divert",
+        "birth",
+        "dairy",
+        "diary",
+        "drift"
+      ],
+      "question": {
+        "wordId": "dirt",
+        "stem": "选择 \"dirt\" 的正确中文意思：",
+        "correct": "n.污物,污垢",
+        "options": [
+          "n.饮食,食物",
+          "a.弄脏的;下流的 v.弄脏,玷污",
+          "n.污物,污垢",
+          "a./ad.径直的(地) v.管理,指导;(at,to)指向"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自古英语drit（粪便、排泄物），原始日耳曼语*dritą（排泄物），词源上与古英语drītan（排泄）相关。核心物理动作是‘排泄物、脏东西’，引申为任何污秽、污垢。",
+        "similarWarning": "dirt vs dirty：dirt是名词，dirty是形容词/动词。dirt vs diet：dirt含‘r’，diet无‘r’指饮食。dirt vs birth：dirt以d-开头，birth以b-开头。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dirty",
+      "word": "dirty",
+      "phonetic": "/'də:ti/",
+      "meaning": "a.弄脏的;下流的 v.弄脏,玷污",
+      "similar": [
+        "dirt",
+        "thirty",
+        "diet",
+        "duty",
+        "pity",
+        "birth",
+        "dairy",
+        "diary"
+      ],
+      "question": {
+        "wordId": "dirty",
+        "stem": "选择 \"dirty\" 的正确中文意思：",
+        "correct": "a.弄脏的;下流的 v.弄脏,玷污",
+        "options": [
+          "a.弄脏的;下流的 v.弄脏,玷污",
+          "n.污物,污垢",
+          "num.三十，三十个(人或物)",
+          "n.饮食,食物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自 dirt（污物）+ -y（形容词后缀），核心动作/画面为“沾满污物的”，引申为道德上的“下流、肮脏”。",
+        "similarWarning": "dirt（n.污物） vs dirty（adj.脏的）: dirt指名词“灰尘/泥土”，dirty为其形容词。thirty（三十） vs dirty: thirty以th开头，dirty以d开头，注意首字母差异。",
+        "extendedMeaning": "考研中常考“下流的、卑鄙的”引申义，如dirty trick（卑鄙手段）；或“弄脏、玷污”的动词用法，如dirty one's hands（玷污自己名声）。",
+        "examUsage": "真题考点：dirty常与fix、trick等搭配构成固定短语，如dirty fix（肮脏勾当），或作为干扰项与clean、pure等反义词对比。"
+      }
+    },
+    {
+      "id": "disable",
+      "word": "disable",
+      "phonetic": "/dis'eib/",
+      "meaning": "vt.使残废;使失去能力;丧失能力",
+      "similar": [
+        "advisable",
+        "liable",
+        "durable",
+        "visible",
+        "desirable",
+        "miserable",
+        "disaster",
+        "dissolve"
+      ],
+      "question": {
+        "wordId": "disable",
+        "stem": "选择 \"disable\" 的正确中文意思：",
+        "correct": "vt.使残废;使失去能力;丧失能力",
+        "options": [
+          "vt.使残废;使失去能力;丧失能力",
+          "a.可取的，适当的，明智的",
+          "a.有...倾向的；可能遭受...的；有责任的",
+          "a.持久的,耐久的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "dis-（否定）+ able（能够）→ 使不能，使丧失能力。核心动作是剥夺某人或某物正常运作的能力。",
+        "similarWarning": "disable vs. liable（有责任的）：disable含否定前缀dis-，liable来自拉丁语ligare（捆绑），意为有法律责任的。",
+        "extendedMeaning": "在技术语境中常指“禁用（功能）”，如disable the update（禁用更新）。",
+        "examUsage": "真题中常考disable的被动结构be disabled from doing（被剥夺做某事的能力），如：The accident disabled him from walking.（事故使他无法行走。）"
+      }
+    },
+    {
+      "id": "disappear",
+      "word": "disappear",
+      "phonetic": "/ˌdisə'piə/",
+      "meaning": "v.不见,消失",
+      "similar": [
+        "disaster",
+        "disappoint"
+      ],
+      "question": {
+        "wordId": "disappear",
+        "stem": "选择 \"disappear\" 的正确中文意思：",
+        "correct": "v.不见,消失",
+        "options": [
+          "a.流线型的 vt.使成流线型；使合理化",
+          "v.不见,消失",
+          "n.灾难,大祸;彻底的失败",
+          "vt.失望；(希望等)破灭，挫败(计划等)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "dis-（否定/分离） + appear（出现） → 从“出现”的状态中分离出去 → 消失。核心动作：从可见变为不可见。",
+        "similarWarning": "disaster（灾难，dis-否定 + aster星象，原指“星位不正”）；disappoint（使失望，dis-否定 + appoint任命，原指“不被任命”）。注意：disappear 与 disappoint 拼写仅差 -ear 与 -oint，词义截然不同。",
+        "extendedMeaning": "（考研中常考引申义）不复存在，灭绝：如“Many species are disappearing.”（许多物种正在灭绝。）",
+        "examUsage": "（考研真题高频考点）用于描述现象/事物的消失或消亡，常与介词 from 连用：disappear from the scene（从现场消失）；真题例句：“The old customs have disappeared completely.”（旧习俗已完全消失。）"
+      }
+    },
+    {
+      "id": "disappoint",
+      "word": "disappoint",
+      "phonetic": "/ˌdisə'pɔint/",
+      "meaning": "vt.失望；(希望等)破灭，挫败(计划等)",
+      "similar": [
+        "discount",
+        "disappear",
+        "viewpoint",
+        "discipline"
+      ],
+      "question": {
+        "wordId": "disappoint",
+        "stem": "选择 \"disappoint\" 的正确中文意思：",
+        "correct": "vt.失望；(希望等)破灭，挫败(计划等)",
+        "options": [
+          "vt.失望；(希望等)破灭，挫败(计划等)",
+          "n.折扣；贴现(率) vt.打折扣;不重视",
+          "v.不见,消失",
+          "n.观点"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "dis-（否定/分离）+ appoint（任命/指定）→ 原指“取消任命”，引申为“使期望落空”，核心动作是“期望未达成”。",
+        "similarWarning": "discount（折扣/不重视）：dis- + count（数），强调“数少/轻视”；disappoint强调“期望落空”。disappear（消失）：dis- + appear（出现），指“从视线中消失”；disappoint侧重心理落差。discipline（纪律/学科）：词根discip-（学习），与“失望”无直接关联。",
+        "extendedMeaning": "（计划等）破灭、挫败：The bad weather disappointed our hopes for a picnic.（坏天气使野餐希望破灭。）",
+        "examUsage": "be disappointed in/with sb/sth（对…失望）为真题常见搭配，常与expectation、hope连用作题眼。"
+      }
+    },
+    {
+      "id": "disaster",
+      "word": "disaster",
+      "phonetic": "/ˌdi'zɑ:stə/",
+      "meaning": "n.灾难,大祸;彻底的失败",
+      "similar": [
+        "disappear",
+        "easter",
+        "disable",
+        "disease",
+        "dispute",
+        "plaster",
+        "diameter",
+        "discover"
+      ],
+      "question": {
+        "wordId": "disaster",
+        "stem": "选择 \"disaster\" 的正确中文意思：",
+        "correct": "n.灾难,大祸;彻底的失败",
+        "options": [
+          "n.灾难,大祸;彻底的失败",
+          "v.不见,消失",
+          "n.复活节",
+          "vt.使残废;使失去能力;丧失能力"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "dis-（坏，偏离）+ aster（星）。古罗马人认为星象偏离正常轨迹预示灾祸，故词义为‘灾难、大祸’。",
+        "similarWarning": "disaster vs. disease：disaster（灾难）含aster（星），disease（疾病）含ease（安逸），dis-（不）+ ease（安逸）→不安逸→疾病。",
+        "extendedMeaning": "彻底的失败（指人或事完全搞砸）：The party was a disaster.（派对彻底失败。）",
+        "examUsage": "a disaster waiting to happen（迟早要发生的灾难）：常作阅读题眼，暗示必然性。"
+      }
+    },
+    {
+      "id": "disastrous",
+      "word": "disastrous",
+      "phonetic": "/di'zɑ:strəs/",
+      "meaning": "a.灾难性的",
+      "similar": [
+        "disaster",
+        "distress"
+      ],
+      "question": {
+        "wordId": "disastrous",
+        "stem": "选择 \"disastrous\" 的正确中文意思：",
+        "correct": "a.灾难性的",
+        "options": [
+          "n.灾难,大祸;彻底的失败",
+          "n.水龙带,软管 v.用软管(淋浇,冲洗)",
+          "a.灾难性的",
+          "n.苦恼;危难;不幸 v.使苦恼"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根dis-（分离、离开）+ astr-（星星，源自希腊语astron，指星象）+ -ous（形容词后缀）。古罗马人认为星象预示吉凶，星星偏离正常轨道（dis-）则象征灾祸降临，故词义本源为“星位不正的”，引申为“灾难性的”。",
+        "similarWarning": "disaster（n.灾难）是名词形式，disastrous是形容词；distress（n./v.痛苦、危难）拼写相近但词源不同（dis- + stringere拉紧），词义侧重精神或身体的压力，而非强调突发性外部灾难。",
+        "extendedMeaning": "在考研阅读中常引申为“极其失败的、彻底糟糕的”，如a disastrous policy（彻底失败的政策），强调结果极差，不仅限于自然灾难。",
+        "examUsage": "真题中常与effect/result/consequence搭配，如disastrous consequences（灾难性后果），作为干扰项时注意与harmful/destructive区分，disastrous程度更重、更强调毁灭性。"
+      }
+    },
+    {
+      "id": "disc",
+      "word": "disc",
+      "phonetic": "/disk/",
+      "meaning": "n.(disk)圆盘,圆面,盘状物",
+      "similar": [
+        "dish",
+        "ditch"
+      ],
+      "question": {
+        "wordId": "disc",
+        "stem": "选择 \"disc\" 的正确中文意思：",
+        "correct": "n.(disk)圆盘,圆面,盘状物",
+        "options": [
+          "n.(disk)圆盘,圆面,盘状物",
+          "n.碟子,盘子,菜肴",
+          "n.沟,沟渠,水沟",
+          "n.推动(力),促进"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语‘diskos’（圆盘、铁饼），原指扁平圆形的物体。词根‘disc-’直接表示‘圆盘状’，核心物理动作为‘圆周平面’。",
+        "similarWarning": "dish [dɪʃ]（碟子，与‘disc’差一个字母‘h’，词义为凹面容器）vs disc [dɪsk]（圆盘，凸面或扁平状）；ditch [dɪtʃ]（沟渠，与‘disc’差字母‘t’和‘h’，词义为长条形凹陷）。",
+        "extendedMeaning": "在计算机领域指‘磁盘’（如hard disc），在解剖学中指‘椎间盘’（如slipped disc）。",
+        "examUsage": "常考搭配‘compact disc’（光盘，缩写CD），‘disc drive’（磁盘驱动器）。真题例句：‘The disc is a storage medium.’"
+      }
+    },
+    {
+      "id": "discard",
+      "word": "discard",
+      "phonetic": "/dis'kɑ:d/",
+      "meaning": "vt.丢弃，抛弃，遗弃",
+      "similar": [
+        "discern",
+        "discharge",
+        "disregard",
+        "postcard"
+      ],
+      "question": {
+        "wordId": "discard",
+        "stem": "选择 \"discard\" 的正确中文意思：",
+        "correct": "vt.丢弃，抛弃，遗弃",
+        "options": [
+          "vt.丢弃，抛弃，遗弃",
+          "v.认出,发现;辨别,识别",
+          "v./n.卸货,排出;发射,放(电);遣散,解雇",
+          "vt.不理会;忽视;漠视 n.忽视;漠视"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "dis-（分开、除去） + card（纸牌）。本义是“掷出无用的纸牌”，即打牌时丢弃不要的牌，引申为“扔掉、抛弃”任何无用之物。",
+        "similarWarning": "discard vs. discern vs. discharge vs. disregard:\n- discard: dis + card（纸牌），强调“丢弃”。\n- discern: dis + cern（分开），强调“辨别、区分”。\n- discharge: dis + charge（装载），强调“卸下、释放”。\n- disregard: dis + regard（注意），强调“忽视”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "discern",
+      "word": "discern",
+      "phonetic": "/dɪ'sɜ:n/",
+      "meaning": "v.认出,发现;辨别,识别",
+      "similar": [
+        "discard",
+        "discovery",
+        "discount",
+        "discover",
+        "discreet",
+        "disperse"
+      ],
+      "question": {
+        "wordId": "discern",
+        "stem": "选择 \"discern\" 的正确中文意思：",
+        "correct": "v.认出,发现;辨别,识别",
+        "options": [
+          "vt.丢弃，抛弃，遗弃",
+          "n.折扣；贴现(率) vt.打折扣;不重视",
+          "v.认出,发现;辨别,识别",
+          "n.发现;被发现的事物"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "dis-（分开）+ cern（筛选，分离）→ 把混杂的东西分开筛选 → 辨别、识别。核心动作：从混沌中分离出清晰的个体。",
+        "similarWarning": "discard（丢弃）：card（卡片）→ 把卡片扔掉；discern（识别）：cern（筛选）→ 筛选出差异。",
+        "extendedMeaning": "在考研阅读中常引申为“（在复杂信息中）敏锐地察觉、洞悉”，如discern the subtle difference（察觉细微差别）或discern the truth（洞悉真相）。",
+        "examUsage": "常见搭配：discern...from...（从…中辨别出…），如真题例句：It is difficult to discern the real motives behind his actions.（很难辨别他行为背后的真实动机。）"
+      }
+    },
+    {
+      "id": "discharge",
+      "word": "discharge",
+      "phonetic": "/dis'tʃɑ:dʒ/",
+      "meaning": "v./n.卸货,排出;发射,放(电);遣散,解雇",
+      "similar": [
+        "discourage",
+        "discard",
+        "discourse"
+      ],
+      "question": {
+        "wordId": "discharge",
+        "stem": "选择 \"discharge\" 的正确中文意思：",
+        "correct": "v./n.卸货,排出;发射,放(电);遣散,解雇",
+        "options": [
+          "vt.丢弃，抛弃，遗弃",
+          "v.使泄气,使失去信心",
+          "n.论文;演说;谈话;话语 vi.讲述,著述",
+          "v./n.卸货,排出;发射,放(电);遣散,解雇"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "dis-(分开，去除) + charge(装载，负荷) → 卸下负荷 → 核心动作是“解除负载”，引申为卸货、排出、发射、放电、遣散等，本质是“释放或移除所承载之物”。",
+        "similarWarning": "discourage (dis- + courage勇气 → 使失去勇气)；discard (dis- + card纸牌 → 丢弃)；discourse (dis- + course奔跑 → 论述)。discharge 强调“解除负荷”，与“勇气、纸牌、奔跑”无关。",
+        "extendedMeaning": "【考研僻义】①v.履行，完成（职责/义务），如 discharge one's duties（尽职）；②v.免除（债务、义务），如 discharge a debt（清偿债务）。",
+        "examUsage": "【真题考点】常考搭配：discharge sb. from...（解雇/释放某人脱离...），如 discharge a patient from hospital（允许病人出院）；discharge of cargo（卸货）。真题干扰项常与 dismiss, release 辨析，discharge 更侧重“正式解除职务或释放”。"
+      }
+    },
+    {
+      "id": "discipline",
+      "word": "discipline",
+      "phonetic": "/'disiplin/",
+      "meaning": "n.纪律,学科",
+      "similar": [
+        "disclose",
+        "displace",
+        "dissipate",
+        "masculine",
+        "disappoint"
+      ],
+      "question": {
+        "wordId": "discipline",
+        "stem": "选择 \"discipline\" 的正确中文意思：",
+        "correct": "n.纪律,学科",
+        "options": [
+          "v.驱散;(使云、雾、疑虑等)消散;挥霍",
+          "n.纪律,学科",
+          "v.揭示,泄露",
+          "v.移置,转移;取代,置换"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "dis-（分开）+ cip（拿，取）+ -ine（名词后缀）→ 原义为“分开学习的内容”，即“学科”；后引申为“使学习者遵循规则”，即“纪律”。核心动作：从混沌中分离出清晰的知识体系或行为准则。",
+        "similarWarning": "disclose (dis- + close，揭开) vs discipline (dis- + cip，分开学习)：前者侧重“公开隐藏信息”，后者强调“学科/纪律”；displace (dis- + place，取代) vs discipline：前者是“位置移动”，后者是“规范系统”。",
+        "extendedMeaning": "（考研英语二）熟词僻义：指“惩罚，处分”，常见于学术规范语境。例：The student faced severe discipline for plagiarism.（该生因剽窃面临严厉处分。）",
+        "examUsage": "真题考点：搭配“self-discipline”（自律）为高频写作词汇；考点“academic discipline”（学科）常作为阅读中的主题词；干扰项设计常混淆“discipline”与“principle”（原则）或“doctrine”（教条）。"
+      }
+    },
+    {
+      "id": "disclose",
+      "word": "disclose",
+      "phonetic": "/dis'kləuz/",
+      "meaning": "v.揭示,泄露",
+      "similar": [
+        "dispose",
+        "discourse",
+        "discuss",
+        "disease",
+        "dislike",
+        "enclose",
+        "diagnose",
+        "discover"
+      ],
+      "question": {
+        "wordId": "disclose",
+        "stem": "选择 \"disclose\" 的正确中文意思：",
+        "correct": "v.揭示,泄露",
+        "options": [
+          "n.论文;演说;谈话;话语 vi.讲述,著述",
+          "vt.讨论,商议",
+          "v.揭示,泄露",
+          "v.(of)处理,处置;(for)布置,安排"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "dis-（分开、反向） + close（关闭）→ 打开关闭的东西 → 揭示、泄露。核心动作：将原本封闭的信息或事物打开，使其公开可见。",
+        "similarWarning": "disclose vs. discover：disclose 强调“揭开遮盖物”使信息可见；discover 强调“发现”原本存在但未知的事物。dispose 是“处理、安排”，与 disclose 仅前缀相同，词根不同。",
+        "extendedMeaning": "在考研中，disclose 常引申为“（官方、机构）公开（秘密、情报、财务信息等）”，不局限于个人泄露。如：disclose financial details（公开财务细节）。",
+        "examUsage": "真题常考短语：disclose information / disclose the truth。常见干扰项为 reveal（同义替换）。例句：The company refused to disclose its earnings.（公司拒绝公开其收益。）"
+      }
+    },
+    {
+      "id": "discount",
+      "word": "discount",
+      "phonetic": "/'diskaunt/",
+      "meaning": "n.折扣；贴现(率) vt.打折扣;不重视",
+      "similar": [
+        "discourse",
+        "account",
+        "biscuit",
+        "descent",
+        "discern",
+        "discuss",
+        "disgust",
+        "disrupt"
+      ],
+      "question": {
+        "wordId": "discount",
+        "stem": "选择 \"discount\" 的正确中文意思：",
+        "correct": "n.折扣；贴现(率) vt.打折扣;不重视",
+        "options": [
+          "n.折扣；贴现(率) vt.打折扣;不重视",
+          "n.论文;演说;谈话;话语 vi.讲述,著述",
+          "a.叙述，说明；账目，账户 vi.说明，解释",
+          "n.饼干,点心"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "dis-（分离/去除）+ count（计数）→ 从总计数中去除一部分 → 打折扣；引申为不重视（将某事物从重要考量中剔除）。",
+        "similarWarning": "discourse（论述）：dis-（分离）+ course（跑/流动）→ 思绪流动 → 论述；discount（折扣）：dis-（去除）+ count（计数）→ 减数。",
+        "extendedMeaning": "考研僻义：vt. 不重视/轻视/认为不重要（真题常考，如“discount the possibility”忽视可能性）。",
+        "examUsage": "考点：at a discount（打折/不受重视）；discount rate（贴现率，经济类阅读高频）。"
+      }
+    },
+    {
+      "id": "discourage",
+      "word": "discourage",
+      "phonetic": "/dis'kʌridʒ/",
+      "meaning": "v.使泄气,使失去信心",
+      "similar": [
+        "discourse",
+        "discharge",
+        "encourage",
+        "decorate",
+        "discount",
+        "disgrace"
+      ],
+      "question": {
+        "wordId": "discourage",
+        "stem": "选择 \"discourage\" 的正确中文意思：",
+        "correct": "v.使泄气,使失去信心",
+        "options": [
+          "n.论文;演说;谈话;话语 vi.讲述,著述",
+          "v.使泄气,使失去信心",
+          "v./n.卸货,排出;发射,放(电);遣散,解雇",
+          "v.鼓励,怂恿"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "dis-（否定）+ courage（勇气）→ 夺走勇气，即“使泄气”。本源动作：通过打击信心，让人失去前进的动力。",
+        "similarWarning": "discourse（演说：dis- + course→跑开话题→演讲）；discharge（放电/解雇：dis- + charge→卸下负载）；encourage（鼓励：en- + courage→注入勇气）。对比核心差异：discourage vs encourage 是反义前缀（dis-/en-）对比；discourse 重点在“话语”而非“勇气”。",
+        "extendedMeaning": "考研中常引申为“劝阻，阻止（某人做某事）”，后接 from doing，如：discourage sb. from doing sth.（阻止某人做某事）。此义在阅读中常作观点态度题的干扰项。",
+        "examUsage": "真题高频搭配：discourage ... from ...（劝阻……做……）。例：The new policy discourages people from smoking in public.（新政策劝阻人们在公共场所吸烟。）注意与 prevent（防止）区分：discourage 侧重“通过劝说或打击意愿来阻止”，而非物理阻止。"
+      }
+    },
+    {
+      "id": "discourse",
+      "word": "discourse",
+      "phonetic": "/'diskɔ:s/",
+      "meaning": "n.论文;演说;谈话;话语 vi.讲述,著述",
+      "similar": [
+        "discourage",
+        "discuss",
+        "dispose",
+        "disclose",
+        "discount",
+        "disguise",
+        "disperse",
+        "discharge"
+      ],
+      "question": {
+        "wordId": "discourse",
+        "stem": "选择 \"discourse\" 的正确中文意思：",
+        "correct": "n.论文;演说;谈话;话语 vi.讲述,著述",
+        "options": [
+          "v.(of)处理,处置;(for)布置,安排",
+          "n.论文;演说;谈话;话语 vi.讲述,著述",
+          "vt.讨论,商议",
+          "v.使泄气,使失去信心"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "dis-（分开、远离） + course（奔跑、流动）→ 思想或言语向不同方向流动或展开的过程 → 引申为系统的论述、对话或话语。核心物理动作是“流动”，强调思想或言语的展开与传递。",
+        "similarWarning": "discourse vs. discuss：discourse强调系统、正式的论述或对话（n.论文/演说）；discuss侧重交换意见的讨论（v.讨论）。discourse vs. disclose：disclose意为“揭露、透露”（dis- + close关闭→打开关闭），拼写中多一个“c”且含义完全不同。",
+        "extendedMeaning": "在学术或专业语境中，discourse常指“话语体系”或“语篇”，如political discourse（政治话语）、academic discourse（学术话语），是考研阅读中高频的抽象概念。",
+        "examUsage": "真题中常作为名词出现，搭配如discourse analysis（话语分析），或与动词engage in连用：engage in discourse（进行论述）。注意其与argument（论点）的区别：discourse更强调交流过程而非对立观点。"
+      }
+    },
+    {
+      "id": "discover",
+      "word": "discover",
+      "phonetic": "/dis'kʌvə/",
+      "meaning": "v.发现,显示",
+      "similar": [
+        "discovery",
+        "discern",
+        "dispose",
+        "recover",
+        "uncover",
+        "disaster",
+        "disclose",
+        "discount"
+      ],
+      "question": {
+        "wordId": "discover",
+        "stem": "选择 \"discover\" 的正确中文意思：",
+        "correct": "v.发现,显示",
+        "options": [
+          "v.(of)处理,处置;(for)布置,安排",
+          "v.认出,发现;辨别,识别",
+          "n.发现;被发现的事物",
+          "v.发现,显示"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "dis- (否定/去掉) + cover (覆盖) → 去掉覆盖物 → 使原本隐藏的东西显露出来 → 发现、显示。核心动作是“揭开遮盖物”，强调原本存在但未被知晓的事物被揭示。",
+        "similarWarning": "discover vs. recover: dis- (否定) + cover → 揭开；re- (重新) + cover → 重新覆盖 → 恢复。discover v.发现；recover v.恢复。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "discovery",
+      "word": "discovery",
+      "phonetic": "/dis'kʌvəri/",
+      "meaning": "n.发现;被发现的事物",
+      "similar": [
+        "discover",
+        "discern",
+        "recovery"
+      ],
+      "question": {
+        "wordId": "discovery",
+        "stem": "选择 \"discovery\" 的正确中文意思：",
+        "correct": "n.发现;被发现的事物",
+        "options": [
+          "n.痊愈,复元;重获,恢复",
+          "v.认出,发现;辨别,识别",
+          "v.发现,显示",
+          "n.发现;被发现的事物"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "dis-（去掉，相反）+ cover（覆盖）+ -y（名词后缀）。核心动作：揭开覆盖物，使隐藏的东西显露出来。本义为“发现”，引申为“被发现的事物”。",
+        "similarWarning": "discover（v. 发现）: 与discovery同根，但词性不同；discern（v. 识别，辨别）: 前缀dis- + cern（分开），强调通过视觉或心智分辨细微差异；recovery（n. 恢复，复苏）: re-（再次）+ cover（覆盖），本义是“重新覆盖”，引申为“恢复”。注意discovery强调“首次发现”，recovery强调“重新获得”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "discreet",
+      "word": "discreet",
+      "phonetic": "/dis'kri:t/",
+      "meaning": "a.(言行)谨慎的；慎重的；有判断力的",
+      "similar": [
+        "direct",
+        "screen",
+        "descent",
+        "discern",
+        "disrupt",
+        "discount",
+        "discover",
+        "disorder"
+      ],
+      "question": {
+        "wordId": "discreet",
+        "stem": "选择 \"discreet\" 的正确中文意思：",
+        "correct": "a.(言行)谨慎的；慎重的；有判断力的",
+        "options": [
+          "a.(言行)谨慎的；慎重的；有判断力的",
+          "a./ad.径直的(地) v.管理,指导;(at,to)指向",
+          "n.屏幕,屏风;帘 v.掩蔽,包庇;筛选",
+          "n.下降,降下;斜坡;血统,家世"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "dis-（分开）+ creet（=cern，区分、筛选）→ 能够分开辨别、筛选出合适言行 → 谨慎的。核心动作：将不同信息或行为分开审视，做出恰当选择。",
+        "similarWarning": "discreet vs. discrete：discreet 指人言行谨慎；discrete 指事物离散、不连续（e-向外+crete制造→分开制造）→ 区分点在字母e的有无及含义。",
+        "extendedMeaning": "在考研中常引申为‘有判断力的、考虑周全的’，尤指在敏感情境下不冒失、不泄露信息。",
+        "examUsage": "真题考点：be discreet in word and deed（言行谨慎）；常用于阅读理解中形容人物性格或行为策略，作为正面评价词出现。"
+      }
+    },
+    {
+      "id": "discrepancy",
+      "word": "discrepancy",
+      "phonetic": "/dis'krepənsi/",
+      "meaning": "n.相差;差异;矛盾;",
+      "similar": [],
+      "question": {
+        "wordId": "discrepancy",
+        "stem": "选择 \"discrepancy\" 的正确中文意思：",
+        "correct": "n.相差;差异;矛盾;",
+        "options": [
+          "v.促进,发扬;提升,提拔;增进,助长",
+          "v.使惊恐",
+          "n.相差;差异;矛盾;",
+          "n.足球"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "dis-（分开）+ crep-（吱吱作响，源自拟声词根，指摩擦或发出刺耳声）+ -ancy（名词后缀）。核心物理动作：两个物体因摩擦发出不协调的吱吱声，引申为事物之间因不一致而产生‘差异、矛盾’。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研英语中，常指数据、陈述、记录等客观事实之间的‘不一致’或‘出入’，强调对比后的不符，而非主观冲突。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "discriminate",
+      "word": "discriminate",
+      "phonetic": "/dɪ'skrɪmɪneɪt/",
+      "meaning": "v.区别,辨别;(against)有差别地对待,歧视",
+      "similar": [],
+      "question": {
+        "wordId": "discriminate",
+        "stem": "选择 \"discriminate\" 的正确中文意思：",
+        "correct": "v.区别,辨别;(against)有差别地对待,歧视",
+        "options": [
+          "vt.放大，增强；详述，详加解说",
+          "n.恶梦；可怕的事物，无法摆脱的恐惧",
+          "n.赤字,逆差;亏损,亏空;不足,缺乏",
+          "v.区别,辨别;(against)有差别地对待,歧视"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根dis-（分开）+ crimin（裁决、评判）+ -ate（动词后缀）→ 分开评判 → 最初指“区分、辨别”，后引申为“区别对待”，即歧视。核心动作：将事物或人按标准分开评判，形成差异。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中常考“歧视”义，尤指基于种族、性别等的“差别对待”，如racial/gender discrimination；另可作“敏锐辨别”讲，如discriminate between fine shades of meaning（辨别意义的细微差别）。",
+        "examUsage": "真题高频搭配：discriminate against（歧视），如“The law should not discriminate against any group.”；注意与differentiate（区分，无贬义）的区别，discriminate常含负面评价。"
+      }
+    },
+    {
+      "id": "discuss",
+      "word": "discuss",
+      "phonetic": "/dis'kʌs/",
+      "meaning": "vt.讨论,商议",
+      "similar": [
+        "disgust",
+        "dismiss",
+        "discourse",
+        "disclose",
+        "discount",
+        "disguise",
+        "distress"
+      ],
+      "question": {
+        "wordId": "discuss",
+        "stem": "选择 \"discuss\" 的正确中文意思：",
+        "correct": "vt.讨论,商议",
+        "options": [
+          "n.论文;演说;谈话;话语 vi.讲述,著述",
+          "vt.讨论,商议",
+          "n.厌恶,恶心 v.使厌恶",
+          "v.免职,解雇,开除,解散"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根dis-（分开）+cuss（击打，摇动），原义为“击打分离”，引申为“把问题拆开分析、讨论”。核心动作：通过语言将观点拆解、碰撞。",
+        "similarWarning": "discuss vs disgust（厌恶）：cus/cuss同源，但disgust是“坏味道”引申为反感；discuss是“分开击打”引申为讨论。dismiss（解散）：miss（送），强调“送走”，非讨论。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "disease",
+      "word": "disease",
+      "phonetic": "/di'zi:z/",
+      "meaning": "n.疾病",
+      "similar": [
+        "disperse",
+        "dispose",
+        "diverse",
+        "decrease",
+        "disaster",
+        "disclose",
+        "disgrace",
+        "disguise"
+      ],
+      "question": {
+        "wordId": "disease",
+        "stem": "选择 \"disease\" 的正确中文意思：",
+        "correct": "n.疾病",
+        "options": [
+          "v.(of)处理,处置;(for)布置,安排",
+          "n.疾病",
+          "v.(使)分散;(使)散开;疏散",
+          "a.多种多样的,(from)不同的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "dis-（分离、否定）+ ease（舒适、安逸）。核心物理动作：从舒适安逸的状态中分离出来，即身体不再安逸，陷入不适状态，引申为“疾病”。词源直指状态变化，而非病因本身。",
+        "similarWarning": "disease vs. disperse (dis-分开 + sperse散开，意为“分散、驱散”) vs. dispose (dis-分开 + pose放置，意为“处理、处置”) vs. diverse (di-分开 + verse转，意为“不同的、多样的”) vs. decrease (de-向下 + crease增长，意为“减少”) vs. disaster (dis-否定 + aster星星，原指“星位不正”，意为“灾难”) vs. disclose (dis-否定 + close关闭，意为“揭露、公开”) vs. disgrace (dis-否定 + grace优雅，意为“耻辱、丢脸”) vs. disguise (dis-否定 + guise外表，意为“伪装、掩饰”)。核心差异：disease强调“不舒适”的状态，而其他词多侧重“分离、否定”的抽象动作。",
+        "extendedMeaning": "熟词僻义：在考研真题或外刊中，disease可引申为“（社会、组织等的）弊病、痼疾”，如“the disease of corruption”（腐败的弊病），或指“（心理、精神上的）病态”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "disgrace",
+      "word": "disgrace",
+      "phonetic": "/dis'greis/",
+      "meaning": "n.失宠,耻辱 v.使失宠;玷辱,使蒙羞",
+      "similar": [
+        "displace",
+        "distract",
+        "diagram",
+        "disease",
+        "divorce",
+        "migrate",
+        "disguise",
+        "distance"
+      ],
+      "question": {
+        "wordId": "disgrace",
+        "stem": "选择 \"disgrace\" 的正确中文意思：",
+        "correct": "n.失宠,耻辱 v.使失宠;玷辱,使蒙羞",
+        "options": [
+          "n.失宠,耻辱 v.使失宠;玷辱,使蒙羞",
+          "n.图表;图解",
+          "v.移置,转移;取代,置换",
+          "v.分散;使分心;打扰;使心情烦乱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根拆解：dis-（否定/除去）+ grace（恩惠、优雅）。核心动作：从受恩惠的状态被排除，即“失去恩宠”，引申为因行为不当而“蒙羞、耻辱”。",
+        "similarWarning": "displace（取代）：dis-（离开）+ place（位置），强调物理位置或职位的替代。disguise（伪装）：dis-（相反）+ guise（外表），强调改变外貌以隐藏身份。disgrace则侧重社会地位或声誉的丧失。",
+        "extendedMeaning": "在考研语境中，常指“使丢脸、使失去尊重”的抽象行为，而非仅指物理上失宠。",
+        "examUsage": "be in disgrace 失宠、丢脸（真题中常作被动结构或伴随状语，如‘He left in disgrace.’）"
+      }
+    },
+    {
+      "id": "disguise",
+      "word": "disguise",
+      "phonetic": "/dis'gaiz/",
+      "meaning": "n./v.假装,伪装",
+      "similar": [
+        "disgust",
+        "discourse",
+        "despise",
+        "diffuse",
+        "discuss",
+        "disease",
+        "dislike",
+        "dismiss"
+      ],
+      "question": {
+        "wordId": "disguise",
+        "stem": "选择 \"disguise\" 的正确中文意思：",
+        "correct": "n./v.假装,伪装",
+        "options": [
+          "v.轻视,蔑视",
+          "n./v.假装,伪装",
+          "n.厌恶,恶心 v.使厌恶",
+          "n.论文;演说;谈话;话语 vi.讲述,著述"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "dis-（分离/相反）+ guise（外表、装束）。核心动作：改变或隐藏真实的外表，使其与原本不同。词源上，guise来自日耳曼语，意为“方式、外表”，所以disguise即“剥离真实外表，换上虚假外表”。",
+        "similarWarning": "disgust（厌恶，dis-+gust品味→反感）vs disguise；despise（鄙视，de-向下+spise看→看不起）vs disguise；注意拼写差异：disguise含guise（外表），而disgust含gust（味道）。",
+        "extendedMeaning": "熟词僻义：在考研阅读中可引申为“掩饰、掩盖（真相/情感）”，如disguise one's true intentions（掩盖真实意图）；或作名词表“伪装物、假象”。",
+        "examUsage": "真题考点：常与as搭配，如disguise oneself as（伪装成）；或用于被动结构be disguised in/under（以…形式掩盖）。高频干扰项：与discuss（讨论）、disease（疾病）形近混淆，注意语境区分。"
+      }
+    },
+    {
+      "id": "disgust",
+      "word": "disgust",
+      "phonetic": "/dis'gʌst/",
+      "meaning": "n.厌恶,恶心 v.使厌恶",
+      "similar": [
+        "disguise",
+        "digest",
+        "discuss",
+        "disrupt",
+        "discount"
+      ],
+      "question": {
+        "wordId": "disgust",
+        "stem": "选择 \"disgust\" 的正确中文意思：",
+        "correct": "n.厌恶,恶心 v.使厌恶",
+        "options": [
+          "vt.消化；领会，融会贯通 n.文摘，摘要",
+          "n./v.假装,伪装",
+          "n.厌恶,恶心 v.使厌恶",
+          "vt.讨论,商议"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "dis-（否定/分离） + gust（味道，源自拉丁语gustus）→ 味道不好 → 引申为心理上的厌恶、恶心。核心物理动作：尝到坏味道后的排斥反应。",
+        "similarWarning": "disguise（伪装）：dis-（改变）+ guise（外表）→ 改变外表。digest（消化）：di-（分开）+ gest（运载）→ 分开运载。discuss（讨论）：dis-（分开）+ cuss（敲打）→ 敲碎分析。disrupt（打断）：dis-（分开）+ rupt（打破）→ 打破。discount（折扣）：dis-（去掉）+ count（计数）→ 去掉一部分。区别：disgust核心是“味道差”导致的情绪；其他词无此含义。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "dish",
+      "word": "dish",
+      "phonetic": "/dɪʃ/",
+      "meaning": "n.碟子,盘子,菜肴",
+      "similar": [
+        "dash",
+        "disc",
+        "ditch"
+      ],
+      "question": {
+        "wordId": "dish",
+        "stem": "选择 \"dish\" 的正确中文意思：",
+        "correct": "n.碟子,盘子,菜肴",
+        "options": [
+          "n.(disk)圆盘,圆面,盘状物",
+          "n.沟,沟渠,水沟",
+          "n.碟子,盘子,菜肴",
+          "v./n.冲,猛冲,突进 n.破折号"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自古英语disc，最终来自拉丁语discus（圆盘），核心物理动作是“圆形扁平物”。词义从“圆盘”引申为“盛食物的扁平容器（盘子/碟子）”，再转喻为“盘中食物（菜肴）”。",
+        "similarWarning": "dash（v.猛冲，n.破折号）与dish仅差字母a/i；disc（n.圆盘，唱片）与dish共享dis-前缀但后者多一h；ditch（n.沟渠，v.丢弃）与dish差字母t/h及拼写顺序。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dislike",
+      "word": "dislike",
+      "phonetic": "/dis'laik/",
+      "meaning": "n./v.不喜欢,厌恶",
+      "similar": [
+        "disclose",
+        "disguise",
+        "displace"
+      ],
+      "question": {
+        "wordId": "dislike",
+        "stem": "选择 \"dislike\" 的正确中文意思：",
+        "correct": "n./v.不喜欢,厌恶",
+        "options": [
+          "n./v.不喜欢,厌恶",
+          "v.揭示,泄露",
+          "n./v.假装,伪装",
+          "v.移置,转移;取代,置换"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "dis-（否定前缀）+ like（喜欢）→ 不喜欢。核心动作：对某物施加否定情感评价。",
+        "similarWarning": "dislike vs. disclose (dis- + close 关闭 → 揭开) vs. disguise (dis- + guise 伪装 → 假装) vs. displace (dis- + place 放置 → 取代)。差异在词根：like（喜欢）、close（关闭）、guise（伪装）、place（放置）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "dismay",
+      "word": "dismay",
+      "phonetic": "/dis'mei/",
+      "meaning": "n./v.(使)沮丧;(使)惊慌;(使)失望,(使)绝望",
+      "similar": [
+        "display"
+      ],
+      "question": {
+        "wordId": "dismay",
+        "stem": "选择 \"dismay\" 的正确中文意思：",
+        "correct": "n./v.(使)沮丧;(使)惊慌;(使)失望,(使)绝望",
+        "options": [
+          "n.精神病学，精神病疗法",
+          "n.播送,发射;传动,传送",
+          "v./n.陈列,展览,显示(器)",
+          "n./v.(使)沮丧;(使)惊慌;(使)失望,(使)绝望"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "dis-（加强语气）+ may（可能，古义为“有力量”）。原义为“使失去力量或勇气”，引申为“使沮丧、惊慌”。核心动作：力量被抽走，导致心理上的无助感。",
+        "similarWarning": "display: dis-（分离）+ play（展示）。词义对比：display侧重“展示、陈列”，dismay侧重“沮丧、惊慌”。拼写差异：display含字母p和l，dismay无。",
+        "extendedMeaning": "在考研阅读中可引申为“使……陷入困境或无法应对”，如‘dismay the system’（使系统瘫痪）。",
+        "examUsage": "常用搭配‘to one's dismay’（令某人沮丧的是），真题中常作为情绪类题眼，如‘He was dismayed at the result.’（他对结果感到沮丧。）"
+      }
+    },
+    {
+      "id": "dismiss",
+      "word": "dismiss",
+      "phonetic": "/dɪs'mɪs/",
+      "meaning": "v.免职,解雇,开除,解散",
+      "similar": [
+        "discuss",
+        "disguise",
+        "distress"
+      ],
+      "question": {
+        "wordId": "dismiss",
+        "stem": "选择 \"dismiss\" 的正确中文意思：",
+        "correct": "v.免职,解雇,开除,解散",
+        "options": [
+          "n.苦恼;危难;不幸 v.使苦恼",
+          "n./v.假装,伪装",
+          "vt.讨论,商议",
+          "v.免职,解雇,开除,解散"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“dimittere”，由“dis-”（分开、离开）和“mittere”（发送、放出）组成。核心物理动作是“发送出去”，引申为让某人离开岗位（解雇）或让一群人散去（解散）。",
+        "similarWarning": "discuss (dis-分开 + cuss击打 → 打碎成块讨论)；disguise (dis-相反 + guise外表 → 改变外表伪装)；distress (dis-分开 + stress拉紧 → 压力分离致痛苦)。辨析：dismiss强调“送走/解散”，discuss是“讨论”，disguise是“伪装”，distress是“痛苦”。",
+        "extendedMeaning": "在考研中常引申为“驳回（诉讼/请求）”、“不予考虑”或“消除（想法）”。例如：dismiss a case（驳回案件）、dismiss doubts（消除疑虑）。",
+        "examUsage": "真题考点：固定搭配“dismiss...as...”意为“认为……是……而不予理会”。例如：He dismissed the idea as unrealistic.（他认为这个想法不现实而不予考虑。）常用于阅读中评价作者态度或观点。"
+      }
+    },
+    {
+      "id": "disorder",
+      "word": "disorder",
+      "phonetic": "/dis'ɔ:də/",
+      "meaning": "n.混乱,杂乱;骚乱;失调,疾病",
+      "similar": [
+        "border",
+        "divorce",
+        "disaster",
+        "discover",
+        "discreet",
+        "recorder"
+      ],
+      "question": {
+        "wordId": "disorder",
+        "stem": "选择 \"disorder\" 的正确中文意思：",
+        "correct": "n.混乱,杂乱;骚乱;失调,疾病",
+        "options": [
+          "n.灾难,大祸;彻底的失败",
+          "n.混乱,杂乱;骚乱;失调,疾病",
+          "n.边界,国界;边(沿) v.交界,与…接壤;接近",
+          "v./n.离婚,分离"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "dis-（否定/分离） + order（顺序/秩序） → 失去秩序 → 混乱、杂乱；引申为社会秩序混乱（骚乱）或生理/心理秩序紊乱（失调、疾病）。",
+        "similarWarning": "disorder vs. disaster：disorder强调秩序混乱；disaster（dis-坏+aster星象）指天灾人祸。disorder vs. divorce：divorce（di-分离+vorce转）指法律上的离婚，侧重关系解除。disorder vs. discover：discover（dis-去掉+cover遮盖）指发现，动作不同。",
+        "extendedMeaning": "考研熟词僻义：常指‘精神/生理失调’，如‘bipolar disorder（双相情感障碍）’、‘eating disorder（进食障碍）’，在医学/心理学类阅读中高频出现。",
+        "examUsage": "真题考点：常考搭配‘in disorder（混乱地）’及‘mental disorder（精神疾病）’作为干扰项。例：2013年英语二阅读中‘...a disorder that affects millions...’（一种影响数百万人的疾病）。"
+      }
+    },
+    {
+      "id": "disperse",
+      "word": "disperse",
+      "phonetic": "/dis'pə:s/",
+      "meaning": "v.(使)分散;(使)散开;疏散",
+      "similar": [
+        "disease",
+        "dispose",
+        "diverse",
+        "desperate",
+        "discourse",
+        "deserve",
+        "despise",
+        "discern"
+      ],
+      "question": {
+        "wordId": "disperse",
+        "stem": "选择 \"disperse\" 的正确中文意思：",
+        "correct": "v.(使)分散;(使)散开;疏散",
+        "options": [
+          "v.(使)分散;(使)散开;疏散",
+          "n.疾病",
+          "a.多种多样的,(from)不同的",
+          "v.(of)处理,处置;(for)布置,安排"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "dis-（分开）+ sperse（散播，源自拉丁语spargere“撒播”）。核心动作：将聚集的东西向四面八方撒开，强调从集中到离散的物理或抽象过程。",
+        "similarWarning": "与dispose（dis-分开+pose放置，意为“处理、布置”）对比：disperse是“散开”，dispose是“放置到不同位置”。与despise（de-向下+spise看，意为“鄙视”）对比：字母差异在“perse”与“pise”，前者撒播，后者观看。",
+        "extendedMeaning": "在考研阅读中可引申为“驱散（人群、云层）”“消散（疑虑、情绪）”，如disperse doubts（消除疑虑）。",
+        "examUsage": "常考搭配：disperse the crowd（驱散人群）；真题例句：The police used tear gas to disperse the protesters.（警察使用催泪瓦斯驱散抗议者。）注意与scatter（胡乱撒）的区别：disperse更强调有组织、有目的地使聚集物散开。"
+      }
+    },
+    {
+      "id": "displace",
+      "word": "displace",
+      "phonetic": "/dis'pleis/",
+      "meaning": "v.移置,转移;取代,置换",
+      "similar": [
+        "display",
+        "disgrace",
+        "fireplace",
+        "disease",
+        "dislike",
+        "dispose",
+        "dispute",
+        "isolate"
+      ],
+      "question": {
+        "wordId": "displace",
+        "stem": "选择 \"displace\" 的正确中文意思：",
+        "correct": "v.移置,转移;取代,置换",
+        "options": [
+          "v./n.陈列,展览,显示(器)",
+          "n.失宠,耻辱 v.使失宠;玷辱,使蒙羞",
+          "v.移置,转移;取代,置换",
+          "n.壁炉"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "dis-（分离、离开）+ place（位置、地方）→ 使离开原来位置 → 核心动作：把某物从一个位置移到另一个位置；引申为替代、取代（把原位的物体挤走）。",
+        "similarWarning": "display（展示）：dis-place（移走）vs dis-play（展开）；disgrace（耻辱）：dis-place（移位置）vs dis-grace（失体面）；dispose（处理）：dis-place（移置）vs dis-pose（放置）。",
+        "extendedMeaning": "在考研阅读中常考“取代；替代”，尤指技术、产品、人员等被新事物取代，如“digital cameras have displaced film cameras”。",
+        "examUsage": "真题考点：displace常与replace、substitute构成同义替换，干扰项常设置成display（展示）或dispose（处理）。例句：The new system has displaced the old one.（新系统取代了旧系统。）"
+      }
+    },
+    {
+      "id": "display",
+      "word": "display",
+      "phonetic": "/ˌdis'plei/",
+      "meaning": "v./n.陈列,展览,显示(器)",
+      "similar": [
+        "displace",
+        "dismay",
+        "disposal"
+      ],
+      "question": {
+        "wordId": "display",
+        "stem": "选择 \"display\" 的正确中文意思：",
+        "correct": "v./n.陈列,展览,显示(器)",
+        "options": [
+          "v./n.陈列,展览,显示(器)",
+          "v.移置,转移;取代,置换",
+          "n./v.(使)沮丧;(使)惊慌;(使)失望,(使)绝望",
+          "n.处理,处置;布置,安排"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根dis-（分开、否定）+ plicare（折叠，变体为play）。字面意“将折叠的东西展开”，核心物理动作是“展开、摊开”，引申为“陈列、展示、显示”。",
+        "similarWarning": "displace（v. 取代，移置）: dis-（离开）+ place（位置），强调“离开原位”。dismay（v./n. 沮丧，惊恐）: dis-（加强）+ may（有能力），原指“失去力量”。disposal（n. 处理，处置）: dis-（分开）+ pose（放置），强调“放置到不同地方”。",
+        "extendedMeaning": "在考研阅读中常考其名词义“展示、显示”，尤指电子设备的“屏幕显示”或数据/信息的“呈现”，如‘on display’（公开展示）的引申义“显露、体现”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "disposal",
+      "word": "disposal",
+      "phonetic": "/dis'pəuzəl/",
+      "meaning": "n.处理,处置;布置,安排",
+      "similar": [
+        "dispose",
+        "display",
+        "proposal"
+      ],
+      "question": {
+        "wordId": "disposal",
+        "stem": "选择 \"disposal\" 的正确中文意思：",
+        "correct": "n.处理,处置;布置,安排",
+        "options": [
+          "n.提议,建议;求婚",
+          "v.(of)处理,处置;(for)布置,安排",
+          "v./n.陈列,展览,显示(器)",
+          "n.处理,处置;布置,安排"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根dis-（分开）+ pos-（放置）+ -al（名词后缀）。核心物理动作是“分开放置”，引申为对物品或事务进行安排、处理或清除。",
+        "similarWarning": "dispose（v.处理，处置；排列）与 disposal 同根，但为动词；display（v./n.展示，陈列）中 play 部分意为“折叠”，核心是“展开给人看”；proposal（n.提议，建议）中 pro- 意为“向前”，核心是“向前放置方案”。差异在于词根后缀不同：disposal 强调“处理”的结果或方式，dispose 强调动作，display 强调“展示”，proposal 强调“提议”。",
+        "extendedMeaning": "在考研外刊中，disposal 常引申为“（资产的）出售、转让”或“（问题、垃圾的）清除方式”，如 waste disposal（废物处理）并非简单“布置”。",
+        "examUsage": "真题中常考搭配 at one's disposal（由某人支配/使用），如：We have a large sum of money at our disposal.（我们有一大笔钱可自由使用。）此短语为完形填空高频考点，干扰项常为 in one's disposal 等错误介词搭配。"
+      }
+    },
+    {
+      "id": "dispose",
+      "word": "dispose",
+      "phonetic": "/dɪ'spəuz/",
+      "meaning": "v.(of)处理,处置;(for)布置,安排",
+      "similar": [
+        "disclose",
+        "disperse",
+        "disposal",
+        "impose",
+        "despise",
+        "disease",
+        "dispute",
+        "discourse"
+      ],
+      "question": {
+        "wordId": "dispose",
+        "stem": "选择 \"dispose\" 的正确中文意思：",
+        "correct": "v.(of)处理,处置;(for)布置,安排",
+        "options": [
+          "v.(of)处理,处置;(for)布置,安排",
+          "v.揭示,泄露",
+          "n.处理,处置;布置,安排",
+          "v.(使)分散;(使)散开;疏散"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "dis-（分离、散开）+ pose（放置、摆放）。核心物理动作：把东西分开、散置。引申为：1. 将物品分开放置→布置、安排；2. 将不需要的东西（分离）扔掉→处理、处置。",
+        "similarWarning": "disclose（dis-+close，打开关闭→揭露）；disperse（dis-+sperse，散开→分散）；despise（de-+spise，向下看→鄙视）；dispute（dis-+pute，想不同→争论）。",
+        "extendedMeaning": "",
+        "examUsage": "dispose of：处理、清除（真题中常作题眼，如dispose of waste处理废物）。"
+      }
+    },
+    {
+      "id": "disposition",
+      "word": "disposition",
+      "phonetic": "/ˌdispə'ziʃən/",
+      "meaning": "n.排列,部署;性格倾向;倾向,意向",
+      "similar": [
+        "composition",
+        "preposition",
+        "proposition",
+        "distinction"
+      ],
+      "question": {
+        "wordId": "disposition",
+        "stem": "选择 \"disposition\" 的正确中文意思：",
+        "correct": "n.排列,部署;性格倾向;倾向,意向",
+        "options": [
+          "n.主张,建议;陈述,命题",
+          "n.介词",
+          "n.作品,作文,乐曲;作曲;结构,组成,成分",
+          "n.排列,部署;性格倾向;倾向,意向"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "dis-（分开、散开）+ posit（放置、摆放）+ -ion（名词后缀）→ 将事物分别放置到不同位置 → 引申为“排列、部署”；进一步引申为内在的“排列”方式，即“性格倾向”或“意向”。核心物理动作是“分散摆放”。",
+        "similarWarning": "composition（com-共同+posit+ion→共同放到一起→组成、作文）vs disposition（dis-分开+posit+ion→分开摆放→排列、性格）。差异在于前缀：com-表“共同”，dis-表“分开”。",
+        "extendedMeaning": "在考研阅读中，disposition常考“性格倾向、性情”这一僻义，而非字面“排列”。例如：a cheerful disposition（乐观的性格）。",
+        "examUsage": "高频搭配：have a disposition to do sth.（有做某事的倾向）；at one's disposition（由某人支配/处理）。真题例句：The study found that people with a positive disposition are more likely to succeed.（研究发现，性情积极的人更可能成功。）"
+      }
+    },
+    {
+      "id": "dispute",
+      "word": "dispute",
+      "phonetic": "/dis'pju:t/",
+      "meaning": "n.争论,争执 v.争论,辩论;反驳;怀疑;阻止",
+      "similar": [
+        "dilute",
+        "despite",
+        "dispose",
+        "dissipate",
+        "disaster",
+        "disguise",
+        "disperse",
+        "displace"
+      ],
+      "question": {
+        "wordId": "dispute",
+        "stem": "选择 \"dispute\" 的正确中文意思：",
+        "correct": "n.争论,争执 v.争论,辩论;反驳;怀疑;阻止",
+        "options": [
+          "n.争论,争执 v.争论,辩论;反驳;怀疑;阻止",
+          "vt.稀释，冲淡 a.稀释的，冲淡的",
+          "v.(of)处理,处置;(for)布置,安排",
+          "prep.不管,不顾"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "dis-（分离、否定）+ put-（思考、认为）+ -e（动词后缀）。核心动作是“想法分离”，即双方观点不一致，由此引申出“争论、辩论”；进一步引申为“反驳”（否定对方观点）、“怀疑”（不认可）、“阻止”（使行动分离）。",
+        "similarWarning": "dilute（稀释，di-分离 + lute-洗） vs dispute（争论，put-思考）：前者是“洗开”即稀释，后者是“想法分离”即争论。dispose（处理，dis-分开 + pose-放） vs dispute：前者是“分开放置”即处理，后者是“想法分开”即争论。",
+        "extendedMeaning": "考研真题中常考“反驳、质疑”之僻义，如dispute a claim（质疑一项主张），或“阻止”义，如dispute the advance of the enemy（阻止敌军前进）。",
+        "examUsage": "beyond dispute（毋庸置疑）是真题高频固定搭配，常作插入语或表语，如It is beyond dispute that...（……是毋庸置疑的）。"
+      }
+    },
+    {
+      "id": "disregard",
+      "word": "disregard",
+      "phonetic": "/disri'gɑ:d/",
+      "meaning": "vt.不理会;忽视;漠视 n.忽视;漠视",
+      "similar": [
+        "discard"
+      ],
+      "question": {
+        "wordId": "disregard",
+        "stem": "选择 \"disregard\" 的正确中文意思：",
+        "correct": "vt.不理会;忽视;漠视 n.忽视;漠视",
+        "options": [
+          "a.性质上的,定性的",
+          "vt.不理会;忽视;漠视 n.忽视;漠视",
+          "vt.丢弃，抛弃，遗弃",
+          "ad.在别处,向别处"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "dis-（分开/否定）+ regard（看/考虑）。核心动作：拒绝去看或考虑某事物，即故意不理会、忽视。",
+        "similarWarning": "discard（dis- 去掉 + card 卡片）→ 扔掉（卡片）；disregard（dis- 否定 + regard 看）→ 忽视。差异在 -card 与 -regard，前者强调抛弃实物，后者强调忽略观点/规则。",
+        "extendedMeaning": "考研中常引申为“漠视（规则/警告/感受）”，如 disregard for safety regulations（漠视安全规定），强调主观故意无视。",
+        "examUsage": "真题考点：常用于搭配 disregard for/of sth.，如 He showed complete disregard for the law. 阅读中作为态度题信号词，表负面、漠视的态度。"
+      }
+    },
+    {
+      "id": "disrupt",
+      "word": "disrupt",
+      "phonetic": "/dis'rʌpt/",
+      "meaning": "vt.使混乱，使崩溃，使分裂，使瓦解",
+      "similar": [
+        "disgust",
+        "discount",
+        "discreet",
+        "distract",
+        "district"
+      ],
+      "question": {
+        "wordId": "disrupt",
+        "stem": "选择 \"disrupt\" 的正确中文意思：",
+        "correct": "vt.使混乱，使崩溃，使分裂，使瓦解",
+        "options": [
+          "n.折扣；贴现(率) vt.打折扣;不重视",
+          "vt.使混乱，使崩溃，使分裂，使瓦解",
+          "n.厌恶,恶心 v.使厌恶",
+          "a.(言行)谨慎的；慎重的；有判断力的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "dis-（分开）+ -rupt（打破、断裂）→ 从内部打破使其断裂、分裂。核心动作：将某系统或过程从中间强行打断，导致其无法正常运转。",
+        "similarWarning": "disgust（厌恶，dis-+gust品尝→坏味道）vs disrupt（打断，-rupt断裂）；distract（分散注意力，dis-+tract拉→拉开）vs disrupt（打断结构）；district（行政区，di-+strict约束→被约束的区域）vs disrupt。核心区别：-rupt表“断裂”，-gust表“味道”，-tract表“拉”，-strict表“约束”。",
+        "extendedMeaning": "在考研及外刊中常表“颠覆（行业/模式）”，如 disrupt the market（颠覆市场），指彻底改变传统运作方式，而非单纯混乱。",
+        "examUsage": "真题考点：disrupt常与normal/order/operations搭配，如 disrupt normal operations（扰乱正常运作）；干扰项常与disturb（打扰）、interrupt（打断）混淆，注意disrupt强调“破坏性中断”而非短暂打断。"
+      }
+    },
+    {
+      "id": "dissipate",
+      "word": "dissipate",
+      "phonetic": "/'disipeit/",
+      "meaning": "v.驱散;(使云、雾、疑虑等)消散;挥霍",
+      "similar": [
+        "dispute",
+        "discipline",
+        "distribute"
+      ],
+      "question": {
+        "wordId": "dissipate",
+        "stem": "选择 \"dissipate\" 的正确中文意思：",
+        "correct": "v.驱散;(使云、雾、疑虑等)消散;挥霍",
+        "options": [
+          "v.分发;分配;分布;配(电);(over)散布",
+          "n.纪律,学科",
+          "n.争论,争执 v.争论,辩论;反驳;怀疑;阻止",
+          "v.驱散;(使云、雾、疑虑等)消散;挥霍"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "dis-（分开）+ sip-（扔、散）+ -ate（动词后缀）→ 向四面八方扔出去 → 驱散、消散；引申为将资源（如金钱）分散扔出 → 挥霍。核心动作：使聚集的东西四散。",
+        "similarWarning": "dispute（争论：dis-分开 + put-思考 → 想法分开 → 争论）；discipline（纪律：dis-分开 + cip-拿 → 分开拿取 → 训练 → 纪律）；distribute（分配：dis-分开 + tribute-给予 → 分开给予 → 分配）。差异在于词根：sip-（扔）vs put-（思考）vs cip-（拿）vs tribute-（给予）。",
+        "extendedMeaning": "考研僻义：在物理或抽象层面‘使消失’（尤指负面情绪或能量），如‘dissipate doubts’（打消疑虑）；在经济学外刊中常指‘浪费（资源、精力）’，如‘dissipate one’s fortune’（挥霍财产）。",
+        "examUsage": "真题考点：常与‘clouds/fog/doubts/energy’搭配，作为‘消除、消散’的核心题眼；干扰项常混入‘dispute’（争论）或‘distribute’（分配）。例句：The sun began to shine, dissipating the morning mist.（阳光开始照耀，驱散了晨雾。）"
+      }
+    },
+    {
+      "id": "dissolve",
+      "word": "dissolve",
+      "phonetic": "/di'zɔlv/",
+      "meaning": "v.(使)溶解,(使)融化;解散,取消",
+      "similar": [
+        "disable",
+        "dispose",
+        "involve",
+        "missile",
+        "resolve",
+        "discover"
+      ],
+      "question": {
+        "wordId": "dissolve",
+        "stem": "选择 \"dissolve\" 的正确中文意思：",
+        "correct": "v.(使)溶解,(使)融化;解散,取消",
+        "options": [
+          "vt.使残废;使失去能力;丧失能力",
+          "v.卷入,陷入,连累;包含,含有,涉及",
+          "v.(使)溶解,(使)融化;解散,取消",
+          "v.(of)处理,处置;(for)布置,安排"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "dis-（分开）+ solve（松开、解开）→ 使结合物松开→ 溶解；引申为解散、取消。核心动作：粒子间结合力被破坏而分散。",
+        "similarWarning": "resolve（re-再 + solve）→ 再松开→ 解决；dissolve（dis-分开）强调分散、瓦解。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "dissolve the partnership（解散合伙关系）；dissolve into tears（突然泪流满面，真题中表示状态突变）。"
+      }
+    },
+    {
+      "id": "distance",
+      "word": "distance",
+      "phonetic": "/'distəns/",
+      "meaning": "n.距离,间隔,远方,路程",
+      "similar": [
+        "distant",
+        "distinct",
+        "instance",
+        "assistance",
+        "resistance",
+        "existence",
+        "substance",
+        "dictate"
+      ],
+      "question": {
+        "wordId": "distance",
+        "stem": "选择 \"distance\" 的正确中文意思：",
+        "correct": "n.距离,间隔,远方,路程",
+        "options": [
+          "n.距离,间隔,远方,路程",
+          "a.远的;遥远的;疏远的;不亲近的",
+          "a.清楚的,明显的;(from)截然不同的",
+          "n.例子,事例,例证"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根di-（分开）+ st（站立）+ ance（名词后缀）→ 分开站立的状态 → 距离。核心动作：物体之间隔开一段空间或时间。",
+        "similarWarning": "distant（adj.遥远的）：distance的名词对应形容词，词根相同；distinct（adj.清晰的/不同的）：词根dis-（分开）+ stinct（刺）→ 刺开以区分，强调“明显不同”；instance（n.实例）：in-（在）+ st（站立）+ ance → 站在眼前的东西，强调“例子”；assistance（n.帮助）：as-（向）+ sist（站立）+ ance → 站在你旁边，强调“协助”。区别：distance侧重空间/时间隔开，distinct侧重性质差异，instance侧重具体事例，assistance侧重行动支持。",
+        "extendedMeaning": "①（时间上的）间隔，久远：at a distance of ten years（时隔十年）；②（态度上的）疏远，冷淡：keep one's distance（保持距离，不亲近）。",
+        "examUsage": "真题高频搭配：in the distance（在远处），常作为空间方位考点；distance oneself from（使自己远离/疏远），用于议论文态度分析。例句：The author distances himself from the extreme view.（作者与极端观点保持距离。）"
+      }
+    },
+    {
+      "id": "distant",
+      "word": "distant",
+      "phonetic": "/'dɪstənt/",
+      "meaning": "a.远的;遥远的;疏远的;不亲近的",
+      "similar": [
+        "distance",
+        "distinct",
+        "distract",
+        "distort",
+        "instant",
+        "assistant",
+        "resistant",
+        "constant"
+      ],
+      "question": {
+        "wordId": "distant",
+        "stem": "选择 \"distant\" 的正确中文意思：",
+        "correct": "a.远的;遥远的;疏远的;不亲近的",
+        "options": [
+          "v.分散;使分心;打扰;使心情烦乱",
+          "a.远的;遥远的;疏远的;不亲近的",
+          "n.距离,间隔,远方,路程",
+          "a.清楚的,明显的;(from)截然不同的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“distare”（dis-分开 + stare站立），核心动作是“分开站立”，引申为空间或时间上的“远的”，再抽象为关系上的“疏远的”。",
+        "similarWarning": "与“distinct”（dis-分开 + stinct刺/标记，强调“清晰可辨的”）、“distract”（dis-分开 + tract拉，强调“注意力被拉走”）、“distort”（dis-分开 + tort扭曲）在词根上易混。distant侧重空间距离；distinct侧重区分度；distract侧重干扰；distort侧重变形。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "distill",
+      "word": "distill",
+      "phonetic": "/dis'til/",
+      "meaning": "vt.蒸馏，用蒸馏法提取；吸取，提炼",
+      "similar": [
+        "distinct",
+        "district"
+      ],
+      "question": {
+        "wordId": "distill",
+        "stem": "选择 \"distill\" 的正确中文意思：",
+        "correct": "vt.蒸馏，用蒸馏法提取；吸取，提炼",
+        "options": [
+          "n.队伍,行列",
+          "n.地区,行政区;美国各州的众议院选区",
+          "a.清楚的,明显的;(from)截然不同的",
+          "vt.蒸馏，用蒸馏法提取；吸取，提炼"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "de-(向下) + still(滴落) → 使蒸汽向下滴落 → 蒸馏。核心动作：通过加热使物质汽化，再冷凝成液体，从而分离或提纯。引申为从大量信息中提取精华。",
+        "similarWarning": "still (静止的；仍然) vs distill (蒸馏)：still强调静止状态，distill强调分离提取过程。distinct (不同的) vs distill：distinct强调区分性，distill强调提纯动作。",
+        "extendedMeaning": "【高分引申】vt. 提取，提炼（精华）→ 从众多信息或经验中筛选出核心内容。例：distill the essence of the study 提炼研究的精髓。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "distinct",
+      "word": "distinct",
+      "phonetic": "/dis'tiŋkt/",
+      "meaning": "a.清楚的,明显的;(from)截然不同的",
+      "similar": [
+        "distant",
+        "distance",
+        "distract",
+        "district",
+        "instinct",
+        "destiny",
+        "distill",
+        "distort"
+      ],
+      "question": {
+        "wordId": "distinct",
+        "stem": "选择 \"distinct\" 的正确中文意思：",
+        "correct": "a.清楚的,明显的;(from)截然不同的",
+        "options": [
+          "a.清楚的,明显的;(from)截然不同的",
+          "a.远的;遥远的;疏远的;不亲近的",
+          "n.距离,间隔,远方,路程",
+          "v.分散;使分心;打扰;使心情烦乱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "dis-（分开）+ tinct（刺，挑）→ 刺出明显标记 → 与其他分开 → 清晰的、截然不同的。核心动作：用尖物刺出区分标记，使界限分明。",
+        "similarWarning": "distant（遥远的，dist-站立+ant→分开站立→距离远）；distract（分心，dis-分开+tract拉→把注意力拉走）；district（区域，dis-分开+strict束缚→被划分的受约束地域）。与distinct区别在于：distinct强调“可清晰分辨的差异”，distant强调“空间或时间上的远”，distract强调“注意力被转移”，district是“行政划分区”。",
+        "extendedMeaning": "1. 不同的，有区别的：指性质或特征上明显不同，如“two distinct species”（两个不同的物种）。2. 明确的，确切的：如“a distinct possibility”（明确的可能性）。",
+        "examUsage": "常考搭配：(be) distinct from（与……截然不同），在阅读中用于比较结构。真题例句：\"These two ideas are quite distinct from each other.\"（这两个观点截然不同。）注意区分distinct与distinctive：distinct侧重“可区分性”，distinctive侧重“有特色的”。"
+      }
+    },
+    {
+      "id": "distinction",
+      "word": "distinction",
+      "phonetic": "/dis'tiŋkʃən/",
+      "meaning": "n.区别,差别;级别;特性;声望;显赫",
+      "similar": [
+        "destination",
+        "destruction",
+        "dictation",
+        "direction",
+        "intention",
+        "definition",
+        "disposition",
+        "distinguish"
+      ],
+      "question": {
+        "wordId": "distinction",
+        "stem": "选择 \"distinction\" 的正确中文意思：",
+        "correct": "n.区别,差别;级别;特性;声望;显赫",
+        "options": [
+          "n.区别,差别;级别;特性;声望;显赫",
+          "n.目的地,终点",
+          "n.毁坏，毁灭(的原因)",
+          "n.听写,口述;命令"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语distinctio，由dis-（分开）+stinguere（刺，使分开）构成，核心动作是“刺开→区分”。-ion为名词后缀。根本逻辑是：通过标记或特征将事物“刺开”以识别差异，引申为区别、特性、显赫（因独特而突出）。",
+        "similarWarning": "distinction vs. destination（目的地，destin-命运）vs. destruction（破坏，struct-建造）vs. dictation（听写，dict-说）vs. direction（方向，rect-直）vs. intention（意图，tent-延伸）vs. definition（定义，fin-界限）vs. disposition（性情，posit-放置）vs. distinguish（动词，区分，-ish动词后缀）。",
+        "extendedMeaning": "在考研真题中常考“优秀、杰出、荣誉”义，如academic distinction（学术荣誉）、a writer of distinction（卓越作家），非字面“区别”。",
+        "examUsage": "高频搭配：draw/make a distinction between（区分……与……），常作为阅读题定位词或写作替换词。例句：It is important to draw a clear distinction between facts and opinions.（区分事实与观点很重要。）"
+      }
+    },
+    {
+      "id": "distinguish",
+      "word": "distinguish",
+      "phonetic": "/dis'tiŋgwiʃ/",
+      "meaning": "v.(from)区别,辨别;辨认出;使杰出",
+      "similar": [
+        "extinguish",
+        "distinction"
+      ],
+      "question": {
+        "wordId": "distinguish",
+        "stem": "选择 \"distinguish\" 的正确中文意思：",
+        "correct": "v.(from)区别,辨别;辨认出;使杰出",
+        "options": [
+          "v.(from)区别,辨别;辨认出;使杰出",
+          "v.熄灭;消灭;结束;压制;使黯然失色;偿清",
+          "n.区别,差别;级别;特性;声望;显赫",
+          "v.扎牢,使固定"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 distinguere，由 dis-（分开）+ stinguere（刺，使分开）组成，本义为“用刺标记分开”。核心动作是“通过标记或特征将事物分离”，引申为“区别、辨别”以及“使杰出（因被区分出来而突出）”。",
+        "similarWarning": "extinguish（熄灭）：ex-（出）+ sting（刺/熄灭），本义“刺出火焰”，强调扑灭；distinguish强调区分，前者无“区分”义。distinction（n.区别/杰出）：是distinguish的名词形式，注意拼写差异：distinguish有动词后缀-ish，distinction有名词后缀-ion。",
+        "extendedMeaning": "在考研阅读中常考“使杰出”义：distinguish oneself（使某人脱颖而出），如：He distinguished himself in the field of economics.（他在经济学领域脱颖而出。）",
+        "examUsage": "真题常考搭配：distinguish A from B（区分A和B）或 distinguish between A and B（在A和B间区分），常用于科技说明文或议论文中表示“辨别差异”。如：It is important to distinguish between correlation and causation.（区分相关与因果很重要。）"
+      }
+    },
+    {
+      "id": "distort",
+      "word": "distort",
+      "phonetic": "/dis'tɔ:t/",
+      "meaning": "v.弄歪(嘴脸等);扭曲;歪曲(真理、事实等)",
+      "similar": [
+        "distant",
+        "disturb",
+        "discount",
+        "distinct",
+        "distract",
+        "district",
+        "historic"
+      ],
+      "question": {
+        "wordId": "distort",
+        "stem": "选择 \"distort\" 的正确中文意思：",
+        "correct": "v.弄歪(嘴脸等);扭曲;歪曲(真理、事实等)",
+        "options": [
+          "n.折扣；贴现(率) vt.打折扣;不重视",
+          "v.扰乱,妨碍,使不安",
+          "a.远的;遥远的;疏远的;不亲近的",
+          "v.弄歪(嘴脸等);扭曲;歪曲(真理、事实等)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "dis-（分离、分开）+ -tort-（扭曲）→ 将形状或事实“扭离”原貌 → 扭曲，歪曲。核心动作是使物体或信息偏离其原本的形态或真实状态。",
+        "similarWarning": "distract（v.分心）：dis-（分离）+ -tract-（拉）→ 将注意力“拉开” → 干扰，使分心。对比：-tort- 强调“扭曲”形状或事实；-tract- 强调“拉拽”注意力或物体。",
+        "extendedMeaning": "考研中常引申为“歪曲（真相、事实）”，如真题语境：The media often distorts the reality to attract viewers.（媒体常为吸引观众而歪曲现实。）",
+        "examUsage": "高频考点搭配：distort the facts（歪曲事实）；distort the meaning（曲解意思）。真题例句：The article distorted the scientist's statement, leading to public misunderstanding.（这篇文章歪曲了科学家的声明，导致公众误解。）"
+      }
+    },
+    {
+      "id": "distract",
+      "word": "distract",
+      "phonetic": "/dis'trækt/",
+      "meaning": "v.分散;使分心;打扰;使心情烦乱",
+      "similar": [
+        "district",
+        "distant",
+        "abstract",
+        "disgrace",
+        "distinct",
+        "direct",
+        "intact",
+        "strict"
+      ],
+      "question": {
+        "wordId": "distract",
+        "stem": "选择 \"distract\" 的正确中文意思：",
+        "correct": "v.分散;使分心;打扰;使心情烦乱",
+        "options": [
+          "v.分散;使分心;打扰;使心情烦乱",
+          "n.地区,行政区;美国各州的众议院选区",
+          "a.抽象的 n.摘要，梗概 vt.提取；摘录要点",
+          "a.远的;遥远的;疏远的;不亲近的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "dis-（分开、分离）+ tract（拉、抽）。核心物理动作是“向不同方向拉拽”，引申为将注意力从原本焦点上拉开，即“使分心、分散”。",
+        "similarWarning": "district（n.地区）：dis+trict（拉）→分开管理的区域；distract（v.分心）：dis+tract（拉）→拉开注意力。差异在结尾“-rict”与“-ract”。",
+        "extendedMeaning": "在考研中常考“使心情烦乱”的深层含义，如被外界干扰而内心焦虑、无法专注，并非单纯物理上的转移注意。",
+        "examUsage": "高频搭配：distract sb. from sth. 意为“使某人从某事上分心”，是阅读中常见的因果逻辑题眼。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1768 @@
+{
+  "batchId": 30,
+  "words": [
+    {
+      "id": "exclusive",
+      "word": "exclusive",
+      "phonetic": "/ik'sklu:siv/",
+      "meaning": "a.独占的;排他的;孤高的;唯一的;高级的",
+      "similar": [
+        "excessive",
+        "explosive",
+        "inclusive",
+        "exclude",
+        "executive",
+        "expensive",
+        "extensive"
+      ],
+      "question": {
+        "wordId": "exclusive",
+        "stem": "选择 \"exclusive\" 的正确中文意思：",
+        "correct": "a.独占的;排他的;孤高的;唯一的;高级的",
+        "options": [
+          "a.独占的;排他的;孤高的;唯一的;高级的",
+          "a.过多的;过分的;额外",
+          "a.爆炸(性)的,爆发(性)的 n.爆炸物,炸药",
+          "a.(of)包括的,包含的;范围广的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 excludere（ex-向外 + claudere关闭），字面义为“关在外面”。核心动作是“把某物/人排除在特定范围之外”，由此引申为“独占的”（将他人排除）、“排他的”（拒绝接纳）、“唯一的”（无其他选择）、“高级的”（非大众可及）。",
+        "similarWarning": "exclusive vs. inclusive: 仅字母差异 e-（向外） vs. in-（向内），词义对立：exclusive 排除/独占，inclusive 包含/包容。\nexclusive vs. excessive: 拼写相似，excessive 源自 excess（超出），意为“过度的，过多的”，强调数量上超出合理范围。",
+        "extendedMeaning": "考研常考“高级的；奢华的”义项，如 exclusive hotel（高档酒店）；此外，“独家新闻/报道”也是高频僻义，如 an exclusive interview（独家采访）。",
+        "examUsage": "固定搭配：mutually exclusive（互斥的），真题中常作为逻辑关系题眼，如“These two options are not mutually exclusive.”（这两种选择并非互斥。）"
+      }
+    },
+    {
+      "id": "excursion",
+      "word": "excursion",
+      "phonetic": "/ɪk'skɜ:ʃn/",
+      "meaning": "n.短途旅行,游览;离题;[物理]偏移,漂移",
+      "similar": [
+        "exception",
+        "expansion",
+        "explosion",
+        "extension",
+        "persuasion"
+      ],
+      "question": {
+        "wordId": "excursion",
+        "stem": "选择 \"excursion\" 的正确中文意思：",
+        "correct": "n.短途旅行,游览;离题;[物理]偏移,漂移",
+        "options": [
+          "n.短途旅行,游览;离题;[物理]偏移,漂移",
+          "n.例外,除外;反对;异议",
+          "n.扩张,膨胀;张开,伸展",
+          "n.爆炸,爆发"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ curs-（跑）+ -ion（名词后缀）→ 向外跑 → 短途旅行、离题（跑题）、物理偏移（跑偏）。核心物理动作：向外跑。",
+        "similarWarning": "exception（ex-向外+cept-拿→除外）、expansion（ex-向外+pand-展开→扩张）、explosion（ex-向外+plod-爆裂→爆炸）、extension（ex-向外+tend-伸展→延伸）、expression（ex-向外+press-压→表达）、persuasion（per-通过+suad-劝→说服）。差异：excursion核心是‘跑’，其他词根不同。",
+        "extendedMeaning": "离题（言语或思维偏离主题）；物理偏移（如磁针的偏移、轨道漂移）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "excuse",
+      "word": "excuse",
+      "phonetic": "/ik'skju:z/",
+      "meaning": "v.原谅,宽恕,免除 n.借口,辩解",
+      "similar": [
+        "exclude",
+        "execute",
+        "accuse",
+        "excess",
+        "excite",
+        "expose",
+        "exercise"
+      ],
+      "question": {
+        "wordId": "excuse",
+        "stem": "选择 \"excuse\" 的正确中文意思：",
+        "correct": "v.原谅,宽恕,免除 n.借口,辩解",
+        "options": [
+          "v.原谅,宽恕,免除 n.借口,辩解",
+          "vt.控告，指责 vi.指控，指责",
+          "v.实行;实施;执行;完成;履行;处死",
+          "v.拒绝,把…排除在外,排斥"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex- (出) + -cuse (源自拉丁语 causa，意为“原因、指控”)。核心动作：从指控中“出来”，即摆脱责任或过错。本义为“使某人免于指控”，引申为“原谅、宽恕”或“为自己的行为找理由（借口）”。",
+        "similarWarning": "exclude (ex-出 + clude关闭 → 排除在外) vs excuse (ex-出 + cuse原因 → 找理由开脱)。accuse (ac-向 + cuse指控 → 控告) vs excuse (免除指控 → 原谅)。",
+        "extendedMeaning": "在考研阅读中，excuse 的僻义较少，但其名词形式常出现在议论文中表“托词、辩解理由”，如“a flimsy excuse”（站不住脚的借口），强调逻辑上的推脱而非单纯道歉。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "execute",
+      "word": "execute",
+      "phonetic": "/'eksikju:t/",
+      "meaning": "v.实行;实施;执行;完成;履行;处死",
+      "similar": [
+        "executive",
+        "excite",
+        "excuse",
+        "persecute",
+        "evacuate",
+        "exercise"
+      ],
+      "question": {
+        "wordId": "execute",
+        "stem": "选择 \"execute\" 的正确中文意思：",
+        "correct": "v.实行;实施;执行;完成;履行;处死",
+        "options": [
+          "v.原谅,宽恕,免除 n.借口,辩解",
+          "v.刺激,使激动;激发,激励",
+          "n.总经理,董事,行政负责人 a.执行的,实施的",
+          "v.实行;实施;执行;完成;履行;处死"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 ex-（向外）+ sequi（跟随），本义为“向外跟随到底”，即“彻底执行、完成”。核心动作：跟随指令直到终点。",
+        "similarWarning": "executive（行政的；执行者）：execute + ive（形容词/名词后缀），指“执行的人或相关的”。excite（使兴奋）：ex-（向外）+ cite（召唤），本义“召唤出来”，与“执行”无关。excuse（原谅）：ex-（向外）+ cause（原因），本义“给出理由”，注意拼写差异在 core 部分。persecute（迫害）：per-（贯穿）+ sequi（跟随），本义“一直跟随”，强调恶意。evacuate（疏散）：e-（向外）+ vacuus（空的），本义“清空”，与 sequi 无关。exercise（练习）：ex-（向外）+ arcere（限制），本义“驱赶牲畜”，与“执行”拼写相似但词源不同。",
+        "extendedMeaning": "在考研及外刊中，execute 常引申为“执行（计划、命令、合同）”或“完成（复杂任务）”，如 execute a strategy（执行策略）。此外，在计算机语境中意为“执行（程序）”。",
+        "examUsage": "真题常见搭配：execute a plan/order（执行计划/命令），be executed for sth（因…被处决）。干扰项常与 perform, carry out 辨析，注意 execute 强调“完成性”和“权威性”。"
+      }
+    },
+    {
+      "id": "executive",
+      "word": "executive",
+      "phonetic": "/ig'zekjutiv/",
+      "meaning": "n.总经理,董事,行政负责人 a.执行的,实施的",
+      "similar": [
+        "execute",
+        "detective",
+        "effective",
+        "exclusive",
+        "consecutive",
+        "respective"
+      ],
+      "question": {
+        "wordId": "executive",
+        "stem": "选择 \"executive\" 的正确中文意思：",
+        "correct": "n.总经理,董事,行政负责人 a.执行的,实施的",
+        "options": [
+          "n.侦探",
+          "a.有效的,生效的;被实施的;给人深刻印象",
+          "v.实行;实施;执行;完成;履行;处死",
+          "n.总经理,董事,行政负责人 a.执行的,实施的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根ex-（向外）+ secut-（跟随）+ -ive（形容词/名词后缀）→跟随指令向外执行的人或事物，即“执行的，管理者”。核心动作：跟随指令行动。",
+        "similarWarning": "execute（v.执行；处决）：executive的动词形式，强调动作。detective（n.侦探）：词根detect-（察觉），与executive无直接关联。effective（a.有效的）：词根effect-（效果），区别于执行的职位。exclusive（a.排外的）：词根clud-（关闭），与跟随无关。consecutive（a.连续的）：词根secut-（跟随）相同，但前缀con-（一起）表依次跟随。respective（a.各自的）：词根spect-（看），拼写相似但词义无关。",
+        "extendedMeaning": "在商业语境中，常指“高管层；决策者”，如C-suite executive（C级高管）。在考研阅读中可引申为“行政部门的；执行的”，如executive branch（行政部门）。",
+        "examUsage": "固定搭配：chief executive officer（CEO，首席执行官）；executive director（执行董事）。真题例句：The executive is not supposed to meddle in the day-to-day operations.（高管不应干预日常运营。）"
+      }
+    },
+    {
+      "id": "exemplify",
+      "word": "exemplify",
+      "phonetic": "/ig'zemplifai/",
+      "meaning": "v.举例证明;示范;作...的范例[榜样]",
+      "similar": [
+        "amplify",
+        "simplify"
+      ],
+      "question": {
+        "wordId": "exemplify",
+        "stem": "选择 \"exemplify\" 的正确中文意思：",
+        "correct": "v.举例证明;示范;作...的范例[榜样]",
+        "options": [
+          "n.冠军,得胜者;拥护者,斗士",
+          "v.简化,使单纯",
+          "vt.放大，增强；详述，详加解说",
+          "v.举例证明;示范;作...的范例[榜样]"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根ex- (出) + empl- (取，拿，源自拉丁语exemplum“样品”) + -ify (使动后缀)。核心动作：从样本中“取出”典型来展示，即“举例证明”或“作为范例”。",
+        "similarWarning": "amplify (放大，增强)：am- (四周) + pl- (填充)，强调“扩大范围”；simplify (简化)：sim- (单一) + pl- (折叠)，强调“使简单”。exemplify侧重“用例子说明”，拼写差异在于ex- vs am-/sim-。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "exempt",
+      "word": "exempt",
+      "phonetic": "/ig'zempt/",
+      "meaning": "a.免除的 v.免除 n.免税者;被免除义务者",
+      "similar": [
+        "excerpt",
+        "exert",
+        "tempt",
+        "except"
+      ],
+      "question": {
+        "wordId": "exempt",
+        "stem": "选择 \"exempt\" 的正确中文意思：",
+        "correct": "a.免除的 v.免除 n.免税者;被免除义务者",
+        "options": [
+          "v.尽(力),施加(压力等),努力",
+          "n./vt.摘录;引用",
+          "a.免除的 v.免除 n.免税者;被免除义务者",
+          "v.诱惑,引诱;吸引,使感兴趣"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "ex-（出）+ empt（拿，取）→ 从义务中“取出来” → 免除。核心动作：将某人或某物从应承担的职责或规则中“拿出”，使其不受约束。",
+        "similarWarning": "excerpt（摘录）：ex-（出）+ cerpt（采摘）→ 从文中“摘出”；exempt（免除）：ex-（出）+ empt（拿）→ 从义务中“拿出”。区别在于词根：cerpt（采摘）vs. empt（拿）。",
+        "extendedMeaning": "在考研阅读中，exempt 常作动词，表“豁免（税费、责任等）”，如 be exempt from taxation（免税）；作形容词时，表“被免除的”，后常接 from。",
+        "examUsage": "固定搭配：exempt sb/sth from sth（免除某人/某物的…）。真题例句：The new policy exempts small businesses from the requirement.（新政策免除小企业的这项要求。）注意与 except（除…之外）的区分：exempt 强调“免除义务”，except 强调“排除在外”。"
+      }
+    },
+    {
+      "id": "exercise",
+      "word": "exercise",
+      "phonetic": "/'eksəsaiz/",
+      "meaning": "n.练习,习题;训练,锻练 v.训练,锻练;行使",
+      "similar": [
+        "expertise",
+        "excite",
+        "excuse",
+        "execute",
+        "precise",
+        "enterprise"
+      ],
+      "question": {
+        "wordId": "exercise",
+        "stem": "选择 \"exercise\" 的正确中文意思：",
+        "correct": "n.练习,习题;训练,锻练 v.训练,锻练;行使",
+        "options": [
+          "v.原谅,宽恕,免除 n.借口,辩解",
+          "n.练习,习题;训练,锻练 v.训练,锻练;行使",
+          "n.专门知识(或技能等),专长",
+          "v.刺激,使激动;激发,激励"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 exercere 'to keep busy, drive out, practice'，由 ex- 'out' + arcere 'to enclose, keep in' 组成。核心动作是 '把（马）赶出马厩去活动'，引申为 '训练、运用、行使'。",
+        "similarWarning": "expertise (专业知识) vs exercise: expertise 含 -ise 抽象名词后缀，表 '专家状态'；exercise 含 -cise '切割' 意象（原指驱赶）。excite (使兴奋) vs exercise: excite 含 cit- '唤起'；exercise 含 arc- '围住'。",
+        "extendedMeaning": "考研中常考 'v.行使（权力、权利等）' 的僻义，如 exercise one's rights (行使权利)；或 'n.运用，实施'，如 the exercise of authority (权力的行使)。",
+        "examUsage": "真题考点：exercise caution (保持谨慎) 为高频固定搭配，常作为阅读中态度题的题眼。"
+      }
+    },
+    {
+      "id": "exert",
+      "word": "exert",
+      "phonetic": "/ig'zə:t/",
+      "meaning": "v.尽(力),施加(压力等),努力",
+      "similar": [
+        "expert",
+        "excerpt",
+        "desert",
+        "except",
+        "exempt",
+        "expect",
+        "export",
+        "extent"
+      ],
+      "question": {
+        "wordId": "exert",
+        "stem": "选择 \"exert\" 的正确中文意思：",
+        "correct": "v.尽(力),施加(压力等),努力",
+        "options": [
+          "n.沙漠,不毛之地 v.抛弃,遗弃;擅离,开小差",
+          "n.专家,能手 a.熟练的,有经验的;专门的",
+          "v.尽(力),施加(压力等),努力",
+          "n./vt.摘录;引用"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ -ert（结合，源自拉丁语serere“连接、放置”）。核心物理动作：将力量或影响“向外放置”或“施加于外”。引申为“尽力、努力（将内在力量向外释放）”。",
+        "similarWarning": "exert v.尽力/施加；expert n.专家（ex-+per-尝试，强调经验）；excerpt n.摘录（ex-+cerpt-摘取）；desert v.抛弃/n.沙漠（de-离开+ser-连接，强调断开）；except prep.除…之外（ex-+cept-拿，强调拿出）；exempt v.免除（ex-+empt-拿，强调拿出豁免）；expect v.期望（ex-+spect-看，强调向外看）；export v.出口（ex-+port-运，强调运出）；extent n.范围（ex-+tent-延伸）。注意exert与expert仅差字母“p”，前者强调施力，后者强调专业。",
+        "extendedMeaning": "在考研阅读中，exert常引申为“施加（影响、压力）”，如exert influence on（对…施加影响）；或“发挥（作用）”，如exert a strong effect。",
+        "examUsage": "真题考点：exert oneself to do sth.（尽力做某事）为高频搭配；exert pressure on（对…施加压力）常用于经济、社会类话题。干扰项常将exert与exertion（努力）混淆，注意其动词及物性。"
+      }
+    },
+    {
+      "id": "exhaust",
+      "word": "exhaust",
+      "phonetic": "/ig'zɔ:st/",
+      "meaning": "v.使筋疲力尽,耗尽;抽完 n.排气装置;废气",
+      "similar": [],
+      "question": {
+        "wordId": "exhaust",
+        "stem": "选择 \"exhaust\" 的正确中文意思：",
+        "correct": "v.使筋疲力尽,耗尽;抽完 n.排气装置;废气",
+        "options": [
+          "n.平均,平均数 a.平均的；普通的 v.平均",
+          "v.(使)融化,(使)熔化",
+          "v.使筋疲力尽,耗尽;抽完 n.排气装置;废气",
+          "n.赞助人；资助人；老顾客，老主顾"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "ex-（出）+ haust（抽，拉）→ 向外抽干 → 物理上抽空（如抽完气体/水）→ 引申为耗尽精力、资源。核心动作：抽干、排空。",
+        "similarWarning": "",
+        "extendedMeaning": "【熟词僻义】1. exhaust the possibilities：穷尽所有可能性（考研阅读中表全面探索，非字面‘筋疲力尽’）。2. exhaust system：排气系统（科技类阅读高频）。3. exhaust fumes：废气（环境类话题常考）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "exhibit",
+      "word": "exhibit",
+      "phonetic": "/ig'zibit/",
+      "meaning": "v.展出,陈列 n.展览品,陈列品",
+      "similar": [
+        "inhibit",
+        "explicit",
+        "prohibit"
+      ],
+      "question": {
+        "wordId": "exhibit",
+        "stem": "选择 \"exhibit\" 的正确中文意思：",
+        "correct": "v.展出,陈列 n.展览品,陈列品",
+        "options": [
+          "v.展出,陈列 n.展览品,陈列品",
+          "v.禁止,不准;阻止",
+          "vt.抑制，约束",
+          "a.详述的,明确的;坦率的;显然的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "exhibit = ex-（向外）+ -hibit（持有，握持）。核心动作：把持有的东西拿出来展示，故引申为“展出，陈列”。",
+        "similarWarning": "inhibit（in-向内+hibit=抑制）；explicit（ex-向外+plic-折叠=外显的，明确的）；prohibit（pro-前面+hibit=阻止，禁止）。区分：exhibit是“展示”，inhibit是“抑制”，prohibit是“禁止”。",
+        "extendedMeaning": "在考研中，exhibit常作为动词表示“表现，显示（某种品质或特征）”，如exhibit great courage（表现出巨大勇气），而非仅指物理上的展出。",
+        "examUsage": "真题中常见搭配exhibit behavior（表现出行为），exhibit symptoms（显现症状），用于理解人物或事物特征。"
+      }
+    },
+    {
+      "id": "exhibition",
+      "word": "exhibition",
+      "phonetic": "/ˌeksi'biʃən/",
+      "meaning": "n.展览会;陈列,展览",
+      "similar": [
+        "expedition",
+        "ambition",
+        "exception",
+        "definition"
+      ],
+      "question": {
+        "wordId": "exhibition",
+        "stem": "选择 \"exhibition\" 的正确中文意思：",
+        "correct": "n.展览会;陈列,展览",
+        "options": [
+          "n.例外,除外;反对;异议",
+          "n.远征(队),探险(队)",
+          "n.展览会;陈列,展览",
+          "n.对(权力等)的强烈欲望，野心；雄心"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "ex-（出）+hibit（持有，拿住）+-ion（名词后缀）→ 把东西拿出来展示 → 展览会，陈列。核心动作：将收藏或拥有的物品从内部拿出供人观看。",
+        "similarWarning": "expedition（ex-出+ped脚+ition→走出去→远征队），ambition（amb-周围+it走+ion→四处走动拉票→野心），exception（ex-出+cept拿+ion→拿出去→例外），definition（de-下+fin界限+ition→划定界限→定义）。对比：exhibition强调‘展示’，其他词分别侧重‘远征’、‘野心’、‘例外’、‘定义’。",
+        "extendedMeaning": "在考研外刊中可引申为‘（能力、情感等的）展现，表现’，如 an exhibition of courage（勇气的展现），不限于实物展览。",
+        "examUsage": "常见考点搭配：on exhibition（在展览中），make an exhibition of oneself（出洋相，丢脸）。真题例句：The exhibition of the artist's works attracted a large audience.（这位艺术家的作品展吸引了大量观众。）注意干扰项常将exhibition与expedition混淆，需根据语境判断。"
+      }
+    },
+    {
+      "id": "exile",
+      "word": "exile",
+      "phonetic": "/'egzail/",
+      "meaning": "n.流放；被流放者 vt.流放，放逐，把…充军",
+      "similar": [
+        "textile",
+        "edible",
+        "excite",
+        "expire",
+        "evil",
+        "exit",
+        "file",
+        "mile"
+      ],
+      "question": {
+        "wordId": "exile",
+        "stem": "选择 \"exile\" 的正确中文意思：",
+        "correct": "n.流放；被流放者 vt.流放，放逐，把…充军",
+        "options": [
+          "n.纺织品 a.纺织的",
+          "n.流放；被流放者 vt.流放，放逐，把…充军",
+          "a.可食用的",
+          "v.刺激,使激动;激发,激励"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ -ile（行走，源自拉丁语exilium）。核心物理动作：被迫离开家园向外行走。词义本源：被驱逐出境，流放到异地。",
+        "similarWarning": "exile vs. excite（ex-向外+cit-唤起，意为使兴奋） vs. expire（ex-向外+spir-呼吸，意为呼气、到期） vs. exit（ex-向外+it-走，意为出口、离开）。差异在于词根：-ile（行走） vs. -cit（唤起） vs. -spir（呼吸） vs. -it（走）。",
+        "extendedMeaning": "在考研阅读中常引申为‘被迫脱离原环境、处于边缘状态’，如政治流亡、艺术家的自我放逐。",
+        "examUsage": "常见搭配：in exile（处于流放中），exile oneself to（自我放逐至）。真题例句：The poet lived in exile for decades.（诗人流亡数十年。）"
+      }
+    },
+    {
+      "id": "exist",
+      "word": "exist",
+      "phonetic": "/ig'zist/",
+      "meaning": "v.存在;生存;生活",
+      "similar": [
+        "exit",
+        "resist",
+        "axis",
+        "east",
+        "edit",
+        "emit",
+        "fist",
+        "mist"
+      ],
+      "question": {
+        "wordId": "exist",
+        "stem": "选择 \"exist\" 的正确中文意思：",
+        "correct": "v.存在;生存;生活",
+        "options": [
+          "v.存在;生存;生活",
+          "n.出口,通道",
+          "v.抵抗,反抗;抗,忍得住,抵制",
+          "n.轴，轴线，中心线；坐标轴，基准线"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ -ist（源自拉丁语sistere，意为“站立、放置”）→ 字面义“站出来、显现出来” → 引申为“存在、生存”。核心物理动作：从隐藏中向外站立，变得可见。",
+        "similarWarning": "exist（存在） vs exit（出口）：ex-（向外）+ it（走）→“走出去” vs “站出来”。resist（抵抗）：re-（回）+ sist（站立）→“站回去，对抗”。axis（轴）：源自动词agere（驱动），与exist无直接关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "existence",
+      "word": "existence",
+      "phonetic": "/ig'zistəns/",
+      "meaning": "n.存在,实在;生存,生活(方式)",
+      "similar": [
+        "resistance",
+        "essence",
+        "distance",
+        "evidence",
+        "assistance"
+      ],
+      "question": {
+        "wordId": "existence",
+        "stem": "选择 \"existence\" 的正确中文意思：",
+        "correct": "n.存在,实在;生存,生活(方式)",
+        "options": [
+          "n.(to)抵抗,反抗;抵抗力,阻力;电阻",
+          "n.存在,实在;生存,生活(方式)",
+          "n.距离,间隔,远方,路程",
+          "n.本质,实质"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ sist（站立）+ -ence（名词后缀）→ 向外站出、显现 → 存在、实在。核心动作：从潜在状态中‘站出来’成为可见的现实。",
+        "similarWarning": "resistance（re-回 + sist + -ance → 往回站 → 抵抗），essence（es-出 + sens + -e → 从内在‘感觉’中出来 → 本质），distance（dis-分开 + st + -ance → 分开站立 → 距离），evidence（e-出 + vid + -ence → 看到 → 证据），assistance（as-向 + sist + -ance → 站在一旁 → 帮助），experience（ex-出 + per + -ience → 从经历中出来 → 经验）。核心差异：existence 强调‘存在状态’，与‘抵抗’、‘本质’、‘距离’等语义不同。",
+        "extendedMeaning": "在考研中，existence 常引申为‘生存方式’或‘生活状态’，如‘a precarious existence’（朝不保夕的生活）。",
+        "examUsage": "常见搭配‘come into existence’（产生、出现）为真题高频题眼，如‘When did the universe come into existence?’。注意与‘in existence’（现存的）区分。"
+      }
+    },
+    {
+      "id": "exit",
+      "word": "exit",
+      "phonetic": "/'eksit/",
+      "meaning": "n.出口,通道",
+      "similar": [
+        "exist",
+        "edit",
+        "emit",
+        "excite",
+        "elite",
+        "exact",
+        "exert",
+        "exile"
+      ],
+      "question": {
+        "wordId": "exit",
+        "stem": "选择 \"exit\" 的正确中文意思：",
+        "correct": "n.出口,通道",
+        "options": [
+          "v.存在;生存;生活",
+          "v.编辑,校订",
+          "n.出口,通道",
+          "vt.发出;放射;吐露;散发;发表;发行"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根ex-（向外）+ it-（走，来自拉丁语ire），核心动作是‘向外走’，引申为‘出口、通道’。",
+        "similarWarning": "exist（存在）：ex-向外 + (s)ist站立，强调‘存在’；exit强调‘向外走’。edit（编辑）：e-向外 + dit给，原义‘给出’，引申为‘编辑’。emit（发出）：e-向外 + mit送，强调‘发出光/热’。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "exotic",
+      "word": "exotic",
+      "phonetic": "/ˌig'zɔtik/",
+      "meaning": "a.奇异的;异国情调的;外(国)来的",
+      "similar": [],
+      "question": {
+        "wordId": "exotic",
+        "stem": "选择 \"exotic\" 的正确中文意思：",
+        "correct": "a.奇异的;异国情调的;外(国)来的",
+        "options": [
+          "a.奇异的;异国情调的;外(国)来的",
+          "v./n.哭泣,呜咽",
+          "n.瀑布",
+          "n.女王,皇后,王后"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ -otic（形容词后缀，源自希腊语 -otikos，表示“与...有关的”）。核心动作：从外面来的→外来的→异域的→奇异的。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中常引申为“与众不同的、吸引人的新奇事物”，如“exotic concepts”（新奇的概念），强调“非本土、非主流”带来的新鲜感，而非单纯贬义的“奇怪”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "expand",
+      "word": "expand",
+      "phonetic": "/ik'spænd/",
+      "meaning": "v.(使)膨胀,(使)扩张;张开,展开",
+      "similar": [
+        "expend",
+        "extend"
+      ],
+      "question": {
+        "wordId": "expand",
+        "stem": "选择 \"expand\" 的正确中文意思：",
+        "correct": "v.(使)膨胀,(使)扩张;张开,展开",
+        "options": [
+          "ad.外观上，表面上",
+          "v.延长,延伸;扩充;给予;提供;估价",
+          "v.消费,花费",
+          "v.(使)膨胀,(使)扩张;张开,展开"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 ex-（向外）+ pand-（伸展，来自拉丁语 pandere “展开”）。核心物理动作：向外伸展、铺开。由此引申为空间、体积、范围或数量的“膨胀、扩张”。",
+        "similarWarning": "expend（ex-向外+pend-称重/支付，意为“花费、消耗”）；extend（ex-向外+tend-伸展，意为“延伸、延长”）。差异在于词根：pand-（伸展）vs pend-（称重）vs tend-（伸展）。expand侧重体积/范围的“膨胀”，extend侧重长度/时间的“延伸”。",
+        "extendedMeaning": "（在考研阅读中常引申为）发展、扩大（业务、影响力等）。例：expand the market 扩大市场；expand one's horizons 拓宽视野。",
+        "examUsage": "常考搭配：expand into (扩张进入)；expand on/upon (详细阐述，如：expand on a point 详述某点)。真题干扰项常将 expand 与 extend 混淆，注意区分“膨胀/扩张”与“延伸/延长”。"
+      }
+    },
+    {
+      "id": "expansion",
+      "word": "expansion",
+      "phonetic": "/ik'spænʃən/",
+      "meaning": "n.扩张,膨胀;张开,伸展",
+      "similar": [
+        "explosion",
+        "extension",
+        "explanation",
+        "passion",
+        "pension",
+        "excursion",
+        "expensive",
+        "compassion"
+      ],
+      "question": {
+        "wordId": "expansion",
+        "stem": "选择 \"expansion\" 的正确中文意思：",
+        "correct": "n.扩张,膨胀;张开,伸展",
+        "options": [
+          "n.延长;扩大;范围;大小;尺寸;电话分机",
+          "n.爆炸,爆发",
+          "n.解释,说明",
+          "n.扩张,膨胀;张开,伸展"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根ex-（向外）+pand（伸展，源自拉丁语pandere“展开”）+名词后缀-sion。核心动作：向外伸展→扩张、膨胀。",
+        "similarWarning": "extension（n.延长，扩展；词根tend“伸展”，强调线性延伸）；explosion（n.爆炸；词根plod“爆裂”，强调突发性膨胀）；expression（n.表达；词根press“压”，强调挤出）。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "expect",
+      "word": "expect",
+      "phonetic": "/ik'spekt/",
+      "meaning": "v.预期;期望,指望",
+      "similar": [
+        "expert",
+        "eject",
+        "elect",
+        "erect",
+        "exact",
+        "exert",
+        "expel",
+        "aspect"
+      ],
+      "question": {
+        "wordId": "expect",
+        "stem": "选择 \"expect\" 的正确中文意思：",
+        "correct": "v.预期;期望,指望",
+        "options": [
+          "v.选举,推选;选择,作出选择",
+          "v.喷射,排出;驱逐",
+          "n.专家,能手 a.熟练的,有经验的;专门的",
+          "v.预期;期望,指望"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ spect（看）→ 向外看，即“期待、预期”某事的到来。核心动作是“目光投向未来”，引申为心理上的期望。",
+        "similarWarning": "expert（专家）：expect 多一个字母 **c**，且词根 spect（看）与 per（尝试）不同。respect（尊敬）：前缀 re-（反复/回）与 ex-（向外）不同。eject（喷射）：词根 ject（投掷）与 spect（看）不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "expectation",
+      "word": "expectation",
+      "phonetic": "/ˌekspek'teiʃən/",
+      "meaning": "n.预期,期望,指望",
+      "similar": [
+        "expedition",
+        "explanation",
+        "dictation",
+        "education",
+        "exception",
+        "spectator",
+        "repetition",
+        "reputation"
+      ],
+      "question": {
+        "wordId": "expectation",
+        "stem": "选择 \"expectation\" 的正确中文意思：",
+        "correct": "n.预期,期望,指望",
+        "options": [
+          "n.预期,期望,指望",
+          "n.远征(队),探险(队)",
+          "n.解释,说明",
+          "n.听写,口述;命令"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+spect（看）+ation（名词后缀），字面意为“向外看”，即期待未来发生的事情。核心动作：目光投向未来，引申为对未发生之事的心理预期或希望。",
+        "similarWarning": "expedition（ex-向外+ped脚+ition，远征）；explanation（ex-向外+plain平坦+ation，解释）；exception（ex-向外+cept拿+ion，例外）。注意与expectation拼写差异：-pect-（看） vs -ped-/plain-/cept-。",
+        "extendedMeaning": "在考研真题中常指“社会预期”或“市场预期”，如inflation expectations（通胀预期），不局限于个人情感。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "expedition",
+      "word": "expedition",
+      "phonetic": "/ˌekspi'diʃən/",
+      "meaning": "n.远征(队),探险(队)",
+      "similar": [
+        "expectation",
+        "petition",
+        "exception",
+        "exhibition",
+        "repetition",
+        "competition",
+        "expenditure",
+        "explanation"
+      ],
+      "question": {
+        "wordId": "expedition",
+        "stem": "选择 \"expedition\" 的正确中文意思：",
+        "correct": "n.远征(队),探险(队)",
+        "options": [
+          "n.预期,期望,指望",
+          "n.远征(队),探险(队)",
+          "n.例外,除外;反对;异议",
+          "n.请愿书,申请书 v.(向…)请愿,正式请求"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根ex（向外）+ ped（脚）+ ition（名词后缀），字面意为“迈出脚向外走”，核心物理动作为“一群人徒步向外出发去远方”，引申为“远征、探险”及执行此行动的“队伍”。",
+        "similarWarning": "expectation（期望） vs expedition：expectation 词根spect（看），强调“等待看结果”；expedition 词根ped（脚），强调“出发行走”。petition（请愿） vs expedition：petition 词根pet（寻求），强调“请求”；expedition 强调“远征”。exhibition（展览） vs expedition：exhibition 词根hibit（拿住），强调“展示”；expedition 强调“行动”。",
+        "extendedMeaning": "在考研真题中，expedition 常引申为“（有特定目的的）短途旅行或考察”，如 scientific expedition（科学考察），侧重探索性而非普通旅游。",
+        "examUsage": "真题常考搭配：go on an expedition（去远征/探险），mount/launch an expedition（发起远征），expedition team（探险队）。干扰项常将 expedition 与 exploration（探索，侧重系统调查）混淆，但 expedition 强调“团队出行行动”本身���"
+      }
+    },
+    {
+      "id": "expel",
+      "word": "expel",
+      "phonetic": "/ik'spel/",
+      "meaning": "v.把…开除;驱逐;排出;发射",
+      "similar": [
+        "excel",
+        "expect",
+        "expend",
+        "expert",
+        "repel"
+      ],
+      "question": {
+        "wordId": "expel",
+        "stem": "选择 \"expel\" 的正确中文意思：",
+        "correct": "v.把…开除;驱逐;排出;发射",
+        "options": [
+          "v.把…开除;驱逐;排出;发射",
+          "v.预期;期望,指望",
+          "vi.胜过其他;擅长 vt.胜过，优于",
+          "v.消费,花费"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ pel（推，驱动），核心动作是“向外推”，引申为强制某人离开某个组织（开除）或某地（驱逐），或使物体从内部排出（排出、发射）。",
+        "similarWarning": "excel 优于（ex-+cel 上升）；expect 期待（ex-+spect 看）；expend 花费（ex-+pend 称量）；expert 专家（ex-+per 尝试）；repel 击退（re-回+pel 推）。与expel区别在词根pel（推）与其他动作的差异。",
+        "extendedMeaning": "在考研阅读中常引申为“消除（疑虑、恐惧等抽象事物）”，如expel fear from mind（驱散恐惧）。",
+        "examUsage": "expel from 结构高频出现，如“expel a student from school”（开除学籍）；真题中常考其被动语态及与exclude（排除）的辨析。"
+      }
+    },
+    {
+      "id": "expend",
+      "word": "expend",
+      "phonetic": "/ik'spend/",
+      "meaning": "v.消费,花费",
+      "similar": [
+        "expand",
+        "extend",
+        "expense",
+        "expel",
+        "depend",
+        "exceed",
+        "expect",
+        "expert"
+      ],
+      "question": {
+        "wordId": "expend",
+        "stem": "选择 \"expend\" 的正确中文意思：",
+        "correct": "v.消费,花费",
+        "options": [
+          "v.消费,花费",
+          "v.(使)膨胀,(使)扩张;张开,展开",
+          "v.延长,延伸;扩充;给予;提供;估价",
+          "n.花费,消费,消耗"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ pend（称重，支付）→ 花钱向外支付 → 花费、消费。核心动作是“把钱从口袋里掏出去”。",
+        "similarWarning": "expand（v. 扩展，ex-向外 + pand-展开）；extend（v. 延伸，ex-向外 + tend-伸展）；expense（n. 费用，expend的名词形式）。注意expend拼写为-pend，区别于expand的-pand和extend的-tend。",
+        "extendedMeaning": "在考研阅读中，expend常引申为“消耗、耗费（时间、精力、资源）”，不限于金钱，如expend energy/effort。",
+        "examUsage": "常见搭配：expend sth on (doing) sth，如“expend time on research”花费时间在研究上。真题中常与cost, consume, spend等同义替换考查。"
+      }
+    },
+    {
+      "id": "expenditure",
+      "word": "expenditure",
+      "phonetic": "/iks'penditʃə/",
+      "meaning": "n.花费;(时间,金钱等的)支出,消耗",
+      "similar": [
+        "expensive",
+        "expedition"
+      ],
+      "question": {
+        "wordId": "expenditure",
+        "stem": "选择 \"expenditure\" 的正确中文意思：",
+        "correct": "n.花费;(时间,金钱等的)支出,消耗",
+        "options": [
+          "n.花费;(时间,金钱等的)支出,消耗",
+          "a.花费的,昂贵的",
+          "n.远征(队),探险(队)",
+          "a.傲慢的，自大的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语expendere，ex-（向外）+ pendere（称重、支付），原指“称出钱币支付”。-iture为名词后缀，表行为或结果。核心动作：向外称重金钱→支出、花费。",
+        "similarWarning": "expensive（昂贵的）：expenditure侧重“支出行为或总额”，expensive侧重“价格高”。expedition（远征、探险）：expedition含“快速出行”义，与“支出”无关。",
+        "extendedMeaning": "在考研阅读中，常引申为“资源消耗”或“时间/精力的投入”，如“energy expenditure”（能量消耗）、“military expenditure”（军费开支）。",
+        "examUsage": "真题常考搭配：capital expenditure（资本支出）、public expenditure（公共支出）。干扰项常将expenditure与expense混淆，注意expense多指日常开销，expenditure更正式、强调总额或预算。"
+      }
+    },
+    {
+      "id": "expense",
+      "word": "expense",
+      "phonetic": "/ik'spens/",
+      "meaning": "n.花费,消费,消耗",
+      "similar": [
+        "expensive",
+        "expend",
+        "expose",
+        "expertise",
+        "extensive",
+        "response"
+      ],
+      "question": {
+        "wordId": "expense",
+        "stem": "选择 \"expense\" 的正确中文意思：",
+        "correct": "n.花费,消费,消耗",
+        "options": [
+          "v.(to)使暴露,受到;使曝光",
+          "v.消费,花费",
+          "a.花费的,昂贵的",
+          "n.花费,消费,消耗"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语expendere（ex-向外 + pendere称重/支付），原指称量钱币向外支付，引申为金钱或资源的消耗。核心动作：向外称量→花费。",
+        "similarWarning": "expensive（adj.昂贵的）是expense的形容词；expend（v.花费）为动词形式；expose（v.暴露）区别在-pose（放置）；expertise（n.专长）词根为pert（尝试）；extensive（adj.广泛的）含tens（伸展）；response（n.回应）含spond（承诺）。核心差异：expense侧重名词性消耗，expensive侧重价格高。",
+        "extendedMeaning": "考研常考“代价、牺牲”抽象义，如at the expense of（以…为代价），而非仅指金钱花费。",
+        "examUsage": "at the expense of（以…为代价）为真题核心短语，如：Economic growth often comes at the expense of the environment.（经济增长常以环境为代价。）"
+      }
+    },
+    {
+      "id": "expensive",
+      "word": "expensive",
+      "phonetic": "/ik'spensiv/",
+      "meaning": "a.花费的,昂贵的",
+      "similar": [
+        "extensive",
+        "expense",
+        "excessive",
+        "explosive",
+        "exclusive",
+        "expansion",
+        "expertise",
+        "extension"
+      ],
+      "question": {
+        "wordId": "expensive",
+        "stem": "选择 \"expensive\" 的正确中文意思：",
+        "correct": "a.花费的,昂贵的",
+        "options": [
+          "a.过多的;过分的;额外",
+          "n.花费,消费,消耗",
+          "a.广大的,广阔的",
+          "a.花费的,昂贵的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根pens-（称量、支付） + 形容词后缀-ive → 需要大量支付的 → 昂贵的。源自拉丁语expendere（称出、支付），强调花费的代价。",
+        "similarWarning": "extensive（广泛的，a-向外+ -tens-伸展） vs expensive（昂贵的，ex-出+ -pens-支付）; expense（花费，名词） vs expensive（形容词）; excessive（过度的，ex-出+ -cess-走） vs expensive（花费的）; explosive（爆炸的，ex-出+ -plod-爆裂） vs expensive（支付）; exclusive（排外的，ex-出+ -clus-关闭） vs expensive; expansion（扩张，ex-出+ -pand-伸展） vs expensive; expertise（专长，ex-出+ -pert-尝试） vs expensive; extension（延伸，ex-出+ -tens-伸展） vs expensive。核心差异：字母pens（支付）与pand/plod/clus/tens/pert/cess等词根不同。",
+        "extendedMeaning": "（真题）引申为“代价高昂的”（不限于金钱），如‘an expensive mistake’（代价高昂的错误）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "experiment",
+      "word": "experiment",
+      "phonetic": "/ik'speriment/",
+      "meaning": "n.实验;试验 v.(on)进行实验;做试验",
+      "similar": [
+        "experimental",
+        "temperament",
+        "specimen",
+        "apartment",
+        "excellent",
+        "expertise",
+        "department",
+        "employment"
+      ],
+      "question": {
+        "wordId": "experiment",
+        "stem": "选择 \"experiment\" 的正确中文意思：",
+        "correct": "n.实验;试验 v.(on)进行实验;做试验",
+        "options": [
+          "n.标本,样本",
+          "n.气质，性格，性情；资质",
+          "a.实验(性)的,试验(性)的",
+          "n.实验;试验 v.(on)进行实验;做试验"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语experiri（尝试，试验），由ex-（出） + periri（尝试，来自PIE*per-“尝试，冒险”）构成。核心动作是“从尝试中得出结果”，即通过实际操作来验证或发现知识。",
+        "similarWarning": "experience（经验）强调亲身经历；experiment强调控制变量的测试过程。",
+        "extendedMeaning": "",
+        "examUsage": "常考搭配：experiment with（用…做实验），carry out/conduct an experiment（进行实验）。真题中常作为主旨题或细节题题眼，如“the experiment showed that...”表示研究结论。"
+      }
+    },
+    {
+      "id": "experimental",
+      "word": "experimental",
+      "phonetic": "/ekˌsperi'mentəl/",
+      "meaning": "a.实验(性)的,试验(性)的",
+      "similar": [
+        "experiment"
+      ],
+      "question": {
+        "wordId": "experimental",
+        "stem": "选择 \"experimental\" 的正确中文意思：",
+        "correct": "a.实验(性)的,试验(性)的",
+        "options": [
+          "n.景色;前景,前途,展望",
+          "n.染料 v.染,染色",
+          "n.实验;试验 v.(on)进行实验;做试验",
+          "a.实验(性)的,试验(性)的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语experimentum（试验，尝试），由ex-（向外）+peri（尝试，危险）+ment（名词后缀）+al（形容词后缀）构成。核心动作是“向外尝试以获取知识”，强调通过实践检验假设的过程，区别于纯理论或经验推断。",
+        "similarWarning": "experiment（n./v.实验） vs experimental（adj.实验的）：差异在于后缀-al将名词转为形容词。experience（n./v.经验，经历）与experimental拼写相近，但experience源自ex-+peri+ence，强调“从尝试中获得的感受”，而experimental强调“进行尝试的性质”。",
+        "extendedMeaning": "在考研阅读中，experimental常引申为“试探性的、不成熟的”，如experimental stage（试验阶段），强调非最终定论的状态。",
+        "examUsage": "真题高频搭配：experimental group（实验组） vs control group（对照组），常作为阅读理解中对比论证的题眼。例句：The experimental results confirmed the hypothesis.（实验结果证实了假设。）"
+      }
+    },
+    {
+      "id": "expert",
+      "word": "expert",
+      "phonetic": "/'ekspə:tˌ ek'spə:t/",
+      "meaning": "n.专家,能手 a.熟练的,有经验的;专门的",
+      "similar": [
+        "exert",
+        "expect",
+        "export",
+        "excerpt",
+        "expel",
+        "except",
+        "expend",
+        "expire"
+      ],
+      "question": {
+        "wordId": "expert",
+        "stem": "选择 \"expert\" 的正确中文意思：",
+        "correct": "n.专家,能手 a.熟练的,有经验的;专门的",
+        "options": [
+          "n.专家,能手 a.熟练的,有经验的;专门的",
+          "v.尽(力),施加(压力等),努力",
+          "v.预期;期望,指望",
+          "v./n.输出,出口 n.出口商品"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（出）+ -pert-（尝试，试验）→ 从反复尝试中脱颖而出的人 → 专家，能手。词根 -pert- 与 experience（经验）同源，强调通过实践积累的专业性。",
+        "similarWarning": "expert vs exert（施加）：expert 含 -pert-（试验），exert 含 -ert-（结合，连接）→ 用力把力量结合进去。expect（期望）含 -spect-（看）→ 向外看。export（出口）含 -port-（运）→ 运出去。excerpt（摘录）含 -cerpt-（摘）→ 摘出来。expel（驱逐）含 -pel-（推）→ 推出去。except（除外）含 -cept-（拿）→ 拿出去。expend（花费）含 -pend-（称量）→ 称量出去。expire（到期）含 -pir-（呼吸）→ 呼出最后一口气。",
+        "extendedMeaning": "作形容词时，在考研真题中常引申为‘内行的，行家的’，如 expert advice（内行建议），expert opinion（专家意见），区别于普通 skilled（熟练的）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "expertise",
+      "word": "expertise",
+      "phonetic": "/ˌekspə:'ti:z/",
+      "meaning": "n.专门知识(或技能等),专长",
+      "similar": [
+        "exercise",
+        "expense",
+        "advertise",
+        "expensive",
+        "supervise",
+        "enterprise",
+        "expedition",
+        "experiment"
+      ],
+      "question": {
+        "wordId": "expertise",
+        "stem": "选择 \"expertise\" 的正确中文意思：",
+        "correct": "n.专门知识(或技能等),专长",
+        "options": [
+          "n.花费,消费,消耗",
+          "vt.公告，公布；为...做广告 vi.登广告",
+          "n.练习,习题;训练,锻练 v.训练,锻练;行使",
+          "n.专门知识(或技能等),专长"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "expert（专家）+ -ise（抽象名词后缀，表性质/技能）→ 专家的技能或知识 → 专长，专门知识。词根源于拉丁语experiri（尝试），与experience同源，强调通过实践获得的专业能力。",
+        "similarWarning": "形近词辨析：\n- exercise [ˈeksəsaɪz]：ex（向外）+ erc（限制）+ ise → 向外施加限制 → 锻炼、练习。与expertise差在“erc” vs “pert”，后者强调专业权威。\n- expense [ɪkˈspens]：ex（向外）+ pens（支付）+ e → 花费。差在“pens” vs “pert”，侧重金钱支出。\n- advertise [ˈædvətaɪz]：ad（向）+ vert（转）+ ise → 转向注意 → 广告。差在“vert” vs “pert”，强调宣传。\n- expensive [ɪkˈspensɪv]：expense + ive → 昂贵的。\n- supervise [ˈsuːpəvaɪz]：super（在上）+ vis（看）+ e → 监督。差在“vis” vs “pert”。\n- enterprise [ˈentəpraɪz]：enter（进入）+ pris（抓）+ e → 事业、企业。差在“pris” vs “pert”。\n- expedition [ˌekspəˈdɪʃn]：ex（向外）+ ped（脚）+ ition → 远征。差在“ped” vs “pert”。\n- experience [ɪkˈspɪriəns]：ex（完全）+ peri（尝试）+ ence → ���验。与expertise同源，但experience侧重经历过程，expertise侧重已掌握的专门技能。",
+        "extendedMeaning": "",
+        "examUsage": "真题考点：常与介词in搭配，如expertise in...（在...方面的专长）；在阅读中作为抽象名词，常与professional, technical, specialized等形容词同现，强调领域内的高阶能力。"
+      }
+    },
+    {
+      "id": "expire",
+      "word": "expire",
+      "phonetic": "/ik'spaiə/",
+      "meaning": "v.期满,(期限)终止;呼气;断气,死亡",
+      "similar": [
+        "empire",
+        "explore",
+        "exile",
+        "aspire",
+        "entire",
+        "excite",
+        "expert",
+        "export"
+      ],
+      "question": {
+        "wordId": "expire",
+        "stem": "选择 \"expire\" 的正确中文意思：",
+        "correct": "v.期满,(期限)终止;呼气;断气,死亡",
+        "options": [
+          "v.期满,(期限)终止;呼气;断气,死亡",
+          "v.勘探,探测;探究,探索",
+          "n.流放；被流放者 vt.流放，放逐，把…充军",
+          "n.帝国"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（出） + -spir-（呼吸） + -e → 呼出最后一口气 → 断气，死亡 → 引申为事物（如合同、护照、期限）的“到期、终止”，如同生命结束。",
+        "similarWarning": "empire（帝国）：词根 -pir-（统治） vs -spir-（呼吸）；expire强调“到期”，empire指“帝国”。\nexplore（探索）：ex-（出）+ plor（哭喊）→ 探求；expire强调“结束”，explore强调“探索”。\nexile（流放）：ex-（出）+ il（走）→ 驱逐；expire是时间终止，exile是地点驱逐。\naspire（渴望）：a-（向）+ spir（呼吸）→ 向往；expire是“呼出”，aspire是“向上呼吸”表渴望。\nentire（整个）：en-（使）+ tire（拉）→ 完整；expire变“到期”，entire是“全部”。\nexcite（使兴奋）：ex-（出）+ cit（唤起）→ 刺激；expire与“呼吸”相关，excite与“唤起”相关。\nexpert（专家）：ex-（出）+ pert（尝试）→ 有经验者；expire是动词，expert是名词/形容词。\nexport（出口）：ex-（出）+ port（运）→ 输出；expire是时间结束，export是货物出口。",
+        "extendedMeaning": "在考研中，expire常考“期满、终止”义，如合同、护照、签证等。其“呼气、断气”含义极少出现，仅用于文学语境。此外，在计算机领域（如缓存、会话）中表“失效”，如“The session will expire after 30 minutes.”（会话30分钟后失效）。",
+        "examUsage": "考点：expire常与时间、期限搭配，如“expire on/at/in”（在某时到期）、“expiration date”（截止日期）。真题例句：“The contract will expire at the end of the month.”（合同月底到期。）干扰项常出现“explore”、“exile”等形近词，需注意区分动作方向。"
+      }
+    },
+    {
+      "id": "explain",
+      "word": "explain",
+      "phonetic": "/ik'splein/",
+      "meaning": "v.解释,说明",
+      "similar": [
+        "plain",
+        "exclaim",
+        "exploit",
+        "explosion",
+        "complain",
+        "explicit"
+      ],
+      "question": {
+        "wordId": "explain",
+        "stem": "选择 \"explain\" 的正确中文意思：",
+        "correct": "v.解释,说明",
+        "options": [
+          "v.解释,说明",
+          "a.明白的;朴素的;坦率;平凡 n.平原,旷野",
+          "v.呼喊,惊叫,大声说",
+          "v.开拓;开发;剥削 n.功绩[勋];业绩"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（向外） + plain（平坦、清楚） → 使事物变得平坦清晰，即“解释、说明”。核心动作：将复杂或模糊的信息摊平、展现，让人明白。",
+        "similarWarning": "explain vs. complain: ex-（外） vs. com-（共同）；plain（平坦） vs. plain（抱怨，源自动词plangere“捶胸”）→ “向外说清楚” vs. “共同捶胸（抱怨）”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "explanation",
+      "word": "explanation",
+      "phonetic": "/ˌeksplə'neiʃən/",
+      "meaning": "n.解释,说明",
+      "similar": [
+        "expansion",
+        "plantation",
+        "expectation",
+        "explosion",
+        "expedition",
+        "application",
+        "declaration",
+        "implication"
+      ],
+      "question": {
+        "wordId": "explanation",
+        "stem": "选择 \"explanation\" 的正确中文意思：",
+        "correct": "n.解释,说明",
+        "options": [
+          "n.预期,期望,指望",
+          "n.种植园",
+          "n.解释,说明",
+          "n.扩张,膨胀;张开,伸展"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语explanare，ex-‘向外’+planus‘平坦的’。核心动作：把褶皱摊平，使原本复杂、混乱的东西变得清晰、易懂。",
+        "similarWarning": "expansion (n.扩张，膨胀) vs explanation：expan-强调‘展开’的面积或体积变大；expla-强调‘摊平’以理清逻辑。plantation (n.种植园，造林)：plant-‘种植’，与‘解释’无关。expectation (n.期望)：spect-‘看’，期待是‘向外看’。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "explicit",
+      "word": "explicit",
+      "phonetic": "/ik'splisit/",
+      "meaning": "a.详述的,明确的;坦率的;显然的",
+      "similar": [
+        "exploit",
+        "implicit",
+        "expect",
+        "exhibit",
+        "explain",
+        "simplicity"
+      ],
+      "question": {
+        "wordId": "explicit",
+        "stem": "选择 \"explicit\" 的正确中文意思：",
+        "correct": "a.详述的,明确的;坦率的;显然的",
+        "options": [
+          "a.详述的,明确的;坦率的;显然的",
+          "v.开拓;开发;剥削 n.功绩[勋];业绩",
+          "a.含蓄的;(in)固有的;无疑问的;绝对的",
+          "v.预期;期望,指望"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（出）+ plicit（折叠，源自拉丁语plicare）→ 把折叠的内容展开→ 明确表达。核心动作：折叠的纸被打开，信息外显。",
+        "similarWarning": "exploit（ex-出+ploit折叠→把东西拿出来用→利用/开发）；implicit（im-向内+plicit折叠→折叠在内→含蓄的），对比：explicit是“外显的”，implicit是“内隐的”。",
+        "extendedMeaning": "考研中常考“详尽的，不含糊的”这一含义，用于强调表述清晰无歧义，如explicit instructions（明确的指示）；也指“坦率的”，如explicit language（直言不讳的话语）。",
+        "examUsage": "真题考点：常与implicit（含蓄的）构成反义干扰；搭配explicit knowledge（显性知识）与tacit knowledge（隐性知识）对比。例句：The contract contains explicit terms for payment.（合同中包含明确的付款条款。）"
+      }
+    },
+    {
+      "id": "explode",
+      "word": "explode",
+      "phonetic": "/ik'spləud/",
+      "meaning": "v.(使)爆炸,(使)爆发",
+      "similar": [
+        "explore",
+        "expose",
+        "exclude",
+        "exploit",
+        "explosive",
+        "employee",
+        "employer"
+      ],
+      "question": {
+        "wordId": "explode",
+        "stem": "选择 \"explode\" 的正确中文意思：",
+        "correct": "v.(使)爆炸,(使)爆发",
+        "options": [
+          "v.勘探,探测;探究,探索",
+          "v.(to)使暴露,受到;使曝光",
+          "v.(使)爆炸,(使)爆发",
+          "v.拒绝,把…排除在外,排斥"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ plod（拍打、爆裂声）→ 向外发出爆裂声 → 爆炸。核心动作：内部压力积聚后瞬间向外释放，伴随巨大声响。",
+        "similarWarning": "explore（探索）：explode 的 d 对应 explore 的 r；expose（暴露）：explode 的 plod 对应 expose 的 pose（放置）；exploit（利用）：explode 的 ode 对应 exploit 的 oit。",
+        "extendedMeaning": "1. 激增，猛涨（人口、价格等急剧增长）：The population exploded in the 20th century. 2. 爆发（情绪）：He exploded with anger. 3. 推翻（理论、观点）：The new evidence exploded the old theory.",
+        "examUsage": "真题常考固定搭配：explode with rage（勃然大怒）；explode into laughter（哄堂大笑）。注意 explode 的及物/不及物用法：The bomb exploded.（不及物）；They exploded the bomb.（及物）。"
+      }
+    },
+    {
+      "id": "exploit",
+      "word": "exploit",
+      "phonetic": "/'eksplɔit/",
+      "meaning": "v.开拓;开发;剥削 n.功绩[勋];业绩",
+      "similar": [
+        "explicit",
+        "export",
+        "explain",
+        "explode",
+        "explore",
+        "explosion",
+        "explosive"
+      ],
+      "question": {
+        "wordId": "exploit",
+        "stem": "选择 \"exploit\" 的正确中文意思：",
+        "correct": "v.开拓;开发;剥削 n.功绩[勋];业绩",
+        "options": [
+          "v.开拓;开发;剥削 n.功绩[勋];业绩",
+          "a.详述的,明确的;坦率的;显然的",
+          "v.解释,说明",
+          "v./n.输出,出口 n.出口商品"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（出）+ ploit（折叠，源于拉丁语plicare）→ 原义为“把折叠的东西展开”，引申为“开拓、开发资源”；后衍生出“剥削”意（把人当资源压榨）。名词义“功绩”源于“展开的成果”。",
+        "similarWarning": "exploit vs explicit: exploit 含 ploit（折叠），explicit 含 plicit（折叠）+ -it（形容词后缀）→ 展开的→明确的；拼写差异在“oi”与“ici”。",
+        "extendedMeaning": "在考研阅读中，名词义“功绩、业绩”常出现，如“military exploits”（军事功绩）；动词“开发利用”多用于资源或技术，如“exploit natural resources”。",
+        "examUsage": "常见搭配：exploit one's talents（发挥才能）；真题例句：“The company exploited the new technology to gain a competitive edge.”（公司利用新技术获得竞争优势。）注意干扰项常与explore（探索）混淆。"
+      }
+    },
+    {
+      "id": "explore",
+      "word": "explore",
+      "phonetic": "/ik'splɔ:/",
+      "meaning": "v.勘探,探测;探究,探索",
+      "similar": [
+        "explode",
+        "expire",
+        "export",
+        "expose",
+        "exploit",
+        "explosive",
+        "employee",
+        "employer"
+      ],
+      "question": {
+        "wordId": "explore",
+        "stem": "选择 \"explore\" 的正确中文意思：",
+        "correct": "v.勘探,探测;探究,探索",
+        "options": [
+          "v./n.输出,出口 n.出口商品",
+          "v.期满,(期限)终止;呼气;断气,死亡",
+          "v.(使)爆炸,(使)爆发",
+          "v.勘探,探测;探究,探索"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ plore（=plaudere，拍打、寻找）→ 原指猎人拍打灌木丛驱赶猎物，引申为“向外探寻未知领域”，核心动作为“主动搜索以发现新事物”。",
+        "similarWarning": "explode（爆炸）：ex-向外+plode（=plaudere拍打）→ 拍打声爆裂；explore是“寻找”，区别在plore vs plode。expire（到期）：ex-向外+spire（呼吸）→ 呼出最后一口气；export（出口）：ex-向外+port（运送）；expose（暴露）：ex-向外+pose（放置）；exploit（利用）：ex-向外+ploit（=plicare折叠）→ 展开利用；explosive（炸药）：explode的形容词；employee（雇员）：employ（雇佣）+ee（被...者）；employer（雇主）：employ+er（...者）。",
+        "extendedMeaning": "在考研阅读中常引申为“系统研究、仔细调查”（如explore the issue/possibility），而非仅指地理勘探。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "explosion",
+      "word": "explosion",
+      "phonetic": "/ɪk'spləuʒn/",
+      "meaning": "n.爆炸,爆发",
+      "similar": [
+        "expansion",
+        "explosive",
+        "erosion",
+        "explain",
+        "exploit",
+        "excursion",
+        "extension",
+        "explanation"
+      ],
+      "question": {
+        "wordId": "explosion",
+        "stem": "选择 \"explosion\" 的正确中文意思：",
+        "correct": "n.爆炸,爆发",
+        "options": [
+          "n.爆炸,爆发",
+          "n.扩张,膨胀;张开,伸展",
+          "n.腐蚀,磨损;削弱,减少",
+          "a.爆炸(性)的,爆发(性)的 n.爆炸物,炸药"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根ex-（向外）+ plos（源自拉丁语plaudere/plodere，意为“拍打、爆裂”，与“爆破声”相关）+ -ion（名词后缀）。核心物理动作：内部压力向外猛烈释放，伴随巨大声响和破坏力，即“爆炸”。",
+        "similarWarning": "expansion（n. 扩张，膨胀）与explosion拼写差异在于字母‘os’ vs ‘an’。explosion强调瞬间猛烈爆裂，expansion指面积、体积的逐渐扩大。",
+        "extendedMeaning": "考研常考“激增，迅猛增长”，如population explosion（人口爆炸）、information explosion（信息爆炸），强调数量或规模的急剧爆发式增长，非字面物理爆炸。",
+        "examUsage": "常考搭配：a population explosion（人口激增），an explosion of interest（兴趣的爆发）。真题例句：The explosion of data has led to new challenges in information management.（数据激增带来了信息管理的新挑战。）"
+      }
+    },
+    {
+      "id": "explosive",
+      "word": "explosive",
+      "phonetic": "/ik'spləusiv/",
+      "meaning": "a.爆炸(性)的,爆发(性)的 n.爆炸物,炸药",
+      "similar": [
+        "exclusive",
+        "expensive",
+        "explosion",
+        "explode",
+        "exploit",
+        "explore",
+        "exposure",
+        "excessive"
+      ],
+      "question": {
+        "wordId": "explosive",
+        "stem": "选择 \"explosive\" 的正确中文意思：",
+        "correct": "a.爆炸(性)的,爆发(性)的 n.爆炸物,炸药",
+        "options": [
+          "n.爆炸,爆发",
+          "a.花费的,昂贵的",
+          "a.独占的;排他的;孤高的;唯一的;高级的",
+          "a.爆炸(性)的,爆发(性)的 n.爆炸物,炸药"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根ex-（出）+ plos（=plaud，拍打、爆炸）+ -ive（形容词/名词后缀）。核心物理动作：内部压力向外猛烈拍打释放，即“爆炸”。引申为具有爆发力、易引发激烈反应的性质。",
+        "similarWarning": "explosive vs. exclusive（ex-出+clus-关闭+ive，排外的）vs. excessive（ex-出+cess-走+ive，过度的）。差异核心：plos（爆炸）vs. clus（关闭）vs. cess（行走）。",
+        "extendedMeaning": "（在考研中常引申为）“极易引起争议的、一触即发的”：如 explosive issue（爆炸性议题）、explosive situation（一触即发的局势）。",
+        "examUsage": "真题常考搭配：explosive growth（爆炸式增长，如人口/经济）。干扰项常利用形近词exclusive（排他的）或excessive（过度的）设置陷阱，需注意语境是“爆发性”还是“排他性/过度”。"
+      }
+    },
+    {
+      "id": "export",
+      "word": "export",
+      "phonetic": "/ik'spɔ:t/",
+      "meaning": "v./n.输出,出口 n.出口商品",
+      "similar": [
+        "expert",
+        "exploit",
+        "explore",
+        "port",
+        "exert",
+        "effort",
+        "escort",
+        "expect"
+      ],
+      "question": {
+        "wordId": "export",
+        "stem": "选择 \"export\" 的正确中文意思：",
+        "correct": "v./n.输出,出口 n.出口商品",
+        "options": [
+          "n.专家,能手 a.熟练的,有经验的;专门的",
+          "v.勘探,探测;探究,探索",
+          "v./n.输出,出口 n.出口商品",
+          "v.开拓;开发;剥削 n.功绩[勋];业绩"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "ex-（出）+ port（港口）→ 从港口运出去 → 输出，出口。",
+        "similarWarning": "export（输出）vs expert（专家）：ex- + port 与 ex- + per（尝试）→ 尝试过的人；export vs exploit（开发，剥削）：port（港口）与 plic（折叠）→ 折叠进去；export vs explore（探索）：port（港口）与 plor（呼喊）→ 喊出声音。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "expose",
+      "word": "expose",
+      "phonetic": "/ik'spəuz/",
+      "meaning": "v.(to)使暴露,受到;使曝光",
+      "similar": [
+        "exposure",
+        "expense",
+        "explode",
+        "explore",
+        "pose",
+        "excuse",
+        "expire",
+        "export"
+      ],
+      "question": {
+        "wordId": "expose",
+        "stem": "选择 \"expose\" 的正确中文意思：",
+        "correct": "v.(to)使暴露,受到;使曝光",
+        "options": [
+          "v.(to)使暴露,受到;使曝光",
+          "n.暴露,揭露;方向;陈列;遗弃;照射量",
+          "v.(使)爆炸,(使)爆发",
+          "n.花费,消费,消耗"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（向外） + pose（放置） → 把某物向外放置 → 使暴露于外界，使曝光。核心动作：从遮蔽处向外展示。",
+        "similarWarning": "expose vs. expense（花费）：expose 含 pose（放置），expense 含 pens（称量/支付）。vs. explode（爆炸）：expose 含 pos（放置），explode 含 plod（拍打/爆裂）。vs. explore（探索）：expose 含 pos（放置），explore 含 plor（哭泣/呼喊/探索）。",
+        "extendedMeaning": "揭露（真相、丑闻等）。例：expose corruption（揭露腐败）。",
+        "examUsage": "be exposed to 暴露于…（被动结构，常用于科技、环境类阅读）。例：Children are exposed to too much screen time.（孩子们暴露于过多的屏幕时间。）"
+      }
+    },
+    {
+      "id": "exposure",
+      "word": "exposure",
+      "phonetic": "/ik'spəuʒə/",
+      "meaning": "n.暴露,揭露;方向;陈列;遗弃;照射量",
+      "similar": [
+        "expose",
+        "enclosure",
+        "explosive",
+        "ensure",
+        "expire",
+        "export",
+        "explore",
+        "posture"
+      ],
+      "question": {
+        "wordId": "exposure",
+        "stem": "选择 \"exposure\" 的正确中文意思：",
+        "correct": "n.暴露,揭露;方向;陈列;遗弃;照射量",
+        "options": [
+          "a.爆炸(性)的,爆发(性)的 n.爆炸物,炸药",
+          "n.围住,圈起,封入,附件",
+          "v.(to)使暴露,受到;使曝光",
+          "n.暴露,揭露;方向;陈列;遗弃;照射量"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根ex-（向外）+ pos-（放置）+ -ure（名词后缀）。核心动作是‘把某物放到外面去’，引申为‘暴露、揭露’（使隐藏的东西显现）、‘方向’（物体朝向外的方位）、‘陈列’（商品摆出来展示）、‘遗弃’（婴儿被放到外面抛弃）、‘照射量’（暴露在辐射下的剂量）。",
+        "similarWarning": "exposure vs. enclosure: 前者ex-向外+pos-放置，强调‘暴露在外’；后者en-向内+clos-关闭，指‘围起来的区域，附件’。",
+        "extendedMeaning": "",
+        "examUsage": "真题常考搭配：exposure to（暴露于，接触）。例句：Exposure to different cultures broadens one's horizons.（接触不同文化开阔眼界。）注意干扰项常将exposure与explosion（爆炸）混淆。"
+      }
+    },
+    {
+      "id": "express",
+      "word": "express",
+      "phonetic": "/ik'spres/",
+      "meaning": "v.表达,表示 a.特快的,快速的 n.快车,快运",
+      "similar": [
+        "press",
+        "excess",
+        "depress",
+        "impress",
+        "oppress",
+        "compress",
+        "suppress"
+      ],
+      "question": {
+        "wordId": "express",
+        "stem": "选择 \"express\" 的正确中文意思：",
+        "correct": "v.表达,表示 a.特快的,快速的 n.快车,快运",
+        "options": [
+          "v.表达,表示 a.特快的,快速的 n.快车,快运",
+          "v.压;压榨;紧迫,催促 n.报刊,通讯社;压榨机",
+          "a.过量的,额外的 n.过量;过剩;超额;无节制",
+          "v.压抑,降低;使沮丧,压下"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ press（挤压，压）。核心物理动作：向外压出，即把思想、情感像液体一样“压”出来，引申为“表达”；“压”的动作迅速，故有“特快、快速”之义。",
+        "similarWarning": "press（压）；excess（超过，ex-+cess走）；depress（压下，de-向下）；impress（印入，im-向内）；oppress（压迫，op-对着）；compress（压缩，com-共同）；suppress（压制，sup-向下）。差异在于前缀不同，核心动作均围绕“压”。",
+        "extendedMeaning": "在考研阅读中，express 可作名词，表示“特快列车、快递服务”，如“express delivery”（快递）；作形容词时，除“特快的”外，还有“明确的、专门的”之义，如“express purpose”（明确目的）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "exquisite",
+      "word": "exquisite",
+      "phonetic": "/'ekskwizit/",
+      "meaning": "a.优美的，高雅的，精致的；剧烈的，异常的",
+      "similar": [],
+      "question": {
+        "wordId": "exquisite",
+        "stem": "选择 \"exquisite\" 的正确中文意思：",
+        "correct": "a.优美的，高雅的，精致的；剧烈的，异常的",
+        "options": [
+          "v.计算,总计,估计,猜想,依赖",
+          "n.脊柱，脊椎；(动植物的)刺；书脊",
+          "a.殖民地的，关于殖民的 n.殖民地居民",
+          "a.优美的，高雅的，精致的；剧烈的，异常的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "ex-（出）+ quisit（来自拉丁语quaerere，意为“寻求、询问”）+ -e。本义为“被仔细寻求出来的”，引申为“经过精挑细选的”，从而形成“精致的、高雅的”含义。又因“精挑细选”的动作极致，可引申为“剧烈的、异常的”（如exquisite pain，意为极其剧烈的疼痛）。",
+        "similarWarning": "",
+        "extendedMeaning": "“剧烈的，异常的”（用于形容痛苦、快感等极端感受，如exquisite pleasure/torment，常见于文学或高级情感描述）。",
+        "examUsage": "考研真题中常考其“精致的”与“剧烈的”双重含义对比，如搭配exquisite craftsmanship（精湛工艺）与exquisite pain（剧痛），需根据语境判断词义。"
+      }
+    },
+    {
+      "id": "extend",
+      "word": "extend",
+      "phonetic": "/ik'stend/",
+      "meaning": "v.延长,延伸;扩充;给予;提供;估价",
+      "similar": [
+        "expend",
+        "extent",
+        "tend",
+        "attend",
+        "exceed",
+        "expand",
+        "intend",
+        "external"
+      ],
+      "question": {
+        "wordId": "extend",
+        "stem": "选择 \"extend\" 的正确中文意思：",
+        "correct": "v.延长,延伸;扩充;给予;提供;估价",
+        "options": [
+          "n.广度,宽度,长度;程度,限度",
+          "v.趋向,往往是;照料,看护",
+          "v.延长,延伸;扩充;给予;提供;估价",
+          "v.消费,花费"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ tend（伸展）= 向外伸展。核心物理动作是“拉长、展开”，引申为时间上的延长、空间上的延伸、范围上的扩充，以及抽象层面的给予（伸出援助之手）。",
+        "similarWarning": "expend（花销，ex-+pend-悬挂，向外支付）；extent（程度，ex-+tent-伸展，名词形式）。对比：extend是动词“延伸”，expend是动词“花费”，extent是名词“范围”。",
+        "extendedMeaning": "在考研中，extend常考“提供、给予”义，如extend a warm welcome（致以热烈欢迎），extend credit（提供信贷），不限于物理延伸。",
+        "examUsage": "真题考点：extend与expand辨析。extend强调线性拉长（如extend the deadline），expand强调体积或面积膨胀（如expand the business）。常见搭配：extend to（延伸至），extend beyond（超出）。"
+      }
+    },
+    {
+      "id": "extension",
+      "word": "extension",
+      "phonetic": "/ik'stenʃən/",
+      "meaning": "n.延长;扩大;范围;大小;尺寸;电话分机",
+      "similar": [
+        "tension",
+        "expansion",
+        "extensive",
+        "pension",
+        "exterior",
+        "attention",
+        "dimension",
+        "exception"
+      ],
+      "question": {
+        "wordId": "extension",
+        "stem": "选择 \"extension\" 的正确中文意思：",
+        "correct": "n.延长;扩大;范围;大小;尺寸;电话分机",
+        "options": [
+          "n.扩张,膨胀;张开,伸展",
+          "n.(紧张)状态；拉(绷)紧；张力，拉力",
+          "a.广大的,广阔的",
+          "n.延长;扩大;范围;大小;尺寸;电话分机"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自拉丁语\"extendere\"（向外伸展），ex-（向外）+ tendere（伸展）。核心动作是\"向外拉伸\"，引申为时间、空间或范围的延长与扩大。\",\n  \"similarWarning\": \"expansion（n.膨胀，扩张）强调体积或规模的扩大；extension（n.延长，分机）侧重线性延伸或附加部分。\",\n  \"extendedMeaning\": \"【考研僻义】电话分机（如：extension number）；【引申】延期（如：extension of visa）。\",\n  \"examUsage\": \"【真题考点】by extension（进而，",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "extensive",
+      "word": "extensive",
+      "phonetic": "/ik'stensiv/",
+      "meaning": "a.广大的,广阔的",
+      "similar": [
+        "expensive",
+        "excessive",
+        "extension",
+        "intensive",
+        "expense",
+        "exclusive",
+        "explosive",
+        "offensive"
+      ],
+      "question": {
+        "wordId": "extensive",
+        "stem": "选择 \"extensive\" 的正确中文意思：",
+        "correct": "a.广大的,广阔的",
+        "options": [
+          "a.广大的,广阔的",
+          "a.过多的;过分的;额外",
+          "a.花费的,昂贵的",
+          "n.延长;扩大;范围;大小;尺寸;电话分机"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根ex-（向外）+ tens（伸展）+ -ive（形容词后缀）→ 向外伸展出去的 → 覆盖范围广的，广大的。核心动作是“向外拉伸”，强调空间或范围的广度。",
+        "similarWarning": "expensive（昂贵的）：ex+pens（花费）+ive → 花费多的。excessive（过度的）：ex+cess（走）+ive → 走出界限的。intensive（集中的）：in+tens（伸展）+ive → 向内用力伸展的。辨析：extensive强调“广”，intensive强调“深”。",
+        "extendedMeaning": "（考研中常考）大规模的，大量的，广泛的（不限于物理空间，可指知识、影响、活动等）。例：extensive reading（泛读）；extensive damage（大面积损坏）。",
+        "examUsage": "常与intensive对比考查。真题例句：He had an extensive knowledge of the subject.（他对该学科有广博的知识。）注意与“extensive”搭配的常见名词：research, experience, use, collection。"
+      }
+    },
+    {
+      "id": "extent",
+      "word": "extent",
+      "phonetic": "/ik'stent/",
+      "meaning": "n.广度,宽度,长度;程度,限度",
+      "similar": [
+        "extend",
+        "extinct",
+        "tent",
+        "exert",
+        "except",
+        "expect",
+        "expend",
+        "expert"
+      ],
+      "question": {
+        "wordId": "extent",
+        "stem": "选择 \"extent\" 的正确中文意思：",
+        "correct": "n.广度,宽度,长度;程度,限度",
+        "options": [
+          "n.帐篷",
+          "a.灭绝的;熄灭了的",
+          "v.延长,延伸;扩充;给予;提供;估价",
+          "n.广度,宽度,长度;程度,限度"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ tent（拉丁语tendere的过去分词tentus，意为“伸展”）。核心动作是“向外伸展出去”，引申为伸展所达到的“范围、广度、长度”或“程度、限度”。",
+        "similarWarning": "extend（v.扩展）：extent是名词，结尾是-ent；extend是动词，结尾是-end。extinct（adj.灭绝的）：区别在于-inct vs. -ent，词根不同，tinct意为“颜色”或“刺激”。",
+        "extendedMeaning": "在考研中常考“程度、限度”的抽象义，如to a certain extent（在某种程度上），而非仅指物理空间广度。",
+        "examUsage": "高频搭配：to some extent（在某种程度上），to a large extent（在很大程度上）。真题中常作为程度状语修饰语出现，需注意区分to the extent that（到...程度以至于）引导结果状语从句。"
+      }
+    },
+    {
+      "id": "exterior",
+      "word": "exterior",
+      "phonetic": "/ik'stiəriə/",
+      "meaning": "a.外部的,外面的 n.外部",
+      "similar": [
+        "interior",
+        "extension",
+        "terror",
+        "emperor",
+        "external",
+        "inferior",
+        "superior"
+      ],
+      "question": {
+        "wordId": "exterior",
+        "stem": "选择 \"exterior\" 的正确中文意思：",
+        "correct": "a.外部的,外面的 n.外部",
+        "options": [
+          "a.外部的,外面的 n.外部",
+          "a.内部的,里面的 n.内部,内地",
+          "n.延长;扩大;范围;大小;尺寸;电话分机",
+          "n.恐怖;可怕的人(事)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“exter”（外部），后缀-ior表比较级，原义“更外面的”，引申为“外部的、外部”。",
+        "similarWarning": "exterior vs interior：前缀ex-（外）与in-（内）对立；extension（延伸）含-tens-（伸展）；terror（恐怖）含terr-（恐吓）。",
+        "extendedMeaning": "在考研中可指“外表、外貌”（如“a calm exterior”），或“外交事务”（如“a ministry of exterior”）。",
+        "examUsage": "常考固定搭配：on the exterior（在外部），与interior对应；真题中可能作为干扰项与external（外部的，侧重抽象外部）区分。"
+      }
+    },
+    {
+      "id": "external",
+      "word": "external",
+      "phonetic": "/ik'stə:nəl/",
+      "meaning": "a.外部的;客观的;外国的;表面的;[医]外用的",
+      "similar": [
+        "eternal",
+        "internal",
+        "extend",
+        "extent",
+        "lateral",
+        "exterior",
+        "interval",
+        "material"
+      ],
+      "question": {
+        "wordId": "external",
+        "stem": "选择 \"external\" 的正确中文意思：",
+        "correct": "a.外部的;客观的;外国的;表面的;[医]外用的",
+        "options": [
+          "a.内部的,内的;国内的,内政的",
+          "n.永久的,永恒的",
+          "v.延长,延伸;扩充;给予;提供;估价",
+          "a.外部的;客观的;外国的;表面的;[医]外用的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根extern-（外部）+ -al（形容词后缀）。源自拉丁语externus（外部的），由ex-（向外）派生而来。核心物理动作：从内部向外延伸、处于界限之外。词义演变：外部→客观（与主观相对）→外国的→表面的→外用的。",
+        "similarWarning": "external vs internal：前缀ex-（向外）vs in-（向内），拼写差异在首字母e/i，词义相反。external vs eternal：external含extern-（外部），eternal含etern-（永恒），拼写差异在r/n位置，词义完全不同。external vs lateral：external指外部整体，lateral指侧面方向，拼写差异在ex- vs lat-。",
+        "extendedMeaning": "客观的（非主观的）：在考研阅读中常指不受个人情感影响的、基于事实的，如external factors（客观因素）；外国的：对外事务的，如external affairs（外交事务）；表面的：外表的而非本质的，如external appearance（表面现象）。",
+        "examUsage": "真题考点：external常与internal形成对比考查，如external environment（外部环境）vs internal environment（内部环境）；固定搭配：external validity（外部效度/外在效度，统计学/实验设计术语）。"
+      }
+    },
+    {
+      "id": "extinct",
+      "word": "extinct",
+      "phonetic": "/ik'stiŋkt/",
+      "meaning": "a.灭绝的;熄灭了的",
+      "similar": [
+        "extent",
+        "extract",
+        "distinct",
+        "instinct"
+      ],
+      "question": {
+        "wordId": "extinct",
+        "stem": "选择 \"extinct\" 的正确中文意思：",
+        "correct": "a.灭绝的;熄灭了的",
+        "options": [
+          "a.灭绝的;熄灭了的",
+          "n.广度,宽度,长度;程度,限度",
+          "v./n.拔出,抽出;摘录 n.抽取物;精华;选集",
+          "a.清楚的,明显的;(from)截然不同的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（出，向外） + -stinct-（刺，熄灭） → 本义是“刺灭、熄灭”，引申为“灭绝的、熄灭了的”。核心物理动作：火苗被刺灭后不再燃烧。",
+        "similarWarning": "extent（范围）：extinct vs extent，-inct 与 -ent 仅一字母之差；extract（提取）：extinct vs extract，-inct 与 -act 不同；distinct（明显的）：dis-（分开） + -stinct-（刺）→ 刺出标记 → 明显的；instinct（本能）：in-（在内） + -stinct-（刺）→ 内在的冲动 → 本能。",
+        "extendedMeaning": "考研僻义：指物种“灭绝的”，如 extinct species（灭绝物种）；也用于比喻“过时的、不再流行的”，如 extinct custom（已废弃的习俗）。",
+        "examUsage": "真题考点：常与 endangered（濒危的）对比出题，如：The species is not extinct but endangered.（该物种未灭绝，但濒危。）固定搭配：go extinct（灭绝），如 Many species have gone extinct due to habitat loss."
+      }
+    },
+    {
+      "id": "extinguish",
+      "word": "extinguish",
+      "phonetic": "/ik'stiŋgwiʃ/",
+      "meaning": "v.熄灭;消灭;结束;压制;使黯然失色;偿清",
+      "similar": [
+        "distinguish"
+      ],
+      "question": {
+        "wordId": "extinguish",
+        "stem": "选择 \"extinguish\" 的正确中文意思：",
+        "correct": "v.熄灭;消灭;结束;压制;使黯然失色;偿清",
+        "options": [
+          "v.(from)区别,辨别;辨认出;使杰出",
+          "v.熄灭;消灭;结束;压制;使黯然失色;偿清",
+          "n.道德,美德",
+          "a.年长的,资格老的 n.长辈"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根ex-（出）+stingu（刺、熄灭）+ish（动词后缀）→“把火焰刺灭”引申为“熄灭、消灭”。核心动作：通过外力使燃烧物停止燃烧，后抽象化为“使事物终止存在或发挥作用”。",
+        "similarWarning": "distinguish（区分）：前缀dis-（分开）+sting（刺）+uish→“把刺分开”引申为“区分”。对比：extinguish强调“消灭、熄灭”，distinguish强调“辨别、区分”。字母差异：ex- vs dis-，词义核心不同。",
+        "extendedMeaning": "（1）压制：extinguish opposition（压制反对派），指用强力使对方失去反抗能力。（2）使黯然失色：His brilliance extinguished hers.（他的才华使她的黯然失色。）",
+        "examUsage": "真题考点：extinguish常作为及物动词，后接fire/flame/hope/rights等宾语。固定搭配：extinguish a debt（偿清债务），extinguish a claim（取消索赔）。干扰项：与distinguish混淆时，注意题干语境是“消灭”还是“区分”。"
+      }
+    },
+    {
+      "id": "extra",
+      "word": "extra",
+      "phonetic": "/'ekstrə/",
+      "meaning": "a.额外的,附加的 n.附加物,额外的东西",
+      "similar": [
+        "extract",
+        "era",
+        "entry",
+        "exert"
+      ],
+      "question": {
+        "wordId": "extra",
+        "stem": "选择 \"extra\" 的正确中文意思：",
+        "correct": "a.额外的,附加的 n.附加物,额外的东西",
+        "options": [
+          "v./n.拔出,抽出;摘录 n.抽取物;精华;选集",
+          "n.时代,年代,阶段,纪元",
+          "a.额外的,附加的 n.附加物,额外的东西",
+          "n.进入,入口;通道;记载,条目"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "extra- 源自拉丁语，意为“超出、在...之外”，直接表示“额外的、附加的”。核心动作是“超出常规范围”。",
+        "similarWarning": "extract (ex-向外 + tract拉) 拉出、提取；era (时代)；entry (进入、条目)；exert (ex-向外 + ert连接) 施加、发挥。对比：extra 强调“额外”，extract 强调“取出”。",
+        "extendedMeaning": "在考研外刊中，extra 可作名词表示“额外费用”或“临时演员”，如“pay extra for a seat”（为座位支付额外费用）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "extract",
+      "word": "extract",
+      "phonetic": "/ik'strækt/",
+      "meaning": "v./n.拔出,抽出;摘录 n.抽取物;精华;选集",
+      "similar": [
+        "exact",
+        "extra",
+        "attract",
+        "extinct",
+        "abstract",
+        "contract",
+        "distract",
+        "entrance"
+      ],
+      "question": {
+        "wordId": "extract",
+        "stem": "选择 \"extract\" 的正确中文意思：",
+        "correct": "v./n.拔出,抽出;摘录 n.抽取物;精华;选集",
+        "options": [
+          "vt.引起的注意(或兴趣等),吸引；引起；激起",
+          "a.额外的,附加的 n.附加物,额外的东西",
+          "a.确切的,正确的,精确的",
+          "v./n.拔出,抽出;摘录 n.抽取物;精华;选集"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ tract（拉，抽）→ 向外拉出。核心动作：从某物中用力拉/抽/提取出某部分。",
+        "similarWarning": "exact（ex-出+act做→做出来→精确的）vs extract（tract拉→拉出来→提取）。区别：exact强调精准，extract强调抽取动作。",
+        "extendedMeaning": "【熟词僻义】① v. 摘录（从书/文中选取片段）② n. 精华/选集（如：essence extract 精华液）③ v. 强索（信息/钱财）（如：extract a confession 逼供）",
+        "examUsage": "【真题考点】① extract ... from ... 从……中提取/摘录（高频搭配）② mineral extraction 矿产开采（阅读科技类）③ extract data 提取数据（信息类真题）"
+      }
+    }
+  ]
+}

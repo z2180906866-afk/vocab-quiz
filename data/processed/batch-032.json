@@ -1,0 +1,1736 @@
+{
+  "batchId": 32,
+  "words": [
+    {
+      "id": "feat",
+      "word": "feat",
+      "phonetic": "/fi:t/",
+      "meaning": "n.功绩，伟业，技艺",
+      "similar": [
+        "feast",
+        "beat",
+        "fear",
+        "flat",
+        "meat",
+        "neat",
+        "defeat",
+        "beast"
+      ],
+      "question": {
+        "wordId": "feat",
+        "stem": "选择 \"feat\" 的正确中文意思：",
+        "correct": "n.功绩，伟业，技艺",
+        "options": [
+          "n.敲打;(心脏等)跳动 v.打败;(心脏等)跳动",
+          "n.害怕，恐惧；危险vt.畏惧，害怕，担心",
+          "n.节日;宴会",
+          "n.功绩，伟业，技艺"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语facere（做，制作），feat本义是“做成的事”，强调通过努力或技艺完成的非凡成就，核心动作是“完成一项困难的任务”。",
+        "similarWarning": "feast（盛宴，n./v.） vs feat：feast多一个字母s，意为盛宴；feat指功绩。beat（打，v.） vs feat：开头b替换f，beat是击打，feat是成就。",
+        "extendedMeaning": "在考研语境中可指“技艺，绝技”，强调需要高超技巧的表演或操作，如“a feat of engineering”（工程壮举）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "feather",
+      "word": "feather",
+      "phonetic": "/'feðə/",
+      "meaning": "n.羽毛",
+      "similar": [
+        "leather",
+        "gather",
+        "farther",
+        "flatter",
+        "further"
+      ],
+      "question": {
+        "wordId": "feather",
+        "stem": "选择 \"feather\" 的正确中文意思：",
+        "correct": "n.羽毛",
+        "options": [
+          "n.皮革,皮革制品",
+          "n.羽毛",
+          "v.聚集,聚拢;推测,推断",
+          "ad.更远地,再往前地 a.更远的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *feþrō，与拉丁语 penna（羽毛）同源，词根 pet-（飞）的变体。核心物理动作是‘用于飞行的轻质结构’，强调‘轻而薄、覆盖身体’的特性。",
+        "similarWarning": "father（父亲）: 字母 f- 后接 -ather；feather 中间是 ea（e+a），father 是 a。leather（皮革）: 开头 l- 与 f- 区分；feather 轻质，leather 厚重。weather（天气）: w- 开头；feather 为名词，weather 为名词/动词。farther（更远）: 含 -ther 后缀，但词根 far-（远），feather 无比较级含义。",
+        "extendedMeaning": "在考研阅读中可能引申为‘轻如羽毛的东西’或‘羽状物’，例如 a feather of smoke（一缕轻烟）；或指‘同类的人/物’（birds of a feather），表示‘同类、一丘之貉’。",
+        "examUsage": "常见搭配：light as a feather（轻如鸿毛）用于比喻‘极轻’；feather one's nest（中饱私囊）在真题经济类阅读中出现，意为‘营私、自肥’；birds of a feather flock together（物以类聚）可能作为谚语题眼。"
+      }
+    },
+    {
+      "id": "feature",
+      "word": "feature",
+      "phonetic": "/'fi:tʃə/",
+      "meaning": "n.特征;容貌;特色;特写 v.以...为特色",
+      "similar": [
+        "creature",
+        "fracture",
+        "mature",
+        "fixture",
+        "gesture",
+        "lecture",
+        "texture",
+        "venture"
+      ],
+      "question": {
+        "wordId": "feature",
+        "stem": "选择 \"feature\" 的正确中文意思：",
+        "correct": "n.特征;容貌;特色;特写 v.以...为特色",
+        "options": [
+          "n.人,动物;生物",
+          "n.特征;容貌;特色;特写 v.以...为特色",
+          "n.裂缝(痕);骨折 v.(使)断裂,(使)折断",
+          "a.成熟的,熟的;成年人的 v.(使)成熟"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语factura（制作，构造），由facere（做，制造）派生。核心动作是“被制作出来的东西”，即某物被制作或形成过程中呈现出的显著特点或外貌。词根fact-（做）→ feature（做的结果→特征）。",
+        "similarWarning": "creature（生物；创造物）与feature仅首字母不同，区别在于creature强调“被创造的生命体”，feature强调“特征”；fracture（断裂；骨折）以fract-（打破）为根，与feature的fact-（做）形成动作对立——一个是破坏，一个是构造。",
+        "extendedMeaning": "在考研真题中，feature常作动词表示“以……为特色；由……主演”，如“The film features a young actress.”（这部电影由一位年轻女演员主演）；也可作名词表示“（报纸、杂志的）特写；专题节目”，如“a special feature on education”（关于教育的专题报道）。",
+        "examUsage": "考研阅读中常考搭配“feature prominently in”（在……中占据显著地位），如“Economic issues feature prominently in the debate.”（经济问题在辩论中占据显著地位）。注意feature作动词时，主语通常是物，宾语是特色内容。"
+      }
+    },
+    {
+      "id": "february",
+      "word": "February",
+      "phonetic": "/'februəri/",
+      "meaning": "n.二月",
+      "similar": [],
+      "question": {
+        "wordId": "february",
+        "stem": "选择 \"February\" 的正确中文意思：",
+        "correct": "n.二月",
+        "options": [
+          "n.二月",
+          "n.圈,环",
+          "a.(over)占优势的;主要的,突出的",
+          "a.实验(性)的,试验(性)的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'Februarius'，来自'februum'（净化），因古罗马在二月举行净化仪式而得名。词根'febru-'意为净化，后缀'-ary'表月份，直译为'净化之月'。",
+        "similarWarning": "与'library'（图书馆）形近：February以'Febru-'开头，library以'libr-'开头；两者拼写差异在于'Febru-' vs 'libr-'，词义无关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "federal",
+      "word": "federal",
+      "phonetic": "/'fedərəl/",
+      "meaning": "a.联邦的;联邦制的;联合的;同盟的",
+      "similar": [
+        "funeral",
+        "general",
+        "medieval"
+      ],
+      "question": {
+        "wordId": "federal",
+        "stem": "选择 \"federal\" 的正确中文意思：",
+        "correct": "a.联邦的;联邦制的;联合的;同盟的",
+        "options": [
+          "a.联邦的;联邦制的;联合的;同盟的",
+          "a.中世纪的,中古(时代)的,老式的,原始的",
+          "n.丧葬,葬礼",
+          "a.一般的,普通的;总的,大体的 n.将军"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'foedus'（条约、盟约），通过词根 'feder-'（联盟、条约）派生，核心动作是‘通过条约结盟’，引申为‘联邦的’，强调基于契约的联合关系。",
+        "similarWarning": "形近词对比：funeral（葬礼，词根fun-与丧葬相关）、general（一般的，词根gen-表示种类）、several（几个，源于分开）、medieval（中世纪的，词根med-中间+ev-时代）。federal强调‘盟约联合’，而general侧重‘普遍性’；medieval与federal仅拼写相似，词义无关联。",
+        "extendedMeaning": "在考研中可引申为‘中央集权的’（与地方相对），如 'federal government' 强调中央权威；或‘联邦制的’（政治体制），如 'federal system'。无常见僻义。",
+        "examUsage": "考点：常作为政治类文章的核心词，与 'state'（州）、'national'（国家的）对比出现。真题短语：'federal funds'（联邦基金）、'federal regulation'（联邦法规）。注意干扰项：'general' 可能误选，但 federal 特指联邦层级。"
+      }
+    },
+    {
+      "id": "federation",
+      "word": "federation",
+      "phonetic": "/'fedəreiʃən/",
+      "meaning": "n.同盟;联邦;联合;联盟;联合会",
+      "similar": [
+        "generation",
+        "reservation",
+        "duration",
+        "education",
+        "meditation",
+        "revelation",
+        "vegetation",
+        "declaration"
+      ],
+      "question": {
+        "wordId": "federation",
+        "stem": "选择 \"federation\" 的正确中文意思：",
+        "correct": "n.同盟;联邦;联合;联盟;联合会",
+        "options": [
+          "n.同盟;联邦;联合;联盟;联合会",
+          "n.产生,发生;一代(人)",
+          "n.保留,保留意见;预定,预订",
+          "n.持久;期间;持续时间"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'foederare'（结成同盟），词根 'feder-'（联盟，条约） + 名词后缀 '-ation'（表行为/状态）。核心动作：通过条约或协议将多个独立实体联合成一个整体，强调‘联合’的正式性与结构性。",
+        "similarWarning": "与 'generation'（一代人；产生）区别：'feder-' 表‘联盟’，'gener-' 表‘产生/生育’。与 'reservation'（保留；预订）区别：'feder-' 表‘联合’，'serv-' 表‘保存/服务’。",
+        "extendedMeaning": "在考研真题中常引申为‘联合会、同盟组织’，如 ‘the Federation of American Scientists’（美国科学家联合会），强调非政府性质的行业或利益联合体。",
+        "examUsage": "真题高频搭配：‘a federation of states’（联邦制国家）及 ‘the Russian Federation’（俄罗斯联邦）。注意与 ‘union’（侧重统一整体）区分：federation 强调成员保留一定自治权。"
+      }
+    },
+    {
+      "id": "fee",
+      "word": "fee",
+      "phonetic": "/fi:/",
+      "meaning": "n.费(会费,学费等);酬金",
+      "similar": [
+        "feed",
+        "flee",
+        "bee",
+        "fence",
+        "fever",
+        "fleet"
+      ],
+      "question": {
+        "wordId": "fee",
+        "stem": "选择 \"fee\" 的正确中文意思：",
+        "correct": "n.费(会费,学费等);酬金",
+        "options": [
+          "v.(on,with)喂养,饲养;(with)向…供给",
+          "n.费(会费,学费等);酬金",
+          "v.逃走;逃避",
+          "n.蜂，蜜蜂；忙碌的人"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古英语feoh，原指‘牲畜、财产’，因古代以牲畜作为交易媒介或报酬，后引申为‘费用、酬金’。核心动作是‘支付或收取作为报酬的财物’。",
+        "similarWarning": "feed（喂养，动词） vs fee（费用，名词）：feed多一字母'd'，表示‘提供食物’；fee表示‘金钱报酬’。feel（感觉） vs fee：feel有'l'，表示触觉或情感；fee无'l'，仅指费用。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "feeble",
+      "word": "feeble",
+      "phonetic": "/'fi:bl/",
+      "meaning": "a.虚弱的,无力的",
+      "similar": [
+        "fable",
+        "female",
+        "needle",
+        "pebble",
+        "feasible",
+        "flexible",
+        "resemble"
+      ],
+      "question": {
+        "wordId": "feeble",
+        "stem": "选择 \"feeble\" 的正确中文意思：",
+        "correct": "a.虚弱的,无力的",
+        "options": [
+          "n.女性;女人;雌兽 a.女性的;雌的;柔弱的",
+          "n.寓言",
+          "a.虚弱的,无力的",
+          "n.针,指针,针状物"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语‘flebilis’（可哭泣的），词根‘fle-’（哭泣）→ 令人哭泣的 → 引申为虚弱无力、不堪一击的状态，核心物理动作为‘脆弱到让人哀叹’。",
+        "similarWarning": "feel（感觉） vs feeble：前者含‘ee’表感知，后者含‘ble’表状态；fable（寓言） vs feeble：前者‘a’表故事，后者‘ee’表脆弱；female（女性） vs feeble：前者‘male’表性别，后者‘ble’表虚弱。",
+        "extendedMeaning": "考研僻义：a.（论点、借口等）站不住脚的，无说服力的。例：a feeble argument（无力的论据）。",
+        "examUsage": "真题考点：常与‘weak’辨析，但‘feeble’强调因虚弱而无效，如‘feeble attempt’（徒劳尝试）。例句：His feeble excuse was easily dismissed.（他无力的借口轻易被驳回。）"
+      }
+    },
+    {
+      "id": "feed",
+      "word": "feed",
+      "phonetic": "/fi:d/",
+      "meaning": "v.(on,with)喂养,饲养;(with)向…供给",
+      "similar": [
+        "fee",
+        "deed",
+        "reed",
+        "seed",
+        "weed",
+        "bleed",
+        "breed",
+        "fever"
+      ],
+      "question": {
+        "wordId": "feed",
+        "stem": "选择 \"feed\" 的正确中文意思：",
+        "correct": "v.(on,with)喂养,饲养;(with)向…供给",
+        "options": [
+          "n.费(会费,学费等);酬金",
+          "v.(on,with)喂养,饲养;(with)向…供给",
+          "n.芦苇,苇丛;芦笛,牧笛",
+          "n.行为,行动;功绩,事迹;证书；契据"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "feed 源自古英语 fedan，与 food 同源，核心物理动作为“提供食物”。词根演变：fed-（喂养）→ feed（喂养、供给）。",
+        "similarWarning": "形近词对比：feed vs. feel（感受，区别在 d 与 l，feed 与食物相关，feel 与触觉相关）；feed vs. seed（种子，区别在 f 与 s，feed 是喂养，seed 是播种）；feed vs. weed（杂草，区别在 f 与 w，feed 是提供养料，weed 是清除杂草）。",
+        "extendedMeaning": "考研僻义：1. 供给（非食物）：feed information into a system（向系统输入信息）；2. 助长（负面情绪）：feed one's anger（加剧愤怒）；3. 满足（需求）：feed the demand（满足需求）。",
+        "examUsage": "真题考点：feed on（以……为食）常考搭配；feed into（输入/影响）用于科技类阅读；feed back（反馈）在管理类阅读中出现。干扰项常涉及 feed 与 feel 的拼写混淆。"
+      }
+    },
+    {
+      "id": "feedback",
+      "word": "feedback",
+      "phonetic": "/'fi:dbæk/",
+      "meaning": "n.反馈;反应;回授",
+      "similar": [
+        "setback"
+      ],
+      "question": {
+        "wordId": "feedback",
+        "stem": "选择 \"feedback\" 的正确中文意思：",
+        "correct": "n.反馈;反应;回授",
+        "options": [
+          "n.反馈;反应;回授",
+          "n.挫折；失效；复发；倒退",
+          "n.出版物;出版,发行;公布,发表",
+          "n./v.(使有)偏见,偏心,偏袒"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由 feed（喂、供给）和 back（回、向后）组成，字面意为“往回喂”。核心物理动作是“把信息或能量回输给源头”，引申为电子系统中的“回授”和人际沟通中的“反馈、反应”。",
+        "similarWarning": "setback（n.挫折）：set（放置）+back（向后），指“向后推”即阻碍。feedback强调“回馈信息”，setback强调“倒退/失败”。",
+        "extendedMeaning": "在管理/教育语境中常指“建设性意见或评价”，如 positive/negative feedback（正面/负面反馈）。",
+        "examUsage": "考研真题常考搭配：provide/give feedback（提供反馈），feedback loop（反馈回路）。例句：The system adjusts itself based on user feedback.（系统根据用户反馈自我调整。）"
+      }
+    },
+    {
+      "id": "fell",
+      "word": "fell",
+      "phonetic": "/fel/",
+      "meaning": "v.击倒;打倒(疾病等);砍伐a.凶猛的;可怕的",
+      "similar": [
+        "cell",
+        "fill",
+        "hell",
+        "yell",
+        "fellow",
+        "belly",
+        "dwell",
+        "hello"
+      ],
+      "question": {
+        "wordId": "fell",
+        "stem": "选择 \"fell\" 的正确中文意思：",
+        "correct": "v.击倒;打倒(疾病等);砍伐a.凶猛的;可怕的",
+        "options": [
+          "n.细胞;小房间;蜂房;电池",
+          "v.(with)填满,充满",
+          "v.击倒;打倒(疾病等);砍伐a.凶猛的;可怕的",
+          "n.地狱,阴间;苦境,极大痛苦"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根词源：来自古英语‘feallan’（落下），本义为‘使落下’。核心动作：使某物从高处或直立状态突然下降。引申为‘击倒、砍伐’（使树/人倒下），以及‘凶猛的、可怕的’（源自‘fell’作为形容词时与‘fel’（残忍）的关联，意为令人感到‘压倒性’的恐惧）。",
+        "similarWarning": "形近词对比：\n- fall (v. 落下，跌倒)：与fell仅差字母‘e’，但fall为不及物动词（自动倒下），fell为及物动词（主动击倒）。\n- feel (v. 感觉)：字母‘l’替换为‘e’，词义完全无关。\n- fill (v. 填满)：元音不同，fell为‘e’，fill为‘i’。",
+        "extendedMeaning": "考研僻义：\n1. (疾病等) 打倒：指疾病使人病倒，如‘The fever felled him.’\n2. 砍伐：专指砍倒树木，如‘fell a tree’（砍树）。\n3. 凶猛的，可怕的：作为形容词，如‘a fell disease’（致命的疾病），真题中偶见。",
+        "examUsage": "真题考点：\n- 动词用法：常考及物性，如‘fell sb./sth.’（击倒某人/某物）。\n- 固定搭配：‘one fell swoop’（一举，一下子），如考研阅读中‘in one fell swoop’表示‘一次性完成’。"
+      }
+    },
+    {
+      "id": "fellow",
+      "word": "fellow",
+      "phonetic": "/'feləu/",
+      "meaning": "n.人,家伙;伙伴,同事 a.同样的,同事的",
+      "similar": [
+        "follow",
+        "yellow",
+        "fell",
+        "flow",
+        "allow",
+        "elbow",
+        "hello",
+        "hollow"
+      ],
+      "question": {
+        "wordId": "fellow",
+        "stem": "选择 \"fellow\" 的正确中文意思：",
+        "correct": "n.人,家伙;伙伴,同事 a.同样的,同事的",
+        "options": [
+          "n.人,家伙;伙伴,同事 a.同样的,同事的",
+          "v.跟随,接着;领会;沿着…前进,遵循;结果是",
+          "a.黄的，黄色的 n.黄色",
+          "v.击倒;打倒(疾病等);砍伐a.凶猛的;可怕的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "fellow 源自古英语 feolaga（feoh“财产”+lagan“放置”），字面为“共同放置财产的人”，即“合伙经营者”。核心动作是“共同拥有”，引申为“伙伴、同事”。作为形容词表“同样的”，强调共同属性或身份。",
+        "similarWarning": "follow（跟随） vs fellow（伙伴）：follow 中“ow”表动作方向，fellow 中“ow”为后缀成分。fell（砍倒/过去式） vs fellow：fell 无“ow”后缀，拼写差异在末尾“low”。",
+        "extendedMeaning": "考研中 fellow 常作形容词表示“同类的、同情况的”，如 fellow citizens（同胞）、fellow students（同学）；名词“家伙”在口语或文学语篇中出现。",
+        "examUsage": "常见搭配：fellow countrymen（同胞）、fellow workers（工友）。真题例句：'He was a fellow of the Royal Society.'（他是皇家学会会员。）注意 fellow 作“会员”时属于学术机构成员专用词，区别于普通 member。"
+      }
+    },
+    {
+      "id": "fellowship",
+      "word": "fellowship",
+      "phonetic": "/'feləuʃɪp/",
+      "meaning": "n.伙伴关系;联谊会,团体",
+      "similar": [],
+      "question": {
+        "wordId": "fellowship",
+        "stem": "选择 \"fellowship\" 的正确中文意思：",
+        "correct": "n.伙伴关系;联谊会,团体",
+        "options": [
+          "n.改革，革新；新观念，新方法，新发明",
+          "pron.谁也不,无人 n.小人物",
+          "n.预言家；先知；提倡者",
+          "n.伙伴关系;联谊会,团体"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自fellow（伙伴）+ -ship（抽象名词后缀，表状态/关系）。核心动作：成为伙伴的状态 → 伙伴关系；引申为具有共同目标或兴趣的团体/联谊会。",
+        "similarWarning": "",
+        "extendedMeaning": "（研究生院）研究员职位/奖学金：指给研究生或学者的资助性职位，如‘teaching fellowship’（助教奖学金）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "female",
+      "word": "female",
+      "phonetic": "/'fi:meil/",
+      "meaning": "n.女性;女人;雌兽 a.女性的;雌的;柔弱的",
+      "similar": [
+        "male",
+        "feeble",
+        "temple"
+      ],
+      "question": {
+        "wordId": "female",
+        "stem": "选择 \"female\" 的正确中文意思：",
+        "correct": "n.女性;女人;雌兽 a.女性的;雌的;柔弱的",
+        "options": [
+          "n./a.男性(的),雄性(的)",
+          "n.庙宇,神殿,寺;太阳穴",
+          "n.女性;女人;雌兽 a.女性的;雌的;柔弱的",
+          "a.虚弱的,无力的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'femella'（年轻女子），是 'femina'（女人）的指小形式。词根 'fem-' 意为“女性，哺乳”。核心物理动作为“孕育生命者”，从生物学角度区分性别，与 male（雄性）相对，强调性别特征而非社会角色。",
+        "similarWarning": "与 male（男性）仅首字母差异，f- vs m-，词义性别对立；与 feeble（虚弱的）拼写相似但发音不同，feeble 含‘弱’义，易混淆；与 temple（寺庙）结尾相似，但词源无关。",
+        "extendedMeaning": "在考研阅读中，female 可引申为‘（机械部件）母型的，内孔的’，如 female connector（母接头），用于描述插口或凹槽结构，与 male（公型，凸起）对应。",
+        "examUsage": "高频搭配：female/male ratio（性别比例），常见于科普或社会类文章。真题考点：作为干扰项，常与 feminine（女性气质的）混淆，注意 female 侧重生物性别，feminine 侧重社会属性。"
+      }
+    },
+    {
+      "id": "feminine",
+      "word": "feminine",
+      "phonetic": "/'feminin/",
+      "meaning": "a.女性的;娇柔的",
+      "similar": [
+        "famine",
+        "finite",
+        "eminent",
+        "definite",
+        "medicine"
+      ],
+      "question": {
+        "wordId": "feminine",
+        "stem": "选择 \"feminine\" 的正确中文意思：",
+        "correct": "a.女性的;娇柔的",
+        "options": [
+          "a.女性的;娇柔的",
+          "n.饥荒,饥馑",
+          "a.有限的；[数]有穷的,限定的",
+          "a.显赫的;杰出的;有名的;优良的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 'femin' 意为 woman（女人），源自拉丁语 'femina'（女人），后缀 '-ine' 表示“属于...的”或“有...特性的”。核心动作/画面：属于女性的、具有女性特征的。",
+        "similarWarning": "形近词辨析：\n- famine（饥荒）：拼写差异为 'ine' vs 'ine'，但 'famine' 中 'fam' 源自拉丁语 'fames'（饥饿），词义完全不同。\n- finite（有限的）：拼写差异为 'femin' vs 'finit'，'finit' 源自拉丁语 'finis'（界限），词义与“女性”无关。\n- eminent（杰出的）：拼写差异为 'femin' vs 'emin'，'emin' 源自拉丁语 'eminere'（突出），词义不同。\n- definite（明确的）：拼写差异为 'femin' vs 'definit'，'definit' 源自拉丁语 'definire'（限定），词义无关。\n- medicine（药物）：拼写差异为 'femin' vs 'medic'，'medic' 源自拉丁语 'mederi'（治疗），词义不同。",
+        "extendedMeaning": "在考研语境中，'feminine' 可引申为“女性化的；柔美的”，用于描述文化或社会属性，而非仅生物学性别。例如：'feminine charm'（女性魅力）或 'feminine style'（阴柔风格），强调与男性气质的对比。",
+        "examUsage": "真题中常考搭配：'feminine gender'（阴性）在语法语境中使用，或与 'masculine'（阳性的）形成对比。注意区分 'feminine'（女性气质）与 'female'（女性性别），前者侧重社会文化属性，后者侧重生物学性别。"
+      }
+    },
+    {
+      "id": "fence",
+      "word": "fence",
+      "phonetic": "/'fens/",
+      "meaning": "n.篱笆;围栏;剑术 v.用篱笆瓦围住;击剑",
+      "similar": [
+        "hence",
+        "defence",
+        "fierce",
+        "menace",
+        "fee",
+        "gene",
+        "bench",
+        "dense"
+      ],
+      "question": {
+        "wordId": "fence",
+        "stem": "选择 \"fence\" 的正确中文意思：",
+        "correct": "n.篱笆;围栏;剑术 v.用篱笆瓦围住;击剑",
+        "options": [
+          "n.(defense)防御,保卫;防务工事;辩护",
+          "a.凶猛的,残忍的;狂热的,强烈的",
+          "ad.从此,今后;因此",
+          "n.篱笆;围栏;剑术 v.用篱笆瓦围住;击剑"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "fence 源自古英语 fens，意为‘防御、保护’，与拉丁语 defendere（防御）同源。其核心物理动作是‘用屏障围住以隔绝或保护’，引申为‘篱笆/围栏’（名词）和‘击剑’（动词，因击剑是一种防御性格斗）。",
+        "similarWarning": "形近词对比：\n- hence（因此，副词）：h-开头，词义抽象。\n- defence（防御，名词）：de-前缀强调‘去除威胁’，fence 是具体物。\n- fierce（凶猛的，形容词）：-ier- 拼写，词义完全无关。\n- menace（威胁，名词/动词）：-men- 开头，词义负面。\n- fee（费用，名词）：单音节，词义无关。\n- face（脸，名词/动词）：-a- 元音，词义无关。\n- fine（好的/罚款，形容词/动词/名词）：-i- 元音，词义无关。\n- gene（基因，名词）：-g- 开头，词义无关。",
+        "extendedMeaning": "考研僻义：\n- 用作动词时，可引申为‘（巧妙地）回避、搪塞’（如 fence with a question，指用言语周旋避开直接回答），常见于议论文或对话中。",
+        "examUsage": "真题考点：\n- 固定搭配：on the fence（犹豫不决、保持中立），常作为阅读理解中人物态度题的干扰项。\n- 例：The government remains on the fence regarding the new policy.（政府对这项新政策仍持观望态度。）"
+      }
+    },
+    {
+      "id": "ferry",
+      "word": "ferry",
+      "phonetic": "/'feri/",
+      "meaning": "n.摆渡;渡船;渡口v.摆渡;渡运(人,车或物等)",
+      "similar": [
+        "merry",
+        "cherry",
+        "fry",
+        "fear",
+        "fairy",
+        "forty",
+        "hurry",
+        "lorry"
+      ],
+      "question": {
+        "wordId": "ferry",
+        "stem": "选择 \"ferry\" 的正确中文意思：",
+        "correct": "n.摆渡;渡船;渡口v.摆渡;渡运(人,车或物等)",
+        "options": [
+          "a.欢乐的,愉快的",
+          "n.樱桃(树)",
+          "n.摆渡;渡船;渡口v.摆渡;渡运(人,车或物等)",
+          "v.油煎,油炸"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自古英语ferian（运送），与拉丁语ferre（携带）同源。核心物理动作是“携带、运输”，引申为用船运载人或物过河，即摆渡。",
+        "similarWarning": "merry（快乐的） vs ferry（摆渡）：m-（快乐） vs f-（运输）；cherry（樱桃） vs ferry：ch-（樱桃） vs f-（运输）；fry（油炸） vs ferry：fry（油） vs ferry（船）；fear（恐惧） vs ferry：fear（害怕） vs ferry（渡船）；very（非常） vs ferry：v-（程度） vs f-（运输）；carry（搬运） vs ferry：carry（陆运） vs ferry（水运）；fairy（仙女） vs ferry：fairy（仙） vs ferry（船）；forty（四十） vs ferry：forty（数字） vs ferry（渡船）",
+        "extendedMeaning": "考研中常考其动词用法，引申为“（大规模）运送（人或物）”，不限于渡船。例如：ferry passengers to the airport（用大巴/船等运送乘客去机场）。",
+        "examUsage": "真题中常与across搭配：ferry sb/sth across (the river/sea)。例：The boat ferried them across the channel.（真题例句改写）"
+      }
+    },
+    {
+      "id": "fertile",
+      "word": "fertile",
+      "phonetic": "/'fɜ:taɪl/",
+      "meaning": "a.肥沃的,富饶的;能繁殖的",
+      "similar": [
+        "futile",
+        "reptile",
+        "textile",
+        "versatile",
+        "feasible",
+        "overtime",
+        "particle"
+      ],
+      "question": {
+        "wordId": "fertile",
+        "stem": "选择 \"fertile\" 的正确中文意思：",
+        "correct": "a.肥沃的,富饶的;能繁殖的",
+        "options": [
+          "a.无效的，无用的，无希望的",
+          "a.肥沃的,富饶的;能繁殖的",
+          "n.爬行动物",
+          "n.纺织品 a.纺织的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根fer-（携带，产生）+ -tile（形容词后缀，能…的）。核心动作：能携带/产生（种子、果实）。本义为“能繁殖的”，引申为土地“肥沃的”、想象力“丰富的”。",
+        "similarWarning": "形近词辨析：\n- fertile (肥沃的) vs futile (无用的)：关键区别在字母组合“er”与“ut”。fer-表“产生”，故fertile能产生结果；fut-源自futile (倾倒/空流)，故futile徒劳无果。\n- fertile vs reptile (爬行动物)：rept-表“爬行”，reptile是爬行类动物，与肥沃无关。\n- fertile vs textile (纺织品)：text-表“编织”，textile是织物，注意首字母t。",
+        "extendedMeaning": "考研僻义：1.（土地）肥沃的（常规义，但常与barren（贫瘠的）对比考查）。2.（想象力、创造力）丰富的：a fertile imagination（丰富的想象力）。3.（环境）有利于发展的：a fertile ground for sth（某事物滋生的温床/沃土），如《经济学人》中常形容经济或政治环境。",
+        "examUsage": "真题考点：\n1. 固定搭配：a fertile mind (头脑灵活/富有创意)；fertile soil (沃土，直义与比喻义兼顾)。\n2. 干扰项设计：常与futile、versatile（多才多艺的）混淆，需注意fer-核心含义是“产生”，而非“无用”或“变化”。\n3. 例句：The region is a fertile ground for innovation. (该地区是创新的沃土。)"
+      }
+    },
+    {
+      "id": "fertilizer",
+      "word": "fertilizer",
+      "phonetic": "/'fə:tilaizə/",
+      "meaning": "n.(fertiliser)肥料",
+      "similar": [],
+      "question": {
+        "wordId": "fertilizer",
+        "stem": "选择 \"fertilizer\" 的正确中文意思：",
+        "correct": "n.(fertiliser)肥料",
+        "options": [
+          "n.(fertiliser)肥料",
+          "v.继续,连续,延伸",
+          "n.遗产，遗赠；先人(或过去)留下的东西",
+          "n.目标,目的 a.客观的,真实的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语fertilis（肥沃的），由ferre（承载、产生）派生而来。-ize-动词后缀（使...化），-er名词后缀（物）。核心动作：使土地能承载并产生更多作物→肥料。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "festival",
+      "word": "festival",
+      "phonetic": "/'festəvəl/",
+      "meaning": "n.节日;音乐节;戏剧节 a.节日的;快乐的",
+      "similar": [
+        "vertical"
+      ],
+      "question": {
+        "wordId": "festival",
+        "stem": "选择 \"festival\" 的正确中文意思：",
+        "correct": "n.节日;音乐节;戏剧节 a.节日的;快乐的",
+        "options": [
+          "n.森林",
+          "n.临时解雇,操作停止,活动停止期间,失业期",
+          "a.垂直的,竖的 n.垂线",
+          "n.节日;音乐节;戏剧节 a.节日的;快乐的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'festivus'（欢乐的、节日的），词根 'fest-' 与 'feast'（盛宴）同源，核心物理动作是“庆祝、欢聚”，引申为特定的庆祝日或活动。",
+        "similarWarning": "形近词：vertical（垂直的），差异在 'fest-' vs 'vert-'（转），词义完全不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fetch",
+      "word": "fetch",
+      "phonetic": "/fetʃ/",
+      "meaning": "v.取来;接来;引出;售得;吸引 n.取得;拿",
+      "similar": [
+        "detach",
+        "sketch",
+        "batch",
+        "beach",
+        "bench",
+        "ditch",
+        "fence",
+        "hatch"
+      ],
+      "question": {
+        "wordId": "fetch",
+        "stem": "选择 \"fetch\" 的正确中文意思：",
+        "correct": "v.取来;接来;引出;售得;吸引 n.取得;拿",
+        "options": [
+          "n.一批,一组,一群",
+          "n.素描;略图,草图;梗概 v.绘略图,速写,写生",
+          "vt.分开, 分离, 分遣, 派遣(军队)",
+          "v.取来;接来;引出;售得;吸引 n.取得;拿"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，但核心物理动作是“去某处取回某物”，强调往返过程。词根无明确分解，但可通过联想记忆：f（飞）etch（去拿），即飞过去拿回来。",
+        "similarWarning": "detach（de-分离+touch=分开，v.拆卸；派遣）、sketch（s+ket+ch=草图，n.素描）、catch（ca+tch=抓，v.捕捉）——fetch强调“去取回”，catch强调“抓住”。",
+        "extendedMeaning": "【熟词僻义】①“售得”（尤指拍卖中）：The painting fetched a high price.（这幅画卖得了高价。）②“吸引”：The show fetched a large audience.（演出吸引了大量观众。）",
+        "examUsage": "【真题考点】fetch常与go连用构成go fetch（去取），但考研中更常考其“售得”义，如：The goods fetched only half their original price.（货物只卖得原价的一半。）注意与bring（带来，强调方向向说话者）和take（带走，方向远离）的辨析。"
+      }
+    },
+    {
+      "id": "feudal",
+      "word": "feudal",
+      "phonetic": "/'fju:dl/",
+      "meaning": "a.封建的;封地的;领地的",
+      "similar": [
+        "medal",
+        "pedal"
+      ],
+      "question": {
+        "wordId": "feudal",
+        "stem": "选择 \"feudal\" 的正确中文意思：",
+        "correct": "a.封建的;封地的;领地的",
+        "options": [
+          "a.封建的;封地的;领地的",
+          "n.奖章,勋章,纪念章",
+          "n.踏板 v.踩踏板,骑自行车",
+          "n.(encyclopaedia)百科全书"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "feudal源自拉丁语feodum‘封地’，核心动作是‘封地授予与效忠关系’。feud-（封地）+ -al（形容词后缀）→‘与封地相关的’→封建的。",
+        "similarWarning": "medal（奖章，m-金属） vs pedal（踏板，ped-脚） vs feudal（封建的，feud-封地）。差异在于首字母m/p/feu-，词根不同。",
+        "extendedMeaning": "在考研中可引申为‘陈旧的、保守的’（如feudal mindset封建思想），但此义较少直接考到，更常见是历史语境。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fever",
+      "word": "fever",
+      "phonetic": "/'fi:və/",
+      "meaning": "n.发热,狂热",
+      "similar": [
+        "lever",
+        "forever",
+        "clever",
+        "severe",
+        "eve",
+        "fee",
+        "beer",
+        "deer"
+      ],
+      "question": {
+        "wordId": "fever",
+        "stem": "选择 \"fever\" 的正确中文意思：",
+        "correct": "n.发热,狂热",
+        "options": [
+          "n.发热,狂热",
+          "n.杆,杠杆,手段,途径,工具",
+          "adv.(for ever)永远；总是",
+          "a.聪明的,伶俐的,机敏的,精巧的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语'fefer'，源自拉丁语'febris'，本义为'发热'。核心物理动作是身体温度异常升高，引申为'狂热'，指情绪或状态的极度高涨，如'fever pitch'（极度兴奋）。",
+        "similarWarning": "形近词：ever（adv.永远）、lever（n.杠杆）、never（adv.从不）、forever（adv.永远）、clever（adj.聪明的）、severe（adj.严重的）、eve（n.前夕）、fee（n.费用）。差异点：fever以'f'开头，'ever'无'f'；与'lever'相比，'fever'无'l'；与'severe'相比，'fever'无's'且结尾不同。",
+        "extendedMeaning": "熟词僻义：在考研外刊中，'fever'可指'（疾病的）发热期'或'（社会现象的）狂热状态'，如'gold fever'（淘金热）或'election fever'（选举狂热），非字面体温升高。",
+        "examUsage": "真题考点：常与'pitch'搭配为'fever pitch'（极度兴奋/狂热状态），如'Public excitement reached fever pitch.'（公众兴奋达到狂热顶点）。注意区分'fever'与'febrile'（发热的，狂热的）在学术语境中的互换使用。"
+      }
+    },
+    {
+      "id": "fiber",
+      "word": "fiber",
+      "phonetic": "/faɪbə/",
+      "meaning": "n.(fibre)纤维;构造;纤维制品",
+      "similar": [
+        "filter",
+        "finger",
+        "timber",
+        "file",
+        "five",
+        "fever",
+        "liner",
+        "liver"
+      ],
+      "question": {
+        "wordId": "fiber",
+        "stem": "选择 \"fiber\" 的正确中文意思：",
+        "correct": "n.(fibre)纤维;构造;纤维制品",
+        "options": [
+          "n.木材,木料",
+          "n.(fibre)纤维;构造;纤维制品",
+          "n.手指;指状物;指针",
+          "n.滤器,滤纸"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语fibra（纤维、细丝），原指动物或植物体内的细丝状结构，核心物理动作为“细长、柔韧的丝状物”，引申为“构造、质地”",
+        "similarWarning": "fiber vs filter: fiber含字母b（细丝），filter含字母l（过滤）; fiber vs finger: finger有字母n（手指），fiber无n",
+        "extendedMeaning": "【高分引申】① 构造/质地：the moral fiber of society（社会的道德构造）② 纤维制品：synthetic fiber（合成纤维）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fiction",
+      "word": "fiction",
+      "phonetic": "/'fikʃən/",
+      "meaning": "n.虚构,编造;小说",
+      "similar": [
+        "friction",
+        "fraction",
+        "function",
+        "action",
+        "auction",
+        "section",
+        "affection",
+        "dictation"
+      ],
+      "question": {
+        "wordId": "fiction",
+        "stem": "选择 \"fiction\" 的正确中文意思：",
+        "correct": "n.虚构,编造;小说",
+        "options": [
+          "n.功能,作用;(pl.)职务;函数 v.起作用",
+          "n.碎片,小部分,一点儿;分数",
+          "n.虚构,编造;小说",
+          "n.磨擦,摩擦力"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根fict-（塑造，制作），来自拉丁语fingere（塑造，虚构），-ion名词后缀。本义为“被塑造出来的东西”，引申为“虚构”或“编造”，在文学中指“小说”（虚构的故事）。",
+        "similarWarning": "friction（摩擦）与fiction差一个r，friction来自fric-（摩擦）；fraction（分数，部分）差一个a，来自fract-（打破）；function（功能）差一个u，来自fung-（执行）。",
+        "extendedMeaning": "在考研阅读中，fiction常引申为“虚构的事实”或“假设”，如legal fiction（法律拟制），指法律上假定为真但实际可能不存在的概念。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fierce",
+      "word": "fierce",
+      "phonetic": "/fiəs/",
+      "meaning": "a.凶猛的,残忍的;狂热的,强烈的",
+      "similar": [
+        "pierce",
+        "fence",
+        "niece"
+      ],
+      "question": {
+        "wordId": "fierce",
+        "stem": "选择 \"fierce\" 的正确中文意思：",
+        "correct": "a.凶猛的,残忍的;狂热的,强烈的",
+        "options": [
+          "n.篱笆;围栏;剑术 v.用篱笆瓦围住;击剑",
+          "n.侄女,甥女",
+          "v.剌穿,刺破",
+          "a.凶猛的,残忍的;狂热的,强烈的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自拉丁语ferus（野生的、未驯服的），核心动作意象是“未驯服的野性”，引申为凶猛的、强烈的。",
+        "similarWarning": "pierce（刺穿）：p-像尖刺，强调穿透动作；fierce强调凶猛状态。fire（火）：fierce与fire发音相近，但fire是名词/动词，fierce是形容词。fence（栅栏）：fierce与fence仅差一个字母，但fence是名词，指围栏。force（力量）：fierce与force拼写相似，但force强调外力，fierce强调凶猛程度。",
+        "extendedMeaning": "考研中常考“狂热的、强烈的”，如fierce competition（激烈竞争）、fierce debate（激烈辩论），用于描述抽象对抗的强度。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fifteen",
+      "word": "fifteen",
+      "phonetic": "/'fifti:n/",
+      "meaning": "num.十五 pron./a.十五(个，只...)",
+      "similar": [
+        "eighteen",
+        "fourteen",
+        "nineteen",
+        "thirteen"
+      ],
+      "question": {
+        "wordId": "fifteen",
+        "stem": "选择 \"fifteen\" 的正确中文意思：",
+        "correct": "num.十五 pron./a.十五(个，只...)",
+        "options": [
+          "num.十五 pron./a.十五(个，只...)",
+          "num./a.十九 pron.十九(个，只...)",
+          "num.十八，十八个",
+          "num.十四，十四个"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "fifteen 源自中古英语 fiftene，由 five（五）与 -teen（表示十的后缀）组合而成，核心物理动作为“五加十”，即数字15的计数单位。",
+        "similarWarning": "形近词辨析：eighteen（十八）、fourteen（十四）、nineteen（十九）、thirteen（十三）。这些词均以 -teen 结尾，区别在于前缀数字部分：fif-（五）vs eight-（八）vs four-（四）vs nine-（九）vs thir-（三）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fifty",
+      "word": "fifty",
+      "phonetic": "/'fifti/",
+      "meaning": "num.五十，五十个",
+      "similar": [
+        "fit",
+        "fist",
+        "gift",
+        "lift",
+        "pity",
+        "dirty",
+        "forty",
+        "lofty"
+      ],
+      "question": {
+        "wordId": "fifty",
+        "stem": "选择 \"fifty\" 的正确中文意思：",
+        "correct": "num.五十，五十个",
+        "options": [
+          "n.礼品,赠品;天赋,才能",
+          "n.拳头 vt.用拳头打；紧握",
+          "a.(病的)发作，痉挛 v./a.n.合适,试穿,安装",
+          "num.五十，五十个"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *fimf tigiwiz，意为“五个十”。fif- 是 five 的变体，-ty 表示“十”。核心动作是“五乘以十”，构成数字50。",
+        "similarWarning": "形近词辨析：\n- fit（适合）：fifty 多了字母 y，且词义完全不同。\n- city（城市）：fifty 以 f 开头，city 以 c 开头，注意首字母差异。\n- fist（拳头）：fifty 中间是 t，fist 是 s，且词义无关。\n- gift（礼物）：gift 首字母 g，fifty 首字母 f，注意区分。\n- lift（举起）：lift 首字母 l，fifty 首字母 f，且词义不同。\n- pity（同情）：pity 首字母 p，fifty 首字母 f，注意拼写。\n- dirty（脏的）：dirty 首字母 d，且中间是 r，fifty 是 f 和 t。\n- forty（四十）：拼写相似，但 forty 是 for- 开头，fifty 是 fif- 开头，注意元音变化。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "figure",
+      "word": "figure",
+      "phonetic": "/'figə/",
+      "meaning": "n.体形;轮廓;数字;图形v.描绘;计算;推测",
+      "similar": [
+        "failure",
+        "fixture"
+      ],
+      "question": {
+        "wordId": "figure",
+        "stem": "选择 \"figure\" 的正确中文意思：",
+        "correct": "n.体形;轮廓;数字;图形v.描绘;计算;推测",
+        "options": [
+          "n.固定设备;预定日期;比赛时间;定期存款",
+          "a.自发的,自然产生的",
+          "n.体形;轮廓;数字;图形v.描绘;计算;推测",
+          "n.失败,不及格;失败者;故障,失灵;未能"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 figura（形状、形式、图形），与 fingere（塑造、制作）同源。核心物理动作为“塑造出形状”，引申为可见的轮廓、体形、数字图形及思维上的描绘与推测。",
+        "similarWarning": "failure（失败）、fixture（固定装置）、fire（火）、future（未来）。figure 核心在“形”，failure 在“败”，fixture 在“固”，fire 在“火”，future 在“未”。",
+        "extendedMeaning": "在考研中常考“人物（尤指重要人物）”，如 public figure（公众人物）；或“数字”义在图表题中高频出现，如 figure out（弄清楚）为阅读核心短语。",
+        "examUsage": "figure out 为真题高频短语，意为“理解、弄清楚”，常作为解题题眼。例如：It took him a while to figure out the problem.（他花了一会儿才弄明白这个问题。）"
+      }
+    },
+    {
+      "id": "file",
+      "word": "file",
+      "phonetic": "/faɪl/",
+      "meaning": "n.锉刀;文件,档案 v.锉",
+      "similar": [
+        "fill",
+        "film",
+        "five",
+        "mile",
+        "pile",
+        "tile",
+        "filter",
+        "futile"
+      ],
+      "question": {
+        "wordId": "file",
+        "stem": "选择 \"file\" 的正确中文意思：",
+        "correct": "n.锉刀;文件,档案 v.锉",
+        "options": [
+          "num.五 pron./a.五(个，只...)",
+          "v.(with)填满,充满",
+          "n.锉刀;文件,档案 v.锉",
+          "n.电影；胶片；薄膜，薄层 vt.把..拍成电影"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'filum'（线），引申为将文件按顺序串在一起的'线装文件'。核心动作：用锉刀来回摩擦（动词）或整理归档（名词）。",
+        "similarWarning": "fill（填充，i与l互换）、pile（堆，p替换f）、tile（瓷砖，t替换f）",
+        "extendedMeaning": "考研僻义：'file'作动词时，可表'提出（申请、诉讼）'，如'file a lawsuit'（提起诉讼）。",
+        "examUsage": "真题考点：'on file'（存档）在真题中常作为固定搭配出现，如'keep records on file'（保存记录）。"
+      }
+    },
+    {
+      "id": "fill",
+      "word": "fill",
+      "phonetic": "/fil/",
+      "meaning": "v.(with)填满,充满",
+      "similar": [
+        "bill",
+        "fell",
+        "file",
+        "film",
+        "kill",
+        "mill",
+        "pill",
+        "till"
+      ],
+      "question": {
+        "wordId": "fill",
+        "stem": "选择 \"fill\" 的正确中文意思：",
+        "correct": "v.(with)填满,充满",
+        "options": [
+          "n.锉刀;文件,档案 v.锉",
+          "v.(with)填满,充满",
+          "n.账单;招贴,广告;(人员,职称等的)表;钞票",
+          "v.击倒;打倒(疾病等);砍伐a.凶猛的;可怕的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "fill源自原始日耳曼语*fulljan，意为“使变满”，核心动作是“注入或添加物质使容器或空间不再有空隙”。词根与full（满的）同源，逻辑为“full+动词化后缀-ian”，即“使成为满的状态”。",
+        "similarWarning": "fill vs. file：fill为“填充”，file为“归档/锉刀”，差异在l与le结尾。fill vs. fell：fill为“填满”，fell为“砍倒/fall的过去式”，前者双l，后者单l。fill vs. full：fill是动词，full是形容词“满的”，拼写差一个字母。",
+        "extendedMeaning": "fill在考研中常考“填补（空缺/时间）”，如fill the vacancy（填补职位空缺）、fill the time（消磨时间）。此外，fill in可引申为“临时替代”，fill out表“填写（表格）”。",
+        "examUsage": "fill的考点主要见于搭配fill in/out，真题中常与complete, replace同义替换。例如：He filled in for the manager.（他暂代经理职务。）"
+      }
+    },
+    {
+      "id": "film",
+      "word": "film",
+      "phonetic": "/film/",
+      "meaning": "n.电影；胶片；薄膜，薄层 vt.把..拍成电影",
+      "similar": [
+        "file",
+        "fill",
+        "firm"
+      ],
+      "question": {
+        "wordId": "film",
+        "stem": "选择 \"film\" 的正确中文意思：",
+        "correct": "n.电影；胶片；薄膜，薄层 vt.把..拍成电影",
+        "options": [
+          "a.坚固的;坚决的,坚定的 n.公司,商号",
+          "v.(with)填满,充满",
+          "n.电影；胶片；薄膜，薄层 vt.把..拍成电影",
+          "n.锉刀;文件,档案 v.锉"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"源自原始日耳曼语*filmin-（薄膜，薄皮）。物理动作：薄膜覆盖。核心演变：薄膜→胶片（摄影感光薄膜）→电影（胶片记录的动态影像）。\",\n  \"similarWarning\": \"file（文件；锉刀） vs film：file结尾-le表工具/集合，film结尾-m表薄层。fill（填充） vs film：fill双ll表重复动作\"填充\"，film单l表\"覆盖\"的薄层。firm（坚固的；公司） vs film：firm结尾-m表\"固定\"状态（如form），film表\"可弯曲的薄层\"。field（田地；领域） vs film：field结尾-ld表\"开阔地",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "filter",
+      "word": "filter",
+      "phonetic": "/filtə/",
+      "meaning": "n.滤器,滤纸",
+      "similar": [
+        "file",
+        "alter",
+        "fiber",
+        "bitter",
+        "finger",
+        "foster",
+        "litter"
+      ],
+      "question": {
+        "wordId": "filter",
+        "stem": "选择 \"filter\" 的正确中文意思：",
+        "correct": "n.滤器,滤纸",
+        "options": [
+          "n.锉刀;文件,档案 v.锉",
+          "n.滤器,滤纸",
+          "vt.改变，更改；改做(衣服) vi.改变，变化",
+          "n.(fibre)纤维;构造;纤维制品"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语“filtrum”（毛毡），古代用毛毡制作过滤器。核心动作是“让液体通过多孔材料分离杂质”，引申为筛选、过滤。",
+        "similarWarning": "filter vs file（文件/锉刀），filter vs alter（改变），filter vs fiber（纤维），filter vs bitter（苦的），filter vs finger（手指），filter vs foster（培养），filter vs litter（垃圾），filter vs silver（银）。拼写差异主要在字母组合不同，词义无关。",
+        "extendedMeaning": "考研僻义：v. 筛选（信息、数据），如filter out irrelevant data；n. 滤镜（摄影/软件），如apply a filter to the image。",
+        "examUsage": "真题考点：filter作动词时常见搭配filter through（逐渐传开），如The news filtered through the office. 干扰项常与eliminate混淆，filter侧重逐步分离，eliminate侧重彻底移除。"
+      }
+    },
+    {
+      "id": "finance",
+      "word": "finance",
+      "phonetic": "/fai'næns/",
+      "meaning": "n.财政,金融 v.为…提供资金",
+      "similar": [
+        "financial",
+        "distance",
+        "guidance",
+        "instance",
+        "nuisance"
+      ],
+      "question": {
+        "wordId": "finance",
+        "stem": "选择 \"finance\" 的正确中文意思：",
+        "correct": "n.财政,金融 v.为…提供资金",
+        "options": [
+          "n.引导,指导",
+          "n.距离,间隔,远方,路程",
+          "a.财政的,金融的",
+          "n.财政,金融 v.为…提供资金"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语finis（终点），引申为金钱的终结、清偿，即结算债务或完成交易。fin-（终点）+ -ance（名词后缀），核心动作为“结清、完成支付”，后泛指管理钱财的体系（财政）或提供资金的行为。",
+        "similarWarning": "financial（金融的，形容词） vs finance（名词/动词，财政/融资）；distance（距离）中dis-表分离，与fin-无关；guidance（指导）中guid-表引导；instance（实例）中in-表在，st-表站立；nuisance（讨厌的人/事）中nuis-表伤害。拼写差异：finance有fin-（终点），其他词无此词根。",
+        "extendedMeaning": "在考研中常考“为…提供资金”的动词用法，如finance a project（资助项目）；此外，在经济学语境中可指“融资”或“资金筹措”，非普通“财政”。",
+        "examUsage": "真题考点：finance常与fund、capital同义替换，如“finance the expansion”（为扩张融资）。干扰项中常出现financial（形容词）混淆动词用法。固定搭配：finance department（财务部），但更高级考法为“raise finance”（筹集资金）或“finance through debt”（债务融资）。"
+      }
+    },
+    {
+      "id": "financial",
+      "word": "financial",
+      "phonetic": "/fai'nænʃəl/",
+      "meaning": "a.财政的,金融的",
+      "similar": [
+        "finance"
+      ],
+      "question": {
+        "wordId": "financial",
+        "stem": "选择 \"financial\" 的正确中文意思：",
+        "correct": "a.财政的,金融的",
+        "options": [
+          "vt.注射(药液等)；注入",
+          "n.财政,金融 v.为…提供资金",
+          "v.(使)弯曲;屈从,屈服 n.弯曲(处),曲折处",
+          "a.财政的,金融的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 finire（结束，终结），通过 finance（财政，金融）派生。财政/金融的本质是“终结交易、结清账目”的动作，-ial为形容词后缀，表示“与…相关的”。",
+        "similarWarning": "finish（完成）：结尾为-ish，强调动作的结束；financial结尾为-ial，强调属性。finical（挑剔的）：拼写多一个c，词义完全不同。",
+        "extendedMeaning": "考研中常引申为“财务上的、资金层面的”，如 financial crisis（金融危机）中的 crisis 才是题眼，但 financial 本身可作定语强调资金属性。注意在经济学人中常见 financial sector（金融部门）的固定用法。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "finding",
+      "word": "finding",
+      "phonetic": "/'faindiŋ/",
+      "meaning": "n.发现,发现物;(常pl.)调查/研究结果",
+      "similar": [
+        "ending",
+        "fitting",
+        "building"
+      ],
+      "question": {
+        "wordId": "finding",
+        "stem": "选择 \"finding\" 的正确中文意思：",
+        "correct": "n.发现,发现物;(常pl.)调查/研究结果",
+        "options": [
+          "n.建筑(物)，房屋，大楼 [同]structure",
+          "a.适当的,恰当的 n.(常pl.)配件,附件;装配",
+          "n.结尾,结局",
+          "n.发现,发现物;(常pl.)调查/研究结果"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "find（找到）+ -ing（动名词后缀）→ 找到的动作或结果 → 发现物；调查/研究结果。本源为物理动作“发现”的名词化。",
+        "similarWarning": "ending（结尾）vs finding：end（结束）→ 结尾；find（发现）→ 发现。fitting（合适的；试穿）vs finding：fit（适合）→ 形容词/名词；find（发现）→ 名词。building（建筑）vs finding：build（建造）→ 建筑；find（发现）→ 发现物。painting（绘画）vs finding：paint（绘画）→ 绘画作品；find（发现）→ 发现物。",
+        "extendedMeaning": "考研中常指“（法庭的）裁决、判定”或“（研究的）结论、结果”，如 research findings（研究发现）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "finger",
+      "word": "finger",
+      "phonetic": "/'fiŋgə/",
+      "meaning": "n.手指;指状物;指针",
+      "similar": [
+        "linger",
+        "anger",
+        "fiber",
+        "hinge",
+        "infer",
+        "inner",
+        "liner",
+        "tiger"
+      ],
+      "question": {
+        "wordId": "finger",
+        "stem": "选择 \"finger\" 的正确中文意思：",
+        "correct": "n.手指;指状物;指针",
+        "options": [
+          "n.手指;指状物;指针",
+          "v.逗留,徘徊,拖延,留恋,浪费光阴,苟延残喘",
+          "n.(fibre)纤维;构造;纤维制品",
+          "n.愤怒，气愤 vt.使发怒，激怒 vi.发怒"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "指词根*penkwe-（五）的变体，因一只手有五根手指。核心动作是‘伸出、指示’，finger即‘用来指示或抓握的细长肢体’。",
+        "similarWarning": "linger（逗留）：与finger仅差首字母l，指‘徘徊不去’。fine（好的）：与finger差字母r，指‘精细的’。anger（愤怒）：与finger差字母f，指‘生气’。fiber（纤维）：与finger差字母r，指‘细丝’。hinge（铰链）：与finger差字母f，指‘连接点’。infer（推断）：与finger差字母f，指‘推理’。inner（内部的）：与finger差字母f，指‘里面的’。liner（衬垫）：与finger差字母f，指‘内衬’。",
+        "extendedMeaning": "指针（钟表/仪表的指示部件，如hour finger时针）。指状物（如finger of land地岬）。",
+        "examUsage": "常用搭配：keep one's fingers crossed（祝好运，真题中出现于阅读理解，表期盼）。point a finger at（指责，用于议论文写作）。"
+      }
+    },
+    {
+      "id": "finish",
+      "word": "finish",
+      "phonetic": "/'finiʃ/",
+      "meaning": "n.完成;结束;磨光 v.完成;结束;用完;毁掉",
+      "similar": [
+        "furnish",
+        "finite",
+        "punish",
+        "vanish",
+        "diminish"
+      ],
+      "question": {
+        "wordId": "finish",
+        "stem": "选择 \"finish\" 的正确中文意思：",
+        "correct": "n.完成;结束;磨光 v.完成;结束;用完;毁掉",
+        "options": [
+          "v.惩罚,处罚",
+          "a.有限的；[数]有穷的,限定的",
+          "v.供应,提供;装备,布置",
+          "n.完成;结束;磨光 v.完成;结束;用完;毁掉"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "finish源自拉丁语finire（结束），词根fin-（边界、结束）。核心动作是“达到边界”，即完成或结束。磨光义引申自“完成表面处理”，毁掉义则来自“终结生命或功能”。",
+        "similarWarning": "furnish（提供，装修）与finish拼写仅差ur vs in；finite（有限的）共享fin-但强调界限而非动作；punish（惩罚）拼写类似但词源无关。",
+        "extendedMeaning": "在考研中，finish常考“用完”义，如finish off（彻底吃完/毁掉）；磨光义在技术类阅读中出现，如finish the surface（精加工表面）。",
+        "examUsage": "真题考点：finish up（结束/完成），如finish up the report；finish with（与…断绝关系/用完），如Have you finished with the scissors? 干扰项常与complete混淆，但finish侧重终结动作，complete侧重整体完成度。"
+      }
+    },
+    {
+      "id": "finite",
+      "word": "finite",
+      "phonetic": "/'fainait/",
+      "meaning": "a.有限的；[数]有穷的,限定的",
+      "similar": [
+        "definite",
+        "infinite",
+        "unite",
+        "finish",
+        "ignite",
+        "invite",
+        "feminine",
+        "minister"
+      ],
+      "question": {
+        "wordId": "finite",
+        "stem": "选择 \"finite\" 的正确中文意思：",
+        "correct": "a.有限的；[数]有穷的,限定的",
+        "options": [
+          "a.无限的,无穷的 n.无限",
+          "a.明确的;一定的;意志坚强的,立场坚定的",
+          "vi.联合,团结;统一,合并vt.使联合",
+          "a.有限的；[数]有穷的,限定的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根fin-（界限） + -ite（形容词后缀）= 有界限的 → 有限的。核心物理动作：划定一个界限，不能超越。",
+        "similarWarning": "definite（de-下 + fin-界限 + -ite → 下界限的 → 明确的）：强调清晰确定；infinite（in-无 + finite → 无限的）：与finite反义。",
+        "extendedMeaning": "在考研阅读中可引申为“限定的、受约束的”，如finite resources（有限的资源）中的抽象含义。",
+        "examUsage": "真题考点：常与infinite对比考查，如选项干扰中“finite”与“infinite”的区分；搭配“finite number”（有限数量）在数学类阅读中出现。"
+      }
+    },
+    {
+      "id": "fireman",
+      "word": "fireman",
+      "phonetic": "/'faiəmən/",
+      "meaning": "n.消防队员",
+      "similar": [
+        "fisherman"
+      ],
+      "question": {
+        "wordId": "fireman",
+        "stem": "选择 \"fireman\" 的正确中文意思：",
+        "correct": "n.消防队员",
+        "options": [
+          "n.消防队员",
+          "n.渔夫，捕鱼人",
+          "v.笑;(on)讥笑 n.笑,笑声",
+          "a.平行的,相同的,类似的n.平行线,类似,对比"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由fire（火）和man（人）组合而成，字面意思为“与火相关的人”，即消防员。fire源自原始日耳曼语fūr，man源自原始印欧语man-（人类），组合后直接指代从事灭火工作的人。",
+        "similarWarning": "fisherman（渔民）：fireman vs fisherman，差异在fire（火）与fish（鱼），词义由“火中救人”与“水中捕鱼”形成鲜明对比。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fireplace",
+      "word": "fireplace",
+      "phonetic": "/'faiəpleis/",
+      "meaning": "n.壁炉",
+      "similar": [
+        "replace",
+        "displace"
+      ],
+      "question": {
+        "wordId": "fireplace",
+        "stem": "选择 \"fireplace\" 的正确中文意思：",
+        "correct": "n.壁炉",
+        "options": [
+          "prep.加上 a.正的,加的 n.加号,正号",
+          "n.壁炉",
+          "vt.取代,替换,代替,把...放回原处",
+          "v.移置,转移;取代,置换"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "fire（火）+ place（地方）→ 生火的地方，即壁炉。",
+        "similarWarning": "replace（re-回 + place 放置 → 放回原位 → 代替；replace vs fireplace: replace 前缀 re- 表‘回’，fireplace 前缀 fire 表‘火’）；displace（dis-离开 + place 放置 → 移走 → 取代；displace vs fireplace: displace 前缀 dis- 表‘离开’，fireplace 前缀 fire 表‘火’）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "firm",
+      "word": "firm",
+      "phonetic": "/'fə:m/",
+      "meaning": "a.坚固的;坚决的,坚定的 n.公司,商号",
+      "similar": [
+        "farm",
+        "film",
+        "form",
+        "affirm",
+        "fairy",
+        "forum"
+      ],
+      "question": {
+        "wordId": "firm",
+        "stem": "选择 \"firm\" 的正确中文意思：",
+        "correct": "a.坚固的;坚决的,坚定的 n.公司,商号",
+        "options": [
+          "n.电影；胶片；薄膜，薄层 vt.把..拍成电影",
+          "n.农场,饲养场 v.种田,经营农牧业",
+          "a.坚固的;坚决的,坚定的 n.公司,商号",
+          "n.形状,形式;表格 v.组成,构成;形成"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语firmus（坚固、稳定），核心动作是“固定不动”。a.坚固的、坚定的，从物理上的稳固引申到意志上的坚定；n.公司，源于商业合伙关系中的“稳固联合体”概念。",
+        "similarWarning": "farm（农场，a→农场动物）vs film（薄膜，i→胶片）vs firm（公司，i→固定）vs form（形状，o→模式）。关键区别：firm含“固定”义，form含“形状”义。",
+        "extendedMeaning": "考研僻义：作动词，意为“使坚固、使稳定”，如firm up（加固、确定）；作副词，意为“坚定地”，如stand firm（立场坚定）。",
+        "examUsage": "真题考点：常考搭配“firm belief”（坚定信念）、“firm evidence”（确凿证据）、“firm up plans”（敲定计划）。干扰项常与form（形成）混淆，注意词义侧重。"
+      }
+    },
+    {
+      "id": "fisherman",
+      "word": "fisherman",
+      "phonetic": "/'fiʃəmən/",
+      "meaning": "n.渔夫，捕鱼人",
+      "similar": [
+        "fireman"
+      ],
+      "question": {
+        "wordId": "fisherman",
+        "stem": "选择 \"fisherman\" 的正确中文意思：",
+        "correct": "n.渔夫，捕鱼人",
+        "options": [
+          "n.渔夫，捕鱼人",
+          "n.(neighbour)邻居",
+          "n.消防队员",
+          "a.愚蠢的,迟钝的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "fish（鱼）+ er（做某事的人）+ man（人），核心动作是“捕鱼的人”，即渔夫。",
+        "similarWarning": "fireman（消防员）与fisherman仅首字母不同（fire vs fish），注意区分：fireman救火，fisherman捕鱼。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fist",
+      "word": "fist",
+      "phonetic": "/fɪst/",
+      "meaning": "n.拳头 vt.用拳头打；紧握",
+      "similar": [
+        "fit",
+        "mist",
+        "exist",
+        "faint",
+        "feast",
+        "fifty",
+        "frost",
+        "hoist"
+      ],
+      "question": {
+        "wordId": "fist",
+        "stem": "选择 \"fist\" 的正确中文意思：",
+        "correct": "n.拳头 vt.用拳头打；紧握",
+        "options": [
+          "n.拳头 vt.用拳头打；紧握",
+          "a.(病的)发作，痉挛 v./a.n.合适,试穿,安装",
+          "v.存在;生存;生活",
+          "n.薄雾,霭"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语fyst，与拉丁语pugnus（拳头）同源，词根fist-表“握紧、击打”。核心动作：五指紧握成团，形成攻击或抓握的物理形态。",
+        "similarWarning": "first（第一，先）：fist多字母s，first含r表序数；fit（适合）：fist含s表拳头，fit无s表适配；fast（快的）：fist含i表拳头，fast含a表速度；fish（鱼）：fist含t表拳，fish含h表鱼；list（列表）：fist含f表拳，list含l表清单；mist（薄雾）：fist含f表拳，mist含m表雾；exist（存在）：fist含f表拳，exist含ex-前缀；faint（模糊的）：fist含s表拳，faint含a表虚弱。",
+        "extendedMeaning": "熟词僻义：在考研阅读中可引申为“支配力、控制力”，如“iron fist”（铁腕统治），或“clench one's fist”（握拳表示决心/愤怒），非字面物理动作。",
+        "examUsage": "真题考点：常与“clench”搭配（clench one's fist，握紧拳头）表情绪强烈；或“shake one's fist”（挥拳）表威胁，干扰项常设“first”混淆。"
+      }
+    },
+    {
+      "id": "fit",
+      "word": "fit",
+      "phonetic": "/'fit/",
+      "meaning": "a.(病的)发作，痉挛 v./a.n.合适,试穿,安装",
+      "similar": [
+        "fist",
+        "fix",
+        "hit",
+        "kit",
+        "pit",
+        "wit",
+        "faint",
+        "faith"
+      ],
+      "question": {
+        "wordId": "fit",
+        "stem": "选择 \"fit\" 的正确中文意思：",
+        "correct": "a.(病的)发作，痉挛 v./a.n.合适,试穿,安装",
+        "options": [
+          "n.拳头 vt.用拳头打；紧握",
+          "a.(病的)发作，痉挛 v./a.n.合适,试穿,安装",
+          "v.(使)固定;修理;安装;决定;注视 n.困境",
+          "v.打,击;碰撞 n.击中;成功而风行一时的事物"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "fit 本义为“使适应、适合”，源自原始日耳曼语 *fitjan（编织、固定），核心动作是“将某物放入合适的位置使其吻合”。由此引申为“安装”（使部件吻合）、“试穿”（使衣服吻合身体）、“合适的”（状态吻合）、“病的发作”（疾病突然“适合”身体，即突然降临）。",
+        "similarWarning": "fit vs. fist（拳头）：fit 无 s，fist 有 s 像握拳的指节。fit vs. fat（脂肪）：i/a 元音差异，fit 适合，fat 胖。fit vs. fix（固定）：fix 有 x 表示“钉住”，fit 是“吻合”。",
+        "extendedMeaning": "n. 一阵，突发（尤指疾病或情绪）：a fit of anger（一阵愤怒）、a fit of coughing（一阵咳嗽）。v. 使胜任，使合格：fit sb. for a job（使某人胜任工作）。",
+        "examUsage": "常考搭配：fit in (with)（与……适应/协调），如：He didn't fit in with the group. 真题中常考 fit 作为“适合”的动词用法，注意其过去式/过去分词 fitted（英式）或 fit（美式），以及短语 keep fit（保持健康）作形容词。"
+      }
+    },
+    {
+      "id": "fitting",
+      "word": "fitting",
+      "phonetic": "/'fitiŋ/",
+      "meaning": "a.适当的,恰当的 n.(常pl.)配件,附件;装配",
+      "similar": [
+        "finding",
+        "setting"
+      ],
+      "question": {
+        "wordId": "fitting",
+        "stem": "选择 \"fitting\" 的正确中文意思：",
+        "correct": "a.适当的,恰当的 n.(常pl.)配件,附件;装配",
+        "options": [
+          "n.害虫",
+          "a.适当的,恰当的 n.(常pl.)配件,附件;装配",
+          "n.发现,发现物;(常pl.)调查/研究结果",
+          "n.安置;落山;(固定东西的)柜架底座;环境"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "fit（适合）+ -ing（形容词/名词后缀）→ 适合的、配件。核心动作：使某物与另一物在尺寸、功能或情境上匹配。",
+        "similarWarning": "finding（发现）：find（找到）+ -ing，强调结果；fitting（配件/适合）：fit（适合）+ -ing，强调匹配。setting（设置/环境）：set（放置）+ -ing，侧重背景或配置；painting（绘画）：paint（画）+ -ing，侧重动作或作品。",
+        "extendedMeaning": "（在考研中无特殊僻义，该词释义直接明确）",
+        "examUsage": "（在考研中无特殊考点，该词常作为基础词汇出现在阅读或完形中，无经典干扰项）"
+      }
+    },
+    {
+      "id": "five",
+      "word": "five",
+      "phonetic": "/faiv/",
+      "meaning": "num.五 pron./a.五(个，只...)",
+      "similar": [
+        "dive",
+        "file",
+        "live",
+        "alive",
+        "fever",
+        "fiber",
+        "liver",
+        "naive"
+      ],
+      "question": {
+        "wordId": "five",
+        "stem": "选择 \"five\" 的正确中文意思：",
+        "correct": "num.五 pron./a.五(个，只...)",
+        "options": [
+          "v./n.潜水,跳水,俯冲",
+          "v.活着,生活,居住 a.活的,生动的,直播的",
+          "num.五 pron./a.五(个，只...)",
+          "n.锉刀;文件,档案 v.锉"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *fimfe，与拉丁语 quinque 同源，核心物理动作是手掌五指张开计数，表示数字5。",
+        "similarWarning": "dive（v.潜水） vs five：首字母 d 替换 f；file（n.文件） vs five：中间字母 l 替换 v；fine（adj.好的） vs five：末尾字母 ne 替换 ve；fire（n.火） vs five：末尾字母 re 替换 ve；give（v.给予） vs five：首字母 g 替换 f；live（v.生活） vs five：首字母 l 替换 f；alive（adj.活着的） vs five：前缀 a- 加 live；drive（v.驾驶） vs five：首字母 dr 替换 f，末尾加 ve。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "fix",
+      "word": "fix",
+      "phonetic": "/fiks/",
+      "meaning": "v.(使)固定;修理;安装;决定;注视 n.困境",
+      "similar": [
+        "fax",
+        "fit",
+        "fox",
+        "mix",
+        "six"
+      ],
+      "question": {
+        "wordId": "fix",
+        "stem": "选择 \"fix\" 的正确中文意思：",
+        "correct": "v.(使)固定;修理;安装;决定;注视 n.困境",
+        "options": [
+          "a.(病的)发作，痉挛 v./a.n.合适,试穿,安装",
+          "n.狐狸",
+          "n./v.传真(机)",
+          "v.(使)固定;修理;安装;决定;注视 n.困境"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语figere（固定），核心物理动作是“使某物稳固不动”。由“固定”引申为“修理”（使损坏物恢复稳固）、“安装”（使部件稳固结合）、“决定”（使想法稳固）、“注视”（使视线固定）。名词“困境”源于“被固定在某处无法脱身”的比喻。",
+        "similarWarning": "fax（传真）：f替换为a，指通信方式；fit（适合）：i替换为a，指尺寸合适；fox（狐狸）：i替换为o，指动物；mix（混合）：f替换为m，指融合；six（六）：f替换为s，指数字。",
+        "extendedMeaning": "考研僻义：v.确定（时间/地点/价格），如fix a date（确定日期）；n.困境（多用于in a fix），如We're in a fix.（我们陷入困境。）",
+        "examUsage": "真题考点：固定搭配fix on/upon（选定，确定），如They fixed on the plan.（他们选定了计划。）干扰项常与repair（修理具体物件）混淆。"
+      }
+    },
+    {
+      "id": "fixture",
+      "word": "fixture",
+      "phonetic": "/'fikstʃə/",
+      "meaning": "n.固定设备;预定日期;比赛时间;定期存款",
+      "similar": [
+        "mixture",
+        "figure",
+        "feature",
+        "texture",
+        "fracture",
+        "moisture"
+      ],
+      "question": {
+        "wordId": "fixture",
+        "stem": "选择 \"fixture\" 的正确中文意思：",
+        "correct": "n.固定设备;预定日期;比赛时间;定期存款",
+        "options": [
+          "n.体形;轮廓;数字;图形v.描绘;计算;推测",
+          "n.混合;混合物,混合剂",
+          "n.特征;容貌;特色;特写 v.以...为特色",
+          "n.固定设备;预定日期;比赛时间;定期存款"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "fixture = fix（固定）+ -ture（名词后缀，表示物或状态）。核心动作是“固定”，即被固定下来的东西，引申为固定设备、预定的日期或比赛时间（时间被固定）、定期存款（资金被固定）。",
+        "similarWarning": "形近词对比：\n- mixture（mixture = mix混合 + -ture，混合物）\n- figure（figure = fig塑造 + -ure，数字/人物）\n- future（future = fut将来 + -ure，未来）\n- feature（feature = feat做 + -ure，特征）\n- picture（picture = pict画 + -ure，图片）\n- texture（texture = text编织 + -ure，质地）\n- fracture（fracture = fract打破 + -ure，骨折）\n- moisture（moisture = moist潮湿 + -ure，湿气）\n\n记忆技巧：fixture与mixture仅首字母不同，fixture强调“固定”，mixture强调“混合”。",
+        "extendedMeaning": "熟词僻义：在考研真题中，fixture可引申为“常客，固定成员”（指长期在某处的人或物）。例如：He is a fixture in the library.（他是图书馆的常客。）",
+        "examUsage": "真题考点：常考搭配“become a permanent fixture”（成为永久性固定设施/常客）。例句：The annual conference has become a permanent fixture on the company's calendar.（年度会议已成为公司日程上的固定项目。）"
+      }
+    },
+    {
+      "id": "flag",
+      "word": "flag",
+      "phonetic": "/flæg/",
+      "meaning": "n.旗",
+      "similar": [
+        "lag",
+        "flap",
+        "flat",
+        "flaw",
+        "flame",
+        "flare",
+        "flash",
+        "fling"
+      ],
+      "question": {
+        "wordId": "flag",
+        "stem": "选择 \"flag\" 的正确中文意思：",
+        "correct": "n.旗",
+        "options": [
+          "a.平坦的,扁平的,平淡的 n.一套房间;平面",
+          "n.旗",
+          "v./n.落后,滞后 vt.用隔热材料覆盖(锅炉等)",
+          "n.垂下物,帽沿,袋盖 n./v.拍打,拍动"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不确定，核心物理动作是“飘动或悬挂的布片”。flag 本义为“旗帜”，由一块布料系在杆上随风飘动，引申为象征或标志。",
+        "similarWarning": "lag（落后，延迟）、flap（拍打，飘动）、flat（平坦的）、flaw（缺陷，瑕疵）、flame（火焰）、flare（闪耀，突然烧起来）、flash（闪光，闪现）、fling（投掷，猛冲）。flag 与 flap 形似但不同义：flag 是静态的旗帜，flap 是动态的拍打动作。",
+        "extendedMeaning": "在考研中，flag 常作为动词使用，意为“减弱、衰退、倦怠”（如 interest flags 兴趣减退），或“标记、示意”（如 flag a problem 标记问题）。",
+        "examUsage": "真题考点：flag 作动词“衰弱”与 decline, wane 同义，常出现在完形或阅读中。如：The economy began to flag.（经济开始衰退。）注意与 flare（突然恶化）区分。"
+      }
+    },
+    {
+      "id": "flame",
+      "word": "flame",
+      "phonetic": "/fleim/",
+      "meaning": "n.火焰,火苗;热情;光辉 v.发火焰,燃烧",
+      "similar": [
+        "fame",
+        "lame",
+        "blame",
+        "flare",
+        "frame",
+        "fade",
+        "fake",
+        "fare"
+      ],
+      "question": {
+        "wordId": "flame",
+        "stem": "选择 \"flame\" 的正确中文意思：",
+        "correct": "n.火焰,火苗;热情;光辉 v.发火焰,燃烧",
+        "options": [
+          "a.跛的,(辩解、论据等)无说服力的",
+          "n.名声;名望;传说 vt使出名;传扬…的名",
+          "n.火焰,火苗;热情;光辉 v.发火焰,燃烧",
+          "v.责备;怪,把…归咎于 n.责任,过错;责备"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 flamma（火焰），与 flare（吹气）同源，原始动作是“吹出的火苗”，强调火舌的动态跳动感。",
+        "similarWarning": "fame（名声） vs flame：fame 无 l，flame 有 l；lame（跛的） vs flame：flame 有 f 开头；blame（责备） vs flame：blame 多 b 前缀。",
+        "extendedMeaning": "热情、激情（如 a flame of passion）；光辉（如 the flame of sunset）；在口语中可指情人（old flame）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "flap",
+      "word": "flap",
+      "phonetic": "/flæp/",
+      "meaning": "n.垂下物,帽沿,袋盖 n./v.拍打,拍动",
+      "similar": [
+        "lap",
+        "clap",
+        "flag",
+        "flat",
+        "flaw",
+        "slap",
+        "clasp",
+        "flame"
+      ],
+      "question": {
+        "wordId": "flap",
+        "stem": "选择 \"flap\" 的正确中文意思：",
+        "correct": "n.垂下物,帽沿,袋盖 n./v.拍打,拍动",
+        "options": [
+          "n.大腿,(跑道的)一圈,一段路程,工作阶段",
+          "n.垂下物,帽沿,袋盖 n./v.拍打,拍动",
+          "v.拍手,拍,轻拍 n.拍(手),掌声,霹雳声",
+          "n.旗"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模拟扁平物体快速拍打或摆动时发出的‘flap’声。核心物理动作是：一块扁平的、有弹性的物体（如布、翅膀、帽沿）一端固定，另一端在空中来回摆动或拍击。由此衍生出‘拍打’（如鸟拍翅）和‘垂下物’（如袋盖、帽沿，即可自由摆动的扁平部分）两种含义。",
+        "similarWarning": "lap（大腿/舔舐）、clap（鼓掌）、flag（旗帜/标记）、flat（平坦的）、flaw（瑕疵）、slap（掌掴）、clasp（扣紧/拥抱）、flame（火焰）。关键区别在于首字母和尾字母：flap 强调‘拍打’的拟声动作；flag 是静态的‘旗子’；flat 是形容词‘平的’；clap 是双手相击；slap 是掌击硬物；flaw 是名词‘缺点’；clasp 是‘扣住’；lap 是‘膝部’或‘舔’。",
+        "extendedMeaning": "（在考研真题中）作名词可指‘（飞机襟翼等）可活动的扁平部件’，如 wing flap（襟翼）；作动词可引申为‘激动、慌乱’（非正式，如 get in a flap 意为‘陷入慌乱’），但考研更常见的是其物理动作义。",
+        "examUsage": "（无特殊经典干扰项或核心题眼，省略。）"
+      }
+    },
+    {
+      "id": "flare",
+      "word": "flare",
+      "phonetic": "/fleə(r)/",
+      "meaning": "v./n.闪耀,闪烁",
+      "similar": [
+        "fare",
+        "flame",
+        "glare",
+        "bare",
+        "care",
+        "dare",
+        "fade",
+        "fake"
+      ],
+      "question": {
+        "wordId": "flare",
+        "stem": "选择 \"flare\" 的正确中文意思：",
+        "correct": "v./n.闪耀,闪烁",
+        "options": [
+          "n.火焰,火苗;热情;光辉 v.发火焰,燃烧",
+          "n.车费,船费;伙食;乘客 v.过活;进展;经营",
+          "v./n.闪耀,闪烁",
+          "vi.怒目而视;发射强光 n.强光;怒视;炫耀"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能拟声自火焰燃烧或风吹动时发出的‘呼呼’声，核心物理动作为‘突然发光/燃烧’，引申为‘突然爆发、加剧’或‘呈喇叭状展开’。",
+        "similarWarning": "flare vs. flame: 拼写差异‘fla-’ vs. ‘fla-’+‘me’；flare强调短暂、突然的闪耀或爆发，flame指持续燃烧的火焰。flare vs. glare: ‘fl-’ vs. ‘gl-’；glare侧重刺眼强光或怒视，flare强调短暂闪烁或扩大。",
+        "extendedMeaning": "①（情绪、冲突等）突然爆发、加剧（如‘tempers flare’）；②（裙子等）呈喇叭形展开（如‘flare skirt’）；③（信号）照明弹；④（太阳）耀斑。",
+        "examUsage": "考研真题中常考其不及物动词短语‘flare up’（突然爆发/加剧），如‘violence flared up again in the region’（该地区暴力再次爆发），注意区分‘flare up’与‘break out’（侧重事件突然发生）。"
+      }
+    },
+    {
+      "id": "flash",
+      "word": "flash",
+      "phonetic": "/flæʃ/",
+      "meaning": "n./a.闪光(的) v.发闪光,闪亮;闪现",
+      "similar": [
+        "lash",
+        "clash",
+        "flesh",
+        "flush",
+        "splash",
+        "ash",
+        "cash",
+        "dash"
+      ],
+      "question": {
+        "wordId": "flash",
+        "stem": "选择 \"flash\" 的正确中文意思：",
+        "correct": "n./a.闪光(的) v.发闪光,闪亮;闪现",
+        "options": [
+          "n./a.闪光(的) v.发闪光,闪亮;闪现",
+          "n.肉,肌肉",
+          "v.鞭打,摆动,捆扎 n.鞭子,鞭打,睫毛,讽刺",
+          "v./n.碰撞 n.碰撞声"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源拟声，模仿光或火焰快速闪烁的“咻”声。核心物理动作是“突然、短暂地发光或出现”，引申为任何快速闪现的事物。",
+        "similarWarning": "flash vs. flush: flash强调瞬间发光；flush指脸红或冲洗。flash vs. flesh: flash含a（光）；flesh含e（肉）。flash vs. clash: clash含c（碰撞声）；flash含f（光）。",
+        "extendedMeaning": "1. 闪现（念头、记忆等）：a flash of inspiration（灵光一闪）。2. 炫耀（贬义）：flash money around（炫富）。3. 紧急新闻/快讯：news flash（新闻快报）。",
+        "examUsage": "真题常考“flash across/through one's mind”表示突然想到；搭配“in a flash”意为“瞬间”。"
+      }
+    },
+    {
+      "id": "flat",
+      "word": "flat",
+      "phonetic": "/flæt/",
+      "meaning": "a.平坦的,扁平的,平淡的 n.一套房间;平面",
+      "similar": [
+        "float",
+        "feat",
+        "flag",
+        "flap",
+        "flaw",
+        "blast",
+        "feast",
+        "flame"
+      ],
+      "question": {
+        "wordId": "flat",
+        "stem": "选择 \"flat\" 的正确中文意思：",
+        "correct": "a.平坦的,扁平的,平淡的 n.一套房间;平面",
+        "options": [
+          "n.旗",
+          "a.平坦的,扁平的,平淡的 n.一套房间;平面",
+          "n.飘浮;漂流物 v.浮动;漂浮;传播;动摇",
+          "n.功绩，伟业，技艺"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*flata-，意为‘展开、平铺’。核心动作是物体表面被压平或延展，无起伏。引申为‘平淡的’（情绪或生活无波动）和‘一套房间’（在同一平面上的居住单元）。",
+        "similarWarning": "float（漂浮）：flat含‘a’表平铺，float含‘o’表浮于水上；fat（肥胖的）：flat有‘l’表平面，fat无‘l’表脂肪堆积；feat（功绩）：flat表状态，feat表成就；flag（旗子）：flat表形状，flag表布片；flap（拍打）：flat表静止，flap表动作；flaw（瑕疵）：flat表平坦，flaw表裂纹；blast（爆炸）：flat表静态，blast表动态冲击；feast（盛宴）：flat表平淡，feast表丰盛。",
+        "extendedMeaning": "（经济学人/真题）‘flat’可指‘市场/需求疲软的、不景气的’（如flat sales），或‘（价格）固定的、统一的’（如flat rate），以及‘（电池）没电的’（如flat battery）。",
+        "examUsage": "（真题考点）搭配‘fall flat’（未达到预期效果，彻底失败）和‘flat out’（竭尽全力；直率地），常作为完形填空或阅读理解中表转折或强调的题眼。"
+      }
+    }
+  ]
+}

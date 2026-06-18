@@ -1,0 +1,1723 @@
+{
+  "batchId": 63,
+  "words": [
+    {
+      "id": "purse",
+      "word": "purse",
+      "phonetic": "/pɜ:s/",
+      "meaning": "n.钱包",
+      "similar": [
+        "pursue",
+        "pure",
+        "curse",
+        "nurse",
+        "pulse",
+        "purpose",
+        "phrase",
+        "purple"
+      ],
+      "question": {
+        "wordId": "purse",
+        "stem": "选择 \"purse\" 的正确中文意思：",
+        "correct": "n.钱包",
+        "options": [
+          "n.钱包",
+          "v.追赶,追踪;继续,从事",
+          "a.纯的,纯洁的;纯理论的,抽象的;完全的",
+          "n.诅咒,咒语,祸因 vt.诅咒,咒骂,使受罪"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'bursa'（皮袋），经由古英语 'purs' 演变而来。核心物理动作是“容纳、包裹”，指用来装钱或小物品的封闭容器。词根 'burs-' 与 'pouch'（小袋）同源，强调“收纳”功能。",
+        "similarWarning": "pursue（追求）: 'purse' 少 'u' 加 'e'，词根 'sequ-'（跟随）；pure（纯净的）: 字母 's' 变 'e'，词根 'pur-'（纯洁）；curse（诅咒）: 首字母 'p' 变 'c'，词根 'curs-'（诅咒）；nurse（护士）: 首字母 'p' 变 'n'，词根 'nutr-'（养育）；pulse（脉搏）: 尾字母 'se' 变 'lse'，词根 'puls-'（驱动）；purpose（目的）: 加 'pose'（放置），词根 'pos-'；course（课程）: 首字母 'p' 变 'c'，词根 'curs-'（跑）；phrase（短语）: 尾字母 'se' 变 'ase'，词根 'phras-'（说话）。",
+        "extendedMeaning": "考研中常引申为“资金、财力”或“募集资金”，如 'public purse'（公共资金）、'to purse one's lips'（噘嘴，表示不满或思考）。",
+        "examUsage": "核心搭配：'tighten the purse strings'（紧缩开支，真题阅读中表财政紧缩）；'purse snatching'（抢钱包，犯罪类话题）。"
+      }
+    },
+    {
+      "id": "pursue",
+      "word": "pursue",
+      "phonetic": "/pə'sju:/",
+      "meaning": "v.追赶,追踪;继续,从事",
+      "similar": [
+        "purse",
+        "pursuit",
+        "pure",
+        "curse",
+        "nurse",
+        "pulse",
+        "purple",
+        "persuade"
+      ],
+      "question": {
+        "wordId": "pursue",
+        "stem": "选择 \"pursue\" 的正确中文意思：",
+        "correct": "v.追赶,追踪;继续,从事",
+        "options": [
+          "v.追赶,追踪;继续,从事",
+          "n.钱包",
+          "n.追赶,追求;职业,工作",
+          "a.纯的,纯洁的;纯理论的,抽象的;完全的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古法语'poursuir'，由拉丁语'pro-'（向前）+ 'sequi'（跟随）构成，核心物理动作是'向前跟随'，即追赶、追踪。引申为在时间或目标上持续跟随，即继续、从事。",
+        "similarWarning": "purse（钱包，n.）vs pursue（追赶，v.）：'purse'无'su'后缀，且词义为容器；pursuit（追求，n.）vs pursue（追求，v.）：'pursuit'以't'结尾，为名词形式。",
+        "extendedMeaning": "在考研外刊中，pursue常引申为'致力于、追求（目标/事业）'，如'pursue a career'（从事职业），或'pursue a policy'（推行政策），强调持续努力。",
+        "examUsage": "真题考点：pursue常与'goal/dream/career'搭配，如'pursue one's dream'（追求梦想），在阅读中作为核心动词，干扰项常替换为'chase'（侧重物理追赶）或'follow'（侧重跟随，不含主动努力）。"
+      }
+    },
+    {
+      "id": "pursuit",
+      "word": "pursuit",
+      "phonetic": "/pə'sju:t/",
+      "meaning": "n.追赶,追求;职业,工作",
+      "similar": [
+        "pursue"
+      ],
+      "question": {
+        "wordId": "pursuit",
+        "stem": "选择 \"pursuit\" 的正确中文意思：",
+        "correct": "n.追赶,追求;职业,工作",
+        "options": [
+          "n.追赶,追求;职业,工作",
+          "v.追赶,追踪;继续,从事",
+          "n.巨人 a.巨大的",
+          "a.生理学的, 生理学上的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语prosequi（pro-向前 + sequi跟随），字面为“向前跟随”，核心动作是“追”。后缀-it为名词化，表示“追赶、追求”的动作或状态。引申为“职业”指人们长期追随的事业。",
+        "similarWarning": "形近词pursue（动词）与pursuit（名词）同根，注意拼写差异：pursue结尾为-ue，pursuit结尾为-it。另注意与suit（套装/适合）区别：pursuit含“追”义，suit含“跟随”但侧重一致、合适。",
+        "extendedMeaning": "在考研真题中常出现“in pursuit of”表示“追求（抽象目标）”，如追求真理、幸福、利润等。另见“pursuit of knowledge”为高频搭配。",
+        "examUsage": "真题考点：短语“in hot pursuit”意为“穷追不舍”，常用于法律或竞赛语境。例句：The police car was in hot pursuit of the stolen vehicle. (考研阅读真题改编)"
+      }
+    },
+    {
+      "id": "push",
+      "word": "push",
+      "phonetic": "/puʃ/",
+      "meaning": "v.推;催逼,逼迫 n.推,推力;促进,推进",
+      "similar": [
+        "bush",
+        "rush",
+        "punish",
+        "blush",
+        "brush",
+        "crush",
+        "flush",
+        "pause"
+      ],
+      "question": {
+        "wordId": "push",
+        "stem": "选择 \"push\" 的正确中文意思：",
+        "correct": "v.推;催逼,逼迫 n.推,推力;促进,推进",
+        "options": [
+          "v.(使)冲;奔n.冲,急速行进 a.(交通)繁忙的",
+          "n.灌木(丛)",
+          "v.推;催逼,逼迫 n.推,推力;促进,推进",
+          "v.惩罚,处罚"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟用力推挤时发出的声音，核心物理动作为“施加压力使物体移动”。",
+        "similarWarning": "bush（灌木丛） vs push：b-灌木丛形状像球；push推。rush（冲） vs push：rush强调快速移动，push强调用力。crush（压碎） vs push：crush含“碎”的结果，push仅动作。",
+        "extendedMeaning": "（真题）推动、促进（抽象意义）：'push for reform' 推动改革；'push boundaries' 突破界限。",
+        "examUsage": "'push sb. to do sth.' 催促某人做某事（真题干扰项常见）；'push through' 使通过（如议案）。"
+      }
+    },
+    {
+      "id": "puzzle",
+      "word": "puzzle",
+      "phonetic": "/'pʌzl/",
+      "meaning": "n.难题,谜,迷惑 v.(使)迷惑,(使)为难",
+      "similar": [
+        "dazzle",
+        "purple"
+      ],
+      "question": {
+        "wordId": "puzzle",
+        "stem": "选择 \"puzzle\" 的正确中文意思：",
+        "correct": "n.难题,谜,迷惑 v.(使)迷惑,(使)为难",
+        "options": [
+          "a.紫的 n.紫色",
+          "v.使惊奇,使倾斜;耀(眼) n.耀眼的光",
+          "n.作者，作家，著作人；创始人，发起人",
+          "n.难题,谜,迷惑 v.(使)迷惑,(使)为难"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能与古英语‘pusl’（困境）或中古英语‘poselen’（使困惑）相关。核心动作：使人陷入混乱或无法理解的状态，像被复杂线索困住。",
+        "similarWarning": "dazzle（v.使目眩；使惊叹）与puzzle拼写差异在‘d’ vs ‘p’和‘azz’ vs ‘uzz’，dazzle强调视觉或感官上的震撼，puzzle强调思维上的困惑。purple（n.紫色）与puzzle拼写差异在‘ur’ vs ‘uzz’和‘ple’ vs ‘zle’，purple是颜色，puzzle是难题。",
+        "extendedMeaning": "考研僻义：作为动词，可表示‘苦思冥想’（puzzle over/through），如‘He puzzled through the complex data.’；作为名词，可指‘拼图游戏’（jigsaw puzzle）或‘智力玩具’。",
+        "examUsage": "真题考点：常考搭配‘puzzle over’（对…冥思苦想）和‘in a puzzle about’（对…感到困惑）。在阅读中作为干扰项，常与‘confuse’、‘bewilder’同义替换，需注意其名词用法‘puzzle’与‘mystery’、‘enigma’的细微差别。"
+      }
+    },
+    {
+      "id": "pyramid",
+      "word": "pyramid",
+      "phonetic": "/'pirəmid/",
+      "meaning": "n.金字塔",
+      "similar": [],
+      "question": {
+        "wordId": "pyramid",
+        "stem": "选择 \"pyramid\" 的正确中文意思：",
+        "correct": "n.金字塔",
+        "options": [
+          "a.整洁的,整齐的 v.整理,收拾",
+          "n.金字塔",
+          "n.炉子,火炉",
+          "v.强迫,迫使"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语pyramis，可能来自埃及语per-em-us（金字塔的侧面），字面意思为‘高度’或‘上升’。核心物理动作是‘底部四方、向上逐渐收拢成尖顶’，象征权力与永恒。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中常引申为‘金字塔结构’或‘层级体系’，如社会金字塔（social pyramid）、组织金字塔（organizational pyramid），强调等级分明、底部宽顶部窄的结构。",
+        "examUsage": "常见考点是‘金字塔结构’的比喻义，如‘the pyramid of corporate power’（企业权力金字塔），在阅读理解中可能作为背景知识出现，需理解其层级递进的含义。"
+      }
+    },
+    {
+      "id": "qualification",
+      "word": "qualification",
+      "phonetic": "/ˌkwɔlifi'keiʃən/",
+      "meaning": "n.资格,合格;限定,条件;合格证",
+      "similar": [
+        "classification",
+        "publication",
+        "specification",
+        "identification",
+        "application",
+        "implication",
+        "qualitative"
+      ],
+      "question": {
+        "wordId": "qualification",
+        "stem": "选择 \"qualification\" 的正确中文意思：",
+        "correct": "n.资格,合格;限定,条件;合格证",
+        "options": [
+          "n.出版物;出版,发行;公布,发表",
+          "n.分类,分级",
+          "n.资格,合格;限定,条件;合格证",
+          "n.详述;(常pl.)规格,说明书,规范"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根qual-（某种性质/状态）+ -ification（名词后缀，表行为/结果）。核心动作是“使具备某种性质或标准”，引申为“资格、合格”是达到标准的状态；“限定、条件”是为资格设定范围或前提。",
+        "similarWarning": "形近词对比：qualification vs. classification（分类，词根class-等级）；publication（出版，public公开）；specification（规格，spec看/指定）；identification（身份识别，identify识别）；application（申请，apply应用）；implication（暗示，implicate牵连）；qualitative（定性的，与qualify同根但词性不同）。核心差异在于词根动作不同。",
+        "extendedMeaning": "考研僻义：在真题中常表“限制条件、保留意见”，如“without qualification”（毫无保留地），强调对陈述附加的修正或保留，而非仅指资格。",
+        "examUsage": "真题考点：常见搭配“meet the qualifications”（符合资格条件）及“with certain qualifications”（附带某些条件）。真题干扰项常设置成“classification”等形近词，需注意语境中是否涉及“标准/限制”而非“分类/出版”。"
+      }
+    },
+    {
+      "id": "qualify",
+      "word": "qualify",
+      "phonetic": "/'kwɒlɪfaɪ/",
+      "meaning": "v.(使)具有资格,证明合格;限制,限定;修饰",
+      "similar": [
+        "quality",
+        "equality",
+        "quantify",
+        "quantity"
+      ],
+      "question": {
+        "wordId": "qualify",
+        "stem": "选择 \"qualify\" 的正确中文意思：",
+        "correct": "v.(使)具有资格,证明合格;限制,限定;修饰",
+        "options": [
+          "v.确定数量",
+          "n.同等;平等;相等;等式;等同性",
+          "n.质量,品质,特性",
+          "v.(使)具有资格,证明合格;限制,限定;修饰"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'qualis'（何种性质）+ '-fy'（使成为）。核心动作是‘使具备某种性质或条件’，引申为‘使具有资格’（达到某种标准）和‘限制’（对性质进行限定）。",
+        "similarWarning": "quality (n. 质量；品质) vs qualify (v. 使具备资格；限定)：quality 是名词，指事物固有属性；qualify 是动词，强调动作过程。equality (n. 平等) vs qualify：equality 是抽象名词，与‘平等’相关；qualify 是动词，无平等含义。quantify (v. 量化) vs qualify：quantify 指用数字衡量，qualify 侧重赋予条件或限制。",
+        "extendedMeaning": "在考研中常考‘限制；限定’义，如‘qualify a statement’（对陈述加以限定），即通过附加条件使原意更精确，而非简单否定。",
+        "examUsage": "真题考点：qualify for（有资格获得）；qualify as（具备作为…的资格）。干扰项常结合‘limit’或‘restrict’混淆，但qualify强调‘使符合条件’而非单纯‘限制’。"
+      }
+    },
+    {
+      "id": "qualitative",
+      "word": "qualitative",
+      "phonetic": "/'kwɔlitətiv/",
+      "meaning": "a.性质上的,定性的",
+      "similar": [
+        "quantitative",
+        "imaginative",
+        "qualification"
+      ],
+      "question": {
+        "wordId": "qualitative",
+        "stem": "选择 \"qualitative\" 的正确中文意思：",
+        "correct": "a.性质上的,定性的",
+        "options": [
+          "a.富有想象力的,爱想象的",
+          "a.性质上的,定性的",
+          "n.资格,合格;限定,条件;合格证",
+          "a.数量的,定量的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语qualitas（性质），词根qual-（性质）+ -itative（形容词后缀，表“…的”）。核心动作：对事物本质属性进行判断，与数量无关。",
+        "similarWarning": "形近词对比：\n- quantitative（定量的）：qualitative vs quantitative，核心区别在于“质”与“量”。\n- imaginative（富有想象力的）：imagin-（想象）+ -ative，与qualitative无词义关联。\n- qualification（资格，限定）：qualify的派生名词，强调过程或条件，而非性质本身。",
+        "extendedMeaning": "在考研真题中，qualitative常引申为“本质上的、非数量化的”，如qualitative analysis（定性分析），用于社会科学或实验描述中，强调对性质而非数量的判断。",
+        "examUsage": "真题考点：\n- qualitative difference：本质差异（干扰项常设为quantitative difference，混淆质与量的区别）。\n- 例句：The qualitative change in the data suggests a shift in consumer behavior.（数据中的质变表明消费者行为发生转变。）"
+      }
+    },
+    {
+      "id": "quality",
+      "word": "quality",
+      "phonetic": "/'kwɒləti/",
+      "meaning": "n.质量,品质,特性",
+      "similar": [
+        "equality",
+        "qualify",
+        "quantity",
+        "reality",
+        "humanity",
+        "locality",
+        "morality",
+        "quantify"
+      ],
+      "question": {
+        "wordId": "quality",
+        "stem": "选择 \"quality\" 的正确中文意思：",
+        "correct": "n.质量,品质,特性",
+        "options": [
+          "n.质量,品质,特性",
+          "n.同等;平等;相等;等式;等同性",
+          "v.(使)具有资格,证明合格;限制,限定;修饰",
+          "n.量,数量;大量"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语qualitas（性质、特质），由qualis（何种的）派生，核心动作是“归类为何种”，引申为“内在属性或优劣程度”。",
+        "similarWarning": "equality（平等）强调相等；quality（质量/品质）强调属性；quantity（数量）强调多少；qualify（限定/使合格）是动词；注意quality与quantity仅差字母‘i’与‘t’的位置。",
+        "extendedMeaning": "在考研外刊中常出现“特性、特质”的抽象用法，如“the quality of life”（生活质量）、“leadership qualities”（领导特质）。",
+        "examUsage": "真题常考搭配“quality of life”（生活质量）及“quality control”（质量控制）；注意区分“quality”作为名词与“qualified”（有资格的）在上下文中的干扰。"
+      }
+    },
+    {
+      "id": "quantify",
+      "word": "quantify",
+      "phonetic": "/'kwɔntifai/",
+      "meaning": "v.确定数量",
+      "similar": [
+        "quantity",
+        "qualify",
+        "justify",
+        "quality",
+        "identify"
+      ],
+      "question": {
+        "wordId": "quantify",
+        "stem": "选择 \"quantify\" 的正确中文意思：",
+        "correct": "v.确定数量",
+        "options": [
+          "v.确定数量",
+          "n.量,数量;大量",
+          "v.证明...正当(或有理、正确)，为...辩护",
+          "v.(使)具有资格,证明合格;限制,限定;修饰"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根“quant-”表示“数量”，后缀“-ify”表示“使成为”。核心动作：使某物变成可计量的数量，即“确定数量”。",
+        "similarWarning": "quantity (n.数量) vs quantify (v.确定数量)：前者是名词，后者是动词；qualify (v.使合格) vs quantify：仅一个字母“l”与“n”之差，但词根不同，qualify源自“quality”；justify (v.证明正当) vs quantify：前缀“just-”表示“正义”，与数量无关。",
+        "extendedMeaning": "在考研阅读中常引申为“量化”，即用数字衡量抽象概念，如“quantify the impact”量化影响。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "quantitative",
+      "word": "quantitative",
+      "phonetic": "/'kwɔntitətiv/",
+      "meaning": "a.数量的,定量的",
+      "similar": [
+        "qualitative"
+      ],
+      "question": {
+        "wordId": "quantitative",
+        "stem": "选择 \"quantitative\" 的正确中文意思：",
+        "correct": "a.数量的,定量的",
+        "options": [
+          "n.被掠食者,牺牲者,掠食 v.捕食,掠夺,折磨",
+          "a.性质上的,定性的",
+          "n.对(权力等)的强烈欲望，野心；雄心",
+          "a.数量的,定量的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语quantitas（数量），由quantus（多少） + -ative（形容词后缀）构成。核心动作是“与数量相关的”，强调可测量、可计数的属性，与定性相对。",
+        "similarWarning": "qualitative（定性的）vs quantitative（定量的）。差异在于词根：qual-（性质）vs quant-（数量）。qualitative侧重性质、特征；quantitative侧重数值、度量。",
+        "extendedMeaning": "在考研中常引申为“数据化的、可量化的”，如quantitative analysis（定量分析）指基于数值数据的分析方法，区别于主观判断。",
+        "examUsage": "真题考点：quantitative常与qualitative对比出现，作为区分研究方法的题眼。例句：The study uses both quantitative and qualitative methods.（该研究同时使用定量和定性方法。）注意其与quantity（数量）的同源关系。"
+      }
+    },
+    {
+      "id": "quantity",
+      "word": "quantity",
+      "phonetic": "/'kwɔntəti/",
+      "meaning": "n.量,数量;大量",
+      "similar": [
+        "quantify",
+        "quality",
+        "entity",
+        "vanity",
+        "qualify",
+        "equality",
+        "humanity",
+        "identity"
+      ],
+      "question": {
+        "wordId": "quantity",
+        "stem": "选择 \"quantity\" 的正确中文意思：",
+        "correct": "n.量,数量;大量",
+        "options": [
+          "n.量,数量;大量",
+          "n.实体;存在(物);组织,机构;本质",
+          "v.确定数量",
+          "n.质量,品质,特性"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'quantitas'（多少），词根'quant-'（多少）与后缀'-ity'（表性质、状态）组合，核心动作是“询问或描述‘多少’的概念”，强调可测量的数值或总量。",
+        "similarWarning": "quality（n.质量，品质）：词根'qual-'（何种），与quantity仅差字母'a'/'i'，前者重性质，后者重数量。",
+        "extendedMeaning": "在考研阅读中可指“大量，众多”，如'a quantity of'后接可数或不可数名词，强调数量之多。",
+        "examUsage": "常考搭配'a large quantity of'（大量的），注意谓语动词单复数取决于of后名词；真题中干扰项常与'quality'混淆，如对比“数量 vs 质量”。"
+      }
+    },
+    {
+      "id": "quarrel",
+      "word": "quarrel",
+      "phonetic": "/'kwɔ:rəl/",
+      "meaning": "v.争吵,争论 n.争吵,争吵的原因",
+      "similar": [
+        "squirrel",
+        "barrel",
+        "quarter",
+        "quarterly"
+      ],
+      "question": {
+        "wordId": "quarrel",
+        "stem": "选择 \"quarrel\" 的正确中文意思：",
+        "correct": "v.争吵,争论 n.争吵,争吵的原因",
+        "options": [
+          "n.四分之一;季;一刻钟;(pl.)方向;(pl.)住处",
+          "v.争吵,争论 n.争吵,争吵的原因",
+          "n.松鼠",
+          "n.桶;枪管,炮管"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语‘queri’（抱怨），与‘querulous’（爱抱怨的）同源。核心物理动作是‘发出不满的声音’，引申为人际间的‘争吵’或‘争论’。",
+        "similarWarning": "squirrel（n.松鼠）：首字母‘s’像尾巴，与‘quarrel’无直接语义关联。barrel（n.桶）：‘b’替换‘q’，形状相似但含义无关。quarter（n.四分之一）：‘t’替换‘l’，词根不同。quarterly（adj./adv.季度的/地）：在‘quarter’后加‘ly’，与争吵无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "quart",
+      "word": "quart",
+      "phonetic": "/kwɔ:t/",
+      "meaning": "n.夸脱",
+      "similar": [
+        "quartz",
+        "quarter",
+        "cart",
+        "hurt",
+        "quit",
+        "apart",
+        "chart",
+        "guard"
+      ],
+      "question": {
+        "wordId": "quart",
+        "stem": "选择 \"quart\" 的正确中文意思：",
+        "correct": "n.夸脱",
+        "options": [
+          "n.(二轮货运)马车,手推车",
+          "n.四分之一;季;一刻钟;(pl.)方向;(pl.)住处",
+          "n.石英",
+          "n.夸脱"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 quartus（第四），指四分之一加仑，即夸脱。核心动作为“四分之一”，与quarter同源。",
+        "similarWarning": "quartz（石英）: 多一个z，指矿物；quarter（四分之一）: 加-er，指四分之一或一刻钟；square（正方形）: 加s，指方形；quit（放弃）: 变a为i，指停止。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "quarter",
+      "word": "quarter",
+      "phonetic": "/'kwɔ:tə/",
+      "meaning": "n.四分之一;季;一刻钟;(pl.)方向;(pl.)住处",
+      "similar": [
+        "quarterly",
+        "quart",
+        "quartz",
+        "charter",
+        "quarrel"
+      ],
+      "question": {
+        "wordId": "quarter",
+        "stem": "选择 \"quarter\" 的正确中文意思：",
+        "correct": "n.四分之一;季;一刻钟;(pl.)方向;(pl.)住处",
+        "options": [
+          "n.四分之一;季;一刻钟;(pl.)方向;(pl.)住处",
+          "n.石英",
+          "a.每季的 ad.每季一次 n.季刊",
+          "n.夸脱"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语quartarius（四分之一），词根quart-（四）+ -er（名词后缀）。核心动作为“分成四份”，引申为时间上的四分之一年（季度）、一小时的四分之一（一刻钟），以及空间上的四分之一区域（方向、住处）。",
+        "similarWarning": "quarterly（季刊的；每季地）与quarter相比多了后缀-ly；quart（夸脱，容量单位）少了-er；quartz（石英）拼写差异为z；charter（特许状；包租）首字母ch不同；quarrel（争吵）拼写差异为-el。",
+        "extendedMeaning": "考研僻义：n.(pl.)住处、营房（如living quarters）；v.供给住宿（如be quartered in）。",
+        "examUsage": "真题考点：核心短语“at close quarters”（逼近地；近距离地）常作为阅读理解中的固定搭配出现。"
+      }
+    },
+    {
+      "id": "quarterly",
+      "word": "quarterly",
+      "phonetic": "/'kwɔ:təli/",
+      "meaning": "a.每季的 ad.每季一次 n.季刊",
+      "similar": [
+        "quarter",
+        "quarrel"
+      ],
+      "question": {
+        "wordId": "quarterly",
+        "stem": "选择 \"quarterly\" 的正确中文意思：",
+        "correct": "a.每季的 ad.每季一次 n.季刊",
+        "options": [
+          "a.多样的,多重的 n.倍数 v.成倍增加",
+          "a.每季的 ad.每季一次 n.季刊",
+          "n.四分之一;季;一刻钟;(pl.)方向;(pl.)住处",
+          "v.争吵,争论 n.争吵,争吵的原因"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "quarter（四分之一）+ -ly（形容词/副词/名词后缀）。核心动作：将一年分为四个部分，即“每季度的”或“每季度一次”。词源上，quarter源自拉丁语quartus（第四），指四分之一的时间单位。",
+        "similarWarning": "quarter（四分之一；季度；住处）与quarterly（每季的）拼写差异在末尾-ly；quarrel（争吵）与quarterly拼写差异为ar vs. terly，注意字母序列不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "quartz",
+      "word": "quartz",
+      "phonetic": "/kwɔ:ts/",
+      "meaning": "n.石英",
+      "similar": [
+        "quart",
+        "quarter"
+      ],
+      "question": {
+        "wordId": "quartz",
+        "stem": "选择 \"quartz\" 的正确中文意思：",
+        "correct": "n.石英",
+        "options": [
+          "a.破坏性",
+          "n.四分之一;季;一刻钟;(pl.)方向;(pl.)住处",
+          "n.夸脱",
+          "n.石英"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自德语Quarz，源自西斯拉夫语kwardy，意为‘硬的’。核心物理动作为‘坚硬矿物’，与quart（夸脱，四分之一）同源但分化，quartz指天然晶体，强调其硬度与不可分割性。",
+        "similarWarning": "quart（n.夸脱，容量单位）与quarter（n.四分之一）共享‘四’的词根，而quartz无‘四’义，注意字母差异：quartz含‘z’，指矿物；quart含‘t’，指度量。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "queen",
+      "word": "queen",
+      "phonetic": "/kwi:n/",
+      "meaning": "n.女王,皇后,王后",
+      "similar": [
+        "queer",
+        "keen",
+        "green",
+        "quest",
+        "queue"
+      ],
+      "question": {
+        "wordId": "queen",
+        "stem": "选择 \"queen\" 的正确中文意思：",
+        "correct": "n.女王,皇后,王后",
+        "options": [
+          "a.奇怪的,古怪的",
+          "a.绿色的;生的;未成熟的 n.绿色;蔬菜;植物",
+          "n.女王,皇后,王后",
+          "a.锋利的;敏锐的;敏捷的;(on)热心的,渴望的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能与古英语'cwen'（女人、妻子）相关，核心指女性统治者或配偶，后专指女王或王后。",
+        "similarWarning": "queen vs queer: queen结尾'en'表女性; queer含'er'表怪异。queen vs keen: queen有'ue'组合; keen有'ee'表敏锐。",
+        "extendedMeaning": "（无常见考研僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "queer",
+      "word": "queer",
+      "phonetic": "/kwiə/",
+      "meaning": "a.奇怪的,古怪的",
+      "similar": [
+        "queen",
+        "quiver",
+        "beer",
+        "deer",
+        "peer",
+        "cheer",
+        "outer",
+        "quest"
+      ],
+      "question": {
+        "wordId": "queer",
+        "stem": "选择 \"queer\" 的正确中文意思：",
+        "correct": "a.奇怪的,古怪的",
+        "options": [
+          "v./n.颤抖,抖动",
+          "n.女王,皇后,王后",
+          "a.奇怪的,古怪的",
+          "n.啤酒"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自德语'quer'（横斜的，歪的），核心物理动作是'横向/斜向偏离'。引申为'偏离常规、不正常'，即古怪的。",
+        "similarWarning": "queen（女王，n.） vs queer：queen结尾-en，queer结尾-er，字母e与r差异；quiver（颤抖，v./n.） vs queer：quiver含-iv-，queer含-ee-，中间元音不同；peer（同龄人，v.凝视） vs queer：peer以p开头，queer以q开头。",
+        "extendedMeaning": "在考研语境中，queer常表示'奇怪的、古怪的'，用于形容异常行为或事物，如'queer ideas'（古怪的想法）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "quench",
+      "word": "quench",
+      "phonetic": "/kwentʃ/",
+      "meaning": "v.熄灭,扑灭,压制,抑制,止渴",
+      "similar": [
+        "bench",
+        "bunch",
+        "punch",
+        "trench",
+        "wrench",
+        "sequence"
+      ],
+      "question": {
+        "wordId": "quench",
+        "stem": "选择 \"quench\" 的正确中文意思：",
+        "correct": "v.熄灭,扑灭,压制,抑制,止渴",
+        "options": [
+          "v.熄灭,扑灭,压制,抑制,止渴",
+          "n.长凳,条凳;(工作)台,座",
+          "n.(一)簇,束,捆,串",
+          "n.冲压机,冲床;穿孔机 v.冲压,穿孔"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能与古英语cwencan（熄灭）相关。核心物理动作是“使火焰或热源突然停止”，引申为“压制（欲望）、止（渴）”，强调通过某种手段使原本活跃的状态终止。",
+        "similarWarning": "bench（长凳）、bunch（束）、lunch（午餐）、punch（重击）、trench（沟渠）、wrench（扭伤）、sequence（序列）。差异：quench以qu-开头，核心在“熄灭”；其余词拼写相近但含义迥异，无直接干扰。",
+        "extendedMeaning": "在考研阅读中常出现“抑制（情感、欲望）”的抽象义，如quench one's thirst/desire（止渴/抑制欲望），或“扑灭（希望、热情）”，如quench hope。",
+        "examUsage": "真题考点：常与thirst、fire、desire等搭配，考查“压制、消除”的引申义。如：Nothing could quench his ambition.（没什么能压制他的野心。）"
+      }
+    },
+    {
+      "id": "quest",
+      "word": "quest",
+      "phonetic": "/kwest/",
+      "meaning": "n.探寻，探求；寻求，追求",
+      "similar": [
+        "guest",
+        "request",
+        "best",
+        "dust",
+        "lest",
+        "nest",
+        "pest",
+        "quit"
+      ],
+      "question": {
+        "wordId": "quest",
+        "stem": "选择 \"quest\" 的正确中文意思：",
+        "correct": "n.探寻，探求；寻求，追求",
+        "options": [
+          "a.最好的(good和well最高级) ad.最好地；",
+          "v./n.请求,要求",
+          "n.客人,宾客,旅客",
+          "n.探寻，探求；寻求，追求"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语quaerere（询问、寻求），核心物理动作是“伸出手去够或问”。quest指一种主动、有目的的长途探寻或精神追求。",
+        "similarWarning": "guest（客人）与quest相差字母g，词源不同，guest指被邀请的人；request（请求）是re-（再）+quest，强调再次询问或索要。",
+        "extendedMeaning": "在考研阅读中，quest常引申为“（长期、艰巨的）探索或追求”，如the quest for truth（对真理的探求），比普通search更强调执着与过程。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "questionnaire",
+      "word": "questionnaire",
+      "phonetic": "/ˌkwestʃə'nεə/",
+      "meaning": "n.调查表,问卷",
+      "similar": [],
+      "question": {
+        "wordId": "questionnaire",
+        "stem": "选择 \"questionnaire\" 的正确中文意思：",
+        "correct": "n.调查表,问卷",
+        "options": [
+          "n.调查表,问卷",
+          "a.陡峭，险峻的；急剧升降的vt.浸泡,沉浸",
+          "v.管理,监督",
+          "a.冷漠的,不关心的,不积极的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'quaerere'（询问，寻求），词根 'quest' 表“询问”，后缀 '-ionnaire' 表“集合/工具”。核心物理动作是“通过一系列问题收集信息”，即“调查表”或“问卷”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研语境中，常引申为“系统性的调查工具”，强调其结构化和标准化的特性，而非简单的问问题。",
+        "examUsage": "真题中常与动词 'distribute'（分发）或 'complete'（填写）搭配，如 'distribute a questionnaire'（分发问卷）或 'complete a questionnaire'（填写问卷）。"
+      }
+    },
+    {
+      "id": "queue",
+      "word": "queue",
+      "phonetic": "/kju:/",
+      "meaning": "n.行列,长队 v.(up)排队,排队等待",
+      "similar": [
+        "queen",
+        "queer",
+        "quest",
+        "quote"
+      ],
+      "question": {
+        "wordId": "queue",
+        "stem": "选择 \"queue\" 的正确中文意思：",
+        "correct": "n.行列,长队 v.(up)排队,排队等待",
+        "options": [
+          "n.探寻，探求；寻求，追求",
+          "a.奇怪的,古怪的",
+          "n.女王,皇后,王后",
+          "n.行列,长队 v.(up)排队,排队等待"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自法语queue（尾巴），拉丁语cauda（尾巴）。核心物理动作：像动物的尾巴一样排成一列。",
+        "similarWarning": "queen（女王/皇后）：ee双字母长音；queue（队列）：ue双字母，发音为/ju:/\nqueer（奇怪的）：e-e结构；queue（队列）：ue组合\nquest（寻求）：有s-t结尾；queue（队列）：ue-e结尾\nquite（相当）：有i-t-e；queue（队列）：有u-e-e\nquote（引用）：有o-t-e；queue（队列）：有u-e-e",
+        "extendedMeaning": "在计算机科学中，queue指‘队列’（一种先进先出的数据结构），如‘message queue’（消息队列）。",
+        "examUsage": "常考搭配：queue up（排队），如‘People queue up for tickets.’"
+      }
+    },
+    {
+      "id": "quilt",
+      "word": "quilt",
+      "phonetic": "/kwilt/",
+      "meaning": "n.被子",
+      "similar": [
+        "quit",
+        "guilt",
+        "guilty",
+        "quiz",
+        "suit",
+        "tilt",
+        "quart",
+        "quest"
+      ],
+      "question": {
+        "wordId": "quilt",
+        "stem": "选择 \"quilt\" 的正确中文意思：",
+        "correct": "n.被子",
+        "options": [
+          "n.罪过,内疚",
+          "v.离开,退出;停止,放弃,辞职",
+          "n.被子",
+          "a.(of)有罪的,内疚的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源自古法语'cuilte'（垫子）或拉丁语'culcita'（床垫）。核心物理动作为多层布料堆叠缝制，形成保暖覆盖物。",
+        "similarWarning": "quit（放弃，离开）：quil+t vs quit（去掉l加t，动作不同）；guilt（内疚）：quil+t vs guil+t（首字母g，情感状态）；quiet（安静）：quil+t vs quie+t（加e，形容词）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "quit",
+      "word": "quit",
+      "phonetic": "/kwit/",
+      "meaning": "v.离开,退出;停止,放弃,辞职",
+      "similar": [
+        "quilt",
+        "quiz",
+        "suit",
+        "audit",
+        "equip",
+        "guilt",
+        "quart",
+        "quest"
+      ],
+      "question": {
+        "wordId": "quit",
+        "stem": "选择 \"quit\" 的正确中文意思：",
+        "correct": "v.离开,退出;停止,放弃,辞职",
+        "options": [
+          "v.合适,适合;相配,适应 n.一套西服;诉讼",
+          "n.小型考试,测验,问答比赛",
+          "n.被子",
+          "v.离开,退出;停止,放弃,辞职"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语“quietus”（安静的、休息的），原指“使安静、平息”，引申为“停止行动、离开、退出”。核心物理动作是“停止并离开”。",
+        "similarWarning": "quiet（安静的，qu-iet） vs quit（qu-it，去掉ie加i）；quit（放弃） vs quilt（被子，qu-ilt，加l）；quite（相当，qu-ite，加e） vs quit（去掉e）；quit（离开） vs suit（适合、诉讼，s-uit，换s）；quiz（测验，qu-iz，换z）；audit（审计，au-dit，换au-）；equip（装备，e-quip，加e-p）；fruit（水果，f-ru-it，换f-r-）。",
+        "extendedMeaning": "在考研中，“quit”常考“停止、放弃”的抽象义，如“quit smoking（戒烟）”、“quit the job（辞职）”，但较少出现生僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "quiver",
+      "word": "quiver",
+      "phonetic": "/'kwivə/",
+      "meaning": "v./n.颤抖,抖动",
+      "similar": [
+        "liver",
+        "queer",
+        "driver",
+        "shiver"
+      ],
+      "question": {
+        "wordId": "quiver",
+        "stem": "选择 \"quiver\" 的正确中文意思：",
+        "correct": "v./n.颤抖,抖动",
+        "options": [
+          "n.肝,肝脏",
+          "n.驾驶员",
+          "a.奇怪的,古怪的",
+          "v./n.颤抖,抖动"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源拟声，模拟物体快速轻微抖动的声响或动作。核心物理动作为快速、小幅度的振动或抖动，如箭在弦上时的颤动。",
+        "similarWarning": "quiver（颤抖） vs. shiver（因冷或恐惧发抖） vs. quaver（声音颤抖）。quiver侧重物体或身体的细微快速抖动；shiver强调因寒冷或强烈情绪引发的全身颤抖；quaver专指声音的不稳定。",
+        "extendedMeaning": "考研熟词僻义：名词可指‘箭袋’（容器），如‘a quiver of arrows’（一袋箭），源自其动词‘快速抖动’引申为箭在袋中颤动的意象。",
+        "examUsage": "真题考点：常与shiver、tremble等近义词辨析。例句：The leaves quivered in the breeze.（树叶在微风中颤抖。）干扰项通常为shiver（用于人）或shake（幅度更大）。"
+      }
+    },
+    {
+      "id": "quiz",
+      "word": "quiz",
+      "phonetic": "/kwiz/",
+      "meaning": "n.小型考试,测验,问答比赛",
+      "similar": [
+        "quit",
+        "equip",
+        "quilt"
+      ],
+      "question": {
+        "wordId": "quiz",
+        "stem": "选择 \"quiz\" 的正确中文意思：",
+        "correct": "n.小型考试,测验,问答比赛",
+        "options": [
+          "n.小型考试,测验,问答比赛",
+          "v.离开,退出;停止,放弃,辞职",
+          "v.(with)装备,配备;训练",
+          "n.被子"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自拉丁语“quis”（谁），原指“谁是什么”的问答游戏，后引申为“小型测验”。核心动作是“考问、测试知识”。",
+        "similarWarning": "quit（放弃，离开）：字母i后是t，强调“停止”；quiz（测验）：字母i后是z，强调“问答”。equip（装备）：字母e开头，后接quip，意为“配备”；quiz无e，意为“测验”。quiet（安静）：结尾为et，意为“平静”；quiz结尾为iz，意为“考试”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "quota",
+      "word": "quota",
+      "phonetic": "/'kwəutə/",
+      "meaning": "n.(生产、进出口等的)配额，(移民的)限额",
+      "similar": [
+        "quote",
+        "quit"
+      ],
+      "question": {
+        "wordId": "quota",
+        "stem": "选择 \"quota\" 的正确中文意思：",
+        "correct": "n.(生产、进出口等的)配额，(移民的)限额",
+        "options": [
+          "n.中午，正午",
+          "v.离开,退出;停止,放弃,辞职",
+          "v.引用,援引",
+          "n.(生产、进出口等的)配额，(移民的)限额"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 quota pars (第几份)。quota 为 quotus (第几) 的阴性单数形式，核心物理动作是“按序分配份额”，指被分配或规定的一个固定数量或比例。",
+        "similarWarning": "quote (引用/报价) 与 quota 差一个字母 t，quote 侧重引述或给出价格。quit (放弃/辞职) 与 quota 拼写不同，含义无关。quite (相当/完全) 是副词，与 quota 易混但无直接联系。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "quote",
+      "word": "quote",
+      "phonetic": "/kwəut/",
+      "meaning": "v.引用,援引",
+      "similar": [
+        "quota",
+        "mute",
+        "quit",
+        "vote",
+        "queue",
+        "suite"
+      ],
+      "question": {
+        "wordId": "quote",
+        "stem": "选择 \"quote\" 的正确中文意思：",
+        "correct": "v.引用,援引",
+        "options": [
+          "v.离开,退出;停止,放弃,辞职",
+          "a.哑的,缄默的n.哑巴;弱音器v.减弱…的声音",
+          "n.(生产、进出口等的)配额，(移民的)限额",
+          "v.引用,援引"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语quotare（编号、计数），原指用数字标记章节或段落，后引申为引用他人原话或文字，核心动作是“提取并复述原文”。",
+        "similarWarning": "quite（相当）、quota（配额）、mute（静音）、note（笔记）、quit（退出）、vote（投票）、queue（排队）、suite（套房）。与quite仅差字母e；与quota差字母e/a；与mute差字母q/te等，注意拼写差异。",
+        "extendedMeaning": "在考研外刊中常引申为“报价、开价”，如“quote a price”（报价）；也可作名词指“引文、报价单”。",
+        "examUsage": "真题中常考搭配：quote...from...（从……引用……）；be quoted as saying（被引述说）。干扰项常将quote与cite、reference混淆，注意quote强调直接复述原话。"
+      }
+    },
+    {
+      "id": "rabbit",
+      "word": "rabbit",
+      "phonetic": "/'ræbit/",
+      "meaning": "n.兔子",
+      "similar": [
+        "habit"
+      ],
+      "question": {
+        "wordId": "rabbit",
+        "stem": "选择 \"rabbit\" 的正确中文意思：",
+        "correct": "n.兔子",
+        "options": [
+          "n.习惯,习性,脾性",
+          "n.兔子",
+          "v.笑;(on)讥笑 n.笑,笑声",
+          "n.计算机,电脑;计算者"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿兔子快速移动或咀嚼时发出的轻微声音，直接指向动物本身。",
+        "similarWarning": "habit（习惯）：仅首字母r/h不同；rabbit指动物，habit指行为习惯。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "racial",
+      "word": "racial",
+      "phonetic": "/'reiʃəl/",
+      "meaning": "a.种的,种族的",
+      "similar": [
+        "crucial",
+        "radical",
+        "rail",
+        "social",
+        "rational"
+      ],
+      "question": {
+        "wordId": "racial",
+        "stem": "选择 \"racial\" 的正确中文意思：",
+        "correct": "a.种的,种族的",
+        "options": [
+          "a.种的,种族的",
+          "a.至关重要的,决定性的",
+          "a.基本的,重要的;激进的,极端的;根本的",
+          "n.栏杆,围栏;(pl.)铁路;铁轨;横杆,栏杆"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 radix（根）的派生词 race（种族）的形容词形式，-ial 为形容词后缀，表示“与……相关的”。核心物理动作是“按血缘/根源划分群体”，直接指向“种族的、人种的”概念。",
+        "similarWarning": "形近词辨析：\n- crucial（关键的）：cruc-（十字） + -ial，核心是“十字路口”决定方向。\n- radical（根本的/激进的）：radic-（根） + -al，强调“根部”的彻底性。\n- rail（铁轨/栏杆）：来自拉丁语 regula（直条），与“种族”无关。\n- social（社会的）：soci-（同伴） + -al，侧重群体交往。\n- rational（理性的）：ratio（理性） + -al，指基于逻辑推理。\n差异核心：racial 以“血统/起源”为轴，与 radical 同源但词义分化（racial 专指种族，radical 指根本或激进）。",
+        "extendedMeaning": "在考研外刊中，racial 常引申出“基于种族偏见的”含义，如“racial profiling”（种族定性执法）、“racial inequality”（种族不平等），不限于单纯分类，而指涉社会权力结构。",
+        "examUsage": "真题考点：\n- 搭配“racial discrimination”（种族歧视）为高频题眼，常与“ethnic”（民族的）、“cultural”（文化的）形成干扰选项。\n- 在阅读理解中，racial 作定语修饰“identity”（身份）、“divide”（分歧）时，需结合上下文辨析其政治/社会批判色彩。"
+      }
+    },
+    {
+      "id": "rack",
+      "word": "rack",
+      "phonetic": "/ræk/",
+      "meaning": "n.挂物架,搁物架 v.使痛苦,折磨",
+      "similar": [
+        "crack",
+        "track",
+        "lack",
+        "pack",
+        "rank",
+        "sack",
+        "racket",
+        "brace"
+      ],
+      "question": {
+        "wordId": "rack",
+        "stem": "选择 \"rack\" 的正确中文意思：",
+        "correct": "n.挂物架,搁物架 v.使痛苦,折磨",
+        "options": [
+          "n.裂纹,缝隙;破裂声 v.(使)破裂,砸开",
+          "n./v.缺乏,不足",
+          "n.挂物架,搁物架 v.使痛苦,折磨",
+          "n.跑道,小路;轨迹,轮迹 v.跟踪,追踪"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不确定，核心物理动作是“拉伸、拉紧”。源于中世纪荷兰语‘rec’（框架），与‘reckon’同源。本义是“将物体拉伸后放置的架子”，引申为动词“使身体或精神被拉伸、拉紧”，即“使痛苦、折磨”。画面：把人绑在刑架上拉伸四肢。",
+        "similarWarning": "crack（裂缝）首字母c-强调“破裂”声；track（追踪）首字母t-强调“轨迹”；back（背部）首字母b-强调“后面”；lack（缺乏）首字母l-强调“缺少”；pack（打包）首字母p-强调“包裹”；race（比赛）首字母r-强调“速度”；rank（等级）首字母n-强调“排列”；rock（岩石）首字母o-强调“坚硬”。",
+        "extendedMeaning": "考研僻义：n. 破坏、毁坏（如‘rack and ruin’）",
+        "examUsage": "考点搭配：rack one's brains（绞尽脑汁），rack up（累积，尤指得分或债务）。真题例句：He racked his brains for a solution.（他绞尽脑汁寻找解决方案。）"
+      }
+    },
+    {
+      "id": "racket",
+      "word": "racket",
+      "phonetic": "/'rækit/",
+      "meaning": "n.球拍",
+      "similar": [
+        "bracket",
+        "jacket",
+        "packet",
+        "rocket",
+        "cricket",
+        "rack",
+        "rake",
+        "basket"
+      ],
+      "question": {
+        "wordId": "racket",
+        "stem": "选择 \"racket\" 的正确中文意思：",
+        "correct": "n.球拍",
+        "options": [
+          "n.球拍",
+          "n.(方)括号",
+          "n.小包裹,小捆;盒;一捆,一扎;邮船,班轮",
+          "n.短上衣,茄克衫"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源拟声词，源自模仿球拍击球时发出的清脆撞击声。核心物理动作是“击打”，引申为“喧闹、吵闹”，后固定表示网球、羽毛球等运动中的球拍。",
+        "similarWarning": "bracket（支架、括号），jacket（夹克），packet（小包），rocket（火箭），cricket（板球），race（赛跑），rack（架子），rake（耙子）。区别在于字母组合不同，racket强调击打动作，bracket侧重支撑结构，cricket为运动项目。",
+        "extendedMeaning": "考研僻义：n. 喧闹、吵闹声（尤指持续不断的嘈杂），如kick up a racket（惹乱子、大声喧哗）；v. （但作动词较少见）意为“喧闹地玩乐”。",
+        "examUsage": "真题考点：常与noise、uproar等词并列考查，注意区分racket（球拍）与racquet（网球拍，现代拼写变体）。干扰项常设bracket（支架）或cricket（板球）混淆。"
+      }
+    },
+    {
+      "id": "radar",
+      "word": "radar",
+      "phonetic": "/'reidə/",
+      "meaning": "n.雷达",
+      "similar": [
+        "reader",
+        "rear",
+        "roar",
+        "radio",
+        "razor"
+      ],
+      "question": {
+        "wordId": "radar",
+        "stem": "选择 \"radar\" 的正确中文意思：",
+        "correct": "n.雷达",
+        "options": [
+          "n./v.吼叫,怒号;轰鸣,咆哮",
+          "n.读者；读本，读物；(英国的)大学讲师",
+          "n.后面,背后,后方 v.饲养,抚养,栽培,举起",
+          "n.雷达"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自radio detection and ranging（无线电探测与测距）的首字母缩写。词根radi-（辐射、无线电）与动词detect（探测）组合，核心物理动作是“通过发射无线电波并接收反射波来探测远距离物体”。",
+        "similarWarning": "reader（读者，读卡器）：radar vs reader，差异在字母a与e，以及结尾r与er，词义侧重“阅读”而非“探测”。rear（后部，抚养）：radar vs rear，差异在字母d与无，以及ar与ear，词义侧重“后方”或“养育”。roar（咆哮）：radar vs roar，差异在字母d与无，以及ar与oar，词义侧重“声音”而非“信号”。radio（无线电）：radar vs radio，差异在字母ar与io，以及结尾r与o，词义侧重“广播”而非“探测”。razor（剃刀）：radar vs razor，差异在字母d与z，以及ar与or，词义侧重“切割”而非“探测”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "radiant",
+      "word": "radiant",
+      "phonetic": "/'reidiənt/",
+      "meaning": "a.发光的,辐射的,容光焕发的",
+      "similar": [
+        "radiate",
+        "fragrant"
+      ],
+      "question": {
+        "wordId": "radiant",
+        "stem": "选择 \"radiant\" 的正确中文意思：",
+        "correct": "a.发光的,辐射的,容光焕发的",
+        "options": [
+          "a.经典的,古典(文学)的",
+          "v.放射,辐射;散布,传播",
+          "a.香的;芬芳的",
+          "a.发光的,辐射的,容光焕发的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 radi- (光线,辐射) + -ant (形容词后缀,表示'...的')。核心动作：发出光线或辐射，引申为'发光的'、'辐射的'，形容人时指'容光焕发的'，即内在能量或喜悦像光线一样向外散发。",
+        "similarWarning": "radiate (v.辐射,散发) — radiant是形容词，radiate是动词，注意词性差异。fragrant (a.芳香的) — 拼写差异在于'frag' vs 'rad'，前者与气味相关，后者与光线相关。",
+        "extendedMeaning": "在考研阅读中可引申为'灿烂的、明亮的'（如a radiant smile灿烂的笑容），或'极其漂亮的'（形容外貌）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "radiate",
+      "word": "radiate",
+      "phonetic": "/'reidieit/",
+      "meaning": "v.放射,辐射;散布,传播",
+      "similar": [
+        "graduate",
+        "radiant",
+        "candidate",
+        "dedicate",
+        "indicate",
+        "meditate"
+      ],
+      "question": {
+        "wordId": "radiate",
+        "stem": "选择 \"radiate\" 的正确中文意思：",
+        "correct": "v.放射,辐射;散布,传播",
+        "options": [
+          "n.候选人,候补者;报考者",
+          "v.放射,辐射;散布,传播",
+          "a.发光的,辐射的,容光焕发的",
+          "n.大学毕业生,研究生 v.大学毕业a.毕了业的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'radiare'（发出光线），词根 'radi-' 意为 '射线、光线'，-ate 为动词后缀。核心物理动作：从中心点向四周呈射线状发散，如太阳放射光芒。引申为抽象层面的信息、情感等向四周扩散。",
+        "similarWarning": "radiate vs graduate: 前者词根 'radi-' 表 '射线'，后者词根 'grad-' 表 '步、级'（如 grade 等级）。radiant 为形容词，强调发光发热；candidate 词根 'cand-' 意为 '白、发光'，但指 '候选人'（穿白衣者）。dedicate 词根 'dic-' 表 '宣称'（如 dictate 口述），与放射无关。indicate 词根 'dic-' 同源，表 '指出'，无辐射含义。meditate 词根 'med-' 表 '思考'。",
+        "extendedMeaning": "在考研真题中常考抽象义：'传播、散布'（如 radiate confidence/enthusiasm 散发自信/热情），或指光线、热量、能量的自然散发，区别于主动的 'spread'（有目的性）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "radical",
+      "word": "radical",
+      "phonetic": "/'rædikəl/",
+      "meaning": "a.基本的,重要的;激进的,极端的;根本的",
+      "similar": [
+        "racial",
+        "medical",
+        "practical",
+        "cardinal",
+        "critical",
+        "handicap",
+        "judicial",
+        "rational"
+      ],
+      "question": {
+        "wordId": "radical",
+        "stem": "选择 \"radical\" 的正确中文意思：",
+        "correct": "a.基本的,重要的;激进的,极端的;根本的",
+        "options": [
+          "a.医学的，医疗的，医药的；内科的",
+          "a.基本的,重要的;激进的,极端的;根本的",
+          "a.实际的,实用的",
+          "a.种的,种族的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根 radic-（根）+ -al（形容词后缀）→ 与根相关的 → 引申为“根本的、基本的”。根是植物最基础的部分，故“radical”强调事物最核心的起源或本质；在政治语境中，从“根本的”进一步引申为“激进的”，即主张从根源上彻底改变。",
+        "similarWarning": "radical vs. racial: radical 含词根 radic-（根），核心义为“根本的”；racial 含词根 rac-（种族），义为“种族的”。radical vs. medical: 前者词根 radic-，后者词根 medic-（医治）。radical vs. practical: 前者强调根本，后者强调实际（pract-）。radical vs. cardinal: cardinal 词根 card-（心），意为“首要的”，侧重重要性；radical 侧重根源。",
+        "extendedMeaning": "在考研中，“radical”常考“根本的”这一深层义，如 radical change（根本性变化）；此外，在化学语境中意为“自由基”，如 free radical（自由基），属生物学/医学类阅读高频词。",
+        "examUsage": "常见搭配：radical reform（根本性改革），radical idea（激进的想法）。真题例句：\"The radical shift in policy led to widespread controversy.\"（政策的根本性转变引发了广泛争议。）注意：radical 作名词时意为“激进分子”，在阅读中常作为立场对立方的标志词。"
+      }
+    },
+    {
+      "id": "radio",
+      "word": "radio",
+      "phonetic": "/'reidiəu/",
+      "meaning": "n.收音机；无线电报，无线电话v.无线电通讯",
+      "similar": [
+        "ratio",
+        "radius",
+        "raid",
+        "rail",
+        "audio",
+        "radar",
+        "rapid"
+      ],
+      "question": {
+        "wordId": "radio",
+        "stem": "选择 \"radio\" 的正确中文意思：",
+        "correct": "n.收音机；无线电报，无线电话v.无线电通讯",
+        "options": [
+          "n/v..袭击,搜查",
+          "n.比,比率",
+          "n.收音机；无线电报，无线电话v.无线电通讯",
+          "n.半径,半径范围,有效航程,范围,界限"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语radius（光线、辐射）。radio本义为“辐射”，后特指通过电磁波辐射传播的通信技术，即无线电。名词指收音机或无线电报，动词指用无线电通讯。核心动作是“辐射传播”。",
+        "similarWarning": "ratio（比率）：词根rat-（计算），指比例关系。对比：radio有-dio-，ratio有-tio-。radius（半径）：词根rad-（辐射），指从圆心到圆周的射线。对比：radio结尾-o，radius结尾-us。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "radioactive",
+      "word": "radioactive",
+      "phonetic": "/ˌreidiəu'æktiv/",
+      "meaning": "a.放射性,放射引起的",
+      "similar": [
+        "adjective",
+        "attractive",
+        "indicative"
+      ],
+      "question": {
+        "wordId": "radioactive",
+        "stem": "选择 \"radioactive\" 的正确中文意思：",
+        "correct": "a.放射性,放射引起的",
+        "options": [
+          "a.(of)指示的,暗示的",
+          "a.吸引人的，引人注意的；漂亮的，迷人的",
+          "n.形容词 a.形容词的，用作形容词的",
+          "a.放射性,放射引起的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "构词：radio-（射线）+ active（活跃的）。核心动作：原子核不稳定，自发释放射线（放射）的活跃状态。",
+        "similarWarning": "radioactive vs. adjective（形容词）：ad-（朝向）+ ject（投掷）+ -ive，意为“投掷向…的”，即“附加的、形容词的”；radioactive强调“射线活跃”。\nradioactive vs. attractive（吸引人的）：at-（向）+ tract（拉）+ -ive，意为“拉向自己的”，即“有吸引力的”；radioactive无“吸引”义。\nradioactive vs. indicative（指示的）：in-（向内）+ dic（说）+ -ative，意为“向内说出的”，即“指示的”；radioactive与“指示”无关。",
+        "extendedMeaning": "考研僻义：指“具有放射性的（物质/能量）”，常与污染、衰变搭配，如 radioactive waste（放射性废料），非字面“活跃”义。",
+        "examUsage": "真题考点：常用于科技类阅读，搭配 decay（衰变）、contamination（污染），如“radioactive decay”（放射性衰变）是物理/环境主题关键词。"
+      }
+    },
+    {
+      "id": "radius",
+      "word": "radius",
+      "phonetic": "/'reidiəs/",
+      "meaning": "n.半径,半径范围,有效航程,范围,界限",
+      "similar": [
+        "radio",
+        "gracious"
+      ],
+      "question": {
+        "wordId": "radius",
+        "stem": "选择 \"radius\" 的正确中文意思：",
+        "correct": "n.半径,半径范围,有效航程,范围,界限",
+        "options": [
+          "a.亲切的,客气的;宽厚的,仁慈的",
+          "n.半径,半径范围,有效航程,范围,界限",
+          "n.收音机；无线电报，无线电话v.无线电通讯",
+          "n.复杂,纠纷;并发症"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语radius（射线、轮辐），原指车轮的辐条，后几何学借用表示从圆心到圆周的线段（即半径），引申为任何圆形或辐射状的范围或界限。词根radi-（射线）→半径/范围。",
+        "similarWarning": "radio（n.无线电） vs radius（n.半径）：radio是radi-（射线）+ -o（名词后缀），指通过电磁波传播的声音；radius是radi-（射线）+ -us（拉丁名词后缀），指几何中的射线长度。gracious（adj.亲切的）拼写差异大，不易混淆。",
+        "extendedMeaning": "在科技或地理语境中指‘有效范围、活动范围’，如：within a radius of 50 miles（方圆50英里内）；在解剖学中指‘桡骨’（前臂两根长骨之一）。",
+        "examUsage": "考研阅读中常以‘within a radius of…’形式出现，表示‘在…范围内’，或用于比喻‘影响范围’，如：the radius of influence（影响半径）。注意与range（范围）的辨析：radius强调圆形辐射范围，range更泛指区间或射程。"
+      }
+    },
+    {
+      "id": "rag",
+      "word": "rag",
+      "phonetic": "/ræg/",
+      "meaning": "n.抹布,破布,碎布",
+      "similar": [
+        "drag",
+        "rage",
+        "lag",
+        "rap",
+        "rat",
+        "raw",
+        "ray",
+        "rug"
+      ],
+      "question": {
+        "wordId": "rag",
+        "stem": "选择 \"rag\" 的正确中文意思：",
+        "correct": "n.抹布,破布,碎布",
+        "options": [
+          "v./n.落后,滞后 vt.用隔热材料覆盖(锅炉等)",
+          "n.愤怒",
+          "v.拖,拖曳",
+          "n.抹布,破布,碎布"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟撕裂布料或摩擦粗糙表面的声音。核心物理动作为“撕扯”，引申为被撕扯后的碎片，即破布、抹布。",
+        "similarWarning": "rag vs. rage（愤怒，词尾加e表情绪爆发） vs. drag（拖拽，d-表向下/拉） vs. bag（袋子，b-表包裹）。差异在首字母或尾字母，注意rage中e不发音改变词性和语义。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "rage",
+      "word": "rage",
+      "phonetic": "/reidʒ/",
+      "meaning": "n.愤怒",
+      "similar": [
+        "range",
+        "age",
+        "rag",
+        "cage",
+        "rake",
+        "rape",
+        "rare",
+        "rate"
+      ],
+      "question": {
+        "wordId": "rage",
+        "stem": "选择 \"rage\" 的正确中文意思：",
+        "correct": "n.愤怒",
+        "options": [
+          "n.愤怒",
+          "n.年龄；时代；老年；长时间 v.(使)变老",
+          "n.范围,领域;排列,连续;(山)脉v.排列成行",
+          "n.抹布,破布,碎布"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古法语'rage'，源自拉丁语'rabies'（狂犬病、疯狂）。核心物理动作是‘狂暴、失控的猛烈状态’，从疾病引申为情绪的极度爆发，强调失控的暴怒。",
+        "similarWarning": "range（范围，n./v.）：r+ange（排列）→ 排列成行，强调秩序；rage（狂怒）：r+age（时代）→ 时代之怒？实则与‘狂犬病’同源。对比：range有‘n’表序列，rage无‘n’表混乱。",
+        "extendedMeaning": "1. 风浪的狂暴（the rage of the storm）；2. 流行、风靡（all the rage，在真题中常作为‘时尚’的抽象表达，如‘be all the rage’意为‘盛行一时’）。",
+        "examUsage": "固定搭配：fly into a rage（勃然大怒）。真题中常作为情绪类干扰项，与anger区别：rage强调失控的、暴烈的愤怒，而anger更通用。例句：He flew into a rage at the news, slamming the door. (真题干扰项设置点)"
+      }
+    },
+    {
+      "id": "raid",
+      "word": "raid",
+      "phonetic": "/reɪd/",
+      "meaning": "n/v..袭击,搜查",
+      "similar": [
+        "rapid",
+        "aid",
+        "rid",
+        "maid",
+        "rail",
+        "afraid",
+        "brain",
+        "brand"
+      ],
+      "question": {
+        "wordId": "raid",
+        "stem": "选择 \"raid\" 的正确中文意思：",
+        "correct": "n/v..袭击,搜查",
+        "options": [
+          "a.快,急速的 n.(pl.)急流,湍滩",
+          "n/v..袭击,搜查",
+          "n.援助，救护；助手，辅助物 vi.援助，救援",
+          "v.(of)使摆脱,使去掉"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源自古英语‘rād’（骑行、袭击），核心动作是‘快速突入’——如骑兵冲入敌阵或警察突入搜查。强调短暂、突然的侵入行为。",
+        "similarWarning": "raid vs. rapid：raid含字母‘d’（打击），rapid含‘p’（快）；raid是袭击，rapid是快速的。raid vs. aid：a开头，aid是帮助，raid是攻击，字母‘r’表‘再’或‘反向’。raid vs. rid：rid是去除，raid是侵入，字母‘a’表‘向’。",
+        "extendedMeaning": "考研僻义：1. 突袭检查（如警方raid）；2. 劫掠（如资源raid）。常见于经济类文章，如‘corporate raid’（企业恶意收购）。",
+        "examUsage": "真题考点：常与‘launch a raid’（发动袭击）、‘raid on’（对…的搜查）搭配。注意与‘invasion’（大规模入侵）区分：raid更强调短时突袭。"
+      }
+    },
+    {
+      "id": "rail",
+      "word": "rail",
+      "phonetic": "/reil/",
+      "meaning": "n.栏杆,围栏;(pl.)铁路;铁轨;横杆,栏杆",
+      "similar": [
+        "trail",
+        "fail",
+        "hail",
+        "nail",
+        "pail",
+        "raid",
+        "sail",
+        "tail"
+      ],
+      "question": {
+        "wordId": "rail",
+        "stem": "选择 \"rail\" 的正确中文意思：",
+        "correct": "n.栏杆,围栏;(pl.)铁路;铁轨;横杆,栏杆",
+        "options": [
+          "v.下雹;欢呼,欢迎 n.雹",
+          "n.踪迹,痕迹;小路 v.追踪,跟踪;拖,拖曳;",
+          "n.栏杆,围栏;(pl.)铁路;铁轨;横杆,栏杆",
+          "v.失败,不及格;衰退,减弱"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根源自拉丁语 'regula'（直尺、规则），核心物理动作为‘笔直的木条或金属条’。词义演变：直木条→栏杆/横杆→铁轨（两根平行金属条）→铁路系统。",
+        "similarWarning": "trail（追踪，路径，t+rail 强调拖曳痕迹）；fail（失败，f+ail 与‘栏杆’无关）；hail（冰雹，欢呼，h+ail 与冰粒或呼喊相关）；mail（邮件，m+ail 金属锁甲→邮政袋）；nail（指甲，钉子，n+ail 尖刺物）；pail（桶，p+ail 容器）；raid（突袭，r+aid 攻击）；rain（雨，r+ain 水滴）。与 rail 差异在于首字母及核心意象。",
+        "extendedMeaning": "1. 抱怨、责骂（考研真题中 'rail against/at' 表示‘猛烈抨击’）。2. 作为动词‘用栏杆围起’。",
+        "examUsage": "高频短语：'off the rails'（出轨；失控）。真题例句：'He railed against the government's policies.'（他猛烈抨击政府政策。）注意动词搭配介词 against/at。"
+      }
+    },
+    {
+      "id": "railroad",
+      "word": "railroad",
+      "phonetic": "/'reilrəud/",
+      "meaning": "n.(railway)铁路 v.由铁道运输",
+      "similar": [
+        "abroad"
+      ],
+      "question": {
+        "wordId": "railroad",
+        "stem": "选择 \"railroad\" 的正确中文意思：",
+        "correct": "n.(railway)铁路 v.由铁道运输",
+        "options": [
+          "n.先后,次序;连续,数列",
+          "ad.到国外，在国外；在传播，在流传",
+          "n.(railway)铁路 v.由铁道运输",
+          "n.纪律,学科"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "复合词：rail（栏杆、铁轨）+ road（路）。字面意为“铁轨的路”，即铁路。动词义“由铁道运输”由名词直接转化而来。",
+        "similarWarning": "abroad（a+ broad，在国外）；railroad（rail+ road，铁路）。差异在首字母“r”与“a”及中间部分“rail”与“abro”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "rainbow",
+      "word": "rainbow",
+      "phonetic": "/'reinbəu/",
+      "meaning": "n.虹",
+      "similar": [],
+      "question": {
+        "wordId": "rainbow",
+        "stem": "选择 \"rainbow\" 的正确中文意思：",
+        "correct": "n.虹",
+        "options": [
+          "n.虹",
+          "n.一部分,一份",
+          "n.湿气,湿度",
+          "n.兔子"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "rain（雨）+ bow（弓），雨后天空出现的弓形彩色光带，物理动作：雨后的弓形光影。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "raise",
+      "word": "raise",
+      "phonetic": "/reɪz/",
+      "meaning": "v.举起,提升;增加;饲养;引起;竖起;提出",
+      "similar": [
+        "praise",
+        "realise",
+        "bruise",
+        "cruise",
+        "revise",
+        "base",
+        "ease",
+        "rage"
+      ],
+      "question": {
+        "wordId": "raise",
+        "stem": "选择 \"raise\" 的正确中文意思：",
+        "correct": "v.举起,提升;增加;饲养;引起;竖起;提出",
+        "options": [
+          "n.青肿，挫伤；伤痕vt.打青；挫伤",
+          "v.(realize)认识到,体会到;实现",
+          "v.赞扬,歌颂;表扬 n.称赞,赞美;赞美的话",
+          "v.举起,提升;增加;饲养;引起;竖起;提出"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根源自古诺尔斯语 reisa，意为‘使站立、举起’。核心物理动作是‘由下向上施加力’，引申出提升（raise prices）、饲养（raise cattle）、引起（raise questions）、竖起（raise a flag）等义。",
+        "similarWarning": "praise（v.赞美，含‘p-’前缀表‘前’，强调公开赞扬）；rise（v.上升，不及物，无宾语）；raise（及物，后需接宾语）。bruise（v.擦伤，拼写含‘bru-’表‘捣碎’）。",
+        "extendedMeaning": "【考研僻义】提出（raise an issue/objection）；筹集（raise funds）；抚育（raise children）。",
+        "examUsage": "【真题考点】raise与rise辨析：及物vs不及物；raise与arise（出现，不及物）区分；搭配：raise awareness（提高意识），raise the standard（提高标准）。"
+      }
+    },
+    {
+      "id": "rake",
+      "word": "rake",
+      "phonetic": "/reik/",
+      "meaning": "n.耙子,耙机 v.耙;搜索,探索",
+      "similar": [
+        "brake",
+        "bake",
+        "fake",
+        "lake",
+        "rage",
+        "rape",
+        "rare",
+        "rate"
+      ],
+      "question": {
+        "wordId": "rake",
+        "stem": "选择 \"rake\" 的正确中文意思：",
+        "correct": "n.耙子,耙机 v.耙;搜索,探索",
+        "options": [
+          "v.烤,烘,焙;烧硬,焙干",
+          "v./n.制动(器),闸,刹车",
+          "n.假货，赝品 a.假的，冒充的 v.伪造；伪装",
+          "n.耙子,耙机 v.耙;搜索,探索"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源古英语 raca，核心物理动作为“用齿状工具刮/聚拢地面松散物”，引申为“搜索/探索”（如用耙子般仔细翻找）。",
+        "similarWarning": "brake（刹车/制动器，b+rake）；bake（烤，b+ake）；cake（蛋糕，c+ake）；fake（伪造，f+ake）；lake（湖，l+ake）；make（制作，m+ake）；race（赛跑/种族，r+ace）；rage（愤怒，r+age）。差异在于首字母或尾字母替换。",
+        "extendedMeaning": "（考研高频）v. 迅速大量获取（尤指钱财/利益），如 rake in（赚得盆满钵满）；v. 扫视/掠过（目光/灯光等），如 rake the audience（扫视观众）。",
+        "examUsage": "真题常考搭配：rake over（反复翻查/重提旧事），如 rake over the past（翻旧账）。干扰项常将 rake 与 race（赛跑）或 rage（愤怒）混淆，注意语境多与“收集/搜索”相关。"
+      }
+    },
+    {
+      "id": "rally",
+      "word": "rally",
+      "phonetic": "/'ræli/",
+      "meaning": "v.重整,恢复,振作 n.聚集,集会,拉力赛",
+      "similar": [
+        "ally",
+        "rarely",
+        "valley",
+        "ray",
+        "rail",
+        "rely",
+        "roll",
+        "wall"
+      ],
+      "question": {
+        "wordId": "rally",
+        "stem": "选择 \"rally\" 的正确中文意思：",
+        "correct": "v.重整,恢复,振作 n.聚集,集会,拉力赛",
+        "options": [
+          "n.(山)谷;流域",
+          "v.重整,恢复,振作 n.聚集,集会,拉力赛",
+          "n.同盟者，同盟国，vt.使结盟；与…有关联",
+          "ad.很少,难得,非常地"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自法语 'rallier'（re-再 + allier/ally 联合），核心动作是‘重新联合’。v.本义为将散乱力量重新集结，引申为恢复精力、振作精神；n.指重新集合的人群（集会）或连续集结的赛事（拉力赛）。",
+        "similarWarning": "really（真正地）：rally 含‘al’表联合，really 含‘real’表真实。ally（盟友）：rally 前缀 re-表重复，ally 无前缀。",
+        "extendedMeaning": "【考研僻义】v. 价格/市场止跌回升（经济类阅读高频），如：The stock market rallied sharply. 股市大幅反弹。",
+        "examUsage": "【真题考点】rally around/round 团结一致支持（完形/阅读常考短语），如：The party rallied around its leader. 全党团结在领袖周围。"
+      }
+    },
+    {
+      "id": "random",
+      "word": "random",
+      "phonetic": "/'rændəm/",
+      "meaning": "a.随机的,随意的 n.随机,随意",
+      "similar": [
+        "handsome"
+      ],
+      "question": {
+        "wordId": "random",
+        "stem": "选择 \"random\" 的正确中文意思：",
+        "correct": "a.随机的,随意的 n.随机,随意",
+        "options": [
+          "a.随机的,随意的 n.随机,随意",
+          "n.意识形态，(政治或社会的)思想意识",
+          "a.漂亮的,英俊的;慷慨的,数量可观的",
+          "v.使混乱,混淆"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古法语'randir'（疾驰、飞奔），核心动作是'无目标地冲跑'。词根ra-表'跑'，-dom表状态，字面即'奔跑状态'，引申为'无固定方向、无序'，即随机、随意。",
+        "similarWarning": "与handsome（英俊的）仅首字母不同：random强调无序性（r-跑），handsome侧重美观（hand-手，引申为'顺手、合意'）。",
+        "extendedMeaning": "考研僻义：作形容词时，可表'任意的、胡乱的'，如random sample（随机样本）中的'随机'已是基础义；更高级用法如'random violence'（无差别暴力），强调不加选择、无特定目标。",
+        "examUsage": "真题考点：常用于'at random'（随机地），如'chosen at random'（随机选择）。在完形中可能作为干扰项与'casual'（随便的）辨析：random强调无规律性，casual强调非正式或不经心。"
+      }
+    },
+    {
+      "id": "range",
+      "word": "range",
+      "phonetic": "/reɪndʒ/",
+      "meaning": "n.范围,领域;排列,连续;(山)脉v.排列成行",
+      "similar": [
+        "orange",
+        "rage",
+        "arrange",
+        "danger",
+        "fringe",
+        "manage",
+        "tangle",
+        "age"
+      ],
+      "question": {
+        "wordId": "range",
+        "stem": "选择 \"range\" 的正确中文意思：",
+        "correct": "n.范围,领域;排列,连续;(山)脉v.排列成行",
+        "options": [
+          "n.范围,领域;排列,连续;(山)脉v.排列成行",
+          "n.柑,桔,橙",
+          "n.愤怒",
+          "v.安排；整理，使有条理，排列，布置"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古法语'range'，源自'renc'（行列），核心物理动作为'排列成行'。引申为'范围'，即事物排列所覆盖的区间；'山脉'即山体排列成行。",
+        "similarWarning": "orange（橙子，n.） vs range：首字母'o'区别；rage（愤怒，n./v.） vs range：缺少'n'且词义不同；arrange（安排，v.） vs range：前缀'ar-'表示'去'，强调排列动作；strange（奇怪的，adj.） vs range：前缀'str-'改变词义。",
+        "extendedMeaning": "（1）知识/技能范围：a wide range of interests（广泛的兴趣）；（2）变动范围：price range（价格区间），age range（年龄范围）；（3）山脉：mountain range（山脉）。",
+        "examUsage": "真题高频搭配：range from...to...（范围从...到...），常用于说明事物多样性；within the range of（在...范围内），用于限定条件。例：The study covers a range of topics from economics to sociology.（该研究涵盖从经济学到社会学的一系列主题。）"
+      }
+    },
+    {
+      "id": "rank",
+      "word": "rank",
+      "phonetic": "/ræŋk/",
+      "meaning": "n.军衔,社会阶层;排 v.分等级,把…分类",
+      "similar": [
+        "frank",
+        "rack",
+        "tank",
+        "blank",
+        "brand",
+        "crack",
+        "crane",
+        "drunk"
+      ],
+      "question": {
+        "wordId": "rank",
+        "stem": "选择 \"rank\" 的正确中文意思：",
+        "correct": "n.军衔,社会阶层;排 v.分等级,把…分类",
+        "options": [
+          "a.坦白的,直率的",
+          "n.军衔,社会阶层;排 v.分等级,把…分类",
+          "n.挂物架,搁物架 v.使痛苦,折磨",
+          "n.罐,槽,箱；坦克 vt.储于槽中"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自日耳曼语，原指‘环形’或‘圆圈’，后引申为‘排列成环状’的队列，进而演变为‘一排、一行’；因队列中位置有高低，又引申出‘等级、军衔’等抽象义。核心物理动作是‘排列成行’，强调次序与位置。",
+        "similarWarning": "frank（adj.坦率的）与rank仅首字母f/r差异；bank（n.银行/河岸）与rank首字母b/r不同；rack（n.架子 v.折磨）与rank元音a/e不同；tank（n.坦克/水箱）首字母t/r区别；blank（adj.空白的）含bl-前缀；brand（n.品牌）含br-前缀；crack（v.破裂）首字母c/r差异；crane（n.起重机/鹤）含c-前缀。",
+        "extendedMeaning": "（在考研语境中，rank作为动词常表示‘将…分类、评定等级’，如‘rank among’意为‘跻身于…之列’，强调在某一群体中的相对位置或名次。）",
+        "examUsage": "（常见考点：1. rank as/among + 类别，意为‘被列为…’；2. rank + 序数词，如‘rank second’；3. 真题例句：The company ranks among the top 10 in the industry.）"
+      }
+    },
+    {
+      "id": "rap",
+      "word": "rap",
+      "phonetic": "/ræp/",
+      "meaning": "n.叩击,轻拍,斥责 v.敲,拍,打,斥责,使着迷",
+      "similar": [
+        "rape",
+        "reap",
+        "trap",
+        "wrap",
+        "cap",
+        "gap",
+        "lap",
+        "map"
+      ],
+      "question": {
+        "wordId": "rap",
+        "stem": "选择 \"rap\" 的正确中文意思：",
+        "correct": "n.叩击,轻拍,斥责 v.敲,拍,打,斥责,使着迷",
+        "options": [
+          "n.陷阱，圈套 vt.诱捕；使中圈套 vi.设圈套",
+          "v.收割,收获",
+          "n./vt.掠夺,蹂躏,强奸",
+          "n.叩击,轻拍,斥责 v.敲,拍,打,斥责,使着迷"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟快速、短促的敲击声（如敲门声“rap”）。核心物理动作是“轻而快地敲击”，引申为“斥责”（像连续敲击般的批评）和“使着迷”（敲击节奏让人沉浸）。",
+        "similarWarning": "rape（强奸，与rap差e字母）、reap（收割，ea双元音）、trap（陷阱，t开头）、wrap（包裹，w开头）",
+        "extendedMeaning": "考研中rap的僻义：n.斥责（如take the rap for sth. 替...背黑锅）；v.使着迷（rap sb. up 使某人全神贯注）",
+        "examUsage": "常见考点：take the rap（承担责任/背锅）在完形中作为固定搭配出现；rap out（厉声说出）在阅读中表情绪。"
+      }
+    },
+    {
+      "id": "rape",
+      "word": "rape",
+      "phonetic": "/reip/",
+      "meaning": "n./vt.掠夺,蹂躏,强奸",
+      "similar": [
+        "grape",
+        "rap",
+        "cape",
+        "rage",
+        "rake",
+        "rare",
+        "rate",
+        "ripe"
+      ],
+      "question": {
+        "wordId": "rape",
+        "stem": "选择 \"rape\" 的正确中文意思：",
+        "correct": "n./vt.掠夺,蹂躏,强奸",
+        "options": [
+          "n./vt.掠夺,蹂躏,强奸",
+          "n.葡萄",
+          "n.海角，岬；披肩，短披风",
+          "n.叩击,轻拍,斥责 v.敲,拍,打,斥责,使着迷"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语rapere（抢夺，抓走）。核心物理动作为“猛地抓取并带走”，引申为暴力夺取或性侵犯。",
+        "similarWarning": "grape（葡萄）：g-像藤蔓，rape是抓取，葡萄是藤上抓取的果实。rap（敲击）：无e结尾，动作轻快。race（赛跑）：c-像奔跑的腿，强调速度。rage（愤怒）：g-像内心激烈翻涌。",
+        "extendedMeaning": "在考研中常考“掠夺、蹂躏”的引申义，如对资源、文化的粗暴破坏，而非仅指性犯罪。",
+        "examUsage": ""
+      }
+    }
+  ]
+}

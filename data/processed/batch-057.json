@@ -1,0 +1,1696 @@
+{
+  "batchId": 57,
+  "words": [
+    {
+      "id": "pause",
+      "word": "pause",
+      "phonetic": "/pɔ:z/",
+      "meaning": "v./n.中止,暂停",
+      "similar": [
+        "clause",
+        "praise",
+        "spouse",
+        "use",
+        "base",
+        "ease",
+        "fuse",
+        "pace"
+      ],
+      "question": {
+        "wordId": "pause",
+        "stem": "选择 \"pause\" 的正确中文意思：",
+        "correct": "v./n.中止,暂停",
+        "options": [
+          "v./n.中止,暂停",
+          "n.配偶(指夫或妻)",
+          "v.赞扬,歌颂;表扬 n.称赞,赞美;赞美的话",
+          "n.(正式文件或法律文件的)条款;从句,分句"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语pausa（停止），来自希腊语pausis（停止），词根pau-（停止）。核心物理动作为动作的中断或短暂停止，强调时间上的间歇而非永久结束。",
+        "similarWarning": "cause（原因）、clause（条款）、praise（赞美）、spouse（配偶）。与cause相比，pause以p开头，强调停止；cause以c开头，强调起因。",
+        "extendedMeaning": "在考研中可引申为‘犹豫、踌躇’（如pause for thought），或作名词指‘停顿间隔’（如a brief pause）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pave",
+      "word": "pave",
+      "phonetic": "/peiv/",
+      "meaning": "v.铺砌,铺(路)",
+      "similar": [
+        "cave",
+        "pace",
+        "pale",
+        "save",
+        "wave",
+        "brave",
+        "carve",
+        "grave"
+      ],
+      "question": {
+        "wordId": "pave",
+        "stem": "选择 \"pave\" 的正确中文意思：",
+        "correct": "v.铺砌,铺(路)",
+        "options": [
+          "a.苍白的,灰白的;浅的,暗淡的",
+          "n.步,步伐,步调,速度 v.踱步,用步测",
+          "n.洞,穴",
+          "v.铺砌,铺(路)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根pav-（敲打、踩踏）→ 通过敲打或踩踏使地面平整 → 铺路。源自古法语paver，拉丁语pavire（敲打、夯实）。",
+        "similarWarning": "pave（铺路） vs. cave（洞穴，v.塌陷） vs. pace（步速，v.踱步） vs. page（页，v.翻页） vs. pale（苍白的，v.变淡） vs. save（拯救，v.节省） vs. wave（波浪，v.挥手） vs. brave（勇敢的，v.面对）",
+        "extendedMeaning": "pave the way for（为…铺平道路，创造条件）——考研阅读中常引申为“为后续发展奠定基础”，如科技、政策领域。",
+        "examUsage": "pave the way for... 为…铺平道路。真题例句：The new policy paved the way for further economic reforms.（新政策为进一步经济改革铺平了道路。）"
+      }
+    },
+    {
+      "id": "pavement",
+      "word": "pavement",
+      "phonetic": "/'peivmənt/",
+      "meaning": "n.人行道",
+      "similar": [
+        "payment",
+        "basement",
+        "movement",
+        "apartment",
+        "statement",
+        "cement",
+        "patent",
+        "augment"
+      ],
+      "question": {
+        "wordId": "pavement",
+        "stem": "选择 \"pavement\" 的正确中文意思：",
+        "correct": "n.人行道",
+        "options": [
+          "n.建筑物的底部,地下室,地窖",
+          "n.人行道",
+          "n.支付,付款额",
+          "n.运动,活动;移动,迁移"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "pave（铺路）+ -ment（名词后缀）→ 铺出来的路 → 人行道",
+        "similarWarning": "payment（付款）：pave vs pay（支付）；basement（地下室）：base（基础）vs pave；cement（水泥）：cem- vs pave-",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "paw",
+      "word": "paw",
+      "phonetic": "/pɔ:/",
+      "meaning": "n.爪",
+      "similar": [
+        "jaw",
+        "pad",
+        "pan",
+        "pat",
+        "raw",
+        "saw"
+      ],
+      "question": {
+        "wordId": "paw",
+        "stem": "选择 \"paw\" 的正确中文意思：",
+        "correct": "n.爪",
+        "options": [
+          "n.垫,衬垫;便笺簿 v.加上衬垫",
+          "n.平底锅,盘子,面板",
+          "n.颌,颚",
+          "n.爪"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿动物爪子拍打或抓挠的声音，核心物理动作是‘用爪子触碰或抓挠’。",
+        "similarWarning": "jaw（下巴）、law（法律）、pad（垫子）、pan（平底锅）、pat（轻拍）、pay（支付）、raw（生的）、saw（锯子）——这些词与paw在拼写上仅差首字母或尾字母，但词义完全不同。",
+        "extendedMeaning": "考研中无显著僻义，但需注意其动词用法‘用爪子抓/碰’，如‘paw at the ground’（用爪子刨地）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "payment",
+      "word": "payment",
+      "phonetic": "/'peimənt/",
+      "meaning": "n.支付,付款额",
+      "similar": [
+        "pavement",
+        "patent",
+        "garment",
+        "apartment",
+        "basement",
+        "fragment"
+      ],
+      "question": {
+        "wordId": "payment",
+        "stem": "选择 \"payment\" 的正确中文意思：",
+        "correct": "n.支付,付款额",
+        "options": [
+          "n.(一件)衣服",
+          "a.专利的,特许的n.专利(权、品)v.批准专利",
+          "n.人行道",
+          "n.支付,付款额"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根pay（支付）+名词后缀-ment（行为、结果）。核心物理动作：用钱交换物品或服务的行为及其金额。",
+        "similarWarning": "pavement（n.人行道）vs payment：a→ay，铺路材料 vs 支付；patent（n.专利）vs payment：t→y，专利 vs 付款；parent（n.父母）vs payment：r→y，亲属 vs 支付。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pea",
+      "word": "pea",
+      "phonetic": "/pi:/",
+      "meaning": "n.豌豆",
+      "similar": [
+        "peak",
+        "pear",
+        "plea",
+        "per",
+        "pet",
+        "opera",
+        "peach",
+        "pearl"
+      ],
+      "question": {
+        "wordId": "pea",
+        "stem": "选择 \"pea\" 的正确中文意思：",
+        "correct": "n.豌豆",
+        "options": [
+          "n.(法律)抗辩；请求，恳求，托词，口实",
+          "n.豌豆",
+          "n.山顶,最高点;峰,山峰 a.高峰的,最高的",
+          "n.梨子,梨树"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'pisa'，通过古英语 'pise' 演变而来。核心物理动作是 '豌豆' 这一圆形豆类植物的种子，词义直接对应实物，无复杂词根拆分。",
+        "similarWarning": "peak (山峰/顶点，ea组合发音不同)；pear (梨，r结尾)；plea (恳求，l插入)；pen (笔，e→n)；per (每，e→r)；pet (宠物，e→t)；sea (海，s开头)；tea (茶，t开头)。",
+        "extendedMeaning": "在考研中无特殊僻义，仅作为基础食物名词出现。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "peaceful",
+      "word": "peaceful",
+      "phonetic": "/'pi:sful/",
+      "meaning": "a.和平的,平静的,安宁的,爱好和平的",
+      "similar": [
+        "graceful",
+        "careful",
+        "fearful",
+        "painful",
+        "grateful"
+      ],
+      "question": {
+        "wordId": "peaceful",
+        "stem": "选择 \"peaceful\" 的正确中文意思：",
+        "correct": "a.和平的,平静的,安宁的,爱好和平的",
+        "options": [
+          "a.可怕的，吓人的；害怕，担心，惊恐",
+          "a.小心的,仔细的;细致的,精心的",
+          "a.优美的,文雅的,大方的",
+          "a.和平的,平静的,安宁的,爱好和平的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根词缀：peace（和平）+ -ful（充满...的）→ 充满和平的，引申为平静的、安宁的。核心动作：状态描述，无复杂演变。",
+        "similarWarning": "形近词辨析：peaceful（和平的） vs. graceful（优雅的） vs. careful（小心的） vs. fearful（恐惧的） vs. painful（痛苦的） vs. grateful（感激的）。差异在于词根：peace（和平）、grace（优雅）、care（小心）、fear（恐惧）、pain（痛苦）、grate（感激）。",
+        "extendedMeaning": "考研僻义：无特殊僻义，基本义即为常考义。",
+        "examUsage": "真题考点：常见于阅读理解中描述环境或氛围（如peaceful atmosphere），或作为形容词修饰名词（如peaceful coexistence）。无特殊干扰项或固定搭配，考点直指词义理解。"
+      }
+    },
+    {
+      "id": "peach",
+      "word": "peach",
+      "phonetic": "/pi:tʃ/",
+      "meaning": "n.桃,桃树",
+      "similar": [
+        "preach",
+        "beach",
+        "reach",
+        "breach",
+        "detach",
+        "search",
+        "pea",
+        "pace"
+      ],
+      "question": {
+        "wordId": "peach",
+        "stem": "选择 \"peach\" 的正确中文意思：",
+        "correct": "n.桃,桃树",
+        "options": [
+          "n.海滩,湖滩,河滩",
+          "v.宣讲(教义),布道;竭力鼓吹,宣传;说教",
+          "v.抵达;(out)伸手,够到 n.能达到的范围",
+          "n.桃,桃树"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 persica (波斯的水果)，经由古法语 peche 进入英语。词根核心指代一种原产于波斯（今伊朗）的甜美多汁的水果。",
+        "similarWarning": "形近词对比：preach (v. 布道，说教) 含字母 'r'；beach (n. 海滩) 首字母 'b'；peace (n. 和平) 结尾 'ce'；reach (v. 到达) 首字母 'r'；teach (v. 教授) 首字母 't'；breach (n./v. 违反，缺口) 含字母 'r' 和 'b'；detach (v. 分离) 前缀 de-。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "peak",
+      "word": "peak",
+      "phonetic": "/pi:k/",
+      "meaning": "n.山顶,最高点;峰,山峰 a.高峰的,最高的",
+      "similar": [
+        "pea",
+        "leak",
+        "pear",
+        "bleak",
+        "peach",
+        "pearl",
+        "pedal",
+        "plead"
+      ],
+      "question": {
+        "wordId": "peak",
+        "stem": "选择 \"peak\" 的正确中文意思：",
+        "correct": "n.山顶,最高点;峰,山峰 a.高峰的,最高的",
+        "options": [
+          "n.山顶,最高点;峰,山峰 a.高峰的,最高的",
+          "n.豌豆",
+          "v.漏,泄漏 n.漏洞,漏隙;泄漏,漏出",
+          "n.梨子,梨树"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根词源不详，可能源自拟声或凯尔特语。核心物理动作是“尖锐的点”，从山的尖端引申为任何事物的最高点或峰值。",
+        "similarWarning": "speak（说话，区别首字母s-）；leak（泄漏，区别首字母l-）；weak（虚弱的，区别首字母w-）；peak与peek（偷看，拼写仅差e/i，含义完全不同）。",
+        "extendedMeaning": "考研僻义：指达到最高峰、达到顶点（动词）。如：Sales peaked in December.（销量在12月达到顶峰。）",
+        "examUsage": "常考搭配：peak season（旺季）；peak hours（高峰时段）；peak performance（最佳表现）。真题中常作为图表描述词，表示“达到峰值”。"
+      }
+    },
+    {
+      "id": "peanut",
+      "word": "peanut",
+      "phonetic": "/'pi:nʌt/",
+      "meaning": "n.花生",
+      "similar": [
+        "pant",
+        "planet"
+      ],
+      "question": {
+        "wordId": "peanut",
+        "stem": "选择 \"peanut\" 的正确中文意思：",
+        "correct": "n.花生",
+        "options": [
+          "n.喘气 v.喘,气喘吁吁地说",
+          "n.花生",
+          "num./a.八十 pron.八十(个，只...)",
+          "n.行星"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "pea（豌豆）+ nut（坚果），字面为“豌豆状的坚果”。花生虽非坚果，但因其外壳坚硬、籽粒形似豌豆，故得此名。",
+        "similarWarning": "pant（喘息）、plant（植物）、planet（行星）：peanut 以 pea 开头，区别于 pant 的 pan-、plant 的 plan-、planet 的 plane-，核心差异在于首字母组合。",
+        "extendedMeaning": "在考研中，peanut 可引申为“微不足道的小人物或小事物”，如“peanut gallery”（廉价座位/指爱挑剔的观众），但更常见的是“peanuts”表示“很少的钱”，如“paid peanuts”（报酬极低）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pear",
+      "word": "pear",
+      "phonetic": "/pεə/",
+      "meaning": "n.梨子,梨树",
+      "similar": [
+        "pearl",
+        "spear",
+        "ear",
+        "pea",
+        "per",
+        "bear",
+        "fear",
+        "gear"
+      ],
+      "question": {
+        "wordId": "pear",
+        "stem": "选择 \"pear\" 的正确中文意思：",
+        "correct": "n.梨子,梨树",
+        "options": [
+          "n.矛,枪",
+          "n.耳，耳朵；听力，听觉；穗",
+          "n.梨子,梨树",
+          "n.珍珠"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不明，可能来自拉丁语pirum（梨），通过古英语pere进入现代英语。核心指一种水果或树。",
+        "similarWarning": "pearl（珍珠）多一个l；spear（矛）多s；ear（耳朵）少p；pea（豌豆）少r；per（每）替换a为e；bear（熊/忍受）b替换p；dear（亲爱的）d替换p；fear（害怕）f替换p。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pearl",
+      "word": "pearl",
+      "phonetic": "/pə:l/",
+      "meaning": "n.珍珠",
+      "similar": [
+        "pear",
+        "petrol",
+        "yearly",
+        "ear",
+        "pea",
+        "per",
+        "bear",
+        "deal"
+      ],
+      "question": {
+        "wordId": "pearl",
+        "stem": "选择 \"pearl\" 的正确中文意思：",
+        "correct": "n.珍珠",
+        "options": [
+          "n.珍珠",
+          "n.梨子,梨树",
+          "n.汽油",
+          "a.每年的，一年一度的 ad.每年，一年一次地"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源自拉丁语perna（海贝）的变体。核心意象：贝类体内形成的圆形宝石，象征珍贵、完美或泪滴状物。",
+        "similarWarning": "pear（梨，n.） vs pearl（珍珠）：pear少一个字母‘l’，词义无关；nearly（几乎，adv.） vs pearl：拼写差异大，但易混淆发音；petrol（汽油，n.） vs pearl：字母‘t’替换‘a’，词义无关；yearly（每年的，adj./adv.） vs pearl：首字母不同；ear（耳朵，n.） vs pearl：少‘p’和‘l’；pea（豌豆，n.） vs pearl：少‘r’和‘l’；per（每，prep.） vs pearl：少‘a’和‘l’；bear（熊/忍受，n./v.） vs pearl：首字母不同。重点辨析pear与pearl，后者多一个‘l’且为宝石。",
+        "extendedMeaning": "熟词僻义：比喻珍品、杰出人物或事物（如‘a pearl of wisdom’智慧的结晶）；在文学中可指泪珠或露珠。",
+        "examUsage": "真题考点：常作为比喻用法出现，如‘cast pearls before swine’（对牛弹琴），需理解其文化隐喻而非字面义。"
+      }
+    },
+    {
+      "id": "peasant",
+      "word": "peasant",
+      "phonetic": "/'pezənt/",
+      "meaning": "n.(不用于英国或美国)小农;佃农;农民",
+      "similar": [
+        "pleasant",
+        "pregnant"
+      ],
+      "question": {
+        "wordId": "peasant",
+        "stem": "选择 \"peasant\" 的正确中文意思：",
+        "correct": "n.(不用于英国或美国)小农;佃农;农民",
+        "options": [
+          "n.(不用于英国或美国)小农;佃农;农民",
+          "a.令人愉快的 vt.使高兴 vi.满意；喜欢",
+          "a.怀孕的,孕育的,充满的,意味深长的",
+          "n.感情，柔情；看法；感觉"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古法语“paisant”，意为“乡村居民”，与拉丁语“pagus”（乡村、地区）相关。核心动作是“在固定土地上劳作的人”，强调与土地绑定的低社会阶层，区别于“farmer”（现代农场主）。",
+        "similarWarning": "pleasant（愉快的）：peasant vs pleasant，差异在于“s”后多“l”和“a”；pregnant（怀孕的）：peasant vs pregnant，差异在于“s”变“g”且多“r”。peasant指农民，pleasant形容愉悦，pregnant指怀孕状态。",
+        "extendedMeaning": "在考研真题中，peasant常引申为“粗野的人、无教养者”，带有贬义色彩，如“He was treated like a peasant.”（他被当作粗人对待。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pebble",
+      "word": "pebble",
+      "phonetic": "/'pebl/",
+      "meaning": "n.卵石",
+      "similar": [
+        "bubble",
+        "feeble"
+      ],
+      "question": {
+        "wordId": "pebble",
+        "stem": "选择 \"pebble\" 的正确中文意思：",
+        "correct": "n.卵石",
+        "options": [
+          "a.虚弱的,无力的",
+          "v.使更坚固,使更坚定;(进一步)证实;确认",
+          "n.泡,水泡,气泡 v.冒泡,起泡,沸腾",
+          "n.卵石"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自拟声词，模仿小石子落入水中的声音。核心物理动作：小而圆的石头，经水流冲刷而成，强调“光滑、细小”的物理形态。",
+        "similarWarning": "bubble（气泡）：b-开头强调鼓起的圆形，而pebble是p-开头强调扁平的圆形。feeble（虚弱的）：核心是fee-（费用/衰落），与石头无关。people（人们）：字母差异大，但拼写相似易混，需注意区分。",
+        "extendedMeaning": "（无特殊僻义，留空）",
+        "examUsage": "（无特殊考点，留空）"
+      }
+    },
+    {
+      "id": "peculiar",
+      "word": "peculiar",
+      "phonetic": "/pi'kju:ljə/",
+      "meaning": "a.古怪的,异常的;特殊的,特有的",
+      "similar": [
+        "regular"
+      ],
+      "question": {
+        "wordId": "peculiar",
+        "stem": "选择 \"peculiar\" 的正确中文意思：",
+        "correct": "a.古怪的,异常的;特殊的,特有的",
+        "options": [
+          "v.练习,实习,实践,实行,使...练习,训练",
+          "a.古怪的,异常的;特殊的,特有的",
+          "a.有规律的;整齐的,匀称的,正规的,正式的",
+          "n.喷雾,飞沫,浪花,水花 v.喷,喷射"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'peculium'（私产，家畜），原指‘私人拥有的牛群’，后引申为‘私人的、特有的’，进而带出‘古怪、异常’的含义。词根 'pecu-' 意为‘牛、财富’，暗示‘属于个人的’→‘与众不同的’→‘古怪的’。",
+        "similarWarning": "形近词辨析：\n- peculiar [pe'kju:ljə] vs. popular ['pɔpjulə]：差异在 'cu' vs. 'pu'；前者强调‘独特、古怪’，后者指‘流行的、受欢迎的’，含义相去甚远。\n- peculiar vs. regular ['regjulə]：差异在 'cu' vs. 'gu'；前者侧重‘异常、特殊’，后者意为‘规则的、常规的’，完全相反。",
+        "extendedMeaning": "考研僻义：在真题中常考‘特有的’（be peculiar to），如‘a phenomenon peculiar to the modern society’（现代社会特有的现象），而非仅指‘古怪的’。",
+        "examUsage": "真题考点：常与介词 'to' 搭配构成 'be peculiar to'（为……所特有），是作文和阅读中的高频固定结构。例如：'This custom is peculiar to the region.'（这种习俗是该地区特有的。）"
+      }
+    },
+    {
+      "id": "pedal",
+      "word": "pedal",
+      "phonetic": "/'pedl/",
+      "meaning": "n.踏板 v.踩踏板,骑自行车",
+      "similar": [
+        "medal",
+        "feudal",
+        "pea",
+        "deal",
+        "heal",
+        "peak",
+        "pear",
+        "peel"
+      ],
+      "question": {
+        "wordId": "pedal",
+        "stem": "选择 \"pedal\" 的正确中文意思：",
+        "correct": "n.踏板 v.踩踏板,骑自行车",
+        "options": [
+          "n.豌豆",
+          "a.封建的;封地的;领地的",
+          "n.奖章,勋章,纪念章",
+          "n.踏板 v.踩踏板,骑自行车"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 ped-=foot（脚），-al 形容词/名词后缀。核心动作：用脚踩踏的装置或动作，即踏板或踩踏板。",
+        "similarWarning": "medal（奖章）：区别在于 m- 与 p-，medal 源自金属，pedal 源自脚。feudal（封建的）：feud- 意为领地，与 ped- 无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pedestrian",
+      "word": "pedestrian",
+      "phonetic": "/pi'destriən/",
+      "meaning": "n.步行者 a.徒步的,呆板的,通俗的",
+      "similar": [
+        "industrial",
+        "vegetarian"
+      ],
+      "question": {
+        "wordId": "pedestrian",
+        "stem": "选择 \"pedestrian\" 的正确中文意思：",
+        "correct": "n.步行者 a.徒步的,呆板的,通俗的",
+        "options": [
+          "v.(in)坚持,持续",
+          "a.工业的,产业的",
+          "n.步行者 a.徒步的,呆板的,通俗的",
+          "n.素食主义者"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 pedester (步行的)，由 ped- (脚) + -ester (从事者) 构成。核心物理动作是“用脚走路的人”，引申为“徒步的”，再进一步引申为“平凡的、呆板的”，因为步行相对于骑马或乘车显得缓慢、普通。",
+        "similarWarning": "industrial (工业的) 与 pedestrian 无直接拼写关联，但 vegetarian (素食者) 有相似后缀 -ian/-an，但 pedestrian 核心在 ped- (脚)，而 vegetarian 源于 veget- (植物)，注意区别。",
+        "extendedMeaning": "在考研阅读中常考形容词义“呆板的、缺乏想象力的”，如 a pedestrian style (平淡无奇的风格)；或“通俗的”如 pedestrian language (通俗语言)。",
+        "examUsage": "真题中常作为形容词出现在阅读理解中，与 creative, imaginative 等词形成对比，如2012年英语二阅读中 pedestrian 用于描述缺乏创新的设计。搭配：pedestrian approach (平庸的方法)。"
+      }
+    },
+    {
+      "id": "peel",
+      "word": "peel",
+      "phonetic": "/pi:l/",
+      "meaning": "v.削皮,剥皮 n.果皮",
+      "similar": [
+        "heel",
+        "peep",
+        "peer",
+        "reel",
+        "jewel",
+        "kneel",
+        "panel",
+        "pearl"
+      ],
+      "question": {
+        "wordId": "peel",
+        "stem": "选择 \"peel\" 的正确中文意思：",
+        "correct": "v.削皮,剥皮 n.果皮",
+        "options": [
+          "v.偷看,窥视",
+          "v.削皮,剥皮 n.果皮",
+          "n.同辈,同等地位的人;贵族 v.凝视,隐约出现",
+          "n.脚后跟,踵,鞋跟"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根源于拉丁语pilare（剥去毛发），核心物理动作为“剥离表层”。p-（抓取）+ -eel（工具/动作），原指用工具刮去外皮，后引申为任何去除外层覆盖物的动作。",
+        "similarWarning": "peep（偷看）：peel vs peep，差异在l（剥离）与p（窥视），peel强调去除外层，peep强调短暂看。peer（凝视）：peel vs peer，差异在l（剥离）与r（凝视），peel为动作，peer为视觉。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "peep",
+      "word": "peep",
+      "phonetic": "/pi:p/",
+      "meaning": "v.偷看,窥视",
+      "similar": [
+        "peel",
+        "peer",
+        "weep",
+        "creep",
+        "sheep",
+        "speed",
+        "steep",
+        "sweep"
+      ],
+      "question": {
+        "wordId": "peep",
+        "stem": "选择 \"peep\" 的正确中文意思：",
+        "correct": "v.偷看,窥视",
+        "options": [
+          "v.偷看,窥视",
+          "v.削皮,剥皮 n.果皮",
+          "n.同辈,同等地位的人;贵族 v.凝视,隐约出现",
+          "v.哭泣,流泪;滴下 n.哭泣"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿偷偷看时发出的轻微声音或动作。词源上与'peer'（凝视）相关，但更强调短暂、隐秘的看。核心动作：通过狭窄缝隙或隐蔽方式快速观察。",
+        "similarWarning": "peer（凝视，同龄人）与peep仅差一字母'r'，peer强调专注仔细的看，peep强调偷偷摸摸的看。",
+        "extendedMeaning": "（非字面）1. 隐约出现，微现：The moon peeped through the clouds.（月亮从云层中隐约露出。）2. 发出吱吱声（幼鸟叫声）：The chicks peeped loudly.",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "peer",
+      "word": "peer",
+      "phonetic": "/piə/",
+      "meaning": "n.同辈,同等地位的人;贵族 v.凝视,隐约出现",
+      "similar": [
+        "per",
+        "beer",
+        "deer",
+        "pear",
+        "peel",
+        "peep",
+        "pepper",
+        "prefer"
+      ],
+      "question": {
+        "wordId": "peer",
+        "stem": "选择 \"peer\" 的正确中文意思：",
+        "correct": "n.同辈,同等地位的人;贵族 v.凝视,隐约出现",
+        "options": [
+          "n.同辈,同等地位的人;贵族 v.凝视,隐约出现",
+          "prep.每;经,由",
+          "n.鹿",
+          "n.啤酒"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源自拉丁语par（相等），核心动作是“等同、对等”。peer作为名词指地位或年龄相等的人（如同辈、同龄人），引申为贵族（因贵族之间地位平等）；作为动词“凝视”源于古法语perer（出现、显现），强调费力地看（如从缝隙中窥视），与“平等”无关，注意区分。",
+        "similarWarning": "peer vs pear：peer（同辈/凝视），pear（梨）。区别在字母e与a，前者表“平等”，后者为水果。peep：偷看（强调快速瞥见），peer：凝视（持续费力）。peel：剥皮（动词）。",
+        "extendedMeaning": "考研僻义：动词“隐约出现”（如The moon peered through the clouds. 月亮从云层中隐约出现），强调部分可见，非完全显现。",
+        "examUsage": "真题考点：peer review（同行评审）为高频学术搭配，常出现在阅读中表“由同等专家评估”；peer pressure（同龄人压力）用于写作或完形。注意名词与动词词性转换在完形中的干扰。"
+      }
+    },
+    {
+      "id": "penalty",
+      "word": "penalty",
+      "phonetic": "/'penəlti/",
+      "meaning": "n.处罚,刑罚,惩罚,罚金",
+      "similar": [],
+      "question": {
+        "wordId": "penalty",
+        "stem": "选择 \"penalty\" 的正确中文意思：",
+        "correct": "n.处罚,刑罚,惩罚,罚金",
+        "options": [
+          "v.救,拯救;储蓄,贮存;节省",
+          "n.似非而是的话,自相矛盾的话,反论",
+          "n.处罚,刑罚,惩罚,罚金",
+          "vt.达到；完成；获得 vi.达到"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'poena'（惩罚，痛苦），经由古法语 'penalite' 进入英语。核心物理动作/画面：施加痛苦或剥夺权益以作为对过错行为的回应。词根 'pen-' 与 'pain'（痛苦）同源，强调惩罚带来的痛苦代价。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研语境中，常引申为因违反规则或法律而需承担的负面后果，不限于金钱或刑罚，如“the penalty for failure”（失败的代价）。",
+        "examUsage": "常见于法律或规则类阅读，搭配 'death penalty'（死刑），'penalty clause'（惩罚条款）。真题例句：The penalty for cheating is severe. (作弊的惩罚很严厉。)"
+      }
+    },
+    {
+      "id": "pencil",
+      "word": "pencil",
+      "phonetic": "/'pensl/",
+      "meaning": "n.铅笔 vt.用铅笔写",
+      "similar": [],
+      "question": {
+        "wordId": "pencil",
+        "stem": "选择 \"pencil\" 的正确中文意思：",
+        "correct": "n.铅笔 vt.用铅笔写",
+        "options": [
+          "n.铅笔 vt.用铅笔写",
+          "n.蚁；蚂蚁",
+          "v.选择,挑选 a.精选的,选择的",
+          "n.(意见等的)一致，一致同意，共识"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语penicillus（小尾巴/画笔），由penis（尾巴）+指小后缀illus构成。核心物理动作是“用细尾状工具涂抹”，最初指画家用的细毛笔，后演变为石墨笔。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pendulum",
+      "word": "pendulum",
+      "phonetic": "/'pendjuləm/",
+      "meaning": "n.摆,钟摆",
+      "similar": [],
+      "question": {
+        "wordId": "pendulum",
+        "stem": "选择 \"pendulum\" 的正确中文意思：",
+        "correct": "n.摆,钟摆",
+        "options": [
+          "n./v.传真(机)",
+          "a.看得见的, 明显的, 显著的",
+          "n.舰队,船队",
+          "n.摆,钟摆"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "pend-（悬挂）+ -ulum（名词后缀，表示工具/物体）→ 悬挂的物体。核心动作：物体被挂住后因重力来回摆动。",
+        "similarWarning": "",
+        "extendedMeaning": "摇摆不定的人/物（如政治、立场等）；犹豫不决的状态。例：the pendulum of public opinion（舆论的摇摆）。",
+        "examUsage": "常考搭配：the pendulum of...（...的摇摆）；swing like a pendulum（像钟摆一样摇摆）。真题中常作比喻，指观点、政策等的反复变化。"
+      }
+    },
+    {
+      "id": "penetrate",
+      "word": "penetrate",
+      "phonetic": "/'penitreit/",
+      "meaning": "v.穿过,渗入,看穿",
+      "similar": [
+        "generate",
+        "celebrate",
+        "concentrate",
+        "demonstrate",
+        "degenerate"
+      ],
+      "question": {
+        "wordId": "penetrate",
+        "stem": "选择 \"penetrate\" 的正确中文意思：",
+        "correct": "v.穿过,渗入,看穿",
+        "options": [
+          "v.穿过,渗入,看穿",
+          "vt.产生,发生;生殖",
+          "vt.庆祝；颂扬，赞美vi.庆祝，过节",
+          "v.(on)集中,专心;浓缩 n.浓缩物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根penetr-（来自拉丁语penetrare，意为‘进入内部’），后缀-ate（动词后缀）。核心物理动作是‘刺入、穿过’，强调从外部进入内部或透过障碍物。",
+        "similarWarning": "形近词对比：generate（产生，词根gen-生育）、celebrate（庆祝，词根celebr-荣誉）、concentrate（集中，词根centr-中心）、demonstrate（展示，词根monstr-显示）、degenerate（退化，词根gener-种族）。差异在于词根：penetr- vs gen-/celebr-/centr-/monstr-/gener-。",
+        "extendedMeaning": "考研僻义：1. 洞察、识破（如penetrate sb's disguise，看穿伪装）；2. 渗透（如market penetration，市场渗透）。",
+        "examUsage": "真题考点：常考‘穿透’的引申义，如‘penetrate the mystery’（洞察奥秘）或‘penetrate the market’（打入市场）。无特殊固定搭配，但需注意与pierce（刺穿）的语义区别：penetrate更强调进入内部，pierce强调瞬间刺破。"
+      }
+    },
+    {
+      "id": "peninsula",
+      "word": "peninsula",
+      "phonetic": "/pi'ninsjulə/",
+      "meaning": "n.半岛",
+      "similar": [],
+      "question": {
+        "wordId": "peninsula",
+        "stem": "选择 \"peninsula\" 的正确中文意思：",
+        "correct": "n.半岛",
+        "options": [
+          "n.半岛",
+          "n.搬运人;载体",
+          "n.证明持券人有某权利的卡片，票证，赠券",
+          "ad.向内,在内 a.向内的,在内的,里面的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“paeninsula”，由“paene”（几乎）和“insula”（岛屿）组成，字面意为“几乎是一个岛”。核心物理动作：一块陆地三面环水，仅一面与大陆相连，形态上接近岛屿但未完全分离，故称半岛。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "penny",
+      "word": "penny",
+      "phonetic": "/'peni/",
+      "meaning": "n.便士,美分",
+      "similar": [
+        "plenty",
+        "deny",
+        "envy",
+        "funny",
+        "petty"
+      ],
+      "question": {
+        "wordId": "penny",
+        "stem": "选择 \"penny\" 的正确中文意思：",
+        "correct": "n.便士,美分",
+        "options": [
+          "v./n.羡慕,忌妒",
+          "n.便士,美分",
+          "n.丰富,大量",
+          "v.否认,否定;拒绝"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语penning，原始日耳曼语系中表示货币单位，与德语Pfennig同源。核心物理动作是“交换媒介”，象征最小货币单位。",
+        "similarWarning": "形近词对比：penny（便士） vs. plenty（大量） vs. deny（否认） vs. envy（嫉妒） vs. petty（琐碎的）。差异在于字母组合：penny中“nn”强调小单位；plenty有“l”表示丰富；deny的“d”表否定；envy的“v”表情感；petty的“t”表细微。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pension",
+      "word": "pension",
+      "phonetic": "/'penʃən/",
+      "meaning": "n.养老金,年金",
+      "similar": [
+        "tension",
+        "mention",
+        "passion",
+        "session",
+        "version",
+        "dimension",
+        "expansion",
+        "extension"
+      ],
+      "question": {
+        "wordId": "pension",
+        "stem": "选择 \"pension\" 的正确中文意思：",
+        "correct": "n.养老金,年金",
+        "options": [
+          "n.(紧张)状态；拉(绷)紧；张力，拉力",
+          "n.热情,激情,爱好;激怒;强烈感情",
+          "n.养老金,年金",
+          "v./n.提及,说起"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根pens-（称量，支付） + -ion（名词后缀）。原指“称量后支付的金额”，即定期支付的款项。核心动作是“称量→支付”，引申为定期发放的养老金或年金。",
+        "similarWarning": "pension vs. tension: p-（支付） vs. t-（拉紧）；pension vs. passion: pens-（支付） vs. pass-（忍受）",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "pepper",
+      "word": "pepper",
+      "phonetic": "/'pepə/",
+      "meaning": "n.胡椒粉,胡椒;辣椒",
+      "similar": [
+        "peer",
+        "upper",
+        "copper",
+        "proper",
+        "puppet",
+        "supper",
+        "temper"
+      ],
+      "question": {
+        "wordId": "pepper",
+        "stem": "选择 \"pepper\" 的正确中文意思：",
+        "correct": "n.胡椒粉,胡椒;辣椒",
+        "options": [
+          "n.同辈,同等地位的人;贵族 v.凝视,隐约出现",
+          "a.上面的;上部的,较高的",
+          "n.铜;铜币,铜制器",
+          "n.胡椒粉,胡椒;辣椒"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语piper（胡椒），通过古英语pipor演变而来。词根核心动作是“辛辣刺激”，指胡椒的辛辣味道能刺激味觉。",
+        "similarWarning": "peer（同辈）：pepper vs peer，差“pp”与“r”，胡椒是辛辣物，同辈是同等的人。paper（纸）：pepper vs paper，差“p”与“a”，胡椒是调味品，纸是书写材料。",
+        "extendedMeaning": "在考研外刊中，pepper可作动词，意为“（用小物体）密集打击”或“（在文章中）大量穿插”，如“pepper with questions”（连珠炮般提问）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "per",
+      "word": "per",
+      "phonetic": "/pə:/",
+      "meaning": "prep.每;经,由",
+      "similar": [
+        "pear",
+        "peer",
+        "pea",
+        "pet",
+        "opera",
+        "pearl",
+        "spear",
+        "super"
+      ],
+      "question": {
+        "wordId": "per",
+        "stem": "选择 \"per\" 的正确中文意思：",
+        "correct": "prep.每;经,由",
+        "options": [
+          "n.豌豆",
+          "n.同辈,同等地位的人;贵族 v.凝视,隐约出现",
+          "n.梨子,梨树",
+          "prep.每;经,由"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 per，意为“通过，贯穿”。核心物理动作是“从头到尾穿过一个空间或时间”，引申为“每（一个单位）”，强调均匀分布。",
+        "similarWarning": "pear（梨）：per 无 a；peer（同龄人/凝视）：per 无 e；her（她的）：per 有 p；pea（豌豆）：per 有 r；pen（笔）：per 多 r；pet（宠物）：per 多 r；opera（歌剧）：per 多 oa；paper（纸）：per 少 a。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "perceive",
+      "word": "perceive",
+      "phonetic": "/pə'si:v/",
+      "meaning": "v.察觉,感知;理解,领悟",
+      "similar": [
+        "deceive",
+        "receive",
+        "derive",
+        "archive",
+        "percent",
+        "conceive",
+        "permeate",
+        "imperative"
+      ],
+      "question": {
+        "wordId": "perceive",
+        "stem": "选择 \"perceive\" 的正确中文意思：",
+        "correct": "v.察觉,感知;理解,领悟",
+        "options": [
+          "v.取得;导出;引申;来自;源自;出自",
+          "v.收到,接到;遭受,受到;接待,接见",
+          "v.欺骗,蒙蔽",
+          "v.察觉,感知;理解,领悟"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语percipere，per-（贯穿、完全）+ capere（抓住、拿取）。核心物理动作是“完全抓住”，由此引申为通过感官或心智“完全捕获”信息，即察觉、感知或理解领悟。",
+        "similarWarning": "deceive（欺骗）：de-（向下/离开）+ceive（拿）→ 误导性地“拿走”真相，强调欺骗行为。receive（接收）：re-（回）+ceive（拿）→ 拿回，强调被动获取。conceive（构想）：con-（共同）+ceive（拿）→ 在脑中“抓住”概念，强调构思。区分点在于前缀per-（贯穿）强调全面捕捉，与de-（偏离）、re-（返回）、con-（共同）形成动作方向差异。",
+        "extendedMeaning": "在考研外刊中，perceive常引申为“看待、认为”，强调主观认知视角。如“perceive as a threat”（视为威胁），并非单纯感官察觉。",
+        "examUsage": "真题考点：perceive常与as连用构成固定搭配“perceive...as...”（把……看作……），在阅读理解中作为观点类题干的信号词。例如：The public perceives the situation differently.（公众对此事看法不同。）"
+      }
+    },
+    {
+      "id": "percent",
+      "word": "percent",
+      "phonetic": "/pə'sent/",
+      "meaning": "n.(per cent)百分之...的",
+      "similar": [
+        "decent",
+        "descent",
+        "permanent",
+        "merchant",
+        "perceive",
+        "permeate"
+      ],
+      "question": {
+        "wordId": "percent",
+        "stem": "选择 \"percent\" 的正确中文意思：",
+        "correct": "n.(per cent)百分之...的",
+        "options": [
+          "a.永久的,持久的",
+          "n.(per cent)百分之...的",
+          "a.体面的;正派的,合乎礼仪的;合适的",
+          "n.下降,降下;斜坡;血统,家世"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语per centum，per意为“每，通过”，centum意为“一百”。字面义为“每百”，即“每一百中的多少”，直接对应中文“百分之...”。核心动作是“按百计数”，表示比例关系。",
+        "similarWarning": "decent（体面的，正派的）：字母a替换e，词根dec-意为“合适”；parent（父母）：字母a替换e，词根par-意为“生育”；recent（最近的）：字母re-前缀+cent，但cent意为“新”而非“百”；descent（下降，血统）：前缀de-“向下”+scend“爬”；perfect（完美的）：前缀per-“完全”+fect“做”；permanent（永久的）：per-“贯穿”+man“停留”；merchant（商人）：merch-“贸易”+ant表人；perceive（察觉）：per-“通过”+ceive“拿”。注意核心差异：percent的cent为“百”，其他词中cent多来自不同词根。",
+        "extendedMeaning": "在考研经济类或数据类文章中，可引申为“百分比，比例”的抽象概念，如“a large percent of the population”（人口中的很大比例）。",
+        "examUsage": "常与介词of连用，构成“percent of”结构，在图���作文中高频出现。注意其单复数形式一致，如“30 percent of the students”后动词用复数。真题中常作为数据描述的核心词，如“account for 20 percent of the total”（占总量的20%）。"
+      }
+    },
+    {
+      "id": "percentage",
+      "word": "percentage",
+      "phonetic": "/pə'sentidʒ/",
+      "meaning": "n.百分数,百分率,百分比",
+      "similar": [
+        "heritage",
+        "perceive",
+        "permeate",
+        "prestige"
+      ],
+      "question": {
+        "wordId": "percentage",
+        "stem": "选择 \"percentage\" 的正确中文意思：",
+        "correct": "n.百分数,百分率,百分比",
+        "options": [
+          "n.百分数,百分率,百分比",
+          "n.遗产,继承物;传统",
+          "v.察觉,感知;理解,领悟",
+          "v.弥漫，遍布，散布；渗入，渗透"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 per centum（每百）。per-（通过/每）+ cent-（百）+ -age（名词后缀，表集合/量）。核心动作是“按每百计算”，即一个数在整体中占百份之几的比例。",
+        "similarWarning": "形近词辨析：heritage（遗产）核心在herit-（继承）；perceive（察觉）核心在ceive-（拿取）；permeate（渗透）核心在mea-（经过）；prestige（声望）核心在stige-（魔术）。与percentage无词义关联，仅拼写相似。",
+        "extendedMeaning": "在考研中常考“百分比”的抽象引申义，如“占有率、份额、比例”（a large percentage of the population）；或“按百分比计算的利益/折扣”（a percentage of the sales）。",
+        "examUsage": "真题考点：常与介词of连用，表示“...的百分比”；注意区分percent（单数形式，常与数字连用，如10 percent）与percentage（强调比例关系，常与形容词连用，如a high percentage）。"
+      }
+    },
+    {
+      "id": "perfection",
+      "word": "perfection",
+      "phonetic": "/pə'fekʃən/",
+      "meaning": "n.尽善尽美,完美",
+      "similar": [
+        "affection",
+        "direction",
+        "selection",
+        "reflection",
+        "intersection",
+        "perspective",
+        "electron",
+        "fraction"
+      ],
+      "question": {
+        "wordId": "perfection",
+        "stem": "选择 \"perfection\" 的正确中文意思：",
+        "correct": "n.尽善尽美,完美",
+        "options": [
+          "n.尽善尽美,完美",
+          "n.选择,挑选;选集,精选物",
+          "n.方向,方位;指令,说明",
+          "n.爱，喜爱；爱慕之情；感情；疾病，不适"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由前缀per-（彻底，完全）和词根fect（做，制作）加名词后缀-ion构成。核心物理动作是“把某物做到彻底、完全的状态”，引申为“完美、尽善尽美”。",
+        "similarWarning": "affection（情感，喜爱；af-向+fect+ion，向某物施加影响产生的情感）vs perfection（per-彻底+fect+ion，彻底做好的状态）。区别在于前缀per-强调“彻底”，af-强调“向/对”。",
+        "extendedMeaning": "在考研语境中，perfection常引申为“极致状态”或“理想化标准”，如“strive for perfection”（追求极致），而非仅指“完美无缺”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "perform",
+      "word": "perform",
+      "phonetic": "/pə'fɔ:m/",
+      "meaning": "v.履行,执行;表演,演出;完成(事业)",
+      "similar": [
+        "reform",
+        "platform"
+      ],
+      "question": {
+        "wordId": "perform",
+        "stem": "选择 \"perform\" 的正确中文意思：",
+        "correct": "v.履行,执行;表演,演出;完成(事业)",
+        "options": [
+          "v.履行,执行;表演,演出;完成(事业)",
+          "n.平台,台;站台,月台;政纲,党纲",
+          "v./n.改革,改造,改良",
+          "v.经营,管理,处理;设法,对付;操纵,运用"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "per-（完全，贯穿） + form（形状，形式）→ 彻底完成形式上的要求→ 执行、表演。核心动作：将某事物从构想或计划状态，通过行动完全实现其最终形式。",
+        "similarWarning": "reform [re-（再次） + form（形状）] 意为“改革，改造”，强调重新塑造；platform [plat（平） + form（形状）] 意为“平台，站台”，强调平面形式。与perform相比，reform侧重改变，platform侧重具体物体。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "performance",
+      "word": "performance",
+      "phonetic": "/pə'fɔ:məns/",
+      "meaning": "n.履行,执行;表演,演出;性能,特性;成绩",
+      "similar": [],
+      "question": {
+        "wordId": "performance",
+        "stem": "选择 \"performance\" 的正确中文意思：",
+        "correct": "n.履行,执行;表演,演出;性能,特性;成绩",
+        "options": [
+          "a.认知的，认识能力的",
+          "v.使混合;混淆",
+          "a.奇怪的,古怪的",
+          "n.履行,执行;表演,演出;性能,特性;成绩"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "前缀per-（完全、彻底）+词根form（形成、形态）+ance（名词后缀）。核心动作：将某物完全形成或呈现出来。引申为：对任务或职责的“履行/执行”；在舞台上的“表演/演出”；机器或系统的“性能/特性”；个人在学习或工作中的“成绩”。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研英语中，常考“性能”（如engine performance）和“成绩”（如academic performance）这两个抽象义，而非仅指“表演”。",
+        "examUsage": "真题中常出现搭配：job performance（工作表现）、performance evaluation（绩效评估）、high-performance（高性能的）。作为题眼时，常与achievement, accomplishment进行区分。"
+      }
+    },
+    {
+      "id": "perfume",
+      "word": "perfume",
+      "phonetic": "/pə'fju:m/",
+      "meaning": "n.香味,芳香;香料 v.使发香,洒香水于",
+      "similar": [
+        "persuade"
+      ],
+      "question": {
+        "wordId": "perfume",
+        "stem": "选择 \"perfume\" 的正确中文意思：",
+        "correct": "n.香味,芳香;香料 v.使发香,洒香水于",
+        "options": [
+          "n.香味,芳香;香料 v.使发香,洒香水于",
+          "v.说服,劝说;(of)使相信",
+          "v./a.精心制作(的);详细阐述(的)",
+          "n.裤子, 短裤"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "per-（贯穿，完全）+ fume（烟，汽）→ 原指燃烧香料产生的烟气弥漫空间，引申为“香味、香料”。核心动作：香气散发、弥漫。",
+        "similarWarning": "persuade（说服）：perfume vs persuade，差异在fume（烟）与suade（劝告）。perfume指香味，persuade指劝说，无拼写混淆风险。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "periodical",
+      "word": "periodical",
+      "phonetic": "/ˌpiəri'ɔdikəl/",
+      "meaning": "n.期刊,杂志 a.周期的,定期的",
+      "similar": [
+        "critical",
+        "personal",
+        "tropical",
+        "vertical",
+        "political",
+        "practical",
+        "principal"
+      ],
+      "question": {
+        "wordId": "periodical",
+        "stem": "选择 \"periodical\" 的正确中文意思：",
+        "correct": "n.期刊,杂志 a.周期的,定期的",
+        "options": [
+          "a.热带的",
+          "a.个人的,私人的;亲自的;身体的,人身的",
+          "a.批评的,评论的;危急,紧要的;临界的",
+          "n.期刊,杂志 a.周期的,定期的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 peri-（周围）+ -od-（路径/方式，源自希腊语 hodos，意为“路、行程”）+ -ical（形容词/名词后缀）。核心动作：围绕一个固定路径（周期）循环。period-（周期）加 -ical 表“周期的”，名词化后指“按周期出版的刊物（期刊）”。",
+        "similarWarning": "periodical vs. critical（crit-判断，表“批评的，关键的”）；periodical vs. personal（person-人，表“个人的”）；periodical vs. tropical（trop-转向，表“热带的”）；periodical vs. vertical（vert-转，表“垂直的”）；periodical vs. political（polit-城邦/政治，表“政治的”）；periodical vs. practical（pract-实践，表“实用的”）；periodical vs. principal（prince-首要，表“主要的，校长”）。差异核心在于词根不同：periodical 强调时间循环，其余词根分别指向评判、人、转向、垂直、政治、实践、首要。",
+        "extendedMeaning": "",
+        "examUsage": "真题中常作名词，表示“期刊”，与 magazine（杂志）、journal（学术期刊）近义，但 periodical 更强调定期出版（如周刊、月刊）。固定搭配：\"periodical literature\"（期刊文献）在阅读理解中作为信息源出现。注意：形容词义“周期的”在科技类真题中偶见，如\"periodical fluctuations\"（周期性波动）。"
+      }
+    },
+    {
+      "id": "perish",
+      "word": "perish",
+      "phonetic": "/'periʃ/",
+      "meaning": "v.丧生;凋谢;毁灭,消亡",
+      "similar": [
+        "cherish",
+        "persist",
+        "polish",
+        "punish",
+        "relish"
+      ],
+      "question": {
+        "wordId": "perish",
+        "stem": "选择 \"perish\" 的正确中文意思：",
+        "correct": "v.丧生;凋谢;毁灭,消亡",
+        "options": [
+          "v.丧生;凋谢;毁灭,消亡",
+          "vt.抱有，怀有(希望等)；爱护，抚育；珍爱",
+          "v.(in)坚持,持续",
+          "v.磨光,擦亮;使优美,润饰 n.擦光剂,上光蜡"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语perire（per-“彻底”+ire“走”），字面义为“彻底走开”，即“消失、灭亡”。核心物理动作为“完全离去”，引申为生命或事物的终结。",
+        "similarWarning": "cherish（珍惜）：c开头，强调珍视；perish（毁灭）：p开头，强调消亡。persist（坚持）：per-“贯穿”+sist“站立”，强调持续；perish则强调彻底结束。",
+        "extendedMeaning": "在考研中常引申为“（材料、食物等）变质、腐烂”，如perishable goods（易腐商品）。",
+        "examUsage": "真题考点：perish常与survive、endure形成对比，如短语perish in the fire（在火灾中丧生），或用于抽象义“（希望、信念）破灭”。"
+      }
+    },
+    {
+      "id": "permanent",
+      "word": "permanent",
+      "phonetic": "/'pɜ:mənənt/",
+      "meaning": "a.永久的,持久的",
+      "similar": [
+        "eminent",
+        "percent",
+        "prominent",
+        "parliament"
+      ],
+      "question": {
+        "wordId": "permanent",
+        "stem": "选择 \"permanent\" 的正确中文意思：",
+        "correct": "a.永久的,持久的",
+        "options": [
+          "a.突起的,凸出的;突出的,杰出的",
+          "n.(per cent)百分之...的",
+          "a.永久的,持久的",
+          "a.显赫的;杰出的;有名的;优良的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "per-（贯穿）+man-（停留）+ent（形容词后缀）→ 始终停留的 → 永久的，持久的。核心动作：持续停留不动。",
+        "similarWarning": "eminent（e-向外+min-突出+ent→突出的，杰出的）；prominent（pro-向前+min-突出+ent→突出的，卓越的）；parliament（parl-说话+ia+ment→议会）；percent（per-每+cent-百→百分比）。区别在于词根：man-（停留）vs min-（突出）vs parl-（说话）vs cent-（百）。",
+        "extendedMeaning": "考研常考‘永久性’概念，如permanent address（固定住址），permanent job（固定工作），permanent solution（永久解决方案）。",
+        "examUsage": "真题考点：与temporary（暂时的）形成反义对比，常作为阅读理解中观点对立的关键词。例句：The damage to the environment is not permanent.（环境破坏并非永久性的。）"
+      }
+    },
+    {
+      "id": "permeate",
+      "word": "permeate",
+      "phonetic": "/'pə:mieit/",
+      "meaning": "v.弥漫，遍布，散布；渗入，渗透",
+      "similar": [
+        "persecute",
+        "terminate",
+        "create",
+        "permit",
+        "pirate",
+        "operate",
+        "percent",
+        "perceive"
+      ],
+      "question": {
+        "wordId": "permeate",
+        "stem": "选择 \"permeate\" 的正确中文意思：",
+        "correct": "v.弥漫，遍布，散布；渗入，渗透",
+        "options": [
+          "v.迫害",
+          "vi.(使)结束，(使)停止",
+          "v.创造,创作;引起,造成,建立",
+          "v.弥漫，遍布，散布；渗入，渗透"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根 per-（贯穿）+ me-（走，流动）+ -ate（动词后缀）→ 贯穿流过 → 液体渗入缝隙或气味充满空间。核心动作：从一端到另一端缓慢扩散。",
+        "similarWarning": "permeate vs persecute（迫害）：permeate 含 me-（流动），persecute 含 secut-（跟随），意为“跟随到底”即迫害。",
+        "extendedMeaning": "考研僻义：在抽象语境中表示“思想、观念、风格等逐渐弥漫、影响深远”。如：The culture of innovation permeates the entire company.（创新文化渗透整个公司。）",
+        "examUsage": "固定搭配：permeate through/into（渗透进）。真题考点：常与 atmosphere, society, culture 等抽象名词连用，考查“弥漫、遍布”的引申义。"
+      }
+    },
+    {
+      "id": "permission",
+      "word": "permission",
+      "phonetic": "/pə'miʃən/",
+      "meaning": "n.允许,同意",
+      "similar": [
+        "admission",
+        "commission",
+        "persuasion",
+        "decision",
+        "petition",
+        "precision",
+        "provision",
+        "perfection"
+      ],
+      "question": {
+        "wordId": "permission",
+        "stem": "选择 \"permission\" 的正确中文意思：",
+        "correct": "n.允许,同意",
+        "options": [
+          "n.允许进；承认；入场费，入会费，入场券",
+          "n.说服,说服力",
+          "n.委员会;委任,委托(书),代办;佣金,手续费",
+          "n.允许,同意"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "per-（贯穿，完全） + miss（发送，放出） + -ion（名词后缀） → 完全放出 → 允许、同意",
+        "similarWarning": "admission（ad-进入 + mission → 允许进入，入场费），commission（com-共同 + mission → 委托，委员会），persuasion（per-完全 + suad-劝说 → 说服），permission（允许）",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "permit",
+      "word": "permit",
+      "phonetic": "/pə'mit/",
+      "meaning": "v.许可,允许 n.许可证,执照",
+      "similar": [
+        "persist",
+        "emit",
+        "merit",
+        "permeate"
+      ],
+      "question": {
+        "wordId": "permit",
+        "stem": "选择 \"permit\" 的正确中文意思：",
+        "correct": "v.许可,允许 n.许可证,执照",
+        "options": [
+          "v.许可,允许 n.许可证,执照",
+          "v.(in)坚持,持续",
+          "vt.发出;放射;吐露;散发;发表;发行",
+          "n.优点,价值,功绩 v.值得,应得"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "前缀per-（贯穿、通过） + 词根mit（发送、放出）。核心动作是“使某物通过”，引申为“允许、许可”。名词形式指“允许通过的凭证”，即许可证、执照。",
+        "similarWarning": "persist（持续，per- + sist站立） vs permit（允许，per- + mit发送）；emit（发出，e-向外 + mit发送） vs permit；merit（优点，词根mer-部分/获得） vs permit；permeate（渗透，per-贯穿 + me-滑过） vs permit。",
+        "extendedMeaning": "在考研外刊中，permit的动词常引申为“（客观条件）允许、使成为可能”，如“weather permitting”（天气允许的话）；名词可指“（官方）许可文件”，如“work permit”（工作许可）。",
+        "examUsage": "真题中常考固定结构：permit sb to do sth（允许某人做某事）或permit doing sth（允许做某事）；注意区分allow与permit的正式程度（permit更正式）；干扰项常涉及与promise（承诺）的混淆。"
+      }
+    },
+    {
+      "id": "perpetual",
+      "word": "perpetual",
+      "phonetic": "/pə'petʃuəl/",
+      "meaning": "a.永久的,永恒的,长期的",
+      "similar": [],
+      "question": {
+        "wordId": "perpetual",
+        "stem": "选择 \"perpetual\" 的正确中文意思：",
+        "correct": "a.永久的,永恒的,长期的",
+        "options": [
+          "v.失败,不及格;衰退,减弱",
+          "vi.突然不见;消失",
+          "a.永久的,永恒的,长期的",
+          "a.令人烦恼的,讨厌的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "per-（贯穿）+pet-（追求）+ual（形容词后缀）→一直追求下去→永久的。核心动作：持续不断地追求，强调时间上的无间断。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中常引申为‘无休止的，反复发生的’，如‘perpetual complaints’（没完没了的抱怨），强调令人厌烦的频繁重复。",
+        "examUsage": "真题考点：常与‘permanent’辨析，perpetual强调连续不断且常含负面意味（如perpetual noise），permanent侧重状态稳定不变（如permanent job）。例句：The perpetual motion of the machine fascinated the engineers.（机器永不停歇的运动令工程师着迷。）"
+      }
+    },
+    {
+      "id": "perplex",
+      "word": "perplex",
+      "phonetic": "/pə'pleks/",
+      "meaning": "v.使困惑,使费解,使复杂化",
+      "similar": [
+        "purple"
+      ],
+      "question": {
+        "wordId": "perplex",
+        "stem": "选择 \"perplex\" 的正确中文意思：",
+        "correct": "v.使困惑,使费解,使复杂化",
+        "options": [
+          "v.使困惑,使费解,使复杂化",
+          "a.紫的 n.紫色",
+          "n.地方行政官，地方法官，治安官",
+          "n.袋,包,麻袋 v.解雇"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "per-（完全）+ plex（编织、缠绕）→ 完全缠绕在一起 → 使困惑、使复杂化。核心动作：缠绕导致思路混乱。",
+        "similarWarning": "perplex（困惑）vs. people（人们）：perplex含词根plex（编织），people无此结构。vs. purple（紫色）：perplex尾缀-ex，purple尾缀-urple，拼写与意义均无关。",
+        "extendedMeaning": "考研僻义：使复杂化（如perplex a situation使局面复杂）。",
+        "examUsage": "真题考点：常用于被动结构be perplexed by/at sth，表示被某事难住；与confuse、bewilder同义替换，但perplex更强调复杂性和持续性。"
+      }
+    },
+    {
+      "id": "persecute",
+      "word": "persecute",
+      "phonetic": "/'pə:sikju:t/",
+      "meaning": "v.迫害",
+      "similar": [
+        "prosecute",
+        "execute",
+        "permeate",
+        "persevere",
+        "perspective"
+      ],
+      "question": {
+        "wordId": "persecute",
+        "stem": "选择 \"persecute\" 的正确中文意思：",
+        "correct": "v.迫害",
+        "options": [
+          "v.弥漫，遍布，散布；渗入，渗透",
+          "v.实行;实施;执行;完成;履行;处死",
+          "vt.实行，从事 v.起诉，告发 vi.作检察官",
+          "v.迫害"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根：per-（贯穿/彻底）+ secut-（跟随，源自sequi的过去分词secutus）。核心物理动作：彻底地跟随追捕。引申为持续施压、迫害。",
+        "similarWarning": "形近词辨析：persecute vs prosecute。差异字母：persecute中的‘e’ vs prosecute中的‘o’。persecute（迫害）强调不公正的折磨；prosecute（起诉）强调法律上的指控。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "persevere",
+      "word": "persevere",
+      "phonetic": "/ˌpə:si'viə/",
+      "meaning": "v.坚持,坚忍,不屈不挠",
+      "similar": [
+        "persecute"
+      ],
+      "question": {
+        "wordId": "persevere",
+        "stem": "选择 \"persevere\" 的正确中文意思：",
+        "correct": "v.坚持,坚忍,不屈不挠",
+        "options": [
+          "a.实际上的,事实上的",
+          "v.迫害",
+          "v.坚持,坚忍,不屈不挠",
+          "n.猎狗；卑鄙的人 vt.用猎狗追，追逐"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "per-（彻底）+ severe（严厉的、严格的）→ 始终保持严厉、严格的态度对待目标 → 即使困难重重也不放松 → 坚持、坚忍。核心物理动作：持续施加压力不松懈。",
+        "similarWarning": "persecute（迫害）：per-（贯穿）+ secut（跟随）+ e → 一直跟随、纠缠 → 迫害。对比：persevere强调自我坚持，persecute强调外部加害。",
+        "extendedMeaning": "",
+        "examUsage": "persevere in doing sth. 坚持做某事（真题中常与persist in, insist on构成干扰选项，需注意persevere侧重面对困难时的韧性，persist可带褒贬，insist强调坚持主张或要求）"
+      }
+    },
+    {
+      "id": "persist",
+      "word": "persist",
+      "phonetic": "/pə'sist/",
+      "meaning": "v.(in)坚持,持续",
+      "similar": [
+        "perish",
+        "permit",
+        "resist"
+      ],
+      "question": {
+        "wordId": "persist",
+        "stem": "选择 \"persist\" 的正确中文意思：",
+        "correct": "v.(in)坚持,持续",
+        "options": [
+          "v.抵抗,反抗;抗,忍得住,抵制",
+          "v.许可,允许 n.许可证,执照",
+          "v.(in)坚持,持续",
+          "v.丧生;凋谢;毁灭,消亡"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根：per-（贯穿，完全） + sist（站立）。核心动作：始终站着不动→坚持、持续。强调在时间或压力下不改变状态。",
+        "similarWarning": "perish（per- + ish=go，彻底离去→消亡）；permit（per- + mit=send，透过发送→允许）；resist（re- + sist，反着站→抵抗）。区别：persist强调持续站立，perish强调消失，permit强调允许通过，resist强调对抗。",
+        "extendedMeaning": "考研僻义：在科技或经济语境中，常指“持续存在”或“顽固存在”，如：If the problem persists...（如果问题持续存在）",
+        "examUsage": "考点：固定搭配persist in doing sth.（坚持做某事），真题中常与insist on doing区别，persist侧重持续行动，insist侧重主张观点。例句：He persisted in his research despite repeated failures."
+      }
+    },
+    {
+      "id": "personal",
+      "word": "personal",
+      "phonetic": "/'pə:sənl/",
+      "meaning": "a.个人的,私人的;亲自的;身体的,人身的",
+      "similar": [
+        "personnel",
+        "terminal",
+        "periodical",
+        "reasonable",
+        "supersonic"
+      ],
+      "question": {
+        "wordId": "personal",
+        "stem": "选择 \"personal\" 的正确中文意思：",
+        "correct": "a.个人的,私人的;亲自的;身体的,人身的",
+        "options": [
+          "a.晚期的;终点的;期末的 n.终点(站);终端",
+          "n.全体人员,全体职员;人事(部门)",
+          "a.个人的,私人的;亲自的;身体的,人身的",
+          "n.期刊,杂志 a.周期的,定期的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 personalis，由 persona（人，角色）加形容词后缀 -al 构成，核心动作或画面是“属于某人的”，强调与特定个体直接关联。",
+        "similarWarning": "personnel /ˌpɜːrsəˈnel/（全体人员，人事部门）：后者多一个“-nel”后缀，指组织中的员工群体；personal 强调个体性。person /ˈpɜːrsən/（人）：无形容词后缀，指单个的人；personal 是其形容词形式。terminal /ˈtɜːrmɪnl/（终点站，终端的）：拼写差异在于“term”与“person”，词根不同。",
+        "extendedMeaning": "在考研英语中，personal 可引申为“私密的、不公开的”，如 personal information（个人信息）；或“针对个人的、人身攻击的”，如 personal remarks（人身攻击）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "personality",
+      "word": "personality",
+      "phonetic": "/ˌpə:sə'næləti/",
+      "meaning": "n.人格,个性",
+      "similar": [
+        "nationality"
+      ],
+      "question": {
+        "wordId": "personality",
+        "stem": "选择 \"personality\" 的正确中文意思：",
+        "correct": "n.人格,个性",
+        "options": [
+          "n.人格,个性",
+          "n.国籍,民族",
+          "n.安置;落山;(固定东西的)柜架底座;环境",
+          "a.下等的,下级的;劣等的,差的 n.下级,晚辈"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'persona'（面具），词根 'son-'（声音）暗示演员通过面具发出的声音。后缀 '-ality' 表抽象名词。核心演变：演员戴的面具→角色→人的外在表现→人格/个性。",
+        "similarWarning": "形近词 'nationality'（n.国籍，民族）：前缀 'nat-'（出生）表出生地归属；'personality' 前缀 'person-'（人）表个体特质。差异在于 'n' vs 'p' 起首字母，词根含义截然不同。",
+        "extendedMeaning": "在考研中可引申为‘名人，知名人士’（如电视/娱乐圈的公众人物），例：'a TV personality'（电视名人）。",
+        "examUsage": "考点搭配：'personality clash'（个性冲突）常作为阅读理解中人际关系的题眼；'split personality'（分裂人格）在心理学类文章中作为专业术语。"
+      }
+    },
+    {
+      "id": "personnel",
+      "word": "personnel",
+      "phonetic": "/ˌpə:sə'nel/",
+      "meaning": "n.全体人员,全体职员;人事(部门)",
+      "similar": [
+        "personal"
+      ],
+      "question": {
+        "wordId": "personnel",
+        "stem": "选择 \"personnel\" 的正确中文意思：",
+        "correct": "n.全体人员,全体职员;人事(部门)",
+        "options": [
+          "n.全体人员,全体职员;人事(部门)",
+          "a.个人的,私人的;亲自的;身体的,人身的",
+          "v.推迟,延期",
+          "a.大量(充足)的；(in)丰富(富裕)的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自法语 'personnel'，与 'personal' 同源，但侧重集体概念。词根 'person'（人）+ 后缀 '-nel'（表示集合），本义为“一群人的集合”，引申为“全体员工”或“人事部门”。核心动作：将个体的人（person）集合为一个整体（personnel）。",
+        "similarWarning": "personal /ˈpəːsənəl/（个人的，私人的） vs personnel /ˌpəːsəˈnel/（全体人员）。差异：personal 无后缀 '-nel'，且重音在首音节；personnel 重音在末音节，且多一个字母 'n'。记忆点：集体多一个 'n'，表示“多人”。",
+        "extendedMeaning": "在考研真题中常出现“人事部门”的抽象含义，如 'personnel management'（人事管理），或指“军事人员”，如 'military personnel'。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "perspective",
+      "word": "perspective",
+      "phonetic": "/pə'spektiv/",
+      "meaning": "n.透视画法,透视图;远景,前途;观点,看法",
+      "similar": [
+        "respective",
+        "prospective",
+        "irrespective",
+        "detective",
+        "effective",
+        "persecute",
+        "perfection",
+        "productive"
+      ],
+      "question": {
+        "wordId": "perspective",
+        "stem": "选择 \"perspective\" 的正确中文意思：",
+        "correct": "n.透视画法,透视图;远景,前途;观点,看法",
+        "options": [
+          "a.不顾的,不考虑的,无关的",
+          "a.预期的",
+          "a.各自的,各个的",
+          "n.透视画法,透视图;远景,前途;观点,看法"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 per-（穿过）+ specere（看），字面意为“看穿”。核心动作是“穿透视线”，引申为通过特定角度观察事物的方式（透视法），进而指代“观点、远景”。词根记忆：spec-（看）如 inspect（向内看）、spectacle（景象）。",
+        "similarWarning": "respective（各自的，re-反复+spect-看，强调分别对应）；prospective（预期的，pro-向前+spect-看，指向未来）；irrespective（不顾的，ir-不+respect-看，不看即不考虑）。对比：perspective强调“视角”，respective强调“各自对应”，prospective强调“未来预期”。",
+        "extendedMeaning": "考研常考“视角/看法”的抽象义，如“historical perspective”（历史视角）、“from a global perspective”（从全球视角）。另可作形容词（透视的），但名词义更核心。",
+        "examUsage": "真题中常与attitude、viewpoint同义替换，但更强调“系统性观察角度”。如2010年阅读：\"...from a broader perspective\"（从更广阔的视角）作为解题关键。注意与prospective（潜在的）在语境中区分。"
+      }
+    },
+    {
+      "id": "persuade",
+      "word": "persuade",
+      "phonetic": "/pə'sweɪd/",
+      "meaning": "v.说服,劝说;(of)使相信",
+      "similar": [
+        "parade",
+        "pursue",
+        "perfume",
+        "permeate",
+        "persuasion"
+      ],
+      "question": {
+        "wordId": "persuade",
+        "stem": "选择 \"persuade\" 的正确中文意思：",
+        "correct": "v.说服,劝说;(of)使相信",
+        "options": [
+          "n.香味,芳香;香料 v.使发香,洒香水于",
+          "v.说服,劝说;(of)使相信",
+          "v.追赶,追踪;继续,从事",
+          "n./v.游行,夸耀n.检阅,阅兵式v.使列队行进"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 persuadere，per-（彻底、完全） + suadere（劝告、建议）。核心物理动作是“彻底劝服”，即通过反复建议或论证，使对方从内心接受观点或采取行动。",
+        "similarWarning": "parade（游行，p+arade） vs. pursue（追赶，p+ursue） vs. persuade（说服，p+ersuade）。parade强调公开展示；pursue强调追逐目标；perfume（香水，per+fume）强调气味；permeate（渗透，per+meate）强调弥漫。persuade的独特之处在于suadere（劝告）词根。",
+        "extendedMeaning": "在考研外刊中，persuade可引申为“使信服（非强制性的影响）”，如“persuade the jury”（说服陪审团）或“persuade sb. of sth.”（使某人相信某事），强调逻辑或情感上的说服力。",
+        "examUsage": "真题常考搭配：persuade sb. to do sth.（说服某人做某事）及被动结构be persuaded of（被说服相信）。干扰项常与convince互换，但persuade更侧重劝说过程，convince侧重结果。"
+      }
+    },
+    {
+      "id": "persuasion",
+      "word": "persuasion",
+      "phonetic": "/pə'sweiʒən/",
+      "meaning": "n.说服,说服力",
+      "similar": [
+        "permission",
+        "equation",
+        "persuade",
+        "excursion",
+        "precision",
+        "provision",
+        "sensation",
+        "perfection"
+      ],
+      "question": {
+        "wordId": "persuasion",
+        "stem": "选择 \"persuasion\" 的正确中文意思：",
+        "correct": "n.说服,说服力",
+        "options": [
+          "n.(数学)等式,方程式;(with)相等;均衡",
+          "v.说服,劝说;(of)使相信",
+          "n.允许,同意",
+          "n.说服,说服力"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为suad-/suas-（劝告，建议），前缀per-（彻底，完全），-ion为名词后缀。核心动作：彻底劝告 → 使对方完全接受观点 → 说服（力）。",
+        "similarWarning": "persuasion vs. permission: 前者含suas-（劝告），重点在“说服”；后者含miss-（发送），重点在“允许”。persuasion vs. precision: 前者含suas-，后者含cis-（切），precision意为“精确”。",
+        "extendedMeaning": "",
+        "examUsage": "真题中常与动词exert, have搭配，如exert persuasion on sb.（对某人施加说服力）；或与名词power并列，如the power of persuasion（说服力），作为议论文论据的关键词。"
+      }
+    },
+    {
+      "id": "pessimistic",
+      "word": "pessimistic",
+      "phonetic": "/ˌpesi'mistik/",
+      "meaning": "a.悲观(主义)的",
+      "similar": [
+        "optimistic"
+      ],
+      "question": {
+        "wordId": "pessimistic",
+        "stem": "选择 \"pessimistic\" 的正确中文意思：",
+        "correct": "a.悲观(主义)的",
+        "options": [
+          "a.悲观(主义)的",
+          "a.乐观主义的",
+          "ad.照字面意义,逐字地;确实",
+          "n.灯泡,球状物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根pessim-来自拉丁语pessimus（最坏的），-istic为形容词后缀。核心动作：认为事情会走向最坏的结果，即悲观倾向。",
+        "similarWarning": "optimistic（乐观的）：字母差异在于pessim-（最坏）vs optim-（最好），词义完全对立。",
+        "extendedMeaning": "在考研阅读中常引申为“消极看待的”，如对经济前景、改革效果的负面预期。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pest",
+      "word": "pest",
+      "phonetic": "/pest/",
+      "meaning": "n.害虫",
+      "similar": [
+        "pet",
+        "best",
+        "lest",
+        "nest",
+        "post",
+        "vest",
+        "west",
+        "priest"
+      ],
+      "question": {
+        "wordId": "pest",
+        "stem": "选择 \"pest\" 的正确中文意思：",
+        "correct": "n.害虫",
+        "options": [
+          "n.害虫",
+          "n.爱畜,宠儿 a.宠爱的,表示亲昵的",
+          "a.最好的(good和well最高级) ad.最好地；",
+          "conj.惟恐,免得"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语pestis，意为“瘟疫、毁灭性病害”。核心物理动作是“（生物体上）滋生、传播并造成破坏”，画面为小虫或病菌在作物或人体上侵蚀、蔓延，最终指向“有害生物”。",
+        "similarWarning": "pet（宠物，仅差一个字母s） vs pest（害虫）：pet是家庭饲养的伴侣，pest是需消灭的害物。",
+        "extendedMeaning": "考研中常引申为“令人讨厌的人或事物”，如：He is a real pest.（他真是个讨厌鬼。）",
+        "examUsage": ""
+      }
+    }
+  ]
+}

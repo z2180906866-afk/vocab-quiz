@@ -1,0 +1,1746 @@
+{
+  "batchId": 43,
+  "words": [
+    {
+      "id": "integrity",
+      "word": "integrity",
+      "phonetic": "/in'tegrəti/",
+      "meaning": "n.正直,诚实;完整,完全",
+      "similar": [
+        "integrate",
+        "intensity",
+        "inherit",
+        "interim",
+        "integral",
+        "interior"
+      ],
+      "question": {
+        "wordId": "integrity",
+        "stem": "选择 \"integrity\" 的正确中文意思：",
+        "correct": "n.正直,诚实;完整,完全",
+        "options": [
+          "n.正直,诚实;完整,完全",
+          "v.(into,with)(使)成为一体,(使)结合在一起",
+          "n.强烈,剧烈;强度",
+          "vt.继承(金钱等)，经遗传而得(性格、特征)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根integ-（触摸、完整，源自拉丁语integer“未触碰的、完整的”），-ity为名词后缀。核心物理动作是“未被触碰的状态”，引申为“完整、未受损的整体性”，再抽象为道德上的“正直、诚实”，即人格的完整无缺。",
+        "similarWarning": "integrate（v.整合）与integrity同根，但词尾-ate表动作；intensity（n.强度）含词根tens-（伸展），与integrity无关；inherit（v.继承）含her-（继承），注意拼写差异。",
+        "extendedMeaning": "在考研阅读中常考“完整性、统一性”的抽象含义，如“the integrity of a system”（系统完整性）或“territorial integrity”（领土完整）。",
+        "examUsage": "真题高频搭配：maintain/preserve integrity（维护完整性）；integrity of evidence（证据的完整性）。干扰项常与honesty混淆，但integrity强调整体不可分割，而非单一诚实。"
+      }
+    },
+    {
+      "id": "intellectual",
+      "word": "intellectual",
+      "phonetic": "/ˌintə'lektjuəl/",
+      "meaning": "n.知识分子 a.智力的，理智的，有理解力的",
+      "similar": [],
+      "question": {
+        "wordId": "intellectual",
+        "stem": "选择 \"intellectual\" 的正确中文意思：",
+        "correct": "n.知识分子 a.智力的，理智的，有理解力的",
+        "options": [
+          "n.盐,盐,类 v.腌,盐渍",
+          "n.威士忌酒",
+          "n.小旅馆,客栈",
+          "n.知识分子 a.智力的，理智的，有理解力的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 intellectus（理解，感知），由 inter-（在…之间）与 legere（选择，收集）组合，本义为“从众多信息中挑选并理解”，强调通过理性思维进行抽象认知的能力，区别于感性或本能。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研语境中，intellectual 常作名词指“知识分子”，突出其作为公共意见领袖或学术精英的角色，而非单纯指智力高的人。",
+        "examUsage": "真题中常与 academic, scholar 等词同义替换，或作为定语修饰 property（知识产权）、development（智力开发）等。注意其名词复数形式 intellectuals 在阅读中可能指代特定群体。"
+      }
+    },
+    {
+      "id": "intelligence",
+      "word": "intelligence",
+      "phonetic": "/ɪn'telɪdʒəns/",
+      "meaning": "n.智力,聪明;理解力;情报,消息,报导",
+      "similar": [
+        "intelligent",
+        "intelligible",
+        "interference"
+      ],
+      "question": {
+        "wordId": "intelligence",
+        "stem": "选择 \"intelligence\" 的正确中文意思：",
+        "correct": "n.智力,聪明;理解力;情报,消息,报导",
+        "options": [
+          "a.聪明的,明智的,理智的",
+          "n.智力,聪明;理解力;情报,消息,报导",
+          "a.可理解的，明白易懂的，清楚的",
+          "n.(in)干涉,干预;(with)妨碍,打扰"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根: inter- (在…之间) + legere (选择,采集) → 原指“从中选择、辨别”的能力,引申为“智力、理解力”。现代英语中又衍生出“情报”义,即经过筛选和解读的信息。",
+        "similarWarning": "intelligent (adj. 聪明的,有智力的) vs intelligible (adj. 可理解的,明白易懂的) vs interference (n. 干涉,干扰;拼写差异: inter- + ference,与“智力”无关)。",
+        "extendedMeaning": "【情报,消息】在考研阅读中常指经过分析处理的机密信息或新闻报道,如“intelligence agency (情报机构)”或“market intelligence (市场情报)”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "intelligent",
+      "word": "intelligent",
+      "phonetic": "/in'telidʒent/",
+      "meaning": "a.聪明的,明智的,理智的",
+      "similar": [
+        "intelligence",
+        "intelligible",
+        "intermittent",
+        "installment"
+      ],
+      "question": {
+        "wordId": "intelligent",
+        "stem": "选择 \"intelligent\" 的正确中文意思：",
+        "correct": "a.聪明的,明智的,理智的",
+        "options": [
+          "a.间歇的,断断续续的",
+          "a.可理解的，明白易懂的，清楚的",
+          "a.聪明的,明智的,理智的",
+          "n.智力,聪明;理解力;情报,消息,报导"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'intellegere'（理解），由 inter-（在…之间）+ legere（选择、收集）组成，核心动作是“在事物之间进行选择、辨别”，引申为“能理解、有智慧的”。",
+        "similarWarning": "intelligence（n.智力；情报）与 intelligent（a.聪明的）同根，词性不同；intelligible（a.可理解的）强调能被听懂；intermittent（a.间歇的）词根 inter- + mittere（发送），指断断续续；installment（n.分期付款）词根 stall（放置），指分阶段放置。",
+        "extendedMeaning": "在考研真题中常引申为“有理解力的、信息灵通的”，如 'intelligent design'（智慧设计论）或 'intelligent system'（智能系统），不限于个人智力。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "intelligible",
+      "word": "intelligible",
+      "phonetic": "/in'telidʒəbl/",
+      "meaning": "a.可理解的，明白易懂的，清楚的",
+      "similar": [
+        "negligible",
+        "intelligence",
+        "intelligent"
+      ],
+      "question": {
+        "wordId": "intelligible",
+        "stem": "选择 \"intelligible\" 的正确中文意思：",
+        "correct": "a.可理解的，明白易懂的，清楚的",
+        "options": [
+          "a.可忽略不计的，微不足道的",
+          "n.智力,聪明;理解力;情报,消息,报导",
+          "a.可理解的，明白易懂的，清楚的",
+          "a.聪明的,明智的,理智的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源于拉丁语intellegere（理解），由inter-（在...之间）和legere（选择、搜集）组成，本义为“从中间挑选出”，引申为“理解”。-ible为形容词后缀，表示“能被...的”，故intelligible意为“能被理解的”，强调信息本身清晰，易于领悟。",
+        "similarWarning": "negligible（可忽略的）：neg-（否定）+lig（选择）+ible，本义“无法选择的”，即微小到可忽略。intelligence（智力）：同源，-ence表抽象性质，指理解能力。intelligent（聪明的）：-ent表主动，指人具有理解力的。辨析：intelligible聚焦于信息是否清晰；intelligent聚焦于人是否聪慧。",
+        "extendedMeaning": "",
+        "examUsage": "真题中常与incomprehensible（难以理解的）构成反义对比，或与clear, explicit等词同义替换。固定搭配：make sth intelligible（使...清晰易懂）。"
+      }
+    },
+    {
+      "id": "intend",
+      "word": "intend",
+      "phonetic": "/in'tend/",
+      "meaning": "vt.想要,打算,企图",
+      "similar": [
+        "contend",
+        "intense",
+        "tend",
+        "attend",
+        "extend",
+        "inland",
+        "invent",
+        "internal"
+      ],
+      "question": {
+        "wordId": "intend",
+        "stem": "选择 \"intend\" 的正确中文意思：",
+        "correct": "vt.想要,打算,企图",
+        "options": [
+          "a.强烈的,剧烈的;热烈的,热情的",
+          "v.竞争,斗争;坚决主张",
+          "v.趋向,往往是;照料,看护",
+          "vt.想要,打算,企图"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（向内）+ tend（伸展）→ 内心向某方向伸展 → 心里有打算，意图做某事",
+        "similarWarning": "intend（打算）vs. contend（竞争，主张）：con-（共同）+ tend → 共同伸展→争夺；intense（强烈的）：in- + tense（拉紧）→ 拉紧状态",
+        "extendedMeaning": "（法律/正式语境）意指，指的是（指某个词、表述或行为所指向的含义）",
+        "examUsage": "intend to do sth.（打算做某事）是真题中常见搭配，常作为动词不定式结构考点；注意与 be intended for（为…而设计/打算）区分"
+      }
+    },
+    {
+      "id": "intense",
+      "word": "intense",
+      "phonetic": "/in'tens/",
+      "meaning": "a.强烈的,剧烈的;热烈的,热情的",
+      "similar": [
+        "intensive",
+        "tense",
+        "intend",
+        "immense",
+        "inverse",
+        "intensity",
+        "condense",
+        "increase"
+      ],
+      "question": {
+        "wordId": "intense",
+        "stem": "选择 \"intense\" 的正确中文意思：",
+        "correct": "a.强烈的,剧烈的;热烈的,热情的",
+        "options": [
+          "a.强烈的,剧烈的;热烈的,热情的",
+          "a.加强的,集中的,深入细致的,精耕细作的",
+          "n.时态 v.拉紧，(使)紧张 a.绷紧的，紧张的",
+          "vt.想要,打算,企图"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根in-（进入）+ tens（伸展）+ -e（形容词后缀），核心动作是“向内伸展”，引申为被拉紧到极限状态，故有“强烈的、剧烈的”之意。",
+        "similarWarning": "intensive（密集的，强调深度与集中度） vs intense（强烈的，强调强度与力度）：前者侧重覆盖范围或投入密度，后者侧重情感或物理的强烈程度。tense（紧张的，拉紧的） vs intense：tense强调心理或物理的紧绷状态，intense强调强度高。",
+        "extendedMeaning": "在考研阅读中，intense常引申为“专注的、认真的”，如intense study（专注的学习）；也可表示“激烈的”，如intense competition（激烈的竞争）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "intensity",
+      "word": "intensity",
+      "phonetic": "/in'tensəti/",
+      "meaning": "n.强烈,剧烈;强度",
+      "similar": [
+        "integrity",
+        "intensive",
+        "density",
+        "intense",
+        "identity",
+        "intention",
+        "university"
+      ],
+      "question": {
+        "wordId": "intensity",
+        "stem": "选择 \"intensity\" 的正确中文意思：",
+        "correct": "n.强烈,剧烈;强度",
+        "options": [
+          "n.密集,密度,浓度",
+          "a.加强的,集中的,深入细致的,精耕细作的",
+          "n.强烈,剧烈;强度",
+          "n.正直,诚实;完整,完全"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语intensitas，由in-（向内）+ tendere（伸展） + -ity（名词后缀）构成。核心物理动作是“向内拉紧、绷紧”，引申为力量、情感或状态的强烈程度。",
+        "similarWarning": "intensity vs. integrity：in-tens-ity（紧张/强度） vs. in-tegr-ity（整体/完整）；intensity vs. density：tense（拉紧） vs. dense（稠密）。",
+        "extendedMeaning": "考研中常指“（光、声、电等的）强度”或“（情感、活动的）激烈程度”，如light intensity（光强度）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "intensive",
+      "word": "intensive",
+      "phonetic": "/in'tensiv/",
+      "meaning": "a.加强的,集中的,深入细致的,精耕细作的",
+      "similar": [
+        "intense",
+        "extensive",
+        "incentive",
+        "intensity",
+        "expensive",
+        "inclusive",
+        "intention",
+        "offensive"
+      ],
+      "question": {
+        "wordId": "intensive",
+        "stem": "选择 \"intensive\" 的正确中文意思：",
+        "correct": "a.加强的,集中的,深入细致的,精耕细作的",
+        "options": [
+          "a.加强的,集中的,深入细致的,精耕细作的",
+          "a.强烈的,剧烈的;热烈的,热情的",
+          "a.广大的,广阔的",
+          "n.刺激;动力;鼓励;诱因;动机"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语intendere（向内拉紧），由in-（向内）+tens-（伸展、拉紧）+ive（形容词后缀）构成。核心物理动作为“向内拉紧”，引申为“力量集中、密集投入”。",
+        "similarWarning": "intense（强烈的，剧烈的）强调程度高；intensive（集中的，密集的）强调投入密度大，如intensive training（强化训练）vs intense pain（剧痛）。extensive（广泛的）与intensive相对，如extensive reading（泛读）vs intensive reading（精读）。",
+        "extendedMeaning": "在考研语境中常指“精耕细作的、集约的”，如intensive agriculture（集约农业）强调高投入高产出。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "intention",
+      "word": "intention",
+      "phonetic": "/in'tenʃən/",
+      "meaning": "n.意图,意向,目的",
+      "similar": [
+        "invention",
+        "attention",
+        "intuition",
+        "retention",
+        "convention",
+        "mention",
+        "tension",
+        "interior"
+      ],
+      "question": {
+        "wordId": "intention",
+        "stem": "选择 \"intention\" 的正确中文意思：",
+        "correct": "n.意图,意向,目的",
+        "options": [
+          "n.意图,意向,目的",
+          "n.发明,创造,发明物",
+          "n.注意，注意力；立正；特别照顾；照料",
+          "n.直觉，直观；凭直觉而知的事物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根词缀逻辑：in-（向内）+ tent（伸展，词源同tend）+ -ion（名词后缀）。核心物理动作：将注意力或意志力向某个目标“伸展”过去。词义本源：内心的伸展方向，即意图、目的。",
+        "similarWarning": "invention（发明，in-进入+vent-来+ion，强调“来到”新事物）；attention（注意，at-向+tent-伸展+ion，强调“伸展向”某处）；intuition（直觉，in-内+tuit-观察+ion，强调“内在观察”）；retention（保留，re-回+ten-持有+ion）；convention（惯例，con-共同+vent-来+ion，强调“共同来到”的做法）；mention（提及，ment-心+ion，强调“心里想到”并说出）；tension（张力，tens-伸展+ion，强调“伸展”的状态）；interior（内部，inter-在…之间+ior比较级）。",
+        "extendedMeaning": "考研僻义：无特殊僻义。",
+        "examUsage": "真题考点：常用于短语have no intention of doing sth.（无意做某事）；与purpose区别：intention侧重内心的打算，purpose侧重坚定的目标。真题干扰项常与“invention”混用。"
+      }
+    },
+    {
+      "id": "interact",
+      "word": "interact",
+      "phonetic": "/ˌintə'rækt/",
+      "meaning": "v.互相作用,互相影响",
+      "similar": [
+        "interface",
+        "intact",
+        "internet",
+        "integrate",
+        "interpret",
+        "interrupt",
+        "infect",
+        "inject"
+      ],
+      "question": {
+        "wordId": "interact",
+        "stem": "选择 \"interact\" 的正确中文意思：",
+        "correct": "v.互相作用,互相影响",
+        "options": [
+          "a.完整无缺的,未经触动的,未受损伤的",
+          "n.接合部位，分界面 v.(使)互相联系",
+          "n.[the～]国际互联网，因特网",
+          "v.互相作用,互相影响"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "inter- (相互) + act (行动、作用) → 彼此行动、相互产生作用。核心动作：双方或多方之间进行动态的、双向的影响或交流。",
+        "similarWarning": "interface (界面、交互界面/使相互配合)：inter- + face (面)，强调“面与面之间的接触点”；interact 强调“行动上的相互作用”。integrate (整合、使成为一体)：integr- (完整) + -ate，强调“将分散部分合并为整体”；interact 是“各部分保持独立但彼此作用”。",
+        "extendedMeaning": "在考研阅读中常引申为“人际互动、社交交流”，尤其指人与人之间动态的、非单向的沟通或协作过程。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "intercourse",
+      "word": "intercourse",
+      "phonetic": "/'intəkɔ:s/",
+      "meaning": "n.交流,交往,交际,性交",
+      "similar": [
+        "interfere"
+      ],
+      "question": {
+        "wordId": "intercourse",
+        "stem": "选择 \"intercourse\" 的正确中文意思：",
+        "correct": "n.交流,交往,交际,性交",
+        "options": [
+          "n.构成,构造,组成(方式),成分;体格;宪法",
+          "n.交流,交往,交际,性交",
+          "v.(in)干涉,干预;(with)妨碍,打扰",
+          "a.看的,看得见的;视觉的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "inter-（在…之间）+ course（跑，流动）→ 事物在两者之间流动→ 交流、交往。核心物理动作是“在两者之间穿行流动”，引申为人际间的信息、情感或身体接触。",
+        "similarWarning": "interfere（干涉）：inter- + fere（击打）→ 击打到中间→ 介入干扰。差异在于course（流动）vs fere（击打），前者强调流通，后者强调碰撞干扰。",
+        "extendedMeaning": "在考研外刊中常指“（国际/人际）交流互动”，如cultural intercourse（文化交流）；另可指“性交”，但极少在真题中出现此义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "interface",
+      "word": "interface",
+      "phonetic": "/'ɪntəfeɪs/",
+      "meaning": "n.接合部位，分界面 v.(使)互相联系",
+      "similar": [
+        "interact",
+        "interfere",
+        "internal",
+        "interval",
+        "inference",
+        "integrate",
+        "intervene"
+      ],
+      "question": {
+        "wordId": "interface",
+        "stem": "选择 \"interface\" 的正确中文意思：",
+        "correct": "n.接合部位，分界面 v.(使)互相联系",
+        "options": [
+          "n.接合部位，分界面 v.(使)互相联系",
+          "v.互相作用,互相影响",
+          "v.(in)干涉,干预;(with)妨碍,打扰",
+          "a.内部的,内的;国内的,内政的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "inter-（在…之间）+ face（面）→ 两个面之间的接触区域。核心物理动作为：两个系统或物体在边界处交汇、连接。",
+        "similarWarning": "interact（互动，强调双向作用）；interfere（干涉，强调负面干扰）；internal（内部的，强调内在）；interval（间隔，强调时间/空间距离）；inference（推论，强调逻辑推导）；integrate（整合，强调融合为一体）；intervene（干预，强调插入调停）。区别在于interface侧重“交界面/连接点”，而interact侧重“相互作用过程”。",
+        "extendedMeaning": "在科技/商务语境中，常指“接口”（软件/硬件连接方式）或“交互界面”（人与机器的沟通媒介），如user interface（用户界面）。",
+        "examUsage": "考研阅读中常考其动词用法，搭配with：interface with（与…连接/互动）。例如真题例句：\"The system must be designed to interface with existing databases.\" 注意与interfere with（干扰）的区分。"
+      }
+    },
+    {
+      "id": "interfere",
+      "word": "interfere",
+      "phonetic": "/ˌintə'fiə/",
+      "meaning": "v.(in)干涉,干预;(with)妨碍,打扰",
+      "similar": [
+        "interface",
+        "intervene",
+        "interior",
+        "internet",
+        "interpret",
+        "intercourse"
+      ],
+      "question": {
+        "wordId": "interfere",
+        "stem": "选择 \"interfere\" 的正确中文意思：",
+        "correct": "v.(in)干涉,干预;(with)妨碍,打扰",
+        "options": [
+          "v.(in)干涉,干预;(with)妨碍,打扰",
+          "v.(in)干涉,干预;插入,介入",
+          "n.接合部位，分界面 v.(使)互相联系",
+          "a.内部的,里面的 n.内部,内地"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源于拉丁语inter-（在…之间）+ ferire（击打）。核心物理动作是“击打到中间”，引申为“介入他人之间造成冲突或阻碍”，即干涉或妨碍。",
+        "similarWarning": "interface（界面，接口：inter-之间+face脸面）；intervene（干预，介入：inter-之间+vene来，强调“来到中间调解或阻止”）；interfere侧重“妨碍、打扰”，常含负面干扰义。",
+        "extendedMeaning": "在考研真题中常考“干扰、妨碍”义，如interfere with（妨碍，干扰），不常用“干涉”义。",
+        "examUsage": "真题考点：interfere with（妨碍，干扰）为高频搭配，常作题眼。例：\"Loud music can interfere with concentration.\"（高分例句）"
+      }
+    },
+    {
+      "id": "interference",
+      "word": "interference",
+      "phonetic": "/ˌintə'fiərəns/",
+      "meaning": "n.(in)干涉,干预;(with)妨碍,打扰",
+      "similar": [
+        "preference",
+        "intelligence",
+        "circumference"
+      ],
+      "question": {
+        "wordId": "interference",
+        "stem": "选择 \"interference\" 的正确中文意思：",
+        "correct": "n.(in)干涉,干预;(with)妨碍,打扰",
+        "options": [
+          "n.圆周,周围",
+          "n.(in)干涉,干预;(with)妨碍,打扰",
+          "n.(for,to)偏爱,喜爱;优惠;优先选择",
+          "n.智力,聪明;理解力;情报,消息,报导"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "inter-（之间）+ fer（击打、携带）+ -ence（名词后缀）→ 击打进入中间 → 原指“介入他人事务”，引申为“干涉、干扰”。核心动作：在两者之间插入动作或影响。",
+        "similarWarning": "preference（pre-前 + fer + -ence → 提前携带 → 偏爱）、intelligence（intel-之间 + lig选择 + -ence → 从中间选择信息 → 智力）、circumference（circum-环绕 + fer + -ence → 围绕携带 → 圆周）。差异在于前缀与词根组合后的语义方向：interference强调“介入阻碍”，preference强调“倾向选择”，intelligence强调“信息处理”，circumference强调“环绕范围”。",
+        "extendedMeaning": "在考研外刊中，常引申为“（信号、电波等的）干扰”或“（心理/社会层面的）干预、妨碍”。例如：political interference（政治干预）、signal interference（信号干扰）。",
+        "examUsage": "常考搭配：interference in（干涉某事）、interference with（妨碍/打扰）。真题例句：The government's interference in the market is often criticized.（政府对市场的干预常受批评。）注意区分与intervention（正式介入，常含中立或积极色彩）的语义差异。"
+      }
+    },
+    {
+      "id": "interim",
+      "word": "interim",
+      "phonetic": "/'intərim/",
+      "meaning": "a.中间的,暂时的,临时的 n.过渡时期,暂定",
+      "similar": [
+        "interior",
+        "inherit",
+        "integrity",
+        "interview",
+        "inferior",
+        "integral",
+        "interact",
+        "internal"
+      ],
+      "question": {
+        "wordId": "interim",
+        "stem": "选择 \"interim\" 的正确中文意思：",
+        "correct": "a.中间的,暂时的,临时的 n.过渡时期,暂定",
+        "options": [
+          "vt.继承(金钱等)，经遗传而得(性格、特征)",
+          "n.正直,诚实;完整,完全",
+          "a.内部的,里面的 n.内部,内地",
+          "a.中间的,暂时的,临时的 n.过渡时期,暂定"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "inter-（在…之间）+ -im（拉丁语后缀，表示时间/状态）。核心动作是“在中间的时间段”，即两个事件之间的过渡期，引申为“暂时的、临时的”。",
+        "similarWarning": "interior（内部的；inter- + -ior比较级后缀）vs interim（中间的/临时的；-im为时间后缀）。区别在于后缀：-ior表“更…的”，-im表“时间状态”。",
+        "extendedMeaning": "考研僻义：用作名词时，常指“过渡期”或“临时协议”，如“in the interim”（在此期间）。",
+        "examUsage": "真题考点：常与“interim government”（临时政府）、“interim report”（中期报告）搭配。阅读中可能作为时间逻辑词出现，如“in the interim”表示“在此期间”，用于衔接前后事件。"
+      }
+    },
+    {
+      "id": "interior",
+      "word": "interior",
+      "phonetic": "/in'tiəriə/",
+      "meaning": "a.内部的,里面的 n.内部,内地",
+      "similar": [
+        "inferior",
+        "interim",
+        "exterior",
+        "integrity",
+        "intention",
+        "interfere",
+        "interview",
+        "terror"
+      ],
+      "question": {
+        "wordId": "interior",
+        "stem": "选择 \"interior\" 的正确中文意思：",
+        "correct": "a.内部的,里面的 n.内部,内地",
+        "options": [
+          "a.内部的,里面的 n.内部,内地",
+          "a.下等的,下级的;劣等的,差的 n.下级,晚辈",
+          "a.中间的,暂时的,临时的 n.过渡时期,暂定",
+          "a.外部的,外面的 n.外部"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "interior 源自拉丁语 inter（在…之间）的比较级 interior，直译为“更在里面的”，核心物理动作是“向内深入”。词根 inter- 表“之间、内部”，-ior 是比较级后缀，整体表示“更内部的”，引申为“内部的、里面的”或“内部、内地”。",
+        "similarWarning": "inferior（低等的，下级的）：interior 强调“内部”，inferior 强调“低级”，拼写差异在 -ter- vs -fer-。exterior（外部的）：反义词，前缀 exter- 表“外部”，与 interior 的 inter- 相对。",
+        "extendedMeaning": "在考研外刊中，interior 常指“内心、心灵深处”（the interior of one's mind），或“内陆、腹地”（the interior of a country），如《经济学人》中“the interior of Africa”指非洲内陆。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "intermediate",
+      "word": "intermediate",
+      "phonetic": "/ˌintə'mi:djət/",
+      "meaning": "a.中间的,居间的;中级的 n.中间体,媒介物",
+      "similar": [
+        "intimidate"
+      ],
+      "question": {
+        "wordId": "intermediate",
+        "stem": "选择 \"intermediate\" 的正确中文意思：",
+        "correct": "a.中间的,居间的;中级的 n.中间体,媒介物",
+        "options": [
+          "a.花费的,昂贵的",
+          "v.逗留,徘徊,拖延,留恋,浪费光阴,苟延残喘",
+          "vt.胁迫，威胁(某人做某事)",
+          "a.中间的,居间的;中级的 n.中间体,媒介物"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "inter-（在…之间）+ medi-（中间）+ -ate（形容词/名词后缀）。字面意为“处于两者之间的”，核心动作是“在中间位置”。引申为“中级的”或“中间体”。",
+        "similarWarning": "intimidate（恐吓）：intermediate 含“medi”（中间），intimidate 含“timid”（胆怯）。拼写差异在“med” vs “tim”。",
+        "extendedMeaning": "在考研阅读中，可作名词指“中间人、调解者”，或作动词（罕见）表示“调解”。例：He acted as an intermediate between the two parties.",
+        "examUsage": "常考搭配：intermediate stage（中间阶段）、intermediate product（中间产品）。真题中可能作为干扰项与“intermediate”与“intermediary”（中介的）混淆，注意前者侧重“中间的”，后者侧重“调停的”。"
+      }
+    },
+    {
+      "id": "intermittent",
+      "word": "intermittent",
+      "phonetic": "/ˌɪntə'mɪtənt/",
+      "meaning": "a.间歇的,断断续续的",
+      "similar": [
+        "intelligent",
+        "entertainment"
+      ],
+      "question": {
+        "wordId": "intermittent",
+        "stem": "选择 \"intermittent\" 的正确中文意思：",
+        "correct": "a.间歇的,断断续续的",
+        "options": [
+          "n.招待,款待;表演文娱节目",
+          "ad.照字面意义,逐字地;确实",
+          "a.聪明的,明智的,理智的",
+          "a.间歇的,断断续续的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "inter-（在…之间）+ mittere（送出）的过去分词形式 miss- + -ent（形容词后缀）→ 在时间或空间之间送出又收回 → 不连续的、间歇的。核心物理动作：东西被丢出后，在中间停顿，再丢出。",
+        "similarWarning": "intelligent（intel-之间+lig-选择→有辨别能力的→聪明的）vs intermittent（inter-之间+mit-送出→间歇的）：差异在词根lig-（选择）与mit-（送出）；entertainment（enter-进入+tain-保持→保持进入→娱乐）vs intermittent：差异在词根tain-（保持）与mit-（送出）。",
+        "extendedMeaning": "在考研阅读中常指“间歇性的”非医学状态，如 intermittent rain（间歇雨）或 intermittent noise（间歇噪音），强调非持续性。",
+        "examUsage": "真题中常与 continuous（连续的）形成对比考点，如：The patient's symptoms are intermittent rather than continuous.（病人的症状是间歇性的而非连续性的。）干扰项常设置 continuous 或 persistent。"
+      }
+    },
+    {
+      "id": "internal",
+      "word": "internal",
+      "phonetic": "/in'tə:nəl/",
+      "meaning": "a.内部的,内的;国内的,内政的",
+      "similar": [
+        "interval",
+        "eternal",
+        "external",
+        "integral",
+        "internet",
+        "interface",
+        "intend",
+        "antenna"
+      ],
+      "question": {
+        "wordId": "internal",
+        "stem": "选择 \"internal\" 的正确中文意思：",
+        "correct": "a.内部的,内的;国内的,内政的",
+        "options": [
+          "a.外部的;客观的;外国的;表面的;[医]外用的",
+          "n.永久的,永恒的",
+          "n.间隔,间歇;(幕间或工间)休息",
+          "a.内部的,内的;国内的,内政的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根：inter-（在…之间）+ -nal（形容词后缀）。源自拉丁语 internus（内部的），原义为“在内部的”，后引申为“国内的；内政的”。",
+        "similarWarning": "external（外部的）：对比 internal（内部的）与 external（外部的），前缀 in-（向内）vs ex-（向外）。interval（间隔）：inter-（之间）+ val（墙），指“时间或空间上的间隔”，与 internal 拼写相似但含义不同。",
+        "extendedMeaning": "（在考研中，internal 的僻义较少见，其基本义“内部的”已覆盖主要考点。若需引申，可关注“内政的”在政治类文章中的用法，但通常不超出大纲释义范围。）",
+        "examUsage": "（internal 为常见基础词，在真题中常以“internal affairs（内政）”、“internal conflict（内部冲突）”等短语出现，作为干扰项时需注意与 external 的区分，但无特殊高频考点。）"
+      }
+    },
+    {
+      "id": "international",
+      "word": "international",
+      "phonetic": "/ˌintə'næʃənəl/",
+      "meaning": "a.国际的,世界(性)的,跨国的",
+      "similar": [
+        "operational",
+        "indignation",
+        "information",
+        "conventional",
+        "intersection"
+      ],
+      "question": {
+        "wordId": "international",
+        "stem": "选择 \"international\" 的正确中文意思：",
+        "correct": "a.国际的,世界(性)的,跨国的",
+        "options": [
+          "a.操作的,运转的,起作用的,经营的",
+          "n.愤怒,愤慨",
+          "a.国际的,世界(性)的,跨国的",
+          "n.通知,报告;情报,资料,消息;信息"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "inter-（在…之间）+ nation（国家）+ -al（形容词后缀）→ 国家之间的 → 国际的。核心动作：跨越国界进行联系或交流。",
+        "similarWarning": "形近词辨析：\n- operational（操作的）：源自operate（操作），强调运作状态。\n- indignation（愤慨）：in-（否定）+ dign（尊严）+ -ation，因尊严受损而愤怒。\n- information（信息）：in-（进入）+ form（形成）+ -ation，形成于脑海中的内容。\n- interesting（有趣的）：源自interest（兴趣），使人产生兴趣的。\n- conventional（传统的）：con-（共同）+ vent（来）+ -ional，共同遵循的惯例。\n- intersection（十字路口）：inter-（之间）+ sect（切割）+ -ion，切割交叉的地方。\n关键差异：international的核心在“国家间”，而其他词根不同，如operational强调“操作”，conventional强调“惯例”。",
+        "extendedMeaning": "熟词僻义：在考研中可引申为“跨国界的、全球性的”，不限于政治层面，如international law（国际法）、international community（国际社会）。",
+        "examUsage": "真题考点：常作定语修饰抽象名词，如international trade（国际贸易）、international cooperation（国际合作）。注意与domestic（国内的）形成对比，真题中可能考查其作为背景词汇的语境理解。"
+      }
+    },
+    {
+      "id": "internet",
+      "word": "internet",
+      "phonetic": "/'intənet/",
+      "meaning": "n.[the～]国际互联网，因特网",
+      "similar": [
+        "interpret",
+        "interact",
+        "internal",
+        "interfere",
+        "interrupt",
+        "intervene",
+        "interview",
+        "insert"
+      ],
+      "question": {
+        "wordId": "internet",
+        "stem": "选择 \"internet\" 的正确中文意思：",
+        "correct": "n.[the～]国际互联网，因特网",
+        "options": [
+          "n.[the～]国际互联网，因特网",
+          "vt.解释,说明;口译",
+          "v.互相作用,互相影响",
+          "a.内部的,内的;国内的,内政的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "inter-（在…之间）+ net（网）→ 互相连接的网 → 国际互联网。核心动作：网络之间的互联。",
+        "similarWarning": "interpret（解释，口译）：inter-（相互）+ pret（价值）→ 在双方间传递价值 → 解释。interact（互动）：inter- + act（行动）→ 相互行动。interest（兴趣）：inter- + est（存在）→ 介于存在之间 → 引起关注。internal（内部的）：inter- + nal（形容词后缀）→ 在内部的。interfere（干涉）：inter- + fere（打击）→ 相互打击 → 干涉。interrupt（打断）：inter- + rupt（断裂）→ 中间断裂 → 打断。intervene（干预）：inter- + vene（来）→ 来到中间 → 干预。interview（面试）：inter- + view（看）→ 相互看 → 面试。核心差异：internet强调“网”的互联；interpret强调“价值”的传递；interact强调“行动”的互动。",
+        "extendedMeaning": "在考研阅读中，internet常作为背景词出现，但需注意其与network、web的细微区别：internet指全球互联的物理网络，web指基于超文本的信息系统。",
+        "examUsage": "常见搭配：access the internet（访问互联网），internet access（互联网接入）。2010年真题例句：The Internet may not be changing our brains, but it is changing our reading habits.（互联网或许未改变大脑，但改变了阅读习惯。）考点：常作为信息传播媒介引出话题。"
+      }
+    },
+    {
+      "id": "interpret",
+      "word": "interpret",
+      "phonetic": "/in'tə:prit/",
+      "meaning": "vt.解释,说明;口译",
+      "similar": [
+        "internet",
+        "interact",
+        "interfere",
+        "interrupt",
+        "interview",
+        "enterprise"
+      ],
+      "question": {
+        "wordId": "interpret",
+        "stem": "选择 \"interpret\" 的正确中文意思：",
+        "correct": "vt.解释,说明;口译",
+        "options": [
+          "vt.解释,说明;口译",
+          "n.[the～]国际互联网，因特网",
+          "v.互相作用,互相影响",
+          "v.(in)干涉,干预;(with)妨碍,打扰"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "inter-（在…之间）+ pret（源自拉丁语pretium，意为“价值、价格”，引申为“沟通、传达”）。核心动作：在双方之间传达价值/意义，即“解释、口译”",
+        "similarWarning": "interrupt（rupt=断裂）：打断；interpret（pret=沟通）：解释。差异在词根rupt（断）与pret（沟通）",
+        "extendedMeaning": "在考研外刊中常引申为“理解、解读”（如：interpret data解读数据），而非仅字面翻译",
+        "examUsage": "真题高频搭配：interpret...as...（把…理解为…）。例：The results can be interpreted as evidence of...（这些结果可被理解为…的证据）"
+      }
+    },
+    {
+      "id": "interrupt",
+      "word": "interrupt",
+      "phonetic": "/ˌintə'rʌpt/",
+      "meaning": "v.中断,遮断,阻碍;打断(话),打扰",
+      "similar": [
+        "interact",
+        "internet",
+        "interpret"
+      ],
+      "question": {
+        "wordId": "interrupt",
+        "stem": "选择 \"interrupt\" 的正确中文意思：",
+        "correct": "v.中断,遮断,阻碍;打断(话),打扰",
+        "options": [
+          "v.中断,遮断,阻碍;打断(话),打扰",
+          "v.互相作用,互相影响",
+          "n.[the～]国际互联网，因特网",
+          "vt.解释,说明;口译"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "inter-（在...之间）+ rupt（打破，断裂）→ 从中间打破→ 中断，打断。核心动作：在连续进程的中间强行插入一个断裂点。",
+        "similarWarning": "interrupt vs. interpret: interrupt = inter + rupt (断裂); interpret = inter + pret (表达，价值) → 在两者之间传达价值→ 解释。拼写差异：rupt vs. pret。",
+        "extendedMeaning": "在计算机/电子领域指‘中断信号’，如 interrupt handler（中断处理程序）；在物理/机械领域指‘阻断（线路、供应）’，如 interrupt the flow。",
+        "examUsage": "真题常见搭配：interrupt sb.'s speech（打断某人讲话）；be interrupted by（被...打断）；interrupt the process（中断进程）。干扰项常与 interfere（干涉，介入）混淆。"
+      }
+    },
+    {
+      "id": "intersection",
+      "word": "intersection",
+      "phonetic": "/ˌintə'sekʃən/",
+      "meaning": "n.相交，交叉；道路交叉口，十字路口",
+      "similar": [
+        "perfection",
+        "instruction",
+        "introduction",
+        "international"
+      ],
+      "question": {
+        "wordId": "intersection",
+        "stem": "选择 \"intersection\" 的正确中文意思：",
+        "correct": "n.相交，交叉；道路交叉口，十字路口",
+        "options": [
+          "n.相交，交叉；道路交叉口，十字路口",
+          "n.教授;指导;(pl.)用法说明(书),操作指南",
+          "n.尽善尽美,完美",
+          "n.(to)介绍;传入,引进;导言,导论,绪论"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "inter-（相互、之间）+ sect-（切、分割）+ -ion（名词后缀）。核心物理动作：相互切割。两条线或路径互相切割，形成交叉点。",
+        "similarWarning": "instruction（n. 指令，教导；in-向内 + struct-建造 + -ion），与intersection拼写差异在于“sect” vs “struct”，且词义无交叉。",
+        "extendedMeaning": "在考研中可引申为“交集、交汇点”，如不同领域、观点或利益的交叉区域。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "interval",
+      "word": "interval",
+      "phonetic": "/'intəvəl/",
+      "meaning": "n.间隔,间歇;(幕间或工间)休息",
+      "similar": [
+        "internal",
+        "integral",
+        "interface",
+        "intervene",
+        "interview",
+        "eternal",
+        "interim",
+        "lateral"
+      ],
+      "question": {
+        "wordId": "interval",
+        "stem": "选择 \"interval\" 的正确中文意思：",
+        "correct": "n.间隔,间歇;(幕间或工间)休息",
+        "options": [
+          "n.间隔,间歇;(幕间或工间)休息",
+          "a.内部的,内的;国内的,内政的",
+          "a.构成整体所必需的;完整的",
+          "n.接合部位，分界面 v.(使)互相联系"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语intervallum，inter-（在...之间）+vallum（壁垒、墙），原指两堵墙之间的空间，引申为时间或空间上的间隔、间歇。",
+        "similarWarning": "internal（内部的）：inter-（在...之间）+nal，侧重内部；interval（间隔）：侧重两者之间的空隙。integral（整体的）：integr-（完整）+al，强调完整性；interval强调分隔。",
+        "extendedMeaning": "在考研阅读中常引申为“时间间隔、差距”，如confidence interval（置信区间），用于统计学或数据分析语境。",
+        "examUsage": "真题考点：at intervals（不时；每隔一段距离/时间），如：at regular intervals（每隔一定时间）。干扰项常与period（周期）、gap（缺口）混淆。"
+      }
+    },
+    {
+      "id": "intervene",
+      "word": "intervene",
+      "phonetic": "/ˌintə'vi:n/",
+      "meaning": "v.(in)干涉,干预;插入,介入",
+      "similar": [
+        "interfere",
+        "inherent",
+        "internet",
+        "interval",
+        "inference",
+        "interface",
+        "interview"
+      ],
+      "question": {
+        "wordId": "intervene",
+        "stem": "选择 \"intervene\" 的正确中文意思：",
+        "correct": "v.(in)干涉,干预;插入,介入",
+        "options": [
+          "v.(in)干涉,干预;插入,介入",
+          "v.(in)干涉,干预;(with)妨碍,打扰",
+          "a.固有的,内在的,天生的",
+          "n.[the～]国际互联网，因特网"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "inter-（在…之间）+ vene（来）→ 来到中间 → 介入、干预。核心物理动作是“插入到两者之间”，强调作为第三方进入一个正在进行的进程或关系。",
+        "similarWarning": "interfere（干涉，强调阻碍或扰乱），intervene（介入，强调调解或改变进程）。interfere常接with/in，intervene常接in。",
+        "extendedMeaning": "（考研高频）指时间或事件之间的“插入、介于…之间”：An intervening period. 也指“调停、斡旋”（非武力干预）。",
+        "examUsage": "（真题考点）常用搭配：intervene in（干预…）；intervene between（在…之间调解）。例句：The government intervened to stabilize the economy.（政府介入以稳定经济。）"
+      }
+    },
+    {
+      "id": "interview",
+      "word": "interview",
+      "phonetic": "/'intəvju:/",
+      "meaning": "v./n.接见,会见;采访;面试",
+      "similar": [
+        "interim",
+        "interior",
+        "internet",
+        "interval",
+        "interpret",
+        "intervene"
+      ],
+      "question": {
+        "wordId": "interview",
+        "stem": "选择 \"interview\" 的正确中文意思：",
+        "correct": "v./n.接见,会见;采访;面试",
+        "options": [
+          "n.[the～]国际互联网，因特网",
+          "a.内部的,里面的 n.内部,内地",
+          "a.中间的,暂时的,临时的 n.过渡时期,暂定",
+          "v./n.接见,会见;采访;面试"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "inter-（相互）+ view（看）→ 相互之间看对方 → 见面交谈，引申为面试、采访。核心动作是“面对面审视”。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "intimate",
+      "word": "intimate",
+      "phonetic": "/'ɪntɪmət/",
+      "meaning": "a.亲密的,密切的 n.熟友,熟人",
+      "similar": [
+        "intimidate",
+        "intricate",
+        "estimate",
+        "indicate",
+        "initiate",
+        "ultimate",
+        "institute",
+        "integrate"
+      ],
+      "question": {
+        "wordId": "intimate",
+        "stem": "选择 \"intimate\" 的正确中文意思：",
+        "correct": "a.亲密的,密切的 n.熟友,熟人",
+        "options": [
+          "a.复杂的,错综的,难以理解的",
+          "vt.胁迫，威胁(某人做某事)",
+          "v./n.估计,估价;评估",
+          "a.亲密的,密切的 n.熟友,熟人"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'intimus'（最内在的），后缀'-ate'构成形容词。核心动作/画面：进入最内部。词义演变：最内在的 → 关系上最亲近的 → 亲密的。",
+        "similarWarning": "intimidate（恐吓）：核心差异在于'id' vs 'im'，'intim'表示内在，'intimid'表示使害怕。intricate（复杂的）：'intric'表示纠缠，与'intim'无关。estimate（估计）：'estim'表示估价，完全不同。indicate（表明）：'dic'表示说，'in'表示向内。initiate（开始）：'init'表示开始，'it'表示走。ultimate（最终的）：'ultim'表示最后。institute（设立）：'stitut'表示建立。integrate（整合）：'integr'表示完整。",
+        "extendedMeaning": "考研僻义：adj. 私密的，隐私的（指个人内心深处的，不愿公开的）。如：intimate details（私密细节）。",
+        "examUsage": "考点：'intimate'作为动词意为'暗示，透露'，及物用法，常见于阅读。真题例句：He intimated that he would resign.（他暗示他将辞职。）"
+      }
+    },
+    {
+      "id": "intimidate",
+      "word": "intimidate",
+      "phonetic": "/in'timideit/",
+      "meaning": "vt.胁迫，威胁(某人做某事)",
+      "similar": [
+        "intimate",
+        "initiate",
+        "intricate",
+        "anticipate",
+        "intermediate",
+        "contaminate",
+        "estimate",
+        "indicate"
+      ],
+      "question": {
+        "wordId": "intimidate",
+        "stem": "选择 \"intimidate\" 的正确中文意思：",
+        "correct": "vt.胁迫，威胁(某人做某事)",
+        "options": [
+          "vt.开始，创始，发动；启蒙，使入门；引入",
+          "a.复杂的,错综的,难以理解的",
+          "vt.胁迫，威胁(某人做某事)",
+          "a.亲密的,密切的 n.熟友,熟人"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ timid（胆怯的，来自拉丁语timidus，源自timere“害怕”）+ -ate（动词后缀）→ 使进入胆怯状态 → 胁迫、威胁。核心动作：通过制造恐惧使对方屈服。",
+        "similarWarning": "intimidate（胁迫）：in + timid + ate；intimate（亲密的/暗示）：in + tim（内部）+ ate；initiate（开始）：in + it（走）+ iate；intricate（复杂的）：in + tric（琐碎）+ ate。差异在于词根：timid（胆小）vs tim（内部）vs it（走）vs tric（琐碎）。",
+        "extendedMeaning": "考研僻义：在写作或阅读中可引申为“（通过气势、权威等）压倒、震慑”，不限于直接暴力威胁。例：The sheer scale of the project intimidated the new team.（项目的庞大规模震慑了新团队。）",
+        "examUsage": "真题考点：常用于被动结构 be intimidated by/into doing，表示“被…吓到而做…”。例：Students should not be intimidated into silence.（学生不应被胁迫保持沉默。）注意与intimate（暗示）的拼写干扰。"
+      }
+    },
+    {
+      "id": "intricate",
+      "word": "intricate",
+      "phonetic": "/'intrikət/",
+      "meaning": "a.复杂的,错综的,难以理解的",
+      "similar": [
+        "indicate",
+        "intimate",
+        "intimidate",
+        "initiate",
+        "intrigue",
+        "irrigate",
+        "irritate",
+        "fabricate"
+      ],
+      "question": {
+        "wordId": "intricate",
+        "stem": "选择 \"intricate\" 的正确中文意思：",
+        "correct": "a.复杂的,错综的,难以理解的",
+        "options": [
+          "a.复杂的,错综的,难以理解的",
+          "v.指出,指示;表明,暗示",
+          "a.亲密的,密切的 n.熟友,熟人",
+          "vt.胁迫，威胁(某人做某事)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 in-（进入）+ tric-（琐碎、障碍，源自拉丁语 tricae ‘琐碎杂物、纠结’）+ -ate（形容词后缀）→ 进入琐碎杂物之中 → 纠缠不清 → 复杂的、错综的。核心物理动作：被琐碎小物缠绕、难以解开。",
+        "similarWarning": "intricate（错综复杂的） vs. intimate（亲密的；暗示） vs. intimidate（恐吓） vs. initiate（开始；启蒙）。差异：intricate 含 tric-（琐碎/障碍）；intimate 含 im-（内）+ mate（伙伴）→ 内心伙伴；intimidate 含 tim-（害怕）；initiate 含 it-（走）→ 开始走。",
+        "extendedMeaning": "在考研阅读中常引申为‘精细复杂的、难解的’，如 intricate design（精细设计）、intricate network（复杂网络），强调结构上的多细节交织，并非简单指‘困难’。",
+        "examUsage": "真题考点：常与 complex, complicated 同义替换，但更侧重‘细节交织’的物理感。例句：The intricate patterns of the ancient mosaic require careful restoration.（古代马赛克的错综图案需要精细修复。）干扰项中常与 intimate 混淆，需注意拼写区别。"
+      }
+    },
+    {
+      "id": "intrigue",
+      "word": "intrigue",
+      "phonetic": "/in'tri:g/",
+      "meaning": "n.阴谋v.密谋,私通;激起…的兴趣;诡计取得",
+      "similar": [
+        "intricate",
+        "introduce",
+        "antique",
+        "fatigue",
+        "intrude",
+        "contribute",
+        "distribute"
+      ],
+      "question": {
+        "wordId": "intrigue",
+        "stem": "选择 \"intrigue\" 的正确中文意思：",
+        "correct": "n.阴谋v.密谋,私通;激起…的兴趣;诡计取得",
+        "options": [
+          "vt.介绍；引进，传入；提出(议案等)",
+          "n.阴谋v.密谋,私通;激起…的兴趣;诡计取得",
+          "a.复杂的,错综的,难以理解的",
+          "a.古式的，过时的 n.有价值的古物，古董"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根in-（进入）+ trigue（来自拉丁语trigare，意为“纠缠、阻挠”）。核心物理动作是“进入纠缠状态”，引申为“暗中策划复杂阴谋”或“因复杂神秘而引起好奇心”。",
+        "similarWarning": "intricate（复杂的）：intrigue强调秘密策划或引起好奇，intricate强调结构复杂难解。introduce（介绍）：与intrigue拼写差异在‘trig’ vs ‘troduc’，词义无关联。antique（古董）：拼写相似但词根不同，antique源自拉丁语‘antiquus’（古老）。",
+        "extendedMeaning": "考研中常考“激起…的兴趣”这一僻义，如：The idea intrigued me.（这个想法激起了我的兴趣。）非字面“阴谋”义。",
+        "examUsage": "真题中常以动词形式出现，搭配‘be intrigued by’（被…吸引），作为题眼考查熟词僻义。例：He was intrigued by the mystery.（他被这个谜团吸引。）属高频考点。"
+      }
+    },
+    {
+      "id": "intrinsic",
+      "word": "intrinsic",
+      "phonetic": "/in'trinsik/",
+      "meaning": "a.(指价值、性质)固有的，本质的，内在的",
+      "similar": [],
+      "question": {
+        "wordId": "intrinsic",
+        "stem": "选择 \"intrinsic\" 的正确中文意思：",
+        "correct": "a.(指价值、性质)固有的，本质的，内在的",
+        "options": [
+          "n.[机]马力",
+          "a.(指价值、性质)固有的，本质的，内在的",
+          "v.吐(唾沫),吐痰 n.唾液",
+          "n.炉,灶,灶箱"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语intrinsecus，由intra（在内）+secus（跟随）构成，字面意思为“跟随在内部”，即事物内部固有的、不可分割的属性。核心动作：内部跟随→内在固有。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中常引申为“（价值、特征）与生俱来的、非外加的”，如intrinsic value（内在价值），区别于extrinsic（外部的）。",
+        "examUsage": "常见搭配：intrinsic to（对…固有的），如“The problem is intrinsic to the system.”（该问题是系统固有的。）真题中常作为抽象名词的修饰语，强调本质属性。"
+      }
+    },
+    {
+      "id": "introduce",
+      "word": "introduce",
+      "phonetic": "/ˌintrə'dju:s/",
+      "meaning": "vt.介绍；引进，传入；提出(议案等)",
+      "similar": [
+        "intrude",
+        "produce",
+        "intrigue",
+        "reproduce"
+      ],
+      "question": {
+        "wordId": "introduce",
+        "stem": "选择 \"introduce\" 的正确中文意思：",
+        "correct": "vt.介绍；引进，传入；提出(议案等)",
+        "options": [
+          "n.阴谋v.密谋,私通;激起…的兴趣;诡计取得",
+          "vt.介绍；引进，传入；提出(议案等)",
+          "v.生产,制造,显示,演出,导致 n.产品",
+          "vi.闯入,侵入vt.把(思想等)强加于人;强挤入"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "intro-（向内）+ duce（引导）→ 引导进入→ 引进、介绍。核心动作：将某人或某物从外部引导至内部或他人面前。",
+        "similarWarning": "intrude（闯入）：intrude vs introduce，前者无“引导”动作，强调强行进入；produce（生产）：pro-（向前）+ duce，强调“向前引出”产品；intrigue（引起兴趣）：in-（进入）+ trigue（复杂），强调“引入复杂情境”引发好奇心。",
+        "extendedMeaning": "提出（议案、观点等）：在正式场合将某议题“引入”讨论。",
+        "examUsage": "introduce a bill（提出议案）— 考研阅读中常出现在政治、法律类话题，作为核心动词。"
+      }
+    },
+    {
+      "id": "introduction",
+      "word": "introduction",
+      "phonetic": "/ˌintrə'dʌkʃən/",
+      "meaning": "n.(to)介绍;传入,引进;导言,导论,绪论",
+      "similar": [
+        "production",
+        "instruction",
+        "contradiction",
+        "intersection"
+      ],
+      "question": {
+        "wordId": "introduction",
+        "stem": "选择 \"introduction\" 的正确中文意思：",
+        "correct": "n.(to)介绍;传入,引进;导言,导论,绪论",
+        "options": [
+          "n.(to)介绍;传入,引进;导言,导论,绪论",
+          "n.生产,产品,作品,(研究)成果,总产量",
+          "n.教授;指导;(pl.)用法说明(书),操作指南",
+          "n.反驳，否认；矛盾，不一致"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "intro-（向内）+duct-（引导）+-ion（名词后缀）→引导进入→介绍、引进。核心动作：把某物/某人引导入某个领域或体系。",
+        "similarWarning": "production（pro-向前+duct+ion）强调产出、生产；instruction（in-在内+struct+ion）强调教导、指示；contradiction（contra-相反+dict+ion）强调反驳、矛盾；intersection（inter-相互+sect+ion）强调交叉、交点。",
+        "extendedMeaning": "考研中常考“导论、绪论”义，尤指书籍或论文的开篇部分，如introduction to a book；也用于“引进”新事物，如introduction of new technology。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "intrude",
+      "word": "intrude",
+      "phonetic": "/in'tru:d/",
+      "meaning": "vi.闯入,侵入vt.把(思想等)强加于人;强挤入",
+      "similar": [
+        "include",
+        "introduce",
+        "instruct",
+        "intrigue"
+      ],
+      "question": {
+        "wordId": "intrude",
+        "stem": "选择 \"intrude\" 的正确中文意思：",
+        "correct": "vi.闯入,侵入vt.把(思想等)强加于人;强挤入",
+        "options": [
+          "vt.介绍；引进，传入；提出(议案等)",
+          "v.包括,包含,计入",
+          "vi.闯入,侵入vt.把(思想等)强加于人;强挤入",
+          "v.教,教授;命令,指示"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "in-（向内） + trud（推，刺） + -e（动词后缀） → 向里推/刺 → 强行进入或介入他人领域。核心物理动作是“推入”，引申为未经允许进入或强加。",
+        "similarWarning": "intrude vs. include（in-向内 + clud关闭 → 关在里面，即包含）；introduce（intro-向内 + duc引导 → 引入，介绍）；instruct（in-在内 + struct建造 → 内部构建知识，即教导）；intrigue（in-在内 + trigue（源自trigue，复杂） → 复杂内部关系，即阴谋）。差异：intrude强调强行推入，其他词无此强制感。",
+        "extendedMeaning": "在考研阅读中常引申为“干涉，干预（他人事务）”，如intrude on one's privacy（侵犯隐私）；还可表示“（思想、观点等）强加于人”，如intrude one's opinions on others。",
+        "examUsage": "常考搭配intrude into/on/upon，如intrude into a private conversation（闯入私人谈话）。真题中常作为干扰项，与interfere（干预，常接with/in）辨析：intrude侧重强行进入，interfere侧重妨碍或介入过程。"
+      }
+    },
+    {
+      "id": "intuition",
+      "word": "intuition",
+      "phonetic": "/ˌintju:'iʃən/",
+      "meaning": "n.直觉，直观；凭直觉而知的事物",
+      "similar": [
+        "tuition",
+        "intention",
+        "instruction",
+        "petition",
+        "inflation",
+        "invention",
+        "nutrition",
+        "inspiration"
+      ],
+      "question": {
+        "wordId": "intuition",
+        "stem": "选择 \"intuition\" 的正确中文意思：",
+        "correct": "n.直觉，直观；凭直觉而知的事物",
+        "options": [
+          "n.意图,意向,目的",
+          "n.直觉，直观；凭直觉而知的事物",
+          "n.学费；(某一学科的)教学，讲授，指导",
+          "n.教授;指导;(pl.)用法说明(书),操作指南"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "in-（向内）+ tuit（看，观察）+ -ion（名词后缀）→ 向内看，不借助外部感官而直接认知的能力 → 直觉，直观。",
+        "similarWarning": "tuition（学费，tuit=看护/监护，引申为教学）；intention（意图，in-向内+tent-伸展+ion，内心伸出的方向）；instruction（指导，in-向内+struct-建造+ion，向内构建知识）。",
+        "extendedMeaning": "考研中常考其引申义‘凭直觉感知的事物’，如‘have an intuition that...’（凭直觉感到...），强调未经推理的直接认知。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "invade",
+      "word": "invade",
+      "phonetic": "/in'veid/",
+      "meaning": "vt.入侵,侵略,侵袭,侵扰",
+      "similar": [
+        "evade",
+        "inhale",
+        "inside",
+        "invite"
+      ],
+      "question": {
+        "wordId": "invade",
+        "stem": "选择 \"invade\" 的正确中文意思：",
+        "correct": "vt.入侵,侵略,侵袭,侵扰",
+        "options": [
+          "a.里面的 ad.在里面 n.内部 prep.在…里",
+          "vt.入侵,侵略,侵袭,侵扰",
+          "vt.逃避，回避；避开，躲避",
+          "v.吸入(气体等)，吸(烟)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "in-（进入） + vade（走，来自拉丁语vadere“行走”）→ 走进别人的地盘 → 入侵、侵略",
+        "similarWarning": "evade（e-出 + vade走 → 溜走，逃避）；invade（in-进 + vade走 → 闯入）；注意字母差异：in- vs e- 决定方向相反",
+        "extendedMeaning": "（抽象）侵袭（指疾病、情绪等不受欢迎的事物突然蔓延或影响），如：Fear invaded his mind.（恐惧侵袭了他的内心。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "invalid",
+      "word": "invalid",
+      "phonetic": "/'ɪnvəlɪd/",
+      "meaning": "n.病人,伤残人 a.有病的,伤残的;无效的",
+      "similar": [
+        "valid",
+        "invasion"
+      ],
+      "question": {
+        "wordId": "invalid",
+        "stem": "选择 \"invalid\" 的正确中文意思：",
+        "correct": "n.病人,伤残人 a.有病的,伤残的;无效的",
+        "options": [
+          "n.观众席，听众席；会堂，礼堂",
+          "n.入侵,侵略,侵犯",
+          "a.有效的;有根据的;正当的",
+          "n.病人,伤残人 a.有病的,伤残的;无效的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（否定）+ valid（有效的，源自拉丁语valere“强壮”）。核心动作：从“不强壮”引申为“无效的”或“病弱的”。",
+        "similarWarning": "valid（有效的）vs invalid（无效的/病弱的）：valid含“val-”（强壮），invalid加否定前缀in-。invasion（入侵）含“vas-”（走），拼写差异在“-vas-”与“-val-”。",
+        "extendedMeaning": "考研中常考“无效的”这一法律或逻辑层面的僻义，如“invalid argument”（无效论证）、“invalid contract”（无效合同）。",
+        "examUsage": "常与“valid”构成反义干扰项，如真题中“The evidence is invalid”作为关键题眼考查对论证有效性的判断。"
+      }
+    },
+    {
+      "id": "invaluable",
+      "word": "invaluable",
+      "phonetic": "/in'væljuəbl/",
+      "meaning": "a.非常宝贵的,无价的",
+      "similar": [
+        "valuable",
+        "invariably",
+        "evaluate",
+        "variable",
+        "available",
+        "invisible",
+        "inevitable"
+      ],
+      "question": {
+        "wordId": "invaluable",
+        "stem": "选择 \"invaluable\" 的正确中文意思：",
+        "correct": "a.非常宝贵的,无价的",
+        "options": [
+          "a.非常宝贵的,无价的",
+          "a.贵重的,有价值的 n.(pl.)贵重物品,财宝",
+          "ad.不变地，永恒地，总是",
+          "v.估价,评价;求…的值"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（不）+ valuable（有价值的）→ 无法估量其价值 → 无价的、极其珍贵的。注意：invaluable并非valuable的反义词（反义词是valueless），而是表示价值高到无法用金钱衡量。",
+        "similarWarning": "valuable（有价值的）：去掉in-。invariably（总是地）：词根vary（变化），in- + vary + -ably → 不变地。evaluate（评估）：e-（出）+ valu（价值）+ -ate → 评出价值。variable（可变的）：vary + -able。available（可用的）：a-（加强）+ vail（价值）+ -able → 有价值的可用。invisible（看不见的）：in-（不）+ vis（看）+ -ible。inevitable（不可避免的）：in-（不）+ evitable（可避免的）。",
+        "extendedMeaning": "在考研阅读中，invaluable常用来形容经验、建议、资源等抽象事物的极高价值，强调不可或缺或无法替代。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "invariably",
+      "word": "invariably",
+      "phonetic": "/in'vɛəriəbli/",
+      "meaning": "ad.不变地，永恒地，总是",
+      "similar": [
+        "variable",
+        "invaluable",
+        "invisible"
+      ],
+      "question": {
+        "wordId": "invariably",
+        "stem": "选择 \"invariably\" 的正确中文意思：",
+        "correct": "ad.不变地，永恒地，总是",
+        "options": [
+          "a.看不见的,无形的",
+          "a.非常宝贵的,无价的",
+          "a.易变的;可变的;变量的 n.变量",
+          "ad.不变地，永恒地，总是"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（不）+ vari（vari-变化）+ -ably（副词后缀）→ 不变化地 → 总是，永恒地。核心动作：状态恒定不变。",
+        "similarWarning": "variable（可变的，变量）：vary+able，强调可变性；invaluable（无价的）：in-（不）+ valuable（有价值的），即无法估价的；invisible（看不见的）：in-（不）+ visible（可见的）。注意in-在invariably中是否定vary，而非否定valuable或visible。",
+        "extendedMeaning": "考研中常用于表示“总是、无一例外地”，强调一种必然性，如真题中“invariably leads to”表示“总是导致”。",
+        "examUsage": "真题考点：常与“always”同义替换，但更强调逻辑必然性。例如：\"The result is invariably the same.\"（结果总是相同。）注意与“variable”形成反义对比，干扰项常设置成“variable”或“invisible”。"
+      }
+    },
+    {
+      "id": "invasion",
+      "word": "invasion",
+      "phonetic": "/in'veiʒən/",
+      "meaning": "n.入侵,侵略,侵犯",
+      "similar": [
+        "innovation",
+        "invitation",
+        "inflation",
+        "invention",
+        "nation",
+        "vision",
+        "invalid",
+        "division"
+      ],
+      "question": {
+        "wordId": "invasion",
+        "stem": "选择 \"invasion\" 的正确中文意思：",
+        "correct": "n.入侵,侵略,侵犯",
+        "options": [
+          "n.通货膨胀",
+          "n.邀请,招待;请柬",
+          "n.改革，革新；新观念，新方法，新发明",
+          "n.入侵,侵略,侵犯"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ vad（走，行）+ -sion（名词后缀）→ 进入他人领土的行为。词根vad源自拉丁语vadere（走，行），核心物理动作为“强行踏入”。",
+        "similarWarning": "invasion vs. innovation：in-前缀不同；vad（走） vs. nov（新）。invasion强调进入，innovation强调创新。",
+        "extendedMeaning": "考研中可引申为“（权利、隐私等）侵犯”，如an invasion of privacy（隐私侵犯）。",
+        "examUsage": "真题考点：常与介词of连用，如the invasion of Iraq；或用于比喻义，如an invasion of tourists（游客涌入）。"
+      }
+    },
+    {
+      "id": "invent",
+      "word": "invent",
+      "phonetic": "/in'vent/",
+      "meaning": "v.发明,创造;捏造,虚构",
+      "similar": [
+        "invert",
+        "invest",
+        "inlet",
+        "advent",
+        "infant",
+        "infect",
+        "inject",
+        "insect"
+      ],
+      "question": {
+        "wordId": "invent",
+        "stem": "选择 \"invent\" 的正确中文意思：",
+        "correct": "v.发明,创造;捏造,虚构",
+        "options": [
+          "vt.投资,投入(精力、时间等)",
+          "n.水湾,小湾;进口,入口",
+          "v.倒置,倒转,颠倒",
+          "v.发明,创造;捏造,虚构"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ vent（来）→ 进入新东西→ 发明、创造；引申为凭空编造（捏造）。",
+        "similarWarning": "invent（发明） vs invert（翻转，in- + vert转） vs invest（投资，in- + vest穿衣/覆盖） vs event（事件，e-出 + vent来）。",
+        "extendedMeaning": "捏造、虚构（如 invent an excuse 编造借口）。",
+        "examUsage": "考研真题中常考其动词用法及名词 invention，如“invent new technologies”或“invent a story”（虚构故事）。"
+      }
+    },
+    {
+      "id": "invention",
+      "word": "invention",
+      "phonetic": "/in'venʃən/",
+      "meaning": "n.发明,创造,发明物",
+      "similar": [
+        "intention",
+        "convention",
+        "invitation",
+        "mention",
+        "invasion",
+        "attention",
+        "incentive",
+        "inflation"
+      ],
+      "question": {
+        "wordId": "invention",
+        "stem": "选择 \"invention\" 的正确中文意思：",
+        "correct": "n.发明,创造,发明物",
+        "options": [
+          "n.发明,创造,发明物",
+          "n.邀请,招待;请柬",
+          "n.意图,意向,目的",
+          "n.大会,会议;惯例,常规,习俗;公约,协定"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "invent（发明）+ -ion（名词后缀）。核心动作：in-（进入）+ ven（来）+ t（过去分词后缀）→ 来到某物中 → 创造出新事物。",
+        "similarWarning": "intention（意图，in-进入+tent-伸展+ion，侧重目的）vs invention（发明，侧重创造新物）。",
+        "extendedMeaning": "在考研真题中可引申为“虚构”或“编造”，如“a story of invention”（编造的故事）。",
+        "examUsage": "常考搭配：patent an invention（为发明申请专利）；真题例句：“The invention of the printing press revolutionized communication.”（印刷机的发明彻底改变了交流方式。）"
+      }
+    },
+    {
+      "id": "inventory",
+      "word": "inventory",
+      "phonetic": "/'invəntəri/",
+      "meaning": "n.详细目录,存货,财产清册,总量",
+      "similar": [
+        "invention"
+      ],
+      "question": {
+        "wordId": "inventory",
+        "stem": "选择 \"inventory\" 的正确中文意思：",
+        "correct": "n.详细目录,存货,财产清册,总量",
+        "options": [
+          "n.详细目录,存货,财产清册,总量",
+          "a./ad.径直的(地) v.管理,指导;(at,to)指向",
+          "n.发明,创造,发明物",
+          "vi.大量存在；(in，with)充满，富于"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根invent-（发明、找到）+ -ory（场所、集合），核心动作是“找到并列出所有东西的集合”。invent来自拉丁语invenire（找到），引申为“清点、盘存”，强调对物品的详细记录与总量统计。",
+        "similarWarning": "invention（发明）：invent-（创造）+ -ion（名词后缀），强调从无到有的创造过程。inventory侧重“已有物品的列表”，invention侧重“新事物的创造”。拼写差异：inventory结尾-ory，invention结尾-ion。",
+        "extendedMeaning": "考研僻义：n. 总量、清单式的整体描述。例：an inventory of resources（资源总量）。",
+        "examUsage": "真题考点：常与take/make搭配，如take inventory（盘货、清点库存）；与of连用表示“...的清单”。例：The company conducted a full inventory of its assets.（公司对其资产进行了全面盘点。）"
+      }
+    },
+    {
+      "id": "inverse",
+      "word": "inverse",
+      "phonetic": "/'invə:s/",
+      "meaning": "a.相反的,倒转的,反转的 n.相反之物 v.倒转",
+      "similar": [
+        "universe",
+        "verse",
+        "invert",
+        "invest",
+        "adverse",
+        "diverse",
+        "immerse",
+        "intense"
+      ],
+      "question": {
+        "wordId": "inverse",
+        "stem": "选择 \"inverse\" 的正确中文意思：",
+        "correct": "a.相反的,倒转的,反转的 n.相反之物 v.倒转",
+        "options": [
+          "n.韵文,诗;诗节,诗句",
+          "v.倒置,倒转,颠倒",
+          "n.宇宙,万物",
+          "a.相反的,倒转的,反转的 n.相反之物 v.倒转"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根in-（进入）+ vers（转）+ -e → 向里转或反向转 → 引申为相反的、倒转的。核心物理动作为‘转向对立方向’。",
+        "similarWarning": "inverse vs. invert: inverse（adj./n.相反的/倒转之物）强调状态或关系；invert（v.使倒置）强调动作。对比verse（韵文）与universe（宇宙）中的vers（转），inverse强调‘向内/反向转’。",
+        "extendedMeaning": "在考研阅读中常引申为‘逆的、反比的’（如inverse proportion反比例），或逻辑上的‘对立面’。",
+        "examUsage": "常考搭配：inverse relationship（反向关系），inverse proportion（反比例）。真题例句：There is an inverse relationship between economic growth and unemployment.（经济增长与失业率呈反比。）"
+      }
+    },
+    {
+      "id": "invert",
+      "word": "invert",
+      "phonetic": "/in'və:t/",
+      "meaning": "v.倒置,倒转,颠倒",
+      "similar": [
+        "insert",
+        "invent",
+        "invest",
+        "convert",
+        "inherit",
+        "inverse",
+        "avert",
+        "infer"
+      ],
+      "question": {
+        "wordId": "invert",
+        "stem": "选择 \"invert\" 的正确中文意思：",
+        "correct": "v.倒置,倒转,颠倒",
+        "options": [
+          "vt.投资,投入(精力、时间等)",
+          "v.发明,创造;捏造,虚构",
+          "v.插入,嵌入;登载 n.插入物",
+          "v.倒置,倒转,颠倒"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（进入/向内）+ vert（转）→ 向内转 → 将物体上下或前后位置翻转，核心动作为“转”的方向性改变。",
+        "similarWarning": "insert（in-进入 + sert放置，插入）；invent（in-进入 + vent来，发明）；invest（in-进入 + vest衣服，投资）；convert（con-共同 + vert转，转换）；inherit（in-进入 + herit继承，继承）；inverse（in-进入 + verse转，相反的）；avert（a-离开 + vert转，避免）；infer（in-进入 + fer携带，推断）。",
+        "extendedMeaning": "在考研阅读中常引申为“颠覆（观念、秩序）”或“使（逻辑）颠倒”，如 invert the traditional view（颠覆传统观点）。",
+        "examUsage": "真题考点：invert 与 convert 的区分，invert 强调位置/顺序的颠倒，convert 强调状态/性质的转变。例句：The order of the steps was inverted, leading to confusion.（步骤顺序颠倒，导致混乱。）"
+      }
+    },
+    {
+      "id": "invest",
+      "word": "invest",
+      "phonetic": "/in'vest/",
+      "meaning": "vt.投资,投入(精力、时间等)",
+      "similar": [
+        "invent",
+        "invert",
+        "inverse",
+        "nest",
+        "vest",
+        "inlet",
+        "infect",
+        "inject"
+      ],
+      "question": {
+        "wordId": "invest",
+        "stem": "选择 \"invest\" 的正确中文意思：",
+        "correct": "vt.投资,投入(精力、时间等)",
+        "options": [
+          "a.相反的,倒转的,反转的 n.相反之物 v.倒转",
+          "v.倒置,倒转,颠倒",
+          "v.发明,创造;捏造,虚构",
+          "vt.投资,投入(精力、时间等)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ vest（衣服→穿戴）→原指“给…穿衣服”，后引申为“授予（权力、职位）”，再进一步抽象为“投入（资金、精力等）”。核心动作：将资源（资金/时间）穿戴上某事物，即“投入”。",
+        "similarWarning": "invent（in-进入 + vent来→发明）；invert（in-进入 + vert转→颠倒）；inverse（与invert同源，形容词“相反的”）；nest（n.巢，v.筑巢）；vest（n.背心，v.授予）；inlet（in-进入 + let让→入口）；infect（in-进入 + fect做→感染）；inject（in-进入 + ject投→注射）。注意invest与invent仅差一个字母（s vs. t），但词义无关。",
+        "extendedMeaning": "投入（时间、精力、情感等抽象资源）：invest time/energy/effort in sth.（高频用法）。",
+        "examUsage": "考研真题中常考搭配：invest in（投资于；投入），以及被动结构be invested with（被授予/充满）。如：The city is invested with a new sense of hope.（这座城市充满新的希望。）"
+      }
+    },
+    {
+      "id": "investigate",
+      "word": "investigate",
+      "phonetic": "/in'vestigeit/",
+      "meaning": "v.调查,调查研究",
+      "similar": [
+        "institute",
+        "ventilate",
+        "investment",
+        "underestimate"
+      ],
+      "question": {
+        "wordId": "investigate",
+        "stem": "选择 \"investigate\" 的正确中文意思：",
+        "correct": "v.调查,调查研究",
+        "options": [
+          "v.调查,调查研究",
+          "n.投资,投资额",
+          "n.学会,研究所;学院 v.设立,设置,制定",
+          "vt.使通风;给…装通风设备"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ vestige（痕迹，踪迹）+ -ate（动词后缀）→ 追踪进入痕迹 → 调查，研究。核心动作：沿着线索深入追踪。",
+        "similarWarning": "institute（v.建立，n.学会）：in-（在...上）+ stitute（建立）→ 建立在...上；investigate（调查）：vestige（痕迹）→ 追踪痕迹。核心区别：vestige vs stitute。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "investment",
+      "word": "investment",
+      "phonetic": "/in'vestmənt/",
+      "meaning": "n.投资,投资额",
+      "similar": [
+        "investigate",
+        "inherent",
+        "movement",
+        "pavement",
+        "invention",
+        "instrument"
+      ],
+      "question": {
+        "wordId": "investment",
+        "stem": "选择 \"investment\" 的正确中文意思：",
+        "correct": "n.投资,投资额",
+        "options": [
+          "n.投资,投资额",
+          "a.固有的,内在的,天生的",
+          "v.调查,调查研究",
+          "n.运动,活动;移动,迁移"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根vest-源自拉丁语vestis（衣物），引申为“赋予、覆盖”，in-（进入）+vest（赋予）+ment（名词后缀） → 投入资金或资源的行为，即投资。核心动作：将资本“赋予”某项目以期望回报。",
+        "similarWarning": "investigate（in-+vestig-追踪+-ate）→ 调查；inherent（in-+her-粘着+-ent）→ 固有的；movement（move+ -ment）→ 运动；pavement（pave+ -ment）→ 人行道；invention（in-+vent-来+-ion）→ 发明；government（govern+ -ment）→ 政府；instrument（in-+stru-建造+-ment）→ 工具。注意investment中的vest-与investigate中的vestig-拼写差异。",
+        "extendedMeaning": "考研常考“投资额”或“投资行为”，无特殊僻义；但在经济类阅读中可能引申为“投入（时间、精力等）”。",
+        "examUsage": "常见搭配：make an investment in（对…投资）；return on investment（投资回报率）。真题例句：The company made a huge investment in renewable energy.（该公司在可再生能源上进行了巨额投资。）"
+      }
+    },
+    {
+      "id": "invisible",
+      "word": "invisible",
+      "phonetic": "/in'vizəbl/",
+      "meaning": "a.看不见的,无形的",
+      "similar": [
+        "visible",
+        "inevitable",
+        "advisable",
+        "incredible",
+        "invaluable",
+        "invariably"
+      ],
+      "question": {
+        "wordId": "invisible",
+        "stem": "选择 \"invisible\" 的正确中文意思：",
+        "correct": "a.看不见的,无形的",
+        "options": [
+          "a.看不见的,无形的",
+          "a.看得见的, 明显的, 显著的",
+          "a.可取的，适当的，明智的",
+          "a.不可避免的,必然发生的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "in-（否定前缀，不）+ vis（词根，看）+ -ible（形容词后缀，能…的）→ 不能看到的 → 看不见的，无形的。核心动作：视觉上的无法捕捉。",
+        "similarWarning": "invisible vs. inevitable（in-+evit-避免+able，不可避免的）vs. invaluable（in-+valu-价值，无价的，极珍贵的）。注意：invisible否定“看”，inevitable否定“避免”，invaluable否定“价值（可估量）”，含义完全不同。",
+        "extendedMeaning": "在考研阅读中常引申为“无形的，不被察觉的”，如invisible hand（看不见的手，经济学概念）、invisible barriers（无形的障碍）。",
+        "examUsage": "真题考点：常与visible（可见的）形成对比，如“invisible exports”（无形出口，指服务、技术等非实物贸易）。无特殊干扰项时省略。"
+      }
+    },
+    {
+      "id": "invitation",
+      "word": "invitation",
+      "phonetic": "/ˌɪnvɪ'teɪʃn/",
+      "meaning": "n.邀请,招待;请柬",
+      "similar": [
+        "imitation",
+        "indication",
+        "indignation",
+        "inspiration",
+        "institution",
+        "aviation",
+        "invasion",
+        "inflation"
+      ],
+      "question": {
+        "wordId": "invitation",
+        "stem": "选择 \"invitation\" 的正确中文意思：",
+        "correct": "n.邀请,招待;请柬",
+        "options": [
+          "n.愤怒,愤慨",
+          "n.指出,指示;表明,暗示",
+          "n.模仿,仿效;仿制;仿造品",
+          "n.邀请,招待;请柬"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语invitatio，由in-（进入） + vitare（渴望，原指“热情追求”）构成，核心动作是“使对方产生来的意愿”。词根vit-与“生命”（vita）相关，暗示邀请是“让某人充满活力地参与”。",
+        "similarWarning": "形近词对比：imitation（模仿，来自imitate）、indication（指示，来自indicate）、indignation（愤怒，来自indign-）、inspiration（灵感，来自inspire）、institution（机构，来自institute）、aviation（航空，来自avia-）、invasion（入侵，来自invade）、inflation（通货膨胀，来自inflate）。注意invitation与invasion仅差一个字母t（邀请）vs（入侵），词义完全相反。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "invite",
+      "word": "invite",
+      "phonetic": "/in'vait/",
+      "meaning": "vt.邀请,招待",
+      "similar": [
+        "unite",
+        "finite",
+        "ignite",
+        "inside",
+        "invade",
+        "indicate",
+        "infinite",
+        "initiate"
+      ],
+      "question": {
+        "wordId": "invite",
+        "stem": "选择 \"invite\" 的正确中文意思：",
+        "correct": "vt.邀请,招待",
+        "options": [
+          "a.有限的；[数]有穷的,限定的",
+          "v.点火,引燃",
+          "vt.邀请,招待",
+          "vi.联合,团结;统一,合并vt.使联合"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "in-（进入）+ -vit-（追求，渴望）+ -e（动词后缀）→ 使对方产生“渴望进入”的意愿 → 邀请。本义是“吸引、招致”，核心动作是“引导对方前来”。",
+        "similarWarning": "unite（统一，联合）：un-（一个）+ -ite；finite（有限的）：fin-（界限）+ -ite；ignite（点燃）：ign-（火）+ -ite；invade（入侵）：in-（进入）+ vad-（走）；indicate（表明）：in-（进入）+ dic-（说）；infinite（无限的）：in-（不）+ finite；initiate（开始）：in-（进入）+ it-（走）+ -iate。",
+        "extendedMeaning": "vt.招致，引起（负面结果）：如\"invite trouble\"（招致麻烦）\"invite criticism\"（招致批评），在考研阅读中常引申为“无意中导致”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "involve",
+      "word": "involve",
+      "phonetic": "/in'vɔlv/",
+      "meaning": "v.卷入,陷入,连累;包含,含有,涉及",
+      "similar": [
+        "evolve",
+        "revolve",
+        "dissolve"
+      ],
+      "question": {
+        "wordId": "involve",
+        "stem": "选择 \"involve\" 的正确中文意思：",
+        "correct": "v.卷入,陷入,连累;包含,含有,涉及",
+        "options": [
+          "v.(使)旋转;考虑;【天】公转,循环",
+          "v.(使)溶解,(使)融化;解散,取消",
+          "v.(使)发展;(使)进化;(使)进展",
+          "v.卷入,陷入,连累;包含,含有,涉及"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "in- (进入) + volve (卷,转)。核心物理动作：卷进去。引申为卷入某事、包含其中。",
+        "similarWarning": "evolve (e-向外+volve=向外卷=进化), revolve (re-回+volve=旋转), dissolve (dis-分开+solve=溶解)。区别：involve强调卷入内部；evolve强调向外发展；revolve强调循环转动；dissolve强调分解消失。",
+        "extendedMeaning": "在考研阅读中，常引申为‘牵涉、涉及（某事物作为必要部分）’，如involve risk/cost；也常表‘参与（活动）’（be involved in）。",
+        "examUsage": "高频考点：be involved in (参与/卷入)；involve doing sth. (需要/包含做某事)。真题例句：The project involves extensive research. (该项目涉及广泛研究。)"
+      }
+    },
+    {
+      "id": "inward",
+      "word": "inward",
+      "phonetic": "/'inwəd/",
+      "meaning": "ad.向内,在内 a.向内的,在内的,里面的",
+      "similar": [
+        "ward",
+        "award",
+        "coward",
+        "inland",
+        "reward",
+        "toward",
+        "upward",
+        "downward"
+      ],
+      "question": {
+        "wordId": "inward",
+        "stem": "选择 \"inward\" 的正确中文意思：",
+        "correct": "ad.向内,在内 a.向内的,在内的,里面的",
+        "options": [
+          "n.病房;行政区;监护;被监护人 vt.挡住",
+          "n.懦夫,胆怯者",
+          "ad.向内,在内 a.向内的,在内的,里面的",
+          "vt.授予,给予；判定 n.奖,奖金；仲裁"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "in-（向内）+ -ward（朝向），字面意为“朝内方向”，核心动作是“从外部指向或进入内部”。",
+        "similarWarning": "inward vs. inward vs. inland: inward强调“方向向内”，如向内移动；inland指“内陆的、内地的”，如内陆地区。",
+        "extendedMeaning": "在考研阅读中可引申为“内心的、精神的”，如inward joy（内心的喜悦），与outward（外表的）形成对比。",
+        "examUsage": "常见于副词用法，如turn inward（转向内部），或短语inward-looking（内向的、只关注内部的）。"
+      }
+    }
+  ]
+}

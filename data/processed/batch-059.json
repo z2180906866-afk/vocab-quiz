@@ -1,0 +1,1733 @@
+{
+  "batchId": 59,
+  "words": [
+    {
+      "id": "plead",
+      "word": "plead",
+      "phonetic": "/pli:d/",
+      "meaning": "v.恳求,请求;为…辩护;提出…为理由",
+      "similar": [
+        "plea",
+        "please",
+        "spread",
+        "lad",
+        "pad",
+        "pea",
+        "leak",
+        "lean"
+      ],
+      "question": {
+        "wordId": "plead",
+        "stem": "选择 \"plead\" 的正确中文意思：",
+        "correct": "v.恳求,请求;为…辩护;提出…为理由",
+        "options": [
+          "v.恳求,请求;为…辩护;提出…为理由",
+          "n.(法律)抗辩；请求，恳求，托词，口实",
+          "v.请;使愉快,使满意;喜欢,愿意",
+          "v./n.伸开,伸展;散布,传播"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根源于拉丁语placere（取悦，使满意），后经古法语plaidier（辩护，恳求）演变。核心动作是“通过言辞取悦或安抚对方以达成目的”，分为两个方向：1.恳求（通过哀求让对方高兴/同意）；2.辩护（在法庭上用言辞为一方争取有利结果）。",
+        "similarWarning": "plea（n.恳求，抗辩）：plead是动词，plea是名词。please（v.取悦，请）：plead强调“请求/辩护”的正式动作，please侧重“使愉快”或礼貌用语。",
+        "extendedMeaning": "考研中常考“提出…为理由/借口”的僻义，如plead ignorance（以不知情为借口），plead poverty（以贫困为托词），非字面“恳求”。",
+        "examUsage": "真题考点：plead guilty（认罪）与plead not guilty（不认罪）为法律语境固定搭配；plead for（为…辩护/恳求）后接名词或从句。"
+      }
+    },
+    {
+      "id": "pleasant",
+      "word": "pleasant",
+      "phonetic": "/'plezənt/",
+      "meaning": "a.令人愉快的 vt.使高兴 vi.满意；喜欢",
+      "similar": [
+        "peasant",
+        "please",
+        "elegant",
+        "elephant",
+        "pregnant"
+      ],
+      "question": {
+        "wordId": "pleasant",
+        "stem": "选择 \"pleasant\" 的正确中文意思：",
+        "correct": "a.令人愉快的 vt.使高兴 vi.满意；喜欢",
+        "options": [
+          "a.优雅的;端庄的;雅致的",
+          "v.请;使愉快,使满意;喜欢,愿意",
+          "n.(不用于英国或美国)小农;佃农;农民",
+          "a.令人愉快的 vt.使高兴 vi.满意；喜欢"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语placere（使满意），-ant为形容词后缀。核心动作：使某人感到满意或愉悦。",
+        "similarWarning": "peasant（农民）：区别在l与a，pleasant强调愉悦，peasant指社会阶层。please（请/使高兴）：pleasant是形容词，please是动词。elegant（优雅的）：词根不同，elegant侧重精致。present（礼物/呈现）：拼写差异在sant与sent。elephant（大象）：完全无关。pleasure（快乐）：名词形式。pregnant（怀孕的）：词根不同。",
+        "extendedMeaning": "在考研语境中，pleasant可引申为“友好的、和善的”，如a pleasant smile（友善的微笑），或“宜人的”天气/环境。",
+        "examUsage": "考研真题中常与agreeable互换，如真题例句：The weather was pleasant for a walk.（天气宜人，适合散步。）注意与pleased（感到高兴的）区分：pleasant修饰物，pleased修饰人。"
+      }
+    },
+    {
+      "id": "please",
+      "word": "please",
+      "phonetic": "/pli:z/",
+      "meaning": "v.请;使愉快,使满意;喜欢,愿意",
+      "similar": [
+        "lease",
+        "release",
+        "ease",
+        "plea",
+        "cease",
+        "phase",
+        "plane",
+        "plead"
+      ],
+      "question": {
+        "wordId": "please",
+        "stem": "选择 \"please\" 的正确中文意思：",
+        "correct": "v.请;使愉快,使满意;喜欢,愿意",
+        "options": [
+          "v.请;使愉快,使满意;喜欢,愿意",
+          "vt.出租,租用 n.租借,租期,租赁物",
+          "v.释放,解放;发表,发行 n.释放,豁免,放松",
+          "v.减轻;使舒适,使安心 n.容易;舒适,悠闲"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语placere（使高兴），词根plac-（使平静、取悦）。核心动作：通过满足意愿使对方平静或愉悦。",
+        "similarWarning": "lease（租赁）与please差字母l；pleasure（快乐）比please多后缀-ure；release（释放）前缀re-（回）+lease（放松）；ease（安逸）少首字母pl；plea（恳求）少字母se；cease（停止）首字母c替换p；least（最少）字母a替换e；leave（离开）字母v替换se。",
+        "extendedMeaning": "（考研僻义）作为礼貌用语“请”时，可表强烈请求或劝诱，如“Please, do come in.”（请务必进来）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pledge",
+      "word": "pledge",
+      "phonetic": "/pledʒ/",
+      "meaning": "n.誓约;保证 v.发誓;保证",
+      "similar": [
+        "edge",
+        "hedge",
+        "lodge",
+        "wedge",
+        "please",
+        "plunge"
+      ],
+      "question": {
+        "wordId": "pledge",
+        "stem": "选择 \"pledge\" 的正确中文意思：",
+        "correct": "n.誓约;保证 v.发誓;保证",
+        "options": [
+          "v.临时住宿,寄宿,寄存,容纳n.传达室,小旅馆",
+          "n.篱笆,树篱,障碍物 v.用树篱围住",
+          "n.边,棱;刀口,刃 v.侧身移动,挤进",
+          "n.誓约;保证 v.发誓;保证"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源来自古法语'plege'（人质、担保），核心动作是'以人或物为抵押来确保承诺'。pledge本义为'抵押品'，引申为'誓约、保证'，强调用自身信誉或实物作为担保的承诺行为。",
+        "similarWarning": "edge（边缘）vs pledge：edge无'p'和'l'，核心是'边界'；hedge（树篱、对冲）vs pledge：hedge以'h'开头，有'保护或规避'义；lodge（小屋、寄存）vs pledge：lodge含'lod'，强调'临时居住或存放'；wedge（楔子、挤入）vs pledge：wedge以'w'开头，核心是'插入'；please（请、使满意）vs pledge：please无'g'，核心是'取悦'；plunge（投入、骤降）vs pledge：plunge含'ung'，动作是'猛冲或下降'。",
+        "extendedMeaning": "考研真题中可作动词表示'抵押'，如'pledge assets as collateral'（抵押资产作担保）；亦作名词表'抵押品'。",
+        "examUsage": "高频搭配：make a pledge（做出承诺）、fulfill a pledge（履行誓言）、pledge to do sth（保证做某事）。真题例句：'The government pledged to reduce carbon emissions by 2030.'（政府承诺到2030年减少碳排放。）注意干扰项常将pledge与promise混用，但pledge更正式且含担保义。"
+      }
+    },
+    {
+      "id": "plentiful",
+      "word": "plentiful",
+      "phonetic": "/'plentɪfl/",
+      "meaning": "a.富裕的,丰富的",
+      "similar": [],
+      "question": {
+        "wordId": "plentiful",
+        "stem": "选择 \"plentiful\" 的正确中文意思：",
+        "correct": "a.富裕的,丰富的",
+        "options": [
+          "n.时态 v.拉紧，(使)紧张 a.绷紧的，紧张的",
+          "a.荒谬的,可笑的",
+          "n.展览会;陈列,展览",
+          "a.富裕的,丰富的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "plenty（大量）+ -ful（充满…的）→ 充满大量的 → 富裕的、丰富的。核心动作：数量上的充裕状态。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "plenty",
+      "word": "plenty",
+      "phonetic": "/'plenti/",
+      "meaning": "n.丰富,大量",
+      "similar": [
+        "penny",
+        "petty",
+        "twenty"
+      ],
+      "question": {
+        "wordId": "plenty",
+        "stem": "选择 \"plenty\" 的正确中文意思：",
+        "correct": "n.丰富,大量",
+        "options": [
+          "a.小(器、规模)的,不重要的,细微的,卑鄙的",
+          "n.便士,美分",
+          "n.丰富,大量",
+          "num.二十 pron./a.二十(个，只...)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语plenitas（丰盈），词根plen-（充满）→ 状态名词，指数量上的充足、丰富。核心物理动作是‘容器被填满到溢出前一刻’。",
+        "similarWarning": "形近词对比：plenty vs penny（便士，p-开头变为p-，但词义差大）；plenty vs petty（微小的，t字母前移，词义相反）；plenty vs plant（植物，-t变为-nt，词根不同）。",
+        "extendedMeaning": "考研僻义：在真题中常作副词，意为‘足够、相当’，如‘plenty of time’（大量时间）但更考‘plenty more’（还有很多）。此外，在经济学人外刊中，plenty可作形容词表‘充足的’，如‘plenty food’。",
+        "examUsage": "考研考点：常与‘abundant, sufficient’同义替换，但干扰项中常设‘plenty of + 可数/不可数名词’结构，注意plenty of后接复数名词或不可数名词，如‘plenty of books’或‘plenty of water’。真题例句：‘There will be plenty of opportunities for you to learn.’"
+      }
+    },
+    {
+      "id": "plight",
+      "word": "plight",
+      "phonetic": "/plait/",
+      "meaning": "n.情况,状态,困境,盟誓(婚姻) v.保证,约定",
+      "similar": [
+        "flight",
+        "slight",
+        "delight",
+        "upright",
+        "eight",
+        "tight",
+        "fright",
+        "height"
+      ],
+      "question": {
+        "wordId": "plight",
+        "stem": "选择 \"plight\" 的正确中文意思：",
+        "correct": "n.情况,状态,困境,盟誓(婚姻) v.保证,约定",
+        "options": [
+          "a.轻微的,微小的;纤细的,瘦弱的",
+          "n.情况,状态,困境,盟誓(婚姻) v.保证,约定",
+          "n.飞翔,飞行;航班;航程;逃跑;楼梯的一段",
+          "n.快乐,高兴 v.(使)高兴,(使)欣喜"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根plight源自中古英语，核心由ply（折叠、纠缠）和-t（名词后缀）构成，本义为“纠缠在一起的状态”，引申为“困境、盟誓”。plight的物理动作是“卷入复杂关系或危险中”，如婚姻盟誓（plight one's troth）即是一种束缚性约定。",
+        "similarWarning": "形近词辨析：light（光，轻的）vs plight（困境）；flight（飞行，逃跑）vs plight；slight（轻微的，轻视）vs plight；delight（高兴）vs plight；upright（垂直的，正直的）vs plight；eight（八）vs plight；fight（战斗）vs plight。核心区别：plight以pl-开头，强调“纠缠、卷入”，而light/flight等以-l-或-fl-开头，无此含义。",
+        "extendedMeaning": "考研僻义：n. 盟誓（尤指婚姻承诺），如plight one's troth（订婚）。在真题中，plight常以抽象名词“困境”出现，如economic plight（经济困境），但“盟誓”义项在翻译或完形中偶有考查。",
+        "examUsage": "真题考点：固定搭配plight one's troth（订婚，立誓）为低频考点；核心用法为in a sorry plight（处于悲惨境地），如真题例句：The country's economy is in a sorry plight.（该国经济陷入悲惨困境。）注意plight作动词时后接to do，如He plighted his word to help.（他承诺帮助。）"
+      }
+    },
+    {
+      "id": "plot",
+      "word": "plot",
+      "phonetic": "/plɔt/",
+      "meaning": "n.秘密计划;情节 v.标绘,绘制;密谋,策划",
+      "similar": [
+        "pilot",
+        "lot",
+        "pot",
+        "slot",
+        "cloth",
+        "float",
+        "photo",
+        "split"
+      ],
+      "question": {
+        "wordId": "plot",
+        "stem": "选择 \"plot\" 的正确中文意思：",
+        "correct": "n.秘密计划;情节 v.标绘,绘制;密谋,策划",
+        "options": [
+          "n.罐,壶",
+          "n.飞行员;领港员 v.驾驶(飞机等);领航,引水",
+          "n.许多，大量；签，抽签；命运；场地",
+          "n.秘密计划;情节 v.标绘,绘制;密谋,策划"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "plot 源自古英语 plot（一小块地），核心物理动作是“在地图上标记出一小块区域”，引申为“标绘、绘制”具体位置或路线；再由“在纸上标出点线”抽象为“勾勒出故事的发展线索”即“情节”；进一步引申为“暗中标记出计划步骤”即“密谋、秘密计划”。",
+        "similarWarning": "pilot（飞行员/试点）：plot 强调“标绘”或“密谋”；pilot 强调“驾驶”或“试验性的”。lot（许多/签）：lot 指“抽签”或“大量”；plot 指“地块”或“情节”。slot（狭槽/时间空位）：plot 无“槽位”义；slot 强调“插入位置”。cloth（布料）：plot 与布料无关。float（漂浮）：plot 无漂浮义。photo（照片）：plot 为动词“标绘”，photo 为名词“照片”。plant（植物/工厂）：plant 强调“种植”或“工厂”；plot 强调“地块”或“计划”。",
+        "extendedMeaning": "plot 在考研真题中常考“情节（n.）”及“密谋（v./n.）”，如“the plot of the novel”（小说情节）和“plot to overthrow the government”（密谋推翻政府）。",
+        "examUsage": "常考搭配：plot against sb.（密谋反对某人）；plot sth. out（策划出/标绘出）。真题例句：The criminals were plotting to rob the bank.（罪犯正在密谋抢劫银行。）注意 plot 作动词时后常接不定式 to do 或 against。"
+      }
+    },
+    {
+      "id": "plough",
+      "word": "plough",
+      "phonetic": "/plau/",
+      "meaning": "n.(plow)犁,耕地,犁过的地 v.犁,费力地前进",
+      "similar": [
+        "plug",
+        "cough",
+        "laugh",
+        "rough",
+        "tough",
+        "though"
+      ],
+      "question": {
+        "wordId": "plough",
+        "stem": "选择 \"plough\" 的正确中文意思：",
+        "correct": "n.(plow)犁,耕地,犁过的地 v.犁,费力地前进",
+        "options": [
+          "v.笑;(on)讥笑 n.笑,笑声",
+          "v./n.咳嗽",
+          "n.塞子,插头 v.堵,塞,插上,插栓",
+          "n.(plow)犁,耕地,犁过的地 v.犁,费力地前进"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "plough源自古英语plōg，指一种用于翻土的农具，核心动作是“犁开、破土”。其引申义“费力地前进”源于犁地时需要克服阻力、缓慢推进的物理过程，比喻在困难中艰难前行。",
+        "similarWarning": "形近词辨析：plug（塞子，与plough相差字母‘gh’→‘g’），cough（咳嗽，首字母c替换p），laugh（笑，首字母l替换p），rough（粗糙的，首字母r替换p），tough（坚韧的，首字母t替换p），enough（足够的，首字母e替换p），though（尽管，首字母th替换p），although（虽然，首字母al替换p）。注意plough中‘gh’不发音，而其他词中‘gh’发音或为/f/或无声。",
+        "extendedMeaning": "考研僻义：plough可用作动词，意为“投入（大量金钱/资源）”，常见于短语plough into（把资金大量投入）或plough back（将利润再投资），如：The company ploughed millions into R&D.（公司将数百万投入研发。）",
+        "examUsage": "真题考点：固定搭配plough through（费力地阅读/完成），如：I had to plough through a pile of documents.（我不得不费力地读完一堆文件。）此短语常作为阅读理解���描述艰难过程的题眼，干扰项可能替换为get through（顺利通过）或look through（浏览），需注意区别。"
+      }
+    },
+    {
+      "id": "plug",
+      "word": "plug",
+      "phonetic": "/plʌg/",
+      "meaning": "n.塞子,插头 v.堵,塞,插上,插栓",
+      "similar": [
+        "plus",
+        "plough",
+        "plunge"
+      ],
+      "question": {
+        "wordId": "plug",
+        "stem": "选择 \"plug\" 的正确中文意思：",
+        "correct": "n.塞子,插头 v.堵,塞,插上,插栓",
+        "options": [
+          "n.塞子,插头 v.堵,塞,插上,插栓",
+          "prep.加上 a.正的,加的 n.加号,正号",
+          "n.(plow)犁,耕地,犁过的地 v.犁,费力地前进",
+          "v.(into)(使)投入,(使)插进,陷入;猛冲"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词根，模仿塞入或堵住孔洞时发出的短促爆破音，核心物理动作为“用物体填充或封闭开口”。",
+        "similarWarning": "plus（加，增加） vs plug（塞子，堵住）：plus 强调添加，plug 强调填充封闭。plough（犁，耕） vs plug：plough 是农耕动作，plug 是堵塞动作。plunge（投入，跳入） vs plug：plunge 强调纵身进入液体或困境，plug 强调静止堵塞。",
+        "extendedMeaning": "（考研外刊）plug 作动词可引申为“大力宣传、推广”，如 plug a product（推销产品）；名词可指“（电器的）插头”或“（引擎的）火花塞”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "plumber",
+      "word": "plumber",
+      "phonetic": "/'plʌmə/",
+      "meaning": "n.(装修水管的)管子工",
+      "similar": [
+        "lumber",
+        "cucumber"
+      ],
+      "question": {
+        "wordId": "plumber",
+        "stem": "选择 \"plumber\" 的正确中文意思：",
+        "correct": "n.(装修水管的)管子工",
+        "options": [
+          "n.黄瓜",
+          "n.木材,木料",
+          "a.拉丁的,拉丁文的 n.拉丁语",
+          "n.(装修水管的)管子工"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根plumb（铅）+er（人）。古罗马时期水管用铅（plumbum）制造，plumber原指铅工，后专指安装和修理铅制水管的人，引申为管子工。核心动作：处理铅制管道。",
+        "similarWarning": "lumber（木材；笨重地移动）、number（数字；编号）、cucumber（黄瓜）。注意plumber中的b不发音，与lumber、number、cumber（阻碍）区分，后者b发音。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "plunge",
+      "word": "plunge",
+      "phonetic": "/plʌndʒ/",
+      "meaning": "v.(into)(使)投入,(使)插进,陷入;猛冲",
+      "similar": [
+        "lung",
+        "plug",
+        "plane",
+        "lounge",
+        "pledge"
+      ],
+      "question": {
+        "wordId": "plunge",
+        "stem": "选择 \"plunge\" 的正确中文意思：",
+        "correct": "v.(into)(使)投入,(使)插进,陷入;猛冲",
+        "options": [
+          "n.塞子,插头 v.堵,塞,插上,插栓",
+          "n.肺",
+          "v.(into)(使)投入,(使)插进,陷入;猛冲",
+          "n.飞机;平面,水平面"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'plumbum'（铅），原指将铅锤投入水中测深，核心物理动作为“垂直向下、猛烈地投入”，引申为突然进入某种状态或位置。",
+        "similarWarning": "plunge vs. plug（塞子/插头）：plunge 强调“投入”动作，plug 是“塞住”或“堵塞”；plunge vs. lounge（休息室/闲逛）：plunge 有“猛冲”感，lounge 是“懒散地躺”或“休息”。",
+        "extendedMeaning": "1. 暴跌（尤指价格、价值或经济指标突然大幅下降）；2. 冒险决定（如 'take the plunge' 指下定决心做某事）。",
+        "examUsage": "真题常考搭配：'plunge into'（陷入/投入），'plunge by...%'（暴跌...%），如 'stock prices plunged' 作为经济类阅读核心题眼。"
+      }
+    },
+    {
+      "id": "plural",
+      "word": "plural",
+      "phonetic": "/'pluərəl/",
+      "meaning": "a.复数的 n.复数",
+      "similar": [
+        "aural",
+        "rural"
+      ],
+      "question": {
+        "wordId": "plural",
+        "stem": "选择 \"plural\" 的正确中文意思：",
+        "correct": "a.复数的 n.复数",
+        "options": [
+          "a.复数的 n.复数",
+          "vt.防止，避免；逃避，避开",
+          "a.听觉的，听力的",
+          "a.乡下的,田园的,乡村风味的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“plus”（更多）的复数形式“plures”，核心动作是“数量增多”，指代多个个体。",
+        "similarWarning": "aural（听觉的） vs. rural（乡村的） vs. plural（复数的）：注意首字母差异，a-耳，r-乡村，pl-多；均含“-ural”但前缀不同。",
+        "extendedMeaning": "在语法外，可指“多元的、多样的”，如“plural society”（多元社会）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "plus",
+      "word": "plus",
+      "phonetic": "/plʌs/",
+      "meaning": "prep.加上 a.正的,加的 n.加号,正号",
+      "similar": [
+        "plug",
+        "blush",
+        "flush",
+        "pause"
+      ],
+      "question": {
+        "wordId": "plus",
+        "stem": "选择 \"plus\" 的正确中文意思：",
+        "correct": "prep.加上 a.正的,加的 n.加号,正号",
+        "options": [
+          "prep.加上 a.正的,加的 n.加号,正号",
+          "n.塞子,插头 v.堵,塞,插上,插栓",
+          "n.脸红v.发红;奔流a.洋溢的;富裕的;齐平的",
+          "v./n.脸红"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语plus（更多），与ple-（填充）同源，核心物理动作为“增加、叠加”，引申为数学上的加法符号或正号。",
+        "similarWarning": "plug（塞子，插入）：字母s变g，词义由“增加”转为“堵塞”；blush（脸红）：字母l后加b，词义转向“羞愧”；flush（冲洗，脸红）：字母l后加f，词义转向“冲刷”；pause（暂停）：字母l后加a，词义转向“停止”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pneumonia",
+      "word": "pneumonia",
+      "phonetic": "/nju:'məunjə/",
+      "meaning": "n.肺炎",
+      "similar": [],
+      "question": {
+        "wordId": "pneumonia",
+        "stem": "选择 \"pneumonia\" 的正确中文意思：",
+        "correct": "n.肺炎",
+        "options": [
+          "n.肺炎",
+          "a.灭绝的;熄灭了的",
+          "n.海角，岬；披肩，短披风",
+          "v.发明,创造;捏造,虚构"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'pneumon'（肺）+ '-ia'（疾病后缀），字面即'肺部疾病'，直指肺炎。核心动作：肺脏发炎。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "poet",
+      "word": "poet",
+      "phonetic": "/'pəuit/",
+      "meaning": "n.诗人",
+      "similar": [
+        "pet",
+        "pot",
+        "port",
+        "post",
+        "poetry",
+        "upset"
+      ],
+      "question": {
+        "wordId": "poet",
+        "stem": "选择 \"poet\" 的正确中文意思：",
+        "correct": "n.诗人",
+        "options": [
+          "n.罐,壶",
+          "n.爱畜,宠儿 a.宠爱的,表示亲昵的",
+          "n.港口",
+          "n.诗人"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语 'poietes'（创造者），由 'poiein'（制作、创造）派生。诗人即‘创造者’，核心动作是‘创造’文字与意境。",
+        "similarWarning": "poet vs. poem: poet 是人（诗人），poem 是作品（诗）。poet vs. pot: poet 有字母 e（人/创造），pot 是罐子。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "poetry",
+      "word": "poetry",
+      "phonetic": "/'pəuitri/",
+      "meaning": "n.诗歌,诗集",
+      "similar": [
+        "portray",
+        "poultry",
+        "poet",
+        "petty",
+        "geometry",
+        "monetary"
+      ],
+      "question": {
+        "wordId": "poetry",
+        "stem": "选择 \"poetry\" 的正确中文意思：",
+        "correct": "n.诗歌,诗集",
+        "options": [
+          "n.诗歌,诗集",
+          "v.描写，描述；画(人物、景象等)",
+          "n.家禽",
+          "n.诗人"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语poiesis（创造、制作），poet（诗人）+ -ry（集合名词后缀），原义为‘诗人创作的作品集合’，核心动作是‘创造性制作’（将语言按韵律与意象组合成艺术形式）。",
+        "similarWarning": "portray（描绘，port-携带+ -tray拉）vs poetry（诗，poet-诗人+ -ry集合）：portray强调用图像或文字‘再现’，poetry特指文学体裁。poultry（家禽，poult幼禽+ -ry集合）vs poetry：仅拼写相似，poultry指禽类，poetry指诗歌。",
+        "extendedMeaning": "在考研阅读中可引申为‘诗意、美感’（如the poetry of motion‘动作的美感’），或比喻‘富有想象力的表达’（如poetry in prose‘散文中的诗意’）。",
+        "examUsage": "常与prose（散文）对比出现，考点为区分poetry（诗歌）与poem（一首诗）的集合/个体关系；固定搭配‘poetry reading’（诗歌朗诵会）偶见于完形填空。"
+      }
+    },
+    {
+      "id": "poison",
+      "word": "poison",
+      "phonetic": "/'pɔɪzn/",
+      "meaning": "n.毒物,毒药 v.放毒,毒害,污染",
+      "similar": [
+        "prison",
+        "piston",
+        "prisoner"
+      ],
+      "question": {
+        "wordId": "poison",
+        "stem": "选择 \"poison\" 的正确中文意思：",
+        "correct": "n.毒物,毒药 v.放毒,毒害,污染",
+        "options": [
+          "n.活塞",
+          "n.监狱",
+          "n.囚犯",
+          "n.毒物,毒药 v.放毒,毒害,污染"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 potio (饮品), 后指有毒饮品; 核心物理动作是“注入致死物质”, 引申为“污染、毒害”。",
+        "similarWarning": "prison (监狱): p vs po, prison 关人; poison 毒物。person (人): p vs po, son vs son; person 是人, poison 是毒。piston (活塞): p vs po, ton vs son; 机械部件 vs 毒物。position (位置): p vs po, sition vs son; 方位 vs 毒。prisoner (囚犯): 在 prison 里 vs 被 poison 害。",
+        "extendedMeaning": "v. 毒害(思想、关系等); 污染(环境、氛围)。例: poison the atmosphere 破坏气氛。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "poisonous",
+      "word": "poisonous",
+      "phonetic": "/'pɔizənəs/",
+      "meaning": "a.有毒的,恶意的,恶毒的,道德败坏的",
+      "similar": [
+        "monotonous"
+      ],
+      "question": {
+        "wordId": "poisonous",
+        "stem": "选择 \"poisonous\" 的正确中文意思：",
+        "correct": "a.有毒的,恶意的,恶毒的,道德败坏的",
+        "options": [
+          "a.有毒的,恶意的,恶毒的,道德败坏的",
+          "a.单调的,无变化的",
+          "n.霜,霜冻,严寒",
+          "n.客舱,机舱;小(木)屋"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "poison（毒药）+ -ous（形容词后缀，充满...的）→ 充满毒药的→有毒的；引申为恶意的、恶毒的。核心动作：毒物附着或渗透，导致伤害或变质。",
+        "similarWarning": "形近词：monotonous（单调的）。差异：poisonous 以 poison（毒药）为核心，-ous 表属性；monotonous 由 mono（单一）+ tone（音调）+ -ous 构成，指单一音调导致的乏味。记忆点：有毒 vs 单调，毫无关联。",
+        "extendedMeaning": "考研僻义：1. 恶毒的（指言语或行为充满敌意）。2. 道德败坏的（指思想或影响腐蚀人心）。",
+        "examUsage": "真题考点：1. 搭配 \"poisonous ideas\"（毒害思想），常见于议论文批判不良思潮。2. 干扰项：常与 \"toxic\"（有毒的，尤指化学物质）混淆，但 poisonous 更侧重主观恶意或道德层面。"
+      }
+    },
+    {
+      "id": "poke",
+      "word": "poke",
+      "phonetic": "/pəuk/",
+      "meaning": "n.刺,戳,懒汉,袋子 v.戳,刺,伸出,刺探,闲荡",
+      "similar": [
+        "coke",
+        "pole",
+        "pope",
+        "pose",
+        "choke",
+        "evoke",
+        "probe",
+        "prone"
+      ],
+      "question": {
+        "wordId": "poke",
+        "stem": "选择 \"poke\" 的正确中文意思：",
+        "correct": "n.刺,戳,懒汉,袋子 v.戳,刺,伸出,刺探,闲荡",
+        "options": [
+          "n.罗马教皇,主教,大腿上要害部位",
+          "n.柱,杆;地极,磁极,电极",
+          "n.焦炭；可口可乐（COCA-COLA）的缩写",
+          "n.刺,戳,懒汉,袋子 v.戳,刺,伸出,刺探,闲荡"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能与中古荷兰语‘poken’（刺、推）有关。核心物理动作是‘用尖物刺或推’，引申为‘伸出’（如头）或‘闲荡’（缓慢行动，如被刺后迟缓）。",
+        "similarWarning": "coke（焦炭/可乐）、joke（玩笑）、pole（杆/极）、pope（教皇）、pose（姿势/造成）、pocket（口袋）、choke（窒息）、evoke（唤起）。差异：poke vs. coke（p→c，刺→碳）；vs. joke（p→j，刺→笑）；vs. pole（e→l，刺→杆）；vs. pope（k→p，刺→教皇）；vs. pose（k→s，刺→姿势）；vs. pocket（加‘cket’，刺→口袋）；vs. choke（p→ch，刺→窒息）；vs. evoke（p→ev，刺→唤起）。",
+        "extendedMeaning": "考研僻义：1. 闲荡（loiter），如‘poke around’（四处闲逛/翻找）；2. 袋子（sack/bag），如‘pig in a poke’（盲目购买的东西，原指袋子里的猪）。",
+        "examUsage": "真题考点：固定搭配‘poke fun at’（取笑/嘲弄），常作阅读理解中态度题线索；‘poke one's nose into’（干涉/管闲事），用于写作或完形填空。"
+      }
+    },
+    {
+      "id": "polar",
+      "word": "polar",
+      "phonetic": "/'pəulə/",
+      "meaning": "a.两极的,极地的,南辕北辙的 n.极线,极面",
+      "similar": [
+        "solar",
+        "collar",
+        "dollar",
+        "pillar",
+        "oar",
+        "pear",
+        "pole",
+        "poll"
+      ],
+      "question": {
+        "wordId": "polar",
+        "stem": "选择 \"polar\" 的正确中文意思：",
+        "correct": "a.两极的,极地的,南辕北辙的 n.极线,极面",
+        "options": [
+          "n.衣领;环状物",
+          "n.(美国,加拿大等国货币单位)美元,加元",
+          "a.太阳的,日光的",
+          "a.两极的,极地的,南辕北辙的 n.极线,极面"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为‘pol-’（极，轴心），源于希腊语‘polos’（轴，天极）。-ar为形容词后缀，表‘属于…的’。核心物理动作：围绕轴心旋转的两端，引申为‘两极的’或‘极地的’，再抽象为‘方向相反、南辕北辙’的对比关系。",
+        "similarWarning": "solar（太阳的，词根sol-）vs polar（极地的，词根pol-）；popular（流行的，词根popul-人民）vs polar（注意字母‘l’后接‘a’而非‘u’）；collar（衣领，词根coll-脖子）vs polar（首字母c/p差异，词义无关）；dollar（美元，源自德语‘taler’）vs polar（拼写相近但词源无关联）。",
+        "extendedMeaning": "在考研英语中，polar常引申为‘截然对立的、两极分化的’，如‘polar opposites’（完全相反）或‘polarized opinions’（极化观点），用于描述社会、政治或科学中的极端对立现象。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pole",
+      "word": "pole",
+      "phonetic": "/pəul/",
+      "meaning": "n.柱,杆;地极,磁极,电极",
+      "similar": [
+        "pale",
+        "pile",
+        "poke",
+        "poll",
+        "pope",
+        "pose",
+        "sole",
+        "polite"
+      ],
+      "question": {
+        "wordId": "pole",
+        "stem": "选择 \"pole\" 的正确中文意思：",
+        "correct": "n.柱,杆;地极,磁极,电极",
+        "options": [
+          "n.刺,戳,懒汉,袋子 v.戳,刺,伸出,刺探,闲荡",
+          "n.堆,大量,大数目 v.(up)堆,叠,堆积",
+          "a.苍白的,灰白的;浅的,暗淡的",
+          "n.柱,杆;地极,磁极,电极"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'polos'（枢轴，轴心），原指天空旋转的轴心（天极），后引申为支撑物体的杆、柱，以及磁极、电极等具有轴心或两极对立概念的物体。词根'pol'意为旋转、轴。",
+        "similarWarning": "pole vs pale：pole为杆、极；pale为苍白的、栅栏。pole vs poke：pole为名词杆；poke为动词戳、刺。pole vs poll：pole为杆；poll为投票、民意调查。",
+        "extendedMeaning": "在考研外刊中，常引申为'立场、观点截然对立的极端'，如'opposite poles'（截然对立的观点）或'pole position'（有利位置，源于赛车术语）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "policeman",
+      "word": "policeman",
+      "phonetic": "/pə'li:smən/",
+      "meaning": "n.警察",
+      "similar": [
+        "politician"
+      ],
+      "question": {
+        "wordId": "policeman",
+        "stem": "选择 \"policeman\" 的正确中文意思：",
+        "correct": "n.警察",
+        "options": [
+          "n.法院,法庭;宫廷,朝廷;院子;球场",
+          "v.妨碍 n.(身体或智力方面的)缺陷;不利条件",
+          "n.政治家,政客",
+          "n.警察"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "由 police（警察）+ man（人）合成，核心词义为“警察”。",
+        "similarWarning": "politician（政治家）：拼写差异在于“-man” vs “-tician”，词义从“执法者”变为“政治人物”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "policy",
+      "word": "policy",
+      "phonetic": "/'pɔlisi/",
+      "meaning": "n.政策,方针",
+      "similar": [
+        "polish",
+        "polite",
+        "politics"
+      ],
+      "question": {
+        "wordId": "policy",
+        "stem": "选择 \"policy\" 的正确中文意思：",
+        "correct": "n.政策,方针",
+        "options": [
+          "n.政治,政治学;政纲,政见",
+          "a.有礼貌的,客气的;有教养的,文雅的",
+          "n.政策,方针",
+          "v.磨光,擦亮;使优美,润饰 n.擦光剂,上光蜡"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'politia'（国家管理），经由古法语 'policie' 进入英语。词根 'poli-'（城市/治理）与 'cy'（状态/制度）结合，核心动作是“对城市或国家的治理方式”，引申为有计划的行动准则。",
+        "similarWarning": "police（警察，n./v.）- policy（政策，n.）。差异在于 'c' vs 'l'：police 的 'c' 发 /s/，与执法相关；policy 的 'l' 后接 'i'，指向管理原则。",
+        "extendedMeaning": "在考研中常引申为“（组织或个人的）策略、原则”，如 'honesty policy'（诚实原则）或 'insurance policy'（保险单），强调一种明文规定的准则，而非仅限政府层面。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "polish",
+      "word": "polish",
+      "phonetic": "/'pɔliʃ/",
+      "meaning": "v.磨光,擦亮;使优美,润饰 n.擦光剂,上光蜡",
+      "similar": [
+        "abolish",
+        "foolish",
+        "publish",
+        "perish",
+        "policy",
+        "polite",
+        "punish",
+        "relish"
+      ],
+      "question": {
+        "wordId": "polish",
+        "stem": "选择 \"polish\" 的正确中文意思：",
+        "correct": "v.磨光,擦亮;使优美,润饰 n.擦光剂,上光蜡",
+        "options": [
+          "v.磨光,擦亮;使优美,润饰 n.擦光剂,上光蜡",
+          "vt.废除(法律、习惯等)；取消",
+          "a.愚笨的,愚蠢的",
+          "v.出版,刊印;公布,发布"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古法语polir，源自拉丁语polire‘使光滑、使明亮’。核心物理动作是‘通过摩擦使表面变得光滑明亮’。引申为‘加工润色使完美’（如polish an article润饰文章）。名词指‘用于擦光的产品’（擦光剂、上光蜡）。",
+        "similarWarning": "abolish（废除）：a-（去）+bolish（生长）→去除生长→废除；polish（擦亮）：pol-（光滑）+ish（使）→使光滑。foolish（愚蠢的）：fool（傻子）+ish（像…的）；polish（擦亮）无贬义。publish（出版）：pub（公共）+lish（产生）→公之于众；polish（擦亮）无‘公开’义。perish（消亡）：per-（完全）+ish（去）→完全去→消亡；polish（擦亮）无‘死’义。",
+        "extendedMeaning": "考研中常考‘润色、改进’的引申义，如polish the speech（润色演讲）。名词‘擦光剂’在科技类阅读中偶现。",
+        "examUsage": "搭配：polish off（迅速完成/干掉），如‘polish off a task’；polish up（改善、提高），如‘polish up one's English’。真题中常作为干扰项与abolish、publish区分，注意拼写差异。"
+      }
+    },
+    {
+      "id": "polite",
+      "word": "polite",
+      "phonetic": "/pə'lait/",
+      "meaning": "a.有礼貌的,客气的;有教养的,文雅的",
+      "similar": [
+        "pollute",
+        "pole",
+        "elite",
+        "policy",
+        "polish",
+        "politics",
+        "positive"
+      ],
+      "question": {
+        "wordId": "polite",
+        "stem": "选择 \"polite\" 的正确中文意思：",
+        "correct": "a.有礼貌的,客气的;有教养的,文雅的",
+        "options": [
+          "a.有礼貌的,客气的;有教养的,文雅的",
+          "v.弄脏,污染",
+          "n.柱,杆;地极,磁极,电极",
+          "n.<法>[集合名词]精华;精锐;中坚分子"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语‘politus’，意为‘打磨光滑的’，是‘polire’（打磨）的过去分词。词根‘pol-’表示‘打磨、抛光’。词义从‘物理上的光滑’引申为‘举止上的文雅、有教养’，即经过社会‘打磨’后表现出的礼貌与得体。",
+        "similarWarning": "polite vs police: polite有‘i’和‘t’，police有‘c’和‘e’，词源不同；polite指礼貌，police指警察。polite vs pollute: polite有‘i’，pollute有‘u’和‘ll’，pollute意为污染。polite vs elite: polite以‘p’开头，elite以‘e’开头，elite指精英。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "political",
+      "word": "political",
+      "phonetic": "/pə'litikəl/",
+      "meaning": "a.政治的",
+      "similar": [
+        "politician",
+        "politics",
+        "optical",
+        "critical",
+        "practical",
+        "periodical"
+      ],
+      "question": {
+        "wordId": "political",
+        "stem": "选择 \"political\" 的正确中文意思：",
+        "correct": "a.政治的",
+        "options": [
+          "n.政治,政治学;政纲,政见",
+          "a.眼的,视力的;光学的",
+          "n.政治家,政客",
+          "a.政治的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语‘polis’（城邦）→‘politikos’（城邦的，公民的）→拉丁语‘politicus’→英语‘political’。词根‘polit’指‘政治/城邦’，后缀‘-ical’表‘...的’。核心动作：与城邦治理、公共事务相关。",
+        "similarWarning": "politician（政客）- politics（政治学）- optical（光学的）- critical（批评的）- practical（实践的）- periodical（期刊）；注意‘political’与‘critical’拼写差异在‘polit’ vs ‘crit’，词义分野为‘政治’ vs ‘批评’。",
+        "extendedMeaning": "在考研中常引申为‘策略性的、出于政治目的的’，如‘political decision’（出于政治权衡的决定），非单纯指政党政治。",
+        "examUsage": "真题中常考搭配‘political system’（政治体制）、‘political stability’（政治稳定），以及作为干扰项与‘policy’（政策）区分。例：The reform is driven by political, not economic, considerations.（2010年阅读）"
+      }
+    },
+    {
+      "id": "politician",
+      "word": "politician",
+      "phonetic": "/ˌpɔli'tiʃən/",
+      "meaning": "n.政治家,政客",
+      "similar": [
+        "political",
+        "politics",
+        "physician",
+        "policeman"
+      ],
+      "question": {
+        "wordId": "politician",
+        "stem": "选择 \"politician\" 的正确中文意思：",
+        "correct": "n.政治家,政客",
+        "options": [
+          "n.政治家,政客",
+          "n.政治,政治学;政纲,政见",
+          "a.政治的",
+          "n.内科医生"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根poli-（城市，国家）+ -tic（形容词后缀）+ -ian（表人），本义为“管理城邦的人”，即从事政治活动的人。中性词，但常带贬义指“政客”时强调谋私利、耍手段。",
+        "similarWarning": "political (政治的) vs politician (政客)：前者为形容词，后者为名词；politics (政治学/政治活动) vs politician：前者为抽象名词，后者指具体人；physician (内科医生) vs politician：拼写差异在“phy-”与“poli-”，词根不同，词义无关联。",
+        "extendedMeaning": "在考研外刊中，politician可指“精于权术的人”，不限于政治领域，如“a corporate politician”（企业中的权谋家）。",
+        "examUsage": "真题中常以“career politician”（职业政客）为考点，与“statesman”（政治家）对比，前者含贬义，后者褒义。如：Many voters distrust career politicians who seem more focused on re-election than on public service."
+      }
+    },
+    {
+      "id": "politics",
+      "word": "politics",
+      "phonetic": "/'pɔlitiks/",
+      "meaning": "n.政治,政治学;政纲,政见",
+      "similar": [
+        "political",
+        "politician",
+        "policy",
+        "polite",
+        "positive"
+      ],
+      "question": {
+        "wordId": "politics",
+        "stem": "选择 \"politics\" 的正确中文意思：",
+        "correct": "n.政治,政治学;政纲,政见",
+        "options": [
+          "n.政治家,政客",
+          "n.政策,方针",
+          "a.政治的",
+          "n.政治,政治学;政纲,政见"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语polis（城邦），politikos（公民的，政治的）。-ics后缀表学科或领域。核心动作：围绕城邦公共事务的管理与决策。",
+        "similarWarning": "political（政治的）: -ical形容词后缀；politics（政治学）: -ics学科。politician（政治家）: -ian表人；police（警察）: 与polis同源但侧重治安。policy（政策）: 源自拉丁语polire（治理），与politics拼写相近但词义不同。",
+        "extendedMeaning": "考研僻义：指权术、手腕（如office politics办公室政治）；也指特定政见或主张（如party politics党派政治）。",
+        "examUsage": "真题考点：常与power, government, election等构成主题语境，或在完形中考查'play politics'（耍手腕）等固定搭配。"
+      }
+    },
+    {
+      "id": "poll",
+      "word": "poll",
+      "phonetic": "/pəul/",
+      "meaning": "n.民意测验;(pl.)政治选举 v.获得…选票",
+      "similar": [
+        "doll",
+        "pill",
+        "pole",
+        "pool",
+        "pull",
+        "roll",
+        "toll",
+        "jolly"
+      ],
+      "question": {
+        "wordId": "poll",
+        "stem": "选择 \"poll\" 的正确中文意思：",
+        "correct": "n.民意测验;(pl.)政治选举 v.获得…选票",
+        "options": [
+          "n.玩偶,玩具娃娃",
+          "n.药丸",
+          "n.柱,杆;地极,磁极,电极",
+          "n.民意测验;(pl.)政治选举 v.获得…选票"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源自中古英语polle（头、头顶），后引申为“计数人头”即“民意测验”；核心动作：统计人数以获取意见或选票。",
+        "similarWarning": "pole（杆子，极点；字母e替换l）vs poll（民意测验；双l表示计数人头）",
+        "extendedMeaning": "政治选举（复数形式polls，常指大选投票过程）",
+        "examUsage": "exit poll（出口民调，真题高频考点，指对刚投完票的选民进行的即时调查）"
+      }
+    },
+    {
+      "id": "pollute",
+      "word": "pollute",
+      "phonetic": "/pə'lut/",
+      "meaning": "v.弄脏,污染",
+      "similar": [
+        "polite",
+        "pollution"
+      ],
+      "question": {
+        "wordId": "pollute",
+        "stem": "选择 \"pollute\" 的正确中文意思：",
+        "correct": "v.弄脏,污染",
+        "options": [
+          "v.弄脏,污染",
+          "a.突出的,显著的,杰出的",
+          "a.有礼貌的,客气的;有教养的,文雅的",
+          "n.污染"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 polluere '弄脏，玷污'，由 por-（向前）+ luere（洗，源自 lavere '洗' 的词根）构成，原义为 '向前泼洒脏水'，核心动作是 '使洁净物沾染污秽'。",
+        "similarWarning": "polite（有礼貌的，来自 politus '打磨过的'）：拼写差异 'u' vs 'i'，词源核心是 '打磨' vs '泼脏'，语义完全相反。",
+        "extendedMeaning": "在考研阅读中常引申为 '毒化（环境/关系）'，如 pollute the atmosphere（毒化氛围），或指 '玷污（名声/数据）'，如 pollute the sample（污染样本）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pollution",
+      "word": "pollution",
+      "phonetic": "/pə:'lju:ʃən/",
+      "meaning": "n.污染",
+      "similar": [
+        "solution",
+        "collection",
+        "population",
+        "pollute",
+        "portion",
+        "illusion",
+        "coalition",
+        "collision"
+      ],
+      "question": {
+        "wordId": "pollution",
+        "stem": "选择 \"pollution\" 的正确中文意思：",
+        "correct": "n.污染",
+        "options": [
+          "n.收藏(品),收集(物)",
+          "n.人口,(全体)居民",
+          "n.污染",
+          "n.解答,解决办法;溶解,溶液"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语polluere（弄脏、亵渎），由前缀pol-（=pro-，向前、彻底） + luere（冲洗、弄脏）构成，核心动作是“彻底弄脏”，引申为环境污染。",
+        "similarWarning": "pollution n.污染 vs. solution n.解决方案（solu-溶解，解决）；pollution vs. population n.人口（popul-人民）；pollution vs. portion n.部分（port-部分）；pollution vs. illusion n.幻觉（illu-戏弄）；pollution vs. coalition n.联盟（co-共同+al-生长）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pond",
+      "word": "pond",
+      "phonetic": "/pɔnd/",
+      "meaning": "n.池塘",
+      "similar": [
+        "pound",
+        "fond",
+        "ponder",
+        "bound",
+        "found",
+        "hound",
+        "panda",
+        "prone"
+      ],
+      "question": {
+        "wordId": "pond",
+        "stem": "选择 \"pond\" 的正确中文意思：",
+        "correct": "n.池塘",
+        "options": [
+          "n.池塘",
+          "n.磅;英镑 v.(连续)猛击,(猛烈)敲打,捣碎",
+          "a.(of)喜爱的,爱好的",
+          "v.沉思,考虑"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'pondus'（重量），原指'称量重量的容器'，后引申为'蓄水池'，最终简化为'池塘'。核心物理动作：封闭水体（由容器意象演化）。",
+        "similarWarning": "pound（磅/敲打）vs pond（池塘）：pound含'u'表重量/击打，pond含'o'表水体。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ponder",
+      "word": "ponder",
+      "phonetic": "/'pɔndə/",
+      "meaning": "v.沉思,考虑",
+      "similar": [
+        "powder",
+        "pioneer",
+        "pond",
+        "border",
+        "confer",
+        "gender",
+        "hinder",
+        "holder"
+      ],
+      "question": {
+        "wordId": "ponder",
+        "stem": "选择 \"ponder\" 的正确中文意思：",
+        "correct": "v.沉思,考虑",
+        "options": [
+          "n.池塘",
+          "n.先驱,倡导者,开拓者",
+          "n.粉末,药粉;火药,炸药",
+          "v.沉思,考虑"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 ponderare '称重，权衡'，词根 pend- '悬挂'（重量）。核心物理动作是'悬挂物体以称量'，引申为在头脑中仔细权衡、掂量不同选项的轻重，即沉思、考虑。",
+        "similarWarning": "powder (n.粉末) vs ponder: powder 含 d 但无 n, 词义无关；wonder (v.好奇) vs ponder: wonder 更强调好奇或惊讶，ponder 强调反复权衡；pond (n.池塘) vs ponder: pond 少 -er, 词义完全无关。",
+        "extendedMeaning": "在考研真题中，ponder 常表示对抽象问题、哲学或伦理议题的深入思考，而非简单思考。如 'ponder the meaning of life' (思考生命的意义)。",
+        "examUsage": "常与 over/on 搭配，如 'ponder over a problem' (仔细考虑问题)。真题中可能作为干扰项出现，与 consider, deliberate, reflect 等词辨析，强调反复权衡的深度。"
+      }
+    },
+    {
+      "id": "pool",
+      "word": "pool",
+      "phonetic": "/pu:l/",
+      "meaning": "n.水池,游泳池;合资经营v.合伙经营,联营",
+      "similar": [
+        "fool",
+        "poll",
+        "wool",
+        "proof",
+        "spoil",
+        "spoon",
+        "stool"
+      ],
+      "question": {
+        "wordId": "pool",
+        "stem": "选择 \"pool\" 的正确中文意思：",
+        "correct": "n.水池,游泳池;合资经营v.合伙经营,联营",
+        "options": [
+          "n.羊毛,毛线,毛织品",
+          "n.民意测验;(pl.)政治选举 v.获得…选票",
+          "n.傻子，笨蛋vt.欺骗，愚弄vi.干蠢事",
+          "n.水池,游泳池;合资经营v.合伙经营,联营"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古法语poule（池塘），核心物理动作为“水体的聚集”。引申指“资源的聚集”，即合资经营或联营。",
+        "similarWarning": "pool vs cool: 首字母p/c差异；pool（水池）vs fool（傻瓜）首字母p/f；pool vs poll: 多一个o；pool vs poor: 元音u/oo差异；pool vs tool: 首字母p/t；pool vs wool: 首字母p/w；pool vs proof: 多字母r和f；pool vs spoil: 前缀s和尾字母il/poil。",
+        "extendedMeaning": "考研僻义：n. 共享资源或人才库（如talent pool人才库）；v. 集中（资源、资金）共同使用（如pool resources）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pop",
+      "word": "pop",
+      "phonetic": "/pɔp/",
+      "meaning": "a.流行的n.(发出)砰的一声 v.突然出现",
+      "similar": [
+        "pope",
+        "cop",
+        "hop",
+        "pot"
+      ],
+      "question": {
+        "wordId": "pop",
+        "stem": "选择 \"pop\" 的正确中文意思：",
+        "correct": "a.流行的n.(发出)砰的一声 v.突然出现",
+        "options": [
+          "v.人单足跳;跳上(车等) n.蹦跳;短程飞行",
+          "n.警察(slang 俚语)",
+          "n.罗马教皇,主教,大腿上要害部位",
+          "a.流行的n.(发出)砰的一声 v.突然出现"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿轻脆的爆破声（如香槟塞弹出）。核心物理动作为“突然爆开/发出短促响声”，引申为“突然出现”或“流行”的（像爆米花般快速扩散）。",
+        "similarWarning": "pop vs. pope: pop多一e，指教皇；pop vs. cop: 首字母不同，cop为警察；pop vs. hop: 首字母不同，hop为单脚跳；pop vs. pot: 尾字母t，pot为锅；pop vs. top: 首字母t，top为顶端。",
+        "extendedMeaning": "考研僻义：1. 流行音乐（pop music 的简写）；2. 爸爸（口语称呼）；3. 汽水（soda pop 的简写）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pope",
+      "word": "pope",
+      "phonetic": "/pəup/",
+      "meaning": "n.罗马教皇,主教,大腿上要害部位",
+      "similar": [
+        "pop",
+        "cope",
+        "pipe",
+        "poke",
+        "pole",
+        "pose",
+        "rope",
+        "propel"
+      ],
+      "question": {
+        "wordId": "pope",
+        "stem": "选择 \"pope\" 的正确中文意思：",
+        "correct": "n.罗马教皇,主教,大腿上要害部位",
+        "options": [
+          "n.罗马教皇,主教,大腿上要害部位",
+          "a.流行的n.(发出)砰的一声 v.突然出现",
+          "n.管子,导管;烟斗;笛",
+          "v.(with)竞争,对抗;(with)对付,妥善处理"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语papa（父亲），原指早期基督教会的领袖，后特指罗马教皇。核心物理动作/画面：作为教会“父亲”的权威形象。",
+        "similarWarning": "pop（流行音乐；砰的一声） vs pope（教皇）：区别在于字母e，pope多一个e，象征“教皇”的权威延伸。cope（应对） vs pope：c-开头表示“处理”，p-开头表示“父亲”身份。hope（希望） vs pope：h-开头表示“期望”，p-开头表示“教皇”。pipe（管道） vs pope：i-字母差异，pipe指物体，pope指人物。poke（戳） vs pope：k-字母差异，poke为动作，pope为身份。pole（杆；极地） vs pope：l-字母差异，pole指物体或方位，pope指宗教领袖。pose（姿势） vs pope：s-字母差异，pose为动作，pope为名词。rope（绳子） vs pope：r-字母差异，rope为物体，pope为人物。",
+        "extendedMeaning": "在考研语境中，pope常引申为“权威人物”或“某一领域的领袖”，如the pope of modern art（现代艺术大师）。",
+        "examUsage": "注意pope在真题中可能作为文化背景词出现，例如：The pope's visit to the country sparked widespread debate.（教皇对该��的访问引发了广泛争论。）无特殊固定搭配或干扰项。"
+      }
+    },
+    {
+      "id": "population",
+      "word": "population",
+      "phonetic": "/ˌpɒpju'leɪʃn/",
+      "meaning": "n.人口,(全体)居民",
+      "similar": [
+        "pollution",
+        "regulation",
+        "reputation",
+        "corporation",
+        "preparation",
+        "proposition",
+        "duration",
+        "equation"
+      ],
+      "question": {
+        "wordId": "population",
+        "stem": "选择 \"population\" 的正确中文意思：",
+        "correct": "n.人口,(全体)居民",
+        "options": [
+          "n.人口,(全体)居民",
+          "n.规则,规章;调节,校准;调整",
+          "n.名誉,名声,声望",
+          "n.污染"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 populus（人民）+ -ation（名词后缀，表过程/结果）。核心动作：人民聚集、形成群体。引申为特定范围内的居民总数。",
+        "similarWarning": "pollution（污染）：区别在于pollut-（弄脏） vs popul-（人民）。regulation（规则）：regul-（直尺/管理） vs popul-。reputation（名声）：reput-（反复思考） vs popul-。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "porcelain",
+      "word": "porcelain",
+      "phonetic": "/'pɔ:səlin/",
+      "meaning": "n.瓷器 a.精制的,瓷器的",
+      "similar": [],
+      "question": {
+        "wordId": "porcelain",
+        "stem": "选择 \"porcelain\" 的正确中文意思：",
+        "correct": "n.瓷器 a.精制的,瓷器的",
+        "options": [
+          "n.报告人,通讯员;记者,报导者",
+          "n.优点,价值,功绩 v.值得,应得",
+          "n.瓷器 a.精制的,瓷器的",
+          "v.溢出,溅出 n.摔下,跌下"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自意大利语'porcellana'（母贝），原指一种贝壳（因瓷器表面光泽类似贝壳），后借指瓷器。词根无直接拉丁/希腊词根，但可联想'pore'（细孔）+'lain'（层），暗示瓷器由细密釉层构成。核心物理动作：将黏土塑形后高温烧制，形成坚硬光滑的陶瓷器。",
+        "similarWarning": "",
+        "extendedMeaning": "考研中常引申为'精制的、脆弱的'，如'porcelain skin'（娇嫩的皮肤）或'porcelain quality'（精致品质），非仅指瓷器本身。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "porch",
+      "word": "porch",
+      "phonetic": "/pɔ:tʃ/",
+      "meaning": "n.门廊,入口处",
+      "similar": [
+        "torch",
+        "arch",
+        "pork",
+        "port",
+        "coach",
+        "couch",
+        "epoch",
+        "forth"
+      ],
+      "question": {
+        "wordId": "porch",
+        "stem": "选择 \"porch\" 的正确中文意思：",
+        "correct": "n.门廊,入口处",
+        "options": [
+          "n.门廊,入口处",
+          "n.猪肉",
+          "n.手电筒;火炬,火把",
+          "n.拱门，桥拱洞 v.拱起，(使)变成弓形"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语porticus（柱廊），与porta（门）同源。核心物理动作为“门前的有顶结构”，即房屋入口处由柱子支撑的遮蔽空间。",
+        "similarWarning": "torch（火炬）：t替换p，强调火把照明；arch（拱门）：a替换po，强调弧形结构；pork（猪肉）：k替换ch，强调肉类；port（港口）：省略h，强调运输入口；coach（教练）：c替换p，强调车辆/指导；couch（长沙发）：u替换o，强调坐具；epoch（时代）：e替换po，强调时间点；force（力量）：f替换po，强调力。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pork",
+      "word": "pork",
+      "phonetic": "/pɔ:k/",
+      "meaning": "n.猪肉",
+      "similar": [
+        "fork",
+        "port",
+        "porch",
+        "spark"
+      ],
+      "question": {
+        "wordId": "pork",
+        "stem": "选择 \"pork\" 的正确中文意思：",
+        "correct": "n.猪肉",
+        "options": [
+          "n.港口",
+          "n.门廊,入口处",
+          "n.叉,耙;叉形物;餐叉",
+          "n.猪肉"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语porcus（猪），原始印欧语词根*perk-（挖，掘），因猪有拱地觅食习性。英语中pork专指猪肉，与pig（活猪）区分，源于诺曼征服后法语借用。",
+        "similarWarning": "fork（叉子，分岔）：p- vs f-；park（公园）：o vs a；port（港口）：k vs t；work（工作）：p- vs w-；porch（门廊）：加ch；spark（火花）：加s-；sport（运动）：加s-。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "port",
+      "word": "port",
+      "phonetic": "/pɔ:t/",
+      "meaning": "n.港口",
+      "similar": [
+        "pot",
+        "poet",
+        "pork",
+        "post",
+        "export",
+        "import",
+        "porter",
+        "apart"
+      ],
+      "question": {
+        "wordId": "port",
+        "stem": "选择 \"port\" 的正确中文意思：",
+        "correct": "n.港口",
+        "options": [
+          "n.猪肉",
+          "n.诗人",
+          "n.港口",
+          "n.罐,壶"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“portus”（港口、门），核心物理动作为“通过的门户”。词根port-表示“携带、运输”，与港口作为货物进出口的通道直接相关。",
+        "similarWarning": "sport（运动）：s-前缀+port，强调“携带出去”的娱乐活动；pot（罐子）：仅差一个字母r，无词源关联；part（部分）：a替换o，词根不同；poet（诗人）：e替换r，词源无关；pork（猪肉）：k替换t，词源无关；post（邮件/柱子）：s替换r，词源不同；sort（分类）：s替换p，词源无关；export（出口）：ex-向外+port，强调“运出去”。",
+        "extendedMeaning": "（在计算机/网络中）端口：指数据传输的接口，如“port number”（端口号）；亦指（葡萄酒等的）波尔图葡萄酒（源自葡萄牙港口城市Porto）。",
+        "examUsage": "（基础词，无特殊考点，故省略）"
+      }
+    },
+    {
+      "id": "portable",
+      "word": "portable",
+      "phonetic": "/'pɔ:təbl/",
+      "meaning": "a.轻便的,手提(式)的,可移动的",
+      "similar": [
+        "notable",
+        "profitable",
+        "mortal",
+        "stable",
+        "durable",
+        "postage",
+        "horrible",
+        "particle"
+      ],
+      "question": {
+        "wordId": "portable",
+        "stem": "选择 \"portable\" 的正确中文意思：",
+        "correct": "a.轻便的,手提(式)的,可移动的",
+        "options": [
+          "n.值得注意的,显著的,著名的",
+          "a.致命的;终有一死的;人世间的 n.凡人",
+          "a.有利可图的,有益的",
+          "a.轻便的,手提(式)的,可移动的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 portare（携带）+-able（能…的），核心动作是“能被携带的”，即轻便、可移动。",
+        "similarWarning": "notable（n. 值得注意的） vs. portable：not-（标记）表“可被标记的”，port-（携带）表“可携带的”；profitable（a. 有利可图的） vs. portable：profit（利润）表“能产生利润的”，port-表“能携带的”；mortal（a. 致命的） vs. portable：mort-（死亡）表“会死的”，port-表“可携带的”。",
+        "extendedMeaning": "在计算机领域指“便携式设备”，如 portable device（便携设备）；在软件中指“可移植的”，如 portable program（可移植程序）。",
+        "examUsage": "考研真题常考其反义词或同义替换，如与 movable, transportable 替换；搭配 portable computer（便携式计算机）为常见考点。"
+      }
+    },
+    {
+      "id": "porter",
+      "word": "porter",
+      "phonetic": "/'pɔ:tə/",
+      "meaning": "n.守门人,门房,行李搬运工,服务员",
+      "similar": [
+        "poster",
+        "reporter",
+        "partner",
+        "port",
+        "outer",
+        "border",
+        "former",
+        "foster"
+      ],
+      "question": {
+        "wordId": "porter",
+        "stem": "选择 \"porter\" 的正确中文意思：",
+        "correct": "n.守门人,门房,行李搬运工,服务员",
+        "options": [
+          "n.守门人,门房,行李搬运工,服务员",
+          "n海报,张贴的大幅广告",
+          "n.报告人,通讯员;记者,报导者",
+          "n.合作者,合伙人,合股人,伙伴,舞伴,配偶"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 port- 意为‘搬运、携带’，-er 是表人后缀。porter 字面即‘搬运东西的人’，引申为‘行李搬运工’；由‘守门人’义源自 port（港口/大门）+er，指在门口或港口提供服务的人。",
+        "similarWarning": "poster（海报，post-‘邮政’+er） vs porter（port-‘搬运’+er）：首字母 p 相同，但核心词根不同。reporter（记者，re-‘回’+port-‘搬运’+er，即‘搬运信息回来的人’）与 porter 仅前缀 re- 之差。partner（伙伴，part-‘部分’+ner）与 porter 拼写相似但词根无关。",
+        "extendedMeaning": "在考研阅读中，porter 可引申为‘（酒店/车站的）服务人员’或‘（机构中的）门卫’，强调其‘搬运、看管’职能，而非仅字面‘搬运工’。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "portion",
+      "word": "portion",
+      "phonetic": "/'pɔ:ʃən/",
+      "meaning": "n.一部分,一份",
+      "similar": [
+        "motion",
+        "notion",
+        "option",
+        "formation",
+        "pollution",
+        "duration",
+        "location",
+        "petition"
+      ],
+      "question": {
+        "wordId": "portion",
+        "stem": "选择 \"portion\" 的正确中文意思：",
+        "correct": "n.一部分,一份",
+        "options": [
+          "n.一部分,一份",
+          "n.运动,动;提议,动议 v.提议,动议",
+          "n.概念,想法,意念,看法,观点",
+          "n.选择(权),[商]选择买卖的特权"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语'portio'（部分、份额），词根'port-'（部分）与名词后缀'-ion'组合，核心动作是“划分出的份额”，强调整体中被分配或分割出来的一小部分。",
+        "similarWarning": "与'portion'拼写差异：position（位置）多一个's'且元音不同；motion（运动）首字母'm'；notion（概念）首字母'n'；option（选择）首字母'o'且无'r'；formation（形成）有'form'前缀；operation（操作）有'oper'前缀；pollution（污染）有'pollut'词干；duration（持续时间）有'dur'词干。",
+        "extendedMeaning": "考研僻义：在真题中常引申为“（事物的）一部分”或“（时间的）一段”，如'a portion of the budget'（预算的一部分），或指“（食物的）一份”，如'a portion of chips'。",
+        "examUsage": "真题考点：常与'part'辨析，'portion'更强调分配或分割后的份额，如'portion out'（分配）。例句：'A large portion of the company's profits goes to research.'（公司利润的很大一部分用于研究。）"
+      }
+    },
+    {
+      "id": "portrait",
+      "word": "portrait",
+      "phonetic": "/'pɔ:trit/",
+      "meaning": "n.肖像,画像",
+      "similar": [
+        "portray",
+        "contract",
+        "contrast",
+        "contradict"
+      ],
+      "question": {
+        "wordId": "portrait",
+        "stem": "选择 \"portrait\" 的正确中文意思：",
+        "correct": "n.肖像,画像",
+        "options": [
+          "v.描写，描述；画(人物、景象等)",
+          "n.(承包)合同/契约 v.订合同/契约；使缩小",
+          "n.对比，对照 vi.形成对比 vt.把…与…对比",
+          "n.肖像,画像"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自法语 portrait，是 portraire（描绘）的过去分词形式，由前缀 por-（向前，相当于 pro-）和 traire（拉，画线，源自拉丁语 trahere）组成。核心动作是‘向前拉出线条’，即通过线条勾勒出人物的外貌特征，引申为‘肖像、画像’。",
+        "similarWarning": "portray（v.描绘，刻画）：portrait 是名词，强调‘肖像’这一静态结果；portray 是动词，强调‘描绘’这一动态过程。\ncontract（n.合同；v.收缩）：con-（共同）+ tract（拉），即‘拉到一起’，与 portrait 的‘拉出线条’方向相反。\ncontrast（n./v.对比）：contra-（相对）+ stand（站立），即‘相对而立’，与 portrait 的‘向前描绘’无关。\ncontradict（v.反驳）：contra-（相反）+ dict（说），即‘说相反的话’，与 portrait 词源无关。",
+        "extendedMeaning": "在考研阅读中，portrait 可引申为‘生动的描述、写照’，用于抽象场景，如 a portrait of society（社会写照）。",
+        "examUsage": "常与 paint, draw, photograph 等词搭配，但真题中更侧重其‘描绘’的抽象用法，如 a portrait of the times（时代的写照）。"
+      }
+    },
+    {
+      "id": "portray",
+      "word": "portray",
+      "phonetic": "/pɔ:'trei/",
+      "meaning": "v.描写，描述；画(人物、景象等)",
+      "similar": [
+        "portrait",
+        "poetry",
+        "contrary"
+      ],
+      "question": {
+        "wordId": "portray",
+        "stem": "选择 \"portray\" 的正确中文意思：",
+        "correct": "v.描写，描述；画(人物、景象等)",
+        "options": [
+          "v.描写，描述；画(人物、景象等)",
+          "a.(to)相反的,矛盾的 n.反对,矛盾;相反",
+          "n.肖像,画像",
+          "n.诗歌,诗集"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "portray = port-（携带，来自拉丁语portare） + -tray（变体自trahere，拉/画）。核心动作是“将形象/画面拉出来并携带展示”，即描绘、刻画。词源上强调从内在构思到外在呈现的转移过程。",
+        "similarWarning": "portrait（n.肖像，描写）与portray同源，但词性不同；poetry（n.诗歌）拼写近似但无关；contrary（adj.相反的）含contr-（对立）而非port-。",
+        "extendedMeaning": "在考研阅读中，portray常引申为“刻画（人物性格/社会现象）”或“扮演（角色）”，如portray sb as a villain（把某人描绘成恶棍）。",
+        "examUsage": "真题常考portray与depict、describe的替换，干扰项可能设置portrait（名词）误用为动词。固定搭配：portray...in a positive/negative light（以正面/负面角度描绘）。"
+      }
+    },
+    {
+      "id": "pose",
+      "word": "pose",
+      "phonetic": "/pəuz/",
+      "meaning": "n.姿势,姿态 v.造成,提出,摆姿势,佯装",
+      "similar": [
+        "prose",
+        "dose",
+        "hose",
+        "nose",
+        "poke",
+        "pole",
+        "pope",
+        "post"
+      ],
+      "question": {
+        "wordId": "pose",
+        "stem": "选择 \"pose\" 的正确中文意思：",
+        "correct": "n.姿势,姿态 v.造成,提出,摆姿势,佯装",
+        "options": [
+          "n.水龙带,软管 v.用软管(淋浇,冲洗)",
+          "n.散文 a.散文的",
+          "n.剂量,一服,一剂 v.(给…)服药",
+          "n.姿势,姿态 v.造成,提出,摆姿势,佯装"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "pose源自拉丁语ponere（放置），核心动作是“放置”。词根pos-（放置）→ 摆出姿势（放置身体）→ 提出（放置观点）→ 造成（放置影响）。",
+        "similarWarning": "prose（散文）无介词前缀；dose（剂量）首字母d；hose（软管）首字母h；lose（丢失）中间s变单；nose（鼻子）首字母n；poke（戳）尾字母k；pole（杆）尾字母l；pope（教皇）尾字母p。",
+        "extendedMeaning": "考研僻义：pose as（冒充，佯装），如He posed as a doctor. 真题中常考“造成”义，如pose a threat（构成威胁）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "positive",
+      "word": "positive",
+      "phonetic": "/'pɔzətiv/",
+      "meaning": "a.肯定的,积极的,绝对的,无疑的,正的",
+      "similar": [
+        "cognitive",
+        "primitive",
+        "sensitive",
+        "motive",
+        "polite",
+        "hostile",
+        "passive",
+        "pastime"
+      ],
+      "question": {
+        "wordId": "positive",
+        "stem": "选择 \"positive\" 的正确中文意思：",
+        "correct": "a.肯定的,积极的,绝对的,无疑的,正的",
+        "options": [
+          "a.(to)敏感的,易受伤害的;灵敏的",
+          "a.原始的,远古的,早期的;粗糙的,简单的",
+          "a.认知的，认识能力的",
+          "a.肯定的,积极的,绝对的,无疑的,正的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根来自拉丁语ponere（放置），pos-（放置） + -itive（形容词后缀）。核心动作是“已经放置好的”，引申为“确定的、无疑的”，再引申为“积极的、肯定的”。与“负的”（negative）相对。",
+        "similarWarning": "position（位置）：pos-（放置） + -ition（名词后缀），强调“放置的状态或地点”；positive（积极的）：pos- + -itive，强调“已放置好的、确定的”。cognitve（认知的）：cogn-（知道） + -itive，与“知道”相关。primitive（原始的）：prim-（第一） + -itive，强调“最初的”。sensitive（敏感的）：sens-（感觉） + -itive。motive（动机）：mot-（移动） + -ive。polite（礼貌的）：polit-（城市、文明） + -e。hostile（敌对的）：host-（敌人） + -ile。passive（被动的）：pass-（承受） + -ive。",
+        "extendedMeaning": "在考研阅读中常引申为“正面的、建设性的”（如positive attitude），或“确实的、有把握的”（如positive proof），以及“积极的、乐观的”（如positive outlook）。在科学语境中表示“阳性的、正的”（如positive charge）。",
+        "examUsage": "常见考点：be positive about/of（对……肯定/确信）；positive effect（积极影响）；positive feedback（正反馈）。真题例句：\"The positive aspects of the reform outweigh the negative.\"（改革积极方面大于消极方面。）"
+      }
+    },
+    {
+      "id": "possess",
+      "word": "possess",
+      "phonetic": "/pə'zes/",
+      "meaning": "v.占有,拥有",
+      "similar": [
+        "assess",
+        "hostess",
+        "progress"
+      ],
+      "question": {
+        "wordId": "possess",
+        "stem": "选择 \"possess\" 的正确中文意思：",
+        "correct": "v.占有,拥有",
+        "options": [
+          "n.女主人,女主持人",
+          "vt.(为征税)评估(财产、收入)；征税；评价",
+          "v.占有,拥有",
+          "v./n.进步，进展；前进"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语possidere，由posse（能够）与sedere（坐）复合而成，核心物理动作为“能够坐在上面”，引申为对某物有控制权、所有权，即“占有、拥有”。",
+        "similarWarning": "assess（评估）: as-（向）+ sedere（坐）→ 坐在一旁判定价值；hostess（女主人）: host（主人）+ -ess（阴性后缀）；progress（进步）: pro-（向前）+ gress（走）→ 向前走。与possess相比，差异在于词根：assess含sedere（坐），hostess无此词根，progress含gress（走）。",
+        "extendedMeaning": "在考研阅读中常引申为“具有（某种品质、能力、特征）”，如possess the ability（具有能力），或“被（情感）支配”，如be possessed by fear（被恐惧支配）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "possession",
+      "word": "possession",
+      "phonetic": "/pə'zeʃən/",
+      "meaning": "n.持有,拥有;所有权;所有物;(pl.)财产,财富",
+      "similar": [
+        "obsession",
+        "concession",
+        "procession",
+        "profession",
+        "commission",
+        "compassion",
+        "conversion",
+        "impression"
+      ],
+      "question": {
+        "wordId": "possession",
+        "stem": "选择 \"possession\" 的正确中文意思：",
+        "correct": "n.持有,拥有;所有权;所有物;(pl.)财产,财富",
+        "options": [
+          "n.持有,拥有;所有权;所有物;(pl.)财产,财富",
+          "n.迷住, 困扰",
+          "n.让步，妥协；特许(权)；",
+          "n.队伍,行列"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语possidere（posse“能够”+sedere“坐”），核心动作是“能坐在上面”，表示占有、控制。possession即拥有、所有物，强调对某物的实际控制或法律所有权。",
+        "similarWarning": "obsession（痴迷，ob-“反对”+session“坐”，指被念头占据）；concession（让步，con-“共同”+cession“走开”，指一起退让）；procession（行列，pro-“向前”+cession“走”，指向前走的一队）；profession（职业，pro-“公开”+fession“说”，指公开宣称的职业）；position（位置，pos-“放置”+ition）；commission（委员会，com-“共同”+mission“派遣”）；compassion（同情，com-“共同”+passion“感受”）；conversion（转换，con-“完全”+version“转”）。",
+        "extendedMeaning": "在考研中常引申为“着魔、控制”，如in one's possession（被某人控制/拥有），但更常见僻义是“财产、财富”（复数形式possessions），如material possessions（物质财富）。",
+        "examUsage": "常考搭配：take possession of（占有，获得）；in possession of（拥有，占有）；in the possession of（被……拥有）。真题例句：He was found in possession of illegal drugs.（他被发现持有非法毒品。）"
+      }
+    },
+    {
+      "id": "possibility",
+      "word": "possibility",
+      "phonetic": "/ˌpɔsə'biləti/",
+      "meaning": "n.可能,可能性;可能的事,希望",
+      "similar": [
+        "stability",
+        "hospitality",
+        "probability"
+      ],
+      "question": {
+        "wordId": "possibility",
+        "stem": "选择 \"possibility\" 的正确中文意思：",
+        "correct": "n.可能,可能性;可能的事,希望",
+        "options": [
+          "n.可能,可能性;可能的事,希望",
+          "n.稳定,安定",
+          "n.好客,殷勤,款待",
+          "n.可能性,或然性,概率"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'posse'（能够），词根 'poss-' 表示‘能力’，后缀 '-ibility' 表示‘性质’；核心动作为‘能力的存在’，即某事物具备成为现实的条件或潜质。",
+        "similarWarning": "stability（稳定性，词根 'st-' 站立）、hospitality（好客，词根 'hospit-' 客人）、probability（概率，词根 'prob-' 证明）；差异在于词根不同，possibility强调‘可能性’，而非‘稳定’、‘待客’或‘概率’。",
+        "extendedMeaning": "在考研阅读中常引申为‘潜在机会’或‘可行性’，如‘explore the possibility of...’（探索……的可行性），而非简单字面‘可能’。",
+        "examUsage": "高频搭配 ‘possibility of...’ 在完形填空中作为题眼，干扰项常为 ‘probability’（概率，更强调数学上的可能性）或 ‘opportunity’（机会，强调有利时机），需辨析可能性与概率、机会的细微差别。"
+      }
+    },
+    {
+      "id": "possibly",
+      "word": "possibly",
+      "phonetic": "/'pɔsəbli/",
+      "meaning": "ad.可能地，也许；无论如何",
+      "similar": [
+        "fossil"
+      ],
+      "question": {
+        "wordId": "possibly",
+        "stem": "选择 \"possibly\" 的正确中文意思：",
+        "correct": "ad.可能地，也许；无论如何",
+        "options": [
+          "ad.可能地，也许；无论如何",
+          "n.固定设备;预定日期;比赛时间;定期存款",
+          "n.行李,皮箱",
+          "n.化石"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 posse（能够）的副词形式，由 poss（能够）+ -ibly（副词后缀，表可能）构成，核心动作是“具备可能性”。",
+        "similarWarning": "与 possible（adj.可能的）字母差异为 -ly 副词后缀；与 impossible（adj.不可能的）前缀 im- 表否定；与 fossil（n.化石）拼写相似但无词源关联，注意区分。",
+        "extendedMeaning": "在考研语境中，possibly 可表“无论如何”（用于否定句或疑问句加强语气），如：I can't possibly finish it.（我无论如何也完不成。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "post",
+      "word": "post",
+      "phonetic": "/pəust/",
+      "meaning": "v.贴出;公告;投寄 n.(支)柱;邮政,邮寄;职位",
+      "similar": [
+        "pot",
+        "host",
+        "pest",
+        "poet",
+        "port",
+        "pose",
+        "poster",
+        "boast"
+      ],
+      "question": {
+        "wordId": "post",
+        "stem": "选择 \"post\" 的正确中文意思：",
+        "correct": "v.贴出;公告;投寄 n.(支)柱;邮政,邮寄;职位",
+        "options": [
+          "v.贴出;公告;投寄 n.(支)柱;邮政,邮寄;职位",
+          "n.罐,壶",
+          "n.主人;旅店老板;节目主持人;一大群,许多",
+          "n.害虫"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语ponere（放置，安置）。核心物理动作为“放置”：post（柱子）是竖立放置的木桩；post（邮件）是将信件放置到邮递系统中；post（职位）是将人安置在某个岗位上；post（贴出）是将公告放置在显眼处。",
+        "similarWarning": "post vs. pot：post有字母s（表示站立的柱子），pot无s（表示锅，容器）。post vs. host：post以p开头（放置），host以h开头（主人/大量）。post vs. past：post中的o发/əʊ/（长音），past中的a发/æ/（短音），且past为过去。post vs. pest：post中的o发/əʊ/，pest中的e发/e/（害虫）。",
+        "extendedMeaning": "v. 在社交媒体上发布（信息/帖子）。如：post a comment（发表评论）。n. 岗位，职位（尤指有特定职责的工作）。如：apply for a post（申请职位）。",
+        "examUsage": "常见考点搭配：by post（通过邮寄）；keep sb. posted（随时向某人通报最新情况）；post office（邮局）。真题例句：\"Please keep me posted on the progress of the project.\"（请随时告知我项目的进展情况。）"
+      }
+    },
+    {
+      "id": "postage",
+      "word": "postage",
+      "phonetic": "/'pəustidʒ/",
+      "meaning": "n.邮费,邮资",
+      "similar": [
+        "hostage",
+        "cottage",
+        "passage",
+        "posture",
+        "voltage",
+        "mortgage",
+        "portable",
+        "positive"
+      ],
+      "question": {
+        "wordId": "postage",
+        "stem": "选择 \"postage\" 的正确中文意思：",
+        "correct": "n.邮费,邮资",
+        "options": [
+          "n.通过,经过;通路,走廊;(一)段落,(一)节",
+          "n.邮费,邮资",
+          "n.人质",
+          "n.村舍,小屋,别墅"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "post-（邮政） + -age（名词后缀，表费用或集合）。核心动作：邮政服务产生的费用，即邮资。",
+        "similarWarning": "hostage（人质：host-客人+age，被扣留的客人）；stage（舞台/阶段：st-站立+age，站立的地方）；posture（姿势：post-放置+ure，放置身体的方式）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    }
+  ]
+}

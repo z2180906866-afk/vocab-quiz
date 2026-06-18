@@ -1,0 +1,1769 @@
+{
+  "batchId": 93,
+  "words": [
+    {
+      "id": "training",
+      "word": "training",
+      "phonetic": "/'treiniŋ/",
+      "meaning": "n.训练,培养",
+      "similar": [
+        "drawing",
+        "meaning",
+        "writing",
+        "learning",
+        "painting",
+        "striking"
+      ],
+      "question": {
+        "wordId": "training",
+        "stem": "选择 \"training\" 的正确中文意思：",
+        "correct": "n.训练,培养",
+        "options": [
+          "n.写,写作;著作,作品",
+          "n.意思,意义,含义;重要性,价值",
+          "n.绘图,图样",
+          "n.训练,培养"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：training的核心含义与\"n.训练,培养\"相关",
+        "similarWarning": "注意区分：training 与 drawing, meaning, writing, learning, painting, striking 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "trait",
+      "word": "trait",
+      "phonetic": "/treɪt/",
+      "meaning": "n.特征,特点,特性",
+      "similar": [
+        "trail",
+        "train",
+        "traitor",
+        "strain",
+        "tragic",
+        "rat",
+        "bait",
+        "raid"
+      ],
+      "question": {
+        "wordId": "trait",
+        "stem": "选择 \"trait\" 的正确中文意思：",
+        "correct": "n.特征,特点,特性",
+        "options": [
+          "n.叛徒,卖国贼",
+          "n.踪迹,痕迹;小路 v.追踪,跟踪;拖,拖曳;",
+          "n.列车;行列,系列,一串 v.训练,培养",
+          "n.特征,特点,特性"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：trait的核心含义与\"n.特征,特点,特性\"相关",
+        "similarWarning": "注意区分：trait 与 trail, train, traitor, strain, tragic, rat, bait, raid 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "traitor",
+      "word": "traitor",
+      "phonetic": "/'treitə/",
+      "meaning": "n.叛徒,卖国贼",
+      "similar": [
+        "tractor",
+        "trait",
+        "tailor",
+        "territory",
+        "tradition"
+      ],
+      "question": {
+        "wordId": "traitor",
+        "stem": "选择 \"traitor\" 的正确中文意思：",
+        "correct": "n.叛徒,卖国贼",
+        "options": [
+          "n.特征,特点,特性",
+          "n.拖拉机,牵引车",
+          "n.叛徒,卖国贼",
+          "n.裁缝 v.缝制,剪裁"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：traitor的核心含义与\"n.叛徒,卖国贼\"相关",
+        "similarWarning": "注意区分：traitor 与 tractor, trait, tailor, territory, tradition 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tram",
+      "word": "tram",
+      "phonetic": "/træm/",
+      "meaning": "n.有轨电车",
+      "similar": [
+        "tramp",
+        "team",
+        "trap",
+        "tray",
+        "trim",
+        "stream",
+        "cream",
+        "drama"
+      ],
+      "question": {
+        "wordId": "tram",
+        "stem": "选择 \"tram\" 的正确中文意思：",
+        "correct": "n.有轨电车",
+        "options": [
+          "n.小队,小组 v.协同工作",
+          "n.陷阱，圈套 vt.诱捕；使中圈套 vi.设圈套",
+          "n./v步行;沉重的脚步声(走)v.践踏n.流浪者",
+          "n.有轨电车"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：tram的核心含义与\"n.有轨电车\"相关",
+        "similarWarning": "注意区分：tram 与 tramp, team, trap, tray, trim, stream, cream, drama 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tramp",
+      "word": "tramp",
+      "phonetic": "/træmp/",
+      "meaning": "n./v步行;沉重的脚步声(走)v.践踏n.流浪者",
+      "similar": [
+        "tram",
+        "trap",
+        "rap",
+        "tap",
+        "camp",
+        "damp",
+        "lamp",
+        "tame"
+      ],
+      "question": {
+        "wordId": "tramp",
+        "stem": "选择 \"tramp\" 的正确中文意思：",
+        "correct": "n./v步行;沉重的脚步声(走)v.践踏n.流浪者",
+        "options": [
+          "n./v步行;沉重的脚步声(走)v.践踏n.流浪者",
+          "n.有轨电车",
+          "n.叩击,轻拍,斥责 v.敲,拍,打,斥责,使着迷",
+          "n.陷阱，圈套 vt.诱捕；使中圈套 vi.设圈套"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：tramp的核心含义与\"n./v步行;沉重的脚步声(走)v.践踏n.流浪者\"相关",
+        "similarWarning": "注意区分：tramp 与 tram, trap, rap, tap, camp, damp, lamp, tame 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "transaction",
+      "word": "transaction",
+      "phonetic": "/træn'zækʃən/",
+      "meaning": "n.办理,处理;交易,事务;(pl.)会报,学报",
+      "similar": [
+        "transition",
+        "translation",
+        "transmission",
+        "sensation",
+        "tradition",
+        "plantation",
+        "transistor"
+      ],
+      "question": {
+        "wordId": "transaction",
+        "stem": "选择 \"transaction\" 的正确中文意思：",
+        "correct": "n.办理,处理;交易,事务;(pl.)会报,学报",
+        "options": [
+          "n.播送,发射;传动,传送",
+          "n.办理,处理;交易,事务;(pl.)会报,学报",
+          "n.转变，变迁，过渡(时期)",
+          "n.翻译;译文,译本"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：transaction的核心含义与\"n.办理,处理;交易,事务;(pl.)会报,学报\"相关",
+        "similarWarning": "注意区分：transaction 与 transition, translation, transmission, sensation, tradition, plantation, transistor 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "transcend",
+      "word": "transcend",
+      "phonetic": "/træn'send/",
+      "meaning": "vt.超出,超越(经验、知识、能力的范围等)",
+      "similar": [
+        "transient",
+        "transfer",
+        "transparent",
+        "transplant"
+      ],
+      "question": {
+        "wordId": "transcend",
+        "stem": "选择 \"transcend\" 的正确中文意思：",
+        "correct": "vt.超出,超越(经验、知识、能力的范围等)",
+        "options": [
+          "a.透明的，透光的；易理解的；明显的",
+          "vt.超出,超越(经验、知识、能力的范围等)",
+          "a.短暂的，转瞬即逝的；临时的，暂住的",
+          "vt./n.转移；转换；转让；过户；迁移；改乘"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：transcend的核心含义与\"vt.超出,超越(经验、知识、能力的范围等)\"相关",
+        "similarWarning": "注意区分：transcend 与 transient, transfer, transparent, transplant 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "transfer",
+      "word": "transfer",
+      "phonetic": "/træns'fə:/",
+      "meaning": "vt./n.转移；转换；转让；过户；迁移；改乘",
+      "similar": [
+        "transform",
+        "transcend",
+        "transient",
+        "transport",
+        "answer",
+        "tanker",
+        "stranger",
+        "transmit"
+      ],
+      "question": {
+        "wordId": "transfer",
+        "stem": "选择 \"transfer\" 的正确中文意思：",
+        "correct": "vt./n.转移；转换；转让；过户；迁移；改乘",
+        "options": [
+          "vt.超出,超越(经验、知识、能力的范围等)",
+          "vt.改变,变换;变压;转化;改造,改造",
+          "a.短暂的，转瞬即逝的；临时的，暂住的",
+          "vt./n.转移；转换；转让；过户；迁移；改乘"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：transfer的核心含义与\"vt./n.转移；转换；转让；过户；迁移；改乘\"相关",
+        "similarWarning": "注意区分：transfer 与 transform, transcend, transient, transport, answer, tanker, stranger, transmit 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "transform",
+      "word": "transform",
+      "phonetic": "/træns'fɔ:m/",
+      "meaning": "vt.改变,变换;变压;转化;改造,改造",
+      "similar": [
+        "transfer",
+        "transport",
+        "transistor"
+      ],
+      "question": {
+        "wordId": "transform",
+        "stem": "选择 \"transform\" 的正确中文意思：",
+        "correct": "vt.改变,变换;变压;转化;改造,改造",
+        "options": [
+          "n.晶体管；晶体管收音机",
+          "vt.改变,变换;变压;转化;改造,改造",
+          "v.运输,运送,搬运n.运输;运输系统,运载工具",
+          "vt./n.转移；转换；转让；过户；迁移；改乘"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：transform的核心含义与\"vt.改变,变换;变压;转化;改造,改造\"相关",
+        "similarWarning": "注意区分：transform 与 transfer, transport, transistor 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "transient",
+      "word": "transient",
+      "phonetic": "/'trænziənt/",
+      "meaning": "a.短暂的，转瞬即逝的；临时的，暂住的",
+      "similar": [
+        "transcend",
+        "transparent",
+        "transplant",
+        "ancient",
+        "transfer",
+        "transmit",
+        "transport",
+        "harassment"
+      ],
+      "question": {
+        "wordId": "transient",
+        "stem": "选择 \"transient\" 的正确中文意思：",
+        "correct": "a.短暂的，转瞬即逝的；临时的，暂住的",
+        "options": [
+          "a.短暂的，转瞬即逝的；临时的，暂住的",
+          "n./v.移植(植物；组织,器官等)；迁移；",
+          "a.透明的，透光的；易理解的；明显的",
+          "vt.超出,超越(经验、知识、能力的范围等)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：transient的核心含义与\"a.短暂的，转瞬即逝的；临时的，暂住的\"相关",
+        "similarWarning": "注意区分：transient 与 transcend, transparent, transplant, ancient, transfer, transmit, transport, harassment 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "transistor",
+      "word": "transistor",
+      "phonetic": "/træn'sistə/",
+      "meaning": "n.晶体管；晶体管收音机",
+      "similar": [
+        "transition",
+        "transmission",
+        "transaction",
+        "translation",
+        "ancestor",
+        "transfer",
+        "transmit",
+        "transform"
+      ],
+      "question": {
+        "wordId": "transistor",
+        "stem": "选择 \"transistor\" 的正确中文意思：",
+        "correct": "n.晶体管；晶体管收音机",
+        "options": [
+          "n.办理,处理;交易,事务;(pl.)会报,学报",
+          "n.播送,发射;传动,传送",
+          "n.转变，变迁，过渡(时期)",
+          "n.晶体管；晶体管收音机"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：transistor的核心含义与\"n.晶体管；晶体管收音机\"相关",
+        "similarWarning": "注意区分：transistor 与 transition, transmission, transaction, translation, ancestor, transfer, transmit, transform 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "transition",
+      "word": "transition",
+      "phonetic": "/træn'siʒən/",
+      "meaning": "n.转变，变迁，过渡(时期)",
+      "similar": [
+        "transaction",
+        "translation",
+        "tradition",
+        "transmission",
+        "transistor",
+        "preposition",
+        "proposition",
+        "addition"
+      ],
+      "question": {
+        "wordId": "transition",
+        "stem": "选择 \"transition\" 的正确中文意思：",
+        "correct": "n.转变，变迁，过渡(时期)",
+        "options": [
+          "n.翻译;译文,译本",
+          "n.传统； 惯例； 传说",
+          "n.办理,处理;交易,事务;(pl.)会报,学报",
+          "n.转变，变迁，过渡(时期)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：transition的核心含义与\"n.转变，变迁，过渡(时期)\"相关",
+        "similarWarning": "注意区分：transition 与 transaction, translation, tradition, transmission, transistor, preposition, proposition, addition 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "translate",
+      "word": "translate",
+      "phonetic": "/trænz'leɪt/",
+      "meaning": "v.翻译，解释；转化，",
+      "similar": [
+        "translation",
+        "transplant",
+        "transmit",
+        "transparent",
+        "transistor"
+      ],
+      "question": {
+        "wordId": "translate",
+        "stem": "选择 \"translate\" 的正确中文意思：",
+        "correct": "v.翻译，解释；转化，",
+        "options": [
+          "n.翻译;译文,译本",
+          "v.翻译，解释；转化，",
+          "vt.传输/导；转送；发射 vi.发射信号；发报",
+          "n./v.移植(植物；组织,器官等)；迁移；"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：translate的核心含义与\"v.翻译，解释；转化，\"相关",
+        "similarWarning": "注意区分：translate 与 translation, transplant, transmit, transparent, transistor 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "translation",
+      "word": "translation",
+      "phonetic": "/træns'leiʃən/",
+      "meaning": "n.翻译;译文,译本",
+      "similar": [
+        "transition",
+        "transaction",
+        "translate",
+        "organization",
+        "transmission",
+        "inflation",
+        "sensation",
+        "tradition"
+      ],
+      "question": {
+        "wordId": "translation",
+        "stem": "选择 \"translation\" 的正确中文意思：",
+        "correct": "n.翻译;译文,译本",
+        "options": [
+          "n.办理,处理;交易,事务;(pl.)会报,学报",
+          "n.转变，变迁，过渡(时期)",
+          "v.翻译，解释；转化，",
+          "n.翻译;译文,译本"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：translation的核心含义与\"n.翻译;译文,译本\"相关",
+        "similarWarning": "注意区分：translation 与 transition, transaction, translate, organization, transmission, inflation, sensation, tradition 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "transmission",
+      "word": "transmission",
+      "phonetic": "/trænz'miʃən/",
+      "meaning": "n.播送,发射;传动,传送",
+      "similar": [
+        "transition",
+        "transistor",
+        "transaction",
+        "translation"
+      ],
+      "question": {
+        "wordId": "transmission",
+        "stem": "选择 \"transmission\" 的正确中文意思：",
+        "correct": "n.播送,发射;传动,传送",
+        "options": [
+          "n.办理,处理;交易,事务;(pl.)会报,学报",
+          "n.晶体管；晶体管收音机",
+          "n.转变，变迁，过渡(时期)",
+          "n.播送,发射;传动,传送"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：transmission的核心含义与\"n.播送,发射;传动,传送\"相关",
+        "similarWarning": "注意区分：transmission 与 transition, transistor, transaction, translation 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "transmit",
+      "word": "transmit",
+      "phonetic": "/trænz'mit/",
+      "meaning": "vt.传输/导；转送；发射 vi.发射信号；发报",
+      "similar": [
+        "transient",
+        "translate",
+        "transport",
+        "transfer",
+        "transistor",
+        "transition",
+        "transplant"
+      ],
+      "question": {
+        "wordId": "transmit",
+        "stem": "选择 \"transmit\" 的正确中文意思：",
+        "correct": "vt.传输/导；转送；发射 vi.发射信号；发报",
+        "options": [
+          "v.运输,运送,搬运n.运输;运输系统,运载工具",
+          "v.翻译，解释；转化，",
+          "a.短暂的，转瞬即逝的；临时的，暂住的",
+          "vt.传输/导；转送；发射 vi.发射信号；发报"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：transmit的核心含义与\"vt.传输/导；转送；发射 vi.发射信号；发报\"相关",
+        "similarWarning": "注意区分：transmit 与 transient, translate, transport, transfer, transistor, transition, transplant 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "transparent",
+      "word": "transparent",
+      "phonetic": "/træns'pærənt/",
+      "meaning": "a.透明的，透光的；易理解的；明显的",
+      "similar": [
+        "transient",
+        "transport",
+        "transplant",
+        "transcend",
+        "translate"
+      ],
+      "question": {
+        "wordId": "transparent",
+        "stem": "选择 \"transparent\" 的正确中文意思：",
+        "correct": "a.透明的，透光的；易理解的；明显的",
+        "options": [
+          "v.运输,运送,搬运n.运输;运输系统,运载工具",
+          "a.短暂的，转瞬即逝的；临时的，暂住的",
+          "a.透明的，透光的；易理解的；明显的",
+          "n./v.移植(植物；组织,器官等)；迁移；"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：transparent的核心含义与\"a.透明的，透光的；易理解的；明显的\"相关",
+        "similarWarning": "注意区分：transparent 与 transient, transport, transplant, transcend, translate 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "transplant",
+      "word": "transplant",
+      "phonetic": "/træns'plɑ:nt/",
+      "meaning": "n./v.移植(植物；组织,器官等)；迁移；",
+      "similar": [
+        "transparent",
+        "transient",
+        "translate",
+        "transport",
+        "transmit",
+        "transcend"
+      ],
+      "question": {
+        "wordId": "transplant",
+        "stem": "选择 \"transplant\" 的正确中文意思：",
+        "correct": "n./v.移植(植物；组织,器官等)；迁移；",
+        "options": [
+          "v.翻译，解释；转化，",
+          "n./v.移植(植物；组织,器官等)；迁移；",
+          "a.透明的，透光的；易理解的；明显的",
+          "a.短暂的，转瞬即逝的；临时的，暂住的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：transplant的核心含义与\"n./v.移植(植物；组织,器官等)；迁移；\"相关",
+        "similarWarning": "注意区分：transplant 与 transparent, transient, translate, transport, transmit, transcend 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "transport",
+      "word": "transport",
+      "phonetic": "/'trænspɔ:t /",
+      "meaning": "v.运输,运送,搬运n.运输;运输系统,运载工具",
+      "similar": [
+        "transform",
+        "transparent",
+        "transplant",
+        "passport",
+        "transfer",
+        "transmit",
+        "transient",
+        "transistor"
+      ],
+      "question": {
+        "wordId": "transport",
+        "stem": "选择 \"transport\" 的正确中文意思：",
+        "correct": "v.运输,运送,搬运n.运输;运输系统,运载工具",
+        "options": [
+          "vt.改变,变换;变压;转化;改造,改造",
+          "a.透明的，透光的；易理解的；明显的",
+          "n./v.移植(植物；组织,器官等)；迁移；",
+          "v.运输,运送,搬运n.运输;运输系统,运载工具"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：transport的核心含义与\"v.运输,运送,搬运n.运输;运输系统,运载工具\"相关",
+        "similarWarning": "注意区分：transport 与 transform, transparent, transplant, passport, transfer, transmit, transient, transistor 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "trap",
+      "word": "trap",
+      "phonetic": "/træp/",
+      "meaning": "n.陷阱，圈套 vt.诱捕；使中圈套 vi.设圈套",
+      "similar": [
+        "strap",
+        "tramp",
+        "rap",
+        "tap",
+        "tram",
+        "tray",
+        "trip",
+        "wrap"
+      ],
+      "question": {
+        "wordId": "trap",
+        "stem": "选择 \"trap\" 的正确中文意思：",
+        "correct": "n.陷阱，圈套 vt.诱捕；使中圈套 vi.设圈套",
+        "options": [
+          "n.陷阱，圈套 vt.诱捕；使中圈套 vi.设圈套",
+          "n.皮带v.用带扣住，束牢；用绷带包扎",
+          "n./v步行;沉重的脚步声(走)v.践踏n.流浪者",
+          "n.叩击,轻拍,斥责 v.敲,拍,打,斥责,使着迷"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：trap的核心含义与\"n.陷阱，圈套 vt.诱捕；使中圈套 vi.设圈套\"相关",
+        "similarWarning": "注意区分：trap 与 strap, tramp, rap, tap, tram, tray, trip, wrap 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "trash",
+      "word": "trash",
+      "phonetic": "/træʃ/",
+      "meaning": "n.垃圾；拙劣的作品；渣滓，败类",
+      "similar": [
+        "rash",
+        "crash",
+        "ash",
+        "cash",
+        "dash",
+        "lash",
+        "rush",
+        "task"
+      ],
+      "question": {
+        "wordId": "trash",
+        "stem": "选择 \"trash\" 的正确中文意思：",
+        "correct": "n.垃圾；拙劣的作品；渣滓，败类",
+        "options": [
+          "a.轻率的,鲁莽的 n.皮疹",
+          "n.垃圾；拙劣的作品；渣滓，败类",
+          "n.灰，灰末；(pl.)骨灰；(pl.)废墟",
+          "v./n.碰撞,坠落,摔坏 n.失败,瓦解;爆裂声"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：trash的核心含义与\"n.垃圾；拙劣的作品；渣滓，败类\"相关",
+        "similarWarning": "注意区分：trash 与 rash, crash, ash, cash, dash, lash, rush, task 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "travel",
+      "word": "travel",
+      "phonetic": "/'trævəl/",
+      "meaning": "n.旅行 v.旅行;行进,传播",
+      "similar": [
+        "brave",
+        "grave",
+        "trace",
+        "trade",
+        "trail"
+      ],
+      "question": {
+        "wordId": "travel",
+        "stem": "选择 \"travel\" 的正确中文意思：",
+        "correct": "n.旅行 v.旅行;行进,传播",
+        "options": [
+          "n.旅行 v.旅行;行进,传播",
+          "a.勇敢的 v.勇敢地面对(危险等)",
+          "n.痕迹,踪迹;极少量 v.描绘;跟踪,追踪",
+          "n.坟墓 a.严肃的,庄重的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：travel的核心含义与\"n.旅行 v.旅行;行进,传播\"相关",
+        "similarWarning": "注意区分：travel 与 brave, grave, trace, trade, trail 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tray",
+      "word": "tray",
+      "phonetic": "/trei/",
+      "meaning": "n.盘,碟,托盘",
+      "similar": [
+        "ray",
+        "try",
+        "pray",
+        "tram",
+        "trap",
+        "betray",
+        "treaty",
+        "array"
+      ],
+      "question": {
+        "wordId": "tray",
+        "stem": "选择 \"tray\" 的正确中文意思：",
+        "correct": "n.盘,碟,托盘",
+        "options": [
+          "n.光线,射线",
+          "v.请求,恳求;祈祷,祈求",
+          "n.盘,碟,托盘",
+          "v.尝试，试图；试验，试用；审讯 n.尝试"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：tray的核心含义与\"n.盘,碟,托盘\"相关",
+        "similarWarning": "注意区分：tray 与 ray, try, pray, tram, trap, betray, treaty, array 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "treason",
+      "word": "treason",
+      "phonetic": "/'tri:zən/",
+      "meaning": "n.谋反,通敌,叛国",
+      "similar": [
+        "reason",
+        "season",
+        "threaten",
+        "treasure"
+      ],
+      "question": {
+        "wordId": "treason",
+        "stem": "选择 \"treason\" 的正确中文意思：",
+        "correct": "n.谋反,通敌,叛国",
+        "options": [
+          "n.季,季节,时节",
+          "n.谋反,通敌,叛国",
+          "v.恐吓,威胁;有…危险,快要来临",
+          "n.原因,理性,理智 v.推理,说服,辩论,讨论"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：treason的核心含义与\"n.谋反,通敌,叛国\"相关",
+        "similarWarning": "注意区分：treason 与 reason, season, threaten, treasure 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "treasure",
+      "word": "treasure",
+      "phonetic": "/'treʒə(r)/",
+      "meaning": "n.财宝,财富;珍品 v.珍爱,珍惜",
+      "similar": [
+        "measure",
+        "creature",
+        "pleasure",
+        "pressure",
+        "reassure",
+        "ensure",
+        "grease",
+        "resume"
+      ],
+      "question": {
+        "wordId": "treasure",
+        "stem": "选择 \"treasure\" 的正确中文意思：",
+        "correct": "n.财宝,财富;珍品 v.珍爱,珍惜",
+        "options": [
+          "n.财宝,财富;珍品 v.珍爱,珍惜",
+          "n.愉快,快乐;乐事,乐趣",
+          "v.测量,分派,权衡 n.尺寸,量度器,措施,办法",
+          "n.人,动物;生物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：treasure的核心含义与\"n.财宝,财富;珍品 v.珍爱,珍惜\"相关",
+        "similarWarning": "注意区分：treasure 与 measure, creature, pleasure, pressure, reassure, ensure, grease, resume 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "treat",
+      "word": "treat",
+      "phonetic": "/tri:t/",
+      "meaning": "v.对待;治疗;论述;款待,请客 n.款待,请客",
+      "similar": [
+        "threat",
+        "treaty",
+        "great",
+        "retreat",
+        "breast",
+        "breath",
+        "create",
+        "stream"
+      ],
+      "question": {
+        "wordId": "treat",
+        "stem": "选择 \"treat\" 的正确中文意思：",
+        "correct": "v.对待;治疗;论述;款待,请客 n.款待,请客",
+        "options": [
+          "v.对待;治疗;论述;款待,请客 n.款待,请客",
+          "n.恐吓,威胁;坏兆头,危险迹象",
+          "n.条约，协议，协商",
+          "a.伟大的；重要的；大量的；很好的；美好的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：treat的核心含义与\"v.对待;治疗;论述;款待,请客 n.款待,请客\"相关",
+        "similarWarning": "注意区分：treat 与 threat, treaty, great, retreat, breast, breath, create, stream 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "treaty",
+      "word": "treaty",
+      "phonetic": "/'tri:ti/",
+      "meaning": "n.条约，协议，协商",
+      "similar": [
+        "treat",
+        "tray",
+        "great",
+        "ready",
+        "breath",
+        "create",
+        "pretty",
+        "threat"
+      ],
+      "question": {
+        "wordId": "treaty",
+        "stem": "选择 \"treaty\" 的正确中文意思：",
+        "correct": "n.条约，协议，协商",
+        "options": [
+          "v.对待;治疗;论述;款待,请客 n.款待,请客",
+          "a.伟大的；重要的；大量的；很好的；美好的",
+          "n.盘,碟,托盘",
+          "n.条约，协议，协商"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：treaty的核心含义与\"n.条约，协议，协商\"相关",
+        "similarWarning": "注意区分：treaty 与 treat, tray, great, ready, breath, create, pretty, threat 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tree",
+      "word": "tree",
+      "phonetic": "/tri:/",
+      "meaning": "n.树,树状物 vi.爬上树",
+      "similar": [
+        "three",
+        "free",
+        "true",
+        "street",
+        "agree",
+        "breed",
+        "creep",
+        "green"
+      ],
+      "question": {
+        "wordId": "tree",
+        "stem": "选择 \"tree\" 的正确中文意思：",
+        "correct": "n.树,树状物 vi.爬上树",
+        "options": [
+          "n.树,树状物 vi.爬上树",
+          "num.三 pron./a.三(个，只...)",
+          "a.自由的;免费的;免税的;空闲的 vt.释放",
+          "a.真实，不假的；忠实，可靠的；正确无误的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：tree的核心含义与\"n.树,树状物 vi.爬上树\"相关",
+        "similarWarning": "注意区分：tree 与 three, free, true, street, agree, breed, creep, green 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tremble",
+      "word": "tremble",
+      "phonetic": "/'trembl/",
+      "meaning": "n.战栗,颤抖 v.发抖,颤抖；摇动；焦虑",
+      "similar": [
+        "temple",
+        "tumble",
+        "trouble",
+        "assemble",
+        "resemble",
+        "scramble",
+        "terrible"
+      ],
+      "question": {
+        "wordId": "tremble",
+        "stem": "选择 \"tremble\" 的正确中文意思：",
+        "correct": "n.战栗,颤抖 v.发抖,颤抖；摇动；焦虑",
+        "options": [
+          "n.战栗,颤抖 v.发抖,颤抖；摇动；焦虑",
+          "n.庙宇,神殿,寺;太阳穴",
+          "v.(使)摔倒;打滚,翻腾 n.摔跤,跌倒",
+          "n.烦恼;动乱;疾病;故障;辛苦v.(使)烦恼"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：tremble的核心含义与\"n.战栗,颤抖 v.发抖,颤抖；摇动；焦虑\"相关",
+        "similarWarning": "注意区分：tremble 与 temple, tumble, trouble, assemble, resemble, scramble, terrible 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tremendous",
+      "word": "tremendous",
+      "phonetic": "/trə'mendəs/",
+      "meaning": "a.巨大的,极大的",
+      "similar": [
+        "strenuous",
+        "greenhouse"
+      ],
+      "question": {
+        "wordId": "tremendous",
+        "stem": "选择 \"tremendous\" 的正确中文意思：",
+        "correct": "a.巨大的,极大的",
+        "options": [
+          "a.巨大的,极大的",
+          "a.费力的，艰辛的；奋发的，努力的",
+          "n.(织物)质地；(材料)构造；结构；肌理",
+          "n.温室"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：tremendous的核心含义与\"a.巨大的,极大的\"相关",
+        "similarWarning": "注意区分：tremendous 与 strenuous, greenhouse 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "trench",
+      "word": "trench",
+      "phonetic": "/trentʃ/",
+      "meaning": "n.&v.(挖)沟，(挖)战壕",
+      "similar": [
+        "wrench",
+        "stretch",
+        "bench",
+        "reach",
+        "teach",
+        "trend",
+        "branch",
+        "breach"
+      ],
+      "question": {
+        "wordId": "trench",
+        "stem": "选择 \"trench\" 的正确中文意思：",
+        "correct": "n.&v.(挖)沟，(挖)战壕",
+        "options": [
+          "n.长凳,条凳;(工作)台,座",
+          "v.伸展，延伸 n.拉长；伸展；一段时间/路程",
+          "v.猛拧；挣脱；使扭伤 n.扳手；痛苦，难受",
+          "n.&v.(挖)沟，(挖)战壕"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：trench的核心含义与\"n.&v.(挖)沟，(挖)战壕\"相关",
+        "similarWarning": "注意区分：trench 与 wrench, stretch, bench, reach, teach, trend, branch, breach 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "trend",
+      "word": "trend",
+      "phonetic": "/trend/",
+      "meaning": "n.倾向,趋势 vi.伸向,倾向",
+      "similar": [
+        "tend",
+        "attend",
+        "friend",
+        "thread",
+        "trench",
+        "end",
+        "red",
+        "ten"
+      ],
+      "question": {
+        "wordId": "trend",
+        "stem": "选择 \"trend\" 的正确中文意思：",
+        "correct": "n.倾向,趋势 vi.伸向,倾向",
+        "options": [
+          "n.朋友",
+          "n.倾向,趋势 vi.伸向,倾向",
+          "v.趋向,往往是;照料,看护",
+          "vt.出席，参加；照顾，护理 vi.注意；侍奉"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：trend的核心含义与\"n.倾向,趋势 vi.伸向,倾向\"相关",
+        "similarWarning": "注意区分：trend 与 tend, attend, friend, thread, trench, end, red, ten 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "trial",
+      "word": "trial",
+      "phonetic": "/'traiəl/",
+      "meaning": "n.讯问，审讯；试验；试用；尝试",
+      "similar": [
+        "trivial",
+        "aerial",
+        "serial",
+        "thrill",
+        "trifle",
+        "triple",
+        "dial",
+        "oral"
+      ],
+      "question": {
+        "wordId": "trial",
+        "stem": "选择 \"trial\" 的正确中文意思：",
+        "correct": "n.讯问，审讯；试验；试用；尝试",
+        "options": [
+          "n.讯问，审讯；试验；试用；尝试",
+          "a.(在或来自)空中的，航空的 n.天线",
+          "n.连载小说，连续剧；连载刊物 a.连续的",
+          "a.琐碎的;无足轻重的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：trial的核心含义与\"n.讯问，审讯；试验；试用；尝试\"相关",
+        "similarWarning": "注意区分：trial 与 trivial, aerial, serial, thrill, trifle, triple, dial, oral 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "triangle",
+      "word": "triangle",
+      "phonetic": "/'traiæŋgl/",
+      "meaning": "n.三角(形)",
+      "similar": [
+        "tangle",
+        "fringe",
+        "mingle",
+        "orange",
+        "single",
+        "trifle",
+        "triple",
+        "arrange"
+      ],
+      "question": {
+        "wordId": "triangle",
+        "stem": "选择 \"triangle\" 的正确中文意思：",
+        "correct": "n.三角(形)",
+        "options": [
+          "v.(使)混合",
+          "n.边缘；(窗帘)缘饰；额前垂发 vt.饰…的边",
+          "n.纠缠；缠结；混乱 v.(使)缠绕；变乱",
+          "n.三角(形)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：triangle的核心含义与\"n.三角(形)\"相关",
+        "similarWarning": "注意区分：triangle 与 tangle, fringe, mingle, orange, single, trifle, triple, arrange 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tribe",
+      "word": "tribe",
+      "phonetic": "/traib/",
+      "meaning": "n.种族，部落；(植物，动物)族，类",
+      "similar": [
+        "bribe",
+        "tribute",
+        "stride",
+        "strife",
+        "strike",
+        "stripe",
+        "strive",
+        "thrive"
+      ],
+      "question": {
+        "wordId": "tribe",
+        "stem": "选择 \"tribe\" 的正确中文意思：",
+        "correct": "n.种族，部落；(植物，动物)族，类",
+        "options": [
+          "n.贡品;颂词,称赞,(表示敬意的)礼物",
+          "n.贿赂 v.向…行贿,买通",
+          "vi.大踏步走；跨越 n.一大步(pl.)长足进步",
+          "n.种族，部落；(植物，动物)族，类"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：tribe的核心含义与\"n.种族，部落；(植物，动物)族，类\"相关",
+        "similarWarning": "注意区分：tribe 与 bribe, tribute, stride, strife, strike, stripe, strive, thrive 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tribute",
+      "word": "tribute",
+      "phonetic": "/'trɪbju:t/",
+      "meaning": "n.贡品;颂词,称赞,(表示敬意的)礼物",
+      "similar": [
+        "attribute",
+        "tribe"
+      ],
+      "question": {
+        "wordId": "tribute",
+        "stem": "选择 \"tribute\" 的正确中文意思：",
+        "correct": "n.贡品;颂词,称赞,(表示敬意的)礼物",
+        "options": [
+          "n.种族，部落；(植物，动物)族，类",
+          "v.擦,摩擦",
+          "n.贡品;颂词,称赞,(表示敬意的)礼物",
+          "v.(to)归因于,归属于 n.属性,品质,特征"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根分析：tribute的核心含义与\"n.贡品;颂词,称赞,(表示敬意的)礼物\"相关",
+        "similarWarning": "注意区分：tribute 与 attribute, tribe 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "trick",
+      "word": "trick",
+      "phonetic": "/trik/",
+      "meaning": "n.诡计,骗局;恶作剧;窍门 vt.欺骗,哄骗",
+      "similar": [
+        "tick",
+        "brick",
+        "prick",
+        "thick",
+        "track",
+        "truck",
+        "strict",
+        "kick"
+      ],
+      "question": {
+        "wordId": "trick",
+        "stem": "选择 \"trick\" 的正确中文意思：",
+        "correct": "n.诡计,骗局;恶作剧;窍门 vt.欺骗,哄骗",
+        "options": [
+          "n.诡计,骗局;恶作剧;窍门 vt.欺骗,哄骗",
+          "n.滴答声;勾号 v.滴答响;打勾号于",
+          "n.砖块，砖；v.用砖围砌，用砖填补",
+          "n./v.刺伤,刺痛,刺孔"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：trick的核心含义与\"n.诡计,骗局;恶作剧;窍门 vt.欺骗,哄骗\"相关",
+        "similarWarning": "注意区分：trick 与 tick, brick, prick, thick, track, truck, strict, kick 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "trifle",
+      "word": "trifle",
+      "phonetic": "/'traifl/",
+      "meaning": "n.少量；小事,琐事 v.玩弄；嬉耍；忽视",
+      "similar": [
+        "rifle",
+        "triple",
+        "tile",
+        "title",
+        "trial",
+        "tribe",
+        "strife",
+        "terrible"
+      ],
+      "question": {
+        "wordId": "trifle",
+        "stem": "选择 \"trifle\" 的正确中文意思：",
+        "correct": "n.少量；小事,琐事 v.玩弄；嬉耍；忽视",
+        "options": [
+          "n.三倍数 a.三倍的;三部分构成的v.使成三倍",
+          "n.步枪",
+          "n.瓦片,瓷砖 vt.铺瓦于，贴砖于",
+          "n.少量；小事,琐事 v.玩弄；嬉耍；忽视"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：trifle的核心含义与\"n.少量；小事,琐事 v.玩弄；嬉耍；忽视\"相关",
+        "similarWarning": "注意区分：trifle 与 rifle, triple, tile, title, trial, tribe, strife, terrible 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "trigger",
+      "word": "trigger",
+      "phonetic": "/'trigə/",
+      "meaning": "n.扳机 vt.触发，引起",
+      "similar": [
+        "tiger",
+        "stranger"
+      ],
+      "question": {
+        "wordId": "trigger",
+        "stem": "选择 \"trigger\" 的正确中文意思：",
+        "correct": "n.扳机 vt.触发，引起",
+        "options": [
+          "n．虎；老虎",
+          "n.手臂，扶手，臂状物 v.武装；配备 n.武器",
+          "n.陌生人,生客;外地人,外国人",
+          "n.扳机 vt.触发，引起"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：trigger的核心含义与\"n.扳机 vt.触发，引起\"相关",
+        "similarWarning": "注意区分：trigger 与 tiger, stranger 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "trim",
+      "word": "trim",
+      "phonetic": "/trim/",
+      "meaning": "a.整齐的,整洁的 v./n.整理,修整,装饰",
+      "similar": [
+        "rim",
+        "brim",
+        "grim",
+        "tram",
+        "trip",
+        "crime",
+        "prime",
+        "strip"
+      ],
+      "question": {
+        "wordId": "trim",
+        "stem": "选择 \"trim\" 的正确中文意思：",
+        "correct": "a.整齐的,整洁的 v./n.整理,修整,装饰",
+        "options": [
+          "a.严酷的，令人害怕的；不愉快的，讨厌的",
+          "n.边缘,帽沿",
+          "n.(圆物的)边,边缘;(眼镜)框",
+          "a.整齐的,整洁的 v./n.整理,修整,装饰"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：trim的核心含义与\"a.整齐的,整洁的 v./n.整理,修整,装饰\"相关",
+        "similarWarning": "注意区分：trim 与 rim, brim, grim, tram, trip, crime, prime, strip 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "trip",
+      "word": "trip",
+      "phonetic": "/trɪp/",
+      "meaning": "n.旅行,远足 v.绊倒；失足；犯错",
+      "similar": [
+        "strip",
+        "rip",
+        "tip",
+        "drip",
+        "grip",
+        "trap",
+        "trim",
+        "stripe"
+      ],
+      "question": {
+        "wordId": "trip",
+        "stem": "选择 \"trip\" 的正确中文意思：",
+        "correct": "n.旅行,远足 v.绊倒；失足；犯错",
+        "options": [
+          "n.旅行,远足 v.绊倒；失足；犯错",
+          "n.尖端;末端;小费 n./v.轻击;倾斜;给小费",
+          "v.剥,剥去 n.窄条,条纹",
+          "v.撕,剥,劈,锯,裂开,撕裂 n.裂口,裂缝"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：trip的核心含义与\"n.旅行,远足 v.绊倒；失足；犯错\"相关",
+        "similarWarning": "注意区分：trip 与 strip, rip, tip, drip, grip, trap, trim, stripe 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "triple",
+      "word": "triple",
+      "phonetic": "/'tripl/",
+      "meaning": "n.三倍数 a.三倍的;三部分构成的v.使成三倍",
+      "similar": [
+        "trifle",
+        "cripple",
+        "ripe",
+        "tile",
+        "trip",
+        "rifle",
+        "title",
+        "trial"
+      ],
+      "question": {
+        "wordId": "triple",
+        "stem": "选择 \"triple\" 的正确中文意思：",
+        "correct": "n.三倍数 a.三倍的;三部分构成的v.使成三倍",
+        "options": [
+          "n.三倍数 a.三倍的;三部分构成的v.使成三倍",
+          "n.少量；小事,琐事 v.玩弄；嬉耍；忽视",
+          "n.跛子,残疾人 v.使跛,使残疾",
+          "a.熟的,成熟的;(for)时机成熟的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：triple的核心含义与\"n.三倍数 a.三倍的;三部分构成的v.使成三倍\"相关",
+        "similarWarning": "注意区分：triple 与 trifle, cripple, ripe, tile, trip, rifle, title, trial 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "triumph",
+      "word": "triumph",
+      "phonetic": "/'traiəmf/",
+      "meaning": "n.胜利,成功 v.得胜,战胜",
+      "similar": [],
+      "question": {
+        "wordId": "triumph",
+        "stem": "选择 \"triumph\" 的正确中文意思：",
+        "correct": "n.胜利,成功 v.得胜,战胜",
+        "options": [
+          "n.凳子；(pl.)大便",
+          "n.药品;治疗措施 v.治疗,医治;纠正,补救",
+          "n.脚趾,足尖",
+          "n.胜利,成功 v.得胜,战胜"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：triumph的核心含义与\"n.胜利,成功 v.得胜,战胜\"相关",
+        "similarWarning": "注意区分：triumph 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "trivial",
+      "word": "trivial",
+      "phonetic": "/'triviəl/",
+      "meaning": "a.琐碎的;无足轻重的",
+      "similar": [
+        "rival",
+        "trial",
+        "criminal",
+        "critical",
+        "original",
+        "tropical"
+      ],
+      "question": {
+        "wordId": "trivial",
+        "stem": "选择 \"trivial\" 的正确中文意思：",
+        "correct": "a.琐碎的;无足轻重的",
+        "options": [
+          "a.琐碎的;无足轻重的",
+          "n.罪犯,刑事犯 a.犯罪的,刑事的",
+          "n.竞争者,对手 v.竞争,对抗 a.竞争的",
+          "n.讯问，审讯；试验；试用；尝试"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：trivial的核心含义与\"a.琐碎的;无足轻重的\"相关",
+        "similarWarning": "注意区分：trivial 与 rival, trial, criminal, critical, original, tropical 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "trolley",
+      "word": "trolley",
+      "phonetic": "/'trɔli/",
+      "meaning": "n.手推车;(英)无轨电车,(美)有轨电车",
+      "similar": [],
+      "question": {
+        "wordId": "trolley",
+        "stem": "选择 \"trolley\" 的正确中文意思：",
+        "correct": "n.手推车;(英)无轨电车,(美)有轨电车",
+        "options": [
+          "n.手推车;(英)无轨电车,(美)有轨电车",
+          "a.惯常的；习惯的，适应的(一般作表语)",
+          "n.发热,狂热",
+          "n.几何(学)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：trolley的核心含义与\"n.手推车;(英)无轨电车,(美)有轨电车\"相关",
+        "similarWarning": "注意区分：trolley 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "troop",
+      "word": "troop",
+      "phonetic": "/tru:p/",
+      "meaning": "n.(pl.)部队,军队;(一)群/队 v.群集,集合",
+      "similar": [
+        "too",
+        "top",
+        "crop",
+        "drop",
+        "loop",
+        "roof",
+        "room",
+        "root"
+      ],
+      "question": {
+        "wordId": "troop",
+        "stem": "选择 \"troop\" 的正确中文意思：",
+        "correct": "n.(pl.)部队,军队;(一)群/队 v.群集,集合",
+        "options": [
+          "n.(pl.)部队,军队;(一)群/队 v.群集,集合",
+          "n.作物,庄稼;(谷类等的)一熟收成;一批,大量",
+          "ad.也，还；太，过于；很，非常",
+          "n.顶，顶端；首位；顶点 a.最高的；顶上的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：troop的核心含义与\"n.(pl.)部队,军队;(一)群/队 v.群集,集合\"相关",
+        "similarWarning": "注意区分：troop 与 too, top, crop, drop, loop, roof, room, root 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tropic",
+      "word": "tropic",
+      "phonetic": "/'trɔpik/",
+      "meaning": "n.回归线；[the T-s]热带地区",
+      "similar": [
+        "topic",
+        "tropical",
+        "toxic",
+        "tragic"
+      ],
+      "question": {
+        "wordId": "tropic",
+        "stem": "选择 \"tropic\" 的正确中文意思：",
+        "correct": "n.回归线；[the T-s]热带地区",
+        "options": [
+          "a.有毒的；中毒的",
+          "a.热带的",
+          "n.话题,主题,题目",
+          "n.回归线；[the T-s]热带地区"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：tropic的核心含义与\"n.回归线；[the T-s]热带地区\"相关",
+        "similarWarning": "注意区分：tropic 与 topic, tropical, toxic, tragic 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "tropical",
+      "word": "tropical",
+      "phonetic": "/'trɔpikəl/",
+      "meaning": "a.热带的",
+      "similar": [
+        "tropic",
+        "typical",
+        "logical",
+        "optical",
+        "radical",
+        "trivial",
+        "critical",
+        "proposal"
+      ],
+      "question": {
+        "wordId": "tropical",
+        "stem": "选择 \"tropical\" 的正确中文意思：",
+        "correct": "a.热带的",
+        "options": [
+          "n.回归线；[the T-s]热带地区",
+          "a.热带的",
+          "a.逻辑的,符合逻辑的",
+          "a.(of)典型的,有代表性的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：tropical的核心含义与\"a.热带的\"相关",
+        "similarWarning": "注意区分：tropical 与 tropic, typical, logical, optical, radical, trivial, critical, proposal 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "trouble",
+      "word": "trouble",
+      "phonetic": "/'trʌbl/",
+      "meaning": "n.烦恼;动乱;疾病;故障;辛苦v.(使)烦恼",
+      "similar": [
+        "tremble",
+        "probable",
+        "terrible"
+      ],
+      "question": {
+        "wordId": "trouble",
+        "stem": "选择 \"trouble\" 的正确中文意思：",
+        "correct": "n.烦恼;动乱;疾病;故障;辛苦v.(使)烦恼",
+        "options": [
+          "a.很糟的;可怕的,骇人的;极度的,厉害的",
+          "a.很可能的,大概的;有希望的,可能的",
+          "n.战栗,颤抖 v.发抖,颤抖；摇动；焦虑",
+          "n.烦恼;动乱;疾病;故障;辛苦v.(使)烦恼"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：trouble的核心含义与\"n.烦恼;动乱;疾病;故障;辛苦v.(使)烦恼\"相关",
+        "similarWarning": "注意区分：trouble 与 tremble, probable, terrible 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "troublesome",
+      "word": "troublesome",
+      "phonetic": "/'trʌblsəm/",
+      "meaning": "a.令人烦恼的,讨厌的",
+      "similar": [
+        "wholesome"
+      ],
+      "question": {
+        "wordId": "troublesome",
+        "stem": "选择 \"troublesome\" 的正确中文意思：",
+        "correct": "a.令人烦恼的,讨厌的",
+        "options": [
+          "n.(产品)来源，制法 vt.制造，做成，准备",
+          "n.二选一；供选择的东西；取舍 a.二选一的",
+          "a.卫生的;有益的;健康的,有益健康的",
+          "a.令人烦恼的,讨厌的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：troublesome的核心含义与\"a.令人烦恼的,讨厌的\"相关",
+        "similarWarning": "注意区分：troublesome 与 wholesome 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "trousers",
+      "word": "trousers",
+      "phonetic": "/'trauzəz/",
+      "meaning": "n.裤子",
+      "similar": [
+        "arouse"
+      ],
+      "question": {
+        "wordId": "trousers",
+        "stem": "选择 \"trousers\" 的正确中文意思：",
+        "correct": "n.裤子",
+        "options": [
+          "vt.唤醒，叫醒；唤起，激起",
+          "n.裤子",
+          "n.茶(叶)；午后茶点",
+          "n.排水沟,阴沟;消耗,负担 v.排去,放干"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根分析：trousers的核心含义与\"n.裤子\"相关",
+        "similarWarning": "注意区分：trousers 与 arouse 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "truck",
+      "word": "truck",
+      "phonetic": "/trʌk/",
+      "meaning": "n.卡车,载重汽车",
+      "similar": [
+        "tuck",
+        "track",
+        "trick",
+        "trunk",
+        "duck",
+        "luck",
+        "rack",
+        "rock"
+      ],
+      "question": {
+        "wordId": "truck",
+        "stem": "选择 \"truck\" 的正确中文意思：",
+        "correct": "n.卡车,载重汽车",
+        "options": [
+          "n.卡车,载重汽车",
+          "v.卷起;塞进",
+          "n.跑道,小路;轨迹,轮迹 v.跟踪,追踪",
+          "n.诡计,骗局;恶作剧;窍门 vt.欺骗,哄骗"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：truck的核心含义与\"n.卡车,载重汽车\"相关",
+        "similarWarning": "注意区分：truck 与 tuck, track, trick, trunk, duck, luck, rack, rock 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "true",
+      "word": "TRUE",
+      "phonetic": "/tru:/",
+      "meaning": "a.真实，不假的；忠实，可靠的；正确无误的",
+      "similar": [
+        "tree",
+        "argue",
+        "crude",
+        "cruel",
+        "three",
+        "trace",
+        "trade",
+        "tribe"
+      ],
+      "question": {
+        "wordId": "true",
+        "stem": "选择 \"TRUE\" 的正确中文意思：",
+        "correct": "a.真实，不假的；忠实，可靠的；正确无误的",
+        "options": [
+          "a.真实，不假的；忠实，可靠的；正确无误的",
+          "a.天然的,未加工的;未熟的;粗鲁的,粗野的",
+          "vi.辩论，争论 vt.辩论，论证；说服，劝说",
+          "n.树,树状物 vi.爬上树"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：TRUE的核心含义与\"a.真实，不假的；忠实，可靠的；正确无误的\"相关",
+        "similarWarning": "注意区分：TRUE 与 tree, argue, crude, cruel, three, trace, trade, tribe 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "trumpet",
+      "word": "trumpet",
+      "phonetic": "/'trʌmpit/",
+      "meaning": "n.喇叭,小号",
+      "similar": [],
+      "question": {
+        "wordId": "trumpet",
+        "stem": "选择 \"trumpet\" 的正确中文意思：",
+        "correct": "n.喇叭,小号",
+        "options": [
+          "vt.取代,替换,代替,把...放回原处",
+          "vi.获胜，赢 vt.赢得；在…中获胜 n.胜利",
+          "vi.游泳;游;漂浮;眩晕;充溢 vt.游过 n.游泳",
+          "n.喇叭,小号"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根分析：trumpet的核心含义与\"n.喇叭,小号\"相关",
+        "similarWarning": "注意区分：trumpet 与  的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    },
+    {
+      "id": "trunk",
+      "word": "trunk",
+      "phonetic": "/trʌŋk/",
+      "meaning": "n.大衣箱,皮箱;(汽车后部)行李箱;树干,躯干",
+      "similar": [
+        "drunk",
+        "truck",
+        "run",
+        "junk",
+        "rank",
+        "tank",
+        "true",
+        "tuck"
+      ],
+      "question": {
+        "wordId": "trunk",
+        "stem": "选择 \"trunk\" 的正确中文意思：",
+        "correct": "n.大衣箱,皮箱;(汽车后部)行李箱;树干,躯干",
+        "options": [
+          "n.大衣箱,皮箱;(汽车后部)行李箱;树干,躯干",
+          "a.醉酒的；(喻)陶醉的 n.酗酒者，醉汉",
+          "v.跑；流，淌；蔓延，伸展；经营；运转",
+          "n.卡车,载重汽车"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根分析：trunk的核心含义与\"n.大衣箱,皮箱;(汽车后部)行李箱;树干,躯干\"相关",
+        "similarWarning": "注意区分：trunk 与 drunk, truck, run, junk, rank, tank, true, tuck 的拼写差异",
+        "extendedMeaning": "暂无引申义数据",
+        "examUsage": "暂无真题数据"
+      }
+    }
+  ]
+}

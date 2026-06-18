@@ -1,0 +1,1698 @@
+{
+  "batchId": 29,
+  "words": [
+    {
+      "id": "era",
+      "word": "era",
+      "phonetic": "/'iərə/",
+      "meaning": "n.时代,年代,阶段,纪元",
+      "similar": [
+        "erase",
+        "extra",
+        "opera",
+        "zebra"
+      ],
+      "question": {
+        "wordId": "era",
+        "stem": "选择 \"era\" 的正确中文意思：",
+        "correct": "n.时代,年代,阶段,纪元",
+        "options": [
+          "a.额外的,附加的 n.附加物,额外的东西",
+          "v.擦掉;删去;消磁",
+          "n.歌剧",
+          "n.时代,年代,阶段,纪元"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'aera'（计数用的铜板，后引申为从某个起点开始计算的时间段），核心动作为‘从某个基准点开始计数的时间段’；与‘epoch’（强调事件转折点）不同，era 更强调一个完整的历史分期或长时段。",
+        "similarWarning": "erase（v.擦除，删除）：era + s（字母s代表擦除动作的‘扫过’）；extra（adj.额外的）：er（era变体）+ xtra（=extra，超出‘时代’的常规）；opera（n.歌剧）：o（圆）+ per（贯穿）+ a（艺术），与era无直接拼写关联；zebra（n.斑马）：z（斑纹）+ ebra（era变体，无意义）。重点辨析：era vs. erase——后者多一个s，意为‘擦掉’一个时代（抹除）。",
+        "extendedMeaning": "在考研真题中可指‘地质年代’（如 Mesozoic era 中生代）或‘重要历史阶段’（如 digital era 数字时代），但非基础释义。",
+        "examUsage": "常见搭配：the ... era（……时代），如 the post-war era（战后时代）；真题题眼中常与‘period’、‘age’同义替换，但无特殊干扰项考点，故省略本项。"
+      }
+    },
+    {
+      "id": "erase",
+      "word": "erase",
+      "phonetic": "/i'reiz/",
+      "meaning": "v.擦掉;删去;消磁",
+      "similar": [
+        "ease",
+        "elapse",
+        "grease",
+        "phrase",
+        "praise",
+        "era",
+        "base",
+        "east"
+      ],
+      "question": {
+        "wordId": "erase",
+        "stem": "选择 \"erase\" 的正确中文意思：",
+        "correct": "v.擦掉;删去;消磁",
+        "options": [
+          "vi．(时间)溜走；(光阴)逝去",
+          "v.擦掉;删去;消磁",
+          "n.动物脂,油脂,润滑脂 v.抹油,润滑",
+          "v.减轻;使舒适,使安心 n.容易;舒适,悠闲"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根 e- (出/去) + rad/ras (刮擦) → 刮掉表面痕迹，核心物理动作为‘刮除表面’",
+        "similarWarning": "erase vs. ease (v.减轻，n.轻松): erase含‘擦除’动作，ease含‘舒适’状态，区别在r与擦除动作相关；elapse (v.时间流逝): elapse含‘滑过’义，与erase无直接拼写混淆",
+        "extendedMeaning": "考研中常引申为‘消除(记忆/印象)’，如‘erase the memory’ (消除记忆)，或‘erase the boundary’ (消除界限)，非字面擦除",
+        "examUsage": "真题常考搭配‘erase from’ (从…中擦除)，如‘erase the data from the disk’ (从磁盘擦除数据)，或干扰项中与‘delete’ (删除) 辨析：erase强调物理擦除痕迹，delete强调逻辑移除"
+      }
+    },
+    {
+      "id": "erect",
+      "word": "erect",
+      "phonetic": "/i'rekt/",
+      "meaning": "v.树立,建立,使竖立 a.直立的,垂直的",
+      "similar": [
+        "eject",
+        "elect",
+        "defect",
+        "detect",
+        "direct",
+        "effect",
+        "expect",
+        "reject"
+      ],
+      "question": {
+        "wordId": "erect",
+        "stem": "选择 \"erect\" 的正确中文意思：",
+        "correct": "v.树立,建立,使竖立 a.直立的,垂直的",
+        "options": [
+          "v.树立,建立,使竖立 a.直立的,垂直的",
+          "v.喷射,排出;驱逐",
+          "v.选举,推选;选择,作出选择",
+          "n.过失;缺点;不足"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：e-（出） + rect（直，正）。核心动作：使从弯曲状态变为笔直。源于拉丁语erigere（竖立），本义为“把某物拉直或立起来”，引申为“建立、设立”。",
+        "similarWarning": "eject（向外扔，e-+ject-扔）、elect（选出，e-+lect-选择）、perfect（完成，per-彻底+fect-做）、defect（缺陷，de-向下+fect-做，即做得不好）、detect（察觉，de-脱离+fect-覆盖，即揭开）、direct（指引，di-分开+rect-直，即把方向拉直）、effect（效果，ef-出+fect-做，即做出来的结果）、expect（期待，ex-出+spect-看）。对比：erect强调“竖立”的物理动作，direct强调“引导”的方向性，effect强调“结果”。",
+        "extendedMeaning": "考研中常考其动词义“建立（机构、制度等）”，与establish同义，但更强调从无到有的竖立过程。例如：erect a monument（竖立纪念碑）→erect a system（建立体系）。",
+        "examUsage": "真题考点：①erect与establish、set up互换；②erect的形容词义“直立的”在科技文中描述物体状态，如erect posture（直立姿势）。"
+      }
+    },
+    {
+      "id": "erosion",
+      "word": "erosion",
+      "phonetic": "/i'rəuʒən/",
+      "meaning": "n.腐蚀,磨损;削弱,减少",
+      "similar": [
+        "emotion",
+        "version",
+        "explosion",
+        "provision",
+        "decision"
+      ],
+      "question": {
+        "wordId": "erosion",
+        "stem": "选择 \"erosion\" 的正确中文意思：",
+        "correct": "n.腐蚀,磨损;削弱,减少",
+        "options": [
+          "n.腐蚀,磨损;削弱,减少",
+          "n.爆炸,爆发",
+          "n.情绪,情感,感情",
+          "n.版本;译本,译文;说法"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'erodere' (e- 'out' + rodere 'to gnaw')，核心物理动作是‘向外啃咬’。e- (出) + rod- (咬) + -ion (名词后缀)，字面为‘咬出/啃掉’的过程，引申为自然界的‘腐蚀、侵蚀’（水流/风沙对地表）及抽象领域的‘逐步削弱、减少’（权力/价值/信心）。",
+        "similarWarning": "emotion (情感，e- + mot- 移动) vs erosion (侵蚀，e- + rod- 咬)：差在 mot-/rod-；version (版本，vers- 转) vs erosion：差在 vers-/rod-；explosion (爆炸，ex- + plod- 爆裂) vs erosion：差在 plod-/rod-；provision (供应，pro- + vis- 看) vs erosion：差在 vis-/rod-；decision (决定，de- + cis- 切) vs erosion：差在 cis-/rod-。",
+        "extendedMeaning": "考研中常考‘逐步削弱、减少’的抽象义，如 'the erosion of public trust' (公众信任的削弱) 或 'currency erosion' (货币贬值/购买力下降)，强调缓慢、持续的损耗过程。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "erroneous",
+      "word": "erroneous",
+      "phonetic": "/i'rəuniəs/",
+      "meaning": "a.错误的,不正确的",
+      "similar": [],
+      "question": {
+        "wordId": "erroneous",
+        "stem": "选择 \"erroneous\" 的正确中文意思：",
+        "correct": "a.错误的,不正确的",
+        "options": [
+          "n.日光,日照；晴天；",
+          "a.错误的,不正确的",
+          "n.(正式的)宴会 vi.参加宴会 vt.宴情",
+          "n.实体;存在(物);组织,机构;本质"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根err-（漫游、偏离） + 后缀-aneous（具有…性质的）。核心物理动作是“偏离正轨”，引申为“偏离正确标准或事实”，即错误的、不正确的。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "error",
+      "word": "error",
+      "phonetic": "/'erə/",
+      "meaning": "n.错误,过失",
+      "similar": [
+        "terror",
+        "horror",
+        "mirror",
+        "arrow",
+        "prior"
+      ],
+      "question": {
+        "wordId": "error",
+        "stem": "选择 \"error\" 的正确中文意思：",
+        "correct": "n.错误,过失",
+        "options": [
+          "n.镜子;反映,反射 v.反映,反射",
+          "n.错误,过失",
+          "n.恐怖;可怕的人(事)",
+          "n.恐怖,战栗"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'errare'（流浪、偏离），'er-'（离开）+ 'rare'（游荡）。核心动作是偏离正确路径或标准，引申为判断或行为上的错误。",
+        "similarWarning": "辨析：terror（恐怖，t-惊吓）+ horror（惊骇，h-毛骨悚然）+ mirror（镜子，m-反射）+ arrow（箭，a-尖锐）+ prior（先前的，p-优先）。与error（错误）拼写差异在于首字母和结尾，error强调偏离标准，其他各有特定含义。",
+        "extendedMeaning": "在计算机或数学语境中常指偏差、误差（如error margin）；在统计或实验中指随机误差，区别于系统性错误（mistake）。",
+        "examUsage": "考研真题中常考搭配：trial and error（反复试验，试错法），如'Learning involves trial and error.' 或作干扰项，需区分error（客观错误）与fault（责任过失）。"
+      }
+    },
+    {
+      "id": "erupt",
+      "word": "erupt",
+      "phonetic": "/i'rʌpt/",
+      "meaning": "v.(尤指火山)爆发",
+      "similar": [
+        "abrupt",
+        "rust",
+        "crust",
+        "erect",
+        "trust"
+      ],
+      "question": {
+        "wordId": "erupt",
+        "stem": "选择 \"erupt\" 的正确中文意思：",
+        "correct": "v.(尤指火山)爆发",
+        "options": [
+          "n.铁锈 v.(使)生锈",
+          "a.突然的,出其不意的；(行为等)粗鲁无礼的",
+          "v.(尤指火山)爆发",
+          "n.外皮,壳;地壳"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根 e- (向外) + rupt (打破/断裂) → 向外打破/断裂 → (尤指火山)爆发。物理动作：内部压力冲破表层向外喷出。",
+        "similarWarning": "abrupt (ab-离开 + rupt → 突然断裂 → 突然的/唐突的)；erupt (e-向外 + rupt → 向外破裂 → 爆发)。差异在词缀 e- 与 ab-，一个强调向外，一个强调离开。",
+        "extendedMeaning": "考研僻义：① (冲突/危机)爆发/突然发生 (如 war erupts)；② (皮肤)出疹 (如 rash erupts)。",
+        "examUsage": "真题考点：常与 outbreak 同义替换，但 erupt 更强调突然性和爆发力。搭配：erupt into (突然陷入/突然变成)。"
+      }
+    },
+    {
+      "id": "escalate",
+      "word": "escalate",
+      "phonetic": "/'eskəleit/",
+      "meaning": "v.(使)逐步增长(或发展)，(使)逐步升级",
+      "similar": [
+        "escape",
+        "estate",
+        "salute",
+        "isolate",
+        "desolate",
+        "estimate",
+        "evaluate"
+      ],
+      "question": {
+        "wordId": "escalate",
+        "stem": "选择 \"escalate\" 的正确中文意思：",
+        "correct": "v.(使)逐步增长(或发展)，(使)逐步升级",
+        "options": [
+          "v./n.敬礼,鸣礼炮;迎接,欢迎",
+          "n.房地产;不动产;所有权;地位;生活状况",
+          "n.逃跑,逃脱 v.逃跑;避开,避免",
+          "v.(使)逐步增长(或发展)，(使)逐步升级"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'scala'（梯子），前缀e-（向外）+ scala（梯子）→ 像爬梯子一样一级级上升。核心物理动作：沿阶梯向上移动，引申为程度、规模或强度的逐步升级。",
+        "similarWarning": "escalate vs. evaluate：escalate含 'scal'（梯子），强调升级；evaluate含 'val'（价值），意为评估。escalate vs. isolate：escalate有 'scal'，isolate有 'sol'（单独），意为孤立。",
+        "extendedMeaning": "考研僻义：指冲突、战争、价格、风险等抽象事物的急剧恶化或扩大，如 'escalate tensions'（加剧紧张局势），'escalate costs'（成本激增）。",
+        "examUsage": "真题考点：常与介词 'into' 连用，如 'escalate into a full-scale war'（升级为全面战争）；也用于被动结构 'be escalated by'。阅读中常作为同义替换词，对应 'intensify'、'heighten'、'increase sharply'。"
+      }
+    },
+    {
+      "id": "escape",
+      "word": "escape",
+      "phonetic": "/ɪ'skeɪp/",
+      "meaning": "n.逃跑,逃脱 v.逃跑;避开,避免",
+      "similar": [
+        "cape",
+        "scale",
+        "scare",
+        "scope",
+        "shape",
+        "estate",
+        "scrape",
+        "escalate"
+      ],
+      "question": {
+        "wordId": "escape",
+        "stem": "选择 \"escape\" 的正确中文意思：",
+        "correct": "n.逃跑,逃脱 v.逃跑;避开,避免",
+        "options": [
+          "n.逃跑,逃脱 v.逃跑;避开,避免",
+          "n.海角，岬；披肩，短披风",
+          "n.刻度;天平,磅秤;比例尺;规模;音阶;鱼鳞",
+          "n.惊恐,恐慌v.惊吓,受惊"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语ex-（出）+cappa（斗篷），原指“脱掉斗篷逃跑”，核心动作是“脱离束缚或危险环境”。",
+        "similarWarning": "escape vs. scrape: escape指逃离，scrape指刮擦；escape vs. escalate: escape强调脱离，escalate指逐步升级。",
+        "extendedMeaning": "逃避（责任、现实等抽象概念），如：escape responsibility（逃避责任）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "escort",
+      "word": "escort",
+      "phonetic": "/'eskɔ:t/",
+      "meaning": "vt.护送(卫)；陪同 n.警卫，护送者；仪仗兵",
+      "similar": [
+        "score",
+        "scorn",
+        "scout",
+        "effort",
+        "export",
+        "resort"
+      ],
+      "question": {
+        "wordId": "escort",
+        "stem": "选择 \"escort\" 的正确中文意思：",
+        "correct": "vt.护送(卫)；陪同 n.警卫，护送者；仪仗兵",
+        "options": [
+          "vt.护送(卫)；陪同 n.警卫，护送者；仪仗兵",
+          "v./n.轻蔑,藐视",
+          "n.得分,分数;二十 v.得(分),记(…的)分数",
+          "n.侦察员,侦察机(舰) v.搜索,侦察"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源于古法语'escorte'，由ex-（向外）与拉丁语'corrigere'（纠正、引导）结合，核心动作是'引导某人向外/安全通过'，引申为护送或陪同。",
+        "similarWarning": "escort vs. export: escort（e+s+c+ort）强调'引导保护'；export（ex+port，向外+港口）意为'出口'。escort vs. effort: escort（e+s+c+ort）动作是护送；effort（ef+fort，向外+力量）意为'努力'。",
+        "extendedMeaning": "在考研阅读中，'escort'可引申为'（军事）护航'或'（社交）陪伴者'，如'escort carrier'（护航航空母舰）或'escort service'（陪护服务）。",
+        "examUsage": "真题考点：'under the escort of'（在…护送下）常作为细节题定位短语；'escort sb. to safety'（护送某人至安全处）为翻译考点。"
+      }
+    },
+    {
+      "id": "essay",
+      "word": "essay",
+      "phonetic": "/'esei/",
+      "meaning": "n.文章,短文",
+      "similar": [
+        "stay",
+        "sway"
+      ],
+      "question": {
+        "wordId": "essay",
+        "stem": "选择 \"essay\" 的正确中文意思：",
+        "correct": "n.文章,短文",
+        "options": [
+          "vi.摇动；倾斜 vt.使摇动 n.摇动；影响力",
+          "vi.逗留；保持vt.停止，延缓n.逗留，停留",
+          "n.带(子);录音带,磁带 v.录音;系,捆",
+          "n.文章,短文"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "essay源自古法语'essai'，意为尝试、试验，核心动作是'尝试'。词根es-（向外）+ -say（说），即'向外说出'，引申为'尝试性的写作'，即短文、文章。",
+        "similarWarning": "say（说）→ essay（尝试说成文）；easy（容易的）→ essay（写文章不易）；stay（停留）→ essay（需动笔）；sway（摇摆）→ essay（观点需稳定）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "essence",
+      "word": "essence",
+      "phonetic": "/'esəns/",
+      "meaning": "n.本质,实质",
+      "similar": [
+        "absence",
+        "existence",
+        "messenger",
+        "residence",
+        "evidence",
+        "presence",
+        "sentence",
+        "sequence"
+      ],
+      "question": {
+        "wordId": "essence",
+        "stem": "选择 \"essence\" 的正确中文意思：",
+        "correct": "n.本质,实质",
+        "options": [
+          "n.存在,实在;生存,生活(方式)",
+          "n.缺乏，不存在；缺席，不在；缺席的时间",
+          "n.本质,实质",
+          "n.送信者,使者,传令兵"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 essentia（存在、本质），由 esse（存在）派生，-ence 为名词后缀。核心物理动作是“存在本身”，即某物之所以为其自身的根本属性。",
+        "similarWarning": "absence (n.缺席) vs essence (n.本质)：a-（离开）+ sence → 离开存在 → 缺席；essence 强调内在本质。existence (n.存在) vs essence：exist 侧重实存状态，essence 侧重内在实质。presence (n.在场) vs essence：pre-（前）+ sence → 在面前 → 在场；essence 不涉空间位置。",
+        "extendedMeaning": "【精髓，精华】指事物最核心、最精粹的部分。例：the essence of the argument（论证的精髓）。【香精，精油】化用自“植物精华”义。例：essence of rose（玫瑰精油）。",
+        "examUsage": "真题常考短语：in essence（本质上，实质上）。例：The two theories are different in essence.（这两种理论本质不同。）干扰项常与 existence（存在）混淆，注意区分“本质”与“实存”。"
+      }
+    },
+    {
+      "id": "essential",
+      "word": "essential",
+      "phonetic": "/i'senʃəl/",
+      "meaning": "a.本质的,基本的;净化的 n.本质;要素",
+      "similar": [
+        "potential",
+        "credential"
+      ],
+      "question": {
+        "wordId": "essential",
+        "stem": "选择 \"essential\" 的正确中文意思：",
+        "correct": "a.本质的,基本的;净化的 n.本质;要素",
+        "options": [
+          "n.正文，文本；原文；教科书",
+          "n.凭证，(pl.)国书，证明书",
+          "a.潜在的,可能的 n.潜能,潜力",
+          "a.本质的,基本的;净化的 n.本质;要素"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语essentia（本质），由esse（存在）的现在分词essent-加形容词后缀-ial构成。核心动作是“存在的根本”，指事物不可分离的内在属性。",
+        "similarWarning": "potential（潜在的）：由potent（有力的）+ial构成，强调可能性；credential（凭证）：由cred（相信）+ential构成，强调信任凭证。三者词根不同：essential重“存在”，potential重“潜力”，credential重“信用”。",
+        "extendedMeaning": "考研僻义：指“必不可少的，极其重要的”（如It is essential that...），在阅读中常作形容词表“核心的”，非仅“基本的”。",
+        "examUsage": "真题考点：It is essential that... (虚拟语气，should+动词原形，should可省)；搭配essential to/for。例句：Exercise is essential for good health.（真题阅读常用）"
+      }
+    },
+    {
+      "id": "establish",
+      "word": "establish",
+      "phonetic": "/ɪ'stæblɪʃ/",
+      "meaning": "v.建立,设立;安置,使定居",
+      "similar": [],
+      "question": {
+        "wordId": "establish",
+        "stem": "选择 \"establish\" 的正确中文意思：",
+        "correct": "v.建立,设立;安置,使定居",
+        "options": [
+          "n.化学",
+          "n.曲线,弯曲(物) v.弄弯,成曲形",
+          "v.建立,设立;安置,使定居",
+          "vt.加；增加(进)；进一步说/写 vi.(to)增添"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语stabilire（使稳固），由sta-（站立，来自PIE *sta-） + -blish（构成动词）。核心动作是“使…稳固站立”，即从无到有地创建并确保持续稳固。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研英语中常引申为“确立（权威、地位、事实等）”，如establish oneself as（确立…地位）、establish a fact（证实事实）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "establishment",
+      "word": "establishment",
+      "phonetic": "/i'stæbliʃmənt/",
+      "meaning": "n.建立,设立,建立的机构(或组织)",
+      "similar": [],
+      "question": {
+        "wordId": "establishment",
+        "stem": "选择 \"establishment\" 的正确中文意思：",
+        "correct": "n.建立,设立,建立的机构(或组织)",
+        "options": [
+          "n.建立,设立,建立的机构(或组织)",
+          "n.包裹,邮包,部分 v.打包,捆扎,分配",
+          "n.车费,船费;伙食;乘客 v.过活;进展;经营",
+          "a.符合条件的;(尤指婚姻等)合适(意)的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为stable（稳定），e-（加强）+stabl（稳定）+ish（使动）+ment（名词后缀）。核心动作：使事物稳固地立起来。从物理上的‘建立’引申为社会层面的‘机构、体制’。",
+        "similarWarning": "",
+        "extendedMeaning": "考研常考‘权势集团、当权派’（the Establishment），指在社会、政治或经济领域中拥有权力和影响力的传统体系或精英群体，如‘the political establishment’（政界当权派）。",
+        "examUsage": "考点搭配：‘the Establishment’（当权派、体制）在真题中常作为批判对象出现，与‘anti-establishment’（反体制）形成对立。例：The young generation challenged the old Establishment.（年轻一代挑战旧体制。）"
+      }
+    },
+    {
+      "id": "estate",
+      "word": "estate",
+      "phonetic": "/ɪ'steɪt/",
+      "meaning": "n.房地产;不动产;所有权;地位;生活状况",
+      "similar": [
+        "estimate",
+        "hesitate",
+        "skate",
+        "stake",
+        "stale",
+        "stare",
+        "escape",
+        "rotate"
+      ],
+      "question": {
+        "wordId": "estate",
+        "stem": "选择 \"estate\" 的正确中文意思：",
+        "correct": "n.房地产;不动产;所有权;地位;生活状况",
+        "options": [
+          "v.溜冰,滑冰 n.冰鞋",
+          "v.犹豫,踌躇;含糊,支吾",
+          "v./n.估计,估价;评估",
+          "n.房地产;不动产;所有权;地位;生活状况"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'status'（状态、地位），经古法语'estat'进入英语。词根'stat'意为'站立、固定'。核心物理动作为'处于某种固定状态'。引申为法律上固定的财产（不动产）、社会固定的阶层（地位）。",
+        "similarWarning": "state (国家/状态) vs estate (不动产)：state无e-前缀；estimate (估计) vs estate：estimate含in-（内）词根；stale (陈腐的) vs estate：stale无e-前缀且含a；stare (凝视) vs estate：stare无e-前缀且含r。",
+        "extendedMeaning": "在考研中常考'地产'义，尤指'大片私有土地'，如'country estate'（乡间庄园）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "esteem",
+      "word": "esteem",
+      "phonetic": "/i'sti:m/",
+      "meaning": "n.尊敬，尊重 vt.尊重，敬重；把…看作",
+      "similar": [
+        "seem",
+        "stem",
+        "steam",
+        "steel",
+        "steep",
+        "steer"
+      ],
+      "question": {
+        "wordId": "esteem",
+        "stem": "选择 \"esteem\" 的正确中文意思：",
+        "correct": "n.尊敬，尊重 vt.尊重，敬重；把…看作",
+        "options": [
+          "n.茎，干 vt.堵(挡)住 vi.起源于，由…造成",
+          "v.好像,似乎",
+          "n.水汽,蒸汽,水蒸气 v.蒸发;蒸;用蒸汽开动",
+          "n.尊敬，尊重 vt.尊重，敬重；把…看作"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "esteem 源自拉丁语 aestimare（估价、评价），本义为“评估价值”。后引申为“对某人或某物的价值给予高度评价”，即“尊重、敬重”。核心动作是“赋予高价值”，与“estimate（估计）”同源，但更侧重情感上的珍视。",
+        "similarWarning": "seem（似乎） vs. esteem：seem 无“t”尾，强调外观；esteem 有“t”，强调内心评价。stem（茎干；阻止） vs. esteem：stem 是“st-”开头表站立，esteem 是“est-”开头表价值。steam（蒸汽） vs. esteem：steam 含“a”表水汽，esteem 含“e”表评价。steel（钢铁） vs. esteem：steel 含“l”表金属，esteem 无“l”。steep（陡峭的） vs. esteem：steep 含“p”表坡度，esteem 含“m”表价值。steer（驾驶） vs. esteem：steer 含“r”表方向，esteem 含“m”表评价。",
+        "extendedMeaning": "考研僻义：作动词时，可表“认为，把…看作”（常接宾语补足语），如“esteem it an honor”（视为荣幸）。此义源于“估价”本义，在真题中常以被动结构出现。",
+        "examUsage": "真题考点：搭配“hold sb. in high esteem”（对某人极为尊重）是阅读中高频短语，常作为态度题选项。例句：The professor was held in high esteem by his colleagues.（这位教授深受同事尊敬。）"
+      }
+    },
+    {
+      "id": "estimate",
+      "word": "estimate",
+      "phonetic": "/'estimeit/",
+      "meaning": "v./n.估计,估价;评估",
+      "similar": [
+        "estate",
+        "intimate",
+        "ultimate",
+        "legitimate",
+        "stimulate",
+        "ventilate",
+        "climate",
+        "activate"
+      ],
+      "question": {
+        "wordId": "estimate",
+        "stem": "选择 \"estimate\" 的正确中文意思：",
+        "correct": "v./n.估计,估价;评估",
+        "options": [
+          "a.最后的,最终的;根本的",
+          "a.亲密的,密切的 n.熟友,熟人",
+          "n.房地产;不动产;所有权;地位;生活状况",
+          "v./n.估计,估价;评估"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'aestimare'（估价、评估），词根 'aestim-' 表示“价值、评价”，后缀 '-ate' 构成动词。核心物理动作是“对某物的价值或数量进行衡量和判断”，引申为“估计、估价”。",
+        "similarWarning": "形近词辨析：\n- estate /ɪˈsteɪt/：n. 地产，遗产（对比 'estimate' 多字母 'a' 少字母 'i'，词义侧重财产）\n- intimate /ˈɪntɪmət/：adj. 亲密的（对比 'estimate' 首字母 'e' 换 'i'，词根不同）\n- ultimate /ˈʌltɪmət/：adj. 最终的（对比 'estimate' 首字母 'e' 换 'u'，词根 'ultim-' 表“最后”）\n- legitimate /lɪˈdʒɪtɪmət/：adj. 合法的（对比 'estimate' 多 'leg-'，词根 'leg-' 表“法律”）",
+        "extendedMeaning": "考研僻义：在经济学语境下，'estimate' 可引申为“（对成本、时间等的）粗略计算”或“判断、看法”，如 'rough estimate'（粗略估算）或 'conservative estimate'（保守估计）。",
+        "examUsage": "真题考点：常与介词 'at' 搭配，如 'estimate sth. at...'（估计某事为……），或用于被动语态 'be estimated to do'（据估计做……）。例句：The project is estimated to cost $10 million.（这个项目估计耗资1000万美元。）"
+      }
+    },
+    {
+      "id": "eternal",
+      "word": "eternal",
+      "phonetic": "/i'tə:nəl/",
+      "meaning": "n.永久的,永恒的",
+      "similar": [
+        "external",
+        "internal",
+        "interval",
+        "material",
+        "terminal"
+      ],
+      "question": {
+        "wordId": "eternal",
+        "stem": "选择 \"eternal\" 的正确中文意思：",
+        "correct": "n.永久的,永恒的",
+        "options": [
+          "n.间隔,间歇;(幕间或工间)休息",
+          "a.内部的,内的;国内的,内政的",
+          "a.外部的;客观的;外国的;表面的;[医]外用的",
+          "n.永久的,永恒的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“aeternus”（永恒的），由“aevum”（时代、年龄）演变而来，核心动作是“持续存在的时间跨度无限延伸”，强调无始无终的持续状态。",
+        "similarWarning": "external（外部的）、internal（内部的）、interval（间隔）、terminal（终端的）——这些词与eternal拼写相似，但词根不同：external强调“外”，internal强调“内”，interval强调“之间”，terminal强调“终点”，而eternal强调“永恒”。",
+        "extendedMeaning": "在考研外刊中常引申为“看似永无止境的（抽象事物）”，如“eternal debate”（无休止的争论）、“eternal truth”（永恒真理），不限于时间，也可指逻辑或情感上的持久性。",
+        "examUsage": "常作为干扰项与“perpetual”（持续不断的）、“everlasting”（永久的）辨析；真题中可能出现在“eternal life”（永生）或“eternal principles”（永恒原则）语境，需注意其哲学或宗教色彩，区别于普通时间词。"
+      }
+    },
+    {
+      "id": "ethnic",
+      "word": "ethnic",
+      "phonetic": "/'eθnik/",
+      "meaning": "a.种族的；人种学的",
+      "similar": [
+        "mechanic"
+      ],
+      "question": {
+        "wordId": "ethnic",
+        "stem": "选择 \"ethnic\" 的正确中文意思：",
+        "correct": "a.种族的；人种学的",
+        "options": [
+          "v./n.刺,刺痛,剧痛;刺,叮",
+          "n.技工,机修工",
+          "a.种族的；人种学的",
+          "a.(to)相反的,矛盾的 n.反对,矛盾;相反"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'ethnos'（民族、种族），后缀-ic表示形容词。核心动作是'按血缘与文化划分的人群'，强调族群归属而非生物人种概念。",
+        "similarWarning": "与mechanic（机械的）对比：ethnic以e开头，mechanic以m开头；ethnic指人群属性，mechanic指机器属性。",
+        "extendedMeaning": "在考研中常引申为'民族特有的、文化群体的'，如ethnic minority（少数民族），ethnic conflict（种族冲突），侧重文化认同而非生物学分类。",
+        "examUsage": "真题常考搭配：ethnic group（族群），ethnic diversity（种族多样性），注意与racial（人种的）区分：racial更强调生理特征，ethnic强调文化传统。"
+      }
+    },
+    {
+      "id": "evacuate",
+      "word": "evacuate",
+      "phonetic": "/i'vækjueit/",
+      "meaning": "vt.撤离，疏散，排泄，剥夺",
+      "similar": [
+        "evaluate",
+        "evaporate",
+        "educate",
+        "execute",
+        "graduate"
+      ],
+      "question": {
+        "wordId": "evacuate",
+        "stem": "选择 \"evacuate\" 的正确中文意思：",
+        "correct": "vt.撤离，疏散，排泄，剥夺",
+        "options": [
+          "vt.撤离，疏散，排泄，剥夺",
+          "v.估价,评价;求…的值",
+          "v.蒸发,挥发;沉淀;发射;消失",
+          "v.教育,培养,训练"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "e-（向外）+ vacu-（空）+ -ate（动词后缀）→ 使空间变空 → 撤离、疏散。核心动作：将人/物移出某地使其变空。",
+        "similarWarning": "evaluate（评估，-val-价值） vs evacuate（疏散，-vacu-空）；evaporate（蒸发，-vapor-蒸汽） vs evacuate（疏散）；educate（教育，-duc-引导） vs evacuate（疏散）；execute（执行，-secut-跟随） vs evacuate（疏散）；graduate（毕业，-grad-步骤） vs evacuate（疏散）。差异均在词根：-vacu-（空）为独有特征。",
+        "extendedMeaning": "（医学/生理）排泄，排空（如evacuate the bowels）；法律上指（强制）剥夺（财产或权利）。",
+        "examUsage": "真题考点：evacuate the area（疏散区域）；evacuate civilians from the war zone（从战区疏散平民）。常与from搭配，强调从某地移出。"
+      }
+    },
+    {
+      "id": "evade",
+      "word": "evade",
+      "phonetic": "/i'veid/",
+      "meaning": "vt.逃避，回避；避开，躲避",
+      "similar": [
+        "decade",
+        "invade",
+        "eve",
+        "ease",
+        "fade",
+        "vase",
+        "blade",
+        "erase"
+      ],
+      "question": {
+        "wordId": "evade",
+        "stem": "选择 \"evade\" 的正确中文意思：",
+        "correct": "vt.逃避，回避；避开，躲避",
+        "options": [
+          "n.(节日等的)前夜,前夕",
+          "vt.逃避，回避；避开，躲避",
+          "vt.入侵,侵略,侵袭,侵扰",
+          "n.十年"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "e-（向外）+ vade（走）→向外走开→逃避，回避。核心动作：从某处或某情境中抽身离开。",
+        "similarWarning": "invade（in-进入 + vade→入侵），与evade字母差异为首字母e vs in，词义对立（逃避 vs 入侵）。decade（deca-十 + de→十年），与evade仅首字母不同，词义无关联，易拼写混淆。",
+        "extendedMeaning": "（法律/税务）规避，逃（税）：如evade taxes（逃税）；evade responsibility（推卸责任）。",
+        "examUsage": "真题中常考evade与avoid辨析：evade强调通过技巧或欺骗性手段逃避（如evade capture），而avoid侧重主动避开。固定搭配：evade one's duties（逃避职责）。"
+      }
+    },
+    {
+      "id": "evaluate",
+      "word": "evaluate",
+      "phonetic": "/i'væljueit/",
+      "meaning": "v.估价,评价;求…的值",
+      "similar": [
+        "evacuate",
+        "evaporate",
+        "salute",
+        "escalate",
+        "graduate",
+        "valuable",
+        "invaluable"
+      ],
+      "question": {
+        "wordId": "evaluate",
+        "stem": "选择 \"evaluate\" 的正确中文意思：",
+        "correct": "v.估价,评价;求…的值",
+        "options": [
+          "v.估价,评价;求…的值",
+          "vt.撤离，疏散，排泄，剥夺",
+          "v./n.敬礼,鸣礼炮;迎接,欢迎",
+          "v.蒸发,挥发;沉淀;发射;消失"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：e-（向外）+ val（价值）+ -uate（动词后缀）。核心物理动作：把内在的价值“拿出来”衡量。源自古法语evaluer，原指评估财产价值，后引申为对事物优劣、数量或数值的判定。",
+        "similarWarning": "evacuate（疏散）：e-（向外）+ vacu（空）+ -ate，核心是“清空”；evaluate侧重“估值”。evaporate（蒸发）：e-（向外）+ vapor（蒸汽）+ -ate，核心是“汽化”；与evaluate仅差字母p vs l。",
+        "extendedMeaning": "考研常考“求…的值”（数学语境，如evaluate an expression计算表达式），或“评价”（抽象语境，如evaluate the effectiveness评估有效性）。",
+        "examUsage": "真题中常与assess（评估）、appraise（鉴定）同义替换，但evaluate更强调量化或系统分析。固定搭配：evaluate the impact（评估影响），evaluate performance（评价表现）。"
+      }
+    },
+    {
+      "id": "evaporate",
+      "word": "evaporate",
+      "phonetic": "/i'væpəreit/",
+      "meaning": "v.蒸发,挥发;沉淀;发射;消失",
+      "similar": [
+        "elaborate",
+        "evacuate",
+        "evaluate",
+        "exaggerate"
+      ],
+      "question": {
+        "wordId": "evaporate",
+        "stem": "选择 \"evaporate\" 的正确中文意思：",
+        "correct": "v.蒸发,挥发;沉淀;发射;消失",
+        "options": [
+          "v.估价,评价;求…的值",
+          "vt.撤离，疏散，排泄，剥夺",
+          "v./a.精心制作(的);详细阐述(的)",
+          "v.蒸发,挥发;沉淀;发射;消失"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根：e-(出) + vapor(蒸汽) + -ate(动词后缀)。核心物理动作：蒸汽从液体中向外释放，即蒸发。引申为物质消失或消散。",
+        "similarWarning": "形近词差异：elaborate (e-出 + labor工作 + -ate，精心制作，详尽阐述)；evacuate (e-出 + vacu-空 + -ate，疏散，撤离)；evaluate (e-出 + valu-价值 + -ate，评估)；evaporate (e-出 + vapor蒸汽 + -ate，蒸发)。核心区别在于词根vapor(蒸汽)与labor(工作)、vacu(空)、valu(价值)不同。",
+        "extendedMeaning": "考研僻义：消失，消散（指抽象事物如希望、信心、资金等逐渐耗尽或不复存在）。例：His hopes evaporated. (他的希望破灭了。)",
+        "examUsage": "真题考点：常用于描述液体或抽象概念的消失过程，常与away连用。例句：The water evaporated quickly in the sun. (水在阳光下迅速蒸发。) 注意与evacuate(疏散)在拼写和含义上的区分。"
+      }
+    },
+    {
+      "id": "eve",
+      "word": "eve",
+      "phonetic": "/i:v/",
+      "meaning": "n.(节日等的)前夜,前夕",
+      "similar": [
+        "evade",
+        "evoke",
+        "fever",
+        "heave",
+        "lever",
+        "nerve",
+        "serve",
+        "seven"
+      ],
+      "question": {
+        "wordId": "eve",
+        "stem": "选择 \"eve\" 的正确中文意思：",
+        "correct": "n.(节日等的)前夜,前夕",
+        "options": [
+          "n.发热,狂热",
+          "vt.唤起(回忆、感情等)；引起",
+          "vt.逃避，回避；避开，躲避",
+          "n.(节日等的)前夜,前夕"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源来自拉丁语‘vigilia’（守夜），后简化为‘eve’，核心动作是‘在重大事件发生前的夜晚’，强调时间上的前夕状态。",
+        "similarWarning": "even（甚至/平坦的：字母‘n’代表平衡），ever（曾经：字母‘r’表示时间延续），eye（眼睛：字母‘y’像眼形），evade（逃避：字母‘v’+‘ade’表示离开动作），event（事件：‘vent’表示到来），every（每一个：‘ever’+‘y’表示所有），evoke（唤起：‘voke’表示呼喊），fever（发烧：‘f’+‘ever’表示热状态）。",
+        "extendedMeaning": "无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "eventually",
+      "word": "eventually",
+      "phonetic": "/i'ventʃuəli/",
+      "meaning": "ad.终于,最后",
+      "similar": [],
+      "question": {
+        "wordId": "eventually",
+        "stem": "选择 \"eventually\" 的正确中文意思：",
+        "correct": "ad.终于,最后",
+        "options": [
+          "n.血管;静脉;叶脉;纹理;情绪 vt.使成脉络",
+          "a.加很多香料的；(口味)浓郁的",
+          "ad.终于,最后",
+          "a.和蔼的,文雅的,有礼貌的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语eventus（结果），由e-（出）+venire（来）构成，核心动作是“最终到来”。eventually强调经过一系列过程后“最终”达到某种结果状态，侧重时间线上的终点。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研阅读中，eventually常表示“经过长期演变或复杂过程后最终”，而非简单的时间先后。例如：The technology eventually changed the industry.（该技术最终改变了整个行业。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "everybody",
+      "word": "everybody",
+      "phonetic": "/'evriˌbədi/",
+      "meaning": "pron.(everyone)每人，人人",
+      "similar": [
+        "everyday",
+        "everyone"
+      ],
+      "question": {
+        "wordId": "everybody",
+        "stem": "选择 \"everybody\" 的正确中文意思：",
+        "correct": "pron.(everyone)每人，人人",
+        "options": [
+          "v./n.抓住,抓紧;掌握,领会",
+          "adj.每日的，日常的",
+          "pron.(everyone)每人，人人",
+          "pron.(everybody)每人，人人，各人"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "every（每个）+ body（身体/人）→ 字面义为“每个身体”，引申为“每人，人人”。核心物理动作是“指代所有个体”。",
+        "similarWarning": "everyday（每天的，日常的）：every+day，侧重“每日发生”。everyone（每人）：every+one，与everybody同义，但everyone更强调个体，everybody更强调整体。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "everyday",
+      "word": "everyday",
+      "phonetic": "/'evridei/",
+      "meaning": "adj.每日的，日常的",
+      "similar": [
+        "everybody",
+        "everyone"
+      ],
+      "question": {
+        "wordId": "everyday",
+        "stem": "选择 \"everyday\" 的正确中文意思：",
+        "correct": "adj.每日的，日常的",
+        "options": [
+          "pron.(everybody)每人，人人，各人",
+          "pron.(everyone)每人，人人",
+          "adj.每日的，日常的",
+          "a.(好)孤独的；偏僻的；单一的，唯一的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "every（每）+ day（天）→ 每一天的，引申为日常的、普通的。",
+        "similarWarning": "everybody（每个人）强调人；everyone（每个人）同义；everyday（日常的）强调频率或普通性。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "everyone",
+      "word": "everyone",
+      "phonetic": "/'evriwʌn/",
+      "meaning": "pron.(everybody)每人，人人，各人",
+      "similar": [
+        "everybody",
+        "everyday",
+        "overcome"
+      ],
+      "question": {
+        "wordId": "everyone",
+        "stem": "选择 \"everyone\" 的正确中文意思：",
+        "correct": "pron.(everybody)每人，人人，各人",
+        "options": [
+          "pron.(everybody)每人，人人，各人",
+          "v.战胜,克服",
+          "pron.(everyone)每人，人人",
+          "adj.每日的，日常的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自 every（每个）+ one（一个人），字面即“每个人”，强调个体而非整体。",
+        "similarWarning": "everybody（每个人，侧重整体） vs everyone（每个人，侧重个体）；everyday（每天的，日常的）；overcome（克服）；everything（每件事）；everywhere（到处）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "evidence",
+      "word": "evidence",
+      "phonetic": "/'evidəns/",
+      "meaning": "n.明显;显著;根据;证据;迹象",
+      "similar": [
+        "residence",
+        "evident",
+        "existence",
+        "incidence",
+        "essence",
+        "guidance",
+        "violence",
+        "confidence"
+      ],
+      "question": {
+        "wordId": "evidence",
+        "stem": "选择 \"evidence\" 的正确中文意思：",
+        "correct": "n.明显;显著;根据;证据;迹象",
+        "options": [
+          "n.存在,实在;生存,生活(方式)",
+          "a.明显的,明白的",
+          "n.住处,住宅",
+          "n.明显;显著;根据;证据;迹象"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根e-（出）+ vid（看）+ -ence（名词后缀）→ 从某物中“看出来”的东西 → 引申为“证据、迹象”。核心动作：把隐藏的东西“看”出来。",
+        "similarWarning": "形近词辨析：\n- evidence（证据）：e-（出）+ vid（看）+ -ence → 能看出事实的东西。\n- residence（居住）：re-（回/反复）+ sid（坐）+ -ence → 反复坐的地方。\n- evident（明显的）：e-（出）+ vid（看）+ -ent（形容词后缀）→ 看得出来的。\n- existence（存在）：ex-（出）+ ist（站）+ -ence → 站出来 → 存在。\n- incidence（发生率）：in-（进入）+cid（落下）+ -ence → 落在…上 → 发生。\n- essence（本质）：es-（出）+ sent（存在）+ -ence → 存在的基础 → 本质。\n- silence（沉默）：sil（安静）+ -ence → 安静状态。\n- guidance（指导）：guide（引导）+ -ance → 引导行为。",
+        "extendedMeaning": "考研僻义：n. 迹象（signs that show something exists or has happened），常与of连用，表示“…的迹象”。例如：evidence of global warming（全球变暖的迹象）。",
+        "examUsage": "真题考点：\n- 固定搭配：in evidence（明显的，引人注目的）。\n- 高频考点：evidence作不可数名词，不能加-s，不能说evidences。\n- 例句：There is growing evidence that the climate is changing.（越来越多的证据表明气候在变化。）"
+      }
+    },
+    {
+      "id": "evident",
+      "word": "evident",
+      "phonetic": "/'evidənt/",
+      "meaning": "a.明显的,明白的",
+      "similar": [
+        "evidence",
+        "resident",
+        "eminent",
+        "accident",
+        "dividend",
+        "incident"
+      ],
+      "question": {
+        "wordId": "evident",
+        "stem": "选择 \"evident\" 的正确中文意思：",
+        "correct": "a.明显的,明白的",
+        "options": [
+          "a.明显的,明白的",
+          "n.明显;显著;根据;证据;迹象",
+          "a.显赫的;杰出的;有名的;优良的",
+          "n.居民,常住者 a.居住的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语evidens，由e-（出） + videre（看）构成，核心动作是“看得出来的”，即事物明摆着能被看到，引申为“明显的”。",
+        "similarWarning": "evident vs. eminent：evident强调“明显可见”，eminent（e-出 + min-突出）指“突出的、杰出的”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "evil",
+      "word": "evil",
+      "phonetic": "/'i:vəl/",
+      "meaning": "a.邪恶的,罪恶的 n.邪恶,罪恶",
+      "similar": [
+        "devil",
+        "avail",
+        "civil",
+        "exile"
+      ],
+      "question": {
+        "wordId": "evil",
+        "stem": "选择 \"evil\" 的正确中文意思：",
+        "correct": "a.邪恶的,罪恶的 n.邪恶,罪恶",
+        "options": [
+          "a.邪恶的,罪恶的 n.邪恶,罪恶",
+          "n.[一般用于否定句或疑问句中]效用,利益",
+          "n.魔鬼",
+          "a.公民的,市民的;民间的;民用的;有礼貌的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源于古英语yfel，与古高地德语ubil同源，核心物理动作为‘过度、超出’，引申为‘超出正常道德标准’，即邪恶。",
+        "similarWarning": "devil（魔鬼）含d-（神）词根，与evil拼写差首字母d，词义指向‘魔鬼’；avail（有用）含vail（价值），与evil差首字母a及v，词义相反；civil（公民的）含civ-（公民），与evil差首字母c及i，词义中性；exile（流放）含ex-（向外），与evil差x及i，词义为‘放逐’；level（水平）含lev-（升起），与evil差l及v，词义为‘平等’。",
+        "extendedMeaning": "考研中常见‘灾祸、不幸’义，如‘the evils of war’（战争之祸），或作形容词表‘有害的’，如‘evil effects’（有害影响）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "evoke",
+      "word": "evoke",
+      "phonetic": "/i'vəuk/",
+      "meaning": "vt.唤起(回忆、感情等)；引起",
+      "similar": [
+        "devote",
+        "evolve",
+        "eve",
+        "coke",
+        "poke",
+        "vote",
+        "choke",
+        "evade"
+      ],
+      "question": {
+        "wordId": "evoke",
+        "stem": "选择 \"evoke\" 的正确中文意思：",
+        "correct": "vt.唤起(回忆、感情等)；引起",
+        "options": [
+          "vt.唤起(回忆、感情等)；引起",
+          "v.(to)奉献,致力",
+          "n.(节日等的)前夜,前夕",
+          "v.(使)发展;(使)进化;(使)进展"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 e-（出/向外）+ vok（声音/叫喊）+ e，核心动作为“发出声音”或“召唤出来”。引申为唤起回忆、情感等抽象事物，强调从内部或潜在状态中激发出来。",
+        "similarWarning": "devote（de-向下+vot=发誓→奉献）；evolve（e-出+volv=卷→进化）；区别在于词根vok（声音）与vot（誓言）、volv（卷）不同。",
+        "extendedMeaning": "在考研阅读中常指“引发（某种反应、联想）”，如 evoke a sense of nostalgia（唤起怀旧感），或 evoke criticism（招致批评）。",
+        "examUsage": "高频搭配：evoke memories/emotions/response（唤起记忆/情感/反应）。真题中常作为观点态度题的干扰项，注意与“arouse”近义但更侧重“召唤出来”的主动意味。"
+      }
+    },
+    {
+      "id": "evolution",
+      "word": "evolution",
+      "phonetic": "/ˌi:və'lu:ʃən/",
+      "meaning": "n.进化,演变,发展,进展",
+      "similar": [
+        "revolution",
+        "resolution",
+        "solution",
+        "revelation",
+        "emotion",
+        "vocation",
+        "pollution",
+        "production"
+      ],
+      "question": {
+        "wordId": "evolution",
+        "stem": "选择 \"evolution\" 的正确中文意思：",
+        "correct": "n.进化,演变,发展,进展",
+        "options": [
+          "n.革命;旋转,转数",
+          "n.进化,演变,发展,进展",
+          "n.坚决,决心;决定,决议",
+          "n.解答,解决办法;溶解,溶液"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 evolvere（e-向外 + volvere 卷/转），核心动作是“向外卷开、展开”。原指书本卷轴的展开，后引申为事物逐渐展开、发展的过程。在生物学中特指“进化”，即物种通过长期变化逐渐展开的过程。",
+        "similarWarning": "revolution（re-回/反 + volution 转）→ 回转、革命，强调剧烈变革；evolution（e-向外）→ 展开、进化，强调渐进演变。",
+        "extendedMeaning": "在考研英语中，evolution 常引申为“逐步形成的过程”，如 the evolution of the universe（宇宙的演化）、the evolution of technology（技术的演进），强调非跳跃式的自然发展。",
+        "examUsage": "真题常考搭配：the theory of evolution（进化论），以及 evolution from...to...（从……到……的演变）。干扰项常将 evolution 与 revolution 混淆，注意区分渐进与剧变。"
+      }
+    },
+    {
+      "id": "evolve",
+      "word": "evolve",
+      "phonetic": "/i'vɒlv/",
+      "meaning": "v.(使)发展;(使)进化;(使)进展",
+      "similar": [
+        "revolve",
+        "involve",
+        "resolve",
+        "evoke",
+        "solve",
+        "valve"
+      ],
+      "question": {
+        "wordId": "evolve",
+        "stem": "选择 \"evolve\" 的正确中文意思：",
+        "correct": "v.(使)发展;(使)进化;(使)进展",
+        "options": [
+          "v.决心;(使)分解,溶解;决议 n.解决;决心",
+          "v.卷入,陷入,连累;包含,含有,涉及",
+          "v.(使)旋转;考虑;【天】公转,循环",
+          "v.(使)发展;(使)进化;(使)进展"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "e-(向外) + volv(卷，转) → 向外旋转展开 → 从内部逐渐发展、演化出来。核心物理动作是“卷开/展开”，强调缓慢、渐进的演变过程。",
+        "similarWarning": "revolve: re-(再) + volve → 反复旋转，指绕轴转动；involve: in-(进入) + volve → 卷入其中，引申为包含、涉及；resolve: re-(再) + solve(解开) → 再次解开 → 解决、决心，与volve无关。对比：evolve强调“展开进化”，revolve强调“循环转动”。",
+        "extendedMeaning": "在考研阅读中常引申为“逐渐形成、逐步发展（思想、体系等）”，如：evolve a new theory（逐步形成新理论），不限于生物进化。",
+        "examUsage": "常考搭配：evolve from/out of (从…进化而来)，evolve into (演变成…)。真题例句：The details may vary, but the overall pattern has evolved. (细节可能不同，但总体模式已逐步形成。)"
+      }
+    },
+    {
+      "id": "exact",
+      "word": "exact",
+      "phonetic": "/ɪg'zækt/",
+      "meaning": "a.确切的,正确的,精确的",
+      "similar": [
+        "extract",
+        "expect",
+        "act",
+        "east",
+        "exam",
+        "exit",
+        "pact",
+        "eject"
+      ],
+      "question": {
+        "wordId": "exact",
+        "stem": "选择 \"exact\" 的正确中文意思：",
+        "correct": "a.确切的,正确的,精确的",
+        "options": [
+          "a.确切的,正确的,精确的",
+          "v./n.拔出,抽出;摘录 n.抽取物;精华;选集",
+          "v.预期;期望,指望",
+          "v.表演；举动；起作用 n.行为，法令；一幕"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'exigere'（驱出、要求精确），由'ex-（出）' + 'agere（驱使、做）'组成，核心动作是“驱出并衡量”，引申为“精确到无偏差”。",
+        "similarWarning": "extract（ex-出+tract拉→提取），expect（ex-出+spect看→期待），exact强调“精确”而非“取”或“看”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "exaggerate",
+      "word": "exaggerate",
+      "phonetic": "/ig'zædʒəreit/",
+      "meaning": "v.夸大,夸张",
+      "similar": [
+        "emigrate",
+        "elaborate",
+        "evaporate"
+      ],
+      "question": {
+        "wordId": "exaggerate",
+        "stem": "选择 \"exaggerate\" 的正确中文意思：",
+        "correct": "v.夸大,夸张",
+        "options": [
+          "v.蒸发,挥发;沉淀;发射;消失",
+          "v.夸大,夸张",
+          "v.(反)immigrate;(to,from)自本国移居他",
+          "v./a.精心制作(的);详细阐述(的)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语exaggerare，由ex-（向外，超出） + aggerare（堆积，堆高，来自agger（土堆））组成。核心物理动作是“向外堆土，堆得比实际高”，引申为言语上把事实堆高、放大，即夸大、夸张。",
+        "similarWarning": "形近词对比：\n1. emigrate (e-向外 + migrate迁移) 意为“移居国外”，强调离开本国。\n2. elaborate (e-出 + labor劳动 + -ate动词后缀) 意为“精心制作；详尽阐述”，强调细致加工。\n3. evaporate (e-出 + vapor蒸汽 + -ate动词后缀) 意为“蒸发；消失”，强调液体变气体或事物消散。\n差异核心：exaggerate侧重“夸大事实”，与“堆高”动作相关；其他词根不同，含义各异。",
+        "extendedMeaning": "考研僻义：在真题中偶见其名词形式exaggeration，或引申为“言过其实的陈述”，但本身无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "exam",
+      "word": "exam",
+      "phonetic": "/ig'zæm/",
+      "meaning": "n.(examination)考试,测验",
+      "similar": [
+        "exact"
+      ],
+      "question": {
+        "wordId": "exam",
+        "stem": "选择 \"exam\" 的正确中文意思：",
+        "correct": "n.(examination)考试,测验",
+        "options": [
+          "n.(examination)考试,测验",
+          "a.确切的,正确的,精确的",
+          "n.碗(状物),钵",
+          "vt.隔离,孤立"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语examen（天平，称量），由ex-（出）和agere（引导，驱动）的变体组成，核心动作是“从一堆中称量出来”，即通过比较衡量进行筛选，引申为考试、测验。",
+        "similarWarning": "exact（精确的）：ex-（出）+ act（做）→ 做出来的 → 精确的。与exam相比，exact强调“准确无误”，而exam强调“测试衡量”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "examine",
+      "word": "examine",
+      "phonetic": "/ig'zæmin/",
+      "meaning": "v.检查,调查;对…进行考试",
+      "similar": [
+        "famine"
+      ],
+      "question": {
+        "wordId": "examine",
+        "stem": "选择 \"examine\" 的正确中文意思：",
+        "correct": "v.检查,调查;对…进行考试",
+        "options": [
+          "n.饥荒,饥馑",
+          "a.小(器、规模)的,不重要的,细微的,卑鄙的",
+          "v.(to)奉献,致力",
+          "v.检查,调查;对…进行考试"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ amine（<拉丁语examen，意为“称量、考量”），核心动作是“把东西拿出来仔细称量”，引申为“检查、审视”。",
+        "similarWarning": "famine（饥荒）：对比examine的“ex-”与famine的“fa-”，词根不同。example（例子）：对比examine的“-ine”与example的“-ple”，词源不同。",
+        "extendedMeaning": "在考研中，examine常引申为“审视、分析（抽象问题）”，如examine the implications（审视影响）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "exceed",
+      "word": "exceed",
+      "phonetic": "/ik'si:d/",
+      "meaning": "v.超过,胜过;越出",
+      "similar": [
+        "excel",
+        "except",
+        "excess",
+        "expend",
+        "extend"
+      ],
+      "question": {
+        "wordId": "exceed",
+        "stem": "选择 \"exceed\" 的正确中文意思：",
+        "correct": "v.超过,胜过;越出",
+        "options": [
+          "v.超过,胜过;越出",
+          "a.过量的,额外的 n.过量;过剩;超额;无节制",
+          "prep.除…之外 v.除外;反对",
+          "vi.胜过其他;擅长 vt.胜过，优于"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（超出）+ -ceed（来自拉丁语cedere，意为“走、前进”）。核心物理动作：向前走并越过了某个界限或标准。引申为在数量、程度或范围上“超过、胜过”。",
+        "similarWarning": "excel（v.擅长，胜过；强调在某方面表现突出），exceed（v.超过，越出；强调在数量或程度上超越界限）。except（prep.除…之外），excess（n./adj.过量，过度的），expend（v.花费，消耗），extend（v.延伸，扩展）。",
+        "extendedMeaning": "考研中常考查“超过（界限、权限）”的引申义，如exceed one's authority（越权），exceed the speed limit（超速）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "exceedingly",
+      "word": "exceedingly",
+      "phonetic": "/ik'si:diŋli/",
+      "meaning": "ad.极端地,非常",
+      "similar": [
+        "seemingly",
+        "accordingly"
+      ],
+      "question": {
+        "wordId": "exceedingly",
+        "stem": "选择 \"exceedingly\" 的正确中文意思：",
+        "correct": "ad.极端地,非常",
+        "options": [
+          "ad.极端地,非常",
+          "ad.外观上，表面上",
+          "ad.相应地，照着办，按照；于是，因此",
+          "n.蒜，大蒜粉"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "exceed（超越）+ -ing（形容词后缀）+ -ly（副词后缀）。核心动作是“超越界限”，引申为“超越寻常程度”，即“极端地、非常”。",
+        "similarWarning": "seemingly（表面上地）: 侧重“看似”，源于seem（似乎）；accordingly（因此）: 侧重“相应地”，源于accord（一致）。exceedingly强调“程度极高”，与二者词义无交集。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "excel",
+      "word": "excel",
+      "phonetic": "/ik'sel/",
+      "meaning": "vi.胜过其他;擅长 vt.胜过，优于",
+      "similar": [
+        "expel",
+        "exceed",
+        "except",
+        "excess"
+      ],
+      "question": {
+        "wordId": "excel",
+        "stem": "选择 \"excel\" 的正确中文意思：",
+        "correct": "vi.胜过其他;擅长 vt.胜过，优于",
+        "options": [
+          "v.超过,胜过;越出",
+          "v.把…开除;驱逐;排出;发射",
+          "prep.除…之外 v.除外;反对",
+          "vi.胜过其他;擅长 vt.胜过，优于"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ -cel（升起，源自拉丁语cellere，意为升起、突出）。核心动作：从群体中向外升起→突出于众人之上→胜过、擅长。",
+        "similarWarning": "expel（ex-向外+pel驱赶→驱逐），exceed（ex-超出+ceed走→超过），except（ex-外+cept拿→除外），excess（ex-外+cess走→过度）。区别：excel强调“突出、优秀”；expel强调“强制离开”；exceed强调“数量/程度超过”；except强调“排除在外”；excess强调“过量”。",
+        "extendedMeaning": "在考研阅读中，excel常引申为“在某一领域表现卓越”，如excel in academic performance（学业卓越），不局限于字面“胜过别人”。",
+        "examUsage": "常见搭配：excel at/in (doing) sth. 真题例句：Children who excel in math often have strong logical thinking skills.（考研英语阅读）注意：excel为不及物动词时用介词at/in；及物动词时直接接宾语（较少用）。"
+      }
+    },
+    {
+      "id": "excellent",
+      "word": "excellent",
+      "phonetic": "/'eksələnt/",
+      "meaning": "a.卓越的,极好的",
+      "similar": [
+        "excitement",
+        "experiment"
+      ],
+      "question": {
+        "wordId": "excellent",
+        "stem": "选择 \"excellent\" 的正确中文意思：",
+        "correct": "a.卓越的,极好的",
+        "options": [
+          "n.出租汽车v.[指飞机](使)滑行",
+          "n.刺激,激动,兴奋",
+          "n.实验;试验 v.(on)进行实验;做试验",
+          "a.卓越的,极好的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源：ex-（向外）+ cell-（升起、突出）+ -ent（形容词后缀）。核心动作是“从同类中向外升起”，即“突出于众人之上”，引申为“卓越的、极好的”。",
+        "similarWarning": "excellent vs excitement（兴奋）：excellent 含 cell（升起），excitement 含 cite（唤起）；experiment（实验）含 peri（尝试），与 excellent 无直接拼写混淆。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "except",
+      "word": "except",
+      "phonetic": "/ik'sept/",
+      "meaning": "prep.除…之外 v.除外;反对",
+      "similar": [
+        "excerpt",
+        "excel",
+        "exert",
+        "accept",
+        "exceed",
+        "excess",
+        "exempt",
+        "expect"
+      ],
+      "question": {
+        "wordId": "except",
+        "stem": "选择 \"except\" 的正确中文意思：",
+        "correct": "prep.除…之外 v.除外;反对",
+        "options": [
+          "prep.除…之外 v.除外;反对",
+          "vi.胜过其他;擅长 vt.胜过，优于",
+          "v.尽(力),施加(压力等),努力",
+          "n./vt.摘录;引用"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ -cept（拿取）= 拿出去 → 排除在外。核心动作是“把某个对象从整体中拿出去”，引申为“除了…之外”。动词形式表示“将…排除”。",
+        "similarWarning": "excerpt（摘录）：ex-（向外）+cerpt（摘取）→ 摘取出来。excel（擅长）：ex-（超出）+cel（上升）→ 超出。exert（施加）：ex-（向外）+ert（连接）→ 释放力量。accept（接受）：ac-（向）+cept（拿）→ 拿过来。exceed（超过）：ex-（超出）+ceed（走）→ 走过。excess（过量）：ex-（超出）+cess（走）→ 超出量。exempt（免除）：ex-（向外）+empt（拿）→ 拿出去。expect（期待）：ex-（向外）+spect（看）→ 向外看。except强调“排除在外”，与accept（接受）方向相反。",
+        "extendedMeaning": "在考研阅读中，except作动词时常用被动式be excepted表示“被排除在外”，如“present company excepted”（在座诸位除外）。此外，except that后接从句，表“除了…以外”，常考逻辑转折。",
+        "examUsage": "真题考点：except for后接名词短语，用于引出与整体相反的细节，如“The composition is good except for a few spelling mistakes.”（作文很好，除了几个拼写错误）。注意与except that（后接从句）的区分。"
+      }
+    },
+    {
+      "id": "exception",
+      "word": "exception",
+      "phonetic": "/ik'sepʃən/",
+      "meaning": "n.例外,除外;反对;异议",
+      "similar": [
+        "exceptional",
+        "reception",
+        "expedition",
+        "excursion",
+        "extension",
+        "description",
+        "expectation",
+        "exhibition"
+      ],
+      "question": {
+        "wordId": "exception",
+        "stem": "选择 \"exception\" 的正确中文意思：",
+        "correct": "n.例外,除外;反对;异议",
+        "options": [
+          "a.例外的,异常的",
+          "n.例外,除外;反对;异议",
+          "n.接待,招待会;接收,接受,接收效果",
+          "n.远征(队),探险(队)"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "ex-（向外）+ cept（拿取）+ -ion（名词后缀）。核心动作：从常规集合中“向外拿取”一个特例，即“例外”。引申为对规则的“反对或异议”。",
+        "similarWarning": "exceptional（adj.例外的，杰出的）vs exception（n.例外）：exceptional强调性质或程度上的“异常”，exception指具体实例。reception（n.接待，接收）vs exception：re-（回）+ cept（拿）→拿回，侧重“接收”；ex-（出）+ cept（拿）→拿出，侧重“排除”。",
+        "extendedMeaning": "【考研僻义】n. 异议，反对（尤指法律或正式场合中的反对理由）。例：take exception to sth.（对……提出异议/反对）。",
+        "examUsage": "【真题考点】核心短语：with the exception of（除……之外）；make an exception（破例）；take exception to（反对/对……表示异议）。高频干扰项：注意区分exception与exclusion（排除，排斥），前者强调“例外”，后者强调“被排除在外”。"
+      }
+    },
+    {
+      "id": "exceptional",
+      "word": "exceptional",
+      "phonetic": "/ik'sepʃənəl/",
+      "meaning": "a.例外的,异常的",
+      "similar": [
+        "exception",
+        "reception"
+      ],
+      "question": {
+        "wordId": "exceptional",
+        "stem": "选择 \"exceptional\" 的正确中文意思：",
+        "correct": "a.例外的,异常的",
+        "options": [
+          "a.例外的,异常的",
+          "n.例外,除外;反对;异议",
+          "n.接待,招待会;接收,接受,接收效果",
+          "ad.一会儿,不久;现在,目前"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自except（除外）+ -ional（形容词后缀）。核心动作是“把...排除在外”，因此exceptional本义是“被排除在常规之外的”，即“例外的、异常的”。强调与一般情况不同，常带褒义（卓越）或中性（异常）。",
+        "similarWarning": "exception（n.例外）与exceptional的区别：exception是名词，指“例外情况”；exceptional是形容词，修饰“例外的”。reception（n.接待；接收）与exceptional拼写差异：re-前缀替换ex-，词根cept相同，但reception强调“接收”动作，与“例外”无关。",
+        "extendedMeaning": "在考研英语中，exceptional常引申为“卓越的、杰出的”，用于形容人或事物远超平均水平。如《经济学人》中“exceptional talent”（卓越人才），非字面“异常”而带积极评价。",
+        "examUsage": "常见考点：exceptional与extraordinary、remarkable同义替换。真题例句：“The exceptional response to the crisis surprised analysts.”（对危机的异常反应令分析家惊讶。）注意区分exceptional（异常好或坏）与exceptive（表示反对的），后者极少考。"
+      }
+    },
+    {
+      "id": "excerpt",
+      "word": "excerpt",
+      "phonetic": "/ek'sə:pt/",
+      "meaning": "n./vt.摘录;引用",
+      "similar": [
+        "except",
+        "exert",
+        "exempt",
+        "expert"
+      ],
+      "question": {
+        "wordId": "excerpt",
+        "stem": "选择 \"excerpt\" 的正确中文意思：",
+        "correct": "n./vt.摘录;引用",
+        "options": [
+          "n./vt.摘录;引用",
+          "prep.除…之外 v.除外;反对",
+          "v.尽(力),施加(压力等),努力",
+          "a.免除的 v.免除 n.免税者;被免除义务者"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"ex-（出）+cerpt（摘，拉，源自拉丁语carpere‘采摘’）。核心动作：从整体中‘摘出’一部分，即摘录、引用。\",\n  \"similarWarning\": \"except（排除）：ex-（出）+cept（拿），‘拿出去’→排除。exert（施加）：ex-（出）+ert（结合），‘释放力量’→施加。exempt（免除）：ex-（出）+empt（拿），‘拿出去’→免除。expert（专家）：ex-（出）+pert（尝试），‘经过尝试的’→有经验的。对比：excerpt与except仅差字母‘r’，词源动作不同：摘出vs拿出。\",\n  \"extendedM",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "excess",
+      "word": "excess",
+      "phonetic": "/ik'ses/",
+      "meaning": "a.过量的,额外的 n.过量;过剩;超额;无节制",
+      "similar": [
+        "express",
+        "excel",
+        "access",
+        "exceed",
+        "except",
+        "excuse"
+      ],
+      "question": {
+        "wordId": "excess",
+        "stem": "选择 \"excess\" 的正确中文意思：",
+        "correct": "a.过量的,额外的 n.过量;过剩;超额;无节制",
+        "options": [
+          "a.过量的,额外的 n.过量;过剩;超额;无节制",
+          "v.表达,表示 a.特快的,快速的 n.快车,快运",
+          "vi.胜过其他;擅长 vt.胜过，优于",
+          "n.进入；接入；到达；享用权；入口 vi.存取"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex- (向外) + cess (走，来自拉丁语cedere) → 走出界限之外 → 超过限度，即过量、过剩。核心动作：超出正常范围。",
+        "similarWarning": "excess (n./a.过量) vs. exceed (v.超过)：excess是名词/形容词，强调状态或数量；exceed是动词，强调动作。 vs. access (n./v.进入)：ac- (向) + cess (走) → 走向某处 → 进入，与excess方向相反。 vs. excel (v.擅长)：ex- (出) + cel (升高) → 超出众人。",
+        "extendedMeaning": "考研中常考n.‘无节制，放纵’（尤指饮食、行为），如excess in drinking（饮酒过度）。",
+        "examUsage": "高频搭配：in excess of (超过)，常用于比较级或数量描述；to excess (过度地)，如drink to excess。真题例句：The amount of money we spent was in excess of our budget."
+      }
+    },
+    {
+      "id": "excessive",
+      "word": "excessive",
+      "phonetic": "/ik'sesiv/",
+      "meaning": "a.过多的;过分的;额外",
+      "similar": [
+        "exclusive",
+        "expensive",
+        "extensive",
+        "successive",
+        "explosive",
+        "aggressive",
+        "impressive"
+      ],
+      "question": {
+        "wordId": "excessive",
+        "stem": "选择 \"excessive\" 的正确中文意思：",
+        "correct": "a.过多的;过分的;额外",
+        "options": [
+          "a.过多的;过分的;额外",
+          "a.独占的;排他的;孤高的;唯一的;高级的",
+          "a.花费的,昂贵的",
+          "a.广大的,广阔的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（出）+cess（走，移动）+-ive（形容词后缀）→ 走出界限的 → 过多的，过分的。核心物理动作：某物或行为超出正常范围或可接受限度。",
+        "similarWarning": "exclusive（ex-出+clus-关闭+-ive→排外的，独有的）；expensive（ex-出+pens-花费+-ive→昂贵的）；extensive（ex-出+tens-伸展+-ive→广泛的）；successive（suc-下+cess-走+-ive→连续的）；explosive（ex-出+plos-打破+-ive→爆炸的）；aggressive（ag-向+gress-走+-ive→侵略的）；expression（ex-出+press-压+-ion→表达）；impressive（im-向内+press-压+-ive→印象深刻的）。核心区别：excessive 强调超出界限，exclusive 强调排他性，expensive 强调价格高，extensive 强调范围广，successive 强调连续发生。",
+        "extendedMeaning": "在考研真题中，excessive 常引申为“过度的、极端的”，用于形容行为或状态超出合理范围，如 excessive drinking（酗酒）、excessive consumption（过度消费）。",
+        "examUsage": "核心搭配：excessive demand（过度需求）、excessive force（过度武力）。真题例句：Excessive consumption of natural resources has led to severe environmental degradation.（过度消耗自然资源导致了严重的环境退化。）常作为干扰项，与 adequate（充足的）、moderate（适度的）形成对立。"
+      }
+    },
+    {
+      "id": "exchange",
+      "word": "exchange",
+      "phonetic": "/iks'tʃeindʒ/",
+      "meaning": "v./n.(for)交换,兑换;交流,交易;交换台",
+      "similar": [
+        "charge",
+        "enhance"
+      ],
+      "question": {
+        "wordId": "exchange",
+        "stem": "选择 \"exchange\" 的正确中文意思：",
+        "correct": "v./n.(for)交换,兑换;交流,交易;交换台",
+        "options": [
+          "v./n.(for)交换,兑换;交流,交易;交换台",
+          "v.索(价);控告;充电 n.(pl.)费用,代价;电荷",
+          "v.提高,增强",
+          "n.命令;需要;规则;祈使语气a.强制的;紧急的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ex-（出）+ change（交换，变换）。核心动作：将一物拿出并换入另一物，强调双向流动。",
+        "similarWarning": "exchange [ɪksˈtʃeɪndʒ] vs. change [tʃeɪndʒ]：前者加前缀ex-，强调“互换”；后者仅指“改变”或“零钱”。chance [tʃɑːns]：拼写少e，意为“机会”。charge [tʃɑːdʒ]：拼写含r，意为“收费；指控”。enhance [ɪnˈhɑːns]：前缀en-，意为“增强”。",
+        "extendedMeaning": "（考研外刊）交流、对话（尤指思想、信息等抽象交换），如：exchange of ideas/views。",
+        "examUsage": "（真题考点）固定搭配：in exchange for（作为……的交换），常出现在完形填空或阅读细节题中。"
+      }
+    },
+    {
+      "id": "excite",
+      "word": "excite",
+      "phonetic": "/ik'sait/",
+      "meaning": "v.刺激,使激动;激发,激励",
+      "similar": [
+        "execute",
+        "cite",
+        "exit",
+        "elite",
+        "exile",
+        "excuse",
+        "expire",
+        "recite"
+      ],
+      "question": {
+        "wordId": "excite",
+        "stem": "选择 \"excite\" 的正确中文意思：",
+        "correct": "v.刺激,使激动;激发,激励",
+        "options": [
+          "v.引用,引证,举(例)",
+          "v.实行;实施;执行;完成;履行;处死",
+          "v.刺激,使激动;激发,激励",
+          "n.出口,通道"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "ex- (向外) + cite (唤起/召唤) → 字面义“唤起/召唤出来”。核心动作是“使内部的情感或反应向外释放”，引申为“刺激、使激动、激发”。",
+        "similarWarning": "execute (执行)：exe-cute vs ex-cite；词根cute (跟随) vs cite (唤起)，注意拼写差异。cite (引用)：仅词根cite，无ex-前缀。exit (出口)：ex-it (走) vs ex-cite；it (走) vs cite (唤起)。elite (精英)：e- (出) + lect (选择) 变体，无cite。exile (流放)：ex- (出) + ile (土地)，无cite。excuse (原谅)：ex- + cuse (原因)，无cite。expire (到期)：ex- + spire (呼吸)。recite (背诵)：re- (再) + cite (唤起)。",
+        "extendedMeaning": "在考研阅读中，常引申为“引起、激起（某种反应或情绪）”，如excite interest/curiosity (激起兴趣/好奇心)；或用于生理/科学语境，如excite neurons (刺激神经元)。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "excitement",
+      "word": "excitement",
+      "phonetic": "/ik'saitmənt/",
+      "meaning": "n.刺激,激动,兴奋",
+      "similar": [
+        "requirement",
+        "exciting",
+        "equipment",
+        "excellent",
+        "statement",
+        "engagement",
+        "experiment"
+      ],
+      "question": {
+        "wordId": "excitement",
+        "stem": "选择 \"excitement\" 的正确中文意思：",
+        "correct": "n.刺激,激动,兴奋",
+        "options": [
+          "n.刺激,激动,兴奋",
+          "n.(for)需要,需要的东西,要求",
+          "n.设备,器材,装置;才能",
+          "a.令人兴奋的,使人激动的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "excite-（使兴奋，源自拉丁语excitare，由ex-（向外）+citare（唤起，召唤）组成，本义为“唤起、召唤出来”）+ -ment（名词后缀，表行为/状态/结果）。核心物理动作：将某物从内部“召唤/激发”到外部状态，即产生兴奋、激动的情绪或刺激感。",
+        "similarWarning": "excitement vs. experiment（实验）：excitement 核心在 -cite-（唤起），强调情绪激荡；experiment 核心在 -peri-（尝试，如“peril”危险），强调通过尝试检验。拼写差异：-cite- vs. -peri-。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "exciting",
+      "word": "exciting",
+      "phonetic": "/ik'saitiŋ/",
+      "meaning": "a.令人兴奋的,使人激动的",
+      "similar": [
+        "excite",
+        "writing",
+        "excitement"
+      ],
+      "question": {
+        "wordId": "exciting",
+        "stem": "选择 \"exciting\" 的正确中文意思：",
+        "correct": "a.令人兴奋的,使人激动的",
+        "options": [
+          "a.令人兴奋的,使人激动的",
+          "v.刺激,使激动;激发,激励",
+          "n.刺激,激动,兴奋",
+          "n.写,写作;著作,作品"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：ex-（出）+ cit（唤起、激发）+ -ing（形容词后缀）。核心动作：把内在的情感或能量“激发出来”，从而产生使人振奋的效果。",
+        "similarWarning": "excite（动词：使兴奋）与exciting（形容词）区别在词性；writing（写作）与exciting拼写差异为w/ex和字母顺序，但无直接词义关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "exclaim",
+      "word": "exclaim",
+      "phonetic": "/ik'skleim/",
+      "meaning": "v.呼喊,惊叫,大声说",
+      "similar": [
+        "claim",
+        "acclaim",
+        "explain",
+        "reclaim",
+        "proclaim"
+      ],
+      "question": {
+        "wordId": "exclaim",
+        "stem": "选择 \"exclaim\" 的正确中文意思：",
+        "correct": "v.呼喊,惊叫,大声说",
+        "options": [
+          "v.向…欢呼，公认 n.欢呼，喝彩，称赞",
+          "v.要求;声称;索赔 n.要求;断言;索赔;权利",
+          "v.呼喊,惊叫,大声说",
+          "v.解释,说明"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "ex-（向外） + claim（喊叫）→ 向外喊叫 → 呼喊、惊叫",
+        "similarWarning": "exclaim vs. proclaim: ex-强调向外喊出（情绪），pro-强调公开宣布（正式）。exclaim vs. acclaim: ex-向外喊，ac-强调一致喊（喝彩）。exclaim vs. explain: claim喊叫，plain平白（解释）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "exclude",
+      "word": "exclude",
+      "phonetic": "/iks'klu:d/",
+      "meaning": "v.拒绝,把…排除在外,排斥",
+      "similar": [
+        "excuse",
+        "explode",
+        "include",
+        "exclusive",
+        "conclude",
+        "preclude"
+      ],
+      "question": {
+        "wordId": "exclude",
+        "stem": "选择 \"exclude\" 的正确中文意思：",
+        "correct": "v.拒绝,把…排除在外,排斥",
+        "options": [
+          "v.(使)爆炸,(使)爆发",
+          "v.拒绝,把…排除在外,排斥",
+          "v.包括,包含,计入",
+          "v.原谅,宽恕,免除 n.借口,辩解"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "ex-（向外） + clude（关闭）→ 关在外面 → 排斥、排除",
+        "similarWarning": "exclude vs. include: ex-向外 vs. in-向内；exclude vs. preclude: pre-提前，preclude侧重预防性阻止",
+        "extendedMeaning": "在考研阅读中，exclude常引申为‘排除（可能性）’、‘不把…考虑在内’，如exclude the possibility of...",
+        "examUsage": "exclude...from... 把…排除在…之外；常与include形成对比考点，如‘The study excluded participants with...’"
+      }
+    }
+  ]
+}

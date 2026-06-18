@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>考研英语二形近词辨析刷题系统</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <script src="https://unpkg.com/dexie@3/dist/dexie.js"></script>
+  <link rel="stylesheet" href="css/animations.css">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '#1e40af',
+            success: '#059669',
+            danger: '#dc2626',
+            warning: '#d97706'
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    /* 移动端优化 */
+    @media (max-width: 640px) {
+      .touch-target {
+        min-height: 48px;
+        min-width: 48px;
+      }
+    }
+  </style>
+</head>
+<body class="bg-gray-50 min-h-screen">
+  <div id="app">
+    <div class="container mx-auto px-4 py-4 sm:py-6 max-w-2xl">
+      <header class="text-center mb-6">
+        <h1 class="text-xl sm:text-2xl font-bold text-gray-800">考研英语二形近词辨析</h1>
+        <p class="text-sm sm:text-base text-gray-600 mt-1">地狱级刷题系统</p>
+      </header>
+      
+      <!-- 批次选择界面 -->
+      <div v-if="phase === 'select'">
+        <div class="bg-white rounded-lg shadow-md p-4 sm:p-6">
+          <h2 class="text-lg sm:text-xl font-semibold mb-4">选择刷题批次</h2>
+          <p class="text-sm text-gray-600 mb-4">共88个批次，每批约55个单词</p>
+          
+          <div class="grid grid-cols-5 sm:grid-cols-10 gap-2 mb-6">
+            <button
+              v-for="batch in batches"
+              :key="batch"
+              @click="startBatch(batch)"
+              class="p-2 sm:p-3 rounded-lg text-sm font-medium transition-all touch-target"
+              :class="getBatchClass(batch)"
+            >
+              {{ batch }}
+            </button>
+          </div>
+          
+          <div class="flex flex-wrap gap-3">
+            <button
+              @click="startReview"
+              class="flex-1 sm:flex-none px-4 py-3 bg-yellow-500 text-white rounded-lg hover:bg-yellow-600 transition touch-target text-sm sm:text-base"
+            >
+              错题强化
+            </button>
+            <button
+              @click="resetProgress"
+              class="flex-1 sm:flex-none px-4 py-3 bg-gray-500 text-white rounded-lg hover:bg-gray-600 transition touch-target text-sm sm:text-base"
+            >
+              重置进度
+            </button>
+          </div>
+        </div>
+        
+        <!-- 学习统计 -->
+        <div v-if="stats" class="mt-4 bg-white rounded-lg shadow-md p-4 sm:p-6">
+          <h3 class="text-base sm:text-lg font-semibold mb-3">学习统计</h3>
+          <div class="grid grid-cols-2 gap-3 sm:gap-4">
+            <div class="text-center p-3 bg-blue-50 rounded-lg">
+              <div class="text-xl sm:text-2xl font-bold text-blue-600">{{ stats.totalWords }}</div>
+              <div class="text-xs sm:text-sm text-gray-600">已学习</div>
+            </div>
+            <div class="text-center p-3 bg-green-50 rounded-lg">
+              <div class="text-xl sm:text-2xl font-bold text-green-600">{{ formatAccuracy(stats.accuracy) }}</div>
+              <div class="text-xs sm:text-sm text-gray-600">正确率</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- 答题界面 -->
+      <div v-if="phase === 'quiz' && currentQuestion">
+        <!-- 进度条 -->
+        <div class="bg-white rounded-lg shadow-sm p-3 mb-4">
+          <div class="flex justify-between items-center mb-2">
+            <span class="text-sm text-gray-600">进度</span>
+            <span class="text-sm font-medium text-blue-600">{{ currentQuestionIndex + 1 }} / {{ questions.length }}</span>
+          </div>
+          <div class="w-full bg-gray-200 rounded-full h-2">
+            <div 
+              class="bg-blue-600 h-2 rounded-full transition-all duration-300"
+              :style="{ width: ((currentQuestionIndex + 1) / questions.length * 100) + '%' }"
+            ></div>
+          </div>
+        </div>
+        
+        <!-- 题目卡片 -->
+        <div class="bg-white rounded-lg shadow-md p-4 sm:p-6 animate-fade-in">
+          <div class="text-center mb-6">
+            <div class="text-2xl sm:text-3xl font-bold text-gray-800 mb-2">
+              {{ currentQuestion.word }}
+            </div>
+            <div class="text-base sm:text-lg text-gray-500">
+              {{ currentQuestion.phonetic }}
+            </div>
+          </div>
+          
+          <div class="text-center mb-4">
+            <p class="text-sm sm:text-base text-gray-600">选择正确的中文意思：</p>
+          </div>
+          
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            <button
+              v-for="(option, index) in currentQuestion.question.options"
+              :key="index"
+              @click="handleAnswer(index)"
+              :disabled="answered"
+              class="p-3 sm:p-4 rounded-lg border-2 text-left transition-all touch-target text-sm sm:text-base"
+              :class="getOptionClass(index)"
+            >
+              <span class="font-medium">{{ option }}</span>
+            </button>
+          </div>
+        </div>
+        
+        <!-- 解析面板 -->
+        <div v-if="answered" class="mt-4 bg-white rounded-lg shadow-md overflow-hidden animate-slide-up">
+          <div class="p-4" :class="isCorrect ? 'bg-green-50' : 'bg-red-50'">
+            <div class="flex items-center justify-between">
+              <h3 class="text-base sm:text-lg font-semibold" :class="isCorrect ? 'text-green-800' : 'text-red-800'">
+                {{ isCorrect ? '✓ 回答正确！' : '✗ 回答错误' }}
+              </h3>
+              <span class="text-sm" :class="isCorrect ? 'text-green-600' : 'text-red-600'">
+                正确答案：{{ currentQuestion.question.correct }}
+              </span>
+            </div>
+          </div>
+          
+          <div class="border-b">
+            <nav class="flex">
+              <button
+                v-for="tab in analysisTabs"
+                :key="tab.id"
+                @click="activeTab = tab.id"
+                class="flex-1 py-3 px-2 sm:px-4 text-xs sm:text-sm font-medium text-center border-b-2 transition"
+                :class="activeTab === tab.id ? 'border-blue-600 text-blue-600' : 'border-transparent text-gray-500'"
+              >
+                {{ tab.label }}
+              </button>
+            </nav>
+          </div>
+          
+          <div class="p-4">
+            <div v-if="activeTab === 'core'" class="animate-fade-in">
+              <h4 class="font-semibold text-gray-700 mb-2 text-sm sm:text-base">🧠 核心逻辑</h4>
+              <p class="text-sm sm:text-base text-gray-600 leading-relaxed">{{ currentQuestion.sla.coreLogic }}</p>
+            </div>
+            
+            <div v-if="activeTab === 'similar'" class="animate-fade-in">
+              <h4 class="font-semibold text-gray-700 mb-2 text-sm sm:text-base">⚠️ 避坑预警</h4>
+              <p class="text-sm sm:text-base text-gray-600 leading-relaxed">{{ currentQuestion.sla.similarWarning }}</p>
+            </div>
+            
+            <div v-if="activeTab === 'extended'" class="animate-fade-in">
+              <h4 class="font-semibold text-gray-700 mb-2 text-sm sm:text-base">📚 高分引申</h4>
+              <p class="text-sm sm:text-base text-gray-600 leading-relaxed">{{ currentQuestion.sla.extendedMeaning }}</p>
+            </div>
+            
+            <div v-if="activeTab === 'exam'" class="animate-fade-in">
+              <h4 class="font-semibold text-gray-700 mb-2 text-sm sm:text-base">🎯 真题闭环</h4>
+              <p class="text-sm sm:text-base text-gray-600 leading-relaxed">{{ currentQuestion.sla.examUsage }}</p>
+            </div>
+          </div>
+        </div>
+        
+        <!-- 下一题按钮 -->
+        <div v-if="answered" class="mt-4 text-center">
+          <button
+            @click="nextQuestion"
+            class="w-full sm:w-auto px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition touch-target text-base sm:text-lg"
+          >
+            {{ currentQuestionIndex < questions.length - 1 ? '下一题' : '查看结果' }}
+          </button>
+        </div>
+      </div>
+      
+      <!-- 结果界面 -->
+      <div v-if="phase === 'result' && batchResults">
+        <div class="bg-white rounded-lg shadow-md p-4 sm:p-6 text-center">
+          <h2 class="text-xl sm:text-2xl font-bold mb-4">
+            批次 {{ currentBatchId }} 完成！
+          </h2>
+          
+          <div class="mb-6">
+            <div class="text-5xl sm:text-6xl font-bold" :class="getAccuracyClass(batchResults.accuracy)">
+              {{ formatAccuracy(batchResults.accuracy) }}
+            </div>
+            <div class="text-sm sm:text-base text-gray-600 mt-2">正确率</div>
+          </div>
+          
+          <div class="grid grid-cols-2 gap-3 sm:gap-4 mb-6">
+            <div class="p-3 sm:p-4 bg-green-50 rounded-lg">
+              <div class="text-xl sm:text-2xl font-bold text-green-600">{{ batchResults.correctCount }}</div>
+              <div class="text-xs sm:text-sm text-gray-600">正确</div>
+            </div>
+            <div class="p-3 sm:p-4 bg-red-50 rounded-lg">
+              <div class="text-xl sm:text-2xl font-bold text-red-600">{{ batchResults.totalQuestions - batchResults.correctCount }}</div>
+              <div class="text-xs sm:text-sm text-gray-600">错误</div>
+            </div>
+          </div>
+        </div>
+        
+        <div v-if="batchResults.answers && wrongAnswers.length > 0" class="mt-4 bg-white rounded-lg shadow-md p-4 sm:p-6">
+          <h3 class="text-base sm:text-lg font-semibold mb-3">错题回顾</h3>
+          <div class="space-y-2">
+            <div 
+              v-for="answer in wrongAnswers" 
+              :key="answer.wordId"
+              class="p-3 bg-red-50 rounded-lg"
+            >
+              <span class="font-bold text-gray-800">{{ answer.word }}</span>
+            </div>
+          </div>
+        </div>
+        
+        <div class="mt-4 flex gap-3">
+          <button
+            @click="backToSelect"
+            class="flex-1 px-4 py-3 bg-gray-500 text-white rounded-lg hover:bg-gray-600 transition touch-target text-sm sm:text-base"
+          >
+            返回选择
+          </button>
+          <button
+            @click="retryBatch"
+            class="flex-1 px-4 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition touch-target text-sm sm:text-base"
+          >
+            再做一次
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/utils/helpers.js"></script>
+  <script src="js/store/db.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

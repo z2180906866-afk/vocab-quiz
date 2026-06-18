@@ -1,0 +1,247 @@
+{
+  "batchId": 88,
+  "words": [
+    {
+      "id": "zeal",
+      "word": "zeal",
+      "phonetic": "/zi:l/",
+      "meaning": "n.热心，热忱，热情",
+      "similar": [
+        "deal",
+        "heal",
+        "seal",
+        "ideal",
+        "legal",
+        "medal",
+        "metal",
+        "pearl"
+      ],
+      "question": {
+        "wordId": "zeal",
+        "stem": "选择 \"zeal\" 的正确中文意思：",
+        "correct": "n.热心，热忱，热情",
+        "options": [
+          "n.热心，热忱，热情",
+          "v.治愈,愈合",
+          "v.处理;做买卖,经营;分配;对待 n.交易",
+          "n.封铅,封条;印,图章;海豹 v.封,密封"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语zelos（热心），核心物理动作是“沸腾的激情”，指对目标或事业的强烈投入，词根zel-表示“热情、竞争”，与zealot（狂热者）同源。",
+        "similarWarning": "zeal vs. seal: 首字母z/s替换，zeal是“热情”，seal是“密封、海豹”；zeal vs. deal: 首字母z/d替换，zeal强调情感，deal强调交易。",
+        "extendedMeaning": "在考研语境中，zeal常引申为“对特定目标的极度投入或狂热”，如religious zeal（宗教狂热），不限于普通热情。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "zebra",
+      "word": "zebra",
+      "phonetic": "/'zebrə/",
+      "meaning": "n.斑马",
+      "similar": [
+        "era",
+        "zero"
+      ],
+      "question": {
+        "wordId": "zebra",
+        "stem": "选择 \"zebra\" 的正确中文意思：",
+        "correct": "n.斑马",
+        "options": [
+          "n.零,零度 num.零",
+          "n.时代,年代,阶段,纪元",
+          "n.斑马",
+          "n.包裹,邮包,部分 v.打包,捆扎,分配"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源自刚果语或葡萄牙语，指代一种非洲马科动物。核心物理动作：黑白条纹相间的马形动物。",
+        "similarWarning": "era（时代，字母e和z互换）、zero（零，字母b和r互换，拼写差异较大）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "zero",
+      "word": "zero",
+      "phonetic": "/'ziərəu/",
+      "meaning": "n.零,零度 num.零",
+      "similar": [
+        "hero",
+        "negro",
+        "zebra"
+      ],
+      "question": {
+        "wordId": "zero",
+        "stem": "选择 \"zero\" 的正确中文意思：",
+        "correct": "n.零,零度 num.零",
+        "options": [
+          "n.斑马",
+          "n.黑人 a.黑人的",
+          "n.英雄，勇士；男主角，男主人公",
+          "n.零,零度 num.零"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自阿拉伯语sifr（空无），经拉丁语zephirum进入英语，核心物理动作是“空无一物”，表示数字上的空位或数值的起点。",
+        "similarWarning": "hero（英雄）：开头he-对比ze-，词义完全不同；negro（黑人）：开头ne-对比ze-，注意拼写差异；zebra（斑马）：结尾-bra对比-ro，动物名称。",
+        "extendedMeaning": "在考研中常引申为“毫无、没有”，如zero chance（毫无机会）；在统计学中表示“零点”，如zero point。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "zigzag",
+      "word": "zigzag",
+      "phonetic": "/'zigzæg/",
+      "meaning": "n./a.之字形(的) v.使曲折,曲折盘旋",
+      "similar": [],
+      "question": {
+        "wordId": "zigzag",
+        "stem": "选择 \"zigzag\" 的正确中文意思：",
+        "correct": "n./a.之字形(的) v.使曲折,曲折盘旋",
+        "options": [
+          "v.剌穿,刺破",
+          "v.欠(债等),应向…付出,归功于,得感谢",
+          "n./a.之字形(的) v.使曲折,曲折盘旋",
+          "n.绅士,先生"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟物体来回曲折移动时发出的声音或形成的轨迹，直接对应“之字形”的物理形态。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "zinc",
+      "word": "zinc",
+      "phonetic": "/ziŋk/",
+      "meaning": "n.锌",
+      "similar": [
+        "pinch",
+        "since"
+      ],
+      "question": {
+        "wordId": "zinc",
+        "stem": "选择 \"zinc\" 的正确中文意思：",
+        "correct": "n.锌",
+        "options": [
+          "n.锌",
+          "v.捏,掐,拧;收缩;紧急关头;匮乏;压力",
+          "prep.自从 conj.自从；因为，既然 ad.后来",
+          "n/v..袭击,搜查"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "锌的化学符号Zn源于德语Zink，词源不详，可能来自古高地德语zint（尖刺），因锌矿石常呈尖锐晶体形态。",
+        "similarWarning": "pinch（捏，掐）与zinc差一个字母p；since（自从）与zinc差字母s，注意拼写区别。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "zip",
+      "word": "zip",
+      "phonetic": "/zɪp/",
+      "meaning": "v.(用拉链或像拉链那样)合上或打开",
+      "similar": [
+        "dip",
+        "hip",
+        "lip",
+        "rip",
+        "sip",
+        "tip"
+      ],
+      "question": {
+        "wordId": "zip",
+        "stem": "选择 \"zip\" 的正确中文意思：",
+        "correct": "v.(用拉链或像拉链那样)合上或打开",
+        "options": [
+          "n.嘴唇",
+          "n.臀部，髋；屋脊",
+          "v./n.浸,蘸",
+          "v.(用拉链或像拉链那样)合上或打开"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿拉链快速拉合时发出的“嗞”声，直接转化为动词，表示用拉链闭合或打开的动作。",
+        "similarWarning": "dip（浸，蘸）、hip（臀部，时髦的）、lip（嘴唇）、rip（撕，扯）、sip（小口喝）、tip（尖端，小费）——这些词与zip仅首字母不同，但词义无关联。",
+        "extendedMeaning": "在考研语境中，zip常引申为“快速移动”或“迅速完成”，如zip through（快速通过/完成）。",
+        "examUsage": "zip up（拉上拉链）为常见搭配，但考研中更可能考查其引申义，如zip along（飞速行进）。"
+      }
+    },
+    {
+      "id": "zone",
+      "word": "zone",
+      "phonetic": "/zəun/",
+      "meaning": "n.地区,区域 v.分区,划分地带",
+      "similar": [
+        "ozone",
+        "one",
+        "none",
+        "tone",
+        "alone",
+        "clone",
+        "honey",
+        "prone"
+      ],
+      "question": {
+        "wordId": "zone",
+        "stem": "选择 \"zone\" 的正确中文意思：",
+        "correct": "n.地区,区域 v.分区,划分地带",
+        "options": [
+          "num.一 pron.一个(只)(表示代替可数的东西)",
+          "pron.没有任何人(东西)；都不 ad.一点也不",
+          "n.臭氧；(海岸等的)新鲜空气",
+          "n.地区,区域 v.分区,划分地带"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自希腊语zone（腰带、地带），原指环绕地球的带状区域（如寒带、温带）。核心动作是“围绕、划界”，引申为人为或自然划分的特定区域。",
+        "similarWarning": "ozone（臭氧；O+zone，带臭氧的区域）；tone（音调；t+one，一个音）；clone（克隆；c+lone，孤独的复制品）；none（无；n+one，没有一个）。",
+        "extendedMeaning": "【考研僻义】v. 将…划为专用区（如工业区、商业区），强调行政或功能上的分区管理，非普通意义上的“分块”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "zoom",
+      "word": "zoom",
+      "phonetic": "/zu:m/",
+      "meaning": "vi.(飞机)陡升 n.陡升；嗡嗡声",
+      "similar": [
+        "boom",
+        "doom",
+        "loom",
+        "bloom",
+        "bosom",
+        "broom"
+      ],
+      "question": {
+        "wordId": "zoom",
+        "stem": "选择 \"zoom\" 的正确中文意思：",
+        "correct": "vi.(飞机)陡升 n.陡升；嗡嗡声",
+        "options": [
+          "vi.(飞机)陡升 n.陡升；嗡嗡声",
+          "n.厄运,劫数 v.注定,命定",
+          "n.织布机,织机 v.隐现,(危险、忧虑等)迫近",
+          "v.迅速发展,兴旺;发出隆隆声"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿物体快速移动时发出的低沉持续嗡嗡声（如蜜蜂、飞机引擎）。核心物理动作是‘快速移动并伴随嗡嗡声’，引申为陡升、急速增长。",
+        "similarWarning": "boom（繁荣/轰鸣，侧重突然爆发声与增长）; doom（厄运/注定，侧重结局）; loom（隐约出现/织布机，侧重缓慢浮现）; room（房间/空间，与zoom仅首字母不同）; bloom（开花，侧重绽放过程）; broom（扫帚，侧重清洁工具）。",
+        "extendedMeaning": "在考研及外刊中常表‘急速增长、飙升’，如‘zoom to prominence’（迅速成名）; ‘zoom in on’（聚焦/密切关注，非字面放大）。",
+        "examUsage": ""
+      }
+    }
+  ]
+}

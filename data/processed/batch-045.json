@@ -1,0 +1,1723 @@
+{
+  "batchId": 45,
+  "words": [
+    {
+      "id": "kindness",
+      "word": "kindness",
+      "phonetic": "/'kaindnis/",
+      "meaning": "n.仁慈,亲切;好意;友好行为",
+      "similar": [
+        "kidney",
+        "illness",
+        "witness",
+        "goodness"
+      ],
+      "question": {
+        "wordId": "kindness",
+        "stem": "选择 \"kindness\" 的正确中文意思：",
+        "correct": "n.仁慈,亲切;好意;友好行为",
+        "options": [
+          "n.仁慈,亲切;好意;友好行为",
+          "n.肾,肾脏",
+          "n.目击者,证人;证据,证明 v.目击,目睹;作证",
+          "n.病,疾病"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "kind（仁慈的）+ -ness（名词后缀，表性质/状态）→ 仁慈、亲切的性质或行为。词根kind源自古英语cynd（自然、种族），与kin（亲属）同源，核心动作是“同类间的亲和感”。",
+        "similarWarning": "kidney（n.肾脏）vs kindness：kidney是kid（孩子？）+ney（无意义），与kindness拼写差异在d/n；illness（n.疾病）vs kindness：ill（病）+ness，词根不同；witness（n.目击者）vs kindness：wit（智慧）+ness，词根不同；goodness（n.善良）vs kindness：good+ness，近义但词根不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "kingdom",
+      "word": "kingdom",
+      "phonetic": "/'kiŋdəm/",
+      "meaning": "n.王国,领域",
+      "similar": [],
+      "question": {
+        "wordId": "kingdom",
+        "stem": "选择 \"kingdom\" 的正确中文意思：",
+        "correct": "n.王国,领域",
+        "options": [
+          "n.王国,领域",
+          "n.自行车;周期,循环 v.骑自行车;循环",
+          "a.(statical)静态的,静力的",
+          "n.革命;旋转,转数"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "king（国王）+ -dom（名词后缀，表示领域、状态）。核心动作：国王统治的领域，引申为“领域”。",
+        "similarWarning": "",
+        "extendedMeaning": "（在生物学分类中）界（如animal kingdom动物界）；或指某个特定的活动领域。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "kiss",
+      "word": "kiss",
+      "phonetic": "/kis/",
+      "meaning": "n./v.吻,接吻",
+      "similar": [
+        "miss"
+      ],
+      "question": {
+        "wordId": "kiss",
+        "stem": "选择 \"kiss\" 的正确中文意思：",
+        "correct": "n./v.吻,接吻",
+        "options": [
+          "n./v.吻,接吻",
+          "n.小姐 v. 思念,未击中,错过,漏掉,逃脱",
+          "v.估价,评价;求…的值",
+          "n.专门知识(或技能等),专长"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟双唇轻触发出的声音。核心物理动作是嘴唇接触，表达亲昵或问候。",
+        "similarWarning": "miss（错过）：kiss vs miss，首字母k（吻）与m（错过），吻是主动接触，错过是未碰到。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "kit",
+      "word": "kit",
+      "phonetic": "/kit/",
+      "meaning": "n.成套工具,用具包,工具箱",
+      "similar": [
+        "kite",
+        "knit",
+        "fit",
+        "hit",
+        "kid",
+        "kin",
+        "pit",
+        "wit"
+      ],
+      "question": {
+        "wordId": "kit",
+        "stem": "选择 \"kit\" 的正确中文意思：",
+        "correct": "n.成套工具,用具包,工具箱",
+        "options": [
+          "a.(病的)发作，痉挛 v./a.n.合适,试穿,安装",
+          "n.成套工具,用具包,工具箱",
+          "n.风筝",
+          "v.编织,编结;接合,粘合"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自中古英语‘kyt’（容器），核心物理动作为‘将物品装入容器’，故指‘成套工具或工具箱’。",
+        "similarWarning": "kite（风筝，n.）: kit + e；knit（编织，v.）: k + nit；fit（适合，v./adj.）: f + it；hit（打击，v.）: h + it；kid（小孩，n.）: k + id；kin（亲属，n.）: k + in；pit（坑，n.）: p + it。注意区分拼写差异。",
+        "extendedMeaning": "在考研中无特殊僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "kite",
+      "word": "kite",
+      "phonetic": "/kaɪt/",
+      "meaning": "n.风筝",
+      "similar": [
+        "kit",
+        "bite",
+        "cite",
+        "site",
+        "elite",
+        "knife",
+        "litre",
+        "skate"
+      ],
+      "question": {
+        "wordId": "kite",
+        "stem": "选择 \"kite\" 的正确中文意思：",
+        "correct": "n.风筝",
+        "options": [
+          "n.风筝",
+          "v.引用,引证,举(例)",
+          "n.成套工具,用具包,工具箱",
+          "v./n.咬,叮 n.一口"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语cyta，原始日耳曼语系，原指一种猛禽（鸢）。因风筝在空中飞行的形态与鸢相似，后借指风筝。核心物理动作：飞翔/盘旋。",
+        "similarWarning": "形近词辨析：kite（风筝）vs kit（工具包）区别在于字母t/e；bite（咬）开头字母b/k；cite（引用）开头c/k；site（地点）开头s/k；elite（精英）加前缀e-；knife（刀）n/k+字母替换；litre（升）l/k+字母替换；quite（相当）q/k+字母替换。",
+        "extendedMeaning": "考研僻义：n. 鸢（一种猛禽），在阅读中可能作为生物学或动物名称出现，如red kite（红鸢）。",
+        "examUsage": "真题考点：常以基础词汇出现在阅读或写作中，无特殊高频考点。注意形近词辨析即可。"
+      }
+    },
+    {
+      "id": "knee",
+      "word": "knee",
+      "phonetic": "/ni:/",
+      "meaning": "n.膝,膝盖",
+      "similar": [
+        "kneel",
+        "knife"
+      ],
+      "question": {
+        "wordId": "knee",
+        "stem": "选择 \"knee\" 的正确中文意思：",
+        "correct": "n.膝,膝盖",
+        "options": [
+          "n.膝,膝盖",
+          "n.刀,餐刀 v.用刀切,用匕首刺",
+          "v.跪,下跪",
+          "vi.同时发生；巧合；一致；相符；"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语*knew-，与古英语cneow同源，核心物理动作为“关节弯曲部位”，即连接大腿与小腿的可弯曲关节。",
+        "similarWarning": "kneel（vi.跪）: knee（n.膝盖） + l（后缀，表动作），意为“用膝盖着地”；knife（n.刀）: 拼写差异为f vs e，词源无关。",
+        "extendedMeaning": "在考研阅读中，“knee”可引申为“（结构或物体的）弯头、拐角”，如“the knee of a pipe”（管道的弯头）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "kneel",
+      "word": "kneel",
+      "phonetic": "/ni:l/",
+      "meaning": "v.跪,下跪",
+      "similar": [
+        "knee",
+        "heel",
+        "keen",
+        "peel",
+        "reel",
+        "angel",
+        "steel",
+        "wheel"
+      ],
+      "question": {
+        "wordId": "kneel",
+        "stem": "选择 \"kneel\" 的正确中文意思：",
+        "correct": "v.跪,下跪",
+        "options": [
+          "n.膝,膝盖",
+          "n.脚后跟,踵,鞋跟",
+          "v.跪,下跪",
+          "a.锋利的;敏锐的;敏捷的;(on)热心的,渴望的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根为knee（膝盖），-el是动词后缀，表示“使成为”或“反复动作”。核心物理动作：使膝盖着地，即跪下的动作。",
+        "similarWarning": "kneel vs knee: kneel是动词“跪下”，knee是名词“膝盖”。kneel vs feel: kneel以kn-开头，feel以f-开头，注意发音和拼写差异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "knife",
+      "word": "knife",
+      "phonetic": "/naif/",
+      "meaning": "n.刀,餐刀 v.用刀切,用匕首刺",
+      "similar": [
+        "kite",
+        "knee",
+        "knit",
+        "nine",
+        "wife",
+        "sniff",
+        "unify",
+        "unite"
+      ],
+      "question": {
+        "wordId": "knife",
+        "stem": "选择 \"knife\" 的正确中文意思：",
+        "correct": "n.刀,餐刀 v.用刀切,用匕首刺",
+        "options": [
+          "n.风筝",
+          "v.编织,编结;接合,粘合",
+          "n.膝,膝盖",
+          "n.刀,餐刀 v.用刀切,用匕首刺"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，核心物理动作是“用刀刃切割或穿刺”，名词指代刀具本身，动词引申为用刀攻击。",
+        "similarWarning": "形近词辨析：kite（风筝）、knee（膝盖）、knit（编织）、life（生命）、nice（好的）、nine（九）、wife（妻子）、sniff（嗅）。与knife拼写差异在于字母组合'kn'和'ife'，注意区分。",
+        "extendedMeaning": "考研中无显著僻义，但注意动词用法“用刀刺”在阅读中可能比喻“伤害”。",
+        "examUsage": "考研中knife作为简单词，通常不设考点，重点掌握名词“刀”和动词“刺”的基本义即可。"
+      }
+    },
+    {
+      "id": "knit",
+      "word": "knit",
+      "phonetic": "/nit/",
+      "meaning": "v.编织,编结;接合,粘合",
+      "similar": [
+        "kit",
+        "knot",
+        "knife",
+        "unite",
+        "unity"
+      ],
+      "question": {
+        "wordId": "knit",
+        "stem": "选择 \"knit\" 的正确中文意思：",
+        "correct": "v.编织,编结;接合,粘合",
+        "options": [
+          "n.成套工具,用具包,工具箱",
+          "n.(绳)结;(树)节;节(=海里/小时) v.打结",
+          "v.编织,编结;接合,粘合",
+          "n.刀,餐刀 v.用刀切,用匕首刺"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根与编织动作相关，古英语cyttan意为‘打结’，核心物理动作是‘将线或物质交织、缠绕在一起形成结构’。引申为‘接合、粘合’时，强调通过交织或连接使各部分紧密结合，如骨头愈合、团队凝聚。",
+        "similarWarning": "注意形近词：kit（工具包，拼写少n）、knot（结，拼写中o替换i，强调打结动作）、unit（单位，拼写中u替换k，强调整体性）、knife（刀，拼写中f替换t，工具不同）、unite（联合，拼写中u替换k，词根统一）、unity（统一，拼写中y替换i，名词形式）。辨析：knit强调编织过程，knot强调打结结果，unite强调结合动作。",
+        "extendedMeaning": "考研僻义：指‘骨头愈合’（如bones knit together）、‘紧密联合’（如knit the community together），或‘皱起’（如knit one's brows皱眉），后者在阅读中常考。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "knob",
+      "word": "knob",
+      "phonetic": "/nɔb/",
+      "meaning": "n.门把,(球形)把手,旋纽",
+      "similar": [
+        "knot",
+        "knock"
+      ],
+      "question": {
+        "wordId": "knob",
+        "stem": "选择 \"knob\" 的正确中文意思：",
+        "correct": "n.门把,(球形)把手,旋纽",
+        "options": [
+          "v.敲,敲打,碰撞 n.敲,击",
+          "n.(绳)结;(树)节;节(=海里/小时) v.打结",
+          "n.门把,(球形)把手,旋纽",
+          "n.疤,疤痕;创伤 v.使留下伤痕,创伤"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源来自中古英语knobbe，拟声词，模拟圆形凸起物或旋转时的声音。核心物理动作是“圆形凸起物”，引申为门把、旋钮等可抓握或旋转的球形部件。",
+        "similarWarning": "knot（结，打结） vs knob（把手，旋钮）：knot有字母t，表打结动作；knob无t，强调球形凸起。know（知道） vs knob：know含w，表认知；knob含b，表实物。knock（敲，敲门） vs knob：knock含ck，表敲击声；knob含b，表静止物。",
+        "extendedMeaning": "在考研真题中，knob可引申为“（抽象事物的）控制点或关键环节”，如the knob of the problem（问题的核心），但较少见。更常见的是作为机械类文章中的专业术语，如“旋钮”用于调节音量或温度。",
+        "examUsage": "常见搭配：turn the knob（转动把手/旋钮）。真题中可能作为细节题干扰项，与handle（手柄）、lever（杠杆）区分。无特殊经典干扰项或核心题眼，故省略详细例句。"
+      }
+    },
+    {
+      "id": "knock",
+      "word": "knock",
+      "phonetic": "/nɔk/",
+      "meaning": "v.敲,敲打,碰撞 n.敲,击",
+      "similar": [
+        "cock",
+        "dock",
+        "kick",
+        "knob",
+        "knot",
+        "lock",
+        "mock",
+        "neck"
+      ],
+      "question": {
+        "wordId": "knock",
+        "stem": "选择 \"knock\" 的正确中文意思：",
+        "correct": "v.敲,敲打,碰撞 n.敲,击",
+        "options": [
+          "v.敲,敲打,碰撞 n.敲,击",
+          "n.公鸡,雄鸡;龙头,开关",
+          "n.船坞,码头",
+          "n./v.踢"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟硬物撞击硬物的声音。核心物理动作是“用硬物快速击打某物表面”，产生声响或震动。",
+        "similarWarning": "knob [nɑb] n.球形把手，旋钮（b是凸起的球状物）；knock [nɑk] v.敲（k是清脆的撞击声）。注意字母b与k的视觉差异。",
+        "extendedMeaning": "v.批评，挑剔（非物理敲打，如knock the proposal）。n.不幸，挫折（如take a knock）。",
+        "examUsage": "knock down 撞倒，拆除；knock out 使昏迷，淘汰；knock off 停止工作，偷窃；knock over 打翻。真题中常考knock out的引申义“使震惊”或“使出局”。"
+      }
+    },
+    {
+      "id": "knot",
+      "word": "knot",
+      "phonetic": "/nɔt/",
+      "meaning": "n.(绳)结;(树)节;节(=海里/小时) v.打结",
+      "similar": [
+        "knit",
+        "knob",
+        "knock"
+      ],
+      "question": {
+        "wordId": "knot",
+        "stem": "选择 \"knot\" 的正确中文意思：",
+        "correct": "n.(绳)结;(树)节;节(=海里/小时) v.打结",
+        "options": [
+          "v.编织,编结;接合,粘合",
+          "v.敲,敲打,碰撞 n.敲,击",
+          "n.(绳)结;(树)节;节(=海里/小时) v.打结",
+          "n.门把,(球形)把手,旋纽"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "knot 来自古英语 cnotta，核心动作是‘缠绕后锁紧’——将线、绳等物交叉并拉紧形成固定的凸起。词根与 knit（编织）同源，强调‘交织’后的‘节点’。树节是树木枝干交织形成的硬块；航速单位‘节’源于古代用打结的绳子测量船速。",
+        "similarWarning": "not（否定副词）与 knot 同音，但 not 少字母 k，表‘不’；knit（编织）与 knot 形似，但 knit 末尾是 t，强调‘交织成衣’；knob（球形把手）与 knot 区别在 b，指‘圆状凸起物’；know（知道）与 knot 差 w，表‘认知’；knock（敲）与 knot 差 c，表‘撞击’。",
+        "extendedMeaning": "在考研阅读中，knot 可引申为‘难题、纠结’（a knotty problem），或指‘结合点、连接处’（the knot of the alliance）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lab",
+      "word": "lab",
+      "phonetic": "/læb/",
+      "meaning": "n.(laboratory)实验室",
+      "similar": [
+        "lamb",
+        "cab",
+        "lad",
+        "lag",
+        "lap",
+        "label",
+        "labor"
+      ],
+      "question": {
+        "wordId": "lab",
+        "stem": "选择 \"lab\" 的正确中文意思：",
+        "correct": "n.(laboratory)实验室",
+        "options": [
+          "n.男孩,小伙子",
+          "n.(laboratory)实验室",
+          "n.羔羊,小羊;羔羊肉",
+          "n.出租车，出租马车；驾驶室 vi.乘出租马车"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "lab 是 laboratory 的缩略形式，源自拉丁语 laboratorium（工作场所），词根 labor（劳动、工作）+ -atory（场所），核心动作是“进行实验工作的场所”。",
+        "similarWarning": "lamb（小羊，对比 lab 多 m）；cab（出租车，对比 lab 首字母 c 替换 l）；lad（少年，对比 lab 尾字母 d 替换 b）；lag（滞后，对比 lab 尾字母 g 替换 b）；lap（膝盖/一圈，对比 lab 尾字母 p 替换 b）；law（法律，对比 lab 尾字母 w 替换 b）；lay（放置，对比 lab 尾字母 y 替换 b）；label（标签，对比 lab 多 le）。",
+        "extendedMeaning": "在考研中，lab 常指“实验室”这一具体场所，但无特殊高难度僻义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "label",
+      "word": "label",
+      "phonetic": "/'leibl/",
+      "meaning": "n.标签 v.把...称为；用标签于；用标签标明",
+      "similar": [
+        "lately",
+        "lab",
+        "lace",
+        "lake",
+        "lame",
+        "lane",
+        "camel",
+        "labor"
+      ],
+      "question": {
+        "wordId": "label",
+        "stem": "选择 \"label\" 的正确中文意思：",
+        "correct": "n.标签 v.把...称为；用标签于；用标签标明",
+        "options": [
+          "ad.最近,不久前",
+          "n.(laboratory)实验室",
+          "n.标签 v.把...称为；用标签于；用标签标明",
+          "n.花边;带子,鞋带 v.系带,扎带"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能源自日耳曼语系。核心动作：一个附在物体上的小片（标签），用于标识或分类。动词义由此引申为“给…贴标签”或“把…称为”。",
+        "similarWarning": "lately (adv. 最近) vs label: lately 以 -ly 结尾是副词后缀；label 以 -el 结尾是名词后缀。lab (n. 实验室) vs label: lab 是实验室缩写，缺少 -el；lace (n. 蕾丝) vs label: lace 拼写中字母 c 替代 b，意思完全不同。",
+        "extendedMeaning": "在考研阅读中常引申为“给…归类/定性”，如“label sb as a troublemaker”（把某人视为麻烦制造者），强调主观评判。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "labor",
+      "word": "labor",
+      "phonetic": "/'leibə/",
+      "meaning": "n.(labour)工作，劳动；劳力 v.劳动，苦干",
+      "similar": [
+        "flavor",
+        "glamor",
+        "harbor",
+        "lab",
+        "favor",
+        "label",
+        "laser",
+        "layer"
+      ],
+      "question": {
+        "wordId": "labor",
+        "stem": "选择 \"labor\" 的正确中文意思：",
+        "correct": "n.(labour)工作，劳动；劳力 v.劳动，苦干",
+        "options": [
+          "n.(glamour)魅力;魔法 vt.迷惑",
+          "n.(flavour)情味;风味;滋味 v.给…调味",
+          "n.(harbour)海港;避难所 v.隐匿,窝藏",
+          "n.(labour)工作，劳动；劳力 v.劳动，苦干"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 'labor'，意为‘辛苦、工作、劳累’。核心物理动作是‘承受重负、费力地干’，强调体力的消耗与艰难。词根 'lab-' 有‘滑倒、落下’之意，引申为‘在重压下挣扎’的动作画面。",
+        "similarWarning": "形近词辨析：\n- labor (工作) vs. flavor (味道)：flavor 多了 'f' 和 'v'，指味觉感受。\n- labor vs. harbor (港口)：harbor 有 'h' 和 'r'，指船只停泊处。\n- labor vs. label (标签)：label 有 'e' 和 'l'，指贴上的标记。\n- labor vs. laser (激光)：laser 拼写中 's' 替代 'b'，是 light amplification 的缩写。",
+        "extendedMeaning": "考研僻义：\n1. 动词：吃力地行进（尤指缓慢而艰难地移动）。例：The old car labored up the steep hill.（旧车吃力地爬上山坡。）\n2. 名词：分娩、阵痛。例：She was in labor for several hours.（她分娩了几个小时。）",
+        "examUsage": "真题考点：\n常见搭配 'labor under' 表示‘被……困扰、受……影响’。例：He labored under the misapprehension that he would win.（他误以为自己会赢。）\n注意：labor 与 work 的区别，labor 强调艰苦、体力性，而 work 更通用。"
+      }
+    },
+    {
+      "id": "lace",
+      "word": "lace",
+      "phonetic": "/leis/",
+      "meaning": "n.花边;带子,鞋带 v.系带,扎带",
+      "similar": [
+        "lack",
+        "lake",
+        "lame",
+        "lane",
+        "pace",
+        "glance",
+        "palace",
+        "blade"
+      ],
+      "question": {
+        "wordId": "lace",
+        "stem": "选择 \"lace\" 的正确中文意思：",
+        "correct": "n.花边;带子,鞋带 v.系带,扎带",
+        "options": [
+          "n.花边;带子,鞋带 v.系带,扎带",
+          "n./v.缺乏,不足",
+          "n.湖泊，湖水",
+          "a.跛的,(辩解、论据等)无说服力的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古法语‘las’（绳、网），源自拉丁语‘laqueus’（套索、陷阱）。核心动作是‘用绳子或带子绑系’，引申出‘用带子装饰’的概念，进而指代具有编织或网状结构的‘花边’。",
+        "similarWarning": "lace与lack（缺乏）仅差字母‘e’与‘k’；lace与lake（湖）差字母‘c’与‘k’；lace与lane（小巷）差字母‘c’与‘n’。注意拼写差异。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    },
+    {
+      "id": "lack",
+      "word": "lack",
+      "phonetic": "/læk/",
+      "meaning": "n./v.缺乏,不足",
+      "similar": [
+        "slack",
+        "lace",
+        "lick",
+        "lock",
+        "luck",
+        "pack",
+        "rack",
+        "sack"
+      ],
+      "question": {
+        "wordId": "lack",
+        "stem": "选择 \"lack\" 的正确中文意思：",
+        "correct": "n./v.缺乏,不足",
+        "options": [
+          "n./v.缺乏,不足",
+          "a.懈怠的,松驰的;萧条的 n.淡季;(pl.)便裤",
+          "n.花边;带子,鞋带 v.系带,扎带",
+          "vt.舔；(火焰或浪)掠过；打败 n.舔；少量"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，核心义为‘缺乏、不足’，指某物不存在或数量不足。",
+        "similarWarning": "lack vs. black：lack缺b（黑色）→‘缺乏’；black有b→‘黑色’。lack vs. slack：lack多s（松弛）→‘缺乏’；slack有s→‘松弛的’。lack vs. back：lack首字母l→‘缺乏’；back首字母b→‘后面’。lack vs. lace：lack缺c（线）→‘缺乏’；lace有c→‘蕾丝’。lack vs. lick：lack缺i（舔）→‘缺乏’；lick有i→‘舔’。lack vs. lock：lack缺o（锁）→‘缺乏’；lock有o→‘锁’。lack vs. luck：lack缺u（运）→‘缺乏’；luck有u→‘运气’。lack vs. pack：lack缺p（包）→‘缺乏’；pack有p→‘打包’。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lad",
+      "word": "lad",
+      "phonetic": "/læd/",
+      "meaning": "n.男孩,小伙子",
+      "similar": [
+        "load",
+        "lab",
+        "lag",
+        "lap",
+        "lid",
+        "mad",
+        "pad",
+        "blade"
+      ],
+      "question": {
+        "wordId": "lad",
+        "stem": "选择 \"lad\" 的正确中文意思：",
+        "correct": "n.男孩,小伙子",
+        "options": [
+          "n.(laboratory)实验室",
+          "n.男孩,小伙子",
+          "v./n.落后,滞后 vt.用隔热材料覆盖(锅炉等)",
+          "v.装(货),装载 n.装载(量),负荷(量);(一)担"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自古英语‘lad’（青年、侍从），核心义为‘年轻的男性’。",
+        "similarWarning": "lad vs. lead: lad是‘小伙子’，lead是‘带领’或‘铅’；lad vs. land: lad无‘d’尾，land有‘d’且意为‘土地’；lad vs. load: lad中‘a’短音，load中‘oa’长音且意为‘负载’。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "ladder",
+      "word": "ladder",
+      "phonetic": "/'lædə/",
+      "meaning": "n.梯子,阶梯",
+      "similar": [
+        "laser",
+        "layer",
+        "latter",
+        "lawyer",
+        "wander"
+      ],
+      "question": {
+        "wordId": "ladder",
+        "stem": "选择 \"ladder\" 的正确中文意思：",
+        "correct": "n.梯子,阶梯",
+        "options": [
+          "n.梯子,阶梯",
+          "n.激光",
+          "n.层，层次；铺设者",
+          "a.后者的；后一半的，接近终了的 n.后者"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "ladder 源自古英语 hlæder，词根与‘爬升’相关，核心物理动作是‘由横档构成的攀爬工具’。引申为抽象‘阶梯’，如社会晋升的途径。",
+        "similarWarning": "laser（激光，vs ladder 多字母差异）、later（后来，vs ladder 少字母）、layer（层，vs ladder 拼写差异）、latter（后者，vs ladder 拼写差异）、lawyer（律师，vs ladder 拼写差异）、wander（漫步，vs ladder 首字母差异）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lag",
+      "word": "lag",
+      "phonetic": "/læg/",
+      "meaning": "v./n.落后,滞后 vt.用隔热材料覆盖(锅炉等)",
+      "similar": [
+        "flag",
+        "lab",
+        "lad",
+        "lap",
+        "log",
+        "rag",
+        "tag",
+        "laugh"
+      ],
+      "question": {
+        "wordId": "lag",
+        "stem": "选择 \"lag\" 的正确中文意思：",
+        "correct": "v./n.落后,滞后 vt.用隔热材料覆盖(锅炉等)",
+        "options": [
+          "n.男孩,小伙子",
+          "n.(laboratory)实验室",
+          "n.旗",
+          "v./n.落后,滞后 vt.用隔热材料覆盖(锅炉等)"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "lag 源自斯堪的纳维亚语，本义是“走得慢、落在后面”，核心物理动作为“拖曳、延迟”。词根无复杂派生，直接对应“落后、滞后”的动作或状态。作动词时“用隔热材料覆盖”源于旧时用软木或布料包裹锅炉以延缓热量散失，即“延迟”热量流失的引申。",
+        "similarWarning": "flag（旗帜/衰退，f-像飘扬的布 vs l-像拖曳的线）；bag（袋子，b-包裹 vs l-拖曳）；lab（实验室，-b 结尾 vs -g 结尾）；lad（少年，-d 结尾 vs -g 结尾）；lap（大腿/一圈，p-拍打 vs g-拖曳）；law（法律，w-规则 vs g-动作）；lay（放置，y-平放 vs g-拖曳）；leg（腿，e-支撑 vs g-拖曳）。",
+        "extendedMeaning": "考研僻义：vt. 用隔热材料覆盖（锅炉、管道等），如 lag the pipes 给管道加保温层。",
+        "examUsage": "真题考点：常用搭配 lag behind（落后于），作名词时常见于 economic lag（经济滞后）或 time lag（时间差）。阅读中常考其与 delay、slow 的辨析：lag 强调持续落后于参照物，delay 侧重暂时中断。"
+      }
+    },
+    {
+      "id": "lake",
+      "word": "lake",
+      "phonetic": "/leik/",
+      "meaning": "n.湖泊，湖水",
+      "similar": [
+        "bake",
+        "fake",
+        "lace",
+        "lame",
+        "lane",
+        "like",
+        "rake",
+        "sake"
+      ],
+      "question": {
+        "wordId": "lake",
+        "stem": "选择 \"lake\" 的正确中文意思：",
+        "correct": "n.湖泊，湖水",
+        "options": [
+          "n.湖泊，湖水",
+          "n.花边;带子,鞋带 v.系带,扎带",
+          "v.烤,烘,焙;烧硬,焙干",
+          "n.假货，赝品 a.假的，冒充的 v.伪造；伪装"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语lacus（湖泊），与古英语lacu（溪流）同源。核心物理动作是“静止的水体”，区别于流动的river。",
+        "similarWarning": "bake（烘焙）、cake（蛋糕）、fake（伪造）、lace（蕾丝）、lame（跛脚的）、lane（小巷）、late（迟的）、like（喜欢）。差异在于首字母或中间字母，词义无关联。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lamb",
+      "word": "lamb",
+      "phonetic": "/læm/",
+      "meaning": "n.羔羊,小羊;羔羊肉",
+      "similar": [
+        "lab",
+        "lame",
+        "lamp",
+        "limb",
+        "blame",
+        "climb",
+        "flame"
+      ],
+      "question": {
+        "wordId": "lamb",
+        "stem": "选择 \"lamb\" 的正确中文意思：",
+        "correct": "n.羔羊,小羊;羔羊肉",
+        "options": [
+          "n.灯",
+          "a.跛的,(辩解、论据等)无说服力的",
+          "n.(laboratory)实验室",
+          "n.羔羊,小羊;羔羊肉"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语，本义为“幼小的羊”，与“羊”的物理动作无关，直接指代动物幼崽及其肉食。",
+        "similarWarning": "lamb vs lab (实验室): lamb有m，lab无m；lamb vs lame (跛的): lamb有b，lame有e；lamb vs lamp (灯): lamb有b，lamp有p；lamb vs limb (肢): 元音a/i不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lame",
+      "word": "lame",
+      "phonetic": "/leɪm/",
+      "meaning": "a.跛的,(辩解、论据等)无说服力的",
+      "similar": [
+        "blame",
+        "flame",
+        "fame",
+        "lace",
+        "lake",
+        "lamb",
+        "lamp",
+        "lane"
+      ],
+      "question": {
+        "wordId": "lame",
+        "stem": "选择 \"lame\" 的正确中文意思：",
+        "correct": "a.跛的,(辩解、论据等)无说服力的",
+        "options": [
+          "n.火焰,火苗;热情;光辉 v.发火焰,燃烧",
+          "a.跛的,(辩解、论据等)无说服力的",
+          "v.责备;怪,把…归咎于 n.责任,过错;责备",
+          "n.名声;名望;传说 vt使出名;传扬…的名"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源于古英语lama（跛的），核心物理动作为“行走不便、肢体残障”，后引申为“逻辑上站不住脚、缺乏支撑力”，如同跛脚无法正常行走。",
+        "similarWarning": "blame（责备）: b-开头，与lame差一个字母b，词义完全不同；flame（火焰）: f-开头，指火；fame（名声）: f-开头，指声誉；game（游戏）: g-开头；lace（蕾丝）: 结尾-ce；lake（湖）: 结尾-ke；lamb（羔羊）: 结尾-mb；lamp（灯）: 结尾-mp。注意lame与这些词仅首字母或尾字母差异，拼写易混淆。",
+        "extendedMeaning": "考研僻义：a. 站不住脚的、无说服力的（常修饰argument、excuse、explanation等抽象名词）。",
+        "examUsage": "真题考点：lame excuse（拙劣的借口）常作为批判性写作或阅读中否定论据的题眼；lame argument（无力的论证）在议论文中高频出现，用于描述逻辑缺陷。"
+      }
+    },
+    {
+      "id": "lamp",
+      "word": "lamp",
+      "phonetic": "/læmp/",
+      "meaning": "n.灯",
+      "similar": [
+        "lap",
+        "camp",
+        "damp",
+        "lamb",
+        "lame",
+        "limp",
+        "lump",
+        "blame"
+      ],
+      "question": {
+        "wordId": "lamp",
+        "stem": "选择 \"lamp\" 的正确中文意思：",
+        "correct": "n.灯",
+        "options": [
+          "n.灯",
+          "n.大腿,(跑道的)一圈,一段路程,工作阶段",
+          "n.野营,营地;帐篷,阵营 v.设营,宿营",
+          "n.潮湿 a.潮湿的 vt.使潮湿;使衰减"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语lampein（发光），原始印欧语根*leuk-（光）的变体。核心物理动作是‘发光体’，直接指代通过燃烧或电能使光线发出的装置。",
+        "similarWarning": "lamp vs lap：lamp多一个m，表示灯；lap是膝盖或一圈。lamp vs damp：lamp是灯，damp是潮湿的。lamp vs lamb：lamp无b，lamb是羊羔。lamp vs limp：lamp是灯，limp是跛行。lamp vs lump：lamp是灯，lump是肿块。lamp vs blame：lamp无b，blame是责备。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "landlady",
+      "word": "landlady",
+      "phonetic": "/'lænd/",
+      "meaning": "n.女房东,女地主",
+      "similar": [
+        "landlord"
+      ],
+      "question": {
+        "wordId": "landlady",
+        "stem": "选择 \"landlady\" 的正确中文意思：",
+        "correct": "n.女房东,女地主",
+        "options": [
+          "v.沉思,考虑",
+          "n.房东,地主",
+          "n.女房东,女地主",
+          "n.(尤指心灵上的)极度痛苦，烦恼"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "land（土地）+ lady（女士）→ 拥有土地的女性 → 女地主；引申为出租房屋的女性房东。",
+        "similarWarning": "landlord（男房东/男地主）：仅性别后缀不同，lady（女）vs lord（男）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "landlord",
+      "word": "landlord",
+      "phonetic": "/'lændlɔ:d/",
+      "meaning": "n.房东,地主",
+      "similar": [
+        "landlady"
+      ],
+      "question": {
+        "wordId": "landlord",
+        "stem": "选择 \"landlord\" 的正确中文意思：",
+        "correct": "n.房东,地主",
+        "options": [
+          "n.房东,地主",
+          "n.女房东,女地主",
+          "n.十几岁的青少年",
+          "vt.猛投，力掷；大声叫骂"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "land（土地）+ lord（领主、主人）→ 土地的主人，即地主；引申为出租房屋的主人，即房东。",
+        "similarWarning": "landlady（女房东/女地主）: 与 landlord 仅性别后缀不同，-lord 指男性，-lady 指女性。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lane",
+      "word": "lane",
+      "phonetic": "/leɪn/",
+      "meaning": "n.小路,小巷,行车道",
+      "similar": [
+        "plane",
+        "lace",
+        "lake",
+        "lame",
+        "sane",
+        "glance",
+        "planet",
+        "alone"
+      ],
+      "question": {
+        "wordId": "lane",
+        "stem": "选择 \"lane\" 的正确中文意思：",
+        "correct": "n.小路,小巷,行车道",
+        "options": [
+          "n.小路,小巷,行车道",
+          "n.飞机;平面,水平面",
+          "n.花边;带子,鞋带 v.系带,扎带",
+          "n.湖泊，湖水"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语 'lanu'，指狭窄的通道或路径。核心物理动作为‘狭窄的线性通道’，强调空间上的狭长与限定性，区别于宽阔的道路（road）或街（street）。",
+        "similarWarning": "lane与line（线、路线）拼写仅差字母'a'与'i'，lane侧重空间实体路径，line侧重抽象或几何线条；与lace（花边）差字母'n'与'c'，词义无关联。",
+        "extendedMeaning": "在考研阅读中可引申为‘专用道’或‘航道’，如bus lane（公交专用道）、shipping lane（海运航线）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lantern",
+      "word": "lantern",
+      "phonetic": "/'læntən/",
+      "meaning": "n.灯,灯笼",
+      "similar": [
+        "latter",
+        "canteen",
+        "eastern"
+      ],
+      "question": {
+        "wordId": "lantern",
+        "stem": "选择 \"lantern\" 的正确中文意思：",
+        "correct": "n.灯,灯笼",
+        "options": [
+          "n.(工厂、办公室等)食堂或小卖部",
+          "n.灯,灯笼",
+          "a.东方的,东部的",
+          "a.后者的；后一半的，接近终了的 n.后者"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'lanterna'，再往前可追溯至希腊语'lampein'（意为'发光'）。词根'lam-'表'光、照亮'，后缀'-tern'为名词表示工具或容器。核心物理动作为'发出光亮的容器'，即灯笼。",
+        "similarWarning": "later（后来，比较级） vs lantern（灯笼）。差异：'lan-' vs 'la-'，'tern' vs 'ter'。latter（后者） vs lantern：'latt-' vs 'lant-'，'er' vs 'ern'。canteen（食堂） vs lantern：'can-' vs 'lan-'，'teen' vs 'tern'。eastern（东方的） vs lantern：'eas-' vs 'lan-'，'tern' vs 'tern'。pattern（模式） vs lantern：'pat-' vs 'lan-'，'tern' vs 'tern'。",
+        "extendedMeaning": "在考研阅读中，'lantern'偶用于比喻义，如'the lantern of civilization'（文明之光），象征指引或希望。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lap",
+      "word": "lap",
+      "phonetic": "/læp/",
+      "meaning": "n.大腿,(跑道的)一圈,一段路程,工作阶段",
+      "similar": [
+        "clap",
+        "flap",
+        "lamp",
+        "leap",
+        "slap",
+        "cap",
+        "gap",
+        "lab"
+      ],
+      "question": {
+        "wordId": "lap",
+        "stem": "选择 \"lap\" 的正确中文意思：",
+        "correct": "n.大腿,(跑道的)一圈,一段路程,工作阶段",
+        "options": [
+          "n.灯",
+          "n.垂下物,帽沿,袋盖 n./v.拍打,拍动",
+          "v.拍手,拍,轻拍 n.拍(手),掌声,霹雳声",
+          "n.大腿,(跑道的)一圈,一段路程,工作阶段"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不确定，核心物理动作是“重叠、卷起”。n.大腿（坐下时膝盖以上部分，衣服在此处重叠）；一圈（跑道重叠的圈）；一段路程、工作阶段（比喻重叠的阶段）。",
+        "similarWarning": "clap（拍手，c-拟声+lap重叠→拍手时手掌重叠？）, flap（拍打，f-+lap重叠→拍打时重叠？）, lamp（灯，lam-+p）, leap（跳，lea-+p）, slap（掌掴，s-+lap重叠→掌掴时手掌重叠？）, cap（帽子，c-+ap）, gap（缺口，g-+ap）, lab（实验室，la-+b）。与lap核心区别在首字母及整体词义。",
+        "extendedMeaning": "考研僻义：n.（工作或旅程的）一段，阶段。如“the next lap of his career”（他职业生涯的下一阶段）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lapse",
+      "word": "lapse",
+      "phonetic": "/læps/",
+      "meaning": "n.失误,流逝,丧失,下降 v.失效,偏离,流逝",
+      "similar": [
+        "elapse",
+        "clause",
+        "lap",
+        "base",
+        "cape",
+        "ease",
+        "lace",
+        "lake"
+      ],
+      "question": {
+        "wordId": "lapse",
+        "stem": "选择 \"lapse\" 的正确中文意思：",
+        "correct": "n.失误,流逝,丧失,下降 v.失效,偏离,流逝",
+        "options": [
+          "n.(正式文件或法律文件的)条款;从句,分句",
+          "vi．(时间)溜走；(光阴)逝去",
+          "n.失误,流逝,丧失,下降 v.失效,偏离,流逝",
+          "n.大腿,(跑道的)一圈,一段路程,工作阶段"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'lapsus'（滑倒、坠落），核心物理动作为“滑落/溜走”。词根 'laps-' 表“滑、溜”，引申为时间“流逝”（如时间滑过）、标准/状态“下降/丧失”（如从高处滑落）、行为“失误”（如脚滑犯错）、权利/合同“失效”（如效力滑走）。",
+        "similarWarning": "elapse（时间消逝，侧重时间流过）；lapse（侧重失误/失效/流逝的多种含义）；clause（从句/条款，拼写差异为 'c' 开头）；lap（膝盖/一圈，拼写差异为 'a' 结尾无 'se'）；base（基础）；cape（海角/斗篷）；case（情况/箱子）；ease（轻松）；lace（蕾丝/系带）。",
+        "extendedMeaning": "考研僻义：1. n. 权利/合同的终止或失效（如 'lapse of a patent' 专利失效）；2. v. 陷入/滑入某种状态（如 'lapse into silence' 陷入沉默）；3. n. 行为上的短暂偏离（如 'moral lapse' 道德失足）。",
+        "examUsage": "真题考点：1. 固定搭配 'time lapse'（时间流逝），常用于科技类文章（如延时摄影）；2. 'lapse in concentration'（注意力不集中），在阅读理解中作为细节题定位词；3. 干扰项设置：常与 'collapse'（崩溃）、'elapse'（消逝）、'relapse'（复发）混淆，需根据语境判断具体含义。"
+      }
+    },
+    {
+      "id": "laptop",
+      "word": "laptop",
+      "phonetic": "/'læptɔp/",
+      "meaning": "n.膝上型电脑",
+      "similar": [],
+      "question": {
+        "wordId": "laptop",
+        "stem": "选择 \"laptop\" 的正确中文意思：",
+        "correct": "n.膝上型电脑",
+        "options": [
+          "n.膝上型电脑",
+          "n.素食主义者",
+          "v./n.再循环,重复利用",
+          "n.水汽,蒸汽,水蒸气 v.蒸发;蒸;用蒸汽开动"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "laptop = lap（膝部）+ top（顶部），字面意为“放在膝部顶部的设备”，直接描述其使用场景——可放在膝盖上操作的便携式电脑。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "largely",
+      "word": "largely",
+      "phonetic": "/'lɑ:dʒli/",
+      "meaning": "ad.主要地,基本上;大量地,大规模地",
+      "similar": [
+        "barely",
+        "lately",
+        "rarely",
+        "scarcely"
+      ],
+      "question": {
+        "wordId": "largely",
+        "stem": "选择 \"largely\" 的正确中文意思：",
+        "correct": "ad.主要地,基本上;大量地,大规模地",
+        "options": [
+          "ad.很少,难得,非常地",
+          "ad.最近,不久前",
+          "ad.赤裸裸地,无遮蔽地;仅仅,勉强,几乎没有",
+          "ad.主要地,基本上;大量地,大规模地"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自large（大的），ly为副词后缀。本义为“以大的方式”，引申为“主要地”（占据大的部分）和“大量地”（以大的数量/规模）。",
+        "similarWarning": "形近词：large（大的），barely（几乎不），lately（最近），rarely（很少），scarcely（几乎不）。区分核心在词根：large-表大小，bare-表赤裸/仅仅，late-表晚/最近，rare-表稀少。",
+        "extendedMeaning": "在考研中常作为程度副词，强调“在很大程度上”，如“largely due to”（很大程度上由于），非字面“大量”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "laser",
+      "word": "laser",
+      "phonetic": "/'leizə/",
+      "meaning": "n.激光",
+      "similar": [
+        "layer",
+        "plaster",
+        "easter",
+        "ladder",
+        "latter",
+        "lawyer",
+        "base",
+        "ease"
+      ],
+      "question": {
+        "wordId": "laser",
+        "stem": "选择 \"laser\" 的正确中文意思：",
+        "correct": "n.激光",
+        "options": [
+          "n.层，层次；铺设者",
+          "n.灰泥;熟石膏;膏药",
+          "n.复活节",
+          "n.激光"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自“Light Amplification by Stimulated Emission of Radiation”的首字母缩写，核心物理动作是“通过受激发射放大光”，即产生高度集中的单色光束。词根无，属科技造词，记忆点：laser=光（light）的集中喷射。",
+        "similarWarning": "later（后来）、layer（层）、laser（激光）：later vs laser 差一个字母's'；layer vs laser 差一个'y'。later强调时间顺序，layer指层次，laser指光束。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lash",
+      "word": "lash",
+      "phonetic": "/læʃ/",
+      "meaning": "v.鞭打,摆动,捆扎 n.鞭子,鞭打,睫毛,讽刺",
+      "similar": [
+        "clash",
+        "flash",
+        "ash",
+        "cash",
+        "dash",
+        "rash",
+        "wash",
+        "splash"
+      ],
+      "question": {
+        "wordId": "lash",
+        "stem": "选择 \"lash\" 的正确中文意思：",
+        "correct": "v.鞭打,摆动,捆扎 n.鞭子,鞭打,睫毛,讽刺",
+        "options": [
+          "v.鞭打,摆动,捆扎 n.鞭子,鞭打,睫毛,讽刺",
+          "n.灰，灰末；(pl.)骨灰；(pl.)废墟",
+          "v./n.碰撞 n.碰撞声",
+          "n./a.闪光(的) v.发闪光,闪亮;闪现"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为拟声词源，模拟鞭子抽打时发出的“咻-啪”声。核心物理动作是“快速、猛烈的甩动或击打”，由此引申出“鞭打”、“摆动”（如尾巴甩动）、“捆扎”（用绳子快速缠绕固定）以及名词“睫毛”（因睫毛快速眨动似鞭子甩动）和“讽刺”（言语如鞭子般尖锐）。",
+        "similarWarning": "与clash（冲突，金属撞击声）、flash（闪光，闪现）、crash（撞碎，崩溃）的拼写区别在于首字母辅音不同，需注意词义核心差异：lash强调“抽打/捆绑”，clash强调“碰撞/冲突”，flash强调“光/快速闪现”。",
+        "extendedMeaning": "熟词僻义：1. 猛烈冲击/拍打（尤指风雨、海浪），如“the waves lashed the shore”；2. 严厉批评/抨击，如“lash out at sb.”；3. 睫毛（复数lashes），是考研阅读中人物描写的高频词。",
+        "examUsage": "考点：1. lash out (at) 作为固定短语，意为“猛烈抨击/大量花钱”，是真题中常见的批判性动作描写；2. lash与lash out在完形中可能作为动词短语辨析干扰项（如与lash down区分）。"
+      }
+    },
+    {
+      "id": "lately",
+      "word": "lately",
+      "phonetic": "/'leitli/",
+      "meaning": "ad.最近,不久前",
+      "similar": [
+        "largely",
+        "label",
+        "barely",
+        "latent",
+        "lively",
+        "lonely",
+        "lovely",
+        "namely"
+      ],
+      "question": {
+        "wordId": "lately",
+        "stem": "选择 \"lately\" 的正确中文意思：",
+        "correct": "ad.最近,不久前",
+        "options": [
+          "ad.最近,不久前",
+          "ad.主要地,基本上;大量地,大规模地",
+          "n.标签 v.把...称为；用标签于；用标签标明",
+          "ad.赤裸裸地,无遮蔽地;仅仅,勉强,几乎没有"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "late（迟的/最近的）+ -ly（副词后缀）→ 字面意为“最近地”，强调时间上的新近发生。核心动作：时间轴上的“靠近现在”。",
+        "similarWarning": "late（adj./adv. 迟的/晚地） vs lately（adv. 最近）：late强调“迟于预期”，lately强调“时间上靠近现在”。例：He came late.（他来晚了）；He has been busy lately.（他最近很忙）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "latent",
+      "word": "latent",
+      "phonetic": "/'leitənt/",
+      "meaning": "a.潜在的,潜伏的,不易察觉的",
+      "similar": [
+        "patent",
+        "tent",
+        "agent",
+        "latin",
+        "extent",
+        "lately",
+        "talent"
+      ],
+      "question": {
+        "wordId": "latent",
+        "stem": "选择 \"latent\" 的正确中文意思：",
+        "correct": "a.潜在的,潜伏的,不易察觉的",
+        "options": [
+          "n.代理人；代理商；产生作用的人或事物",
+          "n.帐篷",
+          "a.专利的,特许的n.专利(权、品)v.批准专利",
+          "a.潜在的,潜伏的,不易察觉的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语动词 latere（隐藏、潜伏）。词根 lat-（隐藏）+ 后缀 -ent（形容词后缀，表示“具有…性质的”）。核心动作是“隐藏着的”，即潜在、潜伏、不易察觉的状态。",
+        "similarWarning": "patent（专利的；明显的）：pat-（公开）+ -ent，与 latent 相对，一隐一显。patient（病人；耐心的）：pati-（忍受）+ -ent，侧重忍耐。late（晚的）：与 latent 无直接词源关联，但拼写相似。agent（代理人）：ag-（行动）+ -ent，侧重行动者。",
+        "extendedMeaning": "在考研中常引申为“潜在的、尚未显现的”，如 latent ability（潜在能力）、latent heat（潜热，物理学术语）。",
+        "examUsage": "考研真题中常考其对立概念：latent vs. patent（明显的）。例句：The latent tension between the two groups finally erupted. （两组间的潜在紧张最终爆发。）"
+      }
+    },
+    {
+      "id": "lateral",
+      "word": "lateral",
+      "phonetic": "/'lætərəl/",
+      "meaning": "n.侧面的,旁边的",
+      "similar": [
+        "material",
+        "liberal",
+        "cathedral",
+        "literally",
+        "waterfall",
+        "external",
+        "integral",
+        "internal"
+      ],
+      "question": {
+        "wordId": "lateral",
+        "stem": "选择 \"lateral\" 的正确中文意思：",
+        "correct": "n.侧面的,旁边的",
+        "options": [
+          "n.侧面的,旁边的",
+          "n.大教堂",
+          "n.材料,原料,资料a.物质的,肉体的,实质性的",
+          "a.慷慨的,大方的;富足的;自由的,思想开放的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“latus”（侧面，边），后缀 -al 表示“与...有关的”。核心物理动作是“从侧面看”，引申为“侧面的、旁边的”，强调与中心或正面的相对位置。",
+        "similarWarning": "later（后来）与 lateral 相差一个字母 'l'，但 later 是时间副词；liberal（自由的）首字母不同，且含义差异大；literal（字面的）与 lateral 仅差 'r' 和 't'，但 literal 强调精确字义。",
+        "extendedMeaning": "在医学或解剖学中，lateral 常指“外侧的”，如 lateral ventricle（侧脑室）；在商业或管理中，可引申为“横向的”，如 lateral thinking（横向思维，即创造性思维）。",
+        "examUsage": "考研真题中，lateral 常作为形容词，考点在于与 opposite, vertical, horizontal 等方位词的对比，如“lateral movement”指侧向移动，而非垂直或水平方向。"
+      }
+    },
+    {
+      "id": "latin",
+      "word": "Latin",
+      "phonetic": "/'lætin/",
+      "meaning": "a.拉丁的,拉丁文的 n.拉丁语",
+      "similar": [
+        "latent",
+        "nation",
+        "tin",
+        "gain",
+        "lawn",
+        "vain",
+        "basin",
+        "cabin"
+      ],
+      "question": {
+        "wordId": "latin",
+        "stem": "选择 \"Latin\" 的正确中文意思：",
+        "correct": "a.拉丁的,拉丁文的 n.拉丁语",
+        "options": [
+          "a.拉丁的,拉丁文的 n.拉丁语",
+          "n.罐头；锡 a.锡制的 vt.镀锡于",
+          "n.民族,国家",
+          "a.潜在的,潜伏的,不易察觉的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'Latinus'，指拉丁姆地区（Latium）的语言和文化。词根 'Lat-' 与地名相关，无复杂演变，直接记忆为‘拉丁的’即可。",
+        "similarWarning": "形近词辨析：Latin（拉丁的） vs latent（潜在的，隐藏的） vs late（迟的，晚的）。差异在于 't' 后是否接 'ent' 或 'in'，词义完全不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "latitude",
+      "word": "latitude",
+      "phonetic": "/'lætitju:d/",
+      "meaning": "n.纬度,行动或言论的自由(范围),(pl.)地区",
+      "similar": [
+        "gratitude",
+        "altitude",
+        "attitude",
+        "longitude",
+        "magnitude",
+        "multitude",
+        "fatigue"
+      ],
+      "question": {
+        "wordId": "latitude",
+        "stem": "选择 \"latitude\" 的正确中文意思：",
+        "correct": "n.纬度,行动或言论的自由(范围),(pl.)地区",
+        "options": [
+          "n.纬度,行动或言论的自由(范围),(pl.)地区",
+          "n.感激,感谢",
+          "n.高度，海拔；[pl.]高处，高地",
+          "n.态度，看法(to, toward, about)；姿势"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'latitudo'，由 'latus'（宽的） + '-tudo'（名词后缀，表状态）构成。核心物理动作为“宽度”，地理上指赤道南北的“宽度”度量（纬度），引申为抽象领域的“宽度”——即行动或言论的自由范围。词根 'lat-' 与 'broad' 同源，强调横向延展。",
+        "similarWarning": "1. attitude：拼写差异 'at-' vs 'lat-'；态度，姿势（心理方位）。2. altitude：拼写差异 'alt-'（高） vs 'lat-'（宽）；高度，海拔。3. gratitude：拼写差异 'grat-'（感谢） vs 'lat-'；感激。4. longitude：拼写差异 'long-'（长） vs 'lat-'（宽）；经度。5. magnitude：拼写差异 'magn-'（大） vs 'lat-'；巨大，重要性。6. multitude：拼写差异 'mult-'（多） vs 'lat-'；大量，众多。7. fatigue：拼写差异 'fatig-'（疲劳） vs 'lat-'；疲劳。",
+        "extendedMeaning": "行动或言论的自由范围（考研高频僻义），如 'latitude in decision-making'（决策自由度）。",
+        "examUsage": "常与 'longitude'（经度）成对出现，辨析地理概念。真题考点：'give someone latitude'（给予某人自由/宽容），如 'The teacher gave her students latitude to choose their own topics.'（老师给予学生选择主题的自由。）"
+      }
+    },
+    {
+      "id": "latter",
+      "word": "latter",
+      "phonetic": "/'lætə/",
+      "meaning": "a.后者的；后一半的，接近终了的 n.后者",
+      "similar": [
+        "flatter",
+        "litter",
+        "battery",
+        "glitter",
+        "lantern",
+        "leather",
+        "lottery",
+        "plaster"
+      ],
+      "question": {
+        "wordId": "latter",
+        "stem": "选择 \"latter\" 的正确中文意思：",
+        "correct": "a.后者的；后一半的，接近终了的 n.后者",
+        "options": [
+          "a.后者的；后一半的，接近终了的 n.后者",
+          "n.电池(组)；(器具等的)一组，一套；炮兵连",
+          "vt.奉承;使高兴;使满意;胜过",
+          "n.垃圾,(杂乱的)废物 v.使杂乱,乱丢"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "比较级形式，源自古英语‘lætra’（更迟的），与‘late’（迟的）同源，核心动作/画面为‘时间上更靠后的’→‘后者的；后一半的’。",
+        "similarWarning": "later（后来，a./ad.） vs latter（后者，a./n.）：later指时间上更晚；latter指顺序上靠后（常与former对照）。letter（信件） vs latter：字母‘t’双写差异，拼写易混淆。litter（垃圾） vs latter：元音i/a不同，含义迥异。",
+        "extendedMeaning": "考研中常以‘the latter’形式作名词，指代前述两者中的后者，与‘the former’（前者）形成对比考点。",
+        "examUsage": "固定搭配‘the former...the latter...’（前者……后者……），真题中常作为指代关系题眼，需准确区分先行词。"
+      }
+    },
+    {
+      "id": "laugh",
+      "word": "laugh",
+      "phonetic": "/lɑ:f/",
+      "meaning": "v.笑;(on)讥笑 n.笑,笑声",
+      "similar": [
+        "launch",
+        "plough",
+        "lag",
+        "lash",
+        "cough",
+        "gauge",
+        "rough",
+        "tough"
+      ],
+      "question": {
+        "wordId": "laugh",
+        "stem": "选择 \"laugh\" 的正确中文意思：",
+        "correct": "v.笑;(on)讥笑 n.笑,笑声",
+        "options": [
+          "v.笑;(on)讥笑 n.笑,笑声",
+          "v.发射;使(船)下水,发动,开展 n.发射,下水",
+          "v./n.落后,滞后 vt.用隔热材料覆盖(锅炉等)",
+          "n.(plow)犁,耕地,犁过的地 v.犁,费力地前进"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模拟笑声的发音，与古英语'hliehhan'同源，核心动作为'发出笑声'，引申为讥笑、嘲笑。",
+        "similarWarning": "laugh vs. launch（发射/发动）：a改au，拟声vs.动作；laugh vs. plough（犁耕）：加p，笑声vs.农耕；laugh vs. cough（咳嗽）：l改c，笑声vs.病态。",
+        "extendedMeaning": "考研中常考'讥笑'义，如'laugh at'（嘲笑），但更需注意'no laughing matter'（非同儿戏）的固定表达。",
+        "examUsage": "真题考点：'laugh off'（一笑置之）常作为干扰项，如'He laughed off the criticism.'（他对批评一笑置之）。"
+      }
+    },
+    {
+      "id": "laughter",
+      "word": "laughter",
+      "phonetic": "/'lɑ:ftə/",
+      "meaning": "n.笑,笑声",
+      "similar": [
+        "slaughter",
+        "latter",
+        "naughty"
+      ],
+      "question": {
+        "wordId": "laughter",
+        "stem": "选择 \"laughter\" 的正确中文意思：",
+        "correct": "n.笑,笑声",
+        "options": [
+          "a.顽皮的,淘气的",
+          "a.后者的；后一半的，接近终了的 n.后者",
+          "n.屠杀，屠宰 vt.屠杀，宰杀",
+          "n.笑,笑声"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语 'hleahtor'，直接来自拟声词根 'hlæh-'（模仿大笑的声音，类似'哈'）。核心物理动作为张开嘴发出连续的气流声，表示因愉悦而爆发的声音。",
+        "similarWarning": "slaughter ['slɔ:tə] v.屠杀（sl-与'杀'有关，如slay/杀死）；latter ['lætə] a.后者的（lat-更晚，比较级）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "launch",
+      "word": "launch",
+      "phonetic": "/lɔ:ntʃ/",
+      "meaning": "v.发射;使(船)下水,发动,开展 n.发射,下水",
+      "similar": [
+        "bunch",
+        "laugh",
+        "punch"
+      ],
+      "question": {
+        "wordId": "launch",
+        "stem": "选择 \"launch\" 的正确中文意思：",
+        "correct": "v.发射;使(船)下水,发动,开展 n.发射,下水",
+        "options": [
+          "v.发射;使(船)下水,发动,开展 n.发射,下水",
+          "n.(一)簇,束,捆,串",
+          "v.笑;(on)讥笑 n.笑,笑声",
+          "n.冲压机,冲床;穿孔机 v.冲压,穿孔"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语lanceare（投掷长矛），核心物理动作是“用力投出”。船下水时如同被“投”入水中，火箭发射如同被“投”向天空，引申为“发动、开展”一项活动或计划。",
+        "similarWarning": "lunch（午餐） vs launch：lunch无字母a；bunch（束） vs launch：bunch无l和a，且词义不同；laugh（笑） vs launch：laugh拼写为l-a-u-g-h，而launch为l-a-u-n-c-h，注意n和c的差异；punch（拳打） vs launch：punch无l和a，且词义不同。",
+        "extendedMeaning": "在考研真题及外刊中，launch常引申为“推出（新产品、服务、政策等）”，如launch a campaign（发起运动）、launch an investigation（展开调查），或“启动（程序、系统）”。",
+        "examUsage": "高频搭配：launch an attack/initiative（发起攻击/倡议）；launch a product（发布产品）。真题例句：The company launched a new line of eco-friendly products.（该公司推出了一条新的环保产品线。）注意与start、initiate的近义辨析，launch更强调“正式、有计划的开始”。"
+      }
+    },
+    {
+      "id": "laundry",
+      "word": "laundry",
+      "phonetic": "/'lɔ:ndri/",
+      "meaning": "n.洗衣房(店);待洗衣物,所洗衣物",
+      "similar": [
+        "boundary"
+      ],
+      "question": {
+        "wordId": "laundry",
+        "stem": "选择 \"laundry\" 的正确中文意思：",
+        "correct": "n.洗衣房(店);待洗衣物,所洗衣物",
+        "options": [
+          "n.分界线,边界",
+          "n.洗衣房(店);待洗衣物,所洗衣物",
+          "n.胡须",
+          "n.概念,想法,意念,看法,观点"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根‘lav-’（洗）→ 拉丁语‘lavare’（洗）→ 古法语‘lavanderie’（洗衣房）。‘laundry’指洗衣的场所或待洗/已洗的衣物，核心动作是‘洗’。",
+        "similarWarning": "boundary（边界）：‘bound-’（界限）→ 指分界线；laundry为‘lav-’（洗）。拼写差异：‘laundry’含‘-dry-’（干），暗示洗后晾干；‘boundary’含‘-bound-’（束缚）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lavatory",
+      "word": "lavatory",
+      "phonetic": "/'lævətəri/",
+      "meaning": "n.厕所,盥洗室",
+      "similar": [
+        "factory",
+        "elevator"
+      ],
+      "question": {
+        "wordId": "lavatory",
+        "stem": "选择 \"lavatory\" 的正确中文意思：",
+        "correct": "n.厕所,盥洗室",
+        "options": [
+          "n.厕所,盥洗室",
+          "n.工厂",
+          "n.电梯,升降机",
+          "vt.崇拜,敬慕,爱慕；非常喜欢"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"来自拉丁语\"lavare\"（洗），词根\"lav-\"（洗）+ \"-atory\"（场所）。核心动作是\"清洗\"，原指盥洗室，后引申为厕所。\",\n  \"similarWarning\": \"factory（工厂，词根\"fact-\"做）、elevator（电梯，词根\"lev-\"升起）。差异在词根\"lav-\"（洗）vs \"fact-\"（做）vs \"lev-\"（升），注意不要混淆。\",\n  \"extendedMeaning\": \"\",\n  \"examUsage\": \"\"\n}",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lawn",
+      "word": "lawn",
+      "phonetic": "/lɔ:n/",
+      "meaning": "n.草地,草坪",
+      "similar": [
+        "dawn",
+        "yawn",
+        "latin",
+        "plain"
+      ],
+      "question": {
+        "wordId": "lawn",
+        "stem": "选择 \"lawn\" 的正确中文意思：",
+        "correct": "n.草地,草坪",
+        "options": [
+          "a.拉丁的,拉丁文的 n.拉丁语",
+          "n.草地,草坪",
+          "n.黎明,拂晓 v.破晓;开始现出",
+          "v.打呵欠 n.呵欠"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语‘lawn’（空地），与‘land’同源，本义为‘林中空地’，后专指人工修剪的草坪。核心物理动作：一片平坦、开阔、被植被覆盖的地面。",
+        "similarWarning": "law（法律）: 与lawn仅差一个字母n，词义完全无关。dawn（黎明）: 开头d替换l，指时间。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lawyer",
+      "word": "lawyer",
+      "phonetic": "/'lɔ:jə/",
+      "meaning": "n.律师",
+      "similar": [
+        "layer",
+        "laser",
+        "lower",
+        "ladder",
+        "latter"
+      ],
+      "question": {
+        "wordId": "lawyer",
+        "stem": "选择 \"lawyer\" 的正确中文意思：",
+        "correct": "n.律师",
+        "options": [
+          "n.律师",
+          "n.层，层次；铺设者",
+          "n.激光",
+          "a.较低的,下级的,下游的 v.降下,放低"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语‘lagu’（法律），后缀‘-yer’表‘从事…的人’。核心动作是‘法律执行者’，即律师。",
+        "similarWarning": "layer（层）、laser（激光）、later（后来）、lower（较低的）、ladder（梯子）、latter（后者）。差异主要在元音和辅音：lawyer中‘aw’发/ɔ:/，而layer中‘ay’发/eɪ/；laser中‘a’发/eɪ/；later中‘a’发/eɪ/；lower中‘ow’发/əʊ/；ladder中‘dd’发/d/；latter中‘tt’发/t/。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "layer",
+      "word": "layer",
+      "phonetic": "/'leɪə(r)/",
+      "meaning": "n.层，层次；铺设者",
+      "similar": [
+        "lawyer",
+        "laser",
+        "ladder",
+        "latter",
+        "prayer",
+        "lace",
+        "lake",
+        "lame"
+      ],
+      "question": {
+        "wordId": "layer",
+        "stem": "选择 \"layer\" 的正确中文意思：",
+        "correct": "n.层，层次；铺设者",
+        "options": [
+          "n.律师",
+          "n.激光",
+          "n.层，层次；铺设者",
+          "n.梯子,阶梯"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根lay-（放，铺设）+ -er（名词后缀，表物或人）。核心动作：将东西平铺放置后形成的“层”或“铺设者”。",
+        "similarWarning": "lawyer（律师） vs layer（层）：law-（法律）+ -yer（人）；laser（激光） vs layer：las-（源自light amplification的缩写）；later（后来） vs layer：late-（迟的）+ -r；ladder（梯子） vs layer：ladd-（古英语hlæder）；latter（后者） vs layer：latt-（比较级）；prayer（祈祷） vs layer：pray-（祈祷）+ -er；lay（放置） vs layer：去掉-er；lace（花边） vs layer：lac-（系带）。",
+        "extendedMeaning": "（无特殊考研僻义）",
+        "examUsage": "（无特殊真题考点）"
+      }
+    },
+    {
+      "id": "layman",
+      "word": "layman",
+      "phonetic": "/'leimən/",
+      "meaning": "n.外行",
+      "similar": [],
+      "question": {
+        "wordId": "layman",
+        "stem": "选择 \"layman\" 的正确中文意思：",
+        "correct": "n.外行",
+        "options": [
+          "v.组成,构成;(of)由…组成;创作(诗歌等)",
+          "n.位置,场所,定位,测位",
+          "n.外行",
+          "n.不幸,灾祸,灾难"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自中古英语，由'lay'（非神职的、世俗的）与'man'（人）复合而成。'lay'本身指未受神职训练的普通信徒，与'clergy'（神职人员）相对，后引申为任何领域的非专业人士。核心动作：非职业、非专门训练的身份状态。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研语境中，常引申为'门外汉'，强调对某学科或技能缺乏系统了解，而非单纯指业余爱好者。例如：'The report is too technical for a layman.'（该报告对外行来说过于专业。）",
+        "examUsage": "常与'professional'、'expert'等词形成对比考点，或出现在说明文首段引出话题。例如：'To a layman, these terms sound similar, but experts distinguish them precisely.'（对外行而言，这些术语听起来相似，但专家能精确区分。）"
+      }
+    },
+    {
+      "id": "layoff",
+      "word": "layoff",
+      "phonetic": "/'leiɔf/",
+      "meaning": "n.临时解雇,操作停止,活动停止期间,失业期",
+      "similar": [
+        "layout"
+      ],
+      "question": {
+        "wordId": "layoff",
+        "stem": "选择 \"layoff\" 的正确中文意思：",
+        "correct": "n.临时解雇,操作停止,活动停止期间,失业期",
+        "options": [
+          "n.临时解雇,操作停止,活动停止期间,失业期",
+          "n.安排，布局，设计；规划图，布局图",
+          "n./a.之字形(的) v.使曲折,曲折盘旋",
+          "n.日食,月食"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由动词短语'lay off'（停止、解雇）组合而成。'lay'（放置）+ 'off'（离开），核心动作是'放置到一边使其离开'，引申为暂时停止工作或雇佣关系。",
+        "similarWarning": "layout（布局、设计）：拼写差异在于'off' vs 'out'。layoff强调'被解雇/停止'的状态；layout强调'安排/布置'的动作结果。",
+        "extendedMeaning": "考研中常引申为'非自愿的临时失业期'，或指'活动的暂停/中断'，如生产线的停工。",
+        "examUsage": "真题中常考察其名词属性及搭配：mass layoff（大规模裁员）；layoff notice（解雇通知）。例句：The company announced a temporary layoff due to the economic downturn.（公司因经济衰退宣布临时解雇。）"
+      }
+    },
+    {
+      "id": "layout",
+      "word": "layout",
+      "phonetic": "/'leiaut/",
+      "meaning": "n.安排，布局，设计；规划图，布局图",
+      "similar": [
+        "layoff"
+      ],
+      "question": {
+        "wordId": "layout",
+        "stem": "选择 \"layout\" 的正确中文意思：",
+        "correct": "n.安排，布局，设计；规划图，布局图",
+        "options": [
+          "n.安排，布局，设计；规划图，布局图",
+          "n.临时解雇,操作停止,活动停止期间,失业期",
+          "a.有效的,效率高的;有能力的,能胜任的",
+          "a.金黄色的;贵重的,极好的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由动词短语'lay out'（铺开、展开）合成而来。'lay'（放置）+'out'（向外）→ 将物品向外铺开→ 引申为对空间或页面的'安排、布局'。",
+        "similarWarning": "形近词对比：\n- layout（布局）vs. layoff（解雇）：'layout'强调'放置出来'（out），'layoff'强调'放下'（off），即停止雇佣。\n- layout vs. about（关于）：'about'为介词/副词，无'铺开'的物理动作。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lazy",
+      "word": "lazy",
+      "phonetic": "/'leɪzi/",
+      "meaning": "a.懒惰的,懒散的",
+      "similar": [
+        "blaze",
+        "crazy"
+      ],
+      "question": {
+        "wordId": "lazy",
+        "stem": "选择 \"lazy\" 的正确中文意思：",
+        "correct": "a.懒惰的,懒散的",
+        "options": [
+          "n.处罚,刑罚,惩罚,罚金",
+          "a.疯狂的,古怪的,蠢的;(about)狂热的",
+          "n.火焰;火光;闪光,光辉 v.燃烧,冒火焰",
+          "a.懒惰的,懒散的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自中古英语‘lasy’（不愿动的）。核心动作是‘缺乏动力或不愿付出努力’，指向一种消极的、迟缓的状态。",
+        "similarWarning": "形近词辨析：lay（放置，过去式），lady（女士），blaze（火焰，燃烧），crazy（疯狂的）。lazy强调‘懒惰’，与lay（放置）仅一字之差；与lady（女士）词义无关；与blaze（火焰）拼写相近但语义无关；与crazy（疯狂的）同样拼写相似但无直接联系。",
+        "extendedMeaning": "在考研语境中无特殊僻义，保持‘懒惰的、懒散的’基本义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "leadership",
+      "word": "leadership",
+      "phonetic": "/'li:dəʃip/",
+      "meaning": "n.领导",
+      "similar": [
+        "membership",
+        "ownership",
+        "spaceship"
+      ],
+      "question": {
+        "wordId": "leadership",
+        "stem": "选择 \"leadership\" 的正确中文意思：",
+        "correct": "n.领导",
+        "options": [
+          "n.会员资格,成员资格",
+          "n.宇宙飞船",
+          "n.所有(权),所有制",
+          "n.领导"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根：lead（领导） + -er（人） + -ship（抽象名词后缀，表身份、状态、关系）。核心动作：lead（引导）→ leader（领导者）→ leadership（领导者的身份或能力）。",
+        "similarWarning": "membership（会员身份）、ownership（所有权）、spaceship（宇宙飞船）：后缀均为-ship，但词根不同；leadership强调领导行为/地位，非具体所有权或会员资格。",
+        "extendedMeaning": "领导力（抽象能力，非仅职位）：真题常考‘leadership qualities’（领导素质）、‘leadership style’（领导风格），需与‘management’（管理，侧重执行）区分。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "leading",
+      "word": "leading",
+      "phonetic": "/'li:diŋ/",
+      "meaning": "a.领导的,指导的;第一位的;最主要的",
+      "similar": [
+        "heading",
+        "reading",
+        "learning",
+        "ending",
+        "bearing",
+        "hearing",
+        "meaning",
+        "wedding"
+      ],
+      "question": {
+        "wordId": "leading",
+        "stem": "选择 \"leading\" 的正确中文意思：",
+        "correct": "a.领导的,指导的;第一位的;最主要的",
+        "options": [
+          "a.领导的,指导的;第一位的;最主要的",
+          "n.标题",
+          "n.知识,学问;学习",
+          "n.读书,读物,(仪表等的)读数,阅读"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由lead（引导，带领）加-ing（形容词后缀）构成。核心动作是“引导”，引申为处于引导位置的，即“领导的；第一位的；最主要的”。",
+        "similarWarning": "对比heading（标题，方向，由head“头”派生）、reading（阅读，由read派生）、learning（学习，由learn派生）、ending（结尾，由end派生）。leading强调“引领”，heading强调“朝向”，reading/learning/ending则与“读/学/结束”相关。",
+        "extendedMeaning": "在考研英语中，leading常表“领先的；主导的”，如leading role（主导作用）、leading indicator（先行指标，经济学常用）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "leaflet",
+      "word": "leaflet",
+      "phonetic": "/'li:flit/",
+      "meaning": "n.小叶,嫩叶;传单,活页",
+      "similar": [],
+      "question": {
+        "wordId": "leaflet",
+        "stem": "选择 \"leaflet\" 的正确中文意思：",
+        "correct": "n.小叶,嫩叶;传单,活页",
+        "options": [
+          "v.钻(孔),挖(洞);烦扰 n.讨厌的人,麻烦事",
+          "vt.加重(剧),使恶化；激怒,使恼火",
+          "n.小叶,嫩叶;传单,活页",
+          "n./vt.掠夺,蹂躏,强奸"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "leaf（叶子）+ -let（小后缀，表示小东西）→ 小叶、嫩叶；引申为像小叶子一样轻薄的传单/活页。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    }
+  ]
+}

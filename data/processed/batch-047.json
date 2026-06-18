@@ -1,0 +1,1751 @@
+{
+  "batchId": 47,
+  "words": [
+    {
+      "id": "literature",
+      "word": "literature",
+      "phonetic": "/'litərətʃə/",
+      "meaning": "n.文学,文学作品,文献,图书资料,印刷品",
+      "similar": [
+        "liberate",
+        "literary",
+        "creature",
+        "literacy",
+        "literally",
+        "miniature",
+        "signature",
+        "illiterate"
+      ],
+      "question": {
+        "wordId": "literature",
+        "stem": "选择 \"literature\" 的正确中文意思：",
+        "correct": "n.文学,文学作品,文献,图书资料,印刷品",
+        "options": [
+          "a.文学上的,文学的;精通文学的,从事写作的",
+          "n.人,动物;生物",
+          "vt.解放,释放",
+          "n.文学,文学作品,文献,图书资料,印刷品"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'littera' (字母)。词根 'litter-' (字母) + 名词后缀 '-ature' (表状态/集合)。核心物理动作是“字母的集合”，即由字母组成的系统性文本作品，从具体文字集合引申为文学、文献等抽象概念。",
+        "similarWarning": "literary (文学的，形容词) vs literature (文学，名词)；literacy (读写能力) vs literature (作品集合)；literally (字面地) vs literature (文献)。",
+        "extendedMeaning": "【考研僻义】文献、图书资料、印刷品。例如：scientific literature (科学文献)、medical literature (医学文献)、promotional literature (宣传印刷品)。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "litre",
+      "word": "litre",
+      "phonetic": "/'li:tə/",
+      "meaning": "n.(liter)升；公升(容量单位)",
+      "similar": [
+        "litter",
+        "bite",
+        "cite",
+        "hire",
+        "kite",
+        "like",
+        "live",
+        "lure"
+      ],
+      "question": {
+        "wordId": "litre",
+        "stem": "选择 \"litre\" 的正确中文意思：",
+        "correct": "n.(liter)升；公升(容量单位)",
+        "options": [
+          "n.(liter)升；公升(容量单位)",
+          "v.引用,引证,举(例)",
+          "n.垃圾,(杂乱的)废物 v.使杂乱,乱丢",
+          "v./n.咬,叮 n.一口"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语'litra'（一种重量单位），后通过法语进入英语，指代容量单位。词根与度量衡相关，核心物理动作为“测量液体体积”。",
+        "similarWarning": "litter（乱扔垃圾/一窝幼崽）：字母差'ter'与'tre'，词义完全不同；little（小的）：字母差'i'与'i'，但拼写顺序不同，容量单位与大小无关。",
+        "extendedMeaning": "在考研中无特殊僻义，仅作为容量单位使用。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "litter",
+      "word": "litter",
+      "phonetic": "/'litə/",
+      "meaning": "n.垃圾,(杂乱的)废物 v.使杂乱,乱丢",
+      "similar": [
+        "glitter",
+        "bitter",
+        "latter",
+        "flatter",
+        "lottery",
+        "liner",
+        "litre",
+        "liver"
+      ],
+      "question": {
+        "wordId": "litter",
+        "stem": "选择 \"litter\" 的正确中文意思：",
+        "correct": "n.垃圾,(杂乱的)废物 v.使杂乱,乱丢",
+        "options": [
+          "n.垃圾,(杂乱的)废物 v.使杂乱,乱丢",
+          "n.光辉,灿烂 v.闪闪发光;闪耀",
+          "a.(有)苦(味)的;痛苦的,厉害的",
+          "a.后者的；后一半的，接近终了的 n.后者"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 lectus (床)，经由古法语 litiere (床铺、垫草) 进入英语。核心物理动作是“散乱铺放”，原指动物窝中散落的干草，后引申为随意丢弃、散落一地的杂物，即“垃圾、废物”。",
+        "similarWarning": "glitter (闪光，闪烁)：g + litter，g 像闪光的光线；bitter (苦的)：b + litter，b 像苦味；latter (后者的)：l + atter，与 litter 差一个字母；letter (字母，信)：le + tter，与 litter 差一个 e；flatter (奉承)：f + latter，f 像讨好；lottery (彩票)：lot + tery，与 litter 音近形异；later (后来)：la + ter，少一个 t；liner (班轮，衬垫)：line + r，与 litter 差一个 i。",
+        "extendedMeaning": "n. (动物)一窝幼崽。e.g., a litter of puppies (一窝小狗)。v. 使(某处)充满(某物)，散布。e.g., The floor was littered with papers. (地板上散落着文件。)",
+        "examUsage": "考研真题常考其动词用法“使杂乱”，尤其与 with 搭配。如：The desk was littered with books. 也可用于比喻义：His speech was littered with mistakes. (他的演讲错误百出。)"
+      }
+    },
+    {
+      "id": "live",
+      "word": "live",
+      "phonetic": "/lɪv/",
+      "meaning": "v.活着,生活,居住 a.活的,生动的,直播的",
+      "similar": [
+        "alive",
+        "liver",
+        "dive",
+        "five",
+        "like",
+        "lively",
+        "alike",
+        "elite"
+      ],
+      "question": {
+        "wordId": "live",
+        "stem": "选择 \"live\" 的正确中文意思：",
+        "correct": "v.活着,生活,居住 a.活的,生动的,直播的",
+        "options": [
+          "n.肝,肝脏",
+          "v./n.潜水,跳水,俯冲",
+          "v.活着,生活,居住 a.活的,生动的,直播的",
+          "a.活着的；存在的；活跃的；(to)敏感的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根源于古英语libban/lifian，核心物理动作为“呼吸、存续”。由“呼吸”引申为“活着”，再引申为“居住（在某地持续存在）”；形容词义从“有生命的”延伸至“生动的、直播的（即时发生的）”。",
+        "similarWarning": "alive（adj.活着的，表状态）vs live（adj.直播的/活的，常作定语）；life（n.生命）vs live（v.生活）；lie（v.躺/说谎）与live仅差一个字母f，注意拼写。",
+        "extendedMeaning": "adj.实况直播的（如live broadcast）；adj.当前重要的/未解决的（如a live issue）。",
+        "examUsage": "live up to（不辜负）；live on（以…为生）；live through（经历…而幸存）。真题中常考live broadcast（现场直播）与alive作表语的区别。"
+      }
+    },
+    {
+      "id": "lively",
+      "word": "lively",
+      "phonetic": "/'laivli/",
+      "meaning": "a.活泼的,活跃的;栩栩如生的,真实的",
+      "similar": [
+        "lovely",
+        "live",
+        "liver",
+        "lately",
+        "lonely",
+        "timely",
+        "delivery",
+        "unlikely"
+      ],
+      "question": {
+        "wordId": "lively",
+        "stem": "选择 \"lively\" 的正确中文意思：",
+        "correct": "a.活泼的,活跃的;栩栩如生的,真实的",
+        "options": [
+          "n.肝,肝脏",
+          "a.活泼的,活跃的;栩栩如生的,真实的",
+          "a.可爱的,好看的;令人愉快的,美好的",
+          "v.活着,生活,居住 a.活的,生动的,直播的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自 life（生命）+ -ly（形容词后缀）。核心动作是“充满生命力的”，引申为“活泼的、活跃的”，再引申为“栩栩如生的”，强调生动逼真。",
+        "similarWarning": "likely（可能的，副词“很可能”）：lively 强调“活泼”，likely 强调“可能性”。lovely（可爱的）：lively 侧重活力，lovely 侧重美感。live（活的，现场直播的）：lively 是形容词“活泼的”，live 作为形容词读/laɪv/，指“活着的”或“实况的”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "liver",
+      "word": "liver",
+      "phonetic": "/'livə/",
+      "meaning": "n.肝,肝脏",
+      "similar": [
+        "live",
+        "lever",
+        "liner",
+        "lover",
+        "deliver",
+        "clever",
+        "divert",
+        "driver"
+      ],
+      "question": {
+        "wordId": "liver",
+        "stem": "选择 \"liver\" 的正确中文意思：",
+        "correct": "n.肝,肝脏",
+        "options": [
+          "n.班机,定期轮船,邮船",
+          "n.杆,杠杆,手段,途径,工具",
+          "v.活着,生活,居住 a.活的,生动的,直播的",
+          "n.肝,肝脏"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语 lifer，与‘生活’相关，因肝脏在古代医学中被视为生命核心器官。词根无复杂演变，直接指代肝脏。",
+        "similarWarning": "易混词：live（生活/现场）、lever（杠杆）、liner（衬垫/班轮）、lover（爱人）、river（河流）、deliver（递送/分娩）、clever（聪明的）、divert（转移）。差异在于字母替换：liver vs. live（删r）、lever（r换e）、liner（r换n）等，词义无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "living",
+      "word": "living",
+      "phonetic": "/'liviŋ/",
+      "meaning": "a.活的,有生命的,天然的,逼真的n.生活,生计",
+      "similar": [
+        "divine",
+        "saving"
+      ],
+      "question": {
+        "wordId": "living",
+        "stem": "选择 \"living\" 的正确中文意思：",
+        "correct": "a.活的,有生命的,天然的,逼真的n.生活,生计",
+        "options": [
+          "v.蒸发,挥发;沉淀;发射;消失",
+          "n.挽救,救助,节约,储蓄;(pl.)储蓄金,存款",
+          "a.神的，神授的，天赐的；极好的，极美的",
+          "a.活的,有生命的,天然的,逼真的n.生活,生计"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自 live（生活，活着）的现在分词形式，核心动作是“持续存在、处于生命状态”，引申为“有生命的、活跃的”。",
+        "similarWarning": "divine（神圣的，神的）与 living 仅首字母不同；saving（节约的，挽救的）与 living 在拼写上有“sav” vs “liv”的区别。",
+        "extendedMeaning": "考研中常考“逼真的”（如 a living portrait）或“天然的”（如 living language 活语言），以及名词“生计”（make a living）。",
+        "examUsage": "常见搭配：make a living（谋生）、living standard（生活水平）、living proof（活生生的证据）。"
+      }
+    },
+    {
+      "id": "living-room",
+      "word": "living-room",
+      "phonetic": "/'lɪvɪŋ ru:m/",
+      "meaning": "n.起居室",
+      "similar": [],
+      "question": {
+        "wordId": "living-room",
+        "stem": "选择 \"living-room\" 的正确中文意思：",
+        "correct": "n.起居室",
+        "options": [
+          "v.合并,纳入,结合 a.合并的",
+          "n.起居室",
+          "v.变换,转换；改变（信仰等）；兑换（钱）",
+          "a.同时的,同时存在的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "living（居住） + room（房间）→ 居住用的房间，区别于卧室、厨房等，特指家庭中用于日常休闲、社交活动的空间。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "load",
+      "word": "load",
+      "phonetic": "/ləud/",
+      "meaning": "v.装(货),装载 n.装载(量),负荷(量);(一)担",
+      "similar": [
+        "lad",
+        "loaf",
+        "loan",
+        "lord",
+        "loud",
+        "unload",
+        "aloud",
+        "broad"
+      ],
+      "question": {
+        "wordId": "load",
+        "stem": "选择 \"load\" 的正确中文意思：",
+        "correct": "v.装(货),装载 n.装载(量),负荷(量);(一)担",
+        "options": [
+          "v.装(货),装载 n.装载(量),负荷(量);(一)担",
+          "n.贷款;出借,借出 v.借出",
+          "n.男孩,小伙子",
+          "n.一个面包"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语 'lad'（道路、搬运），核心动作是“把东西放到运输工具上”，引申为“装载、负担”。",
+        "similarWarning": "lad（小伙子，/læd/） vs load（装载，/ləud/）：元音 a 短促 vs oa 双元音；lead（领导，/liːd/） vs load：ea 长音 /iː/ vs oa 双元音；loaf（一条面包，/ləuf/） vs load：末尾 f vs d，词义不同；loan（贷款，/ləun/） vs load：末尾 n vs d；lord（领主，/lɔːd/） vs load：元音 /ɔː/ vs /əu/；loud（大声的，/laud/） vs load：元音 /au/ vs /əu/；road（道路，/rəud/） vs load：首字母 r vs l；unload（卸货）是 load 的反义词。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "loaf",
+      "word": "loaf",
+      "phonetic": "/ləuf/",
+      "meaning": "n.一个面包",
+      "similar": [
+        "load",
+        "loan",
+        "cloak",
+        "float",
+        "local",
+        "loyal"
+      ],
+      "question": {
+        "wordId": "loaf",
+        "stem": "选择 \"loaf\" 的正确中文意思：",
+        "correct": "n.一个面包",
+        "options": [
+          "v.装(货),装载 n.装载(量),负荷(量);(一)担",
+          "n.贷款;出借,借出 v.借出",
+          "n.斗蓬，披风；掩饰，幌子vt.掩盖，掩饰",
+          "n.一个面包"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语hlaf（面包），核心物理动作是“切下一块”。词根与“面包”直接关联，后引申为“面包形状的块状物”。",
+        "similarWarning": "leaf（叶子，f结尾） vs loaf（面包，f在中间）；load（负载，d结尾） vs loaf（负载是重物，面包是食物）；loan（贷款，n结尾） vs loaf（贷款是借出，面包是实物）；cloak（斗篷，c开头） vs loaf（斗篷是衣物，面包是食物）；float（漂浮，t结尾） vs loaf（漂浮是动态，面包是静态）；local（当地的，c结尾） vs loaf（当地是地点，面包是食物）；loyal（忠诚的，y结尾） vs loaf（忠诚是品质，面包是食物）。",
+        "extendedMeaning": "考研僻义：懒散地混日子（动词，常与around/about连用）。例如：loaf around（闲逛）。",
+        "examUsage": "真题考点：动词用法“loaf about/around”表示闲荡，常见于阅读理解中描述人物状态，如“He spent the whole afternoon loafing about the park.”"
+      }
+    },
+    {
+      "id": "loan",
+      "word": "loan",
+      "phonetic": "/ləun/",
+      "meaning": "n.贷款;出借,借出 v.借出",
+      "similar": [
+        "lean",
+        "load",
+        "loaf",
+        "moan",
+        "slogan",
+        "cloak",
+        "float",
+        "groan"
+      ],
+      "question": {
+        "wordId": "loan",
+        "stem": "选择 \"loan\" 的正确中文意思：",
+        "correct": "n.贷款;出借,借出 v.借出",
+        "options": [
+          "n.贷款;出借,借出 v.借出",
+          "v.倾斜,屈身;倚,靠,依赖 a.瘦的,无脂肪的",
+          "v.装(货),装载 n.装载(量),负荷(量);(一)担",
+          "n.一个面包"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语læn‘出借物’，与古诺斯语lán同源，核心物理动作是‘暂时让渡某物所有权或使用权’，强调‘借出’这一行为本身，而非借入。",
+        "similarWarning": "lean (倾斜/倚靠) vs loan (贷款): lean中ea读/iː/，侧重身体动作；loan中oa读/əu/，侧重金钱或物品的暂时转移。load (负荷) vs loan: load中oa读/əu/，指装载物；loan指借贷关系。loaf (面包/游荡) vs loan: loaf中oa读/əu/，指食物或闲逛；loan无此义。",
+        "extendedMeaning": "在考研真题中，loan常引申为‘暂借物’或‘临时使用权’，如‘interlibrary loan’（馆际互借）指图书资料的临时借阅服务，非金钱交易。",
+        "examUsage": "考研英语二阅读中常出现‘loan agreement’（贷款协议）、‘student loan’（助学贷款）等搭配，需注意loan作动词时及物性，如‘loan sb sth’或‘loan sth to sb’。"
+      }
+    },
+    {
+      "id": "lobby",
+      "word": "lobby",
+      "phonetic": "/'lɔbi/",
+      "meaning": "n.门廊,门厅,(会议)休息厅",
+      "similar": [
+        "hobby",
+        "obey",
+        "lofty",
+        "lorry"
+      ],
+      "question": {
+        "wordId": "lobby",
+        "stem": "选择 \"lobby\" 的正确中文意思：",
+        "correct": "n.门廊,门厅,(会议)休息厅",
+        "options": [
+          "a.崇高的，高尚的；高傲的；极高的",
+          "v.服从, 顺从",
+          "n.业余爱好,嗜好,兴趣",
+          "n.门廊,门厅,(会议)休息厅"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自中古拉丁语'laubia'（门廊），指建筑入口处的过渡空间。词根核心动作是'遮蔽'或'过渡'，引申为建筑中连接内外、供人停留的厅堂。",
+        "similarWarning": "hobby（业余爱好） vs lobby（门厅）：首字母h/l差异；obey（服从） vs lobby：首字母o/l差异，词义无关；lofty（高耸的） vs lobby：字母f/b差异，词义指向高度；lorry（卡车） vs lobby：字母r/b差异，词义指向车辆。",
+        "extendedMeaning": "考研僻义：n.游说团体（指在议会/政府外游说议员的人群或组织，如'lobby group'）；v.游说（向决策者施加影响）。",
+        "examUsage": "真题考点：'lobby for/against'（为支持/反对某事游说），如'They lobbied for stricter environmental laws.'（他们游说制定更严格的环境法。）"
+      }
+    },
+    {
+      "id": "local",
+      "word": "local",
+      "phonetic": "/'ləukəl/",
+      "meaning": "a.地方的,当地的;局部的",
+      "similar": [
+        "loyal",
+        "vocal",
+        "logical",
+        "global",
+        "locate",
+        "social",
+        "coal",
+        "goal"
+      ],
+      "question": {
+        "wordId": "local",
+        "stem": "选择 \"local\" 的正确中文意思：",
+        "correct": "a.地方的,当地的;局部的",
+        "options": [
+          "a.地方的,当地的;局部的",
+          "a.(to)忠诚的,忠贞的",
+          "a.逻辑的,符合逻辑的",
+          "a.声音的;有声的;歌唱的 n.元音;声乐作品"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 locus（地点），local 直接表示与特定地点相关的。核心动作是“定位”于某处，引申为地方的、当地的、局部的。",
+        "similarWarning": "loyal（忠诚的，-al 后缀，词根 leg- 法律/义务）；vocal（声音的，词根 voc- 声音）；logical（逻辑的，词根 log- 言语/理性）；global（全球的，词根 glob- 球）；locate（定位，动词形式）；social（社会的，词根 soci- 同伴）；coal（煤，无词源关联）；goal（目标，无词源关联）。local 与 loyal 拼写仅差一个字母 u，但含义截然不同。",
+        "extendedMeaning": "在考研中，local 常作为“局部的”含义出现在医学或科学语境中（如 local infection 局部感染），或引申为“地方性的”（如 local custom 地方风俗）。",
+        "examUsage": "真题中常考搭配：local government（地方政府）；local community（当地社区）。注意区分 local 与 native（土生土长的）在语境中的微妙差异。"
+      }
+    },
+    {
+      "id": "locality",
+      "word": "locality",
+      "phonetic": "/ləu'kæləti/",
+      "meaning": "n.位置,地点",
+      "similar": [
+        "loyalty",
+        "morality",
+        "locate",
+        "quality",
+        "reality",
+        "royalty",
+        "equality",
+        "facility"
+      ],
+      "question": {
+        "wordId": "locality",
+        "stem": "选择 \"locality\" 的正确中文意思：",
+        "correct": "n.位置,地点",
+        "options": [
+          "n.位置,地点",
+          "n.忠诚,忠心",
+          "n.道德,美德",
+          "v.查出,探出,查找…地点,使…坐落于,位于"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"来自拉丁语\"locus\"（地方），后缀\"-ality\"表抽象名词。核心动作是\"确定或描述某个具体地点\"，强调空间上的特定位置，而非抽象的区域概念。\",\n  \"similarWarning\": \"loyalty（忠诚，词根loyal-） vs locality（地方，词根locus-）：字母\"a\"替换\"y\"，词义从忠诚转为地点。morality（道德，词根moral-） vs locality：字母\"m\"替换\"l\"，\"r\"替换\"c\"，词义从道德转为地点。\",\n  \"extendedMeaning\": \"在考研阅读中可引申为\"局部性\"或\"地方特色\"，如\"the ",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "locate",
+      "word": "locate",
+      "phonetic": "/ləu'keit/",
+      "meaning": "v.查出,探出,查找…地点,使…坐落于,位于",
+      "similar": [
+        "allocate",
+        "local",
+        "donate",
+        "rotate",
+        "advocate",
+        "delicate",
+        "locality",
+        "location"
+      ],
+      "question": {
+        "wordId": "locate",
+        "stem": "选择 \"locate\" 的正确中文意思：",
+        "correct": "v.查出,探出,查找…地点,使…坐落于,位于",
+        "options": [
+          "vt.损赠(金钱等);赠予",
+          "a.地方的,当地的;局部的",
+          "v.分配，分派；拨给；划归",
+          "v.查出,探出,查找…地点,使…坐落于,位于"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根loc-（地方）+ -ate（动词后缀）。核心动作是“确定位置”，即找出某物或某人的具体地点，或使某物坐落于某处。",
+        "similarWarning": "allocate（ad-向+loc-地方+ate，分配）vs locate：allocate强调“分派到特定位置”，locate强调“确定位置”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "location",
+      "word": "location",
+      "phonetic": "/ləu'keɪʃn/",
+      "meaning": "n.位置,场所,定位,测位",
+      "similar": [
+        "vocation",
+        "vacation",
+        "dictation",
+        "education",
+        "formation",
+        "action",
+        "locate",
+        "motion"
+      ],
+      "question": {
+        "wordId": "location",
+        "stem": "选择 \"location\" 的正确中文意思：",
+        "correct": "n.位置,场所,定位,测位",
+        "options": [
+          "n.职业;召唤;天命;天职;才能",
+          "n.位置,场所,定位,测位",
+          "n.休假,假期",
+          "n.听写,口述;命令"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 locare (放置)，词根 loc- (地方)。-ation 为名词后缀，表示行为或结果。核心动作：把某物放在某处 → 确定位置。",
+        "similarWarning": "vocation (职业，来自 voc- 呼唤)、vacation (假期，来自 vac- 空)、dictation (听写，来自 dict- 说)、education (教育，来自 educ- 引导)、formation (形成，来自 form- 形状)。差异在于词根不同。",
+        "extendedMeaning": "在技术或商业语境中可指‘定位服务’或‘场所选择’，如 location-based service (基于位置的服务)。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lock",
+      "word": "lock",
+      "phonetic": "/lɔk/",
+      "meaning": "n.锁 v.锁,锁上",
+      "similar": [
+        "block",
+        "clock",
+        "flock",
+        "cock",
+        "dock",
+        "lack",
+        "lick",
+        "look"
+      ],
+      "question": {
+        "wordId": "lock",
+        "stem": "选择 \"lock\" 的正确中文意思：",
+        "correct": "n.锁 v.锁,锁上",
+        "options": [
+          "n.(一)群,(禽,畜等的)群;大量 v.群集,成群",
+          "n.锁 v.锁,锁上",
+          "n.大块木（石）料;街区;障碍物 v.阻塞,拦阻",
+          "n.钟 vt.记录(时间、速度等)，为…计时"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古英语loc，本义为“封闭物、障碍物”，核心物理动作是“固定、阻止移动”。词根与德语schloss同源，强调通过物理卡合使某物无法开启或移动。",
+        "similarWarning": "block（阻碍，块状物）强调完全挡住；clock（时钟）与lock仅差c，注意区分；flock（群集）与lock差f，词义无关；cock（公鸡）无关联；dock（码头）差d；lack（缺乏）差a；lick（舔）差i；look（看）差o。",
+        "extendedMeaning": "考研僻义：①“卡住，僵住”（如lock in place）；②“锁定，确定”（如lock in profit锁定利润）；③“（资源）被占用”（如lock up capital）。",
+        "examUsage": "真题考点：lock in（锁定，使固定）常出现在经济类阅读中，如“lock in lower interest rates”；lock out（排除在外）用于劳资关系。"
+      }
+    },
+    {
+      "id": "locker",
+      "word": "locker",
+      "phonetic": "/'lɔkə/",
+      "meaning": "n.更衣箱",
+      "similar": [
+        "lock",
+        "lover",
+        "lower",
+        "rocket",
+        "soccer",
+        "worker"
+      ],
+      "question": {
+        "wordId": "locker",
+        "stem": "选择 \"locker\" 的正确中文意思：",
+        "correct": "n.更衣箱",
+        "options": [
+          "n.更衣箱",
+          "n.锁 v.锁,锁上",
+          "n.爱好者;(pl.)情侣",
+          "a.较低的,下级的,下游的 v.降下,放低"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "lock（锁）+ -er（名词后缀，表示物或人）→ 原指“带锁的箱子”，引申为“更衣箱”，核心动作是“锁住”以保护物品。",
+        "similarWarning": "lock（锁，动词/名词）vs. locker（更衣箱，名词）：lock是动作/物体，locker是带锁的容器。lover（情人）vs. locker：lover含爱意，locker含锁意。lower（较低的）vs. locker：lower是形容词/动词，locker是名词。pocket（口袋）vs. locker：pocket随身，locker固定。rocket（火箭）vs. locker：火箭与锁无关。soccer（足球）vs. locker：足球运动与储物箱无关。worker（工人）vs. locker：工人是人，locker是物。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "locomotive",
+      "word": "locomotive",
+      "phonetic": "/'ləukəˌməutiv/",
+      "meaning": "n.机车,火车头 a.运动的,移动的,运载的",
+      "similar": [],
+      "question": {
+        "wordId": "locomotive",
+        "stem": "选择 \"locomotive\" 的正确中文意思：",
+        "correct": "n.机车,火车头 a.运动的,移动的,运载的",
+        "options": [
+          "ad.即,也就是",
+          "n.机车,火车头 a.运动的,移动的,运载的",
+          "n.特技演员，杂技演员",
+          "ad.相应地，照着办，按照；于是，因此"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根：loco-（地方）+ mot-（移动）+ -ive（形容词后缀，表性质）。核心物理动作：将某物从一个地方移动到另一个地方。本义是“能够移动位置的”，引申为“火车头”这一具体的移动工具。",
+        "similarWarning": "",
+        "extendedMeaning": "考研中常考其形容词义“运动的，移动的”，如“locomotive power”（移动力）、“locomotive ability”（运动能力），很少考察名词义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lodge",
+      "word": "lodge",
+      "phonetic": "/lɔdʒ/",
+      "meaning": "v.临时住宿,寄宿,寄存,容纳n.传达室,小旅馆",
+      "similar": [
+        "lounge",
+        "pledge",
+        "log",
+        "code",
+        "edge",
+        "mode",
+        "badge",
+        "forge"
+      ],
+      "question": {
+        "wordId": "lodge",
+        "stem": "选择 \"lodge\" 的正确中文意思：",
+        "correct": "v.临时住宿,寄宿,寄存,容纳n.传达室,小旅馆",
+        "options": [
+          "v.临时住宿,寄宿,寄存,容纳n.传达室,小旅馆",
+          "n.休息室,起居室,客厅",
+          "n.誓约;保证 v.发誓;保证",
+          "n.原木,圆木;航海日志"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不确定，可能来自古法语 loge（小屋、临时棚屋），核心物理动作是“临时停留或放置”。v. 临时住宿（如住旅馆）、寄宿（借住他人处）、寄存（临时放置物品）、容纳（临时空间装下）；n. 传达室（小房子）、小旅馆（临时住宿地）。",
+        "similarWarning": "lounge /laʊndʒ/（休息室；闲逛）vs lodge /lɔdʒ/：lounge 含“放松、闲逛”义，lodge 含“临时固定、暂时安置”义。pledge /pledʒ/（誓言；抵押）vs lodge：pledge 以 pledg- 为核心，lodge 无此结构。",
+        "extendedMeaning": "考研僻义：lodge 可表“正式提出（投诉、抗议等）”，如 lodge a complaint（提出投诉），源于“将事物正式放置于某处”的引申。",
+        "examUsage": "真题考点：lodge a complaint/protest（提出投诉/抗议）是考研阅读、写作中高频固定搭配，常作为法律或行政语境下的正式表达。"
+      }
+    },
+    {
+      "id": "lofty",
+      "word": "lofty",
+      "phonetic": "/'lɔfti/",
+      "meaning": "a.崇高的，高尚的；高傲的；极高的",
+      "similar": [
+        "lot",
+        "lift",
+        "fifty",
+        "forty",
+        "lobby",
+        "lorry"
+      ],
+      "question": {
+        "wordId": "lofty",
+        "stem": "选择 \"lofty\" 的正确中文意思：",
+        "correct": "a.崇高的，高尚的；高傲的；极高的",
+        "options": [
+          "v.升起,举起,消散 n.电梯,上升,免费搭车",
+          "n.许多，大量；签，抽签；命运；场地",
+          "num.五十，五十个",
+          "a.崇高的，高尚的；高傲的；极高的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为'loft'（阁楼、高处），源自北欧语'lopta'（天空、空气）。核心物理动作是'升到高处'，引申为物理上的极高（如lofty mountain），再抽象为道德/精神上的崇高（如lofty ideals），以及因站在高处而产生的心理姿态——高傲（如lofty attitude）。",
+        "similarWarning": "lift（举起，电梯）vs lofty（高耸的）：lift是动词/名词动作，lofty是形容词状态；left（左边，离开）vs lofty：仅开头'l'相同，拼写差异明显；soft（柔软的）vs lofty：'s'与'l'易混淆，但词义无关联。",
+        "extendedMeaning": "考研中常考'崇高的'（抽象精神层面）和'高傲的'（贬义态度），如真题中'lofty aims'（崇高目标）或'lofty contempt'（高傲的蔑视）。极少考'极高的'物理义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "log",
+      "word": "log",
+      "phonetic": "/lɔg/",
+      "meaning": "n.原木,圆木;航海日志",
+      "similar": [
+        "fog",
+        "jog",
+        "lag",
+        "lot",
+        "along",
+        "lodge",
+        "logic"
+      ],
+      "question": {
+        "wordId": "log",
+        "stem": "选择 \"log\" 的正确中文意思：",
+        "correct": "n.原木,圆木;航海日志",
+        "options": [
+          "v.慢跑",
+          "v./n.落后,滞后 vt.用隔热材料覆盖(锅炉等)",
+          "n.雾气，雾 v.以雾笼罩，被雾笼罩",
+          "n.原木,圆木;航海日志"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "log源自原始印欧语根*legh-（躺、放置）。核心物理动作：砍倒后平躺在地上的圆木→原木。引申为航海日志：古代将记录航行信息的木板（原木）挂在船上，后指记录本。",
+        "similarWarning": "long（长） vs log（原木）：long多字母n；lag（落后） vs log：lag字母a替换o；leg（腿） vs log：leg字母e替换o；lot（大量） vs log：lot字母t替换g；low（低的） vs log：low字母w替换g；dog（狗） vs log：首字母d替换l；fog（雾） vs log：首字母f替换l；jog（慢跑） vs log：首字母j替换l。",
+        "extendedMeaning": "考研僻义：v. 记录，记载（如log in/out登录/登出系统，源于航海日志的‘记录’动作）；n. 对数（数学术语，考研阅读中偶现）。",
+        "examUsage": "考点：log in/out（登录/登出）常考科技类阅读；搭配‘keep a log’（记录日志）用于写作。"
+      }
+    },
+    {
+      "id": "logic",
+      "word": "logic",
+      "phonetic": "/'lɒdʒɪk/",
+      "meaning": "n.逻辑,逻辑学",
+      "similar": [
+        "logical",
+        "log",
+        "comic",
+        "magic",
+        "topic",
+        "toxic"
+      ],
+      "question": {
+        "wordId": "logic",
+        "stem": "选择 \"logic\" 的正确中文意思：",
+        "correct": "n.逻辑,逻辑学",
+        "options": [
+          "n.逻辑,逻辑学",
+          "a.逻辑的,符合逻辑的",
+          "n.原木,圆木;航海日志",
+          "a.喜剧的，滑稽的n.连环画杂志；喜剧演员"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语logike（关于推理的学问），词根log-（话语、思想） + -ic（学科后缀），核心动作是“通过话语进行理性推理”，强调思维的内在规律与论证过程。",
+        "similarWarning": "logical（adj.逻辑的，合理的）是logic的形容词形式；log（n.原木，记录）拼写接近但词源不同；comic（n.喜剧，adj.滑稽的）结尾-ic相同但词根com-（宴会）无关；magic（n.魔法，adj.有魔力的）词根mag-（力量）不同；topic（n.话题，题目）词根top-（地方）不同；toxic（adj.有毒的）词根tox-（毒）不同。",
+        "extendedMeaning": "在考研外刊中可引申为“（事件、系统等的）内在逻辑或必然联系”，如the logic of the market（市场规律），不限于学科概念。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "logical",
+      "word": "logical",
+      "phonetic": "/'lɔdʒikəl/",
+      "meaning": "a.逻辑的,符合逻辑的",
+      "similar": [
+        "local",
+        "logic",
+        "tropical"
+      ],
+      "question": {
+        "wordId": "logical",
+        "stem": "选择 \"logical\" 的正确中文意思：",
+        "correct": "a.逻辑的,符合逻辑的",
+        "options": [
+          "a.逻辑的,符合逻辑的",
+          "a.地方的,当地的;局部的",
+          "n.逻辑,逻辑学",
+          "a.热带的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语logos（言语、理性），通过拉丁语logica（逻辑学）传入。词根log-（言语/理性）+ -ic（形容词后缀）+ -al（形容词后缀），字面意为“与理性相关的”，即符合逻辑的。",
+        "similarWarning": "形近词辨析：\n- local（当地的）：字母loca- vs logi-，词根loc-（地方）表位置，log-（理性）表推理。\n- logic（逻辑学）：去掉-al，logic是名词形式，logical是形容词。\n- tropical（热带的）：trop-（转向）+ -ical，词根不同，指回归线附近区域。",
+        "extendedMeaning": "在考研语境中，logical可引申为“必然的、合理的”，如logical consequence（必然结果），强调推理的连贯性。",
+        "examUsage": "真题中常考搭配：logical thinking（逻辑思维），logical deduction（逻辑推理）。注意与rational（理性的）区分：logical侧重形式推理，rational强调基于理智的决策。"
+      }
+    },
+    {
+      "id": "lonely",
+      "word": "lonely",
+      "phonetic": "/'ləunli/",
+      "meaning": "a.孤独的，寂寞的；荒凉的，人迹稀少的",
+      "similar": [
+        "lovely",
+        "honey",
+        "lately",
+        "lively"
+      ],
+      "question": {
+        "wordId": "lonely",
+        "stem": "选择 \"lonely\" 的正确中文意思：",
+        "correct": "a.孤独的，寂寞的；荒凉的，人迹稀少的",
+        "options": [
+          "a.孤独的，寂寞的；荒凉的，人迹稀少的",
+          "a.可爱的,好看的;令人愉快的,美好的",
+          "n.蜜,蜂蜜",
+          "ad.最近,不久前"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根为 'lone'（单独的，源自 'alone' 的缩略），后缀 '-ly' 表形容词。核心动作：独自一人的状态，强调主观感受上的孤独或客观环境的荒凉。",
+        "similarWarning": "形近词辨析：lovely（可爱的，['lʌvli] vs ['ləunli]，'v' vs 'n'），only（唯一的，['əunli] vs ['ləunli]，首字母差异），lately（最近，['leitli] vs ['ləunli]，'a' vs 'o'），likely（可能的，['laikli] vs ['ləunli]，'ai' vs 'o'）。",
+        "extendedMeaning": "熟词僻义：在考研阅读中可引申为“孤寂的、无人陪伴的”，强调情感上的孤立感，而非单纯物理上的单独。如：a lonely figure in the crowd（人群中孤独的身影）。",
+        "examUsage": "真题考点：常与 alone（客观的单独）对比考查，lonely 侧重主观情感。如：He felt lonely even though he was not alone.（即使不孤单，他仍感到孤独。）"
+      }
+    },
+    {
+      "id": "longitude",
+      "word": "longitude",
+      "phonetic": "/'lɔndʒitju:d/",
+      "meaning": "n.经度",
+      "similar": [
+        "latitude",
+        "constitute"
+      ],
+      "question": {
+        "wordId": "longitude",
+        "stem": "选择 \"longitude\" 的正确中文意思：",
+        "correct": "n.经度",
+        "options": [
+          "a.致命的;终有一死的;人世间的 n.凡人",
+          "vt.组成，构成，形成；设立，建立，任命",
+          "n.纬度,行动或言论的自由(范围),(pl.)地区",
+          "n.经度"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'longitudo'，由 'longus'（长的）+ '-tudo'（抽象名词后缀）构成。核心物理动作是“长度”，经度即地球表面东西方向上的长度测量（连接南北极的弧线），与纬度（宽度）相对。",
+        "similarWarning": "latitude（纬度）：词根 'lat-'（宽），侧重宽度；longitude（经度）词根 'long-'（长），侧重长度。constitute（构成）：词根 'stitu-'（建立），与 'longitude' 无直接关联，仅拼写相似。",
+        "extendedMeaning": "在考研外刊中，'longitude' 可引申为“纵向维度”或“时间上的延续”，如 'the longitude of historical development'（历史发展的纵向维度）。",
+        "examUsage": "常与 'latitude' 构成干扰项，如真题中 'the lines of longitude and latitude'（经纬线）作为地理类阅读的基础概念，需注意区分拼写。"
+      }
+    },
+    {
+      "id": "look",
+      "word": "look",
+      "phonetic": "/luk/",
+      "meaning": "vi./n.看，注视 v.好像，显得 n.外表，脸色",
+      "similar": [
+        "cook",
+        "hook",
+        "lock",
+        "loom",
+        "loop",
+        "block",
+        "bloom",
+        "brook"
+      ],
+      "question": {
+        "wordId": "look",
+        "stem": "选择 \"look\" 的正确中文意思：",
+        "correct": "vi./n.看，注视 v.好像，显得 n.外表，脸色",
+        "options": [
+          "n.厨师 v.烹调，烧煮；纂改(账目)，捏造",
+          "n.锁 v.锁,锁上",
+          "n.钩,吊钩,钩状物 v.钩住",
+          "vi./n.看，注视 v.好像，显得 n.外表，脸色"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自古英语 lōcian，核心物理动作为‘用眼睛注视’。词根无复杂演变，直接对应视觉动作。",
+        "similarWarning": "book（书，与look差b/l开头）；cook（烹饪，c开头）；hook（钩子，h开头）；lock（锁，l→c/k差异）；loom（织布机/隐约出现，多-m）；loop（环，多-p）；block（块/阻挡，多-b）；blood（血，多-d）。注意look与loom、loop拼写相似但词义不同。",
+        "extendedMeaning": "考研中常考‘显得，好像’（系动词用法）及‘外表，脸色’（名词）。例：It looks like rain.（好像要下雨）；She has a worried look.（忧虑的脸色）。",
+        "examUsage": "考点：look作为系动词后接形容词（look good）或as if从句；固定搭配look into（调查）、look down on（轻视）常出现在完形填空或阅读中。"
+      }
+    },
+    {
+      "id": "loom",
+      "word": "loom",
+      "phonetic": "/lu:m/",
+      "meaning": "n.织布机,织机 v.隐现,(危险、忧虑等)迫近",
+      "similar": [
+        "bloom",
+        "boom",
+        "doom",
+        "look",
+        "loop",
+        "zoom",
+        "gloomy",
+        "bosom"
+      ],
+      "question": {
+        "wordId": "loom",
+        "stem": "选择 \"loom\" 的正确中文意思：",
+        "correct": "n.织布机,织机 v.隐现,(危险、忧虑等)迫近",
+        "options": [
+          "n.织布机,织机 v.隐现,(危险、忧虑等)迫近",
+          "n.厄运,劫数 v.注定,命定",
+          "n.花(朵);开花(期) v.开花",
+          "v.迅速发展,兴旺;发出隆隆声"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，核心物理动作是“隐约出现/逼近”，像织布机梭子来回移动时若隐若现。引申为危险、忧虑等迫近。",
+        "similarWarning": "bloom（开花）、boom（繁荣）、doom（厄运）、gloomy（阴郁的）。注意字母组合：bloom是b+l+oom，boom是b+oom，doom是d+oom，gloomy是g+l+oom+y。loom强调隐现，boom强调突然增长，doom强调命运不济。",
+        "extendedMeaning": "v. 逼近，迫在眉睫（常用于负面语境，如危机、威胁）。例：The threat of war loomed large. 战争的威胁日益逼近。",
+        "examUsage": "常考短语：loom large（显得严重/突出）。真题中常作为描述问题、危机等严峻程度的表达。"
+      }
+    },
+    {
+      "id": "loop",
+      "word": "loop",
+      "phonetic": "/lu:p/",
+      "meaning": "n.圈,环",
+      "similar": [
+        "look",
+        "loom",
+        "bloom",
+        "flood",
+        "loose",
+        "stoop",
+        "troop"
+      ],
+      "question": {
+        "wordId": "loop",
+        "stem": "选择 \"loop\" 的正确中文意思：",
+        "correct": "n.圈,环",
+        "options": [
+          "vi./n.看，注视 v.好像，显得 n.外表，脸色",
+          "n.圈,环",
+          "n.花(朵);开花(期) v.开花",
+          "n.织布机,织机 v.隐现,(危险、忧虑等)迫近"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "loop 源自古英语 hlēapan（跳跃、跑），核心物理动作是“弯曲成圆形并闭合”，引申为“圈、环”或“循环”。词根无复杂演变，形象记忆：一条线绕回起点形成闭合路径。",
+        "similarWarning": "loop vs look（看，视觉动作）字母差异：loop 有 p，look 有 k；loop vs loom（织布机/隐约出现）差异：loop 有 p，loom 有 m；loop vs blood（血）差异：loop 有 p 和单 o，blood 有 b 和双 o；loop vs bloom（开花）差异：loop 有 p 和单 o，bloom 有 b 和双 o；loop vs flood（洪水）差异：loop 有 p 和单 o，flood 有 f 和双 o；loop vs floor（地板）差异：loop 有 p 和单 o，floor 有 f 和双 o；loop vs loose（松的）差异：loop 有 p 和单 o，loose 有 s 和双 o；loop vs stoop（弯腰）差异：loop 有 l，stoop 有 st。",
+        "extendedMeaning": "考研僻义：循环（尤指程序中的循环结构，如 for loop），或闭合回路（如 feedback loop 反馈回路）。",
+        "examUsage": "真题考点：in the loop（在圈内/知情），out of the loop（在圈外/不知情）为真题高频短语，常作阅读理解干扰项或题干关键词。"
+      }
+    },
+    {
+      "id": "loose",
+      "word": "loose",
+      "phonetic": "/lu:s/",
+      "meaning": "a.(宽)松的；不精确的；自由的，散漫的",
+      "similar": [
+        "loosen",
+        "goose",
+        "blouse",
+        "dose",
+        "hose",
+        "look",
+        "loom",
+        "loop"
+      ],
+      "question": {
+        "wordId": "loose",
+        "stem": "选择 \"loose\" 的正确中文意思：",
+        "correct": "a.(宽)松的；不精确的；自由的，散漫的",
+        "options": [
+          "v.解开,放松",
+          "a.(宽)松的；不精确的；自由的，散漫的",
+          "n.(pl.geese)鹅,雌鹅,鹅肉",
+          "n.女衬衣，短上衣，宽阔的罩衫"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自古英语'leas'（无，缺少），核心物理动作是'松开束缚'，引申为空间上的不紧（宽松）、标准上的不严（不精确）、行为上的不受控（散漫）。",
+        "similarWarning": "loose与lose区别：loose多一个'o'，意为'松的'；lose少一个'o'，意为'丢失'。对比goose（鹅）、blouse（女衬衫）仅拼写相似，词义无关。",
+        "extendedMeaning": "考研僻义：'不严谨的'（如loose reasoning）、'散漫的'（如loose living）、'未固定的'（如loose ends）。",
+        "examUsage": "真题考点：break loose（挣脱，爆发）、cut loose（摆脱，自由行动）、let loose（释放，放任）。常作为阅读理解中描述状态或行为的干扰项。"
+      }
+    },
+    {
+      "id": "loosen",
+      "word": "loosen",
+      "phonetic": "/'lu:sən/",
+      "meaning": "v.解开,放松",
+      "similar": [
+        "loose",
+        "goose",
+        "wooden"
+      ],
+      "question": {
+        "wordId": "loosen",
+        "stem": "选择 \"loosen\" 的正确中文意思：",
+        "correct": "v.解开,放松",
+        "options": [
+          "a.木制的;呆笨的",
+          "n.(pl.geese)鹅,雌鹅,鹅肉",
+          "a.(宽)松的；不精确的；自由的，散漫的",
+          "v.解开,放松"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根词缀：loose (adj.松的) + -en (动词后缀，表“使成为”)。核心物理动作：使原本紧固的状态变得松弛，如解开绳结或放松肌肉。",
+        "similarWarning": "loose (adj.松的) vs lose (v.丢失，失去)：loose多一个o，强调状态“松”；lose少一个o，强调“丢”。goose (n.鹅) 与loosen无关；wooden (adj.木制的) 拼写类似但词根不同。",
+        "extendedMeaning": "考研僻义：在政治或社会语境中表“放宽（限制、规定）”，如loosen controls on trade（放宽贸易管制）。",
+        "examUsage": "真题考点：常与up搭配形成短语loosen up，表“放松（身体或心情）”，如You need to loosen up before the exam.（考试前需要放松。）在完形填空中可能作为形近词干扰项。"
+      }
+    },
+    {
+      "id": "lord",
+      "word": "lord",
+      "phonetic": "/lɔ:d/",
+      "meaning": "n.(Lord)上帝,主;主人,长官,君主,贵族",
+      "similar": [
+        "cord",
+        "load",
+        "loud",
+        "aloud",
+        "cloud",
+        "flood",
+        "glory",
+        "lorry"
+      ],
+      "question": {
+        "wordId": "lord",
+        "stem": "选择 \"lord\" 的正确中文意思：",
+        "correct": "n.(Lord)上帝,主;主人,长官,君主,贵族",
+        "options": [
+          "n.(Lord)上帝,主;主人,长官,君主,贵族",
+          "n.绳,索",
+          "v.装(货),装载 n.装载(量),负荷(量);(一)担",
+          "a.大声的,响亮的;吵闹的,喧嚣的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自古英语hlaford，由hlaf（面包）+weard（守护者）构成，字面意为‘面包守护者’。核心动作：提供食物的人→主人/领主。词源逻辑：在封建社会中，领主负责给属下发面包，由此引申为‘主人、君主、贵族’；大写的Lord指‘上帝、主’，强调至高无上的统治与供养者身份。",
+        "similarWarning": "形近词对比：lord vs. load（负载，音近但词源无关，lord强调身份，load强调重量）；lord vs. loud（大声的，仅差字母d与u，注意拼写差异）；lord vs. cord（绳索，首字母不同，词义无关）。",
+        "extendedMeaning": "在考研外刊中，lord可作动词，意为‘统治、支配’，如‘to lord it over someone’（对某人颐指气使）；另在宗教语境中作‘上帝’的尊称，需注意大写形式。",
+        "examUsage": "真题考点：常用于短语‘lord over’（控制、支配），如‘He tried to lord over his subordinates’；也出现在历史类阅读中，指‘封建领主’或‘贵族阶层’。注意与‘landlord’（地主、房东）的构词关联。"
+      }
+    },
+    {
+      "id": "lorry",
+      "word": "lorry",
+      "phonetic": "/'lɔ:ri/",
+      "meaning": "n.卡车,运货汽车",
+      "similar": [
+        "worry",
+        "lord",
+        "ferry",
+        "forty",
+        "glory",
+        "hurry",
+        "lobby",
+        "lofty"
+      ],
+      "question": {
+        "wordId": "lorry",
+        "stem": "选择 \"lorry\" 的正确中文意思：",
+        "correct": "n.卡车,运货汽车",
+        "options": [
+          "n.摆渡;渡船;渡口v.摆渡;渡运(人,车或物等)",
+          "n.(Lord)上帝,主;主人,长官,君主,贵族",
+          "v.烦恼;(about)对…感到烦恼 n.烦恼,焦虑",
+          "n.卡车,运货汽车"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自方言‘lurry’（拖、拉），引申为‘运货的车辆’，核心物理动作是‘拖运货物’。",
+        "similarWarning": "与‘sorry’（抱歉的）差首字母‘s’；与‘worry’（担心）差首字母‘w’；与‘lord’（贵族）差尾字母‘d’；与‘carry’（搬运）差首字母‘c’及拼写；与‘ferry’（渡船）差首字母‘f’及拼写；与‘forty’（四十）差尾字母‘y’；与‘glory’（光荣）差首字母‘g’及拼写；与‘hurry’（匆忙）差首字母‘h’及拼写。辨析：lorry特指卡车，与carry（搬运）动作相关，但词性不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "loss",
+      "word": "loss",
+      "phonetic": "/lɔs/",
+      "meaning": "n.丧失，遗失；损失，损耗，亏损；失败",
+      "similar": [
+        "boss",
+        "moss",
+        "toss",
+        "bless",
+        "gross",
+        "loose"
+      ],
+      "question": {
+        "wordId": "loss",
+        "stem": "选择 \"loss\" 的正确中文意思：",
+        "correct": "n.丧失，遗失；损失，损耗，亏损；失败",
+        "options": [
+          "vt.向上掷/扔；摇摆，颠簸 n.投，扔；摇动",
+          "n.苔,藓,地衣",
+          "n.老板，上司 vt.指挥，控制，发号施令",
+          "n.丧失，遗失；损失，损耗，亏损；失败"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自古英语los‘毁灭、丧失’，与lose同源，核心动作是‘[因分离或损坏而]不再拥有’，引申为损失、亏损、失败。",
+        "similarWarning": "loss vs lose：loss是名词，lose是动词；loss vs less：loss指失去，less指更少。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lot",
+      "word": "lot",
+      "phonetic": "/lɒt/",
+      "meaning": "n.许多，大量；签，抽签；命运；场地",
+      "similar": [
+        "plot",
+        "slot",
+        "dot",
+        "log",
+        "pot",
+        "rot",
+        "cloth",
+        "float"
+      ],
+      "question": {
+        "wordId": "lot",
+        "stem": "选择 \"lot\" 的正确中文意思：",
+        "correct": "n.许多，大量；签，抽签；命运；场地",
+        "options": [
+          "n.许多，大量；签，抽签；命运；场地",
+          "n.点,圆点 v.在…上打点",
+          "n.狭缝；空位vt.放入狭缝中；把…纳入",
+          "n.秘密计划;情节 v.标绘,绘制;密谋,策划"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古英语 hlot，指‘抽签用的木片或物件’，核心动作是‘分配’——通过抽签决定份额。引申为‘命运’（抽签结果）和‘一块地’（分配到的土地）。现代英语中 a lot 表示‘许多’，源自‘一大份额’的概念。",
+        "similarWarning": "plot（情节/阴谋）：p-开头，侧重故事线或秘密计划；slot（狭槽/时间段）：s-开头，强调插入位置；dot（点）：d-开头，指小圆点；let（让）：l-开头，但词义为允许；log（原木）：g结尾，指木头；low（低的）：w结尾，指高度；not（不）：n-开头，表否定。",
+        "extendedMeaning": "在考研中，lot 常以‘命运’义出现（如 one's lot in life），或作‘场地’（parking lot）。a lot 作状语表‘非常’（thanks a lot），但非僻义。",
+        "examUsage": "常见搭配：a lot of / lots of（大量，后接可数/不可数名词）；the lot（全部，如‘the whole lot’）。真题中常作为数量词与 many/much 辨析，或 in a lot（一批）用于物流场景。"
+      }
+    },
+    {
+      "id": "lottery",
+      "word": "lottery",
+      "phonetic": "/'lɔtəri/",
+      "meaning": "n.抽彩；碰运气的事，难于算计的事",
+      "similar": [
+        "latter",
+        "litter",
+        "battery"
+      ],
+      "question": {
+        "wordId": "lottery",
+        "stem": "选择 \"lottery\" 的正确中文意思：",
+        "correct": "n.抽彩；碰运气的事，难于算计的事",
+        "options": [
+          "n.抽彩；碰运气的事，难于算计的事",
+          "n.垃圾,(杂乱的)废物 v.使杂乱,乱丢",
+          "n.电池(组)；(器具等的)一组，一套；炮兵连",
+          "a.后者的；后一半的，接近终了的 n.后者"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自意大利语lotto（命运、份额），通过荷兰语loterij进入英语。核心物理动作是“通过随机抽取（lots）分配奖品”，引申为“完全依赖运气的事”，强调结果的不可控性。",
+        "similarWarning": "latter（后者） vs lottery：latter只差一个字母r，词义完全不同；letter（信，字母） vs lottery：拼写相似但无关联；litter（垃圾，一窝幼崽） vs lottery：仅首字母不同；battery（电池，殴打） vs lottery：词尾-ery相同，但词根无关。",
+        "extendedMeaning": "在考研阅读中常作比喻义，指“完全由运气决定、无法通过努力控制的事情”，如“a lottery”（碰运气的事），常见于经济或社会现象讨论。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "loud",
+      "word": "loud",
+      "phonetic": "/laud/",
+      "meaning": "a.大声的,响亮的;吵闹的,喧嚣的",
+      "similar": [
+        "aloud",
+        "cloud",
+        "load",
+        "lord",
+        "cloudy",
+        "bound",
+        "flood",
+        "flour"
+      ],
+      "question": {
+        "wordId": "loud",
+        "stem": "选择 \"loud\" 的正确中文意思：",
+        "correct": "a.大声的,响亮的;吵闹的,喧嚣的",
+        "options": [
+          "v.装(货),装载 n.装载(量),负荷(量);(一)担",
+          "a.大声的,响亮的;吵闹的,喧嚣的",
+          "n.云(状物);遮暗物,阴影;一大群",
+          "adv.出声地，大声地"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自古英语 'hlud'，意为'声音大的'，核心物理动作为'发出强烈声波震动'，与'hear'同源，强调听觉上的高能量输出。",
+        "similarWarning": "aloud (a+离开+ loud) 强调出声地；cloud (c+ loud) 云，形似但义无关；load (l+ oad) 负载，与loud仅差元音；lord (l+ ord) 贵族，注意结尾不同。",
+        "extendedMeaning": "在考研外刊中可引申为'刺眼的、过于鲜艳的'（如loud colors），或'引人注目的、招摇的'（如loud behavior）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "loudspeaker",
+      "word": "loudspeaker",
+      "phonetic": "/'laud'spi:kə/",
+      "meaning": "n.扬声器,扩音器",
+      "similar": [],
+      "question": {
+        "wordId": "loudspeaker",
+        "stem": "选择 \"loudspeaker\" 的正确中文意思：",
+        "correct": "n.扬声器,扩音器",
+        "options": [
+          "n.灾难,大祸;彻底的失败",
+          "n.闪电 a.闪电般的,快速的",
+          "a.远的,遥远的,疏远的,偏僻的,细微的",
+          "n.扬声器,扩音器"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "loud（大声的）+ speaker（说话者）→ 让声音变大的装置，即扬声器、扩音器。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lounge",
+      "word": "lounge",
+      "phonetic": "/laundʒ/",
+      "meaning": "n.休息室,起居室,客厅",
+      "similar": [
+        "lung",
+        "lodge",
+        "ounce",
+        "bounce",
+        "plunge"
+      ],
+      "question": {
+        "wordId": "lounge",
+        "stem": "选择 \"lounge\" 的正确中文意思：",
+        "correct": "n.休息室,起居室,客厅",
+        "options": [
+          "n.休息室,起居室,客厅",
+          "n.肺",
+          "v.临时住宿,寄宿,寄存,容纳n.传达室,小旅馆",
+          "n.盎司,英两"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自法语'longer'（延长），核心物理动作为'伸展身体'。词根逻辑：lounge本义指'懒散地斜倚'，后引申为供人放松、伸展的场所，即'休息室'或'起居室'。",
+        "similarWarning": "lounge vs. lodge（小屋/寄宿）：lounge强调休息放松的空间，lodge指临时住所或门房。lounge vs. plunge（投入/骤降）：plunge含突然向下动作，lounge无此义。",
+        "extendedMeaning": "考研僻义：作动词时意为'闲逛、懒散地消磨时间'，如'lounge around'（无所事事地闲荡）。",
+        "examUsage": "真题考点：常与'lobby'（大厅）、'lounge'（休息室）作干扰项辨析，注意'lounge'侧重休闲而非通行区域。"
+      }
+    },
+    {
+      "id": "lovely",
+      "word": "lovely",
+      "phonetic": "/'lʌvli/",
+      "meaning": "a.可爱的,好看的;令人愉快的,美好的",
+      "similar": [
+        "lively",
+        "lonely",
+        "novelty",
+        "lover",
+        "novel",
+        "lately"
+      ],
+      "question": {
+        "wordId": "lovely",
+        "stem": "选择 \"lovely\" 的正确中文意思：",
+        "correct": "a.可爱的,好看的;令人愉快的,美好的",
+        "options": [
+          "n.新奇,新颖,新奇的事物",
+          "a.孤独的，寂寞的；荒凉的，人迹稀少的",
+          "a.活泼的,活跃的;栩栩如生的,真实的",
+          "a.可爱的,好看的;令人愉快的,美好的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根love（爱）+后缀-ly（形容词后缀，表示“具有…性质的”）。核心物理动作：内心充满爱意的状态，引申为“令人喜爱的、可爱的”。",
+        "similarWarning": "lively（活跃的，生动的，来自life+ly，强调生命力）；lonely（孤独的，来自alone+ly，强调寂寞感）；novelty（新奇事物，来自novel+ty，强调新颖）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lover",
+      "word": "lover",
+      "phonetic": "/'lʌvə(r)/",
+      "meaning": "n.爱好者;(pl.)情侣",
+      "similar": [
+        "cover",
+        "hover",
+        "lever",
+        "liver",
+        "lower",
+        "clever",
+        "govern",
+        "locker"
+      ],
+      "question": {
+        "wordId": "lover",
+        "stem": "选择 \"lover\" 的正确中文意思：",
+        "correct": "n.爱好者;(pl.)情侣",
+        "options": [
+          "v.覆盖,包括,涉及，报道 n.盖子,套子;(书的)封面",
+          "n.杆,杠杆,手段,途径,工具",
+          "n.爱好者;(pl.)情侣",
+          "vi.(鸟)盘旋，翱翔，(人)逗留在附近徘徊"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根词缀：love（爱）+ -er（表示人）。核心物理动作：爱（love）的人（-er）。词义本源：指对某事或某人怀有强烈情感的人，后引申为情侣（互相爱慕的两人）。",
+        "similarWarning": "lever（杠杆）：lover vs lever，字母v/e位置差异，词义不同；liver（肝脏）：lover vs liver，字母o/i差异，词义不同；lower（较低的）：lover vs lower，字母v/w差异，词义不同。",
+        "extendedMeaning": "考研僻义：指对某事物有强烈兴趣的人，如‘art lover’（艺术爱好者），强调非浪漫情感的执着爱好。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lower",
+      "word": "lower",
+      "phonetic": "/'ləuə/",
+      "meaning": "a.较低的,下级的,下游的 v.降下,放低",
+      "similar": [
+        "lover",
+        "tower",
+        "lawyer",
+        "locker",
+        "powder",
+        "shower",
+        "owe",
+        "bowel"
+      ],
+      "question": {
+        "wordId": "lower",
+        "stem": "选择 \"lower\" 的正确中文意思：",
+        "correct": "a.较低的,下级的,下游的 v.降下,放低",
+        "options": [
+          "n.律师",
+          "a.较低的,下级的,下游的 v.降下,放低",
+          "n.塔 v.高耸",
+          "n.爱好者;(pl.)情侣"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "low（低的）+ -er（比较级后缀）→ 更低的。词源上，low来自古英语hlāh，本义为“躺倒的、低矮的”，与lie（躺）同源。lower作为动词，源自“使变得更低”，引申为降下、放低。",
+        "similarWarning": "flower（花）：f+lower，与lower差一个字母f，flower指植物开花；lover（情人）：love+er，与lower差一个字母v，lover指爱人；power（力量）：p+ower，与lower差一个字母p，power指能力或权力；tower（塔）：t+ower，与lower差一个字母t，tower指高耸建筑；lawyer（律师）：law+yer，与lower拼写差异大但发音相近，指法律职业；locker（储物柜）：lock+er，与lower差c/k，指存放物品的柜子；powder（粉末）：pow+der，与lower差p/d，指细粉状物质；shower（淋浴）：sh+ower，与lower差sh，指淋浴或阵雨。",
+        "extendedMeaning": "降低、贬低（地位或尊严）：如lower oneself（降低身份）；在考研阅读中，lower可表“下调（价格、利率等）”。",
+        "examUsage": "固定搭配：lower one's guard（放松警惕）；真题例句：The government lowered interest rates to stimulate the economy.（政府降低利率以刺激经济。）"
+      }
+    },
+    {
+      "id": "loyal",
+      "word": "loyal",
+      "phonetic": "/'lɔiəl/",
+      "meaning": "a.(to)忠诚的,忠贞的",
+      "similar": [
+        "local",
+        "royal",
+        "loyalty",
+        "global",
+        "coal",
+        "goal",
+        "load",
+        "loaf"
+      ],
+      "question": {
+        "wordId": "loyal",
+        "stem": "选择 \"loyal\" 的正确中文意思：",
+        "correct": "a.(to)忠诚的,忠贞的",
+        "options": [
+          "a.(to)忠诚的,忠贞的",
+          "a.王室的,皇家的;第一流的,高贵的",
+          "a.地方的,当地的;局部的",
+          "n.忠诚,忠心"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源来自古法语 'loial'，源自拉丁语 'legalis'（法律的），本义为“遵守法律的”。核心动作是“对法律或契约的遵守”，引申为对人或组织的忠诚。",
+        "similarWarning": "loyal vs local: 'loyal'含'y'表忠诚，'local'含'c'表地方；loyal vs royal: 'l'在前表忠诚，'r'在前表王室；loyal vs coal: 'loyal'有'y'，'coal'是煤炭；loyal vs goal: 'loyal'以'l'开头，'goal'以'g'开头表目标。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "loyalty",
+      "word": "loyalty",
+      "phonetic": "/'lɔɪəlti/",
+      "meaning": "n.忠诚,忠心",
+      "similar": [
+        "royalty",
+        "locality",
+        "loyal",
+        "morality"
+      ],
+      "question": {
+        "wordId": "loyalty",
+        "stem": "选择 \"loyalty\" 的正确中文意思：",
+        "correct": "n.忠诚,忠心",
+        "options": [
+          "a.(to)忠诚的,忠贞的",
+          "n.忠诚,忠心",
+          "n.皇家,皇族",
+          "n.位置,地点"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语legalis（法律的），经古法语loial演变。词根leg-（法律）→ 遵守法律或契约 → 引申为对人或组织的坚定承诺。核心动作：基于法律或道义的约束性依附。",
+        "similarWarning": "royalty（n.皇室；版税）：r开头，强调王室身份或权利。locality（n.地点；位置）：loc-（地方）词根，指具体区域。loyalty侧重情感与义务的忠诚。",
+        "extendedMeaning": "在商业语境中指品牌忠诚度（brand loyalty），消费者对特定品牌的持续偏好，超越单纯重复购买的心理认同。",
+        "examUsage": "真题常考搭配loyalty to（对...忠诚），如loyalty to one's country。干扰项常出现allegiance（效忠）或fidelity（忠实），需辨析loyalty强调情感依附，allegiance侧重政治或义务上的服从。"
+      }
+    },
+    {
+      "id": "lubricate",
+      "word": "lubricate",
+      "phonetic": "/'lubrikeit/",
+      "meaning": "v.润滑,加润滑油,行贿,收买",
+      "similar": [
+        "fabricate",
+        "duplicate",
+        "hurricane",
+        "intricate",
+        "subordinate"
+      ],
+      "question": {
+        "wordId": "lubricate",
+        "stem": "选择 \"lubricate\" 的正确中文意思：",
+        "correct": "v.润滑,加润滑油,行贿,收买",
+        "options": [
+          "n.复制品 v.复写,使加倍 a.复制的,二重的",
+          "v.捏造,编造(谎言,借口等);建造,制造",
+          "v.润滑,加润滑油,行贿,收买",
+          "n.飓风"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根lubric-源自拉丁语lubricus，意为“光滑的、滑溜的”，本义是使表面光滑以减少摩擦，引申为“润滑”；进一步抽象为“行贿”或“收买”，指用金钱或利益使关系变得顺滑、无阻力。",
+        "similarWarning": "fabricate（v. 制造，捏造）：fabr-（制造）+ -icate，强调制作或编造；duplicate（v. 复制）：du-（二）+ plic-（折叠），强调重复或复制。与lubricate核心区别在词根lubric-（光滑）vs fabric-（制造）vs plic-（折叠）。",
+        "extendedMeaning": "考研僻义：行贿，收买（通过给予好处使事情顺利，如lubricate the wheels of bureaucracy）。",
+        "examUsage": "真题考点：常考引申义“行贿”或“疏通关系”，搭配为lubricate the system/process，或用于比喻义lubricate social interactions。"
+      }
+    },
+    {
+      "id": "luck",
+      "word": "luck",
+      "phonetic": "/lʌk/",
+      "meaning": "n.运气;好运,侥幸",
+      "similar": [
+        "lucky",
+        "duck",
+        "lack",
+        "lick",
+        "lock",
+        "suck",
+        "tuck",
+        "block"
+      ],
+      "question": {
+        "wordId": "luck",
+        "stem": "选择 \"luck\" 的正确中文意思：",
+        "correct": "n.运气;好运,侥幸",
+        "options": [
+          "n.运气;好运,侥幸",
+          "a.幸运的,侥幸的",
+          "n.鸭,鸭肉 v.迅速俯身;快速低头;躲避",
+          "n./v.缺乏,不足"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自古低地德语'luk'（好运），与中古荷兰语'lucke'（幸福）同源，本指偶然发生的有利事件，核心意象是“不可控的机遇”。",
+        "similarWarning": "lack（缺乏）：字母'a'表示空缺，与luck的'u'（运气）对比；lock（锁）：字母'o'象征闭合，与luck的'u'（开放机遇）对比。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lucky",
+      "word": "lucky",
+      "phonetic": "/'lʌki/",
+      "meaning": "a.幸运的,侥幸的",
+      "similar": [
+        "luck",
+        "duck",
+        "lack",
+        "lick",
+        "lock",
+        "suck",
+        "tuck"
+      ],
+      "question": {
+        "wordId": "lucky",
+        "stem": "选择 \"lucky\" 的正确中文意思：",
+        "correct": "a.幸运的,侥幸的",
+        "options": [
+          "n.鸭,鸭肉 v.迅速俯身;快速低头;躲避",
+          "n.运气;好运,侥幸",
+          "a.幸运的,侥幸的",
+          "n./v.缺乏,不足"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自名词luck（运气）+ 形容词后缀-y（充满...的），字面即‘充满运气的’，核心物理动作或画面无，直接表示‘有好运伴随的状态’。",
+        "similarWarning": "luck（n.运气）与duck（n.鸭子；v.躲避）差异在首字母l/d；lack（n./v.缺乏）与luck仅元音a/u之别；lick（v.舔）与luck仅i/u之差；lock（n./v.锁）与luck仅o/u之差；suck（v.吸）与luck仅s/l之别；tuck（v.塞进）与luck仅t/l之别。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "luggage",
+      "word": "luggage",
+      "phonetic": "/'lʌgidʒ/",
+      "meaning": "n.行李,皮箱",
+      "similar": [
+        "baggage"
+      ],
+      "question": {
+        "wordId": "luggage",
+        "stem": "选择 \"luggage\" 的正确中文意思：",
+        "correct": "n.行李,皮箱",
+        "options": [
+          "n.行李",
+          "n.行李,皮箱",
+          "num./a.四十 pron.四十(个，只...)",
+          "a.防水的,耐水的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根 lug-（拖、拉）+ 后缀 -age（集合名词，表总称）。本义是“需要拖拽搬运的物品集合”，即行李。与baggage同义，但luggage更侧重“随身携带的箱包”，baggage则更泛指所有行李（包括大件）。",
+        "similarWarning": "baggage（/'bægidʒ/，行李，侧重整体行李）vs language（/'læŋgwidʒ/，语言）。差异：luggage含“拖拽”意象，baggage强调“包裹袋”，language词根为lingu-（舌头）。",
+        "extendedMeaning": "考研中无特殊僻义，通常仅用其本义“行李、皮箱”。",
+        "examUsage": "无特殊考点，基础词汇。常见搭配如‘hand luggage’（手提行李），‘luggage allowance’（行李限额），但非高频题眼。"
+      }
+    },
+    {
+      "id": "lumber",
+      "word": "lumber",
+      "phonetic": "/'lʌmbə/",
+      "meaning": "n.木材,木料",
+      "similar": [
+        "plumber",
+        "rubber",
+        "timber",
+        "cucumber"
+      ],
+      "question": {
+        "wordId": "lumber",
+        "stem": "选择 \"lumber\" 的正确中文意思：",
+        "correct": "n.木材,木料",
+        "options": [
+          "n.木材,木料",
+          "n.橡皮,橡胶;橡胶制品,胶鞋",
+          "n.木材,木料",
+          "n.(装修水管的)管子工"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自拟声词，模仿木头沉重撞击或拖拽的声音。核心物理动作是“笨重地移动/发出隆隆声”，引申为“堆放杂乱的木材”，后专指“木材、木料”。",
+        "similarWarning": "lumber vs timber: 两者都指木材，但lumber更侧重“已锯成板的木料”，timber更侧重“建筑用材或原木”。lumber vs plumber: plumber多一个p，指水管工。lumber vs number: 开头不同，number指数字。",
+        "extendedMeaning": "v. 笨重地移动；缓慢吃力地行进（如The old truck lumbered down the road.）；短语lumber with意为“拖累，使负担”（如He was lumbered with the heavy debt.）",
+        "examUsage": "真题中常考动词义“笨重移动”或“拖累”，如be lumbered with sth（被迫承担…）。注意区分名词义“木材”与动词义“拖累”的语境转换。"
+      }
+    },
+    {
+      "id": "lump",
+      "word": "lump",
+      "phonetic": "/lʌmp/",
+      "meaning": "n.团,块 v.(使)成团,(使)成块",
+      "similar": [
+        "bump",
+        "dump",
+        "jump",
+        "lamp",
+        "limp",
+        "pump"
+      ],
+      "question": {
+        "wordId": "lump",
+        "stem": "选择 \"lump\" 的正确中文意思：",
+        "correct": "n.团,块 v.(使)成团,(使)成块",
+        "options": [
+          "v./n.跳跃,跳动,跳过;暴涨,猛增",
+          "v.倾倒,倾卸 n.垃圾场",
+          "v.(against,into)碰;颠簸着前进 n.碰撞",
+          "n.团,块 v.(使)成团,(使)成块"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能拟声词，模拟重物落下或形成块状的声音。核心动作：松散物质聚合成一团或一块。",
+        "similarWarning": "bump (撞), dump (倾倒), jump (跳), lamp (灯), limp (跛行), pump (泵)。差异在于首字母辅音不同，词义差异大。",
+        "extendedMeaning": "lump sum 一次性付款；lump together 把…归并在一起。",
+        "examUsage": "真题常考搭配：lump sum payment（一次性总付）在合同、保险类阅读中出现。"
+      }
+    },
+    {
+      "id": "lunar",
+      "word": "lunar",
+      "phonetic": "/'lju:nə/",
+      "meaning": "a.月亮的",
+      "similar": [
+        "linear",
+        "lung",
+        "liner"
+      ],
+      "question": {
+        "wordId": "lunar",
+        "stem": "选择 \"lunar\" 的正确中文意思：",
+        "correct": "a.月亮的",
+        "options": [
+          "n.班机,定期轮船,邮船",
+          "a.月亮的",
+          "a.线的，直线的，线状的；长度的；线性的",
+          "n.肺"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'luna'（月亮），后缀 -ar 表示“与...有关的”。核心物理动作/画面：月亮（luna）发光、圆缺变化。直接词义：月亮的、与月亮相关的。",
+        "similarWarning": "linear（线性的，来自 line）；lung（肺，器官）；liner（衬垫，班轮，来自 line）；lunch（午餐，来自 luncheon）；sugar（糖，来自梵语）——注意拼写差异：lunar 含 'ar'，强调与月亮相关；其余词根不同，意义迥异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lung",
+      "word": "lung",
+      "phonetic": "/lʌŋ/",
+      "meaning": "n.肺",
+      "similar": [
+        "lounge",
+        "plunge",
+        "along",
+        "blunt",
+        "cling",
+        "fling",
+        "lunar"
+      ],
+      "question": {
+        "wordId": "lung",
+        "stem": "选择 \"lung\" 的正确中文意思：",
+        "correct": "n.肺",
+        "options": [
+          "n.肺",
+          "n.休息室,起居室,客厅",
+          "v.(into)(使)投入,(使)插进,陷入;猛冲",
+          "ad.向前；和...一起，一同 prep.沿着，顺着"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自原始日耳曼语 *lungōn-，意为“轻的、轻盈的”，因肺在胸腔中重量较轻且充满空气而得名。核心物理动作：呼吸器官，通过扩张收缩交换气体。",
+        "similarWarning": "long (长的) vs lung (肺)：前者结尾为-ng，元音为长音/oʊ/；后者元音为短音/ʌ/。plunge (跳入) vs lung：前者含pl-前缀和-nge结尾，意为“猛冲”；lung无此含义。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "lure",
+      "word": "lure",
+      "phonetic": "/luə(r)/",
+      "meaning": "n.吸引力,魅力,诱惑物 vt.引诱，吸引",
+      "similar": [
+        "cure",
+        "pure",
+        "curse",
+        "curve",
+        "flare",
+        "glare",
+        "litre",
+        "nurse"
+      ],
+      "question": {
+        "wordId": "lure",
+        "stem": "选择 \"lure\" 的正确中文意思：",
+        "correct": "n.吸引力,魅力,诱惑物 vt.引诱，吸引",
+        "options": [
+          "n.吸引力,魅力,诱惑物 vt.引诱，吸引",
+          "v.(of)治愈,医治;矫正 n.治愈,痊愈;良药",
+          "a.纯的,纯洁的;纯理论的,抽象的;完全的",
+          "n.诅咒,咒语,祸因 vt.诅咒,咒骂,使受罪"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能与古法语'loirre'（诱饵）有关，核心物理动作是‘用诱饵吸引猎物’，引申为‘引诱、诱惑物’。",
+        "similarWarning": "lure vs. cure（治疗）、pure（纯净的）、sure（确定的）、curse（诅咒）——区别在于首字母l- vs c-/p-/s-/c-，以及元音u和ur/ure的差异；lure vs. curve（曲线）、flare（闪光）、glare（怒视）、large（大的）——lure以-lure结尾，与-curve/-lare/-arge等不同。",
+        "extendedMeaning": "考研僻义：n. 诱惑力，吸引力（非物理诱饵，如the lure of money/profit）；vt. 吸引（非贬义，如lure tourists）。",
+        "examUsage": "真题考点：lure sb. into doing sth.（引诱某人做某事），常作为干扰项与attract/tempt辨析；例句：The promise of high profits lured many investors into the scheme.（高利润的承诺引诱许多投资者加入该计划。）"
+      }
+    },
+    {
+      "id": "luxury",
+      "word": "luxury",
+      "phonetic": "/'lʌkʃəri/",
+      "meaning": "n.奢侈,华贵;奢侈品 a.奢华的,豪华的",
+      "similar": [],
+      "question": {
+        "wordId": "luxury",
+        "stem": "选择 \"luxury\" 的正确中文意思：",
+        "correct": "n.奢侈,华贵;奢侈品 a.奢华的,豪华的",
+        "options": [
+          "a.内部的,内的;国内的,内政的",
+          "a.月亮的",
+          "a.琐碎的;无足轻重的",
+          "n.奢侈,华贵;奢侈品 a.奢华的,豪华的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 luxuria（放纵、奢侈），源自 luxus（奢侈、铺张），核心物理动作为“过度、放纵”，引申为超出基本需求的享受或物品。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研中常引申为“不必要但美好的事物”或“极致的舒适”，如“a life of luxury”（奢侈的生活）强调非必需品的享受。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "machinery",
+      "word": "machinery",
+      "phonetic": "/mə'ʃi:nəri/",
+      "meaning": "n.(总称)机器,机械",
+      "similar": [],
+      "question": {
+        "wordId": "machinery",
+        "stem": "选择 \"machinery\" 的正确中文意思：",
+        "correct": "n.(总称)机器,机械",
+        "options": [
+          "n.(总称)机器,机械",
+          "v.(使)沸腾,煮(沸)",
+          "n.指出,指示;表明,暗示",
+          "vt.理解，领会；包含，包括"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根 mach-（意为“机械、机器”）+ 后缀 -inery（集合名词后缀，表总称）。核心动作为“机器的集合体”，强调作为整体概念的机械系统，区别于单个的 machine。",
+        "similarWarning": "machine（n. 机器，单个设备）vs machinery（n. 机械，总称）。差异在于 -inery 表示集合，如 machinery 指所有机器的统称，而 machine 指具体一台。",
+        "extendedMeaning": "（无特殊僻义）",
+        "examUsage": "（无特殊考点）"
+      }
+    }
+  ]
+}

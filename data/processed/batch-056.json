@@ -1,0 +1,1717 @@
+{
+  "batchId": 56,
+  "words": [
+    {
+      "id": "pact",
+      "word": "pact",
+      "phonetic": "/pækt/",
+      "meaning": "n.合同,条约,公约,协定",
+      "similar": [
+        "act",
+        "pat",
+        "pace",
+        "pack",
+        "pant",
+        "impact",
+        "packet",
+        "apart"
+      ],
+      "question": {
+        "wordId": "pact",
+        "stem": "选择 \"pact\" 的正确中文意思：",
+        "correct": "n.合同,条约,公约,协定",
+        "options": [
+          "v.表演；举动；起作用 n.行为，法令；一幕",
+          "n.步,步伐,步调,速度 v.踱步,用步测",
+          "n.合同,条约,公约,协定",
+          "v./n.轻拍,轻打,抚摸"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根pact-来自拉丁语pactum，意为“约定、协议”，与动词pacisci（约定）同源。核心动作是“双方达成一致并固定下来”，引申为正式的法律或政治文件。",
+        "similarWarning": "与act（行为）差一个p，pact强调双方共同约定，act侧重单方行动；与pack（打包）差一个字母，pact是协议，pack是包装；与pat（轻拍）差一个c，pact是名词，pat是动词。",
+        "extendedMeaning": "在考研中常指国家间的正式条约，如peace pact（和平条约），但也可用于商业语境指合作协议。",
+        "examUsage": "真题中常与treaty、agreement、contract同义替换，但pact更侧重双方对等关系，如‘sign a non-aggression pact’（签署互不侵犯条约）是常见考点。"
+      }
+    },
+    {
+      "id": "pad",
+      "word": "pad",
+      "phonetic": "/pæd/",
+      "meaning": "n.垫,衬垫;便笺簿 v.加上衬垫",
+      "similar": [
+        "lad",
+        "mad",
+        "pan",
+        "pat",
+        "paw",
+        "panda",
+        "plead",
+        "spade"
+      ],
+      "question": {
+        "wordId": "pad",
+        "stem": "选择 \"pad\" 的正确中文意思：",
+        "correct": "n.垫,衬垫;便笺簿 v.加上衬垫",
+        "options": [
+          "n.平底锅,盘子,面板",
+          "n.男孩,小伙子",
+          "a.发疯的;狂热的,着迷的;恼火的,生气的",
+          "n.垫,衬垫;便笺簿 v.加上衬垫"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "拟声词源，模仿轻拍或轻踏的声音。核心物理动作是“轻拍、轻踏”，引申为“垫子”（用于轻拍或垫在下面）和“便笺簿”（拍纸簿，可撕下纸张）。",
+        "similarWarning": "bad（坏的）, lad（小伙子）, mad（疯狂的）, pan（平底锅）, pat（轻拍）, paw（爪子）, pay（支付）, sad（悲伤的）",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "paddle",
+      "word": "paddle",
+      "phonetic": "/'pædl/",
+      "meaning": "n.桨 v.用桨划",
+      "similar": [
+        "saddle",
+        "pale",
+        "candle",
+        "handle",
+        "huddle",
+        "riddle"
+      ],
+      "question": {
+        "wordId": "paddle",
+        "stem": "选择 \"paddle\" 的正确中文意思：",
+        "correct": "n.桨 v.用桨划",
+        "options": [
+          "n.蜡烛",
+          "a.苍白的,灰白的;浅的,暗淡的",
+          "n.鞍,马鞍,鞍状物",
+          "n.桨 v.用桨划"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词源来自拉丁语patella（小盘子、平底锅），核心物理动作是“用手或工具反复划水”。paddle由pad-（拍打、脚掌）与-le（反复动作后缀）构成，本义是“用扁平工具反复拍击水面”，引申为“桨”或“划桨动作”。",
+        "similarWarning": "saddle（马鞍）多字母s；pale（苍白的）少字母d和l；candle（蜡烛）多字母c和n；handle（把手）多字母h和n；huddle（挤作一团）多字母h和u；middle（中间）多字母m和i；riddle（谜语）多字母r和i。paddle核心在“扁平拍水”，其他词无此动作。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pail",
+      "word": "pail",
+      "phonetic": "/peil/",
+      "meaning": "n.桶, 提桶; 一桶的量",
+      "similar": [
+        "fail",
+        "hail",
+        "nail",
+        "pair",
+        "rail",
+        "sail",
+        "tail",
+        "april"
+      ],
+      "question": {
+        "wordId": "pail",
+        "stem": "选择 \"pail\" 的正确中文意思：",
+        "correct": "n.桶, 提桶; 一桶的量",
+        "options": [
+          "n.桶, 提桶; 一桶的量",
+          "v.失败,不及格;衰退,减弱",
+          "v.下雹;欢呼,欢迎 n.雹",
+          "n.指甲,爪;钉 v.将…钉牢,钉住"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'pagella'（小容器），经由古法语 'paiele' 演变为中古英语 'pail'。核心物理动作：一个用于盛装或运输液体（如水、牛奶）的圆柱形容器，通常带有提手。词义演变单纯，始终指代桶或一桶的容量。",
+        "similarWarning": "与 'pain' (n.疼痛) 仅一字之差：pail 为 'l'，pain 为 'n'；与 'pair' (n.一对) 仅一字之差：pail 为 'l'，pair 为 'r'。",
+        "extendedMeaning": "考研中无显著僻义，基本仅指 '桶' 或 '一桶的量'。",
+        "examUsage": "考研中该词出现频率极低，无特殊考点，通常作为基础词汇在阅读中识别即可。"
+      }
+    },
+    {
+      "id": "painful",
+      "word": "painful",
+      "phonetic": "/'peinfl/",
+      "meaning": "a.疼痛的,使痛苦的,费力[心]的,棘手的",
+      "similar": [
+        "faithful",
+        "peaceful"
+      ],
+      "question": {
+        "wordId": "painful",
+        "stem": "选择 \"painful\" 的正确中文意思：",
+        "correct": "a.疼痛的,使痛苦的,费力[心]的,棘手的",
+        "options": [
+          "a.疼痛的,使痛苦的,费力[心]的,棘手的",
+          "a.和平的,平静的,安宁的,爱好和平的",
+          "a.立即的;紧迫的;(食品)速溶的 n.瞬间,时刻",
+          "a.守信的,忠实的,如实的,可靠的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根pain（痛苦）+ 后缀-ful（充满...的），核心动作：充满痛苦的状态，引申为费力、棘手。",
+        "similarWarning": "faithful（忠诚的，faith+ful）：与painful相比，词根faith（信任）替换pain（痛苦）；peaceful（和平的，peace+ful）：词根peace（和平）替换pain。注意词根差异决定词义方向。",
+        "extendedMeaning": "考研中常考引申义：费力的、棘手的（如a painful task艰巨的任务），非字面生理疼痛。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "paint",
+      "word": "paint",
+      "phonetic": "/peint/",
+      "meaning": "n.油漆,颜料 v.油漆;涂,涂漆;画;描绘,描述",
+      "similar": [
+        "pant",
+        "pint",
+        "faint",
+        "print",
+        "saint",
+        "painter",
+        "patent",
+        "ant"
+      ],
+      "question": {
+        "wordId": "paint",
+        "stem": "选择 \"paint\" 的正确中文意思：",
+        "correct": "n.油漆,颜料 v.油漆;涂,涂漆;画;描绘,描述",
+        "options": [
+          "n.喘气 v.喘,气喘吁吁地说",
+          "n.品脱",
+          "n.油漆,颜料 v.油漆;涂,涂漆;画;描绘,描述",
+          "a.微弱的;不明显的;暗淡的 n./v.昏倒;昏晕"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语pingere（画，着色），其过去分词pictus演变为picture，paint则通过法语peindre进入英语。核心动作是“用颜料或油漆覆盖表面”，引申为用语言“描绘”。",
+        "similarWarning": "pain（n.疼痛） vs paint（多一个t）→ 疼痛时无法画画；pant（v.喘气） vs paint（a变i）→ 喘气时不能涂漆；pint（n.品脱） vs paint（a变i）→ 一品脱油漆；faint（adj.模糊的） vs paint（f变p）→ 模糊的颜料；point（n.点） vs paint（o变a）→ 点画法；print（v.打印） vs paint（r变a）→ 打印与涂漆不同；saint（n.圣人） vs paint（s变p）→ 圣人不涂漆；painter（n.画家） vs paint（加er）→ 画家用油漆。",
+        "extendedMeaning": "考研中常考“描绘，描述”的引申义，如paint a picture of（生动描绘……），而非仅指物理涂漆。",
+        "examUsage": "真题例句：The author paints a bleak picture of the future.（作者描绘了一幅黯淡的未来图景。）此处paint作动词，表示“生动描述”，是阅读中常见的熟词僻义考点。"
+      }
+    },
+    {
+      "id": "painter",
+      "word": "painter",
+      "phonetic": "/'peintə/",
+      "meaning": "n.漆工,画家",
+      "similar": [
+        "paint",
+        "waiter"
+      ],
+      "question": {
+        "wordId": "painter",
+        "stem": "选择 \"painter\" 的正确中文意思：",
+        "correct": "n.漆工,画家",
+        "options": [
+          "n.油漆,颜料 v.油漆;涂,涂漆;画;描绘,描述",
+          "n.漆工,画家",
+          "n.侍者,服务员",
+          "n.模糊不清的事物；污点 vt.使模糊；玷污"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "来自paint（油漆/绘画）+ -er（表示人或工具的后缀）。核心动作是“用颜料/油漆覆盖表面”，因此painter指从事该动作的人：油漆工或画家。",
+        "similarWarning": "paint（油漆/绘画）比painter少-er；waiter（服务员）拼写相似但词根不同（wait等待）；winter（冬天）仅差一个字母n，但词义无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pair",
+      "word": "pair",
+      "phonetic": "/pεə/",
+      "meaning": "n.一对,一双;一副;夫妇 v.配对,成对",
+      "similar": [
+        "fair",
+        "pail",
+        "impair",
+        "repair",
+        "chair",
+        "dairy",
+        "fairy",
+        "paint"
+      ],
+      "question": {
+        "wordId": "pair",
+        "stem": "选择 \"pair\" 的正确中文意思：",
+        "correct": "n.一对,一双;一副;夫妇 v.配对,成对",
+        "options": [
+          "v.损害,损伤;削弱,减少",
+          "n.一对,一双;一副;夫妇 v.配对,成对",
+          "a.公平的,合理的;相当的 n.集市,交易会",
+          "n.桶, 提桶; 一桶的量"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语“paria”（相等之物），核心物理动作为“将两个相等/匹配的事物放在一起”。词根“par-”表示“相等、匹配”，如compare（比较，使相等）。pair即指两个相互匹配、成对的个体。",
+        "similarWarning": "pair vs. repair: re-（再次）+ pair（匹配）→ 重新匹配破损处，即“修理”。pair vs. impair: im-（不）+ pair（相等）→ 使不相等，即“损害”。pair vs. pail: 仅一字母之差（r vs. l），pail是“桶”，注意区分。",
+        "extendedMeaning": "在考研阅读中，“a pair of”可引申为“一对（搭档）”，如“a pair of researchers”表示“两位研究者搭档”。此外，动词“pair up”意为“配对、合作”，常用于描述团队协作。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "palace",
+      "word": "palace",
+      "phonetic": "/'pælis/",
+      "meaning": "n.宫,宫殿",
+      "similar": [
+        "balance",
+        "lace",
+        "pace",
+        "pale",
+        "plane",
+        "parade"
+      ],
+      "question": {
+        "wordId": "palace",
+        "stem": "选择 \"palace\" 的正确中文意思：",
+        "correct": "n.宫,宫殿",
+        "options": [
+          "n.宫,宫殿",
+          "v.称,(使)平衡 n.天平;平衡,均衡;差额,余款",
+          "n.花边;带子,鞋带 v.系带,扎带",
+          "n.步,步伐,步调,速度 v.踱步,用步测"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'palatium'，指罗马城帕拉蒂尼山（Palatine Hill），罗马皇帝奥古斯都的宫殿建于此山，后引申为任何君主的居所。词根 'palat-' 直接关联帝王居所，核心物理动作是“帝王居住的场所”。",
+        "similarWarning": "place（地点，放置）：palace 含字母 'a' 和 'c'，place 含 'l' 和 'c'，拼写差异在于 'a' vs 'l'，词义上 palace 特指宫殿，place 泛指任何地方。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pale",
+      "word": "pale",
+      "phonetic": "/peil/",
+      "meaning": "a.苍白的,灰白的;浅的,暗淡的",
+      "similar": [
+        "male",
+        "pace",
+        "palm",
+        "pave",
+        "pile",
+        "pole",
+        "sale",
+        "tale"
+      ],
+      "question": {
+        "wordId": "pale",
+        "stem": "选择 \"pale\" 的正确中文意思：",
+        "correct": "a.苍白的,灰白的;浅的,暗淡的",
+        "options": [
+          "n.手掌,掌状物,棕榈vt.与…握手,藏…于掌中",
+          "n./a.男性(的),雄性(的)",
+          "n.步,步伐,步调,速度 v.踱步,用步测",
+          "a.苍白的,灰白的;浅的,暗淡的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 pallidus（苍白的），与 pallor（苍白）同源。核心动作画面：因恐惧、疾病或光照不足导致肤色失去血色，呈现浅淡、无生机的状态。扩展至颜色浅淡（如 pale blue）或光线暗淡（如 pale moon）。",
+        "similarWarning": "pale vs pile：a/e 元音差异，pale（苍白）vs pile（堆叠）；pale vs pole：a/o 元音差异，pale（苍白）vs pole（杆子）；pale vs palm：l vs lm 结尾差异，pale（苍白）vs palm（手掌）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "palm",
+      "word": "palm",
+      "phonetic": "/pɑ:m/",
+      "meaning": "n.手掌,掌状物,棕榈vt.与…握手,藏…于掌中",
+      "similar": [
+        "calm",
+        "pale",
+        "realm"
+      ],
+      "question": {
+        "wordId": "palm",
+        "stem": "选择 \"palm\" 的正确中文意思：",
+        "correct": "n.手掌,掌状物,棕榈vt.与…握手,藏…于掌中",
+        "options": [
+          "n.手掌,掌状物,棕榈vt.与…握手,藏…于掌中",
+          "n.王国,国土;领域",
+          "a.(天气,海洋等)静的 n.平静 v.(使)平静",
+          "a.苍白的,灰白的;浅的,暗淡的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语palma，意为手掌、棕榈叶。核心物理动作是手掌的展开与覆盖，引申为掌状物或棕榈树。",
+        "similarWarning": "calm（冷静的，与palm差一个字母c，palm侧重手掌，calm侧重情绪）；pale（苍白的，差一个字母l，palm有m，pale无m）；realm（领域，比palm多re，词义差异大）。",
+        "extendedMeaning": "考研僻义：vt. 藏于掌中（如palm a card），或引申为隐瞒、欺骗。",
+        "examUsage": "真题考点：palm off 意为用欺骗手段推销或处理（如palm off fake goods on customers），常作为阅读或翻译中的固定搭配出现。"
+      }
+    },
+    {
+      "id": "pamphlet",
+      "word": "pamphlet",
+      "phonetic": "/'pæmflit/",
+      "meaning": "n.小册子",
+      "similar": [
+        "sample",
+        "prophet"
+      ],
+      "question": {
+        "wordId": "pamphlet",
+        "stem": "选择 \"pamphlet\" 的正确中文意思：",
+        "correct": "n.小册子",
+        "options": [
+          "n.小册子",
+          "n.样品,实例,标本,抽样检查 v.取样,采样",
+          "a.粗俗的，庸俗的，本土的，通俗的，普通的",
+          "n.预言家；先知；提倡者"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语‘pamphilus’，意为‘一本小书’，原指爱情诗歌集。词根‘pam-’（全部）+‘-phil-’（爱），后泛指小型宣传册或说明手册。核心动作：装订成册的简短文字材料。",
+        "similarWarning": "sample（样本）：与pamphlet拼写相似，但含义不同。prophet（先知）：注意结尾‘-et’与‘-let’差异，prophet指预言者。",
+        "extendedMeaning": "在考研中，pamphlet偶指‘宣传小册子’，强调政治或商业宣传用途，如‘election pamphlet’（竞选宣传册）。",
+        "examUsage": "真题考点：常与‘brochure’（小册子）作近义辨析，但pamphlet更侧重简短、非正式，brochure更正式。例句：‘The pamphlet was distributed to promote the new policy.’（该小册子被分发以推广新政策。）注意搭配‘distribute pamphlets’（分发小册子）。"
+      }
+    },
+    {
+      "id": "pan",
+      "word": "pan",
+      "phonetic": "/pæn/",
+      "meaning": "n.平底锅,盘子,面板",
+      "similar": [
+        "pant",
+        "span",
+        "ban",
+        "fan",
+        "pad",
+        "pat",
+        "paw",
+        "pin"
+      ],
+      "question": {
+        "wordId": "pan",
+        "stem": "选择 \"pan\" 的正确中文意思：",
+        "correct": "n.平底锅,盘子,面板",
+        "options": [
+          "v.取缔,查禁;(from)禁止 n.禁止,禁令",
+          "n.跨度,跨距",
+          "n.喘气 v.喘,气喘吁吁地说",
+          "n.平底锅,盘子,面板"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根PAN-源自古希腊语，意为‘全部、整体’，后引申为‘容器’（如平底锅能容纳食物）。核心动作：一个扁平的圆形容器，用于烹饪或盛放物品。",
+        "similarWarning": "pain（疼痛）: pan vs pain，多一个i；pant（喘气）: pan + t；plan（计划）: pan + l；span（跨度）: s + pan；ban（禁止）: b + pan；can（能）: c + pan；fan（扇子）: f + pan。注意词首字母差异。",
+        "extendedMeaning": "考研僻义：1. 动词‘严厉批评’（如pan a movie）; 2. 名词‘（摄影）全景拍摄’（如pan shot）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "panda",
+      "word": "panda",
+      "phonetic": "/'pændə/",
+      "meaning": "n.熊猫",
+      "similar": [
+        "pad",
+        "pan",
+        "band",
+        "pant",
+        "pond",
+        "sand",
+        "candy",
+        "handy"
+      ],
+      "question": {
+        "wordId": "panda",
+        "stem": "选择 \"panda\" 的正确中文意思：",
+        "correct": "n.熊猫",
+        "options": [
+          "n.平底锅,盘子,面板",
+          "n.条,带;乐队;波段;一群,一伙 v.缚,绑扎",
+          "n.垫,衬垫;便笺簿 v.加上衬垫",
+          "n.熊猫"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "该词源自法语，可能借自尼泊尔语，原指一种红白相间的动物。词根无明确分解，核心物理动作为“黑白相间的熊状动物”，直接对应其外形特征。",
+        "similarWarning": "panda无典型易混词，注意与'pant' (喘气) 拼写差异：panda结尾'da'，pant结尾't'，词义无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "panel",
+      "word": "panel",
+      "phonetic": "/'pænl/",
+      "meaning": "n.面,板;控制板,仪表盘;专门小组",
+      "similar": [
+        "cancel",
+        "parcel",
+        "planet",
+        "pan",
+        "lane",
+        "pace",
+        "pail",
+        "pale"
+      ],
+      "question": {
+        "wordId": "panel",
+        "stem": "选择 \"panel\" 的正确中文意思：",
+        "correct": "n.面,板;控制板,仪表盘;专门小组",
+        "options": [
+          "n.行星",
+          "n.包裹,邮包,部分 v.打包,捆扎,分配",
+          "v.取消,把…作废;删去,划掉",
+          "n.面,板;控制板,仪表盘;专门小组"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'pannus'（一块布），原指布片或嵌板。核心动作是“一块扁平的片状物”，后引申为“控制板”（仪器面板）和“专门小组”（由多人组成的“板块”）。",
+        "similarWarning": "cancel（取消，c-前缀+ancel，强调“划掉”）；parcel（包裹，par-部分+cel，强调“小部分”）；planet（行星，planet-流浪者）；pan（平底锅，象形“平底”）；lane（小巷，l-长条形）；pace（步伐，p-脚）；page（页，p-纸片）；pail（桶，p-容器）。panel 核心是“扁平板状”，与 cancel 的“划掉”动作无关。",
+        "extendedMeaning": "“专门小组”在考研中常指“专家小组、专题讨论小组”，如 'a panel of experts'（专家组）；“控制板”可引申为“仪表盘、面板”。",
+        "examUsage": "常见搭配：'on the panel'（在小组中；受审），'panel discussion'（小组讨论）。真题中常作为主语或定语，如 'a panel of judges'（评审团），需注意与 'board'（委员会）的区别。"
+      }
+    },
+    {
+      "id": "panic",
+      "word": "panic",
+      "phonetic": "/'pænik/",
+      "meaning": "n./a.恐慌(的),惊慌(的) vt.使惊慌,使害怕",
+      "similar": [
+        "picnic",
+        "pan",
+        "pail",
+        "pair",
+        "pant",
+        "basic",
+        "magic",
+        "panda"
+      ],
+      "question": {
+        "wordId": "panic",
+        "stem": "选择 \"panic\" 的正确中文意思：",
+        "correct": "n./a.恐慌(的),惊慌(的) vt.使惊慌,使害怕",
+        "options": [
+          "n.野餐 v.(去)野餐",
+          "n./a.恐慌(的),惊慌(的) vt.使惊慌,使害怕",
+          "n.平底锅,盘子,面板",
+          "n.桶, 提桶; 一桶的量"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊神话中的牧神潘（Pan），他长相怪异，突然现身会引发人和动物莫名的恐惧与惊慌。词根 Pan- 代表神名，-ic 为形容词后缀，表示“与...相关的”。核心物理动作/画面：潘神突然出现→瞬间引发集体性的、无理性的惊恐与慌乱。",
+        "similarWarning": "picnic（野餐）：拼写仅差 'c' 变 'p'，但词义天差地别。panic 是恐慌，picnic 是休闲。",
+        "extendedMeaning": "（在经济学人中常出现）指金融市场的“恐慌性抛售”或“恐慌情绪蔓延”，如 stock market panic（股市恐慌）。",
+        "examUsage": "真题常考搭配：panic about/over sth（对...感到恐慌）；in panic（惊慌地）；panic buying（抢购，如疫情期间的恐慌性购物）。"
+      }
+    },
+    {
+      "id": "panorama",
+      "word": "panorama",
+      "phonetic": "/ˌpænə'rɑ:mə/",
+      "meaning": "n.全景,全景画,全景摄影,全景照片[装置]",
+      "similar": [],
+      "question": {
+        "wordId": "panorama",
+        "stem": "选择 \"panorama\" 的正确中文意思：",
+        "correct": "n.全景,全景画,全景摄影,全景照片[装置]",
+        "options": [
+          "a.不明确的,含糊的,暧昧的",
+          "n.全景,全景画,全景摄影,全景照片[装置]",
+          "ad.到国外，在国外；在传播，在流传",
+          "a.紧的;紧身的,装紧的;密封的 ad.紧紧地"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根：pan-（全部）+ horama（景色）。pan-源自希腊语，表示“全部”；horama意为“景观、视野”。核心动作：将全部视野尽收眼底，构成一幅完整画面。",
+        "similarWarning": "",
+        "extendedMeaning": "考研外刊中常引申为“全貌、概览”，如a panorama of global economy（全球经济全貌），强调对复杂事物的宏观把握，非字面风景。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pant",
+      "word": "pant",
+      "phonetic": "/pænt/",
+      "meaning": "n.喘气 v.喘,气喘吁吁地说",
+      "similar": [
+        "paint",
+        "pants",
+        "ant",
+        "pan",
+        "pat",
+        "pact",
+        "pint",
+        "want"
+      ],
+      "question": {
+        "wordId": "pant",
+        "stem": "选择 \"pant\" 的正确中文意思：",
+        "correct": "n.喘气 v.喘,气喘吁吁地说",
+        "options": [
+          "n.喘气 v.喘,气喘吁吁地说",
+          "n.蚁；蚂蚁",
+          "n.裤子, 短裤",
+          "n.油漆,颜料 v.油漆;涂,涂漆;画;描绘,描述"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "拟声词，模仿急促呼吸时发出的“噗-噗”声，核心动作是“急促呼吸”。",
+        "similarWarning": "paint（油漆，绘画） vs pant：paint多了一个字母i，pant指喘气。pants（裤子） vs pant：pants是复数形式，指裤子，pant是喘气。plant（植物） vs pant：plant多了字母l，指植物。ant（蚂蚁） vs pant：ant少字母p，指蚂蚁。pan（平底锅） vs pant：pan少字母t，指平底锅。pat（轻拍） vs pant：pat少字母n，指轻拍。pact（协议） vs pant：pact多字母c且无n，指协议。part（部分） vs pant：part多字母r且无n，指部分。",
+        "extendedMeaning": "(动词) 渴望，热望：pant for/after 表示强烈渴望，如“pant for revenge”渴望复仇，常见于文学或外刊。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pants",
+      "word": "pants",
+      "phonetic": "/pænts/",
+      "meaning": "n.裤子, 短裤",
+      "similar": [
+        "pant",
+        "ant",
+        "pan",
+        "pat",
+        "pact",
+        "pint",
+        "want",
+        "paint"
+      ],
+      "question": {
+        "wordId": "pants",
+        "stem": "选择 \"pants\" 的正确中文意思：",
+        "correct": "n.裤子, 短裤",
+        "options": [
+          "n.喘气 v.喘,气喘吁吁地说",
+          "n.平底锅,盘子,面板",
+          "n.裤子, 短裤",
+          "n.蚁；蚂蚁"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自法语'pantalon'，缩写自意大利喜剧人物'Pantalone'（穿紧身裤的老头）。核心动作：覆盖双腿的衣物，与'pant'（喘气）无关。",
+        "similarWarning": "pant（v.喘气，n.喘气声）vs pants（n.裤子）。字母差异：pants多一个's'，表示复数形式的裤子。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "paperback",
+      "word": "paperback",
+      "phonetic": "/'peipəbæk/",
+      "meaning": "n.平装本，简装本",
+      "similar": [],
+      "question": {
+        "wordId": "paperback",
+        "stem": "选择 \"paperback\" 的正确中文意思：",
+        "correct": "n.平装本，简装本",
+        "options": [
+          "n.程序,手续,步骤",
+          "n.平装本，简装本",
+          "n.卷筒,线轴 v.卷,绕",
+          "v.浪费 a.无用的;荒芜的 n.浪费;废物"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "paper（纸）+ back（背面）→ 纸质的背面装订 → 平装本，区别于硬皮精装本（hardcover）。",
+        "similarWarning": "",
+        "extendedMeaning": "在考研外刊中常引申为“廉价、低成本的（出版物或产品）”，如“paperback edition”（平装版）暗含价格亲民、普及性高的意味。",
+        "examUsage": "常与hardcover（精装本）对比出现，如“The book was first published in hardcover and later released as a paperback.” 注意区分“paperback”与“pocket book”（口袋书）的细微差异。"
+      }
+    },
+    {
+      "id": "parachute",
+      "word": "parachute",
+      "phonetic": "/'pærəˌʃu:t/",
+      "meaning": "n.降落伞 v.跳伞",
+      "similar": [
+        "parasite"
+      ],
+      "question": {
+        "wordId": "parachute",
+        "stem": "选择 \"parachute\" 的正确中文意思：",
+        "correct": "n.降落伞 v.跳伞",
+        "options": [
+          "n.降落伞 v.跳伞",
+          "n.寄生虫,食客",
+          "a.有希望的,有前途的",
+          "n.真空,真空吸尘器"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "para-（旁，侧）+ chute（降落，落下）。降落伞的本源是'侧旁落下'，即从空中附着于物体旁侧降落。核心动作：从高处附着降落。",
+        "similarWarning": "parasite（寄生虫）：para-（旁）+ site（食物），指从旁获取食物；parachute强调'落下'的动作，两者词根不同。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "parade",
+      "word": "parade",
+      "phonetic": "/pə'reid/",
+      "meaning": "n./v.游行,夸耀n.检阅,阅兵式v.使列队行进",
+      "similar": [
+        "paradox",
+        "upgrade",
+        "grade",
+        "pride",
+        "garage",
+        "palace",
+        "phrase",
+        "pirate"
+      ],
+      "question": {
+        "wordId": "parade",
+        "stem": "选择 \"parade\" 的正确中文意思：",
+        "correct": "n./v.游行,夸耀n.检阅,阅兵式v.使列队行进",
+        "options": [
+          "n.等级,级别;年级;分数 v.分等,分级",
+          "n.似非而是的话,自相矛盾的话,反论",
+          "n./v.游行,夸耀n.检阅,阅兵式v.使列队行进",
+          "v.提升,使升级"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根par-（准备）+ -ade（名词后缀，表动作/集合）。核心动作：使准备好并排成队列行进。源于拉丁语parare（准备），本义是“为检阅而准备的列队行进”，引申为“游行”和“炫耀展示”。",
+        "similarWarning": "paradox（矛盾）：para-（旁边）+ dox（观点），并列相反观点；parade强调列队行进。grade（等级）：grad-（步，级），与parade无直接词源关联。",
+        "extendedMeaning": "考研中常考“夸耀，炫耀”义（如parade one's knowledge炫耀知识），以及“阅兵式”的正式用法。",
+        "examUsage": "固定搭配：make a parade of（炫耀）。真题例句：He made a parade of his wealth.（他炫耀财富。）"
+      }
+    },
+    {
+      "id": "paradigm",
+      "word": "paradigm",
+      "phonetic": "/'pærədim/",
+      "meaning": "n.典范; 范例; 示例",
+      "similar": [
+        "parade",
+        "paradox",
+        "parasite"
+      ],
+      "question": {
+        "wordId": "paradigm",
+        "stem": "选择 \"paradigm\" 的正确中文意思：",
+        "correct": "n.典范; 范例; 示例",
+        "options": [
+          "n./v.游行,夸耀n.检阅,阅兵式v.使列队行进",
+          "n.似非而是的话,自相矛盾的话,反论",
+          "n.典范; 范例; 示例",
+          "n.寄生虫,食客"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "来自希腊语 'paradeigma'（模式、榜样），由 'para-'（旁边）和 'deiknynai'（展示）组成，核心动作是‘放在旁边展示’，引申为‘供模仿的模型或典范’。",
+        "similarWarning": "parade（n. 游行；v. 列队行进） vs paradox（n. 悖论，矛盾） vs parasite（n. 寄生虫，依赖他人者）。差异：-digm 表‘展示的模型’，-dox 表‘观点’，-site 表‘食物/寄主’。",
+        "extendedMeaning": "在学术语境中常指‘理论框架、思维范式’（如 Kuhn's paradigm shift），区别于普通‘例子’。",
+        "examUsage": "考研真题中常考固定搭配 'paradigm shift'（范式转移），或作为干扰项与 'example'、'model' 辨析，强调‘系统性、根本性的模式转变’。"
+      }
+    },
+    {
+      "id": "paradox",
+      "word": "paradox",
+      "phonetic": "/'pærədɒks/",
+      "meaning": "n.似非而是的话,自相矛盾的话,反论",
+      "similar": [
+        "parade",
+        "pardon",
+        "paradigm"
+      ],
+      "question": {
+        "wordId": "paradox",
+        "stem": "选择 \"paradox\" 的正确中文意思：",
+        "correct": "n.似非而是的话,自相矛盾的话,反论",
+        "options": [
+          "n.似非而是的话,自相矛盾的话,反论",
+          "n.典范; 范例; 示例",
+          "n./v.游行,夸耀n.检阅,阅兵式v.使列队行进",
+          "n.原谅,宽恕;请再说一遍 v.原谅,饶恕,赦免"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源：para-（在旁边/超越）+ doxa（意见/观点）。字面意为“超越常规观点的说法”，即看似荒谬实则可能正确的陈述。核心动作：并存两种对立观点，形成表面矛盾。",
+        "similarWarning": "parade（n./v. 游行，展示）：p-开头的“展示”动作；pardon（n./v. 原谅）：don-词根意为“给予”，指“给予宽恕”；paradigm（n. 范例）：deigma意为“显示”，指“展示的模型”。区别在于：paradox强调“观点对立”，parade强调“队列行进”，pardon强调“宽恕行为”，paradigm强调“典型模式”。",
+        "extendedMeaning": "在考研中常引申为“悖论性的事物/情况”，指逻辑上自相矛盾但实际存在的现象。例如：The paradox of thrift（节俭悖论）——个体节俭导致整体经济衰退。",
+        "examUsage": "真题考点：常与solve/explain/embody等动词搭配，作核心题眼。例如：This creates a paradox（这制造了一个悖论）——在阅读理解中作为段落主旨句，需识别前后矛盾关系。"
+      }
+    },
+    {
+      "id": "paragraph",
+      "word": "paragraph",
+      "phonetic": "/'pærəgrɑ:f/",
+      "meaning": "n.段,节;小新闻,短评",
+      "similar": [],
+      "question": {
+        "wordId": "paragraph",
+        "stem": "选择 \"paragraph\" 的正确中文意思：",
+        "correct": "n.段,节;小新闻,短评",
+        "options": [
+          "ad.终于,最后",
+          "a.心智健全的,神志清醒的,明智的,稳健的",
+          "v.好像,似乎",
+          "n.段,节;小新闻,短评"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "para-（旁边）+ graph（写）→ 在文字旁边作标记（分段符号）→ 段落。核心动作：在旁边写标记以分割文本块。",
+        "similarWarning": "",
+        "extendedMeaning": "小新闻、短评（报纸中不占整版的简短报道或评论段落）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "parallel",
+      "word": "parallel",
+      "phonetic": "/'pærəlel/",
+      "meaning": "a.平行的,相同的,类似的n.平行线,类似,对比",
+      "similar": [
+        "parade",
+        "parcel",
+        "paralyze"
+      ],
+      "question": {
+        "wordId": "parallel",
+        "stem": "选择 \"parallel\" 的正确中文意思：",
+        "correct": "a.平行的,相同的,类似的n.平行线,类似,对比",
+        "options": [
+          "a.平行的,相同的,类似的n.平行线,类似,对比",
+          "n./v.游行,夸耀n.检阅,阅兵式v.使列队行进",
+          "n.包裹,邮包,部分 v.打包,捆扎,分配",
+          "v.(paralyse)使瘫痪(麻痹);使丧失作用"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自希腊语para-（旁边）+ allelos（彼此），字面意为“彼此在旁边”。核心物理动作是两条线或事物并排延伸而不相交，引申为“相似、对应”的关系。",
+        "similarWarning": "parade（n.游行）- 去掉llel加de；parcel（n.包裹）- 去掉llel加cel；paralyze（v.使瘫痪）- 去掉llel加lyze。parallel强调并排平行，parade强调列队行进，parcel指小包，paralyze指失去运动能力。",
+        "extendedMeaning": "在考研阅读中常作动词，意为“与……相当/媲美”，如“parallel the achievements”（媲美成就）；或作名词，意为“类比、对应物”，如“draw a parallel between A and B”（在A与B之间作类比）。",
+        "examUsage": "高频考点：\"in parallel with\"（与……同时/并行）；\"parallel to\"（与……平行/类似）。真题例句：\"The trend is not unique to the US; it parallels similar developments in Europe.\"（这一趋势并非美国独有，与欧洲的类似发展并行。）"
+      }
+    },
+    {
+      "id": "paralyze",
+      "word": "paralyze",
+      "phonetic": "/'pærəlaiz/",
+      "meaning": "v.(paralyse)使瘫痪(麻痹);使丧失作用",
+      "similar": [
+        "parade",
+        "partly",
+        "analyse",
+        "parallel",
+        "parasite"
+      ],
+      "question": {
+        "wordId": "paralyze",
+        "stem": "选择 \"paralyze\" 的正确中文意思：",
+        "correct": "v.(paralyse)使瘫痪(麻痹);使丧失作用",
+        "options": [
+          "vt.（analyze）分析，分解",
+          "v.(paralyse)使瘫痪(麻痹);使丧失作用",
+          "n./v.游行,夸耀n.检阅,阅兵式v.使列队行进",
+          "ad.部分地,不完全地,在一定程度上"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "源自希腊语paralysis，由para-（在旁边）和lysis（松开、解体）组成，字面意为“从旁边松开、使失去连接”。核心动作：使身体某部分失去神经连接而无法运动，引申为“使系统或功能完全失效”。",
+        "similarWarning": "paralyze vs. parade（游行）：parade有字母d，意为展示；paralyze核心是lyze（松开）。vs. partly（部分地）：partly含part，意为部分；paralyze强调完全丧失。vs. analyse（分析）：analyse含ana-（向上），意为分解；paralyze是para-（旁边）。vs. parallel（平行的）：parallel有双l，意为平行；paralyze是单l。vs. parasite（寄生虫）：parasite含site（位置），意为寄生；paralyze是lyze（松开）。",
+        "extendedMeaning": "在考研真题中常引申为“使陷入瘫痪状态（非物理）”，如paralyze the economy（使经济瘫痪）、paralyze decision-making（使决策停滞），强调系统或进程的完全停滞。",
+        "examUsage": "真题考点：常用于被动结构be paralyzed by，表示“因……而瘫痪/无法运作”。例句：The transportation system was paralyzed by the snowstorm.（暴风雪使交通系统瘫痪。）注意与disable（使丧失能力）区分：paralyze更强调整体性停滞，disable侧重个体功能丧失。"
+      }
+    },
+    {
+      "id": "parameter",
+      "word": "parameter",
+      "phonetic": "/pə'ræmitə/",
+      "meaning": "n.参数,参量",
+      "similar": [
+        "diameter",
+        "parasite"
+      ],
+      "question": {
+        "wordId": "parameter",
+        "stem": "选择 \"parameter\" 的正确中文意思：",
+        "correct": "n.参数,参量",
+        "options": [
+          "n.参数,参量",
+          "n./v.传真(机)",
+          "n.直径",
+          "n.寄生虫,食客"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自希腊语 'para-'（旁边、辅助）和 'metron'（测量）。核心动作：在旁边辅助测量的东西。参数是描述系统或函数行为的变量，作为辅助定义或限制条件的量。",
+        "similarWarning": "diameter（直径）: dia-（穿过）+ meter（测量），指穿过圆心的测量值；parameter: para-（旁边）+ meter，强调辅助性测量。parasite（寄生虫）: para-（旁边）+ site（食物），指在食物旁边生存的有机体，与参数无直接关联。",
+        "extendedMeaning": "在考研阅读中常引申为'界限、范围'或'决定因素'。例：The parameters of the debate were set by the government.（辩论的框架由政府设定。）",
+        "examUsage": "常考搭配：within the parameters of（在…范围内）；key parameter（关键参数）。真题中可能作为干扰项，与'perimeter'（周长、边界）混淆，注意拼写差异。"
+      }
+    },
+    {
+      "id": "parasite",
+      "word": "parasite",
+      "phonetic": "/'pærəsaɪt/",
+      "meaning": "n.寄生虫,食客",
+      "similar": [
+        "parachute",
+        "parameter",
+        "parade",
+        "phrase",
+        "pirate",
+        "praise",
+        "passive",
+        "preside"
+      ],
+      "question": {
+        "wordId": "parasite",
+        "stem": "选择 \"parasite\" 的正确中文意思：",
+        "correct": "n.寄生虫,食客",
+        "options": [
+          "n.寄生虫,食客",
+          "n.降落伞 v.跳伞",
+          "n.参数,参量",
+          "n./v.游行,夸耀n.检阅,阅兵式v.使列队行进"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "para-（旁边）+ site（食物）→ 在别人食物旁边蹭吃的人 → 寄生虫；食客。核心动作：依附宿主获取营养，不劳而获。",
+        "similarWarning": "parachute（降落伞：chute=落） vs parasite（site=食物）→ 一个靠空气阻力下落，一个靠宿主营养生存。",
+        "extendedMeaning": "考研常考“食客；依赖他人者”，如：He is a social parasite.（他是个社会寄生虫。）",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "parcel",
+      "word": "parcel",
+      "phonetic": "/'pɑ:sl/",
+      "meaning": "n.包裹,邮包,部分 v.打包,捆扎,分配",
+      "similar": [
+        "pace",
+        "panel",
+        "barrel",
+        "cancel",
+        "parallel",
+        "scarcely"
+      ],
+      "question": {
+        "wordId": "parcel",
+        "stem": "选择 \"parcel\" 的正确中文意思：",
+        "correct": "n.包裹,邮包,部分 v.打包,捆扎,分配",
+        "options": [
+          "n.桶;枪管,炮管",
+          "n.面,板;控制板,仪表盘;专门小组",
+          "n.步,步伐,步调,速度 v.踱步,用步测",
+          "n.包裹,邮包,部分 v.打包,捆扎,分配"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根为part-（部分），-cel为指小后缀。核心动作：将整体分成小部分（分配）或把分散的部分打包成一个整体（打包）。物理画面：把大块东西切分成小块（分配），或把小件物品捆成一个小包（包裹）。",
+        "similarWarning": "pace（n.步速,步伐）- panel（n.面板,仪表盘）- barrel（n.桶）- cancel（v.取消）- parallel（adj.平行的）- scarcely（adv.几乎不）。parcel与cancel拼写差异在于首字母p/c，且parcel强调分割/打包，cancel强调划掉/删除。",
+        "extendedMeaning": "熟词僻义：n. 一部分，一块（a parcel of land 一块土地）；v. 分配，分给（parcel out 分配，分派）。",
+        "examUsage": "真题考点：parcel out（分配）在阅读中常作题眼，与distribute、allocate同义替换。例：The land was parceled out among the settlers.（土地被分配给了定居者。）"
+      }
+    },
+    {
+      "id": "pardon",
+      "word": "pardon",
+      "phonetic": "/'pɑ:dn/",
+      "meaning": "n.原谅,宽恕;请再说一遍 v.原谅,饶恕,赦免",
+      "similar": [
+        "paradox",
+        "carbon",
+        "harden",
+        "jargon",
+        "patron"
+      ],
+      "question": {
+        "wordId": "pardon",
+        "stem": "选择 \"pardon\" 的正确中文意思：",
+        "correct": "n.原谅,宽恕;请再说一遍 v.原谅,饶恕,赦免",
+        "options": [
+          "n.碳",
+          "n.似非而是的话,自相矛盾的话,反论",
+          "v.(使)变硬",
+          "n.原谅,宽恕;请再说一遍 v.原谅,饶恕,赦免"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 perdonare，由 per-（完全、彻底） + donare（给予）构成，字面义为“完全给予”，后引申为“赦免、宽恕”，核心动作是“彻底给予（原谅）”。",
+        "similarWarning": "paradox（矛盾） vs. pardon：paradox 含 para-（旁边）+ dox（意见），指“反论”；pardon 核心是 don（给予）。carbon（碳） vs. pardon：carbon 词根 carb-（煤）；pardon 无此关联。",
+        "extendedMeaning": "在考研真题中，pardon 常作为“赦免（法律/政治语境）”使用，如 presidential pardon（总统赦免），非日常“原谅”。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "parliament",
+      "word": "parliament",
+      "phonetic": "/'pɑ:ləmənt/",
+      "meaning": "n.国会,议会",
+      "similar": [
+        "argument",
+        "ornament",
+        "pavement",
+        "apartment",
+        "permanent",
+        "prevalent",
+        "harassment"
+      ],
+      "question": {
+        "wordId": "parliament",
+        "stem": "选择 \"parliament\" 的正确中文意思：",
+        "correct": "n.国会,议会",
+        "options": [
+          "n.人行道",
+          "v.装饰,美化 n.装饰,装饰物",
+          "n.争论(吵)，辩论；理由;论证",
+          "n.国会,议会"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自法语parlement，词根parler（说话）+ -ment（名词后缀，表行为/场所）。核心动作是“说话的地方”，即进行讨论、辩论的场合，引申为立法机构——国会、议会。",
+        "similarWarning": "argument（n.争论） vs parliament：argument强调辩论行为本身（argue+ment），parliament强调辩论场所（parler+ment）。ornament（n.装饰） vs parliament：orn-（装饰）+ -ment，parliament无装饰义。",
+        "extendedMeaning": "",
+        "examUsage": "常考搭配：member of parliament（议员），parliamentary（议会的），如真题中‘parliamentary democracy’（议会民主制）作为政治类阅读高频背景词。"
+      }
+    },
+    {
+      "id": "partial",
+      "word": "partial",
+      "phonetic": "/'pɑ:ʃəl/",
+      "meaning": "a.部分的,不完全的;偏袒的,不公平的,偏爱的",
+      "similar": [
+        "particle",
+        "practical",
+        "cardinal",
+        "marginal",
+        "vertical"
+      ],
+      "question": {
+        "wordId": "partial",
+        "stem": "选择 \"partial\" 的正确中文意思：",
+        "correct": "a.部分的,不完全的;偏袒的,不公平的,偏爱的",
+        "options": [
+          "n.(天主教的)红衣主教 a.首要的，基本的",
+          "a.部分的,不完全的;偏袒的,不公平的,偏爱的",
+          "n.粒子,微粒;极小量;小品词,虚词",
+          "a.实际的,实用的"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "词根part-（部分）+ -ial（形容词后缀）。核心动作/画面：只关注“部分”而非整体→引申为“不完全的”；进一步引申为因只看重某一部分而失去客观→“偏袒的、偏爱的”。",
+        "similarWarning": "particle（n.微粒：part-小部分 + -icle小后缀） vs partial（a.部分的：part部分 + -ial形容词后缀）。practical（a.实际的：pract-做 + -ical） vs partial。cardinal（a.基本的：card-心脏/关键） vs partial。marginal（a.边缘的：margin边缘 + -al） vs partial。vertical（a.垂直的：vert-转 + -ical） vs partial。",
+        "extendedMeaning": "考研僻义中常考“偏袒的、不公平的”这一义项，如be partial to（偏爱……），在阅读中常作为态度题或推理题的关键词。",
+        "examUsage": "真题考点：be partial to（偏爱/偏袒）常与impartial（公正的）对比，作为干扰项。例：The judge was accused of being partial to the defendant.（法官被指责偏袒被告。）"
+      }
+    },
+    {
+      "id": "participant",
+      "word": "participant",
+      "phonetic": "/pɑ:'tisipənt/",
+      "meaning": "n.参加者,参与者 a.有份的,参与的",
+      "similar": [
+        "participate",
+        "anticipate"
+      ],
+      "question": {
+        "wordId": "participant",
+        "stem": "选择 \"participant\" 的正确中文意思：",
+        "correct": "n.参加者,参与者 a.有份的,参与的",
+        "options": [
+          "n.(to)反对,异议,不喜欢,反对的理由",
+          "vt.预料；期望；预先考虑；抢先；提前使用",
+          "v.(in)参与,参加;分享,分担;含有,带有",
+          "n.参加者,参与者 a.有份的,参与的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自拉丁语 participare（分享、参与），由 pars（部分）+ capere（拿取）组成，核心动作是“拿取一份”，即成为整体中的一部分。",
+        "similarWarning": "participant vs participate：前者是名词/形容词（参与者），后者是动词（参与）；participant vs anticipate：前者含“part”（部分），后者含“anti-”（前），意为“预期”；participant vs particular：前者强调“参与”，后者含“particle”（小部分），意为“特定的”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "participate",
+      "word": "participate",
+      "phonetic": "/pɑ:'tɪsɪpeɪt/",
+      "meaning": "v.(in)参与,参加;分享,分担;含有,带有",
+      "similar": [
+        "anticipate",
+        "participant",
+        "articulate",
+        "certificate"
+      ],
+      "question": {
+        "wordId": "participate",
+        "stem": "选择 \"participate\" 的正确中文意思：",
+        "correct": "v.(in)参与,参加;分享,分担;含有,带有",
+        "options": [
+          "v.(in)参与,参加;分享,分担;含有,带有",
+          "vt.预料；期望；预先考虑；抢先；提前使用",
+          "n.参加者,参与者 a.有份的,参与的",
+          "a.善于表达的；有关节相连的 v.清楚地讲话"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根：part-（部分）+ cip-（取，拿）+ -ate（动词后缀）。字面意为“拿取一部分”，引申为“参与、参加”，即成为某活动或事件的一部分。",
+        "similarWarning": "形近词：anticipate（预期，预想：anti-前 + cip-取 + -ate，提前拿→预期）；participant（参与者：-ant表人）；articulate（清晰表达：articul-关节 + -ate，像关节连接一样说清楚）；particular（特定的：part-部分 + -icular，属于部分的→特定的）；certificate（证书：cert-确定 + -fic-做 + -ate，确认做的凭证）。",
+        "extendedMeaning": "考研僻义：1. 分享、分担（如participate in the profits分享利润）；2. 含有、带有（如participate of the nature of...带有……的性质）。",
+        "examUsage": "真题考点：常考搭配participate in（参加），注意与take part in同义替换，但participate更正式；阅读中可能考其名词形式participation（参与）及形容词participatory（参与的）。"
+      }
+    },
+    {
+      "id": "particle",
+      "word": "particle",
+      "phonetic": "/'pɑ:tikl/",
+      "meaning": "n.粒子,微粒;极小量;小品词,虚词",
+      "similar": [
+        "article",
+        "partial",
+        "partly",
+        "fertile",
+        "pastime",
+        "portable",
+        "articulate"
+      ],
+      "question": {
+        "wordId": "particle",
+        "stem": "选择 \"particle\" 的正确中文意思：",
+        "correct": "n.粒子,微粒;极小量;小品词,虚词",
+        "options": [
+          "n.粒子,微粒;极小量;小品词,虚词",
+          "n.文章，论文；条款，条文；物件；冠词",
+          "ad.部分地,不完全地,在一定程度上",
+          "a.部分的,不完全的;偏袒的,不公平的,偏爱的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'particula'，是 'pars'（部分）的指小形式。核心逻辑：part（部分）+ -icle（小后缀）→ 极小的部分 → 粒子、微粒。",
+        "similarWarning": "与 'article'（文章、物品）形似：p- vs a-，前者强调“微小部分”，后者指“完整物件”。与 'partial'（部分的）形似：-cle vs -ial，前者是名词指小，后者是形容词。",
+        "extendedMeaning": "在物理/化学语境中常考“粒子”（如 elementary particle 基本粒子）；语言学中指“小品词、虚词”（如介词、连词等无词形变化的词）。",
+        "examUsage": "考研真题中常以科学类阅读出现，如 'subatomic particle'（亚原子粒子）或 'particle accelerator'（粒子加速器）。注意 'a particle of' 表示“极少量”，用于强调程度。"
+      }
+    },
+    {
+      "id": "partly",
+      "word": "partly",
+      "phonetic": "/'pɑ:tli/",
+      "meaning": "ad.部分地,不完全地,在一定程度上",
+      "similar": [
+        "barely",
+        "rarely",
+        "paralyze",
+        "particle"
+      ],
+      "question": {
+        "wordId": "partly",
+        "stem": "选择 \"partly\" 的正确中文意思：",
+        "correct": "ad.部分地,不完全地,在一定程度上",
+        "options": [
+          "ad.部分地,不完全地,在一定程度上",
+          "ad.赤裸裸地,无遮蔽地;仅仅,勉强,几乎没有",
+          "v.(paralyse)使瘫痪(麻痹);使丧失作用",
+          "ad.很少,难得,非常地"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根part-（部分）+ -ly（副词后缀），表示“以部分的方式”，即部分地、不完全地。",
+        "similarWarning": "partly vs. partially: partly强调整体中的一部分，常与整体相对；partially强调程度上的不完整，常与完全相对。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "partner",
+      "word": "partner",
+      "phonetic": "/'pɑ:tnə/",
+      "meaning": "n.合作者,合伙人,合股人,伙伴,舞伴,配偶",
+      "similar": [
+        "porter",
+        "farther"
+      ],
+      "question": {
+        "wordId": "partner",
+        "stem": "选择 \"partner\" 的正确中文意思：",
+        "correct": "n.合作者,合伙人,合股人,伙伴,舞伴,配偶",
+        "options": [
+          "n.合作者,合伙人,合股人,伙伴,舞伴,配偶",
+          "n.守门人,门房,行李搬运工,服务员",
+          "ad.更远地,再往前地 a.更远的",
+          "v.烦恼;(about)对…感到烦恼 n.烦恼,焦虑"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'partitio'（部分、分配），词根 'pars'（部分）+-ner（人）。核心动作：将整体分成部分后共同持有，即分担责任与利益的‘合作者’。",
+        "similarWarning": "porter（门房、搬运工）：注意 'rt' 与 'rt' 相同，但 'partner' 多 'n' 且词义侧重合作；farther（更远）：形容词比较级，拼写差异在 'th' 与 'tn'，词义无关。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "passage",
+      "word": "passage",
+      "phonetic": "/'pæsɪdʒ/",
+      "meaning": "n.通过,经过;通路,走廊;(一)段落,(一)节",
+      "similar": [
+        "package",
+        "passive",
+        "postage",
+        "sausage",
+        "passenger",
+        "massacre"
+      ],
+      "question": {
+        "wordId": "passage",
+        "stem": "选择 \"passage\" 的正确中文意思：",
+        "correct": "n.通过,经过;通路,走廊;(一)段落,(一)节",
+        "options": [
+          "n.邮费,邮资",
+          "n.包装,包裹,箱,包装费,标准部件,成套设备",
+          "n.通过,经过;通路,走廊;(一)段落,(一)节",
+          "a.被动的,消极的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "词根pass-（通过、经过）+ 名词后缀-age。核心物理动作是“通过的动作”或“通过的空间”，引申为“通道”（走廊）和“片段”（段落，即文本中连续通过的一段）。",
+        "similarWarning": "message（消息，词根miss-发送） vs passage（通道/段落，词根pass-通过）：区别在于词根含义。passive（被动的，词根pass-忍受） vs passage：拼写差一个字母‘iv’ vs ‘ag’。",
+        "extendedMeaning": "（熟词僻义）在考研阅读中常考“（时间的）流逝”或“（法案的）通过”，如“the passage of time”或“the passage of the bill”。",
+        "examUsage": "“a passage of time”（时间的流逝）是真题高频搭配，常作为理解文章时间逻辑的关键。“the passage of the law”（法律的通过）在政治类阅读中作为核心事件出现。"
+      }
+    },
+    {
+      "id": "passenger",
+      "word": "passenger",
+      "phonetic": "/'pæsindʒə/",
+      "meaning": "n.乘客,旅客",
+      "similar": [
+        "messenger",
+        "passage"
+      ],
+      "question": {
+        "wordId": "passenger",
+        "stem": "选择 \"passenger\" 的正确中文意思：",
+        "correct": "n.乘客,旅客",
+        "options": [
+          "n.通过,经过;通路,走廊;(一)段落,(一)节",
+          "n.送信者,使者,传令兵",
+          "n.切屑,碎片;(土豆等的)薄片;集成电路块",
+          "n.乘客,旅客"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自法语的passager，意为“经过的”，由pass（经过）+-enger（表示人）构成。核心动作是“经过某地的人”，即乘客、旅客。",
+        "similarWarning": "messenger（信使）：与passenger相比，首字母m替换p，词根mess-意为“消息”，故指传递消息的人。passage（通道）：结尾-age替换-enger，词根pass-相同，但-age为抽象名词后缀，指经过的动作或路径。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "passer-by",
+      "word": "passer-by",
+      "phonetic": "/'pɑ:sə'bai/",
+      "meaning": "n.(pl.passers-by)过路人",
+      "similar": [],
+      "question": {
+        "wordId": "passer-by",
+        "stem": "选择 \"passer-by\" 的正确中文意思：",
+        "correct": "n.(pl.passers-by)过路人",
+        "options": [
+          "n.(pl.passers-by)过路人",
+          "int.英(美)喂,你好(用来打招呼或引起注意)",
+          "n.坟墓 a.严肃的,庄重的",
+          "vt.达到；完成；获得 vi.达到"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "由passer（经过者，来自pass“通过”+ -er“人”）+ by（经过，在旁边）合成，字面即“从旁边经过的人”。",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "passion",
+      "word": "passion",
+      "phonetic": "/'pæʃən/",
+      "meaning": "n.热情,激情,爱好;激怒;强烈感情",
+      "similar": [
+        "assign",
+        "fashion",
+        "mission",
+        "passive",
+        "pension",
+        "session",
+        "expansion",
+        "passport"
+      ],
+      "question": {
+        "wordId": "passion",
+        "stem": "选择 \"passion\" 的正确中文意思：",
+        "correct": "n.热情,激情,爱好;激怒;强烈感情",
+        "options": [
+          "n.使命,任务;使团,代表团",
+          "n.流行式样(或货品),风尚,风气;样子,方式",
+          "vt.派给，分配；选定，指定(时间、地点等)",
+          "n.热情,激情,爱好;激怒;强烈感情"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语passio（受苦、忍耐），词根pati（忍受，遭受）。原指耶稣受难（Passion of Christ），引申为强烈的情感（如狂喜、痛苦），后演变为现代英语中的“热情、激情”。核心动作是“承受强烈情感冲击”。",
+        "similarWarning": "形近词辨析：\n- passion（热情） vs. passive（被动的，消极的）：字母差异为“-ion” vs “-ive”，词义相反，passion是主动情感，passive是缺乏主动。\n- mission（任务，使命）：差异为“p” vs “m”，passion侧重情感，mission侧重目标。\n- pension（养老金）：差异为“pass” vs “pens”，passion来自“受苦”，pension来自“支付”。",
+        "extendedMeaning": "考研僻义：\n1. 激怒、暴怒：如“in a passion”意为“在盛怒中”。\n2. 强烈感情（中性或负面）：真题中可指“痛苦、愤怒”，不限于正面热情。",
+        "examUsage": "真题考点：\n- 固定搭配：have a passion for（对…有强烈爱好）\n- 易混干扰：passive（被动的）常作为形近干扰项，注意区分词尾。-ion表行为/状态，-ive表形容词“有…性质的”。\n- 例句：He had a passion for music.（他对音乐有热情。）但真题中可能考“The passion of the debate”（辩论的激烈）。"
+      }
+    },
+    {
+      "id": "passive",
+      "word": "passive",
+      "phonetic": "/'pæsiv/",
+      "meaning": "a.被动的,消极的",
+      "similar": [
+        "massive",
+        "passage",
+        "passion",
+        "pastime",
+        "parasite",
+        "positive"
+      ],
+      "question": {
+        "wordId": "passive",
+        "stem": "选择 \"passive\" 的正确中文意思：",
+        "correct": "a.被动的,消极的",
+        "options": [
+          "a.大而重的,厚实的,粗大的;大规模的,大量的",
+          "n.通过,经过;通路,走廊;(一)段落,(一)节",
+          "n.热情,激情,爱好;激怒;强烈感情",
+          "a.被动的,消极的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语passivus，词根pass-（承受、遭受）+-ive（形容词后缀，表性质）。核心物理动作是“承受”而非“主动施加”，即处于被作用、被影响的状态。由此引申为“被动的、消极的”，强调主体缺乏主动性或反抗性。",
+        "similarWarning": "massive（a.大量的，巨大的）：字母差异为m vs p，词根mass-（块）表体积；passive强调承受状态。passion（n.激情，热情）：字母差异为-ion vs -ive，词根pass-（感受）表强烈情感。",
+        "extendedMeaning": "在语法中指“被动语态的”；在心理学或行为描述中指“消极顺从的”，如passive resistance（消极抵抗/非暴力抵抗）。",
+        "examUsage": "真题常考搭配：passive voice（被动语态），passive attitude（消极态度）。干扰项常与positive（积极的）对比，如：a passive approach vs a positive approach。"
+      }
+    },
+    {
+      "id": "passport",
+      "word": "passport",
+      "phonetic": "/'pɑ:spɔ:t/",
+      "meaning": "n.护照,达到某种目的的手段",
+      "similar": [
+        "transport",
+        "assert",
+        "airport",
+        "passion"
+      ],
+      "question": {
+        "wordId": "passport",
+        "stem": "选择 \"passport\" 的正确中文意思：",
+        "correct": "n.护照,达到某种目的的手段",
+        "options": [
+          "v.运输,运送,搬运n.运输;运输系统,运载工具",
+          "n.护照,达到某种目的的手段",
+          "n.机场，航空站，航空港",
+          "vt.断言,宣称；坚持；主张（权利、权威等）"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "pass（通过）+ port（港口）→ 通过港口的凭证，即护照。引申为“达到目的的手段”，强调一种通行资格或凭证。",
+        "similarWarning": "transport（trans-转移 + port 搬运→运输），passport 强调“通过”的动作，transport 强调“转移”的动作。",
+        "extendedMeaning": "（达到某种目的的）手段、敲门砖：如 a passport to success（成功的敲门砖）。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "paste",
+      "word": "paste",
+      "phonetic": "/peist/",
+      "meaning": "n.糊,浆糊 v.粘,贴",
+      "similar": [
+        "haste",
+        "taste",
+        "waste",
+        "pastime",
+        "pasture",
+        "plaster",
+        "castle",
+        "easter"
+      ],
+      "question": {
+        "wordId": "paste",
+        "stem": "选择 \"paste\" 的正确中文意思：",
+        "correct": "n.糊,浆糊 v.粘,贴",
+        "options": [
+          "n.糊,浆糊 v.粘,贴",
+          "v.浪费 a.无用的;荒芜的 n.浪费;废物",
+          "n.匆忙,急速;草率 v.赶快;匆忙",
+          "v.品尝;(of)有…味道;体验 n.滋味;味觉"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 'pasta'（面团），核心动作是“将湿润粉末状物混合成粘稠状”。词根 'past-' 指“面粉糊”，引申为“粘性物质”，后动词化为“用浆糊粘合”。",
+        "similarWarning": "past（过去的） vs paste（粘，贴）：差一个字母 'e'，past 表时间，paste 表动作。\nhaste（匆忙） vs paste：首字母 'h' 替换为 'p'，词义完全无关。\ntaste（味道） vs paste：首字母 't' 替换为 'p'，拼写仅差首字母。\nwaste（浪费） vs paste：首字母 'w' 替换为 'p'，词义无关。\npastime（消遣） vs paste：多 'ime'，指娱乐活动。\npasture（牧场） vs paste：多 'ure'，指草地。\nplaster（灰泥） vs paste：多 'l' 和 'r'，指建筑用粘性材料。\ncastle（城堡） vs paste：多 'c' 和 'l'，指建筑。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pastime",
+      "word": "pastime",
+      "phonetic": "/'pɑ:staim/",
+      "meaning": "n.消遣,娱乐",
+      "similar": [
+        "paste",
+        "daytime",
+        "passive",
+        "pasture",
+        "meantime",
+        "particle",
+        "positive",
+        "practise"
+      ],
+      "question": {
+        "wordId": "pastime",
+        "stem": "选择 \"pastime\" 的正确中文意思：",
+        "correct": "n.消遣,娱乐",
+        "options": [
+          "n.消遣,娱乐",
+          "n.糊,浆糊 v.粘,贴",
+          "a.被动的,消极的",
+          "n.白天,日间"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自“pass time”（度过时间）的缩合。核心动作是“让时间流逝”，引申为一种轻松、娱乐性的活动，即消遣。",
+        "similarWarning": "pastime vs. paste（粘贴/糊状物）：pastime有“time”，paste无“i”。pastime vs. daytime（白天）：pastime前缀“pas-”，daytime前缀“day-”。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pasture",
+      "word": "pasture",
+      "phonetic": "/'pɑ:stʃə/",
+      "meaning": "n.牧草地,牧场",
+      "similar": [
+        "posture",
+        "paste",
+        "assure",
+        "mature",
+        "capture",
+        "gesture",
+        "pastime",
+        "departure"
+      ],
+      "question": {
+        "wordId": "pasture",
+        "stem": "选择 \"pasture\" 的正确中文意思：",
+        "correct": "n.牧草地,牧场",
+        "options": [
+          "vt.使确信，使放心(of)；向…保证",
+          "n.姿势,姿态,心态,态度 v.作出某种姿势",
+          "n.牧草地,牧场",
+          "n.糊,浆糊 v.粘,贴"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 pascere（放牧），词根 past-（喂食、放牧）。-ure 为名词后缀，表示行为的结果或场所。核心物理动作：将牲畜赶到草地上吃草。",
+        "similarWarning": "posture（姿势）：p-o-s-t-u-r-e，强调身体姿态；pasture（牧场）：p-a-s-t-u-r-e，强调放牧场地。paste（粘贴）：p-a-s-t-e，无 -ure 后缀。",
+        "extendedMeaning": "在考研中无特殊僻义，常以字面义出现。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "pat",
+      "word": "pat",
+      "phonetic": "/pæt/",
+      "meaning": "v./n.轻拍,轻打,抚摸",
+      "similar": [
+        "pact",
+        "pant",
+        "bat",
+        "hat",
+        "mat",
+        "pad",
+        "pan",
+        "paw"
+      ],
+      "question": {
+        "wordId": "pat",
+        "stem": "选择 \"pat\" 的正确中文意思：",
+        "correct": "v./n.轻拍,轻打,抚摸",
+        "options": [
+          "v./n.轻拍,轻打,抚摸",
+          "n.合同,条约,公约,协定",
+          "n.球拍,球棒,短棒;蝙蝠",
+          "n.喘气 v.喘,气喘吁吁地说"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根pat-源自拟声词，模仿轻拍时发出的轻微声音，核心物理动作为“用手掌或扁平物体轻柔、有节奏地触碰”，强调动作的轻巧与友好，如拍肩膀、轻抚宠物。",
+        "similarWarning": "pact（协议）与pat（轻拍）区别在于字母c，pact指书面约定，pat是动作；pant（喘息）与pat差字母n，pant指急促呼吸；part（部分）与pat差字母r，part强调分割；past（过去的）与pat差字母s，past指时间；path（小路）与pat差字母h，path指路径；at（在）与pat少字母p，at是介词；bat（蝙蝠/球拍）与pat首字母b/p互换，bat指工具或动物；cat（猫）与pat首字母c/p互换，cat指动物。",
+        "extendedMeaning": "在考研外刊中，pat可引申为“轻拍式调整”或“恰好合适”，如pat on the back（赞扬/鼓励）中的抽象用法，或pat answer（现成答案/敷衍回答）中的贬义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "patch",
+      "word": "patch",
+      "phonetic": "/pætʃ/",
+      "meaning": "n.补丁,斑点,碎片小块 v.补,修补,掩饰",
+      "similar": [
+        "batch",
+        "hatch",
+        "match",
+        "pitch",
+        "watch",
+        "snatch",
+        "pat",
+        "arch"
+      ],
+      "question": {
+        "wordId": "patch",
+        "stem": "选择 \"patch\" 的正确中文意思：",
+        "correct": "n.补丁,斑点,碎片小块 v.补,修补,掩饰",
+        "options": [
+          "n.补丁,斑点,碎片小块 v.补,修补,掩饰",
+          "n.一批,一组,一群",
+          "v.孵,孵出;策划,图谋 n.舱口,小门",
+          "n.火柴;比赛,竞赛;对手,配偶 v.匹配,相称"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词源不详，可能源自拟声或古法语‘pieche’（片）。核心物理动作为‘用一小块材料覆盖或填补缺口/破损处’。引申为‘补丁’（修补用的小块）、‘小块区域’（如土地、斑点），动词‘修补’即此动作，进而抽象为‘掩饰’（用补丁般的方式掩盖缺陷）。",
+        "similarWarning": "patch vs batch（一批）：b-如‘bunch’（束），强调‘一组’；patch强调‘小块’。catch（抓）：c-如‘capture’；patch无此动作。match（匹配）：m-如‘mate’（伙伴）；patch无配对义。pitch（投掷/音高）：i-长音，物理投掷；patch短音。",
+        "extendedMeaning": "",
+        "examUsage": "真题中常考短语‘patch up’（修补/和解），如‘patch up a relationship’（重修旧好）；‘a patch of’（一小片）用于描述环境或皮肤特征。注意与‘piece’（片）的辨析：patch强调‘不规则小块’，piece强调‘整体的一部分’。"
+      }
+    },
+    {
+      "id": "patent",
+      "word": "patent",
+      "phonetic": "/'pætnt/",
+      "meaning": "a.专利的,特许的n.专利(权、品)v.批准专利",
+      "similar": [
+        "latent",
+        "payment",
+        "pant",
+        "tent",
+        "agent",
+        "paint",
+        "extent",
+        "talent"
+      ],
+      "question": {
+        "wordId": "patent",
+        "stem": "选择 \"patent\" 的正确中文意思：",
+        "correct": "a.专利的,特许的n.专利(权、品)v.批准专利",
+        "options": [
+          "a.专利的,特许的n.专利(权、品)v.批准专利",
+          "a.潜在的,潜伏的,不易察觉的",
+          "n.喘气 v.喘,气喘吁吁地说",
+          "n.支付,付款额"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语'patere'（公开、展开），原指'公开的、敞开的状态'。词根pat-（伸展）→专利本质是'公开技术以换取独占权'，核心动作是'将发明公之于众'。",
+        "similarWarning": "patient（病人/耐心的，-ient表主动）vs patent（专利，-ent表状态）→ '等待专利审批要有耐心，但专利本身不是病人'。latent（潜伏的，前缀la-表隐藏）→ 专利是公开的，潜伏是隐藏的。parent（父母）→ 专利是'发明之母'？拼写差一个字母t。",
+        "extendedMeaning": "①（法律）独占权：'file a patent'申请专利。②（形容词）明显的、显而易见的：'a patent lie'（赤裸裸的谎言）——源于'公开的'本义，真题中常考此僻义。③（动词）取得专利：'patent an invention'。",
+        "examUsage": "真题常考搭配：'patent office'（专利局）、'patent protection'（专利保护）。干扰项常将'patent'与'latent'混淆：patent（公开）vs latent（潜在）。例句：'The company patented the device, but the latent defects only emerged later.'（公司为设备申请了专利，但潜在缺陷后来才暴露。）"
+      }
+    },
+    {
+      "id": "pathetic",
+      "word": "pathetic",
+      "phonetic": "/pə'θetik/",
+      "meaning": "a.可怜的, 悲惨的",
+      "similar": [
+        "aesthetic",
+        "authentic",
+        "patriotic",
+        "synthetic",
+        "catholic",
+        "magnetic",
+        "arithmetic"
+      ],
+      "question": {
+        "wordId": "pathetic",
+        "stem": "选择 \"pathetic\" 的正确中文意思：",
+        "correct": "a.可怜的, 悲惨的",
+        "options": [
+          "a.可怜的, 悲惨的",
+          "a.爱国的",
+          "a.(esthetic)美学的，艺术的；审美的",
+          "a.真的，真正的；可靠，可信的，有根据的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "来自希腊语 pathos（痛苦、情感）+ -etic（形容词后缀）。核心动作：引发痛苦或同情，强调因他人苦难而产生的怜悯或蔑视。",
+        "similarWarning": "aesthetic（美学的）: a-（感知）+ esthetic（感觉），对比 pathetic 的 p- 开头与“痛苦”相关；authentic（真实的）: aut-（自己）+ hentic（做），核心在“自主完成”；patriotic（爱国的）: patr-（父/祖国）+ -otic，对比 pathetic 的“痛苦”；synthetic（合成的）: syn-（一起）+ thetic（放置），核心在“组合”；catholic（普遍的）: cath-（完全）+ olic（关于），对比 pathetic 的“有限痛苦”；magnetic（磁性的）: magnet-（磁石）+ -ic；arithmetic（算术）: arithm-（数字）+ -etic。关键区别：pathetic 首字母 p- 与 pathos（痛苦）关联，而 aesthetic 的 a- 指向感知。",
+        "extendedMeaning": "在考研阅读中常表“拙劣可笑的、不成功的”，如 a pathetic attempt（拙劣的尝试），强调因失败而令人同情或鄙视，而非单纯悲伤。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "patience",
+      "word": "patience",
+      "phonetic": "/'peiʃəns/",
+      "meaning": "n.耐心,忍耐",
+      "similar": [
+        "patent",
+        "pierce",
+        "prince",
+        "absence",
+        "audience",
+        "presence"
+      ],
+      "question": {
+        "wordId": "patience",
+        "stem": "选择 \"patience\" 的正确中文意思：",
+        "correct": "n.耐心,忍耐",
+        "options": [
+          "n.耐心,忍耐",
+          "a.专利的,特许的n.专利(权、品)v.批准专利",
+          "v.剌穿,刺破",
+          "n.王子,亲王"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "词根pat-（忍受） + -ience（名词后缀），核心动作是“忍受、承受”，由此引申为“耐心、忍耐”的状态。",
+        "similarWarning": "patient（病人/耐心的；pat- + -ient，强调“忍受的人”）；patent（专利；pat- + -ent，原指“公开的”，与“忍受”无关）；pierce（刺穿；词根pierc-，与pat-无关）。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "patriotic",
+      "word": "patriotic",
+      "phonetic": "/ˌpætri'ɔtik/",
+      "meaning": "a.爱国的",
+      "similar": [
+        "pathetic"
+      ],
+      "question": {
+        "wordId": "patriotic",
+        "stem": "选择 \"patriotic\" 的正确中文意思：",
+        "correct": "a.爱国的",
+        "options": [
+          "n.木材,木料",
+          "v.征服,战胜,占领;克服,破除(坏习惯等)",
+          "a.可怜的, 悲惨的",
+          "a.爱国的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "词根patri-（父亲/祖国） + -otic（形容词后缀，表示“……的”）。核心动作：像对待父亲一样忠诚于祖国，即“爱国的”。",
+        "similarWarning": "pathetic：patri-（祖国） vs pathe-（情感/痛苦）；-otic（……的） vs -etic（……的）。patriotic强调爱国情感，pathetic强调令人同情的。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "patrol",
+      "word": "patrol",
+      "phonetic": "/pə'trəul/",
+      "meaning": "v.巡逻，巡查 n.巡逻，巡查；巡逻队",
+      "similar": [
+        "patron",
+        "petrol"
+      ],
+      "question": {
+        "wordId": "patrol",
+        "stem": "选择 \"patrol\" 的正确中文意思：",
+        "correct": "v.巡逻，巡查 n.巡逻，巡查；巡逻队",
+        "options": [
+          "n.汽油",
+          "n.赞助人；资助人；老顾客，老主顾",
+          "vt.纪念，庆祝",
+          "v.巡逻，巡查 n.巡逻，巡查；巡逻队"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "来自法语patrouiller（用脚踩踏泥泞），源自patt-（脚）+ -ouiller（反复动作后缀）。核心动作：用脚反复踩踏某片区域，引申为在固定区域来回行走以监视、警戒。",
+        "similarWarning": "patron（n.赞助人，老主顾） vs patrol：patron结尾-on表“人”，patrol结尾-ol表“动作”；petrol（n.汽油） vs patrol：petrol首字母e-，patrol首字母a-，注意拼写差异。",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "patron",
+      "word": "patron",
+      "phonetic": "/'peitrən/",
+      "meaning": "n.赞助人；资助人；老顾客，老主顾",
+      "similar": [
+        "patrol",
+        "nation",
+        "pardon",
+        "petrol"
+      ],
+      "question": {
+        "wordId": "patron",
+        "stem": "选择 \"patron\" 的正确中文意思：",
+        "correct": "n.赞助人；资助人；老顾客，老主顾",
+        "options": [
+          "n.赞助人；资助人；老顾客，老主顾",
+          "v.巡逻，巡查 n.巡逻，巡查；巡逻队",
+          "n.原谅,宽恕;请再说一遍 v.原谅,饶恕,赦免",
+          "n.民族,国家"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "源自拉丁语 patronus（保护人），词根 patr-（父亲）+-on（名词后缀，指人）。核心动作是像父亲一样提供保护与支持，引申为赞助人、资助人；因赞助行为常伴随商业关系，进而产生“老顾客、老主顾”之义。",
+        "similarWarning": "patrol（巡逻，patr-+rol滚动→父亲式巡视）、nation（国家，nat-出生→同源但词根不同）、pardon（原谅，par-完全+don给予→完全给予豁免）、petrol（汽油，petr-石头+ol油→石油衍生）。差异点：patron含父系保护义，patrol强调巡视动作。",
+        "extendedMeaning": "在考研真题中常考“常客、老主顾”义，非字面赞助人。例如：a regular patron of the restaurant（该餐厅的常客）。",
+        "examUsage": ""
+      }
+    }
+  ]
+}

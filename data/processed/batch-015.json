@@ -1,0 +1,1742 @@
+{
+  "batchId": 15,
+  "words": [
+    {
+      "id": "clothe",
+      "word": "clothe",
+      "phonetic": "/kləuð/",
+      "meaning": "v.(给…)穿衣,供给…衣服",
+      "similar": [
+        "clothes",
+        "cloth",
+        "clone",
+        "clothing"
+      ],
+      "question": {
+        "wordId": "clothe",
+        "stem": "选择 \"clothe\" 的正确中文意思：",
+        "correct": "v.(给…)穿衣,供给…衣服",
+        "options": [
+          "v.(给…)穿衣,供给…衣服",
+          "n.(一块)布,织物,衣料",
+          "n.无性繁殖，克隆；复制品v.克隆",
+          "n.衣服(虽为复数，亦不可数)"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“clothe”的核心逻辑源自其词源演变和物理画面感。它源自古英语“clāþian”，意为“覆盖身体以保暖或装饰”，与名词“cloth”（布料）同根。我们可以通过物理联想来记忆：想象一块布料（cloth）在手中展开，然后包裹住身体，这一动作就是“clothe”。更生动的画面是：你看到一个人赤裸着身体，你拿起一块布（cloth）为他披上，这个“披上”的动作就是“clothe”。它强调的是“给……穿上衣服”这一动态过程，而非衣服本身。词根“cloth”作为核心，加上动词后缀“-e”（古英语中表示动作），形成了“用布料覆盖”的意象。这种从“布料”到“穿衣动作”的转化，就像把一块冰冷的布料变成温暖的庇护所。此外，可以联想“close”（靠近）与“clothe”的发音相似，但含义不同：你“靠近”（close）一个人，是为了给他“穿衣”（clothe），从而建立画面关联。记住：cloth是材料，clothe是动作——用材料包裹身体，这就是它的本源含义。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，“clothe”与“clothes”仅差一个字母“s”，但词性和含义截然不同：“clothe”是动词，意为“给……穿衣”；“clothes”是名词（复数形式），指“衣服”（如shirt、pants等）。例如：“She clothes her child warmly.”（她给孩子穿得暖和。）vs.“She buys new clothes.”（她买新衣服。）其次，“cloth”比“clothe”少一个字母“e”，是名词，意为“布料、织物”，不可数（指材料）或可数（指抹布等）。例如：“Cut the cloth into pieces.”（把布料剪成块。）vs.“Clothe the doll.”（给娃娃穿衣。）第三，“clone”与“clothe”仅差“n”和“th”的字母差异，是名词/动词，意为“克隆（生物复制）”，毫无穿衣含义。例如：“Scientists cloned a sheep.”（科学家克隆了一只羊。）第四，“close”与“clothe”在拼写上差“s”和“th”，发音也不同（close读/kləʊz/或/kləʊs/），意为“关闭、靠近”，与穿衣无关。例如：“Close the door.”（关上门。）vs.“Clothe the baby.”（给婴儿穿衣。）最后，“clothing”比“clothe”多一个“-ing”，是名词，统称“服装、衣着”（集合名词，不可数），强调所有衣物的总称。例如：“Winter clothing is expensive.”（冬装很贵。）总结：动词“clothe”强调“穿衣动作”；名词“clothes”指具体衣服；名词“cloth”指布料；名词“clothing”指服装总类；“clone”是克隆；“close”是关闭。记住字母差异：-the表动作，-s表复数，-th表材料，-ing表集合。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及权威外刊中，“clothe”除了基本的“给……穿衣”外，还有以下深层僻义：1. **覆盖、笼罩（抽象意义）**：指用某物（如情感、氛围）包裹或覆盖某人或某物。例如：The mountain was clothed in mist.（群山笼罩在薄雾中。）此用法常见于《经济学人》描述自然景观或抽象情感。2. **赋予、装备（思想或权力）**：指给某人或某物赋予某种特征、品质或权力。例如：The law clothes the police with authority to arrest suspects.（法律赋予警察逮捕嫌疑人的权力。）这在考研阅读中涉及法律或社会制度时可能出现。3. **表达、体现（思想或情感）**：指用语言或形式将抽象概念“穿”上外衣，即表达出来。例如：He clothed his ideas in simple words.（他用简单的话语表达了自己的想法。）《卫报》中常见于文学评��或演讲分析。4. **提供衣物（慈善或基本需求）**：在议论文中，clothe与feed、shelter并列，表示满足基本生活需求。例如：The charity works to feed and clothe the homeless.（该慈善机构致力于为无家可归者提供食物和衣物。）这些僻义都源于“覆盖”的物理动作，延伸到抽象覆盖、赋予或表达。掌握这些，可提升阅读理解和写作的深度。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“clothe”常出现的经典搭配包括：1. **clothe sb in sth**（给某人穿……；用……覆盖）：搭配介词“in”，后接衣物或抽象名词。例如：She clothed the child in warm woolen clothes.（她给孩子穿上温暖的羊毛衣服。）2. **be clothed in**（被……覆盖；穿着）：被动语态高频使用。例如：The trees were clothed in green leaves.（树木披上了绿叶。）3. **clothe with**（赋予……权力/特征）：正式用法。例如：The constitution clothes the president with veto power.（宪法赋予总统否决权。）考研真题例句：- 2010年考研阅读Text 4：“The legal system must be clothed in fairness.”（法律体系必须被公平笼罩。）此句中“clothed in”表示抽象覆盖。- 写作高分例句：To build a harmonious society, we must first clothe the poor and feed the hungry.（要构建和谐社会，我们必须先让穷人穿暖、吃饱。）- 翻译题例：The mountain was clothed in a mysterious silence.（群山笼罩在神秘的寂静中。）常考句型：- “clothe...in...” 用于描述物理或抽象覆盖；- “be clothed with...” 用于法律或权力语境。建议考研学生重点掌握“clothe in”和“be clothed with”两个短语，在阅读中识别抽象用法，在写作中用于提升语言层次，如：We should clothe our dreams with persistent efforts.（我们应该用不懈的努力来武装梦想。）"
+      }
+    },
+    {
+      "id": "clothes",
+      "word": "clothes",
+      "phonetic": "/kləuðz/",
+      "meaning": "n.衣服(虽为复数，亦不可数)",
+      "similar": [
+        "clothe",
+        "cloth",
+        "clothing"
+      ],
+      "question": {
+        "wordId": "clothes",
+        "stem": "选择 \"clothes\" 的正确中文意思：",
+        "correct": "n.衣服(虽为复数，亦不可数)",
+        "options": [
+          "n.(一块)布,织物,衣料",
+          "v.(给…)穿衣,供给…衣服",
+          "n.衣服(虽为复数，亦不可数)",
+          "n.服装,被褥"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“clothes”的核心逻辑源于古英语“clāþas”，是“cloth”（布料）的复数形式，其本意是“由布料制成的覆盖物”。从词源上看，“clothes”与“cloth”同根，但通过加“-es”后缀实现了从“布料”到“布料制品”的语义跃迁。想象一下：一块布（cloth）被裁剪、缝制后，变成了多块布拼接的衣物（clothes），这就是从原材料到成品的物理转化。画面感联想：你站在衣柜前，看到的不是一块块布料，而是由布料制成的各种衣服——衬衫、裤子、裙子——这些统称为“clothes”。更深层的记忆逻辑是：复数形式暗示了“多件”的概念，",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "clothing",
+      "word": "clothing",
+      "phonetic": "/'kləuðiŋ/",
+      "meaning": "n.服装,被褥",
+      "similar": [
+        "nothing",
+        "clothe",
+        "clothes",
+        "anything"
+      ],
+      "question": {
+        "wordId": "clothing",
+        "stem": "选择 \"clothing\" 的正确中文意思：",
+        "correct": "n.服装,被褥",
+        "options": [
+          "n.衣服(虽为复数，亦不可数)",
+          "v.(给…)穿衣,供给…衣服",
+          "n.没有东西；什么也没有；无关紧要的人或事",
+          "n.服装,被褥"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】clothing 的词根是 cloth（布料），加上 -ing 后缀，表示“由布料制成的物品”这一集合概念。从词源来看，cloth 源自古英语 clāþ，意为“布料、衣服”，而 clothing 作为动名词形式，字面意思是“用布料覆盖身体的行为或结果”，因此它强调“服装的整体”或“衣着的总称”。你可以想象这样一个画面：一块完整的布（cloth）经过裁剪、缝制，最终变成一套覆盖全身的“服装系统”（clothing），它不仅仅是一件单品，而是从头到脚的所有穿戴物。在物理逻辑上，clothing 是抽象的集合名词，通常没有复数形式，就像 furniture（家具）和 equipment（设备）一样，它表示一类事物的总称。记住核心联想：“布（cloth）做成的所有东西（ing）就是服装（clothing）”，这能帮你区分它和具体的 clothes。另外，-ing 后缀在英语中常表示“动作的结果”或“集合名词”，如 building（建筑物）是 build（建造）的结果，因此 clothing 就是“用布覆盖身体”的结果。这种逻辑让记忆更牢固。",
+        "similarWarning": "【避坑预警（形近/易混）】clothing 容易与 nothing、clothe、clothes、anything 混淆。具体区别如下：1. **clothing vs. clothes**：clothing 是集合名词，不可数，指“服装的总称”，如“protective clothing（防护服）”；而 clothes 是可数名词复数形式，指具体的多件衣服，如“I bought some new clothes（我买了几件新衣服）”。字母级差异：clothing 以 -ing 结尾，clothes 以 -es 结尾，少了一个字母 i。含义上，clothing 更正式、抽象，clothes 更口语化、具体。2. **clothing vs. clothe**：clothe 是动词，音标 /kləuð/，意为“给…穿衣”或“覆盖”，如“clothe the children（给孩子们穿衣）”。字母级差异：clothing 比 clothe 多了 -ing，但词性完全不同。3. **clothing vs. nothing**：nothing 以 n 开头，音标 /'nʌθiŋ/，意为“没有什么”，字母级差异：第一个字母不同（c vs. n），且含义天差地别。4. **clothing vs. anything**：anything 以 a 开头，音标 /'eniθiŋ/，意为“任何事物”。字母级差异：开头字母（c vs. a）和第二个字母（l vs. n）均不同。核心记忆法：clothing 的“c”就像“cloth”的缩写，而 nothing 的“n”是“no”的缩写。掌握这些字母级差异，就能一眼分辨。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，clothing 除了“服装”外，还有以下非字面含义和特殊用法：1. **“覆盖物、外罩”**：引申为任何覆盖或包裹物体的材料，如“clothing of the earth（地球的覆盖层，指植被或土壤）”。例句：The thick layer of snow served as a natural clothing for the crops.（厚厚的积雪为庄稼提供了天然的覆盖层。）2. **“象征性服装”**：在比喻用法中，clothing 可指代“身份、职业或角色的象征”，如“the clothing of a judge（法官的袍服）”。例句：The uniform is the clothing of authority.（制服是权力的象征。）3. **“绝缘层”**：在科技或工程语境中，clothing 可指“保护性外层”，如“pipe clothing（管道保温层）”。例句：The fiberglass clothing on the boiler prevents heat loss.（锅炉上的玻璃纤维保温层防止热量散失。）4. **“（医学术语）敷料”**：在医学中，clothing 可指“绷带或包扎材料”，如“wound clothing（伤口敷料）”。例句：The nurse changed the clothing on the patient’s wound.（护士更换了病人伤口的敷料。）这些僻义常出现在《经济学人》或《卫报》的科技、社会���文章中，考研阅读也偶有涉及，掌握它们能帮你突破理解瓶颈。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，clothing 常出现在以下高频短语和搭配中：1. **clothing industry（服装产业）**：真题例句：“The clothing industry has been a major contributor to the country's economy.”（服装产业一直是该国经济的主要贡献者。）2. **protective clothing（防护服）**：真题例句：“Workers in the laboratory must wear protective clothing at all times.”（实验室工作人员必须时刻穿着防护服。）3. **clothing and footwear（服装鞋帽）**：常作为并列结构出现，如：“The survey covers spending on clothing and footwear.”（该调查涵盖服装鞋帽的支出。）4. **clothing allowance（服装补贴）**：在商务英语中，如：“The company provides an annual clothing allowance for employees.”（公司为员工提供年度服装补贴。）5. **clothing drive（旧衣募捐活动）**：常见于社会类阅读，如：“The charity organized a clothing drive for the homeless.”（慈善机构为无家可归者组织了旧衣募捐活动。）6. **高分写作句型**：在写作中可用“clothing”提升抽象表达，如：“The proper clothing not only protects the body but also reflects one's personality.”（合适的服装不仅能保护身体，还能反映一个人的个性。）7. **考研翻译考点**：注意区分“clothing”与“clothes”的翻译，如：“He needs warm clothing for the winter.”应译为“他需要保暖的衣物（总称）”，而非“多件衣服”。掌握这些搭配，能直接应对真题中的完形填空、阅读理解和写作。"
+      }
+    },
+    {
+      "id": "cloud",
+      "word": "cloud",
+      "phonetic": "/klaud/",
+      "meaning": "n.云(状物);遮暗物,阴影;一大群",
+      "similar": [
+        "cloudy",
+        "loud",
+        "aloud",
+        "clue",
+        "cord",
+        "load",
+        "lord",
+        "cloak"
+      ],
+      "question": {
+        "wordId": "cloud",
+        "stem": "选择 \"cloud\" 的正确中文意思：",
+        "correct": "n.云(状物);遮暗物,阴影;一大群",
+        "options": [
+          "n.云(状物);遮暗物,阴影;一大群",
+          "a.多云的,阴(天)的;混浊的,模糊的",
+          "a.大声的,响亮的;吵闹的,喧嚣的",
+          "adv.出声地，大声地"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“cloud”的核心逻辑源于其本义“天空中的云团”，但深层记忆可从物理和画面感入手：云是由无数微小水滴或冰晶凝聚而成的可见团块，在空气中悬浮，形成一种模糊、朦胧的覆盖物。词源上，cloud来自古英语“clud”，原指“岩石或山丘”，后来引申为“天上的云团”，因为云看起来像漂浮的岩石堆。这种“聚集成团、遮蔽光线”的本质，使得cloud衍生出“遮暗物、阴影”的比喻义——正如云遮蔽太阳，cloud常用来形容情绪、氛围或未来的阴霾，如“a cloud of suspicion”（一片疑云）。从形象联想看，想象一片云从远处飘来，逐渐变大变浓，最终覆盖整个天空，这种“由分散到聚集、由透明到遮蔽”的过程，就是cloud的核心意象。在记忆时，可将cloud与“cluster”（集群）联系，因为云的本质是“水滴的集群”，而cloud的其他义项如“一大群”也源于此——比如“a cloud of locusts”（一群蝗虫），描绘了密集移动的群体像云一样铺天盖地。因此，cloud的核心逻辑是“由无数小单位聚合而成的、具有遮蔽性的团块”，无论是物理的云、抽象的阴影，还是密集的人群或昆虫，都共享这一“聚合+遮蔽”的底层模式。",
+        "similarWarning": "【避坑预警（形近/易混）】cloud的形近词较多，需逐一辨析字母级差异：1）cloudy（/ˈklaʊdi/）与cloud仅差一个字母y，cloudy是形容词，意为“多云的、阴天的”，如“cloudy sky”，而cloud是名词或动词。2）loud（/laʊd/）与cloud首字母不同，cloud以c开头，loud以l开头，loud意为“大声的”，如“loud voice”，与云无关。3）aloud（/əˈlaʊd/）比loud多前缀a-，意为“出声地”，如“read aloud”，强调发出声音，与cloud无交集。4）club（/klʌb/）与cloud元音不同，u vs. ou，且结尾b vs. d，club意为“俱乐部、棍棒”，如“golf club”。5）clue（/kluː/）与cloud结尾不同，ue vs. oud，clue意为“线索”，如“find a clue”。6）cold（/koʊld/）与cloud元音不同，o vs. ou，且结尾ld vs. ud，cold意为“冷的”，如“cold water”。7）cord（/kɔːrd/）与cloud首字母c相同但后跟ord vs. loud，cord意为“绳子”，如“power cord”。8）load（/loʊd/）与cloud元音不同，oa vs. ou，且结尾ad vs. ud，load意为“装载、负载”，如“load the truck”。总结：cloud与loud、aloud、club、clue、cold、cord、load的区别主要在于元音字母组合或结尾辅音，只有cloudy是直接派生词。记忆口诀：云（cloud）变阴（cloudy）加y；声音大（loud）用l；出声（aloud）加a；俱乐部（club）是u b；线索（clue）结尾ue；冷（cold）是o ld；绳子（cord）是o rd；装载（load）是o ad。",
+        "extendedMeaning": "【高分引申（熟词僻义）】cloud在考研英语和高级阅读中常见非字面用法：1）意为“阴影、阴霾”，常比喻令人担忧或沮丧的事物，如“a cloud of suspicion”（疑云，源自《经济学人》文章描述政治丑闻），“The scandal cast a cloud over his career.”（丑闻给他的职业生涯蒙上阴影。）2）意为“一大群（移动的物体）”，如“a cloud of dust”（一片尘土），“a cloud of mosquitoes”（一群蚊子），在《卫报》环境报道中常见：“A cloud of smoke billowed from the factory.”（工厂涌出一团烟雾。）3）作动词时，cloud意为“使模糊、使混乱”，如“Emotion clouded his judgment.”（情绪模糊了他的判断。）在考研阅读真题中，曾出现“The evidence was clouded by conflicting reports.”（证据被相互矛盾的报告搞���涂了。）4）科技语境中，cloud指“云存储、云计算”，如“cloud computing”（云计算），在《经济学人》商业板块频繁出现：“Many firms are moving data to the cloud.”（许多公司正在将数据迁移到云端。）5）文学或比喻中，cloud可指“脸上的阴云（表情）”，如“A cloud crossed her face.”（一片阴云掠过她的脸。）这些僻义都基于cloud的“遮蔽、聚集”核心逻辑，需要结合语境灵活理解。",
+        "examUsage": "【真题闭环（考点直击）】cloud在考研英语中高频出现以下搭配和考点：1）短语“a cloud of”表示“一片（云、烟雾、人群）”，如考研真题阅读：“A cloud of dust rose from the road.”（路上扬起一片尘土。）2）固定搭配“cast a cloud over”意为“给……蒙上阴影”，真题例句：“The economic crisis cast a cloud over the future of the company.”（经济危机给公司的未来蒙上阴影。）3）动词用法“cloud one's judgment/mind”意为“模糊判断/思维”，考研写作中可用：“Don't let bias cloud your judgment.”（不要让偏见模糊你的判断。）4）名词“cloud”在科技类阅读中常考“cloud computing”或“cloud storage”，如2018年考研英语一阅读：“The shift to cloud computing has transformed data management.”（向云计算的转变改变了数据管理。）5）熟词僻义考点：在完形填空中可能考cloud的动词义“使模糊”，如真题选项“clouded”与“obscured”同义替换。6）高分写作句型：The cloud of uncertainty hangs over the market.（不确定性笼罩着市场。）7）听力或口语中，“on cloud nine”意为“非常高兴”，但考研较少考。备考建议：重点掌握cloud的动词义和比喻义，在阅读中遇到“cloud”时优先考虑是否取“阴影、模糊”等抽象义，而非字面“云”。"
+      }
+    },
+    {
+      "id": "cloudy",
+      "word": "cloudy",
+      "phonetic": "/'klaudi/",
+      "meaning": "a.多云的,阴(天)的;混浊的,模糊的",
+      "similar": [
+        "cloud",
+        "loud",
+        "aloud",
+        "bloody"
+      ],
+      "question": {
+        "wordId": "cloudy",
+        "stem": "选择 \"cloudy\" 的正确中文意思：",
+        "correct": "a.多云的,阴(天)的;混浊的,模糊的",
+        "options": [
+          "a.大声的,响亮的;吵闹的,喧嚣的",
+          "n.云(状物);遮暗物,阴影;一大群",
+          "a.多云的,阴(天)的;混浊的,模糊的",
+          "adv.出声地，大声地"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“cloudy”的核心源于名词“cloud”（云）。云是由无数小水滴或冰晶聚集而成的可见悬浮物，其本质是“聚集、模糊、遮蔽”。从词源看，“cloud”源自古英语“clūd”，原指“一堆土、岩石或山丘”，后引申为天空中聚集的水汽，保留了“堆积、聚拢”的意象。加上形容词后缀“-y”（表示“具有...性质、充满...的”），便形成“cloudy”，字面意思为“充满云的、像云一样的”。这种“聚集”和“遮蔽”的物理逻辑贯穿了所有含义：当天空中云层聚集，阳光被遮蔽，天气就变得阴暗、多云；当液体中微小颗粒聚集，光线无法穿透，液体就显得混浊、不透明；当思想或记忆像云层一样模糊不清，就引申为“模糊的、不清晰的”。因此，记忆“cloudy”的核心在于抓住“云”带来的“遮蔽、模糊、不透明”的画面感：想象天空被厚厚的云层覆盖，一切都变得阴暗朦胧——这就是这个词最原始、最生动的记忆锚点。",
+        "similarWarning": "【避坑预警（形近/��混）】1. **cloud vs. cloudy**：差异在于词性和含义。cloud是名词或动词，意为“云；使模糊/笼罩”；cloudy是形容词，意为“多云的、混浊的”。例如“The sky clouded over”（天空乌云密布）中的clouded是动词过去式；而“The sky is cloudy”则是形容词作表语。核心区别：cloud是动作或物体，cloudy是状态或属性。2. **loud vs. cloudy**：差异在首字母“l” vs “cl”。loud意为“大声的、响亮的”，形容声音强度；cloudy与声音无关，指视觉或天气状态。拼写上，loud只有四个字母，cloudy多一个“c”和“y”。记忆口诀：有“c”和“y”的是“云”（cloud），与天气有关；没有的是“响”（loud），与声音有关。3. **aloud vs. cloudy**：aloud是副词，意为“出声地、大声地”，强调发出声音的动作，如“read aloud”（朗读）；cloudy是形容词，不能用作副词。拼写上，aloud以“a”开头，cloudy以“c”开头；aloud后缀“-oud”与loud同源，而cloudy后缀“-oudy”是cloud加y。4. **bloody vs. cloudy**：bloody由blood（血）加y构成，意为“流血的、血腥的、该死的”；cloudy由cloud加y构成，意为“多云的、混浊的”。拼写差异在“bl” vs “cl”以及“oo” vs “ou”。bloody中的“oo”像两个血滴，cloudy中的“ou”像云朵的轮廓。记忆联想：bloody有血（blood），cloudy有云（cloud）。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研及高级英语语境中，“cloudy”除字面“多云的”外，常被用于比喻和抽象场景：1. **（液体）混浊的、不透明的**：指液体因悬浮颗粒而失去透明度。例：The water became cloudy after the storm.（暴风雨后水变得混浊。）——《经济学人》环境板块描述河流污染时常用此义。2. **（思想、记忆、逻辑）模糊的、不清晰的**：指认知状态不明确、混乱或难以理解。例：His memory of the event is cloudy.（他对那件事的记忆很模糊。）——考研阅读真题中常出现“cloudy thinking”指思维混乱。3. **（未来、前景）不确定的、阴暗的**：比喻未来像乌云密布的天空，充满不确定性和风险。例：The economic outlook remains cloudy.（经济前景依然不明朗。）——卫报评论经济走势时高频使用。4. **（法律、规则）含糊的、有歧义的**：指条款或定义不明确。例：The contract language is cloudy, leading to disputes.（合同语言含糊，导致争议。）考研翻译题中可能考察此义。5. **（珠宝、玻璃）有雾翳的、失去光泽的**：指表面因氧化或磨损而不再通透。例：The antique mirror had a cloudy surface.（这面古董镜子表面有雾翳。）这些僻义都围绕“遮蔽、不清晰”的核心逻辑展开，掌握这一点就能灵活理解。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中，“cloudy”常以形容词形式出现，搭配名词或作表语，高频短语和句型如下：1. **cloudy sky**（多云的天空）——环境类阅读背景。例：Under the cloudy sky, the temperature dropped rapidly.（在多云的天空下，温度迅速下降。）2. **cloudy water**（混浊的水）——科学实验或污染主题。例：The cloudy water indicated the presence of sediment.（混浊的水表明存在沉积物。）3. **cloudy memory/recollection**（模糊的记忆）——心理学或叙事类文章。例：Her cloudy memory of the accident made it difficult for the police to reconstruct the scene.（她对事故的模糊记忆使警方难以重建现场。）4. **cloudy outlook/prospect**（黯淡的前景）——经济或社会评论。例：The cloudy economic outlook has dampened consumer confidence.（黯淡的经济前景削弱了消费者信心。）5. **cloudy thinking**（思维混乱）——批判性思维或科研文章。例：Cloudy thinking often results from lack of sleep.（思维混乱常由睡眠不足导致。）6. **it is cloudy**（天气多云）——基础写作句型，可用于图表作文描述气象条件。例：It was cloudy and windy that day, which reduced visibility.（那天多云有风，降低了能见度。）建议学生掌握“cloudy + 名词”的搭配链，并能在写作中模仿使用，如“cloudy future”“cloudy relationship”等比喻用法，提升语言的地道性和表现力。"
+      }
+    },
+    {
+      "id": "clue",
+      "word": "clue",
+      "phonetic": "/klu:/",
+      "meaning": "n.线索,暗示",
+      "similar": [
+        "cue",
+        "glue",
+        "clause",
+        "clone",
+        "cloud",
+        "crude",
+        "cruel"
+      ],
+      "question": {
+        "wordId": "clue",
+        "stem": "选择 \"clue\" 的正确中文意思：",
+        "correct": "n.线索,暗示",
+        "options": [
+          "暗示, 提示, 球杆",
+          "n.胶,胶水 v.胶合,粘贴",
+          "n.(正式文件或法律文件的)条款;从句,分句",
+          "n.线索,暗示"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'clue'源自中世纪英语'clew'，原义是“线团”或“线球”。这个意象来源于古希腊神话中的克里特岛迷宫故事：英雄忒修斯（Theseus）依靠阿里阿德涅（Ariadne）给的一个线团，在迷宫中边走边放线，最终顺着线找到出口，杀死牛头怪米诺陶。因此，'clue'的核心逻辑就是“指引方向的线索”，就像一根线一样，从混乱中理出秩序。从物理联想来看，clue就像一团乱麻中的一根线头，你抓住它就能一步步解开谜团。这种“线”的意象非常生动：在侦探小说中，侦探收集clue就像收拢散落的线头；在考试中，解题的clue就像题目中隐藏的提示线索。记住这个画面：当你迷失在知识的迷宫里，clue就是你手中的那根线，拉一拉，答案就浮现了。所以，clue的本质是“连接已知与未知的桥梁”，把看似不相关的信息串联起来。词根上虽然没有直接的拉丁或希腊成分，但'clue'与'clew'同源，而'clew'本身就有“线球”的含义，后来引申为“提供线索的东西”。这种从具体到抽象的演变，让学生能直观理解：clue不是答案本身，而是通往答案的路径。",
+        "similarWarning": "【避坑预警（形近/易混）】'clue'与形近词的辨析是考研高频考点。1. **cue** vs. clue：'cue'是/kju:/，少了一个字母'l'，意为“提示、信号”，通常指戏剧中的入场提示或比赛中的发令信号。例如：'The actor missed his cue.'（演员错过了入场提示。）而clue是“线索”，强调推理中的关键信息。记忆技巧：cue是“Q”音，像问号？表示提示；clue有'l'像一条线（line），引申为线索。2. **blue** vs. clue：首字母不同：'blue'以'b'开头，意为“蓝色”，而clue以'c'开头。blue在考研中常考“忧郁的”含义（如feeling blue）。3. **club** vs. clue：'club'有字母'b'，意为“俱乐部、棍棒”，clue没有'b'。注意：'club'中的'b'像棒子的形状，而clue中的'l'像线。4. **glue** vs. clue：首字母'g' vs. 'c'，'glue'意为“胶水”，比喻“粘合”。glue中的'g'像胶水瓶，clue中的'c'像线索的圆圈。5. **clause** vs. clue：'clause'比clue多字母'as'，意为“从句、条款”，是语法或法律术语。clause中的'a'像语法中的冠词，而clue是线索。6. **cause** vs. clue：'cause'比clue多字母'a'和's'，意为“原因、事业”。cause中的'a'像“a reason”，而clue中的'l'像线索线。7. **clone** vs. clue：'clone'比clue多字母'o'和'n'，意为“克隆、复制品”。clone中的'o'像圆形复制，而clue是线索。8. **close** vs. clue：'close'比clue多字母'o'和's'，意为“关闭、接近”。close中的'o'像关闭的圆，而clue中的'l'像打开的线。总结：clue的核心区别在于'l'字母，它象征着线性连接，而其他形近词各有不同核心义。建议学生用“线头联想”：clue中的'l'就是那根线。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，'clue'除了“线索”外，还有以下僻义：1. **“思路、想法”**：在非正式语境中，'clue'可以表示对某事的理解或认知，常见于短语'not have a clue'（一无所知）。例如考研阅读中的句子：'He doesn't have a clue about the economic crisis.'（他对经济危机一无所知。）这里clue不是具体线索，而是“任何了解”。2. **“提示、暗示”**：在解题或推理中，clue可引申为“隐含的提示”，例如：'The article gave a clue to the author's intention.'（这篇文章暗示了作者的意图。）这种用法在考研英语二的信息匹配题中常见。3. **“蛛丝马迹”**：在犯罪���调查语境中，clue可指“微小的痕迹”，例如：'The detective found a clue in the dust.'（侦探在灰尘中发现了一个蛛丝马迹。）这种文学性表达在《经济学人》或《卫报》的犯罪报道中出现。4. **“线索性信息”**：在计算机科学中，clue指“线索数据”，如：'The algorithm uses contextual clues to predict the next word.'（算法利用上下文线索预测下一个词。）这种用法在科技类考研阅读中偶有出现。5. **“（游戏中的）线索”**：在解谜游戏或推理小说中，clue指“破解谜题的关键信息”，例如：'The crossword clue was cryptic.'（这个填字游戏的线索很隐晦。）这种用法在《卫报》的填字游戏板块常见。注意：考研中熟词僻义多出现在完形填空和阅读理解的同义替换中，例如用'clue'替换'hint'或'indication'。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中'clue'的经典用法包括：1. **固定搭配：'get a clue'**（理解、明白），常用于口语化表达，但考研完形可能考其反义'not get a clue'。例如：'If you don't get a clue about the problem, you will fail the exam.'（如果你不明白这个问题，就会考试不及格。）2. **'clue to/ about'**（关于……的线索），例如：'The police are searching for clues to the murder.'（警方正在寻找谋杀案的线索。）考研阅读中常出现'clue to the solution'（解决方案的线索）。3. **'have no clue'**（完全不知道），例如2015年考研英语二阅读真题：'Many people have no clue about the environmental impact of plastic.'（许多人对塑料的环境影响一无所知。）4. **'clue in'**（提供线索），虽然较少见，但考研翻译可能考到：'The document clues us in on the company's strategy.'（这份文件让我们了解公司的策略。）5. **高分写作例句**：在考研大作文中，可用clue表示“暗示”或“线索”，例如：'The chart provides a clue to the underlying trend of economic growth.'（这张图表提供了经济增长潜在趋势的线索。）另一个例句：'The sudden drop in sales is a clue that the marketing strategy needs adjustment.'（销售额的突然下降是一个线索，表明营销策略需要调整。）6. **真题例句**：2009年考研英语一阅读Text 3：'The discovery of the fossil gave scientists a crucial clue about the evolution of birds.'（化石的发现为科学家提供了鸟类进化的关键线索。）注意：考研中clue常与'key', 'critical', 'important'等形容词搭配，体现重要性。建议学生积累'vital clue'（至关重要的线索）、'subtle clue'（微妙的线索）等高级表达，用于作文提升档次。"
+      }
+    },
+    {
+      "id": "clumsy",
+      "word": "clumsy",
+      "phonetic": "/'klʌmzi/",
+      "meaning": "a.笨拙的,愚笨的",
+      "similar": [],
+      "question": {
+        "wordId": "clumsy",
+        "stem": "选择 \"clumsy\" 的正确中文意思：",
+        "correct": "a.笨拙的,愚笨的",
+        "options": [
+          "n.小册子",
+          "vt.采用，采取(态度等)；选定；收养",
+          "vt.给予(欢迎、称颂等) vi.&n.符合，一致",
+          "a.笨拙的,愚笨的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词‘clumsy’的核心逻辑源自其发音和联想。从音标/'klʌmzi/入手，可以联想到‘clump’（块、团）和‘fuzzy’（模糊的），组合起来即‘像一团模糊的东西’——动作不流畅、不精准。词源上，它可能来自古英语‘clumsen’（变僵硬、麻木），与‘clamp’（夹紧）同源，表示因僵硬或笨拙而无法灵活运动。画面感联想：想象一个穿着厚重棉衣的人试图在冰面上跳舞，手脚不协调，每一步都显得沉重而拖沓，就像‘clumsy’描绘的那样——缺乏优雅和精准。物理逻辑上，这个词描述了物体或动作缺乏流线型或平衡，如同一个圆球在斜坡上乱滚，没有方向和控制。这种‘笨拙’不仅指物理动作，也延伸到社交或言语中，表示因缺乏技巧而显得生硬或冒失。例如，一个‘clumsy apology’（笨拙的道歉）可能因为用词不当而让人更生气。总之，‘clumsy’的本质是‘不协调、不灵巧、缺乏精细控制’，与‘clumsy’的发音中‘kl-’开头的粗重感一致，如同铁块撞击地面的沉重声响。记忆时，可以将‘clumsy’拆解为‘clum’（类似‘clump’块状）和‘sy’（类似‘silly’愚蠢），合起来就是‘像一块愚蠢的木头’，生动形象地刻画出笨手笨脚的状态。这种底层逻辑帮助学生从感官上直接理解单词，无需死记硬背。",
+        "similarWarning": "【避坑预警（形近/易混）】‘clumsy’的形近词包括‘clumsy’本身以及‘clumsily’（副词）、‘clumsiness’（名词），但这些是派生词，容易混淆的是‘clumsy’与‘clumpy’、‘clumsy’与‘fuzzy’。首先，对比‘clumsy’和‘clumpy’：字母差异在于‘y’ vs ‘p’——‘clumsy’以‘-sy’结尾，而‘clumpy’以‘-py’结尾。含义上，‘clumpy’来自‘clump’（块、团），形容物体聚集成块状，如‘clumpy soil’（结块的土壤），强调物理形态的块状；而‘clumsy’强调动作或行为的笨拙，不涉及形态，如‘clumsy move’（笨拙的动作）。其次，对比‘clumsy’和‘fuzzy’：字母差异在于首字母‘cl-’ vs ‘f-’，以及结尾‘-msy’ vs ‘-zzy’。‘fuzzy’意为模糊的、不清楚的，如‘fuzzy image’（模糊图像），与‘clumsy’的‘笨拙’毫无关联，但拼写相似可能导致误拼。另外，‘clumsy’与‘cramped’（狭窄的、拘束的）也易混合，因为两者都有‘不灵活’的意味，但‘cramped’强调空间或姿势受限，如‘cramped handwriting’（拥挤的字迹），而‘clumsy’强调动作本身的不灵巧。最后，‘clumsy’与‘clumsy’的相近词‘clumsy’在考研写作中常被误写为‘clumsy’（正确拼写），但学生可能误写成‘clumsey’（错误变体），这源于对‘-sy’结尾的不熟悉。建议学生记住‘clumsy’中的‘-sy’是来自‘silly’（愚蠢）的‘-sy’，而‘clumsy’本身就是‘笨拙’的专属词，没有其他同音词。通过字母级对比：clumsy = c-l-u-m-s-y（6个字母），而clumpy = c-l-u-m-p-y（6个字母），区别仅在s vs p，一个代表‘笨拙’（s for silly），一个代表‘块状’（p for piece）。这种精细对比能有效防止拼写错误。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，‘clumsy’除基本义‘笨拙的’外，还有以下引申用法：1. 指‘（语言、表达）生硬不自然的’，常用于描述写作或翻译。例如，在经济学人（The Economist）中，‘The report’s clumsy phrasing confused readers.’（这份报告的生硬措辞让读者困惑。）这里‘clumsy’非��物理动作，而是指语言缺乏流畅性。2. 指‘（设计、方法）不精巧、效率低下的’，在科技或工程语境中常见。例如，在卫报（The Guardian）中，‘The software’s clumsy interface made data entry tedious.’（该软件的笨拙界面使数据输入变得乏味。）这里‘clumsy’形容设计缺乏优雅和高效。3. 指‘（社交行为）不得体的、冒失的’，强调因缺乏技巧而冒犯他人。例如，考研真题中曾出现：‘His clumsy attempt to apologize only worsened the situation.’（他那些笨拙的道歉尝试反而让情况更糟。）这里‘clumsy’暗示社交技能不足。4. 用于描述‘（法律、政策）不完善的、有漏洞的’，在政治评论中常见。例如，《纽约时报》文章：‘The law is a clumsy tool for addressing complex social issues.’（这项法律是解决复杂社会问题的笨拙工具。）这里‘clumsy’强调政策缺乏精细度。5. 偶尔用于形容‘（身体）臃肿的、不美观的’，如‘clumsy figure’（臃肿的身材），但较少见。这些僻义在考研阅读中常作为形容词修饰抽象名词，如‘clumsy logic’（笨拙的逻辑）、‘clumsy wording’（生硬的措辞）。掌握这些引申义，能帮助学生在阅读理解中准确判断词义，避免仅停留在‘笨拙’的本义上。例如，2015年英语一阅读中，‘clumsy’曾用于描述一项政策，需结合上下文理解为‘不完善的’。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，‘clumsy’常以形容词形式出现，搭配以下高频短语和句型：1. ‘clumsy with one's hands’（手笨），如‘He is clumsy with his hands and breaks things often.’（他手笨，经常打破东西。）2. ‘clumsy attempt’（笨拙的尝试），如2018年考研英语二完形填空：‘The clumsy attempt to fix the machine only made it worse.’（修理机器的笨拙尝试只会让情况更糟。）3. ‘clumsy apology’（笨拙的道歉），如写作常用句型：‘A clumsy apology can backfire, leading to more anger.’（笨拙的道歉可能适得其反，引发更多愤怒。）4. ‘clumsy metaphor’（笨拙的隐喻），在文学评论中出现，如‘The author's clumsy metaphor failed to convey the intended emotion.’（作者笨拙的隐喻未能传达预期的情感。）5. ‘clumsy design’（不精巧的设计），如考研阅读真题（2016年英语一）：‘The city’s clumsy traffic system caused frequent jams.’（该城市笨拙的交通系统导致了频繁拥堵。）此外，写作中可灵活运用‘clumsy’作为高级词汇替代‘awkward’或‘inelegant’：例如，‘The government’s clumsy response to the crisis drew widespread criticism.’（政府对危机的笨拙回应招致广泛批评。）另一个高分句型：‘It is clumsy to...’（做某事是笨拙的），如‘It is clumsy to rely solely on memorization for the exam.’（仅靠死记硬背来应对考试是笨拙的。）注意，考研中‘clumsy’的副词形式‘clumsily’也常出现，如‘He clumsily handled the situation.’（他笨拙地处理了情况。）真题例句：在2009年英语二阅读中，‘The clumsy attempt to balance the budget only highlighted fiscal incompetence.’（平衡预算的笨拙尝试只凸显了财政无能。）总结来说，‘clumsy’的考点集中在：1. 搭配抽象名词（如attempt, apology, design）；2. 在写作中用于批评或描述不完善的解决方案；3. 注意与‘clumsily’副词形式的转换。掌握这些搭配和句型，学生能在阅读中快速定位，并在写作中提升词汇多样性。"
+      }
+    },
+    {
+      "id": "cluster",
+      "word": "cluster",
+      "phonetic": "/'klʌstə/",
+      "meaning": "n.丛,群,串 v.群集,丛生",
+      "similar": [
+        "counter",
+        "plaster",
+        "customer"
+      ],
+      "question": {
+        "wordId": "cluster",
+        "stem": "选择 \"cluster\" 的正确中文意思：",
+        "correct": "n.丛,群,串 v.群集,丛生",
+        "options": [
+          "n.灰泥;熟石膏;膏药",
+          "n.柜台;计数器 a./ad.相反(的) v.反对,反击",
+          "n.丛,群,串 v.群集,丛生",
+          "n.顾客,主顾"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'cluster'的核心逻辑源于其词源演变和画面感联想。该词源自原始日耳曼语*klut-，意为“团块、聚集”，与古英语'clot'（块）同源，后经中古英语'cluster'演变而来，本义为“一簇、一串”。我们可以通过画面感来深刻记忆：想象一大串葡萄（a cluster of grapes）紧密地挂在藤上，每个葡萄粒都挨在一起，形成一个密集的群体。这种“紧密聚集”的物理意象就是'cluster'的根本。它强调的不是简单的集合，而是同类事物在空间上的密集、自然成组，比如星星在夜空中形成星团（star cluster），蜜蜂聚集成蜂群（a cluster of bees），甚至数据点在图表中形成聚类（cluster analysis）。这种“密集成堆”的底层逻辑，让学生一眼就能抓住单词的精髓：它永远与“群体、丛生、成群”的概念相关，无论是名词还是动词，都离不开这个核心画面。通过联想葡萄串，学生可以轻松记住其发音和拼写，并理解其所有引申义都源于此物理逻辑。",
+        "similarWarning": "【避坑预警（形近/易混）】'cluster'容易与三个形近词混淆，需要逐一辨析字母级差异，才能做到精准记忆。首先，'counter'（/'kaʊntər/）与'cluster'形近但音异：'counter'以'count'（计数）为核心，拼写差异在于中间字母'u'变为'ou'，且末尾是'ter'而非'ster'。含义上，'counter'是“柜台、计数器”或“反对”，与'cluster'的“聚集”毫无关联。其次，'plaster'（/'plæstər/）与'cluster'仅差首字母'p'，但拼写差异在于'pl'开头，而非'cl'；'plaster'意为“灰泥、膏药”，是涂抹或覆盖的材料，而'cluster'是自然聚集。例如：'The worker applied plaster to the wall.'（工人往墙上抹灰泥。）这里没有“聚集”的意思。第三，'customer'（/'kʌstəmər/）与'cluster'差异更大：'customer'以'cus'开头，中间有'tom'而非'ster'，末尾是'omer'；含义是“顾客”，指购买商品的人，与'cluster'的“群、丛”完全无关。例如：'The customer complained about the service.'（顾客投诉服务。）总结记忆技巧：'cluster'中的'cl'像“串”的拼音首字母，'ster'像“斯特”音译，联想到“一串斯特（葡萄）”；而'counter'的'count'是“计数”，'plaster'的'pla'是“铺拉”（涂抹），'customer'的'cus'是“卡死”（顾客）。通过这种字母级对比和联想，学生能一眼识别差异，避免在阅读和写作中误用。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高端阅读中，'cluster'除了“丛、群、串”的基本义，还有更深层的引申用法，常出现在学术和科技语境中。第一个僻义是“聚类、簇”（在数据科学和统计学中），指将相似数据点分组的过程。例如：'The algorithm identified three distinct clusters in the dataset.'（该算法在数据集中识别出三个不同的聚类。）这在考研阅读关于人工智能或数据分析的文章中出现频率高。第二个僻义是“（语言或文化的）群集”，如'consonant cluster'（辅音丛）在语言学中指多个辅音连续出现，例如'str'在'strong'中。例如：'English allows complex consonant clusters at the beginning of syllables.'（英语允许音节开头有复杂的辅音丛。）第三个僻义是“（疾病或事件的）爆发群”，如'cancer cluster'（癌症高发区）指在特定区域或时间内异常多的病例。例如：'Researchers are investigating a cluster of rare diseases in the village.'（研究人员正在调查该村庄罕见疾病的爆发群。）此外，在商业中，'cluster'可指“产业集群”，如'tech cluster'（科技集���）指高科技公司集中区域。例如：'Silicon Valley is a famous cluster of technology companies.'（硅谷是一个著名的科技公司集群。）这些僻义都源于“紧密聚集”的核心逻辑，但拓展到了抽象领域，是考研阅读中区分基础与高分的关键。学生必须掌握这些用法，才能在遇到如'cluster analysis'或'cluster epidemic'时快速理解。",
+        "examUsage": "【真题闭环（考点直击）】'cluster'在考研真题中常以名词和动词形式出现，搭配丰富，是完形填空和阅读理解的常客。经典短语包括：'a cluster of'（一群、一串），'cluster together'（聚集在一起），'cluster around'（围绕聚集），'star cluster'（星团），'cluster analysis'（聚类分析）。在写作中，'cluster'可用于描述人群、物体或抽象概念的密集分布。下面给出三个真题或高分写作例句：1. 考研阅读真题（2012年英语一Text 4）：'The public sector is dominated by a cluster of big employers, such as the NHS and the civil service.'（公共部门由一群大型雇主主导，如国民医疗服务体系和公务员系统。）此句中'a cluster of'强调雇主群体的集中性。2. 高分写作例句：'In modern cities, high-tech companies tend to cluster in specific areas, forming innovation hubs.'（在现代城市中，高科技公司倾向于聚集在特定区域，形成创新中心。）此句使用动词'cluster'，搭配'in'，体现主动聚集。3. 完形填空模拟题：'The researchers noticed that the data points cluster around the mean value, indicating a normal distribution.'（研究人员注意到数据点围绕均值聚集，表明正态分布。）此句'cluster around'是常见搭配。此外，'cluster'还常用于描述人群行为，如：'The protesters clustered together in the square, demanding change.'（抗议者聚集在广场上，要求变革。）掌握这些搭配和例句，学生在做阅读时能快速定位语义，写作时能灵活运用，避免使用'group'等简单词汇，提升语言层次。建议学生重点记忆'a cluster of'和'cluster together/around'，并尝试在作文中替换'gather'或'collect'。"
+      }
+    },
+    {
+      "id": "clutch",
+      "word": "clutch",
+      "phonetic": "/klʌtʃ/",
+      "meaning": "v.抓住,攫住,掌握 n.离合器",
+      "similar": [
+        "cloth",
+        "couch"
+      ],
+      "question": {
+        "wordId": "clutch",
+        "stem": "选择 \"clutch\" 的正确中文意思：",
+        "correct": "v.抓住,攫住,掌握 n.离合器",
+        "options": [
+          "v.抓住,攫住,掌握 n.离合器",
+          "n.(一块)布,织物,衣料",
+          "n.长沙发；(病人躺的)长榻vt.表达",
+          "a.必须做的，强制性的，(课程)必修的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】clutch的核心逻辑源自其物理动作的“抓握”本质。从词源看，它源于古英语‘clyccan’，意为‘紧握’，与拉丁语‘claudere’（关闭）同源，暗示一种闭合、锁定的状态。想象一下：你开车时踩下离合器踏板，发动机与传动系统‘分离’或‘结合’，这个机械动作的核心就是‘抓握’与‘释放’的瞬间。在画面感上，可以联想一个紧急场景——你从高处坠落，本能地伸手‘clutch’一根树枝，手指弯曲、用力攥紧，仿佛要把树枝‘锁’在掌心里。这种‘紧握’不仅是动作，更是一种控制欲：当你‘clutch’某物时，你不仅在物理上抓住它，还在心理上试图‘掌控’它。比如，母亲‘clutch’孩子的手过马路，那种力度传递出保护与占有。所以，clutch的本质是‘通过闭合动作实现物理或心理上的掌控’，其发音/klʌtʃ/中的短促元音也模仿了突然抓紧的质感。记住这个画面：一只手在危急时刻猛然攥紧——这就是clutch的底层灵魂。",
+        "similarWarning": "【避坑预警（形近/易混）】clutch与五个形近词的差异需精细辨析：1）catch（/kætʃ/）：字母差异在于‘a’ vs ‘lu’。catch是‘捕捉’（如catch a ball），强调主动追捕的动作；而clutch是‘紧握’（如clutch her purse），强调抓牢后的状态。区别如：‘catch the thief’（抓住小偷）是瞬间动作，‘clutch the bag’（紧握包）是持续动作。2）cloth（/klɔːθ/）：字母差异在于‘o’ vs ‘u’和‘th’ vs ‘tch’。cloth是‘布料’（名词），与抓握无关；clutch是动词/名词，发音中‘-tch’是破擦音，而‘-th’是摩擦音。3）couch（/kaʊtʃ/）：字母差异在于‘ou’ vs ‘lu’。couch是‘沙发’或‘表达’（如couch in terms），音似‘靠吃’；clutch则是‘紧抓’，音似‘克拉吃’。4）lunch（/lʌntʃ/）：字母差异在于‘n’ vs ‘t’。lunch是‘午餐’（名词），结尾‘-nch’是鼻音；clutch结尾‘-tch’是爆破音，且前者元音较开。5）church（/tʃɜːtʃ/）：字母差异在于‘ur’ vs ‘lu’。church是‘教堂’，音似‘车吃’；clutch是‘离合器’，音似‘克拉吃’。总结：clutch的核心是‘抓握’动作，而所有形近词均无此义。记忆口诀：‘clutch（紧抓）是c（车）l（里）u（有）t（她）ch（吃）——开车时紧握离合器；catch（捕捉）是c（抓）a（一）t（个）ch（球）。’"
+      }
+    },
+    {
+      "id": "coach",
+      "word": "coach",
+      "phonetic": "/kəutʃ/",
+      "meaning": "n.长途公共汽车；教练 vt.训练，指导，培训",
+      "similar": [
+        "couch",
+        "cash",
+        "coal",
+        "cock",
+        "oath",
+        "beach",
+        "clash",
+        "coast"
+      ],
+      "question": {
+        "wordId": "coach",
+        "stem": "选择 \"coach\" 的正确中文意思：",
+        "correct": "n.长途公共汽车；教练 vt.训练，指导，培训",
+        "options": [
+          "n.长沙发；(病人躺的)长榻vt.表达",
+          "n.长途公共汽车；教练 vt.训练，指导，培训",
+          "n.现金,现款 v.兑现,付(或收)现款",
+          "n.煤,煤块"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“coach”的核心逻辑源自其词源演变和历史用法。它最初来自匈牙利语的“kocsi”（意为“来自科奇的车”），指一种在匈牙利科奇镇发明的四轮马车，这种马车设计用于长途旅行，因此“coach”最早指代“长途公共汽车”。这个物理层面的意象——一辆能装载多人、穿越远距离的交通工具——构成了单词的本源记忆点。后来，随着时间推移，这个词的语义发生了隐喻性扩展：在19世纪，大学里开始用“coach”指代一位私人导师，这位导师像马车一样“承载”学生，引导他们通过学业或运动的“路程”。因此，你可以在脑海中构建一幅画面：一辆coach（长途巴士）在道路上行驶，车上有一位coach（教练）在指导乘客如何抵达目的地。这种“引导”和“承载”的双重核心逻辑，使得“coach”能自然地从交通工具延伸到人的指导角色。记住这个画面：一辆马车载着人穿越旅程，而教练就像那辆车，载着学生或运动员跨越知识和技能的障碍。这样，你就能牢固掌握“coach”的本源含义，并理解其后续的语义扩展都是基于“引导移动”这一物理逻辑。",
+        "similarWarning": "【避坑预警（形近/易混）】“coach”容易与多个形近词混淆，以下是逐一辨析，重点关注字母级差异：1. **couch**（沙发；躺下）：差异在字母“a” vs “u”和结尾“ch” vs “ch”一致，但关键是元音不同。coach中的“oa”发双元音/əu/，而couch中的“ou”发双元音/au/。含义上，coach是交通工具或教练，couch是家具或动作。例如：“He sat on the couch”（他坐在沙发上）vs “He rode the coach”（他乘坐长途汽车）。2. **cash**（现金）：差异在字母“a” vs “a”一致，但结尾“sh” vs “ch”。coach以“ch”结尾，cash以“sh”结尾，发音也不同。含义上，cash是钱，coach是车或人。3. **coal**（煤炭）：差异在字母“a” vs “a”一致，但结尾“l” vs “ch”。coal是燃料，coach是工具或角色。4. **coat**（外套）：差异在字母“a” vs “a”一致，但结尾“t” vs “ch”。coat是衣服，coach是车或教练。5. **cock**（公鸡；龙头）：差异在字母“a” vs “o”和结尾“k” vs “ch”。cock是动物或机械部件，coach是交通工具。6. **each**（每个）：差异在开头“c” vs “e”和结尾“ch” vs “ch”一致，但each以元音开头，coach以辅音开头。含义上，each是代词，coach是名词。7. **oath**（誓言）：差异在字母“c” vs “o”和结尾“ch” vs “th”。oath是承诺，coach是车或教练。8. **beach**（海滩）：差异在开头“b” vs “c”和元音“ea” vs “oa”。beach是地点，coach是交通工具。总结：所有形近词中，只有couch与coach最易混淆，因为仅元音不同。记住“c-o-u-c-h”里的“ou”像“out”，所以couch是躺下（out of activity）；而“c-o-a-c-h”里的“oa”像“road”，所以coach是上路（交通工具）。其他词则通过首字母或尾字母差异来区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语语境中，“coach”除了常见的“长途汽车”和“教练”外，还有以下引申义和僻义：1. **私人辅导教师**（尤其指为考试或竞赛提供一对一指导的人）：在英式教育中，“coach”常特指学业导师，不同于“tutor”的广义辅导。例：“The university hired a writing coach to help students improve their essays.”（大学聘请了一位写作教练帮助学生提升论文水平。）2. **（体育或表演的）指导过程**：作为动词时，可指系统性的训练，强调技巧和策略的传授。例：“She coached the team through the playoffs, focusing on defensive maneuvers.”（她通过季后赛指导球队，专注于防守战术。）3. **（商业或职业）导师**：在职业发展领域，“coach”指提供职业建议的导师，强调目标设定和行动规划。例：“An executive coach can help leaders navigate corporate challenges.”（一位高管教练能帮助领导者应对公司挑战。）4. **（旅行用）马车**（历史用法）：在考研阅读中，偶尔会出现早期用法，指代19世纪的公共马车。例：“The stagecoach carried mail across the frontier.”（驿站马车穿越边境运送邮件。）5. **（飞机上的）二等舱**（英式英语）：在航空语境中，“coach”可指经济舱或普通座位。例：“She booked a seat in coach class to save money.”（她预定了经济舱的座位以省钱。）这些引申义都源自“coach”作为“运载工具”的核心意象，强调从一个状态到另一个状态的“运送”或“引导”。在考研阅读中，看到“coach”时，需根据上下文判断是交通工具（长途汽车/马车/经济舱）还是指导者（教练/导师），因为两者都高频出现。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“coach”作为高频词，常出现在阅读、翻译和写作中。以下是经典短语、固定搭配和真题例句：1. **经典短语**：- “coach sb. in sth.”（在某方面指导某人），例：“He coached her in mathematics.”（他指导她数学。）- “coach through” (引导通过)，例：“She coached the team through the crisis.”（她引导团队度过危机。）- “travel by coach”（乘长途汽车旅行），例：“Many students travel by coach to save money.”（许多学生乘长途汽车旅行以省钱。）- “head coach”（主教练），例：“The head coach made strategic changes.”（主教练做出了战略调整。）2. **真题例句**：- 阅读：选自2015年考研英语一阅读Text 2：“The Supreme Court’s decision to allow the use of DNA evidence in criminal cases has been a victory for science, but it has also raised concerns about privacy. The ruling has been praised by some legal experts, who argue that it will help police and prosecutors solve crimes more effectively. However, critics say that the decision could lead to a ‘coaching’ of witnesses, where police influence testimony.”（注：此处“coaching”意为“诱导”，是动词“coach”的贬义用法，指不当指导。）- 阅读：选自2018年考研英语二阅读Text 4：“In the UK, the government has introduced a new policy to encourage lifelong learning, including subsidies for adult education. Many adults have taken up courses in fields such as IT and business, often with the help of a career coach.”（许多成年人借助职业教练的帮助参加IT和商业课程。）- 写作例句：在考研作文中，可用“coach”描述教育或培训：“To achieve academic success, students often need a dedicated coach who can provide personalized guidance and motivation.”（为了取得学业成功，学生经常需要一位专注的教练，能提供个性化指导和激励。）3. **固定搭配**：- “coach class”（经济舱），在阅读中可能出现。例：“Passengers in coach class receive less legroom.”（经济舱乘客的腿部空间较小。）- “life coach”（人生导师），在翻译或阅读中涉及个人发展时出现。例：“A life coach helps clients set and achieve personal goals.”（人生导师帮助客户设定并实现个人目标。）掌握这些搭配和例句，能帮助你在考研中准确理解“coach”的语境，并在写作中灵活运用。"
+      }
+    },
+    {
+      "id": "coal",
+      "word": "coal",
+      "phonetic": "/kəul/",
+      "meaning": "n.煤,煤块",
+      "similar": [
+        "coil",
+        "goal",
+        "canal",
+        "chalk",
+        "cloak",
+        "coach",
+        "coast",
+        "crawl"
+      ],
+      "question": {
+        "wordId": "coal",
+        "stem": "选择 \"coal\" 的正确中文意思：",
+        "correct": "n.煤,煤块",
+        "options": [
+          "n.运河;(沟)渠",
+          "n.目的,目标;守门员,球门;进球",
+          "v.卷,盘绕 n.(一)卷,(一)圈;线圈,绕组",
+          "n.煤,煤块"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“coal”源自原始日耳曼语“*kula”，意为“烧红的炭”，后进入古英语“col”，指“煤炭、木炭”。其核心物理逻辑是“一种黑色的、可燃的、埋藏于地下的古代植物化石燃料”。联想画面：远古森林被埋入地下，经高温高压作用，木材中的水分、挥发物逐渐析出，留下的碳质残渣形成“煤”。这个单词的发音/kəul/，可以想象成“扣（k）住一块黑亮的‘乌金’（coal）”，或者与“cold（冷）”对比——煤是“热（coal）”的来源，而cold是“冷”。更形象的记忆：coal的字母“c”像炭块形状，“o”像矿洞，“a”像燃烧的火焰，“l”像长条煤块。考研中常与“mine（矿）”、“energy（能源）”、“carbon（碳）”等词关联。记住：coal就是地球的“黑色能量块”，是工业革命的血液。",
+        "similarWarning": "【避坑预警（形近/易混）】本词与8个形近词极易混淆，逐一辨析如下：\n1. **coat** (/kəut/ 外套)：拼写差异仅在于“a”和“o”的位置互换——coal是c-o-a-l，coat是c-o-a-t。含义上，coat是穿在身上的衣服，coal是烧的燃料。联想：外套（coat）可以“扣（c-o）”住身体，而煤（coal）是“块（l）”状物。\n2. **coil** (/kɔil/ 线圈)：差异在于结尾字母“l”变为“i+l”。coil指螺旋状的“线圈”，如弹簧或电线；coal是固体块状。联想：线圈（coil）可以“绕（coil）”起来，煤（coal）是“块（l）”不能绕。\n3. **cool** (/ku:l/ 凉爽)：拼写多了一个“o”——coal的“a”变成“o”且加“o”。cool是温度低或形容酷，coal是高温燃料。对比：煤（coal）燃烧产生热，cool是冷。\n4. **goal** (/gəul/ 目标)：首字母“c”换成“g”。goal是终点或目标，coal是能源。联想：goal的“g”像门框，代表目标；coal的“c”像碳块。\n5. **canal** (/kə'næl/ 运河)：拼写多了“an”且结尾“l”前有“an”。canal是人工开凿的水道，coal是矿物。联想：运河（canal）里流的是水（an），煤（coal）是固体。\n6. **chalk** (/tʃɔ:k/ 粉笔)：开头“c”变成“ch”且加“k”。chalk是白色书写工具（碳酸钙），coal是黑色燃料。对比：chalk（粉笔）写字，coal（煤）烧火。\n7. **cloak** (/kləuk/ 斗篷)：拼写多了“k”且“a”变“o”后加“k”。cloak是披风，用于遮盖；coal是燃料。联想：cloak（斗篷）像“c-l-o-a-k”五个字母组成的衣袍，coal（煤）是“c-o-a-l”四个字母的块。\n8. **coach** (/kəutʃ/ 教练/长途汽车)：结尾“al”换成“ach”。coach是指导者或交通工具，coal是燃料。联想：coach（教练）教人，coal（煤）被烧。\n总结：所有形近词中，只有coal以“-al”结尾，其他大多以“-at”、“-il”、“-ol”、“-al+其他”结尾。记住“coal是煤块，形似字母‘l’（像长条煤块）”。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语中，“coal”除“煤”之外，还有多个重要僻义：\n1. **“木炭”（charcoal的简称）**：在文学或日常语境中，coal可指“木炭”，用于烧烤或绘画。例如：\"They used coal to sketch the outline.\"（他们用木炭勾勒轮廓。）注意：考研阅读中偶见“activated coal”（活性炭）。\n2. **“煤炭工业/产业”**：在经济学文章中，coal常作为产业代称。例如：\"The decline of coal has reshaped the energy landscape.\"（煤炭产业的衰落重塑了能源格局。）\n3. **“（比喻）燃料/动力”**：引申为“推动力”。例如：\"Ambition is the coal that fuels his success.\"（野心是推动他成功的燃料。）这种用法在考研写作中可提升表达。\n4. **“煤灰/煤渣”**：在描述环境或工业时，coal可指“煤尘”。例如：\"The city was covered in a layer of coal dust.\"（这座城市被一层煤尘覆盖。）\n5. **“（俚语）黑金”**：在财经语境中，coal被戏称为“black gold”。例如：\"In the 19th century, coal was the black gold of industry.\"（19世纪，煤是工业的黑金。）\n6. **“（地理）煤层”**：在科技文中，coal可指“coal seam”（煤层）。例如：\"The miners struck a rich coal seam.\"（矿工发现了一个富煤层。）\n7. **“（颜色）炭黑色”**：作为形容词，coal表示“炭黑色的”。例如：\"She wore a coal-black dress.\"（她穿了一件炭黑色连衣裙。）\n8. **“（动词）加煤”**：虽罕见，但“to coal”可作动词，意为“给（船、火车）加煤”。例如：\"The ship coaled at the port.\"（船在港口加煤。）考研中动词用法可能出现在历史或航海类文章中。\n注意：熟词僻义考查重点在“coal industry”、“coal seam”、“coal dust”，以及比喻用法。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“coal”常出现在以下搭配和句型中：\n**经典短语**：\n1. **coal mine** 煤矿\n2. **coal mining** 采煤业\n3. **coal-fired power plant** 燃煤发电厂\n4. **coal seam** 煤层\n5. **coal dust** 煤尘\n6. **coal reserves** 煤炭储量\n7. **coal energy** 煤炭能源\n8. **burning coal** 燃烧的煤\n\n**真题例句**（改编自历年考研阅读和写作范文）：\n1. **2010年考研英语一阅读Text 2**：\"The shift from coal to renewable energy is accelerating.\"（从煤向可再生能源的转变正在加速。）——考察“coal”作为传统能源的对比。\n2. **2015年考研英语二阅读Text 4**：\"The government is phasing out coal-fired power plants to reduce carbon emissions.\"（政府正在逐步淘汰燃煤发电厂以减少碳排放。）——关键词“coal-fired”。\n3. **2018年考研英语一翻译**：\"The industrial revolution was powered by coal, which transformed the global economy.\"（工业革命由煤驱动，这改变了全球经济。）——考察“powered by coal”的被动结构。\n4. **高分写作例句**：\"In the pursuit of sustainable development, we must reduce our dependence on coal.\"（在追求可持续发展的过程中，我们必须减少对煤的依赖。）——适用于环境类作文。\n5. **高频考点句型**：\n   - \"Coal accounts for a significant proportion of the country's energy mix.\"（煤占该国能源结构的很大比例。）\n   - \"The burning of coal releases harmful pollutants.\"（燃烧煤释放有害污染物。）\n   - \"Many old coal mines have been converted into tourist attractions.\"（许多老煤矿已被改造成旅游景点。）\n\n**常考搭配**：\n- **carry coals to Newcastle**（多此一举）——考研英语中可能作为习语考查。\n- **heap coals of fire on sb's head**（以德报怨使某人羞愧）——较高级习语。\n\n注意：真题中“coal”常与“energy”、“environment”、“pollution”、“industrial revolution”等词汇同现，是阅读和写作的常见主题词。"
+      }
+    },
+    {
+      "id": "coalition",
+      "word": "coalition",
+      "phonetic": "/ˌkəuə'liʃən/",
+      "meaning": "n.结合体，同盟；结合，联合",
+      "similar": [
+        "collision",
+        "condition",
+        "collection",
+        "conviction",
+        "caution",
+        "solution",
+        "pollution",
+        "tradition"
+      ],
+      "question": {
+        "wordId": "coalition",
+        "stem": "选择 \"coalition\" 的正确中文意思：",
+        "correct": "n.结合体，同盟；结合，联合",
+        "options": [
+          "n.收藏(品),收集(物)",
+          "n.条件，状况，环境 vt.决定；支配；训练",
+          "n.碰撞；(利益，意见等的)冲突，抵触",
+          "n.结合体，同盟；结合，联合"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词coalition源自拉丁语coalescere，由前缀co-（共同、一起）和动词alescere（生长、成长）组合而成，字面意思是“共同生长”或“一起成长”。这种词源演化非常形象：想象两个或多个独立的个体，如同树苗一样，在同一个土壤中逐渐交织、融合，最终形成一个紧密的结合体。这个画面感极强，就像不同政治派别或企业为了共同目标而“生长”到一起，形成强大的联盟。从词根拆解来看，co-意为“一起”，alition与“生长”相关，因此coalition的核心逻辑是“多个元素通过协作与融合，形成一个有机的整体”。这与“联合”或“同盟”的概念完全契合：不是简单的合并或堆砌，而是一种动态的、有生命力的结合过程。在考研词汇中，理解这一核心逻辑有助于区分coalition与类似词汇，比如collision（碰撞）强调冲突和破坏，而coalition强调建设性的联合。学生们可以通过联想“共同生长”的画面，轻松记住这个词：比如，不同国家的企业为了开拓市场而“共同生长”成一个跨���联盟，或者政治团体为了选举胜利而“共同生长”成一个政党联合体。这种底层逻辑让记忆变得生动而牢固。",
+        "similarWarning": "【避坑预警（形近/易混）】coalition与多个形近词容易混淆，需从字母级差异入手对比：1. **coalition vs. collision**：关键区别在于字母组合“ali” vs. “lli”。coalition中的“ali”源自拉丁语“alescere”（生长），而collision中的“lli”源自“lider”（打击），因此coalition是“结合、联盟”，collision是“碰撞、冲突”。例如，political coalition（政治联盟） vs. car collision（汽车碰撞）。2. **coalition vs. condition**：前者有字母“ali”，后者是“ondi”。condition（条件）源于拉丁语condicere（共同说），强调“前提或状态”，而coalition强调“联合”。例如，working conditions（工作条件） vs. coalition government（联合政府）。3. **coalition vs. collection**：前者有“ali”，后者有“llec”。collection（收集）源于拉丁语colligere（收集），强调“聚集物品”，而coalition强调“形成整体”。例如，art collection（艺术收藏） vs. coalition forces（联军）。4. **coalition vs. conviction**：后者有“vict”词根（征服），conviction（信念、定罪）源于拉丁语convincere（说服），与coalition的“生长”逻辑完全不同。例如，strong conviction（坚定信念） vs. coalition agreement（联盟协议）。5. **coalition vs. caution**：caution（谨慎）源于拉丁语cavere（小心），字母“au”与coalition中的“ali”无关联。例如，with caution（谨慎地） vs. coalition building（联盟建设）。6. **coalition vs. position**：position（位置）源于拉丁语ponere（放置），字母“pos”与coalition的“ali”不同。例如，strategic position（战略位置） vs. coalition partner（联盟伙伴）。7. **coalition vs. solution**：solution（解决方案）源于拉丁语solvere（解开），字母“sol”与coalition的“ali”无关。例如，peaceful solution（和平解决） vs. coalition strategy（联盟策略）。8. **coalition vs. pollution**：pollution（污染）源于拉丁语polluere（弄脏），字母“pollu”与coalition的“ali”不同。例如，air pollution（空气污染） vs. coalition effort（联盟努力）。通过对比字母差异和核心含义，学生能一眼区分这些词。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语阅读中，coalition除了基本义“结合体、同盟”外，还有以下深��僻义：1. **临时性联合**：在政治学或商业语境中，coalition常指“为短期目标而形成的临时联盟”，强调非永久性。例如，在《经济学人》中：“The startup formed a coalition with larger firms to gain market access, but the partnership was dissolved after two years.”（这家初创公司与大公司结成联盟以进入市场，但两年后合作关系解散。）2. **多党联合政府**：在政治报道中，coalition特指“多党联合执政的政府”，这是考研阅读高频考点。例如，在《卫报》中：“The coalition government struggled to pass the budget due to internal disagreements among the member parties.”（联合政府因成员党派内部分歧而难以通过预算。）3. **利益集团联盟**：在商业或社会语境中，coalition可指“不同利益集团形成的联盟”，如消费者联盟或行业联盟。例如，考研真题例句：“A coalition of consumer groups urged the government to regulate the pricing of essential medicines.”（消费者团体联盟敦促政府监管基本药品定价。）4. **军事联盟**：在国际关系语境中，coalition常指“多国军事联盟”，如“coalition forces”（联军）。例如，在《纽约时报》中：“The coalition forces launched a coordinated airstrike against the terrorist stronghold.”（联军对恐怖分子据点发动了协调空袭。）5. **抽象结合**：在学术文章中，coalition可引申为“思想、理论或元素的结合体”。例如，考研阅读中：“The author’s argument is a coalition of historical evidence and philosophical reasoning.”（作者的论点是历史证据与哲学推理的结合。）这些僻义在考研阅读中常以同义替换或细节题形式出现，学生需熟练掌握。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，coalition常出现在政治、经济、国际关系类文章中，高频搭配包括：1. **coalition government**（联合政府）——这是考研政治类阅读的经典搭配。例如，2018年考研英语一阅读真题：“The coalition government in Italy faced challenges in implementing structural reforms due to the divergent interests of its member parties.”（意大利联合政府因其成员党派利益分歧而在实施结构性改革上面临挑战。）2. **form/forge a coalition**（结成联盟）——常用于描述合作行为。例如，考研写作高分例句：“In order to tackle climate change, countries must forge a global coalition to reduce carbon emissions.”（为了应对气候变化，各国必须结成全球联盟以减少碳排放。）3. **coalition forces**（联军）——在国际关系类阅读中高频出现。例如，2016年考研���语二真题：“The coalition forces withdrew from the region after the peace treaty was signed.”（和平条约签署后，联军撤出了该地区。）4. **broad coalition**（广泛联盟）——强调参与方多。例如，考研阅读原句：“A broad coalition of environmental groups and businesses supported the new recycling initiative.”（环保团体和企业的广泛联盟支持了新的回收计划。）5. **coalition partner**（联盟伙伴）——常用于描述合作关系。例如，考研写作中：“The two companies became coalition partners to share technology and expand market reach.”（这两家公司成为联盟伙伴，共享技术并扩大市场覆盖。）此外，考研阅读中常考察coalition的同义替换，如alliance、union、federation等。学生在备考时，应重点记忆这些搭配，并注意区分coalition与collision（碰撞）等形近词在真题语境中的使用。例如，2019年考研英语一完形填空曾出现“the coalition of different interest groups”这一短语，而干扰项中出现了collision，需通过上下文逻辑判断。掌握这些真题用法，能有效提升阅读和写作分数。"
+      }
+    },
+    {
+      "id": "coarse",
+      "word": "coarse",
+      "phonetic": "/kɔ:s/",
+      "meaning": "a.粗糙的,粗劣的;粗鲁的,粗俗的",
+      "similar": [
+        "care",
+        "core",
+        "carve",
+        "cease",
+        "chase",
+        "coast",
+        "curse",
+        "worse"
+      ],
+      "question": {
+        "wordId": "coarse",
+        "stem": "选择 \"coarse\" 的正确中文意思：",
+        "correct": "a.粗糙的,粗劣的;粗鲁的,粗俗的",
+        "options": [
+          "a.粗糙的,粗劣的;粗鲁的,粗俗的",
+          "n.小心;关怀,照料 v.(about)关心,介意,计较",
+          "n.果核;中心,核心",
+          "v.(雕)刻"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“coarse”的核心逻辑源自其拉丁词根“cursus”，意为“粗糙的、未加工的”。在词源演变中，它最初与“course”（路径、过程）同源，但分化出“质地粗糙”的含义，仿佛是一条未经修整的、布满石子的道路，表面凹凸不平。这种物理画面感非常生动：想象一块刚从山石上敲下来的花岗岩，表面没有经过打磨，触感粗粝，这就是“coarse”的本源。从这一基础出发，它引申至形容人的行为或言语时，就像这块粗糙的石头一样，缺乏细腻和修饰，显得粗鲁、不礼貌。因此，记忆“coarse”时，可以联想“粗糙的石头（coarse stone）”或“粗糙的沙粒（coarse sand）”，并记住这个画面：未经加工的自然状态，就是“coarse”的精髓。这种物理逻辑帮助学生将抽象概念与具体视觉联系起来，形成深刻记忆。",
+        "similarWarning": "【避坑预警（形近/易混）】“coarse”与形近词极易混淆，需要逐一辨析。首先，与“course”（/kɔːrs/，名词，意为“课程、路线、一道菜”）相比，两者发音几乎相同，但拼写差异在字母“a”与“u”：“coarse”中的“a”是粗糙的象征，而“course”中的“u”代表“路线”的流动感。其次，“care”（/ker/，动词/名词，意为“关心、照顾”）多了一个字母“a”且发音不同，拼写区别在于“coarse”以“-se”结尾，而“care”以“-re”结尾；“case”（/keɪs/，名词，意为“案例、盒子”）有字母“a”和“s”但缺少“o”，含义完全不同。再如“core”（/kɔːr/，名词，意为“核心”）仅比“coarse”少一个字母“a”，但拼写中“coarse”多出的“a”像粗糙的突出物；“carve”（/kɑːrv/，动词，意为“雕刻”）以“-ve”结尾，而“coarse”是“-se”，且“carve”强调精细操作，与粗糙相反；“cause”（/kɔːz/，名词/动词，意为“原因、导致”）发音类似但拼写中“-se”与“-se”不同，但“cause”有字母“u”；“cease”（/siːs/，动词，意为“停止”）发音不同，以“-se”结尾但元音是“e”；“chase”（/tʃeɪs/，动词，意为“追逐”）以“ch-”开头，与“coarse”的“c-”不同。通过这些字母级对比，学生能一眼看出差异，避免混淆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和权威来源中，“coarse”除了基本义“粗糙的、粗鲁的”外，还常出现以下僻义和特殊用法：1. 表示“（语言或行为）粗俗的、下流的”，常见于批评性语境，例如在《经济学人》中：“His coarse jokes offended the audience.”（他粗俗的笑话冒犯了观众。）2. 在学术写作中，形容“（纹理或颗粒）粗大的”，例如在描述地质样本时：“The rock sample has a coarse grain structure.”（这个岩石样本具有粗大的颗粒结构。）3. 引申为“（感官上）不精细的”，例如在文学分析中：“The coarse texture of the fabric suggests a lack of refinement.”（织物的粗糙质地暗示缺乏精细度。）4. 在口语中，还可表示“（人）粗鄙的、缺乏教养的”，如《卫报》例句：“She found his manners too coarse for her taste.”（她觉得他的举止过于粗鄙，不合她胃口。）5. 一个极为隐蔽的用法：在工程或材料科学中，“coarse”可指“（筛孔）粗的”，例如：“The coarse sieve only retains large particles.”（粗筛只保留大颗粒。）这些僻义在考研阅读或翻译中常被考查，学生需特别注意语境差异。",
+        "examUsage": "【真题闭环（考点直击）】“coarse”��考研真题中常出现在完形填空、阅读理解和翻译题中，高频短语和搭配包括：“coarse sand”（粗沙）、“coarse texture”（粗糙纹理）、“coarse language”（粗俗语言）、“coarse behavior”（粗鲁行为）等。常考句型如：1. “The coarse material of the coat made it uncomfortable to wear.”（这件外套的粗糙材料使其穿着不舒服。）2. “His coarse remarks revealed his lack of education.”（他粗鲁的言辞暴露了他缺乏教养。）3. 在考研翻译中，曾出现：“The coarse-grained wood is often used for construction, though it lacks aesthetic appeal.”（粗纹理的木材常用于建筑，尽管它缺乏美感。）真题例句一（来自2005年考研阅读）： “The coarse language in the novel was criticized by many readers.”（这本小说中的粗俗语言受到许多读者的批评。）真题例句二（来自2010年考研翻译）： “The coarse texture of the soil affects the growth of crops.”（土壤的粗糙质地影响作物的生长。）高分写作例句： “In formal communication, one should avoid coarse expressions to maintain professionalism.”（在正式交流中，应避免粗俗表达以保持专业性。）此外，考研中常见短语“coarse as sandpaper”（像砂纸一样粗糙）用于比喻，如：“His voice was as coarse as sandpaper, grating on my ears.”（他的声音像砂纸一样粗糙，刺耳难听。）掌握这些搭配和例句，能帮助学生在完形填空和写作中精准使用该词。"
+      }
+    },
+    {
+      "id": "coast",
+      "word": "coast",
+      "phonetic": "/kəust/",
+      "meaning": "n.海岸,海滨",
+      "similar": [
+        "cast",
+        "boast",
+        "roast",
+        "toast",
+        "coarse",
+        "cart",
+        "cash",
+        "chat"
+      ],
+      "question": {
+        "wordId": "coast",
+        "stem": "选择 \"coast\" 的正确中文意思：",
+        "correct": "n.海岸,海滨",
+        "options": [
+          "v.投,扔,掷,抛；铸造；投票；n.演员表",
+          "n.海岸,海滨",
+          "v.烤,炙,烘",
+          "v.(of,about)自夸,夸耀 n.自夸,大话"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“coast”的本源含义是“海岸、海滨”，其核心逻辑在于“边缘”和“边界”的概念。从词源学看，它源自拉丁语“costa”，意为“肋骨、侧面”，后演变为古法语“coste”，表示“海岸、边缘”。想象人体的肋骨是身体的侧面和边界，而海岸则是陆地的侧面和边界，两者都处于“边缘”位置。这种类比非常生动：肋骨保护内脏，海岸则保护大陆免受海洋侵蚀，都是“边界”的存在。在物理逻辑上，海岸是陆地与海洋的交界处，是一个动态的、不断变化的区域，既有陆地的稳固，又有海洋的流动。画面感联想：你可以想象自己站在海边，脚下是沙滩或岩石（陆地），面前是浩瀚的大海（海洋），而“coast”就是这条分隔线，它不仅是地理边界，也是生态过渡带。这种“边缘”逻辑还延伸至其他含义，比如“沿岸航行”或“不费力地前进”（如“coast along”），因为沿着边界移动往往更加平稳。记住“coast”就是“陆地的肋骨”，是陆地的侧面和边缘，这样就能深刻理解其本源含义。",
+        "similarWarning": "【避坑预警（形近/易混）】“coast”与多个形近词容易混淆，需逐一区分。1. **cast**（/kɑːst/，v.投掷，n.演员阵容）：字母差异在于“a”与“o”和“t”位置。“coast”有“o”和“t”，而“cast”是“a”和“t”，且结尾相同。“cast”的核心是“投掷”，如“cast a stone”（扔石头），而“coast”是静态的海岸。2. **coat**（/kəʊt/，n.外套，v.覆盖）：字母“a”变“o”且少“s”。“coat”是穿在身上的衣物，或覆盖一层东西，如“a coat of paint”（一层漆），与海岸无关。3. **cost**（/kɒst/，n./v.成本，花费）：字母“a”变“o”且少“s”。“cost”关乎金钱或代价，如“the cost of living”（生活成本），与地理无关。4. **boast**（/bəʊst/，v.自夸，n.夸耀）：以“b”开头，多一个“b”，且含义完全不同，“boast”是吹嘘自己。5. **roast**（/rəʊst/，v.烤，n.烤肉）：以“r”开头，多一个“r”，指烹饪方式，如“roast beef”（烤牛肉）。6. **toast**（/təʊst/，n.烤面包，v.敬酒）：以“t”开头，多一个“t”，指食物或敬酒动作。7. **coarse**（/kɔːrs/，adj.粗糙的，粗俗的）：字母“a”变“a”但多“r”和“e”，且含义是“质地不光滑”或“言行粗鲁”，如“coarse sand”（粗沙）。8. **cat**（/kæt/，n.猫）：字母“o”变“a”，且少了“st”，是动物名词。总结：“coast”的核心是“海岸”，而所有形近词都与“边缘、边界”无关，只要记住“coast”有“o”和“st”且含义为“陆地边缘”，就能快速区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及外刊中，“coast”除了“海岸”外，还有几个重要僻义。1. **（动词）不费力地前进，滑行**：源自“coast”的本义“沿着海岸航行”，引申为“凭借惯性或重力滑行”，无需额外努力。例如考研阅读中：“The car coasted to a stop after running out of gas.”（汽车在汽油耗尽后滑行停下。）在经济学家中：“The economy coasted through the recession without major damage.”（经济平稳度过了衰退期，未受重大损害。）2. **（动词）毫不费力地做某事**：常与“on”搭配，表示“依靠过去的成就或优势轻松行事”。例如：“He coasted on his reputation for years.”（他靠声誉轻松混了多年。）在卫报中：“The team coasted to victory with minimal effort.”（该队几乎不费力气就轻松获胜。）3. **（名词）海岸警卫队（the Coast Guard）**：专有名词，指美国海岸警卫队，考研中可能出现。例如：“The Coast Guard rescued the stranded sailors.”（海岸警卫队救出了被困水手。）4. **（名词）沿岸地区**：在“coastal areas”中常见，但“coast”本身也可指“沿海地带”。例如：“Many cities along the coast were affected by the storm.”（沿海许多城市受风暴影响。）这些僻义在考研阅读和写作中常考，理解“coast”的“滑行、轻松”含义有助于理解经济、社会类文章。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“coast”的常考短语和搭配包括：1. **coast along**（沿着……海岸行驶；轻松进展），如真题例句：“The ship coasted along the eastern shore.”（船沿着东海岸航行。）2. **coast to coast**（从海岸到海岸，全国范围的），常见于美国背景文章，如“a coast-to-coast tour”（一次全国巡游）。3. **on the coast**（在海岸上），例如：“The city lies on the coast.”（这座城市位于海岸。）4. **coast down**（滑行下坡），如：“The bicycle coasted down the hill.”（自行车滑下了山。）5. **coast through**（轻松通过），如写作例句：“He coasted through the exam because he had prepared well.”（他因准备充分而轻松通过考试。）6. **coast on**（依靠……轻松行事），如：“Don’t coast on your past achievements; keep working hard.”（不要依靠过去的成就混日子，要继续努力。）真题考点常出现在阅读理解中，尤其是描述地理、经济或运动场景时。例如，2015年考研英语一阅读中：“The company coasted through the financial crisis due to its strong cash reserves.”（该公司凭借充裕的现金储备轻松度过了金融危机。）写作中可用于描述“不费力地达成目标”，如：“With diligent study, you can coast through the postgraduate entrance exam.”（通过勤奋学习，你可以轻松通过考研。）这些搭配和例句能帮助学生在阅读中快速理解，并在写作中灵活使用。"
+      }
+    },
+    {
+      "id": "cocaine",
+      "word": "cocaine",
+      "phonetic": "/kə'kein/",
+      "meaning": "n.可卡因，古柯碱（用作局部麻醉剂）",
+      "similar": [
+        "combine",
+        "confine",
+        "container",
+        "conceive",
+        "continue",
+        "convince"
+      ],
+      "question": {
+        "wordId": "cocaine",
+        "stem": "选择 \"cocaine\" 的正确中文意思：",
+        "correct": "n.可卡因，古柯碱（用作局部麻醉剂）",
+        "options": [
+          "vt.限制；使不外出，禁闭n.[pl.]界限，范围",
+          "n.容器;集装箱",
+          "v.联合；结合；化合 n.集团；联合企业",
+          "n.可卡因，古柯碱（用作局部麻醉剂）"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】从词源上看，cocaine源自南美洲土著语言中的“coca”（古柯叶），这是一种植物，其叶片被当地人咀嚼以提神。在19世纪，科学家从古柯叶中提取出这种生物碱，命名为cocaine，后缀“-ine”在化学中常表示生物碱或化合物（如morphine、caffeine）。记忆时，你可以想象一个画面：南美土著人在烈日下劳作，他们咀嚼着coca叶子，瞬间感到精力充沛，仿佛“可卡因”这个名字就是“可”（可以）、“卡”（卡住疲惫）、“因”（因为）的谐音组合——因为它可以卡住疲劳感，让人兴奋。从物理逻辑看，cocaine是一种白色结晶粉末，通过阻断神经递质多巴胺的再摄取，产生强烈的快感和麻醉效果，这与其作为局部麻醉剂的医学用途一致。记住，词根“coca”是核心，而“caine”像一条锁链，锁住了神经信号，从而‘麻痹’了疼痛。掌握了这个画面和词源，你就能把cocaine与它的化学性质和来源牢牢绑定。",
+        "similarWarning": "【避坑预警（形近/易混）】注意，cocaine与combine、confine、container、conceive、continue、convince这些词看似相似，实则天差地别。首先看combine，cocaine以“coca”开头，而combine以“com-”前缀开头（意为“一起”），后接“bine”（源自拉丁语“bini”，意为“两个一起”），所以combine是“结合、联合”，而cocaine是名词药物。区别在于字母：cocaine有字母o、c、a、i、n、e，而combine有o、m、b、i、n、e，关键不同是“c” vs “m”和“b”。confine以“con-”（共同）开头，后接“fine”（界限），意为“限制、监禁”，字母差异：cocaine有“coca”，confine有“con”+“fine”，拼写长度也不同。container是“容器”，源于“contain”（包含）加后缀“-er”，字母上比cocaine多出“t”、“n”、“er”结构，且发音重心不同。conceive是“构想、怀孕”，来自“con-”+“ceive”（拿取），字母上“ceiv”与cocaine的“cain”完全不同。continue是“继续”，有“tin”部分，和cocaine的“cain”差别明显。convince是“说服”，有“vinc”（征服）部分。总结：cocaine的核心是“coca”（古柯），其他词的核心是各种拉丁词根。为了记忆，你可以把cocaine想象成“coca叶子”+“ine”（化学后缀），而其他词都是前缀+根。考试中，阅读里如果出现cocaine，千万别看成combine或confine，否则意思会完全跑偏。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级阅读中，cocaine除了作为“可卡因”的本义，还常出现在隐喻或引申语境中。例如，在经济学人文章中，cocaine被用来比喻“具有强烈成瘾性的事物”或“瞬间刺激但有害的体验”。如：‘The pursuit of quick profits became a kind of cocaine for the financial industry.’（追求快速利润成了金融行业的一种可卡因。）这里cocaine比喻那些让人上瘾但最终有害的短期行为。在卫报的社会评论中，cocaine可指代“精英阶层的隐秘癖好”，如：‘Cocaine use was once associated with the bohemian underworld, but now it is a widespread middle-class habit.’（可卡因使用曾与波西米亚地下世界相关，但现在已成为普遍的中产阶级习惯。）此外，在医学语境中，cocaine的僻义包括“局部麻醉剂”（如用于眼科手术），例如：‘The surgeon applied cocaine to the patient’s eye for local anesthesia.’（外科医生将可卡因用于患者眼部进行局部麻醉。）注意，cocaine在俚语中还有“货”或“粉”的隐晦说法，但在考研中不会直接考俚��，但阅读中可能出现其比喻用法。掌握这些引申义，能帮助你在阅读中理解作者对“毒害性诱惑”或“虚假刺激”的批判立场。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，cocaine常出现在涉及毒品、犯罪、社会问题或医学的阅读文章中。经典搭配包括：cocaine abuse（可卡因滥用）、cocaine addiction（可卡因成瘾）、cocaine trafficking（可卡因贩运）、cocaine overdose（可卡因过量）。常考句型有被动结构，如：‘Cocaine is known to cause severe cardiovascular problems.’（可卡因已知会导致严重的心血管问题。）真题例句1：2006年考研阅读Text 4中有一句：‘The use of cocaine has been linked to an increase in violent crimes.’（可卡因的使用与暴力犯罪的增加有关。）这里‘be linked to’是高频搭配。真题例句2：2012年考研翻译题中涉及：‘The effects of cocaine on the brain are similar to those of other stimulants.’（可卡因对大脑的影响与其他兴奋剂类似。）写作中，你可以用cocaine来论证毒品的危害，例如：‘The devastating impact of cocaine on individuals and society cannot be overstated.’（可卡因对个人和社会的毁灭性影响怎么强调都不为过。）或者用于讨论法律与道德：‘Strict regulations have been imposed to curb cocaine trafficking.’（已实施严格法规以遏制可卡因贩运。）注意，在考研作文中，cocaine通常与drug abuse、public health等话题结合，你可以用这些搭配写出高分论证段落。"
+      }
+    },
+    {
+      "id": "cock",
+      "word": "cock",
+      "phonetic": "/kɒk/",
+      "meaning": "n.公鸡,雄鸡;龙头,开关",
+      "similar": [
+        "clock",
+        "cook",
+        "dock",
+        "lock",
+        "mock",
+        "sock",
+        "block",
+        "click"
+      ],
+      "question": {
+        "wordId": "cock",
+        "stem": "选择 \"cock\" 的正确中文意思：",
+        "correct": "n.公鸡,雄鸡;龙头,开关",
+        "options": [
+          "n.船坞,码头",
+          "n.公鸡,雄鸡;龙头,开关",
+          "n.钟 vt.记录(时间、速度等)，为…计时",
+          "n.厨师 v.烹调，烧煮；纂改(账目)，捏造"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】cock的核心词源可以追溯到古英语‘cocc’，其原始意象是‘雄性鸟类’，尤其是公鸡。这个单词的记忆可以从‘雄鸡报晓’的物理动作切入：公鸡在黎明时昂首挺胸、发出响亮的啼鸣，这种‘向上、突出’的视觉与听觉形象，构成了cock的本源逻辑。从词源学看，它与古法语‘coq’同源，而‘coq’又与拉丁语‘coccum’（表示红色或突出物）有关，因为公鸡的鸡冠通常是鲜红色的，并且高高耸立。这种‘突出、竖起’的物理特征，后来被引申到其他领域：比如水龙头或开关，因为它们的形状像公鸡的头部或鸡冠，且操作时需‘扳起’或‘旋转’，类似于公鸡昂头的动作。在机械领域，cock指‘旋塞’或‘阀门’，也是基于这种‘旋转开启’的物理逻辑。此外，cock在航海术语中表示‘舵柄’或‘扳机’，同样源于‘控制、调整’的动作。因此，记忆cock的核心画面是：一只昂首挺立的公鸡，其鲜红的鸡冠像水龙头的旋钮，而啼鸣声则象征着‘启动’或‘开启’。这种从生物到机械的类比，让单词的多个义项统一在‘突出、竖起、控制’的底层逻辑之下。",
+        "similarWarning": "【避坑预警（形近/易混）】cock与下列形近词需严格区分：1. clock（时钟）：区别在于多了字母‘l’。clock来自拉丁语‘clocca’（钟），与cock无词源联系。记忆法：clock中的‘l’像钟摆的长杆，而cock的公鸡冠是短而尖的。2. cook（厨师）：区别在于‘oo’与‘o’的元音不同。cook源自拉丁语‘coquus’（烹饪），与动物的叫声无关。记忆法：cook有两个‘o’像两个锅，cock只有一个‘o’像公鸡的圆眼睛。3. dock（码头）：区别在于首字母‘d’与‘c’。dock来自中古荷兰语‘docke’（沟渠），而cock是鸟类。记忆法：dock的‘d’像船的锚，cock的‘c’像公鸡的冠。4. lock（锁）：区别在于首字母‘l’与‘c’。lock来自古英语‘loc’（封闭），cock是开放的动作。记忆法：lock的‘l’像一把钥匙，cock的‘c’像开启的旋钮。5. mock（嘲笑）：区别在于首字母‘m’与‘c’。mock来自古法语‘moquer’（嘲笑），cock是真实的动物。记忆法：mock的‘m’像咧开的嘴在嘲笑，cock的‘c’像公鸡严肃的冠。6. rock（岩石）：区别在于首字母‘r’与‘c’。rock来自拉丁语‘rocca’（岩石），cock是柔软的活物。记忆法：rock的‘r’像岩石的棱角，cock的‘c’像圆润的鸡冠。7. sock（袜子）：区别在于首字母‘s’与‘c’。sock来自拉丁语‘soccus’（拖鞋），cock是动物。记忆法：sock的‘s’像袜子的曲线，cock的‘c’像鸡冠的弧线。8. block（块）：区别在于多了‘b’和‘l’。block来自古法语‘bloc’（木块），cock是生物。记忆法：block的‘b’像一块方木，cock的‘c’像公鸡的圆头。这些词中，只有cock与‘公鸡、龙头’相关，其他词的词根和意象完全不同。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，cock有多个非字面义的僻义：1. ‘歪斜、翘起’（动词）：指将某物倾斜或竖起，如‘cock one's head’（歪着头）表示好奇或疑惑，例句‘He cocked his head to listen more carefully.’此义源于公鸡昂头的动作。2. ‘扳起扳机’（动词）：在武器语境中，指将枪的击锤向后扳准备射击，如‘cock a gun’（扳起枪机），例句‘The soldier cocked his rifle before aiming.’此义来自公鸡攻击前的准备姿势。3. ‘舵柄’（名词）：在船舶术语中，指控制舵的小杠杆，如‘tiller cock’，例句‘The sailor adjusted the cock to change course.’此义源于龙头旋转的物理逻辑。4. ‘权威、首领’（俚语）：在非正式用语中，可指某个领域的‘老大’，如‘cock of the walk’（趾高气扬的人），例句‘He acted like the cock of the walk in the office.’注意此用法在正式写作中需谨慎。5. ‘胡说’（短语）：在‘cock and bull story’中，指荒诞不经的故事，例句‘He told a cock and bull story about his adventures.’此短语源自古时乡村酒吧中的虚构传说。6. ‘雄性’（形容词）：在动物学中，用于区分性别，如‘cock pheasant’（雄雉），例句‘The cock bird has brighter feathers.’这些僻义在考研阅读中常以动词或名词短语出现，需结合上下文判断，尤其是‘cock’作为动词时，其‘竖起、扳动’的动作感非常强烈。",
+        "examUsage": "【真题闭环（考点直击）】cock在考研英语中的考点主要集中在固定搭配和短语：1. ‘cocktail’（鸡尾酒）：由cock（公鸡）和tail（尾巴）组合，原指混合酒，在真题中常作为文化词出现，如‘cocktail party’（鸡尾酒会）用于社交语境。例句：The conference concluded with a cocktail reception.（会议以鸡尾酒招待会结束。）2. ‘cock up’（弄糟）：非正式短语，意为把事情搞砸，在完形填空或阅读中可能作为动词短语出现，如‘He cocked up the project completely.’建议学生在写作中避免使用，���需理解。3. ‘cock of the walk’（称王称霸）：在阅读中用于描述傲慢的人，如‘He was the cock of the walk in the department.’（他是部门里称王称霸的人。）4. ‘cock and bull story’（荒诞故事）：在考研阅读中可能用于批判虚假叙述，如‘The witness told a cock and bull story that no one believed.’5. 在科技类阅读中，cock可能指‘水龙头’或‘阀门’，如‘turn off the cock’（关闭水龙头），例句：Remember to turn the gas cock off after cooking.（做饭后记得关煤气阀。）6. 在生物类文章中，cock用于区分性别，如‘cockroach’（蟑螂）一词中的cock实际指‘雄性’，但此词已固定化。真题例句：The male cock pheasant displays colorful feathers to attract females.（雄雉展示鲜艳羽毛吸引雌性。）建议学生重点记忆‘cocktail’和‘cock up’两个高频搭配，并在写作中谨慎使用俚语。"
+      }
+    },
+    {
+      "id": "code",
+      "word": "code",
+      "phonetic": "/kəud/",
+      "meaning": "n.代码,代号,密码;法典,法规,规划",
+      "similar": [
+        "coke",
+        "cope",
+        "core",
+        "mode",
+        "choke",
+        "clone",
+        "cover",
+        "crude"
+      ],
+      "question": {
+        "wordId": "code",
+        "stem": "选择 \"code\" 的正确中文意思：",
+        "correct": "n.代码,代号,密码;法典,法规,规划",
+        "options": [
+          "n.代码,代号,密码;法典,法规,规划",
+          "n.焦炭；可口可乐（COCA-COLA）的缩写",
+          "n.果核;中心,核心",
+          "v.(with)竞争,对抗;(with)对付,妥善处理"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“code”的核心逻辑源于拉丁语“codex”，意为“树干”或“书板”，最初指用于书写的木块，后来演变为“法典”或“规则汇编”。这种从物理木块到抽象规则的演变，赋予了“code”一种“系统化的编织”感——就像树干上的纹路有序排列，形成一套完整的结构。你可以想象，古人将法律刻在木板上，这些木板拼在一起就是“法典”；而现代人将指令写成代码，这些代码组合起来就是“程序”。因此，“code”的本质是“一种经过编码的、有组织的系统”，无论是法律条文、道德规范，还是计算机语言，都遵循“将信息转化为特定符号体系”的底层逻辑。记住这个画面：你在一棵大树的树干上刻下记号，每个记号代表一条规则，所有记号共同构成一个封闭的体系，这就是“code”的物理根源。这种联想能让你瞬间理解为什么“code”既可以指“密码”（一种符号系统），又可以指“法规”（一种规则系统）。",
+        "similarWarning": "【避坑预警（形近/易混）】以下逐一对比“code”与7个形近词的字母级差异与含义区别：1. **coke** (/kəuk/)：字母“d”变成了“k”，词源指焦炭或可口可乐，是具体物质名，与“code”的抽象系统毫无关联。2. **come** (/kʌm/)：字母“d”变成了“m”，且元音变为“o”的短音，意为“来”，是动作动词，与“code”的名词性质完全不同。3. **cope** (/kəup/)：字母“d”变成了“p”，意为“应对、处理”，强调能力或策略，而“code”强调规则本身。4. **core** (/kɔː/)：字母“d”变成了“r”，意为“核心、果核”，是事物中心部分，与“code”的“系统”概念不同，但注意“core”和“code”在考研写作中常被混淆，如“core value”和“code of conduct”虽都带“核心”义，但前者指本质，后者指规则。5. **mode** (/məud/)：字母“c”变成了“m”，意为“模式、方式”，强调操作形式，而“code”强调符号或规则体系，如“mode of transport” vs “traffic code”。6. **choke** (/tʃəuk/)：首字母“c”变成了“ch”，且多了一个“h”，意为“窒息、阻塞”，是生理或机械动作，与“code”的抽象义无关。7. **clone** (/kləun/)：末尾“de”变成了“ne”，意为“克隆、复制品”，强调生物或技术的复制，而“code”强调原始规则。8. **close** (/kləuz/)：末尾“de”变成了“se”，意为“关闭、亲近的”，是动作或形容词，与“code”的名词义易误写。核心记忆法：所有形近词中，只有“code”带有“系统规则”的抽象感，其他词要么是具体物（coke, core），要么是动作（come, cope, choke, close），要么是模式（mode），要么是复制（clone）。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，“code”除了常见义“代码、密码、法规”外，还有以下深度僻义：1. **道德准则、行为规范**：如“code of conduct”（行为准则）、“ethical code”（道德规范），这在《经济学人》中频繁出现，例如“The company revised its code of ethics after the scandal.”（丑闻后公司修订了道德准则。）2. **遗传密码**：在生物类阅读中，“genetic code”指基因序列的编码系统，如“The genetic code determines protein synthesis.”（遗传密码决定蛋白质合成。）3. **编码系统**：在语言学或信息学中，“code”可指任何符号系统，如“Morse code”（摩尔斯电码）、“color code”（颜色代码）。考研真题曾出现“The code of the streets”指街头潜规则，而非法律。4. **动词用法**：作动词时意为“编码、加密”，如“The message was coded to prevent interception.”（信息被编码以防拦截。）5. **地区电话代码**：如“area code”（区号），在涉及通信的阅读中可能出现。注意，在考研翻译中，“code”常需灵活译为“规则”“系统”“编码”而非固定词义。例：2015年考研阅读中“the code of the gentleman”应译为“绅士准则”，不可直译成“绅士代码”。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，“code”的经典搭配和句型包括：1. **code of conduct**（行为准则）——常出现在职场、社会类文章中，如2008年考研阅读Text 2：“The OECD code of conduct for multinational corporations.”（经合组织跨国公司行为准则。）2. **code of ethics**（道德规范）——如2012年考研阅读Text 1：“A code of ethics is necessary for the profession.”（职业道德规范对该行业是必要的。）3. **genetic code**（遗传密码）——出现在2010年考研阅读Text 2：“The genetic code is a language that all cells share.”（遗传密码是所有细胞共享的语言。）4. **moral code**（道德准则）——2014年考研阅读Text 3：“The moral code of the society influences individual behavior.”（社会道德准则影响个人行为。）5. **break the code**（破解密码）——常出现在科技类阅读中，如“They tried to break the enemy's code.”（他们试图破译敌方密码。）6. **code-switching**（语码转换）——考研阅读中社会语言学话题的考点，如“Bilingual speakers often engage in code-switching.”（双语者经常进行语码转换。）高分写作例句：1. “A well-defined code of ethics is the cornerstone of any reputable organization.”（明确的道德准则是任何有信誉组织的基石。）2. “The digital age has made it essential for individuals to understand the code of online communication.”（数字时代使个人理解在线交流准则变得至关重要。）3. “In scientific research, the genetic code serves as the blueprint for life.”（在科学研究中，遗传密码充当生命的蓝图。）注意：考研完形中常考“code”与“rule, law, principle”的辨析——code强调系统性规则集合，rule强调单一规定，law强调法律效力，principle强调基本原则。"
+      }
+    },
+    {
+      "id": "coffee",
+      "word": "coffee",
+      "phonetic": "/'kɔfi/",
+      "meaning": "n.咖啡(色)",
+      "similar": [
+        "offer",
+        "confer"
+      ],
+      "question": {
+        "wordId": "coffee",
+        "stem": "选择 \"coffee\" 的正确中文意思：",
+        "correct": "n.咖啡(色)",
+        "options": [
+          "n.咖啡(色)",
+          "v.提供,提议,出现 n.出价,提议,意图",
+          "v.商讨；授予，颁给(勋衔，学位等)",
+          "n.便帽,军帽;盖,罩,套 v.覆盖于…顶端"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“coffee”源自阿拉伯语“qahwah”，最初指一种用咖啡豆制成的提神饮品，后经土耳其语“kahve”和意大利语“caffè”传入英语。从物理逻辑看，咖啡的深褐色与烘焙过程中的美拉德反应相关，因此“coffee”作为名词直接指代这种饮品或颜色。画面感联想：想象清晨一杯热气腾腾的深棕色液体散发的浓郁香气，这种感官体验能瞬间激活记忆。词源演变中，“coffee”与“café”（咖啡馆）同根，暗示社交与提神的双重功能。底层记忆点：将“coffee”拆解为“cof”（类似“cough”咳嗽的发音，但更柔和）和“fee”（费用），联想为“喝咖啡需要付费”，但更生动的联想是：咖啡因（caffeine）是“coffee”的核心成分，两者共享字母“c”和“f”，而“caffeine”中的“-ine”表示化学物质，因此“coffee”是“含咖啡因的饮品”。这种词根关联帮助学生从化学本质理解单词。总之，“coffee”的核心逻辑是：一种源自阿拉伯的棕色饮品，代表提神、社交与日常仪式。",
+        "similarWarning": "【避坑预警（形近/易混）】单词“coffee”与形近词“offer”（/ˈɔːfər/，提供）和“confer”（/kənˈfɜːr/，授予、协商）容易混淆，需从字母级差异入手。第一，“coffee”以字母“c”开头，而“offer”以字母“o”开头，首字母不同导致意义天差地别：“coffee”是名词饮品，“offer”是动词或名词意为“提供”。具体差异在第三个字母：“coffee”有双“f”和双“e”，即“c-o-f-f-e-e”共6个字母；而“offer”是“o-f-f-e-r”共5个字母，多了一个“c”和末尾的“e”而不是“r”。第二，“confer”与“coffee”更易混淆，因为两者都含“f”和“e”且发音接近。“confer”以“c”开头，但第二个字母是“o”，第三个是“n”，而“coffee”第二个字母是“o”，第三个是“f”。“confer”的字母序列为“c-o-n-f-e-r”共6个字母，与“coffee”的“c-o-f-f-e-e”相比，差异在于第三个字母“n”对“f”，以及末尾“r”对“e”。含义上，“confer”表示“授予（学位、权力）”或“协商”，与咖啡无关。记忆技巧：将“coffee”中的双“f”联想为两杯咖啡并列，而“offer”中的“r”像伸出手提供东西，“confer”中的“n”像两个人面对面协商。考研中常见错误是写作时将“coffee”误拼为“coffe”（漏一个e）或“caffee”（错用a），需注意双“f”和双“e”的对称结构。总之，通过字母位置和数量的对比，学生能一眼区分这些形近词。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级阅读中，“coffee”除了基本义“咖啡饮品”和“咖啡色”，还有以下僻义：1. **咖啡聚会或社交场合**（非正式用法）：例如“We had a coffee meeting to discuss the project.”（我们开了个咖啡会议讨论项目。）这里的“coffee meeting”指非正式、边喝咖啡边进行的会议，常用于商务场景。2. **提神醒脑的象征**：在经济学人中，“coffee”常被用作隐喻，如“The morning coffee of the economy”指推动经济复苏的短期刺激因素。例句：“Low interest rates served as the morning coffee for the stock market.”（低利率如同股市的晨间咖啡。）3. **咖啡渣或咖啡粉（作为物质）**：在科技类文章中，“coffee grounds”指咖啡渣，用于生物燃料或吸附剂。例句：“Used coffee grounds can be converted into biodiesel.”（用过的咖啡渣可转化为生物柴油。）4. **颜色词**：在时尚或设计领域，“coffee”直接指深棕色，如“coffee table”（咖啡桌）虽非僻义，但“coffee”作为颜色定语时，如“coffee leather jackets”（咖啡色皮夹克），在考研阅读中出现于描述商品或环境的段落。5. **文化符号**：在《卫报》中，“coffee culture”指咖啡文化，强调社交与休闲。例句：“The rise of coffee culture has transformed urban landscapes.”（咖啡文化的兴起改变了城市景观。）掌握这些僻义有助于阅读理解中推断作者意图。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“coffee”虽为基础词汇，但常出现在细节题、搭配题和写作模板中。经典短语：1. **a cup of coffee**（一杯咖啡）- 真题语境：2010年阅读Text 3中“He ordered a cup of coffee while waiting for the interview.”（他等面试时点了一杯咖啡。）2. **coffee break**（咖啡时间/休息时间）- 常考搭配，例如2015年完形填空提到“During the coffee break, employees exchanged ideas.”（咖啡休息时间，员工交换想法。）3. **instant coffee**（速溶咖啡）- 在2008年翻译题中出现“The convenience of instant coffee changed drinking habits.”（速溶咖啡的便利改变了饮用习惯。）4. **coffee shop/coffee house**（咖啡馆）- 2012年新题型中描述“Coffee shops became hubs for intellectual debate.”（咖啡馆成为知识辩论的中心。）高分写作例句：1. “In the modern fast-paced society, a cup of coffee symbolizes not only a momentary break but also a culture of efficiency.”（在现代快节奏社会中，一杯咖啡不仅象征片刻休息，也代表效率文化。）2. “The global coffee industry, from cultivation to consumption, mirrors the complexities of international trade.”（全球咖啡产业从种植到消费，反映了国际贸易的复杂性。）3. “Many students rely on coffee to stay alert during late-night study sessions, yet excessive consumption may lead to health issues.”（许多学生依靠咖啡在深夜学习时保持清醒，但过量饮用可能导致健康问题。）考点直击：注意“coffee”不可数，但可用“a coffee”表示“一杯咖啡”；在完形填空中常与“drink, beverage, caffeine”等词同现；阅读题中注意“coffee”作为文化符号的引申义。掌握这些搭配和句型，可在写作中灵活运用。"
+      }
+    },
+    {
+      "id": "cognitive",
+      "word": "cognitive",
+      "phonetic": "/'kɔgnitiv/",
+      "meaning": "a.认知的，认识能力的",
+      "similar": [
+        "conceive",
+        "contrive",
+        "positive",
+        "competitive",
+        "recognition",
+        "collective"
+      ],
+      "question": {
+        "wordId": "cognitive",
+        "stem": "选择 \"cognitive\" 的正确中文意思：",
+        "correct": "a.认知的，认识能力的",
+        "options": [
+          "v.(of)设想,构思,想象;以为;怀胎,怀有",
+          "a.肯定的,积极的,绝对的,无疑的,正的",
+          "vt.谋划，策划；设法做到；设计，想出",
+          "a.认知的，认识能力的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“cognitive”的核心在于词根“cogn”，源自拉丁语“cognoscere”，意为“知道、认识”。其中，“co-”表示“一起、共同”，而“gnoscere”意为“了解、知晓”，组合起来就是“共同知道”或“完全了解”的意思。这让我联想到一个画面：一群人围在一起，共同探索真理，如同科学家在实验室里通过实验和观察逐渐认识世界规律。词根“cogn”与“know”在英语中同源，如“recognize”（再次知道）就是“re-”（再次）+“cognize”（知道）的组合。而“cognitive”直接派生自“cognition”（认知过程），强调与大脑获取知识和理解信息相关的心理活动。你可以想象一下，当你第一次学习一个复杂概念时，大脑像一台精密的计算机，不断处理、存储和调用数据，这个过程就是认知。为了加深记忆，可以联想到“cognizant”（认知的、知道的）和“incognito”（隐姓埋名的，即不知道身份），它们都共享“cogn”这个根。所以，“cognitive”本质上是描述大脑如何“知道”和“理解”事物的能力，就像一把钥匙，打开知识的锁。记住：认知是人类从懵懂到智慧的桥梁，它连接着感官输入与理性思考。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，对比“cognitive”与“conceive”（构想、怀孕）：“conceive”中的“con-”也是“一起”，但词根“ceive”来自拉丁语“capere”（拿、取），所以是“一起拿取”，引申为在脑海中抓住想法或孕育生命，而“cognitive”强调认知过程，两者字母差异在于“cogn” vs “ceive”，记忆点：认知是“知道”，构想是“抓住”。其次，“contrive”（策划、设计）中“con-”+“trive”来自拉丁语“tropare”（发明），与“cognitive”差异明显，后者无“r”和“v”音，词义上策划是主动创造，认知是被动理解。第三，“positive”（积极的、肯定的）与“cognitive”仅差一个字母“p”和“i”的位置，但“positive”来自拉丁语“ponere”（放置），意为“放置好的、确定的”，与认知无关，记忆口诀：“积极”是“pos”，认知是“cog”。第四，“competitive”（竞争的）中“com-”+“petere”（寻求），强调争夺，而认知是“co-”+“gnoscere”，完全不同源，差异在于“pet” vs “cogn”。第五，“recognition”（承认、认出）与“cognitive”共享词根“cogn”，但“re-”表示“再次”，所以是“再次知道”，即认出，而“cognitive”是形容词，描述认知能力，记忆：认出是动作，认知是能力。第六，“collective”（集体的）中“col-”+“lect”（收集），意为“收集在一起”，与认知无关，差异在于“lect” vs “cogn”。总结：所有形近词中，只有“recognition”与“cognitive”语义相关，其他都是假朋友。要区分，请聚焦词根：认知必带“cogn”，其他词根如“ceive”、“trive”、“pos”、“pet”、“lect”各有专属含义。",
+        "extendedMeaning": "【高分引申（熟词僻义】在考研英语和高级阅读材料中，“cognitive”除了基本的“认知的”含义外，还常引申为“基于理性思考的”、“与心理过程相关的”。例如，在心理学领域，“cognitive bias”（认知偏差）指系统性的思维错误，如“confirmation bias”（确认偏误），例句：“The study explores how cognitive biases affect decision-making in financial markets.（该研究探讨认知偏差如何影响金融市场决策。）”另一个僻义是“认知科学中的”，如“cognitive science”（认知���学）是一个跨学科领域，例句：“Advances in cognitive science have reshaped our understanding of human consciousness.（认知科学的进展重塑了我们对人类意识的理解。）”此外，“cognitive”在计算机科学中引申为“模拟人类思维的”，如“cognitive computing”（认知计算），例句：“IBM's Watson is a prime example of cognitive computing, processing natural language to solve complex problems.（IBM的沃森是认知计算的典范，通过处理自然语言解决复杂问题。）”在经济学人中，还有“cognitive load”（认知负荷），指大脑处理信息时的工作量，例句：“Minimizing cognitive load in user interface design is crucial for enhancing user experience.（在用户界面设计中最小化认知负荷对提升用户体验至关重要。）”最后，在医学语境中，“cognitive impairment”（认知障碍）指记忆力或思维能力的下降，例句：“Regular exercise may reduce the risk of cognitive impairment in older adults.（定期锻炼可能降低老年人认知障碍的风险。）”这些引申义都保留了“认知”的核心，但拓展到了具体应用场景。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“cognitive”常与以下搭配出现：cognitive ability（认知能力）、cognitive development（认知发展）、cognitive process（认知过程）、cognitive function（认知功能）。经典真题例句：1. “The cognitive revolution was a significant shift in psychology, emphasizing mental processes over behaviorism.（认知革命是心理学的重要转折，强调心理过程而非行为主义。）”此句来自阅读真题，考点在于理解“cognitive revolution”作为历史术语。2. “Studies have shown that bilingualism can enhance cognitive flexibility, allowing individuals to switch between tasks more efficiently.（研究表明双语能力能增强认知灵活性，使个体更高效地切换任务。）”此句可用于写作，讨论教育或大脑健康。3. “The researchers found a correlation between sleep quality and cognitive performance in students.（研究人员发现学生睡眠质量与认知表现之间存在关联。）”常见于科普类文章，考点是“correlation between...and...”结构。高分写作例句：1. “Moreover, engaging in lifelong learning can significantly boost cognitive resilience, delaying the onset of age-related decline.（此外，终身学习能显著提升认知韧性，延缓与年龄相关的衰退。）”2. “The design of educational curricula should prioritize the cultivation of critical thinking and cognitive skills over rote memorization.（教育课程的设计应优先培养批判性思维和认知技能，而非死记硬背。）”3. “To succeed in the information age, individuals must harness their cognitive resources to filter and synthesize vast amounts of data.（要在信息时代成功，个体必须利用认知资源来筛选和综合海量数据。）”这些例句覆盖了考研阅读和写作的常见场景，帮助学生掌握“cognitive”在学术语境中的精准运用。"
+      }
+    },
+    {
+      "id": "coherent",
+      "word": "coherent",
+      "phonetic": "/kəu'hɪərənt/",
+      "meaning": "a.一致的，协调的；(话语等)条理清楚的",
+      "similar": [
+        "inherent",
+        "competent",
+        "cement",
+        "comment",
+        "consent",
+        "content",
+        "correct",
+        "current"
+      ],
+      "question": {
+        "wordId": "coherent",
+        "stem": "选择 \"coherent\" 的正确中文意思：",
+        "correct": "a.一致的，协调的；(话语等)条理清楚的",
+        "options": [
+          "a.一致的，协调的；(话语等)条理清楚的",
+          "n.水泥;胶泥,胶接剂 v.胶合;巩固,加强",
+          "a.固有的,内在的,天生的",
+          "a.有能力的，能胜任的；足够的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词coherent的核心逻辑源于拉丁词根“co-”（共同、一起）与“haerere”（粘着、附着）的结合。字面意思是“粘在一起”，引申为“各部分紧密连接、不松散”，从而形成“一致的、连贯的、条理清楚的”含义。想象一下，一根链条的每个环都紧密相扣，没有断裂或脱节，这就是coherent的状态。在语言层面，一段coherent的话语就像这条链条，前后句子逻辑顺畅、主题统一，不会突然跳跃或自相矛盾。在物理层面，coherent光（如激光）意味着所有光波相位一致，传播方向相同，因此能量集中、稳定。这种“粘合”的物理图像是理解coherent的核心：任何系统（无论是文本、计划还是论证）如果其组成部分之间缺乏这种内在的“粘合力”，就会显得支离破碎、混乱无序。记住“co-”（共同）加“herent”（粘着）等于“共同粘着”，就能轻松掌握其本源含义，并自然联想到“协调、一致”的深层语义。",
+        "similarWarning": "【避坑预警（形近/易混）】形近词辨析是考研高频考点，需精细区分字母级差异。1. **inherent**：与coherent仅差前缀“in-”对比“co-”，含义完全不同。inherent来自“in-”（里面）加“herent”（粘着），字面是“粘在里面”，意为“固有的、内在的”，如“inherent risks”（固有风险）。而coherent强调“粘在一起”，是外部的协调一致。2. **competent**：差异在字母“pet”与“her”。competent来自“com-”（共同）加“petere”（追求），意为“有能力的、胜任的”，核心是能力，而coherent核心是连贯。3. **cement**：字母结构为c-e-m-e-n-t，与coherent的c-o-h-e-r-e-n-t相比，中间部分“her”变为“em”，且无“re”。cement是名词“水泥”或动词“巩固”，物理上粘合，但coherent是抽象连贯。4. **comment**：c-o-m-m-e-n-t，双“m”且无“her”，意为“评论、注释”，是语言行为，而coherent是描述语言质量的形容词。5. **consent**：c-o-n-s-e-n-t，前缀“con-”（共同）加“sentire”（感觉），意为“同意、赞成”，是心理态度，coherent是逻辑属性。6. **content**：c-o-n-t-e-n-t，有“t”无“her”，作名词是“内容”，形容词是“满足的”，与coherent的“连贯”无关。7. **correct**：c-o-r-r-e-c-t，双“r”加“ct”，意为“正确的”，强调事实准确性，而coherent强调逻辑条理。8. **current**：c-u-r-r-e-n-t，双“r”加“ent”，意为“当前的、水流”，与时间或流动相关。总结：核心差异在于中间部分“herent”（粘着）与其他字母组合的替换，记住“coherent”中的“her”是记忆锚点。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高阶英语中，coherent可引申出以下非字面含义：1. **（物理）相干的**：用于光学、物理学，描述波动的相位关系一致。例如考研阅读中可能出现的句子：“Laser light is highly coherent, meaning its waves are in phase.”（激光是高度相干的，意味着其波相位一致。）2. **（逻辑）自洽的**：指理论、论证内部无矛盾。如《经济学人》例句：“A coherent economic policy requires consistent fiscal and monetary measures.”（一项自洽的经济政策需要一致的财政和货币措施。）3. **（整体）统一的**：用于描述系统、设计或组织的各部分和谐统一。例如：“The architect aimed for a coherent design that blends modern and traditional elements.”（建筑师力求一个统一的、融合现代与传统元素的设计。）4. **（语言）易懂的**：强调表达清晰��不混乱。如《卫报》：“Despite his excitement, he managed to give a coherent account of the event.”（尽管他激动，他还是给出了一个条理清晰的事件描述。）5. **（团体）团结的**：指群体有共同目标、行动协调。例如：“A coherent team is more effective than a group of isolated individuals.”（一个团结的团队比一群孤立的个体更有效。）这些引申义都源自“各部分紧密粘合”的核心意象，在考研阅读中常以抽象形式出现。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中coherent常与以下搭配出现：**coherent argument**（连贯的论证）、**coherent narrative**（连贯的叙述）、**coherent policy**（一致的政策）、**coherent whole**（统一的整体）、**coherent structure**（清晰的结构）。高频句型包括：“be coherent with”（与……一致）和“lack coherence”（缺乏连贯性）。真题例句1（阅读）：**“For a theory to be accepted, it must be internally coherent and not contradict empirical evidence.”**（为了让理论被接受，它必须内部一致且不矛盾经验证据。）真题例句2（翻译）：**“The author’s argument is not coherent; it jumps from one topic to another without clear connection.”**（作者的论证不连贯；它毫无清晰联系地从一个话题跳到另一个。）真题例句3（写作高分）：**“To write a compelling essay, one must first outline the main points to ensure a coherent flow of ideas.”**（要写一篇引人入胜的论文，首先必须列出要点，以确保思想的连贯流动。）此外，考研完形填空常设置coherent与incoherent（反义词）的对比选项，如：“The speaker’s speech was so incoherent that the audience could not follow his reasoning.”（演讲者的讲话如此不连贯，以至于听众无法跟上他的推理。）备考时需特别注意coherent常与逻辑、论证、政策等抽象名词搭配，且其反义词incoherent是高频干扰项。"
+      }
+    },
+    {
+      "id": "cohesive",
+      "word": "cohesive",
+      "phonetic": "/kəu'hi:sɪv/",
+      "meaning": "a.粘合性的，有结合力的",
+      "similar": [
+        "conceive",
+        "contrive",
+        "collective"
+      ],
+      "question": {
+        "wordId": "cohesive",
+        "stem": "选择 \"cohesive\" 的正确中文意思：",
+        "correct": "a.粘合性的，有结合力的",
+        "options": [
+          "n.集体 a.集体的,共同的",
+          "vt.谋划，策划；设法做到；设计，想出",
+          "v.(of)设想,构思,想象;以为;怀胎,怀有",
+          "a.粘合性的，有结合力的"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“cohesive”源自拉丁语“cohaerere”，由前缀“co-”（共同、一起）和词根“haerere”（粘着、附着）组成，字面意思是“共同粘附在一起”。你可以想象一个画面：无数小分子像胶水一样紧密贴合，形成一个不可分割的整体。词根“haerere”在英语中演变为“adhere”（粘附）和“inherent”（固有的），强调一种内在的、自然的力量使事物彼此依附。从物理逻辑看，cohesive描述的是物体内部粒子之间的吸引力，比如水分子之间的内聚力让水滴保持球状。引申到社会或团队中，它比喻成员之间因共同目标、价值观或情感而紧密团结，像胶水一样难以分离。这种“粘合性”不是外力强加，而是内在的、自发的凝聚力。通过词根拆解和画面联想，你可以牢牢记住：co-（一起）+ hes（粘着）+ ive（形容词后缀）→ 粘合性的，有结合力的。记住“一起粘着”这个核心意象，所有含义都由此展开。",
+        "similarWarning": "【避坑预警（形近/易混）】这三个形近词与“cohesive”在拼写上都有相似之处，但含义迥异。1. “conceive”（/kənˈsiːv/）：拼写差异在于“-ceive”与“-hesive”。词根“-ceive”源自拉丁语“capere”（拿、取），意为“构想、怀孕或设想”，如“conceive an idea”（构想一个想法）。而“cohesive”的核心是“粘合”，两者毫无关联。学生常因前缀“con-”混淆，但注意“conceive”强调大脑中的“形成”动作，而非物理或情感的“粘合”。2. “contrive”（/kənˈtraɪv/）：拼写差异在于“-trive”与“-hesive”。词根“-trive”源自拉丁语“tropare”（发明），意为“策划、设计或图谋”，常带贬义，如“contrive a scheme”（策划阴谋）。与“cohesive”的“自然团结”形成鲜明对比。3. “collective”（/kəˈlektɪv/）：拼写差异在于“-lective”与“-hesive”。词根“-lect”源自拉丁语“legere”（收集、选择），意为“集体的、共同的”，如“collective effort”（集体努力）。虽然“collective”也强调“一起”，但更偏重“收集”的动作或结果，而“cohesive”强调“粘合”的紧密程度和内在力量。集体可以松散，但cohesive必须紧密。对比总结：cohesive（粘合）→ conceive（构想）→ contrive（策划）→ collective（集体的）。通过字母级差异（-hesive vs -ceive vs -trive vs -lective）和核心词根（粘 vs 拿 vs 发明 vs 收集）来区分，考试中一眼就能识破陷阱。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和权威外刊中，“cohesive”除基本义“粘合性的”外，还有以下高频引申义：1. **（社会/团队）凝聚力强的**：指群体成员因共同目标、价值观或情感而紧密团结。例句：A cohesive team often outperforms a group of talented individuals who work in isolation.（一个凝聚力强的团队往往胜过一群孤军奋战的天才个体。）来自《经济学人》关于企业文化的报道。2. **（逻辑/论点）连贯一致的**：指论述、文章或理论各部分之间衔接紧密、逻辑流畅。例句：The author’s argument is not cohesive; the transitions between chapters are abrupt and confusing.（作者的论证缺乏连贯性；章节之间的过渡突兀且令人困惑。）此用法常见于考研英语阅读理解中对文章结构的评价。3. **（物理/化学）内聚的**：指物质内部粒子之间的吸引力。例句：Water molecules exhibit strong cohesive forces, which allow insects to walk on its surface.（水分子表现出强大的内聚力，使昆虫能在其表���行走。）此义在考研英语科技类文章中偶有出现。4. **（社会心理学）群体内聚的**：指群体成员之间相互吸引、关系紧密的状态。例句：Social media can both create and destroy cohesive communities, depending on how it is used.（社交媒体既能创造也能摧毁凝聚力强的社区，具体取决于如何使用。）来自《卫报》关于数字时代的分析。掌握这些引申义，在阅读中遇到“cohesive society”“cohesive narrative”“cohesive plan”等搭配时，就能快速理解其深层含义。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“cohesive”常以形容词形式出现，搭配高频名词构成固定短语，是完形填空和阅读理解中的常客。核心搭配包括：1. cohesive force（凝聚力）：真题例句：The cohesive force within the community helped it survive the economic crisis.（社区内部的凝聚力帮助它度过了经济危机。）来自考研英语二2018年阅读。2. cohesive group（团结的群体）：写作例句：A cohesive group is more likely to achieve its goals than a divided one.（团结的群体比分裂的群体更有可能实现目标。）可用于大作文论述团队合作。3. cohesive society（有凝聚力的社会）：真题例句：A cohesive society relies on shared values and mutual trust.（有凝聚力的社会依赖于共同的价值观和相互信任。）来自考研英语一2020年翻译部分。4. cohesive whole（连贯的整体）：例句：The writer skillfully weaves these diverse themes into a cohesive whole.（作者巧妙地将这些不同主题编织成一个连贯的整体。）此搭配常见于阅读理解中对文章结构的评价。5. cohesive policy（统一的政策）：例句：The government needs a cohesive policy to address the housing crisis.（政府需要一项统一的政策来解决住房危机。）来自《经济学人》社论。此外，考研写作中可用“cohesive”提升文章档次，如描述团队精神：“A cohesive team enhances efficiency and creativity.”（一个团结的团队能提高效率和创造力。）阅读理解中，注意其反义词“fragmented”（碎片化的）和“disjointed”（不连贯的）常同时出现，形成对比。掌握这些真题例句和固定搭配，考试中遇到“cohesive”时就能从容应对，在写作中灵活运用，获得高分。"
+      }
+    },
+    {
+      "id": "coil",
+      "word": "coil",
+      "phonetic": "/kɔil/",
+      "meaning": "v.卷,盘绕 n.(一)卷,(一)圈;线圈,绕组",
+      "similar": [
+        "oil",
+        "boil",
+        "coal",
+        "coin",
+        "soil",
+        "chill",
+        "civil",
+        "comic"
+      ],
+      "question": {
+        "wordId": "coil",
+        "stem": "选择 \"coil\" 的正确中文意思：",
+        "correct": "v.卷,盘绕 n.(一)卷,(一)圈;线圈,绕组",
+        "options": [
+          "v.(使)沸腾,煮(沸)",
+          "n.油，石油 v.给…加润滑油；涂油，上油",
+          "n.煤,煤块",
+          "v.卷,盘绕 n.(一)卷,(一)圈;线圈,绕组"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词coil的核心逻辑源于拉丁语“colligere”，意为“收集、聚集”，后经古法语“coillir”演变为中古英语“coilen”，最终形成现代英语的coil。其本质含义是“将某物缠绕成螺旋状或圆环状”，这种动作包含两个关键特征：一是有序的环绕，二是形成封闭或半封闭的圈状结构。从画面感联想来看，想象一条蛇盘绕在树枝上，或一根绳子被整齐地卷成圆圈，这种螺旋或环形运动就是coil的精髓。物理逻辑上，coil强调“重复的弯曲”和“向中心聚集”，与straight（直线）形成鲜明对比。在考研语境中，coil常用来描述电线、弹簧、绳索等物体的形态，其名词形式特指“一圈”或“线圈”，在物理和电子学中尤为常见，如电磁线圈（electromagnetic coil）。记忆时，可将coil与“circle”（圆圈）联系起来，因为coil的动作结果往往形成类似圆圈的形状，但更强调多层或螺旋式的缠绕。通过这种底层逻辑，学生能直观理解coil为何既表示“卷绕”的动作，又表示“线圈”的物体。",
+        "similarWarning": "【避坑预警（形近/易混）】coil与多个形近词易混淆，需逐一辨析字母级差异：1. **coil vs oil**：coil多一个字母c，o-i-l三个字母相同，但c是辅音开头，意为“卷绕”；oil是纯元音开头，意为“油”。差异在首字母c，coil侧重动作，oil侧重物质。2. **coil vs boil**：boil在coil前加b，b使单词意为“沸腾”；coil的c则指向“卷绕”。b-o-i-l与c-o-i-l仅首字母不同，但含义天差地别。3. **coil vs coal**：coal的字母a替换了coil的i，coal意为“煤”，是固体燃料；coil中的i使单词具有动态感。4. **coil vs coin**：coin的n替换了coil的l，coin意为“硬币”，是金属货币；coil的l代表“圈”，与圆形相关。5. **coil vs cool**：cool的o-o替换了coil的o-i，cool意为“凉爽的”；coil的i使发音短促，动作性强。6. **coil vs soil**：soil的s替换了coil的c，soil意为“土壤”；coil的c是卷绕动作。7. **coil vs child**：child多出字母h和d，且i后是l-d，意为“孩子”；coil的l是结尾，结构更简单。8. **coil vs chill**：chill多出h，且i-l-l双写l，意为“寒冷”；coil单l。总结：coil的核心是c+oil，c是“卷”的标志，而oil、boil、coal、coin、cool、soil、child、chill虽有相似拼写，但首字母或中间字母的微变导致含义彻底不同。记忆口诀：coil卷圈，oil油，boil煮沸，coal煤，coin钱，cool凉，soil土，child娃，chill寒。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，coil的引申义远超字面“卷绕”，常见僻义包括：1. **（生理）卷曲、蜷缩**：常描述人或动物的身体姿态，如“The snake coiled itself around the branch.”（蛇盘绕在树枝上）或“She coiled her hair into a bun.”（她把头发卷成发髻）。在《经济学人》中，可见“The protesters coiled into a tight group.”（抗议者蜷缩成紧密的一群），表示团结或防御姿态。2. **（机械）弹簧、螺旋**：在工程语境中，coil可指“螺旋弹簧”，如“The car’s suspension uses coil springs.”（汽车悬挂使用螺旋弹簧）。考研阅读中，可能涉及“coil spring”作为物理考点。3. **（电子）线圈**：在电磁学中，coil专指“线圈”，是电路基本元件，如“The transformer consists of two coils.”（变压器由两个线圈组成）。《卫报》科技报道中常见“electromagnetic coil”用法。4. **（医学）避孕环**：在医疗领域，coil是“宫内节育器”的俗称，如“She decided to use a coil for contraception.”（她决定使用避孕环）。5. **（动词）蜿蜒移动**：比喻河流、道路等弯曲延伸，如“The path coiled through the forest.”（小路蜿蜒穿过森林）。《纽约时报》中可见“Traffic coiled around the roundabout.”（车流在环岛盘旋）。6. **（抽象）焦虑的螺旋**：在心理学语境中，coil可比喻负面情绪的恶性循环，如“Anxiety can coil into depression.”（焦虑可能螺旋演变为抑郁）。考研作文中，可用“coil of despair”来提升文采。这些僻义均基于“螺旋缠绕”的核心意象，学生需结合语境灵活理解。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，coil的高频搭配和考点包括：1. **coil up**：卷起、盘绕，如“He coiled up the rope.”（他把绳子卷起来）或“The snake coiled up its body.”（蛇盘起了身体）。真题例句：2012年考研阅读Text 4中，“The pipe was coiled up in a corner.”（管子被卷起放在角落）。2. **coil around/round**：缠绕在……周围，如“The vine coiled around the tree.”（藤蔓缠绕着树）。考研翻译题中，出现过“The wire must be coiled around the core.”（电线必须绕在磁芯上）。3. **spring coil**：弹簧线圈，常见于物理类阅读，如“The spring coil stores mechanical energy.”（���簧线圈储存机械能）。4. **electromagnetic coil**：电磁线圈，在科技类真题中频繁出现，如“The electromagnetic coil generates a magnetic field.”（电磁线圈产生磁场）。5. **coil of rope/wire**：一卷绳子/电线，名词搭配常见于图表作文和描述类题目，如“A coil of rope lay on the deck.”（一卷绳子躺在甲板上）。6. **in a coil**：成卷状，如“The snake lay in a coil.”（蛇卷成一圈）。高分写作例句：①“As the economic crisis coiled into a prolonged recession, governments scrambled to implement stimulus packages.”（随着经济危机螺旋演变为长期衰退，各国政府争相实施刺激计划。）②“The path coiled through the valley like a silver ribbon, symbolizing the journey of life.”（小路像银色丝带蜿蜒穿过山谷，象征着人生旅程。）③“To avoid tangling, the cable should be coiled neatly after each use.”（为避免缠绕，每次使用后应将电缆整齐卷好。）这些搭配和例句覆盖了考研阅读、翻译、写作三大题型，帮助学生在实战中精准运用coil。"
+      }
+    },
+    {
+      "id": "coin",
+      "word": "coin",
+      "phonetic": "/kɔin/",
+      "meaning": "n.硬币,货币 v.铸造(硬币),创造(新词)",
+      "similar": [
+        "chin",
+        "coil",
+        "corn",
+        "join",
+        "cousin",
+        "cabin",
+        "chain",
+        "china"
+      ],
+      "question": {
+        "wordId": "coin",
+        "stem": "选择 \"coin\" 的正确中文意思：",
+        "correct": "n.硬币,货币 v.铸造(硬币),创造(新词)",
+        "options": [
+          "n.下巴,颏",
+          "n.硬币,货币 v.铸造(硬币),创造(新词)",
+          "n.谷物,庄稼,玉米",
+          "v.卷,盘绕 n.(一)卷,(一)圈;线圈,绕组"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“coin”的核心逻辑源于其物理形态和铸造过程。从词源上看，“coin”源自拉丁语“cuneus”（楔子），因为古代铸造硬币时，金属被锤击入楔形模具中，形成统一的圆形金属片。这种“打制”动作引申出“创造”的概念。你可以这样想象：一枚硬币的诞生，需要经过模具压制，赋予其形状和面值，这就像一个新词被“铸造”出来，进入语言流通领域。从画面感联想：你手握一枚硬币，它冰冷、坚硬、圆润，正反两面承载着国家符号——这不仅是货币，更是权威的象征。因此，“coin”的本源含义是“通过外力塑造出标准化的实物”，后来动词化后，由“铸造硬币”自然引申出“创造新词”的比喻义，因为创造新词就像铸造一枚新硬币，需要赋予其意义并使其在语言中流通。这个底层逻辑链——从物理打制到抽象创造——能帮你牢牢记住“coin”的双重身份：作为名词是“硬币”，作为动词是“创造（新词）”。",
+        "similarWarning": "【避坑预警（形近/易混）】与“coin”形近的词需逐一辨析，注意字母级差异：\n1. **chin** (下巴)：c→ch，i→i，n→n，区别在于第一个字母组合“ch”替换了“c”，含义从金属硬币变为面部器官。\n2. **coil** (线圈；卷)：c→c，o→o，i→i，l→l，但“coin”以n结尾，“coil”以l结尾，n和l的舌位不同——n是舌尖抵上齿龈，l是舌尖抵上齿龈但气流从两侧流出，视觉上“线圈”呈螺旋状，而硬币是扁平的。\n3. **corn** (玉米；谷物)：c→c，o→o，i→r，n→n，中间字母i换成r，读音从/kɔin/变为/kɔːrn/，含义从金属变为农作物。\n4. **join** (连接；参加)：j→j，o→o，i→i，n→n，但首字母j替换c，读音从/k/变为/dʒ/，含义从“创造”变为“加入”。\n5. **cousin** (堂表兄弟姐妹)：c→c，o→o，u→u，s→s，i→i，n→n，但多出“us”两个字母，且重音在第一个音节，含义变为亲属关系。\n6. **cabin** (小木屋；船舱)：c→c，a→a，b→b，i→i，n→n，但多出“ab”两个字母，读音不同，含义从硬币变为居所。\n7. **chain** (链条；连锁)：c→c，h→h，a→a，i→i，n→n，但多出“ha”两个字母，且字母顺序变化，含义从单个硬币变为一系列连接物。\n8. **china** (中国；瓷器)：c→c，h→h，i→i，n→n，a→a，但多出“ha”和a，且重音在后，含义从硬币变为国家或易碎品。\n总结：关键差异在字母组合和发音，“coin”是单音节，其他多为双音节或多音节，且核心含义完全不同。建议制作闪卡，正面写形近词，反面写区别。",
+        "extendedMeaning": "【高分引申（熟词僻义）】“coin”在考研及高级英语中有以下僻义：\n1. **动词：创造（新词、新短语）**——这是考研阅读和完形的高频考点。例如，在《经济学人》中：“The term 'staycation' was coined in the early 2000s to describe holidays spent at home.”（“staycation”一词在21世纪初被创造出来，描述在家度过的假期。）\n2. **动词：杜撰（非正式）**——带有贬义，指随意编造。例如《卫报》：“He coined a ridiculous excuse to avoid the meeting.”（他杜撰了一个荒谬的借口来逃避会议。）\n3. **名词：金钱（泛指）**——在习语中，如“the other side of the coin”表示“问题的另一方面”，在考研真题中曾出现：“We should consider the other side of the coin before making a decision.”（在做决定前，我们应考虑问题的另一面。）\n4. **名词：代币（特定领域）**——在��戏或自动售货机语境中，如“arcade coin”（游戏币）。\n5. **短语：to coin a phrase**——用于引出俗语或自创说法，如在雅思写作中：“To coin a phrase, 'every coin has two sides'.”（套用一句老话，“凡事皆有两面性”。）\n这些僻义在考研阅读（尤其是经济类、科技类文章）中频繁出现，需要考生根据上下文灵活理解。",
+        "examUsage": "【真题闭环（考点直击）】“coin”在考研真题中的高频搭配和句型：\n1. **固定搭配**：\n   - coin money (赚大钱)：“The new app is coining money for its developers.”（这款新应用为开发者赚了大钱。）\n   - coin a term/phrase/word (创造术语/短语/词)：“The scientist coined the term 'black hole' in 1967.”（这位科学家在1967年创造了“黑洞”这个术语。）\n   - the other side of the coin (事情的另一面)：“Every coin has its other side.”（凡事皆有两面。）\n2. **真题例句**：\n   - 2021年考研英语一阅读：“The phrase 'digital native' was coined to describe those born after 1980.”（“数字原住民”这个短语被创造出来，描述1980年后出生的人。）\n   - 2019年考研英语二完形：“While some see it as a blessing, the other side of the coin reveals potential risks.”（虽然有些人视其为福音，但事情的另一面揭示了潜在风险。）\n   - 高分写作例句：“In my opinion, the coin has two sides: technology brings convenience but also causes isolation.”（在我看来，凡事皆有两面：科技带来便利，但也导致孤立。）\n3. **常考句型**：\n   - “It is widely accepted that the term was coined by...”\n   - “As the old saying goes, every coin has two sides.”\n   - “We must be aware of the other side of the coin.”\n掌握这些，做题时能迅速识别并准确理解。"
+      }
+    },
+    {
+      "id": "coincide",
+      "word": "coincide",
+      "phonetic": "/ˌkəuɪn'saɪd/",
+      "meaning": "vi.同时发生；巧合；一致；相符；",
+      "similar": [
+        "concede",
+        "concise",
+        "inside",
+        "collide",
+        "confine",
+        "council",
+        "suicide",
+        "conceive"
+      ],
+      "question": {
+        "wordId": "coincide",
+        "stem": "选择 \"coincide\" 的正确中文意思：",
+        "correct": "vi.同时发生；巧合；一致；相符；",
+        "options": [
+          "a.简明的,简洁的",
+          "a.里面的 ad.在里面 n.内部 prep.在…里",
+          "vt.承认；容许；(比赛结束前)认输；退让",
+          "vi.同时发生；巧合；一致；相符；"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词coincide的核心逻辑可以通过词源拆解和画面联想来深刻记忆。它由拉丁语前缀“co-”（意为“共同、一起”）和词根“incidere”（由“in-”意为“进入、在上”和“cadere”意为“落下、发生”组成，整体意为“一起落下”或“共同发生”。想象两片树叶从同一棵树上同时飘落，在空中恰好重叠——这个画面生动体现了“同时发生”和“巧合”的本源含义。词源演变中，incidere本身有“发生、降临”的意思，加上co-后强化了“共同降临”的意象。从物理世界引申到抽象世界：当两件事在时间或空间上“落在一起”时，就是巧合或一致。例如，两个人的假期安排“同时发生”就像两片叶子同时落地；他们的观点“一致”就像叶子重叠在同一个位置。这个底层逻辑贯穿所有义项：无论是时间上的同时性（同时发生）、事件上的偶然性（巧合），还是思想上的契合性（一致、相符），都离不开“共同落下”的核心。记住这个画面，coincide就不再是抽象词汇，而是一个生动的物理过程。",
+        "similarWarning": "【避坑预警（形近/易混）】coincide与众多形近词容易混淆，需逐一辨析字母级差异：1. **concede**（/kənˈsiːd/ v.承认；让步）：区别在于“-cede”意为“走、让出”，而coincide是“-cide”意为“落下”。字母上，concede有字母“e”和“d”在末尾，而coincide有“i”和“d”。含义上，concede是让步承认，coincide是同时发生，完全无关。2. **concise**（/kənˈsaɪs/ adj.简洁的）：字母差异在“-cise”意为“切”（如precise），而coincide是“-cide”意为“落”。concise强调删减后的简洁，coincide强调共同性。3. **inside**（/ɪnˈsaɪd/ prep./adv./adj.在内部）：字母上coincide开头是“co-”而非“in”，且末尾是“-cide”而非“-side”。inside指空间内部，coincide指时间或事件巧合。4. **collide**（/kəˈlaɪd/ v.碰撞；冲突）：字母上“-lide”与“-cide”不同，发音相似但拼写迥异。collide指物理撞击或观点冲突，coincide指时间一致或观点相符。5. **confine**（/kənˈfaɪn/ v.限制；监禁）：字母差异在“-fine”意为“边界”，而coincide是“-cide”。confine强调限制在范围内，coincide强调共同发生。6. **council**（/ˈkaʊnsl/ n.委员会；议会）：字母上coincide有“i”和“d”在末尾���council是“-cil”且为名词。含义上，council是组织，coincide是动词��7. **suicide**（/ˈsuːɪsaɪd/ n./v.自杀）：字母上“sui-”意为“自己”，-cide意为“杀”，而coincide是“co-”意为“共同”，-cide意为“落”。suicide是杀死自己，coincide是共同发生。8. **conceive**（/kənˈsiːv/ v.构想；怀孕）：字母差异在“-ceive”意为“拿、取”，而coincide是“-cide”。conceive强调构思或受孕，coincide强调巧合。通过对比，关键点在于：coincide的核心是“co-”（共同）和“-cide”（落下），而其他词各有不同词根，如“-cede”（走）、“-cise”（切）、“-side”（边）、“-lide”（撞击）、“-fine”（边界）、“-cil”（召集）、“sui-”（自己）、“-ceive”（拿）。记住这些字母差异和词根含义，就能一眼区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高端英语语料中，coincide除了基本义“同时发生”和“巧合”外，还有以下深层僻义：1. **（观点、利益等）一致、相符**：这是考研阅读和写作中的高频用法，强调抽象概念上的契合。例如，在经济学人中常出现“The interests of the company coincide with those of the employees.”（公司的利益与员工的利益一致。）这里不是指时间同时，而是利益上的重合。2. **（图表、数据等）对应、吻合**：在学术阅读中，coincide常用于描述数据或趋势的对应关系。例如，考研真题中曾有：“The rise in temperature coincides with the increase in carbon emissions.”（温度的上升与碳排放的增加相吻合。）这种用法强调因果或相关关系。3. **（位置、边界）重叠、重合**：在地理或科学语境中，coincide表示物理空间上的重叠。例如，卫报例句：“The two national parks coincide in their southern boundaries.”（这两个国家公园的南部边界重叠。）4. **（事件）同时发生但不一定是巧合**：有时coincide仅表示时间上的同步，不强调偶然性。例如，考研写作例句：“The launch of the new product coincided with the holiday season.”（新产品的发布恰逢假日季节。）5. **（命运、经历）相似、趋同**：在文学或哲学语境中，coincide可表示人生经历的相似性。例如，卫报书评：“Their life stories coincide in many ways.”（他们的人生经历在许多方面相似。）6. **（数学或逻辑）等同、一致**：在逻辑推理中，coincide表示两个概念或定义完全等同。例如，考研真题阅读中：“The two theories coincide in their core assumptions.”（这两种理论的核心假设一致。）掌握这些僻义，有助于在考研阅读中准确理解作者意图，并在写作中丰富表达。",
+        "examUsage": "【真题闭环（考点直击）】coincide在考研真题中出现频率较高，常考搭配和句型如下：1. **经典短语**：coincide with（与…同时发生；与…一致）；coincide in（在…方面一致）；coincide that（巧合的是…）。例如，考研阅读中常见：“The outbreak of the war coincided with the economic crisis.”（战争的爆发与经济危机同时发生。）2. **固定搭配**：it is no coincidence that...（…绝非巧合），用于强调因果关系或逻辑必然性。例如，考研写作高分例句：“It is no coincidence that successful people are often early risers.”（成功人士常早起，这绝非巧合。）3. **常考句型**：A coincide with B（A与B同时发生/一致）；A and B coincide（A和B一致/巧合）。例如，考研真题阅读：“The author’s views coincide with those of the majority.”（作者的观点与大多数人的观点一致。）4. **真题例句**：2010年考研阅读Text 2：“The pattern of spending coincides with the rise in income.”（支出模式与收入增长同步。）2015年考研阅读Text 4：“The decline in newspaper readership coincides with the rise of digital media.”（报纸读者量的下降与��字媒体的兴起同时发生。）5. **写作高分例句**：在议论文中可用coincide表示观点一致：“My opinion on this issue coincides with that of the experts.”（我对这个问题的看法与专家一致。）在描述数据时：“The peak in sales coincides with the holiday period.”（销售高峰与假期时段重合。）6. **易错点**：注意coincide是不及物动词，不能直接接宾语，必须用介词with。例如，不能说“I coincide him”，而要说“I coincide with him”。另外，常见错误搭配“coincide to”是错误的，正确是“coincide with”。掌握这些考点，能帮助学生在阅读中快速定位，在写作中精准使用。"
+      }
+    },
+    {
+      "id": "coincidence",
+      "word": "coincidence",
+      "phonetic": "/kəu'insidəns/",
+      "meaning": "n.巧合；同时发生，共同存在；符合，一致",
+      "similar": [
+        "incidence",
+        "confidence",
+        "conscience",
+        "confident",
+        "conference"
+      ],
+      "question": {
+        "wordId": "coincidence",
+        "stem": "选择 \"coincidence\" 的正确中文意思：",
+        "correct": "n.巧合；同时发生，共同存在；符合，一致",
+        "options": [
+          "n.巧合；同时发生，共同存在；符合，一致",
+          "n.影响程度，影响范围；发生率",
+          "n.(in)信任;信心,自信;秘密,机密",
+          "n.良心,良知"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词coincidence的核心逻辑来源于词根'co-'（共同、一起）和'incidence'（发生、事件）。'co-'是拉丁语前缀，表示'with, together'，而'incidence'源自拉丁语'incidere'，由'in-'（进入）和'cadere'（落下）组成，字面意思是'fall upon'或'happen'。因此，coincidence的字面意思是'同时落下'或'共同发生'。想象两个物体从不同的位置同时掉落到同一个点，这种物理上的'同时落地'就引申为抽象概念——两件不相关的事情在时间和空间上'巧合地'同时发生。这种画面感非常强烈：比如你正想着一个老朋友，下一秒手机就响了，正是他打来的电话——这是一种'命运般的同步'。在词源演变中，coincidence最初在17世纪指'同时发生的事件'，后来逐渐强调'无因果关系的巧合'。因此，记忆coincidence的核心是抓住'co-'（共同）和'fall'（落下）的物理意象：两件事像两片叶子一样同时飘落，意外地相遇。这种'意外的同步'正是巧合的本质。考研中，coincidence常与'by coincidence'（碰巧）连用，强调偶然性。",
+        "similarWarning": "【避坑预警（形近/易混）】形近词辨析是考研高频陷阱。以下是coincidence与所有形近词的字母级对比：(1) incidence /'insidəns/ vs. coincidence：incidence少了前缀'co-'，字母差异在于开头'co-'。incidence本义是'事件的发生率'或'影响范围'，如'the incidence of crime'（犯罪率），强调'发生'的统计频率，而coincidence强调'同时发生'的巧合性。例如：'The incidence of accidents is high.'（事故发生率很高。）——无巧合意味。(2) confidence /'kɔnfidəns/ vs. coincidence：confidence以'con-'（加强）开头，词根'fid'（信任），所以是'信任、自信'。字母差异：'confid-' vs. 'coincid-'。例如：'She has confidence in her ability.'（她对自己的能力有信心。）——与巧合无关。(3) conscience /'kɔnʃəns/ vs. coincidence：conscience以'con-'开头，词根'sci'（知道），本义是'良知、道德心'，如'guilty conscience'（内疚）。字母差异：'consci-' vs. 'coinci-'。注意拼写中'sci'和'ci'的区别。(4) confident /'kɔnfidənt/ vs. coincidence：confident是confidence的形容词形式，表示'自信的'，如'She is confident of success.'（她确信成功。）字母差异：'confid-' vs. 'coincid-'，且结尾不同（-dent vs. -dence）。(5) conference /'kɔnfərəns/ vs. coincidence：conference以'con-'开头，词根'fer'（带来），本义是'会议、讨论'，如'the conference room'（会议室）。字母差异：'confer-' vs. 'coincid-'。总结：coincidence独有的核心是'co-'（共同）+ 'incid-'（发生），其他词要么无'co-'（incidence），要么词根不同（fid, sci, fer）。记忆口诀：'co-'表示'一起'，incidence是'发生'，一起发生就是'巧合'；其他词没有'一起'，所以意思不同。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及外刊中，coincidence除了常见的'巧合'义，还有以下深度用法：(1) '同时发生，共同存在'——不强调偶然性，仅指时间或空间上的同步。例如：'The coincidence of the two events led to confusion.'（两个事件同时发生导致了混乱。）此义在科学文献中常见，如'The coincidence of temperature and pressure changes.'（温度和压力变化的同步。）(2) '符合，一致'——指观点、事实或数据之间的对应关系。例如：'There is a striking coincidence between the two reports.'（两份报告之间惊人的一致。）在《经济学人》中曾出现：'The coincidence of interests between the two countries is rare.'（两国利益的契合罕见。）(3) '巧合的事'——可作可数名词，指具体的一件巧合事件。例如：'It was a mere coincidence that we met at the airport.'（我们在机场相遇纯属巧合。）考研阅读中，coincidence常出现在推理题中，如'By coincidence, the results matched perfectly.'（碰巧，结果完全吻合。）(4) '巧合性'——作为抽象名词，强调偶然性。例如：'We cannot rely on coincidence to solve the problem.'（我们不能依赖巧合解决问题。）(5) 在数学或物理学中，coincidence还可指'重合'，如'the coincidence of lines'（线条重合）。例句：'The coincidence of the two curves indicates a strong correlation.'（两条曲线的重合表明强相关性。）考研完形填空曾考过：'The ___ of the two events was purely accidental.'（答案：coincidence）——这里考查'同时发生'。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中，coincidence的常见固定搭配和短语包括：(1) by coincidence（碰巧）——副词短语，修饰整个句子。例：'By coincidence, I had the same book in my bag.'（碰巧我包里也有同一本书。）(2) a coincidence of...（……的巧合/一致）。例：'The coincidence of timing made the meeting possible.'（时间上的巧合使会议成为可能。）(3) mere/pure coincidence（纯属巧合）。例：'It is no mere coincidence that they both arrived late.'（他们俩都迟到绝非巧合。）(4) a happy coincidence（令人愉快的巧合）。例：'It was a happy coincidence that we shared the same interests.'（我们兴趣相投，真是令人愉快的巧合。）(5) a strange/remarkable coincidence（奇怪的/显著的巧合）。例：'What a strange coincidence that we both studied in the same school!'（我们俩曾在同一所学校学习，多么奇怪的巧合！）真题例句1（阅读）：'The coincidence of the two events is not as accidental as it seems.'（这两个事件的巧合并非看上去那么偶然。）真题例句2（完形）：'It is by ___ that the experiment succeeded.'（答案：coincidence）——考查by coincidence。真题例句3（写作）：'In life, we often encounter coincidences that seem to connect unrelated events.'（在生活中，我们经常遇到看似将无关事件联系起来的巧合。）写作高分用法：'Far from being a mere coincidence, the pattern reveals a deeper correlation.'（这绝非纯属巧合，该模式揭示了更深层的关联。）建议考生在写作中灵活运用'by coincidence'和'a coincidence of...'结构，提升表达多样性。例如：'By coincidence, the data from the two studies show a remarkable coincidence.'（碰巧，两项研究的数据显示出惊人的一致性。）——这里coincidence出现了两次，第一次是副词短语，第二次是名词，体现词汇灵活运用。"
+      }
+    },
+    {
+      "id": "coke",
+      "word": "coke",
+      "phonetic": "/kəuk/",
+      "meaning": "n.焦炭；可口可乐（COCA-COLA）的缩写",
+      "similar": [
+        "choke",
+        "code",
+        "cope",
+        "core",
+        "poke",
+        "clone",
+        "cover",
+        "evoke"
+      ],
+      "question": {
+        "wordId": "coke",
+        "stem": "选择 \"coke\" 的正确中文意思：",
+        "correct": "n.焦炭；可口可乐（COCA-COLA）的缩写",
+        "options": [
+          "n.焦炭；可口可乐（COCA-COLA）的缩写",
+          "v.窒息,噎住;闷塞,堵塞,阻塞",
+          "n.代码,代号,密码;法典,法规,规划",
+          "v.(with)竞争,对抗;(with)对付,妥善处理"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词coke的本源含义与“燃烧后的残留物”密切相关。它源自中古英语“coke”，可能源于古英语“coc”（意为“球状物”或“硬块”），这与焦炭的物理形态——一种多孔、质硬的黑色块状燃料——完全契合。从词源上追溯，coke最初指代通过干馏（隔绝空气加热）煤或木材后留下的固体碳质残渣，这一过程类似于“cooking”（烹饪）但更极端，因此画面感极强：想象一块煤在高温下“被烤焦”，释放出可燃气体后，剩下的就是coke（焦炭）。这种“烧尽后残留的核心”的逻辑，也直接映射到现代用法中：可口可乐（Coca-Cola）的缩写coke，虽然源自植物古柯（coca）和可乐果（kola）的提取物，但本质上也是一种“浓缩的、燃烧后精华”的隐喻——饮料中的碳酸和糖分就像“燃烧的刺激感”，而coke作为昵称，保留了“核心、浓缩”的意味。因此，记住coke的关键是“烧焦的残留物”或“浓缩的精华”，这比死记硬背更生动：联想一块煤炭被烈火灼烧后，剩下坚硬、多孔的焦炭，而可乐则是“烧掉”口渴的浓缩液体。这种从“物质残留”到“品牌简称”的语义延伸，体现了英语词汇中“具体到抽象”的演变规律，也是考研词汇中常见的一词多义现象。",
+        "similarWarning": "【避坑预警（形近/易混）】coke与以下形近词极易混淆，必须逐一辨析：1) choke（/tʃəʊk/，v.窒息，阻塞）——字母差异：coke开头是c，而choke开头是ch（多了h），且coke的元音是o，choke的元音是o但发音更接近“抽咳”。choke强调“喉咙被堵住”的动作，如'He choked on a bone'，而coke则是名词“焦炭”。2) cake（/keɪk/，n.蛋糕；v.结块）——字母差异：coke中的o变为a，且结尾从e变为ke？实际上cake是c-a-k-e，coke是c-o-k-e，元音不同。cake指甜点或块状物，如'a piece of cake'，coke无此义。3) code（/kəʊd/，n.密码，代码）——字母差异：coke结尾是e，code结尾是de，发音上code的d更清晰。code是系统规则，如'computer code'，coke是燃料。4) come（/kʌm/，v.来）——字母差异：coke结尾是ke，come结尾是me，元音也不同（o vs u）。come是动词，coke是名词。5) cope（/kəʊp/，v.应对）——字母差异：coke结尾是ke，cope结尾是pe，发音上cope的p更轻。cope指处理困难，如'cope with stress'，coke无此义。6) core（/kɔː(r)/，n.核心）——字母差异：coke结尾是ke，core结尾是re，且core有r音。core指中心部分，如'apple core'，coke指焦炭。7) joke（/dʒəʊk/，n.笑话）——字母差异：coke开头是c，joke开头是j，发音完全不同。joke是幽默，coke是燃料。8) poke（/pəʊk/，v.戳，刺）——字母差异：coke开头是c，poke开头是p，发音不同。poke是动作，coke是物体。总结：coke与这些词的区别在于首字母或尾字母的微小变化，但含义天差地别。考研阅读中若出现'coke'，需根据上下文判断是“焦炭”还是“可乐”，而choke常与'up'连用表示“哽咽”，cope常与'with'搭配，code常与'break'相关。牢记：coke无动作含义，无抽象核心义，无液体义（除了可乐），这是最关键的区分点。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及权威外刊中，coke除了“焦炭”和“可乐”外，还有以下高级用法：1) 动词用法（非正式）：指“用可卡因毒品”，但考研中极少出现，不过需警惕在文学或社会类文章中可能提及。例如：'He was caught coking up in the bathroom.'（他在浴室吸食可卡因被抓住。）2) 在经济学人中，coke常作为“能源燃料”的代名词，与“coal”和“steel”并列。如：'The steel industry relies heavily on coke for blast furnaces.'（钢铁工业严重依赖焦炭进行高炉炼铁。）3) 在商业语境中，coke（可口可乐）可引申为“碳酸饮料”的泛指，甚至用于比喻“商业巨头”。如：'Pepsi and Coke are locked in a century-long cola war.'（百事和可口可乐陷入长达一个世纪的可乐战争。）4) 在化学或工业语境中，coke可指“石油焦”或“沥青焦”，是炼油副产品。例如：'Petroleum coke is used as a fuel in cement kilns.'（石油焦被用作水泥窑的燃料。）5) 在英式俚语中，coke可指“钱”或“钞票”，但极为罕见。例如：'He's got plenty of coke to burn.'（他有很多钱可以挥霍。）6) 在葡萄酒品鉴中，coke有时形容“焦炭味”的瑕疵酒，但非专业领域不常用。考研中，最需要掌握的是coke在工业文章中的“焦炭”义，以及商业文章中的“可口可乐”义。例如，2010年英语二阅读就出现过：'The shift from coal to coke in ironmaking was a turning point.'（炼铁中从煤到焦炭的转变是一个转折点。）掌握这些僻义，能让你在阅读中精准理解。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，coke的高频考点主要集中在以下搭配和短语中：1) 'coke oven'（焦炉）——工业类阅读常见，如：'Coke ovens are used to produce coke from coal.'（焦炉用于从煤中生产焦炭。）2) 'coke bottle'（可乐瓶）——商业类阅读中的形象描述，如：'The classic coke bottle shape is iconic.'（经典的可口可乐瓶形状是标志性的。）3) 'coke and coal'（焦炭与煤）——对比语境，如：'Unlike coal, coke burns with less smoke.'（与煤不同，焦炭燃烧时烟更少。）4) 'coke industry'（焦炭工业）——经济类文章，如：'The coke industry is closely tied to steel production.'（焦炭工业与钢铁生产紧密相连。）5) 在写作中，可运用'coke'的比喻义，例如：'The company is the Coke of the smartphone market.'（这家公司是智能手机市场的“可口可乐”。）——这种比喻在考研写作中能体现词汇深度。真题例句：2014年英语一阅读：'The steel mills consumed vast quantities of coke, which was produced locally.'（钢厂消耗大量当地生产的焦炭。）2008年英语二翻译：'Coke is a key raw material in the production of iron.'（焦炭是生铁生产的关键原材料。）高分写作例句：'In the modern era, just as coke revolutionized the steel industry, digital technology is transforming traditional manufacturing.'（在现代，正如焦炭革新了钢铁工业，数字技术正在变革传统制造业。）此外，注意coke在考研阅读中常与iron、steel、blast furnace等词共现，形成“工业语境”；而在商业语境中，常与Pepsi、beverage、advertising等词关联。备考时，重点记忆coke的“焦炭”义，因为这是考研最常考的僻义，而“可乐”义虽简单，但需注意其作为专有名词的大写形式（Coke）。例如，真题中若出现'Coke'首字母大写，通常指可口可乐公司。"
+      }
+    },
+    {
+      "id": "collaborate",
+      "word": "collaborate",
+      "phonetic": "/kə'læbəreit/",
+      "meaning": "vi.协作，合作；(与敌人)勾结",
+      "similar": [
+        "elaborate",
+        "celebrate",
+        "commemorate"
+      ],
+      "question": {
+        "wordId": "collaborate",
+        "stem": "选择 \"collaborate\" 的正确中文意思：",
+        "correct": "vi.协作，合作；(与敌人)勾结",
+        "options": [
+          "vt.庆祝；颂扬，赞美vi.庆祝，过节",
+          "vt.纪念，庆祝",
+          "vi.协作，合作；(与敌人)勾结",
+          "v./a.精心制作(的);详细阐述(的)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词collaborate的核心逻辑源自其拉丁词根。它由前缀“col-”（意为“共同、一起”，是“com-”的变体，用于辅音l前）和词根“labor”（意为“劳动、工作”）以及动词后缀“-ate”构成。因此，其字面意思是“共同劳动”。这种词源结构非常直观：想象两个人或团队在同一张桌子前，为了完成一个共同的项目而一起“labor”（劳作）。这个画面感极强的联想帮助记忆：协作不是单打独斗，而是“col”（一起） + “labor”（劳动）。更深层地，这种“共同劳动”不仅指物理上的并肩工作，更强调在思想、资源、技能上的协同配合。与“cooperate”（合作）相比，“collaborate”更侧重于主动、创造性的协作过程，往往涉及智力上的贡献和共同创造，而不仅仅是简单的配合。例如，科研团队“collaborate”以攻克难题，强调每个人都在“labor”（付出劳动和智慧）。记住这个“一起劳动”的核心画面，就能牢固掌握该词的本源含义，并自然理解其引申义。",
+        "similarWarning": "【避坑预警（形近/易混）】该词与形近词易混淆，需从字母级差异精准辨析：1. **collaborate vs. elaborate**：两者仅首字母元音不同（‘o’ vs. ‘e’）。‘collaborate’中前缀‘col-’（共同） + ‘labor’（劳动）；而‘elaborate’中前缀‘e-’（出、向外） + ‘labor’（劳动）+ ‘-ate’意为“向外劳动”，即“精心制作、详尽阐述”。简言之，collaborate强调“一起干”，elaborate强调“细致地干”。例如：“They collaborated on the project.”（他们合作项目） vs. “He elaborated on the plan.”（他详细说明了计划）。2. **collaborate vs. celebrate**：两者音形近，但词根迥异。‘collaborate’词根为‘labor’（劳动）；‘celebrate’词根为‘celebr’（荣誉、赞颂）。字母级差异：‘collaborate’有‘-labor-’，‘celebrate’无此结构。含义上，collaborate是“合作”，celebrate是“庆祝”。例如：“We collaborated to finish the report.” vs. “We celebrated the success.”。3. **collaborate vs. commemorate**：区分点在词根。‘commemorate’词根为‘memor’（记忆），前缀‘com-’（共同），意为“共同记忆”，即“纪念”。‘collaborate’词根为‘labor’。例如：“They collaborated on the memorial event.”（他们合作筹办纪念活动） vs. “They commemorated the event.”（他们纪念该事件）。记住：看到‘labor’（劳动）就是“合作”；没有‘labor’则要警惕其他含义。",
+        "extendedMeaning": "【高分引申（熟词僻义）】除了常见的“合作、协作”含义外，collaborate在考研及高级阅读中有一个关键僻义：（与敌人）勾结、通敌。这个贬义用法源于二战时期，指与占领军或敌对政权合作。例如：1. 政治语境：在《经济学人》中曾出现“Those who collaborated with the occupying forces were later tried for treason.”（那些与占领军勾结的人后来因叛国罪受审）。2. 历史语境：考研阅读中可能涉及“Collaboration during the war was a complex moral issue.”（战争期间的勾结是一个复杂的道德问题）。3. 引申为“暗中合作”：有时collaborate可略带贬义地表示非正当的合作，如“He was accused of collaborating with the enemy to undermine the government.”（他被指控与敌人勾结以破坏政府）。此外，在学术语境中，collaborate还可以指“协同作用”，如“The two drugs collaborate to enhance the treatment effect.”（两种药物协同作用以增强疗效）。掌握这些僻义，有助于在阅读中准确理解作者态度，尤其是当collaborate与负面语境（如war, enemy, regime等）出现时，需警惕其贬义色彩。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，collaborate常以动词形式出现，其核心考点包括：1. 固定搭配：collaborate with sb. on sth.（与某人合作某项目），例如：“The two companies collaborated on the research project.”。2. 常考句型：collaborate to do sth.（合作做某事），例如：“Scientists from different countries collaborated to solve the global challenge.”。3. 真题例句（改编自历年阅读）：a) “In the creative industry, artists often collaborate with brands to produce limited-edition works.”（在创意产业，艺术家常与品牌合作推出限量作品）。b) “The study found that students who collaborated in groups performed better than those who worked alone.”（研究发现，小组合作的学生比单独学习的学生表现更好）。c) 高分写作例句：“To tackle the environmental crisis, nations must collaborate on establishing stricter regulations.”（为应对环境危机，各国必须合作制定更严格的法规）。注意：在考试中，collaborate与cooperate的区别是高频考点：collaborate侧重创造性、智力上的合作；cooperate侧重行动上的配合。例如：“They cooperated by following the rules.” vs. “They collaborated to design a new system.”。掌握这些搭配和例句，就能在阅读中快速识别考点，在写作中精准使用高级词汇。"
+      }
+    },
+    {
+      "id": "collapse",
+      "word": "collapse",
+      "phonetic": "/kə'læps/",
+      "meaning": "v./n.倒塌；崩溃；(价格)暴跌；倒闭，破产",
+      "similar": [
+        "colleague",
+        "clause",
+        "coarse",
+        "collar",
+        "elapse",
+        "college",
+        "collide"
+      ],
+      "question": {
+        "wordId": "collapse",
+        "stem": "选择 \"collapse\" 的正确中文意思：",
+        "correct": "v./n.倒塌；崩溃；(价格)暴跌；倒闭，破产",
+        "options": [
+          "a.粗糙的,粗劣的;粗鲁的,粗俗的",
+          "n.(正式文件或法律文件的)条款;从句,分句",
+          "n.同事,同僚",
+          "v./n.倒塌；崩溃；(价格)暴跌；倒闭，破产"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】collapse这个词的核心逻辑来源于拉丁语词根“collapsus”，其本义是“一起倒下破裂”。词根“col-”表示“共同、一起”，而“lapsus”意为“滑落、跌倒、失误”。因此，collapse的字面意思是“共同滑落”，即多个部分同时失去支撑而倒下。这种物理崩塌的画面感非常生动：想象一座建筑在重力作用下，其结构同时失去稳定性，各个部分相互挤压、滑落、最终形成一堆废墟。这种“一起倒下”的意象也延伸到了抽象领域，比如“经济体系的崩溃”是指整个系统如同多米诺骨牌一样连锁倒塌，“精神崩溃”则是指一个人的心理防线全面失守，如同墙体裂开、支撑点全部失效。从词源演变看，古法语“colapser”和拉丁语“collapsus”都保留了这种“滑落”的原始含义，而英语中“lapse”（流逝、过失）一词也与之相关，暗示着一种不可逆转的、向下滑落的趋势。因此，记忆collapse的关键就在于：它强调的是“整体性、同时性”的崩塌，而不是单一的、局部的损坏。你可以想象一个纸牌屋在微风中瞬间坍塌的画面，那就是collapse最直观的物理逻辑——所有部分在瞬间失去协调，共同坠落。这种底层记忆方式能让你在面对抽象用法时，迅速联想到“系统性、全面性的失败或崩溃”。",
+        "similarWarning": "【避坑预警（形近/易混）】collapse与许多形近词容易混淆，下面逐一对比分析：1. **colleague**（/ˈkɒliːɡ/，同事）——字母差异：collapse中有“lapse”，而colleague中是“league”（联盟）。核心区别在于“lapse”表示滑落、崩溃，而“league”表示联盟、伙伴。所以collapse是“一起滑落”，而colleague是“一起结盟的人”。2. **clause**（/klɔːz/，条款；从句）——字母差异：collapse以“collapse”结尾，而clause是“clause”。collapse中的“p”和“se”被替换为“u”和“se”。clause来自拉丁语“clausula”（结束），指文书中的具体规定或语法中的从属句子，与崩溃毫无关系。3. **coarse**（/kɔːrs/，粗糙的；粗鲁的）——字母差异：collapse中有“ll”和“pse”，而coarse是“c-o-a-r-s-e”。coarse来源于“course”的变体，指质地不光滑或行为不文雅，与“滑落”无关。4. **collar**（/ˈkɒlər/，衣领；抓住）——字母差异：collapse中是“a”和“pse”，collar是“a”和“r”。collar来自拉丁语“collum”（脖子），指衣服上的领子或抓住某人的衣领，与崩塌毫无关联。5. **elapse**（/ɪˈlæps/，流逝）——字母差异：collapse以“col-”开头，elapse以“e-”开头。elapse意为“时间过去”，来自拉丁语“elapsus”（滑出），强调时间从手中滑走，而collapse强调“一起滑落”。两者都含“lapse”，但前缀不同导致含义大相径庭。6. **college**（/ˈkɒlɪdʒ/，学院）——字母差异：collapse中有“lapse”，college中是“lege”。college来自拉丁语“collegium”（共同的法律），指学习机构，与崩溃无关。7. **collide**（/kəˈlaɪd/，碰撞）——字母差异：collapse中是“lapse”，collide中是“lide”。collide来自拉丁语“collidere”（一起击打），指物体猛烈相撞，而collapse指结构瓦解。总结：核心区别在于“lapse”（滑落、失误）与“league/lege/lide”等不同词根的拼写差异。记住collapse中的“lapse”是“滑落”的线索，其他词都是不同的概念。",
+        "extendedMeaning": "【高分引申（熟词僻义）】collapse在考研英语和高级阅读中除了基本义“倒塌、崩溃”外，还有多个重要���义和特殊用法：1. **（价格、市场、货币）暴跌**：在经济学和商业语境中，collapse常指价格或市场价值的急剧下跌，强调降幅大、速度快且具有破坏性。例句：The stock market collapsed in 2008, wiping out trillions of dollars in value.（2008年股市暴跌，抹去了数万亿美元的价值。）2. **（公司、机构）倒闭、破产**：指企业或组织因财务问题而停止运营。例句：Many small businesses collapsed during the economic recession due to lack of funding.（许多小企业因缺乏资金而在经济衰退中倒闭。）3. **（健康、精神）衰退、虚脱**：指身体或精神状态的急剧恶化，如因疾病、疲劳或压力导致体力不支。例句：After working for 48 hours straight, he collapsed from exhaustion.（连续工作48小时后，他因精疲力竭而虚脱。）4. **（协议、计划）失败、告吹**：指谈判、计划或关系未能达成或持续。例句：The peace talks collapsed after both sides refused to compromise.（和平谈判在双方拒绝妥协后破裂。）5. **（物理）塌缩**：在天文学和物理学中，指恒星或天体因引力而向内塌缩。例句：When a massive star exhausts its fuel, it may collapse into a black hole.（当大质量恒星耗尽燃料时，它可能塌缩成一个黑洞。）6. **（计算机）折叠、收拢**：在软件界面中，collapse常指将窗口、菜单或列表收缩起来。例句：Click the button to collapse the sidebar and maximize the workspace.（点击按钮折叠侧边栏，最大化工作区。）这些僻义在考研阅读中频繁出现，尤其是经济类和社会类文章，掌握它们能帮助你准确理解语境。",
+        "examUsage": "【真题闭环（考点直击）】collapse在考研英语中常作为动词或名词出现，高频搭配和句型包括：1. **collapse into**：崩溃成（某种状态）。例句：The building collapsed into a pile of rubble within seconds. 2. **economic/financial collapse**：经济/金融崩溃。真题例句：The financial collapse of 2008 led to a global recession.（2008年金融危机导致了全球衰退。）3. **collapse under the weight/pressure of sth**：在……重压下崩溃。例句：The bridge collapsed under the weight of the overloaded truck. 4. **collapse from exhaustion/disease**：因精疲力竭或疾病而倒下。写作例句：Many healthcare workers collapsed from exhaustion during the pandemic. 5. **collapse of negotiations/talks**：谈判破裂。真题例句：The collapse of trade negotiations was a setback for both countries.（贸易谈判的破裂对两国都是一个挫折。）6. **collapsed company/bank**：倒闭的公司/银行。例句：The collapsed bank was taken over by the government. 7. **when/if sth collapses**：当……崩溃时（常用在条件状语从句中）。写作句型：If the housing market collapses, many homeowners will face foreclosure. 8. **a complete/total collapse**：彻底的崩溃。真题例句：The country's infrastructure suffered a complete collapse after the earthquake. 此外，考研真题中常将collapse与“crash”、“decline”、“fall”等词进行同义替换，但collapse更强调“全面性”和“突然性”。在写作中，你可以用“collapse”替代“fail”或“break down”来提升词汇档次。例如：The company's management system collapsed due to corruption.（公司的管理系统因腐败而崩溃。）掌握这些搭配和句型，你可以在阅读中快速定位句义，在写作中精准表达。记住，collapse是一个动态的、极具破坏力的词，适合描述从物理到抽象的各种“崩塌”场景。"
+      }
+    },
+    {
+      "id": "collar",
+      "word": "collar",
+      "phonetic": "/'kɔlə/",
+      "meaning": "n.衣领;环状物",
+      "similar": [
+        "cellar",
+        "dollar",
+        "polar",
+        "solar",
+        "pillar",
+        "collapse"
+      ],
+      "question": {
+        "wordId": "collar",
+        "stem": "选择 \"collar\" 的正确中文意思：",
+        "correct": "n.衣领;环状物",
+        "options": [
+          "a.两极的,极地的,南辕北辙的 n.极线,极面",
+          "n.(美国,加拿大等国货币单位)美元,加元",
+          "n.地窑,地下室",
+          "n.衣领;环状物"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“collar”的核心记忆点在于其“环绕”和“约束”的物理逻辑。从词源上看，collar源自拉丁语“collum”，意为“脖子”，后来通过古法语“coler”进入英语。它的基本意象就是“套在脖子上的东西”，比如衬衫最顶端的“衣领”，它紧紧环绕颈部，起到修饰和固定的作用。进一步联想，衣领的“环状”形态可以推广到任何类似的环绕结构，例如动物项圈（dog collar）或机械中的“轴环”（shaft collar）。这种“环绕”的概念还延伸出“捕获”和“控制”的意味，比如警察“抓住某人衣领”（collar someone）表示逮捕或控制",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "colleague",
+      "word": "colleague",
+      "phonetic": "/'kɔli:g/",
+      "meaning": "n.同事,同僚",
+      "similar": [
+        "college",
+        "collapse",
+        "collective"
+      ],
+      "question": {
+        "wordId": "colleague",
+        "stem": "选择 \"colleague\" 的正确中文意思：",
+        "correct": "n.同事,同僚",
+        "options": [
+          "n.同事,同僚",
+          "n.学院,高等专科学校,大学",
+          "v./n.倒塌；崩溃；(价格)暴跌；倒闭，破产",
+          "n.集体 a.集体的,共同的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“colleague”源自拉丁语“collega”，由前缀“com-”（一起，共同）和词根“legare”（派遣，委托）组成，字面意思是“被共同派遣的人”，即“一起被委派任务的人”。词根“legare”演变为“leg-”，与“legal”（法律的）同源，暗示着团队中因共同职责而产生的契约关系。记忆时，可以想象在一家大型公司里，老板同时派遣你和另一个人去完成一个项目，你们被“捆绑”在一起，共享任务、责任和成果，这就是“colleague”。画面感上，可以联想两个穿西装的人并肩站立，手里拿着文件，眼神交流，代表着合作与信任。更深一层，前缀“com-”在拉丁语中常表“共同”，比如“combine”（结合）、“cooperate”（合作），而“-league”部分容易联想到“league”（联盟），如“football league”（足球联盟），暗示着团队成员间像联盟一样互相支持。因此，“colleague”的核心是“共同被委派的人”，强调工作中的平级协作关系，而非上下级或私人关系。这种词源记忆法让学生不仅记住拼写，还能理解为什么这个词专指“同事”而非“朋友”或“上司”。",
+        "similarWarning": "【避坑预警（形近/易混）】“colleague”与“college”、“collapse”、“collective”形近，但字母差异和含义截然不同。首先，“college”拼写为c-o-l-l-e-g-e，比“colleague”少一个字母“a”且结尾不同：“colleague”以“-gue”结尾（发音为/g/），而“college”以“-ge”结尾（发音为/dʒ/，如“dge”）。含义上，“college”指“学院”或“大学”，是教育机构，而“colleague”是人。记忆区别：想象大学校园（college）里，你遇到一位同事（colleague），但校园是地点，同事是人物。其次，“collapse”拼写为c-o-l-l-a-p-s-e，比“colleague”多出字母“a”和“p-s-e”，且结尾是“-pse”（发音为/ps/）。“collapse”意为“倒塌、崩溃”，如“the building collapsed”（大楼倒塌），而“colleague”无此意。联想：当同事（colleague）吵架时，关系可能“崩溃”（collapse），但拼写中多出“p”和“s”像断裂的柱子。最后，“collective”拼写为c-o-l-l-e-c-t-i-v-e，比“colleague”多出字母“c-t-i-v-e”，且结尾是“-tive”（形容词后缀）。“collective”作形容词意为“集体的、共同的”，如“collective effort”（集体努力），也可作名词指“集体组织”。区别：同事（colleague）是个人，而集体（collective）是群体。易混点在于前缀“col-”都表示“共同”，但“collective”强调“集合”动作（词根“lect”意为“收集”），而“colleague”强调“派遣”。记忆口诀：同事（colleague）共同被派，学院（college）是学府，崩溃（collapse）要塌，集体（collective）是群体。学生需重点注意“-gue”与“-ge”的发音和拼写差异，以及字母增减带来的含义巨变。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级外刊中，“colleague”除基本义“同事”外，常引申为“同行、同业者”，特指在同一职业或专业领域内的人，即使不在同一单位。例如，《经济学人》中写道：“The professor praised her colleague at Cambridge for the groundbreaking research.”（教授赞扬了剑桥的一位同行，因其开创性研究。）这里“colleague”并非同一机构的同事，而是学术圈内的同行。此外，在《卫报》政治报道中，“colleague”可指“同僚”，尤其用于政府或议会中，如“The minister consulted his colleagues in the cabinet before the vote.”（部长在投票前咨询了内阁同僚。）这里的“colleague”强调政治职务上的平级关系。更深一层，在商业语境中，“colleague”可指“合作伙伴”，如“Our company’s Chinese colleagues facilitated the merger.”（我们公司的中国合作伙伴促成了合并。）这里“colleague”暗示跨组织协作。考研真题中，阅读Text 2曾出现：“Many scientists rely on feedback from colleagues to validate their findings.”（许多科学家依赖同行的反馈来验证发现。）此处“colleagues”指“同行评审”中的专家。注意，熟词僻义的核心是“同一领域或职位的共同工作者”，强调专业身份而非雇佣关系。写作中，使用“colleague”比“co-worker”更正式，适合学术或商务文体。学生需掌握这种引申义，避免在阅读中误解为“同一办公室的同事”。",
+        "examUsage": "【真题闭环（考点直击）】“colleague”在考研英语中常以名词形式出现，考点集中于固定搭配和语境理解。常见搭配包括：“colleague of mine”（我的一位同事）、“work with colleagues”（与同事共事）、“disagree with colleagues”（与同事意见不合）、“colleague in the field”（领域内的同行）。真题例句1：2015年考研英语二阅读Text 4：“The researchers asked their colleagues to rate the participants’ honesty.”（研究人员请他们的同事对参与者的诚实度进行评分。）这里“colleagues”指同一研究团队的成员，强调平级合作。真题例句2：2018年考研英语一完形填空：“Despite the disagreement, she maintained a professional relationship with her colleague.”（尽管有分歧，她仍与同事保持职业关系。）考点在于“professional relationship”与“colleague”的语义一致性。真题例句3：2021年考研英语二翻译：“The manager instructed his colleagues to revise the proposal.”（经理指示他的同事们修改提案。）这里注意“instruct”一词暗示上下级关系，但“colleague”仍指平级，需结合语境理解。高分写作例句：在图表作文中可写：“To tackle the issue, we should collaborate with colleagues from diverse departments.”（为解决此问题，我们应与不同部门的同事合作。）或“A wise leader values feedback from colleagues rather than imposing orders.”（明智的领导重视同事反馈而非强加命令。）固定短语“by common consent of colleagues”（经同事一致同意）可用于议论文。备考建议：注意“colleague”后常接介词“of”或“in”，如“a colleague of his”或“colleagues in the office”。同时，区分单复数：单数指个人，复数泛指团队。真题中多次出现“colleagues”作为主语或宾语，需准确识别其指代范围。"
+      }
+    },
+    {
+      "id": "collect",
+      "word": "collect",
+      "phonetic": "/kə'lekt/",
+      "meaning": "v.收集,搜集;领取,接走;收(税等);聚集,堆积",
+      "similar": [
+        "recollect",
+        "college",
+        "connect",
+        "correct",
+        "conflict"
+      ],
+      "question": {
+        "wordId": "collect",
+        "stem": "选择 \"collect\" 的正确中文意思：",
+        "correct": "v.收集,搜集;领取,接走;收(税等);聚集,堆积",
+        "options": [
+          "vt.连接；与…联系，接通(电话) vi.连接",
+          "n.学院,高等专科学校,大学",
+          "v.回忆,想起,记起,忆起,记得",
+          "v.收集,搜集;领取,接走;收(税等);聚集,堆积"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“collect”源自拉丁语“colligere”，由前缀“col-”（意为“一起、共同”）和词根“-lect-”（意为“选择、收集”）组成，其核心物理逻辑是“将分散的个体通过选择而聚集到一起”。你可以想象一个场景：地上散落着许多硬币，你弯腰一枚一枚地捡起来，把它们放入口袋——这就是“收集”的原始画面。词根“-lect-”同样出现在“select”（选择）和“elect”（选举）中，强调“挑选”的动作；而前缀“col-”是“com-”的变体，表示“共同行动”。因此，“collect”的本质是通过主动选择，使原本分离的物体或人汇聚成",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "collection",
+      "word": "collection",
+      "phonetic": "/kə'lekʃən/",
+      "meaning": "n.收藏(品),收集(物)",
+      "similar": [
+        "collective",
+        "connection",
+        "coalition",
+        "collision",
+        "objection",
+        "pollution",
+        "selection",
+        "convention"
+      ],
+      "question": {
+        "wordId": "collection",
+        "stem": "选择 \"collection\" 的正确中文意思：",
+        "correct": "n.收藏(品),收集(物)",
+        "options": [
+          "n.集体 a.集体的,共同的",
+          "n.(connexion)联系,连接；亲戚，社会关系",
+          "n.收藏(品),收集(物)",
+          "n.结合体，同盟；结合，联合"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“collection”的核心逻辑源于拉丁词根“col-”（共同、一起）和“lect-”（选择、收集），加上名词后缀“-ion”，字面含义为“把东西挑选到一起的行为或结果”。从词源演变看，它来自拉丁语“collectio”，意为“聚集、汇集”。我们可以通过画面感联想来加深记忆：想象一个收藏家拿着一把放大镜，从一堆杂乱无章的物品中精心“挑选”（lect）出有价值的物件，然后“一起”（col）放入一个玻璃柜中，最终形成一套整齐的“收藏品”——这就是collection。物理逻辑上，它强调从分散到集中的过程，无论是物质实体（如邮票、硬币",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "collective",
+      "word": "collective",
+      "phonetic": "/kə'lektiv/",
+      "meaning": "n.集体 a.集体的,共同的",
+      "similar": [
+        "collection",
+        "consecutive",
+        "objective",
+        "competitive",
+        "cooperative",
+        "prospective",
+        "cohesive",
+        "conceive"
+      ],
+      "question": {
+        "wordId": "collective",
+        "stem": "选择 \"collective\" 的正确中文意思：",
+        "correct": "n.集体 a.集体的,共同的",
+        "options": [
+          "n.目标,目的 a.客观的,真实的",
+          "n.收藏(品),收集(物)",
+          "n.集体 a.集体的,共同的",
+          "a.连续的；连贯的；顺序的"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“collective”的核心逻辑来源于拉丁词根“lect-”，意为“选择、收集”，加上前缀“col-”（即“com-”的变体，意为“一起、共同”），以及形容词后缀“-ive”，整体含义是“被一起收集起来的”。我们可以想象一个生动的画面：许多人像一个个独立的个体，但通过某种力量被“收集”到一起，形成了一个紧密的“集合体”。这就像一群人从四面八方走到同一个广场上，彼此联结成一个整体，不再只是散沙般的个人。这个单词的物理逻辑是“从分散到聚合”，强调的是一种由多个个体共同构成的整体状态。例如，一个“collective farm”（集体农场）就是许多农民将自己的土地和劳动汇聚在一起，共同经营；而“collective effort”（集体努力）则意味着每个人贡献自己的力量，最终形成一股强大的合力。这种“共同性”和“整体性”是理解“collective”的钥匙，它不同于简单的“group”（群体），更强调成员之间有意识、有组织的合作与共享。记住这个画面：一只无形的大手把零散的棋子归拢到棋盒里，这些棋子就成了一个“collective”——一个具有内在联系和共同目标的集合体。这一核心逻辑能帮助你从词根层面彻底掌握单词的本源，并在记忆时借助生动的联想，避免死记硬背。",
+        "similarWarning": "【避坑预警（形近/易混）】以下逐一对比“collective”与所有形近词，通过字母级差异帮助学生精准区分：\n1. **collection**：差异在于后缀——“-ive” vs “-ion”。“collective”是形容词/名词，强调“集体/共同的”；“collection”是名词，意为“收藏品、收集物”，如“a stamp collection”（邮票收藏）。字母上，“collective”多了字母“i”和“v”，而“collection”以“-ion”结尾。\n2. **consecutive**：前缀“con-” vs “col-”，且中间字母“secut-” vs “lect-”。“consecutive”意为“连续的、连贯的”，如“three consecutive days”（连续三天）。核心区别在词根——“secut”源自“跟随”，而“lect”是“收集”。\n3. **objective**：前缀“ob-” vs “col-”，词根“ject-” vs “lect-”。“objective”意为“客观的、目标”，如“objective analysis”（客观分析）。注意“ject”指“投掷”，与“收集”无关。\n4. **competitive**：前缀“com-” vs “col-”，词根“pet-” vs “lect-”。“competitive”意为“竞争的”，如“competitive market”（竞争市场）。“pet”意为“追求、寻求”，与“collective”的“共同”截然不同。\n5. **cooperative**：前缀“co-” vs “col-”，词根“oper-” vs “lect-”。“cooperative”意为“合作的”，如“cooperative effort”（合作努力）。虽都含“共同”前缀，但词根“oper”意为“工作”，强调协作行为；而“collective”强调集合状态。\n6. **prospective**：前缀“pro-” vs “col-”，词根“spect-” vs “lect-”。“prospective”意为“未来的、潜在的”，如“prospective buyer”（潜在买家）。“spect”意为“看”，与“收集”无关。\n7. **cohesive**：前缀“co-” vs “col-”，词根“hes-” vs “lect-”。“cohesive”意为“有凝聚力的”，如“cohesive team”（有凝聚力的团队）。“hes”意为“粘附”，强调内聚力；而“collective”更强调外在的集合。\n8. **conceive**：前缀“con-” vs “col-”，词根“ceiv-” vs “lect-”。“conceive”意为“构思、怀孕”，如“conceive an idea”（构思想法）。“ceiv”意为“拿取”，与“收集”有细微关联，但完全不同义。通过逐一对比字母差异和词根含义，学生可以快速识别这些易混词，避免在阅读和写作中误用。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语材料中，“collective”除了常见的“集体的、共同的”意思外，还有以下非字面引申义和特殊用法：\n1. **作为名词，指“集体企业/合作组织”**：尤其在经济学文章中出现，表示一种以集体所有制为基础的组织形式。例如，在《经济学人》中曾出现：“The collective in the rural area has boosted local agriculture output.”（该农村地区的集体企业提高了当地农业产量。）\n2. **表示“集体无意识”**：在心理学或社会学语境中，“collective”与“unconscious”连用，指人类共有的心理底层结构。例如：“The archetype is a pattern of the collective unconscious.”（原型是集体无意识的一种模式。）\n3. **表示“全体人员/整体”**：在正式文体中，“collective”可指代整个团体的人，如：“The collective of workers voted for the strike.”（全体工人投票支持罢工。）\n4. **在语法中，指“集合名词”**：语言学中，“collective noun”指表示一群人或物的名词，如“team”、“family”。例如：“The collective noun ‘flock’ refers to a group of birds.”（集合名词‘flock’指一群鸟。）\n5. **在商业英语中，表示“集体决策”**：如“collective leadership”（集体领导）、“collective bargaining”（集体谈判）。例如：“The union engaged in collective bargaining with the management.”（工会与管理层进行了集体谈判。）\n6. **在环境科学中，指“集体行动”**：如“collective action problem”（集体行动问题），指个体理性导致整体非理性的现象。例如：“Climate change is a classic collective action problem.”（气候变化是一个典型的集体行动问题。）这些引申义在考研阅读的科技、经济、社会科学类文章中频繁出现，掌握它们能帮助你快速理解长难句，并在写作中提升表达的多样性和深度。",
+        "examUsage": "【真题闭环（考点直击）】“collective”在考研英语中是高频词汇，常出现在阅读、翻译和写作中。以下是其经典搭配及真题例句：\n**经典短语与固定搭配**：\n- collective effort（集体努力）\n- collective memory（集体记忆）\n- collective responsibility（集体责任）\n- collective bargaining（集体谈判）\n- collective action（集体行动）\n- collective consciousness（集体意识）\n- collective decision-making（集体决策）\n- collective ownership（集体所有制）\n\n**真题例句**：\n1. 2021年考研英语一阅读Text 3：“The concept of collective memory has been widely discussed in sociology.”（集体记忆的概念在社会学中被广泛讨论。）这句话中，“collective memory”是核心概念，理解其含义有助于把握全文主题。\n2. 2018年考研英语二翻译：“The success of the project depended on the collective effort of the entire team.”（该项目的成功依赖于整个团队的集体努力。）这里“collective effort”是高分表达，用于强调团队合作。\n3. 2016年考研英语一完形填空：“In many cultures, a sense of collective responsibility is highly valued.”（在许多文化中，集体责任感受到高度重视。）“collective responsibility”是常见搭配，常出现在关于社会价值观的语篇中。\n\n**高分写作例句**：\n- 用于大作文：“Only through collective action can we address the severe environmental crisis.”（只有通过集体行动，我们才能解决严重的环境危机。）\n- 用于小作文建议信：“I suggest that we adopt a collective decision-making process to ensure fairness.”（我建议我们采用集体决策过程以确保公平。）\n- 用于图表作文：“The data shows a shift from individual achievement to collective progress in the workplace.”（数据显示，工作场所从个人成就转向集体进步。）\n掌握这些搭配和例句，你可以在考研写作中灵活运用“collective”，提升语言的地道性和学术性，同时也能在阅读中快速定位考点，提高解题效率。"
+      }
+    },
+    {
+      "id": "college",
+      "word": "college",
+      "phonetic": "/'kɔlidʒ/",
+      "meaning": "n.学院,高等专科学校,大学",
+      "similar": [
+        "colleague",
+        "allege",
+        "collect",
+        "collide",
+        "challenge",
+        "collapse",
+        "complete"
+      ],
+      "question": {
+        "wordId": "college",
+        "stem": "选择 \"college\" 的正确中文意思：",
+        "correct": "n.学院,高等专科学校,大学",
+        "options": [
+          "n.同事,同僚",
+          "v.收集,搜集;领取,接走;收(税等);聚集,堆积",
+          "v.断言，宣称；指控",
+          "n.学院,高等专科学校,大学"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'college'源自拉丁语'collegium'，意为'协会、团体'，由前缀'col-'（共同、一起）和词根'leg-'（选择、聚集）构成。'col-'是'com-'的变体，表示'共同'；'leg-'来自'legere'，意为'选择、挑选'。因此，'collegium'的字面意思是'被共同挑选出来的人组成的团体'，最初指代一种志同道合者结成的组织，如宗教团体或学术协会。在中世纪，欧洲的大学最初就是由教师和学生组成的'collegium'，大家共同生活、学习和研究。这种'共同选择、聚集学习'的物理逻辑非常生动：想象一群志同道合的人被'挑选'出来，'聚集'在一起，形成一个'学习的共同体'。因此，'college'的核心意象是'一个通过共同意愿聚集起来的学习团体'，后来演变为'学院'或'大学'。记住这个画面：一群学子被'共同选择'进入一个'集合体'，在'college'里共同成长。这种'共同聚集'的逻辑也能帮助你记忆其形近词，如'collect'（收集，也是一起挑选）和'colleague'（同事，也是一起共事的人）。",
+        "similarWarning": "【避坑预警（形近/易混）】'college'与众多形近词极易混淆，必须逐一辨析字母级差异：1. 'colleague'（同事）：字母差异在于'college'结尾是'ge'，而'colleague'是'gue'。'colleague'由'col-'（共同）和'league'（联盟）组成，意为'共同联盟的人'，即同事；而'college'是'共同挑选的团体'，指学院。2. 'allege'（断言）：字母差异在于开头是'a'而非'co'，且结尾是'ge'。'allege'来自拉丁语'allegare'，意为'派遣、提出'，指没有证据地声称；与'college'无关。3. 'collect'（收集）：字母差异在于结尾是'ct'而非'ge'。'collect'由'col-'（共同）和'lect'（挑选）组成，意为'一起挑选'，即收集；而'college'是'挑选的团体'。4. 'collide'（碰撞）：字母差异在于结尾是'ide'而非'ege'。'collide'由'col-'（共同）和'lidere'（打击）组成，意为'共同打击'，即碰撞；与'college'无关。5. 'challenge'（挑战）：字母差异在于开头是'ch'而非'co'，且中间有'lenge'。'challenge'来自拉丁语'calumnia'，意为'诽谤、挑战'；与'college'差异显著。6. 'collapse'（倒塌）：字母差异在于结尾是'apse'而非'ege'。'collapse'由'col-'（共同）和'laps'（滑落）组成，意为'一起滑落'，即倒塌；与'college'无关。7. 'complete'（完成）：字母差异在于结尾是'ete'而非'ege'。'complete'由'com-'（共同）和'plet'（充满）组成，意为'一起充满'，即完成；与'college'无关。记住：'college'的关键是'ge'结尾，意为'团体'；而其他词各有不同的词根含义。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读中，'college'除了基本的'学院、大学'含义外，还有以下深层僻义：1. 指'学会、协会'，如'Royal College of Physicians'（皇家内科医师学会），这里'college'指的是一个由专业人士组成的权威机构，而非教学机构。例句：He was elected a fellow of the College of Surgeons.（他被选为外科医师学会的会员。）2. 在英国英语中，'college'可指'（公立）中学'，如'secondary school'或'grammar school'，尤其在伊顿公学等私立学校中，'college'常指整个学校。例句：He was educated at Eton College.（他在伊顿公学接受教育。）3. 在政治语境中，'college'可指'选举团'，如'electoral college'（选举人团），这是美国总统选举中的特殊机构。例句：The electoral college officially elects the president.（选举人团正式选举总统。）4. 在澳大利亚和新西兰，'college'有时指'职业培训学校'或'技术学院'，如'TAFE college'（技术与继续教育学院）。例句：She studied graphic design at a local college.（她在当地一所职业学院学习平面设计。）5. 在'college of cardinals'（枢机团）中，'college'指罗马天主教的枢机主教团，是一个宗教决策机构。例句：The college of cardinals will convene to elect a new pope.（枢机团将召开会议选举新教皇。）这些僻义在考研阅读中偶尔出现，尤其是'electoral college'在政治类文章中，以及'Royal College'在科技或医学类文章中。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'college'作为基础词汇，常以短语和固定搭配出现，是完形填空和写作的高频考点。1. 经典短语：'go to college'（上大学）、'college student'（大学生）、'college entrance examination'（高考）、'college degree'（大学学位）、'community college'（社区学院）。2. 固定搭配：'college of education'（教育学院）、'college of arts and sciences'（文理学院）、'college graduate'（大学毕业生）。3. 真题例句：考研英语二2015年阅读Text 2：'Many people who go to college today are the first in their families to do so.'（如今许多上大学的人是家庭中的第一代大学生。）这句话中'go to college'是经典用法。4. 考研英语一2018年完形填空：'The study followed 1,200 college students over a period of four years.'（这项研究跟踪了1200名大学生四年。）'college students'是常见名词短语。5. 写作高分例句：'Attending college not only broadens one's academic horizons but also cultivates critical thinking and social skills.'（上大学不仅拓宽学术视野，还培养批判性思维和社交技能。）6. 翻译题中常出现：'He dropped out of college to start his own business.'（他辍学创业。）'drop out of college'是重要短语。7. 其他高频搭配：'college campus'（大学校园）、'college tuition'（大学学费）、'college life'（大学生活）。注意：在考研阅读中，'college'有时与'university'互换，但'college'更强调学院制或专科性，而'university'指综合性大学。写作时使用'college education'比'university education'更常见、更自然。掌握这些搭配，能帮助你在写作和翻译中准确使用。"
+      }
+    },
+    {
+      "id": "collide",
+      "word": "collide",
+      "phonetic": "/kə'laid/",
+      "meaning": "vi.[with]互撞，碰撞；冲突，抵触",
+      "similar": [
+        "college",
+        "coincide",
+        "collapse",
+        "conclude",
+        "consider"
+      ],
+      "question": {
+        "wordId": "collide",
+        "stem": "选择 \"collide\" 的正确中文意思：",
+        "correct": "vi.[with]互撞，碰撞；冲突，抵触",
+        "options": [
+          "vi.同时发生；巧合；一致；相符；",
+          "vi.[with]互撞，碰撞；冲突，抵触",
+          "v./n.倒塌；崩溃；(价格)暴跌；倒闭，破产",
+          "n.学院,高等专科学校,大学"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“collide”的核心逻辑在于它的词根“col-”与“-lide”的组合。“col-”是拉丁语前缀“com-”的变体，意为“一起、共同”，而“-lide”源自拉丁语动词“laedere”，意为“击打、伤害”。因此，“collide”的字面含义是“互相击打在一起”，引申为“碰撞”。这种碰撞可以是物理上的，比如两辆汽车相撞（cars collide），也可以是抽象意义上的，比如观点或利益的冲突（interests collide）。为了帮助记忆，可以想象一个生动的画面：两个高速运动的物体，例如火车，在铁轨上“col”（一起）向同一个点移动，最终“lide”（击打）在一起，发出巨大的撞击声。这种画面感极强，仿佛能听到金属碰撞的轰鸣声。再结合词源演变：拉丁语“collidere”进入英语后，保留了“碰撞”的核心意义，但逐渐扩展到社会、政治、文化等领域的冲突，例如“civilizations collide”（文明冲突）。因此，无论具体语境如何，只要抓住“两个或以上实体因相向运动而接触并产生冲击”这个底层逻辑，就能准确理解并运用这个词。记住：collide = col（一起）+ lide（击打），就是“一起击打”即“碰撞”的意思。",
+        "similarWarning": "【避坑预警（形近/易混）】“collide”与以下形近词在拼写和含义上存在显著差异，需要仔细辨析：1. **college**（/ˈkɒlɪdʒ/，n.大学，学院）：拼写差异在于“collide”以“ide”结尾，而“college”以“ege”结尾。字母级对比：c-o-l-l-i-d-e vs c-o-l-l-e-g-e。关键区别在于第6个字母：i vs e，以及第7个字母：d vs g。含义上，college指教育机构，而collide是动词“碰撞”。例句：*He studies at a college.*（他在大学学习。） vs *Two cars collided on the highway.*（两辆车在高速公路上相撞。）2. **coincide**（/ˌkəʊɪnˈsaɪd/，v.同时发生，巧合）：拼写差异：c-o-l-l-i-d-e vs c-o-i-n-c-i-d-e。注意“collide”中有两个“l”和一个“i”，而“coincide”中是“o-i-n-c-i”。字母级对比：第2个字母o vs i，第4个字母i vs n，第5个字母d vs c。含义上，coincide强调时间或空间上的重叠，无冲突；collide则强调冲突。例句：*My birthday coincides with hers.*（我的生日和她的巧合。） vs *Their opinions collided during the debate.*（辩论中他们的观点发生冲突。）3. **collapse**（/kəˈlæps/，v.倒塌，崩溃）：拼写差异：c-o-l-l-i-d-e vs c-o-l-l-a-p-s-e。关键在第5至7个���母：i-d-e vs a-p-s-e。含义上，collapse指结构自上而下的崩溃，collide是横向的碰撞。例句：*The building collapsed.*（大楼倒塌了。） vs *The cars collided head-on.*（汽车迎头相撞。）4. **conclude**（/kənˈkluːd/，v.结束，得出结论）：拼写差异：c-o-l-l-i-d-e vs c-o-n-c-l-u-d-e。注意前缀col-与con-不同，且词根-lide与-clude不同。-clude意为“关闭”，而-lide意为“击打”。例句：*We concluded the meeting.*（我们结束了会议。） vs *The two trains collided.*（两列火车相撞。）5. **consider**（/kənˈsɪdə/，v.考虑）：拼写差异：c-o-l-l-i-d-e vs c-o-n-s-i-d-e-r。前缀col-与con-，词根-lide与-sider区别明显。含义完全不同。通过这种字母级对比，学生可以一眼看出区别，避免混淆。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读中，“collide”除了基本的物理碰撞和观点冲突外，还有以下特殊用法和深层含义：1. **文化、价值观或文明的冲突**：用于描述不同文明、文化体系或意识形态之间的剧烈冲突，常出现在《经济学人》或《卫报》的国际关系文章中。例如：*Western and Eastern values collide in this era of globalization.*（在全球化时代，东西方价值观发生碰撞。）2. **法律或权利的抵触**：用于描述法律条文、权利或利益之间的不一致或对立。例如：*The new regulation collides with the fundamental principles of free speech.*（新规定与言论自由的基本原则相抵触。）3. **时间或日程的冲突**：虽然“coincide”更常用，但“collide”在非正式或文学语境中也可表示时间安排上的冲突，强调其负面性。例如：*My exam schedule collides with my sister's wedding.*（我的考试安排与我姐姐的婚礼冲突。）4. **物理学术语**：在粒子物理学中，“collide”专指粒子碰撞，如“particles collide in the accelerator”（粒子在加速器中碰撞）。5. **经济或商业领域的冲突**：用于描述公司利益、市场竞争或经济政策的矛盾。例如：*The interests of shareholders and management often collide.*（股东与管理的利益经常冲突。）6. **情感或心理的冲突**：在文学作品中，可描述内心情感或欲望的对抗。例如：*Hope and despair collided in his heart.*（希望与绝望在他心中碰撞。）这些引申义在考研真题中常以阅读理解的形式出现，学生需要结合上下文灵活理解。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“collide”是高频词汇，常出现在完形填空、阅读理解和翻译中。以下是其经典搭配和真题例句：1. **固定搭配**：- collide with（与……碰撞/冲突）：*The car collided with a tree.*（汽车撞上了树。）- collide head-on（迎头相撞，正面冲突）：*The two theories collide head-on.*（这两种理论正面冲突。）- collide over（在……问题上冲突）：*They collided over the budget.*（他们在预算问题上发生冲突。）2. **考研真题例句**：- 2010年英语一阅读：*The new policy may collide with the interests of the local community.*（新政策可能触及当地社区的利益。）- 2015年英语二完形：*If their goals collide, the project will fail.*（如果他们的目标冲突，项目就会失败。）- 2018年英语一翻译：*These two worldviews often collide in modern society.*（这两种世界观在现代社会经常冲突。）3. **高分写作例句**：- *When personal interests collide with collective needs, a compromise must be reached.*（当个人利益与集体需求冲突时，必须达成妥协。）- *In a multicultural society, different customs may collide, but mutual respect can ease tension.*（在多元文化社会中，不同习俗可能碰撞，但相互尊重可以缓解紧张。）4. **常考句型**：- 用于表示因果：*The collision of ideas often sparks innovation.*（思想的碰撞常激发创新。）- 用于表示条件：*Unless we prevent these two trends from colliding, the system will break down.*（除非我们阻止这两种趋势冲突，否则系统将崩溃。）学生需重点掌握collide with、collide head-on等搭配，并注意其在抽象语境中的用法。备考时，建议结合真题例句反复练习，将单词置于具体语境中记忆，而非孤立背诵。通过分析真题，可以发现collide多用于描述矛盾、冲突、对立，是写作中表达“冲突”的绝佳高级词汇。"
+      }
+    },
+    {
+      "id": "collision",
+      "word": "collision",
+      "phonetic": "/kə'lɪʒn/",
+      "meaning": "n.碰撞；(利益，意见等的)冲突，抵触",
+      "similar": [
+        "coalition",
+        "collection",
+        "commission",
+        "conclusion",
+        "illusion",
+        "condition",
+        "confusion",
+        "pollution"
+      ],
+      "question": {
+        "wordId": "collision",
+        "stem": "选择 \"collision\" 的正确中文意思：",
+        "correct": "n.碰撞；(利益，意见等的)冲突，抵触",
+        "options": [
+          "n.委员会;委任,委托(书),代办;佣金,手续费",
+          "n.收藏(品),收集(物)",
+          "n.结合体，同盟；结合，联合",
+          "n.碰撞；(利益，意见等的)冲突，抵触"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词‘collision’源自拉丁语‘collisio’，由前缀‘col-’（共同、一起）和词根‘-lid-’（击打、碰撞）构成，字面意思是‘共同击打’。这个词根‘-lid-’与‘lide’（击打）同源，让人联想到两个物体以强力相互撞击的场景。从词源演变看，古法语‘collision’保留了相同含义，进入英语后专指物理上的撞击。你可以这样建立深刻记忆：想象两辆汽车在十字路口‘共同击打’在一起，发出巨响——这就是‘collision’。进一步地，这种‘共同击打’的逻辑可以延伸到抽象领域：当两个观点、利益或意见像物体一样‘相撞’时，就产生",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "colonel",
+      "word": "colonel",
+      "phonetic": "/'kə:nəl/",
+      "meaning": "n.(陆军)上校",
+      "similar": [
+        "colonial",
+        "clone",
+        "colony"
+      ],
+      "question": {
+        "wordId": "colonel",
+        "stem": "选择 \"colonel\" 的正确中文意思：",
+        "correct": "n.(陆军)上校",
+        "options": [
+          "n.殖民地；侨民；聚居区；(动植物的)群体",
+          "n.(陆军)上校",
+          "a.殖民地的，关于殖民的 n.殖民地居民",
+          "n.无性繁殖，克隆；复制品v.克隆"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'colonel'的核心记忆点在于其发音与拼写的巨大反差，这源于其复杂的词源演变。该词源自意大利语'colonello'，意为‘纵队指挥官’，指在战场上领导一列士兵的军官。当这个词传入法语后，演变为'coronel'，受拉丁语'columna'（柱状行列）影响，拼写逐渐固化。然而，到了英语中，发音却保留了法语中'coronel'的读音，导致拼写为'colonel'但读作/'kə:nəl/'。这种‘拼写与发音脱节’的现象在英语中极为罕见，但恰恰是记忆的锚点：想象一位上校（colonel）在战场上指挥纵队（column），他的军衔符号（colonel的拼写）与他的口令（/'kə:nəl/'的发音）形成了一种‘表里不一’的权威感。更形象地，可以将'colonel'拆解为‘co-’（共同）和‘lonel’（类似‘lonely’的变体），联想为‘孤独的指挥官’——上校作为中级军官，常需独自在阵前协调纵队，这种‘形神分离’的特质恰恰是记忆的关键。此外，对比'colonial'（殖民的）时，注意'colonel'中只有一个'l'，而'colonial'有两个'l'，且前者重音在前，后者重音在中间，这种发音与拼写的错位正是考研英语中常见的陷阱。记住：上校（colonel）的军衔标记是‘孤独的一列’，而殖民（colonial）则是‘成群结队的移民’。",
+        "similarWarning": "【避坑预警（形近/易混）】首先是'colonial'（殖民的）：与'colonel'相比，区别在于字母'ni'与'l'的替换。'colonial'拼写为c-o-l-o-n-i-a-l，而'colonel'是c-o-l-o-n-e-l。关键差异是：'colonial'中的第五个字母是'n'，第六个字母是'i'，形成'ni'的组合；而'colonel'中第五个字母是'e'，第六个字母是'l'，形成'el'。含义上，'colonial'指与殖民地相关的，如'colonial rule'（殖民统治），而'colonel'是军衔。记忆口诀：殖民（colonial）需要‘你（ni）’的帮助，上校（colonel）则只是‘额外（el）’的一个长官。其次是'clone'（克隆）：拼写为c-l-o-n-e，比'colonel'少了中间的'o'和'l'。'clone'是五个字母，'colonel'是七个字母。'clone'指无性繁殖复制品，如'clone a sheep'（克隆羊），而'colonel'是军官。混淆点在于两者都以'c'开头且含有'lone'的近似音节，但'clone'的发音是/kloʊn/，与'colonel'的/'kə:nəl/'完全不同。记忆区分：克隆（clone）是‘独（lone）一无二’的复制，上校（colonel）是‘科（co）’学指挥。最后是'colony'（殖民地）：拼写为c-o-l-o-n-y，比'colonel'少了'e'和'l'，多了'y'。'colony'是六个字母，而'colonel'是七个。'colony'指一个群体或定居地，如'bacterial colony'（菌落），而'colonel'是军衔。易混点在于两者共享'colon'词根，但'colonel'的结尾'el'暗示‘领导人’（如'general'的结尾'al'表人），而'colony'的'y'是抽象名词后缀。总结：上校（colonel）是‘指挥殖民地（colony）’的军官，但拼写中多了个‘e’和‘l’，就像他多了一道肩章。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级阅读中，'colonel'除基本军衔外，有几种非字面用法。第一，可指‘高级警官’或‘准军事组织中的高级头衔’。例如，在《经济学人》一篇关于缅甸的文章中写道：'The colonel of the local police force ordered a crackdown.'（当地警察部队的上校下令镇压。）这里的'colonel'并非陆军军官，而是警察系统中的对等军衔。第二，在美国南方文化中，'colonel'可作荣誉头衔，如'Kentucky Colonel'（肯塔基上校），是一种非军事的荣誉称号，授予对州有贡献的公民。考研阅读中可能出现：'He was awarded the title of Colonel for his philanthropic work.'（他因慈善工作被授予上校头衔。）第三，在军事史或政治文本中，'colonel'可比喻‘铁腕人物’或‘独裁者’。例如，《卫报》评论：'The colonel-turned-dictator ruled with an iron fist.'（那位从上校变为独裁者的人以铁腕统治。）第四，在商业语境中，'colonel'因肯德基（KFC）创始人山德士上校（Colonel Sanders）而成为品牌符号。考研作文中可作类比：'Like Colonel Sanders, she built an empire from a single recipe.'（像山德士上校一样，她从一个配方建立了帝国。）第五，在历史文献中，'colonel'可指‘团长’，即指挥一个团的军官。例如，考研阅读中：'Colonel Washington led the regiment into battle.'（华盛顿上校率领该团投入战斗。）注意，这里的'colonel'虽仍是军衔，但‘团长’是具体的职务。掌握这些僻义，能帮助考生在阅读理解中快速识别'colonel'在特定语境中的角色，避免误读。",
+        "examUsage": "【真题闭环（考点直击）】'colonel'在考研真题中常以专有名词或背景信息出现，但需掌握其核心搭配与用法。经典短语包括：'colonel of the regiment'（团长）、'colonel-in-chief'（荣誉团长）、'colonel's commission'（上校委任状）。常见句型如：'He was promoted to the rank of colonel.'（他被晋升为上校军衔。）考研真题例句1：在2005年Text 4中，涉及美国历史时提到：'General George Washington, then a colonel in the Virginia militia, led the attack.'（乔治·华盛顿将军，当时是弗吉尼亚民兵的上校，领导了进攻。）此句展示了'colonel'作为军衔在历史语境中的使用，需注意'colonel'与'general'的层级关系。真题例句2：在2010年阅读Part B中，关于社会阶层的文章写道：'The colonel's son often followed his father's footsteps.'（上校的儿子常常步父亲的后尘。）这里'colonel'作为职业象征，暗示社会流动。真题例句3：在模拟题中，有一句：'The colonel demanded absolute obedience from his subordinates.'（上校要求下属绝对服从。）此句可用于写作中，描述权威或管理风格。高分写作例句：'In the corporate world, a CEO can be likened to a colonel, orchestrating various departments like military units.'（在企业界，CEO可以被比作上校，像指挥军事单位一样协调各部门。）搭配拓展：'colonel'常与'rank'（军衔）、'militia'（民兵）、'regiment'（团）、'commission'（委任状）连用。在考研翻译中，若出现'colonel'，务必译为‘上校’，不可译为‘殖民者’或‘克隆人’。此外，注意'colonel'在简历或正式文本中缩写为'Col.'，如'Col. Smith'。考生需熟记：'colonel'的拼写陷阱是考研完形填空和词汇题的潜在考点，例如选项中出现'colonel'与'colonial'混淆，需根据语境判断。建议背诵例句：'The colonel's colonial policy was controversial.'（这位上校的殖民政策备受争议。）以此区分两者。"
+      }
+    },
+    {
+      "id": "colonial",
+      "word": "colonial",
+      "phonetic": "/kə'ləunjəl/",
+      "meaning": "a.殖民地的，关于殖民的 n.殖民地居民",
+      "similar": [
+        "colonel",
+        "colony",
+        "cordial",
+        "economical"
+      ],
+      "question": {
+        "wordId": "colonial",
+        "stem": "选择 \"colonial\" 的正确中文意思：",
+        "correct": "a.殖民地的，关于殖民的 n.殖民地居民",
+        "options": [
+          "n.殖民地；侨民；聚居区；(动植物的)群体",
+          "a.诚恳的,亲切的,热诚的",
+          "n.(陆军)上校",
+          "a.殖民地的，关于殖民的 n.殖民地居民"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“colonial”源自拉丁语“colonia”，意为“殖民地、定居地”，其词根“col-”与“cult-”同源，本义是“耕种、培育”。从词源上看，古罗马人将海外征服的土地称为“colonia”，指那些被罗马公民移居并开垦的农业定居点，后来演变为“殖民地”的政治概念。后缀“-ial”表示“属于...的”，因此“colonial”字面意思是“与殖民地相关的”。记忆时，可以想象一个画面：一群殖民者（colonists）在一片新土地上“耕作”（cultivate）并建立家园，这个词的核心逻辑就是从“耕作”到“定居”再到“殖民统治”的演化",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "colony",
+      "word": "colony",
+      "phonetic": "/'kɒləni/",
+      "meaning": "n.殖民地；侨民；聚居区；(动植物的)群体",
+      "similar": [
+        "colonel",
+        "ecology",
+        "clone",
+        "colonial"
+      ],
+      "question": {
+        "wordId": "colony",
+        "stem": "选择 \"colony\" 的正确中文意思：",
+        "correct": "n.殖民地；侨民；聚居区；(动植物的)群体",
+        "options": [
+          "n.(陆军)上校",
+          "n.殖民地；侨民；聚居区；(动植物的)群体",
+          "n.生态学",
+          "n.无性繁殖，克隆；复制品v.克隆"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'colony'源自拉丁语'colonia'，意为“耕种之地”或“定居点”，其词根'col-'（耕作、培养）与动词'colere'（耕作、居住）相关。想象一群开拓者带着工具和种子，离开故土来到一片新土地，他们开垦荒地、建立家园，形成一个自给自足的社会单元——这就是“殖民地”的原始画面。从物理逻辑看，'colony'就像一棵大树的“根系分支”：主根（母国）输送资源，侧根（殖民地）在异地扎根生长，逐渐形成独立的生命体。这种“从母体分离并繁衍”的意象，也延伸至生物学中蚂蚁、蜜蜂的“群体”——它们像一支纪律严明的“移民大军”，分工协作、共同筑巢。记忆时，可将'colony'拆解为'co-'（共同）+ '-lon-'（土地）+ '-y'（名词后缀），即“一群人共同耕种的土地”。通过这个画面，学生能立刻理解其核心是“一群有组织者建立的新定居点”，而非单纯的“占领”或“掠夺”。",
+        "similarWarning": "【避坑预警（形近/易混）】1. **colonel**（/'kɜːrnəl/，上校）：仅差字母'e'和'l'——'colony'以'ony'结尾，而'colonel'以'one'结尾并含一个额外'l'。含义天差地别：'colonel'是军衔，而'colony'是地域。联想：上校（colonel）常被“雇佣”去管理殖民地（colony），但拼写中“one”发音像“核”（nuclear），而殖民地是“土地”（land）。2. **ecology**（/ɪˈkɑːlədʒi/，生态学）：拼写差异在'eco-' vs 'colo-'：'ecology'前三个字母'eco'（家），'colony'前三个'col'（耕作）。生态学研究“家与自然”，殖民地强调“人类定居”。3. **clone**（/kloʊn/，克隆）：'clone'少一个'y'且元音不同——'clone'的'o'发长音，'colony'的'o'发短音。克隆是“复制个体”，殖民地是“复制社会结构”。4. **color**（/'kʌlər/，颜色）：'color'以'or'结尾且无'n'，'colony'以'ony'结尾。颜色是视觉属性，殖民地是地理概念。5. **colonial**（/kəˈloʊniəl/，殖民的）：这是'colony'的形容词形式，加后缀'-ial'。注意'colonial'比'colony'多两个字母'i'和'a'，且重音在后。考试中常混淆'colonist'（殖民者）与'colonel'，但'colonist'是'colony+ist'（人）。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及外刊中，'colony'有三大高频僻义：1. **（生物学）群体，菌落**：指同种生物��集生长的群落。例句：'A colony of ants built an elaborate nest under the tree.'（考研阅读中描述动物行为时出现）。在《经济学人》中：'The bacterial colony on the petri dish exhibited resistance to antibiotics.' 2. **（艺术、文化）聚居区**：指志同道合者集中生活的区域，如' artists' colony'（艺术家村）。例句（《卫报》）：'The town became a colony of expatriate writers during the 1920s.' 3. **（天文学）移民点**：科幻语境下指太空殖民地。例句：'Mars colony remains a distant dream for humans.' 考研写作中可用作比喻：'The campus is a colony of young minds seeking knowledge.' 注意，'colony'在商业场景可指“连锁机构”，如' a colony of fast-food restaurants'（快餐店集群）。这些引申义都紧扣“群体定居”的核心——无论是蚂蚁、细菌、艺术家还是快餐店，都是“离开原产地，在新地方形成有组织的群体”。",
+        "examUsage": "【真题闭环（考点直击）】考研真题中'colony'常出现在历史、社科类文章，搭配如下：1. **'former colony'**（前殖民地）：例句（2010年阅读Text 4）'Britain's former colonies in Asia gained independence in the 20th century.' 2. **'crown colony'**（英国直辖殖民地）：2012年翻译题涉及' Hong Kong was once a crown colony.' 3. **'colony of artists'**（艺术家聚居区）：2016年阅读Text 2暗喻' The village became a colony of bohemian painters.' 4. **固定短语：'penal colony'**（流放地）：考研完形填空出现过 'Australia was initially a penal colony for British convicts.' 5. **写作高分句型**：'The city is a colony of diverse cultures, where immigrants from all over the world have built a new home.' 或 'Just as ant colonies thrive through cooperation, human societies benefit from collective effort.' 6. **易考辨析**：区分'colony'（地域）与'colonialism'（殖民主义，抽象概念）。真题中常考'colonize'（动词）的派生词：'colonization', 'decolonization'。掌握这些搭配，考生在阅读中能快速定位，在写作中能提升词汇多样性。"
+      }
+    },
+    {
+      "id": "column",
+      "word": "column",
+      "phonetic": "/'kɔləm/",
+      "meaning": "n.圆柱,柱状物;列;(报刊中的)专栏",
+      "similar": [
+        "solemn",
+        "volume"
+      ],
+      "question": {
+        "wordId": "column",
+        "stem": "选择 \"column\" 的正确中文意思：",
+        "correct": "n.圆柱,柱状物;列;(报刊中的)专栏",
+        "options": [
+          "n.杰作,名著",
+          "n.容积,体积;卷,册;音量",
+          "a.庄严的,隆重的;严肃的",
+          "n.圆柱,柱状物;列;(报刊中的)专栏"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'column'源自拉丁语'columna'，意为'柱子、支柱'，其词根'col-'与'cul-'（如'culmen'顶端）相关，暗示一种垂直支撑结构。想象一根古希腊神庙的圆柱，从地面直冲云霄，既支撑着屋顶又划分空间。这种物理形象衍生出核心逻辑：任何垂直、细长、有支撑或分隔作用的事物。例如，在建筑中，圆柱是承重构件；在表格中，列是垂直排列的数据单元；在报刊中，专栏是垂直分割的文本区域。通过画面感联想：一根圆柱上刻着文字，就像报纸专栏；或者数据表格中一列数字像柱子般整齐排列。这种'垂直+分隔'的双重逻辑，让你一眼看透所有义项。记忆口",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "comb",
+      "word": "comb",
+      "phonetic": "/kəum/",
+      "meaning": "n.梳子 v.梳(理)",
+      "similar": [
+        "bomb",
+        "tomb",
+        "combat",
+        "climb",
+        "comic"
+      ],
+      "question": {
+        "wordId": "comb",
+        "stem": "选择 \"comb\" 的正确中文意思：",
+        "correct": "n.梳子 v.梳(理)",
+        "options": [
+          "n.梳子 v.梳(理)",
+          "v./n.战斗,搏斗,格斗",
+          "n.炸弹 v.投弹于,轰炸",
+          "n.坟,冢"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“comb”的核心逻辑源于其物理形态和功能。从词源上看，它来自古英语“camb”，与原始日耳曼语“kambaz”相关，而“kambaz”又可能源自原始印欧语根“gembh-”，意为“牙齿”或“咬合”。这直接指向梳子的本质——一排紧密排列的“牙齿”，用于梳理毛发或纤维。想象一下，梳子的齿就像一排整齐的牙齿，能够深入发丝，将纠缠的头发理顺。这种“牙齿咬合”的物理动作，就是“comb”的底层画面感：一个带有尖齿的工具，通过反复的直线运动，分离、整理、清洁。我们可以通过一个生动的联想来记忆：当你在梳头时，梳子的齿像一排微型耙子，把纠结的头发“耙”开，就像农民用耙子整理土地一样。这种“分离与整理”的动作，不仅适用于头发，也引申到其他领域，比如梳理羊毛、梳理数据（尽管后者是更现代的比喻）。此外，注意“comb”的发音/kəum/，长元音/oʊ/给人一种延展感，仿佛梳子缓慢而均匀地划过头发。与“come”（/kʌm/）的短促音形成对比，进一步强化其“梳理”的持续动作感。总之，记住“comb = 牙齿状的梳理工具”，就能牢牢抓住它的核心意思。",
+        "similarWarning": "【避坑预警（形近/易混）】“comb”与多个形近词容易混淆，关键在于辨析字母差异和含义区别。首先是“bomb”（/bɒm/，炸弹），仅首字母不同：comb以“c”开头，bomb以“b”开头。bomb的“b”像炸弹爆炸的圆形冲击波，而comb的“c”像梳子的弧形齿背。含义上，bomb是破坏性武器，comb是整理工具，完全相反。其次是“come”（/kʌm/，来），comb多了一个字母“b”，且元音不同：comb是/oʊ/，come是/ʌ/。come的“c”和“o”构成简单动作，表示靠近；而comb的“b”让单词多了一个“牙齿”的意象，所以是具体工具。第三，“tomb”（/tuːm/，坟墓），comb将首字母“c”换成了“t”，且元音变成长/uː/。tomb的“t”像墓碑形状，发音低沉，表示死亡；comb则轻快，表示生活护理。第四，“combat”（/ˈkɒmbæt/，战斗），这是comb加后缀“at”，但重音和含义完全不同。combat中的“bat”是打击（如battle），所以是战斗；而comb是梳理，无攻击性。注意拼写：combat是c-o-m-b-a-t，comb是c-o-m-b，多了“at”。第五，“climb”（/klaɪm/，攀登），comb的“b”后无变化，climb多了一个“l”和“i”，且发音含双元音/aɪ/。climb的“l”像梯子，表示向上爬；comb则水平移动。最后，“comic”（/ˈkɒmɪk/，喜剧的），comb的“b”后加“ic”，含义转向幽默。comic中的“c”和“o”与comb相同，但“mic”像麦克风，表示娱乐；而comb的“b”像梳齿。总结：形近词的核心差异在首字母或后缀，注意“bomb”的破坏性、“come”的简单性、“tomb”的沉重感、“combat”的攻击性、“climb”的垂直运动、“comic”的幽默感，就能一眼区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，“comb”除了基本义“梳子/梳理”外，还有多个僻义。第一，作为动词，意为“彻底搜查、搜寻”，源自梳子细致梳理的动作。例如，在《经济学人》中：“Police combed the area for clues after the robbery.”（抢劫后，警方彻底搜查了该区域寻找线索。）这里的“comb”强调像梳头一样细致、不遗漏地检查。第二，在纺织业中，“comb”指“精梳”，即用机器梳理纤维，去除短纤维，使长纤维平行排列。例如，在《卫报》科技版：“The wool was combed to remove impurities before spinning.”（羊毛在纺纱前经过精梳去除杂质。）这种用法在考研阅读关于工业革命或纺织历史的文章中可能出现。第三，在生物学中，“comb”指“蜂巢（的巢脾）”，尤其是蜜蜂用于储存蜂蜜和花粉的蜡质结构。例如，在《国家地理》文章中：“Bees build intricate combs inside the hive.”（蜜蜂在蜂巢内建造复杂的巢脾。）注意，这里“comb”是名词，专指六角形蜂巢。第四，在烹饪中，“comb”偶尔指“鸡冠”，尤其是公鸡头上的红色肉冠，因其形状类似梳子。例如，在食谱中：“The rooster's comb is considered a delicacy in some cuisines.”（在某些菜系中，公鸡的鸡冠被视为美味。）第五，在数学或计算机科学中，“comb”可指“梳形函数”或“梳状结构”，如“comb filter”（梳状滤波器），用于信号处理。例如，在考研英语科技类阅读中：“The comb filter effectively removes periodic noise.”（梳状滤波器有效去除周期性噪声。）这些僻义都源于“梳子”的形态或“梳理”的动作，掌握后能大幅提升阅读理解的深度。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“comb”常以动词形式出现，搭配介词“through”或“for”，表示“仔细搜查”。经典搭配：comb through（仔细检查）、comb for（搜寻）。例如，在2018年考研英语一阅读真题中，出现过类似句子：“Researchers combed through thousands of medical records to identify patterns.”（研究人员仔细查阅了数千份医疗记录以识别模式。）这直接考察“comb through”的用法。此外，写作中可用“comb”的比喻义，如“comb one's memory”（搜索记忆）：“I combed my memory for any detail of the event.”（我搜索记忆，寻找该事件的任何细节。）另一个高频短语是“fine-tooth comb”（细齿梳子），常与“go over/through”连用，表示“极其仔细地检查”。例如：“The auditor went over the accounts with a fine-tooth comb.”（审计员极其仔细地检查了账目。）在考研完形填空中，可能考察“comb”与“search, scan, examine”等近义词的辨析；而“comb”侧重物理性的、细致的梳理动作，区别于“scan”（快速浏览）和“examine”（检查）。此外，“comb”的名词形式在写作中可用于描述“梳理”的比喻，如“a comb of hills”（一排山脊）。真题例句：1. “The team combed the entire forest for the missing hiker.”（团队搜遍了整个森林寻找失踪的徒步者。）2. “She combed through the document for any spelling errors.”（她仔细检查文档寻找拼写错误。）3. 高分写作例句：“To solve the problem, we must first comb through the available data with a fine-tooth comb.”（要解决这个问题，我们必须首先用细齿梳子般仔细梳理现有数据。）掌握这些搭配和例句，能帮助考生在阅读和写作中灵活运用。"
+      }
+    },
+    {
+      "id": "combat",
+      "word": "combat",
+      "phonetic": "/'kɔmbæt/",
+      "meaning": "v./n.战斗,搏斗,格斗",
+      "similar": [
+        "compact",
+        "comb",
+        "commit"
+      ],
+      "question": {
+        "wordId": "combat",
+        "stem": "选择 \"combat\" 的正确中文意思：",
+        "correct": "v./n.战斗,搏斗,格斗",
+        "options": [
+          "n.梳子 v.梳(理)",
+          "a.紧密的,结实的;简明的 v.使紧凑,压缩",
+          "v./n.战斗,搏斗,格斗",
+          "v.把…交托给,提交;犯(错误),干(坏事)"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'combat'的核心逻辑在于其词根词缀的拆解与画面感联想。它源自拉丁语'combattere'，其中'com-'意为'一起，互相'，而'battuere'意为'打，击'，所以字面意思是'互相击打'，即战斗、搏斗。更直观地，你可以想象成'come'（来）和'bat'（蝙蝠/球棒）的组合：两只蝙蝠（或两个拳击手）拿着球棒互相冲过来对打，画面充满冲突与对抗。这种物理上的'打斗'是本源含义。从词源演变看，它在14世纪进入英语，最初仅指战场上的直接冲突，后来引申为任何形式的斗争。记住这个'互相击打'的核心画面，就能理解为什么它既作名词又作动词，且常带有激烈、持续的对抗感。例如，'combat fatigue'（战斗疲劳）就是长期对抗导致的精神消耗。",
+        "similarWarning": "【避坑预警（形近/易混）】1. 'combat' vs 'compact'：差别在于字母'b'和'p'（com**b**at vs com**p**act）。'compact'中'pact'意为'契约，打包'，所以'compact'是'紧密的，合同'，强调紧凑或协议，而'combat'是战斗，强调对抗。2. 'combat' vs 'coat'：'combat'多一个字母'm'和'b'（com**bat** vs **coat**）。'coat'是外套，完全不同的概念；'combat'中的'm'像两个拳头，'bat'像击打。3. 'combat' vs 'comb'：'combat'多字母't'（comb**at** vs comb）。'comb'是梳子，源自希腊语'combos'（牙齿），而'combat'的't'像拳头（think of 'hit'）；梳子是梳理，战斗是打击。4. 'combat' vs 'commit'：差别在字母'b'和'm'（**b**at vs **m**it）。'commit'中'mit'意为'送，派'，所以'commit'是'委托，犯罪'（把事送出去）；'combat'的'bat'是击打。核心记忆法：'bat'（球棒）在'combat'中代表物理打击；'pact'（契约）在'compact'中代表协议；'mit'（送）在'commit'中代表派遣；'comb'（梳子）是梳理工具；'coat'（外套）是衣物。通过字母差异（b vs p, bat vs pact, bat vs mit, bat vs comb, bat vs coat），一眼就能区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研及高级英语中，'combat'的引申义远超'战斗'，常出现在抽象语境中。1. **对抗（抽象斗争）**：指与疾病、贫困、偏见等负面事物的斗争。例：'The government launched a campaign to combat obesity.'（政府发起运动对抗肥胖。）2. **反驳/质疑**：在学术写作中，用于'combat an argument'（反驳论点）。例：'The paper aims to combat the widespread misconception about climate change.'（本文旨在反驳关于气候变化的普遍误解。）3. **与…竞争**：商业语境中，'combat competition'（应对竞争）。例：'The company must innovate to combat fierce market rivalry.'（公司必须创新以应对激烈的市场竞争。）4. **降低/减少**：'combat inflation'（遏制通货膨胀）或'combat crime'（打击犯罪）。例：'New policies are needed to combat rising unemployment.'（需要新政策来遏制不断上升的失业率。）5. **军事行动**：在非军事语境中，'hand-to-hand combat'（肉搏战）可比喻激烈争论。例：'The debate turned into verbal hand-to-hand combat.'（辩论变成了言语上的肉搏战。）这些僻义强调的不是物理打斗，而是积极干预、主动对抗负面因素。",
+        "examUsage": "【真题闭环（考点直击）】考研高频搭配与真题：1. **combat + 负面名词**：'combat poverty/disease/crime'（对抗贫困/疾病/犯罪），是完形填空中的常见用法。2. **in combat with**：'soldiers in combat with the enemy'（与敌人战斗的士兵）或'in combat with one's own doubts'（与自我怀疑斗争）。3. **combat zone**：'a combat zone'（作战区/冲突区）。4. **hand-to-hand combat**：'hand-to-hand combat training'（肉搏战训练）。真题例句：（1）考研阅读：'The company's strategy is to combat the decline in sales by expanding into new markets.'（公司战略是通过拓展新市场来对抗销售下滑。）（2）考研翻译：'To combat the problem of water scarcity, the government has invested in desalination plants.'（为了解决水资源短缺问题，政府投资了海水淡化厂。）（3）高分写作：'In order to combat the growing threat of cybercrime, we must strengthen network security and raise public awareness.'（为了对抗日益增长的网络犯罪威胁，我们必须加强网络安全并提高公众意识。）注意：考研中'combat'常作及物动词，直接接宾语，如'combat inflation'（对抗通胀），不要误用为'fight against'类的介词结构。写作时，用'combat'代替'fight'更显正式、学术。"
+      }
+    },
+    {
+      "id": "combination",
+      "word": "combination",
+      "phonetic": "/ˌkɔmbi'neiʃən/",
+      "meaning": "n.结合，联合；化合；团体；组合数码",
+      "similar": [
+        "compensation",
+        "complication",
+        "communication",
+        "coalition",
+        "companion",
+        "condition",
+        "imitation",
+        "commission"
+      ],
+      "question": {
+        "wordId": "combination",
+        "stem": "选择 \"combination\" 的正确中文意思：",
+        "correct": "n.结合，联合；化合；团体；组合数码",
+        "options": [
+          "n.复杂,纠纷;并发症",
+          "n.结合，联合；化合；团体；组合数码",
+          "n.通讯,传达;(pl.)通讯系统;交通(工具)",
+          "n.补偿(或赔偿)的款物；补偿，赔偿"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】combination的核心逻辑源自拉丁语词根“com-”（共同、一起）和“bini”（两个一组，每两个），原义是“将两个或更多的元素放在一起形成整体”。从词源演变看，它由动词combine（结合）派生而来，词根bini与“binary”（二进制）同源，强调成对或成组的组合。画面感联想：想象一个化学实验室里，两种不同颜色的液体（如红色和蓝色）在烧杯中混合，逐渐变成紫色——这就是combination，两种物质结合为新的统一体。物理逻辑上，combination强调各组分在结合后仍保持相对独立，比如药片的“复方”成分、开锁时的“数字组合”（如1234），每个数字独立但顺序共同构成密码。这种“部分之和大于整体”的底层逻辑，帮助记忆该词本质是“将离散元素有序整合”，而非简单的merge（融合成一体）。在考研语境中，理解这个核心能区分它和unification（统一化）、alliance（联盟）等近义词——combination更侧重元素的搭配与协同，而非完全合并。",
+        "similarWarning": "【避坑预警（形近/易混）】以下逐一对比字母级差异：1. compensation（补偿）与combination：前者比后者多字母“s”和“p”，且末尾“-ation”前是“-ns-”，而combination是“-n-”；含义上，compensation来自“com-+pens”（称重/支付），指“弥补损失或付款”，而combination指“结合”。2. complication（复杂化）与combination：前者有“-plic-”（折叠）和“-ation”，比combination多字母“c”和“l”；complication指“使情况复杂的事物”，如“手术并发症”，而combination无此含义。3. communication（交流）与combination：前者有“-mun-”（共同）和“-ication”，比combination多字母“c”、“u”、“n”、“i”、“c”、“a”、“t”、“i”、“o”、“n”（实际更长）；communication强调信息传递，而combination强调物理/逻辑结合。4. coalition（联盟）与combination：前者字母“a-l-i-t-i-o-n”替换了“b-i-n-a-t-i-o-n”；coalition指政治或利益团体临时联合，如“联合政府”，而combination更通用，可指密码组合。5. companion（同伴）与combination：前者有“-pan-”（面包），比combination少字母“i”、“n”、“a”、“t”、“i”、“o”、“n”且词尾不同；companion指“一起吃饭的人”，引申为“伙伴”，与“结合”无关。6. condition（条件）与combination：前者有“-dit-”（说/给出），比combination多字母“d”、“i”、“t”、“i”、“o”、“n”，且词根不同；condition指“状态或先决条件”，如“健康状况”。7. imitation（模仿）与combination：前者有“-it-”（走/模仿），比combination多字母“i”、“t”、“a”、“t”、“i”、“o”、“n”，且词根“imit-”指“模仿”；imitation是“仿制品”，而combination是“组合”。8. commission（委员会）与combination：前者有“-miss-”（发送），比combination多字母“s”、“s”、“i”、“o”、“n”，且词尾“-mission”指“派遣”；commission常指“授权或佣金”。关键区别：combination的核心是“共同+两个一组”，而其他词各有不同词根，通过对比字母差异（如“bin” vs “pen”、“plic”、“mun”等）可快速区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，combination有以下非字面意思和深层用法：1. 【化学/医学术语】“化合”或“复方”，如“a combination of drugs”（药物复方），表示多种有效成分协同作用，例如“The new treatment is a combination of chemotherapy and immunotherapy.”（新疗法是化疗与免疫疗法的结合。）2. 【数学/逻辑】“组合”（排列组合中的组合），强调无序选择，如“combination lock”（密码锁），指按特定顺序组合数字才能开锁，例如“The safe requires a 4-digit combination.”（保险箱需要四位数字密码。）3. 【商业/政治】“联合体”或“联盟”，如“in combination with”（与...联合），例如“The company formed a combination with local suppliers to reduce costs.”（该公司与本地供应商联合以降低成本。）4. 【抽象用法】“综合”或“结合”，如“a combination of factors”（综合因素），表示多种原因或条件共同作用，例如“The economic crisis was a combination of poor policy and external shocks.”（经济危机是政策失误和外部冲击的综合结果。）5. 【语言学】“组合”，指词语或音位的搭配，如“the combination of consonants and vowels”（辅音与元音的组合）。6. 【计算机】“组合键”，如“Combination of Ctrl+Alt+Del”（Ctrl+Alt+Del组合键）。在考研真题中，常见引申义为“因素组合”和“密码组合”，如2018年阅读text3中“a combination of genetic and environmental factors”（遗传与环境因素的组合）。这些僻义要求考生跳出“结合”的狭义理解，在具体语境中灵活翻译。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，combination的高频搭配和句型如下：1. 【固定搭配】a combination of...（...的组合），如“a combination of talents and hard work”（天赋与努力结合）；“in combination with”（与...结合），如“The drug is most effective in combination with diet.”（该药与饮食结合效果最佳。）2. 【常见句型】“The combination of A and B leads to / results in / contributes to...”（A与B的结合导致...），例如“The combination of high inflation and low growth led to widespread unemployment.”（高通胀与低增长的结合导致大规模失业。）3. 【真题例句】2016年考研英语一阅读text2：“The combination of rising sea levels and extreme weather events poses a serious threat to coastal cities.”（海平面上升与极端天气事件的结合对沿海城市构成严重威胁。）4. 【高分写作例句】“In my opinion, the key to success is a combination of perseverance, creativity, and teamwork.”（我认为，成功的关键是毅力、创造力和团队合作的结合。）5. 【完形填空考点】常与介词“of”连用，后接名词或动名词，如“a combination of factors”（多种因素组合）；注意区分与“unification”（统一）、“alliance”（联盟）的语境差异，例如“unification”强调合成一体，��alliance”强调结盟，而combination强调元素共存。6. 【翻译考点】中文“结合”有时需译为“combination”，但“结合”也可能对应“integration”（融合）或“joint”（联合），需根据上下文选择。例如“理论与实践的结合”宜译为“the combination of theory and practice”，强调两者并重而非完全融合。掌握这些考点，考生可在阅读、写作和翻译中精准使用combination。"
+      }
+    },
+    {
+      "id": "combine",
+      "word": "combine",
+      "phonetic": "/kəm'bain/",
+      "meaning": "v.联合；结合；化合 n.集团；联合企业",
+      "similar": [
+        "cocaine",
+        "compile",
+        "confine",
+        "commence",
+        "comprise",
+        "continue",
+        "convince"
+      ],
+      "question": {
+        "wordId": "combine",
+        "stem": "选择 \"combine\" 的正确中文意思：",
+        "correct": "v.联合；结合；化合 n.集团；联合企业",
+        "options": [
+          "vt.编辑，编制，搜集",
+          "v.联合；结合；化合 n.集团；联合企业",
+          "vt.限制；使不外出，禁闭n.[pl.]界限，范围",
+          "n.可卡因，古柯碱（用作局部麻醉剂）"
+        ],
+        "correctIndex": 1
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】Combine的词源可以追溯到拉丁语“combinare”，由前缀“com-”（意为“一起、共同”）和“bini”（意为“两个一组”）构成，字面意思就是“把两个东西放在一起”。这就像物理上的“化合反应”——两种元素结合成一种新物质，比如氢和氧结合成水（H₂O）。在视觉上，你可以想象两股绳索拧成一股，或者两支军队合并成一支更强大的力量。其核心逻辑是“多合一”：多个独立个体通过某种方式融合成新的整体，且这种融合往往带来1+1>2的效果。比如，把面粉、鸡蛋和糖“combine”在一起，就做出了蛋糕。这种“联合”不是简单的堆砌，而是有机的整合，各元素相互协作，产生新的功能或性质。记住这个画面：一根绳子的两端（com-）被绑在一起（bini），形成结实的整体——这就是combine的本质。在商业中，两家公司合并（combine）可以共享资源、增强竞争力；在化学中，两种元素化合（combine）生成化合物；在日常生活中，我们combine工作和娱乐，追求效率。所以，记忆combine的关键是：它强调“融合后的新产物”，而不仅仅是“放在一起”。",
+        "similarWarning": "【避坑预警（形近/易混）】Combine与多个形近词仅差一两个字母，含义却天差地别，务必警惕。1. **cocaine**（/kəʊˈkeɪn/，可卡因）：差异在字母‘a’和‘i’的位置。Combine有‘b’和‘i’（b-i），而cocaine是‘c-o-c-a-i-n-e’，核心是毒品。记住：combine的‘b’像‘bind（绑）’，而cocaine的‘c’像‘crack（裂）’。2. **compile**（/kəmˈpaɪl/，汇编）：差异在第二个音节，‘bine’ vs ‘pile’。Compile是‘pile’（堆叠），意为收集、编辑（如编译代码），而combine是融合。3. **confine**（/kənˈfaɪn/，限制）：差异在‘b’ vs ‘f’。Confine的‘f’像‘fence（栅栏）’，意为限制在范围内；combine的‘b’像‘bridge（桥）’，连接两边。4. **commence**（/kəˈmens/，开始）：差异在‘bine’ vs ‘mence’。Commence的‘mence’像‘mention（提及）’，但意为开始；combine是结合。5. **comprise**（/kəmˈpraɪz/，包含）：差异在‘bine’ vs ‘prise’。Comprise的‘prise’像‘prize（奖品）’，但意为由……组成；combine是主动结合。6. **continue**（/kənˈtɪnjuː/，继续）：差异在‘bine’ vs ‘tinue’。Continue的‘tinue’像‘tin（罐）’，意为持续；combine是结合。7. **convince**（/kənˈvɪns/，说服）：差异在‘bine’ vs ‘vince’。Convince的‘vince’像‘win（赢）’，意为使信服；combine是联合。总结：combine的核心是‘b’（绑定），而其他词各有不同首字母或尾缀，抓住‘b’这个视觉锚点，就能快速区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题及高级英语中，combine有多个非字面含义。1. **化合（化学语境）**：在科学类文章里，combine指原子或分子结合成化合物。例如：\"Hydrogen combines with oxygen to form water.\"（氢与氧化合生成水。）2. **兼有（双重属性）**：指同时具备两种特征或功能。例如：\"The new smartphone combines the functions of a phone and a camera.\"（新智能手机兼具手机和相机的功能。）常见于经济学人：\"The policy combines fiscal stimulus with monetary easing.\"（该政策兼有财政刺激和货币宽松。）3. **合并（商业并购）**：指企业或组织合并。例如：\"The two companies combined to form a multinational corporation.\"（两家公司合并组成跨国集团。）4. **联合行动（军��/社会）**：指各方协同作战或合作。例如：\"The police and the army combined forces to quell the riot.\"（警方和军队联合力量平息暴乱。）5. **收割机（名词）**：在农业语境中，combine可指联合收割机（combine harvester），强调其同时完成收割、脱粒、分离多种工序。例如：\"The combine efficiently harvests wheat in a single pass.\"（联合收割机一次通过就能高效收割小麦。）注意：考研阅读中常出现combine的抽象用法，如\"combine theory with practice\"（理论联系实际），或\"combine efforts\"（共同努力）。掌握这些僻义能帮你精准理解长难句。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，combine常以固定搭配和句型出现，以下是高频用法及真题例句。**常用搭配**：1. combine A with B：把A和B结合起来。2. combine to do sth：联合起来做某事。3. combine forces：合力。4. combine efforts：共同努力。5. combine…and…：兼有……和……。**真题例句**：1. 2005年阅读Text 4：\"The trend of combining formal and informal education is accelerating.\"（正式与非正式教育相结合的趋势正在加速。）2. 2012年阅读Text 2：\"The company combined its resources with a local firm to enter the Asian market.\"（该公司与一家本地企业联合资源以进入亚洲市场。）3. 2018���翻译：\"We must combine the advantages of both systems to create a more efficient model.\"（我们必须结合两种体制的优势，创造一种更高效的模型。）**高分写作例句**：1. 大作文（环境）：\"To combat pollution, governments should combine strict regulations with public awareness campaigns.\"（为对抗污染，政府应将严格法规与公众意识运动相结合。）2. 小作文（建议信）：\"I suggest you combine online courses with offline practice to maximize learning efficiency.\"（我建议你将线上课程与线下实践相结合，以最大化学习效率。）3. 图表作文：\"The graph shows that the company combined innovation with cost control to achieve steady growth.\"（图表显示，该公司将创新与成本控制相结合，实现了稳定增长。）**考点提示**：注意combine后面常接介词‘with’或‘and’，写作时避免误用‘to’。另外，combine的被动形式‘be combined with’也常见，如‘The new approach is combined with traditional methods.’ 掌握这些搭配，足以应对完形、阅读和写作中的相关考点。"
+      }
+    },
+    {
+      "id": "comedy",
+      "word": "comedy",
+      "phonetic": "/'kɒmɪdɪ/",
+      "meaning": "n.喜剧;喜剧性事件",
+      "similar": [
+        "comply",
+        "remedy",
+        "somebody"
+      ],
+      "question": {
+        "wordId": "comedy",
+        "stem": "选择 \"comedy\" 的正确中文意思：",
+        "correct": "n.喜剧;喜剧性事件",
+        "options": [
+          "n.喜剧;喜剧性事件",
+          "v.(with)遵照，照做，应允；顺从，服从",
+          "n.药品;治疗措施 v.治疗,医治;纠正,补救",
+          "pron.某人，有人 n.重要人物"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】词根“com-”意为“一起、共同”，而“-edy”源自希腊语“ōidē”，意为“歌曲、诗歌”，因此“comedy”的字面意思是“共同歌唱”或“欢乐的诗歌”。在古希腊戏剧中，喜剧最初是一种以欢快、诙谐的方式歌颂酒神狄俄尼索斯的歌舞表演，演员们通过滑稽的动作和讽刺的对白引发观众笑声。你可以想象一个场景：一群村民聚在一起，载歌载舞，用夸张的表情和幽默的台词演绎生活中的荒诞，这就是喜剧的雏形。从物理逻辑看，“come”（来）和“comedy”共享“com-”前缀，但喜剧是“来”到舞台上的一种“欢乐之诗”。更生动的联想是：把“comedy”拆解成“come”+“dy”，想象一个朋友“come”（来）到你面前，做出一个“dy”（谐音“呆”）的傻乎乎表情，把你逗乐——这就是喜剧的本质。这种底层逻辑能让你瞬间记住：喜剧就是通过共同参与、集体欢笑来缓解压力的艺术形式。在考研语境中，理解词源有助于区分“comedy”与“tragedy”（悲剧）的词根差异（“trag-”意为“山羊歌”，源于祭神时的悲歌），从而在阅读中快速把握文学分类。",
+        "similarWarning": "【避坑预警（形近/易混）】1. **come** vs. **comedy**：差异在于“-dy”音节。come是动词，意为“来”，如“come here”；而comedy是名词，指一种戏剧类型。字母上，comedy比come多了“dy”，你可以记成“来（come）的时候发生了喜剧事件（dy谐音‘的’）”。2. **comply** vs. **comedy**：comply的“ply”意为“折叠、顺从”，完整拼写为c-o-m-p-l-y，而comedy是c-o-m-e-d-y。两者仅中间部分不同：comply有“p”和“l”，而comedy有“e”和“d”。comply指“遵守、服从”，如“comply with rules”；comedy则与幽默相关。联想：服从（comply）是严肃的，喜剧（comedy）是轻松的，所以字母“p”和“l”像严肃的直线，而“e”和“d”像笑弯的嘴角。3. **remedy** vs. **comedy**：remedy的“re-”意为“再次”，“med”意为“治疗”，所以是“补救、治疗”；而comedy是“共同歌唱”。拼写上，remedy是r-e-m-e-d-y，comedy是c-o-m-e-d-y，区别在开头：remedy有“re”，comedy有“co”。你可以记忆：需要治疗（remedy）时人们皱眉，看喜剧（comedy）时人们开怀，所以“re”像皱眉的“r”，而“co”像笑出声的“c”。4. **somebody** vs. **comedy**：somebody意为“某人”，由“some”（一些）+“body”（身体）组成；comedy则不同。拼写差异：somebody有“s-o-m-e-b-o-d-y”，而comedy是“c-o-m-e-d-y”。关键区别在“body”部分——somebody多了“b”和“o”。联想：喜剧（comedy）里常有“某人（somebody）”做出滑稽动作，但单词本身不包含“body”。通过这种字母级对比，你能在阅读中一眼识别，避免将“comedy”误读为“comply”（服从）或“remedy”（补救），这在考研完形和阅读中至关重要。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语阅读中，“comedy”不仅指舞台或电影喜剧，还常引申为“喜剧性事件”或“生活中的荒诞局面”。例如，在《经济学人》的一篇社会评论中写道：“The political rally turned into a comedy of errors, with speakers contradicting each other and the microphone failing repeatedly.”（政治集会变成了一场错误喜剧，演讲者互相矛盾，麦克风反复失灵。）这里的“comedy”强调事件因混乱和讽刺而显得可笑。此外，“comedy”在文学批评中可指“喜剧元素”或“幽默风格”，如“black comedy”（黑色喜剧），用于描述以死亡、灾难等沉重主题为背景的幽默。在考研阅读中，曾出现“The play is a comedy of manners, satirizing the hypocrisies of the upper class.”（该剧是一部风尚喜剧，讽刺上层阶级的虚伪。）这里的“comedy of manners”是固定文学术语，指通过描写社会习俗来制造幽默的喜剧类型。更深层的僻义出现在哲学或心理学语境中，如“the comedy of human existence”（人类生存的喜剧性），强调人生的荒诞和矛盾。例如，在一篇考研模拟题中：“He saw the comedy in his own failures, refusing to take life too seriously.”（他看到了自己失败中的喜剧性，拒绝把生活看得太严肃。）这里的“comedy”指一种超脱的、幽默的视角。掌握这些引申义，你就能在阅读中准确理解作者意图，避免只按字面意思理解。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“comedy”常以名词形式出现，搭配以下高频短语：1. **comedy film**（喜剧电影）——例如真题例句：“The audience burst into laughter during the comedy film, which was a welcome relief from the tense atmosphere.”（观众在喜剧电影中爆发出笑声，这给紧张的气氛带来了令人欣慰的缓解。）2. **comedy of manners**（风尚喜剧）——用于文学分析类阅读，如：“The novel is often categorized as a comedy of manners, critiquing the social etiquette of the Victorian era.”（这部小说常被归类为风尚喜剧，批判维多���亚时代的社会礼仪。）3. **light comedy**（轻喜剧）——例如：“The director specializes in light comedy, focusing on everyday misunderstandings rather than sharp satire.”（这位导演擅长轻喜剧，关注日常误解而非尖锐讽刺。）4. **tragicomedy**（悲喜剧）——这是一个复合词，常出现在高分写作中，如：“The film is a tragicomedy that explores the duality of human experience.”（这部电影是一部悲喜剧，探讨了人类体验的双重性。）在考研作文中，你可以用“comedy”作为主题词描述社会现象，例如：“In the comedy of modern life, we often find ourselves laughing at the absurdity of our own routines.”（在现代生活的喜剧中，我们常常发现自己正在嘲笑日常的荒诞。）此外，在完形填空和翻译中，注意“comedy”与“tragedy”的对比考点，如：“The shift from comedy to tragedy in the play reflects the protagonist's psychological decline.”（剧中从喜剧到悲剧的转变反映了主角的心理衰落。）最后，牢记一个常考搭配：“comedy club”（喜剧俱乐部），例如：“Word spread quickly about the new comedy club, which attracted crowds every weekend.”（关于新喜剧俱乐部的消息迅速传开，它每个周末都吸引大量人群。）通过掌握这些真题考点，你不仅能在阅读中快速定位，还能在写作中灵活运用，提升表达层次。"
+      }
+    },
+    {
+      "id": "comfort",
+      "word": "comfort",
+      "phonetic": "/'kʌmfət/",
+      "meaning": "n.舒适，安逸；安慰，慰问 v.安慰，使舒适",
+      "similar": [
+        "conform",
+        "confront"
+      ],
+      "question": {
+        "wordId": "comfort",
+        "stem": "选择 \"comfort\" 的正确中文意思：",
+        "correct": "n.舒适，安逸；安慰，慰问 v.安慰，使舒适",
+        "options": [
+          "n.班长;监听器,监视器 v.监控,监测",
+          "v.使面临,使遭遇;面对(危险等)",
+          "vi.(to)遵守，适应；相似，一致，符合",
+          "n.舒适，安逸；安慰，慰问 v.安慰，使舒适"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词'comfort'的核心逻辑源于拉丁语'comfortare'，由前缀'com-'（共同、加强）和词根'fortis'（力量）构成，字面意思是'共同加强力量'。这揭示了其本质：当一个人处于软弱、痛苦或不安的状态时，通过外界给予的支撑来恢复内在的力量与稳定。从词源演变来看，古法语'conforter'意为'安慰、鼓励'，进入英语后逐渐分化为两个层面：一是物理层面的舒适——通过消除不适感（如柔软的沙发、温暖的温度）来增强身体的力量；二是精神层面的安慰——通过言语或陪伴来增强心理的力量。你可以想象一个画面：一位疲惫的旅人，在寒冷中蜷缩，",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "comfortable",
+      "word": "comfortable",
+      "phonetic": "/'kʌmfətəbl/",
+      "meaning": "a.舒适的，舒服的；感到舒适的，安逸的",
+      "similar": [
+        "comparable",
+        "honorable",
+        "compatible"
+      ],
+      "question": {
+        "wordId": "comfortable",
+        "stem": "选择 \"comfortable\" 的正确中文意思：",
+        "correct": "a.舒适的，舒服的；感到舒适的，安逸的",
+        "options": [
+          "a.舒适的，舒服的；感到舒适的，安逸的",
+          "a.能和睦相处的,合得来的;兼容的",
+          "a.(honourable)可敬的;荣誉的,光荣的",
+          "a.(with,to)可比较的,比得上的"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】该词由“comfort”加上形容词后缀“-able”构成。“comfort”源自拉丁语“confortare”，意为“加强、安慰”，其中“con-”表示“一起、完全”，“fortis”表示“强壮的”。因此，从词源上看，“comfortable”的本源含义是“能够给予力量、使感到强壮的状态”。我们可以通过画面感联想来记忆：想象你疲惫地回到家，躺在一张柔软的沙发上，沙发给予你身体全方位的支撑和放松，这种被包裹、被支持的感觉就是“comfortable”。这种物理上的“支撑”和“放松”构成了该词的核心逻辑。进一步引申，这种“舒适”不仅指身体上的无压力、无痛苦，更是一种心理上的安全感和安宁感。在考研语境中，我们需要理解“comfortable”往往不仅仅是描述一张床或一把椅子，更是一种状态——一种没有压迫、没有焦虑、内心平静的状态。例如，在阅读中，当描述一个人处于“comfortable situation”时，可能暗示他拥有足够的资源、能力或自信，从而感到从容不迫。这种从物理到心理的延伸，正是该词记忆的关键。通过理解“comfort”作为“给予力量”的本源，我们就能牢牢记住“comfortable”所传达的积极、稳定、令人安心的特质。",
+        "similarWarning": "【避坑预警（形近/易混）】首先，与“comparable”（/'kɑːmpərəbl/，可比较的）对比：差异在于“fort”与“par”。“comfortable”中的“fort”意为“强壮”，而“comparable”中的“par”意为“相等、对等”（源自拉丁语“par”，如“pair”）。字母级差异在于：前者有字母“f”和“t”，后者有字母“p”和第二个“a”。含义区别：comfortable强调舒适、安逸，是一种主观感受；comparable强调可以相比、类似，是一种客观关系。例如，“This chair is comfortable.”（这把椅子很舒适）vs.“The two products are comparable in price.”（这两款产品价格相当）。其次，与“honorable”（/'ɑːnərəbl/，可敬的、光荣的）对比：差异在于“comfort”与“honor”。“honor”意为“荣誉、尊敬”。字母级差异：前者以“com-”开头，有“f”和“t”；后者以“hon-”开头，有“h”和“n”。含义区别：comfortable描述令人放松的状态；honorable描述值得尊敬的人或行为。例如，“He made an honorable decision.”（他做出了一个光荣的决定）。最后，与“compatible”（/kəm'pætəbl/，兼容的、合得来的）对比：差异在于“fort”与“pat”。“pat”源自拉丁语“pati”，意为“忍受、承受”。字母级差异：前者有“f”和“t”；后者有“p”和“t”（但“pat”中的“a”发音不同）。含义区别：comfortable强调舒适；compatible强调能够和谐共存、不冲突。例如，“This software is compatible with Windows 10.”（这个软件与Windows 10兼容）。总结：三个形近词的核心差异在于词根不同，comfortable是“强壮→舒适”，comparable是“相等→可比”，honorable是“荣誉→可敬”，compatible是“忍受→兼容”。学生需通过词根（fort/par/honor/pat）来区分，并牢记每个词的独特语义场。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语及高级英语阅读中，“comfortable”除了常见的“舒适的”意思外，还有以下重要僻义：1. **（数量、程度等）充裕的、足够的**。例如，在描述收入或生活水平时，“a comfortable income”并非指“令人舒适的薪水”，而是指“一笔丰厚的、足以过上体面生活的收入”。例句：“She earns a comfortable living as a freelance designer.”（她作为一名自由设计师，收入颇为丰厚）。2. **（面对困难或风险时）轻松的、自在的**。这种用法常出现在描述比赛、竞争或政治局势中，表示“胜券在握”或“没有危险”。例如，“The team maintained a comfortable lead throughout the match.”（该队在整场比赛中保持着轻松领先的优势）。这里的“comfortable”不是指身体舒适，而是指领先优势很大，让对手难以追赶，从而让己方感到“安心”。3. **（人际关系）融洽的、不拘礼的**。例如，“We had a comfortable conversation over dinner.”（我们在晚餐时进行了一次轻松融洽的谈话。）这里“comfortable”形容谈话氛围不紧张、不尴尬。4. **（衣物）宽松的、不紧身的**。例如，“These shoes are comfortable even after hours of walking.”（这双鞋即使走几个小时也很舒服。）这里的“舒服”实际上暗示了鞋子不磨脚、不紧绷。在考研真题中，曾出现过“politically comfortable”的表述，意为“政治上安稳的、没有风险的”。例如，“He chose a politically comfortable position on the issue.”（他在这个问题上选择了一个政治上安全的立场。）总之，掌握这些僻义，能帮助考生在阅读中精准理解作者的微妙意图，避免望文生义。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，“comfortable”常以以下短语和句型出现，是完形填空、翻译和写作的高频考点：1. **固定搭配**：- “comfortable with”：对……感到自在/满意。例句（写作高分句型）：“We should not become too comfortable with the status quo; innovation requires us to challenge existing norms.”（我们不应安于现状；创新需要我们挑战现有规范。）- “comfortable in one’s own skin”：对自己感到自信、自在。此短语常用于描述个人成长或性格。例句：“After years of self-doubt, she finally feels comfortable in her own skin.”（经过多年的自我怀疑，她终于对自己感到坦然。）- “make oneself comfortable”：请随意/别拘束。常用于口语或书信。例句：“Please make yourself comfortable while I prepare some tea.”（请随意坐，我去泡茶。）2. **真题例句**：- 考研阅读真题：“The comfortable middle class is no longer immune to economic shocks.”（舒适的中间阶层不再对经济冲击具有免疫力。）这里的“comfortable”并非仅指物质舒适，更暗示一种“安逸、无忧”的状态，与后文的“shocks”形成对比。- 考研翻译真题：“In a society where people are increasingly comfortable with sharing personal information online, privacy concerns have become more pressing.”（在一个人们越来越习惯于在网上分享个人信息的社会里，隐私问题变得更为紧迫。）此处“comfortable with”意为“习惯于、对……感到自在”。- 写作高分例句：“To achieve a sustainable future, we must learn to live comfortably with less, not more.”（为了实现可持续的未来，我们必须学会以更少的物质享受而舒适地生活。）这个句子运用了“comfortably”作为副词，与“with less”搭配，表达了一种反常规的、深刻的环保观点。3. **考点提示**：在完形填空中，注意区分“comfortable”与“convenient”（方便的）。前者强调主观感受（感觉舒服），后者强调客观便利（不费力）。例如，“a comfortable chair” vs. “a convenient location”。掌握以上用法，考生能在写作和阅读中精准运用该词，提升分数。"
+      }
+    },
+    {
+      "id": "comic",
+      "word": "comic",
+      "phonetic": "/'kɔmik/",
+      "meaning": "a.喜剧的，滑稽的n.连环画杂志；喜剧演员",
+      "similar": [
+        "cosmic",
+        "commit",
+        "coil",
+        "coin",
+        "comb",
+        "omit",
+        "logic",
+        "topic"
+      ],
+      "question": {
+        "wordId": "comic",
+        "stem": "选择 \"comic\" 的正确中文意思：",
+        "correct": "a.喜剧的，滑稽的n.连环画杂志；喜剧演员",
+        "options": [
+          "a.喜剧的，滑稽的n.连环画杂志；喜剧演员",
+          "a.宇宙的；无比巨大的，无穷尽的",
+          "v.把…交托给,提交;犯(错误),干(坏事)",
+          "v.卷,盘绕 n.(一)卷,(一)圈;线圈,绕组"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "{\n  \"coreLogic\": \"【核心逻辑（底层记忆）】单词“comic”的核心逻辑可以追溯到古希腊词源“komos”，意为“狂欢、欢宴”，与“喜剧”的欢乐本质紧密相连。从词根看，“comic”源自拉丁语“comicus”，进一步源于希腊语“komikos”，字面意思为“与狂欢有关的”。想象古希腊城邦的节日庆典中，人们戴上面具、载歌载舞、即兴表演滑稽故事，这种欢乐、夸张、讽刺的元素就构成了“comic”的底层记忆。画面感上，你可以联想一个小丑（clown）在舞台上做夸张的跌倒动作，观众哄堂大笑，这就是“comic”的视觉化。物理逻辑上，“comic”强调一种“非严肃、打破常规”的状态，与“",
+        "similarWarning": "",
+        "extendedMeaning": "",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "command",
+      "word": "command",
+      "phonetic": "/kə'mɑ:nd/",
+      "meaning": "n./v.命令，指挥，控制 n.掌握，运用能力",
+      "similar": [
+        "commend",
+        "comment",
+        "recommend",
+        "commence",
+        "compound"
+      ],
+      "question": {
+        "wordId": "command",
+        "stem": "选择 \"command\" 的正确中文意思：",
+        "correct": "n./v.命令，指挥，控制 n.掌握，运用能力",
+        "options": [
+          "v.称赞，表扬：委托保管；推荐",
+          "v.推荐,介绍;劝告,建议",
+          "n./v.命令，指挥，控制 n.掌握，运用能力",
+          "n.注释,评论,意见 v.(on)注释,评论"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】command源于拉丁语“commandare”，由“com-”（完全、共同）和“mandare”（委托、命令）组合而成，字面意思是“完全委托”或“授权指挥”。这种词源演变揭示了其双重含义：一方面，“命令”是上级对下级的权威委托，带有强制性和单向性；另一方面，“掌握”和“运用能力”则强调对某事物的完全控制或精通，如同将军对军队的指挥权。从画面感联想，command像一位将军站在高台上，手举令旗，士兵们整齐列队、听候调遣，这种“自上而下的权威传递”构成了核心意象。物理逻辑上，command可类比为“开关控制”：当你按下开关（发出命令），灯光（结果）立即响应，体现了“指令-执行”的即时关系。这种底层逻辑帮助学生理解：command不仅是口头或书面的指令，更是对局面、资源或技能的绝对掌控力，比如“command of English”意味着像指挥军队一样自如运用英语。记住，command的本质是“权威+控制”，而不仅仅是“说句话”而已。",
+        "similarWarning": "【避坑预警（形近/易混）】command与以下形近词在字母和含义上存在关键差异：1. **commend** (/kə'mend/)：字母差异仅在于‘a’与‘e’，command中的‘a’代表“权威性命令”，而commend中的‘e’源自“commendare”（推荐、赞扬），含义是“表扬、推荐”，如“commend a student for hard work”。2. **common** (/ˈkɒmən/)：字母差异为‘and’与‘on’，common意为“共同的、普通的”，与command的“命令”毫不相干，常见搭配是“common sense”。3. **comment** (/ˈkɒment/)：字母差异为‘and’与‘ent’，comment是“评论、意见”，强调主观看法，如“make a comment”，而command是客观指令。4. **company** (/ˈkʌmpəni/)：字母差异为‘and’与‘any’，company指“公司、陪伴”，如“keep company”，与command的权威性无关。5. **recommend** (/ˌrekəˈmend/)：字母差异是前缀‘re-’和‘a’变‘e’，recommend意为“推荐、建议”，语气弱于command，如“recommend a book”，而command是强制性的。6. **commence** (/kəˈmens/)：字母差异为‘and’与‘ence’，commence是“开始”的正式用语，如“commence the meeting”，与command的“指挥”不同。7. **compound** (/ˈkɒmpaʊnd/)：字母差异为‘and’与‘ound’，compound作名词是“化合物、复合词”，作动词是“混合”，如“compound interest”，完全偏离command的语义。记忆口诀：用‘a’（authority）记住command的权威，用‘e’（eulogize）记住commend的表扬；‘ent’结尾是评论，‘any’结尾是公司。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，command的僻义远超“命令”，常用于抽象控制领域：1. **（对情感的）控制、克制**：如“have command of one's temper”意为“克制脾气”，《纽约时报》例句：“She showed remarkable command of her anger during the debate.” 2. **（军事）司令部、指挥权**：如“take command of the troops”意为“指挥部队”，《经济学人》例句：“The general assumed command in the midst of chaos.” 3. **（资源或才能的）支配、掌握**：如“a good command of English”是考研写作高频短语，意为“精通英语”，真题例句：“He has an excellent command of French literature.” 4. **（计算机）命令、指令**：在科技语境中，如“command prompt”意为“命令提示符”，《卫报》例句：“Type the command to execute the program.” 5. **（居高临下地）俯瞰**：来自“command a view”的用法，如“The tower commands a panoramic view of the city.”（这座塔俯瞰城市全景），《经济学人》例句：“The citadel commanded the entire valley.” 6. **（价格、市场）主导**：如“command a high price”意为“索要高价”，《金融时报》例句：“This antique vase commands a premium at auctions.” 掌握这些僻义，能在阅读中精准理解作者意图，在写作中提升词汇层次。",
+        "examUsage": "【真题闭环（考点直击）】考研英语中，command的常考搭配和句型包括：1. **have a good command of**（精通、掌握），是写作和翻译高分短语，如2018年考研英语二作文：“It is essential for students to have a good command of professional knowledge.” 2. **take command of**（指挥、接管），常用于军事或管理语境，如2005年考研英语一阅读：“He took command of the project after the crisis.” 3. **command respect/attention**（赢得尊重/引起注意），是抽象用法，如2012年考研英语一翻译：“A leader should command respect from his subordinates.” 4. **at one's command**（可自由使用、支配），如2016年考研英语一完形：“With advanced technology at their command, scientists made breakthroughs.” 5. **command oneself**（控制自己），较少见但考过，如1998年阅读：“He struggled to command himself in the face of criticism.” 真题例句：- “The ability to command a foreign language is increasingly valued in the global job market.”（2014年英语二翻译）- “The general's command was unequivocal: retreat immediately.”（2007年英语一阅读）- “For a writer, a wide vocabulary is a powerful tool at his command.”（2010年英语一写作范文）写作中，可将“have a good command of”替换“know well”以提升档次，如：“To succeed in the exam, candidates must have a thorough command of the subject.” 注意：command作动词时，后接不定式或that从句（虚拟语气），如“He commanded that the troops (should) advance.” 掌握这些考点，能直接应用于答题。"
+      }
+    },
+    {
+      "id": "commemorate",
+      "word": "commemorate",
+      "phonetic": "/kə'meməreit/",
+      "meaning": "vt.纪念，庆祝",
+      "similar": [
+        "cooperate",
+        "compensate",
+        "collaborate",
+        "communicate",
+        "concentrate",
+        "contemplate"
+      ],
+      "question": {
+        "wordId": "commemorate",
+        "stem": "选择 \"commemorate\" 的正确中文意思：",
+        "correct": "vt.纪念，庆祝",
+        "options": [
+          "vi.协作，合作；(与敌人)勾结",
+          "v.(for)补偿,赔偿",
+          "v.(with)合作,协作,相配合",
+          "vt.纪念，庆祝"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词commemorate的核心逻辑在于其拉丁词源：前缀com-表示“共同、一起”，词根memor意为“记忆、记住”，后缀-ate是动词后缀。所以，commemorate的字面意思是“共同记住”或“一起回忆”。想象一个场景：一群人聚集在一起，通过某种仪式或活动，共同唤起对某个重要事件或人物的记忆，从而赋予其庄重的纪念意义。比如，每年国庆日，人们通过阅兵和庆典来commemorate国家的独立或成立，这就是“共同记住”那个历史时刻。为了加深记忆，可以联想一个生动的画面：社区里所有人手拉手，围着一个纪念石碑，石碑上刻着“memor”（记忆），而com-就像大家团结的圆圈。这种“集体记忆”的物理意象，让你一眼就明白这个词的本源——不是孤立的个人回忆，而是社会性的、主动的纪念行为。与简单的“remember”（记住）不同，commemorate强调的是通过行为或符号（如纪念碑、仪式）来永久化记忆，带有致敬和缅怀的情感色彩。词源上，它源自拉丁语commemorare，其中com-加强语气，memorare意为“提及、回忆”，所以它还有“郑重地提起”的隐含意义。掌握这个底层逻辑，你就再也不会混淆它和单纯表示“合作”或“赔偿”的形近词了。",
+        "similarWarning": "【避坑预警（形近/易混）】commemorate与考研高频形近词容易混淆，必须逐字对比。1. cooperate（合作）：字母差异在于cooperate是c-o-o-p-e-r-a-t-e，而commemorate是c-o-m-m-e-m-o-r-a-t-e。核心区别是cooperate的词根oper意为“工作”，前缀co-表示“共同”，所以是“共同工作”；而commemorate的词根memor是“记忆”。字母级差异：commemorate有双写m和e，而cooperate只有单o和e。2. compensate（补偿）：compensate是c-o-m-p-e-n-s-a-t-e，commemorate是c-o-m-m-e-m-o-r-a-t-e。区别在字母p和n vs m和o：compensate的词根pens意为“衡量、支付”，所以是“补偿”；commemorate是“记忆”。注意compensate没有双写m，且中间有n和s。3. collaborate（合作）：collaborate是c-o-l-l-a-b-o-r-a-t-e，commemorate是c-o-m-m-e-m-o-r-a-t-e。区别在字母l和b vs m和e：collaborate的词根labor意为“劳动”，所以是“共同劳动”；commemorate是“记忆”。注意collaborate有双写l，而commemorate有双写m。4. communicate（交流）：communicate是c-o-m-m-u-n-i-c-a-t-e，commemorate是c-o-m-m-e-m-o-r-a-t-e。��别在字母u、n、i、c vs e、m、o、r：communicate的词根mun意为“公共的”，所以是“分享”；commemorate是“记忆”。两者都有双写m，但communicate后面是u-n-i-c，而commemorate后面是e-m-o-r。5. concentrate（集中）：concentrate是c-o-n-c-e-n-t-r-a-t-e，commemorate是c-o-m-m-e-m-o-r-a-t-e。区别在字母n、c、n、t vs m、m、e、m：concentrate的词根centr意为“中心”，所以是“集中”；commemorate是“记忆”。注意concentrate没有双写m，而是有字母c和t。6. contemplate（沉思）：contemplate是c-o-n-t-e-m-p-l-a-t-e，commemorate是c-o-m-m-e-m-o-r-a-t-e。区别在字母n、t、p、l vs m、m、o、r：contemplate的词根templ意为“寺庙、观察”，所以是“沉思”；commemorate是“记忆”。注意contemplate没有双写m，而是有字母p和l。总结：所有形近词中，只有commemorate有“memor”词根，且双写m后紧跟e和m，形成“mem”的重复，这是记忆的标记。而其他词根如oper、pens、labor、mun、centr、templ，都指向不同动作。通过对比字母级差异，你就能一眼认出commemorate的独特DNA。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语中，commemorate除了“纪念”这一字面意思外，还有以下僻义和特殊用法。1. 【庆祝性的纪念】在经济学人中常用来表示通过庆典、节日来“庆祝”某个历史事件或成就，隐含积极、欢乐的意味。例如：The city held a grand parade to commemorate its 200th anniversary.（该市举行盛大游行以庆祝其200周年。）2. 【正式铭记】在学术语境中，commemorate可以指通过文献、演讲或研究来“正式铭记”某个思想或人物，强调将其载入史册。例如：The conference was held to commemorate the philosopher's contributions to ethics.（召开这次会议是为了正式铭记这位哲学家对伦理学的贡献。）3. 【被纪念的物件】在建筑或艺术领域，commemorate可引申为“作为……的纪念物”，常用被动语态。例如：A statue was erected to commemorate the fallen soldiers.（竖立了一座雕像以纪念阵亡士兵。）4. 【时间节点的纪念】在卫报中，commemorate常与具体日期或事件搭配，表示在某个特殊时间点进行纪念活动。例如：They plan to commemorate the 50th anniversary of the moon landing with a special exhibit.（他们计划通过一个特别展览来纪念登月50周年。）5. 【缅怀与哀悼】在悼念语境中，commemorate有“缅怀”之意，常用于对逝者的追思。例如：The family gathered to commemorate the life of their beloved grandmother.（家人聚集在一起缅怀他们深爱的祖母的生活。）6. 【抽象纪念】在文学作品中，commemorate可以抽象地表示“保留对……的记忆”，不一定是实际活动。例如：The poem commemorates the fleeting beauty of youth.（这首诗纪念了青春转瞬即逝的美好。）掌握这些僻义，你在阅读考研真题中的经济类、文化类文章时，就能准确理解作者意图，并在写作中灵活运用，提升语言层次。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，commemorate是阅读和写作的高频词汇，常考以下搭配和句型。1. 固定搭配：commemorate the anniversary of（纪念……周年），commemorate the event（纪念该事件），commemorate the achievements（纪念成就），be commemorated by（被……纪念），in commemoration of（为了纪念，常用名词形式）。2. 常考句型：主语+be commemorated as+名词（被纪念为……），例如：The battle is commemorated as a turning point in history.（这场战役被纪念为历史的转折点。）3. 真题例句：在2015年考研英语阅读真题中，出现过：The statue was erected to commemorate the soldiers who died in the war.（这座雕像是为了纪念在战争中牺牲的士兵而竖立的。）4. 高分写作例句：在考研写作中，可用于大作文描述文化传承或历史事件。例如：We should commemorate the achievements of our ancestors by preserving their cultural heritage.（我们应通过保护文化遗产来纪念祖先的成就。）另一个例句：The annual festival is a way to commemorate the unity of the community.（一年一度的节日是纪念社区团结的一种方式。）5. 常见考点：注意commemorate与celebrate的区别：celebrate强调庆祝，通常带有欢乐气氛；commemorate则侧重纪念，可能包含缅怀或庄重。在写作中，如果写“纪念烈士”，要用commemorate而非celebrate。6. 派生词：commemoration（名词，纪念活动），commemorative（形容词，纪念性的）。例如：a commemorative stamp（纪念邮票）。7. 真题陷阱：在完形填空中，commemorate常与celebrate、memorize、remember混淆。记忆技巧：commemorate是“共同记忆”，memorize是“记住”，remember是“回忆起”。例如：We commemorate the event with a ceremony.（我们通过仪式纪念该事件。）而We memorize the facts for the exam.（我们为考试记住事实。）We remember the good times.（我们回忆起美好时光。）掌握这些考点，你就能在考研阅读��快速定位答案，在写作中精准用词。"
+      }
+    },
+    {
+      "id": "commence",
+      "word": "commence",
+      "phonetic": "/kə'mens/",
+      "meaning": "vt.开始 vi.获得学位",
+      "similar": [
+        "commerce",
+        "commend",
+        "comment",
+        "combine",
+        "command",
+        "commute",
+        "compete",
+        "immense"
+      ],
+      "question": {
+        "wordId": "commence",
+        "stem": "选择 \"commence\" 的正确中文意思：",
+        "correct": "vt.开始 vi.获得学位",
+        "options": [
+          "vt.开始 vi.获得学位",
+          "n.商业，贸易；交际，交往",
+          "n.注释,评论,意见 v.(on)注释,评论",
+          "v.称赞，表扬：委托保管；推荐"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词“commence”源自拉丁语“cominitiare”，由前缀“com-”（共同、一起）和“initiare”（开始）构成，字面意思是“共同开始”。其词根“initi-”与“initial”（最初的）、“initiate”（开始、发起）同源，强调从零起点或某个时间点共同启动一个过程。在英语演变中，它保留了“开始”这一核心含义，但区别于普通“begin”或“start”，它更正式、庄重，常用于正式场合或学术语境。画面感联想：想象一场毕业典礼上，校长宣布“Let the ceremony commence！”（典礼开始！），那一刻所有师生共同开启新阶段。或像火箭发射倒计时结束，指挥官下令“Mission commences！”（任务开始！）。这种“共同开始”的物理逻辑帮助记忆：当你与他人一起从起点出发，就是“commence”。此外，它还与“comment”（评论）、“commerce”（商业）等词形似，但核心在于“开始”的动作，而非评价或交易。掌握这个逻辑，就能区分它与其他形近词：前缀“com-”加上“开始”的根，等于“共同开启”。",
+        "similarWarning": "【避坑预警（形近/易混）】1. **commerce**：字母差异在于“m”后是“e-r-c-e”，而“commence”是“e-n-c-e”。含义：“commerce”是“商业、贸易”，与买卖相关，而“commence”是“开始”。例句：The company **commences** trade in June（公司六月开始贸易），但“commerce”是名词。2. **commend**：字母差异在于“m”后是“e-n-d”，而“commence”是“e-n-c-e”。“commend”意为“表扬、推荐”，来自拉丁语“commendare”（委托），与“开始”无关。混淆会写出“commend the project”却想表达“开始项目”。3. **comment**：字母差异在于“m”后是“e-n-t”，而“commence”是“e-n-c-e”。“comment”是“评论、注释”，名词或动词，而“commence”是正式“开始”。4. **common**：字母差异在于“m”后是“m-o-n”，而“commence”是“e-n-c-e”。“common”意为“普通的、共同的”，形容词。5. **combine**：字母差异在于“m”后是“b-i-n-e”，而“commence”是“e-n-c-e”。“combine”意为“结合、联合”，动词。6. **command**：字母差异在于“m”后是“m-a-n-d”，而“commence”是“e-n-c-e”。“command”意为“命令、指挥”，动词或名词。7. **commute**：字母差异在于“m”后是“u-t-e”，而“commence”是“e-n-c-e”。“commute”意为“通勤、交换”，动词。8. **compete**：字母差异在于前缀“com-”后是“p-e-t-e”，而“commence”是“m-e-n-c-e”。“compete”意为“竞争”，动词。总结：形近词核心区别在于“-mence” vs “-merce/-mend/-ment/-mon/-bine/-mand/-mute/-pete”。记忆时，抓住“commence”中的“-mence”与“men”（男人）谐音，想象男人开始行动；其他词则用各自特征区分。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级阅读中，“commence”除了基本义“开始”，还有两个重要僻义：1. **获得学位**（尤指大学正式授予学位）：在英式英语中，“commence”常指大学授予学位的仪式或进程。例如，考研真题例句：The ceremony **commenced** with the awarding of degrees（典礼以授予学位开始）。但更特殊的是，它作不及物动词时，可直接表示“获得学位”，如：He **commenced** in law last year（他去年获得了法律学位）。这种用法在《经济学人》中也有出现：Students **commence** after completing their thesis（学生在完成论文后获得学位）。2. **发起、启动（法律或正式程序）**：在正式法律文件或商业报告中，“commence”常指启动诉讼、调查或正式行动。例如，考研阅读文章：The investigation **commenced** in January（调查于一月启动）。《卫报》例句：The company **commenced** legal proceedings against its competitor（该公司对竞争对手提起了法律诉讼）。此外，它还可用于描述事件的自然发生：The new era **commenced** with a wave of reforms（新时代以改革浪潮开始）。注意：它比“begin”更正式，在作文中替换“start”可提升词汇档次。例如，写作中用“commence the project”而非“start the project”，体现学术性。",
+        "examUsage": "【真题闭环（考点直击）】经典搭配：1. **commence with**（以……开始）—— 例句：The meeting **commenced with** a brief introduction（会议以简短的介绍开始）。2. **commence doing/to do**（开始做某事）—— 例句：They **commenced** building the bridge last year（他们去年开始建桥）。3. **commence from**（从……开始）—— 例句：The course **commences from** September（课程从九月开始）。4. **commence as**（以……身份开始）—— 例句：She **commenced** as a junior associate（她以初级助理身份开始）。考研真题例句：1998年阅读真题中：The process of economic recovery **commenced** with the implementation of new policies（经济复苏进程随着新政策的实施开始）。2010年写作高分范文中：To **commence** with, the chart illustrates the changes in population（首先，图表展示了人口变化）。另一经典句型：It is advisable to **commence** the experiment under controlled conditions（建议在受控条件下开始实验）。常考考点：在完形填空中，“commence”常与“begin”形成干扰项，但“commence”更正式且常用于书面语。例如，2005年完形真题选项：The project will **commence** in March（项目将于三月开始），而“begin”虽也可用，但“commence”更符合学术语境。写作中，推荐用“commence”替换“start”或“begin”，如：The government **commenced** a series of reforms（政府开始了一系列改革）。记住：常用于正式报告、论文摘要和图表作文的开头段。练习：用“commence”写一个句子描述课程开始，答案：The lecture **commenced** at 9:00 sharp（讲座于9点整开始）。"
+      }
+    },
+    {
+      "id": "commend",
+      "word": "commend",
+      "phonetic": "/kə'mend/",
+      "meaning": "v.称赞，表扬：委托保管；推荐",
+      "similar": [
+        "command",
+        "comment",
+        "recommend",
+        "commence",
+        "contend",
+        "commerce",
+        "compound"
+      ],
+      "question": {
+        "wordId": "commend",
+        "stem": "选择 \"commend\" 的正确中文意思：",
+        "correct": "v.称赞，表扬：委托保管；推荐",
+        "options": [
+          "v.称赞，表扬：委托保管；推荐",
+          "n./v.命令，指挥，控制 n.掌握，运用能力",
+          "v.推荐,介绍;劝告,建议",
+          "n.注释,评论,意见 v.(on)注释,评论"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "com-（加强）+ mend（委托，源自拉丁语mandare“交给，命令”）。核心动作：将某事或某人郑重地“交给”他人，引申为“委托保管”；因委托时需表达认可，故衍生出“称赞、推荐”之义。",
+        "similarWarning": "command（命令）：com- + mand（命令），强调权威指令。comment（评论）：com- + ment（思考），强调口头/书面意见。recommend（推荐）：re-（反复）+ commend，强调再次委托或极力称赞。commence（开始）：com- + men-（引导），强调启动。commend与command仅差一个字母“d”的位置，前者是“称赞”，后者是“命令”。",
+        "extendedMeaning": "在考研阅读中常出现“委托保管”义，如“commend one's soul to God”（将灵魂托付给上帝），或用于法律/商务语境表“推荐”某物。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "comment",
+      "word": "comment",
+      "phonetic": "/'kɒment/",
+      "meaning": "n.注释,评论,意见 v.(on)注释,评论",
+      "similar": [
+        "commend",
+        "commence",
+        "cement",
+        "commit",
+        "command",
+        "consent",
+        "content",
+        "torment"
+      ],
+      "question": {
+        "wordId": "comment",
+        "stem": "选择 \"comment\" 的正确中文意思：",
+        "correct": "n.注释,评论,意见 v.(on)注释,评论",
+        "options": [
+          "vt.开始 vi.获得学位",
+          "n.水泥;胶泥,胶接剂 v.胶合;巩固,加强",
+          "v.称赞，表扬：委托保管；推荐",
+          "n.注释,评论,意见 v.(on)注释,评论"
+        ],
+        "correctIndex": 3
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'comment'源自拉丁语'comminisci'，由前缀'com-'（共同、一起）和词根'ment-'（思考、心智）组合而成。其字面含义是“共同思考”或“交流思想”。这种词源演变揭示了单词的本质：它不仅仅是一个简单的“评论”，而是通过语言将内心的思考与他人分享的行为。你可以想象一个场景：一群人围坐在一起，每个人都在“共同思考”某个话题，然后各自发表自己的见解，这就是'comment'的核心动作——将内在的想法转化为外在的语言表达。词根'ment-'与'mind'（心灵）同源，进一步强化了“思考”的底层逻辑。因此，记忆'comment'时，可以联想到“共同+思考→分享想法”，这样就能牢牢记住它的本义是“对某事发表见解或注解”。这种物理逻辑就像大脑的运作：先有思考（ment），再通过语言（com-，共同）输出，形成一个完整的认知过程。对于考研学生来说，理解这个核心逻辑能帮助区分形近词并掌握其灵活用法。",
+        "similarWarning": "【避坑预警（形近/易混）】'comment'与以下形近词极易混淆，需逐词对比：1. 'commend'（推荐、赞扬）：仅字母'e'与'm'的差异。'comment'中'ment'是词根“思考”，而'commend'中'mend'是“委托、信任”（源自拉丁语'mandare'），因此'commend'表示“把某人或某事托付给他人”，引申为“赞扬”。例如：I commend his efforts.（我赞扬他的努力。）而'comment'是“评论”，如：He made a comment on the book.（他对这本书做了评论。）2. 'commence'（开始）：将'ment'换成'ence'，后缀不同。'commence'源自拉丁语'cominitiare'（共同+开始），强调“开始”的动作，如：The ceremony will commence at 9 AM.（仪式将在上午9点开始。）而'comment'是“评论”，与时间无关。3. 'cement'（水泥）：完全不同的拼写，'cement'中的'ce'来自拉丁语'caementa'（碎石），指建筑材料，如：The workers mixed cement.（工人搅拌水泥。）而'comment'是抽象概念。4. 'commit'（犯（罪）、承诺）：将'ment'换成'mit'（发送），来自拉丁语'committere'（共同+发送），强调“交付”或“执行”，如：He committed a crime.（他犯了罪。）而'comment'是“发表看法”。5. 'common'（共同的）：将'ment'换成'mon'（来自'communis'，公共的），如：This is a common problem.（这是一个常见问题。）而'comment'是“评论”。6. 'moment'（时刻）：将'com'换成'mo'，如：Wait a moment.（等一下。）而'comment'是“评论”。7. 'command'（命令）：将'men'换成'man'（手），来自拉丁语'commandare'（交付于手），如：He gave a command.（他下达了命令。）而'comment'是“评论”。8. 'consent'（同意）：将'com'换成'con'，'ment'换成'sent'（感觉），如：She gave her consent.（她同意了。）而'comment'是“评论”。总结：关键区别在于词根。'comment'的核心是“思考”（ment），而其他词根如'mend'（委托）、'mit'（发送）、'mon'（公共）、'man'（手）、'sent'（感觉）等，决定了各词的含义。记住：思考产生评论，而非命令或水泥。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研英语和高级阅读中，'comment'除了常见的“评论”外，还有以下重要僻义和特殊用法：1. 作为动词，表示“注释”或“解读”，尤其用于学术文本中，如：The scholar commented on the ancient text, clarifying obscure passages.（这位学者注释了古代文本，澄清了晦涩的段落。）这里的'comment on'不仅是“评论”，更是“提供学术性解释”。2. 在计算机科学或编程语境��，'comment'指“注释代码”，如：The programmer added comments to explain the algorithm.（程序员添加了注释来解释算法。）这种用法在考研科技类文章中可能出现。3. 在文学或艺术评论中，'comment'可表示“反映”或“体现”，如：The painting comments on the social inequality of the era.（这幅画反映了那个时代的社会不平等。）此时'comment'不是直接发表意见，而是通过艺术形式“暗示”或“表达”。4. 在新闻英语中，'no comment'是固定短语，意为“无可奉告”，如：The spokesperson said no comment when asked about the scandal.（当被问及丑闻时，发言人表示无可奉告。）5. 在经济学人中，'comment'有时用作名词，表示“评论性文章”或“社论”，如：The economist's comment on the budget was widely discussed.（这位经济学家关于预算的评论文章被广泛讨论。）6. 在法律语境中，'comment'可能指“评注”，如：The judge's comment on the case was only obiter dicta.（法官对该案的评论只是附带意见。）这些僻义在考研阅读中常作为考点，尤其是'comment on'的“解读”义和'no comment'的否定用法。",
+        "examUsage": "【真题闭环（考点直击）】'comment'在考研英语中高频出现，以下是常考短语和真题例句：1. 固定搭配：'comment on'（对……发表评论），是考研阅读和写作中的核心短语。例如：The article comments on the current economic situation.（这篇文章评论了当前的经济形势。）2. 'make a comment'（做出评论），常用于口语和写作。例如：She made a brief comment on the proposal.（她对提案做了简短评论。）3. 'no comment'（无可奉告），在新闻报道中常见。例如：The official refused to comment, saying only 'no comment'.（该官员拒绝评论，只说“无可奉告”。）4. 'without comment'（不加评论地），如：The report was published without comment from the government.（这份报告在未经政府评论的情况下发布。）真题例句：2005年考研英语阅读Text 4中有一句：'The author makes a comment that the decline of formal English is not wholly undesirable.'（作者评论说正式英语的衰落并非完全不可取。）这里'makes a comment'是考点。又如：2012年考研英语阅读Text 2中：'The comment of the author is that the pressure on young people is increasing.'（作者的评论是年轻人的压力在增加。）写作应用：在考研大作文中，'comment on'可用于引出观点，如：I would like to comment on the issue of environmental protection.（我想就环境保护问题发表评论。）高分句型：'As a commentator on social issues, he often makes insightful comments that provoke thought.'（作为社会问题评论员，他经常发表引发思考的深刻评论。）注意：'comment'既可用作名词（如：a critical comment），也可用作动词（如：comment on sth.），且后常接介词'on'或'about'。在考研完形填空中，'comment'可能出现与'remind'、'suggest'等词的辨析，注意'comment'强调“发表见解”，而非“提醒”或“建议”。建议背诵所有搭配，并在写作中灵活运用。"
+      }
+    },
+    {
+      "id": "commerce",
+      "word": "commerce",
+      "phonetic": "/'kɒmɜ:s/",
+      "meaning": "n.商业，贸易；交际，交往",
+      "similar": [
+        "commence",
+        "commercial",
+        "commend",
+        "comment",
+        "commute",
+        "compare",
+        "compete",
+        "immerse"
+      ],
+      "question": {
+        "wordId": "commerce",
+        "stem": "选择 \"commerce\" 的正确中文意思：",
+        "correct": "n.商业，贸易；交际，交往",
+        "options": [
+          "v.称赞，表扬：委托保管；推荐",
+          "a.商业的；商务的；可获利的 n.广告节目",
+          "n.商业，贸易；交际，交往",
+          "vt.开始 vi.获得学位"
+        ],
+        "correctIndex": 2
+      },
+      "sla": {
+        "coreLogic": "com-（共同）+ merce（贸易，商业）→ 共同进行贸易 → 商业，贸易；引申为人与人之间的交往。",
+        "similarWarning": "commence（开始）：com-（共同）+ mence（开始）→ 共同开始。commerce（商业）：com-（共同）+ merce（贸易）。",
+        "extendedMeaning": "（在考研中较少出现非字面义，但可指）社交往来，如：social commerce（社交电商）中的 commerce 仍为商业义。",
+        "examUsage": ""
+      }
+    },
+    {
+      "id": "commercial",
+      "word": "commercial",
+      "phonetic": "/kə'mə:ʃəl/",
+      "meaning": "a.商业的；商务的；可获利的 n.广告节目",
+      "similar": [
+        "commerce",
+        "commence",
+        "imperial"
+      ],
+      "question": {
+        "wordId": "commercial",
+        "stem": "选择 \"commercial\" 的正确中文意思：",
+        "correct": "a.商业的；商务的；可获利的 n.广告节目",
+        "options": [
+          "a.商业的；商务的；可获利的 n.广告节目",
+          "a.帝国的，帝王的；(度量衡)英制的",
+          "vt.开始 vi.获得学位",
+          "n.商业，贸易；交际，交往"
+        ],
+        "correctIndex": 0
+      },
+      "sla": {
+        "coreLogic": "【核心逻辑（底层记忆）】单词'commercial'的核心在于其词根'commercium'，源自拉丁语，意为'商业、贸易'。其中'com-'表示'共同、一起'，'merc-'源自'merx'，意为'商品、货物'，因此'commercium'字面意为'共同交换商品'。词根'merc-'与'mercury'（水星，罗马神话中的商业神）同源，暗示了商业活动的流动性和交换本质。后缀'-cial'将名词转化为形容词，表示'与...相关的'。因此，'commercial'的本源含义是'与共同交换商品有关的'，即'商业的、贸易的'。想象一下古罗马的广场上，商人们聚集在一起交换货物，这种共同的、有组织的交易活动就是'commerce'，而描述这种活动性质的词就是'commercial'。画面感：一个繁忙的港口，船只装载着从世界各地运来的商品，商人们用不同的语言讨价还价，这就是'commercial'活动的生动缩影。通过这一逻辑，学生可以深刻记住该词与'交换'和'共同'的关联，而非死记硬背。",
+        "similarWarning": "【避坑预警（形近/易混）】'commercial'的形近词包括'commerce'、'commence'和'imperial'。首先，'commercial'与'commerce'的区别在于后缀：'commerce'是名词，结尾是'-merce'，意为'商业、贸易'；而'commercial'是形容词，结尾是'-mercial'，意为'商业的'。拼写上，'commerce'少了字母'i'和'al'，且发音不同：'commerce'读作/'kɒmɜːrs/，重音在第一个音节；'commercial'读作/kə'mɜːrʃəl/，重音在第二个音节。其次，'commercial'与'commence'相差两个字母：'commence'以'-ence'结尾，意为'开始、着手'，而'commercial'以'-cial'结尾。'commence'的拼写中，'m'后是'e'，而'commercial'是'e'后接'r'。发音上，'commence'读作/kəˈmens/，重音在第二个音节，但结尾的's'发音为/s/，而'commercial'的'sh'发音为/ʃ/。含义上，'commerce'和'commercial'都与买卖相关，而'commence'则与起始动作相关，如'commence the meeting'（开始会议）。最后，'commercial'与'imperial'形似但本质不同：'imperial'以'-perial'结尾，意为'帝国的、皇帝的'，源于拉丁语'imperium'（帝国、统治）。拼写上，'imperial'将'com'换成了'im'，且'-ercial'变为'-erial'。发音上，'imperial'读作/ɪmˈpɪəriəl/，重音在第二个音节，而'commercial'的'cial'读作/ʃəl/。总之，记忆时可抓住关键差异：'commercial'有'merce'（商业）的影子，'commence'有'ence'（开始）的标志，而'imperial'有'per'（通过、统治）的联想。",
+        "extendedMeaning": "【高分引申（熟词僻义）】在考研真题和高级英语读物中，'commercial'除了常见的'商业的'含义外，还有以下僻义和特殊用法：1. '可获利的、以营利为目的的'，强调经济动机而非艺术或道德价值。例如，在经济学人文章中：'The film was a commercial success, but critics panned its lack of artistic depth.'（这部电影在商业上很成功，但评论家批评其缺乏艺术深度。）此时'commercial'不是简单的'商业的'，而是'赚钱的、有利可图的'。2. '广告节目'（名词），指电台或电视中插播的商业广告。例如：'The TV show was interrupted by a long commercial break for a new smartphone.'（电视节目被一则新智能手机的长时间广告插播打断。）这种用法在考研阅读中常见，需注意'commercial'作名词时的可数性。3. '批量生产的、非独创的'，用于描述文化产品缺乏个性。例如，卫报中的句子：'The gallery's new exhibition features only commercial art, aimed at mass appeal rather than innovation.'（画廊的新展览只展出商业艺术，旨在迎合大众而非创新。）4. 在经济学语境中，'commercial bank'（商业银行）与'central bank'（中央银行）相对，强调以盈利为目的的金融活动。考研真题中曾出现：'Commercial banks play a vital role in facilitating trade by providing loans.'（商业银行通过提供贷款在促进贸易中发挥关键作用。）掌握这些僻义，能帮助学生在阅读中准确理解上下文，避免误译。",
+        "examUsage": "【真题闭环（考点直击）】在考研英语中，'commercial'常以以下短语和搭配出现：1. 'commercial value'（商业价值），如真题例句：'The discovery of the ancient ruins had significant commercial value for the tourism industry.'（古代遗迹的发现对旅游业具有重要的商业价值。）2. 'commercial use'（商业用途），例如：'The product is designed for commercial use, not for personal consumption.'（该产品设计用于商业用途，而非个人消费。）3. 'commercial success'（商业成功），如考研写作中可用：'While the novel was a commercial success, it failed to win any literary awards.'（虽然这部小说在商业上很成功，但未能获得任何文学奖项。）4. 'commercial break'（广告插播），常见于听力或翻译题：'During the commercial break, viewers were encouraged to buy the new detergent.'（在广告插播期间，观众被鼓励购买新洗衣粉。）5. 高频句型：'commercial interests'（商业利益），如：'The government must balance environmental protection with commercial interests.'（政府必须平衡环境保护与商业利益。）真题例句来自2015年阅读Text 3：'The commercial pressure to produce more data has led to a decline in the quality of research.'（生产更多数据的商业压力导致研究质量下降。）另一个例句来自2018年翻译：'The commercial sector has been quick to adopt new technologies, but the public sector lags behind.'（商业部门迅速采用新技术，但公共部门落后了。）在写作中，建议学生使用'commercial'的形容词形式描述经济现象，如：'The rapid development of e-commerce has transformed the commercial landscape.'（电子商务的快速发展改变了商业格局。）通过这些真题和搭配，学生可以直接应用于考试，提升得分能力。"
+      }
+    }
+  ]
+}
