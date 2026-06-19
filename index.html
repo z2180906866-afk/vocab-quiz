@@ -260,15 +260,16 @@
           </div>
         </div>
         
-        <div v-if="batchResults.answers && wrongAnswers.length > 0" class="mt-4 bg-white rounded-lg shadow-md p-4 sm:p-6">
-          <h3 class="text-base sm:text-lg font-semibold mb-3">错题回顾</h3>
+        <div v-if="wrongAnswersList && wrongAnswersList.length > 0" class="mt-4 bg-white rounded-lg shadow-md p-4 sm:p-6">
+          <h3 class="text-base sm:text-lg font-semibold mb-3">错题回顾 ({{ wrongAnswersList.length }})</h3>
           <div class="space-y-2">
             <div 
-              v-for="answer in wrongAnswers" 
+              v-for="answer in wrongAnswersList" 
               :key="answer.wordId"
               class="p-3 bg-red-50 rounded-lg"
             >
               <span class="font-bold text-gray-800">{{ answer.word }}</span>
+              <span class="text-sm text-gray-500 ml-2">{{ answer.meaning }}</span>
             </div>
           </div>
         </div>

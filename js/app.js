@@ -40,11 +40,13 @@ function openDB() {
 // 简化的数据库操作
 async function saveToStore(storeName, data) {
   const db = await openDB();
+  // 关键：将Vue响应式对象转为纯对象，否则IndexedDB无法克隆
+  const plain = JSON.parse(JSON.stringify(data));
   return new Promise((resolve, reject) => {
     try {
       const tx = db.transaction(storeName, 'readwrite');
       const store = tx.objectStore(storeName);
-      const request = store.put(data);
+      const request = store.put(plain);
       
       request.onsuccess = () => {
         console.log('Saved to', storeName, ':', data.wordId || data.batchId);
@@ -281,31 +283,34 @@ const app = createApp({
       const currentQ = questions.value[currentQuestionIndex.value];
       const correct = index === currentQ.question.correctIndex;
       
+      // 深拷贝避免Vue响应式对象存入IndexedDB失败
+      const plainQ = JSON.parse(JSON.stringify(currentQ));
+      
       answers.value.push({
-        wordId: currentQ.id,
-        word: currentQ.word,
-        phonetic: currentQ.phonetic,
-        meaning: currentQ.meaning,
+        wordId: plainQ.id,
+        word: plainQ.word,
+        phonetic: plainQ.phonetic,
+        meaning: plainQ.meaning,
         selected: index,
-        correct: currentQ.question.correctIndex,
+        correct: plainQ.question.correctIndex,
         isCorrect: correct,
-        sla: currentQ.sla,
-        question: currentQ.question
+        sla: plainQ.sla,
+        question: plainQ.question
       });
       
       // 答错自动加入错题本
       if (!correct) {
         try {
           await saveToStore('wrongAnswers', {
-            wordId: currentQ.id,
-            word: currentQ.word,
-            phonetic: currentQ.phonetic,
-            meaning: currentQ.meaning,
-            sla: currentQ.sla,
-            question: currentQ.question,
+            wordId: plainQ.id,
+            word: plainQ.word,
+            phonetic: plainQ.phonetic,
+            meaning: plainQ.meaning,
+            sla: plainQ.sla,
+            question: plainQ.question,
             addedAt: Date.now()
           });
-          console.log('Wrong answer auto-saved:', currentQ.word);
+          console.log('Wrong answer auto-saved:', plainQ.word);
         } catch (e) {
           console.error('Error saving wrong answer:', e);
         }
@@ -376,13 +381,13 @@ const app = createApp({
         console.error('Error saving batch results:', e);
       }
       
-      // 切换到结果页面
+      // 切换到结果页面（深拷贝避免Vue响应式问题）
       phase.value = 'result';
       batchResults.value = {
         totalQuestions: totalQuestions,
         correctCount: correctCount,
         accuracy: accuracy,
-        answers: [...answers.value]
+        answers: JSON.parse(JSON.stringify(answers.value))
       };
       
       console.log('Result page ready');
@@ -413,13 +418,16 @@ const app = createApp({
       console.log('Marking as wrong:', currentQ.word);
       
       try {
+        // 深拷贝避免Vue响应式问题
+        const plainQ = JSON.parse(JSON.stringify(currentQ));
+        
         await saveToStore('wrongAnswers', {
-          wordId: currentQ.id,
-          word: currentQ.word,
-          phonetic: currentQ.phonetic,
-          meaning: currentQ.meaning,
-          sla: currentQ.sla,
-          question: currentQ.question,
+          wordId: plainQ.id,
+          word: plainQ.word,
+          phonetic: plainQ.phonetic,
+          meaning: plainQ.meaning,
+          sla: plainQ.sla,
+          question: plainQ.question,
           addedAt: Date.now()
         });
         console.log('Successfully saved to wrongAnswers');
