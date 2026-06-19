@@ -69,6 +69,82 @@ const app = createApp({
       return 'text-red-600';
     }
     
+    // IndexedDB helpers
+    const DB_NAME = 'VocabQuizDB';
+    const DB_VERSION = 1;
+    
+    function openDB() {
+      return new Promise((resolve, reject) => {
+        const request = indexedDB.open(DB_NAME, DB_VERSION);
+        request.onerror = () => reject(request.error);
+        request.onsuccess = () => resolve(request.result);
+        request.onupgradeneeded = (event) => {
+          const db = event.target.result;
+          if (!db.objectStoreNames.contains('wrongAnswers')) {
+            db.createObjectStore('wrongAnswers', { keyPath: 'wordId' });
+          }
+          if (!db.objectStoreNames.contains('stats')) {
+            db.createObjectStore('stats', { keyPath: 'key' });
+          }
+        };
+      });
+    }
+    
+    async function saveWrongAnswer(wordData) {
+      const db = await openDB();
+      const tx = db.transaction('wrongAnswers', 'readwrite');
+      const store = tx.objectStore('wrongAnswers');
+      store.put(wordData);
+      return new Promise((resolve, reject) => {
+        tx.oncomplete = resolve;
+        tx.onerror = () => reject(tx.error);
+      });
+    }
+    
+    async function getWrongAnswers() {
+      const db = await openDB();
+      const tx = db.transaction('wrongAnswers', 'readonly');
+      const store = tx.objectStore('wrongAnswers');
+      const request = store.getAll();
+      return new Promise((resolve, reject) => {
+        request.onsuccess = () => resolve(request.result);
+        request.onerror = () => reject(request.error);
+      });
+    }
+    
+    async function removeWrongAnswer(wordId) {
+      const db = await openDB();
+      const tx = db.transaction('wrongAnswers', 'readwrite');
+      const store = tx.objectStore('wrongAnswers');
+      store.delete(wordId);
+      return new Promise((resolve, reject) => {
+        tx.oncomplete = resolve;
+        tx.onerror = () => reject(tx.error);
+      });
+    }
+    
+    async function saveStats(newStats) {
+      const db = await openDB();
+      const tx = db.transaction('stats', 'readwrite');
+      const store = tx.objectStore('stats');
+      store.put({ key: 'global', ...newStats });
+      return new Promise((resolve, reject) => {
+        tx.oncomplete = resolve;
+        tx.onerror = () => reject(tx.error);
+      });
+    }
+    
+    async function loadStats() {
+      const db = await openDB();
+      const tx = db.transaction('stats', 'readonly');
+      const store = tx.objectStore('stats');
+      const request = store.get('global');
+      return new Promise((resolve, reject) => {
+        request.onsuccess = () => resolve(request.result || { totalAnswered: 0, totalCorrect: 0 });
+        request.onerror = () => reject(request.error);
+      });
+    }
+    
     async function startBatch(batchId) {
       console.log('Starting batch:', batchId);
       
@@ -95,7 +171,7 @@ const app = createApp({
       }
     }
     
-    function handleAnswer(index) {
+    async function handleAnswer(index) {
       if (answered.value) return;
       
       answered.value = true;
@@ -107,12 +183,40 @@ const app = createApp({
       answers.value.push({
         wordId: currentQ.id,
         word: currentQ.word,
+        phonetic: currentQ.phonetic,
+        meaning: currentQ.meaning,
         selected: index,
         correct: currentQ.question.correctIndex,
-        isCorrect: correct
+        isCorrect: correct,
+        sla: currentQ.sla,
+        question: currentQ.question
       });
       
-      // 震动反馈
+      // Save wrong answer to IndexedDB
+      if (!correct) {
+        await saveWrongAnswer({
+          wordId: currentQ.id,
+          word: currentQ.word,
+          phonetic: currentQ.phonetic,
+          meaning: currentQ.meaning,
+          sla: currentQ.sla,
+          question: currentQ.question,
+          wrongCount: 1,
+          lastWrong: Date.now()
+        });
+      } else {
+        // If correct, remove from wrong answers if it was there
+        await removeWrongAnswer(currentQ.id);
+      }
+      
+      // Update stats
+      const currentStats = await loadStats();
+      await saveStats({
+        totalAnswered: (currentStats.totalAnswered || 0) + 1,
+        totalCorrect: (currentStats.totalCorrect || 0) + (correct ? 1 : 0)
+      });
+      
+      // Vibration feedback
       if (navigator.vibrate) {
         navigator.vibrate(correct ? [50] : [100, 50, 100]);
       }
@@ -149,24 +253,70 @@ const app = createApp({
       questions.value = [];
       answers.value = [];
       currentQuestion.value = null;
+      loadGlobalStats();
     }
     
     function retryBatch() {
       startBatch(currentBatchId.value);
     }
     
-    function startReview() {
-      alert('错题强化功能开发中...');
+    async function startReview() {
+      try {
+        const wrongWords = await getWrongAnswers();
+        
+        if (wrongWords.length === 0) {
+          alert('没有错题需要复习！继续加油！');
+          return;
+        }
+        
+        // Shuffle and take up to 20 wrong words
+        const reviewWords = shuffleArray(wrongWords).slice(0, 20).map(w => ({
+          id: w.wordId,
+          word: w.word,
+          phonetic: w.phonetic,
+          meaning: w.meaning,
+          sla: w.sla,
+          question: w.question
+        }));
+        
+        phase.value = 'quiz';
+        currentBatchId.value = 'review';
+        currentQuestionIndex.value = 0;
+        questions.value = reviewWords;
+        answers.value = [];
+        answered.value = false;
+        selectedIndex.value = -1;
+        activeTab.value = 'core';
+        currentQuestion.value = questions.value[0];
+        
+        console.log('Review started, questions:', questions.value.length);
+      } catch (error) {
+        console.error('Error starting review:', error);
+        alert('加载错题失败：' + error.message);
+      }
     }
     
-    function resetProgress() {
-      if (confirm('确定要重置所有学习进度吗？')) {
+    async function resetProgress() {
+      if (confirm('确定要重置所有学习进度和错题记录吗？此操作不可撤销！')) {
+        const db = await openDB();
+        const tx1 = db.transaction('wrongAnswers', 'readwrite');
+        tx1.objectStore('wrongAnswers').clear();
+        const tx2 = db.transaction('stats', 'readwrite');
+        tx2.objectStore('stats').clear();
+        
+        stats.value = { totalAnswered: 0, totalCorrect: 0 };
         alert('进度已重置！');
       }
     }
     
+    async function loadGlobalStats() {
+      const s = await loadStats();
+      stats.value = s;
+    }
+    
     onMounted(() => {
       console.log('App mounted');
+      loadGlobalStats();
     });
     
     return {
