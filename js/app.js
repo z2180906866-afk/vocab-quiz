@@ -1,82 +1,139 @@
 const { createApp, ref, computed, onMounted } = Vue;
 
-// ============ IndexedDB 单例 ============
-let dbInstance = null;
+// ============ IndexedDB 简化封装 ============
+const DB_NAME = 'VocabQuizDB';
 
-function getDB() {
-  if (dbInstance) return Promise.resolve(dbInstance);
-  
+function openDB() {
   return new Promise((resolve, reject) => {
-    const request = indexedDB.open('VocabQuizDB', 2);
+    const request = indexedDB.open(DB_NAME, 3);
     
     request.onupgradeneeded = (e) => {
       const db = e.target.result;
-      console.log('DB upgrade needed');
-      if (!db.objectStoreNames.contains('wrongAnswers')) {
-        db.createObjectStore('wrongAnswers', { keyPath: 'wordId' });
-        console.log('Created wrongAnswers store');
+      console.log('DB upgrade to version', db.version);
+      
+      // 删除旧的store如果存在
+      if (db.objectStoreNames.contains('wrongAnswers')) {
+        db.deleteObjectStore('wrongAnswers');
       }
-      if (!db.objectStoreNames.contains('batchProgress')) {
-        db.createObjectStore('batchProgress', { keyPath: 'batchId' });
-        console.log('Created batchProgress store');
+      if (db.objectStoreNames.contains('batchProgress')) {
+        db.deleteObjectStore('batchProgress');
       }
+      
+      // 创建新的store
+      db.createObjectStore('wrongAnswers', { keyPath: 'wordId' });
+      db.createObjectStore('batchProgress', { keyPath: 'batchId' });
+      console.log('DB stores created');
     };
     
     request.onsuccess = (e) => {
-      dbInstance = e.target.result;
       console.log('DB opened successfully');
-      resolve(dbInstance);
+      resolve(e.target.result);
     };
     
     request.onerror = (e) => {
-      console.error('DB open error:', e.target.error);
+      console.error('DB open failed:', e.target.error);
       reject(e.target.error);
     };
   });
 }
 
-async function dbPut(storeName, data) {
-  const db = await getDB();
+// 简化的数据库操作
+async function saveToStore(storeName, data) {
+  const db = await openDB();
   return new Promise((resolve, reject) => {
-    const tx = db.transaction(storeName, 'readwrite');
-    const store = tx.objectStore(storeName);
-    const req = store.put(data);
-    req.onsuccess = () => resolve(req.result);
-    req.onerror = () => reject(req.error);
-    tx.onerror = () => reject(tx.error);
+    try {
+      const tx = db.transaction(storeName, 'readwrite');
+      const store = tx.objectStore(storeName);
+      const request = store.put(data);
+      
+      request.onsuccess = () => {
+        console.log('Saved to', storeName, ':', data.wordId || data.batchId);
+        resolve(true);
+      };
+      
+      request.onerror = (e) => {
+        console.error('Save error:', e.target.error);
+        reject(e.target.error);
+      };
+      
+      tx.oncomplete = () => console.log('Transaction completed');
+      tx.onerror = (e) => console.error('Transaction error:', e.target.error);
+    } catch (err) {
+      console.error('Transaction creation failed:', err);
+      reject(err);
+    }
   });
 }
 
-async function dbGetAll(storeName) {
-  const db = await getDB();
+async function getAllFromStore(storeName) {
+  const db = await openDB();
   return new Promise((resolve, reject) => {
-    const tx = db.transaction(storeName, 'readonly');
-    const store = tx.objectStore(storeName);
-    const req = store.getAll();
-    req.onsuccess = () => resolve(req.result);
-    req.onerror = () => reject(req.error);
+    try {
+      const tx = db.transaction(storeName, 'readonly');
+      const store = tx.objectStore(storeName);
+      const request = store.getAll();
+      
+      request.onsuccess = () => {
+        console.log('Got', request.result.length, 'items from', storeName);
+        resolve(request.result);
+      };
+      
+      request.onerror = (e) => {
+        console.error('GetAll error:', e.target.error);
+        reject(e.target.error);
+      };
+    } catch (err) {
+      console.error('GetAll transaction failed:', err);
+      reject(err);
+    }
   });
 }
 
-async function dbDelete(storeName, key) {
-  const db = await getDB();
+async function getFromStore(storeName, key) {
+  const db = await openDB();
   return new Promise((resolve, reject) => {
-    const tx = db.transaction(storeName, 'readwrite');
-    const store = tx.objectStore(storeName);
-    const req = store.delete(key);
-    req.onsuccess = () => resolve();
-    req.onerror = () => reject(req.error);
+    try {
+      const tx = db.transaction(storeName, 'readonly');
+      const store = tx.objectStore(storeName);
+      const request = store.get(key);
+      
+      request.onsuccess = () => resolve(request.result);
+      request.onerror = (e) => reject(e.target.error);
+    } catch (err) {
+      reject(err);
+    }
   });
 }
 
-async function dbGet(storeName, key) {
-  const db = await getDB();
+async function deleteFromStore(storeName, key) {
+  const db = await openDB();
   return new Promise((resolve, reject) => {
-    const tx = db.transaction(storeName, 'readonly');
-    const store = tx.objectStore(storeName);
-    const req = store.get(key);
-    req.onsuccess = () => resolve(req.result);
-    req.onerror = () => reject(req.error);
+    try {
+      const tx = db.transaction(storeName, 'readwrite');
+      const store = tx.objectStore(storeName);
+      const request = store.delete(key);
+      
+      request.onsuccess = () => resolve(true);
+      request.onerror = (e) => reject(e.target.error);
+    } catch (err) {
+      reject(err);
+    }
+  });
+}
+
+async function clearStore(storeName) {
+  const db = await openDB();
+  return new Promise((resolve, reject) => {
+    try {
+      const tx = db.transaction(storeName, 'readwrite');
+      const store = tx.objectStore(storeName);
+      const request = store.clear();
+      
+      request.onsuccess = () => resolve(true);
+      request.onerror = (e) => reject(e.target.error);
+    } catch (err) {
+      reject(err);
+    }
   });
 }
 
@@ -160,26 +217,29 @@ const app = createApp({
     
     // ============ 主页数据加载 ============
     async function loadMainPageData() {
-      console.log('Loading main page data...');
+      console.log('=== Loading main page data ===');
       
       try {
-        // 加载错题数量
-        const wrongWords = await dbGetAll('wrongAnswers');
+        // 加载错题
+        const wrongWords = await getAllFromStore('wrongAnswers');
         wrongCount.value = wrongWords.length;
-        console.log('Wrong answers loaded:', wrongWords.length);
+        console.log('Wrong answers count:', wrongWords.length);
         
-        // 加载统计数据
-        const savedStats = await dbGet('batchProgress', '__global_stats__');
+        // 加载统计
+        const savedStats = await getFromStore('batchProgress', '__global__');
+        console.log('Loaded stats:', savedStats);
+        
         if (savedStats) {
           stats.value = {
             totalAnswered: savedStats.totalAnswered || 0,
             totalCorrect: savedStats.totalCorrect || 0
           };
-          console.log('Stats loaded:', stats.value);
         } else {
           stats.value = { totalAnswered: 0, totalCorrect: 0 };
-          console.log('No stats found, using defaults');
         }
+        
+        console.log('Stats:', stats.value);
+        console.log('Wrong count:', wrongCount.value);
       } catch (error) {
         console.error('Error loading main page data:', error);
       }
@@ -236,17 +296,16 @@ const app = createApp({
       // 答错自动加入错题本
       if (!correct) {
         try {
-          await dbPut('wrongAnswers', {
+          await saveToStore('wrongAnswers', {
             wordId: currentQ.id,
             word: currentQ.word,
             phonetic: currentQ.phonetic,
             meaning: currentQ.meaning,
             sla: currentQ.sla,
             question: currentQ.question,
-            addedAt: Date.now(),
-            source: 'auto'
+            addedAt: Date.now()
           });
-          console.log('Wrong answer saved:', currentQ.word);
+          console.log('Wrong answer auto-saved:', currentQ.word);
         } catch (e) {
           console.error('Error saving wrong answer:', e);
         }
@@ -271,40 +330,62 @@ const app = createApp({
     }
     
     async function finishBatch() {
-      const correctCount = answers.value.filter(a => a.isCorrect).length;
-      const accuracy = correctCount / answers.value.length;
+      console.log('=== Finishing batch ===');
       
-      // 保存批次统计到IndexedDB
+      const correctCount = answers.value.filter(a => a.isCorrect).length;
+      const totalQuestions = answers.value.length;
+      const accuracy = totalQuestions > 0 ? correctCount / totalQuestions : 0;
+      
+      console.log('Correct:', correctCount, 'Total:', totalQuestions, 'Accuracy:', accuracy);
+      
+      // 保存统计到IndexedDB
       try {
-        // 更新全局统计
-        const existingStats = await dbGet('batchProgress', '__global_stats__');
+        const existingStats = await getFromStore('batchProgress', '__global__');
+        console.log('Existing stats:', existingStats);
+        
         const newStats = {
-          batchId: '__global_stats__',
-          totalAnswered: (existingStats?.totalAnswered || 0) + answers.value.length,
+          batchId: '__global__',
+          totalAnswered: (existingStats?.totalAnswered || 0) + totalQuestions,
           totalCorrect: (existingStats?.totalCorrect || 0) + correctCount
         };
-        await dbPut('batchProgress', newStats);
+        
+        await saveToStore('batchProgress', newStats);
         console.log('Global stats saved:', newStats);
         
+        // 更新本地stats
+        stats.value = {
+          totalAnswered: newStats.totalAnswered,
+          totalCorrect: newStats.totalCorrect
+        };
+        
         // 保存批次进度
-        await dbPut('batchProgress', {
-          batchId: currentBatchId.value,
+        await saveToStore('batchProgress', {
+          batchId: String(currentBatchId.value),
           completed: true,
           accuracy: accuracy,
           completedAt: Date.now()
         });
-        console.log('Batch progress saved:', currentBatchId.value);
+        console.log('Batch progress saved');
+        
+        // 重新加载错题数
+        const wrongWords = await getAllFromStore('wrongAnswers');
+        wrongCount.value = wrongWords.length;
+        console.log('Updated wrong count:', wrongCount.value);
+        
       } catch (e) {
         console.error('Error saving batch results:', e);
       }
       
+      // 切换到结果页面
       phase.value = 'result';
       batchResults.value = {
-        totalQuestions: questions.value.length,
-        correctCount,
-        accuracy,
-        answers: answers.value
+        totalQuestions: totalQuestions,
+        correctCount: correctCount,
+        accuracy: accuracy,
+        answers: [...answers.value]
       };
+      
+      console.log('Result page ready');
     }
     
     function backToSelect() {
@@ -313,6 +394,7 @@ const app = createApp({
       questions.value = [];
       answers.value = [];
       currentQuestion.value = null;
+      batchResults.value = null;
       // 重新加载主页数据
       loadMainPageData();
     }
@@ -322,32 +404,37 @@ const app = createApp({
     }
     
     async function markAsWrong() {
-      if (!currentQuestion.value) return;
+      if (!currentQuestion.value) {
+        alert('当前没有题目');
+        return;
+      }
       
       const currentQ = currentQuestion.value;
+      console.log('Marking as wrong:', currentQ.word);
       
       try {
-        await dbPut('wrongAnswers', {
+        await saveToStore('wrongAnswers', {
           wordId: currentQ.id,
           word: currentQ.word,
           phonetic: currentQ.phonetic,
           meaning: currentQ.meaning,
           sla: currentQ.sla,
           question: currentQ.question,
-          addedAt: Date.now(),
-          source: 'manual'
+          addedAt: Date.now()
         });
-        console.log('Manually marked as wrong:', currentQ.word);
-        alert('✅ 已加入错题本！');
+        console.log('Successfully saved to wrongAnswers');
+        alert('已加入错题本！');
       } catch (e) {
-        console.error('Error marking as wrong:', e);
-        alert('加入失败，请重试');
+        console.error('Error in markAsWrong:', e);
+        alert('加入失败：' + e.message);
       }
     }
     
     async function startReview() {
+      console.log('=== Starting review ===');
+      
       try {
-        const wrongWords = await dbGetAll('wrongAnswers');
+        const wrongWords = await getAllFromStore('wrongAnswers');
         console.log('Wrong words for review:', wrongWords.length);
         
         if (wrongWords.length === 0) {
@@ -384,21 +471,12 @@ const app = createApp({
     async function resetProgress() {
       if (confirm('确定要重置所有学习进度和错题本吗？此操作不可撤销！')) {
         try {
-          const db = await getDB();
-          const tx1 = db.transaction('wrongAnswers', 'readwrite');
-          tx1.objectStore('wrongAnswers').clear();
-          const tx2 = db.transaction('batchProgress', 'readwrite');
-          tx2.objectStore('batchProgress').clear();
-          
-          // 等待事务完成
-          await new Promise((resolve, reject) => {
-            tx2.oncomplete = resolve;
-            tx2.onerror = reject;
-          });
+          await clearStore('wrongAnswers');
+          await clearStore('batchProgress');
           
           stats.value = { totalAnswered: 0, totalCorrect: 0 };
           wrongCount.value = 0;
-          alert('✅ 已重置所有数据！');
+          alert('已重置所有数据！');
         } catch (e) {
           console.error('Error resetting:', e);
           alert('重置失败：' + e.message);
@@ -408,7 +486,7 @@ const app = createApp({
     
     // ============ 生命周期 ============
     onMounted(async () => {
-      console.log('App mounted');
+      console.log('=== App mounted ===');
       await loadMainPageData();
     });
     
