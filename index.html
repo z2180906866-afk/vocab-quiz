@@ -8,6 +8,21 @@
   <script src="https://registry.npmmirror.com/vue/3.4.27/files/dist/vue.global.prod.js"></script>
   <script src="https://registry.npmmirror.com/dexie/3.2.7/files/dist/dexie.js"></script>
   <link rel="stylesheet" href="css/animations.css">
+  <style>
+    /* 英文使用新罗马体 */
+    .font-serif-en {
+      font-family: 'Times New Roman', Times, serif;
+    }
+    /* 单词显示区使用新罗马体 */
+    .word-display {
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: bold;
+    }
+    /* 音标使用新罗马体 */
+    .phonetic {
+      font-family: 'Times New Roman', Times, serif;
+    }
+  </style>
   <script>
     tailwind.config = {
       theme: {
@@ -109,10 +124,10 @@
         <!-- 题目卡片 -->
         <div class="bg-white rounded-lg shadow-md p-4 sm:p-6 animate-fade-in">
           <div class="text-center mb-6">
-            <div class="text-2xl sm:text-3xl font-bold text-gray-800 mb-2">
+            <div class="text-2xl sm:text-3xl font-bold text-gray-800 mb-2 word-display">
               {{ currentQuestion.word }}
             </div>
-            <div class="text-base sm:text-lg text-gray-500">
+            <div class="text-base sm:text-lg text-gray-500 phonetic">
               {{ currentQuestion.phonetic }}
             </div>
           </div>
