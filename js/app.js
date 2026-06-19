@@ -260,6 +260,27 @@ const app = createApp({
       startBatch(currentBatchId.value);
     }
     
+    async function markAsWrong() {
+      if (!currentQuestion.value) return;
+      
+      const currentQ = currentQuestion.value;
+      
+      // Save to wrong answers
+      await saveWrongAnswer({
+        wordId: currentQ.id,
+        word: currentQ.word,
+        phonetic: currentQ.phonetic,
+        meaning: currentQ.meaning,
+        sla: currentQ.sla,
+        question: currentQ.question,
+        wrongCount: 1,
+        lastWrong: Date.now(),
+        manualMark: true
+      });
+      
+      alert('已加入错题本！');
+    }
+    
     async function startReview() {
       try {
         const wrongWords = await getWrongAnswers();
@@ -344,6 +365,7 @@ const app = createApp({
       nextQuestion,
       backToSelect,
       retryBatch,
+      markAsWrong,
       startReview,
       resetProgress
     };

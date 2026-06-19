@@ -107,6 +107,19 @@
       
       <!-- 答题界面 -->
       <div v-if="phase === 'quiz' && currentQuestion">
+        <!-- 顶部导航 -->
+        <div class="flex justify-between items-center mb-4">
+          <button
+            @click="backToSelect"
+            class="px-4 py-2 bg-gray-500 text-white rounded-lg hover:bg-gray-600 transition touch-target text-sm"
+          >
+            ← 返回选择
+          </button>
+          <span class="text-sm text-gray-500">
+            {{ currentBatchId === 'review' ? '错题复习' : '批次 ' + currentBatchId }}
+          </span>
+        </div>
+
         <!-- 进度条 -->
         <div class="bg-white rounded-lg shadow-sm p-3 mb-4">
           <div class="flex justify-between items-center mb-2">
@@ -201,12 +214,18 @@
         </div>
         
         <!-- 下一题按钮 -->
-        <div v-if="answered" class="mt-4 text-center">
+        <div v-if="answered" class="mt-4 flex gap-3">
+          <button
+            @click="markAsWrong"
+            class="flex-1 px-4 py-3 bg-orange-500 text-white rounded-lg hover:bg-orange-600 transition touch-target text-sm sm:text-base"
+          >
+            📌 我记错了
+          </button>
           <button
             @click="nextQuestion"
-            class="w-full sm:w-auto px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition touch-target text-base sm:text-lg"
+            class="flex-1 px-4 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition touch-target text-sm sm:text-base"
           >
-            {{ currentQuestionIndex < questions.length - 1 ? '下一题' : '查看结果' }}
+            {{ currentQuestionIndex < questions.length - 1 ? '下一题 →' : '查看结果' }}
           </button>
         </div>
       </div>
