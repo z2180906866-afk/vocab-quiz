@@ -78,7 +78,7 @@
               @click="startReview"
               class="flex-1 sm:flex-none px-4 py-3 bg-yellow-500 text-white rounded-lg hover:bg-yellow-600 transition touch-target text-sm sm:text-base"
             >
-              错题强化
+              错题强化 ({{ wrongCount }})
             </button>
             <button
               @click="resetProgress"
@@ -90,16 +90,20 @@
         </div>
         
         <!-- 学习统计 -->
-        <div v-if="stats" class="mt-4 bg-white rounded-lg shadow-md p-4 sm:p-6">
+        <div class="mt-4 bg-white rounded-lg shadow-md p-4 sm:p-6">
           <h3 class="text-base sm:text-lg font-semibold mb-3">学习统计</h3>
-          <div class="grid grid-cols-2 gap-3 sm:gap-4">
+          <div class="grid grid-cols-3 gap-3 sm:gap-4">
             <div class="text-center p-3 bg-blue-50 rounded-lg">
-              <div class="text-xl sm:text-2xl font-bold text-blue-600">{{ stats.totalWords }}</div>
-              <div class="text-xs sm:text-sm text-gray-600">已学习</div>
+              <div class="text-xl sm:text-2xl font-bold text-blue-600">{{ stats.totalAnswered }}</div>
+              <div class="text-xs sm:text-sm text-gray-600">已答题</div>
             </div>
             <div class="text-center p-3 bg-green-50 rounded-lg">
-              <div class="text-xl sm:text-2xl font-bold text-green-600">{{ formatAccuracy(stats.accuracy) }}</div>
+              <div class="text-xl sm:text-2xl font-bold text-green-600">{{ accuracyDisplay }}</div>
               <div class="text-xs sm:text-sm text-gray-600">正确率</div>
+            </div>
+            <div class="text-center p-3 bg-red-50 rounded-lg">
+              <div class="text-xl sm:text-2xl font-bold text-red-600">{{ wrongCount }}</div>
+              <div class="text-xs sm:text-sm text-gray-600">错题数</div>
             </div>
           </div>
         </div>
