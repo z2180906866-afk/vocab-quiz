@@ -492,6 +492,133 @@ const app = createApp({
       }
     }
     
+    // ============ 数据导出/导入 ============
+    async function exportData() {
+      try {
+        const wrongAnswers = await getAllFromStore('wrongAnswers');
+        const batchProgress = await getAllFromStore('batchProgress');
+        
+        const exportObj = {
+          exportDate: new Date().toISOString(),
+          wrongAnswers: wrongAnswers,
+          batchProgress: batchProgress
+        };
+        
+        const blob = new Blob([JSON.stringify(exportObj, null, 2)], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `vocab-quiz-backup-${new Date().toISOString().slice(0,10)}.json`;
+        a.click();
+        URL.revokeObjectURL(url);
+        
+        alert('数据已导出！');
+      } catch (e) {
+        console.error('Export error:', e);
+        alert('导出失败：' + e.message);
+      }
+    }
+    
+    async function importData(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+      
+      try {
+        const text = await file.text();
+        const importObj = JSON.parse(text);
+        
+        if (!importObj.wrongAnswers || !importObj.batchProgress) {
+          throw new Error('无效的备份文件');
+        }
+        
+        // 清除现有数据
+        await clearStore('wrongAnswers');
+        await clearStore('batchProgress');
+        
+        // 导入错题
+        for (const item of importObj.wrongAnswers) {
+          await saveToStore('wrongAnswers', item);
+        }
+        
+        // 导入进度
+        for (const item of importObj.batchProgress) {
+          await saveToStore('batchProgress', item);
+        }
+        
+        // 刷新页面数据
+        await loadMainPageData();
+        
+        alert(`导入成功！错题：${importObj.wrongAnswers.length}条，进度已恢复。`);
+      } catch (e) {
+        console.error('Import error:', e);
+        alert('导入失败：' + e.message);
+      }
+    }
+    
+    // ============ 数据导出/导入 ============
+    async function exportData() {
+      try {
+        const wrongAnswers = await getAllFromStore('wrongAnswers');
+        const batchProgress = await getAllFromStore('batchProgress');
+        
+        const data = {
+          exportDate: new Date().toISOString(),
+          wrongAnswers,
+          batchProgress
+        };
+        
+        const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `vocab-quiz-backup-${new Date().toISOString().slice(0,10)}.json`;
+        a.click();
+        URL.revokeObjectURL(url);
+        
+        alert('数据已导出！');
+      } catch (e) {
+        console.error('Export error:', e);
+        alert('导出失败：' + e.message);
+      }
+    }
+    
+    async function importData(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+      
+      try {
+        const text = await file.text();
+        const data = JSON.parse(text);
+        
+        if (!data.wrongAnswers || !data.batchProgress) {
+          alert('文件格式错误！');
+          return;
+        }
+        
+        // 清空现有数据
+        await clearStore('wrongAnswers');
+        await clearStore('batchProgress');
+        
+        // 导入错题
+        for (const item of data.wrongAnswers) {
+          await saveToStore('wrongAnswers', item);
+        }
+        
+        // 导入进度
+        for (const item of data.batchProgress) {
+          await saveToStore('batchProgress', item);
+        }
+        
+        // 刷新页面数据
+        await loadMainPageData();
+        
+        alert(`导入成功！错题：${data.wrongAnswers.length}条，进度：${data.batchProgress.length}条`);
+      } catch (e) {
+        console.error('Import error:', e);
+        alert('导入失败：' + e.message);
+      }
+    }
+    
     // ============ 生命周期 ============
     onMounted(async () => {
       console.log('=== App mounted ===');
@@ -527,7 +654,9 @@ const app = createApp({
       retryBatch,
       markAsWrong,
       startReview,
-      resetProgress
+      resetProgress,
+      exportData,
+      importData
     };
   }
 });
